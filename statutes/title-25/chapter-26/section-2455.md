@@ -3,9 +3,9 @@ title: "Section 2455 - Law enforcement and judicial report"
 usc_title: 25
 usc_section: "2455"
 chapter: 26
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 2455"
-generated_at: "2026-03-29T23:04:57.145Z"
+generated_at: "2026-03-29T23:08:56.331Z"
 ---
 
 # § 2455. Law enforcement and judicial report

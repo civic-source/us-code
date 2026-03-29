@@ -3,9 +3,9 @@ title: "Section 707 - Sumner Dam and Lake Sumner; declaration of purpose; report
 usc_title: 33
 usc_section: "707"
 chapter: 15
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 707"
-generated_at: "2026-03-29T23:06:21.414Z"
+generated_at: "2026-03-29T23:09:14.112Z"
 ---
 
 # § 707. Sumner Dam and Lake Sumner; declaration of purpose; report to Congress; appropriation

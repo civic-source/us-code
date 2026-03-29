@@ -3,9 +3,9 @@ title: "Section 471 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 16
 usc_section: "471"
 chapter: 2
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 471"
-generated_at: "2026-03-29T23:04:44.066Z"
+generated_at: "2026-03-29T23:08:52.451Z"
 ---
 
 # § 471. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

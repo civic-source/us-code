@@ -3,9 +3,9 @@ title: "Section 109 - Additional lands"
 usc_title: 16
 usc_section: "109"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 109"
-generated_at: "2026-03-29T23:04:43.883Z"
+generated_at: "2026-03-29T23:08:52.370Z"
 ---
 
 # § 109. Additional lands

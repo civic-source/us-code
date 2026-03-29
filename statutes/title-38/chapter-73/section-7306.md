@@ -3,9 +3,9 @@ title: "Section 7306 - Office of the Under Secretary for Health"
 usc_title: 38
 usc_section: "7306"
 chapter: 73
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 7306"
-generated_at: "2026-03-29T23:06:35.190Z"
+generated_at: "2026-03-29T23:09:35.088Z"
 ---
 
 # § 7306. Office of the Under Secretary for Health

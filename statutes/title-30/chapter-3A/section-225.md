@@ -3,9 +3,9 @@ title: "Section 225 - Condition of lease, forfeiture for violation"
 usc_title: 30
 usc_section: "225"
 chapter: 3
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "30 U.S.C. § 225"
-generated_at: "2026-03-29T23:05:38.455Z"
+generated_at: "2026-03-29T23:09:02.975Z"
 ---
 
 # § 225. Condition of lease, forfeiture for violation

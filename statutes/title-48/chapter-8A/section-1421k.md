@@ -3,9 +3,9 @@ title: "Section 1421k - Designation of naval or military reservations; closed po
 usc_title: 48
 usc_section: "1421k"
 chapter: 8
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "48 U.S.C. § 1421k"
-generated_at: "2026-03-29T23:07:16.351Z"
+generated_at: "2026-03-29T23:10:06.512Z"
 ---
 
 # § 1421k. Designation of naval or military reservations; closed port

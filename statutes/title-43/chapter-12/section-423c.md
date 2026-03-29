@@ -3,9 +3,9 @@ title: "Section 423c - Exchange of unpatented entries; entries, farms or private
 usc_title: 43
 usc_section: "423c"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 423c"
-generated_at: "2026-03-29T23:06:40.121Z"
+generated_at: "2026-03-29T23:09:37.793Z"
 ---
 
 # § 423c. Exchange of unpatented entries; entries, farms or private lands, eliminated from project; rights not assignable; rights of lienholders; preference to ex-service men

@@ -3,9 +3,9 @@ title: "Section 6603 - Conservation assistance"
 usc_title: 16
 usc_section: "6603"
 chapter: 85
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 6603"
-generated_at: "2026-03-29T23:04:44.368Z"
+generated_at: "2026-03-29T23:08:52.586Z"
 ---
 
 # § 6603. Conservation assistance

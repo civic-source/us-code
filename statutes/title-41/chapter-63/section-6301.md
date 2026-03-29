@@ -3,9 +3,9 @@ title: "Section 6301 - Authorization requirement"
 usc_title: 41
 usc_section: "6301"
 chapter: 63
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "41 U.S.C. § 6301"
-generated_at: "2026-03-29T23:06:50.036Z"
+generated_at: "2026-03-29T23:09:38.360Z"
 ---
 
 # § 6301. Authorization requirement

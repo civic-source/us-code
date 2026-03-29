@@ -3,9 +3,9 @@ title: "Section 831cc - Separability"
 usc_title: 16
 usc_section: "831cc"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 831cc"
-generated_at: "2026-03-29T23:04:44.172Z"
+generated_at: "2026-03-29T23:08:52.497Z"
 ---
 
 # § 831cc. Separability

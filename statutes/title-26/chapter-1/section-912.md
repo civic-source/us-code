@@ -3,9 +3,9 @@ title: "Section 912 - Exemption for certain allowances"
 usc_title: 26
 usc_section: "912"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 912"
-generated_at: "2026-03-29T23:06:05.026Z"
+generated_at: "2026-03-29T23:09:10.613Z"
 ---
 
 # § 912. Exemption for certain allowances

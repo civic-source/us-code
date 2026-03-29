@@ -3,9 +3,9 @@ title: "Section 7j - Accountability requirements for facilities"
 usc_title: 42
 usc_section: "7j"
 chapter: 7
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 7j"
-generated_at: "2026-03-29T23:07:10.763Z"
+generated_at: "2026-03-29T23:10:02.269Z"
 ---
 
 # § 1320a–7j. Accountability requirements for facilities

@@ -3,9 +3,9 @@ title: "Section 17232 - Better energy storage technology"
 usc_title: 42
 usc_section: "17232"
 chapter: 152
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 17232"
-generated_at: "2026-03-29T23:07:11.934Z"
+generated_at: "2026-03-29T23:10:02.751Z"
 ---
 
 # § 17232. Better energy storage technology

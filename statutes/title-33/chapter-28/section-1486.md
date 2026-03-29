@@ -3,9 +3,9 @@ title: "Section 1486 - Oil Spill Liability Trust Fund"
 usc_title: 33
 usc_section: "1486"
 chapter: 28
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 1486"
-generated_at: "2026-03-29T23:06:21.480Z"
+generated_at: "2026-03-29T23:09:14.143Z"
 ---
 
 # § 1486. Oil Spill Liability Trust Fund

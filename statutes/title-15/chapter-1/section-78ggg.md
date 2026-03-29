@@ -3,9 +3,9 @@ title: "Section 78ggg - SEC functions"
 usc_title: 15
 usc_section: "78ggg"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "15 U.S.C. § 78ggg"
-generated_at: "2026-03-29T23:04:11.509Z"
+generated_at: "2026-03-29T23:08:43.311Z"
 ---
 
 # § 78ggg. SEC functions

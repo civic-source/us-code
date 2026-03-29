@@ -3,9 +3,9 @@ title: "Section 3132 - Cooperation of Federal agencies"
 usc_title: 42
 usc_section: "3132"
 chapter: 38
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 3132"
-generated_at: "2026-03-29T23:07:11.264Z"
+generated_at: "2026-03-29T23:10:02.489Z"
 ---
 
 # § 3132. Cooperation of Federal agencies

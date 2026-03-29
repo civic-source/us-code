@@ -3,9 +3,9 @@ title: "Section 583k - Findings"
 usc_title: 16
 usc_section: "583k"
 chapter: 3
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 583k"
-generated_at: "2026-03-29T23:04:44.101Z"
+generated_at: "2026-03-29T23:08:52.468Z"
 ---
 
 # § 583k. Findings

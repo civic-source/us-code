@@ -3,9 +3,9 @@ title: "Section 1725A - Access to walk-in care"
 usc_title: 38
 usc_section: "1725A"
 chapter: 17
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 1725A"
-generated_at: "2026-03-29T23:06:35.119Z"
+generated_at: "2026-03-29T23:09:35.050Z"
 ---
 
 # § 1725A. Access to walk-in care

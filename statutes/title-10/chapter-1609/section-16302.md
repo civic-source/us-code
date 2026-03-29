@@ -3,9 +3,9 @@ title: "Section 16302 - Education loan repayment program: health professions off
 usc_title: 10
 usc_section: "16302"
 chapter: 1609
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 16302"
-generated_at: "2026-03-29T23:03:47.066Z"
+generated_at: "2026-03-29T23:08:22.986Z"
 ---
 
 # § 16302. Education loan repayment program: health professions officers serving in Selected Reserve with wartime critical medical skill shortages

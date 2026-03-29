@@ -3,9 +3,9 @@ title: "Section 303 - Dual compensation"
 usc_title: 2
 usc_section: "303"
 chapter: 10
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 303"
-generated_at: "2026-03-29T23:02:31.098Z"
+generated_at: "2026-03-29T23:08:07.165Z"
 ---
 
 # § 303. Dual compensation

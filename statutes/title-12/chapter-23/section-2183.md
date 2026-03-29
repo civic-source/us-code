@@ -3,9 +3,9 @@ title: "Section 2183 - Dissolution; voluntary or involuntary liquidation; merger
 usc_title: 12
 usc_section: "2183"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 2183"
-generated_at: "2026-03-29T23:04:21.355Z"
+generated_at: "2026-03-29T23:08:40.477Z"
 ---
 
 # § 2183. Dissolution; voluntary or involuntary liquidation; mergers; receiverships or conservators

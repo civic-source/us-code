@@ -3,9 +3,9 @@ title: "Section 291 - Circuit judges"
 usc_title: 28
 usc_section: "291"
 chapter: 13
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "28 U.S.C. § 291"
-generated_at: "2026-03-29T23:05:50.099Z"
+generated_at: "2026-03-29T23:09:03.729Z"
 ---
 
 # § 291. Circuit judges

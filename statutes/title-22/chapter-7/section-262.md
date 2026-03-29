@@ -3,9 +3,9 @@ title: "Section 262 - President’s participation in international congresses re
 usc_title: 22
 usc_section: "262"
 chapter: 7
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 262"
-generated_at: "2026-03-29T23:04:55.008Z"
+generated_at: "2026-03-29T23:09:00.327Z"
 ---
 
 # § 262. President’s participation in international congresses restricted

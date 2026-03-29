@@ -3,9 +3,9 @@ title: "Section 5158 - Protection of striped bass in the exclusive economic zone
 usc_title: 16
 usc_section: "5158"
 chapter: 71
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 5158"
-generated_at: "2026-03-29T23:04:44.350Z"
+generated_at: "2026-03-29T23:08:52.577Z"
 ---
 
 # § 5158. Protection of striped bass in the exclusive economic zone

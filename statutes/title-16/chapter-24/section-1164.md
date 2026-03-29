@@ -3,9 +3,9 @@ title: "Section 1164 - Responsibility of Secretary of Health and Human Services 
 usc_title: 16
 usc_section: "1164"
 chapter: 24
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1164"
-generated_at: "2026-03-29T23:04:44.200Z"
+generated_at: "2026-03-29T23:08:52.509Z"
 ---
 
 # § 1164. Responsibility of Secretary of Health and Human Services to provide medical and dental care to Pribilof Islands natives

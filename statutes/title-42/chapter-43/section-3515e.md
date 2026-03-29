@@ -3,9 +3,9 @@ title: "Section 3515e - Transfer of functions regarding independent living to De
 usc_title: 42
 usc_section: "3515e"
 chapter: 43
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 3515e"
-generated_at: "2026-03-29T23:07:11.274Z"
+generated_at: "2026-03-29T23:10:02.493Z"
 ---
 
 # § 3515e. Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions

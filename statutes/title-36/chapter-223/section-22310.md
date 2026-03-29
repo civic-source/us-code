@@ -3,9 +3,9 @@ title: "Section 22310 - Service of process"
 usc_title: 36
 usc_section: "22310"
 chapter: 223
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "36 U.S.C. § 22310"
-generated_at: "2026-03-29T23:06:36.569Z"
+generated_at: "2026-03-29T23:09:24.144Z"
 ---
 
 # § 22310. Service of process

@@ -3,9 +3,9 @@ title: "Section 17388 - Advisory committee"
 usc_title: 42
 usc_section: "17388"
 chapter: 152
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 17388"
-generated_at: "2026-03-29T23:07:11.947Z"
+generated_at: "2026-03-29T23:10:02.756Z"
 ---
 
 # § 17388. Advisory committee

@@ -3,9 +3,9 @@ title: "Section 1028 - Transferred"
 usc_title: 16
 usc_section: "1028"
 chapter: 19
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1028"
-generated_at: "2026-03-29T23:04:44.196Z"
+generated_at: "2026-03-29T23:08:52.507Z"
 ---
 
 # § 1028. Transferred

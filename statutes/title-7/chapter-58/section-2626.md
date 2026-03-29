@@ -3,9 +3,9 @@ title: "Section 2626 - Separability"
 usc_title: 7
 usc_section: "2626"
 chapter: 58
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 2626"
-generated_at: "2026-03-29T23:03:33.511Z"
+generated_at: "2026-03-29T23:08:35.914Z"
 ---
 
 # § 2626. Separability

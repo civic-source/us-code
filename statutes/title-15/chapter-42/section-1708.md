@@ -3,9 +3,9 @@ title: "Section 1708 - Certification of substantially equivalent State law"
 usc_title: 15
 usc_section: "1708"
 chapter: 42
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "15 U.S.C. § 1708"
-generated_at: "2026-03-29T23:04:11.692Z"
+generated_at: "2026-03-29T23:08:43.400Z"
 ---
 
 # § 1708. Certification of substantially equivalent State law

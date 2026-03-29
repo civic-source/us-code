@@ -3,9 +3,9 @@ title: "Section 40722 - DNA training and education for law enforcement, correcti
 usc_title: 34
 usc_section: "40722"
 chapter: 407
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "34 U.S.C. § 40722"
-generated_at: "2026-03-29T23:06:19.185Z"
+generated_at: "2026-03-29T23:09:16.350Z"
 ---
 
 # § 40722. DNA training and education for law enforcement, correctional personnel, and court officers

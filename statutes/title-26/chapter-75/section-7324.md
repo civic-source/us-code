@@ -3,9 +3,9 @@ title: "Section 7324 - Special disposition of perishable goods"
 usc_title: 26
 usc_section: "7324"
 chapter: 75
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 7324"
-generated_at: "2026-03-29T23:06:05.219Z"
+generated_at: "2026-03-29T23:09:10.715Z"
 ---
 
 # § 7324. Special disposition of perishable goods

@@ -3,9 +3,9 @@ title: "Section 49c - Acceptance by States; creation of State agencies"
 usc_title: 29
 usc_section: "49c"
 chapter: 4
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "29 U.S.C. § 49c"
-generated_at: "2026-03-29T23:06:15.082Z"
+generated_at: "2026-03-29T23:09:05.522Z"
 ---
 
 # § 49c. Acceptance by States; creation of State agencies

@@ -3,9 +3,9 @@ title: "Section 1762 - Roads"
 usc_title: 43
 usc_section: "1762"
 chapter: 35
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 1762"
-generated_at: "2026-03-29T23:06:40.213Z"
+generated_at: "2026-03-29T23:09:37.829Z"
 ---
 
 # § 1762. Roads

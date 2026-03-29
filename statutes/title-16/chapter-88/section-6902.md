@@ -3,9 +3,9 @@ title: "Section 6902 - Appointment of United States Commissioners"
 usc_title: 16
 usc_section: "6902"
 chapter: 88
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 6902"
-generated_at: "2026-03-29T23:04:44.373Z"
+generated_at: "2026-03-29T23:08:52.589Z"
 ---
 
 # § 6902. Appointment of United States Commissioners

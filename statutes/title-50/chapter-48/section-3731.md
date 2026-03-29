@@ -3,9 +3,9 @@ title: "Section 3731 - Prohibition on use of funds for specified purposes"
 usc_title: 50
 usc_section: "3731"
 chapter: 48
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "50 U.S.C. § 3731"
-generated_at: "2026-03-29T23:07:21.183Z"
+generated_at: "2026-03-29T23:10:09.040Z"
 ---
 
 # § 3731. Prohibition on use of funds for specified purposes

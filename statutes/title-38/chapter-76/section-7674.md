@@ -3,9 +3,9 @@ title: "Section 7674 - Obligated service"
 usc_title: 38
 usc_section: "7674"
 chapter: 76
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 7674"
-generated_at: "2026-03-29T23:06:35.206Z"
+generated_at: "2026-03-29T23:09:35.096Z"
 ---
 
 # § 7674. Obligated service

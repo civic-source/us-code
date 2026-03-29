@@ -3,9 +3,9 @@ title: "Section 1712A - Eligibility for readjustment counseling and related ment
 usc_title: 38
 usc_section: "1712A"
 chapter: 17
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 1712A"
-generated_at: "2026-03-29T23:06:35.114Z"
+generated_at: "2026-03-29T23:09:35.047Z"
 ---
 
 # § 1712A. Eligibility for readjustment counseling and related mental health services

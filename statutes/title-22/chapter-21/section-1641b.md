@@ -3,9 +3,9 @@ title: "Section 1641b - Claims of nationals of the United States against Bulgari
 usc_title: 22
 usc_section: "1641b"
 chapter: 21
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 1641b"
-generated_at: "2026-03-29T23:04:55.070Z"
+generated_at: "2026-03-29T23:09:00.353Z"
 ---
 
 # § 1641b. Claims of nationals of the United States against Bulgaria, Hungary, and Rumania

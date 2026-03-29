@@ -3,9 +3,9 @@ title: "Section 53206 - Payments"
 usc_title: 46
 usc_section: "53206"
 chapter: 532
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "46 U.S.C. § 53206"
-generated_at: "2026-03-29T23:07:23.793Z"
+generated_at: "2026-03-29T23:10:07.508Z"
 ---
 
 # § 53206. Payments

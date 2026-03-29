@@ -3,9 +3,9 @@ title: "Section 6159 - Expense allowance for Chairmen of Majority and Minority C
 usc_title: 2
 usc_section: "6159"
 chapter: 61
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 6159"
-generated_at: "2026-03-29T23:02:31.186Z"
+generated_at: "2026-03-29T23:08:07.235Z"
 ---
 
 # § 6159. Expense allowance for Chairmen of Majority and Minority Conference Committees of Senate; method of payment; taxability

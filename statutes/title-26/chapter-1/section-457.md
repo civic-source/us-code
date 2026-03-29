@@ -3,9 +3,9 @@ title: "Section 457 - Deferred compensation plans of State and local governments
 usc_title: 26
 usc_section: "457"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 457"
-generated_at: "2026-03-29T23:06:04.956Z"
+generated_at: "2026-03-29T23:09:10.577Z"
 ---
 
 # § 457. Deferred compensation plans of State and local governments and tax-exempt organizations

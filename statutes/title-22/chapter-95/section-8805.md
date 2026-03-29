@@ -3,9 +3,9 @@ title: "Section 8805 - Imposition of sanctions with respect to the provision of 
 usc_title: 22
 usc_section: "8805"
 chapter: 95
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 8805"
-generated_at: "2026-03-29T23:04:55.321Z"
+generated_at: "2026-03-29T23:09:00.458Z"
 ---
 
 # § 8805. Imposition of sanctions with respect to the provision of underwriting services or insurance or reinsurance for activities or persons with respect to which sanctions have been imposed

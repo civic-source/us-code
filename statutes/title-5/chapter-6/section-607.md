@@ -3,9 +3,9 @@ title: "Section 607 - Preparation of analyses"
 usc_title: 5
 usc_section: "607"
 chapter: 6
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "5 U.S.C. § 607"
-generated_at: "2026-03-29T23:02:59.636Z"
+generated_at: "2026-03-29T23:08:10.436Z"
 ---
 
 # § 607. Preparation of analyses

@@ -3,9 +3,9 @@ title: "Section 891 - Abandoned railroad lands; reentry"
 usc_title: 43
 usc_section: "891"
 chapter: 21
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 891"
-generated_at: "2026-03-29T23:06:40.153Z"
+generated_at: "2026-03-29T23:09:37.805Z"
 ---
 
 # § 891. Abandoned railroad lands; reentry

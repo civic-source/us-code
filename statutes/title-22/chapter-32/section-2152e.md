@@ -3,9 +3,9 @@ title: "Section 2152e - Program to improve building construction and practices i
 usc_title: 22
 usc_section: "2152e"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 2152e"
-generated_at: "2026-03-29T23:04:55.093Z"
+generated_at: "2026-03-29T23:09:00.363Z"
 ---
 
 # § 2152e. Program to improve building construction and practices in Latin American countries

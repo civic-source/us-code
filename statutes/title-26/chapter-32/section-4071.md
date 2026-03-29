@@ -3,9 +3,9 @@ title: "Section 4071 - Imposition of tax"
 usc_title: 26
 usc_section: "4071"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 4071"
-generated_at: "2026-03-29T23:06:05.106Z"
+generated_at: "2026-03-29T23:09:10.656Z"
 ---
 
 # § 4071. Imposition of tax

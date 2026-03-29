@@ -3,9 +3,9 @@ title: "Section 5351 - Delivery of Daily Calendar"
 usc_title: 2
 usc_section: "5351"
 chapter: 53
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 5351"
-generated_at: "2026-03-29T23:02:31.180Z"
+generated_at: "2026-03-29T23:08:07.231Z"
 ---
 
 # § 5351. Delivery of Daily Calendar

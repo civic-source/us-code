@@ -3,9 +3,9 @@ title: "Section 3572 - Confidential information protection"
 usc_title: 44
 usc_section: "3572"
 chapter: 35
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "44 U.S.C. § 3572"
-generated_at: "2026-03-29T23:06:48.176Z"
+generated_at: "2026-03-29T23:09:37.117Z"
 ---
 
 # § 3572. Confidential information protection

@@ -3,9 +3,9 @@ title: "Section 5109A - Revision of decisions on grounds of clear and unmistakab
 usc_title: 38
 usc_section: "5109A"
 chapter: 51
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 5109A"
-generated_at: "2026-03-29T23:06:35.177Z"
+generated_at: "2026-03-29T23:09:35.082Z"
 ---
 
 # § 5109A. Revision of decisions on grounds of clear and unmistakable error

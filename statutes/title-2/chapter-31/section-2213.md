@@ -3,9 +3,9 @@ title: "Section 2213 - General duties of Chief Executive Officer"
 usc_title: 2
 usc_section: "2213"
 chapter: 31
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 2213"
-generated_at: "2026-03-29T23:02:31.161Z"
+generated_at: "2026-03-29T23:08:07.218Z"
 ---
 
 # § 2213. General duties of Chief Executive Officer

@@ -3,9 +3,9 @@ title: "Section 590f - Authorization of appropriations and conservation technica
 usc_title: 16
 usc_section: "590f"
 chapter: 3
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 590f"
-generated_at: "2026-03-29T23:04:44.102Z"
+generated_at: "2026-03-29T23:08:52.468Z"
 ---
 
 # § 590f. Authorization of appropriations and conservation technical assistance funds

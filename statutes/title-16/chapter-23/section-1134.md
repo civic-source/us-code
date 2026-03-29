@@ -3,9 +3,9 @@ title: "Section 1134 - State and private lands within wilderness areas"
 usc_title: 16
 usc_section: "1134"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1134"
-generated_at: "2026-03-29T23:04:44.199Z"
+generated_at: "2026-03-29T23:08:52.508Z"
 ---
 
 # § 1134. State and private lands within wilderness areas

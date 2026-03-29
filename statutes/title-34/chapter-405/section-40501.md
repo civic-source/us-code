@@ -3,9 +3,9 @@ title: "Section 40501 - Program authorized"
 usc_title: 34
 usc_section: "40501"
 chapter: 405
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "34 U.S.C. § 40501"
-generated_at: "2026-03-29T23:06:19.183Z"
+generated_at: "2026-03-29T23:09:16.349Z"
 ---
 
 # § 40501. Program authorized

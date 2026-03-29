@@ -3,9 +3,9 @@ title: "Section 1403 - Abrogation of State sovereign immunity"
 usc_title: 20
 usc_section: "1403"
 chapter: 33
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "20 U.S.C. § 1403"
-generated_at: "2026-03-29T23:04:33.652Z"
+generated_at: "2026-03-29T23:08:49.985Z"
 ---
 
 # § 1403. Abrogation of State sovereign immunity

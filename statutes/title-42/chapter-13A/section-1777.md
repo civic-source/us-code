@@ -3,9 +3,9 @@ title: "Section 1777 - Use in school breakfast program of food designated as bei
 usc_title: 42
 usc_section: "1777"
 chapter: 13
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 1777"
-generated_at: "2026-03-29T23:07:11.137Z"
+generated_at: "2026-03-29T23:10:02.435Z"
 ---
 
 # § 1777. Use in school breakfast program of food designated as being in abundance or food donated by the Secretary of Agriculture

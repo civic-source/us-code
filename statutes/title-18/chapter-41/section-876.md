@@ -3,9 +3,9 @@ title: "Section 876 - Mailing threatening communications"
 usc_title: 18
 usc_section: "876"
 chapter: 41
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "18 U.S.C. § 876"
-generated_at: "2026-03-29T23:04:35.588Z"
+generated_at: "2026-03-29T23:08:48.165Z"
 ---
 
 # § 876. Mailing threatening communications

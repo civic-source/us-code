@@ -3,9 +3,9 @@ title: "Section 2942 - General authority"
 usc_title: 14
 usc_section: "2942"
 chapter: 29
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "14 U.S.C. § 2942"
-generated_at: "2026-03-29T23:04:03.824Z"
+generated_at: "2026-03-29T23:08:38.151Z"
 ---
 
 # § 2942. General authority

@@ -3,9 +3,9 @@ title: "Section 2135 - Antitrust provisions governing licenses"
 usc_title: 42
 usc_section: "2135"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 2135"
-generated_at: "2026-03-29T23:07:11.201Z"
+generated_at: "2026-03-29T23:10:02.462Z"
 ---
 
 # § 2135. Antitrust provisions governing licenses

@@ -3,9 +3,9 @@ title: "Section 446 - Repealed. Pub. L. 86–133 , Aug. 4, 1959 , 73 Stat. 279"
 usc_title: 7
 usc_section: "446"
 chapter: 17
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 446"
-generated_at: "2026-03-29T23:03:33.312Z"
+generated_at: "2026-03-29T23:08:35.834Z"
 ---
 
 # § 446. Repealed. Pub. L. 86–133 , Aug. 4, 1959 , 73 Stat. 279

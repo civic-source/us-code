@@ -3,9 +3,9 @@ title: "Section 8304 - Disposition of property"
 usc_title: 38
 usc_section: "8304"
 chapter: 83
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 8304"
-generated_at: "2026-03-29T23:06:35.217Z"
+generated_at: "2026-03-29T23:09:35.101Z"
 ---
 
 # § 8304. Disposition of property

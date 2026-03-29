@@ -3,9 +3,9 @@ title: "Section 8262k - Government contract incentives"
 usc_title: 42
 usc_section: "8262k"
 chapter: 91
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 8262k"
-generated_at: "2026-03-29T23:07:11.598Z"
+generated_at: "2026-03-29T23:10:02.619Z"
 ---
 
 # § 8262k. Government contract incentives

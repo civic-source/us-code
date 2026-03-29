@@ -3,9 +3,9 @@ title: "Section 9858e - Activities to improve the quality of child care"
 usc_title: 42
 usc_section: "9858e"
 chapter: 105
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 9858e"
-generated_at: "2026-03-29T23:07:11.672Z"
+generated_at: "2026-03-29T23:10:02.648Z"
 ---
 
 # § 9858e. Activities to improve the quality of child care

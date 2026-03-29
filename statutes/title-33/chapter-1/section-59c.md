@@ -3,9 +3,9 @@ title: "Section 59c - East River, New York"
 usc_title: 33
 usc_section: "59c"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 59c"
-generated_at: "2026-03-29T23:06:21.375Z"
+generated_at: "2026-03-29T23:09:14.094Z"
 ---
 
 # § 59c. East River, New York

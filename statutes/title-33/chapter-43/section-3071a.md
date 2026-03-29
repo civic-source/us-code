@@ -3,9 +3,9 @@ title: "Section 3071a - Applicability of certain provisions of title 37"
 usc_title: 33
 usc_section: "3071a"
 chapter: 43
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 3071a"
-generated_at: "2026-03-29T23:06:21.529Z"
+generated_at: "2026-03-29T23:09:14.167Z"
 ---
 
 # § 3071a. Applicability of certain provisions of title 37

@@ -3,9 +3,9 @@ title: "Section 14501 - Appalachian development highway system"
 usc_title: 40
 usc_section: "14501"
 chapter: 145
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "40 U.S.C. § 14501"
-generated_at: "2026-03-29T23:06:32.116Z"
+generated_at: "2026-03-29T23:09:18.570Z"
 ---
 
 # § 14501. Appalachian development highway system

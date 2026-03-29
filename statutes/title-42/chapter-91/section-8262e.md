@@ -3,9 +3,9 @@ title: "Section 8262e - Federal energy cost accounting and management"
 usc_title: 42
 usc_section: "8262e"
 chapter: 91
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 8262e"
-generated_at: "2026-03-29T23:07:11.598Z"
+generated_at: "2026-03-29T23:10:02.618Z"
 ---
 
 # § 8262e. Federal energy cost accounting and management

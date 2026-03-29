@@ -3,9 +3,9 @@ title: "Section 1979 - Release of security information"
 usc_title: 2
 usc_section: "1979"
 chapter: 29
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 1979"
-generated_at: "2026-03-29T23:02:31.152Z"
+generated_at: "2026-03-29T23:08:07.211Z"
 ---
 
 # § 1979. Release of security information

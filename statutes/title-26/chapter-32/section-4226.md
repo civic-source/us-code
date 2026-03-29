@@ -3,9 +3,9 @@ title: "Section 4226 - Repealed. Pub. L. 94–455, title XIX, § 1904(a)(4) , Oc
 usc_title: 26
 usc_section: "4226"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 4226"
-generated_at: "2026-03-29T23:06:05.111Z"
+generated_at: "2026-03-29T23:09:10.658Z"
 ---
 
 # [§ 4226. Repealed. Pub. L. 94–455, title XIX, § 1904(a)(4) , Oct. 4, 1976 , 90 Stat. 1811 ]

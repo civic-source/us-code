@@ -3,9 +3,9 @@ title: "Section 1158 - Asylum"
 usc_title: 8
 usc_section: "1158"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "8 U.S.C. § 1158"
-generated_at: "2026-03-29T23:03:03.543Z"
+generated_at: "2026-03-29T23:08:14.658Z"
 ---
 
 # § 1158. Asylum

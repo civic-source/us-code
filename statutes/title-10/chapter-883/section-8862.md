@@ -3,9 +3,9 @@ title: "Section 8862 - Duties of marshal"
 usc_title: 10
 usc_section: "8862"
 chapter: 883
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 8862"
-generated_at: "2026-03-29T23:03:47.018Z"
+generated_at: "2026-03-29T23:08:22.968Z"
 ---
 
 # § 8862. Duties of marshal

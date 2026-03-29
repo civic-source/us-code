@@ -3,9 +3,9 @@ title: "Section 8304 - Exportation"
 usc_title: 7
 usc_section: "8304"
 chapter: 109
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 8304"
-generated_at: "2026-03-29T23:03:33.702Z"
+generated_at: "2026-03-29T23:08:35.977Z"
 ---
 
 # § 8304. Exportation

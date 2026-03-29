@@ -3,9 +3,9 @@ title: "Section 922 - Loans for telephone service"
 usc_title: 7
 usc_section: "922"
 chapter: 31
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 922"
-generated_at: "2026-03-29T23:03:33.337Z"
+generated_at: "2026-03-29T23:08:35.842Z"
 ---
 
 # § 922. Loans for telephone service

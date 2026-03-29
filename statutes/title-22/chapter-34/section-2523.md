@@ -3,9 +3,9 @@ title: "Section 2523 - Separability"
 usc_title: 22
 usc_section: "2523"
 chapter: 34
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 2523"
-generated_at: "2026-03-29T23:04:55.145Z"
+generated_at: "2026-03-29T23:09:00.383Z"
 ---
 
 # § 2523. Separability

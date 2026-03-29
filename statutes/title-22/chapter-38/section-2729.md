@@ -3,9 +3,9 @@ title: "Section 2729 - State Department records of overseas deaths of United Sta
 usc_title: 22
 usc_section: "2729"
 chapter: 38
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 2729"
-generated_at: "2026-03-29T23:04:55.164Z"
+generated_at: "2026-03-29T23:09:00.392Z"
 ---
 
 # § 2729. State Department records of overseas deaths of United States citizens from nonnatural causes

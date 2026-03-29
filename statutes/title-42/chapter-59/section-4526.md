@@ -3,9 +3,9 @@ title: "Section 4526 - Audit by Government Accountability Office"
 usc_title: 42
 usc_section: "4526"
 chapter: 59
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 4526"
-generated_at: "2026-03-29T23:07:11.310Z"
+generated_at: "2026-03-29T23:10:02.510Z"
 ---
 
 # § 4526. Audit by Government Accountability Office

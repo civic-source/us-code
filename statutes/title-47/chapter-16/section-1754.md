@@ -3,9 +3,9 @@ title: "Section 1754 - Digital discrimination"
 usc_title: 47
 usc_section: "1754"
 chapter: 16
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "47 U.S.C. § 1754"
-generated_at: "2026-03-29T23:07:17.604Z"
+generated_at: "2026-03-29T23:10:05.796Z"
 ---
 
 # § 1754. Digital discrimination

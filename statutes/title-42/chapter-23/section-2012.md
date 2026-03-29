@@ -3,9 +3,9 @@ title: "Section 2012 - Congressional findings"
 usc_title: 42
 usc_section: "2012"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 2012"
-generated_at: "2026-03-29T23:07:11.192Z"
+generated_at: "2026-03-29T23:10:02.457Z"
 ---
 
 # § 2012. Congressional findings

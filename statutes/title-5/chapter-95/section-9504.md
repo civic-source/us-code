@@ -3,9 +3,9 @@ title: "Section 9504 - Recruitment, retention, relocation incentives, and reloca
 usc_title: 5
 usc_section: "9504"
 chapter: 95
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "5 U.S.C. § 9504"
-generated_at: "2026-03-29T23:02:59.775Z"
+generated_at: "2026-03-29T23:08:10.552Z"
 ---
 
 # § 9504. Recruitment, retention, relocation incentives, and relocation expenses

@@ -3,9 +3,9 @@ title: "Section 228g - Aircraft or helicopter regulation within enlarged boundar
 usc_title: 16
 usc_section: "228g"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 228g"
-generated_at: "2026-03-29T23:04:43.894Z"
+generated_at: "2026-03-29T23:08:52.376Z"
 ---
 
 # § 228g. Aircraft or helicopter regulation within enlarged boundaries; procedure for promulgation of administrative rules and regulations

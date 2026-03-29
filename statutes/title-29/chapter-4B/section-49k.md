@@ -3,9 +3,9 @@ title: "Section 49k - Rules and regulations"
 usc_title: 29
 usc_section: "49k"
 chapter: 4
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "29 U.S.C. § 49k"
-generated_at: "2026-03-29T23:06:15.083Z"
+generated_at: "2026-03-29T23:09:05.523Z"
 ---
 
 # § 49k. Rules and regulations

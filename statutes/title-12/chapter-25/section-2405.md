@@ -3,9 +3,9 @@ title: "Section 2405 - Executive Director and additional staff personnel; appoin
 usc_title: 12
 usc_section: "2405"
 chapter: 25
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 2405"
-generated_at: "2026-03-29T23:04:21.382Z"
+generated_at: "2026-03-29T23:08:40.486Z"
 ---
 
 # § 2405. Executive Director and additional staff personnel; appointment and compensation; experts and consultants; employment and compensation; audits by Comptroller General

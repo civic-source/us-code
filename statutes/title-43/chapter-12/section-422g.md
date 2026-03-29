@@ -3,9 +3,9 @@ title: "Section 422g - Information from Federal agencies; costs"
 usc_title: 43
 usc_section: "422g"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 422g"
-generated_at: "2026-03-29T23:06:40.120Z"
+generated_at: "2026-03-29T23:09:37.793Z"
 ---
 
 # § 422g. Information from Federal agencies; costs

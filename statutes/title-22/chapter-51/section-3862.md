@@ -3,9 +3,9 @@ title: "Section 3862 - Panama Canal Board of Contract Appeals"
 usc_title: 22
 usc_section: "3862"
 chapter: 51
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 3862"
-generated_at: "2026-03-29T23:04:55.196Z"
+generated_at: "2026-03-29T23:09:00.406Z"
 ---
 
 # § 3862. Panama Canal Board of Contract Appeals

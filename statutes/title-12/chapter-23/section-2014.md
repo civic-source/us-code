@@ -3,9 +3,9 @@ title: "Section 2014 - Farm Credit Bank capitalization"
 usc_title: 12
 usc_section: "2014"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 2014"
-generated_at: "2026-03-29T23:04:21.347Z"
+generated_at: "2026-03-29T23:08:40.474Z"
 ---
 
 # § 2014. Farm Credit Bank capitalization

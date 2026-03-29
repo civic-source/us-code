@@ -3,9 +3,9 @@ title: "Section 118 - Filing by other than inventor"
 usc_title: 35
 usc_section: "118"
 chapter: 11
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "35 U.S.C. § 118"
-generated_at: "2026-03-29T23:06:22.800Z"
+generated_at: "2026-03-29T23:09:12.634Z"
 ---
 
 # § 118. Filing by other than inventor

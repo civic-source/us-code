@@ -3,9 +3,9 @@ title: "Section 6632 - Teacher and school leader incentive fund grants"
 usc_title: 20
 usc_section: "6632"
 chapter: 70
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "20 U.S.C. § 6632"
-generated_at: "2026-03-29T23:04:33.734Z"
+generated_at: "2026-03-29T23:08:50.025Z"
 ---
 
 # § 6632. Teacher and school leader incentive fund grants

@@ -3,9 +3,9 @@ title: "Section 2273 - Coins treated as gifts"
 usc_title: 2
 usc_section: "2273"
 chapter: 31
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 2273"
-generated_at: "2026-03-29T23:02:31.163Z"
+generated_at: "2026-03-29T23:08:07.220Z"
 ---
 
 # § 2273. Coins treated as gifts

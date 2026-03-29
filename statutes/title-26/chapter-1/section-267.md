@@ -3,9 +3,9 @@ title: "Section 267 - Losses, expenses, and interest with respect to transaction
 usc_title: 26
 usc_section: "267"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 267"
-generated_at: "2026-03-29T23:06:04.893Z"
+generated_at: "2026-03-29T23:09:10.543Z"
 ---
 
 # § 267. Losses, expenses, and interest with respect to transactions between related taxpayers

@@ -3,9 +3,9 @@ title: "Section 8251 - Findings"
 usc_title: 42
 usc_section: "8251"
 chapter: 91
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 8251"
-generated_at: "2026-03-29T23:07:11.594Z"
+generated_at: "2026-03-29T23:10:02.617Z"
 ---
 
 # § 8251. Findings

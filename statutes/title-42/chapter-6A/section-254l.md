@@ -3,9 +3,9 @@ title: "Section 254l - National Health Service Corps Scholarship Program"
 usc_title: 42
 usc_section: "254l"
 chapter: 6
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 254l"
-generated_at: "2026-03-29T23:07:10.375Z"
+generated_at: "2026-03-29T23:10:02.097Z"
 ---
 
 # § 254l. National Health Service Corps Scholarship Program

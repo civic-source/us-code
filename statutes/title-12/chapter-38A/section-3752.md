@@ -3,9 +3,9 @@ title: "Section 3752 - Definitions"
 usc_title: 12
 usc_section: "3752"
 chapter: 38
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 3752"
-generated_at: "2026-03-29T23:04:21.408Z"
+generated_at: "2026-03-29T23:08:40.495Z"
 ---
 
 # § 3752. Definitions

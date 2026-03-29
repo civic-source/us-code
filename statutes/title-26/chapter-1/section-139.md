@@ -3,9 +3,9 @@ title: "Section 139 - Disaster relief payments"
 usc_title: 26
 usc_section: "139"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 139"
-generated_at: "2026-03-29T23:06:04.849Z"
+generated_at: "2026-03-29T23:09:10.520Z"
 ---
 
 # § 139. Disaster relief payments

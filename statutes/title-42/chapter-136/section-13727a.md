@@ -3,9 +3,9 @@ title: "Section 13727a - Transferred"
 usc_title: 42
 usc_section: "13727a"
 chapter: 136
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 13727a"
-generated_at: "2026-03-29T23:07:11.829Z"
+generated_at: "2026-03-29T23:10:02.710Z"
 ---
 
 # § 13727a. Transferred

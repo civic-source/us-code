@@ -3,9 +3,9 @@ title: "Section 20143 - Full cost appropriations account structure"
 usc_title: 51
 usc_section: "20143"
 chapter: 201
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "51 U.S.C. § 20143"
-generated_at: "2026-03-29T23:07:44.627Z"
+generated_at: "2026-03-29T23:10:13.713Z"
 ---
 
 # § 20143. Full cost appropriations account structure

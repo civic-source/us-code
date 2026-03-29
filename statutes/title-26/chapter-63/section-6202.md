@@ -3,9 +3,9 @@ title: "Section 6202 - Establishment by regulations of mode or time of assessmen
 usc_title: 26
 usc_section: "6202"
 chapter: 63
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 6202"
-generated_at: "2026-03-29T23:06:05.182Z"
+generated_at: "2026-03-29T23:09:10.696Z"
 ---
 
 # § 6202. Establishment by regulations of mode or time of assessment

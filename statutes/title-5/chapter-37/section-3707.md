@@ -3,9 +3,9 @@ title: "Section 3707 - Regulations"
 usc_title: 5
 usc_section: "3707"
 chapter: 37
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "5 U.S.C. § 3707"
-generated_at: "2026-03-29T23:02:59.661Z"
+generated_at: "2026-03-29T23:08:10.455Z"
 ---
 
 # § 3707. Regulations

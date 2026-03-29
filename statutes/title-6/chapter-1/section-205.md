@@ -3,9 +3,9 @@ title: "Section 205 - Ombudsman for immigration detention"
 usc_title: 6
 usc_section: "205"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "6 U.S.C. § 205"
-generated_at: "2026-03-29T23:03:09.122Z"
+generated_at: "2026-03-29T23:08:13.270Z"
 ---
 
 # § 205. Ombudsman for immigration detention

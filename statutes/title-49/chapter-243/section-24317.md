@@ -3,9 +3,9 @@ title: "Section 24317 - Accounts"
 usc_title: 49
 usc_section: "24317"
 chapter: 243
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "49 U.S.C. § 24317"
-generated_at: "2026-03-29T23:07:41.083Z"
+generated_at: "2026-03-29T23:10:11.210Z"
 ---
 
 # § 24317. Accounts

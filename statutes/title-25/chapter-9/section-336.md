@@ -3,9 +3,9 @@ title: "Section 336 - Allotments to Indians making settlement"
 usc_title: 25
 usc_section: "336"
 chapter: 9
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 336"
-generated_at: "2026-03-29T23:04:57.074Z"
+generated_at: "2026-03-29T23:08:56.299Z"
 ---
 
 # § 336. Allotments to Indians making settlement

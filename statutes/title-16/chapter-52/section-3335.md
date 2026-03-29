@@ -3,9 +3,9 @@ title: "Section 3335 - Authorization of appropriations"
 usc_title: 16
 usc_section: "3335"
 chapter: 52
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 3335"
-generated_at: "2026-03-29T23:04:44.300Z"
+generated_at: "2026-03-29T23:08:52.555Z"
 ---
 
 # § 3335. Authorization of appropriations

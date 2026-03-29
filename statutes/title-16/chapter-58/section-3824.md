@@ -3,9 +3,9 @@ title: "Section 3824 - Fairness of compliance"
 usc_title: 16
 usc_section: "3824"
 chapter: 58
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 3824"
-generated_at: "2026-03-29T23:04:44.314Z"
+generated_at: "2026-03-29T23:08:52.560Z"
 ---
 
 # § 3824. Fairness of compliance

@@ -3,9 +3,9 @@ title: "Section 6421 - Gasoline used for certain nonhighway purposes, used by lo
 usc_title: 26
 usc_section: "6421"
 chapter: 65
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 6421"
-generated_at: "2026-03-29T23:06:05.195Z"
+generated_at: "2026-03-29T23:09:10.703Z"
 ---
 
 # § 6421. Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes

@@ -3,9 +3,9 @@ title: "Section 535b - Presidential approval; recommendations of Federal officia
 usc_title: 33
 usc_section: "535b"
 chapter: 11
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 535b"
-generated_at: "2026-03-29T23:06:21.393Z"
+generated_at: "2026-03-29T23:09:14.103Z"
 ---
 
 # § 535b. Presidential approval; recommendations of Federal officials

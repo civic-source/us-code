@@ -3,9 +3,9 @@ title: "Section 2279c - Equalization of loan-making powers of certain district a
 usc_title: 12
 usc_section: "2279c"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 2279c"
-generated_at: "2026-03-29T23:04:21.374Z"
+generated_at: "2026-03-29T23:08:40.483Z"
 ---
 
 # § 2279c. Equalization of loan-making powers of certain district associations

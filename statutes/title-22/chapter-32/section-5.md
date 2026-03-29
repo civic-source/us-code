@@ -3,9 +3,9 @@ title: "Section 5 - Proliferation interdiction assistance"
 usc_title: 22
 usc_section: "5"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 5"
-generated_at: "2026-03-29T23:04:55.116Z"
+generated_at: "2026-03-29T23:09:00.372Z"
 ---
 
 # § 2349bb–5. Proliferation interdiction assistance

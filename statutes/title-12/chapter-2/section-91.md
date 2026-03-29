@@ -3,9 +3,9 @@ title: "Section 91 - Transfers by bank and other acts in contemplation of insolv
 usc_title: 12
 usc_section: "91"
 chapter: 2
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 91"
-generated_at: "2026-03-29T23:04:21.131Z"
+generated_at: "2026-03-29T23:08:40.379Z"
 ---
 
 # § 91. Transfers by bank and other acts in contemplation of insolvency

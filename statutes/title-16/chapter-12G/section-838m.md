@@ -3,9 +3,9 @@ title: "Section 838m - Power marketing administration transmission borrowing aut
 usc_title: 16
 usc_section: "838m"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 838m"
-generated_at: "2026-03-29T23:04:44.179Z"
+generated_at: "2026-03-29T23:08:52.500Z"
 ---
 
 # § 838m. Power marketing administration transmission borrowing authority

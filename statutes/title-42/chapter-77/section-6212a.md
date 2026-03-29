@@ -3,9 +3,9 @@ title: "Section 6212a - Oil exports, safety valve, and maritime security"
 usc_title: 42
 usc_section: "6212a"
 chapter: 77
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 6212a"
-generated_at: "2026-03-29T23:07:11.388Z"
+generated_at: "2026-03-29T23:10:02.538Z"
 ---
 
 # § 6212a. Oil exports, safety valve, and maritime security

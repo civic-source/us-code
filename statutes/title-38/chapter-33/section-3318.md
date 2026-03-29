@@ -3,9 +3,9 @@ title: "Section 3318 - Additional assistance: relocation or travel assistance fo
 usc_title: 38
 usc_section: "3318"
 chapter: 33
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 3318"
-generated_at: "2026-03-29T23:06:35.150Z"
+generated_at: "2026-03-29T23:09:35.069Z"
 ---
 
 # § 3318. Additional assistance: relocation or travel assistance for individual relocating or traveling significant distance for pursuit of a program of education

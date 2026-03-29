@@ -3,9 +3,9 @@ title: "Section 1361 - Application of subpart"
 usc_title: 7
 usc_section: "1361"
 chapter: 35
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 1361"
-generated_at: "2026-03-29T23:03:33.366Z"
+generated_at: "2026-03-29T23:08:35.854Z"
 ---
 
 # § 1361. Application of subpart

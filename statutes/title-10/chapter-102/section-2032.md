@@ -3,9 +3,9 @@ title: "Section 2032 - Responsibility of the Secretaries of the military departm
 usc_title: 10
 usc_section: "2032"
 chapter: 102
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 2032"
-generated_at: "2026-03-29T23:03:46.849Z"
+generated_at: "2026-03-29T23:08:22.909Z"
 ---
 
 # § 2032. Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency

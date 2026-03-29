@@ -3,9 +3,9 @@ title: "Section 505 - Officer of the Postal Regulatory Commission representing t
 usc_title: 39
 usc_section: "505"
 chapter: 5
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "39 U.S.C. § 505"
-generated_at: "2026-03-29T23:06:30.442Z"
+generated_at: "2026-03-29T23:09:18.059Z"
 ---
 
 # § 505. Officer of the Postal Regulatory Commission representing the general public

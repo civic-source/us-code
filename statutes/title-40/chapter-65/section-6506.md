@@ -3,9 +3,9 @@ title: "Section 6506 - Allocation of space"
 usc_title: 40
 usc_section: "6506"
 chapter: 65
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "40 U.S.C. § 6506"
-generated_at: "2026-03-29T23:06:32.105Z"
+generated_at: "2026-03-29T23:09:18.565Z"
 ---
 
 # § 6506. Allocation of space

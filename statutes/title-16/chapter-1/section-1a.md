@@ -3,9 +3,9 @@ title: "Section 1a - Boundary revision"
 usc_title: 16
 usc_section: "1a"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1a"
-generated_at: "2026-03-29T23:04:43.923Z"
+generated_at: "2026-03-29T23:08:52.388Z"
 ---
 
 # § 410y–1a. Boundary revision

@@ -3,9 +3,9 @@ title: "Section 16014 - Standby support for certain nuclear plant delays"
 usc_title: 42
 usc_section: "16014"
 chapter: 149
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 16014"
-generated_at: "2026-03-29T23:07:11.868Z"
+generated_at: "2026-03-29T23:10:02.724Z"
 ---
 
 # § 16014. Standby support for certain nuclear plant delays

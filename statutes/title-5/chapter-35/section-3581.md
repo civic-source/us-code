@@ -3,9 +3,9 @@ title: "Section 3581 - Definitions"
 usc_title: 5
 usc_section: "3581"
 chapter: 35
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "5 U.S.C. § 3581"
-generated_at: "2026-03-29T23:02:59.658Z"
+generated_at: "2026-03-29T23:08:10.453Z"
 ---
 
 # § 3581. Definitions

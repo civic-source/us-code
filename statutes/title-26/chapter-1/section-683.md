@@ -3,9 +3,9 @@ title: "Section 683 - Use of trust as an exchange fund"
 usc_title: 26
 usc_section: "683"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 683"
-generated_at: "2026-03-29T23:06:04.989Z"
+generated_at: "2026-03-29T23:09:10.596Z"
 ---
 
 # § 683. Use of trust as an exchange fund

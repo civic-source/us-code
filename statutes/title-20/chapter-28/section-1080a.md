@@ -3,9 +3,9 @@ title: "Section 1080a - Reports to consumer reporting agencies and institutions 
 usc_title: 20
 usc_section: "1080a"
 chapter: 28
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "20 U.S.C. § 1080a"
-generated_at: "2026-03-29T23:04:33.565Z"
+generated_at: "2026-03-29T23:08:49.948Z"
 ---
 
 # § 1080a. Reports to consumer reporting agencies and institutions of higher education

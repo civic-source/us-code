@@ -3,9 +3,9 @@ title: "Section 4701 - Definitions"
 usc_title: 5
 usc_section: "4701"
 chapter: 47
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "5 U.S.C. § 4701"
-generated_at: "2026-03-29T23:02:59.665Z"
+generated_at: "2026-03-29T23:08:10.458Z"
 ---
 
 # § 4701. Definitions

@@ -3,9 +3,9 @@ title: "Section 1385 - Omitted"
 usc_title: 42
 usc_section: "1385"
 chapter: 7
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 1385"
-generated_at: "2026-03-29T23:07:10.799Z"
+generated_at: "2026-03-29T23:10:02.285Z"
 ---
 
 # § 1385. Omitted

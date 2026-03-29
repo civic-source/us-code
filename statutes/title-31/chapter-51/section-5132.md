@@ -3,9 +3,9 @@ title: "Section 5132 - Administrative"
 usc_title: 31
 usc_section: "5132"
 chapter: 51
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "31 U.S.C. § 5132"
-generated_at: "2026-03-29T23:06:28.407Z"
+generated_at: "2026-03-29T23:09:15.607Z"
 ---
 
 # § 5132. Administrative

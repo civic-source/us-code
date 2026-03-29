@@ -3,9 +3,9 @@ title: "Section 230508 - Restrictions"
 usc_title: 36
 usc_section: "230508"
 chapter: 2305
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "36 U.S.C. § 230508"
-generated_at: "2026-03-29T23:06:36.607Z"
+generated_at: "2026-03-29T23:09:24.160Z"
 ---
 
 # § 230508. Restrictions

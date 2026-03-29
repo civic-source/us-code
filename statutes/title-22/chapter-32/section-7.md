@@ -3,9 +3,9 @@ title: "Section 7 - Coordination of all United States terrorism-related assistan
 usc_title: 22
 usc_section: "7"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-03-29T23:04:55.115Z"
+generated_at: "2026-03-29T23:09:00.372Z"
 ---
 
 # § 2349aa–7. Coordination of all United States terrorism-related assistance to foreign countries

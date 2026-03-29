@@ -3,9 +3,9 @@ title: "Section 2806 - Contracts and grants"
 usc_title: 16
 usc_section: "2806"
 chapter: 48
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 2806"
-generated_at: "2026-03-29T23:04:44.288Z"
+generated_at: "2026-03-29T23:08:52.550Z"
 ---
 
 # § 2806. Contracts and grants

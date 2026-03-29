@@ -3,9 +3,9 @@ title: "Section 1725 - Reimbursement for emergency treatment"
 usc_title: 38
 usc_section: "1725"
 chapter: 17
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 1725"
-generated_at: "2026-03-29T23:06:35.118Z"
+generated_at: "2026-03-29T23:09:35.049Z"
 ---
 
 # § 1725. Reimbursement for emergency treatment

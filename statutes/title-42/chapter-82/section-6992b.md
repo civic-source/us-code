@@ -3,9 +3,9 @@ title: "Section 6992b - Tracking of medical waste"
 usc_title: 42
 usc_section: "6992b"
 chapter: 82
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 6992b"
-generated_at: "2026-03-29T23:07:11.482Z"
+generated_at: "2026-03-29T23:10:02.571Z"
 ---
 
 # § 6992b. Tracking of medical waste

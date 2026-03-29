@@ -3,9 +3,9 @@ title: "Section 3998 - Land rights of servicemembers"
 usc_title: 50
 usc_section: "3998"
 chapter: 50
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "50 U.S.C. § 3998"
-generated_at: "2026-03-29T23:07:21.194Z"
+generated_at: "2026-03-29T23:10:09.046Z"
 ---
 
 # § 3998. Land rights of servicemembers

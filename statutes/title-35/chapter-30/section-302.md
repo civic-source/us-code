@@ -3,9 +3,9 @@ title: "Section 302 - Request for reexamination"
 usc_title: 35
 usc_section: "302"
 chapter: 30
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "35 U.S.C. § 302"
-generated_at: "2026-03-29T23:06:22.809Z"
+generated_at: "2026-03-29T23:09:12.639Z"
 ---
 
 # § 302. Request for reexamination

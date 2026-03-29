@@ -3,9 +3,9 @@ title: "Section 1742a - Good Samaritan Search and Recovery Act"
 usc_title: 43
 usc_section: "1742a"
 chapter: 35
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 1742a"
-generated_at: "2026-03-29T23:06:40.205Z"
+generated_at: "2026-03-29T23:09:37.827Z"
 ---
 
 # § 1742a. Good Samaritan Search and Recovery Act

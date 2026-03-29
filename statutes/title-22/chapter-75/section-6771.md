@@ -3,9 +3,9 @@ title: "Section 6771 - Prohibition"
 usc_title: 22
 usc_section: "6771"
 chapter: 75
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 6771"
-generated_at: "2026-03-29T23:04:55.267Z"
+generated_at: "2026-03-29T23:09:00.437Z"
 ---
 
 # § 6771. Prohibition

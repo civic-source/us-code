@@ -3,9 +3,9 @@ title: "Section 14314 - Army and Air Force commissioned officers: generals ceasi
 usc_title: 10
 usc_section: "14314"
 chapter: 1405
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 14314"
-generated_at: "2026-03-29T23:03:47.059Z"
+generated_at: "2026-03-29T23:08:22.983Z"
 ---
 
 # § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general

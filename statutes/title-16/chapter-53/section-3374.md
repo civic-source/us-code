@@ -3,9 +3,9 @@ title: "Section 3374 - Forfeiture"
 usc_title: 16
 usc_section: "3374"
 chapter: 53
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 3374"
-generated_at: "2026-03-29T23:04:44.302Z"
+generated_at: "2026-03-29T23:08:52.555Z"
 ---
 
 # § 3374. Forfeiture

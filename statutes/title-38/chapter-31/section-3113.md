@@ -3,9 +3,9 @@ title: "Section 3113 - Vocational rehabilitation for hospitalized members of the
 usc_title: 38
 usc_section: "3113"
 chapter: 31
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "38 U.S.C. § 3113"
-generated_at: "2026-03-29T23:06:35.146Z"
+generated_at: "2026-03-29T23:09:35.067Z"
 ---
 
 # § 3113. Vocational rehabilitation for hospitalized members of the Armed Forces and veterans

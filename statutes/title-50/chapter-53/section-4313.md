@@ -3,9 +3,9 @@ title: "Section 4313 - Statements by masters of vessels and owners of cargoes be
 usc_title: 50
 usc_section: "4313"
 chapter: 53
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "50 U.S.C. § 4313"
-generated_at: "2026-03-29T23:07:21.206Z"
+generated_at: "2026-03-29T23:10:09.055Z"
 ---
 
 # § 4313. Statements by masters of vessels and owners of cargoes before granting clearances

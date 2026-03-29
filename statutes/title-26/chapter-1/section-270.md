@@ -3,9 +3,9 @@ title: "Section 270 - Repealed. Pub. L. 91–172, title II, § 213(b) , Dec. 30,
 usc_title: 26
 usc_section: "270"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 270"
-generated_at: "2026-03-29T23:06:04.894Z"
+generated_at: "2026-03-29T23:09:10.544Z"
 ---
 
 # [§ 270. Repealed. Pub. L. 91–172, title II, § 213(b) , Dec. 30, 1969 , 83 Stat. 572 ]

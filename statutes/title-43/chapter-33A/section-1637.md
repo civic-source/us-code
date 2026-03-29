@@ -3,9 +3,9 @@ title: "Section 1637 - Use of protraction diagrams"
 usc_title: 43
 usc_section: "1637"
 chapter: 33
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "43 U.S.C. § 1637"
-generated_at: "2026-03-29T23:06:40.198Z"
+generated_at: "2026-03-29T23:09:37.824Z"
 ---
 
 # § 1637. Use of protraction diagrams

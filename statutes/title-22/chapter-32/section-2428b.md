@@ -3,9 +3,9 @@ title: "Section 2428b - Special security assistance for modernization of Armed F
 usc_title: 22
 usc_section: "2428b"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 2428b"
-generated_at: "2026-03-29T23:04:55.133Z"
+generated_at: "2026-03-29T23:09:00.378Z"
 ---
 
 # § 2428b. Special security assistance for modernization of Armed Forces of Korea

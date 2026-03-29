@@ -3,9 +3,9 @@ title: "Section 2482 - Exercise of functions of International Trade Commission"
 usc_title: 19
 usc_section: "2482"
 chapter: 12
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "19 U.S.C. § 2482"
-generated_at: "2026-03-29T23:04:38.208Z"
+generated_at: "2026-03-29T23:08:47.280Z"
 ---
 
 # § 2482. Exercise of functions of International Trade Commission

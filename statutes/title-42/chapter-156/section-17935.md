@@ -3,9 +3,9 @@ title: "Section 17935 - Restrictions on certain disclosures and sales of health 
 usc_title: 42
 usc_section: "17935"
 chapter: 156
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 17935"
-generated_at: "2026-03-29T23:07:11.951Z"
+generated_at: "2026-03-29T23:10:02.758Z"
 ---
 
 # § 17935. Restrictions on certain disclosures and sales of health information; accounting of certain protected health information disclosures; access to certain information in electronic format

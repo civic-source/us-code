@@ -3,9 +3,9 @@ title: "Section 352b - Partial cancellation; issuance of new trust patents"
 usc_title: 25
 usc_section: "352b"
 chapter: 9
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 352b"
-generated_at: "2026-03-29T23:04:57.076Z"
+generated_at: "2026-03-29T23:08:56.300Z"
 ---
 
 # § 352b. Partial cancellation; issuance of new trust patents

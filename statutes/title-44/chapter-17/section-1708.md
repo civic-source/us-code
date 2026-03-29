@@ -3,9 +3,9 @@ title: "Section 1708 - Prices for sales copies of publications; crediting of rec
 usc_title: 44
 usc_section: "1708"
 chapter: 17
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "44 U.S.C. § 1708"
-generated_at: "2026-03-29T23:06:48.158Z"
+generated_at: "2026-03-29T23:09:37.110Z"
 ---
 
 # § 1708. Prices for sales copies of publications; crediting of receipts; resale by dealers; sales agents

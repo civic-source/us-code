@@ -3,9 +3,9 @@ title: "Section 212b - Unique passport identifiers for covered sex offenders"
 usc_title: 22
 usc_section: "212b"
 chapter: 4
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 212b"
-generated_at: "2026-03-29T23:04:55.007Z"
+generated_at: "2026-03-29T23:09:00.325Z"
 ---
 
 # § 212b. Unique passport identifiers for covered sex offenders

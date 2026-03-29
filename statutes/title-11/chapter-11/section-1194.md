@@ -3,9 +3,9 @@ title: "Section 1194 - Payments"
 usc_title: 11
 usc_section: "1194"
 chapter: 11
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "11 U.S.C. § 1194"
-generated_at: "2026-03-29T23:03:58.608Z"
+generated_at: "2026-03-29T23:08:38.680Z"
 ---
 
 # § 1194. Payments

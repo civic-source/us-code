@@ -3,9 +3,9 @@ title: "Section 1371 - Moratorium on taking and importing marine mammals and mar
 usc_title: 16
 usc_section: "1371"
 chapter: 31
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1371"
-generated_at: "2026-03-29T23:04:44.219Z"
+generated_at: "2026-03-29T23:08:52.518Z"
 ---
 
 # § 1371. Moratorium on taking and importing marine mammals and marine mammal products

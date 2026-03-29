@@ -3,9 +3,9 @@ title: "Section 908 - Compensation for disability"
 usc_title: 33
 usc_section: "908"
 chapter: 18
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "33 U.S.C. § 908"
-generated_at: "2026-03-29T23:06:21.421Z"
+generated_at: "2026-03-29T23:09:14.117Z"
 ---
 
 # § 908. Compensation for disability

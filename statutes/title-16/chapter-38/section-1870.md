@@ -3,9 +3,9 @@ title: "Section 1870 - Required possession of descending devices"
 usc_title: 16
 usc_section: "1870"
 chapter: 38
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 1870"
-generated_at: "2026-03-29T23:04:44.269Z"
+generated_at: "2026-03-29T23:08:52.541Z"
 ---
 
 # § 1870. Required possession of descending devices

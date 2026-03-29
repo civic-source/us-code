@@ -3,9 +3,9 @@ title: "Section 1921 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(9) 
 usc_title: 18
 usc_section: "1921"
 chapter: 93
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "18 U.S.C. § 1921"
-generated_at: "2026-03-29T23:04:35.631Z"
+generated_at: "2026-03-29T23:08:48.181Z"
 ---
 
 # [§ 1921. Repealed. Pub. L. 116–260, div. O, title X, § 1002(9) , Dec. 27, 2020 , 134 Stat. 2155 ]

@@ -3,9 +3,9 @@ title: "Section 398 - Purchase and testing of serums or analogous products; diss
 usc_title: 7
 usc_section: "398"
 chapter: 15
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 398"
-generated_at: "2026-03-29T23:03:33.310Z"
+generated_at: "2026-03-29T23:08:35.833Z"
 ---
 
 # § 398. Purchase and testing of serums or analogous products; dissemination of test results

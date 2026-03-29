@@ -3,9 +3,9 @@ title: "Section 7991 - Administration generally"
 usc_title: 7
 usc_section: "7991"
 chapter: 106
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 7991"
-generated_at: "2026-03-29T23:03:33.690Z"
+generated_at: "2026-03-29T23:08:35.972Z"
 ---
 
 # § 7991. Administration generally

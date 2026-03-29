@@ -3,9 +3,9 @@ title: "Section 9708 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9708"
 chapter: 104
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 9708"
-generated_at: "2026-03-29T23:07:11.653Z"
+generated_at: "2026-03-29T23:10:02.640Z"
 ---
 
 # § 9708. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 8202 - Regulation of nonadmitted insurance by insured’s home S
 usc_title: 15
 usc_section: "8202"
 chapter: 108
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "15 U.S.C. § 8202"
-generated_at: "2026-03-29T23:04:11.820Z"
+generated_at: "2026-03-29T23:08:43.464Z"
 ---
 
 # § 8202. Regulation of nonadmitted insurance by insured’s home State

@@ -3,9 +3,9 @@ title: "Section 6303b - Direct student services"
 usc_title: 20
 usc_section: "6303b"
 chapter: 70
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "20 U.S.C. § 6303b"
-generated_at: "2026-03-29T23:04:33.712Z"
+generated_at: "2026-03-29T23:08:50.016Z"
 ---
 
 # § 6303b. Direct student services

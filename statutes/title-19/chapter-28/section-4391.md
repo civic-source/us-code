@@ -3,9 +3,9 @@ title: "Section 4391 - Allocation and training of personnel"
 usc_title: 19
 usc_section: "4391"
 chapter: 28
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "19 U.S.C. § 4391"
-generated_at: "2026-03-29T23:04:38.277Z"
+generated_at: "2026-03-29T23:08:47.305Z"
 ---
 
 # § 4391. Allocation and training of personnel

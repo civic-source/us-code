@@ -3,9 +3,9 @@ title: "Section 8712 - Payment yields"
 usc_title: 7
 usc_section: "8712"
 chapter: 113
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 8712"
-generated_at: "2026-03-29T23:03:33.710Z"
+generated_at: "2026-03-29T23:08:35.980Z"
 ---
 
 # § 8712. Payment yields

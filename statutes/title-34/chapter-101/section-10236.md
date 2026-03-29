@@ -3,9 +3,9 @@ title: "Section 10236 - District of Columbia matching fund source"
 usc_title: 34
 usc_section: "10236"
 chapter: 101
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "34 U.S.C. § 10236"
-generated_at: "2026-03-29T23:06:19.082Z"
+generated_at: "2026-03-29T23:09:16.302Z"
 ---
 
 # § 10236. District of Columbia matching fund source

@@ -3,9 +3,9 @@ title: "Section 893 - Compensation of employees of foreign governments or intern
 usc_title: 26
 usc_section: "893"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "26 U.S.C. § 893"
-generated_at: "2026-03-29T23:06:05.018Z"
+generated_at: "2026-03-29T23:09:10.610Z"
 ---
 
 # § 893. Compensation of employees of foreign governments or international organizations

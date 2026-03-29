@@ -3,9 +3,9 @@ title: "Section 8933 - Nationwide sampling"
 usc_title: 15
 usc_section: "8933"
 chapter: 115
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "15 U.S.C. § 8933"
-generated_at: "2026-03-29T23:04:11.832Z"
+generated_at: "2026-03-29T23:08:43.470Z"
 ---
 
 # § 8933. Nationwide sampling

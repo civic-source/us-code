@@ -3,9 +3,9 @@ title: "Section 3715 - Leasing of Indian agricultural lands"
 usc_title: 25
 usc_section: "3715"
 chapter: 39
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 3715"
-generated_at: "2026-03-29T23:04:57.167Z"
+generated_at: "2026-03-29T23:08:56.341Z"
 ---
 
 # § 3715. Leasing of Indian agricultural lands

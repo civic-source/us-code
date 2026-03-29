@@ -3,9 +3,9 @@ title: "Section 10264 - Investigatory powers"
 usc_title: 42
 usc_section: "10264"
 chapter: 108
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 10264"
-generated_at: "2026-03-29T23:07:11.695Z"
+generated_at: "2026-03-29T23:10:02.658Z"
 ---
 
 # § 10264. Investigatory powers

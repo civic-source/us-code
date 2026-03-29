@@ -3,9 +3,9 @@ title: "Section 3010 - Special relationship between Federal Government and India
 usc_title: 25
 usc_section: "3010"
 chapter: 32
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 3010"
-generated_at: "2026-03-29T23:04:57.154Z"
+generated_at: "2026-03-29T23:08:56.335Z"
 ---
 
 # § 3010. Special relationship between Federal Government and Indian tribes and Native Hawaiian organizations

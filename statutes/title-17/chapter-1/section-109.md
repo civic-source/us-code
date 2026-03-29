@@ -3,9 +3,9 @@ title: "Section 109 - Limitations on exclusive rights: Effect of transfer of par
 usc_title: 17
 usc_section: "109"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "17 U.S.C. § 109"
-generated_at: "2026-03-29T23:04:24.646Z"
+generated_at: "2026-03-29T23:08:45.396Z"
 ---
 
 # § 109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord

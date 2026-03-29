@@ -3,9 +3,9 @@ title: "Section 293m - Rural physician training grants"
 usc_title: 42
 usc_section: "293m"
 chapter: 6
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 293m"
-generated_at: "2026-03-29T23:07:10.496Z"
+generated_at: "2026-03-29T23:10:02.152Z"
 ---
 
 # § 293m. Rural physician training grants

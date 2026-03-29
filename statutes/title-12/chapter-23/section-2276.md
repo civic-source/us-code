@@ -3,9 +3,9 @@ title: "Section 2276 - Access to and examination by Comptroller General of books
 usc_title: 12
 usc_section: "2276"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "12 U.S.C. § 2276"
-generated_at: "2026-03-29T23:04:21.364Z"
+generated_at: "2026-03-29T23:08:40.479Z"
 ---
 
 # § 2276. Access to and examination by Comptroller General of books, documents, etc., of farm credit system banks and institutions

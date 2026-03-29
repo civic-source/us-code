@@ -3,9 +3,9 @@ title: "Section 321 - Special pay: judge advocate continuation pay"
 usc_title: 37
 usc_section: "321"
 chapter: 5
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "37 U.S.C. § 321"
-generated_at: "2026-03-29T23:06:31.179Z"
+generated_at: "2026-03-29T23:09:19.029Z"
 ---
 
 # § 321. Special pay: judge advocate continuation pay

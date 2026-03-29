@@ -3,9 +3,9 @@ title: "Section 2350g - Authority to accept use of real property, services, and 
 usc_title: 10
 usc_section: "2350g"
 chapter: 138
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 2350g"
-generated_at: "2026-03-29T23:03:46.871Z"
+generated_at: "2026-03-29T23:08:22.918Z"
 ---
 
 # § 2350g. Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements

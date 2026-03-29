@@ -3,9 +3,9 @@ title: "Section 1341 - Rights and protections under Occupational Safety and Heal
 usc_title: 2
 usc_section: "1341"
 chapter: 24
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-29T23:02:31.127Z"
+generated_at: "2026-03-29T23:08:07.190Z"
 ---
 
 # § 1341. Rights and protections under Occupational Safety and Health Act of 1970; procedures for remedy of violations

@@ -3,9 +3,9 @@ title: "Section 5726 - Treatment of Hong Kong applicants for visas to study or w
 usc_title: 22
 usc_section: "5726"
 chapter: 66
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 5726"
-generated_at: "2026-03-29T23:04:55.239Z"
+generated_at: "2026-03-29T23:09:00.425Z"
 ---
 
 # § 5726. Treatment of Hong Kong applicants for visas to study or work in the United States

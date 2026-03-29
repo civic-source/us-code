@@ -1,0 +1,18 @@
+---
+title: "Section 60912 - Annual report"
+usc_title: 34
+usc_section: "60912"
+chapter: 609
+current_through: "PL 117-164"
+classification: "34 U.S.C. § 60912"
+generated_at: "2026-03-29T23:09:16.357Z"
+---
+
+# § 60912. Annual report
+
+- **(a)** Each agency shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate describing actions taken and results achieved under this chapter during the previous year.
+- **(b)** The report described in subsection (a) shall include—
+  - **(1)** the number of written applications filed with the agency pursuant to section 60901(a) of this title ;
+  - **(2)** the number of extensions granted, and an explanation of reasons provided under section 60901(h) of this title ;
+  - **(3)** the number of full reinvestigations initiated and closed pursuant to section 60903 of this title ; and
+  - **(4)** statistics and individualized information on topics that include identified suspects, arrests, charges, and convictions for reviews under section 60901 of this title and reinvestigations under section 60903 of this title .

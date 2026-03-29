@@ -3,9 +3,9 @@ title: "Section 5189h - Agency accountability"
 usc_title: 42
 usc_section: "5189h"
 chapter: 68
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "42 U.S.C. § 5189h"
-generated_at: "2026-03-29T23:07:11.352Z"
+generated_at: "2026-03-29T23:10:02.526Z"
 ---
 
 # § 5189h. Agency accountability

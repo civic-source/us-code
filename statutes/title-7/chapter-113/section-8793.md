@@ -3,9 +3,9 @@ title: "Section 8793 - Implementation"
 usc_title: 7
 usc_section: "8793"
 chapter: 113
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "7 U.S.C. § 8793"
-generated_at: "2026-03-29T23:03:33.720Z"
+generated_at: "2026-03-29T23:08:35.983Z"
 ---
 
 # § 8793. Implementation

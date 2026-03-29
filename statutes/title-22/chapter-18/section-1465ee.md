@@ -3,9 +3,9 @@ title: "Section 1465ee - Authorization of appropriations"
 usc_title: 22
 usc_section: "1465ee"
 chapter: 18
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 1465ee"
-generated_at: "2026-03-29T23:04:55.065Z"
+generated_at: "2026-03-29T23:09:00.351Z"
 ---
 
 # § 1465ee. Authorization of appropriations

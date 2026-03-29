@@ -3,9 +3,9 @@ title: "Section 20107 - Crime victims legal assistance grants"
 usc_title: 34
 usc_section: "20107"
 chapter: 201
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "34 U.S.C. § 20107"
-generated_at: "2026-03-29T23:06:19.145Z"
+generated_at: "2026-03-29T23:09:16.333Z"
 ---
 
 # § 20107. Crime victims legal assistance grants

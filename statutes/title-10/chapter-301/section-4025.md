@@ -3,9 +3,9 @@ title: "Section 4025 - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "4025"
 chapter: 301
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "10 U.S.C. § 4025"
-generated_at: "2026-03-29T23:03:46.950Z"
+generated_at: "2026-03-29T23:08:22.944Z"
 ---
 
 # § 4025. Prizes for advanced technology achievements

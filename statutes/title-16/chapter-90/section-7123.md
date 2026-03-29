@@ -3,9 +3,9 @@ title: "Section 7123 - Submission of project proposals"
 usc_title: 16
 usc_section: "7123"
 chapter: 90
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 7123"
-generated_at: "2026-03-29T23:04:44.376Z"
+generated_at: "2026-03-29T23:08:52.591Z"
 ---
 
 # § 7123. Submission of project proposals

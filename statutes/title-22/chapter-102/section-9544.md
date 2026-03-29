@@ -3,9 +3,9 @@ title: "Section 9544 - Report on media organizations controlled and funded by th
 usc_title: 22
 usc_section: "9544"
 chapter: 102
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "22 U.S.C. § 9544"
-generated_at: "2026-03-29T23:04:55.341Z"
+generated_at: "2026-03-29T23:09:00.466Z"
 ---
 
 # § 9544. Report on media organizations controlled and funded by the Government of the Russian Federation

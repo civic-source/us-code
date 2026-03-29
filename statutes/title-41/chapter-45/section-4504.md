@@ -3,9 +3,9 @@ title: "Section 4504 - Conditions for progress payments"
 usc_title: 41
 usc_section: "4504"
 chapter: 45
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "41 U.S.C. § 4504"
-generated_at: "2026-03-29T23:06:50.034Z"
+generated_at: "2026-03-29T23:09:38.358Z"
 ---
 
 # § 4504. Conditions for progress payments

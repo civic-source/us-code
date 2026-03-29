@@ -3,9 +3,9 @@ title: "Section 311 - Requirements as to certain applications in broadcasting se
 usc_title: 47
 usc_section: "311"
 chapter: 5
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "47 U.S.C. § 311"
-generated_at: "2026-03-29T23:07:17.523Z"
+generated_at: "2026-03-29T23:10:05.760Z"
 ---
 
 # § 311. Requirements as to certain applications in broadcasting service

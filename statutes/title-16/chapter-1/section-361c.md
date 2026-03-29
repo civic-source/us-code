@@ -3,9 +3,9 @@ title: "Section 361c - Additions to park"
 usc_title: 16
 usc_section: "361c"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 361c"
-generated_at: "2026-03-29T23:04:43.906Z"
+generated_at: "2026-03-29T23:08:52.380Z"
 ---
 
 # § 361c. Additions to park

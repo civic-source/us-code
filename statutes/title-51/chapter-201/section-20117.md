@@ -3,9 +3,9 @@ title: "Section 20117 - Disposal of excess land"
 usc_title: 51
 usc_section: "20117"
 chapter: 201
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "51 U.S.C. § 20117"
-generated_at: "2026-03-29T23:07:44.625Z"
+generated_at: "2026-03-29T23:10:13.713Z"
 ---
 
 # § 20117. Disposal of excess land

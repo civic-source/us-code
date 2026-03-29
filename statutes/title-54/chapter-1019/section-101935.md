@@ -3,9 +3,9 @@ title: "Section 101935 - Financial management"
 usc_title: 54
 usc_section: "101935"
 chapter: 1019
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "54 U.S.C. § 101935"
-generated_at: "2026-03-29T23:07:43.894Z"
+generated_at: "2026-03-29T23:10:13.475Z"
 ---
 
 # § 101935. Financial management

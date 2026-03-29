@@ -3,9 +3,9 @@ title: "Section 2210 - Tax exemption"
 usc_title: 25
 usc_section: "2210"
 chapter: 24
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "25 U.S.C. § 2210"
-generated_at: "2026-03-29T23:04:57.141Z"
+generated_at: "2026-03-29T23:08:56.329Z"
 ---
 
 # § 2210. Tax exemption

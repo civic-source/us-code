@@ -3,9 +3,9 @@ title: "Section 134 - Transferred"
 usc_title: 6
 usc_section: "134"
 chapter: 1
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "6 U.S.C. § 134"
-generated_at: "2026-03-29T23:03:09.113Z"
+generated_at: "2026-03-29T23:08:13.263Z"
 ---
 
 # §§ 131 to 134. Transferred

@@ -3,9 +3,9 @@ title: "Section 3243 - Jurisdiction of State of Kansas over offenses committed b
 usc_title: 18
 usc_section: "3243"
 chapter: 211
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "18 U.S.C. § 3243"
-generated_at: "2026-03-29T23:04:35.672Z"
+generated_at: "2026-03-29T23:08:48.197Z"
 ---
 
 # § 3243. Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations

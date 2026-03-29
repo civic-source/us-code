@@ -3,9 +3,9 @@ title: "Section 3524 - Consultation and layover requirements for, and effective 
 usc_title: 19
 usc_section: "3524"
 chapter: 22
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "19 U.S.C. § 3524"
-generated_at: "2026-03-29T23:04:38.240Z"
+generated_at: "2026-03-29T23:08:47.292Z"
 ---
 
 # § 3524. Consultation and layover requirements for, and effective date of, proclaimed actions

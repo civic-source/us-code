@@ -3,9 +3,9 @@ title: "Section 800 - Transferred"
 usc_title: 8
 usc_section: "800"
 chapter: 11
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "8 U.S.C. § 800"
-generated_at: "2026-03-29T23:03:03.527Z"
+generated_at: "2026-03-29T23:08:14.647Z"
 ---
 
 # § 800. Transferred

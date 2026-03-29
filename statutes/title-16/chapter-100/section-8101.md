@@ -3,9 +3,9 @@ title: "Section 8101 - Findings and purposes"
 usc_title: 16
 usc_section: "8101"
 chapter: 100
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "16 U.S.C. § 8101"
-generated_at: "2026-03-29T23:04:44.387Z"
+generated_at: "2026-03-29T23:08:52.597Z"
 ---
 
 # § 8101. Findings and purposes

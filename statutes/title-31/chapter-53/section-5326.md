@@ -3,9 +3,9 @@ title: "Section 5326 - Records of certain domestic transactions"
 usc_title: 31
 usc_section: "5326"
 chapter: 53
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "31 U.S.C. § 5326"
-generated_at: "2026-03-29T23:06:28.414Z"
+generated_at: "2026-03-29T23:09:15.610Z"
 ---
 
 # § 5326. Records of certain domestic transactions

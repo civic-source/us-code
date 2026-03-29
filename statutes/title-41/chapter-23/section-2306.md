@@ -3,9 +3,9 @@ title: "Section 2306 - Openness of meetings"
 usc_title: 41
 usc_section: "2306"
 chapter: 23
-current_through: "PL 117-159"
+current_through: "PL 117-164"
 classification: "41 U.S.C. § 2306"
-generated_at: "2026-03-29T23:06:50.025Z"
+generated_at: "2026-03-29T23:09:38.355Z"
 ---
 
 # § 2306. Openness of meetings
