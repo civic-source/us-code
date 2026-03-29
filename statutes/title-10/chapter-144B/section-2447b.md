@@ -3,9 +3,9 @@ title: "Section 2447b - Weapon system component or technology prototype projects
 usc_title: 10
 usc_section: "2447b"
 chapter: 144
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2447b"
-generated_at: "2026-03-29T21:13:10.361Z"
+generated_at: "2026-03-29T21:19:21.991Z"
 ---
 
 # § 2447b. Weapon system component or technology prototype projects: oversight

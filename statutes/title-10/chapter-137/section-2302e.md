@@ -3,9 +3,9 @@ title: "Section 2302e - Contract authority for development and demonstration of 
 usc_title: 10
 usc_section: "2302e"
 chapter: 137
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2302e"
-generated_at: "2026-03-29T21:13:10.325Z"
+generated_at: "2026-03-29T21:19:21.954Z"
 ---
 
 # § 2302e. Contract authority for development and demonstration of initial or additional prototype units

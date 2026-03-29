@@ -3,9 +3,9 @@ title: "Section 11610 - Transferred"
 usc_title: 42
 usc_section: "11610"
 chapter: 121
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 11610"
-generated_at: "2026-03-29T21:17:13.586Z"
+generated_at: "2026-03-29T21:24:30.074Z"
 ---
 
 # §§ 11601 to 11610. Transferred

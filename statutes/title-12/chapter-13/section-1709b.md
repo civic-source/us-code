@@ -3,9 +3,9 @@ title: "Section 1709b - Repealed. Pub. L. 85–364, § 6 , Apr. 1, 1958 , 72 Sta
 usc_title: 12
 usc_section: "1709b"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 1709b"
-generated_at: "2026-03-29T21:13:28.398Z"
+generated_at: "2026-03-29T21:19:56.181Z"
 ---
 
 # § 1709b. Repealed. Pub. L. 85–364, § 6 , Apr. 1, 1958 , 72 Stat. 77

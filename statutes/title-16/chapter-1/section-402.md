@@ -3,9 +3,9 @@ title: "Section 402 - Existing claims, locations, or entries not affected; excha
 usc_title: 16
 usc_section: "402"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 402"
-generated_at: "2026-03-29T21:13:49.867Z"
+generated_at: "2026-03-29T21:20:37.781Z"
 ---
 
 # § 402. Existing claims, locations, or entries not affected; exchange of lands

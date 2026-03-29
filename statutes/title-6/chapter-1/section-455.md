@@ -3,9 +3,9 @@ title: "Section 455 - Miscellaneous authorities"
 usc_title: 6
 usc_section: "455"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "6 U.S.C. § 455"
-generated_at: "2026-03-29T21:12:54.225Z"
+generated_at: "2026-03-29T21:19:29.128Z"
 ---
 
 # § 455. Miscellaneous authorities

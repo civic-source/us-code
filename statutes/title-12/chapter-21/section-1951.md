@@ -3,9 +3,9 @@ title: "Section 1951 - Congressional findings and declaration of purpose"
 usc_title: 12
 usc_section: "1951"
 chapter: 21
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 1951"
-generated_at: "2026-03-29T21:13:28.532Z"
+generated_at: "2026-03-29T21:19:56.347Z"
 ---
 
 # § 1951. Congressional findings and declaration of purpose

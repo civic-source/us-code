@@ -3,9 +3,9 @@ title: "Section 1244 - Exceptions"
 usc_title: 15
 usc_section: "1244"
 chapter: 29
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1244"
-generated_at: "2026-03-29T21:13:22.293Z"
+generated_at: "2026-03-29T21:20:22.157Z"
 ---
 
 # § 1244. Exceptions

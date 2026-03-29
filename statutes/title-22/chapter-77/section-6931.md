@@ -3,9 +3,9 @@ title: "Section 6931 - Review within the WTO"
 usc_title: 22
 usc_section: "6931"
 chapter: 77
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 6931"
-generated_at: "2026-03-29T21:14:20.729Z"
+generated_at: "2026-03-29T21:22:12.520Z"
 ---
 
 # § 6931. Review within the WTO

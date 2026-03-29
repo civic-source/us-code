@@ -3,9 +3,9 @@ title: "Section 5b - Liquidation of New Communities Program; cancellation of deb
 usc_title: 12
 usc_section: "5b"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 5b"
-generated_at: "2026-03-29T21:13:28.375Z"
+generated_at: "2026-03-29T21:19:56.156Z"
 ---
 
 # § 1701g–5b. Liquidation of New Communities Program; cancellation of debt

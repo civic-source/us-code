@@ -3,9 +3,9 @@ title: "Section 2127 - Budget and funding for operation of Oversight Board"
 usc_title: 48
 usc_section: "2127"
 chapter: 20
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "48 U.S.C. § 2127"
-generated_at: "2026-03-29T21:17:22.613Z"
+generated_at: "2026-03-29T21:24:48.672Z"
 ---
 
 # § 2127. Budget and funding for operation of Oversight Board

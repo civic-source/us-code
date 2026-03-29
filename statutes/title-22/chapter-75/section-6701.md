@@ -3,9 +3,9 @@ title: "Section 6701 - Definitions"
 usc_title: 22
 usc_section: "6701"
 chapter: 75
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 6701"
-generated_at: "2026-03-29T21:14:20.721Z"
+generated_at: "2026-03-29T21:22:12.511Z"
 ---
 
 # § 6701. Definitions

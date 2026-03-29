@@ -3,9 +3,9 @@ title: "Section 7404 - Authorization or denial of port entry"
 usc_title: 16
 usc_section: "7404"
 chapter: 93
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 7404"
-generated_at: "2026-03-29T21:13:50.437Z"
+generated_at: "2026-03-29T21:20:38.318Z"
 ---
 
 # § 7404. Authorization or denial of port entry

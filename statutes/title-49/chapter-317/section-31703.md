@@ -3,9 +3,9 @@ title: "Section 31703 - Repealed. Pub. L. 105–178, title IV, § 4013 , June 9,
 usc_title: 49
 usc_section: "31703"
 chapter: 317
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 31703"
-generated_at: "2026-03-29T21:17:49.111Z"
+generated_at: "2026-03-29T21:24:46.504Z"
 ---
 
 # [§§ 31702, 31703. Repealed. Pub. L. 105–178, title IV, § 4013 , June 9, 1998 , 112 Stat. 409 ]

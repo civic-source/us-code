@@ -3,9 +3,9 @@ title: "Section 160k - Funding and other requirements"
 usc_title: 16
 usc_section: "160k"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 160k"
-generated_at: "2026-03-29T21:13:49.834Z"
+generated_at: "2026-03-29T21:20:37.752Z"
 ---
 
 # § 160k. Funding and other requirements

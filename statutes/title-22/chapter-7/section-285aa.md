@@ -3,9 +3,9 @@ title: "Section 285aa - Capital increase"
 usc_title: 22
 usc_section: "285aa"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 285aa"
-generated_at: "2026-03-29T21:14:20.477Z"
+generated_at: "2026-03-29T21:22:12.198Z"
 ---
 
 # § 285aa. Capital increase

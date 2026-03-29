@@ -3,9 +3,9 @@ title: "Section 665 - Allotments from pay for child and spousal support owed by 
 usc_title: 42
 usc_section: "665"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 665"
-generated_at: "2026-03-29T21:17:12.535Z"
+generated_at: "2026-03-29T21:24:28.838Z"
 ---
 
 # § 665. Allotments from pay for child and spousal support owed by members of uniformed services on active duty

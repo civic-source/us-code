@@ -3,9 +3,9 @@ title: "Section 8386 - Members of the Fleet Reserve and Fleet Marine Corps Reser
 usc_title: 10
 usc_section: "8386"
 chapter: 845
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 8386"
-generated_at: "2026-03-29T21:13:10.471Z"
+generated_at: "2026-03-29T21:19:22.117Z"
 ---
 
 # § 8386. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty

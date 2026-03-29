@@ -3,9 +3,9 @@ title: "Section 635 - Deposit of moneys; depositaries, custodians, and fiscal ag
 usc_title: 15
 usc_section: "635"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 635"
-generated_at: "2026-03-29T21:13:22.185Z"
+generated_at: "2026-03-29T21:20:22.048Z"
 ---
 
 # § 635. Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees’ compensation funds

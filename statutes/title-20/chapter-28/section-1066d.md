@@ -3,9 +3,9 @@ title: "Section 1066d - Authority of Secretary"
 usc_title: 20
 usc_section: "1066d"
 chapter: 28
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 1066d"
-generated_at: "2026-03-29T21:13:40.437Z"
+generated_at: "2026-03-29T21:20:31.938Z"
 ---
 
 # § 1066d. Authority of Secretary

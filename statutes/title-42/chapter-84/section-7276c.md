@@ -3,9 +3,9 @@ title: "Section 7276c - Miscellaneous provisions"
 usc_title: 42
 usc_section: "7276c"
 chapter: 84
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 7276c"
-generated_at: "2026-03-29T21:17:13.335Z"
+generated_at: "2026-03-29T21:24:29.794Z"
 ---
 
 # § 7276c. Miscellaneous provisions

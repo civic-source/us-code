@@ -3,9 +3,9 @@ title: "Section 414 - Homeland Security Rotation Program"
 usc_title: 6
 usc_section: "414"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "6 U.S.C. § 414"
-generated_at: "2026-03-29T21:12:54.221Z"
+generated_at: "2026-03-29T21:19:29.125Z"
 ---
 
 # § 414. Homeland Security Rotation Program

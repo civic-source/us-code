@@ -3,9 +3,9 @@ title: "Section 57 - Omitted"
 usc_title: 25
 usc_section: "57"
 chapter: 2
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 57"
-generated_at: "2026-03-29T21:14:13.494Z"
+generated_at: "2026-03-29T21:21:32.902Z"
 ---
 
 # § 57. Omitted

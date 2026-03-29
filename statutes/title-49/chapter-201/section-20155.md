@@ -3,9 +3,9 @@ title: "Section 20155 - Tank cars"
 usc_title: 49
 usc_section: "20155"
 chapter: 201
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 20155"
-generated_at: "2026-03-29T21:17:49.066Z"
+generated_at: "2026-03-29T21:24:46.436Z"
 ---
 
 # § 20155. Tank cars

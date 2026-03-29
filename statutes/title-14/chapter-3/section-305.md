@@ -3,9 +3,9 @@ title: "Section 305 - Vice admirals"
 usc_title: 14
 usc_section: "305"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "14 U.S.C. § 305"
-generated_at: "2026-03-29T21:13:14.226Z"
+generated_at: "2026-03-29T21:19:48.175Z"
 ---
 
 # § 305. Vice admirals

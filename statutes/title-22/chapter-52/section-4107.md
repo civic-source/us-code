@@ -3,9 +3,9 @@ title: "Section 4107 - Functions of Foreign Service Labor Relations Board"
 usc_title: 22
 usc_section: "4107"
 chapter: 52
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 4107"
-generated_at: "2026-03-29T21:14:20.666Z"
+generated_at: "2026-03-29T21:22:12.442Z"
 ---
 
 # § 4107. Functions of Foreign Service Labor Relations Board

@@ -3,9 +3,9 @@ title: "Section 637 - Legislation dealing with Congressional budget must be hand
 usc_title: 2
 usc_section: "637"
 chapter: 17
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "2 U.S.C. § 637"
-generated_at: "2026-03-29T21:12:29.902Z"
+generated_at: "2026-03-29T21:19:01.711Z"
 ---
 
 # § 637. Legislation dealing with Congressional budget must be handled by Budget Committees

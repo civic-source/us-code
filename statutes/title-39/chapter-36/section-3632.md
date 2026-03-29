@@ -3,9 +3,9 @@ title: "Section 3632 - Action of the Governors"
 usc_title: 39
 usc_section: "3632"
 chapter: 36
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "39 U.S.C. § 3632"
-generated_at: "2026-03-29T21:15:36.993Z"
+generated_at: "2026-03-29T21:23:31.395Z"
 ---
 
 # § 3632. Action of the Governors

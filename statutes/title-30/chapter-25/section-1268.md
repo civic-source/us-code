@@ -3,9 +3,9 @@ title: "Section 1268 - Penalties"
 usc_title: 30
 usc_section: "1268"
 chapter: 25
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "30 U.S.C. § 1268"
-generated_at: "2026-03-29T21:14:31.191Z"
+generated_at: "2026-03-29T21:22:46.866Z"
 ---
 
 # § 1268. Penalties

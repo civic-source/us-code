@@ -3,9 +3,9 @@ title: "Section 1905 - Coast Guard Academy minority outreach team program"
 usc_title: 14
 usc_section: "1905"
 chapter: 19
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "14 U.S.C. § 1905"
-generated_at: "2026-03-29T21:13:14.238Z"
+generated_at: "2026-03-29T21:19:48.193Z"
 ---
 
 # § 1905. Coast Guard Academy minority outreach team program

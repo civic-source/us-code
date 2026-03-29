@@ -3,9 +3,9 @@ title: "Section 7407 - Air quality control regions"
 usc_title: 42
 usc_section: "7407"
 chapter: 85
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 7407"
-generated_at: "2026-03-29T21:17:13.349Z"
+generated_at: "2026-03-29T21:24:29.809Z"
 ---
 
 # § 7407. Air quality control regions

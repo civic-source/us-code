@@ -3,9 +3,9 @@ title: "Section 1723 - Generation and use of currencies by private voluntary org
 usc_title: 7
 usc_section: "1723"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 1723"
-generated_at: "2026-03-29T21:12:43.037Z"
+generated_at: "2026-03-29T21:19:43.825Z"
 ---
 
 # § 1723. Generation and use of currencies by private voluntary organizations and cooperatives

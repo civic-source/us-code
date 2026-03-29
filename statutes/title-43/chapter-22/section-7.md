@@ -3,9 +3,9 @@ title: "Section 7 - Military park, Indian or other reservation"
 usc_title: 43
 usc_section: "7"
 chapter: 22
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "43 U.S.C. § 7"
-generated_at: "2026-03-29T21:16:36.745Z"
+generated_at: "2026-03-29T21:24:05.218Z"
 ---
 
 # § 942–7. Military park, Indian or other reservation

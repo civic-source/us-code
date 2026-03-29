@@ -3,9 +3,9 @@ title: "Section 3 - Minerals"
 usc_title: 16
 usc_section: "3"
 chapter: 2
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-29T21:13:50.083Z"
+generated_at: "2026-03-29T21:20:38.004Z"
 ---
 
 # § 546a–3. Minerals

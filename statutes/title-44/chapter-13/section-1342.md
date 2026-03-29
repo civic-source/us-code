@@ -3,9 +3,9 @@ title: "Section 1342 - Repealed. Pub. L. 104–127, title IV, § 384 , Apr. 4, 1
 usc_title: 44
 usc_section: "1342"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "44 U.S.C. § 1342"
-generated_at: "2026-03-29T21:16:24.441Z"
+generated_at: "2026-03-29T21:23:42.734Z"
 ---
 
 # [§ 1342. Repealed. Pub. L. 104–127, title IV, § 384 , Apr. 4, 1996 , 110 Stat. 1016 ]

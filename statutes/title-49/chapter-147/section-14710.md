@@ -3,9 +3,9 @@ title: "Section 14710 - Enforcement of Federal laws and regulations with respect
 usc_title: 49
 usc_section: "14710"
 chapter: 147
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 14710"
-generated_at: "2026-03-29T21:17:49.057Z"
+generated_at: "2026-03-29T21:24:46.427Z"
 ---
 
 # § 14710. Enforcement of Federal laws and regulations with respect to transportation of household goods

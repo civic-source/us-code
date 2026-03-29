@@ -3,9 +3,9 @@ title: "Section 345 - Regional Defense Combating Terrorism and Irregular Warfare
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-29T21:13:10.156Z"
+generated_at: "2026-03-29T21:19:21.783Z"
 ---
 
 # § 345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program

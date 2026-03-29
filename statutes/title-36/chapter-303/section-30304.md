@@ -3,9 +3,9 @@ title: "Section 30304 - Governing body"
 usc_title: 36
 usc_section: "30304"
 chapter: 303
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 30304"
-generated_at: "2026-03-29T21:15:56.100Z"
+generated_at: "2026-03-29T21:23:35.230Z"
 ---
 
 # § 30304. Governing body

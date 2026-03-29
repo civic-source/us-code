@@ -3,9 +3,9 @@ title: "Section 3592 - Mitigating and aggravating factors to be considered in de
 usc_title: 18
 usc_section: "3592"
 chapter: 228
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 3592"
-generated_at: "2026-03-29T21:14:04.669Z"
+generated_at: "2026-03-29T21:21:09.704Z"
 ---
 
 # § 3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified

@@ -3,9 +3,9 @@ title: "Section 2452c - Program to provide grants to American-sponsored schools 
 usc_title: 22
 usc_section: "2452c"
 chapter: 33
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 2452c"
-generated_at: "2026-03-29T21:14:20.591Z"
+generated_at: "2026-03-29T21:22:12.341Z"
 ---
 
 # § 2452c. Program to provide grants to American-sponsored schools in predominantly Muslim countries to provide scholarships

@@ -3,9 +3,9 @@ title: "Section 379 - Sale of allotted lands by heirs"
 usc_title: 25
 usc_section: "379"
 chapter: 10
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 379"
-generated_at: "2026-03-29T21:14:13.511Z"
+generated_at: "2026-03-29T21:21:32.917Z"
 ---
 
 # § 379. Sale of allotted lands by heirs

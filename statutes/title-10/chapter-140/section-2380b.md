@@ -3,9 +3,9 @@ title: "Section 2380b - Treatment of commingled items purchased by contractors a
 usc_title: 10
 usc_section: "2380b"
 chapter: 140
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2380b"
-generated_at: "2026-03-29T21:13:10.349Z"
+generated_at: "2026-03-29T21:19:21.979Z"
 ---
 
 # § 2380b. Treatment of commingled items purchased by contractors as commercial products

@@ -3,9 +3,9 @@ title: "Section 5 - Acquisition of lands"
 usc_title: 16
 usc_section: "5"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T21:13:50.134Z"
+generated_at: "2026-03-29T21:20:38.058Z"
 ---
 
 # § 715k–5. Acquisition of lands

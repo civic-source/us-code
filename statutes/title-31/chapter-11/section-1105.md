@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-29T21:15:29.242Z"
+generated_at: "2026-03-29T21:23:21.431Z"
 ---
 
 # § 1105. Budget contents and submission to Congress
@@ -130,3 +130,16 @@ generated_at: "2026-03-29T21:15:29.242Z"
 - **(h)**
   - **(1)** If there is a medicare funding warning under section 801(a)(2) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 made in a year, the President shall submit to Congress, within the 15-day period beginning on the date of the budget submission to Congress under subsection (a) for the succeeding year, proposed legislation to respond to such warning.
   - **(2)** Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
+- **(i)**
+  - **(1)** The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
+    - **(A)** the name of the agency;
+    - **(B)** a unique identifier that identifies the agency;
+    - **(C)** to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
+    - **(D)** the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note);
+    - **(E)** the uniform resource locator where the budget justification materials are published on the website of the agency; and
+    - **(F)** a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) in a structured data format.
+  - **(2)**
+    - **(A)** Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
+    - **(B)** Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of “agencyname.gov/budget”.
+    - **(C)** If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
+  - **(3)** In this subsection, the term “budget justification materials” has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 ( 31 U.S.C. 6101 note).

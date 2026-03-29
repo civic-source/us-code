@@ -3,9 +3,9 @@ title: "Section 11314 - Grants for tribal delinquency prevention and response pr
 usc_title: 34
 usc_section: "11314"
 chapter: 111
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 11314"
-generated_at: "2026-03-29T21:15:24.169Z"
+generated_at: "2026-03-29T21:23:25.925Z"
 ---
 
 # § 11314. Grants for tribal delinquency prevention and response programs

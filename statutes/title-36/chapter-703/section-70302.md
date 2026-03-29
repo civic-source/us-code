@@ -3,9 +3,9 @@ title: "Section 70302 - Organization"
 usc_title: 36
 usc_section: "70302"
 chapter: 703
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 70302"
-generated_at: "2026-03-29T21:15:56.108Z"
+generated_at: "2026-03-29T21:23:35.242Z"
 ---
 
 # § 70302. Organization

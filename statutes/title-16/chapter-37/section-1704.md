@@ -3,9 +3,9 @@ title: "Section 1704 - Grants to States"
 usc_title: 16
 usc_section: "1704"
 chapter: 37
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 1704"
-generated_at: "2026-03-29T21:13:50.287Z"
+generated_at: "2026-03-29T21:20:38.185Z"
 ---
 
 # § 1704. Grants to States

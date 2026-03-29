@@ -3,9 +3,9 @@ title: "Section 9278 - Medal of honor; Air Force cross; distinguished-service cr
 usc_title: 10
 usc_section: "9278"
 chapter: 937
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 9278"
-generated_at: "2026-03-29T21:13:10.494Z"
+generated_at: "2026-03-29T21:19:22.136Z"
 ---
 
 # § 9278. Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: availability of appropriations

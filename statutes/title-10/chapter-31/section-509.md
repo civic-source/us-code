@@ -3,9 +3,9 @@ title: "Section 509 - Voluntary extension of enlistments: periods and benefits"
 usc_title: 10
 usc_section: "509"
 chapter: 31
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 509"
-generated_at: "2026-03-29T21:13:10.173Z"
+generated_at: "2026-03-29T21:19:21.797Z"
 ---
 
 # § 509. Voluntary extension of enlistments: periods and benefits

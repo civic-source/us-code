@@ -3,9 +3,9 @@ title: "Section 8910 - Studies, reports, and audits"
 usc_title: 5
 usc_section: "8910"
 chapter: 89
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "5 U.S.C. § 8910"
-generated_at: "2026-03-29T21:12:23.574Z"
+generated_at: "2026-03-29T21:18:50.244Z"
 ---
 
 # § 8910. Studies, reports, and audits

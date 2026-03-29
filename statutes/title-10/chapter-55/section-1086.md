@@ -3,9 +3,9 @@ title: "Section 1086 - Contracts for health benefits for certain members, former
 usc_title: 10
 usc_section: "1086"
 chapter: 55
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1086"
-generated_at: "2026-03-29T21:13:10.241Z"
+generated_at: "2026-03-29T21:19:21.867Z"
 ---
 
 # § 1086. Contracts for health benefits for certain members, former members, and their dependents

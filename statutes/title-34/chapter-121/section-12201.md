@@ -3,9 +3,9 @@ title: "Section 12201 - Community development corporation improvement grants"
 usc_title: 34
 usc_section: "12201"
 chapter: 121
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 12201"
-generated_at: "2026-03-29T21:15:24.177Z"
+generated_at: "2026-03-29T21:23:25.933Z"
 ---
 
 # § 12201. Community development corporation improvement grants

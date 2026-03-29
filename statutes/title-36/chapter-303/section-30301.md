@@ -3,9 +3,9 @@ title: "Section 30301 - Organization"
 usc_title: 36
 usc_section: "30301"
 chapter: 303
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 30301"
-generated_at: "2026-03-29T21:15:56.100Z"
+generated_at: "2026-03-29T21:23:35.230Z"
 ---
 
 # § 30301. Organization

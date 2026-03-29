@@ -3,9 +3,9 @@ title: "Section 40721 - Report to Congress on plans to modify CODIS system"
 usc_title: 34
 usc_section: "40721"
 chapter: 407
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 40721"
-generated_at: "2026-03-29T21:15:24.236Z"
+generated_at: "2026-03-29T21:23:26.008Z"
 ---
 
 # § 40721. Report to Congress on plans to modify CODIS system

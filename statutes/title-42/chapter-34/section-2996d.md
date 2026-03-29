@@ -3,9 +3,9 @@ title: "Section 2996d - Officers and employees"
 usc_title: 42
 usc_section: "2996d"
 chapter: 34
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 2996d"
-generated_at: "2026-03-29T21:17:13.094Z"
+generated_at: "2026-03-29T21:24:29.506Z"
 ---
 
 # § 2996d. Officers and employees

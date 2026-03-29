@@ -3,9 +3,9 @@ title: "Section 2171 - Leases"
 usc_title: 48
 usc_section: "2171"
 chapter: 20
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "48 U.S.C. § 2171"
-generated_at: "2026-03-29T21:17:22.617Z"
+generated_at: "2026-03-29T21:24:48.676Z"
 ---
 
 # § 2171. Leases

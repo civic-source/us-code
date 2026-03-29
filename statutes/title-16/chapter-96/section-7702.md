@@ -3,9 +3,9 @@ title: "Section 7702 - United States participation in the North Pacific Fisherie
 usc_title: 16
 usc_section: "7702"
 chapter: 96
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 7702"
-generated_at: "2026-03-29T21:13:50.440Z"
+generated_at: "2026-03-29T21:20:38.321Z"
 ---
 
 # § 7702. United States participation in the North Pacific Fisheries Convention

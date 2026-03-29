@@ -3,9 +3,9 @@ title: "Section 80i - Authorization of appropriations; limitations"
 usc_title: 20
 usc_section: "80i"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 80i"
-generated_at: "2026-03-29T21:13:40.386Z"
+generated_at: "2026-03-29T21:20:31.893Z"
 ---
 
 # § 80i. Authorization of appropriations; limitations

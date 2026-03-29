@@ -3,9 +3,9 @@ title: "Section 1553 - Entry for transportation and exportation; lottery materia
 usc_title: 19
 usc_section: "1553"
 chapter: 4
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "19 U.S.C. § 1553"
-generated_at: "2026-03-29T21:13:35.544Z"
+generated_at: "2026-03-29T21:20:55.957Z"
 ---
 
 # § 1553. Entry for transportation and exportation; lottery material from Canada

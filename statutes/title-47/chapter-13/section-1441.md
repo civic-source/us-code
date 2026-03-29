@@ -3,9 +3,9 @@ title: "Section 1441 - State and Local Implementation Fund"
 usc_title: 47
 usc_section: "1441"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "47 U.S.C. § 1441"
-generated_at: "2026-03-29T21:17:18.917Z"
+generated_at: "2026-03-29T21:24:38.721Z"
 ---
 
 # § 1441. State and Local Implementation Fund

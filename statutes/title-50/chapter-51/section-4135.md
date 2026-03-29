@@ -3,9 +3,9 @@ title: "Section 4135 - Claims of stockholders"
 usc_title: 50
 usc_section: "4135"
 chapter: 51
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 4135"
-generated_at: "2026-03-29T21:17:44.261Z"
+generated_at: "2026-03-29T21:24:52.467Z"
 ---
 
 # § 4135. Claims of stockholders

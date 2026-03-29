@@ -3,9 +3,9 @@ title: "Section 48g - Omitted"
 usc_title: 29
 usc_section: "48g"
 chapter: 4
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "29 U.S.C. § 48g"
-generated_at: "2026-03-29T21:14:51.937Z"
+generated_at: "2026-03-29T21:22:21.289Z"
 ---
 
 # §§ 48c to 48g. Omitted

@@ -3,9 +3,9 @@ title: "Section 8587 - Election of annuity for self and beneficiary"
 usc_title: 10
 usc_section: "8587"
 chapter: 857
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 8587"
-generated_at: "2026-03-29T21:13:10.475Z"
+generated_at: "2026-03-29T21:19:22.121Z"
 ---
 
 # § 8587. Election of annuity for self and beneficiary

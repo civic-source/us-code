@@ -3,9 +3,9 @@ title: "Section 3307 - Communications with the Committees on Armed Services of t
 usc_title: 50
 usc_section: "3307"
 chapter: 45
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 3307"
-generated_at: "2026-03-29T21:17:44.218Z"
+generated_at: "2026-03-29T21:24:52.413Z"
 ---
 
 # § 3307. Communications with the Committees on Armed Services of the Senate and the House of Representatives

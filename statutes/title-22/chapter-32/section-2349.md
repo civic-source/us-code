@@ -3,9 +3,9 @@ title: "Section 2349 - General authority"
 usc_title: 22
 usc_section: "2349"
 chapter: 32
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 2349"
-generated_at: "2026-03-29T21:14:20.571Z"
+generated_at: "2026-03-29T21:22:12.309Z"
 ---
 
 # § 2349. General authority

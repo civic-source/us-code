@@ -3,9 +3,9 @@ title: "Section 119 - Meals or lodging furnished for the convenience of the empl
 usc_title: 26
 usc_section: "119"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 119"
-generated_at: "2026-03-29T21:15:04.858Z"
+generated_at: "2026-03-29T21:23:14.011Z"
 ---
 
 # § 119. Meals or lodging furnished for the convenience of the employer

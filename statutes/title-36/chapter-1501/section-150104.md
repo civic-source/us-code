@@ -3,9 +3,9 @@ title: "Section 150104 - Services to United States Government"
 usc_title: 36
 usc_section: "150104"
 chapter: 1501
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 150104"
-generated_at: "2026-03-29T21:15:56.120Z"
+generated_at: "2026-03-29T21:23:35.251Z"
 ---
 
 # § 150104. Services to United States Government

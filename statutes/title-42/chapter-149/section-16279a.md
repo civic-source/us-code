@@ -3,9 +3,9 @@ title: "Section 16279a - Advanced reactor demonstration program"
 usc_title: 42
 usc_section: "16279a"
 chapter: 149
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 16279a"
-generated_at: "2026-03-29T21:17:13.743Z"
+generated_at: "2026-03-29T21:24:30.256Z"
 ---
 
 # § 16279a. Advanced reactor demonstration program

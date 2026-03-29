@@ -3,9 +3,9 @@ title: "Section 5364 - Compacts"
 usc_title: 25
 usc_section: "5364"
 chapter: 46
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 5364"
-generated_at: "2026-03-29T21:14:13.647Z"
+generated_at: "2026-03-29T21:21:33.043Z"
 ---
 
 # § 5364. Compacts

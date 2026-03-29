@@ -3,9 +3,9 @@ title: "Section 47507 - Nonadmissibility of noise exposure map and related infor
 usc_title: 49
 usc_section: "47507"
 chapter: 475
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 47507"
-generated_at: "2026-03-29T21:17:49.200Z"
+generated_at: "2026-03-29T21:24:46.617Z"
 ---
 
 # § 47507. Nonadmissibility of noise exposure map and related information as evidence

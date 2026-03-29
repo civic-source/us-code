@@ -3,9 +3,9 @@ title: "Section 5911 - Acquisition of essential materials"
 usc_title: 42
 usc_section: "5911"
 chapter: 74
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 5911"
-generated_at: "2026-03-29T21:17:13.231Z"
+generated_at: "2026-03-29T21:24:29.682Z"
 ---
 
 # § 5911. Acquisition of essential materials

@@ -3,9 +3,9 @@ title: "Section 7735 - Enforcement actions of Attorney General"
 usc_title: 7
 usc_section: "7735"
 chapter: 104
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 7735"
-generated_at: "2026-03-29T21:12:43.331Z"
+generated_at: "2026-03-29T21:19:44.091Z"
 ---
 
 # § 7735. Enforcement actions of Attorney General

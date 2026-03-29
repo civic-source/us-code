@@ -3,9 +3,9 @@ title: "Section 916h - Cooperation between Federal and State and private agencie
 usc_title: 16
 usc_section: "916h"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 916h"
-generated_at: "2026-03-29T21:13:50.201Z"
+generated_at: "2026-03-29T21:20:38.115Z"
 ---
 
 # § 916h. Cooperation between Federal and State and private agencies and organizations in scientific and other programs

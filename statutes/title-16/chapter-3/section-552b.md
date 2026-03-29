@@ -3,9 +3,9 @@ title: "Section 552b - Administration of withdrawn lands; rules and regulations"
 usc_title: 16
 usc_section: "552b"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 552b"
-generated_at: "2026-03-29T21:13:50.084Z"
+generated_at: "2026-03-29T21:20:38.006Z"
 ---
 
 # § 552b. Administration of withdrawn lands; rules and regulations

@@ -3,9 +3,9 @@ title: "Section 610 - Courts defined"
 usc_title: 28
 usc_section: "610"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "28 U.S.C. § 610"
-generated_at: "2026-03-29T21:14:44.575Z"
+generated_at: "2026-03-29T21:22:18.192Z"
 ---
 
 # § 610. Courts defined

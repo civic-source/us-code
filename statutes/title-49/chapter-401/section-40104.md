@@ -3,9 +3,9 @@ title: "Section 40104 - Promotion of civil aeronautics and safety of air commerc
 usc_title: 49
 usc_section: "40104"
 chapter: 401
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 40104"
-generated_at: "2026-03-29T21:17:49.126Z"
+generated_at: "2026-03-29T21:24:46.519Z"
 ---
 
 # § 40104. Promotion of civil aeronautics and safety of air commerce

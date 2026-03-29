@@ -3,9 +3,9 @@ title: "Section 455c - Extinguishment of liens and tax titles on reversion of la
 usc_title: 43
 usc_section: "455c"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "43 U.S.C. § 455c"
-generated_at: "2026-03-29T21:16:36.715Z"
+generated_at: "2026-03-29T21:24:05.182Z"
 ---
 
 # § 455c. Extinguishment of liens and tax titles on reversion of lands to United States

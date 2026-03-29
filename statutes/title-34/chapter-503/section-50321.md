@@ -3,9 +3,9 @@ title: "Section 50321 - Authorization of a Badge"
 usc_title: 34
 usc_section: "50321"
 chapter: 503
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 50321"
-generated_at: "2026-03-29T21:15:24.245Z"
+generated_at: "2026-03-29T21:23:26.018Z"
 ---
 
 # § 50321. Authorization of a Badge

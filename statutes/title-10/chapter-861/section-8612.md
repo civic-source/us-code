@@ -3,9 +3,9 @@ title: "Section 8612 - Employment of outside architects and engineers"
 usc_title: 10
 usc_section: "8612"
 chapter: 861
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 8612"
-generated_at: "2026-03-29T21:13:10.475Z"
+generated_at: "2026-03-29T21:19:22.121Z"
 ---
 
 # § 8612. Employment of outside architects and engineers

@@ -3,9 +3,9 @@ title: "Section 1445c - Dr. Nancy Foster Scholarship Program"
 usc_title: 16
 usc_section: "1445c"
 chapter: 32
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 1445c"
-generated_at: "2026-03-29T21:13:50.267Z"
+generated_at: "2026-03-29T21:20:38.167Z"
 ---
 
 # § 1445c. Dr. Nancy Foster Scholarship Program

@@ -3,9 +3,9 @@ title: "Section 192 - Contributions to black lung benefit trust"
 usc_title: 26
 usc_section: "192"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 192"
-generated_at: "2026-03-29T21:15:04.899Z"
+generated_at: "2026-03-29T21:23:14.068Z"
 ---
 
 # § 192. Contributions to black lung benefit trust

@@ -3,9 +3,9 @@ title: "Section 2618 - Judicial review"
 usc_title: 15
 usc_section: "2618"
 chapter: 53
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 2618"
-generated_at: "2026-03-29T21:13:22.403Z"
+generated_at: "2026-03-29T21:20:22.274Z"
 ---
 
 # § 2618. Judicial review

@@ -3,9 +3,9 @@ title: "Section 44943 - Performance management system"
 usc_title: 49
 usc_section: "44943"
 chapter: 449
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 44943"
-generated_at: "2026-03-29T21:17:49.178Z"
+generated_at: "2026-03-29T21:24:46.588Z"
 ---
 
 # § 44943. Performance management system

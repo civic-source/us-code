@@ -3,9 +3,9 @@ title: "Section 7612 - Special procedures for summonses for computer software"
 usc_title: 26
 usc_section: "7612"
 chapter: 78
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 7612"
-generated_at: "2026-03-29T21:15:05.278Z"
+generated_at: "2026-03-29T21:23:14.596Z"
 ---
 
 # § 7612. Special procedures for summonses for computer software

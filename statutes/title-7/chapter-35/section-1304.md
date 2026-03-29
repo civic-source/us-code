@@ -3,9 +3,9 @@ title: "Section 1304 - Consumer safeguards"
 usc_title: 7
 usc_section: "1304"
 chapter: 35
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 1304"
-generated_at: "2026-03-29T21:12:42.962Z"
+generated_at: "2026-03-29T21:19:43.758Z"
 ---
 
 # § 1304. Consumer safeguards

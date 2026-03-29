@@ -3,9 +3,9 @@ title: "Section 273 - Pan American Institute of Geography and History; authoriza
 usc_title: 22
 usc_section: "273"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 273"
-generated_at: "2026-03-29T21:14:20.460Z"
+generated_at: "2026-03-29T21:22:12.177Z"
 ---
 
 # § 273. Pan American Institute of Geography and History; authorization of annual appropriations for membership

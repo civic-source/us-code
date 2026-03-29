@@ -3,9 +3,9 @@ title: "Section 318 - Decision of the Board"
 usc_title: 35
 usc_section: "318"
 chapter: 31
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "35 U.S.C. § 318"
-generated_at: "2026-03-29T21:15:09.699Z"
+generated_at: "2026-03-29T21:23:17.344Z"
 ---
 
 # § 318. Decision of the Board

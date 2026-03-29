@@ -3,9 +3,9 @@ title: "Section 1059g - Asian American and Native American Pacific Islander-serv
 usc_title: 20
 usc_section: "1059g"
 chapter: 28
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 1059g"
-generated_at: "2026-03-29T21:13:40.433Z"
+generated_at: "2026-03-29T21:20:31.935Z"
 ---
 
 # § 1059g. Asian American and Native American Pacific Islander-serving institutions

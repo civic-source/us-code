@@ -3,9 +3,9 @@ title: "Section 12332 - State databases"
 usc_title: 34
 usc_section: "12332"
 chapter: 121
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 12332"
-generated_at: "2026-03-29T21:15:24.184Z"
+generated_at: "2026-03-29T21:23:25.938Z"
 ---
 
 # § 12332. State databases

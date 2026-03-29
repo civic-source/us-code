@@ -3,9 +3,9 @@ title: "Section 8764 - Devices and trophies: transfer to other agencies"
 usc_title: 10
 usc_section: "8764"
 chapter: 875
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 8764"
-generated_at: "2026-03-29T21:13:10.482Z"
+generated_at: "2026-03-29T21:19:22.127Z"
 ---
 
 # § 8764. Devices and trophies: transfer to other agencies

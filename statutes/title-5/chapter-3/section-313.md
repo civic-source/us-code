@@ -3,9 +3,9 @@ title: "Section 313 - Evaluation Officers"
 usc_title: 5
 usc_section: "313"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "5 U.S.C. § 313"
-generated_at: "2026-03-29T21:12:23.401Z"
+generated_at: "2026-03-29T21:18:50.066Z"
 ---
 
 # § 313. Evaluation Officers

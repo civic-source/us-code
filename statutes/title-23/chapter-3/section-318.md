@@ -3,9 +3,9 @@ title: "Section 318 - Highway relocation due to airport"
 usc_title: 23
 usc_section: "318"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "23 U.S.C. § 318"
-generated_at: "2026-03-29T21:14:09.765Z"
+generated_at: "2026-03-29T21:21:14.753Z"
 ---
 
 # § 318. Highway relocation due to airport

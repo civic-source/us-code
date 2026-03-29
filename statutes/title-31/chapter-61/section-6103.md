@@ -3,9 +3,9 @@ title: "Section 6103 - Access to computer information system"
 usc_title: 31
 usc_section: "6103"
 chapter: 61
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "31 U.S.C. § 6103"
-generated_at: "2026-03-29T21:15:29.295Z"
+generated_at: "2026-03-29T21:23:21.499Z"
 ---
 
 # § 6103. Access to computer information system

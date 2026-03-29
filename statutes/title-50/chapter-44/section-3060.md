@@ -3,9 +3,9 @@ title: "Section 3060 - Climate Security Advisory Council"
 usc_title: 50
 usc_section: "3060"
 chapter: 44
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 3060"
-generated_at: "2026-03-29T21:17:44.206Z"
+generated_at: "2026-03-29T21:24:52.394Z"
 ---
 
 # § 3060. Climate Security Advisory Council

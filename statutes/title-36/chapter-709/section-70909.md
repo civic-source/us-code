@@ -3,9 +3,9 @@ title: "Section 70909 - Relationship to Federal agencies"
 usc_title: 36
 usc_section: "70909"
 chapter: 709
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 70909"
-generated_at: "2026-03-29T21:15:56.111Z"
+generated_at: "2026-03-29T21:23:35.243Z"
 ---
 
 # § 70909. Relationship to Federal agencies

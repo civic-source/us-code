@@ -3,9 +3,9 @@ title: "Section 2315 - Law inapplicable to the procurement of automatic data pro
 usc_title: 10
 usc_section: "2315"
 chapter: 137
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2315"
-generated_at: "2026-03-29T21:13:10.331Z"
+generated_at: "2026-03-29T21:19:21.961Z"
 ---
 
 # § 2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes

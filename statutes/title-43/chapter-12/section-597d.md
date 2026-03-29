@@ -3,9 +3,9 @@ title: "Section 597d - Regulations"
 usc_title: 43
 usc_section: "597d"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "43 U.S.C. § 597d"
-generated_at: "2026-03-29T21:16:36.724Z"
+generated_at: "2026-03-29T21:24:05.192Z"
 ---
 
 # § 597d. Regulations

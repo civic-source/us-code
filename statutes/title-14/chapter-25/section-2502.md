@@ -3,9 +3,9 @@ title: "Section 2502 - Retirement"
 usc_title: 14
 usc_section: "2502"
 chapter: 25
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "14 U.S.C. § 2502"
-generated_at: "2026-03-29T21:13:14.246Z"
+generated_at: "2026-03-29T21:19:48.200Z"
 ---
 
 # § 2502. Retirement

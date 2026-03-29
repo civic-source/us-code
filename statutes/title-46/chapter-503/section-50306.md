@@ -3,9 +3,9 @@ title: "Section 50306 - Requiring testimony and records in investigations"
 usc_title: 46
 usc_section: "50306"
 chapter: 503
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "46 U.S.C. § 50306"
-generated_at: "2026-03-29T21:17:34.890Z"
+generated_at: "2026-03-29T21:24:37.279Z"
 ---
 
 # § 50306. Requiring testimony and records in investigations

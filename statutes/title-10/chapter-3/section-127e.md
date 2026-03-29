@@ -3,9 +3,9 @@ title: "Section 127e - Support of special operations to combat terrorism"
 usc_title: 10
 usc_section: "127e"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 127e"
-generated_at: "2026-03-29T21:13:10.130Z"
+generated_at: "2026-03-29T21:19:21.751Z"
 ---
 
 # § 127e. Support of special operations to combat terrorism

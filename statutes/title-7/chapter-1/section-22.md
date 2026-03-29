@@ -3,9 +3,9 @@ title: "Section 22 - Research and information programs; reports to Congress"
 usc_title: 7
 usc_section: "22"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 22"
-generated_at: "2026-03-29T21:12:42.857Z"
+generated_at: "2026-03-29T21:19:43.656Z"
 ---
 
 # § 22. Research and information programs; reports to Congress

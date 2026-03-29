@@ -3,9 +3,9 @@ title: "Section 203 - Compensation to Members of Congress, officers, and others 
 usc_title: 18
 usc_section: "203"
 chapter: 11
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 203"
-generated_at: "2026-03-29T21:14:04.550Z"
+generated_at: "2026-03-29T21:21:09.583Z"
 ---
 
 # § 203. Compensation to Members of Congress, officers, and others in matters affecting the Government

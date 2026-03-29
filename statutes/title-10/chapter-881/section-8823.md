@@ -3,9 +3,9 @@ title: "Section 8823 - Admiralty claims by the United States"
 usc_title: 10
 usc_section: "8823"
 chapter: 881
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 8823"
-generated_at: "2026-03-29T21:13:10.486Z"
+generated_at: "2026-03-29T21:19:22.128Z"
 ---
 
 # § 8823. Admiralty claims by the United States

@@ -3,9 +3,9 @@ title: "Section 1813 - Procedures for the retention of incidentally acquired com
 usc_title: 50
 usc_section: "1813"
 chapter: 36
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 1813"
-generated_at: "2026-03-29T21:17:44.145Z"
+generated_at: "2026-03-29T21:24:52.315Z"
 ---
 
 # § 1813. Procedures for the retention of incidentally acquired communications

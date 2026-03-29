@@ -3,9 +3,9 @@ title: "Section 7931 - Respect for treaties and rights"
 usc_title: 16
 usc_section: "7931"
 chapter: 98
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 7931"
-generated_at: "2026-03-29T21:13:50.445Z"
+generated_at: "2026-03-29T21:20:38.324Z"
 ---
 
 # § 7931. Respect for treaties and rights

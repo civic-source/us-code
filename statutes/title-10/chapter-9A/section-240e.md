@@ -3,9 +3,9 @@ title: "Section 240e - Audits: use of commercial data integration and analysis p
 usc_title: 10
 usc_section: "240e"
 chapter: 9
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 240e"
-generated_at: "2026-03-29T21:13:10.150Z"
+generated_at: "2026-03-29T21:19:21.777Z"
 ---
 
 # § 240e. Audits: use of commercial data integration and analysis products in preparing audits

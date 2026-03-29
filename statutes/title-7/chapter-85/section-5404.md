@@ -3,9 +3,9 @@ title: "Section 5404 - Good Neighbor Environmental Board"
 usc_title: 7
 usc_section: "5404"
 chapter: 85
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 5404"
-generated_at: "2026-03-29T21:12:43.225Z"
+generated_at: "2026-03-29T21:19:43.994Z"
 ---
 
 # § 5404. Good Neighbor Environmental Board

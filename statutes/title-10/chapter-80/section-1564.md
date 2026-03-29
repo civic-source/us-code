@@ -3,9 +3,9 @@ title: "Section 1564 - Security clearance investigations"
 usc_title: 10
 usc_section: "1564"
 chapter: 80
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1564"
-generated_at: "2026-03-29T21:13:10.286Z"
+generated_at: "2026-03-29T21:19:21.912Z"
 ---
 
 # § 1564. Security clearance investigations

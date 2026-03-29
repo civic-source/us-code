@@ -3,9 +3,9 @@ title: "Section 5741 - General prohibition"
 usc_title: 5
 usc_section: "5741"
 chapter: 57
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "5 U.S.C. § 5741"
-generated_at: "2026-03-29T21:12:23.481Z"
+generated_at: "2026-03-29T21:18:50.153Z"
 ---
 
 # § 5741. General prohibition

@@ -3,9 +3,9 @@ title: "Section 2397 - Administrative expenses"
 usc_title: 22
 usc_section: "2397"
 chapter: 32
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 2397"
-generated_at: "2026-03-29T21:14:20.585Z"
+generated_at: "2026-03-29T21:22:12.331Z"
 ---
 
 # § 2397. Administrative expenses

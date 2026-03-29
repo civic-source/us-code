@@ -3,9 +3,9 @@ title: "Section 5760 - Travel and transportation allowances: transportation of f
 usc_title: 5
 usc_section: "5760"
 chapter: 57
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "5 U.S.C. § 5760"
-generated_at: "2026-03-29T21:12:23.483Z"
+generated_at: "2026-03-29T21:18:50.154Z"
 ---
 
 # § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive

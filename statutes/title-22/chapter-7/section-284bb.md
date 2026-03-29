@@ -3,9 +3,9 @@ title: "Section 284bb - Eighteenth replenishment"
 usc_title: 22
 usc_section: "284bb"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 284bb"
-generated_at: "2026-03-29T21:14:20.475Z"
+generated_at: "2026-03-29T21:22:12.197Z"
 ---
 
 # § 284bb. Eighteenth replenishment

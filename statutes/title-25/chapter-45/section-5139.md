@@ -3,9 +3,9 @@ title: "Section 5139 - Tribal rights and privileges in connection with loans"
 usc_title: 25
 usc_section: "5139"
 chapter: 45
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 5139"
-generated_at: "2026-03-29T21:14:13.636Z"
+generated_at: "2026-03-29T21:21:33.035Z"
 ---
 
 # § 5139. Tribal rights and privileges in connection with loans

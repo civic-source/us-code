@@ -3,9 +3,9 @@ title: "Section 17195a - Geothermal heat pumps and direct use research and devel
 usc_title: 42
 usc_section: "17195a"
 chapter: 152
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 17195a"
-generated_at: "2026-03-29T21:17:13.785Z"
+generated_at: "2026-03-29T21:24:30.302Z"
 ---
 
 # § 17195a. Geothermal heat pumps and direct use research and development

@@ -3,9 +3,9 @@ title: "Section 1349 - Export market acreage"
 usc_title: 7
 usc_section: "1349"
 chapter: 35
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 1349"
-generated_at: "2026-03-29T21:12:42.973Z"
+generated_at: "2026-03-29T21:19:43.770Z"
 ---
 
 # § 1349. Export market acreage

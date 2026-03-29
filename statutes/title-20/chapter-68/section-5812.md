@@ -3,9 +3,9 @@ title: "Section 5812 - National Education Goals"
 usc_title: 20
 usc_section: "5812"
 chapter: 68
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 5812"
-generated_at: "2026-03-29T21:13:40.645Z"
+generated_at: "2026-03-29T21:20:32.103Z"
 ---
 
 # § 5812. National Education Goals

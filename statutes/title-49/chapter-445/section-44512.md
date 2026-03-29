@@ -3,9 +3,9 @@ title: "Section 44512 - Catastrophic failure prevention research grants"
 usc_title: 49
 usc_section: "44512"
 chapter: 445
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 44512"
-generated_at: "2026-03-29T21:17:49.153Z"
+generated_at: "2026-03-29T21:24:46.555Z"
 ---
 
 # § 44512. Catastrophic failure prevention research grants

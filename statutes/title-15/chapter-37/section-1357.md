@@ -3,9 +3,9 @@ title: "Section 1357 - Interstate cooperation in administration and coordination
 usc_title: 15
 usc_section: "1357"
 chapter: 37
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1357"
-generated_at: "2026-03-29T21:13:22.302Z"
+generated_at: "2026-03-29T21:20:22.167Z"
 ---
 
 # § 1357. Interstate cooperation in administration and coordination of plans and programs

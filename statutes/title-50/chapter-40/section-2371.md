@@ -3,9 +3,9 @@ title: "Section 2371 - Repealed. Pub. L. 114–113, div. M, title VII, § 701(d)
 usc_title: 50
 usc_section: "2371"
 chapter: 40
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 2371"
-generated_at: "2026-03-29T21:17:44.172Z"
+generated_at: "2026-03-29T21:24:52.348Z"
 ---
 
 # § 2371. Repealed. Pub. L. 114–113, div. M, title VII, § 701(d) , Dec. 18, 2015 , 129 Stat. 2930

@@ -3,9 +3,9 @@ title: "Section 1562 - Database on domestic violence incidents"
 usc_title: 10
 usc_section: "1562"
 chapter: 80
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1562"
-generated_at: "2026-03-29T21:13:10.286Z"
+generated_at: "2026-03-29T21:19:21.912Z"
 ---
 
 # § 1562. Database on domestic violence incidents

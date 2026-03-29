@@ -3,9 +3,9 @@ title: "Section 2033 - Additional services at certain locations"
 usc_title: 38
 usc_section: "2033"
 chapter: 20
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 2033"
-generated_at: "2026-03-29T21:16:11.576Z"
+generated_at: "2026-03-29T21:23:39.261Z"
 ---
 
 # § 2033. Additional services at certain locations

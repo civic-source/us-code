@@ -3,9 +3,9 @@ title: "Section 9682 - Reorganization plan"
 usc_title: 22
 usc_section: "9682"
 chapter: 103
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 9682"
-generated_at: "2026-03-29T21:14:20.805Z"
+generated_at: "2026-03-29T21:22:12.619Z"
 ---
 
 # § 9682. Reorganization plan

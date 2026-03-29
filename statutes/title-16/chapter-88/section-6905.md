@@ -3,9 +3,9 @@ title: "Section 6905 - Enforcement"
 usc_title: 16
 usc_section: "6905"
 chapter: 88
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 6905"
-generated_at: "2026-03-29T21:13:50.429Z"
+generated_at: "2026-03-29T21:20:38.311Z"
 ---
 
 # § 6905. Enforcement

@@ -3,9 +3,9 @@ title: "Section 30a - Existing laws as affected"
 usc_title: 16
 usc_section: "30a"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 30a"
-generated_at: "2026-03-29T21:13:49.811Z"
+generated_at: "2026-03-29T21:20:37.733Z"
 ---
 
 # § 30a. Existing laws as affected

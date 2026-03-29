@@ -3,9 +3,9 @@ title: "Section 1902 - Disclosure of crop information and speculation thereon"
 usc_title: 18
 usc_section: "1902"
 chapter: 93
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 1902"
-generated_at: "2026-03-29T21:14:04.609Z"
+generated_at: "2026-03-29T21:21:09.642Z"
 ---
 
 # § 1902. Disclosure of crop information and speculation thereon

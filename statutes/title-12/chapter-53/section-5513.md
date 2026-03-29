@@ -3,9 +3,9 @@ title: "Section 5513 - Review of Bureau regulations"
 usc_title: 12
 usc_section: "5513"
 chapter: 53
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 5513"
-generated_at: "2026-03-29T21:13:28.680Z"
+generated_at: "2026-03-29T21:19:56.533Z"
 ---
 
 # § 5513. Review of Bureau regulations

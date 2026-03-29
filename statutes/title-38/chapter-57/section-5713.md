@@ -3,9 +3,9 @@ title: "Section 5713 - Disobedience to subpoena"
 usc_title: 38
 usc_section: "5713"
 chapter: 57
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 5713"
-generated_at: "2026-03-29T21:16:11.707Z"
+generated_at: "2026-03-29T21:23:39.334Z"
 ---
 
 # § 5713. Disobedience to subpoena

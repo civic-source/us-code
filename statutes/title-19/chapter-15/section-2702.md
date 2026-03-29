@@ -3,9 +3,9 @@ title: "Section 2702 - Beneficiary country"
 usc_title: 19
 usc_section: "2702"
 chapter: 15
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "19 U.S.C. § 2702"
-generated_at: "2026-03-29T21:13:35.635Z"
+generated_at: "2026-03-29T21:20:56.047Z"
 ---
 
 # § 2702. Beneficiary country

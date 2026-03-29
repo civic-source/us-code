@@ -3,9 +3,9 @@ title: "Section 2402 - Saving provisions"
 usc_title: 22
 usc_section: "2402"
 chapter: 32
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 2402"
-generated_at: "2026-03-29T21:14:20.586Z"
+generated_at: "2026-03-29T21:22:12.332Z"
 ---
 
 # § 2402. Saving provisions

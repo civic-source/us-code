@@ -3,9 +3,9 @@ title: "Section 4167 - Reports to Congress"
 usc_title: 25
 usc_section: "4167"
 chapter: 43
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 4167"
-generated_at: "2026-03-29T21:14:13.625Z"
+generated_at: "2026-03-29T21:21:33.026Z"
 ---
 
 # § 4167. Reports to Congress

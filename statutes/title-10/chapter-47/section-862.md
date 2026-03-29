@@ -3,9 +3,9 @@ title: "Section 862 - Art. 62. Appeal by the United States"
 usc_title: 10
 usc_section: "862"
 chapter: 47
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 862"
-generated_at: "2026-03-29T21:13:10.205Z"
+generated_at: "2026-03-29T21:19:21.828Z"
 ---
 
 # § 862. Art. 62. Appeal by the United States

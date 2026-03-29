@@ -3,9 +3,9 @@ title: "Section 6024 - Severability"
 usc_title: 22
 usc_section: "6024"
 chapter: 69
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 6024"
-generated_at: "2026-03-29T21:14:20.701Z"
+generated_at: "2026-03-29T21:22:12.486Z"
 ---
 
 # § 6024. Severability

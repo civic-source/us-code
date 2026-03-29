@@ -3,9 +3,9 @@ title: "Section 2446a - Requirement for modular open system approach in major de
 usc_title: 10
 usc_section: "2446a"
 chapter: 144
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2446a"
-generated_at: "2026-03-29T21:13:10.360Z"
+generated_at: "2026-03-29T21:19:21.991Z"
 ---
 
 # § 2446a. Requirement for modular open system approach in major defense acquisition programs; definitions

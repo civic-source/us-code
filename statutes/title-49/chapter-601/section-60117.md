@@ -3,9 +3,9 @@ title: "Section 60117 - Administrative"
 usc_title: 49
 usc_section: "60117"
 chapter: 601
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 60117"
-generated_at: "2026-03-29T21:17:49.212Z"
+generated_at: "2026-03-29T21:24:46.635Z"
 ---
 
 # § 60117. Administrative

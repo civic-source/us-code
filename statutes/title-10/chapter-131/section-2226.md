@@ -3,9 +3,9 @@ title: "Section 2226 - Contracted property and services: prompt payment of vouch
 usc_title: 10
 usc_section: "2226"
 chapter: 131
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2226"
-generated_at: "2026-03-29T21:13:10.318Z"
+generated_at: "2026-03-29T21:19:21.947Z"
 ---
 
 # § 2226. Contracted property and services: prompt payment of vouchers

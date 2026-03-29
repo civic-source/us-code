@@ -3,9 +3,9 @@ title: "Section 220106 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "220106"
 chapter: 2201
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 220106"
-generated_at: "2026-03-29T21:15:56.137Z"
+generated_at: "2026-03-29T21:23:35.273Z"
 ---
 
 # § 220106. Exclusive right to name, seals, emblems, and badges

@@ -3,9 +3,9 @@ title: "Section 2350p - Reciprocal patient movement agreements"
 usc_title: 10
 usc_section: "2350p"
 chapter: 138
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2350p"
-generated_at: "2026-03-29T21:13:10.343Z"
+generated_at: "2026-03-29T21:19:21.972Z"
 ---
 
 # § 2350p. Reciprocal patient movement agreements

@@ -3,9 +3,9 @@ title: "Section 1926e - Rural decentralized water systems"
 usc_title: 7
 usc_section: "1926e"
 chapter: 50
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 1926e"
-generated_at: "2026-03-29T21:12:43.057Z"
+generated_at: "2026-03-29T21:19:43.842Z"
 ---
 
 # § 1926e. Rural decentralized water systems

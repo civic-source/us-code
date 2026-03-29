@@ -3,9 +3,9 @@ title: "Section 5741 - Records to be maintained"
 usc_title: 26
 usc_section: "5741"
 chapter: 52
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 5741"
-generated_at: "2026-03-29T21:15:05.195Z"
+generated_at: "2026-03-29T21:23:14.464Z"
 ---
 
 # § 5741. Records to be maintained

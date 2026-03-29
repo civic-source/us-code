@@ -3,9 +3,9 @@ title: "Section 9305 - Assistance to implement the Global Food Security Strategy
 usc_title: 22
 usc_section: "9305"
 chapter: 100
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 9305"
-generated_at: "2026-03-29T21:14:20.793Z"
+generated_at: "2026-03-29T21:22:12.604Z"
 ---
 
 # § 9305. Assistance to implement the Global Food Security Strategy

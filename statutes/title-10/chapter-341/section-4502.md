@@ -3,9 +3,9 @@ title: "Section 4502 - Procurement of contract services: senior officials respon
 usc_title: 10
 usc_section: "4502"
 chapter: 341
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 4502"
-generated_at: "2026-03-29T21:13:10.437Z"
+generated_at: "2026-03-29T21:19:22.079Z"
 ---
 
 # § 4502. Procurement of contract services: senior officials responsible for management of acquisition of contract services

@@ -3,9 +3,9 @@ title: "Section 1204 - Radiotelephone for exclusive use of master, person in cha
 usc_title: 33
 usc_section: "1204"
 chapter: 24
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "33 U.S.C. § 1204"
-generated_at: "2026-03-29T21:15:34.525Z"
+generated_at: "2026-03-29T21:23:28.712Z"
 ---
 
 # § 1204. Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment

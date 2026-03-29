@@ -3,9 +3,9 @@ title: "Section 3797aa - Transferred"
 usc_title: 42
 usc_section: "3797aa"
 chapter: 46
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 3797aa"
-generated_at: "2026-03-29T21:17:13.140Z"
+generated_at: "2026-03-29T21:24:29.569Z"
 ---
 
 # § 3797aa. Transferred

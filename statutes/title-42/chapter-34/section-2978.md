@@ -3,9 +3,9 @@ title: "Section 2978 - Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13,
 usc_title: 42
 usc_section: "2978"
 chapter: 34
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 2978"
-generated_at: "2026-03-29T21:17:13.091Z"
+generated_at: "2026-03-29T21:24:29.502Z"
 ---
 
 # §§ 2972 to 2978. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

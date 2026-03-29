@@ -3,9 +3,9 @@ title: "Section 9320 - More than thirty years: permanent professors and the Dire
 usc_title: 10
 usc_section: "9320"
 chapter: 941
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 9320"
-generated_at: "2026-03-29T21:13:10.494Z"
+generated_at: "2026-03-29T21:19:22.137Z"
 ---
 
 # § 9320. More than thirty years: permanent professors and the Director of Admissions of the United States Air Force Academy

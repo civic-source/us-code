@@ -3,9 +3,9 @@ title: "Section 3123 - Repealed. Pub. L. 112–277, title III, § 310(a)(4)(A) ,
 usc_title: 50
 usc_section: "3123"
 chapter: 44
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 3123"
-generated_at: "2026-03-29T21:17:44.212Z"
+generated_at: "2026-03-29T21:24:52.405Z"
 ---
 
 # § 3123. Repealed. Pub. L. 112–277, title III, § 310(a)(4)(A) , Jan. 14, 2013 , 126 Stat. 2475

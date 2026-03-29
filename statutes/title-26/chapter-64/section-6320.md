@@ -3,9 +3,9 @@ title: "Section 6320 - Notice and opportunity for hearing upon filing of notice 
 usc_title: 26
 usc_section: "6320"
 chapter: 64
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 6320"
-generated_at: "2026-03-29T21:15:05.228Z"
+generated_at: "2026-03-29T21:23:14.517Z"
 ---
 
 # § 6320. Notice and opportunity for hearing upon filing of notice of lien

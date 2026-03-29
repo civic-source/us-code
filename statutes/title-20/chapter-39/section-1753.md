@@ -3,9 +3,9 @@ title: "Section 1753 - Uniform rules of evidence requirement"
 usc_title: 20
 usc_section: "1753"
 chapter: 39
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 1753"
-generated_at: "2026-03-29T21:13:40.599Z"
+generated_at: "2026-03-29T21:20:32.068Z"
 ---
 
 # § 1753. Uniform rules of evidence requirement

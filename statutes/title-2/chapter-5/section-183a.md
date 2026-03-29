@@ -3,9 +3,9 @@ title: "Section 183a - Oral history of the House of Representatives"
 usc_title: 2
 usc_section: "183a"
 chapter: 5
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "2 U.S.C. § 183a"
-generated_at: "2026-03-29T21:12:29.879Z"
+generated_at: "2026-03-29T21:19:01.692Z"
 ---
 
 # § 183a. Oral history of the House of Representatives

@@ -3,9 +3,9 @@ title: "Section 421c - Conditions of loan for distribution and drainage systems;
 usc_title: 43
 usc_section: "421c"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "43 U.S.C. § 421c"
-generated_at: "2026-03-29T21:16:36.710Z"
+generated_at: "2026-03-29T21:24:05.176Z"
 ---
 
 # § 421c. Conditions of loan for distribution and drainage systems; reconveyance by Secretary of lands, interests in lands, and distribution works heretofore conveyed to the United States; conditions of reconveyance; rights of way

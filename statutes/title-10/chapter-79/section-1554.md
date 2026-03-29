@@ -3,9 +3,9 @@ title: "Section 1554 - Review of retirement or separation without pay for physic
 usc_title: 10
 usc_section: "1554"
 chapter: 79
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1554"
-generated_at: "2026-03-29T21:13:10.282Z"
+generated_at: "2026-03-29T21:19:21.910Z"
 ---
 
 # § 1554. Review of retirement or separation without pay for physical disability

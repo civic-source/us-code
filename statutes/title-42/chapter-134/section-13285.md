@@ -3,9 +3,9 @@ title: "Section 13285 - Reports to Congress"
 usc_title: 42
 usc_section: "13285"
 chapter: 134
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 13285"
-generated_at: "2026-03-29T21:17:13.667Z"
+generated_at: "2026-03-29T21:24:30.166Z"
 ---
 
 # § 13285. Reports to Congress

@@ -3,9 +3,9 @@ title: "Section 983 - General rules for civil forfeiture proceedings"
 usc_title: 18
 usc_section: "983"
 chapter: 46
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 983"
-generated_at: "2026-03-29T21:14:04.584Z"
+generated_at: "2026-03-29T21:21:09.617Z"
 ---
 
 # § 983. General rules for civil forfeiture proceedings

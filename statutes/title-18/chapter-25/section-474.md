@@ -3,9 +3,9 @@ title: "Section 474 - Plates, stones, or analog, digital, or electronic images f
 usc_title: 18
 usc_section: "474"
 chapter: 25
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 474"
-generated_at: "2026-03-29T21:14:04.560Z"
+generated_at: "2026-03-29T21:21:09.593Z"
 ---
 
 # § 474. Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities

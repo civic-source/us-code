@@ -3,9 +3,9 @@ title: "Section 132a - Repealed. Pub. L. 116––283, div. A, title IX, § 901(
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-29T21:13:10.133Z"
+generated_at: "2026-03-29T21:19:21.757Z"
 ---
 
 # [§ 132a. Repealed. Pub. L. 116––283, div. A, title IX, § 901(a)(1), Jan. 1, 2021 , 134 Stat. 3794 ]

@@ -3,9 +3,9 @@ title: "Section 2642 - Definitions"
 usc_title: 15
 usc_section: "2642"
 chapter: 53
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 2642"
-generated_at: "2026-03-29T21:13:22.406Z"
+generated_at: "2026-03-29T21:20:22.277Z"
 ---
 
 # § 2642. Definitions

@@ -3,9 +3,9 @@ title: "Section 883a - Omitted"
 usc_title: 25
 usc_section: "883a"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 883a"
-generated_at: "2026-03-29T21:14:13.523Z"
+generated_at: "2026-03-29T21:21:32.930Z"
 ---
 
 # § 883a. Omitted

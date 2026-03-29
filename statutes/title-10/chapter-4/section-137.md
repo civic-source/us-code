@@ -3,9 +3,9 @@ title: "Section 137 - Under Secretary of Defense for Intelligence and Security"
 usc_title: 10
 usc_section: "137"
 chapter: 4
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 137"
-generated_at: "2026-03-29T21:13:10.134Z"
+generated_at: "2026-03-29T21:19:21.758Z"
 ---
 
 # § 137. Under Secretary of Defense for Intelligence and Security

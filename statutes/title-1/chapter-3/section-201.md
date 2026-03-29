@@ -3,9 +3,9 @@ title: "Section 201 - Publication and distribution of Code of Laws of United Sta
 usc_title: 1
 usc_section: "201"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "1 U.S.C. § 201"
-generated_at: "2026-03-29T21:12:17.011Z"
+generated_at: "2026-03-29T21:18:32.102Z"
 ---
 
 # § 201. Publication and distribution of Code of Laws of United States and Supplements and District of Columbia Code and Supplements

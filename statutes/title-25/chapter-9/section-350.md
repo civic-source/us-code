@@ -3,9 +3,9 @@ title: "Section 350 - Surrender of patent, and selection of other land"
 usc_title: 25
 usc_section: "350"
 chapter: 9
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 350"
-generated_at: "2026-03-29T21:14:13.507Z"
+generated_at: "2026-03-29T21:21:32.915Z"
 ---
 
 # § 350. Surrender of patent, and selection of other land

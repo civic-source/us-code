@@ -3,9 +3,9 @@ title: "Section 4843 - Armament retooling and manufacturing"
 usc_title: 10
 usc_section: "4843"
 chapter: 384
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 4843"
-generated_at: "2026-03-29T21:13:10.444Z"
+generated_at: "2026-03-29T21:19:22.086Z"
 ---
 
 # § 4843. Armament retooling and manufacturing

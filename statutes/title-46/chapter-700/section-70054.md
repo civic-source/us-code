@@ -3,9 +3,9 @@ title: "Section 70054 - Definitions"
 usc_title: 46
 usc_section: "70054"
 chapter: 700
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "46 U.S.C. § 70054"
-generated_at: "2026-03-29T21:17:34.931Z"
+generated_at: "2026-03-29T21:24:37.326Z"
 ---
 
 # § 70054. Definitions

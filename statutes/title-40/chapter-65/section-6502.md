@@ -3,9 +3,9 @@ title: "Section 6502 - Thurgood Marshall Federal Judiciary Building"
 usc_title: 40
 usc_section: "6502"
 chapter: 65
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "40 U.S.C. § 6502"
-generated_at: "2026-03-29T21:15:38.198Z"
+generated_at: "2026-03-29T21:23:32.458Z"
 ---
 
 # § 6502. Thurgood Marshall Federal Judiciary Building

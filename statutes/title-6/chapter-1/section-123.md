@@ -3,9 +3,9 @@ title: "Section 123 - Terrorist travel program"
 usc_title: 6
 usc_section: "123"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "6 U.S.C. § 123"
-generated_at: "2026-03-29T21:12:54.167Z"
+generated_at: "2026-03-29T21:19:29.082Z"
 ---
 
 # § 123. Terrorist travel program

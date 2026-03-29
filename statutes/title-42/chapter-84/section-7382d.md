@@ -3,9 +3,9 @@ title: "Section 7382d - Fellowship awards"
 usc_title: 42
 usc_section: "7382d"
 chapter: 84
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 7382d"
-generated_at: "2026-03-29T21:17:13.341Z"
+generated_at: "2026-03-29T21:24:29.799Z"
 ---
 
 # § 7382d. Fellowship awards

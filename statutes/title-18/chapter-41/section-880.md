@@ -3,9 +3,9 @@ title: "Section 880 - Receiving the proceeds of extortion"
 usc_title: 18
 usc_section: "880"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 880"
-generated_at: "2026-03-29T21:14:04.574Z"
+generated_at: "2026-03-29T21:21:09.607Z"
 ---
 
 # § 880. Receiving the proceeds of extortion

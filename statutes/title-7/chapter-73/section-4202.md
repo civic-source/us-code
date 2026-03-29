@@ -3,9 +3,9 @@ title: "Section 4202 - Identifying effects of Federal programs on conversion of 
 usc_title: 7
 usc_section: "4202"
 chapter: 73
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 4202"
-generated_at: "2026-03-29T21:12:43.204Z"
+generated_at: "2026-03-29T21:19:43.975Z"
 ---
 
 # § 4202. Identifying effects of Federal programs on conversion of farmland to nonagricultural uses

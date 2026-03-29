@@ -3,9 +3,9 @@ title: "Section 1869c - Low-income scholarship program"
 usc_title: 42
 usc_section: "1869c"
 chapter: 16
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 1869c"
-generated_at: "2026-03-29T21:17:13.003Z"
+generated_at: "2026-03-29T21:24:29.404Z"
 ---
 
 # § 1869c. Low-income scholarship program

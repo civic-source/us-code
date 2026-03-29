@@ -3,9 +3,9 @@ title: "Section 8125 - Public spaces resulting from filling of canals"
 usc_title: 40
 usc_section: "8125"
 chapter: 81
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "40 U.S.C. § 8125"
-generated_at: "2026-03-29T21:15:38.202Z"
+generated_at: "2026-03-29T21:23:32.462Z"
 ---
 
 # § 8125. Public spaces resulting from filling of canals

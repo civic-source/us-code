@@ -3,9 +3,9 @@ title: "Section 100753 - Disposal of timber"
 usc_title: 54
 usc_section: "100753"
 chapter: 1007
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "54 U.S.C. § 100753"
-generated_at: "2026-03-29T21:17:52.311Z"
+generated_at: "2026-03-29T21:25:10.272Z"
 ---
 
 # § 100753. Disposal of timber

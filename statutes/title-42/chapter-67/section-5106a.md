@@ -3,9 +3,9 @@ title: "Section 5106a - Grants to States for child abuse or neglect prevention a
 usc_title: 42
 usc_section: "5106a"
 chapter: 67
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 5106a"
-generated_at: "2026-03-29T21:17:13.190Z"
+generated_at: "2026-03-29T21:24:29.625Z"
 ---
 
 # § 5106a. Grants to States for child abuse or neglect prevention and treatment programs

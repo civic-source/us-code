@@ -3,9 +3,9 @@ title: "Section 152105 - Governing body"
 usc_title: 36
 usc_section: "152105"
 chapter: 1521
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 152105"
-generated_at: "2026-03-29T21:15:56.126Z"
+generated_at: "2026-03-29T21:23:35.259Z"
 ---
 
 # § 152105. Governing body

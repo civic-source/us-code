@@ -3,9 +3,9 @@ title: "Section 50110 - Limitation on civil justice matters"
 usc_title: 34
 usc_section: "50110"
 chapter: 501
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 50110"
-generated_at: "2026-03-29T21:15:24.244Z"
+generated_at: "2026-03-29T21:23:26.017Z"
 ---
 
 # § 50110. Limitation on civil justice matters

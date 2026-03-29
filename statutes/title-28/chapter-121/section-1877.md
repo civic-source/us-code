@@ -3,9 +3,9 @@ title: "Section 1877 - Protection of jurors"
 usc_title: 28
 usc_section: "1877"
 chapter: 121
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "28 U.S.C. § 1877"
-generated_at: "2026-03-29T21:14:44.600Z"
+generated_at: "2026-03-29T21:22:18.221Z"
 ---
 
 # § 1877. Protection of jurors

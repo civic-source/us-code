@@ -3,9 +3,9 @@ title: "Section 1509 - Obstruction of court orders"
 usc_title: 18
 usc_section: "1509"
 chapter: 73
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 1509"
-generated_at: "2026-03-29T21:14:04.599Z"
+generated_at: "2026-03-29T21:21:09.632Z"
 ---
 
 # § 1509. Obstruction of court orders

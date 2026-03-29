@@ -3,9 +3,9 @@ title: "Section 1707d - Omitted"
 usc_title: 7
 usc_section: "1707d"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 1707d"
-generated_at: "2026-03-29T21:12:43.036Z"
+generated_at: "2026-03-29T21:19:43.824Z"
 ---
 
 # §§ 1707b to 1707d. Omitted

@@ -3,9 +3,9 @@ title: "Section 2507 - Contracts"
 usc_title: 15
 usc_section: "2507"
 chapter: 52
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 2507"
-generated_at: "2026-03-29T21:13:22.391Z"
+generated_at: "2026-03-29T21:20:22.263Z"
 ---
 
 # § 2507. Contracts

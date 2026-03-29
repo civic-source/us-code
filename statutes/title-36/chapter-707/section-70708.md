@@ -3,9 +3,9 @@ title: "Section 70708 - Nonapplication of audit requirements"
 usc_title: 36
 usc_section: "70708"
 chapter: 707
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 70708"
-generated_at: "2026-03-29T21:15:56.110Z"
+generated_at: "2026-03-29T21:23:35.243Z"
 ---
 
 # § 70708. Nonapplication of audit requirements

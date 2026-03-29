@@ -3,9 +3,9 @@ title: "Section 898 - Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 S
 usc_title: 25
 usc_section: "898"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 898"
-generated_at: "2026-03-29T21:14:13.524Z"
+generated_at: "2026-03-29T21:21:32.930Z"
 ---
 
 # § 898. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

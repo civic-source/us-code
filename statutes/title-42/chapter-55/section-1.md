@@ -3,9 +3,9 @@ title: "Section 1 - Federal Permitting Improvement Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T21:17:13.162Z"
+generated_at: "2026-03-29T21:24:29.594Z"
 ---
 
 # § 4370m–1. Federal Permitting Improvement Council

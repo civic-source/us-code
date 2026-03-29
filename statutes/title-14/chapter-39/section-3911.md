@@ -3,9 +3,9 @@ title: "Section 3911 - Availability of appropriations"
 usc_title: 14
 usc_section: "3911"
 chapter: 39
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "14 U.S.C. § 3911"
-generated_at: "2026-03-29T21:13:14.255Z"
+generated_at: "2026-03-29T21:19:48.209Z"
 ---
 
 # § 3911. Availability of appropriations

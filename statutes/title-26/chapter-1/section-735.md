@@ -3,9 +3,9 @@ title: "Section 735 - Character of gain or loss on disposition of distributed pr
 usc_title: 26
 usc_section: "735"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 735"
-generated_at: "2026-03-29T21:15:05.029Z"
+generated_at: "2026-03-29T21:23:14.229Z"
 ---
 
 # § 735. Character of gain or loss on disposition of distributed property

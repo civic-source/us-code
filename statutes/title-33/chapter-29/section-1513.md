@@ -3,9 +3,9 @@ title: "Section 1513 - Public access to information"
 usc_title: 33
 usc_section: "1513"
 chapter: 29
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "33 U.S.C. § 1513"
-generated_at: "2026-03-29T21:15:34.575Z"
+generated_at: "2026-03-29T21:23:28.771Z"
 ---
 
 # § 1513. Public access to information

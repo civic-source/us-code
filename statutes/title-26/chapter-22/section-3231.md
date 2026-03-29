@@ -3,9 +3,9 @@ title: "Section 3231 - Definitions"
 usc_title: 26
 usc_section: "3231"
 chapter: 22
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 3231"
-generated_at: "2026-03-29T21:15:05.135Z"
+generated_at: "2026-03-29T21:23:14.377Z"
 ---
 
 # § 3231. Definitions

@@ -3,9 +3,9 @@ title: "Section 3 - Federal agency data mining reporting"
 usc_title: 42
 usc_section: "3"
 chapter: 21
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T21:17:13.032Z"
+generated_at: "2026-03-29T21:24:29.438Z"
 ---
 
 # § 2000ee–3. Federal agency data mining reporting

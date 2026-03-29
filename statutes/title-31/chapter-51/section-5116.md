@@ -3,9 +3,9 @@ title: "Section 5116 - Buying and selling gold and silver"
 usc_title: 31
 usc_section: "5116"
 chapter: 51
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "31 U.S.C. § 5116"
-generated_at: "2026-03-29T21:15:29.280Z"
+generated_at: "2026-03-29T21:23:21.478Z"
 ---
 
 # § 5116. Buying and selling gold and silver

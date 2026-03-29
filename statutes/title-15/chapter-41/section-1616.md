@@ -3,9 +3,9 @@ title: "Section 1616 - Board review of consumer credit plans and regulations"
 usc_title: 15
 usc_section: "1616"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1616"
-generated_at: "2026-03-29T21:13:22.316Z"
+generated_at: "2026-03-29T21:20:22.179Z"
 ---
 
 # § 1616. Board review of consumer credit plans and regulations

@@ -3,9 +3,9 @@ title: "Section 7237 - Priority placement, job placement, retraining, and counse
 usc_title: 42
 usc_section: "7237"
 chapter: 84
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 7237"
-generated_at: "2026-03-29T21:17:13.331Z"
+generated_at: "2026-03-29T21:24:29.787Z"
 ---
 
 # § 7237. Priority placement, job placement, retraining, and counseling programs for United States Department of Energy employees affected by reduction in force

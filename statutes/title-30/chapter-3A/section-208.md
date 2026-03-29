@@ -3,9 +3,9 @@ title: "Section 208 - Permits to take coal for local domestic needs without roya
 usc_title: 30
 usc_section: "208"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "30 U.S.C. § 208"
-generated_at: "2026-03-29T21:14:31.138Z"
+generated_at: "2026-03-29T21:22:46.805Z"
 ---
 
 # § 208. Permits to take coal for local domestic needs without royalty payments; corporation exclusion; area to municipalities for household use without profit

@@ -3,9 +3,9 @@ title: "Section 70109 - Records and inspection"
 usc_title: 36
 usc_section: "70109"
 chapter: 701
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "36 U.S.C. § 70109"
-generated_at: "2026-03-29T21:15:56.108Z"
+generated_at: "2026-03-29T21:23:35.241Z"
 ---
 
 # § 70109. Records and inspection

@@ -3,9 +3,9 @@ title: "Section 1556 - Ex parte communications prohibited"
 usc_title: 10
 usc_section: "1556"
 chapter: 79
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1556"
-generated_at: "2026-03-29T21:13:10.285Z"
+generated_at: "2026-03-29T21:19:21.911Z"
 ---
 
 # § 1556. Ex parte communications prohibited

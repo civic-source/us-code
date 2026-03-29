@@ -3,9 +3,9 @@ title: "Section 4812 - Authority of the President"
 usc_title: 50
 usc_section: "4812"
 chapter: 58
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 4812"
-generated_at: "2026-03-29T21:17:44.286Z"
+generated_at: "2026-03-29T21:24:52.504Z"
 ---
 
 # § 4812. Authority of the President

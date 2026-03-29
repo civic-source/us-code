@@ -3,9 +3,9 @@ title: "Section 2203 - Definitions"
 usc_title: 15
 usc_section: "2203"
 chapter: 49
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 2203"
-generated_at: "2026-03-29T21:13:22.375Z"
+generated_at: "2026-03-29T21:20:22.251Z"
 ---
 
 # § 2203. Definitions

@@ -3,9 +3,9 @@ title: "Section 3786 - Transferred"
 usc_title: 42
 usc_section: "3786"
 chapter: 46
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 3786"
-generated_at: "2026-03-29T21:17:13.136Z"
+generated_at: "2026-03-29T21:24:29.567Z"
 ---
 
 # § 3786. Transferred

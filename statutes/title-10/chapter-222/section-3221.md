@@ -3,9 +3,9 @@ title: "Section 3221 - Director of Cost Assessment and Program Evaluation"
 usc_title: 10
 usc_section: "3221"
 chapter: 222
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 3221"
-generated_at: "2026-03-29T21:13:10.412Z"
+generated_at: "2026-03-29T21:19:22.051Z"
 ---
 
 # § 3221. Director of Cost Assessment and Program Evaluation

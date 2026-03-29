@@ -3,9 +3,9 @@ title: "Section 101931 - Contract authority"
 usc_title: 54
 usc_section: "101931"
 chapter: 1019
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "54 U.S.C. § 101931"
-generated_at: "2026-03-29T21:17:52.317Z"
+generated_at: "2026-03-29T21:25:10.279Z"
 ---
 
 # § 101931. Contract authority

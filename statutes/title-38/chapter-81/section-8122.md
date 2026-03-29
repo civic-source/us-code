@@ -3,9 +3,9 @@ title: "Section 8122 - Authority to procure and dispose of property and to negot
 usc_title: 38
 usc_section: "8122"
 chapter: 81
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 8122"
-generated_at: "2026-03-29T21:16:11.749Z"
+generated_at: "2026-03-29T21:23:39.377Z"
 ---
 
 # § 8122. Authority to procure and dispose of property and to negotiate for common services

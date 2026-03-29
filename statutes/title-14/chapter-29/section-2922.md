@@ -3,9 +3,9 @@ title: "Section 2922 - Child development services"
 usc_title: 14
 usc_section: "2922"
 chapter: 29
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "14 U.S.C. § 2922"
-generated_at: "2026-03-29T21:13:14.250Z"
+generated_at: "2026-03-29T21:19:48.204Z"
 ---
 
 # § 2922. Child development services

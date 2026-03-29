@@ -3,9 +3,9 @@ title: "Section 1923 - Unified schedules of rates of basic pay and leave system"
 usc_title: 2
 usc_section: "1923"
 chapter: 29
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "2 U.S.C. § 1923"
-generated_at: "2026-03-29T21:12:29.957Z"
+generated_at: "2026-03-29T21:19:01.760Z"
 ---
 
 # § 1923. Unified schedules of rates of basic pay and leave system

@@ -3,9 +3,9 @@ title: "Section 831bb - Reservation of right to amend or repeal"
 usc_title: 16
 usc_section: "831bb"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 831bb"
-generated_at: "2026-03-29T21:13:50.184Z"
+generated_at: "2026-03-29T21:20:38.101Z"
 ---
 
 # § 831bb. Reservation of right to amend or repeal

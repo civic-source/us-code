@@ -3,9 +3,9 @@ title: "Section 760d - Grants for education and training of personnel in the fie
 usc_title: 16
 usc_section: "760d"
 chapter: 9
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 760d"
-generated_at: "2026-03-29T21:13:50.146Z"
+generated_at: "2026-03-29T21:20:38.069Z"
 ---
 
 # § 760d. Grants for education and training of personnel in the field of commercial fishing

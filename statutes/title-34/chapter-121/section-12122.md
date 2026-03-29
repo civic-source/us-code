@@ -3,9 +3,9 @@ title: "Section 12122 - Efficiency in law enforcement and corrections"
 usc_title: 34
 usc_section: "12122"
 chapter: 121
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 12122"
-generated_at: "2026-03-29T21:15:24.173Z"
+generated_at: "2026-03-29T21:23:25.929Z"
 ---
 
 # § 12122. Efficiency in law enforcement and corrections

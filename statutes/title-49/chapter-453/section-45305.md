@@ -3,9 +3,9 @@ title: "Section 45305 - Registration, certification, and related fees"
 usc_title: 49
 usc_section: "45305"
 chapter: 453
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 45305"
-generated_at: "2026-03-29T21:17:49.180Z"
+generated_at: "2026-03-29T21:24:46.590Z"
 ---
 
 # § 45305. Registration, certification, and related fees

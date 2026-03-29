@@ -3,9 +3,9 @@ title: "Section 101704 - Reimbursable agreements"
 usc_title: 54
 usc_section: "101704"
 chapter: 1017
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "54 U.S.C. § 101704"
-generated_at: "2026-03-29T21:17:52.315Z"
+generated_at: "2026-03-29T21:25:10.277Z"
 ---
 
 # § 101704. Reimbursable agreements

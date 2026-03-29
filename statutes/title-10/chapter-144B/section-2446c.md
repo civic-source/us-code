@@ -3,9 +3,9 @@ title: "Section 2446c - Requirements relating to availability of major system in
 usc_title: 10
 usc_section: "2446c"
 chapter: 144
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 2446c"
-generated_at: "2026-03-29T21:13:10.360Z"
+generated_at: "2026-03-29T21:19:21.991Z"
 ---
 
 # § 2446c. Requirements relating to availability of major system interfaces and support for modular open system approach

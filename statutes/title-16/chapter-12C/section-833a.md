@@ -3,9 +3,9 @@ title: "Section 833a - Administration of project"
 usc_title: 16
 usc_section: "833a"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 833a"
-generated_at: "2026-03-29T21:13:50.186Z"
+generated_at: "2026-03-29T21:20:38.103Z"
 ---
 
 # § 833a. Administration of project

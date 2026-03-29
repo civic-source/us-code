@@ -3,9 +3,9 @@ title: "Section 3119 - Rehabilitation research and special projects"
 usc_title: 38
 usc_section: "3119"
 chapter: 31
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 3119"
-generated_at: "2026-03-29T21:16:11.596Z"
+generated_at: "2026-03-29T21:23:39.280Z"
 ---
 
 # § 3119. Rehabilitation research and special projects

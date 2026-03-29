@@ -3,9 +3,9 @@ title: "Section 173 - Repealed. May 21, 1934, ch. 321 , 48 Stat. 787"
 usc_title: 25
 usc_section: "173"
 chapter: 5
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 173"
-generated_at: "2026-03-29T21:14:13.499Z"
+generated_at: "2026-03-29T21:21:32.908Z"
 ---
 
 # §§ 171 to 173. Repealed. May 21, 1934, ch. 321 , 48 Stat. 787

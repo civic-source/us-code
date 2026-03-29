@@ -3,9 +3,9 @@ title: "Section 8002 - Statements of policy"
 usc_title: 22
 usc_section: "8002"
 chapter: 87
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 8002"
-generated_at: "2026-03-29T21:14:20.757Z"
+generated_at: "2026-03-29T21:22:12.556Z"
 ---
 
 # § 8002. Statements of policy

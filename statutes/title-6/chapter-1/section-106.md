@@ -3,9 +3,9 @@ title: "Section 106 - Update of national biodefense implementation plan"
 usc_title: 6
 usc_section: "106"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "6 U.S.C. § 106"
-generated_at: "2026-03-29T21:12:54.162Z"
+generated_at: "2026-03-29T21:19:29.079Z"
 ---
 
 # § 106. Update of national biodefense implementation plan

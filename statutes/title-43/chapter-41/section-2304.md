@@ -3,9 +3,9 @@ title: "Section 2304 - Disposal of public land"
 usc_title: 43
 usc_section: "2304"
 chapter: 41
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "43 U.S.C. § 2304"
-generated_at: "2026-03-29T21:16:36.812Z"
+generated_at: "2026-03-29T21:24:05.294Z"
 ---
 
 # § 2304. Disposal of public land

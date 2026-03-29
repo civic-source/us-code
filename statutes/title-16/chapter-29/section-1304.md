@@ -3,9 +3,9 @@ title: "Section 1304 - Annual payment; adjustment"
 usc_title: 16
 usc_section: "1304"
 chapter: 29
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 1304"
-generated_at: "2026-03-29T21:13:50.246Z"
+generated_at: "2026-03-29T21:20:38.150Z"
 ---
 
 # § 1304. Annual payment; adjustment

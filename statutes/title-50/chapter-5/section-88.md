@@ -3,9 +3,9 @@ title: "Section 88 - Omitted"
 usc_title: 50
 usc_section: "88"
 chapter: 5
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 88"
-generated_at: "2026-03-29T21:17:44.122Z"
+generated_at: "2026-03-29T21:24:52.285Z"
 ---
 
 # §§ 86 to 88. Omitted

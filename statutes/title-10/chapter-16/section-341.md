@@ -3,9 +3,9 @@ title: "Section 341 - Department of Defense State Partnership Program"
 usc_title: 10
 usc_section: "341"
 chapter: 16
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 341"
-generated_at: "2026-03-29T21:13:10.155Z"
+generated_at: "2026-03-29T21:19:21.782Z"
 ---
 
 # § 341. Department of Defense State Partnership Program

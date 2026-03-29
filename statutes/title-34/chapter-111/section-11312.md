@@ -3,9 +3,9 @@ title: "Section 11312 - Duties and functions of the Administrator"
 usc_title: 34
 usc_section: "11312"
 chapter: 111
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 11312"
-generated_at: "2026-03-29T21:15:24.169Z"
+generated_at: "2026-03-29T21:23:25.925Z"
 ---
 
 # § 11312. Duties and functions of the Administrator

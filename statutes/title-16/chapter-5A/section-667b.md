@@ -3,9 +3,9 @@ title: "Section 667b - Transfer of certain real property for wildlife conservati
 usc_title: 16
 usc_section: "667b"
 chapter: 5
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 667b"
-generated_at: "2026-03-29T21:13:50.110Z"
+generated_at: "2026-03-29T21:20:38.032Z"
 ---
 
 # § 667b. Transfer of certain real property for wildlife conservation purposes; reservation of rights

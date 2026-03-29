@@ -3,9 +3,9 @@ title: "Section 653 - Cybersecurity Division"
 usc_title: 6
 usc_section: "653"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "6 U.S.C. § 653"
-generated_at: "2026-03-29T21:12:54.252Z"
+generated_at: "2026-03-29T21:19:29.157Z"
 ---
 
 # § 653. Cybersecurity Division

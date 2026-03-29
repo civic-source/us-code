@@ -3,9 +3,9 @@ title: "Section 29 - Condensed and simplified versions of House precedents; othe
 usc_title: 2
 usc_section: "29"
 chapter: 2
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-03-29T21:12:29.855Z"
+generated_at: "2026-03-29T21:19:01.674Z"
 ---
 
 # § 29. Condensed and simplified versions of House precedents; other useful materials in summary form; form and distribution to Members of Congress, Resident Commissioner from Puerto Rico, and others; appointment and compensation of personnel; utilization of services of personnel of Federal agencies

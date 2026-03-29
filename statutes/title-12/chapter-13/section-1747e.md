@@ -3,9 +3,9 @@ title: "Section 1747e - Financial statements by Secretary"
 usc_title: 12
 usc_section: "1747e"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 1747e"
-generated_at: "2026-03-29T21:13:28.443Z"
+generated_at: "2026-03-29T21:19:56.235Z"
 ---
 
 # § 1747e. Financial statements by Secretary

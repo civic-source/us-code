@@ -3,9 +3,9 @@ title: "Section 6663 - National activities"
 usc_title: 20
 usc_section: "6663"
 chapter: 70
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 6663"
-generated_at: "2026-03-29T21:13:40.677Z"
+generated_at: "2026-03-29T21:20:32.135Z"
 ---
 
 # § 6663. National activities

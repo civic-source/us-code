@@ -3,9 +3,9 @@ title: "Section 181a - Omitted"
 usc_title: 16
 usc_section: "181a"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 181a"
-generated_at: "2026-03-29T21:13:49.835Z"
+generated_at: "2026-03-29T21:20:37.753Z"
 ---
 
 # §§ 181, 181a. Omitted

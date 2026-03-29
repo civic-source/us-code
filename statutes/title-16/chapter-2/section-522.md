@@ -3,9 +3,9 @@ title: "Section 522 - Omitted"
 usc_title: 16
 usc_section: "522"
 chapter: 2
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 522"
-generated_at: "2026-03-29T21:13:50.062Z"
+generated_at: "2026-03-29T21:20:37.979Z"
 ---
 
 # § 522. Omitted

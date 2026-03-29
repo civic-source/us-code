@@ -3,9 +3,9 @@ title: "Section 153 - Penalty for use of unlawful towline"
 usc_title: 33
 usc_section: "153"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "33 U.S.C. § 153"
-generated_at: "2026-03-29T21:15:34.465Z"
+generated_at: "2026-03-29T21:23:28.646Z"
 ---
 
 # § 153. Penalty for use of unlawful towline

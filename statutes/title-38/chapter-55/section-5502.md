@@ -3,9 +3,9 @@ title: "Section 5502 - Payments to and supervision of fiduciaries"
 usc_title: 38
 usc_section: "5502"
 chapter: 55
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 5502"
-generated_at: "2026-03-29T21:16:11.704Z"
+generated_at: "2026-03-29T21:23:39.332Z"
 ---
 
 # § 5502. Payments to and supervision of fiduciaries

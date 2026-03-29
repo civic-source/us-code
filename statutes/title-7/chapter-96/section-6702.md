@@ -3,9 +3,9 @@ title: "Section 6702 - Study of global climate change, agriculture, and forestry
 usc_title: 7
 usc_section: "6702"
 chapter: 96
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 6702"
-generated_at: "2026-03-29T21:12:43.269Z"
+generated_at: "2026-03-29T21:19:44.031Z"
 ---
 
 # § 6702. Study of global climate change, agriculture, and forestry

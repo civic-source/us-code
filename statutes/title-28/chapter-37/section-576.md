@@ -3,9 +3,9 @@ title: "Section 576 - Renumbered §§ 568, 569]"
 usc_title: 28
 usc_section: "576"
 chapter: 37
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "28 U.S.C. § 576"
-generated_at: "2026-03-29T21:14:44.571Z"
+generated_at: "2026-03-29T21:22:18.184Z"
 ---
 
 # [§§ 575, 576. Renumbered §§ 568, 569]

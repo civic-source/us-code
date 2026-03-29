@@ -3,9 +3,9 @@ title: "Section 14942 - Documents of other Convention countries"
 usc_title: 42
 usc_section: "14942"
 chapter: 143
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 14942"
-generated_at: "2026-03-29T21:17:13.697Z"
+generated_at: "2026-03-29T21:24:30.199Z"
 ---
 
 # § 14942. Documents of other Convention countries

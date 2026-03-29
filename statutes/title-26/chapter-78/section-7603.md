@@ -3,9 +3,9 @@ title: "Section 7603 - Service of summons"
 usc_title: 26
 usc_section: "7603"
 chapter: 78
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 7603"
-generated_at: "2026-03-29T21:15:05.276Z"
+generated_at: "2026-03-29T21:23:14.591Z"
 ---
 
 # § 7603. Service of summons

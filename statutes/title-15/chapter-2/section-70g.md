@@ -3,9 +3,9 @@ title: "Section 70g - Exclusion of misbranded textile fiber products"
 usc_title: 15
 usc_section: "70g"
 chapter: 2
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 70g"
-generated_at: "2026-03-29T21:13:22.045Z"
+generated_at: "2026-03-29T21:20:21.903Z"
 ---
 
 # § 70g. Exclusion of misbranded textile fiber products

@@ -3,9 +3,9 @@ title: "Section 5672 - Development of plans to alleviate adverse impact of embar
 usc_title: 7
 usc_section: "5672"
 chapter: 87
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 5672"
-generated_at: "2026-03-29T21:12:43.232Z"
+generated_at: "2026-03-29T21:19:43.999Z"
 ---
 
 # § 5672. Development of plans to alleviate adverse impact of embargoes

@@ -3,9 +3,9 @@ title: "Section 4017a - Reserve Fund"
 usc_title: 42
 usc_section: "4017a"
 chapter: 50
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 4017a"
-generated_at: "2026-03-29T21:17:13.145Z"
+generated_at: "2026-03-29T21:24:29.576Z"
 ---
 
 # § 4017a. Reserve Fund

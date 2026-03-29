@@ -3,9 +3,9 @@ title: "Section 49101 - Findings"
 usc_title: 49
 usc_section: "49101"
 chapter: 491
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 49101"
-generated_at: "2026-03-29T21:17:49.205Z"
+generated_at: "2026-03-29T21:24:46.621Z"
 ---
 
 # § 49101. Findings

@@ -3,9 +3,9 @@ title: "Section 697a - Private debenture sales"
 usc_title: 15
 usc_section: "697a"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 697a"
-generated_at: "2026-03-29T21:13:22.250Z"
+generated_at: "2026-03-29T21:20:22.113Z"
 ---
 
 # § 697a. Private debenture sales

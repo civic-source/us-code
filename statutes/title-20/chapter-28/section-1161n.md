@@ -3,9 +3,9 @@ title: "Section 1161n - Statement of purpose; definition"
 usc_title: 20
 usc_section: "1161n"
 chapter: 28
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 1161n"
-generated_at: "2026-03-29T21:13:40.550Z"
+generated_at: "2026-03-29T21:20:32.033Z"
 ---
 
 # § 1161n. Statement of purpose; definition

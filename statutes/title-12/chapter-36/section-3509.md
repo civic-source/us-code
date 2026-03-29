@@ -3,9 +3,9 @@ title: "Section 3509 - Omitted"
 usc_title: 12
 usc_section: "3509"
 chapter: 36
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "12 U.S.C. § 3509"
-generated_at: "2026-03-29T21:13:28.584Z"
+generated_at: "2026-03-29T21:19:56.405Z"
 ---
 
 # §§ 3501 to 3509. Omitted

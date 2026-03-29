@@ -3,9 +3,9 @@ title: "Section 10385 - Performance evaluation"
 usc_title: 34
 usc_section: "10385"
 chapter: 101
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "34 U.S.C. § 10385"
-generated_at: "2026-03-29T21:15:24.136Z"
+generated_at: "2026-03-29T21:23:25.883Z"
 ---
 
 # § 10385. Performance evaluation

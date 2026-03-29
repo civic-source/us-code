@@ -3,9 +3,9 @@ title: "Section 12687 - Reserves under confinement by sentence of court-martial:
 usc_title: 10
 usc_section: "12687"
 chapter: 1221
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 12687"
-generated_at: "2026-03-29T21:13:10.521Z"
+generated_at: "2026-03-29T21:19:22.164Z"
 ---
 
 # § 12687. Reserves under confinement by sentence of court-martial: separation after six months confinement

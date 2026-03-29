@@ -3,9 +3,9 @@ title: "Section 7410 - Additional pay authorities"
 usc_title: 38
 usc_section: "7410"
 chapter: 74
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 7410"
-generated_at: "2026-03-29T21:16:11.732Z"
+generated_at: "2026-03-29T21:23:39.359Z"
 ---
 
 # § 7410. Additional pay authorities

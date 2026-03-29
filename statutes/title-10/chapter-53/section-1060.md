@@ -3,9 +3,9 @@ title: "Section 1060 - Military service of retired members with newly democratic
 usc_title: 10
 usc_section: "1060"
 chapter: 53
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 1060"
-generated_at: "2026-03-29T21:13:10.231Z"
+generated_at: "2026-03-29T21:19:21.854Z"
 ---
 
 # § 1060. Military service of retired members with newly democratic nations: consent of Congress

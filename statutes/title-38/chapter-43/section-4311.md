@@ -3,9 +3,9 @@ title: "Section 4311 - Discrimination against persons who serve in the uniformed
 usc_title: 38
 usc_section: "4311"
 chapter: 43
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "38 U.S.C. § 4311"
-generated_at: "2026-03-29T21:16:11.694Z"
+generated_at: "2026-03-29T21:23:39.321Z"
 ---
 
 # § 4311. Discrimination against persons who serve in the uniformed services and acts of reprisal prohibited

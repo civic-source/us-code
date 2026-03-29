@@ -3,9 +3,9 @@ title: "Section 4357 - Selected acquisition reports: termination of requirements
 usc_title: 10
 usc_section: "4357"
 chapter: 324
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 4357"
-generated_at: "2026-03-29T21:13:10.435Z"
+generated_at: "2026-03-29T21:19:22.076Z"
 ---
 
 # § 4357. Selected acquisition reports: termination of requirements with respect to a program or subprogram

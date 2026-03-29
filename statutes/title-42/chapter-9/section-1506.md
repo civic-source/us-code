@@ -3,9 +3,9 @@ title: "Section 1506 - Administration of utilities and utility services; grantin
 usc_title: 42
 usc_section: "1506"
 chapter: 9
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 1506"
-generated_at: "2026-03-29T21:17:12.948Z"
+generated_at: "2026-03-29T21:24:29.337Z"
 ---
 
 # § 1506. Administration of utilities and utility services; granting of easements

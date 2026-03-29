@@ -3,9 +3,9 @@ title: "Section 497 - Separability"
 usc_title: 7
 usc_section: "497"
 chapter: 20
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 497"
-generated_at: "2026-03-29T21:12:42.929Z"
+generated_at: "2026-03-29T21:19:43.722Z"
 ---
 
 # § 497. Separability

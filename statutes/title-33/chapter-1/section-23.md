@@ -3,9 +3,9 @@ title: "Section 23 - Bear Creek, Mississippi"
 usc_title: 33
 usc_section: "23"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "33 U.S.C. § 23"
-generated_at: "2026-03-29T21:15:34.457Z"
+generated_at: "2026-03-29T21:23:28.635Z"
 ---
 
 # § 23. Bear Creek, Mississippi

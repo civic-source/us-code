@@ -3,9 +3,9 @@ title: "Section 8501 - Definitions"
 usc_title: 7
 usc_section: "8501"
 chapter: 111
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 8501"
-generated_at: "2026-03-29T21:12:43.363Z"
+generated_at: "2026-03-29T21:19:44.129Z"
 ---
 
 # § 8501. Definitions

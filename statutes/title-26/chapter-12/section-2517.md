@@ -3,9 +3,9 @@ title: "Section 2517 - Repealed. Pub. L. 99–514, title XVIII, § 1852(e)(2)(A)
 usc_title: 26
 usc_section: "2517"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "26 U.S.C. § 2517"
-generated_at: "2026-03-29T21:15:05.124Z"
+generated_at: "2026-03-29T21:23:14.358Z"
 ---
 
 # [§ 2517. Repealed. Pub. L. 99–514, title XVIII, § 1852(e)(2)(A) , Oct. 22, 1986 , 100 Stat. 2868 ]

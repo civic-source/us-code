@@ -3,9 +3,9 @@ title: "Section 2201 - Creation of remedy"
 usc_title: 28
 usc_section: "2201"
 chapter: 151
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "28 U.S.C. § 2201"
-generated_at: "2026-03-29T21:14:44.604Z"
+generated_at: "2026-03-29T21:22:18.225Z"
 ---
 
 # § 2201. Creation of remedy

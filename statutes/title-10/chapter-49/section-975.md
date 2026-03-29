@@ -3,9 +3,9 @@ title: "Section 975 - Renumbered § 2390]"
 usc_title: 10
 usc_section: "975"
 chapter: 49
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 975"
-generated_at: "2026-03-29T21:13:10.222Z"
+generated_at: "2026-03-29T21:19:21.844Z"
 ---
 
 # [§ 975. Renumbered § 2390]

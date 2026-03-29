@@ -3,9 +3,9 @@ title: "Section 1133 - Claims procedure"
 usc_title: 29
 usc_section: "1133"
 chapter: 18
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "29 U.S.C. § 1133"
-generated_at: "2026-03-29T21:14:52.012Z"
+generated_at: "2026-03-29T21:22:21.415Z"
 ---
 
 # § 1133. Claims procedure

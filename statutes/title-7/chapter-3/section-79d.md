@@ -3,9 +3,9 @@ title: "Section 79d - Limitation on administrative and supervisory costs"
 usc_title: 7
 usc_section: "79d"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "7 U.S.C. § 79d"
-generated_at: "2026-03-29T21:12:42.864Z"
+generated_at: "2026-03-29T21:19:43.663Z"
 ---
 
 # § 79d. Limitation on administrative and supervisory costs

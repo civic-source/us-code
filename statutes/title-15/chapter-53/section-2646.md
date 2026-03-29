@@ -3,9 +3,9 @@ title: "Section 2646 - Contractor and laboratory accreditation"
 usc_title: 15
 usc_section: "2646"
 chapter: 53
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 2646"
-generated_at: "2026-03-29T21:13:22.411Z"
+generated_at: "2026-03-29T21:20:22.279Z"
 ---
 
 # § 2646. Contractor and laboratory accreditation

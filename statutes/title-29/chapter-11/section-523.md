@@ -3,9 +3,9 @@ title: "Section 523 - Retention of rights under other Federal and State laws"
 usc_title: 29
 usc_section: "523"
 chapter: 11
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "29 U.S.C. § 523"
-generated_at: "2026-03-29T21:14:51.954Z"
+generated_at: "2026-03-29T21:22:21.320Z"
 ---
 
 # § 523. Retention of rights under other Federal and State laws

@@ -3,9 +3,9 @@ title: "Section 5060 - Repealed. Pub. L. 103–82, title III, § 368 , Sept. 21,
 usc_title: 42
 usc_section: "5060"
 chapter: 66
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 5060"
-generated_at: "2026-03-29T21:17:13.187Z"
+generated_at: "2026-03-29T21:24:29.621Z"
 ---
 
 # § 5060. Repealed. Pub. L. 103–82, title III, § 368 , Sept. 21, 1993 , 107 Stat. 909

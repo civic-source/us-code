@@ -3,9 +3,9 @@ title: "Section 17903 - Purchase of electric power"
 usc_title: 40
 usc_section: "17903"
 chapter: 179
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "40 U.S.C. § 17903"
-generated_at: "2026-03-29T21:15:38.218Z"
+generated_at: "2026-03-29T21:23:32.479Z"
 ---
 
 # § 17903. Purchase of electric power

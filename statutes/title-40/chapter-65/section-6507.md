@@ -3,9 +3,9 @@ title: "Section 6507 - Account in Treasury"
 usc_title: 40
 usc_section: "6507"
 chapter: 65
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "40 U.S.C. § 6507"
-generated_at: "2026-03-29T21:15:38.199Z"
+generated_at: "2026-03-29T21:23:32.459Z"
 ---
 
 # § 6507. Account in Treasury

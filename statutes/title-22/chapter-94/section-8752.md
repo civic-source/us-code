@@ -3,9 +3,9 @@ title: "Section 8752 - Clarification of sensitive technologies for purposes of p
 usc_title: 22
 usc_section: "8752"
 chapter: 94
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "22 U.S.C. § 8752"
-generated_at: "2026-03-29T21:14:20.776Z"
+generated_at: "2026-03-29T21:22:12.579Z"
 ---
 
 # § 8752. Clarification of sensitive technologies for purposes of procurement ban under Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010

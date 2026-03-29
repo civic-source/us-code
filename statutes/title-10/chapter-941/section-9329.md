@@ -3,9 +3,9 @@ title: "Section 9329 - Computation of retired pay: law applicable"
 usc_title: 10
 usc_section: "9329"
 chapter: 941
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 9329"
-generated_at: "2026-03-29T21:13:10.494Z"
+generated_at: "2026-03-29T21:19:22.137Z"
 ---
 
 # § 9329. Computation of retired pay: law applicable

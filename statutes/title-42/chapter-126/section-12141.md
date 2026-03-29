@@ -3,9 +3,9 @@ title: "Section 12141 - Definitions"
 usc_title: 42
 usc_section: "12141"
 chapter: 126
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 12141"
-generated_at: "2026-03-29T21:17:13.594Z"
+generated_at: "2026-03-29T21:24:30.084Z"
 ---
 
 # § 12141. Definitions

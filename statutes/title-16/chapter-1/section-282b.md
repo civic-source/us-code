@@ -3,9 +3,9 @@ title: "Section 282b - Cooperative agreements with State of Washington and other
 usc_title: 16
 usc_section: "282b"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 282b"
-generated_at: "2026-03-29T21:13:49.855Z"
+generated_at: "2026-03-29T21:20:37.770Z"
 ---
 
 # § 282b. Cooperative agreements with State of Washington and others; erection and maintenance of tablets or markers

@@ -3,9 +3,9 @@ title: "Section 3612 - Collection of unpaid fine or restitution"
 usc_title: 18
 usc_section: "3612"
 chapter: 229
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "18 U.S.C. § 3612"
-generated_at: "2026-03-29T21:14:04.674Z"
+generated_at: "2026-03-29T21:21:09.708Z"
 ---
 
 # § 3612. Collection of unpaid fine or restitution

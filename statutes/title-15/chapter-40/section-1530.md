@@ -3,9 +3,9 @@ title: "Section 1530 - Awarding of contracts for performance of commercial activ
 usc_title: 15
 usc_section: "1530"
 chapter: 40
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1530"
-generated_at: "2026-03-29T21:13:22.308Z"
+generated_at: "2026-03-29T21:20:22.173Z"
 ---
 
 # § 1530. Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration

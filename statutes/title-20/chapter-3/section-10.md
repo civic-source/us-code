@@ -3,9 +3,9 @@ title: "Section 10 - Special committee to review inventory, identification, and 
 usc_title: 20
 usc_section: "10"
 chapter: 3
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-03-29T21:13:40.388Z"
+generated_at: "2026-03-29T21:20:31.895Z"
 ---
 
 # § 80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects

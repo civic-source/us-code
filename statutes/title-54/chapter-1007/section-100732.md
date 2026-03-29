@@ -3,9 +3,9 @@ title: "Section 100732 - Preservation and management of System units by Secretar
 usc_title: 54
 usc_section: "100732"
 chapter: 1007
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "54 U.S.C. § 100732"
-generated_at: "2026-03-29T21:17:52.311Z"
+generated_at: "2026-03-29T21:25:10.271Z"
 ---
 
 # § 100732. Preservation and management of System units by Secretary; promulgation of regulations

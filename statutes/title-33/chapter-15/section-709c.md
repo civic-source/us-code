@@ -3,9 +3,9 @@ title: "Section 709c - Emergency communication of risk"
 usc_title: 33
 usc_section: "709c"
 chapter: 15
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "33 U.S.C. § 709c"
-generated_at: "2026-03-29T21:15:34.504Z"
+generated_at: "2026-03-29T21:23:28.691Z"
 ---
 
 # § 709c. Emergency communication of risk

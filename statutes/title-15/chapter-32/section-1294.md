@@ -3,9 +3,9 @@ title: "Section 1294 - Antitrust laws unaffected as regards to other activities 
 usc_title: 15
 usc_section: "1294"
 chapter: 32
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1294"
-generated_at: "2026-03-29T21:13:22.299Z"
+generated_at: "2026-03-29T21:20:22.164Z"
 ---
 
 # § 1294. Antitrust laws unaffected as regards to other activities of professional sports contests

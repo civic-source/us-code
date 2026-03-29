@@ -3,9 +3,9 @@ title: "Section 881 - Omitted"
 usc_title: 25
 usc_section: "881"
 chapter: 14
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 881"
-generated_at: "2026-03-29T21:14:13.523Z"
+generated_at: "2026-03-29T21:21:32.930Z"
 ---
 
 # § 881. Omitted

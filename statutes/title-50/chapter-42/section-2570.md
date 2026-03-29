@@ -3,9 +3,9 @@ title: "Section 2570 - Silk Road Initiative"
 usc_title: 50
 usc_section: "2570"
 chapter: 42
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 2570"
-generated_at: "2026-03-29T21:17:44.182Z"
+generated_at: "2026-03-29T21:24:52.363Z"
 ---
 
 # § 2570. Silk Road Initiative

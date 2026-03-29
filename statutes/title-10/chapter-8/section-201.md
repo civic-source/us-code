@@ -3,9 +3,9 @@ title: "Section 201 - Certain intelligence officials: consultation and concurren
 usc_title: 10
 usc_section: "201"
 chapter: 8
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 201"
-generated_at: "2026-03-29T21:13:10.144Z"
+generated_at: "2026-03-29T21:19:21.770Z"
 ---
 
 # § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance

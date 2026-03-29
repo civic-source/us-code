@@ -3,9 +3,9 @@ title: "Section 70101 - Recovery of fair value of placing Department of Defense 
 usc_title: 51
 usc_section: "70101"
 chapter: 701
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "51 U.S.C. § 70101"
-generated_at: "2026-03-29T21:18:05.862Z"
+generated_at: "2026-03-29T21:24:56.561Z"
 ---
 
 # § 70101. Recovery of fair value of placing Department of Defense payloads in orbit with space launch system

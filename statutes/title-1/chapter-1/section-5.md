@@ -3,9 +3,9 @@ title: "Section 5 - “Company” or “association” as including successors a
 usc_title: 1
 usc_section: "5"
 chapter: 1
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "1 U.S.C. § 5"
-generated_at: "2026-03-29T21:12:17.009Z"
+generated_at: "2026-03-29T21:18:32.100Z"
 ---
 
 # § 5. “Company” or “association” as including successors and assigns

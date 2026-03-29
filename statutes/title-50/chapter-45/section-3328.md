@@ -3,9 +3,9 @@ title: "Section 3328 - Study or plan of surrender; use of appropriations"
 usc_title: 50
 usc_section: "3328"
 chapter: 45
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "50 U.S.C. § 3328"
-generated_at: "2026-03-29T21:17:44.221Z"
+generated_at: "2026-03-29T21:24:52.415Z"
 ---
 
 # § 3328. Study or plan of surrender; use of appropriations

@@ -3,9 +3,9 @@ title: "Section 1 - Sale or partition by owners of interests in allotted lands i
 usc_title: 25
 usc_section: "1"
 chapter: 12
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-29T21:14:13.515Z"
+generated_at: "2026-03-29T21:21:32.920Z"
 ---
 
 # § 403a–1. Sale or partition by owners of interests in allotted lands in the Tulalip Reservation; termination of Federal title, trust, and restrictions

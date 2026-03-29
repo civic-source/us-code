@@ -3,9 +3,9 @@ title: "Section 1010 - Other administrative provisions"
 usc_title: 42
 usc_section: "1010"
 chapter: 7
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 1010"
-generated_at: "2026-03-29T21:17:12.561Z"
+generated_at: "2026-03-29T21:24:28.874Z"
 ---
 
 # § 1010. Other administrative provisions

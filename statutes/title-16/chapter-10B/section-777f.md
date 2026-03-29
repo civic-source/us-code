@@ -3,9 +3,9 @@ title: "Section 777f - Payments by United States"
 usc_title: 16
 usc_section: "777f"
 chapter: 10
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 777f"
-generated_at: "2026-03-29T21:13:50.150Z"
+generated_at: "2026-03-29T21:20:38.072Z"
 ---
 
 # § 777f. Payments by United States

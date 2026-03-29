@@ -3,9 +3,9 @@ title: "Section 80302 - Prohibitions"
 usc_title: 49
 usc_section: "80302"
 chapter: 803
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "49 U.S.C. § 80302"
-generated_at: "2026-03-29T21:17:49.221Z"
+generated_at: "2026-03-29T21:24:46.646Z"
 ---
 
 # § 80302. Prohibitions

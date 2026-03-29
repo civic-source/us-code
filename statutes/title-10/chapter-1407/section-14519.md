@@ -3,9 +3,9 @@ title: "Section 14519 - Deferment of retirement or separation for medical reason
 usc_title: 10
 usc_section: "14519"
 chapter: 1407
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 14519"
-generated_at: "2026-03-29T21:13:10.531Z"
+generated_at: "2026-03-29T21:19:22.172Z"
 ---
 
 # § 14519. Deferment of retirement or separation for medical reasons

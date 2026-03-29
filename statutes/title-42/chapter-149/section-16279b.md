@@ -3,9 +3,9 @@ title: "Section 16279b - International nuclear energy cooperation"
 usc_title: 42
 usc_section: "16279b"
 chapter: 149
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 16279b"
-generated_at: "2026-03-29T21:17:13.744Z"
+generated_at: "2026-03-29T21:24:30.256Z"
 ---
 
 # § 16279b. International nuclear energy cooperation

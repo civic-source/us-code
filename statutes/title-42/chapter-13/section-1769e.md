@@ -3,9 +3,9 @@ title: "Section 1769e - State childhood hunger challenge grants"
 usc_title: 42
 usc_section: "1769e"
 chapter: 13
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 1769e"
-generated_at: "2026-03-29T21:17:12.975Z"
+generated_at: "2026-03-29T21:24:29.373Z"
 ---
 
 # § 1769e. State childhood hunger challenge grants

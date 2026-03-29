@@ -3,9 +3,9 @@ title: "Section 402 - Highway safety programs"
 usc_title: 23
 usc_section: "402"
 chapter: 4
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "23 U.S.C. § 402"
-generated_at: "2026-03-29T21:14:09.768Z"
+generated_at: "2026-03-29T21:21:14.756Z"
 ---
 
 # § 402. Highway safety programs

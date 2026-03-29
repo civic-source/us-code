@@ -3,9 +3,9 @@ title: "Section 3211 - Yukon Flats National Wildlife Refuge agricultural use"
 usc_title: 16
 usc_section: "3211"
 chapter: 51
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "16 U.S.C. § 3211"
-generated_at: "2026-03-29T21:13:50.341Z"
+generated_at: "2026-03-29T21:20:38.239Z"
 ---
 
 # § 3211. Yukon Flats National Wildlife Refuge agricultural use

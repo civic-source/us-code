@@ -3,9 +3,9 @@ title: "Section 3513a - Working capital fund; availability for centralized perso
 usc_title: 42
 usc_section: "3513a"
 chapter: 43
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 3513a"
-generated_at: "2026-03-29T21:17:13.127Z"
+generated_at: "2026-03-29T21:24:29.552Z"
 ---
 
 # § 3513a. Working capital fund; availability for centralized personnel data collection and reporting and common regional administrative support services

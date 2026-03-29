@@ -3,9 +3,9 @@ title: "Section 1233 - Violations and penalties"
 usc_title: 15
 usc_section: "1233"
 chapter: 28
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "15 U.S.C. § 1233"
-generated_at: "2026-03-29T21:13:22.293Z"
+generated_at: "2026-03-29T21:20:22.157Z"
 ---
 
 # § 1233. Violations and penalties

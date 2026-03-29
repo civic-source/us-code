@@ -3,9 +3,9 @@ title: "Section 4350 - Selected acquisition reports: termination"
 usc_title: 10
 usc_section: "4350"
 chapter: 324
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "10 U.S.C. § 4350"
-generated_at: "2026-03-29T21:13:10.434Z"
+generated_at: "2026-03-29T21:19:22.075Z"
 ---
 
 # § 4350. Selected acquisition reports: termination

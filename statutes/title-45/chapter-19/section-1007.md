@@ -3,9 +3,9 @@ title: "Section 1007 - Election"
 usc_title: 45
 usc_section: "1007"
 chapter: 19
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "45 U.S.C. § 1007"
-generated_at: "2026-03-29T21:16:40.800Z"
+generated_at: "2026-03-29T21:23:46.564Z"
 ---
 
 # § 1007. Election

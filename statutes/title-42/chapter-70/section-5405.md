@@ -3,9 +3,9 @@ title: "Section 5405 - Judicial review of orders establishing standards; petitio
 usc_title: 42
 usc_section: "5405"
 chapter: 70
-current_through: "PL 117-39"
+current_through: "PL 117-41"
 classification: "42 U.S.C. § 5405"
-generated_at: "2026-03-29T21:17:13.221Z"
+generated_at: "2026-03-29T21:24:29.665Z"
 ---
 
 # § 5405. Judicial review of orders establishing standards; petition; additional evidence before Secretary; certified copy of transcript
