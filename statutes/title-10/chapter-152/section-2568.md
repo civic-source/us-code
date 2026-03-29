@@ -1,0 +1,14 @@
+---
+title: "Section 2568 - Retention of combat uniforms by members deployed in support of contingency operations"
+usc_title: 10
+usc_section: "2568"
+chapter: 152
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2568"
+generated_at: "2026-03-29T00:20:53.061Z"
+---
+
+# § 2568. Retention of combat uniforms by members deployed in support of contingency operations
+
+The Secretary of a military department may authorize a member of the armed forces under the jurisdiction of the Secretary who has been deployed in support of a contingency operation for at least 30 days to retain, after that member is no longer so deployed, the combat uniform issued to that member as organizational clothing and individual equipment.
+

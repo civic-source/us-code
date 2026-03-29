@@ -1,0 +1,33 @@
+---
+title: "Section 2033 - Instructor qualifications"
+usc_title: 10
+usc_section: "2033"
+chapter: 102
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2033"
+generated_at: "2026-03-29T00:20:53.012Z"
+---
+
+# § 2033. Instructor qualifications
+
+(a) In order for a retired officer or noncommissioned officer to be employed as an instructor in the program, the officer must be certified by the Secretary of the military department concerned as a qualified instructor in leadership, wellness and fitness, civics, and other courses related to the content of the program, according to the qualifications set forth in subsection (b)(2) or (c)(2), as appropriate.
+(b) 
+  (1) Senior military instructors shall be retired officers of the armed forces and shall serve as instructional leaders who oversee the program.
+  (2) A senior military instructor shall have the following qualifications:
+    (A) Professional military qualification, as determined by the Secretary of the military department concerned.
+    (B) Award of a baccalaureate degree from an institution of higher learning.
+    (C) Completion of secondary education teaching certification requirements for the program as established by the Secretary of the military department concerned.
+    (D) Award of an advanced certification by the Secretary of the military department concerned in core content areas based on—
+      (i) accumulated points for professional activities, services to the profession, awards, and recognitions;
+      (ii) professional development to meet content knowledge and instructional skills; and
+      (iii) performance evaluation of competencies and standards within the program through site visits and inspections.
+(c) 
+  (1) Non-senior military instructors shall be retired noncommissioned officers of the armed forces and shall serve as instructional leaders and teach independently of, but share program responsibilities with, senior military instructors.
+  (2) A non-senior military instructor shall demonstrate a depth of experience, proficiency, and expertise in coaching, mentoring, and practical arts in executing the program, and shall have the following qualifications:
+    (A) Professional military qualification, as determined by the Secretary of the military department concerned.
+    (B) Award of an associates degree from an institution of higher learning within five years of employment.
+    (C) Completion of secondary education teaching certification requirements for the program as established by the Secretary of the military department concerned.
+    (D) Award of an advanced certification by the Secretary of the military department concerned in core content areas based on—
+      (i) accumulated points for professional activities, services to the profession, awards, and recognitions;
+      (ii) professional development to meet content knowledge and instructional skills; and
+      (iii) performance evaluation of competencies and standards within the program through site visits and inspections.

@@ -1,0 +1,14 @@
+---
+title: "Section 1704 - Service acquisition executives: authorities and responsibilities"
+usc_title: 10
+usc_section: "1704"
+chapter: 87
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1704"
+generated_at: "2026-03-29T00:20:53.002Z"
+---
+
+# § 1704. Service acquisition executives: authorities and responsibilities
+
+Subject to the authority, direction, and control of the Secretary of the military department concerned, the service acquisition executive for each military department shall carry out all powers, functions, and duties of the Secretary concerned with respect to the acquisition workforce within the military department concerned and shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented in that department.
+

@@ -1,0 +1,19 @@
+---
+title: "Section 854 - Art. 54. Record of trial"
+usc_title: 10
+usc_section: "854"
+chapter: 47
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 854"
+generated_at: "2026-03-29T00:20:52.894Z"
+---
+
+# § 854. Art. 54. Record of trial
+
+(a) Each general or special court-martial shall keep a separate record of the proceedings in each case brought before it. The record shall be certified by a court-reporter, except that in the case of death, disability, or absence of a court reporter, the record shall be certified by an official selected as the President may prescribe by regulation.
+(b) Each summary court-martial shall keep a separate record of the proceedings in each case, and the record shall be certified in the manner required by such regulations as the President may prescribe.
+(c) 
+  (1) Except as provided in paragraph (2), the record shall contain such matters as the President may prescribe by regulation.
+  (2) In accordance with regulations prescribed by the President, a complete record of proceedings and testimony shall be prepared in any case of a sentence of death, dismissal, discharge, confinement for more than six months, or forfeiture of pay for more than six months.
+(d) A copy of the record of the proceedings of each general and special court-martial shall be given to the accused as soon as it is certified.
+(e) In the case of a general or special court-martial, upon request, a copy of all prepared records of the proceedings of the court-martial shall be given to the victim of the offense if the victim testified during the proceedings. The records of the proceedings shall be provided without charge and as soon as the records are certified. The victim shall be notified of the opportunity to receive the records of the proceedings.

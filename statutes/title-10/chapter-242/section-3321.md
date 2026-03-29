@@ -1,0 +1,21 @@
+---
+title: "Section 3321 - Contracts awarded using procedures other than sealed-bid procedures"
+usc_title: 10
+usc_section: "3321"
+chapter: 242
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 3321"
+generated_at: "2026-03-29T00:20:53.119Z"
+---
+
+# § 3321. Contracts awarded using procedures other than sealed-bid procedures
+
+(a) Subject to the limitation in section 3322(a) of this title , the other provisions of this chapter, and other applicable provisions of law, the head of an agency, in awarding contracts under chapter 137 legacy provisions after using procedures other than sealed-bid procedures, may enter into any kind of contract that he considers will promote the best interests of the United States.
+(b) 
+  (1) Each contract awarded under chapter 137 legacy provisions after using procedures other than sealed-bid procedures shall contain a warranty, determined to be suitable by the head of the agency, that the contractor has employed or retained no person or selling agency to solicit or obtain the contract under an understanding or agreement for a commission, percentage, brokerage, or contingent fee, except a bona fide employee or established commercial or selling agency maintained by the contractor to obtain business.
+  (2) If a contractor breaks such a warranty the United States—
+    (A) may annul the contract without liability; or
+    (B) may deduct the commission, percentage, brokerage, or contingent fee from the contract price or consideration.
+  (3) This subsection does not apply—
+    (A) to a contract that is for an amount not greater than the simplified acquisition threshold; or
+    (B) to a contract for the acquisition of commercial products or commercial services.

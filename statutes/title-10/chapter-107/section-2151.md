@@ -1,0 +1,33 @@
+---
+title: "Section 2151 - Definitions"
+usc_title: 10
+usc_section: "2151"
+chapter: 107
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2151"
+generated_at: "2026-03-29T00:20:53.020Z"
+---
+
+# § 2151. Definitions
+
+(a) Joint professional military education consists of the rigorous and thorough instruction and examination of officers of the armed forces in an environment designed to promote a theoretical and practical in-depth understanding of joint matters and, specifically, of the subject matter covered. The subject matter to be covered by joint professional military education shall include at least the following:
+  (1) National Military Strategy.
+  (2) Joint planning at all levels of war.
+  (3) Joint doctrine.
+  (4) Joint command and control.
+  (5) Joint force and joint requirements development.
+  (6) Operational contract support.
+(b) In this chapter:
+  (1) The term “senior level service school” means any of the following:
+    (A) The Army War College.
+    (B) The College of Naval Warfare.
+    (C) The Air War College.
+    (D) The Marine Corps War College.
+    (E) The Space Force Senior Level Education Program.
+  (2) The term “intermediate level service school” means any of the following:
+    (A) The United States Army Command and General Staff College.
+    (B) The College of Naval Command and Staff.
+    (C) The Air Command and Staff College.
+    (D) The Marine Corps Command and Staff College.
+    (E) The Space Force Intermediate Level Education Program.
+  (3) The term “joint intermediate level school” includes the National Intelligence University.

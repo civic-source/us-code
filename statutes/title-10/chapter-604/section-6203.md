@@ -1,0 +1,14 @@
+---
+title: "Section 6203 - River protection project"
+usc_title: 10
+usc_section: "6203"
+chapter: 604
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 6203"
+generated_at: "2026-03-29T00:20:53.179Z"
+---
+
+# § 6203. River protection project
+
+The tank waste remediation system environmental project, Richland, Washington, including all programs relating to the retrieval and treatment of tank waste at the site at Hanford, Washington, under the management of the Office of River Protection, shall be known and designated as the “River Protection Project”. Any reference to that project in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the River Protection Project.
+

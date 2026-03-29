@@ -1,0 +1,21 @@
+---
+title: "Section 705 - Rest and recuperation absence: qualified members extending duty at designated locations overseas"
+usc_title: 10
+usc_section: "705"
+chapter: 40
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 705"
+generated_at: "2026-03-29T00:20:52.878Z"
+---
+
+# § 705. Rest and recuperation absence: qualified members extending duty at designated locations overseas
+
+(a) Under regulations prescribed by the Secretary concerned, a member of an armed force who—
+  (1) is entitled to basic pay;
+  (2) has a specialty that is designated by the Secretary concerned for the purposes of this section;
+  (3) has completed a tour of duty (as defined in accordance with regulations prescribed by the Secretary concerned) at a location outside the 48 contiguous States and the District of Columbia that is designated by the Secretary concerned for the purposes of this section; and
+  (4) at the end of that tour of duty executes an agreement to extend that tour for a period of not less than one year;
+(b) The benefits authorized by subsection (a) are—
+  (1) a period of rest and recuperation absence for not more than 30 days; or
+  (2) a period of rest and recuperation absence for not more than 15 days for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months, and round-trip transportation at Government expense from the location of the extended tour of duty to the nearest port in the 48 contiguous States and return, or to an alternative destination and return at a cost not to exceed the cost of round-trip transportation from the location of the extended tour of duty to such nearest port.
+(c) The provisions of this section shall not be effective unless the Secretary concerned determines that the application of this section will not adversely affect combat or unit readiness.

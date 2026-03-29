@@ -1,0 +1,14 @@
+---
+title: "Section 18238 - Army National Guard of United States; Air National Guard of United States: limitation on relocation of units"
+usc_title: 10
+usc_section: "18238"
+chapter: 1803
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 18238"
+generated_at: "2026-03-29T00:20:53.304Z"
+---
+
+# § 18238. Army National Guard of United States; Air National Guard of United States: limitation on relocation of units
+
+A unit of the Army National Guard of the United States or the Air National Guard of the United States may not be relocated or withdrawn under this chapter without the consent of the governor of the State or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia.
+

@@ -1,0 +1,16 @@
+---
+title: "Section 12315 - Reserves: duty with or without pay"
+usc_title: 10
+usc_section: "12315"
+chapter: 1209
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 12315"
+generated_at: "2026-03-29T00:20:53.284Z"
+---
+
+# § 12315. Reserves: duty with or without pay
+
+(a) Subject to other provisions of this title, any Reserve may be ordered to active duty or other duty—
+  (1) with the pay and allowances provided by law; or
+  (2) with his consent, without pay.
+(b) A Reserve who is kept on active duty after his term of service expires is entitled to pay and allowances while on that duty, except as they may be forfeited under the approved sentence of a court-martial or by non-judicial punishment by a commanding officer or when he is otherwise in a non-pay status.

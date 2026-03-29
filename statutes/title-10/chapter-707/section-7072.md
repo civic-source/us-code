@@ -1,0 +1,18 @@
+---
+title: "Section 7072 - Judge Advocate General’s Corps"
+usc_title: 10
+usc_section: "7072"
+chapter: 707
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 7072"
+generated_at: "2026-03-29T00:20:53.192Z"
+---
+
+# § 7072. Judge Advocate General’s Corps
+
+There is a Judge Advocate General’s Corps in the Army. The Judge Advocate General’s Corps consists of—
+
+  (1) the Judge Advocate General;
+  (2) the Assistant Judge Advocate General;
+  (3) commissioned officers of the Regular Army appointed therein; and
+  (4) other members of the Army assigned thereto by the Secretary of the Army.

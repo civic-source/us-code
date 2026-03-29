@@ -1,0 +1,17 @@
+---
+title: "Section 2922d - Procurement of fuel derived from coal, oil shale, and tar sands"
+usc_title: 10
+usc_section: "2922d"
+chapter: 173
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2922d"
+generated_at: "2026-03-29T00:20:53.108Z"
+---
+
+# § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands
+
+(a) The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
+(b) The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet one or more fuel requirements of the Department of Defense.
+(c) A covered fuel may be procured under subsection (b) only if the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
+(d) Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
+(e) In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.

@@ -1,0 +1,16 @@
+---
+title: "Section 7341 - General rule"
+usc_title: 10
+usc_section: "7341"
+chapter: 743
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 7341"
+generated_at: "2026-03-29T00:20:53.194Z"
+---
+
+# § 7341. General rule
+
+(a) 
+  (1) The retired grade of a regular commissioned officer of the Army who retires other than for physical disability is determined under section 1370 of this title .
+  (2) The retired grade of a reserve commissioned officer of the Army who retires other than for physical disability is determined under section 1370a of this title .
+(b) Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Army not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member’s retirement.

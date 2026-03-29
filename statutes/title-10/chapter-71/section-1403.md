@@ -1,0 +1,14 @@
+---
+title: "Section 1403 - Disability retired pay: treatment under Internal Revenue Code of 1986"
+usc_title: 10
+usc_section: "1403"
+chapter: 71
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1403"
+generated_at: "2026-03-29T00:20:52.970Z"
+---
+
+# § 1403. Disability retired pay: treatment under Internal Revenue Code of 1986
+
+That part of the retired pay of a member of an armed force, computed under formula No. 1 or 2 of section 1401, or under section 1402(d) or 1402a(d) of this title on the basis of years of service, which exceeds the retired pay that he would receive if it were computed on the basis of percentage of disability is not considered as a pension, annuity, or similar allowance for personal injury, or sickness, resulting from active service in the armed forces, under section 104(a) of the Internal Revenue Code of 1986.
+

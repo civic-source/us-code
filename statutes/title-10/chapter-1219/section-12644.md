@@ -1,0 +1,14 @@
+---
+title: "Section 12644 - Members physically not qualified for active duty: discharge or transfer to retired status"
+usc_title: 10
+usc_section: "12644"
+chapter: 1219
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 12644"
+generated_at: "2026-03-29T00:20:53.287Z"
+---
+
+# § 12644. Members physically not qualified for active duty: discharge or transfer to retired status
+
+Except as otherwise provided by law, the Secretary concerned may provide for the honorable discharge or the transfer to a retired status of members of the reserve components under his jurisdiction who are found to be not physically qualified for active duty. However, no member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred under this subsection without the consent of the governor or other appropriate authority of the jurisdiction concerned.
+

@@ -1,0 +1,14 @@
+---
+title: "Section 1524 - Posthumous commissions and warrants: determination of date of death"
+usc_title: 10
+usc_section: "1524"
+chapter: 77
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1524"
+generated_at: "2026-03-29T00:20:52.989Z"
+---
+
+# § 1524. Posthumous commissions and warrants: determination of date of death
+
+For the purposes of sections 1521 and 1522 of this title, in any case where the date of death is established or determined under section 551–558 of title 37 , the date of death is the date the Secretary concerned receives evidence that the person is dead, or the date the finding of death is made under section 555 of title 37 .
+

@@ -1,0 +1,25 @@
+---
+title: "Section 433 - Relationship with other Federal laws"
+usc_title: 10
+usc_section: "433"
+chapter: 21
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 433"
+generated_at: "2026-03-29T00:20:52.846Z"
+---
+
+# § 433. Relationship with other Federal laws
+
+(a) Except as provided by subsection (b), a commercial activity conducted pursuant to this subchapter shall be carried out in accordance with applicable Federal law.
+(b) 
+  (1) If the Secretary of Defense determines, in connection with a commercial activity authorized pursuant to section 431 of this title , that compliance with certain Federal laws or regulations pertaining to the management and administration of Federal agencies would create an unacceptable risk of compromise of an authorized intelligence activity, the Secretary may, to the extent necessary to prevent such compromise, waive compliance with such laws or regulations.
+  (2) Any determination and waiver by the Secretary under paragraph (1) shall be made in writing and shall include a specification of the laws and regulations for which compliance by the commercial activity concerned is not required consistent with this section.
+  (3) The authority of the Secretary under paragraph (1) may be delegated only to the Deputy Secretary of Defense, an Under Secretary of Defense, an Assistant Secretary of Defense, or a Secretary of a military department.
+(c) For purposes of this section, Federal laws and regulations pertaining to the management and administration of Federal agencies are only those Federal laws and regulations pertaining to the following:
+  (1) The receipt and use of appropriated and nonappropriated funds.
+  (2) The acquisition or management of property or services.
+  (3) Information disclosure, retention, and management.
+  (4) The employment of personnel.
+  (5) Payments for travel and housing.
+  (6) The establishment of legal entities or government instrumentalities.
+  (7) Foreign trade or financial transaction restrictions that would reveal the commercial activity as an activity of the United States Government.

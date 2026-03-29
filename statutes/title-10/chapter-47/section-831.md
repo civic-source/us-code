@@ -1,0 +1,16 @@
+---
+title: "Section 831 - Art. 31. Compulsory self-incrimination prohibited"
+usc_title: 10
+usc_section: "831"
+chapter: 47
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 831"
+generated_at: "2026-03-29T00:20:52.890Z"
+---
+
+# § 831. Art. 31. Compulsory self-incrimination prohibited
+
+(a) No person subject to this chapter may compel any person to incriminate himself or to answer any question the answer to which may tend to incriminate him.
+(b) No person subject to this chapter may interrogate, or request any statement from, an accused or a person suspected of an offense without first informing him of the nature of the accusation and advising him that he does not have to make any statement regarding the offense of which he is accused or suspected and that any statement made by him may be used as evidence against him in a trial by court-martial.
+(c) No person subject to this chapter may compel any person to make a statement or produce evidence before any military tribunal if the statement or evidence is not material to the issue and may tend to degrade him.
+(d) No statement obtained from any person in violation of this article, or through the use of coercion, unlawful influence, or unlawful inducement may be received in evidence against him in a trial by court-martial.

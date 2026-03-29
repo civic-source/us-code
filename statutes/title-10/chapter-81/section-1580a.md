@@ -1,0 +1,16 @@
+---
+title: "Section 1580a - Emergency essential employees: notification of required participation in anthrax vaccine immunization program"
+usc_title: 10
+usc_section: "1580a"
+chapter: 81
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1580a"
+generated_at: "2026-03-29T00:20:52.994Z"
+---
+
+# § 1580a. Emergency essential employees: notification of required participation in anthrax vaccine immunization program
+
+The Secretary of Defense shall—
+
+  (1) prescribe regulations for the purpose of ensuring that any civilian employee of the Department of Defense who is determined to be an emergency essential employee and who is required to participate in the anthrax vaccine immunization program is notified of the requirement to participate in the program and the consequences of a decision not to participate; and
+  (2) ensure that any individual who is being considered for a position as such an employee is notified of the obligation to participate in the program before being offered employment in such position.

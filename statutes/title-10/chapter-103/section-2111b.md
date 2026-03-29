@@ -1,0 +1,19 @@
+---
+title: "Section 2111b - Senior military colleges: Department of Defense international student program"
+usc_title: 10
+usc_section: "2111b"
+chapter: 103
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2111b"
+generated_at: "2026-03-29T00:20:53.015Z"
+---
+
+# § 2111b. Senior military colleges: Department of Defense international student program
+
+(a) The Secretary of Defense shall establish a program to facilitate the enrollment and instruction of persons from foreign countries as international students at the senior military colleges.
+(b) The purposes of the program shall be—
+  (1) to provide a high-quality, cost-effective military-based educational experience for international students in furtherance of the military-to-military program objectives of the Department of Defense; and
+  (2) to enhance the educational experience and preparation of future United States military leaders through increased, extended interaction with highly qualified potential foreign military leaders.
+(c) Guidelines for implementation of the program shall be developed in coordination with the senior military colleges.
+(d) The Secretary of Defense shall annually identify to the senior military colleges the international students who, based on criteria established by the Secretary, the Secretary recommends be considered for admission under the program. The Secretary shall identify the recommended international students to the senior military colleges as early as possible each year to enable those colleges to consider them in a timely manner in their respective admissions processes.
+(e) An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under section 2107a of this title , provide some or all of the costs of instruction for any such student.

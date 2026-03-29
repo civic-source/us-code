@@ -1,0 +1,14 @@
+---
+title: "Section 1207a - Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions"
+usc_title: 10
+usc_section: "1207a"
+chapter: 61
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1207a"
+generated_at: "2026-03-29T00:20:52.964Z"
+---
+
+# § 1207a. Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions
+
+(a) In the case of a member described in subsection (b) who would be covered by section 1201, 1202, or 1203 of this title but for the fact that the member’s disability is determined to have been incurred before the member became entitled to basic pay in the member’s current period of active duty, the disability shall be deemed to have been incurred while the member was entitled to basic pay and shall be so considered for purposes of determining whether the disability was incurred in the line of duty.
+(b) A member described in subsection (a) is a member with at least eight years of active service.

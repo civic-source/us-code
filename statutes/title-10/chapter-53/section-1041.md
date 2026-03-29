@@ -1,0 +1,14 @@
+---
+title: "Section 1041 - Replacement of certificate of discharge"
+usc_title: 10
+usc_section: "1041"
+chapter: 53
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1041"
+generated_at: "2026-03-29T00:20:52.924Z"
+---
+
+# § 1041. Replacement of certificate of discharge
+
+If satisfactory proof is presented that a person who was discharged honorably or under honorable conditions has lost his certificate of discharge from an armed force or that it was destroyed without his procurement or connivance, the Secretary concerned may give that person, or his surviving spouse, a certificate of that discharge, indelibly marked to show that it is a certificate in place of the lost or destroyed certificate. A certificate given under this section may not be accepted as a voucher for the payment of a claim against the United States for pay, bounty, or other allowance, or as evidence in any other case.
+

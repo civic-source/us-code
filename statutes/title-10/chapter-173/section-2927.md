@@ -1,0 +1,19 @@
+---
+title: "Section 2927 - Global bulk fuel management and delivery"
+usc_title: 10
+usc_section: "2927"
+chapter: 173
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2927"
+generated_at: "2026-03-29T00:20:53.110Z"
+---
+
+# § 2927. Global bulk fuel management and delivery
+
+(a) 
+  (1) Beginning during the period described in paragraph (2) and permanently thereafter, the United States Transportation Command shall be the element responsible for bulk fuel management and delivery of the Department of Defense on a global basis.
+  (2) The period described in this paragraph is the period beginning on January 1, 2023 , and ending on February 1, 2023 .
+(b) In carrying out the responsibilities specified in subsection (a), the Commander of the United States Transportation Command shall coordinate with the Director of the Defense Logistics Agency.
+(c) Except to the extent that, prior to January 1, 2023 , a responsibility specified in subsection (a) was a specific function of the Defense Logistics Agency Energy, nothing under this section shall be construed as—
+  (1) limiting any other function of the Defense Logistics Agency Energy; or
+  (2) requiring the transfer of any function, personnel, or asset from the Defense Logistics Agency Energy to the United States Transportation Command.

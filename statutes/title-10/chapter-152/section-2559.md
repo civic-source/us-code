@@ -1,0 +1,14 @@
+---
+title: "Section 2559 - Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services"
+usc_title: 10
+usc_section: "2559"
+chapter: 152
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2559"
+generated_at: "2026-03-29T00:20:53.057Z"
+---
+
+# § 2559. Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services
+
+(a) Except as provided in subsection (b), whenever the Secretary of Defense provides medical care in the United States on an inpatient basis to foreign military and diplomatic personnel or their dependents, the Secretary shall require that the United States be reimbursed for the costs of providing such care. Payments received as reimbursement for the provision of such care shall be credited to the appropriations against which charges were made for the provision of such care.
+(b) Notwithstanding subsection (a), the Secretary of Defense may provide inpatient medical care in the United States without cost to military personnel and their dependents from a foreign country if comparable care is made available to a comparable number of United States military personnel and their dependents in that foreign country.

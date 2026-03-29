@@ -1,0 +1,22 @@
+---
+title: "Section 9346 - Retired lists"
+usc_title: 10
+usc_section: "9346"
+chapter: 943
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 9346"
+generated_at: "2026-03-29T00:20:53.258Z"
+---
+
+# § 9346. Retired lists
+
+(a) The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force and a separate retired list containing the name of each retired commissioned officer of the Space Force (other than an officer whose name is on the list maintained under subsection (b)(2)).
+(b) 
+  (1) The Secretary shall maintain a retired list containing the name of—
+    (A) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force; and
+    (B) each retired warrant officer or enlisted member of the Air Force who is advanced to a commissioned grade.
+  (2) The Secretary shall maintain a retired list containing the name of—
+    (A) each person entitled to retired pay who as a member of the Space Force qualified for retirement under section 20601 of this title ; and
+    (B) each retired warrant officer or enlisted member of the Space Force who is advanced to a commissioned grade.
+(c) The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force and a separate retired list containing the name of each retired warrant officer of the Space Force.
+(d) The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force and a separate retired list containing the name of each retired enlisted member of the Space Force.

@@ -1,0 +1,15 @@
+---
+title: "Section 819 - Art. 19. Jurisdiction of special courts-martial"
+usc_title: 10
+usc_section: "819"
+chapter: 47
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 819"
+generated_at: "2026-03-29T00:20:52.888Z"
+---
+
+# § 819. Art. 19. Jurisdiction of special courts-martial
+
+(a) Subject to section 817 of this title (article 17), special courts-martial have jurisdiction to try persons subject to this chapter for any noncapital offense made punishable by this chapter and, under such regulations as the President may prescribe, for capital offenses. Special courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dishonorable discharge, dismissal, confinement for more than one year, hard labor without confinement for more than three months, forfeiture of pay exceeding two-thirds pay per month, or forfeiture of pay for more than one year.
+(b) Neither a bad-conduct discharge, nor confinement for more than six months, nor forfeiture of pay for more than six months may be adjudged if charges and specifications are referred to a special court-martial consisting of a military judge alone under section 816(c)(2)(A) of this title (article 16(c)(2)(A)).
+(c) If charges and specifications are referred to a special court-martial consisting of a military judge alone under section 816(c)(2)(A) of this title (article 16(c)(2)(A)), the military judge, with the consent of the parties, may designate a military magistrate to preside over the special court-martial.

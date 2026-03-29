@@ -1,0 +1,14 @@
+---
+title: "Section 6121 - Testing of nuclear weapons"
+usc_title: 10
+usc_section: "6121"
+chapter: 602
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 6121"
+generated_at: "2026-03-29T00:20:53.174Z"
+---
+
+# § 6121. Testing of nuclear weapons
+
+(a) No underground test of nuclear weapons may be conducted by the United States after September 30, 1996 , unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted.
+(b) None of the funds appropriated pursuant to the National Defense Authorization Act for Fiscal Year 1994 ( Public Law 103–160 ; 107 Stat. 1547 ) or any other Act for any fiscal year may be available to maintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.

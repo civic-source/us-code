@@ -1,0 +1,25 @@
+---
+title: "Section 8090 - Staff corps of the Navy"
+usc_title: 10
+usc_section: "8090"
+chapter: 809
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 8090"
+generated_at: "2026-03-29T00:20:53.213Z"
+---
+
+# § 8090. Staff corps of the Navy
+
+(a) The staff corps of the Navy are—
+  (1) the Medical Corps;
+  (2) the Dental Corps;
+  (3) the Judge Advocate General’s Corps;
+  (4) the Chaplain Corps;
+  (5) the Supply Corps;
+  (6) the Civil Engineer Corps;
+  (7) the Nurse Corps;
+  (8) the Medical Service Corps; and
+  (9) such other staff corps as may be established by the Secretary of the Navy under subsection (b).
+(b) 
+  (1) The Secretary of the Navy may establish staff corps of the Navy in addition to the staff corps specified in subsection (a). The Secretary may designate commissioned officers in, and may assign members to, any such staff corps.
+  (2) The Secretary of the Navy may provide for the appointment of the chief of any staff corps established under this subsection.

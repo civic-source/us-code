@@ -1,0 +1,15 @@
+---
+title: "Section 9286 - Korea Defense Service Medal"
+usc_title: 10
+usc_section: "9286"
+chapter: 937
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 9286"
+generated_at: "2026-03-29T00:20:53.258Z"
+---
+
+# § 9286. Korea Defense Service Medal
+
+(a) The Secretary of the Air Force shall issue a campaign medal, to be known as the Korea Defense Service Medal, to each person who while a member of the Air Force or the Space Force served in the Republic of Korea or the waters adjacent thereto during the KDSM eligibility period and met the service requirements for the award of that medal prescribed under subsection (c).
+(b) In this section, the term “KDSM eligibility period” means the period beginning on July 28, 1954 , and ending on such date after the date of the enactment of this section as may be determined by the Secretary of Defense to be appropriate for terminating eligibility for the Korea Defense Service Medal.
+(c) The Secretary of the Air Force shall prescribe service requirements for eligibility for the Korea Defense Service Medal. Those requirements shall not be more stringent than the service requirements for award of the Armed Forces Expeditionary Medal for instances in which the award of that medal is authorized.

@@ -1,0 +1,14 @@
+---
+title: "Section 9495 - Funds appropriated for the Civil Air Patrol"
+usc_title: 10
+usc_section: "9495"
+chapter: 959
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 9495"
+generated_at: "2026-03-29T00:20:53.264Z"
+---
+
+# § 9495. Funds appropriated for the Civil Air Patrol
+
+Funds appropriated for the Civil Air Patrol shall be available only for the exclusive use of the Civil Air Patrol.
+

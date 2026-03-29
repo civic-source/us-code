@@ -1,0 +1,18 @@
+---
+title: "Section 174 - Advisory personnel: research and development"
+usc_title: 10
+usc_section: "174"
+chapter: 7
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 174"
+generated_at: "2026-03-29T00:20:52.805Z"
+---
+
+# § 174. Advisory personnel: research and development
+
+(a) The Secretary of each military department may establish such advisory committees and panels as are necessary for the research and development activities of his department and may employ such part-time advisers as he considers necessary to carry out those activities.
+(b) A person who serves as a member of such a committee or panel may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
+(c) The Secretary concerned may delegate any authority under this section to—
+  (1) the Under Secretary of his department;
+  (2) an Assistant Secretary of his department; or
+  (3) the chief, and one assistant to the chief, of any technical service, bureau, or office.

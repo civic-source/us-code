@@ -1,0 +1,20 @@
+---
+title: "Section 8851 - Scope of chapter"
+usc_title: 10
+usc_section: "8851"
+chapter: 883
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 8851"
+generated_at: "2026-03-29T00:20:53.247Z"
+---
+
+# § 8851. Scope of chapter
+
+(a) This chapter applies to all captures of vessels as prize during war by authority of the United States or adopted and ratified by the President. However, this chapter does not affect the right of the Army, the Air Force, or the Space Force, while engaged in hostilities, to capture wherever found and without prize procedure—
+  (1) enemy property; or
+  (2) neutral property used or transported in violation of the obligations of neutrals under international law.
+(b) As used in this chapter—
+  (1) “vessel” includes aircraft; and
+  (2) “master” includes the pilot or other person in command of an aircraft.
+(c) Property seized or taken upon the inland waters of the United States by its naval forces is not maritime prize. All such property shall be delivered promptly to the proper officers of the courts.
+(d) Nothing in this chapter may be construed as contravening any treaty of the United States.

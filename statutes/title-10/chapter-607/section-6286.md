@@ -1,0 +1,17 @@
+---
+title: "Section 6286 - Use of best practices for capital asset projects and nuclear weapon life extension programs"
+usc_title: 10
+usc_section: "6286"
+chapter: 607
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 6286"
+generated_at: "2026-03-29T00:20:53.186Z"
+---
+
+# § 6286. Use of best practices for capital asset projects and nuclear weapon life extension programs
+
+(a) Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 129 Stat. 726 ), the Secretary of Energy, in coordination with the Administrator, shall ensure that analyses of alternatives are conducted (including through contractors, as appropriate) in accordance with best practices for capital asset projects and life extension programs of the Administration and capital asset projects relating to defense environmental management.
+(b) Not later than 30 days after the date of the enactment of such Act, the Secretary, in coordination with the Administrator, shall develop cost estimates in accordance with cost estimating best practices for capital asset projects and life extension programs of the Administration and capital asset projects relating to defense environmental management.
+(c) As soon as practicable after the date of the enactment of such Act, but not later than two years after such date of enactment, the Secretary shall revise—
+  (1) the capital asset project management order of the Department of Energy to require the use of best practices for preparing cost estimates and for conducting analyses of alternatives for Administration and defense environmental management capital asset projects; and
+  (2) the nuclear weapon life extension program procedures of the Department to require the use of best practices for preparing cost estimates and conducting analyses of alternatives for Administration life extension programs.

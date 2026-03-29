@@ -1,0 +1,14 @@
+---
+title: "Section 1086b - Prohibition against requiring retired members to receive health care solely through the Department of Defense"
+usc_title: 10
+usc_section: "1086b"
+chapter: 55
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1086b"
+generated_at: "2026-03-29T00:20:52.945Z"
+---
+
+# § 1086b. Prohibition against requiring retired members to receive health care solely through the Department of Defense
+
+The Secretary of Defense may not take any action that would require, or have the effect of requiring, a member or former member of the armed forces who is entitled to retired or retainer pay to enroll to receive health care from the Federal Government only through the Department of Defense.
+

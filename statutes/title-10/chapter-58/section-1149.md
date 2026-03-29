@@ -1,0 +1,14 @@
+---
+title: "Section 1149 - Excess leave and permissive temporary duty"
+usc_title: 10
+usc_section: "1149"
+chapter: 58
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1149"
+generated_at: "2026-03-29T00:20:52.958Z"
+---
+
+# § 1149. Excess leave and permissive temporary duty
+
+Under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary concerned shall grant a member of the armed forces who is to be involuntarily separated such excess leave (for a period not in excess of 30 days), or such permissive temporary duty (for a period not in excess of 10 days), as the member requires in order to facilitate the member’s carrying out necessary relocation activities (such as job search and residence search activities), unless to do so would interfere with military missions.
+

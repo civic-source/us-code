@@ -1,0 +1,14 @@
+---
+title: "Section 1702 - Under Secretary of Defense for Acquisition and Sustainment: authorities and responsibilities"
+usc_title: 10
+usc_section: "1702"
+chapter: 87
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 1702"
+generated_at: "2026-03-29T00:20:53.002Z"
+---
+
+# § 1702. Under Secretary of Defense for Acquisition and Sustainment: authorities and responsibilities
+
+Subject to the authority, direction, and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment shall carry out all powers, functions, and duties of the Secretary of Defense with respect to the acquisition workforce in the Department of Defense. The Under Secretary shall ensure that the policies of the Secretary of Defense established in accordance with this chapter are implemented throughout the Department of Defense. The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under section 1746 of this title .
+

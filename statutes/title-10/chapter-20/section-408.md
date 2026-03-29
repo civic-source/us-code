@@ -1,0 +1,29 @@
+---
+title: "Section 408 - Assistance in support of Department of Defense accounting for missing United States Government personnel"
+usc_title: 10
+usc_section: "408"
+chapter: 20
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 408"
+generated_at: "2026-03-29T00:20:52.844Z"
+---
+
+# § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel
+
+(a) The Secretary of Defense may provide assistance to and procure goods and services from any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
+(b) The assistance provided under subsection (a) may include the following:
+  (1) Equipment.
+  (2) Supplies.
+  (3) Services.
+  (4) Training of personnel.
+  (5) Funds.
+(c) Assistance may not be provided under this section to any foreign nation unless the Secretary of State specifically approves the provision of such assistance.
+(d) 
+  (1) Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $15,000,000.
+  (2) The Secretary may waive the limitation under paragraph (1) if the Secretary submits to the congressional defense committees notice of the waiver together with the reasons why the waiver is necessary.
+  (3) No assistance may be provided under this section to a foreign nation the government of which the Secretary of State determines has repeatedly provided support for international terrorism pursuant to—
+    (A) section 1754(c)(1)(A) of the Export Control Reform Act of 2018 ( 50 U.S.C. 4813(c)(1)(A) );
+    (B) section 620A of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371 ); or
+    (C) section 40 of the Arms Export Control Act ( 22 U.S.C. 2780 ).
+(e) The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations under law.
+(f) Not later than December 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the preceding fiscal year.

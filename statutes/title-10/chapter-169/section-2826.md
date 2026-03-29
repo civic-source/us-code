@@ -1,0 +1,16 @@
+---
+title: "Section 2826 - Military family housing: local comparability of room patterns and floor areas"
+usc_title: 10
+usc_section: "2826"
+chapter: 169
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2826"
+generated_at: "2026-03-29T00:20:53.091Z"
+---
+
+# § 2826. Military family housing: local comparability of room patterns and floor areas
+
+(a) In the construction, acquisition, and improvement of military family housing, the Secretary concerned shall ensure that the room patterns and floor areas of military family housing in a particular locality (as designated by the Secretary concerned for purposes of this section) are similar to room patterns and floor areas of similar housing in the private sector in that locality.
+(b) 
+  (1) In submitting to Congress a request for authority to carry out the construction, acquisition, or improvement of military family housing, the Secretary concerned shall include in the request information on the net floor area of each unit of military family housing to be constructed, acquired, or improved under the authority.
+  (2) In this subsection, the term “net floor area”, in the case of a military family housing unit, means the total number of square feet of the floor space inside the exterior walls of the unit, excluding the floor area of an unfinished basement, an unfinished attic, a utility space, a garage, a carport, an open or insect-screened porch, a stairwell, and any space used for a solar-energy system.

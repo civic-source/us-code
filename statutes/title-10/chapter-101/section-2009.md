@@ -1,0 +1,14 @@
+---
+title: "Section 2009 - Military colleges: female students"
+usc_title: 10
+usc_section: "2009"
+chapter: 101
+current_through: "PL 119-73"
+classification: "10 U.S.C. § 2009"
+generated_at: "2026-03-29T00:20:53.011Z"
+---
+
+# § 2009. Military colleges: female students
+
+(a) Under regulations prescribed by the Secretary of Defense, any college or university designated by the Secretary of Defense as a military college shall, as a condition of maintaining such designation, provide that qualified female undergraduate students enrolled in such college or university be eligible to participate in military training at such college or university.
+(b) Regulations prescribed under subsection (a) may not require a college or university, as a condition of maintaining its designation as a military college or for any other purpose, to require female undergraduate students enrolled in such college or university to participate in military training.
