@@ -5,7 +5,7 @@ usc_section: "967"
 chapter: 13
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 967"
-generated_at: "2026-03-29T18:25:04.230Z"
+generated_at: "2026-03-29T19:29:50.490Z"
 ---
 
 # § 967. Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses

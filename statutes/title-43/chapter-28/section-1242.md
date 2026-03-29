@@ -5,7 +5,7 @@ usc_section: "1242"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1242"
-generated_at: "2026-03-29T18:26:14.849Z"
+generated_at: "2026-03-29T19:31:49.095Z"
 ---
 
 # § 1242. Reimbursement of States for expenses

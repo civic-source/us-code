@@ -5,7 +5,7 @@ usc_section: "3a"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 3a"
-generated_at: "2026-03-29T18:24:40.924Z"
+generated_at: "2026-03-29T19:28:42.980Z"
 ---
 
 # § 1070c–3a. Grants for access and persistence

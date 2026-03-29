@@ -5,7 +5,7 @@ usc_section: "2621"
 chapter: 39
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2621"
-generated_at: "2026-03-29T18:26:01.308Z"
+generated_at: "2026-03-29T19:30:28.861Z"
 ---
 
 # § 2621. Study and recommendations

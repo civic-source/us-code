@@ -5,7 +5,7 @@ usc_section: "402a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 402a"
-generated_at: "2026-03-29T18:25:23.689Z"
+generated_at: "2026-03-29T19:29:34.757Z"
 ---
 
 # § 402a. Lease of unallotted irrigable lands for farming purposes

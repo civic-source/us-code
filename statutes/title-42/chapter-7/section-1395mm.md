@@ -5,7 +5,7 @@ usc_section: "1395mm"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-29T18:27:03.152Z"
+generated_at: "2026-03-29T19:31:44.752Z"
 ---
 
 # § 1395mm. Payments to health maintenance organizations and competitive medical plans

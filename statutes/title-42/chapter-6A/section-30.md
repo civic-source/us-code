@@ -5,7 +5,7 @@ usc_section: "30"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 30"
-generated_at: "2026-03-29T18:27:02.810Z"
+generated_at: "2026-03-29T19:31:44.440Z"
 ---
 
 # § 300ff–30. Emerging communities

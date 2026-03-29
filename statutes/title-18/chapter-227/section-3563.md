@@ -5,7 +5,7 @@ usc_section: "3563"
 chapter: 227
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3563"
-generated_at: "2026-03-29T18:24:43.878Z"
+generated_at: "2026-03-29T19:28:33.897Z"
 ---
 
 # § 3563. Conditions of probation

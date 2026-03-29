@@ -5,7 +5,7 @@ usc_section: "2332c"
 chapter: 113
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2332c"
-generated_at: "2026-03-29T18:24:43.846Z"
+generated_at: "2026-03-29T19:28:33.865Z"
 ---
 
 # [§ 2332c. Repealed. Pub. L. 105–277, div. I, title II , § 201(c)(1), Oct. 21, 1998 , 112 Stat. 2681–871 ]

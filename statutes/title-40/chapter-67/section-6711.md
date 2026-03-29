@@ -5,7 +5,7 @@ usc_section: "6711"
 chapter: 67
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 6711"
-generated_at: "2026-03-29T18:26:04.575Z"
+generated_at: "2026-03-29T19:30:36.696Z"
 ---
 
 # § 6711. Definition

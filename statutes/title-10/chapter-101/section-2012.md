@@ -5,7 +5,7 @@ usc_section: "2012"
 chapter: 101
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2012"
-generated_at: "2026-03-29T18:23:51.870Z"
+generated_at: "2026-03-29T19:27:25.557Z"
 ---
 
 # § 2012. Support and services for eligible organizations and activities outside Department of Defense

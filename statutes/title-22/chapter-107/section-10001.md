@@ -3,9 +3,9 @@ title: "Section 10001 - Definitions"
 usc_title: 22
 usc_section: "10001"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 10001"
-generated_at: "2026-03-29T02:12:40.517Z"
+generated_at: "2026-03-29T18:44:49.572Z"
 ---
 
 # § 10001. Definitions
@@ -35,7 +35,7 @@ Except as otherwise provided, in this chapter:
     - **(C)** 1 member selected by agreement between the Forces of Freedom and Change and the Transitional Military Council.
   - **(4)** The term “Sudanese security and intelligence services” means—
     - **(A)** the Sudan Armed Forces;
-    - **(B)** the Rapid Support Forces, 1 1 So in original. The comma probably should be a semicolon.
+    - **(B)** the Rapid Support Forces,
     - **(C)** Sudan’s Popular Defense Forces and other paramilitary units;
     - **(D)** Sudan’s police forces;
     - **(E)** the General Intelligence Service, previously known as the National Intelligence and Security Services; and

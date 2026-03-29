@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 16"
-generated_at: "2026-03-29T18:24:02.721Z"
+generated_at: "2026-03-29T19:28:17.479Z"
 ---
 
 # § 16. Funding of Office

@@ -5,7 +5,7 @@ usc_section: "1425"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1425"
-generated_at: "2026-03-29T18:23:43.257Z"
+generated_at: "2026-03-29T19:27:31.730Z"
 ---
 
 # § 1425. Producer rights and liabilities

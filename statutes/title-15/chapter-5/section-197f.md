@@ -5,7 +5,7 @@ usc_section: "197f"
 chapter: 5
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 197f"
-generated_at: "2026-03-29T18:24:08.323Z"
+generated_at: "2026-03-29T19:27:55.296Z"
 ---
 
 # § 197f. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(54), 60 Stat. 1039

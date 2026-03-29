@@ -5,7 +5,7 @@ usc_section: "613"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 613"
-generated_at: "2026-03-29T18:27:02.904Z"
+generated_at: "2026-03-29T19:31:44.522Z"
 ---
 
 # § 613. Research, evaluations, and national studies

@@ -5,7 +5,7 @@ usc_section: "3005"
 chapter: 32
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 3005"
-generated_at: "2026-03-29T18:25:23.796Z"
+generated_at: "2026-03-29T19:29:34.852Z"
 ---
 
 # § 3005. Repatriation

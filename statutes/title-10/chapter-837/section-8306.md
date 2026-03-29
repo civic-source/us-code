@@ -3,9 +3,9 @@ title: "Section 8306 - Medal of honor: duplicate medal"
 usc_title: 10
 usc_section: "8306"
 chapter: 837
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8306"
-generated_at: "2026-03-29T02:10:45.302Z"
+generated_at: "2026-03-29T18:47:53.564Z"
 ---
 
 # § 8306. Medal of honor: duplicate medal

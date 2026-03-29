@@ -5,7 +5,7 @@ usc_section: "717"
 chapter: 7
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 717"
-generated_at: "2026-03-29T18:25:59.142Z"
+generated_at: "2026-03-29T19:30:24.748Z"
 ---
 
 # § 717. Evaluating programs and activities of the United States Government

@@ -5,7 +5,7 @@ usc_section: "2613"
 chapter: 155
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2613"
-generated_at: "2026-03-29T18:23:51.982Z"
+generated_at: "2026-03-29T19:27:25.626Z"
 ---
 
 # § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families

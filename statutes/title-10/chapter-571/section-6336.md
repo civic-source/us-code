@@ -5,7 +5,7 @@ usc_section: "6336"
 chapter: 571
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-03-29T18:23:52.055Z"
+generated_at: "2026-03-29T19:27:25.684Z"
 ---
 
 # § 6336. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct

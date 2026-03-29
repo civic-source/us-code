@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 2
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 202"
-generated_at: "2026-03-29T18:24:28.482Z"
+generated_at: "2026-03-29T19:28:20.872Z"
 ---
 
 # § 202. Ownership of copyright as distinct from ownership of material object

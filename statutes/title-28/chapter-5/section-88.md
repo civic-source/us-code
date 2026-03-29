@@ -5,7 +5,7 @@ usc_section: "88"
 chapter: 5
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 88"
-generated_at: "2026-03-29T18:25:32.837Z"
+generated_at: "2026-03-29T19:30:04.329Z"
 ---
 
 # § 88. District of Columbia

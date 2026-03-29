@@ -5,7 +5,7 @@ usc_section: "7366"
 chapter: 73
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7366"
-generated_at: "2026-03-29T18:26:07.663Z"
+generated_at: "2026-03-29T19:30:40.573Z"
 ---
 
 # § 7366. Accountability and oversight

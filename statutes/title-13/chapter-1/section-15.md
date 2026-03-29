@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 1
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 15"
-generated_at: "2026-03-29T18:23:55.153Z"
+generated_at: "2026-03-29T19:27:55.733Z"
 ---
 
 # § 15. Leases for 1980 decennial census

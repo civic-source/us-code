@@ -5,7 +5,7 @@ usc_section: "402"
 chapter: 12
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 402"
-generated_at: "2026-03-29T18:26:13.302Z"
+generated_at: "2026-03-29T19:31:12.231Z"
 ---
 
 # § 402. Exchange of information between Secretary of Labor and Railroad Retirement Board

@@ -5,7 +5,7 @@ usc_section: "2404"
 chapter: 25
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2404"
-generated_at: "2026-03-29T18:24:02.983Z"
+generated_at: "2026-03-29T19:28:17.756Z"
 ---
 
 # § 2404. Powers of Commission

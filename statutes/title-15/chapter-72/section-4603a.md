@@ -5,7 +5,7 @@ usc_section: "4603a"
 chapter: 72
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4603a"
-generated_at: "2026-03-29T18:24:08.604Z"
+generated_at: "2026-03-29T19:27:55.562Z"
 ---
 
 # § 4603a. Study and report by Semiconductor Technology Council

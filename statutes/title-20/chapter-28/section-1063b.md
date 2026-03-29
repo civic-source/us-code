@@ -5,7 +5,7 @@ usc_section: "1063b"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1063b"
-generated_at: "2026-03-29T18:24:40.910Z"
+generated_at: "2026-03-29T19:28:42.966Z"
 ---
 
 # § 1063b. Professional or graduate institutions

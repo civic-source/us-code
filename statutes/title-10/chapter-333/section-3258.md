@@ -5,7 +5,7 @@ usc_section: "3258"
 chapter: 333
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3258"
-generated_at: "2026-03-29T18:23:52.021Z"
+generated_at: "2026-03-29T19:27:25.657Z"
 ---
 
 # § 3258. Regular Army: reenlistment after service as an officer

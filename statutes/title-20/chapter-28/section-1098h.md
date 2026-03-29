@@ -3,9 +3,9 @@ title: "Section 1098h - Procedure and requirements for requesting tax return inf
 usc_title: 20
 usc_section: "1098h"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "20 U.S.C. § 1098h"
-generated_at: "2026-03-29T02:12:17.295Z"
+generated_at: "2026-03-29T18:49:16.596Z"
 ---
 
 # § 1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service
@@ -16,9 +16,8 @@ generated_at: "2026-03-29T02:12:17.295Z"
       - **(i)** if such individuals provide approval under subparagraph (B)—
         - **(I)** the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103( l )(13) of title 26) for the relevant purposes described in such section; and
         - **(II)** the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103( l )(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
-      - **(ii)** the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual;
-    - **(B)** require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i); and
-    - **(C)** if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title , require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).
+      - **(ii)** the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
+    - **(B)** require, as a condition of eligibility for such aid, that such individuals affirmatively approve the disclosures described in subclauses (I) and (II) of subparagraph (A)(i).
   - **(2)**
     - **(A)** In the case of any written or electronic application by an individual for an income-contingent or income-based repayment plan for a loan under part D, the Secretary, with respect to such individual and any spouse of such individual, shall—
       - **(i)** provide to such individuals the notification described in paragraph (1)(A)(i);

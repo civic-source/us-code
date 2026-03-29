@@ -5,7 +5,7 @@ usc_section: "837"
 chapter: 39
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 837"
-generated_at: "2026-03-29T18:24:43.788Z"
+generated_at: "2026-03-29T19:28:33.802Z"
 ---
 
 # [§ 837. Repealed. Pub. L. 91–452, title XI , § 1106(b)(1), Oct. 15, 1970 , 84 Stat. 960 ]

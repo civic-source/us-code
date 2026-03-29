@@ -5,7 +5,7 @@ usc_section: "101"
 chapter: 2
 current_through: "PL 114-254"
 classification: "1 U.S.C. § 101"
-generated_at: "2026-03-29T18:23:11.728Z"
+generated_at: "2026-03-29T19:27:01.456Z"
 ---
 
 # § 101. Enacting clause

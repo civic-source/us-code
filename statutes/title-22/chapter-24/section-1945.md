@@ -5,7 +5,7 @@ usc_section: "1945"
 chapter: 24
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1945"
-generated_at: "2026-03-29T18:24:54.165Z"
+generated_at: "2026-03-29T19:29:46.719Z"
 ---
 
 # § 1945. Utilization of funds for assistance in Latin America; availability for transportation of immigrants from Ryukyuan Archipelago

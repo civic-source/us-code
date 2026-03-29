@@ -5,7 +5,7 @@ usc_section: "902"
 chapter: 18
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 902"
-generated_at: "2026-03-29T18:26:13.321Z"
+generated_at: "2026-03-29T19:31:12.247Z"
 ---
 
 # § 902. Definitions

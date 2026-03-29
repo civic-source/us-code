@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-29T18:23:43.233Z"
+generated_at: "2026-03-29T19:27:31.710Z"
 ---
 
 # § 950aaa–3. Administration

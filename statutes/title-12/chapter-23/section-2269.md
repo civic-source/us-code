@@ -5,7 +5,7 @@ usc_section: "2269"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2269"
-generated_at: "2026-03-29T18:24:02.966Z"
+generated_at: "2026-03-29T19:28:17.737Z"
 ---
 
 # § 2269. Further penalties

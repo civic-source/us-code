@@ -5,7 +5,7 @@ usc_section: "4317"
 chapter: 74
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 4317"
-generated_at: "2026-03-29T18:23:43.433Z"
+generated_at: "2026-03-29T19:27:31.896Z"
 ---
 
 # § 4317. Investigations; subpena powers, etc.; enforcement

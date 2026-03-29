@@ -5,7 +5,7 @@ usc_section: "1483"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1483"
-generated_at: "2026-03-29T18:27:03.320Z"
+generated_at: "2026-03-29T19:31:44.917Z"
 ---
 
 # § 1483. Program levels and authorizations

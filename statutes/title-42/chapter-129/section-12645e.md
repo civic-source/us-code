@@ -5,7 +5,7 @@ usc_section: "12645e"
 chapter: 129
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12645e"
-generated_at: "2026-03-29T18:27:04.072Z"
+generated_at: "2026-03-29T19:31:45.668Z"
 ---
 
 # § 12645e. Audits and reports

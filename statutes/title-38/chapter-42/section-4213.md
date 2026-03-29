@@ -5,7 +5,7 @@ usc_section: "4213"
 chapter: 42
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 4213"
-generated_at: "2026-03-29T18:26:07.630Z"
+generated_at: "2026-03-29T19:30:40.544Z"
 ---
 
 # § 4213. Eligibility requirements for veterans under Federal employment and training programs

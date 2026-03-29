@@ -5,7 +5,7 @@ usc_section: "1011g"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1011g"
-generated_at: "2026-03-29T18:24:40.892Z"
+generated_at: "2026-03-29T19:28:42.947Z"
 ---
 
 # § 1011g. Application of peer review process

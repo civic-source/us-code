@@ -5,7 +5,7 @@ usc_section: "5662"
 chapter: 87
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5662"
-generated_at: "2026-03-29T18:23:43.451Z"
+generated_at: "2026-03-29T19:27:31.915Z"
 ---
 
 # § 5662. Compliance provisions

@@ -5,7 +5,7 @@ usc_section: "123"
 chapter: 3
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 123"
-generated_at: "2026-03-29T18:23:51.718Z"
+generated_at: "2026-03-29T19:27:25.419Z"
 ---
 
 # § 123. Authority to suspend officer personnel laws during war or national emergency

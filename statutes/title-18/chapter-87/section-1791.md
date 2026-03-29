@@ -5,7 +5,7 @@ usc_section: "1791"
 chapter: 87
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1791"
-generated_at: "2026-03-29T18:24:43.824Z"
+generated_at: "2026-03-29T19:28:33.843Z"
 ---
 
 # § 1791. Providing or possessing contraband in prison

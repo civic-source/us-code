@@ -5,7 +5,7 @@ usc_section: "2359"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2359"
-generated_at: "2026-03-29T18:23:51.932Z"
+generated_at: "2026-03-29T19:27:25.595Z"
 ---
 
 # § 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation

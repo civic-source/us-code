@@ -5,7 +5,7 @@ usc_section: "448"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 448"
-generated_at: "2026-03-29T18:24:22.524Z"
+generated_at: "2026-03-29T19:29:27.156Z"
 ---
 
 # § 448. Pioneer National Monument; establishment

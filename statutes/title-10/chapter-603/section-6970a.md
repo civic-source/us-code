@@ -5,7 +5,7 @@ usc_section: "6970a"
 chapter: 603
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6970a"
-generated_at: "2026-03-29T18:23:52.060Z"
+generated_at: "2026-03-29T19:27:25.687Z"
 ---
 
 # § 6970a. Permanent professors: retirement for years of service; authority for deferral

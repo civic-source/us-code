@@ -5,7 +5,7 @@ usc_section: "269"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 269"
-generated_at: "2026-03-29T18:25:53.500Z"
+generated_at: "2026-03-29T19:30:19.764Z"
 ---
 
 # § 269. Acquisitions made to evade or avoid income tax

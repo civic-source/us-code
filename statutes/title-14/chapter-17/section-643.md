@@ -5,7 +5,7 @@ usc_section: "643"
 chapter: 17
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 643"
-generated_at: "2026-03-29T18:23:55.779Z"
+generated_at: "2026-03-29T19:27:45.913Z"
 ---
 
 # § 643. Rewards for apprehension of persons interfering with aids to navigation

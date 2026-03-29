@@ -5,7 +5,7 @@ usc_section: "1281a"
 chapter: 15
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1281a"
-generated_at: "2026-03-29T18:24:54.146Z"
+generated_at: "2026-03-29T19:29:46.697Z"
 ---
 
 # § 1281a. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(35), 666 Stat. 279

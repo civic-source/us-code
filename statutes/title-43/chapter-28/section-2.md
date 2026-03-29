@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T18:26:14.848Z"
+generated_at: "2026-03-29T19:31:49.093Z"
 ---
 
 # § 1181f–2. Appraisal of land and timber; manner and frequency; computation of amounts upon basis of last appraisement; deduction of appraisement expenses

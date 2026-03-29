@@ -5,7 +5,7 @@ usc_section: "3707"
 chapter: 50
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 3707"
-generated_at: "2026-03-29T18:26:01.332Z"
+generated_at: "2026-03-29T19:30:28.890Z"
 ---
 
 # § 3707. NASA ocean acidification activities

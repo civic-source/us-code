@@ -5,7 +5,7 @@ usc_section: "3407"
 chapter: 49
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3407"
-generated_at: "2026-03-29T18:24:54.281Z"
+generated_at: "2026-03-29T19:29:46.832Z"
 ---
 
 # § 3407. Repealed. Pub. L. 97–113, title VII , § 734(a)(4), Dec. 29, 1981 , 95 Stat. 1560

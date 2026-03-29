@@ -5,7 +5,7 @@ usc_section: "1126"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1126"
-generated_at: "2026-03-29T18:24:08.432Z"
+generated_at: "2026-03-29T19:27:55.407Z"
 ---
 
 # § 1126. International conventions

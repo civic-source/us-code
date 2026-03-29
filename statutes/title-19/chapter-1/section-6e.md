@@ -5,7 +5,7 @@ usc_section: "6e"
 chapter: 1
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 6e"
-generated_at: "2026-03-29T18:24:16.062Z"
+generated_at: "2026-03-29T19:28:30.637Z"
 ---
 
 # § 6e. Overtime compensation based on standard or daylight saving time

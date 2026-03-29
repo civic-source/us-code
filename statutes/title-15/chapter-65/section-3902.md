@@ -5,7 +5,7 @@ usc_section: "3902"
 chapter: 65
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-29T18:24:08.596Z"
+generated_at: "2026-03-29T19:27:55.555Z"
 ---
 
 # § 3902. Risk retention groups

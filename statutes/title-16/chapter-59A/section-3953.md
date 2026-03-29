@@ -5,7 +5,7 @@ usc_section: "3953"
 chapter: 59
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3953"
-generated_at: "2026-03-29T18:24:22.900Z"
+generated_at: "2026-03-29T19:29:27.582Z"
 ---
 
 # § 3953. Louisiana coastal wetlands conservation planning

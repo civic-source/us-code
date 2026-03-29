@@ -5,7 +5,7 @@ usc_section: "13501"
 chapter: 134
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13501"
-generated_at: "2026-03-29T18:27:04.123Z"
+generated_at: "2026-03-29T19:31:45.727Z"
 ---
 
 # § 13501. National Advanced Materials Program

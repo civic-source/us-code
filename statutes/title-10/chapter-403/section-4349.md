@@ -5,7 +5,7 @@ usc_section: "4349"
 chapter: 403
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4349"
-generated_at: "2026-03-29T18:23:52.030Z"
+generated_at: "2026-03-29T19:27:25.665Z"
 ---
 
 # § 4349. Cadets: organization of Corps; service; instruction

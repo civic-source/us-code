@@ -5,7 +5,7 @@ usc_section: "409"
 chapter: 4
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 409"
-generated_at: "2026-03-29T18:24:28.484Z"
+generated_at: "2026-03-29T19:28:20.874Z"
 ---
 
 # § 409. Application for copyright registration

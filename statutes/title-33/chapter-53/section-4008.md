@@ -5,7 +5,7 @@ usc_section: "4008"
 chapter: 53
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 4008"
-generated_at: "2026-03-29T18:26:01.339Z"
+generated_at: "2026-03-29T19:30:28.899Z"
 ---
 
 # § 4008. Definitions

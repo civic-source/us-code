@@ -5,7 +5,7 @@ usc_section: "581a"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 581a"
-generated_at: "2026-03-29T18:24:22.663Z"
+generated_at: "2026-03-29T19:29:27.306Z"
 ---
 
 # §§ 581, 581a. Repealed. Pub. L. 95–307 , § 8(a), June 30, 1978 , 92 Stat. 356

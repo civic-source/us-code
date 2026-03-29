@@ -5,7 +5,7 @@ usc_section: "2401"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2401"
-generated_at: "2026-03-29T18:24:16.162Z"
+generated_at: "2026-03-29T19:28:30.731Z"
 ---
 
 # § 2401. Definitions

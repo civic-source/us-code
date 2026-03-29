@@ -5,7 +5,7 @@ usc_section: "17197"
 chapter: 152
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 17197"
-generated_at: "2026-03-29T18:27:04.259Z"
+generated_at: "2026-03-29T19:31:45.887Z"
 ---
 
 # § 17197. Center for Geothermal Technology Transfer

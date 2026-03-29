@@ -5,7 +5,7 @@ usc_section: "1753"
 chapter: 35
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1753"
-generated_at: "2026-03-29T18:26:14.899Z"
+generated_at: "2026-03-29T19:31:49.150Z"
 ---
 
 # § 1753. Omitted

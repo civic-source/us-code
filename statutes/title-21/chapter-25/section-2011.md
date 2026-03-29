@@ -5,7 +5,7 @@ usc_section: "2011"
 chapter: 25
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 2011"
-generated_at: "2026-03-29T18:25:04.249Z"
+generated_at: "2026-03-29T19:29:50.510Z"
 ---
 
 # § 2011. Definitions

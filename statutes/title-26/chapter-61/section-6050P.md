@@ -5,7 +5,7 @@ usc_section: "6050P"
 chapter: 61
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6050P"
-generated_at: "2026-03-29T18:25:53.895Z"
+generated_at: "2026-03-29T19:30:20.159Z"
 ---
 
 # § 6050P. Returns relating to the cancellation of indebtedness by certain entities

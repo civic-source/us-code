@@ -5,7 +5,7 @@ usc_section: "291b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 291b"
-generated_at: "2026-03-29T18:27:02.681Z"
+generated_at: "2026-03-29T19:31:44.322Z"
 ---
 
 # § 291b. State allotments

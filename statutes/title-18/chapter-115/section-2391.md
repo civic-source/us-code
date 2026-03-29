@@ -5,7 +5,7 @@ usc_section: "2391"
 chapter: 115
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2391"
-generated_at: "2026-03-29T18:24:43.851Z"
+generated_at: "2026-03-29T19:28:33.870Z"
 ---
 
 # [§ 2391. Repealed. Pub. L. 103–322, title XXXIII , § 330004(13), Sept. 13, 1994 , 108 Stat. 2142 ]

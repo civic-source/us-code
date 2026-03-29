@@ -3,9 +3,9 @@ title: "Section 9415 - National AI Research Resource Task Force"
 usc_title: 15
 usc_section: "9415"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 9415"
-generated_at: "2026-03-29T02:11:34.497Z"
+generated_at: "2026-03-29T18:49:04.600Z"
 ---
 
 # § 9415. National AI Research Resource Task Force
@@ -35,7 +35,7 @@ generated_at: "2026-03-29T02:11:34.497Z"
     - **(B)** A plan for ownership and administration of the National Artificial Intelligence Research Resource, including—
       - **(i)** an appropriate agency or organization responsible for the implementation, deployment, and administration of the Resource; and
       - **(ii)** a governance structure for the Resource, including oversight and decision-making authorities.
-    - **(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources; 2 2 So in original. The semicolon probably should be a period.
+    - **(C)** A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources;
     - **(D)** Capabilities required to create and maintain a shared computing infrastructure to facilitate access to computing resources for researchers across the country, including scalability, secured access control, resident data engineering and curation expertise, provision of curated data sets, compute resources, educational tools and services, and a user interface portal.
     - **(E)** An assessment of, and recommended solutions to, barriers to the dissemination and use of high-quality government data sets as part of the National Artificial Intelligence Research Resource.
     - **(F)** An assessment of security requirements associated with the National Artificial Intelligence Research Resource and its research and a recommendation for a framework for the management of access controls.

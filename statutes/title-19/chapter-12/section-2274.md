@@ -5,7 +5,7 @@ usc_section: "2274"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2274"
-generated_at: "2026-03-29T18:24:16.151Z"
+generated_at: "2026-03-29T19:28:30.723Z"
 ---
 
 # § 2274. Study and notifications regarding certain affirmative determinations; industry notification of assistance

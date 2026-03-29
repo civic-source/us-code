@@ -5,7 +5,7 @@ usc_section: "4902"
 chapter: 69
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 4902"
-generated_at: "2026-03-29T18:24:22.915Z"
+generated_at: "2026-03-29T19:29:27.597Z"
 ---
 
 # § 4902. Statement of purpose

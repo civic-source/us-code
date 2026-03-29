@@ -5,7 +5,7 @@ usc_section: "279a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 279a"
-generated_at: "2026-03-29T18:24:54.113Z"
+generated_at: "2026-03-29T19:29:46.662Z"
 ---
 
 # § 279a. Authorization of appropriations for payment of United States expenses in Organization; limitation of contributions

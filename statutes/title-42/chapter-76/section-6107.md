@@ -5,7 +5,7 @@ usc_section: "6107"
 chapter: 76
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6107"
-generated_at: "2026-03-29T18:27:03.672Z"
+generated_at: "2026-03-29T19:31:45.260Z"
 ---
 
 # § 6107. Definitions

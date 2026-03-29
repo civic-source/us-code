@@ -5,7 +5,7 @@ usc_section: "7602"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7602"
-generated_at: "2026-03-29T18:27:03.834Z"
+generated_at: "2026-03-29T19:31:45.420Z"
 ---
 
 # § 7602. Definitions

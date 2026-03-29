@@ -5,7 +5,7 @@ usc_section: "763b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "47 U.S.C. § 763b"
-generated_at: "2026-03-29T18:27:09.595Z"
+generated_at: "2026-03-29T19:32:13.818Z"
 ---
 
 # § 763b. Repealed. Pub. L. 109–34 , § 2, July 12, 2005 , 119 Stat. 377

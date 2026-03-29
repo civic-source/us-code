@@ -5,7 +5,7 @@ usc_section: "244a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 244a"
-generated_at: "2026-03-29T18:27:02.537Z"
+generated_at: "2026-03-29T19:31:44.174Z"
 ---
 
 # § 244a. Repealed. Pub. L. 93–353, title I , § 102(a), July 23, 1974 , 88 Stat. 362

@@ -5,7 +5,7 @@ usc_section: "645"
 chapter: 14
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 645"
-generated_at: "2026-03-29T18:24:08.374Z"
+generated_at: "2026-03-29T19:27:55.348Z"
 ---
 
 # § 645. Offenses and penalties

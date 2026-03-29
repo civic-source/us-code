@@ -5,7 +5,7 @@ usc_section: "72"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 72"
-generated_at: "2026-03-29T18:24:08.214Z"
+generated_at: "2026-03-29T19:27:55.069Z"
 ---
 
 # § 72. Repealed. Pub. L. 108–429, title II , § 2006(a), Dec. 3, 2004 , 118 Stat. 2597

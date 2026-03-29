@@ -5,7 +5,7 @@ usc_section: "3704a"
 chapter: 63
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 3704a"
-generated_at: "2026-03-29T18:24:08.585Z"
+generated_at: "2026-03-29T19:27:55.547Z"
 ---
 
 # § 3704a. Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation

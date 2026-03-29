@@ -5,7 +5,7 @@ usc_section: "404a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 404a"
-generated_at: "2026-03-29T18:26:03.552Z"
+generated_at: "2026-03-29T19:30:48.537Z"
 ---
 
 # § 404a. Specific limitations

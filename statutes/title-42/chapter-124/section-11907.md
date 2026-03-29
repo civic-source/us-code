@@ -5,7 +5,7 @@ usc_section: "11907"
 chapter: 124
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11907"
-generated_at: "2026-03-29T18:27:04.038Z"
+generated_at: "2026-03-29T19:31:45.630Z"
 ---
 
 # § 11907. Monitoring

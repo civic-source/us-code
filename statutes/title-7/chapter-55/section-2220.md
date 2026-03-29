@@ -5,7 +5,7 @@ usc_section: "2220"
 chapter: 55
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2220"
-generated_at: "2026-03-29T18:23:43.386Z"
+generated_at: "2026-03-29T19:27:31.856Z"
 ---
 
 # § 2220. Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees

@@ -5,7 +5,7 @@ usc_section: "1026"
 chapter: 21
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1026"
-generated_at: "2026-03-29T18:24:08.427Z"
+generated_at: "2026-03-29T19:27:55.401Z"
 ---
 
 # § 1026. Repealed. Pub. L. 94–136, title VI , § 601, Nov. 28, 1975 , 89 Stat. 742

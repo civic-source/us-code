@@ -5,7 +5,7 @@ usc_section: "1443"
 chapter: 27
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1443"
-generated_at: "2026-03-29T18:26:01.269Z"
+generated_at: "2026-03-29T19:30:28.814Z"
 ---
 
 # § 1443. Research program respecting ocean dumping and other methods of waste disposal

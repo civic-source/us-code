@@ -5,7 +5,7 @@ usc_section: "1992"
 chapter: 97
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1992"
-generated_at: "2026-03-29T18:24:43.832Z"
+generated_at: "2026-03-29T19:28:33.850Z"
 ---
 
 # § 1992. Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air

@@ -5,7 +5,7 @@ usc_section: "15904"
 chapter: 149
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15904"
-generated_at: "2026-03-29T18:27:04.198Z"
+generated_at: "2026-03-29T19:31:45.813Z"
 ---
 
 # § 15904. Incentives for natural gas production from deep wells in the shallow waters of the Gulf of Mexico

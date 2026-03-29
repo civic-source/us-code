@@ -5,7 +5,7 @@ usc_section: "1133"
 chapter: 23
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1133"
-generated_at: "2026-03-29T18:24:22.761Z"
+generated_at: "2026-03-29T19:29:27.421Z"
 ---
 
 # § 1133. Use of wilderness areas

@@ -5,7 +5,7 @@ usc_section: "9222"
 chapter: 99
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 9222"
-generated_at: "2026-03-29T18:24:54.425Z"
+generated_at: "2026-03-29T19:29:47.006Z"
 ---
 
 # § 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea

@@ -5,7 +5,7 @@ usc_section: "3673"
 chapter: 36
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3673"
-generated_at: "2026-03-29T18:26:07.610Z"
+generated_at: "2026-03-29T19:30:40.525Z"
 ---
 
 # § 3673. Approval activities: cooperation and coordination of activities

@@ -5,7 +5,7 @@ usc_section: "4112"
 chapter: 52
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4112"
-generated_at: "2026-03-29T18:24:54.310Z"
+generated_at: "2026-03-29T19:29:46.864Z"
 ---
 
 # § 4112. Employees represented

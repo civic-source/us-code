@@ -5,7 +5,7 @@ usc_section: "225"
 chapter: 5
 current_through: "PL 114-254"
 classification: "47 U.S.C. § 225"
-generated_at: "2026-03-29T18:27:09.534Z"
+generated_at: "2026-03-29T19:32:13.752Z"
 ---
 
 # § 225. Telecommunications services for hearing-impaired and speech-impaired individuals

@@ -5,7 +5,7 @@ usc_section: "4569"
 chapter: 46
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 4569"
-generated_at: "2026-03-29T18:24:03.037Z"
+generated_at: "2026-03-29T19:28:17.815Z"
 ---
 
 # § 4569. Capital Magnet Fund

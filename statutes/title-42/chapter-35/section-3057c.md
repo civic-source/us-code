@@ -5,7 +5,7 @@ usc_section: "3057c"
 chapter: 35
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3057c"
-generated_at: "2026-03-29T18:27:03.498Z"
+generated_at: "2026-03-29T19:31:45.078Z"
 ---
 
 # § 3057c. Eligibility

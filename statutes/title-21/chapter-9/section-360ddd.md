@@ -5,7 +5,7 @@ usc_section: "360ddd"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 360ddd"
-generated_at: "2026-03-29T18:25:04.152Z"
+generated_at: "2026-03-29T19:29:50.402Z"
 ---
 
 # § 360ddd. Definitions

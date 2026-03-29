@@ -5,7 +5,7 @@ usc_section: "1716a"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1716a"
-generated_at: "2026-03-29T18:24:02.850Z"
+generated_at: "2026-03-29T19:28:17.614Z"
 ---
 
 # §§ 1716–1, 1716a. Repealed. Aug. 2, 1954, ch. 649 , title II, § 206, 68 Stat. 622

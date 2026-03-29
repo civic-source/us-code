@@ -3,18 +3,18 @@ title: "Section 3072 - Comptroller General assessment of acquisition programs an
 usc_title: 10
 usc_section: "3072"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 3072"
-generated_at: "2026-03-29T02:10:45.172Z"
+generated_at: "2026-03-29T18:47:53.489Z"
 ---
 
 # § 3072. Comptroller General assessment of acquisition programs and initiatives
 
-- **(a)** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2029.
+- **(a)** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2023.
 - **(b)** The assessment required under subsection (a) shall include—
   - **(1)** a macro analysis of how well acquisition programs and initiatives are performing and reasons for that performance;
-  - **(2)** specific analyses of individual acquisition programs and initiatives; and
-  - **(3)** other issues as determined appropriate by the Comptroller General.
+  - **(2)** a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and initiatives; and
+  - **(3)** specific analyses of individual acquisition programs and initiatives.
 - **(c)** The assessment required under subsection (a) shall consider the following programs and initiatives:
   - **(1)** Selected weapon systems, as determined appropriate by the Comptroller General.
   - **(2)** Selected information technology systems and initiatives, including defense business systems, networks, and software-intensive systems, as determined appropriate by the Comptroller General.

@@ -5,7 +5,7 @@ usc_section: "350a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 350a"
-generated_at: "2026-03-29T18:24:22.449Z"
+generated_at: "2026-03-29T19:29:27.069Z"
 ---
 
 # § 350a. Repealed. Pub. L. 94–429 , § 3(c), Sept. 28, 1976 , 90 Stat. 1342

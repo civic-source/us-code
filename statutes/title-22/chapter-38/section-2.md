@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 38
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-29T18:24:54.247Z"
+generated_at: "2026-03-29T19:29:46.802Z"
 ---
 
 # § 2680–2. Facilitating access to Department of State

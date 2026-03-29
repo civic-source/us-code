@@ -5,7 +5,7 @@ usc_section: "11325"
 chapter: 113
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 11325"
-generated_at: "2026-03-29T18:27:16.484Z"
+generated_at: "2026-03-29T19:32:28.768Z"
 ---
 
 # § 11325. Consolidation, merger, and acquisition of control: procedure

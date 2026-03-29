@@ -5,7 +5,7 @@ usc_section: "14501"
 chapter: 145
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 14501"
-generated_at: "2026-03-29T18:27:18.896Z"
+generated_at: "2026-03-29T19:32:17.346Z"
 ---
 
 # § 14501. Application

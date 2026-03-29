@@ -5,7 +5,7 @@ usc_section: "2141f"
 chapter: 31
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2141f"
-generated_at: "2026-03-29T18:24:54.173Z"
+generated_at: "2026-03-29T19:29:46.729Z"
 ---
 
 # §§ 2141e, 2141f. Omitted

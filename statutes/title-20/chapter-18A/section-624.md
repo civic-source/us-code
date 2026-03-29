@@ -5,7 +5,7 @@ usc_section: "624"
 chapter: 18
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 624"
-generated_at: "2026-03-29T18:24:40.881Z"
+generated_at: "2026-03-29T19:28:42.935Z"
 ---
 
 # §§ 621 to 624. Repealed. Pub. L. 91–230, title VI , § 662(5), Apr. 13, 1970 , 84 Stat. 188

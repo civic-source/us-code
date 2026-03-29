@@ -5,7 +5,7 @@ usc_section: "831w"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 831w"
-generated_at: "2026-03-29T18:24:22.732Z"
+generated_at: "2026-03-29T19:29:27.390Z"
 ---
 
 # § 831w. Acquisition of real or personal property; payment by delivery of power; sale or lease of vacant land for industrial purposes

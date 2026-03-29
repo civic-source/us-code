@@ -3,9 +3,9 @@ title: "Section 7806 - Prohibited acts."
 usc_title: 16
 usc_section: "7806"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 7806"
-generated_at: "2026-03-29T02:11:54.003Z"
+generated_at: "2026-03-29T18:49:44.408Z"
 ---
 
 # § 7806. Prohibited acts.

@@ -5,7 +5,7 @@ usc_section: "1473"
 chapter: 33
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1473"
-generated_at: "2026-03-29T18:24:41.063Z"
+generated_at: "2026-03-29T19:28:43.105Z"
 ---
 
 # § 1473. Technical assistance for parent training and information centers

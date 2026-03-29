@@ -5,7 +5,7 @@ usc_section: "2701"
 chapter: 54
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2701"
-generated_at: "2026-03-29T18:24:08.567Z"
+generated_at: "2026-03-29T19:27:55.529Z"
 ---
 
 # § 2701. Congressional findings and purpose

@@ -5,7 +5,7 @@ usc_section: "190106"
 chapter: 1901
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 190106"
-generated_at: "2026-03-29T18:26:09.304Z"
+generated_at: "2026-03-29T19:30:42.091Z"
 ---
 
 # § 190106. Exclusive right to name, seals, emblems, and badges

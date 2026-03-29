@@ -5,7 +5,7 @@ usc_section: "1325"
 chapter: 6
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1325"
-generated_at: "2026-03-29T18:27:11.648Z"
+generated_at: "2026-03-29T19:31:53.946Z"
 ---
 
 # §§ 1324, 1325. Repealed. Feb. 16, 1933, ch. 89 , § 4, 47 Stat. 812

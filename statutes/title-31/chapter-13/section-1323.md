@@ -5,7 +5,7 @@ usc_section: "1323"
 chapter: 13
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 1323"
-generated_at: "2026-03-29T18:25:59.157Z"
+generated_at: "2026-03-29T19:30:24.760Z"
 ---
 
 # § 1323. Trust funds for certain fees, donations, quasi-public amounts, and unearned amounts

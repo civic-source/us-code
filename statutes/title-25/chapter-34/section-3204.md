@@ -5,7 +5,7 @@ usc_section: "3204"
 chapter: 34
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 3204"
-generated_at: "2026-03-29T18:25:23.802Z"
+generated_at: "2026-03-29T19:29:34.857Z"
 ---
 
 # § 3204. Central registry

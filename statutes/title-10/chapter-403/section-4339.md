@@ -5,7 +5,7 @@ usc_section: "4339"
 chapter: 403
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4339"
-generated_at: "2026-03-29T18:23:52.028Z"
+generated_at: "2026-03-29T19:27:25.662Z"
 ---
 
 # [§ 4339. Repealed. Pub. L. 89–716 , § 1, Nov. 2, 1966 , 80 Stat. 1114 ]

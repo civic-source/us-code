@@ -5,7 +5,7 @@ usc_section: "435a"
 chapter: 15
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 435a"
-generated_at: "2026-03-29T18:27:35.591Z"
+generated_at: "2026-03-29T19:32:24.098Z"
 ---
 
 # § 435a. Transferred

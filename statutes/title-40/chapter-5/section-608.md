@@ -5,7 +5,7 @@ usc_section: "608"
 chapter: 5
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 608"
-generated_at: "2026-03-29T18:26:04.559Z"
+generated_at: "2026-03-29T19:30:36.683Z"
 ---
 
 # § 608. Scrip, tokens, tickets

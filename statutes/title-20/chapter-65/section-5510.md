@@ -5,7 +5,7 @@ usc_section: "5510"
 chapter: 65
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 5510"
-generated_at: "2026-03-29T18:24:41.102Z"
+generated_at: "2026-03-29T19:28:43.151Z"
 ---
 
 # § 5510. Authorization

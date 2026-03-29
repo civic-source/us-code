@@ -5,7 +5,7 @@ usc_section: "970"
 chapter: 45
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 970"
-generated_at: "2026-03-29T18:24:43.798Z"
+generated_at: "2026-03-29T19:28:33.814Z"
 ---
 
 # § 970. Protection of property occupied by foreign governments

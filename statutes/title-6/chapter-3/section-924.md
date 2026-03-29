@@ -5,7 +5,7 @@ usc_section: "924"
 chapter: 3
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 924"
-generated_at: "2026-03-29T18:23:35.777Z"
+generated_at: "2026-03-29T19:27:39.877Z"
 ---
 
 # § 924. Threat assessment screening of port truck drivers

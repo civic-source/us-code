@@ -5,7 +5,7 @@ usc_section: "1810"
 chapter: 20
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1810"
-generated_at: "2026-03-29T18:25:23.753Z"
+generated_at: "2026-03-29T19:29:34.814Z"
 ---
 
 # § 1810. Authorization of appropriations

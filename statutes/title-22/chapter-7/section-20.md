@@ -5,7 +5,7 @@ usc_section: "20"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 20"
-generated_at: "2026-03-29T18:24:54.133Z"
+generated_at: "2026-03-29T19:29:46.683Z"
 ---
 
 # § 290g–20. Twelfth replenishment

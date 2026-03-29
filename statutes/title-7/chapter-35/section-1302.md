@@ -5,7 +5,7 @@ usc_section: "1302"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1302"
-generated_at: "2026-03-29T18:23:43.237Z"
+generated_at: "2026-03-29T19:27:31.713Z"
 ---
 
 # § 1302. Repealed. Oct. 31, 1949, ch. 792 , title IV, § 414, 63 Stat. 1057

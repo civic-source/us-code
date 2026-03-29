@@ -5,7 +5,7 @@ usc_section: "3789h"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3789h"
-generated_at: "2026-03-29T18:27:03.533Z"
+generated_at: "2026-03-29T19:31:45.111Z"
 ---
 
 # § 3789h. Repealed. Pub. L. 98–473, title II , § 609B(e), (l), Oct. 12, 1984 , 98 Stat. 2093 , 2096

@@ -5,7 +5,7 @@ usc_section: "1424a"
 chapter: 8
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1424a"
-generated_at: "2026-03-29T18:27:11.657Z"
+generated_at: "2026-03-29T19:31:53.955Z"
 ---
 
 # § 1424a. Repealed. Oct. 31, 1951, ch. 655 , § 56(e), 65 Stat. 729

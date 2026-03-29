@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 23
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3702"
-generated_at: "2026-03-29T18:24:16.216Z"
+generated_at: "2026-03-29T19:28:30.781Z"
 ---
 
 # § 3702. Statement of policy

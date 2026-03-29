@@ -5,7 +5,7 @@ usc_section: "541e"
 chapter: 12
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 541e"
-generated_at: "2026-03-29T18:25:30.863Z"
+generated_at: "2026-03-29T19:30:05.239Z"
 ---
 
 # § 541e. Definitions

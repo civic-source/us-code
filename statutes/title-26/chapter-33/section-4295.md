@@ -5,7 +5,7 @@ usc_section: "4295"
 chapter: 33
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 4295"
-generated_at: "2026-03-29T18:25:53.823Z"
+generated_at: "2026-03-29T19:30:20.082Z"
 ---
 
 # [§§ 4294, 4295. Repealed. Pub. L. 94–455, title XIX , § 1904(a)(10), (11), Oct. 4, 1976 , 90 Stat. 1812 ]

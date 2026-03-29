@@ -5,7 +5,7 @@ usc_section: "1623"
 chapter: 21
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1623"
-generated_at: "2026-03-29T18:24:54.155Z"
+generated_at: "2026-03-29T19:29:46.707Z"
 ---
 
 # § 1623. Claims

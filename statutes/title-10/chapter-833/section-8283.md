@@ -3,9 +3,9 @@ title: "Section 8283 - Emergency medical treatment: reimbursement for expense"
 usc_title: 10
 usc_section: "8283"
 chapter: 833
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8283"
-generated_at: "2026-03-29T02:10:45.299Z"
+generated_at: "2026-03-29T18:47:53.564Z"
 ---
 
 # § 8283. Emergency medical treatment: reimbursement for expense

@@ -5,7 +5,7 @@ usc_section: "250f"
 chapter: 5
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 250f"
-generated_at: "2026-03-29T18:24:54.093Z"
+generated_at: "2026-03-29T19:29:46.641Z"
 ---
 
 # §§ 249 to 250f. Transferred

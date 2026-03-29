@@ -5,7 +5,7 @@ usc_section: "205"
 chapter: 4
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 205"
-generated_at: "2026-03-29T18:25:00.380Z"
+generated_at: "2026-03-29T19:29:35.069Z"
 ---
 
 # § 205. Repealed. Pub. L. 88–597 , § 19(d), Sept. 15, 1964 , 78 Stat. 953

@@ -5,7 +5,7 @@ usc_section: "101"
 chapter: 10
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 101"
-generated_at: "2026-03-29T18:25:56.879Z"
+generated_at: "2026-03-29T19:30:29.291Z"
 ---
 
 # § 101. Inventions patentable

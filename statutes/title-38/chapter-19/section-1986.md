@@ -5,7 +5,7 @@ usc_section: "1986"
 chapter: 19
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1986"
-generated_at: "2026-03-29T18:26:07.579Z"
+generated_at: "2026-03-29T19:30:40.494Z"
 ---
 
 # § 1986. Deposits in and disbursements from trust funds

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T18:27:03.417Z"
+generated_at: "2026-03-29T19:31:45.004Z"
 ---
 
 # § 2000ee–1. Privacy and civil liberties officers

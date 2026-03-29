@@ -5,7 +5,7 @@ usc_section: "736"
 chapter: 7
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 736"
-generated_at: "2026-03-29T18:26:07.546Z"
+generated_at: "2026-03-29T19:30:40.464Z"
 ---
 
 # § 736. Reports to Congress

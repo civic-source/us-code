@@ -5,7 +5,7 @@ usc_section: "647"
 chapter: 14
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 647"
-generated_at: "2026-03-29T18:26:14.828Z"
+generated_at: "2026-03-29T19:31:49.073Z"
 ---
 
 # § 647. Grant extended to desert lands within part of former Ute Indian Reservation in Colorado

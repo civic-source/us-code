@@ -5,7 +5,7 @@ usc_section: "272"
 chapter: 28
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 272"
-generated_at: "2026-03-29T18:25:56.891Z"
+generated_at: "2026-03-29T19:30:29.304Z"
 ---
 
 # § 272. Temporary presence in the United States

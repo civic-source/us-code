@@ -5,7 +5,7 @@ usc_section: "3146"
 chapter: 44
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 3146"
-generated_at: "2026-03-29T18:27:35.687Z"
+generated_at: "2026-03-29T19:32:24.238Z"
 ---
 
 # § 3146. Protection of certain files of the Office of the Director of National Intelligence

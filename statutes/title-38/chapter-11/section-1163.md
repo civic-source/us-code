@@ -5,7 +5,7 @@ usc_section: "1163"
 chapter: 11
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1163"
-generated_at: "2026-03-29T18:26:07.550Z"
+generated_at: "2026-03-29T19:30:40.468Z"
 ---
 
 # § 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings

@@ -5,7 +5,7 @@ usc_section: "8727"
 chapter: 94
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8727"
-generated_at: "2026-03-29T18:24:54.413Z"
+generated_at: "2026-03-29T19:29:46.990Z"
 ---
 
 # § 8727. Identification of, and immigration restrictions on, senior officials of the Government of Iran and their family members

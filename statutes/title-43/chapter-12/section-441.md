@@ -5,7 +5,7 @@ usc_section: "441"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 441"
-generated_at: "2026-03-29T18:26:14.804Z"
+generated_at: "2026-03-29T19:31:49.050Z"
 ---
 
 # § 441. Assignment of entries generally

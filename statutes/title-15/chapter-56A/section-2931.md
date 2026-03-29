@@ -5,7 +5,7 @@ usc_section: "2931"
 chapter: 56
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2931"
-generated_at: "2026-03-29T18:24:08.573Z"
+generated_at: "2026-03-29T19:27:55.535Z"
 ---
 
 # § 2931. Findings and purpose

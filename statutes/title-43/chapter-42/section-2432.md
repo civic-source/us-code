@@ -5,7 +5,7 @@ usc_section: "2432"
 chapter: 42
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2432"
-generated_at: "2026-03-29T18:26:14.914Z"
+generated_at: "2026-03-29T19:31:49.170Z"
 ---
 
 # § 2432. Effect on the reclamation laws

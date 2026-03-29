@@ -5,7 +5,7 @@ usc_section: "6066"
 chapter: 75
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6066"
-generated_at: "2026-03-29T18:27:03.671Z"
+generated_at: "2026-03-29T19:31:45.259Z"
 ---
 
 # §§ 6061 to 6066. Repealed. Pub. L. 106–402, title IV , § 401(a), Oct. 30, 2000 , 114 Stat. 1737

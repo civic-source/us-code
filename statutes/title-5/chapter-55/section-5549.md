@@ -5,7 +5,7 @@ usc_section: "5549"
 chapter: 55
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 5549"
-generated_at: "2026-03-29T18:23:29.903Z"
+generated_at: "2026-03-29T19:27:05.295Z"
 ---
 
 # § 5549. Effect on other statutes

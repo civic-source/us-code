@@ -5,7 +5,7 @@ usc_section: "430"
 chapter: 9
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 430"
-generated_at: "2026-03-29T18:26:01.167Z"
+generated_at: "2026-03-29T19:30:28.712Z"
 ---
 
 # §§ 427 to 430. Repealed. July 31, 1945, ch. 334 , § 5, 59 Stat. 508

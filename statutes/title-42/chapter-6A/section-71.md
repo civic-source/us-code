@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 71"
-generated_at: "2026-03-29T18:27:02.814Z"
+generated_at: "2026-03-29T19:31:44.443Z"
 ---
 
 # § 300ff–71. Grants for coordinated services and access to research for women, infants, children, and youth

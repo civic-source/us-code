@@ -3,16 +3,15 @@ title: "Section 4401 - Requirement for modular open system approach in major def
 usc_title: 10
 usc_section: "4401"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4401"
-generated_at: "2026-03-29T02:10:45.220Z"
+generated_at: "2026-03-29T18:47:53.524Z"
 ---
 
 # § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
 
 - **(a)** A major defense acquisition program that receives Milestone A or Milestone B approval after January 1, 2019 , shall be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability. Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.
-- **(b)** Not later than one year after the date of the enactment of this subsection, the Secretary of Defense shall make publicly available any standards for implementation of the modular open system approaches for contracts, unless the service acquisition executive with respect to a specific contract submits to the Secretary a request to not disclose such standards and the Secretary approves such request.
-- **(c)** In this chapter:
+- **(b)** In this chapter:
   - **(1)** The term “modular open system approach” means, with respect to a major defense acquisition program, an integrated business and technical strategy that—
     - **(A)** employs a modular design that uses modular system interfaces between major systems, major system components and modular systems;
     - **(B)** is subjected to verification to ensure that relevant modular system interfaces—
@@ -40,4 +39,4 @@ generated_at: "2026-03-29T02:10:45.220Z"
   - **(6)** The term “program capability document” means, with respect to a major defense acquisition program, a document that specifies capability requirements for the program, such as a capability development document or a capability production document.
   - **(7)** The terms “program cost targets” and “fielding target” have the meanings provided in section 4271(a) of this title .
   - **(8)** The term “major defense acquisition program” has the meaning provided in section 4201 of this title .
-  - **(9)** The term “major weapon system” has the meaning provided in section 101(a) of this title .
+  - **(9)** The term “major weapon system” has the meaning provided in section 3455(f) of this title .

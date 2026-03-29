@@ -5,7 +5,7 @@ usc_section: "1331"
 chapter: 36
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1331"
-generated_at: "2026-03-29T18:24:08.448Z"
+generated_at: "2026-03-29T19:27:55.422Z"
 ---
 
 # § 1331. Congressional declaration of policy and purpose

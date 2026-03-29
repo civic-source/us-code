@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 1
 current_through: "PL 114-254"
 classification: "4 U.S.C. § 8"
-generated_at: "2026-03-29T18:23:16.543Z"
+generated_at: "2026-03-29T19:27:00.332Z"
 ---
 
 # § 8. Respect for flag

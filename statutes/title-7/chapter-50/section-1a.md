@@ -5,7 +5,7 @@ usc_section: "1a"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-29T18:23:43.345Z"
+generated_at: "2026-03-29T19:27:31.815Z"
 ---
 
 # § 2009bb–1a. Interstate cooperation for economic opportunity and efficiency

@@ -5,7 +5,7 @@ usc_section: "3293"
 chapter: 213
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3293"
-generated_at: "2026-03-29T18:24:43.869Z"
+generated_at: "2026-03-29T19:28:33.889Z"
 ---
 
 # § 3293. Financial institution offenses

@@ -5,7 +5,7 @@ usc_section: "1110"
 chapter: 11
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 1110"
-generated_at: "2026-03-29T18:26:16.109Z"
+generated_at: "2026-03-29T19:30:59.103Z"
 ---
 
 # § 1110. Daily examination of Congressional Record for immediate ordering of documents for official use; limit; bills and resolutions

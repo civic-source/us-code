@@ -5,7 +5,7 @@ usc_section: "3722"
 chapter: 23
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3722"
-generated_at: "2026-03-29T18:24:16.218Z"
+generated_at: "2026-03-29T19:28:30.782Z"
 ---
 
 # § 3722. Protections against transshipment

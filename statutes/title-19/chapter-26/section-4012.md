@@ -5,7 +5,7 @@ usc_section: "4012"
 chapter: 26
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 4012"
-generated_at: "2026-03-29T18:24:16.227Z"
+generated_at: "2026-03-29T19:28:30.790Z"
 ---
 
 # § 4012. Relationship of the Agreement to United States and State law

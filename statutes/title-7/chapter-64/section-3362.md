@@ -5,7 +5,7 @@ usc_section: "3362"
 chapter: 64
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3362"
-generated_at: "2026-03-29T18:23:43.425Z"
+generated_at: "2026-03-29T19:27:31.890Z"
 ---
 
 # § 3362. Distance education grants for insular areas

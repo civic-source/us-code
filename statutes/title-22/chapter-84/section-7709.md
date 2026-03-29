@@ -5,7 +5,7 @@ usc_section: "7709"
 chapter: 84
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 7709"
-generated_at: "2026-03-29T18:24:54.391Z"
+generated_at: "2026-03-29T19:29:46.965Z"
 ---
 
 # § 7709. Congressional and public notification of Compact

@@ -5,7 +5,7 @@ usc_section: "2518"
 chapter: 148
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2518"
-generated_at: "2026-03-29T18:23:51.969Z"
+generated_at: "2026-03-29T19:27:25.617Z"
 ---
 
 # § 2518. Overseas foreign critical technology monitoring and assessment financial assistance program

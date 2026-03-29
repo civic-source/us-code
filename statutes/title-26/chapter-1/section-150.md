@@ -5,7 +5,7 @@ usc_section: "150"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 150"
-generated_at: "2026-03-29T18:25:53.448Z"
+generated_at: "2026-03-29T19:30:19.721Z"
 ---
 
 # § 150. Definitions and special rules

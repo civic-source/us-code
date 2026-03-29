@@ -5,7 +5,7 @@ usc_section: "1725"
 chapter: 29
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1725"
-generated_at: "2026-03-29T18:25:30.929Z"
+generated_at: "2026-03-29T19:30:05.310Z"
 ---
 
 # § 1725. Assessments

@@ -5,7 +5,7 @@ usc_section: "17901"
 chapter: 179
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 17901"
-generated_at: "2026-03-29T18:26:04.595Z"
+generated_at: "2026-03-29T19:30:36.716Z"
 ---
 
 # § 17901. Definitions

@@ -5,7 +5,7 @@ usc_section: "3222b"
 chapter: 64
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3222b"
-generated_at: "2026-03-29T18:23:43.419Z"
+generated_at: "2026-03-29T19:27:31.885Z"
 ---
 
 # § 3222b. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University

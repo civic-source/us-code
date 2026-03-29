@@ -5,7 +5,7 @@ usc_section: "1363"
 chapter: 37
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1363"
-generated_at: "2026-03-29T18:24:08.451Z"
+generated_at: "2026-03-29T19:27:55.425Z"
 ---
 
 # § 1363. Prohibition against control over educational institutions; functions or responsibilities of other departments not affected

@@ -5,7 +5,7 @@ usc_section: "2952"
 chapter: 29
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 2952"
-generated_at: "2026-03-29T18:23:29.870Z"
+generated_at: "2026-03-29T19:27:05.247Z"
 ---
 
 # § 2952. Time of making annual reports

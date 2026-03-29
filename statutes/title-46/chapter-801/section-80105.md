@@ -5,7 +5,7 @@ usc_section: "80105"
 chapter: 801
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 80105"
-generated_at: "2026-03-29T18:27:18.945Z"
+generated_at: "2026-03-29T19:32:17.396Z"
 ---
 
 # § 80105. Canadian vessels aiding vessels in United States waters

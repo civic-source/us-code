@@ -5,7 +5,7 @@ usc_section: "5724"
 chapter: 57
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 5724"
-generated_at: "2026-03-29T18:26:07.645Z"
+generated_at: "2026-03-29T19:30:40.558Z"
 ---
 
 # § 5724. Provision of credit protection and other services

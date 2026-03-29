@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-29T18:24:08.280Z"
+generated_at: "2026-03-29T19:27:55.256Z"
 ---
 
 # § 78u–5. Application of safe harbor for forward-looking statements

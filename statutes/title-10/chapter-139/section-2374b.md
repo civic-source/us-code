@@ -5,7 +5,7 @@ usc_section: "2374b"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2374b"
-generated_at: "2026-03-29T18:23:51.939Z"
+generated_at: "2026-03-29T19:27:25.599Z"
 ---
 
 # [§ 2374b. Repealed. Pub. L. 112–239, div. A, title X , § 1076(g)(4), Jan. 2, 2013 , 126 Stat. 1955 ]

@@ -5,7 +5,7 @@ usc_section: "3902"
 chapter: 52
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 3902"
-generated_at: "2026-03-29T18:24:41.087Z"
+generated_at: "2026-03-29T19:28:43.132Z"
 ---
 
 # § 3902. Definitions

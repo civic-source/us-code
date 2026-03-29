@@ -5,7 +5,7 @@ usc_section: "6317"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 6317"
-generated_at: "2026-03-29T18:24:41.116Z"
+generated_at: "2026-03-29T19:28:43.169Z"
 ---
 
 # §§ 6316, 6317. Repealed. Pub. L. 114–95, title I , § 1000(1), Dec. 10, 2015 , 129 Stat. 1814

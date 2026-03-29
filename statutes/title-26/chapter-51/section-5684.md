@@ -5,7 +5,7 @@ usc_section: "5684"
 chapter: 51
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5684"
-generated_at: "2026-03-29T18:25:53.874Z"
+generated_at: "2026-03-29T19:30:20.135Z"
 ---
 
 # § 5684. Penalties relating to the payment and collection of liquor taxes

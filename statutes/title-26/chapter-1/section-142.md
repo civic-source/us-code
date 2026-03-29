@@ -5,7 +5,7 @@ usc_section: "142"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-29T18:25:53.436Z"
+generated_at: "2026-03-29T19:30:19.707Z"
 ---
 
 # § 142. Exempt facility bond

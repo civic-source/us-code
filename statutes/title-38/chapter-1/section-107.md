@@ -5,7 +5,7 @@ usc_section: "107"
 chapter: 1
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 107"
-generated_at: "2026-03-29T18:26:07.537Z"
+generated_at: "2026-03-29T19:30:40.453Z"
 ---
 
 # § 107. Certain service deemed not to be active service

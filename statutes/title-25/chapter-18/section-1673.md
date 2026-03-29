@@ -5,7 +5,7 @@ usc_section: "1673"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1673"
-generated_at: "2026-03-29T18:25:23.746Z"
+generated_at: "2026-03-29T19:29:34.805Z"
 ---
 
 # § 1673. Repealed. Pub. L. 102–573, title IX , § 901(4), Oct. 29, 1992 , 106 Stat. 4591

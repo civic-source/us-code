@@ -5,7 +5,7 @@ usc_section: "5042"
 chapter: 66
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5042"
-generated_at: "2026-03-29T18:27:03.603Z"
+generated_at: "2026-03-29T19:31:45.184Z"
 ---
 
 # §§ 5041, 5042. Repealed. Pub. L. 103–82, title II , § 203(b), Sept. 21, 1993 , 107 Stat. 892

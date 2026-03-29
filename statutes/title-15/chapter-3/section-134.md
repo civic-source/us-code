@@ -5,7 +5,7 @@ usc_section: "134"
 chapter: 3
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 134"
-generated_at: "2026-03-29T18:24:08.320Z"
+generated_at: "2026-03-29T19:27:55.293Z"
 ---
 
 # §§ 81 to 134. Repealed. July 5, 1946, ch. 540 , § 46(a), 60 Stat. 444

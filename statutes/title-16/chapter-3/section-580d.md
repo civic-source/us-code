@@ -5,7 +5,7 @@ usc_section: "580d"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 580d"
-generated_at: "2026-03-29T18:24:22.662Z"
+generated_at: "2026-03-29T19:29:27.305Z"
 ---
 
 # § 580d. Use of Forest Service structures or improvements and land by public and private agencies, etc.; terms

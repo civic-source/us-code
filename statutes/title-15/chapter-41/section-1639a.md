@@ -5,7 +5,7 @@ usc_section: "1639a"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1639a"
-generated_at: "2026-03-29T18:24:08.469Z"
+generated_at: "2026-03-29T19:27:55.442Z"
 ---
 
 # § 1639a. Duty of servicers of residential mortgages

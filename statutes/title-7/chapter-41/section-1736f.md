@@ -5,7 +5,7 @@ usc_section: "1736f"
 chapter: 41
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1736f"
-generated_at: "2026-03-29T18:23:43.305Z"
+generated_at: "2026-03-29T19:27:31.776Z"
 ---
 
 # § 1736f. Authorization of appropriations

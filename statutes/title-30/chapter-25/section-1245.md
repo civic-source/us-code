@@ -3,9 +3,9 @@ title: "Section 1245 - Abandoned hardrock mine reclamation"
 usc_title: 30
 usc_section: "1245"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "30 U.S.C. § 1245"
-generated_at: "2026-03-29T02:14:11.248Z"
+generated_at: "2026-03-29T18:45:04.901Z"
 ---
 
 # § 1245. Abandoned hardrock mine reclamation

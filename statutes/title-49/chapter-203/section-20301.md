@@ -5,7 +5,7 @@ usc_section: "20301"
 chapter: 203
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 20301"
-generated_at: "2026-03-29T18:27:16.511Z"
+generated_at: "2026-03-29T19:32:28.796Z"
 ---
 
 # § 20301. Definition and nonapplication

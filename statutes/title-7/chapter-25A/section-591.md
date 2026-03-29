@@ -5,7 +5,7 @@ usc_section: "591"
 chapter: 25
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 591"
-generated_at: "2026-03-29T18:23:43.212Z"
+generated_at: "2026-03-29T19:27:31.690Z"
 ---
 
 # § 591. Standards of export; establishment; shipping without certificate forbidden; hearings

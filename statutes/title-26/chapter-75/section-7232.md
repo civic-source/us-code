@@ -5,7 +5,7 @@ usc_section: "7232"
 chapter: 75
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7232"
-generated_at: "2026-03-29T18:25:53.961Z"
+generated_at: "2026-03-29T19:30:20.240Z"
 ---
 
 # § 7232. Failure to register or reregister under section 4101, false representations of registration status, etc.

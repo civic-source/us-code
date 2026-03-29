@@ -5,7 +5,7 @@ usc_section: "1876"
 chapter: 24
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1876"
-generated_at: "2026-03-29T18:24:54.164Z"
+generated_at: "2026-03-29T19:29:46.717Z"
 ---
 
 # §§ 1870 to 1876. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), (4), Sept. 4, 1961 , 75 Stat. 460

@@ -5,7 +5,7 @@ usc_section: "6052"
 chapter: 61
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6052"
-generated_at: "2026-03-29T18:25:53.896Z"
+generated_at: "2026-03-29T19:30:20.161Z"
 ---
 
 # § 6052. Returns regarding payment of wages in the form of group-term life insurance

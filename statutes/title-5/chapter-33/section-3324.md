@@ -5,7 +5,7 @@ usc_section: "3324"
 chapter: 33
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 3324"
-generated_at: "2026-03-29T18:23:29.875Z"
+generated_at: "2026-03-29T19:27:05.253Z"
 ---
 
 # § 3324. Appointments to positions classified above GS–15

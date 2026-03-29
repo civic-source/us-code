@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 1
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 14"
-generated_at: "2026-03-29T18:25:30.839Z"
+generated_at: "2026-03-29T19:30:05.212Z"
 ---
 
 # § 14. Acquisition of land; cooperation with other agencies

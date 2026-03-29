@@ -5,7 +5,7 @@ usc_section: "8128"
 chapter: 81
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 8128"
-generated_at: "2026-03-29T18:26:07.682Z"
+generated_at: "2026-03-29T19:30:40.592Z"
 ---
 
 # § 8128. Small business concerns owned and controlled by veterans: contracting priority

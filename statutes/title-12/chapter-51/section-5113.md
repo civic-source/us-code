@@ -5,7 +5,7 @@ usc_section: "5113"
 chapter: 51
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5113"
-generated_at: "2026-03-29T18:24:03.063Z"
+generated_at: "2026-03-29T19:28:17.845Z"
 ---
 
 # § 5113. Enforcement by the Bureau

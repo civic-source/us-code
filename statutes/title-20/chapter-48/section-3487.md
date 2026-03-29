@@ -5,7 +5,7 @@ usc_section: "3487"
 chapter: 48
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 3487"
-generated_at: "2026-03-29T18:24:41.084Z"
+generated_at: "2026-03-29T19:28:43.129Z"
 ---
 
 # § 3487. Repealed. Pub. L. 103–382, title II , § 271(a)(1), Oct. 20, 1994 , 108 Stat. 3929

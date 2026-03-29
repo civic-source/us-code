@@ -5,7 +5,7 @@ usc_section: "972"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 972"
-generated_at: "2026-03-29T18:25:53.699Z"
+generated_at: "2026-03-29T19:30:19.954Z"
 ---
 
 # [§ 972. Repealed. Pub. L. 94–455, title XIX , § 1901(a)(120), Oct. 4, 1976 , 90 Stat. 1784 ]

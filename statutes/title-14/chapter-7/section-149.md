@@ -5,7 +5,7 @@ usc_section: "149"
 chapter: 7
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 149"
-generated_at: "2026-03-29T18:23:55.768Z"
+generated_at: "2026-03-29T19:27:45.904Z"
 ---
 
 # § 149. Assistance to foreign governments and maritime authorities

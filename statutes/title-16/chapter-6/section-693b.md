@@ -5,7 +5,7 @@ usc_section: "693b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 693b"
-generated_at: "2026-03-29T18:24:22.687Z"
+generated_at: "2026-03-29T19:29:27.333Z"
 ---
 
 # § 693b. Robert S. Kerr Memorial Arboretum and Nature Center in Ouachita National Forest; authority to establish

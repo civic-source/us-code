@@ -5,7 +5,7 @@ usc_section: "1611"
 chapter: 14
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1611"
-generated_at: "2026-03-29T18:23:33.990Z"
+generated_at: "2026-03-29T19:27:14.521Z"
 ---
 
 # § 1611. Aliens who are not qualified aliens ineligible for Federal public benefits

@@ -5,7 +5,7 @@ usc_section: "12117"
 chapter: 126
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12117"
-generated_at: "2026-03-29T18:27:04.041Z"
+generated_at: "2026-03-29T19:31:45.634Z"
 ---
 
 # § 12117. Enforcement

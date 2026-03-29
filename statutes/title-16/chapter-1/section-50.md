@@ -5,7 +5,7 @@ usc_section: "50"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 50"
-generated_at: "2026-03-29T18:24:22.583Z"
+generated_at: "2026-03-29T19:29:27.220Z"
 ---
 
 # § 460uu–50. Authorization of appropriations

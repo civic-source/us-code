@@ -5,7 +5,7 @@ usc_section: "744"
 chapter: 2
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 744"
-generated_at: "2026-03-29T18:23:35.773Z"
+generated_at: "2026-03-29T19:27:39.871Z"
 ---
 
 # § 744. Establishment of national preparedness system

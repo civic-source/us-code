@@ -5,7 +5,7 @@ usc_section: "2379"
 chapter: 140
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2379"
-generated_at: "2026-03-29T18:23:51.940Z"
+generated_at: "2026-03-29T19:27:25.599Z"
 ---
 
 # § 2379. Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items

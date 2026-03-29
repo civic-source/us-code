@@ -5,7 +5,7 @@ usc_section: "3001"
 chapter: 31
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3001"
-generated_at: "2026-03-29T18:24:02.992Z"
+generated_at: "2026-03-29T19:28:17.764Z"
 ---
 
 # § 3001. Congressional statement of findings and purpose

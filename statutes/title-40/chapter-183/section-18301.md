@@ -5,7 +5,7 @@ usc_section: "18301"
 chapter: 183
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 18301"
-generated_at: "2026-03-29T18:26:04.595Z"
+generated_at: "2026-03-29T19:30:36.716Z"
 ---
 
 # § 18301. Findings and purposes

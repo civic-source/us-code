@@ -5,7 +5,7 @@ usc_section: "2062"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2062"
-generated_at: "2026-03-29T18:26:07.583Z"
+generated_at: "2026-03-29T19:30:40.499Z"
 ---
 
 # § 2062. Dental care

@@ -5,7 +5,7 @@ usc_section: "728"
 chapter: 17
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 728"
-generated_at: "2026-03-29T18:26:14.829Z"
+generated_at: "2026-03-29T19:31:49.074Z"
 ---
 
 # §§ 717 to 728. Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789

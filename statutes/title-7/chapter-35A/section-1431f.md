@@ -5,7 +5,7 @@ usc_section: "1431f"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1431f"
-generated_at: "2026-03-29T18:23:43.259Z"
+generated_at: "2026-03-29T19:27:31.733Z"
 ---
 
 # § 1431f. Assistance to foreign countries to mitigate effects of HIV and AIDS

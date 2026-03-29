@@ -5,7 +5,7 @@ usc_section: "9308"
 chapter: 93
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 9308"
-generated_at: "2026-03-29T18:27:18.882Z"
+generated_at: "2026-03-29T19:32:17.335Z"
 ---
 
 # § 9308. Penalties

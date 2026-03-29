@@ -5,7 +5,7 @@ usc_section: "18c"
 chapter: 2
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 18c"
-generated_at: "2026-03-29T18:25:43.000Z"
+generated_at: "2026-03-29T19:30:07.497Z"
 ---
 
 # §§ 18 to 18c. Transferred

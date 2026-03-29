@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 13"
-generated_at: "2026-03-29T18:26:14.792Z"
+generated_at: "2026-03-29T19:31:49.040Z"
 ---
 
 # § 390h–13. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "1103"
 chapter: 11
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 1103"
-generated_at: "2026-03-29T18:26:04.560Z"
+generated_at: "2026-03-29T19:30:36.684Z"
 ---
 
 # § 1103. Selection procedure

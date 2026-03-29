@@ -5,7 +5,7 @@ usc_section: "31"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 31"
-generated_at: "2026-03-29T18:24:54.111Z"
+generated_at: "2026-03-29T19:29:46.660Z"
 ---
 
 # § 277d–31. Authorization of appropriations

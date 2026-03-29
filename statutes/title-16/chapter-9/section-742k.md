@@ -5,7 +5,7 @@ usc_section: "742k"
 chapter: 9
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 742k"
-generated_at: "2026-03-29T18:24:22.701Z"
+generated_at: "2026-03-29T19:29:27.351Z"
 ---
 
 # § 742k. Management and disposition of vessels and other property acquired and arising out of fishery loans or related type of activities

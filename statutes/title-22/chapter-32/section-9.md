@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-03-29T18:24:54.208Z"
+generated_at: "2026-03-29T19:29:46.766Z"
 ---
 
 # § 2349aa–9. Ban on importing goods and services from countries supporting terrorism

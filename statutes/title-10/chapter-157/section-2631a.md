@@ -5,7 +5,7 @@ usc_section: "2631a"
 chapter: 157
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2631a"
-generated_at: "2026-03-29T18:23:51.983Z"
+generated_at: "2026-03-29T19:27:25.626Z"
 ---
 
 # § 2631a. Contingency planning: sealift and related intermodal transportation requirements

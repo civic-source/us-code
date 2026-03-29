@@ -5,7 +5,7 @@ usc_section: "1455"
 chapter: 33
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1455"
-generated_at: "2026-03-29T18:24:41.060Z"
+generated_at: "2026-03-29T19:28:43.101Z"
 ---
 
 # § 1455. Authorization of appropriations

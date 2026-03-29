@@ -5,7 +5,7 @@ usc_section: "1708"
 chapter: 22
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1708"
-generated_at: "2026-03-29T18:25:04.245Z"
+generated_at: "2026-03-29T19:29:50.506Z"
 ---
 
 # § 1708. National youth anti-drug media campaign

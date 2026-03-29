@@ -5,7 +5,7 @@ usc_section: "2271"
 chapter: 111
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2271"
-generated_at: "2026-03-29T18:24:43.841Z"
+generated_at: "2026-03-29T19:28:33.860Z"
 ---
 
 # § 2271. Conspiracy to destroy vessels

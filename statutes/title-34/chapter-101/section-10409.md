@@ -3,9 +3,9 @@ title: "Section 10409 - Assessment reports"
 usc_title: 34
 usc_section: "10409"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10409"
-generated_at: "2026-03-29T02:14:25.270Z"
+generated_at: "2026-03-29T18:45:50.305Z"
 ---
 
 # § 10409. Assessment reports

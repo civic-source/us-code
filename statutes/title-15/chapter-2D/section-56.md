@@ -5,7 +5,7 @@ usc_section: "56"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 56"
-generated_at: "2026-03-29T18:24:08.310Z"
+generated_at: "2026-03-29T19:27:55.286Z"
 ---
 
 # § 80a–56. Transactions with certain affiliates

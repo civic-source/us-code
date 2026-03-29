@@ -5,7 +5,7 @@ usc_section: "404a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 404a"
-generated_at: "2026-03-29T18:24:22.459Z"
+generated_at: "2026-03-29T19:29:27.083Z"
 ---
 
 # § 404a. Acceptance of title to lands

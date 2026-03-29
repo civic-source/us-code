@@ -5,7 +5,7 @@ usc_section: "2753"
 chapter: 42
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2753"
-generated_at: "2026-03-29T18:27:35.658Z"
+generated_at: "2026-03-29T19:32:24.210Z"
 ---
 
 # § 2753. Notification of cost overruns for certain Department of Energy projects

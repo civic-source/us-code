@@ -5,7 +5,7 @@ usc_section: "1241"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1241"
-generated_at: "2026-03-29T18:26:14.849Z"
+generated_at: "2026-03-29T19:31:49.095Z"
 ---
 
 # § 1241. Control of noxious plants on Government lands; State programs; terms of entry

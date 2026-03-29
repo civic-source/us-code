@@ -5,7 +5,7 @@ usc_section: "1881c"
 chapter: 36
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1881c"
-generated_at: "2026-03-29T18:27:35.618Z"
+generated_at: "2026-03-29T19:32:24.120Z"
 ---
 
 # § 1881c. Other acquisitions targeting United States persons outside the United States

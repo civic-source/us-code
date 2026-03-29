@@ -5,7 +5,7 @@ usc_section: "2924"
 chapter: 173
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2924"
-generated_at: "2026-03-29T18:23:52.014Z"
+generated_at: "2026-03-29T19:27:25.653Z"
 ---
 
 # § 2924. Definitions

@@ -5,7 +5,7 @@ usc_section: "5303"
 chapter: 62
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 5303"
-generated_at: "2026-03-29T18:24:54.328Z"
+generated_at: "2026-03-29T19:29:46.885Z"
 ---
 
 # § 5303. Statement of policy

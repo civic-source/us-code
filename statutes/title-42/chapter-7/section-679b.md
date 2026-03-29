@@ -5,7 +5,7 @@ usc_section: "679b"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 679b"
-generated_at: "2026-03-29T18:27:02.939Z"
+generated_at: "2026-03-29T19:31:44.551Z"
 ---
 
 # § 679b. Annual report

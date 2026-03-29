@@ -5,7 +5,7 @@ usc_section: "644"
 chapter: 36
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 644"
-generated_at: "2026-03-29T18:23:51.754Z"
+generated_at: "2026-03-29T19:27:25.457Z"
 ---
 
 # [§ 644. Repealed. Pub. L. 103–337, div. A, title XVI , § 1622(b), Oct. 5, 1994 , 108 Stat. 2961 ]

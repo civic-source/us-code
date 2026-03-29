@@ -5,7 +5,7 @@ usc_section: "4304"
 chapter: 53
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 4304"
-generated_at: "2026-03-29T18:27:35.731Z"
+generated_at: "2026-03-29T19:32:24.283Z"
 ---
 
 # § 4304. Licenses to enemy or ally of enemy insurance or reinsurance companies; change of name; doing business in United States

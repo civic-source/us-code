@@ -5,7 +5,7 @@ usc_section: "6703"
 chapter: 67
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 6703"
-generated_at: "2026-03-29T18:25:59.209Z"
+generated_at: "2026-03-29T19:30:24.804Z"
 ---
 
 # § 6703. Qualification for payment

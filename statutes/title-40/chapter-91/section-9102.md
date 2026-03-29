@@ -5,7 +5,7 @@ usc_section: "9102"
 chapter: 91
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 9102"
-generated_at: "2026-03-29T18:26:04.581Z"
+generated_at: "2026-03-29T19:30:36.702Z"
 ---
 
 # § 9102. Duties

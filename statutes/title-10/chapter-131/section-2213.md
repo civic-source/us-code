@@ -5,7 +5,7 @@ usc_section: "2213"
 chapter: 131
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2213"
-generated_at: "2026-03-29T18:23:51.889Z"
+generated_at: "2026-03-29T19:27:25.570Z"
 ---
 
 # § 2213. Limitation on acquisition of excess supplies

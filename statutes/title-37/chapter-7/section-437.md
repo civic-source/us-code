@@ -5,7 +5,7 @@ usc_section: "437"
 chapter: 7
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 437"
-generated_at: "2026-03-29T18:26:10.145Z"
+generated_at: "2026-03-29T19:30:34.108Z"
 ---
 
 # § 437. Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom

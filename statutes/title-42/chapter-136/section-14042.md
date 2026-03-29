@@ -5,7 +5,7 @@ usc_section: "14042"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14042"
-generated_at: "2026-03-29T18:27:04.144Z"
+generated_at: "2026-03-29T19:31:45.750Z"
 ---
 
 # § 14042. Task force

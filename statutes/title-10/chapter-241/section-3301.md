@@ -3,9 +3,9 @@ title: "Section 3301 - Basis of award and rejection"
 usc_title: 10
 usc_section: "3301"
 chapter: 241
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 3301"
-generated_at: "2026-03-29T02:10:45.183Z"
+generated_at: "2026-03-29T18:47:53.495Z"
 ---
 
 # § 3301. Basis of award and rejection

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 1
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1"
-generated_at: "2026-03-29T18:26:01.157Z"
+generated_at: "2026-03-29T19:30:28.700Z"
 ---
 
 # § 59ee–1. Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel

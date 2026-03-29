@@ -5,7 +5,7 @@ usc_section: "25"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 25"
-generated_at: "2026-03-29T18:27:03.105Z"
+generated_at: "2026-03-29T19:31:44.695Z"
 ---
 
 # § 1395w–25. Organizational and financial requirements for Medicare+Choice organizations; provider-sponsored organizations

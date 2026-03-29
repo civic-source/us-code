@@ -5,7 +5,7 @@ usc_section: "8814"
 chapter: 861
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8814"
-generated_at: "2026-03-29T18:23:52.088Z"
+generated_at: "2026-03-29T19:27:25.708Z"
 ---
 
 # [§ 8814. Repealed. Pub. L. 96–513, title II , § 214, Dec. 12, 1980 , 94 Stat. 2885 ]

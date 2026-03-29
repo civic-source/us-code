@@ -5,7 +5,7 @@ usc_section: "2236"
 chapter: 36
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2236"
-generated_at: "2026-03-29T18:26:01.284Z"
+generated_at: "2026-03-29T19:30:28.830Z"
 ---
 
 # § 2236. Port or harbor dues

@@ -5,7 +5,7 @@ usc_section: "3306"
 chapter: 35
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 3306"
-generated_at: "2026-03-29T18:25:23.804Z"
+generated_at: "2026-03-29T19:29:34.861Z"
 ---
 
 # § 3306. Limitations on use of funds

@@ -5,7 +5,7 @@ usc_section: "112d"
 chapter: 4
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 112d"
-generated_at: "2026-03-29T18:23:14.040Z"
+generated_at: "2026-03-29T19:27:07.495Z"
 ---
 
 # §§ 112a to 112d. Repealed. Pub. L. 91–139 , § 2(a), Dec. 5, 1969 , 83 Stat. 291

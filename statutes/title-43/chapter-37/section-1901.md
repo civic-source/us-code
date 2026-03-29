@@ -5,7 +5,7 @@ usc_section: "1901"
 chapter: 37
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1901"
-generated_at: "2026-03-29T18:26:14.905Z"
+generated_at: "2026-03-29T19:31:49.157Z"
 ---
 
 # § 1901. Congressional findings and declaration of policy

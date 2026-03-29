@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 907
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:52.095Z"
+generated_at: "2026-03-29T19:27:25.714Z"
 ---
 
 # § 9417. 1 1 So in original. No section 9416 has been enacted. Air War College: acceptance of grants for faculty research for scientific, literary, and educational purposes

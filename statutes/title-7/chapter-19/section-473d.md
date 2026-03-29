@@ -5,7 +5,7 @@ usc_section: "473d"
 chapter: 19
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 473d"
-generated_at: "2026-03-29T18:23:43.202Z"
+generated_at: "2026-03-29T19:27:31.682Z"
 ---
 
 # § 473d. Quality tests and analyses by Secretary for breeders and others; fees

@@ -5,7 +5,7 @@ usc_section: "742"
 chapter: 7
 current_through: "PL 114-254"
 classification: "11 U.S.C. § 742"
-generated_at: "2026-03-29T18:23:58.114Z"
+generated_at: "2026-03-29T19:28:02.019Z"
 ---
 
 # § 742. Effect of section 362 of this title in this subchapter

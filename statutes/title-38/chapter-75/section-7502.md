@@ -5,7 +5,7 @@ usc_section: "7502"
 chapter: 75
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7502"
-generated_at: "2026-03-29T18:26:07.670Z"
+generated_at: "2026-03-29T19:30:40.581Z"
 ---
 
 # § 7502. Application and acceptance

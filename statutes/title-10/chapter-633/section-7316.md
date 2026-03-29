@@ -5,7 +5,7 @@ usc_section: "7316"
 chapter: 633
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7316"
-generated_at: "2026-03-29T18:23:52.067Z"
+generated_at: "2026-03-29T19:27:25.694Z"
 ---
 
 # § 7316. Support for transfers of decommissioned vessels and shipboard equipment

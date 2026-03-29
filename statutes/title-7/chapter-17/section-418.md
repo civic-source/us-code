@@ -5,7 +5,7 @@ usc_section: "418"
 chapter: 17
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 418"
-generated_at: "2026-03-29T18:23:43.196Z"
+generated_at: "2026-03-29T19:27:31.677Z"
 ---
 
 # § 418. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution

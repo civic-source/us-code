@@ -5,7 +5,7 @@ usc_section: "3205"
 chapter: 45
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 3205"
-generated_at: "2026-03-29T18:26:01.324Z"
+generated_at: "2026-03-29T19:30:28.882Z"
 ---
 
 # § 3205. Tsunami research program

@@ -5,7 +5,7 @@ usc_section: "901a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 901a"
-generated_at: "2026-03-29T18:27:02.946Z"
+generated_at: "2026-03-29T19:31:44.559Z"
 ---
 
 # § 901a. Repealed. Aug. 28, 1950, ch. 809 , title IV, § 401(b), 64 Stat. 558

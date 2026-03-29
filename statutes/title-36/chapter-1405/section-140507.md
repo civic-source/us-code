@@ -5,7 +5,7 @@ usc_section: "140507"
 chapter: 1405
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 140507"
-generated_at: "2026-03-29T18:26:09.290Z"
+generated_at: "2026-03-29T19:30:42.078Z"
 ---
 
 # § 140507. Principal office

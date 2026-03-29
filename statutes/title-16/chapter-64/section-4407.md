@@ -5,7 +5,7 @@ usc_section: "4407"
 chapter: 64
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 4407"
-generated_at: "2026-03-29T18:24:22.909Z"
+generated_at: "2026-03-29T19:29:27.591Z"
 ---
 
 # § 4407. Allocation of amounts available to carry out this chapter

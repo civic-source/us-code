@@ -5,7 +5,7 @@ usc_section: "47533"
 chapter: 475
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 47533"
-generated_at: "2026-03-29T18:27:16.637Z"
+generated_at: "2026-03-29T19:32:28.910Z"
 ---
 
 # § 47533. Relationship to other laws

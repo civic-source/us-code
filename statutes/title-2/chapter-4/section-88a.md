@@ -5,7 +5,7 @@ usc_section: "88a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 88a"
-generated_at: "2026-03-29T18:23:14.036Z"
+generated_at: "2026-03-29T19:27:07.494Z"
 ---
 
 # §§ 85 to 88a. Repealed. Pub. L. 104–186, title II , § 204(33), (34)(A), Aug. 20, 1996 , 110 Stat. 1734

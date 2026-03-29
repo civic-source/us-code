@@ -5,7 +5,7 @@ usc_section: "8303"
 chapter: 83
 current_through: "PL 114-254"
 classification: "41 U.S.C. § 8303"
-generated_at: "2026-03-29T18:26:25.291Z"
+generated_at: "2026-03-29T19:31:15.766Z"
 ---
 
 # § 8303. Contracts for public works

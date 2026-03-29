@@ -5,7 +5,7 @@ usc_section: "284g"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 284g"
-generated_at: "2026-03-29T18:27:02.632Z"
+generated_at: "2026-03-29T19:31:44.271Z"
 ---
 
 # § 284g. Expansion, intensification, and coordination of activities of National Institutes of Health with respect to research on autism spectrum disorder

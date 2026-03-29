@@ -5,7 +5,7 @@ usc_section: "7138"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7138"
-generated_at: "2026-03-29T18:27:03.759Z"
+generated_at: "2026-03-29T19:31:45.345Z"
 ---
 
 # § 7138. Repealed. Pub. L. 100–504, title I , § 102(e)(1)(A), Oct. 18, 1988 , 102 Stat. 2517

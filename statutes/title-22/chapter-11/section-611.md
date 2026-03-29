@@ -5,7 +5,7 @@ usc_section: "611"
 chapter: 11
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 611"
-generated_at: "2026-03-29T18:24:54.141Z"
+generated_at: "2026-03-29T19:29:46.692Z"
 ---
 
 # § 611. Definitions

@@ -5,7 +5,7 @@ usc_section: "1433"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1433"
-generated_at: "2026-03-29T18:24:54.147Z"
+generated_at: "2026-03-29T19:29:46.699Z"
 ---
 
 # § 1433. Definitions

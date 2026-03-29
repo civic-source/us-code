@@ -5,7 +5,7 @@ usc_section: "7516"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 7516"
-generated_at: "2026-03-29T18:24:41.156Z"
+generated_at: "2026-03-29T19:28:43.215Z"
 ---
 
 # § 7516. Administrative provisions

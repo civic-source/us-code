@@ -5,7 +5,7 @@ usc_section: "1593d"
 chapter: 9
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1593d"
-generated_at: "2026-03-29T18:27:03.340Z"
+generated_at: "2026-03-29T19:31:44.934Z"
 ---
 
 # §§ 1593 to 1593d. Repealed. June 30, 1953, ch. 170 , § 19, 67 Stat. 126

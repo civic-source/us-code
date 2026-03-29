@@ -5,7 +5,7 @@ usc_section: "308c"
 chapter: 5
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 308c"
-generated_at: "2026-03-29T18:26:10.131Z"
+generated_at: "2026-03-29T19:30:34.096Z"
 ---
 
 # § 308c. Special pay: bonus for affiliation or enlistment in the Selected Reserve

@@ -5,7 +5,7 @@ usc_section: "4301"
 chapter: 43
 current_through: "PL 114-254"
 classification: "41 U.S.C. § 4301"
-generated_at: "2026-03-29T18:26:25.283Z"
+generated_at: "2026-03-29T19:31:15.757Z"
 ---
 
 # § 4301. Definitions

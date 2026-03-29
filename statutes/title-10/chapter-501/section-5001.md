@@ -5,7 +5,7 @@ usc_section: "5001"
 chapter: 501
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5001"
-generated_at: "2026-03-29T18:23:52.039Z"
+generated_at: "2026-03-29T19:27:25.672Z"
 ---
 
 # § 5001. Definitions

@@ -5,7 +5,7 @@ usc_section: "323"
 chapter: 3
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 323"
-generated_at: "2026-03-29T18:26:04.551Z"
+generated_at: "2026-03-29T19:30:36.675Z"
 ---
 
 # § 323. Consumer Information Center Fund 1 1 So in original. Probably should be “Federal Citizen Services Fund”.

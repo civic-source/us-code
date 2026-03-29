@@ -5,7 +5,7 @@ usc_section: "3102"
 chapter: 32
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 3102"
-generated_at: "2026-03-29T18:25:43.138Z"
+generated_at: "2026-03-29T19:30:07.640Z"
 ---
 
 # § 3102. Definitions

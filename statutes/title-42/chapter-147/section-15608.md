@@ -5,7 +5,7 @@ usc_section: "15608"
 chapter: 147
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15608"
-generated_at: "2026-03-29T18:27:04.193Z"
+generated_at: "2026-03-29T19:31:45.805Z"
 ---
 
 # § 15608. Requirement that accreditation organizations adopt accreditation standards

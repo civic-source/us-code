@@ -5,7 +5,7 @@ usc_section: "838g"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 838g"
-generated_at: "2026-03-29T18:24:22.738Z"
+generated_at: "2026-03-29T19:29:27.397Z"
 ---
 
 # § 838g. Schedules of rates and charges for sale of Federal power and transmission of non-Federal power; confirmation and approval; criteria for modification and establishment

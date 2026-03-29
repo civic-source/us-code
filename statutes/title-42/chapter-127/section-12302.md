@@ -5,7 +5,7 @@ usc_section: "12302"
 chapter: 127
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12302"
-generated_at: "2026-03-29T18:27:04.049Z"
+generated_at: "2026-03-29T19:31:45.642Z"
 ---
 
 # § 12302. Definitions

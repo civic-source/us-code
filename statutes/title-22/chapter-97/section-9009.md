@@ -5,7 +5,7 @@ usc_section: "9009"
 chapter: 97
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 9009"
-generated_at: "2026-03-29T18:24:54.422Z"
+generated_at: "2026-03-29T19:29:47.001Z"
 ---
 
 # § 9009. Office of Children’s Issues

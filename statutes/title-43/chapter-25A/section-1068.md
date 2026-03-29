@@ -5,7 +5,7 @@ usc_section: "1068"
 chapter: 25
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1068"
-generated_at: "2026-03-29T18:26:14.845Z"
+generated_at: "2026-03-29T19:31:49.091Z"
 ---
 
 # § 1068. Lands held in adverse possession; issuance of patent; reservation of minerals; conflicting claims

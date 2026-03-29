@@ -5,7 +5,7 @@ usc_section: "6574"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 6574"
-generated_at: "2026-03-29T18:24:41.127Z"
+generated_at: "2026-03-29T19:28:43.183Z"
 ---
 
 # § 6574. Repealed. Pub. L. 113–188, title IX , § 901(a), Nov. 26, 2014 , 128 Stat. 2020

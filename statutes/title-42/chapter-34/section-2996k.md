@@ -5,7 +5,7 @@ usc_section: "2996k"
 chapter: 34
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2996k"
-generated_at: "2026-03-29T18:27:03.476Z"
+generated_at: "2026-03-29T19:31:45.056Z"
 ---
 
 # § 2996k. Coordination

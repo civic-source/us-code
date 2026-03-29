@@ -5,7 +5,7 @@ usc_section: "25a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 25a"
-generated_at: "2026-03-29T18:27:02.666Z"
+generated_at: "2026-03-29T19:31:44.306Z"
 ---
 
 # § 290bb–25a. Grants for strengthening families

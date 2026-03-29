@@ -5,7 +5,7 @@ usc_section: "200102"
 chapter: 2001
 current_through: "PL 114-254"
 classification: "54 U.S.C. § 200102"
-generated_at: "2026-03-29T18:27:38.920Z"
+generated_at: "2026-03-29T19:32:31.887Z"
 ---
 
 # § 200102. Definitions

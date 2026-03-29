@@ -5,7 +5,7 @@ usc_section: "501"
 chapter: 2
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 501"
-generated_at: "2026-03-29T18:24:22.629Z"
+generated_at: "2026-03-29T19:29:27.270Z"
 ---
 
 # § 501. Expenditures from receipts for roads and trails; cooperation with State authorities; evaluation of receipts

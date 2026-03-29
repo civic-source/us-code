@@ -5,7 +5,7 @@ usc_section: "758"
 chapter: 21
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 758"
-generated_at: "2026-03-29T18:24:40.881Z"
+generated_at: "2026-03-29T19:28:42.935Z"
 ---
 
 # § 758. Omitted

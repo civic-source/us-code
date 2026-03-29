@@ -5,7 +5,7 @@ usc_section: "13102"
 chapter: 131
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 13102"
-generated_at: "2026-03-29T18:27:16.486Z"
+generated_at: "2026-03-29T19:32:28.771Z"
 ---
 
 # § 13102. Definitions

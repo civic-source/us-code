@@ -5,7 +5,7 @@ usc_section: "7050"
 chapter: 605
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7050"
-generated_at: "2026-03-29T18:23:52.062Z"
+generated_at: "2026-03-29T19:27:25.690Z"
 ---
 
 # § 7050. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

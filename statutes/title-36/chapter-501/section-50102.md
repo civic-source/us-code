@@ -5,7 +5,7 @@ usc_section: "50102"
 chapter: 501
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 50102"
-generated_at: "2026-03-29T18:26:09.279Z"
+generated_at: "2026-03-29T19:30:42.068Z"
 ---
 
 # § 50102. Organization

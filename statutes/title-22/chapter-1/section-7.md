@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 1
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-03-29T18:24:54.092Z"
+generated_at: "2026-03-29T19:29:46.639Z"
 ---
 
 # §§ 1 to 7. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(32)–(37), (49), (66), 60 Stat. 1037

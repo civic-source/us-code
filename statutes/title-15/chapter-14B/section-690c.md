@@ -5,7 +5,7 @@ usc_section: "690c"
 chapter: 14
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 690c"
-generated_at: "2026-03-29T18:24:08.395Z"
+generated_at: "2026-03-29T19:27:55.371Z"
 ---
 
 # § 690c. Selection of Renewable Fuel Capital Investment companies

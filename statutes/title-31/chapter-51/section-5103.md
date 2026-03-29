@@ -5,7 +5,7 @@ usc_section: "5103"
 chapter: 51
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 5103"
-generated_at: "2026-03-29T18:25:59.190Z"
+generated_at: "2026-03-29T19:30:24.786Z"
 ---
 
 # § 5103. Legal tender

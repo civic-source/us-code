@@ -5,7 +5,7 @@ usc_section: "568"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 568"
-generated_at: "2026-03-29T18:26:14.814Z"
+generated_at: "2026-03-29T19:31:49.060Z"
 ---
 
 # § 568. Use of reclamation fund for expenses of and disposal of proceeds of sale of town sites

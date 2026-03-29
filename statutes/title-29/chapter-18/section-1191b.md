@@ -5,7 +5,7 @@ usc_section: "1191b"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1191b"
-generated_at: "2026-03-29T18:25:43.101Z"
+generated_at: "2026-03-29T19:30:07.602Z"
 ---
 
 # § 1191b. Definitions

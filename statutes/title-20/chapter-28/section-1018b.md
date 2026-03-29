@@ -5,7 +5,7 @@ usc_section: "1018b"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1018b"
-generated_at: "2026-03-29T18:24:40.898Z"
+generated_at: "2026-03-29T19:28:42.954Z"
 ---
 
 # § 1018b. Administrative simplification of student aid delivery

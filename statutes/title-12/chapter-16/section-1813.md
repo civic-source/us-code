@@ -5,7 +5,7 @@ usc_section: "1813"
 chapter: 16
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1813"
-generated_at: "2026-03-29T18:24:02.894Z"
+generated_at: "2026-03-29T19:28:17.656Z"
 ---
 
 # § 1813. Definitions

@@ -5,7 +5,7 @@ usc_section: "5596"
 chapter: 539
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5596"
-generated_at: "2026-03-29T18:23:52.048Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # § 5596. Navy and Marine Corps: temporary appointments of officers designated for limited duty

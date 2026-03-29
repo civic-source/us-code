@@ -5,7 +5,7 @@ usc_section: "6085"
 chapter: 69
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 6085"
-generated_at: "2026-03-29T18:24:54.346Z"
+generated_at: "2026-03-29T19:29:46.909Z"
 ---
 
 # § 6085. Effective date

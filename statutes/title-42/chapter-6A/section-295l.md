@@ -5,7 +5,7 @@ usc_section: "295l"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 295l"
-generated_at: "2026-03-29T18:27:02.703Z"
+generated_at: "2026-03-29T19:31:44.347Z"
 ---
 
 # § 295l. Repealed. Pub. L. 105–392, title I , § 106(a)(2)(C), Nov. 13, 1998 , 112 Stat. 3557

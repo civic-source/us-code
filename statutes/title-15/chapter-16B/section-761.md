@@ -5,7 +5,7 @@ usc_section: "761"
 chapter: 16
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 761"
-generated_at: "2026-03-29T18:24:08.419Z"
+generated_at: "2026-03-29T19:27:55.392Z"
 ---
 
 # § 761. Congressional declaration of purpose

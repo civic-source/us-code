@@ -3,9 +3,9 @@ title: "Section 4654 - Department of Commerce study on status of microelectronic
 usc_title: 15
 usc_section: "4654"
 chapter: 72
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 4654"
-generated_at: "2026-03-29T02:11:34.369Z"
+generated_at: "2026-03-29T18:49:04.495Z"
 ---
 
 # § 4654. Department of Commerce study on status of microelectronics technologies in the United States industrial base

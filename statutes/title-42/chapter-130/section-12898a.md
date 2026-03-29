@@ -5,7 +5,7 @@ usc_section: "12898a"
 chapter: 130
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12898a"
-generated_at: "2026-03-29T18:27:04.098Z"
+generated_at: "2026-03-29T19:31:45.697Z"
 ---
 
 # § 12898a. Enterprise zone homeownership opportunity grants

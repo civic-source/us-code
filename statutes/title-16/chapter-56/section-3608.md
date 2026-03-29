@@ -5,7 +5,7 @@ usc_section: "3608"
 chapter: 56
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3608"
-generated_at: "2026-03-29T18:24:22.879Z"
+generated_at: "2026-03-29T19:29:27.555Z"
 ---
 
 # § 3608. Authorization of appropriations

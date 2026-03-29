@@ -5,7 +5,7 @@ usc_section: "609"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 609"
-generated_at: "2026-03-29T18:26:01.181Z"
+generated_at: "2026-03-29T19:30:28.726Z"
 ---
 
 # § 609. Sluices and other work in dams for development of water power

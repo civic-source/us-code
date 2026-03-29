@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T18:23:43.264Z"
+generated_at: "2026-03-29T19:27:31.737Z"
 ---
 
 # § 1445b–5. Repealed. Pub. L. 101–624, title XI , § 1161(a)(2), Nov. 28, 1990 , 104 Stat. 3520

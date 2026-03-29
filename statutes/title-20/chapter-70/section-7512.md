@@ -5,7 +5,7 @@ usc_section: "7512"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 7512"
-generated_at: "2026-03-29T18:24:41.155Z"
+generated_at: "2026-03-29T19:28:43.214Z"
 ---
 
 # § 7512. Findings

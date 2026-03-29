@@ -5,7 +5,7 @@ usc_section: "410zz"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410zz"
-generated_at: "2026-03-29T18:24:22.487Z"
+generated_at: "2026-03-29T19:29:27.114Z"
 ---
 
 # § 410zz. Findings and purpose

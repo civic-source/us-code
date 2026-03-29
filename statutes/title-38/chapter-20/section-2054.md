@@ -5,7 +5,7 @@ usc_section: "2054"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2054"
-generated_at: "2026-03-29T18:26:07.582Z"
+generated_at: "2026-03-29T19:30:40.499Z"
 ---
 
 # § 2054. Audit

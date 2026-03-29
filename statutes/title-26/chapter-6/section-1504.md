@@ -5,7 +5,7 @@ usc_section: "1504"
 chapter: 6
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1504"
-generated_at: "2026-03-29T18:25:53.767Z"
+generated_at: "2026-03-29T19:30:20.024Z"
 ---
 
 # § 1504. Definitions

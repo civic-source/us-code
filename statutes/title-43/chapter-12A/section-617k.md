@@ -5,7 +5,7 @@ usc_section: "617k"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 617k"
-generated_at: "2026-03-29T18:26:14.820Z"
+generated_at: "2026-03-29T19:31:49.066Z"
 ---
 
 # § 617k. Definitions

@@ -5,7 +5,7 @@ usc_section: "28f"
 chapter: 2
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 28f"
-generated_at: "2026-03-29T18:25:30.840Z"
+generated_at: "2026-03-29T19:30:05.213Z"
 ---
 
 # § 28f. Fee

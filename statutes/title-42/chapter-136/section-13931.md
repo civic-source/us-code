@@ -5,7 +5,7 @@ usc_section: "13931"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13931"
-generated_at: "2026-03-29T18:27:04.140Z"
+generated_at: "2026-03-29T19:31:45.746Z"
 ---
 
 # § 13931. Grants for capital improvements to prevent crime in public transportation

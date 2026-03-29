@@ -5,7 +5,7 @@ usc_section: "1623"
 chapter: 83
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1623"
-generated_at: "2026-03-29T18:23:51.858Z"
+generated_at: "2026-03-29T19:27:25.550Z"
 ---
 
 # § 1623. Financial assistance to certain employees in acquisition of critical skills

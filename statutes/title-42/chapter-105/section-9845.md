@@ -5,7 +5,7 @@ usc_section: "9845"
 chapter: 105
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9845"
-generated_at: "2026-03-29T18:27:03.950Z"
+generated_at: "2026-03-29T19:31:45.545Z"
 ---
 
 # § 9845. Repealed. Pub. L. 103–252, title I , § 117, May 18, 1994 , 108 Stat. 648

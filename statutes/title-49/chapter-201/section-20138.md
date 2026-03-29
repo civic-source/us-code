@@ -5,7 +5,7 @@ usc_section: "20138"
 chapter: 201
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 20138"
-generated_at: "2026-03-29T18:27:16.507Z"
+generated_at: "2026-03-29T19:32:28.791Z"
 ---
 
 # § 20138. Tampering with safety and operational monitoring devices

@@ -5,7 +5,7 @@ usc_section: "1067l"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1067l"
-generated_at: "2026-03-29T18:24:40.914Z"
+generated_at: "2026-03-29T19:28:42.970Z"
 ---
 
 # § 1067l. Repealed. Pub. L. 105–244, title III , § 301(a)(8), Oct. 7, 1998 , 112 Stat. 1636

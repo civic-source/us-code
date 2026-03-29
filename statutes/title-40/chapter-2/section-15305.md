@@ -5,7 +5,7 @@ usc_section: "15305"
 chapter: 2
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 15305"
-generated_at: "2026-03-29T18:26:04.589Z"
+generated_at: "2026-03-29T19:30:36.711Z"
 ---
 
 # § 15305. Meetings

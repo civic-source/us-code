@@ -5,7 +5,7 @@ usc_section: "3203"
 chapter: 33
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3203"
-generated_at: "2026-03-29T18:24:02.999Z"
+generated_at: "2026-03-29T19:28:17.774Z"
 ---
 
 # § 3203. Dual service of management official of $2,500,000,000 institution or holding company as management official of unaffiliated $1,500,000,000 institution or holding company prohibited

@@ -5,7 +5,7 @@ usc_section: "86"
 chapter: 5
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 86"
-generated_at: "2026-03-29T18:23:33.913Z"
+generated_at: "2026-03-29T19:27:14.424Z"
 ---
 
 # §§ 83 to 86. Transferred

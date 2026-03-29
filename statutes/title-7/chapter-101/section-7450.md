@@ -5,7 +5,7 @@ usc_section: "7450"
 chapter: 101
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7450"
-generated_at: "2026-03-29T18:23:43.517Z"
+generated_at: "2026-03-29T19:27:31.986Z"
 ---
 
 # § 7450. Suspension or termination

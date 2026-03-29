@@ -5,7 +5,7 @@ usc_section: "1725"
 chapter: 87
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1725"
-generated_at: "2026-03-29T18:23:51.860Z"
+generated_at: "2026-03-29T19:27:25.552Z"
 ---
 
 # [§ 1725. Repealed. Pub. L. 108–136, div. A, title VIII , § 832(a), Nov. 24, 2003 , 117 Stat. 1550 ; amended Pub. L. 108–375, div. A, title X , § 1084(f)(1), Oct. 28, 2004 , 118 Stat. 2064 ]

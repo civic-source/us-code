@@ -3,9 +3,9 @@ title: "Section 7037 - Judge Advocate General, Deputy Judge Advocate General, an
 usc_title: 10
 usc_section: "7037"
 chapter: 705
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 7037"
-generated_at: "2026-03-29T02:10:45.270Z"
+generated_at: "2026-03-29T18:47:53.541Z"
 ---
 
 # § 7037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties
@@ -20,4 +20,3 @@ generated_at: "2026-03-29T02:10:45.270Z"
 - **(e)** No officer or employee of the Department of Defense may interfere with—
   - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Army or the Chief of Staff of the Army; or
   - **(2)** the ability of judge advocates of the Army assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
-- **(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.

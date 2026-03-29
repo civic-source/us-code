@@ -5,7 +5,7 @@ usc_section: "1898"
 chapter: 24
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1898"
-generated_at: "2026-03-29T18:24:54.164Z"
+generated_at: "2026-03-29T19:29:46.717Z"
 ---
 
 # § 1898. Repealed. Pub. L. 86–472 , ch. II, § 203(d), May 14, 1960 , 74 Stat. 136

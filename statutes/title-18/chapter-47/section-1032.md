@@ -5,7 +5,7 @@ usc_section: "1032"
 chapter: 47
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1032"
-generated_at: "2026-03-29T18:24:43.806Z"
+generated_at: "2026-03-29T19:28:33.823Z"
 ---
 
 # § 1032. Concealment of assets from conservator, receiver, or liquidating agent

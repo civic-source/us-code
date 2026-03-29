@@ -5,7 +5,7 @@ usc_section: "31"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 31"
-generated_at: "2026-03-29T18:27:02.849Z"
+generated_at: "2026-03-29T19:31:44.474Z"
 ---
 
 # § 300mm–31. Identification and initial health evaluation of screening-eligible and certified-eligible WTC survivors

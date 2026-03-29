@@ -5,7 +5,7 @@ usc_section: "1079c"
 chapter: 14
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1079c"
-generated_at: "2026-03-29T18:24:54.145Z"
+generated_at: "2026-03-29T19:29:46.696Z"
 ---
 
 # §§ 1079 to 1079c. Repealed. Pub. L. 96–465, title II , § 2205(13), Oct. 17, 1980 , 94 Stat. 2160

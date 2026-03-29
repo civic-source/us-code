@@ -5,7 +5,7 @@ usc_section: "1921"
 chapter: 21
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1921"
-generated_at: "2026-03-29T18:25:23.758Z"
+generated_at: "2026-03-29T19:29:34.817Z"
 ---
 
 # § 1921. Higher State or Federal standard applicable to protect rights of parent or Indian custodian of Indian child

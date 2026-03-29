@@ -5,7 +5,7 @@ usc_section: "468"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 468"
-generated_at: "2026-03-29T18:26:14.806Z"
+generated_at: "2026-03-29T19:31:49.052Z"
 ---
 
 # § 468. Withdrawal of notice given and modification of applications and contracts made prior to February 13, 1911

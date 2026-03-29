@@ -5,7 +5,7 @@ usc_section: "5323"
 chapter: 53
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5323"
-generated_at: "2026-03-29T18:24:03.074Z"
+generated_at: "2026-03-29T19:28:17.856Z"
 ---
 
 # § 5323. Authority to require supervision and regulation of certain nonbank financial companies

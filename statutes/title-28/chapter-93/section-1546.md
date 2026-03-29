@@ -5,7 +5,7 @@ usc_section: "1546"
 chapter: 93
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 1546"
-generated_at: "2026-03-29T18:25:32.938Z"
+generated_at: "2026-03-29T19:30:04.378Z"
 ---
 
 # [§§ 1541 to 1546. Repealed. Pub. L. 97–164, title I , § 134, Apr. 2, 1982 , 96 Stat. 41 ]

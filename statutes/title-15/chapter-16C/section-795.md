@@ -5,7 +5,7 @@ usc_section: "795"
 chapter: 16
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 795"
-generated_at: "2026-03-29T18:24:08.424Z"
+generated_at: "2026-03-29T19:27:55.397Z"
 ---
 
 # § 795. Report to Congress by January 31, 1975

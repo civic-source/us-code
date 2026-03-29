@@ -5,7 +5,7 @@ usc_section: "153102"
 chapter: 1531
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 153102"
-generated_at: "2026-03-29T18:26:09.297Z"
+generated_at: "2026-03-29T19:30:42.086Z"
 ---
 
 # § 153102. Purposes

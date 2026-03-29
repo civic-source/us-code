@@ -5,7 +5,7 @@ usc_section: "70509"
 chapter: 705
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 70509"
-generated_at: "2026-03-29T18:26:09.281Z"
+generated_at: "2026-03-29T19:30:42.071Z"
 ---
 
 # § 70509. Records and inspection

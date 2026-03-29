@@ -5,7 +5,7 @@ usc_section: "655"
 chapter: 37
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 655"
-generated_at: "2026-03-29T18:23:51.754Z"
+generated_at: "2026-03-29T19:27:25.457Z"
 ---
 
 # § 655. Designation of persons having interest in status of a missing member

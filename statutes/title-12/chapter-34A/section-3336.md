@@ -5,7 +5,7 @@ usc_section: "3336"
 chapter: 34
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3336"
-generated_at: "2026-03-29T18:24:03.001Z"
+generated_at: "2026-03-29T19:28:17.776Z"
 ---
 
 # § 3336. Procedures for establishing appraisal standards and requiring use of certified and licensed appraisers

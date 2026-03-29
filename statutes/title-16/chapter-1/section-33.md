@@ -5,7 +5,7 @@ usc_section: "33"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 33"
-generated_at: "2026-03-29T18:24:22.547Z"
+generated_at: "2026-03-29T19:29:27.181Z"
 ---
 
 # § 460l–33. Management of reclamation lands

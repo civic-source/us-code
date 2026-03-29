@@ -5,7 +5,7 @@ usc_section: "41722"
 chapter: 417
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 41722"
-generated_at: "2026-03-29T18:27:16.586Z"
+generated_at: "2026-03-29T19:32:28.867Z"
 ---
 
 # § 41722. Delay reduction actions

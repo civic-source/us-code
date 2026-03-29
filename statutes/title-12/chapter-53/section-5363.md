@@ -5,7 +5,7 @@ usc_section: "5363"
 chapter: 53
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5363"
-generated_at: "2026-03-29T18:24:03.078Z"
+generated_at: "2026-03-29T19:28:17.860Z"
 ---
 
 # § 5363. Acquisitions

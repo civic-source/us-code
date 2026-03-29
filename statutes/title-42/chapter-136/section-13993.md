@@ -5,7 +5,7 @@ usc_section: "13993"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13993"
-generated_at: "2026-03-29T18:27:04.142Z"
+generated_at: "2026-03-29T19:31:45.749Z"
 ---
 
 # § 13993. Cooperation in developing programs in making grants under this part

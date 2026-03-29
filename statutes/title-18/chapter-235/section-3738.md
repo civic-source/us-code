@@ -5,7 +5,7 @@ usc_section: "3738"
 chapter: 235
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3738"
-generated_at: "2026-03-29T18:24:43.887Z"
+generated_at: "2026-03-29T19:28:33.907Z"
 ---
 
 # § 3738. Docketing appeal and record—(Rule)

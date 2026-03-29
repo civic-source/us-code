@@ -5,7 +5,7 @@ usc_section: "2295b"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2295b"
-generated_at: "2026-03-29T18:24:54.201Z"
+generated_at: "2026-03-29T19:29:46.760Z"
 ---
 
 # § 2295b. Authorities relating to assistance and other provisions

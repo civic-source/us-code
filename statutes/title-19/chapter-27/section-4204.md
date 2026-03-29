@@ -5,7 +5,7 @@ usc_section: "4204"
 chapter: 27
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 4204"
-generated_at: "2026-03-29T18:24:16.235Z"
+generated_at: "2026-03-29T19:28:30.799Z"
 ---
 
 # § 4204. Notice, consultations, and reports

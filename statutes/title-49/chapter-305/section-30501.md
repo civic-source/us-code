@@ -5,7 +5,7 @@ usc_section: "30501"
 chapter: 305
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 30501"
-generated_at: "2026-03-29T18:27:16.540Z"
+generated_at: "2026-03-29T19:32:28.827Z"
 ---
 
 # § 30501. Definitions

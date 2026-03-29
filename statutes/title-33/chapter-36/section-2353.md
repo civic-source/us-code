@@ -3,9 +3,9 @@ title: "Section 2353 - Structural health monitoring"
 usc_title: 33
 usc_section: "2353"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 2353"
-generated_at: "2026-03-29T02:14:18.634Z"
+generated_at: "2026-03-29T18:45:43.511Z"
 ---
 
 # § 2353. Structural health monitoring

@@ -5,7 +5,7 @@ usc_section: "441n"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 441n"
-generated_at: "2026-03-29T18:24:22.523Z"
+generated_at: "2026-03-29T19:29:27.155Z"
 ---
 
 # § 441n. Lands outside gunnery range; exchange of lands; reservation of mineral rights; grazing and mineral development rights of Indians; execution of instruments; trust title

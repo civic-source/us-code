@@ -5,7 +5,7 @@ usc_section: "7477"
 chapter: 643
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7477"
-generated_at: "2026-03-29T18:23:52.073Z"
+generated_at: "2026-03-29T19:27:25.696Z"
 ---
 
 # § 7477. Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation

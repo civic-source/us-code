@@ -5,7 +5,7 @@ usc_section: "1125"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1125"
-generated_at: "2026-03-29T18:24:08.432Z"
+generated_at: "2026-03-29T19:27:55.406Z"
 ---
 
 # § 1125. False designations of origin, false descriptions, and dilution forbidden

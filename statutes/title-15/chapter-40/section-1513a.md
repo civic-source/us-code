@@ -5,7 +5,7 @@ usc_section: "1513a"
 chapter: 40
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1513a"
-generated_at: "2026-03-29T18:24:08.454Z"
+generated_at: "2026-03-29T19:27:55.429Z"
 ---
 
 # § 1513a. Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification

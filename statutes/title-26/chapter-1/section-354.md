@@ -5,7 +5,7 @@ usc_section: "354"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 354"
-generated_at: "2026-03-29T18:25:53.515Z"
+generated_at: "2026-03-29T19:30:19.777Z"
 ---
 
 # § 354. Exchanges of stock and securities in certain reorganizations

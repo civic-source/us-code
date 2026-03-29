@@ -5,7 +5,7 @@ usc_section: "2a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-29T18:27:03.035Z"
+generated_at: "2026-03-29T19:31:44.627Z"
 ---
 
 # § 1395i–2a. Hospital insurance benefits for disabled individuals who have exhausted other entitlement

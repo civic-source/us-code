@@ -5,7 +5,7 @@ usc_section: "13271"
 chapter: 134
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13271"
-generated_at: "2026-03-29T18:27:04.111Z"
+generated_at: "2026-03-29T19:31:45.713Z"
 ---
 
 # § 13271. Definitions

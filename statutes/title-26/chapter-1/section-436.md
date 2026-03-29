@@ -5,7 +5,7 @@ usc_section: "436"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 436"
-generated_at: "2026-03-29T18:25:53.582Z"
+generated_at: "2026-03-29T19:30:19.844Z"
 ---
 
 # § 436. Funding-based limits on benefits and benefit accruals under single-employer plans

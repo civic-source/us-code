@@ -5,7 +5,7 @@ usc_section: "13"
 chapter: 1
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 13"
-generated_at: "2026-03-29T18:23:14.419Z"
+generated_at: "2026-03-29T19:27:10.130Z"
 ---
 
 # § 13. Same; demand on district judge for certificate

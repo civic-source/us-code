@@ -5,7 +5,7 @@ usc_section: "7415"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7415"
-generated_at: "2026-03-29T18:27:03.797Z"
+generated_at: "2026-03-29T19:31:45.383Z"
 ---
 
 # § 7415. International air pollution

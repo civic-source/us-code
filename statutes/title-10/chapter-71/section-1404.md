@@ -5,7 +5,7 @@ usc_section: "1404"
 chapter: 71
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1404"
-generated_at: "2026-03-29T18:23:51.813Z"
+generated_at: "2026-03-29T19:27:25.526Z"
 ---
 
 # § 1404. Applicability of section 8301 of title 5

@@ -5,7 +5,7 @@ usc_section: "60148"
 chapter: 601
 current_through: "PL 114-254"
 classification: "51 U.S.C. § 60148"
-generated_at: "2026-03-29T18:27:39.403Z"
+generated_at: "2026-03-29T19:32:32.750Z"
 ---
 
 # § 60148. Enforcement

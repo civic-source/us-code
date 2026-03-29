@@ -3,9 +3,9 @@ title: "Section 344 - Participation in multinational centers of excellence"
 usc_title: 10
 usc_section: "344"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 344"
-generated_at: "2026-03-29T02:10:44.855Z"
+generated_at: "2026-03-29T18:47:53.238Z"
 ---
 
 # § 344. Participation in multinational centers of excellence
@@ -28,6 +28,5 @@ generated_at: "2026-03-29T02:10:44.855Z"
     - **(A)** enhance education and training;
     - **(B)** improve interoperability and capabilities;
     - **(C)** assist in the development of doctrine;
-    - **(D)** validate concepts through experimentation;
-  - **(2)** the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland; and
-  - **(3)** the International Special Training Centre, established in 1979 and located in Pfullendorf, Germany.
+    - **(D)** validate concepts through experimentation; and
+  - **(2)** the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland.

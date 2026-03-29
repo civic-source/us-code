@@ -5,7 +5,7 @@ usc_section: "5981"
 chapter: 553
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5981"
-generated_at: "2026-03-29T18:23:52.049Z"
+generated_at: "2026-03-29T19:27:25.678Z"
 ---
 
 # [§ 5981. Repealed. Pub. L. 91–482 , § 1(a), Oct. 21, 1970 , 84 Stat. 1082 ]

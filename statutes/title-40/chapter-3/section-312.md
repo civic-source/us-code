@@ -5,7 +5,7 @@ usc_section: "312"
 chapter: 3
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 312"
-generated_at: "2026-03-29T18:26:04.551Z"
+generated_at: "2026-03-29T19:30:36.675Z"
 ---
 
 # [§ 312. Repealed. Pub. L. 111–8, div. D, title V , § 518(c)(1), Mar. 11, 2009 , 123 Stat. 665 ]

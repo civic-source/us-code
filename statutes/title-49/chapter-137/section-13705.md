@@ -5,7 +5,7 @@ usc_section: "13705"
 chapter: 137
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 13705"
-generated_at: "2026-03-29T18:27:16.489Z"
+generated_at: "2026-03-29T19:32:28.774Z"
 ---
 
 # § 13705. Requirements for through routes among motor carriers of passengers

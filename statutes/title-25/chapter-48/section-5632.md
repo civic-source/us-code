@@ -5,7 +5,7 @@ usc_section: "5632"
 chapter: 48
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 5632"
-generated_at: "2026-03-29T18:25:23.848Z"
+generated_at: "2026-03-29T19:29:34.906Z"
 ---
 
 # § 5632. Definitions

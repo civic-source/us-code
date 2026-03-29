@@ -5,7 +5,7 @@ usc_section: "607a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 607a"
-generated_at: "2026-03-29T18:26:01.181Z"
+generated_at: "2026-03-29T19:30:28.726Z"
 ---
 
 # § 607a. Appropriations; separate project

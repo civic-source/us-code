@@ -5,7 +5,7 @@ usc_section: "853r"
 chapter: 17
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 853r"
-generated_at: "2026-03-29T18:26:01.201Z"
+generated_at: "2026-03-29T19:30:28.745Z"
 ---
 
 # §§ 853p to 853r. Repealed. Pub. L. 107–372, title II , § 271(1), Dec. 19, 2002 , 116 Stat. 3094

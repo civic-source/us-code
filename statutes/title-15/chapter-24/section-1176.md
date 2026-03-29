@@ -5,7 +5,7 @@ usc_section: "1176"
 chapter: 24
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1176"
-generated_at: "2026-03-29T18:24:08.436Z"
+generated_at: "2026-03-29T19:27:55.411Z"
 ---
 
 # § 1176. Penalties

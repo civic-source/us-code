@@ -5,7 +5,7 @@ usc_section: "4104a"
 chapter: 50
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4104a"
-generated_at: "2026-03-29T18:27:03.568Z"
+generated_at: "2026-03-29T19:31:45.151Z"
 ---
 
 # § 4104a. Notice requirements

@@ -5,7 +5,7 @@ usc_section: "20113"
 chapter: 201
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 20113"
-generated_at: "2026-03-29T18:27:16.506Z"
+generated_at: "2026-03-29T19:32:28.789Z"
 ---
 
 # § 20113. Enforcement by the States

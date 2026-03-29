@@ -5,7 +5,7 @@ usc_section: "289b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 289b"
-generated_at: "2026-03-29T18:27:02.657Z"
+generated_at: "2026-03-29T19:31:44.295Z"
 ---
 
 # § 289b. Office of Research Integrity

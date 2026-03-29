@@ -5,7 +5,7 @@ usc_section: "1406b"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1406b"
-generated_at: "2026-03-29T18:27:03.285Z"
+generated_at: "2026-03-29T19:31:44.881Z"
 ---
 
 # § 1406b. Expenses of uncompensated advisers serving United States Housing Authority away from home

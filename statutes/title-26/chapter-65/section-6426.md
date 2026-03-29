@@ -5,7 +5,7 @@ usc_section: "6426"
 chapter: 65
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6426"
-generated_at: "2026-03-29T18:25:53.935Z"
+generated_at: "2026-03-29T19:30:20.207Z"
 ---
 
 # § 6426. Credit for alcohol fuel, biodiesel, and alternative fuel mixtures

@@ -5,7 +5,7 @@ usc_section: "1388"
 chapter: 26
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1388"
-generated_at: "2026-03-29T18:26:01.265Z"
+generated_at: "2026-03-29T19:30:28.809Z"
 ---
 
 # § 1388. Requirements

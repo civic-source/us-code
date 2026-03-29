@@ -5,7 +5,7 @@ usc_section: "6002"
 chapter: 89
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 6002"
-generated_at: "2026-03-29T18:23:43.463Z"
+generated_at: "2026-03-29T19:27:31.927Z"
 ---
 
 # § 6002. Definitions

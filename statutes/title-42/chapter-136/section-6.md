@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T18:27:04.151Z"
+generated_at: "2026-03-29T19:31:45.757Z"
 ---
 
 # § 14043h–6. Allocation of increased formula grant funds

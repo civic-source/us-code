@@ -5,7 +5,7 @@ usc_section: "1271a"
 chapter: 26
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1271a"
-generated_at: "2026-03-29T18:26:01.228Z"
+generated_at: "2026-03-29T19:30:28.772Z"
 ---
 
 # § 1271a. Research and development program

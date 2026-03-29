@@ -5,7 +5,7 @@ usc_section: "1693a"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1693a"
-generated_at: "2026-03-29T18:24:08.500Z"
+generated_at: "2026-03-29T19:27:55.470Z"
 ---
 
 # § 1693a. Definitions

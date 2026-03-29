@@ -5,7 +5,7 @@ usc_section: "7661d"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7661d"
-generated_at: "2026-03-29T18:27:03.850Z"
+generated_at: "2026-03-29T19:31:45.437Z"
 ---
 
 # § 7661d. Notification to Administrator and contiguous States

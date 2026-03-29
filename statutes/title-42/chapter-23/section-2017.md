@@ -5,7 +5,7 @@ usc_section: "2017"
 chapter: 23
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2017"
-generated_at: "2026-03-29T18:27:03.423Z"
+generated_at: "2026-03-29T19:31:45.011Z"
 ---
 
 # § 2017. Authorization of appropriations

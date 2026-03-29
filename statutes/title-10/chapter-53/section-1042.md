@@ -5,7 +5,7 @@ usc_section: "1042"
 chapter: 53
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1042"
-generated_at: "2026-03-29T18:23:51.781Z"
+generated_at: "2026-03-29T19:27:25.493Z"
 ---
 
 # § 1042. Copy of certificate of service

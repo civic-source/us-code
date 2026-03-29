@@ -5,7 +5,7 @@ usc_section: "16982"
 chapter: 151
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 16982"
-generated_at: "2026-03-29T18:27:04.243Z"
+generated_at: "2026-03-29T19:31:45.868Z"
 ---
 
 # § 16982. Assistance for prosecution of cases cleared through use of DNA backlog clearance funds

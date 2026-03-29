@@ -3,9 +3,9 @@ title: "Section 12611 - Motor vehicle theft prevention program"
 usc_title: 34
 usc_section: "12611"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 12611"
-generated_at: "2026-03-29T02:14:25.332Z"
+generated_at: "2026-03-29T18:45:50.363Z"
 ---
 
 # § 12611. Motor vehicle theft prevention program

@@ -5,7 +5,7 @@ usc_section: "3513"
 chapter: 35
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3513"
-generated_at: "2026-03-29T18:26:07.608Z"
+generated_at: "2026-03-29T19:30:40.523Z"
 ---
 
 # § 3513. Application

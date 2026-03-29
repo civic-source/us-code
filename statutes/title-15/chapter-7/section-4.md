@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T18:24:08.331Z"
+generated_at: "2026-03-29T19:27:55.304Z"
 ---
 
 # § 278g–4. Information Security and Privacy Advisory Board

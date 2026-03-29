@@ -5,7 +5,7 @@ usc_section: "2077"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2077"
-generated_at: "2026-03-29T18:24:02.955Z"
+generated_at: "2026-03-29T19:28:17.724Z"
 ---
 
 # § 2077. Taxation

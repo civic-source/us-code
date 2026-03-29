@@ -5,7 +5,7 @@ usc_section: "245i"
 chapter: 5
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 245i"
-generated_at: "2026-03-29T18:24:54.093Z"
+generated_at: "2026-03-29T19:29:46.640Z"
 ---
 
 # §§ 245a to 245i. Repealed. Joint Res. Nov. 4, 1939, ch. 2 , § 19, 54 Stat. 12

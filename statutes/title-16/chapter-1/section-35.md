@@ -5,7 +5,7 @@ usc_section: "35"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 35"
-generated_at: "2026-03-29T18:24:22.474Z"
+generated_at: "2026-03-29T19:29:27.099Z"
 ---
 
 # § 410cc–35. Powers of Commission

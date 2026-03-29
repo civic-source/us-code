@@ -5,7 +5,7 @@ usc_section: "4742"
 chapter: 62
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4742"
-generated_at: "2026-03-29T18:27:03.589Z"
+generated_at: "2026-03-29T19:31:45.172Z"
 ---
 
 # § 4742. Admission to Federal employee training programs

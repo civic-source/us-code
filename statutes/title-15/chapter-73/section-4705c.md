@@ -5,7 +5,7 @@ usc_section: "4705c"
 chapter: 73
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4705c"
-generated_at: "2026-03-29T18:24:08.605Z"
+generated_at: "2026-03-29T19:27:55.563Z"
 ---
 
 # §§ 4705 to 4705c. Omitted

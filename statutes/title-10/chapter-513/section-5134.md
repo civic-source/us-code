@@ -5,7 +5,7 @@ usc_section: "5134"
 chapter: 513
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5134"
-generated_at: "2026-03-29T18:23:52.042Z"
+generated_at: "2026-03-29T19:27:25.675Z"
 ---
 
 # [§ 5134. Repealed. Pub. L. 87–649 , § 14c(16), Sept. 7, 1962 , 76 Stat. 501 ]

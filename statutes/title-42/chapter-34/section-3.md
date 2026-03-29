@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 34
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T18:27:03.470Z"
+generated_at: "2026-03-29T19:31:45.053Z"
 ---
 
 # § 2991b–3. Grant program to ensure survival and continuing vitality of Native American languages

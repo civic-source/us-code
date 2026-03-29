@@ -5,7 +5,7 @@ usc_section: "3703"
 chapter: 37
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 3703"
-generated_at: "2026-03-29T18:26:04.567Z"
+generated_at: "2026-03-29T19:30:36.692Z"
 ---
 
 # § 3703. Report of violations and withholding of amounts for unpaid wages and liquidated damages

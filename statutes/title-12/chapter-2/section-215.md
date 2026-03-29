@@ -5,7 +5,7 @@ usc_section: "215"
 chapter: 2
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 215"
-generated_at: "2026-03-29T18:24:02.735Z"
+generated_at: "2026-03-29T19:28:17.494Z"
 ---
 
 # § 215. Consolidation of banks within same State

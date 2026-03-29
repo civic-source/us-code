@@ -5,7 +5,7 @@ usc_section: "2408"
 chapter: 44
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 2408"
-generated_at: "2026-03-29T18:24:22.852Z"
+generated_at: "2026-03-29T19:29:27.525Z"
 ---
 
 # § 2408. Criminal offenses

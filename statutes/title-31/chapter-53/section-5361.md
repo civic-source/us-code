@@ -5,7 +5,7 @@ usc_section: "5361"
 chapter: 53
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 5361"
-generated_at: "2026-03-29T18:25:59.205Z"
+generated_at: "2026-03-29T19:30:24.800Z"
 ---
 
 # § 5361. Congressional findings and purpose

@@ -5,7 +5,7 @@ usc_section: "2144"
 chapter: 54
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2144"
-generated_at: "2026-03-29T18:23:43.381Z"
+generated_at: "2026-03-29T19:27:31.851Z"
 ---
 
 # § 2144. Humane standards for animals by United States Government facilities

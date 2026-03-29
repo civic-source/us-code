@@ -5,7 +5,7 @@ usc_section: "1015a"
 chapter: 18
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1015a"
-generated_at: "2026-03-29T18:24:22.757Z"
+generated_at: "2026-03-29T19:29:27.418Z"
 ---
 
 # § 1015a. Program

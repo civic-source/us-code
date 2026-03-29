@@ -5,7 +5,7 @@ usc_section: "5711"
 chapter: 87
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5711"
-generated_at: "2026-03-29T18:23:43.453Z"
+generated_at: "2026-03-29T19:27:31.917Z"
 ---
 
 # § 5711. Repealed. Pub. L. 104–127, title II , § 241(c)(1), Apr. 4, 1996 , 110 Stat. 964

@@ -5,7 +5,7 @@ usc_section: "689b"
 chapter: 14
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 689b"
-generated_at: "2026-03-29T18:24:08.393Z"
+generated_at: "2026-03-29T19:27:55.369Z"
 ---
 
 # § 689b. Establishment

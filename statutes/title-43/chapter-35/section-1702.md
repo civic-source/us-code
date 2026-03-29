@@ -5,7 +5,7 @@ usc_section: "1702"
 chapter: 35
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1702"
-generated_at: "2026-03-29T18:26:14.892Z"
+generated_at: "2026-03-29T19:31:49.142Z"
 ---
 
 # § 1702. Definitions

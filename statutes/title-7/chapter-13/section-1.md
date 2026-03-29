@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 13
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:43.192Z"
+generated_at: "2026-03-29T19:27:31.673Z"
 ---
 
 # §§ 343a to 343c–1. Repealed. June 26, 1953, ch. 157 , § 2, 67 Stat. 85 , 86

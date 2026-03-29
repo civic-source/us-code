@@ -5,7 +5,7 @@ usc_section: "915"
 chapter: 4
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 915"
-generated_at: "2026-03-29T18:27:11.647Z"
+generated_at: "2026-03-29T19:31:53.945Z"
 ---
 
 # § 915. Bonds as public debt

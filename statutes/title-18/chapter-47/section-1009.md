@@ -5,7 +5,7 @@ usc_section: "1009"
 chapter: 47
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1009"
-generated_at: "2026-03-29T18:24:43.802Z"
+generated_at: "2026-03-29T19:28:33.819Z"
 ---
 
 # [§§ 1008, 1009. Repealed. Pub. L. 101–73, title IX , §§ 961(g)(1), 962(a)(3), Aug. 9, 1989 , 103 Stat. 500 , 502]

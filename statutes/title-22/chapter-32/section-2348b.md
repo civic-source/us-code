@@ -5,7 +5,7 @@ usc_section: "2348b"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2348b"
-generated_at: "2026-03-29T18:24:54.207Z"
+generated_at: "2026-03-29T19:29:46.766Z"
 ---
 
 # § 2348b. Repealed. Pub. L. 96–533, title I , § 116(b), Dec. 16, 1980 , 94 Stat. 3140

@@ -5,7 +5,7 @@ usc_section: "203"
 chapter: 2
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 203"
-generated_at: "2026-03-29T18:24:28.482Z"
+generated_at: "2026-03-29T19:28:20.872Z"
 ---
 
 # § 203. Termination of transfers and licenses granted by the author

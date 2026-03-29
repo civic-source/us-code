@@ -5,7 +5,7 @@ usc_section: "2002"
 chapter: 20
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 2002"
-generated_at: "2026-03-29T18:26:03.557Z"
+generated_at: "2026-03-29T19:30:48.542Z"
 ---
 
 # § 2002. Capital of the Postal Service

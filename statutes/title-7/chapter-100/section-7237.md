@@ -5,7 +5,7 @@ usc_section: "7237"
 chapter: 100
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7237"
-generated_at: "2026-03-29T18:23:43.504Z"
+generated_at: "2026-03-29T19:27:31.972Z"
 ---
 
 # § 7237. Availability of recourse loans for high moisture feed grains and seed cotton and other fibers

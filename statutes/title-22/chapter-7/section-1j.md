@@ -5,7 +5,7 @@ usc_section: "1j"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1j"
-generated_at: "2026-03-29T18:24:54.122Z"
+generated_at: "2026-03-29T19:29:46.670Z"
 ---
 
 # § 286e–1j. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations

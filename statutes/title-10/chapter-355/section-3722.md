@@ -5,7 +5,7 @@ usc_section: "3722"
 chapter: 355
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3722"
-generated_at: "2026-03-29T18:23:52.023Z"
+generated_at: "2026-03-29T19:27:25.659Z"
 ---
 
 # [§§ 3721, 3722. Repealed. Pub. L. 99–661, div. A, title VI , § 604(f)(1)(A), Nov. 14, 1986 , 100 Stat. 3877 ]

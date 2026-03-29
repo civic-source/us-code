@@ -5,7 +5,7 @@ usc_section: "673"
 chapter: 39
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 673"
-generated_at: "2026-03-29T18:23:51.756Z"
+generated_at: "2026-03-29T19:27:25.459Z"
 ---
 
 # § 673. Consideration of application for permanent change of station or unit transfer for members on active duty who are the victim of a sexual assault or related offense

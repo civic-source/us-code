@@ -3,18 +3,18 @@ title: "Section 305 - Vice admirals"
 usc_title: 14
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 305"
-generated_at: "2026-03-29T02:11:23.771Z"
+generated_at: "2026-03-29T18:48:09.809Z"
 ---
 
 # § 305. Vice admirals
 
 - **(a)**
-  - **(1)** The President shall—
+  - **(1)** The President may—
     - **(A)** designate, within the Coast Guard, no more than five positions of importance and responsibility that shall be held by officers who, while so serving—
       - **(i)** shall have the grade of vice admiral, with the pay and allowances of that grade; and
-      - **(ii)** shall perform such duties as the Commandant may prescribe, except that if the President designates five such positions, one position shall oversee personnel management, workforce, and dependent support, training, and related matters; and
+      - **(ii)** shall perform such duties as the Commandant may prescribe, except that if the President designates five such positions, one position shall be the Chief of Staff of the Coast Guard; and
     - **(B)** designate, within the executive branch, other than within the Coast Guard or the National Oceanic and Atmospheric Administration, positions of importance and responsibility that shall be held by officers who, while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade.
   - **(2)** The President may appoint, by and with the advice and consent of the Senate, and reappoint, by and with the advice and consent of the Senate, to any such position an officer of the Coast Guard who is serving on active duty above the grade of captain. The Commandant shall make recommendations for such appointments.
   - **(3)**

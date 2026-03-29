@@ -5,7 +5,7 @@ usc_section: "2021i"
 chapter: 23
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2021i"
-generated_at: "2026-03-29T18:27:03.426Z"
+generated_at: "2026-03-29T19:31:45.014Z"
 ---
 
 # § 2021i. Licensing review and approval

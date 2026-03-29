@@ -5,7 +5,7 @@ usc_section: "1959"
 chapter: 21
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1959"
-generated_at: "2026-03-29T18:24:02.952Z"
+generated_at: "2026-03-29T19:28:17.720Z"
 ---
 
 # § 1959. Administrative procedure

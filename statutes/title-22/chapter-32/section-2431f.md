@@ -5,7 +5,7 @@ usc_section: "2431f"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2431f"
-generated_at: "2026-03-29T18:24:54.227Z"
+generated_at: "2026-03-29T19:29:46.785Z"
 ---
 
 # § 2431f. Authority to engage in debt-for-nature swaps and debt buybacks

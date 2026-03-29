@@ -5,7 +5,7 @@ usc_section: "5501"
 chapter: 65
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 5501"
-generated_at: "2026-03-29T18:24:41.100Z"
+generated_at: "2026-03-29T19:28:43.149Z"
 ---
 
 # § 5501. Findings and policy

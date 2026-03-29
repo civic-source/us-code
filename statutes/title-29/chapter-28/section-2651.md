@@ -5,7 +5,7 @@ usc_section: "2651"
 chapter: 28
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 2651"
-generated_at: "2026-03-29T18:25:43.132Z"
+generated_at: "2026-03-29T19:30:07.635Z"
 ---
 
 # § 2651. Effect on other laws

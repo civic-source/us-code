@@ -5,7 +5,7 @@ usc_section: "22108"
 chapter: 221
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 22108"
-generated_at: "2026-03-29T18:27:16.514Z"
+generated_at: "2026-03-29T19:32:28.802Z"
 ---
 
 # [§ 22108. Repealed. Pub. L. 114–94, div. A, title XI , § 11301(c)(4), Dec. 4, 2015 , 129 Stat. 1648 ]

@@ -5,7 +5,7 @@ usc_section: "4831"
 chapter: 453
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4831"
-generated_at: "2026-03-29T18:23:52.038Z"
+generated_at: "2026-03-29T19:27:25.672Z"
 ---
 
 # § 4831. Custody of departmental records and property

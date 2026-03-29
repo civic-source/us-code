@@ -5,7 +5,7 @@ usc_section: "4721"
 chapter: 446
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4721"
-generated_at: "2026-03-29T18:23:52.036Z"
+generated_at: "2026-03-29T19:27:25.670Z"
 ---
 
 # § 4721. Authority and responsibilities of the Secretary of the Army

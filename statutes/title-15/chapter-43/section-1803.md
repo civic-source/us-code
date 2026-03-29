@@ -5,7 +5,7 @@ usc_section: "1803"
 chapter: 43
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1803"
-generated_at: "2026-03-29T18:24:08.510Z"
+generated_at: "2026-03-29T19:27:55.477Z"
 ---
 
 # § 1803. Antitrust exemptions

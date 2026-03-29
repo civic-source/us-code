@@ -5,7 +5,7 @@ usc_section: "1681a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1681a"
-generated_at: "2026-03-29T18:24:16.131Z"
+generated_at: "2026-03-29T19:28:30.702Z"
 ---
 
 # § 1681a. Requirements for entry of certain cigarettes and smokeless tobacco products

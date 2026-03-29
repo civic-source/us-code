@@ -5,7 +5,7 @@ usc_section: "294"
 chapter: 10
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 294"
-generated_at: "2026-03-29T18:23:14.067Z"
+generated_at: "2026-03-29T19:27:07.515Z"
 ---
 
 # § 294. Position standards and descriptions

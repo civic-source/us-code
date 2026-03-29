@@ -5,7 +5,7 @@ usc_section: "1199"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1199"
-generated_at: "2026-03-29T18:26:14.848Z"
+generated_at: "2026-03-29T19:31:49.094Z"
 ---
 
 # § 1199. Provisions to be included in contracts for condemnation of Sioux lands for dam purposes

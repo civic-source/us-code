@@ -5,7 +5,7 @@ usc_section: "542"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 542"
-generated_at: "2026-03-29T18:25:53.617Z"
+generated_at: "2026-03-29T19:30:19.882Z"
 ---
 
 # § 542. Definition of personal holding company

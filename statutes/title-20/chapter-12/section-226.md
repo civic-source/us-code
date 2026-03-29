@@ -5,7 +5,7 @@ usc_section: "226"
 chapter: 12
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 226"
-generated_at: "2026-03-29T18:24:40.877Z"
+generated_at: "2026-03-29T19:28:42.933Z"
 ---
 
 # § 226. Cooperative public and private sector program for providing scholarships to students from the Caribbean and Central America

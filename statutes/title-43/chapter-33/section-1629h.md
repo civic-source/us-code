@@ -5,7 +5,7 @@ usc_section: "1629h"
 chapter: 33
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1629h"
-generated_at: "2026-03-29T18:26:14.886Z"
+generated_at: "2026-03-29T19:31:49.134Z"
 ---
 
 # § 1629h. Kake Tribal Corporation land transfer

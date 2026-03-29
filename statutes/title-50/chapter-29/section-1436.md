@@ -5,7 +5,7 @@ usc_section: "1436"
 chapter: 29
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1436"
-generated_at: "2026-03-29T18:27:35.598Z"
+generated_at: "2026-03-29T19:32:24.102Z"
 ---
 
 # § 1436. Repealed. Pub. L. 97–295 , § 6(b), Oct. 12, 1982 , 96 Stat. 1314

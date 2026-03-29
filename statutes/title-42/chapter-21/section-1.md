@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T18:27:03.414Z"
+generated_at: "2026-03-29T19:31:44.999Z"
 ---
 
 # § 2000h–1. Double jeopardy; specific crimes and criminal contempts

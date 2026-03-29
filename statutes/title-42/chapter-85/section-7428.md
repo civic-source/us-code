@@ -5,7 +5,7 @@ usc_section: "7428"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7428"
-generated_at: "2026-03-29T18:27:03.800Z"
+generated_at: "2026-03-29T19:31:45.386Z"
 ---
 
 # § 7428. State boards

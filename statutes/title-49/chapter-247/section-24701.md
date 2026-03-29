@@ -5,7 +5,7 @@ usc_section: "24701"
 chapter: 247
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 24701"
-generated_at: "2026-03-29T18:27:16.523Z"
+generated_at: "2026-03-29T19:32:28.811Z"
 ---
 
 # § 24701. National rail passenger transportation system

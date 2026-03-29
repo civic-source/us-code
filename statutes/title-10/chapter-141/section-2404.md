@@ -5,7 +5,7 @@ usc_section: "2404"
 chapter: 141
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2404"
-generated_at: "2026-03-29T18:23:51.945Z"
+generated_at: "2026-03-29T19:27:25.602Z"
 ---
 
 # [§ 2404. Renumbered § 2922e]

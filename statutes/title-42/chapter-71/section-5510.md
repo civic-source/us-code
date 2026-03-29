@@ -5,7 +5,7 @@ usc_section: "5510"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5510"
-generated_at: "2026-03-29T18:27:03.646Z"
+generated_at: "2026-03-29T19:31:45.231Z"
 ---
 
 # § 5510. Dissemination of information to promote practical use of solar heating and cooling technologies

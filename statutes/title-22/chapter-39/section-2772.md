@@ -5,7 +5,7 @@ usc_section: "2772"
 chapter: 39
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2772"
-generated_at: "2026-03-29T18:24:54.262Z"
+generated_at: "2026-03-29T19:29:46.816Z"
 ---
 
 # § 2772. Repealed. Pub. L. 102–429, title I , § 112(e), Oct. 21, 1992 , 106 Stat. 2195

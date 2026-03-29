@@ -5,7 +5,7 @@ usc_section: "3537"
 chapter: 44
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3537"
-generated_at: "2026-03-29T18:27:03.517Z"
+generated_at: "2026-03-29T19:31:45.094Z"
 ---
 
 # § 3537. Separability

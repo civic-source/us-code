@@ -5,7 +5,7 @@ usc_section: "2103"
 chapter: 21
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2103"
-generated_at: "2026-03-29T18:26:07.584Z"
+generated_at: "2026-03-29T19:30:40.500Z"
 ---
 
 # § 2103. Furnishing of plans and specifications

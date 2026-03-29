@@ -5,7 +5,7 @@ usc_section: "679"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 679"
-generated_at: "2026-03-29T18:24:22.685Z"
+generated_at: "2026-03-29T19:29:27.331Z"
 ---
 
 # § 679. Patents to State of South Dakota of certain lands in Custer State Park; reservation of coal, oil, gas, and other mineral rights

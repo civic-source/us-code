@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 1
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 14"
-generated_at: "2026-03-29T18:25:23.657Z"
+generated_at: "2026-03-29T19:29:34.731Z"
 ---
 
 # § 14. Money accruing to Indians from Department of Veterans Affairs or other governmental agencies

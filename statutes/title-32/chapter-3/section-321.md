@@ -5,7 +5,7 @@ usc_section: "321"
 chapter: 3
 current_through: "PL 114-254"
 classification: "32 U.S.C. § 321"
-generated_at: "2026-03-29T18:25:56.427Z"
+generated_at: "2026-03-29T19:30:22.711Z"
 ---
 
 # [§§ 318 to 321. Repealed. Pub. L. 99–661, div. A, title VI , § 604(f)(2)(A), Nov. 14, 1986 , 100 Stat. 3878 ]

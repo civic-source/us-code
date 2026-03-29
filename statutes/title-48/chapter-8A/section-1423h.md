@@ -5,7 +5,7 @@ usc_section: "1423h"
 chapter: 8
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1423h"
-generated_at: "2026-03-29T18:27:11.656Z"
+generated_at: "2026-03-29T19:31:53.954Z"
 ---
 
 # § 1423h. Regular and special sessions

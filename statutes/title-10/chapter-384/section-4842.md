@@ -3,16 +3,16 @@ title: "Section 4842 - Joint Defense Manufacturing Technology Panel"
 usc_title: 10
 usc_section: "4842"
 chapter: 384
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4842"
-generated_at: "2026-03-29T02:10:45.234Z"
+generated_at: "2026-03-29T18:47:53.532Z"
 ---
 
 # § 4842. Joint Defense Manufacturing Technology Panel
 
 - **(a)** There is in the Department of Defense the Joint Defense Manufacturing Technology Panel.
 - **(b)**
-  - **(1)** The Panel shall be cochaired by the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering.
+  - **(1)** The Chair of the Joint Defense Manufacturing Technology Panel shall be the head of the Panel. The Chair shall be appointed, on a rotating basis, from among the appropriate personnel of the military departments and Defense Agencies with manufacturing technology programs.
   - **(2)** The Panel shall be composed of at least one individual from among appropriate personnel of each military department and Defense Agency with manufacturing technology programs. The Panel may include as ex-officio members such individuals from other government organizations, academia, and industry as the Chair considers appropriate.
 - **(c)** The purposes of the Panel shall be as follows:
   - **(1)** To identify and integrate requirements for the program.

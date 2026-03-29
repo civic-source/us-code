@@ -3,14 +3,14 @@ title: "Section 2734c - Employee assignment restrictions"
 usc_title: 22
 usc_section: "2734c"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2734c"
-generated_at: "2026-03-29T02:12:40.251Z"
+generated_at: "2026-03-29T18:44:49.367Z"
 ---
 
 # § 2734c. Employee assignment restrictions
 
-- **(a)** The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
+- **(a)** The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
 - **(b)** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee 1 1 So in original. Probably should be “committees”. a report that—
   - **(1)** certifies that such process has been fully implemented;
   - **(2)** includes a detailed description of such process; and

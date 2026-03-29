@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 22
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 2004"
-generated_at: "2026-03-29T18:25:43.127Z"
+generated_at: "2026-03-29T19:30:07.629Z"
 ---
 
 # § 2004. Authority of Secretary

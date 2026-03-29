@@ -5,7 +5,7 @@ usc_section: "1414"
 chapter: 71
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1414"
-generated_at: "2026-03-29T18:23:51.819Z"
+generated_at: "2026-03-29T19:27:25.529Z"
 ---
 
 # § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans’ disability compensation

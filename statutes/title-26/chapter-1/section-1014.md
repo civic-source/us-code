@@ -5,7 +5,7 @@ usc_section: "1014"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1014"
-generated_at: "2026-03-29T18:25:53.707Z"
+generated_at: "2026-03-29T19:30:19.959Z"
 ---
 
 # § 1014. Basis of property acquired from a decedent

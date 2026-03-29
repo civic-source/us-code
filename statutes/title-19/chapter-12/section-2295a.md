@@ -5,7 +5,7 @@ usc_section: "2295a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2295a"
-generated_at: "2026-03-29T18:24:16.153Z"
+generated_at: "2026-03-29T19:28:30.725Z"
 ---
 
 # § 2295a. Limitations on administrative expenses and employment and case management services

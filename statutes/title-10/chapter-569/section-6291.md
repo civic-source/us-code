@@ -5,7 +5,7 @@ usc_section: "6291"
 chapter: 569
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6291"
-generated_at: "2026-03-29T18:23:52.053Z"
+generated_at: "2026-03-29T19:27:25.681Z"
 ---
 
 # [§ 6291. Repealed. Pub. L. 90–235 , § 3(b)(1), Jan. 2, 1968 , 81 Stat. 758 ]

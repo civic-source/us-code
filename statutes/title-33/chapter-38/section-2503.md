@@ -5,7 +5,7 @@ usc_section: "2503"
 chapter: 38
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2503"
-generated_at: "2026-03-29T18:26:01.307Z"
+generated_at: "2026-03-29T19:30:28.860Z"
 ---
 
 # § 2503. Prohibition

@@ -5,7 +5,7 @@ usc_section: "1666j"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1666j"
-generated_at: "2026-03-29T18:24:08.478Z"
+generated_at: "2026-03-29T19:27:55.451Z"
 ---
 
 # § 1666j. Applicability of State laws

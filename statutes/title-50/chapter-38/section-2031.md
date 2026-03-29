@@ -5,7 +5,7 @@ usc_section: "2031"
 chapter: 38
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2031"
-generated_at: "2026-03-29T18:27:35.624Z"
+generated_at: "2026-03-29T19:32:24.125Z"
 ---
 
 # § 2031. Computation of annuities

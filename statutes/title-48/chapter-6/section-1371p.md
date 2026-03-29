@@ -5,7 +5,7 @@ usc_section: "1371p"
 chapter: 6
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1371p"
-generated_at: "2026-03-29T18:27:11.648Z"
+generated_at: "2026-03-29T19:31:53.946Z"
 ---
 
 # §§ 1371c to 1371p. Repealed. July 21, 1949, ch. 356 , § 1(b), 63 Stat. 475

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-29T18:24:02.980Z"
+generated_at: "2026-03-29T19:28:17.753Z"
 ---
 
 # § 2279bb–1. Risk-based capital levels

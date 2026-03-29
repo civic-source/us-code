@@ -5,7 +5,7 @@ usc_section: "8422"
 chapter: 84
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 8422"
-generated_at: "2026-03-29T18:23:29.957Z"
+generated_at: "2026-03-29T19:27:05.369Z"
 ---
 
 # § 8422. Deductions from pay; contributions for other service; deposits

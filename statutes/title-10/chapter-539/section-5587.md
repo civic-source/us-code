@@ -5,7 +5,7 @@ usc_section: "5587"
 chapter: 539
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5587"
-generated_at: "2026-03-29T18:23:52.047Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # § 5587. Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty

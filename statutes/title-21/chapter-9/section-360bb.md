@@ -5,7 +5,7 @@ usc_section: "360bb"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 360bb"
-generated_at: "2026-03-29T18:25:04.143Z"
+generated_at: "2026-03-29T19:29:50.393Z"
 ---
 
 # § 360bb. Designation of drugs for rare diseases or conditions

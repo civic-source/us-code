@@ -5,7 +5,7 @@ usc_section: "883"
 chapter: 13
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 883"
-generated_at: "2026-03-29T18:25:04.227Z"
+generated_at: "2026-03-29T19:29:50.486Z"
 ---
 
 # § 883. Enforcement proceedings

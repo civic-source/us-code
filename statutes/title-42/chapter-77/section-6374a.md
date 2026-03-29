@@ -5,7 +5,7 @@ usc_section: "6374a"
 chapter: 77
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6374a"
-generated_at: "2026-03-29T18:27:03.713Z"
+generated_at: "2026-03-29T19:31:45.299Z"
 ---
 
 # § 6374a. Alternative fuels truck commercial application program

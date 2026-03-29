@@ -5,7 +5,7 @@ usc_section: "10606"
 chapter: 112
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10606"
-generated_at: "2026-03-29T18:27:03.996Z"
+generated_at: "2026-03-29T19:31:45.591Z"
 ---
 
 # § 10606. Repealed. Pub. L. 108–405, title I , § 102(c), Oct. 30, 2004 , 118 Stat. 2264

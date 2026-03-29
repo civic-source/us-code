@@ -5,7 +5,7 @@ usc_section: "3045"
 chapter: 31
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3045"
-generated_at: "2026-03-29T18:24:02.995Z"
+generated_at: "2026-03-29T19:28:17.767Z"
 ---
 
 # § 3045. Investigations and surveys respecting new services, etc., by cooperative not-for-profit organizations

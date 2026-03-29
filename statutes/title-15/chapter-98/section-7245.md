@@ -5,7 +5,7 @@ usc_section: "7245"
 chapter: 98
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7245"
-generated_at: "2026-03-29T18:24:08.652Z"
+generated_at: "2026-03-29T19:27:55.603Z"
 ---
 
 # § 7245. Rules of professional responsibility for attorneys

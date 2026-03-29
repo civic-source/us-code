@@ -5,7 +5,7 @@ usc_section: "24903"
 chapter: 249
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 24903"
-generated_at: "2026-03-29T18:27:16.525Z"
+generated_at: "2026-03-29T19:32:28.812Z"
 ---
 
 # § 24903. General authority

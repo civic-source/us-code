@@ -5,7 +5,7 @@ usc_section: "10151"
 chapter: 108
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10151"
-generated_at: "2026-03-29T18:27:03.972Z"
+generated_at: "2026-03-29T19:31:45.568Z"
 ---
 
 # § 10151. Findings and purposes

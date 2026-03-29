@@ -5,7 +5,7 @@ usc_section: "3704"
 chapter: 37
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 3704"
-generated_at: "2026-03-29T18:23:29.882Z"
+generated_at: "2026-03-29T19:27:05.264Z"
 ---
 
 # § 3704. Assignment of employees from private sector organizations

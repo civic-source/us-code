@@ -3,9 +3,9 @@ title: "Section 903b - Art. 103b. Aiding the enemy"
 usc_title: 10
 usc_section: "903b"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 903b"
-generated_at: "2026-03-29T02:10:44.924Z"
+generated_at: "2026-03-29T18:47:53.298Z"
 ---
 
 # § 903b. Art. 103b. Aiding the enemy
@@ -13,4 +13,4 @@ generated_at: "2026-03-29T02:10:44.924Z"
 Any person who—
 
   - **(1)** aids, or attempts to aid, the enemy with arms, ammunition, supplies, money, or other things; or
-  - **(2)** without proper authority, knowingly harbors or protects or gives intelligence to, provides military education, military training, or tactical advice to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;
+  - **(2)** without proper authority, knowingly harbors or protects or gives intelligence to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;

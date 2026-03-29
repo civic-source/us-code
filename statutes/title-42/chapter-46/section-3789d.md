@@ -5,7 +5,7 @@ usc_section: "3789d"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3789d"
-generated_at: "2026-03-29T18:27:03.532Z"
+generated_at: "2026-03-29T19:31:45.111Z"
 ---
 
 # § 3789d. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination

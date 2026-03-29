@@ -5,7 +5,7 @@ usc_section: "8572"
 chapter: 845
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8572"
-generated_at: "2026-03-29T18:23:52.086Z"
+generated_at: "2026-03-29T19:27:25.707Z"
 ---
 
 # § 8572. Rank: commissioned officers serving under temporary appointments

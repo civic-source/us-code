@@ -5,7 +5,7 @@ usc_section: "1580"
 chapter: 32
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1580"
-generated_at: "2026-03-29T18:26:14.871Z"
+generated_at: "2026-03-29T19:31:49.117Z"
 ---
 
 # § 1580. Definitions

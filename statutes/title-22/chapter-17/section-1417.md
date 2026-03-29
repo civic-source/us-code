@@ -5,7 +5,7 @@ usc_section: "1417"
 chapter: 17
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1417"
-generated_at: "2026-03-29T18:24:54.147Z"
+generated_at: "2026-03-29T19:29:46.699Z"
 ---
 
 # §§ 1411 to 1417. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(2), (3), 68 Stat. 861

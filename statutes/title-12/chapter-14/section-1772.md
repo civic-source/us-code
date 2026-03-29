@@ -5,7 +5,7 @@ usc_section: "1772"
 chapter: 14
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1772"
-generated_at: "2026-03-29T18:24:02.875Z"
+generated_at: "2026-03-29T19:28:17.639Z"
 ---
 
 # § 1772. Territorial application of chapter

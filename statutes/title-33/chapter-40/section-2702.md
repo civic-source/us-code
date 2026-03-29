@@ -5,7 +5,7 @@ usc_section: "2702"
 chapter: 40
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2702"
-generated_at: "2026-03-29T18:26:01.308Z"
+generated_at: "2026-03-29T19:30:28.862Z"
 ---
 
 # § 2702. Elements of liability

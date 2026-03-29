@@ -5,7 +5,7 @@ usc_section: "284d"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 284d"
-generated_at: "2026-03-29T18:27:02.632Z"
+generated_at: "2026-03-29T19:31:44.270Z"
 ---
 
 # § 284d. Definitions

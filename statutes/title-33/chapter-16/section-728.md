@@ -5,7 +5,7 @@ usc_section: "728"
 chapter: 16
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 728"
-generated_at: "2026-03-29T18:26:01.199Z"
+generated_at: "2026-03-29T19:30:28.743Z"
 ---
 
 # § 728. Sufficiency of cession by State; service of State process in lands ceded

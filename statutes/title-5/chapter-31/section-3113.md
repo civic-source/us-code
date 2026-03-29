@@ -5,7 +5,7 @@ usc_section: "3113"
 chapter: 31
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 3113"
-generated_at: "2026-03-29T18:23:29.871Z"
+generated_at: "2026-03-29T19:27:05.249Z"
 ---
 
 # § 3113. Restriction on reemployment after conviction of certain crimes

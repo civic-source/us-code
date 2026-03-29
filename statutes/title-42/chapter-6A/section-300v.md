@@ -5,7 +5,7 @@ usc_section: "300v"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 300v"
-generated_at: "2026-03-29T18:27:02.766Z"
+generated_at: "2026-03-29T19:31:44.404Z"
 ---
 
 # § 300v. Commission

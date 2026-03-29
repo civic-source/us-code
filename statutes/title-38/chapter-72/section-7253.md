@@ -5,7 +5,7 @@ usc_section: "7253"
 chapter: 72
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7253"
-generated_at: "2026-03-29T18:26:07.649Z"
+generated_at: "2026-03-29T19:30:40.562Z"
 ---
 
 # § 7253. Composition

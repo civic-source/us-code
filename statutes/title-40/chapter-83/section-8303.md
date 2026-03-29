@@ -5,7 +5,7 @@ usc_section: "8303"
 chapter: 83
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 8303"
-generated_at: "2026-03-29T18:26:04.577Z"
+generated_at: "2026-03-29T19:30:36.699Z"
 ---
 
 # § 8303. Declaration of policy of coordinated development and management

@@ -5,7 +5,7 @@ usc_section: "7c"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7c"
-generated_at: "2026-03-29T18:27:02.972Z"
+generated_at: "2026-03-29T19:31:44.579Z"
 ---
 
 # § 1320a–7c. Fraud and abuse control program

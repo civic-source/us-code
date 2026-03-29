@@ -5,7 +5,7 @@ usc_section: "2000a"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2000a"
-generated_at: "2026-03-29T18:27:03.404Z"
+generated_at: "2026-03-29T19:31:44.993Z"
 ---
 
 # § 2000a. Prohibition against discrimination or segregation in places of public accommodation

@@ -5,7 +5,7 @@ usc_section: "1183"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1183"
-generated_at: "2026-03-29T18:25:43.099Z"
+generated_at: "2026-03-29T19:30:07.600Z"
 ---
 
 # § 1183. Guaranteed renewability in multiemployer plans and multiple employer welfare arrangements

@@ -5,7 +5,7 @@ usc_section: "499o"
 chapter: 20
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 499o"
-generated_at: "2026-03-29T18:23:43.207Z"
+generated_at: "2026-03-29T19:27:31.685Z"
 ---
 
 # § 499o. Rules, regulations, and orders; appointment, removal, and compensation of officers and employees; expenditures; authorization of appropriations; abrogation of inconsistent statutes

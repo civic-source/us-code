@@ -5,7 +5,7 @@ usc_section: "2793"
 chapter: 42
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2793"
-generated_at: "2026-03-29T18:27:35.663Z"
+generated_at: "2026-03-29T19:32:24.212Z"
 ---
 
 # § 2793. Report on use of funds for certain research and development purposes

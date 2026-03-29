@@ -5,7 +5,7 @@ usc_section: "842"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 842"
-generated_at: "2026-03-29T18:25:53.652Z"
+generated_at: "2026-03-29T19:30:19.909Z"
 ---
 
 # § 842. Foreign companies carrying on insurance business

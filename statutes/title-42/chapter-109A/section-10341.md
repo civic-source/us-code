@@ -5,7 +5,7 @@ usc_section: "10341"
 chapter: 109
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10341"
-generated_at: "2026-03-29T18:27:03.984Z"
+generated_at: "2026-03-29T19:31:45.580Z"
 ---
 
 # § 10341. Findings

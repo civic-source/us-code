@@ -5,7 +5,7 @@ usc_section: "991"
 chapter: 17
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 991"
-generated_at: "2026-03-29T18:24:22.755Z"
+generated_at: "2026-03-29T19:29:27.415Z"
 ---
 
 # §§ 981 to 991. Repealed. Pub. L. 95–6 , § 4, Feb. 21, 1977 , 91 Stat. 16

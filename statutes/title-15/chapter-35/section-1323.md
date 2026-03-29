@@ -5,7 +5,7 @@ usc_section: "1323"
 chapter: 35
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1323"
-generated_at: "2026-03-29T18:24:08.448Z"
+generated_at: "2026-03-29T19:27:55.422Z"
 ---
 
 # §§ 1321 to 1323. Repealed. Pub. L. 89–563, title I , § 117(a), Sept. 9, 1966 , 80 Stat. 727

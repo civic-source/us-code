@@ -5,7 +5,7 @@ usc_section: "488"
 chapter: 8
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 488"
-generated_at: "2026-03-29T18:26:10.152Z"
+generated_at: "2026-03-29T19:30:34.114Z"
 ---
 
 # § 488. Allowance for recruiting expenses

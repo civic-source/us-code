@@ -5,7 +5,7 @@ usc_section: "386"
 chapter: 12
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 386"
-generated_at: "2026-03-29T18:23:14.071Z"
+generated_at: "2026-03-29T19:27:07.518Z"
 ---
 
 # § 386. Deposition

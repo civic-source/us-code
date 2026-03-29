@@ -5,7 +5,7 @@ usc_section: "4132"
 chapter: 41
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 4132"
-generated_at: "2026-03-29T18:23:14.148Z"
+generated_at: "2026-03-29T19:27:07.586Z"
 ---
 
 # § 4132. Senate Recording Studio and Senate Photographic Studio as successors to Senate Recording and Photographic Studios; rules, regulations, and fees for photographs and photographic services

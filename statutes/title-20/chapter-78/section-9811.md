@@ -5,7 +5,7 @@ usc_section: "9811"
 chapter: 78
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 9811"
-generated_at: "2026-03-29T18:24:41.192Z"
+generated_at: "2026-03-29T19:28:43.255Z"
 ---
 
 # § 9811. Purpose

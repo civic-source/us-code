@@ -5,7 +5,7 @@ usc_section: "6567"
 chapter: 65
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 6567"
-generated_at: "2026-03-29T18:23:14.172Z"
+generated_at: "2026-03-29T19:27:07.607Z"
 ---
 
 # § 6567. Funds for Secretary of Senate to assist in proper discharge within United States of responsibilities to foreign parliamentary groups or other foreign officials

@@ -5,7 +5,7 @@ usc_section: "47107"
 chapter: 471
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 47107"
-generated_at: "2026-03-29T18:27:16.624Z"
+generated_at: "2026-03-29T19:32:28.898Z"
 ---
 
 # § 47107. Project grant application approval conditioned on assurances about airport operations

@@ -5,7 +5,7 @@ usc_section: "5641"
 chapter: 87
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5641"
-generated_at: "2026-03-29T18:23:43.451Z"
+generated_at: "2026-03-29T19:27:31.914Z"
 ---
 
 # § 5641. Funding levels

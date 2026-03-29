@@ -5,7 +5,7 @@ usc_section: "415"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 415"
-generated_at: "2026-03-29T18:23:35.754Z"
+generated_at: "2026-03-29T19:27:39.852Z"
 ---
 
 # § 415. Homeland Security Education Program

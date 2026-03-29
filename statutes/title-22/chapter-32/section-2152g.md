@@ -5,7 +5,7 @@ usc_section: "2152g"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2152g"
-generated_at: "2026-03-29T18:24:54.182Z"
+generated_at: "2026-03-29T19:29:46.740Z"
 ---
 
 # § 2152g. Annual report

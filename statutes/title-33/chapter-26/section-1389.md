@@ -3,9 +3,9 @@ title: "Section 1389 - Clean watersheds needs survey"
 usc_title: 33
 usc_section: "1389"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "33 U.S.C. § 1389"
-generated_at: "2026-03-29T02:14:18.584Z"
+generated_at: "2026-03-29T18:45:43.456Z"
 ---
 
 # § 1389. Clean watersheds needs survey

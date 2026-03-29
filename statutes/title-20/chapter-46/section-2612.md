@@ -5,7 +5,7 @@ usc_section: "2612"
 chapter: 46
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 2612"
-generated_at: "2026-03-29T18:24:41.079Z"
+generated_at: "2026-03-29T19:28:43.124Z"
 ---
 
 # §§ 2601 to 2612. Repealed. Pub. L. 97–35, title V , § 587(a)(4), Aug. 13, 1981 , 95 Stat. 480

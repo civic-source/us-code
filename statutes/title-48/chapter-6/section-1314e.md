@@ -5,7 +5,7 @@ usc_section: "1314e"
 chapter: 6
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1314e"
-generated_at: "2026-03-29T18:27:11.647Z"
+generated_at: "2026-03-29T19:31:53.946Z"
 ---
 
 # §§ 1314b to 1314e. Repealed. Aug. 10, 1949, ch. 415 , § 9(d), 63 Stat. 597

@@ -5,7 +5,7 @@ usc_section: "2610"
 chapter: 27
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2610"
-generated_at: "2026-03-29T18:24:02.986Z"
+generated_at: "2026-03-29T19:28:17.760Z"
 ---
 
 # § 2610. Prohibition of fees for preparation of truth-in-lending, uniform settlement, and escrow account statements

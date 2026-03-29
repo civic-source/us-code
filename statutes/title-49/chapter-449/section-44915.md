@@ -5,7 +5,7 @@ usc_section: "44915"
 chapter: 449
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 44915"
-generated_at: "2026-03-29T18:27:16.610Z"
+generated_at: "2026-03-29T19:32:28.886Z"
 ---
 
 # § 44915. Exemptions

@@ -5,7 +5,7 @@ usc_section: "817"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 817"
-generated_at: "2026-03-29T18:24:22.714Z"
+generated_at: "2026-03-29T19:29:27.367Z"
 ---
 
 # § 817. Projects not affecting navigable waters; necessity for Federal license, permit or right-of-way; unauthorized activities

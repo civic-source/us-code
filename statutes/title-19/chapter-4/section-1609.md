@@ -5,7 +5,7 @@ usc_section: "1609"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1609"
-generated_at: "2026-03-29T18:24:16.106Z"
+generated_at: "2026-03-29T19:28:30.679Z"
 ---
 
 # § 1609. Seizure; summary forfeiture and sale

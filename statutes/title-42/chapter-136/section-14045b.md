@@ -5,7 +5,7 @@ usc_section: "14045b"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14045b"
-generated_at: "2026-03-29T18:27:04.154Z"
+generated_at: "2026-03-29T19:31:45.762Z"
 ---
 
 # § 14045b. Grants to combat violent crimes on campuses

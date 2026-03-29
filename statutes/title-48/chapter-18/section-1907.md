@@ -5,7 +5,7 @@ usc_section: "1907"
 chapter: 18
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1907"
-generated_at: "2026-03-29T18:27:11.684Z"
+generated_at: "2026-03-29T19:31:53.974Z"
 ---
 
 # § 1907. Limitations

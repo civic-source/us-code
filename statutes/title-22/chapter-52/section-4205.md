@@ -5,7 +5,7 @@ usc_section: "4205"
 chapter: 52
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4205"
-generated_at: "2026-03-29T18:24:54.315Z"
+generated_at: "2026-03-29T19:29:46.872Z"
 ---
 
 # § 4205. Retention of papers of American vessels until payment of demands and wages

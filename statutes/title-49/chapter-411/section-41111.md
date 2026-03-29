@@ -5,7 +5,7 @@ usc_section: "41111"
 chapter: 411
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 41111"
-generated_at: "2026-03-29T18:27:16.580Z"
+generated_at: "2026-03-29T19:32:28.862Z"
 ---
 
 # § 41111. Simplified procedure to apply for, amend, modify, suspend, and transfer certificates

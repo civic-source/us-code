@@ -5,7 +5,7 @@ usc_section: "4625"
 chapter: 439
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4625"
-generated_at: "2026-03-29T18:23:52.035Z"
+generated_at: "2026-03-29T19:27:25.669Z"
 ---
 
 # § 4625. Ordnance property: officers of armed forces; civilian employees of Army; American National Red Cross; educational institutions; homes for veterans’ orphans

@@ -5,7 +5,7 @@ usc_section: "1644"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1644"
-generated_at: "2026-03-29T18:24:16.110Z"
+generated_at: "2026-03-29T19:28:30.683Z"
 ---
 
 # § 1644. Application of section 1644a(b)(1) of this title and section 1518(d) of title 33

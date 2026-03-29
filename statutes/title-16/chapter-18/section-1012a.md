@@ -3,12 +3,12 @@ title: "Section 1012a - Funding"
 usc_title: 16
 usc_section: "1012a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 1012a"
-generated_at: "2026-03-29T02:11:53.731Z"
+generated_at: "2026-03-29T18:49:44.198Z"
 ---
 
 # § 1012a. Funding
 
-In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $150,000,000 for fiscal year 2026 and each fiscal year thereafter, to remain available until expended.
+In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $50,000,000 for fiscal year 2019 and each fiscal year thereafter.
 

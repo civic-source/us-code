@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 32"
-generated_at: "2026-03-29T18:24:22.582Z"
+generated_at: "2026-03-29T19:29:27.218Z"
 ---
 
 # § 460uu–32. Management; provisions applicable

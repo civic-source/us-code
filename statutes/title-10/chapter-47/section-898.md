@@ -5,7 +5,7 @@ usc_section: "898"
 chapter: 47
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 898"
-generated_at: "2026-03-29T18:23:51.767Z"
+generated_at: "2026-03-29T19:27:25.476Z"
 ---
 
 # § 898. Art. 98. Noncompliance with procedural rules

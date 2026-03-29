@@ -5,7 +5,7 @@ usc_section: "3023"
 chapter: 35
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3023"
-generated_at: "2026-03-29T18:27:03.483Z"
+generated_at: "2026-03-29T19:31:45.066Z"
 ---
 
 # § 3023. Authorization of appropriations; uses of funds

@@ -5,7 +5,7 @@ usc_section: "2302"
 chapter: 24
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2302"
-generated_at: "2026-03-29T18:27:03.462Z"
+generated_at: "2026-03-29T19:31:45.045Z"
 ---
 
 # § 2302. Congressional findings

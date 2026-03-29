@@ -5,7 +5,7 @@ usc_section: "2909"
 chapter: 42
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2909"
-generated_at: "2026-03-29T18:26:01.321Z"
+generated_at: "2026-03-29T19:30:28.878Z"
 ---
 
 # § 2909. General provisions

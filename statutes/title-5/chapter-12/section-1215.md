@@ -5,7 +5,7 @@ usc_section: "1215"
 chapter: 12
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 1215"
-generated_at: "2026-03-29T18:23:29.864Z"
+generated_at: "2026-03-29T19:27:05.237Z"
 ---
 
 # § 1215. Disciplinary action

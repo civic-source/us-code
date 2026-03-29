@@ -5,7 +5,7 @@ usc_section: "7208"
 chapter: 631
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7208"
-generated_at: "2026-03-29T18:23:52.063Z"
+generated_at: "2026-03-29T19:27:25.691Z"
 ---
 
 # [§ 7208. Repealed. Pub. L. 98–525, title XIV , § 1401(d)(3)(A), Oct. 19, 1984 , 98 Stat. 2616 ]

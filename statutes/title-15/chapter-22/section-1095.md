@@ -5,7 +5,7 @@ usc_section: "1095"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1095"
-generated_at: "2026-03-29T18:24:08.430Z"
+generated_at: "2026-03-29T19:27:55.404Z"
 ---
 
 # § 1095. Registration on principal register not precluded

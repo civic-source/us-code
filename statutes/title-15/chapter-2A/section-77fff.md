@@ -5,7 +5,7 @@ usc_section: "77fff"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 77fff"
-generated_at: "2026-03-29T18:24:08.227Z"
+generated_at: "2026-03-29T19:27:55.082Z"
 ---
 
 # § 77fff. Securities not registered under Securities Act

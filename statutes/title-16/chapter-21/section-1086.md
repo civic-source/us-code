@@ -5,7 +5,7 @@ usc_section: "1086"
 chapter: 21
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1086"
-generated_at: "2026-03-29T18:24:22.758Z"
+generated_at: "2026-03-29T19:29:27.419Z"
 ---
 
 # §§ 1081 to 1086. Repealed. Pub. L. 94–265, title IV , § 402(b), Apr. 13, 1976 , 90 Stat. 360

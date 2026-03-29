@@ -5,7 +5,7 @@ usc_section: "120109"
 chapter: 1201
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 120109"
-generated_at: "2026-03-29T18:26:09.287Z"
+generated_at: "2026-03-29T19:30:42.075Z"
 ---
 
 # § 120109. Service of process

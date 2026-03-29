@@ -5,7 +5,7 @@ usc_section: "47138"
 chapter: 471
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 47138"
-generated_at: "2026-03-29T18:27:16.633Z"
+generated_at: "2026-03-29T19:32:28.905Z"
 ---
 
 # § 47138. Pilot program for purchase of airport development rights

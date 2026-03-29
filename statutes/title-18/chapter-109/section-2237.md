@@ -5,7 +5,7 @@ usc_section: "2237"
 chapter: 109
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2237"
-generated_at: "2026-03-29T18:24:43.834Z"
+generated_at: "2026-03-29T19:28:33.854Z"
 ---
 
 # § 2237. Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information

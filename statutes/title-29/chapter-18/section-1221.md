@@ -5,7 +5,7 @@ usc_section: "1221"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1221"
-generated_at: "2026-03-29T18:25:43.102Z"
+generated_at: "2026-03-29T19:30:07.603Z"
 ---
 
 # § 1221. Establishment

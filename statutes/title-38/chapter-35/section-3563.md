@@ -5,7 +5,7 @@ usc_section: "3563"
 chapter: 35
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3563"
-generated_at: "2026-03-29T18:26:07.609Z"
+generated_at: "2026-03-29T19:30:40.524Z"
 ---
 
 # § 3563. Notification of eligibility

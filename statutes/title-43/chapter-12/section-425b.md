@@ -5,7 +5,7 @@ usc_section: "425b"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 425b"
-generated_at: "2026-03-29T18:26:14.803Z"
+generated_at: "2026-03-29T19:31:49.050Z"
 ---
 
 # § 425b. Receipt of project water by lessees of irrigable lands owned by States, etc.; time limitation; applicability of acreage limitations

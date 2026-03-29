@@ -5,7 +5,7 @@ usc_section: "1824a"
 chapter: 28
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1824a"
-generated_at: "2026-03-29T18:23:14.124Z"
+generated_at: "2026-03-29T19:27:07.565Z"
 ---
 
 # § 1824a. Recyclable materials

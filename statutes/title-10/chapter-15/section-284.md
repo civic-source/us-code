@@ -3,9 +3,9 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-29T02:10:44.850Z"
+generated_at: "2026-03-29T18:47:53.234Z"
 ---
 
 # § 284. Support for counterdrug activities and activities to counter transnational organized crime
@@ -30,7 +30,7 @@ generated_at: "2026-03-29T02:10:44.850Z"
     - **(B)** surface traffic outside the geographic boundary of the United States and within the United States not to exceed 25 miles of the boundary if the initial detection occurred outside of the boundary.
   - **(7)** Construction of roads and fences and installation of lighting to block drug smuggling corridors across international boundaries of the United States.
   - **(8)** Establishment of command, control, communications, and computer networks for improved integration of law enforcement, active military, and National Guard activities.
-  - **(9)** The provision of linguist, intelligence analysis, and planning services.
+  - **(9)** The provision of linguist and intelligence analysis services.
   - **(10)** Aerial and ground reconnaissance.
 - **(c)**
   - **(1)** The purposes for which the Secretary may provide support under subsection (a) for foreign law enforcement agencies are the following:
@@ -72,22 +72,17 @@ generated_at: "2026-03-29T02:10:44.850Z"
   - **(3)**
     - **(A)** Not less frequently than once each quarter, the Secretary shall submit to the appropriate committees of Congress a report on Department of Defense support provided under subsection (b) during the quarter preceding the quarter during which the report is submitted. Each such report shall be submitted in written and electronic form and shall include—
       - **(i)** an identification of each recipient of such support;
-      - **(ii)** a description of the support provided and anticipated duration of such support;
+      - **(ii)** a description of the support provided and anticipated duration of such support; and
       - **(iii)** a description of the sources and amounts of funds used to provide such support;
-      - **(iv)** a description of the arrangements, if any, for the sustainment of the support, project, or purpose and the source of funds to support sustainment of the capabilities and performance outcomes achieved using such support, if applicable;
-      - **(v)** a description of the objectives for the support, project, or purpose; and
-      - **(vi)** information, including the amount, type, and purpose, about the support provided to the agency during the fiscal year for which the support is provided with respect to—
-        - **(I)** this section; or
-        - **(II)** counterdrug activities authorized by section 1033 of the National Defense Authorization Act for Fiscal Year 1998 ( Public Law 105–85 ; 111 Stat. 1811 ).
     - **(B)** Notwithstanding subsection (i)(1), for purposes of a report under this paragraph, the appropriate committees of Congress are—
-      - **(i)** the congressional defense committees; and
+      - **(i)** the Committees on Armed Services of the Senate and House of Representatives; and
       - **(ii)** any committee with jurisdiction over the department or agency that receives support covered by the report.
 - **(i)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Affairs of the House of Representatives; and
     - **(B)** the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate.
   - **(2)** The term “Indian tribe” means a Federally recognized Indian tribe.
-  - **(3)** The term “small scale construction” means construction at a cost not to exceed $1,000,000 for any project.
+  - **(3)** The term “small scale construction” means construction at a cost not to exceed $750,000 for any project.
   - **(4)** The term “tribal government” means the governing body of an Indian tribe, the status of whose land is “Indian country” as defined in section 1151 of title 18 or held in trust by the United States for the benefit of the Indian tribe.
   - **(5)** The term “tribal law enforcement agency” means the law enforcement agency of a tribal government.
   - **(6)** The term “transnational organized crime” means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.

@@ -5,7 +5,7 @@ usc_section: "2009"
 chapter: 22
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 2009"
-generated_at: "2026-03-29T18:25:43.128Z"
+generated_at: "2026-03-29T19:30:07.630Z"
 ---
 
 # § 2009. Effect on other law and agreements

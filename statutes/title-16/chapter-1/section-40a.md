@@ -5,7 +5,7 @@ usc_section: "40a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 40a"
-generated_at: "2026-03-29T18:24:22.406Z"
+generated_at: "2026-03-29T19:29:27.013Z"
 ---
 
 # § 40a. Educational facilities for dependents of employees; payments to school districts; limitation on amount

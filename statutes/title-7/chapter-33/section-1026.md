@@ -5,7 +5,7 @@ usc_section: "1026"
 chapter: 33
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1026"
-generated_at: "2026-03-29T18:23:43.235Z"
+generated_at: "2026-03-29T19:27:31.711Z"
 ---
 
 # § 1026. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948

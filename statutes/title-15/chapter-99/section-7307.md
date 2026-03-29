@@ -5,7 +5,7 @@ usc_section: "7307"
 chapter: 99
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7307"
-generated_at: "2026-03-29T18:24:08.654Z"
+generated_at: "2026-03-29T19:27:55.605Z"
 ---
 
 # § 7307. National Construction Safety Team report

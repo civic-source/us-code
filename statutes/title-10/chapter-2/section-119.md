@@ -5,7 +5,7 @@ usc_section: "119"
 chapter: 2
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 119"
-generated_at: "2026-03-29T18:23:51.718Z"
+generated_at: "2026-03-29T19:27:25.419Z"
 ---
 
 # § 119. Special access programs: congressional oversight

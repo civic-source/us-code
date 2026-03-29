@@ -5,7 +5,7 @@ usc_section: "1738"
 chapter: 35
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1738"
-generated_at: "2026-03-29T18:26:14.897Z"
+generated_at: "2026-03-29T19:31:49.147Z"
 ---
 
 # § 1738. Contracts for surveys and resource protection; renewals; funding requirements

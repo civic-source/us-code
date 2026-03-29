@@ -5,7 +5,7 @@ usc_section: "278k"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 278k"
-generated_at: "2026-03-29T18:24:08.331Z"
+generated_at: "2026-03-29T19:27:55.305Z"
 ---
 
 # § 278k. Regional centers for the transfer of manufacturing technology

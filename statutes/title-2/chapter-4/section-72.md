@@ -5,7 +5,7 @@ usc_section: "72"
 chapter: 4
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 72"
-generated_at: "2026-03-29T18:23:14.031Z"
+generated_at: "2026-03-29T19:27:07.492Z"
 ---
 
 # §§ 70 to 72. Omitted

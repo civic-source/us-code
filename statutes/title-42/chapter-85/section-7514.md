@@ -5,7 +5,7 @@ usc_section: "7514"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7514"
-generated_at: "2026-03-29T18:27:03.814Z"
+generated_at: "2026-03-29T19:31:45.401Z"
 ---
 
 # § 7514. Plan submission deadlines

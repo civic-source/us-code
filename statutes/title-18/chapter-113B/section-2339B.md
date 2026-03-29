@@ -5,7 +5,7 @@ usc_section: "2339B"
 chapter: 113
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2339B"
-generated_at: "2026-03-29T18:24:43.848Z"
+generated_at: "2026-03-29T19:28:33.867Z"
 ---
 
 # § 2339B. Providing material support or resources to designated foreign terrorist organizations

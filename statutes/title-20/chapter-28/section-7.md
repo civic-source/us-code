@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 7"
-generated_at: "2026-03-29T18:24:41.023Z"
+generated_at: "2026-03-29T19:28:43.065Z"
 ---
 
 # § 1161i–7. Authorization of appropriations

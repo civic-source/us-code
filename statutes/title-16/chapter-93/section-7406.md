@@ -5,7 +5,7 @@ usc_section: "7406"
 chapter: 93
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 7406"
-generated_at: "2026-03-29T18:24:22.947Z"
+generated_at: "2026-03-29T19:29:27.634Z"
 ---
 
 # § 7406. Prohibited acts

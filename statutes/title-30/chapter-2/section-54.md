@@ -5,7 +5,7 @@ usc_section: "54"
 chapter: 2
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 54"
-generated_at: "2026-03-29T18:25:30.844Z"
+generated_at: "2026-03-29T19:30:05.216Z"
 ---
 
 # § 54. Liability for damages to stock raising and homestead entries by mining activities

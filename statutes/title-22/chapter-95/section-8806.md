@@ -5,7 +5,7 @@ usc_section: "8806"
 chapter: 95
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8806"
-generated_at: "2026-03-29T18:24:54.417Z"
+generated_at: "2026-03-29T19:29:46.995Z"
 ---
 
 # § 8806. Imposition of sanctions with respect to foreign financial institutions that facilitate financial transactions on behalf of specially designated nationals

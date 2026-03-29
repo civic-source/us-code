@@ -3,9 +3,9 @@ title: "Section 410xxx - Ste. Genevieve National Historical Park"
 usc_title: 16
 usc_section: "410xxx"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 410xxx"
-generated_at: "2026-03-29T02:11:53.431Z"
+generated_at: "2026-03-29T18:49:43.819Z"
 ---
 
 # § 410xxx. Ste. Genevieve National Historical Park
@@ -13,29 +13,22 @@ generated_at: "2026-03-29T02:11:53.431Z"
 - **(a)** In this section:
   - **(1)** The term “Historic District” means the Ste. Genevieve Historic District National Historic Landmark, as generally depicted on the Map.
   - **(2)** The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
-  - **(3)** The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/177,464, and dated September 2021.
-  - **(4)** The term “Secretary” means the Secretary of the Interior.
-  - **(5)** The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
-  - **(6)** The term “State” means the State of Missouri.
+  - **(3)** The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/149,942, and dated December 2018.
+  - **(4)** The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+  - **(5)** The term “State” means the State of Missouri.
 - **(b)**
   - **(1)** Subject to paragraph (2), there is established the Ste. Genevieve National Historical Park in the State as a unit of the National Park System to preserve, protect, and interpret for the benefit of present and future generations the themes of French settlement, vernacular architecture, and community form and farming on the frontier associated with Ste. Genevieve.
   - **(2)** The Historical Park shall not be established until the date on which the Secretary determines that—
     - **(A)** sufficient land has been acquired for the Historical Park to constitute a manageable unit; and
     - **(B)** the Secretary has entered into a written agreement providing that land owned by the State, the City of Ste. Genevieve, or other entity within the Historic District shall be managed consistent with the purposes of this section.
 - **(c)** The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
-- **(d)**
-  - **(1)** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
-  - **(2)** The Secretary may correct any clerical or typographical errors in the Map.
+- **(d)** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 - **(e)**
   - **(1)** The Secretary may acquire any land or interest in land located within the boundary of the Historical Park or any nationally significant property identified in the special resource study within the Historic District by—
     - **(A)** donation;
     - **(B)** purchase with donated or appropriated funds; or
     - **(C)** exchange.
   - **(2)** On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
-  - **(3)** The Secretary—
-    - **(A)** may acquire, by donation, the land (including any improvements to the land) owned by the city of Ste. Genevieve, Missouri, and used as the visitor center for the Historical Park, as generally depicted on the Map as “Proposed Boundary Addition”; and
-    - **(B)** on acquisition of the land described in subparagraph (A), shall revise the boundary of the Historical Park to include the acquired land.
-  - **(4)** The Secretary may acquire, by purchase from a willing seller or by donation, not more than 20 acres of land in the vicinity of the Historical Park for administrative facilities for the Historical Park.
 - **(f)**
   - **(1)** The Secretary shall administer the Historical Park in accordance with—
     - **(A)** this section; and

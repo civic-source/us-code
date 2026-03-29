@@ -5,7 +5,7 @@ usc_section: "90c"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 90c"
-generated_at: "2026-03-29T18:24:22.417Z"
+generated_at: "2026-03-29T19:29:27.031Z"
 ---
 
 # § 90c. Administration

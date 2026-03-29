@@ -5,7 +5,7 @@ usc_section: "17509"
 chapter: 175
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 17509"
-generated_at: "2026-03-29T18:26:04.594Z"
+generated_at: "2026-03-29T19:30:36.715Z"
 ---
 
 # § 17509. Applicability

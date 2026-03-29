@@ -3,9 +3,9 @@ title: "Section 2715 - Testing for perfluoroalkyl substances and polyfluoroalkyl
 usc_title: 10
 usc_section: "2715"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 2715"
-generated_at: "2026-03-29T02:10:45.139Z"
+generated_at: "2026-03-29T18:47:53.465Z"
 ---
 
 # § 2715. Testing for perfluoroalkyl substances and polyfluoroalkyl substances at military installations and facilities of the National Guard

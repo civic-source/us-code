@@ -5,7 +5,7 @@ usc_section: "9705"
 chapter: 97
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 9705"
-generated_at: "2026-03-29T18:25:59.219Z"
+generated_at: "2026-03-29T19:30:24.812Z"
 ---
 
 # § 9705. Department of the Treasury Forfeiture Fund

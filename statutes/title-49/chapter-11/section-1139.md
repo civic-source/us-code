@@ -5,7 +5,7 @@ usc_section: "1139"
 chapter: 11
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 1139"
-generated_at: "2026-03-29T18:27:16.434Z"
+generated_at: "2026-03-29T19:32:28.730Z"
 ---
 
 # § 1139. Assistance to families of passengers involved in rail passenger accidents

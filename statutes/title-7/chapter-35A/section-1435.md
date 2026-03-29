@@ -5,7 +5,7 @@ usc_section: "1435"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1435"
-generated_at: "2026-03-29T18:23:43.260Z"
+generated_at: "2026-03-29T19:27:31.733Z"
 ---
 
 # § 1435. Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program

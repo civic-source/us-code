@@ -5,7 +5,7 @@ usc_section: "7657"
 chapter: 103
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7657"
-generated_at: "2026-03-29T18:23:43.528Z"
+generated_at: "2026-03-29T19:27:31.999Z"
 ---
 
 # § 7657. Senior Scientific Research Service

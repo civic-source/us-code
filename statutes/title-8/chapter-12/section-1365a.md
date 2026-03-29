@@ -5,7 +5,7 @@ usc_section: "1365a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1365a"
-generated_at: "2026-03-29T18:23:33.968Z"
+generated_at: "2026-03-29T19:27:14.497Z"
 ---
 
 # § 1365a. Integrated entry and exit data system

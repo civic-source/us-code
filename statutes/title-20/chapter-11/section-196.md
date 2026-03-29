@@ -5,7 +5,7 @@ usc_section: "196"
 chapter: 11
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 196"
-generated_at: "2026-03-29T18:24:40.877Z"
+generated_at: "2026-03-29T19:28:42.933Z"
 ---
 
 # § 196. Concessions, fees, and voluntary services

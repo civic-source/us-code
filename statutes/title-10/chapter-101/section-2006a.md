@@ -5,7 +5,7 @@ usc_section: "2006a"
 chapter: 101
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2006a"
-generated_at: "2026-03-29T18:23:51.869Z"
+generated_at: "2026-03-29T19:27:25.556Z"
 ---
 
 # § 2006a. Assistance for education and training: availability of certain assistance for use only for certain programs of education

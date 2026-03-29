@@ -5,7 +5,7 @@ usc_section: "571"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 571"
-generated_at: "2026-03-29T18:24:22.659Z"
+generated_at: "2026-03-29T19:29:27.302Z"
 ---
 
 # § 571. Repealed. Apr. 24, 1950, ch. 97 , § 17(a), 64 Stat. 87

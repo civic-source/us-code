@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 82
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T18:27:03.731Z"
+generated_at: "2026-03-29T19:31:45.318Z"
 ---
 
 # § 6914b–1. Regulation of plastic ring carriers

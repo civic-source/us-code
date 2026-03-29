@@ -5,7 +5,7 @@ usc_section: "6992g"
 chapter: 82
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6992g"
-generated_at: "2026-03-29T18:27:03.757Z"
+generated_at: "2026-03-29T19:31:45.343Z"
 ---
 
 # § 6992g. Repealed. Pub. L. 105–362, title V , § 501(h)(1)(A), Nov. 10, 1998 , 112 Stat. 3284

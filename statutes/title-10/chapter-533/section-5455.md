@@ -5,7 +5,7 @@ usc_section: "5455"
 chapter: 533
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5455"
-generated_at: "2026-03-29T18:23:52.046Z"
+generated_at: "2026-03-29T19:27:25.676Z"
 ---
 
 # [§ 5455. Repealed. Pub. L. 97–22 , § 10(b)(6)(A), July 10, 1981 , 95 Stat. 137 ]

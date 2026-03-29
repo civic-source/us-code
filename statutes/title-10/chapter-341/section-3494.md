@@ -5,7 +5,7 @@ usc_section: "3494"
 chapter: 341
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3494"
-generated_at: "2026-03-29T18:23:52.022Z"
+generated_at: "2026-03-29T19:27:25.657Z"
 ---
 
 # [§ 3494. Repealed. Pub. L. 96–513, title II , § 209(a), Dec. 12, 1980 , 94 Stat. 2884 ]

@@ -5,7 +5,7 @@ usc_section: "151"
 chapter: 1
 current_through: "PL 114-254"
 classification: "23 U.S.C. § 151"
-generated_at: "2026-03-29T18:25:00.186Z"
+generated_at: "2026-03-29T19:29:58.410Z"
 ---
 
 # § 151. National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors

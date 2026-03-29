@@ -5,7 +5,7 @@ usc_section: "311"
 chapter: 3
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 311"
-generated_at: "2026-03-29T18:26:04.551Z"
+generated_at: "2026-03-29T19:30:36.675Z"
 ---
 
 # § 311. Personnel

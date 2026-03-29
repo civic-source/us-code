@@ -5,7 +5,7 @@ usc_section: "4305"
 chapter: 53
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 4305"
-generated_at: "2026-03-29T18:27:35.731Z"
+generated_at: "2026-03-29T19:32:24.284Z"
 ---
 
 # § 4305. Suspension of provisions relating to ally of enemy; regulation of transactions in foreign exchange of gold or silver, property transfers, vested interests, enforcement and penalties

@@ -5,7 +5,7 @@ usc_section: "8209"
 chapter: 831
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8209"
-generated_at: "2026-03-29T18:23:52.084Z"
+generated_at: "2026-03-29T19:27:25.705Z"
 ---
 
 # [§§ 8203 to 8209. Repealed. Pub. L. 96–513, title II , § 202, Dec. 12, 1980 , 94 Stat. 2878 ]

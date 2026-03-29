@@ -5,7 +5,7 @@ usc_section: "410e"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410e"
-generated_at: "2026-03-29T18:24:22.464Z"
+generated_at: "2026-03-29T19:29:27.089Z"
 ---
 
 # § 410e. Acquisition of additional lands; reservation of oil, gas, and mineral rights; reservation of royalty rights

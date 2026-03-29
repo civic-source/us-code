@@ -5,7 +5,7 @@ usc_section: "541f"
 chapter: 2
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 541f"
-generated_at: "2026-03-29T18:24:22.645Z"
+generated_at: "2026-03-29T19:29:27.287Z"
 ---
 
 # § 541f. Withdrawal from location, entry and patent under mining laws; withdrawal from disposition under mineral leasing laws

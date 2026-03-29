@@ -5,7 +5,7 @@ usc_section: "2911"
 chapter: 29
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 2911"
-generated_at: "2026-03-29T18:26:16.122Z"
+generated_at: "2026-03-29T19:30:59.118Z"
 ---
 
 # § 2911. Disclosure requirement for official business conducted using non-official electronic messaging accounts

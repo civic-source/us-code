@@ -5,7 +5,7 @@ usc_section: "220504"
 chapter: 2205
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 220504"
-generated_at: "2026-03-29T18:26:09.308Z"
+generated_at: "2026-03-29T19:30:42.094Z"
 ---
 
 # § 220504. Membership

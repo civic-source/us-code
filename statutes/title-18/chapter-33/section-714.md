@@ -5,7 +5,7 @@ usc_section: "714"
 chapter: 33
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 714"
-generated_at: "2026-03-29T18:24:43.786Z"
+generated_at: "2026-03-29T19:28:33.800Z"
 ---
 
 # [§ 714. Repealed. Pub. L. 97–258 , § 2(d)(1)(B), Sept. 13, 1982 , 96 Stat. 1058 ]

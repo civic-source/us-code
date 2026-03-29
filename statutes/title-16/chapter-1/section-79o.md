@@ -5,7 +5,7 @@ usc_section: "79o"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 79o"
-generated_at: "2026-03-29T18:24:22.413Z"
+generated_at: "2026-03-29T19:29:27.027Z"
 ---
 
 # § 79o. Repealed. Pub. L. 97–258 , § 5(b), Sept. 13, 1982 , 96 Stat. 1068

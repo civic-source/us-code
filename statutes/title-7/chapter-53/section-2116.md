@@ -5,7 +5,7 @@ usc_section: "2116"
 chapter: 53
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2116"
-generated_at: "2026-03-29T18:23:43.380Z"
+generated_at: "2026-03-29T19:27:31.849Z"
 ---
 
 # § 2116. Definitions

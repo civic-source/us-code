@@ -5,7 +5,7 @@ usc_section: "1924"
 chapter: 29
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1924"
-generated_at: "2026-03-29T18:23:14.129Z"
+generated_at: "2026-03-29T19:27:07.570Z"
 ---
 
 # § 1924. Repealed. Pub. L. 111–145 , § 5(a)(2)(A), Mar. 4, 2010 , 124 Stat. 53

@@ -5,7 +5,7 @@ usc_section: "3771"
 chapter: 37
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3771"
-generated_at: "2026-03-29T18:26:07.626Z"
+generated_at: "2026-03-29T19:30:40.540Z"
 ---
 
 # [§ 3771. Repealed. Pub. L. 107–95 , § 5(d)(3), Dec. 21, 2001 , 115 Stat. 918 ]

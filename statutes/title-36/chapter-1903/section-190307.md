@@ -5,7 +5,7 @@ usc_section: "190307"
 chapter: 1903
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 190307"
-generated_at: "2026-03-29T18:26:09.305Z"
+generated_at: "2026-03-29T19:30:42.091Z"
 ---
 
 # § 190307. Exclusive right to name, seals, emblems, and badges

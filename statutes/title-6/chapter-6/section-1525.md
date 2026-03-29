@@ -5,7 +5,7 @@ usc_section: "1525"
 chapter: 6
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 1525"
-generated_at: "2026-03-29T18:23:35.797Z"
+generated_at: "2026-03-29T19:27:39.897Z"
 ---
 
 # § 1525. Termination

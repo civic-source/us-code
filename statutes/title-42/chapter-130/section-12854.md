@@ -5,7 +5,7 @@ usc_section: "12854"
 chapter: 130
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12854"
-generated_at: "2026-03-29T18:27:04.095Z"
+generated_at: "2026-03-29T19:31:45.692Z"
 ---
 
 # § 12854. Definitions

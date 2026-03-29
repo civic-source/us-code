@@ -5,7 +5,7 @@ usc_section: "8108"
 chapter: 81
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 8108"
-generated_at: "2026-03-29T18:26:07.676Z"
+generated_at: "2026-03-29T19:30:40.588Z"
 ---
 
 # § 8108. Contributions to local authorities

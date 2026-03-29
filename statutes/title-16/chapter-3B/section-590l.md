@@ -5,7 +5,7 @@ usc_section: "590l"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 590l"
-generated_at: "2026-03-29T18:24:22.669Z"
+generated_at: "2026-03-29T19:29:27.311Z"
 ---
 
 # § 590l. Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation

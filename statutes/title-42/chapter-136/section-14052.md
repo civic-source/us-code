@@ -5,7 +5,7 @@ usc_section: "14052"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14052"
-generated_at: "2026-03-29T18:27:04.155Z"
+generated_at: "2026-03-29T19:31:45.762Z"
 ---
 
 # § 14052. Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons

@@ -5,7 +5,7 @@ usc_section: "910"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 910"
-generated_at: "2026-03-29T18:23:43.222Z"
+generated_at: "2026-03-29T19:27:31.700Z"
 ---
 
 # § 910. Repealed. Pub. L. 104–127, title VII , § 777, Apr. 4, 1996 , 110 Stat. 1150

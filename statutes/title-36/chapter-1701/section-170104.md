@@ -5,7 +5,7 @@ usc_section: "170104"
 chapter: 1701
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 170104"
-generated_at: "2026-03-29T18:26:09.301Z"
+generated_at: "2026-03-29T19:30:42.089Z"
 ---
 
 # § 170104. Powers

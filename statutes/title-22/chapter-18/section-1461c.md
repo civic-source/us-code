@@ -5,7 +5,7 @@ usc_section: "1461c"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1461c"
-generated_at: "2026-03-29T18:24:54.150Z"
+generated_at: "2026-03-29T19:29:46.703Z"
 ---
 
 # § 1461c. Omitted

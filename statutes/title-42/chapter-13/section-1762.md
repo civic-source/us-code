@@ -5,7 +5,7 @@ usc_section: "1762"
 chapter: 13
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1762"
-generated_at: "2026-03-29T18:27:03.356Z"
+generated_at: "2026-03-29T19:31:44.948Z"
 ---
 
 # § 1762. Repealed. Pub. L. 101–147, title III , § 308, Nov. 10, 1989 , 103 Stat. 915

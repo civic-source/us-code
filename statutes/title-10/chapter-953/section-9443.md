@@ -3,12 +3,13 @@ title: "Section 9443 - Cadets: appointment; to bring to full strength"
 usc_title: 10
 usc_section: "9443"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9443"
-generated_at: "2026-03-29T02:10:45.344Z"
+generated_at: "2026-03-29T18:47:53.594Z"
 ---
 
 # § 9443. Cadets: appointment; to bring to full strength
 
-If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Air Force may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academy Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in paragraphs (2) through (8) of section 9442(a) of this title , and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
+  - **(2)** through
+  - **(8)** of section 9442(a) of this title , and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 

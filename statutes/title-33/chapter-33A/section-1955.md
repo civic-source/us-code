@@ -5,7 +5,7 @@ usc_section: "1955"
 chapter: 33
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1955"
-generated_at: "2026-03-29T18:26:01.280Z"
+generated_at: "2026-03-29T19:30:28.825Z"
 ---
 
 # § 1955. Federal information clearinghouse

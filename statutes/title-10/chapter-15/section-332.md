@@ -5,7 +5,7 @@ usc_section: "332"
 chapter: 15
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-29T18:23:51.735Z"
+generated_at: "2026-03-29T19:27:25.436Z"
 ---
 
 # § 332. Use of militia and armed forces to enforce Federal authority

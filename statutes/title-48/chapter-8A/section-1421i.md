@@ -5,7 +5,7 @@ usc_section: "1421i"
 chapter: 8
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1421i"
-generated_at: "2026-03-29T18:27:11.653Z"
+generated_at: "2026-03-29T19:31:53.950Z"
 ---
 
 # § 1421i. Income tax

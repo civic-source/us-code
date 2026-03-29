@@ -5,7 +5,7 @@ usc_section: "3787"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3787"
-generated_at: "2026-03-29T18:27:03.531Z"
+generated_at: "2026-03-29T19:31:45.110Z"
 ---
 
 # § 3787. Subpoena power; employment of hearing officers; authority to hold hearings

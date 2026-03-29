@@ -5,7 +5,7 @@ usc_section: "528"
 chapter: 32
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 528"
-generated_at: "2026-03-29T18:23:51.745Z"
+generated_at: "2026-03-29T19:27:25.449Z"
 ---
 
 # § 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances

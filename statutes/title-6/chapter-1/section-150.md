@@ -5,7 +5,7 @@ usc_section: "150"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 150"
-generated_at: "2026-03-29T18:23:35.730Z"
+generated_at: "2026-03-29T19:27:39.831Z"
 ---
 
 # § 150. Clearances

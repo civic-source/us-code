@@ -5,7 +5,7 @@ usc_section: "1934"
 chapter: 18
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1934"
-generated_at: "2026-03-29T18:27:11.692Z"
+generated_at: "2026-03-29T19:31:53.982Z"
 ---
 
 # § 1934. Jurisdiction

@@ -5,7 +5,7 @@ usc_section: "16850"
 chapter: 150
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 16850"
-generated_at: "2026-03-29T18:27:04.237Z"
+generated_at: "2026-03-29T19:31:45.861Z"
 ---
 
 # §§ 16841 to 16850. Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 Stat. 3444

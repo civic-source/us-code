@@ -5,7 +5,7 @@ usc_section: "157"
 chapter: 14
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 157"
-generated_at: "2026-03-29T18:25:56.887Z"
+generated_at: "2026-03-29T19:30:29.296Z"
 ---
 
 # [§ 157. Repealed. Pub. L. 112–29 , § 3(e)(1), Sept. 16, 2011 , 125 Stat. 287 ]

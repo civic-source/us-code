@@ -5,7 +5,7 @@ usc_section: "138c"
 chapter: 4
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 138c"
-generated_at: "2026-03-29T18:23:51.723Z"
+generated_at: "2026-03-29T19:27:25.424Z"
 ---
 
 # [§ 138c. Repealed. Pub. L. 113–291, div. A, title IX , § 901(g)(2), Dec. 19, 2014 , 128 Stat. 3466 ]

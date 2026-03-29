@@ -5,7 +5,7 @@ usc_section: "510c"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 510c"
-generated_at: "2026-03-29T18:26:14.812Z"
+generated_at: "2026-03-29T19:31:49.058Z"
 ---
 
 # § 510c. Relationship to Twenty-First Century Water Works Act

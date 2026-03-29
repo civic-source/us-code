@@ -3,9 +3,9 @@ title: "Section 11172 - Grants for technical assistance"
 usc_title: 34
 usc_section: "11172"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 11172"
-generated_at: "2026-03-29T02:14:25.300Z"
+generated_at: "2026-03-29T18:45:50.333Z"
 ---
 
 # § 11172. Grants for technical assistance

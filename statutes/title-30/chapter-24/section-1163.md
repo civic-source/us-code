@@ -5,7 +5,7 @@ usc_section: "1163"
 chapter: 24
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1163"
-generated_at: "2026-03-29T18:25:30.894Z"
+generated_at: "2026-03-29T19:30:05.272Z"
 ---
 
 # § 1163. Transfer of functions

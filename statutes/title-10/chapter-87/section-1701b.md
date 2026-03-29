@@ -3,9 +3,9 @@ title: "Section 1701b - Enhanced pay authority for certain acquisition and techn
 usc_title: 10
 usc_section: "1701b"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 1701b"
-generated_at: "2026-03-29T02:10:45.042Z"
+generated_at: "2026-03-29T18:47:53.391Z"
 ---
 
 # § 1701b. Enhanced pay authority for certain acquisition and technology positions
@@ -22,8 +22,5 @@ generated_at: "2026-03-29T02:10:45.042Z"
   - **(2)** Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
 - **(e)**
   - **(1)** The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
-  - **(2)** The authority in subsection (a) may not be used at any one time with respect to—
-    - **(A)** more than five positions, in total, in Department of Defense Field Activities and Defense Agencies;
-    - **(B)** more than five positions in the Office of the Secretary of Defense; and
-    - **(C)** more than five positions in each military department.
+  - **(2)** The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time.
   - **(3)** The authority in subsection (a) may be used only for positions having terms less than five years.

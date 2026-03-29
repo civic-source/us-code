@@ -5,7 +5,7 @@ usc_section: "619"
 chapter: 5
 current_through: "PL 114-254"
 classification: "47 U.S.C. § 619"
-generated_at: "2026-03-29T18:27:09.593Z"
+generated_at: "2026-03-29T19:32:13.816Z"
 ---
 
 # § 619. Internet browsers built into telephones used with public mobile services

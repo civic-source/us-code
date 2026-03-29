@@ -5,7 +5,7 @@ usc_section: "1361l"
 chapter: 6
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1361l"
-generated_at: "2026-03-29T18:27:11.648Z"
+generated_at: "2026-03-29T19:31:53.946Z"
 ---
 
 # §§ 1361a to 1361l. Repealed. Pub. L. 87–845 , § 26(b), Oct. 18, 1962 , 76A Stat. 701

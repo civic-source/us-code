@@ -5,7 +5,7 @@ usc_section: "379i"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 379i"
-generated_at: "2026-03-29T18:25:04.169Z"
+generated_at: "2026-03-29T19:29:50.420Z"
 ---
 
 # § 379i. Definitions

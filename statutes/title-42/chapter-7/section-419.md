@@ -5,7 +5,7 @@ usc_section: "419"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 419"
-generated_at: "2026-03-29T18:27:02.883Z"
+generated_at: "2026-03-29T19:31:44.503Z"
 ---
 
 # § 419. Repealed. Pub. L. 86–778, title I , § 103(j)(1), Sept. 13, 1960 , 74 Stat. 937

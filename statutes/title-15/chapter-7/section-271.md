@@ -5,7 +5,7 @@ usc_section: "271"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 271"
-generated_at: "2026-03-29T18:24:08.328Z"
+generated_at: "2026-03-29T19:27:55.301Z"
 ---
 
 # § 271. Findings and purposes

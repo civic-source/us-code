@@ -5,7 +5,7 @@ usc_section: "3324"
 chapter: 33
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 3324"
-generated_at: "2026-03-29T18:26:16.123Z"
+generated_at: "2026-03-29T19:30:59.119Z"
 ---
 
 # [§§ 3315 to 3324. Repealed. Pub. L. 113–187 , § 7(a), Nov. 26, 2014 , 128 Stat. 2011 ]

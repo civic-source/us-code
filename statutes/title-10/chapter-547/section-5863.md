@@ -5,7 +5,7 @@ usc_section: "5863"
 chapter: 547
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5863"
-generated_at: "2026-03-29T18:23:52.048Z"
+generated_at: "2026-03-29T19:27:25.678Z"
 ---
 
 # [§ 5863. Repealed. Pub. L. 85–861 , § 36B(14), Sept. 2, 1958 , 72 Stat. 1571 ]

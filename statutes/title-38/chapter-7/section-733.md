@@ -5,7 +5,7 @@ usc_section: "733"
 chapter: 7
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 733"
-generated_at: "2026-03-29T18:26:07.546Z"
+generated_at: "2026-03-29T19:30:40.463Z"
 ---
 
 # § 733. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints

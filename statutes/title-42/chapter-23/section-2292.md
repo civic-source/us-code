@@ -5,7 +5,7 @@ usc_section: "2292"
 chapter: 23
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2292"
-generated_at: "2026-03-29T18:27:03.457Z"
+generated_at: "2026-03-29T19:31:45.039Z"
 ---
 
 # § 2292. Authorization of appropriations for research and development program; authority to enter into contracts; period of contracts; equivalent amounts for research and development program

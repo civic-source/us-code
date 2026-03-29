@@ -5,7 +5,7 @@ usc_section: "4709"
 chapter: 57
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4709"
-generated_at: "2026-03-29T18:24:54.323Z"
+generated_at: "2026-03-29T19:29:46.880Z"
 ---
 
 # § 4709. General authorities

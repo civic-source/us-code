@@ -5,7 +5,7 @@ usc_section: "3307"
 chapter: 34
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3307"
-generated_at: "2026-03-29T18:24:03.000Z"
+generated_at: "2026-03-29T19:28:17.776Z"
 ---
 
 # § 3307. Administration

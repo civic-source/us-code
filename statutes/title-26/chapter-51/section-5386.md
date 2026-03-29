@@ -5,7 +5,7 @@ usc_section: "5386"
 chapter: 51
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5386"
-generated_at: "2026-03-29T18:25:53.868Z"
+generated_at: "2026-03-29T19:30:20.130Z"
 ---
 
 # § 5386. Special natural wines

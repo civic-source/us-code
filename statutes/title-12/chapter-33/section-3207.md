@@ -5,7 +5,7 @@ usc_section: "3207"
 chapter: 33
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3207"
-generated_at: "2026-03-29T18:24:02.999Z"
+generated_at: "2026-03-29T19:28:17.775Z"
 ---
 
 # § 3207. Rules and regulations

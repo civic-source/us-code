@@ -5,7 +5,7 @@ usc_section: "1001"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1001"
-generated_at: "2026-03-29T18:25:43.057Z"
+generated_at: "2026-03-29T19:30:07.558Z"
 ---
 
 # § 1001. Congressional findings and declaration of policy

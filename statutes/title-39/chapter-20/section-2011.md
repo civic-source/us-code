@@ -5,7 +5,7 @@ usc_section: "2011"
 chapter: 20
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 2011"
-generated_at: "2026-03-29T18:26:03.561Z"
+generated_at: "2026-03-29T19:30:48.543Z"
 ---
 
 # § 2011. Provisions relating to competitive products

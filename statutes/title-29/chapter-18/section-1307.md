@@ -5,7 +5,7 @@ usc_section: "1307"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1307"
-generated_at: "2026-03-29T18:25:43.107Z"
+generated_at: "2026-03-29T19:30:07.608Z"
 ---
 
 # § 1307. Payment of premiums

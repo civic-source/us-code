@@ -3,17 +3,15 @@ title: "Section 914 - Disposition of infrastructure related to E–LORAN"
 usc_title: 14
 usc_section: "914"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 914"
-generated_at: "2026-03-29T02:11:23.781Z"
+generated_at: "2026-03-29T18:48:09.817Z"
 ---
 
 # § 914. Disposition of infrastructure related to E–LORAN
 
-- **(a)** Notwithstanding any other provision of law, the Commandant may dismantle or dispose of any real or personal property under the administrative control of the Coast Guard and used for the LORAN–C system.
-- **(b)** No action described in subsection (a) may be taken unless and until—
-  - **(1)** the Commandant notifies the Secretary of Transportation and the Secretary of Defense in writing of the proposed dismantling or disposal of a LORAN–C system; and
-  - **(2)** a period of 90 calendar days expires following the day on which the notice has been submitted.
-- **(c)** If, not later than 90 calendar days of receipt of the written notification under subsection (b), the Secretary of Transportation or the Secretary of Defense notifies the Commandant, in writing, of a determination under section 312(d) of title 49 that the property is required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted, the Commandant shall transfer the property to the Department of Transportation without any consideration.
-- **(d)** If, at the end of the 90 calendar day period no notification under subsection (b) has been received, the Commandant shall notify the Committee on Transportation and Infrastructure and the Committee on Appropriations in the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate that the period in subsection (b)(2) has expired, and may proceed with the dismantling and disposal of the personal property, and disposing of the real property in accordance with section 2945 of this title .
-- **(e)** The prohibition on actions in subsection (b) does not apply to actions necessary for the safety of human life.
+- **(a)** The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 ( Public Law 114–120 ) or the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary of Transportation under section 312(d) of title 49 that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
+- **(b)** Subsection (a) does not apply to activities necessary for the safety of human life.
+- **(c)**
+  - **(1)** On any date after the notification is made under subsection (a), the Administrator of General Services, acting on behalf of the Secretary, may, notwithstanding any other provision of law, sell any real and personal property under the administrative control of the Coast Guard and used for the LORAN–C system, subject to such terms and conditions that the Secretary believes to be necessary to protect government interests and program requirements of the Coast Guard.
+  - **(2)** The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited into the Coast Guard Housing Fund for uses authorized under section 2946 of this title .

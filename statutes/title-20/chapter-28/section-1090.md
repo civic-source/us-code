@@ -5,7 +5,7 @@ usc_section: "1090"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1090"
-generated_at: "2026-03-29T18:24:40.975Z"
+generated_at: "2026-03-29T19:28:43.029Z"
 ---
 
 # § 1090. Forms and regulations

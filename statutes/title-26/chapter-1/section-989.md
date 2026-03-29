@@ -5,7 +5,7 @@ usc_section: "989"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 989"
-generated_at: "2026-03-29T18:25:53.701Z"
+generated_at: "2026-03-29T19:30:19.956Z"
 ---
 
 # § 989. Other definitions and special rules

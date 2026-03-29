@@ -5,7 +5,7 @@ usc_section: "460aaa"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460aaa"
-generated_at: "2026-03-29T18:24:22.589Z"
+generated_at: "2026-03-29T19:29:27.227Z"
 ---
 
 # § 460aaa. Establishment

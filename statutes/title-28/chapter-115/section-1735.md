@@ -5,7 +5,7 @@ usc_section: "1735"
 chapter: 115
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 1735"
-generated_at: "2026-03-29T18:25:32.943Z"
+generated_at: "2026-03-29T19:30:04.385Z"
 ---
 
 # § 1735. Court record lost or destroyed where United States interested

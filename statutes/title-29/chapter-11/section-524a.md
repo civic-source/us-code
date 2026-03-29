@@ -5,7 +5,7 @@ usc_section: "524a"
 chapter: 11
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 524a"
-generated_at: "2026-03-29T18:25:43.021Z"
+generated_at: "2026-03-29T19:30:07.520Z"
 ---
 
 # § 524a. Elimination of racketeering activities threat; State legislation governing collective bargaining representative

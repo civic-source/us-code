@@ -5,7 +5,7 @@ usc_section: "293a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 293a"
-generated_at: "2026-03-29T18:25:23.672Z"
+generated_at: "2026-03-29T19:29:34.745Z"
 ---
 
 # § 293a. Conveyance of school properties to local school districts or public agencies

@@ -5,7 +5,7 @@ usc_section: "1348"
 chapter: 15
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1348"
-generated_at: "2026-03-29T18:24:54.146Z"
+generated_at: "2026-03-29T19:29:46.697Z"
 ---
 
 # §§ 1341 to 1348. Omitted

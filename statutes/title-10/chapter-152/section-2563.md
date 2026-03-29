@@ -5,7 +5,7 @@ usc_section: "2563"
 chapter: 152
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2563"
-generated_at: "2026-03-29T18:23:51.977Z"
+generated_at: "2026-03-29T19:27:25.622Z"
 ---
 
 # § 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense

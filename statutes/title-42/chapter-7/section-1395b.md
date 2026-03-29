@@ -5,7 +5,7 @@ usc_section: "1395b"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395b"
-generated_at: "2026-03-29T18:27:03.024Z"
+generated_at: "2026-03-29T19:31:44.618Z"
 ---
 
 # § 1395b. Option to individuals to obtain other health insurance protection

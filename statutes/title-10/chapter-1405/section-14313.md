@@ -5,7 +5,7 @@ usc_section: "14313"
 chapter: 1405
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 14313"
-generated_at: "2026-03-29T18:23:52.122Z"
+generated_at: "2026-03-29T19:27:25.740Z"
 ---
 
 # § 14313. Authority to vacate promotions to grade of brigadier general or rear admiral (lower half)

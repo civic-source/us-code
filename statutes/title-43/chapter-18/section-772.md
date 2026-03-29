@@ -5,7 +5,7 @@ usc_section: "772"
 chapter: 18
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 772"
-generated_at: "2026-03-29T18:26:14.831Z"
+generated_at: "2026-03-29T19:31:49.076Z"
 ---
 
 # § 772. Resurveys or retracements to mark boundaries of undisposed lands

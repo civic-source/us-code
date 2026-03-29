@@ -5,7 +5,7 @@ usc_section: "2461a"
 chapter: 146
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2461a"
-generated_at: "2026-03-29T18:23:51.961Z"
+generated_at: "2026-03-29T19:27:25.611Z"
 ---
 
 # § 2461a. Development and implementation of system for monitoring cost saving resulting from public-private competitions

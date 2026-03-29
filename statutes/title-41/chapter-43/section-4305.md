@@ -5,7 +5,7 @@ usc_section: "4305"
 chapter: 43
 current_through: "PL 114-254"
 classification: "41 U.S.C. § 4305"
-generated_at: "2026-03-29T18:26:25.284Z"
+generated_at: "2026-03-29T19:31:15.758Z"
 ---
 
 # § 4305. Required regulations

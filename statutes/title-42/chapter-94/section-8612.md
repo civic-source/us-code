@@ -5,7 +5,7 @@ usc_section: "8612"
 chapter: 94
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8612"
-generated_at: "2026-03-29T18:27:03.890Z"
+generated_at: "2026-03-29T19:31:45.476Z"
 ---
 
 # §§ 8601 to 8612. Repealed. Pub. L. 97–35, title XXVI , § 2611, Aug. 13, 1981 , 95 Stat. 902

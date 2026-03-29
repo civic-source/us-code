@@ -5,7 +5,7 @@ usc_section: "460gg"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460gg"
-generated_at: "2026-03-29T18:24:22.571Z"
+generated_at: "2026-03-29T19:29:27.207Z"
 ---
 
 # § 460gg. Establishment

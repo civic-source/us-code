@@ -5,7 +5,7 @@ usc_section: "1833"
 chapter: 7
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1833"
-generated_at: "2026-03-29T18:24:16.134Z"
+generated_at: "2026-03-29T19:28:30.705Z"
 ---
 
 # §§ 1831 to 1833. Repealed. Pub. L. 93–618, title VI , § 602(d), Jan. 3, 1975 , 88 Stat. 2072

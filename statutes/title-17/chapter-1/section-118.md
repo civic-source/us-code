@@ -5,7 +5,7 @@ usc_section: "118"
 chapter: 1
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 118"
-generated_at: "2026-03-29T18:24:28.478Z"
+generated_at: "2026-03-29T19:28:20.869Z"
 ---
 
 # § 118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting

@@ -5,7 +5,7 @@ usc_section: "14142"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14142"
-generated_at: "2026-03-29T18:27:04.161Z"
+generated_at: "2026-03-29T19:31:45.769Z"
 ---
 
 # § 14142. Data on use of excessive force

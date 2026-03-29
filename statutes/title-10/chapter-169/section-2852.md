@@ -5,7 +5,7 @@ usc_section: "2852"
 chapter: 169
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2852"
-generated_at: "2026-03-29T18:23:52.008Z"
+generated_at: "2026-03-29T19:27:25.647Z"
 ---
 
 # § 2852. Military construction projects: waiver of certain restrictions

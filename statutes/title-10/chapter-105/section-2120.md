@@ -5,7 +5,7 @@ usc_section: "2120"
 chapter: 105
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2120"
-generated_at: "2026-03-29T18:23:51.875Z"
+generated_at: "2026-03-29T19:27:25.562Z"
 ---
 
 # § 2120. Definitions

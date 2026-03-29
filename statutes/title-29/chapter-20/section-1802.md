@@ -5,7 +5,7 @@ usc_section: "1802"
 chapter: 20
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1802"
-generated_at: "2026-03-29T18:25:43.122Z"
+generated_at: "2026-03-29T19:30:07.625Z"
 ---
 
 # § 1802. Definitions

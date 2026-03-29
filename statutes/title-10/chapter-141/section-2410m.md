@@ -5,7 +5,7 @@ usc_section: "2410m"
 chapter: 141
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2410m"
-generated_at: "2026-03-29T18:23:51.950Z"
+generated_at: "2026-03-29T19:27:25.604Z"
 ---
 
 # § 2410m. Retention of amounts collected from contractor during the pendency of contract dispute

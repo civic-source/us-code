@@ -5,7 +5,7 @@ usc_section: "450rr"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 450rr"
-generated_at: "2026-03-29T18:24:22.531Z"
+generated_at: "2026-03-29T19:29:27.163Z"
 ---
 
 # § 450rr. R.M.S. Titanic; international maritime memorial; findings and purposes

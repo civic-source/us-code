@@ -5,7 +5,7 @@ usc_section: "6016"
 chapter: 555
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6016"
-generated_at: "2026-03-29T18:23:52.050Z"
+generated_at: "2026-03-29T19:27:25.679Z"
 ---
 
 # [§ 6016. Repealed. Pub. L. 85–861 , § 36B(16), Sept. 2, 1958 , 72 Stat. 1571 ]

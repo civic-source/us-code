@@ -5,7 +5,7 @@ usc_section: "2010"
 chapter: 11
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 2010"
-generated_at: "2026-03-29T18:25:53.769Z"
+generated_at: "2026-03-29T19:30:20.026Z"
 ---
 
 # § 2010. Unified credit against estate tax

@@ -5,7 +5,7 @@ usc_section: "11472"
 chapter: 119
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11472"
-generated_at: "2026-03-29T18:27:04.031Z"
+generated_at: "2026-03-29T19:31:45.623Z"
 ---
 
 # §§ 11471, 11472. Repealed. Pub. L. 105–220, title I , § 199(b)(1), Aug. 7, 1998 , 112 Stat. 1059

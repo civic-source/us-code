@@ -5,7 +5,7 @@ usc_section: "133"
 chapter: 4
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 133"
-generated_at: "2026-03-29T18:23:51.722Z"
+generated_at: "2026-03-29T19:27:25.423Z"
 ---
 
 # § 133. Under Secretary of Defense for Acquisition, Technology, and Logistics

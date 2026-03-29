@@ -5,7 +5,7 @@ usc_section: "353"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-29T18:25:04.112Z"
+generated_at: "2026-03-29T19:29:50.356Z"
 ---
 
 # § 353. Exemptions and consideration for certain drugs, devices, and biological products

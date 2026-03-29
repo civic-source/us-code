@@ -3,9 +3,9 @@ title: "Section 402b - Basic needs allowance for members on active service in th
 usc_title: 37
 usc_section: "402b"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "37 U.S.C. § 402b"
-generated_at: "2026-03-29T02:14:43.133Z"
+generated_at: "2026-03-29T18:46:08.045Z"
 ---
 
 # § 402b. Basic needs allowance for members on active service in the Armed Forces
@@ -13,13 +13,13 @@ generated_at: "2026-03-29T02:14:43.133Z"
 - **(a)** The Secretary concerned shall pay to each member who is eligible under subsection (b) a basic needs allowance in the amount determined for such member under subsection (c).
 - **(b)** A member on active service in the armed forces is eligible for the allowance under subsection (a) if—
   - **(1)** the member has completed initial entry training;
-  - **(2)** the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
+  - **(2)** the gross household income of the member during the most recent calendar year did not exceed an amount equal to 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
   - **(3)** the member—
     - **(A)** is not ineligible for the allowance under subsection (d); and
     - **(B)** does not elect under subsection (g) not to receive the allowance.
 - **(c)** The amount of the monthly allowance payable to a member under subsection (a) shall be the amount equal to—
   - **(1)**
-    - **(A)** 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+    - **(A)** 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
     - **(B)** the gross household income of the member during the preceding calendar year; divided by
   - **(2)** 12.
 - **(d)**
@@ -52,5 +52,5 @@ generated_at: "2026-03-29T02:14:43.133Z"
 - **(k)** In this section:
   - **(1)** The term “gross household income”, with respect to a member of the armed forces, includes—
     - **(A)** all household income, derived from any source; minus
-    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living or that otherwise has a demonstrated need, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
+    - **(B)** in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
   - **(2)** The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.

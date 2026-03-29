@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T18:24:08.278Z"
+generated_at: "2026-03-29T19:27:55.254Z"
 ---
 
 # § 78u–4. Private securities litigation

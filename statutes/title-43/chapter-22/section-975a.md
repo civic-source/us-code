@@ -5,7 +5,7 @@ usc_section: "975a"
 chapter: 22
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 975a"
-generated_at: "2026-03-29T18:26:14.842Z"
+generated_at: "2026-03-29T19:31:49.089Z"
 ---
 
 # §§ 975, 975a. Repealed. Pub. L. 97–468, title VI , § 615(a)(1), Jan. 14, 1983 , 96 Stat. 2577

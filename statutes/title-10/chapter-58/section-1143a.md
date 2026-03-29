@@ -5,7 +5,7 @@ usc_section: "1143a"
 chapter: 58
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1143a"
-generated_at: "2026-03-29T18:23:51.801Z"
+generated_at: "2026-03-29T19:27:25.514Z"
 ---
 
 # § 1143a. Encouragement of postseparation public and community service

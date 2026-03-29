@@ -5,7 +5,7 @@ usc_section: "134"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 134"
-generated_at: "2026-03-29T18:24:22.422Z"
+generated_at: "2026-03-29T19:29:27.038Z"
 ---
 
 # §§ 129 to 134. Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , eff. Sept. 1, 1948

@@ -1,34 +1,34 @@
 ---
-title: "Section 9053 - Special Inspector General for Pandemic Recovery"
+title: "Section 9053 - Special Inspector General for pandemic recovery"
 usc_title: 15
 usc_section: "9053"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 9053"
-generated_at: "2026-03-29T02:11:34.481Z"
+generated_at: "2026-03-29T18:49:04.588Z"
 ---
 
-# § 9053. Special Inspector General for Pandemic Recovery
+# § 9053. Special Inspector General for pandemic recovery
 
 - **(a)** There is hereby established within the Department of the Treasury the Office of the Special Inspector General for Pandemic Recovery.
 - **(b)**
   - **(1)** The head of the Office of the Special Inspector General for Pandemic Recovery shall be the Special Inspector General for Pandemic Recovery (referred to in this section as the “Special Inspector General”), who shall be appointed by the President, by and with the advice and consent of the Senate.
   - **(2)** The nomination of the Special Inspector General shall be made on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The nomination of an individual as Special Inspector General shall be made as soon as practicable after any loan, loan guarantee, or other investment is made under section 9042 of this title .
-  - **(3)** The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
+  - **(3)** The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
   - **(4)** For purposes of section 7324 of title 5 , the Special Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
-  - **(5)** The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.). 1
+  - **(5)** The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(c)**
-  - **(1)** It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.), 1 conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
+  - **(1)** It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.), conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
     - **(A)** A description of the categories of the loans, loan guarantees, and other investments made by the Secretary.
     - **(B)** A listing of the eligible businesses receiving loan, loan guarantees, and other investments made under each category described in subparagraph (A).
     - **(C)** An explanation of the reasons the Secretary determined it to be appropriate to make each loan or loan guarantee under this Act, including a justification of the price paid for, and other financial terms associated with, the applicable transaction.
     - **(D)** A listing of, and detailed biographical information with respect to, each person hired to manage or service each loan, loan guarantee, or other investment made under section 9042 of this title .
     - **(E)** A current, as of the date on which the information is collected, estimate of the total amount of each loan, loan guarantee, and other investment made under this Act that is outstanding, the amount of interest and fees accrued and received with respect to each loan or loan guarantee, the total amount of matured loans, the type and amount of collateral, if any, and any losses or gains, if any, recorded or accrued for each loan, loan guarantee, or other investment.
   - **(2)** The Special Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Special Inspector General considers appropriate to discharge the duties of the Special Inspector General under paragraph (1).
-  - **(3)** In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.). 1
+  - **(3)** In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(d)**
-  - **(1)** In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.). 1
-  - **(2)** The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) 1 and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
+  - **(1)** In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+  - **(2)** The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
 - **(e)**
   - **(1)** The Special Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Special Inspector General, subject to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of that title, relating to classification and General Schedule pay rates.
   - **(2)** The Special Inspector General may obtain services as authorized under section 3109 of title 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of that title.
@@ -48,7 +48,7 @@ generated_at: "2026-03-29T02:11:34.481Z"
   - **(1)** Of the amounts made available to the Secretary under section 9061 of this title , $25,000,000 shall be made available to the Special Inspector General to carry out this section.
   - **(2)** The amounts made available to the Special Inspector General under paragraph (1) shall remain available until expended.
 - **(h)** The Office of the Special Inspector General shall terminate on the date 5 years after March 27, 2020 .
-- **(i)** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) 1 until the date of termination of the Office of the Special Inspector General.
+- **(i)** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General.
 - **(j)** The Secretary shall—
   - **(1)** take action to address deficiencies identified by a report or investigation of the Special Inspector General; or
   - **(2)** with respect to a deficiency identified under paragraph (1), certify to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Finance of the Senate, the Committee on Financial Services of the House of Representatives, and the Committee on Ways and Means of the House of Representatives that no action is necessary or appropriate.

@@ -5,7 +5,7 @@ usc_section: "2602"
 chapter: 27
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2602"
-generated_at: "2026-03-29T18:24:02.983Z"
+generated_at: "2026-03-29T19:28:17.757Z"
 ---
 
 # § 2602. Definitions

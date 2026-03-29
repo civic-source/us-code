@@ -5,7 +5,7 @@ usc_section: "1070g"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1070g"
-generated_at: "2026-03-29T18:24:40.926Z"
+generated_at: "2026-03-29T19:28:42.982Z"
 ---
 
 # § 1070g. Definitions

@@ -5,7 +5,7 @@ usc_section: "950i"
 chapter: 47
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 950i"
-generated_at: "2026-03-29T18:23:51.776Z"
+generated_at: "2026-03-29T19:27:25.484Z"
 ---
 
 # § 950i. Execution of sentence; suspension of sentence

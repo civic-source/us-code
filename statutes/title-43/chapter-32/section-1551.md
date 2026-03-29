@@ -5,7 +5,7 @@ usc_section: "1551"
 chapter: 32
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1551"
-generated_at: "2026-03-29T18:26:14.868Z"
+generated_at: "2026-03-29T19:31:49.115Z"
 ---
 
 # § 1551. Construction of Colorado River Basin Act

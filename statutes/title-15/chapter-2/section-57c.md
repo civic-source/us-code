@@ -5,7 +5,7 @@ usc_section: "57c"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 57c"
-generated_at: "2026-03-29T18:24:08.206Z"
+generated_at: "2026-03-29T19:27:55.063Z"
 ---
 
 # § 57c. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "986"
 chapter: 49
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 986"
-generated_at: "2026-03-29T18:23:51.778Z"
+generated_at: "2026-03-29T19:27:25.489Z"
 ---
 
 # [§ 986. Repealed. Pub. L. 110–181, div. A, title X , § 1072(b)(1), Jan. 28, 2008 , 122 Stat. 329 ]

@@ -5,7 +5,7 @@ usc_section: "2708"
 chapter: 47
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 2708"
-generated_at: "2026-03-29T18:24:22.860Z"
+generated_at: "2026-03-29T19:29:27.533Z"
 ---
 
 # § 2708. Definitions

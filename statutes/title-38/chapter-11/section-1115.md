@@ -5,7 +5,7 @@ usc_section: "1115"
 chapter: 11
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1115"
-generated_at: "2026-03-29T18:26:07.548Z"
+generated_at: "2026-03-29T19:30:40.466Z"
 ---
 
 # § 1115. Additional compensation for dependents

@@ -5,7 +5,7 @@ usc_section: "2904"
 chapter: 29
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 2904"
-generated_at: "2026-03-29T18:23:55.785Z"
+generated_at: "2026-03-29T19:27:45.919Z"
 ---
 
 # § 2904. Manpower requirements plan

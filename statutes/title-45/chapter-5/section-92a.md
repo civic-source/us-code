@@ -5,7 +5,7 @@ usc_section: "92a"
 chapter: 5
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 92a"
-generated_at: "2026-03-29T18:26:13.274Z"
+generated_at: "2026-03-29T19:31:12.205Z"
 ---
 
 # § 92a. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641

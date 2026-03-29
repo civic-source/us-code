@@ -5,7 +5,7 @@ usc_section: "12005"
 chapter: 125
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12005"
-generated_at: "2026-03-29T18:27:04.039Z"
+generated_at: "2026-03-29T19:31:45.631Z"
 ---
 
 # § 12005. Demonstration and commercial application projects

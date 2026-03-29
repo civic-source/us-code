@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 41
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:43.307Z"
+generated_at: "2026-03-29T19:27:31.777Z"
 ---
 
 # § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program

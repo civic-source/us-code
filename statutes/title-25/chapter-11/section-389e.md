@@ -5,7 +5,7 @@ usc_section: "389e"
 chapter: 11
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 389e"
-generated_at: "2026-03-29T18:25:23.685Z"
+generated_at: "2026-03-29T19:29:34.754Z"
 ---
 
 # § 389e. Actions taken to be included in report to Congress

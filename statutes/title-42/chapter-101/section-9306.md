@@ -5,7 +5,7 @@ usc_section: "9306"
 chapter: 101
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9306"
-generated_at: "2026-03-29T18:27:03.907Z"
+generated_at: "2026-03-29T19:31:45.496Z"
 ---
 
 # § 9306. Repealed. Pub. L. 104–46, title V , § 509, Nov. 13, 1995 , 109 Stat. 421

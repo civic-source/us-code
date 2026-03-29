@@ -5,7 +5,7 @@ usc_section: "7314"
 chapter: 73
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7314"
-generated_at: "2026-03-29T18:26:07.655Z"
+generated_at: "2026-03-29T19:30:40.568Z"
 ---
 
 # § 7314. Geriatric research, education, and clinical centers

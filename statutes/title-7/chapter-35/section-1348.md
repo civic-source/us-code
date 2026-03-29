@@ -5,7 +5,7 @@ usc_section: "1348"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1348"
-generated_at: "2026-03-29T18:23:43.246Z"
+generated_at: "2026-03-29T19:27:31.722Z"
 ---
 
 # § 1348. Payments in kind to equalize cost of cotton to domestic and foreign users; rules and regulations; termination date; persons eligible; amount; terms and conditions; raw cotton in inventory

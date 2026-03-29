@@ -5,7 +5,7 @@ usc_section: "45F"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 45F"
-generated_at: "2026-03-29T18:25:53.388Z"
+generated_at: "2026-03-29T19:30:19.659Z"
 ---
 
 # § 45F. Employer-provided child care credit

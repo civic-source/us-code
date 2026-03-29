@@ -5,7 +5,7 @@ usc_section: "2702"
 chapter: 54
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2702"
-generated_at: "2026-03-29T18:24:08.568Z"
+generated_at: "2026-03-29T19:27:55.529Z"
 ---
 
 # § 2702. Definitions

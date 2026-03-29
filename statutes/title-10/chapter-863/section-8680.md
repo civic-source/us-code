@@ -3,15 +3,15 @@ title: "Section 8680 - Overhaul, repair, etc. of vessels in foreign shipyards: r
 usc_title: 10
 usc_section: "8680"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8680"
-generated_at: "2026-03-29T02:10:45.318Z"
+generated_at: "2026-03-29T18:47:53.576Z"
 ---
 
 # § 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 
 - **(a)**
-  - **(1)** A naval vessel the homeport of which is in the United States, Guam, or the Commonwealth of the Northern Mariana Islands may not be overhauled, repaired, or maintained in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands.
+  - **(1)** A naval vessel the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam.
   - **(2)**
     - **(A)** Notwithstanding paragraph (1) and subject to subparagraph (B), in the case of a naval vessel classified as a Littoral Combat Ship and operating on deployment, corrective and preventive maintenance or repair (whether intermediate or depot level) and facilities maintenance may be performed on the vessel—
       - **(i)** in a foreign shipyard;
@@ -31,31 +31,16 @@ generated_at: "2026-03-29T02:10:45.318Z"
         - **(I)** the effort required to provide housekeeping services throughout the ship;
         - **(II)** the effort required to perform coating maintenance and repair to exterior and interior surfaces due to normal environmental conditions; and
         - **(III)** the effort required to clean mechanical spaces, mission zones, and topside spaces.
-  - **(3)**
-    - **(A)** Notwithstanding paragraph (1) and subject to subparagraph (B), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands if the repairs are—
-      - **(i)** voyage repairs;
-      - **(ii)** necessary to correct damage sustained due to hostile actions or interventions; or
-      - **(iii)** corrective and preventive maintenance of a deployed naval vessel planned to last not more than 21 days.
-    - **(B)** During any fiscal year, the cumulative work carried out under this paragraph for ships at any particular homeport may not exceed two percent of the average annual total workload of that homeport over the preceding three-year period, as measured in shipyard labor hours.
+  - **(3)** Notwithstanding paragraph (1), a naval vessel described in paragraph (1) may be repaired in a shipyard outside the United States or Guam if the repairs are—
+    - **(A)** voyage repairs; or
+    - **(B)** necessary to correct damage sustained due to hostile actions or interventions.
 - **(b)**
   - **(1)** In the case of a naval vessel the homeport of which is not in the United States (or a territory of the United States), the Secretary of the Navy may not during the 15-month period preceding the planned reassignment of the vessel to a homeport in the United States (or a territory of the United States) begin any work for the overhaul, repair, or maintenance of the vessel that is scheduled to be for a period of more than six months.
   - **(2)** In the case of a naval vessel the homeport of which is in the United States (or a territory of the United States), the Secretary of the Navy shall during the 15-month period preceding the planned reassignment of the vessel to a homeport not in the United States (or a territory of the United States) perform in the United States (or a territory of the United States) any work for the overhaul, repair, or maintenance of the vessel that is scheduled—
     - **(A)** to begin during the 15-month period; and
     - **(B)** to be for a period of more than six months.
 - **(c)**
-  - **(1)** Notwithstanding any other provision of this section, and subject to paragraph (2), the President shall determine the appropriate public or private shipyard in the United States, Australia, or the United Kingdom to perform any repair or refurbishment of a United States submarine involved in submarine security activities between the United States, Australia, and the United Kingdom.
-  - **(2)**
-    - **(A)** The President may determine under paragraph (1) that repair or refurbishment described in such paragraph may be performed in Australia or the United Kingdom only if—
-      - **(i)** such repair or refurbishment will facilitate the development of repair or refurbishment capabilities in the United Kingdom or Australia;
-      - **(ii)** such repair or refurbishment will be for a United States submarine that is operating forward outside of the United States; or
-      - **(iii)** the Secretary of Defense certifies to Congress that performing such repair or refurbishment at a shipyard in Australia or the United Kingdom is required due to an exigent threat to the national security interests of the United States.
-    - **(B)** In making a determination under subparagraph (A), the President shall consider any effects of such determination on the capacity and capability of shipyards in the United States.
-    - **(C)** Not later than 15 days after the date on which the Secretary of Defense makes a certification under subparagraph (A)(iii), the Secretary shall brief the congressional defense committees on—
-      - **(i)** the threat that requires the use of a shipyard in Australia or the United Kingdom; and
-      - **(ii)** opportunities to mitigate the future potential need to leverage foreign shipyards.
-  - **(3)** Repair or refurbishment described in paragraph (1) may be carried out by personnel and contractors of the United States, the United Kingdom, or Australia in accordance with the international arrangements governing the submarine security activities described in such paragraph.
-- **(d)**
-  - **(1)** The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under section 1105(a) of title 31 , a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States, Guam, or the Commonwealth of the Northern Mariana Islands (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
+  - **(1)** The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under section 1105(a) of title 31 , a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
   - **(2)** The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
   - **(3)** Except as provided in paragraph (4), the report also shall include the following with respect to each covered naval vessel:
     - **(A)** The justification under law and operational justification for the repair in a foreign shipyard.

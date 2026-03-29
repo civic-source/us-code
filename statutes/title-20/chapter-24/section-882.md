@@ -5,7 +5,7 @@ usc_section: "882"
 chapter: 24
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 882"
-generated_at: "2026-03-29T18:24:40.882Z"
+generated_at: "2026-03-29T19:28:42.937Z"
 ---
 
 # § 882. Repealed. Pub. L. 91–230, title IV , § 401(h)(3), Apr. 13, 1970 , 84 Stat. 174

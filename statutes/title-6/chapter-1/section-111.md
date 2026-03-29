@@ -5,7 +5,7 @@ usc_section: "111"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 111"
-generated_at: "2026-03-29T18:23:35.723Z"
+generated_at: "2026-03-29T19:27:39.821Z"
 ---
 
 # § 111. Executive department; mission

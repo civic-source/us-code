@@ -5,7 +5,7 @@ usc_section: "5566"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5566"
-generated_at: "2026-03-29T18:27:03.648Z"
+generated_at: "2026-03-29T19:31:45.235Z"
 ---
 
 # § 5566. Authorization of appropriations

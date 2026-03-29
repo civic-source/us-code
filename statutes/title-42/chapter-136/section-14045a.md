@@ -5,7 +5,7 @@ usc_section: "14045a"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14045a"
-generated_at: "2026-03-29T18:27:04.154Z"
+generated_at: "2026-03-29T19:31:45.761Z"
 ---
 
 # § 14045a. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking

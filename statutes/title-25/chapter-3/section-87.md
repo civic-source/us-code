@@ -5,7 +5,7 @@ usc_section: "87"
 chapter: 3
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 87"
-generated_at: "2026-03-29T18:25:23.661Z"
+generated_at: "2026-03-29T19:29:34.734Z"
 ---
 
 # § 87. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862

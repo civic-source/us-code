@@ -5,7 +5,7 @@ usc_section: "775"
 chapter: 2
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 775"
-generated_at: "2026-03-29T18:23:35.775Z"
+generated_at: "2026-03-29T19:27:39.873Z"
 ---
 
 # § 775. National Emergency Family Registry and Locator System

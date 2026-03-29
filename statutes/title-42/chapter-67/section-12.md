@@ -5,7 +5,7 @@ usc_section: "12"
 chapter: 67
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-29T18:27:03.614Z"
+generated_at: "2026-03-29T19:31:45.198Z"
 ---
 
 # § 5117aa–12. Evaluations, study, and reports by Secretary

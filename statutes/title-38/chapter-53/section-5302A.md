@@ -5,7 +5,7 @@ usc_section: "5302A"
 chapter: 53
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 5302A"
-generated_at: "2026-03-29T18:26:07.637Z"
+generated_at: "2026-03-29T19:30:40.551Z"
 ---
 
 # § 5302A. Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone

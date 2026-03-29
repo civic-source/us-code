@@ -5,7 +5,7 @@ usc_section: "1709"
 chapter: 42
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1709"
-generated_at: "2026-03-29T18:24:08.509Z"
+generated_at: "2026-03-29T19:27:55.475Z"
 ---
 
 # § 1709. Civil liabilities

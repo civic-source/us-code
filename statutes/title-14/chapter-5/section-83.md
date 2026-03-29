@@ -5,7 +5,7 @@ usc_section: "83"
 chapter: 5
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 83"
-generated_at: "2026-03-29T18:23:55.765Z"
+generated_at: "2026-03-29T19:27:45.899Z"
 ---
 
 # § 83. Unauthorized aids to maritime navigation; penalty

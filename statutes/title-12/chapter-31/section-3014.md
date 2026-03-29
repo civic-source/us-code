@@ -5,7 +5,7 @@ usc_section: "3014"
 chapter: 31
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3014"
-generated_at: "2026-03-29T18:24:02.993Z"
+generated_at: "2026-03-29T19:28:17.765Z"
 ---
 
 # § 3014. Capitalization

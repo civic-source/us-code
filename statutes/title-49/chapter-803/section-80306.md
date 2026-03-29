@@ -5,7 +5,7 @@ usc_section: "80306"
 chapter: 803
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 80306"
-generated_at: "2026-03-29T18:27:16.656Z"
+generated_at: "2026-03-29T19:32:28.923Z"
 ---
 
 # § 80306. Relationship to other laws

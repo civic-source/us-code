@@ -5,7 +5,7 @@ usc_section: "711"
 chapter: 33
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 711"
-generated_at: "2026-03-29T18:24:43.786Z"
+generated_at: "2026-03-29T19:28:33.800Z"
 ---
 
 # § 711. “Smokey Bear” character or name

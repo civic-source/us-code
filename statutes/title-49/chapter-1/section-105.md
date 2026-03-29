@@ -5,7 +5,7 @@ usc_section: "105"
 chapter: 1
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 105"
-generated_at: "2026-03-29T18:27:16.417Z"
+generated_at: "2026-03-29T19:32:28.714Z"
 ---
 
 # § 105. National Highway Traffic Safety Administration

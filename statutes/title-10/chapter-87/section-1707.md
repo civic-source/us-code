@@ -5,7 +5,7 @@ usc_section: "1707"
 chapter: 87
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1707"
-generated_at: "2026-03-29T18:23:51.859Z"
+generated_at: "2026-03-29T19:27:25.551Z"
 ---
 
 # [§ 1707. Repealed. Pub. L. 108–136, div. A, title VIII , § 831(a), Nov. 24, 2003 , 117 Stat. 1549 ]

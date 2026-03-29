@@ -5,7 +5,7 @@ usc_section: "1400T"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1400T"
-generated_at: "2026-03-29T18:25:53.759Z"
+generated_at: "2026-03-29T19:30:20.016Z"
 ---
 
 # § 1400T. Special rules for mortgage revenue bonds

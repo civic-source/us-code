@@ -5,7 +5,7 @@ usc_section: "11"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T18:27:02.839Z"
+generated_at: "2026-03-29T19:31:44.465Z"
 ---
 
 # § 300jj–11. Office of the National Coordinator for Health Information Technology

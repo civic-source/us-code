@@ -5,7 +5,7 @@ usc_section: "101"
 chapter: 6
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 101"
-generated_at: "2026-03-29T18:24:40.874Z"
+generated_at: "2026-03-29T19:28:42.929Z"
 ---
 
 # § 101. Annual appropriations

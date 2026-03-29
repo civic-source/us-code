@@ -5,7 +5,7 @@ usc_section: "297h"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 297h"
-generated_at: "2026-03-29T18:27:02.707Z"
+generated_at: "2026-03-29T19:31:44.352Z"
 ---
 
 # § 297h. Repealed. Pub. L. 99–92 , § 9(a)(1), Aug. 16, 1985 , 99 Stat. 400

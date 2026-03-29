@@ -5,7 +5,7 @@ usc_section: "300y"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 300y"
-generated_at: "2026-03-29T18:27:02.777Z"
+generated_at: "2026-03-29T19:31:44.414Z"
 ---
 
 # § 300y. Data infrastructure development

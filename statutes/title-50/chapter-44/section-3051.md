@@ -5,7 +5,7 @@ usc_section: "3051"
 chapter: 44
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 3051"
-generated_at: "2026-03-29T18:27:35.675Z"
+generated_at: "2026-03-29T19:32:24.227Z"
 ---
 
 # § 3051. Repealed. Pub. L. 111–259, title III , § 347(c), Oct. 7, 2010 , 124 Stat. 2698

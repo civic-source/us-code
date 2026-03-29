@@ -5,7 +5,7 @@ usc_section: "3674A"
 chapter: 36
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3674A"
-generated_at: "2026-03-29T18:26:07.610Z"
+generated_at: "2026-03-29T19:30:40.525Z"
 ---
 
 # § 3674A. Evaluations of agency performance; qualifications and performance of agency personnel

@@ -3,9 +3,9 @@ title: "Section 1925 - Agreement"
 usc_title: 14
 usc_section: "1925"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 1925"
-generated_at: "2026-03-29T02:11:23.793Z"
+generated_at: "2026-03-29T18:48:09.826Z"
 ---
 
 # § 1925. Agreement

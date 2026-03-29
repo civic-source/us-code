@@ -5,7 +5,7 @@ usc_section: "715g"
 chapter: 15
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 715g"
-generated_at: "2026-03-29T18:24:08.408Z"
+generated_at: "2026-03-29T19:27:55.383Z"
 ---
 
 # § 715g. Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment

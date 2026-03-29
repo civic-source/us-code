@@ -5,7 +5,7 @@ usc_section: "1791h"
 chapter: 19
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1791h"
-generated_at: "2026-03-29T18:25:43.122Z"
+generated_at: "2026-03-29T19:30:07.625Z"
 ---
 
 # §§ 1791 to 1791h. Repealed. Pub. L. 105–220, title I , § 199(b)(2), Aug. 7, 1998 , 112 Stat. 1059

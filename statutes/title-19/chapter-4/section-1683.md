@@ -5,7 +5,7 @@ usc_section: "1683"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1683"
-generated_at: "2026-03-29T18:24:16.132Z"
+generated_at: "2026-03-29T19:28:30.702Z"
 ---
 
 # § 1683. Definitions

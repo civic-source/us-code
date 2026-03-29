@@ -5,7 +5,7 @@ usc_section: "8606"
 chapter: 93
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8606"
-generated_at: "2026-03-29T18:24:54.411Z"
+generated_at: "2026-03-29T19:29:46.988Z"
 ---
 
 # § 8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies

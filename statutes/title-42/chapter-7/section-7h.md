@@ -5,7 +5,7 @@ usc_section: "7h"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7h"
-generated_at: "2026-03-29T18:27:02.974Z"
+generated_at: "2026-03-29T19:31:44.580Z"
 ---
 
 # § 1320a–7h. Transparency reports and reporting of physician ownership or investment interests

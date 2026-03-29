@@ -5,7 +5,7 @@ usc_section: "40303"
 chapter: 403
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 40303"
-generated_at: "2026-03-29T18:26:09.277Z"
+generated_at: "2026-03-29T19:30:42.067Z"
 ---
 
 # § 40303. Membership and governing body

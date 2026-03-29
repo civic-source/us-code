@@ -5,7 +5,7 @@ usc_section: "2032"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2032"
-generated_at: "2026-03-29T18:26:07.581Z"
+generated_at: "2026-03-29T19:30:40.496Z"
 ---
 
 # § 2032. Therapeutic housing

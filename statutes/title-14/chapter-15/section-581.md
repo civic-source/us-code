@@ -5,7 +5,7 @@ usc_section: "581"
 chapter: 15
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 581"
-generated_at: "2026-03-29T18:23:55.776Z"
+generated_at: "2026-03-29T19:27:45.912Z"
 ---
 
 # § 581. Definitions

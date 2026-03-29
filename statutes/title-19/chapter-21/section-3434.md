@@ -5,7 +5,7 @@ usc_section: "3434"
 chapter: 21
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3434"
-generated_at: "2026-03-29T18:24:16.208Z"
+generated_at: "2026-03-29T19:28:30.771Z"
 ---
 
 # § 3434. Requests for review of determinations by competent investigating authorities of NAFTA countries

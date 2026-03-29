@@ -5,7 +5,7 @@ usc_section: "8174"
 chapter: 88
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8174"
-generated_at: "2026-03-29T18:24:54.399Z"
+generated_at: "2026-03-29T19:29:46.974Z"
 ---
 
 # § 8174. Report on efforts to promote the implementation of additional protocols

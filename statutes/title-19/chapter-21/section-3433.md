@@ -5,7 +5,7 @@ usc_section: "3433"
 chapter: 21
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3433"
-generated_at: "2026-03-29T18:24:16.207Z"
+generated_at: "2026-03-29T19:28:30.771Z"
 ---
 
 # § 3433. Testimony and production of papers in extraordinary challenges

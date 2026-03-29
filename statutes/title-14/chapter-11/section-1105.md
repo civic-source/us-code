@@ -3,9 +3,9 @@ title: "Section 1105 - Prohibition on use of lead systems integrators"
 usc_title: 14
 usc_section: "1105"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 1105"
-generated_at: "2026-03-29T02:11:23.784Z"
+generated_at: "2026-03-29T18:48:09.822Z"
 ---
 
 # § 1105. Prohibition on use of lead systems integrators
@@ -19,4 +19,3 @@ generated_at: "2026-03-29T02:11:23.784Z"
   - **(2)** the procurement was awarded by an entity performing lead systems integrator functions or a subcontractor through full and open competition;
   - **(3)** the procurement was awarded by a subcontractor through a process over which the entity performing lead systems integrator functions or a Tier 1 subcontractor exercised no control; or
   - **(4)** the Commandant has determined that the procurement was awarded in a manner consistent with Federal acquisition laws and regulations promulgated under those laws, including the Federal Acquisition Regulation.
-- **(c)** In this section, the term “lead systems integrator” has the meaning given such term in section 805(c) of the National Defense Authorization Act for Fiscal Year 2006 ( Public Law 109–163 ).

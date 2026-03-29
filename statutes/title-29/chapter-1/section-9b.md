@@ -5,7 +5,7 @@ usc_section: "9b"
 chapter: 1
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 9b"
-generated_at: "2026-03-29T18:25:43.000Z"
+generated_at: "2026-03-29T19:30:07.496Z"
 ---
 
 # § 9b. Rules and regulations

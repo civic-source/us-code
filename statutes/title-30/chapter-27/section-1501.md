@@ -5,7 +5,7 @@ usc_section: "1501"
 chapter: 27
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1501"
-generated_at: "2026-03-29T18:25:30.923Z"
+generated_at: "2026-03-29T19:30:05.304Z"
 ---
 
 # § 1501. Congressional statement of findings

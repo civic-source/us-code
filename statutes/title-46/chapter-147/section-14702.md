@@ -5,7 +5,7 @@ usc_section: "14702"
 chapter: 147
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 14702"
-generated_at: "2026-03-29T18:27:18.897Z"
+generated_at: "2026-03-29T19:32:17.346Z"
 ---
 
 # § 14702. False statements

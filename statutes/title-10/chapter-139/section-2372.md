@@ -5,7 +5,7 @@ usc_section: "2372"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2372"
-generated_at: "2026-03-29T18:23:51.938Z"
+generated_at: "2026-03-29T19:27:25.599Z"
 ---
 
 # § 2372. Independent research and development and bid and proposal costs: payments to contractors

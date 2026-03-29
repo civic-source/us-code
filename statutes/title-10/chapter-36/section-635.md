@@ -5,7 +5,7 @@ usc_section: "635"
 chapter: 36
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 635"
-generated_at: "2026-03-29T18:23:51.753Z"
+generated_at: "2026-03-29T19:27:25.455Z"
 ---
 
 # § 635. Retirement for years of service: regular brigadier generals and rear admirals (lower half)

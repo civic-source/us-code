@@ -5,7 +5,7 @@ usc_section: "3377"
 chapter: 53
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3377"
-generated_at: "2026-03-29T18:24:22.876Z"
+generated_at: "2026-03-29T19:29:27.552Z"
 ---
 
 # § 3377. Exceptions

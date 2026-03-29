@@ -3,9 +3,9 @@ title: "Section 4093 - Science, Mathematics, and Research for Transformation (SM
 usc_title: 10
 usc_section: "4093"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4093"
-generated_at: "2026-03-29T02:10:45.208Z"
+generated_at: "2026-03-29T18:47:53.512Z"
 ---
 
 # § 4093. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program
@@ -46,7 +46,6 @@ generated_at: "2026-03-29T02:10:45.208Z"
 - **(f)**
   - **(1)** The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
   - **(2)** The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
-  - **(3)** In coordination with the efforts under paragraph (2), the Secretary of Defense shall additionally establish a program, which shall be known as the “Ronald V. Dellums Memorial Fellowship in STEM”, to provide financial assistance under this section to at least 30 students from communities that are underrepresented in the Department of Defense STEM workforce, not fewer of 50 percent of whom shall attend historically Black colleges and universities and minority-serving institutions. As part of such program, the Secretary shall establish an internship program that provides each student who is awarded a fellowship under this paragraph with an internship in an organization or element of the Department of Defense, and to the extent practicable, each such student shall be paired with a mid-level or a senior-level official of the relevant organization or element of the Department of Defense who shall serve as a mentor during the internship.
 - **(g)**
   - **(1)** The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
   - **(2)** An individual described in this paragraph is an individual who—

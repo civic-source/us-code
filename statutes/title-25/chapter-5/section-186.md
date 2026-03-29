@@ -5,7 +5,7 @@ usc_section: "186"
 chapter: 5
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 186"
-generated_at: "2026-03-29T18:25:23.668Z"
+generated_at: "2026-03-29T19:29:34.741Z"
 ---
 
 # § 186. Repealed. May 21, 1934, ch. 321 , 48 Stat. 787

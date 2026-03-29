@@ -5,7 +5,7 @@ usc_section: "2322"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2322"
-generated_at: "2026-03-29T18:24:16.156Z"
+generated_at: "2026-03-29T19:28:30.728Z"
 ---
 
 # § 2322. Office of Trade Adjustment Assistance

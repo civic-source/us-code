@@ -5,7 +5,7 @@ usc_section: "2485"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2485"
-generated_at: "2026-03-29T18:24:16.170Z"
+generated_at: "2026-03-29T19:28:30.739Z"
 ---
 
 # § 2485. Voluntary limitations on exports of steel to United States

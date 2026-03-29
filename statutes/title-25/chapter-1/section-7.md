@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 1
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 7"
-generated_at: "2026-03-29T18:25:23.655Z"
+generated_at: "2026-03-29T19:29:34.730Z"
 ---
 
 # § 7. Fees for furnishing certified copies of records

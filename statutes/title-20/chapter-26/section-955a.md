@@ -5,7 +5,7 @@ usc_section: "955a"
 chapter: 26
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 955a"
-generated_at: "2026-03-29T18:24:40.887Z"
+generated_at: "2026-03-29T19:28:42.942Z"
 ---
 
 # § 955a. Omitted

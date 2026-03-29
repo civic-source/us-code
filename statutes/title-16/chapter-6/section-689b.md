@@ -5,7 +5,7 @@ usc_section: "689b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 689b"
-generated_at: "2026-03-29T18:24:22.686Z"
+generated_at: "2026-03-29T19:29:27.332Z"
 ---
 
 # § 689b. Hunting, pursuing, capturing in Tahquitz National Game Preserve unlawful

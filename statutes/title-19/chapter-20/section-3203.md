@@ -5,7 +5,7 @@ usc_section: "3203"
 chapter: 20
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3203"
-generated_at: "2026-03-29T18:24:16.195Z"
+generated_at: "2026-03-29T19:28:30.762Z"
 ---
 
 # § 3203. Eligible articles

@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 32"
-generated_at: "2026-03-29T18:24:40.925Z"
+generated_at: "2026-03-29T19:28:42.981Z"
 ---
 
 # § 1070d–32. Repealed. Pub. L. 102–325, title IV , § 406(a), July 23, 1992 , 106 Stat. 508

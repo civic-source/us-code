@@ -5,7 +5,7 @@ usc_section: "5304"
 chapter: 53
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 5304"
-generated_at: "2026-03-29T18:23:14.159Z"
+generated_at: "2026-03-29T19:27:07.597Z"
 ---
 
 # § 5304. Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms

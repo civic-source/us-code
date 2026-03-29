@@ -5,7 +5,7 @@ usc_section: "378"
 chapter: 3
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 378"
-generated_at: "2026-03-29T18:24:02.753Z"
+generated_at: "2026-03-29T19:28:17.509Z"
 ---
 
 # § 378. Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties

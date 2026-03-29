@@ -5,7 +5,7 @@ usc_section: "7614b"
 chapter: 103
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7614b"
-generated_at: "2026-03-29T18:23:43.525Z"
+generated_at: "2026-03-29T19:27:31.995Z"
 ---
 
 # § 7614b. Review of plan of work requirements

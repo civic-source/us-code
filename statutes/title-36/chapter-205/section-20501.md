@@ -5,7 +5,7 @@ usc_section: "20501"
 chapter: 205
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 20501"
-generated_at: "2026-03-29T18:26:09.269Z"
+generated_at: "2026-03-29T19:30:42.056Z"
 ---
 
 # § 20501. Organization

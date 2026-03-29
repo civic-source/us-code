@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 631
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:52.064Z"
+generated_at: "2026-03-29T19:27:25.692Z"
 ---
 
 # § 7233. 1 1 So in original. No section 7232 has been enacted. Auxiliary vessels: extended lease authority

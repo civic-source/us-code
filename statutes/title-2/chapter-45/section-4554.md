@@ -5,7 +5,7 @@ usc_section: "4554"
 chapter: 45
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 4554"
-generated_at: "2026-03-29T18:23:14.152Z"
+generated_at: "2026-03-29T19:27:07.589Z"
 ---
 
 # § 4554. Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House

@@ -5,7 +5,7 @@ usc_section: "1820"
 chapter: 16
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1820"
-generated_at: "2026-03-29T18:24:02.903Z"
+generated_at: "2026-03-29T19:28:17.668Z"
 ---
 
 # § 1820. Administration of Corporation

@@ -5,7 +5,7 @@ usc_section: "63"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-29T18:25:53.412Z"
+generated_at: "2026-03-29T19:30:19.683Z"
 ---
 
 # § 63. Taxable income defined

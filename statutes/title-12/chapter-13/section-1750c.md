@@ -5,7 +5,7 @@ usc_section: "1750c"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1750c"
-generated_at: "2026-03-29T18:24:02.870Z"
+generated_at: "2026-03-29T19:28:17.634Z"
 ---
 
 # § 1750c. Mortgage insurance benefits

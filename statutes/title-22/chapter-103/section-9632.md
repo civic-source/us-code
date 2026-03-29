@@ -3,9 +3,9 @@ title: "Section 9632 - Corporate powers"
 usc_title: 22
 usc_section: "9632"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 9632"
-generated_at: "2026-03-29T02:12:40.507Z"
+generated_at: "2026-03-29T18:44:49.565Z"
 ---
 
 # § 9632. Corporate powers
@@ -20,7 +20,7 @@ generated_at: "2026-03-29T02:12:40.507Z"
   - **(7)** may hire or obtain passenger motor vehicles;
   - **(8)** may sue and be sued in its corporate name;
   - **(9)** may acquire, hold, or dispose of, upon such terms and conditions as the Corporation may determine, any property, real, personal, or mixed, tangible or intangible, or any interest in such property, except that, in the case of real property that is for the Corporation’s own occupancy, the acquisition, holding, or disposition of the real property shall be conducted in consultation with the Administrator of General Services;
-  - **(10)** may lease office space for the Corporation’s own use, with the obligation of amounts for such lease limited to the current fiscal year for which payments are due;
+  - **(10)** may lease office space for the Corporation’s own use, with the obligation of amounts for such lease limited to the current fiscal year for which payments are due until the expiration of the current lease under predecessor authority, as of the day before October 5, 2018 ;
   - **(11)** may indemnify directors, officers, employees, and agents of the Corporation for liabilities and expenses incurred in connection with their activities on behalf of the Corporation;
   - **(12)** notwithstanding any other provision of law, may represent itself or contract for representation in any legal or arbitral proceeding;
   - **(13)** may exercise any priority of the Government of the United States in collecting debts from bankrupt, insolvent, or decedents’ estates;

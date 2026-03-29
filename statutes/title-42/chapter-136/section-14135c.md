@@ -5,7 +5,7 @@ usc_section: "14135c"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14135c"
-generated_at: "2026-03-29T18:27:04.160Z"
+generated_at: "2026-03-29T19:31:45.768Z"
 ---
 
 # § 14135c. Conditions of release generally

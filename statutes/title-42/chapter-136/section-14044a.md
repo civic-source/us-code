@@ -5,7 +5,7 @@ usc_section: "14044a"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14044a"
-generated_at: "2026-03-29T18:27:04.151Z"
+generated_at: "2026-03-29T19:31:45.758Z"
 ---
 
 # § 14044a. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking

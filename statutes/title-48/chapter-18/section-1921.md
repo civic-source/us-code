@@ -5,7 +5,7 @@ usc_section: "1921"
 chapter: 18
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1921"
-generated_at: "2026-03-29T18:27:11.685Z"
+generated_at: "2026-03-29T19:31:53.974Z"
 ---
 
 # § 1921. Approval of U.S.-FSM Compact of Free Association and the U.S.-RMI Compact of Free Association; references to subsidiary agreements or separate agreements

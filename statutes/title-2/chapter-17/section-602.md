@@ -5,7 +5,7 @@ usc_section: "602"
 chapter: 17
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 602"
-generated_at: "2026-03-29T18:23:14.077Z"
+generated_at: "2026-03-29T19:27:07.524Z"
 ---
 
 # § 602. Duties and functions

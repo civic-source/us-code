@@ -5,7 +5,7 @@ usc_section: "2007"
 chapter: 101
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2007"
-generated_at: "2026-03-29T18:23:51.869Z"
+generated_at: "2026-03-29T19:27:25.557Z"
 ---
 
 # § 2007. Payment of tuition for off-duty training or education

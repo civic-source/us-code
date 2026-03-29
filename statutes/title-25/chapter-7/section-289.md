@@ -5,7 +5,7 @@ usc_section: "289"
 chapter: 7
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 289"
-generated_at: "2026-03-29T18:25:23.671Z"
+generated_at: "2026-03-29T19:29:34.744Z"
 ---
 
 # §§ 288, 289. Repealed. Pub. L. 99–228 , § 3(1), (2), Dec. 28, 1985 , 99 Stat. 1748

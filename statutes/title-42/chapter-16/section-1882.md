@@ -5,7 +5,7 @@ usc_section: "1882"
 chapter: 16
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1882"
-generated_at: "2026-03-29T18:27:03.391Z"
+generated_at: "2026-03-29T19:31:44.981Z"
 ---
 
 # § 1882. Information furnished to Congressional committees

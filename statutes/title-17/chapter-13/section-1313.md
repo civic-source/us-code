@@ -5,7 +5,7 @@ usc_section: "1313"
 chapter: 13
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 1313"
-generated_at: "2026-03-29T18:24:28.495Z"
+generated_at: "2026-03-29T19:28:20.887Z"
 ---
 
 # § 1313. Examination of application and issue or refusal of registration

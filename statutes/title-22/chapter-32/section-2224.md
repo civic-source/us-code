@@ -5,7 +5,7 @@ usc_section: "2224"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2224"
-generated_at: "2026-03-29T18:24:54.195Z"
+generated_at: "2026-03-29T19:29:46.754Z"
 ---
 
 # § 2224. Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 1978 , 92 Stat. 961

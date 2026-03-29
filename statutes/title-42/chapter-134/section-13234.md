@@ -5,7 +5,7 @@ usc_section: "13234"
 chapter: 134
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13234"
-generated_at: "2026-03-29T18:27:04.108Z"
+generated_at: "2026-03-29T19:31:45.707Z"
 ---
 
 # § 13234. Federal Energy Regulatory Commission authority to approve recovery of certain expenses in advance

@@ -5,7 +5,7 @@ usc_section: "5918"
 chapter: 74
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5918"
-generated_at: "2026-03-29T18:27:03.671Z"
+generated_at: "2026-03-29T19:31:45.258Z"
 ---
 
 # § 5918. Repealed. Pub. L. 104–106, div. D, title XLIII , § 4304(b)(5), Feb. 10, 1996 , 110 Stat. 664

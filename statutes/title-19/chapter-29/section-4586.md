@@ -3,9 +3,9 @@ title: "Section 4586 - Subsidy negotiations"
 usc_title: 19
 usc_section: "4586"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "19 U.S.C. § 4586"
-generated_at: "2026-03-29T02:12:08.783Z"
+generated_at: "2026-03-29T18:49:11.316Z"
 ---
 
 # § 4586. Subsidy negotiations

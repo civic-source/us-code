@@ -5,7 +5,7 @@ usc_section: "11433"
 chapter: 119
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11433"
-generated_at: "2026-03-29T18:27:04.030Z"
+generated_at: "2026-03-29T19:31:45.622Z"
 ---
 
 # § 11433. Local educational agency subgrants for the education of homeless children and youths

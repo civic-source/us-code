@@ -5,7 +5,7 @@ usc_section: "1074"
 chapter: 26
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1074"
-generated_at: "2026-03-29T18:26:14.846Z"
+generated_at: "2026-03-29T19:31:49.091Z"
 ---
 
 # § 1074. Repealed. Pub. L. 94–579, title VII , § 703(a), Oct. 21, 1976 , 90 Stat. 2789

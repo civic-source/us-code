@@ -5,7 +5,7 @@ usc_section: "6324"
 chapter: 72
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 6324"
-generated_at: "2026-03-29T18:24:54.350Z"
+generated_at: "2026-03-29T19:29:46.918Z"
 ---
 
 # § 6324. Definitions

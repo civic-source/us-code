@@ -5,7 +5,7 @@ usc_section: "251k"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 251k"
-generated_at: "2026-03-29T18:24:22.440Z"
+generated_at: "2026-03-29T19:29:27.059Z"
 ---
 
 # § 251k. Economic dislocation in land acquisition; exchange of lands; transfers of land within a national forest; concurrence of Secretary of Agriculture

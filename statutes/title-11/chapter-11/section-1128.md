@@ -5,7 +5,7 @@ usc_section: "1128"
 chapter: 11
 current_through: "PL 114-254"
 classification: "11 U.S.C. § 1128"
-generated_at: "2026-03-29T18:23:58.119Z"
+generated_at: "2026-03-29T19:28:02.029Z"
 ---
 
 # § 1128. Confirmation hearing

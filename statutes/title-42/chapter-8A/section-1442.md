@@ -5,7 +5,7 @@ usc_section: "1442"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1442"
-generated_at: "2026-03-29T18:27:03.315Z"
+generated_at: "2026-03-29T19:31:44.913Z"
 ---
 
 # § 1442. Repealed. Aug. 31, 1954, ch. 1158 , § 7, 68 Stat. 1026

@@ -5,7 +5,7 @@ usc_section: "5985"
 chapter: 553
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5985"
-generated_at: "2026-03-29T18:23:52.049Z"
+generated_at: "2026-03-29T19:27:25.678Z"
 ---
 
 # § 5985. Nautical Schools: detail of naval officers as superintendents or instructors

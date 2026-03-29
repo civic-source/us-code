@@ -5,7 +5,7 @@ usc_section: "783"
 chapter: 19
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 783"
-generated_at: "2026-03-29T18:26:14.831Z"
+generated_at: "2026-03-29T19:31:49.076Z"
 ---
 
 # §§ 782, 783. Repealed. Pub. L. 87–558 , § 1, July 27, 1962 , 76 Stat. 246

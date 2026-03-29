@@ -5,7 +5,7 @@ usc_section: "294"
 chapter: 4
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 294"
-generated_at: "2026-03-29T18:26:01.159Z"
+generated_at: "2026-03-29T19:30:28.702Z"
 ---
 
 # § 294. Repealed. Pub. L. 96–591 , § 8(b), Dec. 24, 1980 , 94 Stat. 3435

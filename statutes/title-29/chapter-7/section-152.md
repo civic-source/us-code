@@ -5,7 +5,7 @@ usc_section: "152"
 chapter: 7
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 152"
-generated_at: "2026-03-29T18:25:43.004Z"
+generated_at: "2026-03-29T19:30:07.501Z"
 ---
 
 # § 152. Definitions

@@ -5,7 +5,7 @@ usc_section: "1a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1a"
-generated_at: "2026-03-29T18:23:14.013Z"
+generated_at: "2026-03-29T19:27:07.483Z"
 ---
 
 # § 1a. Election to be certified by governor

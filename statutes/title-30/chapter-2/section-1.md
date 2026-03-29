@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 2
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-29T18:25:30.839Z"
+generated_at: "2026-03-29T19:30:05.213Z"
 ---
 
 # § 28–1. Inclusion of certain surveys in labor requirements of mining claims; conditions and restrictions

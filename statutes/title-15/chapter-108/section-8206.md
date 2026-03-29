@@ -5,7 +5,7 @@ usc_section: "8206"
 chapter: 108
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 8206"
-generated_at: "2026-03-29T18:24:08.664Z"
+generated_at: "2026-03-29T19:27:55.618Z"
 ---
 
 # § 8206. Definitions

@@ -5,7 +5,7 @@ usc_section: "2094"
 chapter: 38
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2094"
-generated_at: "2026-03-29T18:27:35.630Z"
+generated_at: "2026-03-29T19:32:24.130Z"
 ---
 
 # § 2094. Attachment of moneys

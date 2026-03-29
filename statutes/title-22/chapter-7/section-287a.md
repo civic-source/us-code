@@ -5,7 +5,7 @@ usc_section: "287a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 287a"
-generated_at: "2026-03-29T18:24:54.126Z"
+generated_at: "2026-03-29T19:29:46.675Z"
 ---
 
 # § 287a. Action by representatives in accordance with Presidential instructions; voting

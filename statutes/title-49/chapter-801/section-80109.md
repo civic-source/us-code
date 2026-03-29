@@ -5,7 +5,7 @@ usc_section: "80109"
 chapter: 801
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 80109"
-generated_at: "2026-03-29T18:27:16.655Z"
+generated_at: "2026-03-29T19:32:28.922Z"
 ---
 
 # § 80109. Liens under negotiable bills

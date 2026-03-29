@@ -5,7 +5,7 @@ usc_section: "15606"
 chapter: 147
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15606"
-generated_at: "2026-03-29T18:27:04.192Z"
+generated_at: "2026-03-29T19:31:45.803Z"
 ---
 
 # § 15606. National Prison Rape Elimination Commission

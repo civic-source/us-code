@@ -5,7 +5,7 @@ usc_section: "4589"
 chapter: 46
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 4589"
-generated_at: "2026-03-29T18:24:03.038Z"
+generated_at: "2026-03-29T19:28:17.817Z"
 ---
 
 # § 4589. Repealed. Pub. L. 110–289, div. A, title I , § 1122(a)(2), July 30, 2008 , 122 Stat. 2689

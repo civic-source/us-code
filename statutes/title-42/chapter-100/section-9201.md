@@ -5,7 +5,7 @@ usc_section: "9201"
 chapter: 100
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9201"
-generated_at: "2026-03-29T18:27:03.905Z"
+generated_at: "2026-03-29T19:31:45.494Z"
 ---
 
 # § 9201. Congressional findings and declaration of purpose

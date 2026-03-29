@@ -5,7 +5,7 @@ usc_section: "5204"
 chapter: 78
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5204"
-generated_at: "2026-03-29T18:24:08.614Z"
+generated_at: "2026-03-29T19:27:55.569Z"
 ---
 
 # § 5204. National Institute of Standards and Technology

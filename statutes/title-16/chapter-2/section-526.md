@@ -5,7 +5,7 @@ usc_section: "526"
 chapter: 2
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 526"
-generated_at: "2026-03-29T18:24:22.631Z"
+generated_at: "2026-03-29T19:29:27.274Z"
 ---
 
 # § 526. Establishment and protection of water rights

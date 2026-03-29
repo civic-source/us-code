@@ -5,7 +5,7 @@ usc_section: "41113"
 chapter: 411
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 41113"
-generated_at: "2026-03-29T18:27:16.580Z"
+generated_at: "2026-03-29T19:32:28.863Z"
 ---
 
 # § 41113. Plans to address needs of families of passengers involved in aircraft accidents

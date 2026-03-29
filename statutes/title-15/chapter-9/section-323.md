@@ -5,7 +5,7 @@ usc_section: "323"
 chapter: 9
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 323"
-generated_at: "2026-03-29T18:24:08.339Z"
+generated_at: "2026-03-29T19:27:55.311Z"
 ---
 
 # § 323. Repealed. July 25, 1947, ch. 327 , § 1, 61 Stat. 449

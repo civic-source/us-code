@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 55
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-29T18:27:03.581Z"
+generated_at: "2026-03-29T19:31:45.162Z"
 ---
 
 # § 4370m–5. Delegated State permitting programs

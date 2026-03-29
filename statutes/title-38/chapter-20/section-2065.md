@@ -5,7 +5,7 @@ usc_section: "2065"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2065"
-generated_at: "2026-03-29T18:26:07.583Z"
+generated_at: "2026-03-29T19:30:40.499Z"
 ---
 
 # § 2065. Annual report on assistance to homeless veterans

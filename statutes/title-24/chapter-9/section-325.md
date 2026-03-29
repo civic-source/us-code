@@ -5,7 +5,7 @@ usc_section: "325"
 chapter: 9
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 325"
-generated_at: "2026-03-29T18:25:00.384Z"
+generated_at: "2026-03-29T19:29:35.072Z"
 ---
 
 # § 325. Examination of persons admitted

@@ -5,7 +5,7 @@ usc_section: "5103"
 chapter: 77
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5103"
-generated_at: "2026-03-29T18:24:08.613Z"
+generated_at: "2026-03-29T19:27:55.568Z"
 ---
 
 # § 5103. Establishment of scientific research and development program to develop competitive manufacturing technologies and increase energy efficiency in steel and aluminum industries

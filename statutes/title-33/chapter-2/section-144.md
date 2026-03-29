@@ -5,7 +5,7 @@ usc_section: "144"
 chapter: 2
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 144"
-generated_at: "2026-03-29T18:26:01.158Z"
+generated_at: "2026-03-29T19:30:28.702Z"
 ---
 
 # § 144. Repealed. Pub. L. 88–131 , § 3, Sept. 4, 1963 , 77 Stat. 194

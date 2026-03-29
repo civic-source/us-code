@@ -5,7 +5,7 @@ usc_section: "113"
 chapter: 6
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 113"
-generated_at: "2026-03-29T18:25:43.003Z"
+generated_at: "2026-03-29T19:30:07.501Z"
 ---
 
 # § 113. Definitions of terms and words used in chapter

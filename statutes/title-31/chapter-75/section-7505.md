@@ -5,7 +5,7 @@ usc_section: "7505"
 chapter: 75
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 7505"
-generated_at: "2026-03-29T18:25:59.215Z"
+generated_at: "2026-03-29T19:30:24.810Z"
 ---
 
 # § 7505. Regulations

@@ -5,7 +5,7 @@ usc_section: "1131c"
 chapter: 7
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1131c"
-generated_at: "2026-03-29T18:24:02.769Z"
+generated_at: "2026-03-29T19:28:17.527Z"
 ---
 
 # § 1131c. Repealed. Pub. L. 92–181, title V , § 5.26(a), Dec. 10, 1971 , 85 Stat. 624

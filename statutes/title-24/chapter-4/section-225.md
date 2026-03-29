@@ -5,7 +5,7 @@ usc_section: "225"
 chapter: 4
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 225"
-generated_at: "2026-03-29T18:25:00.380Z"
+generated_at: "2026-03-29T19:29:35.069Z"
 ---
 
 # § 225. Findings and purposes

@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 19
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T18:27:03.394Z"
+generated_at: "2026-03-29T19:31:44.986Z"
 ---
 
 # § 1962d–2. Delegation of functions

@@ -5,7 +5,7 @@ usc_section: "1350"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1350"
-generated_at: "2026-03-29T18:25:43.113Z"
+generated_at: "2026-03-29T19:30:07.614Z"
 ---
 
 # § 1350. Missing participants

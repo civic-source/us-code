@@ -5,7 +5,7 @@ usc_section: "5a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 5a"
-generated_at: "2026-03-29T18:24:16.062Z"
+generated_at: "2026-03-29T19:28:30.636Z"
 ---
 
 # §§ 5, 5a. Repealed. Pub. L. 91–271, title III , § 321(a), (b), June 2, 1970 , 84 Stat. 293

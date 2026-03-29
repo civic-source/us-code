@@ -5,7 +5,7 @@ usc_section: "22707"
 chapter: 227
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 22707"
-generated_at: "2026-03-29T18:26:09.273Z"
+generated_at: "2026-03-29T19:30:42.061Z"
 ---
 
 # § 22707. Restrictions

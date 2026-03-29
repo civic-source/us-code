@@ -5,7 +5,7 @@ usc_section: "2414"
 chapter: 24
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2414"
-generated_at: "2026-03-29T18:26:07.588Z"
+generated_at: "2026-03-29T19:30:40.505Z"
 ---
 
 # § 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors

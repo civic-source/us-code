@@ -5,7 +5,7 @@ usc_section: "2803"
 chapter: 29
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2803"
-generated_at: "2026-03-29T18:24:02.990Z"
+generated_at: "2026-03-29T19:28:17.761Z"
 ---
 
 # § 2803. Maintenance of records and public disclosure

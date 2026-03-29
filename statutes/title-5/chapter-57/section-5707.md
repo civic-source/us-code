@@ -5,7 +5,7 @@ usc_section: "5707"
 chapter: 57
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 5707"
-generated_at: "2026-03-29T18:23:29.909Z"
+generated_at: "2026-03-29T19:27:05.304Z"
 ---
 
 # § 5707. Regulations and reports

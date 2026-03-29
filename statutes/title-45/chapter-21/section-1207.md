@@ -5,7 +5,7 @@ usc_section: "1207"
 chapter: 21
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 1207"
-generated_at: "2026-03-29T18:26:13.327Z"
+generated_at: "2026-03-29T19:31:12.252Z"
 ---
 
 # § 1207. State operation

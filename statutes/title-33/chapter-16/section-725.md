@@ -5,7 +5,7 @@ usc_section: "725"
 chapter: 16
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 725"
-generated_at: "2026-03-29T18:26:01.199Z"
+generated_at: "2026-03-29T19:30:28.743Z"
 ---
 
 # § 725. Prohibition against officers and employees being interested in contracts for materials, etc.

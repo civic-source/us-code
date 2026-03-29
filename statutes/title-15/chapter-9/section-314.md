@@ -5,7 +5,7 @@ usc_section: "314"
 chapter: 9
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 314"
-generated_at: "2026-03-29T18:24:08.339Z"
+generated_at: "2026-03-29T19:27:55.311Z"
 ---
 
 # § 314. Omitted

@@ -5,7 +5,7 @@ usc_section: "1714"
 chapter: 17
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1714"
-generated_at: "2026-03-29T18:26:07.560Z"
+generated_at: "2026-03-29T19:30:40.477Z"
 ---
 
 # § 1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs

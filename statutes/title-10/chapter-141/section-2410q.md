@@ -5,7 +5,7 @@ usc_section: "2410q"
 chapter: 141
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2410q"
-generated_at: "2026-03-29T18:23:51.951Z"
+generated_at: "2026-03-29T19:27:25.604Z"
 ---
 
 # § 2410q. Multiyear contracts: purchase of electricity from renewable energy sources

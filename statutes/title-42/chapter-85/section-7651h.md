@@ -5,7 +5,7 @@ usc_section: "7651h"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7651h"
-generated_at: "2026-03-29T18:27:03.847Z"
+generated_at: "2026-03-29T19:31:45.433Z"
 ---
 
 # § 7651h. Repowered sources

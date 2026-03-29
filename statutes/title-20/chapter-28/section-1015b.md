@@ -5,7 +5,7 @@ usc_section: "1015b"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1015b"
-generated_at: "2026-03-29T18:24:40.895Z"
+generated_at: "2026-03-29T19:28:42.950Z"
 ---
 
 # § 1015b. Textbook information

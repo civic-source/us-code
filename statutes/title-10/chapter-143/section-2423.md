@@ -5,7 +5,7 @@ usc_section: "2423"
 chapter: 143
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2423"
-generated_at: "2026-03-29T18:23:51.953Z"
+generated_at: "2026-03-29T19:27:25.605Z"
 ---
 
 # § 2423. Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office

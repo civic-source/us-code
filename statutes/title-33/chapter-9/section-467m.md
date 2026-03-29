@@ -5,7 +5,7 @@ usc_section: "467m"
 chapter: 9
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 467m"
-generated_at: "2026-03-29T18:26:01.171Z"
+generated_at: "2026-03-29T19:30:28.715Z"
 ---
 
 # §§ 467k to 467m. Repealed. Pub. L. 104–303, title II , § 215(c)(2), Oct. 12, 1996 , 110 Stat. 3685

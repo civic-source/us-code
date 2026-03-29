@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-29T18:27:03.420Z"
+generated_at: "2026-03-29T19:31:45.007Z"
 ---
 
 # § 2000ff–6. Remedies and enforcement

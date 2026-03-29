@@ -5,7 +5,7 @@ usc_section: "1465e"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1465e"
-generated_at: "2026-03-29T18:24:54.151Z"
+generated_at: "2026-03-29T19:29:46.703Z"
 ---
 
 # § 1465e. Compensation for Cuban interference with broadcasting in United States

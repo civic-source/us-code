@@ -5,7 +5,7 @@ usc_section: "151"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 151"
-generated_at: "2026-03-29T18:27:03.126Z"
+generated_at: "2026-03-29T19:31:44.720Z"
 ---
 
 # § 1395w–151. Definitions; treatment of references to provisions in part C

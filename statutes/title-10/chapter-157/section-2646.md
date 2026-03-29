@@ -5,7 +5,7 @@ usc_section: "2646"
 chapter: 157
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2646"
-generated_at: "2026-03-29T18:23:51.985Z"
+generated_at: "2026-03-29T19:27:25.629Z"
 ---
 
 # § 2646. Travel services: procurement for official and unofficial travel under one contract

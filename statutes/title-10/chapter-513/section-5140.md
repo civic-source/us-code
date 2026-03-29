@@ -5,7 +5,7 @@ usc_section: "5140"
 chapter: 513
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5140"
-generated_at: "2026-03-29T18:23:52.042Z"
+generated_at: "2026-03-29T19:27:25.675Z"
 ---
 
 # [§ 5140. Repealed. Pub. L. 96–513, title III , § 352(a), Dec. 12, 1980 , 94 Stat. 2902 ]

@@ -5,7 +5,7 @@ usc_section: "1862r"
 chapter: 16
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1862r"
-generated_at: "2026-03-29T18:27:03.388Z"
+generated_at: "2026-03-29T19:31:44.978Z"
 ---
 
 # § 1862r. Research in disabilities education

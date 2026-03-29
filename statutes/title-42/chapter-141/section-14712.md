@@ -5,7 +5,7 @@ usc_section: "14712"
 chapter: 141
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14712"
-generated_at: "2026-03-29T18:27:04.173Z"
+generated_at: "2026-03-29T19:31:45.782Z"
 ---
 
 # § 14712. Repealed or Transferred

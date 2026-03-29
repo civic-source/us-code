@@ -5,7 +5,7 @@ usc_section: "11503"
 chapter: 115
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 11503"
-generated_at: "2026-03-29T18:26:04.583Z"
+generated_at: "2026-03-29T19:30:36.705Z"
 ---
 
 # § 11503. Report

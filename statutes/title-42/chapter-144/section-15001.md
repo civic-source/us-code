@@ -5,7 +5,7 @@ usc_section: "15001"
 chapter: 144
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15001"
-generated_at: "2026-03-29T18:27:04.177Z"
+generated_at: "2026-03-29T19:31:45.785Z"
 ---
 
 # § 15001. Findings, purposes, and policy

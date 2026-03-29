@@ -5,7 +5,7 @@ usc_section: "1730i"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1730i"
-generated_at: "2026-03-29T18:24:02.854Z"
+generated_at: "2026-03-29T19:28:17.619Z"
 ---
 
 # §§ 1730f to 1730i. Repealed. Pub. L. 101–73, title IV , § 407, Aug. 9, 1989 , 103 Stat. 363

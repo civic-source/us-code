@@ -5,7 +5,7 @@ usc_section: "1075"
 chapter: 55
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-29T18:23:51.789Z"
+generated_at: "2026-03-29T19:27:25.501Z"
 ---
 
 # [§ 1075. Repealed. Pub. L. 108–375, div. A, title VI , § 607(a)(1), Oct. 28, 2004 , 118 Stat. 1946 ]

@@ -5,7 +5,7 @@ usc_section: "1600l"
 chapter: 32
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1600l"
-generated_at: "2026-03-29T18:26:14.873Z"
+generated_at: "2026-03-29T19:31:49.120Z"
 ---
 
 # § 1600l. Authorization of appropriations

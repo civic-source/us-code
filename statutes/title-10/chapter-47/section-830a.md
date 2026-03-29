@@ -1,14 +1,14 @@
 ---
-title: "Section 830a - Art. 30a. Proceedings conducted before referral"
+title: "Section 830a - Art 30a. Proceedings conducted before referral"
 usc_title: 10
 usc_section: "830a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 830a"
-generated_at: "2026-03-29T02:10:44.914Z"
+generated_at: "2026-03-29T18:47:53.286Z"
 ---
 
-# § 830a. Art. 30a. Proceedings conducted before referral
+# § 830a. Art 30a. Proceedings conducted before referral
 
 - **(a)**
   - **(1)** The President shall prescribe regulations for matters relating to proceedings conducted before referral of charges and specifications to court-martial for trial, including the following:

@@ -5,7 +5,7 @@ usc_section: "717d"
 chapter: 15
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 717d"
-generated_at: "2026-03-29T18:24:08.410Z"
+generated_at: "2026-03-29T19:27:55.384Z"
 ---
 
 # § 717d. Fixing rates and charges; determination of cost of production or transportation

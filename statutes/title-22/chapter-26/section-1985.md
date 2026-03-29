@@ -5,7 +5,7 @@ usc_section: "1985"
 chapter: 26
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1985"
-generated_at: "2026-03-29T18:24:54.167Z"
+generated_at: "2026-03-29T19:29:46.721Z"
 ---
 
 # §§ 1981 to 1985. Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 Stat. 1569

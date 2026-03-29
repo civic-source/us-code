@@ -5,7 +5,7 @@ usc_section: "4357"
 chapter: 55
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 4357"
-generated_at: "2026-03-29T18:24:41.093Z"
+generated_at: "2026-03-29T19:28:43.139Z"
 ---
 
 # § 4357. Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf

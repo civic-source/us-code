@@ -5,7 +5,7 @@ usc_section: "301"
 chapter: 9
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 301"
-generated_at: "2026-03-29T18:23:55.158Z"
+generated_at: "2026-03-29T19:27:55.736Z"
 ---
 
 # § 301. Collection and publication

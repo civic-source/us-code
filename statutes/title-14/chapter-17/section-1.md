@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 17
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:55.782Z"
+generated_at: "2026-03-29T19:27:45.916Z"
 ---
 
 # § 681. 1 1 Another section 681 is set out in chapter 18 of this title. Disposition of infrastructure related to E–LORAN

@@ -5,7 +5,7 @@ usc_section: "431"
 chapter: 12
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 431"
-generated_at: "2026-03-29T18:24:08.342Z"
+generated_at: "2026-03-29T19:27:55.314Z"
 ---
 
 # § 431. Definitions

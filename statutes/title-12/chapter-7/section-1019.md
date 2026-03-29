@@ -5,7 +5,7 @@ usc_section: "1019"
 chapter: 7
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1019"
-generated_at: "2026-03-29T18:24:02.769Z"
+generated_at: "2026-03-29T19:28:17.527Z"
 ---
 
 # §§ 1017 to 1019. Repealed. Pub. L. 87–353 , § 3(b), Oct. 4, 1961 , 75 Stat. 773

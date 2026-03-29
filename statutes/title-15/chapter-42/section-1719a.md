@@ -5,7 +5,7 @@ usc_section: "1719a"
 chapter: 42
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1719a"
-generated_at: "2026-03-29T18:24:08.510Z"
+generated_at: "2026-03-29T19:27:55.477Z"
 ---
 
 # § 1719a. Repealed. Pub. L. 104–66, title I , § 1071(c), Dec. 21, 1995 , 109 Stat. 720

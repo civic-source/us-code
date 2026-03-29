@@ -5,7 +5,7 @@ usc_section: "2414a"
 chapter: 26
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2414a"
-generated_at: "2026-03-29T18:25:23.783Z"
+generated_at: "2026-03-29T19:29:34.838Z"
 ---
 
 # § 2414a. Review of programs

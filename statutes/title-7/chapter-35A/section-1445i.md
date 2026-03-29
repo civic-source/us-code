@@ -5,7 +5,7 @@ usc_section: "1445i"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1445i"
-generated_at: "2026-03-29T18:23:43.265Z"
+generated_at: "2026-03-29T19:27:31.738Z"
 ---
 
 # § 1445i. Multiyear set-aside contracts for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice

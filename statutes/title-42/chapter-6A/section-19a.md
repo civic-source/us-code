@@ -5,7 +5,7 @@ usc_section: "19a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 19a"
-generated_at: "2026-03-29T18:27:02.824Z"
+generated_at: "2026-03-29T19:31:44.452Z"
 ---
 
 # § 300gg–19a. Patient protections

@@ -5,7 +5,7 @@ usc_section: "1439"
 chapter: 73
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1439"
-generated_at: "2026-03-29T18:23:51.823Z"
+generated_at: "2026-03-29T19:27:25.531Z"
 ---
 
 # § 1439. Refund of amounts deducted from retired pay

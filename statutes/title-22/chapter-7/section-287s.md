@@ -5,7 +5,7 @@ usc_section: "287s"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 287s"
-generated_at: "2026-03-29T18:24:54.129Z"
+generated_at: "2026-03-29T19:29:46.679Z"
 ---
 
 # § 287s. Amendments to constitution of Organization involving new obligations

@@ -5,7 +5,7 @@ usc_section: "8909"
 chapter: 96
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8909"
-generated_at: "2026-03-29T18:24:54.419Z"
+generated_at: "2026-03-29T19:29:46.997Z"
 ---
 
 # § 8909. Repealed. Pub. L. 113–291, div. A, title XII , § 1245(e), Dec. 19, 2014 , 128 Stat. 3568

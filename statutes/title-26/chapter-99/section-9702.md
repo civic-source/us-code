@@ -5,7 +5,7 @@ usc_section: "9702"
 chapter: 99
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 9702"
-generated_at: "2026-03-29T18:25:54.009Z"
+generated_at: "2026-03-29T19:30:20.292Z"
 ---
 
 # § 9702. Establishment of the United Mine Workers of America Combined Benefit Fund

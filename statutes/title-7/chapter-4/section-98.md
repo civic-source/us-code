@@ -5,7 +5,7 @@ usc_section: "98"
 chapter: 4
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 98"
-generated_at: "2026-03-29T18:23:43.143Z"
+generated_at: "2026-03-29T19:27:31.632Z"
 ---
 
 # § 98. Fees and charges for naval stores inspection and related services; establishment, collection, etc.; authorization of appropriations; administrative expenses

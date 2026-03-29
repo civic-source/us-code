@@ -5,7 +5,7 @@ usc_section: "66a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 66a"
-generated_at: "2026-03-29T18:23:14.030Z"
+generated_at: "2026-03-29T19:27:07.492Z"
 ---
 
 # § 66a. Transferred

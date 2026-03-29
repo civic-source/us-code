@@ -5,7 +5,7 @@ usc_section: "719h"
 chapter: 15
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 719h"
-generated_at: "2026-03-29T18:24:08.415Z"
+generated_at: "2026-03-29T19:27:55.389Z"
 ---
 
 # § 719h. Judicial review

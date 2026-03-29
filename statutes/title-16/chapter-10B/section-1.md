@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 10
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T18:24:22.708Z"
+generated_at: "2026-03-29T19:29:27.359Z"
 ---
 
 # § 777g–1. Boating infrastructure

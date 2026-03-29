@@ -5,7 +5,7 @@ usc_section: "1754"
 chapter: 17
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1754"
-generated_at: "2026-03-29T18:26:07.566Z"
+generated_at: "2026-03-29T19:30:40.482Z"
 ---
 
 # § 1754. Reports

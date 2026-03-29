@@ -5,7 +5,7 @@ usc_section: "228e"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 228e"
-generated_at: "2026-03-29T18:24:22.436Z"
+generated_at: "2026-03-29T19:29:27.054Z"
 ---
 
 # § 228e. Cooperative agreements for protection and unified interpretation of enlarged park; scope of agreements

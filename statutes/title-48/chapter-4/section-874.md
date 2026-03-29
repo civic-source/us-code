@@ -5,7 +5,7 @@ usc_section: "874"
 chapter: 4
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 874"
-generated_at: "2026-03-29T18:27:11.646Z"
+generated_at: "2026-03-29T19:31:53.945Z"
 ---
 
 # § 874. Judicial process; officials to be citizens of United States; oath

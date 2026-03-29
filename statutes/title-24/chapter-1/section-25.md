@@ -5,7 +5,7 @@ usc_section: "25"
 chapter: 1
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 25"
-generated_at: "2026-03-29T18:25:00.377Z"
+generated_at: "2026-03-29T19:29:35.063Z"
 ---
 
 # §§ 21a to 25. Repealed. Pub. L. 101–510, div. A, title XV , § 1532(a), Nov. 5, 1990 , 104 Stat. 1732

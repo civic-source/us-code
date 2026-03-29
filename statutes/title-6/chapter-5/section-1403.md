@@ -5,7 +5,7 @@ usc_section: "1403"
 chapter: 5
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 1403"
-generated_at: "2026-03-29T18:23:35.793Z"
+generated_at: "2026-03-29T19:27:39.892Z"
 ---
 
 # §§ 1402, 1403. Repealed. Pub. L. 113–188, title X , § 1001(b), Nov. 26, 2014 , 128 Stat. 2022

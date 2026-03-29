@@ -5,7 +5,7 @@ usc_section: "6696"
 chapter: 68
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6696"
-generated_at: "2026-03-29T18:25:53.952Z"
+generated_at: "2026-03-29T19:30:20.227Z"
 ---
 
 # § 6696. Rules applicable with respect to sections 6694, 6695, and 6695A

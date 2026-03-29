@@ -5,7 +5,7 @@ usc_section: "708"
 chapter: 7
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 708"
-generated_at: "2026-03-29T18:26:16.105Z"
+generated_at: "2026-03-29T19:30:59.099Z"
 ---
 
 # § 708. Bills and resolutions: binding sets for Congress

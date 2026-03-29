@@ -5,7 +5,7 @@ usc_section: "1731"
 chapter: 29
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1731"
-generated_at: "2026-03-29T18:25:30.930Z"
+generated_at: "2026-03-29T19:30:05.311Z"
 ---
 
 # § 1731. Application of subchapter

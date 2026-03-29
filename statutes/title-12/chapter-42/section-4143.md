@@ -5,7 +5,7 @@ usc_section: "4143"
 chapter: 42
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 4143"
-generated_at: "2026-03-29T18:24:03.021Z"
+generated_at: "2026-03-29T19:28:17.798Z"
 ---
 
 # § 4143. Grants for building resident capacity and funding predevelopment costs

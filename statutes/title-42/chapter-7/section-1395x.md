@@ -5,7 +5,7 @@ usc_section: "1395x"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-29T18:27:03.127Z"
+generated_at: "2026-03-29T19:31:44.723Z"
 ---
 
 # § 1395x. Definitions

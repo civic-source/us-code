@@ -5,7 +5,7 @@ usc_section: "690f"
 chapter: 14
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 690f"
-generated_at: "2026-03-29T18:24:08.396Z"
+generated_at: "2026-03-29T19:27:55.371Z"
 ---
 
 # § 690f. Fees

@@ -5,7 +5,7 @@ usc_section: "7313"
 chapter: 633
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7313"
-generated_at: "2026-03-29T18:23:52.067Z"
+generated_at: "2026-03-29T19:27:25.694Z"
 ---
 
 # § 7313. Ship overhaul work: availability of appropriations for unusual cost overruns and for changes in scope of work

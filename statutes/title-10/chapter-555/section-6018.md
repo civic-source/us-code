@@ -5,7 +5,7 @@ usc_section: "6018"
 chapter: 555
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6018"
-generated_at: "2026-03-29T18:23:52.050Z"
+generated_at: "2026-03-29T19:27:25.679Z"
 ---
 
 # [§ 6018. Repealed. Pub. L. 96–513, title III , § 372, Dec. 12, 1980 , 94 Stat. 2903 ]

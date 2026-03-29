@@ -5,7 +5,7 @@ usc_section: "805"
 chapter: 15
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 805"
-generated_at: "2026-03-29T18:26:10.155Z"
+generated_at: "2026-03-29T19:30:34.117Z"
 ---
 
 # [§ 805. Repealed. Pub. L. 99–145, title VI , § 683(b)(1), Nov. 8, 1985 , 99 Stat. 665 ]

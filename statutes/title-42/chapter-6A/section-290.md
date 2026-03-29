@@ -5,7 +5,7 @@ usc_section: "290"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 290"
-generated_at: "2026-03-29T18:27:02.659Z"
+generated_at: "2026-03-29T19:31:44.296Z"
 ---
 
 # § 290. National Institutes of Health Management Fund; establishment; advancements; availability; final adjustments of advances

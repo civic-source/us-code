@@ -5,7 +5,7 @@ usc_section: "5619"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5619"
-generated_at: "2026-03-29T18:27:03.651Z"
+generated_at: "2026-03-29T19:31:45.239Z"
 ---
 
 # §§ 5618, 5619. Repealed. Pub. L. 96–509 , § 9, Dec. 8, 1980 , 94 Stat. 2753

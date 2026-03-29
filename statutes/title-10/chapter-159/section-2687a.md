@@ -5,7 +5,7 @@ usc_section: "2687a"
 chapter: 159
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2687a"
-generated_at: "2026-03-29T18:23:51.991Z"
+generated_at: "2026-03-29T19:27:25.634Z"
 ---
 
 # § 2687a. Overseas base closures and realignments and basing master plans

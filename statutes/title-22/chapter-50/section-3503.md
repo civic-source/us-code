@@ -5,7 +5,7 @@ usc_section: "3503"
 chapter: 50
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3503"
-generated_at: "2026-03-29T18:24:54.281Z"
+generated_at: "2026-03-29T19:29:46.833Z"
 ---
 
 # § 3503. Functions

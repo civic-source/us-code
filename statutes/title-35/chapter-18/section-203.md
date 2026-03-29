@@ -5,7 +5,7 @@ usc_section: "203"
 chapter: 18
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 203"
-generated_at: "2026-03-29T18:25:56.889Z"
+generated_at: "2026-03-29T19:30:29.301Z"
 ---
 
 # § 203. March-in rights

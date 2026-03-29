@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 8
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-29T18:26:14.781Z"
+generated_at: "2026-03-29T19:31:49.028Z"
 ---
 
 # § 315m–4. Disposition of receipts; availability for leasing of land

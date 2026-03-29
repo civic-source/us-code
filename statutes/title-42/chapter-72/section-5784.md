@@ -5,7 +5,7 @@ usc_section: "5784"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5784"
-generated_at: "2026-03-29T18:27:03.660Z"
+generated_at: "2026-03-29T19:31:45.248Z"
 ---
 
 # § 5784. Authorization of appropriations

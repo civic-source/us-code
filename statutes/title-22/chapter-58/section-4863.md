@@ -5,7 +5,7 @@ usc_section: "4863"
 chapter: 58
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4863"
-generated_at: "2026-03-29T18:24:54.326Z"
+generated_at: "2026-03-29T19:29:46.883Z"
 ---
 
 # § 4863. Use of cleared personnel to ensure secure maintenance and repair of diplomatic facilities abroad

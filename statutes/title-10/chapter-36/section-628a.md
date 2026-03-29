@@ -3,20 +3,18 @@ title: "Section 628a - Special selection review boards"
 usc_title: 10
 usc_section: "628a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 628a"
-generated_at: "2026-03-29T02:10:44.893Z"
+generated_at: "2026-03-29T18:47:53.267Z"
 ---
 
 # § 628a. Special selection review boards
 
 - **(a)**
-  - **(1)**
-    - **(A)** If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general or rear admiral in the Navy is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title , that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
-    - **(B)** Nothing in this section shall be construed to prevent a Secretary concerned from deferring consideration of adverse information concerning an officer subject to this section until the next regularly scheduled promotion board applicable to such officer, in lieu of furnishing such adverse information to a special selection review board under this section.
+  - **(1)** If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general, rear admiral in the Navy, or an equivalent grade in the Space Force is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title , that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
   - **(2)** If a person and the recommendation for promotion of the person is subject to review under this section by a special selection review board convened under this section, the name of the person—
     - **(A)** shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
-    - **(B)** shall not be forwarded for appointment or nomination to the Secretary of Defense, the President, or the Senate, as applicable.
+    - **(B)** shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under section 624(a) of this title .
 - **(b)**
   - **(1)** Any special selection review board convened under this section shall be convened in accordance with the provisions of section 628(f) of this title .
   - **(2)** Any special selection review board convened under this section may review such number of persons, and recommendations for promotion of such persons, as the Secretary of the military department concerned shall specify in convening such special selection review board.
@@ -43,15 +41,15 @@ generated_at: "2026-03-29T02:10:44.893Z"
   - **(2)** Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
   - **(3)** In considering whether the recommendation for promotion of a person should be sustained under this section, a special selection review board shall, to the greatest extent practicable, apply standards used by the promotion board that recommended the person for promotion.
   - **(4)** The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
-    - **(A)** ranks in the upper half of an order of merit created by the special selection review board or ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+    - **(A)** ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
     - **(B)** is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
   - **(5)** A recommendation for promotion of a person may be sustained under this section only by a vote of a majority of the members of the special selection review board.
   - **(6)** If a special selection review board does not sustain a recommendation for promotion of a person under this section, the person shall be considered to have failed of selection for promotion.
 - **(e)**
   - **(1)** Each special selection review board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person whose recommendation for promotion it recommends for sustainment and certifying that the board has carefully considered the record and information of each person whose name was referred to it.
-  - **(2)** The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under section 611(a) of this title . However, in the case of an officer on the Space Force officer list, the provisions of sections 618, 20215, and 20216 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under section 20211 of this title .
+  - **(2)** The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under section 611(a) of this title .
 - **(f)**
-  - **(1)** If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b) and (c) of section 624 of this title . However, if the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of an officer on the Space Force officer list who was referred to it for review under this section, and the President approves the report, the officer shall, as soon as practicable, be appointed to the grade in accordance with subsections (b) and (c) of section 20252 of this title .
+  - **(1)** If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b) and (c) of section 624 of this title .
   - **(2)** A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
 - **(g)**
   - **(1)** The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall apply uniformly across the military departments.

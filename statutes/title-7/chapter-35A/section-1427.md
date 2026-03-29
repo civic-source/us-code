@@ -5,7 +5,7 @@ usc_section: "1427"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1427"
-generated_at: "2026-03-29T18:23:43.257Z"
+generated_at: "2026-03-29T19:27:31.731Z"
 ---
 
 # § 1427. Commodity Credit Corporation sales price restrictions

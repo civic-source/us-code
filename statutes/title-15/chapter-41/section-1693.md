@@ -5,7 +5,7 @@ usc_section: "1693"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1693"
-generated_at: "2026-03-29T18:24:08.500Z"
+generated_at: "2026-03-29T19:27:55.469Z"
 ---
 
 # § 1693. Congressional findings and declaration of purpose

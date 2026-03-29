@@ -5,7 +5,7 @@ usc_section: "215"
 chapter: 6
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 215"
-generated_at: "2026-03-29T18:25:23.669Z"
+generated_at: "2026-03-29T19:29:34.742Z"
 ---
 
 # §§ 212 to 215. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862

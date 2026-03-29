@@ -5,7 +5,7 @@ usc_section: "407c"
 chapter: 12
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 407c"
-generated_at: "2026-03-29T18:25:23.690Z"
+generated_at: "2026-03-29T19:29:34.758Z"
 ---
 
 # §§ 407a to 407c. Omitted

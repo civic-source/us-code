@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 2
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 32"
-generated_at: "2026-03-29T18:25:30.843Z"
+generated_at: "2026-03-29T19:30:05.214Z"
 ---
 
 # § 32. Findings by jury; costs

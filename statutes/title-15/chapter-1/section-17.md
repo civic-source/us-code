@@ -5,7 +5,7 @@ usc_section: "17"
 chapter: 1
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-29T18:24:08.195Z"
+generated_at: "2026-03-29T19:27:55.051Z"
 ---
 
 # § 17. Antitrust laws not applicable to labor organizations

@@ -5,7 +5,7 @@ usc_section: "14905"
 chapter: 1411
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 14905"
-generated_at: "2026-03-29T18:23:52.125Z"
+generated_at: "2026-03-29T19:27:25.743Z"
 ---
 
 # § 14905. Officer considered for removal: retirement or discharge

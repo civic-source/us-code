@@ -5,7 +5,7 @@ usc_section: "670h"
 chapter: 5
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 670h"
-generated_at: "2026-03-29T18:24:22.683Z"
+generated_at: "2026-03-29T19:29:27.329Z"
 ---
 
 # § 670h. Comprehensive plans for conservation and rehabilitation programs

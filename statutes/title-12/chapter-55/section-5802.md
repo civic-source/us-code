@@ -3,9 +3,9 @@ title: "Section 5802 - Definitions"
 usc_title: 12
 usc_section: "5802"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 5802"
-generated_at: "2026-03-29T02:11:21.313Z"
+generated_at: "2026-03-29T18:48:16.850Z"
 ---
 
 # § 5802. Definitions

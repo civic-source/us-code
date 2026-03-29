@@ -5,7 +5,7 @@ usc_section: "20g"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 20g"
-generated_at: "2026-03-29T18:24:22.404Z"
+generated_at: "2026-03-29T19:29:27.011Z"
 ---
 
 # §§ 20 to 20g. Repealed. Pub. L. 105–391, title IV , § 415(a), Nov. 13, 1998 , 112 Stat. 3515

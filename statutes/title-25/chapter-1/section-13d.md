@@ -5,7 +5,7 @@ usc_section: "13d"
 chapter: 1
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 13d"
-generated_at: "2026-03-29T18:25:23.656Z"
+generated_at: "2026-03-29T19:29:34.731Z"
 ---
 
 # § 13d. Limits on use of appropriated funds by Bureau for general or other welfare assistance

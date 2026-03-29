@@ -5,7 +5,7 @@ usc_section: "178"
 chapter: 7
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 178"
-generated_at: "2026-03-29T18:25:43.008Z"
+generated_at: "2026-03-29T19:30:07.505Z"
 ---
 
 # § 178. Injunctions during national emergency

@@ -5,7 +5,7 @@ usc_section: "9864"
 chapter: 78
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 9864"
-generated_at: "2026-03-29T18:24:41.194Z"
+generated_at: "2026-03-29T19:28:43.258Z"
 ---
 
 # §§ 9861 to 9864. Repealed. Pub. L. 111–358, title X , § 1002(a)(4), Jan. 4, 2011 , 124 Stat. 4048

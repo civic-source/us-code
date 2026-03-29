@@ -5,7 +5,7 @@ usc_section: "5920"
 chapter: 74
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5920"
-generated_at: "2026-03-29T18:27:03.671Z"
+generated_at: "2026-03-29T19:31:45.259Z"
 ---
 
 # §§ 5919, 5920. Repealed. Pub. L. 109–58, title X , § 1009(b)(12), Aug. 8, 2005 , 119 Stat. 936

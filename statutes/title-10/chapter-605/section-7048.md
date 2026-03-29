@@ -5,7 +5,7 @@ usc_section: "7048"
 chapter: 605
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7048"
-generated_at: "2026-03-29T18:23:52.062Z"
+generated_at: "2026-03-29T19:27:25.689Z"
 ---
 
 # § 7048. Degree granting authority for United States Naval Postgraduate School

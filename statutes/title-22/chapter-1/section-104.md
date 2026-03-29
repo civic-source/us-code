@@ -5,7 +5,7 @@ usc_section: "104"
 chapter: 1
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 104"
-generated_at: "2026-03-29T18:24:54.092Z"
+generated_at: "2026-03-29T19:29:46.639Z"
 ---
 
 # §§ 83 to 104. Transferred

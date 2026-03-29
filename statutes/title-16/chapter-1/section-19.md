@@ -5,7 +5,7 @@ usc_section: "19"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 19"
-generated_at: "2026-03-29T18:24:22.585Z"
+generated_at: "2026-03-29T19:29:27.222Z"
 ---
 
 # § 460vv–19. Acreages

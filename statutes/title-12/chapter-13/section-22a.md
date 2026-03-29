@@ -5,7 +5,7 @@ usc_section: "22a"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 22a"
-generated_at: "2026-03-29T18:24:02.848Z"
+generated_at: "2026-03-29T19:28:17.612Z"
 ---
 
 # § 1715z–22a. Definitions

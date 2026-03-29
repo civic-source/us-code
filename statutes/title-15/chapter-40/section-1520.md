@@ -5,7 +5,7 @@ usc_section: "1520"
 chapter: 40
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1520"
-generated_at: "2026-03-29T18:24:08.455Z"
+generated_at: "2026-03-29T19:27:55.429Z"
 ---
 
 # § 1520. Repealed. Pub. L. 91–412 , § 3(d), Sept. 25, 1970 , 84 Stat. 864

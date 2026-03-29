@@ -5,7 +5,7 @@ usc_section: "6301"
 chapter: 72
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 6301"
-generated_at: "2026-03-29T18:24:54.349Z"
+generated_at: "2026-03-29T19:29:46.916Z"
 ---
 
 # § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation

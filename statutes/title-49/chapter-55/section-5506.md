@@ -5,7 +5,7 @@ usc_section: "5506"
 chapter: 55
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 5506"
-generated_at: "2026-03-29T18:27:16.470Z"
+generated_at: "2026-03-29T19:32:28.757Z"
 ---
 
 # [§ 5506. Repealed. Pub. L. 112–141, div. E, title II , § 52010(a), July 6, 2012 , 126 Stat. 887 ]

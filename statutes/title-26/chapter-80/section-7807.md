@@ -5,7 +5,7 @@ usc_section: "7807"
 chapter: 80
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7807"
-generated_at: "2026-03-29T18:25:53.995Z"
+generated_at: "2026-03-29T19:30:20.277Z"
 ---
 
 # § 7807. Rules in effect upon enactment of this title

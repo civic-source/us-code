@@ -5,7 +5,7 @@ usc_section: "1453"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1453"
-generated_at: "2026-03-29T18:24:54.148Z"
+generated_at: "2026-03-29T19:29:46.702Z"
 ---
 
 # § 1453. Acceptance of office under foreign governments of assigned personnel; oath of allegiance

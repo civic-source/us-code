@@ -5,7 +5,7 @@ usc_section: "1673g"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1673g"
-generated_at: "2026-03-29T18:24:16.120Z"
+generated_at: "2026-03-29T19:28:30.690Z"
 ---
 
 # § 1673g. Conditional payment of antidumping duty

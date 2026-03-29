@@ -5,7 +5,7 @@ usc_section: "1200a"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1200a"
-generated_at: "2026-03-29T18:26:14.849Z"
+generated_at: "2026-03-29T19:31:49.094Z"
 ---
 
 # § 1200a. Preparation of appraisal schedule in determining just compensation for condemnation of Sioux lands for dam purposes; contents; transmittal to tribal representatives

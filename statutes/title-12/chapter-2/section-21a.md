@@ -5,7 +5,7 @@ usc_section: "21a"
 chapter: 2
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 21a"
-generated_at: "2026-03-29T18:24:02.721Z"
+generated_at: "2026-03-29T19:28:17.479Z"
 ---
 
 # § 21a. Amendment of articles of association

@@ -5,7 +5,7 @@ usc_section: "100112"
 chapter: 1001
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 100112"
-generated_at: "2026-03-29T18:26:09.286Z"
+generated_at: "2026-03-29T19:30:42.074Z"
 ---
 
 # § 100112. Annual report

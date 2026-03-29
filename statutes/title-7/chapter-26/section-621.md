@@ -5,7 +5,7 @@ usc_section: "621"
 chapter: 26
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 621"
-generated_at: "2026-03-29T18:23:43.220Z"
+generated_at: "2026-03-29T19:27:31.698Z"
 ---
 
 # § 621. Machinery belting processed from cotton; exemption from tax

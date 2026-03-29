@@ -5,7 +5,7 @@ usc_section: "6515"
 chapter: 66
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6515"
-generated_at: "2026-03-29T18:25:53.940Z"
+generated_at: "2026-03-29T19:30:20.214Z"
 ---
 
 # § 6515. Cross references

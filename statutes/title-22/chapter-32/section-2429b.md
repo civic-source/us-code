@@ -5,7 +5,7 @@ usc_section: "2429b"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2429b"
-generated_at: "2026-03-29T18:24:54.225Z"
+generated_at: "2026-03-29T19:29:46.783Z"
 ---
 
 # § 2429b. Transferred

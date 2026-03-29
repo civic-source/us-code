@@ -5,7 +5,7 @@ usc_section: "7109"
 chapter: 71
 current_through: "PL 114-254"
 classification: "41 U.S.C. § 7109"
-generated_at: "2026-03-29T18:26:25.290Z"
+generated_at: "2026-03-29T19:31:15.765Z"
 ---
 
 # § 7109. Interest

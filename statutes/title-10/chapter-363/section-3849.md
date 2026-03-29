@@ -5,7 +5,7 @@ usc_section: "3849"
 chapter: 363
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3849"
-generated_at: "2026-03-29T18:23:52.025Z"
+generated_at: "2026-03-29T19:27:25.660Z"
 ---
 
 # [§ 3849. Repealed. Pub. L. 86–559 , § 1(27), June 30, 1960 , 74 Stat. 272 ]

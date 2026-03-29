@@ -5,7 +5,7 @@ usc_section: "843"
 chapter: 40
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 843"
-generated_at: "2026-03-29T18:24:43.789Z"
+generated_at: "2026-03-29T19:28:33.803Z"
 ---
 
 # § 843. Licenses and user permits

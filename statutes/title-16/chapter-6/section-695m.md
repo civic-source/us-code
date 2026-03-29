@@ -5,7 +5,7 @@ usc_section: "695m"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 695m"
-generated_at: "2026-03-29T18:24:22.688Z"
+generated_at: "2026-03-29T19:29:27.334Z"
 ---
 
 # § 695m. Annual percentage payments of net revenues from leases of Klamath project lands on pro rata basis; limitation on payments; priority of use of net revenues

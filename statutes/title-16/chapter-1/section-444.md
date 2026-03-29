@@ -5,7 +5,7 @@ usc_section: "444"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 444"
-generated_at: "2026-03-29T18:24:22.523Z"
+generated_at: "2026-03-29T19:29:27.155Z"
 ---
 
 # § 444. Petrified Forest National Monument; elimination of private holdings of land within boundaries; exchange of lands

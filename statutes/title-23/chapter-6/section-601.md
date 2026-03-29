@@ -5,7 +5,7 @@ usc_section: "601"
 chapter: 6
 current_through: "PL 114-254"
 classification: "23 U.S.C. § 601"
-generated_at: "2026-03-29T18:25:00.210Z"
+generated_at: "2026-03-29T19:29:58.434Z"
 ---
 
 # § 601. Generally applicable provisions

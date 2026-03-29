@@ -5,7 +5,7 @@ usc_section: "113"
 chapter: 1
 current_through: "PL 114-254"
 classification: "32 U.S.C. § 113"
-generated_at: "2026-03-29T18:25:56.426Z"
+generated_at: "2026-03-29T19:30:22.710Z"
 ---
 
 # § 113. Federal financial assistance for support of additional duties assigned to the Army National Guard

@@ -5,7 +5,7 @@ usc_section: "8715"
 chapter: 113
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 8715"
-generated_at: "2026-03-29T18:23:43.566Z"
+generated_at: "2026-03-29T19:27:32.031Z"
 ---
 
 # § 8715. Repealed. Pub. L. 113–79, title I , § 1103(a), Feb. 7, 2014 , 128 Stat. 658

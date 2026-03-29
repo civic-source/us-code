@@ -5,7 +5,7 @@ usc_section: "4222"
 chapter: 52
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4222"
-generated_at: "2026-03-29T18:24:54.316Z"
+generated_at: "2026-03-29T19:29:46.873Z"
 ---
 
 # § 4222. Authentication of documents of State of Vatican City by consular officer in Rome

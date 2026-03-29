@@ -5,7 +5,7 @@ usc_section: "3704"
 chapter: 37
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 3704"
-generated_at: "2026-03-29T18:26:04.568Z"
+generated_at: "2026-03-29T19:30:36.693Z"
 ---
 
 # § 3704. Health and safety standards in building trades and construction industry

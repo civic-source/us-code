@@ -5,7 +5,7 @@ usc_section: "701c"
 chapter: 15
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 701c"
-generated_at: "2026-03-29T18:26:01.191Z"
+generated_at: "2026-03-29T19:30:28.734Z"
 ---
 
 # § 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance

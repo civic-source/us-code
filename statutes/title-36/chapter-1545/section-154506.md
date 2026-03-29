@@ -5,7 +5,7 @@ usc_section: "154506"
 chapter: 1545
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 154506"
-generated_at: "2026-03-29T18:26:09.300Z"
+generated_at: "2026-03-29T19:30:42.088Z"
 ---
 
 # § 154506. Powers

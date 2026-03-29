@@ -3,9 +3,9 @@ title: "Section 4505 - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "4505"
 chapter: 341
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4505"
-generated_at: "2026-03-29T02:10:45.221Z"
+generated_at: "2026-03-29T18:47:53.525Z"
 ---
 
 # § 4505. Procurement of services: tracking of purchases
@@ -70,7 +70,7 @@ generated_at: "2026-03-29T02:10:45.221Z"
   - **(3)** The term “inherently governmental functions” has the meaning given that term in section 4508(b)(2) of this title .
   - **(4)** The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
   - **(5)** The term “service acquisition portfolio groups” means the groups identified in Department of Defense Instruction 5000.74, Defense Acquisition of Services ( January 5, 2016 ) or successor guidance.
-  - **(6)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts.
+  - **(6)** The term “staff augmentation contracts” means services contracts for personnel who are physically present in a Government work space on a full-time or permanent part-time basis, for the purpose of advising on, providing support to, or assisting a Government agency in the performance of the agency’s missions, including authorized personal services contracts (as that term is defined in section 4505(g)(5) 1 of this title).
   - **(7)** The term “simplified acquisition threshold” has the meaning given the term in section 134 of title 41 .
   - **(8)**
     - **(A)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).

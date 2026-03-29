@@ -5,7 +5,7 @@ usc_section: "3716"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3716"
-generated_at: "2026-03-29T18:27:03.527Z"
+generated_at: "2026-03-29T19:31:45.106Z"
 ---
 
 # § 3716. Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials

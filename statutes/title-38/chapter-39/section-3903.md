@@ -5,7 +5,7 @@ usc_section: "3903"
 chapter: 39
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3903"
-generated_at: "2026-03-29T18:26:07.626Z"
+generated_at: "2026-03-29T19:30:40.540Z"
 ---
 
 # § 3903. Limitations on assistance; special training courses

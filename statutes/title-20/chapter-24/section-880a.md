@@ -5,7 +5,7 @@ usc_section: "880a"
 chapter: 24
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 880a"
-generated_at: "2026-03-29T18:24:40.882Z"
+generated_at: "2026-03-29T19:28:42.936Z"
 ---
 
 # §§ 871 to 880a. Repealed. Pub. L. 91–230, title VI , § 662(3), Apr. 13, 1970 , 84 Stat. 188

@@ -5,7 +5,7 @@ usc_section: "9921"
 chapter: 106
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9921"
-generated_at: "2026-03-29T18:27:03.966Z"
+generated_at: "2026-03-29T19:31:45.561Z"
 ---
 
 # § 9921. Discretionary authority of Secretary

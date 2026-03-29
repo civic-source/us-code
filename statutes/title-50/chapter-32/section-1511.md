@@ -5,7 +5,7 @@ usc_section: "1511"
 chapter: 32
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1511"
-generated_at: "2026-03-29T18:27:35.598Z"
+generated_at: "2026-03-29T19:32:24.102Z"
 ---
 
 # § 1511. Repealed. Pub. L. 104–106, div. A, title X , § 1061(k), Feb. 10, 1996 , 110 Stat. 443

@@ -5,7 +5,7 @@ usc_section: "4501"
 chapter: 45
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 4501"
-generated_at: "2026-03-29T18:23:14.149Z"
+generated_at: "2026-03-29T19:27:07.587Z"
 ---
 
 # § 4501. Compensation of Members of Congress

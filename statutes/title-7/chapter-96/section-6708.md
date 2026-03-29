@@ -5,7 +5,7 @@ usc_section: "6708"
 chapter: 96
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 6708"
-generated_at: "2026-03-29T18:23:43.483Z"
+generated_at: "2026-03-29T19:27:31.951Z"
 ---
 
 # § 6708. Biomass energy demonstration projects

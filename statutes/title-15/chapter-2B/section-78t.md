@@ -5,7 +5,7 @@ usc_section: "78t"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 78t"
-generated_at: "2026-03-29T18:24:08.275Z"
+generated_at: "2026-03-29T19:27:55.251Z"
 ---
 
 # § 78t. Liability of controlling persons and persons who aid and abet violations

@@ -3,9 +3,9 @@ title: "Section 195h - National Urban Security Technology Laboratory"
 usc_title: 6
 usc_section: "195h"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 195h"
-generated_at: "2026-03-29T02:10:04.967Z"
+generated_at: "2026-03-29T18:47:07.344Z"
 ---
 
 # § 195h. National Urban Security Technology Laboratory

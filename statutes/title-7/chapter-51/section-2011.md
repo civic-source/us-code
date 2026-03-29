@@ -5,7 +5,7 @@ usc_section: "2011"
 chapter: 51
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-29T18:23:43.351Z"
+generated_at: "2026-03-29T19:27:31.822Z"
 ---
 
 # § 2011. Congressional declaration of policy

@@ -5,7 +5,7 @@ usc_section: "165"
 chapter: 7
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 165"
-generated_at: "2026-03-29T18:26:14.777Z"
+generated_at: "2026-03-29T19:31:49.024Z"
 ---
 
 # § 165. Transferred

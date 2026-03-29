@@ -5,7 +5,7 @@ usc_section: "6252"
 chapter: 63
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6252"
-generated_at: "2026-03-29T18:25:53.919Z"
+generated_at: "2026-03-29T19:30:20.189Z"
 ---
 
 # § 6252. Judicial review where administrative adjustment request is not allowed in full

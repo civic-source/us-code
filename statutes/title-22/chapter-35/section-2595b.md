@@ -5,7 +5,7 @@ usc_section: "2595b"
 chapter: 35
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2595b"
-generated_at: "2026-03-29T18:24:54.240Z"
+generated_at: "2026-03-29T19:29:46.796Z"
 ---
 
 # § 2595b. Repealed. Pub. L. 105–277, div. G , subdiv. A, title XII, § 1222, Oct. 21, 1998 , 112 Stat. 2681–768

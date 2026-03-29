@@ -3,9 +3,9 @@ title: "Section 10721 - Establishment of grant program"
 usc_title: 34
 usc_section: "10721"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10721"
-generated_at: "2026-03-29T02:14:25.292Z"
+generated_at: "2026-03-29T18:45:50.324Z"
 ---
 
 # § 10721. Establishment of grant program

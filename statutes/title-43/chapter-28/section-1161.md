@@ -5,7 +5,7 @@ usc_section: "1161"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1161"
-generated_at: "2026-03-29T18:26:14.846Z"
+generated_at: "2026-03-29T19:31:49.091Z"
 ---
 
 # § 1161. “Suspended entries of public lands” and “suspended preemption land claims”

@@ -5,7 +5,7 @@ usc_section: "1456a"
 chapter: 31
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1456a"
-generated_at: "2026-03-29T18:26:14.861Z"
+generated_at: "2026-03-29T19:31:49.105Z"
 ---
 
 # § 1456a. Repealed. Pub. L. 95–164, title III , § 306(b), Nov. 9, 1977 , 91 Stat. 1322

@@ -5,7 +5,7 @@ usc_section: "604"
 chapter: 26
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 604"
-generated_at: "2026-03-29T18:23:43.213Z"
+generated_at: "2026-03-29T19:27:31.691Z"
 ---
 
 # § 604. Borrowing money; expenditures; authority of Secretary

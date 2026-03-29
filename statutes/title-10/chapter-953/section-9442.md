@@ -3,9 +3,9 @@ title: "Section 9442 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "9442"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9442"
-generated_at: "2026-03-29T02:10:45.343Z"
+generated_at: "2026-03-29T18:47:53.594Z"
 ---
 
 # § 9442. Cadets: appointment; numbers, territorial distribution
@@ -18,19 +18,19 @@ generated_at: "2026-03-29T02:10:45.343Z"
   - **(5)** Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
   - **(6)** Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
   - **(7)** Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
-  - **(8)** Five cadets from Guam, nominated by the Delegate in Congress from Guam.
+  - **(8)** Four cadets from Guam, nominated by the Delegate in Congress from Guam.
   - **(9)** Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
   - **(10)** Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 - **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
   - **(1)** one hundred selected by the President from the children of members of an armed force who—
     - **(A)** are on active duty (other than for training) and who have served continuously on active duty for at least eight years;
     - **(B)** are, or who died while they were, retired with pay or granted retired or retainer pay;
-    - **(C)** are serving as members of reserve components, or the Space Force, and are credited with at least eight years of service computed under section 12733 of this title ; or
+    - **(C)** are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title ; or
     - **(D)** would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
-  - **(2)** 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Space Force.
+  - **(2)** 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Regular Space Force.
   - **(3)** 85 nominated by the Secretary of the Air Force from enlisted members of reserve components of the Air Force.
   - **(4)** 20 nominated by the Secretary of the Air Force, under regulations prescribed by the Secretary, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers’ Training Corps.
-  - **(5)** 200 1 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title ) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
+  - **(5)** 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title ) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
 - **(c)** The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 - **(d)** The Superintendent may nominate for appointment each year 50 persons from the country at large. Persons nominated under this paragraph may not displace any appointment authorized under paragraphs (2) through (9) of subsection (a) and may not cause the total strength of cadets to exceed the authorized number.
 - **(e)** If the annual quota of cadets under subsection (b)(1), (2), or (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.

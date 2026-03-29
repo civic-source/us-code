@@ -5,7 +5,7 @@ usc_section: "5304"
 chapter: 53
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 5304"
-generated_at: "2026-03-29T18:26:07.637Z"
+generated_at: "2026-03-29T19:30:40.552Z"
 ---
 
 # § 5304. Prohibition against duplication of benefits

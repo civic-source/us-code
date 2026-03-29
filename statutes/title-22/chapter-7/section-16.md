@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 16"
-generated_at: "2026-03-29T18:24:54.133Z"
+generated_at: "2026-03-29T19:29:46.683Z"
 ---
 
 # § 290g–16. Ninth replenishment

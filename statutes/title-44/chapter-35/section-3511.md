@@ -5,7 +5,7 @@ usc_section: "3511"
 chapter: 35
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 3511"
-generated_at: "2026-03-29T18:26:16.125Z"
+generated_at: "2026-03-29T19:30:59.122Z"
 ---
 
 # § 3511. Establishment and operation of Government Information Locator Service

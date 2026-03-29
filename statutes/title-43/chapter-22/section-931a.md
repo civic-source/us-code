@@ -5,7 +5,7 @@ usc_section: "931a"
 chapter: 22
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 931a"
-generated_at: "2026-03-29T18:26:14.837Z"
+generated_at: "2026-03-29T19:31:49.082Z"
 ---
 
 # § 931a. Authority of Attorney General to grant easements and rights-of-way to States, etc.

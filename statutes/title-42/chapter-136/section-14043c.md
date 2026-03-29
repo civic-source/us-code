@@ -5,7 +5,7 @@ usc_section: "14043c"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14043c"
-generated_at: "2026-03-29T18:27:04.144Z"
+generated_at: "2026-03-29T19:31:45.751Z"
 ---
 
 # § 14043c. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”)

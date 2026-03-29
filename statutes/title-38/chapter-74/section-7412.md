@@ -5,7 +5,7 @@ usc_section: "7412"
 chapter: 74
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7412"
-generated_at: "2026-03-29T18:26:07.665Z"
+generated_at: "2026-03-29T19:30:40.577Z"
 ---
 
 # § 7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations

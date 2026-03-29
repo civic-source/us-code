@@ -5,7 +5,7 @@ usc_section: "18231"
 chapter: 1803
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 18231"
-generated_at: "2026-03-29T18:23:52.129Z"
+generated_at: "2026-03-29T19:27:25.747Z"
 ---
 
 # § 18231. Purpose

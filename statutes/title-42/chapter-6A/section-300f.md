@@ -5,7 +5,7 @@ usc_section: "300f"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 300f"
-generated_at: "2026-03-29T18:27:02.732Z"
+generated_at: "2026-03-29T19:31:44.376Z"
 ---
 
 # § 300f. Definitions

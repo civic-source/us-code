@@ -5,7 +5,7 @@ usc_section: "13821"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13821"
-generated_at: "2026-03-29T18:27:04.136Z"
+generated_at: "2026-03-29T19:31:45.741Z"
 ---
 
 # § 13821. Purpose

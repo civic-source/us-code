@@ -5,7 +5,7 @@ usc_section: "1244"
 chapter: 29
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1244"
-generated_at: "2026-03-29T18:24:08.442Z"
+generated_at: "2026-03-29T19:27:55.414Z"
 ---
 
 # § 1244. Exceptions

@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 15
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-29T18:26:01.198Z"
+generated_at: "2026-03-29T19:30:28.741Z"
 ---
 
 # § 702k–2. Separability

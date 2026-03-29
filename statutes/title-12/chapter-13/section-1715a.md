@@ -5,7 +5,7 @@ usc_section: "1715a"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1715a"
-generated_at: "2026-03-29T18:24:02.821Z"
+generated_at: "2026-03-29T19:28:17.584Z"
 ---
 
 # § 1715a. Repealed. June 3, 1939, ch. 175 , § 13, 53 Stat. 807

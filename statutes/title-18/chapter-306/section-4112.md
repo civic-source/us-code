@@ -5,7 +5,7 @@ usc_section: "4112"
 chapter: 306
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 4112"
-generated_at: "2026-03-29T18:24:43.892Z"
+generated_at: "2026-03-29T19:28:33.913Z"
 ---
 
 # § 4112. Loss of rights, disqualification

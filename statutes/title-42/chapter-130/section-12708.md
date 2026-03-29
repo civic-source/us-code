@@ -5,7 +5,7 @@ usc_section: "12708"
 chapter: 130
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12708"
-generated_at: "2026-03-29T18:27:04.085Z"
+generated_at: "2026-03-29T19:31:45.682Z"
 ---
 
 # § 12708. Compliance

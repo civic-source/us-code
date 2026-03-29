@@ -3,9 +3,9 @@ title: "Section 240g - Defense Business Audit Remediation Plan"
 usc_title: 10
 usc_section: "240g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 240g"
-generated_at: "2026-03-29T02:10:44.848Z"
+generated_at: "2026-03-29T18:47:53.231Z"
 ---
 
 # § 240g. Defense Business Audit Remediation Plan
@@ -16,5 +16,7 @@ generated_at: "2026-03-29T02:10:44.848Z"
   - **(3)** dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems;
   - **(4)** the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
   - **(5)** the amount spent by the Department on acquiring or developing new financial management systems during such five fiscal years.
-- **(b)** On the same date as the date of the submission of the audited financial statements of the Department of Defense required pursuant to section 240a of this title each year, the Secretary of Defense shall submit to the congressional defense committees an updated annual report on the Defense Business Systems Audit Remediation Plan under subsection (a).
+- **(b)**
+  - **(1)** Not later than June 30, 2020 , and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees an updated report on the Defense Business Systems Audit Remediation Plan under subsection (a).
+  - **(2)** Not later than January 31 and June 30 each year, the Secretary shall provide to the congressional defense committees a briefing on the status of the Defense Business Systems Audit Remediation Plan. Such briefing shall include a description of any updates to the defense business systems roadmap referred to in subsection (a).
 - **(c)** In this section, the term “defense business system” has the meaning given such term in section 2222(i)(1)(A) of this title .

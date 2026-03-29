@@ -5,7 +5,7 @@ usc_section: "5102"
 chapter: 51
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 5102"
-generated_at: "2026-03-29T18:23:29.888Z"
+generated_at: "2026-03-29T19:27:05.274Z"
 ---
 
 # § 5102. Definitions; application

@@ -5,7 +5,7 @@ usc_section: "911"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 911"
-generated_at: "2026-03-29T18:23:43.222Z"
+generated_at: "2026-03-29T19:27:31.700Z"
 ---
 
 # § 911. Acceptance of services of Federal or State officers; application of civil service laws; expenditures for supplies and equipment

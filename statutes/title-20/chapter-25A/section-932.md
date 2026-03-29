@@ -5,7 +5,7 @@ usc_section: "932"
 chapter: 25
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 932"
-generated_at: "2026-03-29T18:24:40.885Z"
+generated_at: "2026-03-29T19:28:42.940Z"
 ---
 
 # § 932. Definitions

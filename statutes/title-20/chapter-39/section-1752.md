@@ -5,7 +5,7 @@ usc_section: "1752"
 chapter: 39
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1752"
-generated_at: "2026-03-29T18:24:41.066Z"
+generated_at: "2026-03-29T19:28:43.109Z"
 ---
 
 # § 1752. Appeals from Federal district court transfer or transportation orders affecting school attendance areas and achieving balancing of students; postponement of Federal court orders pending exercise of appellate remedy; expiration of section

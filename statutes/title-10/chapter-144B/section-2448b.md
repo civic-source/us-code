@@ -3,9 +3,9 @@ title: "Section 2448b - Renumbered § 4272]"
 usc_title: 10
 usc_section: "2448b"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 2448b"
-generated_at: "2026-03-29T02:10:45.102Z"
+generated_at: "2026-03-29T18:47:53.432Z"
 ---
 
 # [§ 2448b. Renumbered § 4272]

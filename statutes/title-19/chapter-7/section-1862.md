@@ -5,7 +5,7 @@ usc_section: "1862"
 chapter: 7
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1862"
-generated_at: "2026-03-29T18:24:16.135Z"
+generated_at: "2026-03-29T19:28:30.705Z"
 ---
 
 # § 1862. Safeguarding national security

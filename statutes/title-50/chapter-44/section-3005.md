@@ -5,7 +5,7 @@ usc_section: "3005"
 chapter: 44
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 3005"
-generated_at: "2026-03-29T18:27:35.666Z"
+generated_at: "2026-03-29T19:32:24.217Z"
 ---
 
 # § 3005. Applicable laws

@@ -5,7 +5,7 @@ usc_section: "3871a"
 chapter: 58
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3871a"
-generated_at: "2026-03-29T18:24:22.898Z"
+generated_at: "2026-03-29T19:29:27.577Z"
 ---
 
 # § 3871a. Definitions

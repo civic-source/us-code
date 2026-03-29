@@ -5,7 +5,7 @@ usc_section: "3742"
 chapter: 57
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3742"
-generated_at: "2026-03-29T18:24:22.882Z"
+generated_at: "2026-03-29T19:29:27.560Z"
 ---
 
 # § 3742. Purposes

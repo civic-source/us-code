@@ -5,7 +5,7 @@ usc_section: "2200e"
 chapter: 112
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2200e"
-generated_at: "2026-03-29T18:23:51.885Z"
+generated_at: "2026-03-29T19:27:25.569Z"
 ---
 
 # § 2200e. Definitions

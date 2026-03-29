@@ -5,7 +5,7 @@ usc_section: "1853"
 chapter: 38
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1853"
-generated_at: "2026-03-29T18:24:22.833Z"
+generated_at: "2026-03-29T19:29:27.503Z"
 ---
 
 # § 1853. Contents of fishery management plans

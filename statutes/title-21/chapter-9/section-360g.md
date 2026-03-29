@@ -5,7 +5,7 @@ usc_section: "360g"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 360g"
-generated_at: "2026-03-29T18:25:04.139Z"
+generated_at: "2026-03-29T19:29:50.386Z"
 ---
 
 # § 360g. Judicial review

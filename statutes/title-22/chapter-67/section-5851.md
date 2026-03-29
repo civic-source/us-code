@@ -5,7 +5,7 @@ usc_section: "5851"
 chapter: 67
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 5851"
-generated_at: "2026-03-29T18:24:54.338Z"
+generated_at: "2026-03-29T19:29:46.898Z"
 ---
 
 # § 5851. Findings

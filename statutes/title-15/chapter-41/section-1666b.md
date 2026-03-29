@@ -5,7 +5,7 @@ usc_section: "1666b"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1666b"
-generated_at: "2026-03-29T18:24:08.477Z"
+generated_at: "2026-03-29T19:27:55.450Z"
 ---
 
 # § 1666b. Timing of payments

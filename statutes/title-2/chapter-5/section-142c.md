@@ -5,7 +5,7 @@ usc_section: "142c"
 chapter: 5
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 142c"
-generated_at: "2026-03-29T18:23:14.048Z"
+generated_at: "2026-03-29T19:27:07.498Z"
 ---
 
 # § 142c. Enforcement of liability of certifying officers of Library of Congress

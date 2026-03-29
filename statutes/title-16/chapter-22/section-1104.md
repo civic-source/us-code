@@ -5,7 +5,7 @@ usc_section: "1104"
 chapter: 22
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1104"
-generated_at: "2026-03-29T18:24:22.759Z"
+generated_at: "2026-03-29T19:29:27.420Z"
 ---
 
 # § 1104. Membership of Commission

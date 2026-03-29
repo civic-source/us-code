@@ -5,7 +5,7 @@ usc_section: "1704"
 chapter: 17
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1704"
-generated_at: "2026-03-29T18:26:07.554Z"
+generated_at: "2026-03-29T19:30:40.471Z"
 ---
 
 # § 1704. Preventive health services: annual report

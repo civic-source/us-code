@@ -5,7 +5,7 @@ usc_section: "428b"
 chapter: 17
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 428b"
-generated_at: "2026-03-29T18:23:43.197Z"
+generated_at: "2026-03-29T19:27:31.678Z"
 ---
 
 # § 428b. Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "856"
 chapter: 17
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 856"
-generated_at: "2026-03-29T18:26:13.321Z"
+generated_at: "2026-03-29T19:31:12.247Z"
 ---
 
 # § 856. Repealed. Pub. L. 103–429 , § 7(a)(1), Oct. 31, 1994 , 108 Stat. 4388

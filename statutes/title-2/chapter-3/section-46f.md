@@ -5,7 +5,7 @@ usc_section: "46f"
 chapter: 3
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 46f"
-generated_at: "2026-03-29T18:23:14.024Z"
+generated_at: "2026-03-29T19:27:07.489Z"
 ---
 
 # § 46f. Repealed. Pub. L. 104–186, title II , § 203(18)(A), Aug. 20, 1996 , 110 Stat. 1727

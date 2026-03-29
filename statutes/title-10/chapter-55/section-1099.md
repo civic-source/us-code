@@ -5,7 +5,7 @@ usc_section: "1099"
 chapter: 55
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1099"
-generated_at: "2026-03-29T18:23:51.796Z"
+generated_at: "2026-03-29T19:27:25.510Z"
 ---
 
 # § 1099. Health care enrollment system

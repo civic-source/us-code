@@ -5,7 +5,7 @@ usc_section: "1460"
 chapter: 33
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1460"
-generated_at: "2026-03-29T18:24:22.809Z"
+generated_at: "2026-03-29T19:29:27.475Z"
 ---
 
 # § 1460. Walter B. Jones excellence in coastal zone management awards

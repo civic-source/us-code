@@ -5,7 +5,7 @@ usc_section: "6915"
 chapter: 601
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6915"
-generated_at: "2026-03-29T18:23:52.057Z"
+generated_at: "2026-03-29T19:27:25.686Z"
 ---
 
 # § 6915. Reserve student aviation pilots; reserve aviation pilots: appointments in commissioned grade

@@ -5,7 +5,7 @@ usc_section: "5726"
 chapter: 57
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 5726"
-generated_at: "2026-03-29T18:23:29.911Z"
+generated_at: "2026-03-29T19:27:05.306Z"
 ---
 
 # § 5726. Storage expenses; household goods and personal effects

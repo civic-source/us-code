@@ -5,7 +5,7 @@ usc_section: "207"
 chapter: 3
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 207"
-generated_at: "2026-03-29T18:26:10.125Z"
+generated_at: "2026-03-29T19:30:34.088Z"
 ---
 
 # § 207. Band leaders

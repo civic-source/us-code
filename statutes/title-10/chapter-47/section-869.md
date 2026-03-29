@@ -5,7 +5,7 @@ usc_section: "869"
 chapter: 47
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 869"
-generated_at: "2026-03-29T18:23:51.766Z"
+generated_at: "2026-03-29T19:27:25.474Z"
 ---
 
 # § 869. Art. 69. Review in the office of the Judge Advocate General

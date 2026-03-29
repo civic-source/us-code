@@ -5,7 +5,7 @@ usc_section: "2507a"
 chapter: 34
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2507a"
-generated_at: "2026-03-29T18:24:54.234Z"
+generated_at: "2026-03-29T19:29:46.791Z"
 ---
 
 # § 2507a. Sexual assault risk-reduction and response training

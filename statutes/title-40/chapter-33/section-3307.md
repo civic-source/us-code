@@ -5,7 +5,7 @@ usc_section: "3307"
 chapter: 33
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 3307"
-generated_at: "2026-03-29T18:26:04.566Z"
+generated_at: "2026-03-29T19:30:36.688Z"
 ---
 
 # § 3307. Congressional approval of proposed projects

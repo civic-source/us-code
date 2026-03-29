@@ -5,7 +5,7 @@ usc_section: "139"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 139"
-generated_at: "2026-03-29T18:27:02.817Z"
+generated_at: "2026-03-29T19:31:44.447Z"
 ---
 
 # § 300ff–139. Injunctions regarding violation of prohibition

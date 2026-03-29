@@ -5,7 +5,7 @@ usc_section: "13925"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13925"
-generated_at: "2026-03-29T18:27:04.138Z"
+generated_at: "2026-03-29T19:31:45.744Z"
 ---
 
 # § 13925. Definitions and grant provisions

@@ -5,7 +5,7 @@ usc_section: "131"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-29T18:27:02.816Z"
+generated_at: "2026-03-29T19:31:44.446Z"
 ---
 
 # § 300ff–131. Infectious diseases and circumstances relevant to notification requirements

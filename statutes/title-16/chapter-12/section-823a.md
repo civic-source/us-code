@@ -5,7 +5,7 @@ usc_section: "823a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 823a"
-generated_at: "2026-03-29T18:24:22.714Z"
+generated_at: "2026-03-29T19:29:27.367Z"
 ---
 
 # § 823a. Conduit hydroelectric facilities

@@ -5,7 +5,7 @@ usc_section: "374"
 chapter: 5
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 374"
-generated_at: "2026-03-29T18:26:10.138Z"
+generated_at: "2026-03-29T19:30:34.102Z"
 ---
 
 # § 374. Regulations

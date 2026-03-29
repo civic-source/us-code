@@ -5,7 +5,7 @@ usc_section: "8682"
 chapter: 853
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8682"
-generated_at: "2026-03-29T18:23:52.086Z"
+generated_at: "2026-03-29T19:27:25.707Z"
 ---
 
 # [§ 8682. Repealed. Pub. L. 90–235 , § 6(a)(2), Jan. 2, 1968 , 81 Stat. 761 ]

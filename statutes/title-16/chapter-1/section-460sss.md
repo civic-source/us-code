@@ -5,7 +5,7 @@ usc_section: "460sss"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460sss"
-generated_at: "2026-03-29T18:24:22.611Z"
+generated_at: "2026-03-29T19:29:27.252Z"
 ---
 
 # § 460sss. Cow Mountain Recreation Area, Lake and Mendocino Counties, California

@@ -5,7 +5,7 @@ usc_section: "776"
 chapter: 16
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 776"
-generated_at: "2026-03-29T18:26:01.200Z"
+generated_at: "2026-03-29T19:30:28.744Z"
 ---
 
 # § 776. Payment out of Civil Service Retirement and Disability Fund

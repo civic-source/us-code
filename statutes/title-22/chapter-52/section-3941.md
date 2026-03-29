@@ -5,7 +5,7 @@ usc_section: "3941"
 chapter: 52
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3941"
-generated_at: "2026-03-29T18:24:54.293Z"
+generated_at: "2026-03-29T19:29:46.843Z"
 ---
 
 # § 3941. General provisions

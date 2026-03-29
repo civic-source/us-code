@@ -5,7 +5,7 @@ usc_section: "2226"
 chapter: 131
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2226"
-generated_at: "2026-03-29T18:23:51.892Z"
+generated_at: "2026-03-29T19:27:25.572Z"
 ---
 
 # § 2226. Contracted property and services: prompt payment of vouchers

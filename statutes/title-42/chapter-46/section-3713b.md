@@ -5,7 +5,7 @@ usc_section: "3713b"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3713b"
-generated_at: "2026-03-29T18:27:03.526Z"
+generated_at: "2026-03-29T19:31:45.105Z"
 ---
 
 # § 3713b. Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes

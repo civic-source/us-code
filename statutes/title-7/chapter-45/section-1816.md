@@ -5,7 +5,7 @@ usc_section: "1816"
 chapter: 45
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1816"
-generated_at: "2026-03-29T18:23:43.313Z"
+generated_at: "2026-03-29T19:27:31.783Z"
 ---
 
 # §§ 1801 to 1816. Repealed. Pub. L. 89–321, title VI , § 601, Nov. 3, 1965 , 79 Stat. 1206

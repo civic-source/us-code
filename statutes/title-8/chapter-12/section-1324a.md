@@ -5,7 +5,7 @@ usc_section: "1324a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1324a"
-generated_at: "2026-03-29T18:23:33.961Z"
+generated_at: "2026-03-29T19:27:14.489Z"
 ---
 
 # § 1324a. Unlawful employment of aliens

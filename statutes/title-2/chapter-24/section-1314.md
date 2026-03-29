@@ -5,7 +5,7 @@ usc_section: "1314"
 chapter: 24
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1314"
-generated_at: "2026-03-29T18:23:14.106Z"
+generated_at: "2026-03-29T19:27:07.551Z"
 ---
 
 # § 1314. Rights and protections under Employee Polygraph Protection Act of 1988

@@ -5,7 +5,7 @@ usc_section: "194"
 chapter: 9
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 194"
-generated_at: "2026-03-29T18:23:43.181Z"
+generated_at: "2026-03-29T19:27:31.663Z"
 ---
 
 # § 194. Conclusiveness of order; appeal and review

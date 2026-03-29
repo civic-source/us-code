@@ -5,7 +5,7 @@ usc_section: "70306"
 chapter: 703
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 70306"
-generated_at: "2026-03-29T18:26:09.281Z"
+generated_at: "2026-03-29T19:30:42.070Z"
 ---
 
 # § 70306. Powers

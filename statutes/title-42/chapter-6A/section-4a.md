@@ -5,7 +5,7 @@ usc_section: "4a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-29T18:27:02.756Z"
+generated_at: "2026-03-29T19:31:44.397Z"
 ---
 
 # § 300n–4a. Supplemental grants for additional preventive health services

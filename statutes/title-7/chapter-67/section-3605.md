@@ -5,7 +5,7 @@ usc_section: "3605"
 chapter: 67
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3605"
-generated_at: "2026-03-29T18:23:43.428Z"
+generated_at: "2026-03-29T19:27:31.893Z"
 ---
 
 # § 3605. Repealed. Pub. L. 105–277, div. G , subdiv. B, title XXII, § 2219(a)(5), Oct. 21, 1998 , 112 Stat. 2681–817

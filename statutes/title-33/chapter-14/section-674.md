@@ -5,7 +5,7 @@ usc_section: "674"
 chapter: 14
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 674"
-generated_at: "2026-03-29T18:26:01.184Z"
+generated_at: "2026-03-29T19:30:28.729Z"
 ---
 
 # § 674. Plans for and supervision of work required by order; permit to commence mining

@@ -5,7 +5,7 @@ usc_section: "262i"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 262i"
-generated_at: "2026-03-29T18:24:54.095Z"
+generated_at: "2026-03-29T19:29:46.642Z"
 ---
 
 # § 262i. Repealed. Pub. L. 101–240, title V , § 541(d)(6), Dec. 19, 1989 , 103 Stat. 2518

@@ -5,7 +5,7 @@ usc_section: "3111"
 chapter: 205
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3111"
-generated_at: "2026-03-29T18:24:43.861Z"
+generated_at: "2026-03-29T19:28:33.880Z"
 ---
 
 # § 3111. Property seizable on search warrant—(Rule)

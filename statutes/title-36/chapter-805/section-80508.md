@@ -5,7 +5,7 @@ usc_section: "80508"
 chapter: 805
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 80508"
-generated_at: "2026-03-29T18:26:09.285Z"
+generated_at: "2026-03-29T19:30:42.073Z"
 ---
 
 # § 80508. Duty to maintain tax-exempt status

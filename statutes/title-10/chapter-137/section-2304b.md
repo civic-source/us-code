@@ -5,7 +5,7 @@ usc_section: "2304b"
 chapter: 137
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2304b"
-generated_at: "2026-03-29T18:23:51.904Z"
+generated_at: "2026-03-29T19:27:25.580Z"
 ---
 
 # § 2304b. Task order contracts: advisory and assistance services

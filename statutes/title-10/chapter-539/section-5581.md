@@ -5,7 +5,7 @@ usc_section: "5581"
 chapter: 539
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5581"
-generated_at: "2026-03-29T18:23:52.047Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # [§ 5581. Repealed. Pub. L. 96–513, title III , § 373(c), Dec. 12, 1980 , 94 Stat. 2903 ]

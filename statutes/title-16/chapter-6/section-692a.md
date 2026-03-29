@@ -5,7 +5,7 @@ usc_section: "692a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 692a"
-generated_at: "2026-03-29T18:24:22.687Z"
+generated_at: "2026-03-29T19:29:27.333Z"
 ---
 
 # § 692a. Hunting, pursuing, capturing, etc., in Ocala National Forest unlawful

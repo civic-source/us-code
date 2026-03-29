@@ -5,7 +5,7 @@ usc_section: "80a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 80a"
-generated_at: "2026-03-29T18:24:22.413Z"
+generated_at: "2026-03-29T19:29:27.028Z"
 ---
 
 # § 80a. General Grant National Park abolished; lands added to Kings Canyon National Park

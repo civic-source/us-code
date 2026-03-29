@@ -5,7 +5,7 @@ usc_section: "1432"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1432"
-generated_at: "2026-03-29T18:27:03.285Z"
+generated_at: "2026-03-29T19:31:44.881Z"
 ---
 
 # § 1432. Repealed. July 15, 1949, ch. 338 , title VI, § 606, 63 Stat. 441

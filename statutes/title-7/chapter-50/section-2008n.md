@@ -5,7 +5,7 @@ usc_section: "2008n"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008n"
-generated_at: "2026-03-29T18:23:43.338Z"
+generated_at: "2026-03-29T19:27:31.808Z"
 ---
 
 # § 2008n. Rural telework

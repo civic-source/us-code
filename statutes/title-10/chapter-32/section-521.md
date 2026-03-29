@@ -5,7 +5,7 @@ usc_section: "521"
 chapter: 32
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 521"
-generated_at: "2026-03-29T18:23:51.744Z"
+generated_at: "2026-03-29T19:27:25.448Z"
 ---
 
 # § 521. Authority to prescribe total strengths of officers on active duty and officer strengths in various categories

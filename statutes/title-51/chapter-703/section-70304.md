@@ -5,7 +5,7 @@ usc_section: "70304"
 chapter: 703
 current_through: "PL 114-254"
 classification: "51 U.S.C. § 70304"
-generated_at: "2026-03-29T18:27:39.407Z"
+generated_at: "2026-03-29T19:32:32.751Z"
 ---
 
 # § 70304. Duties of Administrator

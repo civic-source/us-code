@@ -5,7 +5,7 @@ usc_section: "2243"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2243"
-generated_at: "2026-03-29T18:24:54.195Z"
+generated_at: "2026-03-29T19:29:46.755Z"
 ---
 
 # §§ 2241 to 2243. Repealed. Pub. L. 92–226 , pt. II, § 202(b), Feb. 7, 1972 , 86 Stat. 27

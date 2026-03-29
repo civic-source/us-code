@@ -5,7 +5,7 @@ usc_section: "1410b"
 chapter: 38
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1410b"
-generated_at: "2026-03-29T18:24:08.451Z"
+generated_at: "2026-03-29T19:27:55.425Z"
 ---
 
 # §§ 1394 to 1410b. Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 Stat. 1379

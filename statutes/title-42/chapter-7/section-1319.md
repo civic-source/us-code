@@ -5,7 +5,7 @@ usc_section: "1319"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1319"
-generated_at: "2026-03-29T18:27:02.966Z"
+generated_at: "2026-03-29T19:31:44.572Z"
 ---
 
 # § 1319. Federal participation in payments for repairs to home owned by recipient of aid or assistance

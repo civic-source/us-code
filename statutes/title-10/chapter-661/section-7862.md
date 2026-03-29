@@ -5,7 +5,7 @@ usc_section: "7862"
 chapter: 661
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7862"
-generated_at: "2026-03-29T18:23:52.079Z"
+generated_at: "2026-03-29T19:27:25.700Z"
 ---
 
 # § 7862. Accounts of paymasters of lost or captured naval vessels

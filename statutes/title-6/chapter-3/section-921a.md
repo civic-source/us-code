@@ -5,7 +5,7 @@ usc_section: "921a"
 chapter: 3
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 921a"
-generated_at: "2026-03-29T18:23:35.777Z"
+generated_at: "2026-03-29T19:27:39.877Z"
 ---
 
 # § 921a. Integration of detection equipment and technologies

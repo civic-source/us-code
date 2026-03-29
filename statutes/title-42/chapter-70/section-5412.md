@@ -5,7 +5,7 @@ usc_section: "5412"
 chapter: 70
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5412"
-generated_at: "2026-03-29T18:27:03.641Z"
+generated_at: "2026-03-29T19:31:45.228Z"
 ---
 
 # § 5412. Noncompliance with standards or defective nature of manufactured home; administrative or judicial determination; repurchase by manufacturer or repair by distributor or retailer; reimbursement of expenses, etc., by manufacturer; injunctive relief against manufacturer for failure to comply; jurisdiction and venue; damages; period of limitation

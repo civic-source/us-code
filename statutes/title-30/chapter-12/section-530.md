@@ -5,7 +5,7 @@ usc_section: "530"
 chapter: 12
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 530"
-generated_at: "2026-03-29T18:25:30.862Z"
+generated_at: "2026-03-29T19:30:05.238Z"
 ---
 
 # § 530. Definitions

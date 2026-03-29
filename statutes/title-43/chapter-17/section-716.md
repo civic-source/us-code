@@ -5,7 +5,7 @@ usc_section: "716"
 chapter: 17
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 716"
-generated_at: "2026-03-29T18:26:14.829Z"
+generated_at: "2026-03-29T19:31:49.074Z"
 ---
 
 # § 716. Repealed. Aug. 24, 1954, ch. 904 , § 2, 68 Stat. 792

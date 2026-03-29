@@ -5,7 +5,7 @@ usc_section: "139c"
 chapter: 4
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 139c"
-generated_at: "2026-03-29T18:23:51.724Z"
+generated_at: "2026-03-29T19:27:25.425Z"
 ---
 
 # § 139c. Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy

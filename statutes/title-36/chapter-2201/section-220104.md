@@ -5,7 +5,7 @@ usc_section: "220104"
 chapter: 2201
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 220104"
-generated_at: "2026-03-29T18:26:09.306Z"
+generated_at: "2026-03-29T19:30:42.093Z"
 ---
 
 # § 220104. Governing body

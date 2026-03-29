@@ -5,7 +5,7 @@ usc_section: "2152"
 chapter: 54
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2152"
-generated_at: "2026-03-29T18:23:43.382Z"
+generated_at: "2026-03-29T19:27:31.852Z"
 ---
 
 # § 2152. Separability

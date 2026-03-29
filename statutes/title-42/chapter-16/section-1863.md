@@ -5,7 +5,7 @@ usc_section: "1863"
 chapter: 16
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1863"
-generated_at: "2026-03-29T18:27:03.388Z"
+generated_at: "2026-03-29T19:31:44.979Z"
 ---
 
 # § 1863. National Science Board

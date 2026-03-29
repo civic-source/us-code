@@ -5,7 +5,7 @@ usc_section: "230301"
 chapter: 2303
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 230301"
-generated_at: "2026-03-29T18:26:09.310Z"
+generated_at: "2026-03-29T19:30:42.097Z"
 ---
 
 # § 230301. Organization

@@ -5,7 +5,7 @@ usc_section: "581"
 chapter: 5
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 581"
-generated_at: "2026-03-29T18:23:29.856Z"
+generated_at: "2026-03-29T19:27:05.224Z"
 ---
 
 # § 581. Judicial Review 1 1 So in original. Probably should not be capitalized.

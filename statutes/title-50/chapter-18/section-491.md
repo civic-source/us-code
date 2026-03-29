@@ -5,7 +5,7 @@ usc_section: "491"
 chapter: 18
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 491"
-generated_at: "2026-03-29T18:27:35.591Z"
+generated_at: "2026-03-29T19:32:24.098Z"
 ---
 
 # § 491. Establishment and development of land-based air warning and control installations and facilities; extent of appropriation; procurement of communication services

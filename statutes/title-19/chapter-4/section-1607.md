@@ -5,7 +5,7 @@ usc_section: "1607"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-03-29T18:24:16.106Z"
+generated_at: "2026-03-29T19:28:30.678Z"
 ---
 
 # § 1607. Seizure; value $500,000 or less, prohibited articles, transporting conveyances

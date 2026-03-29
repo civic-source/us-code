@@ -5,7 +5,7 @@ usc_section: "1212"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1212"
-generated_at: "2026-03-29T18:26:14.849Z"
+generated_at: "2026-03-29T19:31:49.094Z"
 ---
 
 # § 1212. Unsworn written statements subject to penalties of presenting false claims

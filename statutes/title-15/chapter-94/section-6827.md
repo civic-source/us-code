@@ -5,7 +5,7 @@ usc_section: "6827"
 chapter: 94
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6827"
-generated_at: "2026-03-29T18:24:08.641Z"
+generated_at: "2026-03-29T19:27:55.595Z"
 ---
 
 # § 6827. Definitions

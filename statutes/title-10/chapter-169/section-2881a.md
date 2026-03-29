@@ -5,7 +5,7 @@ usc_section: "2881a"
 chapter: 169
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-03-29T18:23:52.011Z"
+generated_at: "2026-03-29T19:27:25.649Z"
 ---
 
 # § 2881a. Pilot projects for acquisition or construction of military unaccompanied housing

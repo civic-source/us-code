@@ -3,9 +3,9 @@ title: "Section 4960 - Tax on excess tax-exempt organization executive compensat
 usc_title: 26
 usc_section: "4960"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "26 U.S.C. § 4960"
-generated_at: "2026-03-29T02:14:01.230Z"
+generated_at: "2026-03-29T18:45:37.244Z"
 ---
 
 # § 4960. Tax on excess tax-exempt organization executive compensation
@@ -20,7 +20,9 @@ generated_at: "2026-03-29T02:14:01.230Z"
     - **(B)** is a farmers’ cooperative organization described in section 521(b)(1),
     - **(C)** has income excluded from taxation under section 115(1), or
     - **(D)** is a political organization described in section 527(e)(1).
-  - **(2)** For purposes of this section, the term “covered employee” means any employee of an applicable tax-exempt organization (or any predecessor of such an organization) and any former employee of such an organization (or predecessor) who was such an employee during any taxable year beginning after December 31, 2016 .
+  - **(2)** For purposes of this section, the term “covered employee” means any employee (including any former employee) of an applicable tax-exempt organization if the employee—
+    - **(A)** is one of the 5 highest compensated employees of the organization for the taxable year, or
+    - **(B)** was a covered employee of the organization (or any predecessor) for any preceding taxable year beginning after December 31, 2016 .
   - **(3)** For purposes of this section:
     - **(A)** The term “remuneration” means wages (as defined in section 3401(a)), except that such term shall not include any designated Roth contribution (as defined in section 402A(c)) and shall include amounts required to be included in gross income under section 457(f).
     - **(B)** The term “remuneration” shall not include the portion of any remuneration paid to a licensed medical professional (including a veterinarian) which is for the performance of medical or veterinary services by such professional.

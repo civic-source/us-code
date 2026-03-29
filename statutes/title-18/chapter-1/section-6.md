@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 6"
-generated_at: "2026-03-29T18:24:43.761Z"
+generated_at: "2026-03-29T19:28:33.776Z"
 ---
 
 # § 6. Department and agency defined

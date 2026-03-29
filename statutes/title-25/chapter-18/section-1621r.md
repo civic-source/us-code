@@ -5,7 +5,7 @@ usc_section: "1621r"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1621r"
-generated_at: "2026-03-29T18:25:23.729Z"
+generated_at: "2026-03-29T19:29:34.792Z"
 ---
 
 # § 1621r. Contract health services payment study

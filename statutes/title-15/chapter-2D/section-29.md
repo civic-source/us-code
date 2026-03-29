@@ -5,7 +5,7 @@ usc_section: "29"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 29"
-generated_at: "2026-03-29T18:24:08.307Z"
+generated_at: "2026-03-29T19:27:55.283Z"
 ---
 
 # § 80a–29. Reports and financial statements of investment companies and affiliated persons

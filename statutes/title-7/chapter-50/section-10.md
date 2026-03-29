@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 10"
-generated_at: "2026-03-29T18:23:43.348Z"
+generated_at: "2026-03-29T19:27:31.819Z"
 ---
 
 # § 2009cc–10. Reporting requirements

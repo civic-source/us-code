@@ -5,7 +5,7 @@ usc_section: "1902"
 chapter: 21
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1902"
-generated_at: "2026-03-29T18:25:23.756Z"
+generated_at: "2026-03-29T19:29:34.815Z"
 ---
 
 # § 1902. Congressional declaration of policy

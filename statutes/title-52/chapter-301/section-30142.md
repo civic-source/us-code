@@ -5,7 +5,7 @@ usc_section: "30142"
 chapter: 301
 current_through: "PL 114-254"
 classification: "52 U.S.C. § 30142"
-generated_at: "2026-03-29T18:27:39.916Z"
+generated_at: "2026-03-29T19:32:34.087Z"
 ---
 
 # § 30142. Prohibition against use of certain Federal funds for election activities

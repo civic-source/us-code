@@ -5,7 +5,7 @@ usc_section: "12526"
 chapter: 129
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12526"
-generated_at: "2026-03-29T18:27:04.055Z"
+generated_at: "2026-03-29T19:31:45.648Z"
 ---
 
 # § 12526. Consideration of applications

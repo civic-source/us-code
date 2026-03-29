@@ -5,7 +5,7 @@ usc_section: "47f"
 chapter: 4
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 47f"
-generated_at: "2026-03-29T18:27:35.582Z"
+generated_at: "2026-03-29T19:32:24.087Z"
 ---
 
 # § 47f. Definitions

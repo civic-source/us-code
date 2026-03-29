@@ -5,7 +5,7 @@ usc_section: "13722"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13722"
-generated_at: "2026-03-29T18:27:04.132Z"
+generated_at: "2026-03-29T19:31:45.738Z"
 ---
 
 # § 13722. Efficiency in law enforcement and corrections

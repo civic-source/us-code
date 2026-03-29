@@ -5,7 +5,7 @@ usc_section: "6505"
 chapter: 78
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6505"
-generated_at: "2026-03-29T18:27:03.716Z"
+generated_at: "2026-03-29T19:31:45.302Z"
 ---
 
 # § 6505. Executive department responsibility for studies to determine procedures used in development, production, transportation, and distribution of petroleum resources in reserve; reports to Congress by President; establishment of task force by Secretary of the Interior; purposes; membership; report and recommendations to Congress by Secretary; contents

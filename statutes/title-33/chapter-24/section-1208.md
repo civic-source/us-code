@@ -5,7 +5,7 @@ usc_section: "1208"
 chapter: 24
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1208"
-generated_at: "2026-03-29T18:26:01.219Z"
+generated_at: "2026-03-29T19:30:28.763Z"
 ---
 
 # § 1208. Penalties

@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 16"
-generated_at: "2026-03-29T18:25:04.081Z"
+generated_at: "2026-03-29T19:29:50.325Z"
 ---
 
 # § 16. Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded

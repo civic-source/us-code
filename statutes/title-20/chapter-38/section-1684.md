@@ -5,7 +5,7 @@ usc_section: "1684"
 chapter: 38
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1684"
-generated_at: "2026-03-29T18:24:41.065Z"
+generated_at: "2026-03-29T19:28:43.107Z"
 ---
 
 # § 1684. Blindness or visual impairment; prohibition against discrimination

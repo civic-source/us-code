@@ -5,7 +5,7 @@ usc_section: "17701"
 chapter: 177
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 17701"
-generated_at: "2026-03-29T18:26:04.594Z"
+generated_at: "2026-03-29T19:30:36.716Z"
 ---
 
 # § 17701. Definitions

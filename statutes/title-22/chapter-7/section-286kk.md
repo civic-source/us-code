@@ -5,7 +5,7 @@ usc_section: "286kk"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 286kk"
-generated_at: "2026-03-29T18:24:54.125Z"
+generated_at: "2026-03-29T19:29:46.673Z"
 ---
 
 # § 286kk. Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment

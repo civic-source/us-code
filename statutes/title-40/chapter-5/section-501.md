@@ -5,7 +5,7 @@ usc_section: "501"
 chapter: 5
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 501"
-generated_at: "2026-03-29T18:26:04.551Z"
+generated_at: "2026-03-29T19:30:36.675Z"
 ---
 
 # § 501. Services for executive agencies

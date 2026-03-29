@@ -5,7 +5,7 @@ usc_section: "353"
 chapter: 11
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 353"
-generated_at: "2026-03-29T18:23:14.069Z"
+generated_at: "2026-03-29T19:27:07.517Z"
 ---
 
 # § 353. Executive Director; additional personnel; detail of personnel of other agencies

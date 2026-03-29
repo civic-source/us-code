@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T18:24:22.671Z"
+generated_at: "2026-03-29T19:29:27.313Z"
 ---
 
 # § 590z–5. Repealed. Aug. 17, 1954, ch. 751 , § 2, 68 Stat. 736

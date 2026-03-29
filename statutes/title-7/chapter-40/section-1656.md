@@ -5,7 +5,7 @@ usc_section: "1656"
 chapter: 40
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1656"
-generated_at: "2026-03-29T18:23:43.300Z"
+generated_at: "2026-03-29T19:27:31.770Z"
 ---
 
 # §§ 1651 to 1656. Repealed. Pub. L. 106–224, title IV , § 438(a)(7), June 20, 2000 , 114 Stat. 454

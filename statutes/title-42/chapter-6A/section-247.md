@@ -5,7 +5,7 @@ usc_section: "247"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 247"
-generated_at: "2026-03-29T18:27:02.538Z"
+generated_at: "2026-03-29T19:31:44.178Z"
 ---
 
 # § 247. Assisting veterans with military emergency medical training to meet requirements for becoming civilian health care professionals

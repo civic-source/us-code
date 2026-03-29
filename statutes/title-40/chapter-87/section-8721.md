@@ -5,7 +5,7 @@ usc_section: "8721"
 chapter: 87
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 8721"
-generated_at: "2026-03-29T18:26:04.579Z"
+generated_at: "2026-03-29T19:30:36.700Z"
 ---
 
 # § 8721. Comprehensive plan for the National Capital

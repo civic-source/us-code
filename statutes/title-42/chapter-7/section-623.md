@@ -5,7 +5,7 @@ usc_section: "623"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 623"
-generated_at: "2026-03-29T18:27:02.907Z"
+generated_at: "2026-03-29T19:31:44.524Z"
 ---
 
 # § 623. Allotments to States

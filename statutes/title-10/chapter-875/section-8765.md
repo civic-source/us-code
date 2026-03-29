@@ -3,9 +3,9 @@ title: "Section 8765 - Obsolete material and articles of historical interest: lo
 usc_title: 10
 usc_section: "8765"
 chapter: 875
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8765"
-generated_at: "2026-03-29T02:10:45.325Z"
+generated_at: "2026-03-29T18:47:53.581Z"
 ---
 
 # § 8765. Obsolete material and articles of historical interest: loan or gift

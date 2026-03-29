@@ -5,7 +5,7 @@ usc_section: "430"
 chapter: 17
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 430"
-generated_at: "2026-03-29T18:23:43.198Z"
+generated_at: "2026-03-29T19:27:31.678Z"
 ---
 
 # § 430. Purchase and testing of serums or analogous products; dissemination of test results

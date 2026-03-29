@@ -5,7 +5,7 @@ usc_section: "808"
 chapter: 14
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 808"
-generated_at: "2026-03-29T18:24:54.144Z"
+generated_at: "2026-03-29T19:29:46.695Z"
 ---
 
 # § 808. Repealed. Pub. L. 92–310, title II , § 227(c), June 6, 1972 , 86 Stat. 207

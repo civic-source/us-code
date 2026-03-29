@@ -5,7 +5,7 @@ usc_section: "83"
 chapter: 4
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 83"
-generated_at: "2026-03-29T18:24:40.873Z"
+generated_at: "2026-03-29T19:28:42.929Z"
 ---
 
 # § 83. Omitted

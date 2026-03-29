@@ -5,7 +5,7 @@ usc_section: "7b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7b"
-generated_at: "2026-03-29T18:27:02.639Z"
+generated_at: "2026-03-29T19:31:44.277Z"
 ---
 
 # § 285b–7b. Coordination of Federal asthma activities

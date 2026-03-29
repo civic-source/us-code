@@ -5,7 +5,7 @@ usc_section: "1452"
 chapter: 39
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1452"
-generated_at: "2026-03-29T18:24:08.451Z"
+generated_at: "2026-03-29T19:27:55.425Z"
 ---
 
 # § 1452. Unfair and deceptive packaging and labeling; scope of prohibition

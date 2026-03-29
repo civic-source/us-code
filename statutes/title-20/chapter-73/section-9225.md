@@ -5,7 +5,7 @@ usc_section: "9225"
 chapter: 73
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 9225"
-generated_at: "2026-03-29T18:24:41.179Z"
+generated_at: "2026-03-29T19:28:43.240Z"
 ---
 
 # §§ 9221 to 9225. Repealed. Pub. L. 113–128, title V , § 511(a), July 22, 2014 , 128 Stat. 1705

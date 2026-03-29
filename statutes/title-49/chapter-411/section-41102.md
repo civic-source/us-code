@@ -5,7 +5,7 @@ usc_section: "41102"
 chapter: 411
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 41102"
-generated_at: "2026-03-29T18:27:16.576Z"
+generated_at: "2026-03-29T19:32:28.861Z"
 ---
 
 # § 41102. General, temporary, and charter air transportation certificates of air carriers

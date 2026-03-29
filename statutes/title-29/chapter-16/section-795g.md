@@ -5,7 +5,7 @@ usc_section: "795g"
 chapter: 16
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 795g"
-generated_at: "2026-03-29T18:25:43.051Z"
+generated_at: "2026-03-29T19:30:07.551Z"
 ---
 
 # § 795g. Purpose

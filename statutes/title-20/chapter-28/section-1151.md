@@ -5,7 +5,7 @@ usc_section: "1151"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1151"
-generated_at: "2026-03-29T18:24:41.015Z"
+generated_at: "2026-03-29T19:28:43.060Z"
 ---
 
 # § 1151. Repealed. Pub. L. 113–128, title V , § 511(b), July 22, 2014 , 128 Stat. 1705

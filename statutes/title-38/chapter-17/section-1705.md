@@ -5,7 +5,7 @@ usc_section: "1705"
 chapter: 17
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1705"
-generated_at: "2026-03-29T18:26:07.554Z"
+generated_at: "2026-03-29T19:30:40.472Z"
 ---
 
 # § 1705. Management of health care: patient enrollment system

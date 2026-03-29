@@ -5,7 +5,7 @@ usc_section: "3797dd"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3797dd"
-generated_at: "2026-03-29T18:27:03.556Z"
+generated_at: "2026-03-29T19:31:45.137Z"
 ---
 
 # § 3797dd. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities

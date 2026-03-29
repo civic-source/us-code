@@ -5,7 +5,7 @@ usc_section: "1464"
 chapter: 74
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1464"
-generated_at: "2026-03-29T18:23:51.834Z"
+generated_at: "2026-03-29T19:27:25.536Z"
 ---
 
 # [§ 1464. Repealed. Pub. L. 110–181, div. A, title IX , § 906(b)(1)(A), Jan. 28, 2008 , 122 Stat. 277 ]

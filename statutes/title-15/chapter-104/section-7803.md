@@ -5,7 +5,7 @@ usc_section: "7803"
 chapter: 104
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7803"
-generated_at: "2026-03-29T18:24:08.661Z"
+generated_at: "2026-03-29T19:27:55.615Z"
 ---
 
 # § 7803. Enforcement

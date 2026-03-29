@@ -5,7 +5,7 @@ usc_section: "2282"
 chapter: 55
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2282"
-generated_at: "2026-03-29T18:23:43.393Z"
+generated_at: "2026-03-29T19:27:31.862Z"
 ---
 
 # § 2282. Definitions

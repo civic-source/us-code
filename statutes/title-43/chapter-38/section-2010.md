@@ -5,7 +5,7 @@ usc_section: "2010"
 chapter: 38
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2010"
-generated_at: "2026-03-29T18:26:14.907Z"
+generated_at: "2026-03-29T19:31:49.160Z"
 ---
 
 # § 2010. Negotiations with Government of Canada

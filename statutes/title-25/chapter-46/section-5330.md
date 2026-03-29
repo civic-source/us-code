@@ -5,7 +5,7 @@ usc_section: "5330"
 chapter: 46
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 5330"
-generated_at: "2026-03-29T18:25:23.837Z"
+generated_at: "2026-03-29T19:29:34.897Z"
 ---
 
 # § 5330. Rescission of contract or grant and assumption of control of program, etc.; authority; grounds; procedure; correction of violation as prerequisite to new contract or grant agreement; construction with occupational safety and health requirements

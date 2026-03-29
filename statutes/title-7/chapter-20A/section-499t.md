@@ -5,7 +5,7 @@ usc_section: "499t"
 chapter: 20
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 499t"
-generated_at: "2026-03-29T18:23:43.207Z"
+generated_at: "2026-03-29T19:27:31.685Z"
 ---
 
 # § 499t. Omitted

@@ -5,7 +5,7 @@ usc_section: "6908"
 chapter: 601
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6908"
-generated_at: "2026-03-29T18:23:52.057Z"
+generated_at: "2026-03-29T19:27:25.685Z"
 ---
 
 # [§ 6908. Repealed. Pub. L. 88–647, title III , § 301(17), Oct. 13, 1964 , 78 Stat. 1072 ]

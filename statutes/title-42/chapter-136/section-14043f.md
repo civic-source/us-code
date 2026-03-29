@@ -5,7 +5,7 @@ usc_section: "14043f"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14043f"
-generated_at: "2026-03-29T18:27:04.149Z"
+generated_at: "2026-03-29T19:31:45.756Z"
 ---
 
 # § 14043f. Grant for national resource center on workplace responses to assist victims of domestic and sexual violence

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 1
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-29T18:27:11.634Z"
+generated_at: "2026-03-29T19:31:53.941Z"
 ---
 
 # § 1. Omitted

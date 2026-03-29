@@ -5,7 +5,7 @@ usc_section: "272"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 272"
-generated_at: "2026-03-29T18:25:53.501Z"
+generated_at: "2026-03-29T19:30:19.765Z"
 ---
 
 # § 272. Disposal of coal or domestic iron ore

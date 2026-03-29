@@ -5,7 +5,7 @@ usc_section: "1148"
 chapter: 7
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1148"
-generated_at: "2026-03-29T18:24:02.770Z"
+generated_at: "2026-03-29T19:28:17.528Z"
 ---
 
 # § 1148. Regional agricultural credit corporations; creation; capital; management; loans; rediscounts; supervision

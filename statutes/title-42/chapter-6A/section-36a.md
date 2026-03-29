@@ -5,7 +5,7 @@ usc_section: "36a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 36a"
-generated_at: "2026-03-29T18:27:02.671Z"
+generated_at: "2026-03-29T19:31:44.311Z"
 ---
 
 # § 290bb–36a. Suicide prevention for youth

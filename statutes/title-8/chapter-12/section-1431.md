@@ -5,7 +5,7 @@ usc_section: "1431"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1431"
-generated_at: "2026-03-29T18:23:33.977Z"
+generated_at: "2026-03-29T19:27:14.508Z"
 ---
 
 # § 1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date

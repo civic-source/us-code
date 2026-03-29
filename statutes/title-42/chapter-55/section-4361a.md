@@ -5,7 +5,7 @@ usc_section: "4361a"
 chapter: 55
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4361a"
-generated_at: "2026-03-29T18:27:03.573Z"
+generated_at: "2026-03-29T19:31:45.156Z"
 ---
 
 # §§ 4361, 4361a. Repealed. Pub. L. 104–66, title II , § 2021(k)(1), (2), Dec. 21, 1995 , 109 Stat. 728

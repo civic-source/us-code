@@ -5,7 +5,7 @@ usc_section: "286m"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 286m"
-generated_at: "2026-03-29T18:24:54.123Z"
+generated_at: "2026-03-29T19:29:46.672Z"
 ---
 
 # § 286m. Amount of loan; public-debt transaction; disposition of interest payments

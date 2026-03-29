@@ -5,7 +5,7 @@ usc_section: "5590"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5590"
-generated_at: "2026-03-29T18:27:03.649Z"
+generated_at: "2026-03-29T19:31:45.236Z"
 ---
 
 # § 5590. Submittal to Congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations; encouragement of international participation and cooperation; coordination and consistency of plan and international activities with similar activities and programs

@@ -5,7 +5,7 @@ usc_section: "4339"
 chapter: 53
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 4339"
-generated_at: "2026-03-29T18:27:35.740Z"
+generated_at: "2026-03-29T19:32:24.293Z"
 ---
 
 # § 4339. Claims for proceeds from sale of certain certificates: jurisdiction, limitations; divestment of copyrights: “copyrights” defined, rights of licensees and assignees, reproduction rights of United States, transfer of interests, payment of royalties to Attorney General, suits for infringement

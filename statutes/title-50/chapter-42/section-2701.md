@@ -5,7 +5,7 @@ usc_section: "2701"
 chapter: 42
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2701"
-generated_at: "2026-03-29T18:27:35.655Z"
+generated_at: "2026-03-29T19:32:24.206Z"
 ---
 
 # § 2701. Authority for appointment of certain scientific, engineering, and technical personnel

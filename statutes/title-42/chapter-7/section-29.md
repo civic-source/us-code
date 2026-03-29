@@ -5,7 +5,7 @@ usc_section: "29"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 29"
-generated_at: "2026-03-29T18:27:03.110Z"
+generated_at: "2026-03-29T19:31:44.702Z"
 ---
 
 # § 1395w–29. Repealed. Pub. L. 111–152, title I , § 1102(f), Mar. 30, 2010 , 124 Stat. 1046

@@ -5,7 +5,7 @@ usc_section: "44932"
 chapter: 449
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 44932"
-generated_at: "2026-03-29T18:27:16.612Z"
+generated_at: "2026-03-29T19:32:28.888Z"
 ---
 
 # [§§ 44931, 44932. Repealed. Pub. L. 107–71, title I , § 101(f)(6), Nov. 19, 2001 , 115 Stat. 603 ]

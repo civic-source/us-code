@@ -5,7 +5,7 @@ usc_section: "2371b"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2371b"
-generated_at: "2026-03-29T18:23:51.938Z"
+generated_at: "2026-03-29T19:27:25.598Z"
 ---
 
 # § 2371b. Authority of the Department of Defense to carry out certain prototype projects

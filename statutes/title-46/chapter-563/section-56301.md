@@ -5,7 +5,7 @@ usc_section: "56301"
 chapter: 563
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 56301"
-generated_at: "2026-03-29T18:27:18.932Z"
+generated_at: "2026-03-29T19:32:17.382Z"
 ---
 
 # § 56301. General authority

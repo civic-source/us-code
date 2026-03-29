@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 13
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-03-29T18:24:40.878Z"
+generated_at: "2026-03-29T19:28:42.934Z"
 ---
 
 # § 241bb–1. Repealed. Pub. L. 100–297, title V , § 5116(1), Apr. 28, 1988 , 102 Stat. 381

@@ -5,7 +5,7 @@ usc_section: "70d"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 70d"
-generated_at: "2026-03-29T18:24:08.213Z"
+generated_at: "2026-03-29T19:27:55.067Z"
 ---
 
 # § 70d. Records

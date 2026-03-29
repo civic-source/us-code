@@ -5,7 +5,7 @@ usc_section: "7671m"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7671m"
-generated_at: "2026-03-29T18:27:03.857Z"
+generated_at: "2026-03-29T19:31:45.441Z"
 ---
 
 # § 7671m. Relationship to other laws

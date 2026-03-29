@@ -5,7 +5,7 @@ usc_section: "702"
 chapter: 7
 current_through: "PL 114-254"
 classification: "11 U.S.C. § 702"
-generated_at: "2026-03-29T18:23:58.111Z"
+generated_at: "2026-03-29T19:28:02.016Z"
 ---
 
 # § 702. Election of trustee

@@ -3,9 +3,9 @@ title: "Section 677b - Declaration"
 usc_title: 6
 usc_section: "677b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 677b"
-generated_at: "2026-03-29T02:10:05.051Z"
+generated_at: "2026-03-29T18:47:07.412Z"
 ---
 
 # § 677b. Declaration

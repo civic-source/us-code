@@ -5,7 +5,7 @@ usc_section: "5982"
 chapter: 553
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5982"
-generated_at: "2026-03-29T18:23:52.049Z"
+generated_at: "2026-03-29T19:27:25.678Z"
 ---
 
 # [§ 5982. Repealed. Pub. L. 96–513, title III , § 361(b), Dec. 12, 1980 , 94 Stat. 2902 ]

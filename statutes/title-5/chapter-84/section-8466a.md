@@ -3,9 +3,9 @@ title: "Section 8466a - Embezzlement or conversion of payments"
 usc_title: 5
 usc_section: "8466a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "5 U.S.C. § 8466a"
-generated_at: "2026-03-29T02:10:01.975Z"
+generated_at: "2026-03-29T18:46:40.803Z"
 ---
 
 # § 8466a. Embezzlement or conversion of payments

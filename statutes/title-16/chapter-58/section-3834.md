@@ -5,7 +5,7 @@ usc_section: "3834"
 chapter: 58
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3834"
-generated_at: "2026-03-29T18:24:22.887Z"
+generated_at: "2026-03-29T19:29:27.566Z"
 ---
 
 # § 3834. Payments

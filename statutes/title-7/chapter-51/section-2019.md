@@ -5,7 +5,7 @@ usc_section: "2019"
 chapter: 51
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2019"
-generated_at: "2026-03-29T18:23:43.362Z"
+generated_at: "2026-03-29T19:27:31.833Z"
 ---
 
 # § 2019. Redemption of program benefits

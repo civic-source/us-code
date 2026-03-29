@@ -5,7 +5,7 @@ usc_section: "7614c"
 chapter: 103
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7614c"
-generated_at: "2026-03-29T18:23:43.525Z"
+generated_at: "2026-03-29T19:27:31.995Z"
 ---
 
 # § 7614c. Budget submission and funding

@@ -5,7 +5,7 @@ usc_section: "439c"
 chapter: 14
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 439c"
-generated_at: "2026-03-29T18:23:14.073Z"
+generated_at: "2026-03-29T19:27:07.520Z"
 ---
 
 # § 439c. Transferred

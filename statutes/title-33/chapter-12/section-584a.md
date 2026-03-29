@@ -5,7 +5,7 @@ usc_section: "584a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 584a"
-generated_at: "2026-03-29T18:26:01.180Z"
+generated_at: "2026-03-29T19:30:28.725Z"
 ---
 
 # §§ 584, 584a. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 647 , 648

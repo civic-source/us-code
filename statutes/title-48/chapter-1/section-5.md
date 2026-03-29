@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 1
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 5"
-generated_at: "2026-03-29T18:27:11.634Z"
+generated_at: "2026-03-29T19:31:53.941Z"
 ---
 
 # §§ 4, 5. Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029

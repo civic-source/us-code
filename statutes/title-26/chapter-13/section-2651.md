@@ -5,7 +5,7 @@ usc_section: "2651"
 chapter: 13
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 2651"
-generated_at: "2026-03-29T18:25:53.786Z"
+generated_at: "2026-03-29T19:30:20.046Z"
 ---
 
 # § 2651. Generation assignment

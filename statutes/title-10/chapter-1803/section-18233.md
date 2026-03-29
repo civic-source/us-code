@@ -5,7 +5,7 @@ usc_section: "18233"
 chapter: 1803
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 18233"
-generated_at: "2026-03-29T18:23:52.129Z"
+generated_at: "2026-03-29T19:27:25.747Z"
 ---
 
 # § 18233. Acquisition

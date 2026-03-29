@@ -5,7 +5,7 @@ usc_section: "740b"
 chapter: 16
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 740b"
-generated_at: "2026-03-29T18:26:01.199Z"
+generated_at: "2026-03-29T19:30:28.743Z"
 ---
 
 # §§ 739 to 740b. Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 561

@@ -5,7 +5,7 @@ usc_section: "559"
 chapter: 12
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 559"
-generated_at: "2026-03-29T18:25:43.021Z"
+generated_at: "2026-03-29T19:30:07.521Z"
 ---
 
 # § 559. Rented quarters

@@ -5,7 +5,7 @@ usc_section: "1051a"
 chapter: 53
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1051a"
-generated_at: "2026-03-29T18:23:51.782Z"
+generated_at: "2026-03-29T19:27:25.494Z"
 ---
 
 # § 1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses

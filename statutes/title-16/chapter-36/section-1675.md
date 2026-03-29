@@ -5,7 +5,7 @@ usc_section: "1675"
 chapter: 36
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1675"
-generated_at: "2026-03-29T18:24:22.822Z"
+generated_at: "2026-03-29T19:29:27.489Z"
 ---
 
 # § 1675. Authorization of appropriations; criteria for eligibility of States for funds

@@ -5,7 +5,7 @@ usc_section: "1523"
 chapter: 40
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1523"
-generated_at: "2026-03-29T18:24:08.455Z"
+generated_at: "2026-03-29T19:27:55.429Z"
 ---
 
 # § 1523. Tax status of gifts and bequests of property

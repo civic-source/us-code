@@ -5,7 +5,7 @@ usc_section: "209"
 chapter: 3
 current_through: "PL 114-254"
 classification: "1 U.S.C. § 209"
-generated_at: "2026-03-29T18:23:11.733Z"
+generated_at: "2026-03-29T19:27:01.460Z"
 ---
 
 # § 209. Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original

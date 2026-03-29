@@ -5,7 +5,7 @@ usc_section: "12106"
 chapter: 1203
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 12106"
-generated_at: "2026-03-29T18:23:52.110Z"
+generated_at: "2026-03-29T19:27:25.728Z"
 ---
 
 # § 12106. Army and Air Force Reserve: transfer to upon withdrawal as member of National Guard

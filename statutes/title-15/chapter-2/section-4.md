@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-03-29T18:24:08.206Z"
+generated_at: "2026-03-29T19:27:55.063Z"
 ---
 
 # § 57b–4. Good faith reliance on actions of Board of Governors

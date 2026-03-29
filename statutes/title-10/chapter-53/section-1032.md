@@ -5,7 +5,7 @@ usc_section: "1032"
 chapter: 53
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1032"
-generated_at: "2026-03-29T18:23:51.780Z"
+generated_at: "2026-03-29T19:27:25.491Z"
 ---
 
 # § 1032. Disability and death compensation: dependents of members held as captives

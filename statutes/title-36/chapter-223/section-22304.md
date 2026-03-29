@@ -5,7 +5,7 @@ usc_section: "22304"
 chapter: 223
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 22304"
-generated_at: "2026-03-29T18:26:09.272Z"
+generated_at: "2026-03-29T19:30:42.060Z"
 ---
 
 # § 22304. Governing body

@@ -5,7 +5,7 @@ usc_section: "2241"
 chapter: 20
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 2241"
-generated_at: "2026-03-29T18:27:11.710Z"
+generated_at: "2026-03-29T19:31:53.993Z"
 ---
 
 # § 2241. Sense of Congress regarding permanent, pro-growth fiscal reforms

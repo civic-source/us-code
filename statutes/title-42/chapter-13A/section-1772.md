@@ -5,7 +5,7 @@ usc_section: "1772"
 chapter: 13
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1772"
-generated_at: "2026-03-29T18:27:03.365Z"
+generated_at: "2026-03-29T19:31:44.957Z"
 ---
 
 # § 1772. Special program to encourage the consumption of fluid milk by children; authorization of appropriations; eligibility for special milk program; minimum rate of reimbursement; ineligibility of commodity only schools

@@ -5,7 +5,7 @@ usc_section: "1261"
 chapter: 59
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1261"
-generated_at: "2026-03-29T18:24:43.811Z"
+generated_at: "2026-03-29T19:28:33.828Z"
 ---
 
 # § 1261. Enforcement, regulations, and scope

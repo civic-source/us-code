@@ -5,7 +5,7 @@ usc_section: "2056b"
 chapter: 47
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2056b"
-generated_at: "2026-03-29T18:24:08.515Z"
+generated_at: "2026-03-29T19:27:55.483Z"
 ---
 
 # § 2056b. Mandatory toy safety standards

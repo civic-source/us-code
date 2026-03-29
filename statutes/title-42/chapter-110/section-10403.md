@@ -5,7 +5,7 @@ usc_section: "10403"
 chapter: 110
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10403"
-generated_at: "2026-03-29T18:27:03.988Z"
+generated_at: "2026-03-29T19:31:45.583Z"
 ---
 
 # § 10403. Authorization of appropriations

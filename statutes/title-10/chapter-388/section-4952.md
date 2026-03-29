@@ -3,15 +3,14 @@ title: "Section 4952 - Purposes"
 usc_title: 10
 usc_section: "4952"
 chapter: 388
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4952"
-generated_at: "2026-03-29T02:10:45.241Z"
+generated_at: "2026-03-29T18:47:53.536Z"
 ---
 
 # § 4952. Purposes
 
 The purposes of the program authorized by this chapter are—
 
-  - **(1)** to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities;
-  - **(2)** to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs; and
-  - **(3)** to foster innovation for the defense industrial base and to diversify and expand the defense industrial base.
+  - **(1)** to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
+  - **(2)** to assist eligible entities in the payment of the costs of establishing and carrying out new procurement technical assistance programs and maintaining existing procurement technical assistance programs.

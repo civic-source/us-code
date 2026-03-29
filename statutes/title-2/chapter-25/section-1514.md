@@ -5,7 +5,7 @@ usc_section: "1514"
 chapter: 25
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1514"
-generated_at: "2026-03-29T18:23:14.117Z"
+generated_at: "2026-03-29T19:27:07.559Z"
 ---
 
 # § 1514. Enforcement in House of Representatives

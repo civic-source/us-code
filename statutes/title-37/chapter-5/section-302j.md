@@ -5,7 +5,7 @@ usc_section: "302j"
 chapter: 5
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 302j"
-generated_at: "2026-03-29T18:26:10.129Z"
+generated_at: "2026-03-29T19:30:34.093Z"
 ---
 
 # § 302j. Special pay: accession bonus for pharmacy officers

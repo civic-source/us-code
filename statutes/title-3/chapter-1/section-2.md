@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 1
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 2"
-generated_at: "2026-03-29T18:23:14.418Z"
+generated_at: "2026-03-29T19:27:10.129Z"
 ---
 
 # § 2. Failure to make choice on prescribed day

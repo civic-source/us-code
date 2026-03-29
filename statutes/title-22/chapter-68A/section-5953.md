@@ -5,7 +5,7 @@ usc_section: "5953"
 chapter: 68
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 5953"
-generated_at: "2026-03-29T18:24:54.340Z"
+generated_at: "2026-03-29T19:29:46.901Z"
 ---
 
 # §§ 5952, 5953. Repealed. Pub. L. 113–291, div. A, title XIII , § 1351(3), Dec. 19, 2014 , 128 Stat. 3607

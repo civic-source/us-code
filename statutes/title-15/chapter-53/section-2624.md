@@ -5,7 +5,7 @@ usc_section: "2624"
 chapter: 53
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2624"
-generated_at: "2026-03-29T18:24:08.554Z"
+generated_at: "2026-03-29T19:27:55.518Z"
 ---
 
 # § 2624. Repealed. Pub. L. 114–182, title I , § 16, June 22, 2016 , 130 Stat. 499

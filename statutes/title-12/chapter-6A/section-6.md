@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 6
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-29T18:24:02.768Z"
+generated_at: "2026-03-29T19:28:17.525Z"
 ---
 
 # § 635i–6. Debt reduction; Enterprise for the Americas Initiative

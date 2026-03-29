@@ -5,7 +5,7 @@ usc_section: "1371"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1371"
-generated_at: "2026-03-29T18:27:03.008Z"
+generated_at: "2026-03-29T19:31:44.606Z"
 ---
 
 # §§ 1366 to 1371. Repealed. Pub. L. 89–554 , § 8(a), Sept. 6, 1966 , 80 Stat. 658 , 660, 661

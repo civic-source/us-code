@@ -5,7 +5,7 @@ usc_section: "1111"
 chapter: 20
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 1111"
-generated_at: "2026-03-29T18:26:13.325Z"
+generated_at: "2026-03-29T19:31:12.250Z"
 ---
 
 # § 1111. Repealed. Pub. L. 105–134, title IV , § 408, Dec. 2, 1997 , 111 Stat. 2586

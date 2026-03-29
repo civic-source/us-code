@@ -5,7 +5,7 @@ usc_section: "8124"
 chapter: 90
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8124"
-generated_at: "2026-03-29T18:27:03.869Z"
+generated_at: "2026-03-29T19:31:45.456Z"
 ---
 
 # §§ 8121 to 8124. Repealed. Pub. L. 97–35, title III , § 313(a), Aug. 13, 1981 , 95 Stat. 398

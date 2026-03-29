@@ -5,7 +5,7 @@ usc_section: "3712a"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3712a"
-generated_at: "2026-03-29T18:27:03.525Z"
+generated_at: "2026-03-29T19:31:45.103Z"
 ---
 
 # § 3712a. Office of Weed and Seed Strategies

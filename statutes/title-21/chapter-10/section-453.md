@@ -5,7 +5,7 @@ usc_section: "453"
 chapter: 10
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 453"
-generated_at: "2026-03-29T18:25:04.198Z"
+generated_at: "2026-03-29T19:29:50.456Z"
 ---
 
 # § 453. Definitions

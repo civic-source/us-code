@@ -5,7 +5,7 @@ usc_section: "9601"
 chapter: 76
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 9601"
-generated_at: "2026-03-29T18:24:41.187Z"
+generated_at: "2026-03-29T19:28:43.250Z"
 ---
 
 # § 9601. Definitions

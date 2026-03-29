@@ -5,7 +5,7 @@ usc_section: "1704"
 chapter: 5
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1704"
-generated_at: "2026-03-29T18:24:16.133Z"
+generated_at: "2026-03-29T19:28:30.704Z"
 ---
 
 # § 1704. Refusal or revocation of registry, enrollment, license or number on evidence that vessel engaging in smuggling; appeal; immunity from liability

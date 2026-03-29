@@ -5,7 +5,7 @@ usc_section: "6488"
 chapter: 575
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6488"
-generated_at: "2026-03-29T18:23:52.057Z"
+generated_at: "2026-03-29T19:27:25.685Z"
 ---
 
 # [§§ 6487, 6488. Repealed. Pub. L. 96–513, title III , § 362(b), (c), Dec. 12, 1980 , 94 Stat. 2903 ]

@@ -5,7 +5,7 @@ usc_section: "60n"
 chapter: 4
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 60n"
-generated_at: "2026-03-29T18:23:14.027Z"
+generated_at: "2026-03-29T19:27:07.490Z"
 ---
 
 # §§ 60m, 60n. Repealed. Pub. L. 104–1, title V , § 504(b), Jan. 23, 1995 , 109 Stat. 41

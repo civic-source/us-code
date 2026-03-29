@@ -5,7 +5,7 @@ usc_section: "1965"
 chapter: 96
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1965"
-generated_at: "2026-03-29T18:24:43.831Z"
+generated_at: "2026-03-29T19:28:33.850Z"
 ---
 
 # § 1965. Venue and process

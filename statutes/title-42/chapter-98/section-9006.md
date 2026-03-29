@@ -5,7 +5,7 @@ usc_section: "9006"
 chapter: 98
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9006"
-generated_at: "2026-03-29T18:27:03.901Z"
+generated_at: "2026-03-29T19:31:45.487Z"
 ---
 
 # § 9006. Program selection criteria

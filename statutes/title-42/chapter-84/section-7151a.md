@@ -5,7 +5,7 @@ usc_section: "7151a"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7151a"
-generated_at: "2026-03-29T18:27:03.760Z"
+generated_at: "2026-03-29T19:31:45.347Z"
 ---
 
 # § 7151a. Jurisdiction over matters transferred from Energy Research and Development Administration

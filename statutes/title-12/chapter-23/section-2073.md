@@ -5,7 +5,7 @@ usc_section: "2073"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2073"
-generated_at: "2026-03-29T18:24:02.954Z"
+generated_at: "2026-03-29T19:28:17.723Z"
 ---
 
 # § 2073. General corporate powers

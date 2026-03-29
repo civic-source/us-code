@@ -5,7 +5,7 @@ usc_section: "2121"
 chapter: 30
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 2121"
-generated_at: "2026-03-29T18:23:14.141Z"
+generated_at: "2026-03-29T19:27:07.579Z"
 ---
 
 # § 2121. House of Representatives Fine Arts Board

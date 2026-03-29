@@ -5,7 +5,7 @@ usc_section: "287j"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 287j"
-generated_at: "2026-03-29T18:24:54.128Z"
+generated_at: "2026-03-29T19:29:46.677Z"
 ---
 
 # § 287j. Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress

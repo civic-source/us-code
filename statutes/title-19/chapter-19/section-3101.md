@@ -5,7 +5,7 @@ usc_section: "3101"
 chapter: 19
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3101"
-generated_at: "2026-03-29T18:24:16.193Z"
+generated_at: "2026-03-29T19:28:30.760Z"
 ---
 
 # § 3101. Findings and purposes

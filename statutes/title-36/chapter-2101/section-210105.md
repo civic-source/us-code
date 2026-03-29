@@ -5,7 +5,7 @@ usc_section: "210105"
 chapter: 2101
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 210105"
-generated_at: "2026-03-29T18:26:09.306Z"
+generated_at: "2026-03-29T19:30:42.092Z"
 ---
 
 # § 210105. Powers

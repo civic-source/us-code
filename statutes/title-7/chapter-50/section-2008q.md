@@ -5,7 +5,7 @@ usc_section: "2008q"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008q"
-generated_at: "2026-03-29T18:23:43.339Z"
+generated_at: "2026-03-29T19:27:31.808Z"
 ---
 
 # § 2008q. Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops

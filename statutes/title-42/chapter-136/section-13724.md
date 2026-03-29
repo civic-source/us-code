@@ -5,7 +5,7 @@ usc_section: "13724"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13724"
-generated_at: "2026-03-29T18:27:04.132Z"
+generated_at: "2026-03-29T19:31:45.738Z"
 ---
 
 # § 13724. Conversion of closed military installations into Federal prison facilities

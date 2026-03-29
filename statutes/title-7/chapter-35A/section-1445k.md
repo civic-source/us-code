@@ -5,7 +5,7 @@ usc_section: "1445k"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1445k"
-generated_at: "2026-03-29T18:23:43.265Z"
+generated_at: "2026-03-29T19:27:31.738Z"
 ---
 
 # § 1445k. Payments in commodities

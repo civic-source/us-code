@@ -5,7 +5,7 @@ usc_section: "1141a"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1141a"
-generated_at: "2026-03-29T18:24:08.433Z"
+generated_at: "2026-03-29T19:27:55.408Z"
 ---
 
 # § 1141a. International applications based on United States applications or registrations

@@ -5,7 +5,7 @@ usc_section: "1517"
 chapter: 32
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1517"
-generated_at: "2026-03-29T18:27:35.598Z"
+generated_at: "2026-03-29T19:32:24.103Z"
 ---
 
 # § 1517. Immediate disposal when health or safety are endangered

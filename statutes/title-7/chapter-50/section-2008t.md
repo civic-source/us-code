@@ -5,7 +5,7 @@ usc_section: "2008t"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008t"
-generated_at: "2026-03-29T18:23:43.339Z"
+generated_at: "2026-03-29T19:27:31.809Z"
 ---
 
 # § 2008t. Grants for expansion of employment opportunities for individuals with disabilities in rural areas

@@ -5,7 +5,7 @@ usc_section: "5609"
 chapter: 76
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 5609"
-generated_at: "2026-03-29T18:24:22.923Z"
+generated_at: "2026-03-29T19:29:27.607Z"
 ---
 
 # § 5609. Definitions

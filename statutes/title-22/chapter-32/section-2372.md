@@ -5,7 +5,7 @@ usc_section: "2372"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2372"
-generated_at: "2026-03-29T18:24:54.215Z"
+generated_at: "2026-03-29T19:29:46.773Z"
 ---
 
 # § 2372. Repealed. Pub. L. 97–113, title VII , § 725(a), Dec. 29, 1981 , 95 Stat. 1553

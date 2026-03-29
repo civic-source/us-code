@@ -5,7 +5,7 @@ usc_section: "3645"
 chapter: 56
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3645"
-generated_at: "2026-03-29T18:24:22.881Z"
+generated_at: "2026-03-29T19:29:27.557Z"
 ---
 
 # § 3645. Northern and Southern Funds; treaty implementation; additional authorization of appropriations

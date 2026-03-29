@@ -5,7 +5,7 @@ usc_section: "204"
 chapter: 3
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 204"
-generated_at: "2026-03-29T18:26:10.124Z"
+generated_at: "2026-03-29T19:30:34.087Z"
 ---
 
 # § 204. Entitlement

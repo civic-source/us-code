@@ -5,7 +5,7 @@ usc_section: "5874"
 chapter: 67
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 5874"
-generated_at: "2026-03-29T18:24:54.340Z"
+generated_at: "2026-03-29T19:29:46.901Z"
 ---
 
 # § 5874. Definitions

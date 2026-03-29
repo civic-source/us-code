@@ -5,7 +5,7 @@ usc_section: "7475"
 chapter: 643
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7475"
-generated_at: "2026-03-29T18:23:52.072Z"
+generated_at: "2026-03-29T19:27:25.696Z"
 ---
 
 # [§ 7475. Repealed. Pub. L. 86–148 , § 1(1), Aug. 7, 1959 , 73 Stat. 302 ]

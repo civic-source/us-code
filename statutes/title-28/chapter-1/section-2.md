@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 1
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 2"
-generated_at: "2026-03-29T18:25:32.835Z"
+generated_at: "2026-03-29T19:30:04.327Z"
 ---
 
 # § 2. Terms of court

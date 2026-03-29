@@ -5,7 +5,7 @@ usc_section: "5714"
 chapter: 83
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5714"
-generated_at: "2026-03-29T18:24:08.620Z"
+generated_at: "2026-03-29T19:27:55.575Z"
 ---
 
 # § 5714. Definitions

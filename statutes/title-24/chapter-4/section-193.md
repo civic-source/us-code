@@ -5,7 +5,7 @@ usc_section: "193"
 chapter: 4
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 193"
-generated_at: "2026-03-29T18:25:00.380Z"
+generated_at: "2026-03-29T19:29:35.065Z"
 ---
 
 # § 193. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

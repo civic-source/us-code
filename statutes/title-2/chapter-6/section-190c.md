@@ -5,7 +5,7 @@ usc_section: "190c"
 chapter: 6
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 190c"
-generated_at: "2026-03-29T18:23:14.058Z"
+generated_at: "2026-03-29T19:27:07.507Z"
 ---
 
 # §§ 190b, 190c. Repealed. S. Res. 274, § 2(a), Nov. 14, 1979

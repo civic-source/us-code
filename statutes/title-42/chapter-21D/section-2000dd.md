@@ -5,7 +5,7 @@ usc_section: "2000dd"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2000dd"
-generated_at: "2026-03-29T18:27:03.416Z"
+generated_at: "2026-03-29T19:31:45.001Z"
 ---
 
 # § 2000dd. Prohibition on cruel, inhuman, or degrading treatment or punishment of persons under custody or control of the United States Government

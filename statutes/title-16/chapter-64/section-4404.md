@@ -5,7 +5,7 @@ usc_section: "4404"
 chapter: 64
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 4404"
-generated_at: "2026-03-29T18:24:22.909Z"
+generated_at: "2026-03-29T19:29:27.590Z"
 ---
 
 # § 4404. Approval of wetlands conservation projects

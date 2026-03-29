@@ -5,7 +5,7 @@ usc_section: "707a"
 chapter: 40
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 707a"
-generated_at: "2026-03-29T18:23:51.757Z"
+generated_at: "2026-03-29T19:27:25.461Z"
 ---
 
 # § 707a. Payment upon disapproval of certain board of inquiry recommendations for excess leave required to be taken

@@ -5,7 +5,7 @@ usc_section: "515"
 chapter: 13
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 515"
-generated_at: "2026-03-29T18:23:55.772Z"
+generated_at: "2026-03-29T19:27:45.908Z"
 ---
 
 # [§ 515. Renumbered § 552]

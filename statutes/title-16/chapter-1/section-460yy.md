@@ -5,7 +5,7 @@ usc_section: "460yy"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460yy"
-generated_at: "2026-03-29T18:24:22.587Z"
+generated_at: "2026-03-29T19:29:27.223Z"
 ---
 
 # § 460yy. Establishment

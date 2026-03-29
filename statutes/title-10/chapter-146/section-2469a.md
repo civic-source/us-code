@@ -5,7 +5,7 @@ usc_section: "2469a"
 chapter: 146
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2469a"
-generated_at: "2026-03-29T18:23:51.962Z"
+generated_at: "2026-03-29T19:27:25.612Z"
 ---
 
 # [§ 2469a. Repealed. Pub. L. 107–314, div. A, title III , § 333(a), Dec. 2, 2002 , 116 Stat. 2514 ]

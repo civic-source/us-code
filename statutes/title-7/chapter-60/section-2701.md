@@ -5,7 +5,7 @@ usc_section: "2701"
 chapter: 60
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2701"
-generated_at: "2026-03-29T18:23:43.403Z"
+generated_at: "2026-03-29T19:27:31.870Z"
 ---
 
 # § 2701. Congressional findings and declaration of policy

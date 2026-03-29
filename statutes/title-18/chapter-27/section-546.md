@@ -5,7 +5,7 @@ usc_section: "546"
 chapter: 27
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 546"
-generated_at: "2026-03-29T18:24:43.779Z"
+generated_at: "2026-03-29T19:28:33.794Z"
 ---
 
 # § 546. Smuggling goods into foreign countries

@@ -5,7 +5,7 @@ usc_section: "672"
 chapter: 14
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 672"
-generated_at: "2026-03-29T18:24:08.388Z"
+generated_at: "2026-03-29T19:27:55.364Z"
 ---
 
 # § 672. Repealed. Pub. L. 87–341 , § 11(h)(1), Oct. 3, 1961 , 75 Stat. 757

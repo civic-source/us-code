@@ -5,7 +5,7 @@ usc_section: "5325"
 chapter: 46
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 5325"
-generated_at: "2026-03-29T18:25:23.836Z"
+generated_at: "2026-03-29T19:29:34.895Z"
 ---
 
 # § 5325. Contract funding and indirect costs

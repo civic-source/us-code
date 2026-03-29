@@ -5,7 +5,7 @@ usc_section: "16181"
 chapter: 149
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 16181"
-generated_at: "2026-03-29T18:27:04.215Z"
+generated_at: "2026-03-29T19:31:45.833Z"
 ---
 
 # § 16181. Goals

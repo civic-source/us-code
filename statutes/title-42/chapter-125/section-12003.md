@@ -5,7 +5,7 @@ usc_section: "12003"
 chapter: 125
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-29T18:27:04.038Z"
+generated_at: "2026-03-29T19:31:45.631Z"
 ---
 
 # § 12003. National goals and multi-year funding for Federal wind, photovoltaics, and solar thermal programs

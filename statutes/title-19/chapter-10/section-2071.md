@@ -5,7 +5,7 @@ usc_section: "2071"
 chapter: 10
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2071"
-generated_at: "2026-03-29T18:24:16.137Z"
+generated_at: "2026-03-29T19:28:30.707Z"
 ---
 
 # § 2071. Establishment of Service; Commissioner; appointment

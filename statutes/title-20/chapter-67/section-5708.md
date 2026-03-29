@@ -5,7 +5,7 @@ usc_section: "5708"
 chapter: 67
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 5708"
-generated_at: "2026-03-29T18:24:41.104Z"
+generated_at: "2026-03-29T19:28:43.154Z"
 ---
 
 # § 5708. Administrative provisions

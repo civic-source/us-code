@@ -5,7 +5,7 @@ usc_section: "4688"
 chapter: 443
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4688"
-generated_at: "2026-03-29T18:23:52.036Z"
+generated_at: "2026-03-29T19:27:25.670Z"
 ---
 
 # § 4688. Armor-piercing ammunition and components: condition on disposal

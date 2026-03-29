@@ -5,7 +5,7 @@ usc_section: "30104"
 chapter: 301
 current_through: "PL 114-254"
 classification: "52 U.S.C. § 30104"
-generated_at: "2026-03-29T18:27:39.907Z"
+generated_at: "2026-03-29T19:32:34.076Z"
 ---
 
 # § 30104. Reporting requirements

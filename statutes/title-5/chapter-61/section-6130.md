@@ -5,7 +5,7 @@ usc_section: "6130"
 chapter: 61
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 6130"
-generated_at: "2026-03-29T18:23:29.917Z"
+generated_at: "2026-03-29T19:27:05.315Z"
 ---
 
 # § 6130. Application of programs in the case of collective bargaining agreements

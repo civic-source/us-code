@@ -5,7 +5,7 @@ usc_section: "5542"
 chapter: 55
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 5542"
-generated_at: "2026-03-29T18:23:14.163Z"
+generated_at: "2026-03-29T19:27:07.600Z"
 ---
 
 # § 5542. Regulations for safe handling of mail matter

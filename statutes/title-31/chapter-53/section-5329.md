@@ -5,7 +5,7 @@ usc_section: "5329"
 chapter: 53
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 5329"
-generated_at: "2026-03-29T18:25:59.203Z"
+generated_at: "2026-03-29T19:30:24.799Z"
 ---
 
 # § 5329. Staff commentaries

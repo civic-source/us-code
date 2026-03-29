@@ -5,7 +5,7 @@ usc_section: "7504"
 chapter: 101
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7504"
-generated_at: "2026-03-29T18:24:08.658Z"
+generated_at: "2026-03-29T19:27:55.610Z"
 ---
 
 # § 7504. Triennial external review of the National Nanotechnology Program

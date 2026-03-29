@@ -5,7 +5,7 @@ usc_section: "190m"
 chapter: 6
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 190m"
-generated_at: "2026-03-29T18:23:14.059Z"
+generated_at: "2026-03-29T19:27:07.508Z"
 ---
 
 # § 190m. Subpoena for taking testimony; compensation of officers and witnesses; return of depositions

@@ -5,7 +5,7 @@ usc_section: "621"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 621"
-generated_at: "2026-03-29T18:23:35.769Z"
+generated_at: "2026-03-29T19:27:39.868Z"
 ---
 
 # § 621. Definitions

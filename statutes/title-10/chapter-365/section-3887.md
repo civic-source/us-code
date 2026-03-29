@@ -5,7 +5,7 @@ usc_section: "3887"
 chapter: 365
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3887"
-generated_at: "2026-03-29T18:23:52.025Z"
+generated_at: "2026-03-29T19:27:25.660Z"
 ---
 
 # [§ 3887. Repealed. Pub. L. 85–155, title IV , § 401(1), Aug. 21, 1957 , 71 Stat. 390 ]

@@ -5,7 +5,7 @@ usc_section: "2255"
 chapter: 55
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2255"
-generated_at: "2026-03-29T18:23:43.389Z"
+generated_at: "2026-03-29T19:27:31.858Z"
 ---
 
 # § 2255. Membership in International Wheat Advisory Committee, International Sugar Council, etc.

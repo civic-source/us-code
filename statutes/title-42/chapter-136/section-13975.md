@@ -5,7 +5,7 @@ usc_section: "13975"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13975"
-generated_at: "2026-03-29T18:27:04.141Z"
+generated_at: "2026-03-29T19:31:45.748Z"
 ---
 
 # § 13975. Transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking

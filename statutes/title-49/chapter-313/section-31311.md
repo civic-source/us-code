@@ -5,7 +5,7 @@ usc_section: "31311"
 chapter: 313
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 31311"
-generated_at: "2026-03-29T18:27:16.553Z"
+generated_at: "2026-03-29T19:32:28.839Z"
 ---
 
 # § 31311. Requirements for State participation

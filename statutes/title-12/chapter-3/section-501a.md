@@ -5,7 +5,7 @@ usc_section: "501a"
 chapter: 3
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 501a"
-generated_at: "2026-03-29T18:24:02.756Z"
+generated_at: "2026-03-29T19:28:17.512Z"
 ---
 
 # § 501a. Forfeiture of franchise of national banks for failure to comply with provisions of this chapter

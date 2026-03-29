@@ -5,7 +5,7 @@ usc_section: "4366"
 chapter: 55
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4366"
-generated_at: "2026-03-29T18:27:03.574Z"
+generated_at: "2026-03-29T19:31:45.157Z"
 ---
 
 # § 4366. Identification and coordination of research, development, and demonstration activities

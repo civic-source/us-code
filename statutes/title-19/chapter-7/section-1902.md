@@ -5,7 +5,7 @@ usc_section: "1902"
 chapter: 7
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1902"
-generated_at: "2026-03-29T18:24:16.135Z"
+generated_at: "2026-03-29T19:28:30.706Z"
 ---
 
 # §§ 1901, 1902. Repealed. Pub. L. 93–618, title VI , § 602(d), (e), Jan. 3, 1975 , 88 Stat. 2072

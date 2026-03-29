@@ -5,7 +5,7 @@ usc_section: "20112"
 chapter: 201
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 20112"
-generated_at: "2026-03-29T18:27:16.505Z"
+generated_at: "2026-03-29T19:32:28.789Z"
 ---
 
 # § 20112. Enforcement by the Attorney General

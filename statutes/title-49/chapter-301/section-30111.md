@@ -5,7 +5,7 @@ usc_section: "30111"
 chapter: 301
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 30111"
-generated_at: "2026-03-29T18:27:16.529Z"
+generated_at: "2026-03-29T19:32:28.817Z"
 ---
 
 # § 30111. Standards

@@ -5,7 +5,7 @@ usc_section: "1804"
 chapter: 23
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1804"
-generated_at: "2026-03-29T18:25:04.247Z"
+generated_at: "2026-03-29T19:29:50.508Z"
 ---
 
 # §§ 1801 to 1804. Repealed. Pub. L. 109–469, title V , § 501(b), Dec. 29, 2006 , 120 Stat. 3533

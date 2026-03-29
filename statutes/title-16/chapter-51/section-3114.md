@@ -5,7 +5,7 @@ usc_section: "3114"
 chapter: 51
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3114"
-generated_at: "2026-03-29T18:24:22.863Z"
+generated_at: "2026-03-29T19:29:27.537Z"
 ---
 
 # § 3114. Preference for subsistence uses

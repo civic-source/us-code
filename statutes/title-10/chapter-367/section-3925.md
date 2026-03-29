@@ -5,7 +5,7 @@ usc_section: "3925"
 chapter: 367
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3925"
-generated_at: "2026-03-29T18:23:52.025Z"
+generated_at: "2026-03-29T19:27:25.660Z"
 ---
 
 # § 3925. Computation of years of service: voluntary retirement; enlisted members

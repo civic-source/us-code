@@ -5,7 +5,7 @@ usc_section: "11802"
 chapter: 123
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11802"
-generated_at: "2026-03-29T18:27:04.035Z"
+generated_at: "2026-03-29T19:31:45.628Z"
 ---
 
 # § 11802. Application for grants and contracts

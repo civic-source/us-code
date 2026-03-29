@@ -5,7 +5,7 @@ usc_section: "2425"
 chapter: 42
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2425"
-generated_at: "2026-03-29T18:26:14.914Z"
+generated_at: "2026-03-29T19:31:49.170Z"
 ---
 
 # § 2425. Operations, maintenance, and replacement costs

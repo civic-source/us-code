@@ -5,7 +5,7 @@ usc_section: "1400P"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1400P"
-generated_at: "2026-03-29T18:25:53.757Z"
+generated_at: "2026-03-29T19:30:20.014Z"
 ---
 
 # § 1400P. Housing tax benefits

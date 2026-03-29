@@ -5,7 +5,7 @@ usc_section: "3502"
 chapter: 50
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3502"
-generated_at: "2026-03-29T18:24:54.281Z"
+generated_at: "2026-03-29T19:29:46.833Z"
 ---
 
 # § 3502. Purposes and establishment; policy guidelines and objectives

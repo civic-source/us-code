@@ -5,7 +5,7 @@ usc_section: "8242"
 chapter: 89
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8242"
-generated_at: "2026-03-29T18:24:54.400Z"
+generated_at: "2026-03-29T19:29:46.975Z"
 ---
 
 # § 8242. Sense of Congress regarding ADVANCE Democracy Award

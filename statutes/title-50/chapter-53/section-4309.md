@@ -5,7 +5,7 @@ usc_section: "4309"
 chapter: 53
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 4309"
-generated_at: "2026-03-29T18:27:35.733Z"
+generated_at: "2026-03-29T19:32:24.286Z"
 ---
 
 # § 4309. Claims to property transferred to custodian; notice of claim; filing; return of property; suits to recover; sale of claimed property in time of war or during national emergency

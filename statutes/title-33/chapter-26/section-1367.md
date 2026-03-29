@@ -5,7 +5,7 @@ usc_section: "1367"
 chapter: 26
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1367"
-generated_at: "2026-03-29T18:26:01.261Z"
+generated_at: "2026-03-29T19:30:28.806Z"
 ---
 
 # § 1367. Employee protection

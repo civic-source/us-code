@@ -5,7 +5,7 @@ usc_section: "2505"
 chapter: 148
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2505"
-generated_at: "2026-03-29T18:23:51.968Z"
+generated_at: "2026-03-29T19:27:25.616Z"
 ---
 
 # § 2505. National technology and industrial base: periodic defense capability assessments

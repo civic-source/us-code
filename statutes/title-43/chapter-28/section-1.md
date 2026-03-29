@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T18:26:14.847Z"
+generated_at: "2026-03-29T19:31:49.093Z"
 ---
 
 # § 1181f–1. Coos Bay Wagon Road grant fund; annual payments; appraisal and assessment of land and timber; computation of payments

@@ -5,7 +5,7 @@ usc_section: "757a"
 chapter: 9
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 757a"
-generated_at: "2026-03-29T18:24:22.703Z"
+generated_at: "2026-03-29T19:29:27.352Z"
 ---
 
 # § 757a. Anadromous, Great Lakes, and Lake Champlain fisheries

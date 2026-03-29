@@ -5,7 +5,7 @@ usc_section: "1451"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1451"
-generated_at: "2026-03-29T18:24:54.148Z"
+generated_at: "2026-03-29T19:29:46.702Z"
 ---
 
 # § 1451. Assignment of Government employees to requesting countries; governing regulations

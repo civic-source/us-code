@@ -5,7 +5,7 @@ usc_section: "31a"
 chapter: 3
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 31a"
-generated_at: "2026-03-29T18:23:14.021Z"
+generated_at: "2026-03-29T19:27:07.487Z"
 ---
 
 # § 31a. Repealed. Mar. 2, 1955, ch. 9 , § 4(b), 69 Stat. 11 , eff. Mar. 1, 1955

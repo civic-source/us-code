@@ -5,7 +5,7 @@ usc_section: "46a"
 chapter: 2
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 46a"
-generated_at: "2026-03-29T18:27:11.635Z"
+generated_at: "2026-03-29T19:31:53.941Z"
 ---
 
 # § 46a. Repealed. July 1, 1944, ch. 373 , title VII, § 711, formerly title VI, § 611, 58 Stat. 714 ; renumbered Aug. 13, 1946, ch. 958 , § 5, 60 Stat. 1049

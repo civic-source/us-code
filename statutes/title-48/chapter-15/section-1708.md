@@ -5,7 +5,7 @@ usc_section: "1708"
 chapter: 15
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1708"
-generated_at: "2026-03-29T18:27:11.671Z"
+generated_at: "2026-03-29T19:31:53.967Z"
 ---
 
 # § 1708. Discrimination prohibited in rights of access to, and benefits from, conveyed lands

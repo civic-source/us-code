@@ -5,7 +5,7 @@ usc_section: "831h"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 831h"
-generated_at: "2026-03-29T18:24:22.728Z"
+generated_at: "2026-03-29T19:29:27.383Z"
 ---
 
 # § 831h. Annual financial statement; purchases and contracts; audit by Comptroller General

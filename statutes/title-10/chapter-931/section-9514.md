@@ -5,7 +5,7 @@ usc_section: "9514"
 chapter: 931
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 9514"
-generated_at: "2026-03-29T18:23:52.097Z"
+generated_at: "2026-03-29T19:27:25.715Z"
 ---
 
 # § 9514. Indemnification of Department of Transportation for losses covered by defense-related aviation insurance

@@ -5,7 +5,7 @@ usc_section: "7453"
 chapter: 76
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7453"
-generated_at: "2026-03-29T18:25:53.972Z"
+generated_at: "2026-03-29T19:30:20.251Z"
 ---
 
 # § 7453. Rules of practice, procedure, and evidence

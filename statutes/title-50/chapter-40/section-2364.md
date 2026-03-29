@@ -5,7 +5,7 @@ usc_section: "2364"
 chapter: 40
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2364"
-generated_at: "2026-03-29T18:27:35.636Z"
+generated_at: "2026-03-29T19:32:24.141Z"
 ---
 
 # § 2364. Purchase of low-enriched uranium derived from Russian highly enriched uranium

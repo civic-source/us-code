@@ -5,7 +5,7 @@ usc_section: "30166"
 chapter: 301
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 30166"
-generated_at: "2026-03-29T18:27:16.537Z"
+generated_at: "2026-03-29T19:32:28.824Z"
 ---
 
 # § 30166. Inspections, investigations, and records

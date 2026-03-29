@@ -5,7 +5,7 @@ usc_section: "2262"
 chapter: 110
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2262"
-generated_at: "2026-03-29T18:24:43.840Z"
+generated_at: "2026-03-29T19:28:33.859Z"
 ---
 
 # § 2262. Interstate violation of protection order

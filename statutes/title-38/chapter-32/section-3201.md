@@ -5,7 +5,7 @@ usc_section: "3201"
 chapter: 32
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3201"
-generated_at: "2026-03-29T18:26:07.599Z"
+generated_at: "2026-03-29T19:30:40.513Z"
 ---
 
 # § 3201. Purpose

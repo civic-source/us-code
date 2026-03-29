@@ -3,22 +3,17 @@ title: "Section 4954 - Cooperative agreements"
 usc_title: 10
 usc_section: "4954"
 chapter: 388
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4954"
-generated_at: "2026-03-29T02:10:45.241Z"
+generated_at: "2026-03-29T18:47:53.536Z"
 ---
 
 # § 4954. Cooperative agreements
 
 - **(a)** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
-- **(b)**
-  - **(1)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
-    - **(A)** in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
-    - **(B)** in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to section 4959(b) of this title , the Secretary may agree to furnish the full cost of such assistance.
-  - **(2)** The Secretary shall have the ability to waive or modify the percentages specified in paragraph (1), on a case-by-case basis, if the Secretary determines that it would be in the best interest of the program.
-- **(c)** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
-- **(d)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
-- **(e)** Eligible entities that provide procurement technical assistance pursuant to this chapter may form an association to pursue matters of common concern. If more than a majority of such eligible entities are members of such an association, the Secretary shall—
-  - **(1)** recognize the existence and activities of such an association; and
-  - **(2)** jointly develop with such association a model cooperative agreement that may be used at the option of the Secretary and an eligible entity.
-- **(f)** If the Secretary of Defense determines it to be in the best interests of the Federal Government, the Secretary may waive the restrictions on the percentage of eligible costs covered by the program under section (b). The Secretary shall submit to the congressional defense committees a written justification for such determination.
+- **(b)** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+  - **(1)** in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
+  - **(2)** in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to section 4959(b) of this title , the Secretary may agree to furnish the full cost of such assistance.
+- **(c)** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
+- **(d)** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+- **(e)** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.

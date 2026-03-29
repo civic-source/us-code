@@ -5,7 +5,7 @@ usc_section: "351"
 chapter: 18
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 351"
-generated_at: "2026-03-29T18:24:43.774Z"
+generated_at: "2026-03-29T19:28:33.789Z"
 ---
 
 # § 351. Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties

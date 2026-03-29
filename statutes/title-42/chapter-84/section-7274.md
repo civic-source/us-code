@@ -5,7 +5,7 @@ usc_section: "7274"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7274"
-generated_at: "2026-03-29T18:27:03.766Z"
+generated_at: "2026-03-29T19:31:45.352Z"
 ---
 
 # § 7274. Environmental impact statements relating to defense facilities of Department of Energy

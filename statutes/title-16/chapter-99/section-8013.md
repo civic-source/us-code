@@ -3,9 +3,9 @@ title: "Section 8013 - Assistance by Federal agencies to improve law enforcement
 usc_title: 16
 usc_section: "8013"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 8013"
-generated_at: "2026-03-29T02:11:54.006Z"
+generated_at: "2026-03-29T18:49:44.410Z"
 ---
 
 # § 8013. Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states
@@ -18,10 +18,10 @@ generated_at: "2026-03-29T02:11:54.006Z"
   - **(4)** by supporting increased effectiveness and transparency of the fisheries enforcement sectors of the governments of such countries; and
   - **(5)** by supporting increased outreach to stakeholders in the affected communities as key partners in combating and prosecuting IUU fishing.
 - **(c)** The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to countries in priority regions and priority flag states to help those states implement programs related to port security and capacity for the purposes of preventing IUU fishing products from entering the global seafood market, including by supporting other countries in working toward the adoption and implementation of the Port State Measures Agreement.
-- **(d)** The officials referred to in subsection (a), in collaboration with the governments of countries in priority regions and of priority flag states, shall evaluate opportunities to assist those countries in designing and implementing programs in such countries, to increase the capacity of IUU fishing enforcement and customs and border security officers to improve their ability—
+- **(d)** The officials referred to in subsection (a), in collaboration with the governments of countries in priority regions and of priority flag states, shall evaluate opportunities to assist those countries in designing and implementing programs in such countries, as appropriate, to increase the capacity of IUU fishing enforcement and customs and border security officers to improve their ability—
   - **(1)** to conduct effective investigations, including using law enforcement techniques such as undercover investigations and the development of informer networks and actionable intelligence;
   - **(2)** to conduct vessel boardings and inspections at sea and associated enforcement actions;
-  - **(3)** to exercise existing shiprider agreements and to enter into and implement new shiprider agreements, for all priority regions identified by the Working Group, including in those countries that have not adopted the Port State Measures Agreement;
+  - **(3)** to exercise existing shiprider agreements and to enter into and implement new shiprider agreements, as appropriate, including in those countries that have not adopted the Port State Measures Agreement;
   - **(4)** to conduct vessel inspections at port and associated enforcement actions;
   - **(5)** to assess technology needs and promote the use of technology to improve monitoring, enforcement, and prosecution of IUU fishing;
   - **(6)** to conduct DNA-based and forensic identification of seafood used in trade;

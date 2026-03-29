@@ -5,7 +5,7 @@ usc_section: "4833"
 chapter: 453
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4833"
-generated_at: "2026-03-29T18:23:52.038Z"
+generated_at: "2026-03-29T19:27:25.672Z"
 ---
 
 # [§ 4833. Repealed. Pub. L. 87–480 , § 1(2), June 8, 1962 , 76 Stat. 94 ]

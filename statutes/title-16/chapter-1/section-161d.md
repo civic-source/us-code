@@ -5,7 +5,7 @@ usc_section: "161d"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 161d"
-generated_at: "2026-03-29T18:24:22.426Z"
+generated_at: "2026-03-29T19:29:27.042Z"
 ---
 
 # § 161d. Elimination of fish hatchery; transfer of administration of hatchery to Fish and Wildlife Service

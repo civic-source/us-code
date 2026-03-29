@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 1
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 15"
-generated_at: "2026-03-29T18:24:02.721Z"
+generated_at: "2026-03-29T19:28:17.479Z"
 ---
 
 # § 15. Repealed. Aug. 7, 1946, ch. 770 , § 1(40, 50), 60 Stat. 869 , 870

@@ -5,7 +5,7 @@ usc_section: "2238"
 chapter: 55
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2238"
-generated_at: "2026-03-29T18:23:43.388Z"
+generated_at: "2026-03-29T19:27:31.857Z"
 ---
 
 # § 2238. Use of field work funds for purchase of arms and ammunition

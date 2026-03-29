@@ -5,7 +5,7 @@ usc_section: "6011"
 chapter: 79
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 6011"
-generated_at: "2026-03-29T18:24:22.927Z"
+generated_at: "2026-03-29T19:29:27.610Z"
 ---
 
 # § 6011. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272

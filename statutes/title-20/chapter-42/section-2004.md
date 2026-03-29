@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 42
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 2004"
-generated_at: "2026-03-29T18:24:41.067Z"
+generated_at: "2026-03-29T19:28:43.109Z"
 ---
 
 # § 2004. Harry S Truman Scholarship Foundation

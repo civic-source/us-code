@@ -5,7 +5,7 @@ usc_section: "1423"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1423"
-generated_at: "2026-03-29T18:23:33.976Z"
+generated_at: "2026-03-29T19:27:14.506Z"
 ---
 
 # § 1423. Requirements as to understanding the English language, history, principles and form of government of the United States

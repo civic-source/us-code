@@ -5,7 +5,7 @@ usc_section: "17503"
 chapter: 153
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 17503"
-generated_at: "2026-03-29T18:27:04.272Z"
+generated_at: "2026-03-29T19:31:45.904Z"
 ---
 
 # § 17503. Submission of reports to Congress

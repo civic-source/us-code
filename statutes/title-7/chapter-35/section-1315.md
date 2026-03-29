@@ -5,7 +5,7 @@ usc_section: "1315"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1315"
-generated_at: "2026-03-29T18:23:43.240Z"
+generated_at: "2026-03-29T19:27:31.716Z"
 ---
 
 # § 1315. Repealed. Pub. L. 108–357, title VI , § 611(o), Oct. 22, 2004 , 118 Stat. 1523

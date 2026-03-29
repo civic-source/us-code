@@ -5,7 +5,7 @@ usc_section: "9705"
 chapter: 99
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 9705"
-generated_at: "2026-03-29T18:25:54.010Z"
+generated_at: "2026-03-29T19:30:20.294Z"
 ---
 
 # § 9705. Transfers

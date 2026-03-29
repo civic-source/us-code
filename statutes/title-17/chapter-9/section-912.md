@@ -5,7 +5,7 @@ usc_section: "912"
 chapter: 9
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 912"
-generated_at: "2026-03-29T18:24:28.491Z"
+generated_at: "2026-03-29T19:28:20.881Z"
 ---
 
 # § 912. Relation to other laws

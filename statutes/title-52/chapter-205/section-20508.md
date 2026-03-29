@@ -5,7 +5,7 @@ usc_section: "20508"
 chapter: 205
 current_through: "PL 114-254"
 classification: "52 U.S.C. § 20508"
-generated_at: "2026-03-29T18:27:39.890Z"
+generated_at: "2026-03-29T19:32:34.064Z"
 ---
 
 # § 20508. Federal coordination and regulations

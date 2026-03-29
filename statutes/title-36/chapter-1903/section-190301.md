@@ -5,7 +5,7 @@ usc_section: "190301"
 chapter: 1903
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 190301"
-generated_at: "2026-03-29T18:26:09.305Z"
+generated_at: "2026-03-29T19:30:42.091Z"
 ---
 
 # § 190301. Definition

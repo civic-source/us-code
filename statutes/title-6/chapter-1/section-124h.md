@@ -5,7 +5,7 @@ usc_section: "124h"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 124h"
-generated_at: "2026-03-29T18:23:35.726Z"
+generated_at: "2026-03-29T19:27:39.826Z"
 ---
 
 # § 124h. Department of Homeland Security State, Local, and Regional Fusion Center Initiative

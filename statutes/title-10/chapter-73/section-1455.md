@@ -5,7 +5,7 @@ usc_section: "1455"
 chapter: 73
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1455"
-generated_at: "2026-03-29T18:23:51.834Z"
+generated_at: "2026-03-29T19:27:25.535Z"
 ---
 
 # § 1455. Regulations

@@ -5,7 +5,7 @@ usc_section: "145"
 chapter: 7
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 145"
-generated_at: "2026-03-29T18:23:43.179Z"
+generated_at: "2026-03-29T19:27:31.661Z"
 ---
 
 # § 145. Repealed. Pub. L. 94–231 , § 2, Mar. 15, 1976 , 90 Stat. 216

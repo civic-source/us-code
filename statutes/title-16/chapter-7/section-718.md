@@ -5,7 +5,7 @@ usc_section: "718"
 chapter: 7
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 718"
-generated_at: "2026-03-29T18:24:22.696Z"
+generated_at: "2026-03-29T19:29:27.345Z"
 ---
 
 # § 718. Repealed. Pub. L. 109–266 , § 10(h), Aug. 3, 2006 , 120 Stat. 677

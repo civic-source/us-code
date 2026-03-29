@@ -5,7 +5,7 @@ usc_section: "2418"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2418"
-generated_at: "2026-03-29T18:24:54.223Z"
+generated_at: "2026-03-29T19:29:46.781Z"
 ---
 
 # § 2418. Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 1978 , 92 Stat. 961

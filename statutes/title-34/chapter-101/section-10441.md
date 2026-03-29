@@ -3,9 +3,9 @@ title: "Section 10441 - Purpose of program and grants"
 usc_title: 34
 usc_section: "10441"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 10441"
-generated_at: "2026-03-29T02:14:25.271Z"
+generated_at: "2026-03-29T18:45:50.306Z"
 ---
 
 # § 10441. Purpose of program and grants
@@ -14,15 +14,15 @@ generated_at: "2026-03-29T02:14:25.271Z"
 - **(b)** Grants under this subchapter shall provide personnel, training, technical assistance, data collection and other resources for the more widespread apprehension, prosecution, and adjudication of persons committing violent crimes against women, for the protection and safety of victims, and specifically, for the purposes of—
   - **(1)** training law enforcement officers, judges, other court personnel, and prosecutors to more effectively identify and respond to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8 ;
   - **(2)** developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
-  - **(3)** developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims, including implementation of the grant conditions in section 12291(b) of this title ;
+  - **(3)** developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims;
   - **(4)** developing, installing, or expanding data collection and communication systems, including computerized systems, linking police, prosecutors, and courts or for the purpose of identifying, classifying, and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions for violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
-  - **(5)** developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services and legal assistance to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
+  - **(5)** developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
   - **(6)** developing, enlarging, or strengthening programs addressing the needs and circumstances of Indian tribes in dealing with violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
   - **(7)** supporting formal and informal statewide, multidisciplinary efforts, to the extent not supported by State funds, to coordinate the response of State law enforcement agencies, prosecutors, courts, victim services agencies, and other State agencies and departments, to violent crimes against women, including the crimes of sexual assault, domestic violence, dating violence, and stalking;
   - **(8)** training of sexual assault forensic medical personnel examiners in the collection and preservation of evidence, analysis, prevention, and providing expert testimony and treatment of trauma related to sexual assault;
-  - **(9)** developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of individuals 50 years of age or over, individuals with disabilities, and Deaf individuals who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, legal assistance, and other victim services to such individuals;
+  - **(9)** developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of older and disabled women who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, and other victim services to such older and disabled individuals;
   - **(10)** providing assistance to victims of domestic violence and sexual assault in immigration matters;
-  - **(11)** maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families, including rehabilitative work with offenders;
+  - **(11)** maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families;
   - **(12)** supporting the placement of special victim assistants (to be known as “Jessica Gonzales Victim Assistants”) in local law enforcement agencies to serve as liaisons between victims of domestic violence, dating violence, sexual assault, and stalking and personnel in local law enforcement agencies in order to improve the enforcement of protection orders. Jessica Gonzales Victim Assistants shall have expertise in domestic violence, dating violence, sexual assault, or stalking and may undertake the following activities—
     - **(A)** developing, in collaboration with prosecutors, courts, and victim service providers, standardized response policies for local law enforcement agencies, including the use of evidence-based indicators to assess the risk of domestic and dating violence homicide and prioritize dangerous or potentially lethal cases;
     - **(B)** notifying persons seeking enforcement of protection orders as to what responses will be provided by the relevant law enforcement agency;
@@ -37,14 +37,8 @@ generated_at: "2026-03-29T02:14:25.271Z"
   - **(16)** developing and strengthening policies, protocols, best practices, and training for law enforcement agencies and prosecutors relating to the investigation and prosecution of sexual assault cases and the appropriate treatment of victims;
   - **(17)** developing, enlarging, or strengthening programs addressing sexual assault against men, women, and youth in correctional and detention settings;
   - **(18)** identifying and conducting inventories of backlogs of sexual assault evidence collection kits and developing protocols and policies for responding to and addressing such backlogs, including protocols and policies for notifying and involving victims;
-  - **(19)** developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18 ;
-  - **(20)** developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, stalking, or female genital mutilation or cutting, with not more than 5 percent of the amount allocated to a State to be used for this purpose;
-  - **(21)** developing, enhancing, or strengthening programs and projects to improve evidence collection methods for victims of domestic violence, dating violence, sexual assault, or stalking, including through funding for technology that better detects bruising and injuries across skin tones and related training;
-  - **(22)** developing, enlarging, or strengthening culturally specific victim services programs to provide culturally specific victim services and responses to female genital mutilation or cutting;
-  - **(23)** providing victim advocates in State or local law enforcement agencies, prosecutors’ offices, and courts to provide supportive services and advocacy to Indian victims of domestic violence, dating violence, sexual assault, and stalking; and
-  - **(24)** paying any fees charged by any governmental authority for furnishing a victim or the child of a victim with any of the following documents:
-    - **(A)** A birth certificate or passport of the individual, as required by law.
-    - **(B)** An identification card issued to the individual by a State or Tribe, that shows that the individual is a resident of the State or a member of the Tribe.
+  - **(19)** developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18 ; and
+  - **(20)** developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
 - **(c)**
   - **(1)** The Attorney General shall award grants to each State domestic violence coalition and sexual assault coalition for the purposes of coordinating State victim services activities, and collaborating and coordinating with Federal, State, and local entities engaged in violence against women activities.
   - **(2)** The Attorney General shall award grants to—
@@ -53,19 +47,18 @@ generated_at: "2026-03-29T02:14:25.271Z"
   - **(3)** Receipt of an award under this subsection by each State domestic violence and sexual assault coalition shall not preclude the coalition from receiving additional grants under this part to carry out the purposes described in subsection (b).
 - **(d)**
   - **(1)** The Attorney General shall award a grant to tribal coalitions for purposes of—
-    - **(A)** increasing awareness of domestic violence and sexual assault against Indian or Native Hawaiian women;
-    - **(B)** enhancing the response to violence against Indian or Native Hawaiian women at the Federal, State, and tribal levels;
-    - **(C)** identifying and providing technical assistance to coalition membership and tribal communities or Native Hawaiian communities to enhance access to essential services to Indian or Native Hawaiian women victimized by domestic and sexual violence, including sex trafficking; and
-    - **(D)** assisting Indian tribes or Native Hawaiian communities in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian or Native Hawaiian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+    - **(A)** increasing awareness of domestic violence and sexual assault against Indian women;
+    - **(B)** enhancing the response to violence against Indian women at the Federal, State, and tribal levels;
+    - **(C)** identifying and providing technical assistance to coalition membership and tribal communities to enhance access to essential services to Indian women victimized by domestic and sexual violence, including sex trafficking; and
+    - **(D)** assisting Indian tribes in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
   - **(2)** The Attorney General shall award grants on an annual basis under paragraph (1) to—
     - **(A)** each tribal coalition that—
       - **(i)** meets the criteria of a tribal coalition under section 12291(a) of this title ;
       - **(ii)** is recognized by the Office on Violence Against Women; and
-      - **(iii)** provides services to Indian tribes or Native Hawaiian communities; and
-    - **(B)** organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes or Native Hawaiian communities are located but no tribal coalition exists.
-  - **(3)** For each of fiscal years 2023 through 2027, of the amounts appropriated to carry out this subsection—
+      - **(iii)** provides services to Indian tribes; and
+    - **(B)** organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes are located but no tribal coalition exists.
+  - **(3)** For each of fiscal years 2014 through 2018, of the amounts appropriated to carry out this subsection—
     - **(A)** not more than 10 percent shall be made available to organizations described in paragraph (2)(B), provided that 1 or more organizations determined by the Attorney General to be qualified apply;
     - **(B)** not less than 90 percent shall be made available to tribal coalitions described in paragraph (2)(A), which amounts shall be distributed equally among each eligible tribal coalition for the applicable fiscal year.
   - **(4)** Receipt of an award under this subsection by a tribal coalition shall not preclude the tribal coalition from receiving additional grants under this chapter to carry out the purposes described in paragraph (1).
   - **(5)** Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
-  - **(6)** In this subsection, the term “Native Hawaiian” has the meaning given that term in section 4221 of title 25 .

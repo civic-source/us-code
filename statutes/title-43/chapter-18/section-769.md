@@ -5,7 +5,7 @@ usc_section: "769"
 chapter: 18
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 769"
-generated_at: "2026-03-29T18:26:14.831Z"
+generated_at: "2026-03-29T19:31:49.076Z"
 ---
 
 # §§ 768, 769. Repealed. Apr. 29, 1950, ch. 134 , § 4, 64 Stat. 93

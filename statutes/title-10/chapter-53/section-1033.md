@@ -5,7 +5,7 @@ usc_section: "1033"
 chapter: 53
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1033"
-generated_at: "2026-03-29T18:23:51.780Z"
+generated_at: "2026-03-29T19:27:25.491Z"
 ---
 
 # § 1033. Participation in management of specified non-Federal entities: authorized activities

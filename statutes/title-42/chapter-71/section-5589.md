@@ -5,7 +5,7 @@ usc_section: "5589"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5589"
-generated_at: "2026-03-29T18:27:03.649Z"
+generated_at: "2026-03-29T19:31:45.236Z"
 ---
 
 # § 5589. Promotion and facilitation of practical use of photovoltaic energy

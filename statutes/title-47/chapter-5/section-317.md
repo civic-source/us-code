@@ -5,7 +5,7 @@ usc_section: "317"
 chapter: 5
 current_through: "PL 114-254"
 classification: "47 U.S.C. § 317"
-generated_at: "2026-03-29T18:27:09.557Z"
+generated_at: "2026-03-29T19:32:13.776Z"
 ---
 
 # § 317. Announcement of payment for broadcast

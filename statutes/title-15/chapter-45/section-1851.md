@@ -5,7 +5,7 @@ usc_section: "1851"
 chapter: 45
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1851"
-generated_at: "2026-03-29T18:24:08.512Z"
+generated_at: "2026-03-29T19:27:55.480Z"
 ---
 
 # § 1851. Reports to Congress; recommendations

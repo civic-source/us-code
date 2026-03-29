@@ -5,7 +5,7 @@ usc_section: "2131"
 chapter: 38
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2131"
-generated_at: "2026-03-29T18:27:35.630Z"
+generated_at: "2026-03-29T19:32:24.131Z"
 ---
 
 # § 2131. Cost-of-living adjustment of annuities

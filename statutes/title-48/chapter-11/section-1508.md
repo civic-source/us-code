@@ -5,7 +5,7 @@ usc_section: "1508"
 chapter: 11
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1508"
-generated_at: "2026-03-29T18:27:11.662Z"
+generated_at: "2026-03-29T19:31:53.959Z"
 ---
 
 # § 1508. Application to District of Columbia

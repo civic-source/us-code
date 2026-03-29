@@ -5,7 +5,7 @@ usc_section: "2002"
 chapter: 38
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2002"
-generated_at: "2026-03-29T18:26:14.906Z"
+generated_at: "2026-03-29T19:31:49.158Z"
 ---
 
 # § 2002. Statement of purposes

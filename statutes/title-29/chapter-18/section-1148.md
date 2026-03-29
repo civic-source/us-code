@@ -5,7 +5,7 @@ usc_section: "1148"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1148"
-generated_at: "2026-03-29T18:25:43.095Z"
+generated_at: "2026-03-29T19:30:07.596Z"
 ---
 
 # § 1148. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions

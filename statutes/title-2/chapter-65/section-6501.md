@@ -5,7 +5,7 @@ usc_section: "6501"
 chapter: 65
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 6501"
-generated_at: "2026-03-29T18:23:14.169Z"
+generated_at: "2026-03-29T19:27:07.605Z"
 ---
 
 # § 6501. Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation

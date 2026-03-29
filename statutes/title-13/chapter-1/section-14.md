@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 1
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 14"
-generated_at: "2026-03-29T18:23:55.153Z"
+generated_at: "2026-03-29T19:27:55.733Z"
 ---
 
 # [§ 14. Repealed. Pub. L. 89–473 , § 2(a), June 29, 1966 , 80 Stat. 221 ]

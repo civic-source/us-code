@@ -5,7 +5,7 @@ usc_section: "5107"
 chapter: 77
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5107"
-generated_at: "2026-03-29T18:24:08.613Z"
+generated_at: "2026-03-29T19:27:55.568Z"
 ---
 
 # § 5107. Reports

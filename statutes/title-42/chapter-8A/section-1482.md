@@ -5,7 +5,7 @@ usc_section: "1482"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1482"
-generated_at: "2026-03-29T18:27:03.320Z"
+generated_at: "2026-03-29T19:31:44.917Z"
 ---
 
 # § 1482. Repealed. Pub. L. 98–181, title I [title V, § 509], Nov. 30, 1983 , 97 Stat. 1243

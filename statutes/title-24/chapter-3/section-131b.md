@@ -5,7 +5,7 @@ usc_section: "131b"
 chapter: 3
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 131b"
-generated_at: "2026-03-29T18:25:00.379Z"
+generated_at: "2026-03-29T19:29:35.064Z"
 ---
 
 # §§ 131a, 131b. Omitted

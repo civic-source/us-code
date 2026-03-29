@@ -5,7 +5,7 @@ usc_section: "1630"
 chapter: 38
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1630"
-generated_at: "2026-03-29T18:23:43.292Z"
+generated_at: "2026-03-29T19:27:31.762Z"
 ---
 
 # § 1630. Omitted

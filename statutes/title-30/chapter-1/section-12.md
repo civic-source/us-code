@@ -5,7 +5,7 @@ usc_section: "12"
 chapter: 1
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 12"
-generated_at: "2026-03-29T18:25:30.838Z"
+generated_at: "2026-03-29T19:30:05.212Z"
 ---
 
 # § 12. Repealed. Oct. 25, 1951, ch. 562 , § 1(16), 65 Stat. 638

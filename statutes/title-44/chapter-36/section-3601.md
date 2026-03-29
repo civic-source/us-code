@@ -5,7 +5,7 @@ usc_section: "3601"
 chapter: 36
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 3601"
-generated_at: "2026-03-29T18:26:16.128Z"
+generated_at: "2026-03-29T19:30:59.125Z"
 ---
 
 # § 3601. Definitions

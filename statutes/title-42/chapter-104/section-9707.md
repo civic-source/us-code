@@ -5,7 +5,7 @@ usc_section: "9707"
 chapter: 104
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9707"
-generated_at: "2026-03-29T18:27:03.934Z"
+generated_at: "2026-03-29T19:31:45.527Z"
 ---
 
 # § 9707. Comprehensive program management plan

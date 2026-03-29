@@ -5,7 +5,7 @@ usc_section: "1867"
 chapter: 28
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1867"
-generated_at: "2026-03-29T18:23:14.126Z"
+generated_at: "2026-03-29T19:27:07.567Z"
 ---
 
 # § 1867. Advancement and reimbursement of expenses for flying American flags and providing certification services therefor

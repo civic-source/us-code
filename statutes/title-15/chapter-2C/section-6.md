@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6"
-generated_at: "2026-03-29T18:24:08.295Z"
+generated_at: "2026-03-29T19:27:55.271Z"
 ---
 
 # §§ 79 to 79z–6. Repealed. Pub. L. 109–58, title XII , § 1263, Aug. 8, 2005 , 119 Stat. 974

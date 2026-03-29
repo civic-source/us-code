@@ -5,7 +5,7 @@ usc_section: "36"
 chapter: 2
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 36"
-generated_at: "2026-03-29T18:25:23.658Z"
+generated_at: "2026-03-29T19:29:34.732Z"
 ---
 
 # § 36. Special agents and other officers to administer oaths

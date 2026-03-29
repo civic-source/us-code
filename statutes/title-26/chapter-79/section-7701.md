@@ -5,7 +5,7 @@ usc_section: "7701"
 chapter: 79
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-29T18:25:53.984Z"
+generated_at: "2026-03-29T19:30:20.268Z"
 ---
 
 # § 7701. Definitions

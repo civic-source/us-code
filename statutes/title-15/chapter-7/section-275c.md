@@ -5,7 +5,7 @@ usc_section: "275c"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 275c"
-generated_at: "2026-03-29T18:24:08.329Z"
+generated_at: "2026-03-29T19:27:55.302Z"
 ---
 
 # § 275c. Cost recovery authority

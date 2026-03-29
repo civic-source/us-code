@@ -5,7 +5,7 @@ usc_section: "6292"
 chapter: 77
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6292"
-generated_at: "2026-03-29T18:27:03.681Z"
+generated_at: "2026-03-29T19:31:45.268Z"
 ---
 
 # § 6292. Coverage

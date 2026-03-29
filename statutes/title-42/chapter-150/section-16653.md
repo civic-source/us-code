@@ -5,7 +5,7 @@ usc_section: "16653"
 chapter: 150
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 16653"
-generated_at: "2026-03-29T18:27:04.236Z"
+generated_at: "2026-03-29T19:31:45.861Z"
 ---
 
 # §§ 16652, 16653. Omitted

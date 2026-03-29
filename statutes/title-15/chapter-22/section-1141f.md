@@ -5,7 +5,7 @@ usc_section: "1141f"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1141f"
-generated_at: "2026-03-29T18:24:08.434Z"
+generated_at: "2026-03-29T19:27:55.408Z"
 ---
 
 # § 1141f. Effect of filing a request for extension of protection of an international registration to the United States

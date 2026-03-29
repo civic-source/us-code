@@ -5,7 +5,7 @@ usc_section: "1691"
 chapter: 14
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1691"
-generated_at: "2026-03-29T18:27:11.670Z"
+generated_at: "2026-03-29T19:31:53.966Z"
 ---
 
 # § 1691. Fiscal control and accounting procedures for plan for use of grant

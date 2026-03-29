@@ -5,7 +5,7 @@ usc_section: "1887"
 chapter: 16
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1887"
-generated_at: "2026-03-29T18:27:03.391Z"
+generated_at: "2026-03-29T19:31:44.981Z"
 ---
 
 # § 1887. Indemnification of grantees, contractors, and subcontractors under ocean drilling program; approvals and certifications by Director

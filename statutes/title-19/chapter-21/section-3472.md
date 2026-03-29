@@ -5,7 +5,7 @@ usc_section: "3472"
 chapter: 21
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3472"
-generated_at: "2026-03-29T18:24:16.209Z"
+generated_at: "2026-03-29T19:28:30.773Z"
 ---
 
 # § 3472. Agreement on Environmental Cooperation

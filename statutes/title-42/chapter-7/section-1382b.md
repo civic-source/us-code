@@ -5,7 +5,7 @@ usc_section: "1382b"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1382b"
-generated_at: "2026-03-29T18:27:03.013Z"
+generated_at: "2026-03-29T19:31:44.608Z"
 ---
 
 # § 1382b. Resources

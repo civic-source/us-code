@@ -5,7 +5,7 @@ usc_section: "9357"
 chapter: 903
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 9357"
-generated_at: "2026-03-29T18:23:52.094Z"
+generated_at: "2026-03-29T19:27:25.713Z"
 ---
 
 # § 9357. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

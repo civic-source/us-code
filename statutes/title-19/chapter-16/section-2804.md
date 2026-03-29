@@ -5,7 +5,7 @@ usc_section: "2804"
 chapter: 16
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2804"
-generated_at: "2026-03-29T18:24:16.189Z"
+generated_at: "2026-03-29T19:28:30.756Z"
 ---
 
 # § 2804. Actions to reduce or eliminate tariff and nontariff barriers affecting United States wine

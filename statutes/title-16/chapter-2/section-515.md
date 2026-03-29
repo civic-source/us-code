@@ -5,7 +5,7 @@ usc_section: "515"
 chapter: 2
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 515"
-generated_at: "2026-03-29T18:24:22.630Z"
+generated_at: "2026-03-29T19:29:27.273Z"
 ---
 
 # § 515. Examination, location, and purchase of forested, cut-over, or denuded lands; consent of State legislature to acquisition of land by the United States

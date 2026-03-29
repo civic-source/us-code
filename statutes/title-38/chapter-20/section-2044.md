@@ -5,7 +5,7 @@ usc_section: "2044"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2044"
-generated_at: "2026-03-29T18:26:07.582Z"
+generated_at: "2026-03-29T19:30:40.498Z"
 ---
 
 # § 2044. Financial assistance for supportive services for very low-income veteran families in permanent housing

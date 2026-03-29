@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 1
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 8"
-generated_at: "2026-03-29T18:23:55.153Z"
+generated_at: "2026-03-29T19:27:55.733Z"
 ---
 
 # § 8. Authenticated transcripts or copies of certain returns; other data; restriction on use; disposition of fees received

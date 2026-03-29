@@ -5,7 +5,7 @@ usc_section: "24319"
 chapter: 243
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 24319"
-generated_at: "2026-03-29T18:27:16.520Z"
+generated_at: "2026-03-29T19:32:28.807Z"
 ---
 
 # § 24319. Grant process

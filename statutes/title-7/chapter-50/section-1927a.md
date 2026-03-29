@@ -5,7 +5,7 @@ usc_section: "1927a"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1927a"
-generated_at: "2026-03-29T18:23:43.319Z"
+generated_at: "2026-03-29T19:27:31.788Z"
 ---
 
 # § 1927a. Loan interest rates charged by Farmers Home Administration; grant funds associated with loans

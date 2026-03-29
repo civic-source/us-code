@@ -5,7 +5,7 @@ usc_section: "302"
 chapter: 5
 current_through: "PL 114-254"
 classification: "47 U.S.C. § 302"
-generated_at: "2026-03-29T18:27:09.548Z"
+generated_at: "2026-03-29T19:32:13.769Z"
 ---
 
 # § 302. Repealed. June 5, 1936, ch. 511 , § 1, 49 Stat. 1475

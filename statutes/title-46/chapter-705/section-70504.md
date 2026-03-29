@@ -5,7 +5,7 @@ usc_section: "70504"
 chapter: 705
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 70504"
-generated_at: "2026-03-29T18:27:18.944Z"
+generated_at: "2026-03-29T19:32:17.395Z"
 ---
 
 # § 70504. Jurisdiction and venue

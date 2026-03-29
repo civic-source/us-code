@@ -5,7 +5,7 @@ usc_section: "1521"
 chapter: 36
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1521"
-generated_at: "2026-03-29T18:23:43.279Z"
+generated_at: "2026-03-29T19:27:31.751Z"
 ---
 
 # § 1521. Ineligibility for catastrophic risk and noninsured assistance payments

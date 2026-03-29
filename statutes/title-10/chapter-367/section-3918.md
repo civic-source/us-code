@@ -5,7 +5,7 @@ usc_section: "3918"
 chapter: 367
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3918"
-generated_at: "2026-03-29T18:23:52.025Z"
+generated_at: "2026-03-29T19:27:25.660Z"
 ---
 
 # § 3918. Thirty years or more: regular commissioned officers

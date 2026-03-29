@@ -5,7 +5,7 @@ usc_section: "1868a"
 chapter: 28
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1868a"
-generated_at: "2026-03-29T18:23:14.126Z"
+generated_at: "2026-03-29T19:27:07.567Z"
 ---
 
 # § 1868a. Semiannual report of disbursements

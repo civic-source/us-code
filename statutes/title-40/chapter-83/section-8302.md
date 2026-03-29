@@ -5,7 +5,7 @@ usc_section: "8302"
 chapter: 83
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 8302"
-generated_at: "2026-03-29T18:26:04.577Z"
+generated_at: "2026-03-29T19:30:36.699Z"
 ---
 
 # § 8302. Necessity for coordination in the development of the Washington metropolitan region

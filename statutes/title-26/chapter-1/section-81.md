@@ -5,7 +5,7 @@ usc_section: "81"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 81"
-generated_at: "2026-03-29T18:25:53.419Z"
+generated_at: "2026-03-29T19:30:19.690Z"
 ---
 
 # [§ 81. Repealed. Pub. L. 100–203, title X , § 10201(b)(1), Dec. 22, 1987 , 101 Stat. 1330–387 ]

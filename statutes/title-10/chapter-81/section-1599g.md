@@ -3,9 +3,9 @@ title: "Section 1599g - Public-private talent exchange"
 usc_title: 10
 usc_section: "1599g"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 1599g"
-generated_at: "2026-03-29T02:10:45.039Z"
+generated_at: "2026-03-29T18:47:53.389Z"
 ---
 
 # § 1599g. Public-private talent exchange
@@ -32,7 +32,7 @@ generated_at: "2026-03-29T02:10:45.039Z"
   - **(1)** shall continue to receive pay and benefits from the private-sector organization from which such employee is assigned and shall not receive pay or benefits from the Department of Defense, except as provided in paragraph (2);
   - **(2)** is deemed to be an employee of the Department of Defense for the purposes of—
     - **(A)** chapters 73 and 81 of title 5;
-    - **(B)** sections 201, 203, 205, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
+    - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** the Federal Tort Claims Act and any other Federal tort liability statute;
     - **(E)** the Ethics in Government Act of 1978; and
@@ -50,4 +50,3 @@ generated_at: "2026-03-29T02:10:45.039Z"
   - **(1)** notwithstanding section 1705(e)(5) of this title , the base salary of a civilian member of the acquisition workforce assigned to a private-sector organization under this section, during the period of that assignment;
   - **(2)** expenses relating to assignment under this section of a member of the acquisition workforce away from the member’s regular duty station, including expenses for travel, per diem, and lodging; and
   - **(3)** expenses for the administration of the program.
-- **(k)** Each member of the acquisition workforce that participates in the program established under this section shall, upon completion of such participation, submit to the President of the Defense Acquisition University for inclusion in the report required under section 1746a(e) a description and evaluation of such participation.

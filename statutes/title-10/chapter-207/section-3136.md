@@ -3,9 +3,9 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-03-29T02:10:45.173Z"
+generated_at: "2026-03-29T18:47:53.490Z"
 ---
 
 # § 3136. Defense Modernization Account
@@ -28,11 +28,11 @@ generated_at: "2026-03-29T02:10:45.173Z"
   - **(2)** For increasing, subject to subsection (e), the quantity of items and services procured under an acquisition program in order to achieve a more efficient production or delivery rate.
   - **(3)** For research, development, test, and evaluation, for procurement, and for sustainment activities necessary for paying costs of unforeseen contingencies that are approved by the milestone decision authority concerned, that could prevent an ongoing acquisition program from meeting critical schedule or performance requirements.
   - **(4)** For paying costs of changes to program requirements or system configuration that are approved by the configuration steering board for a major defense acquisition program.
-  - **(5)** For procuring and integrating available commercial technologies and services to satisfy a joint urgent operational need, joint emergent operational need, or a validated service requirement.
-  - **(6)** For providing infrastructure to support Department goals of accelerating the fielding and adoption of new capabilities.
 - **(e)**
   - **(1)** Funds in the Defense Modernization Account may not be used to increase the quantity of an item or services procured under a particular acquisition program to the extent that doing so would—
-    - **(A)** result in procurement of a total quantity of items or services in excess of a specific limitation provided by law on the quantity of the items or services that may be procured; or
+    - **(A)** result in procurement of a total quantity of items or services in excess of—
+      - **(i)** a specific limitation provided by law on the quantity of the items or services that may be procured; or
+      - **(ii)** the requirement for the items or services as approved by the Joint Requirements Oversight Council and reported to Congress by the Secretary of Defense; or
     - **(B)** result in an obligation or expenditure of funds in excess of a specific limitation provided by law on the amount that may be obligated or expended, respectively, for that acquisition program.
   - **(2)** Funds in the Defense Modernization Account may not be used for a purpose or program for which Congress has not authorized appropriations, unless the procedures for initiating a new start program are complied with.
   - **(3)** Funds may not be transferred from the Defense Modernization Account in any year for the purpose of—
@@ -55,3 +55,6 @@ generated_at: "2026-03-29T02:10:45.173Z"
 - **(i)** In this section:
   - **(1)** The term “major defense acquisition program” has the meaning given the term in section 4201 of this title .
   - **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
+- **(j)**
+  - **(1)** The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022 .
+  - **(2)** Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.

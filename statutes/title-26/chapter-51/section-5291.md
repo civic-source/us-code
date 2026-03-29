@@ -5,7 +5,7 @@ usc_section: "5291"
 chapter: 51
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5291"
-generated_at: "2026-03-29T18:25:53.866Z"
+generated_at: "2026-03-29T19:30:20.127Z"
 ---
 
 # § 5291. General

@@ -5,7 +5,7 @@ usc_section: "1436"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1436"
-generated_at: "2026-03-29T18:23:33.978Z"
+generated_at: "2026-03-29T19:27:14.508Z"
 ---
 
 # § 1436. Nationals but not citizens; residence within outlying possessions

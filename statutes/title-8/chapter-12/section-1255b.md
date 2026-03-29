@@ -5,7 +5,7 @@ usc_section: "1255b"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1255b"
-generated_at: "2026-03-29T18:23:33.958Z"
+generated_at: "2026-03-29T19:27:14.484Z"
 ---
 
 # § 1255b. Adjustment of status of certain nonimmigrants to that of persons admitted for permanent residence

@@ -5,7 +5,7 @@ usc_section: "4021"
 chapter: 373
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4021"
-generated_at: "2026-03-29T18:23:52.026Z"
+generated_at: "2026-03-29T19:27:25.661Z"
 ---
 
 # § 4021. Army War College and United States Army Command and General Staff College: civilian faculty members

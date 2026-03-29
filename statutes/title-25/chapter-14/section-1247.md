@@ -5,7 +5,7 @@ usc_section: "1247"
 chapter: 14
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1247"
-generated_at: "2026-03-29T18:25:23.710Z"
+generated_at: "2026-03-29T19:29:34.773Z"
 ---
 
 # § 1247. Omitted

@@ -5,7 +5,7 @@ usc_section: "1384"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1384"
-generated_at: "2026-03-29T18:23:43.255Z"
+generated_at: "2026-03-29T19:27:31.729Z"
 ---
 
 # § 1384. Repealed. Aug. 7, 1946, ch. 770 , § 1(3), 60 Stat. 866

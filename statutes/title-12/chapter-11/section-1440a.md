@@ -5,7 +5,7 @@ usc_section: "1440a"
 chapter: 11
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1440a"
-generated_at: "2026-03-29T18:24:02.777Z"
+generated_at: "2026-03-29T19:28:17.536Z"
 ---
 
 # § 1440a. Sharing of information among Federal Home Loan Banks

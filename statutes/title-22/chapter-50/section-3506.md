@@ -5,7 +5,7 @@ usc_section: "3506"
 chapter: 50
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3506"
-generated_at: "2026-03-29T18:24:54.282Z"
+generated_at: "2026-03-29T19:29:46.833Z"
 ---
 
 # § 3506. Deputy Director

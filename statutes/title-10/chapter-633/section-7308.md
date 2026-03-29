@@ -5,7 +5,7 @@ usc_section: "7308"
 chapter: 633
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7308"
-generated_at: "2026-03-29T18:23:52.066Z"
+generated_at: "2026-03-29T19:27:25.693Z"
 ---
 
 # § 7308. Chief of Naval Operations: certification required for disposal of combatant vessels

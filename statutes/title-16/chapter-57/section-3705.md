@@ -5,7 +5,7 @@ usc_section: "3705"
 chapter: 57
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3705"
-generated_at: "2026-03-29T18:24:22.882Z"
+generated_at: "2026-03-29T19:29:27.558Z"
 ---
 
 # § 3705. Volunteer status

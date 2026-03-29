@@ -5,7 +5,7 @@ usc_section: "3121"
 chapter: 21
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-29T18:25:53.790Z"
+generated_at: "2026-03-29T19:30:20.051Z"
 ---
 
 # § 3121. Definitions

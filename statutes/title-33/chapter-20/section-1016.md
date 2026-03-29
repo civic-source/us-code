@@ -5,7 +5,7 @@ usc_section: "1016"
 chapter: 20
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1016"
-generated_at: "2026-03-29T18:26:01.216Z"
+generated_at: "2026-03-29T19:30:28.760Z"
 ---
 
 # §§ 1013 to 1016. Repealed. Pub. L. 96–478 , § 12, Oct. 21, 1980 , 94 Stat. 2303

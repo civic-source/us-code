@@ -5,7 +5,7 @@ usc_section: "1926c"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1926c"
-generated_at: "2026-03-29T18:23:43.317Z"
+generated_at: "2026-03-29T19:27:31.787Z"
 ---
 
 # § 1926c. Water and waste facility loans and grants to alleviate health risks

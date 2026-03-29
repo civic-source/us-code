@@ -5,7 +5,7 @@ usc_section: "1754"
 chapter: 29
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1754"
-generated_at: "2026-03-29T18:25:30.931Z"
+generated_at: "2026-03-29T19:30:05.312Z"
 ---
 
 # § 1754. Funding

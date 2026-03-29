@@ -5,7 +5,7 @@ usc_section: "9253"
 chapter: 99
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 9253"
-generated_at: "2026-03-29T18:24:54.428Z"
+generated_at: "2026-03-29T19:29:47.008Z"
 ---
 
 # § 9253. Authorization of appropriations

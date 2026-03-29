@@ -5,7 +5,7 @@ usc_section: "5628"
 chapter: 53
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5628"
-generated_at: "2026-03-29T18:24:03.120Z"
+generated_at: "2026-03-29T19:28:17.904Z"
 ---
 
 # § 5628. Evaluation and reports to Congress

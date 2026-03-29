@@ -5,7 +5,7 @@ usc_section: "1720a"
 chapter: 29
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1720a"
-generated_at: "2026-03-29T18:25:30.927Z"
+generated_at: "2026-03-29T19:30:05.308Z"
 ---
 
 # § 1720a. Applicability of civil and criminal penalties to various uses of Federal or Indian lands and Outer Continental Shelf

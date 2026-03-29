@@ -5,7 +5,7 @@ usc_section: "17553"
 chapter: 153
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 17553"
-generated_at: "2026-03-29T18:27:04.274Z"
+generated_at: "2026-03-29T19:31:45.907Z"
 ---
 
 # § 17553. Addressing the needs of children of incarcerated parents

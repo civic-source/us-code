@@ -5,7 +5,7 @@ usc_section: "124i"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 124i"
-generated_at: "2026-03-29T18:23:35.726Z"
+generated_at: "2026-03-29T19:27:39.827Z"
 ---
 
 # § 124i. Homeland Security Information Sharing Fellows Program

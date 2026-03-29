@@ -5,7 +5,7 @@ usc_section: "7804"
 chapter: 104
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7804"
-generated_at: "2026-03-29T18:24:08.662Z"
+generated_at: "2026-03-29T19:27:55.615Z"
 ---
 
 # § 7804. Actions by States

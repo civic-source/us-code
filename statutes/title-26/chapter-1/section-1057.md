@@ -5,7 +5,7 @@ usc_section: "1057"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1057"
-generated_at: "2026-03-29T18:25:53.713Z"
+generated_at: "2026-03-29T19:30:19.965Z"
 ---
 
 # [§ 1057. Repealed. Pub. L. 105–34, title XI , § 1131(c)(2), Aug. 5, 1997 , 111 Stat. 980 ]

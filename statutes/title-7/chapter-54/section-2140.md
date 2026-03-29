@@ -5,7 +5,7 @@ usc_section: "2140"
 chapter: 54
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2140"
-generated_at: "2026-03-29T18:23:43.381Z"
+generated_at: "2026-03-29T19:27:31.850Z"
 ---
 
 # § 2140. Recordkeeping by dealers, exhibitors, research facilities, intermediate handlers, and carriers

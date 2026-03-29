@@ -5,7 +5,7 @@ usc_section: "8688"
 chapter: 853
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8688"
-generated_at: "2026-03-29T18:23:52.086Z"
+generated_at: "2026-03-29T19:27:25.707Z"
 ---
 
 # [§ 8688. Repealed. Pub. L. 85–861 , § 36B(29), Sept. 2, 1958 , 72 Stat. 1571 ]

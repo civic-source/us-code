@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 4
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 102"
-generated_at: "2026-03-29T18:25:23.661Z"
+generated_at: "2026-03-29T19:29:34.735Z"
 ---
 
 # § 102. Payment of costs for furnishing coal for Indian Service

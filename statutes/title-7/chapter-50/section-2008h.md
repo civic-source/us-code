@@ -5,7 +5,7 @@ usc_section: "2008h"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2008h"
-generated_at: "2026-03-29T18:23:43.337Z"
+generated_at: "2026-03-29T19:27:31.807Z"
 ---
 
 # § 2008h. Loan and loan servicing limitations

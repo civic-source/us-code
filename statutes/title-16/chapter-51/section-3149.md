@@ -5,7 +5,7 @@ usc_section: "3149"
 chapter: 51
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3149"
-generated_at: "2026-03-29T18:24:22.866Z"
+generated_at: "2026-03-29T19:29:27.541Z"
 ---
 
 # § 3149. Oil and gas lease applications

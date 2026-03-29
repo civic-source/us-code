@@ -3,9 +3,9 @@ title: "Section 1632d - Dairy business innovation initiatives"
 usc_title: 7
 usc_section: "1632d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "7 U.S.C. § 1632d"
-generated_at: "2026-03-29T02:10:16.837Z"
+generated_at: "2026-03-29T18:47:13.577Z"
 ---
 
 # § 1632d. Dairy business innovation initiatives

@@ -5,7 +5,7 @@ usc_section: "11273"
 chapter: 118
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11273"
-generated_at: "2026-03-29T18:27:04.014Z"
+generated_at: "2026-03-29T19:31:45.608Z"
 ---
 
 # § 11273. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "2306"
 chapter: 50
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2306"
-generated_at: "2026-03-29T18:24:08.537Z"
+generated_at: "2026-03-29T19:27:55.502Z"
 ---
 
 # § 2306. Service contracts; rules for full, clear and conspicuous disclosure of terms and conditions; addition to or in lieu of written warranty

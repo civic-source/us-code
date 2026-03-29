@@ -3,9 +3,9 @@ title: "Section 383 - Assessment, monitoring, and evaluation of programs and act
 usc_title: 10
 usc_section: "383"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-03-29T02:10:44.860Z"
+generated_at: "2026-03-29T18:47:53.240Z"
 ---
 
 # § 383. Assessment, monitoring, and evaluation of programs and activities
@@ -25,5 +25,5 @@ generated_at: "2026-03-29T02:10:44.860Z"
 - **(d)**
   - **(1)** The Secretary shall submit to the congressional defense committees each year a report on the program under subsection (a) during the previous year. Each report shall include, for the year covered by such report, the following:
     - **(A)** A description of the activities under the program.
-    - **(B)** An evaluation of the lessons learned, including a description of challenges in executing the program, and best practices identified through activities under the program.
+    - **(B)** An evaluation of the lessons learned and best practices identified through activities under the program.
   - **(2)** The Secretary shall make available to the public, on an Internet website of the Department of Defense available to the public, a summary of each evaluation conducted pursuant to subsection (b)(1)(C). In making a summary so available, the Secretary may redact or omit any information that the Secretary determines should not be disclosed to the public in order to protect the interest of the United States or the foreign country or countries covered by such evaluation.

@@ -5,7 +5,7 @@ usc_section: "1995"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1995"
-generated_at: "2026-03-29T18:27:03.402Z"
+generated_at: "2026-03-29T19:31:44.992Z"
 ---
 
 # § 1995. Criminal contempt proceedings; penalties; trial by jury

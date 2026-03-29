@@ -5,7 +5,7 @@ usc_section: "196a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 196a"
-generated_at: "2026-03-29T18:25:00.380Z"
+generated_at: "2026-03-29T19:29:35.066Z"
 ---
 
 # § 196a. Repealed. Pub. L. 86–571 , § 10(b), July 5, 1960 , 74 Stat. 310

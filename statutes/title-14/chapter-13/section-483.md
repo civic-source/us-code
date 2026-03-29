@@ -5,7 +5,7 @@ usc_section: "483"
 chapter: 13
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 483"
-generated_at: "2026-03-29T18:23:55.771Z"
+generated_at: "2026-03-29T19:27:45.907Z"
 ---
 
 # § 483. Right to wear uniform

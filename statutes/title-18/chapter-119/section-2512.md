@@ -5,7 +5,7 @@ usc_section: "2512"
 chapter: 119
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2512"
-generated_at: "2026-03-29T18:24:43.852Z"
+generated_at: "2026-03-29T19:28:33.872Z"
 ---
 
 # § 2512. Manufacture, distribution, possession, and advertising of wire, oral, or electronic communication intercepting devices prohibited

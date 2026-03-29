@@ -5,7 +5,7 @@ usc_section: "323"
 chapter: 3
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 323"
-generated_at: "2026-03-29T18:25:59.139Z"
+generated_at: "2026-03-29T19:30:24.744Z"
 ---
 
 # § 323. Investment of operating cash

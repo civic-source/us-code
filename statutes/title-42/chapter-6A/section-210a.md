@@ -5,7 +5,7 @@ usc_section: "210a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 210a"
-generated_at: "2026-03-29T18:27:02.519Z"
+generated_at: "2026-03-29T19:31:44.159Z"
 ---
 
 # § 210a. Repealed. Pub. L. 87–649 , § 14b, Sept. 7, 1962 , 76 Stat. 499

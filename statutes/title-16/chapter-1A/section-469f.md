@@ -5,7 +5,7 @@ usc_section: "469f"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 469f"
-generated_at: "2026-03-29T18:24:22.616Z"
+generated_at: "2026-03-29T19:29:27.256Z"
 ---
 
 # § 469f. Repealed. Pub. L. 91–483 , § 1(1), Oct. 21, 1970 , 84 Stat. 1083

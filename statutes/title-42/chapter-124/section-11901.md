@@ -5,7 +5,7 @@ usc_section: "11901"
 chapter: 124
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 11901"
-generated_at: "2026-03-29T18:27:04.037Z"
+generated_at: "2026-03-29T19:31:45.629Z"
 ---
 
 # § 11901. Congressional findings

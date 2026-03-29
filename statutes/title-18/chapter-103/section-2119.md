@@ -5,7 +5,7 @@ usc_section: "2119"
 chapter: 103
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2119"
-generated_at: "2026-03-29T18:24:43.833Z"
+generated_at: "2026-03-29T19:28:33.852Z"
 ---
 
 # § 2119. Motor vehicles

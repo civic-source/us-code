@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-29T18:27:03.656Z"
+generated_at: "2026-03-29T19:31:45.244Z"
 ---
 
 # § 5714–23. Authority to make grants for research, evaluation, demonstration, and service projects

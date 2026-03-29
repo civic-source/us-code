@@ -5,7 +5,7 @@ usc_section: "13013"
 chapter: 132
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13013"
-generated_at: "2026-03-29T18:27:04.102Z"
+generated_at: "2026-03-29T19:31:45.702Z"
 ---
 
 # § 13013. Strengthening of court-appointed special advocate program

@@ -5,7 +5,7 @@ usc_section: "3106"
 chapter: 31
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 3106"
-generated_at: "2026-03-29T18:25:59.164Z"
+generated_at: "2026-03-29T19:30:24.765Z"
 ---
 
 # § 3106. Retirement and savings bonds

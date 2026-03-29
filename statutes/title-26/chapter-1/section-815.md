@@ -5,7 +5,7 @@ usc_section: "815"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 815"
-generated_at: "2026-03-29T18:25:53.648Z"
+generated_at: "2026-03-29T19:30:19.905Z"
 ---
 
 # § 815. Distributions to shareholders from pre-1984 policyholders surplus account

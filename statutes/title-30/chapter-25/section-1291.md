@@ -5,7 +5,7 @@ usc_section: "1291"
 chapter: 25
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1291"
-generated_at: "2026-03-29T18:25:30.913Z"
+generated_at: "2026-03-29T19:30:05.292Z"
 ---
 
 # § 1291. Definitions

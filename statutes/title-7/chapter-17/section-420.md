@@ -5,7 +5,7 @@ usc_section: "420"
 chapter: 17
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 420"
-generated_at: "2026-03-29T18:23:43.196Z"
+generated_at: "2026-03-29T19:27:31.677Z"
 ---
 
 # § 420. Power to administer oaths, examine witnesses, or require production of books, etc.

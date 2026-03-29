@@ -5,7 +5,7 @@ usc_section: "1223"
 chapter: 26
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1223"
-generated_at: "2026-03-29T18:24:22.765Z"
+generated_at: "2026-03-29T19:29:27.425Z"
 ---
 
 # § 1223. Agreements with States and subdivisions; equitable sharing of costs; development improvements; availability of appropriations; State hunting and fishing laws applicable

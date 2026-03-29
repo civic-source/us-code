@@ -5,7 +5,7 @@ usc_section: "110303"
 chapter: 1103
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 110303"
-generated_at: "2026-03-29T18:26:09.287Z"
+generated_at: "2026-03-29T19:30:42.074Z"
 ---
 
 # § 110303. Governing body

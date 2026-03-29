@@ -5,7 +5,7 @@ usc_section: "958"
 chapter: 32
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 958"
-generated_at: "2026-03-29T18:23:43.233Z"
+generated_at: "2026-03-29T19:27:31.711Z"
 ---
 
 # § 958. Repealed. Pub. L. 104–66, title I , § 1011(d), Dec. 21, 1995 , 109 Stat. 709

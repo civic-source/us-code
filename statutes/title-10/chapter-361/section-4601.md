@@ -3,9 +3,9 @@ title: "Section 4601 - Electronic submission and processing of claims for contra
 usc_title: 10
 usc_section: "4601"
 chapter: 361
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4601"
-generated_at: "2026-03-29T02:10:45.223Z"
+generated_at: "2026-03-29T18:47:53.527Z"
 ---
 
 # § 4601. Electronic submission and processing of claims for contract payments

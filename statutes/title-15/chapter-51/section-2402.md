@@ -5,7 +5,7 @@ usc_section: "2402"
 chapter: 51
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2402"
-generated_at: "2026-03-29T18:24:08.538Z"
+generated_at: "2026-03-29T19:27:55.502Z"
 ---
 
 # § 2402. Congressional statement of purpose

@@ -3,9 +3,9 @@ title: "Section 8669 - Contracts: applicability of chapter 65 of title 41"
 usc_title: 10
 usc_section: "8669"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8669"
-generated_at: "2026-03-29T02:10:45.315Z"
+generated_at: "2026-03-29T18:47:53.574Z"
 ---
 
 # § 8669. Contracts: applicability of chapter 65 of title 41

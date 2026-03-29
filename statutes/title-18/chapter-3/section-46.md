@@ -5,7 +5,7 @@ usc_section: "46"
 chapter: 3
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 46"
-generated_at: "2026-03-29T18:24:43.765Z"
+generated_at: "2026-03-29T19:28:33.779Z"
 ---
 
 # § 46. Transportation of water hyacinths

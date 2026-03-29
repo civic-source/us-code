@@ -5,7 +5,7 @@ usc_section: "1362"
 chapter: 37
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1362"
-generated_at: "2026-03-29T18:24:08.451Z"
+generated_at: "2026-03-29T19:27:55.425Z"
 ---
 
 # § 1362. Rules and regulations

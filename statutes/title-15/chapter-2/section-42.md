@@ -5,7 +5,7 @@ usc_section: "42"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 42"
-generated_at: "2026-03-29T18:24:08.200Z"
+generated_at: "2026-03-29T19:27:55.055Z"
 ---
 
 # § 42. Employees; expenses

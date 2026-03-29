@@ -5,7 +5,7 @@ usc_section: "7459"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7459"
-generated_at: "2026-03-29T18:27:03.801Z"
+generated_at: "2026-03-29T19:31:45.387Z"
 ---
 
 # §§ 7450 to 7459. Repealed. Pub. L. 101–549, title VI , § 601, Nov. 15, 1990 , 104 Stat. 2648

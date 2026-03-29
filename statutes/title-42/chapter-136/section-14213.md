@@ -5,7 +5,7 @@ usc_section: "14213"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14213"
-generated_at: "2026-03-29T18:27:04.165Z"
+generated_at: "2026-03-29T19:31:45.773Z"
 ---
 
 # § 14213. Extension of authorizations of appropriations for fiscal years for which full amount authorized is not appropriated

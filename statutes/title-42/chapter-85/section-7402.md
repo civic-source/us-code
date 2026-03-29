@@ -5,7 +5,7 @@ usc_section: "7402"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7402"
-generated_at: "2026-03-29T18:27:03.780Z"
+generated_at: "2026-03-29T19:31:45.367Z"
 ---
 
 # § 7402. Cooperative activities

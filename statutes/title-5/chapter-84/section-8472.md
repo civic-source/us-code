@@ -5,7 +5,7 @@ usc_section: "8472"
 chapter: 84
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 8472"
-generated_at: "2026-03-29T18:23:29.968Z"
+generated_at: "2026-03-29T19:27:05.384Z"
 ---
 
 # § 8472. Federal Retirement Thrift Investment Board

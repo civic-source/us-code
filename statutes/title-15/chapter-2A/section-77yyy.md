@@ -5,7 +5,7 @@ usc_section: "77yyy"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 77yyy"
-generated_at: "2026-03-29T18:24:08.233Z"
+generated_at: "2026-03-29T19:27:55.086Z"
 ---
 
 # § 77yyy. Penalties

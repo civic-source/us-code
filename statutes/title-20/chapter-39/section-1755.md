@@ -5,7 +5,7 @@ usc_section: "1755"
 chapter: 39
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1755"
-generated_at: "2026-03-29T18:24:41.066Z"
+generated_at: "2026-03-29T19:28:43.109Z"
 ---
 
 # § 1755. Additional priority of remedies after finding of de jure segregation

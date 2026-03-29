@@ -5,7 +5,7 @@ usc_section: "7259"
 chapter: 100
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7259"
-generated_at: "2026-03-29T18:23:43.506Z"
+generated_at: "2026-03-29T19:27:31.974Z"
 ---
 
 # § 7259. Study and report regarding potential impact of Uruguay Round on prices, income, and government purchases

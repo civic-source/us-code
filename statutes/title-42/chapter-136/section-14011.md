@@ -5,7 +5,7 @@ usc_section: "14011"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14011"
-generated_at: "2026-03-29T18:27:04.142Z"
+generated_at: "2026-03-29T19:31:45.749Z"
 ---
 
 # § 14011. Payment of cost of testing for sexually transmitted diseases

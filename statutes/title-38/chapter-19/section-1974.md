@@ -5,7 +5,7 @@ usc_section: "1974"
 chapter: 19
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1974"
-generated_at: "2026-03-29T18:26:07.575Z"
+generated_at: "2026-03-29T19:30:40.492Z"
 ---
 
 # § 1974. Advisory Council on Servicemembers’ Group Life Insurance

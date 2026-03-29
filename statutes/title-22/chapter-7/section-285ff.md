@@ -5,7 +5,7 @@ usc_section: "285ff"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 285ff"
-generated_at: "2026-03-29T18:24:54.120Z"
+generated_at: "2026-03-29T19:29:46.669Z"
 ---
 
 # § 285ff. Tenth replenishment

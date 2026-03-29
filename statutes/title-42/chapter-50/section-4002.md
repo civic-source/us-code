@@ -5,7 +5,7 @@ usc_section: "4002"
 chapter: 50
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4002"
-generated_at: "2026-03-29T18:27:03.558Z"
+generated_at: "2026-03-29T19:31:45.138Z"
 ---
 
 # § 4002. Additional Congressional findings and declaration of purpose

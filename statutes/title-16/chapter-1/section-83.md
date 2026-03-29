@@ -5,7 +5,7 @@ usc_section: "83"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 83"
-generated_at: "2026-03-29T18:24:22.490Z"
+generated_at: "2026-03-29T19:29:27.117Z"
 ---
 
 # § 410aaa–83. Authorization of appropriations

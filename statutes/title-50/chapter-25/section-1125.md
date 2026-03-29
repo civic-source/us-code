@@ -5,7 +5,7 @@ usc_section: "1125"
 chapter: 25
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1125"
-generated_at: "2026-03-29T18:27:35.597Z"
+generated_at: "2026-03-29T19:32:24.101Z"
 ---
 
 # § 1125. Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 Stat. 1569

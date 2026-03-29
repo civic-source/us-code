@@ -5,7 +5,7 @@ usc_section: "3385b"
 chapter: 47
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 3385b"
-generated_at: "2026-03-29T18:24:41.080Z"
+generated_at: "2026-03-29T19:28:43.125Z"
 ---
 
 # §§ 3385a, 3385b. Repealed. Pub. L. 100–297, title V , § 5352(4), Apr. 28, 1988 , 102 Stat. 414

@@ -5,7 +5,7 @@ usc_section: "2802"
 chapter: 55
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2802"
-generated_at: "2026-03-29T18:24:08.569Z"
+generated_at: "2026-03-29T19:27:55.530Z"
 ---
 
 # § 2802. Franchise relationship

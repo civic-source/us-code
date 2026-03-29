@@ -5,7 +5,7 @@ usc_section: "58"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 58"
-generated_at: "2026-03-29T18:24:08.311Z"
+generated_at: "2026-03-29T19:27:55.287Z"
 ---
 
 # § 80a–58. Incorporation of subchapter provisions

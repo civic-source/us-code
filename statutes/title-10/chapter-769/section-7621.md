@@ -3,9 +3,9 @@ title: "Section 7621 - Quartermaster supplies: members of armed forces; veterans
 usc_title: 10
 usc_section: "7621"
 chapter: 769
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 7621"
-generated_at: "2026-03-29T02:10:45.286Z"
+generated_at: "2026-03-29T18:47:53.552Z"
 ---
 
 # § 7621. Quartermaster supplies: members of armed forces; veterans; executive or military departments and employees; prices

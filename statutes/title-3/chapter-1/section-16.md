@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 16"
-generated_at: "2026-03-29T18:23:14.420Z"
+generated_at: "2026-03-29T19:27:10.130Z"
 ---
 
 # § 16. Same; seats for officers and Members of two Houses in joint meeting

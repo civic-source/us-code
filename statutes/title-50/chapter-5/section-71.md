@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 5
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 71"
-generated_at: "2026-03-29T18:27:35.582Z"
+generated_at: "2026-03-29T19:32:24.087Z"
 ---
 
 # §§ 68 to 71. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641

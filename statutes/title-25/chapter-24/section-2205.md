@@ -5,7 +5,7 @@ usc_section: "2205"
 chapter: 24
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2205"
-generated_at: "2026-03-29T18:25:23.772Z"
+generated_at: "2026-03-29T19:29:34.831Z"
 ---
 
 # § 2205. Tribal probate codes; acquisitions of fractional interests by tribes

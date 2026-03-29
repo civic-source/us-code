@@ -3,9 +3,9 @@ title: "Section 8519 - Authorization of appropriations"
 usc_title: 15
 usc_section: "8519"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 8519"
-generated_at: "2026-03-29T02:11:34.449Z"
+generated_at: "2026-03-29T18:49:04.563Z"
 ---
 
 # § 8519. Authorization of appropriations

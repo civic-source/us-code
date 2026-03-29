@@ -5,7 +5,7 @@ usc_section: "1224"
 chapter: 23
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1224"
-generated_at: "2026-03-29T18:23:14.105Z"
+generated_at: "2026-03-29T19:27:07.550Z"
 ---
 
 # §§ 1223, 1224. Repealed. Pub. L. 104–1, title V , § 504(a)(2), Jan. 23, 1995 , 109 Stat. 41

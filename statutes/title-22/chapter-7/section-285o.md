@@ -5,7 +5,7 @@ usc_section: "285o"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 285o"
-generated_at: "2026-03-29T18:24:54.120Z"
+generated_at: "2026-03-29T19:29:46.668Z"
 ---
 
 # § 285o. Expropriation of United States property; loan restrictions

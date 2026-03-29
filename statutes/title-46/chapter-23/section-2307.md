@@ -5,7 +5,7 @@ usc_section: "2307"
 chapter: 23
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 2307"
-generated_at: "2026-03-29T18:27:18.859Z"
+generated_at: "2026-03-29T19:32:17.315Z"
 ---
 
 # § 2307. Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators

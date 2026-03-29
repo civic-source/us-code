@@ -5,7 +5,7 @@ usc_section: "2330"
 chapter: 57
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2330"
-generated_at: "2026-03-29T18:23:43.394Z"
+generated_at: "2026-03-29T19:27:31.863Z"
 ---
 
 # § 2330. Publications

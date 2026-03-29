@@ -5,7 +5,7 @@ usc_section: "46"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-29T18:27:02.726Z"
+generated_at: "2026-03-29T19:31:44.371Z"
 ---
 
 # § 300d–46. Definition

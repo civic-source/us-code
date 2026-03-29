@@ -5,7 +5,7 @@ usc_section: "244"
 chapter: 10
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 244"
-generated_at: "2026-03-29T18:23:43.189Z"
+generated_at: "2026-03-29T19:27:31.670Z"
 ---
 
 # § 244. Quality and value standards

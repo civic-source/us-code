@@ -5,7 +5,7 @@ usc_section: "1731"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1731"
-generated_at: "2026-03-29T18:24:02.854Z"
+generated_at: "2026-03-29T19:28:17.619Z"
 ---
 
 # § 1731. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862 , eff. Sept. 1, 1948

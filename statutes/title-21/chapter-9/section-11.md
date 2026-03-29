@@ -5,7 +5,7 @@ usc_section: "11"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 11"
-generated_at: "2026-03-29T18:25:04.171Z"
+generated_at: "2026-03-29T19:29:50.422Z"
 ---
 
 # § 379j–11. Definitions

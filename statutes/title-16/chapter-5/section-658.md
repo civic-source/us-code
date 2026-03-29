@@ -5,7 +5,7 @@ usc_section: "658"
 chapter: 5
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 658"
-generated_at: "2026-03-29T18:24:22.675Z"
+generated_at: "2026-03-29T19:29:27.321Z"
 ---
 
 # § 658. Repealed. Feb. 26, 1944, ch. 65 , § 18, 58 Stat. 104

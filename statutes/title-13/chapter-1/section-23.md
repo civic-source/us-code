@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 1
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 23"
-generated_at: "2026-03-29T18:23:55.154Z"
+generated_at: "2026-03-29T19:27:55.734Z"
 ---
 
 # § 23. Additional officers and employees

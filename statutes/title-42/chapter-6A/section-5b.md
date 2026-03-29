@@ -5,7 +5,7 @@ usc_section: "5b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5b"
-generated_at: "2026-03-29T18:27:02.662Z"
+generated_at: "2026-03-29T19:31:44.302Z"
 ---
 
 # § 290aa–5b. Grants for ecstasy and other club drugs abuse prevention

@@ -5,7 +5,7 @@ usc_section: "1198"
 chapter: 25
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1198"
-generated_at: "2026-03-29T18:24:08.437Z"
+generated_at: "2026-03-29T19:27:55.413Z"
 ---
 
 # § 1198. Shipments from foreign countries; demand for redelivery; claim for liquidated damages

@@ -5,7 +5,7 @@ usc_section: "1304"
 chapter: 13
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 1304"
-generated_at: "2026-03-29T18:24:28.494Z"
+generated_at: "2026-03-29T19:28:20.886Z"
 ---
 
 # § 1304. Commencement of protection

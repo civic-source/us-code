@@ -5,7 +5,7 @@ usc_section: "220507"
 chapter: 2205
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 220507"
-generated_at: "2026-03-29T18:26:09.308Z"
+generated_at: "2026-03-29T19:30:42.095Z"
 ---
 
 # § 220507. Restrictions

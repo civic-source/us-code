@@ -5,7 +5,7 @@ usc_section: "6613"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 6613"
-generated_at: "2026-03-29T18:24:41.128Z"
+generated_at: "2026-03-29T19:28:43.185Z"
 ---
 
 # § 6613. Local uses of funds

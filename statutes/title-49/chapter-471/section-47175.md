@@ -5,7 +5,7 @@ usc_section: "47175"
 chapter: 471
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 47175"
-generated_at: "2026-03-29T18:27:16.634Z"
+generated_at: "2026-03-29T19:32:28.907Z"
 ---
 
 # § 47175. Definitions

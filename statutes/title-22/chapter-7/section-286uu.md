@@ -5,7 +5,7 @@ usc_section: "286uu"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 286uu"
-generated_at: "2026-03-29T18:24:54.126Z"
+generated_at: "2026-03-29T19:29:46.674Z"
 ---
 
 # § 286uu. Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes

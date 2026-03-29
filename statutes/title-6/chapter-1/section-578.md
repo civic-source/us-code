@@ -5,7 +5,7 @@ usc_section: "578"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 578"
-generated_at: "2026-03-29T18:23:35.764Z"
+generated_at: "2026-03-29T19:27:39.863Z"
 ---
 
 # § 578. Definition

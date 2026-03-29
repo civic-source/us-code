@@ -3,18 +3,18 @@ title: "Section 652 - Cybersecurity and Infrastructure Security Agency"
 usc_title: 6
 usc_section: "652"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 652"
-generated_at: "2026-03-29T02:10:05.035Z"
+generated_at: "2026-03-29T18:47:07.399Z"
 ---
 
 # § 652. Cybersecurity and Infrastructure Security Agency
 
 - **(a)**
-  - **(1)** The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018 , be known as the “Cybersecurity and Infrastructure Security Agency”.
+  - **(1)** The National Protection and Programs Directorate of the Department shall, on and after November 16, 2018 , be known as the “Cybersecurity and Infrastructure Security Agency” (in this part referred to as the “Agency”).
   - **(2)** Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Security Agency of the Department.
 - **(b)**
-  - **(1)** The Agency shall be headed by the Director, who shall report to the Secretary.
+  - **(1)** The Agency shall be headed by a Director of Cybersecurity and Infrastructure Security (in this part referred to as the “Director”), who shall report to the Secretary.
   - **(2)**
     - **(A)** The Director shall be appointed from among individuals who have—
       - **(i)** extensive knowledge in at least two of the areas specified in subparagraph (B); and
@@ -23,7 +23,7 @@ generated_at: "2026-03-29T02:10:05.035Z"
       - **(i)** Cybersecurity.
       - **(ii)** Infrastructure security.
       - **(iii)** Security risk management.
-  - **(3)** Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018 , in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of the Cybersecurity and Infrastructure Security Agency.
+  - **(3)** Any reference to an Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and any other related program of the Department as described in section 113(a)(1)(H) of this title as in effect on the day before November 16, 2018 , in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Director of Cybersecurity and Infrastructure Security of the Department.
 - **(c)** The Director shall—
   - **(1)** lead cybersecurity and critical infrastructure security programs, operations, and associated policy for the Agency, including national cybersecurity asset response activities;
   - **(2)** coordinate with Federal entities, including Sector-Specific Agencies, and non-Federal entities, including international entities, to carry out the cybersecurity and critical infrastructure activities of the Agency, as appropriate;
@@ -41,7 +41,7 @@ generated_at: "2026-03-29T02:10:05.035Z"
   - **(12)** appoint a Cybersecurity State Coordinator in each State, as described in section 665c of this title ;
   - **(13)** carry out the duties and authorities relating to the .gov internet domain, as described in section 665 of this title ; and
   - **(14)** carry out such other duties and powers prescribed by law or delegated by the Secretary.
-- **(d)** There shall be in the Agency a Deputy Director of the Cybersecurity and Infrastructure Security Agency who shall—
+- **(d)** There shall be in the Agency a Deputy Director of Cybersecurity and Infrastructure Security who shall—
   - **(1)** assist the Director in the management of the Agency; and
   - **(2)** report to the Director.
 - **(e)**
@@ -92,9 +92,9 @@ generated_at: "2026-03-29T02:10:05.035Z"
     - **(C)** The Secretary and the head of a Federal agency described in subparagraph (B) may enter into agreements for the purpose of detailing personnel under this paragraph.
     - **(D)** The detail of personnel under this paragraph may be on a reimbursable or non-reimbursable basis.
 - **(f)** The Agency shall be composed of the following divisions:
-  - **(1)** The Cybersecurity Division, headed by an Executive Assistant Director.
-  - **(2)** The Infrastructure Security Division, headed by an Executive Assistant Director.
-  - **(3)** The Emergency Communications Division under subchapter XIII, headed by an Executive Assistant Director.
+  - **(1)** The Cybersecurity Division, headed by an Assistant Director.
+  - **(2)** The Infrastructure Security Division, headed by an Assistant Director.
+  - **(3)** The Emergency Communications Division under subchapter XIII, headed by an Assistant Director.
 - **(g)**
   - **(1)** To the maximum extent practicable, the Director shall examine the establishment of central locations in geographical regions with a significant Agency presence.
   - **(2)** When establishing the central locations described in paragraph (1), the Director shall coordinate with component heads and the Under Secretary for Management to co-locate or partner on any new real property leases, renewing any occupancy agreements for existing leases, or agreeing to extend or newly occupy any Federal space or new construction.

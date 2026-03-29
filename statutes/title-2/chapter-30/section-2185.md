@@ -5,7 +5,7 @@ usc_section: "2185"
 chapter: 30
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 2185"
-generated_at: "2026-03-29T18:23:14.144Z"
+generated_at: "2026-03-29T19:27:07.582Z"
 ---
 
 # § 2185. Estimates for improvements in grounds

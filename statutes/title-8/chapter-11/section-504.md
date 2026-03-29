@@ -5,7 +5,7 @@ usc_section: "504"
 chapter: 11
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 504"
-generated_at: "2026-03-29T18:23:33.914Z"
+generated_at: "2026-03-29T19:27:14.425Z"
 ---
 
 # §§ 501 to 504. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42), 66 Stat. 280 , eff. Dec. 24, 1952

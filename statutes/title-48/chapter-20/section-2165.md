@@ -5,7 +5,7 @@ usc_section: "2165"
 chapter: 20
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 2165"
-generated_at: "2026-03-29T18:27:11.700Z"
+generated_at: "2026-03-29T19:31:53.988Z"
 ---
 
 # § 2165. Limitation on jurisdiction and powers of court

@@ -5,7 +5,7 @@ usc_section: "3a"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-29T18:27:03.072Z"
+generated_at: "2026-03-29T19:31:44.663Z"
 ---
 
 # § 1395w–3a. Use of average sales price payment methodology

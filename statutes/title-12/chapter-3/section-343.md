@@ -5,7 +5,7 @@ usc_section: "343"
 chapter: 3
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 343"
-generated_at: "2026-03-29T18:24:02.746Z"
+generated_at: "2026-03-29T19:28:17.503Z"
 ---
 
 # § 343. Discount of obligations arising out of actual commercial transactions

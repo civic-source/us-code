@@ -5,7 +5,7 @@ usc_section: "1905"
 chapter: 21
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1905"
-generated_at: "2026-03-29T18:25:43.126Z"
+generated_at: "2026-03-29T19:30:07.628Z"
 ---
 
 # § 1905. Definitions

@@ -5,7 +5,7 @@ usc_section: "628"
 chapter: 6
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 628"
-generated_at: "2026-03-29T18:24:02.759Z"
+generated_at: "2026-03-29T19:28:17.517Z"
 ---
 
 # § 628. Extension of corporate existence

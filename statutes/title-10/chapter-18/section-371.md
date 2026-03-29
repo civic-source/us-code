@@ -5,7 +5,7 @@ usc_section: "371"
 chapter: 18
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 371"
-generated_at: "2026-03-29T18:23:51.736Z"
+generated_at: "2026-03-29T19:27:25.437Z"
 ---
 
 # § 371. Use of information collected during military operations

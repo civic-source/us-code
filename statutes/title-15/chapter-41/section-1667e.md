@@ -5,7 +5,7 @@ usc_section: "1667e"
 chapter: 41
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1667e"
-generated_at: "2026-03-29T18:24:08.479Z"
+generated_at: "2026-03-29T19:27:55.452Z"
 ---
 
 # § 1667e. Applicability of State laws; exemptions by Bureau from leasing requirements

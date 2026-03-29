@@ -5,7 +5,7 @@ usc_section: "541b"
 chapter: 12
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 541b"
-generated_at: "2026-03-29T18:25:30.863Z"
+generated_at: "2026-03-29T19:30:05.238Z"
 ---
 
 # § 541b. Mining, removal, and disposal of lignite

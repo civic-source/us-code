@@ -5,7 +5,7 @@ usc_section: "192"
 chapter: 12
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 192"
-generated_at: "2026-03-29T18:27:35.588Z"
+generated_at: "2026-03-29T19:32:24.094Z"
 ---
 
 # § 192. Seizure and forfeiture of vessel; fine and imprisonment

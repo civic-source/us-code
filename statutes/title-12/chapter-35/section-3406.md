@@ -5,7 +5,7 @@ usc_section: "3406"
 chapter: 35
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3406"
-generated_at: "2026-03-29T18:24:03.003Z"
+generated_at: "2026-03-29T19:28:17.779Z"
 ---
 
 # § 3406. Search warrants

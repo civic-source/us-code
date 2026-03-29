@@ -5,7 +5,7 @@ usc_section: "5013a"
 chapter: 503
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5013a"
-generated_at: "2026-03-29T18:23:52.039Z"
+generated_at: "2026-03-29T19:27:25.672Z"
 ---
 
 # § 5013a. Secretary of the Navy: powers with respect to Coast Guard

@@ -5,7 +5,7 @@ usc_section: "364"
 chapter: 11
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 364"
-generated_at: "2026-03-29T18:26:14.785Z"
+generated_at: "2026-03-29T19:31:49.031Z"
 ---
 
 # § 364. Uniformity in geographic nomenclature and orthography; exercise of functions of Secretary of the Interior

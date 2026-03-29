@@ -5,7 +5,7 @@ usc_section: "4345"
 chapter: 55
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4345"
-generated_at: "2026-03-29T18:27:03.573Z"
+generated_at: "2026-03-29T19:31:45.155Z"
 ---
 
 # § 4345. Consultation with Citizens’ Advisory Committee on Environmental Quality and other representatives

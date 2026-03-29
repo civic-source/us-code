@@ -5,7 +5,7 @@ usc_section: "1207a"
 chapter: 61
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1207a"
-generated_at: "2026-03-29T18:23:51.807Z"
+generated_at: "2026-03-29T19:27:25.520Z"
 ---
 
 # § 1207a. Members with over eight years of active service: eligibility for disability retirement for pre-existing conditions

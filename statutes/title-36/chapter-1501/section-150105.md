@@ -5,7 +5,7 @@ usc_section: "150105"
 chapter: 1501
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 150105"
-generated_at: "2026-03-29T18:26:09.291Z"
+generated_at: "2026-03-29T19:30:42.078Z"
 ---
 
 # § 150105. Membership

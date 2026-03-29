@@ -5,7 +5,7 @@ usc_section: "1749c"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1749c"
-generated_at: "2026-03-29T18:24:02.868Z"
+generated_at: "2026-03-29T19:28:17.632Z"
 ---
 
 # §§ 1749 to 1749c. Repealed. Pub. L. 99–498, title VII , § 702, Oct. 17, 1986 , 100 Stat. 1545

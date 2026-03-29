@@ -5,7 +5,7 @@ usc_section: "704"
 chapter: 7
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 704"
-generated_at: "2026-03-29T18:24:28.487Z"
+generated_at: "2026-03-29T19:28:20.877Z"
 ---
 
 # § 704. Retention and disposition of articles deposited in Copyright Office

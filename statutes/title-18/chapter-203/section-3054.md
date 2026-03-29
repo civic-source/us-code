@@ -5,7 +5,7 @@ usc_section: "3054"
 chapter: 203
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3054"
-generated_at: "2026-03-29T18:24:43.859Z"
+generated_at: "2026-03-29T19:28:33.878Z"
 ---
 
 # [§ 3054. Repealed. Pub. L. 97–79 , § 9(b)(3), Nov. 16, 1981 , 95 Stat. 1079 ]

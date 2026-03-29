@@ -5,7 +5,7 @@ usc_section: "5195a"
 chapter: 68
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5195a"
-generated_at: "2026-03-29T18:27:03.627Z"
+generated_at: "2026-03-29T19:31:45.210Z"
 ---
 
 # § 5195a. Definitions

@@ -5,7 +5,7 @@ usc_section: "2362"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2362"
-generated_at: "2026-03-29T18:23:51.933Z"
+generated_at: "2026-03-29T19:27:25.596Z"
 ---
 
 # § 2362. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education

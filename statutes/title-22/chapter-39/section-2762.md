@@ -5,7 +5,7 @@ usc_section: "2762"
 chapter: 39
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2762"
-generated_at: "2026-03-29T18:24:54.260Z"
+generated_at: "2026-03-29T19:29:46.814Z"
 ---
 
 # § 2762. Procurement for cash sales

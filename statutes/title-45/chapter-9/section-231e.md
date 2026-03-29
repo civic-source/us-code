@@ -5,7 +5,7 @@ usc_section: "231e"
 chapter: 9
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 231e"
-generated_at: "2026-03-29T18:26:13.286Z"
+generated_at: "2026-03-29T19:31:12.216Z"
 ---
 
 # § 231e. Lump sum payments

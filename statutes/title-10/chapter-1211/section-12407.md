@@ -5,7 +5,7 @@ usc_section: "12407"
 chapter: 1211
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 12407"
-generated_at: "2026-03-29T18:23:52.115Z"
+generated_at: "2026-03-29T19:27:25.732Z"
 ---
 
 # § 12407. National Guard in Federal service: period of service; apportionment

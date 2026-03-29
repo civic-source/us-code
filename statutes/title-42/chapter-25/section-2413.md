@@ -5,7 +5,7 @@ usc_section: "2413"
 chapter: 25
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2413"
-generated_at: "2026-03-29T18:27:03.466Z"
+generated_at: "2026-03-29T19:31:45.048Z"
 ---
 
 # §§ 2401 to 2413. Repealed. Pub. L. 90–448, title XIII , § 1303(c), Aug. 1, 1968 , 82 Stat. 573

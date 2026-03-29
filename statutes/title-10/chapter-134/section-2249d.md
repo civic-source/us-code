@@ -5,7 +5,7 @@ usc_section: "2249d"
 chapter: 134
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2249d"
-generated_at: "2026-03-29T18:23:51.894Z"
+generated_at: "2026-03-29T19:27:25.574Z"
 ---
 
 # § 2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces

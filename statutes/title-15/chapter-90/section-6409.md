@@ -5,7 +5,7 @@ usc_section: "6409"
 chapter: 90
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6409"
-generated_at: "2026-03-29T18:24:08.626Z"
+generated_at: "2026-03-29T19:27:55.582Z"
 ---
 
 # § 6409. Pricing

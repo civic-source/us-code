@@ -3,9 +3,9 @@ title: "Section 9626 - Aircraft supplies and services: foreign military or other
 usc_title: 10
 usc_section: "9626"
 chapter: 969
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9626"
-generated_at: "2026-03-29T02:10:45.352Z"
+generated_at: "2026-03-29T18:47:53.601Z"
 ---
 
 # § 9626. Aircraft supplies and services: foreign military or other state aircraft

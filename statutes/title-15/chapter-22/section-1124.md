@@ -5,7 +5,7 @@ usc_section: "1124"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1124"
-generated_at: "2026-03-29T18:24:08.431Z"
+generated_at: "2026-03-29T19:27:55.406Z"
 ---
 
 # § 1124. Importation of goods bearing infringing marks or names forbidden

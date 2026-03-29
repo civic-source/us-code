@@ -5,7 +5,7 @@ usc_section: "208"
 chapter: 2
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 208"
-generated_at: "2026-03-29T18:24:02.735Z"
+generated_at: "2026-03-29T19:28:17.493Z"
 ---
 
 # §§ 207, 208. Repealed. Pub. L. 101–73, title VIII , § 808, Aug. 9, 1989 , 103 Stat. 446

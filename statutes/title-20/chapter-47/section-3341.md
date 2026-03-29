@@ -5,7 +5,7 @@ usc_section: "3341"
 chapter: 47
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 3341"
-generated_at: "2026-03-29T18:24:41.079Z"
+generated_at: "2026-03-29T19:28:43.125Z"
 ---
 
 # § 3341. Omitted

@@ -5,7 +5,7 @@ usc_section: "43"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 43"
-generated_at: "2026-03-29T18:25:53.383Z"
+generated_at: "2026-03-29T19:30:19.652Z"
 ---
 
 # § 43. Enhanced oil recovery credit

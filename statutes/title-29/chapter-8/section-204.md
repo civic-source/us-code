@@ -5,7 +5,7 @@ usc_section: "204"
 chapter: 8
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 204"
-generated_at: "2026-03-29T18:25:43.009Z"
+generated_at: "2026-03-29T19:30:07.509Z"
 ---
 
 # § 204. Administration

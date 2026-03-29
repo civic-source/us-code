@@ -3,9 +3,9 @@ title: "Section 2658a - Foreign Affairs Manual and Foreign Affairs Handbook chan
 usc_title: 22
 usc_section: "2658a"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2658a"
-generated_at: "2026-03-29T02:12:40.227Z"
+generated_at: "2026-03-29T18:44:49.356Z"
 ---
 
 # § 2658a. Foreign Affairs Manual and Foreign Affairs Handbook changes
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T02:12:40.227Z"
 - **(a)** The Foreign Affairs Manual and the Foreign Affairs Handbook apply with equal force and effect and without exception to all Department of State personnel, including the Secretary of State, Department employees, and political appointees, regardless of an individual’s status as a Foreign Service officer, Civil Service employee, or political appointee hired under any legal authority.
 - **(b)** Not later than 30 days after December 27, 2021 , the Secretary of State shall submit to the appropriate congressional committees a certification in unclassified form that the applicability described in subsection (a) has been communicated to all Department personnel, including the personnel referred to in such subsection.
 - **(c)**
-  - **(1)** Not later than 180 days after December 27, 2021 , and every 180 days thereafter for 8 years, the Secretary shall submit to the appropriate congressional committees a report detailing all significant changes made to the Foreign Affairs Manual or the Foreign Affairs Handbook.
+  - **(1)** Not later than 180 days after December 27, 2021 , and every 180 days thereafter for 5 years, the Secretary shall submit to the appropriate congressional committees a report detailing all significant changes made to the Foreign Affairs Manual or the Foreign Affairs Handbook.
   - **(2)** The first report required under paragraph (1) shall cover the 5-year period preceding the submission of such report. Each subsequent report shall cover the 180-day period preceding submission.
   - **(3)** Each report required under paragraph (1) shall contain the following:
     - **(A)** The location within the Foreign Affairs Manual or the Foreign Affairs Handbook where a change has been made.

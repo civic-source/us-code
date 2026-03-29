@@ -5,7 +5,7 @@ usc_section: "168"
 chapter: 5
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 168"
-generated_at: "2026-03-29T18:23:14.053Z"
+generated_at: "2026-03-29T19:27:07.503Z"
 ---
 
 # § 168. Constitution of the United States; preparation and publication of revised edition; annotations; supplements; decennial editions and supplements

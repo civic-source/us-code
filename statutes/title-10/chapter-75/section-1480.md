@@ -5,7 +5,7 @@ usc_section: "1480"
 chapter: 75
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1480"
-generated_at: "2026-03-29T18:23:51.837Z"
+generated_at: "2026-03-29T19:27:25.537Z"
 ---
 
 # § 1480. Death gratuity: miscellaneous provisions

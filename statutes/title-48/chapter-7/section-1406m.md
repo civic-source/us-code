@@ -5,7 +5,7 @@ usc_section: "1406m"
 chapter: 7
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1406m"
-generated_at: "2026-03-29T18:27:11.650Z"
+generated_at: "2026-03-29T19:31:53.948Z"
 ---
 
 # § 1406m. Short title

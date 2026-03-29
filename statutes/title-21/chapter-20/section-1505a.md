@@ -5,7 +5,7 @@ usc_section: "1505a"
 chapter: 20
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1505a"
-generated_at: "2026-03-29T18:25:04.235Z"
+generated_at: "2026-03-29T19:29:50.497Z"
 ---
 
 # § 1505a. Annual report on development and deployment of narcotics detection technologies

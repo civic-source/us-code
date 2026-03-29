@@ -5,7 +5,7 @@ usc_section: "1209"
 chapter: 12
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 1209"
-generated_at: "2026-03-29T18:23:29.862Z"
+generated_at: "2026-03-29T19:27:05.235Z"
 ---
 
 # [§ 1209. Renumbered §§ 1205 and 1206]

@@ -5,7 +5,7 @@ usc_section: "9711"
 chapter: 945
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 9711"
-generated_at: "2026-03-29T18:23:52.100Z"
+generated_at: "2026-03-29T19:27:25.717Z"
 ---
 
 # [§ 9711. Repealed. Pub. L. 106–65, div. A, title VII , § 721(b), Oct. 5, 1999 , 113 Stat. 694 ]

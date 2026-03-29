@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 4
 current_through: "PL 114-254"
 classification: "4 U.S.C. § 102"
-generated_at: "2026-03-29T18:23:16.544Z"
+generated_at: "2026-03-29T19:27:00.334Z"
 ---
 
 # § 102. Same; by whom administered

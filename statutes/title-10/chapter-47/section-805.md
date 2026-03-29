@@ -5,7 +5,7 @@ usc_section: "805"
 chapter: 47
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 805"
-generated_at: "2026-03-29T18:23:51.760Z"
+generated_at: "2026-03-29T19:27:25.467Z"
 ---
 
 # § 805. Art. 5. Territorial applicability of this chapter

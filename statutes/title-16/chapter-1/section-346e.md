@@ -5,7 +5,7 @@ usc_section: "346e"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 346e"
-generated_at: "2026-03-29T18:24:22.449Z"
+generated_at: "2026-03-29T19:29:27.068Z"
 ---
 
 # § 346e. Authorization for park facilities to be located outside the boundaries of Zion National Park and Yosemite National Park

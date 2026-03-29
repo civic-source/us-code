@@ -1,14 +1,19 @@
 ---
-title: "Section 314 - Captains of the port"
+title: "Section 314 - Marine industry training program"
 usc_title: 14
 usc_section: "314"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 314"
-generated_at: "2026-03-29T02:11:23.772Z"
+generated_at: "2026-03-29T18:48:09.810Z"
 ---
 
-# § 314. Captains of the port
+# § 314. Marine industry training program
 
-Any officer, including any petty officer, may be designated by the Commandant as captain of the port or ports or adjacent high seas or waters over which the United States has jurisdiction, as the Commandant deems necessary to facilitate execution of Coast Guard duties.
+The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
 
+  - **(1)** with regard to an employee of the Coast Guard, shall include provisions, consistent with sections 3702 through 3704 of title 5, as to matters concerning—
+    - **(A)** the duration and termination of assignments;
+    - **(B)** reimbursements; and
+    - **(C)** status, entitlements, benefits, and obligations of program participants; and
+  - **(2)** shall require the Commandant, before approving the assignment of an officer, member, or employee of the Coast Guard to a private entity, to determine that the assignment is an effective use of the Coast Guard’s funds, taking into account the best interests of the Coast Guard and the costs and benefits of alternative methods of achieving the same results and objectives.

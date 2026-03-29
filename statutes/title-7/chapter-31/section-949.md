@@ -5,7 +5,7 @@ usc_section: "949"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 949"
-generated_at: "2026-03-29T18:23:43.231Z"
+generated_at: "2026-03-29T19:27:31.708Z"
 ---
 
 # § 949. Telephone bank receipts; availability for obligations and expenditures

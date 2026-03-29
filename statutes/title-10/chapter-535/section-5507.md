@@ -5,7 +5,7 @@ usc_section: "5507"
 chapter: 535
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5507"
-generated_at: "2026-03-29T18:23:52.047Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # [§ 5507. Repealed. Pub. L. 87–649 , § 14c(26), Sept. 7, 1962 , 76 Stat. 501 ]

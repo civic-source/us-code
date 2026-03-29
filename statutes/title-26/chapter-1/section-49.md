@@ -5,7 +5,7 @@ usc_section: "49"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 49"
-generated_at: "2026-03-29T18:25:53.399Z"
+generated_at: "2026-03-29T19:30:19.669Z"
 ---
 
 # § 49. At-risk rules

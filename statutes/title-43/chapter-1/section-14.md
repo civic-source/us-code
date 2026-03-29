@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 1
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-29T18:26:14.770Z"
+generated_at: "2026-03-29T19:31:49.018Z"
 ---
 
 # § 14. Returns relative to lands

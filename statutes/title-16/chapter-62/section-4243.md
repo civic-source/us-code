@@ -5,7 +5,7 @@ usc_section: "4243"
 chapter: 62
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 4243"
-generated_at: "2026-03-29T18:24:22.905Z"
+generated_at: "2026-03-29T19:29:27.588Z"
 ---
 
 # § 4243. Repealed. Pub. L. 107–111 , § 6(a)(3), Jan. 8, 2002 , 115 Stat. 2096

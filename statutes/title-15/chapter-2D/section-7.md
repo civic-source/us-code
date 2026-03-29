@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 2
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-29T18:24:08.318Z"
+generated_at: "2026-03-29T19:27:55.291Z"
 ---
 
 # § 80b–7. Material misstatements

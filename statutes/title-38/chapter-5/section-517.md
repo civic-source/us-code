@@ -5,7 +5,7 @@ usc_section: "517"
 chapter: 5
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 517"
-generated_at: "2026-03-29T18:26:07.542Z"
+generated_at: "2026-03-29T19:30:40.460Z"
 ---
 
 # § 517. Quarterly reports to Congress on conferences sponsored by the Department

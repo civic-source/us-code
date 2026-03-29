@@ -5,7 +5,7 @@ usc_section: "6632"
 chapter: 65
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 6632"
-generated_at: "2026-03-29T18:23:14.175Z"
+generated_at: "2026-03-29T19:27:07.609Z"
 ---
 
 # § 6632. Disposal of used or surplus automobiles and trucks by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts

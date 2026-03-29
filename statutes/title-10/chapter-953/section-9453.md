@@ -3,12 +3,12 @@ title: "Section 9453 - Cadets: degree and commission on graduation"
 usc_title: 10
 usc_section: "9453"
 chapter: 953
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9453"
-generated_at: "2026-03-29T02:10:45.344Z"
+generated_at: "2026-03-29T18:47:53.595Z"
 ---
 
 # § 9453. Cadets: degree and commission on graduation
 
 - **(a)** The Superintendent of the Academy may, under such conditions as the Secretary of the Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
-- **(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under section 531 of this title or a second lieutenant in the Space Force under section 531 or 20201 of this title.
+- **(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force or in the equivalent grade in the Regular Space Force under section 531 of this title .

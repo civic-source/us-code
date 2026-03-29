@@ -5,7 +5,7 @@ usc_section: "2691"
 chapter: 38
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2691"
-generated_at: "2026-03-29T18:24:54.248Z"
+generated_at: "2026-03-29T19:29:46.803Z"
 ---
 
 # § 2691. Repealed. Pub. L. 101–649, title VI , § 603(a)(18), Nov. 29, 1990 , 104 Stat. 5084

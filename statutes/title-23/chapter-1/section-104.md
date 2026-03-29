@@ -5,7 +5,7 @@ usc_section: "104"
 chapter: 1
 current_through: "PL 114-254"
 classification: "23 U.S.C. § 104"
-generated_at: "2026-03-29T18:25:00.166Z"
+generated_at: "2026-03-29T19:29:58.387Z"
 ---
 
 # § 104. Apportionment

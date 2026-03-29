@@ -5,7 +5,7 @@ usc_section: "3301"
 chapter: 33
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 3301"
-generated_at: "2026-03-29T18:26:04.565Z"
+generated_at: "2026-03-29T19:30:36.688Z"
 ---
 
 # § 3301. Definitions and nonapplication

@@ -5,7 +5,7 @@ usc_section: "12655e"
 chapter: 129
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12655e"
-generated_at: "2026-03-29T18:27:04.080Z"
+generated_at: "2026-03-29T19:31:45.677Z"
 ---
 
 # § 12655e. Public lands or Indian lands

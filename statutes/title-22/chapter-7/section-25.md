@@ -5,7 +5,7 @@ usc_section: "25"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 25"
-generated_at: "2026-03-29T18:24:54.109Z"
+generated_at: "2026-03-29T19:29:46.659Z"
 ---
 
 # § 277d–25. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "1590"
 chapter: 81
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1590"
-generated_at: "2026-03-29T18:23:51.852Z"
+generated_at: "2026-03-29T19:27:25.547Z"
 ---
 
 # [§ 1590. Repealed. Pub. L. 104–201, div. A, title XVI , § 1633(a), Sept. 23, 1996 , 110 Stat. 2751 ]

@@ -5,7 +5,7 @@ usc_section: "451a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 451a"
-generated_at: "2026-03-29T18:26:14.805Z"
+generated_at: "2026-03-29T19:31:49.051Z"
 ---
 
 # § 451a. Persons eligible for benefits

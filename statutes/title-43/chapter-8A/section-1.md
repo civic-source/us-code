@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 8
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-29T18:26:14.782Z"
+generated_at: "2026-03-29T19:31:49.029Z"
 ---
 
 # § 315o–1. Board of grazing district advisers; composition; meetings; duties

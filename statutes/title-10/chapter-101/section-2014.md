@@ -5,7 +5,7 @@ usc_section: "2014"
 chapter: 101
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2014"
-generated_at: "2026-03-29T18:23:51.870Z"
+generated_at: "2026-03-29T19:27:25.557Z"
 ---
 
 # § 2014. Administrative actions adversely affecting military training or other readiness activities

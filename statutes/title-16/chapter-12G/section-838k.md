@@ -5,7 +5,7 @@ usc_section: "838k"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 838k"
-generated_at: "2026-03-29T18:24:22.740Z"
+generated_at: "2026-03-29T19:29:27.397Z"
 ---
 
 # § 838k. Bonneville Power Administration bonds

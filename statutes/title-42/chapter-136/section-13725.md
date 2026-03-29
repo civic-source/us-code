@@ -5,7 +5,7 @@ usc_section: "13725"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13725"
-generated_at: "2026-03-29T18:27:04.133Z"
+generated_at: "2026-03-29T19:31:45.738Z"
 ---
 
 # § 13725. Correctional job training and placement

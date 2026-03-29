@@ -5,7 +5,7 @@ usc_section: "8105"
 chapter: 90
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8105"
-generated_at: "2026-03-29T18:27:03.868Z"
+generated_at: "2026-03-29T19:31:45.456Z"
 ---
 
 # § 8105. Powers and duties of corporation

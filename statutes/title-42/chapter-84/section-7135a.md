@@ -5,7 +5,7 @@ usc_section: "7135a"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7135a"
-generated_at: "2026-03-29T18:27:03.759Z"
+generated_at: "2026-03-29T19:31:45.345Z"
 ---
 
 # § 7135a. Delegation by Secretary of Energy of energy research, etc., functions to Administrator of Energy Information Administration; prohibition against required delegation; utilization of capabilities by Secretary

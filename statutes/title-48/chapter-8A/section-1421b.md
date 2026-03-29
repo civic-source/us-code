@@ -5,7 +5,7 @@ usc_section: "1421b"
 chapter: 8
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1421b"
-generated_at: "2026-03-29T18:27:11.652Z"
+generated_at: "2026-03-29T19:31:53.949Z"
 ---
 
 # § 1421b. Bill of rights

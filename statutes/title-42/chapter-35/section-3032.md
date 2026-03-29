@@ -5,7 +5,7 @@ usc_section: "3032"
 chapter: 35
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3032"
-generated_at: "2026-03-29T18:27:03.489Z"
+generated_at: "2026-03-29T19:31:45.072Z"
 ---
 
 # § 3032. Program authorized

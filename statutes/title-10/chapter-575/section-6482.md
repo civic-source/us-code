@@ -5,7 +5,7 @@ usc_section: "6482"
 chapter: 575
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 6482"
-generated_at: "2026-03-29T18:23:52.057Z"
+generated_at: "2026-03-29T19:27:25.685Z"
 ---
 
 # [§ 6482. Repealed. Pub. L. 98–525, title V , § 533(f)(1), Oct. 19, 1984 , 98 Stat. 2528 ]

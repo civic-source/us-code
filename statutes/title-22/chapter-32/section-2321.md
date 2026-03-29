@@ -5,7 +5,7 @@ usc_section: "2321"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2321"
-generated_at: "2026-03-29T18:24:54.205Z"
+generated_at: "2026-03-29T19:29:46.763Z"
 ---
 
 # §§ 2319 to 2321. Repealed. Pub. L. 93–189 , § 12(b)(5), Dec. 17, 1973 , 87 Stat. 722

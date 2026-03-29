@@ -5,7 +5,7 @@ usc_section: "3773"
 chapter: 51
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3773"
-generated_at: "2026-03-29T18:24:54.290Z"
+generated_at: "2026-03-29T19:29:46.840Z"
 ---
 
 # § 3773. Measure of damages generally

@@ -5,7 +5,7 @@ usc_section: "3912"
 chapter: 50
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 3912"
-generated_at: "2026-03-29T18:27:35.714Z"
+generated_at: "2026-03-29T19:32:24.268Z"
 ---
 
 # § 3912. Jurisdiction and applicability of chapter

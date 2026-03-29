@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 123
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 1"
-generated_at: "2026-03-29T18:25:32.949Z"
+generated_at: "2026-03-29T19:30:04.391Z"
 ---
 
 # § 1932. 1 1 Another section 1932 is set out preceding this section. Revocation of earned release credit

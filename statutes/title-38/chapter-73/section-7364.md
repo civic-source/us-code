@@ -5,7 +5,7 @@ usc_section: "7364"
 chapter: 73
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 7364"
-generated_at: "2026-03-29T18:26:07.662Z"
+generated_at: "2026-03-29T19:30:40.573Z"
 ---
 
 # § 7364. General powers

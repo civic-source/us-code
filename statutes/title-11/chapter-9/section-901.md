@@ -5,7 +5,7 @@ usc_section: "901"
 chapter: 9
 current_through: "PL 114-254"
 classification: "11 U.S.C. § 901"
-generated_at: "2026-03-29T18:23:58.115Z"
+generated_at: "2026-03-29T19:28:02.024Z"
 ---
 
 # § 901. Applicability of other sections of this title

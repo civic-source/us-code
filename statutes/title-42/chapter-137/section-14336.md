@@ -5,7 +5,7 @@ usc_section: "14336"
 chapter: 137
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14336"
-generated_at: "2026-03-29T18:27:04.169Z"
+generated_at: "2026-03-29T19:31:45.777Z"
 ---
 
 # § 14336. New product or use

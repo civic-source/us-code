@@ -5,7 +5,7 @@ usc_section: "1408"
 chapter: 7
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1408"
-generated_at: "2026-03-29T18:27:11.650Z"
+generated_at: "2026-03-29T19:31:53.948Z"
 ---
 
 # § 1408. Legislative authority to create authorities; appointment of members; powers of authorities

@@ -5,7 +5,7 @@ usc_section: "254"
 chapter: 25
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 254"
-generated_at: "2026-03-29T18:25:56.890Z"
+generated_at: "2026-03-29T19:30:29.303Z"
 ---
 
 # § 254. Certificate of correction of Patent and Trademark Office mistake

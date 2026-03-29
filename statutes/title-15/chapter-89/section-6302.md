@@ -5,7 +5,7 @@ usc_section: "6302"
 chapter: 89
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6302"
-generated_at: "2026-03-29T18:24:08.624Z"
+generated_at: "2026-03-29T19:27:55.579Z"
 ---
 
 # § 6302. Purposes

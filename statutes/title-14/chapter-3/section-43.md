@@ -5,7 +5,7 @@ usc_section: "43"
 chapter: 3
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 43"
-generated_at: "2026-03-29T18:23:55.764Z"
+generated_at: "2026-03-29T19:27:45.897Z"
 ---
 
 # [§ 43. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641 ]

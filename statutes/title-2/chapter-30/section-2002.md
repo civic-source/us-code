@@ -5,7 +5,7 @@ usc_section: "2002"
 chapter: 30
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 2002"
-generated_at: "2026-03-29T18:23:14.133Z"
+generated_at: "2026-03-29T19:27:07.574Z"
 ---
 
 # § 2002. Acquisition of buildings and facilities for use in emergency situation

@@ -3,9 +3,9 @@ title: "Section 681 - Definitions"
 usc_title: 6
 usc_section: "681"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 681"
-generated_at: "2026-03-29T02:10:05.052Z"
+generated_at: "2026-03-29T18:47:07.413Z"
 ---
 
 # § 681. Definitions
@@ -13,17 +13,31 @@ generated_at: "2026-03-29T02:10:05.052Z"
 In this part:
 
   - **(1)** The term “Center” means the center established under section 659 of this title .
-  - **(2)** The term “Council” means the Cyber Incident Reporting Council described in section 681f of this title .
-  - **(3)** The term “covered cyber incident” means a substantial cyber incident experienced by a covered entity that satisfies the definition and criteria established by the Director in the final rule issued pursuant to section 681b(b) of this title .
-  - **(4)** The term “covered entity” means an entity in a critical infrastructure sector, as defined in Presidential Policy Directive 21, that satisfies the definition established by the Director in the final rule issued pursuant to section 681b(b) of this title .
-  - **(5)** The term “cyber incident”—
-    - **(A)** has the meaning given the term “incident” in section 659 1 1 See References in Text note below. of this title; and
+  - **(2)** The term “cloud service provider” means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.
+  - **(3)** The term “Council” means the Cyber Incident Reporting Council described in section 681f of this title .
+  - **(4)** The term “covered cyber incident” means a substantial cyber incident experienced by a covered entity that satisfies the definition and criteria established by the Director in the final rule issued pursuant to section 681b(b) of this title .
+  - **(5)** The term “covered entity” means an entity in a critical infrastructure sector, as defined in Presidential Policy Directive 21, that satisfies the definition established by the Director in the final rule issued pursuant to section 681b(b) of this title .
+  - **(6)** The term “cyber incident”—
+    - **(A)** has the meaning given the term “incident” in section 659 of this title ; and
     - **(B)** does not include an occurrence that imminently, but not actually, jeopardizes—
       - **(i)** information on information systems; or
       - **(ii)** information systems.
-  - **(6)** The term “cyber threat” has the meaning given the term “cybersecurity threat” in section 650 of this title .
-  - **(7)** The term “Federal entity” has the meaning given the term in section 1501 of this title .
-  - **(8)** The term “ransom payment” means the transmission of any money or other property or asset, including virtual currency, or any portion thereof, which has at any time been delivered as ransom in connection with a ransomware attack.
-  - **(9)** The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.
-  - **(10)** The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.
-  - **(11)** The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.
+  - **(7)** The term “cyber threat” has the meaning given the term “cybersecurity threat” in section 651 of this title .
+  - **(8)** The terms “cyber threat indicator”, “cybersecurity purpose”, “defensive measure”, “Federal entity”, and “security vulnerability” have the meanings given those terms in section 1501 of this title .
+  - **(9)** The terms “incident” and “sharing” have the meanings given those terms in section 659 of this title .
+  - **(10)** The term “Information Sharing and Analysis Organization” has the meaning given the term in section 671 of this title .
+  - **(11)** The term “information system”—
+    - **(A)** has the meaning given the term in section 3502 of title 44 ; and
+    - **(B)** includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers.
+  - **(12)** The term “managed service provider” means an entity that delivers services, such as network, application, infrastructure, or security services, via ongoing and regular support and active administration on the premises of a customer, in the data center of the entity (such as hosting), or in a third party data center.
+  - **(13)** The term “ransom payment” means the transmission of any money or other property or asset, including virtual currency, or any portion thereof, which has at any time been delivered as ransom in connection with a ransomware attack.
+  - **(14)** The term “ransomware attack”—
+    - **(A)** means an incident that includes the use or threat of use of unauthorized or malicious code on an information system, or the use or threat of use of another digital mechanism such as a denial of service attack, to interrupt or disrupt the operations of an information system or compromise the confidentiality, availability, or integrity of electronic data stored on, processed by, or transiting an information system to extort a demand for a ransom payment; and
+    - **(B)** does not include any such event where the demand for payment is—
+      - **(i)** not genuine; or
+      - **(ii)** made in good faith by an entity in response to a specific request by the owner or operator of the information system.
+  - **(15)** The term “Sector Risk Management Agency” has the meaning given the term in section 651 of this title .
+  - **(16)** The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.
+  - **(17)** The term “supply chain compromise” means an incident within the supply chain of an information system that an adversary can leverage or does leverage to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.
+  - **(18)** The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.
+  - **(19)** The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.

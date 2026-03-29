@@ -5,7 +5,7 @@ usc_section: "1665e"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1665e"
-generated_at: "2026-03-29T18:25:23.742Z"
+generated_at: "2026-03-29T19:29:34.802Z"
 ---
 
 # § 1665e. Licensing requirement for mental health care workers

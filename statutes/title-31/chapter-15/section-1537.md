@@ -5,7 +5,7 @@ usc_section: "1537"
 chapter: 15
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 1537"
-generated_at: "2026-03-29T18:25:59.161Z"
+generated_at: "2026-03-29T19:30:24.764Z"
 ---
 
 # § 1537. Services between the United States Government and the District of Columbia government

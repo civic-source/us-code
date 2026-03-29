@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 16
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1"
-generated_at: "2026-03-29T18:25:43.056Z"
+generated_at: "2026-03-29T19:30:07.557Z"
 ---
 
 # § 796j–1. Training and technical assistance

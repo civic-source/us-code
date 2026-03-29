@@ -5,7 +5,7 @@ usc_section: "1072b"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1072b"
-generated_at: "2026-03-29T18:24:40.929Z"
+generated_at: "2026-03-29T19:28:42.985Z"
 ---
 
 # § 1072b. Agency Operating Fund

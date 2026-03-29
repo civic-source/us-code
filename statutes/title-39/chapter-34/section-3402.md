@@ -5,7 +5,7 @@ usc_section: "3402"
 chapter: 34
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 3402"
-generated_at: "2026-03-29T18:26:03.567Z"
+generated_at: "2026-03-29T19:30:48.551Z"
 ---
 
 # [§ 3402. Repealed. Pub. L. 96–70, title I , § 1331(e)(3)(A), Sept. 27, 1979 , 93 Stat. 482 ]

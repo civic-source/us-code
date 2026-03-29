@@ -5,7 +5,7 @@ usc_section: "3606"
 chapter: 36
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 3606"
-generated_at: "2026-03-29T18:26:16.129Z"
+generated_at: "2026-03-29T19:30:59.126Z"
 ---
 
 # § 3606. E-Government report

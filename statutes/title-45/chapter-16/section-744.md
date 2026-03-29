@@ -5,7 +5,7 @@ usc_section: "744"
 chapter: 16
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 744"
-generated_at: "2026-03-29T18:26:13.314Z"
+generated_at: "2026-03-29T19:31:12.240Z"
 ---
 
 # § 744. Termination and continuation of rail services

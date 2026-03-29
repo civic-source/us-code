@@ -5,7 +5,7 @@ usc_section: "704"
 chapter: 7
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 704"
-generated_at: "2026-03-29T18:24:22.694Z"
+generated_at: "2026-03-29T19:29:27.343Z"
 ---
 
 # § 704. Determination as to when and how migratory birds may be taken, killed, or possessed

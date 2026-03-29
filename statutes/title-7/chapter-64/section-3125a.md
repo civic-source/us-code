@@ -5,7 +5,7 @@ usc_section: "3125a"
 chapter: 64
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3125a"
-generated_at: "2026-03-29T18:23:43.411Z"
+generated_at: "2026-03-29T19:27:31.878Z"
 ---
 
 # § 3125a. National Agricultural Library

@@ -5,7 +5,7 @@ usc_section: "6502"
 chapter: 84
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 6502"
-generated_at: "2026-03-29T18:24:22.931Z"
+generated_at: "2026-03-29T19:29:27.615Z"
 ---
 
 # § 6502. Definitions

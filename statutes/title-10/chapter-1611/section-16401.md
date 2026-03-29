@@ -5,7 +5,7 @@ usc_section: "16401"
 chapter: 1611
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 16401"
-generated_at: "2026-03-29T18:23:52.129Z"
+generated_at: "2026-03-29T19:27:25.747Z"
 ---
 
 # § 16401. Marine Corps Platoon Leaders Class: college tuition assistance program

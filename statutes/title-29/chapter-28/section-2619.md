@@ -5,7 +5,7 @@ usc_section: "2619"
 chapter: 28
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 2619"
-generated_at: "2026-03-29T18:25:43.132Z"
+generated_at: "2026-03-29T19:30:07.634Z"
 ---
 
 # § 2619. Notice

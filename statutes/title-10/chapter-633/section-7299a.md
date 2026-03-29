@@ -5,7 +5,7 @@ usc_section: "7299a"
 chapter: 633
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7299a"
-generated_at: "2026-03-29T18:23:52.065Z"
+generated_at: "2026-03-29T19:27:25.692Z"
 ---
 
 # § 7299a. Construction of combatant and escort vessels and assignment of vessel projects

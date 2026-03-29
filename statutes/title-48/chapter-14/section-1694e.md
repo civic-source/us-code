@@ -5,7 +5,7 @@ usc_section: "1694e"
 chapter: 14
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1694e"
-generated_at: "2026-03-29T18:27:11.670Z"
+generated_at: "2026-03-29T19:31:53.966Z"
 ---
 
 # §§ 1694 to 1694e. Transferred

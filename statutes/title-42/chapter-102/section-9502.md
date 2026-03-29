@@ -5,7 +5,7 @@ usc_section: "9502"
 chapter: 102
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9502"
-generated_at: "2026-03-29T18:27:03.908Z"
+generated_at: "2026-03-29T19:31:45.497Z"
 ---
 
 # § 9502. Repealed. Pub. L. 97–35, title IX , § 902(e)(1), Aug. 13, 1981 , 95 Stat. 560

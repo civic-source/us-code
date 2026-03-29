@@ -5,7 +5,7 @@ usc_section: "2491a"
 chapter: 147
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2491a"
-generated_at: "2026-03-29T18:23:51.966Z"
+generated_at: "2026-03-29T19:27:25.614Z"
 ---
 
 # § 2491a. Department of Defense golf courses: limitation on use of appropriated funds

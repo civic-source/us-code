@@ -5,7 +5,7 @@ usc_section: "3699"
 chapter: 36
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-29T18:26:07.615Z"
+generated_at: "2026-03-29T19:30:40.530Z"
 ---
 
 # [§ 3699. Repealed. Pub. L. 108–183, title III , § 306(e), Dec. 16, 2003 , 117 Stat. 2661 ]

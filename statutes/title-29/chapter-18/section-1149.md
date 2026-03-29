@@ -5,7 +5,7 @@ usc_section: "1149"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1149"
-generated_at: "2026-03-29T18:25:43.095Z"
+generated_at: "2026-03-29T19:30:07.596Z"
 ---
 
 # § 1149. Prohibition on false statements and representations

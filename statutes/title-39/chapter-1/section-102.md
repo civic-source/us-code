@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 1
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 102"
-generated_at: "2026-03-29T18:26:03.550Z"
+generated_at: "2026-03-29T19:30:48.536Z"
 ---
 
 # § 102. Definitions

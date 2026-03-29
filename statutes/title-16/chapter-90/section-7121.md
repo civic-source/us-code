@@ -5,7 +5,7 @@ usc_section: "7121"
 chapter: 90
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 7121"
-generated_at: "2026-03-29T18:24:22.943Z"
+generated_at: "2026-03-29T19:29:27.630Z"
 ---
 
 # § 7121. Definitions

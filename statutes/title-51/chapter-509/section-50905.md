@@ -5,7 +5,7 @@ usc_section: "50905"
 chapter: 509
 current_through: "PL 114-254"
 classification: "51 U.S.C. § 50905"
-generated_at: "2026-03-29T18:27:39.398Z"
+generated_at: "2026-03-29T19:32:32.742Z"
 ---
 
 # § 50905. License applications and requirements

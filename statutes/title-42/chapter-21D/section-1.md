@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-29T18:27:03.416Z"
+generated_at: "2026-03-29T19:31:45.001Z"
 ---
 
 # § 2000dd–1. Protection of United States Government personnel engaged in authorized interrogations

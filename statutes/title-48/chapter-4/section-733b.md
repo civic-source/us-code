@@ -5,7 +5,7 @@ usc_section: "733b"
 chapter: 4
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 733b"
-generated_at: "2026-03-29T18:27:11.638Z"
+generated_at: "2026-03-29T19:31:53.943Z"
 ---
 
 # § 733b. Omitted

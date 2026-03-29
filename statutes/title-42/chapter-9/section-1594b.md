@@ -5,7 +5,7 @@ usc_section: "1594b"
 chapter: 9
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1594b"
-generated_at: "2026-03-29T18:27:03.341Z"
+generated_at: "2026-03-29T19:31:44.935Z"
 ---
 
 # § 1594b. Maintenance and operation of housing; use of quarters; payment of principal, interest, and other obligations

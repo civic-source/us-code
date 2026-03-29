@@ -5,7 +5,7 @@ usc_section: "1103"
 chapter: 22
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1103"
-generated_at: "2026-03-29T18:26:01.216Z"
+generated_at: "2026-03-29T19:30:28.760Z"
 ---
 
 # § 1103. Executive responsibilities; utilization of staff, interagency, and non-Government advisory arrangements; consultation with agencies; solicitation of views of non-Federal agencies

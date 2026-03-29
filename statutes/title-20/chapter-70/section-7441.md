@@ -5,7 +5,7 @@ usc_section: "7441"
 chapter: 70
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 7441"
-generated_at: "2026-03-29T18:24:41.154Z"
+generated_at: "2026-03-29T19:28:43.211Z"
 ---
 
 # § 7441. Improvement of educational opportunities for Indian children and youth

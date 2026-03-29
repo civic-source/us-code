@@ -5,7 +5,7 @@ usc_section: "297x"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 297x"
-generated_at: "2026-03-29T18:27:02.709Z"
+generated_at: "2026-03-29T19:31:44.353Z"
 ---
 
 # § 297x. State and local public service announcements

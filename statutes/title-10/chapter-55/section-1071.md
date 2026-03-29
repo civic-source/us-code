@@ -5,7 +5,7 @@ usc_section: "1071"
 chapter: 55
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1071"
-generated_at: "2026-03-29T18:23:51.786Z"
+generated_at: "2026-03-29T19:27:25.497Z"
 ---
 
 # § 1071. Purpose of this chapter

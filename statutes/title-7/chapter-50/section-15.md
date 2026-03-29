@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 15"
-generated_at: "2026-03-29T18:23:43.349Z"
+generated_at: "2026-03-29T19:27:31.820Z"
 ---
 
 # § 2009cc–15. Removal or suspension of directors or officers

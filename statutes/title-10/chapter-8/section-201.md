@@ -5,7 +5,7 @@ usc_section: "201"
 chapter: 8
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 201"
-generated_at: "2026-03-29T18:23:51.731Z"
+generated_at: "2026-03-29T19:27:25.434Z"
 ---
 
 # § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance

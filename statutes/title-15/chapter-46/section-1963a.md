@@ -5,7 +5,7 @@ usc_section: "1963a"
 chapter: 46
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1963a"
-generated_at: "2026-03-29T18:24:08.512Z"
+generated_at: "2026-03-29T19:27:55.480Z"
 ---
 
 # § 1963a. Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108 Stat. 1379

@@ -5,7 +5,7 @@ usc_section: "8963"
 chapter: 869
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8963"
-generated_at: "2026-03-29T18:23:52.089Z"
+generated_at: "2026-03-29T19:27:25.709Z"
 ---
 
 # § 8963. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct

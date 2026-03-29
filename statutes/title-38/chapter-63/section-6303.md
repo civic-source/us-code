@@ -5,7 +5,7 @@ usc_section: "6303"
 chapter: 63
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 6303"
-generated_at: "2026-03-29T18:26:07.647Z"
+generated_at: "2026-03-29T19:30:40.560Z"
 ---
 
 # § 6303. Outreach services

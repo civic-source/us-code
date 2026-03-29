@@ -5,7 +5,7 @@ usc_section: "603"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 603"
-generated_at: "2026-03-29T18:26:01.181Z"
+generated_at: "2026-03-29T19:30:28.726Z"
 ---
 
 # § 603. Repealed. Mar. 2, 1945, ch. 19 , § 3, 59 Stat. 23

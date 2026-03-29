@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 3
 current_through: "PL 114-254"
 classification: "1 U.S.C. § 202"
-generated_at: "2026-03-29T18:23:11.732Z"
+generated_at: "2026-03-29T19:27:01.459Z"
 ---
 
 # § 202. Preparation and publication of Codes and Supplements

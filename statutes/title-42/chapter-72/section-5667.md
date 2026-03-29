@@ -5,7 +5,7 @@ usc_section: "5667"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5667"
-generated_at: "2026-03-29T18:27:03.654Z"
+generated_at: "2026-03-29T19:31:45.242Z"
 ---
 
 # § 5667. Eligibility

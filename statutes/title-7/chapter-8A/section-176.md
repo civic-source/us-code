@@ -5,7 +5,7 @@ usc_section: "176"
 chapter: 8
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 176"
-generated_at: "2026-03-29T18:23:43.179Z"
+generated_at: "2026-03-29T19:27:31.662Z"
 ---
 
 # § 176. Sale of guayule shrub to Reconstruction Finance Corporation

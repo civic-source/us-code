@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 4
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 202"
-generated_at: "2026-03-29T18:25:00.380Z"
+generated_at: "2026-03-29T19:29:35.068Z"
 ---
 
 # § 202. Repealed. Pub. L. 98–621 , § 10(u), Nov. 8, 1984 , 98 Stat. 3381

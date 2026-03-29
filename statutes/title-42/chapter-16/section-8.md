@@ -5,7 +5,7 @@ usc_section: "8"
 chapter: 16
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-29T18:27:03.387Z"
+generated_at: "2026-03-29T19:31:44.977Z"
 ---
 
 # § 1862p–8. Cyber-enabled learning for national challenges

@@ -5,7 +5,7 @@ usc_section: "50304"
 chapter: 503
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 50304"
-generated_at: "2026-03-29T18:27:18.911Z"
+generated_at: "2026-03-29T19:32:17.362Z"
 ---
 
 # § 50304. Sale and transfer of property

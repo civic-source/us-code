@@ -5,7 +5,7 @@ usc_section: "334"
 chapter: 15
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 334"
-generated_at: "2026-03-29T18:23:51.736Z"
+generated_at: "2026-03-29T19:27:25.436Z"
 ---
 
 # § 334. Proclamation to disperse

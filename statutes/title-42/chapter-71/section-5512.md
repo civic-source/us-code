@@ -5,7 +5,7 @@ usc_section: "5512"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5512"
-generated_at: "2026-03-29T18:27:03.646Z"
+generated_at: "2026-03-29T19:31:45.231Z"
 ---
 
 # § 5512. Small business concerns’ opportunities to participate in programs

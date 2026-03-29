@@ -5,7 +5,7 @@ usc_section: "3196"
 chapter: 209
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3196"
-generated_at: "2026-03-29T18:24:43.867Z"
+generated_at: "2026-03-29T19:28:33.887Z"
 ---
 
 # § 3196. Extradition of United States citizens

@@ -5,7 +5,7 @@ usc_section: "30304"
 chapter: 303
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 30304"
-generated_at: "2026-03-29T18:26:09.275Z"
+generated_at: "2026-03-29T19:30:42.064Z"
 ---
 
 # § 30304. Governing body

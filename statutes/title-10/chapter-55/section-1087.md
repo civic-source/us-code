@@ -5,7 +5,7 @@ usc_section: "1087"
 chapter: 55
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1087"
-generated_at: "2026-03-29T18:23:51.794Z"
+generated_at: "2026-03-29T19:27:25.507Z"
 ---
 
 # § 1087. Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services

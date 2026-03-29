@@ -5,7 +5,7 @@ usc_section: "2076"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2076"
-generated_at: "2026-03-29T18:24:02.955Z"
+generated_at: "2026-03-29T19:28:17.723Z"
 ---
 
 # § 2076. Other services

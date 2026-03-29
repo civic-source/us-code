@@ -5,7 +5,7 @@ usc_section: "5000"
 chapter: 47
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5000"
-generated_at: "2026-03-29T18:25:53.855Z"
+generated_at: "2026-03-29T19:30:20.113Z"
 ---
 
 # § 5000. Certain group health plans

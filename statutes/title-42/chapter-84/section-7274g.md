@@ -5,7 +5,7 @@ usc_section: "7274g"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7274g"
-generated_at: "2026-03-29T18:27:03.766Z"
+generated_at: "2026-03-29T19:31:45.353Z"
 ---
 
 # § 7274g. Environmental restoration and waste management five-year plan and budget reports

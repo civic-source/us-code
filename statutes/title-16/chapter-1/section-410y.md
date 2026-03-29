@@ -5,7 +5,7 @@ usc_section: "410y"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410y"
-generated_at: "2026-03-29T18:24:22.470Z"
+generated_at: "2026-03-29T19:29:27.094Z"
 ---
 
 # § 410y. Definitions

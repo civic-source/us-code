@@ -5,7 +5,7 @@ usc_section: "21c"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 21c"
-generated_at: "2026-03-29T18:24:22.405Z"
+generated_at: "2026-03-29T19:29:27.011Z"
 ---
 
 # § 21c. Section 485 as extending to revised boundaries; lands acquired by exchange

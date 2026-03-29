@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 18
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:55.782Z"
+generated_at: "2026-03-29T19:27:45.916Z"
 ---
 
 # § 681. 1 1 Another section 681 has been enacted in chapter 17 of this title. General authority

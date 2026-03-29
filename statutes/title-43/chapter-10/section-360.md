@@ -5,7 +5,7 @@ usc_section: "360"
 chapter: 10
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 360"
-generated_at: "2026-03-29T18:26:14.784Z"
+generated_at: "2026-03-29T19:31:49.031Z"
 ---
 
 # §§ 357 to 360. Repealed. Pub. L. 88–417 , § 1, Aug. 11, 1964 , 78 Stat. 389

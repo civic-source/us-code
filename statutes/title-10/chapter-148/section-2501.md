@@ -5,7 +5,7 @@ usc_section: "2501"
 chapter: 148
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2501"
-generated_at: "2026-03-29T18:23:51.968Z"
+generated_at: "2026-03-29T19:27:25.615Z"
 ---
 
 # § 2501. National security strategy for national technology and industrial base

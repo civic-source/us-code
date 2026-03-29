@@ -5,7 +5,7 @@ usc_section: "1572"
 chapter: 13
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1572"
-generated_at: "2026-03-29T18:23:33.990Z"
+generated_at: "2026-03-29T19:27:14.521Z"
 ---
 
 # § 1572. Definitions

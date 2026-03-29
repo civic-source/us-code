@@ -5,7 +5,7 @@ usc_section: "5414"
 chapter: 80
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5414"
-generated_at: "2026-03-29T18:24:08.616Z"
+generated_at: "2026-03-29T19:27:55.572Z"
 ---
 
 # § 5414. Repealed. Pub. L. 106–34 , § 10, June 8, 1999 , 113 Stat. 123

@@ -5,7 +5,7 @@ usc_section: "9301"
 chapter: 901
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 9301"
-generated_at: "2026-03-29T18:23:52.090Z"
+generated_at: "2026-03-29T19:27:25.710Z"
 ---
 
 # § 9301. Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals

@@ -5,7 +5,7 @@ usc_section: "1807"
 chapter: 17
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1807"
-generated_at: "2026-03-29T18:27:11.677Z"
+generated_at: "2026-03-29T19:31:53.969Z"
 ---
 
 # § 1807. Technical assistance program

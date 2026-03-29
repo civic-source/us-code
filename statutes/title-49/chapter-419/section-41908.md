@@ -5,7 +5,7 @@ usc_section: "41908"
 chapter: 419
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 41908"
-generated_at: "2026-03-29T18:27:16.590Z"
+generated_at: "2026-03-29T19:32:28.871Z"
 ---
 
 # § 41908. Effect on foreign postal arrangements

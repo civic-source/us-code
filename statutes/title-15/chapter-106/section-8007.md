@@ -5,7 +5,7 @@ usc_section: "8007"
 chapter: 106
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 8007"
-generated_at: "2026-03-29T18:24:08.663Z"
+generated_at: "2026-03-29T19:27:55.617Z"
 ---
 
 # § 8007. CPSC report

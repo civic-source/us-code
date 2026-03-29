@@ -5,7 +5,7 @@ usc_section: "993"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-29T18:25:53.703Z"
+generated_at: "2026-03-29T19:30:19.956Z"
 ---
 
 # § 993. Definitions

@@ -5,7 +5,7 @@ usc_section: "2323"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2323"
-generated_at: "2026-03-29T18:24:16.156Z"
+generated_at: "2026-03-29T19:28:30.728Z"
 ---
 
 # § 2323. Collection and publication of data and reports; information to workers

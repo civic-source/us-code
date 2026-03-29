@@ -5,7 +5,7 @@ usc_section: "1443"
 chapter: 3
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1443"
-generated_at: "2026-03-29T18:25:53.764Z"
+generated_at: "2026-03-29T19:30:20.020Z"
 ---
 
 # § 1443. Foreign tax-exempt organizations

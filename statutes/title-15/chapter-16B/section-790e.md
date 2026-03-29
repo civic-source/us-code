@@ -5,7 +5,7 @@ usc_section: "790e"
 chapter: 16
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 790e"
-generated_at: "2026-03-29T18:24:08.423Z"
+generated_at: "2026-03-29T19:27:55.396Z"
 ---
 
 # § 790e. Coordination by Director of energy information gathering activities of Federal agencies

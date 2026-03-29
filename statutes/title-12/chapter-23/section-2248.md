@@ -5,7 +5,7 @@ usc_section: "2248"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2248"
-generated_at: "2026-03-29T18:24:02.963Z"
+generated_at: "2026-03-29T19:28:17.734Z"
 ---
 
 # § 2248. Seal of the Farm Credit Administration

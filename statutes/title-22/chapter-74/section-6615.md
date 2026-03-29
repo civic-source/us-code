@@ -5,7 +5,7 @@ usc_section: "6615"
 chapter: 74
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 6615"
-generated_at: "2026-03-29T18:24:54.359Z"
+generated_at: "2026-03-29T19:29:46.927Z"
 ---
 
 # § 6615. Savings provisions

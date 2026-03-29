@@ -5,7 +5,7 @@ usc_section: "44c"
 chapter: 2
 current_through: "PL 114-254"
 classification: "24 U.S.C. § 44c"
-generated_at: "2026-03-29T18:25:00.378Z"
+generated_at: "2026-03-29T19:29:35.064Z"
 ---
 
 # § 44c. Repealed. Pub. L. 101–189, div. A, title III , § 347(4), Nov. 29, 1989 , 103 Stat. 1422

@@ -5,7 +5,7 @@ usc_section: "947"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 947"
-generated_at: "2026-03-29T18:23:43.230Z"
+generated_at: "2026-03-29T19:27:31.706Z"
 ---
 
 # § 947. Borrowing power; telephone debentures; issuance; interest rates; terms and conditions; ratio to paid-in capital and retained earnings; investments in debentures; debentures as security; purchase and sale of debentures by the Secretary of the Treasury; treatment as public debt transactions of the United States; exclusion of transactions from budget totals

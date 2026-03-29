@@ -5,7 +5,7 @@ usc_section: "57103"
 chapter: 571
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 57103"
-generated_at: "2026-03-29T18:27:18.934Z"
+generated_at: "2026-03-29T19:32:17.383Z"
 ---
 
 # § 57103. Donation of nonretention vessels in the National Defense Reserve Fleet

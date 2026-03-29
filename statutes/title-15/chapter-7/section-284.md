@@ -5,7 +5,7 @@ usc_section: "284"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 284"
-generated_at: "2026-03-29T18:24:08.335Z"
+generated_at: "2026-03-29T19:27:55.309Z"
 ---
 
 # § 284. Omitted

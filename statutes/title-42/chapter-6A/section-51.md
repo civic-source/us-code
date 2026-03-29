@@ -5,7 +5,7 @@ usc_section: "51"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 51"
-generated_at: "2026-03-29T18:27:02.852Z"
+generated_at: "2026-03-29T19:31:44.475Z"
 ---
 
 # § 300mm–51. Research regarding certain health conditions related to September 11 terrorist attacks

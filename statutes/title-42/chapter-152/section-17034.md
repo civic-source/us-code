@@ -5,7 +5,7 @@ usc_section: "17034"
 chapter: 152
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 17034"
-generated_at: "2026-03-29T18:27:04.249Z"
+generated_at: "2026-03-29T19:31:45.875Z"
 ---
 
 # § 17034. Cellulosic ethanol and biofuels research

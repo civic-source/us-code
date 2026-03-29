@@ -5,7 +5,7 @@ usc_section: "9806"
 chapter: 100
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 9806"
-generated_at: "2026-03-29T18:25:54.014Z"
+generated_at: "2026-03-29T19:30:20.298Z"
 ---
 
 # [§ 9806. Renumbered § 9833]

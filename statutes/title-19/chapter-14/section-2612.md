@@ -5,7 +5,7 @@ usc_section: "2612"
 chapter: 14
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2612"
-generated_at: "2026-03-29T18:24:16.182Z"
+generated_at: "2026-03-29T19:28:30.749Z"
 ---
 
 # § 2612. Regulations

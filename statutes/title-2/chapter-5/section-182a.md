@@ -5,7 +5,7 @@ usc_section: "182a"
 chapter: 5
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 182a"
-generated_at: "2026-03-29T18:23:14.056Z"
+generated_at: "2026-03-29T19:27:07.506Z"
 ---
 
 # § 182a. Revolving fund for duplication services associated with audiovisual conservation center

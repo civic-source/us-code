@@ -5,7 +5,7 @@ usc_section: "2322"
 chapter: 113
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 2322"
-generated_at: "2026-03-29T18:24:43.845Z"
+generated_at: "2026-03-29T19:28:33.864Z"
 ---
 
 # § 2322. Chop shops

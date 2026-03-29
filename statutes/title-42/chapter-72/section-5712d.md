@@ -5,7 +5,7 @@ usc_section: "5712d"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5712d"
-generated_at: "2026-03-29T18:27:03.656Z"
+generated_at: "2026-03-29T19:31:45.244Z"
 ---
 
 # § 5712d. Repealed. Pub. L. 109–162, title XI , § 1172(b), Jan. 5, 2006 , 119 Stat. 3123

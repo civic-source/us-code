@@ -5,7 +5,7 @@ usc_section: "803"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 803"
-generated_at: "2026-03-29T18:24:22.711Z"
+generated_at: "2026-03-29T19:29:27.364Z"
 ---
 
 # § 803. Conditions of license generally

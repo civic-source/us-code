@@ -5,7 +5,7 @@ usc_section: "916"
 chapter: 17
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 916"
-generated_at: "2026-03-29T18:25:43.057Z"
+generated_at: "2026-03-29T19:30:07.558Z"
 ---
 
 # § 916. Repealed. Pub. L. 97–14 , § 3, June 16, 1981 , 95 Stat. 98

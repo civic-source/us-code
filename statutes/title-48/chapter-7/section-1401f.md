@@ -5,7 +5,7 @@ usc_section: "1401f"
 chapter: 7
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1401f"
-generated_at: "2026-03-29T18:27:11.649Z"
+generated_at: "2026-03-29T19:31:53.947Z"
 ---
 
 # § 1401f. Omitted

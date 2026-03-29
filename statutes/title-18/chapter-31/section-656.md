@@ -5,7 +5,7 @@ usc_section: "656"
 chapter: 31
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 656"
-generated_at: "2026-03-29T18:24:43.783Z"
+generated_at: "2026-03-29T19:28:33.797Z"
 ---
 
 # § 656. Theft, embezzlement, or misapplication by bank officer or employee

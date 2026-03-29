@@ -5,7 +5,7 @@ usc_section: "3326"
 chapter: 33
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 3326"
-generated_at: "2026-03-29T18:23:29.875Z"
+generated_at: "2026-03-29T19:27:05.254Z"
 ---
 
 # § 3326. Appointments of retired members of the armed forces to positions in the Department of Defense

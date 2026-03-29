@@ -5,7 +5,7 @@ usc_section: "911a"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 911a"
-generated_at: "2026-03-29T18:23:43.222Z"
+generated_at: "2026-03-29T19:27:31.700Z"
 ---
 
 # § 911a. Repealed. Pub. L. 103–354, title II , § 235(a)(5), Oct. 13, 1994 , 108 Stat. 3221

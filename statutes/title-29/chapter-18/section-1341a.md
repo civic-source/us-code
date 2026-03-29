@@ -5,7 +5,7 @@ usc_section: "1341a"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1341a"
-generated_at: "2026-03-29T18:25:43.110Z"
+generated_at: "2026-03-29T19:30:07.612Z"
 ---
 
 # § 1341a. Termination of multiemployer plans

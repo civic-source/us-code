@@ -5,7 +5,7 @@ usc_section: "3683"
 chapter: 36
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 3683"
-generated_at: "2026-03-29T18:26:03.571Z"
+generated_at: "2026-03-29T19:30:48.557Z"
 ---
 
 # § 3683. Uniform rates for books; films; other materials

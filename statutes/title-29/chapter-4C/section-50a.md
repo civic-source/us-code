@@ -5,7 +5,7 @@ usc_section: "50a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 50a"
-generated_at: "2026-03-29T18:25:43.002Z"
+generated_at: "2026-03-29T19:30:07.499Z"
 ---
 
 # § 50a. Publication of information; national advisory committees

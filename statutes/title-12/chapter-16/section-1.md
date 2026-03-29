@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 16
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-29T18:24:02.933Z"
+generated_at: "2026-03-29T19:28:17.699Z"
 ---
 
 # § 1831r–1. Notice of branch closure

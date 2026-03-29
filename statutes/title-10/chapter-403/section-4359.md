@@ -5,7 +5,7 @@ usc_section: "4359"
 chapter: 403
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4359"
-generated_at: "2026-03-29T18:23:52.030Z"
+generated_at: "2026-03-29T19:27:25.666Z"
 ---
 
 # § 4359. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds

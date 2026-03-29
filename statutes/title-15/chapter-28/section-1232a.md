@@ -5,7 +5,7 @@ usc_section: "1232a"
 chapter: 28
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1232a"
-generated_at: "2026-03-29T18:24:08.441Z"
+generated_at: "2026-03-29T19:27:55.414Z"
 ---
 
 # § 1232a. Repealed. Pub. L. 92–178, title IV , § 401(g)(7)(A), Dec. 10, 1971 , 85 Stat. 534

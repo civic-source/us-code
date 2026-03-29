@@ -5,7 +5,7 @@ usc_section: "2055"
 chapter: 47
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2055"
-generated_at: "2026-03-29T18:24:08.513Z"
+generated_at: "2026-03-29T19:27:55.481Z"
 ---
 
 # § 2055. Public disclosure of information

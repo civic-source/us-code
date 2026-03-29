@@ -5,7 +5,7 @@ usc_section: "1737"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1737"
-generated_at: "2026-03-29T18:24:02.859Z"
+generated_at: "2026-03-29T19:28:17.626Z"
 ---
 
 # § 1737. Repealed. Pub. L. 89–117, title XI , § 1108(aa), Aug. 10, 1965 , 79 Stat. 507

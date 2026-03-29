@@ -5,7 +5,7 @@ usc_section: "1926e"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1926e"
-generated_at: "2026-03-29T18:23:43.318Z"
+generated_at: "2026-03-29T19:27:31.787Z"
 ---
 
 # § 1926e. Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes

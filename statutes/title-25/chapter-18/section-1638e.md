@@ -5,7 +5,7 @@ usc_section: "1638e"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1638e"
-generated_at: "2026-03-29T18:25:23.735Z"
+generated_at: "2026-03-29T19:29:34.795Z"
 ---
 
 # § 1638e. Other funding, equipment, and supplies for facilities

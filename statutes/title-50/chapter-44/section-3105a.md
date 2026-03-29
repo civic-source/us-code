@@ -5,7 +5,7 @@ usc_section: "3105a"
 chapter: 44
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 3105a"
-generated_at: "2026-03-29T18:27:35.684Z"
+generated_at: "2026-03-29T19:32:24.234Z"
 ---
 
 # § 3105a. Annual assessment of intelligence community performance by function

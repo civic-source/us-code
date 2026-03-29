@@ -5,7 +5,7 @@ usc_section: "101"
 chapter: 1
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 101"
-generated_at: "2026-03-29T18:24:28.468Z"
+generated_at: "2026-03-29T19:28:20.858Z"
 ---
 
 # § 101. Definitions

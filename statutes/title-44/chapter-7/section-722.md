@@ -5,7 +5,7 @@ usc_section: "722"
 chapter: 7
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 722"
-generated_at: "2026-03-29T18:26:16.106Z"
+generated_at: "2026-03-29T19:30:59.100Z"
 ---
 
 # § 722. Congressional Directory: sale

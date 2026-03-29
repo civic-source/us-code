@@ -5,7 +5,7 @@ usc_section: "460xxx"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460xxx"
-generated_at: "2026-03-29T18:24:22.612Z"
+generated_at: "2026-03-29T19:29:27.253Z"
 ---
 
 # § 460xxx. Beaver Dam Wash National Conservation Area

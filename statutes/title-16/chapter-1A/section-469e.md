@@ -5,7 +5,7 @@ usc_section: "469e"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 469e"
-generated_at: "2026-03-29T18:24:22.616Z"
+generated_at: "2026-03-29T19:29:27.256Z"
 ---
 
 # § 469e. Plan for continental glaciation

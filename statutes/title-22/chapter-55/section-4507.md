@@ -5,7 +5,7 @@ usc_section: "4507"
 chapter: 55
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 4507"
-generated_at: "2026-03-29T18:24:54.321Z"
+generated_at: "2026-03-29T19:29:46.878Z"
 ---
 
 # § 4507. Federal control of education prohibited

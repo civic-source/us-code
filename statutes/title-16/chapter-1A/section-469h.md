@@ -5,7 +5,7 @@ usc_section: "469h"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 469h"
-generated_at: "2026-03-29T18:24:22.616Z"
+generated_at: "2026-03-29T19:29:27.257Z"
 ---
 
 # § 469h. Comprehensive plan for Reserve Development

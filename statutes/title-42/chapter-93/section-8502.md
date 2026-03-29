@@ -5,7 +5,7 @@ usc_section: "8502"
 chapter: 93
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8502"
-generated_at: "2026-03-29T18:27:03.888Z"
+generated_at: "2026-03-29T19:31:45.474Z"
 ---
 
 # § 8502. Definitions

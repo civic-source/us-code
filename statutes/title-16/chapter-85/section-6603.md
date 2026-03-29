@@ -5,7 +5,7 @@ usc_section: "6603"
 chapter: 85
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 6603"
-generated_at: "2026-03-29T18:24:22.936Z"
+generated_at: "2026-03-29T19:29:27.621Z"
 ---
 
 # § 6603. Marine turtle conservation assistance

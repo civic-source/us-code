@@ -5,7 +5,7 @@ usc_section: "8002"
 chapter: 87
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8002"
-generated_at: "2026-03-29T18:24:54.395Z"
+generated_at: "2026-03-29T19:29:46.970Z"
 ---
 
 # § 8002. Statements of policy

@@ -5,7 +5,7 @@ usc_section: "12722"
 chapter: 130
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12722"
-generated_at: "2026-03-29T18:27:04.087Z"
+generated_at: "2026-03-29T19:31:45.683Z"
 ---
 
 # § 12722. Purposes

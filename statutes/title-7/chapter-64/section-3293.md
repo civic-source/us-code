@@ -5,7 +5,7 @@ usc_section: "3293"
 chapter: 64
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3293"
-generated_at: "2026-03-29T18:23:43.420Z"
+generated_at: "2026-03-29T19:27:31.886Z"
 ---
 
 # § 3293. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets

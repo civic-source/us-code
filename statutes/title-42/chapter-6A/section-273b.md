@@ -5,7 +5,7 @@ usc_section: "273b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 273b"
-generated_at: "2026-03-29T18:27:02.601Z"
+generated_at: "2026-03-29T19:31:44.239Z"
 ---
 
 # § 273b. Report on the long-term health effects of living organ donation

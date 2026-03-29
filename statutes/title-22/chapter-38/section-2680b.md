@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-29T02:12:40.234Z"
+generated_at: "2026-03-29T18:44:49.359Z"
 ---
 
 # § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority
@@ -24,11 +24,11 @@ generated_at: "2026-03-29T02:12:40.234Z"
   - **(1)** prescribe regulations ensuring the fair and equitable implementation of this section; and
   - **(2)** submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives such regulations.
 - **(e)** In this section:
-  - **(1)** The term “covered dependent” means a family member (as defined by the Secretary of State) of an employee who, on or after September 11, 2001 —
+  - **(1)** The term “covered dependent” means a family member (as defined by the Secretary of State) of a 1 1 So in original. Probably should be “an”. employee who, on or after January 1, 2016 —
     - **(A)** accompanies the employee to an assigned duty station in a foreign country under chief of mission authority; and
     - **(B)** becomes injured by reason of a qualifying injury.
-  - **(2)** The term “covered employee” means an employee of the Federal Government who, on or after September 11, 2001 , becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f), but does not include an individual receiving compensation under section 3519b of title 50 .
-  - **(3)** The term “covered individual” means an individual who, on or after September 11, 2001 , becomes injured by reason of a qualifying injury and is—
+  - **(2)** The term “covered employee” means an employee of the Federal Government who, on or after January 1, 2016 , becomes injured by reason of a qualifying injury and was assigned to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f), but does not include an individual receiving compensation under section 3519b of title 50 .
+  - **(3)** The term “covered individual” means an individual who, on or after January 1, 2016 , becomes injured by reason of a qualifying injury and is—
     - **(A)** detailed to a duty station in the Republic of Cuba, the People’s Republic of China, or another foreign country designated by the Secretary of State pursuant to subsection (f); or
     - **(B)** affiliated with the Department of State, as determined by the Secretary of State.
   - **(4)** The term “qualifying injury” means the following:
@@ -46,14 +46,10 @@ generated_at: "2026-03-29T02:12:40.234Z"
 - **(g)** For purposes of section 104 of title 26 , amounts paid pursuant to this section shall be treated as amounts described in subsection (a)(5) of such section.
 - **(h)**
   - **(1)** Subsections (a) and (b) shall apply with respect to—
-    - **(A)** payments made to covered employees (as defined in such section) under section 8105 or 8106 of title 5 beginning on or after September 11, 2001 ; and
-    - **(B)** diagnosis or treatment described in subsection (b) occurring on or after September 11, 2001 .
+    - **(A)** payments made to covered employees (as defined in such section) under section 8105 or 8106 of title 5 beginning on or after January 1, 2016 ; and
+    - **(B)** diagnosis or treatment described in subsection (b) occurring on or after January 1, 2016 .
   - **(2)** Payment under subsection (i) may be made available for a qualifying injury (as defined in such subsection) that occurs before, on, or after October 8, 2021 .
   - **(3)** Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ( 42 U.S.C. 1651 et seq.), or section 3519b of title 50 . Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers’ compensation law.
-  - **(4)**
-    - **(A)** Payments under subsections (a) and (b) in a fiscal year may only be made using amounts appropriated in advance specifically for payments under such paragraph in such fiscal year.
-    - **(B)** Payments under subsections (a) and (b) using amounts appropriated for such purpose shall be made on a first come, first serve, or pro rata basis.
-    - **(C)** The total amount of funding obligated for payments under subsections (a) and (b) may not exceed the amount specifically appropriated for providing payments under such paragraph during its period of availability.
 - **(i)**
   - **(1)** In this subsection:
     - **(A)** The term “covered dependent” has the meaning given such term in subsection (e), except that the assigned duty station need not be in the Republic of Cuba, the People’s Republic of China, or another foreign country.
@@ -68,5 +64,3 @@ generated_at: "2026-03-29T02:12:40.234Z"
   - **(4)**
     - **(A)** The Secretary or other agency head described in paragraph (2) that provides payment under such paragraph shall prescribe regulations to carry out this subsection.
     - **(B)** The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
-  - **(5)** Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, dependent of a former employee, covered employee, former employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
-- **(j)** The head of any Federal agency may exercise the authorities of this section, including to designate an incident, whether the incident occurred in the United States or abroad, for purposes of subparagraphs (A)(ii) and (B)(ii) of subsection (e)(4) when the incident affects United States Government employees of the agency or their dependents who are not under the security responsibility of the Secretary of State as set forth in section 4802 of this title or when operational control of overseas security responsibility for such employees or dependents has been delegated to the head of the agency.

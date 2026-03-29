@@ -5,7 +5,7 @@ usc_section: "2364"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2364"
-generated_at: "2026-03-29T18:23:51.934Z"
+generated_at: "2026-03-29T19:27:25.596Z"
 ---
 
 # § 2364. Coordination and communication of defense research activities and technology domain awareness

@@ -5,7 +5,7 @@ usc_section: "2399a"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2399a"
-generated_at: "2026-03-29T18:24:54.221Z"
+generated_at: "2026-03-29T19:29:46.779Z"
 ---
 
 # § 2399a. Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 22, 1968 , 82 Stat. 1327

@@ -5,7 +5,7 @@ usc_section: "3374"
 chapter: 60
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 3374"
-generated_at: "2026-03-29T18:24:08.580Z"
+generated_at: "2026-03-29T19:27:55.542Z"
 ---
 
 # § 3374. Clauses prohibiting certain sales, transportation, and commingling

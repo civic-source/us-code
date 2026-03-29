@@ -5,7 +5,7 @@ usc_section: "9202"
 chapter: 100
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9202"
-generated_at: "2026-03-29T18:27:03.905Z"
+generated_at: "2026-03-29T19:31:45.494Z"
 ---
 
 # § 9202. Definitions

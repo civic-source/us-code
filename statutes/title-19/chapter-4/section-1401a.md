@@ -5,7 +5,7 @@ usc_section: "1401a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1401a"
-generated_at: "2026-03-29T18:24:16.081Z"
+generated_at: "2026-03-29T19:28:30.654Z"
 ---
 
 # § 1401a. Value

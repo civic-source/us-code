@@ -5,7 +5,7 @@ usc_section: "9813"
 chapter: 78
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 9813"
-generated_at: "2026-03-29T18:24:41.193Z"
+generated_at: "2026-03-29T19:28:43.256Z"
 ---
 
 # § 9813. Programs for baccalaureate degrees in science, technology, engineering, mathematics, or critical foreign languages, with concurrent teacher certification

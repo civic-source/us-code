@@ -3,9 +3,9 @@ title: "Section 71 - Definitions"
 usc_title: 21
 usc_section: "71"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "21 U.S.C. § 71"
-generated_at: "2026-03-29T02:12:28.095Z"
+generated_at: "2026-03-29T18:44:35.691Z"
 ---
 
 # § 379j–71. Definitions
@@ -48,11 +48,8 @@ In this subpart:
       - **(ii)** the addition of information to the other information section of the drug facts label of an OTC monograph drug, as limited by section 201.66(c)(7) of title 21, Code of Federal Regulations (or any successor regulations);
       - **(iii)** modification to the directions for use section of the drug facts label of an OTC monograph drug, if such changes conform to changes made pursuant to section 355h(c)(3)(A) of this title ;
       - **(iv)** the standardization of the concentration or dose of a specific finalized ingredient within a particular finalized monograph;
-      - **(v)** a change to ingredient nomenclature to align with nomenclature of a standards-setting organization;
-      - **(vi)** the addition of an interchangeable term in accordance with section 330.1 of title 21, Code of Federal Regulations (or any successor regulations); or
-      - **(vii)** the addition or modification of a testing procedure applicable to one or more OTC monograph drugs, provided that such additional or modified testing procedure reflects a voluntary consensus standard with respect to pharmaceutical quality that is—
-        - **(I)** established by a national or international standards development organization; and
-        - **(II)** recognized by the Secretary through a process described in guidance for industry, initially published in July 2023, or any successor guidance, publicly available on the website of the Food and Drug Administration, which addresses voluntary consensus standards for pharmaceutical quality.
+      - **(v)** a change to ingredient nomenclature to align with nomenclature of a standards-setting organization; or
+      - **(vi)** addition of an interchangeable term in accordance with section 330.1 of title 21, Code of Federal Regulations (or any successor regulations).
     - **(B)** The Secretary may, based on program implementation experience or other factors found appropriate by the Secretary, characterize any OTC monograph order request as a Tier 2 OTC monograph order request (including recharacterizing a request from Tier 1 to Tier 2) and publish such determination in a proposed order issued pursuant to section 355h of this title .
   - **(10)**
     - **(A)** The term “OTC monograph drug facility” means a foreign or domestic business or other entity that—

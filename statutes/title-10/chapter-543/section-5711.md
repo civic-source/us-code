@@ -5,7 +5,7 @@ usc_section: "5711"
 chapter: 543
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5711"
-generated_at: "2026-03-29T18:23:52.048Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # [§§ 5701 to 5711. Repealed. Pub. L. 96–513, title III , § 333, Dec. 12, 1980 , 94 Stat. 2897 ]

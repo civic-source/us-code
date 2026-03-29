@@ -5,7 +5,7 @@ usc_section: "6406"
 chapter: 83
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 6406"
-generated_at: "2026-03-29T18:24:22.931Z"
+generated_at: "2026-03-29T19:29:27.614Z"
 ---
 
 # § 6406. National program

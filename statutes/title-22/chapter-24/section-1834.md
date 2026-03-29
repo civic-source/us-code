@@ -5,7 +5,7 @@ usc_section: "1834"
 chapter: 24
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1834"
-generated_at: "2026-03-29T18:24:54.164Z"
+generated_at: "2026-03-29T19:29:46.717Z"
 ---
 
 # §§ 1831 to 1834. Repealed. Pub. L. 85–141 , § 3, Aug. 14, 1957 , 71 Stat. 356

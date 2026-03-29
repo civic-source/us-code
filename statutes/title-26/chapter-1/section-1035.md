@@ -5,7 +5,7 @@ usc_section: "1035"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1035"
-generated_at: "2026-03-29T18:25:53.710Z"
+generated_at: "2026-03-29T19:30:19.962Z"
 ---
 
 # § 1035. Certain exchanges of insurance policies

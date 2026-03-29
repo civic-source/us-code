@@ -5,7 +5,7 @@ usc_section: "1522"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1522"
-generated_at: "2026-03-29T18:23:33.986Z"
+generated_at: "2026-03-29T19:27:14.516Z"
 ---
 
 # § 1522. Authorization for programs for domestic resettlement of and assistance to refugees

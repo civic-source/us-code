@@ -5,7 +5,7 @@ usc_section: "3675"
 chapter: 36
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3675"
-generated_at: "2026-03-29T18:26:07.610Z"
+generated_at: "2026-03-29T19:30:40.525Z"
 ---
 
 # § 3675. Approval of accredited courses

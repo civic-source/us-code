@@ -3,9 +3,9 @@ title: "Section 3052 - Recognition of the Horseracing Integrity and Safety Autho
 usc_title: 15
 usc_section: "3052"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 3052"
-generated_at: "2026-03-29T02:11:34.324Z"
+generated_at: "2026-03-29T18:49:04.453Z"
 ---
 
 # § 3052. Recognition of the Horseracing Integrity and Safety Authority
@@ -77,7 +77,7 @@ generated_at: "2026-03-29T02:11:34.324Z"
     - **(C)** A State racing commission may cease remitting fees under this subsection not earlier than one year after notifying the Authority of the intent of the State racing commission to do so.
     - **(D)** Each State racing commission shall determine, subject to the applicable laws, regulations, and contracts of the State, the method by which the requisite amount of fees, such as foal registration fees, sales contributions, starter fees, and track fees, and other fees on covered persons, shall be allocated, assessed, and collected.
   - **(3)**
-    - **(A)** If a State racing commission does not elect to remit fees pursuant to paragraph (2) or withdraws its election under such paragraph, the Authority shall, not less frequently than monthly, calculate the applicable fee per racing start multiplied by the number of racing starts in the State during the preceding month.
+    - **(A)** Calculation If a State racing commission does not elect to remit fees pursuant to paragraph (2) or withdraws its election under such paragraph, the Authority shall, not less frequently than monthly, calculate the applicable fee per racing start multiplied by the number of racing starts in the State during the preceding month.
     - **(B)** The Authority shall allocate equitably the amount calculated under subparagraph (A) collected among covered persons involved with covered horseraces pursuant to such rules as the Authority may promulgate.
     - **(C)**
       - **(i)** The Authority shall assess a fee equal to the allocation made under subparagraph (B) and shall collect such fee according to such rules as the Authority may promulgate.

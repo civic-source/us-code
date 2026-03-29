@@ -5,7 +5,7 @@ usc_section: "410hhh"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410hhh"
-generated_at: "2026-03-29T18:24:22.495Z"
+generated_at: "2026-03-29T19:29:27.123Z"
 ---
 
 # § 410hhh. Findings

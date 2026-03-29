@@ -5,7 +5,7 @@ usc_section: "278q"
 chapter: 7
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 278q"
-generated_at: "2026-03-29T18:24:08.333Z"
+generated_at: "2026-03-29T19:27:55.307Z"
 ---
 
 # § 278q. Appropriations; availability

@@ -5,7 +5,7 @@ usc_section: "5114"
 chapter: 51
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5114"
-generated_at: "2026-03-29T18:25:53.861Z"
+generated_at: "2026-03-29T19:30:20.120Z"
 ---
 
 # § 5114. Drawback

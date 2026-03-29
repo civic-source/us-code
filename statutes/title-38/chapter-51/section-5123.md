@@ -5,7 +5,7 @@ usc_section: "5123"
 chapter: 51
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 5123"
-generated_at: "2026-03-29T18:26:07.636Z"
+generated_at: "2026-03-29T19:30:40.551Z"
 ---
 
 # § 5123. Rounding down of pension rates

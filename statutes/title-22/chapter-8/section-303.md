@@ -5,7 +5,7 @@ usc_section: "303"
 chapter: 8
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 303"
-generated_at: "2026-03-29T18:24:54.139Z"
+generated_at: "2026-03-29T19:29:46.689Z"
 ---
 
 # § 303. Annual report on overseas surplus properties

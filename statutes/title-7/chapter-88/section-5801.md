@@ -5,7 +5,7 @@ usc_section: "5801"
 chapter: 88
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5801"
-generated_at: "2026-03-29T18:23:43.454Z"
+generated_at: "2026-03-29T19:27:31.917Z"
 ---
 
 # § 5801. Purpose and definitions

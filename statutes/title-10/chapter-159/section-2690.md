@@ -5,7 +5,7 @@ usc_section: "2690"
 chapter: 159
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2690"
-generated_at: "2026-03-29T18:23:51.992Z"
+generated_at: "2026-03-29T19:27:25.635Z"
 ---
 
 # [§ 2690. Renumbered § 2918]

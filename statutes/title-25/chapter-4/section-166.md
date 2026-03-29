@@ -5,7 +5,7 @@ usc_section: "166"
 chapter: 4
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 166"
-generated_at: "2026-03-29T18:25:23.667Z"
+generated_at: "2026-03-29T19:29:34.741Z"
 ---
 
 # § 166. Applicability of Federal Advisory Committee Act

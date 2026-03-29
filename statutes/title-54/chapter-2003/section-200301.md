@@ -5,7 +5,7 @@ usc_section: "200301"
 chapter: 2003
 current_through: "PL 114-254"
 classification: "54 U.S.C. § 200301"
-generated_at: "2026-03-29T18:27:38.920Z"
+generated_at: "2026-03-29T19:32:31.887Z"
 ---
 
 # § 200301. Definitions

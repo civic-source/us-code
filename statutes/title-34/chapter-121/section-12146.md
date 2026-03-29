@@ -3,12 +3,13 @@ title: "Section 12146 - Definitions"
 usc_title: 34
 usc_section: "12146"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 12146"
-generated_at: "2026-03-29T02:14:25.311Z"
+generated_at: "2026-03-29T18:45:50.343Z"
 ---
 
 # § 12146. Definitions
 
-In this part— “chief local elected official” means an official designated under regulations issued by the Attorney General. The criteria used by the Attorney General in promulgating such regulations shall ensure administrative efficiency and accountability in the expenditure of funds and execution of funded projects under this part. “chronic high intensity crime area” means an area meeting criteria adopted by the Attorney General by regulation that, at a minimum, define areas with— (A) consistently high rates of violent crime as reported in the Federal Bureau of Investigation’s “Uniform Crime Reports”, and (B) chronically high rates of poverty as determined by the Bureau of the Census. “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+    - **(A)** consistently high rates of violent crime as reported in the Federal Bureau of Investigation’s “Uniform Crime Reports”, and
+    - **(B)** chronically high rates of poverty as determined by the Bureau of the Census. “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 

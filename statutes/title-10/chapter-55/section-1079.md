@@ -5,7 +5,7 @@ usc_section: "1079"
 chapter: 55
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1079"
-generated_at: "2026-03-29T18:23:51.792Z"
+generated_at: "2026-03-29T19:27:25.504Z"
 ---
 
 # § 1079. Contracts for medical care for spouses and children: plans

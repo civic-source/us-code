@@ -5,7 +5,7 @@ usc_section: "140301"
 chapter: 1403
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 140301"
-generated_at: "2026-03-29T18:26:09.289Z"
+generated_at: "2026-03-29T19:30:42.077Z"
 ---
 
 # § 140301. Organization

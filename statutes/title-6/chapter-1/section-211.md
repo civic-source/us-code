@@ -5,7 +5,7 @@ usc_section: "211"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 211"
-generated_at: "2026-03-29T18:23:35.737Z"
+generated_at: "2026-03-29T19:27:39.836Z"
 ---
 
 # § 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices

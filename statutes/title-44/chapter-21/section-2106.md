@@ -5,7 +5,7 @@ usc_section: "2106"
 chapter: 21
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 2106"
-generated_at: "2026-03-29T18:26:16.114Z"
+generated_at: "2026-03-29T19:30:59.112Z"
 ---
 
 # § 2106. Reports to Congress

@@ -5,7 +5,7 @@ usc_section: "3102"
 chapter: 31
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 3102"
-generated_at: "2026-03-29T18:26:04.562Z"
+generated_at: "2026-03-29T19:30:36.685Z"
 ---
 
 # § 3102. Naming or designating buildings

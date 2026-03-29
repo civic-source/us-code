@@ -5,7 +5,7 @@ usc_section: "1087pp"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1087pp"
-generated_at: "2026-03-29T18:24:40.967Z"
+generated_at: "2026-03-29T19:28:43.023Z"
 ---
 
 # § 1087pp. Family contribution for independent students without dependents other than a spouse

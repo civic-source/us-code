@@ -5,7 +5,7 @@ usc_section: "708"
 chapter: 7
 current_through: "PL 114-254"
 classification: "17 U.S.C. § 708"
-generated_at: "2026-03-29T18:24:28.488Z"
+generated_at: "2026-03-29T19:28:20.877Z"
 ---
 
 # § 708. Copyright Office fees

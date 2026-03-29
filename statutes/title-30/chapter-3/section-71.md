@@ -5,7 +5,7 @@ usc_section: "71"
 chapter: 3
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 71"
-generated_at: "2026-03-29T18:25:30.844Z"
+generated_at: "2026-03-29T19:30:05.216Z"
 ---
 
 # § 71. Entry of unappropriated or unreserved Federal coal lands; eligibility; application; acreage limitation; price per acre

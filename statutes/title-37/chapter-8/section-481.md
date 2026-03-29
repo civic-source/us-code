@@ -5,7 +5,7 @@ usc_section: "481"
 chapter: 8
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 481"
-generated_at: "2026-03-29T18:26:10.150Z"
+generated_at: "2026-03-29T19:30:34.112Z"
 ---
 
 # § 481. Travel and transportation allowances: administrative provisions

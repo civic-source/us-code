@@ -5,7 +5,7 @@ usc_section: "661"
 chapter: 5
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 661"
-generated_at: "2026-03-29T18:24:22.675Z"
+generated_at: "2026-03-29T19:29:27.321Z"
 ---
 
 # § 661. Declaration of purpose; cooperation of agencies; surveys and investigations; donations

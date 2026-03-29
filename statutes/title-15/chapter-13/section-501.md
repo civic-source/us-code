@@ -5,7 +5,7 @@ usc_section: "501"
 chapter: 13
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 501"
-generated_at: "2026-03-29T18:24:08.343Z"
+generated_at: "2026-03-29T19:27:55.315Z"
 ---
 
 # § 501. Creation of body corporate; directors; principal office; agencies

@@ -5,7 +5,7 @@ usc_section: "3006"
 chapter: 31
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 3006"
-generated_at: "2026-03-29T18:25:43.137Z"
+generated_at: "2026-03-29T19:30:07.639Z"
 ---
 
 # § 3006. Administrative provisions

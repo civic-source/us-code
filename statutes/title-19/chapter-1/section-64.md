@@ -5,7 +5,7 @@ usc_section: "64"
 chapter: 1
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 64"
-generated_at: "2026-03-29T18:24:16.065Z"
+generated_at: "2026-03-29T19:28:30.641Z"
 ---
 
 # § 64. Laws imposing fines applicable to persons acting under customs laws

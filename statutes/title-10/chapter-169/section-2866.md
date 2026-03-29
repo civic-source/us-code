@@ -5,7 +5,7 @@ usc_section: "2866"
 chapter: 169
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2866"
-generated_at: "2026-03-29T18:23:52.009Z"
+generated_at: "2026-03-29T19:27:25.648Z"
 ---
 
 # § 2866. Water conservation at military installations

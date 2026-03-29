@@ -5,7 +5,7 @@ usc_section: "583k"
 chapter: 3
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 583k"
-generated_at: "2026-03-29T18:24:22.666Z"
+generated_at: "2026-03-29T19:29:27.309Z"
 ---
 
 # § 583k. Findings

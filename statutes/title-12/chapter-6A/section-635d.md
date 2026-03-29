@@ -5,7 +5,7 @@ usc_section: "635d"
 chapter: 6
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 635d"
-generated_at: "2026-03-29T18:24:02.766Z"
+generated_at: "2026-03-29T19:28:17.523Z"
 ---
 
 # § 635d. Issuance of debentures, bonds, etc.; obligations redeemable; payment of interest; obligations purchasable by Secretary of the Treasury; public-debt transactions

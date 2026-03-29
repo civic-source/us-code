@@ -5,7 +5,7 @@ usc_section: "147"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 147"
-generated_at: "2026-03-29T18:25:53.444Z"
+generated_at: "2026-03-29T19:30:19.716Z"
 ---
 
 # § 147. Other requirements applicable to certain private activity bonds

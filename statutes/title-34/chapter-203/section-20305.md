@@ -3,21 +3,21 @@ title: "Section 20305 - Grants for specialized technical assistance and training
 usc_title: 34
 usc_section: "20305"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 20305"
-generated_at: "2026-03-29T02:14:25.345Z"
+generated_at: "2026-03-29T18:45:50.376Z"
 ---
 
 # § 20305. Grants for specialized technical assistance and training programs
 
 - **(a)** The Administrator shall make grants to national organizations to provide technical assistance and training to—
-  - **(1)** prosecutors and other attorneys and allied professionals instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases; and
+  - **(1)** attorneys and other allied professionals instrumental to the criminal prosecution of child abuse cases in State or Federal courts, for the purpose of improving the quality of criminal prosecution of such cases; and
   - **(2)** child abuse professionals instrumental to the protection of children, intervention in child abuse cases, and treatment of victims of child abuse, for the purpose of—
     - **(A)** improving the quality of such protection, intervention, and treatment; and
-    - **(B)** promoting the effective delivery of the evidence-informed Children’s Advocacy Center Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
+    - **(B)** promoting the effective delivery of the evidence-informed Children’s Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
 - **(b)**
   - **(1)** An organization to which a grant is made for specific training and technical assistance for prosecutors under subsection (a)(1) shall be one that has—
-    - **(A)** a significant connection to prosecutors who handle child abuse cases in State courts, such as a membership organization or support service providers; and
+    - **(A)** a broad representation of attorneys who prosecute criminal cases in State courts; and
     - **(B)** demonstrated experience in providing training and technical assistance for prosecutors.
   - **(2)** An organization to which a grant is made for specific training and technical assistance for child abuse professionals under subsection (a)(2) shall be one that has—
     - **(A)** a diverse portfolio of training and technical resources for the diverse professionals responding to child abuse, including a digital library to promote evidence-informed practice; and

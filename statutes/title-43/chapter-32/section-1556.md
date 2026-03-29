@@ -5,7 +5,7 @@ usc_section: "1556"
 chapter: 32
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1556"
-generated_at: "2026-03-29T18:26:14.868Z"
+generated_at: "2026-03-29T19:31:49.116Z"
 ---
 
 # § 1556. Definitions

@@ -5,7 +5,7 @@ usc_section: "1428e"
 chapter: 8
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1428e"
-generated_at: "2026-03-29T18:27:11.658Z"
+generated_at: "2026-03-29T19:31:53.956Z"
 ---
 
 # § 1428e. Audit of books and records of agency, or agencies, administering loan funds

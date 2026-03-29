@@ -5,7 +5,7 @@ usc_section: "7306b"
 chapter: 633
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7306b"
-generated_at: "2026-03-29T18:23:52.066Z"
+generated_at: "2026-03-29T19:27:25.693Z"
 ---
 
 # § 7306b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs

@@ -5,7 +5,7 @@ usc_section: "669"
 chapter: 15
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 669"
-generated_at: "2026-03-29T18:26:13.303Z"
+generated_at: "2026-03-29T19:31:12.232Z"
 ---
 
 # § 669. Repealed. Pub. L. 97–375, title I , § 111(e), Dec. 21, 1982 , 96 Stat. 1821

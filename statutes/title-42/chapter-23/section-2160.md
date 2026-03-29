@@ -5,7 +5,7 @@ usc_section: "2160"
 chapter: 23
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2160"
-generated_at: "2026-03-29T18:27:03.438Z"
+generated_at: "2026-03-29T19:31:45.025Z"
 ---
 
 # § 2160. Subsequent arrangements

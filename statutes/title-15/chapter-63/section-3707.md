@@ -5,7 +5,7 @@ usc_section: "3707"
 chapter: 63
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 3707"
-generated_at: "2026-03-29T18:24:08.586Z"
+generated_at: "2026-03-29T19:27:55.548Z"
 ---
 
 # § 3707. National Science Foundation Cooperative Research Centers

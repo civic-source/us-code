@@ -5,7 +5,7 @@ usc_section: "7628"
 chapter: 103
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 7628"
-generated_at: "2026-03-29T18:23:43.526Z"
+generated_at: "2026-03-29T19:27:31.997Z"
 ---
 
 # § 7628. Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica

@@ -5,7 +5,7 @@ usc_section: "14223"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14223"
-generated_at: "2026-03-29T18:27:04.168Z"
+generated_at: "2026-03-29T19:31:45.776Z"
 ---
 
 # § 14223. Edward Byrne Memorial Formula Grant Program

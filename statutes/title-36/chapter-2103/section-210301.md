@@ -5,7 +5,7 @@ usc_section: "210301"
 chapter: 2103
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 210301"
-generated_at: "2026-03-29T18:26:09.306Z"
+generated_at: "2026-03-29T19:30:42.092Z"
 ---
 
 # § 210301. Definition

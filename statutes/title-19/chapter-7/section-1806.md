@@ -5,7 +5,7 @@ usc_section: "1806"
 chapter: 7
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1806"
-generated_at: "2026-03-29T18:24:16.134Z"
+generated_at: "2026-03-29T19:28:30.705Z"
 ---
 
 # § 1806. Definitions

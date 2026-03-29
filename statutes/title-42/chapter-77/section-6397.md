@@ -5,7 +5,7 @@ usc_section: "6397"
 chapter: 77
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6397"
-generated_at: "2026-03-29T18:27:03.714Z"
+generated_at: "2026-03-29T19:31:45.301Z"
 ---
 
 # § 6397. Repealed. Pub. L. 95–619, title VI , § 691(b)(1), Nov. 9, 1978 , 92 Stat. 3288

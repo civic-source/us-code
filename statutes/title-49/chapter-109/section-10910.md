@@ -5,7 +5,7 @@ usc_section: "10910"
 chapter: 109
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 10910"
-generated_at: "2026-03-29T18:27:16.482Z"
+generated_at: "2026-03-29T19:32:28.766Z"
 ---
 
 # § 10910. Effect on other statutes and authorities

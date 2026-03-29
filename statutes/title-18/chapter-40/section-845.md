@@ -5,7 +5,7 @@ usc_section: "845"
 chapter: 40
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 845"
-generated_at: "2026-03-29T18:24:43.790Z"
+generated_at: "2026-03-29T19:28:33.804Z"
 ---
 
 # § 845. Exceptions; relief from disabilities

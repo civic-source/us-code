@@ -5,7 +5,7 @@ usc_section: "3002"
 chapter: 35
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3002"
-generated_at: "2026-03-29T18:27:03.476Z"
+generated_at: "2026-03-29T19:31:45.056Z"
 ---
 
 # § 3002. Definitions

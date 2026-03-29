@@ -5,7 +5,7 @@ usc_section: "224"
 chapter: 7
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 224"
-generated_at: "2026-03-29T18:26:14.778Z"
+generated_at: "2026-03-29T19:31:49.025Z"
 ---
 
 # §§ 211 to 224. Repealed. Pub. L. 94–579, title VII , § 702, Oct. 21, 1976 , 90 Stat. 2787

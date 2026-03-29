@@ -5,7 +5,7 @@ usc_section: "103A"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 103A"
-generated_at: "2026-03-29T18:25:53.421Z"
+generated_at: "2026-03-29T19:30:19.693Z"
 ---
 
 # [§ 103A. Repealed. Pub. L. 99–514, title XIII , § 1301(j)(1), Oct. 22, 1986 , 100 Stat. 2657 ]

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 14
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-29T18:23:14.073Z"
+generated_at: "2026-03-29T19:27:07.520Z"
 ---
 
 # § 441a–1. Transferred

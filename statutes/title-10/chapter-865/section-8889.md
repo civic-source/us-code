@@ -5,7 +5,7 @@ usc_section: "8889"
 chapter: 865
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8889"
-generated_at: "2026-03-29T18:23:52.088Z"
+generated_at: "2026-03-29T19:27:25.709Z"
 ---
 
 # [§§ 8888, 8889. Repealed. Pub. L. 96–513, title II , § 216, Dec. 12, 1980 , 94 Stat. 2886 ]

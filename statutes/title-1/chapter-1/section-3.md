@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 1
 current_through: "PL 114-254"
 classification: "1 U.S.C. § 3"
-generated_at: "2026-03-29T18:23:11.727Z"
+generated_at: "2026-03-29T19:27:01.456Z"
 ---
 
 # § 3. “Vessel” as including all means of water transportation

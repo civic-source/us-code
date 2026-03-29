@@ -5,7 +5,7 @@ usc_section: "60130"
 chapter: 601
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 60130"
-generated_at: "2026-03-29T18:27:16.651Z"
+generated_at: "2026-03-29T19:32:28.919Z"
 ---
 
 # § 60130. Pipeline safety information grants to communities

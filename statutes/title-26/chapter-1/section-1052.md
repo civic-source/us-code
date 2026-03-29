@@ -5,7 +5,7 @@ usc_section: "1052"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1052"
-generated_at: "2026-03-29T18:25:53.713Z"
+generated_at: "2026-03-29T19:30:19.964Z"
 ---
 
 # § 1052. Basis established by the Revenue Act of 1932 or 1934 or by the Internal Revenue Code of 1939

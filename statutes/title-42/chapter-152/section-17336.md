@@ -5,7 +5,7 @@ usc_section: "17336"
 chapter: 152
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 17336"
-generated_at: "2026-03-29T18:27:04.265Z"
+generated_at: "2026-03-29T19:31:45.898Z"
 ---
 
 # § 17336. Deployment of international clean and efficient energy technologies and investment in global energy markets

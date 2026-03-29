@@ -5,7 +5,7 @@ usc_section: "2013"
 chapter: 51
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2013"
-generated_at: "2026-03-29T18:23:43.354Z"
+generated_at: "2026-03-29T19:27:31.825Z"
 ---
 
 # § 2013. Establishment of supplemental nutrition assistance program

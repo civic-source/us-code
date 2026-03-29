@@ -5,7 +5,7 @@ usc_section: "8421"
 chapter: 92
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8421"
-generated_at: "2026-03-29T18:27:03.885Z"
+generated_at: "2026-03-29T19:31:45.471Z"
 ---
 
 # § 8421. Information

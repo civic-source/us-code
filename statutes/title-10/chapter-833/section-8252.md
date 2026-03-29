@@ -5,7 +5,7 @@ usc_section: "8252"
 chapter: 833
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 8252"
-generated_at: "2026-03-29T18:23:52.084Z"
+generated_at: "2026-03-29T19:27:25.705Z"
 ---
 
 # § 8252. Regular Air Force: gender-free basis for acceptance of original enlistments

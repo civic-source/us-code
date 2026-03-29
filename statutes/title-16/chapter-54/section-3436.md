@@ -5,7 +5,7 @@ usc_section: "3436"
 chapter: 54
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3436"
-generated_at: "2026-03-29T18:24:22.877Z"
+generated_at: "2026-03-29T19:29:27.552Z"
 ---
 
 # §§ 3431 to 3436. Repealed. Pub. L. 104–127, title III , § 336(f)(1), Apr. 4, 1996 , 110 Stat. 1007

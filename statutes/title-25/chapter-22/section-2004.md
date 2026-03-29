@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 22
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2004"
-generated_at: "2026-03-29T18:25:23.762Z"
+generated_at: "2026-03-29T19:29:34.820Z"
 ---
 
 # § 2004. School boundaries

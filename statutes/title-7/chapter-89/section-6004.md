@@ -5,7 +5,7 @@ usc_section: "6004"
 chapter: 89
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 6004"
-generated_at: "2026-03-29T18:23:43.464Z"
+generated_at: "2026-03-29T19:27:31.928Z"
 ---
 
 # § 6004. Regulations

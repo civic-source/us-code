@@ -5,7 +5,7 @@ usc_section: "9052"
 chapter: 115
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 9052"
-generated_at: "2026-03-29T18:23:43.580Z"
+generated_at: "2026-03-29T19:27:32.043Z"
 ---
 
 # § 9052. Calculation of average feed cost and actual dairy production margins

@@ -5,7 +5,7 @@ usc_section: "5432"
 chapter: 53
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5432"
-generated_at: "2026-03-29T18:24:03.094Z"
+generated_at: "2026-03-29T19:28:17.879Z"
 ---
 
 # § 5432. Transfer of employees

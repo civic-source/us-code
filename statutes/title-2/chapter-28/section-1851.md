@@ -5,7 +5,7 @@ usc_section: "1851"
 chapter: 28
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1851"
-generated_at: "2026-03-29T18:23:14.125Z"
+generated_at: "2026-03-29T19:27:07.567Z"
 ---
 
 # § 1851. Gratuities for survivors of deceased employees

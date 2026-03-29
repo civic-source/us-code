@@ -5,7 +5,7 @@ usc_section: "383"
 chapter: 18
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-03-29T18:23:51.737Z"
+generated_at: "2026-03-29T19:27:25.438Z"
 ---
 
 # § 383. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities

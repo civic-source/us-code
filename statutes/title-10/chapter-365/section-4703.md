@@ -3,9 +3,9 @@ title: "Section 4703 - Displaced contractor employees: assistance to obtain cert
 usc_title: 10
 usc_section: "4703"
 chapter: 365
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4703"
-generated_at: "2026-03-29T02:10:45.226Z"
+generated_at: "2026-03-29T18:47:53.529Z"
 ---
 
 # § 4703. Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides
@@ -50,6 +50,6 @@ generated_at: "2026-03-29T02:10:45.226Z"
 - **(g)**
   - **(1)** The Secretary of Defense shall pay to each participant in the placement program a stipend in an amount equal to the lesser of—
     - **(A)** $5,000; or
-    - **(B)** the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) 1 1 See References in Text note below. of section 472 of the Higher Education Act of 1965 ( 20 U.S.C. 1087 ll ) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
+    - **(B)** the total costs of the type described in paragraphs (1), (2), (3), (8), and (9) of section 472 of the Higher Education Act of 1965 ( 20 U.S.C. 1087 ll ) incurred by the participant while obtaining teacher certification or licensure or the necessary credentials to serve as a teacher’s aide and employment as an elementary or secondary school teacher or teacher aide.
   - **(2)** A stipend provided under this section shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq.).
 - **(h)** Subsections (h) through (k) of section 1151 of this title , as in effect on October 4, 1999 , shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.

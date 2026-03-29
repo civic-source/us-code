@@ -5,7 +5,7 @@ usc_section: "1513b"
 chapter: 40
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1513b"
-generated_at: "2026-03-29T18:24:08.454Z"
+generated_at: "2026-03-29T19:27:55.429Z"
 ---
 
 # § 1513b. Cost estimates for National Institute of Standards and Technology construction projects included in Department budget justification

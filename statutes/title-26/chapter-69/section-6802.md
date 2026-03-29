@@ -5,7 +5,7 @@ usc_section: "6802"
 chapter: 69
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6802"
-generated_at: "2026-03-29T18:25:53.957Z"
+generated_at: "2026-03-29T19:30:20.232Z"
 ---
 
 # § 6802. Supply and distribution

@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 32"
-generated_at: "2026-03-29T18:24:54.111Z"
+generated_at: "2026-03-29T19:29:46.660Z"
 ---
 
 # § 277d–32. Tijuana River flood control project; agreement with Mexico for joint construction, operation and maintenance

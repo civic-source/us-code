@@ -5,7 +5,7 @@ usc_section: "655"
 chapter: 15
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 655"
-generated_at: "2026-03-29T18:25:43.025Z"
+generated_at: "2026-03-29T19:30:07.525Z"
 ---
 
 # § 655. Standards

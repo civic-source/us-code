@@ -5,7 +5,7 @@ usc_section: "6346"
 chapter: 77
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6346"
-generated_at: "2026-03-29T18:27:03.707Z"
+generated_at: "2026-03-29T19:31:45.291Z"
 ---
 
 # § 6346. Repealed. Pub. L. 99–509, title III , § 3101(b), Oct. 21, 1986 , 100 Stat. 1888

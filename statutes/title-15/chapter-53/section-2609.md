@@ -5,7 +5,7 @@ usc_section: "2609"
 chapter: 53
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2609"
-generated_at: "2026-03-29T18:24:08.549Z"
+generated_at: "2026-03-29T19:27:55.512Z"
 ---
 
 # § 2609. Research, development, collection, dissemination, and utilization of information

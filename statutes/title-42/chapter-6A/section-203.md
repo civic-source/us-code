@@ -5,7 +5,7 @@ usc_section: "203"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 203"
-generated_at: "2026-03-29T18:27:02.517Z"
+generated_at: "2026-03-29T19:31:44.157Z"
 ---
 
 # § 203. Organization of Service

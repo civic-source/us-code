@@ -5,7 +5,7 @@ usc_section: "15204"
 chapter: 145
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15204"
-generated_at: "2026-03-29T18:27:04.188Z"
+generated_at: "2026-03-29T19:31:45.799Z"
 ---
 
 # § 15204. Definitions

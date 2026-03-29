@@ -5,7 +5,7 @@ usc_section: "1g"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1g"
-generated_at: "2026-03-29T18:24:54.121Z"
+generated_at: "2026-03-29T19:29:46.670Z"
 ---
 
 # § 286e–1g. Additional increase in quota of United States; condition

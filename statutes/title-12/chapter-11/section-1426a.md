@@ -5,7 +5,7 @@ usc_section: "1426a"
 chapter: 11
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1426a"
-generated_at: "2026-03-29T18:24:02.773Z"
+generated_at: "2026-03-29T19:28:17.531Z"
 ---
 
 # § 1426a. Exclusion from certain requirements

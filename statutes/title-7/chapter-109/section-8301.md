@@ -5,7 +5,7 @@ usc_section: "8301"
 chapter: 109
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 8301"
-generated_at: "2026-03-29T18:23:43.557Z"
+generated_at: "2026-03-29T19:27:32.023Z"
 ---
 
 # § 8301. Findings

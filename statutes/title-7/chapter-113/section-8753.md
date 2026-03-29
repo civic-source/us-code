@@ -5,7 +5,7 @@ usc_section: "8753"
 chapter: 113
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 8753"
-generated_at: "2026-03-29T18:23:43.570Z"
+generated_at: "2026-03-29T19:27:32.035Z"
 ---
 
 # § 8753. Repealed. Pub. L. 113–79, title I , § 1101, Feb. 7, 2014 , 128 Stat. 658

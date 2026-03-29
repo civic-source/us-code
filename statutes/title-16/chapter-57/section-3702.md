@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 57
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3702"
-generated_at: "2026-03-29T18:24:22.881Z"
+generated_at: "2026-03-29T19:29:27.557Z"
 ---
 
 # § 3702. Board of Directors of Foundation

@@ -5,7 +5,7 @@ usc_section: "1974"
 chapter: 25
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1974"
-generated_at: "2026-03-29T18:24:54.166Z"
+generated_at: "2026-03-29T19:29:46.719Z"
 ---
 
 # § 1974. Inapplicability of chapter to certain seizures

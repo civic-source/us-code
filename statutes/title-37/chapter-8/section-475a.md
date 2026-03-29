@@ -5,7 +5,7 @@ usc_section: "475a"
 chapter: 8
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 475a"
-generated_at: "2026-03-29T18:26:10.147Z"
+generated_at: "2026-03-29T19:30:34.110Z"
 ---
 
 # § 475a. Travel and transportation allowances: departure allowances

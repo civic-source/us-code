@@ -5,7 +5,7 @@ usc_section: "220310"
 chapter: 2203
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 220310"
-generated_at: "2026-03-29T18:26:09.307Z"
+generated_at: "2026-03-29T19:30:42.094Z"
 ---
 
 # § 220310. Principal office

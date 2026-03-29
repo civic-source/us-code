@@ -5,7 +5,7 @@ usc_section: "7133"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7133"
-generated_at: "2026-03-29T18:27:03.758Z"
+generated_at: "2026-03-29T19:31:45.344Z"
 ---
 
 # § 7133. Assistant Secretaries; appointment and confirmation; identification of responsibilities

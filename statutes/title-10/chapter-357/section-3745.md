@@ -5,7 +5,7 @@ usc_section: "3745"
 chapter: 357
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3745"
-generated_at: "2026-03-29T18:23:52.024Z"
+generated_at: "2026-03-29T19:27:25.659Z"
 ---
 
 # § 3745. Medal of honor; distinguished-service cross; distinguished-service medal: delegation of power to award

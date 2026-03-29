@@ -5,7 +5,7 @@ usc_section: "3545"
 chapter: 343
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3545"
-generated_at: "2026-03-29T18:23:52.022Z"
+generated_at: "2026-03-29T19:27:25.658Z"
 ---
 
 # [§§ 3544, 3545. Repealed. Pub. L. 90–235 , § 4(a)(6), (b)(1), Jan. 2, 1968 , 81 Stat. 759 , 760]

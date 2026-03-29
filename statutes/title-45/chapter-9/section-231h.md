@@ -5,7 +5,7 @@ usc_section: "231h"
 chapter: 9
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 231h"
-generated_at: "2026-03-29T18:26:13.290Z"
+generated_at: "2026-03-29T19:31:12.220Z"
 ---
 
 # § 231h. Returns of compensation; conclusiveness

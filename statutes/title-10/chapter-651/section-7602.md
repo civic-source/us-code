@@ -5,7 +5,7 @@ usc_section: "7602"
 chapter: 651
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7602"
-generated_at: "2026-03-29T18:23:52.075Z"
+generated_at: "2026-03-29T19:27:25.698Z"
 ---
 
 # § 7602. Sales: members of Army and Air Force; prices

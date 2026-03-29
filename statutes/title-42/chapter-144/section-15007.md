@@ -5,7 +5,7 @@ usc_section: "15007"
 chapter: 144
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15007"
-generated_at: "2026-03-29T18:27:04.179Z"
+generated_at: "2026-03-29T19:31:45.787Z"
 ---
 
 # § 15007. Employment of individuals with disabilities

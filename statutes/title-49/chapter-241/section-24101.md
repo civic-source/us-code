@@ -5,7 +5,7 @@ usc_section: "24101"
 chapter: 241
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 24101"
-generated_at: "2026-03-29T18:27:16.514Z"
+generated_at: "2026-03-29T19:32:28.803Z"
 ---
 
 # § 24101. Findings, mission, and goals

@@ -5,7 +5,7 @@ usc_section: "2877a"
 chapter: 43
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2877a"
-generated_at: "2026-03-29T18:24:54.272Z"
+generated_at: "2026-03-29T19:29:46.824Z"
 ---
 
 # § 2877a. Repealed. Pub. L. 101–302, title III , § 320(a)(2), May 25, 1990 , 104 Stat. 247

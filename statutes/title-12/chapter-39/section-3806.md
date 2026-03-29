@@ -5,7 +5,7 @@ usc_section: "3806"
 chapter: 39
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3806"
-generated_at: "2026-03-29T18:24:03.012Z"
+generated_at: "2026-03-29T19:28:17.787Z"
 ---
 
 # § 3806. Adjustable rate mortgage caps

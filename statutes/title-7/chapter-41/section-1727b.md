@@ -5,7 +5,7 @@ usc_section: "1727b"
 chapter: 41
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1727b"
-generated_at: "2026-03-29T18:23:43.302Z"
+generated_at: "2026-03-29T19:27:31.773Z"
 ---
 
 # § 1727b. Grant programs

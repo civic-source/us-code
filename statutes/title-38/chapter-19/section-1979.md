@@ -5,7 +5,7 @@ usc_section: "1979"
 chapter: 19
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1979"
-generated_at: "2026-03-29T18:26:07.576Z"
+generated_at: "2026-03-29T19:30:40.493Z"
 ---
 
 # § 1979. Incontestability

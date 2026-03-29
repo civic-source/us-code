@@ -5,7 +5,7 @@ usc_section: "10609"
 chapter: 112
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10609"
-generated_at: "2026-03-29T18:27:03.996Z"
+generated_at: "2026-03-29T19:31:45.591Z"
 ---
 
 # § 10609. Justice for United States victims of state sponsored terrorism

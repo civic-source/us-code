@@ -5,7 +5,7 @@ usc_section: "2785"
 chapter: 42
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 2785"
-generated_at: "2026-03-29T18:27:35.663Z"
+generated_at: "2026-03-29T19:32:24.212Z"
 ---
 
 # § 2785. Publication of contractor performance evaluations leading to award fees

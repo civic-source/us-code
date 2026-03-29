@@ -5,7 +5,7 @@ usc_section: "112"
 chapter: 1
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 112"
-generated_at: "2026-03-29T18:27:16.419Z"
+generated_at: "2026-03-29T19:32:28.717Z"
 ---
 
 # [§ 112. Repealed. Pub. L. 114–94, div. A, title VI , § 6012(a), Dec. 4, 2015 , 129 Stat. 1570 ]

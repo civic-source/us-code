@@ -5,7 +5,7 @@ usc_section: "136"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 136"
-generated_at: "2026-03-29T18:25:53.434Z"
+generated_at: "2026-03-29T19:30:19.705Z"
 ---
 
 # § 136. Energy conservation subsidies provided by public utilities

@@ -5,7 +5,7 @@ usc_section: "2484"
 chapter: 147
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2484"
-generated_at: "2026-03-29T18:23:51.964Z"
+generated_at: "2026-03-29T19:27:25.613Z"
 ---
 
 # § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing

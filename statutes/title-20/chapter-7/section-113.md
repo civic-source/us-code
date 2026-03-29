@@ -5,7 +5,7 @@ usc_section: "113"
 chapter: 7
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 113"
-generated_at: "2026-03-29T18:24:40.875Z"
+generated_at: "2026-03-29T19:28:42.931Z"
 ---
 
 # § 113. Teachers’ certificates dependent on passing examination on effect of alcoholic drinks and narcotics

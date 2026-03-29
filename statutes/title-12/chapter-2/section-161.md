@@ -5,7 +5,7 @@ usc_section: "161"
 chapter: 2
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 161"
-generated_at: "2026-03-29T18:24:02.732Z"
+generated_at: "2026-03-29T19:28:17.489Z"
 ---
 
 # § 161. Reports to Comptroller of the Currency

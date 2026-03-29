@@ -5,7 +5,7 @@ usc_section: "1461"
 chapter: 26
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1461"
-generated_at: "2026-03-29T18:25:30.922Z"
+generated_at: "2026-03-29T19:30:05.300Z"
 ---
 
 # § 1461. Prohibited acts

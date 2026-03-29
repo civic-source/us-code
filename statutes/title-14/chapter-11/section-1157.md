@@ -3,9 +3,9 @@ title: "Section 1157 - Extraordinary relief"
 usc_title: 14
 usc_section: "1157"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "14 U.S.C. § 1157"
-generated_at: "2026-03-29T02:11:23.787Z"
+generated_at: "2026-03-29T18:48:09.825Z"
 ---
 
 # § 1157. Extraordinary relief

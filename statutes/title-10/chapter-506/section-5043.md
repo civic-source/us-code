@@ -5,7 +5,7 @@ usc_section: "5043"
 chapter: 506
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5043"
-generated_at: "2026-03-29T18:23:52.041Z"
+generated_at: "2026-03-29T19:27:25.674Z"
 ---
 
 # § 5043. Commandant of the Marine Corps

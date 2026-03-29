@@ -5,7 +5,7 @@ usc_section: "1441a"
 chapter: 11
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1441a"
-generated_at: "2026-03-29T18:24:02.779Z"
+generated_at: "2026-03-29T19:28:17.538Z"
 ---
 
 # § 1441a. Repealed. Pub. L. 111–203, title III , § 364(b), July 21, 2010 , 124 Stat. 1555

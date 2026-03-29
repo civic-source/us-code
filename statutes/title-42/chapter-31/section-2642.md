@@ -5,7 +5,7 @@ usc_section: "2642"
 chapter: 31
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2642"
-generated_at: "2026-03-29T18:27:03.467Z"
+generated_at: "2026-03-29T19:31:45.050Z"
 ---
 
 # § 2642. Acceleration of public works

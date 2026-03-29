@@ -5,7 +5,7 @@ usc_section: "5124"
 chapter: 45
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 5124"
-generated_at: "2026-03-29T18:25:23.832Z"
+generated_at: "2026-03-29T19:29:34.890Z"
 ---
 
 # § 5124. Incorporation of Indian tribes; charter; ratification by election

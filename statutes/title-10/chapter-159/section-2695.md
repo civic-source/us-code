@@ -5,7 +5,7 @@ usc_section: "2695"
 chapter: 159
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2695"
-generated_at: "2026-03-29T18:23:51.993Z"
+generated_at: "2026-03-29T19:27:25.636Z"
 ---
 
 # § 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions

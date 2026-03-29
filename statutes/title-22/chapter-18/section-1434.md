@@ -5,7 +5,7 @@ usc_section: "1434"
 chapter: 18
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 1434"
-generated_at: "2026-03-29T18:24:54.148Z"
+generated_at: "2026-03-29T19:29:46.699Z"
 ---
 
 # § 1434. Repealed. Pub. L. 96–60, title II , § 203(a)(1), Aug. 15, 1979 , 93 Stat. 398

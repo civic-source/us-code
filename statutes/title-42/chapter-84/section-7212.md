@@ -5,7 +5,7 @@ usc_section: "7212"
 chapter: 84
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7212"
-generated_at: "2026-03-29T18:27:03.763Z"
+generated_at: "2026-03-29T19:31:45.349Z"
 ---
 
 # §§ 7211, 7212. Repealed. Pub. L. 104–106, div. D, title XLIII , § 4304(b)(6), Feb. 10, 1996 , 110 Stat. 664

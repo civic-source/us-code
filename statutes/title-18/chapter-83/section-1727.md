@@ -5,7 +5,7 @@ usc_section: "1727"
 chapter: 83
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1727"
-generated_at: "2026-03-29T18:24:43.823Z"
+generated_at: "2026-03-29T19:28:33.842Z"
 ---
 
 # [§ 1727. Repealed. Pub. L. 90–384 , § 1(a), July 5, 1968 , 82 Stat. 292 ]

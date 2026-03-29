@@ -3,9 +3,9 @@ title: "Section 4703a - Capital investments for neighborhoods disproportionately
 usc_title: 12
 usc_section: "4703a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "12 U.S.C. § 4703a"
-generated_at: "2026-03-29T02:11:21.223Z"
+generated_at: "2026-03-29T18:48:16.773Z"
 ---
 
 # § 4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T02:11:21.223Z"
     - **(B)** considered to be a minority depository institution by—
       - **(i)** the appropriate Federal banking agency; or
       - **(ii)** the National Credit Union Administration, in the case of an insured credit union; or
-    - **(C)** listed in the Federal Deposit Insurance Corporation’s Minority Depository Institutions List published for the Third Quarter 2020. 1 1 So in original. The period probably should be a semicolon.
+    - **(C)** listed in the Federal Deposit Insurance Corporation’s Minority Depository Institutions List published for the Third Quarter 2020.
   - **(7)** the term “Program” means the Emergency Capital Investment Program established under subsection (b);
   - **(8)** the term “savings and loan holding company” has the meaning given the term under section 1467a(a) of this title ; and
   - **(9)** the “Secretary” means the Secretary of the Treasury.
@@ -49,7 +49,7 @@ generated_at: "2026-03-29T02:11:21.223Z"
     - **(A)** At the time that an applicant submits an application to the Secretary for a capital investment under the Program, the applicant shall provide the Secretary, along with the appropriate Federal banking agency or the National Credit Union Administration, as applicable, an investment and lending plan that—
       - **(i)** demonstrates that not less than 30 percent of the lending of the applicant over the past 2 fiscal years was made directly to low- and moderate income borrowers, to borrowers that create direct benefits for low- and moderate-income populations, to other targeted populations as defined by the Fund, or any combination thereof, as measured by the total number and dollar amount of loans;
       - **(ii)** describes how the business strategy and operating goals of the applicant will address community development needs in communities that may be disproportionately impacted by the economic effects of COVID–19, which includes the needs of small businesses, consumers, nonprofit organizations, community development, and other projects providing direct benefits to low- and moderate-income communities, low-income individuals, and minorities within the minority, rural, and urban low-income and underserved areas served by the applicant;
-      - **(iii)** includes a plan to provide community outreach and communication, where appropriate; 2 2 So in original. Probably should be followed by “and”.
+      - **(iii)** includes a plan to provide community outreach and communication, where appropriate;
       - **(iv)** includes details on how the applicant plans to expand or maintain significant lending or investment activity in low- or moderate-income minority communities, especially those that may be disproportionately impacted by COVID–19 to historically disadvantaged borrowers, and to minorities that have significant unmet capital or financial services needs.
     - **(B)** In the case of an applicant that is certified as a community development financial institution as of December 27, 2020 , for purposes of subparagraph (A)(i), the Secretary may rely on documentation submitted by the applicant to the Fund as part of certification compliance reporting.
   - **(5)**

@@ -5,7 +5,7 @@ usc_section: "283r"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 283r"
-generated_at: "2026-03-29T18:24:54.116Z"
+generated_at: "2026-03-29T19:29:46.664Z"
 ---
 
 # § 283r. Expropriation of United States property; loan restrictions

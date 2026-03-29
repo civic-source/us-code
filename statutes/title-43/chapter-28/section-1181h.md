@@ -5,7 +5,7 @@ usc_section: "1181h"
 chapter: 28
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1181h"
-generated_at: "2026-03-29T18:26:14.848Z"
+generated_at: "2026-03-29T19:31:49.093Z"
 ---
 
 # § 1181h. Exchange of jurisdiction between Secretaries; conditions; publication in Federal Register

@@ -5,7 +5,7 @@ usc_section: "90"
 chapter: 2
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 90"
-generated_at: "2026-03-29T18:24:02.730Z"
+generated_at: "2026-03-29T19:28:17.487Z"
 ---
 
 # § 90. Depositaries of public moneys and financial agents of Government

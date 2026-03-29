@@ -3,9 +3,9 @@ title: "Section 8547 - Students at institutions of higher education: admission"
 usc_title: 10
 usc_section: "8547"
 chapter: 855
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8547"
-generated_at: "2026-03-29T02:10:45.311Z"
+generated_at: "2026-03-29T18:47:53.571Z"
 ---
 
 # § 8547. Students at institutions of higher education: admission

@@ -5,7 +5,7 @@ usc_section: "6402"
 chapter: 93
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 6402"
-generated_at: "2026-03-29T18:23:43.475Z"
+generated_at: "2026-03-29T19:27:31.941Z"
 ---
 
 # § 6402. Definitions

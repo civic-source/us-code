@@ -5,7 +5,7 @@ usc_section: "887"
 chapter: 17
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 887"
-generated_at: "2026-03-29T18:26:01.203Z"
+generated_at: "2026-03-29T19:30:28.747Z"
 ---
 
 # §§ 886, 887. Repealed. June 21, 1955, ch. 172 , § 5(1), (2), 69 Stat. 170

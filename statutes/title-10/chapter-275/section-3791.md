@@ -1,33 +1,17 @@
 ---
-title: "Section 3791 - Management of intellectual property matters within the Department of Defense"
+title: "Section 3791 - Management of intellectual property matters within the department of defense 1 1 So in original. Probably should be “Department of Defense”."
 usc_title: 10
 usc_section: "3791"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 3791"
-generated_at: "2026-03-29T02:10:45.198Z"
+generated_at: "2026-03-29T18:47:53.506Z"
 ---
 
-# § 3791. Management of intellectual property matters within the Department of Defense
+# § 3791. Management of intellectual property matters within the department of defense 1 1 So in original. Probably should be “Department of Defense”.
 
 - **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop policy on the acquisition or licensing of intellectual property—
   - **(1)** to enable coordination and consistency across the military departments and the Department of Defense in strategies for acquiring or licensing intellectual property and communicating with industry;
   - **(2)** to ensure that program managers are aware of the rights afforded the Federal Government and contractors in intellectual property and that program managers fully consider and use all available techniques and best practices for acquiring or licensing intellectual property early in the acquisition process; and
   - **(3)** to encourage customized intellectual property strategies for each system based on, at a minimum, the unique characteristics of the system and its components, the product support strategy for the system, the organic industrial base strategy of the military department concerned, and the commercial market.
 - **(b)** For a provision requiring establishment of a cadre of personnel who are experts in intellectual property matters, see section 1707 of this title .
-- **(c)**
-  - **(1)** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop guidelines and resources on the acquisition or licensing of intellectual property, including—
-    - **(A)** intellectual property strategies and other mechanisms supporting the use of modular open system approaches (as defined in section 4401(b) of this title );
-    - **(B)** evaluation and negotiation of intellectual property licenses in competitive and non-competitive awards;
-    - **(C)** models and best practices for specially negotiated licenses, including specially negotiated licenses described in section 3774(c) of this title ; and
-    - **(D)** definitions, key terms, examples, and case studies that clarify differences between—
-      - **(i)** detailed manufacturing and process data;
-      - **(ii)** form, fit, and function data;
-      - **(iii)** data required for operations, maintenance, installation, and training;
-      - **(iv)** modular system interfaces (as defined in section 4401(b) of this title ); and
-      - **(v)** technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a functionally equivalent item or process) with, other items or processes.
-  - **(2)** The guidelines and resources developed under paragraph (1) may not alter or affect any authority or duty under this section or section 1707 of this title .
-  - **(3)** In developing the guidelines and resources described in paragraph (1), the Secretary shall—
-    - **(A)** review the applicable statutory and regulatory history, including among the definitions and key terms in section 3771 of this title , to ensure consistency; and
-    - **(B)** regularly consult with appropriate government and industry persons and organizations.
-  - **(4)** The Secretary of Defense shall ensure that the acquisition workforce receives training on the guidelines and resources developed under paragraph (1).

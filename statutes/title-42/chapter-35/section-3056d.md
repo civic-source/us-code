@@ -5,7 +5,7 @@ usc_section: "3056d"
 chapter: 35
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3056d"
-generated_at: "2026-03-29T18:27:03.495Z"
+generated_at: "2026-03-29T19:31:45.075Z"
 ---
 
 # § 3056d. Distribution of assistance

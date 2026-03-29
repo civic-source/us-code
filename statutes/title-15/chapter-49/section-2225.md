@@ -5,7 +5,7 @@ usc_section: "2225"
 chapter: 49
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2225"
-generated_at: "2026-03-29T18:24:08.532Z"
+generated_at: "2026-03-29T19:27:55.497Z"
 ---
 
 # § 2225. Fire prevention and control guidelines for places of public accommodation

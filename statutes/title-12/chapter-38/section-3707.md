@@ -5,7 +5,7 @@ usc_section: "3707"
 chapter: 38
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 3707"
-generated_at: "2026-03-29T18:24:03.007Z"
+generated_at: "2026-03-29T19:28:17.783Z"
 ---
 
 # § 3707. Commencement of foreclosure; powers and duties of foreclosure commissioner or substitute

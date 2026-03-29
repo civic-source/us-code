@@ -5,7 +5,7 @@ usc_section: "1503"
 chapter: 15
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 1503"
-generated_at: "2026-03-29T18:26:16.112Z"
+generated_at: "2026-03-29T19:30:59.106Z"
 ---
 
 # § 1503. Filing documents with Office; notation of time; public inspection; transmission for printing

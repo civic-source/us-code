@@ -5,7 +5,7 @@ usc_section: "1042"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 1042"
-generated_at: "2026-03-29T18:25:53.711Z"
+generated_at: "2026-03-29T19:30:19.963Z"
 ---
 
 # § 1042. Sales of stock to employee stock ownership plans or certain cooperatives

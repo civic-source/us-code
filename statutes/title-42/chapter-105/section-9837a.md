@@ -5,7 +5,7 @@ usc_section: "9837a"
 chapter: 105
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9837a"
-generated_at: "2026-03-29T18:27:03.944Z"
+generated_at: "2026-03-29T19:31:45.538Z"
 ---
 
 # § 9837a. Head Start transition and alignment with K–12 education

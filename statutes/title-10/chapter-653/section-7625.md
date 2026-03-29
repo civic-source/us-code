@@ -5,7 +5,7 @@ usc_section: "7625"
 chapter: 653
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7625"
-generated_at: "2026-03-29T18:23:52.076Z"
+generated_at: "2026-03-29T19:27:25.698Z"
 ---
 
 # [§ 7625. Repealed. Pub. L. 87–769 , § 1(2)(A), Oct. 9, 1962 , 76 Stat. 768 ]

@@ -5,7 +5,7 @@ usc_section: "80501"
 chapter: 805
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 80501"
-generated_at: "2026-03-29T18:27:16.657Z"
+generated_at: "2026-03-29T19:32:28.923Z"
 ---
 
 # § 80501. Damage to transported property

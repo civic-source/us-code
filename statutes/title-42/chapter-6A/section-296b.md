@@ -5,7 +5,7 @@ usc_section: "296b"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 296b"
-generated_at: "2026-03-29T18:27:02.705Z"
+generated_at: "2026-03-29T19:31:44.349Z"
 ---
 
 # § 296b. Use of funds

@@ -5,7 +5,7 @@ usc_section: "732"
 chapter: 7
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 732"
-generated_at: "2026-03-29T18:25:59.143Z"
+generated_at: "2026-03-29T19:30:24.749Z"
 ---
 
 # § 732. Personnel management system

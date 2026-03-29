@@ -5,7 +5,7 @@ usc_section: "16251"
 chapter: 149
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 16251"
-generated_at: "2026-03-29T18:27:04.218Z"
+generated_at: "2026-03-29T19:31:45.837Z"
 ---
 
 # § 16251. Production incentives for cellulosic biofuels

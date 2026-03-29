@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 63
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-29T18:24:08.586Z"
+generated_at: "2026-03-29T19:27:55.547Z"
 ---
 
 # § 3704b–2. Transfer of Federal scientific and technical information

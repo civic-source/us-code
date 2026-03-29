@@ -5,7 +5,7 @@ usc_section: "2332"
 chapter: 137
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2332"
-generated_at: "2026-03-29T18:23:51.924Z"
+generated_at: "2026-03-29T19:27:25.589Z"
 ---
 
 # § 2332. Share-in-savings contracts

@@ -5,7 +5,7 @@ usc_section: "492"
 chapter: 20
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 492"
-generated_at: "2026-03-29T18:23:43.202Z"
+generated_at: "2026-03-29T19:27:31.682Z"
 ---
 
 # § 492. Repealed. Aug. 9, 1955, ch. 632 , § 2, 69 Stat. 553

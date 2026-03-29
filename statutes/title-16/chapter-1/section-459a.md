@@ -5,7 +5,7 @@ usc_section: "459a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 459a"
-generated_at: "2026-03-29T18:24:22.532Z"
+generated_at: "2026-03-29T19:29:27.164Z"
 ---
 
 # § 459a. Acceptance of donations; acquisition of property by purchase and condemnation

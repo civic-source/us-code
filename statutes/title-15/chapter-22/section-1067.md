@@ -5,7 +5,7 @@ usc_section: "1067"
 chapter: 22
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1067"
-generated_at: "2026-03-29T18:24:08.429Z"
+generated_at: "2026-03-29T19:27:55.403Z"
 ---
 
 # § 1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board

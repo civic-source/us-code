@@ -5,7 +5,7 @@ usc_section: "2681"
 chapter: 159
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2681"
-generated_at: "2026-03-29T18:23:51.990Z"
+generated_at: "2026-03-29T19:27:25.633Z"
 ---
 
 # § 2681. Use of test and evaluation installations by commercial entities

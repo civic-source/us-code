@@ -5,7 +5,7 @@ usc_section: "229F"
 chapter: 11
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 229F"
-generated_at: "2026-03-29T18:24:43.771Z"
+generated_at: "2026-03-29T19:28:33.786Z"
 ---
 
 # § 229F. Definitions

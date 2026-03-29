@@ -3,9 +3,9 @@ title: "Section 1126 - Program Management Improvement Officers and Program Manag
 usc_title: 31
 usc_section: "1126"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 1126"
-generated_at: "2026-03-29T02:14:14.046Z"
+generated_at: "2026-03-29T18:45:46.970Z"
 ---
 
 # § 1126. Program Management Improvement Officers and Program Management Policy Council

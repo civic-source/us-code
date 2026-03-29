@@ -5,7 +5,7 @@ usc_section: "5909"
 chapter: 88
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 5909"
-generated_at: "2026-03-29T18:23:43.457Z"
+generated_at: "2026-03-29T19:27:31.923Z"
 ---
 
 # §§ 5901 to 5909. Repealed. Pub. L. 107–171, title VI , § 6201(a), May 13, 2002 , 116 Stat. 418

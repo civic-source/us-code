@@ -5,7 +5,7 @@ usc_section: "6103"
 chapter: 76
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6103"
-generated_at: "2026-03-29T18:27:03.671Z"
+generated_at: "2026-03-29T19:31:45.259Z"
 ---
 
 # § 6103. Regulations

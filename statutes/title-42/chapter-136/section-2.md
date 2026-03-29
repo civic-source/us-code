@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-29T18:27:04.150Z"
+generated_at: "2026-03-29T19:31:45.757Z"
 ---
 
 # § 14043h–2. Increased funding for formula grants authorized

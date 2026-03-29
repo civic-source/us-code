@@ -5,7 +5,7 @@ usc_section: "222"
 chapter: 7
 current_through: "PL 114-254"
 classification: "13 U.S.C. § 222"
-generated_at: "2026-03-29T18:23:55.158Z"
+generated_at: "2026-03-29T19:27:55.736Z"
 ---
 
 # § 222. Giving suggestions or information with intent to cause inaccurate enumeration of population

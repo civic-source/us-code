@@ -3,9 +3,9 @@ title: "Section 5336 - Beneficial ownership information reporting requirements"
 usc_title: 31
 usc_section: "5336"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 5336"
-generated_at: "2026-03-29T02:14:14.102Z"
+generated_at: "2026-03-29T18:45:47.024Z"
 ---
 
 # § 5336. Beneficial ownership information reporting requirements
@@ -91,7 +91,7 @@ generated_at: "2026-03-29T02:14:14.102Z"
         - **(I)** employs more than 20 employees on a full-time basis in the United States;
         - **(II)** filed in the previous year Federal income tax returns in the United States demonstrating more than $5,000,000 in gross receipts or sales in the aggregate, including the receipts or sales of—
         - **(III)** has an operating presence at a physical office within the United States;
-      - **(xxii)** any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 1 1 So in original. Probably should be followed by a comma. (xix), or (xxi);
+      - **(xxii)** any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) (xix), or (xxi);
       - **(xxiii)** any corporation, limited liability company, or other similar entity—
         - **(I)** in existence for over 1 year;
         - **(II)** that is not engaged in active business;
@@ -112,8 +112,8 @@ generated_at: "2026-03-29T02:14:14.102Z"
     - **(D)** In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described in paragraph (2), submit to FinCEN a report that updates the information relating to the change.
     - **(E)** The Secretary of the Treasury, in consultation with the Attorney General and the Secretary of Homeland Security, shall conduct a review to evaluate—
       - **(i)** the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
-      - **(ii)** the benefit to law enforcement and national security officials that might be derived from, 2 2 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
-      - **(iii)** not later than 2 years after the date of enactment of this section, incorporate 2 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+      - **(ii)** the benefit to law enforcement and national security officials that might be derived from, 1 1 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
+      - **(iii)** not later than 2 years after the date of enactment of this section, incorporate 1 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
     - **(F)** In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
       - **(i)** establish partnerships with State, local, and Tribal governmental agencies;
       - **(ii)** collect information described in paragraph (2) through existing Federal, State, and local processes and procedures;
@@ -223,8 +223,8 @@ generated_at: "2026-03-29T02:14:14.102Z"
       - **(ii)** the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
         - **(I)** ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
         - **(II)** provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
-      - **(iii)** strengthen 2 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
-      - **(iv)** provide 2 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+      - **(iii)** strengthen 1 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+      - **(iv)** provide 1 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
         - **(I)** educating the business community on the goals and operations of the new beneficial ownership database; and
         - **(II)** disseminating to the governments of countries that are allies or partners of the United States information on best practices developed by FinCEN related to beneficial ownership information retention and use;
       - **(v)** any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the Federal, State, and local agencies and entities involved in implementing innovative approaches to meet their obligations under the Anti-Money Laundering Act of 2020 and the amendments made by that Act, the Bank Secrecy Act (as defined in section 6003 of the Anti-Money Laundering Act of 2020), and other anti-money laundering compliance laws; and

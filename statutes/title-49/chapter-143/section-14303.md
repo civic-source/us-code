@@ -5,7 +5,7 @@ usc_section: "14303"
 chapter: 143
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 14303"
-generated_at: "2026-03-29T18:27:16.495Z"
+generated_at: "2026-03-29T19:32:28.780Z"
 ---
 
 # § 14303. Consolidation, merger, and acquisition of control of motor carriers of passengers

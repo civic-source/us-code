@@ -5,7 +5,7 @@ usc_section: "5913"
 chapter: 79
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 5913"
-generated_at: "2026-03-29T18:24:22.926Z"
+generated_at: "2026-03-29T19:29:27.610Z"
 ---
 
 # § 5913. Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 Stat. 3272

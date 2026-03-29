@@ -5,7 +5,7 @@ usc_section: "13971"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13971"
-generated_at: "2026-03-29T18:27:04.141Z"
+generated_at: "2026-03-29T19:31:45.747Z"
 ---
 
 # § 13971. Rural domestic violence, dating violence, sexual assault, stalking, and child abuse enforcement assistance

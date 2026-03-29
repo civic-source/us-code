@@ -5,7 +5,7 @@ usc_section: "910"
 chapter: 18
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 910"
-generated_at: "2026-03-29T18:26:13.322Z"
+generated_at: "2026-03-29T19:31:12.248Z"
 ---
 
 # § 910. Repealed. Pub. L. 97–35, title XI , § 1144(b), Aug. 13, 1981 , 95 Stat. 669

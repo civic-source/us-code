@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 1
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-29T18:26:14.769Z"
+generated_at: "2026-03-29T19:31:49.017Z"
 ---
 
 # § 2. Duties concerning public lands

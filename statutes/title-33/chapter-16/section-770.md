@@ -5,7 +5,7 @@ usc_section: "770"
 chapter: 16
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 770"
-generated_at: "2026-03-29T18:26:01.200Z"
+generated_at: "2026-03-29T19:30:28.744Z"
 ---
 
 # § 770. Regulations for expenditure of moneys accruing from commutation of rations and provisions

@@ -5,7 +5,7 @@ usc_section: "411d"
 chapter: 7
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 411d"
-generated_at: "2026-03-29T18:26:10.143Z"
+generated_at: "2026-03-29T19:30:34.107Z"
 ---
 
 # [§ 411d. Renumbered § 481d]

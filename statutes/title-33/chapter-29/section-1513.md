@@ -5,7 +5,7 @@ usc_section: "1513"
 chapter: 29
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1513"
-generated_at: "2026-03-29T18:26:01.272Z"
+generated_at: "2026-03-29T19:30:28.817Z"
 ---
 
 # § 1513. Public access to information

@@ -5,7 +5,7 @@ usc_section: "36C"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 36C"
-generated_at: "2026-03-29T18:25:53.371Z"
+generated_at: "2026-03-29T19:30:19.639Z"
 ---
 
 # [§ 36C. Renumbered § 23]

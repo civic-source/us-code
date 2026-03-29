@@ -3,9 +3,9 @@ title: "Section 8512 - Weather research and forecasting innovation"
 usc_title: 15
 usc_section: "8512"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "15 U.S.C. § 8512"
-generated_at: "2026-03-29T02:11:34.447Z"
+generated_at: "2026-03-29T18:49:04.562Z"
 ---
 
 # § 8512. Weather research and forecasting innovation
@@ -26,8 +26,8 @@ generated_at: "2026-03-29T02:11:34.447Z"
     - **(E)** quantitative assessment tools for measuring the impact and value of data and observing systems, including Observing System Simulation Experiments (as described in section 8517 of this title ), Observing System Experiments, and Analyses of Alternatives;
     - **(F)** atmospheric chemistry and interactions essential to accurately characterizing atmospheric composition and predicting meteorological processes, including cloud microphysical, precipitation, and atmospheric electrification processes, to more effectively understand their role in severe weather; and
     - **(G)** additional sources of weather data and information, including commercial observing systems.
-  - **(4)** A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
-  - **(5)** Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
+  - **(4)** 1 1 So in original. Two pars. (4) have been enacted. A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+  - **(4)** 1 Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
     - **(A)** leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;
     - **(B)** enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;
     - **(C)** strengthening the National Oceanic and Atmospheric Administration’s ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;

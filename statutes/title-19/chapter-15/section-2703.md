@@ -5,7 +5,7 @@ usc_section: "2703"
 chapter: 15
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-29T18:24:16.183Z"
+generated_at: "2026-03-29T19:28:30.749Z"
 ---
 
 # § 2703. Eligible articles

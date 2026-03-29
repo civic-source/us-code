@@ -5,7 +5,7 @@ usc_section: "7608"
 chapter: 78
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7608"
-generated_at: "2026-03-29T18:25:53.981Z"
+generated_at: "2026-03-29T19:30:20.262Z"
 ---
 
 # § 7608. Authority of internal revenue enforcement officers

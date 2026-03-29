@@ -5,7 +5,7 @@ usc_section: "7443"
 chapter: 76
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7443"
-generated_at: "2026-03-29T18:25:53.970Z"
+generated_at: "2026-03-29T19:30:20.248Z"
 ---
 
 # § 7443. Membership

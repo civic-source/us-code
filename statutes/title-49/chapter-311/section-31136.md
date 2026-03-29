@@ -5,7 +5,7 @@ usc_section: "31136"
 chapter: 311
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 31136"
-generated_at: "2026-03-29T18:27:16.546Z"
+generated_at: "2026-03-29T19:32:28.833Z"
 ---
 
 # § 31136. United States Government regulations

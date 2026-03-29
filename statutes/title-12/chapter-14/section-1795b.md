@@ -5,7 +5,7 @@ usc_section: "1795b"
 chapter: 14
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1795b"
-generated_at: "2026-03-29T18:24:02.893Z"
+generated_at: "2026-03-29T19:28:17.655Z"
 ---
 
 # § 1795b. National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction

@@ -5,7 +5,7 @@ usc_section: "7405"
 chapter: 100
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 7405"
-generated_at: "2026-03-29T18:24:08.655Z"
+generated_at: "2026-03-29T19:27:55.607Z"
 ---
 
 # § 7405. Consultation

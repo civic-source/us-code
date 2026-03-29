@@ -5,7 +5,7 @@ usc_section: "317"
 chapter: 8
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 317"
-generated_at: "2026-03-29T18:25:23.676Z"
+generated_at: "2026-03-29T19:29:34.748Z"
 ---
 
 # § 317. Regulations

@@ -5,7 +5,7 @@ usc_section: "14132"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14132"
-generated_at: "2026-03-29T18:27:04.158Z"
+generated_at: "2026-03-29T19:31:45.766Z"
 ---
 
 # § 14132. Index to facilitate law enforcement exchange of DNA identification information

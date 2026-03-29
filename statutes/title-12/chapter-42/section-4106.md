@@ -5,7 +5,7 @@ usc_section: "4106"
 chapter: 42
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 4106"
-generated_at: "2026-03-29T18:24:03.017Z"
+generated_at: "2026-03-29T19:28:17.794Z"
 ---
 
 # § 4106. Information from Secretary

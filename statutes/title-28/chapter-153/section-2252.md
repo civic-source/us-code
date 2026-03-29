@@ -5,7 +5,7 @@ usc_section: "2252"
 chapter: 153
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 2252"
-generated_at: "2026-03-29T18:25:32.952Z"
+generated_at: "2026-03-29T19:30:04.394Z"
 ---
 
 # § 2252. Notice

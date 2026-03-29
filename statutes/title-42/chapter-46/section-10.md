@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-29T18:27:03.545Z"
+generated_at: "2026-03-29T19:31:45.125Z"
 ---
 
 # § 3796gg–10. Grants to Indian tribal governments

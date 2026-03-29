@@ -5,7 +5,7 @@ usc_section: "4912"
 chapter: 75
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 4912"
-generated_at: "2026-03-29T18:24:08.613Z"
+generated_at: "2026-03-29T19:27:55.568Z"
 ---
 
 # § 4912. Fees and access

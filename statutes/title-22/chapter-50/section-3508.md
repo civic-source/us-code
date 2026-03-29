@@ -5,7 +5,7 @@ usc_section: "3508"
 chapter: 50
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3508"
-generated_at: "2026-03-29T18:24:54.282Z"
+generated_at: "2026-03-29T19:29:46.834Z"
 ---
 
 # § 3508. Fellowships

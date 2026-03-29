@@ -5,7 +5,7 @@ usc_section: "2669"
 chapter: 159
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2669"
-generated_at: "2026-03-29T18:23:51.988Z"
+generated_at: "2026-03-29T19:27:25.631Z"
 ---
 
 # [§ 2669. Repealed. Pub. L. 109–364, div. B, title XXVIII , § 2822(c), Oct. 17, 2006 , 120 Stat. 2475 ]

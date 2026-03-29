@@ -5,7 +5,7 @@ usc_section: "47114"
 chapter: 471
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 47114"
-generated_at: "2026-03-29T18:27:16.628Z"
+generated_at: "2026-03-29T19:32:28.901Z"
 ---
 
 # § 47114. Apportionments

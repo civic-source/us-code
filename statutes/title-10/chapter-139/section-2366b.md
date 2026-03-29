@@ -5,7 +5,7 @@ usc_section: "2366b"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-29T18:23:51.935Z"
+generated_at: "2026-03-29T19:27:25.597Z"
 ---
 
 # § 2366b. Major defense acquisition programs: certification required before Milestone B approval

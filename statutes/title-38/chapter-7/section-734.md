@@ -5,7 +5,7 @@ usc_section: "734"
 chapter: 7
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 734"
-generated_at: "2026-03-29T18:26:07.546Z"
+generated_at: "2026-03-29T19:30:40.464Z"
 ---
 
 # § 734. Evaluation criteria of supervisors and treatment of bonuses

@@ -5,7 +5,7 @@ usc_section: "8521"
 chapter: 85
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 8521"
-generated_at: "2026-03-29T18:26:07.687Z"
+generated_at: "2026-03-29T19:30:40.597Z"
 ---
 
 # § 8521. Presumption of contract for disposition of personalty

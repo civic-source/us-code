@@ -5,7 +5,7 @@ usc_section: "30103"
 chapter: 301
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 30103"
-generated_at: "2026-03-29T18:27:16.529Z"
+generated_at: "2026-03-29T19:32:28.816Z"
 ---
 
 # § 30103. Relationship to other laws

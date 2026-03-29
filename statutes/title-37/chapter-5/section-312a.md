@@ -5,7 +5,7 @@ usc_section: "312a"
 chapter: 5
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 312a"
-generated_at: "2026-03-29T18:26:10.132Z"
+generated_at: "2026-03-29T19:30:34.097Z"
 ---
 
 # [§ 312a. Repealed. Pub. L. 109–163, div. A, title VI , § 629(d)(1), Jan. 6, 2006 , 119 Stat. 3297 ]

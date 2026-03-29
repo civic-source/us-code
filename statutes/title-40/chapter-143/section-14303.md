@@ -5,7 +5,7 @@ usc_section: "14303"
 chapter: 143
 current_through: "PL 114-254"
 classification: "40 U.S.C. § 14303"
-generated_at: "2026-03-29T18:26:04.584Z"
+generated_at: "2026-03-29T19:30:36.706Z"
 ---
 
 # § 14303. Functions

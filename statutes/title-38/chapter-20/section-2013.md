@@ -5,7 +5,7 @@ usc_section: "2013"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-29T18:26:07.580Z"
+generated_at: "2026-03-29T19:30:40.495Z"
 ---
 
 # § 2013. Authorization of appropriations

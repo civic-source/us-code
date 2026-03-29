@@ -5,7 +5,7 @@ usc_section: "13981"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13981"
-generated_at: "2026-03-29T18:27:04.142Z"
+generated_at: "2026-03-29T19:31:45.748Z"
 ---
 
 # § 13981. Civil rights

@@ -5,7 +5,7 @@ usc_section: "20107"
 chapter: 201
 current_through: "PL 114-254"
 classification: "52 U.S.C. § 20107"
-generated_at: "2026-03-29T18:27:39.885Z"
+generated_at: "2026-03-29T19:32:34.057Z"
 ---
 
 # § 20107. Definitions

@@ -5,7 +5,7 @@ usc_section: "2465c"
 chapter: 26
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2465c"
-generated_at: "2026-03-29T18:27:03.466Z"
+generated_at: "2026-03-29T19:31:45.049Z"
 ---
 
 # § 2465c. Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 Stat. 3444

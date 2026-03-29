@@ -5,7 +5,7 @@ usc_section: "2109"
 chapter: 21
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2109"
-generated_at: "2026-03-29T18:26:07.584Z"
+generated_at: "2026-03-29T19:30:40.501Z"
 ---
 
 # § 2109. Specially adapted housing destroyed or damaged by natural disasters

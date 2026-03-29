@@ -5,7 +5,7 @@ usc_section: "9564"
 chapter: 935
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 9564"
-generated_at: "2026-03-29T18:23:52.098Z"
+generated_at: "2026-03-29T19:27:25.716Z"
 ---
 
 # § 9564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Air Force

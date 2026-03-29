@@ -5,7 +5,7 @@ usc_section: "472a"
 chapter: 2
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 472a"
-generated_at: "2026-03-29T18:27:11.636Z"
+generated_at: "2026-03-29T19:31:53.942Z"
 ---
 
 # §§ 472, 472a. Repealed. Oct. 31, 1951, ch. 654 , § 1(126), 65 Stat. 706

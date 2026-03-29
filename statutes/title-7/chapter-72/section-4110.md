@@ -5,7 +5,7 @@ usc_section: "4110"
 chapter: 72
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 4110"
-generated_at: "2026-03-29T18:23:43.431Z"
+generated_at: "2026-03-29T19:27:31.895Z"
 ---
 
 # §§ 4101 to 4110. Omitted

@@ -5,7 +5,7 @@ usc_section: "410b"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410b"
-generated_at: "2026-03-29T18:24:22.464Z"
+generated_at: "2026-03-29T19:29:27.089Z"
 ---
 
 # § 410b. Administration, protection, and development

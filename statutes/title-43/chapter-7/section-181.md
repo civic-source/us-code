@@ -5,7 +5,7 @@ usc_section: "181"
 chapter: 7
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 181"
-generated_at: "2026-03-29T18:26:14.778Z"
+generated_at: "2026-03-29T19:31:49.024Z"
 ---
 
 # § 181. Repealed. Dec. 16, 1930, ch. 14 , § 1, 46 Stat. 1029

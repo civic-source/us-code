@@ -5,7 +5,7 @@ usc_section: "6522"
 chapter: 94
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 6522"
-generated_at: "2026-03-29T18:23:43.482Z"
+generated_at: "2026-03-29T19:27:31.949Z"
 ---
 
 # § 6522. Authorization of appropriations

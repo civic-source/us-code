@@ -5,7 +5,7 @@ usc_section: "1046"
 chapter: 15
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1046"
-generated_at: "2026-03-29T18:25:04.233Z"
+generated_at: "2026-03-29T19:29:50.495Z"
 ---
 
 # § 1046. Imports

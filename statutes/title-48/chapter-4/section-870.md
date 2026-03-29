@@ -5,7 +5,7 @@ usc_section: "870"
 chapter: 4
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 870"
-generated_at: "2026-03-29T18:27:11.646Z"
+generated_at: "2026-03-29T19:31:53.945Z"
 ---
 
 # § 870. Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992

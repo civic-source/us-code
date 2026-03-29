@@ -5,7 +5,7 @@ usc_section: "2279bb"
 chapter: 23
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2279bb"
-generated_at: "2026-03-29T18:24:02.979Z"
+generated_at: "2026-03-29T19:28:17.752Z"
 ---
 
 # § 2279bb. Definitions

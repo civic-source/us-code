@@ -5,7 +5,7 @@ usc_section: "556"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 556"
-generated_at: "2026-03-29T18:26:01.176Z"
+generated_at: "2026-03-29T19:30:28.721Z"
 ---
 
 # § 556. Printing reports generally

@@ -5,7 +5,7 @@ usc_section: "1916"
 chapter: 7
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1916"
-generated_at: "2026-03-29T18:24:16.135Z"
+generated_at: "2026-03-29T19:28:30.706Z"
 ---
 
 # § 1916. Administration of financial assistance; recording of mortgages

@@ -5,7 +5,7 @@ usc_section: "250"
 chapter: 6
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 250"
-generated_at: "2026-03-29T18:25:23.669Z"
+generated_at: "2026-03-29T19:29:34.743Z"
 ---
 
 # §§ 241 to 250. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862

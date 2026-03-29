@@ -5,7 +5,7 @@ usc_section: "53"
 chapter: 5
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 53"
-generated_at: "2026-03-29T18:25:43.003Z"
+generated_at: "2026-03-29T19:30:07.500Z"
 ---
 
 # § 53. “Person” or “persons” defined

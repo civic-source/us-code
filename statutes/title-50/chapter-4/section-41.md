@@ -5,7 +5,7 @@ usc_section: "41"
 chapter: 4
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 41"
-generated_at: "2026-03-29T18:27:35.582Z"
+generated_at: "2026-03-29T19:32:24.086Z"
 ---
 
 # § 41. Repealed. June 25, 1948, ch. 645 , § 21, 62 Stat. 862

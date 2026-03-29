@@ -5,7 +5,7 @@ usc_section: "2660"
 chapter: 38
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2660"
-generated_at: "2026-03-29T18:24:54.244Z"
+generated_at: "2026-03-29T19:29:46.800Z"
 ---
 
 # § 2660. Copies of treaties furnished to Director of the Government Publishing Office

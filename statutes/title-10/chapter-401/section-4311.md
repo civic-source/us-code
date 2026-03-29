@@ -5,7 +5,7 @@ usc_section: "4311"
 chapter: 401
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4311"
-generated_at: "2026-03-29T18:23:52.027Z"
+generated_at: "2026-03-29T19:27:25.661Z"
 ---
 
 # [§§ 4310, 4311. Repealed. Pub. L. 104–106, div. A, title XVI , § 1624(a)(1), Feb. 10, 1996 , 110 Stat. 522 ]

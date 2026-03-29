@@ -5,7 +5,7 @@ usc_section: "20906"
 chapter: 209
 current_through: "PL 114-254"
 classification: "52 U.S.C. § 20906"
-generated_at: "2026-03-29T18:27:39.891Z"
+generated_at: "2026-03-29T19:32:34.066Z"
 ---
 
 # § 20906. Effective date

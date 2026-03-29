@@ -5,7 +5,7 @@ usc_section: "2402"
 chapter: 141
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2402"
-generated_at: "2026-03-29T18:23:51.944Z"
+generated_at: "2026-03-29T19:27:25.602Z"
 ---
 
 # § 2402. Prohibition of contractors limiting subcontractor sales directly to the United States

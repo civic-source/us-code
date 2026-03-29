@@ -3,9 +3,9 @@ title: "Section 40901 - Establishment"
 usc_title: 34
 usc_section: "40901"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "34 U.S.C. § 40901"
-generated_at: "2026-03-29T02:14:25.384Z"
+generated_at: "2026-03-29T18:45:50.408Z"
 ---
 
 # § 40901. Establishment
@@ -14,15 +14,7 @@ generated_at: "2026-03-29T02:14:25.384Z"
   - **(1)** determine the type of computer hardware and software that will be used to operate the national instant criminal background check system and the means by which State criminal records systems and the telephone or electronic device of licensees will communicate with the national system;
   - **(2)** investigate the criminal records system of each State and determine for each State a timetable by which the State should be able to provide criminal records on an on-line capacity basis to the national system; and
   - **(3)** notify each State of the determinations made pursuant to paragraphs (1) and (2).
-- **(b)**
-  - **(1)** Not later than 60 months after November 30, 1993 , the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18 or State law.
-  - **(2)**
-    - **(A)** Not later than 90 days after June 25, 2022 , the Attorney General shall promulgate regulations allowing licensees to use the national instant criminal background check system established under this section for purposes of voluntarily conducting an employment background check relating to a current or prospective employee. The Attorney General may not collect a fee for an employment background check under this subparagraph.
-    - **(B)** Before conducting an employment background check relating to a current or prospective employee under subparagraph (A), a licensee shall—
-      - **(i)** provide written notice to the current or prospective employee that the licensee intends to conduct the background check; and
-      - **(ii)** obtain consent to conduct the background check from the current or prospective employee in writing.
-    - **(C)** An employment background check conducted by a licensee under subparagraph (A) shall not be governed by the Fair Credit Reporting Act ( 15 U.S.C. 1681 et seq.).
-    - **(D)** Any individual who is the subject of an employment background check conducted by a licensee under subparagraph (A) the result of which indicates that the individual is prohibited from possessing a firearm or ammunition pursuant to subsection (g) or (n) of section 922 of title 18 may appeal the results of the background check in the same manner and to the same extent as if the individual had been the subject of a background check relating to the transfer of a firearm.
+- **(b)** Not later than 60 months after November 30, 1993 , the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18 or State law.
 - **(c)** The Attorney General shall expedite—
   - **(1)** the upgrading and indexing of State criminal history records in the Federal criminal records system maintained by the Federal Bureau of Investigation;
   - **(2)** the development of hardware and software systems to link State criminal history check systems into the national instant criminal background check system established by the Attorney General pursuant to this section; and
@@ -80,12 +72,3 @@ generated_at: "2026-03-29T02:14:25.384Z"
   - **(1)** The term “licensee” means a licensed importer (as defined in section 921(a)(9) of title 18 ), a licensed manufacturer (as defined in section 921(a)(10) of that title), or a licensed dealer (as defined in section 921(a)(11) of that title).
   - **(2)** The terms “firearm”, “handgun”, “licensed importer”, “licensed manufacturer”, and “licensed dealer” have the meanings stated in section 921(a) of title 18 , as amended by subsection (a)(2).
 - **(k)** There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
-- **(l)** If a licensee contacts the system established under this section regarding a proposed transfer of a firearm to a person less than 21 years of age in accordance with subsection (t) of section 922 of title 18 , the system shall—
-  - **(1)** immediately contact—
-    - **(A)** the criminal history repository or juvenile justice information system, as appropriate, of the State in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
-    - **(B)** the appropriate State custodian of mental health adjudication records in the State in which the person resides to determine whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922; and
-    - **(C)** a local law enforcement agency of the jurisdiction in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
-  - **(2)** as soon as possible, but in no case more than 3 business days, after the licensee contacts the system, notify the licensee whether cause exists to further investigate a possibly disqualifying juvenile record under subsection (d) of such section 922; and
-  - **(3)** if there is cause for further investigation, as soon as possible, but in no case more than 10 business days, after the licensee contacts the system, notify the licensee whether—
-    - **(A)** transfer of a firearm to the person would violate subsection (d) of such section 922; or
-    - **(B)** receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.

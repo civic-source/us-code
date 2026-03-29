@@ -5,7 +5,7 @@ usc_section: "6418"
 chapter: 65
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 6418"
-generated_at: "2026-03-29T18:25:53.933Z"
+generated_at: "2026-03-29T19:30:20.205Z"
 ---
 
 # [§ 6418. Repealed. Pub. L. 101–508, title XI , § 11801(c)(22)(B)(i), Nov. 5, 1990 , 104 Stat. 1388–528 ]

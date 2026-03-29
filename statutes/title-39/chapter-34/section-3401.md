@@ -5,7 +5,7 @@ usc_section: "3401"
 chapter: 34
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 3401"
-generated_at: "2026-03-29T18:26:03.567Z"
+generated_at: "2026-03-29T19:30:48.550Z"
 ---
 
 # § 3401. Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations

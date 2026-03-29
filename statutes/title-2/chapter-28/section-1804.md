@@ -5,7 +5,7 @@ usc_section: "1804"
 chapter: 28
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 1804"
-generated_at: "2026-03-29T18:23:14.122Z"
+generated_at: "2026-03-29T19:27:07.564Z"
 ---
 
 # § 1804. Deputy Architect of the Capitol to act in case of absence, disability, or vacancy

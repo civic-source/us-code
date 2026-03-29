@@ -5,7 +5,7 @@ usc_section: "2505"
 chapter: 52
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2505"
-generated_at: "2026-03-29T18:24:08.540Z"
+generated_at: "2026-03-29T19:27:55.504Z"
 ---
 
 # § 2505. Research and development

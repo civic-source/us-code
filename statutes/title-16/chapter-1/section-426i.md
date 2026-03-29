@@ -5,7 +5,7 @@ usc_section: "426i"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 426i"
-generated_at: "2026-03-29T18:24:22.511Z"
+generated_at: "2026-03-29T19:29:27.140Z"
 ---
 
 # § 426i. Protection of monuments, etc.

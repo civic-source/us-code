@@ -5,7 +5,7 @@ usc_section: "470"
 chapter: 1
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 470"
-generated_at: "2026-03-29T18:23:35.758Z"
+generated_at: "2026-03-29T19:27:39.856Z"
 ---
 
 # § 470. Disclosures regarding homeland security grants

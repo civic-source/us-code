@@ -5,7 +5,7 @@ usc_section: "2608"
 chapter: 155
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2608"
-generated_at: "2026-03-29T18:23:51.982Z"
+generated_at: "2026-03-29T19:27:25.625Z"
 ---
 
 # § 2608. Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account

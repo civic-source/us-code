@@ -5,7 +5,7 @@ usc_section: "3150a"
 chapter: 207
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3150a"
-generated_at: "2026-03-29T18:24:43.863Z"
+generated_at: "2026-03-29T19:28:33.883Z"
 ---
 
 # [§ 3150a. Repealed. Pub. L. 98–473, title II , § 203(a), Oct. 12, 1984 , 98 Stat. 1976 ]

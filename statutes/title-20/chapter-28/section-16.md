@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 28
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 16"
-generated_at: "2026-03-29T18:24:40.920Z"
+generated_at: "2026-03-29T19:28:42.976Z"
 ---
 
 # § 1070a–16. Educational opportunity centers

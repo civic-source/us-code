@@ -5,7 +5,7 @@ usc_section: "441k"
 chapter: 14
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 441k"
-generated_at: "2026-03-29T18:23:14.073Z"
+generated_at: "2026-03-29T19:27:07.520Z"
 ---
 
 # § 441k. Transferred

@@ -5,7 +5,7 @@ usc_section: "1307"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1307"
-generated_at: "2026-03-29T18:27:02.958Z"
+generated_at: "2026-03-29T19:31:44.568Z"
 ---
 
 # § 1307. Penalty for fraud

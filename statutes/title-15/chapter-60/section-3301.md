@@ -5,7 +5,7 @@ usc_section: "3301"
 chapter: 60
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 3301"
-generated_at: "2026-03-29T18:24:08.578Z"
+generated_at: "2026-03-29T19:27:55.539Z"
 ---
 
 # § 3301. Definitions

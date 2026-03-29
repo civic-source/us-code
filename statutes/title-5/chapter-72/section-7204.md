@@ -5,7 +5,7 @@ usc_section: "7204"
 chapter: 72
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 7204"
-generated_at: "2026-03-29T18:23:29.927Z"
+generated_at: "2026-03-29T19:27:05.330Z"
 ---
 
 # § 7204. Other prohibitions

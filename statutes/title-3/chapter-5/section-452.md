@@ -5,7 +5,7 @@ usc_section: "452"
 chapter: 5
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 452"
-generated_at: "2026-03-29T18:23:14.424Z"
+generated_at: "2026-03-29T19:27:10.134Z"
 ---
 
 # § 452. Counseling and mediation

@@ -5,7 +5,7 @@ usc_section: "2401e"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2401e"
-generated_at: "2026-03-29T18:24:16.162Z"
+generated_at: "2026-03-29T19:28:30.732Z"
 ---
 
 # § 2401e. Qualifying requirements and benefits for agricultural commodity producers

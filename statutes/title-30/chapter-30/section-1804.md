@@ -5,7 +5,7 @@ usc_section: "1804"
 chapter: 30
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1804"
-generated_at: "2026-03-29T18:25:30.932Z"
+generated_at: "2026-03-29T19:30:05.313Z"
 ---
 
 # § 1804. Program and policy for advanced materials research and technology

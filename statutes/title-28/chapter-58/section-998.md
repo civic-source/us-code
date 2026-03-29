@@ -5,7 +5,7 @@ usc_section: "998"
 chapter: 58
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 998"
-generated_at: "2026-03-29T18:25:32.928Z"
+generated_at: "2026-03-29T19:30:04.370Z"
 ---
 
 # § 998. Definitions

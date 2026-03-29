@@ -1,18 +1,19 @@
 ---
-title: "Section 9084 - Office of the Chief of Space Operations: function; composition"
+title: "Section 9084 - Office of the Chief of Space Operations: general duties"
 usc_title: 10
 usc_section: "9084"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9084"
-generated_at: "2026-03-29T02:10:45.337Z"
+generated_at: "2026-03-29T18:47:53.589Z"
 ---
 
-# § 9084. Office of the Chief of Space Operations: function; composition
+# § 9084. Office of the Chief of Space Operations: general duties
 
-- **(a)** There is in the executive part of the Department of the Air Force an Office of the Chief of Space Operations to assist the Secretary of the Air Force in carrying out the responsibilities of the Secretary.
-- **(b)** The Office of the Chief of Space Operations is composed of the following:
-  - **(1)** The Chief of Space Operations.
-  - **(2)** Other members of the Space Force and Air Force assigned or detailed to the Office of the Chief of Space Operations.
-  - **(3)** Civilian employees in the Department of the Air Force assigned or detailed to the Office of the Chief of Space Operations.
-- **(c)** Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
+- **(a)** The Office of the Chief of Space Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force and to the Chief of Space Operations.
+- **(b)** Under the authority, direction, and control of the Secretary of the Air Force, the Office of the Chief of Space Operations shall—
+  - **(1)** subject to subsections (c) and (d) of section 9014 of this title , prepare for such employment of the Space Force, and for such recruiting, organizing, supplying, equipping (including research and development), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Space Force, as will assist in the execution of any power, duty, or function of the Secretary of the Air Force or the Chief of Space Operations;
+  - **(2)** investigate and report upon the efficiency of the Space Force and its preparation to support military operations by commanders of the combatant commands;
+  - **(3)** prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
+  - **(4)** as directed by the Secretary of the Air Force or the Chief of Space Operations, coordinate the action of organizations of the Space Force; and
+  - **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary of the Air Force.

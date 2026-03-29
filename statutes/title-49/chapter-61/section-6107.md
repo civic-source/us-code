@@ -5,7 +5,7 @@ usc_section: "6107"
 chapter: 61
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 6107"
-generated_at: "2026-03-29T18:27:16.472Z"
+generated_at: "2026-03-29T19:32:28.760Z"
 ---
 
 # § 6107. Funding

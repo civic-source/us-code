@@ -5,7 +5,7 @@ usc_section: "53912"
 chapter: 539
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 53912"
-generated_at: "2026-03-29T18:27:18.924Z"
+generated_at: "2026-03-29T19:32:17.378Z"
 ---
 
 # § 53912. Expiration date

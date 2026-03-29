@@ -5,7 +5,7 @@ usc_section: "3204"
 chapter: 20
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 3204"
-generated_at: "2026-03-29T18:24:16.196Z"
+generated_at: "2026-03-29T19:28:30.763Z"
 ---
 
 # § 3204. International Trade Commission reports on impact of this chapter

@@ -5,7 +5,7 @@ usc_section: "1667c"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1667c"
-generated_at: "2026-03-29T18:25:23.744Z"
+generated_at: "2026-03-29T19:29:34.804Z"
 ---
 
 # § 1667c. Substance abuse and mental health services Administration grants

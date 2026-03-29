@@ -5,7 +5,7 @@ usc_section: "1990"
 chapter: 21
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1990"
-generated_at: "2026-03-29T18:27:03.402Z"
+generated_at: "2026-03-29T19:31:44.992Z"
 ---
 
 # § 1990. Marshal to obey precepts; refusing to receive or execute process

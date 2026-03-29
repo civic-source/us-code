@@ -5,7 +5,7 @@ usc_section: "1339c"
 chapter: 35
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1339c"
-generated_at: "2026-03-29T18:23:43.243Z"
+generated_at: "2026-03-29T19:27:31.719Z"
 ---
 
 # § 1339c. Feed grains diversion programs for 1964 and subsequent years; feed grain acreage considered wheat acreage and wheat acreage considered feed grain acreage

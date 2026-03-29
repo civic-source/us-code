@@ -5,7 +5,7 @@ usc_section: "8743"
 chapter: 94
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8743"
-generated_at: "2026-03-29T18:24:54.413Z"
+generated_at: "2026-03-29T19:29:46.991Z"
 ---
 
 # § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons

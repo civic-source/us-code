@@ -5,7 +5,7 @@ usc_section: "5556a"
 chapter: 71
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5556a"
-generated_at: "2026-03-29T18:27:03.647Z"
+generated_at: "2026-03-29T19:31:45.233Z"
 ---
 
 # § 5556a. Solar photovoltaic energy systems studies and acquisitions by Secretary of Energy; scope, contents, and submission dates for reports; acquisition authority and requirements; authorization of appropriations

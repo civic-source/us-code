@@ -5,7 +5,7 @@ usc_section: "635l"
 chapter: 6
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 635l"
-generated_at: "2026-03-29T18:24:02.769Z"
+generated_at: "2026-03-29T19:28:17.526Z"
 ---
 
 # § 635l. Authorization for appropriation of funds for losses

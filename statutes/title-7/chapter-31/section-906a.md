@@ -5,7 +5,7 @@ usc_section: "906a"
 chapter: 31
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 906a"
-generated_at: "2026-03-29T18:23:43.222Z"
+generated_at: "2026-03-29T19:27:31.699Z"
 ---
 
 # § 906a. Use of funds outside the United States or its territories prohibited

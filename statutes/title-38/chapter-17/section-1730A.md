@@ -5,7 +5,7 @@ usc_section: "1730A"
 chapter: 17
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 1730A"
-generated_at: "2026-03-29T18:26:07.565Z"
+generated_at: "2026-03-29T19:30:40.481Z"
 ---
 
 # § 1730A. Prohibition on collection of copayments from catastrophically disabled veterans

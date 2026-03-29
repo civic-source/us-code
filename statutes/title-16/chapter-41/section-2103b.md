@@ -5,7 +5,7 @@ usc_section: "2103b"
 chapter: 41
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 2103b"
-generated_at: "2026-03-29T18:24:22.846Z"
+generated_at: "2026-03-29T19:29:27.516Z"
 ---
 
 # § 2103b. Repealed. Pub. L. 113–79, title VIII , § 8002, Feb. 7, 2014 , 128 Stat. 913

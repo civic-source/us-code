@@ -5,7 +5,7 @@ usc_section: "2110"
 chapter: 53
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 2110"
-generated_at: "2026-03-29T18:23:43.379Z"
+generated_at: "2026-03-29T19:27:31.849Z"
 ---
 
 # § 2110. Refund of producer assessments

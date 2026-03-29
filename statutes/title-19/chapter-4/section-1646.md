@@ -5,7 +5,7 @@ usc_section: "1646"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1646"
-generated_at: "2026-03-29T18:24:16.111Z"
+generated_at: "2026-03-29T19:28:30.683Z"
 ---
 
 # § 1646. Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992 , eff. Sept. 1, 1948

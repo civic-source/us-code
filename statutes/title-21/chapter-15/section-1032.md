@@ -5,7 +5,7 @@ usc_section: "1032"
 chapter: 15
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1032"
-generated_at: "2026-03-29T18:25:04.231Z"
+generated_at: "2026-03-29T19:29:50.490Z"
 ---
 
 # § 1032. Congressional declaration of policy

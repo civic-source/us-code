@@ -5,7 +5,7 @@ usc_section: "817c"
 chapter: 19
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 817c"
-generated_at: "2026-03-29T18:23:14.091Z"
+generated_at: "2026-03-29T19:27:07.536Z"
 ---
 
 # §§ 811 to 817c. Omitted

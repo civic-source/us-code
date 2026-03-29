@@ -5,7 +5,7 @@ usc_section: "398a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 398a"
-generated_at: "2026-03-29T18:24:22.455Z"
+generated_at: "2026-03-29T19:29:27.075Z"
 ---
 
 # § 398a. Conditions and limitations

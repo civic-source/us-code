@@ -5,7 +5,7 @@ usc_section: "214"
 chapter: 4
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 214"
-generated_at: "2026-03-29T18:24:54.093Z"
+generated_at: "2026-03-29T19:29:46.640Z"
 ---
 
 # § 214. Fees for execution and issuance of passports; persons excused from payment

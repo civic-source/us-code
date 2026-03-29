@@ -5,7 +5,7 @@ usc_section: "5133"
 chapter: 513
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5133"
-generated_at: "2026-03-29T18:23:52.042Z"
+generated_at: "2026-03-29T19:27:25.675Z"
 ---
 
 # § 5133. Bureau Chiefs: rank; pay and allowances; retirement

@@ -5,7 +5,7 @@ usc_section: "607"
 chapter: 41
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 607"
-generated_at: "2026-03-29T18:25:32.919Z"
+generated_at: "2026-03-29T19:30:04.363Z"
 ---
 
 # § 607. Practice of law prohibited

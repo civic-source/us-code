@@ -5,7 +5,7 @@ usc_section: "2487"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2487"
-generated_at: "2026-03-29T18:24:16.170Z"
+generated_at: "2026-03-29T19:28:30.739Z"
 ---
 
 # § 2487. Repealed. Pub. L. 102–145 , § 121, as added Pub. L. 102–266 , § 102, Apr. 1, 1992 , 106 Stat. 95

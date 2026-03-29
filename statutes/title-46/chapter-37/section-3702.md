@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 37
 current_through: "PL 114-254"
 classification: "46 U.S.C. § 3702"
-generated_at: "2026-03-29T18:27:18.867Z"
+generated_at: "2026-03-29T19:32:17.319Z"
 ---
 
 # § 3702. Application

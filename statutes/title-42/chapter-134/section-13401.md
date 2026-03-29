@@ -5,7 +5,7 @@ usc_section: "13401"
 chapter: 134
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13401"
-generated_at: "2026-03-29T18:27:04.119Z"
+generated_at: "2026-03-29T19:31:45.722Z"
 ---
 
 # § 13401. Goals

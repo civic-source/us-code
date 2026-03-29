@@ -5,7 +5,7 @@ usc_section: "1106"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1106"
-generated_at: "2026-03-29T18:23:33.918Z"
+generated_at: "2026-03-29T19:27:14.431Z"
 ---
 
 # § 1106. Repealed. Pub. L. 91–510, title IV , § 422(a), Oct. 26, 1970 , 84 Stat. 1189

@@ -5,7 +5,7 @@ usc_section: "3303"
 chapter: 335
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 3303"
-generated_at: "2026-03-29T18:23:52.021Z"
+generated_at: "2026-03-29T19:27:25.657Z"
 ---
 
 # [§§ 3302, 3303. Repealed. Pub. L. 96–513, title II , § 204, Dec. 12, 1980 , 94 Stat. 2880 ]

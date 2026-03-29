@@ -5,7 +5,7 @@ usc_section: "7671k"
 chapter: 85
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 7671k"
-generated_at: "2026-03-29T18:27:03.856Z"
+generated_at: "2026-03-29T19:31:45.441Z"
 ---
 
 # § 7671k. Safe alternatives policy

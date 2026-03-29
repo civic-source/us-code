@@ -5,7 +5,7 @@ usc_section: "9412"
 chapter: 102
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 9412"
-generated_at: "2026-03-29T18:27:03.907Z"
+generated_at: "2026-03-29T19:31:45.497Z"
 ---
 
 # § 9412. Definitions

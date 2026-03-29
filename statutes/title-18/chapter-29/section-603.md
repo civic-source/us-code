@@ -5,7 +5,7 @@ usc_section: "603"
 chapter: 29
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 603"
-generated_at: "2026-03-29T18:24:43.780Z"
+generated_at: "2026-03-29T19:28:33.796Z"
 ---
 
 # § 603. Making political contributions

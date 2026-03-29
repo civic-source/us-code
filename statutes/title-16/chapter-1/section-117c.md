@@ -5,7 +5,7 @@ usc_section: "117c"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 117c"
-generated_at: "2026-03-29T18:24:22.421Z"
+generated_at: "2026-03-29T19:29:27.036Z"
 ---
 
 # § 117c. Hunting and fishing; general rules and regulations; protection of property; violation of statutes and rules; penalties

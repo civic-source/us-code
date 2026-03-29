@@ -5,7 +5,7 @@ usc_section: "4321"
 chapter: 401
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 4321"
-generated_at: "2026-03-29T18:23:52.028Z"
+generated_at: "2026-03-29T19:27:25.662Z"
 ---
 
 # § 4321. Degree granting authority for United States Army War College

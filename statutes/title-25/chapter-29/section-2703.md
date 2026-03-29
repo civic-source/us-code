@@ -5,7 +5,7 @@ usc_section: "2703"
 chapter: 29
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2703"
-generated_at: "2026-03-29T18:25:23.788Z"
+generated_at: "2026-03-29T19:29:34.843Z"
 ---
 
 # § 2703. Definitions

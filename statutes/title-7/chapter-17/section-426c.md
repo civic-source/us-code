@@ -5,7 +5,7 @@ usc_section: "426c"
 chapter: 17
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 426c"
-generated_at: "2026-03-29T18:23:43.197Z"
+generated_at: "2026-03-29T19:27:31.677Z"
 ---
 
 # § 426c. Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception

@@ -5,7 +5,7 @@ usc_section: "81g"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 81g"
-generated_at: "2026-03-29T18:24:22.416Z"
+generated_at: "2026-03-29T19:29:27.029Z"
 ---
 
 # § 81g. Administration, protection, and development

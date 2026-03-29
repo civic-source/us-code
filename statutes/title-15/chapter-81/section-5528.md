@@ -5,7 +5,7 @@ usc_section: "5528"
 chapter: 81
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 5528"
-generated_at: "2026-03-29T18:24:08.618Z"
+generated_at: "2026-03-29T19:27:55.573Z"
 ---
 
 # § 5528. Fostering United States competitiveness in high-performance computing and related activities

@@ -5,7 +5,7 @@ usc_section: "10704"
 chapter: 107
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 10704"
-generated_at: "2026-03-29T18:27:16.479Z"
+generated_at: "2026-03-29T19:32:28.763Z"
 ---
 
 # § 10704. Authority and criteria: rates, classifications, rules, and practices prescribed by Board

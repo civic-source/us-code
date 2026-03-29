@@ -5,7 +5,7 @@ usc_section: "15024"
 chapter: 144
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 15024"
-generated_at: "2026-03-29T18:27:04.179Z"
+generated_at: "2026-03-29T19:31:45.788Z"
 ---
 
 # § 15024. State plan

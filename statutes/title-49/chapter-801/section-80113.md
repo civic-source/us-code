@@ -5,7 +5,7 @@ usc_section: "80113"
 chapter: 801
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 80113"
-generated_at: "2026-03-29T18:27:16.656Z"
+generated_at: "2026-03-29T19:32:28.923Z"
 ---
 
 # § 80113. Liability for nonreceipt, misdescription, and improper loading

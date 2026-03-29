@@ -5,7 +5,7 @@ usc_section: "1536"
 chapter: 35
 current_through: "PL 114-254"
 classification: "20 U.S.C. § 1536"
-generated_at: "2026-03-29T18:24:41.064Z"
+generated_at: "2026-03-29T19:28:43.106Z"
 ---
 
 # §§ 1531 to 1536. Omitted

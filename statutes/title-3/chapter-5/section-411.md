@@ -5,7 +5,7 @@ usc_section: "411"
 chapter: 5
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 411"
-generated_at: "2026-03-29T18:23:14.422Z"
+generated_at: "2026-03-29T19:27:10.132Z"
 ---
 
 # § 411. Rights and protections under title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, the Rehabilitation Act of 1973, and title I of the Americans with Disabilities Act of 1990

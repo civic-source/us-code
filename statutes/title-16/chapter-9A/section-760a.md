@@ -5,7 +5,7 @@ usc_section: "760a"
 chapter: 9
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 760a"
-generated_at: "2026-03-29T18:24:22.705Z"
+generated_at: "2026-03-29T19:29:27.354Z"
 ---
 
 # § 760a. Atlantic Coast fish study for development and protection of fish resources

@@ -5,7 +5,7 @@ usc_section: "622"
 chapter: 12
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 622"
-generated_at: "2026-03-29T18:26:01.182Z"
+generated_at: "2026-03-29T19:30:28.726Z"
 ---
 
 # § 622. Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet

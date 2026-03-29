@@ -5,7 +5,7 @@ usc_section: "327"
 chapter: 32
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 327"
-generated_at: "2026-03-29T18:25:56.894Z"
+generated_at: "2026-03-29T19:30:29.308Z"
 ---
 
 # § 327. Settlement

@@ -5,7 +5,7 @@ usc_section: "1238"
 chapter: 25
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1238"
-generated_at: "2026-03-29T18:25:30.900Z"
+generated_at: "2026-03-29T19:30:05.281Z"
 ---
 
 # § 1238. Liens

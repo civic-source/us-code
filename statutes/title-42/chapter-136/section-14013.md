@@ -5,7 +5,7 @@ usc_section: "14013"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14013"
-generated_at: "2026-03-29T18:27:04.143Z"
+generated_at: "2026-03-29T19:31:45.749Z"
 ---
 
 # § 14013. Report on battered women’s syndrome

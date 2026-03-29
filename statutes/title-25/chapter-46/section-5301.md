@@ -5,7 +5,7 @@ usc_section: "5301"
 chapter: 46
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 5301"
-generated_at: "2026-03-29T18:25:23.833Z"
+generated_at: "2026-03-29T19:29:34.891Z"
 ---
 
 # § 5301. Congressional statement of findings

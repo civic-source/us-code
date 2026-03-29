@@ -5,7 +5,7 @@ usc_section: "3349d"
 chapter: 33
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 3349d"
-generated_at: "2026-03-29T18:23:29.877Z"
+generated_at: "2026-03-29T19:27:05.256Z"
 ---
 
 # § 3349d. Notification of intent to nominate during certain recesses or adjournments

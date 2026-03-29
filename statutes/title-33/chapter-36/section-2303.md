@@ -5,7 +5,7 @@ usc_section: "2303"
 chapter: 36
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 2303"
-generated_at: "2026-03-29T18:26:01.293Z"
+generated_at: "2026-03-29T19:30:28.841Z"
 ---
 
 # § 2303. Historical properties

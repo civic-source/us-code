@@ -5,7 +5,7 @@ usc_section: "794"
 chapter: 16
 current_through: "PL 114-254"
 classification: "45 U.S.C. § 794"
-generated_at: "2026-03-29T18:26:13.317Z"
+generated_at: "2026-03-29T19:31:12.243Z"
 ---
 
 # § 794. Tax payments to States

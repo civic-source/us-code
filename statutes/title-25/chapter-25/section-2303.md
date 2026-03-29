@@ -5,7 +5,7 @@ usc_section: "2303"
 chapter: 25
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2303"
-generated_at: "2026-03-29T18:25:23.781Z"
+generated_at: "2026-03-29T19:29:34.837Z"
 ---
 
 # § 2303. Notice

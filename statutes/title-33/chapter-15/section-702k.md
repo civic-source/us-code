@@ -5,7 +5,7 @@ usc_section: "702k"
 chapter: 15
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 702k"
-generated_at: "2026-03-29T18:26:01.197Z"
+generated_at: "2026-03-29T19:30:28.741Z"
 ---
 
 # § 702k. Surveys below Cape Girardeau, Missouri; resurvey of levee in Tennessee

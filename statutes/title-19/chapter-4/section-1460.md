@@ -5,7 +5,7 @@ usc_section: "1460"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1460"
-generated_at: "2026-03-29T18:24:16.086Z"
+generated_at: "2026-03-29T19:28:30.660Z"
 ---
 
 # § 1460. Repealed. Pub. L. 99–570, title III , § 3115(b), Oct. 27, 1986 , 100 Stat. 3207–83

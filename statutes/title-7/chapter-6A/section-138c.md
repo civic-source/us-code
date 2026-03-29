@@ -5,7 +5,7 @@ usc_section: "138c"
 chapter: 6
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 138c"
-generated_at: "2026-03-29T18:23:43.178Z"
+generated_at: "2026-03-29T19:27:31.661Z"
 ---
 
 # § 138c. Samples

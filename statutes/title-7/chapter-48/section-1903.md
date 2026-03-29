@@ -5,7 +5,7 @@ usc_section: "1903"
 chapter: 48
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1903"
-generated_at: "2026-03-29T18:23:43.314Z"
+generated_at: "2026-03-29T19:27:31.784Z"
 ---
 
 # § 1903. Repealed. Pub. L. 95–445 , § 5(b), Oct. 10, 1978 , 92 Stat. 1069

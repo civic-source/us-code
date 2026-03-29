@@ -5,7 +5,7 @@ usc_section: "4111"
 chapter: 41
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 4111"
-generated_at: "2026-03-29T18:26:07.629Z"
+generated_at: "2026-03-29T19:30:40.543Z"
 ---
 
 # [§ 4111. Repealed. Pub. L. 107–95 , § 5(e)(3), Dec. 21, 2001 , 115 Stat. 918 ]

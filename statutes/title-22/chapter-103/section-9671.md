@@ -3,14 +3,14 @@ title: "Section 9671 - Limitations and preferences"
 usc_title: 22
 usc_section: "9671"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 9671"
-generated_at: "2026-03-29T02:12:40.509Z"
+generated_at: "2026-03-29T18:44:49.566Z"
 ---
 
 # § 9671. Limitations and preferences
 
-- **(a)** No entity receiving support from the Corporation under subchapter II of this chapter may receive more than an amount equal to 2.5 percent of the Corporation’s maximum contingent liability authorized under section 9633 of this title .
+- **(a)** No entity receiving support from the Corporation under subchapter II of this chapter may receive more than an amount equal to 5 percent of the Corporation’s maximum contingent liability authorized under section 9633 of this title .
 - **(b)**
   - **(1)** The Corporation should give preferential consideration to projects sponsored by or involving private sector entities that are United States persons.
   - **(2)** In this subsection, the term “United States person” means—
@@ -38,17 +38,3 @@ generated_at: "2026-03-29T02:12:40.509Z"
 - **(i)** The Corporation shall, using broad criteria, make, to the maximum extent possible consistent with this chapter, efforts—
   - **(1)** to give preferential consideration in providing support under subchapter II of this chapter to projects sponsored by or involving small businesses; and
   - **(2)** to ensure that the proportion of projects sponsored by or involving United States small businesses, including women-, minority-, and veteran-owned small businesses, is not less than 50 percent of all projects for which the Corporation provides support and that involve United States persons.
-- **(j)**
-  - **(1)** The Corporation shall develop appropriate policies and guidelines for support provided under subchapter II of this chapter for a project involving a state-owned enterprise, sovereign wealth fund, or a parastatal entity to ensure such support is provided consistent with appropriate principles and practices of competitive neutrality.
-  - **(2)**
-    - **(A)** The Corporation may not provide support under subchapter II of this chapter for a project that involves a private sector entity engaged in anticompetitive practices.
-    - **(B)** The Corporation may not provide support under subchapter II of this chapter for projects that would be operated, managed, or controlled by the government of a county of concern or a state-owned enterprise that belongs to or is under the control of a country of concern.
-    - **(C)** The President may waive the restriction under subparagraph (B) on a project-by-project basis if the President submits to the appropriate congressional committees—
-      - **(i)** a certification, which may be included as a classified or confidential annex to a report required by section 9656 of this title , that such support is important to the national security interests of the United States; and
-      - **(ii)** a written justification of how such support directly counters or significantly limits the influence of an entity described in such subparagraph.
-  - **(3)** In this subsection:
-    - **(A)** The term “control”, with respect to an enterprise, means the power by any means to control the enterprise regardless of—
-      - **(i)** the level of ownership; and
-      - **(ii)** whether or not the power is exercised.
-    - **(B)** The term “owned”, with respect to an enterprise, means a majority or controlling interest, whether by value or voting interest, of the shares of that enterprise, including through fiduciaries, agents, or other means.
-    - **(C)** The term “state-owned enterprise” means any enterprise established for a commercial or business purpose that is directly owned or controlled by one or more governments, including any agency, instrumentality, subdivision, or other unit of government at any level of jurisdiction.

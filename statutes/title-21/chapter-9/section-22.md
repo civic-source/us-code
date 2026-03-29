@@ -5,7 +5,7 @@ usc_section: "22"
 chapter: 9
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 22"
-generated_at: "2026-03-29T18:25:04.174Z"
+generated_at: "2026-03-29T19:29:50.426Z"
 ---
 
 # § 379j–22. Reauthorization; reporting requirements

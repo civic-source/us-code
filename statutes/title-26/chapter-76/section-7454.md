@@ -5,7 +5,7 @@ usc_section: "7454"
 chapter: 76
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 7454"
-generated_at: "2026-03-29T18:25:53.972Z"
+generated_at: "2026-03-29T19:30:20.251Z"
 ---
 
 # § 7454. Burden of proof in fraud, foundation man­ager, and transferee cases

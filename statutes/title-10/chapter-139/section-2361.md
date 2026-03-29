@@ -5,7 +5,7 @@ usc_section: "2361"
 chapter: 139
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 2361"
-generated_at: "2026-03-29T18:23:51.933Z"
+generated_at: "2026-03-29T19:27:25.596Z"
 ---
 
 # § 2361. Award of grants and contracts to colleges and universities: requirement of competition

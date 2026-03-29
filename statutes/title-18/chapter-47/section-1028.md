@@ -5,7 +5,7 @@ usc_section: "1028"
 chapter: 47
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1028"
-generated_at: "2026-03-29T18:24:43.804Z"
+generated_at: "2026-03-29T19:28:33.820Z"
 ---
 
 # § 1028. Fraud and related activity in connection with identification documents, authentication features, and information

@@ -5,7 +5,7 @@ usc_section: "4053"
 chapter: 50
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 4053"
-generated_at: "2026-03-29T18:27:03.564Z"
+generated_at: "2026-03-29T19:31:45.147Z"
 ---
 
 # § 4053. Adjustment and payment of claims; judicial review; limitations; jurisdiction

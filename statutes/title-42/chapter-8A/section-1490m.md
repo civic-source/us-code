@@ -5,7 +5,7 @@ usc_section: "1490m"
 chapter: 8
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 1490m"
-generated_at: "2026-03-29T18:27:03.329Z"
+generated_at: "2026-03-29T19:31:44.922Z"
 ---
 
 # § 1490m. Housing preservation grants

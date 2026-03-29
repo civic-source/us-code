@@ -5,7 +5,7 @@ usc_section: "412"
 chapter: 5
 current_through: "PL 114-254"
 classification: "3 U.S.C. § 412"
-generated_at: "2026-03-29T18:23:14.422Z"
+generated_at: "2026-03-29T19:27:10.132Z"
 ---
 
 # § 412. Rights and protections under the Family and Medical Leave Act of 1993

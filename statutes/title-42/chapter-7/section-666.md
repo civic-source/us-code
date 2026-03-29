@@ -5,7 +5,7 @@ usc_section: "666"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 666"
-generated_at: "2026-03-29T18:27:02.926Z"
+generated_at: "2026-03-29T19:31:44.542Z"
 ---
 
 # § 666. Requirement of statutorily prescribed procedures to improve effectiveness of child support enforcement

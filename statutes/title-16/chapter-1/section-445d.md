@@ -5,7 +5,7 @@ usc_section: "445d"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 445d"
-generated_at: "2026-03-29T18:24:22.524Z"
+generated_at: "2026-03-29T19:29:27.156Z"
 ---
 
 # § 445d. Acquisition of additional lands, Pipestone School Reserve and non-Federal land; redefining of boundaries; quarry rights of Indians

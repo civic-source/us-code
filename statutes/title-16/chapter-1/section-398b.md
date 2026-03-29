@@ -5,7 +5,7 @@ usc_section: "398b"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 398b"
-generated_at: "2026-03-29T18:24:22.455Z"
+generated_at: "2026-03-29T19:29:27.076Z"
 ---
 
 # § 398b. Repealed. Pub. L. 85–404 , May 16, 1958 , 72 Stat. 112

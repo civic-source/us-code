@@ -5,7 +5,7 @@ usc_section: "13302"
 chapter: 133
 current_through: "PL 114-254"
 classification: "49 U.S.C. § 13302"
-generated_at: "2026-03-29T18:27:16.487Z"
+generated_at: "2026-03-29T19:32:28.771Z"
 ---
 
 # § 13302. Intervention

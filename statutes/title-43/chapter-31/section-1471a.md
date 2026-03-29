@@ -5,7 +5,7 @@ usc_section: "1471a"
 chapter: 31
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1471a"
-generated_at: "2026-03-29T18:26:14.862Z"
+generated_at: "2026-03-29T19:31:49.107Z"
 ---
 
 # § 1471a. Availability of appropriations for emergency repair or replacement of damaged or destroyed facilities and equipment

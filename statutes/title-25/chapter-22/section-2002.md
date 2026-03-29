@@ -5,7 +5,7 @@ usc_section: "2002"
 chapter: 22
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-29T18:25:23.761Z"
+generated_at: "2026-03-29T19:29:34.819Z"
 ---
 
 # § 2002. National criteria for home-living situations

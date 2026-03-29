@@ -5,7 +5,7 @@ usc_section: "5002"
 chapter: 51
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 5002"
-generated_at: "2026-03-29T18:25:53.857Z"
+generated_at: "2026-03-29T19:30:20.114Z"
 ---
 
 # § 5002. Definitions

@@ -5,7 +5,7 @@ usc_section: "98"
 chapter: 5
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 98"
-generated_at: "2026-03-29T18:25:32.838Z"
+generated_at: "2026-03-29T19:30:04.330Z"
 ---
 
 # § 98. Louisiana

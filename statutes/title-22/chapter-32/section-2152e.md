@@ -5,7 +5,7 @@ usc_section: "2152e"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2152e"
-generated_at: "2026-03-29T18:24:54.181Z"
+generated_at: "2026-03-29T19:29:46.739Z"
 ---
 
 # § 2152e. Program to improve building construction and practices in Latin American countries

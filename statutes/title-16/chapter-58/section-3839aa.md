@@ -5,7 +5,7 @@ usc_section: "3839aa"
 chapter: 58
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3839aa"
-generated_at: "2026-03-29T18:24:22.892Z"
+generated_at: "2026-03-29T19:29:27.570Z"
 ---
 
 # § 3839aa. Purposes

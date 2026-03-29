@@ -5,7 +5,7 @@ usc_section: "396a"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 396a"
-generated_at: "2026-03-29T18:24:22.454Z"
+generated_at: "2026-03-29T19:29:27.074Z"
 ---
 
 # § 396a. Lease of lands to native Hawaiians, residence requirements; fishing

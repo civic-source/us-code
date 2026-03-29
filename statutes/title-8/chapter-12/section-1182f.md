@@ -5,7 +5,7 @@ usc_section: "1182f"
 chapter: 12
 current_through: "PL 114-254"
 classification: "8 U.S.C. § 1182f"
-generated_at: "2026-03-29T18:23:33.932Z"
+generated_at: "2026-03-29T19:27:14.449Z"
 ---
 
 # § 1182f. Denial of entry into United States of Chinese and other nationals engaged in coerced organ or bodily tissue transplantation

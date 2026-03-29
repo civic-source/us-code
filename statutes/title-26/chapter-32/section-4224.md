@@ -5,7 +5,7 @@ usc_section: "4224"
 chapter: 32
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 4224"
-generated_at: "2026-03-29T18:25:53.821Z"
+generated_at: "2026-03-29T19:30:20.078Z"
 ---
 
 # [§ 4224. Repealed. Pub. L. 89–44, title I , § 101(b)(5), June 21, 1965 , 79 Stat. 136 ]

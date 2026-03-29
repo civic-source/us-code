@@ -5,7 +5,7 @@ usc_section: "2826"
 chapter: 41
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2826"
-generated_at: "2026-03-29T18:24:54.272Z"
+generated_at: "2026-03-29T19:29:46.824Z"
 ---
 
 # §§ 2821 to 2826. Omitted

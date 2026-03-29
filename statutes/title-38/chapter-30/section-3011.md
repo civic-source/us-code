@@ -5,7 +5,7 @@ usc_section: "3011"
 chapter: 30
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3011"
-generated_at: "2026-03-29T18:26:07.588Z"
+generated_at: "2026-03-29T19:30:40.505Z"
 ---
 
 # § 3011. Basic educational assistance entitlement for service on active duty

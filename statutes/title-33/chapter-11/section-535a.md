@@ -5,7 +5,7 @@ usc_section: "535a"
 chapter: 11
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 535a"
-generated_at: "2026-03-29T18:26:01.175Z"
+generated_at: "2026-03-29T19:30:28.719Z"
 ---
 
 # § 535a. Congressional consent to State agreements with Canada and Mexico; Secretary of State’s approval of agreements

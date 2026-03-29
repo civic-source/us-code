@@ -5,7 +5,7 @@ usc_section: "1557"
 chapter: 79
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 1557"
-generated_at: "2026-03-29T18:23:51.845Z"
+generated_at: "2026-03-29T19:27:25.543Z"
 ---
 
 # § 1557. Timeliness standards for disposition of applications before Corrections Boards

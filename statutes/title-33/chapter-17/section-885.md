@@ -5,7 +5,7 @@ usc_section: "885"
 chapter: 17
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 885"
-generated_at: "2026-03-29T18:26:01.203Z"
+generated_at: "2026-03-29T19:30:28.747Z"
 ---
 
 # § 885. Repealed. Aug. 6, 1947, ch. 504 , § 10(6), 61 Stat. 788

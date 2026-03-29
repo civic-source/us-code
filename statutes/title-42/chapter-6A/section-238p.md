@@ -5,7 +5,7 @@ usc_section: "238p"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 238p"
-generated_at: "2026-03-29T18:27:02.530Z"
+generated_at: "2026-03-29T19:31:44.167Z"
 ---
 
 # § 238p. Recommendations and guidelines regarding automated external defibrillators for Federal buildings

@@ -5,7 +5,7 @@ usc_section: "316"
 chapter: 5
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 316"
-generated_at: "2026-03-29T18:26:10.133Z"
+generated_at: "2026-03-29T19:30:34.097Z"
 ---
 
 # § 316. Special pay: bonus for members with foreign language proficiency

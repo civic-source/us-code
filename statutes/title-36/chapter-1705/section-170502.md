@@ -5,7 +5,7 @@ usc_section: "170502"
 chapter: 1705
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 170502"
-generated_at: "2026-03-29T18:26:09.304Z"
+generated_at: "2026-03-29T19:30:42.090Z"
 ---
 
 # § 170502. Organization

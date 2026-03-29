@@ -5,7 +5,7 @@ usc_section: "1622"
 chapter: 18
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 1622"
-generated_at: "2026-03-29T18:25:23.730Z"
+generated_at: "2026-03-29T19:29:34.792Z"
 ---
 
 # § 1622. Transferred

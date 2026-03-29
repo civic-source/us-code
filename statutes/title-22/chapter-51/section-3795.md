@@ -5,7 +5,7 @@ usc_section: "3795"
 chapter: 51
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 3795"
-generated_at: "2026-03-29T18:24:54.291Z"
+generated_at: "2026-03-29T19:29:46.841Z"
 ---
 
 # § 3795. Repealed. Pub. L. 104–201, div. C, title XXXV , § 3546(a)(1), Sept. 23, 1996 , 110 Stat. 2867

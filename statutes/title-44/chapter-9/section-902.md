@@ -5,7 +5,7 @@ usc_section: "902"
 chapter: 9
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 902"
-generated_at: "2026-03-29T18:26:16.107Z"
+generated_at: "2026-03-29T19:30:59.101Z"
 ---
 
 # § 902. Congressional Record: Indexes

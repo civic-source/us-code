@@ -5,7 +5,7 @@ usc_section: "2108"
 chapter: 26
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 2108"
-generated_at: "2026-03-29T18:25:04.249Z"
+generated_at: "2026-03-29T19:29:50.511Z"
 ---
 
 # § 2108. Annual report to Congress

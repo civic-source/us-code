@@ -5,7 +5,7 @@ usc_section: "98i"
 chapter: 5
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 98i"
-generated_at: "2026-03-29T18:27:35.584Z"
+generated_at: "2026-03-29T19:32:24.089Z"
 ---
 
 # § 98i. Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 Stat. 1570

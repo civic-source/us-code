@@ -5,7 +5,7 @@ usc_section: "502"
 chapter: 5
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 502"
-generated_at: "2026-03-29T18:26:07.542Z"
+generated_at: "2026-03-29T19:30:40.459Z"
 ---
 
 # § 502. Judicial review of rules and regulations

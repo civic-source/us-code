@@ -5,7 +5,7 @@ usc_section: "1329"
 chapter: 6
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1329"
-generated_at: "2026-03-29T18:27:11.648Z"
+generated_at: "2026-03-29T19:31:53.946Z"
 ---
 
 # §§ 1328, 1329. Repealed. Sept. 26, 1950, ch. 1049 , § 13(1), 64 Stat. 1043

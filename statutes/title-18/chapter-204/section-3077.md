@@ -5,7 +5,7 @@ usc_section: "3077"
 chapter: 204
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 3077"
-generated_at: "2026-03-29T18:24:43.860Z"
+generated_at: "2026-03-29T19:28:33.880Z"
 ---
 
 # § 3077. Definitions

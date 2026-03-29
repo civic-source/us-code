@@ -5,7 +5,7 @@ usc_section: "2001"
 chapter: 20
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 2001"
-generated_at: "2026-03-29T18:26:07.579Z"
+generated_at: "2026-03-29T19:30:40.494Z"
 ---
 
 # § 2001. Purpose

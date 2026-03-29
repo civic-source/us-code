@@ -5,7 +5,7 @@ usc_section: "200501"
 chapter: 2005
 current_through: "PL 114-254"
 classification: "54 U.S.C. § 200501"
-generated_at: "2026-03-29T18:27:38.926Z"
+generated_at: "2026-03-29T19:32:31.888Z"
 ---
 
 # § 200501. Definitions

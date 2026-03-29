@@ -5,7 +5,7 @@ usc_section: "1433"
 chapter: 29
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1433"
-generated_at: "2026-03-29T18:27:35.598Z"
+generated_at: "2026-03-29T19:32:24.102Z"
 ---
 
 # § 1433. Public record; examination of records by Comptroller General; exemptions: exceptional conditions; reports to Congress

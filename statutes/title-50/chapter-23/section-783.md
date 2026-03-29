@@ -5,7 +5,7 @@ usc_section: "783"
 chapter: 23
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 783"
-generated_at: "2026-03-29T18:27:35.595Z"
+generated_at: "2026-03-29T19:32:24.099Z"
 ---
 
 # § 783. Offenses

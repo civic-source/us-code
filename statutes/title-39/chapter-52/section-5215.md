@@ -5,7 +5,7 @@ usc_section: "5215"
 chapter: 52
 current_through: "PL 114-254"
 classification: "39 U.S.C. § 5215"
-generated_at: "2026-03-29T18:26:03.572Z"
+generated_at: "2026-03-29T19:30:48.557Z"
 ---
 
 # [§§ 5201 to 5215. Repealed. Pub. L. 109–435, title X , § 1002(a)(1), Dec. 20, 2006 , 120 Stat. 3254 ]

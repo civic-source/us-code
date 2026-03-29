@@ -5,7 +5,7 @@ usc_section: "3773"
 chapter: 57
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 3773"
-generated_at: "2026-03-29T18:24:22.883Z"
+generated_at: "2026-03-29T19:29:27.561Z"
 ---
 
 # § 3773. Partners for Fish and Wildlife Program

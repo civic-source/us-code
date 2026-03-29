@@ -5,7 +5,7 @@ usc_section: "1291"
 chapter: 32
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 1291"
-generated_at: "2026-03-29T18:24:08.447Z"
+generated_at: "2026-03-29T19:27:55.419Z"
 ---
 
 # § 1291. Exemption from antitrust laws of agreements covering the telecasting of sports contests and the combining of professional football leagues

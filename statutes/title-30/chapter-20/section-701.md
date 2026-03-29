@@ -5,7 +5,7 @@ usc_section: "701"
 chapter: 20
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 701"
-generated_at: "2026-03-29T18:25:30.869Z"
+generated_at: "2026-03-29T19:30:05.243Z"
 ---
 
 # § 701. Authorization to convey; acreage limitations; qualified applicants; payment; “qualified officer of the United States” defined

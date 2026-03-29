@@ -5,7 +5,7 @@ usc_section: "1372"
 chapter: 31
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1372"
-generated_at: "2026-03-29T18:24:22.786Z"
+generated_at: "2026-03-29T19:29:27.450Z"
 ---
 
 # § 1372. Prohibitions

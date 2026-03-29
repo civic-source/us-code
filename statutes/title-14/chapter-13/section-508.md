@@ -5,7 +5,7 @@ usc_section: "508"
 chapter: 13
 current_through: "PL 114-254"
 classification: "14 U.S.C. § 508"
-generated_at: "2026-03-29T18:23:55.772Z"
+generated_at: "2026-03-29T19:27:45.908Z"
 ---
 
 # § 508. Deserters; payment of expenses incident to apprehension and delivery; penalties

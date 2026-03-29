@@ -5,7 +5,7 @@ usc_section: "12750"
 chapter: 130
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 12750"
-generated_at: "2026-03-29T18:27:04.090Z"
+generated_at: "2026-03-29T19:31:45.687Z"
 ---
 
 # § 12750. Matching requirements

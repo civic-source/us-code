@@ -3,9 +3,9 @@ title: "Section 6851 - Definitions"
 usc_title: 16
 usc_section: "6851"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 6851"
-generated_at: "2026-03-29T02:11:53.985Z"
+generated_at: "2026-03-29T18:49:44.395Z"
 ---
 
 # § 6851. Definitions

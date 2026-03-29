@@ -5,7 +5,7 @@ usc_section: "1986"
 chapter: 50
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 1986"
-generated_at: "2026-03-29T18:23:43.329Z"
+generated_at: "2026-03-29T19:27:31.799Z"
 ---
 
 # § 1986. Conflicts of interests

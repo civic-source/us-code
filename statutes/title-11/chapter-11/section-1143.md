@@ -5,7 +5,7 @@ usc_section: "1143"
 chapter: 11
 current_through: "PL 114-254"
 classification: "11 U.S.C. § 1143"
-generated_at: "2026-03-29T18:23:58.120Z"
+generated_at: "2026-03-29T19:28:02.030Z"
 ---
 
 # § 1143. Distribution

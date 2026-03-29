@@ -5,7 +5,7 @@ usc_section: "1389"
 chapter: 31
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-29T18:24:22.794Z"
+generated_at: "2026-03-29T19:29:27.460Z"
 ---
 
 # § 1389. Pacific Coast Task Force; Gulf of Maine

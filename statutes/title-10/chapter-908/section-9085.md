@@ -1,19 +1,16 @@
 ---
-title: "Section 9085 - Office of the Chief of Space Operations: general duties"
+title: "Section 9085 - Regular Space Force: composition"
 usc_title: 10
 usc_section: "9085"
 chapter: 908
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9085"
-generated_at: "2026-03-29T02:10:45.337Z"
+generated_at: "2026-03-29T18:47:53.589Z"
 ---
 
-# § 9085. Office of the Chief of Space Operations: general duties
+# § 9085. Regular Space Force: composition
 
-- **(a)** The Office of the Chief of Space Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force and to the Chief of Space Operations.
-- **(b)** Under the authority, direction, and control of the Secretary of the Air Force, the Office of the Chief of Space Operations shall—
-  - **(1)** subject to subsections (c) and (d) of section 9014 of this title , prepare for such employment of the Space Force, and for such recruiting, organizing, supplying, equipping (including research and development), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Space Force, as will assist in the execution of any power, duty, or function of the Secretary of the Air Force or the Chief of Space Operations;
-  - **(2)** investigate and report upon the efficiency of the Space Force and its preparation to support military operations by commanders of the combatant commands;
-  - **(3)** prepare detailed instructions for the execution of approved plans and supervise the execution of those plans and instructions;
-  - **(4)** as directed by the Secretary of the Air Force or the Chief of Space Operations, coordinate the action of organizations of the Space Force; and
-  - **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary of the Air Force.
+- **(a)** The Regular Space Force is the component of the Space Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Space Force.
+- **(b)** The Regular Space Force includes—
+  - **(1)** the officers and enlisted members of the Regular Space Force; and
+  - **(2)** the retired officers and enlisted members of the Regular Space Force.

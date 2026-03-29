@@ -5,7 +5,7 @@ usc_section: "13773"
 chapter: 136
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 13773"
-generated_at: "2026-03-29T18:27:04.134Z"
+generated_at: "2026-03-29T19:31:45.740Z"
 ---
 
 # § 13773. Program requirements

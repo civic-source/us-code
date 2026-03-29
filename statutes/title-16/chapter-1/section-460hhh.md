@@ -5,7 +5,7 @@ usc_section: "460hhh"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 460hhh"
-generated_at: "2026-03-29T18:24:22.594Z"
+generated_at: "2026-03-29T19:29:27.233Z"
 ---
 
 # § 460hhh. Definitions

@@ -5,7 +5,7 @@ usc_section: "60108"
 chapter: 601
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 60108"
-generated_at: "2026-03-29T18:26:09.280Z"
+generated_at: "2026-03-29T19:30:42.070Z"
 ---
 
 # § 60108. Duty to maintain tax-exempt status

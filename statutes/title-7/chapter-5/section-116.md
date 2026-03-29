@@ -5,7 +5,7 @@ usc_section: "116"
 chapter: 5
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 116"
-generated_at: "2026-03-29T18:23:43.143Z"
+generated_at: "2026-03-29T19:27:31.632Z"
 ---
 
 # §§ 111 to 116. Repealed. Aug. 9, 1939, ch. 615 , § 419, 53 Stat. 1290

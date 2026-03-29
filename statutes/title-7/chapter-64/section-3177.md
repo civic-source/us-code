@@ -5,7 +5,7 @@ usc_section: "3177"
 chapter: 64
 current_through: "PL 114-254"
 classification: "7 U.S.C. § 3177"
-generated_at: "2026-03-29T18:23:43.415Z"
+generated_at: "2026-03-29T19:27:31.881Z"
 ---
 
 # § 3177. Repealed. Pub. L. 99–198, title XIV , § 1413, Dec. 23, 1985 , 99 Stat. 1549

@@ -5,7 +5,7 @@ usc_section: "1042"
 chapter: 15
 current_through: "PL 114-254"
 classification: "21 U.S.C. § 1042"
-generated_at: "2026-03-29T18:25:04.232Z"
+generated_at: "2026-03-29T19:29:50.494Z"
 ---
 
 # § 1042. Reporting of violation to United States attorney for institution of criminal proceedings; procedure; presentation of views

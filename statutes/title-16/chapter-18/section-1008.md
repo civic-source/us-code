@@ -5,7 +5,7 @@ usc_section: "1008"
 chapter: 18
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1008"
-generated_at: "2026-03-29T18:24:22.756Z"
+generated_at: "2026-03-29T19:29:27.416Z"
 ---
 
 # § 1008. Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations; consideration; cost of surveys, investigations and reports

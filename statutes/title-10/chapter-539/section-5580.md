@@ -5,7 +5,7 @@ usc_section: "5580"
 chapter: 539
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 5580"
-generated_at: "2026-03-29T18:23:52.047Z"
+generated_at: "2026-03-29T19:27:25.677Z"
 ---
 
 # [§§ 5573a to 5580. Repealed. Pub. L. 96–513, title III , § 321, Dec. 12, 1980 , 94 Stat. 2892 ]

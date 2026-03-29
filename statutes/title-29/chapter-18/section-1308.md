@@ -5,7 +5,7 @@ usc_section: "1308"
 chapter: 18
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 1308"
-generated_at: "2026-03-29T18:25:43.107Z"
+generated_at: "2026-03-29T19:30:07.609Z"
 ---
 
 # § 1308. Annual report by the corporation

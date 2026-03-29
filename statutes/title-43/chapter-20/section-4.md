@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 20
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-03-29T18:26:14.834Z"
+generated_at: "2026-03-29T19:31:49.079Z"
 ---
 
 # § 869–4. Disposition of moneys received from or on account of revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands

@@ -5,7 +5,7 @@ usc_section: "1452"
 chapter: 33
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1452"
-generated_at: "2026-03-29T18:24:22.805Z"
+generated_at: "2026-03-29T19:29:27.470Z"
 ---
 
 # § 1452. Congressional declaration of policy

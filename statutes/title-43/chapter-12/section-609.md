@@ -5,7 +5,7 @@ usc_section: "609"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 609"
-generated_at: "2026-03-29T18:26:14.816Z"
+generated_at: "2026-03-29T19:31:49.064Z"
 ---
 
 # §§ 602 to 609. Repealed. June 17, 1944, ch. 261 , § 2(a), 58 Stat. 279

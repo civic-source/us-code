@@ -5,7 +5,7 @@ usc_section: "698i"
 chapter: 6
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 698i"
-generated_at: "2026-03-29T18:24:22.690Z"
+generated_at: "2026-03-29T19:29:27.336Z"
 ---
 
 # § 698i. Administration of Big Cypress Preserve; applicability of other laws; rules and regulations for use of lands and waters; transportation facilities; consultation and cooperation with Secretary of Transportation

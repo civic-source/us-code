@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 1
 current_through: "PL 114-254"
 classification: "35 U.S.C. § 1"
-generated_at: "2026-03-29T18:25:56.877Z"
+generated_at: "2026-03-29T19:30:29.287Z"
 ---
 
 # § 1. Establishment

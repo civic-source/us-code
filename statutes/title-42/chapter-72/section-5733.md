@@ -5,7 +5,7 @@ usc_section: "5733"
 chapter: 72
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 5733"
-generated_at: "2026-03-29T18:27:03.658Z"
+generated_at: "2026-03-29T19:31:45.246Z"
 ---
 
 # § 5733. Repealed. Pub. L. 102–586 , § 3(g)(2)(E), Nov. 4, 1992 , 106 Stat. 5025

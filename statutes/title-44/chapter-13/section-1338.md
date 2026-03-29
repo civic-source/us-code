@@ -5,7 +5,7 @@ usc_section: "1338"
 chapter: 13
 current_through: "PL 114-254"
 classification: "44 U.S.C. § 1338"
-generated_at: "2026-03-29T18:26:16.111Z"
+generated_at: "2026-03-29T19:30:59.106Z"
 ---
 
 # [§§ 1337, 1338. Repealed. Pub. L. 106–113, div. B , § 1000(a)(9) [title IV, § 4732(b)(25)], Nov. 29, 1999 , 113 Stat. 1536 , 1501A–585]

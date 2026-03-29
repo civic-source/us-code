@@ -5,7 +5,7 @@ usc_section: "1486"
 chapter: 10
 current_through: "PL 114-254"
 classification: "48 U.S.C. § 1486"
-generated_at: "2026-03-29T18:27:11.659Z"
+generated_at: "2026-03-29T19:31:53.957Z"
 ---
 
 # § 1486. Repealed. Pub. L. 87–826 , § 3, Oct. 15, 1962 , 76 Stat. 953

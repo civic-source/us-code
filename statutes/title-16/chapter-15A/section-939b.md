@@ -5,7 +5,7 @@ usc_section: "939b"
 chapter: 15
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 939b"
-generated_at: "2026-03-29T18:24:22.749Z"
+generated_at: "2026-03-29T19:29:27.407Z"
 ---
 
 # § 939b. State laws and regulations

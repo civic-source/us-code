@@ -5,7 +5,7 @@ usc_section: "1555"
 chapter: 32
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 1555"
-generated_at: "2026-03-29T18:26:14.868Z"
+generated_at: "2026-03-29T19:31:49.115Z"
 ---
 
 # § 1555. Federal Power Act inapplicable to Colorado River between Hoover Dam and Glen Canyon Dam

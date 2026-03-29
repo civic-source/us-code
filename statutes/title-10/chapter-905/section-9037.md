@@ -3,9 +3,9 @@ title: "Section 9037 - Judge Advocate General, Deputy Judge Advocate General: ap
 usc_title: 10
 usc_section: "9037"
 chapter: 905
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 9037"
-generated_at: "2026-03-29T02:10:45.335Z"
+generated_at: "2026-03-29T18:47:53.588Z"
 ---
 
 # § 9037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
@@ -28,4 +28,3 @@ generated_at: "2026-03-29T02:10:45.335Z"
 - **(f)** No officer or employee of the Department of Defense may interfere with—
   - **(1)** the ability of the Judge Advocate General to give independent legal advice to the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations; or
   - **(2)** the ability of officers of the Air Force who are designated as judge advocates who are assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
-- **(g)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.

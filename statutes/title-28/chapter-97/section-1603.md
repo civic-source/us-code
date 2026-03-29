@@ -5,7 +5,7 @@ usc_section: "1603"
 chapter: 97
 current_through: "PL 114-254"
 classification: "28 U.S.C. § 1603"
-generated_at: "2026-03-29T18:25:32.939Z"
+generated_at: "2026-03-29T19:30:04.378Z"
 ---
 
 # § 1603. Definitions

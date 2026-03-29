@@ -5,7 +5,7 @@ usc_section: "410u"
 chapter: 1
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 410u"
-generated_at: "2026-03-29T18:24:22.470Z"
+generated_at: "2026-03-29T19:29:27.094Z"
 ---
 
 # § 410u. Preservation of historic sites

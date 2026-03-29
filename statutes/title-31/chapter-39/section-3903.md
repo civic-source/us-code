@@ -5,7 +5,7 @@ usc_section: "3903"
 chapter: 39
 current_through: "PL 114-254"
 classification: "31 U.S.C. § 3903"
-generated_at: "2026-03-29T18:25:59.189Z"
+generated_at: "2026-03-29T19:30:24.785Z"
 ---
 
 # § 3903. Regulations

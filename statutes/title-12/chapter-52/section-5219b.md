@@ -5,7 +5,7 @@ usc_section: "5219b"
 chapter: 52
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 5219b"
-generated_at: "2026-03-29T18:24:03.065Z"
+generated_at: "2026-03-29T19:28:17.848Z"
 ---
 
 # § 5219b. Public availability of information of Making Home Affordable Program

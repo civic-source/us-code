@@ -5,7 +5,7 @@ usc_section: "15"
 chapter: 1
 current_through: "PL 114-254"
 classification: "25 U.S.C. § 15"
-generated_at: "2026-03-29T18:25:23.657Z"
+generated_at: "2026-03-29T19:29:34.731Z"
 ---
 
 # § 15. Utility facilities used in administration of Bureau; contracts for sale, operation, maintenance, repair or relocation of facilities; terms and conditions; exception; Congressional approval

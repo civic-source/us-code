@@ -5,7 +5,7 @@ usc_section: "4112"
 chapter: 41
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 4112"
-generated_at: "2026-03-29T18:26:07.629Z"
+generated_at: "2026-03-29T19:30:40.543Z"
 ---
 
 # § 4112. Performance incentive awards for quality employment, training, and placement services

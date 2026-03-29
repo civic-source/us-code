@@ -5,7 +5,7 @@ usc_section: "2905"
 chapter: 44
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2905"
-generated_at: "2026-03-29T18:24:54.272Z"
+generated_at: "2026-03-29T19:29:46.824Z"
 ---
 
 # § 2905. Administrative powers of Commission

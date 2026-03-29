@@ -5,7 +5,7 @@ usc_section: "4246"
 chapter: 313
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 4246"
-generated_at: "2026-03-29T18:24:43.894Z"
+generated_at: "2026-03-29T19:28:33.914Z"
 ---
 
 # § 4246. Hospitalization of a person due for release but suffering from mental disease or defect

@@ -3,9 +3,9 @@ title: "Section 8477 - Grants for faculty research for scientific, literary, and
 usc_title: 10
 usc_section: "8477"
 chapter: 853
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 8477"
-generated_at: "2026-03-29T02:10:45.309Z"
+generated_at: "2026-03-29T18:47:53.569Z"
 ---
 
 # § 8477. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees

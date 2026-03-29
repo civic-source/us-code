@@ -5,7 +5,7 @@ usc_section: "173"
 chapter: 11
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 173"
-generated_at: "2026-03-29T18:27:35.587Z"
+generated_at: "2026-03-29T19:32:24.094Z"
 ---
 
 # §§ 172, 173. Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641

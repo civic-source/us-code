@@ -5,7 +5,7 @@ usc_section: "1164"
 chapter: 24
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 1164"
-generated_at: "2026-03-29T18:25:30.894Z"
+generated_at: "2026-03-29T19:30:05.272Z"
 ---
 
 # § 1164. Authorization of appropriations

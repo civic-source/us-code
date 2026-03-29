@@ -5,7 +5,7 @@ usc_section: "720j"
 chapter: 15
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 720j"
-generated_at: "2026-03-29T18:24:08.417Z"
+generated_at: "2026-03-29T19:27:55.391Z"
 ---
 
 # § 720j. Sense of Congress concerning participation by small business concerns

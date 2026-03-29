@@ -5,7 +5,7 @@ usc_section: "1011"
 chapter: 20
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1011"
-generated_at: "2026-03-29T18:26:01.216Z"
+generated_at: "2026-03-29T19:30:28.760Z"
 ---
 
 # §§ 1001 to 1011. Repealed. Pub. L. 96–478 , § 12, Oct. 21, 1980 , 94 Stat. 2303

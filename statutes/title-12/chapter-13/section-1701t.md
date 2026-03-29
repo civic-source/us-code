@@ -5,7 +5,7 @@ usc_section: "1701t"
 chapter: 13
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 1701t"
-generated_at: "2026-03-29T18:24:02.806Z"
+generated_at: "2026-03-29T19:28:17.565Z"
 ---
 
 # § 1701t. Congressional affirmation of national goal of decent homes and suitable living environment for American families

@@ -3,9 +3,9 @@ title: "Section 6591d - Wildfire resilience projects"
 usc_title: 16
 usc_section: "6591d"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "16 U.S.C. § 6591d"
-generated_at: "2026-03-29T02:11:53.974Z"
+generated_at: "2026-03-29T18:49:44.388Z"
 ---
 
 # § 6591d. Wildfire resilience projects

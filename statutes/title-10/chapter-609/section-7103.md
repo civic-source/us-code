@@ -5,7 +5,7 @@ usc_section: "7103"
 chapter: 609
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 7103"
-generated_at: "2026-03-29T18:23:52.063Z"
+generated_at: "2026-03-29T19:27:25.690Z"
 ---
 
 # § 7103. Naval War College: acceptance of grants for faculty research for scientific, literary, and educational purposes

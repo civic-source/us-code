@@ -5,7 +5,7 @@ usc_section: "6609"
 chapter: 92
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6609"
-generated_at: "2026-03-29T18:24:08.632Z"
+generated_at: "2026-03-29T19:27:55.586Z"
 ---
 
 # § 6609. Application of existing impossibility or commercial impracticability doctrines

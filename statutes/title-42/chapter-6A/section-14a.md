@@ -5,7 +5,7 @@ usc_section: "14a"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 14a"
-generated_at: "2026-03-29T18:27:02.731Z"
+generated_at: "2026-03-29T19:31:44.376Z"
 ---
 
 # § 300e–14a. Health services for Indians and domestic agricultural migratory and seasonal workers

@@ -5,7 +5,7 @@ usc_section: "425a"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 425a"
-generated_at: "2026-03-29T18:26:14.803Z"
+generated_at: "2026-03-29T19:31:49.050Z"
 ---
 
 # § 425a. Eligibility of transferred lands owned by States, etc., for receipt of water from a Federal reclamation project, division, or unit; conditions of eligibility; purchase price

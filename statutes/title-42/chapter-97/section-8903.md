@@ -5,7 +5,7 @@ usc_section: "8903"
 chapter: 97
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 8903"
-generated_at: "2026-03-29T18:27:03.899Z"
+generated_at: "2026-03-29T19:31:45.484Z"
 ---
 
 # § 8903. Comprehensive research plan

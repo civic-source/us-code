@@ -5,7 +5,7 @@ usc_section: "1644a"
 chapter: 4
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 1644a"
-generated_at: "2026-03-29T18:24:16.110Z"
+generated_at: "2026-03-29T19:28:30.683Z"
 ---
 
 # § 1644a. Ports of entry

@@ -5,7 +5,7 @@ usc_section: "54F"
 chapter: 1
 current_through: "PL 114-254"
 classification: "26 U.S.C. § 54F"
-generated_at: "2026-03-29T18:25:53.405Z"
+generated_at: "2026-03-29T19:30:19.677Z"
 ---
 
 # § 54F. Qualified school construction bonds

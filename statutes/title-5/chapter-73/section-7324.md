@@ -5,7 +5,7 @@ usc_section: "7324"
 chapter: 73
 current_through: "PL 114-254"
 classification: "5 U.S.C. § 7324"
-generated_at: "2026-03-29T18:23:29.928Z"
+generated_at: "2026-03-29T19:27:05.331Z"
 ---
 
 # § 7324. Political activities on duty; prohibition

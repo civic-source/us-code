@@ -5,7 +5,7 @@ usc_section: "8531"
 chapter: 92
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 8531"
-generated_at: "2026-03-29T18:24:54.408Z"
+generated_at: "2026-03-29T19:29:46.986Z"
 ---
 
 # § 8531. Definitions

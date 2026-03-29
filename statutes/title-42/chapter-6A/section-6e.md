@@ -5,7 +5,7 @@ usc_section: "6e"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6e"
-generated_at: "2026-03-29T18:27:02.559Z"
+generated_at: "2026-03-29T19:31:44.198Z"
 ---
 
 # § 247d–6e. Covered countermeasure process

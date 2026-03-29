@@ -5,7 +5,7 @@ usc_section: "6861"
 chapter: 81
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 6861"
-generated_at: "2026-03-29T18:27:03.724Z"
+generated_at: "2026-03-29T19:31:45.311Z"
 ---
 
 # § 6861. Congressional findings and purpose

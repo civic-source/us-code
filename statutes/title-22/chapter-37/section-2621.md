@@ -5,7 +5,7 @@ usc_section: "2621"
 chapter: 37
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2621"
-generated_at: "2026-03-29T18:24:54.241Z"
+generated_at: "2026-03-29T19:29:46.797Z"
 ---
 
 # § 2621. Definitions

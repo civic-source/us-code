@@ -3,9 +3,9 @@ title: "Section 3354 - Do Not Pay Initiative"
 usc_title: 31
 usc_section: "3354"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "31 U.S.C. § 3354"
-generated_at: "2026-03-29T02:14:14.062Z"
+generated_at: "2026-03-29T18:45:46.987Z"
 ---
 
 # § 3354. Do Not Pay Initiative
@@ -55,7 +55,7 @@ generated_at: "2026-03-29T02:14:14.062Z"
   - **(3)** The head of each executive agency, in consultation with the Inspector General of the executive agency, shall ensure that any information provided to an individual or entity under this subsection is provided in accordance with protocols established under this subsection.
   - **(4)** Nothing in this subsection shall be construed—
     - **(A)** to affect the rights of an individual under section 552a(p) of title 5 ; or
-    - **(B)** to impede the exercise of an exemption provided to Inspectors General or by an executive agency in coordination with an Inspector General under section 6(j) of the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
+    - **(B)** to impede the exercise of an exemption provided to Inspectors General or by an executive agency in coordination with an Inspector General under section 6(j) of the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(e)**
   - **(1)** In conjunction with the Commissioner of Social Security and in consultation with relevant stakeholders that have an interest in or responsibility for providing the data, and each State, the Director of the Office of Management and Budget shall conduct a study and update the plan required to be established under section 5(g) of the Improper Payments Elimination and Recovery Improvement Act of 2012, as in effect on the day before the date of enactment of this section, for improving the quality, accuracy, and timeliness of death data maintained by the Social Security Administration, including death information reported to the Commissioner under section 205(r) of the Social Security Act ( 42 U.S.C. 405(r) ).
   - **(2)** The plan described in this subsection shall include recommended actions by executive agencies to—

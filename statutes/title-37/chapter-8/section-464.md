@@ -5,7 +5,7 @@ usc_section: "464"
 chapter: 8
 current_through: "PL 114-254"
 classification: "37 U.S.C. § 464"
-generated_at: "2026-03-29T18:26:10.146Z"
+generated_at: "2026-03-29T19:30:34.109Z"
 ---
 
 # § 464. Regulations

@@ -5,7 +5,7 @@ usc_section: "1228"
 chapter: 25
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1228"
-generated_at: "2026-03-29T18:26:01.220Z"
+generated_at: "2026-03-29T19:30:28.764Z"
 ---
 
 # § 1228. Conditions for entry to ports in the United States

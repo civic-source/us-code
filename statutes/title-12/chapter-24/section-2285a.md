@@ -5,7 +5,7 @@ usc_section: "2285a"
 chapter: 24
 current_through: "PL 114-254"
 classification: "12 U.S.C. § 2285a"
-generated_at: "2026-03-29T18:24:02.981Z"
+generated_at: "2026-03-29T19:28:17.755Z"
 ---
 
 # § 2285a. Acquisition of obligations involving loan guarantees for New York City

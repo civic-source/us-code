@@ -5,7 +5,7 @@ usc_section: "4203"
 chapter: 27
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 4203"
-generated_at: "2026-03-29T18:24:16.234Z"
+generated_at: "2026-03-29T19:28:30.799Z"
 ---
 
 # § 4203. Congressional oversight, consultations, and access to information

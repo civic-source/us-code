@@ -5,7 +5,7 @@ usc_section: "762"
 chapter: 2
 current_through: "PL 114-254"
 classification: "6 U.S.C. § 762"
-generated_at: "2026-03-29T18:23:35.775Z"
+generated_at: "2026-03-29T19:27:39.872Z"
 ---
 
 # § 762. Emergency management performance grants program

@@ -5,7 +5,7 @@ usc_section: "2001"
 chapter: 27
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2001"
-generated_at: "2026-03-29T18:24:54.167Z"
+generated_at: "2026-03-29T19:29:46.721Z"
 ---
 
 # §§ 1991 to 2001. Repealed. Pub. L. 87–256 , § 111(a)(3), Sept. 21, 1961 , 75 Stat. 538

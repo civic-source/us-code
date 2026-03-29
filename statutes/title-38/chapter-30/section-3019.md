@@ -5,7 +5,7 @@ usc_section: "3019"
 chapter: 30
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3019"
-generated_at: "2026-03-29T18:26:07.591Z"
+generated_at: "2026-03-29T19:30:40.508Z"
 ---
 
 # § 3019. Tutorial assistance

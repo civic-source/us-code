@@ -5,7 +5,7 @@ usc_section: "1839"
 chapter: 90
 current_through: "PL 114-254"
 classification: "18 U.S.C. § 1839"
-generated_at: "2026-03-29T18:24:43.826Z"
+generated_at: "2026-03-29T19:28:33.844Z"
 ---
 
 # § 1839. Definitions

@@ -5,7 +5,7 @@ usc_section: "2371"
 chapter: 12
 current_through: "PL 114-254"
 classification: "19 U.S.C. § 2371"
-generated_at: "2026-03-29T18:24:16.160Z"
+generated_at: "2026-03-29T19:28:30.730Z"
 ---
 
 # § 2371. Community College and Career Training Grant Program

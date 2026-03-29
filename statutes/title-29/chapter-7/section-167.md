@@ -5,7 +5,7 @@ usc_section: "167"
 chapter: 7
 current_through: "PL 114-254"
 classification: "29 U.S.C. § 167"
-generated_at: "2026-03-29T18:25:43.007Z"
+generated_at: "2026-03-29T19:30:07.504Z"
 ---
 
 # § 167. Short title of subchapter

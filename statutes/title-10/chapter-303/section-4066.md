@@ -3,9 +3,9 @@ title: "Section 4066 - Global Research Watch Program"
 usc_title: 10
 usc_section: "4066"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "10 U.S.C. § 4066"
-generated_at: "2026-03-29T02:10:45.207Z"
+generated_at: "2026-03-29T18:47:53.511Z"
 ---
 
 # § 4066. Global Research Watch Program
@@ -26,4 +26,4 @@ generated_at: "2026-03-29T02:10:45.207Z"
     - **(A)** Funds available to a military department for a fiscal year for monitoring or analyzing the research activities and capabilities of foreign nations may not be obligated or expended until the Under Secretary of Defense for Research and Engineering certifies to the Under Secretary of Defense for Acquisition, Technology, and Logistics that the Secretary of such military department has provided the assistance required under paragraph (2).
     - **(B)** The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
 - **(e)** Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Under Secretary of Defense for Research and Engineering, in classified form in such databases.
-- **(f)** The requirement to carry out the program under this section shall terminate on September 30, 2035 .
+- **(f)** The requirement to carry out the program under this section shall terminate on September 30, 2025 .

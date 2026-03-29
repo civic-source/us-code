@@ -3,9 +3,9 @@ title: "Section 665b - Joint cyber planning office"
 usc_title: 6
 usc_section: "665b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "6 U.S.C. § 665b"
-generated_at: "2026-03-29T02:10:05.044Z"
+generated_at: "2026-03-29T18:47:07.406Z"
 ---
 
 # § 665b. Joint cyber planning office
@@ -30,9 +30,13 @@ generated_at: "2026-03-29T02:10:05.044Z"
     - **(F)** the Office of the Director of National Intelligence.
 - **(d)** In carrying out its responsibilities described in subsection (b), the Office shall regularly consult with appropriate representatives of non-Federal entities, such as—
   - **(1)** State, local, federally-recognized Tribal, and territorial governments;
-  - **(2)** Information Sharing and Analysis Organizations, including information sharing and analysis centers;
+  - **(2)** information sharing and analysis organizations, including information sharing and analysis centers;
   - **(3)** owners and operators of critical information systems;
   - **(4)** private entities; and
   - **(5)** other appropriate representatives or entities, as determined by the Secretary.
 - **(e)** The Secretary and the head of a Federal department or agency referred to in subsection (c) may enter into agreements for the purpose of detailing personnel on a reimbursable or non-reimbursable basis.
-- **(f)** In this section, the term “cyber defense operation” means the defensive activities performed for a cybersecurity purpose.
+- **(f)** In this section:
+  - **(1)** The term “cyber defense operation” means defensive activities performed for a cybersecurity purpose.
+  - **(2)** The term “cybersecurity purpose” has the meaning given such term in section 1501 of this title .
+  - **(3)** The terms “cybersecurity risk” and “incident” have the meanings given such terms in section 659 of this title .
+  - **(4)** The term “information sharing and analysis organization” has the meaning given such term in section 671(5) of this title .

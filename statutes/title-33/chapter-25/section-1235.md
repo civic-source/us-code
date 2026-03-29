@@ -5,7 +5,7 @@ usc_section: "1235"
 chapter: 25
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 1235"
-generated_at: "2026-03-29T18:26:01.221Z"
+generated_at: "2026-03-29T19:30:28.765Z"
 ---
 
 # § 1235. Transfer of authority to regulate to head of other department

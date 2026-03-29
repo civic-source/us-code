@@ -5,7 +5,7 @@ usc_section: "2303"
 chapter: 23
 current_through: "PL 114-254"
 classification: "36 U.S.C. § 2303"
-generated_at: "2026-03-29T18:26:09.267Z"
+generated_at: "2026-03-29T19:30:42.054Z"
 ---
 
 # § 2303. Compensation; travel expenses; full-time officers or employees of United States or Members of Congress

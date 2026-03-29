@@ -5,7 +5,7 @@ usc_section: "5117"
 chapter: 60
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 5117"
-generated_at: "2026-03-29T18:24:54.328Z"
+generated_at: "2026-03-29T19:29:46.885Z"
 ---
 
 # § 5117. Repealed. Pub. L. 103–149 , § 4(c)(2)(A), Nov. 23, 1993 , 107 Stat. 1506

@@ -5,7 +5,7 @@ usc_section: "53"
 chapter: 2
 current_through: "PL 114-254"
 classification: "30 U.S.C. § 53"
-generated_at: "2026-03-29T18:25:30.844Z"
+generated_at: "2026-03-29T19:30:05.216Z"
 ---
 
 # § 53. Possessory actions for recovery of mining titles or for damages to such title

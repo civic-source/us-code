@@ -5,7 +5,7 @@ usc_section: "3758"
 chapter: 46
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3758"
-generated_at: "2026-03-29T18:27:03.530Z"
+generated_at: "2026-03-29T19:31:45.109Z"
 ---
 
 # § 3758. Authorization of appropriations

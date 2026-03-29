@@ -5,7 +5,7 @@ usc_section: "2359"
 chapter: 32
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 2359"
-generated_at: "2026-03-29T18:24:54.211Z"
+generated_at: "2026-03-29T19:29:46.771Z"
 ---
 
 # § 2359. Repealed. Pub. L. 105–277, div. A , § 101(d) [title V, § 533(a)(5)], Oct. 21, 1998 , 112 Stat. 2681–150 , 2681–180

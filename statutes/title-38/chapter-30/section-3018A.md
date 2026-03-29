@@ -5,7 +5,7 @@ usc_section: "3018A"
 chapter: 30
 current_through: "PL 114-254"
 classification: "38 U.S.C. § 3018A"
-generated_at: "2026-03-29T18:26:07.591Z"
+generated_at: "2026-03-29T19:30:40.507Z"
 ---
 
 # § 3018A. Opportunity for certain active-duty personnel to enroll before being involuntarily separated from service

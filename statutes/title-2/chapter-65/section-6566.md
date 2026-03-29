@@ -5,7 +5,7 @@ usc_section: "6566"
 chapter: 65
 current_through: "PL 114-254"
 classification: "2 U.S.C. § 6566"
-generated_at: "2026-03-29T18:23:14.172Z"
+generated_at: "2026-03-29T19:27:07.607Z"
 ---
 
 # § 6566. Authority to procure technical support and other services and incur travel expenses; payment of such expenses

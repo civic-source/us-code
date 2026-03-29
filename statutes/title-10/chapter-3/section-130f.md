@@ -5,7 +5,7 @@ usc_section: "130f"
 chapter: 3
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 130f"
-generated_at: "2026-03-29T18:23:51.721Z"
+generated_at: "2026-03-29T19:27:25.422Z"
 ---
 
 # § 130f. Congressional notification of sensitive military operations

@@ -5,7 +5,7 @@ usc_section: "576"
 chapter: 33
 current_through: "PL 114-254"
 classification: "10 U.S.C. § 576"
-generated_at: "2026-03-29T18:23:51.747Z"
+generated_at: "2026-03-29T19:27:25.450Z"
 ---
 
 # § 576. Information to be furnished to selection boards; selection procedures

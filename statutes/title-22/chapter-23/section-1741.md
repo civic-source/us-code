@@ -3,14 +3,14 @@ title: "Section 1741 - Assistance for United States nationals unlawfully or wron
 usc_title: 22
 usc_section: "1741"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 117-81"
 classification: "22 U.S.C. § 1741"
-generated_at: "2026-03-29T02:12:40.008Z"
+generated_at: "2026-03-29T18:44:49.285Z"
 ---
 
 # § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
 
-- **(a)** The Secretary of State shall review, as expeditiously as possible, the cases of United States nationals detained abroad to determine if there is credible information that they are being detained unlawfully or wrongfully, based on criteria which may include whether—
+- **(a)** The Secretary of State shall review the cases of United States nationals detained abroad to determine if there is credible information that they are being detained unlawfully or wrongfully, based on criteria which may include whether—
   - **(1)** United States officials receive or possess credible information indicating innocence of the detained individual;
   - **(2)** the individual is being detained solely or substantially because he or she is a United States national;
   - **(3)** the individual is being detained solely or substantially to influence United States Government policy or to secure economic or political concessions from the United States Government;
@@ -22,11 +22,7 @@ generated_at: "2026-03-29T02:12:40.008Z"
   - **(9)** the individual is being detained in inhumane conditions;
   - **(10)** due process of law has been sufficiently impaired so as to render the detention arbitrary; and
   - **(11)** United States diplomatic engagement is likely necessary to secure the release of the detained individual.
-- **(b)**
-  - **(1)** Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall—
-    - **(A)** expeditiously transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Presidential Envoy for Hostage Affairs; and
-    - **(B)** not later than 14 days after such determination, notify the Committee on Foreign Relations of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Permanent Select Committee on Intelligence of the House of Representatives of such determination and provide such committees with a summary of the facts that led to such determination.
-  - **(2)** The notification described in paragraph (1)(B) may be classified, if necessary.
+- **(b)** Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Envoy for Hostage Affairs created pursuant to section 1741a of this title .
 - **(c)**
   - **(1)**
     - **(A)** The Secretary of State shall submit to the appropriate congressional committees an annual report with respect to United States nationals for whom the Secretary determines there is credible information of unlawful or wrongful detention abroad.
@@ -38,53 +34,10 @@ generated_at: "2026-03-29T02:12:40.008Z"
     - **(D)** a description of specific efforts, legal and diplomatic, taken on behalf of the individual since the last reporting period, including a description of accomplishments and setbacks; and
     - **(E)** a description of intended next steps.
 - **(d)**
-  - **(1)**
-    - **(A)** Not later than 180 days after December 27, 2020 , and after consulting with relevant organizations that advocate on behalf of United States nationals detained abroad and the Family Engagement Coordinator established pursuant to section 1741b(c)(2) of this title , the Secretary of State shall provide resource guidance in writing for government officials and families of unjustly or wrongfully detained individuals.
-    - **(B)** The resource guidance required under subparagraph (A) should include—
-      - **(i)** information to help families understand United States policy concerning the release of United States nationals unlawfully or wrongfully held abroad;
-      - **(ii)** contact information for officials in the Department of State or other government agencies suited to answer family questions;
-      - **(iii)** relevant information about options available to help families obtain the release of unjustly or wrongfully detained individuals, such as guidance on how families may engage with United States diplomatic and consular channels to ensure prompt and regular access for the detained individual to legal counsel, family members, humane treatment, and other services;
-      - **(iv)** guidance on submitting public or private letters from members of Congress or other individuals who may be influential in securing the release of an individual; and
-      - **(v)** appropriate points of contacts, such as legal resources and counseling services, who have a record of assisting victims’ families.
-  - **(2)**
-    - **(A)** For the purpose of facilitating meetings between the United States Government and the family members of United States nationals unlawfully or wrongfully detained abroad, the Secretary shall provide financial assistance to cover the costs of travel to and from Washington, D.C., including travel by air, train, bus, or other transit as appropriate, to any individual who—
-      - **(i)** is—
-        - **(I)** a family member of a United States national unlawfully or wrongfully detained abroad as determined by the Secretary under subsection (a); or
-        - **(II)** an appropriate individual who—
-      - **(ii)** has a permanent address that is more than 50 miles from Washington, D.C.; and
-      - **(iii)** requests such assistance.
-    - **(B)**
-      - **(i)** For each such United States national unlawfully or wrongfully detained abroad, the financial assistance described in subparagraph (A) shall be provided for not more than 2 trips per fiscal year, unless the Special Presidential Envoy for Hostage Affairs determines that a third trip is warranted.
-      - **(ii)** Any trip described in clause (i) shall—
-        - **(I)** consist of not more than 2 family members or other individuals approved in accordance with subparagraph (A)(i)(II), unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional family member or other individual approved in accordance with subparagraph (A)(i)(II) and approves assistance to such third family member or other individual; and
-        - **(II)** not exceed more than 2 nights lodging, unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night, which shall not exceed the applicable government rate.
-    - **(C)** If other United States Government assistance is unavailable, the Secretary may provide to a United States national unlawfully or wrongfully detained abroad as determined by the Secretary under subsection (a), United States assistance, as necessary, for return travel to the United States upon release of such United States national.
-  - **(3)**
-    - **(A)** The Secretary shall seek to make available physical health services, mental health services, and other support as appropriate, including providing information on available legal or financial resources, to—
-      - **(i)** any United States national unlawfully or wrongfully detained abroad; and
-      - **(ii)** any family member of such United States national.
-    - **(B)**
-      - **(i)** For any support described in subparagraph (A) for an individual described in clause (i) or (ii) of such subparagraph that commences following the return of a United States national who was unlawfully or wrongfully detained abroad, such support shall be made available for up to 5 years from the date on which any individual identified in subparagraph (A) chooses to avail themselves of the support described in that subparagraph, unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant extending such support.
-      - **(ii)** The time limitation under clause (i) does not apply to any support provided during the pendency of the detention of a United States national unlawfully or wrongfully detained abroad.
-  - **(4)** The Secretary shall notify the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year.
-  - **(5)** Funds authorized to be appropriated for the Department of State, which may include funds made available for unforeseen emergencies arising in the diplomatic and consular service, may be used to provide the support authorized by this section.
-  - **(6)** Not later than 90 days after the end of each fiscal year, the Secretary shall submit to the Committees on Foreign Relations and Appropriations of the Senate and the Committee on Foreign Affairs and Appropriations of the House of Representatives a report that includes—
-    - **(A)** a detailed description of expenditures made pursuant to paragraphs (2) and (3);
-    - **(B)** a detailed description of types of support provided pursuant to paragraph (3), provided that such description does not identify any individuals receiving any physical or mental health support, in order to protect their privacy; and
-    - **(C)** the number and location of visits outside of Washington, D.C., during the prior fiscal year made by the Special Presidential Envoy for Hostage Affairs to family members of each United States national unlawfully or wrongfully detained abroad.
-  - **(7)** The authority and requirements under paragraphs (2), (3), (4), and (5) shall terminate on December 31, 2027 .
-  - **(8)** In this subsection, the term “family member” means a spouse, father, mother, child, brother, sister, grandparent, grandchild, aunt, uncle, nephew, niece, cousin, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, or half sister.
-- **(e)**
-  - **(1)**
-    - **(A)** Not less frequently than every 180 days, the Assistant Secretary for the Bureau of Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall review the cases where there is potential credible information that any United States national is being detained wrongfully and which has been identified through official government channels to both bureaus.
-    - **(B)** Not later than 30 days after each review under subparagraph (A), the Assistant Secretary of State for Consular Affairs and the Special Presidential Envoy for Hostage Affairs shall jointly submit to Congress a classified report identifying the United States nationals identified as a result of the review in subparagraph (A) detained overseas who have not, as of the date of the report, been determined by the Secretary to be unlawfully or wrongfully detained.
-    - **(C)** In the case of a United States national detained overseas identified in the report under subparagraph (B), the Assistant Secretary of State for Consular Affairs shall notify a family member (as that term is defined in subsection (d)(8)) or the legal representative of the United States national not later than 30 days after the transmittal of the report required by subparagraph (B).
-  - **(2)**
-    - **(A)** Except as provided in subparagraph (B) and to the extent practicable, not later than 180 days after the date on which the Secretary of State receives an assessment from the Special Presidential Envoy for Hostage Affairs or the head of any other relevant bureau of the Department of State that credible information exists that a United States national is being detained unlawfully or wrongfully, the Secretary shall determine whether the United States national is in fact being unlawfully or wrongfully detained.
-    - **(B)**
-      - **(i)** The Secretary may waive the requirement under subparagraph (A) to make an unlawful or wrongful detention determination if the Secretary—
-        - **(I)** determines that making such a determination may jeopardize the safety or interests of the United States national being detained abroad or the national security interests of the United States; and
-        - **(II)** submits to Congress a classified report describing the reasons for the waiver.
-      - **(ii)** A waiver under clause (i) shall expire on the date that is 180 days after the date on which the Secretary submits the report on the waiver to Congress pursuant to clause (i)(II).
-      - **(iii)** The Secretary may renew a waiver granted pursuant to clause (i) in the manner provided under such clause.
-- **(f)** Upon the release of a United States national determined to be unlawfully or wrongfully detained abroad and the return of that national, the President shall issue to that national a letter, to be known as a “declaration of invalidity”, that officially declares the detention abroad of the national as invalid for the purpose of completing any documentation that warrants a background investigation or review of prior offenses, such as a conviction.
+  - **(1)** Not later than 180 days after December 27, 2020 , and after consulting with relevant organizations that advocate on behalf of United States nationals detained abroad and the Family Engagement Coordinator established pursuant to section 1741b(c)(2) of this title , the Secretary of State shall provide resource guidance in writing for government officials and families of unjustly or wrongfully detained individuals.
+  - **(2)** The resource guidance required under paragraph (1) should include—
+    - **(A)** information to help families understand United States policy concerning the release of United States nationals unlawfully or wrongfully held abroad;
+    - **(B)** contact information for officials in the Department of State or other government agencies suited to answer family questions;
+    - **(C)** relevant information about options available to help families obtain the release of unjustly or wrongfully detained individuals, such as guidance on how families may engage with United States diplomatic and consular channels to ensure prompt and regular access for the detained individual to legal counsel, family members, humane treatment, and other services;
+    - **(D)** guidance on submitting public or private letters from members of Congress or other individuals who may be influential in securing the release of an individual; and
+    - **(E)** appropriate points of contacts, such as legal resources and counseling services, who have a record of assisting victims’ families.

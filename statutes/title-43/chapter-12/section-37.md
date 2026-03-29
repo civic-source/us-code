@@ -5,7 +5,7 @@ usc_section: "37"
 chapter: 12
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 37"
-generated_at: "2026-03-29T18:26:14.795Z"
+generated_at: "2026-03-29T19:31:49.042Z"
 ---
 
 # § 390h–37. Oxnard, California, water reclamation, reuse, and treatment project

@@ -5,7 +5,7 @@ usc_section: "323"
 chapter: 5
 current_through: "PL 114-254"
 classification: "33 U.S.C. § 323"
-generated_at: "2026-03-29T18:26:01.159Z"
+generated_at: "2026-03-29T19:30:28.702Z"
 ---
 
 # §§ 311 to 323. Repealed. Pub. L. 96–591 , § 8(a), Dec. 24, 1980 , 94 Stat. 3435

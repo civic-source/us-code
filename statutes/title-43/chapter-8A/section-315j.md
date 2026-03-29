@@ -5,7 +5,7 @@ usc_section: "315j"
 chapter: 8
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 315j"
-generated_at: "2026-03-29T18:26:14.781Z"
+generated_at: "2026-03-29T19:31:49.028Z"
 ---
 
 # § 315j. Appropriation of moneys received; application of public-land laws to Indian ceded lands; application for mineral title to lands

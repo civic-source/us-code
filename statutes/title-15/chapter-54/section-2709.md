@@ -5,7 +5,7 @@ usc_section: "2709"
 chapter: 54
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 2709"
-generated_at: "2026-03-29T18:24:08.568Z"
+generated_at: "2026-03-29T19:27:55.530Z"
 ---
 
 # § 2709. Reports to Congress by Secretary of Energy

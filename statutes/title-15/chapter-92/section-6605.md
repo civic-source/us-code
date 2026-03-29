@@ -5,7 +5,7 @@ usc_section: "6605"
 chapter: 92
 current_through: "PL 114-254"
 classification: "15 U.S.C. § 6605"
-generated_at: "2026-03-29T18:24:08.631Z"
+generated_at: "2026-03-29T19:27:55.585Z"
 ---
 
 # § 6605. Proportionate liability

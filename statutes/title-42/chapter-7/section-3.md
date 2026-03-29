@@ -5,7 +5,7 @@ usc_section: "3"
 chapter: 7
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T18:27:03.271Z"
+generated_at: "2026-03-29T19:31:44.870Z"
 ---
 
 # § 1397m–3. Provision of information regarding, and evaluations of, elder justice programs

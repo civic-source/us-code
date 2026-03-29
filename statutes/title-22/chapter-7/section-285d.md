@@ -5,7 +5,7 @@ usc_section: "285d"
 chapter: 7
 current_through: "PL 114-254"
 classification: "22 U.S.C. § 285d"
-generated_at: "2026-03-29T18:24:54.119Z"
+generated_at: "2026-03-29T19:29:46.667Z"
 ---
 
 # § 285d. Federal Reserve banks as depositories

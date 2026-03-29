@@ -5,7 +5,7 @@ usc_section: "2309"
 chapter: 24
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 2309"
-generated_at: "2026-03-29T18:27:03.463Z"
+generated_at: "2026-03-29T19:31:45.046Z"
 ---
 
 # § 2309. Administrative review

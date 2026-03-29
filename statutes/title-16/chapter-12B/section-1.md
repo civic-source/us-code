@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 12
 current_through: "PL 114-254"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T18:24:22.733Z"
+generated_at: "2026-03-29T19:29:27.391Z"
 ---
 
 # § 832a–1. Repealed. Pub. L. 88–426, title III , § 305(36), Aug. 14, 1964 , 78 Stat. 427

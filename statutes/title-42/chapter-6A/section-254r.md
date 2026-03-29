@@ -5,7 +5,7 @@ usc_section: "254r"
 chapter: 6
 current_through: "PL 114-254"
 classification: "42 U.S.C. § 254r"
-generated_at: "2026-03-29T18:27:02.581Z"
+generated_at: "2026-03-29T19:31:44.220Z"
 ---
 
 # § 254r. Grants to States for operation of offices of rural health

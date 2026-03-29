@@ -5,7 +5,7 @@ usc_section: "316o"
 chapter: 8
 current_through: "PL 114-254"
 classification: "43 U.S.C. § 316o"
-generated_at: "2026-03-29T18:26:14.783Z"
+generated_at: "2026-03-29T19:31:49.030Z"
 ---
 
 # § 316o. Laws applicable

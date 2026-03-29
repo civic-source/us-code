@@ -5,7 +5,7 @@ usc_section: "1881e"
 chapter: 36
 current_through: "PL 114-254"
 classification: "50 U.S.C. § 1881e"
-generated_at: "2026-03-29T18:27:35.619Z"
+generated_at: "2026-03-29T19:32:24.121Z"
 ---
 
 # § 1881e. Use of information acquired under this subchapter
