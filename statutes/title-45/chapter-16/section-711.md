@@ -3,9 +3,9 @@ title: "Section 711 - Formation and structure"
 usc_title: 45
 usc_section: "711"
 chapter: 16
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "45 U.S.C. § 711"
-generated_at: "2026-03-29T23:46:13.594Z"
+generated_at: "2026-03-29T23:52:52.330Z"
 ---
 
 # § 711. Formation and structure

@@ -3,9 +3,9 @@ title: "Section 2292 - Weekly amounts of readjustment allowance"
 usc_title: 19
 usc_section: "2292"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "19 U.S.C. § 2292"
-generated_at: "2026-03-29T23:44:27.739Z"
+generated_at: "2026-03-29T23:51:13.765Z"
 ---
 
 # § 2292. Weekly amounts of readjustment allowance

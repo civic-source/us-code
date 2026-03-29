@@ -3,9 +3,9 @@ title: "Section 4320 - Payment of income, etc., by Alien Property Custodian"
 usc_title: 50
 usc_section: "4320"
 chapter: 53
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "50 U.S.C. § 4320"
-generated_at: "2026-03-29T23:46:37.358Z"
+generated_at: "2026-03-29T23:53:23.670Z"
 ---
 
 # § 4320. Payment of income, etc., by Alien Property Custodian

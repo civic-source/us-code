@@ -3,9 +3,9 @@ title: "Section 7201 - Definitions"
 usc_title: 15
 usc_section: "7201"
 chapter: 98
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "15 U.S.C. § 7201"
-generated_at: "2026-03-29T23:43:51.345Z"
+generated_at: "2026-03-29T23:50:50.652Z"
 ---
 
 # § 7201. Definitions

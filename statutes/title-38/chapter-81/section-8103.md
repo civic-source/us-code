@@ -3,9 +3,9 @@ title: "Section 8103 - Authority to construct and alter, and to acquire sites fo
 usc_title: 38
 usc_section: "8103"
 chapter: 81
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 8103"
-generated_at: "2026-03-29T23:46:03.146Z"
+generated_at: "2026-03-29T23:52:41.988Z"
 ---
 
 # § 8103. Authority to construct and alter, and to acquire sites for, medical facilities

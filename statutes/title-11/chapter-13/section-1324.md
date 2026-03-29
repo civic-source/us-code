@@ -3,9 +3,9 @@ title: "Section 1324 - Confirmation hearing"
 usc_title: 11
 usc_section: "1324"
 chapter: 13
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "11 U.S.C. § 1324"
-generated_at: "2026-03-29T23:43:46.579Z"
+generated_at: "2026-03-29T23:50:51.112Z"
 ---
 
 # § 1324. Confirmation hearing

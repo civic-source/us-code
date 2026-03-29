@@ -3,9 +3,9 @@ title: "Section 3618 - Authorization of appropriations"
 usc_title: 42
 usc_section: "3618"
 chapter: 45
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 3618"
-generated_at: "2026-03-29T23:46:25.456Z"
+generated_at: "2026-03-29T23:53:16.459Z"
 ---
 
 # § 3618. Authorization of appropriations

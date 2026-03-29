@@ -3,9 +3,9 @@ title: "Section 32304A - Consumer tire information and standards"
 usc_title: 49
 usc_section: "32304A"
 chapter: 323
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 32304A"
-generated_at: "2026-03-29T23:46:53.419Z"
+generated_at: "2026-03-29T23:53:40.239Z"
 ---
 
 # § 32304A. Consumer tire information and standards

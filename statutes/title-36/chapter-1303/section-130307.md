@@ -3,9 +3,9 @@ title: "Section 130307 - Principal office"
 usc_title: 36
 usc_section: "130307"
 chapter: 1303
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "36 U.S.C. § 130307"
-generated_at: "2026-03-29T23:45:50.673Z"
+generated_at: "2026-03-29T23:52:39.357Z"
 ---
 
 # § 130307. Principal office

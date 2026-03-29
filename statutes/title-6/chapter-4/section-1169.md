@@ -3,9 +3,9 @@ title: "Section 1169 - Railroad tank car security testing"
 usc_title: 6
 usc_section: "1169"
 chapter: 4
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "6 U.S.C. § 1169"
-generated_at: "2026-03-29T23:43:29.859Z"
+generated_at: "2026-03-29T23:50:11.217Z"
 ---
 
 # § 1169. Railroad tank car security testing

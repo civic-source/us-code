@@ -3,9 +3,9 @@ title: "Section 674 - Payments to States"
 usc_title: 42
 usc_section: "674"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 674"
-generated_at: "2026-03-29T23:46:25.211Z"
+generated_at: "2026-03-29T23:53:16.219Z"
 ---
 
 # § 674. Payments to States

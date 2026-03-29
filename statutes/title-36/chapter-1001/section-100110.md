@@ -3,9 +3,9 @@ title: "Section 100110 - Service of process"
 usc_title: 36
 usc_section: "100110"
 chapter: 1001
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "36 U.S.C. § 100110"
-generated_at: "2026-03-29T23:45:50.672Z"
+generated_at: "2026-03-29T23:52:39.357Z"
 ---
 
 # § 100110. Service of process

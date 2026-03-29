@@ -3,9 +3,9 @@ title: "Section 32305 - Information and assistance from other departments, agenc
 usc_title: 49
 usc_section: "32305"
 chapter: 323
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 32305"
-generated_at: "2026-03-29T23:46:53.419Z"
+generated_at: "2026-03-29T23:53:40.239Z"
 ---
 
 # § 32305. Information and assistance from other departments, agencies, and instrumentalities

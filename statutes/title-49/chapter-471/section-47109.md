@@ -3,9 +3,9 @@ title: "Section 47109 - United States Government’s share of project costs"
 usc_title: 49
 usc_section: "47109"
 chapter: 471
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 47109"
-generated_at: "2026-03-29T23:46:53.445Z"
+generated_at: "2026-03-29T23:53:40.269Z"
 ---
 
 # § 47109. United States Government’s share of project costs
@@ -32,3 +32,9 @@ generated_at: "2026-03-29T23:46:53.445Z"
 - **(f)** The Government’s share of allowable project costs shall be 95 percent for a project at an airport that—
   - **(1)** is receiving essential air service for which compensation was provided to an air carrier under subchapter II of chapter 417; and
   - **(2)** is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3161(a) ), as determined by the Secretary of Commerce.
+- **(g)**
+  - **(1)** The Government’s share of allowable project costs for covered equipment and its installation shall be 100 percent.
+  - **(2)** For purposes of this subsection, the term “covered equipment” means aqueous film forming foam input-based testing equipment that is eligible for Airport Improvement Program funding based on Federal Aviation Administration PGL 21–01, titled “Extension of Eligibility for stand-alone acquisition of input-based testing equipment and truck modification”, dated October 5, 2021 (or any other successor program guidance letter).
+  - **(3)** The higher cost share authority established in this subsection shall terminate on the earlier of—
+    - **(A)** 180 days after the date on which the eligibility of covered equipment for Airport Improvement Program funding under the authority described in paragraph (2) terminates or is discontinued by the Administrator; or
+    - **(B)** 5 years after the date of enactment of this subsection.

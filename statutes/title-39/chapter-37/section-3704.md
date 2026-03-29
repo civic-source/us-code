@@ -3,9 +3,9 @@ title: "Section 3704 - Postal Service program for other Government agencies"
 usc_title: 39
 usc_section: "3704"
 chapter: 37
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "39 U.S.C. § 3704"
-generated_at: "2026-03-29T23:45:49.969Z"
+generated_at: "2026-03-29T23:52:42.922Z"
 ---
 
 # § 3704. Postal Service program for other Government agencies

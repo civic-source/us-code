@@ -3,9 +3,9 @@ title: "Section 3111 - New issue used to buy, redeem, or refund outstanding obli
 usc_title: 31
 usc_section: "3111"
 chapter: 31
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "31 U.S.C. § 3111"
-generated_at: "2026-03-29T23:45:40.455Z"
+generated_at: "2026-03-29T23:52:13.614Z"
 ---
 
 # § 3111. New issue used to buy, redeem, or refund outstanding obligations

@@ -3,9 +3,9 @@ title: "Section 1483 - Prisoners of war and interned enemy aliens"
 usc_title: 10
 usc_section: "1483"
 chapter: 75
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 1483"
-generated_at: "2026-03-29T23:43:41.769Z"
+generated_at: "2026-03-29T23:50:22.262Z"
 ---
 
 # § 1483. Prisoners of war and interned enemy aliens

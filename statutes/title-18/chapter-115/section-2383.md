@@ -3,9 +3,9 @@ title: "Section 2383 - Rebellion or insurrection"
 usc_title: 18
 usc_section: "2383"
 chapter: 115
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "18 U.S.C. § 2383"
-generated_at: "2026-03-29T23:44:23.814Z"
+generated_at: "2026-03-29T23:51:08.398Z"
 ---
 
 # § 2383. Rebellion or insurrection

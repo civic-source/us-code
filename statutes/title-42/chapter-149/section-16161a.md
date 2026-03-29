@@ -3,9 +3,9 @@ title: "Section 16161a - Regional clean hydrogen hubs"
 usc_title: 42
 usc_section: "16161a"
 chapter: 149
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 16161a"
-generated_at: "2026-03-29T23:46:25.697Z"
+generated_at: "2026-03-29T23:53:16.703Z"
 ---
 
 # § 16161a. Regional clean hydrogen hubs

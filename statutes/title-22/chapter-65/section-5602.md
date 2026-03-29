@@ -3,9 +3,9 @@ title: "Section 5602 - Multilateral efforts"
 usc_title: 22
 usc_section: "5602"
 chapter: 65
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 5602"
-generated_at: "2026-03-29T23:44:53.586Z"
+generated_at: "2026-03-29T23:51:29.526Z"
 ---
 
 # § 5602. Multilateral efforts

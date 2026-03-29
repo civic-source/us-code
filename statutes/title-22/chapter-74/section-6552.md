@@ -3,9 +3,9 @@ title: "Section 6552 - Application of certain laws"
 usc_title: 22
 usc_section: "6552"
 chapter: 74
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 6552"
-generated_at: "2026-03-29T23:44:53.597Z"
+generated_at: "2026-03-29T23:51:29.537Z"
 ---
 
 # § 6552. Application of certain laws

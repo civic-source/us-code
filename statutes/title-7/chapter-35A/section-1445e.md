@@ -3,9 +3,9 @@ title: "Section 1445e - Farmer owned reserve program"
 usc_title: 7
 usc_section: "1445e"
 chapter: 35
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1445e"
-generated_at: "2026-03-29T23:43:33.825Z"
+generated_at: "2026-03-29T23:50:42.112Z"
 ---
 
 # § 1445e. Farmer owned reserve program

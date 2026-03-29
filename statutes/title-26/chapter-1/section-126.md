@@ -3,9 +3,9 @@ title: "Section 126 - Certain cost-sharing payments"
 usc_title: 26
 usc_section: "126"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 126"
-generated_at: "2026-03-29T23:45:28.852Z"
+generated_at: "2026-03-29T23:52:10.070Z"
 ---
 
 # § 126. Certain cost-sharing payments

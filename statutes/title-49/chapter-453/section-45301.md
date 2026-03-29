@@ -3,9 +3,9 @@ title: "Section 45301 - General provisions"
 usc_title: 49
 usc_section: "45301"
 chapter: 453
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 45301"
-generated_at: "2026-03-29T23:46:53.441Z"
+generated_at: "2026-03-29T23:53:40.265Z"
 ---
 
 # § 45301. General provisions

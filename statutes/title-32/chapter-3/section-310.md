@@ -3,9 +3,9 @@ title: "Section 310 - Federal recognition of National Guard officers: automatic 
 usc_title: 32
 usc_section: "310"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "32 U.S.C. § 310"
-generated_at: "2026-03-29T23:45:38.284Z"
+generated_at: "2026-03-29T23:52:18.898Z"
 ---
 
 # § 310. Federal recognition of National Guard officers: automatic recognition

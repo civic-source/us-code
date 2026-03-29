@@ -3,9 +3,9 @@ title: "Section 1395ss - Certification of medicare supplemental health insurance
 usc_title: 42
 usc_section: "1395ss"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 1395ss"
-generated_at: "2026-03-29T23:46:25.307Z"
+generated_at: "2026-03-29T23:53:16.312Z"
 ---
 
 # § 1395ss. Certification of medicare supplemental health insurance policies

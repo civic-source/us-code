@@ -3,9 +3,9 @@ title: "Section 262o - Negotiations concerning replenishment or increase in capi
 usc_title: 22
 usc_section: "262o"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 262o"
-generated_at: "2026-03-29T23:44:53.480Z"
+generated_at: "2026-03-29T23:51:29.422Z"
 ---
 
 # § 262o. Negotiations concerning replenishment or increase in capital; annual reports on implementation of lending policy goals

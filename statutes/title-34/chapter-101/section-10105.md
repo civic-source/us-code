@@ -3,9 +3,9 @@ title: "Section 10105 - Inclusion of Indian tribes"
 usc_title: 34
 usc_section: "10105"
 chapter: 101
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "34 U.S.C. § 10105"
-generated_at: "2026-03-29T23:45:32.690Z"
+generated_at: "2026-03-29T23:52:36.791Z"
 ---
 
 # § 10105. Inclusion of Indian tribes

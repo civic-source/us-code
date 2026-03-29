@@ -3,9 +3,9 @@ title: "Section 44104 - Registration of aircraft components and dealers’ certi
 usc_title: 49
 usc_section: "44104"
 chapter: 441
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 44104"
-generated_at: "2026-03-29T23:46:53.431Z"
+generated_at: "2026-03-29T23:53:40.252Z"
 ---
 
 # § 44104. Registration of aircraft components and dealers’ certificates of registration

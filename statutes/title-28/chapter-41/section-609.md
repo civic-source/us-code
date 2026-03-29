@@ -3,9 +3,9 @@ title: "Section 609 - Courts’ appointive power unaffected"
 usc_title: 28
 usc_section: "609"
 chapter: 41
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "28 U.S.C. § 609"
-generated_at: "2026-03-29T23:45:08.256Z"
+generated_at: "2026-03-29T23:51:48.882Z"
 ---
 
 # § 609. Courts’ appointive power unaffected

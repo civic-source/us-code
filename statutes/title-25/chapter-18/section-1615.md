@@ -3,9 +3,9 @@ title: "Section 1615 - Continuing education allowances"
 usc_title: 25
 usc_section: "1615"
 chapter: 18
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 1615"
-generated_at: "2026-03-29T23:44:34.218Z"
+generated_at: "2026-03-29T23:51:20.029Z"
 ---
 
 # § 1615. Continuing education allowances

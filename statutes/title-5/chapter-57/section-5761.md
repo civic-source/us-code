@@ -3,9 +3,9 @@ title: "Section 5761 - Foreign language proficiency pay awards for the Federal B
 usc_title: 5
 usc_section: "5761"
 chapter: 57
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "5 U.S.C. § 5761"
-generated_at: "2026-03-29T23:43:25.516Z"
+generated_at: "2026-03-29T23:49:47.606Z"
 ---
 
 # § 5761. Foreign language proficiency pay awards for the Federal Bureau of Investigation

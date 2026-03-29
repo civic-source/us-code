@@ -3,9 +3,9 @@ title: "Section 598 - Separability"
 usc_title: 7
 usc_section: "598"
 chapter: 25
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 598"
-generated_at: "2026-03-29T23:43:33.806Z"
+generated_at: "2026-03-29T23:50:42.092Z"
 ---
 
 # § 598. Separability

@@ -3,9 +3,9 @@ title: "Section 1997 - Conservation easements"
 usc_title: 7
 usc_section: "1997"
 chapter: 50
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1997"
-generated_at: "2026-03-29T23:43:33.854Z"
+generated_at: "2026-03-29T23:50:42.141Z"
 ---
 
 # § 1997. Conservation easements
@@ -13,7 +13,7 @@ generated_at: "2026-03-29T23:43:33.854Z"
 - **(a)** For purposes of this section:
   - **(1)** The term “governmental entity” means any agency of the United States, a State, or a unit of local government of a State.
   - **(2)** The terms “highly erodible land” and “wetland” have the meanings, respectively, that such terms are given in section 3801 of title 16 .
-  - **(3)** The term “wildlife” means fish or wildlife as defined in section 3371(a) of title 16 .
+  - **(3)** The term “wildlife” means fish or wildlife as defined in section 3371 of title 16 .
   - **(4)** The term “recreational purposes” includes hunting.
 - **(b)** Subject to subsection (c), the Secretary may enter into a contract related to real property for conservation, recreation, or wildlife purposes.
 - **(c)** The Secretary may enter into a contract under subsection (b) if—

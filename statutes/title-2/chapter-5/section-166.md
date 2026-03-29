@@ -3,9 +3,9 @@ title: "Section 166 - Congressional Research Service"
 usc_title: 2
 usc_section: "166"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "2 U.S.C. § 166"
-generated_at: "2026-03-29T23:43:24.098Z"
+generated_at: "2026-03-29T23:50:07.798Z"
 ---
 
 # § 166. Congressional Research Service

@@ -3,9 +3,9 @@ title: "Section 1050 - Jurisdiction of district courts; United States as plainti
 usc_title: 21
 usc_section: "1050"
 chapter: 15
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "21 U.S.C. § 1050"
-generated_at: "2026-03-29T23:44:35.931Z"
+generated_at: "2026-03-29T23:51:22.755Z"
 ---
 
 # § 1050. Jurisdiction of district courts; United States as plaintiff in enforcement and restraining proceedings; subpenas for witnesses

@@ -3,9 +3,9 @@ title: "Section 410uuu - Manhattan Project National Historical Park"
 usc_title: 16
 usc_section: "410uuu"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 410uuu"
-generated_at: "2026-03-29T23:44:20.826Z"
+generated_at: "2026-03-29T23:51:16.097Z"
 ---
 
 # § 410uuu. Manhattan Project National Historical Park

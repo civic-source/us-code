@@ -3,9 +3,9 @@ title: "Section 3904 - Limitations on discount payments"
 usc_title: 31
 usc_section: "3904"
 chapter: 39
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "31 U.S.C. § 3904"
-generated_at: "2026-03-29T23:45:40.464Z"
+generated_at: "2026-03-29T23:52:13.623Z"
 ---
 
 # § 3904. Limitations on discount payments

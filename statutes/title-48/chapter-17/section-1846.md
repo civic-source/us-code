@@ -3,9 +3,9 @@ title: "Section 1846 - Exemption from assessment and taxation of real property o
 usc_title: 48
 usc_section: "1846"
 chapter: 17
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "48 U.S.C. § 1846"
-generated_at: "2026-03-29T23:46:28.749Z"
+generated_at: "2026-03-29T23:53:21.603Z"
 ---
 
 # § 1846. Exemption from assessment and taxation of real property owned by Commonwealth in United States capital

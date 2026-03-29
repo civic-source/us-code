@@ -3,9 +3,9 @@ title: "Section 20104 - Governing body"
 usc_title: 36
 usc_section: "20104"
 chapter: 201
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "36 U.S.C. § 20104"
-generated_at: "2026-03-29T23:45:50.665Z"
+generated_at: "2026-03-29T23:52:39.349Z"
 ---
 
 # § 20104. Governing body

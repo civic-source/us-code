@@ -3,9 +3,9 @@ title: "Section 864 - Appeals, certiorari, removal of causes, etc.; use of Engli
 usc_title: 48
 usc_section: "864"
 chapter: 4
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "48 U.S.C. § 864"
-generated_at: "2026-03-29T23:46:28.738Z"
+generated_at: "2026-03-29T23:53:21.592Z"
 ---
 
 # § 864. Appeals, certiorari, removal of causes, etc.; use of English language

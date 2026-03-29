@@ -3,9 +3,9 @@ title: "Section 994 - Inter-company pricing rules"
 usc_title: 26
 usc_section: "994"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 994"
-generated_at: "2026-03-29T23:45:28.953Z"
+generated_at: "2026-03-29T23:52:10.173Z"
 ---
 
 # § 994. Inter-company pricing rules

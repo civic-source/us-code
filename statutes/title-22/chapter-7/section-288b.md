@@ -3,9 +3,9 @@ title: "Section 288b - Baggage and effects of officers and employees exempted fr
 usc_title: 22
 usc_section: "288b"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 288b"
-generated_at: "2026-03-29T23:44:53.498Z"
+generated_at: "2026-03-29T23:51:29.437Z"
 ---
 
 # § 288b. Baggage and effects of officers and employees exempted from customs duties and internal revenue taxes

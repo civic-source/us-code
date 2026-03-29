@@ -3,9 +3,9 @@ title: "Section 183 - Conciliation of labor disputes in the health care industry
 usc_title: 29
 usc_section: "183"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "29 U.S.C. § 183"
-generated_at: "2026-03-29T23:45:02.684Z"
+generated_at: "2026-03-29T23:51:49.764Z"
 ---
 
 # § 183. Conciliation of labor disputes in the health care industry

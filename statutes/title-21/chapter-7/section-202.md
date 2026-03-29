@@ -3,9 +3,9 @@ title: "Section 202 - Certain classes of persons and corporations excepted; inse
 usc_title: 21
 usc_section: "202"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "21 U.S.C. § 202"
-generated_at: "2026-03-29T23:44:35.860Z"
+generated_at: "2026-03-29T23:51:22.684Z"
 ---
 
 # § 202. Certain classes of persons and corporations excepted; insecticides

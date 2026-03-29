@@ -3,9 +3,9 @@ title: "Section 12374 - Conference committees"
 usc_title: 42
 usc_section: "12374"
 chapter: 127
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 12374"
-generated_at: "2026-03-29T23:46:25.648Z"
+generated_at: "2026-03-29T23:53:16.648Z"
 ---
 
 # § 12374. Conference committees

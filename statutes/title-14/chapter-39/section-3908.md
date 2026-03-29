@@ -3,9 +3,9 @@ title: "Section 3908 - Vessel deemed public vessel"
 usc_title: 14
 usc_section: "3908"
 chapter: 39
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "14 U.S.C. § 3908"
-generated_at: "2026-03-29T23:44:05.285Z"
+generated_at: "2026-03-29T23:51:04.220Z"
 ---
 
 # § 3908. Vessel deemed public vessel

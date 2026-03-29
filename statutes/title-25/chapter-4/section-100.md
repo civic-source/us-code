@@ -3,9 +3,9 @@ title: "Section 100 - Repealed. Oct. 31, 1951, ch. 654, § 1(48) , 65 Stat. 703"
 usc_title: 25
 usc_section: "100"
 chapter: 4
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 100"
-generated_at: "2026-03-29T23:44:34.201Z"
+generated_at: "2026-03-29T23:51:20.011Z"
 ---
 
 # § 100. Repealed. Oct. 31, 1951, ch. 654, § 1(48) , 65 Stat. 703

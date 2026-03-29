@@ -3,9 +3,9 @@ title: "Section 1473 - Revenue and customs or tariff treatment of deep seabed mi
 usc_title: 30
 usc_section: "1473"
 chapter: 26
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "30 U.S.C. § 1473"
-generated_at: "2026-03-29T23:45:01.692Z"
+generated_at: "2026-03-29T23:51:31.978Z"
 ---
 
 # § 1473. Revenue and customs or tariff treatment of deep seabed mining unaffected

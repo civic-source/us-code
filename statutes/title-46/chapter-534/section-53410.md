@@ -3,9 +3,9 @@ title: "Section 53410 - Regulations"
 usc_title: 46
 usc_section: "53410"
 chapter: 534
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "46 U.S.C. § 53410"
-generated_at: "2026-03-29T23:46:38.397Z"
+generated_at: "2026-03-29T23:53:20.153Z"
 ---
 
 # § 53410. Regulations

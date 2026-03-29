@@ -3,9 +3,9 @@ title: "Section 140409 - Service of process"
 usc_title: 36
 usc_section: "140409"
 chapter: 1404
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "36 U.S.C. § 140409"
-generated_at: "2026-03-29T23:45:50.674Z"
+generated_at: "2026-03-29T23:52:39.358Z"
 ---
 
 # § 140409. Service of process

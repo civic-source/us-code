@@ -3,9 +3,9 @@ title: "Section 1225a - Preinspection at foreign airports"
 usc_title: 8
 usc_section: "1225a"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "8 U.S.C. § 1225a"
-generated_at: "2026-03-29T23:43:42.417Z"
+generated_at: "2026-03-29T23:50:12.071Z"
 ---
 
 # § 1225a. Preinspection at foreign airports

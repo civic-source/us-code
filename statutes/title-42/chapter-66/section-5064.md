@@ -3,9 +3,9 @@ title: "Section 5064 - Review of project renewals"
 usc_title: 42
 usc_section: "5064"
 chapter: 66
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 5064"
-generated_at: "2026-03-29T23:46:25.476Z"
+generated_at: "2026-03-29T23:53:16.479Z"
 ---
 
 # § 5064. Review of project renewals

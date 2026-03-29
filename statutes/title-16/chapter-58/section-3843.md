@@ -3,9 +3,9 @@ title: "Section 3843 - Repealed. Pub. L. 113–79, title II, § 2710(a) , Feb. 7
 usc_title: 16
 usc_section: "3843"
 chapter: 58
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 3843"
-generated_at: "2026-03-29T23:44:21.004Z"
+generated_at: "2026-03-29T23:51:16.265Z"
 ---
 
 # § 3843. Repealed. Pub. L. 113–79, title II, § 2710(a) , Feb. 7, 2014 , 128 Stat. 770

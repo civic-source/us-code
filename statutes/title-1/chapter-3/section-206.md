@@ -3,9 +3,9 @@ title: "Section 206 - Bills and resolutions of Committee on the Judiciary of Hou
 usc_title: 1
 usc_section: "206"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "1 U.S.C. § 206"
-generated_at: "2026-03-29T23:43:24.183Z"
+generated_at: "2026-03-29T23:49:47.764Z"
 ---
 
 # § 206. Bills and resolutions of Committee on the Judiciary of House of Representatives; form and style; ancillaries; curtailment of copies

@@ -3,9 +3,9 @@ title: "Section 1054 - Defense of certain suits arising out of legal malpractice
 usc_title: 10
 usc_section: "1054"
 chapter: 53
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 1054"
-generated_at: "2026-03-29T23:43:41.749Z"
+generated_at: "2026-03-29T23:50:22.242Z"
 ---
 
 # § 1054. Defense of certain suits arising out of legal malpractice

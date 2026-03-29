@@ -3,9 +3,9 @@ title: "Section 10234 - Prohibition on use of Central Intelligence Agency servic
 usc_title: 34
 usc_section: "10234"
 chapter: 101
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "34 U.S.C. § 10234"
-generated_at: "2026-03-29T23:45:32.694Z"
+generated_at: "2026-03-29T23:52:36.793Z"
 ---
 
 # § 10234. Prohibition on use of Central Intelligence Agency services

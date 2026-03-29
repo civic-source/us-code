@@ -3,9 +3,9 @@ title: "Section 870 - Art. 70. Appellate counsel"
 usc_title: 10
 usc_section: "870"
 chapter: 47
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 870"
-generated_at: "2026-03-29T23:43:41.740Z"
+generated_at: "2026-03-29T23:50:22.234Z"
 ---
 
 # § 870. Art. 70. Appellate counsel

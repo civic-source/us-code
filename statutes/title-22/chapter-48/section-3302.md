@@ -3,9 +3,9 @@ title: "Section 3302 - Implementation of United States policy with regard to Tai
 usc_title: 22
 usc_section: "3302"
 chapter: 48
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 3302"
-generated_at: "2026-03-29T23:44:53.560Z"
+generated_at: "2026-03-29T23:51:29.500Z"
 ---
 
 # § 3302. Implementation of United States policy with regard to Taiwan

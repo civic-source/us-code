@@ -3,9 +3,9 @@ title: "Section 386a - Adjustment of reimbursable debts; construction charges"
 usc_title: 25
 usc_section: "386a"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 386a"
-generated_at: "2026-03-29T23:44:34.207Z"
+generated_at: "2026-03-29T23:51:20.018Z"
 ---
 
 # § 386a. Adjustment of reimbursable debts; construction charges

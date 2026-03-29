@@ -3,9 +3,9 @@ title: "Section 287c - Economic and communication sanctions pursuant to United N
 usc_title: 22
 usc_section: "287c"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 287c"
-generated_at: "2026-03-29T23:44:53.497Z"
+generated_at: "2026-03-29T23:51:29.436Z"
 ---
 
 # § 287c. Economic and communication sanctions pursuant to United Nations Security Council Resolution

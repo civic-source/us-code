@@ -3,9 +3,9 @@ title: "Section 8a - Optimizing global clinical trials"
 usc_title: 21
 usc_section: "8a"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "21 U.S.C. § 8a"
-generated_at: "2026-03-29T23:44:35.893Z"
+generated_at: "2026-03-29T23:51:22.717Z"
 ---
 
 # § 360bbb–8a. Optimizing global clinical trials

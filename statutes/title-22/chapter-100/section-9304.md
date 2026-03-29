@@ -3,9 +3,9 @@ title: "Section 9304 - Comprehensive Global Food Security Strategy"
 usc_title: 22
 usc_section: "9304"
 chapter: 100
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 9304"
-generated_at: "2026-03-29T23:44:53.628Z"
+generated_at: "2026-03-29T23:51:29.569Z"
 ---
 
 # § 9304. Comprehensive Global Food Security Strategy

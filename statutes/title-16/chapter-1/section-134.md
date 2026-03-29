@@ -3,9 +3,9 @@ title: "Section 134 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 16
 usc_section: "134"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 134"
-generated_at: "2026-03-29T23:44:20.790Z"
+generated_at: "2026-03-29T23:51:16.063Z"
 ---
 
 # §§ 129 to 134. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

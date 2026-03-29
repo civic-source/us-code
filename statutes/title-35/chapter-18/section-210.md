@@ -3,9 +3,9 @@ title: "Section 210 - Precedence of chapter"
 usc_title: 35
 usc_section: "210"
 chapter: 18
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "35 U.S.C. § 210"
-generated_at: "2026-03-29T23:45:31.110Z"
+generated_at: "2026-03-29T23:52:26.127Z"
 ---
 
 # § 210. Precedence of chapter
@@ -29,7 +29,7 @@ generated_at: "2026-03-29T23:45:31.110Z"
   - **(16)** section 427(b) of the Federal Mine Health and Safety Act of 1977 ( 30 U.S.C. 937(b) ; 86 Stat. 155 );
   - **(17)** section 306(d) of the Surface Mining and Reclamation Act of 1977 ( 30 U.S.C. 1226(d) ; 91 Stat. 455 ); 1
   - **(18)** section 21(d) of the Federal Fire Prevention and Control Act of 1974 ( 15 U.S.C. 2218(d) ; 88 Stat. 1548 );
-  - **(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ( 42 U.S.C. 5585(b) ; 92 Stat. 2516 );
+  - **(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ( 42 U.S.C. 5585(b) ; 92 Stat. 2516 ); 1
   - **(20)** section 12 of the Native Latex Commercialization and Economic Development Act of 1978 ( 7 U.S.C. 178j ; 92 Stat. 2533 ); and
   - **(21)** section 408 of the Water Resources and Development Act of 1978 ( 42 U.S.C. 7879 ; 92 Stat. 1360 ).
 - **(b)** Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.

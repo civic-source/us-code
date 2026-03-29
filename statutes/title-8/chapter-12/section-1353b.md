@@ -3,9 +3,9 @@ title: "Section 1353b - Extra compensation; payment"
 usc_title: 8
 usc_section: "1353b"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "8 U.S.C. § 1353b"
-generated_at: "2026-03-29T23:43:42.427Z"
+generated_at: "2026-03-29T23:50:12.081Z"
 ---
 
 # § 1353b. Extra compensation; payment

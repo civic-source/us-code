@@ -3,9 +3,9 @@ title: "Section 1644j - Transfer of records"
 usc_title: 22
 usc_section: "1644j"
 chapter: 21
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 1644j"
-generated_at: "2026-03-29T23:44:53.512Z"
+generated_at: "2026-03-29T23:51:29.451Z"
 ---
 
 # § 1644j. Transfer of records

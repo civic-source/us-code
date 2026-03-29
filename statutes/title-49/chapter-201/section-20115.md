@@ -3,9 +3,9 @@ title: "Section 20115 - User fees"
 usc_title: 49
 usc_section: "20115"
 chapter: 201
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 20115"
-generated_at: "2026-03-29T23:46:53.397Z"
+generated_at: "2026-03-29T23:53:40.214Z"
 ---
 
 # § 20115. User fees

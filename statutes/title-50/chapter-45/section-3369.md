@@ -3,9 +3,9 @@ title: "Section 3369 - Cooperative actions to detect and counter foreign influen
 usc_title: 50
 usc_section: "3369"
 chapter: 45
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "50 U.S.C. § 3369"
-generated_at: "2026-03-29T23:46:37.341Z"
+generated_at: "2026-03-29T23:53:23.653Z"
 ---
 
 # § 3369. Cooperative actions to detect and counter foreign influence operations

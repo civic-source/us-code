@@ -3,9 +3,9 @@ title: "Section 907 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42)
 usc_title: 8
 usc_section: "907"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "8 U.S.C. § 907"
-generated_at: "2026-03-29T23:43:42.402Z"
+generated_at: "2026-03-29T23:50:12.056Z"
 ---
 
 # §§ 904 to 907. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(42), 66 Stat. 280 , eff. Dec. 24, 1952

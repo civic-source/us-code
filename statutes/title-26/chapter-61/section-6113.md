@@ -3,9 +3,9 @@ title: "Section 6113 - Disclosure of nondeductibility of contributions"
 usc_title: 26
 usc_section: "6113"
 chapter: 61
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 6113"
-generated_at: "2026-03-29T23:45:29.028Z"
+generated_at: "2026-03-29T23:52:10.250Z"
 ---
 
 # § 6113. Disclosure of nondeductibility of contributions

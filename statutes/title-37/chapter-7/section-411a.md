@@ -3,9 +3,9 @@ title: "Section 411a - Renumbered § 481a]"
 usc_title: 37
 usc_section: "411a"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "37 U.S.C. § 411a"
-generated_at: "2026-03-29T23:45:53.346Z"
+generated_at: "2026-03-29T23:52:49.851Z"
 ---
 
 # [§ 411a. Renumbered § 481a]

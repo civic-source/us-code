@@ -3,9 +3,9 @@ title: "Section 3402 - Supplemental authorization of foreign military sales loan
 usc_title: 22
 usc_section: "3402"
 chapter: 49
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 3402"
-generated_at: "2026-03-29T23:44:53.561Z"
+generated_at: "2026-03-29T23:51:29.500Z"
 ---
 
 # § 3402. Supplemental authorization of foreign military sales loan guaranties for Egypt and Israel

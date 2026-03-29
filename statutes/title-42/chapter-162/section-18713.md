@@ -3,9 +3,9 @@ title: "Section 18713 - Transmission facilitation program"
 usc_title: 42
 usc_section: "18713"
 chapter: 162
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 18713"
-generated_at: "2026-03-29T23:46:25.742Z"
+generated_at: "2026-03-29T23:53:16.748Z"
 ---
 
 # § 18713. Transmission facilitation program

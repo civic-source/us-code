@@ -3,9 +3,9 @@ title: "Section 24911 - Federal-State partnership for intercity passenger rail"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-29T23:46:53.408Z"
+generated_at: "2026-03-29T23:53:40.225Z"
 ---
 
 # § 24911. Federal-State partnership for intercity passenger rail
@@ -25,7 +25,7 @@ generated_at: "2026-03-29T23:46:53.408Z"
     - **(A)** the main rail line between Boston, Massachusetts and the District of Columbia;
     - **(B)** the branch rail lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York; and
     - **(C)** facilities and services used to operate and maintain lines described in subparagraphs (A) and (B).
-- **(b)** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;. 1 1 So in original. The semicolon preceding the period probably should be a period.
+- **(b)** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;. 1 1 So in original. The semicolon preceding the period probably should not appear.
 - **(c)** The following capital projects, including acquisition of real property interests, are eligible to receive grants under this section:
   - **(1)** A project to replace, rehabilitate, or repair infrastructure, equipment, or a facility used for providing intercity passenger rail service to bring such assets into a state of good repair.
   - **(2)** A project to improve intercity passenger rail service performance, including reduced trip times, increased train frequencies, higher operating speeds, improved reliability, expanded capacity, reduced congestion, electrification, and other improvements, as determined by the Secretary.

@@ -3,9 +3,9 @@ title: "Section 9624 - Termination"
 usc_title: 22
 usc_section: "9624"
 chapter: 103
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 9624"
-generated_at: "2026-03-29T23:44:53.632Z"
+generated_at: "2026-03-29T23:51:29.573Z"
 ---
 
 # § 9624. Termination

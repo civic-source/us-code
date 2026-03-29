@@ -3,9 +3,9 @@ title: "Section 150g - Repealed. Pub. L. 106–224, title IV, § 438(a)(8) , Jun
 usc_title: 7
 usc_section: "150g"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 150g"
-generated_at: "2026-03-29T23:43:33.795Z"
+generated_at: "2026-03-29T23:50:42.080Z"
 ---
 
 # §§ 150 to 150g. Repealed. Pub. L. 106–224, title IV, § 438(a)(8) , June 20, 2000 , 114 Stat. 454

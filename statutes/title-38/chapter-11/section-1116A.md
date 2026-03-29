@@ -3,9 +3,9 @@ title: "Section 1116A - Presumptions of service connection for veterans who serv
 usc_title: 38
 usc_section: "1116A"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 1116A"
-generated_at: "2026-03-29T23:46:03.090Z"
+generated_at: "2026-03-29T23:52:41.933Z"
 ---
 
 # § 1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam

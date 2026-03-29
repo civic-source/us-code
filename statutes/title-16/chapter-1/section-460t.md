@@ -3,9 +3,9 @@ title: "Section 460t - Establishment"
 usc_title: 16
 usc_section: "460t"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 460t"
-generated_at: "2026-03-29T23:44:20.851Z"
+generated_at: "2026-03-29T23:51:16.120Z"
 ---
 
 # § 460t. Establishment

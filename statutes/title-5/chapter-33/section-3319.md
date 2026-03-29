@@ -3,9 +3,9 @@ title: "Section 3319 - Alternative ranking and selection procedures"
 usc_title: 5
 usc_section: "3319"
 chapter: 33
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "5 U.S.C. § 3319"
-generated_at: "2026-03-29T23:43:25.500Z"
+generated_at: "2026-03-29T23:49:47.590Z"
 ---
 
 # § 3319. Alternative ranking and selection procedures

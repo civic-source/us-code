@@ -3,9 +3,9 @@ title: "Section 80505 - Governing body"
 usc_title: 36
 usc_section: "80505"
 chapter: 805
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "36 U.S.C. § 80505"
-generated_at: "2026-03-29T23:45:50.671Z"
+generated_at: "2026-03-29T23:52:39.356Z"
 ---
 
 # § 80505. Governing body

@@ -3,9 +3,9 @@ title: "Section 762 - National Institute on Disability, Independent Living, and 
 usc_title: 29
 usc_section: "762"
 chapter: 16
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "29 U.S.C. § 762"
-generated_at: "2026-03-29T23:45:02.698Z"
+generated_at: "2026-03-29T23:51:49.777Z"
 ---
 
 # § 762. National Institute on Disability, Independent Living, and Rehabilitation Research

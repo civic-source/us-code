@@ -3,9 +3,9 @@ title: "Section 403i - Secretary of the Interior authorized to purchase necessar
 usc_title: 16
 usc_section: "403i"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 403i"
-generated_at: "2026-03-29T23:44:20.806Z"
+generated_at: "2026-03-29T23:51:16.078Z"
 ---
 
 # § 403i. Secretary of the Interior authorized to purchase necessary lands

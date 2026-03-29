@@ -3,9 +3,9 @@ title: "Section 1503 - Development of projects by Secretary; financial assistanc
 usc_title: 42
 usc_section: "1503"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 1503"
-generated_at: "2026-03-29T23:46:25.380Z"
+generated_at: "2026-03-29T23:53:16.383Z"
 ---
 
 # § 1503. Development of projects by Secretary; financial assistance to public housing agencies

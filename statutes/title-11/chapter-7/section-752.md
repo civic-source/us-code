@@ -3,9 +3,9 @@ title: "Section 752 - Customer property"
 usc_title: 11
 usc_section: "752"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "11 U.S.C. § 752"
-generated_at: "2026-03-29T23:43:46.574Z"
+generated_at: "2026-03-29T23:50:51.107Z"
 ---
 
 # § 752. Customer property

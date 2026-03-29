@@ -3,9 +3,9 @@ title: "Section 60 - Capital structure"
 usc_title: 15
 usc_section: "60"
 chapter: 2
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "15 U.S.C. § 60"
-generated_at: "2026-03-29T23:43:51.202Z"
+generated_at: "2026-03-29T23:50:50.515Z"
 ---
 
 # § 80a–60. Capital structure

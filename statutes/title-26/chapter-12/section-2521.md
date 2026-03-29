@@ -3,9 +3,9 @@ title: "Section 2521 - Repealed. Pub. L. 94–455, title XX, § 2001(b)(3) , Oct
 usc_title: 26
 usc_section: "2521"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 2521"
-generated_at: "2026-03-29T23:45:28.979Z"
+generated_at: "2026-03-29T23:52:10.199Z"
 ---
 
 # [§ 2521. Repealed. Pub. L. 94–455, title XX, § 2001(b)(3) , Oct. 4, 1976 , 90 Stat. 1849 ]

@@ -3,9 +3,9 @@ title: "Section 1421c - Repealed. Pub. L. 104–66, title I, § 1011(c) , Dec. 2
 usc_title: 7
 usc_section: "1421c"
 chapter: 35
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1421c"
-generated_at: "2026-03-29T23:43:33.822Z"
+generated_at: "2026-03-29T23:50:42.109Z"
 ---
 
 # § 1421c. Repealed. Pub. L. 104–66, title I, § 1011(c) , Dec. 21, 1995 , 109 Stat. 709

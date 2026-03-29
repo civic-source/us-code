@@ -3,9 +3,9 @@ title: "Section 2021 - General authority"
 usc_title: 19
 usc_section: "2021"
 chapter: 8
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "19 U.S.C. § 2021"
-generated_at: "2026-03-29T23:44:27.732Z"
+generated_at: "2026-03-29T23:51:13.759Z"
 ---
 
 # § 2021. General authority

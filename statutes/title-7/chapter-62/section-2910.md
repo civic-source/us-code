@@ -3,9 +3,9 @@ title: "Section 2910 - Preemption of other Federal and State programs; applicabi
 usc_title: 7
 usc_section: "2910"
 chapter: 62
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 2910"
-generated_at: "2026-03-29T23:43:33.884Z"
+generated_at: "2026-03-29T23:50:42.170Z"
 ---
 
 # § 2910. Preemption of other Federal and State programs; applicability of provisions to amendments to orders

@@ -3,9 +3,9 @@ title: "Section 798A - Temporary extension of section 794"
 usc_title: 18
 usc_section: "798A"
 chapter: 37
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "18 U.S.C. § 798A"
-generated_at: "2026-03-29T23:44:23.788Z"
+generated_at: "2026-03-29T23:51:08.370Z"
 ---
 
 # § 798A. Temporary extension of section 794

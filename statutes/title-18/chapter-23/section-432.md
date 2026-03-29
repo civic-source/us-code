@@ -3,9 +3,9 @@ title: "Section 432 - Officer or employee contracting with Member of Congress"
 usc_title: 18
 usc_section: "432"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "18 U.S.C. § 432"
-generated_at: "2026-03-29T23:44:23.783Z"
+generated_at: "2026-03-29T23:51:08.365Z"
 ---
 
 # § 432. Officer or employee contracting with Member of Congress

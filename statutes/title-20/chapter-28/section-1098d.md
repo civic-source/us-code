@@ -3,9 +3,9 @@ title: "Section 1098d - Procedures for cancellations and deferments for eligible
 usc_title: 20
 usc_section: "1098d"
 chapter: 28
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "20 U.S.C. § 1098d"
-generated_at: "2026-03-29T23:44:18.201Z"
+generated_at: "2026-03-29T23:51:10.477Z"
 ---
 
 # § 1098d. Procedures for cancellations and deferments for eligible disabled veterans

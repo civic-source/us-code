@@ -3,9 +3,9 @@ title: "Section 5703 - Per diem, travel, and transportation expenses; experts an
 usc_title: 5
 usc_section: "5703"
 chapter: 57
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "5 U.S.C. § 5703"
-generated_at: "2026-03-29T23:43:25.514Z"
+generated_at: "2026-03-29T23:49:47.604Z"
 ---
 
 # § 5703. Per diem, travel, and transportation expenses; experts and consultants; individuals serving without pay

@@ -3,9 +3,9 @@ title: "Section 6506 - Review"
 usc_title: 15
 usc_section: "6506"
 chapter: 91
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "15 U.S.C. § 6506"
-generated_at: "2026-03-29T23:43:51.339Z"
+generated_at: "2026-03-29T23:50:50.645Z"
 ---
 
 # § 6506. Review

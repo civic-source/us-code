@@ -3,9 +3,9 @@ title: "Section 654 - Omitted"
 usc_title: 25
 usc_section: "654"
 chapter: 14
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 654"
-generated_at: "2026-03-29T23:44:34.212Z"
+generated_at: "2026-03-29T23:51:20.023Z"
 ---
 
 # § 654. Omitted

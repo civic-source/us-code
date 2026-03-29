@@ -3,9 +3,9 @@ title: "Section 7427 - Authority to free members of the Armed Forces of the Unit
 usc_title: 22
 usc_section: "7427"
 chapter: 81
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 7427"
-generated_at: "2026-03-29T23:44:53.606Z"
+generated_at: "2026-03-29T23:51:29.546Z"
 ---
 
 # § 7427. Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court

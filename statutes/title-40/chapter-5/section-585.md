@@ -3,9 +3,9 @@ title: "Section 585 - Lease agreements"
 usc_title: 40
 usc_section: "585"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "40 U.S.C. § 585"
-generated_at: "2026-03-29T23:45:55.314Z"
+generated_at: "2026-03-29T23:52:43.270Z"
 ---
 
 # § 585. Lease agreements
@@ -19,3 +19,4 @@ generated_at: "2026-03-29T23:45:55.314Z"
     - **(B)** disposes of the property by sublease.
   - **(2)** Notwithstanding section 571(a) of this title , the Administrator may deposit rent received into the Federal Buildings Fund. The Administrator may defray from the fund any costs necessary to provide services to the Government’s lessee and to pay the rent (not otherwise provided for) on the lease of the space to the Government.
 - **(c)** Amounts made available to the General Services Administration for the payment of rent may be used to lease space, for a period of not more than 30 years, in buildings erected on land owned by the Government.
+- **(d)** Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2021 , pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.

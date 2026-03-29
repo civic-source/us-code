@@ -3,9 +3,9 @@ title: "Section 305 - Systematic agency review of operations"
 usc_title: 5
 usc_section: "305"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "5 U.S.C. § 305"
-generated_at: "2026-03-29T23:43:25.490Z"
+generated_at: "2026-03-29T23:49:47.579Z"
 ---
 
 # § 305. Systematic agency review of operations

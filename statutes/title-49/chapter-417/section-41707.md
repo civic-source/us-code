@@ -3,9 +3,9 @@ title: "Section 41707 - Incorporating contract terms into written instrument"
 usc_title: 49
 usc_section: "41707"
 chapter: 417
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 41707"
-generated_at: "2026-03-29T23:46:53.427Z"
+generated_at: "2026-03-29T23:53:40.249Z"
 ---
 
 # § 41707. Incorporating contract terms into written instrument

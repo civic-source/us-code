@@ -3,9 +3,9 @@ title: "Section 1981 - General authority"
 usc_title: 19
 usc_section: "1981"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "19 U.S.C. § 1981"
-generated_at: "2026-03-29T23:44:27.732Z"
+generated_at: "2026-03-29T23:51:13.759Z"
 ---
 
 # § 1981. General authority

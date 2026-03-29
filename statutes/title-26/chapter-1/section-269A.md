@@ -3,9 +3,9 @@ title: "Section 269A - Personal service corporations formed or availed of to avo
 usc_title: 26
 usc_section: "269A"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 269A"
-generated_at: "2026-03-29T23:45:28.878Z"
+generated_at: "2026-03-29T23:52:10.096Z"
 ---
 
 # § 269A. Personal service corporations formed or availed of to avoid or evade income tax

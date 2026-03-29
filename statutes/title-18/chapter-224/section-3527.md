@@ -3,9 +3,9 @@ title: "Section 3527 - Additional authority of Attorney General"
 usc_title: 18
 usc_section: "3527"
 chapter: 224
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "18 U.S.C. § 3527"
-generated_at: "2026-03-29T23:44:23.824Z"
+generated_at: "2026-03-29T23:51:08.410Z"
 ---
 
 # § 3527. Additional authority of Attorney General

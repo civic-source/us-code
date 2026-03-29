@@ -3,9 +3,9 @@ title: "Section 103 - Access to a choice of qualified prescription drug coverage
 usc_title: 42
 usc_section: "103"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 103"
-generated_at: "2026-03-29T23:46:25.283Z"
+generated_at: "2026-03-29T23:53:16.289Z"
 ---
 
 # § 1395w–103. Access to a choice of qualified prescription drug coverage

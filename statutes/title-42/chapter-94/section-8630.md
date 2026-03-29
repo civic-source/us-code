@@ -3,9 +3,9 @@ title: "Section 8630 - Renewable fuels"
 usc_title: 42
 usc_section: "8630"
 chapter: 94
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 8630"
-generated_at: "2026-03-29T23:46:25.589Z"
+generated_at: "2026-03-29T23:53:16.590Z"
 ---
 
 # § 8630. Renewable fuels

@@ -3,9 +3,9 @@ title: "Section 2212 - Transferred"
 usc_title: 42
 usc_section: "2212"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 2212"
-generated_at: "2026-03-29T23:46:25.427Z"
+generated_at: "2026-03-29T23:53:16.430Z"
 ---
 
 # § 2212. Transferred

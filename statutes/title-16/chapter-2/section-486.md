@@ -3,9 +3,9 @@ title: "Section 486 - Exchange of lands in national forests; reservations of tim
 usc_title: 16
 usc_section: "486"
 chapter: 2
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 486"
-generated_at: "2026-03-29T23:44:20.880Z"
+generated_at: "2026-03-29T23:51:16.147Z"
 ---
 
 # § 486. Exchange of lands in national forests; reservations of timber, minerals, or easements

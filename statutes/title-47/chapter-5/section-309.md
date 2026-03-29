@@ -3,9 +3,9 @@ title: "Section 309 - Application for license"
 usc_title: 47
 usc_section: "309"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "47 U.S.C. § 309"
-generated_at: "2026-03-29T23:46:50.132Z"
+generated_at: "2026-03-29T23:53:30.195Z"
 ---
 
 # § 309. Application for license
@@ -139,7 +139,7 @@ generated_at: "2026-03-29T23:46:50.132Z"
       - **(iii)** the Commission has failed to issue the regulations required by section 115(a) of such Act [ 47 U.S.C. 925(a) ];
       - **(iv)** the Commission has failed to complete and submit to Congress, not later than 18 months after August 10, 1993 , a study of current and future spectrum needs of State and local government public safety agencies through the year 2010, and a specific plan to ensure that adequate frequencies are made available to public safety licensees; or
       - **(v)** the Commission has failed under section 332(c)(3) of this title to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993 ;
-  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire December 16, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 , and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021 .
+  - **(11)** The authority of the Commission to grant a license or permit under this subsection shall expire December 23, 2022 , except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025 , and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021 .
   - **(12)**
   - **(13)**
     - **(A)** Notwithstanding paragraph (6)(G), the Commission shall not award licenses pursuant to a preferential treatment accorded by the Commission to persons who make significant contributions to the development of a new telecommunications service or technology, except in accordance with the requirements of this paragraph.

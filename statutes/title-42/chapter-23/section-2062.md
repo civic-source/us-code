@@ -3,9 +3,9 @@ title: "Section 2062 - Irradiation of materials"
 usc_title: 42
 usc_section: "2062"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 2062"
-generated_at: "2026-03-29T23:46:25.418Z"
+generated_at: "2026-03-29T23:53:16.421Z"
 ---
 
 # § 2062. Irradiation of materials

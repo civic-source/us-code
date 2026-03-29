@@ -3,9 +3,9 @@ title: "Section 1201 - Stay of action against codebtor"
 usc_title: 11
 usc_section: "1201"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "11 U.S.C. § 1201"
-generated_at: "2026-03-29T23:43:46.577Z"
+generated_at: "2026-03-29T23:50:51.111Z"
 ---
 
 # § 1201. Stay of action against codebtor

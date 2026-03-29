@@ -3,9 +3,9 @@ title: "Section 59l - Nonapplicability of prohibitions and provisions for review
 usc_title: 33
 usc_section: "59l"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "33 U.S.C. § 59l"
-generated_at: "2026-03-29T23:45:48.186Z"
+generated_at: "2026-03-29T23:52:21.908Z"
 ---
 
 # § 59l. Nonapplicability of prohibitions and provisions for review and approval concerning wharves and piers

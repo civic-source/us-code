@@ -3,9 +3,9 @@ title: "Section 695d - Development of water supplies for waterfowl management in
 usc_title: 16
 usc_section: "695d"
 chapter: 6
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 695d"
-generated_at: "2026-03-29T23:44:20.907Z"
+generated_at: "2026-03-29T23:51:16.173Z"
 ---
 
 # § 695d. Development of water supplies for waterfowl management in California; reauthorization of Central Valley Project

@@ -3,9 +3,9 @@ title: "Section 8412 - Aviation cadets: benefits"
 usc_title: 10
 usc_section: "8412"
 chapter: 851
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 8412"
-generated_at: "2026-03-29T23:43:41.836Z"
+generated_at: "2026-03-29T23:50:22.332Z"
 ---
 
 # § 8412. Aviation cadets: benefits

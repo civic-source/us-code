@@ -3,9 +3,9 @@ title: "Section 5611 - Release of distillery before judgment"
 usc_title: 26
 usc_section: "5611"
 chapter: 51
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 5611"
-generated_at: "2026-03-29T23:45:29.012Z"
+generated_at: "2026-03-29T23:52:10.234Z"
 ---
 
 # § 5611. Release of distillery before judgment

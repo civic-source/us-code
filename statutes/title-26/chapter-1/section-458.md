@@ -3,9 +3,9 @@ title: "Section 458 - Magazines, paperbacks, and records returned after the clos
 usc_title: 26
 usc_section: "458"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 458"
-generated_at: "2026-03-29T23:45:28.913Z"
+generated_at: "2026-03-29T23:52:10.132Z"
 ---
 
 # § 458. Magazines, paperbacks, and records returned after the close of the taxable year

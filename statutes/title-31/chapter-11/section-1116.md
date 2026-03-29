@@ -3,9 +3,9 @@ title: "Section 1116 - Agency performance reporting"
 usc_title: 31
 usc_section: "1116"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "31 U.S.C. § 1116"
-generated_at: "2026-03-29T23:45:40.451Z"
+generated_at: "2026-03-29T23:52:13.610Z"
 ---
 
 # § 1116. Agency performance reporting

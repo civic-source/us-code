@@ -3,9 +3,9 @@ title: "Section 554b - Medical care for employees engaged in hazardous work; not
 usc_title: 16
 usc_section: "554b"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 554b"
-generated_at: "2026-03-29T23:44:20.892Z"
+generated_at: "2026-03-29T23:51:16.158Z"
 ---
 
 # § 554b. Medical care for employees engaged in hazardous work; notification and transportation of employees

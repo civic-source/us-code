@@ -3,9 +3,9 @@ title: "Section 331 - Very high frequency stations and AM radio stations"
 usc_title: 47
 usc_section: "331"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "47 U.S.C. § 331"
-generated_at: "2026-03-29T23:46:50.134Z"
+generated_at: "2026-03-29T23:53:30.199Z"
 ---
 
 # § 331. Very high frequency stations and AM radio stations

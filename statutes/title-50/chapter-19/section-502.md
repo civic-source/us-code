@@ -3,9 +3,9 @@ title: "Section 502 - Acquisition of land"
 usc_title: 50
 usc_section: "502"
 chapter: 19
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "50 U.S.C. § 502"
-generated_at: "2026-03-29T23:46:37.285Z"
+generated_at: "2026-03-29T23:53:23.606Z"
 ---
 
 # § 502. Acquisition of land

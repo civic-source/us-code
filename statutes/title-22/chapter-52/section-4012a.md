@@ -3,9 +3,9 @@ title: "Section 4012a - Foreign national employees separation pay"
 usc_title: 22
 usc_section: "4012a"
 chapter: 52
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 4012a"
-generated_at: "2026-03-29T23:44:53.568Z"
+generated_at: "2026-03-29T23:51:29.508Z"
 ---
 
 # § 4012a. Foreign national employees separation pay

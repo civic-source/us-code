@@ -3,9 +3,9 @@ title: "Section 3119 - Cooperative agreements"
 usc_title: 16
 usc_section: "3119"
 chapter: 51
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 3119"
-generated_at: "2026-03-29T23:44:20.989Z"
+generated_at: "2026-03-29T23:51:16.250Z"
 ---
 
 # § 3119. Cooperative agreements

@@ -3,9 +3,9 @@ title: "Section 3504 - Incidental transfers"
 usc_title: 20
 usc_section: "3504"
 chapter: 48
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "20 U.S.C. § 3504"
-generated_at: "2026-03-29T23:44:18.236Z"
+generated_at: "2026-03-29T23:51:10.515Z"
 ---
 
 # § 3504. Incidental transfers

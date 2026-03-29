@@ -3,9 +3,9 @@ title: "Section 10107 - Army National Guard of the United States: status when no
 usc_title: 10
 usc_section: "10107"
 chapter: 1003
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 10107"
-generated_at: "2026-03-29T23:43:41.850Z"
+generated_at: "2026-03-29T23:50:22.347Z"
 ---
 
 # § 10107. Army National Guard of the United States: status when not in Federal service

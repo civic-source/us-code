@@ -3,9 +3,9 @@ title: "Section 1726c - Local and regional food aid procurement projects"
 usc_title: 7
 usc_section: "1726c"
 chapter: 41
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1726c"
-generated_at: "2026-03-29T23:43:33.842Z"
+generated_at: "2026-03-29T23:50:42.128Z"
 ---
 
 # § 1726c. Local and regional food aid procurement projects

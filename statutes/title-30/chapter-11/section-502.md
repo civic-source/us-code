@@ -3,9 +3,9 @@ title: "Section 502 - Reservation of minerals to the United States; rights of en
 usc_title: 30
 usc_section: "502"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "30 U.S.C. § 502"
-generated_at: "2026-03-29T23:45:01.670Z"
+generated_at: "2026-03-29T23:51:31.956Z"
 ---
 
 # § 502. Reservation of minerals to the United States; rights of entry, disposition and removal

@@ -3,9 +3,9 @@ title: "Section 305 - Duration of copyright: Terminal date"
 usc_title: 17
 usc_section: "305"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "17 U.S.C. § 305"
-generated_at: "2026-03-29T23:44:22.003Z"
+generated_at: "2026-03-29T23:51:06.543Z"
 ---
 
 # § 305. Duration of copyright: Terminal date

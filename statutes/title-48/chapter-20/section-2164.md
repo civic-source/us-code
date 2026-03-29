@@ -3,9 +3,9 @@ title: "Section 2164 - Petition and proceedings relating to petition"
 usc_title: 48
 usc_section: "2164"
 chapter: 20
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "48 U.S.C. § 2164"
-generated_at: "2026-03-29T23:46:28.757Z"
+generated_at: "2026-03-29T23:53:21.611Z"
 ---
 
 # § 2164. Petition and proceedings relating to petition

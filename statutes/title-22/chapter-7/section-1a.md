@@ -3,9 +3,9 @@ title: "Section 1a - Increase in capital stock of Bank"
 usc_title: 22
 usc_section: "1a"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 1a"
-generated_at: "2026-03-29T23:44:53.493Z"
+generated_at: "2026-03-29T23:51:29.433Z"
 ---
 
 # § 286e–1a. Increase in capital stock of Bank

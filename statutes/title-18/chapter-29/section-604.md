@@ -3,9 +3,9 @@ title: "Section 604 - Solicitation from persons on relief"
 usc_title: 18
 usc_section: "604"
 chapter: 29
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "18 U.S.C. § 604"
-generated_at: "2026-03-29T23:44:23.786Z"
+generated_at: "2026-03-29T23:51:08.368Z"
 ---
 
 # § 604. Solicitation from persons on relief

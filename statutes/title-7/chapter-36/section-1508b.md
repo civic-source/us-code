@@ -3,9 +3,9 @@ title: "Section 1508b - Stacked Income Protection Plan for producers of upland c
 usc_title: 7
 usc_section: "1508b"
 chapter: 36
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1508b"
-generated_at: "2026-03-29T23:43:33.830Z"
+generated_at: "2026-03-29T23:50:42.117Z"
 ---
 
 # § 1508b. Stacked Income Protection Plan for producers of upland cotton

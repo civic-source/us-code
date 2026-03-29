@@ -3,9 +3,9 @@ title: "Section 3 - Critical capital level"
 usc_title: 12
 usc_section: "3"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-29T23:44:04.380Z"
+generated_at: "2026-03-29T23:51:02.380Z"
 ---
 
 # § 2279bb–3. Critical capital level

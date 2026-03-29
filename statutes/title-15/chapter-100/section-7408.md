@@ -3,9 +3,9 @@ title: "Section 7408 - National Academy of Sciences study on computer and networ
 usc_title: 15
 usc_section: "7408"
 chapter: 100
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "15 U.S.C. § 7408"
-generated_at: "2026-03-29T23:43:51.349Z"
+generated_at: "2026-03-29T23:50:50.655Z"
 ---
 
 # § 7408. National Academy of Sciences study on computer and network security in critical infrastructures

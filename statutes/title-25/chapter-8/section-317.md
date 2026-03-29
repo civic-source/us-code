@@ -3,9 +3,9 @@ title: "Section 317 - Regulations"
 usc_title: 25
 usc_section: "317"
 chapter: 8
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 317"
-generated_at: "2026-03-29T23:44:34.205Z"
+generated_at: "2026-03-29T23:51:20.016Z"
 ---
 
 # § 317. Regulations

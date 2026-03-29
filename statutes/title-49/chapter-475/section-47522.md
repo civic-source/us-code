@@ -3,9 +3,9 @@ title: "Section 47522 - Definitions"
 usc_title: 49
 usc_section: "47522"
 chapter: 475
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 47522"
-generated_at: "2026-03-29T23:46:53.449Z"
+generated_at: "2026-03-29T23:53:40.274Z"
 ---
 
 # § 47522. Definitions

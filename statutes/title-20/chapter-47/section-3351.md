@@ -3,9 +3,9 @@ title: "Section 3351 - Omitted"
 usc_title: 20
 usc_section: "3351"
 chapter: 47
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "20 U.S.C. § 3351"
-generated_at: "2026-03-29T23:44:18.234Z"
+generated_at: "2026-03-29T23:51:10.512Z"
 ---
 
 # § 3351. Omitted

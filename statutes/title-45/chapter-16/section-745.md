@@ -3,9 +3,9 @@ title: "Section 745 - Continuing reorganization; supplemental transactions"
 usc_title: 45
 usc_section: "745"
 chapter: 16
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "45 U.S.C. § 745"
-generated_at: "2026-03-29T23:46:13.598Z"
+generated_at: "2026-03-29T23:52:52.333Z"
 ---
 
 # § 745. Continuing reorganization; supplemental transactions

@@ -3,9 +3,9 @@ title: "Section 9241b - Sanctions on foreign persons employing North Korean labo
 usc_title: 22
 usc_section: "9241b"
 chapter: 99
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 9241b"
-generated_at: "2026-03-29T23:44:53.627Z"
+generated_at: "2026-03-29T23:51:29.568Z"
 ---
 
 # § 9241b. Sanctions on foreign persons employing North Korean labor

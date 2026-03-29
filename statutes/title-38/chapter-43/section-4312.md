@@ -3,9 +3,9 @@ title: "Section 4312 - Reemployment rights of persons who serve in the uniformed
 usc_title: 38
 usc_section: "4312"
 chapter: 43
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 4312"
-generated_at: "2026-03-29T23:46:03.128Z"
+generated_at: "2026-03-29T23:52:41.970Z"
 ---
 
 # § 4312. Reemployment rights of persons who serve in the uniformed services

@@ -3,9 +3,9 @@ title: "Section 4104 - Information reporting for persons claiming certain tax be
 usc_title: 26
 usc_section: "4104"
 chapter: 32
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 4104"
-generated_at: "2026-03-29T23:45:28.991Z"
+generated_at: "2026-03-29T23:52:10.213Z"
 ---
 
 # § 4104. Information reporting for persons claiming certain tax benefits

@@ -3,9 +3,9 @@ title: "Section 8743 - Employment of aliens"
 usc_title: 10
 usc_section: "8743"
 chapter: 871
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 8743"
-generated_at: "2026-03-29T23:43:41.842Z"
+generated_at: "2026-03-29T23:50:22.337Z"
 ---
 
 # § 8743. Employment of aliens

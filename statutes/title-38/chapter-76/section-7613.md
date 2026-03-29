@@ -3,9 +3,9 @@ title: "Section 7613 - Scholarship"
 usc_title: 38
 usc_section: "7613"
 chapter: 76
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 7613"
-generated_at: "2026-03-29T23:46:03.144Z"
+generated_at: "2026-03-29T23:52:41.986Z"
 ---
 
 # § 7613. Scholarship

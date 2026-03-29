@@ -3,9 +3,9 @@ title: "Section 555a - Exchange of lands"
 usc_title: 16
 usc_section: "555a"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 555a"
-generated_at: "2026-03-29T23:44:20.892Z"
+generated_at: "2026-03-29T23:51:16.158Z"
 ---
 
 # § 555a. Exchange of lands

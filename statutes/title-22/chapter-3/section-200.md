@@ -3,9 +3,9 @@ title: "Section 200 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , e
 usc_title: 22
 usc_section: "200"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 200"
-generated_at: "2026-03-29T23:44:53.477Z"
+generated_at: "2026-03-29T23:51:29.420Z"
 ---
 
 # §§ 191 to 200. Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992 , eff. Sept. 1, 1948

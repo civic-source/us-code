@@ -3,9 +3,9 @@ title: "Section 408 - Copyright registration in general"
 usc_title: 17
 usc_section: "408"
 chapter: 4
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "17 U.S.C. § 408"
-generated_at: "2026-03-29T23:44:22.003Z"
+generated_at: "2026-03-29T23:51:06.543Z"
 ---
 
 # § 408. Copyright registration in general

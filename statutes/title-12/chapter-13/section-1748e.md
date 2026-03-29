@@ -3,9 +3,9 @@ title: "Section 1748e - Mortgages on property in Alaska"
 usc_title: 12
 usc_section: "1748e"
 chapter: 13
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "12 U.S.C. § 1748e"
-generated_at: "2026-03-29T23:44:04.336Z"
+generated_at: "2026-03-29T23:51:02.331Z"
 ---
 
 # § 1748e. Mortgages on property in Alaska

@@ -3,9 +3,9 @@ title: "Section 551 - Protection of subscriber privacy"
 usc_title: 47
 usc_section: "551"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "47 U.S.C. § 551"
-generated_at: "2026-03-29T23:46:50.145Z"
+generated_at: "2026-03-29T23:53:30.210Z"
 ---
 
 # § 551. Protection of subscriber privacy

@@ -3,9 +3,9 @@ title: "Section 6974 - Petition for regulations; public participation"
 usc_title: 42
 usc_section: "6974"
 chapter: 82
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 6974"
-generated_at: "2026-03-29T23:46:25.529Z"
+generated_at: "2026-03-29T23:53:16.532Z"
 ---
 
 # § 6974. Petition for regulations; public participation

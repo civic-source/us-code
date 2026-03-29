@@ -3,9 +3,9 @@ title: "Section 3146 - Transportation alternatives portion of study"
 usc_title: 16
 usc_section: "3146"
 chapter: 51
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 3146"
-generated_at: "2026-03-29T23:44:20.989Z"
+generated_at: "2026-03-29T23:51:16.250Z"
 ---
 
 # § 3146. Transportation alternatives portion of study

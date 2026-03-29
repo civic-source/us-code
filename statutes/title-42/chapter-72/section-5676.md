@@ -3,9 +3,9 @@ title: "Section 5676 - Transferred"
 usc_title: 42
 usc_section: "5676"
 chapter: 72
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 5676"
-generated_at: "2026-03-29T23:46:25.493Z"
+generated_at: "2026-03-29T23:53:16.497Z"
 ---
 
 # § 5676. Transferred

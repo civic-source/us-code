@@ -3,9 +3,9 @@ title: "Section 360m - Accredited persons"
 usc_title: 21
 usc_section: "360m"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "21 U.S.C. § 360m"
-generated_at: "2026-03-29T23:44:35.889Z"
+generated_at: "2026-03-29T23:51:22.713Z"
 ---
 
 # § 360m. Accredited persons
@@ -55,4 +55,4 @@ generated_at: "2026-03-29T23:44:35.889Z"
       - **(v)** protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
   - **(4)** The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
   - **(5)** Compensation for an accredited person shall be determined by agreement between the accredited person and the person who engages the services of the accredited person, and shall be paid by the person who engages such services.
-- **(c)** The authority provided by this section terminates December 17, 2022 .
+- **(c)** The authority provided by this section terminates December 24, 2022 .

@@ -3,9 +3,9 @@ title: "Section 7253 - Consolidation and reform of Federal milk marketing orders
 usc_title: 7
 usc_section: "7253"
 chapter: 100
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 7253"
-generated_at: "2026-03-29T23:43:33.925Z"
+generated_at: "2026-03-29T23:50:42.211Z"
 ---
 
 # § 7253. Consolidation and reform of Federal milk marketing orders

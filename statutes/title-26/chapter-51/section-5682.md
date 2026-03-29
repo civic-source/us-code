@@ -3,9 +3,9 @@ title: "Section 5682 - Penalty for breaking locks or gaining access"
 usc_title: 26
 usc_section: "5682"
 chapter: 51
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "26 U.S.C. § 5682"
-generated_at: "2026-03-29T23:45:29.013Z"
+generated_at: "2026-03-29T23:52:10.235Z"
 ---
 
 # § 5682. Penalty for breaking locks or gaining access

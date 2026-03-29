@@ -3,9 +3,9 @@ title: "Section 374 - Inspection"
 usc_title: 21
 usc_section: "374"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "21 U.S.C. § 374"
-generated_at: "2026-03-29T23:44:35.898Z"
+generated_at: "2026-03-29T23:51:22.722Z"
 ---
 
 # § 374. Inspection
@@ -103,7 +103,7 @@ generated_at: "2026-03-29T23:44:35.898Z"
       - **(i)** The term “base amount” means the inspection budget determined under subparagraph (B) for fiscal year 2002.
       - **(ii)** The term “adjusted base amount”, in the case of applicability to fiscal year 2003, means an amount equal to the base amount increased by 5 percent.
       - **(iii)** The term “adjusted base amount”, with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
-  - **(11)** The authority provided by this subsection terminates on December 17, 2022 .
+  - **(11)** The authority provided by this subsection terminates on December 24, 2022 .
   - **(12)** No later than four years after October 26, 2002 , the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
     - **(A)** the number of inspections conducted by accredited persons pursuant to this subsection and the number of inspections conducted by Federal employees pursuant to section 360(h) of this title and of device establishments required to register under section 360(i) of this title ;
     - **(B)** the number of persons who sought accreditation under this subsection, as well as the number of persons who were accredited under this subsection;

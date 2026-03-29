@@ -3,9 +3,9 @@ title: "Section 620b - Congressional intent; additional undesignated projects no
 usc_title: 43
 usc_section: "620b"
 chapter: 12
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "43 U.S.C. § 620b"
-generated_at: "2026-03-29T23:46:07.370Z"
+generated_at: "2026-03-29T23:52:56.353Z"
 ---
 
 # § 620b. Congressional intent; additional undesignated projects not precluded; construction not authorized within national park or monument

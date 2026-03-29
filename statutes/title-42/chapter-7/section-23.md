@@ -3,9 +3,9 @@ title: "Section 23 - Payments to Medicare+Choice organizations"
 usc_title: 42
 usc_section: "23"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-29T23:46:25.277Z"
+generated_at: "2026-03-29T23:53:16.282Z"
 ---
 
 # § 1395w–23. Payments to Medicare+Choice organizations

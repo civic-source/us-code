@@ -3,9 +3,9 @@ title: "Section 364d - Promulgation of decisions; furnishing information"
 usc_title: 43
 usc_section: "364d"
 chapter: 11
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "43 U.S.C. § 364d"
-generated_at: "2026-03-29T23:46:07.357Z"
+generated_at: "2026-03-29T23:52:56.338Z"
 ---
 
 # § 364d. Promulgation of decisions; furnishing information

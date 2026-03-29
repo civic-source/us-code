@@ -3,9 +3,9 @@ title: "Section 1101 - Findings; purpose; and program authority"
 usc_title: 20
 usc_section: "1101"
 chapter: 28
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "20 U.S.C. § 1101"
-generated_at: "2026-03-29T23:44:18.203Z"
+generated_at: "2026-03-29T23:51:10.479Z"
 ---
 
 # § 1101. Findings; purpose; and program authority

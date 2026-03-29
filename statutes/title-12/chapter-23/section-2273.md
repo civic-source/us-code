@@ -3,9 +3,9 @@ title: "Section 2273 - Ancillary provisions; subpena power; etc."
 usc_title: 12
 usc_section: "2273"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "12 U.S.C. § 2273"
-generated_at: "2026-03-29T23:44:04.375Z"
+generated_at: "2026-03-29T23:51:02.374Z"
 ---
 
 # § 2273. Ancillary provisions; subpena power; etc.

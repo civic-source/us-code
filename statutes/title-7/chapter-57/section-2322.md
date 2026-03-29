@@ -3,9 +3,9 @@ title: "Section 2322 - Seal"
 usc_title: 7
 usc_section: "2322"
 chapter: 57
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 2322"
-generated_at: "2026-03-29T23:43:33.879Z"
+generated_at: "2026-03-29T23:50:42.166Z"
 ---
 
 # § 2322. Seal

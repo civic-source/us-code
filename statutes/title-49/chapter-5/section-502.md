@@ -3,9 +3,9 @@ title: "Section 502 - General authority"
 usc_title: 49
 usc_section: "502"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "49 U.S.C. § 502"
-generated_at: "2026-03-29T23:46:53.370Z"
+generated_at: "2026-03-29T23:53:40.183Z"
 ---
 
 # § 502. General authority

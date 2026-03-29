@@ -3,9 +3,9 @@ title: "Section 6543 - Watershed Condition Framework"
 usc_title: 16
 usc_section: "6543"
 chapter: 84
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 6543"
-generated_at: "2026-03-29T23:44:21.022Z"
+generated_at: "2026-03-29T23:51:16.281Z"
 ---
 
 # § 6543. Watershed Condition Framework

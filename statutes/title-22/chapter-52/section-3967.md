@@ -3,9 +3,9 @@ title: "Section 3967 - Salaries for Foreign Service personnel abroad who perform
 usc_title: 22
 usc_section: "3967"
 chapter: 52
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 3967"
-generated_at: "2026-03-29T23:44:53.567Z"
+generated_at: "2026-03-29T23:51:29.507Z"
 ---
 
 # § 3967. Salaries for Foreign Service personnel abroad who perform routine duties

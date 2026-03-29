@@ -3,9 +3,9 @@ title: "Section 2278 - Notification of foreign interference of national security
 usc_title: 10
 usc_section: "2278"
 chapter: 135
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "10 U.S.C. § 2278"
-generated_at: "2026-03-29T23:43:41.786Z"
+generated_at: "2026-03-29T23:50:22.280Z"
 ---
 
 # § 2278. Notification of foreign interference of national security space

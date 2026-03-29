@@ -3,9 +3,9 @@ title: "Section 3966 - Within-class salary increases"
 usc_title: 22
 usc_section: "3966"
 chapter: 52
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 3966"
-generated_at: "2026-03-29T23:44:53.567Z"
+generated_at: "2026-03-29T23:51:29.507Z"
 ---
 
 # § 3966. Within-class salary increases

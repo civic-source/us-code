@@ -3,9 +3,9 @@ title: "Section 981 - Indemnity to States on sale of lands"
 usc_title: 43
 usc_section: "981"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "43 U.S.C. § 981"
-generated_at: "2026-03-29T23:46:07.376Z"
+generated_at: "2026-03-29T23:52:56.360Z"
 ---
 
 # § 981. Indemnity to States on sale of lands

@@ -3,9 +3,9 @@ title: "Section 1302a - Bureau of Prisons tribal prisoner program"
 usc_title: 25
 usc_section: "1302a"
 chapter: 15
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 1302a"
-generated_at: "2026-03-29T23:44:34.214Z"
+generated_at: "2026-03-29T23:51:20.026Z"
 ---
 
 # § 1302a. Bureau of Prisons tribal prisoner program

@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-29T23:43:51.215Z"
+generated_at: "2026-03-29T23:50:50.528Z"
 ---
 
 # § 632. Definitions
@@ -115,7 +115,7 @@ generated_at: "2026-03-29T23:43:51.215Z"
   - **(4)** The term “micro-purchase threshold” has the meaning given such term in section 1902 of title 41 .
   - **(5)** The term “total purchases and contracts for property and services” shall mean total number and total dollar amount of contracts and orders for property and services.
 - **(n)** For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
-  - **(1)** at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+  - **(1)** at least 51 percent of small 3 3 So in original. Probably should be preceded by “the”. business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
   - **(2)** the management and daily business operations of the business are controlled by one or more women.
 - **(o)** In this chapter:
   - **(1)** The term “bundled contract” means a contract that is entered into to meet requirements that are consolidated in a bundling of contract requirements.

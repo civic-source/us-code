@@ -3,9 +3,9 @@ title: "Section 301a - Incentive pay: aviation career"
 usc_title: 37
 usc_section: "301a"
 chapter: 5
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "37 U.S.C. § 301a"
-generated_at: "2026-03-29T23:45:53.339Z"
+generated_at: "2026-03-29T23:52:49.844Z"
 ---
 
 # § 301a. Incentive pay: aviation career

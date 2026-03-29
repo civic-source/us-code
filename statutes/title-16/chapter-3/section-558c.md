@@ -3,9 +3,9 @@ title: "Section 558c - Employment status of volunteers"
 usc_title: 16
 usc_section: "558c"
 chapter: 3
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 558c"
-generated_at: "2026-03-29T23:44:20.892Z"
+generated_at: "2026-03-29T23:51:16.159Z"
 ---
 
 # § 558c. Employment status of volunteers

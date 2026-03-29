@@ -3,9 +3,9 @@ title: "Section 18952 - Standards development organization grants"
 usc_title: 42
 usc_section: "18952"
 chapter: 163
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 18952"
-generated_at: "2026-03-29T23:46:25.750Z"
+generated_at: "2026-03-29T23:53:16.756Z"
 ---
 
 # § 18952. Standards development organization grants

@@ -3,9 +3,9 @@ title: "Section 777 - Annuity increases"
 usc_title: 31
 usc_section: "777"
 chapter: 7
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "31 U.S.C. § 777"
-generated_at: "2026-03-29T23:45:40.449Z"
+generated_at: "2026-03-29T23:52:13.609Z"
 ---
 
 # § 777. Annuity increases

@@ -3,9 +3,9 @@ title: "Section 404n - Transferred"
 usc_title: 50
 usc_section: "404n"
 chapter: 15
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "50 U.S.C. § 404n"
-generated_at: "2026-03-29T23:46:37.285Z"
+generated_at: "2026-03-29T23:53:23.606Z"
 ---
 
 # § 404n. Transferred

@@ -3,9 +3,9 @@ title: "Section 10821 - Applications"
 usc_title: 42
 usc_section: "10821"
 chapter: 114
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "42 U.S.C. § 10821"
-generated_at: "2026-03-29T23:46:25.630Z"
+generated_at: "2026-03-29T23:53:16.629Z"
 ---
 
 # § 10821. Applications

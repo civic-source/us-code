@@ -3,15 +3,15 @@ title: "Section 15b - Cotton futures contracts"
 usc_title: 7
 usc_section: "15b"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 15b"
-generated_at: "2026-03-29T23:43:33.775Z"
+generated_at: "2026-03-29T23:50:42.058Z"
 ---
 
 # § 15b. Cotton futures contracts
 
 - **(a)** This section may be cited as the “United States Cotton Futures Act”.
-- **(b)** Subchapter D of chapter 39 of title 26 (relating to tax on cotton futures) is repealed.
+- **(b)**
 - **(c)** For purposes of this section—
   - **(1)** The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [ 7 U.S.C. 1 et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that—
     - **(A)** any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section; and

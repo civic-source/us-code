@@ -3,9 +3,9 @@ title: "Section 1629 - Inspections and preclearance in foreign countries"
 usc_title: 19
 usc_section: "1629"
 chapter: 4
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "19 U.S.C. § 1629"
-generated_at: "2026-03-29T23:44:27.721Z"
+generated_at: "2026-03-29T23:51:13.747Z"
 ---
 
 # § 1629. Inspections and preclearance in foreign countries

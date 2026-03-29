@@ -3,9 +3,9 @@ title: "Section 354 - Lands not liable for debts prior to final patent"
 usc_title: 25
 usc_section: "354"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 354"
-generated_at: "2026-03-29T23:44:34.206Z"
+generated_at: "2026-03-29T23:51:20.017Z"
 ---
 
 # § 354. Lands not liable for debts prior to final patent

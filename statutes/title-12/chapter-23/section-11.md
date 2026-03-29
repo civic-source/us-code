@@ -3,9 +3,9 @@ title: "Section 11 - Supervision, examination, and report of condition"
 usc_title: 12
 usc_section: "11"
 chapter: 23
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "12 U.S.C. § 11"
-generated_at: "2026-03-29T23:44:04.380Z"
+generated_at: "2026-03-29T23:51:02.379Z"
 ---
 
 # § 2279aa–11. Supervision, examination, and report of condition

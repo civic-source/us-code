@@ -3,9 +3,9 @@ title: "Section 1728 - Findings regarding emergency food assistance"
 usc_title: 7
 usc_section: "1728"
 chapter: 41
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "7 U.S.C. § 1728"
-generated_at: "2026-03-29T23:43:33.843Z"
+generated_at: "2026-03-29T23:50:42.129Z"
 ---
 
 # § 1728. Findings regarding emergency food assistance

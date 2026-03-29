@@ -3,9 +3,9 @@ title: "Section 665c - Cybersecurity State Coordinator"
 usc_title: 6
 usc_section: "665c"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "6 U.S.C. § 665c"
-generated_at: "2026-03-29T23:43:29.847Z"
+generated_at: "2026-03-29T23:50:11.205Z"
 ---
 
 # § 665c. Cybersecurity State Coordinator

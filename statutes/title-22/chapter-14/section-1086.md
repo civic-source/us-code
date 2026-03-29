@@ -3,9 +3,9 @@ title: "Section 1086 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1086"
 chapter: 14
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 1086"
-generated_at: "2026-03-29T23:44:53.505Z"
+generated_at: "2026-03-29T23:51:29.444Z"
 ---
 
 # § 1086. Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17, 1980 , 94 Stat. 2159

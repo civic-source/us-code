@@ -3,9 +3,9 @@ title: "Section 5826 - Policy on combatting tied aid practices"
 usc_title: 22
 usc_section: "5826"
 chapter: 67
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "22 U.S.C. § 5826"
-generated_at: "2026-03-29T23:44:53.587Z"
+generated_at: "2026-03-29T23:51:29.527Z"
 ---
 
 # § 5826. Policy on combatting tied aid practices

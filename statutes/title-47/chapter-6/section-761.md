@@ -3,9 +3,9 @@ title: "Section 761 - Federal Communications Commission licensing"
 usc_title: 47
 usc_section: "761"
 chapter: 6
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "47 U.S.C. § 761"
-generated_at: "2026-03-29T23:46:50.149Z"
+generated_at: "2026-03-29T23:53:30.214Z"
 ---
 
 # § 761. Federal Communications Commission licensing

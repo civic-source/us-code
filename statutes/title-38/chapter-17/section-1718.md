@@ -3,9 +3,9 @@ title: "Section 1718 - Therapeutic and rehabilitative activities"
 usc_title: 38
 usc_section: "1718"
 chapter: 17
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 1718"
-generated_at: "2026-03-29T23:46:03.096Z"
+generated_at: "2026-03-29T23:52:41.940Z"
 ---
 
 # § 1718. Therapeutic and rehabilitative activities

@@ -3,9 +3,9 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-29T23:43:29.846Z"
+generated_at: "2026-03-29T23:50:11.203Z"
 ---
 
 # § 659. National cybersecurity and communications integration center

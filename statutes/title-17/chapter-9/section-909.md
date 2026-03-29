@@ -3,9 +3,9 @@ title: "Section 909 - Mask work notice"
 usc_title: 17
 usc_section: "909"
 chapter: 9
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "17 U.S.C. § 909"
-generated_at: "2026-03-29T23:44:22.005Z"
+generated_at: "2026-03-29T23:51:06.546Z"
 ---
 
 # § 909. Mask work notice

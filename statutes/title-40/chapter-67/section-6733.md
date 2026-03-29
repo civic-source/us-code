@@ -3,9 +3,9 @@ title: "Section 6733 - Federal Triangle property"
 usc_title: 40
 usc_section: "6733"
 chapter: 67
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "40 U.S.C. § 6733"
-generated_at: "2026-03-29T23:45:55.321Z"
+generated_at: "2026-03-29T23:52:43.277Z"
 ---
 
 # § 6733. Federal Triangle property

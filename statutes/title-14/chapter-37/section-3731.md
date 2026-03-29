@@ -3,9 +3,9 @@ title: "Section 3731 - Definitions"
 usc_title: 14
 usc_section: "3731"
 chapter: 37
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "14 U.S.C. § 3731"
-generated_at: "2026-03-29T23:44:05.284Z"
+generated_at: "2026-03-29T23:51:04.219Z"
 ---
 
 # § 3731. Definitions

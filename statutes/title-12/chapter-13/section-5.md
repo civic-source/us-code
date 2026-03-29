@@ -3,9 +3,9 @@ title: "Section 5 - Definitions"
 usc_title: 12
 usc_section: "5"
 chapter: 13
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-03-29T23:44:04.336Z"
+generated_at: "2026-03-29T23:51:02.332Z"
 ---
 
 # § 1749aaa–5. Definitions

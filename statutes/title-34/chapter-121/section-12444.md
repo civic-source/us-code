@@ -3,9 +3,9 @@ title: "Section 12444 - Grant conditions"
 usc_title: 34
 usc_section: "12444"
 chapter: 121
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "34 U.S.C. § 12444"
-generated_at: "2026-03-29T23:45:32.717Z"
+generated_at: "2026-03-29T23:52:36.817Z"
 ---
 
 # § 12444. Grant conditions

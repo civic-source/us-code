@@ -3,9 +3,9 @@ title: "Section 1311 - Benefit of earlier filing date in foreign country"
 usc_title: 17
 usc_section: "1311"
 chapter: 13
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "17 U.S.C. § 1311"
-generated_at: "2026-03-29T23:44:22.007Z"
+generated_at: "2026-03-29T23:51:06.548Z"
 ---
 
 # § 1311. Benefit of earlier filing date in foreign country

@@ -3,9 +3,9 @@ title: "Section 3a - Contracts to provide visitor reservation services"
 usc_title: 16
 usc_section: "3a"
 chapter: 1
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "16 U.S.C. § 3a"
-generated_at: "2026-03-29T23:44:20.847Z"
+generated_at: "2026-03-29T23:51:16.116Z"
 ---
 
 # § 460d–3a. Contracts to provide visitor reservation services

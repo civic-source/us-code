@@ -3,9 +3,9 @@ title: "Section 201 - Definitions"
 usc_title: 35
 usc_section: "201"
 chapter: 18
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "35 U.S.C. § 201"
-generated_at: "2026-03-29T23:45:31.109Z"
+generated_at: "2026-03-29T23:52:26.126Z"
 ---
 
 # § 201. Definitions

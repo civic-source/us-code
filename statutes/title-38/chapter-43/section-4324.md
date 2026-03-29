@@ -3,9 +3,9 @@ title: "Section 4324 - Enforcement of rights with respect to Federal executive a
 usc_title: 38
 usc_section: "4324"
 chapter: 43
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "38 U.S.C. § 4324"
-generated_at: "2026-03-29T23:46:03.129Z"
+generated_at: "2026-03-29T23:52:41.971Z"
 ---
 
 # § 4324. Enforcement of rights with respect to Federal executive agencies

@@ -1,12 +1,12 @@
 ---
-title: "Section 565f - Omitted"
+title: "Section 565f - Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393"
 usc_title: 25
 usc_section: "565f"
 chapter: 14
-current_through: "PL 117-228"
+current_through: "PL 117-262"
 classification: "25 U.S.C. § 565f"
-generated_at: "2026-03-29T23:44:34.211Z"
+generated_at: "2026-03-29T23:51:20.022Z"
 ---
 
-# § 565f. Omitted
+# § 565f. Repealed. Pub. L. 117–261, § 2 , Dec. 21, 2022 , 136 Stat. 2393
 
