@@ -3,9 +3,9 @@ title: "Section 2441 - War crimes"
 usc_title: 18
 usc_section: "2441"
 chapter: 118
-current_through: "PL 117-81"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 2441"
-generated_at: "2026-03-29T17:54:16.450Z"
+generated_at: "2026-03-29T17:54:21.356Z"
 ---
 
 # § 2441. War crimes

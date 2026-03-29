@@ -3,9 +3,9 @@ title: "Section 1651 - Piracy under law of nations"
 usc_title: 18
 usc_section: "1651"
 chapter: 81
-current_through: "PL 117-81"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 1651"
-generated_at: "2026-03-29T17:54:16.410Z"
+generated_at: "2026-03-29T17:54:21.325Z"
 ---
 
 # § 1651. Piracy under law of nations

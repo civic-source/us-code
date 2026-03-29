@@ -3,9 +3,9 @@ title: "Section 934 - Forfeiture and fines"
 usc_title: 18
 usc_section: "934"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 934"
-generated_at: "2026-03-29T02:12:02.393Z"
+generated_at: "2026-03-29T17:54:21.302Z"
 ---
 
 # § 934. Forfeiture and fines

@@ -3,14 +3,14 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 117-81"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-29T17:54:16.459Z"
+generated_at: "2026-03-29T17:54:21.363Z"
 ---
 
 # § 3014. Additional special assessment
 
-- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on February 18, 2022 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
+- **(a)** Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on December 16, 2022 , in addition to the assessment imposed under section 3013, the court shall assess an amount of $5,000 on any non-indigent person or entity convicted of an offense under—
   - **(1)** chapter 77 (relating to peonage, slavery, and trafficking in persons);
   - **(2)** chapter 109A (relating to sexual abuse);
   - **(3)** chapter 110 (relating to sexual exploitation and other abuse of children);
@@ -35,4 +35,4 @@ generated_at: "2026-03-29T17:54:16.459Z"
     - **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7105 ); and
     - **(C)** section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 1
   - **(3)** Of the amounts in the Fund used under paragraph (1), not less than $2,000,000, if such amounts are available in the Fund during the relevant fiscal year, shall be used for grants to provide services for child pornography victims and child victims of a severe form of trafficking (as defined in section 103 of the Victims of Trafficking and Violence Protection Act of 2000 ( 22 U.S.C. 7102 )) under section 214(b) of the Victims of Child Abuse Act of 1990 ( 42 U.S.C. 13002(b) ). 1
-  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,, 2 2 So in original. section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021.12\ shall continue to apply to the amounts transferred pursuant to paragraph (1).
+  - **(4)** The application of the provisions of section 221(c) of the Medicare Access and CHIP Reauthorization Act of 2015, section 50901(e) of the Advancing Chronic Care, Extenders, and Social Services Act, section 3831 of the CARES Act, section 2101 of the Continuing Appropriations Act, 2021 and Other Extensions Act,, 2 2 So in original. section 1201(d) of the Further Continuing Appropriations Act, 2021, and Other Extensions Act, and section 301(d) of division BB of the Consolidated Appropriations Act, 2021. 2 shall continue to apply to the amounts transferred pursuant to paragraph (1).

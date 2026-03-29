@@ -3,9 +3,9 @@ title: "Section 2282A - Devices or dangerous substances in waters of the United 
 usc_title: 18
 usc_section: "2282A"
 chapter: 111
-current_through: "PL 117-81"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 2282A"
-generated_at: "2026-03-29T17:54:16.438Z"
+generated_at: "2026-03-29T17:54:21.346Z"
 ---
 
 # § 2282A. 1 1 So in original. No section 2282 has been enacted. Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce

@@ -3,9 +3,9 @@ title: "Section 3557 - Review of a sentence"
 usc_title: 18
 usc_section: "3557"
 chapter: 227
-current_through: "PL 117-81"
+current_through: "PL 117-200"
 classification: "18 U.S.C. § 3557"
-generated_at: "2026-03-29T17:54:16.478Z"
+generated_at: "2026-03-29T17:54:21.381Z"
 ---
 
 # § 3557. Review of a sentence
