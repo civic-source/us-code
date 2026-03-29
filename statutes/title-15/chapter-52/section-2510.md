@@ -5,12 +5,12 @@ usc_section: "2510"
 chapter: 52
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2510"
-generated_at: "2026-03-29T00:29:41.784Z"
+generated_at: "2026-03-29T02:11:34.287Z"
 ---
 
 # § 2510. Use of electric and hybrid vehicles by Federal agencies
 
 The Postmaster General of the United States Postal Service, the Administrator of the General Services Administration, the Secretary of Defense, and the heads of other Federal agencies shall—
 
-  (1) carry out a study of the practicability of using electric and hybrid vehicles in the performance of some or all of the functions of their agencies; and
-  (2) arrange for the introduction of electric and hybrid vehicles into their fleets as soon as possible.
+  - **(1)** carry out a study of the practicability of using electric and hybrid vehicles in the performance of some or all of the functions of their agencies; and
+  - **(2)** arrange for the introduction of electric and hybrid vehicles into their fleets as soon as possible.

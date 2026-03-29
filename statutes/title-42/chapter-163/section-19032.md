@@ -5,7 +5,7 @@ usc_section: "19032"
 chapter: 163
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19032"
-generated_at: "2026-03-29T00:32:54.507Z"
+generated_at: "2026-03-29T02:15:37.480Z"
 ---
 
 # § 19032. Chief of Research Security

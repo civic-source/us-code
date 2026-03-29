@@ -5,15 +5,15 @@ usc_section: "3605"
 chapter: 45
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3605"
-generated_at: "2026-03-29T00:32:53.843Z"
+generated_at: "2026-03-29T02:15:36.675Z"
 ---
 
 # § 3605. Discrimination in residential real estate-related transactions
 
-(a) It shall be unlawful for any person or other entity whose business includes engaging in residential real estate-related transactions to discriminate against any person in making available such a transaction, or in the terms or conditions of such a transaction, because of race, color, religion, sex, handicap, familial status, or national origin.
-(b) As used in this section, the term “residential real estate-related transaction” means any of the following:
-  (1) The making or purchasing of loans or providing other financial assistance—
-    (A) for purchasing, constructing, improving, repairing, or maintaining a dwelling; or
-    (B) secured by residential real estate.
-  (2) The selling, brokering, or appraising of residential real property.
-(c) Nothing in this subchapter prohibits a person engaged in the business of furnishing appraisals of real property to take into consideration factors other than race, color, religion, national origin, sex, handicap, or familial status.
+- **(a)** It shall be unlawful for any person or other entity whose business includes engaging in residential real estate-related transactions to discriminate against any person in making available such a transaction, or in the terms or conditions of such a transaction, because of race, color, religion, sex, handicap, familial status, or national origin.
+- **(b)** As used in this section, the term “residential real estate-related transaction” means any of the following:
+  - **(1)** The making or purchasing of loans or providing other financial assistance—
+    - **(A)** for purchasing, constructing, improving, repairing, or maintaining a dwelling; or
+    - **(B)** secured by residential real estate.
+  - **(2)** The selling, brokering, or appraising of residential real property.
+- **(c)** Nothing in this subchapter prohibits a person engaged in the business of furnishing appraisals of real property to take into consideration factors other than race, color, religion, national origin, sex, handicap, or familial status.

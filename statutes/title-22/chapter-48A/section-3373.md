@@ -5,21 +5,21 @@ usc_section: "3373"
 chapter: 48
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3373"
-generated_at: "2026-03-29T00:30:33.879Z"
+generated_at: "2026-03-29T02:12:40.287Z"
 ---
 
 # § 3373. Meaningful participation of Taiwan in the International Civil Aviation Organization
 
-(a) It is the sense of Congress that—
-  (1) the International Civil Aviation Organization (ICAO) should allow Taiwan to meaningfully participate in the organization, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms;
-  (2) Taiwan is a global leader and hub for international aviation, with a range of expertise, information, and resources and the fifth busiest airport in Asia (Taoyuan International Airport), and its meaningful participation in ICAO would significantly enhance the ability of ICAO to ensure the safety and security of global aviation; and
-  (3) coercion by the Chinese Communist Party and the People’s Republic of China has ensured the systematic exclusion of Taiwan from meaningful participation in ICAO, significantly undermining the ability of ICAO to ensure the safety and security of global aviation.
-(b) The Secretary of State, in coordination with the Secretary of Commerce and the Secretary of Transportation, is authorized—
-  (1) to initiate a United States plan to secure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
-  (2) to instruct the United States representative to the ICAO to—
-    (A) use the voice and vote of the United States to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
-    (B) seek to secure a vote at the next ICAO triennial assembly session on the question of Taiwan’s participation in that session.
-(c) Not later than 90 days after December 23, 2022 , and not later than April 1 of each year thereafter for the following 6 years, the Secretary of State, in coordination with the Secretary of Commerce, shall submit to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Foreign Affairs, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives an unclassified report that—
-  (1) describes the United States plan to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms;
-  (2) includes an account of the efforts made by the Secretary of State and the Secretary of Commerce to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
-  (3) identifies the steps the Secretary of State and the Secretary of Commerce will take in the next year to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms.
+- **(a)** It is the sense of Congress that—
+  - **(1)** the International Civil Aviation Organization (ICAO) should allow Taiwan to meaningfully participate in the organization, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms;
+  - **(2)** Taiwan is a global leader and hub for international aviation, with a range of expertise, information, and resources and the fifth busiest airport in Asia (Taoyuan International Airport), and its meaningful participation in ICAO would significantly enhance the ability of ICAO to ensure the safety and security of global aviation; and
+  - **(3)** coercion by the Chinese Communist Party and the People’s Republic of China has ensured the systematic exclusion of Taiwan from meaningful participation in ICAO, significantly undermining the ability of ICAO to ensure the safety and security of global aviation.
+- **(b)** The Secretary of State, in coordination with the Secretary of Commerce and the Secretary of Transportation, is authorized—
+  - **(1)** to initiate a United States plan to secure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
+  - **(2)** to instruct the United States representative to the ICAO to—
+    - **(A)** use the voice and vote of the United States to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
+    - **(B)** seek to secure a vote at the next ICAO triennial assembly session on the question of Taiwan’s participation in that session.
+- **(c)** Not later than 90 days after December 23, 2022 , and not later than April 1 of each year thereafter for the following 6 years, the Secretary of State, in coordination with the Secretary of Commerce, shall submit to the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Foreign Affairs, the Committee on Transportation and Infrastructure, and the Committee on Energy and Commerce of the House of Representatives an unclassified report that—
+  - **(1)** describes the United States plan to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms;
+  - **(2)** includes an account of the efforts made by the Secretary of State and the Secretary of Commerce to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms; and
+  - **(3)** identifies the steps the Secretary of State and the Secretary of Commerce will take in the next year to ensure Taiwan’s meaningful participation in ICAO, including in ICAO triennial assembly sessions, conferences, technical working groups, meetings, activities, and mechanisms.

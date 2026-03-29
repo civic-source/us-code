@@ -5,7 +5,7 @@ usc_section: "17a"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 17a"
-generated_at: "2026-03-29T00:29:52.278Z"
+generated_at: "2026-03-29T02:11:53.323Z"
 ---
 
 # § 17a. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 647

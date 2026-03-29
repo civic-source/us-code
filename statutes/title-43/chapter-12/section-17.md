@@ -5,11 +5,11 @@ usc_section: "17"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 17"
-generated_at: "2026-03-29T00:32:57.331Z"
+generated_at: "2026-03-29T02:15:47.530Z"
 ---
 
 # § 390h–17. Lakehaven, Washington, Water Reclamation and Reuse Project
 
-(a) The Secretary, in cooperation with the Lakehaven Utility District, Washington, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the Lakehaven Utility District.
-(b) The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
-(c) The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+- **(a)** The Secretary, in cooperation with the Lakehaven Utility District, Washington, is authorized to participate in the design, planning, and construction of, and land acquisition for, a project to reclaim and reuse wastewater, including degraded groundwaters, within and outside of the service area of the Lakehaven Utility District.
+- **(b)** The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+- **(c)** The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.

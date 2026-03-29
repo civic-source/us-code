@@ -5,7 +5,7 @@ usc_section: "1744"
 chapter: 87
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1744"
-generated_at: "2026-03-29T00:20:53.005Z"
+generated_at: "2026-03-29T02:10:45.046Z"
 ---
 
 # [§ 1744. Repealed. Pub. L. 108–136, div. A, title VIII, § 834(b) , Nov. 24, 2003 , 117 Stat. 1551 ]

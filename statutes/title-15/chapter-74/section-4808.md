@@ -5,7 +5,7 @@ usc_section: "4808"
 chapter: 74
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4808"
-generated_at: "2026-03-29T00:29:41.872Z"
+generated_at: "2026-03-29T02:11:34.376Z"
 ---
 
 # § 4808. Authorization of appropriations

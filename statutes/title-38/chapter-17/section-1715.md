@@ -5,7 +5,7 @@ usc_section: "1715"
 chapter: 17
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1715"
-generated_at: "2026-03-29T00:32:17.195Z"
+generated_at: "2026-03-29T02:14:50.361Z"
 ---
 
 # § 1715. Tobacco for hospitalized veterans

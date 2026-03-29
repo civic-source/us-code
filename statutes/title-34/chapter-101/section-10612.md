@@ -5,12 +5,12 @@ usc_section: "10612"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10612"
-generated_at: "2026-03-29T00:32:01.578Z"
+generated_at: "2026-03-29T02:14:25.284Z"
 ---
 
 # § 10612. Prohibition of participation by violent offenders
 
 The Attorney General shall—
 
-  (1) issue regulations or guidelines to ensure that the programs authorized in this subchapter do not permit participation by violent offenders; and
-  (2) immediately suspend funding for any grant under this subchapter, pending compliance, if the Attorney General finds that violent offenders are participating in any program funded under this subchapter.
+  - **(1)** issue regulations or guidelines to ensure that the programs authorized in this subchapter do not permit participation by violent offenders; and
+  - **(2)** immediately suspend funding for any grant under this subchapter, pending compliance, if the Attorney General finds that violent offenders are participating in any program funded under this subchapter.

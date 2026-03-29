@@ -5,7 +5,7 @@ usc_section: "1548"
 chapter: 40
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1548"
-generated_at: "2026-03-29T00:29:41.704Z"
+generated_at: "2026-03-29T02:11:34.181Z"
 ---
 
 # § 1548. Authorization of appropriations

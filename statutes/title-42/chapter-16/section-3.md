@@ -5,11 +5,11 @@ usc_section: "3"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-29T00:32:53.703Z"
+generated_at: "2026-03-29T02:15:36.537Z"
 ---
 
 # § 1862s–3. Personnel oversight
 
-(a) The Director of the Foundation shall update the policy and procedure of the Foundation relating to conflicts of interest to improve documentation and management of any known conflict of interest of an individual on temporary assignment at the Foundation, including an individual on assignment under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.).
-(b) The Deputy Director of the Foundation shall submit annually to the appropriate committees of Congress written justification for each rotator employed under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.), or other rotator employed, by the Foundation that year that is paid at a rate that exceeds the maximum rate of pay for the Senior Executive Service, including, if applicable, the level of adjustment for the certified Senior Executive Service Performance Appraisal System.
-(c) Not later than 1 year after January 6, 2017 , the Director of the Foundation shall submit to the appropriate committees of Congress a report on the Foundation’s efforts to control costs associated with employing rotators, including the results of and participation in the Foundation’s cost-sharing pilot program and the Foundation’s progress in responding to the findings and implementing the recommendations of the Office of Inspector General of the Foundation related to the employment of rotators.
+- **(a)** The Director of the Foundation shall update the policy and procedure of the Foundation relating to conflicts of interest to improve documentation and management of any known conflict of interest of an individual on temporary assignment at the Foundation, including an individual on assignment under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.).
+- **(b)** The Deputy Director of the Foundation shall submit annually to the appropriate committees of Congress written justification for each rotator employed under the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.), or other rotator employed, by the Foundation that year that is paid at a rate that exceeds the maximum rate of pay for the Senior Executive Service, including, if applicable, the level of adjustment for the certified Senior Executive Service Performance Appraisal System.
+- **(c)** Not later than 1 year after January 6, 2017 , the Director of the Foundation shall submit to the appropriate committees of Congress a report on the Foundation’s efforts to control costs associated with employing rotators, including the results of and participation in the Foundation’s cost-sharing pilot program and the Foundation’s progress in responding to the findings and implementing the recommendations of the Office of Inspector General of the Foundation related to the employment of rotators.

@@ -5,7 +5,7 @@ usc_section: "1780a"
 chapter: 19
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1780a"
-generated_at: "2026-03-29T00:30:38.711Z"
+generated_at: "2026-03-29T02:13:20.914Z"
 ---
 
 # § 1780a. Omitted

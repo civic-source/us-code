@@ -5,11 +5,11 @@ usc_section: "807"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 807"
-generated_at: "2026-03-29T00:20:52.887Z"
+generated_at: "2026-03-29T02:10:44.911Z"
 ---
 
 # § 807. Art. 7. Apprehension
 
-(a) Apprehension is the taking of a person into custody.
-(b) Any person authorized under regulations governing the armed forces to apprehend persons subject to this chapter or to trial thereunder may do so upon reasonable belief that an offense has been committed and that the person apprehended committed it.
-(c) Commissioned officers, warrant officers, petty officers, and noncommissioned officers have authority to quell quarrels, frays, and disorders among persons subject to this chapter and to apprehend persons subject to this chapter who take part therein.
+- **(a)** Apprehension is the taking of a person into custody.
+- **(b)** Any person authorized under regulations governing the armed forces to apprehend persons subject to this chapter or to trial thereunder may do so upon reasonable belief that an offense has been committed and that the person apprehended committed it.
+- **(c)** Commissioned officers, warrant officers, petty officers, and noncommissioned officers have authority to quell quarrels, frays, and disorders among persons subject to this chapter and to apprehend persons subject to this chapter who take part therein.

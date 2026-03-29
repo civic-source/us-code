@@ -5,7 +5,7 @@ usc_section: "690a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 690a"
-generated_at: "2026-03-29T00:29:52.601Z"
+generated_at: "2026-03-29T02:11:53.642Z"
 ---
 
 # § 690a. Maintenance of lands acquired as refuge and breeding place for migratory birds

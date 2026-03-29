@@ -5,18 +5,18 @@ usc_section: "948b"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 948b"
-generated_at: "2026-03-29T00:20:52.908Z"
+generated_at: "2026-03-29T02:10:44.934Z"
 ---
 
 # § 948b. Military commissions generally
 
-(a) This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
-(b) The President is authorized to establish military commissions under this chapter for offenses triable by military commission as provided in this chapter.
-(c) The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
-(d) 
-  (1) The following provisions of this title shall not apply to trial by military commission under this chapter:
-    (A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
-    (B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
-    (C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
-  (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
-(e) No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
+- **(a)** This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
+- **(b)** The President is authorized to establish military commissions under this chapter for offenses triable by military commission as provided in this chapter.
+- **(c)** The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
+- **(d)**
+  - **(1)** The following provisions of this title shall not apply to trial by military commission under this chapter:
+    - **(A)** Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
+    - **(B)** Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
+    - **(C)** Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
+  - **(2)** Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
+- **(e)** No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.

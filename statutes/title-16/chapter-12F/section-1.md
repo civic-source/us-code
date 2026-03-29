@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T00:29:52.661Z"
+generated_at: "2026-03-29T02:11:53.709Z"
 ---
 
 # § 837g–1. Construction of additional facilities by Secretary of Energy for mutually beneficial power sales between Pacific Northwest and California; contribution of funds by non-Federal entities

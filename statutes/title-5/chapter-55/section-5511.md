@@ -5,10 +5,10 @@ usc_section: "5511"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5511"
-generated_at: "2026-03-29T00:28:38.342Z"
+generated_at: "2026-03-29T02:10:01.863Z"
 ---
 
 # § 5511. Withholding pay; employees removed for cause
 
-(a) Except as provided by subsection (b) of this section, the earned pay of an employee removed for cause may not be withheld or confiscated.
-(b) If an employee indebted to the United States is removed for cause, the pay accruing to the employee shall be applied in whole or in part to the satisfaction of any claim or indebtedness due the United States.
+- **(a)** Except as provided by subsection (b) of this section, the earned pay of an employee removed for cause may not be withheld or confiscated.
+- **(b)** If an employee indebted to the United States is removed for cause, the pay accruing to the employee shall be applied in whole or in part to the satisfaction of any claim or indebtedness due the United States.

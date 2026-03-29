@@ -5,12 +5,12 @@ usc_section: "1231"
 chapter: 12
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1231"
-generated_at: "2026-03-29T00:28:59.975Z"
+generated_at: "2026-03-29T02:10:54.351Z"
 ---
 
 # § 1231. Special tax provisions
 
-(a) The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1225 of this title , may not be taxed under any law imposing a stamp tax or similar tax.
-(b) The court may authorize the proponent of a plan to request a determination, limited to questions of law, by any governmental unit charged with responsibility for collection or determination of a tax on or measured by income, of the tax effects, under section 346 of this title and under the law imposing such tax, of the plan. In the event of an actual controversy, the court may declare such effects after the earlier of—
-  (1) the date on which such governmental unit responds to the request under this subsection; or
-  (2) 270 days after such request.
+- **(a)** The issuance, transfer, or exchange of a security, or the making or delivery of an instrument of transfer under a plan confirmed under section 1225 of this title , may not be taxed under any law imposing a stamp tax or similar tax.
+- **(b)** The court may authorize the proponent of a plan to request a determination, limited to questions of law, by any governmental unit charged with responsibility for collection or determination of a tax on or measured by income, of the tax effects, under section 346 of this title and under the law imposing such tax, of the plan. In the event of an actual controversy, the court may declare such effects after the earlier of—
+  - **(1)** the date on which such governmental unit responds to the request under this subsection; or
+  - **(2)** 270 days after such request.

@@ -5,101 +5,101 @@ usc_section: "7611"
 chapter: 78
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7611"
-generated_at: "2026-03-29T00:31:21.102Z"
+generated_at: "2026-03-29T02:14:01.401Z"
 ---
 
 # § 7611. Restrictions on church tax inquiries and examinations
 
-(a) 
-  (1) The Secretary may begin a church tax inquiry only if—
-    (A) the reasonable belief requirements of paragraph (2), and
-    (B) the notice requirements of paragraph (3), have been met.
-  (2) The requirements of this paragraph are met with respect to any church tax inquiry if an appropriate high-level Treasury official reasonably believes (on the basis of facts and circumstances recorded in writing) that the church—
-    (A) may not be exempt, by reason of its status as a church, from tax under section 501(a), or
-    (B) may be carrying on an unrelated trade or business (within the meaning of section 513) or otherwise engaged in activities subject to taxation under this title.
-  (3) 
-    (A) The requirements of this paragraph are met with respect to any church tax inquiry if, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
-    (B) The notice required by this paragraph shall include—
-      (i) an explanation of—
-        (I) the concerns which gave rise to such inquiry, and
-        (II) the general subject matter of such inquiry, and
-      (ii) a general explanation of the applicable—
-        (I) administrative and constitutional provisions with respect to such inquiry (including the right to a conference with the Secretary before any examination of church records), and
-        (II) provisions of this title which authorize such inquiry or which may be otherwise involved in such inquiry.
-(b) 
-  (1) The Secretary may begin a church tax examination only if the requirements of paragraph (2) have been met and such examination may be made only—
-    (A) in the case of church records, to the extent necessary to determine the liability for, and the amount of, any tax imposed by this title, and
-    (B) in the case of religious activities, to the extent necessary to determine whether an organization claiming to be a church is a church for any period.
-  (2) The requirements of this paragraph are met with respect to any church tax examination if—
-    (A) at least 15 days before the beginning of such examination, the Secretary provides the notice described in paragraph (3) to both the church and the appropriate regional counsel of the Internal Revenue Service, and
-    (B) the church has a reasonable time to participate in a conference described in paragraph (3)(A)(iii), but only if the church requests such a conference before the beginning of the examination.
-  (3) 
-    (A) The notice described in this paragraph is a written notice which includes—
-      (i) a copy of the church tax inquiry notice provided to the church under subsection (a),
-      (ii) a description of the church records and activities which the Secretary seeks to examine,
-      (iii) an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve, concerns relating to such examination, and
-      (iv) a copy of all documents which were collected or prepared by the Internal Revenue Service for use in such examination and the disclosure of which is required by the Freedom of Information Act ( 5 U.S.C. 552 ).
-    (B) The examination notice described in subparagraph (A) shall not be provided to the church before the 15th day after the date on which the church tax inquiry notice was provided to the church under subsection (a).
-    (C) Any regional counsel of the Internal Revenue Service who receives an examination notice under paragraph (1) may, within 15 days after such notice is provided, submit to the regional commissioner for the region an advisory objection to the examination.
-  (4) Within the course of a church tax examination which (at the time the examination begins) meets the requirements of paragraphs (1) and (2), the Secretary may examine any church records or religious activities which were not specified in the examination notice to the extent such examination meets the requirement of subparagraph (A) or (B) of paragraph (1) (whichever applies).
-(c) 
-  (1) 
-    (A) The Secretary shall complete any church tax status inquiry or examination (and make a final determination with respect thereto) not later than the date which is 2 years after the examination notice date.
-    (B) In the case of a church tax inquiry with respect to which there is no examination notice under subsection (b), the Secretary shall complete such inquiry (and make a final determination with respect thereto) not later than the date which is 90 days after the inquiry notice date.
-  (2) The running of the 2-year period described in paragraph (1)(A) and the 90-day period in paragraph (1)(B) shall be suspended—
-    (A) for any period during which—
-      (i) a judicial proceeding brought by the church against the Secretary with respect to the church tax inquiry or examination is pending or being appealed,
-      (ii) a judicial proceeding brought by the Secretary against the church (or any official thereof) to compel compliance with any reasonable request of the Secretary in a church tax examination for examination of church records or religious activities is pending or being appealed, or
-      (iii) the Secretary is unable to take actions with respect to the church tax inquiry or examination by reason of an order issued in any judicial proceeding brought under section 7609,
-    (B) for any period in excess of 20 days (but not in excess of 6 months) in which the church or its agents fail to comply with any reasonable request of the Secretary for church records or other information, or
-    (C) for any period mutually agreed upon by the Secretary and the church.
-(d) 
-  (1) The Secretary may—
-    (A) determine that an organization is not a church which—
-      (i) is exempt from taxation by reason of section 501(a), or
-      (ii) is described in section 170(c), or
-    (B) 
-      (i) send a notice of deficiency of any tax involved in a church tax examination, or
-      (ii) in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
-  (2) 
-    (A) 
-      (i) In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding in court for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
-      (ii) If an organization is not a church exempt from tax under section 501(a) for any of the 3 taxable years described in clause (i), clause (i) shall be applied by substituting “6 most recent taxable years” for “3 most recent taxable years”.
-    (B) In the case of any church tax examination with respect to the tax imposed by section 511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
-    (C) Subparagraphs (A) and (B) shall not be construed to increase the period otherwise applicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
-(e) 
-  (1) If there has not been substantial compliance with—
-    (A) the notice requirements of subsection (a) or (b),
-    (B) the conference requirement described in subsection (b)(3)(A)(iii), or
-    (C) the approval requirement of subsection (d)(1) (if applicable),
-  (2) No suit may be maintained, and no defense may be raised in any proceeding (other than as provided in paragraph (1)), by reason of any noncompliance by the Secretary with the requirements of this section.
-(f) 
-  (1) If any church tax inquiry or examination with respect to any church is completed and does not result in—
-    (A) a revocation, notice of deficiency, or assessment described in subsection (d)(1), or
-    (B) a request by the Secretary for any significant change in the operational practices of the church (including the adequacy of accounting practices),
-  (2) For purposes of paragraph (1), the term “applicable 5-year period” means the 5-year period beginning on the date the notice taken into account for purposes of subsection (c)(1) was provided. For purposes of the preceding sentence, the rules of subsection (c)(2) shall apply.
-(g) Any final report of an agent of the Internal Revenue Service shall be treated as a determination of the Secretary under paragraph (1) of section 7428(a), and any church receiving such a report shall be treated for purposes of sections 7428 and 7430 as having exhausted the administrative remedies available to it.
-(h) For purposes of this section—
-  (1) The term “church” includes—
-    (A) any organization claiming to be a church, and
-    (B) any convention or association of churches.
-  (2) The term “church tax inquiry” means any inquiry to a church (other than an examination) to serve as a basis for determining whether a church—
-    (A) is exempt from tax under section 501(a) by reason of its status as a church, or
-    (B) is carrying on an unrelated trade or business (within the meaning of section 513) or otherwise engaged in activities which may be subject to taxation under this title.
-  (3) The term “church tax examination” means any examination for purposes of making a determination described in paragraph (2) of—
-    (A) church records at the request of the Internal Revenue Service, or
-    (B) the religious activities of any church.
-  (4) 
-    (A) The term “church records” means all corporate and financial records regularly kept by a church, including corporate minute books and lists of members and contributors.
-    (B) Such term shall not include records acquired—
-      (i) pursuant to a summons to which section 7609 applies, or
-      (ii) from any governmental agency.
-  (5) The term “inquiry notice date” means the date the notice with respect to a church tax inquiry is provided under subsection (a).
-  (6) The term “examination notice date” means the date the notice with respect to a church tax examination is provided under subsection (b) to the church.
-  (7) The term “appropriate high-level Treasury official” means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
-(i) This section shall not apply to—
-  (1) any criminal investigation,
-  (2) any inquiry or examination relating to the tax liability of any person other than a church,
-  (3) any assessment under section 6851 (relating to termination assessments of income tax), section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),
-  (4) any willful attempt to defeat or evade any tax imposed by this title, or
-  (5) any knowing failure to file a return of tax imposed by this title.
+- **(a)**
+  - **(1)** The Secretary may begin a church tax inquiry only if—
+    - **(A)** the reasonable belief requirements of paragraph (2), and
+    - **(B)** the notice requirements of paragraph (3), have been met.
+  - **(2)** The requirements of this paragraph are met with respect to any church tax inquiry if an appropriate high-level Treasury official reasonably believes (on the basis of facts and circumstances recorded in writing) that the church—
+    - **(A)** may not be exempt, by reason of its status as a church, from tax under section 501(a), or
+    - **(B)** may be carrying on an unrelated trade or business (within the meaning of section 513) or otherwise engaged in activities subject to taxation under this title.
+  - **(3)**
+    - **(A)** The requirements of this paragraph are met with respect to any church tax inquiry if, before beginning such inquiry, the Secretary provides written notice to the church of the beginning of such inquiry.
+    - **(B)** The notice required by this paragraph shall include—
+      - **(i)** an explanation of—
+        - **(I)** the concerns which gave rise to such inquiry, and
+        - **(II)** the general subject matter of such inquiry, and
+      - **(ii)** a general explanation of the applicable—
+        - **(I)** administrative and constitutional provisions with respect to such inquiry (including the right to a conference with the Secretary before any examination of church records), and
+        - **(II)** provisions of this title which authorize such inquiry or which may be otherwise involved in such inquiry.
+- **(b)**
+  - **(1)** The Secretary may begin a church tax examination only if the requirements of paragraph (2) have been met and such examination may be made only—
+    - **(A)** in the case of church records, to the extent necessary to determine the liability for, and the amount of, any tax imposed by this title, and
+    - **(B)** in the case of religious activities, to the extent necessary to determine whether an organization claiming to be a church is a church for any period.
+  - **(2)** The requirements of this paragraph are met with respect to any church tax examination if—
+    - **(A)** at least 15 days before the beginning of such examination, the Secretary provides the notice described in paragraph (3) to both the church and the appropriate regional counsel of the Internal Revenue Service, and
+    - **(B)** the church has a reasonable time to participate in a conference described in paragraph (3)(A)(iii), but only if the church requests such a conference before the beginning of the examination.
+  - **(3)**
+    - **(A)** The notice described in this paragraph is a written notice which includes—
+      - **(i)** a copy of the church tax inquiry notice provided to the church under subsection (a),
+      - **(ii)** a description of the church records and activities which the Secretary seeks to examine,
+      - **(iii)** an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve, concerns relating to such examination, and
+      - **(iv)** a copy of all documents which were collected or prepared by the Internal Revenue Service for use in such examination and the disclosure of which is required by the Freedom of Information Act ( 5 U.S.C. 552 ).
+    - **(B)** The examination notice described in subparagraph (A) shall not be provided to the church before the 15th day after the date on which the church tax inquiry notice was provided to the church under subsection (a).
+    - **(C)** Any regional counsel of the Internal Revenue Service who receives an examination notice under paragraph (1) may, within 15 days after such notice is provided, submit to the regional commissioner for the region an advisory objection to the examination.
+  - **(4)** Within the course of a church tax examination which (at the time the examination begins) meets the requirements of paragraphs (1) and (2), the Secretary may examine any church records or religious activities which were not specified in the examination notice to the extent such examination meets the requirement of subparagraph (A) or (B) of paragraph (1) (whichever applies).
+- **(c)**
+  - **(1)**
+    - **(A)** The Secretary shall complete any church tax status inquiry or examination (and make a final determination with respect thereto) not later than the date which is 2 years after the examination notice date.
+    - **(B)** In the case of a church tax inquiry with respect to which there is no examination notice under subsection (b), the Secretary shall complete such inquiry (and make a final determination with respect thereto) not later than the date which is 90 days after the inquiry notice date.
+  - **(2)** The running of the 2-year period described in paragraph (1)(A) and the 90-day period in paragraph (1)(B) shall be suspended—
+    - **(A)** for any period during which—
+      - **(i)** a judicial proceeding brought by the church against the Secretary with respect to the church tax inquiry or examination is pending or being appealed,
+      - **(ii)** a judicial proceeding brought by the Secretary against the church (or any official thereof) to compel compliance with any reasonable request of the Secretary in a church tax examination for examination of church records or religious activities is pending or being appealed, or
+      - **(iii)** the Secretary is unable to take actions with respect to the church tax inquiry or examination by reason of an order issued in any judicial proceeding brought under section 7609,
+    - **(B)** for any period in excess of 20 days (but not in excess of 6 months) in which the church or its agents fail to comply with any reasonable request of the Secretary for church records or other information, or
+    - **(C)** for any period mutually agreed upon by the Secretary and the church.
+- **(d)**
+  - **(1)** The Secretary may—
+    - **(A)** determine that an organization is not a church which—
+      - **(i)** is exempt from taxation by reason of section 501(a), or
+      - **(ii)** is described in section 170(c), or
+    - **(B)**
+      - **(i)** send a notice of deficiency of any tax involved in a church tax examination, or
+      - **(ii)** in the case of any tax with respect to which subchapter B of chapter 63 (relating to deficiency procedures) does not apply, assess any underpayment of such tax involved in a church tax examination,
+  - **(2)**
+    - **(A)**
+      - **(i)** In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding in court for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
+      - **(ii)** If an organization is not a church exempt from tax under section 501(a) for any of the 3 taxable years described in clause (i), clause (i) shall be applied by substituting “6 most recent taxable years” for “3 most recent taxable years”.
+    - **(B)** In the case of any church tax examination with respect to the tax imposed by section 511 (relating to unrelated business income), such tax may be assessed, or a proceeding in court for the collection of such tax may be begun without assessment, only with respect to the 6 most recent taxable years ending before the examination notice date.
+    - **(C)** Subparagraphs (A) and (B) shall not be construed to increase the period otherwise applicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
+- **(e)**
+  - **(1)** If there has not been substantial compliance with—
+    - **(A)** the notice requirements of subsection (a) or (b),
+    - **(B)** the conference requirement described in subsection (b)(3)(A)(iii), or
+    - **(C)** the approval requirement of subsection (d)(1) (if applicable),
+  - **(2)** No suit may be maintained, and no defense may be raised in any proceeding (other than as provided in paragraph (1)), by reason of any noncompliance by the Secretary with the requirements of this section.
+- **(f)**
+  - **(1)** If any church tax inquiry or examination with respect to any church is completed and does not result in—
+    - **(A)** a revocation, notice of deficiency, or assessment described in subsection (d)(1), or
+    - **(B)** a request by the Secretary for any significant change in the operational practices of the church (including the adequacy of accounting practices),
+  - **(2)** For purposes of paragraph (1), the term “applicable 5-year period” means the 5-year period beginning on the date the notice taken into account for purposes of subsection (c)(1) was provided. For purposes of the preceding sentence, the rules of subsection (c)(2) shall apply.
+- **(g)** Any final report of an agent of the Internal Revenue Service shall be treated as a determination of the Secretary under paragraph (1) of section 7428(a), and any church receiving such a report shall be treated for purposes of sections 7428 and 7430 as having exhausted the administrative remedies available to it.
+- **(h)** For purposes of this section—
+  - **(1)** The term “church” includes—
+    - **(A)** any organization claiming to be a church, and
+    - **(B)** any convention or association of churches.
+  - **(2)** The term “church tax inquiry” means any inquiry to a church (other than an examination) to serve as a basis for determining whether a church—
+    - **(A)** is exempt from tax under section 501(a) by reason of its status as a church, or
+    - **(B)** is carrying on an unrelated trade or business (within the meaning of section 513) or otherwise engaged in activities which may be subject to taxation under this title.
+  - **(3)** The term “church tax examination” means any examination for purposes of making a determination described in paragraph (2) of—
+    - **(A)** church records at the request of the Internal Revenue Service, or
+    - **(B)** the religious activities of any church.
+  - **(4)**
+    - **(A)** The term “church records” means all corporate and financial records regularly kept by a church, including corporate minute books and lists of members and contributors.
+    - **(B)** Such term shall not include records acquired—
+      - **(i)** pursuant to a summons to which section 7609 applies, or
+      - **(ii)** from any governmental agency.
+  - **(5)** The term “inquiry notice date” means the date the notice with respect to a church tax inquiry is provided under subsection (a).
+  - **(6)** The term “examination notice date” means the date the notice with respect to a church tax examination is provided under subsection (b) to the church.
+  - **(7)** The term “appropriate high-level Treasury official” means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
+- **(i)** This section shall not apply to—
+  - **(1)** any criminal investigation,
+  - **(2)** any inquiry or examination relating to the tax liability of any person other than a church,
+  - **(3)** any assessment under section 6851 (relating to termination assessments of income tax), section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),
+  - **(4)** any willful attempt to defeat or evade any tax imposed by this title, or
+  - **(5)** any knowing failure to file a return of tax imposed by this title.

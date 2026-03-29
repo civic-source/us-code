@@ -5,11 +5,11 @@ usc_section: "2507"
 chapter: 165
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2507"
-generated_at: "2026-03-29T00:31:24.203Z"
+generated_at: "2026-03-29T02:14:04.578Z"
 ---
 
 # § 2507. Calls and discovery
 
-(a) The United States Court of Federal Claims may call upon any department or agency of the United States or upon any party for any information or papers, not privileged, for purposes of discovery or for use as evidence. The head of any department or agency may refuse to comply with a call issued pursuant to this subsection when, in his opinion, compliance will be injurious to the public interest.
-(b) Without limitation on account of anything contained in subsection (a) of this section, the court may, in accordance with its rules, provide additional means for the discovery of any relevant facts, books, papers, documents or tangible things, not privileged.
-(c) The Court of Federal Claims may use all recorded and printed reports made by the committees of the Senate or House of Representatives.
+- **(a)** The United States Court of Federal Claims may call upon any department or agency of the United States or upon any party for any information or papers, not privileged, for purposes of discovery or for use as evidence. The head of any department or agency may refuse to comply with a call issued pursuant to this subsection when, in his opinion, compliance will be injurious to the public interest.
+- **(b)** Without limitation on account of anything contained in subsection (a) of this section, the court may, in accordance with its rules, provide additional means for the discovery of any relevant facts, books, papers, documents or tangible things, not privileged.
+- **(c)** The Court of Federal Claims may use all recorded and printed reports made by the committees of the Senate or House of Representatives.

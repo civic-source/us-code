@@ -5,7 +5,7 @@ usc_section: "778a"
 chapter: 10
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 778a"
-generated_at: "2026-03-29T00:29:52.630Z"
+generated_at: "2026-03-29T02:11:53.671Z"
 ---
 
 # § 778a. Acquisition of lands; construction of buildings; employment of personnel; cooperation with other agencies; publication of results

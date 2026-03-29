@@ -1,0 +1,57 @@
+---
+title: "Section 2327 - Tribally controlled postsecondary career and technical institutions"
+usc_title: 20
+usc_section: "2327"
+chapter: 44
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2327"
+generated_at: "2026-03-29T02:12:17.383Z"
+---
+
+# § 2327. Tribally controlled postsecondary career and technical institutions
+
+- **(a)** Subject to the availability of appropriations, the Secretary shall make grants under this section, to provide basic support for the education and training of Indian students, to tribally controlled postsecondary career and technical institutions that are not receiving Federal assistance as of the date on which the grant is provided under—
+  - **(1)** title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1802 et seq.); or
+  - **(2)** the Navajo Community College Act ( Public Law 92–189 ; 85 Stat. 646 ).
+- **(b)** Amounts made available under this section shall be used for career and technical education programs for Indian students and for the institutional support costs of the grant, including the expenses described in subsection (e).
+- **(c)**
+  - **(1)** If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant’s Indian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution’s control.
+  - **(2)** For the purposes of paragraph (1), the per capita payment for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled postsecondary career and technical institutions under this section for such program year by the sum of the Indian student counts of such institutions for such program year. The Secretary shall, on the basis of the most accurate data available from the institutions, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this section.
+  - **(3)** Notwithstanding any other provision of law or regulation, the Secretary shall not require the use of a restricted indirect cost rate for grants issued under this section.
+- **(d)** To be eligible to receive a grant under this section, a tribally controlled postsecondary career and technical institution that is not receiving Federal assistance under title I of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1802 et seq.) or the Navajo Community College Act ( Public Law 92–189 ; 85 Stat. 646 ) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+- **(e)**
+  - **(1)** The Secretary shall, subject to the availability of appropriations, provide for each program year to each tribally controlled postsecondary career and technical institution having an application approved by the Secretary, an amount necessary to pay expenses associated with—
+    - **(A)** the maintenance and operation of the program, including development costs, costs of basic and special instruction (including special programs for individuals with disabilities and academic instruction), materials, student costs, administrative expenses, boarding costs, transportation, student services, daycare and family support programs for students and their families (including contributions to the costs of education for dependents), and student stipends;
+    - **(B)** capital expenditures, including operations and maintenance, and minor improvements and repair, and physical plant maintenance costs, for the conduct of programs funded under this section;
+    - **(C)** costs associated with repair, upkeep, replacement, and upgrading of the instructional equipment; and
+    - **(D)** institutional support of career and technical education.
+  - **(2)** Each institution receiving a grant under this section shall provide annually to the Secretary an accurate and detailed accounting of the institution’s operating and maintenance expenses and such other information concerning costs as the Secretary may reasonably require.
+- **(f)**
+  - **(1)** Except as specifically provided in this chapter, eligibility for assistance under this section shall not preclude any tribally controlled postsecondary career and technical institution from receiving Federal financial assistance under any program authorized under the Higher Education Act of 1965 [ 20 U.S.C. 1001 et seq.], or under any other applicable program for the benefit of institutions of higher education or career and technical education.
+  - **(2)** The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25 .
+  - **(3)** No tribally controlled postsecondary career and technical institution for which an Indian Tribe has designated a portion of the funds appropriated for the Tribe from funds appropriated under section 13 of title 25 , may be denied a contract for such portion under the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.] (except as provided in that Act), or denied appropriate contract support to administer such portion of the appropriated funds.
+- **(g)** The Secretary shall establish (after consultation with tribally controlled postsecondary career and technical institutions) a complaint resolution procedure for grant determinations and calculations under this section for tribally controlled postsecondary career and technical institutions.
+- **(h)** In this section:
+  - **(1)** The terms “Indian” and “Indian Tribe” have the meanings given the terms “Indian” and “Indian tribe”, respectively, in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ( 25 U.S.C. 1801 ).
+  - **(2)**
+    - **(A)** The term “Indian student count” means a number equal to the total number of Indian students enrolled in each tribally controlled postsecondary career and technical institution, as determined in accordance with subparagraph (B).
+    - **(B)**
+      - **(i)** For each academic year, the Indian student count shall be determined on the basis of the enrollments of Indian students as in effect at the conclusion of—
+        - **(I)** in the case of the fall term, the third week of the fall term; and
+        - **(II)** in the case of the spring term, the third week of the spring term.
+      - **(ii)** For each academic year, the Indian student count for a tribally controlled postsecondary career and technical institution shall be the quotient obtained by dividing—
+        - **(I)** the sum of the credit hours of all Indian students enrolled in the tribally controlled postsecondary career and technical institution (as determined under clause (i)); by
+        - **(II)** 12.
+      - **(iii)** Any credit earned in a class offered during a summer term shall be counted in the determination of the Indian student count for the succeeding fall term.
+      - **(iv)**
+        - **(I)** A credit earned at a tribally controlled postsecondary career and technical institution by any Indian student that has not obtained a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count if the institution at which the student is enrolled has established criteria for the admission of the student on the basis of the ability of the student to benefit from the education or training of the institution.
+        - **(II)** The institution shall be presumed to have established the criteria described in subclause (I) if the admission procedures for the institution include counseling or testing that measures the aptitude of a student to successfully complete a course in which the student is enrolled.
+        - **(III)** No credit earned by an Indian student for the purpose of obtaining a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count under this clause.
+      - **(v)** Any credit earned by an Indian student in a continuing education program of a tribally controlled postsecondary career and technical institution shall be included in the determination of the sum of all credit hours of the student if the credit is converted to a credit hour basis in accordance with the system of the institution for providing credit for participation in the program.
+- **(i)** There are authorized to be appropriated to carry out this section—
+  - **(1)** $9,762,539 for fiscal year 2019;
+  - **(2)** $9,899,215 for fiscal year 2020;
+  - **(3)** $10,037,804 for fiscal year 2021;
+  - **(4)** $10,178,333 for fiscal year 2022;
+  - **(5)** $10,320,829 for fiscal year 2023; and
+  - **(6)** $10,465,321 for fiscal year 2024.

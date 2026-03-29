@@ -5,7 +5,7 @@ usc_section: "28"
 chapter: 1
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 28"
-generated_at: "2026-03-29T00:30:20.097Z"
+generated_at: "2026-03-29T02:12:08.582Z"
 ---
 
 # §§ 26 to 28. Repealed. Aug. 2, 1956, ch. 887, § 4(a)(12) –(14), 70 Stat. 947

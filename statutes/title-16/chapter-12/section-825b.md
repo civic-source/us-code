@@ -5,7 +5,7 @@ usc_section: "825b"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 825b"
-generated_at: "2026-03-29T00:29:52.647Z"
+generated_at: "2026-03-29T02:11:53.691Z"
 ---
 
 # § 825b. Requirements applicable to agencies of United States

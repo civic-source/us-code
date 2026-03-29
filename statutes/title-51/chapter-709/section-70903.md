@@ -5,12 +5,12 @@ usc_section: "70903"
 chapter: 709
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 70903"
-generated_at: "2026-03-29T00:33:19.419Z"
+generated_at: "2026-03-29T02:16:19.266Z"
 ---
 
 # § 70903. International Space Station research
 
 The Administrator shall—
 
-  (1) carry out a program of microgravity research consistent with section 40904 of this title ; and
-  (2) consider the need for a life sciences centrifuge and any associated holding facilities.
+  - **(1)** carry out a program of microgravity research consistent with section 40904 of this title ; and
+  - **(2)** consider the need for a life sciences centrifuge and any associated holding facilities.

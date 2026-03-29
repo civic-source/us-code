@@ -5,11 +5,11 @@ usc_section: "6714"
 chapter: 67
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6714"
-generated_at: "2026-03-29T00:32:20.560Z"
+generated_at: "2026-03-29T02:14:58.798Z"
 ---
 
 # § 6714. Relocation services
 
-(a) The Administrator of General Services may use the services of the District of Columbia government in the administration of a relocation program pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq.). The Administrator shall reimburse the government for the cost of the services.
-(b) All relocation services performed by or on behalf of the Administrator shall be coordinated with the District of Columbia’s central relocation programs.
-(c) An owner or tenant of real property whose residence or business is terminated as a result of acquisitions made pursuant to this subchapter or the Pennsylvania Avenue Development Corporation Act of 1972 ( Public Law 92–578 , 86 Stat. 1266 ) shall be granted a preferential right to lease or purchase from the Administrator similar real property as may become available for a similar use. The preferential right is limited to the parties in interest and is not transferable or assignable.
+- **(a)** The Administrator of General Services may use the services of the District of Columbia government in the administration of a relocation program pursuant to the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq.). The Administrator shall reimburse the government for the cost of the services.
+- **(b)** All relocation services performed by or on behalf of the Administrator shall be coordinated with the District of Columbia’s central relocation programs.
+- **(c)** An owner or tenant of real property whose residence or business is terminated as a result of acquisitions made pursuant to this subchapter or the Pennsylvania Avenue Development Corporation Act of 1972 ( Public Law 92–578 , 86 Stat. 1266 ) shall be granted a preferential right to lease or purchase from the Administrator similar real property as may become available for a similar use. The preferential right is limited to the parties in interest and is not transferable or assignable.

@@ -5,10 +5,10 @@ usc_section: "12833"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12833"
-generated_at: "2026-03-29T00:32:54.298Z"
+generated_at: "2026-03-29T02:15:37.235Z"
 ---
 
 # § 12833. Audits by Comptroller General
 
-(a) The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairs of the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
-(b) The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
+- **(a)** The Comptroller General, when the Comptroller General deems it to be appropriate or when requested by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Banking, Finance and Urban Affairs of the House of Representatives, shall conduct a full financial audit of the records of the HOME Investment Partnerships program for any fiscal year. The report of the Comptroller General shall be submitted promptly to the Secretary and the Congress and shall be published.
+- **(b)** The financial transactions of participating jurisdictions and of other recipients of funds provided under this subchapter may, insofar as they relate to funds provided under this subchapter, be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.

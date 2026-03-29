@@ -5,12 +5,12 @@ usc_section: "4030"
 chapter: 52
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4030"
-generated_at: "2026-03-29T00:30:33.901Z"
+generated_at: "2026-03-29T02:12:40.314Z"
 ---
 
 # § 4030. Suitability reviews for Foreign Service Institute instructors
 
 The Secretary shall take reasonable steps to ensure that all instructors at the Foreign Service Institute, including direct hires and contractors, who provide language instruction are—
 
-  (1) subject to suitability reviews and background investigations; and
-  (2) subject to periodic background checks or reinvestigations to the extent consistent with Department and Executive policy for other Department personnel.
+  - **(1)** subject to suitability reviews and background investigations; and
+  - **(2)** subject to periodic background checks or reinvestigations to the extent consistent with Department and Executive policy for other Department personnel.

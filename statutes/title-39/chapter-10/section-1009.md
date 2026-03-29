@@ -5,7 +5,7 @@ usc_section: "1009"
 chapter: 10
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 1009"
-generated_at: "2026-03-29T00:32:18.841Z"
+generated_at: "2026-03-29T02:14:53.120Z"
 ---
 
 # § 1009. Personnel not to receive fees

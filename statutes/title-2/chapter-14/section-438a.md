@@ -5,7 +5,7 @@ usc_section: "438a"
 chapter: 14
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 438a"
-generated_at: "2026-03-29T00:06:10.910Z"
+generated_at: "2026-03-29T02:09:53.674Z"
 ---
 
 # § 438a. Transferred

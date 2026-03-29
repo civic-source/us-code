@@ -5,16 +5,16 @@ usc_section: "2730"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2730"
-generated_at: "2026-03-29T00:30:33.852Z"
+generated_at: "2026-03-29T02:12:40.249Z"
 ---
 
 # § 2730. Prohibition on funding the involuntary return of refugees
 
-(a) 
-  (1) Except as provided in paragraph (2), none of the funds made available to the Department of State, or the United States Emergency Refugee and Migration Assistance Fund established in section 2601(c) of this title , may be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.
-  (2) The prohibition in paragraph (1) does not apply to the return of any person on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951 , and the Protocol Relating to the Status of Refugees of January 31, 1967 , subject to the reservations contained in the United States Senate resolution of advice and consent to ratification of the Protocol.
-(b) None of the funds made available to the Department of State, or the United States Emergency Refugee and Migration Assistance Fund established in section 2601(c) of this title , may be available to effect the involuntary return by the United States of any person to any country unless the Secretary first notifies the appropriate congressional committees, except that, in the case of an emergency involving a threat to human life, the Secretary shall notify the appropriate congressional committees as soon as practicable.
-(c) Nothing in this section shall be construed as affecting activities of the Department of State that relate to removal proceedings under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] or extradition.
-(d) In this section:
-  (1) The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
-  (2) The term “to effect the involuntary return” means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person’s will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
+- **(a)**
+  - **(1)** Except as provided in paragraph (2), none of the funds made available to the Department of State, or the United States Emergency Refugee and Migration Assistance Fund established in section 2601(c) of this title , may be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion.
+  - **(2)** The prohibition in paragraph (1) does not apply to the return of any person on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951 , and the Protocol Relating to the Status of Refugees of January 31, 1967 , subject to the reservations contained in the United States Senate resolution of advice and consent to ratification of the Protocol.
+- **(b)** None of the funds made available to the Department of State, or the United States Emergency Refugee and Migration Assistance Fund established in section 2601(c) of this title , may be available to effect the involuntary return by the United States of any person to any country unless the Secretary first notifies the appropriate congressional committees, except that, in the case of an emergency involving a threat to human life, the Secretary shall notify the appropriate congressional committees as soon as practicable.
+- **(c)** Nothing in this section shall be construed as affecting activities of the Department of State that relate to removal proceedings under the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] or extradition.
+- **(d)** In this section:
+  - **(1)** The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+  - **(2)** The term “to effect the involuntary return” means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person’s will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.

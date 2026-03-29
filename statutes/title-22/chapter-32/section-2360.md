@@ -5,11 +5,11 @@ usc_section: "2360"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2360"
-generated_at: "2026-03-29T00:30:33.794Z"
+generated_at: "2026-03-29T02:12:40.067Z"
 ---
 
 # § 2360. Transfer of funds between accounts
 
-(a) Whenever the President determines it to be necessary for the purposes of this chapter, not to exceed 10 per centum of the funds made available for any provision of this chapter (except funds made available pursuant to subpart IV of part II of subchapter I of this chapter or for section 2763 of this title ) may be transferred to, and consolidated with, the funds made available for any provision of this chapter (except funds made available under part II of subchapter II of this chapter), and may be used for any of the purposes for which such funds may be used, except that the total in the provision for the benefit of which the transfer is made shall not be increased by more than 20 per centum of the amount of funds made available for such provision.
-(b) The authority contained in this section and in sections 2261, 2318 and 2364 of this title, shall not be used to augment appropriations made available pursuant to sections 2396(g)(1) and 2397 of this title or used otherwise to finance activities which normally would be financed from appropriations for administrative expenses.
-(c) Any funds which the President has notified Congress pursuant to section 2413 of this title that he intends to provide in military assistance to any country may be transferred to, and consolidated with, any other funds he has notified Congress pursuant to such section that he intends to provide to that country for development assistance purposes.
+- **(a)** Whenever the President determines it to be necessary for the purposes of this chapter, not to exceed 10 per centum of the funds made available for any provision of this chapter (except funds made available pursuant to subpart IV of part II of subchapter I of this chapter or for section 2763 of this title ) may be transferred to, and consolidated with, the funds made available for any provision of this chapter (except funds made available under part II of subchapter II of this chapter), and may be used for any of the purposes for which such funds may be used, except that the total in the provision for the benefit of which the transfer is made shall not be increased by more than 20 per centum of the amount of funds made available for such provision.
+- **(b)** The authority contained in this section and in sections 2261, 2318 and 2364 of this title, shall not be used to augment appropriations made available pursuant to sections 2396(g)(1) and 2397 of this title or used otherwise to finance activities which normally would be financed from appropriations for administrative expenses.
+- **(c)** Any funds which the President has notified Congress pursuant to section 2413 of this title that he intends to provide in military assistance to any country may be transferred to, and consolidated with, any other funds he has notified Congress pursuant to such section that he intends to provide to that country for development assistance purposes.

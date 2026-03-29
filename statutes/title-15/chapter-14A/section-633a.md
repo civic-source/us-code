@@ -5,7 +5,7 @@ usc_section: "633a"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 633a"
-generated_at: "2026-03-29T00:29:41.585Z"
+generated_at: "2026-03-29T02:11:34.032Z"
 ---
 
 # § 633a. Detailed justification for proposed changes in budget requests

@@ -5,7 +5,7 @@ usc_section: "751b"
 chapter: 18
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 751b"
-generated_at: "2026-03-29T00:32:57.383Z"
+generated_at: "2026-03-29T02:15:47.571Z"
 ---
 
 # § 751b. Surveys in Nome and Fairbanks districts

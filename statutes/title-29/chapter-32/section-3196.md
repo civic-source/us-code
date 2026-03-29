@@ -5,14 +5,14 @@ usc_section: "3196"
 chapter: 32
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 3196"
-generated_at: "2026-03-29T00:31:27.723Z"
+generated_at: "2026-03-29T02:14:09.519Z"
 ---
 
 # § 3196. Enrollment
 
-(a) Enrollment in the Job Corps shall not relieve any individual of obligations under the Military Selective Service Act (50 U.S.C. App. 451 et seq.) [now 50 U.S.C. 3801 et seq.].
-(b) No individual may be enrolled in the Job Corps for more than 2 years, except—
-  (1) in a case in which completion of an advanced career training program under section 3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
-  (2) in the case of an individual with a disability who would reasonably be expected to meet the standards for a Job Corps graduate, as defined under section 3192(5) of this title , if allowed to participate in the Job Corps for not more than 1 additional year;
-  (3) in the case of an individual who participates in national service, as authorized by a Civilian Conservation Center program, who would be granted an enrollment extension in the Job Corps for the amount of time equal to the period of national service; or
-  (4) as the Secretary may authorize in a special case.
+- **(a)** Enrollment in the Job Corps shall not relieve any individual of obligations under the Military Selective Service Act (50 U.S.C. App. 451 et seq.) [now 50 U.S.C. 3801 et seq.].
+- **(b)** No individual may be enrolled in the Job Corps for more than 2 years, except—
+  - **(1)** in a case in which completion of an advanced career training program under section 3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
+  - **(2)** in the case of an individual with a disability who would reasonably be expected to meet the standards for a Job Corps graduate, as defined under section 3192(5) of this title , if allowed to participate in the Job Corps for not more than 1 additional year;
+  - **(3)** in the case of an individual who participates in national service, as authorized by a Civilian Conservation Center program, who would be granted an enrollment extension in the Job Corps for the amount of time equal to the period of national service; or
+  - **(4)** as the Secretary may authorize in a special case.

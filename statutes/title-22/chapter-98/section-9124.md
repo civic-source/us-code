@@ -5,22 +5,22 @@ usc_section: "9124"
 chapter: 98
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9124"
-generated_at: "2026-03-29T00:30:34.042Z"
+generated_at: "2026-03-29T02:12:40.484Z"
 ---
 
 # § 9124. Waiver by the Secretary of State
 
-(a) Subject to subsection (b), the Secretary of State may waive the application of any of the actions described in subsections (d) and (e) of section 9122 of this title with respect to a country if the Secretary determines and notifies the appropriate congressional committees that—
-  (1) the government of such country—
-    (A) has satisfactorily resolved the abduction cases giving rise to the application of any of such actions; or
-    (B) has ended such country’s pattern of noncompliance; or
-  (2) the national security interest of the United States requires the exercise of such waiver authority.
-(b) Not later than the date on which the Secretary of State exercises the waiver authority under subsection (a), the Secretary shall—
-  (1) notify the appropriate congressional committees of such waiver; and
-  (2) provide such committees with a detailed justification for such waiver, including an explanation of the steps the noncompliant government has taken—
-    (A) to resolve abductions cases; or
-    (B) to end its pattern of noncompliance.
-(c) Subject to subsection (d), the Secretary of State shall ensure that each waiver determination under this section—
-  (1) is published in the Federal Register; or
-  (2) is posted on the Department of State website.
-(d) The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title , if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.
+- **(a)** Subject to subsection (b), the Secretary of State may waive the application of any of the actions described in subsections (d) and (e) of section 9122 of this title with respect to a country if the Secretary determines and notifies the appropriate congressional committees that—
+  - **(1)** the government of such country—
+    - **(A)** has satisfactorily resolved the abduction cases giving rise to the application of any of such actions; or
+    - **(B)** has ended such country’s pattern of noncompliance; or
+  - **(2)** the national security interest of the United States requires the exercise of such waiver authority.
+- **(b)** Not later than the date on which the Secretary of State exercises the waiver authority under subsection (a), the Secretary shall—
+  - **(1)** notify the appropriate congressional committees of such waiver; and
+  - **(2)** provide such committees with a detailed justification for such waiver, including an explanation of the steps the noncompliant government has taken—
+    - **(A)** to resolve abductions cases; or
+    - **(B)** to end its pattern of noncompliance.
+- **(c)** Subject to subsection (d), the Secretary of State shall ensure that each waiver determination under this section—
+  - **(1)** is published in the Federal Register; or
+  - **(2)** is posted on the Department of State website.
+- **(d)** The Secretary of State may limit the publication of information under subsection (c) in the same manner and to the same extent as the President may limit the publication of findings and determinations described in section 2414(c) of this title , if the Secretary determines that the publication of such information would be harmful to the national security of the United States and would not further the purposes of this chapter.

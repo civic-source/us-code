@@ -5,12 +5,12 @@ usc_section: "1599"
 chapter: 32
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1599"
-generated_at: "2026-03-29T00:32:57.421Z"
+generated_at: "2026-03-29T02:15:47.607Z"
 ---
 
 # § 1599. Definitions
 
 As used in this subchapter—
 
-(a) all terms that are defined in the Colorado River Compact shall have the meanings therein defined;
-(b) “Colorado River Basin States” means the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming.
+- **(a)** all terms that are defined in the Colorado River Compact shall have the meanings therein defined;
+- **(b)** “Colorado River Basin States” means the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming.

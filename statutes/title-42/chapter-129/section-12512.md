@@ -5,7 +5,7 @@ usc_section: "12512"
 chapter: 129
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12512"
-generated_at: "2026-03-29T00:32:54.258Z"
+generated_at: "2026-03-29T02:15:37.193Z"
 ---
 
 # § 12512. Repealed. Pub. L. 103–82, title I, § 112 , Sept. 21, 1993 , 107 Stat. 861

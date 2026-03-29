@@ -5,10 +5,10 @@ usc_section: "19012"
 chapter: 163
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19012"
-generated_at: "2026-03-29T00:32:54.506Z"
+generated_at: "2026-03-29T02:15:37.478Z"
 ---
 
 # § 19012. NSF Eddie Bernice Johnson INCLUDES Initiative
 
-(a) The Director shall make awards, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to carry out a comprehensive national initiative to facilitate the development of networks and partnerships to build on and scale up effective practices in broadening participation in STEM studies and careers of groups historically underrepresented in such studies and careers.
-(b) The initiative under subsection (a) shall be known as the “Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science Initiative” or the “Eddie Bernice Johnson INCLUDES Initiative”.
+- **(a)** The Director shall make awards, on a competitive basis, to institutions of higher education or non-profit organizations (or consortia of such institutions or organizations) to carry out a comprehensive national initiative to facilitate the development of networks and partnerships to build on and scale up effective practices in broadening participation in STEM studies and careers of groups historically underrepresented in such studies and careers.
+- **(b)** The initiative under subsection (a) shall be known as the “Eddie Bernice Johnson Inclusion across the Nation of Communities of Learners of Underrepresented Discoverers in Engineering and Science Initiative” or the “Eddie Bernice Johnson INCLUDES Initiative”.

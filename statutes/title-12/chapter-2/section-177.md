@@ -5,7 +5,7 @@ usc_section: "177"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 177"
-generated_at: "2026-03-29T00:29:16.475Z"
+generated_at: "2026-03-29T02:11:20.840Z"
 ---
 
 # §§ 168 to 177. Repealed. Pub. L. 103–325, title VI, § 602(e)(24) –(31), (f)(4)(D), (5)(A), Sept. 23, 1994 , 108 Stat. 2292 , 2293

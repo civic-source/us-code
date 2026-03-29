@@ -5,7 +5,7 @@ usc_section: "1161"
 chapter: 11
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1161"
-generated_at: "2026-03-29T00:28:59.970Z"
+generated_at: "2026-03-29T02:10:54.347Z"
 ---
 
 # § 1161. Inapplicability of other sections

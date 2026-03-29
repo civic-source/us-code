@@ -5,7 +5,7 @@ usc_section: "6541"
 chapter: 84
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6541"
-generated_at: "2026-03-29T00:29:52.862Z"
+generated_at: "2026-03-29T02:11:53.968Z"
 ---
 
 # § 6541. Omitted

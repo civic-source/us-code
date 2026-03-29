@@ -5,34 +5,34 @@ usc_section: "7811"
 chapter: 80
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7811"
-generated_at: "2026-03-29T00:31:21.116Z"
+generated_at: "2026-03-29T02:14:01.416Z"
 ---
 
 # § 7811. Taxpayer Assistance Orders
 
-(a) 
-  (1) Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the National Taxpayer Advocate may issue a Taxpayer Assistance Order if—
-    (A) the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary; or
-    (B) the taxpayer meets such other requirements as are set forth in regulations prescribed by the Secretary.
-  (2) For purposes of paragraph (1), a significant hardship shall include—
-    (A) an immediate threat of adverse action;
-    (B) a delay of more than 30 days in resolving taxpayer account problems;
-    (C) the incurring by the taxpayer of significant costs (including fees for professional representation) if relief is not granted; or
-    (D) irreparable injury to, or a long-term adverse impact on, the taxpayer if relief is not granted.
-  (3) In cases where any Internal Revenue Service employee is not following applicable published administrative guidance (including the Internal Revenue Manual), the National Taxpayer Advocate shall construe the factors taken into account in determining whether to issue a Taxpayer Assistance Order in the manner most favorable to the taxpayer.
-(b) The terms of a Taxpayer Assistance Order may require the Secretary within a specified time period—
-  (1) to release property of the taxpayer levied upon, or
-  (2) to cease any action, take any action as permitted by law, or refrain from taking any action, with respect to the taxpayer under—
-    (A) chapter 64 (relating to collection),
-    (B) subchapter B of chapter 70 (relating to bankruptcy and receiverships),
-    (C) chapter 78 (relating to discovery of liability and enforcement of title), or
-    (D) any other provision of law which is specifically described by the National Taxpayer Advocate in such order.
-(c) Any Taxpayer Assistance Order issued by the National Taxpayer Advocate under this section may be modified or rescinded—
-  (1) only by the National Taxpayer Advocate, the Commissioner of Internal Revenue, or the Deputy Commissioner of Internal Revenue, and
-  (2) only if a written explanation of the reasons for the modification or rescission is provided to the National Taxpayer Advocate.
-(d) The running of any period of limitation with respect to any action described in subsection (b) shall be suspended for—
-  (1) the period beginning on the date of the taxpayer’s application under subsection (a) and ending on the date of the National Taxpayer Advocate’s decision with respect to such application, and
-  (2) any period specified by the National Taxpayer Advocate in a Taxpayer Assistance Order issued pursuant to such application.
-(e) Nothing in this section shall prevent the National Taxpayer Advocate from taking any action in the absence of an application under subsection (a).
-(f) For purposes of this section, the term “National Taxpayer Advocate” includes any designee of the National Taxpayer Advocate.
-(g) Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.
+- **(a)**
+  - **(1)** Upon application filed by a taxpayer with the Office of the Taxpayer Advocate (in such form, manner, and at such time as the Secretary shall by regulations prescribe), the National Taxpayer Advocate may issue a Taxpayer Assistance Order if—
+    - **(A)** the National Taxpayer Advocate determines the taxpayer is suffering or about to suffer a significant hardship as a result of the manner in which the internal revenue laws are being administered by the Secretary; or
+    - **(B)** the taxpayer meets such other requirements as are set forth in regulations prescribed by the Secretary.
+  - **(2)** For purposes of paragraph (1), a significant hardship shall include—
+    - **(A)** an immediate threat of adverse action;
+    - **(B)** a delay of more than 30 days in resolving taxpayer account problems;
+    - **(C)** the incurring by the taxpayer of significant costs (including fees for professional representation) if relief is not granted; or
+    - **(D)** irreparable injury to, or a long-term adverse impact on, the taxpayer if relief is not granted.
+  - **(3)** In cases where any Internal Revenue Service employee is not following applicable published administrative guidance (including the Internal Revenue Manual), the National Taxpayer Advocate shall construe the factors taken into account in determining whether to issue a Taxpayer Assistance Order in the manner most favorable to the taxpayer.
+- **(b)** The terms of a Taxpayer Assistance Order may require the Secretary within a specified time period—
+  - **(1)** to release property of the taxpayer levied upon, or
+  - **(2)** to cease any action, take any action as permitted by law, or refrain from taking any action, with respect to the taxpayer under—
+    - **(A)** chapter 64 (relating to collection),
+    - **(B)** subchapter B of chapter 70 (relating to bankruptcy and receiverships),
+    - **(C)** chapter 78 (relating to discovery of liability and enforcement of title), or
+    - **(D)** any other provision of law which is specifically described by the National Taxpayer Advocate in such order.
+- **(c)** Any Taxpayer Assistance Order issued by the National Taxpayer Advocate under this section may be modified or rescinded—
+  - **(1)** only by the National Taxpayer Advocate, the Commissioner of Internal Revenue, or the Deputy Commissioner of Internal Revenue, and
+  - **(2)** only if a written explanation of the reasons for the modification or rescission is provided to the National Taxpayer Advocate.
+- **(d)** The running of any period of limitation with respect to any action described in subsection (b) shall be suspended for—
+  - **(1)** the period beginning on the date of the taxpayer’s application under subsection (a) and ending on the date of the National Taxpayer Advocate’s decision with respect to such application, and
+  - **(2)** any period specified by the National Taxpayer Advocate in a Taxpayer Assistance Order issued pursuant to such application.
+- **(e)** Nothing in this section shall prevent the National Taxpayer Advocate from taking any action in the absence of an application under subsection (a).
+- **(f)** For purposes of this section, the term “National Taxpayer Advocate” includes any designee of the National Taxpayer Advocate.
+- **(g)** Any order issued or action taken by the National Taxpayer Advocate pursuant to this section shall apply to persons performing services under a qualified tax collection contract (as defined in section 6306(b)) to the same extent and in the same manner as such order or action applies to the Secretary.

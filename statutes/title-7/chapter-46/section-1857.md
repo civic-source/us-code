@@ -5,7 +5,7 @@ usc_section: "1857"
 chapter: 46
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1857"
-generated_at: "2026-03-29T00:28:58.058Z"
+generated_at: "2026-03-29T02:10:16.863Z"
 ---
 
 # § 1857. Repealed. Pub. L. 104–127, title II, § 274 , Apr. 4, 1996 , 110 Stat. 976

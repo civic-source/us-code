@@ -5,21 +5,21 @@ usc_section: "4581"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4581"
-generated_at: "2026-03-29T00:29:16.835Z"
+generated_at: "2026-03-29T02:11:21.207Z"
 ---
 
 # § 4581. Cease and desist proceedings
 
-(a) The Director may issue and serve a notice of charges under this section upon an enterprise if the Director determines that—
-  (1) the enterprise has failed to submit a report under section 4547 1 1 See References in Text note below. of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
-  (2) the enterprise has failed to submit the information required under subsection (m) or (n) of section 1723a of this title , or subsection (e) or (f) of section 1456 of this title ;
-  (3) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, the enterprise has failed to submit a housing plan that complies with section 4566(c) of this title within the applicable period; or
-  (4) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, the enterprise has failed to comply with a housing plan under section 4566(c) of this title .
-(b) 
-  (1) Each notice of charges issued under this section shall contain a statement of the facts constituting the alleged conduct and shall fix a time and place at which a hearing will be held to determine on the record whether an order to cease and desist from such conduct should issue.
-  (2) If the Director finds on the record made at a hearing described in paragraph (1) that any conduct specified in the notice of charges has been established (or the enterprise consents pursuant to section 4582(a)(4) of this title ), the Director may issue and serve upon the enterprise an order requiring the enterprise to—
-    (A) submit a report under section 4547 1 of this title;
-    (B) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, submit a housing plan in compliance with section 4566(c) of this title ;
-    (C) solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, comply with the housing plan in compliance with section 4566(c) of this title ; or
-    (D) provide the information required under subsection (m) or (n) of section 1723a of this title , or subsection (e) or (f) of section 1456 of this title .
-(c) An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
+- **(a)** The Director may issue and serve a notice of charges under this section upon an enterprise if the Director determines that—
+  - **(1)** the enterprise has failed to submit a report under section 4547 1 1 See References in Text note below. of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
+  - **(2)** the enterprise has failed to submit the information required under subsection (m) or (n) of section 1723a of this title , or subsection (e) or (f) of section 1456 of this title ;
+  - **(3)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, the enterprise has failed to submit a housing plan that complies with section 4566(c) of this title within the applicable period; or
+  - **(4)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, the enterprise has failed to comply with a housing plan under section 4566(c) of this title .
+- **(b)**
+  - **(1)** Each notice of charges issued under this section shall contain a statement of the facts constituting the alleged conduct and shall fix a time and place at which a hearing will be held to determine on the record whether an order to cease and desist from such conduct should issue.
+  - **(2)** If the Director finds on the record made at a hearing described in paragraph (1) that any conduct specified in the notice of charges has been established (or the enterprise consents pursuant to section 4582(a)(4) of this title ), the Director may issue and serve upon the enterprise an order requiring the enterprise to—
+    - **(A)** submit a report under section 4547 1 of this title;
+    - **(B)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, submit a housing plan in compliance with section 4566(c) of this title ;
+    - **(C)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, comply with the housing plan in compliance with section 4566(c) of this title ; or
+    - **(D)** provide the information required under subsection (m) or (n) of section 1723a of this title , or subsection (e) or (f) of section 1456 of this title .
+- **(c)** An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.

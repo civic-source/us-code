@@ -5,10 +5,10 @@ usc_section: "41308"
 chapter: 413
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 41308"
-generated_at: "2026-03-29T00:33:02.913Z"
+generated_at: "2026-03-29T02:15:53.754Z"
 ---
 
 # § 41308. Enforcement of subpoenas and orders
 
-(a) If a person does not comply with a subpoena or order of the Federal Maritime Commission, the Attorney General, at the request of the Commission, or an injured party, may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the subpoena or order was regularly made and duly issued, the court shall enforce the subpoena or order.
-(b) An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.
+- **(a)** If a person does not comply with a subpoena or order of the Federal Maritime Commission, the Attorney General, at the request of the Commission, or an injured party, may seek enforcement in a district court of the United States having jurisdiction over the parties. If, after hearing, the court determines that the subpoena or order was regularly made and duly issued, the court shall enforce the subpoena or order.
+- **(b)** An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.

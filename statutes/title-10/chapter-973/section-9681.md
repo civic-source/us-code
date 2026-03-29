@@ -5,7 +5,7 @@ usc_section: "9681"
 chapter: 973
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9681"
-generated_at: "2026-03-29T00:20:53.267Z"
+generated_at: "2026-03-29T02:10:45.353Z"
 ---
 
 # [§ 9681. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(D) , Dec. 23, 2016 , 130 Stat. 2532 ]

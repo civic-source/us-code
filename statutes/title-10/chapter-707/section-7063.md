@@ -5,24 +5,24 @@ usc_section: "7063"
 chapter: 707
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7063"
-generated_at: "2026-03-29T00:20:53.192Z"
+generated_at: "2026-03-29T02:10:45.271Z"
 ---
 
 # § 7063. Basic branches
 
-(a) The Secretary of the Army may assign members of the Army to its basic branches. The basic branches are—
-  (1) Infantry;
-  (2) Armor;
-  (3) Artillery;
-  (4) Corps of Engineers;
-  (5) Signal Corps;
-  (6) Adjutant General’s Corps;
-  (7) Quartermaster Corps;
-  (8) Finance Corps;
-  (9) Ordnance Corps;
-  (10) Chemical Corps;
-  (11) Transportation Corps;
-  (12) Military Police Corps; and
-  (13) such other basic branches as the Secretary considers necessary.
-(b) The Secretary may discontinue or consolidate basic branches of the Army for the duration of any war, or of any national emergency declared by Congress.
-(c) The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.
+- **(a)** The Secretary of the Army may assign members of the Army to its basic branches. The basic branches are—
+  - **(1)** Infantry;
+  - **(2)** Armor;
+  - **(3)** Artillery;
+  - **(4)** Corps of Engineers;
+  - **(5)** Signal Corps;
+  - **(6)** Adjutant General’s Corps;
+  - **(7)** Quartermaster Corps;
+  - **(8)** Finance Corps;
+  - **(9)** Ordnance Corps;
+  - **(10)** Chemical Corps;
+  - **(11)** Transportation Corps;
+  - **(12)** Military Police Corps; and
+  - **(13)** such other basic branches as the Secretary considers necessary.
+- **(b)** The Secretary may discontinue or consolidate basic branches of the Army for the duration of any war, or of any national emergency declared by Congress.
+- **(c)** The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.

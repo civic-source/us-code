@@ -5,10 +5,10 @@ usc_section: "1904"
 chapter: 21
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1904"
-generated_at: "2026-03-29T00:31:27.692Z"
+generated_at: "2026-03-29T02:14:09.487Z"
 ---
 
 # § 1904. Authorization of appropriations
 
-(a) There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
-(b) Any appropriation Act containing any appropriation authorized by subsection (a) shall contain a statement of the specific amount being made available to the Center.
+- **(a)** There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
+- **(b)** Any appropriation Act containing any appropriation authorized by subsection (a) shall contain a statement of the specific amount being made available to the Center.

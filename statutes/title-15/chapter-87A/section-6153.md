@@ -5,7 +5,7 @@ usc_section: "6153"
 chapter: 87
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 6153"
-generated_at: "2026-03-29T00:29:41.884Z"
+generated_at: "2026-03-29T02:11:34.389Z"
 ---
 
 # § 6153. Federal Communications Commission do-not-call regulations

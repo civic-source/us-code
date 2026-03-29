@@ -5,7 +5,7 @@ usc_section: "2393a"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2393a"
-generated_at: "2026-03-29T00:30:33.802Z"
+generated_at: "2026-03-29T02:12:40.076Z"
 ---
 
 # § 2393a. Requests by Government Accountability Office and Congressional committees for documents and materials

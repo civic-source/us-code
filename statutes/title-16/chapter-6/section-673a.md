@@ -5,7 +5,7 @@ usc_section: "673a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 673a"
-generated_at: "2026-03-29T00:29:52.599Z"
+generated_at: "2026-03-29T02:11:53.640Z"
 ---
 
 # § 673a. Addition to the Wyoming Elk Reserve

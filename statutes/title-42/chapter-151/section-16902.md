@@ -5,7 +5,7 @@ usc_section: "16902"
 chapter: 151
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16902"
-generated_at: "2026-03-29T00:32:54.416Z"
+generated_at: "2026-03-29T02:15:37.375Z"
 ---
 
 # § 16902. Transferred

@@ -5,18 +5,18 @@ usc_section: "4725"
 chapter: 73
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4725"
-generated_at: "2026-03-29T00:29:41.869Z"
+generated_at: "2026-03-29T02:11:34.373Z"
 ---
 
 # § 4725. United States and Foreign Commercial Service Pacific Rim initiative
 
-(a) In order to encourage the export of United States goods and services to Japan, South Korea, and Taiwan, the United States and Foreign Commercial Service shall make a special effort to—
-  (1) identify United States goods and services which are not being exported to the markets of Japan, South Korea, and Taiwan but which could be exported to these markets under competitive market conditions;
-  (2) identify and notify United States persons who sell or provide such goods or services of potential opportunities identified under paragraph (1);
-  (3) present, periodically, a list of the goods and services identified under paragraph (1), together with a list of any impediments to the export of such goods and services, to appropriate authorities in Japan, South Korea, and Taiwan, with a view toward liberalizing markets to such goods and services;
-  (4) facilitate the entrance into such markets by United States persons identified and notified under paragraph (2); and
-  (5) monitor and evaluate the results of efforts to increase the sale of goods and services in such markets.
-(b) The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a).
-(c) As used in this section, the term “United States person” means—
-  (1) a United States citizen; or
-  (2) a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
+- **(a)** In order to encourage the export of United States goods and services to Japan, South Korea, and Taiwan, the United States and Foreign Commercial Service shall make a special effort to—
+  - **(1)** identify United States goods and services which are not being exported to the markets of Japan, South Korea, and Taiwan but which could be exported to these markets under competitive market conditions;
+  - **(2)** identify and notify United States persons who sell or provide such goods or services of potential opportunities identified under paragraph (1);
+  - **(3)** present, periodically, a list of the goods and services identified under paragraph (1), together with a list of any impediments to the export of such goods and services, to appropriate authorities in Japan, South Korea, and Taiwan, with a view toward liberalizing markets to such goods and services;
+  - **(4)** facilitate the entrance into such markets by United States persons identified and notified under paragraph (2); and
+  - **(5)** monitor and evaluate the results of efforts to increase the sale of goods and services in such markets.
+- **(b)** The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a).
+- **(c)** As used in this section, the term “United States person” means—
+  - **(1)** a United States citizen; or
+  - **(2)** a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).

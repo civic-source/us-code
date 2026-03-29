@@ -5,7 +5,7 @@ usc_section: "2982c"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2982c"
-generated_at: "2026-03-29T00:32:53.790Z"
+generated_at: "2026-03-29T02:15:36.622Z"
 ---
 
 # §§ 2982 to 2982c. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

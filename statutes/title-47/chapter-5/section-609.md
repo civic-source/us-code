@@ -5,7 +5,7 @@ usc_section: "609"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 609"
-generated_at: "2026-03-29T00:33:04.928Z"
+generated_at: "2026-03-29T02:15:59.244Z"
 ---
 
 # § 609. Short title

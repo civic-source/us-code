@@ -1,0 +1,19 @@
+---
+title: "Section 20502 - Purposes"
+usc_title: 36
+usc_section: "20502"
+chapter: 205
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 20502"
+generated_at: "2026-03-29T02:14:41.340Z"
+---
+
+# § 20502. Purposes
+
+The purposes of the corporation are—
+
+  - **(1)** to encourage in the broadest and most liberal manner the advancement of chemistry in all its branches;
+  - **(2)** to promote research in chemical science and industry;
+  - **(3)** to improve the qualifications and usefulness of chemists through high standards of professional ethics, education, and attainments;
+  - **(4)** to increase and diffuse chemical knowledge; and
+  - **(5)** by its meetings, professional contacts, reports, papers, discussions, and publications, to promote scientific interests and inquiry to foster public welfare and education, aid the development of our country’s industries, and add to the material prosperity and happiness of our people.

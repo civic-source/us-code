@@ -5,7 +5,7 @@ usc_section: "511k"
 chapter: 21
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 511k"
-generated_at: "2026-03-29T00:28:57.942Z"
+generated_at: "2026-03-29T02:10:16.731Z"
 ---
 
 # § 511k. Penalty for violations

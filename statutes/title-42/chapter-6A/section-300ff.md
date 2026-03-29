@@ -5,7 +5,7 @@ usc_section: "300ff"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 300ff"
-generated_at: "2026-03-29T00:32:53.109Z"
+generated_at: "2026-03-29T02:15:35.871Z"
 ---
 
 # § 300ff. Purpose

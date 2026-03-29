@@ -5,16 +5,16 @@ usc_section: "893"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 893"
-generated_at: "2026-03-29T00:31:20.838Z"
+generated_at: "2026-03-29T02:14:01.071Z"
 ---
 
 # § 893. Compensation of employees of foreign governments or international organizations
 
-(a) Wages, fees, or salary of any employee of a foreign government or of an international organization (including a consular or other officer, or a nondiplomatic representative), received as compensation for official services to such government or international organization shall not be included in gross income and shall be exempt from taxation under this subtitle if—
-  (1) such employee is not a citizen of the United States, or is a citizen of the Republic of the Philippines (whether or not a citizen of the United States); and
-  (2) in the case of an employee of a foreign government, the services are of a character similar to those performed by employees of the Government of the United States in foreign countries; and
-  (3) in the case of an employee of a foreign government, the foreign government grants an equivalent exemption to employees of the Government of the United States performing similar services in such foreign country.
-(b) The Secretary of State shall certify to the Secretary of the Treasury the names of the foreign countries which grant an equivalent exemption to the employees of the Government of the United States performing services in such foreign countries, and the character of the services performed by employees of the Government of the United States in foreign countries.
-(c) Subsection (a) shall not apply to—
-  (1) any employee of a controlled commercial entity (as defined in section 892(a)(2)(B)), or
-  (2) any employee of a foreign government whose services are primarily in connection with a commercial activity (whether within or outside the United States) of the foreign government.
+- **(a)** Wages, fees, or salary of any employee of a foreign government or of an international organization (including a consular or other officer, or a nondiplomatic representative), received as compensation for official services to such government or international organization shall not be included in gross income and shall be exempt from taxation under this subtitle if—
+  - **(1)** such employee is not a citizen of the United States, or is a citizen of the Republic of the Philippines (whether or not a citizen of the United States); and
+  - **(2)** in the case of an employee of a foreign government, the services are of a character similar to those performed by employees of the Government of the United States in foreign countries; and
+  - **(3)** in the case of an employee of a foreign government, the foreign government grants an equivalent exemption to employees of the Government of the United States performing similar services in such foreign country.
+- **(b)** The Secretary of State shall certify to the Secretary of the Treasury the names of the foreign countries which grant an equivalent exemption to the employees of the Government of the United States performing services in such foreign countries, and the character of the services performed by employees of the Government of the United States in foreign countries.
+- **(c)** Subsection (a) shall not apply to—
+  - **(1)** any employee of a controlled commercial entity (as defined in section 892(a)(2)(B)), or
+  - **(2)** any employee of a foreign government whose services are primarily in connection with a commercial activity (whether within or outside the United States) of the foreign government.

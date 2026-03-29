@@ -5,7 +5,7 @@ usc_section: "9204"
 chapter: 73
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9204"
-generated_at: "2026-03-29T00:07:03.200Z"
+generated_at: "2026-03-29T02:12:17.517Z"
 ---
 
 # §§ 9201 to 9204. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

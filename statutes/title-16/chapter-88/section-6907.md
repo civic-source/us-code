@@ -5,23 +5,23 @@ usc_section: "6907"
 chapter: 88
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6907"
-generated_at: "2026-03-29T00:29:52.875Z"
+generated_at: "2026-03-29T02:11:53.988Z"
 ---
 
 # § 6907. Cooperation in carrying out convention
 
-(a) The Secretary may cooperate with agencies of the United States government, 1 1 So in original. Probably should be capitalized. any public or private institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
-(b) All Federal agencies are authorized, upon the request of the Secretary, to cooperate in the conduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
-(c) Nothing in this chapter, or in the laws or regulations of any State, prevents the Secretary or the Commission from—
-  (1) conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
-  (2) discharging any other duties prescribed by the WCPFC Convention.
-(d) Except as provided in subsection (e) of this section, nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
-(e) 
-  (1) Regulations promulgated under section 6905(a) of this title shall apply within the boundaries of any State bordering on the Convention area if the Secretary has provided notice to such State, the State does not request an agency hearing, and the Secretary determines that the State—
-    (A) has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations that implement the recommendations of the Commission within the boundaries of such State; or
-    (B) has enacted laws or promulgated regulations that implement the recommendations of the commission within the boundaries of such State that—
-      (i) are less restrictive that 2 2 So in original. Probably should be “than”. the regulations promulgated under section 6905(a) of this title ; or
-      (ii) are not effectively enforced.
-  (2) The regulations promulgated pursuant to section 6905(a) of this title shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures that are not less restrictive than the regulations promulgated under section 6905(a) of this title .
-  (3) If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant 3 3 So in original. Probably should be followed by “to”. section 6905(a) of this title within that State’s boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
-(f) To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
+- **(a)** The Secretary may cooperate with agencies of the United States government, 1 1 So in original. Probably should be capitalized. any public or private institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
+- **(b)** All Federal agencies are authorized, upon the request of the Secretary, to cooperate in the conduct of scientific and other programs and to furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the WCPFC Convention.
+- **(c)** Nothing in this chapter, or in the laws or regulations of any State, prevents the Secretary or the Commission from—
+  - **(1)** conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
+  - **(2)** discharging any other duties prescribed by the WCPFC Convention.
+- **(d)** Except as provided in subsection (e) of this section, nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
+- **(e)**
+  - **(1)** Regulations promulgated under section 6905(a) of this title shall apply within the boundaries of any State bordering on the Convention area if the Secretary has provided notice to such State, the State does not request an agency hearing, and the Secretary determines that the State—
+    - **(A)** has not, within a reasonable period of time after the promulgation of regulations pursuant to this chapter, enacted laws or promulgated regulations that implement the recommendations of the Commission within the boundaries of such State; or
+    - **(B)** has enacted laws or promulgated regulations that implement the recommendations of the commission within the boundaries of such State that—
+      - **(i)** are less restrictive that 2 2 So in original. Probably should be “than”. the regulations promulgated under section 6905(a) of this title ; or
+      - **(ii)** are not effectively enforced.
+  - **(2)** The regulations promulgated pursuant to section 6905(a) of this title shall apply until the Secretary determines that the State is effectively enforcing within its boundaries measures that are not less restrictive than the regulations promulgated under section 6905(a) of this title .
+  - **(3)** If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant 3 3 So in original. Probably should be followed by “to”. section 6905(a) of this title within that State’s boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
+- **(f)** To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.

@@ -5,12 +5,12 @@ usc_section: "40706"
 chapter: 407
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 40706"
-generated_at: "2026-03-29T00:33:02.910Z"
+generated_at: "2026-03-29T02:15:53.752Z"
 ---
 
 # § 40706. Exceptions
 
 This chapter does not apply to—
 
-  (1) a controlled carrier of a foreign country whose vessels are entitled by a treaty of the United States to receive national or most-favored-nation treatment; or
-  (2) a trade served only by controlled carriers.
+  - **(1)** a controlled carrier of a foreign country whose vessels are entitled by a treaty of the United States to receive national or most-favored-nation treatment; or
+  - **(2)** a trade served only by controlled carriers.

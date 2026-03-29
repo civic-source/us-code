@@ -5,12 +5,12 @@ usc_section: "12871"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12871"
-generated_at: "2026-03-29T00:32:54.300Z"
+generated_at: "2026-03-29T02:15:37.238Z"
 ---
 
 # § 12871. Program authority
 
-(a) The Secretary is authorized to make—
-  (1) planning grants to enable applicants to develop homeownership programs; and
-  (2) implementation grants to enable applicants to carry out homeownership programs.
-(b) In connection with a grant under this part, the Secretary may reserve authority to provide assistance under section 1437f of this title to the extent necessary to provide rental assistance for a nonpurchasing tenant who resides in the project on the date the Secretary approves the application for an implementation grant, for use by the tenant in another project.
+- **(a)** The Secretary is authorized to make—
+  - **(1)** planning grants to enable applicants to develop homeownership programs; and
+  - **(2)** implementation grants to enable applicants to carry out homeownership programs.
+- **(b)** In connection with a grant under this part, the Secretary may reserve authority to provide assistance under section 1437f of this title to the extent necessary to provide rental assistance for a nonpurchasing tenant who resides in the project on the date the Secretary approves the application for an implementation grant, for use by the tenant in another project.

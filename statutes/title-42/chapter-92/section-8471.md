@@ -5,12 +5,12 @@ usc_section: "8471"
 chapter: 92
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8471"
-generated_at: "2026-03-29T00:32:54.126Z"
+generated_at: "2026-03-29T02:15:37.025Z"
 ---
 
 # § 8471. Effect on environmental requirements
 
-(a) Except as provided in section 8374 of this title , nothing in this chapter shall be construed as permitting any existing or new electric powerplant to delay or avoid compliance with applicable environmental requirements.
-(b) In the case of any new or existing facility—
-  (1) which is subject to any prohibition under this chapter, and
-  (2) which is also subject to any requirement of any local environmental requirement which may be stricter than any Federal or State environmental requirement,
+- **(a)** Except as provided in section 8374 of this title , nothing in this chapter shall be construed as permitting any existing or new electric powerplant to delay or avoid compliance with applicable environmental requirements.
+- **(b)** In the case of any new or existing facility—
+  - **(1)** which is subject to any prohibition under this chapter, and
+  - **(2)** which is also subject to any requirement of any local environmental requirement which may be stricter than any Federal or State environmental requirement,

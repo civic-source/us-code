@@ -5,12 +5,12 @@ usc_section: "2511"
 chapter: 25
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2511"
-generated_at: "2026-03-29T00:29:25.020Z"
+generated_at: "2026-03-29T02:11:23.801Z"
 ---
 
 # § 2511. Investigations of flag officers and Senior Executive Service employees
 
 In conducting an investigation into an allegation of misconduct by a flag officer or member of the Senior Executive Service serving in the Coast Guard, the Inspector General of the Department of Homeland Security shall—
 
-  (1) conduct the investigation in a manner consistent with Department of Defense policies for such an investigation; and
-  (2) consult with the Inspector General of the Department of Defense.
+  - **(1)** conduct the investigation in a manner consistent with Department of Defense policies for such an investigation; and
+  - **(2)** consult with the Inspector General of the Department of Defense.

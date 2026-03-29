@@ -5,12 +5,12 @@ usc_section: "5398"
 chapter: 46
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 5398"
-generated_at: "2026-03-29T00:30:38.805Z"
+generated_at: "2026-03-29T02:13:21.020Z"
 ---
 
 # § 5398. Appeals
 
 In any appeal (including civil actions) involving decisions made by the Secretary under this subchapter, the Secretary shall have the burden of proof of demonstrating by clear and convincing evidence—
 
-  (1) the validity of the grounds for the decision made; and
-  (2) that the decision is fully consistent with provisions and policies of this subchapter.
+  - **(1)** the validity of the grounds for the decision made; and
+  - **(2)** that the decision is fully consistent with provisions and policies of this subchapter.

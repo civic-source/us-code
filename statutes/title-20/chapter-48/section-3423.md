@@ -5,7 +5,7 @@ usc_section: "3423"
 chapter: 48
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 3423"
-generated_at: "2026-03-29T00:07:03.162Z"
+generated_at: "2026-03-29T02:12:17.393Z"
 ---
 
 # § 3423. Repealed. Pub. L. 101–392, title VI, § 602(a)(1) , Sept. 25, 1990 , 104 Stat. 840

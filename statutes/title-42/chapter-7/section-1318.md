@@ -5,7 +5,7 @@ usc_section: "1318"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1318"
-generated_at: "2026-03-29T00:32:53.290Z"
+generated_at: "2026-03-29T02:15:36.067Z"
 ---
 
 # § 1318. Alternative Federal payment with respect to public assistance expenditures

@@ -5,7 +5,7 @@ usc_section: "7251"
 chapter: 72
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 7251"
-generated_at: "2026-03-29T00:32:17.319Z"
+generated_at: "2026-03-29T02:14:50.465Z"
 ---
 
 # § 7251. Status

@@ -5,67 +5,67 @@ usc_section: "10222"
 chapter: 109
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10222"
-generated_at: "2026-03-29T00:30:34.071Z"
+generated_at: "2026-03-29T02:12:40.520Z"
 ---
 
 # § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma
 
-(a) Not later than 180 days after December 23, 2022 , the President shall impose the sanctions described in subsection (d) with respect to any foreign person that the President determines—
-  (1) is a senior official of—
-    (A) the Burmese military or security forces of Burma;
-    (B) the State Administration Council, the military-appointed cabinet at the level of Deputy Minister or higher, or a military-appointed minister of a Burmese state or region; or
-    (C) an entity that primarily operates in the defense sector of the Burmese economy; or
-  (2) is a Burmese state-owned commercial enterprise (other than an entity described in subsections (c)(1) and (c)(2)) that—
-    (A) is operating in the industrial or extractive sectors; and
-    (B) significantly financially benefits the Burmese military.
-(b) The Secretary of the Treasury may, in consultation with the Secretary of State, prohibit or impose strict conditions on the opening or maintaining in the United States of a correspondent account or payable-through account by a foreign financial institution that the President determines has, on or after December 23, 2022 , knowingly conducted or facilitated a significant transaction or transactions on behalf of a foreign person subject to sanctions under this section imposed pursuant to subsection (a).
-(c) The President may impose the sanctions described in subsection (d) with respect to—
-  (1) the Myanma Oil and Gas Enterprise;
-  (2) any Burmese state-owned enterprise that—
-    (A) is not operating in the industrial or extractive sectors; and
-    (B) significantly financially benefits the Burmese military;
-  (3) a spouse or adult child of any person described in subsection (a)(1);
-  (4) any foreign person that, leading up to, during, and since the February 1, 2021 , coup d’etat in Burma, is responsible for or has directly and knowingly engaged in—
-    (A) actions or policies that significantly undermine democratic processes or institutions in Burma;
-    (B) actions or policies that significantly threaten the peace, security, or stability of Burma;
-    (C) actions or policies by a Burmese person that—
-      (i) significantly prohibit, limit, or penalize the exercise of freedom of expression or assembly by people in Burma; or
-      (ii) limit access to print, online, or broadcast media in Burma; or
-    (D) the orchestration of arbitrary detention or torture in Burma or other serious human rights abuses in Burma; or
-  (5) any Burmese entity that provides materiel to the Burmese military.
-(d) The sanctions described in this subsection are the following:
-  (1) The President may exercise all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-  (2) The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign person has any interest.
-  (3) 
-    (A) An alien who is described in subsection (a) or (c) is—
-      (i) inadmissible to the United States;
-      (ii) ineligible for a visa or other documentation to enter the United States; and
-      (iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
-    (B) 
-      (i) The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) ), revoke any visa or other entry documentation issued to an alien described in subparagraph (A) regardless of when the visa or other entry documentation is issued.
-      (ii) A revocation under clause (i)—
-        (I) shall take effect immediately; and
-        (II) shall automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
-(e) 
-  (1) Not later than 180 days after December 23, 2022 , the President shall conduct an assessment with respect to the Burmese state-owned enterprise described in subsection (c)(1), including relevant factors pertaining to the possible application of sanctions on such enterprise.
-  (2) Upon making the determination required by paragraph (1), the President shall submit to the appropriate congressional committees a report on the assessment.
-  (3) The report required by paragraph (2) shall be submitted in unclassified form but may include a classified annex.
-(f) 
-  (1) Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
-  (2) Sanctions under subsection (d)(3) shall not apply with respect to the admission of an alien if admitting or paroling the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations.
-  (3) Sanctions under this section may not be imposed with respect to transactions or the facilitation of transactions for—
-    (A) the sale of agricultural commodities, food, medicine, or medical devices to Burma;
-    (B) the provision of humanitarian assistance to the people of Burma;
-    (C) financial transactions relating to humanitarian assistance or for humanitarian purposes in Burma; or
-    (D) transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes in Burma.
-  (4) Sanctions under this section shall not be imposed with respect to transactions or the facilitation of transactions related to the disposition of investments pursuant to—
-    (A) agreements entered into between United States persons and the Government of Burma prior to May 21, 1997 ;
-    (B) the exercise of rights pursuant to such agreements; or
-    (C) transactions related to the subsequent operation of the assets encompassed by such disposed investments.
-(g) The President may, on a case-by-case basis waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees at the time such waiver is to take effect that the waiver is in the national interest of the United States.
-(h) 
-  (1) The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out this section.
-  (2) The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act [ 50 U.S.C. 1705(a) ].
-(i) Not later than 90 days after December 23, 2022 , and annually thereafter for 8 years, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a classified report that—
-  (1) describes the primary sources of income to which the Burmese military has access and that the United States has been unable to reach using sanctions authorities; and
-  (2) assesses the impact of the sanctions imposed pursuant to the authorities under this section on the Burmese people and the Burmese military.
+- **(a)** Not later than 180 days after December 23, 2022 , the President shall impose the sanctions described in subsection (d) with respect to any foreign person that the President determines—
+  - **(1)** is a senior official of—
+    - **(A)** the Burmese military or security forces of Burma;
+    - **(B)** the State Administration Council, the military-appointed cabinet at the level of Deputy Minister or higher, or a military-appointed minister of a Burmese state or region; or
+    - **(C)** an entity that primarily operates in the defense sector of the Burmese economy; or
+  - **(2)** is a Burmese state-owned commercial enterprise (other than an entity described in subsections (c)(1) and (c)(2)) that—
+    - **(A)** is operating in the industrial or extractive sectors; and
+    - **(B)** significantly financially benefits the Burmese military.
+- **(b)** The Secretary of the Treasury may, in consultation with the Secretary of State, prohibit or impose strict conditions on the opening or maintaining in the United States of a correspondent account or payable-through account by a foreign financial institution that the President determines has, on or after December 23, 2022 , knowingly conducted or facilitated a significant transaction or transactions on behalf of a foreign person subject to sanctions under this section imposed pursuant to subsection (a).
+- **(c)** The President may impose the sanctions described in subsection (d) with respect to—
+  - **(1)** the Myanma Oil and Gas Enterprise;
+  - **(2)** any Burmese state-owned enterprise that—
+    - **(A)** is not operating in the industrial or extractive sectors; and
+    - **(B)** significantly financially benefits the Burmese military;
+  - **(3)** a spouse or adult child of any person described in subsection (a)(1);
+  - **(4)** any foreign person that, leading up to, during, and since the February 1, 2021 , coup d’etat in Burma, is responsible for or has directly and knowingly engaged in—
+    - **(A)** actions or policies that significantly undermine democratic processes or institutions in Burma;
+    - **(B)** actions or policies that significantly threaten the peace, security, or stability of Burma;
+    - **(C)** actions or policies by a Burmese person that—
+      - **(i)** significantly prohibit, limit, or penalize the exercise of freedom of expression or assembly by people in Burma; or
+      - **(ii)** limit access to print, online, or broadcast media in Burma; or
+    - **(D)** the orchestration of arbitrary detention or torture in Burma or other serious human rights abuses in Burma; or
+  - **(5)** any Burmese entity that provides materiel to the Burmese military.
+- **(d)** The sanctions described in this subsection are the following:
+  - **(1)** The President may exercise all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+  - **(2)** The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the foreign person has any interest.
+  - **(3)**
+    - **(A)** An alien who is described in subsection (a) or (c) is—
+      - **(i)** inadmissible to the United States;
+      - **(ii)** ineligible for a visa or other documentation to enter the United States; and
+      - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
+    - **(B)**
+      - **(i)** The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) ), revoke any visa or other entry documentation issued to an alien described in subparagraph (A) regardless of when the visa or other entry documentation is issued.
+      - **(ii)** A revocation under clause (i)—
+        - **(I)** shall take effect immediately; and
+        - **(II)** shall automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
+- **(e)**
+  - **(1)** Not later than 180 days after December 23, 2022 , the President shall conduct an assessment with respect to the Burmese state-owned enterprise described in subsection (c)(1), including relevant factors pertaining to the possible application of sanctions on such enterprise.
+  - **(2)** Upon making the determination required by paragraph (1), the President shall submit to the appropriate congressional committees a report on the assessment.
+  - **(3)** The report required by paragraph (2) shall be submitted in unclassified form but may include a classified annex.
+- **(f)**
+  - **(1)** Sanctions under this section shall not apply to any authorized intelligence, law enforcement, or national security activities of the United States.
+  - **(2)** Sanctions under subsection (d)(3) shall not apply with respect to the admission of an alien if admitting or paroling the alien into the United States is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947 , and entered into force November 21, 1947 , between the United Nations and the United States, or other applicable international obligations.
+  - **(3)** Sanctions under this section may not be imposed with respect to transactions or the facilitation of transactions for—
+    - **(A)** the sale of agricultural commodities, food, medicine, or medical devices to Burma;
+    - **(B)** the provision of humanitarian assistance to the people of Burma;
+    - **(C)** financial transactions relating to humanitarian assistance or for humanitarian purposes in Burma; or
+    - **(D)** transporting goods or services that are necessary to carry out operations relating to humanitarian assistance or humanitarian purposes in Burma.
+  - **(4)** Sanctions under this section shall not be imposed with respect to transactions or the facilitation of transactions related to the disposition of investments pursuant to—
+    - **(A)** agreements entered into between United States persons and the Government of Burma prior to May 21, 1997 ;
+    - **(B)** the exercise of rights pursuant to such agreements; or
+    - **(C)** transactions related to the subsequent operation of the assets encompassed by such disposed investments.
+- **(g)** The President may, on a case-by-case basis waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees at the time such waiver is to take effect that the waiver is in the national interest of the United States.
+- **(h)**
+  - **(1)** The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1702 and 1704) to carry out this section.
+  - **(2)** The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act ( 50 U.S.C. 1705 ) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated under this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act [ 50 U.S.C. 1705(a) ].
+- **(i)** Not later than 90 days after December 23, 2022 , and annually thereafter for 8 years, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a classified report that—
+  - **(1)** describes the primary sources of income to which the Burmese military has access and that the United States has been unable to reach using sanctions authorities; and
+  - **(2)** assesses the impact of the sanctions imposed pursuant to the authorities under this section on the Burmese people and the Burmese military.

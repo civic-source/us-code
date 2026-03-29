@@ -5,13 +5,13 @@ usc_section: "9777"
 chapter: 979
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9777"
-generated_at: "2026-03-29T00:20:53.268Z"
+generated_at: "2026-03-29T02:10:45.354Z"
 ---
 
 # § 9777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
 
 Whenever the Secretary of the Air Force considers that it can be done without injury to the reservation or inconvenience to the military forces stationed there, he may permit—
 
-  (1) the landing of ferries at a military reservation;
-  (2) the erection of bridges on a military reservation; and
-  (3) the driving of livestock across a military reservation.
+  - **(1)** the landing of ferries at a military reservation;
+  - **(2)** the erection of bridges on a military reservation; and
+  - **(3)** the driving of livestock across a military reservation.

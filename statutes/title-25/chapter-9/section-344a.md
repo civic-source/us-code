@@ -5,7 +5,7 @@ usc_section: "344a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 344a"
-generated_at: "2026-03-29T00:30:38.632Z"
+generated_at: "2026-03-29T02:13:20.850Z"
 ---
 
 # § 344a. Repealed. Act Nov. 24, 1942, ch. 640, § 4 , 56 Stat. 1022

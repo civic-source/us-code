@@ -5,15 +5,15 @@ usc_section: "9522"
 chapter: 120
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 9522"
-generated_at: "2026-03-29T00:29:42.005Z"
+generated_at: "2026-03-29T02:11:34.502Z"
 ---
 
 # § 9522. Purpose
 
 The purpose of the MBDA Business Center Program shall be to create a national network of public-private partnerships that—
 
-  (1) assist minority business enterprises in—
-    (A) accessing capital, contracts, and grants; and
-    (B) creating and maintaining jobs;
-  (2) provide counseling and mentoring to minority business enterprises; and
-  (3) facilitate the growth of minority business enterprises by promoting trade.
+  - **(1)** assist minority business enterprises in—
+    - **(A)** accessing capital, contracts, and grants; and
+    - **(B)** creating and maintaining jobs;
+  - **(2)** provide counseling and mentoring to minority business enterprises; and
+  - **(3)** facilitate the growth of minority business enterprises by promoting trade.

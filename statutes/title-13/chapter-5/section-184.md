@@ -5,12 +5,12 @@ usc_section: "184"
 chapter: 5
 current_through: "PL 119-73"
 classification: "13 U.S.C. § 184"
-generated_at: "2026-03-29T00:06:54.839Z"
+generated_at: "2026-03-29T02:11:22.194Z"
 ---
 
 # § 184. Definitions
 
 For purposes of this subchapter—
 
-  (1) the term “local unit of general purpose government” means the government of a county, municipality, township, Indian tribe, Alaskan native village, or other unit of government (other than a State) which is a unit of general government, and
-  (2) the term “State” includes the District of Columbia.
+  - **(1)** the term “local unit of general purpose government” means the government of a county, municipality, township, Indian tribe, Alaskan native village, or other unit of government (other than a State) which is a unit of general government, and
+  - **(2)** the term “State” includes the District of Columbia.

@@ -5,11 +5,11 @@ usc_section: "460xx"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 460xx"
-generated_at: "2026-03-29T00:29:52.496Z"
+generated_at: "2026-03-29T02:11:53.524Z"
 ---
 
 # § 460xx. Establishment
 
-(a) In order to protect the riparian area and the aquatic, wildlife, archeological, paleontological, scientific, cultural, educational, and recreational resources of the public lands surrounding the San Pedro River in Cochise County, Arizona, there is hereby established the San Pedro Riparian National Conservation Area (hereafter in this subchapter referred to as the “conservation area”).
-(b) The conservation area shall consist of public lands as generally depicted on a map entitled “San Pedro Riparian National Conservation Area—Proposed” numbered AZ–040–OZ, dated January 1988, and consisting of approximately 56,431 acres.
-(c) As soon as is practicable after November 18, 1988 , a map and legal description of the conservation area shall be filed by the Secretary of the Interior (hereafter in this subchapter referred to as the “Secretary”) with the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Each such map shall have the same force and effect as if included in this subchapter. Such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the Bureau of Land Management offices of the State Director for Arizona, and the district office responsible for the management of the conservation area.
+- **(a)** In order to protect the riparian area and the aquatic, wildlife, archeological, paleontological, scientific, cultural, educational, and recreational resources of the public lands surrounding the San Pedro River in Cochise County, Arizona, there is hereby established the San Pedro Riparian National Conservation Area (hereafter in this subchapter referred to as the “conservation area”).
+- **(b)** The conservation area shall consist of public lands as generally depicted on a map entitled “San Pedro Riparian National Conservation Area—Proposed” numbered AZ–040–OZ, dated January 1988, and consisting of approximately 56,431 acres.
+- **(c)** As soon as is practicable after November 18, 1988 , a map and legal description of the conservation area shall be filed by the Secretary of the Interior (hereafter in this subchapter referred to as the “Secretary”) with the Committee on Interior and Insular Affairs of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate. Each such map shall have the same force and effect as if included in this subchapter. Such map shall be on file and available for public inspection in the Office of the Director of the Bureau of Land Management, Department of the Interior, and in the Bureau of Land Management offices of the State Director for Arizona, and the district office responsible for the management of the conservation area.

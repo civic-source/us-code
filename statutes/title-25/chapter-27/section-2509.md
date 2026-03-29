@@ -5,7 +5,7 @@ usc_section: "2509"
 chapter: 27
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2509"
-generated_at: "2026-03-29T00:30:38.741Z"
+generated_at: "2026-03-29T02:13:20.947Z"
 ---
 
 # § 2509. Regulations

@@ -5,10 +5,10 @@ usc_section: "607"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 607"
-generated_at: "2026-03-29T00:06:10.918Z"
+generated_at: "2026-03-29T02:09:53.680Z"
 ---
 
 # § 607. Lump-sum payments for annual leave to separated employees
 
-(a) The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to separated employees of the Congressional Budget Office for unused annual leave.
-(b) Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996 .
+- **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to separated employees of the Congressional Budget Office for unused annual leave.
+- **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996 .

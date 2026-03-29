@@ -5,16 +5,16 @@ usc_section: "4543"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4543"
-generated_at: "2026-03-29T00:29:16.825Z"
+generated_at: "2026-03-29T02:11:21.201Z"
 ---
 
 # § 4543. Public access to mortgage information
 
-(a) 
-  (1) The Director shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title .
-  (2) Such data shall include the data elements required to be reported under the Home Mortgage Disclosure Act of 1975 [ 12 U.S.C. 2801 et seq.], at the census tract level.
-(b) 
-  (1) Except as provided in paragraph (2), the Director may not make available to the public data that the Director determines pursuant to section 4546 of this title are proprietary information.
-  (2) The Director shall not restrict access to the data provided in accordance with section 1723a(m)(1)(A) of this title or section 1456(e)(1)(A) of this title or with subsection (a)(2).
-(c) The Director may charge reasonable fees to cover the cost of making data available under this section to the public.
-(d) Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.
+- **(a)**
+  - **(1)** The Director shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 1723a(m) of this title or section 1456(e) of this title .
+  - **(2)** Such data shall include the data elements required to be reported under the Home Mortgage Disclosure Act of 1975 [ 12 U.S.C. 2801 et seq.], at the census tract level.
+- **(b)**
+  - **(1)** Except as provided in paragraph (2), the Director may not make available to the public data that the Director determines pursuant to section 4546 of this title are proprietary information.
+  - **(2)** The Director shall not restrict access to the data provided in accordance with section 1723a(m)(1)(A) of this title or section 1456(e)(1)(A) of this title or with subsection (a)(2).
+- **(c)** The Director may charge reasonable fees to cover the cost of making data available under this section to the public.
+- **(d)** Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.

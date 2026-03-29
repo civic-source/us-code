@@ -5,16 +5,16 @@ usc_section: "3404"
 chapter: 35
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3404"
-generated_at: "2026-03-29T00:29:16.789Z"
+generated_at: "2026-03-29T02:11:21.167Z"
 ---
 
 # § 3404. Customer authorizations
 
-(a) A customer may authorize disclosure under section 3402(1) of this title if he furnishes to the financial institution and to the Government authority seeking to obtain such disclosure a signed and dated statement which—
-  (1) authorizes such disclosure for a period not in excess of three months;
-  (2) states that the customer may revoke such authorization at any time before the financial records are disclosed;
-  (3) identifies the financial records which are authorized to be disclosed;
-  (4) specifies the purposes for which, and the Government authority to which, such records may be disclosed; and
-  (5) states the customer’s rights under this chapter.
-(b) No such authorization shall be required as a condition of doing business with any financial institution.
-(c) The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title , to obtain a copy of the record which the financial institution shall keep of all instances in which the customer’s record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.
+- **(a)** A customer may authorize disclosure under section 3402(1) of this title if he furnishes to the financial institution and to the Government authority seeking to obtain such disclosure a signed and dated statement which—
+  - **(1)** authorizes such disclosure for a period not in excess of three months;
+  - **(2)** states that the customer may revoke such authorization at any time before the financial records are disclosed;
+  - **(3)** identifies the financial records which are authorized to be disclosed;
+  - **(4)** specifies the purposes for which, and the Government authority to which, such records may be disclosed; and
+  - **(5)** states the customer’s rights under this chapter.
+- **(b)** No such authorization shall be required as a condition of doing business with any financial institution.
+- **(c)** The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title , to obtain a copy of the record which the financial institution shall keep of all instances in which the customer’s record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.

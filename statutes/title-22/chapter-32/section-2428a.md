@@ -5,16 +5,16 @@ usc_section: "2428a"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2428a"
-generated_at: "2026-03-29T00:30:33.812Z"
+generated_at: "2026-03-29T02:12:40.084Z"
 ---
 
 # § 2428a. Congressional declaration of policy toward Korea; transmittal of report to Speaker of the House and Congressional committees
 
-(a) The Congress declares that—
-  (1) United States policy toward Korea should continue to be arrived at by joint decision of the President and the Congress;
-  (2) in any implementation of the President’s policy of gradual and phased reduction of United States ground forces from the Republic of Korea, the United States should seek to accomplish such reduction in stages consistent with United States interests in Asia, notably Japan, and with the security interests of the Republic of Korea;
-  (3) any implementation of this policy should be carried out with a careful regard to the interest of the United States in continuing its close relationship with the people and government of Japan, in fostering democratic practices in the Republic of Korea, and in maintaining stable relations among the countries of East Asia; and
-  (4) these interests can be served most effectively by a policy which involves consultations by the United States Government, as appropriate, with the governments of the region, particularly those directly involved.
-(b) 
-  (1) Any implementation of the foregoing policy shall be carried out in regular consultation with the Congress.
-  (2) Repealed. Pub. L. 103–236, title I, § 139(5) , Apr. 30, 1994 , 108 Stat. 398 .
+- **(a)** The Congress declares that—
+  - **(1)** United States policy toward Korea should continue to be arrived at by joint decision of the President and the Congress;
+  - **(2)** in any implementation of the President’s policy of gradual and phased reduction of United States ground forces from the Republic of Korea, the United States should seek to accomplish such reduction in stages consistent with United States interests in Asia, notably Japan, and with the security interests of the Republic of Korea;
+  - **(3)** any implementation of this policy should be carried out with a careful regard to the interest of the United States in continuing its close relationship with the people and government of Japan, in fostering democratic practices in the Republic of Korea, and in maintaining stable relations among the countries of East Asia; and
+  - **(4)** these interests can be served most effectively by a policy which involves consultations by the United States Government, as appropriate, with the governments of the region, particularly those directly involved.
+- **(b)**
+  - **(1)** Any implementation of the foregoing policy shall be carried out in regular consultation with the Congress.
+  - **(2)** Repealed. Pub. L. 103–236, title I, § 139(5) , Apr. 30, 1994 , 108 Stat. 398 .

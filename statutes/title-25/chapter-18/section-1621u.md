@@ -5,11 +5,11 @@ usc_section: "1621u"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1621u"
-generated_at: "2026-03-29T00:30:38.688Z"
+generated_at: "2026-03-29T02:13:20.892Z"
 ---
 
 # § 1621u. Liability for payment
 
-(a) A patient who receives contract health care services that are authorized by the Service shall not be liable for the payment of any charges or costs associated with the provision of such services.
-(b) The Secretary shall notify a contract care provider and any patient who receives contract health care services authorized by the Service that such patient is not liable for the payment of any charges or costs associated with the provision of such services not later than 5 business days after receipt of a notification of a claim by a provider of contract care services.
-(c) Following receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title , the provider shall have no further recourse against the patient who received the services.
+- **(a)** A patient who receives contract health care services that are authorized by the Service shall not be liable for the payment of any charges or costs associated with the provision of such services.
+- **(b)** The Secretary shall notify a contract care provider and any patient who receives contract health care services authorized by the Service that such patient is not liable for the payment of any charges or costs associated with the provision of such services not later than 5 business days after receipt of a notification of a claim by a provider of contract care services.
+- **(c)** Following receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title , the provider shall have no further recourse against the patient who received the services.

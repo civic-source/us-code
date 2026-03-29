@@ -5,44 +5,44 @@ usc_section: "136m"
 chapter: 6
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 136m"
-generated_at: "2026-03-29T00:28:57.879Z"
+generated_at: "2026-03-29T02:10:16.669Z"
 ---
 
 # § 136m. Indemnities
 
-(a) 
-  (1) Except as otherwise provided in this section, if—
-    (A) the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
-    (B) the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
-    (C) any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
-  (2) Paragraph (1) shall not apply if the Administrator finds that the person—
-    (A) had knowledge of facts that, in themselves, would have shown that the pesticide did not meet the requirements of section 136a(c)(5) of this title for registration; and
-    (B) continued thereafter to produce the pesticide without giving timely notice of such facts to the Administrator.
-  (3) If the Administrator takes an action under paragraph (1) that requires the payment of indemnification, the Administrator shall report to the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate on—
-    (A) the action taken that requires the payment of indemnification;
-    (B) the reasons for taking the action;
-    (C) the estimated cost of the payment; and
-    (D) a request for the appropriation of funds for the payment.
-  (4) The Administrator may not make a payment of indemnification under paragraph (1) unless a specific line item appropriation of funds has been made in advance for the payment.
-(b) 
-  (1) If—
-    (A) the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
-    (B) the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
-    (C) any person who, immediately before the notice to the registrant under subparagraph (A), owned any quantity of the pesticide for purposes of applying or using the pesticide as an end user, rather than for purposes of distributing or selling it or further processing it for distribution or sale, suffered a loss by reason of the suspension or cancellation of the pesticide;
-  (2) 
-    (A) Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a “seller”) of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, that the pesticide is not subject to reimbursement by the seller.
-    (B) If—
-      (i) the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
-      (ii) the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title;
-      (iii) any person who, immediately before the notice to the registrant under clause (i)—
-        (I) had not been notified in writing by the seller, as provided under subparagraph (A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
-        (II) owned any quantity of the pesticide for purposes of—
-      (iv) the Administrator determines on the basis of a claim of loss submitted to the Administrator by the person, that the seller—
-        (I) did not provide the notice specified in subparagraph (A) to such person; and
-        (II) is and will continue to be unable to provide reimbursement to such person, as provided under subparagraph (A), for the loss referred to in clause (iii), as a result of the insolvency or bankruptcy of the seller and the seller’s resulting inability to provide such reimbursement;
-    (C) If an indemnity payment is made by the United States under this paragraph, the United States shall be subrogated to any right that would otherwise be held under this paragraph by a seller who is unable to make a reimbursement in accordance with this paragraph with regard to reimbursements that otherwise would have been made by the seller.
-  (3) Any payment required to be made under paragraph (1) or (2) shall be made from the appropriation provided under section 1304 of title 31 .
-  (4) An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31 .
-(c) 
-  (1) The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
-  (2) Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.
+- **(a)**
+  - **(1)** Except as otherwise provided in this section, if—
+    - **(A)** the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
+    - **(B)** the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
+    - **(C)** any person who owned any quantity of the pesticide immediately before the notice to the registrant under subparagraph (A) suffered losses by reason of suspension or cancellation of the registration;
+  - **(2)** Paragraph (1) shall not apply if the Administrator finds that the person—
+    - **(A)** had knowledge of facts that, in themselves, would have shown that the pesticide did not meet the requirements of section 136a(c)(5) of this title for registration; and
+    - **(B)** continued thereafter to produce the pesticide without giving timely notice of such facts to the Administrator.
+  - **(3)** If the Administrator takes an action under paragraph (1) that requires the payment of indemnification, the Administrator shall report to the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate on—
+    - **(A)** the action taken that requires the payment of indemnification;
+    - **(B)** the reasons for taking the action;
+    - **(C)** the estimated cost of the payment; and
+    - **(D)** a request for the appropriation of funds for the payment.
+  - **(4)** The Administrator may not make a payment of indemnification under paragraph (1) unless a specific line item appropriation of funds has been made in advance for the payment.
+- **(b)**
+  - **(1)** If—
+    - **(A)** the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
+    - **(B)** the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title; and
+    - **(C)** any person who, immediately before the notice to the registrant under subparagraph (A), owned any quantity of the pesticide for purposes of applying or using the pesticide as an end user, rather than for purposes of distributing or selling it or further processing it for distribution or sale, suffered a loss by reason of the suspension or cancellation of the pesticide;
+  - **(2)**
+    - **(A)** Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a “seller”) of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, that the pesticide is not subject to reimbursement by the seller.
+    - **(B)** If—
+      - **(i)** the Administrator notifies a registrant under section 136d(c)(1) of this title that the Administrator intends to suspend a registration or that an emergency order of suspension of a registration under section 136d(c)(3) of this title has been issued;
+      - **(ii)** the registration in question is suspended under section 136d(c) of this title , and thereafter is canceled under section 136d(b), 136d(d), or 136d(f) of this title;
+      - **(iii)** any person who, immediately before the notice to the registrant under clause (i)—
+        - **(I)** had not been notified in writing by the seller, as provided under subparagraph (A), that any quantity of the pesticide owned by such person is not subject to reimbursement by the seller in the event of suspension or cancellation of the pesticide; and
+        - **(II)** owned any quantity of the pesticide for purposes of—
+      - **(iv)** the Administrator determines on the basis of a claim of loss submitted to the Administrator by the person, that the seller—
+        - **(I)** did not provide the notice specified in subparagraph (A) to such person; and
+        - **(II)** is and will continue to be unable to provide reimbursement to such person, as provided under subparagraph (A), for the loss referred to in clause (iii), as a result of the insolvency or bankruptcy of the seller and the seller’s resulting inability to provide such reimbursement;
+    - **(C)** If an indemnity payment is made by the United States under this paragraph, the United States shall be subrogated to any right that would otherwise be held under this paragraph by a seller who is unable to make a reimbursement in accordance with this paragraph with regard to reimbursements that otherwise would have been made by the seller.
+  - **(3)** Any payment required to be made under paragraph (1) or (2) shall be made from the appropriation provided under section 1304 of title 31 .
+  - **(4)** An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28 and shall be regarded as if it were made under that section for purposes of section 1304 of title 31 .
+- **(c)**
+  - **(1)** The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
+  - **(2)** Notwithstanding any other provision of this subchapter, the Administrator may provide a reasonable time for use or other disposal of the pesticide. In determining the quantity of any pesticide for which indemnity shall be paid under this section, proper adjustment shall be made for any pesticide used or otherwise disposed of by the owner.

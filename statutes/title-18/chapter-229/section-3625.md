@@ -5,7 +5,7 @@ usc_section: "3625"
 chapter: 229
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3625"
-generated_at: "2026-03-29T00:30:15.747Z"
+generated_at: "2026-03-29T02:12:02.499Z"
 ---
 
 # § 3625. Inapplicability of the Administrative Procedure Act

@@ -5,7 +5,7 @@ usc_section: "3367"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3367"
-generated_at: "2026-03-29T00:33:18.205Z"
+generated_at: "2026-03-29T02:16:14.796Z"
 ---
 
 # § 3367. Requirement for efficient use by intelligence community of open-source intelligence

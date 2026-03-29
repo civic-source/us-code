@@ -5,14 +5,14 @@ usc_section: "10424"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10424"
-generated_at: "2026-03-29T00:32:01.560Z"
+generated_at: "2026-03-29T02:14:25.270Z"
 ---
 
 # § 10424. Allocation and distribution of funds
 
-(a) Of the total amount appropriated under this subchapter in any fiscal year—
-  (1) 0.4 percent shall be allocated to each of the participating States; and
-  (2) of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each of the participating States an amount which bears the same ratio to the amount of remaining funds described in this paragraph as the State prison population of such State bears to the total prison population of all the participating States.
-(b) The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 10422 of this title for the fiscal year for which the projects receive assistance under this subchapter.
-(c) At least 10 percent of the total amount made available to a State under subsection (a) for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-based substance abuse treatment programs that are effective and science-based established by those local correctional facilities.
-(d) In this subchapter, the term “residential substance abuse treatment program” means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).
+- **(a)** Of the total amount appropriated under this subchapter in any fiscal year—
+  - **(1)** 0.4 percent shall be allocated to each of the participating States; and
+  - **(2)** of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each of the participating States an amount which bears the same ratio to the amount of remaining funds described in this paragraph as the State prison population of such State bears to the total prison population of all the participating States.
+- **(b)** The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 10422 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+- **(c)** At least 10 percent of the total amount made available to a State under subsection (a) for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-based substance abuse treatment programs that are effective and science-based established by those local correctional facilities.
+- **(d)** In this subchapter, the term “residential substance abuse treatment program” means a course of comprehensive individual and group substance abuse treatment services, lasting a period of at least 6 months, in residential treatment facilities set apart from the general population of a prison or jail (which may include the use of pharmacological treatment, where appropriate, that may extend beyond such period).

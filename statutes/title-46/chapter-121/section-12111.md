@@ -5,24 +5,24 @@ usc_section: "12111"
 chapter: 121
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 12111"
-generated_at: "2026-03-29T00:33:02.888Z"
+generated_at: "2026-03-29T02:15:53.738Z"
 ---
 
 # § 12111. Registry endorsement
 
-(a) A registry endorsement may be issued for a vessel that satisfies the requirements of section 12103 of this title .
-(b) A vessel for which a registry endorsement is issued may engage in foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef.
-(c) 
-  (1) For the issuance of a certificate of documentation with only a registry endorsement, the beneficiaries of a trust are not required to be citizens of the United States if the trust qualifies under paragraph (2) and the vessel is subject to a charter to a citizen of the United States.
-  (2) 
-    (A) Subject to subparagraph (B), a trust qualifies under this paragraph with respect to a vessel only if—
-      (i) each trustee is a citizen of the United States; and
-      (ii) the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
-    (B) If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
-    (C) Subparagraphs (A) and (B) do not prohibit a person that is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
-  (3) If a person chartering a vessel from a trust that qualifies under paragraph (2) is a citizen of the United States under section 50501 of this title , the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except chapter 531 of this title.
-(d) 
-  (1) Only a vessel for which a certificate of documentation with a registry endorsement is issued may engage in—
-    (A) the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331(a) )); or
-    (B) the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
-  (2) Nothing in paragraph (1) authorizes the employment in the coastwise trade of a vessel that does not meet the requirements of section 12112 of this title .
+- **(a)** A registry endorsement may be issued for a vessel that satisfies the requirements of section 12103 of this title .
+- **(b)** A vessel for which a registry endorsement is issued may engage in foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef.
+- **(c)**
+  - **(1)** For the issuance of a certificate of documentation with only a registry endorsement, the beneficiaries of a trust are not required to be citizens of the United States if the trust qualifies under paragraph (2) and the vessel is subject to a charter to a citizen of the United States.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), a trust qualifies under this paragraph with respect to a vessel only if—
+      - **(i)** each trustee is a citizen of the United States; and
+      - **(ii)** the application for documentation of the vessel includes the affidavit of each trustee stating that the trustee is not aware of any reason involving a beneficiary of the trust that is not a citizen of the United States, or involving any other person that is not a citizen of the United States, as a result of which the beneficiary or other person would hold more than 25 percent of the aggregate power to influence or limit the exercise of the authority of the trustee with respect to matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States.
+    - **(B)** If any person that is not a citizen of the United States has authority to direct or participate in directing a trustee for a trust in matters involving any ownership or operation of the vessel that may adversely affect the interests of the United States or in removing a trustee for a trust without cause, either directly or indirectly through the control of another person, the trust is not qualified under this paragraph unless the trust instrument provides that persons who are not citizens of the United States may not hold more than 25 percent of the aggregate authority to so direct or remove a trustee.
+    - **(C)** Subparagraphs (A) and (B) do not prohibit a person that is not a citizen of the United States from holding more than 25 percent of the beneficial interest in a trust.
+  - **(3)** If a person chartering a vessel from a trust that qualifies under paragraph (2) is a citizen of the United States under section 50501 of this title , the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except chapter 531 of this title.
+- **(d)**
+  - **(1)** Only a vessel for which a certificate of documentation with a registry endorsement is issued may engage in—
+    - **(A)** the setting, relocation, or recovery of the anchors or other mooring equipment of a mobile offshore drilling unit that is located over the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331(a) )); or
+    - **(B)** the transportation of merchandise or personnel to or from a point in the United States from or to a mobile offshore drilling unit located over the outer Continental Shelf that is not attached to the seabed.
+  - **(2)** Nothing in paragraph (1) authorizes the employment in the coastwise trade of a vessel that does not meet the requirements of section 12112 of this title .

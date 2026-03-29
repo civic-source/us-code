@@ -5,10 +5,10 @@ usc_section: "101340"
 chapter: 1013
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 101340"
-generated_at: "2026-03-29T00:33:21.612Z"
+generated_at: "2026-03-29T02:16:35.452Z"
 ---
 
 # § 101340. Use of funds
 
-(a) Expenditure of any funds authorized and appropriated for new construction, repair, or rehabilitation of housing under this chapter shall follow the housing priority listing established by the Secretary under section 101339 of this title , in sequential order, to the maximum extent practicable.
-(b) Each fiscal year the President’s proposed budget to Congress shall include identification of nonconstruction funds to be spent for Service housing maintenance and operations that are in addition to rental receipts collected.
+- **(a)** Expenditure of any funds authorized and appropriated for new construction, repair, or rehabilitation of housing under this chapter shall follow the housing priority listing established by the Secretary under section 101339 of this title , in sequential order, to the maximum extent practicable.
+- **(b)** Each fiscal year the President’s proposed budget to Congress shall include identification of nonconstruction funds to be spent for Service housing maintenance and operations that are in addition to rental receipts collected.

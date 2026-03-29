@@ -5,12 +5,12 @@ usc_section: "47511"
 chapter: 475
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 47511"
-generated_at: "2026-03-29T00:33:13.935Z"
+generated_at: "2026-03-29T02:16:09.078Z"
 ---
 
 # § 47511. CLEEN engine and airframe technology partnership
 
-(a) The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil airplanes.
-(b) In this section, the term “CLEEN aircraft and engine technology” means continuous lower energy, emissions, and noise aircraft and engine technology.
-(c) The Administrator shall establish the performance objectives for the program in terms of the specific objectives to reduce fuel burn, emissions and noise.
-(d) In carrying out the program, the Administrator may provide that not less than 2 of the cooperative agreements entered into under this section involve the participation of an entity that is a small business concern (as defined in section 3 of the Small Business Act ( 15 U.S.C. 632 )), provided that the submitted technology proposal of the entity meets, at a minimum, FAA Acquisition Management System requirements and requisite technology readiness levels for entry into the agreement, as determined by the Administrator.
+- **(a)** The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil airplanes.
+- **(b)** In this section, the term “CLEEN aircraft and engine technology” means continuous lower energy, emissions, and noise aircraft and engine technology.
+- **(c)** The Administrator shall establish the performance objectives for the program in terms of the specific objectives to reduce fuel burn, emissions and noise.
+- **(d)** In carrying out the program, the Administrator may provide that not less than 2 of the cooperative agreements entered into under this section involve the participation of an entity that is a small business concern (as defined in section 3 of the Small Business Act ( 15 U.S.C. 632 )), provided that the submitted technology proposal of the entity meets, at a minimum, FAA Acquisition Management System requirements and requisite technology readiness levels for entry into the agreement, as determined by the Administrator.

@@ -5,10 +5,10 @@ usc_section: "942"
 chapter: 22
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 942"
-generated_at: "2026-03-29T00:31:30.798Z"
+generated_at: "2026-03-29T02:14:11.232Z"
 ---
 
 # § 942. Miner benefit entitlement reports; penalty for failure or refusal to file
 
-(a) The Secretary may by regulation require employers to file reports concerning miners who may be or are entitled to benefits under this part, including the date of commencement and cessation of benefits and the amount of such benefits. Any such report shall not be evidence of any fact stated therein in any proceeding relating to death or total disability due to pneumoconiosis of any miner to which such report relates.
-(b) Any employer who fails or refuses to file any report required of such employer under this section shall be subject to a civil penalty of not more than $500 for each such failure or refusal.
+- **(a)** The Secretary may by regulation require employers to file reports concerning miners who may be or are entitled to benefits under this part, including the date of commencement and cessation of benefits and the amount of such benefits. Any such report shall not be evidence of any fact stated therein in any proceeding relating to death or total disability due to pneumoconiosis of any miner to which such report relates.
+- **(b)** Any employer who fails or refuses to file any report required of such employer under this section shall be subject to a civil penalty of not more than $500 for each such failure or refusal.

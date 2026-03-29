@@ -5,7 +5,7 @@ usc_section: "7573"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7573"
-generated_at: "2026-03-29T00:32:54.074Z"
+generated_at: "2026-03-29T02:15:36.960Z"
 ---
 
 # § 7573. State standards and controls

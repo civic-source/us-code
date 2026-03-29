@@ -5,10 +5,10 @@ usc_section: "2695b"
 chapter: 53
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2695b"
-generated_at: "2026-03-29T00:29:41.810Z"
+generated_at: "2026-03-29T02:11:34.314Z"
 ---
 
 # § 2695b. Public outreach
 
-(a) The Administrator shall publish and submit to Congress an annual report on all activities carried out under this subchapter, until the expiration of authority described in section 2695(b) of this title .
-(b) The Federal Director appointed under section 17092(a) of title 42 (in this subchapter referred to as the “Federal Director”) shall ensure, to the maximum extent practicable, that the public clearinghouse established under section 17083(1) of title 42 receives and makes available information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.
+- **(a)** The Administrator shall publish and submit to Congress an annual report on all activities carried out under this subchapter, until the expiration of authority described in section 2695(b) of this title .
+- **(b)** The Federal Director appointed under section 17092(a) of title 42 (in this subchapter referred to as the “Federal Director”) shall ensure, to the maximum extent practicable, that the public clearinghouse established under section 17083(1) of title 42 receives and makes available information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.

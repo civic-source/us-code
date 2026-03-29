@@ -5,7 +5,7 @@ usc_section: "11"
 chapter: 19
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-29T00:32:53.714Z"
+generated_at: "2026-03-29T02:15:36.548Z"
 ---
 
 # § 1962d–11. Authorization of appropriation for Delmarva Peninsula study

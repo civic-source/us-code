@@ -5,7 +5,7 @@ usc_section: "12552"
 chapter: 121
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 12552"
-generated_at: "2026-03-29T00:32:01.633Z"
+generated_at: "2026-03-29T02:14:25.329Z"
 ---
 
 # § 12552. Definitions

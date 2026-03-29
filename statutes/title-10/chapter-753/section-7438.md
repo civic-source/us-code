@@ -5,13 +5,13 @@ usc_section: "7438"
 chapter: 753
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7438"
-generated_at: "2026-03-29T00:20:53.196Z"
+generated_at: "2026-03-29T02:10:45.279Z"
 ---
 
 # § 7438. Civilian faculty: number; compensation
 
-(a) The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Academy as the Secretary considers necessary.
-(b) The compensation of persons employed under this section is as prescribed by the Secretary.
-(c) The Secretary of the Army may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
-  (1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
-  (2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
+- **(a)** The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Academy as the Secretary considers necessary.
+- **(b)** The compensation of persons employed under this section is as prescribed by the Secretary.
+- **(c)** The Secretary of the Army may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
+  - **(1)** The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
+  - **(2)** Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.

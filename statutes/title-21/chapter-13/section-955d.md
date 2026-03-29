@@ -5,7 +5,7 @@ usc_section: "955d"
 chapter: 13
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 955d"
-generated_at: "2026-03-29T00:30:24.348Z"
+generated_at: "2026-03-29T02:12:28.162Z"
 ---
 
 # §§ 955a to 955d. Transferred

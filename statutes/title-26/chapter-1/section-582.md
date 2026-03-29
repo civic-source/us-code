@@ -5,20 +5,20 @@ usc_section: "582"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 582"
-generated_at: "2026-03-29T00:31:20.788Z"
+generated_at: "2026-03-29T02:14:01.014Z"
 ---
 
 # § 582. Bad debts, losses, and gains with respect to securities held by financial institutions
 
-(a) Notwithstanding sections 165(g)(1) and 166(e), subsections (a) and (b) of section 166 (relating to allowance of deduction for bad debts) shall apply in the case of a bank to a debt which is evidenced by a security as defined in section 165(g)(2)(C).
-(b) For purposes of section 165(g)(1), where the taxpayer is a bank and owns directly at least 80 percent of each class of stock of another bank, stock in such other bank shall not be treated as a capital asset.
-(c) 
-  (1) For purposes of this subtitle, in the case of a financial institution referred to in paragraph (2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.
-  (2) 
-    (A) For purposes of paragraph (1), the financial institutions referred to in this paragraph are—
-      (i) any bank (and any corporation which would be a bank except for the fact it is a foreign corporation),
-      (ii) any financial institution referred to in section 591,
-      (iii) any small business investment company operating under the Small Business Investment Act of 1958, and
-      (iv) any business development corporation.
-    (B) For purposes of subparagraph (A), the term “business development corporation” means a corporation which was created by or pursuant to an act of a State legislature for purposes of promoting, maintaining, and assisting the economy and industry within such State on a regional or statewide basis by making loans to be used in trades and businesses which would generally not be made by banks within such region or State in the ordinary course of their business (except on the basis of a partial participation), and which is operated primarily for such purposes.
-    (C) In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
+- **(a)** Notwithstanding sections 165(g)(1) and 166(e), subsections (a) and (b) of section 166 (relating to allowance of deduction for bad debts) shall apply in the case of a bank to a debt which is evidenced by a security as defined in section 165(g)(2)(C).
+- **(b)** For purposes of section 165(g)(1), where the taxpayer is a bank and owns directly at least 80 percent of each class of stock of another bank, stock in such other bank shall not be treated as a capital asset.
+- **(c)**
+  - **(1)** For purposes of this subtitle, in the case of a financial institution referred to in paragraph (2), the sale or exchange of a bond, debenture, note, or certificate or other evidence of indebtedness shall not be considered a sale or exchange of a capital asset. For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.
+  - **(2)**
+    - **(A)** For purposes of paragraph (1), the financial institutions referred to in this paragraph are—
+      - **(i)** any bank (and any corporation which would be a bank except for the fact it is a foreign corporation),
+      - **(ii)** any financial institution referred to in section 591,
+      - **(iii)** any small business investment company operating under the Small Business Investment Act of 1958, and
+      - **(iv)** any business development corporation.
+    - **(B)** For purposes of subparagraph (A), the term “business development corporation” means a corporation which was created by or pursuant to an act of a State legislature for purposes of promoting, maintaining, and assisting the economy and industry within such State on a regional or statewide basis by making loans to be used in trades and businesses which would generally not be made by banks within such region or State in the ordinary course of their business (except on the basis of a partial participation), and which is operated primarily for such purposes.
+    - **(C)** In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.

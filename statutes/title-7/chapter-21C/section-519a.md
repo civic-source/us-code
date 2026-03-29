@@ -5,14 +5,14 @@ usc_section: "519a"
 chapter: 21
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 519a"
-generated_at: "2026-03-29T00:28:57.945Z"
+generated_at: "2026-03-29T02:10:16.735Z"
 ---
 
 # § 519a. Regulations
 
-(a) The Secretary may promulgate such regulations as are necessary to implement this title 1 1 See References in Text note below. and the amendments made by this title. 1
-(b) The promulgation of the regulations and administration of this title 1 and the amendments made by this title 1 shall be made without regard to—
-  (1) the notice and comment provisions of section 553 of title 5 ;
-  (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
-  (3) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
-(c) In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5 .
+- **(a)** The Secretary may promulgate such regulations as are necessary to implement this title 1 1 See References in Text note below. and the amendments made by this title. 1
+- **(b)** The promulgation of the regulations and administration of this title 1 and the amendments made by this title 1 shall be made without regard to—
+  - **(1)** the notice and comment provisions of section 553 of title 5 ;
+  - **(2)** the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+  - **(3)** chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
+- **(c)** In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5 .

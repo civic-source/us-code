@@ -5,7 +5,7 @@ usc_section: "206a"
 chapter: 3
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 206a"
-generated_at: "2026-03-29T00:32:04.389Z"
+generated_at: "2026-03-29T02:14:43.117Z"
 ---
 
 # § 206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation

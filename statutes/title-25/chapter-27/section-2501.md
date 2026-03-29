@@ -5,19 +5,19 @@ usc_section: "2501"
 chapter: 27
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2501"
-generated_at: "2026-03-29T00:30:38.738Z"
+generated_at: "2026-03-29T02:13:20.944Z"
 ---
 
 # § 2501. Declaration of policy
 
-(a) Congress recognizes that the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.], which was a product of the legitimate aspirations and a recognition of the inherent authority of Indian nations, was and is a crucial positive step toward tribal and community control and that the United States has an obligation to assure maximum Indian participation in the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
-(b) Congress declares its commitment to the maintenance of the Federal Government’s unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
-(c) Congress declares that a national goal of the United States is to provide the resources, processes, and structure that will enable tribes and local communities to obtain the quantity and quality of educational services and opportunities that will permit Indian children—
-  (1) to compete and excel in areas of their choice; and
-  (2) to achieve the measure of self-determination essential to their social and economic well-being.
-(d) Congress affirms—
-  (1) true self-determination in any society of people is dependent upon an educational process that will ensure the development of qualified people to fulfill meaningful leadership roles;
-  (2) that Indian people have special and unique educational needs, including the need for programs to meet the linguistic and cultural aspirations of Indian tribes and communities; and
-  (3) that those needs may best be met through a grant process.
-(e) Congress declares a commitment to the policies described in this section and support, to the full extent of congressional responsibility, for Federal relations with the Indian nations.
-(f) Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
+- **(a)** Congress recognizes that the Indian Self-Determination and Education Assistance Act [ 25 U.S.C. 5301 et seq.], which was a product of the legitimate aspirations and a recognition of the inherent authority of Indian nations, was and is a crucial positive step toward tribal and community control and that the United States has an obligation to assure maximum Indian participation in the direction of educational services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities.
+- **(b)** Congress declares its commitment to the maintenance of the Federal Government’s unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
+- **(c)** Congress declares that a national goal of the United States is to provide the resources, processes, and structure that will enable tribes and local communities to obtain the quantity and quality of educational services and opportunities that will permit Indian children—
+  - **(1)** to compete and excel in areas of their choice; and
+  - **(2)** to achieve the measure of self-determination essential to their social and economic well-being.
+- **(d)** Congress affirms—
+  - **(1)** true self-determination in any society of people is dependent upon an educational process that will ensure the development of qualified people to fulfill meaningful leadership roles;
+  - **(2)** that Indian people have special and unique educational needs, including the need for programs to meet the linguistic and cultural aspirations of Indian tribes and communities; and
+  - **(3)** that those needs may best be met through a grant process.
+- **(e)** Congress declares a commitment to the policies described in this section and support, to the full extent of congressional responsibility, for Federal relations with the Indian nations.
+- **(f)** Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.

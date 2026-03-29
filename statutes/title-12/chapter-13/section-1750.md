@@ -5,7 +5,7 @@ usc_section: "1750"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1750"
-generated_at: "2026-03-29T00:29:16.641Z"
+generated_at: "2026-03-29T02:11:20.998Z"
 ---
 
 # § 1750. Definitions

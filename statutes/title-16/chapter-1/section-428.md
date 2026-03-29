@@ -5,13 +5,13 @@ usc_section: "428"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 428"
-generated_at: "2026-03-29T00:29:52.420Z"
+generated_at: "2026-03-29T02:11:53.447Z"
 ---
 
 # § 428. Fort Donelson National Battlefield; establishment; appointment of commission
 
 A commission is created, to be composed of the following members, who shall be appointed by the Secretary of the Interior:
 
-  (1) A commissioned officer of the Corps of Engineers, United States Army;
-  (2) A veteran of the Civil War who served honorably in the military forces of the United States; and
-  (3) A veteran of the Civil War who served honorably in the military forces of the Confederate States of America.
+  - **(1)** A commissioned officer of the Corps of Engineers, United States Army;
+  - **(2)** A veteran of the Civil War who served honorably in the military forces of the United States; and
+  - **(3)** A veteran of the Civil War who served honorably in the military forces of the Confederate States of America.

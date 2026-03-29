@@ -5,13 +5,13 @@ usc_section: "7108"
 chapter: 71
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 7108"
-generated_at: "2026-03-29T00:31:52.660Z"
+generated_at: "2026-03-29T02:14:14.119Z"
 ---
 
 # § 7108. Limitation on authority under sections 7105–7107
 
 Under regulations prescribed by the President, the head of an executive agency may act under sections 7105–7107 of this title for a project assisted under at least 2 assistance programs. The regulations shall ensure that the head of an executive agency acts under those sections only—
 
-  (1) when a problem cannot be adequately solved through other action under this chapter or other law;
-  (2) when necessary to promote expeditious processing of applications or effective and efficient administration of the project; and
-  (3) in a way consistent with protecting the interest of the United States Government and with the program purposes and requirements of law.
+  - **(1)** when a problem cannot be adequately solved through other action under this chapter or other law;
+  - **(2)** when necessary to promote expeditious processing of applications or effective and efficient administration of the project; and
+  - **(3)** in a way consistent with protecting the interest of the United States Government and with the program purposes and requirements of law.

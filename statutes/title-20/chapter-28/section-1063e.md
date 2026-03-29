@@ -1,0 +1,31 @@
+---
+title: "Section 1063e - President’s Board of Advisors on HBCUs"
+usc_title: 20
+usc_section: "1063e"
+chapter: 28
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1063e"
+generated_at: "2026-03-29T02:12:17.194Z"
+---
+
+# § 1063e. President’s Board of Advisors on HBCUs
+
+- **(a)**
+  - **(1)** There is established the President’s Board of Advisors on historically Black colleges and universities in the Department of Education or, if the President so elects, within the Executive Office of the President.
+  - **(2)** Except as provided in paragraph (3), the Secretary shall provide funding and administrative support for the President’s Board of Advisors, subject to the availability of appropriations.
+  - **(3)** If the President elects to locate the President’s Board of Advisors within the Executive Office of the President, the Executive Office of the President shall provide funding and administrative support for the President’s Board of Advisors, subject to the availability of appropriations.
+- **(b)**
+  - **(1)** The President shall appoint not more than 23 members to the President’s Board of Advisors, and the Secretary and Executive Director or their designees shall serve as ex officio members.
+  - **(2)**
+    - **(A)** The President shall designate one member of the President’s Board of Advisors to serve as its Chair, who shall help direct the Board’s work in coordination with the Secretary and in consultation with the Executive Director.
+    - **(B)** The Chair shall also consult with the Executive Director regarding the time and location of meetings of the President’s Board of Advisors, which shall take place not less frequently than once every 6 months.
+    - **(C)** Insofar as the Federal Advisory Committee Act (5 U.S.C. App.) 2 2 See References in Text note below. may apply to the President’s Board of Advisors, any functions of the President under such Act, except for those of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
+  - **(3)** Members of the President’s Board of Advisors shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law.
+- **(c)** The President’s Board of Advisors shall advise the President, through the White House Initiative, on all matters pertaining to strengthening the educational capacity of HBCUs, which shall include the following:
+  - **(1)** Improving the identity, visibility, distinctive capabilities, and overall competitiveness of HBCUs.
+  - **(2)** Engaging the philanthropic, business, government, military, homeland-security, and education communities in a national dialogue regarding new HBCU programs and initiatives.
+  - **(3)** Improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in achieving its educational goals and in advancing the interests of all Americans.
+  - **(4)** Elevating the public awareness of, and fostering appreciation of, HBCUs.
+  - **(5)** Encouraging public-private investments in HBCUs.
+  - **(6)** Improving government-wide strategic planning related to HBCU competitiveness to align Federal resources and provide the context for decisions about HBCU partnerships, investments, performance goals, priorities, human capital development, and budget planning.
+- **(d)** The President’s Board of Advisors shall report annually to the President on the Board’s progress in carrying out its duties under this section.

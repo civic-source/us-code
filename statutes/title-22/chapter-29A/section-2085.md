@@ -5,10 +5,10 @@ usc_section: "2085"
 chapter: 29
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2085"
-generated_at: "2026-03-29T00:30:33.750Z"
+generated_at: "2026-03-29T02:12:40.019Z"
 ---
 
 # § 2085. Authorization of appropriations
 
-(a) There is authorized to be appropriated not to exceed $7,500,000 to provide for United States participation in Interama under this chapter, of which not to exceed $250,000 shall be available for expenditure in connection with the preparation of the report required to be submitted to the Congress under section 2(b) of this Act. Sums appropriated under this subsection shall remain available until expended.
-(b) In addition to the amount authorized in subsection (a), there is authorized to be appropriated not to exceed $1,000,000 annually for each of the fiscal years 1968 and 1969 for the maintenance of United States installations and activities at Interama.
+- **(a)** There is authorized to be appropriated not to exceed $7,500,000 to provide for United States participation in Interama under this chapter, of which not to exceed $250,000 shall be available for expenditure in connection with the preparation of the report required to be submitted to the Congress under section 2(b) of this Act. Sums appropriated under this subsection shall remain available until expended.
+- **(b)** In addition to the amount authorized in subsection (a), there is authorized to be appropriated not to exceed $1,000,000 annually for each of the fiscal years 1968 and 1969 for the maintenance of United States installations and activities at Interama.

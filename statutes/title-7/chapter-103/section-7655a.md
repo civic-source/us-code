@@ -5,13 +5,13 @@ usc_section: "7655a"
 chapter: 103
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7655a"
-generated_at: "2026-03-29T00:28:58.291Z"
+generated_at: "2026-03-29T02:10:17.158Z"
 ---
 
 # § 7655a. Food safety education initiatives
 
-(a) The Secretary may carry out a food safety education program to educate the public and persons in the fresh produce industry about—
-  (1) scientifically proven practices for reducing microbial pathogens on fresh produce; and
-  (2) methods of reducing the threat of cross-contamination of fresh produce through sanitary handling practices.
-(b) The Secretary may carry out the education program in cooperation with public and private partners.
-(c) There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
+- **(a)** The Secretary may carry out a food safety education program to educate the public and persons in the fresh produce industry about—
+  - **(1)** scientifically proven practices for reducing microbial pathogens on fresh produce; and
+  - **(2)** methods of reducing the threat of cross-contamination of fresh produce through sanitary handling practices.
+- **(b)** The Secretary may carry out the education program in cooperation with public and private partners.
+- **(c)** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.

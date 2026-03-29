@@ -5,11 +5,11 @@ usc_section: "390hh"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 390hh"
-generated_at: "2026-03-29T00:32:57.337Z"
+generated_at: "2026-03-29T02:15:47.532Z"
 ---
 
 # § 390hh. Operation and maintenance charges
 
-(a) The price of irrigation water delivered by the Secretary pursuant to a contract or an amendment to a contract with a district, as specified in section 390cc of this title , shall be at least sufficient to recover all operation and maintenance charges which the district is obligated to pay to the United States.
-(b) Whenever a district enters into a contract or requests that its contract be amended as specified in section 390cc of this title , and each year thereafter, the Secretary shall calculate such operation and maintenance charges and shall modify the price of irrigation water delivered under the contract as necessary to reflect any changes in such costs by amending the district’s contract accordingly.
-(c) This section shall not apply to districts which operate and maintain project facilities and finance the operation and maintenance thereof from non-Federal funds.
+- **(a)** The price of irrigation water delivered by the Secretary pursuant to a contract or an amendment to a contract with a district, as specified in section 390cc of this title , shall be at least sufficient to recover all operation and maintenance charges which the district is obligated to pay to the United States.
+- **(b)** Whenever a district enters into a contract or requests that its contract be amended as specified in section 390cc of this title , and each year thereafter, the Secretary shall calculate such operation and maintenance charges and shall modify the price of irrigation water delivered under the contract as necessary to reflect any changes in such costs by amending the district’s contract accordingly.
+- **(c)** This section shall not apply to districts which operate and maintain project facilities and finance the operation and maintenance thereof from non-Federal funds.

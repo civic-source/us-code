@@ -5,15 +5,15 @@ usc_section: "6322"
 chapter: 63
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6322"
-generated_at: "2026-03-29T00:28:38.365Z"
+generated_at: "2026-03-29T02:10:01.895Z"
 ---
 
 # § 6322. Leave for jury or witness service; official duty status for certain witness service
 
-(a) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
-  (1) as a juror; or
-  (2) other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
-(b) An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
-  (1) testify or produce official records on behalf of the United States or the District of Columbia; or
-  (2) testify in his official capacity or produce official records on behalf of a party other than the United States or the District of Columbia.
-(c) The Office of Personnel Management may prescribe regulations for the administration of this section.
+- **(a)** An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is entitled to leave, without loss of, or reduction in, pay, leave to which he otherwise is entitled, credit for time or service, or performance of efficiency rating, during a period of absence with respect to which he is summoned, in connection with a judicial proceeding, by a court or authority responsible for the conduct of that proceeding, to serve—
+  - **(1)** as a juror; or
+  - **(2)** other than as provided in subsection (b) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party;
+- **(b)** An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) or an individual employed by the government of the District of Columbia is performing official duty during the period with respect to which he is summoned, or assigned by his agency, to—
+  - **(1)** testify or produce official records on behalf of the United States or the District of Columbia; or
+  - **(2)** testify in his official capacity or produce official records on behalf of a party other than the United States or the District of Columbia.
+- **(c)** The Office of Personnel Management may prescribe regulations for the administration of this section.

@@ -5,7 +5,7 @@ usc_section: "2854"
 chapter: 30
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2854"
-generated_at: "2026-03-29T00:31:27.700Z"
+generated_at: "2026-03-29T02:14:09.496Z"
 ---
 
 # §§ 2851 to 2854. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

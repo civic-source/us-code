@@ -5,12 +5,12 @@ usc_section: "3639"
 chapter: 56
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3639"
-generated_at: "2026-03-29T00:29:52.805Z"
+generated_at: "2026-03-29T02:11:53.893Z"
 ---
 
 # § 3639. Advisory committee
 
-(a) The United States Section shall appoint an advisory committee of not less than twelve but not more than twenty members who are knowledgeable and experienced with respect to fisheries subject to the Treaty. One-half the membership of the committee shall be residents of the State of Alaska and one member shall be a resident of the State of Idaho. Each member shall serve a term of two years and shall be eligible for reappointment.
-(b) Members of the advisory committee may attend all public meetings of the Commission and Panels and all nonexecutive sessions of the United States Section and United States Panel sections. At nonexecutive meetings of the United States Section and United States Panel sections, members of the advisory committee shall be given the opportunity to examine and to be heard on any nonadministrative matter under consideration.
-(c) The members of the advisory committee shall receive no compensation for their services as such members.
-(d) The Chairman of the United States Section shall call a meeting of the advisory committee at least one time each year.
+- **(a)** The United States Section shall appoint an advisory committee of not less than twelve but not more than twenty members who are knowledgeable and experienced with respect to fisheries subject to the Treaty. One-half the membership of the committee shall be residents of the State of Alaska and one member shall be a resident of the State of Idaho. Each member shall serve a term of two years and shall be eligible for reappointment.
+- **(b)** Members of the advisory committee may attend all public meetings of the Commission and Panels and all nonexecutive sessions of the United States Section and United States Panel sections. At nonexecutive meetings of the United States Section and United States Panel sections, members of the advisory committee shall be given the opportunity to examine and to be heard on any nonadministrative matter under consideration.
+- **(c)** The members of the advisory committee shall receive no compensation for their services as such members.
+- **(d)** The Chairman of the United States Section shall call a meeting of the advisory committee at least one time each year.

@@ -5,13 +5,13 @@ usc_section: "2201"
 chapter: 40
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2201"
-generated_at: "2026-03-29T00:32:57.459Z"
+generated_at: "2026-03-29T02:15:47.651Z"
 ---
 
 # § 2201. Definitions
 
 As used in this chapter:
 
-  (1) The term “Secretary” means the Secretary of the Interior.
-  (2) The term “Federal Reclamation laws” means the Act of June 17, 1902 ( 32 Stat. 388 ) and Acts supplementary thereto and amendatory thereof.
-  (3) The term “Federal Reclamation project” means any project constructed or funded under Federal Reclamation law. Such term includes projects having approved loans under the Small Reclamation Projects Act of 1956 ( 70 Stat. 1044 ) [ 43 U.S.C. 422a et seq.].
+  - **(1)** The term “Secretary” means the Secretary of the Interior.
+  - **(2)** The term “Federal Reclamation laws” means the Act of June 17, 1902 ( 32 Stat. 388 ) and Acts supplementary thereto and amendatory thereof.
+  - **(3)** The term “Federal Reclamation project” means any project constructed or funded under Federal Reclamation law. Such term includes projects having approved loans under the Small Reclamation Projects Act of 1956 ( 70 Stat. 1044 ) [ 43 U.S.C. 422a et seq.].

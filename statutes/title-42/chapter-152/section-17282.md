@@ -5,43 +5,43 @@ usc_section: "17282"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17282"
-generated_at: "2026-03-29T00:32:54.439Z"
+generated_at: "2026-03-29T02:15:37.404Z"
 ---
 
 # § 17282. Renewable energy deployment
 
-(a) In this section:
-  (1) The term “Alaska small hydroelectric power” means power that—
-    (A) is generated—
-      (i) in the State of Alaska;
-      (ii) without the use of a dam or impoundment of water; and
-      (iii) through the use of—
-        (I) a lake tap (but not a perched alpine lake); or
-        (II) a run-of-river screened at the point of diversion; and
-    (B) has a nameplate capacity rating of a wattage that is not more than 15 megawatts.
-  (2) The term “eligible applicant” means any—
-    (A) governmental entity;
-    (B) private utility;
-    (C) public utility;
-    (D) municipal utility;
-    (E) cooperative utility;
-    (F) Indian tribes; and
-    (G) Regional Corporation (as defined in section 1602 of title 43 ).
-  (3) 
-    (A) The term “ocean energy” includes current, wave, and tidal energy.
-    (B) The term “ocean energy” excludes thermal energy.
-  (4) The term “renewable energy project” means a project—
-    (A) for the commercial generation of electricity; and
-    (B) that generates electricity from—
-      (i) solar, wind, or geothermal energy or ocean energy;
-      (ii) biomass (as defined in section 15852(b) of this title );
-      (iii) landfill gas; or
-      (iv) Alaska small hydroelectric power.
-(b) 
-  (1) The Secretary shall use amounts appropriated under this section to make grants for use in carrying out renewable energy projects.
-  (2) Not later than 180 days after December 19, 2007 , the Secretary shall set forth criteria for use in awarding grants under this section.
-  (3) To receive a grant from the Secretary under paragraph (1), an eligible applicant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a written assurance that—
-    (A) all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a grant under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and
-    (B) the Secretary of Labor shall, with respect to the labor standards described in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40 .
-  (4) Each eligible applicant that receives a grant under this subsection shall contribute to the total cost of the renewable energy project constructed by the eligible applicant an amount not less than 50 percent of the total cost of the project.
-(c) There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
+- **(a)** In this section:
+  - **(1)** The term “Alaska small hydroelectric power” means power that—
+    - **(A)** is generated—
+      - **(i)** in the State of Alaska;
+      - **(ii)** without the use of a dam or impoundment of water; and
+      - **(iii)** through the use of—
+        - **(I)** a lake tap (but not a perched alpine lake); or
+        - **(II)** a run-of-river screened at the point of diversion; and
+    - **(B)** has a nameplate capacity rating of a wattage that is not more than 15 megawatts.
+  - **(2)** The term “eligible applicant” means any—
+    - **(A)** governmental entity;
+    - **(B)** private utility;
+    - **(C)** public utility;
+    - **(D)** municipal utility;
+    - **(E)** cooperative utility;
+    - **(F)** Indian tribes; and
+    - **(G)** Regional Corporation (as defined in section 1602 of title 43 ).
+  - **(3)**
+    - **(A)** The term “ocean energy” includes current, wave, and tidal energy.
+    - **(B)** The term “ocean energy” excludes thermal energy.
+  - **(4)** The term “renewable energy project” means a project—
+    - **(A)** for the commercial generation of electricity; and
+    - **(B)** that generates electricity from—
+      - **(i)** solar, wind, or geothermal energy or ocean energy;
+      - **(ii)** biomass (as defined in section 15852(b) of this title );
+      - **(iii)** landfill gas; or
+      - **(iv)** Alaska small hydroelectric power.
+- **(b)**
+  - **(1)** The Secretary shall use amounts appropriated under this section to make grants for use in carrying out renewable energy projects.
+  - **(2)** Not later than 180 days after December 19, 2007 , the Secretary shall set forth criteria for use in awarding grants under this section.
+  - **(3)** To receive a grant from the Secretary under paragraph (1), an eligible applicant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a written assurance that—
+    - **(A)** all laborers and mechanics employed by contractors or subcontractors during construction, alteration, or repair that is financed, in whole or in part, by a grant under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and
+    - **(B)** the Secretary of Labor shall, with respect to the labor standards described in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40 .
+  - **(4)** Each eligible applicant that receives a grant under this subsection shall contribute to the total cost of the renewable energy project constructed by the eligible applicant an amount not less than 50 percent of the total cost of the project.
+- **(c)** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.

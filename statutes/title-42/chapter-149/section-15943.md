@@ -5,48 +5,48 @@ usc_section: "15943"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15943"
-generated_at: "2026-03-29T00:32:54.366Z"
+generated_at: "2026-03-29T02:15:37.313Z"
 ---
 
 # § 15943. Certain gathering lines located on Federal land and Indian land
 
-(a) In this section:
-  (1) 
-    (A) The term “Federal land” means land the title to which is held by the United States.
-    (B) The term “Federal land” does not include—
-      (i) a unit of the National Park System;
-      (ii) a unit of the National Wildlife Refuge System;
-      (iii) a component of the National Wilderness Preservation System;
-      (iv) a wilderness study area within the National Forest System; or
-      (v) Indian land.
-  (2) 
-    (A) The term “gathering line and associated field compression or pumping unit” means—
-      (i) a pipeline that is installed to transport oil, natural gas and related constituents, or produced water from 1 or more wells drilled and completed to produce oil or gas; and
-      (ii) if necessary, 1 or more compressors or pumps to raise the pressure of the transported oil, natural gas and related constituents, or produced water to higher pressures necessary to enable the oil, natural gas and related constituents, or produced water to flow into pipelines and other facilities.
-    (B) The term “gathering line and associated field compression or pumping unit” includes a pipeline or associated compression or pumping unit that is installed to transport oil or natural gas from a processing plant to a common carrier pipeline or facility.
-    (C) The term “gathering line and associated field compression or pumping unit” does not include a common carrier pipeline.
-  (3) The term “Indian land” means land the title to which is held by—
-    (A) the United States in trust for an Indian Tribe or an individual Indian; or
-    (B) an Indian Tribe or an individual Indian subject to a restriction by the United States against alienation.
-  (4) The term “produced water” means water produced from an oil or gas well bore that is not a fluid prepared at, or transported to, the well site to resolve a specific oil or gas well bore or reservoir condition.
-  (5) The term “Secretary” means the Secretary of the Interior.
-(b) 
-  (1) Subject to paragraph (2), the issuance of a sundry notice or right-of-way for a gathering line and associated field compression or pumping unit that is located on Federal land or Indian land and that services any oil or gas well may be considered by the Secretary to be an action that is categorically excluded (as defined in section 1508.1 of title 40, Code of Federal Regulations (as in effect on November 15, 2021 )) for purposes of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) if the gathering line and associated field compression or pumping unit—
-    (A) are within a field or unit for which an approved land use plan or an environmental document prepared pursuant to the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) analyzed transportation of oil, natural gas, or produced water from 1 or more oil or gas wells in the field or unit as a reasonably foreseeable activity;
-    (B) are located adjacent to or within—
-      (i) any existing disturbed area; or
-      (ii) an existing corridor for a right-of-way; and
-    (C) would reduce—
-      (i) in the case of a gathering line and associated field compression or pumping unit transporting methane, the total quantity of methane that would otherwise be vented, flared, or unintentionally emitted from the field or unit; or
-      (ii) in the case of a gathering line and associated field compression or pumping unit not transporting methane, the vehicular traffic that would otherwise service the field or unit.
-  (2) Paragraph (1) shall apply to Indian land, or a portion of Indian land—
-    (A) to which the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) applies; and
-    (B) for which the Indian Tribe with jurisdiction over the Indian land submits to the Secretary a written request that paragraph (1) apply to that Indian land (or portion of Indian land).
-(c) Nothing in this section—
-  (1) affects or alters any requirement—
-    (A) relating to prior consent under—
-      (i) section 324 of title 25 ; or
-      (ii) section 5123(e) of title 25 (commonly known as the “Indian Reorganization Act” 1 1 See References in Text note below. );
-    (B) under section 306108 of title 54 ; or
-    (C) under any other Federal law (including regulations) relating to Tribal consent for rights-of-way across Indian land; or
-  (2) makes the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) applicable to land to which that Act otherwise would not apply.
+- **(a)** In this section:
+  - **(1)**
+    - **(A)** The term “Federal land” means land the title to which is held by the United States.
+    - **(B)** The term “Federal land” does not include—
+      - **(i)** a unit of the National Park System;
+      - **(ii)** a unit of the National Wildlife Refuge System;
+      - **(iii)** a component of the National Wilderness Preservation System;
+      - **(iv)** a wilderness study area within the National Forest System; or
+      - **(v)** Indian land.
+  - **(2)**
+    - **(A)** The term “gathering line and associated field compression or pumping unit” means—
+      - **(i)** a pipeline that is installed to transport oil, natural gas and related constituents, or produced water from 1 or more wells drilled and completed to produce oil or gas; and
+      - **(ii)** if necessary, 1 or more compressors or pumps to raise the pressure of the transported oil, natural gas and related constituents, or produced water to higher pressures necessary to enable the oil, natural gas and related constituents, or produced water to flow into pipelines and other facilities.
+    - **(B)** The term “gathering line and associated field compression or pumping unit” includes a pipeline or associated compression or pumping unit that is installed to transport oil or natural gas from a processing plant to a common carrier pipeline or facility.
+    - **(C)** The term “gathering line and associated field compression or pumping unit” does not include a common carrier pipeline.
+  - **(3)** The term “Indian land” means land the title to which is held by—
+    - **(A)** the United States in trust for an Indian Tribe or an individual Indian; or
+    - **(B)** an Indian Tribe or an individual Indian subject to a restriction by the United States against alienation.
+  - **(4)** The term “produced water” means water produced from an oil or gas well bore that is not a fluid prepared at, or transported to, the well site to resolve a specific oil or gas well bore or reservoir condition.
+  - **(5)** The term “Secretary” means the Secretary of the Interior.
+- **(b)**
+  - **(1)** Subject to paragraph (2), the issuance of a sundry notice or right-of-way for a gathering line and associated field compression or pumping unit that is located on Federal land or Indian land and that services any oil or gas well may be considered by the Secretary to be an action that is categorically excluded (as defined in section 1508.1 of title 40, Code of Federal Regulations (as in effect on November 15, 2021 )) for purposes of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) if the gathering line and associated field compression or pumping unit—
+    - **(A)** are within a field or unit for which an approved land use plan or an environmental document prepared pursuant to the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) analyzed transportation of oil, natural gas, or produced water from 1 or more oil or gas wells in the field or unit as a reasonably foreseeable activity;
+    - **(B)** are located adjacent to or within—
+      - **(i)** any existing disturbed area; or
+      - **(ii)** an existing corridor for a right-of-way; and
+    - **(C)** would reduce—
+      - **(i)** in the case of a gathering line and associated field compression or pumping unit transporting methane, the total quantity of methane that would otherwise be vented, flared, or unintentionally emitted from the field or unit; or
+      - **(ii)** in the case of a gathering line and associated field compression or pumping unit not transporting methane, the vehicular traffic that would otherwise service the field or unit.
+  - **(2)** Paragraph (1) shall apply to Indian land, or a portion of Indian land—
+    - **(A)** to which the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) applies; and
+    - **(B)** for which the Indian Tribe with jurisdiction over the Indian land submits to the Secretary a written request that paragraph (1) apply to that Indian land (or portion of Indian land).
+- **(c)** Nothing in this section—
+  - **(1)** affects or alters any requirement—
+    - **(A)** relating to prior consent under—
+      - **(i)** section 324 of title 25 ; or
+      - **(ii)** section 5123(e) of title 25 (commonly known as the “Indian Reorganization Act” 1 1 See References in Text note below. );
+    - **(B)** under section 306108 of title 54 ; or
+    - **(C)** under any other Federal law (including regulations) relating to Tribal consent for rights-of-way across Indian land; or
+  - **(2)** makes the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) applicable to land to which that Act otherwise would not apply.

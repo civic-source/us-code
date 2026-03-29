@@ -5,12 +5,12 @@ usc_section: "4302"
 chapter: 69
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4302"
-generated_at: "2026-03-29T00:29:41.856Z"
+generated_at: "2026-03-29T02:11:34.362Z"
 ---
 
 # § 4302. Rule of reason standard
 
 In any action under the antitrust laws, or under any State law similar to the antitrust laws, the conduct of—
 
-  (1) any person in making or performing a contract to carry out a joint venture, or
-  (2) a standards development organization while engaged in a standards development activity,
+  - **(1)** any person in making or performing a contract to carry out a joint venture, or
+  - **(2)** a standards development organization while engaged in a standards development activity,

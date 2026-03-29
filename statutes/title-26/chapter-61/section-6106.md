@@ -5,7 +5,7 @@ usc_section: "6106"
 chapter: 61
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6106"
-generated_at: "2026-03-29T00:31:21.028Z"
+generated_at: "2026-03-29T02:14:01.310Z"
 ---
 
 # [§ 6106. Repealed. Pub. L. 94–455, title XII, § 1202(h)(1) , Oct. 4, 1976 , 90 Stat. 1688 ]

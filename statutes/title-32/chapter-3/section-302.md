@@ -5,15 +5,15 @@ usc_section: "302"
 chapter: 3
 current_through: "PL 119-73"
 classification: "32 U.S.C. § 302"
-generated_at: "2026-03-29T00:31:53.403Z"
+generated_at: "2026-03-29T02:14:14.592Z"
 ---
 
 # § 302. Enlistments, reenlistments, and extensions
 
-(a) Under regulations to be prescribed by the Secretary concerned, original enlistments in the National Guard may be accepted for—
-  (1) any specified term, not less than three years, for persons who have not served in an armed force; or
-  (2) any specified term, not less than one year, for persons who have served in any armed force.
-(b) Under regulations to be prescribed by the Secretary concerned, reenlistment in the National Guard may be accepted for any specified period, or, if the person last served in one of the highest five enlisted grades, for an unspecified period.
-(c) Enlistments or reenlistments in the National Guard may be extended—
-  (1) under regulations to be prescribed by the Secretary concerned, at the request of the member, for any period not less than six months; or
-  (2) by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.
+- **(a)** Under regulations to be prescribed by the Secretary concerned, original enlistments in the National Guard may be accepted for—
+  - **(1)** any specified term, not less than three years, for persons who have not served in an armed force; or
+  - **(2)** any specified term, not less than one year, for persons who have served in any armed force.
+- **(b)** Under regulations to be prescribed by the Secretary concerned, reenlistment in the National Guard may be accepted for any specified period, or, if the person last served in one of the highest five enlisted grades, for an unspecified period.
+- **(c)** Enlistments or reenlistments in the National Guard may be extended—
+  - **(1)** under regulations to be prescribed by the Secretary concerned, at the request of the member, for any period not less than six months; or
+  - **(2)** by proclamation of the President, if Congress declares an emergency, until six months after termination of that emergency.

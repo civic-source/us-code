@@ -5,15 +5,15 @@ usc_section: "6311"
 chapter: 63
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 6311"
-generated_at: "2026-03-29T00:33:13.756Z"
+generated_at: "2026-03-29T02:16:08.896Z"
 ---
 
 # § 6311. Research and development grants
 
 The Secretary may make grants to, or enter into cooperative agreements or contracts with, public and nonprofit private entities (including State transportation departments, metropolitan planning organizations, and institutions of higher education) for—
 
-  (1) investigation of the subjects described in section 6302(b)(3)(B)(vi);
-  (2) research and development of new methods of data collection, standardization, management, integration, dissemination, interpretation, and analysis;
-  (3) demonstration programs by States, local governments, and metropolitan planning organizations to coordinate data collection, reporting, management, storage, and archiving to simplify data comparisons across jurisdictions;
-  (4) development of electronic clearinghouses of transportation data and related information, as part of the Library; and
-  (5) development and improvement of methods for sharing geographic data, in support of the database under section 6310 1 1 So in original. Probably should be “section 6309”. and the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order).
+  - **(1)** investigation of the subjects described in section 6302(b)(3)(B)(vi);
+  - **(2)** research and development of new methods of data collection, standardization, management, integration, dissemination, interpretation, and analysis;
+  - **(3)** demonstration programs by States, local governments, and metropolitan planning organizations to coordinate data collection, reporting, management, storage, and archiving to simplify data comparisons across jurisdictions;
+  - **(4)** development of electronic clearinghouses of transportation data and related information, as part of the Library; and
+  - **(5)** development and improvement of methods for sharing geographic data, in support of the database under section 6310 1 1 So in original. Probably should be “section 6309”. and the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order).

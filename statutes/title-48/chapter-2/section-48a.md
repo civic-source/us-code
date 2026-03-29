@@ -5,7 +5,7 @@ usc_section: "48a"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 48a"
-generated_at: "2026-03-29T00:33:06.590Z"
+generated_at: "2026-03-29T02:16:00.796Z"
 ---
 
 # §§ 46b to 48a. Repealed. July 28, 1956, ch. 772 , title III, § 301(a)(1), (3), (5), 70 Stat. 712

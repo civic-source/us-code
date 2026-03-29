@@ -5,13 +5,13 @@ usc_section: "3200"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3200"
-generated_at: "2026-03-29T00:32:53.830Z"
+generated_at: "2026-03-29T02:15:36.662Z"
 ---
 
 # § 3200. Technical Assistance Liaisons
 
-(a) A Regional Director of a regional office of the Economic Development Administration may designate a staff member to act as a “Technical Assistance Liaison” for any State served by the regional office.
-(b) A Technical Assistance Liaison shall—
-  (1) work in coordination with an Economic Development Representative to provide technical assistance, in addition to technical assistance under section 3147 of this title , to eligible recipients that are underresourced communities, as determined by the Technical Assistance Liaison, that submit applications for assistance under subchapter II; and
-  (2) at the request of an eligible recipient that submitted an application for assistance under subchapter II, provide technical feedback on unsuccessful grant applications.
-(c) The Secretary may enter into a contract or cooperative agreement with an eligible recipient for the purpose of providing technical assistance to eligible recipients that are underresourced communities that have submitted or may submit an application for assistance under this chapter.
+- **(a)** A Regional Director of a regional office of the Economic Development Administration may designate a staff member to act as a “Technical Assistance Liaison” for any State served by the regional office.
+- **(b)** A Technical Assistance Liaison shall—
+  - **(1)** work in coordination with an Economic Development Representative to provide technical assistance, in addition to technical assistance under section 3147 of this title , to eligible recipients that are underresourced communities, as determined by the Technical Assistance Liaison, that submit applications for assistance under subchapter II; and
+  - **(2)** at the request of an eligible recipient that submitted an application for assistance under subchapter II, provide technical feedback on unsuccessful grant applications.
+- **(c)** The Secretary may enter into a contract or cooperative agreement with an eligible recipient for the purpose of providing technical assistance to eligible recipients that are underresourced communities that have submitted or may submit an application for assistance under this chapter.

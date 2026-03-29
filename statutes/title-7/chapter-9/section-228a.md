@@ -5,7 +5,7 @@ usc_section: "228a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 228a"
-generated_at: "2026-03-29T00:28:57.919Z"
+generated_at: "2026-03-29T02:10:16.711Z"
 ---
 
 # § 228a. Authority of Secretary to request temporary injunction or restraining order

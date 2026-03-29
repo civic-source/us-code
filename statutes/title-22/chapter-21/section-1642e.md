@@ -5,12 +5,12 @@ usc_section: "1642e"
 chapter: 21
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1642e"
-generated_at: "2026-03-29T00:30:33.734Z"
+generated_at: "2026-03-29T02:12:40.004Z"
 ---
 
 # § 1642e. Claims based on ownership interest in corporations or other legal entities
 
-(a) A claim under section 1642c of this title , based upon an ownership interest in any corporation, association, or other entity which is a national of the United States shall be denied.
-(b) A claim under section 1642c of this title , based upon a direct ownership interest in a corporation, association, or other entity for loss by reason of the nationalization or other taking of such corporation, association, or other entity, or the property thereof, shall be allowed, subject to other provisions of this subchapter, if such corporation, association, or other entity on the date of the nationalization or other taking was not a national of the United States, without regard to the per centum of ownership vested in the claimant in any such claim.
-(c) A claim under section 1642c of this title , based upon an indirect ownership interest in a corporation, association, or other entity for loss by reason of the nationalization or other taking of such corporation, association, or other entity, or the property thereof, shall be allowed, subject to other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof at the time of such nationalization or other taking was vested in nationals of the United States.
-(d) Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.
+- **(a)** A claim under section 1642c of this title , based upon an ownership interest in any corporation, association, or other entity which is a national of the United States shall be denied.
+- **(b)** A claim under section 1642c of this title , based upon a direct ownership interest in a corporation, association, or other entity for loss by reason of the nationalization or other taking of such corporation, association, or other entity, or the property thereof, shall be allowed, subject to other provisions of this subchapter, if such corporation, association, or other entity on the date of the nationalization or other taking was not a national of the United States, without regard to the per centum of ownership vested in the claimant in any such claim.
+- **(c)** A claim under section 1642c of this title , based upon an indirect ownership interest in a corporation, association, or other entity for loss by reason of the nationalization or other taking of such corporation, association, or other entity, or the property thereof, shall be allowed, subject to other provisions of this subchapter, only if at least 25 per centum of the entire ownership interest thereof at the time of such nationalization or other taking was vested in nationals of the United States.
+- **(d)** Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.

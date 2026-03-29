@@ -5,12 +5,12 @@ usc_section: "4909"
 chapter: 75
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4909"
-generated_at: "2026-03-29T00:29:41.873Z"
+generated_at: "2026-03-29T02:11:34.377Z"
 ---
 
 # § 4909. Exclusion of information
 
 The Data Bank shall not include any information—
 
-  (1) the disclosure of which to the public is prohibited under any other provision of law or otherwise authorized to be withheld under other provision of law; or
-  (2) that is specifically authorized under criteria established by statute or an Executive order not to be disclosed in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.
+  - **(1)** the disclosure of which to the public is prohibited under any other provision of law or otherwise authorized to be withheld under other provision of law; or
+  - **(2)** that is specifically authorized under criteria established by statute or an Executive order not to be disclosed in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.

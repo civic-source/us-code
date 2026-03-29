@@ -5,19 +5,19 @@ usc_section: "1724"
 chapter: 27
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1724"
-generated_at: "2026-03-29T00:06:10.960Z"
+generated_at: "2026-03-29T02:09:53.734Z"
 ---
 
 # § 1724. Responsibilities of Board
 
-(a) 
-  (1) The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
-  (2) The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as the guilds and societies representing sound recording artists) and other creative artists.
-(b) The Board shall conduct a study and issue a report on the following issues:
-  (1) The current state of sound recording archiving, preservation and restoration activities.
-  (2) Taking into account the research and other activities carried out by or on behalf of the National Audio-Visual Conservation Center at Culpeper, Virginia—
-    (A) the methodology and standards needed to make the transition from analog “open reel” preservation of sound recordings to digital preservation of sound recordings; and
-    (B) standards for access to preserved sound recordings by researchers, educators, and other interested parties.
-  (3) The establishment of clear standards for copying old sound recordings (including equipment specifications and equalization guidelines).
-  (4) Current laws and restrictions regarding the use of archives of sound recordings, including recommendations for changes in such laws and restrictions to enable the Library of Congress and other nonprofit institutions in the field of sound recording preservation to make their collections available to researchers in a digital format.
-  (5) Copyright and other laws applicable to the preservation of sound recordings.
+- **(a)**
+  - **(1)** The Board shall review nominations of sound recordings submitted to it for inclusion in the National Recording Registry and advise the Librarian, as provided in subchapter I, with respect to the inclusion of such recordings in the Registry and the preservation of these and other sound recordings that are culturally, historically, or aesthetically significant.
+  - **(2)** The Board shall consider for inclusion in the National Recording Registry nominations submitted by the general public as well as representatives of sound recording archives and the sound recording industry (such as the guilds and societies representing sound recording artists) and other creative artists.
+- **(b)** The Board shall conduct a study and issue a report on the following issues:
+  - **(1)** The current state of sound recording archiving, preservation and restoration activities.
+  - **(2)** Taking into account the research and other activities carried out by or on behalf of the National Audio-Visual Conservation Center at Culpeper, Virginia—
+    - **(A)** the methodology and standards needed to make the transition from analog “open reel” preservation of sound recordings to digital preservation of sound recordings; and
+    - **(B)** standards for access to preserved sound recordings by researchers, educators, and other interested parties.
+  - **(3)** The establishment of clear standards for copying old sound recordings (including equipment specifications and equalization guidelines).
+  - **(4)** Current laws and restrictions regarding the use of archives of sound recordings, including recommendations for changes in such laws and restrictions to enable the Library of Congress and other nonprofit institutions in the field of sound recording preservation to make their collections available to researchers in a digital format.
+  - **(5)** Copyright and other laws applicable to the preservation of sound recordings.

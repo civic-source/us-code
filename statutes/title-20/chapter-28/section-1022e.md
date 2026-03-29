@@ -1,0 +1,20 @@
+---
+title: "Section 1022e - Teacher development"
+usc_title: 20
+usc_section: "1022e"
+chapter: 28
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1022e"
+generated_at: "2026-03-29T02:12:17.187Z"
+---
+
+# § 1022e. Teacher development
+
+- **(a)** Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, including mathematics, science, special education, and instruction of limited English proficient students.
+- **(b)** Each institution described in subsection (a) shall provide assurances to the Secretary that—
+  - **(1)** training provided to prospective teachers responds to the identified needs of the local educational agencies or States where the institution’s graduates are likely to teach, based on past hiring and recruitment trends;
+  - **(2)** training provided to prospective teachers is closely linked with the needs of schools and the instructional decisions new teachers face in the classroom;
+  - **(3)** prospective special education teachers receive course work in core academic subjects and receive training in providing instruction in core academic subjects;
+  - **(4)** general education teachers receive training in providing instruction to diverse populations, including children with disabilities, limited English proficient students, and children from low-income families; and
+  - **(5)** prospective teachers receive training on how to effectively teach in urban and rural schools, as applicable.
+- **(c)** Nothing in this section shall be construed to require an institution to create a new teacher preparation area of concentration or degree program or adopt a specific curriculum in complying with this section.

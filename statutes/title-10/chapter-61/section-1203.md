@@ -5,17 +5,17 @@ usc_section: "1203"
 chapter: 61
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1203"
-generated_at: "2026-03-29T00:20:52.963Z"
+generated_at: "2026-03-29T02:10:44.993Z"
 ---
 
 # § 1203. Regulars and members on active duty for more than 30 days: separation
 
-(a) Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title is unfit to perform the duties of the member’s office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in section 1201(c)(3) of this title , the member may be separated from the member’s armed force, with severance pay computed under section 1212 of this title , if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
-(b) Determinations referred to in subsection (a) are determinations by the Secretary that—
-  (1) the member has less than 20 years of service computed under section 1208 of this title ;
-  (2) the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
-  (3) based upon accepted medical principles, the disability is or may be of a permanent nature; and
-  (4) either—
-    (A) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and the disability was (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, or (iii) incurred in line of duty after September 14, 1978 ;
-    (B) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was not noted at the time of the member’s entrance on active duty (unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service), or
-    (C) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978 , and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title .
+- **(a)** Upon a determination by the Secretary concerned that a member described in section 1201(c) of this title is unfit to perform the duties of the member’s office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in section 1201(c)(3) of this title , the member may be separated from the member’s armed force, with severance pay computed under section 1212 of this title , if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
+- **(b)** Determinations referred to in subsection (a) are determinations by the Secretary that—
+  - **(1)** the member has less than 20 years of service computed under section 1208 of this title ;
+  - **(2)** the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
+  - **(3)** based upon accepted medical principles, the disability is or may be of a permanent nature; and
+  - **(4)** either—
+    - **(A)** the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and the disability was (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, or (iii) incurred in line of duty after September 14, 1978 ;
+    - **(B)** the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was not noted at the time of the member’s entrance on active duty (unless clear and unmistakable evidence demonstrates that the disability existed before the member’s entrance on active duty and was not aggravated by active military service), or
+    - **(C)** the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, the disability was neither (i) the proximate result of performing active duty, (ii) incurred in line of duty in time of war or national emergency, nor (iii) incurred in line of duty after September 14, 1978 , and the member has less than eight years of service computed under section 1208 of this title on the date when he would otherwise be retired under section 1201 of this title or placed on the temporary disability retired list under section 1202 of this title .

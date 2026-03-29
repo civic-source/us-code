@@ -5,7 +5,7 @@ usc_section: "649i"
 chapter: 36
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 649i"
-generated_at: "2026-03-29T00:20:52.873Z"
+generated_at: "2026-03-29T02:10:44.897Z"
 ---
 
 # § 649i. Continuation on active duty: officers in certain military specialties and career tracks

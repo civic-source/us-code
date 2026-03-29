@@ -5,12 +5,12 @@ usc_section: "8235i"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8235i"
-generated_at: "2026-03-29T00:32:54.112Z"
+generated_at: "2026-03-29T02:15:37.010Z"
 ---
 
 # § 8235i. Authorization of appropriations
 
-(a) There is authorized to be appropriated to carry out this part—
-  (1) the sum of $10,000,000 for the fiscal year ending on September 30, 1981 ; and
-  (2) the sum equal to $10,000,000 minus the amount appropriated for the fiscal year ending on September 30, 1981 , under the authorization contained in this section, for the fiscal year ending on September 30, 1982 .
-(b) Any funds appropriated under the authorization contained in this section shall remain available until expended.
+- **(a)** There is authorized to be appropriated to carry out this part—
+  - **(1)** the sum of $10,000,000 for the fiscal year ending on September 30, 1981 ; and
+  - **(2)** the sum equal to $10,000,000 minus the amount appropriated for the fiscal year ending on September 30, 1981 , under the authorization contained in this section, for the fiscal year ending on September 30, 1982 .
+- **(b)** Any funds appropriated under the authorization contained in this section shall remain available until expended.

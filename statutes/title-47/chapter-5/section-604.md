@@ -5,10 +5,10 @@ usc_section: "604"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 604"
-generated_at: "2026-03-29T00:33:04.926Z"
+generated_at: "2026-03-29T02:15:59.243Z"
 ---
 
 # § 604. Effect of transfer
 
-(a) All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amended by this chapter or in the exercise of duties, powers, or functions transferred to the Commission by this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
-(b) All records transferred to the Commission under this chapter shall be available for use by the Commission to the same extent as if such records were originally records of the Commission. All final valuations and determinations of depreciation charges by the Interstate Commerce Commission with respect to common carriers engaged in radio or wire communication, and all orders of the Interstate Commerce Commission with respect to such valuations and determinations, shall have the same force and effect as though made by the Commission under this chapter.
+- **(a)** All orders, determinations, rules, regulations, permits, contracts, licenses, and privileges which have been issued, made, or granted by the Interstate Commerce Commission, the Federal Radio Commission, or the Postmaster General, under any provision of law repealed or amended by this chapter or in the exercise of duties, powers, or functions transferred to the Commission by this chapter, and which are in effect at the time this section takes effect, shall continue in effect until modified, terminated, superseded, or repealed by the Commission or by operation of law.
+- **(b)** All records transferred to the Commission under this chapter shall be available for use by the Commission to the same extent as if such records were originally records of the Commission. All final valuations and determinations of depreciation charges by the Interstate Commerce Commission with respect to common carriers engaged in radio or wire communication, and all orders of the Interstate Commerce Commission with respect to such valuations and determinations, shall have the same force and effect as though made by the Commission under this chapter.

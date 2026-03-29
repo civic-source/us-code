@@ -5,14 +5,14 @@ usc_section: "619"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 619"
-generated_at: "2026-03-29T00:33:04.934Z"
+generated_at: "2026-03-29T02:15:59.248Z"
 ---
 
 # § 619. Internet browsers built into telephones used with public mobile services
 
-(a) If a manufacturer of a telephone used with public mobile services (as such term is defined in section 610(b)(4)(B) of this title ) includes an Internet browser in such telephone, or if a provider of mobile service arranges for the inclusion of a browser in telephones to sell to customers, the manufacturer or provider shall ensure that the functions of the included browser (including the ability to launch the browser) are accessible to and usable by individuals who are blind or have a visual impairment, unless doing so is not achievable, except that this subsection shall not impose any requirement on such manufacturer or provider—
-  (1) to make accessible or usable any Internet browser other than a browser that such manufacturer or provider includes or arranges to include in the telephone; or
-  (2) to make Internet content, applications, or services accessible or usable (other than enabling individuals with disabilities to use an included browser to access such content, applications, or services).
-(b) A manufacturer or provider may satisfy the requirements of subsection (a) with respect to such telephone or services by—
-  (1) ensuring that the telephone or services that such manufacture or provider offers is accessible to and usable by individuals with disabilities without the use of third party applications, peripheral devices, software, hardware, or customer premises equipment; or
-  (2) using third party applications, peripheral devices, software, hardware, or customer premises equipment that is available to the consumer at nominal cost and that individuals with disabilities can access.
+- **(a)** If a manufacturer of a telephone used with public mobile services (as such term is defined in section 610(b)(4)(B) of this title ) includes an Internet browser in such telephone, or if a provider of mobile service arranges for the inclusion of a browser in telephones to sell to customers, the manufacturer or provider shall ensure that the functions of the included browser (including the ability to launch the browser) are accessible to and usable by individuals who are blind or have a visual impairment, unless doing so is not achievable, except that this subsection shall not impose any requirement on such manufacturer or provider—
+  - **(1)** to make accessible or usable any Internet browser other than a browser that such manufacturer or provider includes or arranges to include in the telephone; or
+  - **(2)** to make Internet content, applications, or services accessible or usable (other than enabling individuals with disabilities to use an included browser to access such content, applications, or services).
+- **(b)** A manufacturer or provider may satisfy the requirements of subsection (a) with respect to such telephone or services by—
+  - **(1)** ensuring that the telephone or services that such manufacture or provider offers is accessible to and usable by individuals with disabilities without the use of third party applications, peripheral devices, software, hardware, or customer premises equipment; or
+  - **(2)** using third party applications, peripheral devices, software, hardware, or customer premises equipment that is available to the consumer at nominal cost and that individuals with disabilities can access.

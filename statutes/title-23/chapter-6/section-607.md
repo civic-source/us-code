@@ -5,7 +5,7 @@ usc_section: "607"
 chapter: 6
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 607"
-generated_at: "2026-03-29T00:07:07.693Z"
+generated_at: "2026-03-29T02:13:00.982Z"
 ---
 
 # § 607. Regulations

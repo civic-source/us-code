@@ -5,19 +5,19 @@ usc_section: "9913"
 chapter: 106
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9913"
-generated_at: "2026-03-29T00:32:54.186Z"
+generated_at: "2026-03-29T02:15:37.109Z"
 ---
 
 # § 9913. Training, technical assistance, and other activities
 
-(a) 
-  (1) The Secretary shall use amounts reserved in section 9903(b)(2) of this title —
-    (A) for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
-    (B) to distribute amounts in accordance with subsection (c).
-  (2) The activities described in paragraph (1)(A) may be carried out by the Secretary through grants, contracts, or cooperative agreements with appropriate entities.
-(b) The process for determining the training and technical assistance to be carried out under this section shall—
-  (1) ensure that the needs of eligible entities and programs relating to improving program quality (including quality of financial management practices) are addressed to the maximum extent feasible; and
-  (2) incorporate mechanisms to ensure responsiveness to local needs, including an ongoing procedure for obtaining input from the national and State networks of eligible entities.
-(c) 
-  (1) The amounts reserved under section 9903(b)(2)(A) of this title for activities to be carried out under this subsection shall be distributed directly to eligible entities, organizations, or associations described in paragraph (2) for the purpose of improving program quality (including quality of financial management practices), management information and reporting systems, and measurement of program results, and for the purpose of ensuring responsiveness to identified local needs.
-  (2) Eligible entities, organizations, or associations described in this paragraph shall be eligible entities, or statewide or local organizations or associations, with demonstrated expertise in providing training to individuals and organizations on methods of effectively addressing the needs of low-income families and communities.
+- **(a)**
+  - **(1)** The Secretary shall use amounts reserved in section 9903(b)(2) of this title —
+    - **(A)** for training, technical assistance, planning, evaluation, and performance measurement, to assist States in carrying out corrective action activities and monitoring (to correct programmatic deficiencies of eligible entities), and for reporting and data collection activities, related to programs carried out under this chapter; and
+    - **(B)** to distribute amounts in accordance with subsection (c).
+  - **(2)** The activities described in paragraph (1)(A) may be carried out by the Secretary through grants, contracts, or cooperative agreements with appropriate entities.
+- **(b)** The process for determining the training and technical assistance to be carried out under this section shall—
+  - **(1)** ensure that the needs of eligible entities and programs relating to improving program quality (including quality of financial management practices) are addressed to the maximum extent feasible; and
+  - **(2)** incorporate mechanisms to ensure responsiveness to local needs, including an ongoing procedure for obtaining input from the national and State networks of eligible entities.
+- **(c)**
+  - **(1)** The amounts reserved under section 9903(b)(2)(A) of this title for activities to be carried out under this subsection shall be distributed directly to eligible entities, organizations, or associations described in paragraph (2) for the purpose of improving program quality (including quality of financial management practices), management information and reporting systems, and measurement of program results, and for the purpose of ensuring responsiveness to identified local needs.
+  - **(2)** Eligible entities, organizations, or associations described in this paragraph shall be eligible entities, or statewide or local organizations or associations, with demonstrated expertise in providing training to individuals and organizations on methods of effectively addressing the needs of low-income families and communities.

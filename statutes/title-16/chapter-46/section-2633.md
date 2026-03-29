@@ -5,22 +5,22 @@ usc_section: "2633"
 chapter: 46
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2633"
-generated_at: "2026-03-29T00:29:52.780Z"
+generated_at: "2026-03-29T02:11:53.866Z"
 ---
 
 # § 2633. Judicial review and enforcement
 
-(a) Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—
-  (1) an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2); and
-  (2) review of any action in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
-(b) 
-  (1) The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene and participate under section 2631(a) of this title , and such court shall have jurisdiction to grant appropriate relief.
-  (2) If any electric utility or electric consumer having a right to intervene under section 2631(a) of this title is denied such right by any State court, such electric utility or electric consumer may bring an action in the appropriate United States district court to require the State regulatory authority or nonregulated electric utility to permit such intervention and participation, and such court shall have jurisdiction to grant appropriate relief.
-  (3) Nothing in this subsection prohibits any person bringing any action under this subsection in a court of the United States from seeking review and enforcement at any time in any State court of any rights he may have with respect to any motion to intervene or participate in any proceeding.
-(c) 
-  (1) Any person (including the Secretary) may obtain review of any determination made under subchapter I or II or under this subchapter with respect to any electric utility (other than a utility which is a Federal agency) in the appropriate State court if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if State law otherwise permits such review. Any person (including the Secretary) may bring an action to enforce the requirements of this chapter in the appropriate State court, except that no such action may be brought in a State court with respect to a utility which is a Federal agency. Such review or action in a State court shall be pursuant to any applicable State procedures.
-  (2) Any person (including the Secretary) may obtain review in the appropriate court of the United States of any determination made under subchapter I or II or this subchapter by a Federal agency if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if otherwise applicable law permits such review. Such court shall have jurisdiction to grant appropriate relief. Any person (including the Secretary) may bring an action to enforce the requirements of subchapter I or II or this subchapter with respect to any Federal agency in the appropriate court of the United States and such court shall have jurisdiction to grant appropriate relief.
-  (3) In addition to his authority to obtain review under paragraph (1) or (2), the Secretary may also participate as an amicus curiae in any review by any court of an action arising under the provisions of subchapter I or II or this subchapter.
-(d) Nothing in this section prohibits the Secretary from—
-  (1) intervening and participating in any proceeding, or
-  (2) intervening and participating in any review by any court of any action
+- **(a)** Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—
+  - **(1)** an action over which a court of the United States has jurisdiction under subsection (b) or (c)(2); and
+  - **(2)** review of any action in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
+- **(b)**
+  - **(1)** The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene and participate under section 2631(a) of this title , and such court shall have jurisdiction to grant appropriate relief.
+  - **(2)** If any electric utility or electric consumer having a right to intervene under section 2631(a) of this title is denied such right by any State court, such electric utility or electric consumer may bring an action in the appropriate United States district court to require the State regulatory authority or nonregulated electric utility to permit such intervention and participation, and such court shall have jurisdiction to grant appropriate relief.
+  - **(3)** Nothing in this subsection prohibits any person bringing any action under this subsection in a court of the United States from seeking review and enforcement at any time in any State court of any rights he may have with respect to any motion to intervene or participate in any proceeding.
+- **(c)**
+  - **(1)** Any person (including the Secretary) may obtain review of any determination made under subchapter I or II or under this subchapter with respect to any electric utility (other than a utility which is a Federal agency) in the appropriate State court if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if State law otherwise permits such review. Any person (including the Secretary) may bring an action to enforce the requirements of this chapter in the appropriate State court, except that no such action may be brought in a State court with respect to a utility which is a Federal agency. Such review or action in a State court shall be pursuant to any applicable State procedures.
+  - **(2)** Any person (including the Secretary) may obtain review in the appropriate court of the United States of any determination made under subchapter I or II or this subchapter by a Federal agency if such person (or the Secretary) intervened or otherwise participated in the original proceeding or if otherwise applicable law permits such review. Such court shall have jurisdiction to grant appropriate relief. Any person (including the Secretary) may bring an action to enforce the requirements of subchapter I or II or this subchapter with respect to any Federal agency in the appropriate court of the United States and such court shall have jurisdiction to grant appropriate relief.
+  - **(3)** In addition to his authority to obtain review under paragraph (1) or (2), the Secretary may also participate as an amicus curiae in any review by any court of an action arising under the provisions of subchapter I or II or this subchapter.
+- **(d)** Nothing in this section prohibits the Secretary from—
+  - **(1)** intervening and participating in any proceeding, or
+  - **(2)** intervening and participating in any review by any court of any action

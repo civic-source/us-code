@@ -5,14 +5,14 @@ usc_section: "2732"
 chapter: 163
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2732"
-generated_at: "2026-03-29T00:20:53.083Z"
+generated_at: "2026-03-29T02:10:45.140Z"
 ---
 
 # § 2732. Payment of claims: availability of appropriations
 
 Appropriations available to the Department of Defense for operation and maintenance may be used for payment of claims authorized by law to be paid by the Department of Defense (except for civil functions), including—
 
-  (1) claims for damages arising under training contracts with carriers; and
-  (2) repayment of amounts determined by the Secretary concerned to have been erroneously collected—
-    (A) from military and civilian personnel of the Department of Defense; or
-    (B) from States or territories or the District of Columbia (or members of the National Guard units thereof).
+  - **(1)** claims for damages arising under training contracts with carriers; and
+  - **(2)** repayment of amounts determined by the Secretary concerned to have been erroneously collected—
+    - **(A)** from military and civilian personnel of the Department of Defense; or
+    - **(B)** from States or territories or the District of Columbia (or members of the National Guard units thereof).

@@ -5,16 +5,16 @@ usc_section: "4967"
 chapter: 42
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4967"
-generated_at: "2026-03-29T00:31:20.965Z"
+generated_at: "2026-03-29T02:14:01.232Z"
 ---
 
 # § 4967. Taxes on prohibited benefits
 
-(a) 
-  (1) There is hereby imposed on the advice of any person described in subsection (d) to have a sponsoring organization make a distribution from a donor advised fund which results in such person or any other person described in subsection (d) receiving, directly or indirectly, a more than incidental benefit as a result of such distribution, a tax equal to 125 percent of such benefit. The tax imposed by this paragraph shall be paid by any person described in subsection (d) who advises as to the distribution or who receives such a benefit as a result of the distribution.
-  (2) There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that such distribution would confer a benefit described in paragraph (1), a tax equal to 10 percent of the amount of such benefit. The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
-(b) No tax shall be imposed under this section with respect to any distribution if a tax has been imposed with respect to such distribution under section 4958.
-(c) For purposes of subsection (a)—
-  (1) If more than one person is liable under paragraph (1) or (2) of subsection (a) with respect to a distribution described in subsection (a), all such persons shall be jointly and severally liable under such paragraph with respect to such distribution.
-  (2) With respect to any one distribution described in subsection (a), the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $10,000.
-(d) A person is described in this subsection if such person is described in section 4958(f)(7) with respect to a donor advised fund.
+- **(a)**
+  - **(1)** There is hereby imposed on the advice of any person described in subsection (d) to have a sponsoring organization make a distribution from a donor advised fund which results in such person or any other person described in subsection (d) receiving, directly or indirectly, a more than incidental benefit as a result of such distribution, a tax equal to 125 percent of such benefit. The tax imposed by this paragraph shall be paid by any person described in subsection (d) who advises as to the distribution or who receives such a benefit as a result of the distribution.
+  - **(2)** There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that such distribution would confer a benefit described in paragraph (1), a tax equal to 10 percent of the amount of such benefit. The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
+- **(b)** No tax shall be imposed under this section with respect to any distribution if a tax has been imposed with respect to such distribution under section 4958.
+- **(c)** For purposes of subsection (a)—
+  - **(1)** If more than one person is liable under paragraph (1) or (2) of subsection (a) with respect to a distribution described in subsection (a), all such persons shall be jointly and severally liable under such paragraph with respect to such distribution.
+  - **(2)** With respect to any one distribution described in subsection (a), the maximum amount of the tax imposed by subsection (a)(2) shall not exceed $10,000.
+- **(d)** A person is described in this subsection if such person is described in section 4958(f)(7) with respect to a donor advised fund.

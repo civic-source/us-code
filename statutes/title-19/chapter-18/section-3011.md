@@ -5,39 +5,39 @@ usc_section: "3011"
 chapter: 18
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3011"
-generated_at: "2026-03-29T00:30:20.256Z"
+generated_at: "2026-03-29T02:12:08.724Z"
 ---
 
 # § 3011. Transition to Harmonized Tariff Schedule
 
-(a) 
-  (1) The appropriate officers of the United States Government shall take whatever actions are necessary to conform, to the fullest extent practicable, with the tariff classification system of the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
-    (A) are in effect on the day before January 1, 1989 ; and
-    (B) contain references to the tariff classification of articles under the old Schedules.
-  (2) Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changes required under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
-(b) 
-  (1) The review of the proposed conversion of the Generalized System of Preferences program to the Convention tariff nomenclature, initiated by the Office of the United States Trade Representative by notice published in the Federal Register on December 8, 1986 (at page 44,163 of volume 51 thereof), shall be treated as satisfying the requirements of sections 2463(a) and 2464(c)(3) of this title (as in effect on July 31, 1995 ).
-  (2) In applying section 2464(c)(1) of this title (as in effect on July 31, 1995 ) for calendar year 1989, the reference in such section to July 1 shall be treated as a reference to September 1.
-(c) 
-  (1) Whenever the President determines that the conversion of an import restriction proclaimed under section 22 of the Agricultural Adjustment Act ( 7 U.S.C. 624 ) from part 3 of the Appendix to the old Schedules to subchapter IV of chapter 99 of the Harmonized Tariff Schedule results in—
-    (A) an article that was previously subject to the restriction being excluded from the restriction; or
-    (B) an article not previously subject to the restriction being included within the restriction;
-  (2) Whenever the President determines that the conversion from headnote 2 of subpart A of part 10 of schedule 1 of the old Schedules to Additional U.S. Note 2, chapter 17, of the Harmonized Tariff Schedule results in—
-    (A) an article that was previously covered by such headnote being excluded from coverage; or
-    (B) an article not previously covered by such headnote being included in coverage;
-  (3) No change to the Harmonized Tariff Schedule may be proclaimed under paragraph (1) or (2) after June 30, 1990 .
-(d) 
-  (1) 
-    (A) This chapter may not be considered to divest the courts of jurisdiction over—
-      (i) any protest filed under section 1514 of this title ; or
-      (ii) any petition by an American manufacturer, producer, or wholesaler under section 1516 of this title ;
-    (B) Nothing in this chapter shall affect the jurisdiction of the courts with respect to articles entered after January 1, 1989 .
-  (2) 
-    (A) If any protest or petition referred to in paragraph (1)(A) is sustained in whole or in part by a final judicial decision, the entries subject to that protest or petition and made before January 1, 1989 , shall be liquidated or reliquidated, as appropriate, in accordance with such final judicial decision under the old Schedules.
-    (B) At the earliest practicable date after January 1, 1989 , the Commission shall initiate an investigation under section 1332 of this title of those final judicial decisions referred to in subparagraph (A) that—
-      (i) are published during the 2-year period beginning on February 1, 1988 ; and
-      (ii) would have affected tariff treatment if they had been published during the period of the conversion of the old Schedules into the format of the Convention.
-  (3) The President shall review all changes recommended by the Commission under paragraph (2)(B) and shall, as soon as practicable, proclaim such of those changes, if any, which he decides are necessary or appropriate to conform such Schedule to the final judicial decisions. Any such change shall be effective with respect to—
-    (A) entries made on or after the date of such proclamation; and
-    (B) entries made on or after January 1, 1989 , if, notwithstanding section 1514 of this title , application for liquidation or reliquidation thereof is made by the importer to the customs officer concerned within 180 days after the effective date of such proclamation.
-  (4) If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989 , shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.
+- **(a)**
+  - **(1)** The appropriate officers of the United States Government shall take whatever actions are necessary to conform, to the fullest extent practicable, with the tariff classification system of the Harmonized Tariff Schedule all proclamations, regulations, rulings, notices, findings, determinations, orders, recommendations, and other written actions that—
+    - **(A)** are in effect on the day before January 1, 1989 ; and
+    - **(B)** contain references to the tariff classification of articles under the old Schedules.
+  - **(2)** Neither the repeal of the old Schedules, nor the failure of any officer of the United States Government to make the conforming changes required under paragraph (1), shall affect to any extent the validity or effect of the proclamation, regulation, ruling, notice, finding, determination, order, recommendation, or other action referred to in paragraph (1).
+- **(b)**
+  - **(1)** The review of the proposed conversion of the Generalized System of Preferences program to the Convention tariff nomenclature, initiated by the Office of the United States Trade Representative by notice published in the Federal Register on December 8, 1986 (at page 44,163 of volume 51 thereof), shall be treated as satisfying the requirements of sections 2463(a) and 2464(c)(3) of this title (as in effect on July 31, 1995 ).
+  - **(2)** In applying section 2464(c)(1) of this title (as in effect on July 31, 1995 ) for calendar year 1989, the reference in such section to July 1 shall be treated as a reference to September 1.
+- **(c)**
+  - **(1)** Whenever the President determines that the conversion of an import restriction proclaimed under section 22 of the Agricultural Adjustment Act ( 7 U.S.C. 624 ) from part 3 of the Appendix to the old Schedules to subchapter IV of chapter 99 of the Harmonized Tariff Schedule results in—
+    - **(A)** an article that was previously subject to the restriction being excluded from the restriction; or
+    - **(B)** an article not previously subject to the restriction being included within the restriction;
+  - **(2)** Whenever the President determines that the conversion from headnote 2 of subpart A of part 10 of schedule 1 of the old Schedules to Additional U.S. Note 2, chapter 17, of the Harmonized Tariff Schedule results in—
+    - **(A)** an article that was previously covered by such headnote being excluded from coverage; or
+    - **(B)** an article not previously covered by such headnote being included in coverage;
+  - **(3)** No change to the Harmonized Tariff Schedule may be proclaimed under paragraph (1) or (2) after June 30, 1990 .
+- **(d)**
+  - **(1)**
+    - **(A)** This chapter may not be considered to divest the courts of jurisdiction over—
+      - **(i)** any protest filed under section 1514 of this title ; or
+      - **(ii)** any petition by an American manufacturer, producer, or wholesaler under section 1516 of this title ;
+    - **(B)** Nothing in this chapter shall affect the jurisdiction of the courts with respect to articles entered after January 1, 1989 .
+  - **(2)**
+    - **(A)** If any protest or petition referred to in paragraph (1)(A) is sustained in whole or in part by a final judicial decision, the entries subject to that protest or petition and made before January 1, 1989 , shall be liquidated or reliquidated, as appropriate, in accordance with such final judicial decision under the old Schedules.
+    - **(B)** At the earliest practicable date after January 1, 1989 , the Commission shall initiate an investigation under section 1332 of this title of those final judicial decisions referred to in subparagraph (A) that—
+      - **(i)** are published during the 2-year period beginning on February 1, 1988 ; and
+      - **(ii)** would have affected tariff treatment if they had been published during the period of the conversion of the old Schedules into the format of the Convention.
+  - **(3)** The President shall review all changes recommended by the Commission under paragraph (2)(B) and shall, as soon as practicable, proclaim such of those changes, if any, which he decides are necessary or appropriate to conform such Schedule to the final judicial decisions. Any such change shall be effective with respect to—
+    - **(A)** entries made on or after the date of such proclamation; and
+    - **(B)** entries made on or after January 1, 1989 , if, notwithstanding section 1514 of this title , application for liquidation or reliquidation thereof is made by the importer to the customs officer concerned within 180 days after the effective date of such proclamation.
+  - **(4)** If any protest or petition referred to in paragraph (1)(A) is not sustained in whole or in part by a final judicial decision, the entries subject to that petition or protest and made before January 1, 1989 , shall be liquidated or reliquidated, as appropriate, in accordance with the final judicial decision under the old Schedules.

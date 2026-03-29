@@ -5,41 +5,41 @@ usc_section: "312"
 chapter: 3
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 312"
-generated_at: "2026-03-29T00:29:24.976Z"
+generated_at: "2026-03-29T02:11:23.772Z"
 ---
 
 # § 312. Western Alaska Oil Spill Planning Criteria Program
 
-(a) There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
-(b) 
-  (1) Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
-    (A) the primary duty of whom shall be to administer the Program; and
-    (B) who shall not be subject to frequent or routine reassignment.
-  (2) The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
-  (3) 
-    (A) The Program Manager shall develop guidance for—
-      (i) approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
-      (ii) gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
-    (B) Not less frequently than once every 5 years, the Program Manager shall—
-      (i) assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
-      (ii) identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
-    (C) The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Coast Guard Arctic District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
-(c) The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
-  (1) developing formalized training on the Program that, at a minimum—
-    (A) provides in-depth analysis of—
-      (i) the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
-      (ii) alternative planning criteria;
-      (iii) Western Alaska oil spill planning criteria;
-      (iv) Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
-      (v) the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
-      (vi) responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
-    (B) explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
-    (C) provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ), including instruction on carrying out such actions—
-      (i) in any geographic area in the United States; and
-      (ii) specifically in the Coast Guard Arctic District; and
-  (2) providing such training to all Coast Guard personnel involved in the Program.
-(d) In this section:
-  (1) The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
-  (2) The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
-  (3) The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j)(5) ).
-  (4) The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ).
+- **(a)** There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
+- **(b)**
+  - **(1)** Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
+    - **(A)** the primary duty of whom shall be to administer the Program; and
+    - **(B)** who shall not be subject to frequent or routine reassignment.
+  - **(2)** The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
+  - **(3)**
+    - **(A)** The Program Manager shall develop guidance for—
+      - **(i)** approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
+      - **(ii)** gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
+    - **(B)** Not less frequently than once every 5 years, the Program Manager shall—
+      - **(i)** assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
+      - **(ii)** identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
+    - **(C)** The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Coast Guard Arctic District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
+- **(c)** The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
+  - **(1)** developing formalized training on the Program that, at a minimum—
+    - **(A)** provides in-depth analysis of—
+      - **(i)** the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
+      - **(ii)** alternative planning criteria;
+      - **(iii)** Western Alaska oil spill planning criteria;
+      - **(iv)** Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
+      - **(v)** the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
+      - **(vi)** responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
+    - **(B)** explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
+    - **(C)** provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ), including instruction on carrying out such actions—
+      - **(i)** in any geographic area in the United States; and
+      - **(ii)** specifically in the Coast Guard Arctic District; and
+  - **(2)** providing such training to all Coast Guard personnel involved in the Program.
+- **(d)** In this section:
+  - **(1)** The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
+  - **(2)** The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+  - **(3)** The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j)(5) ).
+  - **(4)** The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ( 33 U.S.C. 1321(j) ).

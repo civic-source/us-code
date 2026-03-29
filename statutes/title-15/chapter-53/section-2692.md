@@ -5,7 +5,7 @@ usc_section: "2692"
 chapter: 53
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2692"
-generated_at: "2026-03-29T00:29:41.810Z"
+generated_at: "2026-03-29T02:11:34.314Z"
 ---
 
 # § 2692. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "6008"
 chapter: 69
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6008"
-generated_at: "2026-03-29T00:30:33.952Z"
+generated_at: "2026-03-29T02:12:40.370Z"
 ---
 
 # § 6008. Existing claims not affected

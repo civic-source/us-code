@@ -5,13 +5,13 @@ usc_section: "2709"
 chapter: 160
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2709"
-generated_at: "2026-03-29T00:20:53.079Z"
+generated_at: "2026-03-29T02:10:45.138Z"
 ---
 
 # § 2709. Investment control process for environmental technologies
 
-(a) The Secretary of Defense shall ensure that the technology planning process developed to implement section 4811 of this title and section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 110 Stat. 2469 ) provides for an investment control process for the selection, prioritization, management, and evaluation of environmental technologies by the Department of Defense, the military departments, and the Defense Agencies.
-(b) The environmental technology investment control process required by subsection (a) shall provide, at a minimum, for the following:
-  (1) The active participation by end-users of environmental technology, including the officials responsible for the environmental security programs of the Department of Defense and the military departments, in the selection and prioritization of environmental technologies.
-  (2) The development of measurable performance goals and objectives for the management and development of environmental technologies and specific mechanisms for assuring the achievement of the goals and objectives.
-  (3) Annual performance reviews to determine whether the goals and objectives have been achieved and to take appropriate action in the event that they are not achieved.
+- **(a)** The Secretary of Defense shall ensure that the technology planning process developed to implement section 4811 of this title and section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 ( Public Law 104–201 ; 110 Stat. 2469 ) provides for an investment control process for the selection, prioritization, management, and evaluation of environmental technologies by the Department of Defense, the military departments, and the Defense Agencies.
+- **(b)** The environmental technology investment control process required by subsection (a) shall provide, at a minimum, for the following:
+  - **(1)** The active participation by end-users of environmental technology, including the officials responsible for the environmental security programs of the Department of Defense and the military departments, in the selection and prioritization of environmental technologies.
+  - **(2)** The development of measurable performance goals and objectives for the management and development of environmental technologies and specific mechanisms for assuring the achievement of the goals and objectives.
+  - **(3)** Annual performance reviews to determine whether the goals and objectives have been achieved and to take appropriate action in the event that they are not achieved.

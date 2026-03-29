@@ -5,7 +5,7 @@ usc_section: "673c"
 chapter: 39
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 673c"
-generated_at: "2026-03-29T00:20:52.875Z"
+generated_at: "2026-03-29T02:10:44.899Z"
 ---
 
 # [§ 673c. Renumbered § 12305]

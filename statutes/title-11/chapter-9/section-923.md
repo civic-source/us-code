@@ -5,7 +5,7 @@ usc_section: "923"
 chapter: 9
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 923"
-generated_at: "2026-03-29T00:28:59.964Z"
+generated_at: "2026-03-29T02:10:54.341Z"
 ---
 
 # § 923. Notice

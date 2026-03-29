@@ -5,7 +5,7 @@ usc_section: "14611"
 chapter: 140
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14611"
-generated_at: "2026-03-29T00:32:54.339Z"
+generated_at: "2026-03-29T02:15:37.282Z"
 ---
 
 # § 14611. Transferred

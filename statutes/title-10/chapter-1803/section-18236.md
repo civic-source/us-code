@@ -5,18 +5,18 @@ usc_section: "18236"
 chapter: 1803
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 18236"
-generated_at: "2026-03-29T00:20:53.304Z"
+generated_at: "2026-03-29T02:10:45.392Z"
 ---
 
 # § 18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
-(b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
-  (1) 100 percent of the cost of architectural, engineering and design services (including advance architectural, engineering and design services under section 18233(e) of this title ); and
-  (2) a percentage of the cost of construction (exclusive of the cost of architectural, engineering and design services) calculated so that upon completion of construction the total contribution (including the contribution for architectural, engineering and design services) equals 75 percent of the total cost of construction (including the cost of architectural, engineering and design services).
-(c) If a State acquires, constructs, expands, rehabilitates, or converts a facility with amounts contributed under section 18233 of this title , it may—
-  (1) permit persons or organizations other than members and units of the armed forces to use the facility under such leases or other agreements as it considers appropriate; and
-  (2) apply amounts received under those leases or agreements to the cost of maintaining the facility.
-(d) Except as otherwise agreed when the contribution is made, and except as the agreement is later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
-  (1) for administering and training the reserve components of the armed forces; or
-  (2) in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.
+- **(a)** Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+- **(b)** A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
+  - **(1)** 100 percent of the cost of architectural, engineering and design services (including advance architectural, engineering and design services under section 18233(e) of this title ); and
+  - **(2)** a percentage of the cost of construction (exclusive of the cost of architectural, engineering and design services) calculated so that upon completion of construction the total contribution (including the contribution for architectural, engineering and design services) equals 75 percent of the total cost of construction (including the cost of architectural, engineering and design services).
+- **(c)** If a State acquires, constructs, expands, rehabilitates, or converts a facility with amounts contributed under section 18233 of this title , it may—
+  - **(1)** permit persons or organizations other than members and units of the armed forces to use the facility under such leases or other agreements as it considers appropriate; and
+  - **(2)** apply amounts received under those leases or agreements to the cost of maintaining the facility.
+- **(d)** Except as otherwise agreed when the contribution is made, and except as the agreement is later changed, a State may not permit any use or disposition of the facility that would interfere with its use—
+  - **(1)** for administering and training the reserve components of the armed forces; or
+  - **(2)** in time of war or national emergency, by other units of the armed forces or by the United States for any other purpose.

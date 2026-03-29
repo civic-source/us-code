@@ -5,7 +5,7 @@ usc_section: "3911"
 chapter: 48
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3911"
-generated_at: "2026-03-29T00:32:53.848Z"
+generated_at: "2026-03-29T02:15:36.684Z"
 ---
 
 # § 3911. Repealed. Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983 , 97 Stat. 1239

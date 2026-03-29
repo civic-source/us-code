@@ -5,7 +5,7 @@ usc_section: "8329"
 chapter: 841
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8329"
-generated_at: "2026-03-29T00:20:53.220Z"
+generated_at: "2026-03-29T02:10:45.303Z"
 ---
 
 # § 8329. Officers not to be retired for misconduct

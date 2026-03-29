@@ -5,13 +5,13 @@ usc_section: "5234"
 chapter: 83
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5234"
-generated_at: "2026-03-29T00:28:58.203Z"
+generated_at: "2026-03-29T02:10:17.038Z"
 ---
 
 # § 5234. Cooperator organizations
 
-(a) It is the sense of Congress that the foreign market development cooperator program of the Service, and the activities of individual foreign market cooperator organizations, have been among the most successful and cost-effective means to expand United States agricultural exports. Congress affirms its support for the program and the activities of the cooperator organizations. The Administrator and the private sector should work together to ensure that the program, and the activities of cooperator organizations, are expanded in the future.
-(b) The Secretary of Agriculture may make available to cooperator organizations agricultural commodities owned by the Commodity Credit Corporation, for use by such cooperators in projects designed to expand markets for United States agricultural commodities and products.
-(c) Commodities made available to cooperator organizations under this section shall be in addition to, and not in lieu of, funds appropriated for market development activities of such cooperator organizations.
-(d) The Secretary shall take appropriate action to prevent conflicts of interest among cooperator organizations participating in the cooperator program.
-(e) It is the sense of Congress that the Secretary should establish a consistent, objective means for the evaluation of cooperator programs.
+- **(a)** It is the sense of Congress that the foreign market development cooperator program of the Service, and the activities of individual foreign market cooperator organizations, have been among the most successful and cost-effective means to expand United States agricultural exports. Congress affirms its support for the program and the activities of the cooperator organizations. The Administrator and the private sector should work together to ensure that the program, and the activities of cooperator organizations, are expanded in the future.
+- **(b)** The Secretary of Agriculture may make available to cooperator organizations agricultural commodities owned by the Commodity Credit Corporation, for use by such cooperators in projects designed to expand markets for United States agricultural commodities and products.
+- **(c)** Commodities made available to cooperator organizations under this section shall be in addition to, and not in lieu of, funds appropriated for market development activities of such cooperator organizations.
+- **(d)** The Secretary shall take appropriate action to prevent conflicts of interest among cooperator organizations participating in the cooperator program.
+- **(e)** It is the sense of Congress that the Secretary should establish a consistent, objective means for the evaluation of cooperator programs.

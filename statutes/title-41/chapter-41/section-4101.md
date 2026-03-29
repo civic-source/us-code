@@ -5,16 +5,16 @@ usc_section: "4101"
 chapter: 41
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 4101"
-generated_at: "2026-03-29T00:32:22.600Z"
+generated_at: "2026-03-29T02:15:00.460Z"
 ---
 
 # § 4101. Definitions
 
 In this chapter:
 
-  (1) The term “delivery order contract” means a contract for property that—
-    (A) does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
-    (B) provides for the issuance of orders for the delivery of property during the period of the contract.
-  (2) The term “task order contract” means a contract for services that—
-    (A) does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
-    (B) provides for the issuance of orders for the performance of tasks during the period of the contract.
+  - **(1)** The term “delivery order contract” means a contract for property that—
+    - **(A)** does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
+    - **(B)** provides for the issuance of orders for the delivery of property during the period of the contract.
+  - **(2)** The term “task order contract” means a contract for services that—
+    - **(A)** does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
+    - **(B)** provides for the issuance of orders for the performance of tasks during the period of the contract.

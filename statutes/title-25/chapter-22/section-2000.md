@@ -5,7 +5,7 @@ usc_section: "2000"
 chapter: 22
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2000"
-generated_at: "2026-03-29T00:30:38.717Z"
+generated_at: "2026-03-29T02:13:20.919Z"
 ---
 
 # § 2000. Declaration of policy

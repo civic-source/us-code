@@ -5,7 +5,7 @@ usc_section: "2022"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2022"
-generated_at: "2026-03-29T00:29:16.729Z"
+generated_at: "2026-03-29T02:11:21.109Z"
 ---
 
 # § 2022. Liens on stock

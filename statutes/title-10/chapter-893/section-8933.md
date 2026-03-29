@@ -5,23 +5,23 @@ usc_section: "8933"
 chapter: 893
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8933"
-generated_at: "2026-03-29T00:20:53.250Z"
+generated_at: "2026-03-29T02:10:45.332Z"
 ---
 
 # § 8933. Ocean Research Advisory Panel
 
-(a) 
-  (1) The Ocean Policy Committee shall establish an Ocean Research Advisory Panel (in this section referred to as the “Advisory Panel”). The Advisory Panel shall consist of not fewer than 10 and not more than 18 members appointed by the co-chairs of the Committee, including each of the following:
-    (A) Three members who represent the National Academies of Sciences, Engineering, and Medicine.
-    (B) Members selected from among individuals who represent the views of ocean industries, State, tribal, territorial or local governments, academia, and such other views as the co-chairs consider appropriate.
-    (C) Members selected from among individuals eminent in the fields of marine science, marine technology, and marine policy, or related fields.
-  (2) The Committee shall ensure that an appropriate balance of academic, scientific, industry, and geographical interests and gender and racial diversity are represented by the members of the Advisory Panel.
-(b) The Committee shall assign the following responsibilities to the Advisory Panel:
-  (1) To advise the Committee on policies and procedures to implement the National Oceanographic Partnership Program.
-  (2) To advise the Committee on matters relating to national oceanographic science, engineering, facilities, or resource requirements.
-  (3) To advise the Committee on improving diversity, equity, and inclusion in the ocean sciences and related fields.
-  (4) To advise the Committee on national ocean research priorities.
-  (5) Any additional responsibilities that the Committee considers appropriate.
-(c) The Committee shall require the Advisory Panel to meet not less frequently than two times each year.
-(d) The Administrator of the National Oceanic and Atmospheric Administration shall provide to the Advisory Panel such administrative and technical support as the Advisory Panel may require.
-(e) Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Advisory Panel shall terminate on January 1, 2040 .
+- **(a)**
+  - **(1)** The Ocean Policy Committee shall establish an Ocean Research Advisory Panel (in this section referred to as the “Advisory Panel”). The Advisory Panel shall consist of not fewer than 10 and not more than 18 members appointed by the co-chairs of the Committee, including each of the following:
+    - **(A)** Three members who represent the National Academies of Sciences, Engineering, and Medicine.
+    - **(B)** Members selected from among individuals who represent the views of ocean industries, State, tribal, territorial or local governments, academia, and such other views as the co-chairs consider appropriate.
+    - **(C)** Members selected from among individuals eminent in the fields of marine science, marine technology, and marine policy, or related fields.
+  - **(2)** The Committee shall ensure that an appropriate balance of academic, scientific, industry, and geographical interests and gender and racial diversity are represented by the members of the Advisory Panel.
+- **(b)** The Committee shall assign the following responsibilities to the Advisory Panel:
+  - **(1)** To advise the Committee on policies and procedures to implement the National Oceanographic Partnership Program.
+  - **(2)** To advise the Committee on matters relating to national oceanographic science, engineering, facilities, or resource requirements.
+  - **(3)** To advise the Committee on improving diversity, equity, and inclusion in the ocean sciences and related fields.
+  - **(4)** To advise the Committee on national ocean research priorities.
+  - **(5)** Any additional responsibilities that the Committee considers appropriate.
+- **(c)** The Committee shall require the Advisory Panel to meet not less frequently than two times each year.
+- **(d)** The Administrator of the National Oceanic and Atmospheric Administration shall provide to the Advisory Panel such administrative and technical support as the Advisory Panel may require.
+- **(e)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Advisory Panel shall terminate on January 1, 2040 .

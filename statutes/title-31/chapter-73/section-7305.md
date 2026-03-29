@@ -5,10 +5,10 @@ usc_section: "7305"
 chapter: 73
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 7305"
-generated_at: "2026-03-29T00:31:52.661Z"
+generated_at: "2026-03-29T02:14:14.119Z"
 ---
 
 # § 7305. State auditing requirements
 
-(a) The chief executive officer of each State shall conduct financial and compliance audits of block grant amounts received under the Omnibus Budget Reconciliation Act of 1981 ( Public Law 97–35 , 95 Stat. 357 ) and amounts received under a consolidated assistance program established or provided for in the Act. An audit shall be conducted for the 2-year period beginning on October 1, 1981 , and for each 2-year period thereafter. As far as practicable, the audit shall be conducted consistent with standards the Comptroller General prescribes for the audit of governmental entities, programs, activities, and functions.
-(b) An audit under subsection (a) of this section is in place of other financial and compliance audits of those amounts that the chief executive officer of the State is required to conduct under another provision of the Omnibus Budget Reconciliation Act of 1981 ( Public Law 97–35 , 95 Stat. 357 ) unless the other provision, by explicit reference to this section, provides otherwise.
+- **(a)** The chief executive officer of each State shall conduct financial and compliance audits of block grant amounts received under the Omnibus Budget Reconciliation Act of 1981 ( Public Law 97–35 , 95 Stat. 357 ) and amounts received under a consolidated assistance program established or provided for in the Act. An audit shall be conducted for the 2-year period beginning on October 1, 1981 , and for each 2-year period thereafter. As far as practicable, the audit shall be conducted consistent with standards the Comptroller General prescribes for the audit of governmental entities, programs, activities, and functions.
+- **(b)** An audit under subsection (a) of this section is in place of other financial and compliance audits of those amounts that the chief executive officer of the State is required to conduct under another provision of the Omnibus Budget Reconciliation Act of 1981 ( Public Law 97–35 , 95 Stat. 357 ) unless the other provision, by explicit reference to this section, provides otherwise.

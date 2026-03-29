@@ -5,7 +5,7 @@ usc_section: "1735f"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1735f"
-generated_at: "2026-03-29T00:29:16.630Z"
+generated_at: "2026-03-29T02:11:20.987Z"
 ---
 
 # § 1735f. Water and sewerage facilities

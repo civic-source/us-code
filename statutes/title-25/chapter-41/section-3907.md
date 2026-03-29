@@ -5,10 +5,10 @@ usc_section: "3907"
 chapter: 41
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3907"
-generated_at: "2026-03-29T00:30:38.769Z"
+generated_at: "2026-03-29T02:13:20.983Z"
 ---
 
 # § 3907. Authorization of appropriations
 
-(a) There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
-(b) The activities required to be performed by the Director under this chapter shall be coordinated with activities related to solid waste and sanitation facilities funded pursuant to other authorizations.
+- **(a)** There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
+- **(b)** The activities required to be performed by the Director under this chapter shall be coordinated with activities related to solid waste and sanitation facilities funded pursuant to other authorizations.

@@ -1,0 +1,14 @@
+---
+title: "Section 457 - Regulatory authority and preemption"
+usc_title: 6
+usc_section: "457"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 457"
+generated_at: "2026-03-29T02:10:05.009Z"
+---
+
+# § 457. Regulatory authority and preemption
+
+- **(a)** Except as otherwise provided in sections 186(c) and 441(c) of this title and section 1315 of title 40 , 1 1 See References in Text note below. this chapter vests no new regulatory authority in the Secretary or any other Federal official, and transfers to the Secretary or another Federal official only such regulatory authority as exists on November 25, 2002 , within any agency, program, or function transferred to the Department pursuant to this chapter, or that on November 25, 2002 , is exercised by another official of the executive branch with respect to such agency, program, or function. Any such transferred authority may not be exercised by an official from whom it is transferred upon transfer of such agency, program, or function to the Secretary or another Federal official pursuant to this chapter. This chapter may not be construed as altering or diminishing the regulatory authority of any other executive agency, except to the extent that this chapter transfers such authority from the agency.
+- **(b)** Except as otherwise provided in this chapter, this chapter preempts no State or local law, except that any authority to preempt State or local law vested in any Federal agency or official transferred to the Department pursuant to this chapter shall be transferred to the Department effective on the date of the transfer to the Department of that Federal agency or official.

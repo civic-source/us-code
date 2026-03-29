@@ -5,7 +5,7 @@ usc_section: "645"
 chapter: 17
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 645"
-generated_at: "2026-03-29T00:31:30.775Z"
+generated_at: "2026-03-29T02:14:11.217Z"
 ---
 
 # § 645. Repealed. Pub. L. 93–608, § 1(13) , Jan. 2, 1975 , 88 Stat. 1969

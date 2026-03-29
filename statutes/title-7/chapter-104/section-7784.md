@@ -5,33 +5,33 @@ usc_section: "7784"
 chapter: 104
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7784"
-generated_at: "2026-03-29T00:28:58.298Z"
+generated_at: "2026-03-29T02:10:17.166Z"
 ---
 
 # § 7784. Agreements
 
-(a) In carrying out an agreement under this section, the Secretary shall—
-  (1) if the activities funded under the agreement will take place on Federal land, consult with the heads of the Federal agencies having jurisdiction over the land; or
-  (2) obtain the written consent of the non-Federal landowner.
-(b) The Secretary may enter into agreements under this section with weed management entities notwithstanding sections 6301 through 6309 of title 31 and other laws relating to the procurement of goods and services for the Federal Government.
-(c) Activities carried out under an agreement under this section may include the following:
-  (1) Education, inventories and mapping, management, monitoring, methods development, and other capacity building activities, including the payment of the cost of personnel and equipment that promote control or eradication of noxious weeds.
-  (2) Other activities to control or eradicate noxious weeds.
-(d) Activities funded under this section shall be selected by the Secretary taking into consideration the following:
-  (1) The severity of the noxious weeds problem or potential problem addressed by the activities.
-  (2) The likelihood that the activity will prevent or resolve the problem, or increase knowledge about resolving similar problems.
-  (3) The extent to which the activity will provide a comprehensive approach to the control or eradication of noxious weeds.
-  (4) The extent to which the program will improve the overall capacity of the United States to address noxious weed control and management.
-  (5) The extent to which the project promotes cooperation and participation between States that have common interests in controlling and eradicating noxious weeds.
-  (6) Other factors that the Secretary determines to be relevant.
-(e) In determining which activities receive funding under this section, the Secretary shall, to the maximum extent practicable—
-  (1) rely on technical and merit reviews provided by regional, State, or local weed management experts; and
-  (2) give priority to activities that maximize the involvement of State, local, and, where applicable, representatives of Indian Tribe governments.
-(f) At the request of the Governor of a State, the Secretary may enter into a cooperative agreement with a weed management entity in that State to enable rapid response to outbreaks of noxious weeds at a stage which rapid eradication and control is possible and to ensure eradication or immediate control of the noxious weeds if—
-  (1) there is a demonstrated need for the assistance;
-  (2) the noxious weed is considered to be a significant threat to native fish, wildlife, or their habitats, as determined by the Secretary;
-  (3) the economic impact of delaying action is considered by the Secretary to be substantial; and
-  (4) the proposed response to such threat—
-    (A) is technically feasible;
-    (B) economically responsible; and
-    (C) minimizes adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems.
+- **(a)** In carrying out an agreement under this section, the Secretary shall—
+  - **(1)** if the activities funded under the agreement will take place on Federal land, consult with the heads of the Federal agencies having jurisdiction over the land; or
+  - **(2)** obtain the written consent of the non-Federal landowner.
+- **(b)** The Secretary may enter into agreements under this section with weed management entities notwithstanding sections 6301 through 6309 of title 31 and other laws relating to the procurement of goods and services for the Federal Government.
+- **(c)** Activities carried out under an agreement under this section may include the following:
+  - **(1)** Education, inventories and mapping, management, monitoring, methods development, and other capacity building activities, including the payment of the cost of personnel and equipment that promote control or eradication of noxious weeds.
+  - **(2)** Other activities to control or eradicate noxious weeds.
+- **(d)** Activities funded under this section shall be selected by the Secretary taking into consideration the following:
+  - **(1)** The severity of the noxious weeds problem or potential problem addressed by the activities.
+  - **(2)** The likelihood that the activity will prevent or resolve the problem, or increase knowledge about resolving similar problems.
+  - **(3)** The extent to which the activity will provide a comprehensive approach to the control or eradication of noxious weeds.
+  - **(4)** The extent to which the program will improve the overall capacity of the United States to address noxious weed control and management.
+  - **(5)** The extent to which the project promotes cooperation and participation between States that have common interests in controlling and eradicating noxious weeds.
+  - **(6)** Other factors that the Secretary determines to be relevant.
+- **(e)** In determining which activities receive funding under this section, the Secretary shall, to the maximum extent practicable—
+  - **(1)** rely on technical and merit reviews provided by regional, State, or local weed management experts; and
+  - **(2)** give priority to activities that maximize the involvement of State, local, and, where applicable, representatives of Indian Tribe governments.
+- **(f)** At the request of the Governor of a State, the Secretary may enter into a cooperative agreement with a weed management entity in that State to enable rapid response to outbreaks of noxious weeds at a stage which rapid eradication and control is possible and to ensure eradication or immediate control of the noxious weeds if—
+  - **(1)** there is a demonstrated need for the assistance;
+  - **(2)** the noxious weed is considered to be a significant threat to native fish, wildlife, or their habitats, as determined by the Secretary;
+  - **(3)** the economic impact of delaying action is considered by the Secretary to be substantial; and
+  - **(4)** the proposed response to such threat—
+    - **(A)** is technically feasible;
+    - **(B)** economically responsible; and
+    - **(C)** minimizes adverse impacts to the structure and function of an ecosystem and adverse effects on nontarget species and ecosystems.

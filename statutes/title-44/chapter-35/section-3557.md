@@ -5,13 +5,13 @@ usc_section: "3557"
 chapter: 35
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3557"
-generated_at: "2026-03-29T00:32:58.572Z"
+generated_at: "2026-03-29T02:15:49.342Z"
 ---
 
 # § 3557. National security systems
 
 The head of each agency operating or exercising control of a national security system shall be responsible for ensuring that the agency—
 
-  (1) provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;
-  (2) implements information security policies and practices as required by standards and guidelines for national security systems, issued in accordance with law and as directed by the President; and
-  (3) complies with the requirements of this subchapter.
+  - **(1)** provides information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of the information contained in such system;
+  - **(2)** implements information security policies and practices as required by standards and guidelines for national security systems, issued in accordance with law and as directed by the President; and
+  - **(3)** complies with the requirements of this subchapter.

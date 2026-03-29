@@ -5,7 +5,7 @@ usc_section: "1347"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1347"
-generated_at: "2026-03-29T00:31:20.884Z"
+generated_at: "2026-03-29T02:14:01.133Z"
 ---
 
 # [§ 1347. Repealed. Pub. L. 94–455, title XIX, § 1951(b)(12)(A) , Oct. 4, 1976 , 90 Stat. 1840 ]

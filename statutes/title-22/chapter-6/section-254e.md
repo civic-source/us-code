@@ -5,11 +5,11 @@ usc_section: "254e"
 chapter: 6
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 254e"
-generated_at: "2026-03-29T00:30:33.630Z"
+generated_at: "2026-03-29T02:12:39.922Z"
 ---
 
 # § 254e. Liability insurance for members of mission
 
-(a) Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b).
-(b) The Director of the Office of Foreign Missions shall, by regulation, establish liability insurance requirements which can reasonably be expected to afford adequate compensation to victims and which are to be met by each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , relating to risks arising from the operation in the United States of any motor vehicle, vessel, or aircraft.
-(c) The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b).
+- **(a)** Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b).
+- **(b)** The Director of the Office of Foreign Missions shall, by regulation, establish liability insurance requirements which can reasonably be expected to afford adequate compensation to victims and which are to be met by each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , relating to risks arising from the operation in the United States of any motor vehicle, vessel, or aircraft.
+- **(c)** The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946 , who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b).

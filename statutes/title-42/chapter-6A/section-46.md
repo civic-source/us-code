@@ -5,14 +5,14 @@ usc_section: "46"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-03-29T00:32:53.133Z"
+generated_at: "2026-03-29T02:15:35.906Z"
 ---
 
 # § 300gg–46. Disclosure to enrollees of individual market coverage
 
-(a) A health insurance issuer offering individual health insurance coverage or a health insurance issuer offering short-term limited duration insurance coverage shall make disclosures to enrollees in such coverage, as described in subsection (b), and reports to the Secretary, as described in subsection (c), regarding direct or indirect compensation provided by the issuer to an agent or broker associated with enrolling individuals in such coverage.
-(b) A health insurance issuer described in subsection (a) shall disclose to an enrollee the amount of direct or indirect compensation provided to an agent or broker for services provided by such agent or broker associated with plan selection and enrollment. Such disclosure shall be—
-  (1) made prior to the individual finalizing plan selection; and
-  (2) included on any documentation confirming the individual’s enrollment.
-(c) A health insurance issuer described in subsection (a) shall annually report to the Secretary, prior to the beginning of open enrollment, any direct or indirect compensation provided to an agent or broker associated with enrolling individuals in such coverage.
-(d) Not later than 1 year after December 27, 2020 , the Secretary shall finalize, through notice-and-comment rulemaking, the timing, form, and manner in which issuers described in subsection (a) are required to make the disclosures described in subsection (b) and the reports described in subsection (c). Such rulemaking may also include adjustments to notice requirements to reflect the different processes for plan renewals, in order to provide enrollees with full, timely information.
+- **(a)** A health insurance issuer offering individual health insurance coverage or a health insurance issuer offering short-term limited duration insurance coverage shall make disclosures to enrollees in such coverage, as described in subsection (b), and reports to the Secretary, as described in subsection (c), regarding direct or indirect compensation provided by the issuer to an agent or broker associated with enrolling individuals in such coverage.
+- **(b)** A health insurance issuer described in subsection (a) shall disclose to an enrollee the amount of direct or indirect compensation provided to an agent or broker for services provided by such agent or broker associated with plan selection and enrollment. Such disclosure shall be—
+  - **(1)** made prior to the individual finalizing plan selection; and
+  - **(2)** included on any documentation confirming the individual’s enrollment.
+- **(c)** A health insurance issuer described in subsection (a) shall annually report to the Secretary, prior to the beginning of open enrollment, any direct or indirect compensation provided to an agent or broker associated with enrolling individuals in such coverage.
+- **(d)** Not later than 1 year after December 27, 2020 , the Secretary shall finalize, through notice-and-comment rulemaking, the timing, form, and manner in which issuers described in subsection (a) are required to make the disclosures described in subsection (b) and the reports described in subsection (c). Such rulemaking may also include adjustments to notice requirements to reflect the different processes for plan renewals, in order to provide enrollees with full, timely information.

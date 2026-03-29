@@ -5,7 +5,7 @@ usc_section: "257i"
 chapter: 6
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 257i"
-generated_at: "2026-03-29T00:29:41.562Z"
+generated_at: "2026-03-29T02:11:34.004Z"
 ---
 
 # §§ 257 to 257i. Repealed. Pub. L. 90–628, § 1(b) , Oct. 22, 1968 , 82 Stat. 1320

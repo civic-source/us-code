@@ -5,10 +5,10 @@ usc_section: "7301"
 chapter: 80
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7301"
-generated_at: "2026-03-29T00:30:33.988Z"
+generated_at: "2026-03-29T02:12:40.420Z"
 ---
 
 # § 7301. Reorganization; duties
 
-(a) The Diplomatic Telecommunications Service Program Office established pursuant to title V of Public Law 102–140 shall be reorganized in accordance with this chapter.
-(b) The duties of the DTS–PO include implementing a program for the establishment and maintenance of a DTS Network capable of providing multiple levels of service to meet the wide-ranging needs of all United States Government departments and agencies operating from diplomatic and consular facilities outside of the United States, including national security needs for secure, reliable, and robust communications capabilities.
+- **(a)** The Diplomatic Telecommunications Service Program Office established pursuant to title V of Public Law 102–140 shall be reorganized in accordance with this chapter.
+- **(b)** The duties of the DTS–PO include implementing a program for the establishment and maintenance of a DTS Network capable of providing multiple levels of service to meet the wide-ranging needs of all United States Government departments and agencies operating from diplomatic and consular facilities outside of the United States, including national security needs for secure, reliable, and robust communications capabilities.

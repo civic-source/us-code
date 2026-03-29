@@ -5,7 +5,7 @@ usc_section: "2259"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2259"
-generated_at: "2026-03-29T00:29:16.742Z"
+generated_at: "2026-03-29T02:11:21.121Z"
 ---
 
 # § 2259. State legislation

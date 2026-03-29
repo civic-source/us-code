@@ -5,7 +5,7 @@ usc_section: "201"
 chapter: 8
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 201"
-generated_at: "2026-03-29T00:31:21.683Z"
+generated_at: "2026-03-29T02:14:02.222Z"
 ---
 
 # § 201. Short title

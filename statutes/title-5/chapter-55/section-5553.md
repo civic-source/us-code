@@ -5,7 +5,7 @@ usc_section: "5553"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5553"
-generated_at: "2026-03-29T00:28:38.350Z"
+generated_at: "2026-03-29T02:10:01.874Z"
 ---
 
 # § 5553. Regulations

@@ -5,7 +5,7 @@ usc_section: "1490j"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1490j"
-generated_at: "2026-03-29T00:32:53.655Z"
+generated_at: "2026-03-29T02:15:36.468Z"
 ---
 
 # § 1490j. Conditions on rent increases in projects receiving assistance under other provisions of law

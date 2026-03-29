@@ -5,44 +5,44 @@ usc_section: "8783"
 chapter: 113
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8783"
-generated_at: "2026-03-29T00:28:58.330Z"
+generated_at: "2026-03-29T02:10:17.212Z"
 ---
 
 # § 8783. Availability of quality incentive payments for covered oilseed producers
 
-(a) Subject to subsection (b) and the availability of appropriations under subsection (h), the Secretary shall use funds made available under subsection (h) to provide quality incentive payments for the production of oilseeds with specialized traits that enhance human health, as determined by the Secretary.
-(b) The Secretary shall make payments under this section only for the production of an oilseed variety that has, as determined by the Secretary—
-  (1) been demonstrated to improve the health profile of the oilseed for use in human consumption by—
-    (A) reducing or eliminating the need to partially hydrogenate the oil derived from the oilseed for use in human consumption; or
-    (B) adopting new technology traits; and
-  (2) 1 or more impediments to commercialization.
-(c) 
-  (1) If funds are made available to carry out this section for a crop year, the Secretary shall issue a request for proposals for payments under this section.
-  (2) A proponent may submit a multiyear proposal for payments under this section.
-  (3) A proposal for payments under this section shall include a description of—
-    (A) how use of the oilseed enhances human health;
-    (B) the impediments to commercial use of the oilseed;
-    (C) each oilseed variety described in subsection (b) and the value of the oilseed variety as a matter of public policy;
-    (D) a range for the base price and premiums per bushel or hundredweight to be paid to producers;
-    (E) a per bushel or hundredweight amount of incentive payments requested for each year under this section that does not exceed ⅓ of the total premium offered for any year;
-    (F) the period of time, not to exceed 4 years, during which incentive payments are to be provided to producers; and
-    (G) the targeted total quantity of production and estimated acres needed to produce the targeted quantity for each year under this section.
-(d) 
-  (1) The Secretary shall approve successful proposals submitted under subsection (c) on a timely basis.
-  (2) The Secretary shall make payments to producers under this section after the Secretary receives documentation that the premium required under a contract has been paid to covered producers.
-(e) 
-  (1) If funding provided for a crop year is not fully allocated under the initial request for proposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
-  (2) If funding provided for a crop year is less than the amount otherwise approved by the Secretary or for which approval is sought, the Secretary shall prorate the payments or approvals in a manner determined by the Secretary so that the total payments do not exceed the funding level.
-(f) The Secretary shall protect proprietary information provided to the Secretary for the purpose of administering this section.
-(g) 
-  (1) The proponent, if approved, shall be required to guarantee that the oilseed on which a payment is made by the Secretary under this section is used for human consumption as described in the proposal, as approved by the Secretary.
-  (2) If oilseeds on which a payment is made by the Secretary under this section are not actually used for the purpose the payment is made, the proponent shall be required to pay to the Secretary an amount equal to, as determined by the Secretary—
-    (A) in the case of an inadvertent failure, twice the amount of the payment made by the Secretary under this section to the producer of the oilseeds; and
-    (B) in any other case, up to twice the full value of the oilseeds involved.
-  (3) The Secretary may require such assurances and documentation as may be needed to enforce the guarantee.
-  (4) 
-    (A) In addition to payments required under paragraph (2), the Secretary may impose penalties on additional persons that use oilseeds the use of which is restricted under this section for a purpose other than the intended use.
-    (B) The amount of a penalty under this paragraph shall—
-      (i) be in an amount determined appropriated by the Secretary; but
-      (ii) not to exceed twice the full value of the oilseeds.
-(h) There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.
+- **(a)** Subject to subsection (b) and the availability of appropriations under subsection (h), the Secretary shall use funds made available under subsection (h) to provide quality incentive payments for the production of oilseeds with specialized traits that enhance human health, as determined by the Secretary.
+- **(b)** The Secretary shall make payments under this section only for the production of an oilseed variety that has, as determined by the Secretary—
+  - **(1)** been demonstrated to improve the health profile of the oilseed for use in human consumption by—
+    - **(A)** reducing or eliminating the need to partially hydrogenate the oil derived from the oilseed for use in human consumption; or
+    - **(B)** adopting new technology traits; and
+  - **(2)** 1 or more impediments to commercialization.
+- **(c)**
+  - **(1)** If funds are made available to carry out this section for a crop year, the Secretary shall issue a request for proposals for payments under this section.
+  - **(2)** A proponent may submit a multiyear proposal for payments under this section.
+  - **(3)** A proposal for payments under this section shall include a description of—
+    - **(A)** how use of the oilseed enhances human health;
+    - **(B)** the impediments to commercial use of the oilseed;
+    - **(C)** each oilseed variety described in subsection (b) and the value of the oilseed variety as a matter of public policy;
+    - **(D)** a range for the base price and premiums per bushel or hundredweight to be paid to producers;
+    - **(E)** a per bushel or hundredweight amount of incentive payments requested for each year under this section that does not exceed ⅓ of the total premium offered for any year;
+    - **(F)** the period of time, not to exceed 4 years, during which incentive payments are to be provided to producers; and
+    - **(G)** the targeted total quantity of production and estimated acres needed to produce the targeted quantity for each year under this section.
+- **(d)**
+  - **(1)** The Secretary shall approve successful proposals submitted under subsection (c) on a timely basis.
+  - **(2)** The Secretary shall make payments to producers under this section after the Secretary receives documentation that the premium required under a contract has been paid to covered producers.
+- **(e)**
+  - **(1)** If funding provided for a crop year is not fully allocated under the initial request for proposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
+  - **(2)** If funding provided for a crop year is less than the amount otherwise approved by the Secretary or for which approval is sought, the Secretary shall prorate the payments or approvals in a manner determined by the Secretary so that the total payments do not exceed the funding level.
+- **(f)** The Secretary shall protect proprietary information provided to the Secretary for the purpose of administering this section.
+- **(g)**
+  - **(1)** The proponent, if approved, shall be required to guarantee that the oilseed on which a payment is made by the Secretary under this section is used for human consumption as described in the proposal, as approved by the Secretary.
+  - **(2)** If oilseeds on which a payment is made by the Secretary under this section are not actually used for the purpose the payment is made, the proponent shall be required to pay to the Secretary an amount equal to, as determined by the Secretary—
+    - **(A)** in the case of an inadvertent failure, twice the amount of the payment made by the Secretary under this section to the producer of the oilseeds; and
+    - **(B)** in any other case, up to twice the full value of the oilseeds involved.
+  - **(3)** The Secretary may require such assurances and documentation as may be needed to enforce the guarantee.
+  - **(4)**
+    - **(A)** In addition to payments required under paragraph (2), the Secretary may impose penalties on additional persons that use oilseeds the use of which is restricted under this section for a purpose other than the intended use.
+    - **(B)** The amount of a penalty under this paragraph shall—
+      - **(i)** be in an amount determined appropriated by the Secretary; but
+      - **(ii)** not to exceed twice the full value of the oilseeds.
+- **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2012.

@@ -5,10 +5,10 @@ usc_section: "8235d"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8235d"
-generated_at: "2026-03-29T00:32:54.111Z"
+generated_at: "2026-03-29T02:15:37.010Z"
 ---
 
 # § 8235d. Rules and regulations
 
-(a) The Secretary shall issue proposed rules and regulations to carry out this part not later than 120 days after June 30, 1980 .
-(b) The Secretary shall issue final rules and regulations to carry out this part not later than 90 days after the issuance of proposed rules and regulations under subsection (a).
+- **(a)** The Secretary shall issue proposed rules and regulations to carry out this part not later than 120 days after June 30, 1980 .
+- **(b)** The Secretary shall issue final rules and regulations to carry out this part not later than 90 days after the issuance of proposed rules and regulations under subsection (a).

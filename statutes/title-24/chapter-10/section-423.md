@@ -5,14 +5,14 @@ usc_section: "423"
 chapter: 10
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 423"
-generated_at: "2026-03-29T00:30:34.817Z"
+generated_at: "2026-03-29T02:13:07.082Z"
 ---
 
 # § 423. Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington
 
-(a) Congress finds the following:
-  (1) Four buildings located on six acres of the establishment of the Retirement Home known as the Armed Forces Retirement Home—Washington are included on the National Register of Historic Places maintained by the Secretary of the Interior.
-  (2) Amounts in the Armed Forces Retirement Home Trust Fund, which consists primarily of deductions from the pay of members of the Armed Forces, are insufficient to both maintain and operate the Retirement Home for the benefit of the residents of the Retirement Home and adequately maintain, repair, and preserve these historic buildings and grounds.
-  (3) Other sources of funding are available to contribute to the maintenance, repair, and preservation of these historic buildings and grounds.
-(b) The Chief Operating Officer and the Administrator of the Armed Forces Retirement Home—Washington may apply for and accept a direct grant from the Secretary of the Interior under section 302904 of title 54 for the purpose of maintaining, repairing, and preserving the historic buildings and grounds of the Armed Forces Retirement Home—Washington included on the National Register of Historic Places.
-(c) Amounts received as a grant under subsection (b) shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b).
+- **(a)** Congress finds the following:
+  - **(1)** Four buildings located on six acres of the establishment of the Retirement Home known as the Armed Forces Retirement Home—Washington are included on the National Register of Historic Places maintained by the Secretary of the Interior.
+  - **(2)** Amounts in the Armed Forces Retirement Home Trust Fund, which consists primarily of deductions from the pay of members of the Armed Forces, are insufficient to both maintain and operate the Retirement Home for the benefit of the residents of the Retirement Home and adequately maintain, repair, and preserve these historic buildings and grounds.
+  - **(3)** Other sources of funding are available to contribute to the maintenance, repair, and preservation of these historic buildings and grounds.
+- **(b)** The Chief Operating Officer and the Administrator of the Armed Forces Retirement Home—Washington may apply for and accept a direct grant from the Secretary of the Interior under section 302904 of title 54 for the purpose of maintaining, repairing, and preserving the historic buildings and grounds of the Armed Forces Retirement Home—Washington included on the National Register of Historic Places.
+- **(c)** Amounts received as a grant under subsection (b) shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b).

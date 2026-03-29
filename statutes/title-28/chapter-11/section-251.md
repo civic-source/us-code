@@ -5,10 +5,10 @@ usc_section: "251"
 chapter: 11
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 251"
-generated_at: "2026-03-29T00:31:24.135Z"
+generated_at: "2026-03-29T02:14:04.513Z"
 ---
 
 # § 251. Appointment and number of judges; offices
 
-(a) The President shall appoint, by and with the advice and consent of the Senate, nine judges who shall constitute a court of record to be known as the United States Court of International Trade. Not more than five of such judges shall be from the same political party. The court is a court established under article III of the Constitution of the United States.
-(b) The offices of the Court of International Trade shall be located in New York, New York.
+- **(a)** The President shall appoint, by and with the advice and consent of the Senate, nine judges who shall constitute a court of record to be known as the United States Court of International Trade. Not more than five of such judges shall be from the same political party. The court is a court established under article III of the Constitution of the United States.
+- **(b)** The offices of the Court of International Trade shall be located in New York, New York.

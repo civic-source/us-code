@@ -5,20 +5,20 @@ usc_section: "1158"
 chapter: 11
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 1158"
-generated_at: "2026-03-29T00:29:25.005Z"
+generated_at: "2026-03-29T02:11:23.787Z"
 ---
 
 # § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs
 
-(a) Subject to subsections (b) and (c), the Commandant may enter into transactions (other than contracts, cooperative agreements, and grants) to operate, test, and acquire cost-effective technology for the purpose of meeting the mission needs of the Coast Guard.
-(b) Operation, testing, and acquisition of technologies under subsection (a) shall be—
-  (1) carried out in accordance with Coast Guard policies and guidance; and
-  (2) consistent with the operational requirements of the Coast Guard.
-(c) The Commandant may not enter into a transaction under subsection (a) with respect to a technology that—
-  (1) does not comply with the cybersecurity standards of the Coast Guard; or
-  (2) is sourced from an entity domiciled in the People’s Republic of China, unless the Commandant determines that the prototype or procurement of such a technology is for the purpose of—
-    (A) counter-UAS or surrogate testing; or
-    (B) intelligence, electronic warfare, and information warfare, testing, and analysis.
-(d) The Commandant shall ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section are provided adequate education and training with respect to the authority under this section.
-(e) The Commandant shall prescribe regulations as necessary to carry out this section.
-(f) In this section, the term “counter-UAS” has the meaning given such term in section 44801 of title 49 .
+- **(a)** Subject to subsections (b) and (c), the Commandant may enter into transactions (other than contracts, cooperative agreements, and grants) to operate, test, and acquire cost-effective technology for the purpose of meeting the mission needs of the Coast Guard.
+- **(b)** Operation, testing, and acquisition of technologies under subsection (a) shall be—
+  - **(1)** carried out in accordance with Coast Guard policies and guidance; and
+  - **(2)** consistent with the operational requirements of the Coast Guard.
+- **(c)** The Commandant may not enter into a transaction under subsection (a) with respect to a technology that—
+  - **(1)** does not comply with the cybersecurity standards of the Coast Guard; or
+  - **(2)** is sourced from an entity domiciled in the People’s Republic of China, unless the Commandant determines that the prototype or procurement of such a technology is for the purpose of—
+    - **(A)** counter-UAS or surrogate testing; or
+    - **(B)** intelligence, electronic warfare, and information warfare, testing, and analysis.
+- **(d)** The Commandant shall ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section are provided adequate education and training with respect to the authority under this section.
+- **(e)** The Commandant shall prescribe regulations as necessary to carry out this section.
+- **(f)** In this section, the term “counter-UAS” has the meaning given such term in section 44801 of title 49 .

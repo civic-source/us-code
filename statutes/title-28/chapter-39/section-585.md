@@ -5,10 +5,10 @@ usc_section: "585"
 chapter: 39
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 585"
-generated_at: "2026-03-29T00:31:24.156Z"
+generated_at: "2026-03-29T02:14:04.531Z"
 ---
 
 # § 585. Vacancies
 
-(a) The Attorney General may appoint an acting United States trustee for a region in which the office of the United States trustee is vacant. The individual so appointed may serve until the date on which the vacancy is filled by appointment under section 581 of this title or by designation under subsection (b) of this section.
-(b) The Attorney General may designate a United States trustee to serve in not more than two regions for such time as the public interest requires.
+- **(a)** The Attorney General may appoint an acting United States trustee for a region in which the office of the United States trustee is vacant. The individual so appointed may serve until the date on which the vacancy is filled by appointment under section 581 of this title or by designation under subsection (b) of this section.
+- **(b)** The Attorney General may designate a United States trustee to serve in not more than two regions for such time as the public interest requires.

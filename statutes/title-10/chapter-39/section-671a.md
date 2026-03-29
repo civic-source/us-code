@@ -5,7 +5,7 @@ usc_section: "671a"
 chapter: 39
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 671a"
-generated_at: "2026-03-29T00:20:52.875Z"
+generated_at: "2026-03-29T02:10:44.899Z"
 ---
 
 # § 671a. Members: service extension during war

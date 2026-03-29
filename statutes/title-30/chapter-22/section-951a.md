@@ -5,13 +5,13 @@ usc_section: "951a"
 chapter: 22
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 951a"
-generated_at: "2026-03-29T00:31:30.799Z"
+generated_at: "2026-03-29T02:14:11.233Z"
 ---
 
 # § 951a. Health, Safety, and Mining Technology Research program
 
-(a) 
-  (1) Every 5 years, the Secretary of the Interior, acting through the Director of the Bureau of Mines (hereinafter in this section referred to as the “Director”), shall develop a Plan for Health, Safety, and Mining Technology Research (hereinafter in this subsection referred to as the “Plan”).
-  (2) The Plan shall identify the goals and objectives of the Health, Safety, and Mining Technology program of the Bureau of Mines, and shall guide research and technology development under such program, over each 5-year period.
-  (3) In preparing the proposed Plan referred to in paragraph (1), the Director shall solicit suggestions, comments and proposals for research and technology development projects from the mining industry, labor, academia and other concerned groups and individuals.
-(b) For the purposes of section 951(b) of this title , as amended, activities in the field of coal or other mine health under such section shall also be carried out by the Secretary of the Interior acting through the Director of the Bureau of Mines. Nothing in this subsection is intended to preclude or duplicate the ongoing research activities of the Bureau of Mines on health hazards safety technology or research conducted by the National Institute of Occupational Safety and Health on coal mine safety and health effects.
+- **(a)**
+  - **(1)** Every 5 years, the Secretary of the Interior, acting through the Director of the Bureau of Mines (hereinafter in this section referred to as the “Director”), shall develop a Plan for Health, Safety, and Mining Technology Research (hereinafter in this subsection referred to as the “Plan”).
+  - **(2)** The Plan shall identify the goals and objectives of the Health, Safety, and Mining Technology program of the Bureau of Mines, and shall guide research and technology development under such program, over each 5-year period.
+  - **(3)** In preparing the proposed Plan referred to in paragraph (1), the Director shall solicit suggestions, comments and proposals for research and technology development projects from the mining industry, labor, academia and other concerned groups and individuals.
+- **(b)** For the purposes of section 951(b) of this title , as amended, activities in the field of coal or other mine health under such section shall also be carried out by the Secretary of the Interior acting through the Director of the Bureau of Mines. Nothing in this subsection is intended to preclude or duplicate the ongoing research activities of the Bureau of Mines on health hazards safety technology or research conducted by the National Institute of Occupational Safety and Health on coal mine safety and health effects.

@@ -5,12 +5,12 @@ usc_section: "11102"
 chapter: 111
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 11102"
-generated_at: "2026-03-29T00:32:20.570Z"
+generated_at: "2026-03-29T02:14:58.806Z"
 ---
 
 # § 11102. Sense of Congress
 
 It is the sense of Congress that, during the five-year period beginning with 1996, executive agencies should achieve each year through improvements in information resources management by the agency—
 
-  (1) at least a five percent decrease in the cost (in constant fiscal year 1996 dollars) incurred by the agency in operating and maintaining information technology; and
-  (2) a five percent increase in the efficiency of the agency operations.
+  - **(1)** at least a five percent decrease in the cost (in constant fiscal year 1996 dollars) incurred by the agency in operating and maintaining information technology; and
+  - **(2)** a five percent increase in the efficiency of the agency operations.

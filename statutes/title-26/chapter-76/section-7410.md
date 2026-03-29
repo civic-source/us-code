@@ -5,11 +5,11 @@ usc_section: "7410"
 chapter: 76
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7410"
-generated_at: "2026-03-29T00:31:21.086Z"
+generated_at: "2026-03-29T02:14:01.380Z"
 ---
 
 # § 7410. Cross references
 
-  (1) For provisions for collecting taxes in general, see chapter 64.
-  (2) For venue in a civil action for the collection of any tax, see section 1396 of Title 28 of the United States Code.
-  (3) For venue of a proceeding for the recovery of any fine, penalty, or forfeiture, see section 1395 of Title 28 of the United States Code.
+  - **(1)** For provisions for collecting taxes in general, see chapter 64.
+  - **(2)** For venue in a civil action for the collection of any tax, see section 1396 of Title 28 of the United States Code.
+  - **(3)** For venue of a proceeding for the recovery of any fine, penalty, or forfeiture, see section 1395 of Title 28 of the United States Code.

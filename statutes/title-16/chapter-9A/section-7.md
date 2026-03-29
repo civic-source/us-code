@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 9
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-29T00:29:52.624Z"
+generated_at: "2026-03-29T02:11:53.665Z"
 ---
 
 # § 760–7. Establishment of fish hatchery in West Virginia

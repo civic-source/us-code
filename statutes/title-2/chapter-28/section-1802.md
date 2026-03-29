@@ -5,7 +5,7 @@ usc_section: "1802"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1802"
-generated_at: "2026-03-29T00:06:10.961Z"
+generated_at: "2026-03-29T02:09:53.735Z"
 ---
 
 # § 1802. Compensation

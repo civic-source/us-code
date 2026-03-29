@@ -5,7 +5,7 @@ usc_section: "8684a"
 chapter: 863
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8684a"
-generated_at: "2026-03-29T00:20:53.241Z"
+generated_at: "2026-03-29T02:10:45.319Z"
 ---
 
 # [§ 8684a. Omitted]

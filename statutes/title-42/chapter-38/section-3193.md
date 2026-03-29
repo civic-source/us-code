@@ -5,10 +5,10 @@ usc_section: "3193"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3193"
-generated_at: "2026-03-29T00:32:53.829Z"
+generated_at: "2026-03-29T02:15:36.661Z"
 ---
 
 # § 3193. Consultation with other persons and agencies
 
-(a) The Secretary may consult with any persons, including representatives of labor, management, agriculture, and government, who can assist in addressing the problems of area and regional unemployment or underemployment.
-(b) The Secretary may provide for such consultation with interested Federal agencies as the Secretary determines to be appropriate in the performance of the duties of the Secretary under this chapter.
+- **(a)** The Secretary may consult with any persons, including representatives of labor, management, agriculture, and government, who can assist in addressing the problems of area and regional unemployment or underemployment.
+- **(b)** The Secretary may provide for such consultation with interested Federal agencies as the Secretary determines to be appropriate in the performance of the duties of the Secretary under this chapter.

@@ -5,7 +5,7 @@ usc_section: "6207"
 chapter: 62
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 6207"
-generated_at: "2026-03-29T00:31:52.653Z"
+generated_at: "2026-03-29T02:14:14.109Z"
 ---
 
 # § 6207. Authorization of appropriations

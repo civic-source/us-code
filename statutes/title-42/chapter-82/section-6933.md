@@ -5,22 +5,22 @@ usc_section: "6933"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6933"
-generated_at: "2026-03-29T00:32:53.997Z"
+generated_at: "2026-03-29T02:15:36.856Z"
 ---
 
 # § 6933. Hazardous waste site inventory
 
-(a) Each State shall, as expeditiously as practicable, undertake a continuing program to compile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
-  (1) a description of the location of the sites at which any such storage or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage or disposal;
-  (2) such information relating to the amount, nature, and toxicity of the hazardous waste at each such site as may be practicable to obtain and as may be necessary to determine the extent of any health hazard which may be associated with such site;
-  (3) the name and address, or corporate headquarters of, the owner of each such site, determined as of the date of preparation of the inventory;
-  (4) an identification of the types or techniques of waste treatment or disposal which have been used at each such site; and
-  (5) information concerning the current status of the site, including information respecting whether or not hazardous waste is currently being treated or disposed of at such site (and if not, the date on which such activity ceased) and information respecting the nature of any other activity currently carried out at such site.
-(b) If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a), the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
-  (1) the Administrator shall have the authorities provided with respect to State programs under subsection (a);
-  (2) the funds allocated under subsection (c) for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
-  (3) no further expenditure may be made for grants to such State under this section until such time as the Administrator determines that such State is carrying out, or will carry out, an inventory program which meets the requirements of this section.
-(c) 
-  (1) Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposes of this section before October 21, 1980 , to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.
-  (2) There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1985 through 1988.
-(d) Nothing in this section shall be construed to provide that the Administrator or any State should, pending completion of the inventory required under this section, postpone undertaking any enforcement or remedial action with respect to any site at which hazardous waste has been treated, stored, or disposed of.
+- **(a)** Each State shall, as expeditiously as practicable, undertake a continuing program to compile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
+  - **(1)** a description of the location of the sites at which any such storage or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage or disposal;
+  - **(2)** such information relating to the amount, nature, and toxicity of the hazardous waste at each such site as may be practicable to obtain and as may be necessary to determine the extent of any health hazard which may be associated with such site;
+  - **(3)** the name and address, or corporate headquarters of, the owner of each such site, determined as of the date of preparation of the inventory;
+  - **(4)** an identification of the types or techniques of waste treatment or disposal which have been used at each such site; and
+  - **(5)** information concerning the current status of the site, including information respecting whether or not hazardous waste is currently being treated or disposed of at such site (and if not, the date on which such activity ceased) and information respecting the nature of any other activity currently carried out at such site.
+- **(b)** If the Administrator determines that any State program under subsection (a) is not adequately providing information respecting the sites in such State referred to in subsection (a), the Administrator shall notify the State. If within ninety days following such notification, the State program has not been revised or amended in such manner as will adequately provide such information, the Administrator shall carry out the inventory program in such State. In any such case—
+  - **(1)** the Administrator shall have the authorities provided with respect to State programs under subsection (a);
+  - **(2)** the funds allocated under subsection (c) for grants to States under this section may be used by the Administrator for carrying out such program in such State; and
+  - **(3)** no further expenditure may be made for grants to such State under this section until such time as the Administrator determines that such State is carrying out, or will carry out, an inventory program which meets the requirements of this section.
+- **(c)**
+  - **(1)** Upon receipt of an application submitted by any State to carry out a program under this section, the Administrator may make grants to the States for purposes of carrying out such a program. Grants under this section shall be allocated among the several States by the Administrator based upon such regulations as he prescribes to carry out the purposes of this section. The Administrator may make grants to any State which has conducted an inventory program which effectively carried out the purposes of this section before October 21, 1980 , to reimburse such State for all, or any portion of, the costs incurred by such State in conducting such program.
+  - **(2)** There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1985 through 1988.
+- **(d)** Nothing in this section shall be construed to provide that the Administrator or any State should, pending completion of the inventory required under this section, postpone undertaking any enforcement or remedial action with respect to any site at which hazardous waste has been treated, stored, or disposed of.

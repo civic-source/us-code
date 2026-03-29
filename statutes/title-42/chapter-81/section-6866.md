@@ -5,7 +5,7 @@ usc_section: "6866"
 chapter: 81
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6866"
-generated_at: "2026-03-29T00:32:53.988Z"
+generated_at: "2026-03-29T02:15:36.848Z"
 ---
 
 # § 6866. Monitoring and evaluation of funded projects; technical assistance; limitation on assistance

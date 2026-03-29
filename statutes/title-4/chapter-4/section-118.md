@@ -5,12 +5,12 @@ usc_section: "118"
 chapter: 4
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 118"
-generated_at: "2026-03-28T23:53:20.153Z"
+generated_at: "2026-03-29T02:09:55.010Z"
 ---
 
 # § 118. Limitations
 
 Sections 116 through 126 of this title do not—
 
-  (1) provide authority to a taxing jurisdiction to impose a tax, charge, or fee that the laws of such jurisdiction do not authorize such jurisdiction to impose; or
-  (2) modify, impair, supersede, or authorize the modification, impairment, or supersession of the law of any taxing jurisdiction pertaining to taxation except as expressly provided in sections 116 through 126 of this title.
+  - **(1)** provide authority to a taxing jurisdiction to impose a tax, charge, or fee that the laws of such jurisdiction do not authorize such jurisdiction to impose; or
+  - **(2)** modify, impair, supersede, or authorize the modification, impairment, or supersession of the law of any taxing jurisdiction pertaining to taxation except as expressly provided in sections 116 through 126 of this title.

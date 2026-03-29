@@ -5,7 +5,7 @@ usc_section: "1950"
 chapter: 19
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1950"
-generated_at: "2026-03-29T00:32:17.216Z"
+generated_at: "2026-03-29T02:14:50.378Z"
 ---
 
 # § 1950. Payment to estates

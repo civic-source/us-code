@@ -5,13 +5,13 @@ usc_section: "364d"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 364d"
-generated_at: "2026-03-29T00:30:24.262Z"
+generated_at: "2026-03-29T02:12:28.065Z"
 ---
 
 # § 364d. Safety substantiation
 
-(a) A responsible person for a cosmetic product shall ensure, and maintain records supporting, that there is adequate substantiation of safety of such cosmetic product.
-(b) Subsection (a) shall not apply to coal-tar hair dye that otherwise complies with the requirements of section 361(a) of this title . A responsible person for a coal-tar hair dye shall maintain records related to the safety of such product.
-(c) For purposes of this section:
-  (1) The term “adequate substantiation of safety” means tests or studies, research, analyses, or other evidence or information that is considered, among experts qualified by scientific training and experience to evaluate the safety of cosmetic products and their ingredients, sufficient to support a reasonable certainty that a cosmetic product is safe.
-  (2) The term “safe” means that the cosmetic product, including any ingredient thereof, is not injurious to users under the conditions of use prescribed in the labeling thereof, or under such conditions of use as are customary or usual. The Secretary shall not consider a cosmetic ingredient or cosmetic product injurious to users solely because it can cause minor and transient reactions or minor and transient skin irritations in some users. In determining for purposes of this section whether a cosmetic product is safe, the Secretary may consider, as appropriate and available, the cumulative or other relevant exposure to the cosmetic product, including any ingredient thereof.
+- **(a)** A responsible person for a cosmetic product shall ensure, and maintain records supporting, that there is adequate substantiation of safety of such cosmetic product.
+- **(b)** Subsection (a) shall not apply to coal-tar hair dye that otherwise complies with the requirements of section 361(a) of this title . A responsible person for a coal-tar hair dye shall maintain records related to the safety of such product.
+- **(c)** For purposes of this section:
+  - **(1)** The term “adequate substantiation of safety” means tests or studies, research, analyses, or other evidence or information that is considered, among experts qualified by scientific training and experience to evaluate the safety of cosmetic products and their ingredients, sufficient to support a reasonable certainty that a cosmetic product is safe.
+  - **(2)** The term “safe” means that the cosmetic product, including any ingredient thereof, is not injurious to users under the conditions of use prescribed in the labeling thereof, or under such conditions of use as are customary or usual. The Secretary shall not consider a cosmetic ingredient or cosmetic product injurious to users solely because it can cause minor and transient reactions or minor and transient skin irritations in some users. In determining for purposes of this section whether a cosmetic product is safe, the Secretary may consider, as appropriate and available, the cumulative or other relevant exposure to the cosmetic product, including any ingredient thereof.

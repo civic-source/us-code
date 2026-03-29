@@ -5,12 +5,12 @@ usc_section: "6304"
 chapter: 63
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6304"
-generated_at: "2026-03-29T00:32:20.558Z"
+generated_at: "2026-03-29T02:14:58.796Z"
 ---
 
 # § 6304. Additional regulations
 
-(a) In addition to the restrictions and requirements specified in sections 6302 and 6303 of this title, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts may prescribe for their respective agencies regulations necessary for—
-  (1) the adequate protection of the specified buildings and grounds and individuals and property in those buildings and grounds; and
-  (2) the maintenance of suitable order and decorum within the specified buildings and grounds, including the control of traffic and parking of vehicles in the National Zoological Park and all other areas in the District of Columbia under their control.
-(b) A regulation prescribed under this section shall be published in the Federal Register and is not effective until the expiration of 10 days after the date of publication.
+- **(a)** In addition to the restrictions and requirements specified in sections 6302 and 6303 of this title, the Secretary of the Smithsonian Institution, the Trustees of the National Gallery of Art, and the Trustees of the John F. Kennedy Center for the Performing Arts may prescribe for their respective agencies regulations necessary for—
+  - **(1)** the adequate protection of the specified buildings and grounds and individuals and property in those buildings and grounds; and
+  - **(2)** the maintenance of suitable order and decorum within the specified buildings and grounds, including the control of traffic and parking of vehicles in the National Zoological Park and all other areas in the District of Columbia under their control.
+- **(b)** A regulation prescribed under this section shall be published in the Federal Register and is not effective until the expiration of 10 days after the date of publication.

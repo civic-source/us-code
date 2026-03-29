@@ -5,15 +5,15 @@ usc_section: "908"
 chapter: 9
 current_through: "PL 119-73"
 classification: "32 U.S.C. § 908"
-generated_at: "2026-03-29T00:31:53.413Z"
+generated_at: "2026-03-29T02:14:14.598Z"
 ---
 
 # § 908. Annual report
 
-(a) After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter, the Secretary of Defense shall submit to the congressional defense committees a report regarding any assistance provided and activities carried out under this chapter during that fiscal year. The report for a fiscal year shall be submitted not later than March 31 of the year following the year in which such fiscal year ended.
-(b) The report for a fiscal year shall include the following matters:
-  (1) The numbers of members of the National Guard excluded under subsection (i)(13) of section 115 of title 10 from being counted for the purpose of end-strengths authorized pursuant to subsection (a)(1) of such section.
-  (2) A description of the homeland defense activities conducted with funds provided under this chapter.
-  (3) An accounting of the amount of the funds provided to each State.
-  (4) A description of the effect on military training and readiness of using units and personnel of the National Guard to perform homeland defense activities under this chapter.
-  (5) A description of the effect of any equipment shortfall on the ability of the National Guard of a State to perform a homeland defense activity.
+- **(a)** After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter, the Secretary of Defense shall submit to the congressional defense committees a report regarding any assistance provided and activities carried out under this chapter during that fiscal year. The report for a fiscal year shall be submitted not later than March 31 of the year following the year in which such fiscal year ended.
+- **(b)** The report for a fiscal year shall include the following matters:
+  - **(1)** The numbers of members of the National Guard excluded under subsection (i)(13) of section 115 of title 10 from being counted for the purpose of end-strengths authorized pursuant to subsection (a)(1) of such section.
+  - **(2)** A description of the homeland defense activities conducted with funds provided under this chapter.
+  - **(3)** An accounting of the amount of the funds provided to each State.
+  - **(4)** A description of the effect on military training and readiness of using units and personnel of the National Guard to perform homeland defense activities under this chapter.
+  - **(5)** A description of the effect of any equipment shortfall on the ability of the National Guard of a State to perform a homeland defense activity.

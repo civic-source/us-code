@@ -5,21 +5,21 @@ usc_section: "7704"
 chapter: 84
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7704"
-generated_at: "2026-03-29T00:30:33.999Z"
+generated_at: "2026-03-29T02:12:40.435Z"
 ---
 
 # § 7704. Authorization of assistance
 
-(a) Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into a Millennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
-(b) Assistance under this section may be provided in the form of grants, cooperative agreements, or contracts to or with eligible entities described in subsection (c). Assistance under this section may not be provided in the form of loans.
-(c) An eligible entity referred to in subsection (b) is—
-  (1) the national government of the eligible country;
-  (2) regional or local governmental units of the country; or
-  (3) a nongovernmental organization or a private entity.
-(d) The Chief Executive Officer, in consultation with the Board and working with eligible countries selected by the Board for negotiation of Compacts, should develop and recommend procedures for considering solicited and unsolicited proposals in Compacts prior to an approval of the Compacts by the Board.
-(e) 
-  (1) Assistance under this section may not include military assistance or military training for a country.
-  (2) Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or a substantial displacement of United States production.
-  (3) Assistance under this section may not be provided for any project that is likely to cause a significant environmental, health, or safety hazard.
-  (4) The prohibitions on use of funds contained in paragraphs (1) through (3) of section 104(f) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151b(f)(1) –(3)) shall apply to funds made available to carry out this section to the same extent and in the same manner as such prohibitions apply to funds made available to carry out part I of such Act [ 22 U.S.C. 2151 et seq.]. The prohibition on use of funds contained in any provision of law comparable to the eleventh and fourteenth provisos under the heading “Child Survival and Health Programs Fund” of division E of Public Law 108–7 ( 117 Stat. 162 ) shall apply to funds made available to carry out this section for fiscal year 2004.
-(f) The provision of assistance under this section shall be coordinated with other United States foreign assistance programs.
+- **(a)** Notwithstanding any other provision of law (other than a provision of this chapter), the Board, acting through the Chief Executive Officer, is authorized to provide assistance under this section for each country that enters into a Millennium Challenge Compact with the United States pursuant to section 7708 of this title to support policies and programs that advance the progress of the country in achieving lasting economic growth and poverty reduction and are in furtherance of the purposes of this chapter.
+- **(b)** Assistance under this section may be provided in the form of grants, cooperative agreements, or contracts to or with eligible entities described in subsection (c). Assistance under this section may not be provided in the form of loans.
+- **(c)** An eligible entity referred to in subsection (b) is—
+  - **(1)** the national government of the eligible country;
+  - **(2)** regional or local governmental units of the country; or
+  - **(3)** a nongovernmental organization or a private entity.
+- **(d)** The Chief Executive Officer, in consultation with the Board and working with eligible countries selected by the Board for negotiation of Compacts, should develop and recommend procedures for considering solicited and unsolicited proposals in Compacts prior to an approval of the Compacts by the Board.
+- **(e)**
+  - **(1)** Assistance under this section may not include military assistance or military training for a country.
+  - **(2)** Assistance under this section may not be provided for any project that is likely to cause a substantial loss of United States jobs or a substantial displacement of United States production.
+  - **(3)** Assistance under this section may not be provided for any project that is likely to cause a significant environmental, health, or safety hazard.
+  - **(4)** The prohibitions on use of funds contained in paragraphs (1) through (3) of section 104(f) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151b(f)(1) –(3)) shall apply to funds made available to carry out this section to the same extent and in the same manner as such prohibitions apply to funds made available to carry out part I of such Act [ 22 U.S.C. 2151 et seq.]. The prohibition on use of funds contained in any provision of law comparable to the eleventh and fourteenth provisos under the heading “Child Survival and Health Programs Fund” of division E of Public Law 108–7 ( 117 Stat. 162 ) shall apply to funds made available to carry out this section for fiscal year 2004.
+- **(f)** The provision of assistance under this section shall be coordinated with other United States foreign assistance programs.

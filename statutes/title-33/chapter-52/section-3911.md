@@ -5,7 +5,7 @@ usc_section: "3911"
 chapter: 52
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3911"
-generated_at: "2026-03-29T00:31:57.473Z"
+generated_at: "2026-03-29T02:14:18.670Z"
 ---
 
 # § 3911. Regulations

@@ -5,12 +5,12 @@ usc_section: "1701"
 chapter: 17
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1701"
-generated_at: "2026-03-29T00:32:22.576Z"
+generated_at: "2026-03-29T02:15:00.443Z"
 ---
 
 # § 1701. Cooperation with the Administrator
 
 On the request of the Administrator, each executive agency shall—
 
-  (1) make its services, personnel, and facilities available to the Office of Federal Procurement Policy to the greatest practicable extent for the performance of functions under this division; and
-  (2) except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in its possession that the Administrator may determine to be necessary for the performance of the functions of the Office.
+  - **(1)** make its services, personnel, and facilities available to the Office of Federal Procurement Policy to the greatest practicable extent for the performance of functions under this division; and
+  - **(2)** except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in its possession that the Administrator may determine to be necessary for the performance of the functions of the Office.

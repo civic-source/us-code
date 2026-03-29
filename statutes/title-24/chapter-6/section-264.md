@@ -5,7 +5,7 @@ usc_section: "264"
 chapter: 6
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 264"
-generated_at: "2026-03-29T00:30:34.809Z"
+generated_at: "2026-03-29T02:13:07.076Z"
 ---
 
 # §§ 261 to 264. Omitted

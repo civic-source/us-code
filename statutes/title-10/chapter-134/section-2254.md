@@ -5,23 +5,23 @@ usc_section: "2254"
 chapter: 134
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2254"
-generated_at: "2026-03-29T00:20:53.032Z"
+generated_at: "2026-03-29T02:10:45.086Z"
 ---
 
 # § 2254. Treatment of reports of aircraft accident investigations
 
-(a) 
-  (1) Whenever the Secretary of a military department conducts an accident investigation of an accident involving an aircraft under the jurisdiction of the Secretary, the records and report of the investigations shall be treated in accordance with this section.
-  (2) For purposes of this section, an accident investigation is any form of investigation of an aircraft accident other than an investigation (known as a “safety investigation”) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
-(b) 
-  (1) The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
-    (A) that such tapes, reports, or other information would be included within and releasable with the final accident investigation report; and
-    (B) that release of such tapes, reports, or other information—
-      (i) would not undermine the ability of accident or safety investigators to continue to conduct the investigation; and
-      (ii) would not compromise national security.
-  (2) A disclosure under paragraph (1) may not be made by or through officials with responsibility for, or who are conducting, a safety investigation with respect to the accident.
-(c) Following a military aircraft accident—
-  (1) if the evidence surrounding the accident is sufficient for the investigators who conduct the accident investigation to come to an opinion (or opinions) as to the cause or causes of the accident, the final report of the accident investigation shall set forth the opinion (or opinions) of the investigators as to the cause or causes of the accident; and
-  (2) if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
-(d) For purposes of any civil or criminal proceeding arising from an aircraft accident, any opinion of the accident investigators as to the cause of, or the factors contributing to, the accident set forth in the accident investigation report may not be considered as evidence in such proceeding, nor may such information be considered an admission of liability by the United States or by any person referred to in those conclusions or statements.
-(e) The Secretary of each military department shall prescribe regulations to carry out this section.
+- **(a)**
+  - **(1)** Whenever the Secretary of a military department conducts an accident investigation of an accident involving an aircraft under the jurisdiction of the Secretary, the records and report of the investigations shall be treated in accordance with this section.
+  - **(2)** For purposes of this section, an accident investigation is any form of investigation of an aircraft accident other than an investigation (known as a “safety investigation”) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
+- **(b)**
+  - **(1)** The Secretary concerned, upon request, shall publicly disclose unclassified tapes, scientific reports, and other factual information pertinent to an aircraft accident investigation, before the release of the final accident investigation report relating to the accident, if the Secretary concerned determines—
+    - **(A)** that such tapes, reports, or other information would be included within and releasable with the final accident investigation report; and
+    - **(B)** that release of such tapes, reports, or other information—
+      - **(i)** would not undermine the ability of accident or safety investigators to continue to conduct the investigation; and
+      - **(ii)** would not compromise national security.
+  - **(2)** A disclosure under paragraph (1) may not be made by or through officials with responsibility for, or who are conducting, a safety investigation with respect to the accident.
+- **(c)** Following a military aircraft accident—
+  - **(1)** if the evidence surrounding the accident is sufficient for the investigators who conduct the accident investigation to come to an opinion (or opinions) as to the cause or causes of the accident, the final report of the accident investigation shall set forth the opinion (or opinions) of the investigators as to the cause or causes of the accident; and
+  - **(2)** if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
+- **(d)** For purposes of any civil or criminal proceeding arising from an aircraft accident, any opinion of the accident investigators as to the cause of, or the factors contributing to, the accident set forth in the accident investigation report may not be considered as evidence in such proceeding, nor may such information be considered an admission of liability by the United States or by any person referred to in those conclusions or statements.
+- **(e)** The Secretary of each military department shall prescribe regulations to carry out this section.

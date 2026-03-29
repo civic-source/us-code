@@ -5,7 +5,7 @@ usc_section: "362"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 362"
-generated_at: "2026-03-29T00:33:06.592Z"
+generated_at: "2026-03-29T02:16:00.797Z"
 ---
 
 # §§ 353a to 362. Transferred

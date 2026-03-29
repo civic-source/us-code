@@ -5,7 +5,7 @@ usc_section: "2893"
 chapter: 169
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2893"
-generated_at: "2026-03-29T00:20:53.101Z"
+generated_at: "2026-03-29T02:10:45.164Z"
 ---
 
 # § 2893. Treatment of incentive fees for landlords of housing units for failure to remedy health or environmental hazards

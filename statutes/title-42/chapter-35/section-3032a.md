@@ -5,16 +5,16 @@ usc_section: "3032a"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3032a"
-generated_at: "2026-03-29T00:32:53.814Z"
+generated_at: "2026-03-29T02:15:36.642Z"
 ---
 
 # § 3032a. Career preparation for the field of aging
 
-(a) The Assistant Secretary shall make grants to institutions of higher education, including historically Black colleges or universities, Hispanic-serving institutions, and Hispanic Centers of Excellence in Applied Gerontology, to provide education and training that prepares students for careers in the field of aging.
-(b) For purposes of subsection (a):
-  (1) The term “Hispanic Center of Excellence in Applied Gerontology” means an institution of higher education with a program in applied gerontology that—
-    (A) has a significant number of Hispanic individuals enrolled in the program, including individuals accepted for enrollment in the program;
-    (B) has been effective in assisting Hispanic students of the program to complete the program and receive the degree involved;
-    (C) has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondary educational institutions to attend the program; and
-    (D) has made significant recruitment efforts to increase the number and placement of Hispanic individuals serving in faculty or administrative positions in the program.
-  (2) The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20 .
+- **(a)** The Assistant Secretary shall make grants to institutions of higher education, including historically Black colleges or universities, Hispanic-serving institutions, and Hispanic Centers of Excellence in Applied Gerontology, to provide education and training that prepares students for careers in the field of aging.
+- **(b)** For purposes of subsection (a):
+  - **(1)** The term “Hispanic Center of Excellence in Applied Gerontology” means an institution of higher education with a program in applied gerontology that—
+    - **(A)** has a significant number of Hispanic individuals enrolled in the program, including individuals accepted for enrollment in the program;
+    - **(B)** has been effective in assisting Hispanic students of the program to complete the program and receive the degree involved;
+    - **(C)** has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondary educational institutions to attend the program; and
+    - **(D)** has made significant recruitment efforts to increase the number and placement of Hispanic individuals serving in faculty or administrative positions in the program.
+  - **(2)** The term “historically Black college or university” has the meaning given the term “part B institution” in section 1061(2) of title 20 .

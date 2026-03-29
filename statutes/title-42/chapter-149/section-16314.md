@@ -5,10 +5,10 @@ usc_section: "16314"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16314"
-generated_at: "2026-03-29T00:32:54.399Z"
+generated_at: "2026-03-29T02:15:37.353Z"
 ---
 
 # § 16314. Hydrogen
 
-(a) The Secretary shall conduct a program of fundamental research and development in support of programs authorized under subchapter VIII.
-(b) The program shall include support for methods of generating hydrogen without the use of natural gas.
+- **(a)** The Secretary shall conduct a program of fundamental research and development in support of programs authorized under subchapter VIII.
+- **(b)** The program shall include support for methods of generating hydrogen without the use of natural gas.

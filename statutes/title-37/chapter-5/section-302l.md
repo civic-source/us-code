@@ -5,17 +5,17 @@ usc_section: "302l"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 302l"
-generated_at: "2026-03-29T00:32:04.399Z"
+generated_at: "2026-03-29T02:14:43.121Z"
 ---
 
 # § 302l. Special pay: accession bonus for dental specialist officers in critically short wartime specialties
 
-(a) A person who is a graduate of an accredited dental school in a specialty designated by regulations as a critically short wartime specialty and who executes a written agreement described in subsection (d) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four consecutive years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in the amount determined by the Secretary concerned.
-(b) The amount of an accession bonus under subsection (a) may not exceed $400,000.
-(c) A person may not be paid a bonus under subsection (a) if—
-  (1) the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in dentistry; or
-  (2) the Secretary concerned determines that the person is not qualified to become and remain certified as a dentist in a specialty designated by regulations as a critically short wartime specialty.
-(d) The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Dental Corps of the Army or the Navy or as an officer of the Air Force designated as a dental officer in a specialty designated by regulations as a critically short wartime specialty.
-(e) A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
-(f) A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
-(g) No agreement under this section may be entered into after December 31, 2018 .
+- **(a)** A person who is a graduate of an accredited dental school in a specialty designated by regulations as a critically short wartime specialty and who executes a written agreement described in subsection (d) to accept a commission as an officer of the armed forces and remain on active duty for a period of not less than four consecutive years may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus in the amount determined by the Secretary concerned.
+- **(b)** The amount of an accession bonus under subsection (a) may not exceed $400,000.
+- **(c)** A person may not be paid a bonus under subsection (a) if—
+  - **(1)** the person, in exchange for an agreement to accept an appointment as an officer, received financial assistance from the Department of Defense to pursue a course of study in dentistry; or
+  - **(2)** the Secretary concerned determines that the person is not qualified to become and remain certified as a dentist in a specialty designated by regulations as a critically short wartime specialty.
+- **(d)** The agreement referred to in subsection (a) shall provide that, consistent with the needs of the armed force concerned, the person executing the agreement will be assigned to duty, for the period of obligated service covered by the agreement, as an officer of the Dental Corps of the Army or the Navy or as an officer of the Air Force designated as a dental officer in a specialty designated by regulations as a critically short wartime specialty.
+- **(e)** A person who, after executing an agreement under subsection (a) is not commissioned as an officer of the armed forces, does not become licensed as a dentist, or does not complete the period of active duty in a specialty specified in the agreement, shall be subject to the repayment provisions of section 303a(e) of this title .
+- **(f)** A person eligible to execute an agreement under both subsection (a) and section 302h of this title shall elect which authority to execute the agreement under. A person may not execute an agreement under both subsection (a) and such section 302h.
+- **(g)** No agreement under this section may be entered into after December 31, 2018 .

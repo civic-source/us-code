@@ -5,7 +5,7 @@ usc_section: "43b"
 chapter: 2
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 43b"
-generated_at: "2026-03-29T00:31:21.680Z"
+generated_at: "2026-03-29T02:14:02.221Z"
 ---
 
 # §§ 43a, 43b. Omitted

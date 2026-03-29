@@ -5,14 +5,14 @@ usc_section: "2377"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2377"
-generated_at: "2026-03-29T00:30:33.798Z"
+generated_at: "2026-03-29T02:12:40.072Z"
 ---
 
 # § 2377. Prohibition on assistance to countries that aid terrorist states
 
-(a) The President shall withhold assistance under this chapter to the government of any country that provides assistance to the government of any other country for which the Secretary of State has made a determination under section 2371 of this title .
-(b) Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
-  (1) a statement of the determination;
-  (2) a detailed explanation of the assistance to be provided;
-  (3) the estimated dollar amount of the assistance; and
-  (4) an explanation of how the assistance furthers United States national interests.
+- **(a)** The President shall withhold assistance under this chapter to the government of any country that provides assistance to the government of any other country for which the Secretary of State has made a determination under section 2371 of this title .
+- **(b)** Assistance prohibited by this section may be furnished to a foreign government described in subsection (a) if the President determines that furnishing such assistance is important to the national interests of the United States and, not later than 15 days before obligating such assistance, furnishes a report to the appropriate committees of Congress including—
+  - **(1)** a statement of the determination;
+  - **(2)** a detailed explanation of the assistance to be provided;
+  - **(3)** the estimated dollar amount of the assistance; and
+  - **(4)** an explanation of how the assistance furthers United States national interests.

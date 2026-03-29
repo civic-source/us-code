@@ -5,7 +5,7 @@ usc_section: "3215"
 chapter: 32
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3215"
-generated_at: "2026-03-29T00:32:18.856Z"
+generated_at: "2026-03-29T02:14:53.131Z"
 ---
 
 # § 3215. Lending or permitting use of frank unlawful

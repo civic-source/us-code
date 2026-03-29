@@ -1,0 +1,30 @@
+---
+title: "Section 1171 - International railroad security program"
+usc_title: 6
+usc_section: "1171"
+chapter: 4
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 1171"
+generated_at: "2026-03-29T02:10:05.086Z"
+---
+
+# § 1171. International railroad security program
+
+- **(a)**
+  - **(1)** The Secretary shall develop a system to detect both undeclared passengers and contraband, with a primary focus on the detection of nuclear and radiological materials entering the United States by railroad.
+  - **(2)** In developing the system under paragraph (1), the Secretary may, in consultation with the Domestic Nuclear Detection Office, 1 1 See Change of Name note below. Customs and Border Protection, and the Transportation Security Administration—
+    - **(A)** deploy radiation detection equipment and nonintrusive imaging equipment at locations where railroad shipments cross an international border to enter the United States;
+    - **(B)** consider the integration of radiation detection technologies with other nonintrusive inspection technologies where feasible;
+    - **(C)** ensure appropriate training, operations, and response protocols are established for Federal, State, and local personnel;
+    - **(D)** implement alternative procedures to check railroad shipments at locations where the deployment of nonintrusive inspection imaging equipment is determined to not be practicable;
+    - **(E)** ensure, to the extent practicable, that such technologies deployed can detect terrorists or weapons, including weapons of mass destruction; and
+    - **(F)** take other actions, as appropriate, to develop the system.
+- **(b)** The Secretary shall—
+  - **(1)** identify and seek the submission of additional data elements for improved high-risk targeting related to the movement of cargo through the international supply chain utilizing a railroad prior to importation into the United States;
+  - **(2)** utilize data collected and maintained by the Secretary of Transportation in the targeting of high-risk cargo identified under paragraph (1); and
+  - **(3)** analyze the data provided in this subsection to identify high-risk cargo for inspection.
+- **(c)** Not later than September 30, 2008 , the Secretary shall transmit to the appropriate congressional committees a report that describes the progress of the system being developed under subsection (a).
+- **(d)** In this section:
+  - **(1)** The term “international supply chain” means the end-to-end process for shipping goods to or from the United States, beginning at the point of origin (including manufacturer, supplier, or vendor) through a point of distribution to the destination.
+  - **(2)** The term “radiation detection equipment” means any technology that is capable of detecting or identifying nuclear and radiological material or nuclear and radiological explosive devices.
+  - **(3)** The term “inspection” means the comprehensive process used by Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws.

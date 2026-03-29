@@ -5,12 +5,12 @@ usc_section: "504"
 chapter: 5
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 504"
-generated_at: "2026-03-29T00:33:02.819Z"
+generated_at: "2026-03-29T02:15:53.704Z"
 ---
 
 # § 504. Remission of fees and penalties
 
 Any part of a fee, tax, or penalty paid or a forfeiture incurred under a law or regulation relating to vessels or seamen may be remitted if—
 
-  (1) application for the remission is made within one year after the date of the payment or forfeiture; and
-  (2) it is found that the fee, tax, penalty, or forfeiture was improperly or excessively imposed.
+  - **(1)** application for the remission is made within one year after the date of the payment or forfeiture; and
+  - **(2)** it is found that the fee, tax, penalty, or forfeiture was improperly or excessively imposed.

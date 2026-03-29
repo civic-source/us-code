@@ -5,46 +5,46 @@ usc_section: "51322"
 chapter: 513
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 51322"
-generated_at: "2026-03-29T00:33:02.926Z"
+generated_at: "2026-03-29T02:15:53.763Z"
 ---
 
 # § 51322. Protection of cadets from sexual assault onboard vessels
 
-(a) The Maritime Administrator, after consulting with the Commandant of the Coast Guard, shall establish—
-  (1) criteria, to which an owner or operator of a vessel engaged in commercial service shall adhere prior to carrying a cadet performing their Sea Year service from the United States Merchant Marine Academy, that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
-  (2) a process for collecting pertinent information from such owners or operators and verifying their compliance with the criteria.
-  (3) 
-    (A) As part of training that shall be provided not less than semiannually to all midshipmen of the Academy, pursuant to section 51318, the Maritime Administrator shall develop and implement comprehensive in-person sexual assault risk-reduction and response training that, to the extent practicable, conforms to best practices in the sexual assault prevention and response field and includes appropriate scenario-based training.
-    (B) In developing the sexual assault risk-reduction and response training under subparagraph (A), the Maritime Administrator shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
-(b) At a minimum, the criteria established under subsection (a) shall require the vessel owners or operators to have policies that address—
-  (1) communication between a cadet and an individual ashore who is trained in responding to incidents of sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
-  (2) the safety and security of cadet staterooms while a cadet is onboard the vessel;
-  (3) requirements for crew to report complaints or incidents of sexual assault, sexual harassment, dating violence, domestic violence, and stalking consistent with the requirements in section 10104;
-  (4) the maintenance of records of reports of sexual harassment, dating violence, domestic violence, sexual assault, and stalking onboard a vessel carrying a cadet;
-  (5) the maintenance of records of sexual harassment, dating violence, domestic violence, sexual assault, and stalking training as required under subsection (f);
-  (6) a requirement for the owner or operator provide each cadet a copy of the policies and procedures related to sexual harassment, dating violence, domestic violence, sexual assault, and stalking policies that pertain to the vessel on which they will be employed; and
-  (7) any other issues the Maritime Administrator determines necessary to ensure the safety of cadets during Sea Year training.
-(c) The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to annually certify that—
-  (1) the vessel owner or operator is in compliance with the criteria established under subsection (a); and
-  (2) the vessel is in compliance with the International Convention of Safety of Life at Sea, 1974 (32 UST 47) and sections 8106 and 70103(c).
-(d) The Maritime Administrator shall ensure that a cadet participating in Sea Year—
-  (1) receives training specific to vessel safety, including sexual harassment, dating violence, domestic violence, sexual assault, and stalking prevention and response training, prior to the cadet boarding a vessel for Sea Year training;
-  (2) is equipped with an appropriate means of communication and has been trained on its use;
-  (3) has access to a helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking that is monitored by trained personnel; and
-  (4) is informed of the legal requirements for vessel owners and operators to provide for the security of individuals onboard, including requirements under section 70103(c) and chapter 81.
-(e) 
-  (1) Not less frequently than biennially, staff of the Academy or staff of the Maritime Administration shall conduct both random and targeted unannounced checks of not less than 10 percent of the commercial vessels that host a cadet from the Academy.
-  (2) The vessel operator shall make available to staff conducting a vessel check such information as the Maritime Administrator determines is necessary to determine whether the vessel is being operated in compliance with the criteria established under subsection (a).
-  (3) If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is not in compliance with the criteria established under subsection (a), the staff—
-    (A) may remove a cadet of the Academy from the vessel; and
-    (B) shall report such determination of non-compliance to the owner or operator of the vessel.
-(f) The Maritime Administrator shall require the owner or operator of a commercial vessel, and the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
-(g) 
-  (1) The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
-  (2) The Maritime Administrator shall make available to the public for each year—
-    (A) the questions used in the survey required by paragraph (1); and
-    (B) the aggregated data received from such surveys.
-(h) 
-  (1) A public vessel (as defined in section 2101) shall not be subject to the requirements of this section.
-  (2) The Maritime Administrator may establish criteria and requirements that the operators of public vessels shall meet to participate in the Sea Year program of the United States Merchant Marine Academy that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
-(i) The Maritime Administrator shall share with State maritime academies best practices for, and lessons learned with respect to, the prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+- **(a)** The Maritime Administrator, after consulting with the Commandant of the Coast Guard, shall establish—
+  - **(1)** criteria, to which an owner or operator of a vessel engaged in commercial service shall adhere prior to carrying a cadet performing their Sea Year service from the United States Merchant Marine Academy, that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
+  - **(2)** a process for collecting pertinent information from such owners or operators and verifying their compliance with the criteria.
+  - **(3)**
+    - **(A)** As part of training that shall be provided not less than semiannually to all midshipmen of the Academy, pursuant to section 51318, the Maritime Administrator shall develop and implement comprehensive in-person sexual assault risk-reduction and response training that, to the extent practicable, conforms to best practices in the sexual assault prevention and response field and includes appropriate scenario-based training.
+    - **(B)** In developing the sexual assault risk-reduction and response training under subparagraph (A), the Maritime Administrator shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
+- **(b)** At a minimum, the criteria established under subsection (a) shall require the vessel owners or operators to have policies that address—
+  - **(1)** communication between a cadet and an individual ashore who is trained in responding to incidents of sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
+  - **(2)** the safety and security of cadet staterooms while a cadet is onboard the vessel;
+  - **(3)** requirements for crew to report complaints or incidents of sexual assault, sexual harassment, dating violence, domestic violence, and stalking consistent with the requirements in section 10104;
+  - **(4)** the maintenance of records of reports of sexual harassment, dating violence, domestic violence, sexual assault, and stalking onboard a vessel carrying a cadet;
+  - **(5)** the maintenance of records of sexual harassment, dating violence, domestic violence, sexual assault, and stalking training as required under subsection (f);
+  - **(6)** a requirement for the owner or operator provide each cadet a copy of the policies and procedures related to sexual harassment, dating violence, domestic violence, sexual assault, and stalking policies that pertain to the vessel on which they will be employed; and
+  - **(7)** any other issues the Maritime Administrator determines necessary to ensure the safety of cadets during Sea Year training.
+- **(c)** The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to annually certify that—
+  - **(1)** the vessel owner or operator is in compliance with the criteria established under subsection (a); and
+  - **(2)** the vessel is in compliance with the International Convention of Safety of Life at Sea, 1974 (32 UST 47) and sections 8106 and 70103(c).
+- **(d)** The Maritime Administrator shall ensure that a cadet participating in Sea Year—
+  - **(1)** receives training specific to vessel safety, including sexual harassment, dating violence, domestic violence, sexual assault, and stalking prevention and response training, prior to the cadet boarding a vessel for Sea Year training;
+  - **(2)** is equipped with an appropriate means of communication and has been trained on its use;
+  - **(3)** has access to a helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking that is monitored by trained personnel; and
+  - **(4)** is informed of the legal requirements for vessel owners and operators to provide for the security of individuals onboard, including requirements under section 70103(c) and chapter 81.
+- **(e)**
+  - **(1)** Not less frequently than biennially, staff of the Academy or staff of the Maritime Administration shall conduct both random and targeted unannounced checks of not less than 10 percent of the commercial vessels that host a cadet from the Academy.
+  - **(2)** The vessel operator shall make available to staff conducting a vessel check such information as the Maritime Administrator determines is necessary to determine whether the vessel is being operated in compliance with the criteria established under subsection (a).
+  - **(3)** If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is not in compliance with the criteria established under subsection (a), the staff—
+    - **(A)** may remove a cadet of the Academy from the vessel; and
+    - **(B)** shall report such determination of non-compliance to the owner or operator of the vessel.
+- **(f)** The Maritime Administrator shall require the owner or operator of a commercial vessel, and the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
+- **(g)**
+  - **(1)** The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
+  - **(2)** The Maritime Administrator shall make available to the public for each year—
+    - **(A)** the questions used in the survey required by paragraph (1); and
+    - **(B)** the aggregated data received from such surveys.
+- **(h)**
+  - **(1)** A public vessel (as defined in section 2101) shall not be subject to the requirements of this section.
+  - **(2)** The Maritime Administrator may establish criteria and requirements that the operators of public vessels shall meet to participate in the Sea Year program of the United States Merchant Marine Academy that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+- **(i)** The Maritime Administrator shall share with State maritime academies best practices for, and lessons learned with respect to, the prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.

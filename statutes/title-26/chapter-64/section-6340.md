@@ -5,14 +5,14 @@ usc_section: "6340"
 chapter: 64
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6340"
-generated_at: "2026-03-29T00:31:21.049Z"
+generated_at: "2026-03-29T02:14:01.334Z"
 ---
 
 # § 6340. Records of sale
 
-(a) The Secretary shall, for each internal revenue district, keep a record of all sales of property under section 6335 and of redemptions of such property. The record shall set forth the tax for which any such sale was made, the dates of seizure and sale, the name of the party assessed and all proceedings in making such sale, the amount of expenses, the names of the purchasers, and the date of the deed or certificate of sale of personal property.
-(b) A copy of such record, or any part thereof, certified by the Secretary shall be evidence in any court of the truth of the facts therein stated.
-(c) The taxpayer with respect to whose liability the sale was conducted or who redeemed the property shall be furnished—
-  (1) the record under subsection (a) (other than the names of the purchasers);
-  (2) the amount from such sale applied to the taxpayer’s liability; and
-  (3) the remaining balance of such liability.
+- **(a)** The Secretary shall, for each internal revenue district, keep a record of all sales of property under section 6335 and of redemptions of such property. The record shall set forth the tax for which any such sale was made, the dates of seizure and sale, the name of the party assessed and all proceedings in making such sale, the amount of expenses, the names of the purchasers, and the date of the deed or certificate of sale of personal property.
+- **(b)** A copy of such record, or any part thereof, certified by the Secretary shall be evidence in any court of the truth of the facts therein stated.
+- **(c)** The taxpayer with respect to whose liability the sale was conducted or who redeemed the property shall be furnished—
+  - **(1)** the record under subsection (a) (other than the names of the purchasers);
+  - **(2)** the amount from such sale applied to the taxpayer’s liability; and
+  - **(3)** the remaining balance of such liability.

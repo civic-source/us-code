@@ -5,10 +5,10 @@ usc_section: "219"
 chapter: 8
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 219"
-generated_at: "2026-03-29T00:31:21.688Z"
+generated_at: "2026-03-29T02:14:02.225Z"
 ---
 
 # § 219. Injunction proceedings; compromise of liability
 
-(a) The several district courts of the United States are vested with jurisdiction, for cause shown, to prevent and restrain violations of this subchapter upon the application of the Attorney General of the United States acting through the several United States attorneys in their several districts.
-(b) The Secretary is authorized, with respect to any violation of this subchapter, to compromise the liability arising with respect to such violation upon payment of a sum for each offense, to be collected by the Secretary and to be paid into the Treasury as miscellaneous receipts.
+- **(a)** The several district courts of the United States are vested with jurisdiction, for cause shown, to prevent and restrain violations of this subchapter upon the application of the Attorney General of the United States acting through the several United States attorneys in their several districts.
+- **(b)** The Secretary is authorized, with respect to any violation of this subchapter, to compromise the liability arising with respect to such violation upon payment of a sum for each offense, to be collected by the Secretary and to be paid into the Treasury as miscellaneous receipts.

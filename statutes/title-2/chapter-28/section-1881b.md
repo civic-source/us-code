@@ -5,10 +5,10 @@ usc_section: "1881b"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1881b"
-generated_at: "2026-03-29T00:06:10.965Z"
+generated_at: "2026-03-29T02:09:53.743Z"
 ---
 
 # § 1881b. Regulations and procedures
 
-(a) Not later than 30 days after May 16, 2016 , the Architect of the Capitol shall issue regulations for carrying out this subchapter, including regulations to establish procedures (including any appropriate forms, guidelines, and accompanying certificates) for requesting a Capitol-flown flag.
-(b) The regulations issued under subsection (a) shall take effect upon approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.
+- **(a)** Not later than 30 days after May 16, 2016 , the Architect of the Capitol shall issue regulations for carrying out this subchapter, including regulations to establish procedures (including any appropriate forms, guidelines, and accompanying certificates) for requesting a Capitol-flown flag.
+- **(b)** The regulations issued under subsection (a) shall take effect upon approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate.

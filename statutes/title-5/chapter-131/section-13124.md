@@ -5,7 +5,7 @@ usc_section: "13124"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13124"
-generated_at: "2026-03-29T00:28:38.450Z"
+generated_at: "2026-03-29T02:10:02.016Z"
 ---
 
 # § 13124. Rules and regulations

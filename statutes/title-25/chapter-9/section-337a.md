@@ -5,7 +5,7 @@ usc_section: "337a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 337a"
-generated_at: "2026-03-29T00:30:38.631Z"
+generated_at: "2026-03-29T02:13:20.849Z"
 ---
 
 # § 337a. Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1976 , 90 Stat. 2787

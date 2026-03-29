@@ -5,13 +5,13 @@ usc_section: "9705"
 chapter: 77
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9705"
-generated_at: "2026-03-29T00:07:03.206Z"
+generated_at: "2026-03-29T02:12:17.534Z"
 ---
 
 # § 9705. Commission personnel matters
 
-(a) Each member of the Commission shall serve without compensation in addition to that received for their service as an officer or employee of the United States.
-(b) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Commission.
-(c) 
-  (1) The Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
-  (2) Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+- **(a)** Each member of the Commission shall serve without compensation in addition to that received for their service as an officer or employee of the United States.
+- **(b)** The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Commission.
+- **(c)**
+  - **(1)** The Director of the Office of Financial Education of the Department of the Treasury shall provide assistance to the Commission, upon request of the Commission, without reimbursement.
+  - **(2)** Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.

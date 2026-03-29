@@ -5,7 +5,7 @@ usc_section: "202"
 chapter: 7
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 202"
-generated_at: "2026-03-29T00:30:24.147Z"
+generated_at: "2026-03-29T02:12:27.943Z"
 ---
 
 # § 202. Certain classes of persons and corporations excepted; insecticides

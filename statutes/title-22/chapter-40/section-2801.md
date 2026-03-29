@@ -5,13 +5,13 @@ usc_section: "2801"
 chapter: 40
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2801"
-generated_at: "2026-03-29T00:30:33.868Z"
+generated_at: "2026-03-29T02:12:40.274Z"
 ---
 
 # § 2801. Congressional findings
 
 The Congress finds that—
 
-(a) international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, under appropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
-(b) in view of the widely varying circumstances under which international expositions have developed in the United States, the different degrees to which the Federal Government has assisted and participated in such expositions, and the increasing number of proposals for future expositions, the national interest requires that Federal action concerning such expositions be given orderly consideration; and
-(c) such orderly consideration is best achieved by the development of uniform standards, criteria, and procedures to establish the conditions under which the Government hereafter will (A) recognize international expositions proposed to be held in the United States, and (B) take part in such expositions.
+- **(a)** international expositions, when properly organized, financed, and executed, have a significant impact on the economic growth of the region surrounding the exposition and, under appropriate international sanction, are important instruments of national policy, particularly in the exchange of ideas and the demonstration of cultural achievements between peoples;
+- **(b)** in view of the widely varying circumstances under which international expositions have developed in the United States, the different degrees to which the Federal Government has assisted and participated in such expositions, and the increasing number of proposals for future expositions, the national interest requires that Federal action concerning such expositions be given orderly consideration; and
+- **(c)** such orderly consideration is best achieved by the development of uniform standards, criteria, and procedures to establish the conditions under which the Government hereafter will (A) recognize international expositions proposed to be held in the United States, and (B) take part in such expositions.

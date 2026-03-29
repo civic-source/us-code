@@ -5,7 +5,7 @@ usc_section: "938"
 chapter: 22
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 938"
-generated_at: "2026-03-29T00:32:57.392Z"
+generated_at: "2026-03-29T02:15:47.579Z"
 ---
 
 # § 938. Lands excepted

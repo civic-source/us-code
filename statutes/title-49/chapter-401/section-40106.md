@@ -5,19 +5,19 @@ usc_section: "40106"
 chapter: 401
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 40106"
-generated_at: "2026-03-29T00:33:13.861Z"
+generated_at: "2026-03-29T02:16:08.998Z"
 ---
 
 # § 40106. Emergency powers
 
-(a) Appropriate military authority may authorize aircraft of the armed forces of the United States to deviate from air traffic regulations prescribed under section 40103(b)(1) and (2) of this title when the authority decides the deviation is essential to the national defense because of a military emergency or urgent military necessity. The authority shall—
-  (1) give the Administrator of the Federal Aviation Administration prior notice of the deviation at the earliest practicable time; and
-  (2) to the extent time and circumstances allow, make every reasonable effort to consult with the Administrator and arrange for the deviation in advance on a mutually agreeable basis.
-(b) 
-  (1) When the President decides that the government of a foreign country is acting inconsistently with the Convention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
-    (A) an air carrier or foreign air carrier to provide foreign air transportation to and from that foreign country;
-    (B) a person to operate aircraft in foreign air commerce to and from that foreign country;
-    (C) a foreign air carrier to provide foreign air transportation between the United States and another country that maintains air service with the foreign country; and
-    (D) a foreign person to operate aircraft in foreign air commerce between the United States and another country that maintains air service with the foreign country.
-  (2) The President may act under this subsection without notice or a hearing. The suspension remains in effect for as long as the President decides is necessary to ensure the security of aircraft against unlawful seizure. Notwithstanding section 40105(b) of this title , the authority of the President to suspend rights under this subsection is a condition to a certificate of public convenience and necessity, air carrier operating certificate, foreign air carrier or foreign aircraft permit, or foreign air carrier operating specification issued by the Secretary of Transportation under this part.
-  (3) An air carrier or foreign air carrier may not provide foreign air transportation, and a person may not operate aircraft in foreign air commerce, in violation of a suspension of authority under this subsection.
+- **(a)** Appropriate military authority may authorize aircraft of the armed forces of the United States to deviate from air traffic regulations prescribed under section 40103(b)(1) and (2) of this title when the authority decides the deviation is essential to the national defense because of a military emergency or urgent military necessity. The authority shall—
+  - **(1)** give the Administrator of the Federal Aviation Administration prior notice of the deviation at the earliest practicable time; and
+  - **(2)** to the extent time and circumstances allow, make every reasonable effort to consult with the Administrator and arrange for the deviation in advance on a mutually agreeable basis.
+- **(b)**
+  - **(1)** When the President decides that the government of a foreign country is acting inconsistently with the Convention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
+    - **(A)** an air carrier or foreign air carrier to provide foreign air transportation to and from that foreign country;
+    - **(B)** a person to operate aircraft in foreign air commerce to and from that foreign country;
+    - **(C)** a foreign air carrier to provide foreign air transportation between the United States and another country that maintains air service with the foreign country; and
+    - **(D)** a foreign person to operate aircraft in foreign air commerce between the United States and another country that maintains air service with the foreign country.
+  - **(2)** The President may act under this subsection without notice or a hearing. The suspension remains in effect for as long as the President decides is necessary to ensure the security of aircraft against unlawful seizure. Notwithstanding section 40105(b) of this title , the authority of the President to suspend rights under this subsection is a condition to a certificate of public convenience and necessity, air carrier operating certificate, foreign air carrier or foreign aircraft permit, or foreign air carrier operating specification issued by the Secretary of Transportation under this part.
+  - **(3)** An air carrier or foreign air carrier may not provide foreign air transportation, and a person may not operate aircraft in foreign air commerce, in violation of a suspension of authority under this subsection.

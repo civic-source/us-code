@@ -5,28 +5,28 @@ usc_section: "2255b"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2255b"
-generated_at: "2026-03-29T00:28:58.134Z"
+generated_at: "2026-03-29T02:10:16.955Z"
 ---
 
 # § 2255b. Department of Agriculture conference transparency
 
-(a) 
-  (1) Not later than September 30 of each year, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
-  (2) Each report under paragraph (1) shall contain—
-    (A) for each conference sponsored or held by the Department or attended by employees of the Department—
-      (i) the name of the conference;
-      (ii) the location of the conference;
-      (iii) the number of Department of Agriculture employees attending the conference; and
-      (iv) the costs (including travel expenses) relating to such conference; and
-    (B) for each conference sponsored or held by the Department of Agriculture for which the Department awarded a procurement contract, a description of the contracting procedures related to such conference.
-  (3) The requirement in paragraph (1) shall not apply to any conference—
-    (A) for which the cost to the Federal Government was less than $50,000; or
-    (B) outside of the United States that is attended by the Secretary or the Secretary’s designee as an official representative of the United States government.
-(b) Each report submitted in accordance with subsection (a) shall be posted in a searchable format on a Department of Agriculture website that is available to the public.
-(c) In this section, the term “conference”—
-  (1) means a meeting that—
-    (A) is held for consultation, education, awareness, or discussion;
-    (B) includes participants from at least one agency of the Department of Agriculture;
-    (C) is held in whole or in part at a facility outside of an agency of the Department of Agriculture; and
-    (D) involves costs associated with travel and lodging for some participants; and
-  (2) does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.
+- **(a)**
+  - **(1)** Not later than September 30 of each year, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
+  - **(2)** Each report under paragraph (1) shall contain—
+    - **(A)** for each conference sponsored or held by the Department or attended by employees of the Department—
+      - **(i)** the name of the conference;
+      - **(ii)** the location of the conference;
+      - **(iii)** the number of Department of Agriculture employees attending the conference; and
+      - **(iv)** the costs (including travel expenses) relating to such conference; and
+    - **(B)** for each conference sponsored or held by the Department of Agriculture for which the Department awarded a procurement contract, a description of the contracting procedures related to such conference.
+  - **(3)** The requirement in paragraph (1) shall not apply to any conference—
+    - **(A)** for which the cost to the Federal Government was less than $50,000; or
+    - **(B)** outside of the United States that is attended by the Secretary or the Secretary’s designee as an official representative of the United States government.
+- **(b)** Each report submitted in accordance with subsection (a) shall be posted in a searchable format on a Department of Agriculture website that is available to the public.
+- **(c)** In this section, the term “conference”—
+  - **(1)** means a meeting that—
+    - **(A)** is held for consultation, education, awareness, or discussion;
+    - **(B)** includes participants from at least one agency of the Department of Agriculture;
+    - **(C)** is held in whole or in part at a facility outside of an agency of the Department of Agriculture; and
+    - **(D)** involves costs associated with travel and lodging for some participants; and
+  - **(2)** does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.

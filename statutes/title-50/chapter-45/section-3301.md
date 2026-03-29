@@ -5,14 +5,14 @@ usc_section: "3301"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3301"
-generated_at: "2026-03-29T00:33:18.189Z"
+generated_at: "2026-03-29T02:16:14.783Z"
 ---
 
 # § 3301. Multiyear national intelligence program
 
-(a) The Director of National Intelligence shall submit to the congressional committees specified in subsection (d) each year a multiyear national intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
-(b) The Director of National Intelligence shall submit the report required by subsection (a) each year at or about the same time that the budget is submitted to Congress pursuant to section 1105(a) of title 31 .
-(c) The Director of National Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) are consistent with the budget estimates submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the future-years defense program submitted pursuant to section 221 of title 10 .
-(d) The congressional committees referred to in subsection (a) are the following:
-  (1) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
-  (2) The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(a)** The Director of National Intelligence shall submit to the congressional committees specified in subsection (d) each year a multiyear national intelligence program plan reflecting the estimated expenditures and proposed appropriations required to support that program. Any such multiyear national intelligence program plan shall cover the fiscal year with respect to which the budget is submitted and at least four succeeding fiscal years.
+- **(b)** The Director of National Intelligence shall submit the report required by subsection (a) each year at or about the same time that the budget is submitted to Congress pursuant to section 1105(a) of title 31 .
+- **(c)** The Director of National Intelligence and the Secretary of Defense shall ensure that the estimates referred to in subsection (a) are consistent with the budget estimates submitted to Congress pursuant to section 1105(a) of title 31 for the fiscal year concerned and with the estimated expenditures and proposed appropriations for the future-years defense program submitted pursuant to section 221 of title 10 .
+- **(d)** The congressional committees referred to in subsection (a) are the following:
+  - **(1)** The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
+  - **(2)** The Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.

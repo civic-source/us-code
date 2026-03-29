@@ -5,13 +5,13 @@ usc_section: "7636"
 chapter: 83
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7636"
-generated_at: "2026-03-29T00:30:33.997Z"
+generated_at: "2026-03-29T02:12:40.433Z"
 ---
 
 # § 7636. Study on illegal diversions of prescription drugs
 
 Not later than 180 days after May 27, 2003 , the Secretary of Health and Human Services, in coordination with other agencies, shall submit a report to the Congress that includes the following:
 
-  (1) A thorough accounting of evidence indicating illegal diversion into the United States of prescription drugs donated or sold for humanitarian efforts, and an estimate of the extent of such diversion.
-  (2) Recommendations to increase the administrative and enforcement powers of the United States to identify, monitor, and prevent the illegal diversion into the United States of prescription drugs donated or sold for humanitarian efforts.
-  (3) Recommendations and guidelines to advise and provide technical assistance to developing countries on how to implement a program that minimizes diversion into the United States of prescription drugs donated or sold for humanitarian efforts.
+  - **(1)** A thorough accounting of evidence indicating illegal diversion into the United States of prescription drugs donated or sold for humanitarian efforts, and an estimate of the extent of such diversion.
+  - **(2)** Recommendations to increase the administrative and enforcement powers of the United States to identify, monitor, and prevent the illegal diversion into the United States of prescription drugs donated or sold for humanitarian efforts.
+  - **(3)** Recommendations and guidelines to advise and provide technical assistance to developing countries on how to implement a program that minimizes diversion into the United States of prescription drugs donated or sold for humanitarian efforts.

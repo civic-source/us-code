@@ -5,7 +5,7 @@ usc_section: "2626"
 chapter: 37
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2626"
-generated_at: "2026-03-29T00:30:33.831Z"
+generated_at: "2026-03-29T02:12:40.102Z"
 ---
 
 # § 2626. Repealed. Pub. L. 90–83, § 10(b) , Sept. 11, 1967 , 81 Stat. 224

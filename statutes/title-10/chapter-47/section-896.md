@@ -5,12 +5,12 @@ usc_section: "896"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 896"
-generated_at: "2026-03-29T00:20:52.900Z"
+generated_at: "2026-03-29T02:10:44.924Z"
 ---
 
 # § 896. Art. 96. Release of prisoner without authority; drinking with prisoner
 
-(a) Any person subject to this chapter—
-  (1) who, without authority to do so, releases a prisoner; or
-  (2) who, through neglect or design, allows a prisoner to escape;
-(b) Any person subject to this chapter who unlawfully drinks any alcoholic beverage with a prisoner shall be punished as a court-martial may direct.
+- **(a)** Any person subject to this chapter—
+  - **(1)** who, without authority to do so, releases a prisoner; or
+  - **(2)** who, through neglect or design, allows a prisoner to escape;
+- **(b)** Any person subject to this chapter who unlawfully drinks any alcoholic beverage with a prisoner shall be punished as a court-martial may direct.

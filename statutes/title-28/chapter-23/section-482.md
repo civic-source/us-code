@@ -5,7 +5,7 @@ usc_section: "482"
 chapter: 23
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 482"
-generated_at: "2026-03-29T00:31:24.146Z"
+generated_at: "2026-03-29T02:14:04.524Z"
 ---
 
 # § 482. Definitions

@@ -5,7 +5,7 @@ usc_section: "70"
 chapter: 3
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 70"
-generated_at: "2026-03-29T00:07:03.095Z"
+generated_at: "2026-03-29T02:12:17.132Z"
 ---
 
 # § 70. Authorization of appropriations; cooperative work

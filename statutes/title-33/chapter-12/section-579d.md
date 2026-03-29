@@ -5,7 +5,7 @@ usc_section: "579d"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 579d"
-generated_at: "2026-03-29T00:31:57.206Z"
+generated_at: "2026-03-29T02:14:18.499Z"
 ---
 
 # § 579d. Repealed. Pub. L. 116–260, div. AA, title III, § 360(e) , Dec. 27, 2020 , 134 Stat. 2733

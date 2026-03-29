@@ -5,11 +5,11 @@ usc_section: "6137"
 chapter: 61
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6137"
-generated_at: "2026-03-29T00:32:20.557Z"
+generated_at: "2026-03-29T02:14:58.796Z"
 ---
 
 # § 6137. Penalties
 
-(a) An individual who violates this subchapter, or a regulation prescribed under section 6102 of this title , shall be fined under title 18, imprisoned not more than 60 days, or both.
-(b) Prosecution for a violation described in subsection (a) shall be in the United States District Court for the District of Columbia or in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.
-(c) If during the commission of a violation described in subsection (a), public property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.
+- **(a)** An individual who violates this subchapter, or a regulation prescribed under section 6102 of this title , shall be fined under title 18, imprisoned not more than 60 days, or both.
+- **(b)** Prosecution for a violation described in subsection (a) shall be in the United States District Court for the District of Columbia or in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.
+- **(c)** If during the commission of a violation described in subsection (a), public property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.

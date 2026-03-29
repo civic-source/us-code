@@ -5,7 +5,7 @@ usc_section: "555"
 chapter: 5
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 555"
-generated_at: "2026-03-29T00:32:20.530Z"
+generated_at: "2026-03-29T02:14:58.778Z"
 ---
 
 # § 555. Donation of law enforcement canines to handlers

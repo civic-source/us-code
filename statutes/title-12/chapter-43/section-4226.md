@@ -5,21 +5,21 @@ usc_section: "4226"
 chapter: 43
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4226"
-generated_at: "2026-03-29T00:29:16.816Z"
+generated_at: "2026-03-29T02:11:21.190Z"
 ---
 
 # § 4226. Rights of declarants; notifications; Government accountability
 
-(a) A person who has filed a declaration that meets the requirements of sections 4221 through 4224 of this title shall have the rights stated in this section.
-(b) If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing and shall provide a brief statement of the reasons that the declaration will not be pursued.
-(c) 
-  (1) When the United States obtains a final judgment, order, or settlement transferring to the United States title to an asset or assets identified in a valid declaration filed under section 4221 1 1 See References in Text note below. of this title, the Attorney General shall notify the declarant in writing of the entry of the judgment, order, or settlement.
-  (2) A notice described in paragraph (1) shall contain—
-    (A) the Attorney General’s determination of the amount of the award due the declarant under section 4225(c) of this title upon recovery by the United States; and
-    (B) a short statement of reasons for the amount of the award.
-(d) 
-  (1) Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) or a notice of invalidity pursuant to section 4224 of this title within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
-    (A) there is a pending investigation or proceeding in the course of which the declarant’s allegations are being addressed; or
-    (B) the declarant’s allegations have not yet been addressed.
-  (2) If the Attorney General certifies that it is in the interest of the United States to give further consideration to the information provided in the declaration for an additional 90-day period, the Attorney General shall so notify the declarant in writing.
-(e) All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under section 4223 of this title .
+- **(a)** A person who has filed a declaration that meets the requirements of sections 4221 through 4224 of this title shall have the rights stated in this section.
+- **(b)** If, after review, the Attorney General concludes that the information contained in a declaration should not be pursued in a proceeding to recover the asset or assets, the Attorney General shall so notify the declarant in writing and shall provide a brief statement of the reasons that the declaration will not be pursued.
+- **(c)**
+  - **(1)** When the United States obtains a final judgment, order, or settlement transferring to the United States title to an asset or assets identified in a valid declaration filed under section 4221 1 1 See References in Text note below. of this title, the Attorney General shall notify the declarant in writing of the entry of the judgment, order, or settlement.
+  - **(2)** A notice described in paragraph (1) shall contain—
+    - **(A)** the Attorney General’s determination of the amount of the award due the declarant under section 4225(c) of this title upon recovery by the United States; and
+    - **(B)** a short statement of reasons for the amount of the award.
+- **(d)**
+  - **(1)** Subject to paragraph (2), if the Attorney General has not provided the declarant with notice under subsection (b) or a notice of invalidity pursuant to section 4224 of this title within 1 year after the date of filing of the declaration, the Attorney General shall notify the declarant in writing that—
+    - **(A)** there is a pending investigation or proceeding in the course of which the declarant’s allegations are being addressed; or
+    - **(B)** the declarant’s allegations have not yet been addressed.
+  - **(2)** If the Attorney General certifies that it is in the interest of the United States to give further consideration to the information provided in the declaration for an additional 90-day period, the Attorney General shall so notify the declarant in writing.
+- **(e)** All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under section 4223 of this title .

@@ -5,44 +5,44 @@ usc_section: "1983"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1983"
-generated_at: "2026-03-29T00:33:06.665Z"
+generated_at: "2026-03-29T02:16:00.843Z"
 ---
 
 # § 1983. Approval of 2023 Agreement to Amend the U.S.-FSM Compact, 2023 Agreement to Amend the U.S.-RMI Compact, 2023 U.S.-Palau Compact Review Agreement, and Subsidiary Agreements
 
-(a) 
-  (1) The 2023 Agreement to Amend the U.S.-FSM Compact and the 2023 U.S.-FSM Trust Fund Agreement, as submitted to Congress on June 15, 2023 , are approved and incorporated by reference.
-  (2) Congress consents to—
-    (A) the 2023 U.S.-FSM Fiscal Procedures Agreement, as submitted to Congress on June 15, 2023 ; and
-    (B) the 2023 U.S.-FSM Federal Programs and Services Agreement.
-  (3) Notwithstanding section 1921(f) of this title , the President is authorized to bring into force and implement the agreements described in paragraphs (1) and (2).
-(b) 
-  (1) The 2023 Agreement to Amend the U.S.-RMI Compact and the 2023 U.S.-RMI Trust Fund Agreement, as submitted to Congress on October 17, 2023 , are approved and incorporated by reference.
-  (2) Congress consents to the 2023 U.S.-RMI Fiscal Procedures Agreement, as submitted to Congress on October 17, 2023 .
-  (3) Notwithstanding section 1921(f) of this title , the President is authorized to bring into force and implement the agreements described in paragraphs (1) and (2).
-(c) 
-  (1) The 2023 U.S.-Palau Compact Review Agreement, as submitted to Congress on June 15, 2023 , is approved.
-  (2) The President is authorized to bring into force and implement the 2023 U.S.-Palau Compact Review Agreement.
-(d) 
-  (1) Any amendment to, change to, or termination of all or any part of the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or the U.S.-Palau Compact, by mutual agreement or unilateral action of the Government of the United States, shall not enter into force until the date on which Congress has incorporated the applicable amendment, change, or termination into an Act of Congress.
-  (2) In addition to the Compacts described in paragraph (1), the requirements of that paragraph shall apply to—
-    (A) any action of the Government of the United States under the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or U.S.-Palau Compact, including an action taken pursuant to section 431, 441, or 442 of the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or U.S.-Palau Compact; and
-    (B) any amendment to, change to, or termination of—
-      (i) the agreement described in section 462(a)(2) of the 2023 Amended U.S.-FSM Compact;
-      (ii) the agreement described in section 462(a)(5) of the 2023 Amended U.S.-RMI Compact;
-      (iii) an agreement concluded pursuant to section 265 of the 2023 Amended U.S.-FSM Compact;
-      (iv) an agreement concluded pursuant to section 265 of the 2023 Amended U.S.-RMI Compact;
-      (v) an agreement concluded pursuant to section 177 of the 2023 Amended U.S.-RMI Compact;
-      (vi) Articles III and IV of the agreement described in section 462(b)(6) of the 2023 Amended U.S.-FSM Compact;
-      (vii) Articles III, IV, and X of the agreement described in section 462(b)(6) of the 2023 Amended U.S.-RMI Compact;
-      (viii) the agreement described in section 462(h) of the U.S.-Palau Compact; and
-      (ix) Articles VI, XV, and XVII of the agreement described in section 462(b)(7) of the 2023 Amended U.S.-FSM Compact and 2023 Amended U.S.-RMI Compact and section 462(i) of the U.S.-Palau Compact.
-(e) 
-  (1) An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
-    (A) the agreement to amend, change, or terminate the subsidiary agreement;
-    (B) an explanation of the amendment, change, or termination;
-    (C) a description of the reasons for the amendment, change, or termination; and
-    (D) in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
-      (i) the necessity of the amendment, change, or termination; and
-      (ii) any impacts of the amendment, change, or termination.
-  (2) Subparagraphs (A) and (D)(iii) of section 1931(c)(2) of this title and subsection (d)(2)(A) shall not apply to an agreement that would amend, change, or terminate the agreement described in section 462(f) of the U.S.-Palau Compact.
+- **(a)**
+  - **(1)** The 2023 Agreement to Amend the U.S.-FSM Compact and the 2023 U.S.-FSM Trust Fund Agreement, as submitted to Congress on June 15, 2023 , are approved and incorporated by reference.
+  - **(2)** Congress consents to—
+    - **(A)** the 2023 U.S.-FSM Fiscal Procedures Agreement, as submitted to Congress on June 15, 2023 ; and
+    - **(B)** the 2023 U.S.-FSM Federal Programs and Services Agreement.
+  - **(3)** Notwithstanding section 1921(f) of this title , the President is authorized to bring into force and implement the agreements described in paragraphs (1) and (2).
+- **(b)**
+  - **(1)** The 2023 Agreement to Amend the U.S.-RMI Compact and the 2023 U.S.-RMI Trust Fund Agreement, as submitted to Congress on October 17, 2023 , are approved and incorporated by reference.
+  - **(2)** Congress consents to the 2023 U.S.-RMI Fiscal Procedures Agreement, as submitted to Congress on October 17, 2023 .
+  - **(3)** Notwithstanding section 1921(f) of this title , the President is authorized to bring into force and implement the agreements described in paragraphs (1) and (2).
+- **(c)**
+  - **(1)** The 2023 U.S.-Palau Compact Review Agreement, as submitted to Congress on June 15, 2023 , is approved.
+  - **(2)** The President is authorized to bring into force and implement the 2023 U.S.-Palau Compact Review Agreement.
+- **(d)**
+  - **(1)** Any amendment to, change to, or termination of all or any part of the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or the U.S.-Palau Compact, by mutual agreement or unilateral action of the Government of the United States, shall not enter into force until the date on which Congress has incorporated the applicable amendment, change, or termination into an Act of Congress.
+  - **(2)** In addition to the Compacts described in paragraph (1), the requirements of that paragraph shall apply to—
+    - **(A)** any action of the Government of the United States under the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or U.S.-Palau Compact, including an action taken pursuant to section 431, 441, or 442 of the 2023 Amended U.S.-FSM Compact, 2023 Amended U.S.-RMI Compact, or U.S.-Palau Compact; and
+    - **(B)** any amendment to, change to, or termination of—
+      - **(i)** the agreement described in section 462(a)(2) of the 2023 Amended U.S.-FSM Compact;
+      - **(ii)** the agreement described in section 462(a)(5) of the 2023 Amended U.S.-RMI Compact;
+      - **(iii)** an agreement concluded pursuant to section 265 of the 2023 Amended U.S.-FSM Compact;
+      - **(iv)** an agreement concluded pursuant to section 265 of the 2023 Amended U.S.-RMI Compact;
+      - **(v)** an agreement concluded pursuant to section 177 of the 2023 Amended U.S.-RMI Compact;
+      - **(vi)** Articles III and IV of the agreement described in section 462(b)(6) of the 2023 Amended U.S.-FSM Compact;
+      - **(vii)** Articles III, IV, and X of the agreement described in section 462(b)(6) of the 2023 Amended U.S.-RMI Compact;
+      - **(viii)** the agreement described in section 462(h) of the U.S.-Palau Compact; and
+      - **(ix)** Articles VI, XV, and XVII of the agreement described in section 462(b)(7) of the 2023 Amended U.S.-FSM Compact and 2023 Amended U.S.-RMI Compact and section 462(i) of the U.S.-Palau Compact.
+- **(e)**
+  - **(1)** An agreement between the United States and the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or the Government of the Republic of Palau that would amend, change, or terminate any subsidiary agreement or portion of a subsidiary agreement (other than an amendment to, change to, or termination of an agreement described in subsection (d)) shall not enter into force until the date that is 90 days after the date on which the President has transmitted to the President of the Senate and the Speaker of the House of Representatives—
+    - **(A)** the agreement to amend, change, or terminate the subsidiary agreement;
+    - **(B)** an explanation of the amendment, change, or termination;
+    - **(C)** a description of the reasons for the amendment, change, or termination; and
+    - **(D)** in the case of an agreement that would amend, change, or terminate any agreement described in section 462(b)(3) of the 2023 Amended U.S.-FSM Compact or the 2023 Amended U.S.-RMI Compact, a statement by the Secretary of Labor that describes—
+      - **(i)** the necessity of the amendment, change, or termination; and
+      - **(ii)** any impacts of the amendment, change, or termination.
+  - **(2)** Subparagraphs (A) and (D)(iii) of section 1931(c)(2) of this title and subsection (d)(2)(A) shall not apply to an agreement that would amend, change, or terminate the agreement described in section 462(f) of the U.S.-Palau Compact.

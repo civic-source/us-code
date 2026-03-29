@@ -5,7 +5,7 @@ usc_section: "1718"
 chapter: 83
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1718"
-generated_at: "2026-03-29T00:30:15.679Z"
+generated_at: "2026-03-29T02:12:02.424Z"
 ---
 
 # [§ 1718. Repealed. Pub. L. 101–647, title XII, § 1210(c) , Nov. 29, 1990 , 104 Stat. 4832 ]

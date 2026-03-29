@@ -5,7 +5,7 @@ usc_section: "2005"
 chapter: 32
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 2005"
-generated_at: "2026-03-29T00:31:30.844Z"
+generated_at: "2026-03-29T02:14:11.280Z"
 ---
 
 # § 2005. Reports and studies for Congress

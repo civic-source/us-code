@@ -5,16 +5,16 @@ usc_section: "1"
 chapter: 20
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T00:28:57.936Z"
+generated_at: "2026-03-29T02:10:16.725Z"
 ---
 
 # § 499b–1. Products produced in distinct geographic areas
 
-(a) In the case of a perishable agricultural commodity (as defined under the Perishable Agricultural Commodity Act ( 7 U.S.C. 499a(4) )— 1 1 See References in Text note below.
-  (1) subject to a Federal marketing order under the Agricultural Marketing Agreement Act of 1937 ( 7 U.S.C. 601 et seq.);
-  (2) traditionally identified as being produced in a distinct geographic area, State, or region; and
-  (3) the unique identity, based on such distinct geographic area, of which has been promoted with funds collected through producer contributions pursuant to such marketing order,
-(b) A violation of this section shall be considered a violation of paragraphs (4) and (5) of section 2 of the Perishable Agricultural Commodities Act ( 7 U.S.C. 499b(4) and (5)).
-(c) A person bringing a complaint under this section shall reimburse the Secretary of Agriculture for any and all costs associated with the enforcement of this section.
-(d) The Secretary of Agriculture shall not increase any fees charged under the Perishable Agricultural Commodities Act [ 7 U.S.C. 499a et seq.] to offset costs associated with the operation of this section.
-(e) The Secretary shall promulgate regulations to carry out this section.
+- **(a)** In the case of a perishable agricultural commodity (as defined under the Perishable Agricultural Commodity Act ( 7 U.S.C. 499a(4) )— 1 1 See References in Text note below.
+  - **(1)** subject to a Federal marketing order under the Agricultural Marketing Agreement Act of 1937 ( 7 U.S.C. 601 et seq.);
+  - **(2)** traditionally identified as being produced in a distinct geographic area, State, or region; and
+  - **(3)** the unique identity, based on such distinct geographic area, of which has been promoted with funds collected through producer contributions pursuant to such marketing order,
+- **(b)** A violation of this section shall be considered a violation of paragraphs (4) and (5) of section 2 of the Perishable Agricultural Commodities Act ( 7 U.S.C. 499b(4) and (5)).
+- **(c)** A person bringing a complaint under this section shall reimburse the Secretary of Agriculture for any and all costs associated with the enforcement of this section.
+- **(d)** The Secretary of Agriculture shall not increase any fees charged under the Perishable Agricultural Commodities Act [ 7 U.S.C. 499a et seq.] to offset costs associated with the operation of this section.
+- **(e)** The Secretary shall promulgate regulations to carry out this section.

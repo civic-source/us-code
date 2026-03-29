@@ -5,17 +5,17 @@ usc_section: "9707"
 chapter: 77
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9707"
-generated_at: "2026-03-29T00:07:03.206Z"
+generated_at: "2026-03-29T02:12:17.534Z"
 ---
 
 # § 9707. The national public service multimedia campaign to enhance the state of financial literacy
 
-(a) The Secretary of the Treasury (in this section referred to as the “Secretary”), after review of the recommendations of the Commission, as part of the national strategy, shall develop, implement, and conduct a pilot national public service multimedia campaign to enhance the state of financial literacy and education in the United States.
-(b) 
-  (1) The Secretary, after review of the recommendations of the Commission, shall select and work with a nonprofit organization or organizations that are especially well-qualified in the distribution of public service campaigns, and have secured private sector funds to produce the pilot national public service multimedia campaign.
-  (2) The Secretary, after review of the recommendations of the Commission, shall develop, in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education, to develop the financial literacy national public service multimedia campaign.
-  (3) The pilot national public service multimedia campaign shall be consistent with the national strategy, and shall promote the toll-free telephone number and the website developed under this chapter.
-(c) The Secretary may develop the multimedia campaign in languages other than English, as the Secretary deems appropriate.
-(d) The Secretary shall develop measures to evaluate the effectiveness of the pilot national public service multimedia campaign, as measured by improved financial decision making among individuals.
-(e) For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e), 1 1 So in original. Probably should be subsection “(f),”. the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
-(f) There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
+- **(a)** The Secretary of the Treasury (in this section referred to as the “Secretary”), after review of the recommendations of the Commission, as part of the national strategy, shall develop, implement, and conduct a pilot national public service multimedia campaign to enhance the state of financial literacy and education in the United States.
+- **(b)**
+  - **(1)** The Secretary, after review of the recommendations of the Commission, shall select and work with a nonprofit organization or organizations that are especially well-qualified in the distribution of public service campaigns, and have secured private sector funds to produce the pilot national public service multimedia campaign.
+  - **(2)** The Secretary, after review of the recommendations of the Commission, shall develop, in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education, to develop the financial literacy national public service multimedia campaign.
+  - **(3)** The pilot national public service multimedia campaign shall be consistent with the national strategy, and shall promote the toll-free telephone number and the website developed under this chapter.
+- **(c)** The Secretary may develop the multimedia campaign in languages other than English, as the Secretary deems appropriate.
+- **(d)** The Secretary shall develop measures to evaluate the effectiveness of the pilot national public service multimedia campaign, as measured by improved financial decision making among individuals.
+- **(e)** For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e), 1 1 So in original. Probably should be subsection “(f),”. the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
+- **(f)** There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.

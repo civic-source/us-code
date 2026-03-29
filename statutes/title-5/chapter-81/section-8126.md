@@ -5,14 +5,14 @@ usc_section: "8126"
 chapter: 81
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8126"
-generated_at: "2026-03-29T00:28:38.385Z"
+generated_at: "2026-03-29T02:10:01.922Z"
 ---
 
 # § 8126. Subpenas; oaths; examination of witnesses
 
 The Secretary of Labor, on any matter within his jurisdiction under this subchapter, may—
 
-  (1) issue subpenas for and compel the attendance of witnesses within a radius of 100 miles;
-  (2) administer oaths;
-  (3) examine witnesses; and
-  (4) require the production of books, papers, documents, and other evidence.
+  - **(1)** issue subpenas for and compel the attendance of witnesses within a radius of 100 miles;
+  - **(2)** administer oaths;
+  - **(3)** examine witnesses; and
+  - **(4)** require the production of books, papers, documents, and other evidence.

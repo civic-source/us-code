@@ -5,7 +5,7 @@ usc_section: "13601"
 chapter: 135
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13601"
-generated_at: "2026-03-29T00:32:54.331Z"
+generated_at: "2026-03-29T02:15:37.274Z"
 ---
 
 # § 13601. Compliance by owners as condition of Federal assistance

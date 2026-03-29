@@ -5,10 +5,10 @@ usc_section: "6518"
 chapter: 65
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6518"
-generated_at: "2026-03-29T00:06:11.001Z"
+generated_at: "2026-03-29T02:09:53.798Z"
 ---
 
 # § 6518. Workers compensation payments
 
-(a) Available balances of expired appropriations which are subject to disbursement by the Secretary of the Senate shall be available to the Secretary of the Senate to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5 .
-(b) This section shall apply with respect to appropriations for fiscal year 2014, and each fiscal year thereafter.
+- **(a)** Available balances of expired appropriations which are subject to disbursement by the Secretary of the Senate shall be available to the Secretary of the Senate to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5 .
+- **(b)** This section shall apply with respect to appropriations for fiscal year 2014, and each fiscal year thereafter.

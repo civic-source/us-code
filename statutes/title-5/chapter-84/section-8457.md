@@ -5,7 +5,7 @@ usc_section: "8457"
 chapter: 84
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8457"
-generated_at: "2026-03-29T00:28:38.419Z"
+generated_at: "2026-03-29T02:10:01.974Z"
 ---
 
 # [§ 8457. Renumbered § 8456]

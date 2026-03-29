@@ -5,17 +5,17 @@ usc_section: "50112"
 chapter: 501
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50112"
-generated_at: "2026-03-29T00:33:19.400Z"
+generated_at: "2026-03-29T02:16:19.255Z"
 ---
 
 # § 50112. Promotion of United States Global Positioning System standards
 
 In order to support and sustain the Global Positioning System in a manner that will most effectively contribute to the national security, public safety, scientific, and economic interests of the United States, Congress encourages the President to—
 
-  (1) ensure the operation of the Global Positioning System on a continuous worldwide basis free of direct user fees;
-  (2) enter into international agreements that promote cooperation with foreign governments and international organizations to—
-    (A) establish the Global Positioning System and its augmentations as an acceptable international standard; and
-    (B) eliminate any foreign barriers to applications of the Global Positioning System worldwide; and
-  (3) provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—
-    (A) achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
-    (B) protect that spectrum from disruption and interference.
+  - **(1)** ensure the operation of the Global Positioning System on a continuous worldwide basis free of direct user fees;
+  - **(2)** enter into international agreements that promote cooperation with foreign governments and international organizations to—
+    - **(A)** establish the Global Positioning System and its augmentations as an acceptable international standard; and
+    - **(B)** eliminate any foreign barriers to applications of the Global Positioning System worldwide; and
+  - **(3)** provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—
+    - **(A)** achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
+    - **(B)** protect that spectrum from disruption and interference.

@@ -5,7 +5,7 @@ usc_section: "111a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 111a"
-generated_at: "2026-03-29T00:06:10.876Z"
+generated_at: "2026-03-29T02:09:53.641Z"
 ---
 
 # § 111a. Transferred

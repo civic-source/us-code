@@ -5,10 +5,10 @@ usc_section: "1871"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1871"
-generated_at: "2026-03-29T00:06:10.965Z"
+generated_at: "2026-03-29T02:09:53.742Z"
 ---
 
 # § 1871. Expired appropriations available for deposit into Employees’ Compensation Fund
 
-(a) Notwithstanding section 1101, available balances of expired Architect of the Capitol appropriations shall be available to the Architect of the Capitol to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5 .
-(b) This section shall apply with respect to appropriations for fiscal year 2013 and each year thereafter.
+- **(a)** Notwithstanding section 1101, available balances of expired Architect of the Capitol appropriations shall be available to the Architect of the Capitol to make the deposit to the credit of the Employees’ Compensation Fund required by section 8147(b) of title 5 .
+- **(b)** This section shall apply with respect to appropriations for fiscal year 2013 and each year thereafter.

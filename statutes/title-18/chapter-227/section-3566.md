@@ -5,7 +5,7 @@ usc_section: "3566"
 chapter: 227
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3566"
-generated_at: "2026-03-29T00:30:15.740Z"
+generated_at: "2026-03-29T02:12:02.491Z"
 ---
 
 # § 3566. Implementation of a sentence of probation

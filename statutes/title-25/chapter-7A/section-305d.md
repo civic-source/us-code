@@ -5,21 +5,21 @@ usc_section: "305d"
 chapter: 7
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 305d"
-generated_at: "2026-03-29T00:30:38.627Z"
+generated_at: "2026-03-29T02:13:20.846Z"
 ---
 
 # § 305d. Criminal proceedings; civil actions
 
-(a) In this section, the term “Federal law enforcement officer” includes a Federal law enforcement officer (as defined in section 115(c) of title 18 ).
-(b) Any Federal law enforcement officer shall have the authority to conduct an investigation relating to an alleged violation of this Act occurring within the jurisdiction of the United States.
-(c) 
-  (1) 
-    (A) The Board may refer an alleged violation of section 1159 of title 18 to any Federal law enforcement officer for appropriate investigation.
-    (B) A Federal law enforcement officer may investigate an alleged violation of section 1159 of that title regardless of whether the Federal law enforcement officer receives a referral under subparagraph (A).
-  (2) The findings of an investigation of an alleged violation of section 1159 of title 18 by any Federal department or agency under paragraph (1)(A) shall be submitted, as appropriate, to—
-    (A) a Federal or State prosecuting authority; or
-    (B) the Board.
-  (3) On receiving the findings of an investigation under paragraph (2), the Board may—
-    (A) recommend to the Attorney General that criminal proceedings be initiated under section 1159 of title 18 ; and
-    (B) provide such support to the Attorney General relating to the criminal proceedings as the Attorney General determines to be appropriate.
-(d) In lieu of, or in addition to, any criminal proceeding under subsection (c), the Board may recommend that the Attorney General initiate a civil action under section 305e of this title .
+- **(a)** In this section, the term “Federal law enforcement officer” includes a Federal law enforcement officer (as defined in section 115(c) of title 18 ).
+- **(b)** Any Federal law enforcement officer shall have the authority to conduct an investigation relating to an alleged violation of this Act occurring within the jurisdiction of the United States.
+- **(c)**
+  - **(1)**
+    - **(A)** The Board may refer an alleged violation of section 1159 of title 18 to any Federal law enforcement officer for appropriate investigation.
+    - **(B)** A Federal law enforcement officer may investigate an alleged violation of section 1159 of that title regardless of whether the Federal law enforcement officer receives a referral under subparagraph (A).
+  - **(2)** The findings of an investigation of an alleged violation of section 1159 of title 18 by any Federal department or agency under paragraph (1)(A) shall be submitted, as appropriate, to—
+    - **(A)** a Federal or State prosecuting authority; or
+    - **(B)** the Board.
+  - **(3)** On receiving the findings of an investigation under paragraph (2), the Board may—
+    - **(A)** recommend to the Attorney General that criminal proceedings be initiated under section 1159 of title 18 ; and
+    - **(B)** provide such support to the Attorney General relating to the criminal proceedings as the Attorney General determines to be appropriate.
+- **(d)** In lieu of, or in addition to, any criminal proceeding under subsection (c), the Board may recommend that the Attorney General initiate a civil action under section 305e of this title .

@@ -5,10 +5,10 @@ usc_section: "1604"
 chapter: 30
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1604"
-generated_at: "2026-03-29T00:31:57.385Z"
+generated_at: "2026-03-29T02:14:18.592Z"
 ---
 
 # § 1604. Vessels not subject to International Regulations
 
-(a) The International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States.
-(b) Whenever a vessel subject to the jurisdiction of the United States is in the territorial waters of a foreign state the International Regulations shall be applicable to, and shall be complied with by, that vessel to the extent that the laws and regulations of the foreign state are not in conflict therewith.
+- **(a)** The International Regulations do not apply to vessels while in the waters of the United States shoreward of the navigational demarcation lines dividing the high seas from harbors, rivers, and other inland waters of the United States.
+- **(b)** Whenever a vessel subject to the jurisdiction of the United States is in the territorial waters of a foreign state the International Regulations shall be applicable to, and shall be complied with by, that vessel to the extent that the laws and regulations of the foreign state are not in conflict therewith.

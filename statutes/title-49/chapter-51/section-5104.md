@@ -5,14 +5,14 @@ usc_section: "5104"
 chapter: 51
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5104"
-generated_at: "2026-03-29T00:33:13.722Z"
+generated_at: "2026-03-29T02:16:08.864Z"
 ---
 
 # § 5104. Representation and tampering
 
-(a) A person may represent, by marking or otherwise, that—
-  (1) a package, component of a package, or packaging for transporting hazardous material is safe, certified, or complies with this chapter only if the package, component of a package, or packaging meets the requirements of each applicable regulation prescribed under this chapter; or
-  (2) hazardous material is present in a package, container, motor vehicle, rail freight car, aircraft, or vessel only if the material is present.
-(b) No person may alter, remove, destroy, or otherwise tamper unlawfully with—
-  (1) a marking, label, placard, or description on a document required under this chapter or a regulation prescribed under this chapter; or
-  (2) a package, component of a package, or packaging, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.
+- **(a)** A person may represent, by marking or otherwise, that—
+  - **(1)** a package, component of a package, or packaging for transporting hazardous material is safe, certified, or complies with this chapter only if the package, component of a package, or packaging meets the requirements of each applicable regulation prescribed under this chapter; or
+  - **(2)** hazardous material is present in a package, container, motor vehicle, rail freight car, aircraft, or vessel only if the material is present.
+- **(b)** No person may alter, remove, destroy, or otherwise tamper unlawfully with—
+  - **(1)** a marking, label, placard, or description on a document required under this chapter or a regulation prescribed under this chapter; or
+  - **(2)** a package, component of a package, or packaging, container, motor vehicle, rail freight car, aircraft, or vessel used to transport hazardous material.

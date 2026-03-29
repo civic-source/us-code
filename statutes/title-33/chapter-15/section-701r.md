@@ -5,7 +5,7 @@ usc_section: "701r"
 chapter: 15
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 701r"
-generated_at: "2026-03-29T00:31:57.240Z"
+generated_at: "2026-03-29T02:14:18.513Z"
 ---
 
 # § 701r. Protection of highways, bridge approaches, lighthouses, public works, and nonprofit public services

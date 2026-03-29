@@ -5,7 +5,7 @@ usc_section: "1638"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1638"
-generated_at: "2026-03-29T00:30:38.690Z"
+generated_at: "2026-03-29T02:13:20.895Z"
 ---
 
 # § 1638. Land transfer

@@ -5,7 +5,7 @@ usc_section: "163"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 163"
-generated_at: "2026-03-29T00:06:10.890Z"
+generated_at: "2026-03-29T02:09:53.651Z"
 ---
 
 # § 163. Omitted

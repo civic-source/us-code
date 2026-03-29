@@ -5,10 +5,10 @@ usc_section: "12575"
 chapter: 121
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 12575"
-generated_at: "2026-03-29T00:32:01.635Z"
+generated_at: "2026-03-29T02:14:25.331Z"
 ---
 
 # § 12575. Eligibility
 
-(a) A person shall be eligible to receive a scholarship under this part if the person has been employed in law enforcement for the 2-year period immediately preceding the date on which assistance is sought.
-(b) A person who has been employed as a law enforcement officer is ineligible to participate in a student employment program carried out under this part.
+- **(a)** A person shall be eligible to receive a scholarship under this part if the person has been employed in law enforcement for the 2-year period immediately preceding the date on which assistance is sought.
+- **(b)** A person who has been employed as a law enforcement officer is ineligible to participate in a student employment program carried out under this part.

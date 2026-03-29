@@ -5,16 +5,16 @@ usc_section: "3401"
 chapter: 245
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3401"
-generated_at: "2026-03-29T00:20:53.119Z"
+generated_at: "2026-03-29T02:10:45.186Z"
 ---
 
 # § 3401. Task and delivery order contracts: definitions
 
 In this chapter:
 
-  (1) The term “delivery order contract” means a contract for property—
-    (A) that does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
-    (B) that provides for the issuance of orders for the delivery of property during the period of the contract.
-  (2) The term “task order contract” means a contract for services—
-    (A) that does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
-    (B) that provides for the issuance of orders for the performance of tasks during the period of the contract.
+  - **(1)** The term “delivery order contract” means a contract for property—
+    - **(A)** that does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
+    - **(B)** that provides for the issuance of orders for the delivery of property during the period of the contract.
+  - **(2)** The term “task order contract” means a contract for services—
+    - **(A)** that does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
+    - **(B)** that provides for the issuance of orders for the performance of tasks during the period of the contract.

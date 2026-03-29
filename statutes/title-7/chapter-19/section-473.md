@@ -5,7 +5,7 @@ usc_section: "473"
 chapter: 19
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 473"
-generated_at: "2026-03-29T00:28:57.933Z"
+generated_at: "2026-03-29T02:10:16.723Z"
 ---
 
 # § 473. Persons required to furnish information; request; failure to furnish; false information

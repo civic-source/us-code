@@ -5,22 +5,22 @@ usc_section: "184"
 chapter: 7
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 184"
-generated_at: "2026-03-29T00:20:52.813Z"
+generated_at: "2026-03-29T02:10:44.840Z"
 ---
 
 # § 184. Civilian Protection Center of Excellence
 
-(a) The Secretary of Defense shall operate the Civilian Protection Center of Excellence. The purpose of the Center shall be to—
-  (1) serve as the focal point for matters related to civilian casualties and other forms of civilian harm resulting from military operations involving the United States Armed Forces; and
-  (2) institutionalize and advance knowledge, practices, and tools for preventing, mitigating, and responding to civilian harm.
-(b) The Center shall be used to—
-  (1) develop standardized civilian-harm operational reporting and data management processes to improve data collection, sharing, and learning across the Department of Defense;
-  (2) develop, recommend, and review guidance, and the implementation of guidance, on how the Department responds to civilian harm;
-  (3) develop recommended guidance for addressing civilian harm across the full spectrum of armed conflict and for use in doctrine and operational plans;
-  (4) recommend training and exercises for the prevention and investigation of civilian harm;
-  (5) develop a repository of civilian casualty and civilian harm information;
-  (6) capture lessons learned from assessments and investigations of civilian casualty incidents and supporting institutionalization of such lessons learned within policy, doctrine, training, exercises, and tactics, techniques, and procedures of the Department of Defense;
-  (7) support the coordination and synchronization of efforts across combatant commands, the Department of State, and other relevant United States Government departments and agencies to prevent, mitigate, and respond to incidents of civilian harm;
-  (8) engage with nongovernmental organizations and civilian casualty experts; and
-  (9) perform such other functions as the Secretary of Defense may specify.
-(c) The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.
+- **(a)** The Secretary of Defense shall operate the Civilian Protection Center of Excellence. The purpose of the Center shall be to—
+  - **(1)** serve as the focal point for matters related to civilian casualties and other forms of civilian harm resulting from military operations involving the United States Armed Forces; and
+  - **(2)** institutionalize and advance knowledge, practices, and tools for preventing, mitigating, and responding to civilian harm.
+- **(b)** The Center shall be used to—
+  - **(1)** develop standardized civilian-harm operational reporting and data management processes to improve data collection, sharing, and learning across the Department of Defense;
+  - **(2)** develop, recommend, and review guidance, and the implementation of guidance, on how the Department responds to civilian harm;
+  - **(3)** develop recommended guidance for addressing civilian harm across the full spectrum of armed conflict and for use in doctrine and operational plans;
+  - **(4)** recommend training and exercises for the prevention and investigation of civilian harm;
+  - **(5)** develop a repository of civilian casualty and civilian harm information;
+  - **(6)** capture lessons learned from assessments and investigations of civilian casualty incidents and supporting institutionalization of such lessons learned within policy, doctrine, training, exercises, and tactics, techniques, and procedures of the Department of Defense;
+  - **(7)** support the coordination and synchronization of efforts across combatant commands, the Department of State, and other relevant United States Government departments and agencies to prevent, mitigate, and respond to incidents of civilian harm;
+  - **(8)** engage with nongovernmental organizations and civilian casualty experts; and
+  - **(9)** perform such other functions as the Secretary of Defense may specify.
+- **(c)** The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.

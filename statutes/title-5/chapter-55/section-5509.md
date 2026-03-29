@@ -5,7 +5,7 @@ usc_section: "5509"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5509"
-generated_at: "2026-03-29T00:28:38.342Z"
+generated_at: "2026-03-29T02:10:01.863Z"
 ---
 
 # § 5509. Appropriations

@@ -5,10 +5,10 @@ usc_section: "3031"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3031"
-generated_at: "2026-03-29T00:33:18.165Z"
+generated_at: "2026-03-29T02:16:14.757Z"
 ---
 
 # § 3031. Director of the National Counterintelligence and Security Center
 
-(a) The Director of the National Counterintelligence and Security Center appointed under section 902 of the Counterintelligence Enhancement Act of 2002 ( 50 U.S.C. 3382 ) is a component of the Office of the Director of National Intelligence.
-(b) The Director of the National Counterintelligence and Security Center shall perform the duties provided in the Counterintelligence Enhancement Act of 2002 and such other duties as may be prescribed by the Director of National Intelligence or specified by law.
+- **(a)** The Director of the National Counterintelligence and Security Center appointed under section 902 of the Counterintelligence Enhancement Act of 2002 ( 50 U.S.C. 3382 ) is a component of the Office of the Director of National Intelligence.
+- **(b)** The Director of the National Counterintelligence and Security Center shall perform the duties provided in the Counterintelligence Enhancement Act of 2002 and such other duties as may be prescribed by the Director of National Intelligence or specified by law.

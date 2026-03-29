@@ -5,15 +5,15 @@ usc_section: "1465e"
 chapter: 18
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1465e"
-generated_at: "2026-03-29T00:30:33.724Z"
+generated_at: "2026-03-29T02:12:39.995Z"
 ---
 
 # § 1465e. Compensation for Cuban interference with broadcasting in United States
 
-(a) It is the intent of the Congress that the Secretary of State should seek prompt and full settlement of United States claims against the Government of Cuba arising from Cuban interference with broadcasting in the United States. Pending the settlement of these claims, it is appropriate to provide some interim assistance to the United States broadcasters who are adversely affected by Cuban radio interference and who seek to assert their right to measures to counteract the effects of such interference.
-(b) Accordingly, the Board may make payments to the United States radio broadcasting station licensees upon their application for expenses which they have incurred before, on, or after October 4, 1983 , in mitigating, pursuant to special temporary authority from the Federal Communications Commission, the effects of activities by the Government of Cuba which directly interfere with the transmission or reception of broadcasts by these licensees. Such expenses shall be limited to the costs of equipment replaced (less depreciation) and associated technical and engineering costs.
-(c) The Federal Communications Commission shall issue such regulations and establish such procedures for carrying out this section as the Federal Communications Commission finds appropriate. Such regulations shall be issued no later than one hundred and eighty days after October 4, 1983 .
-(d) There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under this section are authorized to be available until expended.
-(e) Funds appropriated for implementation of this section shall be available for a period of no more than four years following the initial broadcast occurring as a result of programs described in this subchapter.
-(f) It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
-(g) This section shall enter into effect on October 1, 1984 .
+- **(a)** It is the intent of the Congress that the Secretary of State should seek prompt and full settlement of United States claims against the Government of Cuba arising from Cuban interference with broadcasting in the United States. Pending the settlement of these claims, it is appropriate to provide some interim assistance to the United States broadcasters who are adversely affected by Cuban radio interference and who seek to assert their right to measures to counteract the effects of such interference.
+- **(b)** Accordingly, the Board may make payments to the United States radio broadcasting station licensees upon their application for expenses which they have incurred before, on, or after October 4, 1983 , in mitigating, pursuant to special temporary authority from the Federal Communications Commission, the effects of activities by the Government of Cuba which directly interfere with the transmission or reception of broadcasts by these licensees. Such expenses shall be limited to the costs of equipment replaced (less depreciation) and associated technical and engineering costs.
+- **(c)** The Federal Communications Commission shall issue such regulations and establish such procedures for carrying out this section as the Federal Communications Commission finds appropriate. Such regulations shall be issued no later than one hundred and eighty days after October 4, 1983 .
+- **(d)** There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under this section are authorized to be available until expended.
+- **(e)** Funds appropriated for implementation of this section shall be available for a period of no more than four years following the initial broadcast occurring as a result of programs described in this subchapter.
+- **(f)** It is the sense of the Congress that the President should establish a task force to analyze the level of interference from the operation of Cuban radio stations experienced by broadcasters in the United States and to seek a practical political and technical solution to this problem.
+- **(g)** This section shall enter into effect on October 1, 1984 .

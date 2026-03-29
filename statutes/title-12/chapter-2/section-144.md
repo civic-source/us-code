@@ -5,7 +5,7 @@ usc_section: "144"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 144"
-generated_at: "2026-03-29T00:29:16.474Z"
+generated_at: "2026-03-29T02:11:20.840Z"
 ---
 
 # § 144. Certain balances counted toward reserves in dependencies and insular possessions

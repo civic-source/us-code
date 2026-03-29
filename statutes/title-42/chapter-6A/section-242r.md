@@ -5,13 +5,13 @@ usc_section: "242r"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 242r"
-generated_at: "2026-03-29T00:32:52.814Z"
+generated_at: "2026-03-29T02:15:35.579Z"
 ---
 
 # § 242r. Improvement and publication of data on food-related allergic responses
 
-(a) The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
-  (1) the prevalence of food allergies;
-  (2) the incidence of clinically significant or serious adverse events related to food allergies; and
-  (3) the use of different modes of treatment for and prevention of allergic responses to foods.
-(b) For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
+- **(a)** The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Commissioner of Food and Drugs, shall improve (including by educating physicians and other health care providers) the collection of, and publish as it becomes available, national data on—
+  - **(1)** the prevalence of food allergies;
+  - **(2)** the incidence of clinically significant or serious adverse events related to food allergies; and
+  - **(3)** the use of different modes of treatment for and prevention of allergic responses to foods.
+- **(b)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.

@@ -5,7 +5,7 @@ usc_section: "250"
 chapter: 5
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 250"
-generated_at: "2026-03-29T00:30:34.809Z"
+generated_at: "2026-03-29T02:13:07.076Z"
 ---
 
 # §§ 231 to 250. Omitted

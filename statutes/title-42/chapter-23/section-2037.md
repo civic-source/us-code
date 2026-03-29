@@ -5,7 +5,7 @@ usc_section: "2037"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2037"
-generated_at: "2026-03-29T00:32:53.740Z"
+generated_at: "2026-03-29T02:15:36.578Z"
 ---
 
 # § 2037. Repealed. Pub. L. 99–661, div. C, title I, § 3137(c) , Nov. 14, 1986 , 100 Stat. 4066

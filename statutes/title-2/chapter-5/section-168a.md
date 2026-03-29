@@ -5,7 +5,7 @@ usc_section: "168a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 168a"
-generated_at: "2026-03-29T00:06:10.892Z"
+generated_at: "2026-03-29T02:09:53.655Z"
 ---
 
 # § 168a. Printing of Constitution Annotated as Senate documents

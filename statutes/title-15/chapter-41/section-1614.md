@@ -5,7 +5,7 @@ usc_section: "1614"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1614"
-generated_at: "2026-03-29T00:29:41.708Z"
+generated_at: "2026-03-29T02:11:34.184Z"
 ---
 
 # § 1614. Repealed. Pub. L. 96–221, title VI, § 616(b) , Mar. 31, 1980 , 94 Stat. 182

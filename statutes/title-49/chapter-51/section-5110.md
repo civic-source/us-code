@@ -5,19 +5,19 @@ usc_section: "5110"
 chapter: 51
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5110"
-generated_at: "2026-03-29T00:33:13.724Z"
+generated_at: "2026-03-29T02:16:08.865Z"
 ---
 
 # § 5110. Shipping papers and disclosure
 
-(a) Each person offering for transportation in commerce hazardous material to which the shipping paper requirements of the Secretary apply shall provide to the carrier providing the transportation a shipping paper that makes the disclosures the Secretary prescribes in regulations.
-(b) 
-  (1) A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
-  (2) Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in a location the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
-    (A) the hazardous material no longer is in transportation; or
-    (B) the documents are made available to a representative of a department, agency, or instrumentality of the United States Government or a State or local authority responding to an accident or incident involving the motor vehicle, train, vessel, aircraft, or facility.
-(c) When an incident involving hazardous material being transported in commerce occurs, the person transporting the material, immediately on request of appropriate emergency response authorities, shall disclose to the authorities information about the material.
-(d) 
-  (1) The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror’s principal place of business.
-  (2) The carrier required to keep the shipping paper under this section, 1 1 So in original. Comma probably should not appear. shall retain the paper, or an electronic format of it, for a period of 1 year after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the carrier’s principal place of business.
-  (3) Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.
+- **(a)** Each person offering for transportation in commerce hazardous material to which the shipping paper requirements of the Secretary apply shall provide to the carrier providing the transportation a shipping paper that makes the disclosures the Secretary prescribes in regulations.
+- **(b)**
+  - **(1)** A motor carrier, and the person offering the hazardous material for transportation if a private motor carrier, shall keep the shipping paper on the vehicle transporting the material.
+  - **(2)** Except as provided in paragraph (1) of this subsection, the shipping paper shall be kept in a location the Secretary specifies in a motor vehicle, train, vessel, aircraft, or facility until—
+    - **(A)** the hazardous material no longer is in transportation; or
+    - **(B)** the documents are made available to a representative of a department, agency, or instrumentality of the United States Government or a State or local authority responding to an accident or incident involving the motor vehicle, train, vessel, aircraft, or facility.
+- **(c)** When an incident involving hazardous material being transported in commerce occurs, the person transporting the material, immediately on request of appropriate emergency response authorities, shall disclose to the authorities information about the material.
+- **(d)**
+  - **(1)** The person who provides the shipping paper under this section shall retain the paper, or an electronic format of it, for a period of 2 years after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the offeror’s principal place of business.
+  - **(2)** The carrier required to keep the shipping paper under this section, 1 1 So in original. Comma probably should not appear. shall retain the paper, or an electronic format of it, for a period of 1 year after the date that the shipping paper is provided to the carrier, with the paper or electronic format to be accessible through the carrier’s principal place of business.
+  - **(3)** Any person required to keep a shipping paper under this subsection shall, upon request, make it available to a Federal, State, or local government agency at reasonable times and locations.

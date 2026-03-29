@@ -1,0 +1,23 @@
+---
+title: "Section 435 - Generally applicable remedies and limitations"
+usc_title: 3
+usc_section: "435"
+chapter: 5
+current_through: "PL 119-73"
+classification: "3 U.S.C. § 435"
+generated_at: "2026-03-29T02:09:54.805Z"
+---
+
+# § 435. Generally applicable remedies and limitations
+
+- **(a)** If a covered employee, with respect to any claim under this chapter, or a qualified person with a disability, with respect to any claim under section 421, is a prevailing party in any proceeding under section 453(1), the administrative agency may award attorney’s fees, expert fees, and any other costs as would be appropriate if awarded under section 706(k) of the Civil Rights Act of 1964.
+- **(b)** In any proceeding under section 453(1), the same interest to compensate for delay in payment shall be made available as would be appropriate if awarded under section 717(d) of the Civil Rights Act of 1964.
+- **(c)** Except as otherwise provided in this chapter, no civil penalty or punitive damages may be awarded with respect to any claim under this chapter.
+- **(d)**
+  - **(1)** Except as provided in paragraph (2), no person may commence an administrative or judicial proceeding to seek a remedy for the rights and protections afforded by this chapter except as provided in this chapter and in sections 1296 and 1346(g) and chapter 179 of title 28.
+  - **(2)** A covered employee under section 416 may also utilize any provisions of chapter 43 of title 38 that are applicable to that employee.
+- **(e)** Only a covered employee who has undertaken and completed the procedures described in section 452 may be granted a remedy under part A of this subchapter.
+- **(f)**
+  - **(1)** Except where inconsistent with definitions and exemptions provided in this chapter, the definitions and exemptions in the laws made applicable by this chapter shall apply under this chapter.
+  - **(2)** Notwithstanding paragraph (1), provisions in the laws made applicable under this chapter (other than paragraphs (2) and (3) of section 2(a) of the Worker Adjustment and Retraining Notification Act) determining coverage based on size, whether expressed in terms of numbers of employees, amount of business transacted, or other measure, shall not apply in determining coverage under this chapter.
+- **(g)** It shall not be a violation of any provision of this chapter to consider, or make any employment decision based on, the party affiliation, or political compatibility with the employing office, of an employee who is a covered employee.

@@ -5,7 +5,7 @@ usc_section: "888"
 chapter: 13
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 888"
-generated_at: "2026-03-29T00:30:24.347Z"
+generated_at: "2026-03-29T02:12:28.161Z"
 ---
 
 # § 888. Repealed. Pub. L. 106–185, § 2(c)(3) , Apr. 25, 2000 , 114 Stat. 210

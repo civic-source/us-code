@@ -1,0 +1,16 @@
+---
+title: "Section 140 - Stephen Foster Memorial Day"
+usc_title: 36
+usc_section: "140"
+chapter: 1
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 140"
+generated_at: "2026-03-29T02:14:41.333Z"
+---
+
+# § 140. Stephen Foster Memorial Day
+
+The President may issue each year a proclamation—
+
+  - **(1)** designating January 13 as Stephen Foster Memorial Day; and
+  - **(2)** calling on the people of the United States to observe Stephen Foster Memorial Day with appropriate ceremonies, pilgrimages to his shrines, and musical programs featuring his compositions.

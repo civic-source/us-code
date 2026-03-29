@@ -5,10 +5,10 @@ usc_section: "2389"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2389"
-generated_at: "2026-03-29T00:30:33.801Z"
+generated_at: "2026-03-29T02:12:40.075Z"
 ---
 
 # § 2389. Status and benefits of personnel assigned or detailed to foreign governments or international organizations
 
-(a) Any officer or employee, while assigned or detailed under section 2387 or 2388 of this title shall be considered, for the purpose of preserving his allowances, privileges, rights, seniority, and other benefits as such, an officer or employee of the United States Government and of the agency of the United States Government from which detailed or assigned, and he shall continue to receive compensation, allowances, and benefits from funds appropriated to that agency or made available to that agency under this chapter.
-(b) Any officer or employee assigned, detailed, or appointed under section 2387, 2388, 2391, or 2384(d) 1 1 See References in Text note below. of this title is authorized to receive under such regulations as the President may prescribe, representation allowances similar to those allowed under section 4085 of this title . The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of section 5536 of title 5 .
+- **(a)** Any officer or employee, while assigned or detailed under section 2387 or 2388 of this title shall be considered, for the purpose of preserving his allowances, privileges, rights, seniority, and other benefits as such, an officer or employee of the United States Government and of the agency of the United States Government from which detailed or assigned, and he shall continue to receive compensation, allowances, and benefits from funds appropriated to that agency or made available to that agency under this chapter.
+- **(b)** Any officer or employee assigned, detailed, or appointed under section 2387, 2388, 2391, or 2384(d) 1 1 See References in Text note below. of this title is authorized to receive under such regulations as the President may prescribe, representation allowances similar to those allowed under section 4085 of this title . The authorization of such allowances and other benefits and the payment thereof out of any appropriations available therefor shall be considered as meeting all the requirements of section 5536 of title 5 .

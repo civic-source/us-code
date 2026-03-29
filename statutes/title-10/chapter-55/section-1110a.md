@@ -5,19 +5,19 @@ usc_section: "1110a"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1110a"
-generated_at: "2026-03-29T00:20:52.951Z"
+generated_at: "2026-03-29T02:10:44.981Z"
 ---
 
 # § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B
 
-(a) 
-  (1) As soon as practicable, the Secretary of Defense shall notify each individual described in subsection (b)—
-    (A) that the individual is no longer eligible for health care benefits under the TRICARE program under this chapter; and
-    (B) of options available for enrollment of the individual in the supplementary medical insurance program under part B of title XVIII of the Social Security Act ( 42 U.S.C. 1395j et seq.).
-  (2) In carrying out this subsection, the Secretary of Defense shall—
-    (A) establish procedures for identifying individuals described in subsection (b); and
-    (B) consult with the Secretary of Health and Human Services to accurately identify and notify such individuals.
-(b) An individual described in this subsection is an individual who is—
-  (1) a covered beneficiary;
-  (2) entitled to benefits under part A of title XVIII of the Social Security Act ( 42 U.S.C. 1395c ) under section 226(b) or section 226A of such Act ( 42 U.S.C. 426(b) and 426–1); and
-  (3) eligible to enroll in the supplementary medical insurance program under part B of such title ( 42 U.S.C. 1395j et seq.).
+- **(a)**
+  - **(1)** As soon as practicable, the Secretary of Defense shall notify each individual described in subsection (b)—
+    - **(A)** that the individual is no longer eligible for health care benefits under the TRICARE program under this chapter; and
+    - **(B)** of options available for enrollment of the individual in the supplementary medical insurance program under part B of title XVIII of the Social Security Act ( 42 U.S.C. 1395j et seq.).
+  - **(2)** In carrying out this subsection, the Secretary of Defense shall—
+    - **(A)** establish procedures for identifying individuals described in subsection (b); and
+    - **(B)** consult with the Secretary of Health and Human Services to accurately identify and notify such individuals.
+- **(b)** An individual described in this subsection is an individual who is—
+  - **(1)** a covered beneficiary;
+  - **(2)** entitled to benefits under part A of title XVIII of the Social Security Act ( 42 U.S.C. 1395c ) under section 226(b) or section 226A of such Act ( 42 U.S.C. 426(b) and 426–1); and
+  - **(3)** eligible to enroll in the supplementary medical insurance program under part B of such title ( 42 U.S.C. 1395j et seq.).

@@ -5,22 +5,22 @@ usc_section: "13574"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13574"
-generated_at: "2026-03-29T00:32:54.331Z"
+generated_at: "2026-03-29T02:15:37.274Z"
 ---
 
 # § 13574. Air quality enhancement program
 
-(a) Projects supported under section 13572(a)(2) of this title shall—
-  (1) utilize technologies that meet relevant Federal and State clean air requirements applicable to the unit or facility, including being adequately demonstrated for purposes of section 7411 of this title , achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title ; or
-  (2) utilize equipment or processes that exceed relevant Federal or State clean air requirements applicable to the unit or facilities included in the projects by achieving greater efficiency or environmental performance.
-(b) In making an award under section 13572(a)(2) of this title , the Secretary shall give priority to—
-  (1) projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas or substantially reduce the emission level of criteria pollutants and mercury air emissions;
-  (2) projects for pollution control that result in the mitigation or collection of more than 1 pollutant; and
-  (3) projects designed to allow the use of the waste byproducts or other byproducts of the equipment.
-(c) There are authorized to be appropriated to the Secretary to carry out section 13572(a)(2) of this title —
-  (1) $300,000,000 for fiscal year 2007;
-  (2) $100,000,000 for fiscal year 2008;
-  (3) $40,000,000 for fiscal year 2009;
-  (4) $30,000,000 for fiscal year 2010; and
-  (5) $30,000,000 for fiscal year 2011.
-(d) No technology, or level of emission reduction under subsection (a)(2) shall be treated as adequately demonstrated for purpose of Section 1 1 So in original. Probably should be “purposes of section”. 7411 of this title, achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(2) of this title .
+- **(a)** Projects supported under section 13572(a)(2) of this title shall—
+  - **(1)** utilize technologies that meet relevant Federal and State clean air requirements applicable to the unit or facility, including being adequately demonstrated for purposes of section 7411 of this title , achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title ; or
+  - **(2)** utilize equipment or processes that exceed relevant Federal or State clean air requirements applicable to the unit or facilities included in the projects by achieving greater efficiency or environmental performance.
+- **(b)** In making an award under section 13572(a)(2) of this title , the Secretary shall give priority to—
+  - **(1)** projects whose installation is likely to result in significant air quality improvements in nonattainment air quality areas or substantially reduce the emission level of criteria pollutants and mercury air emissions;
+  - **(2)** projects for pollution control that result in the mitigation or collection of more than 1 pollutant; and
+  - **(3)** projects designed to allow the use of the waste byproducts or other byproducts of the equipment.
+- **(c)** There are authorized to be appropriated to the Secretary to carry out section 13572(a)(2) of this title —
+  - **(1)** $300,000,000 for fiscal year 2007;
+  - **(2)** $100,000,000 for fiscal year 2008;
+  - **(3)** $40,000,000 for fiscal year 2009;
+  - **(4)** $30,000,000 for fiscal year 2010; and
+  - **(5)** $30,000,000 for fiscal year 2011.
+- **(d)** No technology, or level of emission reduction under subsection (a)(2) shall be treated as adequately demonstrated for purpose of Section 1 1 So in original. Probably should be “purposes of section”. 7411 of this title, achievable for purposes of section 7479 of this title , or achievable in practice for purposes of section 7501 of this title solely by reason of the use of such technology, or the achievement of such emission reduction, by one or more facilities receiving assistance under section 13572(a)(2) of this title .

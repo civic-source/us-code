@@ -5,12 +5,12 @@ usc_section: "5609"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5609"
-generated_at: "2026-03-29T00:31:20.994Z"
+generated_at: "2026-03-29T02:14:01.268Z"
 ---
 
 # § 5609. Destruction of unregistered stills, distilling apparatus, equipment, and materials
 
-(a) In the case of seizure elsewhere than on premises qualified under this chapter of any unregistered still, distilling or fermenting equipment or apparatus, or distilling or fermenting material, for any offense involving forfeiture of the same, where it shall be impracticable to remove the same to a place of safe storage from the place where seized, the seizing officer is authorized to destroy the same. In the case of seizure, other than on premises qualified under this chapter or in transit thereto or therefrom, of any distilled spirits on which the tax has not been paid or determined, for any offense involving forfeiture of the same, the seizing officer is authorized to destroy the distilled spirits forthwith. Any destruction under this subsection shall be in the presence of at least one credible witness. The seizing officer shall make such report of said seizure and destruction and take such samples as the Secretary may require.
-(b) Within 1 year after destruction made pursuant to subsection (a) the owner of, including any person having an interest in, the property so destroyed may make application to the Secretary for reimbursement of the value of such property. If the claimant establishes to the satisfaction of the Secretary that—
-  (1) such property had not been used in violation of law; or
-  (2) any unlawful use of such property had been without his consent or knowledge,
+- **(a)** In the case of seizure elsewhere than on premises qualified under this chapter of any unregistered still, distilling or fermenting equipment or apparatus, or distilling or fermenting material, for any offense involving forfeiture of the same, where it shall be impracticable to remove the same to a place of safe storage from the place where seized, the seizing officer is authorized to destroy the same. In the case of seizure, other than on premises qualified under this chapter or in transit thereto or therefrom, of any distilled spirits on which the tax has not been paid or determined, for any offense involving forfeiture of the same, the seizing officer is authorized to destroy the distilled spirits forthwith. Any destruction under this subsection shall be in the presence of at least one credible witness. The seizing officer shall make such report of said seizure and destruction and take such samples as the Secretary may require.
+- **(b)** Within 1 year after destruction made pursuant to subsection (a) the owner of, including any person having an interest in, the property so destroyed may make application to the Secretary for reimbursement of the value of such property. If the claimant establishes to the satisfaction of the Secretary that—
+  - **(1)** such property had not been used in violation of law; or
+  - **(2)** any unlawful use of such property had been without his consent or knowledge,

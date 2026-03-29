@@ -5,53 +5,53 @@ usc_section: "1984"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1984"
-generated_at: "2026-03-29T00:33:06.666Z"
+generated_at: "2026-03-29T02:16:00.843Z"
 ---
 
 # § 1984. Agreements with Federated States of Micronesia
 
-(a) 
-  (1) Pursuant to sections 222 and 224 of the 2023 Amended U.S.-FSM Compact, the United States shall provide nonreimbursable technical and training assistance, as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia—
-    (A) to develop and adequately enforce laws of the Federated States of Micronesia; and
-    (B) to cooperate with the United States in the enforcement of criminal laws of the United States.
-  (2) Funds appropriated pursuant to subsection (j) of section 1921d of this title (as amended by section 209(j)) may be used in accordance with section 1921a(a) of this title .
-(b) 
-  (1) The 3 United States appointees (which are composed of the United States chair and 2 other members from the Government of the United States) to the Joint Economic Management Committee established under section 213 of the 2023 Amended U.S.-FSM Compact (referred to in this subsection as the “Committee”) shall—
-    (A) be voting members of the Committee; and
-    (B) continue to be officers or employees of the Federal Government.
-  (2) The 3 United States members of the Committee described in paragraph (1) shall be appointed for a term of 2 years as follows:
-    (A) 1 member shall be appointed by the Secretary of State, in consultation with the Secretary of the Treasury.
-    (B) 1 member shall be appointed by the Secretary of the Interior, in consultation with the Secretary of the Treasury.
-    (C) 1 member shall be appointed by the Interagency Group on Freely Associated States established under section 1987(d)(1) of this title .
-  (3) A United States member of the Committee appointed under paragraph (2) may be reappointed for not more than 2 additional 2-year terms.
-  (4) Not fewer than 2 United States members of the Committee appointed under paragraph (2) shall be individuals who—
-    (A) by reason of knowledge, experience, or training, are especially qualified in accounting, auditing, budget analysis, compliance, grant administration, program management, or international economics; and
-    (B) possess not less than 5 years of full-time experience in accounting, auditing, budget analysis, compliance, grant administration, program management, or international economics.
-  (5) 
-    (A) Not later than 90 days after the date of appointment of a United States member of the Committee under paragraph (2), the Secretary of the Interior shall notify the appropriate committees of Congress that an individual has been appointed as a voting member of the Committee under that paragraph, including a statement prepared by the Secretary of the Interior attesting to the qualifications of the member described in paragraph (4), subject to subparagraph (B).
-    (B) For purposes of a statement required under subparagraph (A)—
-      (i) in the case of a member appointed under paragraph (2)(A), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of State on request of the Secretary of the Interior; and
-      (ii) in the case of a member appointed under paragraph (2)(C), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Interagency Group on Freely Associated States established under section 1987(d)(1) of this title on request of the Secretary of the Interior.
-  (6) Not later than 90 days after the date on which the Committee receives or completes any report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit the report to the appropriate committees of Congress.
-  (7) Not later than 90 days after the date on which the Government of the Federated States of Micronesia submits to the Committee a report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
-    (A) if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
-    (B) if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.
-(c) 
-  (1) The 3 United States voting members (which are composed of the United States chair and 2 other members from the Government of the United States) to the Joint Trust Fund Committee established pursuant to the agreement described in section 462(b)(5) of the 2023 Amended U.S.-FSM Compact (referred to in this subsection as the “Committee”) shall continue to be officers or employees of the Federal Government.
-  (2) The 3 United States members of the Committee described in paragraph (1) shall be appointed for a term not more than 2 years as follows:
-    (A) 1 member shall be appointed by the Secretary of State.
-    (B) 1 member shall be appointed by the Secretary of the Interior.
-    (C) 1 member shall be appointed by the Secretary of the Treasury.
-  (3) A United States member of the Committee appointed under paragraph (2) may be reappointed for not more than 2 additional 2-year terms.
-  (4) Not fewer than 2 members of the Committee appointed under paragraph (2) shall be individuals who—
-    (A) by reason of knowledge, experience, or training, are especially qualified in accounting, auditing, budget analysis, compliance, financial investment, grant administration, program management, or international economics; and
-    (B) possess not less than 5 years of full-time experience in accounting, auditing, budget analysis, compliance, financial investment, grant administration, program management, or international economics.
-  (5) 
-    (A) Not later than 90 days after the date of appointment of a United States member to the Committee under paragraph (2), the Secretary of the Interior shall notify the appropriate committees of Congress that an individual has been appointed as a voting member of the Committee under that paragraph, including a statement attesting to the qualifications of the member described in paragraph (4), subject to subparagraph (B).
-    (B) For purposes of a statement required under subparagraph (A)—
-      (i) in the case of a member appointed under paragraph (2)(A), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of State on request of the Secretary of the Interior; and
-      (ii) in the case of a member appointed under paragraph (2)(C), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of the Treasury on request of the Secretary of the Interior.
-  (6) Not later than 90 days after the date on which the Committee receives or completes any report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit the report to the appropriate committees of Congress.
-  (7) Not later than 90 days after the date on which the Government of the Federated States of Micronesia submits to the Committee a report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
-    (A) if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
-    (B) if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.
+- **(a)**
+  - **(1)** Pursuant to sections 222 and 224 of the 2023 Amended U.S.-FSM Compact, the United States shall provide nonreimbursable technical and training assistance, as appropriate, including training and equipment for postal inspection of illicit drugs and other contraband, to enable the Government of the Federated States of Micronesia—
+    - **(A)** to develop and adequately enforce laws of the Federated States of Micronesia; and
+    - **(B)** to cooperate with the United States in the enforcement of criminal laws of the United States.
+  - **(2)** Funds appropriated pursuant to subsection (j) of section 1921d of this title (as amended by section 209(j)) may be used in accordance with section 1921a(a) of this title .
+- **(b)**
+  - **(1)** The 3 United States appointees (which are composed of the United States chair and 2 other members from the Government of the United States) to the Joint Economic Management Committee established under section 213 of the 2023 Amended U.S.-FSM Compact (referred to in this subsection as the “Committee”) shall—
+    - **(A)** be voting members of the Committee; and
+    - **(B)** continue to be officers or employees of the Federal Government.
+  - **(2)** The 3 United States members of the Committee described in paragraph (1) shall be appointed for a term of 2 years as follows:
+    - **(A)** 1 member shall be appointed by the Secretary of State, in consultation with the Secretary of the Treasury.
+    - **(B)** 1 member shall be appointed by the Secretary of the Interior, in consultation with the Secretary of the Treasury.
+    - **(C)** 1 member shall be appointed by the Interagency Group on Freely Associated States established under section 1987(d)(1) of this title .
+  - **(3)** A United States member of the Committee appointed under paragraph (2) may be reappointed for not more than 2 additional 2-year terms.
+  - **(4)** Not fewer than 2 United States members of the Committee appointed under paragraph (2) shall be individuals who—
+    - **(A)** by reason of knowledge, experience, or training, are especially qualified in accounting, auditing, budget analysis, compliance, grant administration, program management, or international economics; and
+    - **(B)** possess not less than 5 years of full-time experience in accounting, auditing, budget analysis, compliance, grant administration, program management, or international economics.
+  - **(5)**
+    - **(A)** Not later than 90 days after the date of appointment of a United States member of the Committee under paragraph (2), the Secretary of the Interior shall notify the appropriate committees of Congress that an individual has been appointed as a voting member of the Committee under that paragraph, including a statement prepared by the Secretary of the Interior attesting to the qualifications of the member described in paragraph (4), subject to subparagraph (B).
+    - **(B)** For purposes of a statement required under subparagraph (A)—
+      - **(i)** in the case of a member appointed under paragraph (2)(A), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of State on request of the Secretary of the Interior; and
+      - **(ii)** in the case of a member appointed under paragraph (2)(C), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Interagency Group on Freely Associated States established under section 1987(d)(1) of this title on request of the Secretary of the Interior.
+  - **(6)** Not later than 90 days after the date on which the Committee receives or completes any report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit the report to the appropriate committees of Congress.
+  - **(7)** Not later than 90 days after the date on which the Government of the Federated States of Micronesia submits to the Committee a report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
+    - **(A)** if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
+    - **(B)** if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.
+- **(c)**
+  - **(1)** The 3 United States voting members (which are composed of the United States chair and 2 other members from the Government of the United States) to the Joint Trust Fund Committee established pursuant to the agreement described in section 462(b)(5) of the 2023 Amended U.S.-FSM Compact (referred to in this subsection as the “Committee”) shall continue to be officers or employees of the Federal Government.
+  - **(2)** The 3 United States members of the Committee described in paragraph (1) shall be appointed for a term not more than 2 years as follows:
+    - **(A)** 1 member shall be appointed by the Secretary of State.
+    - **(B)** 1 member shall be appointed by the Secretary of the Interior.
+    - **(C)** 1 member shall be appointed by the Secretary of the Treasury.
+  - **(3)** A United States member of the Committee appointed under paragraph (2) may be reappointed for not more than 2 additional 2-year terms.
+  - **(4)** Not fewer than 2 members of the Committee appointed under paragraph (2) shall be individuals who—
+    - **(A)** by reason of knowledge, experience, or training, are especially qualified in accounting, auditing, budget analysis, compliance, financial investment, grant administration, program management, or international economics; and
+    - **(B)** possess not less than 5 years of full-time experience in accounting, auditing, budget analysis, compliance, financial investment, grant administration, program management, or international economics.
+  - **(5)**
+    - **(A)** Not later than 90 days after the date of appointment of a United States member to the Committee under paragraph (2), the Secretary of the Interior shall notify the appropriate committees of Congress that an individual has been appointed as a voting member of the Committee under that paragraph, including a statement attesting to the qualifications of the member described in paragraph (4), subject to subparagraph (B).
+    - **(B)** For purposes of a statement required under subparagraph (A)—
+      - **(i)** in the case of a member appointed under paragraph (2)(A), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of State on request of the Secretary of the Interior; and
+      - **(ii)** in the case of a member appointed under paragraph (2)(C), the Secretary of the Interior shall compile information on the member provided to the Secretary of the Interior by the Secretary of the Treasury on request of the Secretary of the Interior.
+  - **(6)** Not later than 90 days after the date on which the Committee receives or completes any report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit the report to the appropriate committees of Congress.
+  - **(7)** Not later than 90 days after the date on which the Government of the Federated States of Micronesia submits to the Committee a report required under the 2023 Amended U.S.-FSM Compact, or any related subsidiary agreement, the Secretary of the Interior shall submit to the appropriate committees of Congress—
+    - **(A)** if the report is submitted by the applicable deadline, written notice attesting that the report is complete and accurate; or
+    - **(B)** if the report is not submitted by the applicable deadline, written notice that the report has not been timely submitted.

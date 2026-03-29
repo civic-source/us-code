@@ -5,15 +5,15 @@ usc_section: "1609"
 chapter: 26
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1609"
-generated_at: "2026-03-29T00:06:10.958Z"
+generated_at: "2026-03-29T02:09:53.732Z"
 ---
 
 # § 1609. Identification of clients and covered officials
 
-(a) Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
-  (1) state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
-  (2) state whether such client is a foreign entity and identify any foreign entity required to be disclosed under section 1603(b)(4) of this title that has a direct interest in the outcome of the lobbying activity.
-(b) Any person or entity registered under this chapter that makes a written lobbying contact (including an electronic communication) with a covered legislative branch official or a covered executive branch official shall—
-  (1) if the client on whose behalf the lobbying contact was made is a foreign entity, identify such client, state that the client is considered a foreign entity under this chapter, and state whether the person making the lobbying contact is registered on behalf of that client under section 1603 of this title ; and
-  (2) identify any other foreign entity identified pursuant to section 1603(b)(4) of this title that has a direct interest in the outcome of the lobbying activity.
-(c) Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.
+- **(a)** Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
+  - **(1)** state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
+  - **(2)** state whether such client is a foreign entity and identify any foreign entity required to be disclosed under section 1603(b)(4) of this title that has a direct interest in the outcome of the lobbying activity.
+- **(b)** Any person or entity registered under this chapter that makes a written lobbying contact (including an electronic communication) with a covered legislative branch official or a covered executive branch official shall—
+  - **(1)** if the client on whose behalf the lobbying contact was made is a foreign entity, identify such client, state that the client is considered a foreign entity under this chapter, and state whether the person making the lobbying contact is registered on behalf of that client under section 1603 of this title ; and
+  - **(2)** identify any other foreign entity identified pursuant to section 1603(b)(4) of this title that has a direct interest in the outcome of the lobbying activity.
+- **(c)** Upon request by a person or entity making a lobbying contact, the individual who is contacted or the office employing that individual shall indicate whether or not the individual is a covered legislative branch official or a covered executive branch official.

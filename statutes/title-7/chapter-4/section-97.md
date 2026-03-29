@@ -5,7 +5,7 @@ usc_section: "97"
 chapter: 4
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 97"
-generated_at: "2026-03-29T00:28:57.867Z"
+generated_at: "2026-03-29T02:10:16.655Z"
 ---
 
 # § 97. Purchase and analysis by Secretary of samples of spirits of turpentine to detect violations; reports to Department of Justice; publication of results of analysis, etc.

@@ -5,21 +5,21 @@ usc_section: "4952"
 chapter: 42
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4952"
-generated_at: "2026-03-29T00:31:20.962Z"
+generated_at: "2026-03-29T02:14:01.229Z"
 ---
 
 # § 4952. Taxes on taxable expenditures
 
-(a) 
-  (1) There is hereby imposed on each taxable expenditure (as defined in subsection (d)) from the assets or income of a trust described in section 501(c)(21) a tax equal to 10 percent of the amount thereof. The tax imposed by this paragraph shall be paid by the trustee out of the assets of the trust.
-  (2) There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 2½ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
-(b) 
-  (1) In any case in which an initial tax is imposed by subsection (a)(1) on a taxable expenditure and such expenditure is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount of the expenditure. The tax imposed by this paragraph shall be paid by the trustee out of the assets of the trust.
-  (2) In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. The tax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
-(c) For purposes of subsections (a) and (b), if more than one person is liable under subsection (a)(2) or (b)(2) with respect to the making of a taxable expenditure, all such persons shall be jointly and severally liable under such paragraph with respect to such expenditure.
-(d) For purposes of this section, the term “taxable expenditure” means any amount paid or incurred by a trust described in section 501(c)(21) other than for a purpose specified in such section.
-(e) 
-  (1) The terms “correction” and “correct” mean, with respect to any taxable expenditure, recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible, contributions by the person or persons whose liabilities for black lung benefit claims (as defined in section 192(e)) are to be paid out of the trust to the extent necessary to place the trust in a financial position not worse than that in which it would be if the taxable expenditure had not been made.
-  (2) The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
-    (A) the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212, or
-    (B) the date on which the tax imposed by subsection (a)(1) is assessed.
+- **(a)**
+  - **(1)** There is hereby imposed on each taxable expenditure (as defined in subsection (d)) from the assets or income of a trust described in section 501(c)(21) a tax equal to 10 percent of the amount thereof. The tax imposed by this paragraph shall be paid by the trustee out of the assets of the trust.
+  - **(2)** There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 2½ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
+- **(b)**
+  - **(1)** In any case in which an initial tax is imposed by subsection (a)(1) on a taxable expenditure and such expenditure is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount of the expenditure. The tax imposed by this paragraph shall be paid by the trustee out of the assets of the trust.
+  - **(2)** In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. The tax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
+- **(c)** For purposes of subsections (a) and (b), if more than one person is liable under subsection (a)(2) or (b)(2) with respect to the making of a taxable expenditure, all such persons shall be jointly and severally liable under such paragraph with respect to such expenditure.
+- **(d)** For purposes of this section, the term “taxable expenditure” means any amount paid or incurred by a trust described in section 501(c)(21) other than for a purpose specified in such section.
+- **(e)**
+  - **(1)** The terms “correction” and “correct” mean, with respect to any taxable expenditure, recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible, contributions by the person or persons whose liabilities for black lung benefit claims (as defined in section 192(e)) are to be paid out of the trust to the extent necessary to place the trust in a financial position not worse than that in which it would be if the taxable expenditure had not been made.
+  - **(2)** The term “taxable period” means, with respect to any taxable expenditure, the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of—
+    - **(A)** the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212, or
+    - **(B)** the date on which the tax imposed by subsection (a)(1) is assessed.

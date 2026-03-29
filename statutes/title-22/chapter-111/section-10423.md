@@ -5,13 +5,13 @@ usc_section: "10423"
 chapter: 111
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10423"
-generated_at: "2026-03-29T00:30:34.075Z"
+generated_at: "2026-03-29T02:12:40.525Z"
 ---
 
 # § 10423. Expedited review of export licenses for exports of advanced technologies to Australia, the United Kingdom, and Canada
 
-(a) Not later than 180 days after December 22, 2023 , the Secretary of State, in coordination with the Secretary of Defense, shall initiate a rulemaking to establish an expedited decision-making process, classified or unclassified, for applications to export to Australia, the United Kingdom, and Canada commercial, advanced-technology defense articles and defense services that are not covered by an exemption under the International Traffic in Arms Regulations.
-(b) To qualify for the expedited decision-making process described in subsection (a), an application shall be for an export of defense articles or defense services that will take place wholly within or between the physical territory of Australia, Canada, or the United Kingdom and the United States and with governments or corporate entities from such countries.
-(c) The expedited decision-making process described in subsection (a) shall be available for both classified and unclassified items, and the process must satisfy the following criteria to the extent practicable:
-  (1) Any licensing application to export defense articles and services that is related to a government to government agreement must be approved, returned, or denied within 30 days of submission.
-  (2) For all other licensing requests, any review shall be completed not later than 45 calendar days after the date of application.
+- **(a)** Not later than 180 days after December 22, 2023 , the Secretary of State, in coordination with the Secretary of Defense, shall initiate a rulemaking to establish an expedited decision-making process, classified or unclassified, for applications to export to Australia, the United Kingdom, and Canada commercial, advanced-technology defense articles and defense services that are not covered by an exemption under the International Traffic in Arms Regulations.
+- **(b)** To qualify for the expedited decision-making process described in subsection (a), an application shall be for an export of defense articles or defense services that will take place wholly within or between the physical territory of Australia, Canada, or the United Kingdom and the United States and with governments or corporate entities from such countries.
+- **(c)** The expedited decision-making process described in subsection (a) shall be available for both classified and unclassified items, and the process must satisfy the following criteria to the extent practicable:
+  - **(1)** Any licensing application to export defense articles and services that is related to a government to government agreement must be approved, returned, or denied within 30 days of submission.
+  - **(2)** For all other licensing requests, any review shall be completed not later than 45 calendar days after the date of application.

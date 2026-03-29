@@ -5,7 +5,7 @@ usc_section: "7510"
 chapter: 77
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7510"
-generated_at: "2026-03-29T00:31:21.095Z"
+generated_at: "2026-03-29T02:14:01.392Z"
 ---
 
 # § 7510. Exemption from tax of domestic goods purchased for the United States

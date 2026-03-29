@@ -5,7 +5,7 @@ usc_section: "735"
 chapter: 7
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 735"
-generated_at: "2026-03-29T00:32:58.541Z"
+generated_at: "2026-03-29T02:15:49.319Z"
 ---
 
 # § 735. Binding for Senators

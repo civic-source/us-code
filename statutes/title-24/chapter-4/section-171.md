@@ -5,7 +5,7 @@ usc_section: "171"
 chapter: 4
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 171"
-generated_at: "2026-03-29T00:30:34.803Z"
+generated_at: "2026-03-29T02:13:07.073Z"
 ---
 
 # § 171. Repealed. Pub. L. 98–621, § 10(e) , Nov. 8, 1984 , 98 Stat. 3379

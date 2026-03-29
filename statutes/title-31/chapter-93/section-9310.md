@@ -5,12 +5,12 @@ usc_section: "9310"
 chapter: 93
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 9310"
-generated_at: "2026-03-29T00:31:52.664Z"
+generated_at: "2026-03-29T02:14:14.122Z"
 ---
 
 # § 9310. Individual sureties
 
 If another applicable Federal law or regulation permits the acceptance of a bond from a surety that is not subject to sections 9305 and 9306 and is based on a pledge of assets by the surety, the assets pledged by such surety shall—
 
-  (1) consist of eligible obligations described under section 9303(a); and
-  (2) be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).
+  - **(1)** consist of eligible obligations described under section 9303(a); and
+  - **(2)** be submitted to the official of the Government required to approve or accept the bond, who shall deposit the obligations as described under section 9303(b).

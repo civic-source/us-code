@@ -5,7 +5,7 @@ usc_section: "501"
 chapter: 21
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 501"
-generated_at: "2026-03-29T00:28:57.940Z"
+generated_at: "2026-03-29T02:10:16.730Z"
 ---
 
 # § 501. Collection and publication; facts required; deteriorated tobacco

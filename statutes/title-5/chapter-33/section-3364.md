@@ -5,7 +5,7 @@ usc_section: "3364"
 chapter: 33
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3364"
-generated_at: "2026-03-29T00:28:38.316Z"
+generated_at: "2026-03-29T02:10:01.825Z"
 ---
 
 # [§ 3364. Repealed. Pub. L. 94–183, § 2(6) , Dec. 31, 1975 , 89 Stat. 1057 ]

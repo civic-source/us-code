@@ -5,7 +5,7 @@ usc_section: "60"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 60"
-generated_at: "2026-03-29T00:06:10.861Z"
+generated_at: "2026-03-29T02:09:53.631Z"
 ---
 
 # § 60. Repealed. June 20, 1929, ch. 33, § 6 , 46 Stat. 39

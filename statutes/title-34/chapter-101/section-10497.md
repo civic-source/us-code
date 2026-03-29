@@ -5,14 +5,14 @@ usc_section: "10497"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10497"
-generated_at: "2026-03-29T00:32:01.573Z"
+generated_at: "2026-03-29T02:14:25.280Z"
 ---
 
 # § 10497. Reports
 
 A State or local law enforcement agency or organization that receives a grant under this subchapter shall submit to the Attorney General an annual report that includes—
 
-  (1) program descriptions;
-  (2) the number of staff employed to administer programs;
-  (3) the number of individuals who participated in programs; and
-  (4) an evaluation of the effectiveness of grant programs.
+  - **(1)** program descriptions;
+  - **(2)** the number of staff employed to administer programs;
+  - **(3)** the number of individuals who participated in programs; and
+  - **(4)** an evaluation of the effectiveness of grant programs.

@@ -5,7 +5,7 @@ usc_section: "1196"
 chapter: 14
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1196"
-generated_at: "2026-03-29T00:30:33.716Z"
+generated_at: "2026-03-29T02:12:39.989Z"
 ---
 
 # § 1196. Repealed. June 28, 1955, ch. 196 , 69 Stat. 187

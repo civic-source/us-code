@@ -5,7 +5,7 @@ usc_section: "276bb"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 276bb"
-generated_at: "2026-03-29T00:30:33.659Z"
+generated_at: "2026-03-29T02:12:39.940Z"
 ---
 
 # § 276bb. Acceptance of funds and property from Mrs. Kermit Roosevelt; purpose and use; disbursement and investment of fund

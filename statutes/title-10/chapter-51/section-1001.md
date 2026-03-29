@@ -5,7 +5,7 @@ usc_section: "1001"
 chapter: 51
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1001"
-generated_at: "2026-03-29T00:20:52.922Z"
+generated_at: "2026-03-29T02:10:44.946Z"
 ---
 
 # § 1001. Reference to chapter 1219

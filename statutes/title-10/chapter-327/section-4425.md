@@ -5,7 +5,7 @@ usc_section: "4425"
 chapter: 327
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4425"
-generated_at: "2026-03-29T00:20:53.152Z"
+generated_at: "2026-03-29T02:10:45.221Z"
 ---
 
 # § 4425. Definition of weapon system component

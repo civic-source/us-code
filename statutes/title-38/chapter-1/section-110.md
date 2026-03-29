@@ -5,7 +5,7 @@ usc_section: "110"
 chapter: 1
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 110"
-generated_at: "2026-03-29T00:32:17.136Z"
+generated_at: "2026-03-29T02:14:50.326Z"
 ---
 
 # § 110. Preservation of disability ratings

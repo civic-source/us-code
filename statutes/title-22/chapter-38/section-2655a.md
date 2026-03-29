@@ -5,7 +5,7 @@ usc_section: "2655a"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2655a"
-generated_at: "2026-03-29T00:30:33.837Z"
+generated_at: "2026-03-29T02:12:40.111Z"
 ---
 
 # § 2655a. Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau

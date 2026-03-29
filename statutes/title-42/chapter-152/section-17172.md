@@ -5,20 +5,20 @@ usc_section: "17172"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17172"
-generated_at: "2026-03-29T00:32:54.430Z"
+generated_at: "2026-03-29T02:15:37.393Z"
 ---
 
 # § 17172. Solar energy curriculum development and certification grants
 
-(a) The Secretary shall establish in the Office of Solar Energy Technologies a competitive grant program to create and strengthen solar industry workforce training and internship programs in installation, operation, and maintenance of solar energy products. The goal of this program is to ensure a supply of well-trained individuals to support the expansion of the solar energy industry.
-(b) Grant funds may be used to support the following activities:
-  (1) Creation and development of a solar energy curriculum appropriate for the local educational, entrepreneurial, and environmental conditions, including curriculum for community colleges.
-  (2) Support of certification programs for individual solar energy system installers, instructors, and training programs.
-  (3) Internship programs that provide hands-on participation by students in commercial applications.
-  (4) Activities required to obtain certification of training programs and facilities by an industry-accepted quality-control certification program.
-  (5) Incorporation of solar-specific learning modules into traditional occupational training and internship programs for construction-related trades.
-  (6) The purchase of equipment necessary to carry out activities under this section.
-  (7) Support of programs that provide guidance and updates to solar energy curriculum instructors.
-(c) Grants may be awarded under this section for up to 3 years. The Secretary shall award grants to ensure sufficient geographic distribution of training programs nationally. Grants shall only be awarded for programs certified by an industry-accepted quality-control certification institution, or for new and growing programs with a credible path to certification. Due consideration shall be given to women, underrepresented minorities, and persons with disabilities.
-(d) The Secretary shall make public, on the website of the Department or upon request, information on the name and institution for all grants awarded under this section, including a brief description of the project as well as the grant award amount.
-(e) There are authorized to be appropriated to the Secretary for carrying out this section $10,000,000 for each of the fiscal years 2008 through 2012.
+- **(a)** The Secretary shall establish in the Office of Solar Energy Technologies a competitive grant program to create and strengthen solar industry workforce training and internship programs in installation, operation, and maintenance of solar energy products. The goal of this program is to ensure a supply of well-trained individuals to support the expansion of the solar energy industry.
+- **(b)** Grant funds may be used to support the following activities:
+  - **(1)** Creation and development of a solar energy curriculum appropriate for the local educational, entrepreneurial, and environmental conditions, including curriculum for community colleges.
+  - **(2)** Support of certification programs for individual solar energy system installers, instructors, and training programs.
+  - **(3)** Internship programs that provide hands-on participation by students in commercial applications.
+  - **(4)** Activities required to obtain certification of training programs and facilities by an industry-accepted quality-control certification program.
+  - **(5)** Incorporation of solar-specific learning modules into traditional occupational training and internship programs for construction-related trades.
+  - **(6)** The purchase of equipment necessary to carry out activities under this section.
+  - **(7)** Support of programs that provide guidance and updates to solar energy curriculum instructors.
+- **(c)** Grants may be awarded under this section for up to 3 years. The Secretary shall award grants to ensure sufficient geographic distribution of training programs nationally. Grants shall only be awarded for programs certified by an industry-accepted quality-control certification institution, or for new and growing programs with a credible path to certification. Due consideration shall be given to women, underrepresented minorities, and persons with disabilities.
+- **(d)** The Secretary shall make public, on the website of the Department or upon request, information on the name and institution for all grants awarded under this section, including a brief description of the project as well as the grant award amount.
+- **(e)** There are authorized to be appropriated to the Secretary for carrying out this section $10,000,000 for each of the fiscal years 2008 through 2012.

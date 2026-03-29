@@ -5,12 +5,12 @@ usc_section: "3403"
 chapter: 36
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3403"
-generated_at: "2026-03-29T00:30:38.758Z"
+generated_at: "2026-03-29T02:13:20.969Z"
 ---
 
 # § 3403. Integration of services authorized
 
 The Secretary shall, after approving a plan submitted by an Indian tribe in accordance with section 3407 of this title , authorize the Indian tribe to, in accordance with the plan—
 
-  (1) integrate the programs and Federal funds received by the Indian tribe in accordance with waiver authority granted under section 3406(d) of this title ; and
-  (2) coordinate the employment, training, and related services provided with those funds in a consolidated and comprehensive tribal plan.
+  - **(1)** integrate the programs and Federal funds received by the Indian tribe in accordance with waiver authority granted under section 3406(d) of this title ; and
+  - **(2)** coordinate the employment, training, and related services provided with those funds in a consolidated and comprehensive tribal plan.

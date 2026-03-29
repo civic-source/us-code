@@ -5,7 +5,7 @@ usc_section: "5112"
 chapter: 67
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5112"
-generated_at: "2026-03-29T00:32:53.896Z"
+generated_at: "2026-03-29T02:15:36.738Z"
 ---
 
 # § 5112. Repealed. Pub. L. 102–295, title IV, § 402 , May 28, 1992 , 106 Stat. 213

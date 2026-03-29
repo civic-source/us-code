@@ -5,7 +5,7 @@ usc_section: "1413"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1413"
-generated_at: "2026-03-29T00:33:06.609Z"
+generated_at: "2026-03-29T02:16:00.804Z"
 ---
 
 # § 1413. Completion of proof on death of discoverer

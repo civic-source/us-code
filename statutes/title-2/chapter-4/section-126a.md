@@ -5,7 +5,7 @@ usc_section: "126a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 126a"
-generated_at: "2026-03-29T00:06:10.882Z"
+generated_at: "2026-03-29T02:09:53.643Z"
 ---
 
 # § 126a. Omitted

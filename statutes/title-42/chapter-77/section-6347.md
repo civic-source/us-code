@@ -5,7 +5,7 @@ usc_section: "6347"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6347"
-generated_at: "2026-03-29T00:32:53.967Z"
+generated_at: "2026-03-29T02:15:36.821Z"
 ---
 
 # § 6347. Omitted

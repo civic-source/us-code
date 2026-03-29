@@ -5,14 +5,14 @@ usc_section: "5708"
 chapter: 57
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5708"
-generated_at: "2026-03-29T00:28:38.355Z"
+generated_at: "2026-03-29T02:10:01.882Z"
 ---
 
 # § 5708. Effect on other statutes
 
 This subchapter does not modify or repeal—
 
-  (1) any statute providing for the traveling expenses of the President;
-  (2) any statute providing for mileage allowances for Members of Congress;
-  (3) any statute fixing or permitting rates higher than the maximum rates established under this subchapter; or
-  (4) any appropriation statute item for examination of estimates in the field.
+  - **(1)** any statute providing for the traveling expenses of the President;
+  - **(2)** any statute providing for mileage allowances for Members of Congress;
+  - **(3)** any statute fixing or permitting rates higher than the maximum rates established under this subchapter; or
+  - **(4)** any appropriation statute item for examination of estimates in the field.

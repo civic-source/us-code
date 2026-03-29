@@ -5,7 +5,7 @@ usc_section: "412"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 412"
-generated_at: "2026-03-29T00:33:04.912Z"
+generated_at: "2026-03-29T02:15:59.230Z"
 ---
 
 # § 412. Documents filed with Commission as public records; prima facie evidence; confidential records

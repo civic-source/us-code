@@ -5,10 +5,10 @@ usc_section: "2205"
 chapter: 131
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2205"
-generated_at: "2026-03-29T00:20:53.025Z"
+generated_at: "2026-03-29T02:10:45.075Z"
 ---
 
 # § 2205. Reimbursements
 
-(a) Reimbursements made to appropriations of the Department of Defense or a department or agency thereof under sections 1535 and 1536 of title 31, or other amounts paid by or on behalf of a department or agency of the Department of Defense to another department or agency of the Department of Defense, or by or on behalf of personnel of any department or organization, for services rendered or supplies furnished, may be credited to authorized accounts. Funds so credited are available for obligation for the same period as the funds in the account so credited. Such an account shall be accounted for as one fund on the books of the Department of the Treasury.
-(b) The Secretary of Defense and the Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.
+- **(a)** Reimbursements made to appropriations of the Department of Defense or a department or agency thereof under sections 1535 and 1536 of title 31, or other amounts paid by or on behalf of a department or agency of the Department of Defense to another department or agency of the Department of Defense, or by or on behalf of personnel of any department or organization, for services rendered or supplies furnished, may be credited to authorized accounts. Funds so credited are available for obligation for the same period as the funds in the account so credited. Such an account shall be accounted for as one fund on the books of the Department of the Treasury.
+- **(b)** The Secretary of Defense and the Secretaries of the military departments may charge a fixed rate for reimbursement of the costs of providing planning, supervision, administrative, or overhead services incident to any construction, maintenance, or repair project to real property or for providing facility services, irrespective of the appropriation financing the project or facility services.

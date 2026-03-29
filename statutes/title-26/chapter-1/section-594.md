@@ -5,12 +5,12 @@ usc_section: "594"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 594"
-generated_at: "2026-03-29T00:31:20.791Z"
+generated_at: "2026-03-29T02:14:01.017Z"
 ---
 
 # § 594. Alternative tax for mutual savings banks conducting life insurance business
 
-(a) In the case of a mutual savings bank not having capital stock represented by shares, authorized under State law to engage in the business of issuing life insurance contracts, and which conducts a life insurance business in a separate department the accounts of which are maintained separately from the other accounts of the mutual savings bank, there shall be imposed in lieu of the tax imposed by section 11, a tax consisting of the sum of the partial taxes determined under paragraphs (1) and (2):
-  (1) A partial tax computed on the taxable income determined without regard to any items of gross income or deductions properly allocable to the business of the life insurance department, at the rates and in the manner as if this section had not been enacted; and
-  (2) a partial tax computed on the income of the life insurance department determined without regard to any items of gross income or deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
-(b) Subsection (a) shall apply only if the life insurance department would, if it were treated as a separate corporation, qualify as a life insurance company under section 816.
+- **(a)** In the case of a mutual savings bank not having capital stock represented by shares, authorized under State law to engage in the business of issuing life insurance contracts, and which conducts a life insurance business in a separate department the accounts of which are maintained separately from the other accounts of the mutual savings bank, there shall be imposed in lieu of the tax imposed by section 11, a tax consisting of the sum of the partial taxes determined under paragraphs (1) and (2):
+  - **(1)** A partial tax computed on the taxable income determined without regard to any items of gross income or deductions properly allocable to the business of the life insurance department, at the rates and in the manner as if this section had not been enacted; and
+  - **(2)** a partial tax computed on the income of the life insurance department determined without regard to any items of gross income or deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
+- **(b)** Subsection (a) shall apply only if the life insurance department would, if it were treated as a separate corporation, qualify as a life insurance company under section 816.

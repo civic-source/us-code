@@ -5,22 +5,22 @@ usc_section: "2206"
 chapter: 42
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2206"
-generated_at: "2026-03-29T00:29:52.772Z"
+generated_at: "2026-03-29T02:11:53.855Z"
 ---
 
 # § 2206. Emergency forest restoration program
 
-(a) In this section:
-  (1) The term “emergency measures” means those measures that—
-    (A) are necessary to address damage caused by a natural disaster to natural resources on nonindustrial private forest land, and the damage, if not treated—
-      (i) would impair or endanger the natural resources on the land; and
-      (ii) would materially affect future use of the land; and
-    (B) would restore forest health and forest-related resources on the land.
-  (2) The term “natural disaster” includes wildfires, hurricanes or excessive winds, drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
-  (3) The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
-    (A) has existing tree cover (or had tree cover immediately before the natural disaster and is suitable for growing trees); and
-    (B) is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decision-making authority over the land.
-(b) The Secretary may make payments to an owner of nonindustrial private forest land who carries out emergency measures to restore the land after the land is damaged by a natural disaster.
-(c) To be eligible to receive a payment under subsection (b), an owner must demonstrate to the satisfaction of the Secretary that the nonindustrial private forest land on which the emergency measures are carried out had tree cover immediately before the natural disaster.
-(d) Payments made under subsection (b) shall not exceed 75 percent of the total cost of the emergency measures carried out by an owner of nonindustrial private forest land.
-(e) There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
+- **(a)** In this section:
+  - **(1)** The term “emergency measures” means those measures that—
+    - **(A)** are necessary to address damage caused by a natural disaster to natural resources on nonindustrial private forest land, and the damage, if not treated—
+      - **(i)** would impair or endanger the natural resources on the land; and
+      - **(ii)** would materially affect future use of the land; and
+    - **(B)** would restore forest health and forest-related resources on the land.
+  - **(2)** The term “natural disaster” includes wildfires, hurricanes or excessive winds, drought, ice storms or blizzards, floods, or other resource-impacting events, as determined by the Secretary.
+  - **(3)** The term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+    - **(A)** has existing tree cover (or had tree cover immediately before the natural disaster and is suitable for growing trees); and
+    - **(B)** is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decision-making authority over the land.
+- **(b)** The Secretary may make payments to an owner of nonindustrial private forest land who carries out emergency measures to restore the land after the land is damaged by a natural disaster.
+- **(c)** To be eligible to receive a payment under subsection (b), an owner must demonstrate to the satisfaction of the Secretary that the nonindustrial private forest land on which the emergency measures are carried out had tree cover immediately before the natural disaster.
+- **(d)** Payments made under subsection (b) shall not exceed 75 percent of the total cost of the emergency measures carried out by an owner of nonindustrial private forest land.
+- **(e)** There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.

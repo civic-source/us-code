@@ -5,13 +5,13 @@ usc_section: "2232"
 chapter: 31
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2232"
-generated_at: "2026-03-29T00:06:10.979Z"
+generated_at: "2026-03-29T02:09:53.763Z"
 ---
 
 # § 2232. Deposits in the Fund
 
-(a) There shall be deposited in the Gift Shop Account all monies received from sales and other services by the gift shop established under section 2215 of this title , together with any interest accrued on balances in the Account.
-(b) There shall be deposited in the Miscellaneous Receipts Account each of the following (together with any interest accrued on balances in the Account):
-  (1) Any amounts deposited under section 2216(c) of this title .
-  (2) Any other receipts received from the operation of the Capitol Visitor Center.
-  (3) Any amounts described under section 2273(d) of this title .
+- **(a)** There shall be deposited in the Gift Shop Account all monies received from sales and other services by the gift shop established under section 2215 of this title , together with any interest accrued on balances in the Account.
+- **(b)** There shall be deposited in the Miscellaneous Receipts Account each of the following (together with any interest accrued on balances in the Account):
+  - **(1)** Any amounts deposited under section 2216(c) of this title .
+  - **(2)** Any other receipts received from the operation of the Capitol Visitor Center.
+  - **(3)** Any amounts described under section 2273(d) of this title .

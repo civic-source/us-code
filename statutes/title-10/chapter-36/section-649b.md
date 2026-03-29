@@ -5,11 +5,11 @@ usc_section: "649b"
 chapter: 36
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 649b"
-generated_at: "2026-03-29T00:20:52.873Z"
+generated_at: "2026-03-29T02:10:44.896Z"
 ---
 
 # § 649b. Selection for promotion
 
-(a) Except as provided in this section, the selection for promotion of officers in any competitive category of officers designated for purposes of this subchapter shall be governed by the provisions of subchapter I of this chapter.
-(b) Section 616(b) of this title shall not apply to the selection for promotion of officers described in subsection (a).
-(c) In making recommendations pursuant to section 616 of this title for purposes of the administration of this subchapter, a selection board convened under section 611(a) of this title may recommend that an officer considered by the board be excluded from future consideration for promotion under this chapter.
+- **(a)** Except as provided in this section, the selection for promotion of officers in any competitive category of officers designated for purposes of this subchapter shall be governed by the provisions of subchapter I of this chapter.
+- **(b)** Section 616(b) of this title shall not apply to the selection for promotion of officers described in subsection (a).
+- **(c)** In making recommendations pursuant to section 616 of this title for purposes of the administration of this subchapter, a selection board convened under section 611(a) of this title may recommend that an officer considered by the board be excluded from future consideration for promotion under this chapter.

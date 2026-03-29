@@ -5,7 +5,7 @@ usc_section: "559"
 chapter: 5
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 559"
-generated_at: "2026-03-29T00:28:59.955Z"
+generated_at: "2026-03-29T02:10:54.334Z"
 ---
 
 # § 559. Contractual right to liquidate, terminate, or accelerate a repurchase agreement

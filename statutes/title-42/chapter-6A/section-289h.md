@@ -5,7 +5,7 @@ usc_section: "289h"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 289h"
-generated_at: "2026-03-29T00:32:52.971Z"
+generated_at: "2026-03-29T02:15:35.717Z"
 ---
 
 # § 289h. Repealed. Pub. L. 103–43, title I, § 121(b)(2) , June 10, 1993 , 107 Stat. 133

@@ -5,12 +5,12 @@ usc_section: "9421"
 chapter: 951
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9421"
-generated_at: "2026-03-29T00:20:53.260Z"
+generated_at: "2026-03-29T02:10:45.343Z"
 ---
 
 # § 9421. Space Force officer training course requirements
 
 The Secretary of the Air Force shall ensure that—
 
-  (1) the initial Space Force officer training course provides foundational instruction in acquisition management, space mission integration, and related disciplines; and
-  (2) the curriculum for such course is developed by the Commander of Space Training and Readiness Command, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Director of Acquisition Career Management.
+  - **(1)** the initial Space Force officer training course provides foundational instruction in acquisition management, space mission integration, and related disciplines; and
+  - **(2)** the curriculum for such course is developed by the Commander of Space Training and Readiness Command, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Director of Acquisition Career Management.

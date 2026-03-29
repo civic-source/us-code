@@ -5,7 +5,7 @@ usc_section: "1723h"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1723h"
-generated_at: "2026-03-29T00:29:16.628Z"
+generated_at: "2026-03-29T02:11:20.985Z"
 ---
 
 # §§ 1723g, 1723h. Repealed. Pub. L. 102–550, title IX, § 912(i)(2) , Oct. 28, 1992 , 106 Stat. 3876

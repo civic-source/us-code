@@ -5,7 +5,7 @@ usc_section: "12571"
 chapter: 121
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 12571"
-generated_at: "2026-03-29T00:32:01.635Z"
+generated_at: "2026-03-29T02:14:25.330Z"
 ---
 
 # § 12571. Definitions

@@ -5,7 +5,7 @@ usc_section: "664"
 chapter: 5
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 664"
-generated_at: "2026-03-29T00:29:52.588Z"
+generated_at: "2026-03-29T02:11:53.627Z"
 ---
 
 # § 664. Administration; rules and regulations; availability of lands to State agencies

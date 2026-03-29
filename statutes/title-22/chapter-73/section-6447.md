@@ -5,18 +5,18 @@ usc_section: "6447"
 chapter: 73
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6447"
-generated_at: "2026-03-29T00:30:33.968Z"
+generated_at: "2026-03-29T02:12:40.391Z"
 ---
 
 # § 6447. Presidential waiver
 
-(a) Subject to subsection (c), the President may waive, for a single, 180-day period, the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
-  (1) the exercise of such waiver authority would further the purposes of this chapter; or
-  (2) the important national interest of the United States requires the exercise of such waiver authority.
-(b) Subject to subsection (c), the President may waive, for any additional specified period of time after the 180-day period described in subsection (a), the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or a commensurate substitute action) with respect to a country, if the President determines and reports to the appropriate congressional committees that—
-  (1) the respective foreign government has ceased the violations giving rise to the Presidential action; or
-  (2) the important national interest of the United States requires the exercise of such waiver authority.
-(c) Not later than the date of the exercise of a waiver under subsection (a) or (b), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
-(d) It is the sense of Congress that—
-  (1) ongoing and persistent waivers of the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate substitute action) with respect to a country do not fulfill the purposes of this chapter; and
-  (2) because the promotion of religious freedom is an important interest of United States foreign policy, the President, the Secretary of State, and other executive branch officials, in consultation with Congress, should seek to find ways to address existing violations, on a case-by-case basis, through the actions described in section 6445 of this title or other commensurate substitute action.
+- **(a)** Subject to subsection (c), the President may waive, for a single, 180-day period, the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
+  - **(1)** the exercise of such waiver authority would further the purposes of this chapter; or
+  - **(2)** the important national interest of the United States requires the exercise of such waiver authority.
+- **(b)** Subject to subsection (c), the President may waive, for any additional specified period of time after the 180-day period described in subsection (a), the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or a commensurate substitute action) with respect to a country, if the President determines and reports to the appropriate congressional committees that—
+  - **(1)** the respective foreign government has ceased the violations giving rise to the Presidential action; or
+  - **(2)** the important national interest of the United States requires the exercise of such waiver authority.
+- **(c)** Not later than the date of the exercise of a waiver under subsection (a) or (b), the President shall notify the appropriate congressional committees of the waiver or the intention to exercise the waiver, together with a detailed justification thereof.
+- **(d)** It is the sense of Congress that—
+  - **(1)** ongoing and persistent waivers of the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate substitute action) with respect to a country do not fulfill the purposes of this chapter; and
+  - **(2)** because the promotion of religious freedom is an important interest of United States foreign policy, the President, the Secretary of State, and other executive branch officials, in consultation with Congress, should seek to find ways to address existing violations, on a case-by-case basis, through the actions described in section 6445 of this title or other commensurate substitute action.

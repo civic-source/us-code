@@ -5,7 +5,7 @@ usc_section: "871a"
 chapter: 20
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 871a"
-generated_at: "2026-03-29T00:32:57.388Z"
+generated_at: "2026-03-29T02:15:47.576Z"
 ---
 
 # § 871a. Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 21, 1976 , 90 Stat. 2792

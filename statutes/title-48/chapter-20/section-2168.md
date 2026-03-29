@@ -5,10 +5,10 @@ usc_section: "2168"
 chapter: 20
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 2168"
-generated_at: "2026-03-29T00:33:06.680Z"
+generated_at: "2026-03-29T02:16:00.852Z"
 ---
 
 # § 2168. Selection of presiding judge
 
-(a) For cases in which the debtor is a territory, the Chief Justice of the United States shall designate a district court judge to sit by designation to conduct the case.
-(b) For cases in which the debtor is not a territory, and no motion for joint administration of the debtor’s case with the case of its affiliate territory has been filed or there is no case in which the affiliate territory is a debtor, the chief judge of the court of appeals for the circuit embracing the district in which the case is commenced shall designate a district court judge to conduct the case.
+- **(a)** For cases in which the debtor is a territory, the Chief Justice of the United States shall designate a district court judge to sit by designation to conduct the case.
+- **(b)** For cases in which the debtor is not a territory, and no motion for joint administration of the debtor’s case with the case of its affiliate territory has been filed or there is no case in which the affiliate territory is a debtor, the chief judge of the court of appeals for the circuit embracing the district in which the case is commenced shall designate a district court judge to conduct the case.

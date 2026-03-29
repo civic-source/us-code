@@ -5,7 +5,7 @@ usc_section: "5208"
 chapter: 45
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 5208"
-generated_at: "2026-03-29T00:30:38.790Z"
+generated_at: "2026-03-29T02:13:21.003Z"
 ---
 
 # § 5208. Application of provisions to Osage County

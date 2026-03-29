@@ -5,7 +5,7 @@ usc_section: "1715f"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1715f"
-generated_at: "2026-03-29T00:29:16.591Z"
+generated_at: "2026-03-29T02:11:20.946Z"
 ---
 
 # § 1715f. Process of applications and issuance of commitments

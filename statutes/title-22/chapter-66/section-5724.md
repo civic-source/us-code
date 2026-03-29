@@ -5,7 +5,7 @@ usc_section: "5724"
 chapter: 66
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 5724"
-generated_at: "2026-03-29T00:30:33.946Z"
+generated_at: "2026-03-29T02:12:40.363Z"
 ---
 
 # § 5724. Consultation with Congress

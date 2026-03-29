@@ -5,12 +5,12 @@ usc_section: "2296f"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2296f"
-generated_at: "2026-03-29T00:30:33.784Z"
+generated_at: "2026-03-29T02:12:40.057Z"
 ---
 
 # § 2296f. Definitions
 
 In this part:
 
-  (1) The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
-  (2) The term “countries of the South Caucasus and Central Asia” means Armenia, Azerbaijan, Georgia, Kazakstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
+  - **(1)** The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+  - **(2)** The term “countries of the South Caucasus and Central Asia” means Armenia, Azerbaijan, Georgia, Kazakstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.

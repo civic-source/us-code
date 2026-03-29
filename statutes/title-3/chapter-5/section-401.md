@@ -5,21 +5,21 @@ usc_section: "401"
 chapter: 5
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 401"
-generated_at: "2026-03-29T00:06:12.115Z"
+generated_at: "2026-03-29T02:09:54.803Z"
 ---
 
 # § 401. Definitions
 
-(a) Except as otherwise specifically provided in this chapter, as used in this chapter:
-  (1) The term “Board” means the Merit Systems Protection Board under chapter 12 of title 5.
-  (2) The term “covered employee” means any employee of an employing office.
-  (3) The term “employee” includes an applicant for employment and a former employee.
-  (4) The term “employing office” means—
-    (A) each office, agency, or other component of the Executive Office of the President;
-    (B) the Executive Residence at the White House; and
-    (C) the official residence (temporary or otherwise) of the Vice President.
-(b) For purposes of applying this chapter with respect to any practice or other matter—
-  (1) to which section 411 relates, the terms “employing office” and “covered employee” shall each be considered to have the meaning given to the term by such section;
-  (2) to which section 412 relates, the term “covered employee” means a covered employee described in section 412(a)(2)(B);
-  (3) to which section 413 relates, the term “covered employee” excludes interns and volunteers, as described in section 413(a)(2); and
-  (4) to which section 416 relates, the term “covered employee” means a covered employee described in section 416(a)(2).
+- **(a)** Except as otherwise specifically provided in this chapter, as used in this chapter:
+  - **(1)** The term “Board” means the Merit Systems Protection Board under chapter 12 of title 5.
+  - **(2)** The term “covered employee” means any employee of an employing office.
+  - **(3)** The term “employee” includes an applicant for employment and a former employee.
+  - **(4)** The term “employing office” means—
+    - **(A)** each office, agency, or other component of the Executive Office of the President;
+    - **(B)** the Executive Residence at the White House; and
+    - **(C)** the official residence (temporary or otherwise) of the Vice President.
+- **(b)** For purposes of applying this chapter with respect to any practice or other matter—
+  - **(1)** to which section 411 relates, the terms “employing office” and “covered employee” shall each be considered to have the meaning given to the term by such section;
+  - **(2)** to which section 412 relates, the term “covered employee” means a covered employee described in section 412(a)(2)(B);
+  - **(3)** to which section 413 relates, the term “covered employee” excludes interns and volunteers, as described in section 413(a)(2); and
+  - **(4)** to which section 416 relates, the term “covered employee” means a covered employee described in section 416(a)(2).

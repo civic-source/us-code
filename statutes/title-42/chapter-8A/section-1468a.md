@@ -5,7 +5,7 @@ usc_section: "1468a"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1468a"
-generated_at: "2026-03-29T00:32:53.643Z"
+generated_at: "2026-03-29T02:15:36.455Z"
 ---
 
 # §§ 1467 to 1468a. Omitted

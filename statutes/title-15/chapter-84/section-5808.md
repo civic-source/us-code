@@ -5,7 +5,7 @@ usc_section: "5808"
 chapter: 84
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5808"
-generated_at: "2026-03-29T00:29:41.882Z"
+generated_at: "2026-03-29T02:11:34.386Z"
 ---
 
 # §§ 5805 to 5808. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

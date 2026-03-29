@@ -5,12 +5,12 @@ usc_section: "1463"
 chapter: 3
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1463"
-generated_at: "2026-03-29T00:31:20.897Z"
+generated_at: "2026-03-29T02:14:01.154Z"
 ---
 
 # § 1463. Tax paid by recipient of income
 
 If—
 
-  (1) any person, in violation of the provisions of this chapter, fails to deduct and withhold any tax under this chapter, and
-  (2) thereafter the tax against which such tax may be credited is paid,
+  - **(1)** any person, in violation of the provisions of this chapter, fails to deduct and withhold any tax under this chapter, and
+  - **(2)** thereafter the tax against which such tax may be credited is paid,

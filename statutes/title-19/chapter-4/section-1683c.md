@@ -5,10 +5,10 @@ usc_section: "1683c"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1683c"
-generated_at: "2026-03-29T00:30:20.194Z"
+generated_at: "2026-03-29T02:12:08.662Z"
 ---
 
 # § 1683c. Export charge determination and publication
 
-(a) The Under Secretary for International Trade of the Department of Commerce shall determine, on a monthly basis, any export charges (expressed as a percentage of export price) to be collected by a country of export from exporters of softwood lumber or softwood lumber products described in section 1683b(a) of this title in order to ensure compliance with any international agreement entered into by that country and the United States.
-(b) The Under Secretary for International Trade shall immediately publish any determination made under subsection (a) on the website of the International Trade Administration of the Department of Commerce, and in any other manner the Under Secretary considers appropriate.
+- **(a)** The Under Secretary for International Trade of the Department of Commerce shall determine, on a monthly basis, any export charges (expressed as a percentage of export price) to be collected by a country of export from exporters of softwood lumber or softwood lumber products described in section 1683b(a) of this title in order to ensure compliance with any international agreement entered into by that country and the United States.
+- **(b)** The Under Secretary for International Trade shall immediately publish any determination made under subsection (a) on the website of the International Trade Administration of the Department of Commerce, and in any other manner the Under Secretary considers appropriate.

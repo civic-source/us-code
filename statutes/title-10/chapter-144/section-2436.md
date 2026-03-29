@@ -5,7 +5,7 @@ usc_section: "2436"
 chapter: 144
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2436"
-generated_at: "2026-03-29T00:20:53.049Z"
+generated_at: "2026-03-29T02:10:45.102Z"
 ---
 
 # [§ 2436. Renumbered § 4293]

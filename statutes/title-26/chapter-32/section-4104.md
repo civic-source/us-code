@@ -5,13 +5,13 @@ usc_section: "4104"
 chapter: 32
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4104"
-generated_at: "2026-03-29T00:31:20.944Z"
+generated_at: "2026-03-29T02:14:01.207Z"
 ---
 
 # § 4104. Information reporting for persons claiming certain tax benefits
 
-(a) The Secretary shall require any person claiming tax benefits—
-  (1) under the provisions of sections 34, 40, and 40A, to file a return at the time such person claims such benefits (in such manner as the Secretary may prescribe), and
-  (2) under the provisions of section 4041(b)(2), 6426, or 6427(e) to file a quarterly return (in such manner as the Secretary may prescribe).
-(b) Any return filed under this section shall provide such information relating to such benefits and the coordination of such benefits as the Secretary may require to ensure the proper administration and use of such benefits.
-(c) With respect to any person described in subsection (a) and subject to registration requirements under this title, rules similar to rules of section 4222(c) shall apply with respect to any requirement under this section.
+- **(a)** The Secretary shall require any person claiming tax benefits—
+  - **(1)** under the provisions of sections 34, 40, and 40A, to file a return at the time such person claims such benefits (in such manner as the Secretary may prescribe), and
+  - **(2)** under the provisions of section 4041(b)(2), 6426, or 6427(e) to file a quarterly return (in such manner as the Secretary may prescribe).
+- **(b)** Any return filed under this section shall provide such information relating to such benefits and the coordination of such benefits as the Secretary may require to ensure the proper administration and use of such benefits.
+- **(c)** With respect to any person described in subsection (a) and subject to registration requirements under this title, rules similar to rules of section 4222(c) shall apply with respect to any requirement under this section.

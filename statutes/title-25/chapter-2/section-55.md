@@ -5,7 +5,7 @@ usc_section: "55"
 chapter: 2
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 55"
-generated_at: "2026-03-29T00:30:38.612Z"
+generated_at: "2026-03-29T02:13:20.835Z"
 ---
 
 # §§ 54, 55. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 632 , 634

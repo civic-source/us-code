@@ -5,13 +5,13 @@ usc_section: "30101"
 chapter: 301
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 30101"
-generated_at: "2026-03-29T00:33:02.901Z"
+generated_at: "2026-03-29T02:15:53.744Z"
 ---
 
 # § 30101. Extension of jurisdiction to cases of damage or injury on land
 
-(a) The admiralty and maritime jurisdiction of the United States extends to and includes cases of injury or damage, to person or property, caused by a vessel on navigable waters, even though the injury or damage is done or consummated on land.
-(b) A civil action in a case under subsection (a) may be brought in rem or in personam according to the principles of law and the rules of practice applicable in cases where the injury or damage has been done and consummated on navigable waters.
-(c) 
-  (1) In a civil action against the United States for injury or damage done or consummated on land by a vessel on navigable waters, chapter 309 or 311 of this title, as appropriate, provides the exclusive remedy.
-  (2) A civil action described in paragraph (1) may not be brought until the expiration of the 6-month period after the claim has been presented in writing to the agency owning or operating the vessel causing the injury or damage.
+- **(a)** The admiralty and maritime jurisdiction of the United States extends to and includes cases of injury or damage, to person or property, caused by a vessel on navigable waters, even though the injury or damage is done or consummated on land.
+- **(b)** A civil action in a case under subsection (a) may be brought in rem or in personam according to the principles of law and the rules of practice applicable in cases where the injury or damage has been done and consummated on navigable waters.
+- **(c)**
+  - **(1)** In a civil action against the United States for injury or damage done or consummated on land by a vessel on navigable waters, chapter 309 or 311 of this title, as appropriate, provides the exclusive remedy.
+  - **(2)** A civil action described in paragraph (1) may not be brought until the expiration of the 6-month period after the claim has been presented in writing to the agency owning or operating the vessel causing the injury or damage.

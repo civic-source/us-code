@@ -5,21 +5,21 @@ usc_section: "12617"
 chapter: 129
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12617"
-generated_at: "2026-03-29T00:32:54.273Z"
+generated_at: "2026-03-29T02:15:37.207Z"
 ---
 
 # § 12617. Service projects
 
-(a) The service projects carried out by the National Civilian Community Corps shall—
-  (1) meet an identifiable public need, with specific emphasis on projects in support of infrastructure improvement, energy conservation, and urban and rural development;
-  (2) emphasize the performance of community service activities that provide meaningful community benefits and opportunities for service-learning and skills development;
-  (3) to the maximum extent practicable, encourage work to be accomplished in teams of diverse individuals working together; and
-  (4) include continued education and training in various technical fields.
-(b) 
-  (1) 
-    (A) Upon the establishment of the Program, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
-    (B) Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corps campus. Corps members shall also be encouraged to identify projects for the Corps.
-  (2) The process for developing project proposals under paragraph (1) shall include consultation with the Corporation, representatives of local communities, State Commissions, and persons involved in other youth service programs.
-(c) 
-  (1) The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b).
-  (2) The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.
+- **(a)** The service projects carried out by the National Civilian Community Corps shall—
+  - **(1)** meet an identifiable public need, with specific emphasis on projects in support of infrastructure improvement, energy conservation, and urban and rural development;
+  - **(2)** emphasize the performance of community service activities that provide meaningful community benefits and opportunities for service-learning and skills development;
+  - **(3)** to the maximum extent practicable, encourage work to be accomplished in teams of diverse individuals working together; and
+  - **(4)** include continued education and training in various technical fields.
+- **(b)**
+  - **(1)**
+    - **(A)** Upon the establishment of the Program, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Administrator of the Environmental Protection Agency, the Administrator of the Federal Emergency Management Agency, the Secretary of Energy, the Secretary of Transportation, and the Chief of the Forest Service shall develop proposals for Corps projects pursuant to guidance which the Director shall prescribe.
+    - **(B)** Other public and private organizations and agencies, including community-based entities and representatives of local communities in the vicinity of a Corps campus, may develop proposals for projects for a Corps campus. Corps members shall also be encouraged to identify projects for the Corps.
+  - **(2)** The process for developing project proposals under paragraph (1) shall include consultation with the Corporation, representatives of local communities, State Commissions, and persons involved in other youth service programs.
+- **(c)**
+  - **(1)** The campus director of a Corps campus shall select the projects to be performed by the members of the Corps assigned to the units in that campus. The campus director shall select projects from among the projects proposed or identified pursuant to subsection (b).
+  - **(2)** The Director shall encourage campus directors to negotiate with representatives of local communities, to the extent practicable, innovative arrangements for the performance of projects. The arrangements may provide for cost-sharing and the provision by the communities of in-kind support and other support.

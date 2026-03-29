@@ -5,7 +5,7 @@ usc_section: "92"
 chapter: 5
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 92"
-generated_at: "2026-03-29T00:07:03.109Z"
+generated_at: "2026-03-29T02:12:17.149Z"
 ---
 
 # § 92. Admissions to marine biological station for pursuit of investigations

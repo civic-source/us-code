@@ -5,7 +5,7 @@ usc_section: "1109"
 chapter: 22
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1109"
-generated_at: "2026-03-29T00:06:10.945Z"
+generated_at: "2026-03-29T02:09:53.709Z"
 ---
 
 # § 1109. Authorization for appropriations

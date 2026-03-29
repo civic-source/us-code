@@ -1,0 +1,20 @@
+---
+title: "Section 70703 - Governing body"
+usc_title: 36
+usc_section: "70703"
+chapter: 707
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 70703"
+generated_at: "2026-03-29T02:14:41.353Z"
+---
+
+# § 70703. Governing body
+
+- **(a)**
+  - **(1)** The board of trustees is the governing body of the corporation. The board shall exercise the powers granted to the corporation.
+  - **(2)** The board shall consist of at least 9 but not more than 19 members. A vacancy on the board shall be filled by decision of the remaining members of the board.
+  - **(3)** The board shall adopt a seal under which all acts of the corporation shall be passed and authenticated.
+- **(b)**
+  - **(1)** The board shall elect officers the board considers necessary, including a treasurer, for the term and at the compensation the board decides, as provided in the bylaws.
+  - **(2)** The treasurer shall give a bond as provided in the bylaws.
+  - **(3)** The board may remove an officer, employee, or agent of the corporation for a cause provided in the bylaws.

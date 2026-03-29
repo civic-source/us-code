@@ -5,7 +5,7 @@ usc_section: "3042"
 chapter: 31
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3042"
-generated_at: "2026-03-29T00:29:16.775Z"
+generated_at: "2026-03-29T02:11:21.157Z"
 ---
 
 # § 3042. Authorization of appropriations for advances; deposits into separate Account in Bank; availability of amounts

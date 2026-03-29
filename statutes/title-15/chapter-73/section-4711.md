@@ -5,7 +5,7 @@ usc_section: "4711"
 chapter: 73
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4711"
-generated_at: "2026-03-29T00:29:41.867Z"
+generated_at: "2026-03-29T02:11:34.371Z"
 ---
 
 # § 4711. Repealed. Pub. L. 107–228, div. A, title VI, § 671(1) , Sept. 30, 2002 , 116 Stat. 1407

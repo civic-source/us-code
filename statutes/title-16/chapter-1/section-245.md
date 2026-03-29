@@ -5,7 +5,7 @@ usc_section: "245"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 245"
-generated_at: "2026-03-29T00:29:52.329Z"
+generated_at: "2026-03-29T02:11:53.357Z"
 ---
 
 # § 245. Administration, protection, and development

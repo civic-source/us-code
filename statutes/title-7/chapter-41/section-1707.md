@@ -5,7 +5,7 @@ usc_section: "1707"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1707"
-generated_at: "2026-03-29T00:28:58.044Z"
+generated_at: "2026-03-29T02:10:16.846Z"
 ---
 
 # § 1707. Omitted

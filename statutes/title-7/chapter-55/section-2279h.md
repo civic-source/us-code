@@ -5,7 +5,7 @@ usc_section: "2279h"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2279h"
-generated_at: "2026-03-29T00:28:58.140Z"
+generated_at: "2026-03-29T02:10:16.962Z"
 ---
 
 # § 2279h. Cross-servicing activities of National Finance Center

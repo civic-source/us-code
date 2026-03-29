@@ -5,7 +5,7 @@ usc_section: "216"
 chapter: 9
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 216"
-generated_at: "2026-03-29T00:28:57.917Z"
+generated_at: "2026-03-29T02:10:16.710Z"
 ---
 
 # § 216. Proceedings to enforce orders; injunction

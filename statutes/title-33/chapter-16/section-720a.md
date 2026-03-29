@@ -5,7 +5,7 @@ usc_section: "720a"
 chapter: 16
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 720a"
-generated_at: "2026-03-29T00:31:57.249Z"
+generated_at: "2026-03-29T02:14:18.518Z"
 ---
 
 # §§ 720, 720a. Repealed. Aug. 4, 1949, ch. 393, § 20 , 63 Stat. 561

@@ -5,19 +5,19 @@ usc_section: "6283"
 chapter: 77
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6283"
-generated_at: "2026-03-29T00:32:53.947Z"
+generated_at: "2026-03-29T02:15:36.797Z"
 ---
 
 # § 6283. Summer fill and fuel budgeting programs
 
-(a) In this section:
-  (1) The term “budget contract” means a contract between a retailer and a consumer under which the heating expenses of the consumer are spread evenly over a period of months.
-  (2) The term “fixed-price contract” means a contract between a retailer and a consumer under which the retailer charges the consumer a set price for propane, kerosene, or heating oil without regard to market price fluctuations.
-  (3) The term “price cap contract” means a contract between a retailer and a consumer under which the retailer charges the consumer the market price for propane, kerosene, or heating oil, but the cost of the propane, kerosene, or heating oil may exceed a maximum amount stated in the contract.
-(b) At the request of the chief executive officer of a State, the Secretary shall provide information, technical assistance, and funding—
-  (1) to develop education and outreach programs to encourage consumers to fill their storage facilities for propane, kerosene, and heating oil during the summer months; and
-  (2) to promote the use of budget contracts, price cap contracts, fixed-price contracts, and other advantageous financial arrangements,
-(c) In implementing this section, the Secretary shall give preference to States that contribute public funds or leverage private funds to develop State summer fill and fuel budgeting programs.
-(d) There are authorized to be appropriated to carry out this section—
-  (1) $25,000,000 for fiscal year 2001; and
-  (2) such sums as are necessary for each fiscal year thereafter.
+- **(a)** In this section:
+  - **(1)** The term “budget contract” means a contract between a retailer and a consumer under which the heating expenses of the consumer are spread evenly over a period of months.
+  - **(2)** The term “fixed-price contract” means a contract between a retailer and a consumer under which the retailer charges the consumer a set price for propane, kerosene, or heating oil without regard to market price fluctuations.
+  - **(3)** The term “price cap contract” means a contract between a retailer and a consumer under which the retailer charges the consumer the market price for propane, kerosene, or heating oil, but the cost of the propane, kerosene, or heating oil may exceed a maximum amount stated in the contract.
+- **(b)** At the request of the chief executive officer of a State, the Secretary shall provide information, technical assistance, and funding—
+  - **(1)** to develop education and outreach programs to encourage consumers to fill their storage facilities for propane, kerosene, and heating oil during the summer months; and
+  - **(2)** to promote the use of budget contracts, price cap contracts, fixed-price contracts, and other advantageous financial arrangements,
+- **(c)** In implementing this section, the Secretary shall give preference to States that contribute public funds or leverage private funds to develop State summer fill and fuel budgeting programs.
+- **(d)** There are authorized to be appropriated to carry out this section—
+  - **(1)** $25,000,000 for fiscal year 2001; and
+  - **(2)** such sums as are necessary for each fiscal year thereafter.

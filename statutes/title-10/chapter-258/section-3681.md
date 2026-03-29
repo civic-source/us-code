@@ -5,7 +5,7 @@ usc_section: "3681"
 chapter: 258
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3681"
-generated_at: "2026-03-29T00:20:53.127Z"
+generated_at: "2026-03-29T02:10:45.193Z"
 ---
 
 # § 3681. Leasing of commercial vehicles and equipment

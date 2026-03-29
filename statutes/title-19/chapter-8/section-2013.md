@@ -5,10 +5,10 @@ usc_section: "2013"
 chapter: 8
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2013"
-generated_at: "2026-03-29T00:30:20.200Z"
+generated_at: "2026-03-29T02:12:08.667Z"
 ---
 
 # § 2013. Effective date of proclamations
 
-(a) Subject to subsection (b), the President is authorized, notwithstanding section 1514 of this title or any other provision of law, to give retroactive effect to any proclamation issued pursuant to section 2011 of this title as of the earliest date after January 17, 1965 , which he determines to be practicable.
-(b) In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.
+- **(a)** Subject to subsection (b), the President is authorized, notwithstanding section 1514 of this title or any other provision of law, to give retroactive effect to any proclamation issued pursuant to section 2011 of this title as of the earliest date after January 17, 1965 , which he determines to be practicable.
+- **(b)** In the case of liquidated customs entries, the retroactive effect pursuant to subsection (a) of any proclamation shall apply only upon request therefor filed with the customs officer concerned on or before the 90th day after the date of such proclamation and subject to such other conditions as the President may specify.

@@ -5,7 +5,7 @@ usc_section: "605a"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 605a"
-generated_at: "2026-03-29T00:06:10.918Z"
+generated_at: "2026-03-29T02:09:53.679Z"
 ---
 
 # § 605a. Contracting parity

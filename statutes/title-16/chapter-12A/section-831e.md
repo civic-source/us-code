@@ -5,7 +5,7 @@ usc_section: "831e"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 831e"
-generated_at: "2026-03-29T00:29:52.651Z"
+generated_at: "2026-03-29T02:11:53.698Z"
 ---
 
 # § 831e. Officers and employees; nonpolitical appointment; removal for violation

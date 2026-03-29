@@ -5,7 +5,7 @@ usc_section: "4011"
 chapter: 66
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 4011"
-generated_at: "2026-03-29T00:29:41.852Z"
+generated_at: "2026-03-29T02:11:34.357Z"
 ---
 
 # § 4011. Export trade promotion duties of Secretary of Commerce

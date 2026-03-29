@@ -5,7 +5,7 @@ usc_section: "139A"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 139A"
-generated_at: "2026-03-29T00:31:20.628Z"
+generated_at: "2026-03-29T02:14:00.804Z"
 ---
 
 # § 139A. Federal subsidies for prescription drug plans

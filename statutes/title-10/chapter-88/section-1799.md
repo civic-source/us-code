@@ -5,14 +5,14 @@ usc_section: "1799"
 chapter: 88
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1799"
-generated_at: "2026-03-29T00:20:53.009Z"
+generated_at: "2026-03-29T02:10:45.051Z"
 ---
 
 # § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible
 
-(a) The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 who are not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
-(b) Authorization of participation in a program under subsection (a) shall be limited to situations in which that participation promotes the attainment of the objectives set forth in subsection (c), as determined by the Secretary.
-(c) The objectives for authorizing participation in a program under subsection (a) are as follows:
-  (1) To support the integration of children and youth of military families into civilian communities.
-  (2) To make more efficient use of Department of Defense facilities and resources.
-  (3) To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
+- **(a)** The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 who are not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
+- **(b)** Authorization of participation in a program under subsection (a) shall be limited to situations in which that participation promotes the attainment of the objectives set forth in subsection (c), as determined by the Secretary.
+- **(c)** The objectives for authorizing participation in a program under subsection (a) are as follows:
+  - **(1)** To support the integration of children and youth of military families into civilian communities.
+  - **(2)** To make more efficient use of Department of Defense facilities and resources.
+  - **(3)** To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.

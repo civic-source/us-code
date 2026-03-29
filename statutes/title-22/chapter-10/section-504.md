@@ -5,10 +5,10 @@ usc_section: "504"
 chapter: 10
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 504"
-generated_at: "2026-03-29T00:30:33.710Z"
+generated_at: "2026-03-29T02:12:39.983Z"
 ---
 
 # § 504. Transfer of hemisphere territory from one non-American power to another; recognition; consultation with American Republics
 
-  (1) The United States would not recognize any transfer, and would not acquiesce in any attempt to transfer, any geographic region of this hemisphere from one non-American power to another non-American power; and
-  (2) If such transfer or attempt to transfer should appear likely, the United States shall, in addition to other measures, immediately consult with the other American republics to determine upon the steps which should be taken to safeguard their common interests.
+  - **(1)** The United States would not recognize any transfer, and would not acquiesce in any attempt to transfer, any geographic region of this hemisphere from one non-American power to another non-American power; and
+  - **(2)** If such transfer or attempt to transfer should appear likely, the United States shall, in addition to other measures, immediately consult with the other American republics to determine upon the steps which should be taken to safeguard their common interests.

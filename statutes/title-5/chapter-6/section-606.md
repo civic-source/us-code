@@ -5,7 +5,7 @@ usc_section: "606"
 chapter: 6
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 606"
-generated_at: "2026-03-29T00:28:38.286Z"
+generated_at: "2026-03-29T02:10:01.791Z"
 ---
 
 # § 606. Effect on other law

@@ -5,7 +5,7 @@ usc_section: "4665"
 chapter: 58
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 4665"
-generated_at: "2026-03-29T00:07:03.177Z"
+generated_at: "2026-03-29T02:12:17.415Z"
 ---
 
 # § 4665. Transferred

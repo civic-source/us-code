@@ -5,7 +5,7 @@ usc_section: "3699D"
 chapter: 36
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3699D"
-generated_at: "2026-03-29T00:32:17.279Z"
+generated_at: "2026-03-29T02:14:50.426Z"
 ---
 
 # § 3699D. Notice of changes to policies and guidance relating to educational assistance programs

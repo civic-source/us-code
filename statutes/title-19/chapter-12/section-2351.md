@@ -5,7 +5,7 @@ usc_section: "2351"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2351"
-generated_at: "2026-03-29T00:30:20.221Z"
+generated_at: "2026-03-29T02:12:08.689Z"
 ---
 
 # § 2351. Definitions

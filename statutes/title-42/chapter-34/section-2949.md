@@ -5,7 +5,7 @@ usc_section: "2949"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2949"
-generated_at: "2026-03-29T00:32:53.789Z"
+generated_at: "2026-03-29T02:15:36.622Z"
 ---
 
 # § 2949. Repealed. Pub. L. 93–644, § 9(c)(6) , Jan. 4, 1975 , 88 Stat. 2314

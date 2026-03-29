@@ -5,25 +5,25 @@ usc_section: "3319i"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3319i"
-generated_at: "2026-03-29T00:28:58.177Z"
+generated_at: "2026-03-29T02:10:17.000Z"
 ---
 
 # § 3319i. Capacity building grants for NLGCA Institutions
 
-(a) 
-  (1) The Secretary shall make competitive grants to NLGCA Institutions to assist the NLGCA Institutions in maintaining and expanding the capacity of the NLGCA Institutions to conduct education, research, and outreach activities relating to—
-    (A) agriculture;
-    (B) renewable resources; and
-    (C) other similar disciplines.
-  (2) An NLGCA Institution that receives a grant under paragraph (1) may use the funds made available through the grant to maintain and expand the capacity of the NLGCA Institution—
-    (A) to successfully compete for funds from Federal grants and other sources to carry out educational, research, and outreach activities that address priority concerns of national, regional, State, and local interest;
-    (B) to disseminate information relating to priority concerns to—
-      (i) interested members of the agriculture, renewable resources, and other relevant communities;
-      (ii) the public; and
-      (iii) any other interested entity;
-    (C) to encourage members of the agriculture, renewable resources, and other relevant communities to participate in priority education, research, and outreach activities by providing matching funding to leverage grant funds; and
-    (D) through—
-      (i) the purchase or other acquisition of equipment and other infrastructure (not including alteration, repair, renovation, or construction of buildings);
-      (ii) the professional growth and development of the faculty of the NLGCA Institution; and
-      (iii) the development of graduate assistantships.
-(b) There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2023.
+- **(a)**
+  - **(1)** The Secretary shall make competitive grants to NLGCA Institutions to assist the NLGCA Institutions in maintaining and expanding the capacity of the NLGCA Institutions to conduct education, research, and outreach activities relating to—
+    - **(A)** agriculture;
+    - **(B)** renewable resources; and
+    - **(C)** other similar disciplines.
+  - **(2)** An NLGCA Institution that receives a grant under paragraph (1) may use the funds made available through the grant to maintain and expand the capacity of the NLGCA Institution—
+    - **(A)** to successfully compete for funds from Federal grants and other sources to carry out educational, research, and outreach activities that address priority concerns of national, regional, State, and local interest;
+    - **(B)** to disseminate information relating to priority concerns to—
+      - **(i)** interested members of the agriculture, renewable resources, and other relevant communities;
+      - **(ii)** the public; and
+      - **(iii)** any other interested entity;
+    - **(C)** to encourage members of the agriculture, renewable resources, and other relevant communities to participate in priority education, research, and outreach activities by providing matching funding to leverage grant funds; and
+    - **(D)** through—
+      - **(i)** the purchase or other acquisition of equipment and other infrastructure (not including alteration, repair, renovation, or construction of buildings);
+      - **(ii)** the professional growth and development of the faculty of the NLGCA Institution; and
+      - **(iii)** the development of graduate assistantships.
+- **(b)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2008 through 2023.

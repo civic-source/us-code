@@ -5,7 +5,7 @@ usc_section: "824n"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 824n"
-generated_at: "2026-03-29T00:29:52.644Z"
+generated_at: "2026-03-29T02:11:53.687Z"
 ---
 
 # § 824n. Repealed. Pub. L. 109–58, title XII, § 1232(e)(3) , Aug. 8, 2005 , 119 Stat. 957

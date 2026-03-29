@@ -5,13 +5,13 @@ usc_section: "2945"
 chapter: 29
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2945"
-generated_at: "2026-03-29T00:29:25.034Z"
+generated_at: "2026-03-29T02:11:23.809Z"
 ---
 
 # § 2945. Conveyance of real property
 
-(a) Notwithstanding any other provision of law, the Secretary may convey, at fair market value, real property, owned or under the administrative control of the Coast Guard, for the purpose of expending the proceeds from such conveyance to acquire and construct military family housing and military unaccompanied housing.
-(b) 
-  (1) The conveyance of real property under this section shall be by sale, for cash. The Secretary shall deposit the proceeds from the sale in the Coast Guard Housing Fund established under section 2946 of this title , for the purpose of expending such proceeds to acquire and construct military family housing and military unaccompanied housing.
-  (2) The conveyance of real property under this section shall not diminish the mission capacity of the Coast Guard, but further the mission support capability of the Coast Guard with regard to military family housing or military unaccompanied housing.
-(c) This section does not affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9620(h) ).
+- **(a)** Notwithstanding any other provision of law, the Secretary may convey, at fair market value, real property, owned or under the administrative control of the Coast Guard, for the purpose of expending the proceeds from such conveyance to acquire and construct military family housing and military unaccompanied housing.
+- **(b)**
+  - **(1)** The conveyance of real property under this section shall be by sale, for cash. The Secretary shall deposit the proceeds from the sale in the Coast Guard Housing Fund established under section 2946 of this title , for the purpose of expending such proceeds to acquire and construct military family housing and military unaccompanied housing.
+  - **(2)** The conveyance of real property under this section shall not diminish the mission capacity of the Coast Guard, but further the mission support capability of the Coast Guard with regard to military family housing or military unaccompanied housing.
+- **(c)** This section does not affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9620(h) ).

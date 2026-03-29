@@ -5,7 +5,7 @@ usc_section: "5206"
 chapter: 78
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5206"
-generated_at: "2026-03-29T00:29:41.874Z"
+generated_at: "2026-03-29T02:11:34.379Z"
 ---
 
 # § 5206. National Aeronautics and Space Administration

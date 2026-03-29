@@ -5,7 +5,7 @@ usc_section: "423a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 423a"
-generated_at: "2026-03-29T00:32:57.346Z"
+generated_at: "2026-03-29T02:15:47.543Z"
 ---
 
 # § 423a. Construction charges on permanently unproductive lands already paid; disposition

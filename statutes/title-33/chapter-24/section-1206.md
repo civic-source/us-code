@@ -5,7 +5,7 @@ usc_section: "1206"
 chapter: 24
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1206"
-generated_at: "2026-03-29T00:31:57.291Z"
+generated_at: "2026-03-29T02:14:18.537Z"
 ---
 
 # § 1206. Exemptions; terms and conditions

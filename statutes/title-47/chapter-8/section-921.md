@@ -5,13 +5,13 @@ usc_section: "921"
 chapter: 8
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 921"
-generated_at: "2026-03-29T00:33:04.942Z"
+generated_at: "2026-03-29T02:15:59.259Z"
 ---
 
 # § 921. Definitions
 
 As used in this subchapter:
 
-  (1) The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
-  (2) The term “assignment” means an authorization given to a station licensee to use specific frequencies or channels.
-  (3) The term “the 1934 Act” means the Communications Act of 1934 ( 47 U.S.C. 151 et seq.).
+  - **(1)** The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
+  - **(2)** The term “assignment” means an authorization given to a station licensee to use specific frequencies or channels.
+  - **(3)** The term “the 1934 Act” means the Communications Act of 1934 ( 47 U.S.C. 151 et seq.).

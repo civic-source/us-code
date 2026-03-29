@@ -5,7 +5,7 @@ usc_section: "192a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 192a"
-generated_at: "2026-03-29T00:29:41.558Z"
+generated_at: "2026-03-29T02:11:34.000Z"
 ---
 
 # §§ 192, 192a. Repealed. Pub. L. 91–412, § 3(a) , (b), Sept. 25, 1970 , 84 Stat. 864

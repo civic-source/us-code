@@ -5,7 +5,7 @@ usc_section: "142a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 142a"
-generated_at: "2026-03-29T00:06:10.886Z"
+generated_at: "2026-03-29T02:09:53.646Z"
 ---
 
 # § 142a. Office of administrative assistant and disbursing officer in Library of Congress abolished; transfer of duties to appointee of Librarian

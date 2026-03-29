@@ -5,18 +5,18 @@ usc_section: "7384v"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7384v"
-generated_at: "2026-03-29T00:32:54.028Z"
+generated_at: "2026-03-29T02:15:36.900Z"
 ---
 
 # § 7384v. Assistance for claimants and potential claimants
 
-(a) The President shall, upon the receipt of a request for assistance from a claimant under the compensation program, provide assistance to the claimant in connection with the claim, including—
-  (1) assistance in securing medical testing and diagnostic services necessary to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
-  (2) such other assistance as may be required to develop facts pertinent to the claim.
-(b) The President shall take appropriate actions to inform and assist covered employees who are potential claimants under the compensation program, and other potential claimants under the compensation program, of the availability of compensation under the compensation program, including actions to—
-  (1) ensure the ready availability, in paper and electronic format, of forms necessary for making claims;
-  (2) provide such covered employees and other potential claimants with information and other support necessary for making claims, including—
-    (A) medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
-    (B) lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
-  (3) provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
-(c) As part of the assistance program provided under subsections (a) and (b), and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.
+- **(a)** The President shall, upon the receipt of a request for assistance from a claimant under the compensation program, provide assistance to the claimant in connection with the claim, including—
+  - **(1)** assistance in securing medical testing and diagnostic services necessary to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
+  - **(2)** such other assistance as may be required to develop facts pertinent to the claim.
+- **(b)** The President shall take appropriate actions to inform and assist covered employees who are potential claimants under the compensation program, and other potential claimants under the compensation program, of the availability of compensation under the compensation program, including actions to—
+  - **(1)** ensure the ready availability, in paper and electronic format, of forms necessary for making claims;
+  - **(2)** provide such covered employees and other potential claimants with information and other support necessary for making claims, including—
+    - **(A)** medical protocols for medical testing and diagnosis to establish the existence of a covered beryllium illness, chronic silicosis, or cancer; and
+    - **(B)** lists of vendors approved for providing laboratory services related to such medical testing and diagnosis; and
+  - **(3)** provide such additional assistance to such covered employees and other potential claimants as may be required for the development of facts pertinent to a claim.
+- **(c)** As part of the assistance program provided under subsections (a) and (b), and as permitted by law, the Secretary of Energy shall, upon the request of the President, require a beryllium vendor or other Department of Energy contractor or subcontractor to provide information relevant to a claim or potential claim under the compensation program to the President.

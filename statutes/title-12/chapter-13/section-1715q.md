@@ -5,7 +5,7 @@ usc_section: "1715q"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1715q"
-generated_at: "2026-03-29T00:29:16.599Z"
+generated_at: "2026-03-29T02:11:20.952Z"
 ---
 
 # § 1715q. Delivery of statement of appraisal or estimates to home buyers

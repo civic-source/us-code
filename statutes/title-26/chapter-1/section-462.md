@@ -5,7 +5,7 @@ usc_section: "462"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 462"
-generated_at: "2026-03-29T00:31:20.760Z"
+generated_at: "2026-03-29T02:14:00.985Z"
 ---
 
 # [§ 462. Repealed. June 15, 1955, ch. 143, § 1(b) , 69 Stat. 134 ]

@@ -5,87 +5,87 @@ usc_section: "1829"
 chapter: 16
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1829"
-generated_at: "2026-03-29T00:29:16.695Z"
+generated_at: "2026-03-29T02:11:21.066Z"
 ---
 
 # § 1829. Penalty for unauthorized participation by convicted individual
 
-(a) 
-  (1) Except with the prior written consent of the Corporation—
-    (A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—
-      (i) become, or continue as, an institution-affiliated party with respect to any insured depository institution;
-      (ii) own or control, directly or indirectly, any insured depository institution; or
-      (iii) otherwise participate, directly or indirectly, in the conduct of the affairs of any insured depository institution; and
-    (B) any insured depository institution may not permit any person referred to in subparagraph (A) to engage in any conduct or continue any relationship prohibited under such subparagraph.
-  (2) 
-    (A) If the offense referred to in paragraph (1)(A) in connection with any person referred to in such paragraph is—
-      (i) an offense under—
-        (I) section 215, 656, 657, 1005, 1006, 1007, 1008, 1 1 See References in Text note below. 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
-        (II) section 1341 or 1343 of such title which affects any financial institution (as defined in section 20 of such title); or
-      (ii) the offense of conspiring to commit any such offense,
-    (B) 
-      (i) On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
-      (ii) A motion may be filed under clause (i) at any time during the 10-year period described in subparagraph (A) with regard to the person on whose behalf such motion is made.
-(b) Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
-(c) 
-  (1) 
-    (A) With respect to an individual, subsection (a) shall not apply to an offense if—
-      (i) it has been 7 years or more since the offense occurred; or
-      (ii) the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
-    (B) For individuals who committed an offense when they were 21 years of age or younger, subsection (a) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
-    (C) This paragraph shall not apply to an offense described under subsection (a)(2).
-  (2) With respect to an individual, subsection (a) shall not apply to an offense if—
-    (A) there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
-    (B) it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual’s State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
-  (3) 
-    (A) Subsection (a) shall not apply to such de minimis offenses as the Corporation determines, by rule.
-    (B) In issuing rules under subparagraph (A), the Corporation shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
-      (i) is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
-      (ii) does not include probation or parole where an individual was restricted to a particular jurisdiction or was required to report occasionally to an individual or a specific location.
-    (C) In setting the criteria for de minimis offenses under subparagraph (A), if the Corporation establishes criteria with respect to insufficient funds checks, the Corporation shall require that the aggregate total face value of all insufficient funds checks across all convictions or program entries related to insufficient funds checks is $2,000 or less.
-    (D) Subsection (a) shall not apply to certain lesser offenses (including the use of a fake ID, shoplifting, trespass, fare evasion, driving with an expired license or tag, and such other low-risk offenses as the Corporation may designate) if 1 year or more has passed since the applicable conviction or program entry.
-(d) 
-  (1) Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act [ 12 U.S.C. 611 et seq.] or operating under section 25 of the Federal Reserve Act [ 12 U.S.C. 601 et seq.], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
-  (2) The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
-(e) 
-  (1) Subsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
-  (2) The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
-(f) 
-  (1) The Corporation shall accept consent applications from an individual and from an insured depository institution or depository institution holding company on behalf of an individual that are filed separately or contemporaneously with a regional office of the Corporation.
-  (2) Consent applications filed at a regional office of the Corporation by an insured depository institution or depository institution holding company on behalf of an individual—
-    (A) shall be reviewed by such office;
-    (B) may be approved or denied by such office, if such authority has been delegated to such office by the Corporation; and
-    (C) may only be denied by such office if the general counsel of the Corporation (or a designee) certifies that the denial is consistent with this section.
-  (3) Consent applications filed at a regional office by an individual—
-    (A) shall be reviewed by such office; and
-    (B) may be approved or denied by such office, if such authority has been delegated to such office by the Corporation, except with respect to—
-      (i) cases involving an offense described under subsection (a)(2); and
-      (ii) such other high-level security cases as may be designated by the Corporation.
-  (4) The national office of the Corporation shall—
-    (A) review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
-    (B) review any consent application that is denied by a regional office, if the individual requests a review by the national office.
-  (5) 
-    (A) The Corporation shall make all forms and instructions related to consent applications available to the public, including on the website of the Corporation.
-    (B) The forms and instructions described under subparagraph (A) shall provide a sample cover letter and a comprehensive list of items that may accompany the application, including clear guidance on evidence that may support a finding of rehabilitation.
-  (6) 
-    (A) In reviewing a consent application, a regional office shall—
-      (i) primarily rely on the criminal history record of the Federal Bureau of Investigation; and
-      (ii) provide such record to the applicant to review for accuracy.
-    (B) The Corporation may not require an applicant to provide certified copies of criminal history records unless the Corporation determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
-  (7) Consistent with title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.), the Corporation shall—
-    (A) conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 2 2 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
-    (B) consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
-    (C) consider any additional information the Corporation determines necessary for safety and soundness.
-  (8) With respect to an approved consent application filed by an insured depository institution or depository institution holding company on behalf of an individual, if the Corporation determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Corporation (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
-  (9) In carrying out this section, the Corporation shall consult and coordinate with the National Credit Union Administration as needed to promote consistent implementation where appropriate.
-(g) In this section:
-  (1) The term “consent application” means an application filed with Corporation 2 by an individual (or by an insured depository institution or depository institution holding company on behalf of an individual) seeking the written consent of the Corporation under subsection (a)(1).
-  (2) The term “criminal offense involving dishonesty”—
-    (A) means an offense under which an individual, directly or indirectly—
-      (i) cheats or defrauds; or
-      (ii) wrongfully takes property belonging to another in violation of a criminal statute;
-    (B) includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
-    (C) does not include—
-      (i) a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
-      (ii) an offense involving the possession of controlled substances.
-  (3) The term “pretrial diversion or similar program” means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
+- **(a)**
+  - **(1)** Except with the prior written consent of the Corporation—
+    - **(A)** any person who has been convicted of any criminal offense involving dishonesty or a breach of trust or money laundering, or has agreed to enter into a pretrial diversion or similar program in connection with a prosecution for such offense, may not—
+      - **(i)** become, or continue as, an institution-affiliated party with respect to any insured depository institution;
+      - **(ii)** own or control, directly or indirectly, any insured depository institution; or
+      - **(iii)** otherwise participate, directly or indirectly, in the conduct of the affairs of any insured depository institution; and
+    - **(B)** any insured depository institution may not permit any person referred to in subparagraph (A) to engage in any conduct or continue any relationship prohibited under such subparagraph.
+  - **(2)**
+    - **(A)** If the offense referred to in paragraph (1)(A) in connection with any person referred to in such paragraph is—
+      - **(i)** an offense under—
+        - **(I)** section 215, 656, 657, 1005, 1006, 1007, 1008, 1 1 See References in Text note below. 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
+        - **(II)** section 1341 or 1343 of such title which affects any financial institution (as defined in section 20 of such title); or
+      - **(ii)** the offense of conspiring to commit any such offense,
+    - **(B)**
+      - **(i)** On motion of the Corporation, the court in which the conviction or the agreement of a person referred to in subparagraph (A) has been entered may grant an exception to the application of paragraph (1) to such person if granting the exception is in the interest of justice.
+      - **(ii)** A motion may be filed under clause (i) at any time during the 10-year period described in subparagraph (A) with regard to the person on whose behalf such motion is made.
+- **(b)** Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
+- **(c)**
+  - **(1)**
+    - **(A)** With respect to an individual, subsection (a) shall not apply to an offense if—
+      - **(i)** it has been 7 years or more since the offense occurred; or
+      - **(ii)** the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
+    - **(B)** For individuals who committed an offense when they were 21 years of age or younger, subsection (a) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
+    - **(C)** This paragraph shall not apply to an offense described under subsection (a)(2).
+  - **(2)** With respect to an individual, subsection (a) shall not apply to an offense if—
+    - **(A)** there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
+    - **(B)** it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual’s State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
+  - **(3)**
+    - **(A)** Subsection (a) shall not apply to such de minimis offenses as the Corporation determines, by rule.
+    - **(B)** In issuing rules under subparagraph (A), the Corporation shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
+      - **(i)** is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
+      - **(ii)** does not include probation or parole where an individual was restricted to a particular jurisdiction or was required to report occasionally to an individual or a specific location.
+    - **(C)** In setting the criteria for de minimis offenses under subparagraph (A), if the Corporation establishes criteria with respect to insufficient funds checks, the Corporation shall require that the aggregate total face value of all insufficient funds checks across all convictions or program entries related to insufficient funds checks is $2,000 or less.
+    - **(D)** Subsection (a) shall not apply to certain lesser offenses (including the use of a fake ID, shoplifting, trespass, fare evasion, driving with an expired license or tag, and such other low-risk offenses as the Corporation may designate) if 1 year or more has passed since the applicable conviction or program entry.
+- **(d)**
+  - **(1)** Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act [ 12 U.S.C. 611 et seq.] or operating under section 25 of the Federal Reserve Act [ 12 U.S.C. 601 et seq.], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
+  - **(2)** The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+- **(e)**
+  - **(1)** Subsections (a) and (b) shall apply to any savings and loan holding company as if such savings and loan holding company were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
+  - **(2)** The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
+- **(f)**
+  - **(1)** The Corporation shall accept consent applications from an individual and from an insured depository institution or depository institution holding company on behalf of an individual that are filed separately or contemporaneously with a regional office of the Corporation.
+  - **(2)** Consent applications filed at a regional office of the Corporation by an insured depository institution or depository institution holding company on behalf of an individual—
+    - **(A)** shall be reviewed by such office;
+    - **(B)** may be approved or denied by such office, if such authority has been delegated to such office by the Corporation; and
+    - **(C)** may only be denied by such office if the general counsel of the Corporation (or a designee) certifies that the denial is consistent with this section.
+  - **(3)** Consent applications filed at a regional office by an individual—
+    - **(A)** shall be reviewed by such office; and
+    - **(B)** may be approved or denied by such office, if such authority has been delegated to such office by the Corporation, except with respect to—
+      - **(i)** cases involving an offense described under subsection (a)(2); and
+      - **(ii)** such other high-level security cases as may be designated by the Corporation.
+  - **(4)** The national office of the Corporation shall—
+    - **(A)** review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
+    - **(B)** review any consent application that is denied by a regional office, if the individual requests a review by the national office.
+  - **(5)**
+    - **(A)** The Corporation shall make all forms and instructions related to consent applications available to the public, including on the website of the Corporation.
+    - **(B)** The forms and instructions described under subparagraph (A) shall provide a sample cover letter and a comprehensive list of items that may accompany the application, including clear guidance on evidence that may support a finding of rehabilitation.
+  - **(6)**
+    - **(A)** In reviewing a consent application, a regional office shall—
+      - **(i)** primarily rely on the criminal history record of the Federal Bureau of Investigation; and
+      - **(ii)** provide such record to the applicant to review for accuracy.
+    - **(B)** The Corporation may not require an applicant to provide certified copies of criminal history records unless the Corporation determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
+  - **(7)** Consistent with title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.), the Corporation shall—
+    - **(A)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 2 2 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
+    - **(B)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
+    - **(C)** consider any additional information the Corporation determines necessary for safety and soundness.
+  - **(8)** With respect to an approved consent application filed by an insured depository institution or depository institution holding company on behalf of an individual, if the Corporation determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Corporation (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+  - **(9)** In carrying out this section, the Corporation shall consult and coordinate with the National Credit Union Administration as needed to promote consistent implementation where appropriate.
+- **(g)** In this section:
+  - **(1)** The term “consent application” means an application filed with Corporation 2 by an individual (or by an insured depository institution or depository institution holding company on behalf of an individual) seeking the written consent of the Corporation under subsection (a)(1).
+  - **(2)** The term “criminal offense involving dishonesty”—
+    - **(A)** means an offense under which an individual, directly or indirectly—
+      - **(i)** cheats or defrauds; or
+      - **(ii)** wrongfully takes property belonging to another in violation of a criminal statute;
+    - **(B)** includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
+    - **(C)** does not include—
+      - **(i)** a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
+      - **(ii)** an offense involving the possession of controlled substances.
+  - **(3)** The term “pretrial diversion or similar program” means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.

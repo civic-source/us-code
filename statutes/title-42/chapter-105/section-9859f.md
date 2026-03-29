@@ -5,12 +5,12 @@ usc_section: "9859f"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9859f"
-generated_at: "2026-03-29T00:32:54.183Z"
+generated_at: "2026-03-29T02:15:37.106Z"
 ---
 
 # § 9859f. Reports
 
 Each State that receives an allotment under section 9859c of this title shall annually prepare and submit to the Secretary a report that describes—
 
-  (1) the activities carried out with funds made available through the allotment; and
-  (2) the progress made by the State toward achieving the goals described in the application submitted by the State under section 9859d of this title .
+  - **(1)** the activities carried out with funds made available through the allotment; and
+  - **(2)** the progress made by the State toward achieving the goals described in the application submitted by the State under section 9859d of this title .

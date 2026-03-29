@@ -5,12 +5,12 @@ usc_section: "3030b"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3030b"
-generated_at: "2026-03-29T00:32:53.809Z"
+generated_at: "2026-03-29T02:15:36.640Z"
 ---
 
 # § 3030b. Recapture of payments made for multipurpose senior centers
 
 If, within 10 years after acquisition, or within 20 years after the completion of construction, of any facility for which funds have been paid under this subchapter—
 
-  (1) the owner of the facility ceases to be a public or nonprofit private agency or organization; or
-  (2) the facility ceases to be used for the purposes for which it was acquired (unless the Assistant Secretary determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so);
+  - **(1)** the owner of the facility ceases to be a public or nonprofit private agency or organization; or
+  - **(2)** the facility ceases to be used for the purposes for which it was acquired (unless the Assistant Secretary determines, in accordance with regulations, that there is good cause for releasing the applicant or other owner from the obligation to do so);

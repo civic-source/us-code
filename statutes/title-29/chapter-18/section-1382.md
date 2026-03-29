@@ -5,13 +5,13 @@ usc_section: "1382"
 chapter: 18
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1382"
-generated_at: "2026-03-29T00:31:27.681Z"
+generated_at: "2026-03-29T02:14:09.472Z"
 ---
 
 # § 1382. Determination and collection of liability; notification of employer
 
 When an employer withdraws from a multiemployer plan, the plan sponsor, in accordance with this part, shall—
 
-  (1) determine the amount of the employer’s withdrawal liability,
-  (2) notify the employer of the amount of the withdrawal liability, and
-  (3) collect the amount of the withdrawal liability from the employer.
+  - **(1)** determine the amount of the employer’s withdrawal liability,
+  - **(2)** notify the employer of the amount of the withdrawal liability, and
+  - **(3)** collect the amount of the withdrawal liability from the employer.

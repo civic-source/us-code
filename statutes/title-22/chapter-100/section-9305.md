@@ -5,11 +5,11 @@ usc_section: "9305"
 chapter: 100
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9305"
-generated_at: "2026-03-29T00:30:34.050Z"
+generated_at: "2026-03-29T02:12:40.493Z"
 ---
 
 # § 9305. Assistance to implement the Global Food Security Strategy
 
-(a) The President is authorized to carry out activities pursuant to section 103, section 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151a , 2151a–1, 2220a et seq., and 2346 et seq.) to prevent or address food shortages notwithstanding any other provision of law.
-(b) There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,200,000,000 for each of the fiscal years 2024 through 2028 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively. Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries.
-(c) The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
+- **(a)** The President is authorized to carry out activities pursuant to section 103, section 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151a , 2151a–1, 2220a et seq., and 2346 et seq.) to prevent or address food shortages notwithstanding any other provision of law.
+- **(b)** There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,200,000,000 for each of the fiscal years 2024 through 2028 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively. Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries.
+- **(c)** The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.

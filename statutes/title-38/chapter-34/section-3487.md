@@ -5,7 +5,7 @@ usc_section: "3487"
 chapter: 34
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3487"
-generated_at: "2026-03-29T00:32:17.259Z"
+generated_at: "2026-03-29T02:14:50.411Z"
 ---
 
 # [§§ 3486, 3487. Vacant]

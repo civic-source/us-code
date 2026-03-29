@@ -5,24 +5,24 @@ usc_section: "285p"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 285p"
-generated_at: "2026-03-29T00:32:52.957Z"
+generated_at: "2026-03-29T02:15:35.706Z"
 ---
 
 # § 285p. Purpose of Institute
 
-(a) The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
-(b) The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
-(c) The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
-(d) 
-  (1) The Director of the Institute shall—
-    (A) develop and publish information with respect to the causes of suicide and the means of preventing suicide; and
-    (B) make such information generally available to the public and to health professionals.
-  (2) Information described in paragraph (1) shall especially relate to suicide among individuals under 24 years of age.
-(e) 
-  (1) The Director of the Institute shall designate an Associate Director for Special Populations.
-  (2) The Associate Director for Special Populations shall—
-    (A) develop and coordinate research policies and programs to assure increased emphasis on the mental health needs of women and minority populations;
-    (B) support programs of basic and applied social and behavioral research on the mental health problems of women and minority populations;
-    (C) study the effects of discrimination on institutions and individuals, including majority institutions and individuals;
-    (D) support and develop research designed to eliminate institutional discrimination; and
-    (E) provide increased emphasis on the concerns of women and minority populations in training programs, service delivery programs, and research endeavors of the Institute.
+- **(a)** The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
+- **(b)** The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
+- **(c)** The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+- **(d)**
+  - **(1)** The Director of the Institute shall—
+    - **(A)** develop and publish information with respect to the causes of suicide and the means of preventing suicide; and
+    - **(B)** make such information generally available to the public and to health professionals.
+  - **(2)** Information described in paragraph (1) shall especially relate to suicide among individuals under 24 years of age.
+- **(e)**
+  - **(1)** The Director of the Institute shall designate an Associate Director for Special Populations.
+  - **(2)** The Associate Director for Special Populations shall—
+    - **(A)** develop and coordinate research policies and programs to assure increased emphasis on the mental health needs of women and minority populations;
+    - **(B)** support programs of basic and applied social and behavioral research on the mental health problems of women and minority populations;
+    - **(C)** study the effects of discrimination on institutions and individuals, including majority institutions and individuals;
+    - **(D)** support and develop research designed to eliminate institutional discrimination; and
+    - **(E)** provide increased emphasis on the concerns of women and minority populations in training programs, service delivery programs, and research endeavors of the Institute.

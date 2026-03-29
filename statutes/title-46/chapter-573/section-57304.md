@@ -5,12 +5,12 @@ usc_section: "57304"
 chapter: 573
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 57304"
-generated_at: "2026-03-29T00:33:02.954Z"
+generated_at: "2026-03-29T02:15:53.787Z"
 ---
 
 # § 57304. Eligible acquisition dates
 
 At the option of the owner, the acquisition of an obsolete vessel under this chapter shall occur—
 
-  (1) when the owner contracts for the construction or purchase of a new vessel; or
-  (2) within 5 days of the actual date of delivery of the new vessel to the owner.
+  - **(1)** when the owner contracts for the construction or purchase of a new vessel; or
+  - **(2)** within 5 days of the actual date of delivery of the new vessel to the owner.

@@ -5,10 +5,10 @@ usc_section: "3173"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3173"
-generated_at: "2026-03-29T00:28:58.165Z"
+generated_at: "2026-03-29T02:10:16.990Z"
 ---
 
 # § 3173. Research by Department of Agriculture
 
-(a) The Secretary shall establish research into food and human nutrition as a separate and distinct mission of the Department of Agriculture, and the Secretary shall increase support for such research to a level that provides resources adequate to meet the policy of this subchapter.
-(b) The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of the other Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.
+- **(a)** The Secretary shall establish research into food and human nutrition as a separate and distinct mission of the Department of Agriculture, and the Secretary shall increase support for such research to a level that provides resources adequate to meet the policy of this subchapter.
+- **(b)** The Secretary, in administering the food and human nutrition research program, shall periodically consult with the administrators of the other Federal departments and agencies that have responsibility for programs dealing with human food and nutrition, as to the specific research needs of those departments and agencies.

@@ -5,17 +5,17 @@ usc_section: "8912"
 chapter: 114
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8912"
-generated_at: "2026-03-29T00:28:58.333Z"
+generated_at: "2026-03-29T02:10:17.214Z"
 ---
 
 # § 8912. Agricultural biosecurity communication center
 
-(a) The Secretary shall establish a communication center within the Department to—
-  (1) collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity; and
-  (2) coordinate activities described in paragraph (1) among agencies and offices within the Department.
-(b) 
-  (1) The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.
-  (2) Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
-(c) There are authorized to be appropriated to carry out this section—
-  (1) such sums as are necessary for each of fiscal years 2008 through 2013; and
-  (2) $2,000,000 for each of fiscal years 2014 through 2023.
+- **(a)** The Secretary shall establish a communication center within the Department to—
+  - **(1)** collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity; and
+  - **(2)** coordinate activities described in paragraph (1) among agencies and offices within the Department.
+- **(b)**
+  - **(1)** The communication center established under subsection (a) shall, to the maximum extent practicable, share and coordinate the dissemination of timely information with the Department of Homeland Security and other communication systems of appropriate Federal departments and agencies.
+  - **(2)** Paragraph (1) shall not be construed to impede, conflict with, or duplicate the communications activities performed by the Secretary of Homeland Security under any provision of law.
+- **(c)** There are authorized to be appropriated to carry out this section—
+  - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013; and
+  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.

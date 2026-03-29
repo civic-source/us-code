@@ -5,7 +5,7 @@ usc_section: "6716"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6716"
-generated_at: "2026-03-29T00:31:21.077Z"
+generated_at: "2026-03-29T02:14:01.368Z"
 ---
 
 # [§ 6716. Repealed. Pub. L. 111–312, title III, § 301(a) , Dec. 17, 2010 , 124 Stat. 3300 ]

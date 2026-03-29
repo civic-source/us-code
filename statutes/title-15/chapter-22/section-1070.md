@@ -5,7 +5,7 @@ usc_section: "1070"
 chapter: 22
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1070"
-generated_at: "2026-03-29T00:29:41.678Z"
+generated_at: "2026-03-29T02:11:34.149Z"
 ---
 
 # § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners

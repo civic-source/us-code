@@ -5,16 +5,16 @@ usc_section: "1686"
 chapter: 36
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1686"
-generated_at: "2026-03-29T00:29:52.739Z"
+generated_at: "2026-03-29T02:11:53.816Z"
 ---
 
 # § 1686. Definitions
 
 For purposes of this subchapter, the term:
 
-  (1) “Anticipated cost of removal” means the projected cost of removal of wood residues from timber sales areas to points of prospective use, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
-  (2) “Anticipated value” means the projected value of wood residues as fuel or other merchantable wood products, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
-  (3) “Points of prospective use” means the locations where the wood residues are sold or otherwise put to use, as determined by the Secretary in accordance with appropriate appraisal and sale procedures.
-  (4) “Person” means an individual, partnership, joint-stock company, corporation, association, trust, estate, or any other legal entity, or any agency of Federal or State government or of a political subdivision of a State.
-  (5) “Secretary” means the Secretary of Agriculture.
-  (6) “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.
+  - **(1)** “Anticipated cost of removal” means the projected cost of removal of wood residues from timber sales areas to points of prospective use, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
+  - **(2)** “Anticipated value” means the projected value of wood residues as fuel or other merchantable wood products, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
+  - **(3)** “Points of prospective use” means the locations where the wood residues are sold or otherwise put to use, as determined by the Secretary in accordance with appropriate appraisal and sale procedures.
+  - **(4)** “Person” means an individual, partnership, joint-stock company, corporation, association, trust, estate, or any other legal entity, or any agency of Federal or State government or of a political subdivision of a State.
+  - **(5)** “Secretary” means the Secretary of Agriculture.
+  - **(6)** “Wood residues” includes, but is not limited to, logging slash, down timber material, woody plants, and standing live or dead trees which do not meet utilization standards because of size, species, merchantable volume, or economic selection criteria and which, in the case of live trees, are surplus to growing stock needs.

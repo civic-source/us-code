@@ -5,14 +5,14 @@ usc_section: "7922"
 chapter: 88
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7922"
-generated_at: "2026-03-29T00:32:54.104Z"
+generated_at: "2026-03-29T02:15:36.997Z"
 ---
 
 # § 7922. Termination of authority of Secretary
 
-(a) 
-  (1) The authority of the Secretary to perform remedial action under this subchapter shall terminate on September 30, 1998 , except that—
-    (A) the authority of the Secretary to perform groundwater restoration activities under this subchapter is without limitation, and
-    (B) the Secretary may continue operation of the disposal site in Mesa County, Colorado (known as the Cheney disposal cell) for receiving and disposing of residual radioactive material from processing sites and of byproduct material from property in the vicinity of the uranium milling site located in Monticello, Utah, until the Cheney disposal cell has been filled to the capacity for which it was designed, or September 30, 2031 , whichever comes first.
-  (2) For purposes of this subsection, the term “byproduct material” has the meaning given that term in section 2014(e)(2) of this title .
-(b) The amounts authorized to be appropriated to carry out the purposes of this subchapter by the Secretary, the Administrator, the Commission, and the Secretary of the Interior shall not exceed such amounts as are established in annual authorization Acts for fiscal year 1979 and each fiscal year thereafter applicable to the Department of Energy. Any sums appropriated for the purposes of this subchapter shall be available until expended.
+- **(a)**
+  - **(1)** The authority of the Secretary to perform remedial action under this subchapter shall terminate on September 30, 1998 , except that—
+    - **(A)** the authority of the Secretary to perform groundwater restoration activities under this subchapter is without limitation, and
+    - **(B)** the Secretary may continue operation of the disposal site in Mesa County, Colorado (known as the Cheney disposal cell) for receiving and disposing of residual radioactive material from processing sites and of byproduct material from property in the vicinity of the uranium milling site located in Monticello, Utah, until the Cheney disposal cell has been filled to the capacity for which it was designed, or September 30, 2031 , whichever comes first.
+  - **(2)** For purposes of this subsection, the term “byproduct material” has the meaning given that term in section 2014(e)(2) of this title .
+- **(b)** The amounts authorized to be appropriated to carry out the purposes of this subchapter by the Secretary, the Administrator, the Commission, and the Secretary of the Interior shall not exceed such amounts as are established in annual authorization Acts for fiscal year 1979 and each fiscal year thereafter applicable to the Department of Energy. Any sums appropriated for the purposes of this subchapter shall be available until expended.

@@ -5,10 +5,10 @@ usc_section: "248"
 chapter: 10
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 248"
-generated_at: "2026-03-29T00:28:57.921Z"
+generated_at: "2026-03-29T02:10:16.713Z"
 ---
 
 # § 248. Commingling of agricultural products
 
-(a) A warehouse operator may commingle agricultural products in a manner approved by the Secretary.
-(b) A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holder of the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.
+- **(a)** A warehouse operator may commingle agricultural products in a manner approved by the Secretary.
+- **(b)** A warehouse operator shall be severally liable to each depositor or holder for the care and redelivery of the share of the depositor and holder of the commingled agricultural product to the same extent and under the same circumstances as if the agricultural products had been stored separately.

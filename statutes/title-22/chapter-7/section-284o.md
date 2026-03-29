@@ -5,10 +5,10 @@ usc_section: "284o"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 284o"
-generated_at: "2026-03-29T00:30:33.676Z"
+generated_at: "2026-03-29T02:12:39.955Z"
 ---
 
 # § 284o. Sixth replenishment; authorization of appropriations
 
-(a) The United States Governor is authorized to agree on behalf of the United States to pay to the Association $3,240,000,000 as the United States contribution to the sixth replenishment of the resources of the Association: Provided, however , That any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
-(b) In order to pay for the United States contributions provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $3,240,000,000 for payment by the Secretary of the Treasury: Provided, however , That not more than $850,000,000 of such sum may be made available for the fiscal year 1982 and not more than $945,000,000 of such sum may be made available for the fiscal year 1983.
+- **(a)** The United States Governor is authorized to agree on behalf of the United States to pay to the Association $3,240,000,000 as the United States contribution to the sixth replenishment of the resources of the Association: Provided, however , That any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
+- **(b)** In order to pay for the United States contributions provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $3,240,000,000 for payment by the Secretary of the Treasury: Provided, however , That not more than $850,000,000 of such sum may be made available for the fiscal year 1982 and not more than $945,000,000 of such sum may be made available for the fiscal year 1983.

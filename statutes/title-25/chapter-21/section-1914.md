@@ -5,7 +5,7 @@ usc_section: "1914"
 chapter: 21
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1914"
-generated_at: "2026-03-29T00:30:38.715Z"
+generated_at: "2026-03-29T02:13:20.918Z"
 ---
 
 # § 1914. Petition to court of competent jurisdiction to invalidate action upon showing of certain violations

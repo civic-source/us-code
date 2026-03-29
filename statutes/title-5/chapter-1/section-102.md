@@ -5,7 +5,7 @@ usc_section: "102"
 chapter: 1
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 102"
-generated_at: "2026-03-29T00:28:38.248Z"
+generated_at: "2026-03-29T02:10:01.755Z"
 ---
 
 # § 102. Military departments

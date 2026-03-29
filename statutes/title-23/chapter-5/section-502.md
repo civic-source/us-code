@@ -5,124 +5,124 @@ usc_section: "502"
 chapter: 5
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 502"
-generated_at: "2026-03-29T00:07:07.681Z"
+generated_at: "2026-03-29T02:13:00.970Z"
 ---
 
 # § 502. Surface transportation research, development, and technology
 
-(a) 
-  (1) The research, development, and technology provisions of this section shall apply throughout this chapter.
-  (2) Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction of new and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
-  (3) Funding and conducting surface transportation research and technology transfer activities shall be considered a basic responsibility of the Federal Government when the work—
-    (A) is of national significance;
-    (B) delivers a clear public benefit and occurs where private sector investment is less than optimal;
-    (C) supports a Federal stewardship role in assuring that State and local governments use national resources efficiently;
-    (D) meets and addresses current or emerging needs;
-    (E) addresses current gaps in research;
-    (F) presents the best means to align resources with multiyear plans and priorities;
-    (G) ensures the coordination of highway research and technology transfer activities, including through activities performed by university transportation centers;
-    (H) educates transportation professionals; or
-    (I) presents the best means to support Federal policy goals compared to other policy alternatives.
-  (4) Consistent with these Federal responsibilities, the Secretary shall—
-    (A) conduct research;
-    (B) partner with State highway agencies and other stakeholders as appropriate to facilitate research and technology transfer activities;
-    (C) communicate the results of ongoing and completed research;
-    (D) lead efforts to coordinate national emphasis areas of highway research, technology, and innovation deployment;
-    (E) leverage partnerships with industry, academia, international entities, and State departments of transportation;
-    (F) lead efforts to reduce unnecessary duplication of effort; and
-    (G) lead efforts to accelerate innovation delivery.
-  (5) A surface transportation research program shall include—
-    (A) fundamental, long-term highway research;
-    (B) research aimed at significant highway research gaps and emerging issues with national implications; and
-    (C) research related to all highway objectives seeking to improve the performance of the transportation system.
-  (6) Federal surface transportation research and development activities shall address the needs of stakeholders. Stakeholders include States, metropolitan planning organizations, local governments, tribal governments, the private sector, researchers, research sponsors, and other affected parties, including public interest groups.
-  (7) Except as otherwise provided in this chapter, the Secretary shall award, to the maximum extent practicable, all grants, contracts, and cooperative agreements for research and development under this chapter based on open competition and peer review of proposals.
-  (8) 
-    (A) To the maximum extent practicable, all surface transportation research and development projects shall include a component of performance measurement and evaluation.
-    (B) Performance measures shall be established during the proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
-    (C) To the maximum extent practicable, each program pursued under this chapter shall be part of a data-driven, outcome-oriented program plan.
-    (D) All evaluations under this paragraph shall be made readily available to the public.
-  (9) The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
-(b) 
-  (1) The Secretary may carry out research, development, and technology transfer activities with respect to—
-    (A) motor carrier transportation;
-    (B) all phases of transportation planning and development (including construction, operation, transportation system management and operations, modernization, development, design, maintenance, safety, financing, and traffic conditions); and
-    (C) the effect of State laws on the activities described in subparagraphs (A) and (B).
-  (2) The Secretary may test, develop, or assist in testing and developing any material, invention, patented article, or process.
-  (3) The Secretary may carry out research, development, and technology transfer activities related to transportation—
-    (A) independently;
-    (B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
-    (C) by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
-  (4) The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
-  (5) 
-    (A) In addition to other funds made available to carry out this chapter, the Secretary shall use such funds as may be deposited by any cooperating organization or person in a special account of the Treasury established for this purpose.
-    (B) The Secretary shall use funds made available to carry out this chapter to develop, administer, communicate, and promote the use of products of research, development, and technology transfer programs under this chapter.
-  (6) 
-    (A) To promote effective utilization of available resources, the Secretary may cooperate with a State and an appropriate agency in funding research, development, and technology transfer activities of mutual interest on a pooled funds basis.
-    (B) The Secretary may enter into contracts, cooperative agreements, and grants as the agent for all participating parties in carrying out such research, development, or technology transfer activities.
-    (C) The Secretary may, at the request of a State, transfer amounts apportioned or allocated to that State under this chapter to another State or the Federal Highway Administration to fund research, development, and technology transfer activities of mutual interest on a pooled funds basis.
-    (D) Obligation authority for amounts transferred under this subsection shall be disbursed in the same manner and for the same amount as provided for the project being transferred.
-  (7) 
-    (A) The Secretary may use up to 1 percent of the funds made available under section 51001 of the Transportation Research and Innovative Technology Act of 2012 to carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research and technology development that has the potential for application to the national transportation system.
-    (B) In selecting topics for prize competitions under this paragraph, the Secretary shall—
-      (i) consult with a wide variety of governmental and nongovernmental representatives; and
-      (ii) give consideration to prize goals that demonstrate innovative approaches and strategies to improve the safety, efficiency, and sustainability of the national transportation system.
-    (C) The Secretary shall encourage participation in the prize competitions through advertising efforts.
-    (D) For each prize competition, the Secretary shall publish a notice on a public website that describes—
-      (i) the subject of the competition;
-      (ii) the eligibility rules for participation in the competition;
-      (iii) the amount of the prize; and
-      (iv) the basis on which a winner will be selected.
-    (E) An individual or entity may not receive a prize under this paragraph unless the individual or entity—
-      (i) has registered to participate in the competition pursuant to any rules promulgated by the Secretary under this section;
-      (ii) has complied with all requirements under this paragraph;
-      (iii) 
-        (I) in the case of a private entity, is incorporated in, and maintains a primary place of business in, the United States; or
-        (II) in the case of an individual, whether participating singly or in a group, is a citizen or permanent resident of the United States;
-      (iv) is not a Federal entity or Federal employee acting within the scope of his or her employment; and
-      (v) has not received a grant to perform research on the same issue for which the prize is awarded.
-    (F) 
-      (i) 
-        (I) A registered participant shall agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in a competition, whether such injury, death, damage, or loss arises through negligence or otherwise.
-        (II) In this subparagraph, the term “related entity” means a contractor, subcontractor (at any tier), supplier, user, customer, cooperating party, grantee, investigator, or detailee.
-      (ii) A participant shall obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
-        (I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant’s insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
-        (II) the Federal Government for damage or loss to Government property resulting from such an activity.
-    (G) 
-      (i) Subject to clause (iii), for each prize competition, the Secretary, either directly or through an agreement under subparagraph (H), may appoint 1 or more qualified judges to select the winner or winners of the prize competition on the basis of the criteria described in subparagraph (D).
-      (ii) Judges for each competition shall include individuals from outside the Federal Government, including the private sector.
-      (iii) A judge selected under this subparagraph may not—
-        (I) have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in a prize competition under this paragraph; or
-        (II) have a familial or financial relationship with an individual who is a registered participant.
-    (H) The Secretary may enter into an agreement with a private, nonprofit entity to administer the prize competition, subject to the provisions of this paragraph.
-    (I) 
-      (i) 
-        (I) A cash prize under this paragraph may consist of funds appropriated by the Federal Government and funds provided by the private sector.
-        (II) The Secretary may accept funds from other Federal agencies, State and local governments, and metropolitan planning organizations for a cash prize under this paragraph.
-        (III) The Secretary may not give any special consideration to any private sector entity in return for a donation under this subparagraph.
-      (ii) Notwithstanding any other provision of law, amounts appropriated for prize awards under this paragraph—
-        (I) shall remain available until expended; and
-        (II) may not be transferred, reprogrammed, or expended for other purposes until after the expiration of the 10-year period beginning on the last day of the fiscal year for which the funds were originally appropriated.
-      (iii) Nothing in this subparagraph may be construed to permit the obligation or payment of funds in violation of the Anti-Deficiency Act ( 31 U.S.C. 1341 ).
-      (iv) A prize may not be announced under this paragraph until all the funds needed to pay out the announced amount of the prize have been appropriated by a governmental source or committed to in writing by a private source.
-      (v) The Secretary may increase the amount of a prize after the initial announcement of the prize under this paragraph if—
-        (I) notice of the increase is provided in the same manner as the initial notice of the prize; and
-        (II) the funds needed to pay out the announced amount of the increase have been appropriated by a governmental source or committed to in writing by a private source.
-      (vi) A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
-      (vii) A prize competition under this section may not result in the award of more than $25,000 in cash prizes without the approval of the Secretary.
-    (J) The Federal Government shall not, by virtue of offering or providing a prize under this paragraph, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and non-proliferation laws, and related regulations.
-    (K) 
-      (i) Not later than 30 days prior to carrying out an activity under subparagraph (A), the Secretary shall notify the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate of the intent to use such authority.
-      (ii) 
-        (I) The Secretary shall submit to the committees described in clause (i) on an annual basis a report on the activities carried out under subparagraph (A) in the preceding fiscal year if the Secretary exercised the authority under subparagraph (A) in that fiscal year.
-        (II) A report under this subparagraph shall include, for each prize competition under subparagraph (A)—
-(c) 
-  (1) To encourage innovative solutions to surface transportation problems and stimulate the deployment of new technology, the Secretary may carry out, on a cost-shared basis, collaborative research and development with—
-    (A) non-Federal entities, including State and local governments, foreign governments, colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
-    (B) Federal laboratories.
-  (2) Notwithstanding any other provision of law, the Secretary may directly initiate contracts, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a )) to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, and their agents to conduct joint transportation research and technology efforts.
-  (3) 
-    (A) The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this chapter shall not exceed 80 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
-    (B) All costs directly incurred by the non-Federal partners, including personnel, travel, and hardware development costs, shall be credited toward the non-Federal share of the cost of the activities described in subparagraph (A).
-  (4) The research, development, or use of a technology under a cooperative research and development agreement entered into under this chapter, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
-  (5) Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.
+- **(a)**
+  - **(1)** The research, development, and technology provisions of this section shall apply throughout this chapter.
+  - **(2)** Surface transportation research and technology development shall include all activities within the innovation lifecycle leading to technology development and transfer, as well as the introduction of new and innovative ideas, practices, and approaches, through such mechanisms as field applications, education and training, communications, impact analysis, and technical support.
+  - **(3)** Funding and conducting surface transportation research and technology transfer activities shall be considered a basic responsibility of the Federal Government when the work—
+    - **(A)** is of national significance;
+    - **(B)** delivers a clear public benefit and occurs where private sector investment is less than optimal;
+    - **(C)** supports a Federal stewardship role in assuring that State and local governments use national resources efficiently;
+    - **(D)** meets and addresses current or emerging needs;
+    - **(E)** addresses current gaps in research;
+    - **(F)** presents the best means to align resources with multiyear plans and priorities;
+    - **(G)** ensures the coordination of highway research and technology transfer activities, including through activities performed by university transportation centers;
+    - **(H)** educates transportation professionals; or
+    - **(I)** presents the best means to support Federal policy goals compared to other policy alternatives.
+  - **(4)** Consistent with these Federal responsibilities, the Secretary shall—
+    - **(A)** conduct research;
+    - **(B)** partner with State highway agencies and other stakeholders as appropriate to facilitate research and technology transfer activities;
+    - **(C)** communicate the results of ongoing and completed research;
+    - **(D)** lead efforts to coordinate national emphasis areas of highway research, technology, and innovation deployment;
+    - **(E)** leverage partnerships with industry, academia, international entities, and State departments of transportation;
+    - **(F)** lead efforts to reduce unnecessary duplication of effort; and
+    - **(G)** lead efforts to accelerate innovation delivery.
+  - **(5)** A surface transportation research program shall include—
+    - **(A)** fundamental, long-term highway research;
+    - **(B)** research aimed at significant highway research gaps and emerging issues with national implications; and
+    - **(C)** research related to all highway objectives seeking to improve the performance of the transportation system.
+  - **(6)** Federal surface transportation research and development activities shall address the needs of stakeholders. Stakeholders include States, metropolitan planning organizations, local governments, tribal governments, the private sector, researchers, research sponsors, and other affected parties, including public interest groups.
+  - **(7)** Except as otherwise provided in this chapter, the Secretary shall award, to the maximum extent practicable, all grants, contracts, and cooperative agreements for research and development under this chapter based on open competition and peer review of proposals.
+  - **(8)**
+    - **(A)** To the maximum extent practicable, all surface transportation research and development projects shall include a component of performance measurement and evaluation.
+    - **(B)** Performance measures shall be established during the proposal stage of a research and development project and shall, to the maximum extent possible, be outcome-based.
+    - **(C)** To the maximum extent practicable, each program pursued under this chapter shall be part of a data-driven, outcome-oriented program plan.
+    - **(D)** All evaluations under this paragraph shall be made readily available to the public.
+  - **(9)** The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
+- **(b)**
+  - **(1)** The Secretary may carry out research, development, and technology transfer activities with respect to—
+    - **(A)** motor carrier transportation;
+    - **(B)** all phases of transportation planning and development (including construction, operation, transportation system management and operations, modernization, development, design, maintenance, safety, financing, and traffic conditions); and
+    - **(C)** the effect of State laws on the activities described in subparagraphs (A) and (B).
+  - **(2)** The Secretary may test, develop, or assist in testing and developing any material, invention, patented article, or process.
+  - **(3)** The Secretary may carry out research, development, and technology transfer activities related to transportation—
+    - **(A)** independently;
+    - **(B)** in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories; or
+    - **(C)** by making grants to, or entering into contracts and cooperative agreements with one or more of the following: the National Academy of Sciences, the American Association of State Highway and Transportation Officials, any Federal laboratory, Federal agency, State agency, authority, association, institution, for-profit or nonprofit corporation, organization, foreign country, or any other person.
+  - **(4)** The programs and activities carried out under this section shall be consistent with the transportation research and development strategic plan under section 6503 of title 49 .
+  - **(5)**
+    - **(A)** In addition to other funds made available to carry out this chapter, the Secretary shall use such funds as may be deposited by any cooperating organization or person in a special account of the Treasury established for this purpose.
+    - **(B)** The Secretary shall use funds made available to carry out this chapter to develop, administer, communicate, and promote the use of products of research, development, and technology transfer programs under this chapter.
+  - **(6)**
+    - **(A)** To promote effective utilization of available resources, the Secretary may cooperate with a State and an appropriate agency in funding research, development, and technology transfer activities of mutual interest on a pooled funds basis.
+    - **(B)** The Secretary may enter into contracts, cooperative agreements, and grants as the agent for all participating parties in carrying out such research, development, or technology transfer activities.
+    - **(C)** The Secretary may, at the request of a State, transfer amounts apportioned or allocated to that State under this chapter to another State or the Federal Highway Administration to fund research, development, and technology transfer activities of mutual interest on a pooled funds basis.
+    - **(D)** Obligation authority for amounts transferred under this subsection shall be disbursed in the same manner and for the same amount as provided for the project being transferred.
+  - **(7)**
+    - **(A)** The Secretary may use up to 1 percent of the funds made available under section 51001 of the Transportation Research and Innovative Technology Act of 2012 to carry out a program to competitively award cash prizes to stimulate innovation in basic and applied research and technology development that has the potential for application to the national transportation system.
+    - **(B)** In selecting topics for prize competitions under this paragraph, the Secretary shall—
+      - **(i)** consult with a wide variety of governmental and nongovernmental representatives; and
+      - **(ii)** give consideration to prize goals that demonstrate innovative approaches and strategies to improve the safety, efficiency, and sustainability of the national transportation system.
+    - **(C)** The Secretary shall encourage participation in the prize competitions through advertising efforts.
+    - **(D)** For each prize competition, the Secretary shall publish a notice on a public website that describes—
+      - **(i)** the subject of the competition;
+      - **(ii)** the eligibility rules for participation in the competition;
+      - **(iii)** the amount of the prize; and
+      - **(iv)** the basis on which a winner will be selected.
+    - **(E)** An individual or entity may not receive a prize under this paragraph unless the individual or entity—
+      - **(i)** has registered to participate in the competition pursuant to any rules promulgated by the Secretary under this section;
+      - **(ii)** has complied with all requirements under this paragraph;
+      - **(iii)**
+        - **(I)** in the case of a private entity, is incorporated in, and maintains a primary place of business in, the United States; or
+        - **(II)** in the case of an individual, whether participating singly or in a group, is a citizen or permanent resident of the United States;
+      - **(iv)** is not a Federal entity or Federal employee acting within the scope of his or her employment; and
+      - **(v)** has not received a grant to perform research on the same issue for which the prize is awarded.
+    - **(F)**
+      - **(i)**
+        - **(I)** A registered participant shall agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from participation in a competition, whether such injury, death, damage, or loss arises through negligence or otherwise.
+        - **(II)** In this subparagraph, the term “related entity” means a contractor, subcontractor (at any tier), supplier, user, customer, cooperating party, grantee, investigator, or detailee.
+      - **(ii)** A participant shall obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
+        - **(I)** a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant’s insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+        - **(II)** the Federal Government for damage or loss to Government property resulting from such an activity.
+    - **(G)**
+      - **(i)** Subject to clause (iii), for each prize competition, the Secretary, either directly or through an agreement under subparagraph (H), may appoint 1 or more qualified judges to select the winner or winners of the prize competition on the basis of the criteria described in subparagraph (D).
+      - **(ii)** Judges for each competition shall include individuals from outside the Federal Government, including the private sector.
+      - **(iii)** A judge selected under this subparagraph may not—
+        - **(I)** have personal or financial interests in, or be an employee, officer, director, or agent of, any entity that is a registered participant in a prize competition under this paragraph; or
+        - **(II)** have a familial or financial relationship with an individual who is a registered participant.
+    - **(H)** The Secretary may enter into an agreement with a private, nonprofit entity to administer the prize competition, subject to the provisions of this paragraph.
+    - **(I)**
+      - **(i)**
+        - **(I)** A cash prize under this paragraph may consist of funds appropriated by the Federal Government and funds provided by the private sector.
+        - **(II)** The Secretary may accept funds from other Federal agencies, State and local governments, and metropolitan planning organizations for a cash prize under this paragraph.
+        - **(III)** The Secretary may not give any special consideration to any private sector entity in return for a donation under this subparagraph.
+      - **(ii)** Notwithstanding any other provision of law, amounts appropriated for prize awards under this paragraph—
+        - **(I)** shall remain available until expended; and
+        - **(II)** may not be transferred, reprogrammed, or expended for other purposes until after the expiration of the 10-year period beginning on the last day of the fiscal year for which the funds were originally appropriated.
+      - **(iii)** Nothing in this subparagraph may be construed to permit the obligation or payment of funds in violation of the Anti-Deficiency Act ( 31 U.S.C. 1341 ).
+      - **(iv)** A prize may not be announced under this paragraph until all the funds needed to pay out the announced amount of the prize have been appropriated by a governmental source or committed to in writing by a private source.
+      - **(v)** The Secretary may increase the amount of a prize after the initial announcement of the prize under this paragraph if—
+        - **(I)** notice of the increase is provided in the same manner as the initial notice of the prize; and
+        - **(II)** the funds needed to pay out the announced amount of the increase have been appropriated by a governmental source or committed to in writing by a private source.
+      - **(vi)** A prize competition under this paragraph may offer a prize in an amount greater than $1,000,000 only after 30 days have elapsed after written notice has been transmitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives.
+      - **(vii)** A prize competition under this section may not result in the award of more than $25,000 in cash prizes without the approval of the Secretary.
+    - **(J)** The Federal Government shall not, by virtue of offering or providing a prize under this paragraph, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and non-proliferation laws, and related regulations.
+    - **(K)**
+      - **(i)** Not later than 30 days prior to carrying out an activity under subparagraph (A), the Secretary shall notify the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate of the intent to use such authority.
+      - **(ii)**
+        - **(I)** The Secretary shall submit to the committees described in clause (i) on an annual basis a report on the activities carried out under subparagraph (A) in the preceding fiscal year if the Secretary exercised the authority under subparagraph (A) in that fiscal year.
+        - **(II)** A report under this subparagraph shall include, for each prize competition under subparagraph (A)—
+- **(c)**
+  - **(1)** To encourage innovative solutions to surface transportation problems and stimulate the deployment of new technology, the Secretary may carry out, on a cost-shared basis, collaborative research and development with—
+    - **(A)** non-Federal entities, including State and local governments, foreign governments, colleges and universities, corporations, institutions, partnerships, sole proprietorships, and trade associations that are incorporated or established under the laws of any State; and
+    - **(B)** Federal laboratories.
+  - **(2)** Notwithstanding any other provision of law, the Secretary may directly initiate contracts, cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a )) to fund, and accept funds from, the Transportation Research Board of the National Research Council of the National Academy of Sciences, State departments of transportation, cities, counties, and their agents to conduct joint transportation research and technology efforts.
+  - **(3)**
+    - **(A)** The Federal share of the cost of activities carried out under a cooperative research and development agreement entered into under this chapter shall not exceed 80 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
+    - **(B)** All costs directly incurred by the non-Federal partners, including personnel, travel, and hardware development costs, shall be credited toward the non-Federal share of the cost of the activities described in subparagraph (A).
+  - **(4)** The research, development, or use of a technology under a cooperative research and development agreement entered into under this chapter, including the terms under which the technology may be licensed and the resulting royalties may be distributed, shall be subject to the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
+  - **(5)** Section 6101(b) to (d) of title 41 shall not apply to a contract or agreement entered into under this chapter.

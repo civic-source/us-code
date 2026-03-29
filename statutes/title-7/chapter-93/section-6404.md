@@ -5,7 +5,7 @@ usc_section: "6404"
 chapter: 93
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 6404"
-generated_at: "2026-03-29T00:28:58.232Z"
+generated_at: "2026-03-29T02:10:17.074Z"
 ---
 
 # § 6404. Notice and comment

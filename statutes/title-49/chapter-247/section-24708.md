@@ -5,7 +5,7 @@ usc_section: "24708"
 chapter: 247
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 24708"
-generated_at: "2026-03-29T00:33:13.816Z"
+generated_at: "2026-03-29T02:16:08.951Z"
 ---
 
 # [§§ 24707, 24708. Repealed. Pub. L. 105–134, title I, § 101(d) , (e), Dec. 2, 1997 , 111 Stat. 2572 ]

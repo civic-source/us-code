@@ -5,7 +5,7 @@ usc_section: "826"
 chapter: 23
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 826"
-generated_at: "2026-03-29T00:33:18.044Z"
+generated_at: "2026-03-29T02:16:14.697Z"
 ---
 
 # §§ 811 to 826. Repealed. Pub. L. 92–128, § 2(a) , Sept. 25, 1971 , 85 Stat. 348

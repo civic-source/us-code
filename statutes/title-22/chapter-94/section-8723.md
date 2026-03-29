@@ -5,20 +5,20 @@ usc_section: "8723"
 chapter: 94
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 8723"
-generated_at: "2026-03-29T00:30:34.026Z"
+generated_at: "2026-03-29T02:12:40.465Z"
 ---
 
 # § 8723. Imposition of sanctions with respect to purchase, subscription to, or facilitation of the issuance of Iranian sovereign debt
 
-(a) The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996, as amended by section 204, with respect to a person if the President determines that the person knowingly, on or after August 10, 2012 , purchases, subscribes to, or facilitates the issuance of—
-  (1) sovereign debt of the Government of Iran issued on or after August 10, 2012 , including governmental bonds; or
-  (2) debt of any entity owned or controlled by the Government of Iran issued on or after August 10, 2012 , including bonds.
-(b) The following provisions of the Iran Sanctions Act of 1996, as amended by this Act, apply with respect to the imposition of sanctions under subsection (a) to the same extent that such provisions apply with respect to the imposition of sanctions under section 5(a) of the Iran Sanctions Act of 1996:
-  (1) Subsection (c) of section 4.
-  (2) Subsections (c), (d), and (f) of section 5.
-  (3) Section 8.
-  (4) Section 9.
-  (5) Section 11.
-  (6) Section 12.
-  (7) Subsection (b) of section 13.
-  (8) Section 14.
+- **(a)** The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996, as amended by section 204, with respect to a person if the President determines that the person knowingly, on or after August 10, 2012 , purchases, subscribes to, or facilitates the issuance of—
+  - **(1)** sovereign debt of the Government of Iran issued on or after August 10, 2012 , including governmental bonds; or
+  - **(2)** debt of any entity owned or controlled by the Government of Iran issued on or after August 10, 2012 , including bonds.
+- **(b)** The following provisions of the Iran Sanctions Act of 1996, as amended by this Act, apply with respect to the imposition of sanctions under subsection (a) to the same extent that such provisions apply with respect to the imposition of sanctions under section 5(a) of the Iran Sanctions Act of 1996:
+  - **(1)** Subsection (c) of section 4.
+  - **(2)** Subsections (c), (d), and (f) of section 5.
+  - **(3)** Section 8.
+  - **(4)** Section 9.
+  - **(5)** Section 11.
+  - **(6)** Section 12.
+  - **(7)** Subsection (b) of section 13.
+  - **(8)** Section 14.

@@ -5,19 +5,19 @@ usc_section: "3334g"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334g"
-generated_at: "2026-03-29T00:33:18.196Z"
+generated_at: "2026-03-29T02:16:14.787Z"
 ---
 
 # § 3334g. Reports on intelligence community loan repayment and related programs
 
-(a) It is the sense of Congress that—
-  (1) there should be established, through the issuing of an Intelligence Community Directive or otherwise, an intelligence-community-wide program for student loan repayment, student loan forgiveness, financial counseling, and related matters, for employees of the intelligence community;
-  (2) creating such a program would enhance the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions;
-  (3) such a program, including with respect to eligibility requirements, should be designed so as to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
-  (4) to the extent possible, such a program should be uniform throughout the intelligence community and publicly promoted by each element of the intelligence community to both current employees of the element as well as to prospective employees of the element.
-(b) 
-  (1) Not later than 180 days after December 20, 2019 , the Director of National Intelligence, in cooperation with the heads of the elements of the intelligence community and the heads of any other appropriate department or agency of the Federal Government, shall submit to the congressional intelligence committees a report on potentially establishing and carrying out an intelligence-community-wide program for student loan repayment, student loan forgiveness, financial counseling, and related matters, as described in subsection (a).
-  (2) The report under paragraph (1) shall include, at a minimum, the following:
-    (A) A description of the financial resources that the elements of the intelligence community would require to establish and initially carry out the program specified in paragraph (1).
-    (B) A description of the practical steps to establish and carry out such a program.
-    (C) The identification of any legislative action the Director determines necessary to establish and carry out such a program.
+- **(a)** It is the sense of Congress that—
+  - **(1)** there should be established, through the issuing of an Intelligence Community Directive or otherwise, an intelligence-community-wide program for student loan repayment, student loan forgiveness, financial counseling, and related matters, for employees of the intelligence community;
+  - **(2)** creating such a program would enhance the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions;
+  - **(3)** such a program, including with respect to eligibility requirements, should be designed so as to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
+  - **(4)** to the extent possible, such a program should be uniform throughout the intelligence community and publicly promoted by each element of the intelligence community to both current employees of the element as well as to prospective employees of the element.
+- **(b)**
+  - **(1)** Not later than 180 days after December 20, 2019 , the Director of National Intelligence, in cooperation with the heads of the elements of the intelligence community and the heads of any other appropriate department or agency of the Federal Government, shall submit to the congressional intelligence committees a report on potentially establishing and carrying out an intelligence-community-wide program for student loan repayment, student loan forgiveness, financial counseling, and related matters, as described in subsection (a).
+  - **(2)** The report under paragraph (1) shall include, at a minimum, the following:
+    - **(A)** A description of the financial resources that the elements of the intelligence community would require to establish and initially carry out the program specified in paragraph (1).
+    - **(B)** A description of the practical steps to establish and carry out such a program.
+    - **(C)** The identification of any legislative action the Director determines necessary to establish and carry out such a program.

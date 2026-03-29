@@ -5,7 +5,7 @@ usc_section: "416"
 chapter: 3
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 416"
-generated_at: "2026-03-29T00:29:16.501Z"
+generated_at: "2026-03-29T02:11:20.861Z"
 ---
 
 # § 416. Withdrawal of collateral deposited to protect notes and substitution of other collateral; retirement of notes; payment of notes of series prior to 1928; recovery of collateral; reissue of deposited notes

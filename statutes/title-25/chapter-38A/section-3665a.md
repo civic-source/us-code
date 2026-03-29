@@ -5,18 +5,18 @@ usc_section: "3665a"
 chapter: 38
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3665a"
-generated_at: "2026-03-29T00:30:38.765Z"
+generated_at: "2026-03-29T02:13:20.977Z"
 ---
 
 # § 3665a. Office of Tribal Justice
 
-(a) Not later than 90 days after July 29, 2010 , the Attorney General shall establish the Office of Tribal Justice as a component of the Department.
-(b) The Attorney General shall provide to the Office of Tribal Justice such personnel and funds as are necessary to establish the Office of Tribal Justice as a component of the Department under subsection (a).
-(c) The Office of Tribal Justice shall—
-  (1) serve as the program and legal policy advisor to the Attorney General with respect to the treaty and trust relationship between the United States and Indian tribes;
-  (2) serve as the point of contact for federally recognized tribal governments and tribal organizations with respect to questions and comments regarding policies and programs of the Department and issues relating to public safety and justice in Indian country; and
-  (3) coordinate with other bureaus, agencies, offices, and divisions within the Department of Justice to ensure that each component has an accountable process to ensure meaningful and timely consultation with tribal leaders in the development of regulatory policies and other actions that affect—
-    (A) the trust responsibility of the United States to Indian tribes;
-    (B) any tribal treaty provision;
-    (C) the status of Indian tribes as sovereign governments; or
-    (D) any other tribal interest.
+- **(a)** Not later than 90 days after July 29, 2010 , the Attorney General shall establish the Office of Tribal Justice as a component of the Department.
+- **(b)** The Attorney General shall provide to the Office of Tribal Justice such personnel and funds as are necessary to establish the Office of Tribal Justice as a component of the Department under subsection (a).
+- **(c)** The Office of Tribal Justice shall—
+  - **(1)** serve as the program and legal policy advisor to the Attorney General with respect to the treaty and trust relationship between the United States and Indian tribes;
+  - **(2)** serve as the point of contact for federally recognized tribal governments and tribal organizations with respect to questions and comments regarding policies and programs of the Department and issues relating to public safety and justice in Indian country; and
+  - **(3)** coordinate with other bureaus, agencies, offices, and divisions within the Department of Justice to ensure that each component has an accountable process to ensure meaningful and timely consultation with tribal leaders in the development of regulatory policies and other actions that affect—
+    - **(A)** the trust responsibility of the United States to Indian tribes;
+    - **(B)** any tribal treaty provision;
+    - **(C)** the status of Indian tribes as sovereign governments; or
+    - **(D)** any other tribal interest.

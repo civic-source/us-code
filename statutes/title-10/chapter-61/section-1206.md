@@ -5,23 +5,23 @@ usc_section: "1206"
 chapter: 61
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1206"
-generated_at: "2026-03-29T00:20:52.964Z"
+generated_at: "2026-03-29T02:10:44.993Z"
 ---
 
 # § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
 
 Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under section 1212 of this title , if the Secretary also determines that—
 
-  (1) the member has less than 20 years of service computed under section 1208 of this title ;
-  (2) the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty—
-    (A) while—
-      (i) performing active duty or inactive-duty training;
-      (ii) traveling directly to or from the place at which such duty is performed; or
-      (iii) remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member’s residence; or
-    (B) while the member—
-      (i) was serving on funeral honors duty under section 12503 of this title or section 115 of title 32 ;
-      (ii) was traveling to or from the place at which the member was to so serve; or
-      (iii) remained overnight at or in the vicinity of that place immediately before so serving;
-  (3) the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
-  (4) based upon accepted medical principles, the disability is or may be of a permanent nature; and
-  (5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999 , was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
+  - **(1)** the member has less than 20 years of service computed under section 1208 of this title ;
+  - **(2)** the disability is a result of an injury, illness, or disease incurred or aggravated in line of duty—
+    - **(A)** while—
+      - **(i)** performing active duty or inactive-duty training;
+      - **(ii)** traveling directly to or from the place at which such duty is performed; or
+      - **(iii)** remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance of the member’s residence; or
+    - **(B)** while the member—
+      - **(i)** was serving on funeral honors duty under section 12503 of this title or section 115 of title 32 ;
+      - **(ii)** was traveling to or from the place at which the member was to so serve; or
+      - **(iii)** remained overnight at or in the vicinity of that place immediately before so serving;
+  - **(3)** the disability is not the result of the member’s intentional misconduct or willful neglect, and was not incurred during a period of unauthorized absence;
+  - **(4)** based upon accepted medical principles, the disability is or may be of a permanent nature; and
+  - **(5)** the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999 , was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.

@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-29T00:29:52.656Z"
+generated_at: "2026-03-29T02:11:53.703Z"
 ---
 
 # § 831y–1. Approval of plans by Board as condition precedent to construction and operation; restraining action without approval; other laws unaffected

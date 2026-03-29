@@ -5,7 +5,7 @@ usc_section: "1871"
 chapter: 20
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1871"
-generated_at: "2026-03-29T00:31:27.692Z"
+generated_at: "2026-03-29T02:14:09.487Z"
 ---
 
 # § 1871. State laws and regulations

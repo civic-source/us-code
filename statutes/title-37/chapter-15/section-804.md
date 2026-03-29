@@ -5,7 +5,7 @@ usc_section: "804"
 chapter: 15
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 804"
-generated_at: "2026-03-29T00:32:04.431Z"
+generated_at: "2026-03-29T02:14:43.145Z"
 ---
 
 # [§ 804. Repealed. Pub. L. 104–106, div. A, title XI, § 1122(c)(1) , Feb. 10, 1996 , 110 Stat. 463 ]

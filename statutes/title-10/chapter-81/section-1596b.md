@@ -5,28 +5,28 @@ usc_section: "1596b"
 chapter: 81
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1596b"
-generated_at: "2026-03-29T00:20:52.996Z"
+generated_at: "2026-03-29T02:10:45.037Z"
 ---
 
 # § 1596b. Foreign language proficiency: National Foreign Language Skills Registry
 
-(a) 
-  (1) The Secretary of Defense may establish and maintain a registry of persons who—
-    (A) have proficiency in one or more critical foreign languages;
-    (B) are willing to provide linguistic services to the United States in the interests of national security during war or a national emergency; and
-    (C) meet the eligibility requirements of subsection (b).
-  (2) The registry shall be known as the “National Foreign Language Skills Registry” (in this section referred to as the “Registry”).
-(b) To be eligible for listing on the Registry, a person—
-  (1) must be—
-    (A) a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) )); or
-    (B) an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(20) ));
-  (2) shall express willingness, in a form and manner prescribed by the Secretary—
-    (A) to provide linguistic services for a foreign language as described in subsection (a); and
-    (B) to be listed on the Registry; and
-  (3) shall meet such language proficiency and other selection criteria as may be prescribed by the Secretary.
-(c) The Registry shall consist of the following:
-  (1) The names of eligible persons selected by the Secretary for listing on the Registry.
-  (2) Such other information on such persons as the Secretary determines pertinent to the use of such persons to provide linguistic services as described in subsection (a).
-(d) The Secretary may withhold from public disclosure the information maintained in the Registry in accordance with section 552a of title 5 .
-(e) The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
-(f) In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
+- **(a)**
+  - **(1)** The Secretary of Defense may establish and maintain a registry of persons who—
+    - **(A)** have proficiency in one or more critical foreign languages;
+    - **(B)** are willing to provide linguistic services to the United States in the interests of national security during war or a national emergency; and
+    - **(C)** meet the eligibility requirements of subsection (b).
+  - **(2)** The registry shall be known as the “National Foreign Language Skills Registry” (in this section referred to as the “Registry”).
+- **(b)** To be eligible for listing on the Registry, a person—
+  - **(1)** must be—
+    - **(A)** a national of the United States (as defined in section 101(a)(22) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(22) )); or
+    - **(B)** an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(20) ));
+  - **(2)** shall express willingness, in a form and manner prescribed by the Secretary—
+    - **(A)** to provide linguistic services for a foreign language as described in subsection (a); and
+    - **(B)** to be listed on the Registry; and
+  - **(3)** shall meet such language proficiency and other selection criteria as may be prescribed by the Secretary.
+- **(c)** The Registry shall consist of the following:
+  - **(1)** The names of eligible persons selected by the Secretary for listing on the Registry.
+  - **(2)** Such other information on such persons as the Secretary determines pertinent to the use of such persons to provide linguistic services as described in subsection (a).
+- **(d)** The Secretary may withhold from public disclosure the information maintained in the Registry in accordance with section 552a of title 5 .
+- **(e)** The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
+- **(f)** In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.

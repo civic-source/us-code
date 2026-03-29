@@ -5,31 +5,31 @@ usc_section: "2497a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2497a"
-generated_at: "2026-03-29T00:30:20.236Z"
+generated_at: "2026-03-29T02:12:08.704Z"
 ---
 
 # § 2497a. Agricultural Disaster Relief Trust Fund
 
-(a) There is established in the Treasury of the United States a trust fund to be known as the “Agricultural Disaster Relief Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section.
-(b) 
-  (1) There are appropriated to the Agricultural Disaster Relief Trust Fund amounts equivalent to 3.08 percent of the amounts received in the general fund of the Treasury of the United States during fiscal years 2008 through 2011 attributable to the duties collected on articles entered, or withdrawn from warehouse, for consumption under the Harmonized Tariff Schedule of the United States.
-  (2) The amounts appropriated under this section shall be transferred at least monthly from the general fund of the Treasury of the United States to the Agricultural Disaster Relief Trust Fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
-  (3) No amount may be appropriated to the Agricultural Disaster Relief Trust Fund on and after the date of any expenditure from the Agricultural Disaster Relief Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
-    (A) any provision of law which is not contained or referenced in this subchapter or in a revenue Act, and
-    (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
-(c) 
-  (1) The Secretary of the Treasury shall be the trustee of the Agricultural Disaster Relief Trust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
-  (2) 
-    (A) The Secretary of the Treasury shall invest such portion of the Agricultural Disaster Relief Trust Fund as is not in his judgment required to meet current withdrawals. Such investments may be made only in interest bearing obligations of the United States. For such purpose, such obligations may be acquired—
-      (i) on original issue at the issue price, or
-      (ii) by purchase of outstanding obligations at the market price.
-    (B) Any obligation acquired by the Agricultural Disaster Relief Trust Fund may be sold by the Secretary of the Treasury at the market price.
-    (C) The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief Trust Fund shall be credited to and form a part of such Trust Fund.
-(d) Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes of making expenditures to meet those obligations of the United States incurred under section 2497 of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
-(e) 
-  (1) There are authorized to be appropriated, and are appropriated, to the Agricultural Disaster Relief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
-  (2) 
-    (A) Advances made to the Agricultural Disaster Relief Trust Fund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in such Trust Fund.
-    (B) Interest on advances made pursuant to this subsection shall be—
-      (i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
-      (ii) compounded annually.
+- **(a)** There is established in the Treasury of the United States a trust fund to be known as the “Agricultural Disaster Relief Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section.
+- **(b)**
+  - **(1)** There are appropriated to the Agricultural Disaster Relief Trust Fund amounts equivalent to 3.08 percent of the amounts received in the general fund of the Treasury of the United States during fiscal years 2008 through 2011 attributable to the duties collected on articles entered, or withdrawn from warehouse, for consumption under the Harmonized Tariff Schedule of the United States.
+  - **(2)** The amounts appropriated under this section shall be transferred at least monthly from the general fund of the Treasury of the United States to the Agricultural Disaster Relief Trust Fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+  - **(3)** No amount may be appropriated to the Agricultural Disaster Relief Trust Fund on and after the date of any expenditure from the Agricultural Disaster Relief Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+    - **(A)** any provision of law which is not contained or referenced in this subchapter or in a revenue Act, and
+    - **(B)** whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this paragraph.
+- **(c)**
+  - **(1)** The Secretary of the Treasury shall be the trustee of the Agricultural Disaster Relief Trust Fund and shall submit an annual report to Congress each year on the financial condition and the results of the operations of such Trust Fund during the preceding fiscal year and on its expected condition and operations during the 4 fiscal years succeeding such fiscal year. Such report shall be printed as a House document of the session of Congress to which the report is made.
+  - **(2)**
+    - **(A)** The Secretary of the Treasury shall invest such portion of the Agricultural Disaster Relief Trust Fund as is not in his judgment required to meet current withdrawals. Such investments may be made only in interest bearing obligations of the United States. For such purpose, such obligations may be acquired—
+      - **(i)** on original issue at the issue price, or
+      - **(ii)** by purchase of outstanding obligations at the market price.
+    - **(B)** Any obligation acquired by the Agricultural Disaster Relief Trust Fund may be sold by the Secretary of the Treasury at the market price.
+    - **(C)** The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief Trust Fund shall be credited to and form a part of such Trust Fund.
+- **(d)** Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes of making expenditures to meet those obligations of the United States incurred under section 2497 of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
+- **(e)**
+  - **(1)** There are authorized to be appropriated, and are appropriated, to the Agricultural Disaster Relief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
+  - **(2)**
+    - **(A)** Advances made to the Agricultural Disaster Relief Trust Fund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in such Trust Fund.
+    - **(B)** Interest on advances made pursuant to this subsection shall be—
+      - **(i)** at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
+      - **(ii)** compounded annually.

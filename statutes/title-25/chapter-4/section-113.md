@@ -5,7 +5,7 @@ usc_section: "113"
 chapter: 4
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 113"
-generated_at: "2026-03-29T00:30:38.615Z"
+generated_at: "2026-03-29T02:13:20.838Z"
 ---
 
 # § 113. Mode of disbursements

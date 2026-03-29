@@ -5,7 +5,7 @@ usc_section: "2807"
 chapter: 29
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2807"
-generated_at: "2026-03-29T00:29:16.768Z"
+generated_at: "2026-03-29T02:11:21.152Z"
 ---
 
 # § 2807. Report

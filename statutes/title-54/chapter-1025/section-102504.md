@@ -5,7 +5,7 @@ usc_section: "102504"
 chapter: 1025
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 102504"
-generated_at: "2026-03-29T00:33:21.620Z"
+generated_at: "2026-03-29T02:16:35.466Z"
 ---
 
 # § 102504. Review and approval

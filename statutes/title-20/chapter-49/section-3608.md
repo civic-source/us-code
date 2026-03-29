@@ -5,7 +5,7 @@ usc_section: "3608"
 chapter: 49
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 3608"
-generated_at: "2026-03-29T00:07:03.166Z"
+generated_at: "2026-03-29T02:12:17.400Z"
 ---
 
 # § 3608. Employee protection

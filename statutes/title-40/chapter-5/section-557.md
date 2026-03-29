@@ -5,7 +5,7 @@ usc_section: "557"
 chapter: 5
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 557"
-generated_at: "2026-03-29T00:32:20.530Z"
+generated_at: "2026-03-29T02:14:58.778Z"
 ---
 
 # § 557. Donation of books to Free Public Library

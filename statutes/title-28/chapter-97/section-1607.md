@@ -5,13 +5,13 @@ usc_section: "1607"
 chapter: 97
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1607"
-generated_at: "2026-03-29T00:31:24.184Z"
+generated_at: "2026-03-29T02:14:04.557Z"
 ---
 
 # § 1607. Counterclaims
 
 In any action brought by a foreign state, or in which a foreign state intervenes, in a court of the United States or of a State, the foreign state shall not be accorded immunity with respect to any counterclaim—
 
-(a) for which a foreign state would not be entitled to immunity under section 1605 or 1605A of this chapter had such claim been brought in a separate action against the foreign state; or
-(b) arising out of the transaction or occurrence that is the subject matter of the claim of the foreign state; or
-(c) to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.
+- **(a)** for which a foreign state would not be entitled to immunity under section 1605 or 1605A of this chapter had such claim been brought in a separate action against the foreign state; or
+- **(b)** arising out of the transaction or occurrence that is the subject matter of the claim of the foreign state; or
+- **(c)** to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the foreign state.

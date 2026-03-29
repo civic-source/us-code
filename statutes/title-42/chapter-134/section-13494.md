@@ -5,17 +5,17 @@ usc_section: "13494"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13494"
-generated_at: "2026-03-29T00:32:54.324Z"
+generated_at: "2026-03-29T02:15:37.267Z"
 ---
 
 # § 13494. Prototype demonstration of advanced nuclear reactor technology
 
-(a) Within 3 years after October 24, 1992 , the Secretary shall solicit proposals for carrying out the preliminary engineering design of not more than 2 prototype advanced nuclear reactor technologies developed by the Department of Energy, other than advanced light water reactor technologies, necessary to support a decision on whether to recommend construction of a prototype demonstration reactor with the characteristics described in section 13493(a) of this title . Proposals submitted under this subsection shall be for modular design concepts of sufficient size to address requirements related to the certification of a standardized design.
-(b) 
-  (1) Not later than September 30, 1998 , the Secretary shall submit to Congress recommendations on whether to build one or more prototype demonstration reactors under this section. Such recommendations shall—
-    (A) specify a preferred technology or technologies;
-    (B) include detailed information on milestones for construction and operation;
-    (C) include an estimate of the funding requirements; and
-    (D) specify the extent and type of non-Federal financial support anticipated.
-  (2) The prototype demonstration program under this section shall be carried out to the maximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
-(c) Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in section 13493(a) of this title .
+- **(a)** Within 3 years after October 24, 1992 , the Secretary shall solicit proposals for carrying out the preliminary engineering design of not more than 2 prototype advanced nuclear reactor technologies developed by the Department of Energy, other than advanced light water reactor technologies, necessary to support a decision on whether to recommend construction of a prototype demonstration reactor with the characteristics described in section 13493(a) of this title . Proposals submitted under this subsection shall be for modular design concepts of sufficient size to address requirements related to the certification of a standardized design.
+- **(b)**
+  - **(1)** Not later than September 30, 1998 , the Secretary shall submit to Congress recommendations on whether to build one or more prototype demonstration reactors under this section. Such recommendations shall—
+    - **(A)** specify a preferred technology or technologies;
+    - **(B)** include detailed information on milestones for construction and operation;
+    - **(C)** include an estimate of the funding requirements; and
+    - **(D)** specify the extent and type of non-Federal financial support anticipated.
+  - **(2)** The prototype demonstration program under this section shall be carried out to the maximum extent practicable with private sector funding. At least 50 percent of the funding for such program shall be non-Federal funding. The extent of non-Federal cost sharing proposed for any demonstration project shall be a criterion for the selection of the project.
+- **(c)** Any technology selected by the Secretary for recommendation for prototype demonstration under this section shall to the maximum extent possible exhibit the characteristics set forth in section 13493(a) of this title .

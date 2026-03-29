@@ -5,7 +5,7 @@ usc_section: "1443"
 chapter: 11
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1443"
-generated_at: "2026-03-29T00:29:16.539Z"
+generated_at: "2026-03-29T02:11:20.894Z"
 ---
 
 # § 1443. Forms of bank stock and obligations

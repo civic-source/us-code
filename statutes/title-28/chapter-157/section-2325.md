@@ -5,7 +5,7 @@ usc_section: "2325"
 chapter: 157
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2325"
-generated_at: "2026-03-29T00:31:24.199Z"
+generated_at: "2026-03-29T02:14:04.574Z"
 ---
 
 # [§§ 2324, 2325. Repealed. Pub. L. 93–584, § 7 , Jan. 2, 1975 , 88 Stat. 1918 ]

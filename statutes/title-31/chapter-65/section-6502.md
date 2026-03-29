@@ -5,7 +5,7 @@ usc_section: "6502"
 chapter: 65
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 6502"
-generated_at: "2026-03-29T00:31:52.654Z"
+generated_at: "2026-03-29T02:14:14.110Z"
 ---
 
 # § 6502. Information on grants received

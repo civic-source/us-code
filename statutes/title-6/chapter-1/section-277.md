@@ -1,0 +1,14 @@
+---
+title: "Section 277 - Report on responding to fluctuating needs"
+usc_title: 6
+usc_section: "277"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 277"
+generated_at: "2026-03-29T02:10:04.980Z"
+---
+
+# § 277. Report on responding to fluctuating needs
+
+Not later than 30 days after November 25, 2002 , the Attorney General shall submit to Congress a report on changes in law, including changes in authorizations of appropriations and in appropriations, that are needed to permit the Immigration and Naturalization Service, and, after the transfer of functions specified in this part takes effect, the Bureau of Citizenship and Immigration Services of the Department, to ensure a prompt and timely response to emergent, unforeseen, or impending changes in the number of applications for immigration benefits, and otherwise to ensure the accommodation of changing immigration service needs.
+

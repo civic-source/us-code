@@ -5,10 +5,10 @@ usc_section: "8048"
 chapter: 806
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8048"
-generated_at: "2026-03-29T00:20:53.211Z"
+generated_at: "2026-03-29T02:10:45.294Z"
 ---
 
 # § 8048. Medical Officer of the Marine Corps
 
-(a) There is a Medical Officer of the Marine Corps who shall be appointed from among flag officers of the Navy.
-(b) The Medical Officer of the Marine Corps, while so serving, shall hold the grade of rear admiral (lower half).
+- **(a)** There is a Medical Officer of the Marine Corps who shall be appointed from among flag officers of the Navy.
+- **(b)** The Medical Officer of the Marine Corps, while so serving, shall hold the grade of rear admiral (lower half).

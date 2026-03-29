@@ -5,7 +5,7 @@ usc_section: "622"
 chapter: 26
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 622"
-generated_at: "2026-03-29T00:28:57.954Z"
+generated_at: "2026-03-29T02:10:16.745Z"
 ---
 
 # § 622. Omitted

@@ -5,7 +5,7 @@ usc_section: "1971"
 chapter: 50
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1971"
-generated_at: "2026-03-29T00:28:58.069Z"
+generated_at: "2026-03-29T02:10:16.876Z"
 ---
 
 # § 1971. Repealed. Pub. L. 99–198, title XIII, § 1308(d) , Dec. 23, 1985 , 99 Stat. 1523

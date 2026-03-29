@@ -5,16 +5,16 @@ usc_section: "316a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 316a"
-generated_at: "2026-03-29T00:32:04.408Z"
+generated_at: "2026-03-29T02:14:43.126Z"
 ---
 
 # § 316a. Special pay: incentive pay for members of precommissioning programs pursuing foreign language proficiency
 
-(a) The Secretary of Defense may pay incentive pay under this section to an individual who—
-  (1) is enrolled as a member of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
-  (2) participates in a language immersion program approved for purposes of the Senior Reserve Officers’ Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
-(b) Incentive pay is payable under this section to an individual described in subsection (a) for the period of the individual’s participation in the language program or study described in paragraph (2) of that subsection.
-(c) The amount of incentive pay payable to an individual under this section may not exceed $3,000 per year.
-(d) An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual’s language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title .
-(e) This section shall be administered under regulations prescribed by the Secretary of Defense.
-(f) No incentive pay may be paid under this section after December 31, 2018 .
+- **(a)** The Secretary of Defense may pay incentive pay under this section to an individual who—
+  - **(1)** is enrolled as a member of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
+  - **(2)** participates in a language immersion program approved for purposes of the Senior Reserve Officers’ Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
+- **(b)** Incentive pay is payable under this section to an individual described in subsection (a) for the period of the individual’s participation in the language program or study described in paragraph (2) of that subsection.
+- **(c)** The amount of incentive pay payable to an individual under this section may not exceed $3,000 per year.
+- **(d)** An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual’s language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title .
+- **(e)** This section shall be administered under regulations prescribed by the Secretary of Defense.
+- **(f)** No incentive pay may be paid under this section after December 31, 2018 .

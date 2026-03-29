@@ -5,7 +5,7 @@ usc_section: "1445f"
 chapter: 35
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1445f"
-generated_at: "2026-03-29T00:28:58.003Z"
+generated_at: "2026-03-29T02:10:16.797Z"
 ---
 
 # § 1445f. International Emergency Food Reserve

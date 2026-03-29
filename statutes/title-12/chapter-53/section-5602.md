@@ -5,15 +5,15 @@ usc_section: "5602"
 chapter: 53
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5602"
-generated_at: "2026-03-29T00:29:16.953Z"
+generated_at: "2026-03-29T02:11:21.307Z"
 ---
 
 # § 5602. Reverse mortgage study and regulations
 
-(a) Not later than 1 year after the designated transfer date, the Bureau shall conduct a study on reverse mortgage transactions.
-(b) 
-  (1) If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title, 1 1 See References in Text note below. including protecting borrowers with respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose. 2 2 So in original. Sentence does not appear to be complete.
-  (2) The regulations prescribed under paragraph (1) may, as the Bureau may so determine—
-    (A) identify any practice as unfair, deceptive, or abusive in connection with a reverse mortgage transaction; and
-    (B) provide for an integrated disclosure standard and model disclosures for reverse mortgage transactions, consistent with section 4302(d), 1 that combines the relevant disclosures required under the Truth in Lending Act ( 15 U.S.C. 1601 et seq.) and the Real Estate Settlement Procedures Act [ 12 U.S.C. 2601 et seq.], with the disclosures required to be provided to consumers for Home Equity Conversion Mortgages under section 1715z–20 of this title .
-(c) This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
+- **(a)** Not later than 1 year after the designated transfer date, the Bureau shall conduct a study on reverse mortgage transactions.
+- **(b)**
+  - **(1)** If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title, 1 1 See References in Text note below. including protecting borrowers with respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose. 2 2 So in original. Sentence does not appear to be complete.
+  - **(2)** The regulations prescribed under paragraph (1) may, as the Bureau may so determine—
+    - **(A)** identify any practice as unfair, deceptive, or abusive in connection with a reverse mortgage transaction; and
+    - **(B)** provide for an integrated disclosure standard and model disclosures for reverse mortgage transactions, consistent with section 4302(d), 1 that combines the relevant disclosures required under the Truth in Lending Act ( 15 U.S.C. 1601 et seq.) and the Real Estate Settlement Procedures Act [ 12 U.S.C. 2601 et seq.], with the disclosures required to be provided to consumers for Home Equity Conversion Mortgages under section 1715z–20 of this title .
+- **(c)** This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).

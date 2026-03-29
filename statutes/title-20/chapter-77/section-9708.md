@@ -5,7 +5,7 @@ usc_section: "9708"
 chapter: 77
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9708"
-generated_at: "2026-03-29T00:07:03.206Z"
+generated_at: "2026-03-29T02:12:17.534Z"
 ---
 
 # § 9708. Authorization of appropriations

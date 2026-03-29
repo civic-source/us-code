@@ -5,7 +5,7 @@ usc_section: "2410r"
 chapter: 141
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2410r"
-generated_at: "2026-03-29T00:20:53.048Z"
+generated_at: "2026-03-29T02:10:45.101Z"
 ---
 
 # [§ 2410r. Renumbered § 2387]

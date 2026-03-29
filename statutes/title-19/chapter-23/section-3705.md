@@ -5,7 +5,7 @@ usc_section: "3705"
 chapter: 23
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3705"
-generated_at: "2026-03-29T00:30:20.272Z"
+generated_at: "2026-03-29T02:12:08.738Z"
 ---
 
 # § 3705. Reporting requirement

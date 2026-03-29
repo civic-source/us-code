@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 1
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 7"
-generated_at: "2026-03-29T00:30:38.605Z"
+generated_at: "2026-03-29T02:13:20.832Z"
 ---
 
 # § 7. Fees for furnishing certified copies of records

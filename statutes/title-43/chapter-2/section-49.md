@@ -5,7 +5,7 @@ usc_section: "49"
 chapter: 2
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 49"
-generated_at: "2026-03-29T00:32:57.297Z"
+generated_at: "2026-03-29T02:15:47.508Z"
 ---
 
 # § 49. Extension of cooperative work to Puerto Rico

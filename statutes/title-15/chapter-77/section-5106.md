@@ -5,7 +5,7 @@ usc_section: "5106"
 chapter: 77
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5106"
-generated_at: "2026-03-29T00:29:41.874Z"
+generated_at: "2026-03-29T02:11:34.378Z"
 ---
 
 # § 5106. Repealed. Pub. L. 110–229, title VI, § 602(c)(1) , May 8, 2008 , 122 Stat. 853

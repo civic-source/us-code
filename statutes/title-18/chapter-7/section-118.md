@@ -5,7 +5,7 @@ usc_section: "118"
 chapter: 7
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 118"
-generated_at: "2026-03-29T00:30:15.594Z"
+generated_at: "2026-03-29T02:12:02.356Z"
 ---
 
 # § 118. Interference with certain protective functions

@@ -5,12 +5,12 @@ usc_section: "883"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 883"
-generated_at: "2026-03-29T00:20:52.899Z"
+generated_at: "2026-03-29T02:10:44.923Z"
 ---
 
 # § 883. Art. 83. Malingering
 
 Any person subject to this chapter who, with the intent to avoid work, duty, or service—
 
-  (1) feigns illness, physical disablement, mental lapse, or mental derangement; or
-  (2) intentionally inflicts self-injury;
+  - **(1)** feigns illness, physical disablement, mental lapse, or mental derangement; or
+  - **(2)** intentionally inflicts self-injury;

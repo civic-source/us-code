@@ -5,7 +5,7 @@ usc_section: "46a"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 46a"
-generated_at: "2026-03-29T00:06:10.859Z"
+generated_at: "2026-03-29T02:09:53.629Z"
 ---
 
 # § 46a. Transferred

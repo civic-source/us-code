@@ -5,7 +5,7 @@ usc_section: "251j"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 251j"
-generated_at: "2026-03-29T00:29:52.330Z"
+generated_at: "2026-03-29T02:11:53.358Z"
 ---
 
 # § 251j. Property retention rights of landowners; use and occupancy improvements; plan to be submitted to Secretary; approval evidenced by issuance of permit and certificate; limitation on acquisition power of Secretary

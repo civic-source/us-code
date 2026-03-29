@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 22
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 5"
-generated_at: "2026-03-29T00:32:57.393Z"
+generated_at: "2026-03-29T02:15:47.580Z"
 ---
 
 # § 942–5. Filing map and profile of road section; forfeiture of rights; reversion of grant

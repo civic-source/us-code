@@ -5,26 +5,26 @@ usc_section: "41720"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41720"
-generated_at: "2026-03-29T00:33:13.876Z"
+generated_at: "2026-03-29T02:16:09.010Z"
 ---
 
 # § 41720. Joint venture agreements
 
-(a) In this section, the following definitions apply:
-  (1) The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998 , with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations) of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
-  (2) The term “major air carrier” means a passenger air carrier that is certificated under chapter 411 of this title and included in Carrier Group III under criteria contained in section 04 of part 241 of title 14, Code of Federal Regulations.
-(b) At least 30 days before a joint venture agreement may take effect, each of the major air carriers that entered into the agreement shall submit to the Secretary—
-  (1) a complete copy of the joint venture agreement and all related agreements; and
-  (2) other information and documentary material that the Secretary may require by regulation.
-(c) 
-  (1) The Secretary may extend the 30-day period referred to in subsection (b) until—
-    (A) in the case of a joint venture agreement with regard to code-sharing, the 150th day following the last day of such period; and
-    (B) in the case of any other joint venture agreement, the 60th day following the last day of such period.
-  (2) If the Secretary extends the 30-day period referred to in subsection (b), the Secretary shall publish in the Federal Register the Secretary’s reasons for making the extension.
-(d) At any time after the date of submission of a joint venture agreement under subsection (b), the Secretary may terminate the waiting periods referred to in subsections (b) and (c) with respect to the agreement.
-(e) The effectiveness of a joint venture agreement may not be delayed due to any failure of the Secretary to issue regulations to carry out this section.
-(f) Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
-(g) With respect to a joint venture agreement entered into before the date of enactment of this section as to which the Secretary finds that—
-  (1) the parties submitted the agreement to the Secretary before such date of enactment; and
-  (2) the parties submitted all information on the agreement requested by the Secretary,
-(h) The authority granted to the Secretary under this section shall not in any way limit the authority of the Attorney General to enforce the antitrust laws as defined in the first section of the Clayton Act ( 15 U.S.C. 12 ).
+- **(a)** In this section, the following definitions apply:
+  - **(1)** The term “joint venture agreement” means an agreement between two or more major air carriers on or after January 1, 1998 , with regard to (A) code-sharing, blocked-space arrangements, long-term wet leases (as defined in section 207.1 of title 14, Code of Federal Regulations) of a substantial number (as defined by the Secretary by regulation) of aircraft, or frequent flyer programs, or (B) any other cooperative working arrangement (as defined by the Secretary by regulation) between 2 or more major air carriers that affects more than 15 percent of the total number of available seat miles offered by the major air carriers.
+  - **(2)** The term “major air carrier” means a passenger air carrier that is certificated under chapter 411 of this title and included in Carrier Group III under criteria contained in section 04 of part 241 of title 14, Code of Federal Regulations.
+- **(b)** At least 30 days before a joint venture agreement may take effect, each of the major air carriers that entered into the agreement shall submit to the Secretary—
+  - **(1)** a complete copy of the joint venture agreement and all related agreements; and
+  - **(2)** other information and documentary material that the Secretary may require by regulation.
+- **(c)**
+  - **(1)** The Secretary may extend the 30-day period referred to in subsection (b) until—
+    - **(A)** in the case of a joint venture agreement with regard to code-sharing, the 150th day following the last day of such period; and
+    - **(B)** in the case of any other joint venture agreement, the 60th day following the last day of such period.
+  - **(2)** If the Secretary extends the 30-day period referred to in subsection (b), the Secretary shall publish in the Federal Register the Secretary’s reasons for making the extension.
+- **(d)** At any time after the date of submission of a joint venture agreement under subsection (b), the Secretary may terminate the waiting periods referred to in subsections (b) and (c) with respect to the agreement.
+- **(e)** The effectiveness of a joint venture agreement may not be delayed due to any failure of the Secretary to issue regulations to carry out this section.
+- **(f)** Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
+- **(g)** With respect to a joint venture agreement entered into before the date of enactment of this section as to which the Secretary finds that—
+  - **(1)** the parties submitted the agreement to the Secretary before such date of enactment; and
+  - **(2)** the parties submitted all information on the agreement requested by the Secretary,
+- **(h)** The authority granted to the Secretary under this section shall not in any way limit the authority of the Attorney General to enforce the antitrust laws as defined in the first section of the Clayton Act ( 15 U.S.C. 12 ).

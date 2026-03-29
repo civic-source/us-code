@@ -5,11 +5,11 @@ usc_section: "624"
 chapter: 6
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 624"
-generated_at: "2026-03-29T00:29:16.508Z"
+generated_at: "2026-03-29T02:11:20.867Z"
 ---
 
 # § 624. Appointment of receiver or conservator
 
-    (A) The Board may appoint a conservator or receiver for a corporation organized under the provisions of this subchapter to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank, and the conservator or receiver for such corporation shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
-    (B) The Board shall have the same authority with respect to any conservator or receiver appointed for a corporation organized under the provisions of this subchapter under this section and any such corporation as the Comptroller of the Currency has with respect to a conservator or receiver of a national bank and the national bank for which a conservator or receiver has been appointed.
-    (C) The Board may direct the conservator or receiver of a corporation organized under the provisions of this subchapter to file a petition pursuant to title 11, in which case, title 11 shall apply to the corporation in lieu of otherwise applicable Federal or State insolvency law.
+    - **(A)** The Board may appoint a conservator or receiver for a corporation organized under the provisions of this subchapter to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank, and the conservator or receiver for such corporation shall exercise the same powers, functions, and duties, subject to the same limitations, as a conservator or receiver for a national bank.
+    - **(B)** The Board shall have the same authority with respect to any conservator or receiver appointed for a corporation organized under the provisions of this subchapter under this section and any such corporation as the Comptroller of the Currency has with respect to a conservator or receiver of a national bank and the national bank for which a conservator or receiver has been appointed.
+    - **(C)** The Board may direct the conservator or receiver of a corporation organized under the provisions of this subchapter to file a petition pursuant to title 11, in which case, title 11 shall apply to the corporation in lieu of otherwise applicable Federal or State insolvency law.

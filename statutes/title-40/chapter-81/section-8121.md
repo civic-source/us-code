@@ -5,14 +5,14 @@ usc_section: "8121"
 chapter: 81
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 8121"
-generated_at: "2026-03-29T00:32:20.563Z"
+generated_at: "2026-03-29T02:14:58.799Z"
 ---
 
 # § 8121. Improper appropriation of streets
 
-(a) The Secretary of the Interior shall—
-  (1) prevent the improper appropriation or occupation of any public street, avenue, square, or reservation in the District of Columbia that belongs to the Federal Government;
-  (2) reclaim the street, avenue, square, or reservation if unlawfully appropriated;
-  (3) prevent the erection of any permanent building on property reserved to or for the use of the Government, unless plainly authorized by law; and
-  (4) report to Congress at the beginning of each session on the Secretary’s proceedings in the premises, together with a full statement of all property described in this subsection, and how, and by what authority, the property is occupied or claimed.
-(b) This section does not interfere with the temporary and proper occupation of any part of the property described in subsection (a), by lawful authority, for the legitimate purposes of the Government.
+- **(a)** The Secretary of the Interior shall—
+  - **(1)** prevent the improper appropriation or occupation of any public street, avenue, square, or reservation in the District of Columbia that belongs to the Federal Government;
+  - **(2)** reclaim the street, avenue, square, or reservation if unlawfully appropriated;
+  - **(3)** prevent the erection of any permanent building on property reserved to or for the use of the Government, unless plainly authorized by law; and
+  - **(4)** report to Congress at the beginning of each session on the Secretary’s proceedings in the premises, together with a full statement of all property described in this subsection, and how, and by what authority, the property is occupied or claimed.
+- **(b)** This section does not interfere with the temporary and proper occupation of any part of the property described in subsection (a), by lawful authority, for the legitimate purposes of the Government.

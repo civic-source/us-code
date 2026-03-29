@@ -5,15 +5,15 @@ usc_section: "7931"
 chapter: 106
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7931"
-generated_at: "2026-03-29T00:28:58.304Z"
+generated_at: "2026-03-29T02:10:17.176Z"
 ---
 
 # § 7931. Availability of nonrecourse marketing assistance loans for loan commodities
 
-(a) 
-  (1) For each of the 2002 through 2007 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
-  (2) The marketing assistance loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under section 7932 of this title for the loan commodity.
-(b) The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) for any quantity of a loan commodity produced on the farm.
-(c) In carrying out this subchapter, the Secretary shall make loans to producers on a farm that would be eligible to obtain a marketing assistance loan, but for the fact the loan commodity owned by the producers on the farm commingled with loan commodities of other producers in facilities unlicensed for the storage of agricultural commodities by the Secretary or a State licensing authority, if the producers obtaining the loan agree to immediately redeem the loan collateral in accordance with section 166 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7286 ).
-(d) As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
-(e) Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7231 ), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act [ 7 U.S.C. 7231 et seq.].
+- **(a)**
+  - **(1)** For each of the 2002 through 2007 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+  - **(2)** The marketing assistance loans shall be made under terms and conditions that are prescribed by the Secretary and at the loan rate established under section 7932 of this title for the loan commodity.
+- **(b)** The producers on a farm shall be eligible for a marketing assistance loan under subsection (a) for any quantity of a loan commodity produced on the farm.
+- **(c)** In carrying out this subchapter, the Secretary shall make loans to producers on a farm that would be eligible to obtain a marketing assistance loan, but for the fact the loan commodity owned by the producers on the farm commingled with loan commodities of other producers in facilities unlicensed for the storage of agricultural commodities by the Secretary or a State licensing authority, if the producers obtaining the loan agree to immediately redeem the loan collateral in accordance with section 166 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7286 ).
+- **(d)** As a condition of the receipt of a marketing assistance loan under subsection (a), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of the Act ( 16 U.S.C. 3821 et seq.) during the term of the loan.
+- **(e)** Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 ( 7 U.S.C. 7231 ), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act [ 7 U.S.C. 7231 et seq.].

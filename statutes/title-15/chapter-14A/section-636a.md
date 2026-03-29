@@ -5,7 +5,7 @@ usc_section: "636a"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 636a"
-generated_at: "2026-03-29T00:29:41.600Z"
+generated_at: "2026-03-29T02:11:34.048Z"
 ---
 
 # § 636a. Repealed. Pub. L. 97–35, title XIX, § 1917 , Aug. 13, 1981 , 95 Stat. 781

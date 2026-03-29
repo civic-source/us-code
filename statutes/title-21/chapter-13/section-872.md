@@ -5,20 +5,20 @@ usc_section: "872"
 chapter: 13
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 872"
-generated_at: "2026-03-29T00:30:24.345Z"
+generated_at: "2026-03-29T02:12:28.158Z"
 ---
 
 # § 872. Education and research programs of Attorney General
 
-(a) The Attorney General is authorized to carry out educational and research programs directly related to enforcement of the laws under his jurisdiction concerning drugs or other substances which are or may be subject to control under this subchapter. Such programs may include—
-  (1) educational and training programs on drug abuse and controlled substances law enforcement for local, State, tribal, and Federal personnel;
-  (2) studies or special projects designed to compare the deterrent effects of various enforcement strategies on drug use and abuse;
-  (3) studies or special projects designed to assess and detect accurately the presence in the human body of drugs or other substances which are or may be subject to control under this subchapter, including the development of rapid field identification methods which would enable agents to detect microquantities of such drugs or other substances;
-  (4) studies or special projects designed to evaluate the nature and sources of the supply of illegal drugs throughout the country;
-  (5) studies or special projects to develop more effective methods to prevent diversion of controlled substances into illegal channels; and
-  (6) studies or special projects to develop information necessary to carry out his functions under section 811 of this title .
-(b) The Attorney General may enter into contracts for such educational and research activities without performance bonds and without regard to section 6101 of title 41 .
-(c) The Attorney General may authorize persons engaged in research to withhold the names and other identifying characteristics of persons who are the subjects of such research. Persons who obtain this authorization may not be compelled in any Federal, State, tribal, or local civil, criminal, administrative, legislative, or other proceeding to identify the subjects of research for which such authorization was obtained.
-(d) Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotropic Substances, or other treaties or international agreements shall be construed to limit, modify, or prevent the protection of the confidentiality of patient records or of the names and other identifying characteristics of research subjects as provided by any Federal, State, or local law or regulation.
-(e) The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorization shall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
-(f) The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
+- **(a)** The Attorney General is authorized to carry out educational and research programs directly related to enforcement of the laws under his jurisdiction concerning drugs or other substances which are or may be subject to control under this subchapter. Such programs may include—
+  - **(1)** educational and training programs on drug abuse and controlled substances law enforcement for local, State, tribal, and Federal personnel;
+  - **(2)** studies or special projects designed to compare the deterrent effects of various enforcement strategies on drug use and abuse;
+  - **(3)** studies or special projects designed to assess and detect accurately the presence in the human body of drugs or other substances which are or may be subject to control under this subchapter, including the development of rapid field identification methods which would enable agents to detect microquantities of such drugs or other substances;
+  - **(4)** studies or special projects designed to evaluate the nature and sources of the supply of illegal drugs throughout the country;
+  - **(5)** studies or special projects to develop more effective methods to prevent diversion of controlled substances into illegal channels; and
+  - **(6)** studies or special projects to develop information necessary to carry out his functions under section 811 of this title .
+- **(b)** The Attorney General may enter into contracts for such educational and research activities without performance bonds and without regard to section 6101 of title 41 .
+- **(c)** The Attorney General may authorize persons engaged in research to withhold the names and other identifying characteristics of persons who are the subjects of such research. Persons who obtain this authorization may not be compelled in any Federal, State, tribal, or local civil, criminal, administrative, legislative, or other proceeding to identify the subjects of research for which such authorization was obtained.
+- **(d)** Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotropic Substances, or other treaties or international agreements shall be construed to limit, modify, or prevent the protection of the confidentiality of patient records or of the names and other identifying characteristics of research subjects as provided by any Federal, State, or local law or regulation.
+- **(e)** The Attorney General, on his own motion or at the request of the Secretary, may authorize the possession, distribution, and dispensing of controlled substances by persons engaged in research. Persons who obtain this authorization shall be exempt from State or Federal prosecution for possession, distribution, and dispensing of controlled substances to the extent authorized by the Attorney General.
+- **(f)** The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.

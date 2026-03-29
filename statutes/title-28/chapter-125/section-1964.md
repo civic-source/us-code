@@ -5,7 +5,7 @@ usc_section: "1964"
 chapter: 125
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1964"
-generated_at: "2026-03-29T00:31:24.193Z"
+generated_at: "2026-03-29T02:14:04.569Z"
 ---
 
 # § 1964. Constructive notice of pending actions

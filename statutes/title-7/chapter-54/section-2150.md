@@ -5,7 +5,7 @@ usc_section: "2150"
 chapter: 54
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2150"
-generated_at: "2026-03-29T00:28:58.123Z"
+generated_at: "2026-03-29T02:10:16.944Z"
 ---
 
 # § 2150. Repealed. Pub. L. 94–279, § 14 , Apr. 22, 1976 , 90 Stat. 421

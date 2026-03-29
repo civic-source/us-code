@@ -5,7 +5,7 @@ usc_section: "159"
 chapter: 9
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 159"
-generated_at: "2026-03-29T00:33:18.025Z"
+generated_at: "2026-03-29T02:16:14.687Z"
 ---
 
 # §§ 158 to 159. Transferred

@@ -5,7 +5,7 @@ usc_section: "51f"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 51f"
-generated_at: "2026-03-29T00:29:16.467Z"
+generated_at: "2026-03-29T02:11:20.835Z"
 ---
 
 # §§ 51d to 51f. Repealed. June 30, 1947, ch. 166 , title II, § 206(b), (o), 61 Stat. 208

@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 15
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 14"
-generated_at: "2026-03-29T00:29:41.652Z"
+generated_at: "2026-03-29T02:11:34.118Z"
 ---
 
 # § 713a–14. Repealed. Pub. L. 113–79, title I, § 1423(a) , Feb. 7, 2014 , 128 Stat. 695

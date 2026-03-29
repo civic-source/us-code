@@ -5,21 +5,21 @@ usc_section: "7503"
 chapter: 101
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 7503"
-generated_at: "2026-03-29T00:29:41.927Z"
+generated_at: "2026-03-29T02:11:34.431Z"
 ---
 
 # § 7503. Advisory Panel
 
-(a) The President shall establish or designate a National Nanotechnology Advisory Panel.
-(b) The Advisory Panel established or designated by the President under subsection (a) shall consist primarily of members from academic institutions and industry. Members of the Advisory Panel shall be qualified to provide advice and information on nanotechnology research, development, demonstrations, education, technology transfer, commercial application, or societal and ethical concerns. In selecting or designating an Advisory Panel, the President may also seek and give consideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and academia), the defense community, State and local governments, regional nanotechnology programs, and other appropriate organizations.
-(c) The Advisory Panel shall advise the President and the Council on matters relating to the Program, including assessing—
-  (1) trends and developments in nanotechnology science and engineering;
-  (2) progress made in implementing the Program;
-  (3) the need to revise the Program;
-  (4) the balance among the components of the Program, including funding levels for the program component areas;
-  (5) whether the program component areas, priorities, and technical goals developed by the Council are helping to maintain United States leadership in nanotechnology;
-  (6) the management, coordination, implementation, and activities of the Program; and
-  (7) whether societal, ethical, legal, environmental, and workforce concerns are adequately addressed by the Program.
-(d) Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 1 1 So in original. assessments under subsection (c) and its recommendations for ways to improve the Program.
-(e) Non-Federal members of the Advisory Panel, while attending meetings of the Advisory Panel or while otherwise serving at the request of the head of the Advisory Panel away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
-(f) Section 1013 of title 5 shall not apply to the Advisory Panel.
+- **(a)** The President shall establish or designate a National Nanotechnology Advisory Panel.
+- **(b)** The Advisory Panel established or designated by the President under subsection (a) shall consist primarily of members from academic institutions and industry. Members of the Advisory Panel shall be qualified to provide advice and information on nanotechnology research, development, demonstrations, education, technology transfer, commercial application, or societal and ethical concerns. In selecting or designating an Advisory Panel, the President may also seek and give consideration to recommendations from the Congress, industry, the scientific community (including the National Academy of Sciences, scientific professional societies, and academia), the defense community, State and local governments, regional nanotechnology programs, and other appropriate organizations.
+- **(c)** The Advisory Panel shall advise the President and the Council on matters relating to the Program, including assessing—
+  - **(1)** trends and developments in nanotechnology science and engineering;
+  - **(2)** progress made in implementing the Program;
+  - **(3)** the need to revise the Program;
+  - **(4)** the balance among the components of the Program, including funding levels for the program component areas;
+  - **(5)** whether the program component areas, priorities, and technical goals developed by the Council are helping to maintain United States leadership in nanotechnology;
+  - **(6)** the management, coordination, implementation, and activities of the Program; and
+  - **(7)** whether societal, ethical, legal, environmental, and workforce concerns are adequately addressed by the Program.
+- **(d)** Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 1 1 So in original. assessments under subsection (c) and its recommendations for ways to improve the Program.
+- **(e)** Non-Federal members of the Advisory Panel, while attending meetings of the Advisory Panel or while otherwise serving at the request of the head of the Advisory Panel away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
+- **(f)** Section 1013 of title 5 shall not apply to the Advisory Panel.

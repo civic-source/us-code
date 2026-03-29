@@ -5,12 +5,12 @@ usc_section: "2065"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2065"
-generated_at: "2026-03-29T00:06:10.975Z"
+generated_at: "2026-03-29T02:09:53.756Z"
 ---
 
 # § 2065. Reimbursement of Senate day care center employees
 
-(a) Notwithstanding section 1345 of title 31 , the Secretary of the Senate may reimburse any individual employed by the Senate day care center for the cost of training classes and conferences in connection with the provision of child care services and for travel, transportation, and subsistence expenses incurred in connection with the training classes and conferences.
-(b) The Senate day care center shall certify and provide appropriate documentation to the Secretary of the Senate with respect to any reimbursement under this section. Reimbursements under this section shall be made from the appropriations account “MISCELLANEOUS ITEMS” within the contingent fund of the Senate on vouchers approved by the Secretary of the Senate.
-(c) Reimbursements under this section shall be subject to the regulations and limitations prescribed by the Committee on Rules and Administration of the Senate for travel and related expenses for which payment is authorized to be made from the contingent fund of the Senate.
-(d) This section shall be effective on and after October 1, 1996 .
+- **(a)** Notwithstanding section 1345 of title 31 , the Secretary of the Senate may reimburse any individual employed by the Senate day care center for the cost of training classes and conferences in connection with the provision of child care services and for travel, transportation, and subsistence expenses incurred in connection with the training classes and conferences.
+- **(b)** The Senate day care center shall certify and provide appropriate documentation to the Secretary of the Senate with respect to any reimbursement under this section. Reimbursements under this section shall be made from the appropriations account “MISCELLANEOUS ITEMS” within the contingent fund of the Senate on vouchers approved by the Secretary of the Senate.
+- **(c)** Reimbursements under this section shall be subject to the regulations and limitations prescribed by the Committee on Rules and Administration of the Senate for travel and related expenses for which payment is authorized to be made from the contingent fund of the Senate.
+- **(d)** This section shall be effective on and after October 1, 1996 .

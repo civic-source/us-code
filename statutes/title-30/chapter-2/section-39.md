@@ -5,7 +5,7 @@ usc_section: "39"
 chapter: 2
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 39"
-generated_at: "2026-03-29T00:31:30.743Z"
+generated_at: "2026-03-29T02:14:11.192Z"
 ---
 
 # § 39. Surveyors of mining claims

@@ -5,10 +5,10 @@ usc_section: "7806"
 chapter: 80
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7806"
-generated_at: "2026-03-29T00:31:21.116Z"
+generated_at: "2026-03-29T02:14:01.416Z"
 ---
 
 # § 7806. Construction of title
 
-(a) The cross references in this title to other portions of the title, or other provisions of law, where the word “see” is used, are made only for convenience, and shall be given no legal effect.
-(b) No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title, nor shall any table of contents, table of cross references, or similar outline, analysis, or descriptive matter relating to the contents of this title be given any legal effect. The preceding sentence also applies to the sidenotes and ancillary tables contained in the various prints of this Act before its enactment into law.
+- **(a)** The cross references in this title to other portions of the title, or other provisions of law, where the word “see” is used, are made only for convenience, and shall be given no legal effect.
+- **(b)** No inference, implication, or presumption of legislative construction shall be drawn or made by reason of the location or grouping of any particular section or provision or portion of this title, nor shall any table of contents, table of cross references, or similar outline, analysis, or descriptive matter relating to the contents of this title be given any legal effect. The preceding sentence also applies to the sidenotes and ancillary tables contained in the various prints of this Act before its enactment into law.

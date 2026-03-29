@@ -1,0 +1,14 @@
+---
+title: "Section 7355b - Rule of construction"
+usc_title: 20
+usc_section: "7355b"
+chapter: 70
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 7355b"
+generated_at: "2026-03-29T02:12:17.482Z"
+---
+
+# § 7355b. Rule of construction
+
+Nothing in this part shall be construed to prohibit a local educational agency that enters into cooperative arrangements with other local educational agencies for the provision of special, compensatory, or other education services, pursuant to State law or a written agreement, from entering into similar arrangements for the use, or the coordination of the use, of the funds made available under this part.
+

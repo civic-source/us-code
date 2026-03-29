@@ -5,7 +5,7 @@ usc_section: "2241"
 chapter: 40
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2241"
-generated_at: "2026-03-29T00:32:57.460Z"
+generated_at: "2026-03-29T02:15:47.655Z"
 ---
 
 # § 2241. Authorization of appropriations

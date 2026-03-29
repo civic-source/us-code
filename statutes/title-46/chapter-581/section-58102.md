@@ -5,12 +5,12 @@ usc_section: "58102"
 chapter: 581
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 58102"
-generated_at: "2026-03-29T00:33:02.955Z"
+generated_at: "2026-03-29T02:15:53.791Z"
 ---
 
 # § 58102. Default on payment or maintenance of reserves
 
 The Secretary of Transportation may supervise the number and compensation of all officers and employees of a contractor under the operating-differential subsidy program or a charterer under chapter 575 of this title, receiving an operating-differential subsidy, if the contractor or charterer—
 
-  (1) is in default on a mortgage, note, purchase contract, or other obligation to the Secretary; or
-  (2) has not maintained, in a manner satisfactory to the Secretary, all of the reserves provided for in this subtitle.
+  - **(1)** is in default on a mortgage, note, purchase contract, or other obligation to the Secretary; or
+  - **(2)** has not maintained, in a manner satisfactory to the Secretary, all of the reserves provided for in this subtitle.

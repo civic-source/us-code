@@ -5,41 +5,41 @@ usc_section: "2602"
 chapter: 39
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2602"
-generated_at: "2026-03-29T00:31:57.436Z"
+generated_at: "2026-03-29T02:14:18.635Z"
 ---
 
 # § 2602. Vessel permits and numbers
 
-(a) A vessel (except a public vessel as defined in section 2101 of title 46 ) may not transport municipal or commercial waste in coastal waters without—
-  (1) a permit for that vessel from the Secretary of Transportation; and
-  (2) displaying a number or other marking on the vessel as prescribed by the Secretary under chapter 123 or section 12502(b) of title 46 .
-(b) Application for a permit required by subsection (a) of this section shall be made by the vessel owner or operator and include—
-  (1) the name, address, and telephone number of the vessel owner and operator;
-  (2) the vessel’s name and identification number;
-  (3) the vessel’s area of operation;
-  (4) the vessel’s transport capacity;
-  (5) a history of the types of cargo transported by that vessel during the previous year, including identifying the type of municipal or commercial waste transported as—
-    (A) municipal waste;
-    (B) commercial waste;
-    (C) medical waste; or
-    (D) waste of another character.
-  (6) any other information the Secretary may require; and
-  (7) an acknowledgment.
-(c) A permit issued under this section—
-  (1) is effective 30 days after the date on which it was issued;
-  (2) may be issued only for a period of not more than 5 years after the effective date of the permit;
-  (3) may be renewed for periods of not more than 5 years only by the vessel owner or operator that applied for the original permit; and
-  (4) is terminated when the vessel is sold.
-(d) The Secretary may, or at the request of the Administrator shall, deny the issuance of a permit for any vessel if the owner or operator of the vessel has a record of a pattern of serious violations of—
-  (1) this subchapter;
-  (2) the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.);
-  (3) the Marine Protection, Research, and Sanctuaries Act of 1972 [ 16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.];
-  (4) the Rivers and Harbors Appropriation Act of 1899 ( 33 U.S.C. 401 et seq.); or
-  (5) the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.).
-(e) The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
-  (1) notify the applicant of the denial and the reasons for the denial; and
-  (2) provide an opportunity for a hearing on the denial.
-(f) 
-  (1) The permit issued for a vessel under this chapter shall be maintained in a manner prescribed by the Secretary.
-  (2) If a vessel is a documented vessel, the Secretary may endorse a permit on the vessel’s certificate of documentation.
-(g) The Secretary may include information in a permit in the vessel information system maintained under chapter 125 of title 46.
+- **(a)** A vessel (except a public vessel as defined in section 2101 of title 46 ) may not transport municipal or commercial waste in coastal waters without—
+  - **(1)** a permit for that vessel from the Secretary of Transportation; and
+  - **(2)** displaying a number or other marking on the vessel as prescribed by the Secretary under chapter 123 or section 12502(b) of title 46 .
+- **(b)** Application for a permit required by subsection (a) of this section shall be made by the vessel owner or operator and include—
+  - **(1)** the name, address, and telephone number of the vessel owner and operator;
+  - **(2)** the vessel’s name and identification number;
+  - **(3)** the vessel’s area of operation;
+  - **(4)** the vessel’s transport capacity;
+  - **(5)** a history of the types of cargo transported by that vessel during the previous year, including identifying the type of municipal or commercial waste transported as—
+    - **(A)** municipal waste;
+    - **(B)** commercial waste;
+    - **(C)** medical waste; or
+    - **(D)** waste of another character.
+  - **(6)** any other information the Secretary may require; and
+  - **(7)** an acknowledgment.
+- **(c)** A permit issued under this section—
+  - **(1)** is effective 30 days after the date on which it was issued;
+  - **(2)** may be issued only for a period of not more than 5 years after the effective date of the permit;
+  - **(3)** may be renewed for periods of not more than 5 years only by the vessel owner or operator that applied for the original permit; and
+  - **(4)** is terminated when the vessel is sold.
+- **(d)** The Secretary may, or at the request of the Administrator shall, deny the issuance of a permit for any vessel if the owner or operator of the vessel has a record of a pattern of serious violations of—
+  - **(1)** this subchapter;
+  - **(2)** the Solid Waste Disposal Act ( 42 U.S.C. 6901 et seq.);
+  - **(3)** the Marine Protection, Research, and Sanctuaries Act of 1972 [ 16 U.S.C. 1431 et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.];
+  - **(4)** the Rivers and Harbors Appropriation Act of 1899 ( 33 U.S.C. 401 et seq.); or
+  - **(5)** the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq.).
+- **(e)** The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
+  - **(1)** notify the applicant of the denial and the reasons for the denial; and
+  - **(2)** provide an opportunity for a hearing on the denial.
+- **(f)**
+  - **(1)** The permit issued for a vessel under this chapter shall be maintained in a manner prescribed by the Secretary.
+  - **(2)** If a vessel is a documented vessel, the Secretary may endorse a permit on the vessel’s certificate of documentation.
+- **(g)** The Secretary may include information in a permit in the vessel information system maintained under chapter 125 of title 46.

@@ -5,7 +5,7 @@ usc_section: "4854"
 chapter: 63
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4854"
-generated_at: "2026-03-29T00:32:53.882Z"
+generated_at: "2026-03-29T02:15:36.723Z"
 ---
 
 # § 4854. Research on lead exposure from other sources

@@ -5,14 +5,14 @@ usc_section: "5714"
 chapter: 83
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5714"
-generated_at: "2026-03-29T00:29:41.882Z"
+generated_at: "2026-03-29T02:11:34.386Z"
 ---
 
 # § 5714. Definitions
 
 For purposes of this subchapter:
 
-  (1) The term “pay-per-call services” has the meaning provided in section 228(i) of title 47 , except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of section 228(i)(1) of title 47 , extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to section 5711(a) of this title .
-  (2) The term “attorney general” means the chief legal officer of a State.
-  (3) The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
-  (4) The term “Commission” means the Federal Trade Commission.
+  - **(1)** The term “pay-per-call services” has the meaning provided in section 228(i) of title 47 , except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of section 228(i)(1) of title 47 , extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to section 5711(a) of this title .
+  - **(2)** The term “attorney general” means the chief legal officer of a State.
+  - **(3)** The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
+  - **(4)** The term “Commission” means the Federal Trade Commission.

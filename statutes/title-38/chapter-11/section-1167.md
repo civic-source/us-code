@@ -5,13 +5,13 @@ usc_section: "1167"
 chapter: 11
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1167"
-generated_at: "2026-03-29T00:32:17.174Z"
+generated_at: "2026-03-29T02:14:50.346Z"
 ---
 
 # § 1167. 1 1 Another section 1167 is set out preceding section 1168. Mental health consultations
 
-(a) Not later than 30 days after the date on which a veteran submits to the Secretary a claim for compensation under this chapter for a service-connected disability relating to a mental health diagnosis, the Secretary shall offer the veteran a mental health consultation to assess the mental health needs of, and care options for, the veteran.
-(b) The Secretary shall—
-  (1) offer a veteran a consultation under subsection (a) without regard to any previous denial or approval of a claim of that veteran for a service-connected disability relating to a mental health diagnosis; and
-  (2) ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date on which the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
-(c) A consultation provided to a veteran under this section shall not be construed as a determination that any disability of such veteran is service-connected for the purposes of any benefit under the laws administered by the Secretary.
+- **(a)** Not later than 30 days after the date on which a veteran submits to the Secretary a claim for compensation under this chapter for a service-connected disability relating to a mental health diagnosis, the Secretary shall offer the veteran a mental health consultation to assess the mental health needs of, and care options for, the veteran.
+- **(b)** The Secretary shall—
+  - **(1)** offer a veteran a consultation under subsection (a) without regard to any previous denial or approval of a claim of that veteran for a service-connected disability relating to a mental health diagnosis; and
+  - **(2)** ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date on which the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
+- **(c)** A consultation provided to a veteran under this section shall not be construed as a determination that any disability of such veteran is service-connected for the purposes of any benefit under the laws administered by the Secretary.

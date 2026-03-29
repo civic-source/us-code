@@ -5,7 +5,7 @@ usc_section: "9c"
 chapter: 1
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 9c"
-generated_at: "2026-03-29T00:28:57.843Z"
+generated_at: "2026-03-29T02:10:16.632Z"
 ---
 
 # § 9c. Notice of investigations and enforcement actions

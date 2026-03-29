@@ -5,7 +5,7 @@ usc_section: "6172"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6172"
-generated_at: "2026-03-29T00:20:53.177Z"
+generated_at: "2026-03-29T02:10:45.255Z"
 ---
 
 # § 6172. Classification of defense environmental cleanup as capital asset projects or operations activities

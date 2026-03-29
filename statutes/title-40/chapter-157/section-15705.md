@@ -5,10 +5,10 @@ usc_section: "15705"
 chapter: 157
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 15705"
-generated_at: "2026-03-29T00:32:20.584Z"
+generated_at: "2026-03-29T02:14:58.814Z"
 ---
 
 # § 15705. Biannual meetings of representatives of all Commissions
 
-(a) Representatives of each Commission, the Appalachian Regional Commission, and the Denali Commission shall meet biannually to discuss issues confronting regions suffering from chronic and contiguous distress and successful strategies for promoting regional development.
-(b) The chair of each meeting shall rotate among the Commissions, with the Appalachian Regional Commission to host the first meeting.
+- **(a)** Representatives of each Commission, the Appalachian Regional Commission, and the Denali Commission shall meet biannually to discuss issues confronting regions suffering from chronic and contiguous distress and successful strategies for promoting regional development.
+- **(b)** The chair of each meeting shall rotate among the Commissions, with the Appalachian Regional Commission to host the first meeting.

@@ -5,24 +5,24 @@ usc_section: "1761"
 chapter: 15
 current_through: "PL 119-73"
 classification: "8 U.S.C. § 1761"
-generated_at: "2026-03-29T00:06:34.303Z"
+generated_at: "2026-03-29T02:10:21.493Z"
 ---
 
 # § 1761. Foreign student monitoring program
 
-(a) 
-(b) Prior to the issuance of a visa under subparagraph (F), subparagraph (M), or, with respect to an alien seeking to attend an approved institution of higher education, subparagraph (J) of section 1101(a)(15) of this title , each alien applying for such visa shall provide to a consular officer the following information:
-  (1) The alien’s address in the country of origin.
-  (2) The names and addresses of the alien’s spouse, children, parents, and siblings.
-  (3) The names of contacts of the alien in the alien’s country of residence who could verify information about the alien.
-  (4) Previous work history, if any, including the names and addresses of employers.
-(c) 
-  (1) Not later than 120 days after May 14, 2002 , and until such time as the system described in section 1372 of this title is fully implemented, the following requirements shall apply:
-    (A) A visa may not be issued to an alien under subparagraph (F), subparagraph (M), or, with respect to an alien seeking to attend an approved institution of higher education, subparagraph (J) of section 1101(a)(15) of this title , unless—
-      (i) the Department of State has received from an approved institution of higher education or other approved educational institution electronic evidence of documentation of the alien’s acceptance at that institution; and
-      (ii) the consular officer has adequately reviewed the applicant’s visa record.
-    (B) Upon the issuance of a visa under section 1101(a)(15)(F) or (M) of this title to an alien, the Secretary of State shall transmit to the Immigration and Naturalization Service a notification of the issuance of that visa.
-    (C) The Immigration and Naturalization Service shall notify the approved institution of higher education or other approved educational institution that an alien accepted for such institution or program has been admitted to the United States.
-    (D) Not later than 30 days after the deadline for registering for classes for an academic term, the approved institution of higher education or other approved educational institution shall inform the Immigration and Naturalization Service through data-sharing arrangements of any failure of any alien described in subparagraph (C) to enroll or to commence participation.
-  (2) Not later than 30 days after May 14, 2002 , the Attorney General shall provide the Secretary of State with a list of all approved institutions of higher education and other approved educational institutions that are authorized to receive nonimmigrants under section 1101(a)(15)(F) or (M) of this title.
-  (3) There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+- **(a)**
+- **(b)** Prior to the issuance of a visa under subparagraph (F), subparagraph (M), or, with respect to an alien seeking to attend an approved institution of higher education, subparagraph (J) of section 1101(a)(15) of this title , each alien applying for such visa shall provide to a consular officer the following information:
+  - **(1)** The alien’s address in the country of origin.
+  - **(2)** The names and addresses of the alien’s spouse, children, parents, and siblings.
+  - **(3)** The names of contacts of the alien in the alien’s country of residence who could verify information about the alien.
+  - **(4)** Previous work history, if any, including the names and addresses of employers.
+- **(c)**
+  - **(1)** Not later than 120 days after May 14, 2002 , and until such time as the system described in section 1372 of this title is fully implemented, the following requirements shall apply:
+    - **(A)** A visa may not be issued to an alien under subparagraph (F), subparagraph (M), or, with respect to an alien seeking to attend an approved institution of higher education, subparagraph (J) of section 1101(a)(15) of this title , unless—
+      - **(i)** the Department of State has received from an approved institution of higher education or other approved educational institution electronic evidence of documentation of the alien’s acceptance at that institution; and
+      - **(ii)** the consular officer has adequately reviewed the applicant’s visa record.
+    - **(B)** Upon the issuance of a visa under section 1101(a)(15)(F) or (M) of this title to an alien, the Secretary of State shall transmit to the Immigration and Naturalization Service a notification of the issuance of that visa.
+    - **(C)** The Immigration and Naturalization Service shall notify the approved institution of higher education or other approved educational institution that an alien accepted for such institution or program has been admitted to the United States.
+    - **(D)** Not later than 30 days after the deadline for registering for classes for an academic term, the approved institution of higher education or other approved educational institution shall inform the Immigration and Naturalization Service through data-sharing arrangements of any failure of any alien described in subparagraph (C) to enroll or to commence participation.
+  - **(2)** Not later than 30 days after May 14, 2002 , the Attorney General shall provide the Secretary of State with a list of all approved institutions of higher education and other approved educational institutions that are authorized to receive nonimmigrants under section 1101(a)(15)(F) or (M) of this title.
+  - **(3)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.

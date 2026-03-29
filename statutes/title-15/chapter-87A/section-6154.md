@@ -5,20 +5,20 @@ usc_section: "6154"
 chapter: 87
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 6154"
-generated_at: "2026-03-29T00:29:41.885Z"
+generated_at: "2026-03-29T02:11:34.389Z"
 ---
 
 # § 6154. Reporting requirements
 
-(a) Not later than December 31, 2009 , and biennially thereafter, the Federal Trade Commission, in consultation with the Federal Communications Commission, shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce that includes—
-  (1) the number of consumers who have placed their telephone numbers on the registry;
-  (2) the number of persons paying fees for access to the registry and the amount of such fees;
-  (3) the impact on the “do-not-call” registry of—
-    (A) the 5-year reregistration requirement;
-    (B) new telecommunications technology; and
-    (C) number portability and abandoned telephone numbers; and
-  (4) the impact of the established business relationship exception on businesses and consumers.
-(b) Not later than December 31, 2009 , the Federal Trade Commission, in consultation with the Federal Communications Commission, shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce that includes—
-  (1) the effectiveness of do-not-call outreach and enforcement efforts with regard to senior citizens and immigrant communities;
-  (2) the impact of the exceptions to the do-not-call registry on businesses and consumers, including an analysis of the effectiveness of the registry and consumer perceptions of the registry’s effectiveness; and
-  (3) the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.
+- **(a)** Not later than December 31, 2009 , and biennially thereafter, the Federal Trade Commission, in consultation with the Federal Communications Commission, shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce that includes—
+  - **(1)** the number of consumers who have placed their telephone numbers on the registry;
+  - **(2)** the number of persons paying fees for access to the registry and the amount of such fees;
+  - **(3)** the impact on the “do-not-call” registry of—
+    - **(A)** the 5-year reregistration requirement;
+    - **(B)** new telecommunications technology; and
+    - **(C)** number portability and abandoned telephone numbers; and
+  - **(4)** the impact of the established business relationship exception on businesses and consumers.
+- **(b)** Not later than December 31, 2009 , the Federal Trade Commission, in consultation with the Federal Communications Commission, shall transmit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Energy and Commerce that includes—
+  - **(1)** the effectiveness of do-not-call outreach and enforcement efforts with regard to senior citizens and immigrant communities;
+  - **(2)** the impact of the exceptions to the do-not-call registry on businesses and consumers, including an analysis of the effectiveness of the registry and consumer perceptions of the registry’s effectiveness; and
+  - **(3)** the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.

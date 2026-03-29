@@ -5,7 +5,7 @@ usc_section: "620c"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 620c"
-generated_at: "2026-03-29T00:32:57.377Z"
+generated_at: "2026-03-29T02:15:47.567Z"
 ---
 
 # § 620c. Laws governing; irrigation repayment contracts; time for making contract; contracts for municipal water; payment by Indian lands; restricted delivery of water for excess commodity; apportionments of use

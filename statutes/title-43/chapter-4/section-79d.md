@@ -5,7 +5,7 @@ usc_section: "79d"
 chapter: 4
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 79d"
-generated_at: "2026-03-29T00:32:57.302Z"
+generated_at: "2026-03-29T02:15:47.512Z"
 ---
 
 # § 79d. Alaska land claimant liable for fees, commissions or purchase money; deposit in Treasury

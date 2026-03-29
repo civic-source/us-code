@@ -5,10 +5,10 @@ usc_section: "1725"
 chapter: 27
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1725"
-generated_at: "2026-03-29T00:06:10.960Z"
+generated_at: "2026-03-29T02:09:53.734Z"
 ---
 
 # § 1725. General powers of Board
 
-(a) The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
-(b) Two sitting members of the Board shall be appointed by the Librarian and shall serve as members of the board of directors of the National Recording Preservation Foundation, in accordance with section 152403 of title 36 .
+- **(a)** The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
+- **(b)** Two sitting members of the Board shall be appointed by the Librarian and shall serve as members of the board of directors of the National Recording Preservation Foundation, in accordance with section 152403 of title 36 .

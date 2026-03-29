@@ -5,22 +5,22 @@ usc_section: "80f"
 chapter: 3
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 80f"
-generated_at: "2026-03-29T00:07:03.100Z"
+generated_at: "2026-03-29T02:12:17.139Z"
 ---
 
 # § 80f. Woodrow Wilson International Center for Scholars; Board of Trustees of the Center
 
-(a) There is hereby established in the Smithsonian Institution a Woodrow Wilson International Center for Scholars and a Board of Trustees of the Center (hereinafter referred to as the “Center” and the “Board”), whose duties it shall be to maintain and administer the Center and site thereof and to execute such other functions as are vested in the Board by this subchapter.
-(b) The Board of Trustees shall be composed of 17 members as follows:
-  (1) the Secretary of State;
-  (2) the Secretary of Health and Human Services;
-  (3) the Secretary of Education;
-  (4) the Chairman of the National Endowment for the Humanities;
-  (5) the Secretary of the Smithsonian Institution;
-  (6) the Librarian of Congress;
-  (7) the Archivist of the United States;
-  (8) one member appointed by the President from time to time from within the Federal Government; and
-  (9) 9 members appointed by the President from private life.
-(c) Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) may designate another official to serve on the Board of Trustees in his stead.
-(d) Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968 , and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
-(e) The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.
+- **(a)** There is hereby established in the Smithsonian Institution a Woodrow Wilson International Center for Scholars and a Board of Trustees of the Center (hereinafter referred to as the “Center” and the “Board”), whose duties it shall be to maintain and administer the Center and site thereof and to execute such other functions as are vested in the Board by this subchapter.
+- **(b)** The Board of Trustees shall be composed of 17 members as follows:
+  - **(1)** the Secretary of State;
+  - **(2)** the Secretary of Health and Human Services;
+  - **(3)** the Secretary of Education;
+  - **(4)** the Chairman of the National Endowment for the Humanities;
+  - **(5)** the Secretary of the Smithsonian Institution;
+  - **(6)** the Librarian of Congress;
+  - **(7)** the Archivist of the United States;
+  - **(8)** one member appointed by the President from time to time from within the Federal Government; and
+  - **(9)** 9 members appointed by the President from private life.
+- **(c)** Each member of the Board of Trustees specified in paragraphs (1) through (8) of subsection (b) may designate another official to serve on the Board of Trustees in his stead.
+- **(d)** Each member of the Board of Trustees appointed under paragraph (10) of subsection (b) shall serve for a term of six years from the expiration of his predecessor’s term; except that (1) any trustee appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the trustees first taking office shall begin on October 24, 1968 , and shall expire as designated at the time of appointment, two at the end of two years, three at the end of four years, and three at the end of six years. No trustee of the Board chosen from private life shall be eligible to serve in excess of two consecutive terms, except that a trustee whose term has expired may serve until his successor has qualified.
+- **(e)** The President shall designate a Chairman and a Vice Chairman from among the members of the Board chosen from private life.

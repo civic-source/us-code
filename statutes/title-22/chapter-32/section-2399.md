@@ -5,7 +5,7 @@ usc_section: "2399"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2399"
-generated_at: "2026-03-29T00:30:33.805Z"
+generated_at: "2026-03-29T02:12:40.079Z"
 ---
 
 # § 2399. Repealed. Pub. L. 94–161, title I, § 101(6) , Dec. 20, 1975 , 89 Stat. 850

@@ -5,7 +5,7 @@ usc_section: "262g"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 262g"
-generated_at: "2026-03-29T00:30:33.632Z"
+generated_at: "2026-03-29T02:12:39.924Z"
 ---
 
 # § 262g. Human nutrition in developing countries and United States assistance policies with international financial institutions; declaration of policy

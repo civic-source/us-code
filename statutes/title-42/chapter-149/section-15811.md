@@ -5,16 +5,16 @@ usc_section: "15811"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15811"
-generated_at: "2026-03-29T00:32:54.357Z"
+generated_at: "2026-03-29T02:15:37.302Z"
 ---
 
 # § 15811. Voluntary commitments to reduce industrial energy intensity
 
-(a) In this section, the term “energy intensity” means the primary energy consumed for each unit of physical output in an industrial process.
-(b) The Secretary may enter into voluntary agreements with one or more persons in industrial sectors that consume significant quantities of primary energy for each unit of physical output to reduce the energy intensity of the production activities of the persons.
-(c) Voluntary agreements under this section shall have as a goal the reduction of energy intensity by not less than 2.5 percent each year during the period of calendar years 2007 through 2016.
-(d) The Secretary, in cooperation with other appropriate Federal agencies, shall develop mechanisms to recognize and publicize the achievements of participants in voluntary agreements under this section.
-(e) A person that enters into an agreement under this section and continues to make a good faith effort to achieve the energy efficiency goals specified in the agreement shall be eligible to receive from the Secretary a grant or technical assistance, as appropriate, to assist in the achievement of those goals.
-(f) Not later than each of June 30, 2012 , and June 30, 2017 , the Secretary shall submit to Congress a report that—
-  (1) evaluates the success of the voluntary agreements under this section; and
-  (2) provides independent verification of a sample of the energy savings estimates provided by participating firms.
+- **(a)** In this section, the term “energy intensity” means the primary energy consumed for each unit of physical output in an industrial process.
+- **(b)** The Secretary may enter into voluntary agreements with one or more persons in industrial sectors that consume significant quantities of primary energy for each unit of physical output to reduce the energy intensity of the production activities of the persons.
+- **(c)** Voluntary agreements under this section shall have as a goal the reduction of energy intensity by not less than 2.5 percent each year during the period of calendar years 2007 through 2016.
+- **(d)** The Secretary, in cooperation with other appropriate Federal agencies, shall develop mechanisms to recognize and publicize the achievements of participants in voluntary agreements under this section.
+- **(e)** A person that enters into an agreement under this section and continues to make a good faith effort to achieve the energy efficiency goals specified in the agreement shall be eligible to receive from the Secretary a grant or technical assistance, as appropriate, to assist in the achievement of those goals.
+- **(f)** Not later than each of June 30, 2012 , and June 30, 2017 , the Secretary shall submit to Congress a report that—
+  - **(1)** evaluates the success of the voluntary agreements under this section; and
+  - **(2)** provides independent verification of a sample of the energy savings estimates provided by participating firms.

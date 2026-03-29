@@ -1,0 +1,31 @@
+---
+title: "Section 3984 - Authorized activities"
+usc_title: 20
+usc_section: "3984"
+chapter: 52
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 3984"
+generated_at: "2026-03-29T02:12:17.402Z"
+---
+
+# § 3984. Authorized activities
+
+- **(a)**
+  - **(1)** An applicant may use payments received under this part in any fiscal year for higher education programs and activities described in this subsection.
+  - **(2)** Grants under this subsection may be used for partnership in education programs—
+    - **(A)** for the improvement of instruction in mathematics, science, computer science, and engineering education at the postsecondary level;
+    - **(B)** for awarding scholarships to students at institutions of higher education in the fields of mathematics, science, computer science, and engineering;
+    - **(C)** for the operation of faculty exchange programs by the institutions of higher education and business concerns within the State;
+    - **(D)** for research in the fields of mathematics, science, computer science, and engineering;
+    - **(E)** for the acquisition, rehabilitation, and renovation of equipment and instrumentation for use in instruction in the fields of mathematics, science, computer science, and engineering; and
+    - **(F)** to promote public understanding of science, mathematics, and computer science.
+  - **(3)** Education partnerships under this subsection may include institutions of higher education, business concerns, nonprofit private organizations, local educational agencies, professional mathematic and scientific associations, museums, libraries, educational television stations, and if the State so desires, appropriate State agencies.
+- **(b)**
+  - **(1)** An applicant may use payments received under this part in any fiscal year for programs and activities described in this subsection.
+  - **(2)** A local educational agency may carry out an elementary and secondary school partnership in education program under which—
+    - **(A)** elementary and secondary school teachers in the schools of local educational agencies who teach mathematics, science, or computer science are made available to local business concerns and business concerns with establishments located in the community to serve in such concerns or establishments;
+    - **(B)** personnel of local business concerns and business concerns with establishments located in the community serve as consultants, lecturers, teaching assistants, or teachers of mathematics, science, or computer science in the elementary and secondary schools within the State;
+    - **(C)** training and retraining is furnished to elementary and secondary school teachers of mathematics, science, and computer science under a cooperative arrangement between the State or local educational agency and appropriate business concerns;
+    - **(D)** secondary school students observe, participate, and work in local business concerns and business concerns with establishments located in the community; and
+    - **(E)** computer clubs and extracurricular activities involving modern technologies are established in elementary and secondary schools.
+  - **(3)** Partnerships under this subsection may include local educational agencies, business concerns, nonprofit private organizations, institutions of higher education, professional mathematic and scientific associations, museums, libraries, educational television stations, and, if the State so desires, appropriate State agencies.

@@ -5,7 +5,7 @@ usc_section: "1395c"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395c"
-generated_at: "2026-03-29T00:32:53.343Z"
+generated_at: "2026-03-29T02:15:36.125Z"
 ---
 
 # § 1395c. Description of program

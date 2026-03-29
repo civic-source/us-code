@@ -5,10 +5,10 @@ usc_section: "255"
 chapter: 10
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 255"
-generated_at: "2026-03-29T00:28:57.922Z"
+generated_at: "2026-03-29T02:10:16.714Z"
 ---
 
 # § 255. Jurisdiction and arbitration
 
-(a) A district court of the United States shall have exclusive jurisdiction over any action brought under this chapter without regard to the amount in controversy or the citizenship of the parties.
-(b) Nothing in this chapter prevents the enforceability of an agreement to arbitrate that would otherwise be enforceable under chapter 1 of title 9.
+- **(a)** A district court of the United States shall have exclusive jurisdiction over any action brought under this chapter without regard to the amount in controversy or the citizenship of the parties.
+- **(b)** Nothing in this chapter prevents the enforceability of an agreement to arbitrate that would otherwise be enforceable under chapter 1 of title 9.

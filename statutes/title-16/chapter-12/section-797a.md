@@ -5,7 +5,7 @@ usc_section: "797a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 797a"
-generated_at: "2026-03-29T00:29:52.631Z"
+generated_at: "2026-03-29T02:11:53.675Z"
 ---
 
 # § 797a. Congressional authorization for permits, licenses, leases, or authorizations for dams, conduits, reservoirs, etc., within national parks or monuments

@@ -5,122 +5,122 @@ usc_section: "16298d"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16298d"
-generated_at: "2026-03-29T00:32:54.397Z"
+generated_at: "2026-03-29T02:15:37.351Z"
 ---
 
 # § 16298d. Carbon removal
 
-(a) The Secretary, in coordination with the heads of appropriate Federal agencies, including the Secretary of Agriculture, shall establish a research, development, and demonstration program (referred to in this section as the “program”) to test, validate, or improve technologies and strategies to remove carbon dioxide from the atmosphere on a large scale.
-(b) The Secretary shall ensure that the program includes the coordinated participation of the Office of Fossil Energy, the Office of Science, and the Office of Energy Efficiency and Renewable Energy.
-(c) The program may include research, development, and demonstration activities relating to—
-  (1) direct air capture and storage technologies;
-  (2) bioenergy with carbon capture and sequestration;
-  (3) enhanced geological weathering;
-  (4) agricultural practices;
-  (5) forest management and afforestation; and
-  (6) planned or managed carbon sinks, including natural and artificial.
-(d) In developing and identifying carbon removal technologies and strategies under the program, the Secretary shall consider—
-  (1) land use changes, including impacts on natural and managed ecosystems;
-  (2) ocean acidification;
-  (3) net greenhouse gas emissions;
-  (4) commercial viability;
-  (5) potential for near-term impact;
-  (6) potential for carbon reductions on a gigaton scale; and
-  (7) economic cobenefits.
-(e) 
-  (1) In this subsection:
-    (A) The term “dilute media” means media in which the concentration of carbon dioxide is less than 1 percent by volume.
-    (B) The term “prize competition” means the competitive technology prize competition established under paragraph (2).
-    (C) 
-      (i) The term “qualified carbon dioxide” means any carbon dioxide that—
-        (I) is captured directly from the ambient air; and
-        (II) is measured at the source of capture and verified at the point of disposal, injection, or utilization.
-      (ii) The term “qualified carbon dioxide” includes the initial deposit of captured carbon dioxide used as a tertiary injectant.
-      (iii) The term “qualified carbon dioxide” does not include carbon dioxide that is recaptured, recycled, and reinjected as part of the enhanced oil and natural gas recovery process.
-    (D) 
-      (i) The term “qualified direct air capture facility” means any facility that—
-        (I) uses carbon capture equipment to capture carbon dioxide directly from the ambient air; and
-        (II) captures more than 50,000 metric tons of qualified carbon dioxide annually.
-      (ii) The term “qualified direct air capture facility” does not include any facility that captures carbon dioxide—
-        (I) that is deliberately released from naturally occurring subsurface springs; or
-        (II) using natural photosynthesis.
-  (2) Not later than 2 years after December 27, 2020 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish as part of the program a competitive technology prize competition to award prizes for—
-    (A) precommercial carbon dioxide capture from dilute media; and
-    (B) commercial applications of direct air capture technologies.
-  (3) In carrying out this subsection, the Secretary, in accordance with section 3719 of title 15 , shall develop requirements for—
-    (A) the prize competition process; and
-    (B) monitoring and verification procedures for projects selected to receive a prize under the prize competition.
-  (4) 
-    (A) With respect to projects described in paragraph (2)(A), to be eligible to be awarded a prize under the prize competition, a project shall—
-      (i) meet minimum performance standards set by the Secretary;
-      (ii) meet minimum levels set by the Secretary for the capture of carbon dioxide from dilute media; and
-      (iii) demonstrate in the application of the project for a prize—
-        (I) a design for a promising carbon capture technology that will—
-        (II) a successful bench-scale demonstration of a carbon capture technology; or
-        (III) an operational carbon capture technology on a commercial scale.
-    (B) 
-      (i) With respect to projects described in paragraph (2)(B), the Secretary shall award prizes under the prize competition to qualified direct air capture facilities for metric tons of qualified carbon dioxide captured and verified at the point of disposal, injection, or utilization.
-      (ii) The amount of the award per metric ton under clause (i)—
-        (I) shall be equal for each qualified direct air capture facility selected for a prize under the prize competition; and
-        (II) shall be determined by the Secretary and in any case shall not exceed—
-      (iii) The Secretary shall make awards under this subparagraph until appropriated funds are expended.
-(f) 
-  (1) Not later than 2 years after December 27, 2020 , the Secretary shall award grants to 1 or more entities for the operation of 1 or more test centers (referred to in this subsection as a “Center”) to provide distinct testing capabilities for innovative direct air capture and storage technologies.
-  (2) Each Center shall—
-    (A) advance research, development, demonstration, and commercial application of direct air capture and storage technologies;
-    (B) support large-scale pilot and demonstration projects and test direct air capture and storage technologies; and
-    (C) develop front-end engineering design and economic analysis.
-  (3) 
-    (A) The Secretary shall select entities to receive grants under this subsection according to such criteria as the Secretary may develop.
-    (B) The Secretary shall select entities to receive grants under this subsection on a competitive basis.
-    (C) In selecting entities to receive grants under this subsection, the Secretary shall prioritize consideration of applicants that—
-      (i) have access to existing or planned research facilities for direct air capture and storage technologies;
-      (ii) are institutions of higher education with established expertise in engineering for direct air capture and storage technologies, or partnerships with such institutions of higher education; or
-      (iii) have access to existing research and test facilities for bulk materials design and testing, component design and testing, or professional engineering design.
-  (4) The Secretary may develop a formula for awarding grants under this subsection.
-  (5) 
-    (A) Each grant awarded under this subsection shall be for a term of not more than 5 years, subject to the availability of appropriations.
-    (B) The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
-  (6) To the extent otherwise authorized by law, the Secretary may eliminate, and terminate grant funding under this subsection for, a Center during any 5-year term described in paragraph (5) if the Secretary determines that the Center is underperforming.
-(g) In supporting the technology development activities under this section, the Secretary is encouraged to support carbon removal pilot and demonstration projects, including—
-  (1) pilot projects that test direct air capture systems capable of capturing 10 to 100 tonnes of carbon oxides per year to provide data for demonstration-scale projects; and
-  (2) direct air capture demonstration projects capable of capturing greater than 1,000 tonnes of carbon oxides per year.
-(h) In carrying out the program, the Secretary shall encourage and promote collaborations among relevant offices and agencies within the Department.
-(i) The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measure carbon removal and sequestration methods and technologies.
-(j) 
-  (1) In this subsection:
-    (A) The term “eligible project” means a direct air capture project or a component project of a regional direct air capture hub.
-    (B) The term “regional direct air capture hub” means a network of direct air capture projects, potential carbon dioxide utilization off-takers, connective carbon dioxide transport infrastructure, subsurface resources, and sequestration infrastructure located within a region.
-  (2) 
-    (A) The Secretary shall establish a program under which the Secretary shall provide funding for eligible projects that contribute to the development of 4 regional direct air capture hubs described in subparagraph (B).
-    (B) Each of the 4 regional direct air capture hubs developed under the program under subparagraph (A) shall be a regional direct air capture hub that—
-      (i) facilitates the deployment of direct air capture projects;
-      (ii) has the capacity to capture and sequester, utilize, or sequester and utilize at least 1,000,000 metric tons of carbon dioxide from the atmosphere annually from a single unit or multiple interconnected units;
-      (iii) demonstrates the capture, processing, delivery, and sequestration or end-use of captured carbon; and
-      (iv) could be developed into a regional or interregional carbon network to facilitate sequestration or carbon utilization.
-  (3) 
-    (A) 
-      (i) Not later than 180 days after November 15, 2021 , the Secretary shall solicit applications for funding for eligible projects.
-      (ii) The Secretary shall solicit applications for funding for eligible projects on a recurring basis after the first round of applications is received under clause (i) until all amounts appropriated to carry out this subsection are expended.
-    (B) Not later than 3 years after the date of the deadline for the submission of proposals under subparagraph (A)(i), the Secretary shall select eligible projects described in paragraph (2)(A).
-    (C) The Secretary shall select eligible projects under subparagraph (B) using the following criteria:
-      (i) To the maximum extent practicable, each eligible project shall be located in a region with—
-        (I) existing carbon-intensive fuel production or industrial capacity; or
-        (II) carbon-intensive fuel production or industrial capacity that has retired or closed in the preceding 10 years.
-      (ii) To the maximum extent practicable, eligible projects shall contribute to the development of regional direct air capture hubs located in different regions of the United States.
-      (iii) To the maximum extent practicable, eligible projects shall contribute to the development of regional direct air capture hubs located in regions with high potential for carbon sequestration or utilization.
-      (iv) To the maximum extent practicable, eligible projects shall contribute to the development of at least 2 regional direct air capture hubs located in economically distressed communities in the regions of the United States with high levels of coal, oil, or natural gas resources.
-      (v) The Secretary shall give priority to eligible projects that, as compared to other eligible projects, will contribute to the development of regional direct air capture hubs with larger initial capacity, greater potential for expansion, and lower levelized cost per ton of carbon dioxide removed from the atmosphere.
-      (vi) The Secretary shall give priority to eligible projects that are likely to create opportunities for skilled training and long-term employment to the greatest number of residents of the region.
-      (vii) The Secretary may take into consideration other criteria that, in the judgment of the Secretary, are necessary or appropriate to carry out this subsection.
-    (D) To the maximum extent practicable, in carrying out the program under this subsection, the Secretary shall take into account and coordinate with activities of the carbon capture technology program established under section 16292(b)(1) of this title , the carbon storage validation and testing program established under section 16293(b)(1) of this title , and the CIFIA program established under section 16372(a) of this title such that funding from each of the programs is leveraged to contribute toward the development of integrated regional and interregional carbon capture, removal, transport, sequestration, and utilization networks.
-    (E) The Secretary may make grants to, or enter into cooperative agreements or contracts with, each eligible project selected under subparagraph (B) to accelerate commercialization of, and demonstrate the removal, processing, transport, sequestration, and utilization of, carbon dioxide captured from the atmosphere.
-  (4) There is authorized to be appropriated to the Secretary to carry out this subsection $3,500,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
-(k) There are authorized to be appropriated to the Secretary to carry out this section—
-  (1) $175,000,000 for fiscal year 2021, of which—
-    (A) $15,000,000 shall be used to carry out subsection (e)(2)(A), to remain available until expended; and
-    (B) $100,000,000 shall be used to carry out subsection (e)(2)(B), to remain available until expended;
-  (2) $63,500,000 for fiscal year 2022;
-  (3) $66,150,000 for fiscal year 2023;
-  (4) $69,458,000 for fiscal year 2024; and
-  (5) $72,930,000 for fiscal year 2025.
+- **(a)** The Secretary, in coordination with the heads of appropriate Federal agencies, including the Secretary of Agriculture, shall establish a research, development, and demonstration program (referred to in this section as the “program”) to test, validate, or improve technologies and strategies to remove carbon dioxide from the atmosphere on a large scale.
+- **(b)** The Secretary shall ensure that the program includes the coordinated participation of the Office of Fossil Energy, the Office of Science, and the Office of Energy Efficiency and Renewable Energy.
+- **(c)** The program may include research, development, and demonstration activities relating to—
+  - **(1)** direct air capture and storage technologies;
+  - **(2)** bioenergy with carbon capture and sequestration;
+  - **(3)** enhanced geological weathering;
+  - **(4)** agricultural practices;
+  - **(5)** forest management and afforestation; and
+  - **(6)** planned or managed carbon sinks, including natural and artificial.
+- **(d)** In developing and identifying carbon removal technologies and strategies under the program, the Secretary shall consider—
+  - **(1)** land use changes, including impacts on natural and managed ecosystems;
+  - **(2)** ocean acidification;
+  - **(3)** net greenhouse gas emissions;
+  - **(4)** commercial viability;
+  - **(5)** potential for near-term impact;
+  - **(6)** potential for carbon reductions on a gigaton scale; and
+  - **(7)** economic cobenefits.
+- **(e)**
+  - **(1)** In this subsection:
+    - **(A)** The term “dilute media” means media in which the concentration of carbon dioxide is less than 1 percent by volume.
+    - **(B)** The term “prize competition” means the competitive technology prize competition established under paragraph (2).
+    - **(C)**
+      - **(i)** The term “qualified carbon dioxide” means any carbon dioxide that—
+        - **(I)** is captured directly from the ambient air; and
+        - **(II)** is measured at the source of capture and verified at the point of disposal, injection, or utilization.
+      - **(ii)** The term “qualified carbon dioxide” includes the initial deposit of captured carbon dioxide used as a tertiary injectant.
+      - **(iii)** The term “qualified carbon dioxide” does not include carbon dioxide that is recaptured, recycled, and reinjected as part of the enhanced oil and natural gas recovery process.
+    - **(D)**
+      - **(i)** The term “qualified direct air capture facility” means any facility that—
+        - **(I)** uses carbon capture equipment to capture carbon dioxide directly from the ambient air; and
+        - **(II)** captures more than 50,000 metric tons of qualified carbon dioxide annually.
+      - **(ii)** The term “qualified direct air capture facility” does not include any facility that captures carbon dioxide—
+        - **(I)** that is deliberately released from naturally occurring subsurface springs; or
+        - **(II)** using natural photosynthesis.
+  - **(2)** Not later than 2 years after December 27, 2020 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall establish as part of the program a competitive technology prize competition to award prizes for—
+    - **(A)** precommercial carbon dioxide capture from dilute media; and
+    - **(B)** commercial applications of direct air capture technologies.
+  - **(3)** In carrying out this subsection, the Secretary, in accordance with section 3719 of title 15 , shall develop requirements for—
+    - **(A)** the prize competition process; and
+    - **(B)** monitoring and verification procedures for projects selected to receive a prize under the prize competition.
+  - **(4)**
+    - **(A)** With respect to projects described in paragraph (2)(A), to be eligible to be awarded a prize under the prize competition, a project shall—
+      - **(i)** meet minimum performance standards set by the Secretary;
+      - **(ii)** meet minimum levels set by the Secretary for the capture of carbon dioxide from dilute media; and
+      - **(iii)** demonstrate in the application of the project for a prize—
+        - **(I)** a design for a promising carbon capture technology that will—
+        - **(II)** a successful bench-scale demonstration of a carbon capture technology; or
+        - **(III)** an operational carbon capture technology on a commercial scale.
+    - **(B)**
+      - **(i)** With respect to projects described in paragraph (2)(B), the Secretary shall award prizes under the prize competition to qualified direct air capture facilities for metric tons of qualified carbon dioxide captured and verified at the point of disposal, injection, or utilization.
+      - **(ii)** The amount of the award per metric ton under clause (i)—
+        - **(I)** shall be equal for each qualified direct air capture facility selected for a prize under the prize competition; and
+        - **(II)** shall be determined by the Secretary and in any case shall not exceed—
+      - **(iii)** The Secretary shall make awards under this subparagraph until appropriated funds are expended.
+- **(f)**
+  - **(1)** Not later than 2 years after December 27, 2020 , the Secretary shall award grants to 1 or more entities for the operation of 1 or more test centers (referred to in this subsection as a “Center”) to provide distinct testing capabilities for innovative direct air capture and storage technologies.
+  - **(2)** Each Center shall—
+    - **(A)** advance research, development, demonstration, and commercial application of direct air capture and storage technologies;
+    - **(B)** support large-scale pilot and demonstration projects and test direct air capture and storage technologies; and
+    - **(C)** develop front-end engineering design and economic analysis.
+  - **(3)**
+    - **(A)** The Secretary shall select entities to receive grants under this subsection according to such criteria as the Secretary may develop.
+    - **(B)** The Secretary shall select entities to receive grants under this subsection on a competitive basis.
+    - **(C)** In selecting entities to receive grants under this subsection, the Secretary shall prioritize consideration of applicants that—
+      - **(i)** have access to existing or planned research facilities for direct air capture and storage technologies;
+      - **(ii)** are institutions of higher education with established expertise in engineering for direct air capture and storage technologies, or partnerships with such institutions of higher education; or
+      - **(iii)** have access to existing research and test facilities for bulk materials design and testing, component design and testing, or professional engineering design.
+  - **(4)** The Secretary may develop a formula for awarding grants under this subsection.
+  - **(5)**
+    - **(A)** Each grant awarded under this subsection shall be for a term of not more than 5 years, subject to the availability of appropriations.
+    - **(B)** The Secretary may renew a grant for 1 or more additional 5-year terms, subject to a competitive merit review and the availability of appropriations.
+  - **(6)** To the extent otherwise authorized by law, the Secretary may eliminate, and terminate grant funding under this subsection for, a Center during any 5-year term described in paragraph (5) if the Secretary determines that the Center is underperforming.
+- **(g)** In supporting the technology development activities under this section, the Secretary is encouraged to support carbon removal pilot and demonstration projects, including—
+  - **(1)** pilot projects that test direct air capture systems capable of capturing 10 to 100 tonnes of carbon oxides per year to provide data for demonstration-scale projects; and
+  - **(2)** direct air capture demonstration projects capable of capturing greater than 1,000 tonnes of carbon oxides per year.
+- **(h)** In carrying out the program, the Secretary shall encourage and promote collaborations among relevant offices and agencies within the Department.
+- **(i)** The Secretary shall collaborate with the Administrator of the Environmental Protection Agency and the heads of other relevant Federal agencies to develop and improve accounting frameworks and tools to accurately measure carbon removal and sequestration methods and technologies.
+- **(j)**
+  - **(1)** In this subsection:
+    - **(A)** The term “eligible project” means a direct air capture project or a component project of a regional direct air capture hub.
+    - **(B)** The term “regional direct air capture hub” means a network of direct air capture projects, potential carbon dioxide utilization off-takers, connective carbon dioxide transport infrastructure, subsurface resources, and sequestration infrastructure located within a region.
+  - **(2)**
+    - **(A)** The Secretary shall establish a program under which the Secretary shall provide funding for eligible projects that contribute to the development of 4 regional direct air capture hubs described in subparagraph (B).
+    - **(B)** Each of the 4 regional direct air capture hubs developed under the program under subparagraph (A) shall be a regional direct air capture hub that—
+      - **(i)** facilitates the deployment of direct air capture projects;
+      - **(ii)** has the capacity to capture and sequester, utilize, or sequester and utilize at least 1,000,000 metric tons of carbon dioxide from the atmosphere annually from a single unit or multiple interconnected units;
+      - **(iii)** demonstrates the capture, processing, delivery, and sequestration or end-use of captured carbon; and
+      - **(iv)** could be developed into a regional or interregional carbon network to facilitate sequestration or carbon utilization.
+  - **(3)**
+    - **(A)**
+      - **(i)** Not later than 180 days after November 15, 2021 , the Secretary shall solicit applications for funding for eligible projects.
+      - **(ii)** The Secretary shall solicit applications for funding for eligible projects on a recurring basis after the first round of applications is received under clause (i) until all amounts appropriated to carry out this subsection are expended.
+    - **(B)** Not later than 3 years after the date of the deadline for the submission of proposals under subparagraph (A)(i), the Secretary shall select eligible projects described in paragraph (2)(A).
+    - **(C)** The Secretary shall select eligible projects under subparagraph (B) using the following criteria:
+      - **(i)** To the maximum extent practicable, each eligible project shall be located in a region with—
+        - **(I)** existing carbon-intensive fuel production or industrial capacity; or
+        - **(II)** carbon-intensive fuel production or industrial capacity that has retired or closed in the preceding 10 years.
+      - **(ii)** To the maximum extent practicable, eligible projects shall contribute to the development of regional direct air capture hubs located in different regions of the United States.
+      - **(iii)** To the maximum extent practicable, eligible projects shall contribute to the development of regional direct air capture hubs located in regions with high potential for carbon sequestration or utilization.
+      - **(iv)** To the maximum extent practicable, eligible projects shall contribute to the development of at least 2 regional direct air capture hubs located in economically distressed communities in the regions of the United States with high levels of coal, oil, or natural gas resources.
+      - **(v)** The Secretary shall give priority to eligible projects that, as compared to other eligible projects, will contribute to the development of regional direct air capture hubs with larger initial capacity, greater potential for expansion, and lower levelized cost per ton of carbon dioxide removed from the atmosphere.
+      - **(vi)** The Secretary shall give priority to eligible projects that are likely to create opportunities for skilled training and long-term employment to the greatest number of residents of the region.
+      - **(vii)** The Secretary may take into consideration other criteria that, in the judgment of the Secretary, are necessary or appropriate to carry out this subsection.
+    - **(D)** To the maximum extent practicable, in carrying out the program under this subsection, the Secretary shall take into account and coordinate with activities of the carbon capture technology program established under section 16292(b)(1) of this title , the carbon storage validation and testing program established under section 16293(b)(1) of this title , and the CIFIA program established under section 16372(a) of this title such that funding from each of the programs is leveraged to contribute toward the development of integrated regional and interregional carbon capture, removal, transport, sequestration, and utilization networks.
+    - **(E)** The Secretary may make grants to, or enter into cooperative agreements or contracts with, each eligible project selected under subparagraph (B) to accelerate commercialization of, and demonstrate the removal, processing, transport, sequestration, and utilization of, carbon dioxide captured from the atmosphere.
+  - **(4)** There is authorized to be appropriated to the Secretary to carry out this subsection $3,500,000,000 for the period of fiscal years 2022 through 2026, to remain available until expended.
+- **(k)** There are authorized to be appropriated to the Secretary to carry out this section—
+  - **(1)** $175,000,000 for fiscal year 2021, of which—
+    - **(A)** $15,000,000 shall be used to carry out subsection (e)(2)(A), to remain available until expended; and
+    - **(B)** $100,000,000 shall be used to carry out subsection (e)(2)(B), to remain available until expended;
+  - **(2)** $63,500,000 for fiscal year 2022;
+  - **(3)** $66,150,000 for fiscal year 2023;
+  - **(4)** $69,458,000 for fiscal year 2024; and
+  - **(5)** $72,930,000 for fiscal year 2025.

@@ -5,14 +5,14 @@ usc_section: "2452a"
 chapter: 33
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2452a"
-generated_at: "2026-03-29T00:30:33.817Z"
+generated_at: "2026-03-29T02:12:40.088Z"
 ---
 
 # § 2452a. Exchange program with countries in transition from totalitarianism to democracy
 
-(a) Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 [ 22 U.S.C. 2451 et seq.] and using the authorities contained therein, the President is authorized, when the President considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for exchanges with countries that are in transition from totalitarianism to democracy, which include, but are not limited to Poland, Hungary, Czechoslovakia, Bulgaria, and Romania—
-  (1) by financing studies, research, instruction, and related activities—
-    (A) of or for American citizens and nationals in foreign countries; and
-    (B) of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambers of commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
-  (2) by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
-(b) The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.
+- **(a)** Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 [ 22 U.S.C. 2451 et seq.] and using the authorities contained therein, the President is authorized, when the President considers that it would strengthen international cooperative relations, to provide, by grant, contract, or otherwise, for exchanges with countries that are in transition from totalitarianism to democracy, which include, but are not limited to Poland, Hungary, Czechoslovakia, Bulgaria, and Romania—
+  - **(1)** by financing studies, research, instruction, and related activities—
+    - **(A)** of or for American citizens and nationals in foreign countries; and
+    - **(B)** of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambers of commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
+  - **(2)** by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
+- **(b)** The President is authorized to transfer to the appropriate appropriations account of the Department of State such sums as the President shall determine to be necessary out of the travel accounts of the departments and agencies of the United States, except for the Department of State, as the President shall designate. Such transfers shall be subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. In addition, the President is authorized to accept such gifts or cost-sharing arrangements as may be proffered to sustain the program under this section.

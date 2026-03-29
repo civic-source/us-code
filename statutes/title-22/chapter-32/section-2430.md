@@ -5,7 +5,7 @@ usc_section: "2430"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2430"
-generated_at: "2026-03-29T00:30:33.813Z"
+generated_at: "2026-03-29T02:12:40.085Z"
 ---
 
 # § 2430. Purpose

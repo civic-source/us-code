@@ -5,13 +5,13 @@ usc_section: "6006"
 chapter: 69
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6006"
-generated_at: "2026-03-29T00:30:33.952Z"
+generated_at: "2026-03-29T02:12:40.370Z"
 ---
 
 # § 6006. Policy toward a transitional Cuban Government
 
 Food, medicine, and medical supplies for humanitarian purposes should be made available for Cuba under the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.] and the Food for Peace Act [ 7 U.S.C. 1691 et seq.] if the President determines and certifies to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that the government in power in Cuba—
 
-  (1) has made a public commitment to hold free and fair elections for a new government within 6 months and is proceeding to implement that decision;
-  (2) has made a public commitment to respect, and is respecting, internationally recognized human rights and basic democratic freedoms; and
-  (3) is not providing weapons or funds to any group, in any other country, that seeks the violent overthrow of the government of that country.
+  - **(1)** has made a public commitment to hold free and fair elections for a new government within 6 months and is proceeding to implement that decision;
+  - **(2)** has made a public commitment to respect, and is respecting, internationally recognized human rights and basic democratic freedoms; and
+  - **(3)** is not providing weapons or funds to any group, in any other country, that seeks the violent overthrow of the government of that country.

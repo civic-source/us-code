@@ -5,7 +5,7 @@ usc_section: "21"
 chapter: 1
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 21"
-generated_at: "2026-03-29T00:30:34.799Z"
+generated_at: "2026-03-29T02:13:07.071Z"
 ---
 
 # § 21. Repealed. June 12, 1948, ch. 450, § 4 , 62 Stat. 380

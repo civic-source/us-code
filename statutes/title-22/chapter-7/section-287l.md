@@ -5,7 +5,7 @@ usc_section: "287l"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 287l"
-generated_at: "2026-03-29T00:30:33.694Z"
+generated_at: "2026-03-29T02:12:39.968Z"
 ---
 
 # § 287l. Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members

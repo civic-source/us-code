@@ -5,18 +5,18 @@ usc_section: "3314"
 chapter: 33
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3314"
-generated_at: "2026-03-29T00:32:17.252Z"
+generated_at: "2026-03-29T02:14:50.406Z"
 ---
 
 # § 3314. Tutorial assistance
 
-(a) Subject to subsection (b), an individual entitled to educational assistance under this chapter shall also be entitled to benefits provided an eligible veteran under section 3492.
-(b) 
-  (1) The provision of benefits under subsection (a) shall be subject to the conditions applicable to an eligible veteran under section 3492.
-  (2) In addition to the conditions specified in paragraph (1), benefits may not be provided to an individual under subsection (a) unless the professor or other individual teaching, leading, or giving the course for which such benefits are provided certifies that—
-    (A) such benefits are essential to correct a deficiency of the individual in such course; and
-    (B) such course is required as a part of, or is prerequisite or indispensable to the satisfactory pursuit of, an approved program of education.
-(c) 
-  (1) The amount of benefits described in subsection (a) that are payable under this section may not exceed $100 per month, for a maximum of 12 months, or until a maximum of $1,200 is utilized.
-  (2) The amount provided an individual under this subsection is in addition to the amounts of educational assistance paid the individual under section 3313.
-(d) Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.
+- **(a)** Subject to subsection (b), an individual entitled to educational assistance under this chapter shall also be entitled to benefits provided an eligible veteran under section 3492.
+- **(b)**
+  - **(1)** The provision of benefits under subsection (a) shall be subject to the conditions applicable to an eligible veteran under section 3492.
+  - **(2)** In addition to the conditions specified in paragraph (1), benefits may not be provided to an individual under subsection (a) unless the professor or other individual teaching, leading, or giving the course for which such benefits are provided certifies that—
+    - **(A)** such benefits are essential to correct a deficiency of the individual in such course; and
+    - **(B)** such course is required as a part of, or is prerequisite or indispensable to the satisfactory pursuit of, an approved program of education.
+- **(c)**
+  - **(1)** The amount of benefits described in subsection (a) that are payable under this section may not exceed $100 per month, for a maximum of 12 months, or until a maximum of $1,200 is utilized.
+  - **(2)** The amount provided an individual under this subsection is in addition to the amounts of educational assistance paid the individual under section 3313.
+- **(d)** Any benefits provided an individual under subsection (a) are in addition to any other educational assistance benefits provided the individual under this chapter.

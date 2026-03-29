@@ -5,7 +5,7 @@ usc_section: "2009"
 chapter: 40
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2009"
-generated_at: "2026-03-29T00:29:52.766Z"
+generated_at: "2026-03-29T02:11:53.847Z"
 ---
 
 # § 2009. Termination of program

@@ -5,7 +5,7 @@ usc_section: "221"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 221"
-generated_at: "2026-03-29T00:29:52.322Z"
+generated_at: "2026-03-29T02:11:53.353Z"
 ---
 
 # § 221. Establishment; boundaries

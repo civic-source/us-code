@@ -5,7 +5,7 @@ usc_section: "4994"
 chapter: 66
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4994"
-generated_at: "2026-03-29T00:32:53.886Z"
+generated_at: "2026-03-29T02:15:36.727Z"
 ---
 
 # § 4994. Repealed. Pub. L. 103–82, title III, § 333(1) , Sept. 21, 1993 , 107 Stat. 903

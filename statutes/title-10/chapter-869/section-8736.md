@@ -5,10 +5,10 @@ usc_section: "8736"
 chapter: 869
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8736"
-generated_at: "2026-03-29T00:20:53.244Z"
+generated_at: "2026-03-29T02:10:45.323Z"
 ---
 
 # § 8736. Regulations
 
-(a) The Secretary may prescribe regulations and take any proper action to accomplish the purposes of this chapter.
-(b) All statements, reports, and representations required by the regulations shall be under oath, unless otherwise specified, and in such form as the Secretary requires.
+- **(a)** The Secretary may prescribe regulations and take any proper action to accomplish the purposes of this chapter.
+- **(b)** All statements, reports, and representations required by the regulations shall be under oath, unless otherwise specified, and in such form as the Secretary requires.

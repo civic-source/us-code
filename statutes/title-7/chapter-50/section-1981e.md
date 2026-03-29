@@ -5,13 +5,13 @@ usc_section: "1981e"
 chapter: 50
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1981e"
-generated_at: "2026-03-29T00:28:58.070Z"
+generated_at: "2026-03-29T02:10:16.877Z"
 ---
 
 # § 1981e. Planting and production history guidelines
 
-(a) The Secretary shall ensure that appropriate procedures, including to the extent practicable onsite inspections, or use of county or State yield averages, are used in calculating future yields for an applicant for a loan, when an accurate projection cannot be made because the applicant’s past production history has been affected by natural disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
-(b) 
-  (1) For purposes of averaging past yields of the farm of a borrower or applicant over a period of crop years to calculate future yields for the farm under this chapter (except for loans under subchapter III), the Secretary shall permit the borrower or applicant to exclude the crop year with the lowest actual or county average yield for the farm from the calculation, if the borrower or applicant was affected by a disaster during at least 2 of the crop years during the period.
-  (2) For purposes of paragraph (1), a borrower or applicant was affected by a disaster if the Secretary finds that the borrower or applicant’s farming operations have been substantially affected by a natural disaster in the United States or by a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), including a borrower or applicant who has a qualifying loss but is not located in a designated or declared disaster area.
-  (3) Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.
+- **(a)** The Secretary shall ensure that appropriate procedures, including to the extent practicable onsite inspections, or use of county or State yield averages, are used in calculating future yields for an applicant for a loan, when an accurate projection cannot be made because the applicant’s past production history has been affected by natural disasters declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.).
+- **(b)**
+  - **(1)** For purposes of averaging past yields of the farm of a borrower or applicant over a period of crop years to calculate future yields for the farm under this chapter (except for loans under subchapter III), the Secretary shall permit the borrower or applicant to exclude the crop year with the lowest actual or county average yield for the farm from the calculation, if the borrower or applicant was affected by a disaster during at least 2 of the crop years during the period.
+  - **(2)** For purposes of paragraph (1), a borrower or applicant was affected by a disaster if the Secretary finds that the borrower or applicant’s farming operations have been substantially affected by a natural disaster in the United States or by a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.), including a borrower or applicant who has a qualifying loss but is not located in a designated or declared disaster area.
+  - **(3)** Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.

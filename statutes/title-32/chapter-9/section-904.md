@@ -5,14 +5,14 @@ usc_section: "904"
 chapter: 9
 current_through: "PL 119-73"
 classification: "32 U.S.C. § 904"
-generated_at: "2026-03-29T00:31:53.412Z"
+generated_at: "2026-03-29T02:14:14.597Z"
 ---
 
 # § 904. Homeland defense duty
 
-(a) All duty performed under this chapter shall be considered to be full-time National Guard duty under section 502(f) of this title . Members of the National Guard performing full-time National Guard duty in the Active Guard and Reserve Program may support or execute homeland defense activities performed by the National Guard under this chapter.
-(b) The period for which a member of the National Guard performs duty under this chapter shall be limited to 180 days. The Governor of the State may, with the concurrence of the Secretary of Defense, extend the period one time for an additional 90 days to meet extraordinary circumstances.
-(c) A member of the National Guard performing duty under this chapter shall, in addition to performing such duty, participate in the training required under section 502(a) of this title . The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing the duty under this chapter. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title .
-(d) To ensure that the use of units and personnel of the National Guard of a State for homeland defense activities does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the homeland defense activities that units and personnel of the National Guard of a State may perform:
-  (1) The performance of the activities is not to affect adversely the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit.
-  (2) The performance of the activities is not to degrade the military skills of the members of the National Guard performing those activities.
+- **(a)** All duty performed under this chapter shall be considered to be full-time National Guard duty under section 502(f) of this title . Members of the National Guard performing full-time National Guard duty in the Active Guard and Reserve Program may support or execute homeland defense activities performed by the National Guard under this chapter.
+- **(b)** The period for which a member of the National Guard performs duty under this chapter shall be limited to 180 days. The Governor of the State may, with the concurrence of the Secretary of Defense, extend the period one time for an additional 90 days to meet extraordinary circumstances.
+- **(c)** A member of the National Guard performing duty under this chapter shall, in addition to performing such duty, participate in the training required under section 502(a) of this title . The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing the duty under this chapter. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title .
+- **(d)** To ensure that the use of units and personnel of the National Guard of a State for homeland defense activities does not degrade the training and readiness of such units and personnel, the following requirements shall apply in determining the homeland defense activities that units and personnel of the National Guard of a State may perform:
+  - **(1)** The performance of the activities is not to affect adversely the quality of that training or otherwise interfere with the ability of a member or unit of the National Guard to perform the military functions of the member or unit.
+  - **(2)** The performance of the activities is not to degrade the military skills of the members of the National Guard performing those activities.

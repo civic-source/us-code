@@ -5,7 +5,7 @@ usc_section: "15344"
 chapter: 146
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15344"
-generated_at: "2026-03-29T00:32:54.355Z"
+generated_at: "2026-03-29T02:15:37.300Z"
 ---
 
 # § 15344. Transferred

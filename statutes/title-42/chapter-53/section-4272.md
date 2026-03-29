@@ -5,7 +5,7 @@ usc_section: "4272"
 chapter: 53
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4272"
-generated_at: "2026-03-29T00:32:53.863Z"
+generated_at: "2026-03-29T02:15:36.697Z"
 ---
 
 # § 4272. Declaration of purpose

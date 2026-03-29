@@ -5,7 +5,7 @@ usc_section: "2003"
 chapter: 46
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2003"
-generated_at: "2026-03-29T00:29:41.754Z"
+generated_at: "2026-03-29T02:11:34.249Z"
 ---
 
 # § 2003. Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 Stat. 1379 ; Pub. L. 103–429, § 11(b) , Oct. 31, 1994 , 108 Stat. 4391

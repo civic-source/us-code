@@ -5,7 +5,7 @@ usc_section: "16106"
 chapter: 161
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 16106"
-generated_at: "2026-03-29T00:33:13.787Z"
+generated_at: "2026-03-29T02:16:08.926Z"
 ---
 
 # § 16106. Punishment of corporation for violations committed by certain individuals

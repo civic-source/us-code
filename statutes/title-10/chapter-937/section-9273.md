@@ -5,7 +5,7 @@ usc_section: "9273"
 chapter: 937
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9273"
-generated_at: "2026-03-29T00:20:53.257Z"
+generated_at: "2026-03-29T02:10:45.339Z"
 ---
 
 # § 9273. Distinguished-service medal: award

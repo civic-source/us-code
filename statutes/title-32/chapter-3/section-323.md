@@ -5,16 +5,16 @@ usc_section: "323"
 chapter: 3
 current_through: "PL 119-73"
 classification: "32 U.S.C. § 323"
-generated_at: "2026-03-29T00:31:53.405Z"
+generated_at: "2026-03-29T02:14:14.593Z"
 ---
 
 # § 323. Withdrawal of Federal recognition
 
-(a) Whenever a member of the National Guard ceases to have the qualifications prescribed under section 301 of this title or ceases to be a member of a federally recognized unit or organization of the National Guard, his Federal recognition shall be withdrawn.
-(b) Under regulations to be prescribed by the President, the capacity and general fitness of an officer of the National Guard for continued Federal recognition may be investigated at any time by an efficiency board composed of commissioned officers of—
-  (1) the Regular Army or the Army National Guard of the United States, or both, who out-rank him and who are detailed by the Secretary of the Army, if he is a member of the Army National Guard; or
-  (2) the Regular Air Force or the Air National Guard of the United States, or both, who outrank him and who are detailed by the Secretary of the Air Force, if he is a member of the Air National Guard.
-(c) If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case may be, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
-(d) The Federal recognition of a reserve commissioned officer of the Army or the Air Force who is—
-  (1) federally recognized as an officer of the National Guard; and
-  (2) subject to involuntary transfer to the Retired Reserve, transfer to an inactive status list, or discharge under chapter 1407, 1409, or 1411 of title 10;
+- **(a)** Whenever a member of the National Guard ceases to have the qualifications prescribed under section 301 of this title or ceases to be a member of a federally recognized unit or organization of the National Guard, his Federal recognition shall be withdrawn.
+- **(b)** Under regulations to be prescribed by the President, the capacity and general fitness of an officer of the National Guard for continued Federal recognition may be investigated at any time by an efficiency board composed of commissioned officers of—
+  - **(1)** the Regular Army or the Army National Guard of the United States, or both, who out-rank him and who are detailed by the Secretary of the Army, if he is a member of the Army National Guard; or
+  - **(2)** the Regular Air Force or the Air National Guard of the United States, or both, who outrank him and who are detailed by the Secretary of the Air Force, if he is a member of the Air National Guard.
+- **(c)** If a member of the Army National Guard of the United States or the Air National Guard of the United States is transferred to the Army Reserve or the Air Force Reserve, as the case may be, under section 12105, 12213(a), or 12214(a) of title 10, his Federal recognition is withdrawn.
+- **(d)** The Federal recognition of a reserve commissioned officer of the Army or the Air Force who is—
+  - **(1)** federally recognized as an officer of the National Guard; and
+  - **(2)** subject to involuntary transfer to the Retired Reserve, transfer to an inactive status list, or discharge under chapter 1407, 1409, or 1411 of title 10;

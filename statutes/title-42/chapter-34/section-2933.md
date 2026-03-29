@@ -5,7 +5,7 @@ usc_section: "2933"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2933"
-generated_at: "2026-03-29T00:32:53.789Z"
+generated_at: "2026-03-29T02:15:36.622Z"
 ---
 
 # §§ 2931 to 2933. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

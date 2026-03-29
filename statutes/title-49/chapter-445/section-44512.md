@@ -5,12 +5,12 @@ usc_section: "44512"
 chapter: 445
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44512"
-generated_at: "2026-03-29T00:33:13.889Z"
+generated_at: "2026-03-29T02:16:09.022Z"
 ---
 
 # § 44512. Catastrophic failure prevention research grants
 
-(a) The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations—
-  (1) to conduct aviation research related to the development of technologies and methods to assess the risk of, and prevent, defects, failures, and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft; and
-  (2) to establish centers of excellence for continuing the research.
-(b) The Administrator shall establish a solicitation, application, review, and evaluation process that ensures providing grants under this section for proposals having adequate merit and relevancy to the research described in subsection (a) of this section.
+- **(a)** The Administrator of the Federal Aviation Administration may make grants to institutions of higher education and nonprofit research organizations—
+  - **(1)** to conduct aviation research related to the development of technologies and methods to assess the risk of, and prevent, defects, failures, and malfunctions of products, parts, processes, and articles manufactured for use in aircraft, aircraft engines, propellers, and appliances that could result in a catastrophic failure of an aircraft; and
+  - **(2)** to establish centers of excellence for continuing the research.
+- **(b)** The Administrator shall establish a solicitation, application, review, and evaluation process that ensures providing grants under this section for proposals having adequate merit and relevancy to the research described in subsection (a) of this section.

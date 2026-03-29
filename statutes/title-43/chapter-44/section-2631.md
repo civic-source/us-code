@@ -5,7 +5,7 @@ usc_section: "2631"
 chapter: 44
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2631"
-generated_at: "2026-03-29T00:32:57.467Z"
+generated_at: "2026-03-29T02:15:47.660Z"
 ---
 
 # § 2631. Unselected and unpatented odd-numbered sections as revested grant lands; administration as national-forest lands; revenues; prohibition against disposition or exchange

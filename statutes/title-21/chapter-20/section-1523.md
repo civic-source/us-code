@@ -5,23 +5,23 @@ usc_section: "1523"
 chapter: 20
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 1523"
-generated_at: "2026-03-29T00:30:24.356Z"
+generated_at: "2026-03-29T02:12:28.173Z"
 ---
 
 # § 1523. Definitions
 
 In this subchapter:
 
-  (1) The term “Administrator” means the Administrator appointed by the Director under section 1531(c) of this title .
-  (2) The term “Advisory Commission” means the Advisory Commission established under section 1541 1 1 See References in Text note below. of this title.
-  (3) The term “community” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.
-  (4) The term “Director” means the Director of the Office of National Drug Control Policy.
-  (5) The term “eligible coalition” means a coalition that meets the applicable criteria under section 1532(a) of this title .
-  (6) The term “grant recipient” means the recipient of a grant award under section 1532 of this title .
-  (7) The term “nonprofit organization” means an organization described under section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26 .
-  (8) The term “Program” means the program established under section 1531(a) of this title .
-  (9) The term “substance use and misuse” means—
-    (A) the illegal use or misuse of drugs, including substances for which a listing is effect 2 2 So in original. under any of schedules I through V under section 812 of this title ;
-    (B) the misuse of inhalants or over-the-counter drugs; or
-    (C) the use of alcohol, tobacco, or other related product as such use is prohibited by State or local law.
-  (10) The term “youth” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.
+  - **(1)** The term “Administrator” means the Administrator appointed by the Director under section 1531(c) of this title .
+  - **(2)** The term “Advisory Commission” means the Advisory Commission established under section 1541 1 1 See References in Text note below. of this title.
+  - **(3)** The term “community” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.
+  - **(4)** The term “Director” means the Director of the Office of National Drug Control Policy.
+  - **(5)** The term “eligible coalition” means a coalition that meets the applicable criteria under section 1532(a) of this title .
+  - **(6)** The term “grant recipient” means the recipient of a grant award under section 1532 of this title .
+  - **(7)** The term “nonprofit organization” means an organization described under section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26 .
+  - **(8)** The term “Program” means the program established under section 1531(a) of this title .
+  - **(9)** The term “substance use and misuse” means—
+    - **(A)** the illegal use or misuse of drugs, including substances for which a listing is effect 2 2 So in original. under any of schedules I through V under section 812 of this title ;
+    - **(B)** the misuse of inhalants or over-the-counter drugs; or
+    - **(C)** the use of alcohol, tobacco, or other related product as such use is prohibited by State or local law.
+  - **(10)** The term “youth” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.

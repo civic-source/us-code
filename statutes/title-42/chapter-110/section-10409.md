@@ -5,13 +5,13 @@ usc_section: "10409"
 chapter: 110
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10409"
-generated_at: "2026-03-29T00:32:54.210Z"
+generated_at: "2026-03-29T02:15:37.136Z"
 ---
 
 # § 10409. Grants for Indian tribes
 
-(a) The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ( 25 U.S.C. 450 note) 1 1 See References in Text note below. and in accordance with section 20126 of title 34 , shall continue to award grants for Indian tribes from amounts appropriated under section 10403(a)(2)(B) of this title to carry out this section.
-(b) To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
-(c) Each recipient of such a grant shall comply with requirements that are consistent with the requirements applicable to grantees under section 10406 of this title .
-(d) To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title .
-(e) An amount provided under a grant to an eligible entity shall be used for the services described in section 10408(b) of this title .
+- **(a)** The Secretary, in consultation with tribal governments pursuant to Executive Order No. 13175 ( 25 U.S.C. 450 note) 1 1 See References in Text note below. and in accordance with section 20126 of title 34 , shall continue to award grants for Indian tribes from amounts appropriated under section 10403(a)(2)(B) of this title to carry out this section.
+- **(b)** To be eligible to receive a grant under this section, an entity shall be an Indian tribe, or a tribal organization or nonprofit private organization authorized by an Indian tribe. An Indian tribe shall have the option to authorize a tribal organization or a nonprofit private organization to submit an application and administer the grant funds awarded under this section.
+- **(c)** Each recipient of such a grant shall comply with requirements that are consistent with the requirements applicable to grantees under section 10406 of this title .
+- **(d)** To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title .
+- **(e)** An amount provided under a grant to an eligible entity shall be used for the services described in section 10408(b) of this title .

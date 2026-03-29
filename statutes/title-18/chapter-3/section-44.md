@@ -5,7 +5,7 @@ usc_section: "44"
 chapter: 3
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 44"
-generated_at: "2026-03-29T00:30:15.592Z"
+generated_at: "2026-03-29T02:12:02.354Z"
 ---
 
 # [§ 44. Repealed. Pub. L. 97–79, § 9(b)(2) , Nov. 16, 1981 , 95 Stat. 1079 ]

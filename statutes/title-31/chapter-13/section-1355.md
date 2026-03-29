@@ -5,12 +5,12 @@ usc_section: "1355"
 chapter: 13
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1355"
-generated_at: "2026-03-29T00:31:52.595Z"
+generated_at: "2026-03-29T02:14:14.051Z"
 ---
 
 # § 1355. Prohibition on use of funds for portraits
 
-(a) No funds appropriated or otherwise made available to the Federal Government may be used to pay for the painting of a portrait of an officer or employee of the Federal Government, including the President, the Vice President, a Member of Congress, the head of an executive agency, or the head of an office of the legislative branch.
-(b) In this section—
-  (1) the term “executive agency” has the meaning given the term in section 133 of title 41 ; and
-  (2) the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress.
+- **(a)** No funds appropriated or otherwise made available to the Federal Government may be used to pay for the painting of a portrait of an officer or employee of the Federal Government, including the President, the Vice President, a Member of Congress, the head of an executive agency, or the head of an office of the legislative branch.
+- **(b)** In this section—
+  - **(1)** the term “executive agency” has the meaning given the term in section 133 of title 41 ; and
+  - **(2)** the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress.

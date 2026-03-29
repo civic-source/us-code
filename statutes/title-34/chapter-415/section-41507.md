@@ -5,29 +5,29 @@ usc_section: "41507"
 chapter: 415
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 41507"
-generated_at: "2026-03-29T00:32:01.693Z"
+generated_at: "2026-03-29T02:14:25.390Z"
 ---
 
 # § 41507. National Gang Intelligence Center
 
-(a) The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
-  (1) the Federal Bureau of Investigation;
-  (2) the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
-  (3) the Drug Enforcement Administration;
-  (4) the Bureau of Prisons;
-  (5) the United States Marshals Service;
-  (6) the Directorate of Border and Transportation Security of the Department of Homeland Security;
-  (7) the Department of Housing and Urban Development;
-  (8) the Office of Justice Services of the Bureau of Indian Affairs;
-  (9) tribal, State, and local law enforcement;
-  (10) Federal, tribal, State, and local prosecutors;
-  (11) Federal, tribal, State, and local probation and parole offices;
-  (12) Federal, tribal, State, and local prisons and jails; and
-  (13) any other entity as appropriate.
-(b) The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
-  (1) Federal, tribal, State, and local law enforcement agencies;
-  (2) Federal, tribal, State, and local corrections agencies and penal institutions;
-  (3) Federal, tribal, State, and local prosecutorial agencies; and
-  (4) any other entity as appropriate.
-(c) The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
-(d) There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.
+- **(a)** The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
+  - **(1)** the Federal Bureau of Investigation;
+  - **(2)** the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
+  - **(3)** the Drug Enforcement Administration;
+  - **(4)** the Bureau of Prisons;
+  - **(5)** the United States Marshals Service;
+  - **(6)** the Directorate of Border and Transportation Security of the Department of Homeland Security;
+  - **(7)** the Department of Housing and Urban Development;
+  - **(8)** the Office of Justice Services of the Bureau of Indian Affairs;
+  - **(9)** tribal, State, and local law enforcement;
+  - **(10)** Federal, tribal, State, and local prosecutors;
+  - **(11)** Federal, tribal, State, and local probation and parole offices;
+  - **(12)** Federal, tribal, State, and local prisons and jails; and
+  - **(13)** any other entity as appropriate.
+- **(b)** The Center established under subsection (a) shall make available the information referred to in subsection (a) to—
+  - **(1)** Federal, tribal, State, and local law enforcement agencies;
+  - **(2)** Federal, tribal, State, and local corrections agencies and penal institutions;
+  - **(3)** Federal, tribal, State, and local prosecutorial agencies; and
+  - **(4)** any other entity as appropriate.
+- **(c)** The Center established under subsection (a) shall annually submit to Congress a report on gang activity.
+- **(d)** There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.

@@ -5,151 +5,151 @@ usc_section: "3406"
 chapter: 24
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 3406"
-generated_at: "2026-03-29T00:31:20.936Z"
+generated_at: "2026-03-29T02:14:01.200Z"
 ---
 
 # § 3406. Backup withholding
 
-(a) 
-  (1) In the case of any reportable payment, if—
-    (A) the payee fails to furnish his TIN to the payor in the manner required,
-    (B) the Secretary notifies the payor that the TIN furnished by the payee is incorrect,
-    (C) there has been a notified payee underreporting described in subsection (c), or
-    (D) there has been a payee certification failure described in subsection (d),
-  (2) Subparagraphs (C) and (D) of paragraph (1) shall apply only to reportable interest or dividend payments.
-(b) For purposes of this section—
-  (1) The term “reportable payment” means—
-    (A) any reportable interest or dividend payment, and
-    (B) any other reportable payment.
-  (2) 
-    (A) The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
-      (i) section 6049(a) (relating to payments of interest),
-      (ii) section 6042(a) (relating to payments of dividends), or
-      (iii) section 6044 (relating to payments of patronage dividends) but only to the extent such payment is in money.
-    (B) For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment to which section 6044 (relating to patronage dividends) applies unless 50 percent or more of such payment is in money.
-  (3) The term “other reportable payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
-    (A) section 6041 (relating to certain information at source),
-    (B) section 6041A(a) (relating to payments of remuneration for services),
-    (C) section 6045 (relating to returns of brokers),
-    (D) section 6050A (relating to reporting requirements of certain fishing boat operators), but only to the extent such payment is in money and represents a share of the proceeds of the catch,
-    (E) section 6050N (relating to payments of royalties), or
-    (F) section 6050W (relating to returns relating to payments made in settlement of payment card transactions).
-  (4) The determination of whether any payment is of a kind required to be shown on a return described in paragraph (2) or (3) shall be made without regard to any minimum amount which must be paid before a return is required.
-  (5) To the extent provided in regulations, the term “reportable payment” shall not include any payment which—
-    (A) does not exceed $10, and
-    (B) if determined for a 1-year period, would not exceed $10.
-  (6) Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—
-    (A) the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
-    (B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
-    (C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
-  (7) For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment—
-    (A) in redemption of a coupon on a bearer instrument or in redemption of a United States savings bond, or
-    (B) to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).
-  (8) 
-    (A) Any payment in settlement of a third party network transaction required to be shown on a return required under section 6050W which is made during any calendar year shall be treated as a reportable payment only if—
-      (i) the aggregate number of transactions with respect to the participating payee during such calendar year exceeds the number of transactions specified in section 6050W(e)(2), and
-      (ii) the aggregate amount of transactions with respect to the participating payee during such calendar year exceeds the dollar amount specified in section 6050W(e)(1) at the time of such payment.
-    (B) Subparagraph (A) shall not apply with respect to payments to any participating payee during any calendar year if one or more payments in settlement of third party network transactions made by the payor to the participating payee during the preceding calendar year were reportable payments.
-(c) 
-  (1) If—
-    (A) the Secretary determines with respect to any payee that there has been payee underreporting,
-    (B) at least 4 notices have been mailed by the Secretary to the payee (over a period of at least 120 days) with respect to the underreporting, and
-    (C) in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
-  (2) For purposes of this section, there has been payee underreporting if for any taxable year the Secretary determines that—
-    (A) the payee failed to include in his return of tax under chapter 1 for such year any portion of a reportable interest or dividend payment required to be shown on such return, or
-    (B) the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
-  (3) 
-    (A) If the Secretary determines that—
-      (i) there was no payee underreporting,
-      (ii) any payee underreporting has been corrected (and any tax, penalty, or interest with respect to the payee underreporting has been paid),
-      (iii) withholding under subsection (a)(1)(C) has caused (or would cause) undue hardship to the payee and it is unlikely that any payee underreporting by such payee will occur again, or
-      (iv) there is a bona fide dispute as to whether there has been any payee underreporting,
-    (B) For purposes of subparagraph (A), if at the time of the Secretary’s determination under subparagraph (A)—
-      (i) no notice has been given under paragraph (1) to any payor with respect to the underreporting, the Secretary shall not give any such notice, or
-      (ii) if such notice has been given, the Secretary shall—
-        (I) provide the payee with a written certification that withholding under subsection (a)(1)(C) is to stop, and
-        (II) notify the applicable payors (and brokers) that such withholding is to stop.
-    (C) In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—
-      (i) except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
-      (ii) in the case of—
-        (I) a no payee underreporting determination under clause (i) of subparagraph (A), or
-        (II) a hardship determination under clause (iii) of subparagraph (A),
-    (D) The Secretary shall prescribe procedures under which—
-      (i) a payee may request a determination under subparagraph (A), and
-      (ii) the payee may provide information with respect to such request.
-  (4) Any payor required to withhold any tax under subsection (a)(1)(C) shall, at the time such withholding begins, notify the payee of such withholding.
-  (5) For purposes of this section, the Secretary may require any payee of reportable interest or dividend payments who is subject to withholding under subsection (a)(1)(C) to notify the Secretary of—
-    (A) all payors from whom the payee receives reportable interest or dividend payments, and
-    (B) all brokers with whom the payee has accounts which may involve reportable interest or dividend payments.
-(d) 
-  (1) There is a payee certification failure unless the payee has certified to the payor, under penalty of perjury, that such payee is not subject to withholding under subsection (a)(1)(C).
-  (2) 
-    (A) Subsection (a)(1)(D) shall apply to any reportable interest or dividend payment to any payee on any readily tradable instrument if (and only if) the payor was notified by a broker under subparagraph (B) or no certification was provided to the payor by the payee under paragraph (1) and—
-      (i) such instrument was acquired directly by the payee from the payor, or
-      (ii) such instrument is held by the payor as nominee for the payee.
-    (B) If—
-      (i) a payee acquires any readily tradable instrument through a broker, and
-      (ii) with respect to such acquisition—
-        (I) the payee fails to furnish his TIN to the broker in the manner required under subsection (a)(1)(A),
-        (II) the Secretary notifies such broker before such acquisition that the TIN furnished by the payee is incorrect,
-        (III) the Secretary notifies such broker before such acquisition that such payee is subject to withholding under subsection (a)(1)(C), or
-        (IV) the payee does not provide a certification to such broker under subparagraph (C),
-    (C) In the case of any readily tradable instrument acquired by a payee through a broker, the certification described in paragraph (1) may be provided by the payee to such broker—
-      (i) at any time after the payee’s account with the broker was established and before the acquisition of such instrument, or
-      (ii) in connection with the acquisition of such instrument.
-  (3) This subsection and subsection (a)(1)(D) shall not apply to any reportable interest or dividend payment which is paid or credited—
-    (A) in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatever called) established before January 1, 1984 , or with respect to any instrument acquired before January 1, 1984 ,
-    (B) in the case of dividends or any other amount reportable under section 6042, on any stock or other instrument acquired before January 1, 1984 , or
-    (C) in the case of patronage dividends or other amounts of a kind reportable under section 6044, with respect to any membership acquired, or contract entered into, before January 1, 1984 .
-  (4) Subparagraph (B) of paragraph (2) shall not apply with respect to a readily tradable instrument which was acquired through an account with a broker if—
-    (A) such account was established before January 1, 1984 , and
-    (B) during 1983, such broker bought or sold instruments for the payee (or acted as a nominee for the payee) through such account.
-(e) 
-  (1) In the case of any failure by a payee to furnish his TIN to a payor in the manner required, subsection (a) shall apply to any reportable payment made by such payor during the period during which the TIN has not been furnished in the manner required. The Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
-  (2) In any case in which the Secretary notifies the payor that the TIN furnished by the payee is incorrect, subsection (a) shall apply to any reportable payment made by such payor—
-    (A) after the close of the 30th day after the day on which the payor received such notification, and
-    (B) before the payee furnishes another TIN in the manner required.
-  (3) 
-    (A) In the case of any notified payee under­reporting described in subsection (c), subsection (a) shall apply to any reportable interest or dividend payment made—
-      (i) after the close of the 30th day after the day on which the payor received notification from the Secretary of such underreporting, and
-      (ii) before the stop date.
-    (B) For purposes of this subsection, the term “stop date” means the determination effective date or, if later, the earlier of—
-      (i) the day on which the payor received notification from the Secretary under subsection (c)(3)(B) to stop withholding, or
-      (ii) the day on which the payor receives from the payee a certification provided by the Secretary under subsection (c)(3)(B).
-    (C) For purposes of this subsection—
-      (i) Except as provided in clause (ii), the determination effective date of any determination under subsection (c)(3)(A) which is made during the 12-month period ending on October 15 of any calendar year shall be the first January 1 following such October 15.
-      (ii) In the case of any determination under clause (i) or (iii) of subsection (c)(3)(A), the determination effective date shall be the date on which the Secretary’s determination is made.
-  (4) 
-    (A) In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
-    (B) In the case of any readily tradable instrument acquired by the payee through a broker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
-  (5) 
-    (A) If the payor elects the application of this subparagraph with respect to the payee, subsection (a) shall also apply to any reportable payment made during the 30-day period described in paragraph (2)(A), (3)(A), or (4)(B).
-    (B) Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to any reportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
-    (C) The payor may elect a period shorter than the grace period set forth in subparagraph (A) or (B), as the case may be.
-(f) 
-  (1) No person may use any information obtained under this section (including any failure to certify under subsection (d)) except for purposes of meeting any requirement under this section or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103.
-  (2) For provision providing for civil damages for violation of paragraph (1), see section 7431.
-(g) 
-  (1) Subsection (a) shall not apply to any payment made to—
-    (A) any organization or governmental unit described in subparagraph (B), (C), (D), (E), or (F) of section 6049(b)(4), or
-    (B) any other person specified in regulations.
-  (2) Subsection (a) shall not apply to any amount for which withholding is otherwise required by this title.
-  (3) The Secretary shall prescribe regulations for exemptions from the tax imposed by subsection (a) during the period during which a person is waiting for receipt of a TIN.
-(h) For purposes of this section—
-  (1) A person shall be treated as failing to furnish his TIN if the TIN furnished does not contain the proper number of digits.
-  (2) If the payee furnishes the payor 2 incorrect TINs in any 3-year period, the payor shall, after receiving notice of the second incorrect TIN, treat the payee as not having furnished another TIN under subsection (e)(2)(B) until the day on which the payor receives notification from the Secretary that a correct TIN has been furnished.
-  (3) Except to the extent otherwise provided in regulations, any payment to joint payees shall be treated as if all the payment were made to the first person listed in the payment.
-  (4) The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
-  (5) 
-    (A) The term “broker” has the meaning given to such term by section 6045(c)(1).
-    (B) If, but for this subparagraph, there would be more than 1 broker with respect to any acquisition, only the broker having the closest contact with the payee shall be treated as the broker.
-    (C) In the case of any instrument, such term shall not include any person who is the payor with respect to such instrument.
-    (D) Except as provided by regulations, such term shall not include any real estate broker (as defined in section 6045(e)(2)).
-  (6) The term “readily tradable instrument” means—
-    (A) any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
-    (B) except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
-  (7) To the extent provided in regulations, rules similar to the rules of paragraph (6) of section 6049(d) shall apply.
-  (8) Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
-  (9) If the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect and such payee subsequently furnishes another TIN to the payor, the payor shall promptly notify the Secretary of the other TIN so furnished.
-  (10) For purposes of section 31, this chapter (other than section 3402(n)), and so much of subtitle F (other than section 7205) as relates to this chapter, payments which are subject to withholding under this section shall be treated as if they were wages paid by an employer to an employee (and amounts deducted and withheld under this section shall be treated as if deducted and withheld under section 3402).
-(i) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+- **(a)**
+  - **(1)** In the case of any reportable payment, if—
+    - **(A)** the payee fails to furnish his TIN to the payor in the manner required,
+    - **(B)** the Secretary notifies the payor that the TIN furnished by the payee is incorrect,
+    - **(C)** there has been a notified payee underreporting described in subsection (c), or
+    - **(D)** there has been a payee certification failure described in subsection (d),
+  - **(2)** Subparagraphs (C) and (D) of paragraph (1) shall apply only to reportable interest or dividend payments.
+- **(b)** For purposes of this section—
+  - **(1)** The term “reportable payment” means—
+    - **(A)** any reportable interest or dividend payment, and
+    - **(B)** any other reportable payment.
+  - **(2)**
+    - **(A)** The term “reportable interest or dividend payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
+      - **(i)** section 6049(a) (relating to payments of interest),
+      - **(ii)** section 6042(a) (relating to payments of dividends), or
+      - **(iii)** section 6044 (relating to payments of patronage dividends) but only to the extent such payment is in money.
+    - **(B)** For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment to which section 6044 (relating to patronage dividends) applies unless 50 percent or more of such payment is in money.
+  - **(3)** The term “other reportable payment” means any payment of a kind, and to a payee, required to be shown on a return required under—
+    - **(A)** section 6041 (relating to certain information at source),
+    - **(B)** section 6041A(a) (relating to payments of remuneration for services),
+    - **(C)** section 6045 (relating to returns of brokers),
+    - **(D)** section 6050A (relating to reporting requirements of certain fishing boat operators), but only to the extent such payment is in money and represents a share of the proceeds of the catch,
+    - **(E)** section 6050N (relating to payments of royalties), or
+    - **(F)** section 6050W (relating to returns relating to payments made in settlement of payment card transactions).
+  - **(4)** The determination of whether any payment is of a kind required to be shown on a return described in paragraph (2) or (3) shall be made without regard to any minimum amount which must be paid before a return is required.
+  - **(5)** To the extent provided in regulations, the term “reportable payment” shall not include any payment which—
+    - **(A)** does not exceed $10, and
+    - **(B)** if determined for a 1-year period, would not exceed $10.
+  - **(6)** Any payment of a kind required to be shown on a return required under section 6041(a) or 6041A(a) which is made during any calendar year shall be treated as a reportable payment only if—
+    - **(A)** the aggregate amount of such payment and all previous payments described in such sections by the payor to the payee during such calendar year equals or exceeds the dollar amount in effect for such calendar year under section 6041(a),
+    - **(B)** the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
+    - **(C)** during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
+  - **(7)** For purposes of subparagraphs (C) and (D) of subsection (a)(1), the term “reportable interest or dividend payment” shall not include any payment—
+    - **(A)** in redemption of a coupon on a bearer instrument or in redemption of a United States savings bond, or
+    - **(B)** to the extent provided in regulations, of interest on instruments similar to those described in subparagraph (A).
+  - **(8)**
+    - **(A)** Any payment in settlement of a third party network transaction required to be shown on a return required under section 6050W which is made during any calendar year shall be treated as a reportable payment only if—
+      - **(i)** the aggregate number of transactions with respect to the participating payee during such calendar year exceeds the number of transactions specified in section 6050W(e)(2), and
+      - **(ii)** the aggregate amount of transactions with respect to the participating payee during such calendar year exceeds the dollar amount specified in section 6050W(e)(1) at the time of such payment.
+    - **(B)** Subparagraph (A) shall not apply with respect to payments to any participating payee during any calendar year if one or more payments in settlement of third party network transactions made by the payor to the participating payee during the preceding calendar year were reportable payments.
+- **(c)**
+  - **(1)** If—
+    - **(A)** the Secretary determines with respect to any payee that there has been payee underreporting,
+    - **(B)** at least 4 notices have been mailed by the Secretary to the payee (over a period of at least 120 days) with respect to the underreporting, and
+    - **(C)** in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
+  - **(2)** For purposes of this section, there has been payee underreporting if for any taxable year the Secretary determines that—
+    - **(A)** the payee failed to include in his return of tax under chapter 1 for such year any portion of a reportable interest or dividend payment required to be shown on such return, or
+    - **(B)** the payee may be required to file a return for such year and to include a reportable interest or dividend payment in such return, but failed to file such return.
+  - **(3)**
+    - **(A)** If the Secretary determines that—
+      - **(i)** there was no payee underreporting,
+      - **(ii)** any payee underreporting has been corrected (and any tax, penalty, or interest with respect to the payee underreporting has been paid),
+      - **(iii)** withholding under subsection (a)(1)(C) has caused (or would cause) undue hardship to the payee and it is unlikely that any payee underreporting by such payee will occur again, or
+      - **(iv)** there is a bona fide dispute as to whether there has been any payee underreporting,
+    - **(B)** For purposes of subparagraph (A), if at the time of the Secretary’s determination under subparagraph (A)—
+      - **(i)** no notice has been given under paragraph (1) to any payor with respect to the underreporting, the Secretary shall not give any such notice, or
+      - **(ii)** if such notice has been given, the Secretary shall—
+        - **(I)** provide the payee with a written certification that withholding under subsection (a)(1)(C) is to stop, and
+        - **(II)** notify the applicable payors (and brokers) that such withholding is to stop.
+    - **(C)** In any case where notice has been given under paragraph (1) to any payor with respect to any underreporting, if the Secretary makes a determination under subparagraph (A) during the 12-month period ending on October 15 of any calendar year—
+      - **(i)** except as provided in clause (ii), the Secretary shall take the action described in subparagraph (B)(ii) to bring about the stopping of withholding no later than December 1 of such calendar year, or
+      - **(ii)** in the case of—
+        - **(I)** a no payee underreporting determination under clause (i) of subparagraph (A), or
+        - **(II)** a hardship determination under clause (iii) of subparagraph (A),
+    - **(D)** The Secretary shall prescribe procedures under which—
+      - **(i)** a payee may request a determination under subparagraph (A), and
+      - **(ii)** the payee may provide information with respect to such request.
+  - **(4)** Any payor required to withhold any tax under subsection (a)(1)(C) shall, at the time such withholding begins, notify the payee of such withholding.
+  - **(5)** For purposes of this section, the Secretary may require any payee of reportable interest or dividend payments who is subject to withholding under subsection (a)(1)(C) to notify the Secretary of—
+    - **(A)** all payors from whom the payee receives reportable interest or dividend payments, and
+    - **(B)** all brokers with whom the payee has accounts which may involve reportable interest or dividend payments.
+- **(d)**
+  - **(1)** There is a payee certification failure unless the payee has certified to the payor, under penalty of perjury, that such payee is not subject to withholding under subsection (a)(1)(C).
+  - **(2)**
+    - **(A)** Subsection (a)(1)(D) shall apply to any reportable interest or dividend payment to any payee on any readily tradable instrument if (and only if) the payor was notified by a broker under subparagraph (B) or no certification was provided to the payor by the payee under paragraph (1) and—
+      - **(i)** such instrument was acquired directly by the payee from the payor, or
+      - **(ii)** such instrument is held by the payor as nominee for the payee.
+    - **(B)** If—
+      - **(i)** a payee acquires any readily tradable instrument through a broker, and
+      - **(ii)** with respect to such acquisition—
+        - **(I)** the payee fails to furnish his TIN to the broker in the manner required under subsection (a)(1)(A),
+        - **(II)** the Secretary notifies such broker before such acquisition that the TIN furnished by the payee is incorrect,
+        - **(III)** the Secretary notifies such broker before such acquisition that such payee is subject to withholding under subsection (a)(1)(C), or
+        - **(IV)** the payee does not provide a certification to such broker under subparagraph (C),
+    - **(C)** In the case of any readily tradable instrument acquired by a payee through a broker, the certification described in paragraph (1) may be provided by the payee to such broker—
+      - **(i)** at any time after the payee’s account with the broker was established and before the acquisition of such instrument, or
+      - **(ii)** in connection with the acquisition of such instrument.
+  - **(3)** This subsection and subsection (a)(1)(D) shall not apply to any reportable interest or dividend payment which is paid or credited—
+    - **(A)** in the case of interest or any other amount of a kind reportable under section 6049, with respect to any account (whatever called) established before January 1, 1984 , or with respect to any instrument acquired before January 1, 1984 ,
+    - **(B)** in the case of dividends or any other amount reportable under section 6042, on any stock or other instrument acquired before January 1, 1984 , or
+    - **(C)** in the case of patronage dividends or other amounts of a kind reportable under section 6044, with respect to any membership acquired, or contract entered into, before January 1, 1984 .
+  - **(4)** Subparagraph (B) of paragraph (2) shall not apply with respect to a readily tradable instrument which was acquired through an account with a broker if—
+    - **(A)** such account was established before January 1, 1984 , and
+    - **(B)** during 1983, such broker bought or sold instruments for the payee (or acted as a nominee for the payee) through such account.
+- **(e)**
+  - **(1)** In the case of any failure by a payee to furnish his TIN to a payor in the manner required, subsection (a) shall apply to any reportable payment made by such payor during the period during which the TIN has not been furnished in the manner required. The Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
+  - **(2)** In any case in which the Secretary notifies the payor that the TIN furnished by the payee is incorrect, subsection (a) shall apply to any reportable payment made by such payor—
+    - **(A)** after the close of the 30th day after the day on which the payor received such notification, and
+    - **(B)** before the payee furnishes another TIN in the manner required.
+  - **(3)**
+    - **(A)** In the case of any notified payee under­reporting described in subsection (c), subsection (a) shall apply to any reportable interest or dividend payment made—
+      - **(i)** after the close of the 30th day after the day on which the payor received notification from the Secretary of such underreporting, and
+      - **(ii)** before the stop date.
+    - **(B)** For purposes of this subsection, the term “stop date” means the determination effective date or, if later, the earlier of—
+      - **(i)** the day on which the payor received notification from the Secretary under subsection (c)(3)(B) to stop withholding, or
+      - **(ii)** the day on which the payor receives from the payee a certification provided by the Secretary under subsection (c)(3)(B).
+    - **(C)** For purposes of this subsection—
+      - **(i)** Except as provided in clause (ii), the determination effective date of any determination under subsection (c)(3)(A) which is made during the 12-month period ending on October 15 of any calendar year shall be the first January 1 following such October 15.
+      - **(ii)** In the case of any determination under clause (i) or (iii) of subsection (c)(3)(A), the determination effective date shall be the date on which the Secretary’s determination is made.
+  - **(4)**
+    - **(A)** In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
+    - **(B)** In the case of any readily tradable instrument acquired by the payee through a broker, the period described in subparagraph (A) shall start with payments to the payee made after the close of the 30th day after the payor receives notification from a broker under subsection (d)(2)(B).
+  - **(5)**
+    - **(A)** If the payor elects the application of this subparagraph with respect to the payee, subsection (a) shall also apply to any reportable payment made during the 30-day period described in paragraph (2)(A), (3)(A), or (4)(B).
+    - **(B)** Unless the payor elects not to have this subparagraph apply with respect to the payee, subsection (a) shall also apply to any reportable payment made after the close of the period described in paragraph (1), (2), or (4) (as the case may be) and before the 30th day after the close of such period. A similar rule shall also apply with respect to the period described in paragraph (3)(A) where the stop date is determined under clause (i) or (ii) of paragraph (3)(B).
+    - **(C)** The payor may elect a period shorter than the grace period set forth in subparagraph (A) or (B), as the case may be.
+- **(f)**
+  - **(1)** No person may use any information obtained under this section (including any failure to certify under subsection (d)) except for purposes of meeting any requirement under this section or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103.
+  - **(2)** For provision providing for civil damages for violation of paragraph (1), see section 7431.
+- **(g)**
+  - **(1)** Subsection (a) shall not apply to any payment made to—
+    - **(A)** any organization or governmental unit described in subparagraph (B), (C), (D), (E), or (F) of section 6049(b)(4), or
+    - **(B)** any other person specified in regulations.
+  - **(2)** Subsection (a) shall not apply to any amount for which withholding is otherwise required by this title.
+  - **(3)** The Secretary shall prescribe regulations for exemptions from the tax imposed by subsection (a) during the period during which a person is waiting for receipt of a TIN.
+- **(h)** For purposes of this section—
+  - **(1)** A person shall be treated as failing to furnish his TIN if the TIN furnished does not contain the proper number of digits.
+  - **(2)** If the payee furnishes the payor 2 incorrect TINs in any 3-year period, the payor shall, after receiving notice of the second incorrect TIN, treat the payee as not having furnished another TIN under subsection (e)(2)(B) until the day on which the payor receives notification from the Secretary that a correct TIN has been furnished.
+  - **(3)** Except to the extent otherwise provided in regulations, any payment to joint payees shall be treated as if all the payment were made to the first person listed in the payment.
+  - **(4)** The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+  - **(5)**
+    - **(A)** The term “broker” has the meaning given to such term by section 6045(c)(1).
+    - **(B)** If, but for this subparagraph, there would be more than 1 broker with respect to any acquisition, only the broker having the closest contact with the payee shall be treated as the broker.
+    - **(C)** In the case of any instrument, such term shall not include any person who is the payor with respect to such instrument.
+    - **(D)** Except as provided by regulations, such term shall not include any real estate broker (as defined in section 6045(e)(2)).
+  - **(6)** The term “readily tradable instrument” means—
+    - **(A)** any instrument which is part of an issue any portion of which is traded on an established securities market (within the meaning of section 453(f)(5)), and
+    - **(B)** except as otherwise provided in regulations prescribed by the Secretary, any instrument which is regularly quoted by brokers or dealers making a market.
+  - **(7)** To the extent provided in regulations, rules similar to the rules of paragraph (6) of section 6049(d) shall apply.
+  - **(8)** Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
+  - **(9)** If the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect and such payee subsequently furnishes another TIN to the payor, the payor shall promptly notify the Secretary of the other TIN so furnished.
+  - **(10)** For purposes of section 31, this chapter (other than section 3402(n)), and so much of subtitle F (other than section 7205) as relates to this chapter, payments which are subject to withholding under this section shall be treated as if they were wages paid by an employer to an employee (and amounts deducted and withheld under this section shall be treated as if deducted and withheld under section 3402).
+- **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.

@@ -5,7 +5,7 @@ usc_section: "2901"
 chapter: 47
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2901"
-generated_at: "2026-03-29T00:32:57.469Z"
+generated_at: "2026-03-29T02:15:47.663Z"
 ---
 
 # § 2901. Purpose

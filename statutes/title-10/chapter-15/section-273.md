@@ -5,12 +5,12 @@ usc_section: "273"
 chapter: 15
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 273"
-generated_at: "2026-03-29T00:20:52.827Z"
+generated_at: "2026-03-29T02:10:44.849Z"
 ---
 
 # § 273. Training and advising civilian law enforcement officials
 
 The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available—
 
-  (1) to train Federal, State, and local civilian law enforcement officials in the operation and maintenance of equipment, including equipment made available under section 372 1 1 See References in Text note below. of this title; and
-  (2) to provide such law enforcement officials with expert advice relevant to the purposes of this chapter.
+  - **(1)** to train Federal, State, and local civilian law enforcement officials in the operation and maintenance of equipment, including equipment made available under section 372 1 1 See References in Text note below. of this title; and
+  - **(2)** to provide such law enforcement officials with expert advice relevant to the purposes of this chapter.

@@ -5,10 +5,10 @@ usc_section: "102"
 chapter: 1
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 102"
-generated_at: "2026-03-29T00:07:07.618Z"
+generated_at: "2026-03-29T02:13:00.902Z"
 ---
 
 # § 102. Program efficiencies
 
-(a) No State or political subdivision of a State may enact or enforce a law that applies only to motorcycles and the principal purpose of which is to restrict the access of motorcycles to any highway or portion of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance.
-(b) Nothing in this section shall affect the authority of a State or political subdivision of a State to regulate motorcycles for safety.
+- **(a)** No State or political subdivision of a State may enact or enforce a law that applies only to motorcycles and the principal purpose of which is to restrict the access of motorcycles to any highway or portion of a highway for which Federal-aid highway funds have been utilized for planning, design, construction, or maintenance.
+- **(b)** Nothing in this section shall affect the authority of a State or political subdivision of a State to regulate motorcycles for safety.

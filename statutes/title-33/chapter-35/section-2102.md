@@ -5,15 +5,15 @@ usc_section: "2102"
 chapter: 35
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2102"
-generated_at: "2026-03-29T00:31:57.394Z"
+generated_at: "2026-03-29T02:14:18.599Z"
 ---
 
 # § 2102. Establishment of standards
 
 Based on the best scientific information available, artificial reefs in waters covered under this chapter shall be sited and constructed, and subsequently monitored and managed in a manner which will—
 
-  (1) enhance fishery resources to the maximum extent practicable;
-  (2) facilitate access and utilization by United States recreational and commercial fishermen;
-  (3) minimize conflicts among competing uses of waters covered under this chapter and the resources in such waters;
-  (4) minimize environmental risks and risks to personal health and property; and
-  (5) be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
+  - **(1)** enhance fishery resources to the maximum extent practicable;
+  - **(2)** facilitate access and utilization by United States recreational and commercial fishermen;
+  - **(3)** minimize conflicts among competing uses of waters covered under this chapter and the resources in such waters;
+  - **(4)** minimize environmental risks and risks to personal health and property; and
+  - **(5)** be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.

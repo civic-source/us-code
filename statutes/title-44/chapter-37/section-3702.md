@@ -5,7 +5,7 @@ usc_section: "3702"
 chapter: 37
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3702"
-generated_at: "2026-03-29T00:32:58.578Z"
+generated_at: "2026-03-29T02:15:49.349Z"
 ---
 
 # § 3702. Advertisements not to be published without written authority

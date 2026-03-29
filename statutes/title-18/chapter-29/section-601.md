@@ -5,15 +5,15 @@ usc_section: "601"
 chapter: 29
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 601"
-generated_at: "2026-03-29T00:30:15.620Z"
+generated_at: "2026-03-29T02:12:02.372Z"
 ---
 
 # § 601. Deprivation of employment or other benefit for political contribution
 
-(a) Whoever, directly or indirectly, knowingly causes or attempts to cause any person to make a contribution of a thing of value (including services) for the benefit of any candidate or any political party, by means of the denial or deprivation, or the threat of the denial or deprivation, of—
-  (1) any employment, position, or work in or for any agency or other entity of the Government of the United States, a State, or a political subdivision of a State, or any compensation or benefit of such employment, position, or work; or
-  (2) any payment or benefit of a program of the United States, a State, or a political subdivision of a State;
-(b) As used in this section—
-  (1) the term “candidate” means an individual who seeks nomination for election, or election, to Federal, State, or local office, whether or not such individual is elected, and, for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election, to Federal, State, or local office, if he has (A) taken the action necessary under the law of a State to qualify himself for nomination for election, or election, or (B) received contributions or made expenditures, or has given his consent for any other person to receive contributions or make expenditures, with a view to bringing about his nomination for election, or election, to such office;
-  (2) the term “election” means (A) a general, special primary, or runoff election, (B) a convention or caucus of a political party held to nominate a candidate, (C) a primary election held for the selection of delegates to a nominating convention of a political party, (D) a primary election held for the expression of a preference for the nomination of persons for election to the office of President, and (E) the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States or of any State; and
-  (3) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+- **(a)** Whoever, directly or indirectly, knowingly causes or attempts to cause any person to make a contribution of a thing of value (including services) for the benefit of any candidate or any political party, by means of the denial or deprivation, or the threat of the denial or deprivation, of—
+  - **(1)** any employment, position, or work in or for any agency or other entity of the Government of the United States, a State, or a political subdivision of a State, or any compensation or benefit of such employment, position, or work; or
+  - **(2)** any payment or benefit of a program of the United States, a State, or a political subdivision of a State;
+- **(b)** As used in this section—
+  - **(1)** the term “candidate” means an individual who seeks nomination for election, or election, to Federal, State, or local office, whether or not such individual is elected, and, for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election, to Federal, State, or local office, if he has (A) taken the action necessary under the law of a State to qualify himself for nomination for election, or election, or (B) received contributions or made expenditures, or has given his consent for any other person to receive contributions or make expenditures, with a view to bringing about his nomination for election, or election, to such office;
+  - **(2)** the term “election” means (A) a general, special primary, or runoff election, (B) a convention or caucus of a political party held to nominate a candidate, (C) a primary election held for the selection of delegates to a nominating convention of a political party, (D) a primary election held for the expression of a preference for the nomination of persons for election to the office of President, and (E) the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States or of any State; and
+  - **(3)** the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.

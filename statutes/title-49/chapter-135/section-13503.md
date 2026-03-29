@@ -5,26 +5,26 @@ usc_section: "13503"
 chapter: 135
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 13503"
-generated_at: "2026-03-29T00:33:13.771Z"
+generated_at: "2026-03-29T02:16:08.911Z"
 ---
 
 # § 13503. Exempt motor vehicle transportation in terminal areas
 
-(a) 
-  (1) Neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
-    (A) is a transfer, collection, or delivery;
-    (B) is provided by—
-      (i) a rail carrier subject to jurisdiction under chapter 105;
-      (ii) a water carrier subject to jurisdiction under subchapter II of this chapter; or
-      (iii) a freight forwarder subject to jurisdiction under subchapter III of this chapter; and
-    (C) is incidental to transportation or service provided by the carrier or freight forwarder that is subject to jurisdiction under chapter 105 of this title or under subchapter II or III of this chapter.
-  (2) Transportation exempt from jurisdiction under paragraph (1) of this subsection is subject to jurisdiction under chapter 105 when provided by such a rail carrier, under subchapter II of this chapter when provided by such a water carrier, and under subchapter III of this chapter when provided by such a freight forwarder.
-(b) 
-  (1) Except to the extent provided by paragraph (2) of this subsection, neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
-    (A) is a transfer, collection, or delivery; and
-    (B) is provided by a person as an agent or under other arrangement for—
-      (i) a rail carrier subject to jurisdiction under chapter 105 of this title;
-      (ii) a motor carrier subject to jurisdiction under this subchapter;
-      (iii) a water carrier subject to jurisdiction under subchapter II of this chapter; or
-      (iv) a freight forwarder subject to jurisdiction under subchapter III of this chapter.
-  (2) Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.
+- **(a)**
+  - **(1)** Neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
+    - **(A)** is a transfer, collection, or delivery;
+    - **(B)** is provided by—
+      - **(i)** a rail carrier subject to jurisdiction under chapter 105;
+      - **(ii)** a water carrier subject to jurisdiction under subchapter II of this chapter; or
+      - **(iii)** a freight forwarder subject to jurisdiction under subchapter III of this chapter; and
+    - **(C)** is incidental to transportation or service provided by the carrier or freight forwarder that is subject to jurisdiction under chapter 105 of this title or under subchapter II or III of this chapter.
+  - **(2)** Transportation exempt from jurisdiction under paragraph (1) of this subsection is subject to jurisdiction under chapter 105 when provided by such a rail carrier, under subchapter II of this chapter when provided by such a water carrier, and under subchapter III of this chapter when provided by such a freight forwarder.
+- **(b)**
+  - **(1)** Except to the extent provided by paragraph (2) of this subsection, neither the Secretary nor the Board has jurisdiction under this subchapter over transportation by motor vehicle provided in a terminal area when the transportation—
+    - **(A)** is a transfer, collection, or delivery; and
+    - **(B)** is provided by a person as an agent or under other arrangement for—
+      - **(i)** a rail carrier subject to jurisdiction under chapter 105 of this title;
+      - **(ii)** a motor carrier subject to jurisdiction under this subchapter;
+      - **(iii)** a water carrier subject to jurisdiction under subchapter II of this chapter; or
+      - **(iv)** a freight forwarder subject to jurisdiction under subchapter III of this chapter.
+  - **(2)** Transportation exempt from jurisdiction under paragraph (1) of this subsection is considered transportation provided by the carrier or service provided by the freight forwarder for whom the transportation was provided and is subject to jurisdiction under chapter 105 of this title when provided for such a rail carrier, under this subchapter when provided for such a motor carrier, under subchapter II of this chapter when provided for such a water carrier, and under subchapter III of this chapter when provided for such a freight forwarder.

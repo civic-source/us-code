@@ -5,7 +5,7 @@ usc_section: "51"
 chapter: 2
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 51"
-generated_at: "2026-03-29T00:29:41.545Z"
+generated_at: "2026-03-29T02:11:33.987Z"
 ---
 
 # § 80a–51. Short title

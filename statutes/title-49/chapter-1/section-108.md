@@ -5,17 +5,17 @@ usc_section: "108"
 chapter: 1
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 108"
-generated_at: "2026-03-29T00:33:13.683Z"
+generated_at: "2026-03-29T02:16:08.842Z"
 ---
 
 # § 108. Pipeline and Hazardous Materials Safety Administration
 
-(a) The Pipeline and Hazardous Materials Safety Administration shall be an administration in the Department of Transportation.
-(b) In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in pipeline transportation and hazardous materials transportation.
-(c) The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in pipeline safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
-(d) The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
-(e) The Administration shall have an Assistant Administrator for Pipeline and Hazardous Materials Safety appointed in the competitive service by the Secretary. The Assistant Administrator shall be the Chief Safety Officer of the Administration. The Assistant Administrator shall carry out the duties and powers prescribed by the Administrator.
-(f) The Administrator shall carry out—
-  (1) duties and powers related to pipeline and hazardous materials transportation and safety vested in the Secretary by chapters 51, 57, 61, 601, and 603; and
-  (2) other duties and powers prescribed by the Secretary.
-(g) A duty or power specified in subsection (f)(1) may be transferred to another part of the Department of Transportation or another government entity only if specifically provided by law.
+- **(a)** The Pipeline and Hazardous Materials Safety Administration shall be an administration in the Department of Transportation.
+- **(b)** In carrying out its duties, the Administration shall consider the assignment and maintenance of safety as the highest priority, recognizing the clear intent, encouragement, and dedication of Congress to the furtherance of the highest degree of safety in pipeline transportation and hazardous materials transportation.
+- **(c)** The head of the Administration shall be the Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be an individual with professional experience in pipeline safety, hazardous materials safety, or other transportation safety. The Administrator shall report directly to the Secretary of Transportation.
+- **(d)** The Administration shall have a Deputy Administrator who shall be appointed by the Secretary. The Deputy Administrator shall carry out duties and powers prescribed by the Administrator.
+- **(e)** The Administration shall have an Assistant Administrator for Pipeline and Hazardous Materials Safety appointed in the competitive service by the Secretary. The Assistant Administrator shall be the Chief Safety Officer of the Administration. The Assistant Administrator shall carry out the duties and powers prescribed by the Administrator.
+- **(f)** The Administrator shall carry out—
+  - **(1)** duties and powers related to pipeline and hazardous materials transportation and safety vested in the Secretary by chapters 51, 57, 61, 601, and 603; and
+  - **(2)** other duties and powers prescribed by the Secretary.
+- **(g)** A duty or power specified in subsection (f)(1) may be transferred to another part of the Department of Transportation or another government entity only if specifically provided by law.

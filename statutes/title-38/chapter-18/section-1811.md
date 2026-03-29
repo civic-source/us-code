@@ -5,14 +5,14 @@ usc_section: "1811"
 chapter: 18
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1811"
-generated_at: "2026-03-29T00:32:17.208Z"
+generated_at: "2026-03-29T02:14:50.372Z"
 ---
 
 # § 1811. Definitions
 
 In this subchapter:
 
-  (1) The term “eligible child” means an individual who—
-    (A) is the child (as defined in section 1831(1) of this title ) of a woman Vietnam veteran; and
-    (B) was born with one or more covered birth defects.
-  (2) The term “covered birth defect” means a birth defect identified by the Secretary under section 1812 of this title .
+  - **(1)** The term “eligible child” means an individual who—
+    - **(A)** is the child (as defined in section 1831(1) of this title ) of a woman Vietnam veteran; and
+    - **(B)** was born with one or more covered birth defects.
+  - **(2)** The term “covered birth defect” means a birth defect identified by the Secretary under section 1812 of this title .

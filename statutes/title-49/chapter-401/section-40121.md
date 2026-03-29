@@ -5,20 +5,20 @@ usc_section: "40121"
 chapter: 401
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 40121"
-generated_at: "2026-03-29T00:33:13.866Z"
+generated_at: "2026-03-29T02:16:09.002Z"
 ---
 
 # § 40121. Air traffic control modernization reviews
 
-(a) The Administrator of the Federal Aviation Administration shall terminate any acquisition program initiated after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and funded under the Facilities and Equipment account that—
-  (1) is more than 50 percent over the cost goal established for the program;
-  (2) fails to achieve at least 50 percent of the performance goals established for the program; or
-  (3) is more than 50 percent behind schedule as determined in accordance with the schedule goal established for the program.
-(b) The Administrator shall consider terminating, under the authority of subsection (a), any substantial acquisition program that—
-  (1) is more than 10 percent over the cost goal established for the program;
-  (2) fails to achieve at least 90 percent of the performance goals established for the program; or
-  (3) is more than 10 percent behind schedule as determined in accordance with the schedule goal established for the program.
-(c) 
-  (1) Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
-  (2) The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
-  (3) If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
+- **(a)** The Administrator of the Federal Aviation Administration shall terminate any acquisition program initiated after the date of the enactment of the Air Traffic Management System Performance Improvement Act of 1996 and funded under the Facilities and Equipment account that—
+  - **(1)** is more than 50 percent over the cost goal established for the program;
+  - **(2)** fails to achieve at least 50 percent of the performance goals established for the program; or
+  - **(3)** is more than 50 percent behind schedule as determined in accordance with the schedule goal established for the program.
+- **(b)** The Administrator shall consider terminating, under the authority of subsection (a), any substantial acquisition program that—
+  - **(1)** is more than 10 percent over the cost goal established for the program;
+  - **(2)** fails to achieve at least 90 percent of the performance goals established for the program; or
+  - **(3)** is more than 10 percent behind schedule as determined in accordance with the schedule goal established for the program.
+- **(c)**
+  - **(1)** Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
+  - **(2)** The Department of Defense shall have the same exemptions from acquisition laws as are waived by the Administrator under section 40110(d)(2) of this title when engaged in joint actions to improve or replenish the national air traffic control system. The Administration may acquire real property, goods, and services through the Department of Defense, or other appropriate agencies, but is bound by the acquisition laws and regulations governing those cases.
+  - **(3)** If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.

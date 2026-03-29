@@ -5,7 +5,7 @@ usc_section: "1547"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1547"
-generated_at: "2026-03-29T00:32:53.659Z"
+generated_at: "2026-03-29T02:15:36.473Z"
 ---
 
 # § 1547. Preservation of local civil and criminal jurisdiction and civil rights

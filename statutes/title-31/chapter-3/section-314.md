@@ -5,18 +5,18 @@ usc_section: "314"
 chapter: 3
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 314"
-generated_at: "2026-03-29T00:31:52.563Z"
+generated_at: "2026-03-29T02:14:14.029Z"
 ---
 
 # § 314. Covered agreements
 
-(a) The Secretary and the United States Trade Representative are authorized, jointly, to negotiate and enter into covered agreements on behalf of the United States.
-(b) 
-  (1) Before initiating negotiations to enter into a covered agreement under subsection (a), during such negotiations, and before entering into any such agreement, the Secretary and the United States Trade Representative shall jointly consult with the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
-  (2) The consultation described in paragraph (1) shall include consultation with respect to—
-    (A) the nature of the agreement;
-    (B) how and to what extent the agreement will achieve the applicable purposes, policies, priorities, and objectives of section 313 and this section; and
-    (C) the implementation of the agreement, including the general effect of the agreement on existing State laws.
-(c) A covered agreement under subsection (a) may enter into force with respect to the United States only if—
-  (1) the Secretary and the United States Trade Representative jointly submit to the congressional committees specified in subsection (b)(1), on a day on which both Houses of Congress are in session, a copy of the final legal text of the agreement; and
-  (2) a period of 90 calendar days beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1) has expired.
+- **(a)** The Secretary and the United States Trade Representative are authorized, jointly, to negotiate and enter into covered agreements on behalf of the United States.
+- **(b)**
+  - **(1)** Before initiating negotiations to enter into a covered agreement under subsection (a), during such negotiations, and before entering into any such agreement, the Secretary and the United States Trade Representative shall jointly consult with the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
+  - **(2)** The consultation described in paragraph (1) shall include consultation with respect to—
+    - **(A)** the nature of the agreement;
+    - **(B)** how and to what extent the agreement will achieve the applicable purposes, policies, priorities, and objectives of section 313 and this section; and
+    - **(C)** the implementation of the agreement, including the general effect of the agreement on existing State laws.
+- **(c)** A covered agreement under subsection (a) may enter into force with respect to the United States only if—
+  - **(1)** the Secretary and the United States Trade Representative jointly submit to the congressional committees specified in subsection (b)(1), on a day on which both Houses of Congress are in session, a copy of the final legal text of the agreement; and
+  - **(2)** a period of 90 calendar days beginning on the date on which the copy of the final legal text of the agreement is submitted to the congressional committees under paragraph (1) has expired.

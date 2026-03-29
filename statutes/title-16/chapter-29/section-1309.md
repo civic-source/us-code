@@ -5,7 +5,7 @@ usc_section: "1309"
 chapter: 29
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1309"
-generated_at: "2026-03-29T00:29:52.702Z"
+generated_at: "2026-03-29T02:11:53.764Z"
 ---
 
 # § 1309. Consultation with Secretary of the Interior; conformity of program with wetlands programs administered by Secretary of the Interior; consultation with and utilization of technical services of appropriate local, State, Federal, and private conservation agencies; coordination of programs

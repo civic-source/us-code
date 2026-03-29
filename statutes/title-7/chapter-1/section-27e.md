@@ -5,7 +5,7 @@ usc_section: "27e"
 chapter: 1
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 27e"
-generated_at: "2026-03-29T00:28:57.857Z"
+generated_at: "2026-03-29T02:10:16.644Z"
 ---
 
 # § 27e. Repealed. Pub. L. 111–203, title VII, § 725(g)(1)(A) , July 21, 2010 , 124 Stat. 1694

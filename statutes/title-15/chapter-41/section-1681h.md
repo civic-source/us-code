@@ -5,25 +5,25 @@ usc_section: "1681h"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681h"
-generated_at: "2026-03-29T00:29:41.732Z"
+generated_at: "2026-03-29T02:11:34.219Z"
 ---
 
 # § 1681h. Conditions and form of disclosure to consumers
 
-(a) 
-  (1) A consumer reporting agency shall require, as a condition of making the disclosures required under section 1681g of this title , that the consumer furnish proper identification.
-  (2) Except as provided in subsection (b), the disclosures required to be made under section 1681g of this title shall be provided under that section in writing.
-(b) 
-  (1) If authorized by a consumer, a consumer reporting agency may make the disclosures required under 1 1 So in original. Probably should be followed by “section”. 1681g of this title—
-    (A) other than in writing; and
-    (B) in such form as may be—
-      (i) specified by the consumer in accordance with paragraph (2); and
-      (ii) available from the agency.
-  (2) A consumer may specify pursuant to paragraph (1) that disclosures under section 1681g of this title shall be made—
-    (A) in person, upon the appearance of the consumer at the place of business of the consumer reporting agency where disclosures are regularly provided, during normal business hours, and on reasonable notice;
-    (B) by telephone, if the consumer has made a written request for disclosure by telephone;
-    (C) by electronic means, if available from the agency; or
-    (D) by any other reasonable means that is available from the agency.
-(c) Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 1681g of this title .
-(d) The consumer shall be permitted to be accompanied by one other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer reporting agency to discuss the consumer’s file in such person’s presence.
-(e) Except as provided in sections 1681n and 1681 o of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report 2 2 So in original. Probably should be followed by a comma. except as to false information furnished with malice or willful intent to injure such consumer.
+- **(a)**
+  - **(1)** A consumer reporting agency shall require, as a condition of making the disclosures required under section 1681g of this title , that the consumer furnish proper identification.
+  - **(2)** Except as provided in subsection (b), the disclosures required to be made under section 1681g of this title shall be provided under that section in writing.
+- **(b)**
+  - **(1)** If authorized by a consumer, a consumer reporting agency may make the disclosures required under 1 1 So in original. Probably should be followed by “section”. 1681g of this title—
+    - **(A)** other than in writing; and
+    - **(B)** in such form as may be—
+      - **(i)** specified by the consumer in accordance with paragraph (2); and
+      - **(ii)** available from the agency.
+  - **(2)** A consumer may specify pursuant to paragraph (1) that disclosures under section 1681g of this title shall be made—
+    - **(A)** in person, upon the appearance of the consumer at the place of business of the consumer reporting agency where disclosures are regularly provided, during normal business hours, and on reasonable notice;
+    - **(B)** by telephone, if the consumer has made a written request for disclosure by telephone;
+    - **(C)** by electronic means, if available from the agency; or
+    - **(D)** by any other reasonable means that is available from the agency.
+- **(c)** Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 1681g of this title .
+- **(d)** The consumer shall be permitted to be accompanied by one other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer reporting agency to discuss the consumer’s file in such person’s presence.
+- **(e)** Except as provided in sections 1681n and 1681 o of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report 2 2 So in original. Probably should be followed by a comma. except as to false information furnished with malice or willful intent to injure such consumer.

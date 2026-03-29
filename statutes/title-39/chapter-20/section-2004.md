@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 20
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 2004"
-generated_at: "2026-03-29T00:32:18.843Z"
+generated_at: "2026-03-29T02:14:53.121Z"
 ---
 
 # [§ 2004. Repealed. Pub. L. 105–33, title VII, § 7003(a)(1) , Aug. 5, 1997 , 111 Stat. 663 ]

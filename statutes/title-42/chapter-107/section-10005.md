@@ -5,12 +5,12 @@ usc_section: "10005"
 chapter: 107
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 10005"
-generated_at: "2026-03-29T00:32:54.191Z"
+generated_at: "2026-03-29T02:15:37.112Z"
 ---
 
 # § 10005. Model statute
 
 In order to encourage the administration of accreditation and certification programs by the States, the Secretary shall prepare and transmit to the States a model statute for radiologic procedure safety. Such model statute shall provide that—
 
-  (1) it shall be unlawful in a State for individuals to perform radiologic procedures unless such individuals are certified by the State to perform such procedures; and
-  (2) any educational requirements for certification of individuals to perform radiologic procedures shall be limited to educational programs accredited by the State.
+  - **(1)** it shall be unlawful in a State for individuals to perform radiologic procedures unless such individuals are certified by the State to perform such procedures; and
+  - **(2)** any educational requirements for certification of individuals to perform radiologic procedures shall be limited to educational programs accredited by the State.

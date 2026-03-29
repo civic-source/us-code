@@ -5,7 +5,7 @@ usc_section: "20932"
 chapter: 209
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 20932"
-generated_at: "2026-03-29T00:32:01.661Z"
+generated_at: "2026-03-29T02:14:25.356Z"
 ---
 
 # § 20932. Immunity for good faith conduct

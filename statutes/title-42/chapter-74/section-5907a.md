@@ -5,27 +5,27 @@ usc_section: "5907a"
 chapter: 74
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5907a"
-generated_at: "2026-03-29T00:32:53.938Z"
+generated_at: "2026-03-29T02:15:36.788Z"
 ---
 
 # § 5907a. Small grant program
 
-(a) There shall be established within the Department of Energy a program for appropriate technology under the direction of the Secretary. The Secretary shall develop and implement a program of small grants for the purpose of encouraging development and demonstration projects described in subsection (c) of this section.
-(b) The aggregate amount of financial support made available to any participant in such program, including affiliates, under this section shall not exceed $50,000 during any two-year period.
-(c) Funds made available under this section shall be used to provide for a coordinated and expanded effort for the development and demonstration of, and the dissemination of information with respect to, energy-related systems and supporting technologies appropriate to—
-  (1) the needs of local communities and the enhancement of community self-reliance through the use of available resources;
-  (2) the use of renewable resources and the conservation of nonrenewable resources;
-  (3) the use of existing technologies applied to novel situations and uses;
-  (4) applications which are energy-conserving, environmentally sound, small scale, durable and low cost; and
-  (5) applications which demonstrate simplicity of installation, operation and maintenance.
-(d) 
-  (1) Grants, agreements or contracts under this section may be made to individuals, local nonprofit organizations and institutions, State and local agencies, Indian tribes and small businesses. The Secretary shall develop simplified procedures with respect to application for support under this section.
-  (2) Each grant, agreement or contract under this section shall be governed by the provisions of section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 [ 42 U.S.C. 5908 ] and shall contain effective provisions under which the Secretary shall receive a full written report of activities supported in whole or in part by funds made available by the Secretary; and
-  (3) In determining the allocation of funds among applicants for support under this section the Secretary may take into consideration:
-    (A) the potential for energy savings or energy production;
-    (B) the type of fuel saved or produced;
-    (C) the potential impact on local or regional energy or environmental problems; and
-    (D) such other criteria as the Secretary finds necessary to achieve the purposes of this Act or the purposes of the Federal Nonnuclear Energy Research and Development Act of 1974 [ 42 U.S.C. 5901 et seq.].
-(e) The Secretary shall—
-  (1) prepare and submit no later than October 1, 1977 , a detailed report on plans for implementation, including the timing of implementation, of the provisions of this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives and shall keep such committees fully and currently informed concerning the development of such plans; and
-  (2) include as a part of the annual report required by section 15(a)(1) 1 1 See References in Text note below. of the Federal Nonnuclear Energy Research and Development Act of 1974 beginning in 1977, a full and complete report on the program under this section.
+- **(a)** There shall be established within the Department of Energy a program for appropriate technology under the direction of the Secretary. The Secretary shall develop and implement a program of small grants for the purpose of encouraging development and demonstration projects described in subsection (c) of this section.
+- **(b)** The aggregate amount of financial support made available to any participant in such program, including affiliates, under this section shall not exceed $50,000 during any two-year period.
+- **(c)** Funds made available under this section shall be used to provide for a coordinated and expanded effort for the development and demonstration of, and the dissemination of information with respect to, energy-related systems and supporting technologies appropriate to—
+  - **(1)** the needs of local communities and the enhancement of community self-reliance through the use of available resources;
+  - **(2)** the use of renewable resources and the conservation of nonrenewable resources;
+  - **(3)** the use of existing technologies applied to novel situations and uses;
+  - **(4)** applications which are energy-conserving, environmentally sound, small scale, durable and low cost; and
+  - **(5)** applications which demonstrate simplicity of installation, operation and maintenance.
+- **(d)**
+  - **(1)** Grants, agreements or contracts under this section may be made to individuals, local nonprofit organizations and institutions, State and local agencies, Indian tribes and small businesses. The Secretary shall develop simplified procedures with respect to application for support under this section.
+  - **(2)** Each grant, agreement or contract under this section shall be governed by the provisions of section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 [ 42 U.S.C. 5908 ] and shall contain effective provisions under which the Secretary shall receive a full written report of activities supported in whole or in part by funds made available by the Secretary; and
+  - **(3)** In determining the allocation of funds among applicants for support under this section the Secretary may take into consideration:
+    - **(A)** the potential for energy savings or energy production;
+    - **(B)** the type of fuel saved or produced;
+    - **(C)** the potential impact on local or regional energy or environmental problems; and
+    - **(D)** such other criteria as the Secretary finds necessary to achieve the purposes of this Act or the purposes of the Federal Nonnuclear Energy Research and Development Act of 1974 [ 42 U.S.C. 5901 et seq.].
+- **(e)** The Secretary shall—
+  - **(1)** prepare and submit no later than October 1, 1977 , a detailed report on plans for implementation, including the timing of implementation, of the provisions of this section to the Committee on Energy and Natural Resources of the Senate and the Committee on Science and Technology of the House of Representatives and shall keep such committees fully and currently informed concerning the development of such plans; and
+  - **(2)** include as a part of the annual report required by section 15(a)(1) 1 1 See References in Text note below. of the Federal Nonnuclear Energy Research and Development Act of 1974 beginning in 1977, a full and complete report on the program under this section.

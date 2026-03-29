@@ -5,7 +5,7 @@ usc_section: "598"
 chapter: 29
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 598"
-generated_at: "2026-03-29T00:30:15.620Z"
+generated_at: "2026-03-29T02:12:02.372Z"
 ---
 
 # § 598. Coercion by means of relief appropriations

@@ -5,36 +5,36 @@ usc_section: "8617"
 chapter: 861
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8617"
-generated_at: "2026-03-29T00:20:53.233Z"
+generated_at: "2026-03-29T02:10:45.313Z"
 ---
 
 # § 8617. National Museum of the United States Navy
 
-(a) 
-  (1) The Secretary of the Navy may select and enter into a contract, cooperative agreement, or other agreement with one or more eligible nonprofit organizations to support the development, design, construction, renovation, or operation of a multipurpose museum to serve as the National Museum of the United States Navy.
-  (2) The Secretary may—
-    (A) authorize a partner organization to contract for each phase of development, design, construction, renovation, or operation of the museum, or all such phases; or
-    (B) authorize acceptance of funds from a partner organization for each or all such phases.
-(b) 
-  (1) The museum shall be used for the identification, curation, storage, and public viewing of artifacts and artwork of significance to the Navy, as agreed to by the Secretary of the Navy.
-  (2) The museum also may be used to support such education, training, research, and associated activities as the Secretary considers compatible with and in support of the museum and the mission of the Naval History and Heritage Command.
-(c) Upon the satisfactory completion, as determined by the Secretary of the Navy, of any phase of the museum, and upon the satisfaction of any financial obligations incident thereto, the Secretary shall accept such phase of the museum from the partner organization, and all right, title, and interest in and to such phase of the museum shall vest in the United States. Upon becoming the property of the United States, the Secretary shall assume administrative jurisdiction over such phase of the museum.
-(d) 
-  (1) The Secretary of the Navy may lease portions of the museum to an eligible nonprofit organization for use in generating revenue for the support of activities of the museum and for such administrative purposes as may be necessary for support of the museum. Such a lease may not include any part of the collection of the museum.
-  (2) Any rent received by the Secretary under a lease under paragraph (1), including rent-in-kind, shall be used solely to cover or defray the costs of development, maintenance, or operation of the museum.
-(e) 
-  (1) The Secretary of the Navy may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of the museum. Section 2601 (other than subsections (b), (c), and (e)) of this title shall apply to gifts accepted under this subsection.
-  (2) The Secretary may display at the museum recognition for an individual or organization that contributes money to a partner organization, or an individual or organization that contributes a gift directly to the Navy, for the benefit of the museum, whether or not the contribution is subject to the condition that the recognition be provided. The Secretary shall prescribe regulations governing the circumstances under which contributor recognition may be provided, appropriate forms of recognition, and suitable display standards.
-  (3) The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
-  (4) Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the museum.
-(f) The Secretary of the Navy may require such additional terms and conditions in connection with a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d) as the Secretary considers appropriate to protect the interests of the United States.
-(g) 
-  (1) In a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d), the Secretary of the Navy may authorize, consistent with section 2260 (other than subsection (d)) of this title, a partner organization to enter into licensing, marketing, and sponsorship agreements relating to Navy indicators, including the manufacture and sale of merchandise for sale by the museum, subject to the approval of the Department of the Navy.
-  (2) No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the Navy indicator would compromise the integrity or appearance of integrity of any program of the Department of the Navy.
-(h) In this section:
-  (1) The term “eligible nonprofit organization” means an entity that—
-    (A) qualifies as an exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
-    (B) has as its primary purpose the preservation and promotion of the history and heritage of the Navy.
-  (2) The term “museum” means the National Museum of the United States Navy, including its facilities and grounds.
-  (3) The term “Navy indicator” includes trademarks and service marks, names, identities, abbreviations, official insignia, seals, emblems, and acronyms of the Navy and Marine Corps, including underlying units, and specifically includes the term “National Museum of the United States Navy”.
-  (4) The term “partner organization” means an eligible nonprofit organization with whom the Secretary of the Navy enters into a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d).
+- **(a)**
+  - **(1)** The Secretary of the Navy may select and enter into a contract, cooperative agreement, or other agreement with one or more eligible nonprofit organizations to support the development, design, construction, renovation, or operation of a multipurpose museum to serve as the National Museum of the United States Navy.
+  - **(2)** The Secretary may—
+    - **(A)** authorize a partner organization to contract for each phase of development, design, construction, renovation, or operation of the museum, or all such phases; or
+    - **(B)** authorize acceptance of funds from a partner organization for each or all such phases.
+- **(b)**
+  - **(1)** The museum shall be used for the identification, curation, storage, and public viewing of artifacts and artwork of significance to the Navy, as agreed to by the Secretary of the Navy.
+  - **(2)** The museum also may be used to support such education, training, research, and associated activities as the Secretary considers compatible with and in support of the museum and the mission of the Naval History and Heritage Command.
+- **(c)** Upon the satisfactory completion, as determined by the Secretary of the Navy, of any phase of the museum, and upon the satisfaction of any financial obligations incident thereto, the Secretary shall accept such phase of the museum from the partner organization, and all right, title, and interest in and to such phase of the museum shall vest in the United States. Upon becoming the property of the United States, the Secretary shall assume administrative jurisdiction over such phase of the museum.
+- **(d)**
+  - **(1)** The Secretary of the Navy may lease portions of the museum to an eligible nonprofit organization for use in generating revenue for the support of activities of the museum and for such administrative purposes as may be necessary for support of the museum. Such a lease may not include any part of the collection of the museum.
+  - **(2)** Any rent received by the Secretary under a lease under paragraph (1), including rent-in-kind, shall be used solely to cover or defray the costs of development, maintenance, or operation of the museum.
+- **(e)**
+  - **(1)** The Secretary of the Navy may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of the museum. Section 2601 (other than subsections (b), (c), and (e)) of this title shall apply to gifts accepted under this subsection.
+  - **(2)** The Secretary may display at the museum recognition for an individual or organization that contributes money to a partner organization, or an individual or organization that contributes a gift directly to the Navy, for the benefit of the museum, whether or not the contribution is subject to the condition that the recognition be provided. The Secretary shall prescribe regulations governing the circumstances under which contributor recognition may be provided, appropriate forms of recognition, and suitable display standards.
+  - **(3)** The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
+  - **(4)** Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the museum.
+- **(f)** The Secretary of the Navy may require such additional terms and conditions in connection with a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d) as the Secretary considers appropriate to protect the interests of the United States.
+- **(g)**
+  - **(1)** In a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d), the Secretary of the Navy may authorize, consistent with section 2260 (other than subsection (d)) of this title, a partner organization to enter into licensing, marketing, and sponsorship agreements relating to Navy indicators, including the manufacture and sale of merchandise for sale by the museum, subject to the approval of the Department of the Navy.
+  - **(2)** No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the Navy indicator would compromise the integrity or appearance of integrity of any program of the Department of the Navy.
+- **(h)** In this section:
+  - **(1)** The term “eligible nonprofit organization” means an entity that—
+    - **(A)** qualifies as an exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986; and
+    - **(B)** has as its primary purpose the preservation and promotion of the history and heritage of the Navy.
+  - **(2)** The term “museum” means the National Museum of the United States Navy, including its facilities and grounds.
+  - **(3)** The term “Navy indicator” includes trademarks and service marks, names, identities, abbreviations, official insignia, seals, emblems, and acronyms of the Navy and Marine Corps, including underlying units, and specifically includes the term “National Museum of the United States Navy”.
+  - **(4)** The term “partner organization” means an eligible nonprofit organization with whom the Secretary of the Navy enters into a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d).

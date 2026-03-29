@@ -5,7 +5,7 @@ usc_section: "541e"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 541e"
-generated_at: "2026-03-29T00:29:52.555Z"
+generated_at: "2026-03-29T02:11:53.592Z"
 ---
 
 # § 541e. Availability of funds for acquisition of lands, etc., within added area

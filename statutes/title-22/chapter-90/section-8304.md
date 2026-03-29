@@ -5,10 +5,10 @@ usc_section: "8304"
 chapter: 90
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 8304"
-generated_at: "2026-03-29T00:30:34.012Z"
+generated_at: "2026-03-29T02:12:40.450Z"
 ---
 
 # § 8304. Authorization of appropriations
 
-(a) There are authorized to be appropriated to carry out this chapter $10,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
-(b) Not more than 10 percent of the amounts appropriated pursuant to subsection (a) may be expended for the administrative costs of the United States Agency for International Development to manage the VfP Program.
+- **(a)** There are authorized to be appropriated to carry out this chapter $10,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014.
+- **(b)** Not more than 10 percent of the amounts appropriated pursuant to subsection (a) may be expended for the administrative costs of the United States Agency for International Development to manage the VfP Program.

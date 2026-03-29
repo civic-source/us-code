@@ -5,16 +5,16 @@ usc_section: "698q"
 chapter: 6
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 698q"
-generated_at: "2026-03-29T00:29:52.607Z"
+generated_at: "2026-03-29T02:11:53.648Z"
 ---
 
 # § 698q. Little River Canyon National Preserve; establishment
 
-(a) In order to protect and preserve the natural, scenic, recreational, and cultural resources of the Little River Canyon area in DeKalb and Cherokee Counties, Alabama, and to provide for the protection and public enjoyment of the resources, there is established the Little River Canyon National Preserve (referred to in sections 698q to 698t of this title as the “Preserve”).
-(b) 
-  (1) The Preserve shall consist of the lands, waters, and interests in lands and waters generally depicted on the boundary map entitled “Little River Canyon National Preserve”, numbered NA–LRNP–80,001C, and dated March 1992.
-  (2) The boundary of the Preserve is modified to include the land depicted on the map entitled “Little River Canyon National Preserve Proposed Boundary”, numbered 152/80,004, and dated December 2007.
-(c) The maps referred to in subsection (b) shall—
-  (1) be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
-  (2) be filed with the appropriate offices of DeKalb and Cherokee Counties in the State of Alabama.
-(d) Not later than 6 months after October 21, 1992 , the Secretary of the Interior (referred to in sections 698q to 698t of this title as the “Secretary”) shall publish in the Federal Register a detailed description of the boundaries of the Preserve.
+- **(a)** In order to protect and preserve the natural, scenic, recreational, and cultural resources of the Little River Canyon area in DeKalb and Cherokee Counties, Alabama, and to provide for the protection and public enjoyment of the resources, there is established the Little River Canyon National Preserve (referred to in sections 698q to 698t of this title as the “Preserve”).
+- **(b)**
+  - **(1)** The Preserve shall consist of the lands, waters, and interests in lands and waters generally depicted on the boundary map entitled “Little River Canyon National Preserve”, numbered NA–LRNP–80,001C, and dated March 1992.
+  - **(2)** The boundary of the Preserve is modified to include the land depicted on the map entitled “Little River Canyon National Preserve Proposed Boundary”, numbered 152/80,004, and dated December 2007.
+- **(c)** The maps referred to in subsection (b) shall—
+  - **(1)** be on file and available for public inspection in the offices of the National Park Service of the Department of the Interior in Washington, District of Columbia; and
+  - **(2)** be filed with the appropriate offices of DeKalb and Cherokee Counties in the State of Alabama.
+- **(d)** Not later than 6 months after October 21, 1992 , the Secretary of the Interior (referred to in sections 698q to 698t of this title as the “Secretary”) shall publish in the Federal Register a detailed description of the boundaries of the Preserve.

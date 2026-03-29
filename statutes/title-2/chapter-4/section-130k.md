@@ -5,7 +5,7 @@ usc_section: "130k"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 130k"
-generated_at: "2026-03-29T00:06:10.883Z"
+generated_at: "2026-03-29T02:09:53.644Z"
 ---
 
 # § 130k. Transferred

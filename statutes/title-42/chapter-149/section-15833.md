@@ -5,15 +5,15 @@ usc_section: "15833"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15833"
-generated_at: "2026-03-29T00:32:54.358Z"
+generated_at: "2026-03-29T02:15:37.303Z"
 ---
 
 # § 15833. Energy efficiency pilot program
 
-(a) The Secretary shall establish a pilot program under which the Secretary provides financial assistance to at least 3, but not more than 7, States to carry out pilot projects in the States for—
-  (1) planning and adopting statewide programs that encourage, for each year in which the pilot project is carried out—
-    (A) energy efficiency; and
-    (B) reduction of consumption of electricity or natural gas in the State by at least 0.75 percent, as compared to a baseline determined by the Secretary for the period preceding the implementation of the program; or
-  (2) for any State that has adopted a statewide program as of August 8, 2005 , activities that reduce energy consumption in the State by expanding and improving the program.
-(b) A State that receives financial assistance under subsection (a)(1) shall submit to the Secretary independent verification of any energy savings achieved through the statewide program.
-(c) There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.
+- **(a)** The Secretary shall establish a pilot program under which the Secretary provides financial assistance to at least 3, but not more than 7, States to carry out pilot projects in the States for—
+  - **(1)** planning and adopting statewide programs that encourage, for each year in which the pilot project is carried out—
+    - **(A)** energy efficiency; and
+    - **(B)** reduction of consumption of electricity or natural gas in the State by at least 0.75 percent, as compared to a baseline determined by the Secretary for the period preceding the implementation of the program; or
+  - **(2)** for any State that has adopted a statewide program as of August 8, 2005 , activities that reduce energy consumption in the State by expanding and improving the program.
+- **(b)** A State that receives financial assistance under subsection (a)(1) shall submit to the Secretary independent verification of any energy savings achieved through the statewide program.
+- **(c)** There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2006 through 2010, to remain available until expended.

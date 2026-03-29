@@ -5,29 +5,29 @@ usc_section: "44716"
 chapter: 447
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44716"
-generated_at: "2026-03-29T00:33:13.894Z"
+generated_at: "2026-03-29T02:16:09.028Z"
 ---
 
 # § 44716. Collision avoidance systems
 
-(a) The Administrator of the Federal Aviation Administration shall—
-  (1) complete the development of the collision avoidance system known as TCAS–II so that TCAS–II can operate under visual and instrument flight rules and can be upgraded to the performance standards applicable to the collision avoidance system known as TCAS–III;
-  (2) develop and carry out a schedule for developing and certifying TCAS–II that will result in certification not later than June 30, 1989 ; and
-  (3) submit to Congress monthly reports on the progress being made in developing and certifying TCAS–II.
-(b) The Administrator shall require by regulation that, not later than 30 months after the date certification is made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
-  (1) a safe and orderly transition to the operation of a fleet of civil aircraft described in this subsection equipped with TCAS–II; or
-  (2) other safety objectives.
-(c) Not later than December 30, 1990 , the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers that operate civil aircraft equipped with TCAS–II to participate in the program.
-(d) The Administrator shall consider the feasibility and desirability of amending the schedule for installing airborne low-altitude windshear equipment to make the schedule compatible with the schedule for installing TCAS–II.
-(e) 
-  (1) The Administrator shall complete developing and certifying TCAS–III as soon as possible.
-  (2) Necessary amounts may be appropriated from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) to carry out this subsection.
-(f) The Administrator shall prescribe regulations requiring that, not later than December 30, 1990 , operating transponders with automatic altitude reporting capability be installed and used for aircraft operating in designated terminal airspace where radar service is provided for separation of aircraft. The Administrator may provide for access to that airspace (except terminal control areas and airport radar service areas) by nonequipped aircraft if the Administrator finds the access will not interfere with the normal traffic flow.
-(g) 
-  (1) The Administrator shall require by regulation that, no later than December 31, 2002 , collision avoidance equipment be installed on each cargo aircraft with a maximum certificated takeoff weight in excess of 15,000 kilograms.
-  (2) The Administrator may extend the deadline established by paragraph (1) by not more than 2 years if the Administrator finds that the extension is needed to promote—
-    (A) a safe and orderly transition to the operation of a fleet of cargo aircraft equipped with collision avoidance equipment; or
-    (B) other safety or public interest objectives.
-  (3) In this subsection, the term “collision avoidance equipment” means equipment that provides protection from mid-air collisions using technology that provides—
-    (A) cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
-    (B) a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.
+- **(a)** The Administrator of the Federal Aviation Administration shall—
+  - **(1)** complete the development of the collision avoidance system known as TCAS–II so that TCAS–II can operate under visual and instrument flight rules and can be upgraded to the performance standards applicable to the collision avoidance system known as TCAS–III;
+  - **(2)** develop and carry out a schedule for developing and certifying TCAS–II that will result in certification not later than June 30, 1989 ; and
+  - **(3)** submit to Congress monthly reports on the progress being made in developing and certifying TCAS–II.
+- **(b)** The Administrator shall require by regulation that, not later than 30 months after the date certification is made under subsection (a)(2) of this section, TCAS–II be installed and operated on each civil aircraft that has a maximum passenger capacity of at least 31 seats and is used to provide air transportation of passengers, including intrastate air transportation of passengers. The Administrator may extend the deadline in this subsection for not more than 2 years if the Administrator finds the extension is necessary to promote—
+  - **(1)** a safe and orderly transition to the operation of a fleet of civil aircraft described in this subsection equipped with TCAS–II; or
+  - **(2)** other safety objectives.
+- **(c)** Not later than December 30, 1990 , the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers that operate civil aircraft equipped with TCAS–II to participate in the program.
+- **(d)** The Administrator shall consider the feasibility and desirability of amending the schedule for installing airborne low-altitude windshear equipment to make the schedule compatible with the schedule for installing TCAS–II.
+- **(e)**
+  - **(1)** The Administrator shall complete developing and certifying TCAS–III as soon as possible.
+  - **(2)** Necessary amounts may be appropriated from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ( 26 U.S.C. 9502 ) to carry out this subsection.
+- **(f)** The Administrator shall prescribe regulations requiring that, not later than December 30, 1990 , operating transponders with automatic altitude reporting capability be installed and used for aircraft operating in designated terminal airspace where radar service is provided for separation of aircraft. The Administrator may provide for access to that airspace (except terminal control areas and airport radar service areas) by nonequipped aircraft if the Administrator finds the access will not interfere with the normal traffic flow.
+- **(g)**
+  - **(1)** The Administrator shall require by regulation that, no later than December 31, 2002 , collision avoidance equipment be installed on each cargo aircraft with a maximum certificated takeoff weight in excess of 15,000 kilograms.
+  - **(2)** The Administrator may extend the deadline established by paragraph (1) by not more than 2 years if the Administrator finds that the extension is needed to promote—
+    - **(A)** a safe and orderly transition to the operation of a fleet of cargo aircraft equipped with collision avoidance equipment; or
+    - **(B)** other safety or public interest objectives.
+  - **(3)** In this subsection, the term “collision avoidance equipment” means equipment that provides protection from mid-air collisions using technology that provides—
+    - **(A)** cockpit-based collision detection and conflict resolution guidance, including display of traffic; and
+    - **(B)** a margin of safety of at least the same level as provided by the collision avoidance system known as TCAS–II.

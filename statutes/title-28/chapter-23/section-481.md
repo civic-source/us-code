@@ -5,15 +5,15 @@ usc_section: "481"
 chapter: 23
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 481"
-generated_at: "2026-03-29T00:31:24.146Z"
+generated_at: "2026-03-29T02:14:04.524Z"
 ---
 
 # § 481. Automated case information
 
-(a) The Director of the Administrative Office of the United States Courts shall ensure that each United States district court has the automated capability readily to retrieve information about the status of each case in such court.
-(b) 
-  (1) In carrying out subsection (a), the Director shall prescribe—
-    (A) the information to be recorded in district court automated systems; and
-    (B) standards for uniform categorization or characterization of judicial actions for the purpose of recording information on judicial actions in the district court automated systems.
-  (2) The uniform standards prescribed under paragraph (1)(B) of this subsection shall include a definition of what constitutes a dismissal of a case and standards for measuring the period for which a motion has been pending.
-(c) Each United States district court shall record information as prescribed pursuant to subsection (b) of this section.
+- **(a)** The Director of the Administrative Office of the United States Courts shall ensure that each United States district court has the automated capability readily to retrieve information about the status of each case in such court.
+- **(b)**
+  - **(1)** In carrying out subsection (a), the Director shall prescribe—
+    - **(A)** the information to be recorded in district court automated systems; and
+    - **(B)** standards for uniform categorization or characterization of judicial actions for the purpose of recording information on judicial actions in the district court automated systems.
+  - **(2)** The uniform standards prescribed under paragraph (1)(B) of this subsection shall include a definition of what constitutes a dismissal of a case and standards for measuring the period for which a motion has been pending.
+- **(c)** Each United States district court shall record information as prescribed pursuant to subsection (b) of this section.

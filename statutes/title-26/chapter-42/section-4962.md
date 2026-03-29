@@ -5,13 +5,13 @@ usc_section: "4962"
 chapter: 42
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4962"
-generated_at: "2026-03-29T00:31:20.964Z"
+generated_at: "2026-03-29T02:14:01.231Z"
 ---
 
 # § 4962. Abatement of first tier taxes in certain cases
 
-(a) If it is established to the satisfaction of the Secretary that—
-  (1) a taxable event was due to reasonable cause and not to willful neglect, and
-  (2) such event was corrected within the correction period for such event,
-(b) For purposes of this section, the term “qualified first tier tax” means any first tier tax imposed by subchapter A, C, D, or G of this chapter, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).
-(c) In the case of the tax imposed by section 4955(a), subsection (a)(1) shall be applied by substituting “not willful and flagrant” for “due to reasonable cause and not to willful neglect”.
+- **(a)** If it is established to the satisfaction of the Secretary that—
+  - **(1)** a taxable event was due to reasonable cause and not to willful neglect, and
+  - **(2)** such event was corrected within the correction period for such event,
+- **(b)** For purposes of this section, the term “qualified first tier tax” means any first tier tax imposed by subchapter A, C, D, or G of this chapter, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).
+- **(c)** In the case of the tax imposed by section 4955(a), subsection (a)(1) shall be applied by substituting “not willful and flagrant” for “due to reasonable cause and not to willful neglect”.

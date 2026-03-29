@@ -5,7 +5,7 @@ usc_section: "3112"
 chapter: 31
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3112"
-generated_at: "2026-03-29T00:28:38.307Z"
+generated_at: "2026-03-29T02:10:01.808Z"
 ---
 
 # § 3112. Disabled veterans; noncompetitive appointment

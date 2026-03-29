@@ -5,13 +5,13 @@ usc_section: "7261"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7261"
-generated_at: "2026-03-29T00:32:54.019Z"
+generated_at: "2026-03-29T02:15:36.886Z"
 ---
 
 # § 7261. Acquisition of copyrights, patents, etc.
 
 The Secretary is authorized to acquire any of the following described rights if the property acquired thereby is for use by or for, or useful to, the Department:
 
-  (1) copyrights, patents, and applications for patents, designs, processes, and manufacturing data;
-  (2) licenses under copyrights, patents, and applications for patents; and
-  (3) releases, before suit is brought, for past infringement of patents or copyrights.
+  - **(1)** copyrights, patents, and applications for patents, designs, processes, and manufacturing data;
+  - **(2)** licenses under copyrights, patents, and applications for patents; and
+  - **(3)** releases, before suit is brought, for past infringement of patents or copyrights.

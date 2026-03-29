@@ -5,7 +5,7 @@ usc_section: "1992"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1992"
-generated_at: "2026-03-29T00:32:53.719Z"
+generated_at: "2026-03-29T02:15:36.553Z"
 ---
 
 # § 1992. Speedy trial

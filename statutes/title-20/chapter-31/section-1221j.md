@@ -5,10 +5,10 @@ usc_section: "1221j"
 chapter: 31
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 1221j"
-generated_at: "2026-03-29T00:07:03.129Z"
+generated_at: "2026-03-29T02:12:17.334Z"
 ---
 
 # § 1221j. Television program assistance
 
-(a) The Secretary of Education is authorized to make grants to and contracts with public and private agencies for the production, development, or distribution (or any combination thereof) of programs designed for television systems, whether broadcast or nonbroadcast.
-(b) The Secretary of Education shall be responsible for the administration of this section and shall also conduct surveys, research, and evaluation studies which may assist in decisions to support pilot programs for full scale production.
+- **(a)** The Secretary of Education is authorized to make grants to and contracts with public and private agencies for the production, development, or distribution (or any combination thereof) of programs designed for television systems, whether broadcast or nonbroadcast.
+- **(b)** The Secretary of Education shall be responsible for the administration of this section and shall also conduct surveys, research, and evaluation studies which may assist in decisions to support pilot programs for full scale production.

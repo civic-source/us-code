@@ -5,11 +5,11 @@ usc_section: "7282"
 chapter: 100
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7282"
-generated_at: "2026-03-29T00:28:58.267Z"
+generated_at: "2026-03-29T02:10:17.122Z"
 ---
 
 # § 7282. Adjustments of loans
 
-(a) The Secretary may make appropriate adjustments in the loan rates for any commodity for differences in grade, type, quality, location, and other factors.
-(b) The adjustments under the authority of this section shall, to the maximum extent practicable, be made in such manner that the average loan level for the commodity will, on the basis of the anticipated incidence of the factors, be equal to the level of support determined as provided in this chapter and title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.].
-(c) The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result in an increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
+- **(a)** The Secretary may make appropriate adjustments in the loan rates for any commodity for differences in grade, type, quality, location, and other factors.
+- **(b)** The adjustments under the authority of this section shall, to the maximum extent practicable, be made in such manner that the average loan level for the commodity will, on the basis of the anticipated incidence of the factors, be equal to the level of support determined as provided in this chapter and title I of the Farm Security and Rural Investment Act of 2002 [ 7 U.S.C. 7901 et seq.].
+- **(c)** The Secretary may establish loan rates for a crop for producers in individual counties in a manner that results in the lowest such rate being 95 percent of the national average loan rate, except that such action shall not result in an increase in outlays. Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.

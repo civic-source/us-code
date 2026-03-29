@@ -5,13 +5,13 @@ usc_section: "5701"
 chapter: 77
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5701"
-generated_at: "2026-03-29T00:29:52.852Z"
+generated_at: "2026-03-29T02:11:53.955Z"
 ---
 
 # § 5701. Purposes
 
 It is the purpose of this subchapter—
 
-  (1) to implement the interim agreement for the conservation of salmon stocks originating from the Yukon River in Canada agreed to through an exchange of notes between the Government of the United States and the Government of Canada on February 3, 1995 ;
-  (2) to provide for representation by the United States on the Yukon River Panel established under such agreement; and
-  (3) to authorize to be appropriated sums necessary to carry out the responsibilities of the United States under such agreement.
+  - **(1)** to implement the interim agreement for the conservation of salmon stocks originating from the Yukon River in Canada agreed to through an exchange of notes between the Government of the United States and the Government of Canada on February 3, 1995 ;
+  - **(2)** to provide for representation by the United States on the Yukon River Panel established under such agreement; and
+  - **(3)** to authorize to be appropriated sums necessary to carry out the responsibilities of the United States under such agreement.

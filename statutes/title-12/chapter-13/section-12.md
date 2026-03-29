@@ -5,10 +5,10 @@ usc_section: "12"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 12"
-generated_at: "2026-03-29T00:29:16.631Z"
+generated_at: "2026-03-29T02:11:20.989Z"
 ---
 
 # § 1735f–12. Assurance of adequate processing of applications for loan and mortgage insurance
 
-(a) In order to ensure the adequate processing of applications for insurance of loans and mortgages under this chapter, the Secretary shall maintain not less than one office in each State to carry out the provisions of this chapter.
-(b) To assist the Resolution Trust Corporation in disposing of the property to which it acquires title and to ensure the timely processing of applications for insurance of loans and mortgages under this chapter that will be used to purchase multifamily residential property from the Resolution Trust Corporation, the Secretary shall establish an expedited procedure for considering such applications.
+- **(a)** In order to ensure the adequate processing of applications for insurance of loans and mortgages under this chapter, the Secretary shall maintain not less than one office in each State to carry out the provisions of this chapter.
+- **(b)** To assist the Resolution Trust Corporation in disposing of the property to which it acquires title and to ensure the timely processing of applications for insurance of loans and mortgages under this chapter that will be used to purchase multifamily residential property from the Resolution Trust Corporation, the Secretary shall establish an expedited procedure for considering such applications.

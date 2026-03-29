@@ -5,7 +5,7 @@ usc_section: "135k"
 chapter: 6
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 135k"
-generated_at: "2026-03-29T00:28:57.868Z"
+generated_at: "2026-03-29T02:10:16.655Z"
 ---
 
 # §§ 135 to 135k. Omitted

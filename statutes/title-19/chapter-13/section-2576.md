@@ -5,14 +5,14 @@ usc_section: "2576"
 chapter: 13
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2576"
-generated_at: "2026-03-29T00:30:20.240Z"
+generated_at: "2026-03-29T02:12:08.709Z"
 ---
 
 # § 2576. General
 
-(a) Nothing in this subpart shall be construed—
-  (1) to prohibit a Federal agency from engaging in activity related to standards-related measures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment or consumers; or
-  (2) to limit the authority of a Federal agency to determine the level it considers appropriate of safety or of protection of human, animal, or plant life or health, the environment or consumers.
-(b) This subpart does not apply to—
-  (1) technical specifications prepared by a Federal agency for production or consumption requirements of the agency; or
-  (2) sanitary or phytosanitary measures under subpart 1.
+- **(a)** Nothing in this subpart shall be construed—
+  - **(1)** to prohibit a Federal agency from engaging in activity related to standards-related measures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment or consumers; or
+  - **(2)** to limit the authority of a Federal agency to determine the level it considers appropriate of safety or of protection of human, animal, or plant life or health, the environment or consumers.
+- **(b)** This subpart does not apply to—
+  - **(1)** technical specifications prepared by a Federal agency for production or consumption requirements of the agency; or
+  - **(2)** sanitary or phytosanitary measures under subpart 1.

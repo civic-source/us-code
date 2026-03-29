@@ -5,7 +5,7 @@ usc_section: "103503"
 chapter: 1035
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 103503"
-generated_at: "2026-03-29T00:33:21.622Z"
+generated_at: "2026-03-29T02:16:35.467Z"
 ---
 
 # § 103503. Summary to Congress

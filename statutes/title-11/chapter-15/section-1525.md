@@ -5,10 +5,10 @@ usc_section: "1525"
 chapter: 15
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1525"
-generated_at: "2026-03-29T00:28:59.980Z"
+generated_at: "2026-03-29T02:10:54.358Z"
 ---
 
 # § 1525. Cooperation and direct communication between the court and foreign courts or foreign representatives
 
-(a) Consistent with section 1501, the court shall cooperate to the maximum extent possible with a foreign court or a foreign representative, either directly or through the trustee.
-(b) The court is entitled to communicate directly with, or to request information or assistance directly from, a foreign court or a foreign representative, subject to the rights of a party in interest to notice and participation.
+- **(a)** Consistent with section 1501, the court shall cooperate to the maximum extent possible with a foreign court or a foreign representative, either directly or through the trustee.
+- **(b)** The court is entitled to communicate directly with, or to request information or assistance directly from, a foreign court or a foreign representative, subject to the rights of a party in interest to notice and participation.

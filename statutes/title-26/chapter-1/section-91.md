@@ -5,19 +5,19 @@ usc_section: "91"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 91"
-generated_at: "2026-03-29T00:31:20.616Z"
+generated_at: "2026-03-29T02:14:00.788Z"
 ---
 
 # § 91. Certain foreign branch losses transferred to specified 10-percent owned foreign corporations
 
-(a) If a domestic corporation transfers substantially all of the assets of a foreign branch (within the meaning of section 367(a)(3)(C), as in effect before the date of the enactment of the Tax Cuts and Jobs Act) to a specified 10-percent owned foreign corporation (as defined in section 245A) with respect to which it is a United States shareholder after such transfer, such domestic corporation shall include in gross income for the taxable year which includes such transfer an amount equal to the transferred loss amount with respect to such transfer.
-(b) For purposes of this section, the term “transferred loss amount” means, with respect to any transfer of substantially all of the assets of a foreign branch, the excess (if any) of—
-  (1) the sum of losses—
-    (A) which were incurred by the foreign branch after December 31, 2017 , and before the transfer, and
-    (B) with respect to which a deduction was allowed to the taxpayer, over
-  (2) the sum of—
-    (A) any taxable income of such branch for a taxable year after the taxable year in which the loss was incurred and through the close of the taxable year of the transfer, and
-    (B) any amount which is recognized under section 904(f)(3) on account of the transfer.
-(c) The transferred loss amount shall be reduced (but not below zero) by the amount of gain recognized by the taxpayer on account of the transfer (other than amounts taken into account under subsection (b)(2)(B)).
-(d) Amounts included in gross income under this section shall be treated as derived from sources within the United States.
-(e) Consistent with such regulations or other guidance as the Secretary shall prescribe, proper adjustments shall be made in the adjusted basis of the taxpayer’s stock in the specified 10-percent owned foreign corporation to which the transfer is made, and in the transferee’s adjusted basis in the property transferred, to reflect amounts included in gross income under this section.
+- **(a)** If a domestic corporation transfers substantially all of the assets of a foreign branch (within the meaning of section 367(a)(3)(C), as in effect before the date of the enactment of the Tax Cuts and Jobs Act) to a specified 10-percent owned foreign corporation (as defined in section 245A) with respect to which it is a United States shareholder after such transfer, such domestic corporation shall include in gross income for the taxable year which includes such transfer an amount equal to the transferred loss amount with respect to such transfer.
+- **(b)** For purposes of this section, the term “transferred loss amount” means, with respect to any transfer of substantially all of the assets of a foreign branch, the excess (if any) of—
+  - **(1)** the sum of losses—
+    - **(A)** which were incurred by the foreign branch after December 31, 2017 , and before the transfer, and
+    - **(B)** with respect to which a deduction was allowed to the taxpayer, over
+  - **(2)** the sum of—
+    - **(A)** any taxable income of such branch for a taxable year after the taxable year in which the loss was incurred and through the close of the taxable year of the transfer, and
+    - **(B)** any amount which is recognized under section 904(f)(3) on account of the transfer.
+- **(c)** The transferred loss amount shall be reduced (but not below zero) by the amount of gain recognized by the taxpayer on account of the transfer (other than amounts taken into account under subsection (b)(2)(B)).
+- **(d)** Amounts included in gross income under this section shall be treated as derived from sources within the United States.
+- **(e)** Consistent with such regulations or other guidance as the Secretary shall prescribe, proper adjustments shall be made in the adjusted basis of the taxpayer’s stock in the specified 10-percent owned foreign corporation to which the transfer is made, and in the transferee’s adjusted basis in the property transferred, to reflect amounts included in gross income under this section.

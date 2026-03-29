@@ -5,7 +5,7 @@ usc_section: "2566"
 chapter: 35
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2566"
-generated_at: "2026-03-29T00:30:33.826Z"
+generated_at: "2026-03-29T02:12:40.098Z"
 ---
 
 # §§ 2561 to 2566. Repealed. Pub. L. 105–277, div. G , subdiv. A, title XII, § 1222, Oct. 21, 1998 , 112 Stat. 2681–768

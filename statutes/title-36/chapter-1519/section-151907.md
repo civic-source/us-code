@@ -1,0 +1,14 @@
+---
+title: "Section 151907 - Principal office"
+usc_title: 36
+usc_section: "151907"
+chapter: 1519
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 151907"
+generated_at: "2026-03-29T02:14:41.368Z"
+---
+
+# § 151907. Principal office
+
+The principal office of the corporation shall be in New York, New York, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
+

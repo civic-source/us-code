@@ -5,18 +5,18 @@ usc_section: "643"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 643"
-generated_at: "2026-03-29T00:06:10.924Z"
+generated_at: "2026-03-29T02:09:53.685Z"
 ---
 
 # § 643. Determinations and points of order
 
-(a) For purposes of this subchapter and subchapter II, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
-(b) 
-  (1) Except as otherwise provided in this subsection, it shall not be in order in the Senate to consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that would exceed any of the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 901(c) ].
-  (2) This subsection shall not apply if a declaration of war by the Congress is in effect or if a joint resolution pursuant to section 258 of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 907a ] has been enacted.
-(c) It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
-  (1) the level of total outlays for the first fiscal year set forth in that concurrent resolution or conference report exceeds; or
-  (2) the adoption of that amendment would result in a level of total outlays for that fiscal year that exceeds;
-(d) A point of order under this Act may not be raised against a bill, resolution, amendment, motion, or conference report while an amendment or motion, the adoption of which would remedy the violation of this Act, is pending before the Senate.
-(e) Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
-(f) In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
+- **(a)** For purposes of this subchapter and subchapter II, the levels of new budget authority, outlays, direct spending, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as applicable.
+- **(b)**
+  - **(1)** Except as otherwise provided in this subsection, it shall not be in order in the Senate to consider any bill or resolution (or amendment, motion, or conference report on that bill or resolution) that would exceed any of the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 901(c) ].
+  - **(2)** This subsection shall not apply if a declaration of war by the Congress is in effect or if a joint resolution pursuant to section 258 of the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 907a ] has been enacted.
+- **(c)** It shall not be in order in the Senate to consider any concurrent resolution on the budget for a fiscal year, or to consider any amendment to that concurrent resolution, or to consider a conference report on that concurrent resolution, if—
+  - **(1)** the level of total outlays for the first fiscal year set forth in that concurrent resolution or conference report exceeds; or
+  - **(2)** the adoption of that amendment would result in a level of total outlays for that fiscal year that exceeds;
+- **(d)** A point of order under this Act may not be raised against a bill, resolution, amendment, motion, or conference report while an amendment or motion, the adoption of which would remedy the violation of this Act, is pending before the Senate.
+- **(e)** Each provision of this Act that establishes a point of order against an amendment also establishes a point of order in the Senate against an amendment between the Houses. If a point of order under this Act is raised in the Senate against an amendment between the Houses and the point of order is sustained, the effect shall be the same as if the Senate had disagreed to the amendment.
+- **(f)** In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.

@@ -5,14 +5,14 @@ usc_section: "10336"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10336"
-generated_at: "2026-03-29T00:32:01.552Z"
+generated_at: "2026-03-29T02:14:25.265Z"
 ---
 
 # § 10336. Expenditure of grants; records
 
-(a) A grant made under this subchapter may not be expended for more than 75 percent of the cost of the identified uses, in the aggregate, for which such grant is received to carry out section 10332 of this title , except that in the case of funds distributed to an Indian tribe which performs law enforcement functions (as determined by the Secretary of the Interior) for any such program or project, the amount of such grant shall be equal to 100 percent of such cost. The non-Federal portion of the expenditures for such uses shall be paid in cash.
-(b) Not more than 10 percent of a grant made under this subchapter may be used for costs incurred to administer such grant.
-(c) 
-  (1) Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.. 1 1 So in original.
-  (2) The Director and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) if, in the opinion of the Director or the Comptroller General, such books, documents, and records are related to the receipt or use of any such grant.
-(d) Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.
+- **(a)** A grant made under this subchapter may not be expended for more than 75 percent of the cost of the identified uses, in the aggregate, for which such grant is received to carry out section 10332 of this title , except that in the case of funds distributed to an Indian tribe which performs law enforcement functions (as determined by the Secretary of the Interior) for any such program or project, the amount of such grant shall be equal to 100 percent of such cost. The non-Federal portion of the expenditures for such uses shall be paid in cash.
+- **(b)** Not more than 10 percent of a grant made under this subchapter may be used for costs incurred to administer such grant.
+- **(c)**
+  - **(1)** Grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) shall keep such records as the Director may require by rule to facilitate such an audit.. 1 1 So in original.
+  - **(2)** The Director and the Comptroller General of the United States shall have access, for the purpose of audit and examination, to any books, documents, and records of grant recipients (or private organizations with which grant recipients have contracted to provide equipment or training using grant funds) if, in the opinion of the Director or the Comptroller General, such books, documents, and records are related to the receipt or use of any such grant.
+- **(d)** Nothing in this subchapter shall prohibit the utilization of any grant funds to contract with a private organization to provide equipment or training for the televising of testimony as contemplated by the application submitted by an applicant.

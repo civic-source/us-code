@@ -5,11 +5,11 @@ usc_section: "2708"
 chapter: 27
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2708"
-generated_at: "2026-03-29T00:29:25.026Z"
+generated_at: "2026-03-29T02:11:23.805Z"
 ---
 
 # § 2708. Clothing for officers and enlisted personnel
 
-(a) The Coast Guard may purchase uniforms, accouterments, and related equipment for sale to officer personnel and cadets of the Coast Guard.
-(b) The Coast Guard may purchase uniform clothing for sale to enlisted personnel of the Coast Guard. The actual cost of the clothing thus sold to enlisted personnel may be withheld from their pay.
-(c) The Coast Guard may provide a cash allowance, in such amount as the Secretary shall determine by policy, to be paid to pregnant officer personnel for the purchase of maternity-related uniform items, if such uniform items are not so furnished to the member by the Coast Guard.
+- **(a)** The Coast Guard may purchase uniforms, accouterments, and related equipment for sale to officer personnel and cadets of the Coast Guard.
+- **(b)** The Coast Guard may purchase uniform clothing for sale to enlisted personnel of the Coast Guard. The actual cost of the clothing thus sold to enlisted personnel may be withheld from their pay.
+- **(c)** The Coast Guard may provide a cash allowance, in such amount as the Secretary shall determine by policy, to be paid to pregnant officer personnel for the purchase of maternity-related uniform items, if such uniform items are not so furnished to the member by the Coast Guard.

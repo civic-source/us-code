@@ -5,7 +5,7 @@ usc_section: "786"
 chapter: 16
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 786"
-generated_at: "2026-03-29T00:29:41.668Z"
+generated_at: "2026-03-29T02:11:34.138Z"
 ---
 
 # § 786. Repealed. Pub. L. 95–91, title VII, § 709(a)(1) , Aug. 4, 1977 , 91 Stat. 607

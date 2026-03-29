@@ -5,21 +5,21 @@ usc_section: "18062"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18062"
-generated_at: "2026-03-29T00:32:54.463Z"
+generated_at: "2026-03-29T02:15:37.431Z"
 ---
 
 # § 18062. Establishment of risk corridors for plans in individual and small group markets
 
-(a) The Secretary shall establish and administer a program of risk corridors for calendar years 2014, 2015, and 2016 under which a qualified health plan offered in the individual or small group market shall participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan’s aggregate premiums. Such program shall be based on the program for regional participating provider organizations under part D of title XVIII of the Social Security Act [ 42 U.S.C. 1395w–101 et seq.].
-(b) 
-  (1) The Secretary shall provide under the program established under subsection (a) that if—
-    (A) a participating plan’s allowable costs for any plan year are more than 103 percent but not more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to 50 percent of the target amount in excess of 103 percent of the target amount; and
-    (B) a participating plan’s allowable costs for any plan year are more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of allowable costs in excess of 108 percent of the target amount.
-  (2) The Secretary shall provide under the program established under subsection (a) that if—
-    (A) a participating plan’s allowable costs for any plan year are less than 97 percent but not less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to 50 percent of the excess of 97 percent of the target amount over the allowable costs; and
-    (B) a participating plan’s allowable costs for any plan year are less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of the excess of 92 percent of the target amount over the allowable costs.
-(c) In this section:
-  (1) 
-    (A) The amount of allowable costs of a plan for any year is an amount equal to the total costs (other than administrative costs) of the plan in providing benefits covered by the plan.
-    (B) Allowable costs shall 1 1 So in original. Probably should be followed by “be”. reduced by any risk adjustment and reinsurance payments received under section 2 2 So in original. Probably should be “sections”. 18061 and 18063 of this title.
-  (2) The target amount of a plan for any year is an amount equal to the total premiums (including any premium subsidies under any governmental program), reduced by the administrative costs of the plan.
+- **(a)** The Secretary shall establish and administer a program of risk corridors for calendar years 2014, 2015, and 2016 under which a qualified health plan offered in the individual or small group market shall participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan’s aggregate premiums. Such program shall be based on the program for regional participating provider organizations under part D of title XVIII of the Social Security Act [ 42 U.S.C. 1395w–101 et seq.].
+- **(b)**
+  - **(1)** The Secretary shall provide under the program established under subsection (a) that if—
+    - **(A)** a participating plan’s allowable costs for any plan year are more than 103 percent but not more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to 50 percent of the target amount in excess of 103 percent of the target amount; and
+    - **(B)** a participating plan’s allowable costs for any plan year are more than 108 percent of the target amount, the Secretary shall pay to the plan an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of allowable costs in excess of 108 percent of the target amount.
+  - **(2)** The Secretary shall provide under the program established under subsection (a) that if—
+    - **(A)** a participating plan’s allowable costs for any plan year are less than 97 percent but not less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to 50 percent of the excess of 97 percent of the target amount over the allowable costs; and
+    - **(B)** a participating plan’s allowable costs for any plan year are less than 92 percent of the target amount, the plan shall pay to the Secretary an amount equal to the sum of 2.5 percent of the target amount plus 80 percent of the excess of 92 percent of the target amount over the allowable costs.
+- **(c)** In this section:
+  - **(1)**
+    - **(A)** The amount of allowable costs of a plan for any year is an amount equal to the total costs (other than administrative costs) of the plan in providing benefits covered by the plan.
+    - **(B)** Allowable costs shall 1 1 So in original. Probably should be followed by “be”. reduced by any risk adjustment and reinsurance payments received under section 2 2 So in original. Probably should be “sections”. 18061 and 18063 of this title.
+  - **(2)** The target amount of a plan for any year is an amount equal to the total premiums (including any premium subsidies under any governmental program), reduced by the administrative costs of the plan.

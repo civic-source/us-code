@@ -5,7 +5,7 @@ usc_section: "462"
 chapter: 22
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 462"
-generated_at: "2026-03-29T00:20:52.848Z"
+generated_at: "2026-03-29T02:10:44.870Z"
 ---
 
 # § 462. Financial assistance to certain employees in acquisition of critical skills

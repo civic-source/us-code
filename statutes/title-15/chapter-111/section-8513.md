@@ -5,13 +5,13 @@ usc_section: "8513"
 chapter: 111
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8513"
-generated_at: "2026-03-29T00:29:41.946Z"
+generated_at: "2026-03-29T02:11:34.448Z"
 ---
 
 # § 8513. Tornado warning improvement and extension program
 
-(a) The Under Secretary, in collaboration with the United States weather industry and academic partners, shall establish a tornado warning improvement and extension program.
-(b) The goal of such program shall be to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond 1 hour in advance.
-(c) The Under Secretary shall ensure that the program periodically examines the value of incorporating innovative observations, such as acoustic or infrasonic measurements, observations from phased array radars, and observations from mesonets, with respect to the improvement of tornado forecasts, predictions, and warnings.
-(d) Not later than 180 days after April 18, 2017 , the Assistant Administrator for Oceanic and Atmospheric Research, in coordination with the Director of the National Weather Service, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
-(e) Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.
+- **(a)** The Under Secretary, in collaboration with the United States weather industry and academic partners, shall establish a tornado warning improvement and extension program.
+- **(b)** The goal of such program shall be to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond 1 hour in advance.
+- **(c)** The Under Secretary shall ensure that the program periodically examines the value of incorporating innovative observations, such as acoustic or infrasonic measurements, observations from phased array radars, and observations from mesonets, with respect to the improvement of tornado forecasts, predictions, and warnings.
+- **(d)** Not later than 180 days after April 18, 2017 , the Assistant Administrator for Oceanic and Atmospheric Research, in coordination with the Director of the National Weather Service, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
+- **(e)** Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.

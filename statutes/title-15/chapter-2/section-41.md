@@ -5,7 +5,7 @@ usc_section: "41"
 chapter: 2
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 41"
-generated_at: "2026-03-29T00:29:41.416Z"
+generated_at: "2026-03-29T02:11:33.855Z"
 ---
 
 # § 41. Federal Trade Commission established; membership; vacancies; seal

@@ -5,7 +5,7 @@ usc_section: "403"
 chapter: 4
 current_through: "PL 119-73"
 classification: "17 U.S.C. § 403"
-generated_at: "2026-03-29T00:06:55.748Z"
+generated_at: "2026-03-29T02:11:57.622Z"
 ---
 
 # § 403. Notice of copyright: Publications incorporating United States Government works

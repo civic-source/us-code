@@ -5,7 +5,7 @@ usc_section: "5047"
 chapter: 66
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5047"
-generated_at: "2026-03-29T00:32:53.890Z"
+generated_at: "2026-03-29T02:15:36.730Z"
 ---
 
 # § 5047. Repealed. Pub. L. 103–82, title III, § 365 , Sept. 21, 1993 , 107 Stat. 908

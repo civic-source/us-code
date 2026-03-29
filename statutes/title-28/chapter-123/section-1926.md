@@ -5,10 +5,10 @@ usc_section: "1926"
 chapter: 123
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1926"
-generated_at: "2026-03-29T00:31:24.193Z"
+generated_at: "2026-03-29T02:14:04.565Z"
 ---
 
 # § 1926. Court of Federal Claims
 
-(a) The Judicial Conference of the United States shall prescribe from time to time the fees and costs to be charged and collected in the United States Court of Federal Claims.
-(b) The court and its officers shall collect only such fees and costs as the Judicial Conference prescribes. The court may require advance payment of fees by rule.
+- **(a)** The Judicial Conference of the United States shall prescribe from time to time the fees and costs to be charged and collected in the United States Court of Federal Claims.
+- **(b)** The court and its officers shall collect only such fees and costs as the Judicial Conference prescribes. The court may require advance payment of fees by rule.

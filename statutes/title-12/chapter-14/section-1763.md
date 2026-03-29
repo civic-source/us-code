@@ -5,7 +5,7 @@ usc_section: "1763"
 chapter: 14
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1763"
-generated_at: "2026-03-29T00:29:16.648Z"
+generated_at: "2026-03-29T02:11:21.005Z"
 ---
 
 # § 1763. Dividends

@@ -5,7 +5,7 @@ usc_section: "6203"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6203"
-generated_at: "2026-03-29T00:20:53.179Z"
+generated_at: "2026-03-29T02:10:45.258Z"
 ---
 
 # § 6203. River protection project

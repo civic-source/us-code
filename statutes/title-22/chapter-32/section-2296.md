@@ -5,19 +5,19 @@ usc_section: "2296"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2296"
-generated_at: "2026-03-29T00:30:33.784Z"
+generated_at: "2026-03-29T02:12:40.056Z"
 ---
 
 # § 2296. United States assistance to promote reconciliation and recovery from regional conflicts
 
-(a) The purposes of assistance under this section include—
-  (1) the creation of the basis for reconciliation between belligerents;
-  (2) the promotion of economic development in areas of the countries of the South Caucasus and Central Asia impacted by civil conflict and war; and
-  (3) the encouragement of broad regional cooperation among countries of the South Caucasus and Central Asia that have been destabilized by internal conflicts.
-(b) 
-  (1) To carry out the purposes of subsection (a), the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
-  (2) In this subsection, the term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies and equipment, education, and clothing.
-(c) Activities that may be supported by assistance under subsection (b) include—
-  (1) providing for the humanitarian needs of victims of the conflicts;
-  (2) facilitating the return of refugees and internally displaced persons to their homes; and
-  (3) assisting in the reconstruction of residential and economic infrastructure destroyed by war.
+- **(a)** The purposes of assistance under this section include—
+  - **(1)** the creation of the basis for reconciliation between belligerents;
+  - **(2)** the promotion of economic development in areas of the countries of the South Caucasus and Central Asia impacted by civil conflict and war; and
+  - **(3)** the encouragement of broad regional cooperation among countries of the South Caucasus and Central Asia that have been destabilized by internal conflicts.
+- **(b)**
+  - **(1)** To carry out the purposes of subsection (a), the President is authorized to provide humanitarian assistance and economic reconstruction assistance for the countries of the South Caucasus and Central Asia to support the activities described in subsection (c).
+  - **(2)** In this subsection, the term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies and equipment, education, and clothing.
+- **(c)** Activities that may be supported by assistance under subsection (b) include—
+  - **(1)** providing for the humanitarian needs of victims of the conflicts;
+  - **(2)** facilitating the return of refugees and internally displaced persons to their homes; and
+  - **(3)** assisting in the reconstruction of residential and economic infrastructure destroyed by war.

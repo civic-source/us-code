@@ -5,7 +5,7 @@ usc_section: "613"
 chapter: 6
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 613"
-generated_at: "2026-03-29T00:29:16.507Z"
+generated_at: "2026-03-29T02:11:20.866Z"
 ---
 
 # § 613. Signing of articles of association; forwarding to and filing by Board of Governors of the Federal Reserve System; organization certificate; contents

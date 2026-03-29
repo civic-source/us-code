@@ -5,26 +5,26 @@ usc_section: "3312"
 chapter: 33
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 3312"
-generated_at: "2026-03-29T00:32:20.551Z"
+generated_at: "2026-03-29T02:14:58.792Z"
 ---
 
 # § 3312. Compliance with nationally recognized codes
 
-(a) 
-  (1) This section applies to any project for construction or alteration of a building for which amounts are first appropriated for a fiscal year beginning after September 30, 1989 .
-  (2) This section does not apply to a building for which the Administrator of General Services or the head of the federal agency authorized to construct or alter the building decides that the application of this section to the building would adversely affect national security. A decision under this subsection is not subject to administrative or judicial review.
-(b) Each building constructed or altered by the General Services Administration or any other federal agency shall be constructed or altered, to the maximum extent feasible as determined by the Administrator or the head of the federal agency, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes, including electrical codes, fire and life safety codes, and plumbing codes, as the Administrator decides is appropriate. In carrying out this subsection, the Administrator or the head of the federal agency shall use the latest edition of the nationally recognized codes.
-(c) Each building constructed or altered by the Administration or any other federal agency shall be constructed or altered only after consideration of all requirements (except procedural requirements) of the following laws of a State or a political subdivision of a State, which would apply to the building if it were not a building constructed or altered by a federal agency:
-  (1) Zoning laws.
-  (2) Laws relating to landscaping, open space, minimum distance of a building from the property line, maximum height of a building, historic preservation, esthetic qualities of a building, and other similar laws.
-(d) 
-  (1) To meet the requirements of subsections (b) and (c), the Administrator or the head of the federal agency authorized to construct or alter the building—
-    (A) in preparing plans for the building, shall consult with appropriate officials of the State or political subdivision of a State, or both, in which the building will be located;
-    (B) on request shall submit the plans in a timely manner to the officials for review by the officials for a reasonable period of time not exceeding 30 days; and
-    (C) shall permit inspection by the officials during construction or alteration of the building, in accordance with the customary schedule of inspections for construction or alteration of buildings in the locality, if the officials provide to the Administrator or the head of the federal agency—
-      (i) a copy of the schedule before construction of the building is begun; and
-      (ii) reasonable notice of their intention to conduct any inspection before conducting the inspection.
-  (2) This section does not impose an obligation on any State or political subdivision to take any action under paragraph (1).
-(e) Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and (c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
-(f) An action may not be brought against the Federal Government and a fine or penalty may not be imposed against the Government for failure to meet the requirements of subsection (b), (c), or (d) or for failure to carry out any recommendation under subsection (e).
-(g) The Government and its contractors shall not be required to pay any amount for any action a State or a political subdivision of a State takes to carry out this section, including reviewing plans, carrying out on-site inspections, issuing building permits, and making recommendations.
+- **(a)**
+  - **(1)** This section applies to any project for construction or alteration of a building for which amounts are first appropriated for a fiscal year beginning after September 30, 1989 .
+  - **(2)** This section does not apply to a building for which the Administrator of General Services or the head of the federal agency authorized to construct or alter the building decides that the application of this section to the building would adversely affect national security. A decision under this subsection is not subject to administrative or judicial review.
+- **(b)** Each building constructed or altered by the General Services Administration or any other federal agency shall be constructed or altered, to the maximum extent feasible as determined by the Administrator or the head of the federal agency, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes, including electrical codes, fire and life safety codes, and plumbing codes, as the Administrator decides is appropriate. In carrying out this subsection, the Administrator or the head of the federal agency shall use the latest edition of the nationally recognized codes.
+- **(c)** Each building constructed or altered by the Administration or any other federal agency shall be constructed or altered only after consideration of all requirements (except procedural requirements) of the following laws of a State or a political subdivision of a State, which would apply to the building if it were not a building constructed or altered by a federal agency:
+  - **(1)** Zoning laws.
+  - **(2)** Laws relating to landscaping, open space, minimum distance of a building from the property line, maximum height of a building, historic preservation, esthetic qualities of a building, and other similar laws.
+- **(d)**
+  - **(1)** To meet the requirements of subsections (b) and (c), the Administrator or the head of the federal agency authorized to construct or alter the building—
+    - **(A)** in preparing plans for the building, shall consult with appropriate officials of the State or political subdivision of a State, or both, in which the building will be located;
+    - **(B)** on request shall submit the plans in a timely manner to the officials for review by the officials for a reasonable period of time not exceeding 30 days; and
+    - **(C)** shall permit inspection by the officials during construction or alteration of the building, in accordance with the customary schedule of inspections for construction or alteration of buildings in the locality, if the officials provide to the Administrator or the head of the federal agency—
+      - **(i)** a copy of the schedule before construction of the building is begun; and
+      - **(ii)** reasonable notice of their intention to conduct any inspection before conducting the inspection.
+  - **(2)** This section does not impose an obligation on any State or political subdivision to take any action under paragraph (1).
+- **(e)** Appropriate officials of a State or political subdivision of a State may make recommendations to the Administrator or the head of the federal agency authorized to construct or alter a building concerning measures necessary to meet the requirements of subsections (b) and (c). The officials also may make recommendations to the Administrator or the head of the federal agency concerning measures which should be taken in the construction or alteration of the building to take into account local conditions. The Administrator or the head of the agency shall give due consideration to the recommendations.
+- **(f)** An action may not be brought against the Federal Government and a fine or penalty may not be imposed against the Government for failure to meet the requirements of subsection (b), (c), or (d) or for failure to carry out any recommendation under subsection (e).
+- **(g)** The Government and its contractors shall not be required to pay any amount for any action a State or a political subdivision of a State takes to carry out this section, including reviewing plans, carrying out on-site inspections, issuing building permits, and making recommendations.

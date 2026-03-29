@@ -5,18 +5,18 @@ usc_section: "387r"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 387r"
-generated_at: "2026-03-29T00:30:24.308Z"
+generated_at: "2026-03-29T02:12:28.117Z"
 ---
 
 # § 387r. Drug products used to treat tobacco dependence
 
-(a) The Secretary shall—
-  (1) at the request of the applicant, consider designating products for smoking cessation, including nicotine replacement products as fast track research and approval products within the meaning of section 356 of this title ;
-  (2) consider approving the extended use of nicotine replacement products (such as nicotine patches, nicotine gum, and nicotine lozenges) for the treatment of tobacco dependence; and
-  (3) review and consider the evidence for additional indications for nicotine replacement products, such as for craving relief or relapse prevention.
-(b) 
-  (1) Not later than 3 years after June 22, 2009 , the Secretary, after consultation with recognized scientific, medical, and public health experts (including both Federal agencies and nongovernmental entities, the Institute of Medicine of the National Academy of Sciences, and the Society for Research on Nicotine and Tobacco), shall submit to the Congress a report that examines how best to regulate, promote, and encourage the development of innovative products and treatments (including nicotine-based and non-nicotine-based products and treatments) to better achieve, in a manner that best protects and promotes the public health—
-    (A) total abstinence from tobacco use;
-    (B) reductions in consumption of tobacco; and
-    (C) reductions in the harm associated with continued tobacco use.
-  (2) The report under paragraph (1) shall include the recommendations of the Secretary on how the Food and Drug Administration should coordinate and facilitate the exchange of information on such innovative products and treatments among relevant offices and centers within the Administration and within the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant agencies.
+- **(a)** The Secretary shall—
+  - **(1)** at the request of the applicant, consider designating products for smoking cessation, including nicotine replacement products as fast track research and approval products within the meaning of section 356 of this title ;
+  - **(2)** consider approving the extended use of nicotine replacement products (such as nicotine patches, nicotine gum, and nicotine lozenges) for the treatment of tobacco dependence; and
+  - **(3)** review and consider the evidence for additional indications for nicotine replacement products, such as for craving relief or relapse prevention.
+- **(b)**
+  - **(1)** Not later than 3 years after June 22, 2009 , the Secretary, after consultation with recognized scientific, medical, and public health experts (including both Federal agencies and nongovernmental entities, the Institute of Medicine of the National Academy of Sciences, and the Society for Research on Nicotine and Tobacco), shall submit to the Congress a report that examines how best to regulate, promote, and encourage the development of innovative products and treatments (including nicotine-based and non-nicotine-based products and treatments) to better achieve, in a manner that best protects and promotes the public health—
+    - **(A)** total abstinence from tobacco use;
+    - **(B)** reductions in consumption of tobacco; and
+    - **(C)** reductions in the harm associated with continued tobacco use.
+  - **(2)** The report under paragraph (1) shall include the recommendations of the Secretary on how the Food and Drug Administration should coordinate and facilitate the exchange of information on such innovative products and treatments among relevant offices and centers within the Administration and within the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant agencies.

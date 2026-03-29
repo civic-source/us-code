@@ -5,7 +5,7 @@ usc_section: "3371"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3371"
-generated_at: "2026-03-29T00:28:58.180Z"
+generated_at: "2026-03-29T02:10:17.007Z"
 ---
 
 # § 3371. Repealed. Pub. L. 115–334, title VII, § 7614(a) , Dec. 20, 2018 , 132 Stat. 4833

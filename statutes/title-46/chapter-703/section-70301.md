@@ -5,13 +5,13 @@ usc_section: "70301"
 chapter: 703
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 70301"
-generated_at: "2026-03-29T00:33:02.967Z"
+generated_at: "2026-03-29T02:15:53.799Z"
 ---
 
 # § 70301. Definitions
 
 In this chapter:
 
-  (1) The term “common carrier” has the meaning given that term in section 40102 of this title .
-  (2) The term “passenger vessel” has the meaning given that term in section 2101 of this title .
-  (3) The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+  - **(1)** The term “common carrier” has the meaning given that term in section 40102 of this title .
+  - **(2)** The term “passenger vessel” has the meaning given that term in section 2101 of this title .
+  - **(3)** The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.

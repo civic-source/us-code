@@ -5,7 +5,7 @@ usc_section: "195"
 chapter: 11
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 195"
-generated_at: "2026-03-29T00:07:03.112Z"
+generated_at: "2026-03-29T02:12:17.153Z"
 ---
 
 # § 195. Gifts, bequests, or devises for benefit of National Arboretum; separate fund in the Treasury

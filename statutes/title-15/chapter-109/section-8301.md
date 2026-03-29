@@ -5,7 +5,7 @@ usc_section: "8301"
 chapter: 109
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8301"
-generated_at: "2026-03-29T00:29:41.940Z"
+generated_at: "2026-03-29T02:11:34.443Z"
 ---
 
 # § 8301. Definitions

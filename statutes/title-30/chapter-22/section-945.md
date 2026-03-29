@@ -5,7 +5,7 @@ usc_section: "945"
 chapter: 22
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 945"
-generated_at: "2026-03-29T00:31:30.798Z"
+generated_at: "2026-03-29T02:14:11.233Z"
 ---
 
 # § 945. Repealed. Pub. L. 107–275, § 2(c)(1) , Nov. 2, 2002 , 116 Stat. 1926

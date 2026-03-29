@@ -5,7 +5,7 @@ usc_section: "512"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 512"
-generated_at: "2026-03-29T00:06:17.487Z"
+generated_at: "2026-03-29T02:10:05.020Z"
 ---
 
 # § 512. Construction

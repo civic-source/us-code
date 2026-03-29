@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-03-29T00:28:58.125Z"
+generated_at: "2026-03-29T02:10:16.946Z"
 ---
 
 # § 2204–5. Authorization of appropriations for cooperative research projects

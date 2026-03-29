@@ -5,10 +5,10 @@ usc_section: "3851a"
 chapter: 58
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3851a"
-generated_at: "2026-03-29T00:29:52.824Z"
+generated_at: "2026-03-29T02:11:53.918Z"
 ---
 
 # § 3851a. Forest Service participation in ACES Program
 
-(a) The Secretary, acting through the Chief of the Forest Service, may use funds derived from conservation-related programs executed on National Forest System land to utilize the Agriculture Conservation Experienced Services Program established pursuant to section 3851 of this title to provide technical services for conservation-related programs and authorities carried out by the Secretary on National Forest System land.
-(b) The authority provided to the Secretary to carry out this section terminates effective October 1, 2023 . 1 1 See Extension of Forest Service Participation in Aces Program note below.
+- **(a)** The Secretary, acting through the Chief of the Forest Service, may use funds derived from conservation-related programs executed on National Forest System land to utilize the Agriculture Conservation Experienced Services Program established pursuant to section 3851 of this title to provide technical services for conservation-related programs and authorities carried out by the Secretary on National Forest System land.
+- **(b)** The authority provided to the Secretary to carry out this section terminates effective October 1, 2023 . 1 1 See Extension of Forest Service Participation in Aces Program note below.

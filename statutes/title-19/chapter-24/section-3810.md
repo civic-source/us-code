@@ -5,12 +5,12 @@ usc_section: "3810"
 chapter: 24
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3810"
-generated_at: "2026-03-29T00:30:20.279Z"
+generated_at: "2026-03-29T02:12:08.746Z"
 ---
 
 # § 3810. Application of certain provisions
 
 For purposes of applying sections 2135, 2136, and 2137 of this title—
 
-  (1) any trade agreement entered into under section 3803 of this title shall be treated as an agreement entered into under section 2111 or 2112 of this title, as appropriate; and
-  (2) any proclamation or Executive order issued pursuant to a trade agreement entered into under section 3803 of this title shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under section 2112 of this title .
+  - **(1)** any trade agreement entered into under section 3803 of this title shall be treated as an agreement entered into under section 2111 or 2112 of this title, as appropriate; and
+  - **(2)** any proclamation or Executive order issued pursuant to a trade agreement entered into under section 3803 of this title shall be treated as a proclamation or Executive order issued pursuant to a trade agreement entered into under section 2112 of this title .

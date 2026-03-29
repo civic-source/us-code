@@ -5,15 +5,15 @@ usc_section: "1101"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1101"
-generated_at: "2026-03-29T00:20:52.949Z"
+generated_at: "2026-03-29T02:10:44.976Z"
 ---
 
 # § 1101. Resource allocation methods: capitation or diagnosis-related groups
 
-(a) The Secretary of Defense, after consultation with the other administering Secretaries, shall establish by regulation the use of capitation or diagnosis-related groups as the primary criteria for allocation of resources to facilities of the uniformed services.
-(b) Capitation or diagnosis-related groups shall not be used to allocate resources to the facilities of the uniformed services to the extent that such resources are required by such facilities for mobilization missions.
-(c) Such regulations may establish a system of diagnosis-related groups similar to the system established under section 1886(d)(4) of the Social Security Act ( 42 U.S.C. 1395ww(d)(4) ). Such regulations may include the following:
-  (1) A classification of inpatient treatments by diagnosis-related groups and a similar classification of outpatient treatment.
-  (2) A methodology for classifying specific treatments within such groups.
-  (3) An appropriate weighting factor for each such diagnosis-related group which reflects the relative resources used by a facility of a uniformed service with respect to treatments classified within that group compared to treatments classified within other groups.
-  (4) An appropriate method for calculating or estimating the annual per capita costs of providing comprehensive health care services to members of the uniformed services on active duty and covered beneficiaries.
+- **(a)** The Secretary of Defense, after consultation with the other administering Secretaries, shall establish by regulation the use of capitation or diagnosis-related groups as the primary criteria for allocation of resources to facilities of the uniformed services.
+- **(b)** Capitation or diagnosis-related groups shall not be used to allocate resources to the facilities of the uniformed services to the extent that such resources are required by such facilities for mobilization missions.
+- **(c)** Such regulations may establish a system of diagnosis-related groups similar to the system established under section 1886(d)(4) of the Social Security Act ( 42 U.S.C. 1395ww(d)(4) ). Such regulations may include the following:
+  - **(1)** A classification of inpatient treatments by diagnosis-related groups and a similar classification of outpatient treatment.
+  - **(2)** A methodology for classifying specific treatments within such groups.
+  - **(3)** An appropriate weighting factor for each such diagnosis-related group which reflects the relative resources used by a facility of a uniformed service with respect to treatments classified within that group compared to treatments classified within other groups.
+  - **(4)** An appropriate method for calculating or estimating the annual per capita costs of providing comprehensive health care services to members of the uniformed services on active duty and covered beneficiaries.

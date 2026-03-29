@@ -5,21 +5,21 @@ usc_section: "70j"
 chapter: 2
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 70j"
-generated_at: "2026-03-29T00:29:41.444Z"
+generated_at: "2026-03-29T02:11:33.875Z"
 ---
 
 # § 70j. Exemptions
 
-(a) None of the provisions of this subchapter shall be construed to apply to—
-  (1) upholstery stuffing, except as provided in section 70b(h) of this title ;
-  (2) outer coverings of furniture, mattresses, and box springs;
-  (3) linings or interlinings incorporated primarily for structural purposes and not for warmth;
-  (4) filling or padding incorporated primarily for structural purposes and not for warmth;
-  (5) stiffenings, trimmings, facings, or interfacings;
-  (6) backings of, and paddings or cushions to be used under, floor coverings;
-  (7) sewing and handicraft threads;
-  (8) bandages, surgical dressings, and other textile fiber products, the labeling of which is subject to the requirements of the Federal Food, Drug and Cosmetic Act of 1938, as amended [ 21 U.S.C. 301 et seq.];
-  (9) waste materials not intended for use in a textile fiber product;
-  (10) textile fiber products incorporated in shoes or overshoes or similar outer footwear;
-  (11) textile fiber products incorporated in headwear, handbags, luggage, brushes, lampshades, or toys, catamenial devices, adhesive tapes and adhesive sheets, cleaning cloths impregnated with chemicals, or diapers.
-(b) The Commission may exclude from the provisions of this subchapter other textile fiber products (1) which have an insignificant or inconsequential textile fiber content, or (2) with respect to which the disclosure of textile fiber content is not necessary for the protection of the ultimate consumer.
+- **(a)** None of the provisions of this subchapter shall be construed to apply to—
+  - **(1)** upholstery stuffing, except as provided in section 70b(h) of this title ;
+  - **(2)** outer coverings of furniture, mattresses, and box springs;
+  - **(3)** linings or interlinings incorporated primarily for structural purposes and not for warmth;
+  - **(4)** filling or padding incorporated primarily for structural purposes and not for warmth;
+  - **(5)** stiffenings, trimmings, facings, or interfacings;
+  - **(6)** backings of, and paddings or cushions to be used under, floor coverings;
+  - **(7)** sewing and handicraft threads;
+  - **(8)** bandages, surgical dressings, and other textile fiber products, the labeling of which is subject to the requirements of the Federal Food, Drug and Cosmetic Act of 1938, as amended [ 21 U.S.C. 301 et seq.];
+  - **(9)** waste materials not intended for use in a textile fiber product;
+  - **(10)** textile fiber products incorporated in shoes or overshoes or similar outer footwear;
+  - **(11)** textile fiber products incorporated in headwear, handbags, luggage, brushes, lampshades, or toys, catamenial devices, adhesive tapes and adhesive sheets, cleaning cloths impregnated with chemicals, or diapers.
+- **(b)** The Commission may exclude from the provisions of this subchapter other textile fiber products (1) which have an insignificant or inconsequential textile fiber content, or (2) with respect to which the disclosure of textile fiber content is not necessary for the protection of the ultimate consumer.

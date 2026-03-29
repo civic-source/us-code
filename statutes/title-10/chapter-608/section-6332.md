@@ -5,7 +5,7 @@ usc_section: "6332"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6332"
-generated_at: "2026-03-29T00:20:53.188Z"
+generated_at: "2026-03-29T02:10:45.266Z"
 ---
 
 # § 6332. Laboratory-directed research and development

@@ -5,10 +5,10 @@ usc_section: "1499"
 chapter: 17
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1499"
-generated_at: "2026-03-29T00:30:38.677Z"
+generated_at: "2026-03-29T02:13:20.880Z"
 ---
 
 # § 1499. Limitation on guarantee of debt issues; approval of bond issue sale
 
-(a) The Secretary may guarantee not to exceed 90 percent of the unpaid principal and interest due on an issue of bonds, debentures, or similar obligations issued by an organization satisfactory to the Secretary. Such an issue shall be deemed a loan for purposes of sections 1482, 1483, 1484, 1485, 1486, 1489, 1490, 1491, 1493, 1494, 1495, 1496, and 1497 of this title.
-(b) The method by which an issue of bonds guaranteed under this section may be sold shall be subject to approval by the Secretary.
+- **(a)** The Secretary may guarantee not to exceed 90 percent of the unpaid principal and interest due on an issue of bonds, debentures, or similar obligations issued by an organization satisfactory to the Secretary. Such an issue shall be deemed a loan for purposes of sections 1482, 1483, 1484, 1485, 1486, 1489, 1490, 1491, 1493, 1494, 1495, 1496, and 1497 of this title.
+- **(b)** The method by which an issue of bonds guaranteed under this section may be sold shall be subject to approval by the Secretary.

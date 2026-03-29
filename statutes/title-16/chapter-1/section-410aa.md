@@ -5,7 +5,7 @@ usc_section: "410aa"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 410aa"
-generated_at: "2026-03-29T00:29:52.365Z"
+generated_at: "2026-03-29T02:11:53.388Z"
 ---
 
 # § 410aa. Establishment

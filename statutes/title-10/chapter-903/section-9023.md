@@ -5,10 +5,10 @@ usc_section: "9023"
 chapter: 903
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9023"
-generated_at: "2026-03-29T00:20:53.251Z"
+generated_at: "2026-03-29T02:10:45.334Z"
 ---
 
 # § 9023. Chief of Legislative Liaison
 
-(a) There is a Chief of Legislative Liaison in the Department of the Air Force.
-(b) The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Air Force by section 9014(c)(1)(F) of this title .
+- **(a)** There is a Chief of Legislative Liaison in the Department of the Air Force.
+- **(b)** The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Air Force by section 9014(c)(1)(F) of this title .

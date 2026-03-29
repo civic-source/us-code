@@ -5,12 +5,12 @@ usc_section: "204"
 chapter: 2
 current_through: "PL 119-73"
 classification: "17 U.S.C. § 204"
-generated_at: "2026-03-29T00:06:55.746Z"
+generated_at: "2026-03-29T02:11:57.620Z"
 ---
 
 # § 204. Execution of transfers of copyright ownership
 
-(a) A transfer of copyright ownership, other than by operation of law, is not valid unless an instrument of conveyance, or a note or memorandum of the transfer, is in writing and signed by the owner of the rights conveyed or such owner’s duly authorized agent.
-(b) A certificate of acknowledgement is not required for the validity of a transfer, but is prima facie evidence of the execution of the transfer if—
-  (1) in the case of a transfer executed in the United States, the certificate is issued by a person authorized to administer oaths within the United States; or
-  (2) in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.
+- **(a)** A transfer of copyright ownership, other than by operation of law, is not valid unless an instrument of conveyance, or a note or memorandum of the transfer, is in writing and signed by the owner of the rights conveyed or such owner’s duly authorized agent.
+- **(b)** A certificate of acknowledgement is not required for the validity of a transfer, but is prima facie evidence of the execution of the transfer if—
+  - **(1)** in the case of a transfer executed in the United States, the certificate is issued by a person authorized to administer oaths within the United States; or
+  - **(2)** in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.

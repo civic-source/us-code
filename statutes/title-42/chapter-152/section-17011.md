@@ -5,60 +5,60 @@ usc_section: "17011"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17011"
-generated_at: "2026-03-29T00:32:54.417Z"
+generated_at: "2026-03-29T02:15:37.375Z"
 ---
 
 # § 17011. Transportation electrification
 
-(a) In this section:
-  (1) The term “Administrator” means the Administrator of the Environmental Protection Agency.
-  (2) The term “battery” means an electrochemical energy storage system powered directly by electrical current.
-  (3) The term “electric transportation technology” means—
-    (A) technology used in vehicles that use an electric motor for all or part of the motive power of the vehicles, including battery electric, hybrid electric, plug-in hybrid electric, fuel cell, and plug-in fuel cell vehicles, or rail transportation; or
-    (B) equipment relating to transportation or mobile sources of air pollution that use an electric motor to replace an internal combustion engine for all or part of the work of the equipment, including—
-      (i) corded electric equipment linked to transportation or mobile sources of air pollution; and
-      (ii) electrification technologies at airports, ports, truck stops, and material-handling facilities.
-  (4) The term “nonroad vehicle” means a vehicle—
-    (A) powered—
-      (i) by a nonroad engine, as that term is defined in section 7550 of this title ; or
-      (ii) fully or partially by an electric motor powered by a fuel cell, a battery, or an off-board source of electricity; and
-    (B) that is not a motor vehicle or a vehicle used solely for competition.
-  (5) The term “plug-in electric drive vehicle” means a vehicle that—
-    (A) draws motive power from a battery with a capacity of at least 4 kilowatt-hours;
-    (B) can be recharged from an external source of electricity for motive power; and
-    (C) is a light-, medium-, or heavy-duty motor vehicle or nonroad vehicle (as those terms are defined in section 7550 of this title ).
-  (6) The term “qualified electric transportation project” means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
-    (A) shipside or shoreside electrification for vessels;
-    (B) truck-stop electrification;
-    (C) electric truck refrigeration units;
-    (D) battery-powered auxiliary power units for trucks;
-    (E) electric airport ground support equipment;
-    (F) electric material and cargo handling equipment;
-    (G) electric or dual-mode electric rail;
-    (H) any distribution upgrades needed to supply electricity to the project; and
-    (I) any ancillary infrastructure, including panel upgrades, battery chargers, in-situ transformers, and trenching.
-(b) 
-  (1) The Secretary shall establish a competitive program to provide grants on a cost-shared basis to State governments, local governments, metropolitan transportation authorities, air pollution control districts, private or nonprofit entities, or combinations of those governments, authorities, districts, and entities, to carry out one or more projects to encourage the use of plug-in electric drive vehicles or other emerging electric vehicle technologies, as determined by the Secretary.
-  (2) The Secretary shall, in consultation with the Secretary of Transportation and the Administrator, establish requirements for applications for grants under this section, including reporting of data to be summarized for dissemination to grantees and the public, including safety, vehicle, and component performance, and vehicle and component life cycle costs.
-  (3) In making awards under this subsection, the Secretary shall—
-    (A) give priority consideration to applications that—
-      (i) encourage early widespread use of vehicles described in paragraph (1); and
-      (ii) are likely to make a significant contribution to the advancement of the production of the vehicles in the United States; and
-    (B) ensure, to the maximum extent practicable, that the program established under this subsection includes a variety of applications, manufacturers, and end-uses.
-  (4) The Secretary shall require a grant recipient under this subsection to submit to the Secretary, on an annual basis, data relating to safety, vehicle performance, life cycle costs, and emissions of vehicles demonstrated under the grant, including emissions of greenhouse gases.
-  (5) Section 16352 of this title shall apply to a grant made under this subsection.
-  (6) There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not less than ⅓ of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
-(c) 
-  (1) Not later than 1 year after December 19, 2007 , the Secretary, in consultation with the Secretary of Transportation and the Administrator, shall establish a program to provide grants for the conduct of qualified electric transportation projects.
-  (2) In providing grants under this subsection, the Secretary shall give priority to large-scale projects and large-scale aggregators of projects.
-  (3) Section 16352 of this title shall apply to a grant made under this subsection.
-  (4) There is authorized to be appropriated to carry out this subsection $95,000,000 for each of fiscal years 2008 through 2013.
-(d) 
-  (1) The Secretary shall develop a nationwide electric drive transportation technology education program under which the Secretary shall provide—
-    (A) teaching materials to secondary schools and high schools; and
-    (B) assistance for programs relating to electric drive system and component engineering to institutions of higher education.
-  (2) The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the “Dr. Andrew Frank Plug-In Electric Vehicle Competition”.
-  (3) In carrying out the program established under paragraph (1), the Secretary shall provide financial assistance to institutions of higher education to create new, or support existing, degree programs to ensure the availability of trained electrical and mechanical engineers with the skills necessary for the advancement of—
-    (A) plug-in electric drive vehicles; and
-    (B) other forms of electric drive transportation technology vehicles.
-  (4) There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+- **(a)** In this section:
+  - **(1)** The term “Administrator” means the Administrator of the Environmental Protection Agency.
+  - **(2)** The term “battery” means an electrochemical energy storage system powered directly by electrical current.
+  - **(3)** The term “electric transportation technology” means—
+    - **(A)** technology used in vehicles that use an electric motor for all or part of the motive power of the vehicles, including battery electric, hybrid electric, plug-in hybrid electric, fuel cell, and plug-in fuel cell vehicles, or rail transportation; or
+    - **(B)** equipment relating to transportation or mobile sources of air pollution that use an electric motor to replace an internal combustion engine for all or part of the work of the equipment, including—
+      - **(i)** corded electric equipment linked to transportation or mobile sources of air pollution; and
+      - **(ii)** electrification technologies at airports, ports, truck stops, and material-handling facilities.
+  - **(4)** The term “nonroad vehicle” means a vehicle—
+    - **(A)** powered—
+      - **(i)** by a nonroad engine, as that term is defined in section 7550 of this title ; or
+      - **(ii)** fully or partially by an electric motor powered by a fuel cell, a battery, or an off-board source of electricity; and
+    - **(B)** that is not a motor vehicle or a vehicle used solely for competition.
+  - **(5)** The term “plug-in electric drive vehicle” means a vehicle that—
+    - **(A)** draws motive power from a battery with a capacity of at least 4 kilowatt-hours;
+    - **(B)** can be recharged from an external source of electricity for motive power; and
+    - **(C)** is a light-, medium-, or heavy-duty motor vehicle or nonroad vehicle (as those terms are defined in section 7550 of this title ).
+  - **(6)** The term “qualified electric transportation project” means an electric transportation technology project that would significantly reduce emissions of criteria pollutants, greenhouse gas emissions, and petroleum, including—
+    - **(A)** shipside or shoreside electrification for vessels;
+    - **(B)** truck-stop electrification;
+    - **(C)** electric truck refrigeration units;
+    - **(D)** battery-powered auxiliary power units for trucks;
+    - **(E)** electric airport ground support equipment;
+    - **(F)** electric material and cargo handling equipment;
+    - **(G)** electric or dual-mode electric rail;
+    - **(H)** any distribution upgrades needed to supply electricity to the project; and
+    - **(I)** any ancillary infrastructure, including panel upgrades, battery chargers, in-situ transformers, and trenching.
+- **(b)**
+  - **(1)** The Secretary shall establish a competitive program to provide grants on a cost-shared basis to State governments, local governments, metropolitan transportation authorities, air pollution control districts, private or nonprofit entities, or combinations of those governments, authorities, districts, and entities, to carry out one or more projects to encourage the use of plug-in electric drive vehicles or other emerging electric vehicle technologies, as determined by the Secretary.
+  - **(2)** The Secretary shall, in consultation with the Secretary of Transportation and the Administrator, establish requirements for applications for grants under this section, including reporting of data to be summarized for dissemination to grantees and the public, including safety, vehicle, and component performance, and vehicle and component life cycle costs.
+  - **(3)** In making awards under this subsection, the Secretary shall—
+    - **(A)** give priority consideration to applications that—
+      - **(i)** encourage early widespread use of vehicles described in paragraph (1); and
+      - **(ii)** are likely to make a significant contribution to the advancement of the production of the vehicles in the United States; and
+    - **(B)** ensure, to the maximum extent practicable, that the program established under this subsection includes a variety of applications, manufacturers, and end-uses.
+  - **(4)** The Secretary shall require a grant recipient under this subsection to submit to the Secretary, on an annual basis, data relating to safety, vehicle performance, life cycle costs, and emissions of vehicles demonstrated under the grant, including emissions of greenhouse gases.
+  - **(5)** Section 16352 of this title shall apply to a grant made under this subsection.
+  - **(6)** There is authorized to be appropriated to carry out this subsection $90,000,000 for each of fiscal years 2008 through 2012, of which not less than ⅓ of the total amount appropriated shall be available each fiscal year to make grants to local and municipal governments.
+- **(c)**
+  - **(1)** Not later than 1 year after December 19, 2007 , the Secretary, in consultation with the Secretary of Transportation and the Administrator, shall establish a program to provide grants for the conduct of qualified electric transportation projects.
+  - **(2)** In providing grants under this subsection, the Secretary shall give priority to large-scale projects and large-scale aggregators of projects.
+  - **(3)** Section 16352 of this title shall apply to a grant made under this subsection.
+  - **(4)** There is authorized to be appropriated to carry out this subsection $95,000,000 for each of fiscal years 2008 through 2013.
+- **(d)**
+  - **(1)** The Secretary shall develop a nationwide electric drive transportation technology education program under which the Secretary shall provide—
+    - **(A)** teaching materials to secondary schools and high schools; and
+    - **(B)** assistance for programs relating to electric drive system and component engineering to institutions of higher education.
+  - **(2)** The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the “Dr. Andrew Frank Plug-In Electric Vehicle Competition”.
+  - **(3)** In carrying out the program established under paragraph (1), the Secretary shall provide financial assistance to institutions of higher education to create new, or support existing, degree programs to ensure the availability of trained electrical and mechanical engineers with the skills necessary for the advancement of—
+    - **(A)** plug-in electric drive vehicles; and
+    - **(B)** other forms of electric drive transportation technology vehicles.
+  - **(4)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.

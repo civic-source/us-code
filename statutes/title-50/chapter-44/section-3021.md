@@ -5,31 +5,31 @@ usc_section: "3021"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3021"
-generated_at: "2026-03-29T00:33:18.160Z"
+generated_at: "2026-03-29T02:16:14.752Z"
 ---
 
 # § 3021. National Security Council
 
-(a) There is a council known as the National Security Council (in this section referred to as the “Council”).
-(b) Consistent with the direction of the President, the functions of the Council shall be to—
-  (1) advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the Armed Forces and the other departments and agencies of the United States Government to cooperate more effectively in matters involving the national security;
-  (2) assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President;
-  (3) make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security; and
-  (4) coordinate, without assuming operational authority, the United States Government response to malign foreign influence operations and campaigns.
-(c) 
-  (1) The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, the Director of the Office of Pandemic Preparedness and Response Policy and such other officers of the United States Government as the President may designate.
-  (2) The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
-(d) At meetings of the Council, the President shall preside or, in the absence of the President, a member of the Council designated by the President shall preside.
-(e) 
-  (1) The Council shall have a staff headed by a civilian executive secretary appointed by the President.
-  (2) Consistent with the direction of the President and subject to paragraph (3), the executive secretary may, subject to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, appoint and fix the compensation of such personnel as may be necessary to perform such duties as may be prescribed by the President in connection with performance of the functions of the Council.
-  (3) The professional staff for which this subsection provides shall not exceed 200 persons, including persons employed by, assigned to, detailed to, under contract to serve on, or otherwise serving or affiliated with the staff. The limitation in this paragraph does not apply to personnel serving substantially in support or administrative positions.
-(f) It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22 ), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
-(g) 
-  (1) The President shall designate an employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns.
-  (2) 
-    (A) Not less frequently than twice each year, the employee designated under this subsection, or the employee’s designee, shall provide to the congressional committees specified in subparagraph (B) a briefing on the responsibilities and activities of the employee designated under this subsection.
-    (B) The congressional committees specified in this subparagraph are the following:
-      (i) The Committees on Armed Services, Foreign Affairs, and Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives.
-      (ii) The Committees on Armed Services, Foreign Relations, and Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate.
-(h) In this section, the term “malign foreign influence operations and campaigns” means the coordinated, direct or indirect application of national diplomatic, informational, military, economic, business, corruption, educational, and other capabilities by hostile foreign powers to affect attitudes, behaviors, decisions, or outcomes within the United States.
+- **(a)** There is a council known as the National Security Council (in this section referred to as the “Council”).
+- **(b)** Consistent with the direction of the President, the functions of the Council shall be to—
+  - **(1)** advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the Armed Forces and the other departments and agencies of the United States Government to cooperate more effectively in matters involving the national security;
+  - **(2)** assess and appraise the objectives, commitments, and risks of the United States in relation to the actual and potential military power of the United States, and make recommendations thereon to the President;
+  - **(3)** make recommendations to the President concerning policies on matters of common interest to the departments and agencies of the United States Government concerned with the national security; and
+  - **(4)** coordinate, without assuming operational authority, the United States Government response to malign foreign influence operations and campaigns.
+- **(c)**
+  - **(1)** The Council consists of the President, the Vice President, the Secretary of State, the Secretary of Defense, the Secretary of Energy, the Secretary of the Treasury, the Director of the Office of Pandemic Preparedness and Response Policy and such other officers of the United States Government as the President may designate.
+  - **(2)** The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
+- **(d)** At meetings of the Council, the President shall preside or, in the absence of the President, a member of the Council designated by the President shall preside.
+- **(e)**
+  - **(1)** The Council shall have a staff headed by a civilian executive secretary appointed by the President.
+  - **(2)** Consistent with the direction of the President and subject to paragraph (3), the executive secretary may, subject to the civil service laws and chapter 51 and subchapter III of chapter 53 of title 5, appoint and fix the compensation of such personnel as may be necessary to perform such duties as may be prescribed by the President in connection with performance of the functions of the Council.
+  - **(3)** The professional staff for which this subsection provides shall not exceed 200 persons, including persons employed by, assigned to, detailed to, under contract to serve on, or otherwise serving or affiliated with the staff. The limitation in this paragraph does not apply to personnel serving substantially in support or administrative positions.
+- **(f)** It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22 ), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
+- **(g)**
+  - **(1)** The President shall designate an employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns.
+  - **(2)**
+    - **(A)** Not less frequently than twice each year, the employee designated under this subsection, or the employee’s designee, shall provide to the congressional committees specified in subparagraph (B) a briefing on the responsibilities and activities of the employee designated under this subsection.
+    - **(B)** The congressional committees specified in this subparagraph are the following:
+      - **(i)** The Committees on Armed Services, Foreign Affairs, and Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives.
+      - **(ii)** The Committees on Armed Services, Foreign Relations, and Homeland Security and Governmental Affairs, and the Select Committee on Intelligence of the Senate.
+- **(h)** In this section, the term “malign foreign influence operations and campaigns” means the coordinated, direct or indirect application of national diplomatic, informational, military, economic, business, corruption, educational, and other capabilities by hostile foreign powers to affect attitudes, behaviors, decisions, or outcomes within the United States.

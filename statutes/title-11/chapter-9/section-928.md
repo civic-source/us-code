@@ -5,10 +5,10 @@ usc_section: "928"
 chapter: 9
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 928"
-generated_at: "2026-03-29T00:28:59.964Z"
+generated_at: "2026-03-29T02:10:54.341Z"
 ---
 
 # § 928. Post petition effect of security interest
 
-(a) Notwithstanding section 552(a) of this title and subject to subsection (b) of this section, special revenues acquired by the debtor after the commencement of the case shall remain subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case.
-(b) Any such lien on special revenues, other than municipal betterment assessments, derived from a project or system shall be subject to the necessary operating expenses of such project or system, as the case may be.
+- **(a)** Notwithstanding section 552(a) of this title and subject to subsection (b) of this section, special revenues acquired by the debtor after the commencement of the case shall remain subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case.
+- **(b)** Any such lien on special revenues, other than municipal betterment assessments, derived from a project or system shall be subject to the necessary operating expenses of such project or system, as the case may be.

@@ -5,13 +5,13 @@ usc_section: "125"
 chapter: 4
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 125"
-generated_at: "2026-03-28T23:53:20.154Z"
+generated_at: "2026-03-29T02:09:55.012Z"
 ---
 
 # § 125. Nonseverability
 
 If a court of competent jurisdiction enters a final judgment on the merits that—
 
-  (1) is based on Federal law;
-  (2) is no longer subject to appeal; and
-  (3) substantially limits or impairs the essential elements of sections 116 through 126 of this title,
+  - **(1)** is based on Federal law;
+  - **(2)** is no longer subject to appeal; and
+  - **(3)** substantially limits or impairs the essential elements of sections 116 through 126 of this title,

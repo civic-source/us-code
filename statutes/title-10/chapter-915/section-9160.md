@@ -5,7 +5,7 @@ usc_section: "9160"
 chapter: 915
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9160"
-generated_at: "2026-03-29T00:20:53.255Z"
+generated_at: "2026-03-29T02:10:45.338Z"
 ---
 
 # [§ 9160. Repealed. Pub. L. 118–159, div. A, title V, § 509D(a) , Dec. 23, 2024 , 138 Stat. 1874 ]

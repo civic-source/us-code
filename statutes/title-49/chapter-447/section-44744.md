@@ -5,28 +5,28 @@ usc_section: "44744"
 chapter: 447
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44744"
-generated_at: "2026-03-29T00:33:13.898Z"
+generated_at: "2026-03-29T02:16:09.033Z"
 ---
 
 # § 44744. Flight crew alerting
 
-(a) Beginning on December 27, 2022 , the Administrator may not issue a type certificate for a transport category airplane unless such airplane incorporates a flight crew alerting system that, at a minimum—
-  (1) displays and differentiates among warnings, cautions, and advisories; and
-  (2) includes functions to assist the flight crew in prioritizing corrective actions and responding to systems failures.
-(b) The prohibition in subsection (a) shall not apply to any application for an original or amended type certificate that was submitted to the Administrator prior to December 27, 2020 .
-(c) 
-  (1) Beginning on the date that is 1 year after the date on which the Administrator issues a type certificate for the Boeing 737-10, the Administrator may not issue an original airworthiness certificate for any Boeing 737 MAX aircraft unless the Administrator finds that the type design for the aircraft includes safety enhancements that have been approved by the Administrator.
-  (2) Beginning on the date that is 3 years after the date on which the Administrator issues a type certificate for the Boeing 737-10, no person may operate a Boeing 737 MAX aircraft unless—
-    (A) the type design for the aircraft includes safety enhancements approved by the Administrator; and
-    (B) the aircraft was—
-      (i) produced in conformance with such type design; or
-      (ii) altered in accordance with such type design.
-(d) In this section:
-  (1) The term “Boeing 737 MAX aircraft” means any—
-    (A) Model 737 series aircraft designated as a 737-7, 737-8, 737-8200, 737-9, or 737-10; or
-    (B) other variant of a model described in subparagraph (A).
-  (2) The term “safety enhancement” means any design change to the flight crew alerting system approved by the Administrator for the Boeing 737-10, including—
-    (A) a—
-      (i) synthetic enhanced angle-of-attack system; and
-      (ii) means to shut off stall warning and overspeed alerts; or
-    (B) any design changes equivalent to subparagraph (A) determined appropriate by the Administrator.
+- **(a)** Beginning on December 27, 2022 , the Administrator may not issue a type certificate for a transport category airplane unless such airplane incorporates a flight crew alerting system that, at a minimum—
+  - **(1)** displays and differentiates among warnings, cautions, and advisories; and
+  - **(2)** includes functions to assist the flight crew in prioritizing corrective actions and responding to systems failures.
+- **(b)** The prohibition in subsection (a) shall not apply to any application for an original or amended type certificate that was submitted to the Administrator prior to December 27, 2020 .
+- **(c)**
+  - **(1)** Beginning on the date that is 1 year after the date on which the Administrator issues a type certificate for the Boeing 737-10, the Administrator may not issue an original airworthiness certificate for any Boeing 737 MAX aircraft unless the Administrator finds that the type design for the aircraft includes safety enhancements that have been approved by the Administrator.
+  - **(2)** Beginning on the date that is 3 years after the date on which the Administrator issues a type certificate for the Boeing 737-10, no person may operate a Boeing 737 MAX aircraft unless—
+    - **(A)** the type design for the aircraft includes safety enhancements approved by the Administrator; and
+    - **(B)** the aircraft was—
+      - **(i)** produced in conformance with such type design; or
+      - **(ii)** altered in accordance with such type design.
+- **(d)** In this section:
+  - **(1)** The term “Boeing 737 MAX aircraft” means any—
+    - **(A)** Model 737 series aircraft designated as a 737-7, 737-8, 737-8200, 737-9, or 737-10; or
+    - **(B)** other variant of a model described in subparagraph (A).
+  - **(2)** The term “safety enhancement” means any design change to the flight crew alerting system approved by the Administrator for the Boeing 737-10, including—
+    - **(A)** a—
+      - **(i)** synthetic enhanced angle-of-attack system; and
+      - **(ii)** means to shut off stall warning and overspeed alerts; or
+    - **(B)** any design changes equivalent to subparagraph (A) determined appropriate by the Administrator.

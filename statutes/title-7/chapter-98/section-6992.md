@@ -5,27 +5,27 @@ usc_section: "6992"
 chapter: 98
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 6992"
-generated_at: "2026-03-29T00:28:58.256Z"
+generated_at: "2026-03-29T02:10:17.103Z"
 ---
 
 # § 6992. National Appeals Division and Director
 
-(a) The Secretary shall establish and maintain an independent National Appeals Division within the Department to carry out this subchapter.
-(b) 
-  (1) The Division shall be headed by a Director, appointed by the Secretary from among persons who have substantial experience in practicing administrative law. In considering applicants for the position of Director, the Secretary shall consider persons currently employed outside Government as well as Government employees.
-  (2) The Director shall serve for a 6-year term of office, and shall be eligible for reappointment. The Director shall not be subject to removal during the term of office, except for cause established in accordance with law.
-  (3) The position of the Director may not be a position in the excepted service or filled by a noncareer appointee.
-(c) 
-  (1) 
-    (A) Except as provided in paragraph (2), the Director shall be free from the direction and control of any person other than the Secretary or the Deputy Secretary of Agriculture.
-    (B) The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary.
-    (C) The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
-  (2) The Assistant Secretary for Administration is authorized to investigate, enforce, and implement the provisions in law, Executive order, or regulations that relate in general to competitive and excepted service positions and employment within the Division, including the position of Director, and such authority may be further delegated to subordinate officials.
-(d) If an officer, employee, or committee of an agency determines that a decision is not appealable and a participant appeals the decision to the Director, the Director shall determine whether the decision is adverse to the individual participant and thus appealable or is a matter of general applicability and thus not subject to appeal. The determination of the Director as to whether a decision is appealable shall be administratively final.
-(e) 
-  (1) The Director shall recommend to the Secretary persons for appointment as hearing officers as are necessary for the conduct of hearings under section 6997 of this title . The Director shall appoint such other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter. Each position of the Division shall be filled by an individual who is not a political appointee.
-  (2) In this subsection, the term “political appointee” means an individual occupying—
-    (A) a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
-    (B) a noncareer position in the Senior Executive Service, as described under section 3132(a)(7) of that title;
-    (C) a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; or
-    (D) a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
+- **(a)** The Secretary shall establish and maintain an independent National Appeals Division within the Department to carry out this subchapter.
+- **(b)**
+  - **(1)** The Division shall be headed by a Director, appointed by the Secretary from among persons who have substantial experience in practicing administrative law. In considering applicants for the position of Director, the Secretary shall consider persons currently employed outside Government as well as Government employees.
+  - **(2)** The Director shall serve for a 6-year term of office, and shall be eligible for reappointment. The Director shall not be subject to removal during the term of office, except for cause established in accordance with law.
+  - **(3)** The position of the Director may not be a position in the excepted service or filled by a noncareer appointee.
+- **(c)**
+  - **(1)**
+    - **(A)** Except as provided in paragraph (2), the Director shall be free from the direction and control of any person other than the Secretary or the Deputy Secretary of Agriculture.
+    - **(B)** The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary.
+    - **(C)** The Secretary may not delegate to any other officer or employee of the Department, other than the Deputy Secretary of Agriculture or the Director, the authority of the Secretary with respect to the Division.
+  - **(2)** The Assistant Secretary for Administration is authorized to investigate, enforce, and implement the provisions in law, Executive order, or regulations that relate in general to competitive and excepted service positions and employment within the Division, including the position of Director, and such authority may be further delegated to subordinate officials.
+- **(d)** If an officer, employee, or committee of an agency determines that a decision is not appealable and a participant appeals the decision to the Director, the Director shall determine whether the decision is adverse to the individual participant and thus appealable or is a matter of general applicability and thus not subject to appeal. The determination of the Director as to whether a decision is appealable shall be administratively final.
+- **(e)**
+  - **(1)** The Director shall recommend to the Secretary persons for appointment as hearing officers as are necessary for the conduct of hearings under section 6997 of this title . The Director shall appoint such other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter. Each position of the Division shall be filled by an individual who is not a political appointee.
+  - **(2)** In this subsection, the term “political appointee” means an individual occupying—
+    - **(A)** a position described under sections 5312 through 5316 of title 5 (relating to the Executive Schedule);
+    - **(B)** a noncareer position in the Senior Executive Service, as described under section 3132(a)(7) of that title;
+    - **(C)** a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; or
+    - **(D)** a position which has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.

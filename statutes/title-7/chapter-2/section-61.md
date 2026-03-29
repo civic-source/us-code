@@ -5,7 +5,7 @@ usc_section: "61"
 chapter: 2
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 61"
-generated_at: "2026-03-29T00:28:57.858Z"
+generated_at: "2026-03-29T02:10:16.645Z"
 ---
 
 # § 61. General regulations, investigations, tests, etc., by Secretary

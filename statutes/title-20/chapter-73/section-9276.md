@@ -5,7 +5,7 @@ usc_section: "9276"
 chapter: 73
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9276"
-generated_at: "2026-03-29T00:07:03.200Z"
+generated_at: "2026-03-29T02:12:17.517Z"
 ---
 
 # §§ 9271 to 9276. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

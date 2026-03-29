@@ -5,19 +5,19 @@ usc_section: "1036"
 chapter: 47
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1036"
-generated_at: "2026-03-29T00:30:15.658Z"
+generated_at: "2026-03-29T02:12:02.405Z"
 ---
 
 # § 1036. Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport
 
-(a) Whoever, by any fraud or false pretense, enters or attempts to enter—
-  (1) any real property belonging in whole or in part to, or leased by, the United States;
-  (2) any vessel or aircraft belonging in whole or in part to, or leased by, the United States;
-  (3) any secure or restricted area of any seaport, designated as secure in an approved security plan, as required under section 70103 of title 46 , United States Code, and the rules and regulations promulgated under that section; or
-  (4) any secure area of any airport,
-(b) The punishment for an offense under subsection (a) of this section is—
-  (1) a fine under this title or imprisonment for not more than 10 years, or both, if the offense is committed with the intent to commit a felony; or
-  (2) a fine under this title or imprisonment for not more than 6 months, or both, in any other case.
-(c) As used in this section—
-  (1) the term “secure area” means an area access to which is restricted by the airport authority, captain of the seaport, or a public agency; and
-  (2) the term “airport” has the meaning given such term in section 47102 of title 49 .
+- **(a)** Whoever, by any fraud or false pretense, enters or attempts to enter—
+  - **(1)** any real property belonging in whole or in part to, or leased by, the United States;
+  - **(2)** any vessel or aircraft belonging in whole or in part to, or leased by, the United States;
+  - **(3)** any secure or restricted area of any seaport, designated as secure in an approved security plan, as required under section 70103 of title 46 , United States Code, and the rules and regulations promulgated under that section; or
+  - **(4)** any secure area of any airport,
+- **(b)** The punishment for an offense under subsection (a) of this section is—
+  - **(1)** a fine under this title or imprisonment for not more than 10 years, or both, if the offense is committed with the intent to commit a felony; or
+  - **(2)** a fine under this title or imprisonment for not more than 6 months, or both, in any other case.
+- **(c)** As used in this section—
+  - **(1)** the term “secure area” means an area access to which is restricted by the airport authority, captain of the seaport, or a public agency; and
+  - **(2)** the term “airport” has the meaning given such term in section 47102 of title 49 .

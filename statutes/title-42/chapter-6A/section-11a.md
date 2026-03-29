@@ -5,35 +5,35 @@ usc_section: "11a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11a"
-generated_at: "2026-03-29T00:32:52.946Z"
+generated_at: "2026-03-29T02:15:35.696Z"
 ---
 
 # § 285a–11a. Cancer survivorship programs
 
-(a) 
-  (1) The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall, as appropriate, make awards to eligible entities to conduct or support research to develop, study, or evaluate approaches for monitoring and caring for childhood and adolescent cancer survivors throughout their lifespan, including transition to adult care and care coordination.
-  (2) 
-    (A) In making awards under this subsection, the Secretary shall, to the extent practicable, within the existing peer review process, include—
-      (i) small, medium, and large-sized eligible entities; and
-      (ii) sites located in different geographic areas, including rural and urban areas.
-    (B) In this subsection, the term “eligible entity” means—
-      (i) a medical school;
-      (ii) a children’s hospital;
-      (iii) a cancer center;
-      (iv) a community-based medical facility; or
-      (v) any other entity with significant experience and expertise in carrying out the activities described in paragraph (1).
-  (3) Funds awarded under this subsection may be used—
-    (A) to develop, study, or evaluate one or more models for monitoring and caring for cancer survivors; and
-    (B) in developing, studying, and evaluating such models, to give special emphasis to—
-      (i) design of models of follow-up care, monitoring, and other survivorship programs (including peer support and mentoring programs);
-      (ii) development of models for providing multidisciplinary care;
-      (iii) dissemination of information to health care providers about culturally and linguistically appropriate follow-up care for cancer survivors and their families, as appropriate and practicable;
-      (iv) development of psychosocial and support programs to improve the quality of life of cancer survivors and their families, which may include peer support and mentoring programs;
-      (v) design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts (including risk factors and a plan for recommended follow-up care);
-      (vi) dissemination of the information and programs described in clauses (i) through (v) to other health care providers (including primary care physicians and internists) and to cancer survivors and their families, where appropriate and in accordance with Federal and State law; and
-      (vii) development of initiatives that promote the coordination and effective transition of care between cancer care providers, primary care physicians, mental health professionals, and other health care professionals, as appropriate, including models that use a team-based or multi-disciplinary approach to care.
-(b) 
-  (1) The Secretary shall, not later than 1 year after January 5, 2023 , conduct a review of the activities of the Department of Health and Human Services related to workforce development for health care providers who treat pediatric cancer patients and survivors. Such review shall include—
-    (A) identification of existing models relevant to providing medical and psychosocial services to individuals surviving pediatric cancers, and programs related to training for health professionals who provide such services to individuals surviving pediatric cancers; and
-    (B) recommendations for enhancing or promoting activities of the Department of Health and Human Services related to workforce development for health care providers who provide psychosocial care to pediatric cancer patients and survivors.
-  (2) Not later than 2 years after January 5, 2023 , the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives, a report concerning the findings and recommendations from the review conducted under paragraph (1).
+- **(a)**
+  - **(1)** The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall, as appropriate, make awards to eligible entities to conduct or support research to develop, study, or evaluate approaches for monitoring and caring for childhood and adolescent cancer survivors throughout their lifespan, including transition to adult care and care coordination.
+  - **(2)**
+    - **(A)** In making awards under this subsection, the Secretary shall, to the extent practicable, within the existing peer review process, include—
+      - **(i)** small, medium, and large-sized eligible entities; and
+      - **(ii)** sites located in different geographic areas, including rural and urban areas.
+    - **(B)** In this subsection, the term “eligible entity” means—
+      - **(i)** a medical school;
+      - **(ii)** a children’s hospital;
+      - **(iii)** a cancer center;
+      - **(iv)** a community-based medical facility; or
+      - **(v)** any other entity with significant experience and expertise in carrying out the activities described in paragraph (1).
+  - **(3)** Funds awarded under this subsection may be used—
+    - **(A)** to develop, study, or evaluate one or more models for monitoring and caring for cancer survivors; and
+    - **(B)** in developing, studying, and evaluating such models, to give special emphasis to—
+      - **(i)** design of models of follow-up care, monitoring, and other survivorship programs (including peer support and mentoring programs);
+      - **(ii)** development of models for providing multidisciplinary care;
+      - **(iii)** dissemination of information to health care providers about culturally and linguistically appropriate follow-up care for cancer survivors and their families, as appropriate and practicable;
+      - **(iv)** development of psychosocial and support programs to improve the quality of life of cancer survivors and their families, which may include peer support and mentoring programs;
+      - **(v)** design tools to support the secure electronic transfer of treatment information and care summaries between health care providers or, as applicable and appropriate, longitudinal childhood cancer survivorship cohorts (including risk factors and a plan for recommended follow-up care);
+      - **(vi)** dissemination of the information and programs described in clauses (i) through (v) to other health care providers (including primary care physicians and internists) and to cancer survivors and their families, where appropriate and in accordance with Federal and State law; and
+      - **(vii)** development of initiatives that promote the coordination and effective transition of care between cancer care providers, primary care physicians, mental health professionals, and other health care professionals, as appropriate, including models that use a team-based or multi-disciplinary approach to care.
+- **(b)**
+  - **(1)** The Secretary shall, not later than 1 year after January 5, 2023 , conduct a review of the activities of the Department of Health and Human Services related to workforce development for health care providers who treat pediatric cancer patients and survivors. Such review shall include—
+    - **(A)** identification of existing models relevant to providing medical and psychosocial services to individuals surviving pediatric cancers, and programs related to training for health professionals who provide such services to individuals surviving pediatric cancers; and
+    - **(B)** recommendations for enhancing or promoting activities of the Department of Health and Human Services related to workforce development for health care providers who provide psychosocial care to pediatric cancer patients and survivors.
+  - **(2)** Not later than 2 years after January 5, 2023 , the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives, a report concerning the findings and recommendations from the review conducted under paragraph (1).

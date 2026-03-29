@@ -5,25 +5,25 @@ usc_section: "17113b"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17113b"
-generated_at: "2026-03-29T00:32:54.427Z"
+generated_at: "2026-03-29T02:15:37.388Z"
 ---
 
 # § 17113b. Advanced industrial facilities deployment program
 
-(a) In addition to amounts otherwise available, there is appropriated to the Secretary, acting through the Office of Clean Energy Demonstrations, for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $5,812,000,000, to remain available through September 30, 2026 , to carry out this section.
-(b) The Secretary shall use funds appropriated by subsection (a) to provide financial assistance, on a competitive basis, to eligible entities to carry out projects for—
-  (1) the purchase and installation, or implementation, of advanced industrial technology at an eligible facility;
-  (2) retrofits, upgrades to, or operational improvements at an eligible facility to install or implement advanced industrial technology; or
-  (3) engineering studies and other work needed to prepare an eligible facility for activities described in paragraph (1) or (2).
-(c) To be eligible to receive financial assistance under subsection (b), an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including the expected greenhouse gas emissions reductions to be achieved by carrying out the project.
-(d) In providing financial assistance under subsection (b), the Secretary shall give priority consideration to projects on the basis of, as determined by the Secretary—
-  (1) the expected greenhouse gas emissions reductions to be achieved by carrying out the project;
-  (2) the extent to which the project would provide the greatest benefit for the greatest number of people within the area in which the eligible facility is located; and
-  (3) whether the eligible entity participates or would participate in a partnership with purchasers of the output of the eligible facility.
-(e) The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to this section.
-(f) The Secretary shall reserve not more than $300,000,000 of amounts made available under subsection (a) for administrative costs of carrying out this section.
-(g) In this section:
-  (1) The term “advanced industrial technology” means a technology directly involved in an industrial process, as described in any of paragraphs (1) through (6) of section 17113(c) of this title , and designed to accelerate greenhouse gas emissions reduction progress to net-zero at an eligible facility, as determined by the Secretary.
-  (2) The term “eligible entity” means the owner or operator of an eligible facility.
-  (3) The term “eligible facility” means a domestic, non-Federal, nonpower industrial or manufacturing facility engaged in energy-intensive industrial processes, including production processes for iron, steel, steel mill products, aluminum, cement, concrete, glass, pulp, paper, industrial ceramics, chemicals, and other energy intensive industrial processes, as determined by the Secretary.
-  (4) The term “financial assistance” means a grant, rebate, direct loan, or cooperative agreement.
+- **(a)** In addition to amounts otherwise available, there is appropriated to the Secretary, acting through the Office of Clean Energy Demonstrations, for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $5,812,000,000, to remain available through September 30, 2026 , to carry out this section.
+- **(b)** The Secretary shall use funds appropriated by subsection (a) to provide financial assistance, on a competitive basis, to eligible entities to carry out projects for—
+  - **(1)** the purchase and installation, or implementation, of advanced industrial technology at an eligible facility;
+  - **(2)** retrofits, upgrades to, or operational improvements at an eligible facility to install or implement advanced industrial technology; or
+  - **(3)** engineering studies and other work needed to prepare an eligible facility for activities described in paragraph (1) or (2).
+- **(c)** To be eligible to receive financial assistance under subsection (b), an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including the expected greenhouse gas emissions reductions to be achieved by carrying out the project.
+- **(d)** In providing financial assistance under subsection (b), the Secretary shall give priority consideration to projects on the basis of, as determined by the Secretary—
+  - **(1)** the expected greenhouse gas emissions reductions to be achieved by carrying out the project;
+  - **(2)** the extent to which the project would provide the greatest benefit for the greatest number of people within the area in which the eligible facility is located; and
+  - **(3)** whether the eligible entity participates or would participate in a partnership with purchasers of the output of the eligible facility.
+- **(e)** The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to this section.
+- **(f)** The Secretary shall reserve not more than $300,000,000 of amounts made available under subsection (a) for administrative costs of carrying out this section.
+- **(g)** In this section:
+  - **(1)** The term “advanced industrial technology” means a technology directly involved in an industrial process, as described in any of paragraphs (1) through (6) of section 17113(c) of this title , and designed to accelerate greenhouse gas emissions reduction progress to net-zero at an eligible facility, as determined by the Secretary.
+  - **(2)** The term “eligible entity” means the owner or operator of an eligible facility.
+  - **(3)** The term “eligible facility” means a domestic, non-Federal, nonpower industrial or manufacturing facility engaged in energy-intensive industrial processes, including production processes for iron, steel, steel mill products, aluminum, cement, concrete, glass, pulp, paper, industrial ceramics, chemicals, and other energy intensive industrial processes, as determined by the Secretary.
+  - **(4)** The term “financial assistance” means a grant, rebate, direct loan, or cooperative agreement.

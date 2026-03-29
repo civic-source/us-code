@@ -5,10 +5,10 @@ usc_section: "3145"
 chapter: 31
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 3145"
-generated_at: "2026-03-29T00:32:20.548Z"
+generated_at: "2026-03-29T02:14:58.789Z"
 ---
 
 # § 3145. Regulations governing contractors and subcontractors
 
-(a) The Secretary of Labor shall prescribe reasonable regulations for contractors and subcontractors engaged in constructing, carrying out, completing, or repairing public buildings, public works, or buildings or works that at least partly are financed by a loan or grant from the Federal Government. The regulations shall include a provision that each contractor and subcontractor each week must furnish a statement on the wages paid each employee during the prior week.
-(b) Section 1001 of title 18 applies to the statements.
+- **(a)** The Secretary of Labor shall prescribe reasonable regulations for contractors and subcontractors engaged in constructing, carrying out, completing, or repairing public buildings, public works, or buildings or works that at least partly are financed by a loan or grant from the Federal Government. The regulations shall include a provision that each contractor and subcontractor each week must furnish a statement on the wages paid each employee during the prior week.
+- **(b)** Section 1001 of title 18 applies to the statements.

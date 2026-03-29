@@ -5,7 +5,7 @@ usc_section: "189"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 189"
-generated_at: "2026-03-29T00:31:20.667Z"
+generated_at: "2026-03-29T02:14:00.855Z"
 ---
 
 # [§ 189. Repealed. Pub. L. 99–514, title VIII, § 803(b)(1) , Oct. 22, 1986 , 100 Stat. 2355 ]

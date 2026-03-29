@@ -5,18 +5,18 @@ usc_section: "5009"
 chapter: 50
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5009"
-generated_at: "2026-03-29T00:29:16.869Z"
+generated_at: "2026-03-29T02:11:21.237Z"
 ---
 
 # § 5009. Measure of damages
 
-(a) 
-  (1) Except as provided in section 5005 of this title , any person who, in connection with a substitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
-    (A) the lesser of—
-      (i) the amount of the loss suffered by the other person as a result of the breach or failure; or
-      (ii) the amount of the substitute check; and
-    (B) interest and expenses (including costs and reasonable attorney’s fees and other expenses of representation) related to the substitute check.
-  (2) The amount of damages any person receives under paragraph (1), if any, shall be reduced by the amount, if any, that the claimant receives and retains as a recredit under section 5006 or 5007 of this title.
-(b) 
-  (1) If a person incurs damages that resulted in whole or in part from the negligence or failure of that person to act in good faith, then the amount of any liability due to that person under subsection (a) shall be reduced in proportion to the amount of negligence or bad faith attributable to that person.
-  (2) Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
+- **(a)**
+  - **(1)** Except as provided in section 5005 of this title , any person who, in connection with a substitute check, breaches any warranty under this chapter or fails to comply with any requirement imposed by, or regulation prescribed pursuant to, this chapter with respect to any other person shall be liable to such person in an amount equal to the sum of—
+    - **(A)** the lesser of—
+      - **(i)** the amount of the loss suffered by the other person as a result of the breach or failure; or
+      - **(ii)** the amount of the substitute check; and
+    - **(B)** interest and expenses (including costs and reasonable attorney’s fees and other expenses of representation) related to the substitute check.
+  - **(2)** The amount of damages any person receives under paragraph (1), if any, shall be reduced by the amount, if any, that the claimant receives and retains as a recredit under section 5006 or 5007 of this title.
+- **(b)**
+  - **(1)** If a person incurs damages that resulted in whole or in part from the negligence or failure of that person to act in good faith, then the amount of any liability due to that person under subsection (a) shall be reduced in proportion to the amount of negligence or bad faith attributable to that person.
+  - **(2)** Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.

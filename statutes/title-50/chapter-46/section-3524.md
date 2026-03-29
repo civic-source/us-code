@@ -5,14 +5,14 @@ usc_section: "3524"
 chapter: 46
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3524"
-generated_at: "2026-03-29T00:33:18.218Z"
+generated_at: "2026-03-29T02:16:14.809Z"
 ---
 
 # § 3524. Support for the Associate Director of the Central Intelligence Agency for Military Affairs
 
-(a) The Associate Director of the Central Intelligence Agency for Military Affairs shall be selected by the Secretary of Defense, with the concurrence of the Director of the Central Intelligence Agency, from among commissioned officers of the Armed Forces who are general or flag officers.
-(b) 
-  (1) In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence 1 1 See Change of Name note below. shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
-    (A) To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
-    (B) To prioritize, communicate, and coordinate Department of Defense requests for, and the provision of support to, the Department of Defense from the Central Intelligence Agency, including support requested by and provided to the commanders of the combatant commands and subordinate task forces and commands.
-  (2) The Under Secretary shall develop and supervise the implementation of policies to integrate and communicate Department of Defense requirements and requests for support from the Central Intelligence Agency that are coordinated by the Associate Director pursuant to paragraph (1)(B).
+- **(a)** The Associate Director of the Central Intelligence Agency for Military Affairs shall be selected by the Secretary of Defense, with the concurrence of the Director of the Central Intelligence Agency, from among commissioned officers of the Armed Forces who are general or flag officers.
+- **(b)**
+  - **(1)** In order to improve the provision of support to, and the receipt of support from, the Central Intelligence Agency, and to improve deconfliction of the activities of the Central Intelligence Agency and the Department of Defense, the Secretary of Defense and the Under Secretary of Defense for Intelligence 1 1 See Change of Name note below. shall ensure that the Associate Director of the Central Intelligence Agency for Military Affairs has access to, and support from, offices, agencies, and programs of the Department necessary for the purposes of the Associate Director as follows:
+    - **(A)** To facilitate and coordinate Department of Defense support for the Central Intelligence Agency requested by the Director of the Central Intelligence Agency and approved by the Secretary, including oversight of Department of Defense military and civilian personnel detailed or assigned to the Central Intelligence Agency.
+    - **(B)** To prioritize, communicate, and coordinate Department of Defense requests for, and the provision of support to, the Department of Defense from the Central Intelligence Agency, including support requested by and provided to the commanders of the combatant commands and subordinate task forces and commands.
+  - **(2)** The Under Secretary shall develop and supervise the implementation of policies to integrate and communicate Department of Defense requirements and requests for support from the Central Intelligence Agency that are coordinated by the Associate Director pursuant to paragraph (1)(B).

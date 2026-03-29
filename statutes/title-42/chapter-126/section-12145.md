@@ -5,17 +5,17 @@ usc_section: "12145"
 chapter: 126
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12145"
-generated_at: "2026-03-29T00:32:54.248Z"
+generated_at: "2026-03-29T02:15:37.180Z"
 ---
 
 # § 12145. Temporary relief where lifts are unavailable
 
-(a) With respect to the purchase of new buses, a public entity may apply for, and the Secretary may temporarily relieve such public entity from the obligation under section 12142(a) or 12144 of this title to purchase new buses that are readily accessible to and usable by individuals with disabilities if such public entity demonstrates to the satisfaction of the Secretary—
-  (1) that the initial solicitation for new buses made by the public entity specified that all new buses were to be lift-equipped and were to be otherwise accessible to and usable by individuals with disabilities;
-  (2) the unavailability from any qualified manufacturer of hydraulic, electromechanical, or other lifts for such new buses;
-  (3) that the public entity seeking temporary relief has made good faith efforts to locate a qualified manufacturer to supply the lifts to the manufacturer of such buses in sufficient time to comply with such solicitation; and
-  (4) that any further delay in purchasing new buses necessary to obtain such lifts would significantly impair transportation services in the community served by the public entity.
-(b) Any relief granted under subsection (a) shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
-(c) If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) was fraudulently applied for, the Secretary shall—
-  (1) cancel such relief if such relief is still in effect; and
-  (2) take such other action as the Secretary considers appropriate.
+- **(a)** With respect to the purchase of new buses, a public entity may apply for, and the Secretary may temporarily relieve such public entity from the obligation under section 12142(a) or 12144 of this title to purchase new buses that are readily accessible to and usable by individuals with disabilities if such public entity demonstrates to the satisfaction of the Secretary—
+  - **(1)** that the initial solicitation for new buses made by the public entity specified that all new buses were to be lift-equipped and were to be otherwise accessible to and usable by individuals with disabilities;
+  - **(2)** the unavailability from any qualified manufacturer of hydraulic, electromechanical, or other lifts for such new buses;
+  - **(3)** that the public entity seeking temporary relief has made good faith efforts to locate a qualified manufacturer to supply the lifts to the manufacturer of such buses in sufficient time to comply with such solicitation; and
+  - **(4)** that any further delay in purchasing new buses necessary to obtain such lifts would significantly impair transportation services in the community served by the public entity.
+- **(b)** Any relief granted under subsection (a) shall be limited in duration by a specified date, and the appropriate committees of Congress shall be notified of any such relief granted.
+- **(c)** If, at any time, the Secretary has reasonable cause to believe that any relief granted under subsection (a) was fraudulently applied for, the Secretary shall—
+  - **(1)** cancel such relief if such relief is still in effect; and
+  - **(2)** take such other action as the Secretary considers appropriate.

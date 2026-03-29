@@ -5,7 +5,7 @@ usc_section: "7144a"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7144a"
-generated_at: "2026-03-29T00:32:54.016Z"
+generated_at: "2026-03-29T02:15:36.880Z"
 ---
 
 # § 7144a. Establishment of security, counterintelligence, and intelligence policies

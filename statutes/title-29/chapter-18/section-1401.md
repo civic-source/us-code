@@ -5,52 +5,52 @@ usc_section: "1401"
 chapter: 18
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1401"
-generated_at: "2026-03-29T00:31:27.684Z"
+generated_at: "2026-03-29T02:14:09.475Z"
 ---
 
 # § 1401. Resolution of disputes
 
-(a) 
-  (1) Any dispute between an employer and the plan sponsor of a multiemployer plan concerning a determination made under sections 1381 through 1399 of this title shall be resolved through arbitration. Either party may initiate the arbitration proceeding within a 60-day period after the earlier of—
-    (A) the date of notification to the employer under section 1399(b)(2)(B) of this title , or
-    (B) 120 days after the date of the employer’s request under section 1399(b)(2)(A) of this title .
-  (2) An arbitration proceeding under this section shall be conducted in accordance with fair and equitable procedures to be promulgated by the corporation. The plan sponsor may purchase insurance to cover potential liability of the arbitrator. If the parties have not provided for the costs of the arbitration, including arbitrator’s fees, by agreement, the arbitrator shall assess such fees. The arbitrator may also award reasonable attorney’s fees.
-  (3) 
-    (A) For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of this title and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
-    (B) In the case of the determination of a plan’s unfunded vested benefits for a plan year, the determination is presumed correct unless a party contesting the determination shows by a preponderance of evidence that—
-      (i) the actuarial assumptions and methods used in the determination were, in the aggregate, unreasonable (taking into account the experience of the plan and reasonable expectations), or
-      (ii) the plan’s actuary made a significant error in applying the actuarial assumptions or methods.
-(b) 
-  (1) If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
-  (2) Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator’s award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator’s award.
-  (3) Any arbitration proceedings under this section shall, to the extent consistent with this subchapter, be conducted in the same manner, subject to the same limitations, carried out with the same powers (including subpena power), and enforced in United States courts as an arbitration proceeding carried out under title 9.
-(c) In any proceeding under subsection (b), there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
-(d) Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title ).
-(e) 
-  (1) If—
-    (A) a plan sponsor of a plan determines that—
-      (i) a complete or partial withdrawal of an employer has occurred, or
-      (ii) an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,
-    (B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999 , was to evade or avoid withdrawal liability under this subtitle, and
-    (C) such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
-  (2) 
-    (A) Notwithstanding subsection (a)(3)—
-      (i) a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
-      (ii) the plan sponsor shall have the burden to establish, by a preponderance of the evidence, the elements of the claim under section 1392(c) of this title that a principal purpose of the transaction was to evade or avoid withdrawal liability under this subtitle.
-    (B) Notwithstanding subsection (d) and section 1399(c) of this title , if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
-(f) 
-  (1) If—
-    (A) a plan sponsor of a plan determines that—
-      (i) a complete or partial withdrawal of an employer has occurred, or
-      (ii) an employer is liable for withdrawal liability payments with respect to such complete or partial withdrawal, and
-    (B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurred after December 31, 1998 , and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
-  (2) Notwithstanding subsection (d) and section 1399(c) of this title , if an electing person contests the plan sponsor’s determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination, but only if the electing person—
-    (A) provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title ; and
-    (B) if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title , or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor’s determination.
-  (3) For purposes of this subsection—
-    (A) The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
-      (i) employs not more than 500 employees, and
-      (ii) is required to make contributions to the plan for not more than 250 employees.
-    (B) Any group treated as a single employer under subsection (b)(1) of section 1301 of this title , without regard to any transaction that was a basis for the plan’s finding under section 1392 of this title , shall be treated as a single employer for purposes of this subparagraph.
-  (4) If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
-  (5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
+- **(a)**
+  - **(1)** Any dispute between an employer and the plan sponsor of a multiemployer plan concerning a determination made under sections 1381 through 1399 of this title shall be resolved through arbitration. Either party may initiate the arbitration proceeding within a 60-day period after the earlier of—
+    - **(A)** the date of notification to the employer under section 1399(b)(2)(B) of this title , or
+    - **(B)** 120 days after the date of the employer’s request under section 1399(b)(2)(A) of this title .
+  - **(2)** An arbitration proceeding under this section shall be conducted in accordance with fair and equitable procedures to be promulgated by the corporation. The plan sponsor may purchase insurance to cover potential liability of the arbitrator. If the parties have not provided for the costs of the arbitration, including arbitrator’s fees, by agreement, the arbitrator shall assess such fees. The arbitrator may also award reasonable attorney’s fees.
+  - **(3)**
+    - **(A)** For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of this title and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
+    - **(B)** In the case of the determination of a plan’s unfunded vested benefits for a plan year, the determination is presumed correct unless a party contesting the determination shows by a preponderance of evidence that—
+      - **(i)** the actuarial assumptions and methods used in the determination were, in the aggregate, unreasonable (taking into account the experience of the plan and reasonable expectations), or
+      - **(ii)** the plan’s actuary made a significant error in applying the actuarial assumptions or methods.
+- **(b)**
+  - **(1)** If no arbitration proceeding has been initiated pursuant to subsection (a), the amounts demanded by the plan sponsor under section 1399(b)(1) of this title shall be due and owing on the schedule set forth by the plan sponsor. The plan sponsor may bring an action in a State or Federal court of competent jurisdiction for collection.
+  - **(2)** Upon completion of the arbitration proceedings in favor of one of the parties, any party thereto may bring an action, no later than 30 days after the issuance of an arbitrator’s award, in an appropriate United States district court in accordance with section 1451 of this title to enforce, vacate, or modify the arbitrator’s award.
+  - **(3)** Any arbitration proceedings under this section shall, to the extent consistent with this subchapter, be conducted in the same manner, subject to the same limitations, carried out with the same powers (including subpena power), and enforced in United States courts as an arbitration proceeding carried out under title 9.
+- **(c)** In any proceeding under subsection (b), there shall be a presumption, rebuttable only by a clear preponderance of the evidence, that the findings of fact made by the arbitrator were correct.
+- **(d)** Payments shall be made by an employer in accordance with the determinations made under this part until the arbitrator issues a final decision with respect to the determination submitted for arbitration, with any necessary adjustments in subsequent payments for overpayments or underpayments arising out of the decision of the arbitrator with respect to the determination. If the employer fails to make timely payment in accordance with such final decision, the employer shall be treated as being delinquent in the making of a contribution required under the plan (within the meaning of section 1145 of this title ).
+- **(e)**
+  - **(1)** If—
+    - **(A)** a plan sponsor of a plan determines that—
+      - **(i)** a complete or partial withdrawal of an employer has occurred, or
+      - **(ii)** an employer is liable for withdrawal liability payments with respect to the complete or partial withdrawal of an employer from the plan,
+    - **(B)** such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of a transaction that occurred before January 1, 1999 , was to evade or avoid withdrawal liability under this subtitle, and
+    - **(C)** such transaction occurred at least 5 years before the date of the complete or partial withdrawal,
+  - **(2)**
+    - **(A)** Notwithstanding subsection (a)(3)—
+      - **(i)** a determination by the plan sponsor under paragraph (1)(B) shall not be presumed to be correct, and
+      - **(ii)** the plan sponsor shall have the burden to establish, by a preponderance of the evidence, the elements of the claim under section 1392(c) of this title that a principal purpose of the transaction was to evade or avoid withdrawal liability under this subtitle.
+    - **(B)** Notwithstanding subsection (d) and section 1399(c) of this title , if an employer contests the plan sponsor’s determination under paragraph (1) through an arbitration proceeding pursuant to subsection (a), or through a claim brought in a court of competent jurisdiction, the employer shall not be obligated to make any withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination.
+- **(f)**
+  - **(1)** If—
+    - **(A)** a plan sponsor of a plan determines that—
+      - **(i)** a complete or partial withdrawal of an employer has occurred, or
+      - **(ii)** an employer is liable for withdrawal liability payments with respect to such complete or partial withdrawal, and
+    - **(B)** such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurred after December 31, 1998 , and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
+  - **(2)** Notwithstanding subsection (d) and section 1399(c) of this title , if an electing person contests the plan sponsor’s determination with respect to withdrawal liability payments under paragraph (1) through an arbitration proceeding pursuant to subsection (a), through an action brought in a court of competent jurisdiction for review of such an arbitration decision, or as otherwise permitted by law, the electing person shall not be obligated to make the withdrawal liability payments until a final decision in the arbitration proceeding, or in court, upholds the plan sponsor’s determination, but only if the electing person—
+    - **(A)** provides notice to the plan sponsor of its election to apply the special rule in this paragraph within 90 days after the plan sponsor notifies the electing person of its liability by reason of the application of section 1392(c) of this title ; and
+    - **(B)** if a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute has not been rendered within 12 months from the date of such notice, the electing person provides to the plan, effective as of the first day following the 12-month period, a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title , or an amount held in escrow by a bank or similar financial institution satisfactory to the plan, in an amount equal to the sum of the withdrawal liability payments that would otherwise be due under subsection (d) and section 1399(c) of this title for the 12-month period beginning with the first anniversary of such notice. Such bond or escrow shall remain in effect until there is a final decision in the arbitration proceeding, or in court, of the withdrawal liability dispute, at which time such bond or escrow shall be paid to the plan if such final decision upholds the plan sponsor’s determination.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “small employer” means any employer which, for the calendar year in which the transaction referred to in paragraph (1)(B) occurred and for each of the 3 preceding years, on average—
+      - **(i)** employs not more than 500 employees, and
+      - **(ii)** is required to make contributions to the plan for not more than 250 employees.
+    - **(B)** Any group treated as a single employer under subsection (b)(1) of section 1301 of this title , without regard to any transaction that was a basis for the plan’s finding under section 1392 of this title , shall be treated as a single employer for purposes of this subparagraph.
+  - **(4)** If a withdrawal liability dispute to which this subsection applies is not concluded by 12 months after the electing person posts the bond or escrow described in paragraph (2), the electing person shall, at the start of each succeeding 12-month period, provide an additional bond or amount held in escrow equal to the sum of the withdrawal liability payments that would otherwise be payable to the plan during that period.
+  - **(5)** The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.

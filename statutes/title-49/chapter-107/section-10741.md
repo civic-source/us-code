@@ -5,16 +5,16 @@ usc_section: "10741"
 chapter: 107
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 10741"
-generated_at: "2026-03-29T00:33:13.763Z"
+generated_at: "2026-03-29T02:16:08.904Z"
 ---
 
 # § 10741. Prohibitions against discrimination by rail carriers
 
-(a) 
-  (1) A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part may not subject a person, place, port, or type of traffic to unreasonable discrimination.
-  (2) For purposes of this section, a rail carrier engages in unreasonable discrimination when it charges or receives from a person a different compensation for a service rendered, or to be rendered, in transportation the rail carrier may perform under this part than it charges or receives from another person for performing a like and contemporaneous service in the transportation of a like kind of traffic under substantially similar circumstances.
-(b) This section shall not apply to—
-  (1) contracts described in section 10709 of this title ;
-  (2) rail rates applicable to different routes; or
-  (3) discrimination against the traffic of another carrier providing transportation by any mode.
-(c) Differences between rates, classifications, rules, and practices of rail carriers do not constitute a violation of this section if such differences result from different services provided by rail carriers.
+- **(a)**
+  - **(1)** A rail carrier providing transportation or service subject to the jurisdiction of the Board under this part may not subject a person, place, port, or type of traffic to unreasonable discrimination.
+  - **(2)** For purposes of this section, a rail carrier engages in unreasonable discrimination when it charges or receives from a person a different compensation for a service rendered, or to be rendered, in transportation the rail carrier may perform under this part than it charges or receives from another person for performing a like and contemporaneous service in the transportation of a like kind of traffic under substantially similar circumstances.
+- **(b)** This section shall not apply to—
+  - **(1)** contracts described in section 10709 of this title ;
+  - **(2)** rail rates applicable to different routes; or
+  - **(3)** discrimination against the traffic of another carrier providing transportation by any mode.
+- **(c)** Differences between rates, classifications, rules, and practices of rail carriers do not constitute a violation of this section if such differences result from different services provided by rail carriers.

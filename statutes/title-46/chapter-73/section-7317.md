@@ -5,10 +5,10 @@ usc_section: "7317"
 chapter: 73
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 7317"
-generated_at: "2026-03-29T00:33:02.868Z"
+generated_at: "2026-03-29T02:15:53.723Z"
 ---
 
 # § 7317. Tankermen
 
-(a) The Secretary shall prescribe procedures, standards, and qualifications for the issuance of certificates or endorsements as tankerman, stating the types of oil or hazardous material that can be handled with safety to the vessel and the marine environment.
-(b) An endorsement as tankerman shall indicate the grades or types of cargo the holder is qualified and authorized to handle with safety on board vessels.
+- **(a)** The Secretary shall prescribe procedures, standards, and qualifications for the issuance of certificates or endorsements as tankerman, stating the types of oil or hazardous material that can be handled with safety to the vessel and the marine environment.
+- **(b)** An endorsement as tankerman shall indicate the grades or types of cargo the holder is qualified and authorized to handle with safety on board vessels.

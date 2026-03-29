@@ -5,7 +5,7 @@ usc_section: "165a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 165a"
-generated_at: "2026-03-29T00:30:34.802Z"
+generated_at: "2026-03-29T02:13:07.072Z"
 ---
 
 # § 165a. Omitted

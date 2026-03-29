@@ -5,7 +5,7 @@ usc_section: "1430a"
 chapter: 11
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1430a"
-generated_at: "2026-03-29T00:29:16.532Z"
+generated_at: "2026-03-29T02:11:20.887Z"
 ---
 
 # § 1430a. Omitted

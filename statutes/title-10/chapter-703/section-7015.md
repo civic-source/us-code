@@ -5,10 +5,10 @@ usc_section: "7015"
 chapter: 703
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7015"
-generated_at: "2026-03-29T00:20:53.190Z"
+generated_at: "2026-03-29T02:10:45.269Z"
 ---
 
 # § 7015. Under Secretary of the Army
 
-(a) There is an Under Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.
-(b) The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Army may prescribe.
+- **(a)** There is an Under Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.
+- **(b)** The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Army may prescribe.

@@ -5,19 +5,19 @@ usc_section: "7625"
 chapter: 85
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7625"
-generated_at: "2026-03-29T00:32:54.081Z"
+generated_at: "2026-03-29T02:15:36.969Z"
 ---
 
 # § 7625. Vapor recovery for small business marketers of petroleum products
 
-(a) The regulations under this chapter applicable to vapor recovery from fueling of motor vehicles at retail outlets of gasoline shall not apply to any outlet owned by an independent small business marketer of gasoline having monthly sales of less than 50,000 gallons. In the case of any other outlet owned by an independent small business marketer, such regulations shall provide, with respect to independent small business marketers of gasoline, for a three-year phase-in period for the installation of such vapor recovery equipment at such outlets under which such marketers shall have—
-  (1) 33 percent of such outlets in compliance at the end of the first year during which such regulations apply to such marketers,
-  (2) 66 percent at the end of such second year, and
-  (3) 100 percent at the end of the third year.
-(b) Nothing in subsection (a) shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
-(c) For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 1 1 See References in Text note below. of this title or under regulations of the Administrator, unless such person—
-  (1) 
-    (A) is a refiner, or 2 2 So in original. The word “or” probably should appear at the end of subpar. (B).
-    (B) controls, is controlled by, or is under common control with, a refiner,
-    (C) is otherwise directly or indirectly affiliated (as determined under the regulations of the Administrator) with a refiner or with a person who controls, is controlled by, or is under a common control with a refiner (unless the sole affiliation referred to herein is by means of a supply contract or an agreement or contract to use a trademark, trade name, service mark, or other identifying symbol or name owned by such refiner or any such person), or
-  (2) receives less than 50 percent of his annual income from refining or marketing of gasoline.
+- **(a)** The regulations under this chapter applicable to vapor recovery from fueling of motor vehicles at retail outlets of gasoline shall not apply to any outlet owned by an independent small business marketer of gasoline having monthly sales of less than 50,000 gallons. In the case of any other outlet owned by an independent small business marketer, such regulations shall provide, with respect to independent small business marketers of gasoline, for a three-year phase-in period for the installation of such vapor recovery equipment at such outlets under which such marketers shall have—
+  - **(1)** 33 percent of such outlets in compliance at the end of the first year during which such regulations apply to such marketers,
+  - **(2)** 66 percent at the end of such second year, and
+  - **(3)** 100 percent at the end of the third year.
+- **(b)** Nothing in subsection (a) shall be construed to prohibit any State from adopting or enforcing, with respect to independent small business marketers of gasoline having monthly sales of less than 50,000 gallons, any vapor recovery requirements for mobile source fuels at retail outlets. Any vapor recovery requirement which is adopted by a State and submitted to the Administrator as part of its implementation plan may be approved and enforced by the Administrator as part of the applicable implementation plan for that State.
+- **(c)** For purposes of this section, an independent small business marketer of gasoline is a person engaged in the marketing of gasoline who would be required to pay for procurement and installation of vapor recovery equipment under section 7624 1 1 See References in Text note below. of this title or under regulations of the Administrator, unless such person—
+  - **(1)**
+    - **(A)** is a refiner, or 2 2 So in original. The word “or” probably should appear at the end of subpar. (B).
+    - **(B)** controls, is controlled by, or is under common control with, a refiner,
+    - **(C)** is otherwise directly or indirectly affiliated (as determined under the regulations of the Administrator) with a refiner or with a person who controls, is controlled by, or is under a common control with a refiner (unless the sole affiliation referred to herein is by means of a supply contract or an agreement or contract to use a trademark, trade name, service mark, or other identifying symbol or name owned by such refiner or any such person), or
+  - **(2)** receives less than 50 percent of his annual income from refining or marketing of gasoline.

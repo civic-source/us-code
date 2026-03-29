@@ -5,13 +5,13 @@ usc_section: "4401"
 chapter: 35
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4401"
-generated_at: "2026-03-29T00:31:20.949Z"
+generated_at: "2026-03-29T02:14:01.213Z"
 ---
 
 # § 4401. Imposition of tax
 
-(a) 
-  (1) There shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager.
-  (2) There shall be imposed on any wager not described in paragraph (1) an excise tax equal to 2 percent of the amount of such wager.
-(b) In determining the amount of any wager for the purposes of this subchapter, all charges incident to the placing of such wager shall be included; except that if the taxpayer establishes, in accordance with regulations prescribed by the Secretary, that an amount equal to the tax imposed by this subchapter has been collected as a separate charge from the person placing such wager, the amount so collected shall be excluded.
-(c) Each person who is engaged in the business of accepting wagers shall be liable for and shall pay the tax under this subchapter on all wagers placed with him. Each person who conducts any wagering pool or lottery shall be liable for and shall pay the tax under this subchapter on all wagers placed in such pool or lottery. Any person required to register under section 4412 who receives wagers for or on behalf of another person without having registered under section 4412 the name and place of residence of such other person shall be liable for and shall pay the tax under this subchapter on all such wagers received by him.
+- **(a)**
+  - **(1)** There shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager.
+  - **(2)** There shall be imposed on any wager not described in paragraph (1) an excise tax equal to 2 percent of the amount of such wager.
+- **(b)** In determining the amount of any wager for the purposes of this subchapter, all charges incident to the placing of such wager shall be included; except that if the taxpayer establishes, in accordance with regulations prescribed by the Secretary, that an amount equal to the tax imposed by this subchapter has been collected as a separate charge from the person placing such wager, the amount so collected shall be excluded.
+- **(c)** Each person who is engaged in the business of accepting wagers shall be liable for and shall pay the tax under this subchapter on all wagers placed with him. Each person who conducts any wagering pool or lottery shall be liable for and shall pay the tax under this subchapter on all wagers placed in such pool or lottery. Any person required to register under section 4412 who receives wagers for or on behalf of another person without having registered under section 4412 the name and place of residence of such other person shall be liable for and shall pay the tax under this subchapter on all such wagers received by him.

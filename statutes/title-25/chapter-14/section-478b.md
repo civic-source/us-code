@@ -5,7 +5,7 @@ usc_section: "478b"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 478b"
-generated_at: "2026-03-29T00:30:38.651Z"
+generated_at: "2026-03-29T02:13:20.864Z"
 ---
 
 # § 478b. Transferred

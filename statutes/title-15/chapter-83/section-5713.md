@@ -5,10 +5,10 @@ usc_section: "5713"
 chapter: 83
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5713"
-generated_at: "2026-03-29T00:29:41.882Z"
+generated_at: "2026-03-29T02:11:34.386Z"
 ---
 
 # § 5713. Administration and applicability of subchapter
 
-(a) Except as otherwise provided in section 5712 of this title , this subchapter shall be enforced by the Commission under the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.). Consequently, no activity which is outside the jurisdiction of that Act shall be affected by this chapter, except for purposes of this subchapter.
-(b) The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
+- **(a)** Except as otherwise provided in section 5712 of this title , this subchapter shall be enforced by the Commission under the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.). Consequently, no activity which is outside the jurisdiction of that Act shall be affected by this chapter, except for purposes of this subchapter.
+- **(b)** The Commission shall prevent any person from violating a rule of the Commission under section 5711 of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.

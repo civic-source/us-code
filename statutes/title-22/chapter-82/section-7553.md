@@ -5,13 +5,13 @@ usc_section: "7553"
 chapter: 82
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7553"
-generated_at: "2026-03-29T00:30:33.992Z"
+generated_at: "2026-03-29T02:12:40.426Z"
 ---
 
 # § 7553. Donor contributions to Afghanistan and reports
 
-(a) The Congress finds that inadequate amounts of international assistance promised by donor states at the Tokyo donors conference and elsewhere have been delivered to Afghanistan, imperiling the rebuilding and development of civil society and infrastructure, and endangering peace and security in that war-torn country.
-(b) It is the sense of Congress that the United States should use all appropriate diplomatic means to encourage all states that have pledged assistance to Afghanistan to deliver as soon as possible the total amount of assistance pledged.
-(c) 
-  (1) The Secretary of State shall submit reports to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives, in accordance with this paragraph, on the status of contributions of assistance from donor states to Afghanistan. The first report shall be submitted not later than 60 days after December 4, 2002 , the second report shall be submitted 90 days thereafter, and subsequent reports shall be submitted every 180 days thereafter through December 31, 2004 .
-  (2) Each report, which shall be unclassified and posted upon the Department of State’s Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.
+- **(a)** The Congress finds that inadequate amounts of international assistance promised by donor states at the Tokyo donors conference and elsewhere have been delivered to Afghanistan, imperiling the rebuilding and development of civil society and infrastructure, and endangering peace and security in that war-torn country.
+- **(b)** It is the sense of Congress that the United States should use all appropriate diplomatic means to encourage all states that have pledged assistance to Afghanistan to deliver as soon as possible the total amount of assistance pledged.
+- **(c)**
+  - **(1)** The Secretary of State shall submit reports to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives, in accordance with this paragraph, on the status of contributions of assistance from donor states to Afghanistan. The first report shall be submitted not later than 60 days after December 4, 2002 , the second report shall be submitted 90 days thereafter, and subsequent reports shall be submitted every 180 days thereafter through December 31, 2004 .
+  - **(2)** Each report, which shall be unclassified and posted upon the Department of State’s Internet website, shall include, by donor country, the total amount pledged, the amount delivered within the previous 60 days, the total amount of assistance delivered, the type of assistance and type of projects supported by the assistance.

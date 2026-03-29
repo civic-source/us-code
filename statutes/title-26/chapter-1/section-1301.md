@@ -5,23 +5,23 @@ usc_section: "1301"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1301"
-generated_at: "2026-03-29T00:31:20.882Z"
+generated_at: "2026-03-29T02:14:01.132Z"
 ---
 
 # § 1301. Averaging of farm income
 
-(a) At the election of an individual engaged in a farming business or fishing business, the tax imposed by section 1 for such taxable year shall be equal to the sum of—
-  (1) a tax computed under such section on taxable income reduced by elected farm income, plus
-  (2) the increase in tax imposed by section 1 which would result if taxable income for each of the 3 prior taxable years were increased by an amount equal to one-third of the elected farm income.
-(b) In this section—
-  (1) 
-    (A) The term “elected farm income” means so much of the taxable income for the taxable year—
-      (i) which is attributable to any farming business or fishing business; and
-      (ii) which is specified in the election under subsection (a).
-    (B) For purposes of subparagraph (A), gain from the sale or other disposition of property (other than land) regularly used by the taxpayer in such a farming business or fishing business for a substantial period shall be treated as attributable to such a farming business or fishing business.
-  (2) The term “individual” shall not include any estate or trust.
-  (3) The term “farming business” has the meaning given such term by section 263A(e)(4).
-  (4) The term “fishing business” means the conduct of commercial fishing as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1802 ).
-(c) The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations regarding—
-  (1) the order and manner in which items of income, gain, deduction, or loss, or limitations on tax, shall be taken into account in computing the tax imposed by this chapter on the income of any taxpayer to whom this section applies for any taxable year, and
-  (2) the treatment of any short taxable year.
+- **(a)** At the election of an individual engaged in a farming business or fishing business, the tax imposed by section 1 for such taxable year shall be equal to the sum of—
+  - **(1)** a tax computed under such section on taxable income reduced by elected farm income, plus
+  - **(2)** the increase in tax imposed by section 1 which would result if taxable income for each of the 3 prior taxable years were increased by an amount equal to one-third of the elected farm income.
+- **(b)** In this section—
+  - **(1)**
+    - **(A)** The term “elected farm income” means so much of the taxable income for the taxable year—
+      - **(i)** which is attributable to any farming business or fishing business; and
+      - **(ii)** which is specified in the election under subsection (a).
+    - **(B)** For purposes of subparagraph (A), gain from the sale or other disposition of property (other than land) regularly used by the taxpayer in such a farming business or fishing business for a substantial period shall be treated as attributable to such a farming business or fishing business.
+  - **(2)** The term “individual” shall not include any estate or trust.
+  - **(3)** The term “farming business” has the meaning given such term by section 263A(e)(4).
+  - **(4)** The term “fishing business” means the conduct of commercial fishing as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1802 ).
+- **(c)** The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations regarding—
+  - **(1)** the order and manner in which items of income, gain, deduction, or loss, or limitations on tax, shall be taken into account in computing the tax imposed by this chapter on the income of any taxpayer to whom this section applies for any taxable year, and
+  - **(2)** the treatment of any short taxable year.

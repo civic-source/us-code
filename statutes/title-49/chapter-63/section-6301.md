@@ -5,15 +5,15 @@ usc_section: "6301"
 chapter: 63
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 6301"
-generated_at: "2026-03-29T00:33:13.755Z"
+generated_at: "2026-03-29T02:16:08.895Z"
 ---
 
 # § 6301. Definitions
 
 In this chapter, the following definitions apply:
 
-  (1) The term “Bureau” means the Bureau of Transportation Statistics established by section 6302(a).
-  (2) The term “Department” means the Department of Transportation.
-  (3) The term “Director” means the Director of the Bureau.
-  (4) The term “Library” means the National Transportation Library established by section 6304(a).
-  (5) The term “Secretary” means the Secretary of Transportation.
+  - **(1)** The term “Bureau” means the Bureau of Transportation Statistics established by section 6302(a).
+  - **(2)** The term “Department” means the Department of Transportation.
+  - **(3)** The term “Director” means the Director of the Bureau.
+  - **(4)** The term “Library” means the National Transportation Library established by section 6304(a).
+  - **(5)** The term “Secretary” means the Secretary of Transportation.

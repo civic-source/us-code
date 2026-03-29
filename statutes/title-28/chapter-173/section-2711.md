@@ -5,12 +5,12 @@ usc_section: "2711"
 chapter: 173
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2711"
-generated_at: "2026-03-29T00:31:24.208Z"
+generated_at: "2026-03-29T02:14:04.581Z"
 ---
 
 # § 2711. Application for warrant
 
 A United States attorney or assistant United States attorney or a person authorized by the Attorney General—
 
-  (1) upon his own affidavit or that of another credible person, stating the existence of either of the grounds of attachments enumerated in section 2710 of this title and
-  (2) upon production of legal evidence of the debt
+  - **(1)** upon his own affidavit or that of another credible person, stating the existence of either of the grounds of attachments enumerated in section 2710 of this title and
+  - **(2)** upon production of legal evidence of the debt

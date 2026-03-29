@@ -5,7 +5,7 @@ usc_section: "73a"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 73a"
-generated_at: "2026-03-29T00:33:06.591Z"
+generated_at: "2026-03-29T02:16:00.796Z"
 ---
 
 # §§ 73, 73a. Omitted

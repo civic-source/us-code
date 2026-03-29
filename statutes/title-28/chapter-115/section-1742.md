@@ -5,7 +5,7 @@ usc_section: "1742"
 chapter: 115
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1742"
-generated_at: "2026-03-29T00:31:24.188Z"
+generated_at: "2026-03-29T02:14:04.561Z"
 ---
 
 # [§ 1742. Repealed. Pub. L. 88–619, § 6(a) , Oct. 3, 1964 , 78 Stat. 996 ]

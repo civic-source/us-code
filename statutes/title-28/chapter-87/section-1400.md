@@ -5,10 +5,10 @@ usc_section: "1400"
 chapter: 87
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1400"
-generated_at: "2026-03-29T00:31:24.176Z"
+generated_at: "2026-03-29T02:14:04.551Z"
 ---
 
 # § 1400. Patents and copyrights, mask works, and designs
 
-(a) Civil actions, suits, or proceedings arising under any Act of Congress relating to copyrights or exclusive rights in mask works or designs may be instituted in the district in which the defendant or his agent resides or may be found.
-(b) Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.
+- **(a)** Civil actions, suits, or proceedings arising under any Act of Congress relating to copyrights or exclusive rights in mask works or designs may be instituted in the district in which the defendant or his agent resides or may be found.
+- **(b)** Any civil action for patent infringement may be brought in the judicial district where the defendant resides, or where the defendant has committed acts of infringement and has a regular and established place of business.

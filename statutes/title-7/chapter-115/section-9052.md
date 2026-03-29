@@ -5,17 +5,17 @@ usc_section: "9052"
 chapter: 115
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 9052"
-generated_at: "2026-03-29T00:28:58.341Z"
+generated_at: "2026-03-29T02:10:17.226Z"
 ---
 
 # § 9052. Calculation of average feed cost and actual dairy production margins
 
-(a) The Secretary shall calculate the national average feed cost for each month using the following data:
-  (1) The price of corn for a month shall be the price received during that month by farmers in the United States for corn, as reported in the monthly Agricultural Prices report by the Secretary.
-  (2) The price of soybean meal for a month shall be the central Illinois price for soybean meal, as reported in the Market News–Monthly Soybean Meal Price Report by the Secretary.
-  (3) The price of alfalfa hay for a month shall be the price received during that month by farmers in the United States for alfalfa hay, as reported in the monthly Agricultural Prices report by the Secretary.
-(b) 
-  (1) For use in dairy margin coverage, the Secretary shall calculate the actual dairy production margin for each month by subtracting—
-    (A) the average feed cost for that month, determined in accordance with subsection (a); from
-    (B) the all-milk price for that month.
-  (2) The calculation required by this subsection shall be made as soon as practicable using the full-month price of the applicable reference month.
+- **(a)** The Secretary shall calculate the national average feed cost for each month using the following data:
+  - **(1)** The price of corn for a month shall be the price received during that month by farmers in the United States for corn, as reported in the monthly Agricultural Prices report by the Secretary.
+  - **(2)** The price of soybean meal for a month shall be the central Illinois price for soybean meal, as reported in the Market News–Monthly Soybean Meal Price Report by the Secretary.
+  - **(3)** The price of alfalfa hay for a month shall be the price received during that month by farmers in the United States for alfalfa hay, as reported in the monthly Agricultural Prices report by the Secretary.
+- **(b)**
+  - **(1)** For use in dairy margin coverage, the Secretary shall calculate the actual dairy production margin for each month by subtracting—
+    - **(A)** the average feed cost for that month, determined in accordance with subsection (a); from
+    - **(B)** the all-milk price for that month.
+  - **(2)** The calculation required by this subsection shall be made as soon as practicable using the full-month price of the applicable reference month.

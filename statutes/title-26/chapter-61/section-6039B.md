@@ -5,7 +5,7 @@ usc_section: "6039B"
 chapter: 61
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6039B"
-generated_at: "2026-03-29T00:31:21.005Z"
+generated_at: "2026-03-29T02:14:01.285Z"
 ---
 
 # [§ 6039B. Repealed. Pub. L. 99–514, title XIII, § 1303(b)(5) , Oct. 22, 1986 , 100 Stat. 2658 ]

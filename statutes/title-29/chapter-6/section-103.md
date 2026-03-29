@@ -5,7 +5,7 @@ usc_section: "103"
 chapter: 6
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 103"
-generated_at: "2026-03-29T00:31:27.541Z"
+generated_at: "2026-03-29T02:14:09.353Z"
 ---
 
 # § 103. Nonenforceability of undertakings in conflict with public policy; “yellow dog” contracts

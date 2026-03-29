@@ -5,12 +5,12 @@ usc_section: "9684"
 chapter: 973
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9684"
-generated_at: "2026-03-29T00:20:53.267Z"
+generated_at: "2026-03-29T02:10:45.353Z"
 ---
 
 # § 9684. Surplus obsolete ordnance: sale to patriotic organizations
 
 Subject to regulations under section 121 of title 40 , the Secretary of the Air Force may sell, without advertisement and at prices that he considers reasonable—
 
-  (1) surplus obsolete small arms and ammunition and equipment for them, to any patriotic organization for military purposes; and
-  (2) surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
+  - **(1)** surplus obsolete small arms and ammunition and equipment for them, to any patriotic organization for military purposes; and
+  - **(2)** surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.

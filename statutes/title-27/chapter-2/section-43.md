@@ -5,7 +5,7 @@ usc_section: "43"
 chapter: 2
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 43"
-generated_at: "2026-03-29T00:31:21.680Z"
+generated_at: "2026-03-29T02:14:02.221Z"
 ---
 
 # §§ 41 to 43. Repealed. Aug. 27, 1935, ch. 740 , title III, § 308(a), 49 Stat. 880

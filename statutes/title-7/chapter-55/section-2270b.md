@@ -5,7 +5,7 @@ usc_section: "2270b"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2270b"
-generated_at: "2026-03-29T00:28:58.136Z"
+generated_at: "2026-03-29T02:10:16.957Z"
 ---
 
 # § 2270b. Department of Agriculture Inspector General investigation of Forest Service firefighter deaths

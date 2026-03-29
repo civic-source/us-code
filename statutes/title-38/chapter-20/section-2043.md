@@ -5,10 +5,10 @@ usc_section: "2043"
 chapter: 20
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 2043"
-generated_at: "2026-03-29T00:32:17.226Z"
+generated_at: "2026-03-29T02:14:50.386Z"
 ---
 
 # § 2043. Domiciliary care programs
 
-(a) The Secretary may establish up to 10 programs under section 1710(b) of this title (in addition to any program that is established as of the date of the enactment of this section) to provide domiciliary services under such section to homeless veterans.
-(b) The Secretary shall take appropriate actions to ensure that the domiciliary care programs of the Department are adequate, with respect to capacity and with respect to safety, to meet the needs of veterans who are women.
+- **(a)** The Secretary may establish up to 10 programs under section 1710(b) of this title (in addition to any program that is established as of the date of the enactment of this section) to provide domiciliary services under such section to homeless veterans.
+- **(b)** The Secretary shall take appropriate actions to ensure that the domiciliary care programs of the Department are adequate, with respect to capacity and with respect to safety, to meet the needs of veterans who are women.

@@ -5,7 +5,7 @@ usc_section: "308"
 chapter: 7
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 308"
-generated_at: "2026-03-29T00:30:38.628Z"
+generated_at: "2026-03-29T02:13:20.847Z"
 ---
 
 # §§ 307, 308. Omitted

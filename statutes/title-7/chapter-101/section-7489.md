@@ -5,7 +5,7 @@ usc_section: "7489"
 chapter: 101
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7489"
-generated_at: "2026-03-29T00:28:58.283Z"
+generated_at: "2026-03-29T02:10:17.145Z"
 ---
 
 # § 7489. Relation to other programs

@@ -5,7 +5,7 @@ usc_section: "1984"
 chapter: 21
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1984"
-generated_at: "2026-03-29T00:32:53.718Z"
+generated_at: "2026-03-29T02:15:36.552Z"
 ---
 
 # § 1984. Omitted

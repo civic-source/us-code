@@ -5,11 +5,11 @@ usc_section: "9083"
 chapter: 908
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9083"
-generated_at: "2026-03-29T00:20:53.254Z"
+generated_at: "2026-03-29T02:10:45.337Z"
 ---
 
 # § 9083. Vice Chief of Space Operations
 
-(a) There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
-(b) The Vice Chief of Space Operations, while so serving, has the grade of general without vacating the permanent grade of the officer.
-(c) The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.
+- **(a)** There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
+- **(b)** The Vice Chief of Space Operations, while so serving, has the grade of general without vacating the permanent grade of the officer.
+- **(c)** The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.

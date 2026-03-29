@@ -5,12 +5,12 @@ usc_section: "13101"
 chapter: 131
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 13101"
-generated_at: "2026-03-29T00:33:02.894Z"
+generated_at: "2026-03-29T02:15:53.741Z"
 ---
 
 # § 13101. Definitions
 
 In this chapter:
 
-  (1) The term “eligible State” means a State that has a State recreational boating safety program accepted by the Secretary.
-  (2) The term “State recreational boating safety program” means education, assistance, and enforcement activities conducted for maritime casualty prevention, reduction, and reporting for recreational boating.
+  - **(1)** The term “eligible State” means a State that has a State recreational boating safety program accepted by the Secretary.
+  - **(2)** The term “State recreational boating safety program” means education, assistance, and enforcement activities conducted for maritime casualty prevention, reduction, and reporting for recreational boating.

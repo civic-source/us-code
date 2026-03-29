@@ -5,7 +5,7 @@ usc_section: "117h"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 117h"
-generated_at: "2026-03-29T00:06:10.881Z"
+generated_at: "2026-03-29T02:09:53.642Z"
 ---
 
 # § 117h. Transferred

@@ -5,7 +5,7 @@ usc_section: "1706"
 chapter: 37
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1706"
-generated_at: "2026-03-29T00:29:52.740Z"
+generated_at: "2026-03-29T02:11:53.817Z"
 ---
 
 # § 1706. Authorization of appropriations

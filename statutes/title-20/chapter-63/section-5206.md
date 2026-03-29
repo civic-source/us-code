@@ -5,7 +5,7 @@ usc_section: "5206"
 chapter: 63
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 5206"
-generated_at: "2026-03-29T00:07:03.178Z"
+generated_at: "2026-03-29T02:12:17.417Z"
 ---
 
 # § 5206. Report to Congress

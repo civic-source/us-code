@@ -5,13 +5,13 @@ usc_section: "4418"
 chapter: 56
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 4418"
-generated_at: "2026-03-29T00:07:03.174Z"
+generated_at: "2026-03-29T02:12:17.411Z"
 ---
 
 # § 4418. Indian preference
 
-(a) Notwithstanding any other provision of Federal or State law, the Institute is authorized to develop a policy or policies for the Institute to extend preference to Indians in—
-  (1) admissions to, and enrollment in, programs conducted by the Institute,
-  (2) employment by the Institute, and
-  (3) contracts, fellowships, and grants awarded by the Institute.
-(b) In carrying out section 4416(b)(1) of this title , the President of the Institute shall, to the maximum extent practicable, give preference in hiring to Indians.
+- **(a)** Notwithstanding any other provision of Federal or State law, the Institute is authorized to develop a policy or policies for the Institute to extend preference to Indians in—
+  - **(1)** admissions to, and enrollment in, programs conducted by the Institute,
+  - **(2)** employment by the Institute, and
+  - **(3)** contracts, fellowships, and grants awarded by the Institute.
+- **(b)** In carrying out section 4416(b)(1) of this title , the President of the Institute shall, to the maximum extent practicable, give preference in hiring to Indians.

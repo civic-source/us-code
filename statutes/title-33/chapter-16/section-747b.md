@@ -5,7 +5,7 @@ usc_section: "747b"
 chapter: 16
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 747b"
-generated_at: "2026-03-29T00:31:57.251Z"
+generated_at: "2026-03-29T02:14:18.519Z"
 ---
 
 # § 747b. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(7), Jan. 1, 2021 , 134 Stat. 4759

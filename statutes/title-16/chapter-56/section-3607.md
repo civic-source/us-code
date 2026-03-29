@@ -5,7 +5,7 @@ usc_section: "3607"
 chapter: 56
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3607"
-generated_at: "2026-03-29T00:29:52.804Z"
+generated_at: "2026-03-29T02:11:53.892Z"
 ---
 
 # § 3607. Enforcement

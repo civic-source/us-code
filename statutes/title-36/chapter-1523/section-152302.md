@@ -1,0 +1,20 @@
+---
+title: "Section 152302 - Purposes"
+usc_title: 36
+usc_section: "152302"
+chapter: 1523
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 152302"
+generated_at: "2026-03-29T02:14:41.368Z"
+---
+
+# § 152302. Purposes
+
+The purposes of the corporation are—
+
+  - **(1)** to provide the member organizations with a forum for the free discussion of problems affecting national musical life in this country;
+  - **(2)** to speak with one voice for music whenever an authoritative expression of opinion is desirable;
+  - **(3)** to provide for the interchange of information between the various member organizations;
+  - **(4)** to encourage the coordination of efforts of the member organizations, thereby avoiding duplication or conflict;
+  - **(5)** to organize exploratory surveys or fact-finding commissions whenever the corporation considers them necessary for the solution of important problems; and
+  - **(6)** to encourage the development and appreciation of the art of music and to foster the highest ethical standards in the musical professions and industries.

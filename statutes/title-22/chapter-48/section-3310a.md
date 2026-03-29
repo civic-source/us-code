@@ -5,7 +5,7 @@ usc_section: "3310a"
 chapter: 48
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3310a"
-generated_at: "2026-03-29T00:30:33.875Z"
+generated_at: "2026-03-29T02:12:40.281Z"
 ---
 
 # § 3310a. Commercial personnel at American Institute of Taiwan

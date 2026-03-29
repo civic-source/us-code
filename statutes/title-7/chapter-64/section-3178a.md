@@ -5,13 +5,13 @@ usc_section: "3178a"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3178a"
-generated_at: "2026-03-29T00:28:58.166Z"
+generated_at: "2026-03-29T02:10:16.991Z"
 ---
 
 # § 3178a. Nutrition monitoring
 
 The Secretary of Agriculture shall—
 
-  (1) in conducting the Department of Agriculture’s continuing survey of food intakes of individuals and any nationwide food consumption survey, include a sample that is representative of low-income individuals and, to the extent practicable, the collection of information on food purchases and other household expenditures by such individuals;
-  (2) to the extent practicable, continue to maintain the nutrient data base established by the Department of Agriculture; and
-  (3) encourage research by public and private entities relating to effective standards, methodologies, and technologies for accurate assessment of the nutritional and dietary status of individuals.
+  - **(1)** in conducting the Department of Agriculture’s continuing survey of food intakes of individuals and any nationwide food consumption survey, include a sample that is representative of low-income individuals and, to the extent practicable, the collection of information on food purchases and other household expenditures by such individuals;
+  - **(2)** to the extent practicable, continue to maintain the nutrient data base established by the Department of Agriculture; and
+  - **(3)** encourage research by public and private entities relating to effective standards, methodologies, and technologies for accurate assessment of the nutritional and dietary status of individuals.

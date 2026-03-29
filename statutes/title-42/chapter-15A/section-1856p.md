@@ -5,7 +5,7 @@ usc_section: "1856p"
 chapter: 15
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1856p"
-generated_at: "2026-03-29T00:32:53.694Z"
+generated_at: "2026-03-29T02:15:36.523Z"
 ---
 
 # § 1856p. Repealed. Pub. L. 101–11, § 2 , Apr. 7, 1989 , 103 Stat. 15

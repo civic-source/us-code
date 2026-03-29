@@ -5,7 +5,7 @@ usc_section: "927"
 chapter: 44
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 927"
-generated_at: "2026-03-29T00:30:15.646Z"
+generated_at: "2026-03-29T02:12:02.393Z"
 ---
 
 # § 927. Effect on State law

@@ -5,7 +5,7 @@ usc_section: "443"
 chapter: 17
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 443"
-generated_at: "2026-03-29T00:28:57.932Z"
+generated_at: "2026-03-29T02:10:16.722Z"
 ---
 
 # § 443. Transferred

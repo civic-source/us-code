@@ -5,7 +5,7 @@ usc_section: "1324"
 chapter: 13
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 1324"
-generated_at: "2026-03-29T00:32:58.545Z"
+generated_at: "2026-03-29T02:15:49.322Z"
 ---
 
 # § 1324. Labor Statistics, Bureau of: bulletins

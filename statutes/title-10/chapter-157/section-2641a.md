@@ -5,15 +5,15 @@ usc_section: "2641a"
 chapter: 157
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2641a"
-generated_at: "2026-03-29T00:20:53.067Z"
+generated_at: "2026-03-29T02:10:45.122Z"
 ---
 
 # § 2641a. Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii
 
-(a) The Secretary of Defense may provide transportation on Department of Defense aircraft for the purpose of transporting any veteran specified in subsection (b) between American Samoa and the State of Hawaii if such transportation is required in order to provide hospital care to such veteran as described in that subsection.
-(b) A veteran eligible for transport under subsection (a) is any veteran who—
-  (1) resides in and is located in American Samoa; and
-  (2) as determined by an official of the Department of Veterans Affairs designated for that purpose by the Secretary of Veterans Affairs, must be transported to the State of Hawaii in order to receive hospital care to which such veteran is entitled under chapter 17 of title 38 in facilities of such Department in the State of Hawaii.
-(c) 
-  (1) Transportation may be provided to veterans under this section only on a space-available basis.
-  (2) A charge may not be imposed on a veteran for transportation provided to the veteran under this section.
+- **(a)** The Secretary of Defense may provide transportation on Department of Defense aircraft for the purpose of transporting any veteran specified in subsection (b) between American Samoa and the State of Hawaii if such transportation is required in order to provide hospital care to such veteran as described in that subsection.
+- **(b)** A veteran eligible for transport under subsection (a) is any veteran who—
+  - **(1)** resides in and is located in American Samoa; and
+  - **(2)** as determined by an official of the Department of Veterans Affairs designated for that purpose by the Secretary of Veterans Affairs, must be transported to the State of Hawaii in order to receive hospital care to which such veteran is entitled under chapter 17 of title 38 in facilities of such Department in the State of Hawaii.
+- **(c)**
+  - **(1)** Transportation may be provided to veterans under this section only on a space-available basis.
+  - **(2)** A charge may not be imposed on a veteran for transportation provided to the veteran under this section.

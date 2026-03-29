@@ -5,10 +5,10 @@ usc_section: "1742"
 chapter: 17
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1742"
-generated_at: "2026-03-29T00:32:17.204Z"
+generated_at: "2026-03-29T02:14:50.369Z"
 ---
 
 # § 1742. Inspections of such homes; restrictions on beneficiaries
 
-(a) The Secretary may inspect any State home at such times as the Secretary deems necessary. No payment or grant may be made to any home under this subchapter unless such home is determined by the Secretary to meet such standards as the Secretary shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 1720(b) of this title .
-(b) The Secretary may ascertain the number of persons on account of whom payments may be made under this subchapter on account of any State home, but shall have no authority over the management or control of any State home.
+- **(a)** The Secretary may inspect any State home at such times as the Secretary deems necessary. No payment or grant may be made to any home under this subchapter unless such home is determined by the Secretary to meet such standards as the Secretary shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 1720(b) of this title .
+- **(b)** The Secretary may ascertain the number of persons on account of whom payments may be made under this subchapter on account of any State home, but shall have no authority over the management or control of any State home.

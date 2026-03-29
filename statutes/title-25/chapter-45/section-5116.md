@@ -5,7 +5,7 @@ usc_section: "5116"
 chapter: 45
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 5116"
-generated_at: "2026-03-29T00:30:38.787Z"
+generated_at: "2026-03-29T02:13:21.001Z"
 ---
 
 # § 5116. Standards for Indians appointed to Indian Office

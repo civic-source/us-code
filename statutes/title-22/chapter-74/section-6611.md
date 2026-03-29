@@ -5,15 +5,15 @@ usc_section: "6611"
 chapter: 74
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6611"
-generated_at: "2026-03-29T00:30:33.971Z"
+generated_at: "2026-03-29T02:12:40.395Z"
 ---
 
 # § 6611. Reorganization authority
 
-(a) The Secretary is authorized, subject to the requirements of this chapter, to allocate or reallocate any function transferred to the Department under any subchapter of this chapter, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate to carry out any reorganization under this chapter, but this subsection does not authorize the Secretary to modify the terms of any statute that establishes or defines the functions of any bureau, office, or officer of the Department.
-(b) The reorganization plan transmitted under section 6601 of this title may not have the effect of—
-  (1) creating a new executive department;
-  (2) continuing a function beyond the period authorized by law for its exercise or beyond the time when it would have terminated if the reorganization had not been made;
-  (3) authorizing a Federal agency to exercise a function which is not authorized by law at the time the plan is transmitted to Congress;
-  (4) creating a new Federal agency which is not a component or part of an existing executive department or independent agency; or
-  (5) increasing the term of an office beyond that provided by law for the office.
+- **(a)** The Secretary is authorized, subject to the requirements of this chapter, to allocate or reallocate any function transferred to the Department under any subchapter of this chapter, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate to carry out any reorganization under this chapter, but this subsection does not authorize the Secretary to modify the terms of any statute that establishes or defines the functions of any bureau, office, or officer of the Department.
+- **(b)** The reorganization plan transmitted under section 6601 of this title may not have the effect of—
+  - **(1)** creating a new executive department;
+  - **(2)** continuing a function beyond the period authorized by law for its exercise or beyond the time when it would have terminated if the reorganization had not been made;
+  - **(3)** authorizing a Federal agency to exercise a function which is not authorized by law at the time the plan is transmitted to Congress;
+  - **(4)** creating a new Federal agency which is not a component or part of an existing executive department or independent agency; or
+  - **(5)** increasing the term of an office beyond that provided by law for the office.

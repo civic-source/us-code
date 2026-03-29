@@ -5,13 +5,13 @@ usc_section: "10209"
 chapter: 1007
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 10209"
-generated_at: "2026-03-29T00:20:53.271Z"
+generated_at: "2026-03-29T02:10:45.358Z"
 ---
 
 # § 10209. Regular and reserve components: discrimination prohibited
 
 Laws applying to both Regulars and Reserves shall be administered without discrimination—
 
-  (1) among Regulars;
-  (2) among Reserves; and
-  (3) between Regulars and Reserves.
+  - **(1)** among Regulars;
+  - **(2)** among Reserves; and
+  - **(3)** between Regulars and Reserves.

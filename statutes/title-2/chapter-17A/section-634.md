@@ -5,23 +5,23 @@ usc_section: "634"
 chapter: 17
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 634"
-generated_at: "2026-03-29T00:06:10.921Z"
+generated_at: "2026-03-29T02:09:53.683Z"
 ---
 
 # § 634. Concurrent resolution on the budget must be adopted before budget-related legislation is considered
 
-(a) Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
-  (1) first provides new budget authority for that fiscal year;
-  (2) first provides an increase or decrease in revenues during that fiscal year;
-  (3) provides an increase or decrease in the public debt limit to become effective during that fiscal year;
-  (4) in the Senate only, first provides new entitlement authority for that fiscal year; or
-  (5) in the Senate only, first provides for an increase or decrease in outlays for that fiscal year.
-(b) In the House of Representatives, subsection (a) does not apply—
-  (1) 
-    (A) to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
-    (B) to any bill or joint resolution, as reported, first increasing or decreasing revenues in a fiscal year following the fiscal year to which the concurrent resolution applies;
-  (2) after May 15, to any general appropriation bill or amendment thereto; or
-  (3) to any bill or joint resolution unless it is reported by a committee.
-(c) 
-  (1) Until the concurrent resolution on the budget for a fiscal year has been agreed to and an allocation has been made to the Committee on Appropriations of the Senate under section 633(a) of this title for that year, it shall not be in order in the Senate to consider any appropriation bill or joint resolution, amendment or motion thereto, or conference report thereon for that year or any subsequent year.
-  (2) Paragraph (1) does not apply to appropriations legislation making advance appropriations for the first or second fiscal year after the year the allocation referred to in that paragraph is made.
+- **(a)** Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
+  - **(1)** first provides new budget authority for that fiscal year;
+  - **(2)** first provides an increase or decrease in revenues during that fiscal year;
+  - **(3)** provides an increase or decrease in the public debt limit to become effective during that fiscal year;
+  - **(4)** in the Senate only, first provides new entitlement authority for that fiscal year; or
+  - **(5)** in the Senate only, first provides for an increase or decrease in outlays for that fiscal year.
+- **(b)** In the House of Representatives, subsection (a) does not apply—
+  - **(1)**
+    - **(A)** to any bill or joint resolution, as reported, providing advance discretionary new budget authority that first becomes available for the first or second fiscal year after the budget year; or
+    - **(B)** to any bill or joint resolution, as reported, first increasing or decreasing revenues in a fiscal year following the fiscal year to which the concurrent resolution applies;
+  - **(2)** after May 15, to any general appropriation bill or amendment thereto; or
+  - **(3)** to any bill or joint resolution unless it is reported by a committee.
+- **(c)**
+  - **(1)** Until the concurrent resolution on the budget for a fiscal year has been agreed to and an allocation has been made to the Committee on Appropriations of the Senate under section 633(a) of this title for that year, it shall not be in order in the Senate to consider any appropriation bill or joint resolution, amendment or motion thereto, or conference report thereon for that year or any subsequent year.
+  - **(2)** Paragraph (1) does not apply to appropriations legislation making advance appropriations for the first or second fiscal year after the year the allocation referred to in that paragraph is made.

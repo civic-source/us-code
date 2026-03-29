@@ -5,12 +5,12 @@ usc_section: "6305"
 chapter: 63
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 6305"
-generated_at: "2026-03-29T00:32:17.316Z"
+generated_at: "2026-03-29T02:14:50.463Z"
 ---
 
 # § 6305. Outstationing of counseling and outreach personnel
 
 The Secretary may station employees of the Department at locations other than Department offices, including educational institutions, to provide—
 
-  (1) counseling and other assistance regarding benefits under this title to veterans and other persons eligible for benefits under this title; and
-  (2) outreach services under this subchapter.
+  - **(1)** counseling and other assistance regarding benefits under this title to veterans and other persons eligible for benefits under this title; and
+  - **(2)** outreach services under this subchapter.

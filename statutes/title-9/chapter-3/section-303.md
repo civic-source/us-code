@@ -5,10 +5,10 @@ usc_section: "303"
 chapter: 3
 current_through: "PL 119-73"
 classification: "9 U.S.C. § 303"
-generated_at: "2026-03-29T00:06:34.604Z"
+generated_at: "2026-03-29T02:10:21.790Z"
 ---
 
 # § 303. Order to compel arbitration; appointment of arbitrators; locale
 
-(a) A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. The court may also appoint arbitrators in accordance with the provisions of the agreement.
-(b) In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.
+- **(a)** A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. The court may also appoint arbitrators in accordance with the provisions of the agreement.
+- **(b)** In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.

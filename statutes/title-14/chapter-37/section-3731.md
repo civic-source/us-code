@@ -5,12 +5,12 @@ usc_section: "3731"
 chapter: 37
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 3731"
-generated_at: "2026-03-29T00:29:25.035Z"
+generated_at: "2026-03-29T02:11:23.811Z"
 ---
 
 # § 3731. Definitions
 
 As used in this subchapter—
 
-  (1) “Reserve officer” means a commissioned officer in the Reserve, except an officer excluded by section 3732 of this title or a commissioned warrant officer; and
-  (2) “discharged” means released from an appointment as a Reserve officer.
+  - **(1)** “Reserve officer” means a commissioned officer in the Reserve, except an officer excluded by section 3732 of this title or a commissioned warrant officer; and
+  - **(2)** “discharged” means released from an appointment as a Reserve officer.

@@ -5,7 +5,7 @@ usc_section: "1506b"
 chapter: 36
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1506b"
-generated_at: "2026-03-29T00:28:58.010Z"
+generated_at: "2026-03-29T02:10:16.804Z"
 ---
 
 # §§ 1506a, 1506b. Omitted

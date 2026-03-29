@@ -5,10 +5,10 @@ usc_section: "7475"
 chapter: 76
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7475"
-generated_at: "2026-03-29T00:31:21.093Z"
+generated_at: "2026-03-29T02:14:01.389Z"
 ---
 
 # § 7475. Practice fee
 
-(a) The Tax Court is authorized to impose a periodic registration fee on practitioners admitted to practice before such Court. The frequency and amount of such fee shall be determined by the Tax Court, except that such amount may not exceed $30 per year.
-(b) The fees described in subsection (a) shall be available to the Tax Court to employ independent counsel to pursue disciplinary matters and to provide services to pro se taxpayers.
+- **(a)** The Tax Court is authorized to impose a periodic registration fee on practitioners admitted to practice before such Court. The frequency and amount of such fee shall be determined by the Tax Court, except that such amount may not exceed $30 per year.
+- **(b)** The fees described in subsection (a) shall be available to the Tax Court to employ independent counsel to pursue disciplinary matters and to provide services to pro se taxpayers.

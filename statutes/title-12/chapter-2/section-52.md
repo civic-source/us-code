@@ -5,7 +5,7 @@ usc_section: "52"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 52"
-generated_at: "2026-03-29T00:29:16.467Z"
+generated_at: "2026-03-29T02:11:20.835Z"
 ---
 
 # § 52. Par value and incidents of stock; transfer of shares

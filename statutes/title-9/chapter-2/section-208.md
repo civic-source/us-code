@@ -5,7 +5,7 @@ usc_section: "208"
 chapter: 2
 current_through: "PL 119-73"
 classification: "9 U.S.C. § 208"
-generated_at: "2026-03-29T00:06:34.604Z"
+generated_at: "2026-03-29T02:10:21.790Z"
 ---
 
 # § 208. Application

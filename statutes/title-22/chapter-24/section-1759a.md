@@ -5,7 +5,7 @@ usc_section: "1759a"
 chapter: 24
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1759a"
-generated_at: "2026-03-29T00:30:33.741Z"
+generated_at: "2026-03-29T02:12:40.013Z"
 ---
 
 # § 1759a. Repealed. Pub. L. 86–108 , ch. IV, § 401(l), July 24, 1959 , 73 Stat. 255

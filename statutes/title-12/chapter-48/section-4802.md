@@ -5,17 +5,17 @@ usc_section: "4802"
 chapter: 48
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4802"
-generated_at: "2026-03-29T00:29:16.864Z"
+generated_at: "2026-03-29T02:11:21.231Z"
 ---
 
 # § 4802. Administrative consideration of burden with new regulations
 
-(a) In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agency shall consider, consistent with the principles of safety and soundness and the public interest—
-  (1) any administrative burdens that such regulations would place on depository institutions, including small depository institutions and customers of depository institutions; and
-  (2) the benefits of such regulations.
-(b) 
-  (1) New regulations and amendments to regulations prescribed by a Federal banking agency which impose additional reporting, disclosures, or other new requirements on insured depository institutions shall take effect on the first day of a calendar quarter which begins on or after the date on which the regulations are published in final form, unless—
-    (A) the agency determines, for good cause published with the regulation, that the regulation should become effective before such time;
-    (B) the regulation is issued by the Board of Governors of the Federal Reserve System in connection with the implementation of monetary policy; or
-    (C) the regulation is required to take effect on a date other than the date determined under this paragraph pursuant to any other Act of Congress.
-  (2) Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.
+- **(a)** In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agency shall consider, consistent with the principles of safety and soundness and the public interest—
+  - **(1)** any administrative burdens that such regulations would place on depository institutions, including small depository institutions and customers of depository institutions; and
+  - **(2)** the benefits of such regulations.
+- **(b)**
+  - **(1)** New regulations and amendments to regulations prescribed by a Federal banking agency which impose additional reporting, disclosures, or other new requirements on insured depository institutions shall take effect on the first day of a calendar quarter which begins on or after the date on which the regulations are published in final form, unless—
+    - **(A)** the agency determines, for good cause published with the regulation, that the regulation should become effective before such time;
+    - **(B)** the regulation is issued by the Board of Governors of the Federal Reserve System in connection with the implementation of monetary policy; or
+    - **(C)** the regulation is required to take effect on a date other than the date determined under this paragraph pursuant to any other Act of Congress.
+  - **(2)** Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.

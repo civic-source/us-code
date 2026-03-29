@@ -5,10 +5,10 @@ usc_section: "2335"
 chapter: 28
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 2335"
-generated_at: "2026-03-29T00:30:24.373Z"
+generated_at: "2026-03-29T02:12:28.199Z"
 ---
 
 # § 2335. Exception relating to importation of goods
 
-(a) The authorities and requirements to impose sanctions under this chapter shall not include the authority or a requirement to impose sanctions on the importation of goods.
-(b) In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(a)** The authorities and requirements to impose sanctions under this chapter shall not include the authority or a requirement to impose sanctions on the importation of goods.
+- **(b)** In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.

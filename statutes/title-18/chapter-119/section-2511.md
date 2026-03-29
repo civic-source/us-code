@@ -5,14 +5,14 @@ usc_section: "2511"
 chapter: 119
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2511"
-generated_at: "2026-03-29T00:30:15.714Z"
+generated_at: "2026-03-29T02:12:02.460Z"
 ---
 
 # § 2511. Interception and disclosure of wire, oral, or electronic communications prohibited
 
-(b) The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
-  (1) Except as otherwise specifically provided in this chapter any person who—
-  (2) 
-  (3) 
-  (4) 
-  (5) 
+- **(b)** The court may use any means within its authority to enforce an injunction issued under paragraph (ii)(A), and shall impose a civil fine of not less than $500 for each violation of such an injunction.
+  - **(1)** Except as otherwise specifically provided in this chapter any person who—
+  - **(2)**
+  - **(3)**
+  - **(4)**
+  - **(5)**

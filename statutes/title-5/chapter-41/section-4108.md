@@ -5,15 +5,15 @@ usc_section: "4108"
 chapter: 41
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 4108"
-generated_at: "2026-03-29T00:28:38.323Z"
+generated_at: "2026-03-29T02:10:01.835Z"
 ---
 
 # § 4108. Employee agreements; service after training
 
-(a) An employee selected for training for more than a minimum period prescribed by the head of the agency shall agree in writing with the Government before assignment to training that he will—
-  (1) continue in the service of his agency after the end of the training period for a period at least equal to three times the length of the training period unless he is involuntarily separated from the service of his agency; and
-  (2) pay to the Government the amount of the additional expenses incurred by the Government in connection with his training if he is voluntarily separated from the service of his agency before the end of the period for which he has agreed to continue in the service of his agency.
-(b) The payment agreed to under subsection (a)(2) of this section may not be required of an employee who leaves the service of his agency to enter into the service of another agency in any branch of the Government unless the head of the agency that authorized the training notifies the employee before the effective date of his entrance into the service of the other agency that payment will be required under this section.
-(c) If an employee, except an employee relieved of liability under subsection (b) of this section or section 4102(b) of this title , fails to fulfill his agreement to pay to the Government the additional expenses incurred by the Government in connection with his training, a sum equal to the amount of the additional expenses of training is recoverable by the Government from the employee or his estate by—
-  (1) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
-  (2) such other method as is provided by law for the recovery of amounts owing to the Government.
+- **(a)** An employee selected for training for more than a minimum period prescribed by the head of the agency shall agree in writing with the Government before assignment to training that he will—
+  - **(1)** continue in the service of his agency after the end of the training period for a period at least equal to three times the length of the training period unless he is involuntarily separated from the service of his agency; and
+  - **(2)** pay to the Government the amount of the additional expenses incurred by the Government in connection with his training if he is voluntarily separated from the service of his agency before the end of the period for which he has agreed to continue in the service of his agency.
+- **(b)** The payment agreed to under subsection (a)(2) of this section may not be required of an employee who leaves the service of his agency to enter into the service of another agency in any branch of the Government unless the head of the agency that authorized the training notifies the employee before the effective date of his entrance into the service of the other agency that payment will be required under this section.
+- **(c)** If an employee, except an employee relieved of liability under subsection (b) of this section or section 4102(b) of this title , fails to fulfill his agreement to pay to the Government the additional expenses incurred by the Government in connection with his training, a sum equal to the amount of the additional expenses of training is recoverable by the Government from the employee or his estate by—
+  - **(1)** setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
+  - **(2)** such other method as is provided by law for the recovery of amounts owing to the Government.

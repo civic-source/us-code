@@ -1,0 +1,17 @@
+---
+title: "Section 967 - Consequences for lack of compliance"
+usc_title: 6
+usc_section: "967"
+chapter: 3
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 967"
+generated_at: "2026-03-29T02:10:05.068Z"
+---
+
+# § 967. Consequences for lack of compliance
+
+- **(a)** If at any time a C–TPAT participant’s security measures and supply chain security practices fail to meet any of the requirements under this part, the Commissioner may deny the participant benefits otherwise available under this part, in whole or in part. The Commissioner shall develop procedures that provide appropriate protections to C–TPAT participants before benefits are revoked. Such procedures may not limit the ability of the Commissioner to take actions to protect the national security of the United States.
+- **(b)** If a C–TPAT participant knowingly provides false or misleading information to the Commissioner during the validation process provided for under this part, the Commissioner shall suspend or expel the participant from C–TPAT for an appropriate period of time. The Commissioner, after the completion of the process under subsection (c), may publish in the Federal Register a list of participants who have been suspended or expelled from C–TPAT pursuant to this subsection, and may make such list available to C–TPAT participants.
+- **(c)**
+  - **(1)** A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (a). Such appeal shall be filed with the Secretary not later than 90 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.
+  - **(2)** A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (b). Such appeal shall be filed with the Secretary not later than 30 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.

@@ -5,38 +5,38 @@ usc_section: "358"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 358"
-generated_at: "2026-03-29T00:31:20.695Z"
+generated_at: "2026-03-29T02:14:00.894Z"
 ---
 
 # § 358. Basis to distributees
 
-(a) In the case of an exchange to which section 351, 354, 355, 356, or 361 applies—
-  (1) The basis of the property permitted to be received under such section without the recognition of gain or loss shall be the same as that of the property exchanged—
-    (A) decreased by—
-      (i) the fair market value of any other property (except money) received by the taxpayer,
-      (ii) the amount of any money received by the taxpayer, and
-      (iii) the amount of loss to the taxpayer which was recognized on such exchange, and
-    (B) increased by—
-      (i) the amount which was treated as a dividend, and
-      (ii) the amount of gain to the taxpayer which was recognized on such exchange (not including any portion of such gain which was treated as a dividend).
-  (2) The basis of any other property (except money) received by the taxpayer shall be its fair market value.
-(b) 
-  (1) Under regulations prescribed by the Secretary, the basis determined under subsection (a)(1) shall be allocated among the properties permitted to be received without the recognition of gain or loss.
-  (2) In the case of an exchange to which section 355 (or so much of section 356 as relates to section 355) applies, then in making the allocation under paragraph (1) of this subsection, there shall be taken into account not only the property so permitted to be received without the recognition of gain or loss, but also the stock or securities (if any) of the distributing corporation which are retained, and the allocation of basis shall be made among all such properties.
-(c) For purposes of this section, a distribution to which section 355 (or so much of section 356 as relates to section 355) applies shall be treated as an exchange, and for such purposes the stock and securities of the distributing corporation which are retained shall be treated as surrendered, and received back, in the exchange.
-(d) 
-  (1) Where, as part of the consideration to the taxpayer, another party to the exchange assumed a liability of the taxpayer, such assumption shall, for purposes of this section, be treated as money received by the taxpayer on the exchange.
-  (2) Paragraph (1) shall not apply to the amount of any liability excluded under section 357(c)(3).
-(e) This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
-(f) For purposes of this section, the property permitted to be received under section 361 without the recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
-(g) In the case of a distribution to which section 355 (or so much of section 356 as relates to section 355) applies and which involves the distribution of stock from 1 member of an affiliated group (as defined in section 1504(a) without regard to subsection (b) thereof) to another member of such group, the Secretary may, notwithstanding any other provision of this section, provide adjustments to the adjusted basis of any stock which—
-  (1) is in a corporation which is a member of such group, and
-  (2) is held by another member of such group,
-(h) 
-  (1) If, after application of the other provisions of this section to an exchange or series of exchanges, the basis of property to which subsection (a)(1) applies exceeds the fair market value of such property, then such basis shall be reduced (but not below such fair market value) by the amount (determined as of the date of the exchange) of any liability—
-    (A) which is assumed by another person as part of the exchange, and
-    (B) with respect to which subsection (d)(1) does not apply to the assumption.
-  (2) Except as provided by the Secretary, paragraph (1) shall not apply to any liability if—
-    (A) the trade or business with which the liability is associated is transferred to the person assuming the liability as part of the exchange, or
-    (B) substantially all of the assets with which the liability is associated are transferred to the person assuming the liability as part of the exchange.
-  (3) For purposes of this subsection, the term “liability” shall include any fixed or contingent obligation to make payment, without regard to whether the obligation is otherwise taken into account for purposes of this title.
+- **(a)** In the case of an exchange to which section 351, 354, 355, 356, or 361 applies—
+  - **(1)** The basis of the property permitted to be received under such section without the recognition of gain or loss shall be the same as that of the property exchanged—
+    - **(A)** decreased by—
+      - **(i)** the fair market value of any other property (except money) received by the taxpayer,
+      - **(ii)** the amount of any money received by the taxpayer, and
+      - **(iii)** the amount of loss to the taxpayer which was recognized on such exchange, and
+    - **(B)** increased by—
+      - **(i)** the amount which was treated as a dividend, and
+      - **(ii)** the amount of gain to the taxpayer which was recognized on such exchange (not including any portion of such gain which was treated as a dividend).
+  - **(2)** The basis of any other property (except money) received by the taxpayer shall be its fair market value.
+- **(b)**
+  - **(1)** Under regulations prescribed by the Secretary, the basis determined under subsection (a)(1) shall be allocated among the properties permitted to be received without the recognition of gain or loss.
+  - **(2)** In the case of an exchange to which section 355 (or so much of section 356 as relates to section 355) applies, then in making the allocation under paragraph (1) of this subsection, there shall be taken into account not only the property so permitted to be received without the recognition of gain or loss, but also the stock or securities (if any) of the distributing corporation which are retained, and the allocation of basis shall be made among all such properties.
+- **(c)** For purposes of this section, a distribution to which section 355 (or so much of section 356 as relates to section 355) applies shall be treated as an exchange, and for such purposes the stock and securities of the distributing corporation which are retained shall be treated as surrendered, and received back, in the exchange.
+- **(d)**
+  - **(1)** Where, as part of the consideration to the taxpayer, another party to the exchange assumed a liability of the taxpayer, such assumption shall, for purposes of this section, be treated as money received by the taxpayer on the exchange.
+  - **(2)** Paragraph (1) shall not apply to the amount of any liability excluded under section 357(c)(3).
+- **(e)** This section shall not apply to property acquired by a corporation by the exchange of its stock or securities (or the stock or securities of a corporation which is in control of the acquiring corporation) as consideration in whole or in part for the transfer of the property to it.
+- **(f)** For purposes of this section, the property permitted to be received under section 361 without the recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
+- **(g)** In the case of a distribution to which section 355 (or so much of section 356 as relates to section 355) applies and which involves the distribution of stock from 1 member of an affiliated group (as defined in section 1504(a) without regard to subsection (b) thereof) to another member of such group, the Secretary may, notwithstanding any other provision of this section, provide adjustments to the adjusted basis of any stock which—
+  - **(1)** is in a corporation which is a member of such group, and
+  - **(2)** is held by another member of such group,
+- **(h)**
+  - **(1)** If, after application of the other provisions of this section to an exchange or series of exchanges, the basis of property to which subsection (a)(1) applies exceeds the fair market value of such property, then such basis shall be reduced (but not below such fair market value) by the amount (determined as of the date of the exchange) of any liability—
+    - **(A)** which is assumed by another person as part of the exchange, and
+    - **(B)** with respect to which subsection (d)(1) does not apply to the assumption.
+  - **(2)** Except as provided by the Secretary, paragraph (1) shall not apply to any liability if—
+    - **(A)** the trade or business with which the liability is associated is transferred to the person assuming the liability as part of the exchange, or
+    - **(B)** substantially all of the assets with which the liability is associated are transferred to the person assuming the liability as part of the exchange.
+  - **(3)** For purposes of this subsection, the term “liability” shall include any fixed or contingent obligation to make payment, without regard to whether the obligation is otherwise taken into account for purposes of this title.

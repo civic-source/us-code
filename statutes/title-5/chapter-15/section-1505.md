@@ -5,13 +5,13 @@ usc_section: "1505"
 chapter: 15
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 1505"
-generated_at: "2026-03-29T00:28:38.299Z"
+generated_at: "2026-03-29T02:10:01.803Z"
 ---
 
 # § 1505. Hearings; adjudications; notice of determinations
 
 Either the State or local officer or employee or the State or local agency employing him, or both, are entitled to appear with counsel at the hearing under section 1504 of this title , and be heard. After this hearing, the Merit Systems Protection Board shall—
 
-  (1) determine whether a violation of section 1502 of this title has occurred;
-  (2) determine whether the violation warrants the removal of the officer or employee from his office or employment; and
-  (3) notify the officer or employee and the agency of the determination by registered or certified mail.
+  - **(1)** determine whether a violation of section 1502 of this title has occurred;
+  - **(2)** determine whether the violation warrants the removal of the officer or employee from his office or employment; and
+  - **(3)** notify the officer or employee and the agency of the determination by registered or certified mail.

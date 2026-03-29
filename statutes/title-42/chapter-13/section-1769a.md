@@ -5,60 +5,60 @@ usc_section: "1769a"
 chapter: 13
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1769a"
-generated_at: "2026-03-29T00:32:53.682Z"
+generated_at: "2026-03-29T02:15:36.505Z"
 ---
 
 # § 1769a. Fresh fruit and vegetable program
 
-(a) For the school year beginning July 2008 and each subsequent school year, the Secretary shall provide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the “program”).
-(b) A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
-(c) 
-  (1) Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
-  (2) Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 1753 of this title based on the proportion that—
-    (A) the population of the State; bears to
-    (B) the population of the United States.
-(d) 
-  (1) Except as provided in paragraph (2) of this subsection and section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, each year, in selecting schools to participate in the program, each State shall—
-    (A) ensure that each school chosen to participate in the program is a school—
-      (i) in which not less than 50 percent of the students are eligible for free or reduced price meals under this chapter; and
-      (ii) that submits an application in accordance with subparagraph (D);
-    (B) to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
-    (C) ensure that each school selected is an elementary school (as defined in section 7801 1 1 See References in Text note below. of title 20);
-    (D) solicit applications from interested schools that include—
-      (i) information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
-      (ii) a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
-      (iii) a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health and nutrition, reduce overweight and obesity, or promote physical activity; and
-      (iv) such other information as may be requested by the Secretary; and
-    (E) encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entities that will provide non-Federal resources (including entities representing the fruit and vegetable industry).
-  (2) Clause (i) of paragraph (1)(A) shall not apply to a State if all schools that meet the requirements of that clause have been selected and the State does not have a sufficient number of additional schools that meet the requirement of that clause.
-  (3) 
-    (A) Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
-    (B) In providing information to schools in accordance with subparagraph (A), a State agency shall inform the schools that would likely be chosen to participate in the program under paragraph (1)(B).
-(e) If selected to participate in the program, a school shall widely publicize within the school the availability of free fresh fruits and vegetables under the program.
-(f) The per-student grant provided to a school under this section shall be—
-  (1) determined by a State agency; and
-  (2) not less than $50, nor more than $75.
-(g) To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruits and vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
-(h) 
-  (1) The Secretary shall conduct an evaluation of the program, including a determination as to whether children experienced, as a result of participating in the program—
-    (A) increased consumption of fruits and vegetables;
-    (B) other dietary changes, such as decreased consumption of less nutritious foods; and
-    (C) such other outcomes as are considered appropriate by the Secretary.
-  (2) Not later than September 30, 2011 , the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under paragraph (1).
-(i) 
-  (1) Out of the funds made available under subsection (b)(2)(A) of section 612c–6 of title 7 , the Secretary shall use the following amounts to carry out this section:
-    (A) On October 1, 2008 , $40,000,000.
-    (B) On July 1, 2009 , $65,000,000.
-    (C) On July 1, 2010 , $101,000,000.
-    (D) On July 1, 2011 , $150,000,000.
-    (E) On July 1, 2012 , and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending the preceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
-  (2) In allocating funding made available under paragraph (1) among the States in accordance with subsection (c), the Secretary shall ensure that each State that received funding under section 1769(f) of this title on the day before the date of enactment of the Food, Conservation, and Energy Act of 2008 shall continue to receive sufficient funding under this section to maintain the caseload level of the State under that section as in effect on that date.
-  (3) On October 1, 2008 , out of any funds made available under subsection (b)(2)(A) of section 612c–6 of title 7 , the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010 .
-  (4) The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section any funds transferred for that purpose, without further appropriation.
-  (5) In addition to any other amounts made available to carry out this section, there are authorized to be appropriated such sums as are necessary to expand the program established under this section.
-  (6) 
-    (A) Of funds made available to carry out this section for a fiscal year, the Secretary may use not more than $500,000 for the administrative costs of carrying out the program.
-    (B) The Secretary shall allow each State to reserve such funding as the Secretary determines to be necessary to administer the program in the State (with adjustments for the size of the State and the grant amount), but not to exceed the amount required to pay the costs of 1 full-time coordinator for the program in the State.
-  (7) 
-    (A) The Secretary may reallocate any amounts made available to carry out this section that are not obligated or expended by a date determined by the Secretary.
-    (B) A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.
+- **(a)** For the school year beginning July 2008 and each subsequent school year, the Secretary shall provide grants to States to carry out a program to make free fresh fruits and vegetables available in elementary schools (referred to in this section as the “program”).
+- **(b)** A school participating in the program shall make free fresh fruits and vegetables available to students throughout the school day (or at such other times as are considered appropriate by the Secretary) in 1 or more areas designated by the school.
+- **(c)**
+  - **(1)** Except as provided in subsection (i)(2), the Secretary shall provide to each of the 50 States and the District of Columbia an annual grant in an amount equal to 1 percent of the funds made available for a year to carry out the program.
+  - **(2)** Of the funds remaining after grants are made under paragraph (1), the Secretary shall allocate additional funds to each State that is operating a school lunch program under section 1753 of this title based on the proportion that—
+    - **(A)** the population of the State; bears to
+    - **(B)** the population of the United States.
+- **(d)**
+  - **(1)** Except as provided in paragraph (2) of this subsection and section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, each year, in selecting schools to participate in the program, each State shall—
+    - **(A)** ensure that each school chosen to participate in the program is a school—
+      - **(i)** in which not less than 50 percent of the students are eligible for free or reduced price meals under this chapter; and
+      - **(ii)** that submits an application in accordance with subparagraph (D);
+    - **(B)** to the maximum extent practicable, give the highest priority to schools with the highest proportion of children who are eligible for free or reduced price meals under this chapter;
+    - **(C)** ensure that each school selected is an elementary school (as defined in section 7801 1 1 See References in Text note below. of title 20);
+    - **(D)** solicit applications from interested schools that include—
+      - **(i)** information pertaining to the percentage of students enrolled in the school submitting the application who are eligible for free or reduced price school lunches under this chapter;
+      - **(ii)** a certification of support for participation in the program signed by the school food manager, the school principal, and the district superintendent (or equivalent positions, as determined by the school);
+      - **(iii)** a plan for implementation of the program, including efforts to integrate activities carried out under this section with other efforts to promote sound health and nutrition, reduce overweight and obesity, or promote physical activity; and
+      - **(iv)** such other information as may be requested by the Secretary; and
+    - **(E)** encourage applicants to submit a plan for implementation of the program that includes a partnership with 1 or more entities that will provide non-Federal resources (including entities representing the fruit and vegetable industry).
+  - **(2)** Clause (i) of paragraph (1)(A) shall not apply to a State if all schools that meet the requirements of that clause have been selected and the State does not have a sufficient number of additional schools that meet the requirement of that clause.
+  - **(3)**
+    - **(A)** Prior to making decisions regarding school participation in the program, a State agency shall inform the schools within the State with the highest proportion of free and reduced price meal eligibility, including Native American schools, of the eligibility of the schools for the program with respect to priority granted to schools with the highest proportion of free and reduced price eligibility under paragraph (1)(B).
+    - **(B)** In providing information to schools in accordance with subparagraph (A), a State agency shall inform the schools that would likely be chosen to participate in the program under paragraph (1)(B).
+- **(e)** If selected to participate in the program, a school shall widely publicize within the school the availability of free fresh fruits and vegetables under the program.
+- **(f)** The per-student grant provided to a school under this section shall be—
+  - **(1)** determined by a State agency; and
+  - **(2)** not less than $50, nor more than $75.
+- **(g)** To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruits and vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 ( 42 U.S.C. 1771 et seq.).
+- **(h)**
+  - **(1)** The Secretary shall conduct an evaluation of the program, including a determination as to whether children experienced, as a result of participating in the program—
+    - **(A)** increased consumption of fruits and vegetables;
+    - **(B)** other dietary changes, such as decreased consumption of less nutritious foods; and
+    - **(C)** such other outcomes as are considered appropriate by the Secretary.
+  - **(2)** Not later than September 30, 2011 , the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under paragraph (1).
+- **(i)**
+  - **(1)** Out of the funds made available under subsection (b)(2)(A) of section 612c–6 of title 7 , the Secretary shall use the following amounts to carry out this section:
+    - **(A)** On October 1, 2008 , $40,000,000.
+    - **(B)** On July 1, 2009 , $65,000,000.
+    - **(C)** On July 1, 2010 , $101,000,000.
+    - **(D)** On July 1, 2011 , $150,000,000.
+    - **(E)** On July 1, 2012 , and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending the preceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
+  - **(2)** In allocating funding made available under paragraph (1) among the States in accordance with subsection (c), the Secretary shall ensure that each State that received funding under section 1769(f) of this title on the day before the date of enactment of the Food, Conservation, and Energy Act of 2008 shall continue to receive sufficient funding under this section to maintain the caseload level of the State under that section as in effect on that date.
+  - **(3)** On October 1, 2008 , out of any funds made available under subsection (b)(2)(A) of section 612c–6 of title 7 , the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010 .
+  - **(4)** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section any funds transferred for that purpose, without further appropriation.
+  - **(5)** In addition to any other amounts made available to carry out this section, there are authorized to be appropriated such sums as are necessary to expand the program established under this section.
+  - **(6)**
+    - **(A)** Of funds made available to carry out this section for a fiscal year, the Secretary may use not more than $500,000 for the administrative costs of carrying out the program.
+    - **(B)** The Secretary shall allow each State to reserve such funding as the Secretary determines to be necessary to administer the program in the State (with adjustments for the size of the State and the grant amount), but not to exceed the amount required to pay the costs of 1 full-time coordinator for the program in the State.
+  - **(7)**
+    - **(A)** The Secretary may reallocate any amounts made available to carry out this section that are not obligated or expended by a date determined by the Secretary.
+    - **(B)** A State that receives a grant under this section may reallocate any amounts made available under the grant that are not obligated or expended by a date determined by the Secretary.

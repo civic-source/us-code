@@ -5,7 +5,7 @@ usc_section: "153"
 chapter: 14
 current_through: "PL 119-73"
 classification: "35 U.S.C. § 153"
-generated_at: "2026-03-29T00:32:02.937Z"
+generated_at: "2026-03-29T02:14:28.409Z"
 ---
 
 # § 153. How issued

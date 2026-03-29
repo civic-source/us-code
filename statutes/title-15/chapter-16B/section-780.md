@@ -5,11 +5,11 @@ usc_section: "780"
 chapter: 16
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 780"
-generated_at: "2026-03-29T00:29:41.668Z"
+generated_at: "2026-03-29T02:11:34.136Z"
 ---
 
 # § 780. Office of Private Grievances and Redress
 
-(a) The Administrator shall establish and maintain an Office of Private Grievances and Redress, headed by a director, to receive and evaluate petitions filed in accordance with subsection (b) of this section, and to make recommendations to the Administrator for appropriate action.
-(b) Any person, adversely affected by any order, rule, or regulation issued by the Administrator in carrying out the functions assigned to him under this chapter, may petition the Administrator for special redress, relief, or other extraordinary assistance, apart from, or in addition to, any right or privilege to seek redress of grievances provided in section 766 of this title .
-(c) The Administrator shall submit to the Secretary for inclusion in the annual report required by section 7267 of title 42 a statement on the nature and number of the grievances which have been filed, and the action taken and relief provided, pursuant to this section; and he shall make recommendations to the Congress from time to time concerning legislative or administrative actions which may be taken to better assist persons adversely affected by the energy shortages and to distribute more equitably the burdens resulting from any measures adopted, or actions taken, by him.
+- **(a)** The Administrator shall establish and maintain an Office of Private Grievances and Redress, headed by a director, to receive and evaluate petitions filed in accordance with subsection (b) of this section, and to make recommendations to the Administrator for appropriate action.
+- **(b)** Any person, adversely affected by any order, rule, or regulation issued by the Administrator in carrying out the functions assigned to him under this chapter, may petition the Administrator for special redress, relief, or other extraordinary assistance, apart from, or in addition to, any right or privilege to seek redress of grievances provided in section 766 of this title .
+- **(c)** The Administrator shall submit to the Secretary for inclusion in the annual report required by section 7267 of title 42 a statement on the nature and number of the grievances which have been filed, and the action taken and relief provided, pursuant to this section; and he shall make recommendations to the Congress from time to time concerning legislative or administrative actions which may be taken to better assist persons adversely affected by the energy shortages and to distribute more equitably the burdens resulting from any measures adopted, or actions taken, by him.

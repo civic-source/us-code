@@ -5,16 +5,16 @@ usc_section: "101"
 chapter: 1
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 101"
-generated_at: "2026-03-29T00:33:13.662Z"
+generated_at: "2026-03-29T02:16:08.835Z"
 ---
 
 # § 101. Purpose
 
-(a) The national objectives of general welfare, economic growth and stability, and security of the United States require the development of transportation policies and programs that contribute to providing fast, safe, efficient, and convenient transportation at the lowest cost consistent with those and other national objectives, including the efficient use and conservation of the resources of the United States.
-(b) A Department of Transportation is necessary in the public interest and to—
-  (1) ensure the coordinated and effective administration of the transportation programs of the United States Government;
-  (2) make easier the development and improvement of coordinated transportation service to be provided by private enterprise to the greatest extent feasible;
-  (3) encourage cooperation of Federal, State, and local governments, carriers, labor, and other interested persons to achieve transportation objectives;
-  (4) stimulate technological advances in transportation, through research and development or otherwise;
-  (5) provide general leadership in identifying and solving transportation problems; and
-  (6) develop and recommend to the President and Congress transportation policies and programs to achieve transportation objectives considering the needs of the public, users, carriers, industry, labor, and national defense.
+- **(a)** The national objectives of general welfare, economic growth and stability, and security of the United States require the development of transportation policies and programs that contribute to providing fast, safe, efficient, and convenient transportation at the lowest cost consistent with those and other national objectives, including the efficient use and conservation of the resources of the United States.
+- **(b)** A Department of Transportation is necessary in the public interest and to—
+  - **(1)** ensure the coordinated and effective administration of the transportation programs of the United States Government;
+  - **(2)** make easier the development and improvement of coordinated transportation service to be provided by private enterprise to the greatest extent feasible;
+  - **(3)** encourage cooperation of Federal, State, and local governments, carriers, labor, and other interested persons to achieve transportation objectives;
+  - **(4)** stimulate technological advances in transportation, through research and development or otherwise;
+  - **(5)** provide general leadership in identifying and solving transportation problems; and
+  - **(6)** develop and recommend to the President and Congress transportation policies and programs to achieve transportation objectives considering the needs of the public, users, carriers, industry, labor, and national defense.

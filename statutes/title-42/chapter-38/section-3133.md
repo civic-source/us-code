@@ -5,25 +5,25 @@ usc_section: "3133"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3133"
-generated_at: "2026-03-29T00:32:53.826Z"
+generated_at: "2026-03-29T02:15:36.655Z"
 ---
 
 # § 3133. Coordination
 
-(a) The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, Indian tribes, and other appropriate planning and development organizations.
-(b) 
-  (1) To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
-  (2) 
-    (A) In addition to meetings described in paragraph (1), not later than 1 year after January 4, 2025 , and not less frequently than every 2 years thereafter, the Secretary shall convene a meeting with the Regional Commissions in furtherance of subsection (a).
-    (B) The attendees for a meeting convened under this paragraph shall consist of—
-      (i) the Secretary, acting through the Assistant Secretary of Commerce for Economic Development, serving as Chair;
-      (ii) the Federal Cochairpersons of the Regional Commissions, or their designees; and
-      (iii) the State Cochairpersons of the Regional Commissions, or their designees.
-    (C) The purposes of a meeting convened under this paragraph shall include—
-      (i) to enhance coordination between the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
-      (ii) to reduce duplication of efforts by the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
-      (iii) to develop best practices and strategies for fostering regional economic development; and
-      (iv) any other purposes as determined appropriate by the Secretary.
-    (D) Where applicable and pursuant to subparagraph (C), not later than 1 year after a meeting under this paragraph, the Secretary shall prepare and make publicly available a report detailing, at a minimum—
-      (i) the planned actions by the Economic Development Administration and the Regional Commissions to enhance coordination or reduce duplication of efforts and a timeline for implementing those actions; and
-      (ii) any best practices and strategies developed.
+- **(a)** The Secretary shall coordinate activities relating to the preparation and implementation of comprehensive economic development strategies under this chapter with Federal agencies carrying out other Federal programs, States, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+- **(b)**
+  - **(1)** To carry out subsection (a), or for any other purpose relating to economic development activities, the Secretary may convene meetings with Federal agencies, State and local governments, economic development districts, Indian tribes, and other appropriate planning and development organizations.
+  - **(2)**
+    - **(A)** In addition to meetings described in paragraph (1), not later than 1 year after January 4, 2025 , and not less frequently than every 2 years thereafter, the Secretary shall convene a meeting with the Regional Commissions in furtherance of subsection (a).
+    - **(B)** The attendees for a meeting convened under this paragraph shall consist of—
+      - **(i)** the Secretary, acting through the Assistant Secretary of Commerce for Economic Development, serving as Chair;
+      - **(ii)** the Federal Cochairpersons of the Regional Commissions, or their designees; and
+      - **(iii)** the State Cochairpersons of the Regional Commissions, or their designees.
+    - **(C)** The purposes of a meeting convened under this paragraph shall include—
+      - **(i)** to enhance coordination between the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+      - **(ii)** to reduce duplication of efforts by the Economic Development Administration and the Regional Commissions in carrying out economic development programs;
+      - **(iii)** to develop best practices and strategies for fostering regional economic development; and
+      - **(iv)** any other purposes as determined appropriate by the Secretary.
+    - **(D)** Where applicable and pursuant to subparagraph (C), not later than 1 year after a meeting under this paragraph, the Secretary shall prepare and make publicly available a report detailing, at a minimum—
+      - **(i)** the planned actions by the Economic Development Administration and the Regional Commissions to enhance coordination or reduce duplication of efforts and a timeline for implementing those actions; and
+      - **(ii)** any best practices and strategies developed.

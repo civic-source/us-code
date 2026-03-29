@@ -5,7 +5,7 @@ usc_section: "117b"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 117b"
-generated_at: "2026-03-29T00:06:10.881Z"
+generated_at: "2026-03-29T02:09:53.641Z"
 ---
 
 # § 117b. Transferred

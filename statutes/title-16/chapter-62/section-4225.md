@@ -5,11 +5,11 @@ usc_section: "4225"
 chapter: 62
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 4225"
-generated_at: "2026-03-29T00:29:52.835Z"
+generated_at: "2026-03-29T02:11:53.933Z"
 ---
 
 # § 4225. Rewards
 
-(a) Upon the recommendation of the Secretary, the Secretary of the Treasury may pay a reward to any person who furnishes information which leads to a civil penalty or a criminal conviction under this chapter.
-(b) The amount of a reward under this section shall be equal to not more than one-half of any criminal or civil penalty or fine with respect to which the reward is paid, or $25,000, whichever is less.
-(c) An officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.
+- **(a)** Upon the recommendation of the Secretary, the Secretary of the Treasury may pay a reward to any person who furnishes information which leads to a civil penalty or a criminal conviction under this chapter.
+- **(b)** The amount of a reward under this section shall be equal to not more than one-half of any criminal or civil penalty or fine with respect to which the reward is paid, or $25,000, whichever is less.
+- **(c)** An officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.

@@ -5,7 +5,7 @@ usc_section: "1429"
 chapter: 35
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1429"
-generated_at: "2026-03-29T00:28:57.996Z"
+generated_at: "2026-03-29T02:10:16.789Z"
 ---
 
 # § 1429. Determinations of Secretary as final and conclusive

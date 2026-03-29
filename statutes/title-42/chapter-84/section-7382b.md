@@ -5,14 +5,14 @@ usc_section: "7382b"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7382b"
-generated_at: "2026-03-29T00:32:54.024Z"
+generated_at: "2026-03-29T02:15:36.896Z"
 ---
 
 # § 7382b. Definitions
 
 As used in this subchapter—
 
-  (1) the term “elementary school” has the meaning provided by section 7801 of title 20 ;
-  (2) the term “local educational agency” has the meaning provided by section 7801 of title 20 ;
-  (3) the term “secondary school” has the meaning provided by section 7801 of title 20 ;
-  (4) the term “Secretary” means the Secretary of Energy.
+  - **(1)** the term “elementary school” has the meaning provided by section 7801 of title 20 ;
+  - **(2)** the term “local educational agency” has the meaning provided by section 7801 of title 20 ;
+  - **(3)** the term “secondary school” has the meaning provided by section 7801 of title 20 ;
+  - **(4)** the term “Secretary” means the Secretary of Energy.

@@ -5,10 +5,10 @@ usc_section: "9818"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9818"
-generated_at: "2026-03-29T00:32:54.165Z"
+generated_at: "2026-03-29T02:15:37.078Z"
 ---
 
 # § 9818. Coordination and eligibility
 
-(a) The Secretary shall take all necessary and appropriate steps to encourage Federal departments and agencies and State and local governments to make grants, provide technical assistance, enter into contracts, and generally support and cooperate with community development corporations and local cooperative associations.
-(b) Eligibility for assistance under other Federal programs shall not be denied to any applicant on the ground that it is a community development corporation or any other entity assisted under this subchapter.
+- **(a)** The Secretary shall take all necessary and appropriate steps to encourage Federal departments and agencies and State and local governments to make grants, provide technical assistance, enter into contracts, and generally support and cooperate with community development corporations and local cooperative associations.
+- **(b)** Eligibility for assistance under other Federal programs shall not be denied to any applicant on the ground that it is a community development corporation or any other entity assisted under this subchapter.

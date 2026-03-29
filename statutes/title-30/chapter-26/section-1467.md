@@ -5,14 +5,14 @@ usc_section: "1467"
 chapter: 26
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1467"
-generated_at: "2026-03-29T00:31:30.831Z"
+generated_at: "2026-03-29T02:14:11.267Z"
 ---
 
 # § 1467. Jurisdiction of courts
 
 The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. These courts may, at any time—
 
-  (1) enter restraining orders or prohibitions;
-  (2) issue warrants, process in rem, or other process;
-  (3) prescribe and accept satisfactory bonds or other security; and
-  (4) take such other actions as are in the interest of justice.
+  - **(1)** enter restraining orders or prohibitions;
+  - **(2)** issue warrants, process in rem, or other process;
+  - **(3)** prescribe and accept satisfactory bonds or other security; and
+  - **(4)** take such other actions as are in the interest of justice.

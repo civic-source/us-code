@@ -5,12 +5,12 @@ usc_section: "1192"
 chapter: 11
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1192"
-generated_at: "2026-03-29T00:28:59.972Z"
+generated_at: "2026-03-29T02:10:54.349Z"
 ---
 
 # § 1192. Discharge
 
 If the plan of the debtor is confirmed under section 1191(b) of this title , as soon as practicable after completion by the debtor of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided in section 1141(d)(1)(A) of this title , and all other debts allowed under section 503 of this title and provided for in the plan, except any debt—
 
-  (1) on which the last payment is due after the first 3 years of the plan, or such other time not to exceed 5 years fixed by the court; or
-  (2) of the kind specified in section 523(a) of this title .
+  - **(1)** on which the last payment is due after the first 3 years of the plan, or such other time not to exceed 5 years fixed by the court; or
+  - **(2)** of the kind specified in section 523(a) of this title .

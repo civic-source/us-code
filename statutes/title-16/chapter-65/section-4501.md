@@ -5,24 +5,24 @@ usc_section: "4501"
 chapter: 65
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 4501"
-generated_at: "2026-03-29T00:29:52.839Z"
+generated_at: "2026-03-29T02:11:53.937Z"
 ---
 
 # § 4501. Forestry and related natural resource assistance
 
-(a) To achieve the maximum impact from activities undertaken under the authority of this chapter, the Secretary shall focus such activities on the key countries which could have a substantial impact on emissions of greenhouse gases related to global warming.
-(b) In support of forestry and related natural resource activities outside of the United States and its territories and possessions, the Secretary of Agriculture may—
-  (1) provide assistance that promotes sustainable development and global environmental stability, including assistance for—
-    (A) conservation and sustainable management of forest land;
-    (B) forest plantation technology and tree improvement;
-    (C) rehabilitation of cutover lands, eroded watersheds, and areas damaged by wildfires or other natural disasters;
-    (D) prevention and control of insects, diseases, and other damaging agents;
-    (E) preparedness planning, training, and operational assistance to combat natural disasters;
-    (F) more complete utilization of forest products leading to resource conservation;
-    (G) range protection and enhancement; and
-    (H) wildlife and fisheries habitat protection and improvement;
-  (2) share technical, managerial, extension, and administrative skills related to public and private natural resource administration;
-  (3) provide education and training opportunities to promote the transfer and utilization of scientific information and technologies;
-  (4) engage in scientific exchange and cooperative research with foreign governmental, educational, technical and research institutions; and
-  (5) cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife and fisheries, and related natural resource activities.
-(c) The Secretary shall undertake the activities described in subsection (b), in countries that receive assistance from the Agency for International Development only at the request, or with the concurrence, of the Administrator of the Agency for International Development.
+- **(a)** To achieve the maximum impact from activities undertaken under the authority of this chapter, the Secretary shall focus such activities on the key countries which could have a substantial impact on emissions of greenhouse gases related to global warming.
+- **(b)** In support of forestry and related natural resource activities outside of the United States and its territories and possessions, the Secretary of Agriculture may—
+  - **(1)** provide assistance that promotes sustainable development and global environmental stability, including assistance for—
+    - **(A)** conservation and sustainable management of forest land;
+    - **(B)** forest plantation technology and tree improvement;
+    - **(C)** rehabilitation of cutover lands, eroded watersheds, and areas damaged by wildfires or other natural disasters;
+    - **(D)** prevention and control of insects, diseases, and other damaging agents;
+    - **(E)** preparedness planning, training, and operational assistance to combat natural disasters;
+    - **(F)** more complete utilization of forest products leading to resource conservation;
+    - **(G)** range protection and enhancement; and
+    - **(H)** wildlife and fisheries habitat protection and improvement;
+  - **(2)** share technical, managerial, extension, and administrative skills related to public and private natural resource administration;
+  - **(3)** provide education and training opportunities to promote the transfer and utilization of scientific information and technologies;
+  - **(4)** engage in scientific exchange and cooperative research with foreign governmental, educational, technical and research institutions; and
+  - **(5)** cooperate with domestic and international organizations that further international programs for the management and protection of forests, rangelands, wildlife and fisheries, and related natural resource activities.
+- **(c)** The Secretary shall undertake the activities described in subsection (b), in countries that receive assistance from the Agency for International Development only at the request, or with the concurrence, of the Administrator of the Agency for International Development.

@@ -5,13 +5,13 @@ usc_section: "2702"
 chapter: 29
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2702"
-generated_at: "2026-03-29T00:30:38.742Z"
+generated_at: "2026-03-29T02:13:20.948Z"
 ---
 
 # § 2702. Declaration of policy
 
 The purpose of this chapter is—
 
-  (1) to provide a statutory basis for the operation of gaming by Indian tribes as a means of promoting tribal economic development, self-sufficiency, and strong tribal governments;
-  (2) to provide a statutory basis for the regulation of gaming by an Indian tribe adequate to shield it from organized crime and other corrupting influences, to ensure that the Indian tribe is the primary beneficiary of the gaming operation, and to assure that gaming is conducted fairly and honestly by both the operator and players; and
-  (3) to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, and the establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.
+  - **(1)** to provide a statutory basis for the operation of gaming by Indian tribes as a means of promoting tribal economic development, self-sufficiency, and strong tribal governments;
+  - **(2)** to provide a statutory basis for the regulation of gaming by an Indian tribe adequate to shield it from organized crime and other corrupting influences, to ensure that the Indian tribe is the primary beneficiary of the gaming operation, and to assure that gaming is conducted fairly and honestly by both the operator and players; and
+  - **(3)** to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, and the establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.

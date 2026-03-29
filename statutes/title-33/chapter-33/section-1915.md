@@ -5,7 +5,7 @@ usc_section: "1915"
 chapter: 33
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1915"
-generated_at: "2026-03-29T00:31:57.389Z"
+generated_at: "2026-03-29T02:14:18.595Z"
 ---
 
 # § 1915. Repealed. Pub. L. 112–213, title VI, § 604(d) , Dec. 20, 2012 , 126 Stat. 1577

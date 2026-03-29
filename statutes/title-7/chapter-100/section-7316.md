@@ -5,10 +5,10 @@ usc_section: "7316"
 chapter: 100
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7316"
-generated_at: "2026-03-29T00:28:58.269Z"
+generated_at: "2026-03-29T02:10:17.124Z"
 ---
 
 # § 7316. Commission procedures
 
-(a) The Commission shall meet on a regular basis (as determined by the chairperson) and at the call of the chairperson or a majority of its members.
-(b) A majority of the members of the Commission shall constitute a quorum for the transaction of business.
+- **(a)** The Commission shall meet on a regular basis (as determined by the chairperson) and at the call of the chairperson or a majority of its members.
+- **(b)** A majority of the members of the Commission shall constitute a quorum for the transaction of business.

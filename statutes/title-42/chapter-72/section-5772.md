@@ -5,7 +5,7 @@ usc_section: "5772"
 chapter: 72
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5772"
-generated_at: "2026-03-29T00:32:53.932Z"
+generated_at: "2026-03-29T02:15:36.779Z"
 ---
 
 # § 5772. Transferred

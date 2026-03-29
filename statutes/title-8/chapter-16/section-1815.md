@@ -5,23 +5,23 @@ usc_section: "1815"
 chapter: 16
 current_through: "PL 119-73"
 classification: "8 U.S.C. § 1815"
-generated_at: "2026-03-29T00:06:34.308Z"
+generated_at: "2026-03-29T02:10:21.498Z"
 ---
 
 # § 1815. Inadmissible alien apprehension fee
 
-(a) In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), by any inadmissible alien at the time such alien is apprehended between ports of entry.
-(b) 
-  (1) For fiscal year 2025, the amount specified in this section shall be the greater of—
-    (A) $5,000; or
-    (B) such amount as the Secretary of Homeland Security may establish, by rule.
-  (2) During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
-    (A) the amount of the fee required under this subsection for the most recently concluded fiscal year; and
-    (B) the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
-(c) During each fiscal year—
-  (1) 50 percent of the fees collected pursuant to this section—
-    (A) shall be credited to U.S. Immigration and Customs Enforcement;
-    (B) shall be deposited into the Detention and Removal Office Fee Account; and
-    (C) may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
-  (2) any amounts collected pursuant to this section that are not credited to U.S. Immigration and Customs Enforcement pursuant to paragraph (1) shall be deposited into the general fund of the Treasury.
-(d) All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.
+- **(a)** In addition to any other fee authorized by law, the Secretary of Homeland Security shall require the payment of a fee, equal to the amount specified in subsection (b), by any inadmissible alien at the time such alien is apprehended between ports of entry.
+- **(b)**
+  - **(1)** For fiscal year 2025, the amount specified in this section shall be the greater of—
+    - **(A)** $5,000; or
+    - **(B)** such amount as the Secretary of Homeland Security may establish, by rule.
+  - **(2)** During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+    - **(A)** the amount of the fee required under this subsection for the most recently concluded fiscal year; and
+    - **(B)** the product resulting from the multiplication of the amount referred to in subparagraph (A) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+- **(c)** During each fiscal year—
+  - **(1)** 50 percent of the fees collected pursuant to this section—
+    - **(A)** shall be credited to U.S. Immigration and Customs Enforcement;
+    - **(B)** shall be deposited into the Detention and Removal Office Fee Account; and
+    - **(C)** may be retained and expended by U.S. Immigration and Customs Enforcement without further appropriation; and
+  - **(2)** any amounts collected pursuant to this section that are not credited to U.S. Immigration and Customs Enforcement pursuant to paragraph (1) shall be deposited into the general fund of the Treasury.
+- **(d)** All of the fees collected pursuant to this section shall be deposited into the general fund of the Treasury.

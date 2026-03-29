@@ -5,7 +5,7 @@ usc_section: "31316"
 chapter: 313
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 31316"
-generated_at: "2026-03-29T00:33:13.848Z"
+generated_at: "2026-03-29T02:16:08.983Z"
 ---
 
 # § 31316. Limitation on statutory construction

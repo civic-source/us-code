@@ -5,10 +5,10 @@ usc_section: "7425"
 chapter: 101
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7425"
-generated_at: "2026-03-29T00:28:58.275Z"
+generated_at: "2026-03-29T02:10:17.133Z"
 ---
 
 # § 7425. Authorization of appropriations
 
-(a) There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
-(b) Funds appropriated to carry out this subchapter may not be expended for the payment of expenses incurred by a board to administer an order.
+- **(a)** There are authorized to be appropriated such sums as may be necessary to carry out this subchapter.
+- **(b)** Funds appropriated to carry out this subchapter may not be expended for the payment of expenses incurred by a board to administer an order.

@@ -5,19 +5,19 @@ usc_section: "624"
 chapter: 5
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 624"
-generated_at: "2026-03-29T00:32:20.540Z"
+generated_at: "2026-03-29T02:14:58.784Z"
 ---
 
 # § 624. Information on certain leasing authorities
 
-(a) Except as provided in subsection (b), not later than December 31 of each year following the date of enactment of this subchapter, a Federal agency with independent leasing authority shall submit to the Council a list of all leases, including operating leases, in effect on the date of enactment of this subchapter that includes—
-  (1) the date on which each lease was executed;
-  (2) the date on which each lease will expire;
-  (3) a description of the size of the space;
-  (4) the location of the property;
-  (5) the tenant agency;
-  (6) the total annual rental payment; and
-  (7) the amount of the net present value of the total estimated legal obligations of the Federal Government over the life of the contract.
-(b) Subsection (a) shall not apply to—
-  (1) the United States Postal Service; or
-  (2) any other property the Director excludes from subsection (a) for reasons of national security.
+- **(a)** Except as provided in subsection (b), not later than December 31 of each year following the date of enactment of this subchapter, a Federal agency with independent leasing authority shall submit to the Council a list of all leases, including operating leases, in effect on the date of enactment of this subchapter that includes—
+  - **(1)** the date on which each lease was executed;
+  - **(2)** the date on which each lease will expire;
+  - **(3)** a description of the size of the space;
+  - **(4)** the location of the property;
+  - **(5)** the tenant agency;
+  - **(6)** the total annual rental payment; and
+  - **(7)** the amount of the net present value of the total estimated legal obligations of the Federal Government over the life of the contract.
+- **(b)** Subsection (a) shall not apply to—
+  - **(1)** the United States Postal Service; or
+  - **(2)** any other property the Director excludes from subsection (a) for reasons of national security.

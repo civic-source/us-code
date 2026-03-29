@@ -5,12 +5,12 @@ usc_section: "1592l"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1592l"
-generated_at: "2026-03-29T00:32:53.665Z"
+generated_at: "2026-03-29T02:15:36.480Z"
 ---
 
 # § 1592l. Authorization of appropriations
 
 There are authorized to be appropriated—
 
-(a) such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to community facilities and services in critical defense housing areas; and
-(b) such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to housing in critical defense housing areas.
+- **(a)** such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to community facilities and services in critical defense housing areas; and
+- **(b)** such sums, not exceeding $100,000,000, as may be necessary for carrying out the provisions and purposes of this subchapter relating to housing in critical defense housing areas.

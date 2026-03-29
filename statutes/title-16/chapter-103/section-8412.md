@@ -5,27 +5,27 @@ usc_section: "8412"
 chapter: 103
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 8412"
-generated_at: "2026-03-29T00:29:52.895Z"
+generated_at: "2026-03-29T02:11:54.011Z"
 ---
 
 # § 8412. Identifying opportunities for recreation
 
-(a) 
-  (1) The Secretary concerned shall—
-    (A) conduct an inventory and assessment of recreation resources for Federal recreational lands and waters;
-    (B) develop the inventory and assessment with support from public comment; and
-    (C) update the inventory and assessment as the Secretary concerned determines appropriate.
-  (2) An inventory and assessment conducted under paragraph (1) shall—
-    (A) recognize—
-      (i) any unique recreation values and recreation opportunities; and
-      (ii) areas of concentrated recreational use; and
-    (B) identify, list, and map recreation resources by—
-      (i) type of recreation opportunity and type of natural or artificial recreation infrastructure;
-      (ii) to the extent available, the level of use of the recreation resource as of the date of the inventory; and
-      (iii) identifying, to the extent practicable, any trend relating to recreation opportunities or use at a recreation resource identified under subparagraph (A).
-  (3) For any recreation resource inventoried under paragraph (1), the Secretary concerned shall assess—
-    (A) the maintenance needs of, and expenses necessary to administer, the recreation resource;
-    (B) the suitability for developing, expanding, or enhancing the recreation resource; and
-    (C) the adequacy of the current management of the recreation resource.
-(b) To the extent practicable, the Secretary concerned shall use or incorporate existing applicable research and planning decisions and processes in carrying out this section.
-(c) 
+- **(a)**
+  - **(1)** The Secretary concerned shall—
+    - **(A)** conduct an inventory and assessment of recreation resources for Federal recreational lands and waters;
+    - **(B)** develop the inventory and assessment with support from public comment; and
+    - **(C)** update the inventory and assessment as the Secretary concerned determines appropriate.
+  - **(2)** An inventory and assessment conducted under paragraph (1) shall—
+    - **(A)** recognize—
+      - **(i)** any unique recreation values and recreation opportunities; and
+      - **(ii)** areas of concentrated recreational use; and
+    - **(B)** identify, list, and map recreation resources by—
+      - **(i)** type of recreation opportunity and type of natural or artificial recreation infrastructure;
+      - **(ii)** to the extent available, the level of use of the recreation resource as of the date of the inventory; and
+      - **(iii)** identifying, to the extent practicable, any trend relating to recreation opportunities or use at a recreation resource identified under subparagraph (A).
+  - **(3)** For any recreation resource inventoried under paragraph (1), the Secretary concerned shall assess—
+    - **(A)** the maintenance needs of, and expenses necessary to administer, the recreation resource;
+    - **(B)** the suitability for developing, expanding, or enhancing the recreation resource; and
+    - **(C)** the adequacy of the current management of the recreation resource.
+- **(b)** To the extent practicable, the Secretary concerned shall use or incorporate existing applicable research and planning decisions and processes in carrying out this section.
+- **(c)**

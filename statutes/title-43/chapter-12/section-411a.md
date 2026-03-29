@@ -5,7 +5,7 @@ usc_section: "411a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 411a"
-generated_at: "2026-03-29T00:32:57.342Z"
+generated_at: "2026-03-29T02:15:47.540Z"
 ---
 
 # § 411a. Repealed. Feb. 28, 1929, ch. 374, § 2 , 45 Stat. 1406

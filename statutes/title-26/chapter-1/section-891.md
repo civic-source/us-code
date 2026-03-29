@@ -5,7 +5,7 @@ usc_section: "891"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 891"
-generated_at: "2026-03-29T00:31:20.837Z"
+generated_at: "2026-03-29T02:14:01.071Z"
 ---
 
 # § 891. Doubling of rates of tax on citizens and corporations of certain foreign countries

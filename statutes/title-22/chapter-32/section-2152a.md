@@ -5,7 +5,7 @@ usc_section: "2152a"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2152a"
-generated_at: "2026-03-29T00:30:33.763Z"
+generated_at: "2026-03-29T02:12:40.033Z"
 ---
 
 # § 2152a. Repealed. Pub. L. 108–484, § 8(a) , Dec. 23, 2004 , 118 Stat. 3931

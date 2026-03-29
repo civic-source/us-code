@@ -5,22 +5,22 @@ usc_section: "6625"
 chapter: 79
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6625"
-generated_at: "2026-03-29T00:32:53.981Z"
+generated_at: "2026-03-29T02:15:36.837Z"
 ---
 
 # § 6625. Coordination of international science and technology partnerships
 
-(a) This section may be cited as the “International Science and Technology Cooperation Act of 2016”.
-(b) The Director of the Office of Science and Technology Policy shall establish a body under the National Science and Technology Council with the responsibility to identify and coordinate international science and technology cooperation that can strengthen the United States science and technology enterprise, improve economic and national security, and support United States foreign policy goals.
-(c) The body established under subsection (b) shall be co-chaired by senior level officials from the Office of Science and Technology Policy and the Department of State.
-(d) The body established under subsection (b) shall—
-  (1) plan and coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies;
-  (2) work with other National Science and Technology Council committees to help plan and coordinate the international component of national science and technology priorities;
-  (3) establish Federal priorities and policies for aligning, as appropriate, international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies with the foreign policy goals of the United States;
-  (4) identify opportunities for new international science and technology cooperative research and training partnerships that advance both the science and technology and the foreign policy priorities of the United States;
-  (5) in carrying out paragraph (4), solicit input and recommendations from non-Federal science and technology stakeholders, including institutions of higher education, scientific and professional societies, industry, and other relevant organizations and institutions; and
-  (6) identify broad issues that influence the ability of United States scientists and engineers to collaborate with foreign counterparts, including barriers to collaboration and access to scientific information.
-(e) The Director of the Office of Science and Technology Policy shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a biennial report on the requirements of this section.
-(f) The Director shall make each report available to the public on the Office of Science and Technology Policy website.
-(g) The body established under subsection (b) shall terminate on the date that is 10 years after January 6, 2017 .
-(h) The Director of the Office of Science and Technology Policy shall submit, not later than 60 days after January 6, 2017 , and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.
+- **(a)** This section may be cited as the “International Science and Technology Cooperation Act of 2016”.
+- **(b)** The Director of the Office of Science and Technology Policy shall establish a body under the National Science and Technology Council with the responsibility to identify and coordinate international science and technology cooperation that can strengthen the United States science and technology enterprise, improve economic and national security, and support United States foreign policy goals.
+- **(c)** The body established under subsection (b) shall be co-chaired by senior level officials from the Office of Science and Technology Policy and the Department of State.
+- **(d)** The body established under subsection (b) shall—
+  - **(1)** plan and coordinate interagency international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies;
+  - **(2)** work with other National Science and Technology Council committees to help plan and coordinate the international component of national science and technology priorities;
+  - **(3)** establish Federal priorities and policies for aligning, as appropriate, international science and technology cooperative research and training activities and partnerships supported or managed by Federal agencies with the foreign policy goals of the United States;
+  - **(4)** identify opportunities for new international science and technology cooperative research and training partnerships that advance both the science and technology and the foreign policy priorities of the United States;
+  - **(5)** in carrying out paragraph (4), solicit input and recommendations from non-Federal science and technology stakeholders, including institutions of higher education, scientific and professional societies, industry, and other relevant organizations and institutions; and
+  - **(6)** identify broad issues that influence the ability of United States scientists and engineers to collaborate with foreign counterparts, including barriers to collaboration and access to scientific information.
+- **(e)** The Director of the Office of Science and Technology Policy shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a biennial report on the requirements of this section.
+- **(f)** The Director shall make each report available to the public on the Office of Science and Technology Policy website.
+- **(g)** The body established under subsection (b) shall terminate on the date that is 10 years after January 6, 2017 .
+- **(h)** The Director of the Office of Science and Technology Policy shall submit, not later than 60 days after January 6, 2017 , and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.

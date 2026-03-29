@@ -5,7 +5,7 @@ usc_section: "1707d"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1707d"
-generated_at: "2026-03-29T00:28:58.044Z"
+generated_at: "2026-03-29T02:10:16.847Z"
 ---
 
 # §§ 1707b to 1707d. Omitted

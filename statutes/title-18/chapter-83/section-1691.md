@@ -5,7 +5,7 @@ usc_section: "1691"
 chapter: 83
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1691"
-generated_at: "2026-03-29T00:30:15.676Z"
+generated_at: "2026-03-29T02:12:02.421Z"
 ---
 
 # § 1691. Laws governing postal savings

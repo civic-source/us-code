@@ -5,7 +5,7 @@ usc_section: "2579"
 chapter: 35
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2579"
-generated_at: "2026-03-29T00:30:33.827Z"
+generated_at: "2026-03-29T02:12:40.099Z"
 ---
 
 # § 2579. Omitted

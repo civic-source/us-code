@@ -5,16 +5,16 @@ usc_section: "3262"
 chapter: 47
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3262"
-generated_at: "2026-03-29T00:30:33.874Z"
+generated_at: "2026-03-29T02:12:40.279Z"
 ---
 
 # § 3262. Programs
 
-(a) The United States shall initiate a program, consistent with the aims of section 3261 of this title , to cooperate with developing countries for the purpose of—
-  (1) meeting the energy needs required for the development of such countries;
-  (2) reducing the dependence of such countries on petroleum fuels, with emphasis given to utilizing solar and other renewable energy resources; and
-  (3) expanding the energy alternatives available to such countries.
-(b) Such program shall include cooperation in evaluating the energy alternatives of developing countries, facilitating international trade in energy commodities, developing energy resources, and applying suitable energy technologies. The program shall include both general and country-specific energy assessments and cooperative projects in resource exploration and production, training, research and development.
-(c) As an integral part of such program, the Department of Energy, under the general policy guidance of the Department of State and in cooperation with the Agency for International Development and other Federal agencies as appropriate, shall initiate, as soon as practicable, a program for the exchange of United States scientists, technicians, and energy experts with those of developing countries to implement the purposes of this section.
-(d) For the purposes of carrying out this section, there is authorized to be appropriated such sums as are contained in annual authorization Acts for the Department of Energy, including such sums which have been authorized for such purposes under previous legislation.
-(e) Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2), 1 1 See References in Text note below. and 2151q 1 of this title.
+- **(a)** The United States shall initiate a program, consistent with the aims of section 3261 of this title , to cooperate with developing countries for the purpose of—
+  - **(1)** meeting the energy needs required for the development of such countries;
+  - **(2)** reducing the dependence of such countries on petroleum fuels, with emphasis given to utilizing solar and other renewable energy resources; and
+  - **(3)** expanding the energy alternatives available to such countries.
+- **(b)** Such program shall include cooperation in evaluating the energy alternatives of developing countries, facilitating international trade in energy commodities, developing energy resources, and applying suitable energy technologies. The program shall include both general and country-specific energy assessments and cooperative projects in resource exploration and production, training, research and development.
+- **(c)** As an integral part of such program, the Department of Energy, under the general policy guidance of the Department of State and in cooperation with the Agency for International Development and other Federal agencies as appropriate, shall initiate, as soon as practicable, a program for the exchange of United States scientists, technicians, and energy experts with those of developing countries to implement the purposes of this section.
+- **(d)** For the purposes of carrying out this section, there is authorized to be appropriated such sums as are contained in annual authorization Acts for the Department of Energy, including such sums which have been authorized for such purposes under previous legislation.
+- **(e)** Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2), 1 1 See References in Text note below. and 2151q 1 of this title.

@@ -5,12 +5,12 @@ usc_section: "30"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 30"
-generated_at: "2026-03-29T00:32:57.332Z"
+generated_at: "2026-03-29T02:15:47.531Z"
 ---
 
 # § 390h–30. South Santa Clara County recycled water project
 
-(a) The Secretary, in cooperation with the South County Regional Wastewater Authority and the Santa Clara Valley Water District, is authorized to participate in the design, planning, and construction of recycled water system distribution facilities.
-(b) The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
-(c) The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
-(d) There is authorized to be appropriated to carry out this section $7,000,000.
+- **(a)** The Secretary, in cooperation with the South County Regional Wastewater Authority and the Santa Clara Valley Water District, is authorized to participate in the design, planning, and construction of recycled water system distribution facilities.
+- **(b)** The Federal share of the cost of the project authorized by this section shall not exceed 25 percent of the total cost of the project.
+- **(c)** The Secretary shall not provide funds for the operation and maintenance of the project authorized by this section.
+- **(d)** There is authorized to be appropriated to carry out this section $7,000,000.

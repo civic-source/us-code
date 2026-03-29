@@ -5,32 +5,32 @@ usc_section: "1141"
 chapter: 22
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1141"
-generated_at: "2026-03-29T00:29:41.681Z"
+generated_at: "2026-03-29T02:11:34.154Z"
 ---
 
 # § 1141. Definitions
 
 In this subchapter:
 
-  (1) The term “basic application” means the application for the registration of a mark that has been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
-  (2) The term “basic registration” means the registration of a mark that has been granted by an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
-  (3) The term “Contracting Party” means any country or inter-governmental organization that is a party to the Madrid Protocol.
-  (4) The term “date of recordal” means the date on which a request for extension of protection, filed after an international registration is granted, is recorded on the International Register.
-  (5) The term “declaration of bona fide intention to use the mark in commerce” means a declaration that is signed by the applicant for, or holder of, an international registration who is seeking extension of protection of a mark to the United States and that contains a statement that—
-    (A) the applicant or holder has a bona fide intention to use the mark in commerce;
-    (B) the person making the declaration believes himself or herself, or the firm, corporation, or association in whose behalf he or she makes the declaration, to be entitled to use the mark in commerce; and
-    (C) no other person, firm, corporation, or association, to the best of his or her knowledge and belief, has the right to use such mark in commerce either in the identical form of the mark or in such near resemblance to the mark as to be likely, when used on or in connection with the goods of such other person, firm, corporation, or association, to cause confusion, mistake, or deception.
-  (6) The term “extension of protection” means the protection resulting from an international registration that extends to the United States at the request of the holder of the international registration, in accordance with the Madrid Protocol.
-  (7) A “holder” of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
-  (8) The term “international application” means an application for international registration that is filed under the Madrid Protocol.
-  (9) The term “International Bureau” means the International Bureau of the World Intellectual Property Organization.
-  (10) The term “International Register” means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
-  (11) The term “international registration” means the registration of a mark granted under the Madrid Protocol.
-  (12) The term “international registration date” means the date assigned to the international registration by the International Bureau.
-  (13) The term “Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid, Spain, on June 27, 1989 .
-  (14) The term “notification of refusal” means the notice sent by the United States Patent and Trademark Office to the International Bureau declaring that an extension of protection cannot be granted.
-  (15) The term “Office of a Contracting Party” means—
-    (A) the office, or governmental entity, of a Contracting Party that is responsible for the registration of marks; or
-    (B) the common office, or governmental entity, of more than 1 Contracting Party that is responsible for the registration of marks and is so recognized by the International Bureau.
-  (16) The term “office of origin” means the Office of a Contracting Party with which a basic application was filed or by which a basic registration was granted.
-  (17) The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title .
+  - **(1)** The term “basic application” means the application for the registration of a mark that has been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+  - **(2)** The term “basic registration” means the registration of a mark that has been granted by an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+  - **(3)** The term “Contracting Party” means any country or inter-governmental organization that is a party to the Madrid Protocol.
+  - **(4)** The term “date of recordal” means the date on which a request for extension of protection, filed after an international registration is granted, is recorded on the International Register.
+  - **(5)** The term “declaration of bona fide intention to use the mark in commerce” means a declaration that is signed by the applicant for, or holder of, an international registration who is seeking extension of protection of a mark to the United States and that contains a statement that—
+    - **(A)** the applicant or holder has a bona fide intention to use the mark in commerce;
+    - **(B)** the person making the declaration believes himself or herself, or the firm, corporation, or association in whose behalf he or she makes the declaration, to be entitled to use the mark in commerce; and
+    - **(C)** no other person, firm, corporation, or association, to the best of his or her knowledge and belief, has the right to use such mark in commerce either in the identical form of the mark or in such near resemblance to the mark as to be likely, when used on or in connection with the goods of such other person, firm, corporation, or association, to cause confusion, mistake, or deception.
+  - **(6)** The term “extension of protection” means the protection resulting from an international registration that extends to the United States at the request of the holder of the international registration, in accordance with the Madrid Protocol.
+  - **(7)** A “holder” of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
+  - **(8)** The term “international application” means an application for international registration that is filed under the Madrid Protocol.
+  - **(9)** The term “International Bureau” means the International Bureau of the World Intellectual Property Organization.
+  - **(10)** The term “International Register” means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
+  - **(11)** The term “international registration” means the registration of a mark granted under the Madrid Protocol.
+  - **(12)** The term “international registration date” means the date assigned to the international registration by the International Bureau.
+  - **(13)** The term “Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid, Spain, on June 27, 1989 .
+  - **(14)** The term “notification of refusal” means the notice sent by the United States Patent and Trademark Office to the International Bureau declaring that an extension of protection cannot be granted.
+  - **(15)** The term “Office of a Contracting Party” means—
+    - **(A)** the office, or governmental entity, of a Contracting Party that is responsible for the registration of marks; or
+    - **(B)** the common office, or governmental entity, of more than 1 Contracting Party that is responsible for the registration of marks and is so recognized by the International Bureau.
+  - **(16)** The term “office of origin” means the Office of a Contracting Party with which a basic application was filed or by which a basic registration was granted.
+  - **(17)** The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title .

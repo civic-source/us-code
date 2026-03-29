@@ -5,7 +5,7 @@ usc_section: "4302a"
 chapter: 43
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 4302a"
-generated_at: "2026-03-29T00:28:38.325Z"
+generated_at: "2026-03-29T02:10:01.837Z"
 ---
 
 # [§ 4302a. Repealed. Pub. L. 103–89, § 3(b)(1)(B)(i) , Sept. 30, 1993 , 107 Stat. 981 ]

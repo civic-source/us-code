@@ -5,7 +5,7 @@ usc_section: "1654"
 chapter: 81
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1654"
-generated_at: "2026-03-29T00:30:15.676Z"
+generated_at: "2026-03-29T02:12:02.421Z"
 ---
 
 # § 1654. Arming or serving on privateers

@@ -1,0 +1,14 @@
+---
+title: "Section 7911 - Prohibition on nationwide database"
+usc_title: 20
+usc_section: "7911"
+chapter: 70
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 7911"
+generated_at: "2026-03-29T02:12:17.508Z"
+---
+
+# § 7911. Prohibition on nationwide database
+
+Nothing in this chapter (other than section 6398(b) of this title ) shall be construed to authorize the development of a nationwide database of personally identifiable information on individuals involved in studies or other collections of data under this chapter.
+

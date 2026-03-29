@@ -5,7 +5,7 @@ usc_section: "2291k"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2291k"
-generated_at: "2026-03-29T00:30:33.781Z"
+generated_at: "2026-03-29T02:12:40.052Z"
 ---
 
 # § 2291k. Repealed. Pub. L. 104–66, title I, § 1112(b) , Dec. 21, 1995 , 109 Stat. 724

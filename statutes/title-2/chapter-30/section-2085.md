@@ -1,0 +1,14 @@
+---
+title: "Section 2085 - Advisory boards"
+usc_title: 2
+usc_section: "2085"
+chapter: 30
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 2085"
+generated_at: "2026-03-29T02:09:53.756Z"
+---
+
+# § 2085. Advisory boards
+
+The Commission may establish appropriate boards to provide advice and assistance to the Commission and to further the purposes of the Commission. The boards shall be composed of members (including chairmen) who shall be appointed by the Commission from public and private life and shall serve at the pleasure of the Commission and each co-chairman of the Commission may appoint one member to any such board. The members of boards under this section may be reimbursed for actual and necessary expenses incurred in the performance of the duties of the boards, at the discretion of the Commission.
+

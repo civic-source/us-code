@@ -5,7 +5,7 @@ usc_section: "4355"
 chapter: 44
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 4355"
-generated_at: "2026-03-29T00:30:38.786Z"
+generated_at: "2026-03-29T02:13:21.000Z"
 ---
 
 # § 4355. Effect

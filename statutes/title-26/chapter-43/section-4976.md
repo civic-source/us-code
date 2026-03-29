@@ -5,20 +5,20 @@ usc_section: "4976"
 chapter: 43
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4976"
-generated_at: "2026-03-29T00:31:20.969Z"
+generated_at: "2026-03-29T02:14:01.237Z"
 ---
 
 # § 4976. Taxes with respect to funded welfare benefit plans
 
-(a) If—
-  (1) an employer maintains a welfare benefit fund, and
-  (2) there is a disqualified benefit provided during any taxable year,
-(b) For purposes of subsection (a)—
-  (1) The term “disqualified benefit” means—
-    (A) any post-retirement medical benefit or life insurance benefit provided with respect to a key employee if a separate account is required to be established for such employee under section 419A(d) and such payment is not from such account,
-    (B) any post-retirement medical benefit or life insurance benefit provided with respect to an individual in whose favor discrimination is prohibited unless the plan meets the requirements of section 505(b) with respect to such benefit (whether or not such requirements apply to such plan), and
-    (C) any portion of a welfare benefit fund reverting to the benefit of the employer.
-  (2) Paragraph (1)(B) shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that the benefits referred to in paragraph (1)(B) were the subject of good faith bargaining between such employee representatives and such employer or employers.
-  (3) Paragraph (1)(C) shall not apply to any amount attributable to a contribution to the fund which is not allowable as a deduction under section 419 for the taxable year or any prior taxable year (and such contribution shall not be included in any carryover under section 419(d)).
-  (4) Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefits charged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
-(c) For purposes of this section, the terms used in this section shall have the same respective meanings as when used in subpart D of part I of subchapter D of chapter 1.
+- **(a)** If—
+  - **(1)** an employer maintains a welfare benefit fund, and
+  - **(2)** there is a disqualified benefit provided during any taxable year,
+- **(b)** For purposes of subsection (a)—
+  - **(1)** The term “disqualified benefit” means—
+    - **(A)** any post-retirement medical benefit or life insurance benefit provided with respect to a key employee if a separate account is required to be established for such employee under section 419A(d) and such payment is not from such account,
+    - **(B)** any post-retirement medical benefit or life insurance benefit provided with respect to an individual in whose favor discrimination is prohibited unless the plan meets the requirements of section 505(b) with respect to such benefit (whether or not such requirements apply to such plan), and
+    - **(C)** any portion of a welfare benefit fund reverting to the benefit of the employer.
+  - **(2)** Paragraph (1)(B) shall not apply to any plan maintained pursuant to an agreement between employee representatives and 1 or more employers if the Secretary finds that such agreement is a collective bargaining agreement and that the benefits referred to in paragraph (1)(B) were the subject of good faith bargaining between such employee representatives and such employer or employers.
+  - **(3)** Paragraph (1)(C) shall not apply to any amount attributable to a contribution to the fund which is not allowable as a deduction under section 419 for the taxable year or any prior taxable year (and such contribution shall not be included in any carryover under section 419(d)).
+  - **(4)** Subparagraphs (A) and (B) of paragraph (1) shall not apply to post-retirement benefits charged against an existing reserve for post-retirement medical or life insurance benefits (as defined in section 512(a)(3)(E)) or charged against the income on such reserve.
+- **(c)** For purposes of this section, the terms used in this section shall have the same respective meanings as when used in subpart D of part I of subchapter D of chapter 1.

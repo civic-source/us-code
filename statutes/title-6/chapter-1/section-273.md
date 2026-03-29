@@ -1,0 +1,20 @@
+---
+title: "Section 273 - Professional responsibility and quality review"
+usc_title: 6
+usc_section: "273"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 273"
+generated_at: "2026-03-29T02:10:04.980Z"
+---
+
+# § 273. Professional responsibility and quality review
+
+- **(a)** The Director of the Bureau of Citizenship and Immigration Services shall be responsible for—
+  - **(1)** conducting investigations of noncriminal allegations of misconduct, corruption, and fraud involving any employee of the Bureau of Citizenship and Immigration Services that are not subject to investigation by the Inspector General for the Department;
+  - **(2)** inspecting the operations of the Bureau of Citizenship and Immigration Services and providing assessments of the quality of the operations of such bureau as a whole and each of its components; and
+  - **(3)** providing an analysis of the management of the Bureau of Citizenship and Immigration Services.
+- **(b)** In providing assessments in accordance with subsection (a)(2) with respect to a decision of the Bureau of Citizenship and Immigration Services, or any of its components, consideration shall be given to—
+  - **(1)** the accuracy of the findings of fact and conclusions of law used in rendering the decision;
+  - **(2)** any fraud or misrepresentation associated with the decision; and
+  - **(3)** the efficiency with which the decision was rendered.

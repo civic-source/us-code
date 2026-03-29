@@ -5,7 +5,7 @@ usc_section: "14331"
 chapter: 137
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14331"
-generated_at: "2026-03-29T00:32:54.337Z"
+generated_at: "2026-03-29T02:15:37.280Z"
 ---
 
 # § 14331. Purpose

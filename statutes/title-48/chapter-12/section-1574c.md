@@ -5,7 +5,7 @@ usc_section: "1574c"
 chapter: 12
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1574c"
-generated_at: "2026-03-29T00:33:06.628Z"
+generated_at: "2026-03-29T02:16:00.813Z"
 ---
 
 # § 1574c. Priority for payment of principal and interest of revenue bonds or other obligations

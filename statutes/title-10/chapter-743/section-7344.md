@@ -5,13 +5,13 @@ usc_section: "7344"
 chapter: 743
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7344"
-generated_at: "2026-03-29T00:20:53.195Z"
+generated_at: "2026-03-29T02:10:45.276Z"
 ---
 
 # § 7344. Higher grade after 30 years of service: warrant officers and enlisted members
 
-(a) Each retired member of the Army covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Army.
-(b) This section applies to—
-  (1) warrant officers of the Army;
-  (2) enlisted members of the Regular Army; and
-  (3) reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).
+- **(a)** Each retired member of the Army covered by subsection (b) who is retired with less than 30 years of active service is entitled, when his active service plus his service on the retired list totals 30 years, to be advanced on the retired list to the highest grade in which he served on active duty satisfactorily (or, in the case of a member of the National Guard, in which he served on full-time duty satisfactorily), as determined by the Secretary of the Army.
+- **(b)** This section applies to—
+  - **(1)** warrant officers of the Army;
+  - **(2)** enlisted members of the Regular Army; and
+  - **(3)** reserve enlisted members of the Army who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time National Guard duty).

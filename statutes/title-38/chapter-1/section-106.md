@@ -5,28 +5,28 @@ usc_section: "106"
 chapter: 1
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 106"
-generated_at: "2026-03-29T00:32:17.134Z"
+generated_at: "2026-03-29T02:14:50.326Z"
 ---
 
 # § 106. Certain service deemed to be active service
 
-(a) 
-  (1) Service as a member of the Women’s Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943 , was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women’s Army Auxiliary Corps or the Women’s Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
-  (2) Any person entitled to compensation or pension by reason of this subsection and to employees’ compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
-(b) Any person—
-  (1) who has applied for enlistment or enrollment in the active military, naval, air, or space service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
-  (2) who has been selected or drafted for service in the Armed Forces and has reported pursuant to the call of the person’s local draft board and before rejection; or
-  (3) who has been called into the Federal service as a member of the National Guard, but has not been enrolled for the Federal service; and
-(c) For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual’s home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
-(d) 
-  (1) For the purposes of this title, any individual—
-    (A) who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
-    (B) who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
-  (2) In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
-  (3) Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
-  (4) For purposes of this subsection, the term “covered disease” means any of the following:
-    (A) Acute myocardial infarction.
-    (B) A cardiac arrest.
-    (C) A cerebrovascular accident.
-(e) Each person who has incurred a disability as a result of an injury or disease described in subsection (b) shall be entitled to the same rights, privileges, and benefits under title 5 as a preference eligible described in section 2108(3)(C) of title 5 .
-(f) Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.
+- **(a)**
+  - **(1)** Service as a member of the Women’s Army Auxiliary Corps for ninety days or more by any woman who before October 1, 1943 , was honorably discharged for disability incurred or aggravated in line of duty which rendered her physically unfit to perform further service in the Women’s Army Auxiliary Corps or the Women’s Army Corps shall be considered active duty for the purposes of all laws administered by the Secretary.
+  - **(2)** Any person entitled to compensation or pension by reason of this subsection and to employees’ compensation based upon the same service under subchapter I of chapter 81 of title 5 must elect which benefit she will receive.
+- **(b)** Any person—
+  - **(1)** who has applied for enlistment or enrollment in the active military, naval, air, or space service and has been provisionally accepted and directed or ordered to report to a place for final acceptance into such service; or
+  - **(2)** who has been selected or drafted for service in the Armed Forces and has reported pursuant to the call of the person’s local draft board and before rejection; or
+  - **(3)** who has been called into the Federal service as a member of the National Guard, but has not been enrolled for the Federal service; and
+- **(c)** For the purposes of this title, an individual discharged or released from a period of active duty shall be deemed to have continued on active duty during the period of time immediately following the date of such discharge or release from such duty determined by the Secretary concerned to have been required for that individual to proceed to that individual’s home by the most direct route, and in any event that individual shall be deemed to have continued on active duty until midnight of the date of such discharge or release.
+- **(d)**
+  - **(1)** For the purposes of this title, any individual—
+    - **(A)** who, when authorized or required by competent authority, assumes an obligation to perform active duty for training or inactive duty training; and
+    - **(B)** who is disabled or dies from an injury or covered disease incurred while proceeding directly to or returning directly from such active duty for training or inactive duty training, as the case may be;
+  - **(2)** In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such individual was disabled or died from injury or covered disease so incurred, the Secretary shall take into account the hour on which such individual began so to proceed or to return; the hour on which such individual was scheduled to arrive for, or on which such individual ceased to perform, such duty; the method of travel employed; the itinerary; the manner in which the travel was performed; and the immediate cause of disability or death.
+  - **(3)** Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
+  - **(4)** For purposes of this subsection, the term “covered disease” means any of the following:
+    - **(A)** Acute myocardial infarction.
+    - **(B)** A cardiac arrest.
+    - **(C)** A cerebrovascular accident.
+- **(e)** Each person who has incurred a disability as a result of an injury or disease described in subsection (b) shall be entitled to the same rights, privileges, and benefits under title 5 as a preference eligible described in section 2108(3)(C) of title 5 .
+- **(f)** Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001, shall be considered active duty for purposes of all laws administered by the Secretary.

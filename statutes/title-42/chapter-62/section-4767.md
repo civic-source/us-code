@@ -5,12 +5,12 @@ usc_section: "4767"
 chapter: 62
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4767"
-generated_at: "2026-03-29T00:32:53.880Z"
+generated_at: "2026-03-29T02:15:36.717Z"
 ---
 
 # § 4767. Termination of grants
 
 Whenever the Office, after giving reasonable notice and opportunity for hearing to the State or general local government concerned, finds—
 
-  (1) that a program or project has been so changed that it no longer complies with the provisions of this chapter; or
-  (2) that in the operation of the program or project there is a failure to comply substantially with any such provision;
+  - **(1)** that a program or project has been so changed that it no longer complies with the provisions of this chapter; or
+  - **(2)** that in the operation of the program or project there is a failure to comply substantially with any such provision;

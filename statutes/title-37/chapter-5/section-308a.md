@@ -5,7 +5,7 @@ usc_section: "308a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 308a"
-generated_at: "2026-03-29T00:32:04.403Z"
+generated_at: "2026-03-29T02:14:43.124Z"
 ---
 
 # [§ 308a. Repealed. Pub. L. 106–398, § 1 [[div. A] , title VI, § 624(b)(1)], Oct. 30, 2000 , 114 Stat. 1654 , 1654A–153]

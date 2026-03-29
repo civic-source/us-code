@@ -5,43 +5,43 @@ usc_section: "44806"
 chapter: 448
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44806"
-generated_at: "2026-03-29T00:33:13.901Z"
+generated_at: "2026-03-29T02:16:09.040Z"
 ---
 
 # § 44806. Public unmanned aircraft systems and public safety use of tethered unmanned aircraft systems
 
-(a) The Secretary of Transportation shall issue guidance regarding the operation of a public unmanned aircraft system—
-  (1) to streamline and expedite the process for the issuance of a certificate of authorization or a certificate of waiver;
-  (2) to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test and operate public unmanned aircraft systems; and
-  (3) to provide guidance on a public agency’s responsibilities when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
-(b) 
-  (1) The Secretary shall enter into an agreement with each appropriate public agency to simplify the process for issuing a certificate of waiver or a certificate of authorization with respect to an application for authorization to operate a public unmanned aircraft system in the national airspace system.
-  (2) An agreement under paragraph (1) shall—
-    (A) with respect to an application described in paragraph (1)—
-      (i) provide for an expedited review of the application;
-      (ii) require a decision by the Administrator on approval or disapproval not later than 60 business days after the date of submission of the application; and
-      (iii) allow for an expedited appeal if the application is disapproved;
-    (B) allow for a one-time approval of similar operations carried out during a fixed period of time; and
-    (C) allow a government public safety agency to operate an unmanned aircraft weighing 4.4 pounds or less if that unmanned aircraft is operated—
-      (i) within or beyond the visual line of sight of the operator;
-      (ii) less than 400 feet above the ground;
-      (iii) during daylight conditions;
-      (iv) within Class G airspace; and
-      (v) outside of 5 statute miles from any airport, heliport, seaplane base, spaceport, or other location with aviation activities.
-(c) 
-  (1) The Administrator of the Federal Aviation Administration shall permit, and may issue guidance regarding, the use of actively tethered unmanned aircraft systems by a public safety organization for such systems that are—
-    (A) operated—
-      (i) at or below an altitude of 150 feet above ground level within class B, C, D, E, or G airspace, but not at a greater altitude than the ceiling depicted on the UAS Facility Maps published by the Federal Aviation Administration, where applicable;
-      (ii) within zero-grid airspaces as depicted on such UAS Facility Maps, only if operated in life-saving or emergency situations and with prior notification to the Administration in a manner determined by the Administrator; or
-      (iii) above 150 feet above ground level within class B, C, D, E, or G airspace only with prior authorization from the Administrator;
-    (B) not flown directly over non-participating persons;
-    (C) operated within visual line of sight of the operator; and
-    (D) operated in a manner that does not interfere with and gives way to any other aircraft.
-  (2) Public actively tethered unmanned aircraft systems may be operated—
-    (A) without any requirement to obtain a certificate of authorization, certificate of waiver, or other approval by the Federal Aviation Administration;
-    (B) without requiring airman certification under section 44703 of this title or any rule or regulation relating to airman certification; and
-    (C) without requiring airworthiness certification under section 44704 of this title or any rule or regulation relating to aircraft certification.
-  (3) Actively tethered unmanned aircraft systems operated within the scope of the guidance issued pursuant to paragraph (1) shall be exempt from the requirements of section 44805 of this title .
-  (4) Nothing in this subsection shall be construed to preclude the Administrator of the Federal Aviation Administration from issuing new regulations for public actively tethered unmanned aircraft systems in order to ensure the safety of the national airspace system.
-(d) The Administrator shall assist Federal civilian Government agencies that operate unmanned aircraft systems within civil-controlled airspace, in operationally deploying and integrating sense and avoid capabilities, as necessary to operate unmanned aircraft systems safely within the national airspace system.
-(e) In this section, the term “public safety organization” means an entity that primarily engages in activities related to the safety and well-being of the general public, including law enforcement, fire departments, emergency medical services, and other organizations that protect and serve the public in matters of safety and security.
+- **(a)** The Secretary of Transportation shall issue guidance regarding the operation of a public unmanned aircraft system—
+  - **(1)** to streamline and expedite the process for the issuance of a certificate of authorization or a certificate of waiver;
+  - **(2)** to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test and operate public unmanned aircraft systems; and
+  - **(3)** to provide guidance on a public agency’s responsibilities when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
+- **(b)**
+  - **(1)** The Secretary shall enter into an agreement with each appropriate public agency to simplify the process for issuing a certificate of waiver or a certificate of authorization with respect to an application for authorization to operate a public unmanned aircraft system in the national airspace system.
+  - **(2)** An agreement under paragraph (1) shall—
+    - **(A)** with respect to an application described in paragraph (1)—
+      - **(i)** provide for an expedited review of the application;
+      - **(ii)** require a decision by the Administrator on approval or disapproval not later than 60 business days after the date of submission of the application; and
+      - **(iii)** allow for an expedited appeal if the application is disapproved;
+    - **(B)** allow for a one-time approval of similar operations carried out during a fixed period of time; and
+    - **(C)** allow a government public safety agency to operate an unmanned aircraft weighing 4.4 pounds or less if that unmanned aircraft is operated—
+      - **(i)** within or beyond the visual line of sight of the operator;
+      - **(ii)** less than 400 feet above the ground;
+      - **(iii)** during daylight conditions;
+      - **(iv)** within Class G airspace; and
+      - **(v)** outside of 5 statute miles from any airport, heliport, seaplane base, spaceport, or other location with aviation activities.
+- **(c)**
+  - **(1)** The Administrator of the Federal Aviation Administration shall permit, and may issue guidance regarding, the use of actively tethered unmanned aircraft systems by a public safety organization for such systems that are—
+    - **(A)** operated—
+      - **(i)** at or below an altitude of 150 feet above ground level within class B, C, D, E, or G airspace, but not at a greater altitude than the ceiling depicted on the UAS Facility Maps published by the Federal Aviation Administration, where applicable;
+      - **(ii)** within zero-grid airspaces as depicted on such UAS Facility Maps, only if operated in life-saving or emergency situations and with prior notification to the Administration in a manner determined by the Administrator; or
+      - **(iii)** above 150 feet above ground level within class B, C, D, E, or G airspace only with prior authorization from the Administrator;
+    - **(B)** not flown directly over non-participating persons;
+    - **(C)** operated within visual line of sight of the operator; and
+    - **(D)** operated in a manner that does not interfere with and gives way to any other aircraft.
+  - **(2)** Public actively tethered unmanned aircraft systems may be operated—
+    - **(A)** without any requirement to obtain a certificate of authorization, certificate of waiver, or other approval by the Federal Aviation Administration;
+    - **(B)** without requiring airman certification under section 44703 of this title or any rule or regulation relating to airman certification; and
+    - **(C)** without requiring airworthiness certification under section 44704 of this title or any rule or regulation relating to aircraft certification.
+  - **(3)** Actively tethered unmanned aircraft systems operated within the scope of the guidance issued pursuant to paragraph (1) shall be exempt from the requirements of section 44805 of this title .
+  - **(4)** Nothing in this subsection shall be construed to preclude the Administrator of the Federal Aviation Administration from issuing new regulations for public actively tethered unmanned aircraft systems in order to ensure the safety of the national airspace system.
+- **(d)** The Administrator shall assist Federal civilian Government agencies that operate unmanned aircraft systems within civil-controlled airspace, in operationally deploying and integrating sense and avoid capabilities, as necessary to operate unmanned aircraft systems safely within the national airspace system.
+- **(e)** In this section, the term “public safety organization” means an entity that primarily engages in activities related to the safety and well-being of the general public, including law enforcement, fire departments, emergency medical services, and other organizations that protect and serve the public in matters of safety and security.

@@ -5,7 +5,7 @@ usc_section: "740"
 chapter: 21
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 740"
-generated_at: "2026-03-29T00:31:30.776Z"
+generated_at: "2026-03-29T02:14:11.218Z"
 ---
 
 # §§ 721 to 740. Repealed. Pub. L. 95–164, title III, § 306(a) , Nov. 9, 1977 , 91 Stat. 1322

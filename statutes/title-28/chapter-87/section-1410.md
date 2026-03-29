@@ -5,13 +5,13 @@ usc_section: "1410"
 chapter: 87
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1410"
-generated_at: "2026-03-29T00:31:24.177Z"
+generated_at: "2026-03-29T02:14:04.551Z"
 ---
 
 # § 1410. Venue of cases ancillary to foreign proceedings
 
 A case under chapter 15 of title 11 may be commenced in the district court of the United States for the district—
 
-  (1) in which the debtor has its principal place of business or principal assets in the United States;
-  (2) if the debtor does not have a place of business or assets in the United States, in which there is pending against the debtor an action or proceeding in a Federal or State court; or
-  (3) in a case other than those specified in paragraph (1) or (2), in which venue will be consistent with the interests of justice and the convenience of the parties, having regard to the relief sought by the foreign representative.
+  - **(1)** in which the debtor has its principal place of business or principal assets in the United States;
+  - **(2)** if the debtor does not have a place of business or assets in the United States, in which there is pending against the debtor an action or proceeding in a Federal or State court; or
+  - **(3)** in a case other than those specified in paragraph (1) or (2), in which venue will be consistent with the interests of justice and the convenience of the parties, having regard to the relief sought by the foreign representative.

@@ -5,12 +5,12 @@ usc_section: "904"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 904"
-generated_at: "2026-03-29T00:20:52.901Z"
+generated_at: "2026-03-29T02:10:44.924Z"
 ---
 
 # § 904. Art. 104. Public records offenses
 
 Any person subject to this chapter who, willfully and unlawfully—
 
-  (1) alters, conceals, removes, mutilates, obliterates, or destroys a public record; or
-  (2) takes a public record with the intent to alter, conceal, remove, mutilate, obliterate, or destroy the public record;
+  - **(1)** alters, conceals, removes, mutilates, obliterates, or destroys a public record; or
+  - **(2)** takes a public record with the intent to alter, conceal, remove, mutilate, obliterate, or destroy the public record;

@@ -5,7 +5,7 @@ usc_section: "1361"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1361"
-generated_at: "2026-03-29T00:33:06.602Z"
+generated_at: "2026-03-29T02:16:00.801Z"
 ---
 
 # § 1361. Repealed. Sept. 26, 1950, ch. 1049, § 13(7) , 64 Stat. 1043

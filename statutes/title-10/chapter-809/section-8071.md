@@ -5,12 +5,12 @@ usc_section: "8071"
 chapter: 809
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8071"
-generated_at: "2026-03-29T00:20:53.212Z"
+generated_at: "2026-03-29T02:10:45.295Z"
 ---
 
 # § 8071. Bureaus: names; location
 
 There are in the executive part of the Department of the Navy the following bureaus:
 
-  (1) Bureau of Medicine and Surgery.
-  (2) Bureau of Naval Personnel.
+  - **(1)** Bureau of Medicine and Surgery.
+  - **(2)** Bureau of Naval Personnel.

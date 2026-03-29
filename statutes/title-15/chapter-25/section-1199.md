@@ -5,7 +5,7 @@ usc_section: "1199"
 chapter: 25
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1199"
-generated_at: "2026-03-29T00:29:41.685Z"
+generated_at: "2026-03-29T02:11:34.160Z"
 ---
 
 # § 1199. Chapter as additional legislation

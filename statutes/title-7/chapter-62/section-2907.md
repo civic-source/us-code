@@ -5,29 +5,29 @@ usc_section: "2907"
 chapter: 62
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2907"
-generated_at: "2026-03-29T00:28:58.156Z"
+generated_at: "2026-03-29T02:10:16.979Z"
 ---
 
 # § 2907. Refunds
 
-(a) During the period prior to the approval of the continuation of an order pursuant to the referendum required under section 2906(a) of this title , subject to subsection (f), the Board shall—
-  (1) establish an escrow account to be used for assessment refunds;
-  (2) place funds in such account in accordance with subsection (b); and
-  (3) refund assessments to persons in accordance with this section.
-(b) Subject to subsection (f), the Board shall place in such account, from assessments collected under section 2906 of this title during the period referred to in subsection (a), an amount equal to the product obtained by multiplying—
-  (1) the total amount of assessments collected under section 2906 of this title during such period; by
-  (2) the greater of—
-    (A) the average rate of assessment refunds provided to producers under State beef promotion, research, and consumer information programs financed through producer assessments, as determined by the Board; or
-    (B) 15 percent.
-(c) Subject to subsections (d), (e), and (f) and notwithstanding any other provision of this chapter, 1 1 See References in Text note below. any person shall have the right to demand and receive from the Board a one-time refund of all assessments collected under section 2906 of this title from such person during the period referred to in subsection (a) if such person—
-  (1) is responsible for paying such assessment; and
-  (2) does not support the program established under this chapter.
-(d) Such demand shall be made in accordance with regulations, on a form, and within a time period prescribed by the Board.
-(e) Such refund shall be made on submission of proof satisfactory to the Board that the producer, person, or importer—
-  (1) paid the assessment for which refund is sought; and
-  (2) did not collect such assessment from another producer, person, or importer.
-(f) 
-  (1) If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is approved pursuant to the referendum required under section 2906(a) 1 of this title, the Board shall—
-    (A) continue to place in such account, from assessments collected under section 2904 of this title , the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
-    (B) provide to all eligible persons the total amount of assessments demanded by all eligible producers.
-  (2) If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is not approved pursuant to the referendum required under section 2906(a) of this title , the Board shall prorate the amount of such refunds among all eligible persons who demand such refund.
+- **(a)** During the period prior to the approval of the continuation of an order pursuant to the referendum required under section 2906(a) of this title , subject to subsection (f), the Board shall—
+  - **(1)** establish an escrow account to be used for assessment refunds;
+  - **(2)** place funds in such account in accordance with subsection (b); and
+  - **(3)** refund assessments to persons in accordance with this section.
+- **(b)** Subject to subsection (f), the Board shall place in such account, from assessments collected under section 2906 of this title during the period referred to in subsection (a), an amount equal to the product obtained by multiplying—
+  - **(1)** the total amount of assessments collected under section 2906 of this title during such period; by
+  - **(2)** the greater of—
+    - **(A)** the average rate of assessment refunds provided to producers under State beef promotion, research, and consumer information programs financed through producer assessments, as determined by the Board; or
+    - **(B)** 15 percent.
+- **(c)** Subject to subsections (d), (e), and (f) and notwithstanding any other provision of this chapter, 1 1 See References in Text note below. any person shall have the right to demand and receive from the Board a one-time refund of all assessments collected under section 2906 of this title from such person during the period referred to in subsection (a) if such person—
+  - **(1)** is responsible for paying such assessment; and
+  - **(2)** does not support the program established under this chapter.
+- **(d)** Such demand shall be made in accordance with regulations, on a form, and within a time period prescribed by the Board.
+- **(e)** Such refund shall be made on submission of proof satisfactory to the Board that the producer, person, or importer—
+  - **(1)** paid the assessment for which refund is sought; and
+  - **(2)** did not collect such assessment from another producer, person, or importer.
+- **(f)**
+  - **(1)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is approved pursuant to the referendum required under section 2906(a) 1 of this title, the Board shall—
+    - **(A)** continue to place in such account, from assessments collected under section 2904 of this title , the amount required under subsection (b), until such time as the Board is able to comply with subparagraph (B); and
+    - **(B)** provide to all eligible persons the total amount of assessments demanded by all eligible producers.
+  - **(2)** If the amount in the escrow account required to be established by subsection (a) is not sufficient to refund the total amount of assessments demanded by all eligible persons under this section and the continuation of an order is not approved pursuant to the referendum required under section 2906(a) of this title , the Board shall prorate the amount of such refunds among all eligible persons who demand such refund.

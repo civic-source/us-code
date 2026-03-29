@@ -5,7 +5,7 @@ usc_section: "668a"
 chapter: 5
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 668a"
-generated_at: "2026-03-29T00:29:52.593Z"
+generated_at: "2026-03-29T02:11:53.632Z"
 ---
 
 # § 668a. Taking and using of the bald and golden eagle for scientific, exhibition, and religious purposes

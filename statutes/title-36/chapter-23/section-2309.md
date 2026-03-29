@@ -1,0 +1,14 @@
+---
+title: "Section 2309 - Audit of financial transactions"
+usc_title: 36
+usc_section: "2309"
+chapter: 23
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 2309"
+generated_at: "2026-03-29T02:14:41.337Z"
+---
+
+# § 2309. Audit of financial transactions
+
+Financial transactions of the Museum, including those involving donated funds, shall be audited by the Comptroller General as requested by Congress, in accordance with generally accepted auditing standards. In conducting any audit pursuant to this section, appropriate representatives of the Comptroller General shall have access to all books, accounts, financial records, reports, files and other papers, items or property in use by the Museum, as necessary to facilitate such audit, and such representatives shall be afforded full facilities for verifying transactions with the balances.
+

@@ -5,7 +5,7 @@ usc_section: "33"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 33"
-generated_at: "2026-03-29T00:31:20.551Z"
+generated_at: "2026-03-29T02:14:00.719Z"
 ---
 
 # § 33. Tax withheld at source on nonresident aliens and foreign corporations

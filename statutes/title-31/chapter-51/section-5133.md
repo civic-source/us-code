@@ -5,24 +5,24 @@ usc_section: "5133"
 chapter: 51
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 5133"
-generated_at: "2026-03-29T00:31:52.635Z"
+generated_at: "2026-03-29T02:14:14.089Z"
 ---
 
 # § 5133. Settlement of accounts
 
-(a) The Secretary of the Treasury shall—
-  (1) charge the superintendent of each mint with the amount in weight of standard metal of bullion the superintendent receives from the Secretary;
-  (2) credit each superintendent with the amount in weight of coins, clippings, and other bullion the superintendent returns to the Secretary; and
-  (3) charge separately to each superintendent, who shall account for, copper to be used in the alloy of gold and silver bullion.
-(b) 
-  (1) At least once each year, the Secretary of the Treasury shall settle the accounts of the superintendents of the mints.
-  (2) At any settlement under this subsection, the superintendent shall—
-    (A) return to the Secretary any coin, clipping, or other bullion in the possession of the superintendent; and
-    (B) present the Secretary with a statement of bullion received and returned since the last settlement (including any bullion returned for settlement).
-  (3) The Secretary shall—
-    (A) audit the accounts of each superintendent; and
-    (B) allow each superintendent the waste of precious metals that the Secretary determines is necessary—
-      (i) for refining and minting (within the limitations which the Secretary shall prescribe); and
-      (ii) for casting fine gold and silver bars (within the limit prescribed for refining), except that any waste allowance under this clause may not apply to deposit operations.
-(c) After settlement, the Secretary shall compare the amount of gold and silver bullion and coins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
-(d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
+- **(a)** The Secretary of the Treasury shall—
+  - **(1)** charge the superintendent of each mint with the amount in weight of standard metal of bullion the superintendent receives from the Secretary;
+  - **(2)** credit each superintendent with the amount in weight of coins, clippings, and other bullion the superintendent returns to the Secretary; and
+  - **(3)** charge separately to each superintendent, who shall account for, copper to be used in the alloy of gold and silver bullion.
+- **(b)**
+  - **(1)** At least once each year, the Secretary of the Treasury shall settle the accounts of the superintendents of the mints.
+  - **(2)** At any settlement under this subsection, the superintendent shall—
+    - **(A)** return to the Secretary any coin, clipping, or other bullion in the possession of the superintendent; and
+    - **(B)** present the Secretary with a statement of bullion received and returned since the last settlement (including any bullion returned for settlement).
+  - **(3)** The Secretary shall—
+    - **(A)** audit the accounts of each superintendent; and
+    - **(B)** allow each superintendent the waste of precious metals that the Secretary determines is necessary—
+      - **(i)** for refining and minting (within the limitations which the Secretary shall prescribe); and
+      - **(ii)** for casting fine gold and silver bars (within the limit prescribed for refining), except that any waste allowance under this clause may not apply to deposit operations.
+- **(c)** After settlement, the Secretary shall compare the amount of gold and silver bullion and coins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
+- **(d)** The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.

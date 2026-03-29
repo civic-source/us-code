@@ -5,12 +5,12 @@ usc_section: "2002"
 chapter: 25
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 2002"
-generated_at: "2026-03-29T00:30:24.366Z"
+generated_at: "2026-03-29T02:12:28.188Z"
 ---
 
 # § 2002. Records, audit, and report
 
-(a) The United States Anti-Doping Agency shall keep correct and complete records of account.
-(b) The United States Anti-Doping Agency shall submit an annual report to Congress which shall include—
-  (1) an audit conducted and submitted in accordance with section 10101 of title 36 ; and
-  (2) a description of the activities of the agency.
+- **(a)** The United States Anti-Doping Agency shall keep correct and complete records of account.
+- **(b)** The United States Anti-Doping Agency shall submit an annual report to Congress which shall include—
+  - **(1)** an audit conducted and submitted in accordance with section 10101 of title 36 ; and
+  - **(2)** a description of the activities of the agency.

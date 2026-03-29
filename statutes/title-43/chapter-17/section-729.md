@@ -5,7 +5,7 @@ usc_section: "729"
 chapter: 17
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 729"
-generated_at: "2026-03-29T00:32:57.382Z"
+generated_at: "2026-03-29T02:15:47.570Z"
 ---
 
 # § 729. Repealed. June 14, 1926, ch. 578, § 5 , as added June 4, 1954, ch. 263 , 68 Stat. 175

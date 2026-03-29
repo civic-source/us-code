@@ -5,7 +5,7 @@ usc_section: "2115"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2115"
-generated_at: "2026-03-29T00:30:20.207Z"
+generated_at: "2026-03-29T02:12:08.672Z"
 ---
 
 # § 2115. Bilateral trade agreements

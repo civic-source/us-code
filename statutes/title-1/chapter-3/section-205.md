@@ -5,7 +5,7 @@ usc_section: "205"
 chapter: 3
 current_through: "PL 119-73"
 classification: "1 U.S.C. § 205"
-generated_at: "2026-03-28T23:42:47.561Z"
+generated_at: "2026-03-29T02:09:50.421Z"
 ---
 
 # § 205. Codes and Supplement; where printed; form and style; ancillaries

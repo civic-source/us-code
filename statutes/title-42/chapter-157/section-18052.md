@@ -5,54 +5,54 @@ usc_section: "18052"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18052"
-generated_at: "2026-03-29T00:32:54.462Z"
+generated_at: "2026-03-29T02:15:37.429Z"
 ---
 
 # § 18052. Waiver for State innovation
 
-(a) 
-  (1) A State may apply to the Secretary for the waiver of all or any requirements described in paragraph (2) with respect to health insurance coverage within that State for plan years beginning on or after January 1, 2017 . Such application shall—
-    (A) be filed at such time and in such manner as the Secretary may require;
-    (B) contain such information as the Secretary may require, including—
-      (i) a comprehensive description of the State legislation and program to implement a plan meeting the requirements for a waiver under this section; and
-      (ii) a 10-year budget plan for such plan that is budget neutral for the Federal Government; and
-    (C) provide an assurance that the State has enacted the law described in subsection (b)(2).
-  (2) The requirements described in this paragraph with respect to health insurance coverage within the State for plan years beginning on or after January 1, 2014 , are as follows:
-    (A) Part A of this subchapter.
-    (B) Part B of this subchapter.
-    (C) Section 18071 of this title .
-    (D) Sections 36B, 4980H, and 5000A of title 26.
-  (3) With respect to a State waiver under paragraph (1), under which, due to the structure of the State plan, individuals and small employers in the State would not qualify for the premium tax credits, cost-sharing reductions, or small business credits under sections 1 1 So in original. Probably should be “section”. 36B of title 26 or under part I of subtitle E for which they would otherwise be eligible, the Secretary shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges established under this title 2 2 See References in Text note below. had the State not received such waiver, shall be paid to the State for purposes of implementing the State plan under the waiver. Such amount shall be determined annually by the Secretary, taking into consideration the experience of other States with respect to participation in an Exchange and credits and reductions provided under such provisions to residents of the other States.
-  (4) 
-    (A) An application for a waiver under this section shall be considered by the Secretary in accordance with the regulations described in subparagraph (B).
-    (B) Not later than 180 days after March 23, 2010 , the Secretary shall promulgate regulations relating to waivers under this section that provide—
-      (i) a process for public notice and comment at the State level, including public hearings, sufficient to ensure a meaningful level of public input;
-      (ii) a process for the submission of an application that ensures the disclosure of—
-        (I) the provisions of law that the State involved seeks to waive; and
-        (II) the specific plans of the State to ensure that the waiver will be in compliance with subsection (b);
-      (iii) a process for providing public notice and comment after the application is received by the Secretary, that is sufficient to ensure a meaningful level of public input and that does not impose requirements that are in addition to, or duplicative of, requirements imposed under the Administrative Procedures Act, 2 or requirements that are unreasonable or unnecessarily burdensome with respect to State compliance;
-      (iv) a process for the submission to the Secretary of periodic reports by the State concerning the implementation of the program under the waiver; and
-      (v) a process for the periodic evaluation by the Secretary of the program under the waiver.
-    (C) The Secretary shall annually report to Congress concerning actions taken by the Secretary with respect to applications for waivers under this section.
-  (5) The Secretary shall develop a process for coordinating and consolidating the State waiver processes applicable under the provisions of this section, and the existing waiver processes applicable under titles XVIII, XIX, and XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.], and any other Federal law relating to the provision of health care items or services. Such process shall permit a State to submit a single application for a waiver under any or all of such provisions.
-  (6) In this section, the term “Secretary” means—
-    (A) the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (2); and
-    (B) the Secretary of the Treasury with respect to waivers relating to the provisions described in paragraph (2)(D).
-(b) 
-  (1) The Secretary may grant a request for a waiver under subsection (a)(1) only if the Secretary determines that the State plan—
-    (A) will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title 2 as certified by Office 3 3 So in original. Probably should be preceded by “the”. of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
-    (B) will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of this title 2 would provide;
-    (C) will provide coverage to at least a comparable number of its residents as the provisions of this title 2 would provide; and
-    (D) will not increase the Federal deficit.
-  (2) 
-    (A) A law described in this paragraph is a State law that provides for State actions under a waiver under this section, including the implementation of the State plan under subsection (a)(1)(B).
-    (B) A State may repeal a law described in subparagraph (A) and terminate the authority provided under the waiver with respect to the State.
-(c) 
-  (1) The Secretary shall determine the scope of a waiver of a requirement described in subsection (a)(2) granted to a State under subsection (a)(1).
-  (2) The Secretary may not waive under this section any Federal law or requirement that is not within the authority of the Secretary.
-(d) 
-  (1) The Secretary shall make a determination under subsection (a)(1) not later than 180 days after the receipt of an application from a State under such subsection.
-  (2) 
-    (A) If the Secretary determines to grant a waiver under subsection (a)(1), the Secretary shall notify the State involved of such determination and the terms and effectiveness of such waiver.
-    (B) If the Secretary determines a waiver should not be granted under subsection (a)(1), the Secretary shall notify the State involved, and the appropriate committees of Congress of such determination and the reasons therefore. 4 4 So in original. Probably should be “therefor.”
-(e) No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
+- **(a)**
+  - **(1)** A State may apply to the Secretary for the waiver of all or any requirements described in paragraph (2) with respect to health insurance coverage within that State for plan years beginning on or after January 1, 2017 . Such application shall—
+    - **(A)** be filed at such time and in such manner as the Secretary may require;
+    - **(B)** contain such information as the Secretary may require, including—
+      - **(i)** a comprehensive description of the State legislation and program to implement a plan meeting the requirements for a waiver under this section; and
+      - **(ii)** a 10-year budget plan for such plan that is budget neutral for the Federal Government; and
+    - **(C)** provide an assurance that the State has enacted the law described in subsection (b)(2).
+  - **(2)** The requirements described in this paragraph with respect to health insurance coverage within the State for plan years beginning on or after January 1, 2014 , are as follows:
+    - **(A)** Part A of this subchapter.
+    - **(B)** Part B of this subchapter.
+    - **(C)** Section 18071 of this title .
+    - **(D)** Sections 36B, 4980H, and 5000A of title 26.
+  - **(3)** With respect to a State waiver under paragraph (1), under which, due to the structure of the State plan, individuals and small employers in the State would not qualify for the premium tax credits, cost-sharing reductions, or small business credits under sections 1 1 So in original. Probably should be “section”. 36B of title 26 or under part I of subtitle E for which they would otherwise be eligible, the Secretary shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges established under this title 2 2 See References in Text note below. had the State not received such waiver, shall be paid to the State for purposes of implementing the State plan under the waiver. Such amount shall be determined annually by the Secretary, taking into consideration the experience of other States with respect to participation in an Exchange and credits and reductions provided under such provisions to residents of the other States.
+  - **(4)**
+    - **(A)** An application for a waiver under this section shall be considered by the Secretary in accordance with the regulations described in subparagraph (B).
+    - **(B)** Not later than 180 days after March 23, 2010 , the Secretary shall promulgate regulations relating to waivers under this section that provide—
+      - **(i)** a process for public notice and comment at the State level, including public hearings, sufficient to ensure a meaningful level of public input;
+      - **(ii)** a process for the submission of an application that ensures the disclosure of—
+        - **(I)** the provisions of law that the State involved seeks to waive; and
+        - **(II)** the specific plans of the State to ensure that the waiver will be in compliance with subsection (b);
+      - **(iii)** a process for providing public notice and comment after the application is received by the Secretary, that is sufficient to ensure a meaningful level of public input and that does not impose requirements that are in addition to, or duplicative of, requirements imposed under the Administrative Procedures Act, 2 or requirements that are unreasonable or unnecessarily burdensome with respect to State compliance;
+      - **(iv)** a process for the submission to the Secretary of periodic reports by the State concerning the implementation of the program under the waiver; and
+      - **(v)** a process for the periodic evaluation by the Secretary of the program under the waiver.
+    - **(C)** The Secretary shall annually report to Congress concerning actions taken by the Secretary with respect to applications for waivers under this section.
+  - **(5)** The Secretary shall develop a process for coordinating and consolidating the State waiver processes applicable under the provisions of this section, and the existing waiver processes applicable under titles XVIII, XIX, and XXI of the Social Security Act [ 42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.], and any other Federal law relating to the provision of health care items or services. Such process shall permit a State to submit a single application for a waiver under any or all of such provisions.
+  - **(6)** In this section, the term “Secretary” means—
+    - **(A)** the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (2); and
+    - **(B)** the Secretary of the Treasury with respect to waivers relating to the provisions described in paragraph (2)(D).
+- **(b)**
+  - **(1)** The Secretary may grant a request for a waiver under subsection (a)(1) only if the Secretary determines that the State plan—
+    - **(A)** will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title 2 as certified by Office 3 3 So in original. Probably should be preceded by “the”. of the Actuary of the Centers for Medicare & Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
+    - **(B)** will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of this title 2 would provide;
+    - **(C)** will provide coverage to at least a comparable number of its residents as the provisions of this title 2 would provide; and
+    - **(D)** will not increase the Federal deficit.
+  - **(2)**
+    - **(A)** A law described in this paragraph is a State law that provides for State actions under a waiver under this section, including the implementation of the State plan under subsection (a)(1)(B).
+    - **(B)** A State may repeal a law described in subparagraph (A) and terminate the authority provided under the waiver with respect to the State.
+- **(c)**
+  - **(1)** The Secretary shall determine the scope of a waiver of a requirement described in subsection (a)(2) granted to a State under subsection (a)(1).
+  - **(2)** The Secretary may not waive under this section any Federal law or requirement that is not within the authority of the Secretary.
+- **(d)**
+  - **(1)** The Secretary shall make a determination under subsection (a)(1) not later than 180 days after the receipt of an application from a State under such subsection.
+  - **(2)**
+    - **(A)** If the Secretary determines to grant a waiver under subsection (a)(1), the Secretary shall notify the State involved of such determination and the terms and effectiveness of such waiver.
+    - **(B)** If the Secretary determines a waiver should not be granted under subsection (a)(1), the Secretary shall notify the State involved, and the appropriate committees of Congress of such determination and the reasons therefore. 4 4 So in original. Probably should be “therefor.”
+- **(e)** No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.

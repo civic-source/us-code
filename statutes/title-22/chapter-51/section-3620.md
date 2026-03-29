@@ -5,17 +5,17 @@ usc_section: "3620"
 chapter: 51
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3620"
-generated_at: "2026-03-29T00:30:33.884Z"
+generated_at: "2026-03-29T02:12:40.293Z"
 ---
 
 # § 3620. Authority of Ambassador; independence of Commission regarding its Panama Canal responsibilities
 
-(a) The United States Ambassador to the Republic of Panama shall have full responsibility for the coordination of the transfer to the Republic of Panama of those functions that are to be assumed by the Republic of Panama pursuant to the Panama Canal Treaty of 1977 and related agreements.
-(b) 
-  (1) The Commission shall not be subject to the direction or supervision of the United States Chief of Mission in the Republic of Panama with respect to the responsibilities of the Commission for the operation, management, or maintenance of the Panama Canal, as established in this chapter or any other Act or in the Panama Canal Treaty of 1977 and related agreements, except that the Commission shall keep the Ambassador fully and currently informed with respect to all activities and operations of the Commission.
-  (2) Except as provided in paragraph (1) of this subsection, section 3927 of this title shall apply with respect to the activities of the Commission.
-(c) 
-  (1) The Secretary of State may enter into one or more agreements to provide for the United States to furnish administrative services relating to the benefits described in paragraph (2) after December 31, 1999 , and to establish appropriate procedures for providing advance funding for the services.
-  (2) The benefits referred to in paragraph (1) are the following:
-    (A) Pension, disability, and medical benefits provided by the Panama Canal Commission pursuant to section 3682 of this title .
-    (B) Compensation for work injuries covered by chapter 81 of title 5.
+- **(a)** The United States Ambassador to the Republic of Panama shall have full responsibility for the coordination of the transfer to the Republic of Panama of those functions that are to be assumed by the Republic of Panama pursuant to the Panama Canal Treaty of 1977 and related agreements.
+- **(b)**
+  - **(1)** The Commission shall not be subject to the direction or supervision of the United States Chief of Mission in the Republic of Panama with respect to the responsibilities of the Commission for the operation, management, or maintenance of the Panama Canal, as established in this chapter or any other Act or in the Panama Canal Treaty of 1977 and related agreements, except that the Commission shall keep the Ambassador fully and currently informed with respect to all activities and operations of the Commission.
+  - **(2)** Except as provided in paragraph (1) of this subsection, section 3927 of this title shall apply with respect to the activities of the Commission.
+- **(c)**
+  - **(1)** The Secretary of State may enter into one or more agreements to provide for the United States to furnish administrative services relating to the benefits described in paragraph (2) after December 31, 1999 , and to establish appropriate procedures for providing advance funding for the services.
+  - **(2)** The benefits referred to in paragraph (1) are the following:
+    - **(A)** Pension, disability, and medical benefits provided by the Panama Canal Commission pursuant to section 3682 of this title .
+    - **(B)** Compensation for work injuries covered by chapter 81 of title 5.

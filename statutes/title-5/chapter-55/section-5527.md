@@ -5,11 +5,11 @@ usc_section: "5527"
 chapter: 55
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5527"
-generated_at: "2026-03-29T00:28:38.343Z"
+generated_at: "2026-03-29T02:10:01.866Z"
 ---
 
 # § 5527. Regulations
 
-(a) To the extent practicable in the public interest, the President shall coordinate the policies and procedures of the respective Executive agencies under this subchapter.
-(b) The President, with respect to the Executive agencies, the head of the agency concerned, with respect to the appropriate agency outside the executive branch, and the District of Columbia Council, with respect to the government of the District of Columbia, shall prescribe and issue, or provide for the formulation and issuance of, regulations necessary and appropriate to carry out the provisions, accomplish the purposes, and govern the administration of this subchapter.
-(c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessary and appropriate to carry out his functions under this subchapter.
+- **(a)** To the extent practicable in the public interest, the President shall coordinate the policies and procedures of the respective Executive agencies under this subchapter.
+- **(b)** The President, with respect to the Executive agencies, the head of the agency concerned, with respect to the appropriate agency outside the executive branch, and the District of Columbia Council, with respect to the government of the District of Columbia, shall prescribe and issue, or provide for the formulation and issuance of, regulations necessary and appropriate to carry out the provisions, accomplish the purposes, and govern the administration of this subchapter.
+- **(c)** The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessary and appropriate to carry out his functions under this subchapter.

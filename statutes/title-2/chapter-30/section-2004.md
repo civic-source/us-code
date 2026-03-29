@@ -5,7 +5,7 @@ usc_section: "2004"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2004"
-generated_at: "2026-03-29T00:06:10.970Z"
+generated_at: "2026-03-29T02:09:53.752Z"
 ---
 
 # § 2004. Assignment of rooms in House Office Building

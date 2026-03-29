@@ -5,17 +5,17 @@ usc_section: "1681w"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681w"
-generated_at: "2026-03-29T00:29:41.738Z"
+generated_at: "2026-03-29T02:11:34.228Z"
 ---
 
 # § 1681w. Disposal of records
 
-(a) 
-  (1) The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title , and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
-  (2) Each agency required to prescribe regulations under paragraph (1) shall—
-    (A) consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such agency are consistent and comparable with the regulations by each such other agency; and
-    (B) ensure that such regulations are consistent with the requirements and regulations issued pursuant to Public Law 106–102 and other provisions of Federal law.
-  (3) In issuing regulations under this section, the agencies identified in paragraph (1) may exempt any person or class of persons from application of those regulations, as such agency deems appropriate to carry out the purpose of this section.
-(b) Nothing in this section shall be construed—
-  (1) to require a person to maintain or destroy any record pertaining to a consumer that is not imposed under other law; or
-  (2) to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.
+- **(a)**
+  - **(1)** The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title , and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
+  - **(2)** Each agency required to prescribe regulations under paragraph (1) shall—
+    - **(A)** consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such agency are consistent and comparable with the regulations by each such other agency; and
+    - **(B)** ensure that such regulations are consistent with the requirements and regulations issued pursuant to Public Law 106–102 and other provisions of Federal law.
+  - **(3)** In issuing regulations under this section, the agencies identified in paragraph (1) may exempt any person or class of persons from application of those regulations, as such agency deems appropriate to carry out the purpose of this section.
+- **(b)** Nothing in this section shall be construed—
+  - **(1)** to require a person to maintain or destroy any record pertaining to a consumer that is not imposed under other law; or
+  - **(2)** to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.

@@ -5,14 +5,14 @@ usc_section: "1823a"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1823a"
-generated_at: "2026-03-29T00:06:10.963Z"
+generated_at: "2026-03-29T02:09:53.737Z"
 ---
 
 # § 1823a. Acquisition of real property for Library of Congress
 
-(a) Subject to the availability of funds, the Architect of the Capitol may acquire real property by lease for the use of the Library of Congress in any State or the District of Columbia if—
-  (1) the Architect of the Capitol and the Librarian of Congress submit a joint request for the Architect to lease the property to the Joint Committee on the Library and to the Committees on Appropriations of the House of Representatives and Senate; and
-  (2) the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate each approve the request.
-(b) Subject to the approval of the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and the Senate, the Architect of the Capitol and the Librarian of Congress may transfer between themselves appropriations or other available funds to pay the costs incurred in acquiring real property pursuant to the authority of this section and the costs of necessary expenses incurred in connection with the acquisition of the property.
-(c) No obligation entered into pursuant to the authority of this section shall be in advance of, or in excess of, available appropriations.
-(d) This section shall apply with respect to fiscal year 2009 and each succeeding fiscal year.
+- **(a)** Subject to the availability of funds, the Architect of the Capitol may acquire real property by lease for the use of the Library of Congress in any State or the District of Columbia if—
+  - **(1)** the Architect of the Capitol and the Librarian of Congress submit a joint request for the Architect to lease the property to the Joint Committee on the Library and to the Committees on Appropriations of the House of Representatives and Senate; and
+  - **(2)** the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and Senate each approve the request.
+- **(b)** Subject to the approval of the Joint Committee on the Library and the Committees on Appropriations of the House of Representatives and the Senate, the Architect of the Capitol and the Librarian of Congress may transfer between themselves appropriations or other available funds to pay the costs incurred in acquiring real property pursuant to the authority of this section and the costs of necessary expenses incurred in connection with the acquisition of the property.
+- **(c)** No obligation entered into pursuant to the authority of this section shall be in advance of, or in excess of, available appropriations.
+- **(d)** This section shall apply with respect to fiscal year 2009 and each succeeding fiscal year.

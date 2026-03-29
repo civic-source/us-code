@@ -5,7 +5,7 @@ usc_section: "2284"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2284"
-generated_at: "2026-03-29T00:28:58.141Z"
+generated_at: "2026-03-29T02:10:16.962Z"
 ---
 
 # § 2284. Repealed. Pub. L. 105–362, title I, § 101(c) , Nov. 10, 1998 , 112 Stat. 3281

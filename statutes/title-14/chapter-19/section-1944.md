@@ -5,7 +5,7 @@ usc_section: "1944"
 chapter: 19
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 1944"
-generated_at: "2026-03-29T00:29:25.010Z"
+generated_at: "2026-03-29T02:11:23.794Z"
 ---
 
 # § 1944. Grade of permanent commissioned teaching staff

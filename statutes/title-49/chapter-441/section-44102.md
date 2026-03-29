@@ -5,17 +5,17 @@ usc_section: "44102"
 chapter: 441
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 44102"
-generated_at: "2026-03-29T00:33:13.882Z"
+generated_at: "2026-03-29T02:16:09.018Z"
 ---
 
 # § 44102. Registration requirements
 
-(a) An aircraft may be registered under section 44103 of this title only when the aircraft is—
-  (1) not registered under the laws of a foreign country and is owned by—
-    (A) a citizen of the United States;
-    (B) an individual citizen of a foreign country lawfully admitted for permanent residence in the United States; or
-    (C) a corporation not a citizen of the United States when the corporation is organized and doing business under the laws of the United States or a State, and the aircraft is based and primarily used in the United States; or
-  (2) an aircraft of—
-    (A) the United States Government; or
-    (B) a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of a State, territory, or possession.
-(b) In carrying out subsection (a)(1)(C) of this section, the Secretary of Transportation shall define “based and primarily used in the United States”.
+- **(a)** An aircraft may be registered under section 44103 of this title only when the aircraft is—
+  - **(1)** not registered under the laws of a foreign country and is owned by—
+    - **(A)** a citizen of the United States;
+    - **(B)** an individual citizen of a foreign country lawfully admitted for permanent residence in the United States; or
+    - **(C)** a corporation not a citizen of the United States when the corporation is organized and doing business under the laws of the United States or a State, and the aircraft is based and primarily used in the United States; or
+  - **(2)** an aircraft of—
+    - **(A)** the United States Government; or
+    - **(B)** a State, the District of Columbia, a territory or possession of the United States, or a political subdivision of a State, territory, or possession.
+- **(b)** In carrying out subsection (a)(1)(C) of this section, the Secretary of Transportation shall define “based and primarily used in the United States”.

@@ -5,7 +5,7 @@ usc_section: "2906"
 chapter: 31
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2906"
-generated_at: "2026-03-29T00:30:38.748Z"
+generated_at: "2026-03-29T02:13:20.956Z"
 ---
 
 # § 2906. Use of English

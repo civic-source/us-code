@@ -5,12 +5,12 @@ usc_section: "6576"
 chapter: 84
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6576"
-generated_at: "2026-03-29T00:29:52.863Z"
+generated_at: "2026-03-29T02:11:53.971Z"
 ---
 
 # § 6576. Protections and measures
 
-(a) In the case of a landowner that enrolls land in the program and whose conservation activities result in a net conservation benefit for listed, candidate, or other species, the Secretary of Agriculture shall make available to the landowner safe harbor or similar assurances and protection under—
-  (1) section 1536(b)(4) of this title ; or
-  (2) section 1539(a)(1) of this title .
-(b) If protection under subsection (a) requires the taking of measures that are in addition to the measures covered by the applicable restoration plan agreed to under section 6573 of this title , the cost of the additional measures, as well as the cost of any permit, shall be considered part of the restoration plan for purposes of financial assistance under section 6574 of this title .
+- **(a)** In the case of a landowner that enrolls land in the program and whose conservation activities result in a net conservation benefit for listed, candidate, or other species, the Secretary of Agriculture shall make available to the landowner safe harbor or similar assurances and protection under—
+  - **(1)** section 1536(b)(4) of this title ; or
+  - **(2)** section 1539(a)(1) of this title .
+- **(b)** If protection under subsection (a) requires the taking of measures that are in addition to the measures covered by the applicable restoration plan agreed to under section 6573 of this title , the cost of the additional measures, as well as the cost of any permit, shall be considered part of the restoration plan for purposes of financial assistance under section 6574 of this title .

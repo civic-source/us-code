@@ -5,12 +5,12 @@ usc_section: "957"
 chapter: 32
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 957"
-generated_at: "2026-03-29T00:28:57.970Z"
+generated_at: "2026-03-29T02:10:16.761Z"
 ---
 
 # § 957. Definitions
 
 When used in this chapter—
 
-  (1) The term “person” includes individuals, partnerships, corporations, and associations;
-  (2) The term “Secretary” means the Secretary of Agriculture.
+  - **(1)** The term “person” includes individuals, partnerships, corporations, and associations;
+  - **(2)** The term “Secretary” means the Secretary of Agriculture.

@@ -5,17 +5,17 @@ usc_section: "7653"
 chapter: 83
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7653"
-generated_at: "2026-03-29T00:30:33.997Z"
+generated_at: "2026-03-29T02:12:40.433Z"
 ---
 
 # § 7653. Annual reports on prevention of mother-to-child transmission of the HIV infection
 
-(a) Not later than 1 year after May 27, 2003 , and annually thereafter for a period of 10 years, the President shall submit to appropriate congressional committees a report on the activities of relevant executive branch agencies during the reporting period to assist in the prevention of mother-to-child transmission of the HIV infection.
-(b) Each report shall include—
-  (1) a statement of whether or not all relevant executive branch agencies have met the goal described in section 7652(b)(1) of this title ; and
-  (2) a description of efforts made by the relevant executive branch agencies to expand those activities, including—
-    (A) information on the number of sites supported for the prevention of mother-to-child transmission of the HIV infection;
-    (B) the specific activities supported;
-    (C) the number of women tested and counseled; and
-    (D) the number of women receiving preventative drug therapies.
-(c) In this section, the term “reporting period” means, in the case of the initial report, the period since May 27, 2003 , and, in the case of any subsequent report, the period since the date of submission of the most recent report.
+- **(a)** Not later than 1 year after May 27, 2003 , and annually thereafter for a period of 10 years, the President shall submit to appropriate congressional committees a report on the activities of relevant executive branch agencies during the reporting period to assist in the prevention of mother-to-child transmission of the HIV infection.
+- **(b)** Each report shall include—
+  - **(1)** a statement of whether or not all relevant executive branch agencies have met the goal described in section 7652(b)(1) of this title ; and
+  - **(2)** a description of efforts made by the relevant executive branch agencies to expand those activities, including—
+    - **(A)** information on the number of sites supported for the prevention of mother-to-child transmission of the HIV infection;
+    - **(B)** the specific activities supported;
+    - **(C)** the number of women tested and counseled; and
+    - **(D)** the number of women receiving preventative drug therapies.
+- **(c)** In this section, the term “reporting period” means, in the case of the initial report, the period since May 27, 2003 , and, in the case of any subsequent report, the period since the date of submission of the most recent report.

@@ -5,7 +5,7 @@ usc_section: "1363"
 chapter: 65
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1363"
-generated_at: "2026-03-29T00:30:15.667Z"
+generated_at: "2026-03-29T02:12:02.411Z"
 ---
 
 # § 1363. Buildings or property within special maritime and territorial jurisdiction

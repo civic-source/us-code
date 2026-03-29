@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 1
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-29T00:07:03.093Z"
+generated_at: "2026-03-29T02:12:17.128Z"
 ---
 
 # § 5. Repealed. Oct. 31, 1951, ch. 654, § 1(36) , 65 Stat. 702

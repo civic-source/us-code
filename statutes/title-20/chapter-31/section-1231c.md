@@ -1,0 +1,23 @@
+---
+title: "Section 1231c - Advice, counsel, and technical assistance"
+usc_title: 20
+usc_section: "1231c"
+chapter: 31
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1231c"
+generated_at: "2026-03-29T02:12:17.336Z"
+---
+
+# § 1231c. Advice, counsel, and technical assistance
+
+- **(a)** For the purpose of carrying out more effectively Federal education programs, the Secretary is authorized, upon request, to provide advice, counsel, and technical assistance to State educational agencies, institutions of higher education, and, with the approval of the appropriate State educational agency, elementary and secondary schools—
+  - **(1)** in determining benefits available to them under Federal law;
+  - **(2)** in preparing applications for, and meeting requirements of, applicable programs;
+  - **(3)** in order to enhance the quality, increase the depth, or broaden the scope of activities under applicable programs; and
+  - **(4)** in order to encourage simplification of applications, reports, evaluations, and other administrative procedures.
+- **(b)** The Secretary shall permit local educational agencies to use organized and systematic approaches in determining cost allocation, collection, measurement, and reporting under any applicable program, if he determines (1) that the use of such approaches will not in any manner lessen the effectiveness and impact of such program in achieving purposes for which it is intended, (2) that the agency will use such procedures as will insure adequate evaluation of each of the programs involved, and (3) that such approaches are consistent with criteria prescribed by the Comptroller General of the United States for the purposes of audit. For the purpose of this subsection a cost is allocable to a particular cost objective to the extent of relative benefits received by such objective.
+- **(c)** In awarding contracts and grants for the development of curricula or instructional materials, the Secretary and the Director of the National Institute of Education shall—
+  - **(1)** encourage applicants to assure that such curricula or instructional materials will be developed in a manner conducive to dissemination through continuing consultations with publishers, personnel of State and local educational agencies, teachers, administrators, community representatives, and other individuals experienced in such dissemination;
+  - **(2)** permit applicants to include provision for reasonable consultation fees or planning costs; and
+  - **(3)** insure that grants to public agencies and nonprofit private organizations and contracts with public agencies and private organizations for publication and dissemination of curricula or instructional materials, or both, are awarded competitively to such agencies and organizations which provide assurances that the curricula and instructional materials will reach the target populations for which they were developed.
+- **(d)** The Secretary’s annual report shall contain a statement of the Secretary’s activities under this section.

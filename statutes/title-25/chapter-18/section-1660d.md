@@ -5,12 +5,12 @@ usc_section: "1660d"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1660d"
-generated_at: "2026-03-29T00:30:38.695Z"
+generated_at: "2026-03-29T02:13:20.899Z"
 ---
 
 # § 1660d. Conferring with urban Indian organizations
 
-(a) In this section, the term “confer” means to engage in an open and free exchange of information and opinions that—
-  (1) leads to mutual understanding and comprehension; and
-  (2) emphasizes trust, respect, and shared responsibility.
-(b) The Secretary shall ensure that the Service confers, to the maximum extent practicable, with urban Indian organizations in carrying out this chapter.
+- **(a)** In this section, the term “confer” means to engage in an open and free exchange of information and opinions that—
+  - **(1)** leads to mutual understanding and comprehension; and
+  - **(2)** emphasizes trust, respect, and shared responsibility.
+- **(b)** The Secretary shall ensure that the Service confers, to the maximum extent practicable, with urban Indian organizations in carrying out this chapter.

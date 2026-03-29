@@ -5,14 +5,14 @@ usc_section: "10532"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10532"
-generated_at: "2026-03-29T00:32:01.574Z"
+generated_at: "2026-03-29T02:14:25.281Z"
 ---
 
 # § 10532. Applications
 
-(a) To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director of the Bureau of Justice Assistance in such form and containing such information as the Director may reasonably require.
-(b) Not later than 90 days after June 16, 1998 , the Director of the Bureau of Justice Assistance shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
-(c) A unit of local government that receives funding under the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 ( Public Law 105–119 )) during a fiscal year in which it submits an application under this subchapter shall not be eligible for a grant under this subchapter unless the chief executive officer of such unit of local government certifies and provides an explanation to the Director that the unit of local government considered or will consider using funding received under the block grant program for any or all of the costs relating to the purchase of armor vests, but did not, or does not expect to use such funds for such purpose.
-(d) If an application under this section is submitted in conjunction with a transaction for the purchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
-  (1) receives clear and conspicuous notice that receipt of the grant amounts requested in the application is uncertain; and
-  (2) expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.
+- **(a)** To request a grant under this subchapter, the chief executive of a State, unit of local government, or Indian tribe shall submit an application to the Director of the Bureau of Justice Assistance in such form and containing such information as the Director may reasonably require.
+- **(b)** Not later than 90 days after June 16, 1998 , the Director of the Bureau of Justice Assistance shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+- **(c)** A unit of local government that receives funding under the Local Law Enforcement Block Grant program (described under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance” of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 ( Public Law 105–119 )) during a fiscal year in which it submits an application under this subchapter shall not be eligible for a grant under this subchapter unless the chief executive officer of such unit of local government certifies and provides an explanation to the Director that the unit of local government considered or will consider using funding received under the block grant program for any or all of the costs relating to the purchase of armor vests, but did not, or does not expect to use such funds for such purpose.
+- **(d)** If an application under this section is submitted in conjunction with a transaction for the purchase of armor vests, grant amounts under this section may not be used to fund any portion of that purchase unless, before the application is submitted, the applicant—
+  - **(1)** receives clear and conspicuous notice that receipt of the grant amounts requested in the application is uncertain; and
+  - **(2)** expressly assumes the obligation to carry out the transaction, regardless of whether such amounts are received.

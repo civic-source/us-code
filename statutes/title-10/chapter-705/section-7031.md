@@ -5,22 +5,22 @@ usc_section: "7031"
 chapter: 705
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7031"
-generated_at: "2026-03-29T00:20:53.191Z"
+generated_at: "2026-03-29T02:10:45.269Z"
 ---
 
 # § 7031. The Army Staff: function; composition
 
-(a) There is in the executive part of the Department of the Army an Army Staff. The function of the Army Staff is to assist the Secretary of the Army in carrying out his responsibilities.
-(b) The Army Staff is composed of the following:
-  (1) The Chief of Staff.
-  (2) The Vice Chief of Staff.
-  (3) The Deputy Chiefs of Staff.
-  (4) The Assistant Chiefs of Staff.
-  (5) The Chief of Engineers.
-  (6) The Surgeon General of the Army.
-  (7) The Judge Advocate General of the Army.
-  (8) The Chief of Chaplains of the Army.
-  (9) The Chief of Army Reserve.
-  (10) Other members of the Army assigned or detailed to the Army Staff.
-  (11) Civilian employees of the Department of the Army assigned or detailed to the Army Staff.
-(c) Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
+- **(a)** There is in the executive part of the Department of the Army an Army Staff. The function of the Army Staff is to assist the Secretary of the Army in carrying out his responsibilities.
+- **(b)** The Army Staff is composed of the following:
+  - **(1)** The Chief of Staff.
+  - **(2)** The Vice Chief of Staff.
+  - **(3)** The Deputy Chiefs of Staff.
+  - **(4)** The Assistant Chiefs of Staff.
+  - **(5)** The Chief of Engineers.
+  - **(6)** The Surgeon General of the Army.
+  - **(7)** The Judge Advocate General of the Army.
+  - **(8)** The Chief of Chaplains of the Army.
+  - **(9)** The Chief of Army Reserve.
+  - **(10)** Other members of the Army assigned or detailed to the Army Staff.
+  - **(11)** Civilian employees of the Department of the Army assigned or detailed to the Army Staff.
+- **(c)** Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.

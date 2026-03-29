@@ -5,7 +5,7 @@ usc_section: "3499"
 chapter: 223
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3499"
-generated_at: "2026-03-29T00:30:15.734Z"
+generated_at: "2026-03-29T02:12:02.485Z"
 ---
 
 # § 3499. Contempt of court by witness—(Rule)

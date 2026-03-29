@@ -5,7 +5,7 @@ usc_section: "1736q"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1736q"
-generated_at: "2026-03-29T00:28:58.052Z"
+generated_at: "2026-03-29T02:10:16.856Z"
 ---
 
 # § 1736q. Repealed. Pub. L. 104–127, title II, § 268 , Apr. 4, 1996 , 110 Stat. 975

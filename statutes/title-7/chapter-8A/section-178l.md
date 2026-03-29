@@ -5,7 +5,7 @@ usc_section: "178l"
 chapter: 8
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 178l"
-generated_at: "2026-03-29T00:28:57.913Z"
+generated_at: "2026-03-29T02:10:16.705Z"
 ---
 
 # § 178l. Rules and regulations

@@ -5,14 +5,14 @@ usc_section: "601"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 601"
-generated_at: "2026-03-29T00:32:53.207Z"
+generated_at: "2026-03-29T02:15:35.982Z"
 ---
 
 # § 601. Purpose
 
-(a) The purpose of this part is to increase the flexibility of States in operating a program designed to—
-  (1) provide assistance to needy families so that children may be cared for in their own homes or in the homes of relatives;
-  (2) end the dependence of needy parents on government benefits by promoting job preparation, work, and marriage;
-  (3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annual numerical goals for preventing and reducing the incidence of these pregnancies; and
-  (4) encourage the formation and maintenance of two-parent families.
-(b) This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.
+- **(a)** The purpose of this part is to increase the flexibility of States in operating a program designed to—
+  - **(1)** provide assistance to needy families so that children may be cared for in their own homes or in the homes of relatives;
+  - **(2)** end the dependence of needy parents on government benefits by promoting job preparation, work, and marriage;
+  - **(3)** prevent and reduce the incidence of out-of-wedlock pregnancies and establish annual numerical goals for preventing and reducing the incidence of these pregnancies; and
+  - **(4)** encourage the formation and maintenance of two-parent families.
+- **(b)** This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.

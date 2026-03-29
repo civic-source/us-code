@@ -5,7 +5,7 @@ usc_section: "5885"
 chapter: 88
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5885"
-generated_at: "2026-03-29T00:28:58.213Z"
+generated_at: "2026-03-29T02:10:17.051Z"
 ---
 
 # §§ 5881 to 5885. Repealed. Pub. L. 104–127, title VIII, § 862(a) , Apr. 4, 1996 , 110 Stat. 1174

@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-29T00:29:52.533Z"
+generated_at: "2026-03-29T02:11:53.567Z"
 ---
 
 # § 470aaa–9. Regulations

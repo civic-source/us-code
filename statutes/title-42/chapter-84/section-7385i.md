@@ -5,10 +5,10 @@ usc_section: "7385i"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7385i"
-generated_at: "2026-03-29T00:32:54.029Z"
+generated_at: "2026-03-29T02:15:36.901Z"
 ---
 
 # § 7385i. Forfeiture of benefits by convicted felons
 
-(a) Any individual convicted of a violation of section 1920 of title 18 , or any other Federal or State criminal statute relating to fraud in the application for or receipt of any benefit under this subchapter or under any other Federal or State workers’ compensation law, shall forfeit (as of the date of such conviction) any entitlement to any compensation or benefit under this subchapter such individual would otherwise be awarded for any injury, illness or death covered by this subchapter for which the time of injury was on or before the date of the conviction.
-(b) Notwithstanding section 552a of title 5 , or any other Federal or State law, an agency of the United States, a State, or a political subdivision of a State shall make available to the President, upon written request from the President and if the President requires the information to carry out this section, the names and Social Security account numbers of individuals confined, for conviction of a felony, in a jail, prison, or other penal institution or correctional facility under the jurisdiction of that agency.
+- **(a)** Any individual convicted of a violation of section 1920 of title 18 , or any other Federal or State criminal statute relating to fraud in the application for or receipt of any benefit under this subchapter or under any other Federal or State workers’ compensation law, shall forfeit (as of the date of such conviction) any entitlement to any compensation or benefit under this subchapter such individual would otherwise be awarded for any injury, illness or death covered by this subchapter for which the time of injury was on or before the date of the conviction.
+- **(b)** Notwithstanding section 552a of title 5 , or any other Federal or State law, an agency of the United States, a State, or a political subdivision of a State shall make available to the President, upon written request from the President and if the President requires the information to carry out this section, the names and Social Security account numbers of individuals confined, for conviction of a felony, in a jail, prison, or other penal institution or correctional facility under the jurisdiction of that agency.

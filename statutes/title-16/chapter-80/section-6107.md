@@ -5,7 +5,7 @@ usc_section: "6107"
 chapter: 80
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6107"
-generated_at: "2026-03-29T00:29:52.854Z"
+generated_at: "2026-03-29T02:11:53.958Z"
 ---
 
 # § 6107. Report to Congress

@@ -5,15 +5,15 @@ usc_section: "2751"
 chapter: 40
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2751"
-generated_at: "2026-03-29T00:31:57.445Z"
+generated_at: "2026-03-29T02:14:18.643Z"
 ---
 
 # § 2751. Savings provision
 
-(a) A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
-(b) An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
-(c) An inference of legislative construction shall not be drawn by reason of the caption or catch line of a provision enacted by this Act.
-(d) Nothing in this Act shall apply to any rights and duties that matured, penalties that were incurred, and proceedings that were begun before August 18, 1990 , except as provided by this section, and shall be adjudicated pursuant to the law applicable on the date prior to August 18, 1990 .
-(e) Except as otherwise provided in this Act, this Act does not affect—
-  (1) admiralty and maritime law; or
-  (2) the jurisdiction of the district courts of the United States with respect to civil actions under admiralty and maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.
+- **(a)** A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
+- **(b)** An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
+- **(c)** An inference of legislative construction shall not be drawn by reason of the caption or catch line of a provision enacted by this Act.
+- **(d)** Nothing in this Act shall apply to any rights and duties that matured, penalties that were incurred, and proceedings that were begun before August 18, 1990 , except as provided by this section, and shall be adjudicated pursuant to the law applicable on the date prior to August 18, 1990 .
+- **(e)** Except as otherwise provided in this Act, this Act does not affect—
+  - **(1)** admiralty and maritime law; or
+  - **(2)** the jurisdiction of the district courts of the United States with respect to civil actions under admiralty and maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.

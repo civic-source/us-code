@@ -5,12 +5,12 @@ usc_section: "9504"
 chapter: 95
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 9504"
-generated_at: "2026-03-29T00:31:52.664Z"
+generated_at: "2026-03-29T02:14:14.123Z"
 ---
 
 # § 9504. Review and recommendations
 
 When necessary or when requested by either House of Congress or a committee of Congress, the Comptroller General shall—
 
-  (1) review financial and actuarial statements provided under section 9503 of this title to decide whether the reporting requirements of section 9503 are adequate to carry out section 9501 of this title ; and
-  (2) submit to Congress recommendations for legislation necessary to carry out section 9501 of this title .
+  - **(1)** review financial and actuarial statements provided under section 9503 of this title to decide whether the reporting requirements of section 9503 are adequate to carry out section 9501 of this title ; and
+  - **(2)** submit to Congress recommendations for legislation necessary to carry out section 9501 of this title .

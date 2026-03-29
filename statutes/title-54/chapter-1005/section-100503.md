@@ -5,14 +5,14 @@ usc_section: "100503"
 chapter: 1005
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 100503"
-generated_at: "2026-03-29T00:33:21.599Z"
+generated_at: "2026-03-29T02:16:35.442Z"
 ---
 
 # § 100503. Five-year strategic plans
 
-(a) Each System unit shall prepare and make available to the public a 5-year strategic plan and an annual performance plan. The plans shall reflect the Service policies, goals, and outcomes represented in the Service-wide strategic plan prepared pursuant to section 306 of title 5 .
-(b) 
-  (1) As a part of the annual performance plan for a System unit prepared pursuant to subsection (a), following receipt of the appropriation for the unit from the Operations of the National Park System account (but not later than January 1 of each year), the superintendent of the System unit shall develop and make available to the public the budget for the current fiscal year for that System unit.
-  (2) The budget shall include—
-    (A) funding allocations for resource preservation (including resource management), visitor services (including maintenance, interpretation, law enforcement, and search and rescue), and administration; and
-    (B) allocations into each of the categories in subparagraph (A) of all funds retained from fees collected for that year, including special use permits, concession franchise fees, and recreation use and entrance fees.
+- **(a)** Each System unit shall prepare and make available to the public a 5-year strategic plan and an annual performance plan. The plans shall reflect the Service policies, goals, and outcomes represented in the Service-wide strategic plan prepared pursuant to section 306 of title 5 .
+- **(b)**
+  - **(1)** As a part of the annual performance plan for a System unit prepared pursuant to subsection (a), following receipt of the appropriation for the unit from the Operations of the National Park System account (but not later than January 1 of each year), the superintendent of the System unit shall develop and make available to the public the budget for the current fiscal year for that System unit.
+  - **(2)** The budget shall include—
+    - **(A)** funding allocations for resource preservation (including resource management), visitor services (including maintenance, interpretation, law enforcement, and search and rescue), and administration; and
+    - **(B)** allocations into each of the categories in subparagraph (A) of all funds retained from fees collected for that year, including special use permits, concession franchise fees, and recreation use and entrance fees.

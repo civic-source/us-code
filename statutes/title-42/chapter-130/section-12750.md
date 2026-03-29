@@ -5,37 +5,37 @@ usc_section: "12750"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12750"
-generated_at: "2026-03-29T00:32:54.295Z"
+generated_at: "2026-03-29T02:15:37.232Z"
 ---
 
 # § 12750. Matching requirements
 
-(a) Each participating jurisdiction shall make contributions to housing that qualifies as affordable housing under this subchapter that total, throughout a fiscal year, not less than 25 percent of the funds drawn from the jurisdiction’s HOME Investment Trust Fund in such fiscal year. Such contributions shall be in addition to any amounts made available under section 12746(3)(A)(ii) of this title .
-(b) 
-  (1) A contribution shall be recognized for purposes of subsection (a) only if it—
-    (A) is made with respect to housing that qualifies as affordable housing under section 12745 of this title ; or
-    (B) is made with respect to any portion of a project not less than 50 percent of the units of which qualify as affordable housing under section 12745 of this title .
-  (2) Contributions for administrative expenses may not be recognized for purposes of subsection (a).
-(c) Such contributions may be in the form of—
-  (1) cash contributions from non-Federal resources, which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title ;
-  (2) the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that achieves affordability of housing assisted under this subchapter;
-  (3) the value of land or other real property as appraised according to procedures acceptable to the Secretary;
-  (4) the value of investment in on-site and off-site infrastructure directly required for affordable housing assisted under this subchapter;
-  (5) Redesignated (4)
-  (6) up to—
-    (A) 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
-    (B) 25 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a single-family project financed,
-  (7) the reasonable value of any site-preparation and construction materials and any donated or voluntary labor in connection with the site-preparation for, or construction or rehabilitation of, affordable housing; and
-  (8) such other contributions to affordable housing as the Secretary considers appropriate.
-(d) 
-  (1) The Secretary shall reduce the matching requirement under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during a fiscal year by—
-    (A) 50 percent for a jurisdiction that certifies that it is in fiscal distress; and
-    (B) 100 percent for a jurisdiction that certifies that it is in severe fiscal distress.
-  (2) For purposes of this section—
-    (A) “fiscal distress” means a jurisdiction other than a State that satisfies 1 of the distress criteria set forth in paragraph (3); and
-    (B) “severe fiscal distress” means a jurisdiction other than a State that satisfies both of the distress criteria set forth in paragraph (3).
-  (3) For purposes of a jurisdiction other than a State certifying that it is distressed, the following criteria shall apply:
-    (A) The average poverty rate in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was equal to or greater than 125 percent of the average national poverty rate during such calendar year (as determined according to information of the Bureau of the Census).
-    (B) The average per capita income in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was less than 75 percent of the average national per capita income during such calendar year (as determined according to information of the Bureau of the Census).
-  (4) In determining the degree to which a jurisdiction that is a State is distressed, the Secretary shall take into consideration the State’s fiscal capacity and expenditure needs as determined by a national organization which compiles the relevant data.
-  (5) If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.] is in effect for any part of a fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.
+- **(a)** Each participating jurisdiction shall make contributions to housing that qualifies as affordable housing under this subchapter that total, throughout a fiscal year, not less than 25 percent of the funds drawn from the jurisdiction’s HOME Investment Trust Fund in such fiscal year. Such contributions shall be in addition to any amounts made available under section 12746(3)(A)(ii) of this title .
+- **(b)**
+  - **(1)** A contribution shall be recognized for purposes of subsection (a) only if it—
+    - **(A)** is made with respect to housing that qualifies as affordable housing under section 12745 of this title ; or
+    - **(B)** is made with respect to any portion of a project not less than 50 percent of the units of which qualify as affordable housing under section 12745 of this title .
+  - **(2)** Contributions for administrative expenses may not be recognized for purposes of subsection (a).
+- **(c)** Such contributions may be in the form of—
+  - **(1)** cash contributions from non-Federal resources, which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title ;
+  - **(2)** the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that achieves affordability of housing assisted under this subchapter;
+  - **(3)** the value of land or other real property as appraised according to procedures acceptable to the Secretary;
+  - **(4)** the value of investment in on-site and off-site infrastructure directly required for affordable housing assisted under this subchapter;
+  - **(5)** Redesignated (4)
+  - **(6)** up to—
+    - **(A)** 50 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a multifamily affordable housing project financed, and
+    - **(B)** 25 percent of proceeds from bond financing validly issued by a State or local government, agency or instrumentality thereof, or political subdivision thereof, and repayable with revenues derived from a single-family project financed,
+  - **(7)** the reasonable value of any site-preparation and construction materials and any donated or voluntary labor in connection with the site-preparation for, or construction or rehabilitation of, affordable housing; and
+  - **(8)** such other contributions to affordable housing as the Secretary considers appropriate.
+- **(d)**
+  - **(1)** The Secretary shall reduce the matching requirement under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during a fiscal year by—
+    - **(A)** 50 percent for a jurisdiction that certifies that it is in fiscal distress; and
+    - **(B)** 100 percent for a jurisdiction that certifies that it is in severe fiscal distress.
+  - **(2)** For purposes of this section—
+    - **(A)** “fiscal distress” means a jurisdiction other than a State that satisfies 1 of the distress criteria set forth in paragraph (3); and
+    - **(B)** “severe fiscal distress” means a jurisdiction other than a State that satisfies both of the distress criteria set forth in paragraph (3).
+  - **(3)** For purposes of a jurisdiction other than a State certifying that it is distressed, the following criteria shall apply:
+    - **(A)** The average poverty rate in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was equal to or greater than 125 percent of the average national poverty rate during such calendar year (as determined according to information of the Bureau of the Census).
+    - **(B)** The average per capita income in the jurisdiction for the calendar year immediately preceding the year in which its fiscal year begins was less than 75 percent of the average national per capita income during such calendar year (as determined according to information of the Bureau of the Census).
+  - **(4)** In determining the degree to which a jurisdiction that is a State is distressed, the Secretary shall take into consideration the State’s fiscal capacity and expenditure needs as determined by a national organization which compiles the relevant data.
+  - **(5)** If a participating jurisdiction is located in an area in which a declaration of a disaster pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5121 et seq.] is in effect for any part of a fiscal year, the Secretary may reduce the matching requirement for that fiscal year under subsection (a) with respect to any funds drawn from a jurisdiction’s HOME Investment Trust Fund Account during that fiscal year by up to 100 percent.

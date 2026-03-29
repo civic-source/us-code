@@ -5,13 +5,13 @@ usc_section: "1493"
 chapter: 10
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1493"
-generated_at: "2026-03-29T00:33:06.623Z"
+generated_at: "2026-03-29T02:16:00.810Z"
 ---
 
 # § 1493. Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders
 
 The prosecution in a territory or Commonwealth is authorized—unless precluded by local law—to seek review or other suitable relief in the appropriate local or Federal appellate court, or, where applicable, in the Supreme Court of the United States from—
 
-(a) a decision, judgment, or order of a trial court dismissing an indictment or information as to any one or more counts, except that no review shall lie where the constitutional prohibition against double jeopardy would further prosecution;
-(b) a decision or order of a trial court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the prosecution certifies to the trial court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding; and
-(c) an adverse decision, judgment, or order of an appellate court.
+- **(a)** a decision, judgment, or order of a trial court dismissing an indictment or information as to any one or more counts, except that no review shall lie where the constitutional prohibition against double jeopardy would further prosecution;
+- **(b)** a decision or order of a trial court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the prosecution certifies to the trial court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding; and
+- **(c)** an adverse decision, judgment, or order of an appellate court.

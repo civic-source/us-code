@@ -1,0 +1,14 @@
+---
+title: "Section 1502 - Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a foreign state"
+usc_title: 8
+usc_section: "1502"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1502"
+generated_at: "2026-03-29T02:10:21.475Z"
+---
+
+# § 1502. Certificate of nationality issued by Secretary of State for person not a naturalized citizen of United States for use in proceedings of a foreign state
+
+The Secretary of State is authorized to issue, in his discretion and in accordance with rules and regulations prescribed by him, a certificate of nationality for any person not a naturalized citizen of the United States who presents satisfactory evidence that he is an American national and that such certificate is needed for use in judicial or administrative proceedings in a foreign state. Such certificate shall be solely for use in the case for which it was issued and shall be transmitted by the Secretary of State through appropriate official channels to the judicial or administrative officers of the foreign state in which it is to be used.
+

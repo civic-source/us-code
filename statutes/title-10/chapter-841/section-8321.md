@@ -5,10 +5,10 @@ usc_section: "8321"
 chapter: 841
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8321"
-generated_at: "2026-03-29T00:20:53.220Z"
+generated_at: "2026-03-29T02:10:45.303Z"
 ---
 
 # § 8321. Officers: 40 years
 
-(a) Each officer of the Regular Navy or the Regular Marine Corps holding a permanent appointment in the grade of warrant officer, W–1, or above who applies for retirement after completing 40 or more years of active service shall be retired by the Secretary of the Navy.
-(b) For the purpose of this section, an officer’s years of active service are computed by adding all his active service in the armed forces.
+- **(a)** Each officer of the Regular Navy or the Regular Marine Corps holding a permanent appointment in the grade of warrant officer, W–1, or above who applies for retirement after completing 40 or more years of active service shall be retired by the Secretary of the Navy.
+- **(b)** For the purpose of this section, an officer’s years of active service are computed by adding all his active service in the armed forces.

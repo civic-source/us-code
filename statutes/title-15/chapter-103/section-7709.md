@@ -5,13 +5,13 @@ usc_section: "7709"
 chapter: 103
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 7709"
-generated_at: "2026-03-29T00:29:41.934Z"
+generated_at: "2026-03-29T02:11:34.436Z"
 ---
 
 # § 7709. Study of effects of commercial electronic mail
 
-(a) Not later than 24 months after December 16, 2003 , the Commission, in consultation with the Department of Justice and other appropriate agencies, shall submit a report to the Congress that provides a detailed analysis of the effectiveness and enforcement of the provisions of this chapter and the need (if any) for the Congress to modify such provisions.
-(b) The Commission shall include in the report required by subsection (a)—
-  (1) an analysis of the extent to which technological and marketplace developments, including changes in the nature of the devices through which consumers access their electronic mail messages, may affect the practicality and effectiveness of the provisions of this chapter;
-  (2) analysis and recommendations concerning how to address commercial electronic mail that originates in or is transmitted through or to facilities or computers in other nations, including initiatives or policy positions that the Federal Government could pursue through international negotiations, fora, organizations, or institutions; and
-  (3) analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.
+- **(a)** Not later than 24 months after December 16, 2003 , the Commission, in consultation with the Department of Justice and other appropriate agencies, shall submit a report to the Congress that provides a detailed analysis of the effectiveness and enforcement of the provisions of this chapter and the need (if any) for the Congress to modify such provisions.
+- **(b)** The Commission shall include in the report required by subsection (a)—
+  - **(1)** an analysis of the extent to which technological and marketplace developments, including changes in the nature of the devices through which consumers access their electronic mail messages, may affect the practicality and effectiveness of the provisions of this chapter;
+  - **(2)** analysis and recommendations concerning how to address commercial electronic mail that originates in or is transmitted through or to facilities or computers in other nations, including initiatives or policy positions that the Federal Government could pursue through international negotiations, fora, organizations, or institutions; and
+  - **(3)** analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.

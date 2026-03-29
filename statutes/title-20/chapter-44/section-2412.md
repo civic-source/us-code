@@ -1,0 +1,14 @@
+---
+title: "Section 2412 - Prohibition on use of funds to induce out-of-State relocation of businesses"
+usc_title: 20
+usc_section: "2412"
+chapter: 44
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2412"
+generated_at: "2026-03-29T02:12:17.390Z"
+---
+
+# § 2412. Prohibition on use of funds to induce out-of-State relocation of businesses
+
+No funds provided under this chapter shall be used for the purpose of directly providing incentives or inducements to an employer to relocate a business enterprise from one State to another State if such relocation will result in a reduction in the number of jobs available in the State where the business enterprise is located before such incentives or inducements are offered.
+

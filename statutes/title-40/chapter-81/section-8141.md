@@ -5,7 +5,7 @@ usc_section: "8141"
 chapter: 81
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 8141"
-generated_at: "2026-03-29T00:32:20.564Z"
+generated_at: "2026-03-29T02:14:58.800Z"
 ---
 
 # § 8141. Contract to rent buildings in the District of Columbia not to be made until appropriation enacted

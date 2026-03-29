@@ -5,7 +5,7 @@ usc_section: "5008"
 chapter: 50
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5008"
-generated_at: "2026-03-29T00:29:16.869Z"
+generated_at: "2026-03-29T02:11:21.237Z"
 ---
 
 # § 5008. Delays in an emergency

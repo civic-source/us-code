@@ -1,0 +1,14 @@
+---
+title: "Section 1847 - Authorization to fix basic rate of compensation for certain positions"
+usc_title: 2
+usc_section: "1847"
+chapter: 28
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 1847"
+generated_at: "2026-03-29T02:09:53.739Z"
+---
+
+# § 1847. Authorization to fix basic rate of compensation for certain positions
+
+On and after August 21, 1959 , the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: Provided , That this provision shall not be applicable to the positions of Architect or Assistant Architect. On and after August 21, 1959 , the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation “Senate Office Buildings”, at a basic rate of $8,200 per annum.
+

@@ -5,34 +5,34 @@ usc_section: "1681v"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681v"
-generated_at: "2026-03-29T00:29:41.737Z"
+generated_at: "2026-03-29T02:11:34.227Z"
 ---
 
 # § 1681v. Disclosures to governmental agencies for counterterrorism purposes
 
-(a) Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer’s file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency’s conduct or such investigation, activity or analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.
-(b) The certification described in subsection (a) shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
-(c) 
-  (1) 
-    (A) If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose or specify in any consumer report, that a government agency described in subsection (a) has sought or obtained access to information or records under subsection (a).
-    (B) The requirements of subparagraph (A) shall apply if the head of the government agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
-      (i) a danger to the national security of the United States;
-      (ii) interference with a criminal, counterterrorism, or counterintelligence investigation;
-      (iii) interference with diplomatic relations; or
-      (iv) danger to the life or physical safety of any person.
-  (2) 
-    (A) A consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
-      (i) those persons to whom disclosure is necessary in order to comply with the request;
-      (ii) an attorney in order to obtain legal advice or assistance regarding the request; or
-      (iii) other persons as permitted by the head of the government agency described in subsection (a) or a designee.
-    (B) A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request under subsection (a) is issued in the same manner as the person to whom the request is issued.
-    (C) Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
-    (D) At the request of the head of the government agency described in subsection (a) or a designee, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the head or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
-(d) 
-  (1) A request under subsection (a) or a non-disclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under section 3511 of title 18 .
-  (2) A request under subsection (a) shall include notice of the availability of judicial review described in paragraph (1).
-(e) Nothing in section 1681u of this title shall be construed to limit the authority of the Director of the Federal Bureau of Investigation under this section.
-(f) Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a government agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
-(g) 
-  (1) On a semi-annual basis, the Attorney General shall fully inform the Committee on the Judiciary, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to subsection (a).
-  (2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 3106 of title 50 .
+- **(a)** Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish a consumer report of a consumer and all other information in a consumer’s file to a government agency authorized to conduct investigations of, or intelligence or counterintelligence activities or analysis related to, international terrorism when presented with a written certification by such government agency that such information is necessary for the agency’s conduct or such investigation, activity or analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.
+- **(b)** The certification described in subsection (a) shall be signed by a supervisory official designated by the head of a Federal agency or an officer of a Federal agency whose appointment to office is required to be made by the President, by and with the advice and consent of the Senate.
+- **(c)**
+  - **(1)**
+    - **(A)** If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose or specify in any consumer report, that a government agency described in subsection (a) has sought or obtained access to information or records under subsection (a).
+    - **(B)** The requirements of subparagraph (A) shall apply if the head of the government agency described in subsection (a), or a designee, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+      - **(i)** a danger to the national security of the United States;
+      - **(ii)** interference with a criminal, counterterrorism, or counterintelligence investigation;
+      - **(iii)** interference with diplomatic relations; or
+      - **(iv)** danger to the life or physical safety of any person.
+  - **(2)**
+    - **(A)** A consumer reporting agency that receives a request under subsection (a), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
+      - **(i)** those persons to whom disclosure is necessary in order to comply with the request;
+      - **(ii)** an attorney in order to obtain legal advice or assistance regarding the request; or
+      - **(iii)** other persons as permitted by the head of the government agency described in subsection (a) or a designee.
+    - **(B)** A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request under subsection (a) is issued in the same manner as the person to whom the request is issued.
+    - **(C)** Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
+    - **(D)** At the request of the head of the government agency described in subsection (a) or a designee, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the head or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+- **(d)**
+  - **(1)** A request under subsection (a) or a non-disclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under section 3511 of title 18 .
+  - **(2)** A request under subsection (a) shall include notice of the availability of judicial review described in paragraph (1).
+- **(e)** Nothing in section 1681u of this title shall be construed to limit the authority of the Director of the Federal Bureau of Investigation under this section.
+- **(f)** Notwithstanding any other provision of this subchapter, any consumer reporting agency or agent or employee thereof making disclosure of consumer reports or other information pursuant to this section in good-faith reliance upon a certification of a government agency pursuant to the provisions of this section shall not be liable to any person for such disclosure under this subchapter, the constitution of any State, or any law or regulation of any State or any political subdivision of any State.
+- **(g)**
+  - **(1)** On a semi-annual basis, the Attorney General shall fully inform the Committee on the Judiciary, the Committee on Financial Services, and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on the Judiciary, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to subsection (a).
+  - **(2)** In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 3106 of title 50 .

@@ -5,7 +5,7 @@ usc_section: "537"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 537"
-generated_at: "2026-03-29T00:29:52.543Z"
+generated_at: "2026-03-29T02:11:53.577Z"
 ---
 
 # § 537. Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer of funds, and refunds

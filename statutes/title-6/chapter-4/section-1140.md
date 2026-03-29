@@ -5,7 +5,7 @@ usc_section: "1140"
 chapter: 4
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 1140"
-generated_at: "2026-03-29T00:06:17.498Z"
+generated_at: "2026-03-29T02:10:05.078Z"
 ---
 
 # § 1140. Threat assessments

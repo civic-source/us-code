@@ -5,7 +5,7 @@ usc_section: "1104"
 chapter: 16
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 1104"
-generated_at: "2026-03-29T00:30:24.354Z"
+generated_at: "2026-03-29T02:12:28.169Z"
 ---
 
 # § 1104. Repealed. Pub. L. 94–237, § 4(c)(1) , Mar. 19, 1976 , 90 Stat. 244

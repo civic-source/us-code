@@ -5,10 +5,10 @@ usc_section: "5351"
 chapter: 53
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 5351"
-generated_at: "2026-03-29T00:06:10.989Z"
+generated_at: "2026-03-29T02:09:53.784Z"
 ---
 
 # § 5351. Delivery of Daily Calendar
 
-(a) None of the funds made available in any fiscal year may be used to deliver to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) a printed copy of the Daily Calendar of the House of Representatives which is prepared by the Clerk of the House of Representatives.
-(b) This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.
+- **(a)** None of the funds made available in any fiscal year may be used to deliver to the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) a printed copy of the Daily Calendar of the House of Representatives which is prepared by the Clerk of the House of Representatives.
+- **(b)** This section shall apply with respect to fiscal year 2019 and each succeeding fiscal year.

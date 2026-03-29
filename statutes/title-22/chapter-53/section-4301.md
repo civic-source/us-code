@@ -5,11 +5,11 @@ usc_section: "4301"
 chapter: 53
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4301"
-generated_at: "2026-03-29T00:30:33.922Z"
+generated_at: "2026-03-29T02:12:40.337Z"
 ---
 
 # § 4301. Congressional declaration of findings and policy
 
-(a) The Congress finds that the operation in the United States of foreign missions and public international organizations and the official missions to such organizations, including the permissible scope of their activities and the location and size of their facilities, is a proper subject for the exercise of Federal jurisdiction.
-(b) The Congress declares that it is the policy of the United States to support the secure and efficient operation of United States missions abroad, to facilitate the secure and efficient operation in the United States of foreign missions and public international organizations and the official missions to such organizations, and to assist in obtaining appropriate benefits, privileges, and immunities for those missions and organizations and to require their observance of corresponding obligations in accordance with international law.
-(c) The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.
+- **(a)** The Congress finds that the operation in the United States of foreign missions and public international organizations and the official missions to such organizations, including the permissible scope of their activities and the location and size of their facilities, is a proper subject for the exercise of Federal jurisdiction.
+- **(b)** The Congress declares that it is the policy of the United States to support the secure and efficient operation of United States missions abroad, to facilitate the secure and efficient operation in the United States of foreign missions and public international organizations and the official missions to such organizations, and to assist in obtaining appropriate benefits, privileges, and immunities for those missions and organizations and to require their observance of corresponding obligations in accordance with international law.
+- **(c)** The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.

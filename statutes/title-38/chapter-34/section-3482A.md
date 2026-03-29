@@ -5,7 +5,7 @@ usc_section: "3482A"
 chapter: 34
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3482A"
-generated_at: "2026-03-29T00:32:17.258Z"
+generated_at: "2026-03-29T02:14:50.410Z"
 ---
 
 # [§ 3482A. Vacant]

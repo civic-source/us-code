@@ -5,7 +5,7 @@ usc_section: "7269a"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7269a"
-generated_at: "2026-03-29T00:32:54.020Z"
+generated_at: "2026-03-29T02:15:36.887Z"
 ---
 
 # § 7269a. Repealed. Pub. L. 109–289, div. B, title II, § 20319 , as added Pub. L. 110–5, § 2 , Feb. 15, 2007 , 121 Stat. 21 .

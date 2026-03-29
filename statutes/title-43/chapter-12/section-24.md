@@ -5,7 +5,7 @@ usc_section: "24"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 24"
-generated_at: "2026-03-29T00:32:57.331Z"
+generated_at: "2026-03-29T02:15:47.531Z"
 ---
 
 # § 390h–24. Omitted

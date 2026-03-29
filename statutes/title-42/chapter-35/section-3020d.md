@@ -5,7 +5,7 @@ usc_section: "3020d"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3020d"
-generated_at: "2026-03-29T00:32:53.804Z"
+generated_at: "2026-03-29T02:15:36.632Z"
 ---
 
 # § 3020d. Surplus property eligibility

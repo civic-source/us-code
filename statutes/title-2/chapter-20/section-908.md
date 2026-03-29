@@ -5,7 +5,7 @@ usc_section: "908"
 chapter: 20
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 908"
-generated_at: "2026-03-29T00:06:10.938Z"
+generated_at: "2026-03-29T02:09:53.705Z"
 ---
 
 # § 908. Repealed. Pub. L. 105–33, title X, § 10210 , Aug. 5, 1997 , 111 Stat. 711

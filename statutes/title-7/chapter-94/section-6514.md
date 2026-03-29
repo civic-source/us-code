@@ -5,23 +5,23 @@ usc_section: "6514"
 chapter: 94
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 6514"
-generated_at: "2026-03-29T00:28:58.238Z"
+generated_at: "2026-03-29T02:10:17.079Z"
 ---
 
 # § 6514. Accreditation program
 
-(a) The Secretary shall establish and implement a program to accredit a governing State official, and any private person, that meets the requirements of this section as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation.
-(b) To be accredited as a certifying agent under this section, a governing State official or private person shall—
-  (1) prepare and submit, to the Secretary, an application for such accreditation;
-  (2) have sufficient expertise in organic farming and handling techniques as determined by the Secretary; and
-  (3) comply with the requirements of this section and section 6515 of this title .
-(c) The Secretary, acting through the Deputy Administrator of the national organic program established under this chapter, has the authority, and shall grant a certifying agent the authority, to require producers and handlers to provide additional documentation or verification before granting a certification under section 6503 of this title , in the case of a compliance risk with respect to meeting the national standards for organic production established under section 6504 of this title , as determined by the Secretary or the certifying agent.
-(d) 
-  (1) For an agricultural product being imported into the United States to be represented as organically produced, the Secretary shall require the agricultural product to be accompanied by a complete and valid national organic import certificate, which shall be available as an electronic record.
-  (2) 
-    (A) The Secretary shall establish a system to track national organic import certificates.
-    (B) In establishing the system under subparagraph (A), the Secretary may integrate the system into any existing information tracking systems for imports of agricultural products.
-(e) An accreditation made under this section—
-  (1) subject to paragraph (2), shall be for a period of not more than 5 years, as determined appropriate by the Secretary;
-  (2) in the case of a certifying agent operating in a foreign country, shall be for a period of time that is consistent with the certification of a domestic certifying agent, as determined appropriate by the Secretary; and
-  (3) may be renewed.
+- **(a)** The Secretary shall establish and implement a program to accredit a governing State official, and any private person, that meets the requirements of this section as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation.
+- **(b)** To be accredited as a certifying agent under this section, a governing State official or private person shall—
+  - **(1)** prepare and submit, to the Secretary, an application for such accreditation;
+  - **(2)** have sufficient expertise in organic farming and handling techniques as determined by the Secretary; and
+  - **(3)** comply with the requirements of this section and section 6515 of this title .
+- **(c)** The Secretary, acting through the Deputy Administrator of the national organic program established under this chapter, has the authority, and shall grant a certifying agent the authority, to require producers and handlers to provide additional documentation or verification before granting a certification under section 6503 of this title , in the case of a compliance risk with respect to meeting the national standards for organic production established under section 6504 of this title , as determined by the Secretary or the certifying agent.
+- **(d)**
+  - **(1)** For an agricultural product being imported into the United States to be represented as organically produced, the Secretary shall require the agricultural product to be accompanied by a complete and valid national organic import certificate, which shall be available as an electronic record.
+  - **(2)**
+    - **(A)** The Secretary shall establish a system to track national organic import certificates.
+    - **(B)** In establishing the system under subparagraph (A), the Secretary may integrate the system into any existing information tracking systems for imports of agricultural products.
+- **(e)** An accreditation made under this section—
+  - **(1)** subject to paragraph (2), shall be for a period of not more than 5 years, as determined appropriate by the Secretary;
+  - **(2)** in the case of a certifying agent operating in a foreign country, shall be for a period of time that is consistent with the certification of a domestic certifying agent, as determined appropriate by the Secretary; and
+  - **(3)** may be renewed.

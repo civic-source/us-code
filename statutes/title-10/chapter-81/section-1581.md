@@ -5,16 +5,16 @@ usc_section: "1581"
 chapter: 81
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1581"
-generated_at: "2026-03-29T00:20:52.994Z"
+generated_at: "2026-03-29T02:10:45.035Z"
 ---
 
 # § 1581. Foreign National Employees Separation Pay Account
 
-(a) There is established on the books of the Treasury an account to be known as the “Foreign National Employees Separation Pay Account, Defense”. The account shall be used for the accumulation of funds to finance obligations of the United States for separation pay for foreign nationals referred to in subsection (e).
-(b) The Secretary of Defense shall deposit into the account from applicable appropriations all amounts obligated for separation pay for foreign nationals referred to in subsection (e).
-(c) Amounts in the account shall remain available for expenditure in accordance with the purpose for which obligated until expended.
-(d) Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
-(e) This section applies only with respect to separation pay of foreign nationals employed by the Department of Defense, and foreign nationals employed by a foreign government for the benefit of the Department of Defense, under any of the following agreements that provide for payment of separation pay:
-  (1) A contract.
-  (2) A treaty.
-  (3) A memorandum of understanding with a foreign nation.
+- **(a)** There is established on the books of the Treasury an account to be known as the “Foreign National Employees Separation Pay Account, Defense”. The account shall be used for the accumulation of funds to finance obligations of the United States for separation pay for foreign nationals referred to in subsection (e).
+- **(b)** The Secretary of Defense shall deposit into the account from applicable appropriations all amounts obligated for separation pay for foreign nationals referred to in subsection (e).
+- **(c)** Amounts in the account shall remain available for expenditure in accordance with the purpose for which obligated until expended.
+- **(d)** Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
+- **(e)** This section applies only with respect to separation pay of foreign nationals employed by the Department of Defense, and foreign nationals employed by a foreign government for the benefit of the Department of Defense, under any of the following agreements that provide for payment of separation pay:
+  - **(1)** A contract.
+  - **(2)** A treaty.
+  - **(3)** A memorandum of understanding with a foreign nation.

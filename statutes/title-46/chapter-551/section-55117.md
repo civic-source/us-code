@@ -5,14 +5,14 @@ usc_section: "55117"
 chapter: 551
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 55117"
-generated_at: "2026-03-29T00:33:02.948Z"
+generated_at: "2026-03-29T02:15:53.782Z"
 ---
 
 # § 55117. Great Lakes rail route
 
 Section 55102 of this title does not apply to the transportation of merchandise loaded on a railroad car or to a motor vehicle with or without a trailer, and with its passengers or contents when accompanied by the operator, when the railroad car or motor vehicle is transported in a railroad car ferry operated between fixed terminals on the Great Lakes as part of a rail route, if—
 
-  (1) the car ferry is owned by a common carrier by water and operated as part of a rail route with the approval of the Surface Transportation Board;
-  (2) the stock of the common carrier by water, or its predecessor, was owned or controlled by a common carrier by rail prior to June 5, 1920 ;
-  (3) the stock of the common carrier owning the car ferry is, with the approval of the Board, now owned or controlled by a common carrier by rail; and
-  (4) the car ferry is built in and documented under the laws of the United States.
+  - **(1)** the car ferry is owned by a common carrier by water and operated as part of a rail route with the approval of the Surface Transportation Board;
+  - **(2)** the stock of the common carrier by water, or its predecessor, was owned or controlled by a common carrier by rail prior to June 5, 1920 ;
+  - **(3)** the stock of the common carrier owning the car ferry is, with the approval of the Board, now owned or controlled by a common carrier by rail; and
+  - **(4)** the car ferry is built in and documented under the laws of the United States.

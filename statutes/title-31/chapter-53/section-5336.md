@@ -5,284 +5,284 @@ usc_section: "5336"
 chapter: 53
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 5336"
-generated_at: "2026-03-29T00:31:52.647Z"
+generated_at: "2026-03-29T02:14:14.102Z"
 ---
 
 # § 5336. Beneficial ownership information reporting requirements
 
-(a) In this section:
-  (1) The term “acceptable identification document” means, with respect to an individual—
-    (A) a nonexpired passport issued by the United States;
-    (B) a nonexpired identification document issued by a State, local government, or Indian Tribe to the individual acting for the purpose of identification of that individual;
-    (C) a nonexpired driver’s license issued by a State; or
-    (D) if the individual does not have a document described in subparagraph (A), (B), or (C), a nonexpired passport issued by a foreign government.
-  (2) The term “applicant” means any individual who—
-    (A) files an application to form a corporation, limited liability company, or other similar entity under the laws of a State or Indian Tribe; or
-    (B) registers or files an application to register a corporation, limited liability company, or other similar entity formed under the laws of a foreign country to do business in the United States by filing a document with the secretary of state or similar office under the laws of a State or Indian Tribe.
-  (3) The term “beneficial owner”—
-    (A) means, with respect to an entity, an individual who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
-      (i) exercises substantial control over the entity; or
-      (ii) owns or controls not less than 25 percent of the ownership interests of the entity; and
-    (B) does not include—
-      (i) a minor child, as defined in the State in which the entity is formed, if the information of the parent or guardian of the minor child is reported in accordance with this section;
-      (ii) an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
-      (iii) an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the person;
-      (iv) an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance; or
-      (v) a creditor of a corporation, limited liability company, or other similar entity, unless the creditor meets the requirements of subparagraph (A).
-  (4) The term “Director” means the Director of FinCEN.
-  (5) The term “FinCEN” means the Financial Crimes Enforcement Network of the Department of the Treasury.
-  (6) The term “FinCEN identifier” means the unique identifying number assigned by FinCEN to a person under this section.
-  (7) The term “foreign person” means a person who is not a United States person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
-  (8) The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5130 ).
-  (9) The term “lawfully admitted for permanent residence” has the meaning given the term in section 101(a) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a) ).
-  (10) The term “pooled investment vehicle” means—
-    (A) any investment company, as defined in section 3(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a–3(a) ); or
-    (B) any company that—
-      (i) would be an investment company under that section but for the exclusion provided from that definition by paragraph (1) or (7) of section 3(c) of that Act ( 15 U.S.C. 80a–3(c) ); and
-      (ii) is identified by its legal name by the applicable investment adviser in its Form ADV (or successor form) filed with the Securities and Exchange Commission.
-  (11) The term “reporting company”—
-    (A) means a corporation, limited liability company, or other similar entity that is—
-      (i) created by the filing of a document with a secretary of state or a similar office under the law of a State or Indian Tribe; or
-      (ii) formed under the law of a foreign country and registered to do business in the United States by the filing of a document with a secretary of state or a similar office under the laws of a State or Indian Tribe; and
-    (B) does not include—
-      (i) an issuer—
-        (I) of a class of securities registered under section 12 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 l ); or
-        (II) that is required to file supplementary and periodic information under section 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 o (d));
-      (ii) an entity—
-        (I) established under the laws of the United States, an Indian Tribe, a State, or a political subdivision of a State, or under an interstate compact between 2 or more States; and
-        (II) that exercises governmental authority on behalf of the United States or any such Indian Tribe, State, or political subdivision;
-      (iii) a bank, as defined in—
-        (I) section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 );
-        (II) section 2(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a–2(a) ); or
-        (III) section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2(a) );
-      (iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 ));
-      (v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841 )) or a savings and loan holding company (as defined in section 10(a) of the Home Owners’ Loan Act ( 12 U.S.C. 1467a(a) ));
-      (vi) a money transmitting business registered with the Secretary of the Treasury under section 5330;
-      (vii) a broker or dealer (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c )) that is registered under section 15 of that Act ( 15 U.S.C. 78 o );
-      (viii) an exchange or clearing agency (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c )) that is registered under section 6 or 17A of that Act ( 15 U.S.C. 78f , 78q–1);
-      (ix) any other entity not described in clause (i), (vii), or (viii) that is registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.);
-      (x) an entity that—
-        (I) is an investment company (as defined in section 3 of the Investment Company Act of 1940 ( 15 U.S.C. 80a–3 )) or an investment adviser (as defined in section 202 of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2 )); and
-        (II) is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq.) or the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–1 et seq.);
-      (xi) an investment adviser—
-        (I) described in section 203( l ) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–3 ( l )); and
-        (II) that has filed Item 10, Schedule A, and Schedule B of Part 1A of Form ADV, or any successor thereto, with the Securities and Exchange Commission;
-      (xii) an insurance company (as defined in section 2 of the Investment Company Act of 1940 ( 15 U.S.C. 80a–2 ));
-      (xiii) an entity that—
-        (I) is an insurance producer that is authorized by a State and subject to supervision by the insurance commissioner or a similar official or agency of a State; and
-        (II) has an operating presence at a physical office within the United States;
-      (xiv) 
-        (I) a registered entity (as defined in section 1a of the Commodity Exchange Act ( 7 U.S.C. 1a )); or
-        (II) an entity that is—
-      (xv) a public accounting firm registered in accordance with section 102 of the Sarbanes-Oxley Act of 2002 ( 15 U.S.C. 7212 );
-      (xvi) a public utility that provides telecommunications services, electrical power, natural gas, or water and sewer services within the United States;
-      (xvii) a financial market utility designated by the Financial Stability Oversight Council under section 804 of the Payment, Clearing, and Settlement Supervision Act of 2010 ( 12 U.S.C. 5463 );
-      (xviii) any pooled investment vehicle that is operated or advised by a person described in clause (iii), (iv), (vii), (x), or (xi);
-      (xix) any—
-        (I) organization that is described in section 501(c) of the Internal Revenue Code of 1986 (determined without regard to section 508(a) of such Code) and exempt from tax under section 501(a) of such Code, except that in the case of any such organization that loses an exemption from tax, such organization shall be considered to be continued to be described in this subclause for the 180-day period beginning on the date of the loss of such tax-exempt status;
-        (II) political organization (as defined in section 527(e)(1) of such Code) that is exempt from tax under section 527(a) of such Code; or
-        (III) trust described in paragraph (1) or (2) of section 4947(a) of such Code;
-      (xx) any corporation, limited liability company, or other similar entity that—
-        (I) operates exclusively to provide financial assistance to, or hold governance rights over, any entity described in clause (xix);
-        (II) is a United States person;
-        (III) is beneficially owned or controlled exclusively by 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence; and
-        (IV) derives at least a majority of its funding or revenue from 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence;
-      (xxi) any entity that—
-        (I) employs more than 20 employees on a full-time basis in the United States;
-        (II) filed in the previous year Federal income tax returns in the United States demonstrating more than $5,000,000 in gross receipts or sales in the aggregate, including the receipts or sales of—
-        (III) has an operating presence at a physical office within the United States;
-      (xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 1 1 So in original. Probably should be followed by a comma. (xix), or (xxi);
-      (xxiii) any corporation, limited liability company, or other similar entity—
-        (I) in existence for over 1 year;
-        (II) that is not engaged in active business;
-        (III) that is not owned, directly or indirectly, by a foreign person;
-        (IV) that has not, in the preceding 12-month period, experienced a change in ownership or sent or received funds in an amount greater than $1,000 (including all funds sent to or received from any source through a financial account or accounts in which the entity, or an affiliate of the entity, maintains an interest); and
-        (V) that does not otherwise hold any kind or type of assets, including an ownership interest in any corporation, limited liability company, or other similar entity;
-      (xxiv) any entity or class of entities that the Secretary of the Treasury, with the written concurrence of the Attorney General and the Secretary of Homeland Security, has, by regulation, determined should be exempt from the requirements of subsection (b) because requiring beneficial ownership information from the entity or class of entities—
-        (I) would not serve the public interest; and
-        (II) would not be highly useful in national security, intelligence, and law enforcement agency efforts to detect, prevent, or prosecute money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or other crimes.
-  (12) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other commonwealth, territory, or possession of the United States.
-  (13) The term “unique identifying number” means, with respect to an individual or an entity with a sole member, the unique identifying number from an acceptable identification document.
-  (14) The term “United States person” has the meaning given the term in section 7701(a) of the Internal Revenue Code of 1986.
-(b) 
-  (1) 
-    (A) In accordance with regulations prescribed by the Secretary of the Treasury, each reporting company shall submit to FinCEN a report that contains the information described in paragraph (2).
-    (B) In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered before the effective date of the regulations prescribed under this subsection shall, in a timely manner, and not later than 2 years after the effective date of the regulations prescribed under this subsection, submit to FinCEN a report that contains the information described in paragraph (2).
-    (C) In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered after the effective date of the regulations promulgated under this subsection shall, at the time of formation or registration, submit to FinCEN a report that contains the information described in paragraph (2).
-    (D) In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described in paragraph (2), submit to FinCEN a report that updates the information relating to the change.
-    (E) The Secretary of the Treasury, in consultation with the Attorney General and the Secretary of Homeland Security, shall conduct a review to evaluate—
-      (i) the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
-      (ii) the benefit to law enforcement and national security officials that might be derived from, 2 2 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
-      (iii) not later than 2 years after the date of enactment of this section, incorporate 2 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
-    (F) In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
-      (i) establish partnerships with State, local, and Tribal governmental agencies;
-      (ii) collect information described in paragraph (2) through existing Federal, State, and local processes and procedures;
-      (iii) minimize burdens on reporting companies associated with the collection of the information described in paragraph (2), in light of the private compliance costs placed on legitimate businesses, including by identifying any steps taken to mitigate the costs relating to compliance with the collection of information; and
-      (iv) collect information described in paragraph (2) in a form and manner that ensures the information is highly useful in—
-        (I) facilitating important national security, intelligence, and law enforcement activities; and
-        (II) confirming beneficial ownership information provided to financial institutions to facilitate the compliance of the financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law.
-    (G) To simplify compliance with this section for reporting companies and financial institutions, the Secretary of the Treasury shall ensure that the regulations prescribed by the Secretary under this subsection are added to part 1010 of title 31, Code of Federal Regulations, or any successor thereto.
-  (2) 
-    (A) In accordance with regulations prescribed by the Secretary of the Treasury, a report delivered under paragraph (1) shall, except as provided in subparagraph (B), identify each beneficial owner of the applicable reporting company and each applicant with respect to that reporting company by—
-      (i) full legal name;
-      (ii) date of birth;
-      (iii) current, as of the date on which the report is delivered, residential or business street address; and
-      (iv) 
-        (I) unique identifying number from an acceptable identification document; or
-        (II) FinCEN identifier in accordance with requirements in paragraph (3).
-    (B) If an exempt entity described in subsection (a)(11)(B) has or will have a direct or indirect ownership interest in a reporting company, the reporting company or the applicant—
-      (i) shall, with respect to the exempt entity, only list the name of the exempt entity; and
-      (ii) shall not be required to report the information with respect to the exempt entity otherwise required under subparagraph (A).
-    (C) Any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
-    (D) In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
-    (E) In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxiii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxiii), submit to FinCEN a report containing the information required under subparagraph (A).
-  (3) 
-    (A) 
-      (i) Upon request by an individual who has provided FinCEN with the information described in paragraph (2)(A) pertaining to the individual, or by an entity that has reported its beneficial ownership information to FinCEN in accordance with this section, FinCEN shall issue a FinCEN identifier to such individual or entity.
-      (ii) An individual or entity with a FinCEN identifier shall submit filings with FinCEN pursuant to paragraph (1) updating any information described in paragraph (2) in a timely manner consistent with paragraph (1)(D).
-      (iii) FinCEN shall not issue more than 1 FinCEN identifier to the same individual or to the same entity (including any successor entity).
-    (B) Any person required to report the information described in paragraph (2) with respect to an individual may instead report the FinCEN identifier of the individual.
-    (C) If an individual is or may be a beneficial owner of a reporting company by an interest held by the individual in an entity that, directly or indirectly, holds an interest in the reporting company, the reporting company may report the FinCEN identifier of the entity in lieu of providing the information required by paragraph (2)(A) with respect to the individual.
-  (4) The Secretary of the Treasury shall—
-    (A) by regulation prescribe procedures and standards governing any report under paragraph (2) and any FinCEN identifier under paragraph (3); and
-    (B) in promulgating the regulations under subparagraph (A) to the extent practicable, consistent with the purposes of this section—
-      (i) minimize burdens on reporting companies associated with the collection of beneficial ownership information, including by eliminating duplicative requirements; and
-      (ii) ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
-  (5) The requirements of this subsection shall take effect on the effective date of the regulations prescribed by the Secretary of the Treasury under this subsection, which shall be promulgated not later than 1 year after the date of enactment of this section.
-  (6) Not later than 1 year after the effective date described in paragraph (5), and annually thereafter for 2 years, the Secretary of the Treasury shall submit to Congress a report describing the procedures and standards prescribed to carry out paragraph (2), which shall include an assessment of—
-    (A) the effectiveness of those procedures and standards in minimizing reporting burdens (including through the elimination of duplicative requirements) and strengthening the accuracy of reports submitted under paragraph (2); and
-    (B) any alternative procedures and standards prescribed to carry out paragraph (2).
-(c) 
-  (1) Beneficial ownership information required under subsection (b) relating to each reporting company shall be maintained by FinCEN for not fewer than 5 years after the date on which the reporting company terminates.
-  (2) 
-    (A) Except as authorized by this subsection and the protocols promulgated under this subsection, beneficial ownership information reported under this section shall be confidential and may not be disclosed by—
-      (i) an officer or employee of the United States;
-      (ii) an officer or employee of any State, local, or Tribal agency; or
-      (iii) an officer or employee of any financial institution or regulatory agency receiving information under this subsection.
-    (B) FinCEN may disclose beneficial ownership information reported pursuant to this section only upon receipt of—
-      (i) a request, through appropriate protocols—
-        (I) from a Federal agency engaged in national security, intelligence, or law enforcement activity, for use in furtherance of such activity; or
-        (II) from a State, local, or Tribal law enforcement agency, if a court of competent jurisdiction, including any officer of such a court, has authorized the law enforcement agency to seek the information in a criminal or civil investigation;
-      (ii) a request from a Federal agency on behalf of a law enforcement agency, prosecutor, or judge of another country, including a foreign central authority or competent authority (or like designation), under an international treaty, agreement, convention, or official request made by law enforcement, judicial, or prosecutorial authorities in trusted foreign countries when no treaty, agreement, or convention is available—
-        (I) issued in response to a request for assistance in an investigation or prosecution by such foreign country; and
-        (II) that—
-      (iii) a request made by a financial institution subject to customer due diligence requirements, with the consent of the reporting company, to facilitate the compliance of the financial institution with customer due diligence requirements under applicable law; or
-      (iv) a request made by a Federal functional regulator or other appropriate regulatory agency consistent with the requirements of subparagraph (C).
-    (C) The Secretary of the Treasury shall, by regulation, prescribe the form and manner in which information shall be provided to a financial institution under subparagraph (B)(iii), which regulation shall include that the information shall also be available to a Federal functional regulator or other appropriate regulatory agency, as determined by the Secretary, if the agency—
-      (i) is authorized by law to assess, supervise, enforce, or otherwise determine the compliance of the financial institution with the requirements described in that subparagraph;
-      (ii) uses the information solely for the purpose of conducting the assessment, supervision, or authorized investigation or activity described in clause (i); and
-      (iii) enters into an agreement with the Secretary providing for appropriate protocols governing the safekeeping of the information.
-  (3) The Secretary of the Treasury shall establish by regulation protocols described in paragraph (2)(A) that—
-    (A) protect the security and confidentiality of any beneficial ownership information provided directly by the Secretary;
-    (B) require the head of any requesting agency, on a non-delegable basis, to approve the standards and procedures utilized by the requesting agency and certify to the Secretary semi-annually that such standards and procedures are in compliance with the requirements of this paragraph;
-    (C) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a secure system in which such beneficial ownership information provided directly by the Secretary shall be stored;
-    (D) require the requesting agency to furnish a report to the Secretary, at such time and containing such information as the Secretary may prescribe, that describes the procedures established and utilized by such agency to ensure the confidentiality of the beneficial ownership information provided directly by the Secretary;
-    (E) require a written certification for each authorized investigation or other activity described in paragraph (2) from the head of an agency described in paragraph (2)(B)(i)(I), or their designees, that—
-      (i) states that applicable requirements have been met, in such form and manner as the Secretary may prescribe; and
-      (ii) at a minimum, sets forth the specific reason or reasons why the beneficial ownership information is relevant to an authorized investigation or other activity described in paragraph (2);
-    (F) require the requesting agency to limit, to the greatest extent practicable, the scope of information sought, consistent with the purposes for seeking beneficial ownership information;
-    (G) restrict, to the satisfaction of the Secretary, access to beneficial ownership information to whom disclosure may be made under the provisions of this section to only users at the requesting agency—
-      (i) who are directly engaged in the authorized investigation or activity described in paragraph (2);
-      (ii) whose duties or responsibilities require such access;
-      (iii) who—
-        (I) have undergone appropriate training; or
-        (II) use staff to access the database who have undergone appropriate training;
-      (iv) who use appropriate identity verification mechanisms to obtain access to the information; and
-      (v) who are authorized by agreement with the Secretary to access the information;
-    (H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership information made by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
-    (I) require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
-    (J) require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requesting and using beneficial ownership information appropriately; and
-    (K) provide such other safeguards which the Secretary determines (and which the Secretary prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the beneficial ownership information.
-  (4) Any employee or officer of a requesting agency under paragraph (2)(B) that violates the protocols described in paragraph (3), including unauthorized disclosure or use, shall be subject to criminal and civil penalties under subsection (h)(3)(B).
-  (5) 
-    (A) Beneficial ownership information shall be accessible for inspection or disclosure to officers and employees of the Department of the Treasury whose official duties require such inspection or disclosure subject to procedures and safeguards prescribed by the Secretary of the Treasury.
-    (B) Officers and employees of the Department of the Treasury may obtain access to beneficial ownership information for tax administration purposes in accordance with this subsection.
-  (6) The Secretary of the Treasury—
-    (A) shall reject a request not submitted in the form and manner prescribed by the Secretary under paragraph (2)(C); and
-    (B) may decline to provide information requested under this subsection upon finding that—
-      (i) the requesting agency has failed to meet any other requirement of this subsection;
-      (ii) the information is being requested for an unlawful purpose; or
-      (iii) other good cause exists to deny the request.
-  (7) The Secretary of the Treasury may suspend or debar a requesting agency from access for any of the grounds set forth in paragraph (6), including for repeated or serious violations of any requirement under paragraph (2).
-  (8) The Secretary of the Treasury shall maintain information security protections, including encryption, for information reported to FinCEN under subsection (b) and ensure that the protections—
-    (A) are consistent with standards and guidelines developed under subchapter II of chapter 35 of title 44; and
-    (B) incorporate Federal information system security controls for high-impact systems, excluding national security systems, consistent with applicable law to prevent the loss of confidentiality, integrity, or availability of information that may have a severe or catastrophic adverse effect.
-  (9) Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 5 years, the Secretary of the Treasury shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report, which—
-    (A) may include a classified annex; and
-    (B) shall, with respect to each request submitted under paragraph (2)(B)(i)(II) during the period covered by the report, and consistent with protocols established by the Secretary that are necessary to protect law enforcement sensitive, tax-related, or classified information, include—
-      (i) the date on which the request was submitted;
-      (ii) the source of the request;
-      (iii) whether the request was accepted or rejected or is pending; and
-      (iv) a general description of the basis for rejecting the such request, if applicable.
-  (10) Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 6 years, the Comptroller General of the United States shall—
-    (A) audit the procedures and safeguards established by the Secretary of the Treasury under those regulations, including duties for verification of requesting agencies systems and adherence to the protocols established under this subsection, to determine whether such safeguards and procedures meet the requirements of this subsection and that the Department of the Treasury is using beneficial ownership information appropriately in a manner consistent with this subsection; and
-    (B) submit to the Secretary of the Treasury, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report that contains the findings and determinations with respect to any audit conducted under this paragraph.
-  (11) 
-    (A) Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regarding FinCEN issues, including, specifically, issues relating to—
-      (i) anticipated plans, goals, and resources necessary for operations of FinCEN in implementing the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
-      (ii) the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
-        (I) ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
-        (II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
-      (iii) strengthen 2 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
-      (iv) provide 2 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
-        (I) educating the business community on the goals and operations of the new beneficial ownership database; and
-        (II) disseminating to the governments of countries that are allies or partners of the United States information on best practices developed by FinCEN related to beneficial ownership information retention and use;
-      (v) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the Federal, State, and local agencies and entities involved in implementing innovative approaches to meet their obligations under the Anti-Money Laundering Act of 2020 and the amendments made by that Act, the Bank Secrecy Act (as defined in section 6003 of the Anti-Money Laundering Act of 2020), and other anti-money laundering compliance laws; and
-      (vi) any other matter that the Director determines is appropriate.
-    (B) The testimony required under subparagraph (A)—
-      (i) shall be submitted in unclassified form; and
-      (ii) may include a classified portion.
-(d) 
-  (1) The Secretary of the Treasury shall, to the greatest extent practicable, update the information described in subsection (b) by working collaboratively with other relevant Federal, State, and Tribal agencies.
-  (2) Relevant Federal, State, and Tribal agencies, as determined by the Secretary of the Treasury, shall, to the extent practicable, and consistent with applicable legal protections, cooperate with and provide information requested by FinCEN for purposes of maintaining an accurate, complete, and highly useful database for beneficial ownership information.
-  (3) The Secretary of the Treasury, in consultation with the heads of other relevant Federal agencies, may promulgate regulations as necessary to carry out this subsection.
-(e) 
-  (1) The Secretary of the Treasury shall take reasonable steps to provide notice to persons of their obligations to report beneficial ownership information under this section, including by causing appropriate informational materials describing such obligations to be included in 1 or more forms or other informational materials regularly distributed by the Internal Revenue Service and FinCEN.
-  (2) 
-    (A) As a condition of the funds made available under this section, each State and Indian Tribe shall, not later than 2 years after the effective date of the regulations promulgated under subsection (b)(4), take the following actions:
-      (i) The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribe shall periodically, including at the time of any initial formation or registration of an entity, assessment of an annual fee, or renewal of any license to do business in the United States and in connection with State or Indian Tribe corporate tax assessments or renewals—
-        (I) notify filers of their requirements as reporting companies under this section, including the requirements to file and update reports under paragraphs (1) and (2) of subsection (b); and
-        (II) provide the filers with a copy of the reporting company form created by the Secretary of the Treasury under this subsection or an internet link to that form.
-      (ii) The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribes shall update the websites, forms relating to incorporation, and physical premises of the office to notify filers of their requirements as reporting companies under this section, including providing an internet link to the reporting company form created by the Secretary of the Treasury under this section.
-    (B) A notification under clause (i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
-(f) A corporation, limited liability company, or other similar entity formed under the laws of a State or Indian Tribe may not issue a certificate in bearer form evidencing either a whole or fractional interest in the entity.
-(g) In promulgating regulations carrying out this section, the Director shall reach out to members of the small business community and other appropriate parties to ensure efficiency and effectiveness of the process for the entities subject to the requirements of this section.
-(h) 
-  (1) It shall be unlawful for any person to—
-    (A) willfully provide, or attempt to provide, false or fraudulent beneficial ownership information, including a false or fraudulent identifying photograph or document, to FinCEN in accordance with subsection (b); or
-    (B) willfully fail to report complete or updated beneficial ownership information to FinCEN in accordance with subsection (b).
-  (2) Except as authorized by this section, it shall be unlawful for any person to knowingly disclose or knowingly use the beneficial ownership information obtained by the person through—
-    (A) a report submitted to FinCEN under subsection (b); or
-    (B) a disclosure made by FinCEN under subsection (c).
-  (3) 
-    (A) Any person that violates subparagraph (A) or (B) of paragraph (1)—
-      (i) shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
-      (ii) may be fined not more than $10,000, imprisoned for not more than 2 years, or both.
-    (B) Any person that violates paragraph (2)—
-      (i) shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
-      (ii) 
-        (I) shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
-        (II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
-    (C) 
-      (i) 
-        (I) Except as provided in subclause (II), a person shall not be subject to civil or criminal penalty under subparagraph (A) if the person—
-        (II) A person shall not be exempt from penalty under clause (i) if, at the time the person submits the report required by subsection (b), the person—
-      (ii) FinCEN shall provide assistance to any person seeking to submit a corrected report in accordance with clause (i)(I).
-  (4) 
-    (A) The Inspector General of the Department of the Treasury, in coordination with the Secretary of the Treasury, shall provide public contact information to receive external comments or complaints regarding the beneficial ownership information notification and collection process or regarding the accuracy, completeness, or timeliness of such information.
-    (B) The Inspector General of the Department of the Treasury shall submit to Congress a periodic report that—
-      (i) summarizes external comments or complaints and related investigations conducted by the Inspector General related to the collection of beneficial ownership information; and
-      (ii) includes recommendations, in coordination with FinCEN, to improve the form and manner of the notification, collection and updating processes of the beneficial ownership information reporting requirements to ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
-  (5) 
-    (A) In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigation into FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
-    (B) The Inspector General of the Department of the Treasury shall submit to the Secretary of the Treasury a report on each investigation conducted under subparagraph (A).
-    (C) Upon receiving a report submitted under subparagraph (B), the Secretary of the Treasury shall—
-      (i) determine whether the Director had any responsibility for the cybersecurity breach or whether policies, practices, or procedures implemented at the direction of the Director led to the cybersecurity breach; and
-      (ii) submit to Congress a written report outlining the findings of the Secretary, including a determination by the Secretary on whether to retain or dismiss the individual serving as the Director.
-  (6) In this subsection, the term “willfully” means the voluntary, intentional violation of a known legal duty.
-(i) 
-  (1) On and after the effective date of the regulations promulgated under subsection (b)(4), if the Secretary of the Treasury makes a determination, which may be based on information contained in the report required under section 6502(c) of the Anti-Money Laundering Act of 2020 or on any other information available to the Secretary, that an entity or class of entities described in subsection (a)(11)(B) has been involved in significant abuse relating to money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or any other financial crime, not later than 90 days after the date on which the Secretary makes the determination, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that explains the reasons for the determination and any administrative or legislative recommendations to prevent such abuse.
-  (2) The report required by paragraph (1)—
-    (A) shall be submitted in unclassified form; and
-    (B) may include a classified annex.
-(j) There are authorized to be appropriated to FinCEN for each of the 3 fiscal years beginning on the effective date of the regulations promulgated under subsection (b)(4), such sums as may be necessary to carry out this section, including allocating funds to the States to pay reasonable costs relating to compliance with the requirements of such section.
+- **(a)** In this section:
+  - **(1)** The term “acceptable identification document” means, with respect to an individual—
+    - **(A)** a nonexpired passport issued by the United States;
+    - **(B)** a nonexpired identification document issued by a State, local government, or Indian Tribe to the individual acting for the purpose of identification of that individual;
+    - **(C)** a nonexpired driver’s license issued by a State; or
+    - **(D)** if the individual does not have a document described in subparagraph (A), (B), or (C), a nonexpired passport issued by a foreign government.
+  - **(2)** The term “applicant” means any individual who—
+    - **(A)** files an application to form a corporation, limited liability company, or other similar entity under the laws of a State or Indian Tribe; or
+    - **(B)** registers or files an application to register a corporation, limited liability company, or other similar entity formed under the laws of a foreign country to do business in the United States by filing a document with the secretary of state or similar office under the laws of a State or Indian Tribe.
+  - **(3)** The term “beneficial owner”—
+    - **(A)** means, with respect to an entity, an individual who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
+      - **(i)** exercises substantial control over the entity; or
+      - **(ii)** owns or controls not less than 25 percent of the ownership interests of the entity; and
+    - **(B)** does not include—
+      - **(i)** a minor child, as defined in the State in which the entity is formed, if the information of the parent or guardian of the minor child is reported in accordance with this section;
+      - **(ii)** an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
+      - **(iii)** an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the person;
+      - **(iv)** an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance; or
+      - **(v)** a creditor of a corporation, limited liability company, or other similar entity, unless the creditor meets the requirements of subparagraph (A).
+  - **(4)** The term “Director” means the Director of FinCEN.
+  - **(5)** The term “FinCEN” means the Financial Crimes Enforcement Network of the Department of the Treasury.
+  - **(6)** The term “FinCEN identifier” means the unique identifying number assigned by FinCEN to a person under this section.
+  - **(7)** The term “foreign person” means a person who is not a United States person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
+  - **(8)** The term “Indian Tribe” has the meaning given the term “Indian tribe” in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5130 ).
+  - **(9)** The term “lawfully admitted for permanent residence” has the meaning given the term in section 101(a) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a) ).
+  - **(10)** The term “pooled investment vehicle” means—
+    - **(A)** any investment company, as defined in section 3(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a–3(a) ); or
+    - **(B)** any company that—
+      - **(i)** would be an investment company under that section but for the exclusion provided from that definition by paragraph (1) or (7) of section 3(c) of that Act ( 15 U.S.C. 80a–3(c) ); and
+      - **(ii)** is identified by its legal name by the applicable investment adviser in its Form ADV (or successor form) filed with the Securities and Exchange Commission.
+  - **(11)** The term “reporting company”—
+    - **(A)** means a corporation, limited liability company, or other similar entity that is—
+      - **(i)** created by the filing of a document with a secretary of state or a similar office under the law of a State or Indian Tribe; or
+      - **(ii)** formed under the law of a foreign country and registered to do business in the United States by the filing of a document with a secretary of state or a similar office under the laws of a State or Indian Tribe; and
+    - **(B)** does not include—
+      - **(i)** an issuer—
+        - **(I)** of a class of securities registered under section 12 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 l ); or
+        - **(II)** that is required to file supplementary and periodic information under section 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 o (d));
+      - **(ii)** an entity—
+        - **(I)** established under the laws of the United States, an Indian Tribe, a State, or a political subdivision of a State, or under an interstate compact between 2 or more States; and
+        - **(II)** that exercises governmental authority on behalf of the United States or any such Indian Tribe, State, or political subdivision;
+      - **(iii)** a bank, as defined in—
+        - **(I)** section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 );
+        - **(II)** section 2(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a–2(a) ); or
+        - **(III)** section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2(a) );
+      - **(iv)** a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 ));
+      - **(v)** a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1841 )) or a savings and loan holding company (as defined in section 10(a) of the Home Owners’ Loan Act ( 12 U.S.C. 1467a(a) ));
+      - **(vi)** a money transmitting business registered with the Secretary of the Treasury under section 5330;
+      - **(vii)** a broker or dealer (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c )) that is registered under section 15 of that Act ( 15 U.S.C. 78 o );
+      - **(viii)** an exchange or clearing agency (as those terms are defined in section 3 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c )) that is registered under section 6 or 17A of that Act ( 15 U.S.C. 78f , 78q–1);
+      - **(ix)** any other entity not described in clause (i), (vii), or (viii) that is registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.);
+      - **(x)** an entity that—
+        - **(I)** is an investment company (as defined in section 3 of the Investment Company Act of 1940 ( 15 U.S.C. 80a–3 )) or an investment adviser (as defined in section 202 of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–2 )); and
+        - **(II)** is registered with the Securities and Exchange Commission under the Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq.) or the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–1 et seq.);
+      - **(xi)** an investment adviser—
+        - **(I)** described in section 203( l ) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b–3 ( l )); and
+        - **(II)** that has filed Item 10, Schedule A, and Schedule B of Part 1A of Form ADV, or any successor thereto, with the Securities and Exchange Commission;
+      - **(xii)** an insurance company (as defined in section 2 of the Investment Company Act of 1940 ( 15 U.S.C. 80a–2 ));
+      - **(xiii)** an entity that—
+        - **(I)** is an insurance producer that is authorized by a State and subject to supervision by the insurance commissioner or a similar official or agency of a State; and
+        - **(II)** has an operating presence at a physical office within the United States;
+      - **(xiv)**
+        - **(I)** a registered entity (as defined in section 1a of the Commodity Exchange Act ( 7 U.S.C. 1a )); or
+        - **(II)** an entity that is—
+      - **(xv)** a public accounting firm registered in accordance with section 102 of the Sarbanes-Oxley Act of 2002 ( 15 U.S.C. 7212 );
+      - **(xvi)** a public utility that provides telecommunications services, electrical power, natural gas, or water and sewer services within the United States;
+      - **(xvii)** a financial market utility designated by the Financial Stability Oversight Council under section 804 of the Payment, Clearing, and Settlement Supervision Act of 2010 ( 12 U.S.C. 5463 );
+      - **(xviii)** any pooled investment vehicle that is operated or advised by a person described in clause (iii), (iv), (vii), (x), or (xi);
+      - **(xix)** any—
+        - **(I)** organization that is described in section 501(c) of the Internal Revenue Code of 1986 (determined without regard to section 508(a) of such Code) and exempt from tax under section 501(a) of such Code, except that in the case of any such organization that loses an exemption from tax, such organization shall be considered to be continued to be described in this subclause for the 180-day period beginning on the date of the loss of such tax-exempt status;
+        - **(II)** political organization (as defined in section 527(e)(1) of such Code) that is exempt from tax under section 527(a) of such Code; or
+        - **(III)** trust described in paragraph (1) or (2) of section 4947(a) of such Code;
+      - **(xx)** any corporation, limited liability company, or other similar entity that—
+        - **(I)** operates exclusively to provide financial assistance to, or hold governance rights over, any entity described in clause (xix);
+        - **(II)** is a United States person;
+        - **(III)** is beneficially owned or controlled exclusively by 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence; and
+        - **(IV)** derives at least a majority of its funding or revenue from 1 or more United States persons that are United States citizens or lawfully admitted for permanent residence;
+      - **(xxi)** any entity that—
+        - **(I)** employs more than 20 employees on a full-time basis in the United States;
+        - **(II)** filed in the previous year Federal income tax returns in the United States demonstrating more than $5,000,000 in gross receipts or sales in the aggregate, including the receipts or sales of—
+        - **(III)** has an operating presence at a physical office within the United States;
+      - **(xxii)** any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 1 1 So in original. Probably should be followed by a comma. (xix), or (xxi);
+      - **(xxiii)** any corporation, limited liability company, or other similar entity—
+        - **(I)** in existence for over 1 year;
+        - **(II)** that is not engaged in active business;
+        - **(III)** that is not owned, directly or indirectly, by a foreign person;
+        - **(IV)** that has not, in the preceding 12-month period, experienced a change in ownership or sent or received funds in an amount greater than $1,000 (including all funds sent to or received from any source through a financial account or accounts in which the entity, or an affiliate of the entity, maintains an interest); and
+        - **(V)** that does not otherwise hold any kind or type of assets, including an ownership interest in any corporation, limited liability company, or other similar entity;
+      - **(xxiv)** any entity or class of entities that the Secretary of the Treasury, with the written concurrence of the Attorney General and the Secretary of Homeland Security, has, by regulation, determined should be exempt from the requirements of subsection (b) because requiring beneficial ownership information from the entity or class of entities—
+        - **(I)** would not serve the public interest; and
+        - **(II)** would not be highly useful in national security, intelligence, and law enforcement agency efforts to detect, prevent, or prosecute money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or other crimes.
+  - **(12)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the United States Virgin Islands, and any other commonwealth, territory, or possession of the United States.
+  - **(13)** The term “unique identifying number” means, with respect to an individual or an entity with a sole member, the unique identifying number from an acceptable identification document.
+  - **(14)** The term “United States person” has the meaning given the term in section 7701(a) of the Internal Revenue Code of 1986.
+- **(b)**
+  - **(1)**
+    - **(A)** In accordance with regulations prescribed by the Secretary of the Treasury, each reporting company shall submit to FinCEN a report that contains the information described in paragraph (2).
+    - **(B)** In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered before the effective date of the regulations prescribed under this subsection shall, in a timely manner, and not later than 2 years after the effective date of the regulations prescribed under this subsection, submit to FinCEN a report that contains the information described in paragraph (2).
+    - **(C)** In accordance with regulations prescribed by the Secretary of the Treasury, any reporting company that has been formed or registered after the effective date of the regulations promulgated under this subsection shall, at the time of formation or registration, submit to FinCEN a report that contains the information described in paragraph (2).
+    - **(D)** In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described in paragraph (2), submit to FinCEN a report that updates the information relating to the change.
+    - **(E)** The Secretary of the Treasury, in consultation with the Attorney General and the Secretary of Homeland Security, shall conduct a review to evaluate—
+      - **(i)** the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
+      - **(ii)** the benefit to law enforcement and national security officials that might be derived from, 2 2 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
+      - **(iii)** not later than 2 years after the date of enactment of this section, incorporate 2 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+    - **(F)** In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
+      - **(i)** establish partnerships with State, local, and Tribal governmental agencies;
+      - **(ii)** collect information described in paragraph (2) through existing Federal, State, and local processes and procedures;
+      - **(iii)** minimize burdens on reporting companies associated with the collection of the information described in paragraph (2), in light of the private compliance costs placed on legitimate businesses, including by identifying any steps taken to mitigate the costs relating to compliance with the collection of information; and
+      - **(iv)** collect information described in paragraph (2) in a form and manner that ensures the information is highly useful in—
+        - **(I)** facilitating important national security, intelligence, and law enforcement activities; and
+        - **(II)** confirming beneficial ownership information provided to financial institutions to facilitate the compliance of the financial institutions with anti-money laundering, countering the financing of terrorism, and customer due diligence requirements under applicable law.
+    - **(G)** To simplify compliance with this section for reporting companies and financial institutions, the Secretary of the Treasury shall ensure that the regulations prescribed by the Secretary under this subsection are added to part 1010 of title 31, Code of Federal Regulations, or any successor thereto.
+  - **(2)**
+    - **(A)** In accordance with regulations prescribed by the Secretary of the Treasury, a report delivered under paragraph (1) shall, except as provided in subparagraph (B), identify each beneficial owner of the applicable reporting company and each applicant with respect to that reporting company by—
+      - **(i)** full legal name;
+      - **(ii)** date of birth;
+      - **(iii)** current, as of the date on which the report is delivered, residential or business street address; and
+      - **(iv)**
+        - **(I)** unique identifying number from an acceptable identification document; or
+        - **(II)** FinCEN identifier in accordance with requirements in paragraph (3).
+    - **(B)** If an exempt entity described in subsection (a)(11)(B) has or will have a direct or indirect ownership interest in a reporting company, the reporting company or the applicant—
+      - **(i)** shall, with respect to the exempt entity, only list the name of the exempt entity; and
+      - **(ii)** shall not be required to report the information with respect to the exempt entity otherwise required under subparagraph (A).
+    - **(C)** Any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
+    - **(D)** In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
+    - **(E)** In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxiii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxiii), submit to FinCEN a report containing the information required under subparagraph (A).
+  - **(3)**
+    - **(A)**
+      - **(i)** Upon request by an individual who has provided FinCEN with the information described in paragraph (2)(A) pertaining to the individual, or by an entity that has reported its beneficial ownership information to FinCEN in accordance with this section, FinCEN shall issue a FinCEN identifier to such individual or entity.
+      - **(ii)** An individual or entity with a FinCEN identifier shall submit filings with FinCEN pursuant to paragraph (1) updating any information described in paragraph (2) in a timely manner consistent with paragraph (1)(D).
+      - **(iii)** FinCEN shall not issue more than 1 FinCEN identifier to the same individual or to the same entity (including any successor entity).
+    - **(B)** Any person required to report the information described in paragraph (2) with respect to an individual may instead report the FinCEN identifier of the individual.
+    - **(C)** If an individual is or may be a beneficial owner of a reporting company by an interest held by the individual in an entity that, directly or indirectly, holds an interest in the reporting company, the reporting company may report the FinCEN identifier of the entity in lieu of providing the information required by paragraph (2)(A) with respect to the individual.
+  - **(4)** The Secretary of the Treasury shall—
+    - **(A)** by regulation prescribe procedures and standards governing any report under paragraph (2) and any FinCEN identifier under paragraph (3); and
+    - **(B)** in promulgating the regulations under subparagraph (A) to the extent practicable, consistent with the purposes of this section—
+      - **(i)** minimize burdens on reporting companies associated with the collection of beneficial ownership information, including by eliminating duplicative requirements; and
+      - **(ii)** ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
+  - **(5)** The requirements of this subsection shall take effect on the effective date of the regulations prescribed by the Secretary of the Treasury under this subsection, which shall be promulgated not later than 1 year after the date of enactment of this section.
+  - **(6)** Not later than 1 year after the effective date described in paragraph (5), and annually thereafter for 2 years, the Secretary of the Treasury shall submit to Congress a report describing the procedures and standards prescribed to carry out paragraph (2), which shall include an assessment of—
+    - **(A)** the effectiveness of those procedures and standards in minimizing reporting burdens (including through the elimination of duplicative requirements) and strengthening the accuracy of reports submitted under paragraph (2); and
+    - **(B)** any alternative procedures and standards prescribed to carry out paragraph (2).
+- **(c)**
+  - **(1)** Beneficial ownership information required under subsection (b) relating to each reporting company shall be maintained by FinCEN for not fewer than 5 years after the date on which the reporting company terminates.
+  - **(2)**
+    - **(A)** Except as authorized by this subsection and the protocols promulgated under this subsection, beneficial ownership information reported under this section shall be confidential and may not be disclosed by—
+      - **(i)** an officer or employee of the United States;
+      - **(ii)** an officer or employee of any State, local, or Tribal agency; or
+      - **(iii)** an officer or employee of any financial institution or regulatory agency receiving information under this subsection.
+    - **(B)** FinCEN may disclose beneficial ownership information reported pursuant to this section only upon receipt of—
+      - **(i)** a request, through appropriate protocols—
+        - **(I)** from a Federal agency engaged in national security, intelligence, or law enforcement activity, for use in furtherance of such activity; or
+        - **(II)** from a State, local, or Tribal law enforcement agency, if a court of competent jurisdiction, including any officer of such a court, has authorized the law enforcement agency to seek the information in a criminal or civil investigation;
+      - **(ii)** a request from a Federal agency on behalf of a law enforcement agency, prosecutor, or judge of another country, including a foreign central authority or competent authority (or like designation), under an international treaty, agreement, convention, or official request made by law enforcement, judicial, or prosecutorial authorities in trusted foreign countries when no treaty, agreement, or convention is available—
+        - **(I)** issued in response to a request for assistance in an investigation or prosecution by such foreign country; and
+        - **(II)** that—
+      - **(iii)** a request made by a financial institution subject to customer due diligence requirements, with the consent of the reporting company, to facilitate the compliance of the financial institution with customer due diligence requirements under applicable law; or
+      - **(iv)** a request made by a Federal functional regulator or other appropriate regulatory agency consistent with the requirements of subparagraph (C).
+    - **(C)** The Secretary of the Treasury shall, by regulation, prescribe the form and manner in which information shall be provided to a financial institution under subparagraph (B)(iii), which regulation shall include that the information shall also be available to a Federal functional regulator or other appropriate regulatory agency, as determined by the Secretary, if the agency—
+      - **(i)** is authorized by law to assess, supervise, enforce, or otherwise determine the compliance of the financial institution with the requirements described in that subparagraph;
+      - **(ii)** uses the information solely for the purpose of conducting the assessment, supervision, or authorized investigation or activity described in clause (i); and
+      - **(iii)** enters into an agreement with the Secretary providing for appropriate protocols governing the safekeeping of the information.
+  - **(3)** The Secretary of the Treasury shall establish by regulation protocols described in paragraph (2)(A) that—
+    - **(A)** protect the security and confidentiality of any beneficial ownership information provided directly by the Secretary;
+    - **(B)** require the head of any requesting agency, on a non-delegable basis, to approve the standards and procedures utilized by the requesting agency and certify to the Secretary semi-annually that such standards and procedures are in compliance with the requirements of this paragraph;
+    - **(C)** require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a secure system in which such beneficial ownership information provided directly by the Secretary shall be stored;
+    - **(D)** require the requesting agency to furnish a report to the Secretary, at such time and containing such information as the Secretary may prescribe, that describes the procedures established and utilized by such agency to ensure the confidentiality of the beneficial ownership information provided directly by the Secretary;
+    - **(E)** require a written certification for each authorized investigation or other activity described in paragraph (2) from the head of an agency described in paragraph (2)(B)(i)(I), or their designees, that—
+      - **(i)** states that applicable requirements have been met, in such form and manner as the Secretary may prescribe; and
+      - **(ii)** at a minimum, sets forth the specific reason or reasons why the beneficial ownership information is relevant to an authorized investigation or other activity described in paragraph (2);
+    - **(F)** require the requesting agency to limit, to the greatest extent practicable, the scope of information sought, consistent with the purposes for seeking beneficial ownership information;
+    - **(G)** restrict, to the satisfaction of the Secretary, access to beneficial ownership information to whom disclosure may be made under the provisions of this section to only users at the requesting agency—
+      - **(i)** who are directly engaged in the authorized investigation or activity described in paragraph (2);
+      - **(ii)** whose duties or responsibilities require such access;
+      - **(iii)** who—
+        - **(I)** have undergone appropriate training; or
+        - **(II)** use staff to access the database who have undergone appropriate training;
+      - **(iv)** who use appropriate identity verification mechanisms to obtain access to the information; and
+      - **(v)** who are authorized by agreement with the Secretary to access the information;
+    - **(H)** require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership information made by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
+    - **(I)** require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
+    - **(J)** require the Secretary to conduct an annual audit of the adherence of the agencies to the protocols established under this paragraph to ensure that agencies are requesting and using beneficial ownership information appropriately; and
+    - **(K)** provide such other safeguards which the Secretary determines (and which the Secretary prescribes in regulations) to be necessary or appropriate to protect the confidentiality of the beneficial ownership information.
+  - **(4)** Any employee or officer of a requesting agency under paragraph (2)(B) that violates the protocols described in paragraph (3), including unauthorized disclosure or use, shall be subject to criminal and civil penalties under subsection (h)(3)(B).
+  - **(5)**
+    - **(A)** Beneficial ownership information shall be accessible for inspection or disclosure to officers and employees of the Department of the Treasury whose official duties require such inspection or disclosure subject to procedures and safeguards prescribed by the Secretary of the Treasury.
+    - **(B)** Officers and employees of the Department of the Treasury may obtain access to beneficial ownership information for tax administration purposes in accordance with this subsection.
+  - **(6)** The Secretary of the Treasury—
+    - **(A)** shall reject a request not submitted in the form and manner prescribed by the Secretary under paragraph (2)(C); and
+    - **(B)** may decline to provide information requested under this subsection upon finding that—
+      - **(i)** the requesting agency has failed to meet any other requirement of this subsection;
+      - **(ii)** the information is being requested for an unlawful purpose; or
+      - **(iii)** other good cause exists to deny the request.
+  - **(7)** The Secretary of the Treasury may suspend or debar a requesting agency from access for any of the grounds set forth in paragraph (6), including for repeated or serious violations of any requirement under paragraph (2).
+  - **(8)** The Secretary of the Treasury shall maintain information security protections, including encryption, for information reported to FinCEN under subsection (b) and ensure that the protections—
+    - **(A)** are consistent with standards and guidelines developed under subchapter II of chapter 35 of title 44; and
+    - **(B)** incorporate Federal information system security controls for high-impact systems, excluding national security systems, consistent with applicable law to prevent the loss of confidentiality, integrity, or availability of information that may have a severe or catastrophic adverse effect.
+  - **(9)** Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 5 years, the Secretary of the Treasury shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report, which—
+    - **(A)** may include a classified annex; and
+    - **(B)** shall, with respect to each request submitted under paragraph (2)(B)(i)(II) during the period covered by the report, and consistent with protocols established by the Secretary that are necessary to protect law enforcement sensitive, tax-related, or classified information, include—
+      - **(i)** the date on which the request was submitted;
+      - **(ii)** the source of the request;
+      - **(iii)** whether the request was accepted or rejected or is pending; and
+      - **(iv)** a general description of the basis for rejecting the such request, if applicable.
+  - **(10)** Not later than 1 year after the effective date of the regulations prescribed under this subsection, and annually thereafter for 6 years, the Comptroller General of the United States shall—
+    - **(A)** audit the procedures and safeguards established by the Secretary of the Treasury under those regulations, including duties for verification of requesting agencies systems and adherence to the protocols established under this subsection, to determine whether such safeguards and procedures meet the requirements of this subsection and that the Department of the Treasury is using beneficial ownership information appropriately in a manner consistent with this subsection; and
+    - **(B)** submit to the Secretary of the Treasury, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives a report that contains the findings and determinations with respect to any audit conducted under this paragraph.
+  - **(11)**
+    - **(A)** Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regarding FinCEN issues, including, specifically, issues relating to—
+      - **(i)** anticipated plans, goals, and resources necessary for operations of FinCEN in implementing the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+      - **(ii)** the adequacy of appropriations for FinCEN in the current and the previous fiscal year to—
+        - **(I)** ensure that the requirements and obligations imposed upon FinCEN by the Anti-Money Laundering Act of 2020 and the amendments made by that Act are completed as efficiently, effectively, and expeditiously as possible; and
+        - **(II)** provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+      - **(iii)** strengthen 2 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+      - **(iv)** provide 2 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+        - **(I)** educating the business community on the goals and operations of the new beneficial ownership database; and
+        - **(II)** disseminating to the governments of countries that are allies or partners of the United States information on best practices developed by FinCEN related to beneficial ownership information retention and use;
+      - **(v)** any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the Federal, State, and local agencies and entities involved in implementing innovative approaches to meet their obligations under the Anti-Money Laundering Act of 2020 and the amendments made by that Act, the Bank Secrecy Act (as defined in section 6003 of the Anti-Money Laundering Act of 2020), and other anti-money laundering compliance laws; and
+      - **(vi)** any other matter that the Director determines is appropriate.
+    - **(B)** The testimony required under subparagraph (A)—
+      - **(i)** shall be submitted in unclassified form; and
+      - **(ii)** may include a classified portion.
+- **(d)**
+  - **(1)** The Secretary of the Treasury shall, to the greatest extent practicable, update the information described in subsection (b) by working collaboratively with other relevant Federal, State, and Tribal agencies.
+  - **(2)** Relevant Federal, State, and Tribal agencies, as determined by the Secretary of the Treasury, shall, to the extent practicable, and consistent with applicable legal protections, cooperate with and provide information requested by FinCEN for purposes of maintaining an accurate, complete, and highly useful database for beneficial ownership information.
+  - **(3)** The Secretary of the Treasury, in consultation with the heads of other relevant Federal agencies, may promulgate regulations as necessary to carry out this subsection.
+- **(e)**
+  - **(1)** The Secretary of the Treasury shall take reasonable steps to provide notice to persons of their obligations to report beneficial ownership information under this section, including by causing appropriate informational materials describing such obligations to be included in 1 or more forms or other informational materials regularly distributed by the Internal Revenue Service and FinCEN.
+  - **(2)**
+    - **(A)** As a condition of the funds made available under this section, each State and Indian Tribe shall, not later than 2 years after the effective date of the regulations promulgated under subsection (b)(4), take the following actions:
+      - **(i)** The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribe shall periodically, including at the time of any initial formation or registration of an entity, assessment of an annual fee, or renewal of any license to do business in the United States and in connection with State or Indian Tribe corporate tax assessments or renewals—
+        - **(I)** notify filers of their requirements as reporting companies under this section, including the requirements to file and update reports under paragraphs (1) and (2) of subsection (b); and
+        - **(II)** provide the filers with a copy of the reporting company form created by the Secretary of the Treasury under this subsection or an internet link to that form.
+      - **(ii)** The secretary of a State or a similar office in each State or Indian Tribe responsible for the formation or registration of entities created by the filing of a public document with the office under the law of the State or Indian Tribes shall update the websites, forms relating to incorporation, and physical premises of the office to notify filers of their requirements as reporting companies under this section, including providing an internet link to the reporting company form created by the Secretary of the Treasury under this section.
+    - **(B)** A notification under clause (i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
+- **(f)** A corporation, limited liability company, or other similar entity formed under the laws of a State or Indian Tribe may not issue a certificate in bearer form evidencing either a whole or fractional interest in the entity.
+- **(g)** In promulgating regulations carrying out this section, the Director shall reach out to members of the small business community and other appropriate parties to ensure efficiency and effectiveness of the process for the entities subject to the requirements of this section.
+- **(h)**
+  - **(1)** It shall be unlawful for any person to—
+    - **(A)** willfully provide, or attempt to provide, false or fraudulent beneficial ownership information, including a false or fraudulent identifying photograph or document, to FinCEN in accordance with subsection (b); or
+    - **(B)** willfully fail to report complete or updated beneficial ownership information to FinCEN in accordance with subsection (b).
+  - **(2)** Except as authorized by this section, it shall be unlawful for any person to knowingly disclose or knowingly use the beneficial ownership information obtained by the person through—
+    - **(A)** a report submitted to FinCEN under subsection (b); or
+    - **(B)** a disclosure made by FinCEN under subsection (c).
+  - **(3)**
+    - **(A)** Any person that violates subparagraph (A) or (B) of paragraph (1)—
+      - **(i)** shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
+      - **(ii)** may be fined not more than $10,000, imprisoned for not more than 2 years, or both.
+    - **(B)** Any person that violates paragraph (2)—
+      - **(i)** shall be liable to the United States for a civil penalty of not more than $500 for each day that the violation continues or has not been remedied; and
+      - **(ii)**
+        - **(I)** shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
+        - **(II)** while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+    - **(C)**
+      - **(i)**
+        - **(I)** Except as provided in subclause (II), a person shall not be subject to civil or criminal penalty under subparagraph (A) if the person—
+        - **(II)** A person shall not be exempt from penalty under clause (i) if, at the time the person submits the report required by subsection (b), the person—
+      - **(ii)** FinCEN shall provide assistance to any person seeking to submit a corrected report in accordance with clause (i)(I).
+  - **(4)**
+    - **(A)** The Inspector General of the Department of the Treasury, in coordination with the Secretary of the Treasury, shall provide public contact information to receive external comments or complaints regarding the beneficial ownership information notification and collection process or regarding the accuracy, completeness, or timeliness of such information.
+    - **(B)** The Inspector General of the Department of the Treasury shall submit to Congress a periodic report that—
+      - **(i)** summarizes external comments or complaints and related investigations conducted by the Inspector General related to the collection of beneficial ownership information; and
+      - **(ii)** includes recommendations, in coordination with FinCEN, to improve the form and manner of the notification, collection and updating processes of the beneficial ownership information reporting requirements to ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
+  - **(5)**
+    - **(A)** In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigation into FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
+    - **(B)** The Inspector General of the Department of the Treasury shall submit to the Secretary of the Treasury a report on each investigation conducted under subparagraph (A).
+    - **(C)** Upon receiving a report submitted under subparagraph (B), the Secretary of the Treasury shall—
+      - **(i)** determine whether the Director had any responsibility for the cybersecurity breach or whether policies, practices, or procedures implemented at the direction of the Director led to the cybersecurity breach; and
+      - **(ii)** submit to Congress a written report outlining the findings of the Secretary, including a determination by the Secretary on whether to retain or dismiss the individual serving as the Director.
+  - **(6)** In this subsection, the term “willfully” means the voluntary, intentional violation of a known legal duty.
+- **(i)**
+  - **(1)** On and after the effective date of the regulations promulgated under subsection (b)(4), if the Secretary of the Treasury makes a determination, which may be based on information contained in the report required under section 6502(c) of the Anti-Money Laundering Act of 2020 or on any other information available to the Secretary, that an entity or class of entities described in subsection (a)(11)(B) has been involved in significant abuse relating to money laundering, the financing of terrorism, proliferation finance, serious tax fraud, or any other financial crime, not later than 90 days after the date on which the Secretary makes the determination, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that explains the reasons for the determination and any administrative or legislative recommendations to prevent such abuse.
+  - **(2)** The report required by paragraph (1)—
+    - **(A)** shall be submitted in unclassified form; and
+    - **(B)** may include a classified annex.
+- **(j)** There are authorized to be appropriated to FinCEN for each of the 3 fiscal years beginning on the effective date of the regulations promulgated under subsection (b)(4), such sums as may be necessary to carry out this section, including allocating funds to the States to pay reasonable costs relating to compliance with the requirements of such section.

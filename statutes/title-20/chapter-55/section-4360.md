@@ -5,21 +5,21 @@ usc_section: "4360"
 chapter: 55
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 4360"
-generated_at: "2026-03-29T00:07:03.172Z"
+generated_at: "2026-03-29T02:12:17.409Z"
 ---
 
 # § 4360. National study on the education of the deaf
 
-(a) 
-  (1) The Secretary shall establish a commission on the education of the deaf (in this section referred to as the “commission”) to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
-  (2) In this section the term “deaf”, when used with respect to an individual, means an individual with a hearing impairment, including an individual who is hard of hearing, an individual deafened later in life, and an individual who is profoundly deaf.
-(b) 
-  (1) In conducting such study, the commission shall obtain input from the public. To obtain such input, the commission shall—
-    (A) publish a notice with an opportunity for comment in the Federal Register;
-    (B) consult with individuals and organizations representing a wide range of perspectives on deafness-related issues, including organizations representing individuals who are deaf, parents of children who are deaf, educators, and researchers; and
-    (C) take such other action as the commission deems appropriate, which may include holding public meetings.
-  (2) The commission shall provide structured opportunities to receive and respond to the viewpoints of the individuals and organizations described in paragraph (1)(B).
-(c) The commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008 , regarding the results of the study. The report shall contain—
-  (1) recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including recommendations for legislation, that the commission deems appropriate; and
-  (2) a detailed summary of the input received under subsection (b) and the ways in which the report addresses such input.
-(d) There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.
+- **(a)**
+  - **(1)** The Secretary shall establish a commission on the education of the deaf (in this section referred to as the “commission”) to conduct a national study on the education of the deaf, to identify education-related barriers to successful postsecondary education experiences and employment for individuals who are deaf, and those education-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf.
+  - **(2)** In this section the term “deaf”, when used with respect to an individual, means an individual with a hearing impairment, including an individual who is hard of hearing, an individual deafened later in life, and an individual who is profoundly deaf.
+- **(b)**
+  - **(1)** In conducting such study, the commission shall obtain input from the public. To obtain such input, the commission shall—
+    - **(A)** publish a notice with an opportunity for comment in the Federal Register;
+    - **(B)** consult with individuals and organizations representing a wide range of perspectives on deafness-related issues, including organizations representing individuals who are deaf, parents of children who are deaf, educators, and researchers; and
+    - **(C)** take such other action as the commission deems appropriate, which may include holding public meetings.
+  - **(2)** The commission shall provide structured opportunities to receive and respond to the viewpoints of the individuals and organizations described in paragraph (1)(B).
+- **(c)** The commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008 , regarding the results of the study. The report shall contain—
+  - **(1)** recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including recommendations for legislation, that the commission deems appropriate; and
+  - **(2)** a detailed summary of the input received under subsection (b) and the ways in which the report addresses such input.
+- **(d)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.

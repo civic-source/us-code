@@ -5,7 +5,7 @@ usc_section: "1532"
 chapter: 15
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1532"
-generated_at: "2026-03-29T00:31:52.596Z"
+generated_at: "2026-03-29T02:14:14.052Z"
 ---
 
 # § 1532. Withdrawal and credit

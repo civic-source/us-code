@@ -5,7 +5,7 @@ usc_section: "3647"
 chapter: 51
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3647"
-generated_at: "2026-03-29T00:30:33.885Z"
+generated_at: "2026-03-29T02:12:40.294Z"
 ---
 
 # §§ 3646, 3647. Repealed. Pub. L. 105–261, div. C, title XXXV, § 3507(a) , Oct. 17, 1998 , 112 Stat. 2269

@@ -5,18 +5,18 @@ usc_section: "3111"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3111"
-generated_at: "2026-03-29T00:33:18.179Z"
+generated_at: "2026-03-29T02:16:14.773Z"
 ---
 
 # § 3111. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation
 
-(a) In addition to, and without any derogation of, the requirement under section 3091 of this title to keep the congressional intelligence committees fully and currently informed of the intelligence and counterintelligence activities of the United States, not less frequently than once each quarter, or more frequently if requested by the congressional intelligence committees, the Director of the Federal Bureau of Investigation shall provide to the congressional intelligence committees a briefing on the counterintelligence activities of the Federal Bureau of Investigation. Such briefings shall include, at a minimum, an overview and update of—
-  (1) the counterintelligence posture of the Bureau;
-  (2) counterintelligence investigations; and
-  (3) any other information relating to the counterintelligence activities of the Bureau that the Director determines necessary.
-(b) In addition to the quarterly briefings under subsection (a), the Director of the Federal Bureau of Investigation shall promptly notify the congressional intelligence committees of any counterintelligence investigation carried out by the Bureau with respect to any counterintelligence risk or threat that is related to an election or campaign for Federal office.
-(c) 
-  (1) The Director shall develop guidelines governing the scope of the briefings provided under subsection (a), the notifications provided under subsection (b), and the information required by section 3371(a)(2) of this title . The Director shall consult the congressional intelligence committees during such development.
-  (2) The Director shall submit to the congressional intelligence committees—
-    (A) the guidelines under paragraph (1) upon issuance; and
-    (B) any updates to such guidelines by not later than 15 days after making such update.
+- **(a)** In addition to, and without any derogation of, the requirement under section 3091 of this title to keep the congressional intelligence committees fully and currently informed of the intelligence and counterintelligence activities of the United States, not less frequently than once each quarter, or more frequently if requested by the congressional intelligence committees, the Director of the Federal Bureau of Investigation shall provide to the congressional intelligence committees a briefing on the counterintelligence activities of the Federal Bureau of Investigation. Such briefings shall include, at a minimum, an overview and update of—
+  - **(1)** the counterintelligence posture of the Bureau;
+  - **(2)** counterintelligence investigations; and
+  - **(3)** any other information relating to the counterintelligence activities of the Bureau that the Director determines necessary.
+- **(b)** In addition to the quarterly briefings under subsection (a), the Director of the Federal Bureau of Investigation shall promptly notify the congressional intelligence committees of any counterintelligence investigation carried out by the Bureau with respect to any counterintelligence risk or threat that is related to an election or campaign for Federal office.
+- **(c)**
+  - **(1)** The Director shall develop guidelines governing the scope of the briefings provided under subsection (a), the notifications provided under subsection (b), and the information required by section 3371(a)(2) of this title . The Director shall consult the congressional intelligence committees during such development.
+  - **(2)** The Director shall submit to the congressional intelligence committees—
+    - **(A)** the guidelines under paragraph (1) upon issuance; and
+    - **(B)** any updates to such guidelines by not later than 15 days after making such update.

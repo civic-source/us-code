@@ -5,7 +5,7 @@ usc_section: "5174"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5174"
-generated_at: "2026-03-29T00:31:20.985Z"
+generated_at: "2026-03-29T02:14:01.256Z"
 ---
 
 # [§ 5174. Repealed. Pub. L. 96–39, title VIII, § 807(a)(14) , July 26, 1979 , 93 Stat. 282 ]

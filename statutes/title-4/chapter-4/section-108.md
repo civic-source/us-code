@@ -5,7 +5,7 @@ usc_section: "108"
 chapter: 4
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 108"
-generated_at: "2026-03-28T23:53:20.151Z"
+generated_at: "2026-03-29T02:09:55.007Z"
 ---
 
 # § 108. Same; jurisdiction of United States over Federal areas unaffected

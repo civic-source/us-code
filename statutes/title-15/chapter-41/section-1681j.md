@@ -5,44 +5,44 @@ usc_section: "1681j"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1681j"
-generated_at: "2026-03-29T00:29:41.733Z"
+generated_at: "2026-03-29T02:11:34.220Z"
 ---
 
 # § 1681j. Charges for certain disclosures
 
-(a) 
-  (1) 
-    (A) All consumer reporting agencies described in subsections (p) and (w) 1 1 See References in Text note below. of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
-    (B) Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 1681a(p) of this title only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) 1 of the Fair and Accurate Credit Transactions Act of 2003.
-    (C) 
-      (i) The Commission 2 2 So in original. Probably should be “Bureau”. shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) 1 of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
-      (ii) In prescribing regulations under clause (i), the Bureau shall consider—
-        (I) the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
-        (II) appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
-        (III) the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
-      (iii) The Commission 2 shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003 .
-      (iv) The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a), which effective date—
-        (I) shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
-        (II) shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
-  (2) A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days after the date on which the request is received under paragraph (1).
-  (3) Notwithstanding the time periods specified in section 1681i(a)(1) of this title , a reinvestigation under that section by a consumer reporting agency upon a request of a consumer that is made after receiving a consumer report under this subsection shall be completed not later than 45 days after the date on which the request is received.
-  (4) This subsection shall not apply to a consumer reporting agency that has not been furnishing consumer reports to third parties on a continuing basis during the 12-month period preceding a request under paragraph (1), with respect to consumers residing nationwide.
-(b) Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title , or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title .
-(c) Upon the request of the consumer, a consumer reporting agency shall make all disclosures pursuant to section 1681g of this title once during any 12-month period without charge to that consumer if the consumer certifies in writing that the consumer—
-  (1) is unemployed and intends to apply for employment in the 60-day period beginning on the date on which the certification is made;
-  (2) is a recipient of public welfare assistance; or
-  (3) has reason to believe that the file on the consumer at the agency contains inaccurate information due to fraud.
-(d) Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title , as applicable.
-(e) A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f).
-(f) 
-  (1) In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
-    (A) for making a disclosure to the consumer pursuant to section 1681g of this title , which charge—
-      (i) shall not exceed $8; and
-      (ii) shall be indicated to the consumer before making the disclosure; and
-    (B) for furnishing, pursuant to section 1681i(d) of this title , following a reinvestigation under section 1681i(a) of this title , a statement, codification, or summary to a person designated by the consumer under that section after the 30-day period beginning on the date of notification of the consumer under paragraph (6) or (8) of section 1681i(a) of this title with respect to the reinvestigation, which charge—
-      (i) shall not exceed the charge that the agency would impose on each designated recipient for a consumer report; and
-      (ii) shall be indicated to the consumer before furnishing such information.
-  (2) The Bureau shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
-(g) 
-  (1) Subject to rulemaking pursuant to section 205(b) of the Credit CARD Act of 2009, any advertisement for a free credit report in any medium shall prominently disclose in such advertisement that free credit reports are available under Federal law at: “AnnualCreditReport.com” (or such other source as may be authorized under Federal law).
-  (2) In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison 3 3 So in original. Probably should be “television”. or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
+- **(a)**
+  - **(1)**
+    - **(A)** All consumer reporting agencies described in subsections (p) and (w) 1 1 See References in Text note below. of section 1681a of this title shall make all disclosures pursuant to section 1681g of this title once during any 12-month period upon request of the consumer and without charge to the consumer.
+    - **(B)** Subparagraph (A) shall apply with respect to a consumer reporting agency described in section 1681a(p) of this title only if the request from the consumer is made using the centralized source established for such purpose in accordance with section 211(c) 1 of the Fair and Accurate Credit Transactions Act of 2003.
+    - **(C)**
+      - **(i)** The Commission 2 2 So in original. Probably should be “Bureau”. shall prescribe regulations applicable to each consumer reporting agency described in section 1681a(w) 1 of this title to require the establishment of a streamlined process for consumers to request consumer reports under subparagraph (A), which shall include, at a minimum, the establishment by each such agency of a toll-free telephone number for such requests.
+      - **(ii)** In prescribing regulations under clause (i), the Bureau shall consider—
+        - **(I)** the significant demands that may be placed on consumer reporting agencies in providing such consumer reports;
+        - **(II)** appropriate means to ensure that consumer reporting agencies can satisfactorily meet those demands, including the efficacy of a system of staggering the availability to consumers of such consumer reports; and
+        - **(III)** the ease by which consumers should be able to contact consumer reporting agencies with respect to access to such consumer reports.
+      - **(iii)** The Commission 2 shall issue the regulations required by this subparagraph in final form not later than 6 months after December 4, 2003 .
+      - **(iv)** The regulations of the Bureau under this subparagraph shall establish an effective date by which each nationwide specialty consumer reporting agency (as defined in section 1681a(w) 1 of this title) shall be required to comply with subsection (a), which effective date—
+        - **(I)** shall be established after consideration of the ability of each nationwide specialty consumer reporting agency to comply with subsection (a); and
+        - **(II)** shall be not later than 6 months after the date on which such regulations are issued in final form (or such additional period not to exceed 3 months, as the Bureau determines appropriate).
+  - **(2)** A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days after the date on which the request is received under paragraph (1).
+  - **(3)** Notwithstanding the time periods specified in section 1681i(a)(1) of this title , a reinvestigation under that section by a consumer reporting agency upon a request of a consumer that is made after receiving a consumer report under this subsection shall be completed not later than 45 days after the date on which the request is received.
+  - **(4)** This subsection shall not apply to a consumer reporting agency that has not been furnishing consumer reports to third parties on a continuing basis during the 12-month period preceding a request under paragraph (1), with respect to consumers residing nationwide.
+- **(b)** Each consumer reporting agency that maintains a file on a consumer shall make all disclosures pursuant to section 1681g of this title without charge to the consumer if, not later than 60 days after receipt by such consumer of a notification pursuant to section 1681m of this title , or of a notification from a debt collection agency affiliated with that consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g of this title .
+- **(c)** Upon the request of the consumer, a consumer reporting agency shall make all disclosures pursuant to section 1681g of this title once during any 12-month period without charge to that consumer if the consumer certifies in writing that the consumer—
+  - **(1)** is unemployed and intends to apply for employment in the 60-day period beginning on the date on which the certification is made;
+  - **(2)** is a recipient of public welfare assistance; or
+  - **(3)** has reason to believe that the file on the consumer at the agency contains inaccurate information due to fraud.
+- **(d)** Upon the request of a consumer, a consumer reporting agency described in section 1681a(p) of this title shall make all disclosures pursuant to section 1681g of this title without charge to the consumer, as provided in subsections (a)(2) and (b)(2) of section 1681c–1 of this title , as applicable.
+- **(e)** A consumer reporting agency shall not impose any charge on a consumer for providing any notification required by this subchapter or making any disclosure required by this subchapter, except as authorized by subsection (f).
+- **(f)**
+  - **(1)** In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a consumer reporting agency may impose a reasonable charge on a consumer—
+    - **(A)** for making a disclosure to the consumer pursuant to section 1681g of this title , which charge—
+      - **(i)** shall not exceed $8; and
+      - **(ii)** shall be indicated to the consumer before making the disclosure; and
+    - **(B)** for furnishing, pursuant to section 1681i(d) of this title , following a reinvestigation under section 1681i(a) of this title , a statement, codification, or summary to a person designated by the consumer under that section after the 30-day period beginning on the date of notification of the consumer under paragraph (6) or (8) of section 1681i(a) of this title with respect to the reinvestigation, which charge—
+      - **(i)** shall not exceed the charge that the agency would impose on each designated recipient for a consumer report; and
+      - **(ii)** shall be indicated to the consumer before furnishing such information.
+  - **(2)** The Bureau shall increase the amount referred to in paragraph (1)(A)(i) on January 1 of each year, based proportionally on changes in the Consumer Price Index, with fractional changes rounded to the nearest fifty cents.
+- **(g)**
+  - **(1)** Subject to rulemaking pursuant to section 205(b) of the Credit CARD Act of 2009, any advertisement for a free credit report in any medium shall prominently disclose in such advertisement that free credit reports are available under Federal law at: “AnnualCreditReport.com” (or such other source as may be authorized under Federal law).
+  - **(2)** In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison 3 3 So in original. Probably should be “television”. or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.

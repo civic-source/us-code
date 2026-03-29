@@ -5,7 +5,7 @@ usc_section: "20305"
 chapter: 203
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 20305"
-generated_at: "2026-03-29T00:33:13.796Z"
+generated_at: "2026-03-29T02:16:08.935Z"
 ---
 
 # § 20305. Inspection of mail cars

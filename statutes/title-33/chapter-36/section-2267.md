@@ -5,12 +5,12 @@ usc_section: "2267"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2267"
-generated_at: "2026-03-29T00:31:57.405Z"
+generated_at: "2026-03-29T02:14:18.610Z"
 ---
 
 # § 2267. New York Bight study
 
-(a) The Secretary shall study a hydro-environmental monitoring and information system in the New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
-(b) In addition, the Secretary shall study a proper physical hydraulic model of the New York Bight and for such an offshore model to be tied into the existing inshore physical hydraulic model of the Port of New York and New Jersey operated by the United States Army Corps of Engineers.
-(c) The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in this section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water quality in the New York Bight.
-(d) There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.
+- **(a)** The Secretary shall study a hydro-environmental monitoring and information system in the New York Bight in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight) of the following: wind, wave, current, salinity and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight.
+- **(b)** In addition, the Secretary shall study a proper physical hydraulic model of the New York Bight and for such an offshore model to be tied into the existing inshore physical hydraulic model of the Port of New York and New Jersey operated by the United States Army Corps of Engineers.
+- **(c)** The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in this section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water quality in the New York Bight.
+- **(d)** There is authorized to be appropriated not more than $1,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991.

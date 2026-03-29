@@ -5,12 +5,12 @@ usc_section: "11188"
 chapter: 111
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 11188"
-generated_at: "2026-03-29T00:32:01.601Z"
+generated_at: "2026-03-29T02:14:25.301Z"
 ---
 
 # § 11188. Rules of construction
 
 Nothing in this subchapter or subchapter I shall be construed—
 
-  (1) to prevent financial assistance from being awarded through grants under this subchapter to any otherwise eligible organization; or
-  (2) to modify or affect any Federal or State law relating to collective bargaining rights of employees.
+  - **(1)** to prevent financial assistance from being awarded through grants under this subchapter to any otherwise eligible organization; or
+  - **(2)** to modify or affect any Federal or State law relating to collective bargaining rights of employees.

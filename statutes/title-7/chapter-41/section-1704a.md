@@ -5,7 +5,7 @@ usc_section: "1704a"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1704a"
-generated_at: "2026-03-29T00:28:58.043Z"
+generated_at: "2026-03-29T02:10:16.846Z"
 ---
 
 # § 1704a. Agreements for use of foreign currencies; reports to Congress

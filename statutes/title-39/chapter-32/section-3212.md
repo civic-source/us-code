@@ -5,10 +5,10 @@ usc_section: "3212"
 chapter: 32
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3212"
-generated_at: "2026-03-29T00:32:18.856Z"
+generated_at: "2026-03-29T02:14:53.131Z"
 ---
 
 # § 3212. Congressional Record under frank of Members of Congress
 
-(a) Members of Congress may send the Congressional Record as franked mail.
-(b) Members of Congress may send, as franked mail, any part of, or a reprint of any part of, the Congressional Record, including speeches or reports contained therein, if such matter is mailable as franked mail under section 3210 of this title .
+- **(a)** Members of Congress may send the Congressional Record as franked mail.
+- **(b)** Members of Congress may send, as franked mail, any part of, or a reprint of any part of, the Congressional Record, including speeches or reports contained therein, if such matter is mailable as franked mail under section 3210 of this title .

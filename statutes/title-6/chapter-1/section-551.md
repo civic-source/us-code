@@ -1,0 +1,25 @@
+---
+title: "Section 551 - Transitional authorities"
+usc_title: 6
+usc_section: "551"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 551"
+generated_at: "2026-03-29T02:10:05.021Z"
+---
+
+# § 551. Transitional authorities
+
+- **(a)** Until the transfer of an agency to the Department, any official having authority over or functions relating to the agency immediately before the effective date of this chapter shall provide to the Secretary such assistance, including the use of personnel and assets, as the Secretary may request in preparing for the transfer and integration of the agency into the Department.
+- **(b)** During the transition period, upon the request of the Secretary, the head of any executive agency may, on a reimbursable basis, provide services or detail personnel to assist with the transition.
+- **(c)**
+  - **(1)** During the transition period, pending the advice and consent of the Senate to the appointment of an officer required by this chapter to be appointed by and with such advice and consent, the President may designate any officer whose appointment was required to be made by and with such advice and consent and who was such an officer immediately before the effective date of this chapter (and who continues in office) or immediately before such designation, to act in such office until the same is filled as provided in this chapter. While so acting, such officers shall receive compensation at the higher of—
+    - **(A)** the rates provided by this chapter for the respective offices in which they act; or
+    - **(B)** the rates provided for the offices held at the time of designation.
+  - **(2)** Nothing in this chapter shall be understood to require the advice and consent of the Senate to the appointment by the President to a position in the Department of any officer whose agency is transferred to the Department pursuant to this chapter and whose duties following such transfer are germane to those performed before such transfer.
+- **(d)** Upon the transfer of an agency to the Department—
+  - **(1)** the personnel, assets, and obligations held by or available in connection with the agency shall be transferred to the Secretary for appropriate allocation, subject to the approval of the Director of the Office of Management and Budget and in accordance with the provisions of section 1531(a)(2) of title 31 ; and
+  - **(2)** the Secretary shall have all functions relating to the agency that any other official could by law exercise in relation to the agency immediately before such transfer, and shall have in addition all functions vested in the Secretary by this chapter or other law.
+- **(e)**
+  - **(1)** Notwithstanding any other provision of this chapter, no funds derived from the Highway Trust Fund, Airport and Airway Trust Fund, Inland Waterway Trust Fund, or Harbor Maintenance Trust Fund, may be transferred to, made available to, or obligated by the Secretary or any other official in the Department.
+  - **(2)** This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Sport Fish Restoration and Boating Trust Fund for boating safety programs.

@@ -5,7 +5,7 @@ usc_section: "14b"
 chapter: 1
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 14b"
-generated_at: "2026-03-29T00:30:38.610Z"
+generated_at: "2026-03-29T02:13:20.833Z"
 ---
 
 # § 14b. Disposition of funds received from public for goods and services provided by Bureau of Indian Affairs

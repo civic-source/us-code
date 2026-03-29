@@ -5,7 +5,7 @@ usc_section: "7213"
 chapter: 723
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7213"
-generated_at: "2026-03-29T00:20:53.193Z"
+generated_at: "2026-03-29T02:10:45.272Z"
 ---
 
 # § 7213. Corps of Engineers: assignment or transfer of officers to duties involving civil functions

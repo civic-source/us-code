@@ -5,7 +5,7 @@ usc_section: "360ss"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 360ss"
-generated_at: "2026-03-29T00:30:24.245Z"
+generated_at: "2026-03-29T02:12:28.042Z"
 ---
 
 # § 360ss. State standards

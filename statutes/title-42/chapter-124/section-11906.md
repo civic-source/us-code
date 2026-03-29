@@ -5,13 +5,13 @@ usc_section: "11906"
 chapter: 124
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11906"
-generated_at: "2026-03-29T00:32:54.242Z"
+generated_at: "2026-03-29T02:15:37.176Z"
 ---
 
 # § 11906. Reports
 
-(a) The Secretary shall require grantees under this subchapter to provide periodic reports that include the obligation and expenditure of grant funds, the progress made by the grantee in implementing the plan described in section 11904(a) of this title , and any change in the incidence of drug-related crime in projects assisted under this subchapter.
-(b) The Secretary shall submit a report to the Congress not later than 18 months after October 21, 1998 , describing the system used to distribute funding to grantees under this section, which shall include descriptions of—
-  (1) the methodology used to distribute amounts made available under this subchapter among public housing agencies, including provisions used to provide for renewals of ongoing programs funded under this subchapter; and
-  (2) actions taken by the Secretary to ensure that amounts made available under this subchapter are not used to fund baseline local government services, as described in section 11907(b) of this title .
-(c) The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.
+- **(a)** The Secretary shall require grantees under this subchapter to provide periodic reports that include the obligation and expenditure of grant funds, the progress made by the grantee in implementing the plan described in section 11904(a) of this title , and any change in the incidence of drug-related crime in projects assisted under this subchapter.
+- **(b)** The Secretary shall submit a report to the Congress not later than 18 months after October 21, 1998 , describing the system used to distribute funding to grantees under this section, which shall include descriptions of—
+  - **(1)** the methodology used to distribute amounts made available under this subchapter among public housing agencies, including provisions used to provide for renewals of ongoing programs funded under this subchapter; and
+  - **(2)** actions taken by the Secretary to ensure that amounts made available under this subchapter are not used to fund baseline local government services, as described in section 11907(b) of this title .
+- **(c)** The Secretary shall cause to be published in the Federal Register notice of all grant awards made pursuant to this subchapter, which shall identify the grantees and the amount of the grants. Such notice shall be published not less frequently than annually.

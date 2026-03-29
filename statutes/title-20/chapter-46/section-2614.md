@@ -5,7 +5,7 @@ usc_section: "2614"
 chapter: 46
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 2614"
-generated_at: "2026-03-29T00:07:03.161Z"
+generated_at: "2026-03-29T02:12:17.391Z"
 ---
 
 # §§ 2613, 2614. Repealed. Pub. L. 97–35, title V, § 587(a)(4) , Aug. 13, 1981 , 95 Stat. 480

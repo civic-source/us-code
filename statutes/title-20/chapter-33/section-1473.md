@@ -1,0 +1,28 @@
+---
+title: "Section 1473 - Technical assistance for parent training and information centers"
+usc_title: 20
+usc_section: "1473"
+chapter: 33
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1473"
+generated_at: "2026-03-29T02:12:17.369Z"
+---
+
+# § 1473. Technical assistance for parent training and information centers
+
+- **(a)**
+  - **(1)** The Secretary may, directly or through awards to eligible entities, provide technical assistance for developing, assisting, and coordinating parent training and information programs carried out by parent training and information centers receiving assistance under section 1471 of this title and community parent resource centers receiving assistance under section 1472 of this title .
+  - **(2)** In this section, the term “eligible entity” has the meaning given the term in section 1461(b) of this title .
+- **(b)** The Secretary may provide technical assistance to a parent training and information center or a community parent resource center under this section in areas such as—
+  - **(1)** effective coordination of parent training efforts;
+  - **(2)** dissemination of scientifically based research and information;
+  - **(3)** promotion of the use of technology, including assistive technology devices and assistive technology services;
+  - **(4)** reaching underserved populations, including parents of low-income and limited English proficient children with disabilities;
+  - **(5)** including children with disabilities in general education programs;
+  - **(6)** facilitation of transitions from—
+    - **(A)** early intervention services to preschool;
+    - **(B)** preschool to elementary school;
+    - **(C)** elementary school to secondary school; and
+    - **(D)** secondary school to postsecondary environments; and
+  - **(7)** promotion of alternative methods of dispute resolution, including mediation.
+- **(c)** Each eligible entity receiving an award under subsection (a) shall develop collaborative agreements with the geographically appropriate regional resource center and, as appropriate, the regional educational laboratory supported under section 9564 of this title , to further parent and professional collaboration.

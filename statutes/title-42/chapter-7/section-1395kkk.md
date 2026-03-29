@@ -5,7 +5,7 @@ usc_section: "1395kkk"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1395kkk"
-generated_at: "2026-03-29T00:32:53.516Z"
+generated_at: "2026-03-29T02:15:36.323Z"
 ---
 
 # § 1395kkk. Repealed. Pub. L. 115–123, div. E, title XI, § 52001(a) , Feb. 9, 2018 , 132 Stat. 298

@@ -5,20 +5,20 @@ usc_section: "537"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 537"
-generated_at: "2026-03-29T00:31:20.785Z"
+generated_at: "2026-03-29T02:14:01.011Z"
 ---
 
 # § 537. Reasonable needs of the business
 
-(a) For purposes of this part, the term “reasonable needs of the business” includes—
-  (1) the reasonably anticipated needs of the business,
-  (2) the section 303 redemption needs of the business, and
-  (3) the excess business holdings redemption needs of the business.
-(b) For purposes of subsection (a)—
-  (1) The term “section 303 redemption needs” means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent (but not in excess of the maximum amount of stock to which section 303(a) may apply).
-  (2) The term “excess business holdings redemption needs” means the amount needed (or reasonably anticipated to be needed) to redeem from a private foundation stock which—
-    (A) such foundation held on May 26, 1969 (or which was received by such foundation pursuant to a will or irrevocable trust to which section 4943(c)(5) applies), and
-    (B) constituted excess business holdings on May 26, 1969 , or would have constituted excess business holdings as of such date if there were taken into account (i) stock received pursuant to a will or trust described in subparagraph (A), and (ii) the reduction in the total outstanding stock of the corporation which would have resulted solely from the redemption of stock held by the private foundation.
-  (3) In applying paragraphs (1) and (2), the discharge of any obligation incurred to make a redemption described in such paragraphs shall be treated as the making of such redemption.
-  (4) The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f) (as in effect before the date of enactment of the Tax Cuts and Jobs Act)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
-  (5) The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.
+- **(a)** For purposes of this part, the term “reasonable needs of the business” includes—
+  - **(1)** the reasonably anticipated needs of the business,
+  - **(2)** the section 303 redemption needs of the business, and
+  - **(3)** the excess business holdings redemption needs of the business.
+- **(b)** For purposes of subsection (a)—
+  - **(1)** The term “section 303 redemption needs” means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent (but not in excess of the maximum amount of stock to which section 303(a) may apply).
+  - **(2)** The term “excess business holdings redemption needs” means the amount needed (or reasonably anticipated to be needed) to redeem from a private foundation stock which—
+    - **(A)** such foundation held on May 26, 1969 (or which was received by such foundation pursuant to a will or irrevocable trust to which section 4943(c)(5) applies), and
+    - **(B)** constituted excess business holdings on May 26, 1969 , or would have constituted excess business holdings as of such date if there were taken into account (i) stock received pursuant to a will or trust described in subparagraph (A), and (ii) the reduction in the total outstanding stock of the corporation which would have resulted solely from the redemption of stock held by the private foundation.
+  - **(3)** In applying paragraphs (1) and (2), the discharge of any obligation incurred to make a redemption described in such paragraphs shall be treated as the making of such redemption.
+  - **(4)** The accumulation of reasonable amounts for the payment of reasonably anticipated product liability losses (as defined in section 172(f) (as in effect before the date of enactment of the Tax Cuts and Jobs Act)), as determined under regulations prescribed by the Secretary, shall be treated as accumulated for the reasonably anticipated needs of the business.
+  - **(5)** The application of this part to any taxable year before the first taxable year specified in paragraph (1) shall be made without regard to the fact that distributions in redemption coming within the terms of such paragraphs were subsequently made.

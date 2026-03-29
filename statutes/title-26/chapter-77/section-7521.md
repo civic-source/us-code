@@ -5,20 +5,20 @@ usc_section: "7521"
 chapter: 77
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7521"
-generated_at: "2026-03-29T00:31:21.097Z"
+generated_at: "2026-03-29T02:14:01.396Z"
 ---
 
 # § 7521. Procedures involving taxpayer interviews
 
-(a) 
-  (1) Any officer or employee of the Internal Revenue Service in connection with any in-person interview with any taxpayer relating to the determination or collection of any tax shall, upon advance request of such taxpayer, allow the taxpayer to make an audio recording of such interview at the taxpayer’s own expense and with the taxpayer’s own equipment.
-  (2) An officer or employee of the Internal Revenue Service may record any interview described in paragraph (1) if such officer or employee—
-    (A) informs the taxpayer of such recording prior to the interview, and
-    (B) upon request of the taxpayer, provides the taxpayer with a transcript or copy of such recording but only if the taxpayer provides reimbursement for the cost of the transcription and reproduction of such transcript or copy.
-(b) 
-  (1) An officer or employee of the Internal Revenue Service shall before or at an initial interview provide to the taxpayer—
-    (A) in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer’s rights under such process, or
-    (B) in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer’s rights under such process.
-  (2) If the taxpayer clearly states to an officer or employee of the Internal Revenue Service at any time during any interview (other than an interview initiated by an administrative summons issued under subchapter A of chapter 78) that the taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service, such officer or employee shall suspend such interview regardless of whether the taxpayer may have answered one or more questions.
-(c) Any attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service who is not disbarred or suspended from practice before the Internal Revenue Service and who has a written power of attorney executed by the taxpayer may be authorized by such taxpayer to represent the taxpayer in any interview described in subsection (a). An officer or employee of the Internal Revenue Service may not require a taxpayer to accompany the representative in the absence of an administrative summons issued to the taxpayer under subchapter A of chapter 78. Such an officer or employee, with the consent of the immediate supervisor of such officer or employee, may notify the taxpayer directly that such officer or employee believes such representative is responsible for unreasonable delay or hindrance of an Internal Revenue Service examination or investigation of the taxpayer.
-(d) This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.
+- **(a)**
+  - **(1)** Any officer or employee of the Internal Revenue Service in connection with any in-person interview with any taxpayer relating to the determination or collection of any tax shall, upon advance request of such taxpayer, allow the taxpayer to make an audio recording of such interview at the taxpayer’s own expense and with the taxpayer’s own equipment.
+  - **(2)** An officer or employee of the Internal Revenue Service may record any interview described in paragraph (1) if such officer or employee—
+    - **(A)** informs the taxpayer of such recording prior to the interview, and
+    - **(B)** upon request of the taxpayer, provides the taxpayer with a transcript or copy of such recording but only if the taxpayer provides reimbursement for the cost of the transcription and reproduction of such transcript or copy.
+- **(b)**
+  - **(1)** An officer or employee of the Internal Revenue Service shall before or at an initial interview provide to the taxpayer—
+    - **(A)** in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer’s rights under such process, or
+    - **(B)** in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer’s rights under such process.
+  - **(2)** If the taxpayer clearly states to an officer or employee of the Internal Revenue Service at any time during any interview (other than an interview initiated by an administrative summons issued under subchapter A of chapter 78) that the taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service, such officer or employee shall suspend such interview regardless of whether the taxpayer may have answered one or more questions.
+- **(c)** Any attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service who is not disbarred or suspended from practice before the Internal Revenue Service and who has a written power of attorney executed by the taxpayer may be authorized by such taxpayer to represent the taxpayer in any interview described in subsection (a). An officer or employee of the Internal Revenue Service may not require a taxpayer to accompany the representative in the absence of an administrative summons issued to the taxpayer under subchapter A of chapter 78. Such an officer or employee, with the consent of the immediate supervisor of such officer or employee, may notify the taxpayer directly that such officer or employee believes such representative is responsible for unreasonable delay or hindrance of an Internal Revenue Service examination or investigation of the taxpayer.
+- **(d)** This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.

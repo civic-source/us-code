@@ -5,29 +5,29 @@ usc_section: "12003"
 chapter: 125
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12003"
-generated_at: "2026-03-29T00:32:54.242Z"
+generated_at: "2026-03-29T02:15:37.177Z"
 ---
 
 # § 12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs
 
-(a) The following are declared to be the national goals for the alcohol from biomass and other energy technology programs being carried out by the Secretary:
-  (1) 
-    (A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
-    (B) 
-      (i) Specific goals for producing ethanol from biomass shall be to—
-        (I) reduce the cost of alcohol to 70 cents per gallon;
-        (II) improve the overall biomass carbohydrate conversion efficiency to 91 percent;
-        (III) reduce the capital cost component of the cost of alcohol to 23 cents per gallon; and
-        (IV) reduce the operating and maintenance component of the cost of alcohol to 47 cents per gallon.
-      (ii) Specific goals for producing methanol from biomass shall be to—
-        (I) reduce the cost of alcohol to 47 cents per gallon; and
-        (II) reduce the capital component of the cost of alcohol to 16 cents per gallon.
-  (2) The Secretary shall submit to the Congress, as part of the first report submitted under section 12006 of this title , recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Marine Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
-(b) Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under section 12006 of this title , of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title .
-(c) There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Marine Energy Systems Program, and the Geothermal Energy Systems Program—
-  (1) not to exceed $113,000,000 for fiscal year 1991, of which—
-    (A) not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
-    (B) not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
-  (2) not to exceed $121,000,000 for fiscal year 1992, of which—
-    (A) not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
-    (B) not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.
+- **(a)** The following are declared to be the national goals for the alcohol from biomass and other energy technology programs being carried out by the Secretary:
+  - **(1)**
+    - **(A)** In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
+    - **(B)**
+      - **(i)** Specific goals for producing ethanol from biomass shall be to—
+        - **(I)** reduce the cost of alcohol to 70 cents per gallon;
+        - **(II)** improve the overall biomass carbohydrate conversion efficiency to 91 percent;
+        - **(III)** reduce the capital cost component of the cost of alcohol to 23 cents per gallon; and
+        - **(IV)** reduce the operating and maintenance component of the cost of alcohol to 47 cents per gallon.
+      - **(ii)** Specific goals for producing methanol from biomass shall be to—
+        - **(I)** reduce the cost of alcohol to 47 cents per gallon; and
+        - **(II)** reduce the capital component of the cost of alcohol to 16 cents per gallon.
+  - **(2)** The Secretary shall submit to the Congress, as part of the first report submitted under section 12006 of this title , recommendations for specific cost goals and other pertinent goals for 1995 for Department of Energy research, development, and demonstration programs in Biofuels Energy Systems, Biodiesel Energy Systems, Hydrogen Energy Systems, Solar Buildings Energy Systems, Marine Energy Systems, Geothermal Energy Systems, Low-Head Hydro, and Energy Storage Systems.
+- **(b)** Whenever the Secretary determines that any of the goals established under this section is no longer appropriate, the Secretary shall notify Congress, as part of a report submitted under section 12006 of this title , of the reason for the determination and provide an amended goal that is consistent with the purpose stated in section 12001(b) of this title .
+- **(c)** There are authorized to be appropriated to the Secretary for the following renewable energy research, development, and demonstration programs: the Biofuels Energy Systems Program, the Hydrogen Energy Systems Program, the Solar Buildings Energy Systems Program, the Marine Energy Systems Program, and the Geothermal Energy Systems Program—
+  - **(1)** not to exceed $113,000,000 for fiscal year 1991, of which—
+    - **(A)** not to exceed $19,000,000 shall be available for the Geothermal Energy Systems Program; and
+    - **(B)** not to exceed $4,000,000 shall be available for the Hydrogen Energy Systems Program; and
+  - **(2)** not to exceed $121,000,000 for fiscal year 1992, of which—
+    - **(A)** not to exceed $20,500,000 shall be available for the Geothermal Energy Systems Program; and
+    - **(B)** not to exceed $5,000,000 shall be available for the Hydrogen Energy Systems Program.

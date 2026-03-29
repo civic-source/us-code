@@ -5,7 +5,7 @@ usc_section: "5212"
 chapter: 83
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5212"
-generated_at: "2026-03-29T00:28:58.202Z"
+generated_at: "2026-03-29T02:10:17.038Z"
 ---
 
 # §§ 5211, 5212. Repealed. Pub. L. 101–624, title XV, § 1571 , Nov. 28, 1990 , 104 Stat. 3702

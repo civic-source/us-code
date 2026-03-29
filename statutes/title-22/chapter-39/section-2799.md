@@ -5,13 +5,13 @@ usc_section: "2799"
 chapter: 39
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2799"
-generated_at: "2026-03-29T00:30:33.868Z"
+generated_at: "2026-03-29T02:12:40.273Z"
 ---
 
 # § 2799. Purpose
 
 The purpose of this subchapter is to authorize the President to support, consistent with the CFE Treaty, a NATO equipment transfer program that will—
 
-  (1) enhance NATO’s forces,
-  (2) increase NATO standardization and interoperability, and
-  (3) better distribute defense burdens within the NATO alliance.
+  - **(1)** enhance NATO’s forces,
+  - **(2)** increase NATO standardization and interoperability, and
+  - **(3)** better distribute defense burdens within the NATO alliance.

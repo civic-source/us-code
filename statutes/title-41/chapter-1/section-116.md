@@ -5,12 +5,12 @@ usc_section: "116"
 chapter: 1
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 116"
-generated_at: "2026-03-29T00:32:22.564Z"
+generated_at: "2026-03-29T02:15:00.437Z"
 ---
 
 # § 116. Technical data
 
 In this subtitle, the term “technical data”—
 
-  (1) means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency; but
-  (2) does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
+  - **(1)** means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency; but
+  - **(2)** does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.

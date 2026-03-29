@@ -5,7 +5,7 @@ usc_section: "2256"
 chapter: 153
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2256"
-generated_at: "2026-03-29T00:31:24.197Z"
+generated_at: "2026-03-29T02:14:04.573Z"
 ---
 
 # [§ 2256. Omitted]

@@ -5,15 +5,15 @@ usc_section: "8262"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8262"
-generated_at: "2026-03-29T00:32:54.115Z"
+generated_at: "2026-03-29T02:15:37.015Z"
 ---
 
 # § 8262. Definitions
 
 For purposes of this subtitle— 1 1 See References in Text note below.
 
-  (1) the term “agency” means 2 2 So in original. The word “means” probably should not appear. has the meaning given such term in section 551(1) of title 5 , except that such term does not include the United States Postal Service;
-  (2) the term “facility energy supervisor” means the employee with responsibility for the daily operations of a Federal facility, including the management, installation, operation, and maintenance of energy systems in Federal facilities which may include more than one building;
-  (3) the term “trained energy manager” means a person who has demonstrated proficiency, or who has completed a course of study in the areas of fundamentals of building energy systems, building energy codes and applicable professional standards, energy accounting and analysis, life-cycle cost methodology, fuel supply and pricing, and instrumentation for energy surveys and audits;
-  (4) the term “Task Force” means the Interagency Energy Management Task Force established under section 8257 of this title ; and
-  (5) the term “energy conservation measures” has the meaning given such term in section 8259(4) of this title .
+  - **(1)** the term “agency” means 2 2 So in original. The word “means” probably should not appear. has the meaning given such term in section 551(1) of title 5 , except that such term does not include the United States Postal Service;
+  - **(2)** the term “facility energy supervisor” means the employee with responsibility for the daily operations of a Federal facility, including the management, installation, operation, and maintenance of energy systems in Federal facilities which may include more than one building;
+  - **(3)** the term “trained energy manager” means a person who has demonstrated proficiency, or who has completed a course of study in the areas of fundamentals of building energy systems, building energy codes and applicable professional standards, energy accounting and analysis, life-cycle cost methodology, fuel supply and pricing, and instrumentation for energy surveys and audits;
+  - **(4)** the term “Task Force” means the Interagency Energy Management Task Force established under section 8257 of this title ; and
+  - **(5)** the term “energy conservation measures” has the meaning given such term in section 8259(4) of this title .

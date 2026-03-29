@@ -5,19 +5,19 @@ usc_section: "13216"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13216"
-generated_at: "2026-03-29T00:32:54.309Z"
+generated_at: "2026-03-29T02:15:37.246Z"
 ---
 
 # § 13216. Recognition and incentive awards program
 
-(a) The Administrator of General Services shall establish annual awards program to recognize those Federal employees who demonstrate the strongest commitment to the use of alternative fuels and fuel conservation in Federal motor vehicles.
-(b) The Administrator of General Services shall provide annual awards to Federal employees who best demonstrate a commitment—
-  (1) to the success of the Federal alternative fueled vehicle program through—
-    (A) exemplary promotion of alternative fueled vehicle use within Federal agencies;
-    (B) proper alternative fueled vehicle care and maintenance;
-    (C) coordination with Federal, State, and local efforts;
-    (D) innovative alternative fueled vehicle procurement, refueling, and maintenance arrangements with commercial entities;
-    (E) making regular requests for alternative fueled vehicles for agency use; and
-    (F) maintaining a high number of alternative fueled vehicles used relative to comparable conventionally fueled motor vehicles used; and
-  (2) to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance, and other conservation and awareness measures.
-(c) There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+- **(a)** The Administrator of General Services shall establish annual awards program to recognize those Federal employees who demonstrate the strongest commitment to the use of alternative fuels and fuel conservation in Federal motor vehicles.
+- **(b)** The Administrator of General Services shall provide annual awards to Federal employees who best demonstrate a commitment—
+  - **(1)** to the success of the Federal alternative fueled vehicle program through—
+    - **(A)** exemplary promotion of alternative fueled vehicle use within Federal agencies;
+    - **(B)** proper alternative fueled vehicle care and maintenance;
+    - **(C)** coordination with Federal, State, and local efforts;
+    - **(D)** innovative alternative fueled vehicle procurement, refueling, and maintenance arrangements with commercial entities;
+    - **(E)** making regular requests for alternative fueled vehicles for agency use; and
+    - **(F)** maintaining a high number of alternative fueled vehicles used relative to comparable conventionally fueled motor vehicles used; and
+  - **(2)** to fuel efficiency in Federal motor vehicle use through the promotion of such measures as increased use of fuel-efficient vehicles, carpooling, ride-sharing, regular maintenance, and other conservation and awareness measures.
+- **(c)** There are authorized to be appropriated for the purpose of carrying out this section not more than $35,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 and 1996.

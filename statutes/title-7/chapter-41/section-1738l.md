@@ -5,10 +5,10 @@ usc_section: "1738l"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1738l"
-generated_at: "2026-03-29T00:28:58.054Z"
+generated_at: "2026-03-29T02:10:16.859Z"
 ---
 
 # § 1738l. Encouraging multilateral debt donations
 
-(a) The President should actively encourage other official creditors of an eligible country to provide debt reduction to such eligible country.
-(b) The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.
+- **(a)** The President should actively encourage other official creditors of an eligible country to provide debt reduction to such eligible country.
+- **(b)** The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.

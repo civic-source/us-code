@@ -5,19 +5,19 @@ usc_section: "3522"
 chapter: 22
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3522"
-generated_at: "2026-03-29T00:30:20.265Z"
+generated_at: "2026-03-29T02:12:08.732Z"
 ---
 
 # § 3522. Liquidation or reliquidation and refund of duty paid on certain entries
 
-(a) Notwithstanding section 1514 of this title or any other provision of law, and subject to subsection (b), the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) and refund any duty or excess duty that was paid, as provided in subsection (c).
-(b) Liquidation or reliquidation may be made under subsection (a) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
-  (1) to locate the entry; or
-  (2) to reconstruct the entry if it cannot be located.
-(c) The entries referred to in subsection (a) are as follows:
-  (1) Any goods—
-    (A) for which the importer claimed or would have claimed entry under subheading 6810.19.12 of the HTS on or after October 1, 1990 , and before the effective date of a proclamation issued by the President under section 3513(a) of this title with respect to items under such subheading in order to carry out Schedule XX, or
-    (B) entered on or after January 1, 1989 , and before October 1, 1990 , for which entry would have been claimed under subheading 6810.19.12 of the HTS on or after October 1, 1990 ,
-  (2) 
-    (A) Any entry, or withdrawal from warehouse for consumption, of goods described in heading 9902.29.95 of the HTS (relating to clomiphene citrate) which was made after December 31, 1988 , and before January 1, 1993 , and with respect to which there would have been no duty if the reference to subheading “2922.19.15” in such heading were a reference to subheading “2922.19.15 or any subheading of chapter 30” at the time of such entry or withdrawal, shall be liquidated or reliquidated as free of duty.
-    (B) The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).
+- **(a)** Notwithstanding section 1514 of this title or any other provision of law, and subject to subsection (b), the Secretary of the Treasury shall liquidate or reliquidate the entries listed or otherwise described in subsection (c) and refund any duty or excess duty that was paid, as provided in subsection (c).
+- **(b)** Liquidation or reliquidation may be made under subsection (a) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date on which the WTO Agreement enters into force with respect to the United States, that contains sufficient information to enable the Customs Service—
+  - **(1)** to locate the entry; or
+  - **(2)** to reconstruct the entry if it cannot be located.
+- **(c)** The entries referred to in subsection (a) are as follows:
+  - **(1)** Any goods—
+    - **(A)** for which the importer claimed or would have claimed entry under subheading 6810.19.12 of the HTS on or after October 1, 1990 , and before the effective date of a proclamation issued by the President under section 3513(a) of this title with respect to items under such subheading in order to carry out Schedule XX, or
+    - **(B)** entered on or after January 1, 1989 , and before October 1, 1990 , for which entry would have been claimed under subheading 6810.19.12 of the HTS on or after October 1, 1990 ,
+  - **(2)**
+    - **(A)** Any entry, or withdrawal from warehouse for consumption, of goods described in heading 9902.29.95 of the HTS (relating to clomiphene citrate) which was made after December 31, 1988 , and before January 1, 1993 , and with respect to which there would have been no duty if the reference to subheading “2922.19.15” in such heading were a reference to subheading “2922.19.15 or any subheading of chapter 30” at the time of such entry or withdrawal, shall be liquidated or reliquidated as free of duty.
+    - **(B)** The Secretary of the Treasury shall refund any duties paid with respect to entries described in subparagraph (A).

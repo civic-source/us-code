@@ -5,12 +5,12 @@ usc_section: "882"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 882"
-generated_at: "2026-03-29T00:20:52.899Z"
+generated_at: "2026-03-29T02:10:44.923Z"
 ---
 
 # § 882. Art. 82. Soliciting commission of offenses
 
-(a) Any person subject to this chapter who solicits or advises another to commit an offense under this chapter (other than an offense specified in subsection (b)) shall be punished as a court-martial may direct.
-(b) Any person subject to this chapter who solicits or advises another to violate section 885 of this title (article 85), section 894 of this title (article 94), or section 899 of this title (article 99)—
-  (1) if the offense solicited or advised is attempted or is committed, shall be punished with the punishment provided for the commission of the offense; and
-  (2) if the offense solicited or advised is not attempted or committed, shall be punished as a court-martial may direct.
+- **(a)** Any person subject to this chapter who solicits or advises another to commit an offense under this chapter (other than an offense specified in subsection (b)) shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who solicits or advises another to violate section 885 of this title (article 85), section 894 of this title (article 94), or section 899 of this title (article 99)—
+  - **(1)** if the offense solicited or advised is attempted or is committed, shall be punished with the punishment provided for the commission of the offense; and
+  - **(2)** if the offense solicited or advised is not attempted or committed, shall be punished as a court-martial may direct.

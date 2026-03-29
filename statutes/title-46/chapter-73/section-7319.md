@@ -5,7 +5,7 @@ usc_section: "7319"
 chapter: 73
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 7319"
-generated_at: "2026-03-29T00:33:02.868Z"
+generated_at: "2026-03-29T02:15:53.723Z"
 ---
 
 # § 7319. Records of merchant mariners’ documents

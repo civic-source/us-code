@@ -5,12 +5,12 @@ usc_section: "552"
 chapter: 5
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 552"
-generated_at: "2026-03-29T00:32:20.529Z"
+generated_at: "2026-03-29T02:14:58.777Z"
 ---
 
 # § 552. Abandoned or unclaimed property on Government premises
 
-(a) The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.
-(b) If a former owner files a proper claim within three years from the date that title to the property vests in the Government, the former owner shall be paid an amount—
-  (1) equal to the proceeds realized from the disposition of the property less costs incident to care and handling as determined by the Administrator; or
-  (2) if the property has been used or transferred, equal to the fair value of the property as of the time title vested in the Government less costs incident to care and handling as determined by the Administrator.
+- **(a)** The Administrator of General Services may take possession of abandoned or unclaimed property on premises owned or leased by the Federal Government and determine when title to the property vests in the Government. The Administrator may use, transfer, or otherwise dispose of the property.
+- **(b)** If a former owner files a proper claim within three years from the date that title to the property vests in the Government, the former owner shall be paid an amount—
+  - **(1)** equal to the proceeds realized from the disposition of the property less costs incident to care and handling as determined by the Administrator; or
+  - **(2)** if the property has been used or transferred, equal to the fair value of the property as of the time title vested in the Government less costs incident to care and handling as determined by the Administrator.

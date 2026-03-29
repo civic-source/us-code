@@ -5,15 +5,15 @@ usc_section: "1421e"
 chapter: 31
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1421e"
-generated_at: "2026-03-29T00:29:52.715Z"
+generated_at: "2026-03-29T02:11:53.783Z"
 ---
 
 # § 1421e. Liability
 
-(a) A person who is authorized to respond to a stranding or entanglement pursuant to an agreement entered into under section 1382(c) of this title is deemed to be an employee of the Government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
-  (1) in accordance with the agreement; and
-  (2) in the case of an unusual mortality event, in accordance with—
-    (A) the contingency plan issued under section 1421c(b) of this title ;
-    (B) the instructions of an Onsite Coordinator designated under section 1421c(c) of this title ; or
-    (C) the best professional judgment of an Onsite Coordinator, in the case of any matter that is not covered by the contingency plan.
-(b) Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.
+- **(a)** A person who is authorized to respond to a stranding or entanglement pursuant to an agreement entered into under section 1382(c) of this title is deemed to be an employee of the Government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
+  - **(1)** in accordance with the agreement; and
+  - **(2)** in the case of an unusual mortality event, in accordance with—
+    - **(A)** the contingency plan issued under section 1421c(b) of this title ;
+    - **(B)** the instructions of an Onsite Coordinator designated under section 1421c(c) of this title ; or
+    - **(C)** the best professional judgment of an Onsite Coordinator, in the case of any matter that is not covered by the contingency plan.
+- **(b)** Subsection (a) does not apply to actions of a person described in that subsection that are grossly negligent or that constitute willful misconduct.

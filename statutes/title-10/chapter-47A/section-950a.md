@@ -5,10 +5,10 @@ usc_section: "950a"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 950a"
-generated_at: "2026-03-29T00:20:52.915Z"
+generated_at: "2026-03-29T02:10:44.938Z"
 ---
 
 # § 950a. Error of law; lesser included offense
 
-(a) A finding or sentence of a military commission under this chapter may not be held incorrect on the ground of an error of law unless the error materially prejudices the substantial rights of the accused.
-(b) Any reviewing authority with the power to approve or affirm a finding of guilty by a military commission under this chapter may approve or affirm, instead, so much of the finding as includes a lesser included offense.
+- **(a)** A finding or sentence of a military commission under this chapter may not be held incorrect on the ground of an error of law unless the error materially prejudices the substantial rights of the accused.
+- **(b)** Any reviewing authority with the power to approve or affirm a finding of guilty by a military commission under this chapter may approve or affirm, instead, so much of the finding as includes a lesser included offense.

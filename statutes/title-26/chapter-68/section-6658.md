@@ -5,16 +5,16 @@ usc_section: "6658"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6658"
-generated_at: "2026-03-29T00:31:21.071Z"
+generated_at: "2026-03-29T02:14:01.361Z"
 ---
 
 # § 6658. Coordination with title 11
 
-(a) No addition to the tax shall be made under section 6651, 6654, or 6655 for failure to make timely payment of tax with respect to a period during which a case is pending under title 11 of the United States Code—
-  (1) if such tax was incurred by the estate and the failure occurred pursuant to an order of the court finding probable insufficiency of funds of the estate to pay administrative expenses, or
-  (2) if—
-    (A) such tax was incurred by the debtor before the earlier of the order for relief or (in the involuntary case) the appointment of a trustee, and
-    (B) 
-      (i) the petition was filed before the due date prescribed by law (including extensions) for filing a return of such tax, or
-      (ii) the date for making the addition to the tax occurs on or after the day on which the petition was filed.
-(b) Subsection (a) shall not apply to any liability for an addition to the tax which arises from the failure to pay or deposit a tax withheld or collected from others and required to be paid to the United States.
+- **(a)** No addition to the tax shall be made under section 6651, 6654, or 6655 for failure to make timely payment of tax with respect to a period during which a case is pending under title 11 of the United States Code—
+  - **(1)** if such tax was incurred by the estate and the failure occurred pursuant to an order of the court finding probable insufficiency of funds of the estate to pay administrative expenses, or
+  - **(2)** if—
+    - **(A)** such tax was incurred by the debtor before the earlier of the order for relief or (in the involuntary case) the appointment of a trustee, and
+    - **(B)**
+      - **(i)** the petition was filed before the due date prescribed by law (including extensions) for filing a return of such tax, or
+      - **(ii)** the date for making the addition to the tax occurs on or after the day on which the petition was filed.
+- **(b)** Subsection (a) shall not apply to any liability for an addition to the tax which arises from the failure to pay or deposit a tax withheld or collected from others and required to be paid to the United States.

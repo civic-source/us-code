@@ -5,7 +5,7 @@ usc_section: "9454"
 chapter: 953
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9454"
-generated_at: "2026-03-29T00:20:53.262Z"
+generated_at: "2026-03-29T02:10:45.344Z"
 ---
 
 # § 9454. Buildings and grounds: buildings for religious worship

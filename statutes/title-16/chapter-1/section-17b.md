@@ -5,7 +5,7 @@ usc_section: "17b"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 17b"
-generated_at: "2026-03-29T00:29:52.278Z"
+generated_at: "2026-03-29T02:11:53.323Z"
 ---
 
 # § 17b. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

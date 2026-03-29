@@ -5,41 +5,41 @@ usc_section: "1507"
 chapter: 6
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 1507"
-generated_at: "2026-03-29T00:06:17.504Z"
+generated_at: "2026-03-29T02:10:05.097Z"
 ---
 
 # § 1507. Construction and preemption
 
-(a) Nothing in this subchapter shall be construed—
-  (1) to limit or prohibit otherwise lawful disclosures of communications, records, or other information, including reporting of known or suspected criminal activity, by a non-Federal entity to any other non-Federal entity or the Federal Government under this subchapter; or
-  (2) to limit or prohibit otherwise lawful use of such disclosures by any Federal entity, even when such otherwise lawful disclosures duplicate or replicate disclosures made under this subchapter.
-(b) Nothing in this subchapter shall be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5 (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5 (governing disclosures to Congress), section 1034 of title 10 (governing disclosure to Congress by members of the military), section 3234 of title 50 (governing disclosure by employees of elements of the intelligence community), or any similar provision of Federal or State law.
-(c) Nothing in this subchapter shall be construed—
-  (1) as creating any immunity against, or otherwise affecting, any action brought by the Federal Government, or any agency or department thereof, to enforce any law, executive order, or procedure governing the appropriate handling, disclosure, or use of classified information;
-  (2) to affect the conduct of authorized law enforcement or intelligence activities; or
-  (3) to modify the authority of a department or agency of the Federal Government to protect classified information and sources and methods and the national security of the United States.
-(d) Nothing in this subchapter shall be construed to affect any requirement under any other provision of law for a non-Federal entity to provide information to the Federal Government.
-(e) Nothing in this subchapter shall be construed to permit price-fixing, allocating a market between competitors, monopolizing or attempting to monopolize a market, boycotting, or exchanges of price or cost information, customer lists, or information regarding future competitive planning.
-(f) Nothing in this subchapter shall be construed—
-  (1) to limit or modify an existing information sharing relationship;
-  (2) to prohibit a new information sharing relationship;
-  (3) to require a new information sharing relationship between any non-Federal entity and a Federal entity or another non-Federal entity; or
-  (4) to require the use of the capability and process within the Department of Homeland Security developed under section 1504(c) of this title .
-(g) Nothing in this subchapter shall be construed—
-  (1) to amend, repeal, or supersede any current or future contractual agreement, terms of service agreement, or other contractual relationship between any non-Federal entities, or between any non-Federal entity and a Federal entity; or
-  (2) to abrogate trade secret or intellectual property rights of any non-Federal entity or Federal entity.
-(h) Nothing in this subchapter shall be construed to permit a Federal entity—
-  (1) to require a non-Federal entity to provide information to a Federal entity or another non-Federal entity;
-  (2) to condition the sharing of cyber threat indicators with a non-Federal entity on such entity’s provision of cyber threat indicators to a Federal entity or another non-Federal entity; or
-  (3) to condition the award of any Federal grant, contract, or purchase on the provision of a cyber threat indicator to a Federal entity or another non-Federal entity.
-(i) Nothing in this subchapter shall be construed to subject any entity to liability for choosing not to engage in the voluntary activities authorized in this subchapter.
-(j) Nothing in this subchapter shall be construed to authorize, or to modify any existing authority of, a department or agency of the Federal Government to retain or use any information shared under this subchapter for any use other than permitted in this subchapter.
-(k) 
-  (1) This subchapter supersedes any statute or other provision of law of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under this subchapter.
-  (2) Nothing in this subchapter shall be construed to supersede any statute or other provision of law of a State or political subdivision of a State concerning the use of authorized law enforcement practices and procedures.
-(l) Nothing in this subchapter shall be construed—
-  (1) to authorize the promulgation of any regulations not specifically authorized to be issued under this subchapter;
-  (2) to establish or limit any regulatory authority not specifically established or limited under this subchapter; or
-  (3) to authorize regulatory actions that would duplicate or conflict with regulatory requirements, mandatory standards, or related processes under another provision of Federal law.
-(m) Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under section 394 of title 10 .
-(n) Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.
+- **(a)** Nothing in this subchapter shall be construed—
+  - **(1)** to limit or prohibit otherwise lawful disclosures of communications, records, or other information, including reporting of known or suspected criminal activity, by a non-Federal entity to any other non-Federal entity or the Federal Government under this subchapter; or
+  - **(2)** to limit or prohibit otherwise lawful use of such disclosures by any Federal entity, even when such otherwise lawful disclosures duplicate or replicate disclosures made under this subchapter.
+- **(b)** Nothing in this subchapter shall be construed to prohibit or limit the disclosure of information protected under section 2302(b)(8) of title 5 (governing disclosures of illegality, waste, fraud, abuse, or public health or safety threats), section 7211 of title 5 (governing disclosures to Congress), section 1034 of title 10 (governing disclosure to Congress by members of the military), section 3234 of title 50 (governing disclosure by employees of elements of the intelligence community), or any similar provision of Federal or State law.
+- **(c)** Nothing in this subchapter shall be construed—
+  - **(1)** as creating any immunity against, or otherwise affecting, any action brought by the Federal Government, or any agency or department thereof, to enforce any law, executive order, or procedure governing the appropriate handling, disclosure, or use of classified information;
+  - **(2)** to affect the conduct of authorized law enforcement or intelligence activities; or
+  - **(3)** to modify the authority of a department or agency of the Federal Government to protect classified information and sources and methods and the national security of the United States.
+- **(d)** Nothing in this subchapter shall be construed to affect any requirement under any other provision of law for a non-Federal entity to provide information to the Federal Government.
+- **(e)** Nothing in this subchapter shall be construed to permit price-fixing, allocating a market between competitors, monopolizing or attempting to monopolize a market, boycotting, or exchanges of price or cost information, customer lists, or information regarding future competitive planning.
+- **(f)** Nothing in this subchapter shall be construed—
+  - **(1)** to limit or modify an existing information sharing relationship;
+  - **(2)** to prohibit a new information sharing relationship;
+  - **(3)** to require a new information sharing relationship between any non-Federal entity and a Federal entity or another non-Federal entity; or
+  - **(4)** to require the use of the capability and process within the Department of Homeland Security developed under section 1504(c) of this title .
+- **(g)** Nothing in this subchapter shall be construed—
+  - **(1)** to amend, repeal, or supersede any current or future contractual agreement, terms of service agreement, or other contractual relationship between any non-Federal entities, or between any non-Federal entity and a Federal entity; or
+  - **(2)** to abrogate trade secret or intellectual property rights of any non-Federal entity or Federal entity.
+- **(h)** Nothing in this subchapter shall be construed to permit a Federal entity—
+  - **(1)** to require a non-Federal entity to provide information to a Federal entity or another non-Federal entity;
+  - **(2)** to condition the sharing of cyber threat indicators with a non-Federal entity on such entity’s provision of cyber threat indicators to a Federal entity or another non-Federal entity; or
+  - **(3)** to condition the award of any Federal grant, contract, or purchase on the provision of a cyber threat indicator to a Federal entity or another non-Federal entity.
+- **(i)** Nothing in this subchapter shall be construed to subject any entity to liability for choosing not to engage in the voluntary activities authorized in this subchapter.
+- **(j)** Nothing in this subchapter shall be construed to authorize, or to modify any existing authority of, a department or agency of the Federal Government to retain or use any information shared under this subchapter for any use other than permitted in this subchapter.
+- **(k)**
+  - **(1)** This subchapter supersedes any statute or other provision of law of a State or political subdivision of a State that restricts or otherwise expressly regulates an activity authorized under this subchapter.
+  - **(2)** Nothing in this subchapter shall be construed to supersede any statute or other provision of law of a State or political subdivision of a State concerning the use of authorized law enforcement practices and procedures.
+- **(l)** Nothing in this subchapter shall be construed—
+  - **(1)** to authorize the promulgation of any regulations not specifically authorized to be issued under this subchapter;
+  - **(2)** to establish or limit any regulatory authority not specifically established or limited under this subchapter; or
+  - **(3)** to authorize regulatory actions that would duplicate or conflict with regulatory requirements, mandatory standards, or related processes under another provision of Federal law.
+- **(m)** Nothing in this subchapter shall be construed to limit the authority of the Secretary of Defense under section 394 of title 10 .
+- **(n)** Nothing in this subchapter shall be construed to prevent the disclosure of a cyber threat indicator or defensive measure shared under this subchapter in a case of criminal prosecution, when an applicable provision of Federal, State, tribal, or local law requires disclosure in such case.

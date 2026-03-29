@@ -5,10 +5,10 @@ usc_section: "3058dd"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3058dd"
-generated_at: "2026-03-29T00:32:53.824Z"
+generated_at: "2026-03-29T02:15:36.653Z"
 ---
 
 # § 3058dd. Technical assistance
 
-(a) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of such Federal entities as may be appropriate.
-(b) The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to persons and entities that administer programs established under this subchapter.
+- **(a)** In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of such Federal entities as may be appropriate.
+- **(b)** The Assistant Secretary shall provide technical assistance and training (by contract, grant, or otherwise) to persons and entities that administer programs established under this subchapter.

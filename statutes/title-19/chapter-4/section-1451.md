@@ -5,7 +5,7 @@ usc_section: "1451"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1451"
-generated_at: "2026-03-29T00:30:20.136Z"
+generated_at: "2026-03-29T02:12:08.608Z"
 ---
 
 # § 1451. Extra compensation 1 1 See Codification note below.

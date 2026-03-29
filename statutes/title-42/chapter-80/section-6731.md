@@ -5,7 +5,7 @@ usc_section: "6731"
 chapter: 80
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6731"
-generated_at: "2026-03-29T00:32:53.984Z"
+generated_at: "2026-03-29T02:15:36.841Z"
 ---
 
 # § 6731. Economization by State and local governments; statement of assurances, etc., required

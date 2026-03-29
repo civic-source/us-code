@@ -5,7 +5,7 @@ usc_section: "2713"
 chapter: 121
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2713"
-generated_at: "2026-03-29T00:30:15.718Z"
+generated_at: "2026-03-29T02:12:02.467Z"
 ---
 
 # § 2713. Required preservation and disclosure of communications and records

@@ -5,7 +5,7 @@ usc_section: "3402"
 chapter: 47
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3402"
-generated_at: "2026-03-29T00:31:57.462Z"
+generated_at: "2026-03-29T02:14:18.659Z"
 ---
 
 # § 3402. Program established

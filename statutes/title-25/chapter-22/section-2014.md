@@ -5,7 +5,7 @@ usc_section: "2014"
 chapter: 22
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2014"
-generated_at: "2026-03-29T00:30:38.727Z"
+generated_at: "2026-03-29T02:13:20.930Z"
 ---
 
 # § 2014. Recruitment of Indian educators

@@ -5,7 +5,7 @@ usc_section: "81c"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 81c"
-generated_at: "2026-03-29T00:06:10.872Z"
+generated_at: "2026-03-29T02:09:53.639Z"
 ---
 
 # §§ 81a to 81c. Repealed. Pub. L. 104–186, title II, § 204(27) –(29), Aug. 20, 1996 , 110 Stat. 1734

@@ -5,7 +5,7 @@ usc_section: "1527"
 chapter: 32
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1527"
-generated_at: "2026-03-29T00:32:57.416Z"
+generated_at: "2026-03-29T02:15:47.603Z"
 ---
 
 # § 1527. Fish and wildlife conservation and development

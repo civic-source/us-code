@@ -5,13 +5,13 @@ usc_section: "2519"
 chapter: 12
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 2519"
-generated_at: "2026-03-29T00:31:20.914Z"
+generated_at: "2026-03-29T02:14:01.171Z"
 ---
 
 # § 2519. Dispositions of certain life estates
 
-(a) For purposes of this chapter and chapter 11, any disposition of all or part of a qualifying income interest for life in any property to which this section applies shall be treated as a transfer of all interests in such property other than the qualifying income interest.
-(b) This section applies to any property if a deduction was allowed with respect to the transfer of such property to the donor—
-  (1) under section 2056 by reason of subsection (b)(7) thereof, or
-  (2) under section 2523 by reason of subsection (f) thereof.
-(c) For right of recovery for gift tax in the case of property treated as transferred under this section, see section 2207A(b).
+- **(a)** For purposes of this chapter and chapter 11, any disposition of all or part of a qualifying income interest for life in any property to which this section applies shall be treated as a transfer of all interests in such property other than the qualifying income interest.
+- **(b)** This section applies to any property if a deduction was allowed with respect to the transfer of such property to the donor—
+  - **(1)** under section 2056 by reason of subsection (b)(7) thereof, or
+  - **(2)** under section 2523 by reason of subsection (f) thereof.
+- **(c)** For right of recovery for gift tax in the case of property treated as transferred under this section, see section 2207A(b).

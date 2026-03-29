@@ -5,7 +5,7 @@ usc_section: "8461"
 chapter: 92
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8461"
-generated_at: "2026-03-29T00:32:54.126Z"
+generated_at: "2026-03-29T02:15:37.025Z"
 ---
 
 # § 8461. Authorization of appropriations

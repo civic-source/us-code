@@ -5,13 +5,13 @@ usc_section: "7101"
 chapter: 71
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 7101"
-generated_at: "2026-03-29T00:31:52.660Z"
+generated_at: "2026-03-29T02:14:14.118Z"
 ---
 
 # § 7101. Purposes
 
 The purposes of this chapter are to—
 
-  (1) enable States, local governments, and private nonprofit organizations to use assistance of the United States Government more effectively and efficiently;
-  (2) adapt the assistance more readily to particular needs through wider use of projects that are supported by more than one executive agency, assistance program, or appropriation of the United States Government; and
-  (3) encourage Federal-State arrangements under which local governments and private nonprofit organizations may more effectively and efficiently combine Federal and State resources to support projects of common interest to those local governments and those organizations.
+  - **(1)** enable States, local governments, and private nonprofit organizations to use assistance of the United States Government more effectively and efficiently;
+  - **(2)** adapt the assistance more readily to particular needs through wider use of projects that are supported by more than one executive agency, assistance program, or appropriation of the United States Government; and
+  - **(3)** encourage Federal-State arrangements under which local governments and private nonprofit organizations may more effectively and efficiently combine Federal and State resources to support projects of common interest to those local governments and those organizations.

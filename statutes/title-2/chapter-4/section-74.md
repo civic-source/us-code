@@ -5,7 +5,7 @@ usc_section: "74"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 74"
-generated_at: "2026-03-29T00:06:10.869Z"
+generated_at: "2026-03-29T02:09:53.637Z"
 ---
 
 # §§ 73, 74. Omitted

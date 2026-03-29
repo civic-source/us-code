@@ -5,12 +5,12 @@ usc_section: "1508"
 chapter: 73
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1508"
-generated_at: "2026-03-29T00:30:15.671Z"
+generated_at: "2026-03-29T02:12:02.415Z"
 ---
 
 # § 1508. Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting
 
 Whoever knowingly and willfully, by any means or device whatsoever—
 
-(a) records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
-(b) listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—
+- **(a)** records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
+- **(b)** listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—

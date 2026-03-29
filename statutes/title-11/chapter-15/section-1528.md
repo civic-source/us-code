@@ -5,7 +5,7 @@ usc_section: "1528"
 chapter: 15
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1528"
-generated_at: "2026-03-29T00:28:59.981Z"
+generated_at: "2026-03-29T02:10:54.358Z"
 ---
 
 # § 1528. Commencement of a case under this title after recognition of a foreign main proceeding

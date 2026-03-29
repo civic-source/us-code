@@ -5,7 +5,7 @@ usc_section: "1393"
 chapter: 7
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1393"
-generated_at: "2026-03-29T00:33:06.605Z"
+generated_at: "2026-03-29T02:16:00.801Z"
 ---
 
 # § 1393. Repealed. Pub. L. 97–357, title III, § 308(a) , Oct. 19, 1982 , 96 Stat. 1710

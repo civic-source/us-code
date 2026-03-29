@@ -5,11 +5,11 @@ usc_section: "9433"
 chapter: 953
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9433"
-generated_at: "2026-03-29T00:20:53.260Z"
+generated_at: "2026-03-29T02:10:45.343Z"
 ---
 
 # § 9433. Superintendent; faculty: appointment and detail
 
-(a) The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from the officers of the Air Force or the Space Force.
-(b) The permanent professors of the Academy shall be appointed by the President, by and with the advice and consent of the Senate.
-(c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
+- **(a)** The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from the officers of the Air Force or the Space Force.
+- **(b)** The permanent professors of the Academy shall be appointed by the President, by and with the advice and consent of the Senate.
+- **(c)** The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.

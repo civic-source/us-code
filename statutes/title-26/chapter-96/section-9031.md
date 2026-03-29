@@ -5,7 +5,7 @@ usc_section: "9031"
 chapter: 96
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 9031"
-generated_at: "2026-03-29T00:31:21.124Z"
+generated_at: "2026-03-29T02:14:01.423Z"
 ---
 
 # § 9031. Short title

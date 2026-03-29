@@ -5,14 +5,14 @@ usc_section: "2315"
 chapter: 28
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 2315"
-generated_at: "2026-03-29T00:30:24.373Z"
+generated_at: "2026-03-29T02:12:28.199Z"
 ---
 
 # § 2315. Procedures for judicial review of classified information
 
-(a) If a finding under this subchapter, or a prohibition, condition, or penalty imposed as a result of any such finding, is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)) and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the President may submit such information to the court ex parte and in camera.
-(b) Nothing in this section shall be construed—
-  (1) to confer or imply any right to judicial review of any finding under this subchapter, or any prohibition, condition, or penalty imposed as a result of any such finding; or
-  (2) to limit or restrict any other practice, procedure, right, remedy, or safeguard that—
-    (A) relates to the protection of classified information; and
-    (B) is available to the United States in connection with any type of administrative hearing, litigation, or other proceeding.
+- **(a)** If a finding under this subchapter, or a prohibition, condition, or penalty imposed as a result of any such finding, is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)) and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the President may submit such information to the court ex parte and in camera.
+- **(b)** Nothing in this section shall be construed—
+  - **(1)** to confer or imply any right to judicial review of any finding under this subchapter, or any prohibition, condition, or penalty imposed as a result of any such finding; or
+  - **(2)** to limit or restrict any other practice, procedure, right, remedy, or safeguard that—
+    - **(A)** relates to the protection of classified information; and
+    - **(B)** is available to the United States in connection with any type of administrative hearing, litigation, or other proceeding.

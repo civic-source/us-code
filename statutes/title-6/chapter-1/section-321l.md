@@ -5,22 +5,22 @@ usc_section: "321l"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 321l"
-generated_at: "2026-03-29T00:06:17.478Z"
+generated_at: "2026-03-29T02:10:04.989Z"
 ---
 
 # § 321l. Guidance and recommendations
 
-(a) Consistent with their responsibilities and authorities under law, as of the day before August 3, 2007 , the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the private sector, may develop guidance or recommendations and identify best practices to assist or foster action by the private sector in—
-  (1) identifying potential hazards and assessing risks and impacts;
-  (2) mitigating the impact of a wide variety of hazards, including weapons of mass destruction;
-  (3) managing necessary emergency preparedness and response resources;
-  (4) developing mutual aid agreements;
-  (5) developing and maintaining emergency preparedness and response plans, and associated operational procedures;
-  (6) developing and conducting training and exercises to support and evaluate emergency preparedness and response plans and operational procedures;
-  (7) developing and conducting training programs for security guards to implement emergency preparedness and response plans and operations procedures; and
-  (8) developing procedures to respond to requests for information from the media or the public.
-(b) Any guidance or recommendations developed or best practices identified under subsection (a) shall be—
-  (1) issued through the Administrator; and
-  (2) promoted by the Secretary to the private sector.
-(c) In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15 ), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
-(d) Nothing in this section may be construed to supersede any requirement established under any other provision of law.
+- **(a)** Consistent with their responsibilities and authorities under law, as of the day before August 3, 2007 , the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency, in consultation with the private sector, may develop guidance or recommendations and identify best practices to assist or foster action by the private sector in—
+  - **(1)** identifying potential hazards and assessing risks and impacts;
+  - **(2)** mitigating the impact of a wide variety of hazards, including weapons of mass destruction;
+  - **(3)** managing necessary emergency preparedness and response resources;
+  - **(4)** developing mutual aid agreements;
+  - **(5)** developing and maintaining emergency preparedness and response plans, and associated operational procedures;
+  - **(6)** developing and conducting training and exercises to support and evaluate emergency preparedness and response plans and operational procedures;
+  - **(7)** developing and conducting training programs for security guards to implement emergency preparedness and response plans and operations procedures; and
+  - **(8)** developing procedures to respond to requests for information from the media or the public.
+- **(b)** Any guidance or recommendations developed or best practices identified under subsection (a) shall be—
+  - **(1)** issued through the Administrator; and
+  - **(2)** promoted by the Secretary to the private sector.
+- **(c)** In developing guidance or recommendations or identifying best practices under subsection (a), the Administrator and the Director of the Cybersecurity and Infrastructure Security Agency shall take into consideration small business concerns (under the meaning given that term in section 632 of title 15 ), including any need for separate guidance or recommendations or best practices, as necessary and appropriate.
+- **(d)** Nothing in this section may be construed to supersede any requirement established under any other provision of law.

@@ -5,28 +5,28 @@ usc_section: "47146"
 chapter: 471
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 47146"
-generated_at: "2026-03-29T00:33:13.931Z"
+generated_at: "2026-03-29T02:16:09.072Z"
 ---
 
 # § 47146. General aviation program runway extension pilot program
 
-(a) The Secretary of Transportation shall establish and carry out a pilot program to provide grants to general aviation airports to increase the usable runway length capability at such airports in order to—
-  (1) expand access to such airports for larger aircraft; and
-  (2) support the development and economic viability of such airports.
-(b) 
-  (1) For the purpose of carrying out the pilot program established in subsection (a), the Secretary shall make grants to not more than 2 sponsors of general aviation airports per fiscal year.
-  (2) A sponsor of a general aviation airport shall use a grant awarded under this section to plan, design, or construct a project to extend an existing primary runway by not greater than 1,000 feet in order to accommodate large turboprop or turbojet aircraft that cannot be accommodated with the existing runway length.
-  (3) To be eligible to receive a grant under this section, a sponsor of a general aviation airport shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require.
-  (4) In selecting an applicant for a grant under this section, the Secretary shall prioritize projects that demonstrate that the existing runway length at the airport is—
-    (A) inadequate to support the near-term operations of 1 or more business entities operating at the airport as of the date of submission of such application;
-    (B) a direct aircraft operational impediment to airport economic viability, job creation or retention, or local economic development; and
-    (C) not located within 20 miles of another National Plan of Integrated Airport Systems airport with comparable runway length.
-(c) A project that demonstrates the criteria described in subsection (b) shall be considered a justified cost with respect to the pilot program, notwithstanding—
-  (1) any benefit-cost analysis required under section 47115(d); or
-  (2) a project justification determination described in section 3 of chapter 3 of FAA Order 5100.38D, Airport Improvement Program Handbook (dated September 30, 2014 ) (or any successor document).
-(d) The Government’s share of allowable project costs for a project carried out with a grant under this section shall be the Government’s share of allowable project costs specified under section 47109.
-(e) Not later than 5 years after the establishment of the pilot program under subsection (a), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that evaluates the pilot program, including—
-  (1) information regarding the level of applicant interest in grants for increasing runway length;
-  (2) the number of large aircraft that accessed each general aviation airport that received a grant under the pilot program in comparison to the number of such aircraft that accessed the airport prior to the date of enactment of the FAA Reauthorization Act of 2024, based on data provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection; and
-  (3) a description, provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection, of the economic development opportunities supported by increasing the runway length at general aviation airports.
-(f) For each of fiscal years 2025 through 2028, the Secretary may use funds under section 47116(b)(2) to carry out this section.
+- **(a)** The Secretary of Transportation shall establish and carry out a pilot program to provide grants to general aviation airports to increase the usable runway length capability at such airports in order to—
+  - **(1)** expand access to such airports for larger aircraft; and
+  - **(2)** support the development and economic viability of such airports.
+- **(b)**
+  - **(1)** For the purpose of carrying out the pilot program established in subsection (a), the Secretary shall make grants to not more than 2 sponsors of general aviation airports per fiscal year.
+  - **(2)** A sponsor of a general aviation airport shall use a grant awarded under this section to plan, design, or construct a project to extend an existing primary runway by not greater than 1,000 feet in order to accommodate large turboprop or turbojet aircraft that cannot be accommodated with the existing runway length.
+  - **(3)** To be eligible to receive a grant under this section, a sponsor of a general aviation airport shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require.
+  - **(4)** In selecting an applicant for a grant under this section, the Secretary shall prioritize projects that demonstrate that the existing runway length at the airport is—
+    - **(A)** inadequate to support the near-term operations of 1 or more business entities operating at the airport as of the date of submission of such application;
+    - **(B)** a direct aircraft operational impediment to airport economic viability, job creation or retention, or local economic development; and
+    - **(C)** not located within 20 miles of another National Plan of Integrated Airport Systems airport with comparable runway length.
+- **(c)** A project that demonstrates the criteria described in subsection (b) shall be considered a justified cost with respect to the pilot program, notwithstanding—
+  - **(1)** any benefit-cost analysis required under section 47115(d); or
+  - **(2)** a project justification determination described in section 3 of chapter 3 of FAA Order 5100.38D, Airport Improvement Program Handbook (dated September 30, 2014 ) (or any successor document).
+- **(d)** The Government’s share of allowable project costs for a project carried out with a grant under this section shall be the Government’s share of allowable project costs specified under section 47109.
+- **(e)** Not later than 5 years after the establishment of the pilot program under subsection (a), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that evaluates the pilot program, including—
+  - **(1)** information regarding the level of applicant interest in grants for increasing runway length;
+  - **(2)** the number of large aircraft that accessed each general aviation airport that received a grant under the pilot program in comparison to the number of such aircraft that accessed the airport prior to the date of enactment of the FAA Reauthorization Act of 2024, based on data provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection; and
+  - **(3)** a description, provided to the Secretary by the airport sponsor not later than 6 months before the submission date described in this subsection, of the economic development opportunities supported by increasing the runway length at general aviation airports.
+- **(f)** For each of fiscal years 2025 through 2028, the Secretary may use funds under section 47116(b)(2) to carry out this section.

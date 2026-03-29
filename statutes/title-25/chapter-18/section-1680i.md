@@ -5,10 +5,10 @@ usc_section: "1680i"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680i"
-generated_at: "2026-03-29T00:30:38.707Z"
+generated_at: "2026-03-29T02:13:20.910Z"
 ---
 
 # § 1680i. Child sexual abuse treatment programs
 
-(a) The Secretary and the Secretary of the Interior shall, for each fiscal year through fiscal year 1995, continue the demonstration programs involving treatment for child sexual abuse provided through the Hopi Tribe and the Assiniboine and Sioux Tribes of the Fort Peck Reservation.
-(b) Beginning October 1, 1995 , the Secretary and the Secretary of the Interior may establish, in any service area, demonstration programs involving treatment for child sexual abuse, except that the Secretaries may not establish a greater number of such programs in one service area than in any other service area until there is an equal number of such programs established with respect to all service areas from which the Secretary receives qualified applications during the application period (as determined by the Secretary).
+- **(a)** The Secretary and the Secretary of the Interior shall, for each fiscal year through fiscal year 1995, continue the demonstration programs involving treatment for child sexual abuse provided through the Hopi Tribe and the Assiniboine and Sioux Tribes of the Fort Peck Reservation.
+- **(b)** Beginning October 1, 1995 , the Secretary and the Secretary of the Interior may establish, in any service area, demonstration programs involving treatment for child sexual abuse, except that the Secretaries may not establish a greater number of such programs in one service area than in any other service area until there is an equal number of such programs established with respect to all service areas from which the Secretary receives qualified applications during the application period (as determined by the Secretary).

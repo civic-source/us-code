@@ -5,7 +5,7 @@ usc_section: "766"
 chapter: 16
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 766"
-generated_at: "2026-03-29T00:31:27.598Z"
+generated_at: "2026-03-29T02:14:09.393Z"
 ---
 
 # § 766. Definition of covered school

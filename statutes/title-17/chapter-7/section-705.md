@@ -5,11 +5,11 @@ usc_section: "705"
 chapter: 7
 current_through: "PL 119-73"
 classification: "17 U.S.C. § 705"
-generated_at: "2026-03-29T00:06:55.752Z"
+generated_at: "2026-03-29T02:11:57.626Z"
 ---
 
 # § 705. Copyright Office records: Preparation, maintenance, public inspection, and searching
 
-(a) The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared.
-(b) Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under the control of the Copyright Office, shall be open to public inspection.
-(c) Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents.
+- **(a)** The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared.
+- **(b)** Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under the control of the Copyright Office, shall be open to public inspection.
+- **(c)** Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents.

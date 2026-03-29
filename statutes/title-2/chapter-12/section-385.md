@@ -5,7 +5,7 @@ usc_section: "385"
 chapter: 12
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 385"
-generated_at: "2026-03-29T00:06:10.908Z"
+generated_at: "2026-03-29T02:09:53.672Z"
 ---
 
 # § 385. Default of contestee

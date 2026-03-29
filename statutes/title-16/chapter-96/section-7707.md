@@ -5,14 +5,14 @@ usc_section: "7707"
 chapter: 96
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 7707"
-generated_at: "2026-03-29T00:29:52.886Z"
+generated_at: "2026-03-29T02:11:54.002Z"
 ---
 
 # § 7707. Cooperation in carrying out Convention
 
-(a) The Secretary may cooperate with any Federal agency, any public or private institution or organization within the United States or abroad, and, through the Secretary of State, a duly authorized official of the government of any party to the North Pacific Fisheries Convention, in carrying out responsibilities under this chapter.
-(b) Each Federal agency may, upon the request of the Secretary, cooperate in the conduct of scientific and other programs and furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the North Pacific Fisheries Convention.
-(c) Nothing in this chapter, or in the laws of any State, prevents the Secretary or the Commission from—
-  (1) conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
-  (2) discharging any other duties prescribed by the North Pacific Fisheries Convention.
-(d) Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
+- **(a)** The Secretary may cooperate with any Federal agency, any public or private institution or organization within the United States or abroad, and, through the Secretary of State, a duly authorized official of the government of any party to the North Pacific Fisheries Convention, in carrying out responsibilities under this chapter.
+- **(b)** Each Federal agency may, upon the request of the Secretary, cooperate in the conduct of scientific and other programs and furnish facilities and personnel for the purpose of assisting the Commission in carrying out its duties under the North Pacific Fisheries Convention.
+- **(c)** Nothing in this chapter, or in the laws of any State, prevents the Secretary or the Commission from—
+  - **(1)** conducting or authorizing the conduct of fishing operations and biological experiments at any time for purposes of scientific investigation; or
+  - **(2)** discharging any other duties prescribed by the North Pacific Fisheries Convention.
+- **(d)** Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.

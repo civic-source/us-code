@@ -5,14 +5,14 @@ usc_section: "16524"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16524"
-generated_at: "2026-03-29T00:32:54.413Z"
+generated_at: "2026-03-29T02:15:37.370Z"
 ---
 
 # § 16524. Study on the benefits of economic dispatch
 
-(a) The Secretary, in coordination and consultation with the States, shall conduct a study on—
-  (1) the procedures currently used by electric utilities to perform economic dispatch;
-  (2) identifying possible revisions to those procedures to improve the ability of nonutility generation resources to offer their output for sale for the purpose of inclusion in economic dispatch; and
-  (3) the potential benefits to residential, commercial, and industrial electricity consumers nationally and in each state 1 1 So in original. Probably should be capitalized. if economic dispatch procedures were revised to improve the ability of nonutility generation resources to offer their output for inclusion in economic dispatch.
-(b) The term “economic dispatch” when used in this section means the operation of generation facilities to produce energy at the lowest cost to reliably serve consumers, recognizing any operational limits of generation and transmission facilities.
-(c) Not later than 90 days after August 8, 2005 , and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
+- **(a)** The Secretary, in coordination and consultation with the States, shall conduct a study on—
+  - **(1)** the procedures currently used by electric utilities to perform economic dispatch;
+  - **(2)** identifying possible revisions to those procedures to improve the ability of nonutility generation resources to offer their output for sale for the purpose of inclusion in economic dispatch; and
+  - **(3)** the potential benefits to residential, commercial, and industrial electricity consumers nationally and in each state 1 1 So in original. Probably should be capitalized. if economic dispatch procedures were revised to improve the ability of nonutility generation resources to offer their output for inclusion in economic dispatch.
+- **(b)** The term “economic dispatch” when used in this section means the operation of generation facilities to produce energy at the lowest cost to reliably serve consumers, recognizing any operational limits of generation and transmission facilities.
+- **(c)** Not later than 90 days after August 8, 2005 , and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.

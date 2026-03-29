@@ -5,10 +5,10 @@ usc_section: "7005"
 chapter: 96
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 7005"
-generated_at: "2026-03-29T00:29:41.910Z"
+generated_at: "2026-03-29T02:11:34.413Z"
 ---
 
 # § 7005. Studies
 
-(a) Within 12 months after June 30, 2000 , the Secretary of Commerce shall conduct an inquiry regarding the effectiveness of the delivery of electronic records to consumers using electronic mail as compared with delivery of written records via the United States Postal Service and private express mail services. The Secretary shall submit a report to the Congress regarding the results of such inquiry by the conclusion of such 12-month period.
-(b) Within 12 months after June 30, 2000 , the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by section 7001(c)(1)(C)(ii) of this title ; any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by section 7001(c)(1)(C)(ii) of this title would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.
+- **(a)** Within 12 months after June 30, 2000 , the Secretary of Commerce shall conduct an inquiry regarding the effectiveness of the delivery of electronic records to consumers using electronic mail as compared with delivery of written records via the United States Postal Service and private express mail services. The Secretary shall submit a report to the Congress regarding the results of such inquiry by the conclusion of such 12-month period.
+- **(b)** Within 12 months after June 30, 2000 , the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by section 7001(c)(1)(C)(ii) of this title ; any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by section 7001(c)(1)(C)(ii) of this title would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.

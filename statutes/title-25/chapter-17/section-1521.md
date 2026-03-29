@@ -5,7 +5,7 @@ usc_section: "1521"
 chapter: 17
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1521"
-generated_at: "2026-03-29T00:30:38.677Z"
+generated_at: "2026-03-29T02:13:20.880Z"
 ---
 
 # § 1521. Indian Business Development Program; establishment; statement of purpose

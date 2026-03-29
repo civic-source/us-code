@@ -5,7 +5,7 @@ usc_section: "13001b"
 chapter: 132
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13001b"
-generated_at: "2026-03-29T00:32:54.305Z"
+generated_at: "2026-03-29T02:15:37.244Z"
 ---
 
 # § 13001b. Transferred

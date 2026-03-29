@@ -5,7 +5,7 @@ usc_section: "1337"
 chapter: 30
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1337"
-generated_at: "2026-03-29T00:29:52.702Z"
+generated_at: "2026-03-29T02:11:53.765Z"
 ---
 
 # § 1337. Joint advisory board; appointment; membership; functions; qualifications; reimbursement limitation

@@ -5,7 +5,7 @@ usc_section: "660"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 660"
-generated_at: "2026-03-29T00:30:38.656Z"
+generated_at: "2026-03-29T02:13:20.866Z"
 ---
 
 # § 660. Omitted

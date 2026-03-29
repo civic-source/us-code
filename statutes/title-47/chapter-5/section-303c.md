@@ -5,19 +5,19 @@ usc_section: "303c"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 303c"
-generated_at: "2026-03-29T00:33:04.883Z"
+generated_at: "2026-03-29T02:15:59.200Z"
 ---
 
 # § 303c. Television program improvement
 
-(a) This section may be cited as the “Television Program Improvement Act of 1990”.
-(b) For purposes of this section—
-  (1) the term “antitrust laws” has the meaning given it in subsection (a) of section 12 of title 15 , except that such term includes section 45 of title 15 to the extent that section 45 of title 15 applies to unfair methods of competition;
-  (2) the term “person in the television industry” means a television network, any entity which produces programming (including theatrical motion pictures) for telecasting or telecasts programming, the National Cable Television Association, the Association of Independent Television Stations, Incorporated, the National Association of Broadcasters, the Motion Picture Association of America, the Community Antenna Television Association, and each of the networks’ affiliate organizations, and shall include any individual acting on behalf of such person; and
-  (3) the term “telecast” means—
-    (A) to broadcast by a television broadcast station; or
-    (B) to transmit by a cable television system or a satellite television distribution service.
-(c) The antitrust laws shall not apply to any joint discussion, consideration, review, action, or agreement by or among persons in the television industry for the purpose of, and limited to, developing and disseminating voluntary guidelines designed to alleviate the negative impact of violence in telecast material.
-(d) 
-  (1) The exemption provided in subsection (c) shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
-  (2) The exemption provided in subsection (c) shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990 .
+- **(a)** This section may be cited as the “Television Program Improvement Act of 1990”.
+- **(b)** For purposes of this section—
+  - **(1)** the term “antitrust laws” has the meaning given it in subsection (a) of section 12 of title 15 , except that such term includes section 45 of title 15 to the extent that section 45 of title 15 applies to unfair methods of competition;
+  - **(2)** the term “person in the television industry” means a television network, any entity which produces programming (including theatrical motion pictures) for telecasting or telecasts programming, the National Cable Television Association, the Association of Independent Television Stations, Incorporated, the National Association of Broadcasters, the Motion Picture Association of America, the Community Antenna Television Association, and each of the networks’ affiliate organizations, and shall include any individual acting on behalf of such person; and
+  - **(3)** the term “telecast” means—
+    - **(A)** to broadcast by a television broadcast station; or
+    - **(B)** to transmit by a cable television system or a satellite television distribution service.
+- **(c)** The antitrust laws shall not apply to any joint discussion, consideration, review, action, or agreement by or among persons in the television industry for the purpose of, and limited to, developing and disseminating voluntary guidelines designed to alleviate the negative impact of violence in telecast material.
+- **(d)**
+  - **(1)** The exemption provided in subsection (c) shall not apply to any joint discussion, consideration, review, action, or agreement which results in a boycott of any person.
+  - **(2)** The exemption provided in subsection (c) shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990 .

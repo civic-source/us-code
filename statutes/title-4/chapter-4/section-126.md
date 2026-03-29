@@ -5,10 +5,10 @@ usc_section: "126"
 chapter: 4
 current_through: "PL 119-73"
 classification: "4 U.S.C. § 126"
-generated_at: "2026-03-28T23:53:20.154Z"
+generated_at: "2026-03-29T02:09:55.012Z"
 ---
 
 # § 126. No inference
 
-(a) Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
-(b) Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.
+- **(a)** Nothing in sections 116 through this section of this title shall be construed as bearing on Congressional intent in enacting the Internet Tax Freedom Act or to modify or supersede the operation of such Act.
+- **(b)** Nothing in sections 116 through this section of this title shall limit or otherwise affect the implementation of the Telecommunications Act of 1996 or the amendments made by such Act.

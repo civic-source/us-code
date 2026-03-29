@@ -5,24 +5,24 @@ usc_section: "553"
 chapter: 27
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 553"
-generated_at: "2026-03-29T00:30:15.619Z"
+generated_at: "2026-03-29T02:12:02.371Z"
 ---
 
 # § 553. Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft
 
-(a) Whoever knowingly imports, exports, or attempts to import or export—
-  (1) any motor vehicle, off-highway mobile equipment, vessel, aircraft, or part of any motor vehicle, off-highway mobile equipment, vessel, or aircraft, knowing the same to have been stolen; or
-  (2) any motor vehicle or off-highway mobile equipment or part of any motor vehicle or off-highway mobile equipment, knowing that the identification number of such motor vehicle, equipment, or part has been removed, obliterated, tampered with, or altered;
-(b) Subsection (a)(2) shall not apply if the removal, obliteration, tampering, or alteration—
-  (1) is caused by collision or fire; or
-  (2) 
-    (A) in the case of a motor vehicle, is not a violation of section 511 of this title (relating to altering or removing motor vehicle identification numbers); or
-    (B) in the case of off-highway mobile equipment, would not be a violation of section 511 of this title if such equipment were a motor vehicle.
-(c) As used in this section, the term—
-  (1) “motor vehicle” has the meaning given that term in section 32101 of title 49 ;
-  (2) “off-highway mobile equipment” means any self-propelled agricultural equipment, self-propelled construction equipment, and self-propelled special use equipment, used or designed for running on land but not on rail or highway;
-  (3) “vessel” has the meaning given that term in section 401 of the Tariff Act of 1930 ( 19 U.S.C. 1401 );
-  (4) “aircraft” has the meaning given that term in section 40102(a) of title 49 ; and
-  (5) “identification number”—
-    (A) in the case of a motor vehicle, has the meaning given that term in section 511 of this title ; and
-    (B) in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.
+- **(a)** Whoever knowingly imports, exports, or attempts to import or export—
+  - **(1)** any motor vehicle, off-highway mobile equipment, vessel, aircraft, or part of any motor vehicle, off-highway mobile equipment, vessel, or aircraft, knowing the same to have been stolen; or
+  - **(2)** any motor vehicle or off-highway mobile equipment or part of any motor vehicle or off-highway mobile equipment, knowing that the identification number of such motor vehicle, equipment, or part has been removed, obliterated, tampered with, or altered;
+- **(b)** Subsection (a)(2) shall not apply if the removal, obliteration, tampering, or alteration—
+  - **(1)** is caused by collision or fire; or
+  - **(2)**
+    - **(A)** in the case of a motor vehicle, is not a violation of section 511 of this title (relating to altering or removing motor vehicle identification numbers); or
+    - **(B)** in the case of off-highway mobile equipment, would not be a violation of section 511 of this title if such equipment were a motor vehicle.
+- **(c)** As used in this section, the term—
+  - **(1)** “motor vehicle” has the meaning given that term in section 32101 of title 49 ;
+  - **(2)** “off-highway mobile equipment” means any self-propelled agricultural equipment, self-propelled construction equipment, and self-propelled special use equipment, used or designed for running on land but not on rail or highway;
+  - **(3)** “vessel” has the meaning given that term in section 401 of the Tariff Act of 1930 ( 19 U.S.C. 1401 );
+  - **(4)** “aircraft” has the meaning given that term in section 40102(a) of title 49 ; and
+  - **(5)** “identification number”—
+    - **(A)** in the case of a motor vehicle, has the meaning given that term in section 511 of this title ; and
+    - **(B)** in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.

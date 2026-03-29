@@ -5,7 +5,7 @@ usc_section: "1202"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1202"
-generated_at: "2026-03-29T00:30:20.108Z"
+generated_at: "2026-03-29T02:12:08.589Z"
 ---
 
 # § 1202. Harmonized Tariff Schedule

@@ -5,15 +5,15 @@ usc_section: "7551"
 chapter: 764
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7551"
-generated_at: "2026-03-29T00:20:53.201Z"
+generated_at: "2026-03-29T02:10:45.284Z"
 ---
 
 # § 7551. Definitions
 
 In this chapter:
 
-  (1) The term “ARMS Initiative” means the Armament Retooling and Manufacturing Support Initiative authorized by this chapter.
-  (2) The term “eligible facility” means a Government-owned, contractor-operated ammunition manufacturing facility, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition, of the Department of the Army that is in an active, inactive, layaway, or caretaker status.
-  (3) The term “property manager” includes any person or entity managing an eligible facility made available under the ARMS Initiative through a property management contract.
-  (4) The term “property management contract” includes facility use contracts, site management contracts, leases, and other agreements entered into under the authority of this chapter.
-  (5) The term “Secretary” means the Secretary of the Army.
+  - **(1)** The term “ARMS Initiative” means the Armament Retooling and Manufacturing Support Initiative authorized by this chapter.
+  - **(2)** The term “eligible facility” means a Government-owned, contractor-operated ammunition manufacturing facility, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition, of the Department of the Army that is in an active, inactive, layaway, or caretaker status.
+  - **(3)** The term “property manager” includes any person or entity managing an eligible facility made available under the ARMS Initiative through a property management contract.
+  - **(4)** The term “property management contract” includes facility use contracts, site management contracts, leases, and other agreements entered into under the authority of this chapter.
+  - **(5)** The term “Secretary” means the Secretary of the Army.

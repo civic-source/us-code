@@ -5,7 +5,7 @@ usc_section: "4591"
 chapter: 60
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4591"
-generated_at: "2026-03-29T00:32:53.876Z"
+generated_at: "2026-03-29T02:15:36.711Z"
 ---
 
 # § 4591. Separability

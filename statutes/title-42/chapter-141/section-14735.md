@@ -5,7 +5,7 @@ usc_section: "14735"
 chapter: 141
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14735"
-generated_at: "2026-03-29T00:32:54.339Z"
+generated_at: "2026-03-29T02:15:37.282Z"
 ---
 
 # §§ 14731 to 14735. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

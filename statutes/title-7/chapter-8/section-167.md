@@ -5,7 +5,7 @@ usc_section: "167"
 chapter: 8
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 167"
-generated_at: "2026-03-29T00:28:57.911Z"
+generated_at: "2026-03-29T02:10:16.704Z"
 ---
 
 # § 167. Repealed. Pub. L. 106–224, title IV, § 438(a)(1) , June 20, 2000 , 114 Stat. 454

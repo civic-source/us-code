@@ -5,7 +5,7 @@ usc_section: "8804"
 chapter: 96
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8804"
-generated_at: "2026-03-29T00:32:54.130Z"
+generated_at: "2026-03-29T02:15:37.033Z"
 ---
 
 # § 8804. Coordination with other authorities and programs

@@ -5,20 +5,20 @@ usc_section: "308b"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 308b"
-generated_at: "2026-03-29T00:32:04.404Z"
+generated_at: "2026-03-29T02:14:43.124Z"
 ---
 
 # § 308b. Special pay: reenlistment bonus for members of the Selected Reserve
 
-(a) The Secretary concerned may pay a bonus under subsection (b) to an enlisted member of a reserve component who—
-  (1) has completed not more than 20 years of total military service; and
-  (2) reenlists or voluntarily extends an enlistment for a period of at least three years in a designated military skill, or in a designated unit, as determined by the Secretary concerned, in the Selected Reserve of the Ready Reserve of an armed force.
-(b) 
-  (1) The amount of a bonus under this section may not exceed $15,000.
-  (2) Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount. The Secretary concerned shall prescribe the amount of each subsequent installment payment and the schedule for making the installment payments.
-  (3) Any portion of a term of reenlistment or extension of enlistment of a member that, when added to the total years of service of the member at the time of discharge or release, exceeds 24 years may not be used in computing the total bonus amount under paragraph (1).
-(c) In the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in subsection (a) while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom, the Secretary concerned may waive so much of subsection (a)(2) as requires that the skill or unit in which the member reenlists or extends an enlistment be a designated skill or designated unit determined by the Secretary concerned.
-(d) A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
-(e) A member who does not complete the term of enlistment in the element of the Selected Reserve for which the bonus was paid to the member under this section shall be subject to the repayment provisions of section 303a(e) of this title .
-(f) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
-(g) No bonus may be paid under this section to any enlisted member who, after December 31, 2018 , reenlists or voluntarily extends his enlistment in a reserve component.
+- **(a)** The Secretary concerned may pay a bonus under subsection (b) to an enlisted member of a reserve component who—
+  - **(1)** has completed not more than 20 years of total military service; and
+  - **(2)** reenlists or voluntarily extends an enlistment for a period of at least three years in a designated military skill, or in a designated unit, as determined by the Secretary concerned, in the Selected Reserve of the Ready Reserve of an armed force.
+- **(b)**
+  - **(1)** The amount of a bonus under this section may not exceed $15,000.
+  - **(2)** Bonus payments authorized under this section may be paid in either a lump sum or in installments. If the bonus is paid in installments, the initial payment shall be not less than 50 percent of the total bonus amount. The Secretary concerned shall prescribe the amount of each subsequent installment payment and the schedule for making the installment payments.
+  - **(3)** Any portion of a term of reenlistment or extension of enlistment of a member that, when added to the total years of service of the member at the time of discharge or release, exceeds 24 years may not be used in computing the total bonus amount under paragraph (1).
+- **(c)** In the case of a reenlistment or voluntary extension of enlistment by a member of the armed forces that is entered into as described in subsection (a) while the member is serving on active duty in Afghanistan, Iraq, or Kuwait in support of Operation Enduring Freedom or Operation Iraqi Freedom, the Secretary concerned may waive so much of subsection (a)(2) as requires that the skill or unit in which the member reenlists or extends an enlistment be a designated skill or designated unit determined by the Secretary concerned.
+- **(d)** A member entitled to a bonus under this section who is called or ordered to active duty shall be paid, during that period of active duty, any amount of the bonus that becomes payable to the member during that period of active duty.
+- **(e)** A member who does not complete the term of enlistment in the element of the Selected Reserve for which the bonus was paid to the member under this section shall be subject to the repayment provisions of section 303a(e) of this title .
+- **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
+- **(g)** No bonus may be paid under this section to any enlisted member who, after December 31, 2018 , reenlists or voluntarily extends his enlistment in a reserve component.

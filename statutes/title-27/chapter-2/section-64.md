@@ -5,7 +5,7 @@ usc_section: "64"
 chapter: 2
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 64"
-generated_at: "2026-03-29T00:31:21.681Z"
+generated_at: "2026-03-29T02:14:02.221Z"
 ---
 
 # § 64. Repealed. Aug. 27, 1935, ch. 740 , title I, § 1, 49 Stat. 872

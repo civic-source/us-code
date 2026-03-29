@@ -5,38 +5,38 @@ usc_section: "8563"
 chapter: 92
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 8563"
-generated_at: "2026-03-29T00:30:34.022Z"
+generated_at: "2026-03-29T02:12:40.460Z"
 ---
 
 # § 8563. Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran
 
-(a) 
-  (1) Not later than 180 days after December 29, 2022 , the Secretary of State, in consultation with the Secretary of the Treasury, the Director of National Intelligence, and the Attorney General, shall submit to the appropriate congressional committees a report that—
-    (A) includes a detailed description and assessment of—
-      (i) the state of human rights and the rule of law inside Iran, including the treatment of marginalized individuals and communities in Iran;
-      (ii) actions taken by the Government of Iran during the year preceding submission of the report to target and silence dissidents both inside and outside of Iran who advocate for human rights inside Iran;
-      (iii) the methods used by the Government of Iran to target and silence dissidents both inside and outside of Iran; and
-      (iv) the means through which the Government of Iran finances efforts to target and silence dissidents both inside and outside of Iran and the amount of that financing;
-    (B) identifies foreign persons working as part of the Government of Iran or acting on behalf of that Government or its proxies that are involved in harassment and surveillance and that the Secretary of State may also, as appropriate, determine, in consultation with the Secretary of the Treasury, are knowingly responsible for, complicit in, or involved in ordering, conspiring, planning, or implementing the surveillance, harassment, kidnapping, illegal extradition, imprisonment, torture, killing, or assassination, on or after December 29, 2022 , of citizens of Iran (including citizens of Iran of dual nationality) or citizens of the United States, inside or outside Iran, who seek—
-      (i) to expose illegal or corrupt activity carried out by officials of the Government of Iran; or
-      (ii) to obtain, exercise, defend, or promote the human rights of individuals, including members of marginalized communities, in Iran; and
-    (C) includes, for each foreign person identified under subparagraph (B), a clear explanation for why the foreign person was so identified.
-  (2) The report required by paragraph (1) shall be updated, and the updated version submitted to the appropriate congressional committees, during the 10-year period following December 29, 2022 —
-    (A) not less frequently than annually; and
-    (B) with respect to matters relating to the identification of foreign persons under paragraph (1)(B), on an ongoing basis as appropriate.
-  (3) 
-    (A) Each report required by paragraph (1) and each update required by paragraph (2) shall be submitted in unclassified form but may include a classified annex.
-    (B) The Secretary of State shall post the unclassified portion of each report required by paragraph (1) and each update required by paragraph (2) on a publicly available internet website of the Department of State.
-(b) In the case of a foreign person identified under paragraph (1)(B) of subsection (a) in the most recent report or update submitted under that subsection, the President shall impose the sanctions described in subsection (c), pursuant to this section or an appropriate Executive authority.
-(c) The sanctions described in this subsection are the following:
-  (1) The President shall exercise all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a foreign person described in subsection (a)(1)(B) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-  (2) 
-    (A) In the case of a foreign person described in subsection (a)(1)(B) who is an individual, the individual is—
-      (i) inadmissible to the United States;
-      (ii) ineligible to receive a visa or other documentation to enter the United States; and
-      (iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
-    (B) 
-      (i) The visa or other entry documentation of an individual described in subparagraph (A) shall be revoked, regardless of when such visa or other entry documentation is or was issued.
-      (ii) A revocation under clause (i) shall—
-        (I) take effect immediately; and
-        (II) automatically cancel any other valid visa or entry documentation that is in the individual’s possession.
+- **(a)**
+  - **(1)** Not later than 180 days after December 29, 2022 , the Secretary of State, in consultation with the Secretary of the Treasury, the Director of National Intelligence, and the Attorney General, shall submit to the appropriate congressional committees a report that—
+    - **(A)** includes a detailed description and assessment of—
+      - **(i)** the state of human rights and the rule of law inside Iran, including the treatment of marginalized individuals and communities in Iran;
+      - **(ii)** actions taken by the Government of Iran during the year preceding submission of the report to target and silence dissidents both inside and outside of Iran who advocate for human rights inside Iran;
+      - **(iii)** the methods used by the Government of Iran to target and silence dissidents both inside and outside of Iran; and
+      - **(iv)** the means through which the Government of Iran finances efforts to target and silence dissidents both inside and outside of Iran and the amount of that financing;
+    - **(B)** identifies foreign persons working as part of the Government of Iran or acting on behalf of that Government or its proxies that are involved in harassment and surveillance and that the Secretary of State may also, as appropriate, determine, in consultation with the Secretary of the Treasury, are knowingly responsible for, complicit in, or involved in ordering, conspiring, planning, or implementing the surveillance, harassment, kidnapping, illegal extradition, imprisonment, torture, killing, or assassination, on or after December 29, 2022 , of citizens of Iran (including citizens of Iran of dual nationality) or citizens of the United States, inside or outside Iran, who seek—
+      - **(i)** to expose illegal or corrupt activity carried out by officials of the Government of Iran; or
+      - **(ii)** to obtain, exercise, defend, or promote the human rights of individuals, including members of marginalized communities, in Iran; and
+    - **(C)** includes, for each foreign person identified under subparagraph (B), a clear explanation for why the foreign person was so identified.
+  - **(2)** The report required by paragraph (1) shall be updated, and the updated version submitted to the appropriate congressional committees, during the 10-year period following December 29, 2022 —
+    - **(A)** not less frequently than annually; and
+    - **(B)** with respect to matters relating to the identification of foreign persons under paragraph (1)(B), on an ongoing basis as appropriate.
+  - **(3)**
+    - **(A)** Each report required by paragraph (1) and each update required by paragraph (2) shall be submitted in unclassified form but may include a classified annex.
+    - **(B)** The Secretary of State shall post the unclassified portion of each report required by paragraph (1) and each update required by paragraph (2) on a publicly available internet website of the Department of State.
+- **(b)** In the case of a foreign person identified under paragraph (1)(B) of subsection (a) in the most recent report or update submitted under that subsection, the President shall impose the sanctions described in subsection (c), pursuant to this section or an appropriate Executive authority.
+- **(c)** The sanctions described in this subsection are the following:
+  - **(1)** The President shall exercise all powers granted to the President by the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a foreign person described in subsection (a)(1)(B) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+  - **(2)**
+    - **(A)** In the case of a foreign person described in subsection (a)(1)(B) who is an individual, the individual is—
+      - **(i)** inadmissible to the United States;
+      - **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
+      - **(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act ( 8 U.S.C. 1101 et seq.).
+    - **(B)**
+      - **(i)** The visa or other entry documentation of an individual described in subparagraph (A) shall be revoked, regardless of when such visa or other entry documentation is or was issued.
+      - **(ii)** A revocation under clause (i) shall—
+        - **(I)** take effect immediately; and
+        - **(II)** automatically cancel any other valid visa or entry documentation that is in the individual’s possession.

@@ -5,21 +5,21 @@ usc_section: "1628"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1628"
-generated_at: "2026-03-29T00:30:20.167Z"
+generated_at: "2026-03-29T02:12:08.634Z"
 ---
 
 # § 1628. Exchange of information
 
-(a) The Secretary may by regulation authorize customs officers to exchange information or documents with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
-  (1) insure compliance with any law or regulation enforced or administered by the Customs Service;
-  (2) administer or enforce multilateral or bilateral agreements to which the United States is a party;
-  (3) assist in investigative, judicial and quasi-judicial proceedings in the United States; and
-  (4) an action comparable to any of those described in paragraphs (1) through (4) 1 1 So in original. Probably should be “(3)”. undertaken by a foreign customs or law enforcement agency, or in relation to a proceeding in a foreign country.
-(b) 
-  (1) Information may be provided to foreign customs and law enforcement agencies under subsection (a) only if the Secretary obtains assurances from such agencies that such information will be held in confidence and used only for the law enforcement purposes for which such information is provided to such agencies by the Secretary.
-  (2) No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
-(c) 
-  (1) The Secretary may authorize U.S. Customs and Border Protection to exchange information with any government agency of a USMCA country, if the Secretary—
-    (A) reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
-    (B) obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
-  (2) In this subsection, the terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .
+- **(a)** The Secretary may by regulation authorize customs officers to exchange information or documents with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
+  - **(1)** insure compliance with any law or regulation enforced or administered by the Customs Service;
+  - **(2)** administer or enforce multilateral or bilateral agreements to which the United States is a party;
+  - **(3)** assist in investigative, judicial and quasi-judicial proceedings in the United States; and
+  - **(4)** an action comparable to any of those described in paragraphs (1) through (4) 1 1 So in original. Probably should be “(3)”. undertaken by a foreign customs or law enforcement agency, or in relation to a proceeding in a foreign country.
+- **(b)**
+  - **(1)** Information may be provided to foreign customs and law enforcement agencies under subsection (a) only if the Secretary obtains assurances from such agencies that such information will be held in confidence and used only for the law enforcement purposes for which such information is provided to such agencies by the Secretary.
+  - **(2)** No information may be provided under subsection (a) to any foreign customs or law enforcement agency that has violated any assurances described in paragraph (1).
+- **(c)**
+  - **(1)** The Secretary may authorize U.S. Customs and Border Protection to exchange information with any government agency of a USMCA country, if the Secretary—
+    - **(A)** reasonably believes the exchange of information is necessary to implement chapter 2, 4, 5, 6, or 7 of the USMCA; and
+    - **(B)** obtains assurances from such agency that the information will be held in confidence and used only for governmental purposes.
+  - **(2)** In this subsection, the terms “USMCA” and “USMCA country” have the meanings given those terms in section 4502 of this title .

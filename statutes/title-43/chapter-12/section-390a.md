@@ -5,7 +5,7 @@ usc_section: "390a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 390a"
-generated_at: "2026-03-29T00:32:57.322Z"
+generated_at: "2026-03-29T02:15:47.524Z"
 ---
 
 # § 390a. Repealed. Pub. L. 105–362, title IX, § 901(e)(2) , Nov. 10, 1998 , 112 Stat. 3289

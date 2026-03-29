@@ -5,12 +5,12 @@ usc_section: "5504"
 chapter: 55
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5504"
-generated_at: "2026-03-29T00:33:13.751Z"
+generated_at: "2026-03-29T02:16:08.892Z"
 ---
 
 # § 5504. Model intermodal transportation plans
 
-(a) The Secretary of Transportation shall make grants to States to develop model State intermodal transportation plans that are consistent with the policy set forth in section 302(e) of this title . The model plans shall include systems for collecting data related to intermodal transportation.
-(b) The Secretary shall award grants to States under this section that represent a variety of geographic regions and transportation needs, patterns, and modes.
-(c) As a condition to a State receiving a grant under this section, the Secretary shall require that the State provide assurances that the State will submit to the Secretary a State intermodal transportation plan not later than 18 months after the date of receipt of the grant.
-(d) The Secretary shall reserve, from amounts deducted under section 104(a) of title 23 , $3,000,000 to make grants under this section. The total amount that a State may receive in grants under this section may not be more than $500,000.
+- **(a)** The Secretary of Transportation shall make grants to States to develop model State intermodal transportation plans that are consistent with the policy set forth in section 302(e) of this title . The model plans shall include systems for collecting data related to intermodal transportation.
+- **(b)** The Secretary shall award grants to States under this section that represent a variety of geographic regions and transportation needs, patterns, and modes.
+- **(c)** As a condition to a State receiving a grant under this section, the Secretary shall require that the State provide assurances that the State will submit to the Secretary a State intermodal transportation plan not later than 18 months after the date of receipt of the grant.
+- **(d)** The Secretary shall reserve, from amounts deducted under section 104(a) of title 23 , $3,000,000 to make grants under this section. The total amount that a State may receive in grants under this section may not be more than $500,000.

@@ -5,11 +5,11 @@ usc_section: "658"
 chapter: 15
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 658"
-generated_at: "2026-03-29T00:31:27.575Z"
+generated_at: "2026-03-29T02:14:09.378Z"
 ---
 
 # § 658. Citations
 
-(a) If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title , of any standard, rule or order promulgated pursuant to section 655 of this title , or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
-(b) Each citation issued under this section, or a copy or copies thereof, shall be prominently posted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
-(c) No citation may be issued under this section after the expiration of six months following the occurrence of any violation.
+- **(a)** If, upon inspection or investigation, the Secretary or his authorized representative believes that an employer has violated a requirement of section 654 of this title , of any standard, rule or order promulgated pursuant to section 655 of this title , or of any regulations prescribed pursuant to this chapter, he shall with reasonable promptness issue a citation to the employer. Each citation shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of the chapter, standard, rule, regulation, or order alleged to have been violated. In addition, the citation shall fix a reasonable time for the abatement of the violation. The Secretary may prescribe procedures for the issuance of a notice in lieu of a citation with respect to de minimis violations which have no direct or immediate relationship to safety or health.
+- **(b)** Each citation issued under this section, or a copy or copies thereof, shall be prominently posted, as prescribed in regulations issued by the Secretary, at or near each place a violation referred to in the citation occurred.
+- **(c)** No citation may be issued under this section after the expiration of six months following the occurrence of any violation.

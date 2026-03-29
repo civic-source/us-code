@@ -5,10 +5,10 @@ usc_section: "12334"
 chapter: 127
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12334"
-generated_at: "2026-03-29T00:32:54.254Z"
+generated_at: "2026-03-29T02:15:37.189Z"
 ---
 
 # § 12334. Administration
 
-(a) The Commissioner shall administer programs under this part through the Administration on Children, Youth, and Families.
-(b) In carrying out this part, the Commissioner may request the technical assistance and cooperation of the Secretary of Education, the Secretary of Labor, the Attorney General, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Director of the Office of Community Services, and such other agencies and departments of the Federal Government as may be appropriate.
+- **(a)** The Commissioner shall administer programs under this part through the Administration on Children, Youth, and Families.
+- **(b)** In carrying out this part, the Commissioner may request the technical assistance and cooperation of the Secretary of Education, the Secretary of Labor, the Attorney General, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Director of the Office of Community Services, and such other agencies and departments of the Federal Government as may be appropriate.

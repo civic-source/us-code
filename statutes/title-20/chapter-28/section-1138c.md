@@ -1,0 +1,27 @@
+---
+title: "Section 1138c - Special projects"
+usc_title: 20
+usc_section: "1138c"
+chapter: 28
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1138c"
+generated_at: "2026-03-29T02:12:17.312Z"
+---
+
+# § 1138c. Special projects
+
+- **(a)** The Secretary is authorized to make grants to institutions of higher education, or consortia thereof, and such other public agencies and nonprofit organizations as the Secretary deems necessary for innovative projects concerning one or more areas of particular national need identified by the Secretary.
+- **(b)** No grant shall be made under this part unless an application is made at such time, in such manner, and contains or is accompanied by such information as the Secretary may require.
+- **(c)** Areas of national need shall include, at a minimum, the following:
+  - **(1)** Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost reduction.
+  - **(2)** Improvements in academic instruction and student learning, including efforts designed to assess the learning gains made by postsecondary students.
+  - **(3)** Articulation between two- and four-year institutions of higher education, including developing innovative methods for ensuring the successful transfer of students from two- to four-year institutions of higher education.
+  - **(4)** Development, evaluation, and dissemination of model courses, including model courses that—
+    - **(A)** provide students with a broad and integrated knowledge base;
+    - **(B)** include, at a minimum, broad survey courses in English literature, American and world history, American political institutions, economics, philosophy, college-level mathematics, and the natural sciences; and
+    - **(C)** include study of a foreign language that leads to reading and writing competency in the foreign language.
+  - **(5)** International cooperation and student exchanges among postsecondary educational institutions.
+  - **(6)** Support of centers to incorporate education in quality and safety into the preparation of medical and nursing students, through grants to medical schools, nursing schools, and osteopathic schools. Such grants shall be used to assist in providing courses of instruction that specifically equip students to—
+    - **(A)** understand the causes of, and remedies for, medical error, medically induced patient injuries and complications, and other defects in medical care;
+    - **(B)** engage effectively in personal and systemic efforts to continually reduce medical harm; and
+    - **(C)** improve patient care and outcomes, as recommended by the Institute of Medicine of the National Academies.

@@ -5,17 +5,17 @@ usc_section: "276o"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 276o"
-generated_at: "2026-03-29T00:30:33.658Z"
+generated_at: "2026-03-29T02:12:39.940Z"
 ---
 
 # § 276o. United States Senate-Russia Interparliamentary Group
 
-(a) Not to exceed 12 Senators shall be appointed to meet annually with representatives of the Federation Council of Russia for discussion of common problems in the interest of relations between the United States and Russia. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-Russia Interparliamentary Group.
-(b) The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senate shall designate 1 Senator as the Chair of the United States group.
-(c) There is authorized to be appropriated $100,000 for each fiscal year to assist in meeting the expenses of the United States group for each fiscal year for which an appropriation is made. Appropriations shall be disbursed on vouchers to be approved by the Chair of the United States group.
-(d) The certificate of the Chair of the United States group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group.
-(e) There is authorized within the contingent fund of the Senate under the appropriation account “ miscellaneous items ” $75,000 for fiscal year 2004 to assist in meeting the official expenses of the United States Senate-Russia Interparliamentary Group including conference room expenses, hospitality expenses, and food and food-related expenses. Expenses shall be paid on vouchers to be approved by the Chair of the United States group. The Secretary of the Senate is authorized to advance such sums as necessary to carry out this subsection.
-(f) There are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2004 , $100,000 for the United States Senate-Russia Interparliamentary Group.
-(g) 
-  (1) Subsections (a) though (d) shall apply to fiscal year 2004, and each fiscal year thereafter.
-  (2) Subsections (e) and (f) shall apply to fiscal year 2004.
+- **(a)** Not to exceed 12 Senators shall be appointed to meet annually with representatives of the Federation Council of Russia for discussion of common problems in the interest of relations between the United States and Russia. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-Russia Interparliamentary Group.
+- **(b)** The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senate shall designate 1 Senator as the Chair of the United States group.
+- **(c)** There is authorized to be appropriated $100,000 for each fiscal year to assist in meeting the expenses of the United States group for each fiscal year for which an appropriation is made. Appropriations shall be disbursed on vouchers to be approved by the Chair of the United States group.
+- **(d)** The certificate of the Chair of the United States group shall be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group.
+- **(e)** There is authorized within the contingent fund of the Senate under the appropriation account “ miscellaneous items ” $75,000 for fiscal year 2004 to assist in meeting the official expenses of the United States Senate-Russia Interparliamentary Group including conference room expenses, hospitality expenses, and food and food-related expenses. Expenses shall be paid on vouchers to be approved by the Chair of the United States group. The Secretary of the Senate is authorized to advance such sums as necessary to carry out this subsection.
+- **(f)** There are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2004 , $100,000 for the United States Senate-Russia Interparliamentary Group.
+- **(g)**
+  - **(1)** Subsections (a) though (d) shall apply to fiscal year 2004, and each fiscal year thereafter.
+  - **(2)** Subsections (e) and (f) shall apply to fiscal year 2004.

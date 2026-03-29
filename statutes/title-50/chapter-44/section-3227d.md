@@ -5,16 +5,16 @@ usc_section: "3227d"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3227d"
-generated_at: "2026-03-29T00:33:18.186Z"
+generated_at: "2026-03-29T02:16:14.780Z"
 ---
 
 # § 3227d. National Intelligence University acceptance of grants
 
-(a) The Director of National Intelligence may authorize the President of the National Intelligence University to accept qualifying research grants.
-(b) A qualifying research grant under this section is a grant that is awarded on a competitive basis by an entity referred to in subsection (c) for a research project with a scientific, literary, or educational purpose.
-(c) A qualifying research grant may be accepted under this section only from a Federal agency or from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
-(d) 
-  (1) The Director shall establish an account for administering funds received as qualifying research grants under this section.
-  (2) The President of the University shall use the funds in the account established pursuant to paragraph (1) in accordance with applicable provisions of the regulations and the terms and conditions of the grants received.
-(e) Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Intelligence University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
-(f) The Director of National Intelligence shall prescribe regulations for the administration of this section.
+- **(a)** The Director of National Intelligence may authorize the President of the National Intelligence University to accept qualifying research grants.
+- **(b)** A qualifying research grant under this section is a grant that is awarded on a competitive basis by an entity referred to in subsection (c) for a research project with a scientific, literary, or educational purpose.
+- **(c)** A qualifying research grant may be accepted under this section only from a Federal agency or from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
+- **(d)**
+  - **(1)** The Director shall establish an account for administering funds received as qualifying research grants under this section.
+  - **(2)** The President of the University shall use the funds in the account established pursuant to paragraph (1) in accordance with applicable provisions of the regulations and the terms and conditions of the grants received.
+- **(e)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the National Intelligence University may be used to pay expenses incurred by the University in applying for, and otherwise pursuing, the award of qualifying research grants.
+- **(f)** The Director of National Intelligence shall prescribe regulations for the administration of this section.

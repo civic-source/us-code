@@ -5,12 +5,12 @@ usc_section: "1305"
 chapter: 25
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1305"
-generated_at: "2026-03-29T00:31:30.826Z"
+generated_at: "2026-03-29T02:14:11.261Z"
 ---
 
 # § 1305. Federal lessee protection
 
 In those instances where the coal proposed to be mined by surface coal mining operations is owned by the Federal Government and the surface is subject to a lease or a permit issued by the Federal Government, the application for a permit shall include either:
 
-  (1) the written consent of the permittee or lessee of the surface lands involved to enter and commence surface coal mining operations on such land, or in lieu thereof;
-  (2) evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an action brought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.
+  - **(1)** the written consent of the permittee or lessee of the surface lands involved to enter and commence surface coal mining operations on such land, or in lieu thereof;
+  - **(2)** evidence of the execution of a bond or undertaking to the United States or the State, whichever is applicable, for the use and benefit of the permittee or lessee of the surface lands involved to secure payment of any damages to the surface estate which the operations will cause to the crops, or to the tangible improvements of the permittee or lessee of the surface lands as may be determined by the parties involved, or as determined and fixed in an action brought against the operator or upon the bond in a court of competent jurisdiction. This bond is in addition to the performance bond required for reclamation under this chapter.

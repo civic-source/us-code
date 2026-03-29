@@ -5,10 +5,10 @@ usc_section: "1812"
 chapter: 36
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1812"
-generated_at: "2026-03-29T00:33:18.118Z"
+generated_at: "2026-03-29T02:16:14.715Z"
 ---
 
 # § 1812. Statement of exclusive means by which electronic surveillance and interception of certain communications may be conducted
 
-(a) Except as provided in subsection (b), the procedures of chapters 119, 121, and 206 of title 18 and this chapter shall be the exclusive means by which electronic surveillance and the interception of domestic wire, oral, or electronic communications may be conducted.
-(b) Only an express statutory authorization for electronic surveillance or the interception of domestic wire, oral, or electronic communications, other than as an amendment to this chapter or chapters 119, 121, or 206 of title 18 shall constitute an additional exclusive means for the purpose of subsection (a).
+- **(a)** Except as provided in subsection (b), the procedures of chapters 119, 121, and 206 of title 18 and this chapter shall be the exclusive means by which electronic surveillance and the interception of domestic wire, oral, or electronic communications may be conducted.
+- **(b)** Only an express statutory authorization for electronic surveillance or the interception of domestic wire, oral, or electronic communications, other than as an amendment to this chapter or chapters 119, 121, or 206 of title 18 shall constitute an additional exclusive means for the purpose of subsection (a).

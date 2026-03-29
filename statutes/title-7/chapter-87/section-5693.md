@@ -5,14 +5,14 @@ usc_section: "5693"
 chapter: 87
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5693"
-generated_at: "2026-03-29T00:28:58.210Z"
+generated_at: "2026-03-29T02:10:17.047Z"
 ---
 
 # § 5693. Duties of Foreign Agricultural Service
 
 The Service shall assist the Secretary in carrying out the agricultural trade policy and international cooperation policy of the United States by—
 
-  (1) acquiring information pertaining to agricultural trade;
-  (2) carrying out market promotion and development activities;
-  (3) providing agricultural technical assistance and training; and
-  (4) carrying out the programs authorized under this chapter, the Food for Peace Act ( 7 U.S.C. 1691 et seq.), and other Acts.
+  - **(1)** acquiring information pertaining to agricultural trade;
+  - **(2)** carrying out market promotion and development activities;
+  - **(3)** providing agricultural technical assistance and training; and
+  - **(4)** carrying out the programs authorized under this chapter, the Food for Peace Act ( 7 U.S.C. 1691 et seq.), and other Acts.

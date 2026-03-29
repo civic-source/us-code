@@ -5,7 +5,7 @@ usc_section: "2071"
 chapter: 34
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2071"
-generated_at: "2026-03-29T00:31:57.394Z"
+generated_at: "2026-03-29T02:14:18.598Z"
 ---
 
 # § 2071. Inland navigation rules

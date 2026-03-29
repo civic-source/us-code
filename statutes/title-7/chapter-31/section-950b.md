@@ -5,7 +5,7 @@ usc_section: "950b"
 chapter: 31
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 950b"
-generated_at: "2026-03-29T00:28:57.965Z"
+generated_at: "2026-03-29T02:10:16.754Z"
 ---
 
 # §§ 941 to 950b. Repealed. Pub. L. 115–334, title VI, § 6602(a) , (b)(15), Dec. 20, 2018 , 132 Stat. 4776 , 4777

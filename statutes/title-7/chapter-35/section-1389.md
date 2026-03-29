@@ -5,7 +5,7 @@ usc_section: "1389"
 chapter: 35
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1389"
-generated_at: "2026-03-29T00:28:57.993Z"
+generated_at: "2026-03-29T02:10:16.787Z"
 ---
 
 # § 1389. Personnel

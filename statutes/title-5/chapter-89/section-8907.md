@@ -5,13 +5,13 @@ usc_section: "8907"
 chapter: 89
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8907"
-generated_at: "2026-03-29T00:28:38.433Z"
+generated_at: "2026-03-29T02:10:01.993Z"
 ---
 
 # § 8907. Information to individuals eligible to enroll
 
-(a) The Office of Personnel Management shall make available to each individual eligible to enroll in a health benefits plan under this chapter such information, in a form acceptable to the Office after consultation with the carrier, as may be necessary to enable the individual to exercise an informed choice among the types of plans described by sections 8903 and 8903a of this title.
-(b) Each enrollee in a health benefits plan shall be issued an appropriate document setting forth or summarizing the—
-  (1) services or benefits, including maximums, limitations, and exclusions, to which the enrollee or the enrollee and any eligible family members are entitled thereunder;
-  (2) procedure for obtaining benefits; and
-  (3) principal provisions of the plan affecting the enrollee and any eligible family members.
+- **(a)** The Office of Personnel Management shall make available to each individual eligible to enroll in a health benefits plan under this chapter such information, in a form acceptable to the Office after consultation with the carrier, as may be necessary to enable the individual to exercise an informed choice among the types of plans described by sections 8903 and 8903a of this title.
+- **(b)** Each enrollee in a health benefits plan shall be issued an appropriate document setting forth or summarizing the—
+  - **(1)** services or benefits, including maximums, limitations, and exclusions, to which the enrollee or the enrollee and any eligible family members are entitled thereunder;
+  - **(2)** procedure for obtaining benefits; and
+  - **(3)** principal provisions of the plan affecting the enrollee and any eligible family members.

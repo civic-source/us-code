@@ -5,10 +5,10 @@ usc_section: "9254"
 chapter: 99
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9254"
-generated_at: "2026-03-29T00:30:34.048Z"
+generated_at: "2026-03-29T02:12:40.490Z"
 ---
 
 # § 9254. Rulemaking
 
-(a) The President is authorized to promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter (which may include regulatory exceptions), including under section 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1704 ).
-(b) Nothing in this chapter, or in any amendment made by this Act, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
+- **(a)** The President is authorized to promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter (which may include regulatory exceptions), including under section 205 of the International Emergency Economic Powers Act ( 50 U.S.C. 1704 ).
+- **(b)** Nothing in this chapter, or in any amendment made by this Act, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).

@@ -5,12 +5,12 @@ usc_section: "50923"
 chapter: 509
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50923"
-generated_at: "2026-03-29T00:33:19.409Z"
+generated_at: "2026-03-29T02:16:19.259Z"
 ---
 
 # § 50923. Report to Congress
 
 The Secretary of Transportation shall submit to Congress an annual report to accompany the President’s budget request that—
 
-  (1) describes all activities undertaken under this chapter, including a description of the process for the application for and approval of licenses under this chapter and recommendations for legislation that may further commercial launches and reentries; and
-  (2) reviews the performance of the regulatory activities and the effectiveness of the Office of Commercial Space Transportation.
+  - **(1)** describes all activities undertaken under this chapter, including a description of the process for the application for and approval of licenses under this chapter and recommendations for legislation that may further commercial launches and reentries; and
+  - **(2)** reviews the performance of the regulatory activities and the effectiveness of the Office of Commercial Space Transportation.

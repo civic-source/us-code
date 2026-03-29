@@ -5,10 +5,10 @@ usc_section: "11386f"
 chapter: 119
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11386f"
-generated_at: "2026-03-29T00:32:54.232Z"
+generated_at: "2026-03-29T02:15:37.164Z"
 ---
 
 # § 11386f. Geographic areas
 
-(a) For purposes of this part, the term “geographic area” shall have such meaning as the Secretary shall by notice provide.
-(b) Not later than the expiration of the 90-day period beginning on July 29, 2016 , the Secretary shall issue a notice setting forth the definition required by subsection (a).
+- **(a)** For purposes of this part, the term “geographic area” shall have such meaning as the Secretary shall by notice provide.
+- **(b)** Not later than the expiration of the 90-day period beginning on July 29, 2016 , the Secretary shall issue a notice setting forth the definition required by subsection (a).

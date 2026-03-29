@@ -5,10 +5,10 @@ usc_section: "643"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 643"
-generated_at: "2026-03-29T00:06:17.490Z"
+generated_at: "2026-03-29T02:10:05.033Z"
 ---
 
 # § 643. Certification and report to Congress
 
-(a) Not later than 1 year after May 29, 2015 , the Secretary shall certify to Congress that all personnel referred to in section 402(a) 1 1 See References in Text note below. have successfully completed the training required under that section.
-(b) Not later than 1 year after May 29, 2015 , and annually thereafter, the Secretary shall report to Congress with respect to the overall effectiveness of the program required by this subchapter, the number of cases reported by Department personnel in which human trafficking was suspected, and, of those cases, the number of cases that were confirmed cases of human trafficking.
+- **(a)** Not later than 1 year after May 29, 2015 , the Secretary shall certify to Congress that all personnel referred to in section 402(a) 1 1 See References in Text note below. have successfully completed the training required under that section.
+- **(b)** Not later than 1 year after May 29, 2015 , and annually thereafter, the Secretary shall report to Congress with respect to the overall effectiveness of the program required by this subchapter, the number of cases reported by Department personnel in which human trafficking was suspected, and, of those cases, the number of cases that were confirmed cases of human trafficking.

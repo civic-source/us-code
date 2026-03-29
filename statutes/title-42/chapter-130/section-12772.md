@@ -5,17 +5,17 @@ usc_section: "12772"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12772"
-generated_at: "2026-03-29T00:32:54.296Z"
+generated_at: "2026-03-29T02:15:37.233Z"
 ---
 
 # § 12772. Project-specific assistance to community housing development organizations
 
-(a) Amounts reserved under section 12771 of this title may be used for activities eligible under section 12742 of this title and, in amounts not to exceed 10 percent of the amounts so reserved, for other activities specified under this section.
-(b) 
-  (1) Amounts reserved under section 12771 of this title may be used to provide technical assistance and site control loans to community housing development organizations in the early stages of site development for an eligible project. Such loans shall not exceed amounts that the jurisdiction determines to be customary and reasonable project preparation costs allowable under paragraph (2).
-  (2) A loan under this subsection may be provided to cover project expenses necessary to determine project feasibility (including costs of an initial feasibility study), consulting fees, costs of preliminary financial applications, legal fees, architectural fees, engineering fees, engagement of a development team, site control and title clearance.
-  (3) A community housing development organization that receives a loan under this subsection shall repay the loan to the participating jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in part or in whole, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
-(c) 
-  (1) Amounts reserved under section 12771 of this title may be used to provide loans to community housing development organizations to cover preconstruction project costs that the jurisdiction determines to be customary and reasonable, including, but not limited to the costs of obtaining firm construction loan commitments, architectural plans and specifications, zoning approvals, engineering studies and legal fees.
-  (2) A loan under this subsection may be provided only to a community housing development organization that has, with respect to the project concerned, site control, a preliminary financial commitment, and a capable development team.
-  (3) A community housing development organization that receives a loan under this subsection shall repay the loan to the jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in whole or in part, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
+- **(a)** Amounts reserved under section 12771 of this title may be used for activities eligible under section 12742 of this title and, in amounts not to exceed 10 percent of the amounts so reserved, for other activities specified under this section.
+- **(b)**
+  - **(1)** Amounts reserved under section 12771 of this title may be used to provide technical assistance and site control loans to community housing development organizations in the early stages of site development for an eligible project. Such loans shall not exceed amounts that the jurisdiction determines to be customary and reasonable project preparation costs allowable under paragraph (2).
+  - **(2)** A loan under this subsection may be provided to cover project expenses necessary to determine project feasibility (including costs of an initial feasibility study), consulting fees, costs of preliminary financial applications, legal fees, architectural fees, engineering fees, engagement of a development team, site control and title clearance.
+  - **(3)** A community housing development organization that receives a loan under this subsection shall repay the loan to the participating jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in part or in whole, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
+- **(c)**
+  - **(1)** Amounts reserved under section 12771 of this title may be used to provide loans to community housing development organizations to cover preconstruction project costs that the jurisdiction determines to be customary and reasonable, including, but not limited to the costs of obtaining firm construction loan commitments, architectural plans and specifications, zoning approvals, engineering studies and legal fees.
+  - **(2)** A loan under this subsection may be provided only to a community housing development organization that has, with respect to the project concerned, site control, a preliminary financial commitment, and a capable development team.
+  - **(3)** A community housing development organization that receives a loan under this subsection shall repay the loan to the jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in whole or in part, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.

@@ -5,69 +5,69 @@ usc_section: "280A"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 280A"
-generated_at: "2026-03-29T00:31:20.684Z"
+generated_at: "2026-03-29T02:14:00.878Z"
 ---
 
 # § 280A. Disallowance of certain expenses in connection with business use of home, rental of vacation homes, etc.
 
-(a) Except as otherwise provided in this section, in the case of a taxpayer who is an individual or an S corporation, no deduction otherwise allowable under this chapter shall be allowed with respect to the use of a dwelling unit which is used by the taxpayer during the taxable year as a residence.
-(b) Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard to its connection with his trade or business (or with his income-producing activity).
-(c) 
-  (1) Subsection (a) shall not apply to any item to the extent such item is allocable to a portion of the dwelling unit which is exclusively used on a regular basis—
-    (A) as the principal place of business for any trade or business of the taxpayer,
-    (B) as a place of business which is used by patients, clients, or customers in meeting or dealing with the taxpayer in the normal course of his trade or business, or
-    (C) in the case of a separate structure which is not attached to the dwelling unit, in connection with the taxpayer’s trade or business.
-  (2) Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer’s trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
-  (3) Subsection (a) shall not apply to any item which is attributable to the rental of the dwelling unit or portion thereof (determined after the application of subsection (e)).
-  (4) 
-    (A) Subsection (a) shall not apply to any item to the extent that such item is allocable to the use of any portion of the dwelling unit on a regular basis in the taxpayer’s trade or business of providing day care for children, for individuals who have attained age 65, or for individuals who are physically or mentally incapable of caring for themselves.
-    (B) Subparagraph (A) shall apply to items accruing for a period only if the owner or operator of the trade or business referred to in subparagraph (A)—
-      (i) has applied for (and such application has not been rejected),
-      (ii) has been granted (and such granting has not been revoked), or
-      (iii) is exempt from having,
-    (C) If a portion of the taxpayer’s dwelling unit used for the purposes described in subparagraph (A) is not used exclusively for those purposes, the amount of the expenses attributable to that portion shall not exceed an amount which bears the same ratio to the total amount of the items allocable to such portion as the number of hours the portion is used for such purposes bears to the number of hours the portion is available for use.
-  (5) In the case of a use described in paragraph (1), (2), or (4), and in the case of a use described in paragraph (3) where the dwelling unit is used by the taxpayer during the taxable year as a residence, the deductions allowed under this chapter for the taxable year by reason of being attributed to such use shall not exceed the excess of—
-    (A) the gross income derived from such use for the taxable year, over
-    (B) the sum of—
-      (i) the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used, and
-      (ii) the deductions allocable to the trade or business (or rental activity) in which such use occurs (but which are not allocable to such use) for such taxable year.
-  (6) Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of the dwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
-(d) 
-  (1) For purposes of this section, a taxpayer uses a dwelling unit during the taxable year as a residence if he uses such unit (or portion thereof) for personal purposes for a number of days which exceeds the greater of—
-    (A) 14 days, or
-    (B) 10 percent of the number of days during such year for which such unit is rented at a fair rental.
-  (2) For purposes of this section, the taxpayer shall be deemed to have used a dwelling unit for personal purposes for a day if, for any part of such day, the unit is used—
-    (A) for personal purposes by the taxpayer or any other person who has an interest in such unit, or by any member of the family (as defined in section 267(c)(4)) of the taxpayer or such other person;
-    (B) by any individual who uses the unit under an arrangement which enables the taxpayer to use some other dwelling unit (whether or not a rental is charged for the use of such other unit); or
-    (C) by any individual (other than an employee with respect to whose use section 119 applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
-  (3) 
-    (A) A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period if for such period such dwelling unit is rented, at a fair rental, to any person for use as such person’s principal residence.
-    (B) 
-      (i) Subparagraph (A) shall apply to a rental to a person who has an interest in the dwelling unit only if such rental is pursuant to a shared equity financing agreement.
-      (ii) In the case of a rental pursuant to a shared equity financing agreement, fair rental shall be determined as of the time the agreement is entered into and by taking into account the occupant’s qualified ownership interest.
-    (C) For purposes of this paragraph, the term “shared equity financing agreement” means an agreement under which—
-      (i) 2 or more persons acquire qualified ownership interests in a dwelling unit, and
-      (ii) the person (or persons) holding 1 or more of such interests—
-        (I) is entitled to occupy the dwelling unit for use as a principal residence, and
-        (II) is required to pay rent to 1 or more other persons holding qualified ownership interests in the dwelling unit.
-    (D) For purposes of this paragraph, the term “qualified ownership interest” means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
-  (4) 
-    (A) For purposes of applying subsection (c)(5) to deductions allocable to a qualified rental period, a taxpayer shall not be considered to have used a dwelling unit for personal purposes for any day during the taxable year which occurs before or after a qualified rental period described in subparagraph (B)(i), or before a qualified rental period described in subparagraph (B)(ii), if with respect to such day such unit constitutes the principal residence (within the meaning of section 121) of the taxpayer.
-    (B) For purposes of subparagraph (A), the term “qualified rental period” means a consecutive period of—
-      (i) 12 or more months which begins or ends in such taxable year, or
-      (ii) less than 12 months which begins in such taxable year and at the end of which such dwelling unit is sold or exchanged, and
-(e) 
-  (1) In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
-  (2) This subsection shall not apply with respect to deductions which would be allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was rented.
-(f) 
-  (1) For purposes of this section—
-    (A) The term “dwelling unit” includes a house, apartment, condominium, mobile home, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
-    (B) The term “dwelling unit” does not include that portion of a unit which is used exclusively as a hotel, motel, inn, or similar establishment.
-  (2) In the case of an S corporation, subparagraphs (A) and (B) of subsection (d)(2) shall be applied by substituting “any shareholder of the S corporation” for “the taxpayer” each place it appears.
-  (3) If subsection (a) applies with respect to any dwelling unit (or portion thereof) for the taxable year—
-    (A) section 183 (relating to activities not engaged in for profit) shall not apply to such unit (or portion thereof) for such year, but
-    (B) such year shall be taken into account as a taxable year for purposes of applying subsection (d) of section 183 (relating to 5-year presumption).
-  (4) Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
-(g) Notwithstanding any other provision of this section or section 183, if a dwelling unit is used during the taxable year by the taxpayer as a residence and such dwelling unit is actually rented for less than 15 days during the taxable year, then—
-  (1) no deduction otherwise allowable under this chapter because of the rental use of such dwelling unit shall be allowed, and
-  (2) the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.
+- **(a)** Except as otherwise provided in this section, in the case of a taxpayer who is an individual or an S corporation, no deduction otherwise allowable under this chapter shall be allowed with respect to the use of a dwelling unit which is used by the taxpayer during the taxable year as a residence.
+- **(b)** Subsection (a) shall not apply to any deduction allowable to the taxpayer without regard to its connection with his trade or business (or with his income-producing activity).
+- **(c)**
+  - **(1)** Subsection (a) shall not apply to any item to the extent such item is allocable to a portion of the dwelling unit which is exclusively used on a regular basis—
+    - **(A)** as the principal place of business for any trade or business of the taxpayer,
+    - **(B)** as a place of business which is used by patients, clients, or customers in meeting or dealing with the taxpayer in the normal course of his trade or business, or
+    - **(C)** in the case of a separate structure which is not attached to the dwelling unit, in connection with the taxpayer’s trade or business.
+  - **(2)** Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer’s trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+  - **(3)** Subsection (a) shall not apply to any item which is attributable to the rental of the dwelling unit or portion thereof (determined after the application of subsection (e)).
+  - **(4)**
+    - **(A)** Subsection (a) shall not apply to any item to the extent that such item is allocable to the use of any portion of the dwelling unit on a regular basis in the taxpayer’s trade or business of providing day care for children, for individuals who have attained age 65, or for individuals who are physically or mentally incapable of caring for themselves.
+    - **(B)** Subparagraph (A) shall apply to items accruing for a period only if the owner or operator of the trade or business referred to in subparagraph (A)—
+      - **(i)** has applied for (and such application has not been rejected),
+      - **(ii)** has been granted (and such granting has not been revoked), or
+      - **(iii)** is exempt from having,
+    - **(C)** If a portion of the taxpayer’s dwelling unit used for the purposes described in subparagraph (A) is not used exclusively for those purposes, the amount of the expenses attributable to that portion shall not exceed an amount which bears the same ratio to the total amount of the items allocable to such portion as the number of hours the portion is used for such purposes bears to the number of hours the portion is available for use.
+  - **(5)** In the case of a use described in paragraph (1), (2), or (4), and in the case of a use described in paragraph (3) where the dwelling unit is used by the taxpayer during the taxable year as a residence, the deductions allowed under this chapter for the taxable year by reason of being attributed to such use shall not exceed the excess of—
+    - **(A)** the gross income derived from such use for the taxable year, over
+    - **(B)** the sum of—
+      - **(i)** the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used, and
+      - **(ii)** the deductions allocable to the trade or business (or rental activity) in which such use occurs (but which are not allocable to such use) for such taxable year.
+  - **(6)** Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of the dwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
+- **(d)**
+  - **(1)** For purposes of this section, a taxpayer uses a dwelling unit during the taxable year as a residence if he uses such unit (or portion thereof) for personal purposes for a number of days which exceeds the greater of—
+    - **(A)** 14 days, or
+    - **(B)** 10 percent of the number of days during such year for which such unit is rented at a fair rental.
+  - **(2)** For purposes of this section, the taxpayer shall be deemed to have used a dwelling unit for personal purposes for a day if, for any part of such day, the unit is used—
+    - **(A)** for personal purposes by the taxpayer or any other person who has an interest in such unit, or by any member of the family (as defined in section 267(c)(4)) of the taxpayer or such other person;
+    - **(B)** by any individual who uses the unit under an arrangement which enables the taxpayer to use some other dwelling unit (whether or not a rental is charged for the use of such other unit); or
+    - **(C)** by any individual (other than an employee with respect to whose use section 119 applies), unless for such day the dwelling unit is rented for a rental which, under the facts and circumstances, is fair rental.
+  - **(3)**
+    - **(A)** A taxpayer shall not be treated as using a dwelling unit for personal purposes by reason of a rental arrangement for any period if for such period such dwelling unit is rented, at a fair rental, to any person for use as such person’s principal residence.
+    - **(B)**
+      - **(i)** Subparagraph (A) shall apply to a rental to a person who has an interest in the dwelling unit only if such rental is pursuant to a shared equity financing agreement.
+      - **(ii)** In the case of a rental pursuant to a shared equity financing agreement, fair rental shall be determined as of the time the agreement is entered into and by taking into account the occupant’s qualified ownership interest.
+    - **(C)** For purposes of this paragraph, the term “shared equity financing agreement” means an agreement under which—
+      - **(i)** 2 or more persons acquire qualified ownership interests in a dwelling unit, and
+      - **(ii)** the person (or persons) holding 1 or more of such interests—
+        - **(I)** is entitled to occupy the dwelling unit for use as a principal residence, and
+        - **(II)** is required to pay rent to 1 or more other persons holding qualified ownership interests in the dwelling unit.
+    - **(D)** For purposes of this paragraph, the term “qualified ownership interest” means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
+  - **(4)**
+    - **(A)** For purposes of applying subsection (c)(5) to deductions allocable to a qualified rental period, a taxpayer shall not be considered to have used a dwelling unit for personal purposes for any day during the taxable year which occurs before or after a qualified rental period described in subparagraph (B)(i), or before a qualified rental period described in subparagraph (B)(ii), if with respect to such day such unit constitutes the principal residence (within the meaning of section 121) of the taxpayer.
+    - **(B)** For purposes of subparagraph (A), the term “qualified rental period” means a consecutive period of—
+      - **(i)** 12 or more months which begins or ends in such taxable year, or
+      - **(ii)** less than 12 months which begins in such taxable year and at the end of which such dwelling unit is sold or exchanged, and
+- **(e)**
+  - **(1)** In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
+  - **(2)** This subsection shall not apply with respect to deductions which would be allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was rented.
+- **(f)**
+  - **(1)** For purposes of this section—
+    - **(A)** The term “dwelling unit” includes a house, apartment, condominium, mobile home, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
+    - **(B)** The term “dwelling unit” does not include that portion of a unit which is used exclusively as a hotel, motel, inn, or similar establishment.
+  - **(2)** In the case of an S corporation, subparagraphs (A) and (B) of subsection (d)(2) shall be applied by substituting “any shareholder of the S corporation” for “the taxpayer” each place it appears.
+  - **(3)** If subsection (a) applies with respect to any dwelling unit (or portion thereof) for the taxable year—
+    - **(A)** section 183 (relating to activities not engaged in for profit) shall not apply to such unit (or portion thereof) for such year, but
+    - **(B)** such year shall be taken into account as a taxable year for purposes of applying subsection (d) of section 183 (relating to 5-year presumption).
+  - **(4)** Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer’s being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
+- **(g)** Notwithstanding any other provision of this section or section 183, if a dwelling unit is used during the taxable year by the taxpayer as a residence and such dwelling unit is actually rented for less than 15 days during the taxable year, then—
+  - **(1)** no deduction otherwise allowable under this chapter because of the rental use of such dwelling unit shall be allowed, and
+  - **(2)** the income derived from such use for the taxable year shall not be included in the gross income of such taxpayer under section 61.

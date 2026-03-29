@@ -5,25 +5,25 @@ usc_section: "4214"
 chapter: 322
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4214"
-generated_at: "2026-03-29T00:20:53.144Z"
+generated_at: "2026-03-29T02:10:45.215Z"
 ---
 
 # § 4214. Baseline description
 
-(a) 
-  (1) The Secretary of a military department shall establish a baseline description for each major defense acquisition program and for each designated major subprogram under the program under the jurisdiction of such Secretary.
-  (2) The baseline shall include sufficient parameters to describe the cost estimate (referred to as the “Baseline Estimate” in sections 4371 through 4375 of this title), schedule, performance, supportability, and any other factor of such major defense acquisition program or designated major subprogram.
-(b) No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition and Sustainment.
-(c) A baseline description for a major defense acquisition program or any designated major subprogram under the program shall be prepared under this section—
-  (1) before the program or subprogram enters system development and demonstration;
-  (2) before the program or subprogram enters production and deployment; and
-  (3) before the program or subprogram enters full rate production.
-(d) 
-  (1) In this subpart, the term “original Baseline Estimate”, with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
-  (2) An adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program may be treated as the original Baseline Estimate for the program or subprogram for purposes of this chapter only if the percentage increase in the program acquisition unit cost or procurement unit cost under such adjustment or revision exceeds the critical cost growth threshold for the program or subprogram under sections 4371 through 4375 of this title, as determined by the Secretary of the military department concerned under section 4374 of this title .
-  (3) In the event of an adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program, the Secretary of Defense shall include in the next Selected Acquisition Report to be submitted under section 4351 of this title after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
-(e) The Secretary of Defense shall prescribe regulations governing the following:
-  (1) The content of baseline descriptions under this section.
-  (2) The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition and Sustainment by the program manager for a program for which there is an approved baseline description (or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms) under this section of reports of deviations from any such baseline description of the cost, schedule, performance, supportability, or any other factor of the program or subprogram.
-  (3) Procedures for review of such deviation reports within the Department of Defense.
-  (4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
+- **(a)**
+  - **(1)** The Secretary of a military department shall establish a baseline description for each major defense acquisition program and for each designated major subprogram under the program under the jurisdiction of such Secretary.
+  - **(2)** The baseline shall include sufficient parameters to describe the cost estimate (referred to as the “Baseline Estimate” in sections 4371 through 4375 of this title), schedule, performance, supportability, and any other factor of such major defense acquisition program or designated major subprogram.
+- **(b)** No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition and Sustainment.
+- **(c)** A baseline description for a major defense acquisition program or any designated major subprogram under the program shall be prepared under this section—
+  - **(1)** before the program or subprogram enters system development and demonstration;
+  - **(2)** before the program or subprogram enters production and deployment; and
+  - **(3)** before the program or subprogram enters full rate production.
+- **(d)**
+  - **(1)** In this subpart, the term “original Baseline Estimate”, with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
+  - **(2)** An adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program may be treated as the original Baseline Estimate for the program or subprogram for purposes of this chapter only if the percentage increase in the program acquisition unit cost or procurement unit cost under such adjustment or revision exceeds the critical cost growth threshold for the program or subprogram under sections 4371 through 4375 of this title, as determined by the Secretary of the military department concerned under section 4374 of this title .
+  - **(3)** In the event of an adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program, the Secretary of Defense shall include in the next Selected Acquisition Report to be submitted under section 4351 of this title after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
+- **(e)** The Secretary of Defense shall prescribe regulations governing the following:
+  - **(1)** The content of baseline descriptions under this section.
+  - **(2)** The submission to the Secretary of the military department concerned and the Under Secretary of Defense for Acquisition and Sustainment by the program manager for a program for which there is an approved baseline description (or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms) under this section of reports of deviations from any such baseline description of the cost, schedule, performance, supportability, or any other factor of the program or subprogram.
+  - **(3)** Procedures for review of such deviation reports within the Department of Defense.
+  - **(4)** Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.

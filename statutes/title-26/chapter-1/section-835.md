@@ -5,19 +5,19 @@ usc_section: "835"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 835"
-generated_at: "2026-03-29T00:31:20.814Z"
+generated_at: "2026-03-29T02:14:01.044Z"
 ---
 
 # § 835. Election by reciprocal
 
-(a) Except as otherwise provided in this section, any mutual insurance company which is an interinsurer or reciprocal underwriter (hereinafter in this section referred to as a “reciprocal”) subject to the taxes imposed by section 831(a) may, under regulations prescribed by the Secretary, elect to be subject to the limitation provided in subsection (b). Such election shall be effective for the taxable year for which made and for all succeeding taxable years, and shall not be revoked except with the consent of the Secretary.
-(b) The deduction for amounts paid or incurred in the taxable year to the attorney-in-fact by a reciprocal making the election provided in subsection (a) shall be limited to, but in no case increased by, the deductions of the attorney-in-fact allocable, in accordance with regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal.
-(c) An election may not be made by a reciprocal under subsection (a) unless the attorney-in-fact of such reciprocal—
-  (1) is subject to the tax imposed by section 11;
-  (2) consents in such manner as the Secretary shall prescribe by regulations to make available such information as may be required during the period in which the election provided in subsection (a) is in effect, under regulations prescribed by the Secretary;
-  (3) reports the income received from the reciprocal and the deductions allocable thereto under the same method of accounting under which the reciprocal reports deductions for amounts paid to the attorney-in-fact; and
-  (4) files its return on the calendar year basis.
-(d) Any reciprocal electing to be subject to the limitation provided in subsection (b) shall be credited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
-(e) Any increase in the taxable income of a reciprocal attributable to the limits provided in subsection (b) shall be taxed at the highest rate of tax specified in section 11(b).
-(f) If for any taxable year an attorney-in-fact is allowed a credit or refund for taxes paid with respect to which credit or refund to the reciprocal resulted under subsection (d), the taxes of such reciprocal for such taxable year shall be properly adjusted under regulations prescribed by the Secretary.
-(g) Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
+- **(a)** Except as otherwise provided in this section, any mutual insurance company which is an interinsurer or reciprocal underwriter (hereinafter in this section referred to as a “reciprocal”) subject to the taxes imposed by section 831(a) may, under regulations prescribed by the Secretary, elect to be subject to the limitation provided in subsection (b). Such election shall be effective for the taxable year for which made and for all succeeding taxable years, and shall not be revoked except with the consent of the Secretary.
+- **(b)** The deduction for amounts paid or incurred in the taxable year to the attorney-in-fact by a reciprocal making the election provided in subsection (a) shall be limited to, but in no case increased by, the deductions of the attorney-in-fact allocable, in accordance with regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal.
+- **(c)** An election may not be made by a reciprocal under subsection (a) unless the attorney-in-fact of such reciprocal—
+  - **(1)** is subject to the tax imposed by section 11;
+  - **(2)** consents in such manner as the Secretary shall prescribe by regulations to make available such information as may be required during the period in which the election provided in subsection (a) is in effect, under regulations prescribed by the Secretary;
+  - **(3)** reports the income received from the reciprocal and the deductions allocable thereto under the same method of accounting under which the reciprocal reports deductions for amounts paid to the attorney-in-fact; and
+  - **(4)** files its return on the calendar year basis.
+- **(d)** Any reciprocal electing to be subject to the limitation provided in subsection (b) shall be credited with so much of the tax paid by the attorney-in-fact as is attributable, under regulations prescribed by the Secretary, to the income received by the attorney-in-fact from the reciprocal in such taxable year.
+- **(e)** Any increase in the taxable income of a reciprocal attributable to the limits provided in subsection (b) shall be taxed at the highest rate of tax specified in section 11(b).
+- **(f)** If for any taxable year an attorney-in-fact is allowed a credit or refund for taxes paid with respect to which credit or refund to the reciprocal resulted under subsection (d), the taxes of such reciprocal for such taxable year shall be properly adjusted under regulations prescribed by the Secretary.
+- **(g)** Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.

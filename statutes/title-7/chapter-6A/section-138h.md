@@ -5,7 +5,7 @@ usc_section: "138h"
 chapter: 6
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 138h"
-generated_at: "2026-03-29T00:28:57.911Z"
+generated_at: "2026-03-29T02:10:16.703Z"
 ---
 
 # § 138h. Regulations

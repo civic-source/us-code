@@ -5,7 +5,7 @@ usc_section: "47132"
 chapter: 471
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 47132"
-generated_at: "2026-03-29T00:33:13.929Z"
+generated_at: "2026-03-29T02:16:09.070Z"
 ---
 
 # [§ 47132. Repealed. Pub. L. 106–181, title I, § 123(a)(1) , Apr. 5, 2000 , 114 Stat. 74 ]

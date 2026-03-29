@@ -5,10 +5,10 @@ usc_section: "9309"
 chapter: 101
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9309"
-generated_at: "2026-03-29T00:32:54.142Z"
+generated_at: "2026-03-29T02:15:37.044Z"
 ---
 
 # § 9309. Technical manpower requirements; report to President and Congress
 
-(a) The Secretary shall assess the adequacy of the projected United States supply of manpower in the engineering and scientific disciplines required to achieve the purposes of this chapter taking cognizance of the other demands likely to be placed on such manpower supply.
-(b) The Secretary shall within one year of October 7, 1980 , submit a report to the President and to the Congress setting forth his assessment along with his recommendations regarding the need for increased support for education in such engineering and scientific disciplines.
+- **(a)** The Secretary shall assess the adequacy of the projected United States supply of manpower in the engineering and scientific disciplines required to achieve the purposes of this chapter taking cognizance of the other demands likely to be placed on such manpower supply.
+- **(b)** The Secretary shall within one year of October 7, 1980 , submit a report to the President and to the Congress setting forth his assessment along with his recommendations regarding the need for increased support for education in such engineering and scientific disciplines.

@@ -5,17 +5,17 @@ usc_section: "41902"
 chapter: 419
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41902"
-generated_at: "2026-03-29T00:33:13.880Z"
+generated_at: "2026-03-29T02:16:09.016Z"
 ---
 
 # § 41902. Schedules for certain transportation of mail
 
-(a) Except as provided in section 41905 of this title and section 5402 of title 39 , an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
-(b) Every air carrier shall file with the United States Postal Service a statement showing—
-  (1) the places between which the carrier is authorized to transport mail in Alaska;
-  (2) every schedule of aircraft regularly operated by the carrier between places described in paragraph (1) and every change in each schedule; and
-  (3) for each schedule, the places served by the carrier and the time of arrival at, and departure from, each such place.
-(c) The Postal Service may—
-  (1) designate any schedule of an air carrier filed under subsection (b)(2) of this section for the transportation of mail between the places between which the carrier is authorized by its certificate to transport mail; and
-  (2) require the carrier to establish additional schedules for the transportation of mail between those places.
-(d) A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days’ notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.
+- **(a)** Except as provided in section 41905 of this title and section 5402 of title 39 , an air carrier may transport mail by aircraft between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+- **(b)** Every air carrier shall file with the United States Postal Service a statement showing—
+  - **(1)** the places between which the carrier is authorized to transport mail in Alaska;
+  - **(2)** every schedule of aircraft regularly operated by the carrier between places described in paragraph (1) and every change in each schedule; and
+  - **(3)** for each schedule, the places served by the carrier and the time of arrival at, and departure from, each such place.
+- **(c)** The Postal Service may—
+  - **(1)** designate any schedule of an air carrier filed under subsection (b)(2) of this section for the transportation of mail between the places between which the carrier is authorized by its certificate to transport mail; and
+  - **(2)** require the carrier to establish additional schedules for the transportation of mail between those places.
+- **(d)** A schedule designated or required to be established for the transportation of mail under subsection (c) of this section may be changed only after 10 days’ notice of the change is filed as provided in subsection (b)(2) of this section. The Postal Service may disapprove a proposed change in a schedule or amend or modify the schedule or proposed change.

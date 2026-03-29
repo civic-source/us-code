@@ -5,7 +5,7 @@ usc_section: "1227"
 chapter: 27
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1227"
-generated_at: "2026-03-29T00:33:18.048Z"
+generated_at: "2026-03-29T02:16:14.699Z"
 ---
 
 # §§ 1221 to 1227. Repealed. Pub. L. 85–861, § 36A , Sept. 2, 1958 , 72 Stat. 1569

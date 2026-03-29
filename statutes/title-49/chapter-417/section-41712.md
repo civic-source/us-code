@@ -5,15 +5,15 @@ usc_section: "41712"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41712"
-generated_at: "2026-03-29T00:33:13.875Z"
+generated_at: "2026-03-29T02:16:09.008Z"
 ---
 
 # § 41712. Unfair and deceptive practices and unfair methods of competition
 
-(a) On the initiative of the Secretary of Transportation or the complaint of an air carrier, foreign air carrier, air ambulance consumer (as defined by the Secretary of Transportation), or ticket agent, and if the Secretary considers it is in the public interest, the Secretary may investigate and decide whether an air carrier, foreign air carrier, or ticket agent has been or is engaged in an unfair or deceptive practice or an unfair method of competition in air transportation or the sale of air transportation. If the Secretary, after notice and an opportunity for a hearing, finds that an air carrier, foreign air carrier, or ticket agent is engaged in an unfair or deceptive practice or unfair method of competition, the Secretary shall order the air carrier, foreign air carrier, or ticket agent to stop the practice or method.
-(b) It shall be an unfair or deceptive practice under subsection (a) for any air carrier, foreign air carrier, or ticket agent utilizing electronically transmitted tickets for air transportation to fail to notify the purchaser of such a ticket of its expiration date, if any.
-(c) 
-  (1) It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—
-    (A) the name of the air carrier providing the air transportation; and
-    (B) if the flight has more than one flight segment, the name of each air carrier providing the air transportation for each such flight segment.
-  (2) In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.
+- **(a)** On the initiative of the Secretary of Transportation or the complaint of an air carrier, foreign air carrier, air ambulance consumer (as defined by the Secretary of Transportation), or ticket agent, and if the Secretary considers it is in the public interest, the Secretary may investigate and decide whether an air carrier, foreign air carrier, or ticket agent has been or is engaged in an unfair or deceptive practice or an unfair method of competition in air transportation or the sale of air transportation. If the Secretary, after notice and an opportunity for a hearing, finds that an air carrier, foreign air carrier, or ticket agent is engaged in an unfair or deceptive practice or unfair method of competition, the Secretary shall order the air carrier, foreign air carrier, or ticket agent to stop the practice or method.
+- **(b)** It shall be an unfair or deceptive practice under subsection (a) for any air carrier, foreign air carrier, or ticket agent utilizing electronically transmitted tickets for air transportation to fail to notify the purchaser of such a ticket of its expiration date, if any.
+- **(c)**
+  - **(1)** It shall be an unfair or deceptive practice under subsection (a) for any ticket agent, air carrier, foreign air carrier, or other person offering to sell tickets for air transportation on a flight of an air carrier to fail to disclose, whether verbally in oral communication or in writing in written or electronic communication, prior to the purchase of a ticket—
+    - **(A)** the name of the air carrier providing the air transportation; and
+    - **(B)** if the flight has more than one flight segment, the name of each air carrier providing the air transportation for each such flight segment.
+  - **(2)** In the case of an offer to sell tickets described in paragraph (1) on an Internet Web site, disclosure of the information required by paragraph (1) shall be provided on the first display of the Web site following a search of a requested itinerary in a format that is easily visible to a viewer.

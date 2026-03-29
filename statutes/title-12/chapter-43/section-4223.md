@@ -5,16 +5,16 @@ usc_section: "4223"
 chapter: 43
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4223"
-generated_at: "2026-03-29T00:29:16.815Z"
+generated_at: "2026-03-29T02:11:21.190Z"
 ---
 
 # § 4223. Confidentiality of declarations
 
-(a) A declarant and the declarant’s agents shall not disclose the existence or filing of a declaration filed pursuant to section 4221 of this title until:
-  (1) the declarant receives notice that the Attorney General has concluded that an action should not be pursued under section 4226(b) of this title ;
-  (2) the declarant receives notice of an award pursuant to section 4226(c) of this title ; or
-  (3) the declarant is granted a contract to pursue an action under section 4225(b) or 4227 of this title.
-(b) 
-  (1) Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
-  (2) The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
-(c) A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
+- **(a)** A declarant and the declarant’s agents shall not disclose the existence or filing of a declaration filed pursuant to section 4221 of this title until:
+  - **(1)** the declarant receives notice that the Attorney General has concluded that an action should not be pursued under section 4226(b) of this title ;
+  - **(2)** the declarant receives notice of an award pursuant to section 4226(c) of this title ; or
+  - **(3)** the declarant is granted a contract to pursue an action under section 4225(b) or 4227 of this title.
+- **(b)**
+  - **(1)** Notwithstanding any other law, the contents of a declaration shall not be disclosed by the declarant if the disclosure would prejudice or compromise in any way the completion of any government investigation or any criminal or civil case that may arise out of, or make use of, information contained in a declaration, but information contained in a declaration may be disclosed as required by duly issued and authorized legal process.
+  - **(2)** The Attorney General may in a circumstance described in paragraph (1) notify a declarant that continued confidentiality is required under this subsection notwithstanding paragraph (1) or (2) of subsection (a).
+- **(c)** A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.

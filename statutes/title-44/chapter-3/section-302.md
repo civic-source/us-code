@@ -5,7 +5,7 @@ usc_section: "302"
 chapter: 3
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 302"
-generated_at: "2026-03-29T00:32:58.534Z"
+generated_at: "2026-03-29T02:15:49.316Z"
 ---
 
 # § 302. Deputy Director of the Government Publishing Office: appointment; duties

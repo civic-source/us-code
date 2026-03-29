@@ -5,27 +5,27 @@ usc_section: "2915"
 chapter: 173
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2915"
-generated_at: "2026-03-29T00:20:53.106Z"
+generated_at: "2026-03-29T02:10:45.167Z"
 ---
 
 # § 2915. Facilities: use of renewable forms of energy and energy efficient products
 
-(a) The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
-(b) 
-  (1) The Secretary concerned shall require that the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—
-    (A) is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under section 2911 of this title ; and
-    (B) supported by the special considerations specified in subsection (e) of such section.
-  (2) The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
-(c) 
-  (1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy for a facility shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system for the facility with such a system, and (B) the original investment cost of the energy system for the facility without such a system can be recovered over the expected life of the facility.
-  (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a facility shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act ( 42 U.S.C. 8254(a) ).
-(d) In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
-(e) 
-  (1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
-  (2) 
-    (A) The Secretary of Defense shall prescribe a definition of the term “energy-efficient product” for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
-    (B) The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
-    (C) The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to section 2911(d)(2) of this title .
-  (3) In determining the energy efficiency of products, the Secretary shall consider products that—
-    (A) meet or exceed Energy Star specifications; or
-    (B) are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
+- **(a)** The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
+- **(b)**
+  - **(1)** The Secretary concerned shall require that the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—
+    - **(A)** is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under section 2911 of this title ; and
+    - **(B)** supported by the special considerations specified in subsection (e) of such section.
+  - **(2)** The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
+- **(c)**
+  - **(1)** For the purposes of this section, an energy system using solar energy or other renewable forms of energy for a facility shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system for the facility with such a system, and (B) the original investment cost of the energy system for the facility without such a system can be recovered over the expected life of the facility.
+  - **(2)** A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a facility shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act ( 42 U.S.C. 8254(a) ).
+- **(d)** In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
+- **(e)**
+  - **(1)** The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
+  - **(2)**
+    - **(A)** The Secretary of Defense shall prescribe a definition of the term “energy-efficient product” for purposes of this subsection and establish and maintain a list of products satisfying the definition. The definition and list shall be developed in consultation with the Secretary of Energy to ensure, to the maximum extent practicable, consistency with definitions of the term used by other Federal agencies.
+    - **(B)** The Secretary shall modify the definition and list of energy-efficient products as necessary to account for emerging or changing technologies.
+    - **(C)** The list of energy-efficient products shall be included as part of the energy performance master plan developed pursuant to section 2911(d)(2) of this title .
+  - **(3)** In determining the energy efficiency of products, the Secretary shall consider products that—
+    - **(A)** meet or exceed Energy Star specifications; or
+    - **(B)** are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.

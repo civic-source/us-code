@@ -5,7 +5,7 @@ usc_section: "2677c"
 chapter: 33
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2677c"
-generated_at: "2026-03-29T00:32:53.788Z"
+generated_at: "2026-03-29T02:15:36.620Z"
 ---
 
 # §§ 2677 to 2677c. Transferred

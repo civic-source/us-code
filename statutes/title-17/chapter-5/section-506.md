@@ -5,26 +5,26 @@ usc_section: "506"
 chapter: 5
 current_through: "PL 119-73"
 classification: "17 U.S.C. § 506"
-generated_at: "2026-03-29T00:06:55.749Z"
+generated_at: "2026-03-29T02:11:57.624Z"
 ---
 
 # § 506. Criminal offenses
 
-(a) 
-  (1) Any person who willfully infringes a copyright shall be punished as provided under section 2319 of title 18 , if the infringement was committed—
-    (A) for purposes of commercial advantage or private financial gain;
-    (B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
-    (C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
-  (2) For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement of a copyright.
-  (3) In this subsection, the term “work being prepared for commercial distribution” means—
-    (A) a computer program, a musical work, a motion picture or other audiovisual work, or a sound recording, if, at the time of unauthorized distribution—
-      (i) the copyright owner has a reasonable expectation of commercial distribution; and
-      (ii) the copies or phonorecords of the work have not been commercially distributed; or
-    (B) a motion picture, if, at the time of unauthorized distribution, the motion picture—
-      (i) has been made available for viewing in a motion picture exhibition facility; and
-      (ii) has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility.
-(b) Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323 of title 18 , to the extent provided in that section, in addition to any other similar remedies provided by law.
-(c) Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500.
-(d) Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500.
-(e) Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500.
-(f) Nothing in this section applies to infringement of the rights conferred by section 106A(a).
+- **(a)**
+  - **(1)** Any person who willfully infringes a copyright shall be punished as provided under section 2319 of title 18 , if the infringement was committed—
+    - **(A)** for purposes of commercial advantage or private financial gain;
+    - **(B)** by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
+    - **(C)** by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
+  - **(2)** For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement of a copyright.
+  - **(3)** In this subsection, the term “work being prepared for commercial distribution” means—
+    - **(A)** a computer program, a musical work, a motion picture or other audiovisual work, or a sound recording, if, at the time of unauthorized distribution—
+      - **(i)** the copyright owner has a reasonable expectation of commercial distribution; and
+      - **(ii)** the copies or phonorecords of the work have not been commercially distributed; or
+    - **(B)** a motion picture, if, at the time of unauthorized distribution, the motion picture—
+      - **(i)** has been made available for viewing in a motion picture exhibition facility; and
+      - **(ii)** has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility.
+- **(b)** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323 of title 18 , to the extent provided in that section, in addition to any other similar remedies provided by law.
+- **(c)** Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500.
+- **(d)** Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500.
+- **(e)** Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500.
+- **(f)** Nothing in this section applies to infringement of the rights conferred by section 106A(a).

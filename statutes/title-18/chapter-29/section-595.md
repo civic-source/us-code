@@ -5,7 +5,7 @@ usc_section: "595"
 chapter: 29
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 595"
-generated_at: "2026-03-29T00:30:15.620Z"
+generated_at: "2026-03-29T02:12:02.372Z"
 ---
 
 # § 595. Interference by administrative employees of Federal, State, or Territorial Governments

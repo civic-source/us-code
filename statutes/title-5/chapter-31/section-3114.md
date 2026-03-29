@@ -5,22 +5,22 @@ usc_section: "3114"
 chapter: 31
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3114"
-generated_at: "2026-03-29T00:28:38.307Z"
+generated_at: "2026-03-29T02:10:01.808Z"
 ---
 
 # § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
 
-(a) This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.
-(b) 
-  (1) The Commission may appoint candidates to any position described in subsection (a)—
-    (A) in accordance with the statutes, rules, and regulations governing appointments in the excepted service; and
-    (B) notwithstanding any statutes, rules, and regulations governing appointments in the competitive service.
-  (2) The appointment of a candidate to a position under authority of this subsection shall not be considered to cause such position to be converted from the competitive service to the excepted service.
-(c) No later than 90 days after the end of fiscal year 2003 (for fiscal year 2003) and 90 days after the end of fiscal year 2005 (for fiscal years 2004 and 2005), the Commission shall submit a report with respect to its exercise of the authority granted by subsection (b) during such fiscal years to the Committee on Government Reform and the Committee on Financial Services of the House of Representatives and the Committee on Governmental Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such reports shall describe the changes in the hiring process authorized by such subsection, including relevant information related to—
-  (1) the quality of candidates;
-  (2) the procedures used by the Commission to select candidates through the streamlined hiring process;
-  (3) the numbers, types, and grades of employees hired under the authority;
-  (4) any benefits or shortcomings associated with the use of the authority;
-  (5) the effect of the exercise of the authority on the hiring of veterans and other demographic groups; and
-  (6) the way in which managers were trained in the administration of the streamlined hiring system.
-(d) For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
+- **(a)** This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.
+- **(b)**
+  - **(1)** The Commission may appoint candidates to any position described in subsection (a)—
+    - **(A)** in accordance with the statutes, rules, and regulations governing appointments in the excepted service; and
+    - **(B)** notwithstanding any statutes, rules, and regulations governing appointments in the competitive service.
+  - **(2)** The appointment of a candidate to a position under authority of this subsection shall not be considered to cause such position to be converted from the competitive service to the excepted service.
+- **(c)** No later than 90 days after the end of fiscal year 2003 (for fiscal year 2003) and 90 days after the end of fiscal year 2005 (for fiscal years 2004 and 2005), the Commission shall submit a report with respect to its exercise of the authority granted by subsection (b) during such fiscal years to the Committee on Government Reform and the Committee on Financial Services of the House of Representatives and the Committee on Governmental Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such reports shall describe the changes in the hiring process authorized by such subsection, including relevant information related to—
+  - **(1)** the quality of candidates;
+  - **(2)** the procedures used by the Commission to select candidates through the streamlined hiring process;
+  - **(3)** the numbers, types, and grades of employees hired under the authority;
+  - **(4)** any benefits or shortcomings associated with the use of the authority;
+  - **(5)** the effect of the exercise of the authority on the hiring of veterans and other demographic groups; and
+  - **(6)** the way in which managers were trained in the administration of the streamlined hiring system.
+- **(d)** For purposes of this section, the term “Commission” means the Securities and Exchange Commission.

@@ -5,7 +5,7 @@ usc_section: "858"
 chapter: 13
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 858"
-generated_at: "2026-03-29T00:30:24.343Z"
+generated_at: "2026-03-29T02:12:28.156Z"
 ---
 
 # § 858. Endangering human life while illegally manufacturing controlled substance

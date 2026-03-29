@@ -5,7 +5,7 @@ usc_section: "2003"
 chapter: 22
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2003"
-generated_at: "2026-03-29T00:31:27.693Z"
+generated_at: "2026-03-29T02:14:09.488Z"
 ---
 
 # § 2003. Notice of protection

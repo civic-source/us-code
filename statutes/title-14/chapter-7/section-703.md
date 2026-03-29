@@ -5,7 +5,7 @@ usc_section: "703"
 chapter: 7
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 703"
-generated_at: "2026-03-29T00:29:24.988Z"
+generated_at: "2026-03-29T02:11:23.778Z"
 ---
 
 # § 703. Treasury Department

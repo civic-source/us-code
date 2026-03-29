@@ -5,15 +5,15 @@ usc_section: "500c"
 chapter: 25
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 500c"
-generated_at: "2026-03-29T00:20:52.853Z"
+generated_at: "2026-03-29T02:10:44.876Z"
 ---
 
 # § 500c. Annual assessment of budget with respect to electromagnetic spectrum operations capabilities
 
 At the same time as the President submits to Congress the budget of the President under section 1105(a) of title 31 for each of fiscal years 2025 through 2029, the Secretary of Defense shall submit to the congressional defense committees an assessment by the Electromagnetic Spectrum Operations Executive Committee as to whether sufficient funds are requested in such budget for anticipated activities in such fiscal year for each of the following:
 
-  (1) The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.
-  (2) The establishment and operation of associated joint electromagnetic spectrum operations cells.
-  (3) The development of a capability for modeling and simulating multi-domain joint electromagnetic spectrum operations to—
-    (A) assess the ability of the joint force to conduct such operations in support of the operational plans of the combatant commands; and
-    (B) inform improvements to such operations.
+  - **(1)** The development of an electromagnetic battle management capability for joint electromagnetic spectrum operations.
+  - **(2)** The establishment and operation of associated joint electromagnetic spectrum operations cells.
+  - **(3)** The development of a capability for modeling and simulating multi-domain joint electromagnetic spectrum operations to—
+    - **(A)** assess the ability of the joint force to conduct such operations in support of the operational plans of the combatant commands; and
+    - **(B)** inform improvements to such operations.

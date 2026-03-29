@@ -5,7 +5,7 @@ usc_section: "545"
 chapter: 23
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 545"
-generated_at: "2026-03-29T00:28:57.945Z"
+generated_at: "2026-03-29T02:10:16.735Z"
 ---
 
 # §§ 541 to 545. Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(56), 60 Stat. 1039

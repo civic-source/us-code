@@ -5,7 +5,7 @@ usc_section: "1709a"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1709a"
-generated_at: "2026-03-29T00:29:16.585Z"
+generated_at: "2026-03-29T02:11:20.941Z"
 ---
 
 # § 1709a. Determination of loan-to-value ratios

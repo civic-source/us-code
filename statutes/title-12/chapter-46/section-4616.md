@@ -5,29 +5,29 @@ usc_section: "4616"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4616"
-generated_at: "2026-03-29T00:29:16.838Z"
+generated_at: "2026-03-29T02:11:21.209Z"
 ---
 
 # § 4616. Supervisory actions applicable to significantly undercapitalized regulated entities
 
-(a) 
-  (1) A regulated entity that is classified as significantly undercapitalized shall, within the time period under section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
-  (2) 
-    (A) A regulated entity that is classified as significantly undercapitalized may not make any capital distribution that would result in the regulated entity being reclassified as critically undercapitalized. A regulated entity that is classified as significantly undercapitalized may not make any other capital distribution unless the Director approves the distribution.
-    (B) The Director may approve a capital distribution by a regulated entity classified as significantly undercapitalized only if the Director determines that the distribution (i) will enhance the ability of the regulated entity to meet the risk-based capital level and the minimum capital level for the regulated entity promptly, (ii) will contribute to the long-term financial safety and soundness of the regulated entity, or (iii) is otherwise in the public interest.
-(b) In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
-  (1) Limit any increase in, or order the reduction of, any obligations of the regulated entity, including off-balance sheet obligations.
-  (2) Limit or prohibit the growth of the assets of the regulated entity or require contraction of the assets of the regulated entity.
-  (3) Require the regulated entity to acquire new capital in a form and amount determined by the Director.
-  (4) Require the regulated entity to terminate, reduce, or modify any activity that the Director determines creates excessive risk to the regulated entity.
-  (5) Take 1 or more of the following actions:
-    (A) Order a new election for the board of directors of the regulated entity.
-    (B) Require the regulated entity to dismiss from office any director or executive officer who had held office for more than 180 days immediately before the date on which the regulated entity became undercapitalized. Dismissal under this subparagraph shall not be construed to be a removal pursuant to the enforcement powers of the Director under section 4636a of this title .
-    (C) Require the regulated entity to employ qualified executive officers (who, if the Director so specifies, shall be subject to approval by the Director).
-  (6) The Director may reclassify as critically undercapitalized a regulated entity that is classified as significantly undercapitalized (and the regulated entity shall be subject to the provisions of section 4617 of this title ) if—
-    (A) the regulated entity does not submit a capital restoration plan that is substantially in compliance with section 4622 of this title within the applicable period or the Director does not approve the capital restoration plan submitted by the regulated entity; or
-    (B) the Director determines that the regulated entity has failed to make, in good faith, reasonable efforts necessary to comply with the capital restoration plan and fulfill the schedule for the plan approved by the Director.
-  (7) Require the regulated entity to take any other action that the Director determines will better carry out the purpose of this section than any of the other actions specified in this subsection.
-(c) A regulated entity that is classified as significantly undercapitalized in accordance with section 4614 of this title may not, without prior written approval by the Director—
-  (1) pay any bonus to any executive officer; or
-  (2) provide compensation to any executive officer at a rate exceeding the average rate of compensation of that officer (excluding bonuses, stock options, and profit sharing) during the 12 calendar months preceding the calendar month in which the regulated entity became significantly undercapitalized.
+- **(a)**
+  - **(1)** A regulated entity that is classified as significantly undercapitalized shall, within the time period under section 4622(b) and (d) of this title, submit to the Director a capital restoration plan that complies with section 4622 of this title and carry out the plan after approval.
+  - **(2)**
+    - **(A)** A regulated entity that is classified as significantly undercapitalized may not make any capital distribution that would result in the regulated entity being reclassified as critically undercapitalized. A regulated entity that is classified as significantly undercapitalized may not make any other capital distribution unless the Director approves the distribution.
+    - **(B)** The Director may approve a capital distribution by a regulated entity classified as significantly undercapitalized only if the Director determines that the distribution (i) will enhance the ability of the regulated entity to meet the risk-based capital level and the minimum capital level for the regulated entity promptly, (ii) will contribute to the long-term financial safety and soundness of the regulated entity, or (iii) is otherwise in the public interest.
+- **(b)** In addition to any other actions taken by the Director (including actions under subsection (a)), the Director shall carry out this section by taking, at any time, 1 or more of the following actions with respect to a regulated entity that is classified as significantly undercapitalized:
+  - **(1)** Limit any increase in, or order the reduction of, any obligations of the regulated entity, including off-balance sheet obligations.
+  - **(2)** Limit or prohibit the growth of the assets of the regulated entity or require contraction of the assets of the regulated entity.
+  - **(3)** Require the regulated entity to acquire new capital in a form and amount determined by the Director.
+  - **(4)** Require the regulated entity to terminate, reduce, or modify any activity that the Director determines creates excessive risk to the regulated entity.
+  - **(5)** Take 1 or more of the following actions:
+    - **(A)** Order a new election for the board of directors of the regulated entity.
+    - **(B)** Require the regulated entity to dismiss from office any director or executive officer who had held office for more than 180 days immediately before the date on which the regulated entity became undercapitalized. Dismissal under this subparagraph shall not be construed to be a removal pursuant to the enforcement powers of the Director under section 4636a of this title .
+    - **(C)** Require the regulated entity to employ qualified executive officers (who, if the Director so specifies, shall be subject to approval by the Director).
+  - **(6)** The Director may reclassify as critically undercapitalized a regulated entity that is classified as significantly undercapitalized (and the regulated entity shall be subject to the provisions of section 4617 of this title ) if—
+    - **(A)** the regulated entity does not submit a capital restoration plan that is substantially in compliance with section 4622 of this title within the applicable period or the Director does not approve the capital restoration plan submitted by the regulated entity; or
+    - **(B)** the Director determines that the regulated entity has failed to make, in good faith, reasonable efforts necessary to comply with the capital restoration plan and fulfill the schedule for the plan approved by the Director.
+  - **(7)** Require the regulated entity to take any other action that the Director determines will better carry out the purpose of this section than any of the other actions specified in this subsection.
+- **(c)** A regulated entity that is classified as significantly undercapitalized in accordance with section 4614 of this title may not, without prior written approval by the Director—
+  - **(1)** pay any bonus to any executive officer; or
+  - **(2)** provide compensation to any executive officer at a rate exceeding the average rate of compensation of that officer (excluding bonuses, stock options, and profit sharing) during the 12 calendar months preceding the calendar month in which the regulated entity became significantly undercapitalized.

@@ -5,18 +5,18 @@ usc_section: "4367"
 chapter: 55
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4367"
-generated_at: "2026-03-29T00:32:53.867Z"
+generated_at: "2026-03-29T02:15:36.704Z"
 ---
 
 # § 4367. Reporting requirements of financial interests of officers and employees of Environmental Protection Agency
 
-(a) Each officer or employee of the Environmental Protection Agency who—
-  (1) performs any function or duty under this Act; and
-  (2) has any known financial interest in any person who applies for or receives grants, contracts, or other forms of financial assistance under this Act,
-(b) The Administrator shall—
-  (1) act within ninety days after November 8, 1977 —
-    (A) to define the term “known financial interest” for purposes of subsection (a) of this section; and
-    (B) to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
-  (2) Omitted.
-(c) In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions of a nonpolicymaking nature within the Administration and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
-(d) Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+- **(a)** Each officer or employee of the Environmental Protection Agency who—
+  - **(1)** performs any function or duty under this Act; and
+  - **(2)** has any known financial interest in any person who applies for or receives grants, contracts, or other forms of financial assistance under this Act,
+- **(b)** The Administrator shall—
+  - **(1)** act within ninety days after November 8, 1977 —
+    - **(A)** to define the term “known financial interest” for purposes of subsection (a) of this section; and
+    - **(B)** to establish the methods by which the requirement to file written statements specified in subsection (a) of this section will be monitored and enforced, including appropriate provision for the filing by such officers and employees of such statements and the review by the Administrator of such statements; and
+  - **(2)** Omitted.
+- **(c)** In the rules prescribed under subsection (b) of this section, the Administrator may identify specific positions of a nonpolicymaking nature within the Administration and provide that officers or employees occupying such positions shall be exempt from the requirements of this section.
+- **(d)** Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.

@@ -5,7 +5,7 @@ usc_section: "1503b"
 chapter: 40
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1503b"
-generated_at: "2026-03-29T00:29:41.701Z"
+generated_at: "2026-03-29T02:11:34.177Z"
 ---
 
 # § 1503b. Under Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation

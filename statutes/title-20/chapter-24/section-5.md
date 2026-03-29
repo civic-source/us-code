@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 24
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-03-29T00:07:03.116Z"
+generated_at: "2026-03-29T02:12:17.159Z"
 ---
 
 # §§ 900 to 900a–5. Omitted

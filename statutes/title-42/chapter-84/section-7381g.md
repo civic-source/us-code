@@ -5,12 +5,12 @@ usc_section: "7381g"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7381g"
-generated_at: "2026-03-29T00:32:54.024Z"
+generated_at: "2026-03-29T02:15:36.895Z"
 ---
 
 # § 7381g. Definitions
 
 In this part:
 
-  (1) The term “Director” means the Director of Science, Engineering, and Mathematics Education.
-  (2) The term “National Laboratory” has the meaning given the term in section 15801 of this title .
+  - **(1)** The term “Director” means the Director of Science, Engineering, and Mathematics Education.
+  - **(2)** The term “National Laboratory” has the meaning given the term in section 15801 of this title .

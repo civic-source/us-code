@@ -5,13 +5,13 @@ usc_section: "7803"
 chapter: 97
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 7803"
-generated_at: "2026-03-29T00:29:52.887Z"
+generated_at: "2026-03-29T02:11:54.003Z"
 ---
 
 # § 7803. Authority and responsibility of the Secretary of State
 
 The Secretary of State may—
 
-  (1) receive and transmit, on behalf of the United States, reports, requests, recommendations, proposals, decisions, and other communications of and to the Commission;
-  (2) in consultation with the Secretary, act upon, or refer to other appropriate authority, any communication pursuant to paragraph (1); and
-  (3) with the concurrence of the Secretary, and in accordance with the South Pacific Fishery Resources Convention, object to decisions of the Commission.
+  - **(1)** receive and transmit, on behalf of the United States, reports, requests, recommendations, proposals, decisions, and other communications of and to the Commission;
+  - **(2)** in consultation with the Secretary, act upon, or refer to other appropriate authority, any communication pursuant to paragraph (1); and
+  - **(3)** with the concurrence of the Secretary, and in accordance with the South Pacific Fishery Resources Convention, object to decisions of the Commission.

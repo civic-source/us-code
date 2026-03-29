@@ -5,39 +5,39 @@ usc_section: "284l"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 284l"
-generated_at: "2026-03-29T00:32:52.939Z"
+generated_at: "2026-03-29T02:15:35.692Z"
 ---
 
 # § 284l. Enhancement awards
 
-(a) 
-  (1) 
-    (A) The Director of the National Institutes of Health shall make grants (to be referred to as “Mentored Patient-Oriented Research Career Development Awards”) to support individual careers in clinical research at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
-    (B) Grants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
-  (2) An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
-(b) 
-  (1) 
-    (A) The Director of the National Institutes of Health shall make grants (to be referred to as “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
-    (B) Grants under subparagraph (A) shall be used to provide support for mid-career level clinicians to allow such clinicians to devote time to clinical research and to act as mentors for beginning clinical investigators.
-  (2) An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director requires.
-(c) 
-  (1) The Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master’s or doctoral degrees in clinical investigation.
-  (2) An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
-  (3) Grants under this subsection shall be for terms of 2 years or more and shall provide stipend, tuition, and institutional support for individual advanced degree programs in clinical investigation.
-  (4) As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master’s or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
-    (A) Analytical methods, biostatistics, and study design.
-    (B) Principles of clinical pharmacology and pharmacokinetics.
-    (C) Clinical epidemiology.
-    (D) Computer data management and medical informatics.
-    (E) Ethical and regulatory issues.
-    (F) Biomedical writing.
-(d) 
-  (1) The Director of the National Institutes of Health shall make grants (to be referred to as “Clinical Research Curriculum Awards”) to institutions for the development and support of programs of core curricula for training clinical investigators, including medical students. Such core curricula may include training in areas such as the following:
-    (A) Analytical methods, biostatistics, and study design.
-    (B) Principles of clinical pharmacology and pharmacokinetics.
-    (C) Clinical epidemiology.
-    (D) Computer data management and medical informatics.
-    (E) Ethical and regulatory issues.
-    (F) Biomedical writing.
-  (2) An application for a grant under this subsection shall be submitted by an individual institution or a consortium of institutions at such time as the Director may require. An institution may submit only one such application.
-  (3) Grants under this subsection shall be for terms of up to 5 years and may be renewable.
+- **(a)**
+  - **(1)**
+    - **(A)** The Director of the National Institutes of Health shall make grants (to be referred to as “Mentored Patient-Oriented Research Career Development Awards”) to support individual careers in clinical research at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+    - **(B)** Grants under subparagraph (A) shall be used to support clinical investigators in the early phases of their independent careers by providing salary and such other support for a period of supervised study.
+  - **(2)** An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
+- **(b)**
+  - **(1)**
+    - **(A)** The Director of the National Institutes of Health shall make grants (to be referred to as “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+    - **(B)** Grants under subparagraph (A) shall be used to provide support for mid-career level clinicians to allow such clinicians to devote time to clinical research and to act as mentors for beginning clinical investigators.
+  - **(2)** An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director requires.
+- **(c)**
+  - **(1)** The Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master’s or doctoral degrees in clinical investigation.
+  - **(2)** An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
+  - **(3)** Grants under this subsection shall be for terms of 2 years or more and shall provide stipend, tuition, and institutional support for individual advanced degree programs in clinical investigation.
+  - **(4)** As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master’s or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
+    - **(A)** Analytical methods, biostatistics, and study design.
+    - **(B)** Principles of clinical pharmacology and pharmacokinetics.
+    - **(C)** Clinical epidemiology.
+    - **(D)** Computer data management and medical informatics.
+    - **(E)** Ethical and regulatory issues.
+    - **(F)** Biomedical writing.
+- **(d)**
+  - **(1)** The Director of the National Institutes of Health shall make grants (to be referred to as “Clinical Research Curriculum Awards”) to institutions for the development and support of programs of core curricula for training clinical investigators, including medical students. Such core curricula may include training in areas such as the following:
+    - **(A)** Analytical methods, biostatistics, and study design.
+    - **(B)** Principles of clinical pharmacology and pharmacokinetics.
+    - **(C)** Clinical epidemiology.
+    - **(D)** Computer data management and medical informatics.
+    - **(E)** Ethical and regulatory issues.
+    - **(F)** Biomedical writing.
+  - **(2)** An application for a grant under this subsection shall be submitted by an individual institution or a consortium of institutions at such time as the Director may require. An institution may submit only one such application.
+  - **(3)** Grants under this subsection shall be for terms of up to 5 years and may be renewable.

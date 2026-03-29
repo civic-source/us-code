@@ -5,10 +5,10 @@ usc_section: "101522"
 chapter: 1015
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 101522"
-generated_at: "2026-03-29T00:33:21.613Z"
+generated_at: "2026-03-29T02:16:35.453Z"
 ---
 
 # § 101522. Transportation projects
 
-(a) To carry out this subchapter, the Secretary of Transportation, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Commerce, and the heads of other Federal departments or agencies that the Secretary considers necessary shall assist the Secretary in the formulation and implementation of transportation projects.
-(b) The Secretary shall maintain a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects that might be utilized by the Secretary to carry out this subchapter.
+- **(a)** To carry out this subchapter, the Secretary of Transportation, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, the Secretary of Commerce, and the heads of other Federal departments or agencies that the Secretary considers necessary shall assist the Secretary in the formulation and implementation of transportation projects.
+- **(b)** The Secretary shall maintain a compilation of Federal statutes and programs providing authority for the planning, funding, or operation of transportation projects that might be utilized by the Secretary to carry out this subchapter.

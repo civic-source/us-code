@@ -1,0 +1,26 @@
+---
+title: "Section 2302 - Functions of the Council; membership"
+usc_title: 36
+usc_section: "2302"
+chapter: 23
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 2302"
+generated_at: "2026-03-29T02:14:41.337Z"
+---
+
+# § 2302. Functions of the Council; membership
+
+- **(a)** The United States Holocaust Memorial Council (hereafter in this chapter referred to as the “Council”) shall be the board of trustees of the Museum and shall have overall governance responsibility for the Museum, including policy guidance and strategic direction, general oversight of Museum operations, and fiduciary responsibility. The Council shall establish an Executive Committee which shall exercise ongoing governance responsibility when the Council is not in session.
+- **(b)** The Council shall consist of 65 voting members appointed (except as otherwise provided in this section) by the President and the following ex officio nonvoting members:
+  - **(1)** One appointed by the Secretary of the Interior.
+  - **(2)** One appointed by the Secretary of State.
+  - **(3)** One appointed by the Secretary of Education.
+- **(c)**
+  - **(1)** Except as otherwise provided in this subsection, Council members shall serve for 5-year terms.
+  - **(2)** The terms of the five Members of the United States House of Representatives and the five Members of the United States Senate appointed during any term of Congress shall expire at the end of such term of Congress.
+  - **(3)** Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member, other than a Member of Congress appointed by the Speaker of the United States House of Representatives or the President pro tempore of the United States Senate, may serve after the expiration of his term until his successor has taken office.
+- **(d)** The Chairperson and Vice Chairperson of the Council shall be appointed by the President from among the members of the Council and such Chairperson and Vice Chairperson shall each serve for terms of 5 years.
+- **(e)** Members whose terms expire may be reappointed, and the Chairperson and Vice Chairperson may be reappointed to those offices.
+- **(f)** The Council shall adopt bylaws to carry out its functions under this chapter. The Chairperson may waive a bylaw when the Chairperson decides that waiver is in the best interest of the Council. Immediately after waiving a bylaw, the Chairperson shall send written notice of the waiver to every voting member of the Council. The waiver becomes final 30 days after the notice is sent unless a majority of Council members disagree in writing before the end of the 30-day period.
+- **(g)** One-third of the members of the Council shall constitute a quorum, and any vacancy in the Council shall not affect its powers to function.
+- **(h)** Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.

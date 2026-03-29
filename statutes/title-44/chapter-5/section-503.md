@@ -5,10 +5,10 @@ usc_section: "503"
 chapter: 5
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 503"
-generated_at: "2026-03-29T00:32:58.537Z"
+generated_at: "2026-03-29T02:15:49.317Z"
 ---
 
 # § 503. Printing in veterans’ hospitals
 
-(a) Notwithstanding section 501 of this title , the Secretary of Veterans Affairs may use the equipment described in subsection (b) for printing and binding that the Secretary finds advisable for the use of the Department of Veterans Affairs.
-(b) The equipment referred to in subsection (a) is the printing and binding equipment that the various hospitals and homes of the Department of Veterans Affairs use for occupational therapy.
+- **(a)** Notwithstanding section 501 of this title , the Secretary of Veterans Affairs may use the equipment described in subsection (b) for printing and binding that the Secretary finds advisable for the use of the Department of Veterans Affairs.
+- **(b)** The equipment referred to in subsection (a) is the printing and binding equipment that the various hospitals and homes of the Department of Veterans Affairs use for occupational therapy.

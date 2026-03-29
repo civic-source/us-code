@@ -5,33 +5,33 @@ usc_section: "47113"
 chapter: 471
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 47113"
-generated_at: "2026-03-29T00:33:13.925Z"
+generated_at: "2026-03-29T02:16:09.065Z"
 ---
 
 # § 47113. Minority and disadvantaged business participation
 
-(a) In this section—
-  (1) “small business concern”—
-    (A) has the meaning given the term in section 3 of the Small Business Act ( 15 U.S.C. 632 ); but
-    (B) in the case of a concern in the construction industry, a concern shall be considered a small business concern if the concern meets the size standard for the North American Industry Classification System Code 237310, as adjusted by the Small Business Administration;
-  (2) “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act ( 15 U.S.C. 637(d) ) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
-  (3) the term “qualified HUBZone small business concern” has the meaning given that term in section 31(b) of the Small Business Act.
-(b) Except to the extent the Secretary decides otherwise, at least 10 percent of amounts available in a fiscal year under section 48103 of this title shall be expended with small business concerns owned and controlled by socially and economically disadvantaged individuals or qualified HUBZone small business concerns.
-(c) The Secretary shall establish minimum uniform criteria for State governments and airport sponsors to use in certifying whether a small business concern qualifies under this section. The criteria shall include on-site visits, personal interviews, licenses, analyses of stock ownership and bonding capacity, listings of equipment and work completed, resumes of principal owners, financial capacity, and type of work preferred.
-(d) Each State or airport sponsor annually shall survey and compile a list of small business concerns referred to in subsection (b) of this section and the location of each concern in the State.
-(e) 
-  (1) Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
-  (2) The training program may be implemented by one or more private entities approved by the Secretary.
-  (3) A person referred to in paragraph (1) is an official or agent of an airport sponsor—
-    (A) who is required to provide a written assurance under this section or section 47107(e) that the airport owner or operator will meet the percentage goal of subsection (b) of this section or section 47107(e)(1), as the case may be; or
-    (B) who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
-(f) 
-  (1) The Secretary, in coordination with the Administrator of the Federal Aviation Administration, may, at the request of an airport sponsor, provide assistance under a grant issued under this subchapter to develop, conduct, and administer training programs and assistance programs in connection with any airport improvement project subject to part 26 of title 49, Code of Federal Regulations, for small business concerns referred to in subsection (b) to achieve proficiency to compete, on an equal basis for contracts and subcontracts related to such projects.
-  (2) An entity eligible to receive assistance under this section is—
-    (A) a State;
-    (B) a political subdivision of a State or local government;
-    (C) a Tribal government;
-    (D) an airport sponsor;
-    (E) a metropolitan planning organization;
-    (F) a group of entities described in subparagraphs (A) through (E); or
-    (G) any other organization considered appropriate by the Secretary.
+- **(a)** In this section—
+  - **(1)** “small business concern”—
+    - **(A)** has the meaning given the term in section 3 of the Small Business Act ( 15 U.S.C. 632 ); but
+    - **(B)** in the case of a concern in the construction industry, a concern shall be considered a small business concern if the concern meets the size standard for the North American Industry Classification System Code 237310, as adjusted by the Small Business Administration;
+  - **(2)** “socially and economically disadvantaged individual” has the same meaning given that term in section 8(d) of the Act ( 15 U.S.C. 637(d) ) and relevant subcontracting regulations prescribed under section 8(d), except that women are presumed to be socially and economically disadvantaged; and
+  - **(3)** the term “qualified HUBZone small business concern” has the meaning given that term in section 31(b) of the Small Business Act.
+- **(b)** Except to the extent the Secretary decides otherwise, at least 10 percent of amounts available in a fiscal year under section 48103 of this title shall be expended with small business concerns owned and controlled by socially and economically disadvantaged individuals or qualified HUBZone small business concerns.
+- **(c)** The Secretary shall establish minimum uniform criteria for State governments and airport sponsors to use in certifying whether a small business concern qualifies under this section. The criteria shall include on-site visits, personal interviews, licenses, analyses of stock ownership and bonding capacity, listings of equipment and work completed, resumes of principal owners, financial capacity, and type of work preferred.
+- **(d)** Each State or airport sponsor annually shall survey and compile a list of small business concerns referred to in subsection (b) of this section and the location of each concern in the State.
+- **(e)**
+  - **(1)** Not later than 1 year after the date of enactment of this subsection, the Secretary shall establish a mandatory training program for persons described in paragraph (3) to provide streamlined training on certifying whether a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section and section 47107(e).
+  - **(2)** The training program may be implemented by one or more private entities approved by the Secretary.
+  - **(3)** A person referred to in paragraph (1) is an official or agent of an airport sponsor—
+    - **(A)** who is required to provide a written assurance under this section or section 47107(e) that the airport owner or operator will meet the percentage goal of subsection (b) of this section or section 47107(e)(1), as the case may be; or
+    - **(B)** who is responsible for determining whether or not a small business concern qualifies as a small business concern owned and controlled by socially and economically disadvantaged individuals under this section or section 47107(e).
+- **(f)**
+  - **(1)** The Secretary, in coordination with the Administrator of the Federal Aviation Administration, may, at the request of an airport sponsor, provide assistance under a grant issued under this subchapter to develop, conduct, and administer training programs and assistance programs in connection with any airport improvement project subject to part 26 of title 49, Code of Federal Regulations, for small business concerns referred to in subsection (b) to achieve proficiency to compete, on an equal basis for contracts and subcontracts related to such projects.
+  - **(2)** An entity eligible to receive assistance under this section is—
+    - **(A)** a State;
+    - **(B)** a political subdivision of a State or local government;
+    - **(C)** a Tribal government;
+    - **(D)** an airport sponsor;
+    - **(E)** a metropolitan planning organization;
+    - **(F)** a group of entities described in subparagraphs (A) through (E); or
+    - **(G)** any other organization considered appropriate by the Secretary.

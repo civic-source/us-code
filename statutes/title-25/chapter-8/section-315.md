@@ -5,7 +5,7 @@ usc_section: "315"
 chapter: 8
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 315"
-generated_at: "2026-03-29T00:30:38.629Z"
+generated_at: "2026-03-29T02:13:20.848Z"
 ---
 
 # § 315. Time for completion of road; forfeiture

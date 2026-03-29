@@ -5,7 +5,7 @@ usc_section: "266"
 chapter: 27
 current_through: "PL 119-73"
 classification: "35 U.S.C. § 266"
-generated_at: "2026-03-29T00:32:02.945Z"
+generated_at: "2026-03-29T02:14:28.414Z"
 ---
 
 # [§ 266. Repealed. Pub. L. 89–83, § 8 , July 24, 1965 , 79 Stat. 261 ]

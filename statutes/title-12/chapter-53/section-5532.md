@@ -5,23 +5,23 @@ usc_section: "5532"
 chapter: 53
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5532"
-generated_at: "2026-03-29T00:29:16.938Z"
+generated_at: "2026-03-29T02:11:21.298Z"
 ---
 
 # § 5532. Disclosures
 
-(a) The Bureau may prescribe rules to ensure that the features of any consumer financial product or service, both initially and over the term of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.
-(b) 
-  (1) Any final rule prescribed by the Bureau under this section requiring disclosures may include a model form that may be used at the option of the covered person for provision of the required disclosures.
-  (2) A model form issued pursuant to paragraph (1) shall contain a clear and conspicuous disclosure that, at a minimum—
-    (A) uses plain language comprehensible to consumers;
-    (B) contains a clear format and design, such as an easily readable type font; and
-    (C) succinctly explains the information that must be communicated to the consumer.
-  (3) Any model form issued pursuant to this subsection shall be validated through consumer testing.
-(c) In prescribing rules under this section, the Bureau shall consider available evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.
-(d) Any covered person that uses a model form included with a rule issued under this section shall be deemed to be in compliance with the disclosure requirements of this section with respect to such model form.
-(e) 
-  (1) The Bureau may permit a covered person to conduct a trial program that is limited in time and scope, subject to specified standards and procedures, for the purpose of providing trial disclosures to consumers that are designed to improve upon any model form issued pursuant to subsection (b)(1), or any other model form issued to implement an enumerated statute, as applicable.
-  (2) The standards and procedures issued by the Bureau shall be designed to encourage covered persons to conduct trial disclosure programs. For the purposes of administering this subsection, the Bureau may establish a limited period during which a covered person conducting a trial disclosure program shall be deemed to be in compliance with, or may be exempted from, a requirement of a rule or an enumerated consumer law.
-  (3) The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
-(f) Not later than 1 year after the designated transfer date, the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under the Truth in Lending Act [ 15 U.S.C. 1601 et seq.] and sections 2603 and 2604 of this title, into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the Board of Governors and the Secretary of Housing and Urban Development carries out the same purpose.
+- **(a)** The Bureau may prescribe rules to ensure that the features of any consumer financial product or service, both initially and over the term of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.
+- **(b)**
+  - **(1)** Any final rule prescribed by the Bureau under this section requiring disclosures may include a model form that may be used at the option of the covered person for provision of the required disclosures.
+  - **(2)** A model form issued pursuant to paragraph (1) shall contain a clear and conspicuous disclosure that, at a minimum—
+    - **(A)** uses plain language comprehensible to consumers;
+    - **(B)** contains a clear format and design, such as an easily readable type font; and
+    - **(C)** succinctly explains the information that must be communicated to the consumer.
+  - **(3)** Any model form issued pursuant to this subsection shall be validated through consumer testing.
+- **(c)** In prescribing rules under this section, the Bureau shall consider available evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.
+- **(d)** Any covered person that uses a model form included with a rule issued under this section shall be deemed to be in compliance with the disclosure requirements of this section with respect to such model form.
+- **(e)**
+  - **(1)** The Bureau may permit a covered person to conduct a trial program that is limited in time and scope, subject to specified standards and procedures, for the purpose of providing trial disclosures to consumers that are designed to improve upon any model form issued pursuant to subsection (b)(1), or any other model form issued to implement an enumerated statute, as applicable.
+  - **(2)** The standards and procedures issued by the Bureau shall be designed to encourage covered persons to conduct trial disclosure programs. For the purposes of administering this subsection, the Bureau may establish a limited period during which a covered person conducting a trial disclosure program shall be deemed to be in compliance with, or may be exempted from, a requirement of a rule or an enumerated consumer law.
+  - **(3)** The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
+- **(f)** Not later than 1 year after the designated transfer date, the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under the Truth in Lending Act [ 15 U.S.C. 1601 et seq.] and sections 2603 and 2604 of this title, into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the Board of Governors and the Secretary of Housing and Urban Development carries out the same purpose.

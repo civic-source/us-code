@@ -5,7 +5,7 @@ usc_section: "309"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 309"
-generated_at: "2026-03-29T00:33:06.592Z"
+generated_at: "2026-03-29T02:16:00.796Z"
 ---
 
 # § 309. Repealed. Feb. 10, 1939, ch. 2, § 4(a) , 53 Stat. 1

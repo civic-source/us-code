@@ -5,24 +5,24 @@ usc_section: "18775"
 chapter: 162
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18775"
-generated_at: "2026-03-29T00:32:54.492Z"
+generated_at: "2026-03-29T02:15:37.465Z"
 ---
 
 # § 18775. Plan for the modeling and forecasting of demand for minerals used in the energy sector
 
-(a) 
-  (1) Not later than 180 days after November 15, 2021 , the Administrator, in coordination with the Director of the United States Geological Survey, shall develop a plan for the modeling and forecasting of demand for energy technologies, including for energy production, transmission, or storage purposes, that use minerals that are or could be designated as critical minerals.
-  (2) The plan developed under paragraph (1) shall identify—
-    (A) the type and quantity of minerals consumed, delineated by energy technology;
-    (B) existing markets for manufactured energy-producing, energy-transmission, and energy-storing equipment; and
-    (C) emerging or potential markets for new energy-producing, energy-transmission, and energy-storing technologies entering commercialization.
-(b) The plan developed under subsection (a)(1) shall produce forecasts of energy technology demand—
-  (1) over the 1-year, 5-year, and 10-year periods beginning on the date on which development of the plan is completed;
-  (2) by economic sector; and
-  (3) according to any other parameters that the Administrator, in collaboration with the Secretary of the Interior, acting through the Director of the United States Geological Survey, determines are needed for the Annual Critical Minerals Outlook.
-(c) The Administrator shall develop the plan under subsection (a)(1) in consultation with—
-  (1) the Secretary with respect to the possible trajectories of emerging energy-producing and energy-storing technologies; and
-  (2) the Secretary of the Interior, acting through the Director of the United States Geological Survey—
-    (A) to ensure coordination;
-    (B) to avoid duplicative effort; and
-    (C) to align the analysis of demand with data and analysis of where the minerals are produced, refined, and subsequently processed into materials and parts that are used to build energy technologies.
+- **(a)**
+  - **(1)** Not later than 180 days after November 15, 2021 , the Administrator, in coordination with the Director of the United States Geological Survey, shall develop a plan for the modeling and forecasting of demand for energy technologies, including for energy production, transmission, or storage purposes, that use minerals that are or could be designated as critical minerals.
+  - **(2)** The plan developed under paragraph (1) shall identify—
+    - **(A)** the type and quantity of minerals consumed, delineated by energy technology;
+    - **(B)** existing markets for manufactured energy-producing, energy-transmission, and energy-storing equipment; and
+    - **(C)** emerging or potential markets for new energy-producing, energy-transmission, and energy-storing technologies entering commercialization.
+- **(b)** The plan developed under subsection (a)(1) shall produce forecasts of energy technology demand—
+  - **(1)** over the 1-year, 5-year, and 10-year periods beginning on the date on which development of the plan is completed;
+  - **(2)** by economic sector; and
+  - **(3)** according to any other parameters that the Administrator, in collaboration with the Secretary of the Interior, acting through the Director of the United States Geological Survey, determines are needed for the Annual Critical Minerals Outlook.
+- **(c)** The Administrator shall develop the plan under subsection (a)(1) in consultation with—
+  - **(1)** the Secretary with respect to the possible trajectories of emerging energy-producing and energy-storing technologies; and
+  - **(2)** the Secretary of the Interior, acting through the Director of the United States Geological Survey—
+    - **(A)** to ensure coordination;
+    - **(B)** to avoid duplicative effort; and
+    - **(C)** to align the analysis of demand with data and analysis of where the minerals are produced, refined, and subsequently processed into materials and parts that are used to build energy technologies.

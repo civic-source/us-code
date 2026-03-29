@@ -5,7 +5,7 @@ usc_section: "386f"
 chapter: 14
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 386f"
-generated_at: "2026-03-29T00:28:57.929Z"
+generated_at: "2026-03-29T02:10:16.720Z"
 ---
 
 # §§ 386 to 386f. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

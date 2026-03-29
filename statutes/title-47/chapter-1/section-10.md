@@ -5,7 +5,7 @@ usc_section: "10"
 chapter: 1
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 10"
-generated_at: "2026-03-29T00:33:04.831Z"
+generated_at: "2026-03-29T02:15:59.168Z"
 ---
 
 # § 10. Equal facilities to connecting lines; discrimination in rates

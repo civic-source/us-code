@@ -5,13 +5,13 @@ usc_section: "13121"
 chapter: 131
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 13121"
-generated_at: "2026-03-29T00:28:38.449Z"
+generated_at: "2026-03-29T02:10:02.015Z"
 ---
 
 # § 13121. Establishment; appointment of Director
 
-(a) There is established an executive agency to be known as the Office of Government Ethics.
-(b) There shall be at the head of the Office of Government Ethics a Director (hereinafter referred to as the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate. Effective with respect to any individual appointed or reappointed by the President as Director on or after October 1, 1983 , the term of service of the Director shall be 5 years.
-(c) The Director may—
-  (1) appoint officers and employees, including attorneys, in accordance with chapter 51 and subchapter III of chapter 53 of this title; and
-  (2) contract for financial and administrative services (including those related to budget and accounting, financial reporting, personnel, and procurement) with the General Services Administration, or such other Federal agency as the Director determines appropriate, for which payment shall be made in advance, or by reimbursement, from funds of the Office of Government Ethics in such amounts as may be agreed upon by the Director and the head of the agency providing such services. Contract authority under paragraph (2) shall be effective for any fiscal year only to the extent that appropriations are available for that purpose.
+- **(a)** There is established an executive agency to be known as the Office of Government Ethics.
+- **(b)** There shall be at the head of the Office of Government Ethics a Director (hereinafter referred to as the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate. Effective with respect to any individual appointed or reappointed by the President as Director on or after October 1, 1983 , the term of service of the Director shall be 5 years.
+- **(c)** The Director may—
+  - **(1)** appoint officers and employees, including attorneys, in accordance with chapter 51 and subchapter III of chapter 53 of this title; and
+  - **(2)** contract for financial and administrative services (including those related to budget and accounting, financial reporting, personnel, and procurement) with the General Services Administration, or such other Federal agency as the Director determines appropriate, for which payment shall be made in advance, or by reimbursement, from funds of the Office of Government Ethics in such amounts as may be agreed upon by the Director and the head of the agency providing such services. Contract authority under paragraph (2) shall be effective for any fiscal year only to the extent that appropriations are available for that purpose.

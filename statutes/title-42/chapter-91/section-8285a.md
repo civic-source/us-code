@@ -5,14 +5,14 @@ usc_section: "8285a"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8285a"
-generated_at: "2026-03-29T00:32:54.117Z"
+generated_at: "2026-03-29T02:15:37.017Z"
 ---
 
 # § 8285a. Definitions
 
 For the purposes of this subchapter—
 
-  (1) the term “Governor” means the chief executive officer of each State, including the Mayor of the District of Columbia;
-  (2) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands;
-  (3) the term “energy audit” means an inspection as described in section 8216(b)(1)(A) 1 1 See References in Text note below. of this title, or an energy audit as defined in section 8281(b)(7) 1 of this title, which in addition may provide information on the utilization of renewable resources and may make energy-related improvements in the building; and
-  (4) the term “Secretary” means the Secretary of Energy.
+  - **(1)** the term “Governor” means the chief executive officer of each State, including the Mayor of the District of Columbia;
+  - **(2)** the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands;
+  - **(3)** the term “energy audit” means an inspection as described in section 8216(b)(1)(A) 1 1 See References in Text note below. of this title, or an energy audit as defined in section 8281(b)(7) 1 of this title, which in addition may provide information on the utilization of renewable resources and may make energy-related improvements in the building; and
+  - **(4)** the term “Secretary” means the Secretary of Energy.

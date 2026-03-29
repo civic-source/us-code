@@ -5,15 +5,15 @@ usc_section: "1397D"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1397D"
-generated_at: "2026-03-29T00:31:20.892Z"
+generated_at: "2026-03-29T02:14:01.145Z"
 ---
 
 # § 1397D. Qualified zone property defined
 
-(a) For purposes of this part—
-  (1) The term “qualified zone property” means any property to which section 168 applies (or would apply but for section 179) if—
-    (A) such property was acquired by the taxpayer by purchase (as defined in section 179(d)(2)) after the date on which the designation of the empowerment zone took effect,
-    (B) the original use of which in an empowerment zone commences with the taxpayer, and
-    (C) substantially all of the use of which is in an empowerment zone and is in the active conduct of a qualified business by the taxpayer in such zone.
-  (2) In the case of any property which is substantially renovated by the taxpayer, the requirements of subparagraphs (A) and (B) of paragraph (1) shall be treated as satisfied. For purposes of the preceding sentence, property shall be treated as substantially renovated by the taxpayer if, during any 24-month period beginning after the date on which the designation of the empowerment zone took effect, additions to basis with respect to such property in the hands of the taxpayer exceed the greater of (i) an amount equal to the adjusted basis at the beginning of such 24-month period in the hands of the taxpayer, or (ii) $5,000.
-(b) For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.
+- **(a)** For purposes of this part—
+  - **(1)** The term “qualified zone property” means any property to which section 168 applies (or would apply but for section 179) if—
+    - **(A)** such property was acquired by the taxpayer by purchase (as defined in section 179(d)(2)) after the date on which the designation of the empowerment zone took effect,
+    - **(B)** the original use of which in an empowerment zone commences with the taxpayer, and
+    - **(C)** substantially all of the use of which is in an empowerment zone and is in the active conduct of a qualified business by the taxpayer in such zone.
+  - **(2)** In the case of any property which is substantially renovated by the taxpayer, the requirements of subparagraphs (A) and (B) of paragraph (1) shall be treated as satisfied. For purposes of the preceding sentence, property shall be treated as substantially renovated by the taxpayer if, during any 24-month period beginning after the date on which the designation of the empowerment zone took effect, additions to basis with respect to such property in the hands of the taxpayer exceed the greater of (i) an amount equal to the adjusted basis at the beginning of such 24-month period in the hands of the taxpayer, or (ii) $5,000.
+- **(b)** For purposes of subsection (a)(1)(B), if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback.

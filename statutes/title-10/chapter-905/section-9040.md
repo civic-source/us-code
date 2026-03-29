@@ -5,15 +5,15 @@ usc_section: "9040"
 chapter: 905
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9040"
-generated_at: "2026-03-29T00:20:53.253Z"
+generated_at: "2026-03-29T02:10:45.336Z"
 ---
 
 # § 9040. Oversight of nuclear deterrence mission
 
-(a) Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff of the Air Force shall be responsible for overseeing the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
-(b) Not later than March 1, 2016 , the Chief of Staff shall designate a Deputy Chief of Staff to carry out the following duties in coordination with the Commander of Air Force Global Strike Command:
-  (1) Provide direction, guidance, integration, and advocacy regarding the nuclear deterrence mission of the Air Force.
-  (2) Coordinate with and support the activities of Air Force Global Strike Command, the Air Force Nuclear Systems Center, and any other applicable Air Force organization in the sustainment and modernization of weapon systems associated with the nuclear deterrence mission of the Air Force.
-  (3) Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
-  (4) Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force 1 1 So in original. Probably should be followed by a comma. the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command.
-  (5) Represent Air Force nuclear deterrence mission equities on behalf of the Chief of Staff of the Air Force and the Commander of Air Force Global Strike Command within the Nuclear Weapons Council processes and other Department of Defense fora, as appropriate.
+- **(a)** Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff of the Air Force shall be responsible for overseeing the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+- **(b)** Not later than March 1, 2016 , the Chief of Staff shall designate a Deputy Chief of Staff to carry out the following duties in coordination with the Commander of Air Force Global Strike Command:
+  - **(1)** Provide direction, guidance, integration, and advocacy regarding the nuclear deterrence mission of the Air Force.
+  - **(2)** Coordinate with and support the activities of Air Force Global Strike Command, the Air Force Nuclear Systems Center, and any other applicable Air Force organization in the sustainment and modernization of weapon systems associated with the nuclear deterrence mission of the Air Force.
+  - **(3)** Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
+  - **(4)** Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force 1 1 So in original. Probably should be followed by a comma. the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command.
+  - **(5)** Represent Air Force nuclear deterrence mission equities on behalf of the Chief of Staff of the Air Force and the Commander of Air Force Global Strike Command within the Nuclear Weapons Council processes and other Department of Defense fora, as appropriate.

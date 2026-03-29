@@ -5,16 +5,16 @@ usc_section: "5114"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5114"
-generated_at: "2026-03-29T00:31:20.984Z"
+generated_at: "2026-03-29T02:14:01.254Z"
 ---
 
 # § 5114. Drawback
 
-(a) In the case of distilled spirits on which the tax has been paid or determined, and which have been used as provided in this subpart, a drawback shall be allowed on each proof gallon at a rate of $1 less than the rate at which the distilled spirits tax has been paid or determined.
-(b) Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
-(c) 
-  (1) No claim for drawback under this section shall be denied in the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder upon the claimant’s establishing to the satisfaction of the Secretary that distilled spirits on which the tax has been paid or determined were in fact used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for beverage purposes.
-  (2) 
-    (A) In the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder, the claimant shall be liable for a penalty of $1,000 for each failure to comply unless it is shown that the failure to comply was due to reasonable cause.
-    (B) The aggregate amount of the penalties imposed under subparagraph (A) for failures described in paragraph (1) in respect of any claim shall not exceed the amount of such claim (determined without regard to subparagraph (A)).
-  (3) The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
+- **(a)** In the case of distilled spirits on which the tax has been paid or determined, and which have been used as provided in this subpart, a drawback shall be allowed on each proof gallon at a rate of $1 less than the rate at which the distilled spirits tax has been paid or determined.
+- **(b)** Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
+- **(c)**
+  - **(1)** No claim for drawback under this section shall be denied in the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder upon the claimant’s establishing to the satisfaction of the Secretary that distilled spirits on which the tax has been paid or determined were in fact used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for beverage purposes.
+  - **(2)**
+    - **(A)** In the case of a failure to comply with any requirement imposed under this subpart or any rule or regulation issued thereunder, the claimant shall be liable for a penalty of $1,000 for each failure to comply unless it is shown that the failure to comply was due to reasonable cause.
+    - **(B)** The aggregate amount of the penalties imposed under subparagraph (A) for failures described in paragraph (1) in respect of any claim shall not exceed the amount of such claim (determined without regard to subparagraph (A)).
+  - **(3)** The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).

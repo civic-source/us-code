@@ -5,7 +5,7 @@ usc_section: "3062"
 chapter: 43
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3062"
-generated_at: "2026-03-29T00:31:57.453Z"
+generated_at: "2026-03-29T02:14:18.652Z"
 ---
 
 # § 3062. Relative rank of officers when serving with Army, Navy, or Air Force

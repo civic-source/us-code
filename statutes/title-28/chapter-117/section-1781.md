@@ -5,14 +5,14 @@ usc_section: "1781"
 chapter: 117
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1781"
-generated_at: "2026-03-29T00:31:24.188Z"
+generated_at: "2026-03-29T02:14:04.561Z"
 ---
 
 # § 1781. Transmittal of letter rogatory or request
 
-(a) The Department of State has power, directly, or through suitable channels—
-  (1) to receive a letter rogatory issued, or request made, by a foreign or international tribunal, to transmit it to the tribunal, officer, or agency in the United States to whom it is addressed, and to receive and return it after execution; and
-  (2) to receive a letter rogatory issued, or request made, by a tribunal in the United States, to transmit it to the foreign or international tribunal, officer, or agency to whom it is addressed, and to receive and return it after execution.
-(b) This section does not preclude—
-  (1) the transmittal of a letter rogatory or request directly from a foreign or international tribunal to the tribunal, officer, or agency in the United States to whom it is addressed and its return in the same manner; or
-  (2) the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.
+- **(a)** The Department of State has power, directly, or through suitable channels—
+  - **(1)** to receive a letter rogatory issued, or request made, by a foreign or international tribunal, to transmit it to the tribunal, officer, or agency in the United States to whom it is addressed, and to receive and return it after execution; and
+  - **(2)** to receive a letter rogatory issued, or request made, by a tribunal in the United States, to transmit it to the foreign or international tribunal, officer, or agency to whom it is addressed, and to receive and return it after execution.
+- **(b)** This section does not preclude—
+  - **(1)** the transmittal of a letter rogatory or request directly from a foreign or international tribunal to the tribunal, officer, or agency in the United States to whom it is addressed and its return in the same manner; or
+  - **(2)** the transmittal of a letter rogatory or request directly from a tribunal in the United States to the foreign or international tribunal, officer, or agency to whom it is addressed and its return in the same manner.

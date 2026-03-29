@@ -5,34 +5,34 @@ usc_section: "1514A"
 chapter: 73
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1514A"
-generated_at: "2026-03-29T00:30:15.672Z"
+generated_at: "2026-03-29T02:12:02.416Z"
 ---
 
 # § 1514A. Civil action to protect against retaliation in fraud cases
 
-(a) No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 l ), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 o (d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c ), 1 1 So in original. Another closing parenthesis probably should precede the comma. or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
-  (1) to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
-    (A) a Federal regulatory or law enforcement agency;
-    (B) any Member of Congress or any committee of Congress; or
-    (C) a person with supervisory authority over the employee (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct); or
-  (2) to file, cause to be filed, testify, participate in, or otherwise assist in a proceeding filed or about to be filed (with any knowledge of the employer) relating to an alleged violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders.
-(b) 
-  (1) A person who alleges discharge or other discrimination by any person in violation of subsection (a) may seek relief under subsection (c), by—
-    (A) filing a complaint with the Secretary of Labor; or
-    (B) if the Secretary has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
-  (2) 
-    (A) An action under paragraph (1)(A) shall be governed under the rules and procedures set forth in section 42121(b) of title 49 , United States Code.
-    (B) Notification made under section 42121(b)(1) of title 49 , United States Code, shall be made to the person named in the complaint and to the employer.
-    (C) An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49 , United States Code.
-    (D) An action under paragraph (1) shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.
-    (E) A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.
-(c) 
-  (1) An employee prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the employee whole.
-  (2) Relief for any action under paragraph (1) shall include—
-    (A) reinstatement with the same seniority status that the employee would have had, but for the discrimination;
-    (B) the amount of back pay, with interest; and
-    (C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
-(d) Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
-(e) 
-  (1) The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
-  (2) No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
+- **(a)** No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 l ), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 o (d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c ), 1 1 So in original. Another closing parenthesis probably should precede the comma. or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
+  - **(1)** to provide information, cause information to be provided, or otherwise assist in an investigation regarding any conduct which the employee reasonably believes constitutes a violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders, when the information or assistance is provided to or the investigation is conducted by—
+    - **(A)** a Federal regulatory or law enforcement agency;
+    - **(B)** any Member of Congress or any committee of Congress; or
+    - **(C)** a person with supervisory authority over the employee (or such other person working for the employer who has the authority to investigate, discover, or terminate misconduct); or
+  - **(2)** to file, cause to be filed, testify, participate in, or otherwise assist in a proceeding filed or about to be filed (with any knowledge of the employer) relating to an alleged violation of section 1341, 1343, 1344, or 1348, any rule or regulation of the Securities and Exchange Commission, or any provision of Federal law relating to fraud against shareholders.
+- **(b)**
+  - **(1)** A person who alleges discharge or other discrimination by any person in violation of subsection (a) may seek relief under subsection (c), by—
+    - **(A)** filing a complaint with the Secretary of Labor; or
+    - **(B)** if the Secretary has not issued a final decision within 180 days of the filing of the complaint and there is no showing that such delay is due to the bad faith of the claimant, bringing an action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy.
+  - **(2)**
+    - **(A)** An action under paragraph (1)(A) shall be governed under the rules and procedures set forth in section 42121(b) of title 49 , United States Code.
+    - **(B)** Notification made under section 42121(b)(1) of title 49 , United States Code, shall be made to the person named in the complaint and to the employer.
+    - **(C)** An action brought under paragraph (1)(B) shall be governed by the legal burdens of proof set forth in section 42121(b) of title 49 , United States Code.
+    - **(D)** An action under paragraph (1) shall be commenced not later than 180 days after the date on which the violation occurs, or after the date on which the employee became aware of the violation.
+    - **(E)** A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.
+- **(c)**
+  - **(1)** An employee prevailing in any action under subsection (b)(1) shall be entitled to all relief necessary to make the employee whole.
+  - **(2)** Relief for any action under paragraph (1) shall include—
+    - **(A)** reinstatement with the same seniority status that the employee would have had, but for the discrimination;
+    - **(B)** the amount of back pay, with interest; and
+    - **(C)** compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+- **(d)** Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law, or under any collective bargaining agreement.
+- **(e)**
+  - **(1)** The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+  - **(2)** No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.

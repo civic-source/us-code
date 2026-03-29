@@ -5,7 +5,7 @@ usc_section: "634"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 634"
-generated_at: "2026-03-29T00:31:57.225Z"
+generated_at: "2026-03-29T02:14:18.504Z"
 ---
 
 # § 634. Assistance relating to water supply

@@ -5,7 +5,7 @@ usc_section: "42106"
 chapter: 421
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 42106"
-generated_at: "2026-03-29T00:33:13.881Z"
+generated_at: "2026-03-29T02:16:09.016Z"
 ---
 
 # [§§ 42101 to 42106. Repealed. Pub. L. 105–220, title I, § 199(a)(6) , Aug. 7, 1998 , 112 Stat. 1059 ]

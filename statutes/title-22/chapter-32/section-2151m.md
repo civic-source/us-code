@@ -5,7 +5,7 @@ usc_section: "2151m"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2151m"
-generated_at: "2026-03-29T00:30:33.759Z"
+generated_at: "2026-03-29T02:12:40.029Z"
 ---
 
 # §§ 2151l, 2151m. Repealed. Pub. L. 95–424, title I , §§ 102(f), 104(b), Oct. 6, 1978 , 92 Stat. 942 , 947

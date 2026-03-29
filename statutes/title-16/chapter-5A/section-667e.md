@@ -5,7 +5,7 @@ usc_section: "667e"
 chapter: 5
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 667e"
-generated_at: "2026-03-29T00:29:52.591Z"
+generated_at: "2026-03-29T02:11:53.629Z"
 ---
 
 # § 667e. Repealed. Pub. L. 97–79, § 9(b)(2) , Nov. 16, 1981 , 95 Stat. 1079

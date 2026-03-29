@@ -5,11 +5,11 @@ usc_section: "2631"
 chapter: 13
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 2631"
-generated_at: "2026-03-29T00:31:20.915Z"
+generated_at: "2026-03-29T02:14:01.172Z"
 ---
 
 # § 2631. GST exemption
 
-(a) For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
-(b) Any allocation under subsection (a), once made, shall be irrevocable.
-(c) For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.
+- **(a)** For purposes of determining the inclusion ratio, every individual shall be allowed a GST exemption amount which may be allocated by such individual (or his executor) to any property with respect to which such individual is the transferor.
+- **(b)** Any allocation under subsection (a), once made, shall be irrevocable.
+- **(c)** For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the basic exclusion amount under section 2010(c) for such calendar year.

@@ -5,18 +5,18 @@ usc_section: "18304"
 chapter: 183
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 18304"
-generated_at: "2026-03-29T00:32:20.588Z"
+generated_at: "2026-03-29T02:14:58.818Z"
 ---
 
 # § 18304. Procedures for enforcement of awards
 
-(a) Within 10 days after the parties receive an arbitration award to which section 18303 of this title applies, the interstate compact agency and the employees, through their representative, may agree in writing on any modifications to the award. After the end of that 10-day period, the award, and any modifications, become binding on the interstate compact agency, the employees in the bargaining unit, and the employees’ representative.
-(b) Each party to an award that becomes binding under subsection (a) shall take all actions necessary to implement the award.
-(c) Within 60 days after an award becomes binding under subsection (a), the interstate compact agency or the exclusive representative of the employees concerned may bring a civil action in a court that has jurisdiction over the interstate compact agency for review of the award. The court shall review the award on the record, and shall vacate the award or any part of the award, after notice and a hearing, if—
-  (1) the award is in violation of applicable law;
-  (2) the arbitrator exceeded the arbitrator’s powers;
-  (3) the decision by the arbitrator is arbitrary or capricious;
-  (4) the arbitrator conducted the hearing contrary to the provisions of this chapter or other laws or rules that apply to the arbitration so as to substantially prejudice the rights of a party;
-  (5) there was partiality or misconduct by the arbitrator prejudicing the rights of a party;
-  (6) the award was procured by corruption, fraud, or bias on the part of the arbitrator; or
-  (7) the arbitrator did not comply with the provisions of section 18303 of this title .
+- **(a)** Within 10 days after the parties receive an arbitration award to which section 18303 of this title applies, the interstate compact agency and the employees, through their representative, may agree in writing on any modifications to the award. After the end of that 10-day period, the award, and any modifications, become binding on the interstate compact agency, the employees in the bargaining unit, and the employees’ representative.
+- **(b)** Each party to an award that becomes binding under subsection (a) shall take all actions necessary to implement the award.
+- **(c)** Within 60 days after an award becomes binding under subsection (a), the interstate compact agency or the exclusive representative of the employees concerned may bring a civil action in a court that has jurisdiction over the interstate compact agency for review of the award. The court shall review the award on the record, and shall vacate the award or any part of the award, after notice and a hearing, if—
+  - **(1)** the award is in violation of applicable law;
+  - **(2)** the arbitrator exceeded the arbitrator’s powers;
+  - **(3)** the decision by the arbitrator is arbitrary or capricious;
+  - **(4)** the arbitrator conducted the hearing contrary to the provisions of this chapter or other laws or rules that apply to the arbitration so as to substantially prejudice the rights of a party;
+  - **(5)** there was partiality or misconduct by the arbitrator prejudicing the rights of a party;
+  - **(6)** the award was procured by corruption, fraud, or bias on the part of the arbitrator; or
+  - **(7)** the arbitrator did not comply with the provisions of section 18303 of this title .

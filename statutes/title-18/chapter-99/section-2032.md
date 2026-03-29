@@ -5,7 +5,7 @@ usc_section: "2032"
 chapter: 99
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2032"
-generated_at: "2026-03-29T00:30:15.692Z"
+generated_at: "2026-03-29T02:12:02.434Z"
 ---
 
 # [§§ 2031, 2032. Repealed. Pub. L. 99–646, § 87(c)(1) , Nov. 10, 1986 , 100 Stat. 3623 ; Pub. L. 99–654, § 3(a)(1) , Nov. 14, 1986 , 100 Stat. 3663 ]

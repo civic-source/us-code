@@ -5,7 +5,7 @@ usc_section: "291"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 291"
-generated_at: "2026-03-29T00:33:06.592Z"
+generated_at: "2026-03-29T02:16:00.796Z"
 ---
 
 # §§ 261 to 291. Repealed. Apr. 13, 1934, ch. 119, § 1 , 48 Stat. 583

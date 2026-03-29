@@ -5,7 +5,7 @@ usc_section: "1449"
 chapter: 89
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1449"
-generated_at: "2026-03-29T00:31:24.179Z"
+generated_at: "2026-03-29T02:14:04.553Z"
 ---
 
 # § 1449. State court record supplied

@@ -5,7 +5,7 @@ usc_section: "3605"
 chapter: 49
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3605"
-generated_at: "2026-03-29T00:31:57.465Z"
+generated_at: "2026-03-29T02:14:18.663Z"
 ---
 
 # § 3605. Application with other laws

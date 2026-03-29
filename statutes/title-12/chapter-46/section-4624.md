@@ -5,11 +5,11 @@ usc_section: "4624"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4624"
-generated_at: "2026-03-29T00:29:16.848Z"
+generated_at: "2026-03-29T02:11:21.216Z"
 ---
 
 # § 4624. Reviews of enterprise assets and liabilities
 
-(a) The Director shall, by regulation, establish criteria governing the portfolio holdings of the enterprises, to ensure that the holdings are backed by sufficient capital and consistent with the mission and the safe and sound operations of the enterprises. In establishing such criteria, the Director shall consider the ability of the enterprises to provide a liquid secondary market through securitization activities, the portfolio holdings in relation to the overall mortgage market, and adherence to the standards specified in section 4513b of this title .
-(b) The Director may, by order, make temporary adjustments to the established standards for an enterprise or both enterprises, such as during times of economic distress or market disruption.
-(c) The Director shall monitor the portfolio of each enterprise. Pursuant to subsection (a) and notwithstanding the capital classifications of the enterprises, the Director may, by order, require an enterprise, under such terms and conditions as the Director determines to be appropriate, to dispose of or acquire any asset, if the Director determines that such action is consistent with the purposes of this Act or any of the authorizing statutes.
+- **(a)** The Director shall, by regulation, establish criteria governing the portfolio holdings of the enterprises, to ensure that the holdings are backed by sufficient capital and consistent with the mission and the safe and sound operations of the enterprises. In establishing such criteria, the Director shall consider the ability of the enterprises to provide a liquid secondary market through securitization activities, the portfolio holdings in relation to the overall mortgage market, and adherence to the standards specified in section 4513b of this title .
+- **(b)** The Director may, by order, make temporary adjustments to the established standards for an enterprise or both enterprises, such as during times of economic distress or market disruption.
+- **(c)** The Director shall monitor the portfolio of each enterprise. Pursuant to subsection (a) and notwithstanding the capital classifications of the enterprises, the Director may, by order, require an enterprise, under such terms and conditions as the Director determines to be appropriate, to dispose of or acquire any asset, if the Director determines that such action is consistent with the purposes of this Act or any of the authorizing statutes.

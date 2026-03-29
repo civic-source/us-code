@@ -5,7 +5,7 @@ usc_section: "3002"
 chapter: 63
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3002"
-generated_at: "2026-03-29T00:28:58.157Z"
+generated_at: "2026-03-29T02:10:16.979Z"
 ---
 
 # § 3002. Definitions

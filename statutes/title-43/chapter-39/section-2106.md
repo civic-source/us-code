@@ -5,11 +5,11 @@ usc_section: "2106"
 chapter: 39
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2106"
-generated_at: "2026-03-29T00:32:57.459Z"
+generated_at: "2026-03-29T02:15:47.651Z"
 ---
 
 # § 2106. Relationship to other laws
 
-(a) The law of salvage and the law of finds shall not apply to abandoned shipwrecks to which section 2105 of this title applies.
-(b) This chapter shall not change the laws of the United States relating to shipwrecks, other than those to which this chapter applies.
-(c) This chapter shall not affect any legal proceeding brought prior to April 28, 1988 .
+- **(a)** The law of salvage and the law of finds shall not apply to abandoned shipwrecks to which section 2105 of this title applies.
+- **(b)** This chapter shall not change the laws of the United States relating to shipwrecks, other than those to which this chapter applies.
+- **(c)** This chapter shall not affect any legal proceeding brought prior to April 28, 1988 .

@@ -5,40 +5,40 @@ usc_section: "9634"
 chapter: 103
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9634"
-generated_at: "2026-03-29T00:30:34.061Z"
+generated_at: "2026-03-29T02:12:40.507Z"
 ---
 
 # § 9634. Corporate funds
 
-(a) There is established in the Treasury of the United States a fund to be known as the “Corporate Capital Account” to carry out the purposes of the Corporation.
-(b) The Corporate Capital Account shall consist of—
-  (1) fees charged and collected pursuant to subsection (c);
-  (2) any amounts received pursuant to subsection (e);
-  (3) investments and returns on such investments pursuant to subsection (g);
-  (4) unexpended balances transferred to the Corporation pursuant to subsection (i);
-  (5) payments received in connection with settlements of all insurance and reinsurance claims of the Corporation; and
-  (6) all other collections transferred to or earned by the Corporation, excluding the cost, as defined in section 661a of title 2 , of loans and loan guaranties.
-(c) Fees may be charged and collected for providing services in amounts to be determined by the Corporation.
-(d) 
-  (1) Subject to Acts making appropriations, the Corporation is authorized to pay—
-    (A) the cost, as defined in section 661a of title 2 , of loans and loan guaranties;
-    (B) administrative expenses of the Corporation;
-    (C) for the cost of providing support authorized by subsections (c), (e), (f), and (g) of section 9621 of this title ; 1 1 So in original. Probably should be followed by “and”.
-    (D) project-specific transaction costs.
-  (2) In order to carry out the purposes of the Corporation, all collections transferred to or earned by the Corporation, excluding the cost, as defined in section 661a of title 2 , of loans and loan guaranties, shall be deposited into the Corporate Capital Account and shall be available to carry out its purpose, including without limitation—
-    (A) payment of all insurance and reinsurance claims of the Corporation;
-    (B) repayments to the Treasury of amounts borrowed under subsection (e); and
-    (C) dividend payments to the Treasury under subsection (f).
-(e) 
-  (1) All support provided pursuant to predecessor authorities or subchapter II of this chapter shall continue to constitute obligations of the United States, and the full faith and credit of the United States is hereby pledged for the full payment and performance of such obligations.
-  (2) The Corporation is authorized to borrow from the Treasury such sums as may be necessary to fulfill such obligations of the United States and any such borrowing shall be at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States of comparable maturities, for a period jointly determined by the Corporation and the Secretary, and subject to such terms and conditions as the Secretary may require.
-(f) The Board, in consultation with the Director of the Office of Management and Budget, shall annually assess a dividend payment to the Treasury if the Corporation’s insurance portfolio is more than 100 percent reserved.
-(g) 
-  (1) The Corporation may request the Secretary of the Treasury to invest such portion of the Corporate Capital Account as is not, in the Corporation’s judgment, required to meet the current needs of the Corporate Capital Account.
-  (2) Such investments shall be made by the Secretary of the Treasury in public debt obligations, with maturities suitable to the needs of the Corporate Capital Account, as determined by the Corporation, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
-(h) Interest earnings made pursuant to subsection (g), earnings collected related to equity investments, and amounts, excluding fees related to insurance or reinsurance, collected pursuant to subsection (c), shall not be collected for any fiscal year except to the extent provided in advance in appropriations Acts.
-(i) By the end of the transition period described in subchapter VI of this chapter, the unexpended balances, assets, and responsibilities of any agency specified in the plan required by section 9682 of this title shall be transferred to the Corporation.
-(j) In order to carry out this chapter, funds authorized to be appropriated to carry out the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) may be transferred to the Corporation and funds authorized to be appropriated to the Corporation may be transferred to the Department of State and the United States Agency for International Development.
-(k) In this section, the term “project-specific transaction costs”—
-  (1) means those costs incurred by the Corporation for travel, legal expenses, and direct and indirect costs incurred in claims settlements associated with the provision of support under subchapter II of this chapter and shall not be considered administrative expenses for the purposes of this section; and
-  (2) does not include information technology (as such term is defined in section 11101 of title 40 ).
+- **(a)** There is established in the Treasury of the United States a fund to be known as the “Corporate Capital Account” to carry out the purposes of the Corporation.
+- **(b)** The Corporate Capital Account shall consist of—
+  - **(1)** fees charged and collected pursuant to subsection (c);
+  - **(2)** any amounts received pursuant to subsection (e);
+  - **(3)** investments and returns on such investments pursuant to subsection (g);
+  - **(4)** unexpended balances transferred to the Corporation pursuant to subsection (i);
+  - **(5)** payments received in connection with settlements of all insurance and reinsurance claims of the Corporation; and
+  - **(6)** all other collections transferred to or earned by the Corporation, excluding the cost, as defined in section 661a of title 2 , of loans and loan guaranties.
+- **(c)** Fees may be charged and collected for providing services in amounts to be determined by the Corporation.
+- **(d)**
+  - **(1)** Subject to Acts making appropriations, the Corporation is authorized to pay—
+    - **(A)** the cost, as defined in section 661a of title 2 , of loans and loan guaranties;
+    - **(B)** administrative expenses of the Corporation;
+    - **(C)** for the cost of providing support authorized by subsections (c), (e), (f), and (g) of section 9621 of this title ; 1 1 So in original. Probably should be followed by “and”.
+    - **(D)** project-specific transaction costs.
+  - **(2)** In order to carry out the purposes of the Corporation, all collections transferred to or earned by the Corporation, excluding the cost, as defined in section 661a of title 2 , of loans and loan guaranties, shall be deposited into the Corporate Capital Account and shall be available to carry out its purpose, including without limitation—
+    - **(A)** payment of all insurance and reinsurance claims of the Corporation;
+    - **(B)** repayments to the Treasury of amounts borrowed under subsection (e); and
+    - **(C)** dividend payments to the Treasury under subsection (f).
+- **(e)**
+  - **(1)** All support provided pursuant to predecessor authorities or subchapter II of this chapter shall continue to constitute obligations of the United States, and the full faith and credit of the United States is hereby pledged for the full payment and performance of such obligations.
+  - **(2)** The Corporation is authorized to borrow from the Treasury such sums as may be necessary to fulfill such obligations of the United States and any such borrowing shall be at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States of comparable maturities, for a period jointly determined by the Corporation and the Secretary, and subject to such terms and conditions as the Secretary may require.
+- **(f)** The Board, in consultation with the Director of the Office of Management and Budget, shall annually assess a dividend payment to the Treasury if the Corporation’s insurance portfolio is more than 100 percent reserved.
+- **(g)**
+  - **(1)** The Corporation may request the Secretary of the Treasury to invest such portion of the Corporate Capital Account as is not, in the Corporation’s judgment, required to meet the current needs of the Corporate Capital Account.
+  - **(2)** Such investments shall be made by the Secretary of the Treasury in public debt obligations, with maturities suitable to the needs of the Corporate Capital Account, as determined by the Corporation, and bearing interest at rates determined by the Secretary, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+- **(h)** Interest earnings made pursuant to subsection (g), earnings collected related to equity investments, and amounts, excluding fees related to insurance or reinsurance, collected pursuant to subsection (c), shall not be collected for any fiscal year except to the extent provided in advance in appropriations Acts.
+- **(i)** By the end of the transition period described in subchapter VI of this chapter, the unexpended balances, assets, and responsibilities of any agency specified in the plan required by section 9682 of this title shall be transferred to the Corporation.
+- **(j)** In order to carry out this chapter, funds authorized to be appropriated to carry out the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) may be transferred to the Corporation and funds authorized to be appropriated to the Corporation may be transferred to the Department of State and the United States Agency for International Development.
+- **(k)** In this section, the term “project-specific transaction costs”—
+  - **(1)** means those costs incurred by the Corporation for travel, legal expenses, and direct and indirect costs incurred in claims settlements associated with the provision of support under subchapter II of this chapter and shall not be considered administrative expenses for the purposes of this section; and
+  - **(2)** does not include information technology (as such term is defined in section 11101 of title 40 ).

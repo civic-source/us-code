@@ -5,13 +5,13 @@ usc_section: "1402"
 chapter: 18
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1402"
-generated_at: "2026-03-29T00:31:27.684Z"
+generated_at: "2026-03-29T02:14:09.476Z"
 ---
 
 # § 1402. Reimbursements for uncollectible withdrawal liability
 
-(a) By May 1, 1982 , the corporation shall establish by regulation a supplemental program to reimburse multiemployer plans for withdrawal liability payments which are due from employers and which are determined to be uncollectible for reasons arising out of cases or proceedings involving the employers under title 11, or similar cases or proceedings. Participation in the supplemental program shall be on a voluntary basis, and a plan which elects coverage under the program shall pay premiums to the corporation in accordance with a premium schedule which shall be prescribed from time to time by the corporation. The premium schedule shall contain such rates and bases for the application of such rates as the corporation considers to be appropriate.
-(b) The corporation may provide under the program for reimbursement of amounts of withdrawal liability determined to be uncollectible for any other reasons the corporation considers appropriate.
-(c) The cost of the program (including such administrative and legal costs as the corporation considers appropriate) may be paid only out of premiums collected under such program.
-(d) The supplemental program may be offered to eligible plans on such terms and conditions, and with such limitations with respect to the payment of reimbursements (including the exclusion of de minimis amounts of uncollectible employer liability, and the reduction or elimination of reimbursements which cannot be paid from collected premiums) and such restrictions on withdrawal from the program, as the corporation considers necessary and appropriate.
-(e) The corporation may enter into arrangements with private insurers to carry out in whole or in part the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.
+- **(a)** By May 1, 1982 , the corporation shall establish by regulation a supplemental program to reimburse multiemployer plans for withdrawal liability payments which are due from employers and which are determined to be uncollectible for reasons arising out of cases or proceedings involving the employers under title 11, or similar cases or proceedings. Participation in the supplemental program shall be on a voluntary basis, and a plan which elects coverage under the program shall pay premiums to the corporation in accordance with a premium schedule which shall be prescribed from time to time by the corporation. The premium schedule shall contain such rates and bases for the application of such rates as the corporation considers to be appropriate.
+- **(b)** The corporation may provide under the program for reimbursement of amounts of withdrawal liability determined to be uncollectible for any other reasons the corporation considers appropriate.
+- **(c)** The cost of the program (including such administrative and legal costs as the corporation considers appropriate) may be paid only out of premiums collected under such program.
+- **(d)** The supplemental program may be offered to eligible plans on such terms and conditions, and with such limitations with respect to the payment of reimbursements (including the exclusion of de minimis amounts of uncollectible employer liability, and the reduction or elimination of reimbursements which cannot be paid from collected premiums) and such restrictions on withdrawal from the program, as the corporation considers necessary and appropriate.
+- **(e)** The corporation may enter into arrangements with private insurers to carry out in whole or in part the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.

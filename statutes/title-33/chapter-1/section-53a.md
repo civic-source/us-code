@@ -5,7 +5,7 @@ usc_section: "53a"
 chapter: 1
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 53a"
-generated_at: "2026-03-29T00:31:57.059Z"
+generated_at: "2026-03-29T02:14:18.469Z"
 ---
 
 # § 53a. Additional portion of Benton Harbor Canal, abandoned as navigable water

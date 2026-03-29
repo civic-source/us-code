@@ -5,7 +5,7 @@ usc_section: "1102"
 chapter: 11
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1102"
-generated_at: "2026-03-29T00:31:52.582Z"
+generated_at: "2026-03-29T02:14:14.038Z"
 ---
 
 # § 1102. Fiscal year

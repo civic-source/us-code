@@ -1,0 +1,14 @@
+---
+title: "Section 1453 - Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status"
+usc_title: 8
+usc_section: "1453"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1453"
+generated_at: "2026-03-29T02:10:21.474Z"
+---
+
+# § 1453. Cancellation of certificates issued by Attorney General, the Commissioner or a Deputy Commissioner; action not to affect citizenship status
+
+The Attorney General is authorized to cancel any certificate of citizenship, certificate of naturalization, copy of a declaration of intention, or other certificate, document or record heretofore issued or made by the Commissioner or a Deputy Commissioner or hereafter made by the Attorney General if it shall appear to the Attorney General’s satisfaction that such document or record was illegally or fraudulently obtained from, or was created through illegality or by fraud practiced upon, him or the Commissioner or a Deputy Commissioner; but the person for or to whom such document or record has been issued or made shall be given at such person’s last-known place of address written notice of the intention to cancel such document or record with the reasons therefor and shall be given at least sixty days in which to show cause why such document or record should not be canceled. The cancellation under this section of any document purporting to show the citizenship status of the person to whom it was issued shall affect only the document and not the citizenship status of the person in whose name the document was issued.
+

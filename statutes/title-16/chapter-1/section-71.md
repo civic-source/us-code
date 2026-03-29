@@ -5,10 +5,10 @@ usc_section: "71"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 71"
-generated_at: "2026-03-29T00:29:52.513Z"
+generated_at: "2026-03-29T02:11:53.547Z"
 ---
 
 # § 460nnn–71. Designation of streams for wild and scenic river status in Steens Mountain Area
 
-(a) 
-(c) Where management requirements for a stream segment described in the amendments made by this section differ between the Wild and Scenic Rivers Act ( 16 U.S.C. 1271 et seq.) and the Wilderness Area, the more restrictive requirements shall apply.
+- **(a)**
+- **(c)** Where management requirements for a stream segment described in the amendments made by this section differ between the Wild and Scenic Rivers Act ( 16 U.S.C. 1271 et seq.) and the Wilderness Area, the more restrictive requirements shall apply.

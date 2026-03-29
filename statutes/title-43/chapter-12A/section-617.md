@@ -5,7 +5,7 @@ usc_section: "617"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 617"
-generated_at: "2026-03-29T00:32:57.369Z"
+generated_at: "2026-03-29T02:15:47.557Z"
 ---
 
 # § 617. Colorado River Basin; protection and development; dam, reservoir, and incidental works; water, water power, and electrical energy; eminent domain

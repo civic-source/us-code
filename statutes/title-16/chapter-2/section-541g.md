@@ -5,15 +5,15 @@ usc_section: "541g"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 541g"
-generated_at: "2026-03-29T00:29:52.555Z"
+generated_at: "2026-03-29T02:11:53.592Z"
 ---
 
 # § 541g. Advisory council for scenic-research area; membership; designation of chairman; compensation; consultation by Secretary
 
-(a) The Secretary, pursuant to chapter 10 of title 5, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
-  (1) a member to represent each county in which a portion of the Area is located, each such appointee to be designated by the respective governing body of the county involved;
-  (2) a member appointed to represent the State of Oregon, who shall be designated by the Governor of Oregon; and
-  (3) not to exceed eight members appointed by the Secretary from among persons who, individually or through association with national or local organizations, have an interest in the administration of the Area.
-(b) The Secretary shall designate one member to be chairman and shall fill vacancies in the same manner as the original appointment.
-(c) The members shall not receive any compensation for their services as members of the advisory council, but they shall be reimbursed for travel expenses and shall be allowed, as appropriate, per diem or actual subsistence expenses.
-(d) In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.
+- **(a)** The Secretary, pursuant to chapter 10 of title 5, shall establish an advisory council for the Area, and shall consult on a periodic and regular basis with such council with respect to matters relating to management of the Area. The members of the advisory council, who shall not exceed eleven in number, shall serve for the individual staggered terms of three years each and shall be appointed by the Secretary as follows—
+  - **(1)** a member to represent each county in which a portion of the Area is located, each such appointee to be designated by the respective governing body of the county involved;
+  - **(2)** a member appointed to represent the State of Oregon, who shall be designated by the Governor of Oregon; and
+  - **(3)** not to exceed eight members appointed by the Secretary from among persons who, individually or through association with national or local organizations, have an interest in the administration of the Area.
+- **(b)** The Secretary shall designate one member to be chairman and shall fill vacancies in the same manner as the original appointment.
+- **(c)** The members shall not receive any compensation for their services as members of the advisory council, but they shall be reimbursed for travel expenses and shall be allowed, as appropriate, per diem or actual subsistence expenses.
+- **(d)** In addition to his consultation with the advisory council, the Secretary shall seek the views of other private groups, individuals, and the public, and shall seek the views and assistance of, and cooperate with all other Federal, State, and local agencies with responsibilities for zoning, planning, migratory fish, waterfowl, and marine animals, water, and natural resources, and all nonprofit agencies and organizations which may contribute information or expertise about the resources, and the management, of the Area, in order that the knowledge, expertise and views of all agencies and groups may contribute affirmatively to the most sensitive present and future use of the Area and its various subareas for the benefit of the public.

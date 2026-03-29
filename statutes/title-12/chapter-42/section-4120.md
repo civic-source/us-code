@@ -5,7 +5,7 @@ usc_section: "4120"
 chapter: 42
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4120"
-generated_at: "2026-03-29T00:29:16.811Z"
+generated_at: "2026-03-29T02:11:21.187Z"
 ---
 
 # § 4120. Notice to tenants

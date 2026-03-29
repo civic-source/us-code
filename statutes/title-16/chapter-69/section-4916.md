@@ -5,12 +5,12 @@ usc_section: "4916"
 chapter: 69
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 4916"
-generated_at: "2026-03-29T00:29:52.846Z"
+generated_at: "2026-03-29T02:11:53.945Z"
 ---
 
 # § 4916. Relationship to State law
 
 Nothing in this chapter may be construed as precluding the regulation under State law of the sale, transfer, or possession of exotic birds if such regulation—
 
-  (1) does not authorize any sale, transfer, or possession of exotic birds that is prohibited under this chapter; and
-  (2) is consistent with the international obligations of the United States.
+  - **(1)** does not authorize any sale, transfer, or possession of exotic birds that is prohibited under this chapter; and
+  - **(2)** is consistent with the international obligations of the United States.

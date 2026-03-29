@@ -5,15 +5,15 @@ usc_section: "5401"
 chapter: 80
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5401"
-generated_at: "2026-03-29T00:29:41.876Z"
+generated_at: "2026-03-29T02:11:34.381Z"
 ---
 
 # § 5401. Findings
 
 The Congress finds that—
 
-  (1) the United States fastener industry is a significant contributor to the global economy, employing thousands of workers in hundreds of communities;
-  (2) the American economy uses billions of fasteners each year;
-  (3) state-of-the-art manufacturing and improved quality assurance systems have dramatically improved fastener quality, so virtually all fasteners sold in commerce meet or exceed the consensus standards for the uses to which they are applied;
-  (4) a small number of mismarked, misrepresented, and counterfeit fasteners do enter commerce in the United States; and
-  (5) multiple criteria for the identification of fasteners exist, including grade identification markings and manufacturer’s insignia, to enable purchasers and users of fasteners to accurately evaluate the characteristics of individual fasteners.
+  - **(1)** the United States fastener industry is a significant contributor to the global economy, employing thousands of workers in hundreds of communities;
+  - **(2)** the American economy uses billions of fasteners each year;
+  - **(3)** state-of-the-art manufacturing and improved quality assurance systems have dramatically improved fastener quality, so virtually all fasteners sold in commerce meet or exceed the consensus standards for the uses to which they are applied;
+  - **(4)** a small number of mismarked, misrepresented, and counterfeit fasteners do enter commerce in the United States; and
+  - **(5)** multiple criteria for the identification of fasteners exist, including grade identification markings and manufacturer’s insignia, to enable purchasers and users of fasteners to accurately evaluate the characteristics of individual fasteners.

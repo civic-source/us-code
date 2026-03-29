@@ -5,7 +5,7 @@ usc_section: "1806"
 chapter: 18
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1806"
-generated_at: "2026-03-29T00:32:17.208Z"
+generated_at: "2026-03-29T02:14:50.372Z"
 ---
 
 # [§ 1806. Repealed. Pub. L. 106–419, title IV, § 401(c)(3) , Nov. 1, 2000 , 114 Stat. 1860 ]

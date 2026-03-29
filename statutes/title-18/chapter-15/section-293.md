@@ -5,7 +5,7 @@ usc_section: "293"
 chapter: 15
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 293"
-generated_at: "2026-03-29T00:30:15.611Z"
+generated_at: "2026-03-29T02:12:02.366Z"
 ---
 
 # [§ 293. Repealed. Pub. L. 101–123, § 3(a) , Oct. 23, 1989 , 103 Stat. 760 ]

@@ -5,7 +5,7 @@ usc_section: "94"
 chapter: 5
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 94"
-generated_at: "2026-03-29T00:31:24.112Z"
+generated_at: "2026-03-29T02:14:04.505Z"
 ---
 
 # § 94. Indiana

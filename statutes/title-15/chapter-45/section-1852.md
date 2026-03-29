@@ -5,7 +5,7 @@ usc_section: "1852"
 chapter: 45
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1852"
-generated_at: "2026-03-29T00:29:41.754Z"
+generated_at: "2026-03-29T02:11:34.249Z"
 ---
 
 # § 1852. Termination date

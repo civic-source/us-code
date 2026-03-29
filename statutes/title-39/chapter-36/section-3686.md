@@ -5,21 +5,21 @@ usc_section: "3686"
 chapter: 36
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3686"
-generated_at: "2026-03-29T00:32:18.863Z"
+generated_at: "2026-03-29T02:14:53.136Z"
 ---
 
 # § 3686. Bonus authority
 
-(a) The Postal Service may establish 1 or more programs to provide bonuses or other rewards to officers and employees of the Postal Service in senior executive or equivalent positions to achieve the objectives of this chapter.
-(b) 
-  (1) Under any such program, the Postal Service may award a bonus or other reward in excess of the limitation set forth in the last sentence of section 1003(a), if such program has been approved under paragraph (2). Any such award or bonus may not cause the total compensation of such officer or employee to exceed the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which the bonus or award is paid.
-  (2) If the Postal Service wishes to have the authority, under any program described in subsection (a), to award bonuses or other rewards in excess of the limitation set forth in the last sentence of section 1003(a)—
-    (A) the Postal Service shall make an appropriate request to the Board of Governors of the Postal Service in such form and manner as the Board requires; and
-    (B) the Board of Governors shall approve any such request if the Board certifies, for the annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
-  (3) If the Board of Governors of the Postal Service finds that a performance appraisal system previously approved under paragraph (2)(B) does not (as designed and applied) make meaningful distinctions based on relative performance, the Board may revoke or suspend the authority of the Postal Service to continue a program approved under paragraph (2) until such time as appropriate corrective measures have, in the judgment of the Board, been taken.
-(c) Notwithstanding any other provision of law, the Board of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
-(d) Included in its comprehensive statement under section 2401(e) for any period shall be—
-  (1) the name of each person receiving a bonus or other payment during such period which would not have been allowable but for the provisions of subsection (b) or (c);
-  (2) the amount of the bonus or other payment; and
-  (3) the amount by which the limitation set forth in the last sentence of section 1003(a) was exceeded as a result of such bonus or other payment.
-(e) The Board of Governors may prescribe regulations for the administration of this section.
+- **(a)** The Postal Service may establish 1 or more programs to provide bonuses or other rewards to officers and employees of the Postal Service in senior executive or equivalent positions to achieve the objectives of this chapter.
+- **(b)**
+  - **(1)** Under any such program, the Postal Service may award a bonus or other reward in excess of the limitation set forth in the last sentence of section 1003(a), if such program has been approved under paragraph (2). Any such award or bonus may not cause the total compensation of such officer or employee to exceed the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which the bonus or award is paid.
+  - **(2)** If the Postal Service wishes to have the authority, under any program described in subsection (a), to award bonuses or other rewards in excess of the limitation set forth in the last sentence of section 1003(a)—
+    - **(A)** the Postal Service shall make an appropriate request to the Board of Governors of the Postal Service in such form and manner as the Board requires; and
+    - **(B)** the Board of Governors shall approve any such request if the Board certifies, for the annual appraisal period involved, that the performance appraisal system for affected officers and employees of the Postal Service (as designed and applied) makes meaningful distinctions based on relative performance.
+  - **(3)** If the Board of Governors of the Postal Service finds that a performance appraisal system previously approved under paragraph (2)(B) does not (as designed and applied) make meaningful distinctions based on relative performance, the Board may revoke or suspend the authority of the Postal Service to continue a program approved under paragraph (2) until such time as appropriate corrective measures have, in the judgment of the Board, been taken.
+- **(c)** Notwithstanding any other provision of law, the Board of Governors may allow up to 12 officers or employees of the Postal Service in critical senior executive or equivalent positions to receive total compensation in an amount not to exceed 120 percent of the total annual compensation payable to the Vice President under section 104 of title 3 as of the end of the calendar year in which such payment is received. For each exception made under this subsection, the Board shall provide written notification to the Director of the Office of Personnel Management and the Congress within 30 days after the payment is made setting forth the name of the officer or employee involved, the critical nature of his or her duties and responsibilities, and the basis for determining that such payment is warranted.
+- **(d)** Included in its comprehensive statement under section 2401(e) for any period shall be—
+  - **(1)** the name of each person receiving a bonus or other payment during such period which would not have been allowable but for the provisions of subsection (b) or (c);
+  - **(2)** the amount of the bonus or other payment; and
+  - **(3)** the amount by which the limitation set forth in the last sentence of section 1003(a) was exceeded as a result of such bonus or other payment.
+- **(e)** The Board of Governors may prescribe regulations for the administration of this section.

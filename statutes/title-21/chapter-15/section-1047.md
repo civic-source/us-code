@@ -5,7 +5,7 @@ usc_section: "1047"
 chapter: 15
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 1047"
-generated_at: "2026-03-29T00:30:24.353Z"
+generated_at: "2026-03-29T02:12:28.167Z"
 ---
 
 # § 1047. Refusal or withdrawal of inspection services; hearing; grounds; person deemed to have responsible connection with business; finality of order of Secretary; judicial review; other provisions for refusal of services unaffected

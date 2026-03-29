@@ -5,7 +5,7 @@ usc_section: "1774"
 chapter: 17
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1774"
-generated_at: "2026-03-29T00:32:17.205Z"
+generated_at: "2026-03-29T02:14:50.370Z"
 ---
 
 # [§§ 1771 to 1774. Renumbered §§ 2031 to 2034]

@@ -5,10 +5,10 @@ usc_section: "10142"
 chapter: 1005
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 10142"
-generated_at: "2026-03-29T00:20:53.269Z"
+generated_at: "2026-03-29T02:10:45.356Z"
 ---
 
 # § 10142. Ready Reserve
 
-(a) The Ready Reserve consists of units or Reserves, or both, liable for active duty as provided in sections 12301 and 12302 of this title.
-(b) The authorized strength of the Ready Reserve is 2,900,000.
+- **(a)** The Ready Reserve consists of units or Reserves, or both, liable for active duty as provided in sections 12301 and 12302 of this title.
+- **(b)** The authorized strength of the Ready Reserve is 2,900,000.

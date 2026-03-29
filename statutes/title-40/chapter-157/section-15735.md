@@ -5,13 +5,13 @@ usc_section: "15735"
 chapter: 157
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 15735"
-generated_at: "2026-03-29T00:32:20.584Z"
+generated_at: "2026-03-29T02:14:58.815Z"
 ---
 
 # § 15735. Mid-Atlantic Regional Commission. 1 1 So in original. The period probably should not appear.
 
 The region of the Mid-Atlantic Regional Commission shall include the following counties:
 
-  (1) Each county in the State of Delaware.
-  (2) Each county in the State of Maryland that is not already served by the Appalachian Regional Commission.
-  (3) Each county in the Commonwealth of Pennsylvania that is not already served by the Appalachian Regional Commission.
+  - **(1)** Each county in the State of Delaware.
+  - **(2)** Each county in the State of Maryland that is not already served by the Appalachian Regional Commission.
+  - **(3)** Each county in the Commonwealth of Pennsylvania that is not already served by the Appalachian Regional Commission.

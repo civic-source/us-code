@@ -5,7 +5,7 @@ usc_section: "2312"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2312"
-generated_at: "2026-03-29T00:31:57.417Z"
+generated_at: "2026-03-29T02:14:18.619Z"
 ---
 
 # § 2312. Comments on certain changes in operations of reservoirs

@@ -5,15 +5,15 @@ usc_section: "2701"
 chapter: 29
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2701"
-generated_at: "2026-03-29T00:30:38.742Z"
+generated_at: "2026-03-29T02:13:20.948Z"
 ---
 
 # § 2701. Findings
 
 The Congress finds that—
 
-  (1) numerous Indian tribes have become engaged in or have licensed gaming activities on Indian lands as a means of generating tribal governmental revenue;
-  (2) Federal courts have held that section 81 of this title requires Secretarial review of management contracts dealing with Indian gaming, but does not provide standards for approval of such contracts;
-  (3) existing Federal law does not provide clear standards or regulations for the conduct of gaming on Indian lands;
-  (4) a principal goal of Federal Indian policy is to promote tribal economic development, tribal self-sufficiency, and strong tribal government; and
-  (5) Indian tribes have the exclusive right to regulate gaming activity on Indian lands if the gaming activity is not specifically prohibited by Federal law and is conducted within a State which does not, as a matter of criminal law and public policy, prohibit such gaming activity.
+  - **(1)** numerous Indian tribes have become engaged in or have licensed gaming activities on Indian lands as a means of generating tribal governmental revenue;
+  - **(2)** Federal courts have held that section 81 of this title requires Secretarial review of management contracts dealing with Indian gaming, but does not provide standards for approval of such contracts;
+  - **(3)** existing Federal law does not provide clear standards or regulations for the conduct of gaming on Indian lands;
+  - **(4)** a principal goal of Federal Indian policy is to promote tribal economic development, tribal self-sufficiency, and strong tribal government; and
+  - **(5)** Indian tribes have the exclusive right to regulate gaming activity on Indian lands if the gaming activity is not specifically prohibited by Federal law and is conducted within a State which does not, as a matter of criminal law and public policy, prohibit such gaming activity.

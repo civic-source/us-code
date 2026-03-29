@@ -5,13 +5,13 @@ usc_section: "4062"
 chapter: 52
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4062"
-generated_at: "2026-03-29T00:30:33.906Z"
+generated_at: "2026-03-29T02:12:40.320Z"
 ---
 
 # § 4062. Unfunded liability obligations
 
-(a) At the end of each fiscal year, the Secretary of State shall notify the Secretary of the Treasury of the amount equivalent to—
-  (1) interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and
-  (2) that portion of disbursement for annuities for that year which the Secretary of State estimates is attributable to credit allowed for military and naval service, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 4045(e) of this title .
-(b) Before closing the accounts for each fiscal year, the Secretary of the Treasury shall credit such amounts to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated.
-(c) Requests for appropriations to the Fund under section 4061(b) of this title shall include reports to the Congress on the sums credited to the Fund under this section.
+- **(a)** At the end of each fiscal year, the Secretary of State shall notify the Secretary of the Treasury of the amount equivalent to—
+  - **(1)** interest on the unfunded liability computed for that year at the interest rate used in the then most recent valuation of the System, and
+  - **(2)** that portion of disbursement for annuities for that year which the Secretary of State estimates is attributable to credit allowed for military and naval service, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 4045(e) of this title .
+- **(b)** Before closing the accounts for each fiscal year, the Secretary of the Treasury shall credit such amounts to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated.
+- **(c)** Requests for appropriations to the Fund under section 4061(b) of this title shall include reports to the Congress on the sums credited to the Fund under this section.

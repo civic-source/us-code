@@ -5,7 +5,7 @@ usc_section: "871"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 871"
-generated_at: "2026-03-29T00:20:52.898Z"
+generated_at: "2026-03-29T02:10:44.922Z"
 ---
 
 # [§ 871. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(2) , Dec. 23, 2016 , 130 Stat. 2923 ]

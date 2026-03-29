@@ -5,40 +5,40 @@ usc_section: "474"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 474"
-generated_at: "2026-03-29T00:31:20.766Z"
+generated_at: "2026-03-29T02:14:00.991Z"
 ---
 
 # § 474. Simplified dollar-value LIFO method for certain small businesses
 
-(a) An eligible small business may elect to use the simplified dollar-value method of pricing inventories for purposes of the LIFO method.
-(b) For purposes of this section—
-  (1) The simplified dollar-value method of pricing inventories is a dollar-value method of pricing inventories under which—
-    (A) the taxpayer maintains a separate inventory pool for items in each major category in the applicable Government price index, and
-    (B) the adjustment for each such separate pool is based on the change from the preceding taxable year in the component of such index for the major category.
-  (2) The term “applicable Government price index” means—
-    (A) except as provided in subparagraph (B), the Producer Price Index published by the Bureau of Labor Statistics, or
-    (B) in the case of a retailer using the retail method, the Consumer Price Index published by the Bureau of Labor Statistics.
-  (3) The term “major category” means—
-    (A) in the case of the Producer Price Index, any of the 2-digit standard industrial classifications in the Producer Prices Data Report, or
-    (B) in the case of the Consumer Price Index, any of the general expenditure categories in the Consumer Price Index Detailed Report.
-(c) For purposes of this section, a taxpayer is an eligible small business for any taxable year if the average annual gross receipts of the taxpayer for the 3 preceding taxable years do not exceed $5,000,000. For purposes of the preceding sentence, rules similar to the rules of section 448(c)(3) shall apply.
-(d) For purposes of this section—
-  (1) 
-    (A) In the case of a taxpayer which is a member of a controlled group, all persons which are component members of such group shall be treated as 1 taxpayer for purposes of determining the gross receipts of the taxpayer.
-    (B) For purposes of subparagraph (A), persons shall be treated as being component members of a controlled group if such persons would be treated as a single employer under section 52.
-  (2) 
-    (A) The election under this section may be made without the consent of the Secretary.
-    (B) The election under this section shall apply—
-      (i) to the taxable year for which it is made, and
-      (ii) to all subsequent taxable years for which the taxpayer is an eligible small business,
-  (3) The term “LIFO method” means the method provided by section 472(b).
-  (4) 
-    (A) In the case of a year of change under this section—
-      (i) the inventory pools shall—
-        (I) in the case of the 1st taxable year to which such an election applies, be established in accordance with the major categories in the applicable Government price index, or
-        (II) in the case of the 1st taxable year after such election ceases to apply, be established in the manner provided by regulations under section 472;
-      (ii) the aggregate dollar amount of the taxpayer’s inventory as of the beginning of the year of change shall be the same as the aggregate dollar value as of the close of the taxable year preceding the year of change, and
-      (iii) the year of change shall be treated as a new base year in accordance with procedures provided by regulations under section 472.
-    (B) For purposes of this paragraph, the year of change under this section is—
-      (i) the 1st taxable year to which an election under this section applies, or
-      (ii) in the case of a cessation of such an election, the 1st taxable year after such election ceases to apply.
+- **(a)** An eligible small business may elect to use the simplified dollar-value method of pricing inventories for purposes of the LIFO method.
+- **(b)** For purposes of this section—
+  - **(1)** The simplified dollar-value method of pricing inventories is a dollar-value method of pricing inventories under which—
+    - **(A)** the taxpayer maintains a separate inventory pool for items in each major category in the applicable Government price index, and
+    - **(B)** the adjustment for each such separate pool is based on the change from the preceding taxable year in the component of such index for the major category.
+  - **(2)** The term “applicable Government price index” means—
+    - **(A)** except as provided in subparagraph (B), the Producer Price Index published by the Bureau of Labor Statistics, or
+    - **(B)** in the case of a retailer using the retail method, the Consumer Price Index published by the Bureau of Labor Statistics.
+  - **(3)** The term “major category” means—
+    - **(A)** in the case of the Producer Price Index, any of the 2-digit standard industrial classifications in the Producer Prices Data Report, or
+    - **(B)** in the case of the Consumer Price Index, any of the general expenditure categories in the Consumer Price Index Detailed Report.
+- **(c)** For purposes of this section, a taxpayer is an eligible small business for any taxable year if the average annual gross receipts of the taxpayer for the 3 preceding taxable years do not exceed $5,000,000. For purposes of the preceding sentence, rules similar to the rules of section 448(c)(3) shall apply.
+- **(d)** For purposes of this section—
+  - **(1)**
+    - **(A)** In the case of a taxpayer which is a member of a controlled group, all persons which are component members of such group shall be treated as 1 taxpayer for purposes of determining the gross receipts of the taxpayer.
+    - **(B)** For purposes of subparagraph (A), persons shall be treated as being component members of a controlled group if such persons would be treated as a single employer under section 52.
+  - **(2)**
+    - **(A)** The election under this section may be made without the consent of the Secretary.
+    - **(B)** The election under this section shall apply—
+      - **(i)** to the taxable year for which it is made, and
+      - **(ii)** to all subsequent taxable years for which the taxpayer is an eligible small business,
+  - **(3)** The term “LIFO method” means the method provided by section 472(b).
+  - **(4)**
+    - **(A)** In the case of a year of change under this section—
+      - **(i)** the inventory pools shall—
+        - **(I)** in the case of the 1st taxable year to which such an election applies, be established in accordance with the major categories in the applicable Government price index, or
+        - **(II)** in the case of the 1st taxable year after such election ceases to apply, be established in the manner provided by regulations under section 472;
+      - **(ii)** the aggregate dollar amount of the taxpayer’s inventory as of the beginning of the year of change shall be the same as the aggregate dollar value as of the close of the taxable year preceding the year of change, and
+      - **(iii)** the year of change shall be treated as a new base year in accordance with procedures provided by regulations under section 472.
+    - **(B)** For purposes of this paragraph, the year of change under this section is—
+      - **(i)** the 1st taxable year to which an election under this section applies, or
+      - **(ii)** in the case of a cessation of such an election, the 1st taxable year after such election ceases to apply.

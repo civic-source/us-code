@@ -5,266 +5,266 @@ usc_section: "904"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-29T00:31:20.842Z"
+generated_at: "2026-03-29T02:14:01.075Z"
 ---
 
 # § 904. Limitation on credit
 
-(a) The total amount of the credit taken under section 901(a) shall not exceed the same proportion of the tax against which such credit is taken which the taxpayer’s taxable income from sources without the United States (but not in excess of the taxpayer’s entire taxable income) bears to his entire taxable income for the same taxable year.
-(b) 
-  (1) For purposes of subsection (a), the taxable income in the case of an individual, estate, or trust shall be computed without any deduction for personal exemptions under section 151 or 642(b).
-  (2) For purposes of this section—
-    (A) Taxable income from sources outside the United States shall include gain from the sale or exchange of capital assets only to the extent of foreign source capital gain net income.
-    (B) In the case of any taxable year for which there is a capital gain rate differential—
-      (i) in lieu of applying subparagraph (A), the taxable income from sources outside the United States shall include gain from the sale or exchange of capital assets only in an amount equal to foreign source capital gain net income reduced by the rate differential portion of foreign source net capital gain,
-      (ii) the entire taxable income shall include gain from the sale or exchange of capital assets only in an amount equal to capital gain net income reduced by the rate differential portion of net capital gain, and
-      (iii) for purposes of determining taxable income from sources outside the United States, any net capital loss (and any amount which is a short-term capital loss under section 1212(a)) from sources outside the United States to the extent taken into account in determining capital gain net income for the taxable year shall be reduced by an amount equal to the rate differential portion of the excess of net capital gain from sources within the United States over net capital gain.
-    (C) The Secretary may by regulations modify the application of this paragraph and paragraph (3) to the extent necessary to properly reflect any capital gain rate differential under section 1(h) and the computation of net capital gain.
-  (3) For purposes of this subsection—
-    (A) The term “foreign source capital gain net income” means the lesser of—
-      (i) capital gain net income from sources without the United States, or
-      (ii) capital gain net income.
-    (B) The term “foreign source net capital gain” means the lesser of—
-      (i) net capital gain from sources without the United States, or
-      (ii) net capital gain.
-    (C) The term “gain from the sale or exchange of capital assets” includes any gain so treated under section 1231.
-    (D) There is a capital gain rate differential for any year if subsection (h) of section 1 applies to such taxable year.
-    (E) The rate differential portion of foreign source net capital gain, net capital gain, or the excess of net capital gain from sources within the United States over net capital gain, as the case may be, is the same proportion of such amount as—
-      (i) the excess of—
-        (I) the highest rate of tax set forth in subsection (a), (b), (c), (d), or (e) of section 1 (whichever applies), over
-        (II) the alternative rate of tax determined under section 1(h), bears to
-      (ii) that rate referred to in subclause (I).
-  (4) For purposes of subsection (a), in the case of a domestic corporation which is a United States shareholder with respect to a specified 10-percent owned foreign corporation, such shareholder’s taxable income from sources without the United States (and entire taxable income) shall be determined without regard to—
-    (A) the foreign-source portion of any dividend received from such foreign corporation, and
-    (B) any deductions properly allocable or apportioned to—
-      (i) income (other than amounts includible under section 951(a)(1) or 951A(a)) with respect to stock of such specified 10-percent owned foreign corporation, or
-      (ii) such stock to the extent income with respect to such stock is other than amounts includible under section 951(a)(1) or 951A(a).
-  (5) Solely for purposes of the application of subsection (a) with respect to amounts described in subsection (d)(1)(A), the taxpayer’s taxable income from sources without the United States shall be determined by allocating and apportioning—
-    (A) any deduction allowed under section 250(a)(1)(B) (and any deduction allowed under section 164(a)(3) for taxes imposed on amounts described in section 250(a)(1)(B)) to such income,
-    (B) no amount of interest expense or research and experimental expenditures to such income, and
-    (C) any other deduction to such income only if such deduction is directly allocable to such income.
-  (6) For purposes of this section, if a United States person maintains an office or other fixed place of business in a foreign country (determined under rules similar to the rules of section 864(c)(5)), the portion of income which—
-    (A) is from the sale or exchange outside the United States of inventory property (within the meaning of section 865(i)(1))—
-      (i) which is produced in the United States,
-      (ii) which is for use outside the United States, and
-      (iii) to which the third sentence of section 863(b) applies, and
-    (B) is attributable (determined under rules similar to the rules of section 864(c)(5)) to such office or other fixed place of business,
-(c) Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States. This subsection shall not apply to taxes paid or accrued with respect to amounts described in subsection (d)(1)(A).
-(d) 
-  (1) The provisions of subsections (a), (b), and (c) and sections 902, 1 1 See References in Text note below. 907, and 960 shall be applied separately with respect to—
-    (A) any amount includible in gross income under section 951A (other than passive category income),
-    (B) foreign branch income,
-    (C) passive category income, and
-    (D) general category income.
-  (2) For purposes of this subsection—
-    (A) 
-      (i) The term “passive category income” means passive income and specified passive category income.
-      (ii) The term “general category income” means income other than income described in paragraph (1)(A), foreign branch income, and passive category income.
-    (B) 
-      (i) Except as otherwise provided in this subparagraph, the term “passive income” means any income received or accrued by any person which is of a kind which would be foreign personal holding company income (as defined in section 954(c)).
-      (ii) Except as provided in clause (iii), subparagraph (E)(ii), or paragraph (3)(H), the term “passive income” includes any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
-      (iii) The term “passive income” shall not include—
-        (I) any export financing interest, and
-        (II) any high-taxed income.
-      (iv) In determining whether any income is of a kind which would be foreign personal holding company income, the rules of section 864(d)(6) shall apply only in the case of income of a controlled foreign corporation.
-      (v) The term “specified passive category income” means—
-        (I) dividends from a DISC or former DISC (as defined in section 992(a)) to the extent such dividends are treated as income from sources without the United States, and
-        (II) distributions from a former FSC (as defined in section 922) out of earnings and profits attributable to foreign trade income (within the meaning of section 923(b)) or interest or carrying charges (as defined in section 927(d)(1)) derived from a transaction which results in foreign trade income (as defined in section 923(b)).
-    (C) 
-      (i) Financial services income shall be treated as general category income in the case of—
-        (I) a member of a financial services group, and
-        (II) any other person if such person is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business.
-      (ii) The term “financial services group” means any affiliated group (as defined in section 1504(a) without regard to paragraphs (2) and (3) of section 1504(b)) which is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business. In determining whether such a group is so engaged, there shall be taken into account only the income of members of the group that are—
-        (I) United States corporations, or
-        (II) controlled foreign corporations in which such United States corporations own, directly or indirectly, at least 80 percent of the total voting power and value of the stock.
-      (iii) The Secretary shall by regulation specify for purposes of this subparagraph the treatment of financial services income received or accrued by partnerships and by other pass-thru entities which are not members of a financial services group.
-    (D) 
-      (i) Except as otherwise provided in this subparagraph, the term “financial services income” means any income which is received or accrued by any person predominantly engaged in the active conduct of a banking, insurance, financing, or similar business, and which is—
-        (I) described in clause (ii), or
-        (II) passive income (determined without regard to subparagraph (B)(iii)(II)).
-      (ii) Income is described in this clause if such income is—
-        (I) derived in the active conduct of a banking, financing, or similar business,
-        (II) derived from the investment by an insurance company of its unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business, or
-        (III) of a kind which would be insurance income as defined in section 953(a) determined without regard to those provisions of paragraph (1)(A) of such section which limit insurance income to income from countries other than the country in which the corporation was created or organized.
-    (E) 
-      (i) The term “noncontrolled 10-percent owned foreign corporation” means any foreign corporation which is—
-        (I) a specified 10-percent owned foreign corporation (as defined in section 245A(b)), or
-        (II) a passive foreign investment company (as defined in section 1297(a)) with respect to which the taxpayer meets the stock ownership requirements of section 902(a) (or, for purposes of applying paragraphs (3) and (4), the requirements of section 902(b)).
-      (ii) If any foreign corporation is a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer, any inclusion under section 1293 with respect to such corporation shall be treated as a dividend from such corporation.
-    (F) The term “high-taxed income” means any income which (but for this subparagraph) would be passive income if the sum of—
-      (i) the foreign income taxes paid or accrued by the taxpayer with respect to such income, and
-      (ii) the foreign income taxes deemed paid by the taxpayer with respect to such income under section 902 1 or 960,
-    (G) For purposes of this paragraph, the term “export financing interest” means any interest derived from financing the sale (or other disposition) for use or consumption outside the United States of any property—
-      (i) which is manufactured, produced, grown, or extracted in the United States by the taxpayer or a related person, and
-      (ii) not more than 50 percent of the fair market value of which is attributable to products imported into the United States.
-    (H) 
-      (i) In the case of taxable years beginning after December 31, 2006 , tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles shall be treated as imposed on income described in paragraph (1)(D).
-      (ii) 
-        (I) In the case of taxes paid or accrued in taxable years beginning after December 31, 2004 , and before January 1, 2007 , a taxpayer may elect to treat tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles as tax imposed on income described in subparagraph (C) or (I) of paragraph (1).
-        (II) Any such election shall apply to the taxable year for which made and all subsequent taxable years described in subclause (I) unless revoked with the consent of the Secretary.
-    (I) For purposes of this paragraph, the term “related person” has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting “the person with respect to whom the determination is being made” for “controlled foreign corporation” each place it appears.
-    (J) 
-      (i) The term “foreign branch income” means the business profits of such United States person which are attributable to 1 or more qualified business units (as defined in section 989(a)) in 1 or more foreign countries. For purposes of the preceding sentence, the amount of business profits attributable to a qualified business unit shall be determined under rules established by the Secretary.
-      (ii) Such term shall not include any income which is passive category income.
-    (K) For purposes of paragraph (1)—
-      (i) taxes carried from any taxable year beginning before January 1, 2007 , to any taxable year beginning on or after such date, with respect to any item of income, shall be treated as described in the subparagraph of paragraph (1) in which such income would be described were such taxes paid or accrued in a taxable year beginning on or after such date, and
-      (ii) the Secretary may by regulations provide for the allocation of any carryback of taxes with respect to income from a taxable year beginning on or after January 1, 2007 , to a taxable year beginning before such date for purposes of allocating such income among the separate categories in effect for the taxable year to which carried.
-  (3) 
-    (A) Except as otherwise provided in this paragraph, dividends, interest, rents, and royalties received or accrued by the taxpayer from a controlled foreign corporation in which the taxpayer is a United States shareholder shall not be treated as passive category income.
-    (B) Any amount included in gross income under section 951(a)(1)(A) shall be treated as passive category income to the extent the amount so included is attributable to passive category income.
-    (C) Any interest, rent, or royalty which is received or accrued from a controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income to the extent it is properly allocable (under regulations prescribed by the Secretary) to passive category income of the controlled foreign corporation.
-    (D) Any dividend paid out of the earnings and profits of any controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income in proportion to the ratio of—
-      (i) the portion of the earnings and profits attributable to passive category income, to
-      (ii) the total amount of earnings and profits.
-    (E) If a controlled foreign corporation meets the requirements of section 954(b)(3)(A) (relating to de minimis rule) for any taxable year, for purposes of this paragraph, none of its foreign base company income (as defined in section 954(a) without regard to section 954(b)(5)) and none of its gross insurance income (as defined in section 954(b)(3)(C)) for such taxable year shall be treated as passive category income, except that this sentence shall not apply to any income which (without regard to this sentence) would be treated as financial services income. Solely for purposes of applying subparagraph (D), passive income of a controlled foreign corporation shall not be treated as passive category income if the requirements of section 954(b)(4) are met with respect to such income.
-    (F) 
-      (i) In determining whether any income of a controlled foreign corporation is passive category income, subclause (II) of paragraph (2)(B)(iii) shall not apply.
-      (ii) Any income of the taxpayer which is treated as passive category income under this paragraph shall be so treated notwithstanding any provision of paragraph (2); except that the determination of whether any amount is high-taxed income shall be made after the application of this paragraph.
-    (G) For purposes of this paragraph, the term “dividend” includes any amount included in gross income in section 951(a)(1)(B). Any amount included in gross income under section 78 to the extent attributable to amounts included in gross income in section 951(a)(1)(A) shall not be treated as a dividend but shall be treated as included in gross income under section 951(a)(1)(A).
-    (H) If—
-      (i) a passive foreign investment company is a controlled foreign corporation, and
-      (ii) the taxpayer is a United States shareholder in such controlled foreign corporation,
-  (4) 
-    (A) For purposes of this subsection, any dividend from a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer shall be treated as income described in a subparagraph of paragraph (1) in proportion to the ratio of—
-      (i) the portion of earnings and profits attributable to income described in such subparagraph, to
-      (ii) the total amount of earnings and profits.
-    (B) In the case of any distribution from a controlled foreign corporation to a United States shareholder, rules similar to the rules of subparagraph (A) shall apply in determining the extent to which earnings and profits of the controlled foreign corporation which are attributable to dividends received from a noncontrolled 10-percent owned foreign corporation may be treated as income in a separate category.
-    (C) For purposes of this paragraph—
-      (i) 
-        (I) The rules of section 316 shall apply.
-        (II) The Secretary may prescribe regulations regarding the treatment of distributions out of earnings and profits for periods before the taxpayer’s acquisition of the stock to which the distributions relate.
-      (ii) If the Secretary determines that the proper subparagraph of paragraph (1) in which a dividend is described has not been substantiated, such dividend shall be treated as income described in paragraph (1)(C).
-      (iii) Rules similar to the rules of paragraph (3)(F) shall apply for purposes of this paragraph.
-      (iv) Rules similar to subparagraph (A) also shall apply to any carryforward under subsection (c) from a taxable year beginning before January 1, 2003 , of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer. The Secretary may by regulations provide for the allocation of any carryback of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation from a taxable year beginning on or after January 1, 2003 , to a taxable year beginning before such date for purposes of allocating such dividend among the separate categories in effect for the taxable year to which carried.
-  (5) For purposes of this subsection—
-    (A) The term “controlled foreign corporation” has the meaning given such term by section 957 (taking into account section 953(c)).
-    (B) The term “United States shareholder” has the meaning given such term by section 951(b) (taking into account section 953(c)).
-  (6) 
-    (A) If—
-      (i) without regard to any treaty obligation of the United States, any item of income would be treated as derived from sources within the United States,
-      (ii) under a treaty obligation of the United States, such item would be treated as arising from sources outside the United States, and
-      (iii) the taxpayer chooses the benefits of such treaty obligation,
-    (B) This paragraph shall not apply to any item of income to which subsection (h)(10) or section 865(h) applies.
-    (C) The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provides that related items of income may be aggregated for purposes of this paragraph.
-  (7) The Secretary shall prescribe such regulations as may be necessary or appropriate for the purposes of this subsection, including regulations—
-    (A) for the application of paragraph (3) and subsection (f)(5) in the case of income paid (or loans made) through 1 or more entities or between 2 or more chains of entities,
-    (B) preventing the manipulation of the character of income the effect of which is to avoid the purposes of this subsection, and
-    (C) providing that rules similar to the rules of paragraph (3)(C) shall apply to interest, rents, and royalties received or accrued from entities which would be controlled foreign corporations if they were foreign corporations.
-[(e) 
-(f) 
-  (1) For purposes of this subpart, in the case of any taxpayer who sustains an overall foreign loss for any taxable year, that portion of the taxpayer’s taxable income from sources without the United States for each succeeding taxable year which is equal to the lesser of—
-    (A) the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
-    (B) 50 percent (or such larger percent as the taxpayer may choose) of the taxpayer’s taxable income from sources without the United States for such succeeding taxable year,
-  (2) For purposes of this subsection, the term “overall foreign loss” means the amount by which the gross income for the taxable year from sources without the United States (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) for such year is exceeded by the sum of the deductions properly apportioned or allocated thereto, except that there shall not be taken into account—
-    (A) any net operating loss deduction allowable for such year under section 172(a), and
-    (B) any—
-      (i) foreign expropriation loss for such year, as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), or
-      (ii) loss for such year which arises from fire, storm, shipwreck, or other casualty, or from theft,
-  (3) 
-    (A) For purposes of this chapter, if property which has been used predominantly without the United States in a trade or business is disposed of during any taxable year—
-      (i) the taxpayer, notwithstanding any other provision of this chapter (other than paragraph (1)), shall be deemed to have received and recognized taxable income from sources without the United States in the taxable year of the disposition, by reason of such disposition, in an amount equal to the lesser of the excess of the fair market value of such property over the taxpayer’s adjusted basis in such property or the remaining amount of the overall foreign losses which were not used under paragraph (1) for such taxable year or any prior taxable year, and
-      (ii) paragraph (1) shall be applied with respect to such income by substituting “100 percent” for “50 percent”.
-    (B) 
-      (i) For purposes of this subsection, the term “disposition” includes a sale, exchange, distribution, or gift of property whether or not gain or loss is recognized on the transfer.
-      (ii) Any taxable income recognized solely by reason of subparagraph (A) shall have the same characterization it would have had if the taxpayer had sold or exchanged the property.
-      (iii) The Secretary shall prescribe such regulations as he may deem necessary to provide for adjustments to the basis of property to reflect taxable income recognized solely by reason of subparagraph (A).
-    (C) Notwithstanding subparagraph (B), the term “disposition” does not include—
-      (i) a disposition of property which is not a material factor in the realization of income by the taxpayer, or
-      (ii) a disposition of property to a domestic corporation in a distribution or transfer described in section 381(a).
-    (D) 
-      (i) This paragraph shall apply to an applicable disposition in the same manner as if it were a disposition of property described in subparagraph (A), except that the exception contained in subparagraph (C)(i) shall not apply.
-      (ii) For purposes of clause (i), the term “applicable disposition” means any disposition of any share of stock in a controlled foreign corporation in a transaction or series of transactions if, immediately before such transaction or series of transactions, the taxpayer owned more than 50 percent (by vote or value) of the stock of the controlled foreign corporation. Such term shall not include a disposition described in clause (iii) or (iv), except that clause (i) shall apply to any gain recognized on any such disposition.
-      (iii) A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions—
-        (I) to which section 351 or 721 applies, or under which the transferor receives stock in a foreign corporation in exchange for the stock in the controlled foreign corporation and the stock received is exchanged basis property (as defined in section 7701(a)(44)), and
-        (II) immediately after which, the transferor owns (by vote or value) at least the same percentage of stock in the controlled foreign corporation (or, if the controlled foreign corporation is not in existence after such transaction or series of transactions, in another foreign corporation stock in 2 2 So in original. which was received by the transferor in exchange for stock in the controlled foreign corporation) as the percentage of stock in the controlled foreign corporation which the taxpayer owned immediately before such transaction or series of transactions.
-      (iv) A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
-      (v) For purposes of this subparagraph, the term “controlled foreign corporation” has the meaning given such term by section 957.
-      (vi) For purposes of this subparagraph, ownership of stock shall be determined under the rules of subsections (a) and (b) of section 958.
-  (4) For purposes of this chapter, in the case of amounts of income from sources without the United States which are treated under section 666 (without regard to subsections (b) and (c) thereof if the taxpayer chose to take a deduction with respect to the amounts described in such subsections under section 667(d)(1)(B)) as having been distributed by a foreign trust in a preceding taxable year, that portion of such amounts equal to the amount of any overall foreign loss sustained by the beneficiary in a year prior to the taxable year of the beneficiary in which such distribution is received from the trust shall be treated as income from sources within the United States (and not income from sources without the United States) to the extent that such loss was not used under this subsection in prior taxable years, or in the current taxable year, against other income of the beneficiary.
-  (5) 
-    (A) The amount of the separate limitation losses for any taxable year shall reduce income from sources within the United States for such taxable year only to the extent the aggregate amount of such losses exceeds the aggregate amount of the separate limitation incomes for such taxable year.
-    (B) The separate limitation losses for any taxable year (to the extent such losses do not exceed the separate limitation incomes for such year) shall be allocated among (and operate to reduce) such incomes on a proportionate basis.
-    (C) If—
-      (i) a separate limitation loss from any income category (hereinafter in this subparagraph referred to as “the loss category”) was allocated to income from any other category under subparagraph (B), and
-      (ii) the loss category has income for a subsequent taxable year,
-    (D) Any loss from sources in the United States for any taxable year (to the extent such loss does not exceed the separate limitation incomes from such year) shall be allocated among (and operate to reduce) such incomes on a proportionate basis. This subparagraph shall be applied after subparagraph (B).
-    (E) For purposes of this paragraph—
-      (i) The term “income category” means each separate category of income described in subsection (d)(1).
-      (ii) The term “separate limitation income” means, with respect to any income category, the taxable income from sources outside the United States, separately computed for such category.
-      (iii) The term “separate limitation loss” means, with respect to any income category, the loss from such category determined under the principles of section 907(c)(4)(B).
-    (F) If any separate limitation loss for any taxable year is allocated against any separate limitation income for such taxable year, except to the extent provided in regulations, rules similar to the rules of paragraph (3) shall apply to any disposition of property if gain from such disposition would be in the income category with respect to which there was such separate limitation loss.
-(g) 
-  (1) For purposes of this subpart and section 936, 1 in the case of any taxpayer who sustains an overall domestic loss for any taxable year beginning after December 31, 2006 , that portion of the taxpayer’s taxable income from sources within the United States for each succeeding taxable year which is equal to the lesser of—
-    (A) the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
-    (B) 50 percent of the taxpayer’s taxable income from sources within the United States for such succeeding taxable year,
-  (2) For purposes of this subsection—
-    (A) The term “overall domestic loss” means—
-      (i) with respect to any qualified taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for the taxable year or for any preceding qualified taxable year by reason of a carryback, and
-      (ii) with respect to any other taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for any preceding qualified taxable year by reason of a carryback.
-    (B) For purposes of subparagraph (A), the term “domestic loss” means the amount by which the gross income for the taxable year from sources within the United States is exceeded by the sum of the deductions properly apportioned or allocated thereto (determined without regard to any carryback from a subsequent taxable year).
-    (C) For purposes of subparagraph (A), the term “qualified taxable year” means any taxable year for which the taxpayer chose the benefits of this subpart.
-  (3) 
-    (A) Any income from sources within the United States that is treated as income from sources without the United States under paragraph (1) shall be allocated among and increase the income categories in proportion to the loss from sources within the United States previously allocated to those income categories.
-    (B) For purposes of this paragraph, the term “income category” has the meaning given such term by subsection (f)(5)(E)(i).
-  (4) The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this subsection with the provisions of subsection (f).
-  (5) 
-    (A) If any pre-2018 unused overall domestic loss is taken into account under paragraph (1) for any applicable taxable year, the taxpayer may elect to have such paragraph applied to such loss by substituting a percentage greater than 50 percent (but not greater than 100 percent) for 50 percent in subparagraph (B) thereof.
-    (B) For purposes of this paragraph, the term “pre-2018 unused overall domestic loss” means any overall domestic loss which—
-      (i) arises in a qualified taxable year beginning before January 1, 2018 , and
-      (ii) has not been used under paragraph (1) for any taxable year beginning before such date.
-    (C) For purposes of this paragraph, the term “applicable taxable year” means any taxable year of the taxpayer beginning after December 31, 2017 , and before January 1, 2028 .
-(h) 
-  (1) The following amounts which are derived from a United States-owned foreign corporation and which would be treated as derived from sources outside the United States without regard to this subsection shall, for purposes of this section, be treated as derived from sources within the United States to the extent provided in this subsection:
-    (A) Any amount included in gross income under—
-      (i) section 951(a) (relating to amounts included in gross income of United States shareholders), or
-      (ii) section 1293 (relating to current taxation of income from qualified funds).
-    (B) Interest.
-    (C) Dividends.
-  (2) Any amount described in subparagraph (A) of paragraph (1) shall be treated as derived from sources within the United States to the extent such amount is attributable to income of the United States-owned foreign corporation from sources within the United States.
-  (3) Any interest which—
-    (A) is paid or accrued by a United States-owned foreign corporation during any taxable year,
-    (B) is paid or accrued to a United States shareholder (as defined in section 951(b)) or a related person (within the meaning of section 267(b)) to such a shareholder, and
-    (C) is properly allocable (under regulations prescribed by the Secretary) to income of such foreign corporation for the taxable year from sources within the United States,
-  (4) 
-    (A) The United States source ratio of any dividend paid or accrued by a United States-owned foreign corporation shall be treated as derived from sources within the United States.
-    (B) For purposes of subparagraph (A), the term “United States source ratio” means, with respect to any dividend paid out of the earnings and profits for any taxable year, a fraction—
-      (i) the numerator of which is the portion of the earnings and profits for such taxable year from sources within the United States, and
-      (ii) the denominator of which is the total amount of earnings and profits for such taxable year.
-  (5) Paragraph (3) shall not apply to interest paid or accrued during any taxable year (and paragraph (4) shall not apply to any dividends paid out of the earnings and profits for such taxable year) if—
-    (A) the United States-owned foreign corporation has earnings and profits for such taxable year, and
-    (B) less than 10 percent of such earnings and profits is attributable to sources within the United States.
-  (6) For purposes of this subsection, the term “United States-owned foreign corporation” means any foreign corporation if 50 percent or more of—
-    (A) the total combined voting power of all classes of stock of such corporation entitled to vote, or
-    (B) the total value of the stock of such corporation,
-  (7) For purposes of this subsection, the term “dividend” includes any gain treated as a dividend under section 1248.
-  (8) This subsection shall be applied before subsection (f).
-  (9) In the case of any dividend treated as not from sources within the United States under section 861(a)(2)(A), the corporation paying such dividend shall be treated for purposes of this subsection as a United States-owned foreign corporation.
-  (10) 
-    (A) If—
-      (i) any amount derived from a United States-owned foreign corporation would be treated as derived from sources within the United States under this subsection by reason of an item of income of such United States-owned foreign corporation,
-      (ii) under a treaty obligation of the United States (applied without regard to this subsection and by treating any amount included in gross income under section 951(a)(1) as a dividend), such amount would be treated as arising from sources outside the United States, and
-      (iii) the taxpayer chooses the benefits of this paragraph,
-    (B) Amounts included in gross income under section 951(a)(1) shall be treated as a dividend under subparagraph (A)(ii) only if dividends paid by each corporation (the stock in which is taken into account in determining whether the shareholder is a United States shareholder in the United States-owned foreign corporation), if paid to the United States shareholder, would be treated under a treaty obligation of the United States as arising from sources outside the United States (applied without regard to this subsection).
-  (11) The Secretary shall prescribe such regulations as may be necessary or appropriate for purposes of this subsection, including—
-    (A) regulations for the application of this subsection in the case of interest or dividend payments through 1 or more entities, and
-    (B) regulations providing that this subsection shall apply to interest paid or accrued to any person (whether or not a United States shareholder).
-(i) If 2 or more domestic corporations would be members of the same affiliated group if—
-  (1) section 1504(b) were applied without regard to the exceptions contained therein, and
-  (2) the constructive ownership rules of section 1563(e) applied for purposes of section 1504(a),
-(j) 
-  (1) In the case of an individual to whom this subsection applies for any taxable year—
-    (A) the limitation of subsection (a) shall not apply,
-    (B) no taxes paid or accrued by the individual during such taxable year may be deemed paid or accrued under subsection (c) in any other taxable year, and
-    (C) no taxes paid or accrued by the individual during any other taxable year may be deemed paid or accrued under subsection (c) in such taxable year.
-  (2) This subsection shall apply to an individual for any taxable year if—
-    (A) the entire amount of such individual’s gross income for the taxable year from sources without the United States consists of qualified passive income,
-    (B) the amount of the creditable foreign taxes paid or accrued by the individual during the taxable year does not exceed $300 ($600 in the case of a joint return), and
-    (C) such individual elects to have this subsection apply for the taxable year.
-  (3) For purposes of this subsection—
-    (A) The term “qualified passive income” means any item of gross income if—
-      (i) such item of income is passive income (as defined in subsection (d)(2)(B) without regard to clause (iii) thereof), and
-      (ii) such item of income is shown on a payee statement furnished to the individual.
-    (B) The term “creditable foreign taxes” means any taxes for which a credit is allowable under section 901; except that such term shall not include any tax unless such tax is shown on a payee statement furnished to such individual.
-    (C) The term “payee statement” has the meaning given to such term by section 6724(d)(2).
-    (D) This subsection shall not apply to any estate or trust.
-(k) For increase of limitation under subsection (a) for taxes paid with respect to amounts received which were included in the gross income of the taxpayer for a prior taxable year as a United States shareholder with respect to a controlled foreign corporation, see section 960(c).
+- **(a)** The total amount of the credit taken under section 901(a) shall not exceed the same proportion of the tax against which such credit is taken which the taxpayer’s taxable income from sources without the United States (but not in excess of the taxpayer’s entire taxable income) bears to his entire taxable income for the same taxable year.
+- **(b)**
+  - **(1)** For purposes of subsection (a), the taxable income in the case of an individual, estate, or trust shall be computed without any deduction for personal exemptions under section 151 or 642(b).
+  - **(2)** For purposes of this section—
+    - **(A)** Taxable income from sources outside the United States shall include gain from the sale or exchange of capital assets only to the extent of foreign source capital gain net income.
+    - **(B)** In the case of any taxable year for which there is a capital gain rate differential—
+      - **(i)** in lieu of applying subparagraph (A), the taxable income from sources outside the United States shall include gain from the sale or exchange of capital assets only in an amount equal to foreign source capital gain net income reduced by the rate differential portion of foreign source net capital gain,
+      - **(ii)** the entire taxable income shall include gain from the sale or exchange of capital assets only in an amount equal to capital gain net income reduced by the rate differential portion of net capital gain, and
+      - **(iii)** for purposes of determining taxable income from sources outside the United States, any net capital loss (and any amount which is a short-term capital loss under section 1212(a)) from sources outside the United States to the extent taken into account in determining capital gain net income for the taxable year shall be reduced by an amount equal to the rate differential portion of the excess of net capital gain from sources within the United States over net capital gain.
+    - **(C)** The Secretary may by regulations modify the application of this paragraph and paragraph (3) to the extent necessary to properly reflect any capital gain rate differential under section 1(h) and the computation of net capital gain.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “foreign source capital gain net income” means the lesser of—
+      - **(i)** capital gain net income from sources without the United States, or
+      - **(ii)** capital gain net income.
+    - **(B)** The term “foreign source net capital gain” means the lesser of—
+      - **(i)** net capital gain from sources without the United States, or
+      - **(ii)** net capital gain.
+    - **(C)** The term “gain from the sale or exchange of capital assets” includes any gain so treated under section 1231.
+    - **(D)** There is a capital gain rate differential for any year if subsection (h) of section 1 applies to such taxable year.
+    - **(E)** The rate differential portion of foreign source net capital gain, net capital gain, or the excess of net capital gain from sources within the United States over net capital gain, as the case may be, is the same proportion of such amount as—
+      - **(i)** the excess of—
+        - **(I)** the highest rate of tax set forth in subsection (a), (b), (c), (d), or (e) of section 1 (whichever applies), over
+        - **(II)** the alternative rate of tax determined under section 1(h), bears to
+      - **(ii)** that rate referred to in subclause (I).
+  - **(4)** For purposes of subsection (a), in the case of a domestic corporation which is a United States shareholder with respect to a specified 10-percent owned foreign corporation, such shareholder’s taxable income from sources without the United States (and entire taxable income) shall be determined without regard to—
+    - **(A)** the foreign-source portion of any dividend received from such foreign corporation, and
+    - **(B)** any deductions properly allocable or apportioned to—
+      - **(i)** income (other than amounts includible under section 951(a)(1) or 951A(a)) with respect to stock of such specified 10-percent owned foreign corporation, or
+      - **(ii)** such stock to the extent income with respect to such stock is other than amounts includible under section 951(a)(1) or 951A(a).
+  - **(5)** Solely for purposes of the application of subsection (a) with respect to amounts described in subsection (d)(1)(A), the taxpayer’s taxable income from sources without the United States shall be determined by allocating and apportioning—
+    - **(A)** any deduction allowed under section 250(a)(1)(B) (and any deduction allowed under section 164(a)(3) for taxes imposed on amounts described in section 250(a)(1)(B)) to such income,
+    - **(B)** no amount of interest expense or research and experimental expenditures to such income, and
+    - **(C)** any other deduction to such income only if such deduction is directly allocable to such income.
+  - **(6)** For purposes of this section, if a United States person maintains an office or other fixed place of business in a foreign country (determined under rules similar to the rules of section 864(c)(5)), the portion of income which—
+    - **(A)** is from the sale or exchange outside the United States of inventory property (within the meaning of section 865(i)(1))—
+      - **(i)** which is produced in the United States,
+      - **(ii)** which is for use outside the United States, and
+      - **(iii)** to which the third sentence of section 863(b) applies, and
+    - **(B)** is attributable (determined under rules similar to the rules of section 864(c)(5)) to such office or other fixed place of business,
+- **(c)** Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States. This subsection shall not apply to taxes paid or accrued with respect to amounts described in subsection (d)(1)(A).
+- **(d)**
+  - **(1)** The provisions of subsections (a), (b), and (c) and sections 902, 1 1 See References in Text note below. 907, and 960 shall be applied separately with respect to—
+    - **(A)** any amount includible in gross income under section 951A (other than passive category income),
+    - **(B)** foreign branch income,
+    - **(C)** passive category income, and
+    - **(D)** general category income.
+  - **(2)** For purposes of this subsection—
+    - **(A)**
+      - **(i)** The term “passive category income” means passive income and specified passive category income.
+      - **(ii)** The term “general category income” means income other than income described in paragraph (1)(A), foreign branch income, and passive category income.
+    - **(B)**
+      - **(i)** Except as otherwise provided in this subparagraph, the term “passive income” means any income received or accrued by any person which is of a kind which would be foreign personal holding company income (as defined in section 954(c)).
+      - **(ii)** Except as provided in clause (iii), subparagraph (E)(ii), or paragraph (3)(H), the term “passive income” includes any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
+      - **(iii)** The term “passive income” shall not include—
+        - **(I)** any export financing interest, and
+        - **(II)** any high-taxed income.
+      - **(iv)** In determining whether any income is of a kind which would be foreign personal holding company income, the rules of section 864(d)(6) shall apply only in the case of income of a controlled foreign corporation.
+      - **(v)** The term “specified passive category income” means—
+        - **(I)** dividends from a DISC or former DISC (as defined in section 992(a)) to the extent such dividends are treated as income from sources without the United States, and
+        - **(II)** distributions from a former FSC (as defined in section 922) out of earnings and profits attributable to foreign trade income (within the meaning of section 923(b)) or interest or carrying charges (as defined in section 927(d)(1)) derived from a transaction which results in foreign trade income (as defined in section 923(b)).
+    - **(C)**
+      - **(i)** Financial services income shall be treated as general category income in the case of—
+        - **(I)** a member of a financial services group, and
+        - **(II)** any other person if such person is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business.
+      - **(ii)** The term “financial services group” means any affiliated group (as defined in section 1504(a) without regard to paragraphs (2) and (3) of section 1504(b)) which is predominantly engaged in the active conduct of a banking, insurance, financing, or similar business. In determining whether such a group is so engaged, there shall be taken into account only the income of members of the group that are—
+        - **(I)** United States corporations, or
+        - **(II)** controlled foreign corporations in which such United States corporations own, directly or indirectly, at least 80 percent of the total voting power and value of the stock.
+      - **(iii)** The Secretary shall by regulation specify for purposes of this subparagraph the treatment of financial services income received or accrued by partnerships and by other pass-thru entities which are not members of a financial services group.
+    - **(D)**
+      - **(i)** Except as otherwise provided in this subparagraph, the term “financial services income” means any income which is received or accrued by any person predominantly engaged in the active conduct of a banking, insurance, financing, or similar business, and which is—
+        - **(I)** described in clause (ii), or
+        - **(II)** passive income (determined without regard to subparagraph (B)(iii)(II)).
+      - **(ii)** Income is described in this clause if such income is—
+        - **(I)** derived in the active conduct of a banking, financing, or similar business,
+        - **(II)** derived from the investment by an insurance company of its unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business, or
+        - **(III)** of a kind which would be insurance income as defined in section 953(a) determined without regard to those provisions of paragraph (1)(A) of such section which limit insurance income to income from countries other than the country in which the corporation was created or organized.
+    - **(E)**
+      - **(i)** The term “noncontrolled 10-percent owned foreign corporation” means any foreign corporation which is—
+        - **(I)** a specified 10-percent owned foreign corporation (as defined in section 245A(b)), or
+        - **(II)** a passive foreign investment company (as defined in section 1297(a)) with respect to which the taxpayer meets the stock ownership requirements of section 902(a) (or, for purposes of applying paragraphs (3) and (4), the requirements of section 902(b)).
+      - **(ii)** If any foreign corporation is a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer, any inclusion under section 1293 with respect to such corporation shall be treated as a dividend from such corporation.
+    - **(F)** The term “high-taxed income” means any income which (but for this subparagraph) would be passive income if the sum of—
+      - **(i)** the foreign income taxes paid or accrued by the taxpayer with respect to such income, and
+      - **(ii)** the foreign income taxes deemed paid by the taxpayer with respect to such income under section 902 1 or 960,
+    - **(G)** For purposes of this paragraph, the term “export financing interest” means any interest derived from financing the sale (or other disposition) for use or consumption outside the United States of any property—
+      - **(i)** which is manufactured, produced, grown, or extracted in the United States by the taxpayer or a related person, and
+      - **(ii)** not more than 50 percent of the fair market value of which is attributable to products imported into the United States.
+    - **(H)**
+      - **(i)** In the case of taxable years beginning after December 31, 2006 , tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles shall be treated as imposed on income described in paragraph (1)(D).
+      - **(ii)**
+        - **(I)** In the case of taxes paid or accrued in taxable years beginning after December 31, 2004 , and before January 1, 2007 , a taxpayer may elect to treat tax imposed under the law of a foreign country or possession of the United States on an amount which does not constitute income under United States tax principles as tax imposed on income described in subparagraph (C) or (I) of paragraph (1).
+        - **(II)** Any such election shall apply to the taxable year for which made and all subsequent taxable years described in subclause (I) unless revoked with the consent of the Secretary.
+    - **(I)** For purposes of this paragraph, the term “related person” has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting “the person with respect to whom the determination is being made” for “controlled foreign corporation” each place it appears.
+    - **(J)**
+      - **(i)** The term “foreign branch income” means the business profits of such United States person which are attributable to 1 or more qualified business units (as defined in section 989(a)) in 1 or more foreign countries. For purposes of the preceding sentence, the amount of business profits attributable to a qualified business unit shall be determined under rules established by the Secretary.
+      - **(ii)** Such term shall not include any income which is passive category income.
+    - **(K)** For purposes of paragraph (1)—
+      - **(i)** taxes carried from any taxable year beginning before January 1, 2007 , to any taxable year beginning on or after such date, with respect to any item of income, shall be treated as described in the subparagraph of paragraph (1) in which such income would be described were such taxes paid or accrued in a taxable year beginning on or after such date, and
+      - **(ii)** the Secretary may by regulations provide for the allocation of any carryback of taxes with respect to income from a taxable year beginning on or after January 1, 2007 , to a taxable year beginning before such date for purposes of allocating such income among the separate categories in effect for the taxable year to which carried.
+  - **(3)**
+    - **(A)** Except as otherwise provided in this paragraph, dividends, interest, rents, and royalties received or accrued by the taxpayer from a controlled foreign corporation in which the taxpayer is a United States shareholder shall not be treated as passive category income.
+    - **(B)** Any amount included in gross income under section 951(a)(1)(A) shall be treated as passive category income to the extent the amount so included is attributable to passive category income.
+    - **(C)** Any interest, rent, or royalty which is received or accrued from a controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income to the extent it is properly allocable (under regulations prescribed by the Secretary) to passive category income of the controlled foreign corporation.
+    - **(D)** Any dividend paid out of the earnings and profits of any controlled foreign corporation in which the taxpayer is a United States shareholder shall be treated as passive category income in proportion to the ratio of—
+      - **(i)** the portion of the earnings and profits attributable to passive category income, to
+      - **(ii)** the total amount of earnings and profits.
+    - **(E)** If a controlled foreign corporation meets the requirements of section 954(b)(3)(A) (relating to de minimis rule) for any taxable year, for purposes of this paragraph, none of its foreign base company income (as defined in section 954(a) without regard to section 954(b)(5)) and none of its gross insurance income (as defined in section 954(b)(3)(C)) for such taxable year shall be treated as passive category income, except that this sentence shall not apply to any income which (without regard to this sentence) would be treated as financial services income. Solely for purposes of applying subparagraph (D), passive income of a controlled foreign corporation shall not be treated as passive category income if the requirements of section 954(b)(4) are met with respect to such income.
+    - **(F)**
+      - **(i)** In determining whether any income of a controlled foreign corporation is passive category income, subclause (II) of paragraph (2)(B)(iii) shall not apply.
+      - **(ii)** Any income of the taxpayer which is treated as passive category income under this paragraph shall be so treated notwithstanding any provision of paragraph (2); except that the determination of whether any amount is high-taxed income shall be made after the application of this paragraph.
+    - **(G)** For purposes of this paragraph, the term “dividend” includes any amount included in gross income in section 951(a)(1)(B). Any amount included in gross income under section 78 to the extent attributable to amounts included in gross income in section 951(a)(1)(A) shall not be treated as a dividend but shall be treated as included in gross income under section 951(a)(1)(A).
+    - **(H)** If—
+      - **(i)** a passive foreign investment company is a controlled foreign corporation, and
+      - **(ii)** the taxpayer is a United States shareholder in such controlled foreign corporation,
+  - **(4)**
+    - **(A)** For purposes of this subsection, any dividend from a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer shall be treated as income described in a subparagraph of paragraph (1) in proportion to the ratio of—
+      - **(i)** the portion of earnings and profits attributable to income described in such subparagraph, to
+      - **(ii)** the total amount of earnings and profits.
+    - **(B)** In the case of any distribution from a controlled foreign corporation to a United States shareholder, rules similar to the rules of subparagraph (A) shall apply in determining the extent to which earnings and profits of the controlled foreign corporation which are attributable to dividends received from a noncontrolled 10-percent owned foreign corporation may be treated as income in a separate category.
+    - **(C)** For purposes of this paragraph—
+      - **(i)**
+        - **(I)** The rules of section 316 shall apply.
+        - **(II)** The Secretary may prescribe regulations regarding the treatment of distributions out of earnings and profits for periods before the taxpayer’s acquisition of the stock to which the distributions relate.
+      - **(ii)** If the Secretary determines that the proper subparagraph of paragraph (1) in which a dividend is described has not been substantiated, such dividend shall be treated as income described in paragraph (1)(C).
+      - **(iii)** Rules similar to the rules of paragraph (3)(F) shall apply for purposes of this paragraph.
+      - **(iv)** Rules similar to subparagraph (A) also shall apply to any carryforward under subsection (c) from a taxable year beginning before January 1, 2003 , of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation with respect to the taxpayer. The Secretary may by regulations provide for the allocation of any carryback of tax allocable to a dividend from a noncontrolled 10-percent owned foreign corporation from a taxable year beginning on or after January 1, 2003 , to a taxable year beginning before such date for purposes of allocating such dividend among the separate categories in effect for the taxable year to which carried.
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “controlled foreign corporation” has the meaning given such term by section 957 (taking into account section 953(c)).
+    - **(B)** The term “United States shareholder” has the meaning given such term by section 951(b) (taking into account section 953(c)).
+  - **(6)**
+    - **(A)** If—
+      - **(i)** without regard to any treaty obligation of the United States, any item of income would be treated as derived from sources within the United States,
+      - **(ii)** under a treaty obligation of the United States, such item would be treated as arising from sources outside the United States, and
+      - **(iii)** the taxpayer chooses the benefits of such treaty obligation,
+    - **(B)** This paragraph shall not apply to any item of income to which subsection (h)(10) or section 865(h) applies.
+    - **(C)** The Secretary may issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provides that related items of income may be aggregated for purposes of this paragraph.
+  - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate for the purposes of this subsection, including regulations—
+    - **(A)** for the application of paragraph (3) and subsection (f)(5) in the case of income paid (or loans made) through 1 or more entities or between 2 or more chains of entities,
+    - **(B)** preventing the manipulation of the character of income the effect of which is to avoid the purposes of this subsection, and
+    - **(C)** providing that rules similar to the rules of paragraph (3)(C) shall apply to interest, rents, and royalties received or accrued from entities which would be controlled foreign corporations if they were foreign corporations.
+- **[(e)**
+- **(f)**
+  - **(1)** For purposes of this subpart, in the case of any taxpayer who sustains an overall foreign loss for any taxable year, that portion of the taxpayer’s taxable income from sources without the United States for each succeeding taxable year which is equal to the lesser of—
+    - **(A)** the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
+    - **(B)** 50 percent (or such larger percent as the taxpayer may choose) of the taxpayer’s taxable income from sources without the United States for such succeeding taxable year,
+  - **(2)** For purposes of this subsection, the term “overall foreign loss” means the amount by which the gross income for the taxable year from sources without the United States (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) for such year is exceeded by the sum of the deductions properly apportioned or allocated thereto, except that there shall not be taken into account—
+    - **(A)** any net operating loss deduction allowable for such year under section 172(a), and
+    - **(B)** any—
+      - **(i)** foreign expropriation loss for such year, as defined in section 172(h) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), or
+      - **(ii)** loss for such year which arises from fire, storm, shipwreck, or other casualty, or from theft,
+  - **(3)**
+    - **(A)** For purposes of this chapter, if property which has been used predominantly without the United States in a trade or business is disposed of during any taxable year—
+      - **(i)** the taxpayer, notwithstanding any other provision of this chapter (other than paragraph (1)), shall be deemed to have received and recognized taxable income from sources without the United States in the taxable year of the disposition, by reason of such disposition, in an amount equal to the lesser of the excess of the fair market value of such property over the taxpayer’s adjusted basis in such property or the remaining amount of the overall foreign losses which were not used under paragraph (1) for such taxable year or any prior taxable year, and
+      - **(ii)** paragraph (1) shall be applied with respect to such income by substituting “100 percent” for “50 percent”.
+    - **(B)**
+      - **(i)** For purposes of this subsection, the term “disposition” includes a sale, exchange, distribution, or gift of property whether or not gain or loss is recognized on the transfer.
+      - **(ii)** Any taxable income recognized solely by reason of subparagraph (A) shall have the same characterization it would have had if the taxpayer had sold or exchanged the property.
+      - **(iii)** The Secretary shall prescribe such regulations as he may deem necessary to provide for adjustments to the basis of property to reflect taxable income recognized solely by reason of subparagraph (A).
+    - **(C)** Notwithstanding subparagraph (B), the term “disposition” does not include—
+      - **(i)** a disposition of property which is not a material factor in the realization of income by the taxpayer, or
+      - **(ii)** a disposition of property to a domestic corporation in a distribution or transfer described in section 381(a).
+    - **(D)**
+      - **(i)** This paragraph shall apply to an applicable disposition in the same manner as if it were a disposition of property described in subparagraph (A), except that the exception contained in subparagraph (C)(i) shall not apply.
+      - **(ii)** For purposes of clause (i), the term “applicable disposition” means any disposition of any share of stock in a controlled foreign corporation in a transaction or series of transactions if, immediately before such transaction or series of transactions, the taxpayer owned more than 50 percent (by vote or value) of the stock of the controlled foreign corporation. Such term shall not include a disposition described in clause (iii) or (iv), except that clause (i) shall apply to any gain recognized on any such disposition.
+      - **(iii)** A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions—
+        - **(I)** to which section 351 or 721 applies, or under which the transferor receives stock in a foreign corporation in exchange for the stock in the controlled foreign corporation and the stock received is exchanged basis property (as defined in section 7701(a)(44)), and
+        - **(II)** immediately after which, the transferor owns (by vote or value) at least the same percentage of stock in the controlled foreign corporation (or, if the controlled foreign corporation is not in existence after such transaction or series of transactions, in another foreign corporation stock in 2 2 So in original. which was received by the transferor in exchange for stock in the controlled foreign corporation) as the percentage of stock in the controlled foreign corporation which the taxpayer owned immediately before such transaction or series of transactions.
+      - **(iv)** A disposition shall not be treated as an applicable disposition under clause (ii) if it is part of a transaction or series of transactions in which the taxpayer (or any member of an affiliated group of corporations filing a consolidated return under section 1501 which includes the taxpayer) acquires the assets of a controlled foreign corporation in exchange for the shares of the controlled foreign corporation in a liquidation described in section 332 or a reorganization described in section 368(a)(1).
+      - **(v)** For purposes of this subparagraph, the term “controlled foreign corporation” has the meaning given such term by section 957.
+      - **(vi)** For purposes of this subparagraph, ownership of stock shall be determined under the rules of subsections (a) and (b) of section 958.
+  - **(4)** For purposes of this chapter, in the case of amounts of income from sources without the United States which are treated under section 666 (without regard to subsections (b) and (c) thereof if the taxpayer chose to take a deduction with respect to the amounts described in such subsections under section 667(d)(1)(B)) as having been distributed by a foreign trust in a preceding taxable year, that portion of such amounts equal to the amount of any overall foreign loss sustained by the beneficiary in a year prior to the taxable year of the beneficiary in which such distribution is received from the trust shall be treated as income from sources within the United States (and not income from sources without the United States) to the extent that such loss was not used under this subsection in prior taxable years, or in the current taxable year, against other income of the beneficiary.
+  - **(5)**
+    - **(A)** The amount of the separate limitation losses for any taxable year shall reduce income from sources within the United States for such taxable year only to the extent the aggregate amount of such losses exceeds the aggregate amount of the separate limitation incomes for such taxable year.
+    - **(B)** The separate limitation losses for any taxable year (to the extent such losses do not exceed the separate limitation incomes for such year) shall be allocated among (and operate to reduce) such incomes on a proportionate basis.
+    - **(C)** If—
+      - **(i)** a separate limitation loss from any income category (hereinafter in this subparagraph referred to as “the loss category”) was allocated to income from any other category under subparagraph (B), and
+      - **(ii)** the loss category has income for a subsequent taxable year,
+    - **(D)** Any loss from sources in the United States for any taxable year (to the extent such loss does not exceed the separate limitation incomes from such year) shall be allocated among (and operate to reduce) such incomes on a proportionate basis. This subparagraph shall be applied after subparagraph (B).
+    - **(E)** For purposes of this paragraph—
+      - **(i)** The term “income category” means each separate category of income described in subsection (d)(1).
+      - **(ii)** The term “separate limitation income” means, with respect to any income category, the taxable income from sources outside the United States, separately computed for such category.
+      - **(iii)** The term “separate limitation loss” means, with respect to any income category, the loss from such category determined under the principles of section 907(c)(4)(B).
+    - **(F)** If any separate limitation loss for any taxable year is allocated against any separate limitation income for such taxable year, except to the extent provided in regulations, rules similar to the rules of paragraph (3) shall apply to any disposition of property if gain from such disposition would be in the income category with respect to which there was such separate limitation loss.
+- **(g)**
+  - **(1)** For purposes of this subpart and section 936, 1 in the case of any taxpayer who sustains an overall domestic loss for any taxable year beginning after December 31, 2006 , that portion of the taxpayer’s taxable income from sources within the United States for each succeeding taxable year which is equal to the lesser of—
+    - **(A)** the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
+    - **(B)** 50 percent of the taxpayer’s taxable income from sources within the United States for such succeeding taxable year,
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “overall domestic loss” means—
+      - **(i)** with respect to any qualified taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for the taxable year or for any preceding qualified taxable year by reason of a carryback, and
+      - **(ii)** with respect to any other taxable year, the domestic loss for such taxable year to the extent such loss offsets taxable income from sources without the United States for any preceding qualified taxable year by reason of a carryback.
+    - **(B)** For purposes of subparagraph (A), the term “domestic loss” means the amount by which the gross income for the taxable year from sources within the United States is exceeded by the sum of the deductions properly apportioned or allocated thereto (determined without regard to any carryback from a subsequent taxable year).
+    - **(C)** For purposes of subparagraph (A), the term “qualified taxable year” means any taxable year for which the taxpayer chose the benefits of this subpart.
+  - **(3)**
+    - **(A)** Any income from sources within the United States that is treated as income from sources without the United States under paragraph (1) shall be allocated among and increase the income categories in proportion to the loss from sources within the United States previously allocated to those income categories.
+    - **(B)** For purposes of this paragraph, the term “income category” has the meaning given such term by subsection (f)(5)(E)(i).
+  - **(4)** The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this subsection with the provisions of subsection (f).
+  - **(5)**
+    - **(A)** If any pre-2018 unused overall domestic loss is taken into account under paragraph (1) for any applicable taxable year, the taxpayer may elect to have such paragraph applied to such loss by substituting a percentage greater than 50 percent (but not greater than 100 percent) for 50 percent in subparagraph (B) thereof.
+    - **(B)** For purposes of this paragraph, the term “pre-2018 unused overall domestic loss” means any overall domestic loss which—
+      - **(i)** arises in a qualified taxable year beginning before January 1, 2018 , and
+      - **(ii)** has not been used under paragraph (1) for any taxable year beginning before such date.
+    - **(C)** For purposes of this paragraph, the term “applicable taxable year” means any taxable year of the taxpayer beginning after December 31, 2017 , and before January 1, 2028 .
+- **(h)**
+  - **(1)** The following amounts which are derived from a United States-owned foreign corporation and which would be treated as derived from sources outside the United States without regard to this subsection shall, for purposes of this section, be treated as derived from sources within the United States to the extent provided in this subsection:
+    - **(A)** Any amount included in gross income under—
+      - **(i)** section 951(a) (relating to amounts included in gross income of United States shareholders), or
+      - **(ii)** section 1293 (relating to current taxation of income from qualified funds).
+    - **(B)** Interest.
+    - **(C)** Dividends.
+  - **(2)** Any amount described in subparagraph (A) of paragraph (1) shall be treated as derived from sources within the United States to the extent such amount is attributable to income of the United States-owned foreign corporation from sources within the United States.
+  - **(3)** Any interest which—
+    - **(A)** is paid or accrued by a United States-owned foreign corporation during any taxable year,
+    - **(B)** is paid or accrued to a United States shareholder (as defined in section 951(b)) or a related person (within the meaning of section 267(b)) to such a shareholder, and
+    - **(C)** is properly allocable (under regulations prescribed by the Secretary) to income of such foreign corporation for the taxable year from sources within the United States,
+  - **(4)**
+    - **(A)** The United States source ratio of any dividend paid or accrued by a United States-owned foreign corporation shall be treated as derived from sources within the United States.
+    - **(B)** For purposes of subparagraph (A), the term “United States source ratio” means, with respect to any dividend paid out of the earnings and profits for any taxable year, a fraction—
+      - **(i)** the numerator of which is the portion of the earnings and profits for such taxable year from sources within the United States, and
+      - **(ii)** the denominator of which is the total amount of earnings and profits for such taxable year.
+  - **(5)** Paragraph (3) shall not apply to interest paid or accrued during any taxable year (and paragraph (4) shall not apply to any dividends paid out of the earnings and profits for such taxable year) if—
+    - **(A)** the United States-owned foreign corporation has earnings and profits for such taxable year, and
+    - **(B)** less than 10 percent of such earnings and profits is attributable to sources within the United States.
+  - **(6)** For purposes of this subsection, the term “United States-owned foreign corporation” means any foreign corporation if 50 percent or more of—
+    - **(A)** the total combined voting power of all classes of stock of such corporation entitled to vote, or
+    - **(B)** the total value of the stock of such corporation,
+  - **(7)** For purposes of this subsection, the term “dividend” includes any gain treated as a dividend under section 1248.
+  - **(8)** This subsection shall be applied before subsection (f).
+  - **(9)** In the case of any dividend treated as not from sources within the United States under section 861(a)(2)(A), the corporation paying such dividend shall be treated for purposes of this subsection as a United States-owned foreign corporation.
+  - **(10)**
+    - **(A)** If—
+      - **(i)** any amount derived from a United States-owned foreign corporation would be treated as derived from sources within the United States under this subsection by reason of an item of income of such United States-owned foreign corporation,
+      - **(ii)** under a treaty obligation of the United States (applied without regard to this subsection and by treating any amount included in gross income under section 951(a)(1) as a dividend), such amount would be treated as arising from sources outside the United States, and
+      - **(iii)** the taxpayer chooses the benefits of this paragraph,
+    - **(B)** Amounts included in gross income under section 951(a)(1) shall be treated as a dividend under subparagraph (A)(ii) only if dividends paid by each corporation (the stock in which is taken into account in determining whether the shareholder is a United States shareholder in the United States-owned foreign corporation), if paid to the United States shareholder, would be treated under a treaty obligation of the United States as arising from sources outside the United States (applied without regard to this subsection).
+  - **(11)** The Secretary shall prescribe such regulations as may be necessary or appropriate for purposes of this subsection, including—
+    - **(A)** regulations for the application of this subsection in the case of interest or dividend payments through 1 or more entities, and
+    - **(B)** regulations providing that this subsection shall apply to interest paid or accrued to any person (whether or not a United States shareholder).
+- **(i)** If 2 or more domestic corporations would be members of the same affiliated group if—
+  - **(1)** section 1504(b) were applied without regard to the exceptions contained therein, and
+  - **(2)** the constructive ownership rules of section 1563(e) applied for purposes of section 1504(a),
+- **(j)**
+  - **(1)** In the case of an individual to whom this subsection applies for any taxable year—
+    - **(A)** the limitation of subsection (a) shall not apply,
+    - **(B)** no taxes paid or accrued by the individual during such taxable year may be deemed paid or accrued under subsection (c) in any other taxable year, and
+    - **(C)** no taxes paid or accrued by the individual during any other taxable year may be deemed paid or accrued under subsection (c) in such taxable year.
+  - **(2)** This subsection shall apply to an individual for any taxable year if—
+    - **(A)** the entire amount of such individual’s gross income for the taxable year from sources without the United States consists of qualified passive income,
+    - **(B)** the amount of the creditable foreign taxes paid or accrued by the individual during the taxable year does not exceed $300 ($600 in the case of a joint return), and
+    - **(C)** such individual elects to have this subsection apply for the taxable year.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “qualified passive income” means any item of gross income if—
+      - **(i)** such item of income is passive income (as defined in subsection (d)(2)(B) without regard to clause (iii) thereof), and
+      - **(ii)** such item of income is shown on a payee statement furnished to the individual.
+    - **(B)** The term “creditable foreign taxes” means any taxes for which a credit is allowable under section 901; except that such term shall not include any tax unless such tax is shown on a payee statement furnished to such individual.
+    - **(C)** The term “payee statement” has the meaning given to such term by section 6724(d)(2).
+    - **(D)** This subsection shall not apply to any estate or trust.
+- **(k)** For increase of limitation under subsection (a) for taxes paid with respect to amounts received which were included in the gross income of the taxpayer for a prior taxable year as a United States shareholder with respect to a controlled foreign corporation, see section 960(c).

@@ -5,7 +5,7 @@ usc_section: "854"
 chapter: 20
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 854"
-generated_at: "2026-03-29T00:32:57.386Z"
+generated_at: "2026-03-29T02:15:47.573Z"
 ---
 
 # § 854. Selections in New Mexico to supply deficiencies of school lands

@@ -5,14 +5,14 @@ usc_section: "284j"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 284j"
-generated_at: "2026-03-29T00:29:52.337Z"
+generated_at: "2026-03-29T02:11:53.364Z"
 ---
 
 # § 284j. Definitions
 
 As used in this subchapter, the term—
 
-  (1) “Secretary” means the Secretary of the Interior.
-  (2) “Park” means the Wolf Trap National Park for the Performing Arts established under this subchapter, including the Center.
-  (3) “Center” means the Filene Center in the Park. Such term includes all real property and fixtures which are within or directly related to the Filene Center.
-  (4) “Foundation” means the Wolf Trap Foundation for the Performing Arts organized pursuant to the District of Columbia Nonprofit Organization Act.
+  - **(1)** “Secretary” means the Secretary of the Interior.
+  - **(2)** “Park” means the Wolf Trap National Park for the Performing Arts established under this subchapter, including the Center.
+  - **(3)** “Center” means the Filene Center in the Park. Such term includes all real property and fixtures which are within or directly related to the Filene Center.
+  - **(4)** “Foundation” means the Wolf Trap Foundation for the Performing Arts organized pursuant to the District of Columbia Nonprofit Organization Act.

@@ -5,7 +5,7 @@ usc_section: "2708"
 chapter: 28
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2708"
-generated_at: "2026-03-29T00:29:16.766Z"
+generated_at: "2026-03-29T02:11:21.148Z"
 ---
 
 # § 2708. Expiration date

@@ -5,14 +5,14 @@ usc_section: "4701"
 chapter: 59
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 4701"
-generated_at: "2026-03-29T00:07:03.177Z"
+generated_at: "2026-03-29T02:12:17.415Z"
 ---
 
 # § 4701. Findings
 
 The Congress makes the following findings:
 
-  (1) Senator Barry Goldwater of the State of Arizona has served his country for 56 years as a soldier and statesman, including service in the United States Senate for a period of 30 years.
-  (2) Senator Goldwater has a distinguished record as a Senator, including service as Chairman of the Select Committee on Intelligence of the Senate and as Chairman of the Committee on Armed Services of the Senate.
-  (3) Senator Goldwater has long maintained a special interest in the education of America’s youth, particularly in the fields of science and mathematics.
-  (4) It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
+  - **(1)** Senator Barry Goldwater of the State of Arizona has served his country for 56 years as a soldier and statesman, including service in the United States Senate for a period of 30 years.
+  - **(2)** Senator Goldwater has a distinguished record as a Senator, including service as Chairman of the Select Committee on Intelligence of the Senate and as Chairman of the Committee on Armed Services of the Senate.
+  - **(3)** Senator Goldwater has long maintained a special interest in the education of America’s youth, particularly in the fields of science and mathematics.
+  - **(4)** It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.

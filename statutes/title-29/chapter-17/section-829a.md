@@ -5,7 +5,7 @@ usc_section: "829a"
 chapter: 17
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 829a"
-generated_at: "2026-03-29T00:31:27.613Z"
+generated_at: "2026-03-29T02:14:09.403Z"
 ---
 
 # § 829a. Repealed. Pub. L. 97–300, title I, § 184(a)(2) , Oct. 13, 1982 , 96 Stat. 1358

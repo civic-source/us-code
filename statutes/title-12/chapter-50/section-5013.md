@@ -5,10 +5,10 @@ usc_section: "5013"
 chapter: 50
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5013"
-generated_at: "2026-03-29T00:29:16.870Z"
+generated_at: "2026-03-29T02:11:21.237Z"
 ---
 
 # § 5013. Variation by agreement
 
-(a) Any provision of section 5007 of this title may be varied by agreement of the banks involved.
-(b) Except as provided in subsection (a), no provision of this chapter may be varied by agreement of any person or persons.
+- **(a)** Any provision of section 5007 of this title may be varied by agreement of the banks involved.
+- **(b)** Except as provided in subsection (a), no provision of this chapter may be varied by agreement of any person or persons.

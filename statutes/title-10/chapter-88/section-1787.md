@@ -5,10 +5,10 @@ usc_section: "1787"
 chapter: 88
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1787"
-generated_at: "2026-03-29T00:20:53.008Z"
+generated_at: "2026-03-29T02:10:45.050Z"
 ---
 
 # § 1787. Reporting of child abuse
 
-(a) The Secretary of Defense shall request each State to provide for the reporting to the Secretary of any report the State receives of known or suspected instances of child abuse and neglect in which the person having care of the child is a member of the armed forces (or the spouse of the member).
-(b) In this section, the term “child abuse and neglect” has the meaning provided in section 3 of the Child Abuse Prevention and Treatment Act ( Public Law 93–247 ; 42 U.S.C. 5101 note).
+- **(a)** The Secretary of Defense shall request each State to provide for the reporting to the Secretary of any report the State receives of known or suspected instances of child abuse and neglect in which the person having care of the child is a member of the armed forces (or the spouse of the member).
+- **(b)** In this section, the term “child abuse and neglect” has the meaning provided in section 3 of the Child Abuse Prevention and Treatment Act ( Public Law 93–247 ; 42 U.S.C. 5101 note).

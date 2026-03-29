@@ -5,12 +5,12 @@ usc_section: "321i"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 321i"
-generated_at: "2026-03-29T00:06:17.478Z"
+generated_at: "2026-03-29T02:10:04.989Z"
 ---
 
 # § 321i. Use of commercially available technology, goods, and services
 
 It is the sense of Congress that—
 
-  (1) the Secretary should, to the maximum extent possible, use off-the-shelf commercially developed technologies to ensure that the Department’s information technology systems allow the Department to collect, manage, share, analyze, and disseminate information securely over multiple channels of communication; and
-  (2) in order to further the policy of the United States to avoid competing commercially with the private sector, the Secretary should rely on commercial sources to supply the goods and services needed by the Department.
+  - **(1)** the Secretary should, to the maximum extent possible, use off-the-shelf commercially developed technologies to ensure that the Department’s information technology systems allow the Department to collect, manage, share, analyze, and disseminate information securely over multiple channels of communication; and
+  - **(2)** in order to further the policy of the United States to avoid competing commercially with the private sector, the Secretary should rely on commercial sources to supply the goods and services needed by the Department.

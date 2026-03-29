@@ -5,7 +5,7 @@ usc_section: "877"
 chapter: 41
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 877"
-generated_at: "2026-03-29T00:30:15.637Z"
+generated_at: "2026-03-29T02:12:02.384Z"
 ---
 
 # § 877. Mailing threatening communications from foreign country

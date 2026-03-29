@@ -5,33 +5,33 @@ usc_section: "1104"
 chapter: 4
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 1104"
-generated_at: "2026-03-29T00:06:17.492Z"
+generated_at: "2026-03-29T02:10:05.072Z"
 ---
 
 # § 1104. Immunity for reports of suspected terrorist activity or suspicious behavior and response
 
-(a) 
-  (1) Any person who, in good faith and based on objectively reasonable suspicion, makes, or causes to be made, a voluntary report of covered activity to an authorized official shall be immune from civil liability under Federal, State, and local law for such report.
-  (2) Paragraph (1) shall not apply to any report that the person knew to be false or was made with reckless disregard for the truth at the time that person made that report.
-(b) 
-  (1) Any authorized official who observes, or receives a report of, covered activity and takes reasonable action in good faith to respond to such activity shall have qualified immunity from civil liability for such action, consistent with applicable law in the relevant jurisdiction. An authorized official as defined by subsection (d)(1)(A) not entitled to assert the defense of qualified immunity shall nevertheless be immune from civil liability under Federal, State, and local law if such authorized official takes reasonable action, in good faith, to respond to the reported activity.
-  (2) Nothing in this subsection shall affect the ability of any authorized official to assert any defense, privilege, or immunity that would otherwise be available, and this subsection shall not be construed as affecting any such defense, privilege, or immunity.
-(c) Any person or authorized official found to be immune from civil liability under this section shall be entitled to recover from the plaintiff all reasonable costs and attorney fees.
-(d) In this section:
-  (1) The term “authorized official” means—
-    (A) any employee or agent of a passenger transportation system or other person with responsibilities relating to the security of such systems;
-    (B) any officer, employee, or agent of the Department of Homeland Security, the Department of Transportation, or the Department of Justice with responsibilities relating to the security of passenger transportation systems; or
-    (C) any Federal, State, or local law enforcement officer.
-  (2) The term “covered activity” means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
-    (A) a threat to a passenger transportation system or passenger safety or security; or
-    (B) an act of terrorism (as that term is defined in section 3077 of title 18 ).
-  (3) The term “passenger transportation” means—
-    (A) public transportation, as defined in section 5302 of title 49 ;
-    (B) over-the-road bus transportation, as defined in subchapter IV, and school bus transportation;
-    (C) intercity passenger rail 1 1 So in original. Probably should be “intercity rail passenger”. transportation 2 2 So in original. Probably should be followed by a comma. as defined in section 24102 of title 49 ;
-    (D) the transportation of passengers onboard a passenger vessel 2 as defined in section 2101 of title 46 ;
-    (E) other regularly scheduled waterborne transportation service of passengers by vessel of at least 20 gross tons; and
-    (F) air transportation, as defined in section 40102 of title 49 , of passengers.
-  (4) The term “passenger transportation system” means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
-  (5) The term “vehicle” has the meaning given to that term in section 1992(16) 3 3 So in original. Probably should be section “1992(d)(16)”. of title 18.
-(e) This section shall take effect on October 1, 2006 , and shall apply to all activities and claims occurring on or after such date.
+- **(a)**
+  - **(1)** Any person who, in good faith and based on objectively reasonable suspicion, makes, or causes to be made, a voluntary report of covered activity to an authorized official shall be immune from civil liability under Federal, State, and local law for such report.
+  - **(2)** Paragraph (1) shall not apply to any report that the person knew to be false or was made with reckless disregard for the truth at the time that person made that report.
+- **(b)**
+  - **(1)** Any authorized official who observes, or receives a report of, covered activity and takes reasonable action in good faith to respond to such activity shall have qualified immunity from civil liability for such action, consistent with applicable law in the relevant jurisdiction. An authorized official as defined by subsection (d)(1)(A) not entitled to assert the defense of qualified immunity shall nevertheless be immune from civil liability under Federal, State, and local law if such authorized official takes reasonable action, in good faith, to respond to the reported activity.
+  - **(2)** Nothing in this subsection shall affect the ability of any authorized official to assert any defense, privilege, or immunity that would otherwise be available, and this subsection shall not be construed as affecting any such defense, privilege, or immunity.
+- **(c)** Any person or authorized official found to be immune from civil liability under this section shall be entitled to recover from the plaintiff all reasonable costs and attorney fees.
+- **(d)** In this section:
+  - **(1)** The term “authorized official” means—
+    - **(A)** any employee or agent of a passenger transportation system or other person with responsibilities relating to the security of such systems;
+    - **(B)** any officer, employee, or agent of the Department of Homeland Security, the Department of Transportation, or the Department of Justice with responsibilities relating to the security of passenger transportation systems; or
+    - **(C)** any Federal, State, or local law enforcement officer.
+  - **(2)** The term “covered activity” means any suspicious transaction, activity, or occurrence that involves, or is directed against, a passenger transportation system or vehicle or its passengers indicating that an individual may be engaging, or preparing to engage, in a violation of law relating to—
+    - **(A)** a threat to a passenger transportation system or passenger safety or security; or
+    - **(B)** an act of terrorism (as that term is defined in section 3077 of title 18 ).
+  - **(3)** The term “passenger transportation” means—
+    - **(A)** public transportation, as defined in section 5302 of title 49 ;
+    - **(B)** over-the-road bus transportation, as defined in subchapter IV, and school bus transportation;
+    - **(C)** intercity passenger rail 1 1 So in original. Probably should be “intercity rail passenger”. transportation 2 2 So in original. Probably should be followed by a comma. as defined in section 24102 of title 49 ;
+    - **(D)** the transportation of passengers onboard a passenger vessel 2 as defined in section 2101 of title 46 ;
+    - **(E)** other regularly scheduled waterborne transportation service of passengers by vessel of at least 20 gross tons; and
+    - **(F)** air transportation, as defined in section 40102 of title 49 , of passengers.
+  - **(4)** The term “passenger transportation system” means an entity or entities organized to provide passenger transportation using vehicles, including the infrastructure used to provide such transportation.
+  - **(5)** The term “vehicle” has the meaning given to that term in section 1992(16) 3 3 So in original. Probably should be section “1992(d)(16)”. of title 18.
+- **(e)** This section shall take effect on October 1, 2006 , and shall apply to all activities and claims occurring on or after such date.

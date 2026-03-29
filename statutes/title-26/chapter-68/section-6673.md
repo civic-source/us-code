@@ -5,20 +5,20 @@ usc_section: "6673"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6673"
-generated_at: "2026-03-29T00:31:21.073Z"
+generated_at: "2026-03-29T02:14:01.363Z"
 ---
 
 # § 6673. Sanctions and costs awarded by courts
 
-(a) 
-  (1) Whenever it appears to the Tax Court that—
-    (A) proceedings before it have been instituted or maintained by the taxpayer primarily for delay,
-    (B) the taxpayer’s position in such proceeding is frivolous or groundless, or
-    (C) the taxpayer unreasonably failed to pursue available administrative remedies,
-  (2) Whenever it appears to the Tax Court that any attorney or other person admitted to practice before the Tax Court has multiplied the proceedings in any case unreasonably and vexatiously, the Tax Court may require—
-    (A) that such attorney or other person pay personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct, or
-    (B) if such attorney is appearing on behalf of the Commissioner of Internal Revenue, that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
-(b) 
-  (1) Whenever it appears to the court that the taxpayer’s position in the proceedings before the court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
-  (2) In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the United States may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
-  (3) In connection with any appeal from a proceeding in the Tax Court or a civil proceeding described in paragraph (2), an order of a United States Court of Appeals or the Supreme Court awarding monetary sanctions, penalties or court costs to the United States may be registered in a district court upon filing a certified copy of such order and shall be enforceable as other district court judgments. Any such sanctions, penalties, or costs may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
+- **(a)**
+  - **(1)** Whenever it appears to the Tax Court that—
+    - **(A)** proceedings before it have been instituted or maintained by the taxpayer primarily for delay,
+    - **(B)** the taxpayer’s position in such proceeding is frivolous or groundless, or
+    - **(C)** the taxpayer unreasonably failed to pursue available administrative remedies,
+  - **(2)** Whenever it appears to the Tax Court that any attorney or other person admitted to practice before the Tax Court has multiplied the proceedings in any case unreasonably and vexatiously, the Tax Court may require—
+    - **(A)** that such attorney or other person pay personally the excess costs, expenses, and attorneys’ fees reasonably incurred because of such conduct, or
+    - **(B)** if such attorney is appearing on behalf of the Commissioner of Internal Revenue, that the United States pay such excess costs, expenses, and attorneys’ fees in the same manner as such an award by a district court.
+- **(b)**
+  - **(1)** Whenever it appears to the court that the taxpayer’s position in the proceedings before the court instituted or maintained by such taxpayer under section 7433 is frivolous or groundless, the court may require the taxpayer to pay to the United States a penalty not in excess of $10,000.
+  - **(2)** In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the United States may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
+  - **(3)** In connection with any appeal from a proceeding in the Tax Court or a civil proceeding described in paragraph (2), an order of a United States Court of Appeals or the Supreme Court awarding monetary sanctions, penalties or court costs to the United States may be registered in a district court upon filing a certified copy of such order and shall be enforceable as other district court judgments. Any such sanctions, penalties, or costs may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.

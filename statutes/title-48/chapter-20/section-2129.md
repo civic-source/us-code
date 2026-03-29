@@ -5,10 +5,10 @@ usc_section: "2129"
 chapter: 20
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 2129"
-generated_at: "2026-03-29T00:33:06.676Z"
+generated_at: "2026-03-29T02:16:00.849Z"
 ---
 
 # § 2129. Ethics
 
-(a) Notwithstanding any ethics provision governing employees of the covered territory, all members and staff of the Oversight Board shall be subject to the Federal conflict of interest requirements described in section 208 of title 18 .
-(b) Notwithstanding any ethics provision governing employees of the covered territory, all members of the Oversight Board and staff designated by the Oversight Board shall be subject to disclosure of their financial interests, the contents of which shall conform to the same requirements set forth in section 13104 of title 5 .
+- **(a)** Notwithstanding any ethics provision governing employees of the covered territory, all members and staff of the Oversight Board shall be subject to the Federal conflict of interest requirements described in section 208 of title 18 .
+- **(b)** Notwithstanding any ethics provision governing employees of the covered territory, all members of the Oversight Board and staff designated by the Oversight Board shall be subject to disclosure of their financial interests, the contents of which shall conform to the same requirements set forth in section 13104 of title 5 .

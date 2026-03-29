@@ -5,12 +5,12 @@ usc_section: "3324"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3324"
-generated_at: "2026-03-29T00:28:58.178Z"
+generated_at: "2026-03-29T02:10:17.005Z"
 ---
 
 # § 3324. Authorization of appropriations
 
-(a) There are authorized to be appropriated to carry out this subchapter—
-  (1) $7,500,000 for each of fiscal years 1991 through 2013; and
-  (2) $5,000,000 for each of fiscal years 2014 through 2023.
-(b) Funds made available under this section may not be used to acquire or construct a building.
+- **(a)** There are authorized to be appropriated to carry out this subchapter—
+  - **(1)** $7,500,000 for each of fiscal years 1991 through 2013; and
+  - **(2)** $5,000,000 for each of fiscal years 2014 through 2023.
+- **(b)** Funds made available under this section may not be used to acquire or construct a building.

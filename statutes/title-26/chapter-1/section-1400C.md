@@ -5,7 +5,7 @@ usc_section: "1400C"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1400C"
-generated_at: "2026-03-29T00:31:20.893Z"
+generated_at: "2026-03-29T02:14:01.146Z"
 ---
 
 # [§§ 1400 to 1400C. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(4)(A) , Mar. 23, 2018 , 132 Stat. 1209 ]

@@ -5,7 +5,7 @@ usc_section: "1444"
 chapter: 89
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1444"
-generated_at: "2026-03-29T00:31:24.178Z"
+generated_at: "2026-03-29T02:14:04.552Z"
 ---
 
 # § 1444. Foreclosure action against United States

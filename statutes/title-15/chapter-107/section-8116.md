@@ -5,9 +5,9 @@ usc_section: "8116"
 chapter: 107
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8116"
-generated_at: "2026-03-29T00:29:41.938Z"
+generated_at: "2026-03-29T02:11:34.441Z"
 ---
 
 # § 8116. Authorization of appropriations
 
-(a) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this subchapter.
+- **(a)** There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this subchapter.

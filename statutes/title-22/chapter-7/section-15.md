@@ -5,10 +5,10 @@ usc_section: "15"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 15"
-generated_at: "2026-03-29T00:30:33.699Z"
+generated_at: "2026-03-29T02:12:39.973Z"
 ---
 
 # § 290g–15. Sixth replenishment
 
-(a) The United States Governor of the Fund is authorized to contribute $405,000,000 to the sixth replenishment of the resources of the Fund, except that such authority shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-(b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $135,000,000 for payment by the Secretary of the Treasury.
+- **(a)** The United States Governor of the Fund is authorized to contribute $405,000,000 to the sixth replenishment of the resources of the Fund, except that such authority shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+- **(b)** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $135,000,000 for payment by the Secretary of the Treasury.

@@ -5,7 +5,7 @@ usc_section: "552"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 552"
-generated_at: "2026-03-29T00:31:57.195Z"
+generated_at: "2026-03-29T02:14:18.496Z"
 ---
 
 # § 552. Repealed. May 29, 1928, ch. 901, § 1(28) , 45 Stat. 988

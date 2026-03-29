@@ -5,15 +5,15 @@ usc_section: "1616p"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1616p"
-generated_at: "2026-03-29T00:30:38.683Z"
+generated_at: "2026-03-29T02:13:20.887Z"
 ---
 
 # § 1616p. Health professional chronic shortage demonstration programs
 
-(a) The Secretary, acting through the Service, may fund demonstration programs for Indian health programs to address the chronic shortages of health professionals.
-(b) The purposes of demonstration programs under subsection (a) shall be—
-  (1) to provide direct clinical and practical experience within an Indian health program to health profession students and residents from medical schools;
-  (2) to improve the quality of health care for Indians by ensuring access to qualified health professionals;
-  (3) to provide academic and scholarly opportunities for health professionals serving Indians by identifying all academic and scholarly resources of the region; and
-  (4) to provide training and support for alternative provider types, such as community health representatives, and community health aides.
-(c) The demonstration programs established pursuant to subsection (a) shall incorporate a program advisory board, which may be composed of representatives of tribal governments, Indian health programs, and Indian communities in the areas to be served by the demonstration programs.
+- **(a)** The Secretary, acting through the Service, may fund demonstration programs for Indian health programs to address the chronic shortages of health professionals.
+- **(b)** The purposes of demonstration programs under subsection (a) shall be—
+  - **(1)** to provide direct clinical and practical experience within an Indian health program to health profession students and residents from medical schools;
+  - **(2)** to improve the quality of health care for Indians by ensuring access to qualified health professionals;
+  - **(3)** to provide academic and scholarly opportunities for health professionals serving Indians by identifying all academic and scholarly resources of the region; and
+  - **(4)** to provide training and support for alternative provider types, such as community health representatives, and community health aides.
+- **(c)** The demonstration programs established pursuant to subsection (a) shall incorporate a program advisory board, which may be composed of representatives of tribal governments, Indian health programs, and Indian communities in the areas to be served by the demonstration programs.

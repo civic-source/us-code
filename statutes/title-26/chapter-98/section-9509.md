@@ -5,45 +5,45 @@ usc_section: "9509"
 chapter: 98
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 9509"
-generated_at: "2026-03-29T00:31:21.128Z"
+generated_at: "2026-03-29T02:14:01.427Z"
 ---
 
 # § 9509. Oil Spill Liability Trust Fund
 
-(a) There is established in the Treasury of the United States a trust fund to be known as the “Oil Spill Liability Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
-(b) There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equivalent to—
-  (1) taxes received in the Treasury under section 4611 (relating to environmental tax on petroleum) to the extent attributable to the Oil Spill Liability Trust Fund financing rate under section 4611(c),
-  (2) amounts recovered under the Oil Pollution Act of 1990 for damages to natural resources which are required to be deposited in the Fund under section 1006(f) of such Act,
-  (3) amounts recovered by such Trust Fund under section 1015 of such Act,
-  (4) amounts required to be transferred by such Act from the revolving fund established under section 311(k) of the Federal Water Pollution Control Act,
-  (5) amounts required to be transferred by the Oil Pollution Act of 1990 from the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974,
-  (6) amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund established under section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
-  (7) amounts required to be transferred by the Oil Pollution Act of 1990 from the Trans-Alaska Pipeline Liability Fund established under section 204 of the Trans-Alaska Pipeline Authorization Act, and
-  (8) any penalty paid pursuant to section 311 of the Federal Water Pollution Control Act, section 309(c) of such Act (as a result of violations of such section 311), the Deepwater Port Act of 1974, or section 207 of the Trans-Alaska Pipeline Authorization Act.
-(c) 
-  (1) Amounts in the Oil Spill Liability Trust Fund shall be available, as provided in appropriation Acts or section 6002(b) of the Oil Pollution Act of 1990, only for purposes of making expenditures—
-    (A) for the payment of removal costs and other costs, expenses, claims, and damages referred to in section 1012 of such Act,
-    (B) to carry out sections 5 and 7 of the Intervention on the High Seas Act relating to oil pollution or the substantial threat of oil pollution,
-    (C) for the payment of liabilities incurred by the revolving fund established by section 311(k) of the Federal Water Pollution Control Act,
-    (D) to carry out subsections (b), (c), (d), (j), and ( l ) of section 311 of the Federal Water Pollution Control Act with respect to prevention, removal, and enforcement related to oil discharges (as defined in such section),
-    (E) for the payment of liabilities incurred by the Deepwater Port Liability Fund, and
-    (F) for the payment of liabilities incurred by the Offshore Oil Pollution Compensation Fund.
-  (2) 
-    (A) The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
-      (i) any single incident shall not exceed $1,500,000,000, and
-      (ii) natural resource damage assessments and claims in connection with any single incident shall not exceed $750,000,000.
-    (B) Except in the case of payments of removal costs, a payment may be made from such Trust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
-(d) 
-  (1) There are authorized to be appropriated to the Oil Spill Liability Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
-  (2) The maximum aggregate amount of repayable advances to the Oil Spill Liability Trust Fund which is outstanding at any one time shall not exceed $1,000,000,000.
-  (3) 
-    (A) Advances made to the Oil Spill Liability Trust Fund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in such Fund.
-    (B) No advance shall be made to the Oil Spill Liability Trust Fund after December 31, 1994 , and all advances to such Fund shall be repaid on or before such date.
-    (C) Interest on advances made pursuant to this subsection shall be—
-      (i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
-      (ii) compounded annually.
-(e) 
-  (1) Any claim filed against the Oil Spill Liability Trust Fund may be paid only out of such Trust Fund.
-  (2) Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
-  (3) If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
-(f) Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
+- **(a)** There is established in the Treasury of the United States a trust fund to be known as the “Oil Spill Liability Trust Fund”, consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section or section 9602(b).
+- **(b)** There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equivalent to—
+  - **(1)** taxes received in the Treasury under section 4611 (relating to environmental tax on petroleum) to the extent attributable to the Oil Spill Liability Trust Fund financing rate under section 4611(c),
+  - **(2)** amounts recovered under the Oil Pollution Act of 1990 for damages to natural resources which are required to be deposited in the Fund under section 1006(f) of such Act,
+  - **(3)** amounts recovered by such Trust Fund under section 1015 of such Act,
+  - **(4)** amounts required to be transferred by such Act from the revolving fund established under section 311(k) of the Federal Water Pollution Control Act,
+  - **(5)** amounts required to be transferred by the Oil Pollution Act of 1990 from the Deepwater Port Liability Fund established under section 18(f) of the Deepwater Port Act of 1974,
+  - **(6)** amounts required to be transferred by the Oil Pollution Act of 1990 from the Offshore Oil Pollution Compensation Fund established under section 302 of the Outer Continental Shelf Lands Act Amendments of 1978,
+  - **(7)** amounts required to be transferred by the Oil Pollution Act of 1990 from the Trans-Alaska Pipeline Liability Fund established under section 204 of the Trans-Alaska Pipeline Authorization Act, and
+  - **(8)** any penalty paid pursuant to section 311 of the Federal Water Pollution Control Act, section 309(c) of such Act (as a result of violations of such section 311), the Deepwater Port Act of 1974, or section 207 of the Trans-Alaska Pipeline Authorization Act.
+- **(c)**
+  - **(1)** Amounts in the Oil Spill Liability Trust Fund shall be available, as provided in appropriation Acts or section 6002(b) of the Oil Pollution Act of 1990, only for purposes of making expenditures—
+    - **(A)** for the payment of removal costs and other costs, expenses, claims, and damages referred to in section 1012 of such Act,
+    - **(B)** to carry out sections 5 and 7 of the Intervention on the High Seas Act relating to oil pollution or the substantial threat of oil pollution,
+    - **(C)** for the payment of liabilities incurred by the revolving fund established by section 311(k) of the Federal Water Pollution Control Act,
+    - **(D)** to carry out subsections (b), (c), (d), (j), and ( l ) of section 311 of the Federal Water Pollution Control Act with respect to prevention, removal, and enforcement related to oil discharges (as defined in such section),
+    - **(E)** for the payment of liabilities incurred by the Deepwater Port Liability Fund, and
+    - **(F)** for the payment of liabilities incurred by the Offshore Oil Pollution Compensation Fund.
+  - **(2)**
+    - **(A)** The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
+      - **(i)** any single incident shall not exceed $1,500,000,000, and
+      - **(ii)** natural resource damage assessments and claims in connection with any single incident shall not exceed $750,000,000.
+    - **(B)** Except in the case of payments of removal costs, a payment may be made from such Trust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
+- **(d)**
+  - **(1)** There are authorized to be appropriated to the Oil Spill Liability Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
+  - **(2)** The maximum aggregate amount of repayable advances to the Oil Spill Liability Trust Fund which is outstanding at any one time shall not exceed $1,000,000,000.
+  - **(3)**
+    - **(A)** Advances made to the Oil Spill Liability Trust Fund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in such Fund.
+    - **(B)** No advance shall be made to the Oil Spill Liability Trust Fund after December 31, 1994 , and all advances to such Fund shall be repaid on or before such date.
+    - **(C)** Interest on advances made pursuant to this subsection shall be—
+      - **(i)** at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
+      - **(ii)** compounded annually.
+- **(e)**
+  - **(1)** Any claim filed against the Oil Spill Liability Trust Fund may be paid only out of such Trust Fund.
+  - **(2)** Nothing in the Oil Pollution Act of 1990 (or in any amendment made by such Act) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Oil Spill Liability Trust Fund.
+  - **(3)** If at any time the Oil Spill Liability Trust Fund has insufficient funds (or is unable by reason of subsection (c)(2)) to pay all of the claims out of such Trust Fund at such time, such claims shall, to the extent permitted under paragraph (1) and such subsection, be paid in full in the order in which they were finally determined.
+- **(f)** Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.

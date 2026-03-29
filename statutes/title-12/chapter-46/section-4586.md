@@ -5,17 +5,17 @@ usc_section: "4586"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4586"
-generated_at: "2026-03-29T00:29:16.835Z"
+generated_at: "2026-03-29T02:11:21.208Z"
 ---
 
 # § 4586. Public disclosure of final orders and agreements
 
-(a) The Director shall make available to the public—
-  (1) any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 1 1 So in original. Probably should be “Director’s”. discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
-  (2) any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under this subpart and that has become final in accordance with sections 4582 and 4583 of this title; and
-  (3) any modification to or termination of any final order made public pursuant to this subsection.
-(b) All hearings with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Secretary’s 1 discretion, determines that holding an open hearing would be contrary to the public interest.
-(c) If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
-(d) The Director may file any document or part thereof under seal in any hearing under this subpart if the Director determines in writing that disclosure thereof would be contrary to the public interest.
-(e) The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
-(f) This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
+- **(a)** The Director shall make available to the public—
+  - **(1)** any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 1 1 So in original. Probably should be “Director’s”. discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
+  - **(2)** any order that is issued with respect to any administrative enforcement proceeding initiated by the Director under this subpart and that has become final in accordance with sections 4582 and 4583 of this title; and
+  - **(3)** any modification to or termination of any final order made public pursuant to this subsection.
+- **(b)** All hearings with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Secretary’s 1 discretion, determines that holding an open hearing would be contrary to the public interest.
+- **(c)** If the Director makes a determination in writing that the public disclosure of any final order pursuant to subsection (a) would seriously threaten the financial soundness of the enterprise, the Director may delay the public disclosure of such order for a reasonable time.
+- **(d)** The Director may file any document or part thereof under seal in any hearing under this subpart if the Director determines in writing that disclosure thereof would be contrary to the public interest.
+- **(e)** The Director shall keep and maintain a record, for not less than 6 years, of all documents described in subsection (a) and all enforcement agreements and other supervisory actions and supporting documents issued with respect to or in connection with any enforcement proceeding initiated by the Director under this subpart.
+- **(f)** This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.

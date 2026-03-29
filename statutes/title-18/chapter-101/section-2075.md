@@ -5,7 +5,7 @@ usc_section: "2075"
 chapter: 101
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2075"
-generated_at: "2026-03-29T00:30:15.692Z"
+generated_at: "2026-03-29T02:12:02.434Z"
 ---
 
 # § 2075. Officer failing to make returns or reports

@@ -5,16 +5,16 @@ usc_section: "4633"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4633"
-generated_at: "2026-03-29T00:29:16.848Z"
+generated_at: "2026-03-29T02:11:21.217Z"
 ---
 
 # § 4633. Hearings
 
-(a) 
-  (1) Any hearing under section 4631, 4636(c), or 4636a of this title shall be held on the record and in the District of Columbia.
-  (2) Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4631 or 4636a of this title or determination to impose a penalty under section 4636 of this title , unless an earlier or a later date is set by the hearing officer at the request of the party served.
-  (3) Any such hearing shall be conducted in accordance with chapter 5 of title 5.
-  (4) If the party served fails to appear at the hearing through a duly authorized representative, such party shall be deemed to have consented to the issuance of the cease-and-desist or removal or prohibition order or the imposition of the penalty for which the hearing is held.
-(b) 
-  (1) After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this subchapter.
-  (2) Judicial review of any such order shall be exclusively as provided in section 4634 of this title . Unless such a petition for review is timely filed as provided in section 4634 of this title , and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
+- **(a)**
+  - **(1)** Any hearing under section 4631, 4636(c), or 4636a of this title shall be held on the record and in the District of Columbia.
+  - **(2)** Any such hearing shall be fixed for a date not earlier than 30 days nor later than 60 days after service of the notice of charges under section 4631 or 4636a of this title or determination to impose a penalty under section 4636 of this title , unless an earlier or a later date is set by the hearing officer at the request of the party served.
+  - **(3)** Any such hearing shall be conducted in accordance with chapter 5 of title 5.
+  - **(4)** If the party served fails to appear at the hearing through a duly authorized representative, such party shall be deemed to have consented to the issuance of the cease-and-desist or removal or prohibition order or the imposition of the penalty for which the hearing is held.
+- **(b)**
+  - **(1)** After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this subchapter.
+  - **(2)** Judicial review of any such order shall be exclusively as provided in section 4634 of this title . Unless such a petition for review is timely filed as provided in section 4634 of this title , and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.

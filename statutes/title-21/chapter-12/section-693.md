@@ -5,7 +5,7 @@ usc_section: "693"
 chapter: 12
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 693"
-generated_at: "2026-03-29T00:30:24.327Z"
+generated_at: "2026-03-29T02:12:28.136Z"
 ---
 
 # § 693. Inspection of dairy products for export

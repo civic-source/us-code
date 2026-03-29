@@ -5,12 +5,12 @@ usc_section: "1322"
 chapter: 25
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1322"
-generated_at: "2026-03-29T00:31:30.827Z"
+generated_at: "2026-03-29T02:14:11.262Z"
 ---
 
 # § 1322. Fellowship recipients
 
 Recipients of fellowships under this subchapter shall be—
 
-(a) persons who have been accepted by an institution of higher education for graduate study leading to an advanced degree or for a professional degree, and
-(b) persons who plan a career in the field of energy resources, production, or utilization.
+- **(a)** persons who have been accepted by an institution of higher education for graduate study leading to an advanced degree or for a professional degree, and
+- **(b)** persons who plan a career in the field of energy resources, production, or utilization.

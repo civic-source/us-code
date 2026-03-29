@@ -5,10 +5,10 @@ usc_section: "1682"
 chapter: 36
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1682"
-generated_at: "2026-03-29T00:29:52.739Z"
+generated_at: "2026-03-29T02:11:53.816Z"
 ---
 
 # § 1682. Pilot projects and demonstrations
 
-(a) The Secretary may establish pilot projects and demonstrations to carry out the purposes of this subchapter. The pilot projects and demonstrations established under this section (1) may be operated by the Secretary; or (2) may be carried out through contracts or agreements with owners of private forest lands or other persons, or in conjunction with projects, contracts, or agreements entered into under any other authority which the Secretary may possess: Provided , That nothing contained in this subchapter shall abrogate or modify provisions of existing contracts or agreements, including contracts or agreements for the sale of national forest timber, except to the extent such changes are mutually agreed to by the parties to such contracts or agreements.
-(b) Pilot projects and demonstrations carried out under this section may include, but are not limited to (1) establishment and operation of utilization demonstration areas; (2) establishment and operation of fuel wood concentration and distribution centers; and (3) construction of access roads needed to facilitate wood residue utilization: Provided , That residue removal credits may be utilized by the Secretary only as provided in section 1683 of this title .
+- **(a)** The Secretary may establish pilot projects and demonstrations to carry out the purposes of this subchapter. The pilot projects and demonstrations established under this section (1) may be operated by the Secretary; or (2) may be carried out through contracts or agreements with owners of private forest lands or other persons, or in conjunction with projects, contracts, or agreements entered into under any other authority which the Secretary may possess: Provided , That nothing contained in this subchapter shall abrogate or modify provisions of existing contracts or agreements, including contracts or agreements for the sale of national forest timber, except to the extent such changes are mutually agreed to by the parties to such contracts or agreements.
+- **(b)** Pilot projects and demonstrations carried out under this section may include, but are not limited to (1) establishment and operation of utilization demonstration areas; (2) establishment and operation of fuel wood concentration and distribution centers; and (3) construction of access roads needed to facilitate wood residue utilization: Provided , That residue removal credits may be utilized by the Secretary only as provided in section 1683 of this title .

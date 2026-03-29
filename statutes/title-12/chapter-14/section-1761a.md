@@ -5,7 +5,7 @@ usc_section: "1761a"
 chapter: 14
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1761a"
-generated_at: "2026-03-29T00:29:16.647Z"
+generated_at: "2026-03-29T02:11:21.005Z"
 ---
 
 # § 1761a. Officers of the board

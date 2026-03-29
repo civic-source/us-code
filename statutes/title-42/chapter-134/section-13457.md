@@ -5,24 +5,24 @@ usc_section: "13457"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13457"
-generated_at: "2026-03-29T00:32:54.322Z"
+generated_at: "2026-03-29T02:15:37.265Z"
 ---
 
 # § 13457. Energy efficient environmental program
 
-(a) The Secretary, in consultation with the Administrator of the Environmental Protection Agency, is authorized to continue to carry out a 5-year program to improve the energy efficiency and cost effectiveness of pollution prevention technologies and processes, including source reduction and waste minimization technologies and processes. The purposes of this section shall be to—
-  (1) apply a systems approach to minimizing adverse environmental effects of industrial production in the most cost effective and energy efficient manner; and
-  (2) incorporate consideration of the entire materials and energy cycle with the goal of minimizing adverse environmental impacts.
-(b) Within 9 months after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall identify opportunities for the demonstration of energy efficient pollution prevention technologies and processes.
-(c) Within 1 year after October 24, 1992 , the Secretary shall submit a report to Congress evaluating the opportunities identified under subsection (b). Such report shall include—
-  (1) an assessment of the technologies available to increase productivity and simultaneously reduce the consumption of energy and material resources and the production of wastes;
-  (2) an assessment of the current use of such technologies by industry in the United States;
-  (3) the status of any such technologies currently being developed, together with projected schedules of their commercial availability;
-  (4) the energy savings resulting from the use of such technologies;
-  (5) the environmental benefits of such technologies;
-  (6) the costs of such technologies;
-  (7) an evaluation of any existing Federal or State regulatory disincentives for the employment of such technologies; and
-  (8) an evaluation of any other barriers to the use of such technologies.
-(d) Within 1 year after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall solicit proposals for activities under this section. Proposals selected under this subsection shall demonstrate—
-  (1) technical viability and cost effectiveness; and
-  (2) procedures for technology transfer and information outreach during and after completion of the project.
+- **(a)** The Secretary, in consultation with the Administrator of the Environmental Protection Agency, is authorized to continue to carry out a 5-year program to improve the energy efficiency and cost effectiveness of pollution prevention technologies and processes, including source reduction and waste minimization technologies and processes. The purposes of this section shall be to—
+  - **(1)** apply a systems approach to minimizing adverse environmental effects of industrial production in the most cost effective and energy efficient manner; and
+  - **(2)** incorporate consideration of the entire materials and energy cycle with the goal of minimizing adverse environmental impacts.
+- **(b)** Within 9 months after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall identify opportunities for the demonstration of energy efficient pollution prevention technologies and processes.
+- **(c)** Within 1 year after October 24, 1992 , the Secretary shall submit a report to Congress evaluating the opportunities identified under subsection (b). Such report shall include—
+  - **(1)** an assessment of the technologies available to increase productivity and simultaneously reduce the consumption of energy and material resources and the production of wastes;
+  - **(2)** an assessment of the current use of such technologies by industry in the United States;
+  - **(3)** the status of any such technologies currently being developed, together with projected schedules of their commercial availability;
+  - **(4)** the energy savings resulting from the use of such technologies;
+  - **(5)** the environmental benefits of such technologies;
+  - **(6)** the costs of such technologies;
+  - **(7)** an evaluation of any existing Federal or State regulatory disincentives for the employment of such technologies; and
+  - **(8)** an evaluation of any other barriers to the use of such technologies.
+- **(d)** Within 1 year after October 24, 1992 , the Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall solicit proposals for activities under this section. Proposals selected under this subsection shall demonstrate—
+  - **(1)** technical viability and cost effectiveness; and
+  - **(2)** procedures for technology transfer and information outreach during and after completion of the project.

@@ -5,12 +5,12 @@ usc_section: "661"
 chapter: 18
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 661"
-generated_at: "2026-03-29T00:31:30.775Z"
+generated_at: "2026-03-29T02:14:11.217Z"
 ---
 
 # § 661. Short title; definitions
 
-(a) This chapter may be cited as the “Coal Research and Development Act of 1960”.
-(b) In this chapter:
-  (1) The term “research” means scientific, technical, and economic research and the practical application of that research.
-  (2) The term “Secretary” means the Secretary of Energy.
+- **(a)** This chapter may be cited as the “Coal Research and Development Act of 1960”.
+- **(b)** In this chapter:
+  - **(1)** The term “research” means scientific, technical, and economic research and the practical application of that research.
+  - **(2)** The term “Secretary” means the Secretary of Energy.

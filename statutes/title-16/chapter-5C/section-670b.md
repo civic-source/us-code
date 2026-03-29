@@ -5,10 +5,10 @@ usc_section: "670b"
 chapter: 5
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 670b"
-generated_at: "2026-03-29T00:29:52.597Z"
+generated_at: "2026-03-29T02:11:53.638Z"
 ---
 
 # § 670b. Migratory game birds; hunting permits
 
-(a) The Secretary of Defense in cooperation with the Secretary of the Interior and the appropriate State agency is authorized to carry out a program for the conservation, restoration and management of migratory game birds on military installations, including the issuance of special hunting permits and the collection of fees therefor, in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior and the appropriate State agency.
-(b) Possession of a special permit for hunting migratory game birds issued pursuant to this subchapter shall not relieve the permittee of the requirements of the Migratory Bird Hunting Stamp Act as amended [ 16 U.S.C. 718 et seq.] nor of the requirements pertaining to State law set forth in Public Law 85–337 .
+- **(a)** The Secretary of Defense in cooperation with the Secretary of the Interior and the appropriate State agency is authorized to carry out a program for the conservation, restoration and management of migratory game birds on military installations, including the issuance of special hunting permits and the collection of fees therefor, in accordance with an integrated natural resources management plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior and the appropriate State agency.
+- **(b)** Possession of a special permit for hunting migratory game birds issued pursuant to this subchapter shall not relieve the permittee of the requirements of the Migratory Bird Hunting Stamp Act as amended [ 16 U.S.C. 718 et seq.] nor of the requirements pertaining to State law set forth in Public Law 85–337 .

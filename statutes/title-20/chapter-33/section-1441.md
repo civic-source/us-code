@@ -5,38 +5,38 @@ usc_section: "1441"
 chapter: 33
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 1441"
-generated_at: "2026-03-29T00:07:03.152Z"
+generated_at: "2026-03-29T02:12:17.362Z"
 ---
 
 # § 1441. State interagency coordinating council
 
-(a) 
-  (1) A State that desires to receive financial assistance under this subchapter shall establish a State interagency coordinating council.
-  (2) The council shall be appointed by the Governor. In making appointments to the council, the Governor shall ensure that the membership of the council reasonably represents the population of the State.
-  (3) The Governor shall designate a member of the council to serve as the chairperson of the council, or shall require the council to so designate such a member. Any member of the council who is a representative of the lead agency designated under section 1435(a)(10) of this title may not serve as the chairperson of the council.
-(b) 
-  (1) The council shall be composed as follows:
-    (A) Not less than 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
-    (B) Not less than 20 percent of the members shall be public or private providers of early intervention services.
-    (C) Not less than 1 member shall be from the State legislature.
-    (D) Not less than 1 member shall be involved in personnel preparation.
-    (E) Not less than 1 member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
-    (F) Not less than 1 member shall be from the State educational agency responsible for preschool services to children with disabilities and shall have sufficient authority to engage in policy planning and implementation on behalf of such agency.
-    (G) Not less than 1 member shall be from the agency responsible for the State medicaid program.
-    (H) Not less than 1 member shall be a representative from a Head Start agency or program in the State.
-    (I) Not less than 1 member shall be a representative from a State agency responsible for child care.
-    (J) Not less than 1 member shall be from the agency responsible for the State regulation of health insurance.
-    (K) Not less than 1 member shall be a representative designated by the Office of Coordinator for Education of Homeless Children and Youths.
-    (L) Not less than 1 member shall be a representative from the State child welfare agency responsible for foster care.
-    (M) Not less than 1 member shall be a representative from the State agency responsible for children’s mental health.
-  (2) The council may include other members selected by the Governor, including a representative from the Bureau of Indian Affairs (BIA), or where there is no BIA-operated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
-(c) The council shall meet, at a minimum, on a quarterly basis, and in such places as the council determines necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
-(d) Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
-(e) 
-  (1) The council shall—
-    (A) advise and assist the lead agency designated or established under section 1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
-    (B) advise and assist the lead agency in the preparation of applications and amendments thereto;
-    (C) advise and assist the State educational agency regarding the transition of toddlers with disabilities to preschool and other appropriate services; and
-    (D) prepare and submit an annual report to the Governor and to the Secretary on the status of early intervention programs for infants and toddlers with disabilities and their families operated within the State.
-  (2) The council may advise and assist the lead agency and the State educational agency regarding the provision of appropriate services for children from birth through age 5. The council may advise appropriate agencies in the State with respect to the integration of services for infants and toddlers with disabilities and at-risk infants and toddlers and their families, regardless of whether at-risk infants and toddlers are eligible for early intervention services in the State.
-(f) No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
+- **(a)**
+  - **(1)** A State that desires to receive financial assistance under this subchapter shall establish a State interagency coordinating council.
+  - **(2)** The council shall be appointed by the Governor. In making appointments to the council, the Governor shall ensure that the membership of the council reasonably represents the population of the State.
+  - **(3)** The Governor shall designate a member of the council to serve as the chairperson of the council, or shall require the council to so designate such a member. Any member of the council who is a representative of the lead agency designated under section 1435(a)(10) of this title may not serve as the chairperson of the council.
+- **(b)**
+  - **(1)** The council shall be composed as follows:
+    - **(A)** Not less than 20 percent of the members shall be parents of infants or toddlers with disabilities or children with disabilities aged 12 or younger, with knowledge of, or experience with, programs for infants and toddlers with disabilities. Not less than 1 such member shall be a parent of an infant or toddler with a disability or a child with a disability aged 6 or younger.
+    - **(B)** Not less than 20 percent of the members shall be public or private providers of early intervention services.
+    - **(C)** Not less than 1 member shall be from the State legislature.
+    - **(D)** Not less than 1 member shall be involved in personnel preparation.
+    - **(E)** Not less than 1 member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
+    - **(F)** Not less than 1 member shall be from the State educational agency responsible for preschool services to children with disabilities and shall have sufficient authority to engage in policy planning and implementation on behalf of such agency.
+    - **(G)** Not less than 1 member shall be from the agency responsible for the State medicaid program.
+    - **(H)** Not less than 1 member shall be a representative from a Head Start agency or program in the State.
+    - **(I)** Not less than 1 member shall be a representative from a State agency responsible for child care.
+    - **(J)** Not less than 1 member shall be from the agency responsible for the State regulation of health insurance.
+    - **(K)** Not less than 1 member shall be a representative designated by the Office of Coordinator for Education of Homeless Children and Youths.
+    - **(L)** Not less than 1 member shall be a representative from the State child welfare agency responsible for foster care.
+    - **(M)** Not less than 1 member shall be a representative from the State agency responsible for children’s mental health.
+  - **(2)** The council may include other members selected by the Governor, including a representative from the Bureau of Indian Affairs (BIA), or where there is no BIA-operated or BIA-funded school, from the Indian Health Service or the tribe or tribal council.
+- **(c)** The council shall meet, at a minimum, on a quarterly basis, and in such places as the council determines necessary. The meetings shall be publicly announced, and, to the extent appropriate, open and accessible to the general public.
+- **(d)** Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
+- **(e)**
+  - **(1)** The council shall—
+    - **(A)** advise and assist the lead agency designated or established under section 1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
+    - **(B)** advise and assist the lead agency in the preparation of applications and amendments thereto;
+    - **(C)** advise and assist the State educational agency regarding the transition of toddlers with disabilities to preschool and other appropriate services; and
+    - **(D)** prepare and submit an annual report to the Governor and to the Secretary on the status of early intervention programs for infants and toddlers with disabilities and their families operated within the State.
+  - **(2)** The council may advise and assist the lead agency and the State educational agency regarding the provision of appropriate services for children from birth through age 5. The council may advise appropriate agencies in the State with respect to the integration of services for infants and toddlers with disabilities and at-risk infants and toddlers and their families, regardless of whether at-risk infants and toddlers are eligible for early intervention services in the State.
+- **(f)** No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.

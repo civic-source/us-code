@@ -5,7 +5,7 @@ usc_section: "507"
 chapter: 5
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 507"
-generated_at: "2026-03-29T00:07:07.688Z"
+generated_at: "2026-03-29T02:13:00.976Z"
 ---
 
 # [§§ 506, 507. Repealed. Pub. L. 112–141, div. E, title II , §§ 52006(a), 52007(a), July 6, 2012 , 126 Stat. 882 ]

@@ -5,7 +5,7 @@ usc_section: "104905"
 chapter: 1049
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 104905"
-generated_at: "2026-03-29T00:33:21.623Z"
+generated_at: "2026-03-29T02:16:35.467Z"
 ---
 
 # § 104905. Preparation of mats for reproduction of photographs

@@ -5,7 +5,7 @@ usc_section: "2680a"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2680a"
-generated_at: "2026-03-29T00:30:33.843Z"
+generated_at: "2026-03-29T02:12:40.234Z"
 ---
 
 # § 2680a. Compensation for disability or death

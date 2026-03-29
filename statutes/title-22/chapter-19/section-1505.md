@@ -5,7 +5,7 @@ usc_section: "1505"
 chapter: 19
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1505"
-generated_at: "2026-03-29T00:30:33.727Z"
+generated_at: "2026-03-29T02:12:39.997Z"
 ---
 
 # §§ 1503 to 1505. Repealed. Aug. 26, 1954, ch. 937 , title V, § 542(a)(4), (10), 68 Stat. 861

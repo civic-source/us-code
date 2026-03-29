@@ -1,0 +1,19 @@
+---
+title: "Section 251 - Transfer of functions"
+usc_title: 6
+usc_section: "251"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 251"
+generated_at: "2026-03-29T02:10:04.978Z"
+---
+
+# § 251. Transfer of functions
+
+In accordance with subchapter XII (relating to transition provisions), there shall be transferred from the Commissioner of Immigration and Naturalization to the Secretary all functions performed under the following programs, and all personnel, assets, and liabilities pertaining to such programs, immediately before such transfer occurs:
+
+  - **(1)** The Border Patrol program.
+  - **(2)** The detention and removal program.
+  - **(3)** The intelligence program.
+  - **(4)** The investigations program.
+  - **(5)** The inspections program.

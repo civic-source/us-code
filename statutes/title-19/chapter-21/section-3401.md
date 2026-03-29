@@ -5,7 +5,7 @@ usc_section: "3401"
 chapter: 21
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3401"
-generated_at: "2026-03-29T00:30:20.261Z"
+generated_at: "2026-03-29T02:12:08.728Z"
 ---
 
 # § 3401. Transferred

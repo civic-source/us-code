@@ -5,7 +5,7 @@ usc_section: "1502a"
 chapter: 20
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 1502a"
-generated_at: "2026-03-29T00:30:24.356Z"
+generated_at: "2026-03-29T02:12:28.172Z"
 ---
 
 # § 1502a. Transferred

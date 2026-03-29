@@ -5,19 +5,19 @@ usc_section: "1230a"
 chapter: 25
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1230a"
-generated_at: "2026-03-29T00:31:30.808Z"
+generated_at: "2026-03-29T02:14:11.242Z"
 ---
 
 # § 1230a. Strategic Resources Generic Mineral Technology Center
 
-(a) The Secretary of 1 1 So in original. Probably should be “of the”. Interior is authorized and directed to establish a Strategic Resources Mineral Technology Center (hereinafter referred to as the “center”) for the purpose of improving existing, and developing new, technologies that will decrease the dependence of the United States on supplies of strategic and critical minerals.
-(b) The center shall—
-  (1) provide for studies and technology development in the areas of mineral extraction and refining processes, product substitution and conservation of mineral resources through recycling and advanced processing and fabrication methods;
-  (2) identify new deposits of strategic and critical mineral resources; and
-  (3) facilitate the transfer of information, studies, and technologies developed by the center to the private sector.
-(c) The Secretary shall establish the center referred to in subsection (a) at a university that—
-  (1) does not currently host a generic mineral technology center;
-  (2) has established advanced degree programs in geology and geological engineering, and metallurgical and mining engineering;
-  (3) has expertise in materials and advanced processing research; and
-  (4) is located west of the 100th meridian.
-(d) There is authorized to be appropriated such sums as may be necessary to carry out this section.
+- **(a)** The Secretary of 1 1 So in original. Probably should be “of the”. Interior is authorized and directed to establish a Strategic Resources Mineral Technology Center (hereinafter referred to as the “center”) for the purpose of improving existing, and developing new, technologies that will decrease the dependence of the United States on supplies of strategic and critical minerals.
+- **(b)** The center shall—
+  - **(1)** provide for studies and technology development in the areas of mineral extraction and refining processes, product substitution and conservation of mineral resources through recycling and advanced processing and fabrication methods;
+  - **(2)** identify new deposits of strategic and critical mineral resources; and
+  - **(3)** facilitate the transfer of information, studies, and technologies developed by the center to the private sector.
+- **(c)** The Secretary shall establish the center referred to in subsection (a) at a university that—
+  - **(1)** does not currently host a generic mineral technology center;
+  - **(2)** has established advanced degree programs in geology and geological engineering, and metallurgical and mining engineering;
+  - **(3)** has expertise in materials and advanced processing research; and
+  - **(4)** is located west of the 100th meridian.
+- **(d)** There is authorized to be appropriated such sums as may be necessary to carry out this section.

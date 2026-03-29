@@ -5,13 +5,13 @@ usc_section: "1073a"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1073a"
-generated_at: "2026-03-29T00:20:52.930Z"
+generated_at: "2026-03-29T02:10:44.957Z"
 ---
 
 # § 1073a. Contracts for health care: best value contracting
 
-(a) Under regulations prescribed by the administering Secretaries, health care contracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
-(b) In the determination of best value under subsection (a)—
-  (1) consideration shall be given to the factors specified in the regulations; and
-  (2) greater weight shall be accorded to technical and performance-related factors than to cost and price-related factors.
-(c) The authority under the regulations prescribed under subsection (a) shall apply to any contract in excess of $5,000,000.
+- **(a)** Under regulations prescribed by the administering Secretaries, health care contracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
+- **(b)** In the determination of best value under subsection (a)—
+  - **(1)** consideration shall be given to the factors specified in the regulations; and
+  - **(2)** greater weight shall be accorded to technical and performance-related factors than to cost and price-related factors.
+- **(c)** The authority under the regulations prescribed under subsection (a) shall apply to any contract in excess of $5,000,000.

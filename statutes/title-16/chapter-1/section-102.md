@@ -5,17 +5,17 @@ usc_section: "102"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 102"
-generated_at: "2026-03-29T00:29:52.514Z"
+generated_at: "2026-03-29T02:11:53.547Z"
 ---
 
 # § 460nnn–102. Land exchanges, C. M. Otley and Otley Brothers
 
-(a) 
-  (1) For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with C. M. Otley to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title , consisting of a total of approximately 3,845 acres in exchange for the private lands described in paragraph (2).
-  (2) As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in paragraph (3), C. M. Otley shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 851 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
-  (3) Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to C.M. Otley, in the amount of $920,000.
-(b) 
-  (1) For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with the Otley Brother’s, Inc., to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title , consisting of a total of approximately 6,881 acres in exchange for the private lands described in paragraph (2).
-  (2) As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother’s, Inc., shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
-  (3) Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to Otley Brother’s, Inc., in the amount of $400,000.
-(c) The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) within 70 days after the Secretary accepts the lands described in such subsections.
+- **(a)**
+  - **(1)** For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with C. M. Otley to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title , consisting of a total of approximately 3,845 acres in exchange for the private lands described in paragraph (2).
+  - **(2)** As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in paragraph (3), C. M. Otley shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 851 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
+  - **(3)** Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to C.M. Otley, in the amount of $920,000.
+- **(b)**
+  - **(1)** For the purpose of protecting and consolidating Federal lands within the Cooperative Management and Protection Area, the Secretary may carry out a land exchange with the Otley Brother’s, Inc., to convey all right, title, and interest of the United States in and to certain parcels of land under the jurisdiction of the Bureau of Land Management in the vicinity of Steens Mountain, Oregon, as depicted on the map referred to in section 460nnn–105(a) of this title , consisting of a total of approximately 6,881 acres in exchange for the private lands described in paragraph (2).
+  - **(2)** As consideration for the conveyance of the Federal lands referred to in paragraph (1) and the disbursement referred to in subsection (3), the Otley Brother’s, Inc., shall convey to the Secretary a parcel of land in the headwaters of Kiger gorge consisting of approximately 505 acres, as depicted on the map referred to in section 460nnn–105(a) of this title , for inclusion in the Wilderness Area and the no livestock grazing area as appropriate.
+  - **(3)** Upon completion of the land exchange authorized by this subsection, the Secretary is authorized to make a disbursement to Otley Brother’s, Inc., in the amount of $400,000.
+- **(c)** The Secretary shall complete the conveyances of the Federal lands under subsections (a) and (b) within 70 days after the Secretary accepts the lands described in such subsections.

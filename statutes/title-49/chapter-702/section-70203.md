@@ -5,18 +5,18 @@ usc_section: "70203"
 chapter: 702
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 70203"
-generated_at: "2026-03-29T00:33:13.953Z"
+generated_at: "2026-03-29T02:16:09.098Z"
 ---
 
 # § 70203. Transportation investment data and planning tools
 
-(a) Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—
-  (1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—
-    (A) methodologies for systematic analysis of benefits and costs on a national or regional basis;
-    (B) tools for ensuring that the evaluation of freight-related and other transportation projects could consider safety, economic competitiveness, urban and rural access, environmental sustainability, and system condition in the project selection process;
-    (C) improved methods for data collection and trend analysis;
-    (D) encouragement of public-private collaboration to carry out data sharing activities while maintaining the confidentiality of all proprietary data; and
-    (E) other tools to assist in effective transportation planning;
-  (2) identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
-  (3) at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
-(b) The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data described in subsection (a).
+- **(a)** Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—
+  - **(1)** begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—
+    - **(A)** methodologies for systematic analysis of benefits and costs on a national or regional basis;
+    - **(B)** tools for ensuring that the evaluation of freight-related and other transportation projects could consider safety, economic competitiveness, urban and rural access, environmental sustainability, and system condition in the project selection process;
+    - **(C)** improved methods for data collection and trend analysis;
+    - **(D)** encouragement of public-private collaboration to carry out data sharing activities while maintaining the confidentiality of all proprietary data; and
+    - **(E)** other tools to assist in effective transportation planning;
+  - **(2)** identify transportation-related model data elements to support a broad range of evaluation methods and techniques to assist in making transportation investment decisions; and
+  - **(3)** at a minimum, in consultation with other relevant Federal agencies, consider any improvements to existing freight flow data collection efforts that could reduce identified freight data gaps and deficiencies and help improve forecasts of freight transportation demand.
+- **(b)** The Secretary shall consult with Federal, State, and other stakeholders to develop, improve, and implement the tools and collect the data described in subsection (a).

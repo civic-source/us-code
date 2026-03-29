@@ -5,22 +5,22 @@ usc_section: "1117"
 chapter: 11
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 1117"
-generated_at: "2026-03-29T00:33:13.712Z"
+generated_at: "2026-03-29T02:16:08.856Z"
 ---
 
 # § 1117. Methodology
 
-(a) Not later than 2 years after the date of enactment of the National Transportation Safety Board Reauthorization Act, the Chairman shall include with each investigative report in which a recommendation is issued by the Board a methodology section detailing the process and information underlying the selection of each recommendation.
-(b) Except as provided in subsection (c), the methodology section under subsection (a) shall include, for each recommendation—
-  (1) a brief summary of the Board’s collection and analysis of the specific accident investigation information most relevant to the recommendation;
-  (2) a description of the Board’s use of external information, including studies, reports, and experts, other than the findings of a specific accident investigation, if any were used to inform or support the recommendation, including a brief summary of the specific safety benefits and other effects identified by each study, report, or expert; and
-  (3) a brief summary of any examples of actions taken by regulated entities before the publication of the safety recommendation, to the extent such actions are known to the Board, that were consistent with the recommendation.
-(c) If the Board knows of more than 3 examples taken by regulated entities before the publication of the safety recommendation that were consistent with the recommendation, the brief summary under subsection (b)(3) may be limited to only 3 of those examples.
-(d) Subsection (a) shall not apply if the recommendation is only for a person to disseminate information on—
-  (1) an existing agency best practices document; or
-  (2) an existing regulatory requirement.
-(e) Nothing in this section may be construed to require any change to a recommendation made by the Board before the date of enactment of the National Transportation Safety Board Reauthorization Act, unless the recommendation is a repeat recommendation issued on or after the date of enactment of such Act.
-(f) Nothing in this section may be construed—
-  (1) to delay publication of the findings, cause, or probable cause of a Board investigation;
-  (2) to delay the issuance of an urgent recommendation that the Board has determined must be issued to avoid immediate loss, death, or injury; or
-  (3) to limit the number of examples the Board may consider before issuing a recommendation.
+- **(a)** Not later than 2 years after the date of enactment of the National Transportation Safety Board Reauthorization Act, the Chairman shall include with each investigative report in which a recommendation is issued by the Board a methodology section detailing the process and information underlying the selection of each recommendation.
+- **(b)** Except as provided in subsection (c), the methodology section under subsection (a) shall include, for each recommendation—
+  - **(1)** a brief summary of the Board’s collection and analysis of the specific accident investigation information most relevant to the recommendation;
+  - **(2)** a description of the Board’s use of external information, including studies, reports, and experts, other than the findings of a specific accident investigation, if any were used to inform or support the recommendation, including a brief summary of the specific safety benefits and other effects identified by each study, report, or expert; and
+  - **(3)** a brief summary of any examples of actions taken by regulated entities before the publication of the safety recommendation, to the extent such actions are known to the Board, that were consistent with the recommendation.
+- **(c)** If the Board knows of more than 3 examples taken by regulated entities before the publication of the safety recommendation that were consistent with the recommendation, the brief summary under subsection (b)(3) may be limited to only 3 of those examples.
+- **(d)** Subsection (a) shall not apply if the recommendation is only for a person to disseminate information on—
+  - **(1)** an existing agency best practices document; or
+  - **(2)** an existing regulatory requirement.
+- **(e)** Nothing in this section may be construed to require any change to a recommendation made by the Board before the date of enactment of the National Transportation Safety Board Reauthorization Act, unless the recommendation is a repeat recommendation issued on or after the date of enactment of such Act.
+- **(f)** Nothing in this section may be construed—
+  - **(1)** to delay publication of the findings, cause, or probable cause of a Board investigation;
+  - **(2)** to delay the issuance of an urgent recommendation that the Board has determined must be issued to avoid immediate loss, death, or injury; or
+  - **(3)** to limit the number of examples the Board may consider before issuing a recommendation.

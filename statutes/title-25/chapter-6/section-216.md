@@ -5,7 +5,7 @@ usc_section: "216"
 chapter: 6
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 216"
-generated_at: "2026-03-29T00:30:38.622Z"
+generated_at: "2026-03-29T02:13:20.843Z"
 ---
 
 # § 216. Repealed. Pub. L. 86–634, § 4 , July 12, 1960 , 74 Stat. 469

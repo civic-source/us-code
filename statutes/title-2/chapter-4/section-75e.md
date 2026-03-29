@@ -5,7 +5,7 @@ usc_section: "75e"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 75e"
-generated_at: "2026-03-29T00:06:10.871Z"
+generated_at: "2026-03-29T02:09:53.638Z"
 ---
 
 # §§ 75b to 75e. Omitted

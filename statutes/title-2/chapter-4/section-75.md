@@ -5,7 +5,7 @@ usc_section: "75"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 75"
-generated_at: "2026-03-29T00:06:10.871Z"
+generated_at: "2026-03-29T02:09:53.638Z"
 ---
 
 # § 75. Repealed. Pub. L. 92–310, title II, § 220(b) , (c), June 6, 1972 , 86 Stat. 204

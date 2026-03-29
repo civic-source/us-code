@@ -5,7 +5,7 @@ usc_section: "6004"
 chapter: 75
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6004"
-generated_at: "2026-03-29T00:32:53.939Z"
+generated_at: "2026-03-29T02:15:36.790Z"
 ---
 
 # § 6004. Repealed. Pub. L. 103–230, title I, § 106 , Apr. 6, 1994 , 108 Stat. 293

@@ -5,10 +5,10 @@ usc_section: "1093"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1093"
-generated_at: "2026-03-29T00:20:52.946Z"
+generated_at: "2026-03-29T02:10:44.973Z"
 ---
 
 # § 1093. Performance of abortions: restrictions
 
-(a) Funds available to the Department of Defense may not be used to perform abortions except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
-(b) No medical treatment facility or other facility of the Department of Defense may be used to perform an abortion except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
+- **(a)** Funds available to the Department of Defense may not be used to perform abortions except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.
+- **(b)** No medical treatment facility or other facility of the Department of Defense may be used to perform an abortion except where the life of the mother would be endangered if the fetus were carried to term or in a case in which the pregnancy is the result of an act of rape or incest.

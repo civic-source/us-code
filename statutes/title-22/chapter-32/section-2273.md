@@ -5,12 +5,12 @@ usc_section: "2273"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2273"
-generated_at: "2026-03-29T00:30:33.776Z"
+generated_at: "2026-03-29T02:12:40.047Z"
 ---
 
 # § 2273. Peace process in Central America
 
 The Congress—
 
-  (1) strongly supports the initiatives taken by the Contadora group and the resulting Document of Objectives which has been agreed to by Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua and which sets forth a framework for negotiating a peaceful settlement to the conflict and turmoil in the region; and
-  (2) finds that the United States should provide such assistance and support as may be appropriate in helping to reach comprehensive and verifiable final agreements, based on the Document of Objectives, which will ensure peaceful and enduring solutions to the Central American conflicts.
+  - **(1)** strongly supports the initiatives taken by the Contadora group and the resulting Document of Objectives which has been agreed to by Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua and which sets forth a framework for negotiating a peaceful settlement to the conflict and turmoil in the region; and
+  - **(2)** finds that the United States should provide such assistance and support as may be appropriate in helping to reach comprehensive and verifiable final agreements, based on the Document of Objectives, which will ensure peaceful and enduring solutions to the Central American conflicts.

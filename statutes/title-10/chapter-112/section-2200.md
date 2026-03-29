@@ -5,13 +5,13 @@ usc_section: "2200"
 chapter: 112
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2200"
-generated_at: "2026-03-29T00:20:53.024Z"
+generated_at: "2026-03-29T02:10:45.073Z"
 ---
 
 # § 2200. Programs; purpose
 
-(a) To encourage the recruitment and retention of Department of Defense personnel who have the computer and network security skills necessary to meet the cyber requirements of the Department of Defense, the Secretary of Defense may carry out programs in accordance with this chapter to provide financial support for education in disciplines relevant to those requirements at institutions of higher education.
-(b) The programs authorized under this chapter are as follows:
-  (1) Scholarships for pursuit of programs of education in cyber disciplines at institutions of higher education.
-  (2) Grants to institutions of higher education.
-(c) The programs authorized under this chapter shall be known as the “Cyber Scholarship Program”.
+- **(a)** To encourage the recruitment and retention of Department of Defense personnel who have the computer and network security skills necessary to meet the cyber requirements of the Department of Defense, the Secretary of Defense may carry out programs in accordance with this chapter to provide financial support for education in disciplines relevant to those requirements at institutions of higher education.
+- **(b)** The programs authorized under this chapter are as follows:
+  - **(1)** Scholarships for pursuit of programs of education in cyber disciplines at institutions of higher education.
+  - **(2)** Grants to institutions of higher education.
+- **(c)** The programs authorized under this chapter shall be known as the “Cyber Scholarship Program”.

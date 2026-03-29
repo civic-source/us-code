@@ -5,7 +5,7 @@ usc_section: "8472"
 chapter: 853
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8472"
-generated_at: "2026-03-29T00:20:53.227Z"
+generated_at: "2026-03-29T02:10:45.308Z"
 ---
 
 # § 8472. Chapel: crypt and window spaces

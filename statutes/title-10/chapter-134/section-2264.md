@@ -5,13 +5,13 @@ usc_section: "2264"
 chapter: 134
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2264"
-generated_at: "2026-03-29T00:20:53.033Z"
+generated_at: "2026-03-29T02:10:45.087Z"
 ---
 
 # § 2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers
 
-(a) There shall be credited to the applicable appropriations account or fund from which the expenses described in subsection (b) were charged any amounts received by the Department of Defense as reimbursement for such expenses.
-(b) The expenses referred to in subsection (a) are any expenses—
-  (1) incurred by the Department of Defense as a result of providing assistance to a nongovernmental entertainment-oriented media producer;
-  (2) for which the Department of Defense requires reimbursement under section 9701 of title 31 or any other provision of law; and
-  (3) for which the Department of Defense received reimbursement after December 19, 2014 .
+- **(a)** There shall be credited to the applicable appropriations account or fund from which the expenses described in subsection (b) were charged any amounts received by the Department of Defense as reimbursement for such expenses.
+- **(b)** The expenses referred to in subsection (a) are any expenses—
+  - **(1)** incurred by the Department of Defense as a result of providing assistance to a nongovernmental entertainment-oriented media producer;
+  - **(2)** for which the Department of Defense requires reimbursement under section 9701 of title 31 or any other provision of law; and
+  - **(3)** for which the Department of Defense received reimbursement after December 19, 2014 .

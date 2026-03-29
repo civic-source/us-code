@@ -5,7 +5,7 @@ usc_section: "2151"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2151"
-generated_at: "2026-03-29T00:29:16.734Z"
+generated_at: "2026-03-29T02:11:21.114Z"
 ---
 
 # § 2151. Repealed. Pub. L. 115–334, title V, § 5411(17) , Dec. 20, 2018 , 132 Stat. 4680

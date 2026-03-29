@@ -5,18 +5,18 @@ usc_section: "4130"
 chapter: 307
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 4130"
-generated_at: "2026-03-29T00:30:15.760Z"
+generated_at: "2026-03-29T02:12:02.513Z"
 ---
 
 # § 4130. Additional markets
 
-(a) Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—
-  (1) public entities for use in penal or correctional institutions;
-  (2) public entities for use in disaster relief or emergency response;
-  (3) the government of the District of Columbia; and
-  (4) any organization described in subsection (c)(3), (c)(4), or (d) of section 501 of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
-(b) Federal Prison Industries may not sell office furniture to the organizations described in subsection (a)(4).
-(c) In this section:
-  (1) The term “office furniture” means any product or service offering intended to meet the furnishing needs of the workplace, including office, healthcare, educational, and hospitality environments.
-  (2) The term “public entity” means a State, a subdivision of a State, an Indian tribe, and an agency or governmental corporation or business of any of the foregoing.
-  (3) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
+- **(a)** Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—
+  - **(1)** public entities for use in penal or correctional institutions;
+  - **(2)** public entities for use in disaster relief or emergency response;
+  - **(3)** the government of the District of Columbia; and
+  - **(4)** any organization described in subsection (c)(3), (c)(4), or (d) of section 501 of the Internal Revenue Code of 1986 that is exempt from taxation under section 501(a) of such Code.
+- **(b)** Federal Prison Industries may not sell office furniture to the organizations described in subsection (a)(4).
+- **(c)** In this section:
+  - **(1)** The term “office furniture” means any product or service offering intended to meet the furnishing needs of the workplace, including office, healthcare, educational, and hospitality environments.
+  - **(2)** The term “public entity” means a State, a subdivision of a State, an Indian tribe, and an agency or governmental corporation or business of any of the foregoing.
+  - **(3)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.

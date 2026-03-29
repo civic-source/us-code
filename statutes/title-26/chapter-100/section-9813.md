@@ -5,26 +5,26 @@ usc_section: "9813"
 chapter: 100
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 9813"
-generated_at: "2026-03-29T00:31:21.135Z"
+generated_at: "2026-03-29T02:14:01.438Z"
 ---
 
 # § 9813. Coverage of dependent students on medically necessary leave of absence
 
-(a) In this section, the term “medically necessary leave of absence” means, with respect to a dependent child described in subsection (b)(2) in connection with a group health plan, a leave of absence of such child from a postsecondary educational institution (including an institution of higher education as defined in section 102 of the Higher Education Act of 1965), or any other change in enrollment of such child at such an institution, that—
-  (1) commences while such child is suffering from a serious illness or injury;
-  (2) is medically necessary; and
-  (3) causes such child to lose student status for purposes of coverage under the terms of the plan or coverage.
-(b) 
-  (1) In the case of a dependent child described in paragraph (2), a group health plan shall not terminate coverage of such child under such plan due to a medically necessary leave of absence before the date that is the earlier of—
-    (A) the date that is 1 year after the first day of the medically necessary leave of absence; or
-    (B) the date on which such coverage would otherwise terminate under the terms of the plan.
-  (2) A dependent child described in this paragraph is, with respect to a group health plan, a beneficiary under the plan who—
-    (A) is a dependent child, under the terms of the plan, of a participant or beneficiary under the plan; and
-    (B) was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first day of the medically necessary leave of absence involved.
-  (3) Paragraph (1) shall apply to a group health plan only if the plan, or the issuer of health insurance coverage offered in connection with the plan, has received written certification by a treating physician of the dependent child which states that the child is suffering from a serious illness or injury and that the leave of absence (or other change of enrollment) described in subsection (a) is medically necessary.
-(c) A group health plan shall include, with any notice regarding a requirement for certification of student status for coverage under the plan, a description of the terms of this section for continued coverage during medically necessary leaves of absence. Such description shall be in language which is understandable to the typical plan participant.
-(d) A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
-(e) If—
-  (1) a dependent child of a participant or beneficiary is in a period of coverage under a group health plan, pursuant to a medically necessary leave of absence of the child described in subsection (b);
-  (2) the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
-  (3) the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
+- **(a)** In this section, the term “medically necessary leave of absence” means, with respect to a dependent child described in subsection (b)(2) in connection with a group health plan, a leave of absence of such child from a postsecondary educational institution (including an institution of higher education as defined in section 102 of the Higher Education Act of 1965), or any other change in enrollment of such child at such an institution, that—
+  - **(1)** commences while such child is suffering from a serious illness or injury;
+  - **(2)** is medically necessary; and
+  - **(3)** causes such child to lose student status for purposes of coverage under the terms of the plan or coverage.
+- **(b)**
+  - **(1)** In the case of a dependent child described in paragraph (2), a group health plan shall not terminate coverage of such child under such plan due to a medically necessary leave of absence before the date that is the earlier of—
+    - **(A)** the date that is 1 year after the first day of the medically necessary leave of absence; or
+    - **(B)** the date on which such coverage would otherwise terminate under the terms of the plan.
+  - **(2)** A dependent child described in this paragraph is, with respect to a group health plan, a beneficiary under the plan who—
+    - **(A)** is a dependent child, under the terms of the plan, of a participant or beneficiary under the plan; and
+    - **(B)** was enrolled in the plan, on the basis of being a student at a postsecondary educational institution (as described in subsection (a)), immediately before the first day of the medically necessary leave of absence involved.
+  - **(3)** Paragraph (1) shall apply to a group health plan only if the plan, or the issuer of health insurance coverage offered in connection with the plan, has received written certification by a treating physician of the dependent child which states that the child is suffering from a serious illness or injury and that the leave of absence (or other change of enrollment) described in subsection (a) is medically necessary.
+- **(c)** A group health plan shall include, with any notice regarding a requirement for certification of student status for coverage under the plan, a description of the terms of this section for continued coverage during medically necessary leaves of absence. Such description shall be in language which is understandable to the typical plan participant.
+- **(d)** A dependent child whose benefits are continued under this section shall be entitled to the same benefits as if (during the medically necessary leave of absence) the child continued to be a covered student at the institution of higher education and was not on a medically necessary leave of absence.
+- **(e)** If—
+  - **(1)** a dependent child of a participant or beneficiary is in a period of coverage under a group health plan, pursuant to a medically necessary leave of absence of the child described in subsection (b);
+  - **(2)** the manner in which the participant or beneficiary is covered under the plan changes, whether through a change in health insurance coverage or health insurance issuer, a change between health insurance coverage and self-insured coverage, or otherwise; and
+  - **(3)** the coverage as so changed continues to provide coverage of beneficiaries as dependent children,

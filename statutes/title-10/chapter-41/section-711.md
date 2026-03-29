@@ -5,7 +5,7 @@ usc_section: "711"
 chapter: 41
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 711"
-generated_at: "2026-03-29T00:20:52.879Z"
+generated_at: "2026-03-29T02:10:44.903Z"
 ---
 
 # § 711. Senior members of Military Staff Committee of United Nations: appointment

@@ -5,7 +5,7 @@ usc_section: "284"
 chapter: 15
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 284"
-generated_at: "2026-03-29T00:30:15.610Z"
+generated_at: "2026-03-29T02:12:02.365Z"
 ---
 
 # [§ 284. Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Stat. 1126 ]

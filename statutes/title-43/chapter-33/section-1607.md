@@ -5,11 +5,11 @@ usc_section: "1607"
 chapter: 33
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1607"
-generated_at: "2026-03-29T00:32:57.426Z"
+generated_at: "2026-03-29T02:15:47.614Z"
 ---
 
 # § 1607. Village Corporations
 
-(a) The Native residents of each Native village entitled to receive lands and benefits under this chapter shall organize as a business for profit or nonprofit corporation under the laws of the State before the Native village may receive patent to lands or benefits under this chapter, except as otherwise provided.
-(b) The initial articles of incorporation for each Village Corporation shall be subject to the approval of the Regional Corporation for the region in which the village is located. Amendments to the articles of incorporation and the annual budgets of the Village Corporations shall, for a period of five years, be subject to review and approval by the Regional Corporation. The Regional Corporation shall assist and advise Native villages in the preparation of articles of incorporation and other documents necessary to meet the requirements of this subsection.
-(c) The provisions of subsections (g), (h) (other than paragraph (4)), and ( o ) of section 1606 of this title shall apply in all respects to Village Corporations, Urban Corporations, and Group Corporations.
+- **(a)** The Native residents of each Native village entitled to receive lands and benefits under this chapter shall organize as a business for profit or nonprofit corporation under the laws of the State before the Native village may receive patent to lands or benefits under this chapter, except as otherwise provided.
+- **(b)** The initial articles of incorporation for each Village Corporation shall be subject to the approval of the Regional Corporation for the region in which the village is located. Amendments to the articles of incorporation and the annual budgets of the Village Corporations shall, for a period of five years, be subject to review and approval by the Regional Corporation. The Regional Corporation shall assist and advise Native villages in the preparation of articles of incorporation and other documents necessary to meet the requirements of this subsection.
+- **(c)** The provisions of subsections (g), (h) (other than paragraph (4)), and ( o ) of section 1606 of this title shall apply in all respects to Village Corporations, Urban Corporations, and Group Corporations.

@@ -5,7 +5,7 @@ usc_section: "2024"
 chapter: 30
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2024"
-generated_at: "2026-03-29T00:06:10.971Z"
+generated_at: "2026-03-29T02:09:53.752Z"
 ---
 
 # § 2024. Assignment of space in Senate Office Building

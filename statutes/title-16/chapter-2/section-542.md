@@ -5,7 +5,7 @@ usc_section: "542"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 542"
-generated_at: "2026-03-29T00:29:52.556Z"
+generated_at: "2026-03-29T02:11:53.592Z"
 ---
 
 # § 542. Langmuir Research Site; establishment

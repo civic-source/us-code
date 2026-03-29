@@ -5,7 +5,7 @@ usc_section: "10407"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10407"
-generated_at: "2026-03-29T00:32:01.559Z"
+generated_at: "2026-03-29T02:14:25.269Z"
 ---
 
 # § 10407. Utilization of private sector

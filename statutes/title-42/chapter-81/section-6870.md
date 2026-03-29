@@ -5,13 +5,13 @@ usc_section: "6870"
 chapter: 81
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6870"
-generated_at: "2026-03-29T00:32:53.988Z"
+generated_at: "2026-03-29T02:15:36.848Z"
 ---
 
 # § 6870. Prohibition against discrimination; notification to funded project of violation; penalties for failure to comply
 
-(a) No person in the United States shall, on the ground of race, color, national origin, or sex, or on the ground of any other factor specified in any Federal law prohibiting discrimination, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program, project, or activity supported in whole or in part with financial assistance under this part.
-(b) Whenever the Secretary determines that a recipient of financial assistance under this part has failed to comply with subsection (a) or any applicable regulation, he shall notify the recipient thereof in order to secure compliance. If, within a reasonable period of time thereafter, such recipient fails to comply, the Secretary shall—
-  (1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
-  (2) exercise the power and functions provided by title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.] and any other applicable Federal nondiscrimination law; or
-  (3) take such other action as may be authorized by law.
+- **(a)** No person in the United States shall, on the ground of race, color, national origin, or sex, or on the ground of any other factor specified in any Federal law prohibiting discrimination, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program, project, or activity supported in whole or in part with financial assistance under this part.
+- **(b)** Whenever the Secretary determines that a recipient of financial assistance under this part has failed to comply with subsection (a) or any applicable regulation, he shall notify the recipient thereof in order to secure compliance. If, within a reasonable period of time thereafter, such recipient fails to comply, the Secretary shall—
+  - **(1)** refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
+  - **(2)** exercise the power and functions provided by title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.] and any other applicable Federal nondiscrimination law; or
+  - **(3)** take such other action as may be authorized by law.

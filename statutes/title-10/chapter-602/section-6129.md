@@ -5,21 +5,21 @@ usc_section: "6129"
 chapter: 602
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6129"
-generated_at: "2026-03-29T00:20:53.174Z"
+generated_at: "2026-03-29T02:10:45.250Z"
 ---
 
 # § 6129. Certification of completion of milestones with respect to plutonium pit aging
 
-(a) The Administrator shall complete the milestones on plutonium pit aging identified in the report entitled “Research Program Plan for Plutonium and Pit Aging”, published by the Administration in September 2021.
-(b) The Administrator shall—
-  (1) acting through the Defense Programs Advisory Committee, conduct biennial reviews during the period beginning not later than one year after the date of the enactment of this Act and ending December 31, 2030 , regarding the progress achieved toward completing the milestones described in subsection (a); and
-  (2) seek to enter into an arrangement with the private scientific advisory group known as JASON to conduct, not later than 2030, an assessment of plutonium pit aging.
-(c) During the period beginning not later than one year after the date of the enactment of this Act and ending December 31, 2030 , the Administrator shall provide to the congressional defense committees biennial briefings on—
-  (1) the progress achieved toward completing the milestones described in subsection (a); and
-  (2) the results of the assessments described in subsection (b).
-(d) Not later than October 1, 2031 , the Administrator shall—
-  (1) certify to the congressional defense committees whether the milestones described in subsection (a) have been achieved; and
-  (2) if the milestones have not been achieved, submit to such committees a report—
-    (A) describing the reasons such milestones have not been achieved;
-    (B) including, if the Administrator determines the Administration will not be able to meet one of such milestones, an explanation for that determination; and
-    (C) specifying new dates for the completion of the milestones the Administrator anticipates the Administration will meet.
+- **(a)** The Administrator shall complete the milestones on plutonium pit aging identified in the report entitled “Research Program Plan for Plutonium and Pit Aging”, published by the Administration in September 2021.
+- **(b)** The Administrator shall—
+  - **(1)** acting through the Defense Programs Advisory Committee, conduct biennial reviews during the period beginning not later than one year after the date of the enactment of this Act and ending December 31, 2030 , regarding the progress achieved toward completing the milestones described in subsection (a); and
+  - **(2)** seek to enter into an arrangement with the private scientific advisory group known as JASON to conduct, not later than 2030, an assessment of plutonium pit aging.
+- **(c)** During the period beginning not later than one year after the date of the enactment of this Act and ending December 31, 2030 , the Administrator shall provide to the congressional defense committees biennial briefings on—
+  - **(1)** the progress achieved toward completing the milestones described in subsection (a); and
+  - **(2)** the results of the assessments described in subsection (b).
+- **(d)** Not later than October 1, 2031 , the Administrator shall—
+  - **(1)** certify to the congressional defense committees whether the milestones described in subsection (a) have been achieved; and
+  - **(2)** if the milestones have not been achieved, submit to such committees a report—
+    - **(A)** describing the reasons such milestones have not been achieved;
+    - **(B)** including, if the Administrator determines the Administration will not be able to meet one of such milestones, an explanation for that determination; and
+    - **(C)** specifying new dates for the completion of the milestones the Administrator anticipates the Administration will meet.

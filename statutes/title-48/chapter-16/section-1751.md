@@ -5,7 +5,7 @@ usc_section: "1751"
 chapter: 16
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1751"
-generated_at: "2026-03-29T00:33:06.637Z"
+generated_at: "2026-03-29T02:16:00.822Z"
 ---
 
 # § 1751. Delegate to House of Representatives from Commonwealth of the Northern Mariana Islands

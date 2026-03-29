@@ -5,28 +5,28 @@ usc_section: "1356"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1356"
-generated_at: "2026-03-29T00:31:20.885Z"
+generated_at: "2026-03-29T02:14:01.135Z"
 ---
 
 # § 1356. Qualifying shipping activities
 
-(a) For purposes of this subchapter, the term “qualifying shipping activities” means—
-  (1) core qualifying activities,
-  (2) qualifying secondary activities, and
-  (3) qualifying incidental activities.
-(b) For purposes of this subchapter, the term “core qualifying activities” means activities in operating qualifying vessels in United States foreign trade.
-(c) For purposes of this section—
-  (1) The term “qualifying secondary activities” means secondary activities but only to the extent that, without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
-  (2) The term “secondary activities” means—
-    (A) the active management or operation of vessels other than qualifying vessels in the United States foreign trade,
-    (B) the provision of vessel, barge, container, or cargo-related facilities or services to any person,
-    (C) other activities of the electing corporation and other members of its electing group that are an integral part of its business of operating qualifying vessels in United States foreign trade, including—
-      (i) ownership or operation of barges, containers, chassis, and other equipment that are the complement of, or used in connection with, a qualifying vessel in United States foreign trade,
-      (ii) the inland haulage of cargo shipped, or to be shipped, on qualifying vessels in United States foreign trade, and
-      (iii) the provision of terminal, maintenance, repair, logistical, or other vessel, barge, container, or cargo-related services that are an integral part of operating qualifying vessels in United States foreign trade, and
-    (D) such other activities as may be prescribed by the Secretary pursuant to regulations.
-(d) For purposes of this section, the term “qualified incidental activities” means shipping-related activities if—
-  (1) they are incidental to the corporation’s core qualifying activities,
-  (2) they are not qualifying secondary activities, and
-  (3) without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 0.1 percent of the corporation’s gross income from its core qualifying activities.
-(e) In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied as if such group were 1 entity, and the limitations under such subsections shall be allocated among the corporations in such group.
+- **(a)** For purposes of this subchapter, the term “qualifying shipping activities” means—
+  - **(1)** core qualifying activities,
+  - **(2)** qualifying secondary activities, and
+  - **(3)** qualifying incidental activities.
+- **(b)** For purposes of this subchapter, the term “core qualifying activities” means activities in operating qualifying vessels in United States foreign trade.
+- **(c)** For purposes of this section—
+  - **(1)** The term “qualifying secondary activities” means secondary activities but only to the extent that, without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 20 percent of the gross income derived by the corporation from its core qualifying activities.
+  - **(2)** The term “secondary activities” means—
+    - **(A)** the active management or operation of vessels other than qualifying vessels in the United States foreign trade,
+    - **(B)** the provision of vessel, barge, container, or cargo-related facilities or services to any person,
+    - **(C)** other activities of the electing corporation and other members of its electing group that are an integral part of its business of operating qualifying vessels in United States foreign trade, including—
+      - **(i)** ownership or operation of barges, containers, chassis, and other equipment that are the complement of, or used in connection with, a qualifying vessel in United States foreign trade,
+      - **(ii)** the inland haulage of cargo shipped, or to be shipped, on qualifying vessels in United States foreign trade, and
+      - **(iii)** the provision of terminal, maintenance, repair, logistical, or other vessel, barge, container, or cargo-related services that are an integral part of operating qualifying vessels in United States foreign trade, and
+    - **(D)** such other activities as may be prescribed by the Secretary pursuant to regulations.
+- **(d)** For purposes of this section, the term “qualified incidental activities” means shipping-related activities if—
+  - **(1)** they are incidental to the corporation’s core qualifying activities,
+  - **(2)** they are not qualifying secondary activities, and
+  - **(3)** without regard to this subchapter, the gross income derived by such corporation from such activities does not exceed 0.1 percent of the corporation’s gross income from its core qualifying activities.
+- **(e)** In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied as if such group were 1 entity, and the limitations under such subsections shall be allocated among the corporations in such group.

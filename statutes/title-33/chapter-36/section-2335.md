@@ -5,13 +5,13 @@ usc_section: "2335"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2335"
-generated_at: "2026-03-29T00:31:57.426Z"
+generated_at: "2026-03-29T02:14:18.628Z"
 ---
 
 # § 2335. Coastal aquatic habitat management
 
-(a) The Secretary may cooperate with the Secretaries of Agriculture and the Interior, the Administrators of the Environmental Protection Agency and the National Oceanic and Atmospheric Administration, other appropriate Federal, State, and local agencies, and affected private entities, in the development of a management strategy to address problems associated with toxic microorganisms and the resulting degradation of ecosystems in the tidal and nontidal wetlands and waters of the United States.
-(b) As part of the management strategy, the Secretary may provide planning, design, and other technical assistance to each participating State in the development and implementation of nonregulatory measures to mitigate environmental problems and restore aquatic resources.
-(c) The Federal share of the cost of measures undertaken under this section shall not exceed 65 percent.
-(d) The non-Federal share of operation and maintenance costs for projects constructed with assistance provided under this section shall be 100 percent.
-(e) There is authorized to be appropriated to carry out this section $7,000,000 for the period beginning with fiscal year 2000.
+- **(a)** The Secretary may cooperate with the Secretaries of Agriculture and the Interior, the Administrators of the Environmental Protection Agency and the National Oceanic and Atmospheric Administration, other appropriate Federal, State, and local agencies, and affected private entities, in the development of a management strategy to address problems associated with toxic microorganisms and the resulting degradation of ecosystems in the tidal and nontidal wetlands and waters of the United States.
+- **(b)** As part of the management strategy, the Secretary may provide planning, design, and other technical assistance to each participating State in the development and implementation of nonregulatory measures to mitigate environmental problems and restore aquatic resources.
+- **(c)** The Federal share of the cost of measures undertaken under this section shall not exceed 65 percent.
+- **(d)** The non-Federal share of operation and maintenance costs for projects constructed with assistance provided under this section shall be 100 percent.
+- **(e)** There is authorized to be appropriated to carry out this section $7,000,000 for the period beginning with fiscal year 2000.

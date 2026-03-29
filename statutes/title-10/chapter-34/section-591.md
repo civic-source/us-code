@@ -5,7 +5,7 @@ usc_section: "591"
 chapter: 34
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 591"
-generated_at: "2026-03-29T00:20:52.864Z"
+generated_at: "2026-03-29T02:10:44.888Z"
 ---
 
 # § 591. Reference to chapters 1205 and 1207

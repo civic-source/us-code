@@ -5,7 +5,7 @@ usc_section: "1831"
 chapter: 16
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1831"
-generated_at: "2026-03-29T00:29:16.697Z"
+generated_at: "2026-03-29T02:11:21.068Z"
 ---
 
 # § 1831. Separability of certain provisions of this chapter

@@ -5,14 +5,14 @@ usc_section: "1789"
 chapter: 88
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1789"
-generated_at: "2026-03-29T00:20:53.008Z"
+generated_at: "2026-03-29T02:10:45.050Z"
 ---
 
 # § 1789. Chaplain-led programs: authorized support
 
-(a) The Secretary of a military department may provide support services described in subsection (b) to support a chaplain-led program to assist a covered individual in building and maintaining a strong family structure, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual.
-(b) The support services referred to in subsection (a) are costs of transportation, food, lodging, child care, supplies, fees, and training materials for a covered individual while participating in a program referred to in that subsection, including participation at a retreat or conference.
-(c) In this section, the term “covered individual” means—
-  (1) a member of the armed forces on active duty;
-  (2) a member of the reserve components in an active status; or
-  (3) a dependent of an individual described in paragraph (1) or (2).
+- **(a)** The Secretary of a military department may provide support services described in subsection (b) to support a chaplain-led program to assist a covered individual in building and maintaining a strong family structure, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual.
+- **(b)** The support services referred to in subsection (a) are costs of transportation, food, lodging, child care, supplies, fees, and training materials for a covered individual while participating in a program referred to in that subsection, including participation at a retreat or conference.
+- **(c)** In this section, the term “covered individual” means—
+  - **(1)** a member of the armed forces on active duty;
+  - **(2)** a member of the reserve components in an active status; or
+  - **(3)** a dependent of an individual described in paragraph (1) or (2).

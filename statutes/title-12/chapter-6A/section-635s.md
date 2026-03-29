@@ -5,12 +5,12 @@ usc_section: "635s"
 chapter: 6
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 635s"
-generated_at: "2026-03-29T00:29:16.524Z"
+generated_at: "2026-03-29T02:11:20.879Z"
 ---
 
 # § 635s. Implementation
 
-(a) 
-  (1) The National Advisory Council on International Monetary and Financial Policies shall coordinate the implementation of the tied aid credit programs authorized by sections 635q and 635r of this title.
-  (2) No financing may be approved under the tied aid credit programs authorized by section 635q or 635r of this title without the unanimous consent of the members of the National Advisory Council on International Monetary and Financial Policies.
-(b) The Trade and Development Agency shall be represented at any meetings of the National Advisory Council on International Monetary and Financial Policies for discussion of tied aid credit matters, and the representative of the Trade and Development Agency at any such meeting shall have the right to vote on any decisions of the Advisory Council relating to tied aid credit matters.
+- **(a)**
+  - **(1)** The National Advisory Council on International Monetary and Financial Policies shall coordinate the implementation of the tied aid credit programs authorized by sections 635q and 635r of this title.
+  - **(2)** No financing may be approved under the tied aid credit programs authorized by section 635q or 635r of this title without the unanimous consent of the members of the National Advisory Council on International Monetary and Financial Policies.
+- **(b)** The Trade and Development Agency shall be represented at any meetings of the National Advisory Council on International Monetary and Financial Policies for discussion of tied aid credit matters, and the representative of the Trade and Development Agency at any such meeting shall have the right to vote on any decisions of the Advisory Council relating to tied aid credit matters.

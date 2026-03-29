@@ -5,11 +5,11 @@ usc_section: "7605"
 chapter: 78
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7605"
-generated_at: "2026-03-29T00:31:21.101Z"
+generated_at: "2026-03-29T02:14:01.400Z"
 ---
 
 # § 7605. Time and place of examination
 
-(a) The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
-(b) No taxpayer shall be subjected to unnecessary examination or investigations, and only one inspection of a taxpayer’s books of account shall be made for each taxable year unless the taxpayer requests otherwise or unless the Secretary, after investigation, notifies the taxpayer in writing that an additional inspection is necessary.
-(c) For provisions restricting church tax inquiries and examinations, see section 7611.
+- **(a)** The time and place of examination pursuant to the provisions of section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall be such time and place as may be fixed by the Secretary and as are reasonable under the circumstances. In the case of a summons under authority of paragraph (2) of section 7602, or under the corresponding authority of section 6420(e)(2), 6421(g)(2), or 6427(j)(2), the date fixed for appearance before the Secretary shall not be less than 10 days from the date of the summons.
+- **(b)** No taxpayer shall be subjected to unnecessary examination or investigations, and only one inspection of a taxpayer’s books of account shall be made for each taxable year unless the taxpayer requests otherwise or unless the Secretary, after investigation, notifies the taxpayer in writing that an additional inspection is necessary.
+- **(c)** For provisions restricting church tax inquiries and examinations, see section 7611.

@@ -5,7 +5,7 @@ usc_section: "57b"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 57b"
-generated_at: "2026-03-29T00:06:10.861Z"
+generated_at: "2026-03-29T02:09:53.631Z"
 ---
 
 # § 57b. Transferred

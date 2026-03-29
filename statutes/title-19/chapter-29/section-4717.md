@@ -5,7 +5,7 @@ usc_section: "4717"
 chapter: 29
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4717"
-generated_at: "2026-03-29T00:30:20.319Z"
+generated_at: "2026-03-29T02:12:08.787Z"
 ---
 
 # § 4717. Regulations

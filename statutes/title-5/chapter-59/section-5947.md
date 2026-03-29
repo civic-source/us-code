@@ -5,13 +5,13 @@ usc_section: "5947"
 chapter: 59
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5947"
-generated_at: "2026-03-29T00:28:38.361Z"
+generated_at: "2026-03-29T02:10:01.890Z"
 ---
 
 # § 5947. Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations
 
-(a) An employee of the Corps of Engineers, Department of the Army, engaged in floating plant operations may be furnished quarters or subsistence, or both, on vessels, without charge, when the furnishing of the quarters or subsistence, or both, is determined to be equitable to the employee concerned, and necessary in the public interest, in connection with such operations.
-(b) Notwithstanding section 5536 of this title , an employee entitled to the benefits of subsection (a) of this section while on a vessel, may be paid, in place of these benefits, an allowance for quarters or subsistence, or both, when—
-  (1) adverse weather conditions or similar circumstances beyond the control of the employee or the Corps of Engineers prevent transportation of the employee from shore to the vessel; or
-  (2) quarters or subsistence, or both, are not available on the vessel while it is undergoing repairs.
-(c) The quarters or subsistence, or both, or allowance in place thereof, may be furnished or paid only under regulations prescribed by the Secretary of the Army.
+- **(a)** An employee of the Corps of Engineers, Department of the Army, engaged in floating plant operations may be furnished quarters or subsistence, or both, on vessels, without charge, when the furnishing of the quarters or subsistence, or both, is determined to be equitable to the employee concerned, and necessary in the public interest, in connection with such operations.
+- **(b)** Notwithstanding section 5536 of this title , an employee entitled to the benefits of subsection (a) of this section while on a vessel, may be paid, in place of these benefits, an allowance for quarters or subsistence, or both, when—
+  - **(1)** adverse weather conditions or similar circumstances beyond the control of the employee or the Corps of Engineers prevent transportation of the employee from shore to the vessel; or
+  - **(2)** quarters or subsistence, or both, are not available on the vessel while it is undergoing repairs.
+- **(c)** The quarters or subsistence, or both, or allowance in place thereof, may be furnished or paid only under regulations prescribed by the Secretary of the Army.

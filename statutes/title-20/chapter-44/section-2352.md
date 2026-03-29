@@ -1,0 +1,27 @@
+---
+title: "Section 2352 - Distribution of funds for postsecondary education programs"
+usc_title: 20
+usc_section: "2352"
+chapter: 44
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 2352"
+generated_at: "2026-03-29T02:12:17.387Z"
+---
+
+# § 2352. Distribution of funds for postsecondary education programs
+
+- **(a)**
+  - **(1)** Except as provided in subsections (b) and (c) and section 2353 of this title , each eligible agency shall distribute the portion of the funds made available under section 2322(a)(1) of this title to carry out this section for any fiscal year to eligible institutions or consortia of eligible institutions within the State.
+  - **(2)** Each eligible institution or consortium of eligible institutions shall be allocated an amount that bears the same relationship to the portion of funds made available under section 2322(a)(1) of this title to carry out this section for any fiscal year as the sum of the number of individuals who are Federal Pell Grant recipients and recipients of assistance from the Bureau of Indian Affairs enrolled in programs meeting the requirements of section 2355 of this title offered by such institution or consortium in the preceding fiscal year bears to the sum of the number of such recipients enrolled in such programs within the State for such year.
+  - **(3)**
+    - **(A)** In order for a consortium of eligible institutions described in paragraph (2) to receive assistance pursuant to such paragraph, such consortium shall operate joint projects that—
+      - **(i)** provide services to all postsecondary institutions participating in the consortium; and
+      - **(ii)** are of sufficient size, scope, and quality to be effective.
+    - **(B)** Funds allocated to a consortium formed to meet the requirements of this section shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and shall be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
+  - **(4)** The eligible agency may waive the application of paragraph (3)(A)(i) in any case in which the eligible institution is located in a rural, sparsely populated area.
+- **(b)** The Secretary may waive the application of subsection (a) if an eligible agency submits to the Secretary an application for such a waiver that—
+  - **(1)** demonstrates that the formula described in subsection (a) does not result in a distribution of funds to the eligible institutions or consortia within the State that have the highest numbers of economically disadvantaged individuals and that an alternative formula will result in such a distribution; and
+  - **(2)** includes a proposal for such an alternative formula.
+- **(c)**
+  - **(1)** No institution or consortium shall receive an allocation under this section in an amount that is less than $50,000.
+  - **(2)** Any amounts that are not distributed by reason of paragraph (1) shall be redistributed to eligible institutions or consortia in accordance with this section.

@@ -5,7 +5,7 @@ usc_section: "1325"
 chapter: 13
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1325"
-generated_at: "2026-03-29T00:32:22.573Z"
+generated_at: "2026-03-29T02:15:00.441Z"
 ---
 
 # § 1325. Annual report

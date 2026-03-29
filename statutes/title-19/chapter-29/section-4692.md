@@ -5,13 +5,13 @@ usc_section: "4692"
 chapter: 29
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4692"
-generated_at: "2026-03-29T00:30:20.318Z"
+generated_at: "2026-03-29T02:12:08.786Z"
 ---
 
 # § 4692. Suspension of liquidation
 
-(a) If the United States files a request pursuant to article 31–A.4.2 of Annex 31–A of the USMCA, the Trade Representative may direct the Secretary of the Treasury to suspend liquidation for unliquidated entries of goods from such covered facility until such time as the Trade Representative notifies the Secretary that a condition described in subsection (b) has been met.
-(b) The conditions described in this subsection are the following:
-  (1) The rapid response labor panel has determined that there is no denial of rights at the covered facility within the meaning of such terms under Annex 31–A of the USMCA.
-  (2) A course of remediation for denial of rights has been agreed to and has been completed in accordance with the agreed-upon time.
-  (3) The denial of rights has been otherwise remedied.
+- **(a)** If the United States files a request pursuant to article 31–A.4.2 of Annex 31–A of the USMCA, the Trade Representative may direct the Secretary of the Treasury to suspend liquidation for unliquidated entries of goods from such covered facility until such time as the Trade Representative notifies the Secretary that a condition described in subsection (b) has been met.
+- **(b)** The conditions described in this subsection are the following:
+  - **(1)** The rapid response labor panel has determined that there is no denial of rights at the covered facility within the meaning of such terms under Annex 31–A of the USMCA.
+  - **(2)** A course of remediation for denial of rights has been agreed to and has been completed in accordance with the agreed-upon time.
+  - **(3)** The denial of rights has been otherwise remedied.

@@ -5,7 +5,7 @@ usc_section: "963"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 963"
-generated_at: "2026-03-29T00:31:20.854Z"
+generated_at: "2026-03-29T02:14:01.090Z"
 ---
 
 # [§ 963. Repealed. Pub. L. 94–12, title VI, § 602(a)(1) , Mar. 29, 1975 , 89 Stat. 58 ]

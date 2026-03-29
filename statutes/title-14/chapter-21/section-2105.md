@@ -5,10 +5,10 @@ usc_section: "2105"
 chapter: 21
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2105"
-generated_at: "2026-03-29T00:29:25.011Z"
+generated_at: "2026-03-29T02:11:23.795Z"
 ---
 
 # § 2105. Rank of warrant officers
 
-(a) Among warrant officer grades, warrant officers of a higher numerical designation are senior to warrant officer grades of a lower numerical designation.
-(b) Warrant officers shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in the Coast Guard in such grade. Precedence among warrant officers of the same grade who have the same date of commission shall be determined by regulations prescribed by the Secretary.
+- **(a)** Among warrant officer grades, warrant officers of a higher numerical designation are senior to warrant officer grades of a lower numerical designation.
+- **(b)** Warrant officers shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in the Coast Guard in such grade. Precedence among warrant officers of the same grade who have the same date of commission shall be determined by regulations prescribed by the Secretary.

@@ -1,0 +1,22 @@
+---
+title: "Section 220521 - Certification of national governing bodies"
+usc_title: 36
+usc_section: "220521"
+chapter: 2205
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 220521"
+generated_at: "2026-03-29T02:14:41.382Z"
+---
+
+# § 220521. Certification of national governing bodies
+
+- **(a)** With respect to each sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games, the corporation—
+  - **(1)** may certify as a national governing body an amateur sports organization, a high-performance management organization, or a paralympic sports organization that files an application and is eligible for such certification under section 220522; and
+  - **(2)** may not certify more than 1 national governing body.
+- **(b)** Before certifying an organization as a national governing body, the corporation shall hold at least 2 public hearings on the application. The corporation shall publish notice of the time, place, and nature of the hearings. Publication shall be made in a regular issue of the corporation’s principal publication at least 30 days, but not more than 60 days, before the date of the hearings. The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.
+- **(c)** Within 61 days after certifying an organization as a national governing body, the corporation shall recommend and support in any appropriate manner the national governing body to the appropriate international sports federation as the representative of the United States for that sport.
+- **(d)** Not later than 8 years after the date of the enactment of the Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020, and not less frequently than once every 4 years thereafter, the corporation—
+  - **(1)** shall review all matters related to the continued certification of an organization as a national governing body;
+  - **(2)** may take action the corporation considers appropriate, including placing conditions on the continued certification of an organization as a national governing body;
+  - **(3)** shall submit to Congress a summary report of each review under paragraph (1); and
+  - **(4)** shall make each such summary report available to the public.

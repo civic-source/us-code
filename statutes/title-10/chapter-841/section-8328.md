@@ -5,11 +5,11 @@ usc_section: "8328"
 chapter: 841
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8328"
-generated_at: "2026-03-29T00:20:53.220Z"
+generated_at: "2026-03-29T02:10:45.303Z"
 ---
 
 # § 8328. Computation of years of service: voluntary retirement
 
-(a) Time required to be made up under section 972(a) of this title after February 10, 1996 , may not be counted in computing years of service under this chapter.
-(b) Section 972(b) of this title excludes from computation of an officer’s years of service for purposes of this chapter any time identified with respect to that officer under that section.
-(c) The months of active service in pursuit of a baccalaureate-level degree under the Seaman to Admiral (STA–21) program of the Navy of officer candidates selected for the program on or after October 28, 2009 , shall be excluded in computing the years of service of an officer who was appointed to the grade of ensign in the Navy upon completion of the program to determine the eligibility of the officer for retirement, unless the officer becomes subject to involuntary separation or retirement due to physical disability. Such active service shall be counted in computing the years of active service of the officer for all other purposes.
+- **(a)** Time required to be made up under section 972(a) of this title after February 10, 1996 , may not be counted in computing years of service under this chapter.
+- **(b)** Section 972(b) of this title excludes from computation of an officer’s years of service for purposes of this chapter any time identified with respect to that officer under that section.
+- **(c)** The months of active service in pursuit of a baccalaureate-level degree under the Seaman to Admiral (STA–21) program of the Navy of officer candidates selected for the program on or after October 28, 2009 , shall be excluded in computing the years of service of an officer who was appointed to the grade of ensign in the Navy upon completion of the program to determine the eligibility of the officer for retirement, unless the officer becomes subject to involuntary separation or retirement due to physical disability. Such active service shall be counted in computing the years of active service of the officer for all other purposes.

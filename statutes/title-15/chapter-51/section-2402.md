@@ -5,12 +5,12 @@ usc_section: "2402"
 chapter: 51
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2402"
-generated_at: "2026-03-29T00:29:41.781Z"
+generated_at: "2026-03-29T02:11:34.283Z"
 ---
 
 # § 2402. Congressional statement of purpose
 
 It is the purpose of this chapter—
 
-  (1) to establish a national policy which will encourage productivity growth consistent with needs of the economy, the natural environment, and the needs, rights, and best interests of management, the work force, and consumers; and
-  (2) to establish as an independent establishment of the executive branch a National Center for Productivity and Quality of Working Life to focus, coordinate, and promote efforts to improve the rate of productivity growth.
+  - **(1)** to establish a national policy which will encourage productivity growth consistent with needs of the economy, the natural environment, and the needs, rights, and best interests of management, the work force, and consumers; and
+  - **(2)** to establish as an independent establishment of the executive branch a National Center for Productivity and Quality of Working Life to focus, coordinate, and promote efforts to improve the rate of productivity growth.

@@ -5,7 +5,7 @@ usc_section: "17708"
 chapter: 177
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 17708"
-generated_at: "2026-03-29T00:32:20.587Z"
+generated_at: "2026-03-29T02:14:58.817Z"
 ---
 
 # § 17708. Nonapplication

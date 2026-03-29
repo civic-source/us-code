@@ -5,12 +5,12 @@ usc_section: "312"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 312"
-generated_at: "2026-03-29T00:06:17.472Z"
+generated_at: "2026-03-29T02:10:04.985Z"
 ---
 
 # § 312. Definition
 
 In this subchapter, the term “Nuclear Incident Response Team” means a resource that includes—
 
-  (1) those entities of the Department of Energy that perform nuclear or radiological emergency support functions (including accident response, search response, advisory, and technical operations functions), radiation exposure functions at the medical assistance facility known as the Radiation Emergency Assistance Center/Training Site (REAC/TS), radiological assistance functions, and related functions; and
-  (2) those entities of the Environmental Protection Agency that perform such support functions (including radiological emergency response functions) and related functions.
+  - **(1)** those entities of the Department of Energy that perform nuclear or radiological emergency support functions (including accident response, search response, advisory, and technical operations functions), radiation exposure functions at the medical assistance facility known as the Radiation Emergency Assistance Center/Training Site (REAC/TS), radiological assistance functions, and related functions; and
+  - **(2)** those entities of the Environmental Protection Agency that perform such support functions (including radiological emergency response functions) and related functions.

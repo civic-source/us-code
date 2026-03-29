@@ -5,12 +5,12 @@ usc_section: "1680p"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680p"
-generated_at: "2026-03-29T00:30:38.707Z"
+generated_at: "2026-03-29T02:13:20.911Z"
 ---
 
 # § 1680p. Annual budget submission
 
 Effective beginning with the submission of the annual budget request to Congress for fiscal year 2011, the President shall include, in the amount requested and the budget justification, amounts that reflect any changes in—
 
-  (1) the cost of health care services, as indexed for United States dollar inflation (as measured by the Consumer Price Index); and
-  (2) the size of the population served by the Service.
+  - **(1)** the cost of health care services, as indexed for United States dollar inflation (as measured by the Consumer Price Index); and
+  - **(2)** the size of the population served by the Service.

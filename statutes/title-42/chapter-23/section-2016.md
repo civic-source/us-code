@@ -5,7 +5,7 @@ usc_section: "2016"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2016"
-generated_at: "2026-03-29T00:32:53.736Z"
+generated_at: "2026-03-29T02:15:36.572Z"
 ---
 
 # § 2016. Repealed. Pub. L. 105–85, div. C, title XXXI, § 3152(a)(1) , Nov. 18, 1997 , 111 Stat. 2042

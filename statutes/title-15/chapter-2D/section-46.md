@@ -5,13 +5,13 @@ usc_section: "46"
 chapter: 2
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 46"
-generated_at: "2026-03-29T00:29:41.544Z"
+generated_at: "2026-03-29T02:11:33.987Z"
 ---
 
 # § 80a–46. Validity of contracts
 
-(a) Any condition, stipulation, or provision binding any person to waive compliance with any provision of this subchapter or with any rule, regulation, or order thereunder shall be void.
-(b) 
-  (1) A contract that is made, or whose performance involves, a violation of this subchapter, or of any rule, regulation, or order thereunder, is unenforceable by either party (or by a nonparty to the contract who acquired a right under the contract with knowledge of the facts by reason of which the making or performance violated or would violate any provision of this subchapter or of any rule, regulation, or order thereunder) unless a court finds that under the circumstances enforcement would produce a more equitable result than nonenforcement and would not be inconsistent with the purposes of this subchapter.
-  (2) To the extent that a contract described in paragraph (1) has been performed, a court may not deny rescission at the instance of any party unless such court finds that under the circumstances the denial of rescission would produce a more equitable result than its grant and would not be inconsistent with the purposes of this subchapter.
-  (3) This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of the contract, or (B) to preclude recovery against any person for unjust enrichment.
+- **(a)** Any condition, stipulation, or provision binding any person to waive compliance with any provision of this subchapter or with any rule, regulation, or order thereunder shall be void.
+- **(b)**
+  - **(1)** A contract that is made, or whose performance involves, a violation of this subchapter, or of any rule, regulation, or order thereunder, is unenforceable by either party (or by a nonparty to the contract who acquired a right under the contract with knowledge of the facts by reason of which the making or performance violated or would violate any provision of this subchapter or of any rule, regulation, or order thereunder) unless a court finds that under the circumstances enforcement would produce a more equitable result than nonenforcement and would not be inconsistent with the purposes of this subchapter.
+  - **(2)** To the extent that a contract described in paragraph (1) has been performed, a court may not deny rescission at the instance of any party unless such court finds that under the circumstances the denial of rescission would produce a more equitable result than its grant and would not be inconsistent with the purposes of this subchapter.
+  - **(3)** This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of the contract, or (B) to preclude recovery against any person for unjust enrichment.

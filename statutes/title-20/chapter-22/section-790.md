@@ -5,7 +5,7 @@ usc_section: "790"
 chapter: 22
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 790"
-generated_at: "2026-03-29T00:07:03.115Z"
+generated_at: "2026-03-29T02:12:17.156Z"
 ---
 
 # § 790. Repealed. Pub. L. 91–346, § 5(d)(3)(B) , July 20, 1970 , 84 Stat. 445

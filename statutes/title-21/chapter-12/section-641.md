@@ -5,7 +5,7 @@ usc_section: "641"
 chapter: 12
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 641"
-generated_at: "2026-03-29T00:30:24.324Z"
+generated_at: "2026-03-29T02:12:28.133Z"
 ---
 
 # § 641. Prohibition of subchapter I inspection of articles not intended for use as human food; de­naturation or other identification prior to distribution in commerce; inedible articles

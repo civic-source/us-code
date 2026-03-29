@@ -5,7 +5,7 @@ usc_section: "11504"
 chapter: 115
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 11504"
-generated_at: "2026-03-29T00:32:20.575Z"
+generated_at: "2026-03-29T02:14:58.808Z"
 ---
 
 # § 11504. Recommended legislation

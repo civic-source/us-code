@@ -5,13 +5,13 @@ usc_section: "1663"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1663"
-generated_at: "2026-03-29T00:29:41.721Z"
+generated_at: "2026-03-29T02:11:34.203Z"
 ---
 
 # § 1663. Advertising of open end credit plans
 
 No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan unless it also clearly and conspicuously sets forth all of the following items:
 
-  (1) Any minimum or fixed amount which could be imposed.
-  (2) In any case in which periodic rates may be used to compute the finance charge, the periodic rates expressed as annual percentage rates.
-  (3) Any other term that the Bureau may by regulation require to be disclosed.
+  - **(1)** Any minimum or fixed amount which could be imposed.
+  - **(2)** In any case in which periodic rates may be used to compute the finance charge, the periodic rates expressed as annual percentage rates.
+  - **(3)** Any other term that the Bureau may by regulation require to be disclosed.

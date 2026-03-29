@@ -5,7 +5,7 @@ usc_section: "353"
 chapter: 7
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 353"
-generated_at: "2026-03-29T00:31:30.767Z"
+generated_at: "2026-03-29T02:14:11.208Z"
 ---
 
 # § 353. Sale of lands unaffected; reservation of mineral rights; sale subject to prior lease; naval petroleum reserves unaffected

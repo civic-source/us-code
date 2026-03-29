@@ -5,10 +5,10 @@ usc_section: "3721"
 chapter: 51
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3721"
-generated_at: "2026-03-29T00:30:33.888Z"
+generated_at: "2026-03-29T02:12:40.298Z"
 ---
 
 # § 3721. Accounting policies
 
-(a) The Commission shall establish and maintain its accounts pursuant to chapter 91 of title 31 and the provisions of this part. Such accounts shall specify all revenues received by the Commission, including tolls for the use of the Panama Canal, expenditures for capital replacement, expansion, and improvement, and all costs of maintenance and operation of the Panama Canal and of its complementary works, installations, and equipment, including depreciation, payments to the Republic of Panama under the Panama Canal Treaty of 1977, and interest on the investment of the United States calculated in accordance with section 3793 of this title .
-(b) The Commission may issue regulations establishing the basis of accounting for the assets which are made available for the use of the Commission. Such regulations may provide for depreciation of the net replacement value of the assets which will ultimately require replacement to maintain the service capacity of the Panama Canal. Such regulations may also provide that depreciation of such assets be recorded ratably over their service lives.
+- **(a)** The Commission shall establish and maintain its accounts pursuant to chapter 91 of title 31 and the provisions of this part. Such accounts shall specify all revenues received by the Commission, including tolls for the use of the Panama Canal, expenditures for capital replacement, expansion, and improvement, and all costs of maintenance and operation of the Panama Canal and of its complementary works, installations, and equipment, including depreciation, payments to the Republic of Panama under the Panama Canal Treaty of 1977, and interest on the investment of the United States calculated in accordance with section 3793 of this title .
+- **(b)** The Commission may issue regulations establishing the basis of accounting for the assets which are made available for the use of the Commission. Such regulations may provide for depreciation of the net replacement value of the assets which will ultimately require replacement to maintain the service capacity of the Panama Canal. Such regulations may also provide that depreciation of such assets be recorded ratably over their service lives.

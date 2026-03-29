@@ -5,13 +5,13 @@ usc_section: "1538"
 chapter: 40
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1538"
-generated_at: "2026-03-29T00:29:41.703Z"
+generated_at: "2026-03-29T02:11:34.180Z"
 ---
 
 # § 1538. Notice of reprogramming
 
-(a) The Secretary of Commerce shall provide notice to the Committee on Commerce, Science, and Transportation and Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries, Committee on Science, Space, and Technology, and Committee on Appropriations of the House of Representatives, not less than 15 days before reprogramming funds available for a program, project, or activity of the National Oceanic and Atmospheric Administration in an amount greater than the lesser of $250,000 or 5 percent of the total funding of such program, project, or activity if the reprogramming—
-  (1) augments an existing program, project, or activity;
-  (2) reduces by 5 percent or more (A) the funding for an existing program, project, or activity or (B) the numbers of personnel therefor as approved by Congress; or
-  (3) results from any general savings from a reduction in personnel which would result in a change in an existing program, project, or activity.
-(b) The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
+- **(a)** The Secretary of Commerce shall provide notice to the Committee on Commerce, Science, and Transportation and Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries, Committee on Science, Space, and Technology, and Committee on Appropriations of the House of Representatives, not less than 15 days before reprogramming funds available for a program, project, or activity of the National Oceanic and Atmospheric Administration in an amount greater than the lesser of $250,000 or 5 percent of the total funding of such program, project, or activity if the reprogramming—
+  - **(1)** augments an existing program, project, or activity;
+  - **(2)** reduces by 5 percent or more (A) the funding for an existing program, project, or activity or (B) the numbers of personnel therefor as approved by Congress; or
+  - **(3)** results from any general savings from a reduction in personnel which would result in a change in an existing program, project, or activity.
+- **(b)** The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.

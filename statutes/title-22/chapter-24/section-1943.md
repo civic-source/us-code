@@ -5,7 +5,7 @@ usc_section: "1943"
 chapter: 24
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1943"
-generated_at: "2026-03-29T00:30:33.743Z"
+generated_at: "2026-03-29T02:12:40.015Z"
 ---
 
 # § 1943. Authorization of appropriations; restrictions; reports to congressional committees

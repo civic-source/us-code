@@ -5,7 +5,7 @@ usc_section: "396a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 396a"
-generated_at: "2026-03-29T00:30:38.640Z"
+generated_at: "2026-03-29T02:13:20.854Z"
 ---
 
 # § 396a. Leases of unallotted lands for mining purposes; duration of leases

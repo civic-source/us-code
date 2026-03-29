@@ -5,10 +5,10 @@ usc_section: "1120"
 chapter: 51
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1120"
-generated_at: "2026-03-29T00:30:15.662Z"
+generated_at: "2026-03-29T02:12:02.407Z"
 ---
 
 # § 1120. Murder by escaped prisoners
 
-(a) In this section, “Federal correctional institution” and “term of life imprisonment” have the meanings stated in section 1118.
-(b) A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills another shall be punished as provided in sections 1111 and 1112.
+- **(a)** In this section, “Federal correctional institution” and “term of life imprisonment” have the meanings stated in section 1118.
+- **(b)** A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills another shall be punished as provided in sections 1111 and 1112.

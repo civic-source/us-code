@@ -5,7 +5,7 @@ usc_section: "1141f"
 chapter: 7
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1141f"
-generated_at: "2026-03-29T00:29:16.525Z"
+generated_at: "2026-03-29T02:11:20.879Z"
 ---
 
 # §§ 1141b to 1141f. Repealed. Pub. L. 115–334, title V, § 5411(52) –(56), (58), Dec. 20, 2018 , 132 Stat. 4685

@@ -5,18 +5,18 @@ usc_section: "1010"
 chapter: 9
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 1010"
-generated_at: "2026-03-29T00:33:04.949Z"
+generated_at: "2026-03-29T02:15:59.266Z"
 ---
 
 # § 1010. Reports
 
-(a) 
-  (1) On or before November 30, 1995 , and on or before November 30 of each year thereafter, the Attorney General shall submit to Congress and make available to the public a report on the amounts paid during the preceding fiscal year to telecommunications carriers under sections 1003(e) and 1008 of this title.
-  (2) A report under paragraph (1) shall include—
-    (A) a detailed accounting of the amounts paid to each carrier and the equipment, facility, or service for which the amounts were paid; and
-    (B) projections of the amounts expected to be paid in the current fiscal year, the carriers to which payment is expected to be made, and the equipment, facilities, or services for which payment is expected to be made.
-(b) 
-  (1) On or before April 1, 1996 , the Comptroller General of the United States, and every two years thereafter, the Inspector General of the Department of Justice, shall submit to the Congress a report, after consultation with the Attorney General and the telecommunications industry—
-    (A) describing the type of equipment, facilities, and services that have been brought into compliance under this subchapter; and
-    (B) reflecting its analysis of the reasonableness and cost-effectiveness of the payments made by the Attorney General to telecommunications carriers for modifications necessary to ensure compliance with this subchapter.
-  (2) A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 1002 of this title after the effective date of such section 1002 of this title , including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
+- **(a)**
+  - **(1)** On or before November 30, 1995 , and on or before November 30 of each year thereafter, the Attorney General shall submit to Congress and make available to the public a report on the amounts paid during the preceding fiscal year to telecommunications carriers under sections 1003(e) and 1008 of this title.
+  - **(2)** A report under paragraph (1) shall include—
+    - **(A)** a detailed accounting of the amounts paid to each carrier and the equipment, facility, or service for which the amounts were paid; and
+    - **(B)** projections of the amounts expected to be paid in the current fiscal year, the carriers to which payment is expected to be made, and the equipment, facilities, or services for which payment is expected to be made.
+- **(b)**
+  - **(1)** On or before April 1, 1996 , the Comptroller General of the United States, and every two years thereafter, the Inspector General of the Department of Justice, shall submit to the Congress a report, after consultation with the Attorney General and the telecommunications industry—
+    - **(A)** describing the type of equipment, facilities, and services that have been brought into compliance under this subchapter; and
+    - **(B)** reflecting its analysis of the reasonableness and cost-effectiveness of the payments made by the Attorney General to telecommunications carriers for modifications necessary to ensure compliance with this subchapter.
+  - **(2)** A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of section 1002 of this title after the effective date of such section 1002 of this title , including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.

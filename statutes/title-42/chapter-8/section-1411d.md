@@ -5,7 +5,7 @@ usc_section: "1411d"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1411d"
-generated_at: "2026-03-29T00:32:53.608Z"
+generated_at: "2026-03-29T02:15:36.420Z"
 ---
 
 # § 1411d. Repealed. Pub. L. 93–383, title II, § 204 , Aug. 22, 1974 , 88 Stat. 668

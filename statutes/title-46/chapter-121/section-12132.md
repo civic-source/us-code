@@ -5,10 +5,10 @@ usc_section: "12132"
 chapter: 121
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 12132"
-generated_at: "2026-03-29T00:33:02.891Z"
+generated_at: "2026-03-29T02:15:53.740Z"
 ---
 
 # § 12132. Loss of coastwise trade privileges
 
-(a) A vessel of more than 200 gross tons (as measured under chapter 143 of this title), eligible to engage in the coastwise trade, and later sold foreign in whole or in part or placed under foreign registry may not thereafter engage in the coastwise trade.
-(b) A vessel eligible to engage in the coastwise trade and later rebuilt outside the United States may not thereafter engage in the coastwise trade.
+- **(a)** A vessel of more than 200 gross tons (as measured under chapter 143 of this title), eligible to engage in the coastwise trade, and later sold foreign in whole or in part or placed under foreign registry may not thereafter engage in the coastwise trade.
+- **(b)** A vessel eligible to engage in the coastwise trade and later rebuilt outside the United States may not thereafter engage in the coastwise trade.

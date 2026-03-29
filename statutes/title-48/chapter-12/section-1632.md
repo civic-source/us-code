@@ -5,7 +5,7 @@ usc_section: "1632"
 chapter: 12
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1632"
-generated_at: "2026-03-29T00:33:06.632Z"
+generated_at: "2026-03-29T02:16:00.819Z"
 ---
 
 # § 1632. Repealed. Pub. L. 90–496, § 14 , Aug. 23, 1968 , 82 Stat. 842

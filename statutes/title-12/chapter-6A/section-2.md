@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 6
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2"
-generated_at: "2026-03-29T00:29:16.519Z"
+generated_at: "2026-03-29T02:11:20.876Z"
 ---
 
 # §§ 635i to 635i–2. Repealed. Pub. L. 102–429, title I, § 121(c)(1) , Oct. 21, 1992 , 106 Stat. 2199

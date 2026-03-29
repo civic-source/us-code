@@ -5,7 +5,7 @@ usc_section: "60f"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 60f"
-generated_at: "2026-03-29T00:06:10.862Z"
+generated_at: "2026-03-29T02:09:53.632Z"
 ---
 
 # § 60f. Repealed. Pub. L. 90–57, § 105(i)(2) , July 28, 1967 , 81 Stat. 144

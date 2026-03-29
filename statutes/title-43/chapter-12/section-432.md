@@ -5,7 +5,7 @@ usc_section: "432"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 432"
-generated_at: "2026-03-29T00:32:57.349Z"
+generated_at: "2026-03-29T02:15:47.545Z"
 ---
 
 # § 432. Entry under homestead laws generally

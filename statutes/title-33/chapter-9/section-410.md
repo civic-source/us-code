@@ -5,7 +5,7 @@ usc_section: "410"
 chapter: 9
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 410"
-generated_at: "2026-03-29T00:31:57.154Z"
+generated_at: "2026-03-29T02:14:18.479Z"
 ---
 
 # § 410. Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty

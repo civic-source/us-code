@@ -5,7 +5,7 @@ usc_section: "3311"
 chapter: 33
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 3311"
-generated_at: "2026-03-29T00:32:20.551Z"
+generated_at: "2026-03-29T02:14:58.792Z"
 ---
 
 # § 3311. State administration of criminal and health and safety laws

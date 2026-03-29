@@ -5,13 +5,13 @@ usc_section: "7304"
 chapter: 80
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7304"
-generated_at: "2026-03-29T00:30:33.988Z"
+generated_at: "2026-03-29T02:12:40.420Z"
 ---
 
 # § 7304. Definitions
 
 In this chapter:
 
-  (1) The term “DTS Network” means the worldwide telecommunications network supporting all United States Government agencies and departments operating from diplomatic and consular facilities outside of the United States.
-  (2) The term “DTS–PO” means the Diplomatic Telecommunications Service Program Office.
-  (3) The term “Governance Board” means the Diplomatic Telecommunications Service Governance Board established under section 7302(a)(1) of this title .
+  - **(1)** The term “DTS Network” means the worldwide telecommunications network supporting all United States Government agencies and departments operating from diplomatic and consular facilities outside of the United States.
+  - **(2)** The term “DTS–PO” means the Diplomatic Telecommunications Service Program Office.
+  - **(3)** The term “Governance Board” means the Diplomatic Telecommunications Service Governance Board established under section 7302(a)(1) of this title .

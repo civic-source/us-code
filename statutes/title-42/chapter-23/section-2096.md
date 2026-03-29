@@ -5,13 +5,13 @@ usc_section: "2096"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2096"
-generated_at: "2026-03-29T00:32:53.747Z"
+generated_at: "2026-03-29T02:15:36.581Z"
 ---
 
 # § 2096. Acquisition of source material; payments
 
 The Commission is authorized and directed, to the extent it deems necessary to effectuate the provisions of this chapter—
 
-(a) to purchase, take, requisition, condemn, or otherwise acquire supplies of source material;
-(b) to purchase, condemn, or otherwise acquire any interest in real property containing deposits of source material; and
-(c) to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits.
+- **(a)** to purchase, take, requisition, condemn, or otherwise acquire supplies of source material;
+- **(b)** to purchase, condemn, or otherwise acquire any interest in real property containing deposits of source material; and
+- **(c)** to purchase, condemn, or otherwise acquire rights to enter upon any real property deemed by the Commission to have possibilities of containing deposits of source material in order to conduct prospecting and exploratory operations for such deposits.

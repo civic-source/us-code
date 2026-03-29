@@ -5,23 +5,23 @@ usc_section: "4904"
 chapter: 69
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 4904"
-generated_at: "2026-03-29T00:29:52.845Z"
+generated_at: "2026-03-29T02:11:53.944Z"
 ---
 
 # § 4904. Moratoria on imports of exotic birds covered by Convention
 
-(a) 
-  (1) The importation of any exotic bird of a species identified as a category B species in the report entitled “Report of the Animals Committee”, adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
-  (2) A species of exotic birds shall be subject to the prohibition on importation established by paragraph (1) until the Secretary, after notice and an opportunity for public comment—
-    (A) determines that appropriate remedial measures have been taken in the countries of origin for that species, so as to eliminate the threat of trade to the conservation of the species; and
-    (B) makes the findings described in section 4905(c) of this title for the species and includes the species in the list published under section 4905(a) of this title .
-(b) 
-  (1) The Secretary is authorized to suspend the importation of exotic birds of any species that is listed in any Appendix to the Convention, and if applicable remove the species from the list under section 4905(a) of this title , if the Secretary determines that—
-    (A) 
-      (i) trade in that species is detrimental to the species,
-      (ii) there is not sufficient information available on which to base a judgment that the species is not detrimentally affected by trade in that species, or
-      (iii) remedial measures have been recommended by the Standing Committee of the Convention that have not been implemented; and
-    (B) the suspension might be necessary for the conservation of the species.
-  (2) A species of exotic birds shall be subject to a suspension of importation under paragraph (1) until the Secretary, after notice and an opportunity for public comment, makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
-(c) Effective on the date that is one year after October 23, 1992 , the importation of any exotic bird of a species that is listed in any Appendix to the Convention is prohibited unless the Secretary makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
-(d) Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992 , of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.
+- **(a)**
+  - **(1)** The importation of any exotic bird of a species identified as a category B species in the report entitled “Report of the Animals Committee”, adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
+  - **(2)** A species of exotic birds shall be subject to the prohibition on importation established by paragraph (1) until the Secretary, after notice and an opportunity for public comment—
+    - **(A)** determines that appropriate remedial measures have been taken in the countries of origin for that species, so as to eliminate the threat of trade to the conservation of the species; and
+    - **(B)** makes the findings described in section 4905(c) of this title for the species and includes the species in the list published under section 4905(a) of this title .
+- **(b)**
+  - **(1)** The Secretary is authorized to suspend the importation of exotic birds of any species that is listed in any Appendix to the Convention, and if applicable remove the species from the list under section 4905(a) of this title , if the Secretary determines that—
+    - **(A)**
+      - **(i)** trade in that species is detrimental to the species,
+      - **(ii)** there is not sufficient information available on which to base a judgment that the species is not detrimentally affected by trade in that species, or
+      - **(iii)** remedial measures have been recommended by the Standing Committee of the Convention that have not been implemented; and
+    - **(B)** the suspension might be necessary for the conservation of the species.
+  - **(2)** A species of exotic birds shall be subject to a suspension of importation under paragraph (1) until the Secretary, after notice and an opportunity for public comment, makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
+- **(c)** Effective on the date that is one year after October 23, 1992 , the importation of any exotic bird of a species that is listed in any Appendix to the Convention is prohibited unless the Secretary makes the findings described in section 4905(c) of this title and includes the species in the list published under section 4905(a) of this title .
+- **(d)** Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992 , of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.

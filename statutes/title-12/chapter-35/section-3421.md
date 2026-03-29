@@ -5,7 +5,7 @@ usc_section: "3421"
 chapter: 35
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3421"
-generated_at: "2026-03-29T00:29:16.793Z"
+generated_at: "2026-03-29T02:11:21.170Z"
 ---
 
 # § 3421. Repealed. Pub. L. 104–66, title III, § 3001(d) , Dec. 21, 1995 , 109 Stat. 734

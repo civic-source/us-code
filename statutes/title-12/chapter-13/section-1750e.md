@@ -5,7 +5,7 @@ usc_section: "1750e"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1750e"
-generated_at: "2026-03-29T00:29:16.643Z"
+generated_at: "2026-03-29T02:11:21.000Z"
 ---
 
 # § 1750e. Taxation

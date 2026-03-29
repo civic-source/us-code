@@ -5,17 +5,17 @@ usc_section: "16494"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16494"
-generated_at: "2026-03-29T00:32:54.410Z"
+generated_at: "2026-03-29T02:15:37.367Z"
 ---
 
 # § 16494. Oxygen-fuel
 
-(a) The Secretary shall establish a program on oxygen-fuel systems. If feasible, the program shall include renovation of at least one existing large unit and one existing small unit, and construction of one new large unit and one new small unit.
-(b) There are authorized to be appropriated to the Secretary for carrying out this section—
-  (1) $100,000,000 for fiscal year 2006;
-  (2) $100,000,000 for fiscal year 2007; and
-  (3) $100,000,000 for fiscal year 2008.
-(c) For purposes of this section—
-  (1) the term “large unit” means a unit with a generating capacity of 100 megawatts or more;
-  (2) the term “oxygen-fuel systems” means systems that utilize fuel efficiency benefits of oil, gas, coal, and biomass combustion using substantially pure oxygen, with high flame temperatures and the exclusion of air from the boiler, in industrial or electric utility steam generating units; and
-  (3) the term “small unit” means a unit with a generating capacity in the 10–50 megawatt range.
+- **(a)** The Secretary shall establish a program on oxygen-fuel systems. If feasible, the program shall include renovation of at least one existing large unit and one existing small unit, and construction of one new large unit and one new small unit.
+- **(b)** There are authorized to be appropriated to the Secretary for carrying out this section—
+  - **(1)** $100,000,000 for fiscal year 2006;
+  - **(2)** $100,000,000 for fiscal year 2007; and
+  - **(3)** $100,000,000 for fiscal year 2008.
+- **(c)** For purposes of this section—
+  - **(1)** the term “large unit” means a unit with a generating capacity of 100 megawatts or more;
+  - **(2)** the term “oxygen-fuel systems” means systems that utilize fuel efficiency benefits of oil, gas, coal, and biomass combustion using substantially pure oxygen, with high flame temperatures and the exclusion of air from the boiler, in industrial or electric utility steam generating units; and
+  - **(3)** the term “small unit” means a unit with a generating capacity in the 10–50 megawatt range.

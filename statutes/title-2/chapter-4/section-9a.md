@@ -5,7 +5,7 @@ usc_section: "9a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 9a"
-generated_at: "2026-03-29T00:06:10.864Z"
+generated_at: "2026-03-29T02:09:53.634Z"
 ---
 
 # § 61a–9a. Transferred

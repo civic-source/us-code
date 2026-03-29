@@ -5,14 +5,14 @@ usc_section: "15961"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15961"
-generated_at: "2026-03-29T00:32:54.366Z"
+generated_at: "2026-03-29T02:15:37.313Z"
 ---
 
 # § 15961. Authorization of appropriations
 
-(a) There are authorized to be appropriated to the Secretary to carry out the activities authorized by this part $200,000,000 for each of fiscal years 2006 through 2014, to remain available until expended.
-(b) The Secretary shall submit to Congress the report required by this subsection not later than March 31, 2007 . The report shall include, with respect to subsection (a), a plan containing—
-  (1) a detailed assessment of whether the aggregate funding levels provided under subsection (a) are the appropriate funding levels for that program;
-  (2) a detailed description of how proposals will be solicited and evaluated, including a list of all activities expected to be undertaken;
-  (3) a detailed list of technical milestones for each coal and related technology that will be pursued; and
-  (4) a detailed description of how the program will avoid problems enumerated in Government Accountability Office reports on the Clean Coal Technology Program, including problems that have resulted in unspent funds and projects that failed either financially or scientifically.
+- **(a)** There are authorized to be appropriated to the Secretary to carry out the activities authorized by this part $200,000,000 for each of fiscal years 2006 through 2014, to remain available until expended.
+- **(b)** The Secretary shall submit to Congress the report required by this subsection not later than March 31, 2007 . The report shall include, with respect to subsection (a), a plan containing—
+  - **(1)** a detailed assessment of whether the aggregate funding levels provided under subsection (a) are the appropriate funding levels for that program;
+  - **(2)** a detailed description of how proposals will be solicited and evaluated, including a list of all activities expected to be undertaken;
+  - **(3)** a detailed list of technical milestones for each coal and related technology that will be pursued; and
+  - **(4)** a detailed description of how the program will avoid problems enumerated in Government Accountability Office reports on the Clean Coal Technology Program, including problems that have resulted in unspent funds and projects that failed either financially or scientifically.

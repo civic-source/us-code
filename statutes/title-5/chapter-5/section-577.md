@@ -5,10 +5,10 @@ usc_section: "577"
 chapter: 5
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 577"
-generated_at: "2026-03-29T00:28:38.284Z"
+generated_at: "2026-03-29T02:10:01.788Z"
 ---
 
 # § 577. Arbitrators
 
-(a) The parties to an arbitration proceeding shall be entitled to participate in the selection of the arbitrator.
-(b) The arbitrator shall be a neutral who meets the criteria of section 573 of this title .
+- **(a)** The parties to an arbitration proceeding shall be entitled to participate in the selection of the arbitrator.
+- **(b)** The arbitrator shall be a neutral who meets the criteria of section 573 of this title .

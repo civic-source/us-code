@@ -5,14 +5,14 @@ usc_section: "5523"
 chapter: 81
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5523"
-generated_at: "2026-03-29T00:29:41.878Z"
+generated_at: "2026-03-29T02:11:34.384Z"
 ---
 
 # § 5523. Department of Energy activities
 
 As part of the Program described in subchapter I, the Secretary of Energy shall—
 
-  (1) conduct and support basic and applied research in networking and information technology to support fundamental research in science and engineering disciplines related to energy applications; and
-  (2) provide computing and networking infrastructure support, including—
-    (A) the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
-    (B) support for advanced software and applications development for science and engineering disciplines related to energy applications.
+  - **(1)** conduct and support basic and applied research in networking and information technology to support fundamental research in science and engineering disciplines related to energy applications; and
+  - **(2)** provide computing and networking infrastructure support, including—
+    - **(A)** the provision of high-end computing systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems; and
+    - **(B)** support for advanced software and applications development for science and engineering disciplines related to energy applications.

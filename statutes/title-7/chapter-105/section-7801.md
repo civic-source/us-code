@@ -5,19 +5,19 @@ usc_section: "7801"
 chapter: 105
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7801"
-generated_at: "2026-03-29T00:28:58.298Z"
+generated_at: "2026-03-29T02:10:17.167Z"
 ---
 
 # § 7801. Findings and declaration of policy
 
-(a) Congress finds the following:
-  (1) Hass avocados are an integral food source in the United States that are a valuable and healthy part of the human diet and are enjoyed by millions of persons every year for a multitude of everyday and special occasions.
-  (2) Hass avocados are a significant tree fruit crop grown by many individual producers, but virtually all domestically produced Hass avocados for the commercial market are grown in the State of California.
-  (3) Hass avocados move in interstate and foreign commerce, and Hass avocados that do not move in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in Hass avocados.
-  (4) In recent years, large quantities of Hass avocados have been imported into the United States from other countries.
-  (5) The maintenance and expansion of markets in existence on October 28, 2000 , and the development of new or improved markets or uses for Hass avocados are needed to preserve and strengthen the economic viability of the domestic Hass avocado industry for the benefit of producers and other persons associated with the producing, marketing, processing, and consuming of Hass avocados.
-  (6) An effective and coordinated program of promotion, research, industry information, and consumer information regarding Hass avocados is necessary for the maintenance, expansion, and development of domestic markets for Hass avocados.
-(b) It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
-  (1) strengthen the position of the Hass avocado industry in the domestic marketplace; and
-  (2) maintain, develop, and expand markets and uses for Hass avocados in the domestic marketplace.
-(c) Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce, handle, or import Hass avocados.
+- **(a)** Congress finds the following:
+  - **(1)** Hass avocados are an integral food source in the United States that are a valuable and healthy part of the human diet and are enjoyed by millions of persons every year for a multitude of everyday and special occasions.
+  - **(2)** Hass avocados are a significant tree fruit crop grown by many individual producers, but virtually all domestically produced Hass avocados for the commercial market are grown in the State of California.
+  - **(3)** Hass avocados move in interstate and foreign commerce, and Hass avocados that do not move in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in Hass avocados.
+  - **(4)** In recent years, large quantities of Hass avocados have been imported into the United States from other countries.
+  - **(5)** The maintenance and expansion of markets in existence on October 28, 2000 , and the development of new or improved markets or uses for Hass avocados are needed to preserve and strengthen the economic viability of the domestic Hass avocado industry for the benefit of producers and other persons associated with the producing, marketing, processing, and consuming of Hass avocados.
+  - **(6)** An effective and coordinated program of promotion, research, industry information, and consumer information regarding Hass avocados is necessary for the maintenance, expansion, and development of domestic markets for Hass avocados.
+- **(b)** It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
+  - **(1)** strengthen the position of the Hass avocado industry in the domestic marketplace; and
+  - **(2)** maintain, develop, and expand markets and uses for Hass avocados in the domestic marketplace.
+- **(c)** Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce, handle, or import Hass avocados.

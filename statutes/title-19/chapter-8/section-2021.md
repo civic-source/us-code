@@ -5,7 +5,7 @@ usc_section: "2021"
 chapter: 8
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2021"
-generated_at: "2026-03-29T00:30:20.200Z"
+generated_at: "2026-03-29T02:12:08.667Z"
 ---
 
 # § 2021. General authority

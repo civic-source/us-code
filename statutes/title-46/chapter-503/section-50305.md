@@ -5,19 +5,19 @@ usc_section: "50305"
 chapter: 503
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 50305"
-generated_at: "2026-03-29T00:33:02.917Z"
+generated_at: "2026-03-29T02:15:53.758Z"
 ---
 
 # § 50305. Appointment of trustee or receiver and operation of vessels
 
-(a) 
-  (1) In a proceeding in a court of the United States in which a trustee or receiver may be appointed for a corporation operating a vessel of United States registry between the United States and a foreign country, on which the United States Government holds a mortgage, the court may appoint the Secretary of Transportation as the sole trustee or receiver (subject to the direction of the court) if—
-    (A) the court finds that the appointment will—
-      (i) inure to the advantage of the estate and the parties in interest; and
-      (ii) tend to carry out the purposes of this subtitle; and
-    (B) the Secretary expressly consents to the appointment.
-  (2) The appointment of another person as trustee or receiver without a hearing becomes effective when ratified by the Secretary, but the Secretary may demand a hearing.
-(b) 
-  (1) If the court is unwilling to allow the trustee or receiver to operate the vessel in foreign commerce without financial aid from the Government pending termination of the proceeding, and the Secretary certifies to the court that the continued operation of the vessel is essential to the foreign commerce of the United States and is reasonably calculated to carry out the purposes of this subtitle, the court may allow the Secretary to operate the vessel, either directly or through a managing agent or operator employed by the Secretary. The Secretary must agree to comply with terms imposed by the court sufficient to protect the parties in interest. The Secretary also must agree to pay all operating losses resulting from the operation. The operation shall be for the account of the trustee or receiver.
-  (2) The Secretary has no claim against the corporation, its estate, or its assets for operating losses paid by the Secretary, but the Secretary may pay amounts for depreciation the Secretary considers reasonable and other amounts the court considers just. The payment of operating losses and the other amounts and compliance with terms imposed by the court shall be in satisfaction of any claim against the Secretary resulting from the operation of the vessel.
-  (3) A vessel operated by the Secretary under this subsection is deemed to be a vessel operated by the United States under chapter 309 of this title.
+- **(a)**
+  - **(1)** In a proceeding in a court of the United States in which a trustee or receiver may be appointed for a corporation operating a vessel of United States registry between the United States and a foreign country, on which the United States Government holds a mortgage, the court may appoint the Secretary of Transportation as the sole trustee or receiver (subject to the direction of the court) if—
+    - **(A)** the court finds that the appointment will—
+      - **(i)** inure to the advantage of the estate and the parties in interest; and
+      - **(ii)** tend to carry out the purposes of this subtitle; and
+    - **(B)** the Secretary expressly consents to the appointment.
+  - **(2)** The appointment of another person as trustee or receiver without a hearing becomes effective when ratified by the Secretary, but the Secretary may demand a hearing.
+- **(b)**
+  - **(1)** If the court is unwilling to allow the trustee or receiver to operate the vessel in foreign commerce without financial aid from the Government pending termination of the proceeding, and the Secretary certifies to the court that the continued operation of the vessel is essential to the foreign commerce of the United States and is reasonably calculated to carry out the purposes of this subtitle, the court may allow the Secretary to operate the vessel, either directly or through a managing agent or operator employed by the Secretary. The Secretary must agree to comply with terms imposed by the court sufficient to protect the parties in interest. The Secretary also must agree to pay all operating losses resulting from the operation. The operation shall be for the account of the trustee or receiver.
+  - **(2)** The Secretary has no claim against the corporation, its estate, or its assets for operating losses paid by the Secretary, but the Secretary may pay amounts for depreciation the Secretary considers reasonable and other amounts the court considers just. The payment of operating losses and the other amounts and compliance with terms imposed by the court shall be in satisfaction of any claim against the Secretary resulting from the operation of the vessel.
+  - **(3)** A vessel operated by the Secretary under this subsection is deemed to be a vessel operated by the United States under chapter 309 of this title.

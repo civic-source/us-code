@@ -5,14 +5,14 @@ usc_section: "6909"
 chapter: 95
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 6909"
-generated_at: "2026-03-29T00:29:41.909Z"
+generated_at: "2026-03-29T02:11:34.412Z"
 ---
 
 # § 6909. Authorization
 
 In addition to funds otherwise authorized to be appropriated to the Fund to carry out this title, 1 1 See References in Text note below. there are authorized to be appropriated to the Administrator to carry out this chapter—
 
-  (1) $15,000,000 for fiscal year 2000;
-  (2) $15,000,000 for fiscal year 2001;
-  (3) $15,000,000 for fiscal year 2002; and
-  (4) $15,000,000 for fiscal year 2003.
+  - **(1)** $15,000,000 for fiscal year 2000;
+  - **(2)** $15,000,000 for fiscal year 2001;
+  - **(3)** $15,000,000 for fiscal year 2002; and
+  - **(4)** $15,000,000 for fiscal year 2003.

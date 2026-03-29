@@ -5,22 +5,22 @@ usc_section: "3034"
 chapter: 43
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3034"
-generated_at: "2026-03-29T00:31:57.452Z"
+generated_at: "2026-03-29T02:14:18.650Z"
 ---
 
 # § 3034. Officer candidates
 
-(a) The Secretary shall determine the number of appointments of officer candidates.
-(b) Appointment of officer candidates shall be made under regulations, which the Secretary shall prescribe, including regulations with respect to determining age limits, methods of selection of officer candidates, term of service as an officer candidate before graduation from the basic officer training program of the Administration, and all other matters affecting such appointment.
-(c) The Secretary may dismiss from the basic officer training program of the Administration any officer candidate who, during the officer candidate’s term as an officer candidate, the Secretary considers unsatisfactory in either academics or conduct, or not adapted for a career in the commissioned officer corps of the Administration. Officer candidates shall be subject to rules governing discipline prescribed by the Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps.
-(d) 
-  (1) Each officer candidate shall sign an agreement with the Secretary in accordance with section 3006(a)(2) of this title regarding the officer candidate’s term of service in the commissioned officer corps of the Administration.
-  (2) An agreement signed by an officer candidate under paragraph (1) shall provide that the officer candidate agrees to the following:
-    (A) That the officer candidate will complete the course of instruction at the basic officer training program of the Administration.
-    (B) That upon graduation from such program, the officer candidate—
-      (i) will accept an appointment, if tendered, as an officer; and
-      (ii) will serve on active duty for at least four years immediately after such appointment.
-(e) The Secretary shall prescribe regulations to carry out this section. Such regulations shall include—
-  (1) standards for determining what constitutes a breach of an agreement signed under subsection (d)(1); and
-  (2) procedures for determining whether such a breach has occurred.
-(f) An officer candidate or former officer candidate who does not fulfill the terms of the obligation to serve as specified under subsection (d) shall be subject to the repayment provisions of section 3006(b) of this title .
+- **(a)** The Secretary shall determine the number of appointments of officer candidates.
+- **(b)** Appointment of officer candidates shall be made under regulations, which the Secretary shall prescribe, including regulations with respect to determining age limits, methods of selection of officer candidates, term of service as an officer candidate before graduation from the basic officer training program of the Administration, and all other matters affecting such appointment.
+- **(c)** The Secretary may dismiss from the basic officer training program of the Administration any officer candidate who, during the officer candidate’s term as an officer candidate, the Secretary considers unsatisfactory in either academics or conduct, or not adapted for a career in the commissioned officer corps of the Administration. Officer candidates shall be subject to rules governing discipline prescribed by the Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps.
+- **(d)**
+  - **(1)** Each officer candidate shall sign an agreement with the Secretary in accordance with section 3006(a)(2) of this title regarding the officer candidate’s term of service in the commissioned officer corps of the Administration.
+  - **(2)** An agreement signed by an officer candidate under paragraph (1) shall provide that the officer candidate agrees to the following:
+    - **(A)** That the officer candidate will complete the course of instruction at the basic officer training program of the Administration.
+    - **(B)** That upon graduation from such program, the officer candidate—
+      - **(i)** will accept an appointment, if tendered, as an officer; and
+      - **(ii)** will serve on active duty for at least four years immediately after such appointment.
+- **(e)** The Secretary shall prescribe regulations to carry out this section. Such regulations shall include—
+  - **(1)** standards for determining what constitutes a breach of an agreement signed under subsection (d)(1); and
+  - **(2)** procedures for determining whether such a breach has occurred.
+- **(f)** An officer candidate or former officer candidate who does not fulfill the terms of the obligation to serve as specified under subsection (d) shall be subject to the repayment provisions of section 3006(b) of this title .

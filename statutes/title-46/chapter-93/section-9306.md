@@ -5,7 +5,7 @@ usc_section: "9306"
 chapter: 93
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 9306"
-generated_at: "2026-03-29T00:33:02.877Z"
+generated_at: "2026-03-29T02:15:53.728Z"
 ---
 
 # § 9306. State regulation prohibited

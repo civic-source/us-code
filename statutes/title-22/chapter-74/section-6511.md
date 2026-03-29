@@ -5,7 +5,7 @@ usc_section: "6511"
 chapter: 74
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6511"
-generated_at: "2026-03-29T00:30:33.970Z"
+generated_at: "2026-03-29T02:12:40.393Z"
 ---
 
 # § 6511. Abolition of United States Arms Control and Disarmament Agency

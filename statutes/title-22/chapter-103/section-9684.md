@@ -5,12 +5,12 @@ usc_section: "9684"
 chapter: 103
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9684"
-generated_at: "2026-03-29T00:30:34.063Z"
+generated_at: "2026-03-29T02:12:40.510Z"
 ---
 
 # § 9684. Termination of Overseas Private Investment Corporation and other superceded authorities
 
 Effective at the end of the transition period—
 
-  (1) the Overseas Private Investment Corporation is terminated; and
-  (2) Omitted.
+  - **(1)** the Overseas Private Investment Corporation is terminated; and
+  - **(2)** Omitted.

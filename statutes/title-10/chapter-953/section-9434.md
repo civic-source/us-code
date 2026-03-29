@@ -5,10 +5,10 @@ usc_section: "9434"
 chapter: 953
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9434"
-generated_at: "2026-03-29T00:20:53.260Z"
+generated_at: "2026-03-29T02:10:45.343Z"
 ---
 
 # § 9434. Command and supervision
 
-(a) The immediate government of the Academy is under the Superintendent, who is also the commanding officer of the Academy and of the military post.
-(b) The permanent professors and the director of admissions exercise command only in the academic department of the Academy.
+- **(a)** The immediate government of the Academy is under the Superintendent, who is also the commanding officer of the Academy and of the military post.
+- **(b)** The permanent professors and the director of admissions exercise command only in the academic department of the Academy.

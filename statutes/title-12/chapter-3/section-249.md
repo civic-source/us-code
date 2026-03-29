@@ -5,7 +5,7 @@ usc_section: "249"
 chapter: 3
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 249"
-generated_at: "2026-03-29T00:29:16.485Z"
+generated_at: "2026-03-29T02:11:20.848Z"
 ---
 
 # § 249. Repealed. Pub. L. 94–412, title V, § 501(c) , Sept. 14, 1976 , 90 Stat. 1258

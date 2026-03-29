@@ -5,7 +5,7 @@ usc_section: "1736aa"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1736aa"
-generated_at: "2026-03-29T00:28:58.052Z"
+generated_at: "2026-03-29T02:10:16.857Z"
 ---
 
 # §§ 1736z, 1736aa. Repealed. Pub. L. 101–624, title XV, § 1572(3) , Nov. 28, 1990 , 104 Stat. 3702

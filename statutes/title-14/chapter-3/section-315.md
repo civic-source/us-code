@@ -5,7 +5,7 @@ usc_section: "315"
 chapter: 3
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 315"
-generated_at: "2026-03-29T00:29:24.977Z"
+generated_at: "2026-03-29T02:11:23.772Z"
 ---
 
 # § 315. Congressional affairs; Director

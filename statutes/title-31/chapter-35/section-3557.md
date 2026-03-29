@@ -5,7 +5,7 @@ usc_section: "3557"
 chapter: 35
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 3557"
-generated_at: "2026-03-29T00:31:52.616Z"
+generated_at: "2026-03-29T02:14:14.070Z"
 ---
 
 # § 3557. Expedited action in protests of public-private competitions

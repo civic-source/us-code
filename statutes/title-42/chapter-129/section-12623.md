@@ -5,25 +5,25 @@ usc_section: "12623"
 chapter: 129
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12623"
-generated_at: "2026-03-29T00:32:54.274Z"
+generated_at: "2026-03-29T02:15:37.208Z"
 ---
 
 # § 12623. Advisory Board
 
-(a) There shall be established a National Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.
-(b) The Advisory Board shall be composed of the following members:
-  (1) The Secretary of Labor.
-  (2) The Secretary of Defense.
-  (3) The Secretary of the Interior.
-  (4) The Secretary of Agriculture.
-  (5) The Secretary of Education.
-  (6) The Secretary of Housing and Urban Development.
-  (7) The Chief of the National Guard Bureau.
-  (8) The Administrator of the Federal Emergency Management Agency.
-  (9) The Secretary of Transportation.
-  (10) The Chief of the Forest Service.
-  (11) The Administrator of the Environmental Protection Agency.
-  (12) The Secretary of Energy.
-  (13) Individuals appointed by the Director from among persons who are broadly representative of educational institutions, voluntary organizations, public and private organizations, youth, and labor unions.
-  (14) The Chief Executive Officer.
-(c) Section 1013 of title 5 shall not apply to the Advisory Board.
+- **(a)** There shall be established a National Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.
+- **(b)** The Advisory Board shall be composed of the following members:
+  - **(1)** The Secretary of Labor.
+  - **(2)** The Secretary of Defense.
+  - **(3)** The Secretary of the Interior.
+  - **(4)** The Secretary of Agriculture.
+  - **(5)** The Secretary of Education.
+  - **(6)** The Secretary of Housing and Urban Development.
+  - **(7)** The Chief of the National Guard Bureau.
+  - **(8)** The Administrator of the Federal Emergency Management Agency.
+  - **(9)** The Secretary of Transportation.
+  - **(10)** The Chief of the Forest Service.
+  - **(11)** The Administrator of the Environmental Protection Agency.
+  - **(12)** The Secretary of Energy.
+  - **(13)** Individuals appointed by the Director from among persons who are broadly representative of educational institutions, voluntary organizations, public and private organizations, youth, and labor unions.
+  - **(14)** The Chief Executive Officer.
+- **(c)** Section 1013 of title 5 shall not apply to the Advisory Board.

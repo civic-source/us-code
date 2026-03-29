@@ -5,12 +5,12 @@ usc_section: "625"
 chapter: 14
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 625"
-generated_at: "2026-03-29T00:31:27.571Z"
+generated_at: "2026-03-29T02:14:09.375Z"
 ---
 
 # § 625. Administration
 
 The Secretary shall have the power—
 
-(a) to make delegations, to appoint such agents and employees, and to pay for technical assistance on a fee for service basis, as he deems necessary to assist him in the performance of his functions under this chapter;
-(b) to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter.
+- **(a)** to make delegations, to appoint such agents and employees, and to pay for technical assistance on a fee for service basis, as he deems necessary to assist him in the performance of his functions under this chapter;
+- **(b)** to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter.

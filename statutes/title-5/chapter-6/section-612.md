@@ -5,11 +5,11 @@ usc_section: "612"
 chapter: 6
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 612"
-generated_at: "2026-03-29T00:28:38.287Z"
+generated_at: "2026-03-29T02:10:01.792Z"
 ---
 
 # § 612. Reports and intervention rights
 
-(a) The Chief Counsel for Advocacy of the Small Business Administration shall monitor agency compliance with this chapter and shall report at least annually thereon to the President and to the Committees on the Judiciary and Small Business of the Senate and House of Representatives.
-(b) The Chief Counsel for Advocacy of the Small Business Administration is authorized to appear as amicus curiae in any action brought in a court of the United States to review a rule. In any such action, the Chief Counsel is authorized to present his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the effect of the rule on small entities.
-(c) A court of the United States shall grant the application of the Chief Counsel for Advocacy of the Small Business Administration to appear in any such action for the purposes described in subsection (b).
+- **(a)** The Chief Counsel for Advocacy of the Small Business Administration shall monitor agency compliance with this chapter and shall report at least annually thereon to the President and to the Committees on the Judiciary and Small Business of the Senate and House of Representatives.
+- **(b)** The Chief Counsel for Advocacy of the Small Business Administration is authorized to appear as amicus curiae in any action brought in a court of the United States to review a rule. In any such action, the Chief Counsel is authorized to present his or her views with respect to compliance with this chapter, the adequacy of the rulemaking record with respect to small entities and the effect of the rule on small entities.
+- **(c)** A court of the United States shall grant the application of the Chief Counsel for Advocacy of the Small Business Administration to appear in any such action for the purposes described in subsection (b).

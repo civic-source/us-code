@@ -5,7 +5,7 @@ usc_section: "3731"
 chapter: 235
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3731"
-generated_at: "2026-03-29T00:30:15.752Z"
+generated_at: "2026-03-29T02:12:02.504Z"
 ---
 
 # § 3731. Appeal by United States

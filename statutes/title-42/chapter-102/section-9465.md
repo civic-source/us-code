@@ -5,7 +5,7 @@ usc_section: "9465"
 chapter: 102
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9465"
-generated_at: "2026-03-29T00:32:54.142Z"
+generated_at: "2026-03-29T02:15:37.045Z"
 ---
 
 # §§ 9461 to 9465. Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 13, 1981 , 95 Stat. 560

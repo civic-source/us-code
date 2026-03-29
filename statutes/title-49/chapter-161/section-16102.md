@@ -5,15 +5,15 @@ usc_section: "16102"
 chapter: 161
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 16102"
-generated_at: "2026-03-29T00:33:13.787Z"
+generated_at: "2026-03-29T02:16:08.926Z"
 ---
 
 # § 16102. Recordkeeping and reporting violations
 
 A person required to make a report to the Board, or make, prepare, or preserve a record, under chapter 157 about transportation subject to this part that knowingly and willfully—
 
-  (1) makes a false entry in the report or record,
-  (2) destroys, mutilates, changes, or by another means falsifies the record,
-  (3) does not enter business related facts and transactions in the record,
-  (4) makes, prepares, or preserves the record in violation of a regulation or order of the Board, or
-  (5) files a false report or record with the Board,
+  - **(1)** makes a false entry in the report or record,
+  - **(2)** destroys, mutilates, changes, or by another means falsifies the record,
+  - **(3)** does not enter business related facts and transactions in the record,
+  - **(4)** makes, prepares, or preserves the record in violation of a regulation or order of the Board, or
+  - **(5)** files a false report or record with the Board,

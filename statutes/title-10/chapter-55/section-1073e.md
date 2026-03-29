@@ -5,19 +5,19 @@ usc_section: "1073e"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1073e"
-generated_at: "2026-03-29T00:20:52.931Z"
+generated_at: "2026-03-29T02:10:44.958Z"
 ---
 
 # § 1073e. Protection of armed forces from infectious diseases
 
-(a) The Secretary of Defense shall develop and implement a plan to ensure that the armed forces have the diagnostic equipment, testing capabilities, and personal protective equipment necessary to protect members of the armed forces from the threat of infectious diseases and to treat members who contract infectious diseases.
-(b) In carrying out subsection (a), the Secretary shall ensure the following:
-  (1) Each military medical treatment facility has the testing capabilities described in such subsection, as appropriate for the mission of the facility.
-  (2) Each deployed naval vessel has access to the testing capabilities described in such subsection.
-  (3) Members of the armed forces deployed in support of a contingency operation outside of the United States have access to the testing capabilities described in such subsection, including at field hospitals, combat support hospitals, field medical stations, and expeditionary medical facilities.
-  (4) The Department of Defense maintains—
-    (A) a 30-day supply of personal protective equipment in a quantity sufficient for each member of the armed forces, including the reserve components thereof; and
-    (B) the capability to rapidly resupply such equipment.
-(c) 
-  (1) The Secretary shall include with the defense budget materials (as defined by section 231(f) 1 1 See References in Text note below. of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
-  (2) The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.
+- **(a)** The Secretary of Defense shall develop and implement a plan to ensure that the armed forces have the diagnostic equipment, testing capabilities, and personal protective equipment necessary to protect members of the armed forces from the threat of infectious diseases and to treat members who contract infectious diseases.
+- **(b)** In carrying out subsection (a), the Secretary shall ensure the following:
+  - **(1)** Each military medical treatment facility has the testing capabilities described in such subsection, as appropriate for the mission of the facility.
+  - **(2)** Each deployed naval vessel has access to the testing capabilities described in such subsection.
+  - **(3)** Members of the armed forces deployed in support of a contingency operation outside of the United States have access to the testing capabilities described in such subsection, including at field hospitals, combat support hospitals, field medical stations, and expeditionary medical facilities.
+  - **(4)** The Department of Defense maintains—
+    - **(A)** a 30-day supply of personal protective equipment in a quantity sufficient for each member of the armed forces, including the reserve components thereof; and
+    - **(B)** the capability to rapidly resupply such equipment.
+- **(c)**
+  - **(1)** The Secretary shall include with the defense budget materials (as defined by section 231(f) 1 1 See References in Text note below. of this title) for a fiscal year a plan to research and develop vaccines, diagnostics, and therapeutics for infectious diseases.
+  - **(2)** The Secretary shall ensure that the medical laboratories of the Department of Defense are equipped with the technology needed to facilitate rapid research and development of vaccines, diagnostics, and therapeutics in the case of a pandemic.

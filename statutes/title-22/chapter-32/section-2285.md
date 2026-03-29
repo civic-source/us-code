@@ -5,11 +5,11 @@ usc_section: "2285"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2285"
-generated_at: "2026-03-29T00:30:33.777Z"
+generated_at: "2026-03-29T02:12:40.048Z"
 ---
 
 # § 2285. Terms and conditions
 
-(a) The terms and conditions for making grants under this part shall be deemed to be fulfilled upon final approval by the Administrator of the Agency for International Development of the debt-for-nature exchange, a certification by the nongovernmental organization that the host government has accepted the terms of the exchange, and that an agreement has been reached to cancel the commercial debt in an agreed upon fashion.
-(b) Grants made under this section are intended to complement, and not substitute for, assistance otherwise available to a foreign country under this chapter or any other provision of law.
-(c) The United States Government is prohibited from accepting title or interest in any land in a foreign country as a condition on the debt exchange.
+- **(a)** The terms and conditions for making grants under this part shall be deemed to be fulfilled upon final approval by the Administrator of the Agency for International Development of the debt-for-nature exchange, a certification by the nongovernmental organization that the host government has accepted the terms of the exchange, and that an agreement has been reached to cancel the commercial debt in an agreed upon fashion.
+- **(b)** Grants made under this section are intended to complement, and not substitute for, assistance otherwise available to a foreign country under this chapter or any other provision of law.
+- **(c)** The United States Government is prohibited from accepting title or interest in any land in a foreign country as a condition on the debt exchange.

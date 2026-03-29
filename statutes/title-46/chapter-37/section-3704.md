@@ -5,7 +5,7 @@ usc_section: "3704"
 chapter: 37
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 3704"
-generated_at: "2026-03-29T00:33:02.849Z"
+generated_at: "2026-03-29T02:15:53.715Z"
 ---
 
 # § 3704. Coastwise trade vessels

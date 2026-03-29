@@ -5,7 +5,7 @@ usc_section: "6987"
 chapter: 82
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 6987"
-generated_at: "2026-03-29T00:32:54.008Z"
+generated_at: "2026-03-29T02:15:36.872Z"
 ---
 
 # § 6987. Authorization of appropriations

@@ -5,16 +5,16 @@ usc_section: "1310"
 chapter: 13
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 1310"
-generated_at: "2026-03-29T00:32:20.544Z"
+generated_at: "2026-03-29T02:14:58.787Z"
 ---
 
 # § 1310. Sale of war supplies, land, and buildings
 
-(a) The President, through the head of any executive department and on terms the head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
-  (1) war supplies, material, and equipment;
-  (2) by-products of the war supplies, material, and equipment; and
-  (3) any building, plant, or factory, including the land on which the plant or factory may be situated, acquired since April 6, 1917 , for the production of war supplies, materials, and equipment that, during the emergency existing on July 9, 1918 , may have been purchased, acquired, or manufactured by the Government.
-(b) Sales of guns and ammunition authorized under any law shall be limited to—
-  (1) other departments of the Government;
-  (2) governments of foreign countries engaged in war against a country with which the United States is at war; and
-  (3) members of the National Rifle Association and of other recognized associations organized in the United States for the encouragement of small-arms target practice.
+- **(a)** The President, through the head of any executive department and on terms the head of the department considers expedient, may sell to a person, another department of the Federal Government, or the government of a foreign country engaged in war against a country with which the United States is at war—
+  - **(1)** war supplies, material, and equipment;
+  - **(2)** by-products of the war supplies, material, and equipment; and
+  - **(3)** any building, plant, or factory, including the land on which the plant or factory may be situated, acquired since April 6, 1917 , for the production of war supplies, materials, and equipment that, during the emergency existing on July 9, 1918 , may have been purchased, acquired, or manufactured by the Government.
+- **(b)** Sales of guns and ammunition authorized under any law shall be limited to—
+  - **(1)** other departments of the Government;
+  - **(2)** governments of foreign countries engaged in war against a country with which the United States is at war; and
+  - **(3)** members of the National Rifle Association and of other recognized associations organized in the United States for the encouragement of small-arms target practice.

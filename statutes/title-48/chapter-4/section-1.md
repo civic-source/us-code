@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 4
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-29T00:33:06.596Z"
+generated_at: "2026-03-29T02:16:00.798Z"
 ---
 
 # § 733a–1. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(14), 66 Stat. 279

@@ -5,7 +5,7 @@ usc_section: "1680k"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680k"
-generated_at: "2026-03-29T00:30:38.707Z"
+generated_at: "2026-03-29T02:13:20.910Z"
 ---
 
 # § 1680k. Repealed. Pub. L. 111–148, title X, § 10221(a) , Mar. 23, 2010 , 124 Stat. 935

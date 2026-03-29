@@ -5,7 +5,7 @@ usc_section: "9061"
 chapter: 907
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9061"
-generated_at: "2026-03-29T00:20:53.253Z"
+generated_at: "2026-03-29T02:10:45.336Z"
 ---
 
 # § 9061. Regulations

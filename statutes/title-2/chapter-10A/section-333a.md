@@ -5,7 +5,7 @@ usc_section: "333a"
 chapter: 10
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 333a"
-generated_at: "2026-03-29T00:06:10.906Z"
+generated_at: "2026-03-29T02:09:53.670Z"
 ---
 
 # § 333a. Omitted

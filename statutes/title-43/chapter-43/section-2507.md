@@ -5,7 +5,7 @@ usc_section: "2507"
 chapter: 43
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2507"
-generated_at: "2026-03-29T00:32:57.465Z"
+generated_at: "2026-03-29T02:15:47.659Z"
 ---
 
 # § 2507. Entries and final proofs, made out of proper district, confirmed

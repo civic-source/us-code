@@ -5,15 +5,15 @@ usc_section: "1815"
 chapter: 20
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1815"
-generated_at: "2026-03-29T00:31:27.690Z"
+generated_at: "2026-03-29T02:14:09.485Z"
 ---
 
 # § 1815. Notice of address change; amendment of certificate of registration
 
 During the period for which the certificate of registration is in effect, each farm labor contractor shall—
 
-  (1) provide to the Secretary within thirty days a notice of each change of permanent place of residence; and
-  (2) apply to the Secretary to amend the certificate of registration whenever the farm labor contractor intends to—
-    (A) engage in another farm labor contracting activity,
-    (B) use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or
-    (C) use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
+  - **(1)** provide to the Secretary within thirty days a notice of each change of permanent place of residence; and
+  - **(2)** apply to the Secretary to amend the certificate of registration whenever the farm labor contractor intends to—
+    - **(A)** engage in another farm labor contracting activity,
+    - **(B)** use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or
+    - **(C)** use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.

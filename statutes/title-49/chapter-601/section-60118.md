@@ -5,36 +5,36 @@ usc_section: "60118"
 chapter: 601
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 60118"
-generated_at: "2026-03-29T00:33:13.947Z"
+generated_at: "2026-03-29T02:16:09.089Z"
 ---
 
 # § 60118. Compliance and waivers
 
-(a) A person owning or operating a pipeline facility shall—
-  (1) comply with applicable safety standards prescribed under this chapter, except as provided in this section or in section 60126;
-  (2) prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title;
-  (3) allow access to or copying of records, make reports and provide information, and allow entry or inspection required under subsections (a) through (e) of section 60117 of this title ; and
-  (4) conduct a risk analysis, and adopt and implement an integrity management program, for pipeline facilities as required under section 60109(c).
-(b) The Secretary of Transportation may issue orders directing compliance with this chapter, an order under section 60126, or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.
-(c) 
-  (1) 
-    (A) On application of an owner or operator of a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter with respect to such facility on terms the Secretary considers appropriate if the Secretary determines that the waiver is not inconsistent with pipeline safety.
-    (B) The Secretary may act on a waiver under this paragraph only after notice and an opportunity for a hearing.
-  (2) 
-    (A) The Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate without prior notice and comment if the Secretary determines that—
-      (i) it is in the public interest to grant the waiver;
-      (ii) the waiver is not inconsistent with pipeline safety; and
-      (iii) the waiver is necessary to address an actual or impending emergency involving pipeline transportation, including an emergency caused by a natural or manmade disaster.
-    (B) A waiver under this paragraph may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this chapter.
-  (3) The Secretary shall state in an order issued under this subsection the reasons for granting the waiver.
-(d) If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waive compliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
-(e) 
-  (1) If the Secretary or the National Transportation Safety Board investigates an accident or incident involving a pipeline facility, the operator of the facility shall—
-    (A) make available to the Secretary or the Board all records and information that in any way pertain to the accident or incident, including integrity management plans and test results; and
-    (B) afford all reasonable assistance in the investigation of the accident or incident.
-  (2) 
-    (A) The Secretary may impose a civil penalty under section 60122 on a person who obstructs or prevents the Secretary from carrying out inspections or investigations under this chapter.
-    (B) 
-      (i) In this paragraph, the term “obstructs” includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
-      (ii) In clause (i), the term “good cause” may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
-(f) Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
+- **(a)** A person owning or operating a pipeline facility shall—
+  - **(1)** comply with applicable safety standards prescribed under this chapter, except as provided in this section or in section 60126;
+  - **(2)** prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title;
+  - **(3)** allow access to or copying of records, make reports and provide information, and allow entry or inspection required under subsections (a) through (e) of section 60117 of this title ; and
+  - **(4)** conduct a risk analysis, and adopt and implement an integrity management program, for pipeline facilities as required under section 60109(c).
+- **(b)** The Secretary of Transportation may issue orders directing compliance with this chapter, an order under section 60126, or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.
+- **(c)**
+  - **(1)**
+    - **(A)** On application of an owner or operator of a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter with respect to such facility on terms the Secretary considers appropriate if the Secretary determines that the waiver is not inconsistent with pipeline safety.
+    - **(B)** The Secretary may act on a waiver under this paragraph only after notice and an opportunity for a hearing.
+  - **(2)**
+    - **(A)** The Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate without prior notice and comment if the Secretary determines that—
+      - **(i)** it is in the public interest to grant the waiver;
+      - **(ii)** the waiver is not inconsistent with pipeline safety; and
+      - **(iii)** the waiver is necessary to address an actual or impending emergency involving pipeline transportation, including an emergency caused by a natural or manmade disaster.
+    - **(B)** A waiver under this paragraph may be issued for a period of not more than 60 days and may be renewed upon application to the Secretary only after notice and an opportunity for a hearing on the waiver. The Secretary shall immediately revoke the waiver if continuation of the waiver would not be consistent with the goals and objectives of this chapter.
+  - **(3)** The Secretary shall state in an order issued under this subsection the reasons for granting the waiver.
+- **(d)** If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waive compliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
+- **(e)**
+  - **(1)** If the Secretary or the National Transportation Safety Board investigates an accident or incident involving a pipeline facility, the operator of the facility shall—
+    - **(A)** make available to the Secretary or the Board all records and information that in any way pertain to the accident or incident, including integrity management plans and test results; and
+    - **(B)** afford all reasonable assistance in the investigation of the accident or incident.
+  - **(2)**
+    - **(A)** The Secretary may impose a civil penalty under section 60122 on a person who obstructs or prevents the Secretary from carrying out inspections or investigations under this chapter.
+    - **(B)**
+      - **(i)** In this paragraph, the term “obstructs” includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
+      - **(ii)** In clause (i), the term “good cause” may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
+- **(f)** Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.

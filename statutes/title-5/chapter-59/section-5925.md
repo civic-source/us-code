@@ -5,13 +5,13 @@ usc_section: "5925"
 chapter: 59
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 5925"
-generated_at: "2026-03-29T00:28:38.361Z"
+generated_at: "2026-03-29T02:10:01.889Z"
 ---
 
 # § 5925. Post differentials
 
-(a) A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 35 percent of the rate of basic pay.
-(b) Any employee granted a differential under subsection (a) of this section may be granted an additional differential for an assignment to a post determined to have especially adverse conditions of environment which warrant additional pay as a recruitment and retention incentive for the filling of positions at that post. An additional differential for any employee under this subsection—
-  (1) may be paid for each assignment to a post determined to have such conditions;
-  (2) may be paid periodically or in a lump sum; and
-  (3) may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.
+- **(a)** A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 35 percent of the rate of basic pay.
+- **(b)** Any employee granted a differential under subsection (a) of this section may be granted an additional differential for an assignment to a post determined to have especially adverse conditions of environment which warrant additional pay as a recruitment and retention incentive for the filling of positions at that post. An additional differential for any employee under this subsection—
+  - **(1)** may be paid for each assignment to a post determined to have such conditions;
+  - **(2)** may be paid periodically or in a lump sum; and
+  - **(3)** may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.

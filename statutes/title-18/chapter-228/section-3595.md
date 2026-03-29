@@ -5,21 +5,21 @@ usc_section: "3595"
 chapter: 228
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3595"
-generated_at: "2026-03-29T00:30:15.744Z"
+generated_at: "2026-03-29T02:12:02.494Z"
 ---
 
 # § 3595. Review of a sentence of death
 
-(a) In a case in which a sentence of death is imposed, the sentence shall be subject to review by the court of appeals upon appeal by the defendant. Notice of appeal must be filed within the time specified for the filing of a notice of appeal. An appeal under this section may be consolidated with an appeal of the judgment of conviction and shall have priority over all other cases.
-(b) The court of appeals shall review the entire record in the case, including—
-  (1) the evidence submitted during the trial;
-  (2) the information submitted during the sentencing hearing;
-  (3) the procedures employed in the sentencing hearing; and
-  (4) the special findings returned under section 3593(d).
-(c) 
-  (1) The court of appeals shall address all substantive and procedural issues raised on the appeal of a sentence of death, and shall consider whether the sentence of death was imposed under the influence of passion, prejudice, or any other arbitrary factor and whether the evidence supports the special finding of the existence of an aggravating factor required to be considered under section 3592.
-  (2) Whenever the court of appeals finds that—
-    (A) the sentence of death was imposed under the influence of passion, prejudice, or any other arbitrary factor;
-    (B) the admissible evidence and information adduced does not support the special finding of the existence of the required aggravating factor; or
-    (C) the proceedings involved any other legal error requiring reversal of the sentence that was properly preserved for appeal under the rules of criminal procedure,
-  (3) The court of appeals shall state in writing the reasons for its disposition of an appeal of a sentence of death under this section.
+- **(a)** In a case in which a sentence of death is imposed, the sentence shall be subject to review by the court of appeals upon appeal by the defendant. Notice of appeal must be filed within the time specified for the filing of a notice of appeal. An appeal under this section may be consolidated with an appeal of the judgment of conviction and shall have priority over all other cases.
+- **(b)** The court of appeals shall review the entire record in the case, including—
+  - **(1)** the evidence submitted during the trial;
+  - **(2)** the information submitted during the sentencing hearing;
+  - **(3)** the procedures employed in the sentencing hearing; and
+  - **(4)** the special findings returned under section 3593(d).
+- **(c)**
+  - **(1)** The court of appeals shall address all substantive and procedural issues raised on the appeal of a sentence of death, and shall consider whether the sentence of death was imposed under the influence of passion, prejudice, or any other arbitrary factor and whether the evidence supports the special finding of the existence of an aggravating factor required to be considered under section 3592.
+  - **(2)** Whenever the court of appeals finds that—
+    - **(A)** the sentence of death was imposed under the influence of passion, prejudice, or any other arbitrary factor;
+    - **(B)** the admissible evidence and information adduced does not support the special finding of the existence of the required aggravating factor; or
+    - **(C)** the proceedings involved any other legal error requiring reversal of the sentence that was properly preserved for appeal under the rules of criminal procedure,
+  - **(3)** The court of appeals shall state in writing the reasons for its disposition of an appeal of a sentence of death under this section.

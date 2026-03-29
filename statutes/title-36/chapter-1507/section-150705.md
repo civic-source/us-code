@@ -1,0 +1,17 @@
+---
+title: "Section 150705 - Board of directors"
+usc_title: 36
+usc_section: "150705"
+chapter: 1507
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 150705"
+generated_at: "2026-03-29T02:14:41.364Z"
+---
+
+# § 150705. Board of directors
+
+- **(a)** The board of directors is the governing body of the corporation. The board shall exercise the powers granted to the corporation.
+- **(b)** The number of directors and their term of office are as provided in the bylaws, except that the board shall have at least 10 members (including ex officio members). The directors are elected from among the officers and members of the member agencies and organizations participating in the annual national conference on citizenship, by a majority vote of the agencies and organizations sending delegates to, and participating in, the conference.
+- **(c)** The board shall hold an annual meeting at a time and place as may be provided in the bylaws. The annual report of the board shall be presented at the annual meeting. Special meetings of the board may be called as provided in the bylaws.
+- **(d)** The board shall designate 3 of its own members, who together with the president and the 3 vice presidents constitute the executive committee. When the board is not in session, the executive committee has the powers of the board subject to the board’s direction and may authorize the seal of the corporation to be affixed to all papers that require it.
+- **(e)** The executive committee shall select an executive director for the corporation, who shall have the qualifications and terms of employment decided by the committee. The executive director shall nominate other professional staff members, who must be approved by the executive committee.

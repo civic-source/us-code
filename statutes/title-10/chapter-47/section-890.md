@@ -5,12 +5,12 @@ usc_section: "890"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 890"
-generated_at: "2026-03-29T00:20:52.900Z"
+generated_at: "2026-03-29T02:10:44.923Z"
 ---
 
 # § 890. Art. 90. Willfully disobeying superior commissioned officer
 
 Any person subject to this chapter who willfully disobeys a lawful command of that person’s superior commissioned officer shall be punished—
 
-  (1) if the offense is committed in time of war, by death or such other punishment as a court-martial may direct; and
-  (2) if the offense is committed at any other time, by such punishment, other than death, as a court-martial may direct.
+  - **(1)** if the offense is committed in time of war, by death or such other punishment as a court-martial may direct; and
+  - **(2)** if the offense is committed at any other time, by such punishment, other than death, as a court-martial may direct.

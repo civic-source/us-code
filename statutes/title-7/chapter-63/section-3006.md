@@ -5,7 +5,7 @@ usc_section: "3006"
 chapter: 63
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3006"
-generated_at: "2026-03-29T00:28:58.157Z"
+generated_at: "2026-03-29T02:10:16.980Z"
 ---
 
 # §§ 3005, 3006. Repealed. Pub. L. 115–334, title X, § 10102(c)(5)(B) , Dec. 20, 2018 , 132 Stat. 4898

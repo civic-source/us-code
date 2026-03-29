@@ -5,7 +5,7 @@ usc_section: "304"
 chapter: 3
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 304"
-generated_at: "2026-03-29T00:32:20.518Z"
+generated_at: "2026-03-29T02:14:58.771Z"
 ---
 
 # § 304. Federal information centers

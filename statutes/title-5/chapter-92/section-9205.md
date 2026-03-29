@@ -5,12 +5,12 @@ usc_section: "9205"
 chapter: 92
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 9205"
-generated_at: "2026-03-29T00:28:38.437Z"
+generated_at: "2026-03-29T02:10:01.999Z"
 ---
 
 # § 9205. Procedures
 
-(a) The Director of the Office of Personnel Management shall by rule establish procedures providing for an appeal from any adverse action taken under section 9204 by not later than 30 days after the date of the action.
-(b) An adverse action taken under section 9204 (including a determination in an appeal from such an action under subsection (a) of this section) shall not be subject to—
-  (1) the procedures under chapter 75; or
-  (2) except as provided in subsection (a) of this section, appeal or judicial review.
+- **(a)** The Director of the Office of Personnel Management shall by rule establish procedures providing for an appeal from any adverse action taken under section 9204 by not later than 30 days after the date of the action.
+- **(b)** An adverse action taken under section 9204 (including a determination in an appeal from such an action under subsection (a) of this section) shall not be subject to—
+  - **(1)** the procedures under chapter 75; or
+  - **(2)** except as provided in subsection (a) of this section, appeal or judicial review.

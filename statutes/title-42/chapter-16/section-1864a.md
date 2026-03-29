@@ -5,7 +5,7 @@ usc_section: "1864a"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1864a"
-generated_at: "2026-03-29T00:32:53.708Z"
+generated_at: "2026-03-29T02:15:36.540Z"
 ---
 
 # § 1864a. Deputy Director of the Foundation

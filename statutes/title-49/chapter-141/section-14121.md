@@ -5,12 +5,12 @@ usc_section: "14121"
 chapter: 141
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 14121"
-generated_at: "2026-03-29T00:33:13.777Z"
+generated_at: "2026-03-29T02:16:08.917Z"
 ---
 
 # § 14121. Definitions
 
 In this subchapter, the following definitions apply:
 
-  (1) The terms “carrier” and “broker” include a receiver or trustee of a carrier and broker, respectively.
-  (2) The term “association” means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs a service, or engages in activities, related to transportation under this part.
+  - **(1)** The terms “carrier” and “broker” include a receiver or trustee of a carrier and broker, respectively.
+  - **(2)** The term “association” means an organization maintained by or in the interest of a group of carriers or brokers providing transportation or service subject to jurisdiction under chapter 135 that performs a service, or engages in activities, related to transportation under this part.

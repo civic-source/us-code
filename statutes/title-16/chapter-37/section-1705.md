@@ -5,7 +5,7 @@ usc_section: "1705"
 chapter: 37
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1705"
-generated_at: "2026-03-29T00:29:52.740Z"
+generated_at: "2026-03-29T02:11:53.817Z"
 ---
 
 # § 1705. Repealed. Pub. L. 104–333, div. I, title VIII, § 814(d)(1)(N) , Nov. 12, 1996 , 110 Stat. 4196

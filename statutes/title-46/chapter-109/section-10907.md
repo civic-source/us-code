@@ -5,10 +5,10 @@ usc_section: "10907"
 chapter: 109
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 10907"
-generated_at: "2026-03-29T00:33:02.884Z"
+generated_at: "2026-03-29T02:15:53.735Z"
 ---
 
 # § 10907. Permission to make complaint
 
-(a) A master may not refuse to permit, deny the opportunity to, or hinder a seaman who wishes to make a complaint authorized by this chapter.
-(b) A master violating this section is liable to the United States Government for civil penalty of $500.
+- **(a)** A master may not refuse to permit, deny the opportunity to, or hinder a seaman who wishes to make a complaint authorized by this chapter.
+- **(b)** A master violating this section is liable to the United States Government for civil penalty of $500.

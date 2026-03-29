@@ -5,47 +5,47 @@ usc_section: "2103d"
 chapter: 41
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2103d"
-generated_at: "2026-03-29T00:29:52.768Z"
+generated_at: "2026-03-29T02:11:53.849Z"
 ---
 
 # § 2103d. Community forest and open space conservation program
 
-(a) In this section:
-  (1) The term “eligible entity” means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
-  (2) The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
-  (3) The term “local governmental entity” includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
-  (4) The term “nonprofit organization” means any organization that—
-    (A) is described in section 170(h)(3) of title 26 ; and
-    (B) operates in accordance with 1 or more of the purposes specified in section 170(h)(4)(A) of title 26 .
-  (5) The term “Program” means the community forest and open space conservation program established under subsection (b).
-  (6) The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
-(b) The Secretary shall establish a program, to be known as the “community forest and open space conservation program”.
-(c) 
-  (1) The Secretary may award grants to eligible entities to acquire private forest land, 1 1 So in original. Probably should be “lands,”. to be owned in fee simple, that—
-    (A) are threatened by conversion to nonforest uses; and
-    (B) provide public benefits to communities, including—
-      (i) economic benefits through sustainable forest management;
-      (ii) environmental benefits, including clean water and wildlife habitat;
-      (iii) benefits from forest-based educational programs, including vocational education programs in forestry;
-      (iv) benefits from serving as models of effective forest stewardship for private landowners; and
-      (v) recreational benefits, including hunting and fishing.
-  (2) An eligible entity may receive a grant under the Program in an amount equal to not more than 50 percent of the cost of acquiring 1 or more parcels, as determined by the Secretary.
-  (3) As a condition of receipt of the grant, an eligible entity that receives a grant under the Program shall provide, in cash, donation, or in kind, a non-Federal matching share in an amount that is at least equal to the amount of the grant received.
-  (4) To determine the non-Federal share of the cost of a parcel of privately-owned forest land under paragraph (2), an eligible entity shall require appraisals of the land that comply with the Uniform Appraisal Standards for Federal Land Acquisitions developed by the Interagency Land Acquisition Conference.
-  (5) An eligible entity that seeks to receive a grant under the Program shall submit to the State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) an application that includes—
-    (A) a description of the land to be acquired;
-    (B) a forest plan that provides—
-      (i) a description of community benefits to be achieved from the acquisition of the private forest land; and
-      (ii) an explanation of the manner in which any private forest land to be acquired using funds from the grant will be managed; and
-    (C) such other relevant information as the Secretary may require.
-  (6) 
-    (A) The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
-    (B) No land acquired using a grant provided under the Program shall be converted to land held in trust by the United States on behalf of any Indian tribe.
-  (7) The State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) shall submit to the Secretary a list that includes a description of each project submitted by an eligible entity at such times and in such form as the Secretary shall prescribe.
-(d) An eligible entity shall provide public access to, and manage, forest land acquired with a grant under this section in a manner that is consistent with the purposes for which the land was acquired under the Program.
-(e) 
-  (1) Subject to paragraphs (2) and (3), an eligible entity that acquires a parcel under the Program shall not sell the parcel or convert the parcel to nonforest use.
-  (2) An eligible entity that sells or converts to nonforest use a parcel acquired under the Program shall pay to the Federal Government an amount equal to the greater of the current sale price, or current appraised value, of the parcel.
-  (3) An eligible entity that sells or converts a parcel acquired under the Program shall not be eligible for additional grants under the Program.
-(f) The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
-(g) There are authorized to be appropriated such sums as are necessary to carry out this section.
+- **(a)** In this section:
+  - **(1)** The term “eligible entity” means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
+  - **(2)** The term “Indian tribe” has the meaning given the term in section 5304 of title 25 .
+  - **(3)** The term “local governmental entity” includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
+  - **(4)** The term “nonprofit organization” means any organization that—
+    - **(A)** is described in section 170(h)(3) of title 26 ; and
+    - **(B)** operates in accordance with 1 or more of the purposes specified in section 170(h)(4)(A) of title 26 .
+  - **(5)** The term “Program” means the community forest and open space conservation program established under subsection (b).
+  - **(6)** The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+- **(b)** The Secretary shall establish a program, to be known as the “community forest and open space conservation program”.
+- **(c)**
+  - **(1)** The Secretary may award grants to eligible entities to acquire private forest land, 1 1 So in original. Probably should be “lands,”. to be owned in fee simple, that—
+    - **(A)** are threatened by conversion to nonforest uses; and
+    - **(B)** provide public benefits to communities, including—
+      - **(i)** economic benefits through sustainable forest management;
+      - **(ii)** environmental benefits, including clean water and wildlife habitat;
+      - **(iii)** benefits from forest-based educational programs, including vocational education programs in forestry;
+      - **(iv)** benefits from serving as models of effective forest stewardship for private landowners; and
+      - **(v)** recreational benefits, including hunting and fishing.
+  - **(2)** An eligible entity may receive a grant under the Program in an amount equal to not more than 50 percent of the cost of acquiring 1 or more parcels, as determined by the Secretary.
+  - **(3)** As a condition of receipt of the grant, an eligible entity that receives a grant under the Program shall provide, in cash, donation, or in kind, a non-Federal matching share in an amount that is at least equal to the amount of the grant received.
+  - **(4)** To determine the non-Federal share of the cost of a parcel of privately-owned forest land under paragraph (2), an eligible entity shall require appraisals of the land that comply with the Uniform Appraisal Standards for Federal Land Acquisitions developed by the Interagency Land Acquisition Conference.
+  - **(5)** An eligible entity that seeks to receive a grant under the Program shall submit to the State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) an application that includes—
+    - **(A)** a description of the land to be acquired;
+    - **(B)** a forest plan that provides—
+      - **(i)** a description of community benefits to be achieved from the acquisition of the private forest land; and
+      - **(ii)** an explanation of the manner in which any private forest land to be acquired using funds from the grant will be managed; and
+    - **(C)** such other relevant information as the Secretary may require.
+  - **(6)**
+    - **(A)** The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
+    - **(B)** No land acquired using a grant provided under the Program shall be converted to land held in trust by the United States on behalf of any Indian tribe.
+  - **(7)** The State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) shall submit to the Secretary a list that includes a description of each project submitted by an eligible entity at such times and in such form as the Secretary shall prescribe.
+- **(d)** An eligible entity shall provide public access to, and manage, forest land acquired with a grant under this section in a manner that is consistent with the purposes for which the land was acquired under the Program.
+- **(e)**
+  - **(1)** Subject to paragraphs (2) and (3), an eligible entity that acquires a parcel under the Program shall not sell the parcel or convert the parcel to nonforest use.
+  - **(2)** An eligible entity that sells or converts to nonforest use a parcel acquired under the Program shall pay to the Federal Government an amount equal to the greater of the current sale price, or current appraised value, of the parcel.
+  - **(3)** An eligible entity that sells or converts a parcel acquired under the Program shall not be eligible for additional grants under the Program.
+- **(f)** The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
+- **(g)** There are authorized to be appropriated such sums as are necessary to carry out this section.

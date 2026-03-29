@@ -5,7 +5,7 @@ usc_section: "5807"
 chapter: 55
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5807"
-generated_at: "2026-03-29T00:29:16.960Z"
+generated_at: "2026-03-29T02:11:21.316Z"
 ---
 
 # § 5807. Rulemaking

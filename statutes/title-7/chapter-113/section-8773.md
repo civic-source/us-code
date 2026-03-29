@@ -5,7 +5,7 @@ usc_section: "8773"
 chapter: 113
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8773"
-generated_at: "2026-03-29T00:28:58.330Z"
+generated_at: "2026-03-29T02:10:17.211Z"
 ---
 
 # § 8773. Repealed. Pub. L. 113–79, title I, § 1422(b)(1) , Feb. 7, 2014 , 128 Stat. 695

@@ -5,101 +5,101 @@ usc_section: "539r"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 539r"
-generated_at: "2026-03-29T00:29:52.554Z"
+generated_at: "2026-03-29T02:11:53.590Z"
 ---
 
 # § 539r. Rocky Mountain Front Conservation Management Area and wilderness additions
 
-(a) In this section:
-  (1) The term “Conservation Management Area” means the Rocky Mountain Front Conservation Management Area established by subsection (b)(1)(A).
-  (2) The term “decommission” means—
-    (A) to reestablish vegetation on a road; and
-    (B) to restore any natural drainage, watershed function, or other ecological processes that are disrupted or adversely impacted by the road by removing or hydrologically disconnecting the road prism.
-  (3) The term “district” means the Rocky Mountain Ranger District of the Lewis and Clark National Forest.
-  (4) The term “map” means the map entitled “Rocky Mountain Front Heritage Act” and dated October 27, 2011 .
-  (5) The term “nonmotorized recreation trail” means a trail designed for hiking, bicycling, or equestrian use.
-  (6) The term “Secretary” means—
-    (A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
-    (B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
-  (7) The term “State” means the State of Montana.
-(b) 
-  (1) 
-    (A) Subject to valid existing rights, there is established the Rocky Mountain Front Conservation Management Area in the State.
-    (B) The Conservation Management Area shall consist of approximately 195,073 acres of Federal land managed by the Forest Service and 13,087 acres of Federal land managed by the Bureau of Land Management in the State, as generally depicted on the map.
-    (C) Any land or interest in land that is located in the Conservation Management Area and is acquired by the United States from a willing seller shall—
-      (i) become part of the Conservation Management Area; and
-      (ii) be managed in accordance with—
-        (I) in the case of land managed by the Forest Service—
-        (II) in the case of land managed, by the Bureau of Land Management, the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.);
-        (III) this subsection; and
-        (IV) any other applicable law (including regulations).
-  (2) The purposes of the Conservation Management Area are to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the recreational, scenic, historical, cultural, fish, wildlife, roadless, and ecological values of the Conservation Management Area.
-  (3) 
-    (A) The Secretary shall manage the Conservation Management Area—
-      (i) in a manner that conserves, protects, and enhances the resources of the Conservation Management Area; and
-      (ii) in accordance with—
-        (I) the laws (including regulations) and rules applicable to the National Forest System for land managed by the Forest Service;
-        (II) the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) for land managed by the Bureau of Land Management;
-        (III) this subsection; and
-        (IV) any other applicable law (including regulations).
-    (B) 
-      (i) The Secretary shall only allow such uses of the Conservation Management Area that the Secretary determines would further the purposes described in paragraph (2).
-      (ii) 
-        (I) The use of motorized vehicles in the Conservation Management Area shall be permitted only on existing roads, trails, and areas designated for use by such vehicles as of December 19, 2014 .
-        (II) Except as provided in subclause (III), no new or temporary roads shall be constructed within the Conservation Management Area.
-        (III) Nothing in subclause (I) or (II) prevents the Secretary from—
-        (IV) The Secretary shall decommission any temporary road constructed under subclause (III)(bb) not later than 3 years after the date on which the applicable vegetation management project is completed.
-      (iii) The Secretary shall permit grazing within the Conservation Management Area, if established on December 19, 2014 —
-        (I) subject to—
-        (II) in a manner consistent with—
-      (iv) Nothing in this section prevents the Secretary from conducting vegetation management projects within the Conservation Management Area—
-        (I) subject to—
-        (II) in a manner consistent with the purposes described in paragraph (2).
-  (4) 
-    (A) The designation of the Conservation Management Area shall not create a protective perimeter or buffer zone around the Conservation Management Area.
-    (B) The fact that activities or uses can be seen or heard from areas within the Conservation Management Area shall not preclude the conduct of the activities or uses outside the boundary of the Conservation Management Area.
-(c) 
-  (1) In accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), the following Federal land in the State is designated as wilderness and as additions to existing components of the National Wilderness Preservation System:
-    (A) Certain land in the Lewis and Clark National Forest, comprising approximately 50,401 acres, as generally depicted on the map, which shall be added to and administered as part of the Bob Marshall Wilderness designated under section 3 of the Wilderness Act ( 16 U.S.C. 1132 ).
-    (B) Certain land in the Lewis and Clark National Forest, comprising approximately 16,711 acres, as generally depicted on the map, which shall be added to and administered as part of the Scapegoat Wilderness designated by the first section of Public Law 92–395 ( 16 U.S.C. 1132 note).
-  (2) Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) shall be administered by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014 .
-  (3) The grazing of livestock and the maintenance of existing facilities relating to grazing in the wilderness additions designated by this subsection, if established before December 19, 2014 , shall be permitted to continue in accordance with—
-    (A) section 4(d)(4) of the Wilderness Act ( 16 U.S.C. 1133(d)(4) ); and
-    (B) the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
-  (4) In accordance with section 4(d)(1) of the Wilderness Act ( 16 U.S.C. 1133(d)(1) ), within the wilderness additions designated by this subsection, the Secretary may take any measures that the Secretary determines to be necessary to control fire, insects, and diseases, including, as the Secretary determines appropriate, the coordination of those activities with a State or local agency.
-  (5) 
-    (A) The designation of a wilderness addition by this subsection shall not create any protective perimeter or buffer zone around the wilderness area.
-    (B) The fact that nonwilderness activities or uses can be seen or heard from areas within a wilderness addition designated by this subsection shall not preclude the conduct of those activities or uses outside the boundary of the wilderness area.
-(d) 
-  (1) As soon as practicable after December 19, 2014 , the Secretary shall prepare maps and legal descriptions of the Conservation Management Area and the wilderness additions designated by subsections (b) and (c), respectively.
-  (2) The maps and legal descriptions prepared under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct typographical errors in the map and legal descriptions.
-  (3) The maps and legal descriptions prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service and Bureau of Land Management.
-(e) 
-  (1) Not later than 1 year after December 19, 2014 , the Secretary of Agriculture shall prepare a comprehensive management strategy for preventing, controlling, and eradicating noxious weeds in the district.
-  (2) The management strategy shall—
-    (A) include recommendations to protect wildlife, forage, and other natural resources in the district from noxious weeds;
-    (B) identify opportunities to coordinate noxious weed prevention, control, and eradication efforts in the district with State and local agencies, Indian tribes, nonprofit organizations, and others;
-    (C) identify existing resources for preventing, controlling, and eradicating noxious weeds in the district;
-    (D) identify additional resources that are appropriate to effectively prevent, control, or eradicate noxious weeds in the district; and
-    (E) identify opportunities to coordinate with county weed districts in Glacier, Pondera, Teton, and Lewis and Clark Counties in the State to apply for grants and enter into agreements for noxious weed control and eradication projects under the Noxious Weed Control and Eradication Act of 2004 ( 7 U.S.C. 7781 et seq.).
-  (3) In developing the management strategy required under paragraph (1), the Secretary shall consult with—
-    (A) the Secretary of the Interior;
-    (B) appropriate State, tribal, and local governmental entities; and
-    (C) members of the public.
-(f) Not later than 2 years after December 19, 2014 , the Secretary of Agriculture, in consultation with interested parties, shall conduct a study to improve nonmotorized recreation trail opportunities (including mountain bicycling) on land not designated as wilderness within the district.
-(g) Nothing in this section affects the jurisdiction of the State with respect to fish and wildlife management (including the regulation of hunting and fishing) on public land in the State.
-(h) 
-  (1) Nothing in this section affects the jurisdiction of the Federal Aviation Administration with respect to the airspace above the wilderness or the Conservation Management Area.
-  (2) Nothing in this section affects the continued use, maintenance, and repair of the Benchmark (3U7) airstrip.
-(i) 
-  (1) Congress finds that, for the purposes of section 603(c) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1782(c) ), the Zook Creek and Buffalo Creek wilderness study areas in the State have been adequately studied for wilderness designation.
-  (2) The Zook Creek and Buffalo Creek wilderness study areas—
-    (A) are no longer subject to—
-      (i) section 603(c) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1782(c) ); or
-      (ii) Secretarial Order 3310 issued on December 22, 2010 ; and
-    (B) shall be managed in accordance with the applicable land use plans adopted under section 202 of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1712 ).
-(j) 
-  (1) Not later than 5 years after December 19, 2014 , the Secretary shall review and update the assessment for oil and gas potential for the following wilderness study areas in the State:
-    (A) Bridge Coulee.
-    (B) Musselshell Breaks.
-  (2) Not later than 30 days after the date on which the review is completed under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the oil and gas potential for the wilderness study areas.
+- **(a)** In this section:
+  - **(1)** The term “Conservation Management Area” means the Rocky Mountain Front Conservation Management Area established by subsection (b)(1)(A).
+  - **(2)** The term “decommission” means—
+    - **(A)** to reestablish vegetation on a road; and
+    - **(B)** to restore any natural drainage, watershed function, or other ecological processes that are disrupted or adversely impacted by the road by removing or hydrologically disconnecting the road prism.
+  - **(3)** The term “district” means the Rocky Mountain Ranger District of the Lewis and Clark National Forest.
+  - **(4)** The term “map” means the map entitled “Rocky Mountain Front Heritage Act” and dated October 27, 2011 .
+  - **(5)** The term “nonmotorized recreation trail” means a trail designed for hiking, bicycling, or equestrian use.
+  - **(6)** The term “Secretary” means—
+    - **(A)** with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
+    - **(B)** with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
+  - **(7)** The term “State” means the State of Montana.
+- **(b)**
+  - **(1)**
+    - **(A)** Subject to valid existing rights, there is established the Rocky Mountain Front Conservation Management Area in the State.
+    - **(B)** The Conservation Management Area shall consist of approximately 195,073 acres of Federal land managed by the Forest Service and 13,087 acres of Federal land managed by the Bureau of Land Management in the State, as generally depicted on the map.
+    - **(C)** Any land or interest in land that is located in the Conservation Management Area and is acquired by the United States from a willing seller shall—
+      - **(i)** become part of the Conservation Management Area; and
+      - **(ii)** be managed in accordance with—
+        - **(I)** in the case of land managed by the Forest Service—
+        - **(II)** in the case of land managed, by the Bureau of Land Management, the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.);
+        - **(III)** this subsection; and
+        - **(IV)** any other applicable law (including regulations).
+  - **(2)** The purposes of the Conservation Management Area are to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the recreational, scenic, historical, cultural, fish, wildlife, roadless, and ecological values of the Conservation Management Area.
+  - **(3)**
+    - **(A)** The Secretary shall manage the Conservation Management Area—
+      - **(i)** in a manner that conserves, protects, and enhances the resources of the Conservation Management Area; and
+      - **(ii)** in accordance with—
+        - **(I)** the laws (including regulations) and rules applicable to the National Forest System for land managed by the Forest Service;
+        - **(II)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.) for land managed by the Bureau of Land Management;
+        - **(III)** this subsection; and
+        - **(IV)** any other applicable law (including regulations).
+    - **(B)**
+      - **(i)** The Secretary shall only allow such uses of the Conservation Management Area that the Secretary determines would further the purposes described in paragraph (2).
+      - **(ii)**
+        - **(I)** The use of motorized vehicles in the Conservation Management Area shall be permitted only on existing roads, trails, and areas designated for use by such vehicles as of December 19, 2014 .
+        - **(II)** Except as provided in subclause (III), no new or temporary roads shall be constructed within the Conservation Management Area.
+        - **(III)** Nothing in subclause (I) or (II) prevents the Secretary from—
+        - **(IV)** The Secretary shall decommission any temporary road constructed under subclause (III)(bb) not later than 3 years after the date on which the applicable vegetation management project is completed.
+      - **(iii)** The Secretary shall permit grazing within the Conservation Management Area, if established on December 19, 2014 —
+        - **(I)** subject to—
+        - **(II)** in a manner consistent with—
+      - **(iv)** Nothing in this section prevents the Secretary from conducting vegetation management projects within the Conservation Management Area—
+        - **(I)** subject to—
+        - **(II)** in a manner consistent with the purposes described in paragraph (2).
+  - **(4)**
+    - **(A)** The designation of the Conservation Management Area shall not create a protective perimeter or buffer zone around the Conservation Management Area.
+    - **(B)** The fact that activities or uses can be seen or heard from areas within the Conservation Management Area shall not preclude the conduct of the activities or uses outside the boundary of the Conservation Management Area.
+- **(c)**
+  - **(1)** In accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), the following Federal land in the State is designated as wilderness and as additions to existing components of the National Wilderness Preservation System:
+    - **(A)** Certain land in the Lewis and Clark National Forest, comprising approximately 50,401 acres, as generally depicted on the map, which shall be added to and administered as part of the Bob Marshall Wilderness designated under section 3 of the Wilderness Act ( 16 U.S.C. 1132 ).
+    - **(B)** Certain land in the Lewis and Clark National Forest, comprising approximately 16,711 acres, as generally depicted on the map, which shall be added to and administered as part of the Scapegoat Wilderness designated by the first section of Public Law 92–395 ( 16 U.S.C. 1132 note).
+  - **(2)** Subject to valid existing rights, the land designated as wilderness additions by paragraph (1) shall be administered by the Secretary in accordance with the Wilderness Act ( 16 U.S.C. 1131 et seq.), except that any reference in that Act to the effective date of that Act shall be deemed to be a reference to December 19, 2014 .
+  - **(3)** The grazing of livestock and the maintenance of existing facilities relating to grazing in the wilderness additions designated by this subsection, if established before December 19, 2014 , shall be permitted to continue in accordance with—
+    - **(A)** section 4(d)(4) of the Wilderness Act ( 16 U.S.C. 1133(d)(4) ); and
+    - **(B)** the guidelines set forth in the report of the Committee on Interior and Insular Affairs of the House of Representatives accompanying H.R. 5487 of the 96th Congress (H. Rept. 96–617).
+  - **(4)** In accordance with section 4(d)(1) of the Wilderness Act ( 16 U.S.C. 1133(d)(1) ), within the wilderness additions designated by this subsection, the Secretary may take any measures that the Secretary determines to be necessary to control fire, insects, and diseases, including, as the Secretary determines appropriate, the coordination of those activities with a State or local agency.
+  - **(5)**
+    - **(A)** The designation of a wilderness addition by this subsection shall not create any protective perimeter or buffer zone around the wilderness area.
+    - **(B)** The fact that nonwilderness activities or uses can be seen or heard from areas within a wilderness addition designated by this subsection shall not preclude the conduct of those activities or uses outside the boundary of the wilderness area.
+- **(d)**
+  - **(1)** As soon as practicable after December 19, 2014 , the Secretary shall prepare maps and legal descriptions of the Conservation Management Area and the wilderness additions designated by subsections (b) and (c), respectively.
+  - **(2)** The maps and legal descriptions prepared under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct typographical errors in the map and legal descriptions.
+  - **(3)** The maps and legal descriptions prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Forest Service and Bureau of Land Management.
+- **(e)**
+  - **(1)** Not later than 1 year after December 19, 2014 , the Secretary of Agriculture shall prepare a comprehensive management strategy for preventing, controlling, and eradicating noxious weeds in the district.
+  - **(2)** The management strategy shall—
+    - **(A)** include recommendations to protect wildlife, forage, and other natural resources in the district from noxious weeds;
+    - **(B)** identify opportunities to coordinate noxious weed prevention, control, and eradication efforts in the district with State and local agencies, Indian tribes, nonprofit organizations, and others;
+    - **(C)** identify existing resources for preventing, controlling, and eradicating noxious weeds in the district;
+    - **(D)** identify additional resources that are appropriate to effectively prevent, control, or eradicate noxious weeds in the district; and
+    - **(E)** identify opportunities to coordinate with county weed districts in Glacier, Pondera, Teton, and Lewis and Clark Counties in the State to apply for grants and enter into agreements for noxious weed control and eradication projects under the Noxious Weed Control and Eradication Act of 2004 ( 7 U.S.C. 7781 et seq.).
+  - **(3)** In developing the management strategy required under paragraph (1), the Secretary shall consult with—
+    - **(A)** the Secretary of the Interior;
+    - **(B)** appropriate State, tribal, and local governmental entities; and
+    - **(C)** members of the public.
+- **(f)** Not later than 2 years after December 19, 2014 , the Secretary of Agriculture, in consultation with interested parties, shall conduct a study to improve nonmotorized recreation trail opportunities (including mountain bicycling) on land not designated as wilderness within the district.
+- **(g)** Nothing in this section affects the jurisdiction of the State with respect to fish and wildlife management (including the regulation of hunting and fishing) on public land in the State.
+- **(h)**
+  - **(1)** Nothing in this section affects the jurisdiction of the Federal Aviation Administration with respect to the airspace above the wilderness or the Conservation Management Area.
+  - **(2)** Nothing in this section affects the continued use, maintenance, and repair of the Benchmark (3U7) airstrip.
+- **(i)**
+  - **(1)** Congress finds that, for the purposes of section 603(c) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1782(c) ), the Zook Creek and Buffalo Creek wilderness study areas in the State have been adequately studied for wilderness designation.
+  - **(2)** The Zook Creek and Buffalo Creek wilderness study areas—
+    - **(A)** are no longer subject to—
+      - **(i)** section 603(c) of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1782(c) ); or
+      - **(ii)** Secretarial Order 3310 issued on December 22, 2010 ; and
+    - **(B)** shall be managed in accordance with the applicable land use plans adopted under section 202 of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1712 ).
+- **(j)**
+  - **(1)** Not later than 5 years after December 19, 2014 , the Secretary shall review and update the assessment for oil and gas potential for the following wilderness study areas in the State:
+    - **(A)** Bridge Coulee.
+    - **(B)** Musselshell Breaks.
+  - **(2)** Not later than 30 days after the date on which the review is completed under paragraph (1), the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the oil and gas potential for the wilderness study areas.

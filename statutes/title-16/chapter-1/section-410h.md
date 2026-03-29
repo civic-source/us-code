@@ -5,7 +5,7 @@ usc_section: "410h"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 410h"
-generated_at: "2026-03-29T00:29:52.359Z"
+generated_at: "2026-03-29T02:11:53.383Z"
 ---
 
 # § 410h. Ascertainment of owners’ election regarding reservation rights

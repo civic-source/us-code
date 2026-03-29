@@ -5,16 +5,16 @@ usc_section: "12755"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12755"
-generated_at: "2026-03-29T00:32:54.296Z"
+generated_at: "2026-03-29T02:15:37.232Z"
 ---
 
 # § 12755. Tenant and participant protections
 
-(a) The lease between a tenant and an owner of affordable housing assisted under this subchapter for rental shall be for not less than one year, unless by mutual agreement between the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
-(b) An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of rental housing assisted under this subchapter except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner’s service upon the tenant of a written notice specifying the grounds for the action. Such 30-day waiting period is not required if the grounds for the termination or refusal to renew involve a direct threat to the safety of the tenants or employees of the housing, or an imminent and serious threat to the property (and the termination or refusal to renew is in accordance with the requirements of State or local law).
-(c) The owner of rental housing assisted under this subchapter shall maintain the premises in compliance with all applicable housing quality standards and local code requirements.
-(d) The owner of rental housing assisted under this subchapter shall adopt written tenant selection policies and criteria that—
-  (1) are consistent with the purpose of providing housing for very low-income and low-income families,
-  (2) are reasonably related to program eligibility and the applicant’s ability to perform the obligations of the lease,
-  (3) give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) of this title , and
-  (4) provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for 1 1 So in original. The word “for” probably should not appear. the prompt notification in writing of any rejected applicant of the grounds for any rejection.
+- **(a)** The lease between a tenant and an owner of affordable housing assisted under this subchapter for rental shall be for not less than one year, unless by mutual agreement between the tenant and the owner, and shall contain such terms and conditions as the Secretary shall determine to be appropriate.
+- **(b)** An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of rental housing assisted under this subchapter except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner’s service upon the tenant of a written notice specifying the grounds for the action. Such 30-day waiting period is not required if the grounds for the termination or refusal to renew involve a direct threat to the safety of the tenants or employees of the housing, or an imminent and serious threat to the property (and the termination or refusal to renew is in accordance with the requirements of State or local law).
+- **(c)** The owner of rental housing assisted under this subchapter shall maintain the premises in compliance with all applicable housing quality standards and local code requirements.
+- **(d)** The owner of rental housing assisted under this subchapter shall adopt written tenant selection policies and criteria that—
+  - **(1)** are consistent with the purpose of providing housing for very low-income and low-income families,
+  - **(2)** are reasonably related to program eligibility and the applicant’s ability to perform the obligations of the lease,
+  - **(3)** give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) of this title , and
+  - **(4)** provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for 1 1 So in original. The word “for” probably should not appear. the prompt notification in writing of any rejected applicant of the grounds for any rejection.

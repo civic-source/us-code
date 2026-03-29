@@ -5,12 +5,12 @@ usc_section: "3011"
 chapter: 176
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 3011"
-generated_at: "2026-03-29T00:31:24.209Z"
+generated_at: "2026-03-29T02:14:04.582Z"
 ---
 
 # § 3011. Assessment of surcharge on a debt
 
-(a) In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitled to recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
-(b) Subsection (a) shall not apply if—
-  (1) the United States receives an attorney’s fee in connection with the enforcement of the claim; or
-  (2) the law pursuant to which the action on the claim is based provides any other amount to cover such costs.
+- **(a)** In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitled to recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
+- **(b)** Subsection (a) shall not apply if—
+  - **(1)** the United States receives an attorney’s fee in connection with the enforcement of the claim; or
+  - **(2)** the law pursuant to which the action on the claim is based provides any other amount to cover such costs.

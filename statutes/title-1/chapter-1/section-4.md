@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 1
 current_through: "PL 119-73"
 classification: "1 U.S.C. § 4"
-generated_at: "2026-03-28T23:42:47.556Z"
+generated_at: "2026-03-29T02:09:50.415Z"
 ---
 
 # § 4. “Vehicle” as including all means of land transportation

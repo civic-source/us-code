@@ -5,7 +5,7 @@ usc_section: "3197"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3197"
-generated_at: "2026-03-29T00:32:53.829Z"
+generated_at: "2026-03-29T02:15:36.661Z"
 ---
 
 # § 3197. Notification of reorganization

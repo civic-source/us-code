@@ -5,21 +5,21 @@ usc_section: "3114"
 chapter: 33
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3114"
-generated_at: "2026-03-29T00:30:38.753Z"
+generated_at: "2026-03-29T02:13:20.964Z"
 ---
 
 # § 3114. Postgraduation recruitment, education and training programs
 
-(a) The Secretary shall establish and maintain a program to attract Indian and Alaska Native professional foresters and forester technicians who have already graduated from their course of postsecondary or graduate education for employment in either the Bureau of Indian Affairs forestry programs or, subject to the approval of the tribe, in tribal forestry programs. According to such regulations as the Secretary may prescribe, such program shall provide for the employment of Indian and Alaska Native professional foresters or forestry technicians in exchange for the Secretary’s assumption of the employee’s outstanding student loans. The period of employment shall be determined by the amount of the loan that is assumed.
-(b) For the purposes of training, skill development and orientation of Indian, Alaska native, 1 1 So in original. Probably should be capitalized. and Federal forestry personnel, and the enhancement of tribal and Bureau of Indian Affairs forestry programs, the Secretary shall establish and actively conduct a program for the cooperative internship of Federal, Indian, and Alaska Native forestry personnel. Such program shall—
-  (1) for agencies within the Department of the Interior—
-    (A) provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-related programs of other agencies of the Department of the Interior, and
-    (B) provide for the internship of forestry personnel from other Department of the Interior agencies within the Bureau of Indian Affairs and, with the consent of the tribe, within tribal forestry programs;
-  (2) for agencies not within the Department of the Interior, provide, pursuant to an interagency agreement, internships within the Bureau of Indian Affairs and, with the consent of the tribe, within a tribal forestry program of other forestry personnel of such agencies who are above their sixth year of Federal service;
-  (3) provide for the continuation of salary and benefits for participating Federal employees by their originating agency;
-  (4) provide for salaries and benefits of participating Indian and Alaska Native forestry employees by the host agency; and
-  (5) provide for a bonus pay incentive at the conclusion of the internship for any participant.
-(c) The Secretary shall maintain a program within the Division of Forestry of the Bureau of Indian Affairs for the ongoing education and training of Bureau of Indian Affairs, Alaska Native, and Indian forestry personnel. Such program shall provide for—
-  (1) orientation training for Bureau of Indian Affairs forestry personnel in tribal-Federal relations and responsibilities;
-  (2) continuing technical forestry education for Bureau of Indian Affairs, Alaska Native, and tribal forestry personnel; and
-  (3) developmental training of Indian and Alaska Native personnel in forest land based enterprises and marketing.
+- **(a)** The Secretary shall establish and maintain a program to attract Indian and Alaska Native professional foresters and forester technicians who have already graduated from their course of postsecondary or graduate education for employment in either the Bureau of Indian Affairs forestry programs or, subject to the approval of the tribe, in tribal forestry programs. According to such regulations as the Secretary may prescribe, such program shall provide for the employment of Indian and Alaska Native professional foresters or forestry technicians in exchange for the Secretary’s assumption of the employee’s outstanding student loans. The period of employment shall be determined by the amount of the loan that is assumed.
+- **(b)** For the purposes of training, skill development and orientation of Indian, Alaska native, 1 1 So in original. Probably should be capitalized. and Federal forestry personnel, and the enhancement of tribal and Bureau of Indian Affairs forestry programs, the Secretary shall establish and actively conduct a program for the cooperative internship of Federal, Indian, and Alaska Native forestry personnel. Such program shall—
+  - **(1)** for agencies within the Department of the Interior—
+    - **(A)** provide for the internship of Bureau of Indian Affairs, Alaska Native, and Indian forestry employees in the forestry-related programs of other agencies of the Department of the Interior, and
+    - **(B)** provide for the internship of forestry personnel from other Department of the Interior agencies within the Bureau of Indian Affairs and, with the consent of the tribe, within tribal forestry programs;
+  - **(2)** for agencies not within the Department of the Interior, provide, pursuant to an interagency agreement, internships within the Bureau of Indian Affairs and, with the consent of the tribe, within a tribal forestry program of other forestry personnel of such agencies who are above their sixth year of Federal service;
+  - **(3)** provide for the continuation of salary and benefits for participating Federal employees by their originating agency;
+  - **(4)** provide for salaries and benefits of participating Indian and Alaska Native forestry employees by the host agency; and
+  - **(5)** provide for a bonus pay incentive at the conclusion of the internship for any participant.
+- **(c)** The Secretary shall maintain a program within the Division of Forestry of the Bureau of Indian Affairs for the ongoing education and training of Bureau of Indian Affairs, Alaska Native, and Indian forestry personnel. Such program shall provide for—
+  - **(1)** orientation training for Bureau of Indian Affairs forestry personnel in tribal-Federal relations and responsibilities;
+  - **(2)** continuing technical forestry education for Bureau of Indian Affairs, Alaska Native, and tribal forestry personnel; and
+  - **(3)** developmental training of Indian and Alaska Native personnel in forest land based enterprises and marketing.

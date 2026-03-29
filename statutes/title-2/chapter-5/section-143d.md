@@ -5,10 +5,10 @@ usc_section: "143d"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 143d"
-generated_at: "2026-03-29T00:06:10.887Z"
+generated_at: "2026-03-29T02:09:53.648Z"
 ---
 
 # § 143d. Funds available for workers compensation payments
 
-(a) Available balances of expired Library of Congress appropriations shall be available to the Library of Congress to make the deposit to the credit of the Employees’ Compensation Fund required by sub section 8147(b) of title 5 .
-(b) This section shall apply with respect to appropriations for fiscal year 2012 and each fiscal year thereafter.
+- **(a)** Available balances of expired Library of Congress appropriations shall be available to the Library of Congress to make the deposit to the credit of the Employees’ Compensation Fund required by sub section 8147(b) of title 5 .
+- **(b)** This section shall apply with respect to appropriations for fiscal year 2012 and each fiscal year thereafter.

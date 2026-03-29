@@ -5,7 +5,7 @@ usc_section: "5811"
 chapter: 68
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 5811"
-generated_at: "2026-03-29T00:07:03.183Z"
+generated_at: "2026-03-29T02:12:17.423Z"
 ---
 
 # § 5811. Purpose

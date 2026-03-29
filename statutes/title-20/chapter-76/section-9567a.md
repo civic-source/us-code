@@ -1,0 +1,14 @@
+---
+title: "Section 9567a - Commissioner for Special Education Research"
+usc_title: 20
+usc_section: "9567a"
+chapter: 76
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 9567a"
+generated_at: "2026-03-29T02:12:17.527Z"
+---
+
+# § 9567a. Commissioner for Special Education Research
+
+The Special Education Research Center shall be headed by a Commissioner for Special Education Research (in this part referred to as the “Special Education Research Commissioner”) who shall have substantial knowledge of the Special Education Research Center’s activities, including a high level of expertise in the fields of research, research management, and the education of children with disabilities.
+

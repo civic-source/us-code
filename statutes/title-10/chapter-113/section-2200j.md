@@ -5,12 +5,12 @@ usc_section: "2200j"
 chapter: 113
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2200j"
-generated_at: "2026-03-29T00:20:53.025Z"
+generated_at: "2026-03-29T02:10:45.075Z"
 ---
 
 # § 2200j. Definitions
 
 In this chapter:
 
-  (1) The term “program” means the Defense Civilian Training Corps program established under section 2200g.
-  (2) The term “member of the program” means a student at an accredited civilian educational institution who is enrolled in the program.
+  - **(1)** The term “program” means the Defense Civilian Training Corps program established under section 2200g.
+  - **(2)** The term “member of the program” means a student at an accredited civilian educational institution who is enrolled in the program.

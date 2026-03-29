@@ -5,21 +5,21 @@ usc_section: "3103"
 chapter: 19
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3103"
-generated_at: "2026-03-29T00:30:20.257Z"
+generated_at: "2026-03-29T02:12:08.724Z"
 ---
 
 # § 3103. Investigation of foreign telecommunications trade barriers
 
-(a) The Trade Representative shall conduct an investigation to identify priority foreign countries. Such investigation shall be concluded by no later than the date that is 5 months after August 23, 1988 .
-(b) In identifying priority foreign countries under subsection (a), the Trade Representative shall take into account, among other relevant factors—
-  (1) the nature and significance of the acts, policies, and practices that deny mutually advantageous market opportunities to telecommunications products and services of United States firms;
-  (2) the economic benefits (actual and potential) accruing to foreign firms from open access to the United States market;
-  (3) the potential size of the market of a foreign country for telecommunications products and services of United States firms;
-  (4) the potential to increase United States exports of telecommunications products and services, either directly or through the establishment of a beneficial precedent; and
-  (5) measurable progress being made to eliminate the objectionable acts, policies, or practices.
-(c) 
-  (1) The Trade Representative may at any time, after taking into account the factors described in subsection (b)—
-    (A) revoke the identification of any priority foreign country that was made under this section, or
-    (B) identify any foreign country as a priority foreign country under this section,
-  (2) The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
-(d) By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
+- **(a)** The Trade Representative shall conduct an investigation to identify priority foreign countries. Such investigation shall be concluded by no later than the date that is 5 months after August 23, 1988 .
+- **(b)** In identifying priority foreign countries under subsection (a), the Trade Representative shall take into account, among other relevant factors—
+  - **(1)** the nature and significance of the acts, policies, and practices that deny mutually advantageous market opportunities to telecommunications products and services of United States firms;
+  - **(2)** the economic benefits (actual and potential) accruing to foreign firms from open access to the United States market;
+  - **(3)** the potential size of the market of a foreign country for telecommunications products and services of United States firms;
+  - **(4)** the potential to increase United States exports of telecommunications products and services, either directly or through the establishment of a beneficial precedent; and
+  - **(5)** measurable progress being made to eliminate the objectionable acts, policies, or practices.
+- **(c)**
+  - **(1)** The Trade Representative may at any time, after taking into account the factors described in subsection (b)—
+    - **(A)** revoke the identification of any priority foreign country that was made under this section, or
+    - **(B)** identify any foreign country as a priority foreign country under this section,
+  - **(2)** The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
+- **(d)** By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.

@@ -5,7 +5,7 @@ usc_section: "1148a"
 chapter: 7
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1148a"
-generated_at: "2026-03-29T00:29:16.526Z"
+generated_at: "2026-03-29T02:11:20.882Z"
 ---
 
 # § 1148a. Repealed. Pub. L. 92–181, title V, § 5 .26(a), Dec. 10, 1971 , 85 Stat. 624

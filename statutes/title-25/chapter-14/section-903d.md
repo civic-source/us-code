@@ -5,7 +5,7 @@ usc_section: "903d"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 903d"
-generated_at: "2026-03-29T00:30:38.662Z"
+generated_at: "2026-03-29T02:13:20.869Z"
 ---
 
 # § 903d. Omitted

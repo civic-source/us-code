@@ -5,7 +5,7 @@ usc_section: "5117d"
 chapter: 67
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5117d"
-generated_at: "2026-03-29T00:32:53.898Z"
+generated_at: "2026-03-29T02:15:36.740Z"
 ---
 
 # §§ 5117 to 5117d. Repealed. Pub. L. 104–235, title I, § 142(a) , Oct. 3, 1996 , 110 Stat. 3089

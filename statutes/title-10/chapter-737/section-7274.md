@@ -5,16 +5,16 @@ usc_section: "7274"
 chapter: 737
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7274"
-generated_at: "2026-03-29T00:20:53.193Z"
+generated_at: "2026-03-29T02:10:45.273Z"
 ---
 
 # § 7274. Medal of honor; distinguished-service cross; distinguished-service medal: limitations on award
 
-(a) No more than one distinguished-service cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
-(b) Except as provided in subsection (c), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
-  (1) the award is made within five years after the date of the act justifying the award;
-  (2) a statement setting forth the distinguished service and recommending official recognition of it was made within three years after the distinguished service; and
-  (3) it appears from records of the Department of the Army that the person is entitled to the award.
-(c) If the Secretary of the Army determines that—
-  (1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
-  (2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
+- **(a)** No more than one distinguished-service cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
+- **(b)** Except as provided in subsection (c), no medal of honor, distinguished-service cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
+  - **(1)** the award is made within five years after the date of the act justifying the award;
+  - **(2)** a statement setting forth the distinguished service and recommending official recognition of it was made within three years after the distinguished service; and
+  - **(3)** it appears from records of the Department of the Army that the person is entitled to the award.
+- **(c)** If the Secretary of the Army determines that—
+  - **(1)** a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
+  - **(2)** no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;

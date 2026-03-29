@@ -5,22 +5,22 @@ usc_section: "6101"
 chapter: 61
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 6101"
-generated_at: "2026-03-29T00:32:22.609Z"
+generated_at: "2026-03-29T02:15:00.465Z"
 ---
 
 # § 6101. Advertising requirement for Federal Government purchases and sales
 
-(a) In this section—
-  (1) The term “appropriation” includes amounts made available by legislation under section 9104 of title 31 .
-  (2) The term “Federal Government” includes the government of the District of Columbia.
-(b) 
-  (1) Unless otherwise provided in the appropriation concerned or other law, purchases and contracts for supplies or services for the Federal Government may be made or entered into only after advertising for proposals for a sufficient time.
-  (2) Paragraph (1) does not apply when—
-    (A) the amount involved in any one case does not exceed $25,000;
-    (B) public exigencies require the immediate delivery of articles or performance of services;
-    (C) only one source of supply is available and the Federal Government purchasing or contracting officer so certifies; or
-    (D) services are required to be performed by a contractor in person and are—
-      (i) of a technical and professional nature; or
-      (ii) under Federal Government supervision and paid for on a time basis.
-(c) Except when otherwise authorized by law or when the reasonable value involved in any one case does not exceed $500, sales and contracts of sale by the Federal Government are governed by the requirements of this section for advertising.
-(d) For wholly owned Government corporations, this section applies only to administrative transactions.
+- **(a)** In this section—
+  - **(1)** The term “appropriation” includes amounts made available by legislation under section 9104 of title 31 .
+  - **(2)** The term “Federal Government” includes the government of the District of Columbia.
+- **(b)**
+  - **(1)** Unless otherwise provided in the appropriation concerned or other law, purchases and contracts for supplies or services for the Federal Government may be made or entered into only after advertising for proposals for a sufficient time.
+  - **(2)** Paragraph (1) does not apply when—
+    - **(A)** the amount involved in any one case does not exceed $25,000;
+    - **(B)** public exigencies require the immediate delivery of articles or performance of services;
+    - **(C)** only one source of supply is available and the Federal Government purchasing or contracting officer so certifies; or
+    - **(D)** services are required to be performed by a contractor in person and are—
+      - **(i)** of a technical and professional nature; or
+      - **(ii)** under Federal Government supervision and paid for on a time basis.
+- **(c)** Except when otherwise authorized by law or when the reasonable value involved in any one case does not exceed $500, sales and contracts of sale by the Federal Government are governed by the requirements of this section for advertising.
+- **(d)** For wholly owned Government corporations, this section applies only to administrative transactions.

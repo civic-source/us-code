@@ -5,19 +5,19 @@ usc_section: "2326c"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2326c"
-generated_at: "2026-03-29T00:31:57.422Z"
+generated_at: "2026-03-29T02:14:18.624Z"
 ---
 
 # § 2326c. Reservoir sediment
 
-(a) Not later than 180 days after October 23, 2018 , and after providing public notice, the Secretary shall, using available funds, accept services provided by a non-Federal interest or commercial entity for removal of sediment captured behind a dam owned or operated by the United States and under the jurisdiction of the Secretary for the purpose of restoring the authorized storage capacity of the project concerned.
-(b) In carrying out this section, the Secretary shall—
-  (1) review the services of the non-Federal interest or commercial entity to ensure that the services are consistent with the authorized purposes of the project concerned;
-  (2) ensure that the non-Federal interest or commercial entity will indemnify the United States for, or has entered into an agreement approved by the Secretary to address, any adverse impact to the dam as a result of such services; and
-  (3) require the non-Federal interest or commercial entity, prior to initiating the services and upon completion of the services, to conduct sediment surveys to determine the pre- and post-services sediment profile and sediment quality.
-(c) 
-  (1) The Secretary may not accept services under subsection (a) if the Secretary, after consultation with the Chief of Engineers, determines that accepting the services is not advantageous to the United States.
-  (2) If the Secretary makes a determination under paragraph (1), the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate written notice describing the reasoning for the determination.
-(d) In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and the Corps of Engineers may not seek any compensation for the value of the sediment.
-(e) Prior to accepting services provided by a non-Federal interest or commercial entity under this section, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate written notice of the acceptance of the services.
-(f) Not later than 3 years after October 23, 2018 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of the program under this section.
+- **(a)** Not later than 180 days after October 23, 2018 , and after providing public notice, the Secretary shall, using available funds, accept services provided by a non-Federal interest or commercial entity for removal of sediment captured behind a dam owned or operated by the United States and under the jurisdiction of the Secretary for the purpose of restoring the authorized storage capacity of the project concerned.
+- **(b)** In carrying out this section, the Secretary shall—
+  - **(1)** review the services of the non-Federal interest or commercial entity to ensure that the services are consistent with the authorized purposes of the project concerned;
+  - **(2)** ensure that the non-Federal interest or commercial entity will indemnify the United States for, or has entered into an agreement approved by the Secretary to address, any adverse impact to the dam as a result of such services; and
+  - **(3)** require the non-Federal interest or commercial entity, prior to initiating the services and upon completion of the services, to conduct sediment surveys to determine the pre- and post-services sediment profile and sediment quality.
+- **(c)**
+  - **(1)** The Secretary may not accept services under subsection (a) if the Secretary, after consultation with the Chief of Engineers, determines that accepting the services is not advantageous to the United States.
+  - **(2)** If the Secretary makes a determination under paragraph (1), the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate written notice describing the reasoning for the determination.
+- **(d)** In exchange for providing services under subsection (a), a non-Federal interest or commercial entity is authorized to retain, use, recycle, sell, or otherwise dispose of any sediment removed in connection with the services and the Corps of Engineers may not seek any compensation for the value of the sediment.
+- **(e)** Prior to accepting services provided by a non-Federal interest or commercial entity under this section, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate written notice of the acceptance of the services.
+- **(f)** Not later than 3 years after October 23, 2018 , the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of the program under this section.

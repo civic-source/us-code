@@ -5,13 +5,13 @@ usc_section: "12620"
 chapter: 129
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12620"
-generated_at: "2026-03-29T00:32:54.274Z"
+generated_at: "2026-03-29T02:15:37.207Z"
 ---
 
 # § 12620. Status of Corps members and Corps personnel under Federal law
 
-(a) Except as otherwise provided in this section, members of the National Civilian Community Corps shall not, by reason of their status as such members, be considered Federal employees or be subject to the provisions of law relating to Federal employment.
-(b) 
-  (1) For purposes of subchapter I of chapter 81 of title 5 relating to the compensation of Federal employees for work injuries, members of the Corps shall be considered as employees of the United States within the meaning of the term “employee”, as defined in section 8101 of such title.
-  (2) In the application of the provisions of subchapter I of chapter 81 of title 5 to a person referred to in paragraph (1), the person shall not be considered to be in the performance of duty while absent from the person’s assigned post of duty unless the absence is authorized in accordance with procedures prescribed by the Director.
-(c) A member of the Corps shall be considered an employee of the United States for purposes of chapter 171 of title 28 relating to tort claims liability and procedure.
+- **(a)** Except as otherwise provided in this section, members of the National Civilian Community Corps shall not, by reason of their status as such members, be considered Federal employees or be subject to the provisions of law relating to Federal employment.
+- **(b)**
+  - **(1)** For purposes of subchapter I of chapter 81 of title 5 relating to the compensation of Federal employees for work injuries, members of the Corps shall be considered as employees of the United States within the meaning of the term “employee”, as defined in section 8101 of such title.
+  - **(2)** In the application of the provisions of subchapter I of chapter 81 of title 5 to a person referred to in paragraph (1), the person shall not be considered to be in the performance of duty while absent from the person’s assigned post of duty unless the absence is authorized in accordance with procedures prescribed by the Director.
+- **(c)** A member of the Corps shall be considered an employee of the United States for purposes of chapter 171 of title 28 relating to tort claims liability and procedure.

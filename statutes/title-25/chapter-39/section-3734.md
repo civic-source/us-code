@@ -5,10 +5,10 @@ usc_section: "3734"
 chapter: 39
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3734"
-generated_at: "2026-03-29T00:30:38.766Z"
+generated_at: "2026-03-29T02:13:20.979Z"
 ---
 
 # § 3734. Obligated service; breach of contract
 
-(a) Where an individual enters into an agreement for obligated service in return for financial assistance under any provision of this subchapter, the Secretary shall adopt such regulations as are necessary to provide for the offer of employment to the recipient of such assistance as required by such provision. Where an offer of employment is not reasonably made, the regulations shall provide that such service shall no longer be required.
-(b) Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service that was performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Secretary of the Treasury.
+- **(a)** Where an individual enters into an agreement for obligated service in return for financial assistance under any provision of this subchapter, the Secretary shall adopt such regulations as are necessary to provide for the offer of employment to the recipient of such assistance as required by such provision. Where an offer of employment is not reasonably made, the regulations shall provide that such service shall no longer be required.
+- **(b)** Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service that was performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Secretary of the Treasury.

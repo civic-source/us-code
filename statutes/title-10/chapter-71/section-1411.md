@@ -5,10 +5,10 @@ usc_section: "1411"
 chapter: 71
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1411"
-generated_at: "2026-03-29T00:20:52.973Z"
+generated_at: "2026-03-29T02:10:45.008Z"
 ---
 
 # § 1411. Rules of construction
 
-(a) For purposes of this chapter and other provisions of law providing for computation of retired or retainer pay of members of the uniformed services, a person shall be considered to first become a member of a uniformed service on the date the person is first enlisted, inducted, or appointed in a uniformed service.
-(b) Section references in tables in this chapter are to sections of this title.
+- **(a)** For purposes of this chapter and other provisions of law providing for computation of retired or retainer pay of members of the uniformed services, a person shall be considered to first become a member of a uniformed service on the date the person is first enlisted, inducted, or appointed in a uniformed service.
+- **(b)** Section references in tables in this chapter are to sections of this title.

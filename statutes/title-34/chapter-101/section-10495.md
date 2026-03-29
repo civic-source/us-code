@@ -5,11 +5,11 @@ usc_section: "10495"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10495"
-generated_at: "2026-03-29T00:32:01.573Z"
+generated_at: "2026-03-29T02:14:25.280Z"
 ---
 
 # § 10495. Award of grants; limitation
 
-(a) In approving grants under this subchapter, the Attorney General shall assure an equitable distribution of assistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
-(b) The Attorney General may award a grant each fiscal year, not to exceed $100,000 to a State or local law enforcement agency or $250,000 to a law enforcement organization for a period not to exceed 5 years. In any application from a State or local law enforcement agency or organization for a grant to continue a program for the second, third, fourth, or fifth fiscal year following the first fiscal year in which a grant was awarded to such agency, the Attorney General shall review the progress made toward meeting the objectives of the program. The Attorney General may refuse to award a grant if the Attorney General finds sufficient progress has not been made toward meeting such objectives, but only after affording the applicant notice and an opportunity for reconsideration.
-(c) Not more than 5 percent of grant funds received by a State or a local law enforcement agency or organization may be used for administrative purposes.
+- **(a)** In approving grants under this subchapter, the Attorney General shall assure an equitable distribution of assistance among the States, among urban and rural areas of the United States, and among urban and rural areas of a State.
+- **(b)** The Attorney General may award a grant each fiscal year, not to exceed $100,000 to a State or local law enforcement agency or $250,000 to a law enforcement organization for a period not to exceed 5 years. In any application from a State or local law enforcement agency or organization for a grant to continue a program for the second, third, fourth, or fifth fiscal year following the first fiscal year in which a grant was awarded to such agency, the Attorney General shall review the progress made toward meeting the objectives of the program. The Attorney General may refuse to award a grant if the Attorney General finds sufficient progress has not been made toward meeting such objectives, but only after affording the applicant notice and an opportunity for reconsideration.
+- **(c)** Not more than 5 percent of grant funds received by a State or a local law enforcement agency or organization may be used for administrative purposes.

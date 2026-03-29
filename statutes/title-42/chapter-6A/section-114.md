@@ -5,7 +5,7 @@ usc_section: "114"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-29T00:32:53.141Z"
+generated_at: "2026-03-29T02:15:35.915Z"
 ---
 
 # § 300gg–114. Maintenance of price comparison tool

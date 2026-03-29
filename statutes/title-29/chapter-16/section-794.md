@@ -5,24 +5,24 @@ usc_section: "794"
 chapter: 16
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 794"
-generated_at: "2026-03-29T00:31:27.602Z"
+generated_at: "2026-03-29T02:14:09.396Z"
 ---
 
 # § 794. Nondiscrimination under Federal grants and programs
 
-(a) No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title , shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
-(b) For the purposes of this section, the term “program or activity” means all of the operations of—
-  (1) 
-    (A) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
-    (B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
-  (2) 
-    (A) a college, university, or other postsecondary institution, or a public system of higher education; or
-    (B) a local educational agency (as defined in section 7801 of title 20 ), system of career and technical education, or other school system;
-  (3) 
-    (A) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
-      (i) if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
-      (ii) which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
-    (B) the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
-  (4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
-(c) Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
-(d) The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.
+- **(a)** No otherwise qualified individual with a disability in the United States, as defined in section 705(20) of this title , shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
+- **(b)** For the purposes of this section, the term “program or activity” means all of the operations of—
+  - **(1)**
+    - **(A)** a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
+    - **(B)** the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
+  - **(2)**
+    - **(A)** a college, university, or other postsecondary institution, or a public system of higher education; or
+    - **(B)** a local educational agency (as defined in section 7801 of title 20 ), system of career and technical education, or other school system;
+  - **(3)**
+    - **(A)** an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
+      - **(i)** if assistance is extended to such corporation, partnership, private organization, or sole proprietorship as a whole; or
+      - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
+    - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
+  - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+- **(c)** Small providers are not required by subsection (a) to make significant structural alterations to their existing facilities for the purpose of assuring program accessibility, if alternative means of providing the services are available. The terms used in this subsection shall be construed with reference to the regulations existing on March 22, 1988 .
+- **(d)** The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, 1 1 See References in Text note below. of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12201–122 04 and 12210), as such sections relate to employment.

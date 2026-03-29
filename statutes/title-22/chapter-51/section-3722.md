@@ -5,7 +5,7 @@ usc_section: "3722"
 chapter: 51
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3722"
-generated_at: "2026-03-29T00:30:33.888Z"
+generated_at: "2026-03-29T02:12:40.298Z"
 ---
 
 # § 3722. Repealed. Pub. L. 104–66, title II, § 2201(a) , Dec. 21, 1995 , 109 Stat. 732

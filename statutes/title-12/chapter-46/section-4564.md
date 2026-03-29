@@ -5,13 +5,13 @@ usc_section: "4564"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4564"
-generated_at: "2026-03-29T00:29:16.830Z"
+generated_at: "2026-03-29T02:11:21.203Z"
 ---
 
 # § 4564. Discretionary adjustment of housing goals
 
-(a) An enterprise may petition the Director in writing at any time during a year to reduce the level of any goal or subgoal for such year established pursuant to this subpart.
-(b) The Director may reduce the level for a goal or subgoal pursuant to such a petition only if—
-  (1) market and economic conditions or the financial condition of the enterprise require such action; or
-  (2) efforts to meet the goal or subgoal would result in the constraint of liquidity, over-investment in certain market segments, or other consequences contrary to the intent of this subpart, or section 1716(3) of this title or section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1451 note), as applicable.
-(c) The Director shall, promptly upon receipt of a petition regarding a reduction, seek public comment on the reduction for a period of 30 days. The Director shall make a determination regarding any proposed reduction within 30 days after the expiration of such public comment period. The Director may extend such determination period for a single additional 15-day period, but only if the Director requests additional information from the enterprise.
+- **(a)** An enterprise may petition the Director in writing at any time during a year to reduce the level of any goal or subgoal for such year established pursuant to this subpart.
+- **(b)** The Director may reduce the level for a goal or subgoal pursuant to such a petition only if—
+  - **(1)** market and economic conditions or the financial condition of the enterprise require such action; or
+  - **(2)** efforts to meet the goal or subgoal would result in the constraint of liquidity, over-investment in certain market segments, or other consequences contrary to the intent of this subpart, or section 1716(3) of this title or section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act ( 12 U.S.C. 1451 note), as applicable.
+- **(c)** The Director shall, promptly upon receipt of a petition regarding a reduction, seek public comment on the reduction for a period of 30 days. The Director shall make a determination regarding any proposed reduction within 30 days after the expiration of such public comment period. The Director may extend such determination period for a single additional 15-day period, but only if the Director requests additional information from the enterprise.

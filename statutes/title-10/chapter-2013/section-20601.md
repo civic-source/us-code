@@ -5,11 +5,11 @@ usc_section: "20601"
 chapter: 2013
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 20601"
-generated_at: "2026-03-29T00:20:53.309Z"
+generated_at: "2026-03-29T02:10:45.401Z"
 ---
 
 # § 20601. Officers: voluntary retirement for length of service
 
-(a) The Secretary of the Air Force may, upon the officer’s request, retire a commissioned officer of the Space Force who has at least 20 years of service computed under section 20602 of this title , at least 10 years of which have been active service as a commissioned officer.
-(b) A commissioned officer of the Space Force who has at least 30 years of service computed under section 20602 of this title may be retired upon the officer’s request, in the discretion of the President.
-(c) Except as provided in section 20503 of this title , a commissioned officer of the Space Force who has at least 40 years of service computed under section 20602 of this title shall be retired upon the officer’s request.
+- **(a)** The Secretary of the Air Force may, upon the officer’s request, retire a commissioned officer of the Space Force who has at least 20 years of service computed under section 20602 of this title , at least 10 years of which have been active service as a commissioned officer.
+- **(b)** A commissioned officer of the Space Force who has at least 30 years of service computed under section 20602 of this title may be retired upon the officer’s request, in the discretion of the President.
+- **(c)** Except as provided in section 20503 of this title , a commissioned officer of the Space Force who has at least 40 years of service computed under section 20602 of this title shall be retired upon the officer’s request.

@@ -5,13 +5,13 @@ usc_section: "5291"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5291"
-generated_at: "2026-03-29T00:31:20.988Z"
+generated_at: "2026-03-29T02:14:01.261Z"
 ---
 
 # § 5291. General
 
-(a) Every person disposing of any substance of the character used in the manufacture of distilled spirits, or disposing of denatured distilled spirits or articles from which distilled spirits may be recovered, shall, when required by the Secretary, render a correct return, in such form and manner as the Secretary may by regulations prescribe, showing the name and address of the person to whom each disposition was made, with such details, as to the quantity so disposed of or other information which the Secretary may require as to each such disposition, as will enable the Secretary to determine whether all taxes due with respect to any distilled spirits manufactured or recovered from any such substance, denatured, distilled spirits, or articles, have been paid. Every person required to render a return under this section shall keep such records as will enable such person to render a correct return. Such records shall be preserved for such period as the Secretary shall by regulations prescribe, and shall be kept available for inspection by any internal revenue officer during business hours.
-(b) 
-  (1) For the definition of distilled spirits, see section 5002(a)(8).
-  (2) For the definition of articles, see section 5002(a)(14).
-  (3) For penalty for violation of subsection (a), see section 5605.
+- **(a)** Every person disposing of any substance of the character used in the manufacture of distilled spirits, or disposing of denatured distilled spirits or articles from which distilled spirits may be recovered, shall, when required by the Secretary, render a correct return, in such form and manner as the Secretary may by regulations prescribe, showing the name and address of the person to whom each disposition was made, with such details, as to the quantity so disposed of or other information which the Secretary may require as to each such disposition, as will enable the Secretary to determine whether all taxes due with respect to any distilled spirits manufactured or recovered from any such substance, denatured, distilled spirits, or articles, have been paid. Every person required to render a return under this section shall keep such records as will enable such person to render a correct return. Such records shall be preserved for such period as the Secretary shall by regulations prescribe, and shall be kept available for inspection by any internal revenue officer during business hours.
+- **(b)**
+  - **(1)** For the definition of distilled spirits, see section 5002(a)(8).
+  - **(2)** For the definition of articles, see section 5002(a)(14).
+  - **(3)** For penalty for violation of subsection (a), see section 5605.

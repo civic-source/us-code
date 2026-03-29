@@ -5,13 +5,13 @@ usc_section: "2996g"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2996g"
-generated_at: "2026-03-29T00:32:53.798Z"
+generated_at: "2026-03-29T02:15:36.627Z"
 ---
 
 # § 2996g. Records and reports
 
-(a) The Corporation is authorized to require such reports as it deems necessary from any grantee, contractor, or person or entity receiving financial assistance under this subchapter regarding activities carried out pursuant to this subchapter.
-(b) The Corporation is authorized to prescribe the keeping of records with respect to funds provided by grant or contract and shall have access to such records at all reasonable times for the purpose of insuring compliance with the grant or contract or the terms and conditions upon which financial assistance was provided.
-(c) The Corporation shall publish an annual report which shall be filed by the Corporation with the President and the Congress. Such report shall include a description of services provided pursuant to section 2996f(a)(2)(C)(i) and (ii) of this title.
-(d) Copies of all reports pertinent to the evaluation, inspection, or monitoring of any grantee, contractor, or person or entity receiving financial assistance under this subchapter shall be submitted on a timely basis to such grantee, contractor, or person or entity, and shall be maintained in the principal office of the Corporation for a period of at least five years subsequent to such evaluation, inspection, or monitoring. Such reports shall be available for public inspection during regular business hours, and copies shall be furnished, upon request, to interested parties upon payment of such reasonable fees as the Corporation may establish.
-(e) The Corporation shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, and guidelines, and it shall publish in the Federal Register at least 30 days prior to their effective date all its rules, regulations, guidelines, and instructions.
+- **(a)** The Corporation is authorized to require such reports as it deems necessary from any grantee, contractor, or person or entity receiving financial assistance under this subchapter regarding activities carried out pursuant to this subchapter.
+- **(b)** The Corporation is authorized to prescribe the keeping of records with respect to funds provided by grant or contract and shall have access to such records at all reasonable times for the purpose of insuring compliance with the grant or contract or the terms and conditions upon which financial assistance was provided.
+- **(c)** The Corporation shall publish an annual report which shall be filed by the Corporation with the President and the Congress. Such report shall include a description of services provided pursuant to section 2996f(a)(2)(C)(i) and (ii) of this title.
+- **(d)** Copies of all reports pertinent to the evaluation, inspection, or monitoring of any grantee, contractor, or person or entity receiving financial assistance under this subchapter shall be submitted on a timely basis to such grantee, contractor, or person or entity, and shall be maintained in the principal office of the Corporation for a period of at least five years subsequent to such evaluation, inspection, or monitoring. Such reports shall be available for public inspection during regular business hours, and copies shall be furnished, upon request, to interested parties upon payment of such reasonable fees as the Corporation may establish.
+- **(e)** The Corporation shall afford notice and reasonable opportunity for comment to interested parties prior to issuing rules, regulations, and guidelines, and it shall publish in the Federal Register at least 30 days prior to their effective date all its rules, regulations, guidelines, and instructions.

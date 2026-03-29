@@ -5,16 +5,16 @@ usc_section: "1741e"
 chapter: 23
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1741e"
-generated_at: "2026-03-29T00:30:33.741Z"
+generated_at: "2026-03-29T02:12:40.011Z"
 ---
 
 # § 1741e. Definitions
 
 In this subchapter:
 
-  (1) The term “appropriate congressional committees” means—
-    (A) the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on the Judiciary, the Committee on Armed Services, and the Select Committee on Intelligence of the United States Senate; and
-    (B) the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Financial Services, the Committee on the Judiciary, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
-  (2) The term “United States national” means—
-    (A) a United States national as defined in section 1101(a)(22) or section 1408 of title 8 ; and
-    (B) a lawful permanent resident alien with significant ties to the United States.
+  - **(1)** The term “appropriate congressional committees” means—
+    - **(A)** the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on the Judiciary, the Committee on Armed Services, and the Select Committee on Intelligence of the United States Senate; and
+    - **(B)** the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Financial Services, the Committee on the Judiciary, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+  - **(2)** The term “United States national” means—
+    - **(A)** a United States national as defined in section 1101(a)(22) or section 1408 of title 8 ; and
+    - **(B)** a lawful permanent resident alien with significant ties to the United States.

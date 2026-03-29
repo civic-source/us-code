@@ -5,7 +5,7 @@ usc_section: "632"
 chapter: 14
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 632"
-generated_at: "2026-03-29T00:31:27.573Z"
+generated_at: "2026-03-29T02:14:09.376Z"
 ---
 
 # § 632. Omitted

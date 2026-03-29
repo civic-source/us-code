@@ -5,7 +5,7 @@ usc_section: "42"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 42"
-generated_at: "2026-03-29T00:06:10.859Z"
+generated_at: "2026-03-29T02:09:53.628Z"
 ---
 
 # §§ 41, 42. Repealed. Pub. L. 104–186, title II, § 203(9)(A) , (10), Aug. 20, 1996 , 110 Stat. 1726

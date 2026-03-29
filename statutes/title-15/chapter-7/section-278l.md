@@ -5,13 +5,13 @@ usc_section: "278l"
 chapter: 7
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 278l"
-generated_at: "2026-03-29T00:29:41.569Z"
+generated_at: "2026-03-29T02:11:34.016Z"
 ---
 
 # § 278l. Assistance to State technology programs
 
-(a) In addition to the Hollings Manufacturing Extension Partnership under section 278k of this title , the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
-(b) Such assistance from the Institute to State technology programs shall include, but not be limited to—
-  (1) technical information and advice from Institute personnel;
-  (2) workshops and seminars for State officials interested in transferring Federal technology to businesses; and
-  (3) entering into cooperative agreements when authorized to do so under this chapter or any other Act.
+- **(a)** In addition to the Hollings Manufacturing Extension Partnership under section 278k of this title , the Secretary, through the Director and, if appropriate, through other officials, shall provide technical assistance to State technology programs throughout the United States, in order to help those programs help businesses, particularly small- and medium-sized businesses, to enhance their competitiveness through the application of science and technology.
+- **(b)** Such assistance from the Institute to State technology programs shall include, but not be limited to—
+  - **(1)** technical information and advice from Institute personnel;
+  - **(2)** workshops and seminars for State officials interested in transferring Federal technology to businesses; and
+  - **(3)** entering into cooperative agreements when authorized to do so under this chapter or any other Act.

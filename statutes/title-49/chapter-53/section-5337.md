@@ -5,87 +5,87 @@ usc_section: "5337"
 chapter: 53
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5337"
-generated_at: "2026-03-29T00:33:13.749Z"
+generated_at: "2026-03-29T02:16:08.890Z"
 ---
 
 # § 5337. State of good repair grants
 
-(a) In this section, the following definitions shall apply:
-  (1) The term “fixed guideway” means a public transportation facility—
-    (A) using and occupying a separate right-of-way for the exclusive use of public transportation;
-    (B) using rail;
-    (C) using a fixed catenary system;
-    (D) for a passenger ferry system; or
-    (E) for a bus rapid transit system.
-  (2) The term “State” means the 50 States, the District of Columbia, and Puerto Rico.
-  (3) The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
-  (4) The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
-    (A) includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
-    (B) the recipient certifies that the recipient complies with the rule issued under section 5326(d).
-(b) 
-  (1) The Secretary may make grants under this section to assist State and local governmental authorities in financing capital projects to maintain public transportation systems in a state of good repair, including projects to replace and rehabilitate—
-    (A) rolling stock;
-    (B) track;
-    (C) line equipment and structures;
-    (D) signals and communications;
-    (E) power equipment and substations;
-    (F) passenger stations and terminals;
-    (G) security equipment and systems;
-    (H) maintenance facilities and equipment;
-    (I) operational support equipment, including computer hardware and software;
-    (J) development and implementation of a transit asset management plan; and
-    (K) other replacement and rehabilitation projects the Secretary determines appropriate.
-  (2) A recipient shall include a project carried out under paragraph (1) in the transit asset management plan of the recipient upon completion of the plan.
-(c) 
-  (1) Of the amount authorized or made available under section 5338(a)(2)(K), 1 1 See References in Text note below. 97.15 percent shall be apportioned to recipients in accordance with this subsection.
-  (2) 
-    (A) 50 percent of the amount described in paragraph (1) shall be apportioned for fixed guideway systems in accordance with this paragraph.
-    (B) A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with the provisions of section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
-    (C) For purposes of this paragraph, the term “recipient” means an entity that received funding under this section, as in effect for fiscal year 2011.
-  (3) 
-    (A) 50 percent of the amount described in paragraph (1) shall be apportioned to recipients in accordance with this paragraph.
-    (B) A recipient in an urbanized area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway vehicle revenue miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all urbanized areas.
-    (C) A recipient in an urbanized area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway directional route miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all urbanized areas.
-  (4) 
-    (A) Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
-    (B) In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share that would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term “fixed guideway” under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
-  (5) Amounts made available under this subsection shall be available for the exclusive use of fixed guideway projects.
-  (6) 
-    (A) Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
-    (B) An area described in the amendment made by section 3028(a) of the Transportation Equity Act for the 21st Century ( Public Law 105–178 ; 112 Stat. 366 ) shall receive an individual apportionment under this subsection.
-  (7) For purposes of determining the number of fixed guideway vehicle revenue miles or fixed guideway directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of fixed guideway systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
-(d) 
-  (1) For purposes of this subsection, the term “high intensity motorbus” means public transportation that is provided on a facility with access for other high-occupancy vehicles.
-  (2) Of the amount authorized or made available under section 5338(a)(2)(K), 1 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
-  (3) 
-    (A) The amount described in paragraph (2) shall be apportioned to each area in accordance with this paragraph.
-    (B) Each area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus vehicle revenue miles attributable to all areas.
-    (C) Each area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus directional route miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus directional route miles attributable to all areas.
-  (4) For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
-  (5) Amounts apportioned under this subsection may be used for any project that is an eligible project under subsection (b)(1).
-(e) 
-  (1) A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
-  (2) The remainder of the net project cost shall be provided—
-    (A) in cash from non-Government sources;
-    (B) from revenues derived from the sale of advertising and concessions; or
-    (C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
-(f) 
-  (1) The Secretary may make grants under this subsection to assist State and local governmental authorities in financing capital projects for the replacement of rail rolling stock.
-  (2) Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (b).
-  (3) The Secretary shall solicit grant applications and make not more than 3 new awards to eligible projects under this subsection on a competitive basis each fiscal year.
-  (4) In awarding grants under this subsection, the Secretary shall consider—
-    (A) the size of the rail system of the applicant;
-    (B) the amount of funds available to the applicant under this subsection;
-    (C) the age and condition of the rail rolling stock of the applicant that has exceeded or will exceed the useful service life of the rail rolling stock in the 5-year period following the grant; and
-    (D) whether the applicant has identified replacement of the rail vehicles as a priority in the investment prioritization portion of the transit asset management plan of the recipient pursuant to part 625 of title 49, Code of Federal Regulations (or successor regulations).
-  (5) The amount of grant assistance provided by the Secretary under this subsection, as a share of eligible project costs, shall be not more than 50 percent.
-  (6) The Government share of the cost of an eligible project carried out under this subsection shall not exceed 80 percent.
-  (7) 
-    (A) An eligible project for which a grant is provided under this subsection may be carried out through a multi-year grant agreement in accordance with this paragraph.
-    (B) A multi-year grant agreement under this paragraph shall—
-      (i) establish the terms of participation by the Federal Government in the project; and
-      (ii) establish the maximum amount of Federal financial assistance for the project that may be provided through grant payments to be provided in not more than 3 consecutive fiscal years.
-    (C) A multi-year grant agreement under this paragraph—
-      (i) shall obligate an amount of available budget authority specified in law; and
-      (ii) may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
-    (D) A multi-year agreement under this paragraph shall state that the contingent commitment is not an obligation of the Federal Government.
+- **(a)** In this section, the following definitions shall apply:
+  - **(1)** The term “fixed guideway” means a public transportation facility—
+    - **(A)** using and occupying a separate right-of-way for the exclusive use of public transportation;
+    - **(B)** using rail;
+    - **(C)** using a fixed catenary system;
+    - **(D)** for a passenger ferry system; or
+    - **(E)** for a bus rapid transit system.
+  - **(2)** The term “State” means the 50 States, the District of Columbia, and Puerto Rico.
+  - **(3)** The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
+  - **(4)** The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
+    - **(A)** includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
+    - **(B)** the recipient certifies that the recipient complies with the rule issued under section 5326(d).
+- **(b)**
+  - **(1)** The Secretary may make grants under this section to assist State and local governmental authorities in financing capital projects to maintain public transportation systems in a state of good repair, including projects to replace and rehabilitate—
+    - **(A)** rolling stock;
+    - **(B)** track;
+    - **(C)** line equipment and structures;
+    - **(D)** signals and communications;
+    - **(E)** power equipment and substations;
+    - **(F)** passenger stations and terminals;
+    - **(G)** security equipment and systems;
+    - **(H)** maintenance facilities and equipment;
+    - **(I)** operational support equipment, including computer hardware and software;
+    - **(J)** development and implementation of a transit asset management plan; and
+    - **(K)** other replacement and rehabilitation projects the Secretary determines appropriate.
+  - **(2)** A recipient shall include a project carried out under paragraph (1) in the transit asset management plan of the recipient upon completion of the plan.
+- **(c)**
+  - **(1)** Of the amount authorized or made available under section 5338(a)(2)(K), 1 1 See References in Text note below. 97.15 percent shall be apportioned to recipients in accordance with this subsection.
+  - **(2)**
+    - **(A)** 50 percent of the amount described in paragraph (1) shall be apportioned for fixed guideway systems in accordance with this paragraph.
+    - **(B)** A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with the provisions of section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
+    - **(C)** For purposes of this paragraph, the term “recipient” means an entity that received funding under this section, as in effect for fiscal year 2011.
+  - **(3)**
+    - **(A)** 50 percent of the amount described in paragraph (1) shall be apportioned to recipients in accordance with this paragraph.
+    - **(B)** A recipient in an urbanized area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway vehicle revenue miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all urbanized areas.
+    - **(C)** A recipient in an urbanized area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway directional route miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all urbanized areas.
+  - **(4)**
+    - **(A)** Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
+    - **(B)** In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share that would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term “fixed guideway” under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
+  - **(5)** Amounts made available under this subsection shall be available for the exclusive use of fixed guideway projects.
+  - **(6)**
+    - **(A)** Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
+    - **(B)** An area described in the amendment made by section 3028(a) of the Transportation Equity Act for the 21st Century ( Public Law 105–178 ; 112 Stat. 366 ) shall receive an individual apportionment under this subsection.
+  - **(7)** For purposes of determining the number of fixed guideway vehicle revenue miles or fixed guideway directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of fixed guideway systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
+- **(d)**
+  - **(1)** For purposes of this subsection, the term “high intensity motorbus” means public transportation that is provided on a facility with access for other high-occupancy vehicles.
+  - **(2)** Of the amount authorized or made available under section 5338(a)(2)(K), 1 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus vehicle state of good repair in accordance with this subsection.
+  - **(3)**
+    - **(A)** The amount described in paragraph (2) shall be apportioned to each area in accordance with this paragraph.
+    - **(B)** Each area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus vehicle revenue miles attributable to all areas.
+    - **(C)** Each area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus directional route miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus directional route miles attributable to all areas.
+  - **(4)** For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
+  - **(5)** Amounts apportioned under this subsection may be used for any project that is an eligible project under subsection (b)(1).
+- **(e)**
+  - **(1)** A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
+  - **(2)** The remainder of the net project cost shall be provided—
+    - **(A)** in cash from non-Government sources;
+    - **(B)** from revenues derived from the sale of advertising and concessions; or
+    - **(C)** from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+- **(f)**
+  - **(1)** The Secretary may make grants under this subsection to assist State and local governmental authorities in financing capital projects for the replacement of rail rolling stock.
+  - **(2)** Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (b).
+  - **(3)** The Secretary shall solicit grant applications and make not more than 3 new awards to eligible projects under this subsection on a competitive basis each fiscal year.
+  - **(4)** In awarding grants under this subsection, the Secretary shall consider—
+    - **(A)** the size of the rail system of the applicant;
+    - **(B)** the amount of funds available to the applicant under this subsection;
+    - **(C)** the age and condition of the rail rolling stock of the applicant that has exceeded or will exceed the useful service life of the rail rolling stock in the 5-year period following the grant; and
+    - **(D)** whether the applicant has identified replacement of the rail vehicles as a priority in the investment prioritization portion of the transit asset management plan of the recipient pursuant to part 625 of title 49, Code of Federal Regulations (or successor regulations).
+  - **(5)** The amount of grant assistance provided by the Secretary under this subsection, as a share of eligible project costs, shall be not more than 50 percent.
+  - **(6)** The Government share of the cost of an eligible project carried out under this subsection shall not exceed 80 percent.
+  - **(7)**
+    - **(A)** An eligible project for which a grant is provided under this subsection may be carried out through a multi-year grant agreement in accordance with this paragraph.
+    - **(B)** A multi-year grant agreement under this paragraph shall—
+      - **(i)** establish the terms of participation by the Federal Government in the project; and
+      - **(ii)** establish the maximum amount of Federal financial assistance for the project that may be provided through grant payments to be provided in not more than 3 consecutive fiscal years.
+    - **(C)** A multi-year grant agreement under this paragraph—
+      - **(i)** shall obligate an amount of available budget authority specified in law; and
+      - **(ii)** may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
+    - **(D)** A multi-year agreement under this paragraph shall state that the contingent commitment is not an obligation of the Federal Government.

@@ -5,13 +5,13 @@ usc_section: "322"
 chapter: 3
 current_through: "PL 119-73"
 classification: "32 U.S.C. § 322"
-generated_at: "2026-03-29T00:31:53.405Z"
+generated_at: "2026-03-29T02:14:14.593Z"
 ---
 
 # § 322. Discharge of enlisted members
 
-(a) An enlisted member of the National Guard shall be discharged when—
-  (1) he becomes 64 years of age; or
-  (2) his Federal recognition is withdrawn.
-(b) An enlisted member who is discharged from the National Guard is entitled to a discharge certificate similar in form and classification to the corresponding certificate prescribed for members of the Regular Army or the Regular Air Force, as the case may be.
-(c) In time of peace, an enlisted member of the National Guard may be discharged before his enlistment expires, under such regulations as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be.
+- **(a)** An enlisted member of the National Guard shall be discharged when—
+  - **(1)** he becomes 64 years of age; or
+  - **(2)** his Federal recognition is withdrawn.
+- **(b)** An enlisted member who is discharged from the National Guard is entitled to a discharge certificate similar in form and classification to the corresponding certificate prescribed for members of the Regular Army or the Regular Air Force, as the case may be.
+- **(c)** In time of peace, an enlisted member of the National Guard may be discharged before his enlistment expires, under such regulations as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be.

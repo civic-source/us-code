@@ -5,7 +5,7 @@ usc_section: "5355"
 chapter: 46
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 5355"
-generated_at: "2026-03-29T00:30:38.796Z"
+generated_at: "2026-03-29T02:13:21.011Z"
 ---
 
 # § 5355. Eligibility for funds of tribe or tribal organization controlling or managing private schools

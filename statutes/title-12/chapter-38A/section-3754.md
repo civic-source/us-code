@@ -5,15 +5,15 @@ usc_section: "3754"
 chapter: 38
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3754"
-generated_at: "2026-03-29T00:29:16.796Z"
+generated_at: "2026-03-29T02:11:21.173Z"
 ---
 
 # § 3754. Designation of foreclosure commissioner
 
-(a) The Secretary may designate a person or persons to serve as a foreclosure commissioner or commissioners for the purpose of foreclosing upon a single family mortgage.
-(b) A foreclosure commissioner designated under this section shall have a nonjudicial power of sale.
-(c) The foreclosure commissioner, if a natural person, shall be a resident of the State in which the security property is located and, if not a natural person, the foreclosure commissioner must be duly authorized to transact business under laws of the State in which the security property is located. No person shall be designated as a foreclosure commissioner unless that person is responsible, financially sound, and competent to conduct a foreclosure.
-(d) 
-  (1) The Secretary may designate a foreclosure commissioner by executing a written designation stating the name and business or residential address of the commissioner, except that if a person is designated in his or her capacity as an official or employee of a government or corporate entity, such person may be designated by his or her unique title or position instead of by name.
-  (2) The Secretary may, with or without cause, designate a substitute foreclosure commissioner to replace a previously designated foreclosure commissioner.
-  (3) More than 1 foreclosure commissioner may be designated at any time.
+- **(a)** The Secretary may designate a person or persons to serve as a foreclosure commissioner or commissioners for the purpose of foreclosing upon a single family mortgage.
+- **(b)** A foreclosure commissioner designated under this section shall have a nonjudicial power of sale.
+- **(c)** The foreclosure commissioner, if a natural person, shall be a resident of the State in which the security property is located and, if not a natural person, the foreclosure commissioner must be duly authorized to transact business under laws of the State in which the security property is located. No person shall be designated as a foreclosure commissioner unless that person is responsible, financially sound, and competent to conduct a foreclosure.
+- **(d)**
+  - **(1)** The Secretary may designate a foreclosure commissioner by executing a written designation stating the name and business or residential address of the commissioner, except that if a person is designated in his or her capacity as an official or employee of a government or corporate entity, such person may be designated by his or her unique title or position instead of by name.
+  - **(2)** The Secretary may, with or without cause, designate a substitute foreclosure commissioner to replace a previously designated foreclosure commissioner.
+  - **(3)** More than 1 foreclosure commissioner may be designated at any time.

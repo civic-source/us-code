@@ -5,7 +5,7 @@ usc_section: "280"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 280"
-generated_at: "2026-03-29T00:30:33.669Z"
+generated_at: "2026-03-29T02:12:39.949Z"
 ---
 
 # § 280. Representation in South Pacific Commission; appointment of commissioners and alternates

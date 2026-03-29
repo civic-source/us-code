@@ -5,7 +5,7 @@ usc_section: "10010"
 chapter: 80
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 10010"
-generated_at: "2026-03-29T00:07:03.211Z"
+generated_at: "2026-03-29T02:12:17.539Z"
 ---
 
 # § 10010. Secretary’s report to Congress

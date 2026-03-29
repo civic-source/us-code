@@ -5,13 +5,13 @@ usc_section: "20202"
 chapter: 2005
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 20202"
-generated_at: "2026-03-29T00:20:53.305Z"
+generated_at: "2026-03-29T02:10:45.394Z"
 ---
 
 # § 20202. Original appointments: qualifications
 
-(a) An original appointment as a commissioned officer in the Space Force may be given only to a person who—
-  (1) is a citizen of the United States;
-  (2) is at least 18 years of age; and
-  (3) has such other physical, mental, moral, professional, and age qualifications as the Secretary of the Air Force may prescribe by regulation.
-(b) A person who is otherwise qualified, but who has a physical condition that the Secretary of the Air Force determines will not interfere with the performance of the duties to which that person may be assigned, may be appointed as an officer in the Space Force.
+- **(a)** An original appointment as a commissioned officer in the Space Force may be given only to a person who—
+  - **(1)** is a citizen of the United States;
+  - **(2)** is at least 18 years of age; and
+  - **(3)** has such other physical, mental, moral, professional, and age qualifications as the Secretary of the Air Force may prescribe by regulation.
+- **(b)** A person who is otherwise qualified, but who has a physical condition that the Secretary of the Air Force determines will not interfere with the performance of the duties to which that person may be assigned, may be appointed as an officer in the Space Force.

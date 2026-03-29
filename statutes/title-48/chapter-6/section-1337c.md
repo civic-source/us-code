@@ -5,7 +5,7 @@ usc_section: "1337c"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1337c"
-generated_at: "2026-03-29T00:33:06.602Z"
+generated_at: "2026-03-29T02:16:00.801Z"
 ---
 
 # §§ 1337a to 1337c. Omitted

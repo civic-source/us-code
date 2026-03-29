@@ -5,7 +5,7 @@ usc_section: "38"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 38"
-generated_at: "2026-03-29T00:30:33.666Z"
+generated_at: "2026-03-29T02:12:39.947Z"
 ---
 
 # § 277d–38. Acquired land, addition to State; State jurisdiction

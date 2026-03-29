@@ -5,7 +5,7 @@ usc_section: "379o"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 379o"
-generated_at: "2026-03-29T00:30:24.292Z"
+generated_at: "2026-03-29T02:12:28.098Z"
 ---
 
 # § 379o. Environmental impact

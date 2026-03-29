@@ -5,7 +5,7 @@ usc_section: "8122"
 chapter: 81
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 8122"
-generated_at: "2026-03-29T00:32:20.563Z"
+generated_at: "2026-03-29T02:14:58.799Z"
 ---
 
 # § 8122. Jurisdiction over portion of Constitution Avenue

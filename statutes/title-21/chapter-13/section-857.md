@@ -5,7 +5,7 @@ usc_section: "857"
 chapter: 13
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 857"
-generated_at: "2026-03-29T00:30:24.343Z"
+generated_at: "2026-03-29T02:12:28.156Z"
 ---
 
 # § 857. Repealed. Pub. L. 101–647, title XXIV, § 2401(d) , Nov. 29, 1990 , 104 Stat. 4859

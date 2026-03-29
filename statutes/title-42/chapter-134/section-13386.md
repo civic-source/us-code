@@ -5,7 +5,7 @@ usc_section: "13386"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13386"
-generated_at: "2026-03-29T00:32:54.319Z"
+generated_at: "2026-03-29T02:15:37.261Z"
 ---
 
 # § 13386. Export of domestic energy resource technologies to developing countries

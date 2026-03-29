@@ -5,19 +5,19 @@ usc_section: "345"
 chapter: 3
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 345"
-generated_at: "2026-03-29T00:28:59.931Z"
+generated_at: "2026-03-29T02:10:54.312Z"
 ---
 
 # § 345. Money of estates
 
-(a) A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves as will yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
-(b) Except with respect to a deposit or investment that is insured or guaranteed by the United States or by a department, agency, or instrumentality of the United States or backed by the full faith and credit of the United States, the trustee shall require from an entity with which such money is deposited or invested—
-  (1) a bond—
-    (A) in favor of the United States;
-    (B) secured by the undertaking of a corporate surety approved by the United States trustee for the district in which the case is pending; and
-    (C) conditioned on—
-      (i) a proper accounting for all money so deposited or invested and for any return on such money;
-      (ii) prompt repayment of such money and return; and
-      (iii) faithful performance of duties as a depository; or
-  (2) the deposit of securities of the kind specified in section 9303 of title 31 ;
-(c) An entity with which such moneys are deposited or invested is authorized to deposit or invest such moneys as may be required under this section.
+- **(a)** A trustee in a case under this title may make such deposit or investment of the money of the estate for which such trustee serves as will yield the maximum reasonable net return on such money, taking into account the safety of such deposit or investment.
+- **(b)** Except with respect to a deposit or investment that is insured or guaranteed by the United States or by a department, agency, or instrumentality of the United States or backed by the full faith and credit of the United States, the trustee shall require from an entity with which such money is deposited or invested—
+  - **(1)** a bond—
+    - **(A)** in favor of the United States;
+    - **(B)** secured by the undertaking of a corporate surety approved by the United States trustee for the district in which the case is pending; and
+    - **(C)** conditioned on—
+      - **(i)** a proper accounting for all money so deposited or invested and for any return on such money;
+      - **(ii)** prompt repayment of such money and return; and
+      - **(iii)** faithful performance of duties as a depository; or
+  - **(2)** the deposit of securities of the kind specified in section 9303 of title 31 ;
+- **(c)** An entity with which such moneys are deposited or invested is authorized to deposit or invest such moneys as may be required under this section.

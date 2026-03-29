@@ -5,14 +5,14 @@ usc_section: "7517"
 chapter: 77
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7517"
-generated_at: "2026-03-29T00:31:21.096Z"
+generated_at: "2026-03-29T02:14:01.392Z"
 ---
 
 # § 7517. Furnishing on request of statement explaining estate or gift valuation
 
-(a) If the Secretary makes a determination or a proposed determination of the value of an item of property for purposes of the tax imposed under chapter 11, 12, or 13, he shall furnish, on the written request of the executor, donor, or the person required to make the return of the tax imposed by chapter 13 (as the case may be), to such executor, donor, or person a written statement containing the material required by subsection (b). Such statement shall be furnished not later than 45 days after the later of the date of such request or the date of such determination or proposed determination.
-(b) A statement required to be furnished under subsection (a) with respect to the value of an item of property shall—
-  (1) explain the basis on which the valuation was determined or proposed,
-  (2) set forth any computation used in arriving at such value, and
-  (3) contain a copy of any expert appraisal made by or for the Secretary.
-(c) Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
+- **(a)** If the Secretary makes a determination or a proposed determination of the value of an item of property for purposes of the tax imposed under chapter 11, 12, or 13, he shall furnish, on the written request of the executor, donor, or the person required to make the return of the tax imposed by chapter 13 (as the case may be), to such executor, donor, or person a written statement containing the material required by subsection (b). Such statement shall be furnished not later than 45 days after the later of the date of such request or the date of such determination or proposed determination.
+- **(b)** A statement required to be furnished under subsection (a) with respect to the value of an item of property shall—
+  - **(1)** explain the basis on which the valuation was determined or proposed,
+  - **(2)** set forth any computation used in arriving at such value, and
+  - **(3)** contain a copy of any expert appraisal made by or for the Secretary.
+- **(c)** Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.

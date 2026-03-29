@@ -5,7 +5,7 @@ usc_section: "2667"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2667"
-generated_at: "2026-03-29T00:30:33.840Z"
+generated_at: "2026-03-29T02:12:40.229Z"
 ---
 
 # §§ 2666, 2667. Repealed. Pub. L. 99–93, title I, § 125(c) , Aug. 16, 1985 , 99 Stat. 417

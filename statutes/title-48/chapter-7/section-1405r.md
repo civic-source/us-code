@@ -5,7 +5,7 @@ usc_section: "1405r"
 chapter: 7
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1405r"
-generated_at: "2026-03-29T00:33:06.607Z"
+generated_at: "2026-03-29T02:16:00.803Z"
 ---
 
 # § 1405r. Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19, 1982 , 96 Stat. 1709

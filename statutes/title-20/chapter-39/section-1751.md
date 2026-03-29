@@ -5,7 +5,7 @@ usc_section: "1751"
 chapter: 39
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 1751"
-generated_at: "2026-03-29T00:07:03.154Z"
+generated_at: "2026-03-29T02:12:17.373Z"
 ---
 
 # § 1751. Prohibition against assignment or transportation of students to overcome racial imbalance

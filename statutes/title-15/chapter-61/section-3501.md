@@ -5,7 +5,7 @@ usc_section: "3501"
 chapter: 61
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3501"
-generated_at: "2026-03-29T00:29:41.834Z"
+generated_at: "2026-03-29T02:11:34.339Z"
 ---
 
 # § 3501. Exclusive territorial licenses to manufacture, distribute, and sell trademarked soft drink products; ultimate resale to consumers; substantial and effective competition

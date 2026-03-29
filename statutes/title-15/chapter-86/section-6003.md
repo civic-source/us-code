@@ -5,7 +5,7 @@ usc_section: "6003"
 chapter: 86
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 6003"
-generated_at: "2026-03-29T00:29:41.883Z"
+generated_at: "2026-03-29T02:11:34.387Z"
 ---
 
 # § 6003. Report to Congress

@@ -5,7 +5,7 @@ usc_section: "4"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-29T00:30:38.668Z"
+generated_at: "2026-03-29T02:13:20.873Z"
 ---
 
 # § 1300n–4. Omitted

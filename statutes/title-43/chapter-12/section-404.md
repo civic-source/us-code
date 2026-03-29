@@ -5,7 +5,7 @@ usc_section: "404"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 404"
-generated_at: "2026-03-29T00:32:57.341Z"
+generated_at: "2026-03-29T02:15:47.539Z"
 ---
 
 # §§ 403, 404. Repealed. June 30, 1947, ch. 166 , title II, § 206(c), 61 Stat. 208

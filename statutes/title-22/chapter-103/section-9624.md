@@ -5,10 +5,10 @@ usc_section: "9624"
 chapter: 103
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9624"
-generated_at: "2026-03-29T00:30:34.060Z"
+generated_at: "2026-03-29T02:12:40.507Z"
 ---
 
 # § 9624. Termination
 
-(a) The authorities provided under this subchapter terminate on December 31, 2031 .
-(b) The Corporation shall terminate on the date on which the portfolio of the Corporation is liquidated.
+- **(a)** The authorities provided under this subchapter terminate on December 31, 2031 .
+- **(b)** The Corporation shall terminate on the date on which the portfolio of the Corporation is liquidated.

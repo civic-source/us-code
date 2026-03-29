@@ -5,36 +5,36 @@ usc_section: "313"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 313"
-generated_at: "2026-03-29T00:06:17.472Z"
+generated_at: "2026-03-29T02:10:04.985Z"
 ---
 
 # § 313. Federal Emergency Management Agency
 
-(a) There is in the Department the Federal Emergency Management Agency, headed by an Administrator.
-(b) 
-  (1) The primary mission of the Agency is to reduce the loss of life and property and protect the Nation from all hazards, including natural disasters, acts of terrorism, and other man-made disasters, by leading and supporting the Nation in a risk-based, comprehensive emergency management system of preparedness, protection, response, recovery, and mitigation.
-  (2) In support of the primary mission of the Agency, the Administrator shall—
-    (A) lead the Nation’s efforts to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents;
-    (B) partner with State, local, and tribal governments and emergency response providers, with other Federal agencies, with the private sector, and with nongovernmental organizations to build a national system of emergency management that can effectively and efficiently utilize the full measure of the Nation’s resources to respond to natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents;
-    (C) develop a Federal response capability that, when necessary and appropriate, can act effectively and rapidly to deliver assistance essential to saving lives or protecting or preserving property or public health and safety in a natural disaster, act of terrorism, or other man-made disaster;
-    (D) integrate the Agency’s emergency preparedness, protection, response, recovery, and mitigation responsibilities to confront effectively the challenges of a natural disaster, act of terrorism, or other man-made disaster;
-    (E) develop and maintain robust Regional Offices that will work with State, local, and tribal governments, emergency response providers, and other appropriate entities to identify and address regional priorities;
-    (F) under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
-    (G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster;
-    (H) develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation; and
-    (I) identify, integrate, and implement the needs of children, including children within under-served communities, into activities to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other disasters, including catastrophic incidents, including by appointing a technical expert, who may consult with relevant outside organizations and experts, as necessary, to coordinate such integration, as necessary.
-(c) 
-  (1) The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
-  (2) The Administrator shall be appointed from among individuals who have—
-    (A) a demonstrated ability in and knowledge of emergency management and homeland security; and
-    (B) not less than 5 years of executive leadership and management experience in the public or private sector.
-  (3) The Administrator shall report to the Secretary, without being required to report through any other official of the Department.
-  (4) 
-    (A) The Administrator is the principal advisor to the President, the Homeland Security Council, and the Secretary for all matters relating to emergency management in the United States.
-    (B) 
-      (i) In presenting advice with respect to any matter to the President, the Homeland Security Council, or the Secretary, the Administrator shall, as the Administrator considers appropriate, inform the President, the Homeland Security Council, or the Secretary, as the case may be, of the range of emergency preparedness, protection, response, recovery, and mitigation options with respect to that matter.
-      (ii) The Administrator, as the principal advisor on emergency management, shall provide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
-      (iii) After informing the Secretary, the Administrator may make such recommendations to Congress relating to emergency management as the Administrator considers appropriate.
-  (5) 
-    (A) The President may designate the Administrator to serve as a member of the Cabinet in the event of natural disasters, acts of terrorism, or other man-made disasters.
-    (B) Nothing in this paragraph shall be construed as affecting the authority of the Secretary under this chapter.
+- **(a)** There is in the Department the Federal Emergency Management Agency, headed by an Administrator.
+- **(b)**
+  - **(1)** The primary mission of the Agency is to reduce the loss of life and property and protect the Nation from all hazards, including natural disasters, acts of terrorism, and other man-made disasters, by leading and supporting the Nation in a risk-based, comprehensive emergency management system of preparedness, protection, response, recovery, and mitigation.
+  - **(2)** In support of the primary mission of the Agency, the Administrator shall—
+    - **(A)** lead the Nation’s efforts to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents;
+    - **(B)** partner with State, local, and tribal governments and emergency response providers, with other Federal agencies, with the private sector, and with nongovernmental organizations to build a national system of emergency management that can effectively and efficiently utilize the full measure of the Nation’s resources to respond to natural disasters, acts of terrorism, and other man-made disasters, including catastrophic incidents;
+    - **(C)** develop a Federal response capability that, when necessary and appropriate, can act effectively and rapidly to deliver assistance essential to saving lives or protecting or preserving property or public health and safety in a natural disaster, act of terrorism, or other man-made disaster;
+    - **(D)** integrate the Agency’s emergency preparedness, protection, response, recovery, and mitigation responsibilities to confront effectively the challenges of a natural disaster, act of terrorism, or other man-made disaster;
+    - **(E)** develop and maintain robust Regional Offices that will work with State, local, and tribal governments, emergency response providers, and other appropriate entities to identify and address regional priorities;
+    - **(F)** under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
+    - **(G)** provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster;
+    - **(H)** develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation; and
+    - **(I)** identify, integrate, and implement the needs of children, including children within under-served communities, into activities to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other disasters, including catastrophic incidents, including by appointing a technical expert, who may consult with relevant outside organizations and experts, as necessary, to coordinate such integration, as necessary.
+- **(c)**
+  - **(1)** The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
+  - **(2)** The Administrator shall be appointed from among individuals who have—
+    - **(A)** a demonstrated ability in and knowledge of emergency management and homeland security; and
+    - **(B)** not less than 5 years of executive leadership and management experience in the public or private sector.
+  - **(3)** The Administrator shall report to the Secretary, without being required to report through any other official of the Department.
+  - **(4)**
+    - **(A)** The Administrator is the principal advisor to the President, the Homeland Security Council, and the Secretary for all matters relating to emergency management in the United States.
+    - **(B)**
+      - **(i)** In presenting advice with respect to any matter to the President, the Homeland Security Council, or the Secretary, the Administrator shall, as the Administrator considers appropriate, inform the President, the Homeland Security Council, or the Secretary, as the case may be, of the range of emergency preparedness, protection, response, recovery, and mitigation options with respect to that matter.
+      - **(ii)** The Administrator, as the principal advisor on emergency management, shall provide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
+      - **(iii)** After informing the Secretary, the Administrator may make such recommendations to Congress relating to emergency management as the Administrator considers appropriate.
+  - **(5)**
+    - **(A)** The President may designate the Administrator to serve as a member of the Cabinet in the event of natural disasters, acts of terrorism, or other man-made disasters.
+    - **(B)** Nothing in this paragraph shall be construed as affecting the authority of the Secretary under this chapter.

@@ -1,0 +1,24 @@
+---
+title: "Section 150302 - Powers"
+usc_title: 36
+usc_section: "150302"
+chapter: 1503
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 150302"
+generated_at: "2026-03-29T02:14:41.363Z"
+---
+
+# § 150302. Powers
+
+- **(a)** The corporation may—
+  - **(1)** make its own organization, including adopting a constitution, bylaws, and regulations;
+  - **(2)** provide for the election of domestic and foreign members, their division into classes, and other matters needful or usual in such an institution;
+  - **(3)** fill vacancies; and
+  - **(4)** report its actions under this subsection to Congress.
+- **(b)**
+  - **(1)** The corporation may—
+    - **(A)** receive property by devise, bequest, donation, or otherwise;
+    - **(B)** hold the property absolutely or in trust;
+    - **(C)** manage and invest the property as provided in the constitution of the corporation; and
+    - **(D)** use the property and income from the property to carry out the purposes of the corporation, subject to instructions of donors.
+  - **(2)** Congress at any time may limit the amount of real estate the corporation may acquire and the amount of time it may be held.

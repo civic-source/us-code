@@ -5,7 +5,7 @@ usc_section: "1221"
 chapter: 61
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1221"
-generated_at: "2026-03-29T00:20:52.966Z"
+generated_at: "2026-03-29T02:10:44.995Z"
 ---
 
 # § 1221. Effective date of retirement or placement of name on temporary disability retired list

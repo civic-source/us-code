@@ -5,7 +5,7 @@ usc_section: "1645"
 chapter: 12
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1645"
-generated_at: "2026-03-29T00:33:06.633Z"
+generated_at: "2026-03-29T02:16:00.819Z"
 ---
 
 # § 1645. Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.

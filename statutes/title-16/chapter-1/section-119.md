@@ -5,7 +5,7 @@ usc_section: "119"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 119"
-generated_at: "2026-03-29T00:29:52.303Z"
+generated_at: "2026-03-29T02:11:53.339Z"
 ---
 
 # § 119. Establishment; notice in Federal Register; administration; exchange and acquisition of lands; remaining funds

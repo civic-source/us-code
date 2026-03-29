@@ -5,10 +5,10 @@ usc_section: "4045"
 chapter: 42
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 4045"
-generated_at: "2026-03-29T00:30:38.771Z"
+generated_at: "2026-03-29T02:13:20.984Z"
 ---
 
 # § 4045. Staff and consultants
 
-(a) The Special Trustee may employ such staff as the Special Trustee deems necessary. The Special Trustee may request staff assistance from within the Department and any office or Bureau thereof as the Special Trustee deems necessary.
-(b) To the extent and in such amounts as may be provided in advance by appropriations Acts, the Special Trustee may enter into contracts and other arrangements with public agencies and with private persons and organizations for consulting services and make such payments as necessary to carry out the provisions of this subchapter.
+- **(a)** The Special Trustee may employ such staff as the Special Trustee deems necessary. The Special Trustee may request staff assistance from within the Department and any office or Bureau thereof as the Special Trustee deems necessary.
+- **(b)** To the extent and in such amounts as may be provided in advance by appropriations Acts, the Special Trustee may enter into contracts and other arrangements with public agencies and with private persons and organizations for consulting services and make such payments as necessary to carry out the provisions of this subchapter.

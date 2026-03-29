@@ -5,7 +5,7 @@ usc_section: "1643"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1643"
-generated_at: "2026-03-29T00:30:20.169Z"
+generated_at: "2026-03-29T02:12:08.636Z"
 ---
 
 # § 1643. Application of customs reorganization act

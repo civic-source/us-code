@@ -5,7 +5,7 @@ usc_section: "579c"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 579c"
-generated_at: "2026-03-29T00:31:57.206Z"
+generated_at: "2026-03-29T02:14:18.499Z"
 ---
 
 # § 579c. Repealed. Pub. L. 116–260, div. AA, title III, § 360(d) , Dec. 27, 2020 , 134 Stat. 2733

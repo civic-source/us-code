@@ -5,7 +5,7 @@ usc_section: "1493"
 chapter: 5
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1493"
-generated_at: "2026-03-29T00:31:20.898Z"
+generated_at: "2026-03-29T02:14:01.155Z"
 ---
 
 # [§ 1493. Repealed. Pub. L. 89–809, title I, § 103(l)(2) , Nov. 13, 1966 , 80 Stat. 1554 ]

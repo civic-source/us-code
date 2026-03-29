@@ -5,17 +5,17 @@ usc_section: "8405"
 chapter: 110
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8405"
-generated_at: "2026-03-29T00:29:41.945Z"
+generated_at: "2026-03-29T02:11:34.447Z"
 ---
 
 # § 8405. Enforcement by State attorneys general
 
-(a) Except as provided in subsection (e), the attorney general of a State, or other authorized State officer, alleging a violation of this chapter or any regulation issued under this chapter that affects or may affect such State or its residents may bring an action on behalf of the residents of the State in any United States district court for the district in which the defendant is found, resides, or transacts business, or wherever venue is proper under section 1391 of title 28 , to obtain appropriate injunctive relief.
-(b) A State shall provide prior written notice to the Federal Trade Commission of any civil action under subsection (a) together with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such action.
-(c) The Commission may intervene in such civil action and upon intervening—
-  (1) be heard on all matters arising in such civil action; and
-  (2) file petitions for appeal of a decision in such civil action.
-(d) Nothing in this section shall be construed—
-  (1) to prevent the attorney general of a State, or other authorized State officer, from exercising the powers conferred on the attorney general, or other authorized State officer, by the laws of such State; or
-  (2) to prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
-(e) No separate suit shall be brought under this section if, at the time the suit is brought, the same alleged violation is the subject of a pending action by the Federal Trade Commission or the United States under this chapter.
+- **(a)** Except as provided in subsection (e), the attorney general of a State, or other authorized State officer, alleging a violation of this chapter or any regulation issued under this chapter that affects or may affect such State or its residents may bring an action on behalf of the residents of the State in any United States district court for the district in which the defendant is found, resides, or transacts business, or wherever venue is proper under section 1391 of title 28 , to obtain appropriate injunctive relief.
+- **(b)** A State shall provide prior written notice to the Federal Trade Commission of any civil action under subsection (a) together with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall provide such notice immediately upon instituting such action.
+- **(c)** The Commission may intervene in such civil action and upon intervening—
+  - **(1)** be heard on all matters arising in such civil action; and
+  - **(2)** file petitions for appeal of a decision in such civil action.
+- **(d)** Nothing in this section shall be construed—
+  - **(1)** to prevent the attorney general of a State, or other authorized State officer, from exercising the powers conferred on the attorney general, or other authorized State officer, by the laws of such State; or
+  - **(2)** to prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
+- **(e)** No separate suit shall be brought under this section if, at the time the suit is brought, the same alleged violation is the subject of a pending action by the Federal Trade Commission or the United States under this chapter.

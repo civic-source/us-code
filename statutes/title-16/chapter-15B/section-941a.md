@@ -5,12 +5,12 @@ usc_section: "941a"
 chapter: 15
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 941a"
-generated_at: "2026-03-29T00:29:52.670Z"
+generated_at: "2026-03-29T02:11:53.720Z"
 ---
 
 # § 941a. Purpose
 
 The purposes of this chapter are—
 
-  (1) to develop and implement proposals for the restoration of fish and wildlife resources in the Great Lakes Basin; and
-  (2) to provide assistance to the Great Lakes Fisheries Commission, States, Indian Tribes, and other interested entities to encourage cooperative conservation, restoration and management of the fish and wildlife resources and their habitat in the Great Lakes Basin.
+  - **(1)** to develop and implement proposals for the restoration of fish and wildlife resources in the Great Lakes Basin; and
+  - **(2)** to provide assistance to the Great Lakes Fisheries Commission, States, Indian Tribes, and other interested entities to encourage cooperative conservation, restoration and management of the fish and wildlife resources and their habitat in the Great Lakes Basin.

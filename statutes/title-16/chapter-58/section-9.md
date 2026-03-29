@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 58
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-29T00:29:52.817Z"
+generated_at: "2026-03-29T02:11:53.911Z"
 ---
 
 # § 3839aa–9. Repealed. Pub. L. 113–79, title II, § 2706(a) , Feb. 7, 2014 , 128 Stat. 769

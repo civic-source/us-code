@@ -5,7 +5,7 @@ usc_section: "759"
 chapter: 18
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 759"
-generated_at: "2026-03-29T00:32:57.383Z"
+generated_at: "2026-03-29T02:15:47.571Z"
 ---
 
 # § 759. Survey for and by settlers in township

@@ -5,7 +5,7 @@ usc_section: "565a"
 chapter: 3
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 565a"
-generated_at: "2026-03-29T00:29:52.569Z"
+generated_at: "2026-03-29T02:11:53.607Z"
 ---
 
 # § 565a. Cooperation by Secretary of Agriculture with Territories

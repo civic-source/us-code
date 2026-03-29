@@ -5,7 +5,7 @@ usc_section: "426"
 chapter: 9
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 426"
-generated_at: "2026-03-29T00:31:57.158Z"
+generated_at: "2026-03-29T02:14:18.480Z"
 ---
 
 # § 426. Investigations concerning erosion of shores of coastal and lake waters

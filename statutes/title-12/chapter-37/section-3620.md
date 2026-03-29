@@ -5,7 +5,7 @@ usc_section: "3620"
 chapter: 37
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3620"
-generated_at: "2026-03-29T00:29:16.794Z"
+generated_at: "2026-03-29T02:11:21.171Z"
 ---
 
 # §§ 3601 to 3620. Repealed. Pub. L. 102–550, title IX, § 912(i)(1) , Oct. 28, 1992 , 106 Stat. 3876

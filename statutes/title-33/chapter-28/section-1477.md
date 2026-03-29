@@ -5,13 +5,13 @@ usc_section: "1477"
 chapter: 28
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1477"
-generated_at: "2026-03-29T00:31:57.380Z"
+generated_at: "2026-03-29T02:14:18.589Z"
 ---
 
 # § 1477. Reasonable measures; considerations
 
-(a) Measures directed or conducted under this chapter shall be proportionate to the damage, actual or threatened, to the coastline or related interests of the United States and may not go beyond what is reasonably necessary to prevent, mitigate, or eliminate that damage.
-(b) In considering whether measures are proportionate to the damage the Secretary shall, among other things, consider—
-  (1) the extent and probability of imminent damage if those measures are not taken;
-  (2) the likelihood of effectiveness of those measures; and
-  (3) the extent of the damage which may be caused by those measures.
+- **(a)** Measures directed or conducted under this chapter shall be proportionate to the damage, actual or threatened, to the coastline or related interests of the United States and may not go beyond what is reasonably necessary to prevent, mitigate, or eliminate that damage.
+- **(b)** In considering whether measures are proportionate to the damage the Secretary shall, among other things, consider—
+  - **(1)** the extent and probability of imminent damage if those measures are not taken;
+  - **(2)** the likelihood of effectiveness of those measures; and
+  - **(3)** the extent of the damage which may be caused by those measures.

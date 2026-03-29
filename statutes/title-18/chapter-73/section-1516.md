@@ -5,12 +5,12 @@ usc_section: "1516"
 chapter: 73
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1516"
-generated_at: "2026-03-29T00:30:15.673Z"
+generated_at: "2026-03-29T02:12:02.417Z"
 ---
 
 # § 1516. Obstruction of Federal audit
 
-(a) Whoever, with intent to deceive or defraud the United States, endeavors to influence, obstruct, or impede a Federal auditor in the performance of official duties relating to a person, entity, or program receiving in excess of $100,000, directly or indirectly, from the United States in any 1 year period under a contract or subcontract, grant, or cooperative agreement, or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary, or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949, shall be fined under this title, or imprisoned not more than 5 years, or both.
-(b) For purposes of this section—
-  (1) the term “Federal auditor” means any person employed on a full- or part-time or contractual basis to perform an audit or a quality assurance inspection for or on behalf of the United States; and
-  (2) the term “in any 1 year period” has the meaning given to the term “in any one-year period” in section 666.
+- **(a)** Whoever, with intent to deceive or defraud the United States, endeavors to influence, obstruct, or impede a Federal auditor in the performance of official duties relating to a person, entity, or program receiving in excess of $100,000, directly or indirectly, from the United States in any 1 year period under a contract or subcontract, grant, or cooperative agreement, or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary, or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949, shall be fined under this title, or imprisoned not more than 5 years, or both.
+- **(b)** For purposes of this section—
+  - **(1)** the term “Federal auditor” means any person employed on a full- or part-time or contractual basis to perform an audit or a quality assurance inspection for or on behalf of the United States; and
+  - **(2)** the term “in any 1 year period” has the meaning given to the term “in any one-year period” in section 666.

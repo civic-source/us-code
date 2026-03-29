@@ -5,12 +5,12 @@ usc_section: "70054"
 chapter: 700
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 70054"
-generated_at: "2026-03-29T00:33:02.961Z"
+generated_at: "2026-03-29T02:15:53.795Z"
 ---
 
 # § 70054. Definitions
 
 In this subchapter:
 
-  (1) The term “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
-  (2) The term “territorial waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988 .
+  - **(1)** The term “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
+  - **(2)** The term “territorial waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988 .

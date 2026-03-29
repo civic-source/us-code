@@ -5,12 +5,12 @@ usc_section: "1345"
 chapter: 13
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1345"
-generated_at: "2026-03-29T00:31:52.593Z"
+generated_at: "2026-03-29T02:14:14.049Z"
 ---
 
 # § 1345. Expenses of meetings
 
 Except as specifically provided by law, an appropriation may not be used for travel, transportation, and subsistence expenses for a meeting. This section does not prohibit—
 
-  (1) an agency from paying the expenses of an officer or employee of the United States Government carrying out an official duty; and
-  (2) the Secretary of Agriculture from paying necessary expenses for a meeting called by the Secretary for 4–H Boys and Girls Clubs as part of the cooperative extension work of the Department of Agriculture.
+  - **(1)** an agency from paying the expenses of an officer or employee of the United States Government carrying out an official duty; and
+  - **(2)** the Secretary of Agriculture from paying necessary expenses for a meeting called by the Secretary for 4–H Boys and Girls Clubs as part of the cooperative extension work of the Department of Agriculture.

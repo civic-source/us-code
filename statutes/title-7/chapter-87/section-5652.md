@@ -5,14 +5,14 @@ usc_section: "5652"
 chapter: 87
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5652"
-generated_at: "2026-03-29T00:28:58.208Z"
+generated_at: "2026-03-29T02:10:17.045Z"
 ---
 
 # § 5652. Relief from unfair trade practices
 
-(a) 
-  (1) The Secretary may, for each article described in paragraph (2), make available some or all of the commercial export promotion programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice serving as the basis for the proceeding described in paragraph (2).
-  (2) Paragraph (1) shall apply in the case of articles for which the United States has instituted, under any international trade agreement, any dispute settlement proceeding based on an unfair trade practice if such proceeding has been prevented from progressing to a decision by the refusal of the party maintaining the unfair trade practice to permit the proceeding to progress.
-(b) For any article described in subsection (a)(2), the Secretary shall—
-  (1) promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2); and
-  (2) ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1).
+- **(a)**
+  - **(1)** The Secretary may, for each article described in paragraph (2), make available some or all of the commercial export promotion programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice serving as the basis for the proceeding described in paragraph (2).
+  - **(2)** Paragraph (1) shall apply in the case of articles for which the United States has instituted, under any international trade agreement, any dispute settlement proceeding based on an unfair trade practice if such proceeding has been prevented from progressing to a decision by the refusal of the party maintaining the unfair trade practice to permit the proceeding to progress.
+- **(b)** For any article described in subsection (a)(2), the Secretary shall—
+  - **(1)** promptly consult with representatives of the industry producing such articles and other allied groups or individuals regarding specific actions or the development of an integrated marketing strategy utilizing some or all of the commercial export programs of the Department of Agriculture and the Commodity Credit Corporation to help mitigate or offset the effects of the unfair trade practice identified in subsection (a)(2); and
+  - **(2)** ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1).

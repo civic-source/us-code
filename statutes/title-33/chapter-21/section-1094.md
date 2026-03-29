@@ -5,7 +5,7 @@ usc_section: "1094"
 chapter: 21
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1094"
-generated_at: "2026-03-29T00:31:57.286Z"
+generated_at: "2026-03-29T02:14:18.534Z"
 ---
 
 # §§ 1051 to 1094. Repealed. Pub. L. 95–75, § 10 , July 27, 1977 , 91 Stat. 311

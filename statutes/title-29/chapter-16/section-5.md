@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 16
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 5"
-generated_at: "2026-03-29T00:31:27.610Z"
+generated_at: "2026-03-29T02:14:09.403Z"
 ---
 
 # § 796f–5. “Eligible agency” defined

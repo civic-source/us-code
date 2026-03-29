@@ -5,7 +5,7 @@ usc_section: "2501"
 chapter: 45
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2501"
-generated_at: "2026-03-29T00:29:52.777Z"
+generated_at: "2026-03-29T02:11:53.861Z"
 ---
 
 # § 2501. Omitted

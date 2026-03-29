@@ -5,17 +5,17 @@ usc_section: "1312"
 chapter: 13
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 1312"
-generated_at: "2026-03-29T00:32:22.571Z"
+generated_at: "2026-03-29T02:15:00.440Z"
 ---
 
 # § 1312. Functions
 
-(a) The Chief Acquisition Officers Council is the principal interagency forum for monitoring and improving the Federal acquisition system.
-(b) The Council shall perform functions that include the following:
-  (1) Develop recommendations for the Director of the Office of Management and Budget on Federal acquisition policies and requirements.
-  (2) Share experiences, ideas, best practices, and innovative approaches related to Federal acquisition.
-  (3) Assist the Administrator in the identification, development, and coordination of multiagency projects and other innovative initiatives to improve Federal acquisition.
-  (4) Promote effective business practices that ensure the timely delivery of best value products to the Federal Government and achieve appropriate public policy objectives.
-  (5) Further integrity, fairness, competition, openness, and efficiency in the Federal acquisition system.
-  (6) Work with the Office of Personnel Management to assess and address the hiring, training, and professional development needs of the Federal Government related to acquisition.
-  (7) Work with the Administrator and the Federal Acquisition Regulatory Council to promote the business practices referred to in paragraph (4) and other results of the functions carried out under this subsection.
+- **(a)** The Chief Acquisition Officers Council is the principal interagency forum for monitoring and improving the Federal acquisition system.
+- **(b)** The Council shall perform functions that include the following:
+  - **(1)** Develop recommendations for the Director of the Office of Management and Budget on Federal acquisition policies and requirements.
+  - **(2)** Share experiences, ideas, best practices, and innovative approaches related to Federal acquisition.
+  - **(3)** Assist the Administrator in the identification, development, and coordination of multiagency projects and other innovative initiatives to improve Federal acquisition.
+  - **(4)** Promote effective business practices that ensure the timely delivery of best value products to the Federal Government and achieve appropriate public policy objectives.
+  - **(5)** Further integrity, fairness, competition, openness, and efficiency in the Federal acquisition system.
+  - **(6)** Work with the Office of Personnel Management to assess and address the hiring, training, and professional development needs of the Federal Government related to acquisition.
+  - **(7)** Work with the Administrator and the Federal Acquisition Regulatory Council to promote the business practices referred to in paragraph (4) and other results of the functions carried out under this subsection.

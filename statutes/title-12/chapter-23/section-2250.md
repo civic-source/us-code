@@ -5,24 +5,24 @@ usc_section: "2250"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2250"
-generated_at: "2026-03-29T00:29:16.741Z"
+generated_at: "2026-03-29T02:11:21.120Z"
 ---
 
 # § 2250. Farm Credit Administration operating expenses fund
 
-(a) 
-  (1) Prior to the first day of each fiscal year, the Farm Credit Administration shall determine—
-    (A) the cost of administering this chapter for the subsequent fiscal year, including expenses for official functions;
-    (B) the amount of assessments that will be required to pay such administrative expenses, taking into consideration the funds contained in the Administrative Expense Account, and maintain a necessary reserve; and
-    (C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII.
-  (2) On the basis of the determinations made under paragraph (1), the Farm Credit Administration shall—
-    (A) apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that is determined to be equitable by the Farm Credit Administration;
-    (B) assess and collect such apportioned amounts from time to time during the fiscal year as determined necessary by the Farm Credit Administration; and
-    (C) assess and collect from the Mortgage Corporation, from time to time during the fiscal year, the amount described in paragraph (1)(C).
-(b) 
-  (1) The amounts collected under subsection (a) shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 900 et seq.], to pay the expenses of the Farm Credit Administration.
-  (2) The funds contained in the Expense Account shall not be construed to be Federal Government funds or appropriated moneys.
-  (3) 
-    (A) On request of the Farm Credit Administration, the Secretary of the Treasury shall invest and reinvest such amounts contained in the Expense Account as, in the determination of the Farm Credit Administration, are in excess of the amounts necessary for current expenses of the Farm Credit Administration.
-    (B) All income earned from such investments and reinvestments shall be deposited in the Expense Account.
-    (C) Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
+- **(a)**
+  - **(1)** Prior to the first day of each fiscal year, the Farm Credit Administration shall determine—
+    - **(A)** the cost of administering this chapter for the subsequent fiscal year, including expenses for official functions;
+    - **(B)** the amount of assessments that will be required to pay such administrative expenses, taking into consideration the funds contained in the Administrative Expense Account, and maintain a necessary reserve; and
+    - **(C)** the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII.
+  - **(2)** On the basis of the determinations made under paragraph (1), the Farm Credit Administration shall—
+    - **(A)** apportion the amount of the assessment described in paragraph (1)(B) among the System institutions on a basis that is determined to be equitable by the Farm Credit Administration;
+    - **(B)** assess and collect such apportioned amounts from time to time during the fiscal year as determined necessary by the Farm Credit Administration; and
+    - **(C)** assess and collect from the Mortgage Corporation, from time to time during the fiscal year, the amount described in paragraph (1)(C).
+- **(b)**
+  - **(1)** The amounts collected under subsection (a) shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 [ 2 U.S.C. 900 et seq.], to pay the expenses of the Farm Credit Administration.
+  - **(2)** The funds contained in the Expense Account shall not be construed to be Federal Government funds or appropriated moneys.
+  - **(3)**
+    - **(A)** On request of the Farm Credit Administration, the Secretary of the Treasury shall invest and reinvest such amounts contained in the Expense Account as, in the determination of the Farm Credit Administration, are in excess of the amounts necessary for current expenses of the Farm Credit Administration.
+    - **(B)** All income earned from such investments and reinvestments shall be deposited in the Expense Account.
+    - **(C)** Such investments shall be made in public debt securities with maturities suitable to the needs of the Expense Account, as determined by the Farm Credit Administration, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.

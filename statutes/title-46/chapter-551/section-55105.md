@@ -5,14 +5,14 @@ usc_section: "55105"
 chapter: 551
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 55105"
-generated_at: "2026-03-29T00:33:02.947Z"
+generated_at: "2026-03-29T02:15:53.781Z"
 ---
 
 # § 55105. Transportation of hazardous waste
 
-(a) The transportation of hazardous waste, as defined in section 1004(5) of the Resource Conservation and Recovery Act of 1976 ( 42 U.S.C. 6903(5) ), from a point in the United States to sea for incineration is deemed to be transportation of merchandise under section 55102 of this title .
-(b) 
-  (1) Subsection (a) does not apply to transportation performed by a foreign ocean incineration vessel owned by or under construction on May 1, 1982 , for a corporation wholly owned by citizens of the United States under section 50501(a)–(c) of this title.
-  (2) Incineration equipment on a vessel described in paragraph (1) must meet standards of the Coast Guard and the Environmental Protection Agency.
-  (3) A vessel described in paragraph (1) shall be inspected by the Coast Guard, regardless of whether inspected by the nation in which it is registered. The inspection shall be the same as would be required of a vessel of the United States, including drydock inspection and internal examination of tanks and void spaces. The inspection may be made concurrently with an inspection by that nation or within one year after the initial issuance or next scheduled issuance of the Safety of Life at Sea Safety Construction Certificate. In making the inspection, the Coast Guard shall refer to the condition of the hull and superstructure established by the initial foreign certification as the basis for evaluating the current condition of the hull and superstructure. The Coast Guard shall allow the substitution of fittings, material, apparatus, equipment, and appliances different from those required for vessels of the United States if satisfied they are equivalent and at least as effective as those required for vessels of the United States. A satisfactory inspection under this paragraph shall be certified in writing by the Secretary of Homeland Security.
-(c) Subsection (a) is not effective until an appropriate vessel has been built and documented under chapter 121 of this title.
+- **(a)** The transportation of hazardous waste, as defined in section 1004(5) of the Resource Conservation and Recovery Act of 1976 ( 42 U.S.C. 6903(5) ), from a point in the United States to sea for incineration is deemed to be transportation of merchandise under section 55102 of this title .
+- **(b)**
+  - **(1)** Subsection (a) does not apply to transportation performed by a foreign ocean incineration vessel owned by or under construction on May 1, 1982 , for a corporation wholly owned by citizens of the United States under section 50501(a)–(c) of this title.
+  - **(2)** Incineration equipment on a vessel described in paragraph (1) must meet standards of the Coast Guard and the Environmental Protection Agency.
+  - **(3)** A vessel described in paragraph (1) shall be inspected by the Coast Guard, regardless of whether inspected by the nation in which it is registered. The inspection shall be the same as would be required of a vessel of the United States, including drydock inspection and internal examination of tanks and void spaces. The inspection may be made concurrently with an inspection by that nation or within one year after the initial issuance or next scheduled issuance of the Safety of Life at Sea Safety Construction Certificate. In making the inspection, the Coast Guard shall refer to the condition of the hull and superstructure established by the initial foreign certification as the basis for evaluating the current condition of the hull and superstructure. The Coast Guard shall allow the substitution of fittings, material, apparatus, equipment, and appliances different from those required for vessels of the United States if satisfied they are equivalent and at least as effective as those required for vessels of the United States. A satisfactory inspection under this paragraph shall be certified in writing by the Secretary of Homeland Security.
+- **(c)** Subsection (a) is not effective until an appropriate vessel has been built and documented under chapter 121 of this title.

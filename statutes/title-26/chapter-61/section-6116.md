@@ -5,21 +5,21 @@ usc_section: "6116"
 chapter: 61
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6116"
-generated_at: "2026-03-29T00:31:21.033Z"
+generated_at: "2026-03-29T02:14:01.314Z"
 ---
 
 # § 6116. Requirement for prisons located in United States to provide information for tax administration
 
-(a) Not later than September 15, 2012 , and annually thereafter, the head of the Federal Bureau of Prisons and the head of any State agency charged with the responsibility for administration of prisons shall provide to the Secretary in electronic format a list with the information described in subsection (b) of all the inmates incarcerated within the prison system for any part of the prior 2 calendar years or the current calendar year through August 31.
-(b) The information with respect to each inmate is—
-  (1) first, middle, and last name,
-  (2) date of birth,
-  (3) institution of current incarceration or, for released inmates, most recent incarceration,
-  (4) prison assigned inmate number,
-  (5) the date of incarceration,
-  (6) the date of release or anticipated date of release,
-  (7) the date of work release,
-  (8) taxpayer identification number and whether the prison has verified such number,
-  (9) last known address, and
-  (10) any additional information as the Secretary may request.
-(c) The Secretary shall determine the electronic format of the information described in subsection (b).
+- **(a)** Not later than September 15, 2012 , and annually thereafter, the head of the Federal Bureau of Prisons and the head of any State agency charged with the responsibility for administration of prisons shall provide to the Secretary in electronic format a list with the information described in subsection (b) of all the inmates incarcerated within the prison system for any part of the prior 2 calendar years or the current calendar year through August 31.
+- **(b)** The information with respect to each inmate is—
+  - **(1)** first, middle, and last name,
+  - **(2)** date of birth,
+  - **(3)** institution of current incarceration or, for released inmates, most recent incarceration,
+  - **(4)** prison assigned inmate number,
+  - **(5)** the date of incarceration,
+  - **(6)** the date of release or anticipated date of release,
+  - **(7)** the date of work release,
+  - **(8)** taxpayer identification number and whether the prison has verified such number,
+  - **(9)** last known address, and
+  - **(10)** any additional information as the Secretary may request.
+- **(c)** The Secretary shall determine the electronic format of the information described in subsection (b).

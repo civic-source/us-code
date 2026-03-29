@@ -5,14 +5,14 @@ usc_section: "2152d"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2152d"
-generated_at: "2026-03-29T00:30:33.763Z"
+generated_at: "2026-03-29T02:12:40.034Z"
 ---
 
 # § 2152d. Assistance to foreign countries to meet minimum standards for the elimination of trafficking
 
-(a) The President is authorized to provide assistance to foreign countries directly, or through nongovernmental and multilateral organizations, for programs, projects, and activities designed to meet the minimum standards for the elimination of trafficking (as defined in section 7102 of this title ), including—
-  (1) the drafting of laws to prohibit and punish acts of trafficking;
-  (2) the investigation and prosecution of traffickers, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation;
-  (3) the creation and maintenance of facilities, programs, projects, and activities for the protection of victims; and
-  (4) the expansion of exchange programs and international visitor programs for governmental and nongovernmental personnel to combat trafficking.
-(b) Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 [ 22 U.S.C. 5401 et seq.] shall be made available to carry out this section. Assistance may be provided under this section notwithstanding section 2420 of this title .
+- **(a)** The President is authorized to provide assistance to foreign countries directly, or through nongovernmental and multilateral organizations, for programs, projects, and activities designed to meet the minimum standards for the elimination of trafficking (as defined in section 7102 of this title ), including—
+  - **(1)** the drafting of laws to prohibit and punish acts of trafficking;
+  - **(2)** the investigation and prosecution of traffickers, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation;
+  - **(3)** the creation and maintenance of facilities, programs, projects, and activities for the protection of victims; and
+  - **(4)** the expansion of exchange programs and international visitor programs for governmental and nongovernmental personnel to combat trafficking.
+- **(b)** Amounts made available to carry out the other provisions of subchapter I of this chapter (including part IV of subchapter II of this chapter) and the Support for East European Democracy (SEED) Act of 1989 [ 22 U.S.C. 5401 et seq.] shall be made available to carry out this section. Assistance may be provided under this section notwithstanding section 2420 of this title .

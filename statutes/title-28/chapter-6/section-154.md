@@ -5,10 +5,10 @@ usc_section: "154"
 chapter: 6
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 154"
-generated_at: "2026-03-29T00:31:24.128Z"
+generated_at: "2026-03-29T02:14:04.510Z"
 ---
 
 # § 154. Division of businesses; chief judge
 
-(a) Each bankruptcy court for a district having more than one bankruptcy judge shall by majority vote promulgate rules for the division of business among the bankruptcy judges to the extent that the division of business is not otherwise provided for by the rules of the district court.
-(b) In each district court having more than one bankruptcy judge the district court shall designate one judge to serve as chief judge of such bankruptcy court. Whenever a majority of the judges of such district court cannot agree upon the designation as chief judge, the chief judge of such district court shall make such designation. The chief judge of the bankruptcy court shall ensure that the rules of the bankruptcy court and of the district court are observed and that the business of the bankruptcy court is handled effectively and expeditiously.
+- **(a)** Each bankruptcy court for a district having more than one bankruptcy judge shall by majority vote promulgate rules for the division of business among the bankruptcy judges to the extent that the division of business is not otherwise provided for by the rules of the district court.
+- **(b)** In each district court having more than one bankruptcy judge the district court shall designate one judge to serve as chief judge of such bankruptcy court. Whenever a majority of the judges of such district court cannot agree upon the designation as chief judge, the chief judge of such district court shall make such designation. The chief judge of the bankruptcy court shall ensure that the rules of the bankruptcy court and of the district court are observed and that the business of the bankruptcy court is handled effectively and expeditiously.

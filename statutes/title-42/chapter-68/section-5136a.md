@@ -5,26 +5,26 @@ usc_section: "5136a"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5136a"
-generated_at: "2026-03-29T00:32:53.900Z"
+generated_at: "2026-03-29T02:15:36.745Z"
 ---
 
 # § 5136a. Assistance and training for communities with technological hazards and related emerging threats
 
-(a) The Administrator shall maintain the capacity to provide States, local, and Indian Tribal governments with technological hazards and related emerging threats technical assistance, training, and other preparedness programming to build community resilience to technological hazards and related emerging threats.
-(b) The Administrator shall carry out subsection (a) in accordance with—
-  (1) the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
-  (2) section 5196g of this title ; and
-  (3) the Post-Katrina Emergency Management Reform Act of 2006 ( Public Law 109–295 ; 120 Stat. 1394 ).
-(c) In carrying out subsection (a), the Administrator shall—
-  (1) use any available and appropriate multi-hazard risk assessment and mapping tools and capabilities to identify the communities that have the highest risk of and vulnerability to a technological hazard in each State; and
-  (2) ensure each State and Indian Tribal government is aware of—
-    (A) the communities identified under paragraph (1); and
-    (B) the availability of programming under this section for—
-      (i) technological hazards and related emerging threats preparedness; and
-      (ii) building community capability.
-(d) Not later than 1 year after December 23, 2022 , and annually thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Energy and Commerce of the House of Representatives, the Committee on Homeland Security of the House of Representatives, the Committee on Appropriations of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report relating to—
-  (1) actions taken to implement this section; and
-  (2) technological hazards and related emerging threats preparedness programming provided under this section during the 1-year period preceding the date of submission of the report.
-(e) The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, territorial, and local emergency services organizations and private sector stakeholders.
-(f) The Secretary of Homeland Security shall coordinate with the Secretary of Energy relating to technological hazard preparedness and training for a hazard that could result from activities or facilities authorized or licensed by the Department of Energy.
-(g) In carrying out activities under subsection (a), the Administrator shall ensure that such activities do not unnecessarily duplicate efforts of other Federal departments or agencies, including programs within the Department of Health and Human Services.
+- **(a)** The Administrator shall maintain the capacity to provide States, local, and Indian Tribal governments with technological hazards and related emerging threats technical assistance, training, and other preparedness programming to build community resilience to technological hazards and related emerging threats.
+- **(b)** The Administrator shall carry out subsection (a) in accordance with—
+  - **(1)** the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.);
+  - **(2)** section 5196g of this title ; and
+  - **(3)** the Post-Katrina Emergency Management Reform Act of 2006 ( Public Law 109–295 ; 120 Stat. 1394 ).
+- **(c)** In carrying out subsection (a), the Administrator shall—
+  - **(1)** use any available and appropriate multi-hazard risk assessment and mapping tools and capabilities to identify the communities that have the highest risk of and vulnerability to a technological hazard in each State; and
+  - **(2)** ensure each State and Indian Tribal government is aware of—
+    - **(A)** the communities identified under paragraph (1); and
+    - **(B)** the availability of programming under this section for—
+      - **(i)** technological hazards and related emerging threats preparedness; and
+      - **(ii)** building community capability.
+- **(d)** Not later than 1 year after December 23, 2022 , and annually thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Energy and Commerce of the House of Representatives, the Committee on Homeland Security of the House of Representatives, the Committee on Appropriations of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report relating to—
+  - **(1)** actions taken to implement this section; and
+  - **(2)** technological hazards and related emerging threats preparedness programming provided under this section during the 1-year period preceding the date of submission of the report.
+- **(e)** The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, territorial, and local emergency services organizations and private sector stakeholders.
+- **(f)** The Secretary of Homeland Security shall coordinate with the Secretary of Energy relating to technological hazard preparedness and training for a hazard that could result from activities or facilities authorized or licensed by the Department of Energy.
+- **(g)** In carrying out activities under subsection (a), the Administrator shall ensure that such activities do not unnecessarily duplicate efforts of other Federal departments or agencies, including programs within the Department of Health and Human Services.

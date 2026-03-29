@@ -5,13 +5,13 @@ usc_section: "4832"
 chapter: 58
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4832"
-generated_at: "2026-03-29T00:30:33.931Z"
+generated_at: "2026-03-29T02:12:40.348Z"
 ---
 
 # § 4832. Security Review Committee
 
-(a) A Security Review Committee shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Security Review Committee. Members of the Security Review Committee who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Security Review Committee. Members of the Security Review Committee who are Federal officers or employees shall receive no additional pay by reason of such membership.
-(b) 
-  (1) A Security Review Committee shall obtain facilities, services, and supplies through the Department of State. All expenses of the Security Review Committee, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
-  (2) At the request of a Security Review Committee, employees of the Department of State or other Federal agencies, members of the Foreign Service, or members of the uniformed services may be temporarily assigned, with or without reimbursement, to assist the Security Review Committee.
-  (3) A Security Review Committee may employ and compensate (in accordance with section 3109 of title 5 ) such experts and consultants as the Security Review Committee considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Security Review Committee.
+- **(a)** A Security Review Committee shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Security Review Committee. Members of the Security Review Committee who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Security Review Committee. Members of the Security Review Committee who are Federal officers or employees shall receive no additional pay by reason of such membership.
+- **(b)**
+  - **(1)** A Security Review Committee shall obtain facilities, services, and supplies through the Department of State. All expenses of the Security Review Committee, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
+  - **(2)** At the request of a Security Review Committee, employees of the Department of State or other Federal agencies, members of the Foreign Service, or members of the uniformed services may be temporarily assigned, with or without reimbursement, to assist the Security Review Committee.
+  - **(3)** A Security Review Committee may employ and compensate (in accordance with section 3109 of title 5 ) such experts and consultants as the Security Review Committee considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Security Review Committee.

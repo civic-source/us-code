@@ -5,7 +5,7 @@ usc_section: "8354"
 chapter: 109
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8354"
-generated_at: "2026-03-29T00:28:58.321Z"
+generated_at: "2026-03-29T02:10:17.200Z"
 ---
 
 # § 8354. Expenditures for cooperative agreements to lease aircraft

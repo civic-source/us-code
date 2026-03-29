@@ -5,13 +5,13 @@ usc_section: "16376"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16376"
-generated_at: "2026-03-29T00:32:54.405Z"
+generated_at: "2026-03-29T02:15:37.361Z"
 ---
 
 # § 16376. State and local permits
 
 The provision of credit assistance under the CIFIA program with respect to a project shall not—
 
-  (1) relieve any recipient of the assistance of any project obligation to obtain any required State or local permit or approval with respect to the project;
-  (2) limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
-  (3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.
+  - **(1)** relieve any recipient of the assistance of any project obligation to obtain any required State or local permit or approval with respect to the project;
+  - **(2)** limit the right of any unit of State or local government to approve or regulate any rate of return on private equity invested in the project; or
+  - **(3)** otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.

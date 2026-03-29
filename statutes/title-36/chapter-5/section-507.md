@@ -1,0 +1,14 @@
+---
+title: "Section 507 - Application to other property"
+usc_title: 36
+usc_section: "507"
+chapter: 5
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 507"
+generated_at: "2026-03-29T02:14:41.334Z"
+---
+
+# § 507. Application to other property
+
+This chapter does not apply to the United States Capitol Buildings or Grounds or other property under the jurisdiction of Congress or a committee, commission, or officer of Congress. A service or facility authorized by or under this chapter is available for the property on request or approval of the joint committee of the Senate and House of Representatives appointed by the President of the Senate and the Speaker of the House of Representatives to arrange for the inauguration of the President-elect and the Vice President-elect.
+

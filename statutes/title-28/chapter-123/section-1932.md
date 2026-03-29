@@ -5,13 +5,13 @@ usc_section: "1932"
 chapter: 123
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1932"
-generated_at: "2026-03-29T00:31:24.193Z"
+generated_at: "2026-03-29T02:14:04.569Z"
 ---
 
 # § 1932. 1 1 Another section 1932 is set out preceding this section. Revocation of earned release credit
 
 In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under section 3624(b) of title 18 , United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
 
-  (1) the claim was filed for a malicious purpose;
-  (2) the claim was filed solely to harass the party against which it was filed; or
-  (3) the claimant testifies falsely or otherwise knowingly presents false evidence or information to the court.
+  - **(1)** the claim was filed for a malicious purpose;
+  - **(2)** the claim was filed solely to harass the party against which it was filed; or
+  - **(3)** the claimant testifies falsely or otherwise knowingly presents false evidence or information to the court.

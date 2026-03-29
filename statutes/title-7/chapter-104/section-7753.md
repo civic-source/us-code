@@ -5,18 +5,18 @@ usc_section: "7753"
 chapter: 104
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7753"
-generated_at: "2026-03-29T00:28:58.296Z"
+generated_at: "2026-03-29T02:10:17.165Z"
 ---
 
 # § 7753. Reimbursable agreements
 
-(a) The Secretary may enter into reimbursable fee agreements with persons for preclearance of plants, plant products, biological control organisms, and articles at locations outside the United States for movement into the United States.
-(b) Funds collected for preclearance shall be credited to accounts which may be established by the Secretary for this purpose and shall remain available until expended for the preclearance activities without fiscal year limitation.
-(c) 
-  (1) Notwithstanding any other law, the Secretary may pay employees of the Department of Agriculture performing services relating to imports into and exports from the United States, for all overtime, night, or holiday work performed by them, at rates of pay established by the Secretary.
-  (2) 
-    (A) The Secretary may require persons for whom the services are performed to reimburse the Secretary for any sums of money paid by the Secretary for the services.
-    (B) All funds collected under this paragraph shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
-(d) 
-  (1) Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and the overdue funds shall accrue interest, as required by section 3717 of title 31 .
-  (2) Any late payment penalty and any accrued interest shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
+- **(a)** The Secretary may enter into reimbursable fee agreements with persons for preclearance of plants, plant products, biological control organisms, and articles at locations outside the United States for movement into the United States.
+- **(b)** Funds collected for preclearance shall be credited to accounts which may be established by the Secretary for this purpose and shall remain available until expended for the preclearance activities without fiscal year limitation.
+- **(c)**
+  - **(1)** Notwithstanding any other law, the Secretary may pay employees of the Department of Agriculture performing services relating to imports into and exports from the United States, for all overtime, night, or holiday work performed by them, at rates of pay established by the Secretary.
+  - **(2)**
+    - **(A)** The Secretary may require persons for whom the services are performed to reimburse the Secretary for any sums of money paid by the Secretary for the services.
+    - **(B)** All funds collected under this paragraph shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.
+- **(d)**
+  - **(1)** Upon failure to reimburse the Secretary in accordance with this section, the Secretary may assess a late payment penalty, and the overdue funds shall accrue interest, as required by section 3717 of title 31 .
+  - **(2)** Any late payment penalty and any accrued interest shall be credited to the account that incurs the costs and shall remain available until expended without fiscal year limitation.

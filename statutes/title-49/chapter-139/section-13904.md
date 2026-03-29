@@ -5,21 +5,21 @@ usc_section: "13904"
 chapter: 139
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 13904"
-generated_at: "2026-03-29T00:33:13.775Z"
+generated_at: "2026-03-29T02:16:08.915Z"
 ---
 
 # § 13904. Registration of brokers
 
-(a) The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary determines that the person—
-  (1) has sufficient experience to qualify the person to act as a broker for transportation; and
-  (2) is fit, willing, and able to be a broker for transportation and to comply with this part and applicable regulations of the Secretary.
-(b) A registration issued under subsection (a) shall only remain in effect while the broker for transportation is in compliance with section 13906(b).
-(c) Each broker shall employ, as an officer, an individual who—
-  (1) has at least 3 years of relevant experience; or
-  (2) provides the Secretary with satisfactory evidence of the individual’s knowledge of related rules, regulations, and industry practices.
-(d) 
-  (1) A broker for transportation may not provide transportation as a motor carrier unless the broker has registered separately under this chapter to provide transportation as a motor carrier.
-  (2) This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.
-(e) Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of motor carriers and shippers by motor vehicle.
-(f) The Secretary may impose on brokers for motor carriers of passengers such requirements for bonds or insurance or both as the Secretary determines are needed to protect passengers and carriers dealing with such brokers.
-(g) The Secretary shall require a broker to update its registration under this section not later than 30 days after a change in the broker’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
+- **(a)** The Secretary shall register, subject to section 13906(b), a person to be a broker for transportation of property subject to jurisdiction under subchapter I of chapter 135, if the Secretary determines that the person—
+  - **(1)** has sufficient experience to qualify the person to act as a broker for transportation; and
+  - **(2)** is fit, willing, and able to be a broker for transportation and to comply with this part and applicable regulations of the Secretary.
+- **(b)** A registration issued under subsection (a) shall only remain in effect while the broker for transportation is in compliance with section 13906(b).
+- **(c)** Each broker shall employ, as an officer, an individual who—
+  - **(1)** has at least 3 years of relevant experience; or
+  - **(2)** provides the Secretary with satisfactory evidence of the individual’s knowledge of related rules, regulations, and industry practices.
+- **(d)**
+  - **(1)** A broker for transportation may not provide transportation as a motor carrier unless the broker has registered separately under this chapter to provide transportation as a motor carrier.
+  - **(2)** This subsection does not apply to a motor carrier registered under this chapter or to an employee or agent of the motor carrier to the extent the transportation is to be provided entirely by the motor carrier, with other registered motor carriers, or with rail or water carriers.
+- **(e)** Regulations of the Secretary applicable to brokers registered under this section shall provide for the protection of motor carriers and shippers by motor vehicle.
+- **(f)** The Secretary may impose on brokers for motor carriers of passengers such requirements for bonds or insurance or both as the Secretary determines are needed to protect passengers and carriers dealing with such brokers.
+- **(g)** The Secretary shall require a broker to update its registration under this section not later than 30 days after a change in the broker’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.

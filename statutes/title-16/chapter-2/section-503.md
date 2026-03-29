@@ -5,7 +5,7 @@ usc_section: "503"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 503"
-generated_at: "2026-03-29T00:29:52.540Z"
+generated_at: "2026-03-29T02:11:53.574Z"
 ---
 
 # § 503. Repealed. Pub. L. 85–767, § 2[1] , Aug. 27, 1958 , 72 Stat. 919

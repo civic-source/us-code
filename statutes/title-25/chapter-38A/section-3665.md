@@ -5,16 +5,16 @@ usc_section: "3665"
 chapter: 38
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3665"
-generated_at: "2026-03-29T00:30:38.764Z"
+generated_at: "2026-03-29T02:13:20.977Z"
 ---
 
 # § 3665. Tribal authority
 
 Nothing in this chapter shall be construed to—
 
-  (1) encroach upon or diminish in any way the inherent sovereign authority of each tribal government to determine the role of the tribal justice system within the tribal government or to enact and enforce tribal laws;
-  (2) diminish in any way the authority of tribal governments to appoint personnel;
-  (3) impair the rights of each tribal government to determine the nature of its own legal system or the appointment of authority within the tribal government;
-  (4) alter in any way any tribal traditional dispute resolution fora;
-  (5) imply that any tribal justice system is an instrumentality of the United States; or
-  (6) diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
+  - **(1)** encroach upon or diminish in any way the inherent sovereign authority of each tribal government to determine the role of the tribal justice system within the tribal government or to enact and enforce tribal laws;
+  - **(2)** diminish in any way the authority of tribal governments to appoint personnel;
+  - **(3)** impair the rights of each tribal government to determine the nature of its own legal system or the appointment of authority within the tribal government;
+  - **(4)** alter in any way any tribal traditional dispute resolution fora;
+  - **(5)** imply that any tribal justice system is an instrumentality of the United States; or
+  - **(6)** diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.

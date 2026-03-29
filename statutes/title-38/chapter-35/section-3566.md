@@ -5,10 +5,10 @@ usc_section: "3566"
 chapter: 35
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3566"
-generated_at: "2026-03-29T00:32:17.265Z"
+generated_at: "2026-03-29T02:14:50.415Z"
 ---
 
 # § 3566. Definitions
 
-(a) The term “Commonwealth Army veterans” means persons who served before July 1, 1946 , in the organized military forces of the Government of the Philippines, while such forces were in the service of the Armed Forces pursuant to the military order of the President dated July 26, 1941 , including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander-in-Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who were discharged or released from such service under conditions other than dishonorable.
-(b) The term “ ‘New’ Philippine Scouts” means Philippine Scouts who served under section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who were discharged or released from such service under conditions other than dishonorable.
+- **(a)** The term “Commonwealth Army veterans” means persons who served before July 1, 1946 , in the organized military forces of the Government of the Philippines, while such forces were in the service of the Armed Forces pursuant to the military order of the President dated July 26, 1941 , including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander-in-Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, and who were discharged or released from such service under conditions other than dishonorable.
+- **(b)** The term “ ‘New’ Philippine Scouts” means Philippine Scouts who served under section 14 of the Armed Forces Voluntary Recruitment Act of 1945, and who were discharged or released from such service under conditions other than dishonorable.

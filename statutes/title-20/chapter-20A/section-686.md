@@ -5,7 +5,7 @@ usc_section: "686"
 chapter: 20
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 686"
-generated_at: "2026-03-29T00:07:03.114Z"
+generated_at: "2026-03-29T02:12:17.156Z"
 ---
 
 # § 686. Transferred

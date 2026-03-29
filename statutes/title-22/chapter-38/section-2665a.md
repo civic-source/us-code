@@ -5,7 +5,7 @@ usc_section: "2665a"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2665a"
-generated_at: "2026-03-29T00:30:33.840Z"
+generated_at: "2026-03-29T02:12:40.229Z"
 ---
 
 # § 2665a. Foreign Service fellowships

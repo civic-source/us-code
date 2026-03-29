@@ -5,22 +5,22 @@ usc_section: "2661"
 chapter: 159
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2661"
-generated_at: "2026-03-29T00:20:53.068Z"
+generated_at: "2026-03-29T02:10:45.123Z"
 ---
 
 # § 2661. Miscellaneous administrative provisions relating to real property
 
-(a) Appropriations for operation and maintenance of the active forces shall be available for the following:
-  (1) The repair of facilities.
-  (2) The installation of equipment in public and private plants.
-(b) The Secretary of Defense and the Secretary of each military department may provide for the following:
-  (1) The leasing of buildings and facilities (including the payment of rentals for special purpose space at the seat of Government). Rental for such leases may be paid in advance in connection with—
-    (A) the conduct of field exercises and maneuvers; and
-    (B) the administration of the Act of July 9, 1942 ( 43 U.S.C. 315q ).
-  (2) The maintenance of defense access roads which are certified to the Secretary of Transportation as important to the national defense under the provisions of section 210 of title 23 .
-(c) 
-  (1) Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
-  (2) In this subsection:
-    (A) The term “Member of Congress” includes a Delegate or Resident Commissioner to the Congress.
-    (B) The term “real property” includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
-(d) In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
+- **(a)** Appropriations for operation and maintenance of the active forces shall be available for the following:
+  - **(1)** The repair of facilities.
+  - **(2)** The installation of equipment in public and private plants.
+- **(b)** The Secretary of Defense and the Secretary of each military department may provide for the following:
+  - **(1)** The leasing of buildings and facilities (including the payment of rentals for special purpose space at the seat of Government). Rental for such leases may be paid in advance in connection with—
+    - **(A)** the conduct of field exercises and maneuvers; and
+    - **(B)** the administration of the Act of July 9, 1942 ( 43 U.S.C. 315q ).
+  - **(2)** The maintenance of defense access roads which are certified to the Secretary of Transportation as important to the national defense under the provisions of section 210 of title 23 .
+- **(c)**
+  - **(1)** Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
+  - **(2)** In this subsection:
+    - **(A)** The term “Member of Congress” includes a Delegate or Resident Commissioner to the Congress.
+    - **(B)** The term “real property” includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
+- **(d)** In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.

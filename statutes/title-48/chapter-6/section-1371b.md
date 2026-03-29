@@ -5,7 +5,7 @@ usc_section: "1371b"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1371b"
-generated_at: "2026-03-29T00:33:06.602Z"
+generated_at: "2026-03-29T02:16:00.801Z"
 ---
 
 # §§ 1371 to 1371b. Repealed. July 21, 1949, ch. 356, § 1(b) , 63 Stat. 475

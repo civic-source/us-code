@@ -5,14 +5,14 @@ usc_section: "1204"
 chapter: 11
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 1204"
-generated_at: "2026-03-29T00:33:04.950Z"
+generated_at: "2026-03-29T02:15:59.267Z"
 ---
 
 # § 1204. Grant program for remote community alert systems
 
-(a) The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the Secretary of Homeland Security, shall establish a program under which grants may be made to provide for outdoor alerting technologies in remote communities effectively unserved by commercial mobile service (as determined by the Federal Communications Commission within 180 days after October 13, 2006 ) for the purpose of enabling residents of those communities to receive emergency alerts.
-(b) In conducting the program, the Under Secretary—
-  (1) shall establish a notification and application procedure; and
-  (2) may establish such conditions, and require such assurances, as may be appropriate to ensure the efficiency and integrity of the grant program.
-(c) The Under Secretary may not make grants under subsection (a) more than 5 years after October 13, 2006 .
-(d) The sum of the amounts awarded for all fiscal years as grants under this section may not exceed $10,000,000.
+- **(a)** The Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the Secretary of Homeland Security, shall establish a program under which grants may be made to provide for outdoor alerting technologies in remote communities effectively unserved by commercial mobile service (as determined by the Federal Communications Commission within 180 days after October 13, 2006 ) for the purpose of enabling residents of those communities to receive emergency alerts.
+- **(b)** In conducting the program, the Under Secretary—
+  - **(1)** shall establish a notification and application procedure; and
+  - **(2)** may establish such conditions, and require such assurances, as may be appropriate to ensure the efficiency and integrity of the grant program.
+- **(c)** The Under Secretary may not make grants under subsection (a) more than 5 years after October 13, 2006 .
+- **(d)** The sum of the amounts awarded for all fiscal years as grants under this section may not exceed $10,000,000.

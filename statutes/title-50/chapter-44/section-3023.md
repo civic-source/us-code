@@ -5,16 +5,16 @@ usc_section: "3023"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3023"
-generated_at: "2026-03-29T00:33:18.161Z"
+generated_at: "2026-03-29T02:16:14.753Z"
 ---
 
 # § 3023. Director of National Intelligence
 
-(a) 
-  (1) There is a Director of National Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate. Any individual nominated for appointment as Director of National Intelligence shall have extensive national security expertise.
-  (2) The Director of National Intelligence shall not be located within the Executive Office of the President.
-(b) Subject to the authority, direction, and control of the President, the Director of National Intelligence shall—
-  (1) serve as head of the intelligence community;
-  (2) act as the principal adviser to the President, to the National Security Council, and the Homeland Security Council for intelligence matters related to the national security; and
-  (3) consistent with section 1018 of the National Security Intelligence Reform Act of 2004, oversee and direct the implementation of the National Intelligence Program.
-(c) The individual serving in the position of Director of National Intelligence shall not, while so serving, also serve as the Director of the Central Intelligence Agency or as the head of any other element of the intelligence community.
+- **(a)**
+  - **(1)** There is a Director of National Intelligence who shall be appointed by the President, by and with the advice and consent of the Senate. Any individual nominated for appointment as Director of National Intelligence shall have extensive national security expertise.
+  - **(2)** The Director of National Intelligence shall not be located within the Executive Office of the President.
+- **(b)** Subject to the authority, direction, and control of the President, the Director of National Intelligence shall—
+  - **(1)** serve as head of the intelligence community;
+  - **(2)** act as the principal adviser to the President, to the National Security Council, and the Homeland Security Council for intelligence matters related to the national security; and
+  - **(3)** consistent with section 1018 of the National Security Intelligence Reform Act of 2004, oversee and direct the implementation of the National Intelligence Program.
+- **(c)** The individual serving in the position of Director of National Intelligence shall not, while so serving, also serve as the Director of the Central Intelligence Agency or as the head of any other element of the intelligence community.

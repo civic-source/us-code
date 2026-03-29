@@ -5,27 +5,27 @@ usc_section: "4435"
 chapter: 28
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4435"
-generated_at: "2026-03-29T00:30:20.303Z"
+generated_at: "2026-03-29T02:12:08.770Z"
 ---
 
 # § 4435. Recovery of initial U.S. Customs and Border Protection preclearance operations costs
 
-(a) The Commissioner may enter into a cost sharing agreement with airport authorities in foreign countries at which preclearance operations are to be established or maintained if—
-  (1) an executive agreement to establish or maintain such preclearance operations pursuant to the authorities under section 1629 of this title and section 1103(a)(7) of title 8 has been signed, but has not yet entered into force; and
-  (2) U.S. Customs and Border Protection has incurred, or expects to incur, initial preclearance operations costs in order to establish or maintain preclearance operations under the agreement described in paragraph (1).
-(b) 
-  (1) Notwithstanding section 58c(e) of this title and section 1356(g) of title 8 , any cost sharing agreement with an airport authority authorized under subsection (a) may provide for the airport authority’s payment to U.S. Customs and Border Protection of its initial preclearance operations costs.
-  (2) The airport authority’s payment to U.S. Customs and Border Protection for its initial preclearance operations costs may be made in advance of the incurrence of the costs or on a reimbursable basis.
-(c) 
-  (1) All amounts collected pursuant to any cost sharing agreement authorized under subsection (a)—
-    (A) shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
-    (B) shall remain available, until expended, for the purposes for which such appropriation, account, or fund is authorized to be used; and
-    (C) may be collected and shall be available only to the extent provided in appropriations Acts.
-  (2) Any advances or reimbursements not used by U.S. Customs and Border Protection may be returned to the relevant airport authority.
-  (3) Nothing in this subsection may be construed to preclude the use of appropriated funds from sources other than the payments collected under this subchapter to pay initial preclearance operation costs.
-(d) 
-  (1) In this section, the term “initial preclearance operations costs” means the costs incurred, or expected to be incurred, by U.S. Customs and Border Protection to establish or maintain preclearance operations at an airport in a foreign country, including costs relating to—
-    (A) hiring, training, and equipping new U.S. Customs and Border Protection officers who will be stationed at United States domestic ports of entry or other U.S. Customs and Border Protection facilities to backfill U.S. Customs and Border Protection officers to be stationed at an airport in a foreign country to conduct preclearance operations; and
-    (B) visits to the airport authority conducted by U.S. Customs and Border Protection personnel necessary to prepare for the establishment or maintenance of preclearance operations at such airport, including the compensation, travel expenses, and allowances payable to such personnel attributable to such visits.
-  (2) The costs described in paragraph (1)(A) shall not include the salaries and benefits of new U.S. Customs and Border Protection officers once such officers are permanently stationed at a domestic United States port of entry or other domestic U.S. Customs and Border Protection facility after being hired, trained, and equipped.
-(e) Except as otherwise provided in this section, nothing in this section may be construed as affecting the responsibilities, duties, or authorities of U.S. Customs and Border Protection.
+- **(a)** The Commissioner may enter into a cost sharing agreement with airport authorities in foreign countries at which preclearance operations are to be established or maintained if—
+  - **(1)** an executive agreement to establish or maintain such preclearance operations pursuant to the authorities under section 1629 of this title and section 1103(a)(7) of title 8 has been signed, but has not yet entered into force; and
+  - **(2)** U.S. Customs and Border Protection has incurred, or expects to incur, initial preclearance operations costs in order to establish or maintain preclearance operations under the agreement described in paragraph (1).
+- **(b)**
+  - **(1)** Notwithstanding section 58c(e) of this title and section 1356(g) of title 8 , any cost sharing agreement with an airport authority authorized under subsection (a) may provide for the airport authority’s payment to U.S. Customs and Border Protection of its initial preclearance operations costs.
+  - **(2)** The airport authority’s payment to U.S. Customs and Border Protection for its initial preclearance operations costs may be made in advance of the incurrence of the costs or on a reimbursable basis.
+- **(c)**
+  - **(1)** All amounts collected pursuant to any cost sharing agreement authorized under subsection (a)—
+    - **(A)** shall be credited as offsetting collections to the currently applicable appropriation, account, or fund of U.S. Customs and Border Protection;
+    - **(B)** shall remain available, until expended, for the purposes for which such appropriation, account, or fund is authorized to be used; and
+    - **(C)** may be collected and shall be available only to the extent provided in appropriations Acts.
+  - **(2)** Any advances or reimbursements not used by U.S. Customs and Border Protection may be returned to the relevant airport authority.
+  - **(3)** Nothing in this subsection may be construed to preclude the use of appropriated funds from sources other than the payments collected under this subchapter to pay initial preclearance operation costs.
+- **(d)**
+  - **(1)** In this section, the term “initial preclearance operations costs” means the costs incurred, or expected to be incurred, by U.S. Customs and Border Protection to establish or maintain preclearance operations at an airport in a foreign country, including costs relating to—
+    - **(A)** hiring, training, and equipping new U.S. Customs and Border Protection officers who will be stationed at United States domestic ports of entry or other U.S. Customs and Border Protection facilities to backfill U.S. Customs and Border Protection officers to be stationed at an airport in a foreign country to conduct preclearance operations; and
+    - **(B)** visits to the airport authority conducted by U.S. Customs and Border Protection personnel necessary to prepare for the establishment or maintenance of preclearance operations at such airport, including the compensation, travel expenses, and allowances payable to such personnel attributable to such visits.
+  - **(2)** The costs described in paragraph (1)(A) shall not include the salaries and benefits of new U.S. Customs and Border Protection officers once such officers are permanently stationed at a domestic United States port of entry or other domestic U.S. Customs and Border Protection facility after being hired, trained, and equipped.
+- **(e)** Except as otherwise provided in this section, nothing in this section may be construed as affecting the responsibilities, duties, or authorities of U.S. Customs and Border Protection.

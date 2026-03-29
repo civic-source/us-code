@@ -5,7 +5,7 @@ usc_section: "7689"
 chapter: 773
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7689"
-generated_at: "2026-03-29T00:20:53.203Z"
+generated_at: "2026-03-29T02:10:45.287Z"
 ---
 
 # § 7689. Transfer of material and equipment to the Architect of the Capitol

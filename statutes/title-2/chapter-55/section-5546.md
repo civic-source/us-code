@@ -5,13 +5,13 @@ usc_section: "5546"
 chapter: 55
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 5546"
-generated_at: "2026-03-29T00:06:10.994Z"
+generated_at: "2026-03-29T02:09:53.787Z"
 ---
 
 # § 5546. Support services for House during emergency; memorandum of understanding with an executive agency
 
-(a) Notwithstanding any other provision of law—
-  (1) subject to subsection (b), the Chief Administrative Officer of the House of Representatives and the head of an executive agency (as defined in section 105 of title 5 ) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the House of Representatives during an emergency situation; and
-  (2) the Chief Administrative Officer and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
-(b) The Chief Administrative Officer of the House of Representatives may not enter into a memorandum of understanding described in subsection (a)(1) without the approval of the Speaker of the House of Representatives.
-(c) This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.
+- **(a)** Notwithstanding any other provision of law—
+  - **(1)** subject to subsection (b), the Chief Administrative Officer of the House of Representatives and the head of an executive agency (as defined in section 105 of title 5 ) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the House of Representatives during an emergency situation; and
+  - **(2)** the Chief Administrative Officer and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
+- **(b)** The Chief Administrative Officer of the House of Representatives may not enter into a memorandum of understanding described in subsection (a)(1) without the approval of the Speaker of the House of Representatives.
+- **(c)** This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.

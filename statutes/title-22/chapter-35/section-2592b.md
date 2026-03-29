@@ -5,7 +5,7 @@ usc_section: "2592b"
 chapter: 35
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2592b"
-generated_at: "2026-03-29T00:30:33.828Z"
+generated_at: "2026-03-29T02:12:40.100Z"
 ---
 
 # §§ 2592a, 2592b. Repealed. Pub. L. 103–199, title IV, § 403(a)(1) , (b)(1), Dec. 17, 1993 , 107 Stat. 2325

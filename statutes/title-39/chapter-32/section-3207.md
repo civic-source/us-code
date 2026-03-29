@@ -5,15 +5,15 @@ usc_section: "3207"
 chapter: 32
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3207"
-generated_at: "2026-03-29T00:32:18.855Z"
+generated_at: "2026-03-29T02:14:53.130Z"
 ---
 
 # § 3207. Limit of weight of penalty mail; postage on overweight matter
 
-(a) Penalty mail is restricted to articles not in excess of the weight and size prescribed for that class of mail receiving high priority in handling and delivery, except—
-  (1) stamped paper and supplies sold or used by the Postal Service; and
-  (2) books and documents published or circulated by order of Congress when mailed by the Superintendent of Documents.
-(b) A penalty mail article which is—
-  (1) over 4 pounds in weight;
-  (2) not in excess of the weight and size prescribed for mail matter; and
-  (3) otherwise mailable;
+- **(a)** Penalty mail is restricted to articles not in excess of the weight and size prescribed for that class of mail receiving high priority in handling and delivery, except—
+  - **(1)** stamped paper and supplies sold or used by the Postal Service; and
+  - **(2)** books and documents published or circulated by order of Congress when mailed by the Superintendent of Documents.
+- **(b)** A penalty mail article which is—
+  - **(1)** over 4 pounds in weight;
+  - **(2)** not in excess of the weight and size prescribed for mail matter; and
+  - **(3)** otherwise mailable;

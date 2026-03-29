@@ -5,7 +5,7 @@ usc_section: "79q"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 79q"
-generated_at: "2026-03-29T00:29:52.294Z"
+generated_at: "2026-03-29T02:11:53.333Z"
 ---
 
 # § 79q. Pledge of full faith and credit of United States for payment of compensation for lands, etc., taken

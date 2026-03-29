@@ -5,77 +5,77 @@ usc_section: "3111"
 chapter: 32
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 3111"
-generated_at: "2026-03-29T00:31:27.708Z"
+generated_at: "2026-03-29T02:14:09.505Z"
 ---
 
 # § 3111. State workforce development boards
 
-(a) The Governor of a State shall establish a State workforce development board to carry out the functions described in subsection (d).
-(b) 
-  (1) The State board shall include—
-    (A) the Governor;
-    (B) a member of each chamber of the State legislature (to the extent consistent with State law), appointed by the appropriate presiding officers of such chamber; and
-    (C) members appointed by the Governor, of which—
-      (i) a majority shall be representatives of businesses in the State, who—
-        (I) are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymaking or hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title ;
-        (II) represent businesses (including small businesses), or organizations representing businesses described in this subclause, that provide employment opportunities that, at a minimum, include high-quality, work-relevant training and development in in-demand industry sectors or occupations in the State; and
-        (III) are appointed from among individuals nominated by State business organizations and business trade associations;
-      (ii) not less than 20 percent shall be representatives of the workforce within the State, who—
-        (I) shall include representatives of labor organizations, who have been nominated by State labor federations;
-        (II) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the State, such a representative of an apprenticeship program in the State;
-        (III) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
-        (IV) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
-      (iii) the balance—
-        (I) shall include representatives of government, who—
-        (II) may include such other representatives and officials as the Governor may designate, such as—
-  (2) The members of the State board shall represent diverse geographic areas of the State, including urban, rural, and suburban areas.
-  (3) No person shall serve as a member for more than 1 of—
-    (A) the category described in paragraph (1)(C)(i); or
-    (B) 1 category described in a subclause of clause (ii) or (iii) of paragraph (1)(C).
-(c) The Governor shall select a chairperson for the State board from among the representatives described in subsection (b)(1)(C)(i).
-(d) The State board shall assist the Governor in—
-  (1) the development, implementation, and modification of the State plan;
-  (2) consistent with paragraph (1), the review of statewide policies, of statewide programs, and of recommendations on actions that should be taken by the State to align workforce development programs in the State in a manner that supports a comprehensive and streamlined workforce development system in the State, including the review and provision of comments on the State plans, if any, for programs and activities of one-stop partners that are not core programs;
-  (3) the development and continuous improvement of the workforce development system in the State, including—
-    (A) the identification of barriers and means for removing barriers to better coordinate, align, and avoid duplication among the programs and activities carried out through the system;
-    (B) the development of strategies to support the use of career pathways for the purpose of providing individuals, including low-skilled adults, youth, and individuals with barriers to employment (including individuals with disabilities), with workforce investment activities, education, and supportive services to enter or retain employment;
-    (C) the development of strategies for providing effective outreach to and improved access for individuals and employers who could benefit from services provided through the workforce development system;
-    (D) the development and expansion of strategies for meeting the needs of employers, workers, and jobseekers, particularly through industry or sector partnerships related to in-demand industry sectors and occupations;
-    (E) the identification of regions, including planning regions, for the purposes of section 3121(a) of this title , and the designation of local areas under section 3121 of this title , after consultation with local boards and chief elected officials;
-    (F) the development and continuous improvement of the one-stop delivery system in local areas, including providing assistance to local boards, one-stop operators, one-stop partners, and providers with planning and delivering services, including training services and supportive services, to support effective delivery of services to workers, jobseekers, and employers; and
-    (G) the development of strategies to support staff training and awareness across programs supported under the workforce development system;
-  (4) the development and updating of comprehensive State performance accountability measures, including State adjusted levels of performance, to assess the effectiveness of the core programs in the State as required under section 3141(b) of this title ;
-  (5) the identification and dissemination of information on best practices, including best practices for—
-    (A) the effective operation of one-stop centers, relating to the use of business outreach, partnerships, and service delivery strategies, including strategies for serving individuals with barriers to employment;
-    (B) the development of effective local boards, which may include information on factors that contribute to enabling local boards to exceed negotiated local levels of performance, sustain fiscal integrity, and achieve other measures of effectiveness; and
-    (C) effective training programs that respond to real-time labor market analysis, that effectively use direct assessment and prior learning assessment to measure an individual’s prior knowledge, skills, competencies, and experiences, and that evaluate such skills, and competencies for adaptability, to support efficient placement into employment or career pathways;
-  (6) the development and review of statewide policies affecting the coordinated provision of services through the State’s one-stop delivery system described in section 3151(e) of this title , including the development of—
-    (A) objective criteria and procedures for use by local boards in assessing the effectiveness and continuous improvement of one-stop centers described in such section;
-    (B) guidance for the allocation of one-stop center infrastructure funds under section 3151(h) of this title ; and
-    (C) policies relating to the appropriate roles and contributions of entities carrying out one-stop partner programs within the one-stop delivery system, including approaches to facilitating equitable and efficient cost allocation in such system;
-  (7) the development of strategies for technological improvements to facilitate access to, and improve the quality of, services and activities provided through the one-stop delivery system, including such improvements to—
-    (A) enhance digital literacy skills (as defined in section 9101 of title 20 ; referred to in this Act as “digital literacy skills”);
-    (B) accelerate the acquisition of skills and recognized postsecondary credentials by participants;
-    (C) strengthen the professional development of providers and workforce professionals; and
-    (D) ensure such technology is accessible to individuals with disabilities and individuals residing in remote areas;
-  (8) the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
-  (9) the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
-  (10) the preparation of the annual reports described in paragraphs (1) and (2) of section 3141(d) of this title ;
-  (11) the development of the statewide workforce and labor market information system described in section 49 l –2(e) of this title; and
-  (12) the development of such other policies as may promote statewide objectives for, and enhance the performance of, the workforce development system in the State.
-(e) 
-  (1) For the purposes of complying with subsections (a), (b), and (c), a State may use any State entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014 ), combination of regional workforce development boards, or similar entity) that—
-    (A) was in existence on the day before August 7, 1998 ;
-    (B) is substantially similar to the State board described in subsections (a) through (c); and
-    (C) includes representatives of business in the State and representatives of labor organizations in the State.
-  (2) A reference in this Act, or a core program provision that is not in this Act, to a State board shall be considered to include such an entity.
-(f) A member of a State board may not—
-  (1) vote on a matter under consideration by the State board—
-    (A) regarding the provision of services by such member (or by an entity that such member represents); or
-    (B) that would provide direct financial benefit to such member or the immediate family of such member; or
-  (2) engage in any other activity determined by the Governor to constitute a conflict of interest as specified in the State plan.
-(g) The State board shall make available to the public, on a regular basis through electronic means and open meetings, information regarding the activities of the State board, including information regarding the State plan, or a modification to the State plan, prior to submission of the plan or modification of the plan, respectively, information regarding membership, and, on request, minutes of formal meetings of the State board.
-(h) 
-  (1) The State board may hire a director and other staff to assist in carrying out the functions described in subsection (d) using funds available as described in section 3164(b)(3) of this title or 3174(a)(3)(B)(i) of this title.
-  (2) The State board shall establish and apply a set of objective qualifications for the position of director, that ensures that the individual selected has the requisite knowledge, skills, and abilities, to meet identified benchmarks and to assist in effectively carrying out the functions of the State board.
-  (3) The director and staff described in paragraph (1) shall be subject to the limitations on the payment of salary and bonuses described in section 3254(15) of this title .
+- **(a)** The Governor of a State shall establish a State workforce development board to carry out the functions described in subsection (d).
+- **(b)**
+  - **(1)** The State board shall include—
+    - **(A)** the Governor;
+    - **(B)** a member of each chamber of the State legislature (to the extent consistent with State law), appointed by the appropriate presiding officers of such chamber; and
+    - **(C)** members appointed by the Governor, of which—
+      - **(i)** a majority shall be representatives of businesses in the State, who—
+        - **(I)** are owners of businesses, chief executives or operating officers of businesses, or other business executives or employers with optimum policymaking or hiring authority, and who, in addition, may be members of a local board described in section 3122(b)(2)(A)(i) of this title ;
+        - **(II)** represent businesses (including small businesses), or organizations representing businesses described in this subclause, that provide employment opportunities that, at a minimum, include high-quality, work-relevant training and development in in-demand industry sectors or occupations in the State; and
+        - **(III)** are appointed from among individuals nominated by State business organizations and business trade associations;
+      - **(ii)** not less than 20 percent shall be representatives of the workforce within the State, who—
+        - **(I)** shall include representatives of labor organizations, who have been nominated by State labor federations;
+        - **(II)** shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the State, such a representative of an apprenticeship program in the State;
+        - **(III)** may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
+        - **(IV)** may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
+      - **(iii)** the balance—
+        - **(I)** shall include representatives of government, who—
+        - **(II)** may include such other representatives and officials as the Governor may designate, such as—
+  - **(2)** The members of the State board shall represent diverse geographic areas of the State, including urban, rural, and suburban areas.
+  - **(3)** No person shall serve as a member for more than 1 of—
+    - **(A)** the category described in paragraph (1)(C)(i); or
+    - **(B)** 1 category described in a subclause of clause (ii) or (iii) of paragraph (1)(C).
+- **(c)** The Governor shall select a chairperson for the State board from among the representatives described in subsection (b)(1)(C)(i).
+- **(d)** The State board shall assist the Governor in—
+  - **(1)** the development, implementation, and modification of the State plan;
+  - **(2)** consistent with paragraph (1), the review of statewide policies, of statewide programs, and of recommendations on actions that should be taken by the State to align workforce development programs in the State in a manner that supports a comprehensive and streamlined workforce development system in the State, including the review and provision of comments on the State plans, if any, for programs and activities of one-stop partners that are not core programs;
+  - **(3)** the development and continuous improvement of the workforce development system in the State, including—
+    - **(A)** the identification of barriers and means for removing barriers to better coordinate, align, and avoid duplication among the programs and activities carried out through the system;
+    - **(B)** the development of strategies to support the use of career pathways for the purpose of providing individuals, including low-skilled adults, youth, and individuals with barriers to employment (including individuals with disabilities), with workforce investment activities, education, and supportive services to enter or retain employment;
+    - **(C)** the development of strategies for providing effective outreach to and improved access for individuals and employers who could benefit from services provided through the workforce development system;
+    - **(D)** the development and expansion of strategies for meeting the needs of employers, workers, and jobseekers, particularly through industry or sector partnerships related to in-demand industry sectors and occupations;
+    - **(E)** the identification of regions, including planning regions, for the purposes of section 3121(a) of this title , and the designation of local areas under section 3121 of this title , after consultation with local boards and chief elected officials;
+    - **(F)** the development and continuous improvement of the one-stop delivery system in local areas, including providing assistance to local boards, one-stop operators, one-stop partners, and providers with planning and delivering services, including training services and supportive services, to support effective delivery of services to workers, jobseekers, and employers; and
+    - **(G)** the development of strategies to support staff training and awareness across programs supported under the workforce development system;
+  - **(4)** the development and updating of comprehensive State performance accountability measures, including State adjusted levels of performance, to assess the effectiveness of the core programs in the State as required under section 3141(b) of this title ;
+  - **(5)** the identification and dissemination of information on best practices, including best practices for—
+    - **(A)** the effective operation of one-stop centers, relating to the use of business outreach, partnerships, and service delivery strategies, including strategies for serving individuals with barriers to employment;
+    - **(B)** the development of effective local boards, which may include information on factors that contribute to enabling local boards to exceed negotiated local levels of performance, sustain fiscal integrity, and achieve other measures of effectiveness; and
+    - **(C)** effective training programs that respond to real-time labor market analysis, that effectively use direct assessment and prior learning assessment to measure an individual’s prior knowledge, skills, competencies, and experiences, and that evaluate such skills, and competencies for adaptability, to support efficient placement into employment or career pathways;
+  - **(6)** the development and review of statewide policies affecting the coordinated provision of services through the State’s one-stop delivery system described in section 3151(e) of this title , including the development of—
+    - **(A)** objective criteria and procedures for use by local boards in assessing the effectiveness and continuous improvement of one-stop centers described in such section;
+    - **(B)** guidance for the allocation of one-stop center infrastructure funds under section 3151(h) of this title ; and
+    - **(C)** policies relating to the appropriate roles and contributions of entities carrying out one-stop partner programs within the one-stop delivery system, including approaches to facilitating equitable and efficient cost allocation in such system;
+  - **(7)** the development of strategies for technological improvements to facilitate access to, and improve the quality of, services and activities provided through the one-stop delivery system, including such improvements to—
+    - **(A)** enhance digital literacy skills (as defined in section 9101 of title 20 ; referred to in this Act as “digital literacy skills”);
+    - **(B)** accelerate the acquisition of skills and recognized postsecondary credentials by participants;
+    - **(C)** strengthen the professional development of providers and workforce professionals; and
+    - **(D)** ensure such technology is accessible to individuals with disabilities and individuals residing in remote areas;
+  - **(8)** the development of strategies for aligning technology and data systems across one-stop partner programs to enhance service delivery and improve efficiencies in reporting on performance accountability measures (including the design and implementation of common intake, data collection, case management information, and performance accountability measurement and reporting processes and the incorporation of local input into such design and implementation, to improve coordination of services across one-stop partner programs);
+  - **(9)** the development of allocation formulas for the distribution of funds for employment and training activities for adults, and youth workforce investment activities, to local areas as permitted under sections 3163(b)(3) and 3173(b)(3) of this title;
+  - **(10)** the preparation of the annual reports described in paragraphs (1) and (2) of section 3141(d) of this title ;
+  - **(11)** the development of the statewide workforce and labor market information system described in section 49 l –2(e) of this title; and
+  - **(12)** the development of such other policies as may promote statewide objectives for, and enhance the performance of, the workforce development system in the State.
+- **(e)**
+  - **(1)** For the purposes of complying with subsections (a), (b), and (c), a State may use any State entity (including a State council, State workforce development board (within the meaning of the Workforce Investment Act of 1998, as in effect on the day before July 22, 2014 ), combination of regional workforce development boards, or similar entity) that—
+    - **(A)** was in existence on the day before August 7, 1998 ;
+    - **(B)** is substantially similar to the State board described in subsections (a) through (c); and
+    - **(C)** includes representatives of business in the State and representatives of labor organizations in the State.
+  - **(2)** A reference in this Act, or a core program provision that is not in this Act, to a State board shall be considered to include such an entity.
+- **(f)** A member of a State board may not—
+  - **(1)** vote on a matter under consideration by the State board—
+    - **(A)** regarding the provision of services by such member (or by an entity that such member represents); or
+    - **(B)** that would provide direct financial benefit to such member or the immediate family of such member; or
+  - **(2)** engage in any other activity determined by the Governor to constitute a conflict of interest as specified in the State plan.
+- **(g)** The State board shall make available to the public, on a regular basis through electronic means and open meetings, information regarding the activities of the State board, including information regarding the State plan, or a modification to the State plan, prior to submission of the plan or modification of the plan, respectively, information regarding membership, and, on request, minutes of formal meetings of the State board.
+- **(h)**
+  - **(1)** The State board may hire a director and other staff to assist in carrying out the functions described in subsection (d) using funds available as described in section 3164(b)(3) of this title or 3174(a)(3)(B)(i) of this title.
+  - **(2)** The State board shall establish and apply a set of objective qualifications for the position of director, that ensures that the individual selected has the requisite knowledge, skills, and abilities, to meet identified benchmarks and to assist in effectively carrying out the functions of the State board.
+  - **(3)** The director and staff described in paragraph (1) shall be subject to the limitations on the payment of salary and bonuses described in section 3254(15) of this title .

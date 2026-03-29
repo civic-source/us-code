@@ -5,7 +5,7 @@ usc_section: "189"
 chapter: 5
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 189"
-generated_at: "2026-03-29T00:30:38.621Z"
+generated_at: "2026-03-29T02:13:20.842Z"
 ---
 
 # §§ 188, 189. Repealed. Oct. 31, 1951, ch. 654, § 1(49) , (50), 65 Stat. 703

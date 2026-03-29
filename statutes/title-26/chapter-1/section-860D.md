@@ -5,26 +5,26 @@ usc_section: "860D"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 860D"
-generated_at: "2026-03-29T00:31:20.824Z"
+generated_at: "2026-03-29T02:14:01.057Z"
 ---
 
 # § 860D. REMIC defined
 
-(a) For purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity—
-  (1) to which an election to be treated as a REMIC applies for the taxable year and all prior taxable years,
-  (2) all of the interests in which are regular interests or residual interests,
-  (3) which has 1 (and only 1) class of residual interests (and all distributions, if any, with respect to such interests are pro rata),
-  (4) as of the close of the 3rd month beginning after the startup day and at all times thereafter, substantially all of the assets of which consist of qualified mortgages and permitted investments,
-  (5) which has a taxable year which is a calendar year, and
-  (6) with respect to which there are reasonable arrangements designed to ensure that—
-    (A) residual interests in such entity are not held by disqualified organizations (as defined in section 860E(e)(5)), and
-    (B) information necessary for the application of section 860E(e) will be made available by the entity.
-(b) 
-  (1) An entity (otherwise meeting the requirements of subsection (a)) may elect to be treated as a REMIC for its 1st taxable year. Such an election shall be made on its return for such 1st taxable year. Except as provided in paragraph (2), such an election shall apply to the taxable year for which made and all subsequent taxable years.
-  (2) 
-    (A) If any entity ceases to be a REMIC at any time during the taxable year, such entity shall not be treated as a REMIC for such taxable year or any succeeding taxable year.
-    (B) If—
-      (i) an entity ceases to be a REMIC,
-      (ii) the Secretary determines that such cessation was inadvertent,
-      (iii) no later than a reasonable time after the discovery of the event resulting in such cessation, steps are taken so that such entity is once more a REMIC, and
-      (iv) such entity, and each person holding an interest in such entity at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such entity as a REMIC or a C corporation) as may be required by the Secretary with respect to such period,
+- **(a)** For purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity—
+  - **(1)** to which an election to be treated as a REMIC applies for the taxable year and all prior taxable years,
+  - **(2)** all of the interests in which are regular interests or residual interests,
+  - **(3)** which has 1 (and only 1) class of residual interests (and all distributions, if any, with respect to such interests are pro rata),
+  - **(4)** as of the close of the 3rd month beginning after the startup day and at all times thereafter, substantially all of the assets of which consist of qualified mortgages and permitted investments,
+  - **(5)** which has a taxable year which is a calendar year, and
+  - **(6)** with respect to which there are reasonable arrangements designed to ensure that—
+    - **(A)** residual interests in such entity are not held by disqualified organizations (as defined in section 860E(e)(5)), and
+    - **(B)** information necessary for the application of section 860E(e) will be made available by the entity.
+- **(b)**
+  - **(1)** An entity (otherwise meeting the requirements of subsection (a)) may elect to be treated as a REMIC for its 1st taxable year. Such an election shall be made on its return for such 1st taxable year. Except as provided in paragraph (2), such an election shall apply to the taxable year for which made and all subsequent taxable years.
+  - **(2)**
+    - **(A)** If any entity ceases to be a REMIC at any time during the taxable year, such entity shall not be treated as a REMIC for such taxable year or any succeeding taxable year.
+    - **(B)** If—
+      - **(i)** an entity ceases to be a REMIC,
+      - **(ii)** the Secretary determines that such cessation was inadvertent,
+      - **(iii)** no later than a reasonable time after the discovery of the event resulting in such cessation, steps are taken so that such entity is once more a REMIC, and
+      - **(iv)** such entity, and each person holding an interest in such entity at any time during the period specified pursuant to this subsection, agrees to make such adjustments (consistent with the treatment of such entity as a REMIC or a C corporation) as may be required by the Secretary with respect to such period,

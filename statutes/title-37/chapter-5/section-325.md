@@ -5,29 +5,29 @@ usc_section: "325"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 325"
-generated_at: "2026-03-29T00:32:04.410Z"
+generated_at: "2026-03-29T02:14:43.127Z"
 ---
 
 # § 325. Incentive bonus: savings plan for education expenses and other contingencies
 
-(a) The Secretary concerned may purchase United States savings bonds under this section for a member of the armed forces who is eligible as follows:
-  (1) A member who, before completing three years of service on active duty, enters into a commitment to perform qualifying service.
-  (2) A member who, after completing three years of service on active duty, but not more than nine years of service on active duty, enters into a commitment to perform qualifying service.
-  (3) A member who, after completing nine years of service on active duty, enters into a commitment to perform qualifying service.
-(b) For the purposes of this section, qualifying service is service on active duty in a specialty designated by the Secretary concerned as critical to meet requirements (whether or not such specialty is designated as critical to meet wartime or peacetime requirements) for a period that—
-  (1) is not less than six years; and
-  (2) does not include any part of a period for which the member is obligated to serve on active duty under an enlistment or other agreement for which a benefit has previously been paid under this section.
-(c) For the purposes of this section, a commitment means—
-  (1) in the case of an enlisted member, a reenlistment; and
-  (2) in the case of a commissioned officer, an agreement entered into with the Secretary concerned.
-(d) The total of the face amounts of the United States savings bonds authorized to be purchased for a member under this section for a commitment shall be as follows:
-  (1) In the case of a purchase for a member under paragraph (1) of subsection (a), $5,000.
-  (2) In the case of a purchase for a member under paragraph (2) of subsection (a), the amount equal to the excess of $15,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
-  (3) In the case of a purchase for a member under paragraph (3) of subsection (a), the amount equal to the excess of $30,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
-(e) The total amount of the benefit authorized for a member when United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
-  (1) the purchase price of the United States savings bonds; and
-  (2) the amounts that would be deducted and withheld for the payment of individual income taxes if the total amount computed under this subsection for that commitment were paid to the member as a bonus.
-(f) The total amount payable for a member under subsection (e)(2) for a commitment by that member shall be withheld, credited, and otherwise treated in the same manner as amounts deducted and withheld from the basic pay of the member.
-(g) If a person does not complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall be subject to the repayment provisions of section 303a(e) of this title .
-(h) The benefit authorized under this section is in addition to any other bonus or incentive or special pay that is paid or payable to a member under any other provision of this chapter for any portion of the same qualifying service.
-(i) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+- **(a)** The Secretary concerned may purchase United States savings bonds under this section for a member of the armed forces who is eligible as follows:
+  - **(1)** A member who, before completing three years of service on active duty, enters into a commitment to perform qualifying service.
+  - **(2)** A member who, after completing three years of service on active duty, but not more than nine years of service on active duty, enters into a commitment to perform qualifying service.
+  - **(3)** A member who, after completing nine years of service on active duty, enters into a commitment to perform qualifying service.
+- **(b)** For the purposes of this section, qualifying service is service on active duty in a specialty designated by the Secretary concerned as critical to meet requirements (whether or not such specialty is designated as critical to meet wartime or peacetime requirements) for a period that—
+  - **(1)** is not less than six years; and
+  - **(2)** does not include any part of a period for which the member is obligated to serve on active duty under an enlistment or other agreement for which a benefit has previously been paid under this section.
+- **(c)** For the purposes of this section, a commitment means—
+  - **(1)** in the case of an enlisted member, a reenlistment; and
+  - **(2)** in the case of a commissioned officer, an agreement entered into with the Secretary concerned.
+- **(d)** The total of the face amounts of the United States savings bonds authorized to be purchased for a member under this section for a commitment shall be as follows:
+  - **(1)** In the case of a purchase for a member under paragraph (1) of subsection (a), $5,000.
+  - **(2)** In the case of a purchase for a member under paragraph (2) of subsection (a), the amount equal to the excess of $15,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
+  - **(3)** In the case of a purchase for a member under paragraph (3) of subsection (a), the amount equal to the excess of $30,000 over the total of the face amounts of any United States savings bonds previously purchased for the member under this section.
+- **(e)** The total amount of the benefit authorized for a member when United States savings bonds are purchased for the member under this section by reason of a commitment by that member shall be the sum of—
+  - **(1)** the purchase price of the United States savings bonds; and
+  - **(2)** the amounts that would be deducted and withheld for the payment of individual income taxes if the total amount computed under this subsection for that commitment were paid to the member as a bonus.
+- **(f)** The total amount payable for a member under subsection (e)(2) for a commitment by that member shall be withheld, credited, and otherwise treated in the same manner as amounts deducted and withheld from the basic pay of the member.
+- **(g)** If a person does not complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall be subject to the repayment provisions of section 303a(e) of this title .
+- **(h)** The benefit authorized under this section is in addition to any other bonus or incentive or special pay that is paid or payable to a member under any other provision of this chapter for any portion of the same qualifying service.
+- **(i)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.

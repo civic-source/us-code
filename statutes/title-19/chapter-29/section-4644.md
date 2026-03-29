@@ -5,17 +5,17 @@ usc_section: "4644"
 chapter: 29
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4644"
-generated_at: "2026-03-29T00:30:20.316Z"
+generated_at: "2026-03-29T02:12:08.784Z"
 ---
 
 # § 4644. Assessments
 
-(a) For the 10-year period beginning on January 29, 2020 , except as provided in subsection (b), the Interagency Labor Committee shall assess on a biannual basis the extent to which Mexico is in compliance with its obligations under Annex 23–A of the USMCA.
-(b) On or after the date that is 5 years after January 29, 2020 , the Interagency Labor Committee may consult with the appropriate congressional committees with respect to the frequency of the assessment required under subsection (a) and, with the approval of both such committees, may conduct such assessment on an annual basis for the following 5 years.
-(c) The assessment required under subsection (a) shall also include each of the following:
-  (1) Whether Mexico is providing adequate funding to implement and enforce Mexico’s labor reform, including specifically whether Mexico has provided funding consistent with commitments made to contribute the following amounts for the labor reform implementation budget:
-    (A) $176,000,000 for 2021.
-    (B) $325,000,000 for 2022.
-    (C) $328,000,000 for 2023.
-  (2) The extent to which any legal challenges to Mexico’s labor reform have succeeded in that court system.
-  (3) The extent to which Mexico has implemented the federal and state labor courts, registration entity, and federal and state conciliation centers consistent with the timeline set forth for Mexico’s labor reform, in the September 2019 policy statements by the Government of Mexico on a national strategy for implementation of the labor justice system, and in subsequent policy statements in accordance with Mexico’s labor reform.
+- **(a)** For the 10-year period beginning on January 29, 2020 , except as provided in subsection (b), the Interagency Labor Committee shall assess on a biannual basis the extent to which Mexico is in compliance with its obligations under Annex 23–A of the USMCA.
+- **(b)** On or after the date that is 5 years after January 29, 2020 , the Interagency Labor Committee may consult with the appropriate congressional committees with respect to the frequency of the assessment required under subsection (a) and, with the approval of both such committees, may conduct such assessment on an annual basis for the following 5 years.
+- **(c)** The assessment required under subsection (a) shall also include each of the following:
+  - **(1)** Whether Mexico is providing adequate funding to implement and enforce Mexico’s labor reform, including specifically whether Mexico has provided funding consistent with commitments made to contribute the following amounts for the labor reform implementation budget:
+    - **(A)** $176,000,000 for 2021.
+    - **(B)** $325,000,000 for 2022.
+    - **(C)** $328,000,000 for 2023.
+  - **(2)** The extent to which any legal challenges to Mexico’s labor reform have succeeded in that court system.
+  - **(3)** The extent to which Mexico has implemented the federal and state labor courts, registration entity, and federal and state conciliation centers consistent with the timeline set forth for Mexico’s labor reform, in the September 2019 policy statements by the Government of Mexico on a national strategy for implementation of the labor justice system, and in subsequent policy statements in accordance with Mexico’s labor reform.

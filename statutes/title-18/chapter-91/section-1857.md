@@ -5,7 +5,7 @@ usc_section: "1857"
 chapter: 91
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1857"
-generated_at: "2026-03-29T00:30:15.683Z"
+generated_at: "2026-03-29T02:12:02.428Z"
 ---
 
 # § 1857. Fences destroyed; livestock entering

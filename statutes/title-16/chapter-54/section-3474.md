@@ -5,19 +5,19 @@ usc_section: "3474"
 chapter: 54
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3474"
-generated_at: "2026-03-29T00:29:52.801Z"
+generated_at: "2026-03-29T02:11:53.889Z"
 ---
 
 # § 3474. Conservation incentives landowner education program
 
-(a) Not later than 1 year after March 12, 2019 , the Secretary shall establish a conservation incentives landowner education program (referred to in this section as the “program”).
-(b) The program shall provide information on Federal conservation programs available to landowners interested in undertaking conservation actions on the land of the landowners, including options under each conservation program available to achieve the conservation goals of the program, such as—
-  (1) fee title land acquisition;
-  (2) donation; and
-  (3) perpetual and term conservation easements or agreements.
-(c) The Secretary shall ensure that the information provided under the program is made available to—
-  (1) interested landowners; and
-  (2) the public.
-(d) In any case in which the Secretary contacts a landowner directly about participation in a Federal conservation program, the Secretary shall, in writing—
-  (1) notify the landowner of the program; and
-  (2) make available information on the conservation program options that may be available to the landowner.
+- **(a)** Not later than 1 year after March 12, 2019 , the Secretary shall establish a conservation incentives landowner education program (referred to in this section as the “program”).
+- **(b)** The program shall provide information on Federal conservation programs available to landowners interested in undertaking conservation actions on the land of the landowners, including options under each conservation program available to achieve the conservation goals of the program, such as—
+  - **(1)** fee title land acquisition;
+  - **(2)** donation; and
+  - **(3)** perpetual and term conservation easements or agreements.
+- **(c)** The Secretary shall ensure that the information provided under the program is made available to—
+  - **(1)** interested landowners; and
+  - **(2)** the public.
+- **(d)** In any case in which the Secretary contacts a landowner directly about participation in a Federal conservation program, the Secretary shall, in writing—
+  - **(1)** notify the landowner of the program; and
+  - **(2)** make available information on the conservation program options that may be available to the landowner.

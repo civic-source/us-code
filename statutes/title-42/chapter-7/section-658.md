@@ -5,7 +5,7 @@ usc_section: "658"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 658"
-generated_at: "2026-03-29T00:32:53.239Z"
+generated_at: "2026-03-29T02:15:36.016Z"
 ---
 
 # § 658. Repealed. Pub. L. 105–200, title II, § 201(f)(1) , July 16, 1998 , 112 Stat. 657

@@ -5,7 +5,7 @@ usc_section: "195"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 195"
-generated_at: "2026-03-29T00:29:16.476Z"
+generated_at: "2026-03-29T02:11:20.841Z"
 ---
 
 # § 195. Repealed. Pub. L. 103–325, title VI, § 602(e)(36) , Sept. 23, 1994 , 108 Stat. 2292

@@ -5,7 +5,7 @@ usc_section: "2410"
 chapter: 37
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2410"
-generated_at: "2026-03-29T00:31:57.436Z"
+generated_at: "2026-03-29T02:14:18.635Z"
 ---
 
 # §§ 2401 to 2410. Repealed. Pub. L. 111–281, title X, § 1048 , Oct. 15, 2010 , 124 Stat. 3032

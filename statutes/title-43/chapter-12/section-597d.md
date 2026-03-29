@@ -5,7 +5,7 @@ usc_section: "597d"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 597d"
-generated_at: "2026-03-29T00:32:57.367Z"
+generated_at: "2026-03-29T02:15:47.556Z"
 ---
 
 # § 597d. Regulations

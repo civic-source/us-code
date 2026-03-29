@@ -5,7 +5,7 @@ usc_section: "1864"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1864"
-generated_at: "2026-03-29T00:06:10.964Z"
+generated_at: "2026-03-29T02:09:53.741Z"
 ---
 
 # § 1864. Funds out of Capitol Buildings, Architect of the Capitol Appropriation

@@ -5,12 +5,12 @@ usc_section: "390yy"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 390yy"
-generated_at: "2026-03-29T00:32:57.339Z"
+generated_at: "2026-03-29T02:15:47.538Z"
 ---
 
 # § 390yy. Leasing requirements
 
 Notwithstanding any other provision of Federal reclamation law, including this subchapter, lands which receive irrigation water may be leased only if the lease instrument is—
 
-  (1) written; and
-  (2) for a term not to exceed ten years, including any exercisable options: Provided, however , That leases of lands for the production of perennial crops having an average life of more than ten years may be for periods of time equal to the average life of the perennial crop but in any event not to exceed twenty-five years.
+  - **(1)** written; and
+  - **(2)** for a term not to exceed ten years, including any exercisable options: Provided, however , That leases of lands for the production of perennial crops having an average life of more than ten years may be for periods of time equal to the average life of the perennial crop but in any event not to exceed twenty-five years.

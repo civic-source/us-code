@@ -5,7 +5,7 @@ usc_section: "976"
 chapter: 26
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 976"
-generated_at: "2026-03-29T00:07:03.123Z"
+generated_at: "2026-03-29T02:12:17.169Z"
 ---
 
 # § 976. Authorization of appropriations

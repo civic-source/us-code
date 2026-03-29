@@ -5,19 +5,19 @@ usc_section: "7902"
 chapter: 79
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7902"
-generated_at: "2026-03-29T00:28:38.381Z"
+generated_at: "2026-03-29T02:10:01.916Z"
 ---
 
 # § 7902. Safety programs
 
-(a) For the purpose of this section—
-  (1) “employee” means an employee as defined by section 8101 of this title ; and
-  (2) “agency” means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
-(b) The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.
-(c) The President may—
-  (1) establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
-  (2) undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
-(d) The head of each agency shall develop and support organized safety promotion to reduce accidents and injuries among employees of his agency, encourage safe practices, and eliminate work hazards and health risks.
-(e) Each agency shall—
-  (1) keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
-  (2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
+- **(a)** For the purpose of this section—
+  - **(1)** “employee” means an employee as defined by section 8101 of this title ; and
+  - **(2)** “agency” means an agency in any branch of the Government of the United States (not including the United States Postal Service), including an instrumentality wholly owned by the United States, and the government of the District of Columbia.
+- **(b)** The Secretary of Labor shall carry out a safety program under section 941(b)(1) of title 33 covering the employment of each employee of an agency.
+- **(c)** The President may—
+  - **(1)** establish by Executive order a safety council composed of representatives of the agencies and of labor organizations representing employees to serve as an advisory body to the Secretary in furtherance of the safety program carried out by the Secretary under subsection (b) of this section; and
+  - **(2)** undertake such other measures as he considers proper to prevent injuries and accidents to employees of the agencies.
+- **(d)** The head of each agency shall develop and support organized safety promotion to reduce accidents and injuries among employees of his agency, encourage safe practices, and eliminate work hazards and health risks.
+- **(e)** Each agency shall—
+  - **(1)** keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
+  - **(2)** make such statistical or other reports on such forms as the Secretary may prescribe by regulation.

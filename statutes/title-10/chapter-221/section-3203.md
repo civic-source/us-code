@@ -5,19 +5,19 @@ usc_section: "3203"
 chapter: 221
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3203"
-generated_at: "2026-03-29T00:20:53.115Z"
+generated_at: "2026-03-29T02:10:45.175Z"
 ---
 
 # § 3203. Exclusion of particular source or restriction of solicitation to small business concerns
 
-(a) 
-  (1) The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
-    (A) would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of property or services;
-    (B) would be in the interest of national defense in having a facility (or a producer, manufacturer, or other supplier) available for furnishing the property or service in case of a national emergency or industrial mobilization;
-    (C) would be in the interest of national defense in establishing or maintaining an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center;
-    (D) would ensure the continuous availability of a reliable source of supply of such property or service;
-    (E) would satisfy projected needs for such property or service determined on the basis of a history of high demand for the property or service; or
-    (F) in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
-  (2) A determination under paragraph (1) may not be made for a class of purchases or contracts.
-(b) The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644).
-(c) A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title .
+- **(a)**
+  - **(1)** The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures but excluding a particular source in order to establish or maintain an alternative source or sources of supply for that property or service if the head of the agency determines that to do so—
+    - **(A)** would increase or maintain competition and would likely result in reduced overall costs for such procurement, or for any anticipated procurement, of property or services;
+    - **(B)** would be in the interest of national defense in having a facility (or a producer, manufacturer, or other supplier) available for furnishing the property or service in case of a national emergency or industrial mobilization;
+    - **(C)** would be in the interest of national defense in establishing or maintaining an essential engineering, research, or development capability to be provided by an educational or other nonprofit institution or a federally funded research and development center;
+    - **(D)** would ensure the continuous availability of a reliable source of supply of such property or service;
+    - **(E)** would satisfy projected needs for such property or service determined on the basis of a history of high demand for the property or service; or
+    - **(F)** in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
+  - **(2)** A determination under paragraph (1) may not be made for a class of purchases or contracts.
+- **(b)** The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644).
+- **(c)** A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title .

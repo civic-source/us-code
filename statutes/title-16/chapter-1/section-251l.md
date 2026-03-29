@@ -5,7 +5,7 @@ usc_section: "251l"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 251l"
-generated_at: "2026-03-29T00:29:52.330Z"
+generated_at: "2026-03-29T02:11:53.358Z"
 ---
 
 # § 251l. Retrocession of lands to State; Quileute Indian Reservation jurisdiction; concurrent legislative jurisdiction with State

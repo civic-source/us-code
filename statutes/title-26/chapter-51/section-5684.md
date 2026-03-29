@@ -5,17 +5,17 @@ usc_section: "5684"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5684"
-generated_at: "2026-03-29T00:31:20.995Z"
+generated_at: "2026-03-29T02:14:01.269Z"
 ---
 
 # § 5684. Penalties relating to the payment and collection of liquor taxes
 
-(a) Whoever fails to pay any tax imposed by part I of subchapter A at the time prescribed shall, in addition to any other penalty provided in this title, be liable to a penalty of 5 percent of the tax due but unpaid.
-(b) The penalties imposed by subsection (a) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
-(c) 
-  (1) For provisions relating to interest in the case of taxes not paid when due, see section 6601.
-  (2) For penalty for failure to file tax return or pay tax, see section 6651.
-  (3) For additional penalties for failure to pay tax, see section 6653.
-  (4) For penalty for failure to make deposits or for overstatement of deposits, see section 6656.
-  (5) For penalty for attempt to evade or defeat any tax imposed by this title, see section 7201.
-  (6) For penalty for willful failure to file return, supply information, or pay tax, see section 7203.
+- **(a)** Whoever fails to pay any tax imposed by part I of subchapter A at the time prescribed shall, in addition to any other penalty provided in this title, be liable to a penalty of 5 percent of the tax due but unpaid.
+- **(b)** The penalties imposed by subsection (a) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
+- **(c)**
+  - **(1)** For provisions relating to interest in the case of taxes not paid when due, see section 6601.
+  - **(2)** For penalty for failure to file tax return or pay tax, see section 6651.
+  - **(3)** For additional penalties for failure to pay tax, see section 6653.
+  - **(4)** For penalty for failure to make deposits or for overstatement of deposits, see section 6656.
+  - **(5)** For penalty for attempt to evade or defeat any tax imposed by this title, see section 7201.
+  - **(6)** For penalty for willful failure to file return, supply information, or pay tax, see section 7203.

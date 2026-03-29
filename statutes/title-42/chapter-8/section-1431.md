@@ -5,7 +5,7 @@ usc_section: "1431"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1431"
-generated_at: "2026-03-29T00:32:53.608Z"
+generated_at: "2026-03-29T02:15:36.420Z"
 ---
 
 # §§ 1427 to 1431. Omitted

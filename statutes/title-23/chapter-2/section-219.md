@@ -5,7 +5,7 @@ usc_section: "219"
 chapter: 2
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 219"
-generated_at: "2026-03-29T00:07:07.670Z"
+generated_at: "2026-03-29T02:13:00.959Z"
 ---
 
 # [§ 219. Repealed. Pub. L. 100–17, title I, § 133(e)(1) , Apr. 2, 1987 , 101 Stat. 173 ]

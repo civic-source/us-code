@@ -5,16 +5,16 @@ usc_section: "1133"
 chapter: 28
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 1133"
-generated_at: "2026-03-29T00:07:03.127Z"
+generated_at: "2026-03-29T02:12:17.307Z"
 ---
 
 # § 1133. Purpose
 
 It is the purpose of this subchapter—
 
-  (1) to authorize national graduate fellowship programs—
-    (A) in order to attract students of superior ability and achievement, exceptional promise, and demonstrated financial need, into high-quality graduate programs and provide the students with the financial support necessary to complete advanced degrees; and
-    (B) that are designed to—
-      (i) sustain and enhance the capacity for graduate education in areas of national need, including those areas critical to United States national and homeland security needs, such as science, technology, engineering, and mathematics; and
-      (ii) encourage talented students to pursue scholarly careers in the humanities, social sciences, and the arts; and
-  (2) to promote postsecondary programs.
+  - **(1)** to authorize national graduate fellowship programs—
+    - **(A)** in order to attract students of superior ability and achievement, exceptional promise, and demonstrated financial need, into high-quality graduate programs and provide the students with the financial support necessary to complete advanced degrees; and
+    - **(B)** that are designed to—
+      - **(i)** sustain and enhance the capacity for graduate education in areas of national need, including those areas critical to United States national and homeland security needs, such as science, technology, engineering, and mathematics; and
+      - **(ii)** encourage talented students to pursue scholarly careers in the humanities, social sciences, and the arts; and
+  - **(2)** to promote postsecondary programs.

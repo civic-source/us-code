@@ -5,7 +5,7 @@ usc_section: "561a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 561a"
-generated_at: "2026-03-29T00:31:57.198Z"
+generated_at: "2026-03-29T02:14:18.496Z"
 ---
 
 # § 561a. Contributions from local interests; reduction to meet lowered cost

@@ -5,15 +5,15 @@ usc_section: "40a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 40a"
-generated_at: "2026-03-29T00:32:53.106Z"
+generated_at: "2026-03-29T02:15:35.866Z"
 ---
 
 # § 300cc–40a. Microbicide research
 
-(a) The Director of the Office shall—
-  (1) expedite the implementation of the Federal strategic plans required by section 283(a) of this title regarding the conduct and support of research on, and development of, a microbicide to prevent the transmission of the human immunodeficiency virus; and
-  (2) review and, as appropriate, revise such plan to prioritize funding and activities relative to their scientific urgency and potential market readiness.
-(b) In implementing, reviewing, and prioritizing elements of the plan described in subsection (a), the Director of the Office shall consult, as appropriate, with—
-  (1) representatives of other Federal agencies involved in microbicide research, including the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the Director of the Centers for Disease Control and Prevention, and the Administrator of the United States Agency for International Development;
-  (2) the microbicide research and development community; and
-  (3) health advocates.
+- **(a)** The Director of the Office shall—
+  - **(1)** expedite the implementation of the Federal strategic plans required by section 283(a) of this title regarding the conduct and support of research on, and development of, a microbicide to prevent the transmission of the human immunodeficiency virus; and
+  - **(2)** review and, as appropriate, revise such plan to prioritize funding and activities relative to their scientific urgency and potential market readiness.
+- **(b)** In implementing, reviewing, and prioritizing elements of the plan described in subsection (a), the Director of the Office shall consult, as appropriate, with—
+  - **(1)** representatives of other Federal agencies involved in microbicide research, including the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the Director of the Centers for Disease Control and Prevention, and the Administrator of the United States Agency for International Development;
+  - **(2)** the microbicide research and development community; and
+  - **(3)** health advocates.

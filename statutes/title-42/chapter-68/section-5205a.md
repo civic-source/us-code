@@ -5,16 +5,16 @@ usc_section: "5205a"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5205a"
-generated_at: "2026-03-29T00:32:53.915Z"
+generated_at: "2026-03-29T02:15:36.758Z"
 ---
 
 # § 5205a. Certain recoupment prohibited
 
-(a) Notwithstanding any other provision of law, the Agency shall deem any covered disaster assistance to have been properly procured, provided, and utilized, and shall restore any funding of covered disaster assistance previously provided but subsequently withdrawn or deobligated.
-(b) In this section, the term “covered disaster assistance” means assistance—
-  (1) provided to a local government pursuant to section 5170b, 5172, or 5173 of this title; and
-  (2) with respect to which the inspector general of the Department of Homeland Security has determined, after an audit, that—
-    (A) the Agency deployed to the local government a Technical Assistance Contractor to review field operations, provide eligibility advice, and assist with day-to-day decisions;
-    (B) the Technical Assistance Contractor provided inaccurate information to the local government; and
-    (C) the local government relied on the inaccurate information to determine that relevant contracts were eligible, reasonable, and reimbursable.
-(c) This section shall be effective on October 5, 2018 .
+- **(a)** Notwithstanding any other provision of law, the Agency shall deem any covered disaster assistance to have been properly procured, provided, and utilized, and shall restore any funding of covered disaster assistance previously provided but subsequently withdrawn or deobligated.
+- **(b)** In this section, the term “covered disaster assistance” means assistance—
+  - **(1)** provided to a local government pursuant to section 5170b, 5172, or 5173 of this title; and
+  - **(2)** with respect to which the inspector general of the Department of Homeland Security has determined, after an audit, that—
+    - **(A)** the Agency deployed to the local government a Technical Assistance Contractor to review field operations, provide eligibility advice, and assist with day-to-day decisions;
+    - **(B)** the Technical Assistance Contractor provided inaccurate information to the local government; and
+    - **(C)** the local government relied on the inaccurate information to determine that relevant contracts were eligible, reasonable, and reimbursable.
+- **(c)** This section shall be effective on October 5, 2018 .

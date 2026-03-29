@@ -5,10 +5,10 @@ usc_section: "2045"
 chapter: 129
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2045"
-generated_at: "2026-03-29T00:31:24.194Z"
+generated_at: "2026-03-29T02:14:04.570Z"
 ---
 
 # § 2045. Investment of court registry funds
 
-(a) The Director of the Administrative Office of the United States Courts, or the Director’s designee under subsection (b), may request the Secretary of the Treasury to invest funds received under section 2041 in public debt securities with maturities suitable to the needs of the funds, as determined by the Director or the Director’s designee, and bearing interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
-(b) The Director may designate the clerk of a court described in section 610 to exercise the authority conferred by subsection (a).
+- **(a)** The Director of the Administrative Office of the United States Courts, or the Director’s designee under subsection (b), may request the Secretary of the Treasury to invest funds received under section 2041 in public debt securities with maturities suitable to the needs of the funds, as determined by the Director or the Director’s designee, and bearing interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
+- **(b)** The Director may designate the clerk of a court described in section 610 to exercise the authority conferred by subsection (a).

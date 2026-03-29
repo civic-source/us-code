@@ -5,28 +5,28 @@ usc_section: "50402"
 chapter: 504
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 50402"
-generated_at: "2026-03-29T00:33:02.919Z"
+generated_at: "2026-03-29T02:15:53.759Z"
 ---
 
 # § 50402. Maritime Transportation System National Advisory Committee
 
-(a) There is established a Maritime Transportation System National Advisory Committee (in this section referred to as the “Committee”).
-(b) The Committee shall advise the Secretary of Transportation on matters relating to the United States maritime transportation system and its seamless integration with other segments of the transportation system, including the viability of the United States Merchant Marine.
-(c) 
-  (1) The Committee shall consist of 27 members appointed by the Secretary of Transportation in accordance with this section and section 15109.
-  (2) Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
-  (3) Members of the Committee shall be appointed as follows:
-    (A) At least one member shall represent the Environmental Protection Agency.
-    (B) At least one member shall represent the Department of Commerce.
-    (C) At least one member shall represent the Corps of Engineers.
-    (D) At least one member shall represent the Coast Guard.
-    (E) At least one member shall represent Customs and Border Protection.
-    (F) At least one member shall represent State and local governmental entities.
-    (G) Additional members shall represent private sector entities that reflect a cross-section of maritime industries, including port and water stakeholders, academia, and labor.
-    (H) The Secretary may appoint additional representatives from other Federal agencies as the Secretary considers appropriate.
-  (4) Members of the Committee that represent Federal agencies shall not—
-    (A) comprise more than one-third of the total membership of the Committee or of any subcommittee therein; or
-    (B) serve as the chair or co-chair of the Committee or of any subcommittee therein.
-  (5) For purposes of section 15109—
-    (A) the Committee shall be treated as a committee established under chapter 151; and
-    (B) the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.
+- **(a)** There is established a Maritime Transportation System National Advisory Committee (in this section referred to as the “Committee”).
+- **(b)** The Committee shall advise the Secretary of Transportation on matters relating to the United States maritime transportation system and its seamless integration with other segments of the transportation system, including the viability of the United States Merchant Marine.
+- **(c)**
+  - **(1)** The Committee shall consist of 27 members appointed by the Secretary of Transportation in accordance with this section and section 15109.
+  - **(2)** Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
+  - **(3)** Members of the Committee shall be appointed as follows:
+    - **(A)** At least one member shall represent the Environmental Protection Agency.
+    - **(B)** At least one member shall represent the Department of Commerce.
+    - **(C)** At least one member shall represent the Corps of Engineers.
+    - **(D)** At least one member shall represent the Coast Guard.
+    - **(E)** At least one member shall represent Customs and Border Protection.
+    - **(F)** At least one member shall represent State and local governmental entities.
+    - **(G)** Additional members shall represent private sector entities that reflect a cross-section of maritime industries, including port and water stakeholders, academia, and labor.
+    - **(H)** The Secretary may appoint additional representatives from other Federal agencies as the Secretary considers appropriate.
+  - **(4)** Members of the Committee that represent Federal agencies shall not—
+    - **(A)** comprise more than one-third of the total membership of the Committee or of any subcommittee therein; or
+    - **(B)** serve as the chair or co-chair of the Committee or of any subcommittee therein.
+  - **(5)** For purposes of section 15109—
+    - **(A)** the Committee shall be treated as a committee established under chapter 151; and
+    - **(B)** the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.

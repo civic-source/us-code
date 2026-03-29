@@ -5,16 +5,16 @@ usc_section: "194"
 chapter: 8
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 194"
-generated_at: "2026-03-29T00:20:52.816Z"
+generated_at: "2026-03-29T02:10:44.841Z"
 ---
 
 # § 194. Limitations on personnel
 
-(a) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the management headquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989 .
-(b) The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned to management headquarters activities or management headquarters support activities, may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989 .
-(c) The limitations in subsections (a) and (b) may not be exceeded by re­categorizing or redefining duties, functions, offices, or organizations.
-(d) The National Security Agency shall be excluded in computing and maintaining the limitations required by this section.
-(e) The limitations in this section do not apply—
-  (1) in time of war; or
-  (2) during a national emergency declared by the President or Congress.
-(f) In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
+- **(a)** The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the management headquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989 .
+- **(b)** The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned to management headquarters activities or management headquarters support activities, may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989 .
+- **(c)** The limitations in subsections (a) and (b) may not be exceeded by re­categorizing or redefining duties, functions, offices, or organizations.
+- **(d)** The National Security Agency shall be excluded in computing and maintaining the limitations required by this section.
+- **(e)** The limitations in this section do not apply—
+  - **(1)** in time of war; or
+  - **(2)** during a national emergency declared by the President or Congress.
+- **(f)** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.

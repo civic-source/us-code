@@ -5,7 +5,7 @@ usc_section: "1652"
 chapter: 111
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1652"
-generated_at: "2026-03-29T00:31:24.185Z"
+generated_at: "2026-03-29T02:14:04.558Z"
 ---
 
 # § 1652. State laws as rules of decision

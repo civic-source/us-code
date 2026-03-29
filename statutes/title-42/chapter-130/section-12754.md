@@ -5,12 +5,12 @@ usc_section: "12754"
 chapter: 130
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 12754"
-generated_at: "2026-03-29T00:32:54.296Z"
+generated_at: "2026-03-29T02:15:37.232Z"
 ---
 
 # § 12754. Limitation on jurisdictions under court order
 
-(a) Notwithstanding any other provision of this Act, the Secretary shall ensure that funds provided under this part are not employed to carry out housing remedies or to pay fines, penalties, or costs associated with an action in which—
-  (1) a participating jurisdiction has been adjudicated, by a Federal, State, or local court, to be in violation of title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], the Fair Housing Act [ 42 U.S.C. 3601 et seq.], or any other Federal, State, or local law promoting fair housing or prohibiting discrimination, or
-  (2) a settlement has been entered into in any case where claims of such violations have been asserted against a participating jurisdiction, except to the extent permitted by subsection (b).
-(b) In the case of settlement described in subsection (a)(2), a jurisdiction may use funds provided under this Act to carry out housing remedies with eligible activities.
+- **(a)** Notwithstanding any other provision of this Act, the Secretary shall ensure that funds provided under this part are not employed to carry out housing remedies or to pay fines, penalties, or costs associated with an action in which—
+  - **(1)** a participating jurisdiction has been adjudicated, by a Federal, State, or local court, to be in violation of title VI of the Civil Rights Act of 1964 [ 42 U.S.C. 2000d et seq.], the Fair Housing Act [ 42 U.S.C. 3601 et seq.], or any other Federal, State, or local law promoting fair housing or prohibiting discrimination, or
+  - **(2)** a settlement has been entered into in any case where claims of such violations have been asserted against a participating jurisdiction, except to the extent permitted by subsection (b).
+- **(b)** In the case of settlement described in subsection (a)(2), a jurisdiction may use funds provided under this Act to carry out housing remedies with eligible activities.

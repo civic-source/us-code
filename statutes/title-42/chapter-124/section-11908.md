@@ -5,11 +5,11 @@ usc_section: "11908"
 chapter: 124
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11908"
-generated_at: "2026-03-29T00:32:54.242Z"
+generated_at: "2026-03-29T02:15:37.176Z"
 ---
 
 # § 11908. Authorization of appropriations
 
-(a) There are authorized to be appropriated to carry out this subchapter $310,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
-(b) Of any amounts made available in any fiscal year to carry out this subchapter not more than 6.25 percent shall be available for grants for federally assisted low-income housing.
-(c) Of any amounts appropriated in any fiscal year to carry out this subchapter, amounts shall be available to the extent provided in appropriations Acts to provide training, technical assistance, contract expertise, program oversight, program assessment, execution, and other assistance for or on behalf of public housing agencies, recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 [ 25 U.S.C. 4101 et seq.], resident organizations, and officials and employees of the Department (including training and the cost of necessary travel for participants in such training, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees). Assistance and other activities carried out using amounts made available under this subsection may be provided directly or indirectly by grants, contracts, or cooperative agreements.
+- **(a)** There are authorized to be appropriated to carry out this subchapter $310,000,000 for fiscal year 1999, and such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003.
+- **(b)** Of any amounts made available in any fiscal year to carry out this subchapter not more than 6.25 percent shall be available for grants for federally assisted low-income housing.
+- **(c)** Of any amounts appropriated in any fiscal year to carry out this subchapter, amounts shall be available to the extent provided in appropriations Acts to provide training, technical assistance, contract expertise, program oversight, program assessment, execution, and other assistance for or on behalf of public housing agencies, recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996 [ 25 U.S.C. 4101 et seq.], resident organizations, and officials and employees of the Department (including training and the cost of necessary travel for participants in such training, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees). Assistance and other activities carried out using amounts made available under this subsection may be provided directly or indirectly by grants, contracts, or cooperative agreements.

@@ -5,7 +5,7 @@ usc_section: "2151"
 chapter: 54
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2151"
-generated_at: "2026-03-29T00:28:58.123Z"
+generated_at: "2026-03-29T02:10:16.944Z"
 ---
 
 # § 2151. Rules and regulations

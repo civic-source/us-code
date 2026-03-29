@@ -5,48 +5,48 @@ usc_section: "24305"
 chapter: 243
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 24305"
-generated_at: "2026-03-29T00:33:13.811Z"
+generated_at: "2026-03-29T02:16:08.947Z"
 ---
 
 # § 24305. General authority
 
-(a) 
-  (1) Amtrak may acquire, operate, maintain, and make contracts for the operation and maintenance of equipment and facilities necessary for intercity and commuter rail passenger transportation, the transportation of mail and express, and auto-ferry transportation.
-  (2) Amtrak shall operate and control directly, to the extent practicable, all aspects of the rail passenger transportation it provides.
-  (3) 
-    (A) Except as provided in subsection (d)(2), Amtrak may enter into a contract with a motor carrier of passengers for the intercity transportation of passengers by motor carrier over regular routes only—
-      (i) if the motor carrier is not a public recipient of governmental assistance, as such term is defined in section 13902(b)(8)(A) of this title , other than a recipient of funds under section 5311 of this title ;
-      (ii) for passengers who have had prior movement by rail or will have subsequent movement by rail; and
-      (iii) if the buses, when used in the provision of such transportation, are used exclusively for the transportation of passengers described in clause (ii).
-    (B) Subparagraph (A) shall not apply to transportation funded predominantly by a State or local government, or to ticket selling agreements.
-(b) Amtrak may maintain and rehabilitate rail passenger equipment and shall maintain a regional maintenance plan that includes—
-  (1) a review panel at the principal office of Amtrak consisting of members the President of Amtrak designates;
-  (2) a systemwide inventory of spare equipment parts in each operational region;
-  (3) enough maintenance employees for cars and locomotives in each region;
-  (4) a systematic preventive maintenance program;
-  (5) periodic evaluations of maintenance costs, time lags, and parts shortages and corrective actions; and
-  (6) other elements or activities Amtrak considers appropriate.
-(c) Amtrak may—
-  (1) make and carry out appropriate agreements;
-  (2) transport mail and express and shall use all feasible methods to obtain the bulk mail business of the United States Postal Service;
-  (3) improve its reservation system and advertising;
-  (4) provide food and beverage services on its trains;
-  (5) conduct research, development, and demonstration programs related to the mission of Amtrak; and
-  (6) buy or lease rail rolling stock and develop and demonstrate improved rolling stock.
-(d) 
-  (1) Establishing through routes and joint fares between Amtrak and other intercity rail passenger carriers and motor carriers of passengers is consistent with the public interest and the transportation policy of the United States. Congress encourages establishing those routes and fares.
-  (2) Amtrak may establish through routes and joint fares with any domestic or international motor carrier, air carrier, or water carrier.
-  (3) Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
-(e) Amtrak may directly employ or contract with rail police to provide security for rail passengers and property of Amtrak. Rail police directly employed by or contracted by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be directly employed or contracted without regard to the law of another State containing those requirements.
-(f) 
-  (1) In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
-  (2) Amtrak shall buy only—
-    (A) unmanufactured articles, material, and supplies mined or produced in the United States; or
-    (B) manufactured articles, material, and supplies manufactured in the United States substantially from articles, material, and supplies mined, produced, or manufactured in the United States.
-  (3) Paragraph (2) of this subsection applies only when the cost of those articles, material, or supplies bought is at least $1,000,000.
-  (4) On application of Amtrak, the Secretary of Transportation may exempt Amtrak from this subsection if the Secretary decides that—
-    (A) for particular articles, material, or supplies—
-      (i) the requirements of paragraph (2) of this subsection are inconsistent with the public interest;
-      (ii) the cost of imposing those requirements is unreasonable; or
-      (iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
-    (B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
+- **(a)**
+  - **(1)** Amtrak may acquire, operate, maintain, and make contracts for the operation and maintenance of equipment and facilities necessary for intercity and commuter rail passenger transportation, the transportation of mail and express, and auto-ferry transportation.
+  - **(2)** Amtrak shall operate and control directly, to the extent practicable, all aspects of the rail passenger transportation it provides.
+  - **(3)**
+    - **(A)** Except as provided in subsection (d)(2), Amtrak may enter into a contract with a motor carrier of passengers for the intercity transportation of passengers by motor carrier over regular routes only—
+      - **(i)** if the motor carrier is not a public recipient of governmental assistance, as such term is defined in section 13902(b)(8)(A) of this title , other than a recipient of funds under section 5311 of this title ;
+      - **(ii)** for passengers who have had prior movement by rail or will have subsequent movement by rail; and
+      - **(iii)** if the buses, when used in the provision of such transportation, are used exclusively for the transportation of passengers described in clause (ii).
+    - **(B)** Subparagraph (A) shall not apply to transportation funded predominantly by a State or local government, or to ticket selling agreements.
+- **(b)** Amtrak may maintain and rehabilitate rail passenger equipment and shall maintain a regional maintenance plan that includes—
+  - **(1)** a review panel at the principal office of Amtrak consisting of members the President of Amtrak designates;
+  - **(2)** a systemwide inventory of spare equipment parts in each operational region;
+  - **(3)** enough maintenance employees for cars and locomotives in each region;
+  - **(4)** a systematic preventive maintenance program;
+  - **(5)** periodic evaluations of maintenance costs, time lags, and parts shortages and corrective actions; and
+  - **(6)** other elements or activities Amtrak considers appropriate.
+- **(c)** Amtrak may—
+  - **(1)** make and carry out appropriate agreements;
+  - **(2)** transport mail and express and shall use all feasible methods to obtain the bulk mail business of the United States Postal Service;
+  - **(3)** improve its reservation system and advertising;
+  - **(4)** provide food and beverage services on its trains;
+  - **(5)** conduct research, development, and demonstration programs related to the mission of Amtrak; and
+  - **(6)** buy or lease rail rolling stock and develop and demonstrate improved rolling stock.
+- **(d)**
+  - **(1)** Establishing through routes and joint fares between Amtrak and other intercity rail passenger carriers and motor carriers of passengers is consistent with the public interest and the transportation policy of the United States. Congress encourages establishing those routes and fares.
+  - **(2)** Amtrak may establish through routes and joint fares with any domestic or international motor carrier, air carrier, or water carrier.
+  - **(3)** Congress encourages Amtrak and motor common carriers of passengers to use the authority conferred in sections 11322 and 14302 of this title for the purpose of providing improved service to the public and economy of operation.
+- **(e)** Amtrak may directly employ or contract with rail police to provide security for rail passengers and property of Amtrak. Rail police directly employed by or contracted by Amtrak who have complied with a State law establishing requirements applicable to rail police or individuals employed in a similar position may be directly employed or contracted without regard to the law of another State containing those requirements.
+- **(f)**
+  - **(1)** In this subsection, “United States” means the States, territories, and possessions of the United States and the District of Columbia.
+  - **(2)** Amtrak shall buy only—
+    - **(A)** unmanufactured articles, material, and supplies mined or produced in the United States; or
+    - **(B)** manufactured articles, material, and supplies manufactured in the United States substantially from articles, material, and supplies mined, produced, or manufactured in the United States.
+  - **(3)** Paragraph (2) of this subsection applies only when the cost of those articles, material, or supplies bought is at least $1,000,000.
+  - **(4)** On application of Amtrak, the Secretary of Transportation may exempt Amtrak from this subsection if the Secretary decides that—
+    - **(A)** for particular articles, material, or supplies—
+      - **(i)** the requirements of paragraph (2) of this subsection are inconsistent with the public interest;
+      - **(ii)** the cost of imposing those requirements is unreasonable; or
+      - **(iii)** the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
+    - **(B)** rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.

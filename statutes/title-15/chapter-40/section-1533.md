@@ -5,7 +5,7 @@ usc_section: "1533"
 chapter: 40
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1533"
-generated_at: "2026-03-29T00:29:41.703Z"
+generated_at: "2026-03-29T02:11:34.179Z"
 ---
 
 # § 1533. Repealed. Pub. L. 111–358, title IV, § 407(c) , Jan. 4, 2011 , 124 Stat. 4004

@@ -5,10 +5,10 @@ usc_section: "1508"
 chapter: 15
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1508"
-generated_at: "2026-03-29T00:32:17.180Z"
+generated_at: "2026-03-29T02:14:50.350Z"
 ---
 
 # § 1508. Frequency of payment of pension benefits
 
-(a) Except as provided under subsection (b) of this section, benefits under sections 1521, 1541, and 1542 of this title shall be paid monthly.
-(b) Under regulations which the Secretary shall prescribe, benefits under sections 1521, 1541, and 1542 of this title may be paid less frequently than monthly if the amount of the annual benefit is less than 4 percent of the maximum annual rate payable to a veteran under section 1521(b) of this title .
+- **(a)** Except as provided under subsection (b) of this section, benefits under sections 1521, 1541, and 1542 of this title shall be paid monthly.
+- **(b)** Under regulations which the Secretary shall prescribe, benefits under sections 1521, 1541, and 1542 of this title may be paid less frequently than monthly if the amount of the annual benefit is less than 4 percent of the maximum annual rate payable to a veteran under section 1521(b) of this title .

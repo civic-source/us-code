@@ -5,12 +5,12 @@ usc_section: "256"
 chapter: 9
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 256"
-generated_at: "2026-03-29T00:31:27.562Z"
+generated_at: "2026-03-29T02:14:09.367Z"
 ---
 
 # § 256. Determination of commencement of future actions
 
 In determining when an action is commenced for the purposes of section 255 of this title , an action commenced on or after May 14, 1947 under the Fair Labor Standards Act of 1938, as amended [ 29 U.S.C. 201 et seq.], the Walsh-Healey Act, or the Bacon-Davis Act, 1 1 See References in Text note below. shall be considered to be commenced on the date when the complaint is filed; except that in the case of a collective or class action instituted under the Fair Labor Standards Act of 1938, as amended, or the Bacon-Davis Act, 1 it shall be considered to be commenced in the case of any individual claimant—
 
-(a) on the date when the complaint is filed, if he is specifically named as a party plaintiff in the complaint and his written consent to become a party plaintiff is filed on such date in the court in which the action is brought; or
-(b) if such written consent was not so filed or if his name did not so appear—on the subsequent date on which such written consent is filed in the court in which the action was commenced.
+- **(a)** on the date when the complaint is filed, if he is specifically named as a party plaintiff in the complaint and his written consent to become a party plaintiff is filed on such date in the court in which the action is brought; or
+- **(b)** if such written consent was not so filed or if his name did not so appear—on the subsequent date on which such written consent is filed in the court in which the action was commenced.

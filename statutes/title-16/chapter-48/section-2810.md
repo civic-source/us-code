@@ -5,7 +5,7 @@ usc_section: "2810"
 chapter: 48
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2810"
-generated_at: "2026-03-29T00:29:52.785Z"
+generated_at: "2026-03-29T02:11:53.868Z"
 ---
 
 # § 2810. Disclaimer

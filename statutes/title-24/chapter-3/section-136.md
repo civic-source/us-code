@@ -5,7 +5,7 @@ usc_section: "136"
 chapter: 3
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 136"
-generated_at: "2026-03-29T00:30:34.802Z"
+generated_at: "2026-03-29T02:13:07.072Z"
 ---
 
 # § 136. Repealed. Pub. L. 85–56, title XXII, § 2202(1) , (85), June 17, 1957 , 71 Stat. 162 , 165

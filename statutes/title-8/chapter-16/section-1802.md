@@ -5,25 +5,25 @@ usc_section: "1802"
 chapter: 16
 current_through: "PL 119-73"
 classification: "8 U.S.C. § 1802"
-generated_at: "2026-03-29T00:06:34.305Z"
+generated_at: "2026-03-29T02:10:21.495Z"
 ---
 
 # § 1802. Asylum fee
 
-(a) In addition to any other fee authorized by law, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in this section, by any alien who files an application for asylum under section 1158of this title at the time such application is filed.
-(b) During fiscal year 2025, the amount specified in this section shall be the greater of—
-  (1) $100; or
-  (2) such amount as the Secretary or the Attorney General, as applicable, may establish, by rule.
-(c) During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
-  (1) the amount of the fee required under this section for the most recently concluded fiscal year; and
-  (2) the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
-(d) During each fiscal year—
-  (1) 50 percent of the fees received from aliens filing applications with the Attorney General—
-    (A) shall be credited to the Executive Office for Immigration Review; and
-    (B) may be retained and expended without further appropriation;
-  (2) 50 percent of fees received from aliens filing applications with the Secretary of Homeland Security—
-    (A) shall be credited to U.S. Citizenship and Immigration Services;
-    (B) shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title ; and
-    (C) may be retained and expended without further appropriation; and
-  (3) any amounts received in fees required under this section that were not credited to the Executive Office for Immigration Review pursuant to paragraph (1) or to U.S. Citizenship and Immigration Services pursuant to paragraph (2) shall be deposited into the general fund of the Treasury.
-(e) Fees required to be paid under this section shall not be waived or reduced.
+- **(a)** In addition to any other fee authorized by law, the Secretary of Homeland Security or the Attorney General, as applicable, shall require the payment of a fee, equal to the amount specified in this section, by any alien who files an application for asylum under section 1158of this title at the time such application is filed.
+- **(b)** During fiscal year 2025, the amount specified in this section shall be the greater of—
+  - **(1)** $100; or
+  - **(2)** such amount as the Secretary or the Attorney General, as applicable, may establish, by rule.
+- **(c)** During fiscal year 2026, and during each subsequent fiscal year, the amount specified in this section shall be equal to the sum of—
+  - **(1)** the amount of the fee required under this section for the most recently concluded fiscal year; and
+  - **(2)** the product resulting from the multiplication of the amount referred to in paragraph (1) by the percentage (if any) by which the Consumer Price Index for All Urban Consumers for the month of July preceding the date on which such adjustment takes effect exceeds the Consumer Price Index for All Urban Consumers for the same month of the preceding calendar year, rounded to the next lowest multiple of $10.
+- **(d)** During each fiscal year—
+  - **(1)** 50 percent of the fees received from aliens filing applications with the Attorney General—
+    - **(A)** shall be credited to the Executive Office for Immigration Review; and
+    - **(B)** may be retained and expended without further appropriation;
+  - **(2)** 50 percent of fees received from aliens filing applications with the Secretary of Homeland Security—
+    - **(A)** shall be credited to U.S. Citizenship and Immigration Services;
+    - **(B)** shall be deposited into the Immigration Examinations Fee Account established under section 1356(m) of this title ; and
+    - **(C)** may be retained and expended without further appropriation; and
+  - **(3)** any amounts received in fees required under this section that were not credited to the Executive Office for Immigration Review pursuant to paragraph (1) or to U.S. Citizenship and Immigration Services pursuant to paragraph (2) shall be deposited into the general fund of the Treasury.
+- **(e)** Fees required to be paid under this section shall not be waived or reduced.

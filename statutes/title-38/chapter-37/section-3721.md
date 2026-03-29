@@ -5,7 +5,7 @@ usc_section: "3721"
 chapter: 37
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3721"
-generated_at: "2026-03-29T00:32:17.287Z"
+generated_at: "2026-03-29T02:14:50.433Z"
 ---
 
 # § 3721. Incontestability

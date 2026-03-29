@@ -5,19 +5,19 @@ usc_section: "9122"
 chapter: 99
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9122"
-generated_at: "2026-03-29T00:32:54.139Z"
+generated_at: "2026-03-29T02:15:37.041Z"
 ---
 
 # § 9122. Recordkeeping and public access to information
 
-(a) Each licensee shall establish and maintain such records, make such reports, and provide such information as the Administrator, after consultation with other interested Federal departments and agencies, shall by regulation prescribe to carry out the provisions of this chapter. Each licensee shall submit such reports and shall make available such records and information as the Administrator may request.
-(b) Any information reported to or collected by the Administrator under this chapter which is exempt from disclosure pursuant to section 552(b)(4) of title 5 (relating to trade secrets and commercial or financial information which is privileged or confidential) shall not—
-  (1) be publicly disclosed by the Administrator or by any other officer or employee of the United States, unless the Administrator has—
-    (A) determined that the disclosure is necessary to protect the public health or safety or the environment against an unreasonable risk of injury, and
-    (B) notified the person who submitted the information 10 days before the disclosure is to be made, unless the delay resulting from such notice would be detrimental to the public health or safety or the environment, or
-  (2) be otherwise disclosed except—
-    (A) 
-      (i) to other Federal and adjacent coastal State government departments and agencies for official use,
-      (ii) to any committee of the Congress of appropriate jurisdiction, or
-      (iii) pursuant to court order, and
-    (B) when the Administrator has taken appropriate steps to inform the recipient of the confidential nature of the information.
+- **(a)** Each licensee shall establish and maintain such records, make such reports, and provide such information as the Administrator, after consultation with other interested Federal departments and agencies, shall by regulation prescribe to carry out the provisions of this chapter. Each licensee shall submit such reports and shall make available such records and information as the Administrator may request.
+- **(b)** Any information reported to or collected by the Administrator under this chapter which is exempt from disclosure pursuant to section 552(b)(4) of title 5 (relating to trade secrets and commercial or financial information which is privileged or confidential) shall not—
+  - **(1)** be publicly disclosed by the Administrator or by any other officer or employee of the United States, unless the Administrator has—
+    - **(A)** determined that the disclosure is necessary to protect the public health or safety or the environment against an unreasonable risk of injury, and
+    - **(B)** notified the person who submitted the information 10 days before the disclosure is to be made, unless the delay resulting from such notice would be detrimental to the public health or safety or the environment, or
+  - **(2)** be otherwise disclosed except—
+    - **(A)**
+      - **(i)** to other Federal and adjacent coastal State government departments and agencies for official use,
+      - **(ii)** to any committee of the Congress of appropriate jurisdiction, or
+      - **(iii)** pursuant to court order, and
+    - **(B)** when the Administrator has taken appropriate steps to inform the recipient of the confidential nature of the information.

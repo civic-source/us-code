@@ -5,7 +5,7 @@ usc_section: "2286l"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2286l"
-generated_at: "2026-03-29T00:32:53.776Z"
+generated_at: "2026-03-29T02:15:36.606Z"
 ---
 
 # § 2286l. Authority of Inspector General

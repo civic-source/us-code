@@ -5,7 +5,7 @@ usc_section: "187"
 chapter: 3
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 187"
-generated_at: "2026-03-29T00:31:30.750Z"
+generated_at: "2026-03-29T02:14:11.198Z"
 ---
 
 # § 187. Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in operation of mines, wells, etc.; State laws not impaired

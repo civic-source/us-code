@@ -5,7 +5,7 @@ usc_section: "833"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 833"
-generated_at: "2026-03-29T00:29:52.658Z"
+generated_at: "2026-03-29T02:11:53.705Z"
 ---
 
 # § 833. Completion and maintenance of project; generation of electricity

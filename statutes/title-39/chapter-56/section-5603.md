@@ -5,12 +5,12 @@ usc_section: "5603"
 chapter: 56
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 5603"
-generated_at: "2026-03-29T00:32:18.872Z"
+generated_at: "2026-03-29T02:14:53.140Z"
 ---
 
 # § 5603. Transportation of mail by vessel as freight or express
 
 The Postal Service may require that mail be transported by freight or express when—
 
-  (1) there is no competition on a water route and the rate or compensation asked is excessive; or
-  (2) no proposal is received.
+  - **(1)** there is no competition on a water route and the rate or compensation asked is excessive; or
+  - **(2)** no proposal is received.

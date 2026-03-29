@@ -5,12 +5,12 @@ usc_section: "281"
 chapter: 11
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 281"
-generated_at: "2026-03-29T00:28:57.922Z"
+generated_at: "2026-03-29T02:10:16.714Z"
 ---
 
 # § 281. Honeybee importation
 
-(a) The Secretary of Agriculture is authorized to prohibit or restrict the importation or entry of honeybees and honeybee semen into or through the United States in order to prevent the introduction and spread of diseases and parasites harmful to honeybees, the introduction of genetically undesirable germ plasm of honeybees, or the introduction and spread of undesirable species or subspecies of honeybees and the semen of honeybees.
-(b) The Secretary of Agriculture and the Secretary of the Treasury are each authorized to prescribe such regulations as the respective Secretary determines necessary to carry out this section.
-(c) Honeybees or honeybee semen offered for importation into, intercepted entering, or having entered the United States, other than in accordance with regulations promulgated by the Secretary of Agriculture and the Secretary of the Treasury, shall be destroyed or immediately exported.
-(d) As used in this chapter, the term “honeybee” means all life stages and the germ plasm of honeybees of the genus Apis, except honeybee semen.
+- **(a)** The Secretary of Agriculture is authorized to prohibit or restrict the importation or entry of honeybees and honeybee semen into or through the United States in order to prevent the introduction and spread of diseases and parasites harmful to honeybees, the introduction of genetically undesirable germ plasm of honeybees, or the introduction and spread of undesirable species or subspecies of honeybees and the semen of honeybees.
+- **(b)** The Secretary of Agriculture and the Secretary of the Treasury are each authorized to prescribe such regulations as the respective Secretary determines necessary to carry out this section.
+- **(c)** Honeybees or honeybee semen offered for importation into, intercepted entering, or having entered the United States, other than in accordance with regulations promulgated by the Secretary of Agriculture and the Secretary of the Treasury, shall be destroyed or immediately exported.
+- **(d)** As used in this chapter, the term “honeybee” means all life stages and the germ plasm of honeybees of the genus Apis, except honeybee semen.

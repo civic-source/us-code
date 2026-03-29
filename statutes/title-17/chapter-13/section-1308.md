@@ -5,12 +5,12 @@ usc_section: "1308"
 chapter: 13
 current_through: "PL 119-73"
 classification: "17 U.S.C. § 1308"
-generated_at: "2026-03-29T00:06:55.765Z"
+generated_at: "2026-03-29T02:11:57.636Z"
 ---
 
 # § 1308. Exclusive rights
 
 The owner of a design protected under this chapter has the exclusive right to—
 
-  (1) make, have made, or import, for sale or for use in trade, any useful article embodying that design; and
-  (2) sell or distribute for sale or for use in trade any useful article embodying that design.
+  - **(1)** make, have made, or import, for sale or for use in trade, any useful article embodying that design; and
+  - **(2)** sell or distribute for sale or for use in trade any useful article embodying that design.

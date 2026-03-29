@@ -5,18 +5,18 @@ usc_section: "20164"
 chapter: 201
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 20164"
-generated_at: "2026-03-29T00:33:13.794Z"
+generated_at: "2026-03-29T02:16:08.933Z"
 ---
 
 # § 20164. Development and use of rail safety technology
 
-(a) Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
-  (1) switch position monitoring devices or indicators;
-  (2) radio, remote control, or other power-assisted switches;
-  (3) hot box, high water, or earthquake detectors;
-  (4) remote control locomotive zone limiting devices;
-  (5) slide fences;
-  (6) grade crossing video monitors;
-  (7) track integrity warning systems; or
-  (8) other similar rail safety technologies, as determined by the Secretary.
-(b) In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
+- **(a)** Not later than 1 year after the date of enactment of the Rail Safety Improvement Act of 2008, the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+  - **(1)** switch position monitoring devices or indicators;
+  - **(2)** radio, remote control, or other power-assisted switches;
+  - **(3)** hot box, high water, or earthquake detectors;
+  - **(4)** remote control locomotive zone limiting devices;
+  - **(5)** slide fences;
+  - **(6)** grade crossing video monitors;
+  - **(7)** track integrity warning systems; or
+  - **(8)** other similar rail safety technologies, as determined by the Secretary.
+- **(b)** In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.

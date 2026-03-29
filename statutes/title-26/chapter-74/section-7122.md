@@ -5,42 +5,42 @@ usc_section: "7122"
 chapter: 74
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7122"
-generated_at: "2026-03-29T00:31:21.080Z"
+generated_at: "2026-03-29T02:14:01.375Z"
 ---
 
 # § 7122. Compromises
 
-(a) The Secretary may compromise any civil or criminal case arising under the internal revenue laws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
-(b) Whenever a compromise is made by the Secretary in any case, there shall be placed on file in the office of the Secretary the opinion of the General Counsel for the Department of the Treasury or his delegate, with his reasons therefor, with a statement of—
-  (1) The amount of tax assessed,
-  (2) The amount of interest, additional amount, addition to the tax, or assessable penalty, imposed by law on the person against whom the tax is assessed, and
-  (3) The amount actually paid in accordance with the terms of the compromise.
-(c) 
-  (1) 
-    (A) 
-      (i) The submission of any lump-sum offer-in-compromise shall be accompanied by the payment of 20 percent of the amount of such offer.
-      (ii) For purposes of this section, the term “lump-sum offer-in-compromise” means any offer of payments made in 5 or fewer installments.
-    (B) 
-      (i) The submission of any periodic payment offer-in-compromise shall be accompanied by the payment of the amount of the first proposed installment.
-      (ii) Any failure to make an installment (other than the first installment) due under such offer-in-compromise during the period such offer is being evaluated by the Secretary may be treated by the Secretary as a withdrawal of such offer-in-compromise.
-  (2) 
-    (A) The application of any payment made under this subsection to the assessed tax or other amounts imposed under this title with respect to such tax may be specified by the taxpayer.
-    (B) In the case of any assessed tax or other amounts imposed under this title with respect to such tax which is the subject of an offer-in-compromise to which this subsection applies, such tax or other amounts shall be reduced by any user fee imposed under this title with respect to such offer-in-compromise.
-    (C) The Secretary may issue regulations waiving any payment required under paragraph (1) in a manner consistent with the practices established in accordance with the requirements under subsection (d)(3).
-  (3) Paragraph (1), and any user fee otherwise required in connection with the submission of an offer-in-compromise, shall not apply to any offer-in-compromise with respect to a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary).
-(d) 
-  (1) The Secretary shall prescribe guidelines for officers and employees of the Internal Revenue Service to determine whether an offer-in-compromise is adequate and should be accepted to resolve a dispute.
-  (2) 
-    (A) In prescribing guidelines under paragraph (1), the Secretary shall develop and publish schedules of national and local allowances designed to provide that taxpayers entering into a compromise have an adequate means to provide for basic living expenses.
-    (B) The guidelines shall provide that officers and employees of the Internal Revenue Service shall determine, on the basis of the facts and circumstances of each taxpayer, whether the use of the schedules published under subparagraph (A) is appropriate and shall not use the schedules to the extent such use would result in the taxpayer not having adequate means to provide for basic living expenses.
-  (3) The guidelines under paragraph (1) shall provide that—
-    (A) an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayer solely on the basis of the amount of the offer,
-    (B) in the case of an offer-in-compromise which relates only to issues of liability of the taxpayer—
-      (i) such offer shall not be rejected solely because the Secretary is unable to locate the taxpayer’s return or return information for verification of such liability; and
-      (ii) the taxpayer shall not be required to provide a financial statement, and
-    (C) any offer-in-compromise which does not meet the requirements of subparagraph (A)(i) or (B)(i), as the case may be, of subsection (c)(1) may be returned to the taxpayer as unprocessable.
-(e) The Secretary shall establish procedures—
-  (1) for an independent administrative review of any rejection of a proposed offer-in-compromise or installment agreement made by a taxpayer under this section or section 6159 before such rejection is communicated to the taxpayer; and
-  (2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Independent Office of Appeals.
-(f) Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
-(g) Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
+- **(a)** The Secretary may compromise any civil or criminal case arising under the internal revenue laws prior to reference to the Department of Justice for prosecution or defense; and the Attorney General or his delegate may compromise any such case after reference to the Department of Justice for prosecution or defense.
+- **(b)** Whenever a compromise is made by the Secretary in any case, there shall be placed on file in the office of the Secretary the opinion of the General Counsel for the Department of the Treasury or his delegate, with his reasons therefor, with a statement of—
+  - **(1)** The amount of tax assessed,
+  - **(2)** The amount of interest, additional amount, addition to the tax, or assessable penalty, imposed by law on the person against whom the tax is assessed, and
+  - **(3)** The amount actually paid in accordance with the terms of the compromise.
+- **(c)**
+  - **(1)**
+    - **(A)**
+      - **(i)** The submission of any lump-sum offer-in-compromise shall be accompanied by the payment of 20 percent of the amount of such offer.
+      - **(ii)** For purposes of this section, the term “lump-sum offer-in-compromise” means any offer of payments made in 5 or fewer installments.
+    - **(B)**
+      - **(i)** The submission of any periodic payment offer-in-compromise shall be accompanied by the payment of the amount of the first proposed installment.
+      - **(ii)** Any failure to make an installment (other than the first installment) due under such offer-in-compromise during the period such offer is being evaluated by the Secretary may be treated by the Secretary as a withdrawal of such offer-in-compromise.
+  - **(2)**
+    - **(A)** The application of any payment made under this subsection to the assessed tax or other amounts imposed under this title with respect to such tax may be specified by the taxpayer.
+    - **(B)** In the case of any assessed tax or other amounts imposed under this title with respect to such tax which is the subject of an offer-in-compromise to which this subsection applies, such tax or other amounts shall be reduced by any user fee imposed under this title with respect to such offer-in-compromise.
+    - **(C)** The Secretary may issue regulations waiving any payment required under paragraph (1) in a manner consistent with the practices established in accordance with the requirements under subsection (d)(3).
+  - **(3)** Paragraph (1), and any user fee otherwise required in connection with the submission of an offer-in-compromise, shall not apply to any offer-in-compromise with respect to a taxpayer who is an individual with adjusted gross income, as determined for the most recent taxable year for which such information is available, which does not exceed 250 percent of the applicable poverty level (as determined by the Secretary).
+- **(d)**
+  - **(1)** The Secretary shall prescribe guidelines for officers and employees of the Internal Revenue Service to determine whether an offer-in-compromise is adequate and should be accepted to resolve a dispute.
+  - **(2)**
+    - **(A)** In prescribing guidelines under paragraph (1), the Secretary shall develop and publish schedules of national and local allowances designed to provide that taxpayers entering into a compromise have an adequate means to provide for basic living expenses.
+    - **(B)** The guidelines shall provide that officers and employees of the Internal Revenue Service shall determine, on the basis of the facts and circumstances of each taxpayer, whether the use of the schedules published under subparagraph (A) is appropriate and shall not use the schedules to the extent such use would result in the taxpayer not having adequate means to provide for basic living expenses.
+  - **(3)** The guidelines under paragraph (1) shall provide that—
+    - **(A)** an officer or employee of the Internal Revenue Service shall not reject an offer-in-compromise from a low-income taxpayer solely on the basis of the amount of the offer,
+    - **(B)** in the case of an offer-in-compromise which relates only to issues of liability of the taxpayer—
+      - **(i)** such offer shall not be rejected solely because the Secretary is unable to locate the taxpayer’s return or return information for verification of such liability; and
+      - **(ii)** the taxpayer shall not be required to provide a financial statement, and
+    - **(C)** any offer-in-compromise which does not meet the requirements of subparagraph (A)(i) or (B)(i), as the case may be, of subsection (c)(1) may be returned to the taxpayer as unprocessable.
+- **(e)** The Secretary shall establish procedures—
+  - **(1)** for an independent administrative review of any rejection of a proposed offer-in-compromise or installment agreement made by a taxpayer under this section or section 6159 before such rejection is communicated to the taxpayer; and
+  - **(2)** which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Independent Office of Appeals.
+- **(f)** Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
+- **(g)** Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.

@@ -5,7 +5,7 @@ usc_section: "1c"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1c"
-generated_at: "2026-03-29T00:06:10.868Z"
+generated_at: "2026-03-29T02:09:53.637Z"
 ---
 
 # § 72a–1c. Repealed. Pub. L. 95–26, title I, § 106(f) , May 4, 1977 , 91 Stat. 84

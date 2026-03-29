@@ -5,13 +5,13 @@ usc_section: "5202"
 chapter: 61
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 5202"
-generated_at: "2026-03-29T00:30:33.937Z"
+generated_at: "2026-03-29T02:12:40.352Z"
 ---
 
 # § 5202. Prohibitions regarding PLO
 
 It shall be unlawful, if the purpose be to further the interests of the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof, on or after the effective date of this chapter—
 
-  (1) to receive anything of value except informational material from the PLO or any of its constituent groups, any successor thereto, or any agents thereof;
-  (2) to expend funds from the PLO or any of its constituent groups, any successor thereto, or any agents thereof; or
-  (3) notwithstanding any provision of law to the contrary, to establish or maintain an office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States at the behest or direction of, or with funds provided by the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof.
+  - **(1)** to receive anything of value except informational material from the PLO or any of its constituent groups, any successor thereto, or any agents thereof;
+  - **(2)** to expend funds from the PLO or any of its constituent groups, any successor thereto, or any agents thereof; or
+  - **(3)** notwithstanding any provision of law to the contrary, to establish or maintain an office, headquarters, premises, or other facilities or establishments within the jurisdiction of the United States at the behest or direction of, or with funds provided by the Palestine Liberation Organization or any of its constituent groups, any successor to any of those, or any agents thereof.

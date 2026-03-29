@@ -5,11 +5,11 @@ usc_section: "4355"
 chapter: 55
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 4355"
-generated_at: "2026-03-29T00:07:03.171Z"
+generated_at: "2026-03-29T02:12:17.407Z"
 ---
 
 # § 4355. Monitoring, evaluation, and reporting
 
-(a) The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to section 3109 of title 5 .
-(b) The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a), together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
-(c) There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.
+- **(a)** The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of the University (including the elementary, secondary, undergraduate, and graduate programs) and of NTID. The Secretary may also conduct studies related to the provision of preschool, elementary, secondary, and postsecondary education and other related services to individuals who are deaf or hard of hearing. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to section 3109 of title 5 .
+- **(b)** The Secretary shall annually transmit information to Congress on the monitoring and evaluation activities pursuant to subsection (a), together with such recommendations, including recommendations for legislation, as the Secretary may consider necessary.
+- **(c)** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.

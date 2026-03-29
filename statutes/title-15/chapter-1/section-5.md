@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 1
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-29T00:29:41.401Z"
+generated_at: "2026-03-29T02:11:33.847Z"
 ---
 
 # § 5. Bringing in additional parties

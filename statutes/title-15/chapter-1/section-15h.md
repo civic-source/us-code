@@ -5,7 +5,7 @@ usc_section: "15h"
 chapter: 1
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 15h"
-generated_at: "2026-03-29T00:29:41.409Z"
+generated_at: "2026-03-29T02:11:33.850Z"
 ---
 
 # § 15h. Applicability of parens patriae actions

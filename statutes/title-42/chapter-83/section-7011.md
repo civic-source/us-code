@@ -5,7 +5,7 @@ usc_section: "7011"
 chapter: 83
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7011"
-generated_at: "2026-03-29T00:32:54.014Z"
+generated_at: "2026-03-29T02:15:36.878Z"
 ---
 
 # §§ 7001 to 7011. Repealed. Pub. L. 102–486, title I, § 143(a) , Oct. 24, 1992 , 106 Stat. 2843

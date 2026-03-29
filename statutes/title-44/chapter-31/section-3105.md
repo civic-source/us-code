@@ -5,12 +5,12 @@ usc_section: "3105"
 chapter: 31
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 3105"
-generated_at: "2026-03-29T00:32:58.559Z"
+generated_at: "2026-03-29T02:15:49.334Z"
 ---
 
 # § 3105. Safeguards
 
 The head of each Federal agency shall establish safeguards against the removal or loss of records the head of such agency determines to be necessary and required by regulations of the Archivist. Safeguards shall include making it known to officials and employees of the agency—
 
-  (1) that records in the custody of the agency are not to be alienated or destroyed except in accordance with sections 3301–3314 of this title, and
-  (2) the penalties provided by law for the unlawful removal or destruction of records.
+  - **(1)** that records in the custody of the agency are not to be alienated or destroyed except in accordance with sections 3301–3314 of this title, and
+  - **(2)** the penalties provided by law for the unlawful removal or destruction of records.

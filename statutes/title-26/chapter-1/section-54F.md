@@ -5,7 +5,7 @@ usc_section: "54F"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 54F"
-generated_at: "2026-03-29T00:31:20.602Z"
+generated_at: "2026-03-29T02:14:00.769Z"
 ---
 
 # [§§ 54A to 54F. Repealed. Pub. L. 115–97, title I, § 13404(a) , Dec. 22, 2017 , 131 Stat. 2138 ]

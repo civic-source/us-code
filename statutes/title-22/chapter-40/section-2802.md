@@ -5,17 +5,17 @@ usc_section: "2802"
 chapter: 40
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2802"
-generated_at: "2026-03-29T00:30:33.869Z"
+generated_at: "2026-03-29T02:12:40.274Z"
 ---
 
 # § 2802. Federal recognition
 
-(a) Any international exposition proposed to be held in the United States shall be eligible on application from its sponsors to receive the recognition of the Federal Government upon a finding of the President that recognition will be in the national interest. In making such a finding the President shall consider—
-  (1) a report by the Secretary of Commerce which shall include (A) an evaluation of purposes and reasons for the exposition, and (B) a determination that guaranteed financial and other support has been secured by the exposition from affected State and local governments and from business and civic leadership of the region and others in amounts sufficient in his judgment to assure the successful development and progress of the exposition;
-  (2) a report by the Secretary of State that the proposed exposition qualifies for consideration of registration by the Bureau of International Expositions (hereafter referred to as BIE); and
-  (3) such other evidence as the President may consider to be appropriate.
-(b) Upon a finding by the President that an international exposition is eligible for Federal recognition, the President may take such measures recognizing the exposition as he deems proper, including, but not limited to—
-  (1) presenting of an official request by the United States for registration of the exposition by the BIE;
-  (2) providing for fulfillment of the requirements of the Convention of November 22, 1928 , as amended, relating to international expositions; and
-  (3) extending invitations, by proclamation or by such other manner he deems proper, to the several States of the Union and to foreign governments to take part in the exposition, provided that he shall not extend such an invitation until he has been notified officially of BIE registration for the exposition.
-(c) The President shall report his actions under this section promptly to the Congress.
+- **(a)** Any international exposition proposed to be held in the United States shall be eligible on application from its sponsors to receive the recognition of the Federal Government upon a finding of the President that recognition will be in the national interest. In making such a finding the President shall consider—
+  - **(1)** a report by the Secretary of Commerce which shall include (A) an evaluation of purposes and reasons for the exposition, and (B) a determination that guaranteed financial and other support has been secured by the exposition from affected State and local governments and from business and civic leadership of the region and others in amounts sufficient in his judgment to assure the successful development and progress of the exposition;
+  - **(2)** a report by the Secretary of State that the proposed exposition qualifies for consideration of registration by the Bureau of International Expositions (hereafter referred to as BIE); and
+  - **(3)** such other evidence as the President may consider to be appropriate.
+- **(b)** Upon a finding by the President that an international exposition is eligible for Federal recognition, the President may take such measures recognizing the exposition as he deems proper, including, but not limited to—
+  - **(1)** presenting of an official request by the United States for registration of the exposition by the BIE;
+  - **(2)** providing for fulfillment of the requirements of the Convention of November 22, 1928 , as amended, relating to international expositions; and
+  - **(3)** extending invitations, by proclamation or by such other manner he deems proper, to the several States of the Union and to foreign governments to take part in the exposition, provided that he shall not extend such an invitation until he has been notified officially of BIE registration for the exposition.
+- **(c)** The President shall report his actions under this section promptly to the Congress.

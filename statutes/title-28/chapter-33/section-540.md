@@ -5,7 +5,7 @@ usc_section: "540"
 chapter: 33
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 540"
-generated_at: "2026-03-29T00:31:24.151Z"
+generated_at: "2026-03-29T02:14:04.528Z"
 ---
 
 # § 540. Investigation of felonious killings of State or local law enforcement officers

@@ -5,37 +5,37 @@ usc_section: "4422"
 chapter: 28
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4422"
-generated_at: "2026-03-29T00:30:20.302Z"
+generated_at: "2026-03-29T02:12:08.770Z"
 ---
 
 # § 4422. Advisory Committee on International Exchange Rate Policy
 
-(a) 
-  (1) There is established an Advisory Committee on International Exchange Rate Policy (in this section referred to as the “Committee”).
-  (2) The Committee shall be responsible for advising the Secretary of the Treasury with respect to the impact of international exchange rates and financial policies on the economy of the United States.
-(b) 
-  (1) The Committee shall be composed of 9 members as follows, none of whom shall be employees of the Federal Government:
-    (A) Three members shall be appointed by the President pro tempore of the Senate, upon the recommendation of the chairmen and ranking members of the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
-    (B) Three members shall be appointed by the Speaker of the House of Representatives, upon the recommendation of the chairmen and ranking members of the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives.
-    (C) Three members shall be appointed by the President.
-  (2) Members shall be selected under paragraph (1) on the basis of their objectivity and demonstrated expertise in finance, economics, or currency exchange.
-  (3) 
-    (A) Members shall be appointed for a term of 2 years or until the Committee terminates.
-    (B) A member may be reappointed to the Committee for additional terms.
-  (4) Any vacancy in the Committee shall not affect its powers, but shall be filled in the same manner as the original appointment.
-(c) 
-  (1) The Committee shall terminate on the date that is 2 years after February 24, 2016 , unless renewed by the President for a subsequent 2-year period.
-  (2) The President may continue to renew the Committee for successive 2-year periods by taking appropriate action to renew the Committee prior to the date on which the Committee would otherwise terminate.
-(d) The Committee shall hold not fewer than 2 meetings each calendar year.
-(e) 
-  (1) The Committee shall elect from among its members a chairperson for a term of 2 years or until the Committee terminates.
-  (2) A chairperson of the Committee may be reelected chairperson but is ineligible to serve consecutive terms as chairperson.
-(f) The Secretary of the Treasury shall make available to the Committee such staff, information, personnel, administrative services, and assistance as the Committee may reasonably require to carry out the activities of the Committee.
-(g) 
-  (1) Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the Committee.
-  (2) Meetings of the Committee shall be exempt from the requirements of subsections (a) and (b) of section 1009 and section 1010 of title 5 (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the Secretary of the Treasury that such meetings will be concerned with matters the disclosure of which—
-    (A) would seriously compromise the development by the Government of the United States of monetary or financial policy; or
-    (B) is likely to—
-      (i) lead to significant financial speculation in currencies, securities, or commodities; or
-      (ii) significantly endanger the stability of any financial institution.
-(h) There are authorized to be appropriated to the Secretary of the Treasury for each fiscal year in which the Committee is in effect $1,000,000 to carry out this section.
+- **(a)**
+  - **(1)** There is established an Advisory Committee on International Exchange Rate Policy (in this section referred to as the “Committee”).
+  - **(2)** The Committee shall be responsible for advising the Secretary of the Treasury with respect to the impact of international exchange rates and financial policies on the economy of the United States.
+- **(b)**
+  - **(1)** The Committee shall be composed of 9 members as follows, none of whom shall be employees of the Federal Government:
+    - **(A)** Three members shall be appointed by the President pro tempore of the Senate, upon the recommendation of the chairmen and ranking members of the Committee on Banking, Housing, and Urban Affairs and the Committee on Finance of the Senate.
+    - **(B)** Three members shall be appointed by the Speaker of the House of Representatives, upon the recommendation of the chairmen and ranking members of the Committee on Financial Services and the Committee on Ways and Means of the House of Representatives.
+    - **(C)** Three members shall be appointed by the President.
+  - **(2)** Members shall be selected under paragraph (1) on the basis of their objectivity and demonstrated expertise in finance, economics, or currency exchange.
+  - **(3)**
+    - **(A)** Members shall be appointed for a term of 2 years or until the Committee terminates.
+    - **(B)** A member may be reappointed to the Committee for additional terms.
+  - **(4)** Any vacancy in the Committee shall not affect its powers, but shall be filled in the same manner as the original appointment.
+- **(c)**
+  - **(1)** The Committee shall terminate on the date that is 2 years after February 24, 2016 , unless renewed by the President for a subsequent 2-year period.
+  - **(2)** The President may continue to renew the Committee for successive 2-year periods by taking appropriate action to renew the Committee prior to the date on which the Committee would otherwise terminate.
+- **(d)** The Committee shall hold not fewer than 2 meetings each calendar year.
+- **(e)**
+  - **(1)** The Committee shall elect from among its members a chairperson for a term of 2 years or until the Committee terminates.
+  - **(2)** A chairperson of the Committee may be reelected chairperson but is ineligible to serve consecutive terms as chairperson.
+- **(f)** The Secretary of the Treasury shall make available to the Committee such staff, information, personnel, administrative services, and assistance as the Committee may reasonably require to carry out the activities of the Committee.
+- **(g)**
+  - **(1)** Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the Committee.
+  - **(2)** Meetings of the Committee shall be exempt from the requirements of subsections (a) and (b) of section 1009 and section 1010 of title 5 (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the Secretary of the Treasury that such meetings will be concerned with matters the disclosure of which—
+    - **(A)** would seriously compromise the development by the Government of the United States of monetary or financial policy; or
+    - **(B)** is likely to—
+      - **(i)** lead to significant financial speculation in currencies, securities, or commodities; or
+      - **(ii)** significantly endanger the stability of any financial institution.
+- **(h)** There are authorized to be appropriated to the Secretary of the Treasury for each fiscal year in which the Committee is in effect $1,000,000 to carry out this section.

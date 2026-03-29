@@ -5,7 +5,7 @@ usc_section: "6155"
 chapter: 61
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 6155"
-generated_at: "2026-03-29T00:06:10.997Z"
+generated_at: "2026-03-29T02:09:53.791Z"
 ---
 
 # § 6155. Payment of expenses of Conference of Majority and Conference of Minority from Senate contingent fund

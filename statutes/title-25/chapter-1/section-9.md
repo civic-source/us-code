@@ -5,7 +5,7 @@ usc_section: "9"
 chapter: 1
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 9"
-generated_at: "2026-03-29T00:30:38.607Z"
+generated_at: "2026-03-29T02:13:20.832Z"
 ---
 
 # § 9. Regulations by President

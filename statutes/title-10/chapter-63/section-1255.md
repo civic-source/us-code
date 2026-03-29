@@ -5,7 +5,7 @@ usc_section: "1255"
 chapter: 63
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1255"
-generated_at: "2026-03-29T00:20:52.966Z"
+generated_at: "2026-03-29T02:10:44.996Z"
 ---
 
 # [§ 1255. Repealed. Pub. L. 90–130, § 1(6) , Nov. 8, 1967 , 81 Stat. 374 ]

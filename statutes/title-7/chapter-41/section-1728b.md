@@ -5,7 +5,7 @@ usc_section: "1728b"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1728b"
-generated_at: "2026-03-29T00:28:58.046Z"
+generated_at: "2026-03-29T02:10:16.850Z"
 ---
 
 # § 1728b. Omitted

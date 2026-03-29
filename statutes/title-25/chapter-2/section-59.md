@@ -5,7 +5,7 @@ usc_section: "59"
 chapter: 2
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 59"
-generated_at: "2026-03-29T00:30:38.612Z"
+generated_at: "2026-03-29T02:13:20.835Z"
 ---
 
 # § 59. Transfer of funds for payment of employees; details for other service

@@ -5,11 +5,11 @@ usc_section: "3711"
 chapter: 63
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3711"
-generated_at: "2026-03-29T00:29:41.842Z"
+generated_at: "2026-03-29T02:11:34.346Z"
 ---
 
 # § 3711. National Technology and Innovation Medal
 
-(a) There is hereby established a National Technology and Innovation Medal, which shall be of such design and materials and bear such inscriptions as the President, on the basis of recommendations submitted by the Office of Science and Technology Policy, may prescribe.
-(b) The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies, which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
-(c) The presentation of the award shall be made by the President with such ceremonies as he may deem proper.
+- **(a)** There is hereby established a National Technology and Innovation Medal, which shall be of such design and materials and bear such inscriptions as the President, on the basis of recommendations submitted by the Office of Science and Technology Policy, may prescribe.
+- **(b)** The President shall periodically award the medal, on the basis of recommendations received from the Secretary or on the basis of such other information and evidence as he deems appropriate, to individuals or companies, which in his judgment are deserving of special recognition by reason of their outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
+- **(c)** The presentation of the award shall be made by the President with such ceremonies as he may deem proper.

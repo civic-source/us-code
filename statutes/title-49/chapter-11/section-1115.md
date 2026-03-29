@@ -5,18 +5,18 @@ usc_section: "1115"
 chapter: 11
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 1115"
-generated_at: "2026-03-29T00:33:13.711Z"
+generated_at: "2026-03-29T02:16:08.856Z"
 ---
 
 # § 1115. Training
 
-(a) In this section, “Institute” means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
-(b) The National Transportation Safety Board may use, on a reimbursable basis, the services of the Institute. The Secretary of Transportation shall make the Institute available to—
-  (1) the Board for safety training of employees of the Board in carrying out their duties and powers; and
-  (2) other safety personnel of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations the Board designates in consultation with the Secretary.
-(c) 
-  (1) Training at the Institute for safety personnel (except employees of the Government) shall be provided at a reasonable fee established periodically by the Board in consultation with the Secretary. The fee shall be paid directly to the Secretary, and the Secretary shall deposit the fee in the Treasury. The amount of the fee—
-    (A) shall be credited to the appropriate appropriation (subject to the requirements of any annual appropriation); and
-    (B) is an offset against any annual reimbursement agreement between the Board and the Secretary to cover all reasonable costs of providing training under this subsection that the Secretary incurs in operating the Institute.
-  (2) The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
-(d) The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation and in those subjects furthering the personnel and workforce development needs set forth in the strategic workforce plan of the Board as required under section 1113(h). The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
+- **(a)** In this section, “Institute” means the Transportation Safety Institute of the Department of Transportation and any successor organization of the Institute.
+- **(b)** The National Transportation Safety Board may use, on a reimbursable basis, the services of the Institute. The Secretary of Transportation shall make the Institute available to—
+  - **(1)** the Board for safety training of employees of the Board in carrying out their duties and powers; and
+  - **(2)** other safety personnel of the United States Government, State and local governments, governments of foreign countries, interstate authorities, and private organizations the Board designates in consultation with the Secretary.
+- **(c)**
+  - **(1)** Training at the Institute for safety personnel (except employees of the Government) shall be provided at a reasonable fee established periodically by the Board in consultation with the Secretary. The fee shall be paid directly to the Secretary, and the Secretary shall deposit the fee in the Treasury. The amount of the fee—
+    - **(A)** shall be credited to the appropriate appropriation (subject to the requirements of any annual appropriation); and
+    - **(B)** is an offset against any annual reimbursement agreement between the Board and the Secretary to cover all reasonable costs of providing training under this subsection that the Secretary incurs in operating the Institute.
+  - **(2)** The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
+- **(d)** The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation and in those subjects furthering the personnel and workforce development needs set forth in the strategic workforce plan of the Board as required under section 1113(h). The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.

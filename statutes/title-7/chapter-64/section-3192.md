@@ -5,14 +5,14 @@ usc_section: "3192"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3192"
-generated_at: "2026-03-29T00:28:58.167Z"
+generated_at: "2026-03-29T02:10:16.992Z"
 ---
 
 # § 3192. Definitions
 
 When used in this subchapter—
 
-  (1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
-  (2) the term “dean” means the dean of an accredited school or college of veterinary medicine;
-  (3) the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution; and
-  (4) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
+  - **(1)** the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
+  - **(2)** the term “dean” means the dean of an accredited school or college of veterinary medicine;
+  - **(3)** the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution; and
+  - **(4)** the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.

@@ -5,7 +5,7 @@ usc_section: "1154"
 chapter: 24
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1154"
-generated_at: "2026-03-29T00:29:52.683Z"
+generated_at: "2026-03-29T02:11:53.736Z"
 ---
 
 # § 1154. Scientific research on fur seal resources; use of fur seals for educational, scientific, or exhibition purposes

@@ -5,10 +5,10 @@ usc_section: "3621"
 chapter: 22
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3621"
-generated_at: "2026-03-29T00:30:20.272Z"
+generated_at: "2026-03-29T02:12:08.737Z"
 ---
 
 # § 3621. Tobacco proclamation authority
 
-(a) The President, after consultation with the Committee on Ways and Means of the House of Representatives and with the Committee on Finance of the Senate, may proclaim the reduction or elimination of any duty with respect to cigar binder and filler tobacco, wrapper tobacco, or oriental tobacco set forth in Schedule XX.
-(b) This section shall take effect on December 8, 1994 .
+- **(a)** The President, after consultation with the Committee on Ways and Means of the House of Representatives and with the Committee on Finance of the Senate, may proclaim the reduction or elimination of any duty with respect to cigar binder and filler tobacco, wrapper tobacco, or oriental tobacco set forth in Schedule XX.
+- **(b)** This section shall take effect on December 8, 1994 .

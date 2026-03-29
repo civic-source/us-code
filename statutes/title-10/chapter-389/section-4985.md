@@ -5,7 +5,7 @@ usc_section: "4985"
 chapter: 389
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4985"
-generated_at: "2026-03-29T00:20:53.169Z"
+generated_at: "2026-03-29T02:10:45.243Z"
 ---
 
 # § 4985. Reports

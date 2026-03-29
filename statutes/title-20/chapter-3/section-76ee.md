@@ -5,7 +5,7 @@ usc_section: "76ee"
 chapter: 3
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 76ee"
-generated_at: "2026-03-29T00:07:03.099Z"
+generated_at: "2026-03-29T02:12:17.137Z"
 ---
 
 # § 76ee. Authorization of appropriations

@@ -5,7 +5,7 @@ usc_section: "17217"
 chapter: 152
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 17217"
-generated_at: "2026-03-29T00:32:54.433Z"
+generated_at: "2026-03-29T02:15:37.396Z"
 ---
 
 # § 17217. Applicability of other laws

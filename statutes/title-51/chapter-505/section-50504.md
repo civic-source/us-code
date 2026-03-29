@@ -5,19 +5,19 @@ usc_section: "50504"
 chapter: 505
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50504"
-generated_at: "2026-03-29T00:33:19.402Z"
+generated_at: "2026-03-29T02:16:19.256Z"
 ---
 
 # § 50504. Use of Government facilities
 
-(a) 
-  (1) Federal agencies, including the Administration and the Department of Defense, may allow non-Federal entities to use their space-related facilities on a reimbursable basis if the Administrator, the Secretary of Defense, or the appropriate agency head determines that—
-    (A) the facilities will be used to support commercial space activities;
-    (B) such use can be supported by existing or planned Federal resources;
-    (C) such use is compatible with Federal activities;
-    (D) equivalent commercial services are not available on reasonable terms; and
-    (E) such use is consistent with public safety, national security, and international treaty obligations.
-  (2) In carrying out paragraph (1)(E), each agency head shall consult with appropriate Federal officials.
-(b) 
-  (1) The reimbursement referred to in subsection (a) may be an amount equal to the direct costs (including salaries of United States civilian and contractor personnel) incurred by the United States as a result of the use of such facilities by the private sector. For the purposes of this paragraph, the term “direct costs” means the actual costs that can be unambiguously associated with such use, and would not be borne by the United States Government in the absence of such use.
-  (2) The amount of any payment received by the United States for use of facilities under this subsection shall be credited to the appropriation from which the cost of providing such facilities was paid.
+- **(a)**
+  - **(1)** Federal agencies, including the Administration and the Department of Defense, may allow non-Federal entities to use their space-related facilities on a reimbursable basis if the Administrator, the Secretary of Defense, or the appropriate agency head determines that—
+    - **(A)** the facilities will be used to support commercial space activities;
+    - **(B)** such use can be supported by existing or planned Federal resources;
+    - **(C)** such use is compatible with Federal activities;
+    - **(D)** equivalent commercial services are not available on reasonable terms; and
+    - **(E)** such use is consistent with public safety, national security, and international treaty obligations.
+  - **(2)** In carrying out paragraph (1)(E), each agency head shall consult with appropriate Federal officials.
+- **(b)**
+  - **(1)** The reimbursement referred to in subsection (a) may be an amount equal to the direct costs (including salaries of United States civilian and contractor personnel) incurred by the United States as a result of the use of such facilities by the private sector. For the purposes of this paragraph, the term “direct costs” means the actual costs that can be unambiguously associated with such use, and would not be borne by the United States Government in the absence of such use.
+  - **(2)** The amount of any payment received by the United States for use of facilities under this subsection shall be credited to the appropriation from which the cost of providing such facilities was paid.

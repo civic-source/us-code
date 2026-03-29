@@ -5,22 +5,22 @@ usc_section: "4106A"
 chapter: 306
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 4106A"
-generated_at: "2026-03-29T00:30:15.758Z"
+generated_at: "2026-03-29T02:12:02.512Z"
 ---
 
 # § 4106A. Transfer of offenders on parole; parole of offenders transferred
 
-(a) Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Parole Commission for supervision.
-(b) 
-  (1) 
-    (A) The United States Parole Commission shall, without unnecessary delay, determine a release date and a period and conditions of supervised release for an offender transferred to the United States to serve a sentence of imprisonment, as though the offender were convicted in a United States district court of a similar offense.
-    (B) In making such determination, the United States Parole Commission shall consider—
-      (i) any recommendation of the United States Probation Service, including any recommendation as to the applicable guideline range; and
-      (ii) any documents provided by the transferring country;
-    (C) The combined periods of imprisonment and supervised release that result from such determination shall not exceed the term of imprisonment imposed by the foreign court on that offender.
-    (D) The duties conferred on a United States probation officer with respect to a defendant by section 3552 of this title shall, with respect to an offender so transferred, be carried out by the United States Probation Service.
-  (2) 
-    (A) A determination by the United States Parole Commission under this subsection may be appealed to the United States court of appeals for the circuit in which the offender is imprisoned at the time of the determination of such Commission. Notice of appeal must be filed not later than 45 days after receipt of notice of such determination.
-    (B) The court of appeals shall decide and dispose of the appeal in accordance with section 3742 of this title as though the determination appealed had been a sentence imposed by a United States district court.
-  (3) During the supervised release of an offender under this subsection, the United States district court for the district in which the offender resides shall supervise the offender.
-(c) This section shall apply only to offenses committed on or after November 1, 1987 .
+- **(a)** Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Parole Commission for supervision.
+- **(b)**
+  - **(1)**
+    - **(A)** The United States Parole Commission shall, without unnecessary delay, determine a release date and a period and conditions of supervised release for an offender transferred to the United States to serve a sentence of imprisonment, as though the offender were convicted in a United States district court of a similar offense.
+    - **(B)** In making such determination, the United States Parole Commission shall consider—
+      - **(i)** any recommendation of the United States Probation Service, including any recommendation as to the applicable guideline range; and
+      - **(ii)** any documents provided by the transferring country;
+    - **(C)** The combined periods of imprisonment and supervised release that result from such determination shall not exceed the term of imprisonment imposed by the foreign court on that offender.
+    - **(D)** The duties conferred on a United States probation officer with respect to a defendant by section 3552 of this title shall, with respect to an offender so transferred, be carried out by the United States Probation Service.
+  - **(2)**
+    - **(A)** A determination by the United States Parole Commission under this subsection may be appealed to the United States court of appeals for the circuit in which the offender is imprisoned at the time of the determination of such Commission. Notice of appeal must be filed not later than 45 days after receipt of notice of such determination.
+    - **(B)** The court of appeals shall decide and dispose of the appeal in accordance with section 3742 of this title as though the determination appealed had been a sentence imposed by a United States district court.
+  - **(3)** During the supervised release of an offender under this subsection, the United States district court for the district in which the offender resides shall supervise the offender.
+- **(c)** This section shall apply only to offenses committed on or after November 1, 1987 .

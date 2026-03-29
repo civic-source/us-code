@@ -5,7 +5,7 @@ usc_section: "396b"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 396b"
-generated_at: "2026-03-29T00:29:52.348Z"
+generated_at: "2026-03-29T02:11:53.373Z"
 ---
 
 # § 396b. Establishment; boundaries; administration

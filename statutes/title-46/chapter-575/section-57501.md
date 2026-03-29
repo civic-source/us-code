@@ -5,7 +5,7 @@ usc_section: "57501"
 chapter: 575
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 57501"
-generated_at: "2026-03-29T00:33:02.954Z"
+generated_at: "2026-03-29T02:15:53.787Z"
 ---
 
 # § 57501. Completion of long-range program

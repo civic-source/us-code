@@ -5,7 +5,7 @@ usc_section: "887b"
 chapter: 24
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 887b"
-generated_at: "2026-03-29T00:07:03.116Z"
+generated_at: "2026-03-29T02:12:17.159Z"
 ---
 
 # § 887b. Repealed. Pub. L. 93–380, title IV, § 402(c)(3) , Aug. 21, 1974 , 88 Stat. 546

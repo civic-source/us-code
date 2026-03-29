@@ -5,7 +5,7 @@ usc_section: "1594g"
 chapter: 9
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1594g"
-generated_at: "2026-03-29T00:32:53.666Z"
+generated_at: "2026-03-29T02:15:36.482Z"
 ---
 
 # § 1594g. Repealed. Pub. L. 85–241, title IV, § 406(b) , Aug. 30, 1957 , 71 Stat. 556

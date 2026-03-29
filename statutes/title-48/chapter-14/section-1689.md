@@ -5,7 +5,7 @@ usc_section: "1689"
 chapter: 14
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1689"
-generated_at: "2026-03-29T00:33:06.635Z"
+generated_at: "2026-03-29T02:16:00.820Z"
 ---
 
 # § 1689. Plan for use of grant to Trust Territory of the Pacific Islands Economic Development Loan Fund; loans; terms

@@ -5,16 +5,16 @@ usc_section: "1752a"
 chapter: 15
 current_through: "PL 119-73"
 classification: "8 U.S.C. § 1752a"
-generated_at: "2026-03-29T00:06:34.303Z"
+generated_at: "2026-03-29T02:10:21.493Z"
 ---
 
 # § 1752a. Model ports-of-entry
 
-(a) The Secretary of Homeland Security shall—
-  (1) establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process in order to facilitate and promote business and tourist travel to the United States, while also improving security; and
-  (2) implement the program initially at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007 .
-(b) The program shall include—
-  (1) enhanced queue management in the Federal Inspection Services area leading up to primary inspection;
-  (2) assistance for foreign travelers once they have been admitted to the United States, in consultation, as appropriate, with relevant governmental and nongovernmental entities; and
-  (3) instructional videos, in English and such other languages as the Secretary determines appropriate, in the Federal Inspection Services area that explain the United States inspection process and feature national, regional, or local welcome videos.
-(c) Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007 .
+- **(a)** The Secretary of Homeland Security shall—
+  - **(1)** establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process in order to facilitate and promote business and tourist travel to the United States, while also improving security; and
+  - **(2)** implement the program initially at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007 .
+- **(b)** The program shall include—
+  - **(1)** enhanced queue management in the Federal Inspection Services area leading up to primary inspection;
+  - **(2)** assistance for foreign travelers once they have been admitted to the United States, in consultation, as appropriate, with relevant governmental and nongovernmental entities; and
+  - **(3)** instructional videos, in English and such other languages as the Secretary determines appropriate, in the Federal Inspection Services area that explain the United States inspection process and feature national, regional, or local welcome videos.
+- **(c)** Subject to the availability of appropriations, not later than the end of fiscal year 2008 the Secretary of Homeland Security shall employ not fewer than an additional 200 Customs and Border Protection officers over the number of such positions for which funds were appropriated for the proceeding fiscal year to address staff shortages at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007 .

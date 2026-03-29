@@ -5,12 +5,12 @@ usc_section: "1101"
 chapter: 4
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 1101"
-generated_at: "2026-03-29T00:06:17.491Z"
+generated_at: "2026-03-29T02:10:05.071Z"
 ---
 
 # § 1101. Definitions
 
 For purposes of this subchapter, the following terms apply:
 
-  (1) The term “Department” means the Department of Homeland Security.
-  (2) The term “Secretary” means the Secretary of Homeland Security.
+  - **(1)** The term “Department” means the Department of Homeland Security.
+  - **(2)** The term “Secretary” means the Secretary of Homeland Security.

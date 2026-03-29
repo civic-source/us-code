@@ -5,7 +5,7 @@ usc_section: "662"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 662"
-generated_at: "2026-03-29T00:32:53.245Z"
+generated_at: "2026-03-29T02:15:36.019Z"
 ---
 
 # §§ 661, 662. Repealed. Pub. L. 104–193, title III, § 362(b)(1) , Aug. 22, 1996 , 110 Stat. 2246

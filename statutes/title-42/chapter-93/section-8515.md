@@ -5,10 +5,10 @@ usc_section: "8515"
 chapter: 93
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8515"
-generated_at: "2026-03-29T00:32:54.127Z"
+generated_at: "2026-03-29T02:15:37.029Z"
 ---
 
 # § 8515. Reports
 
-(a) The Secretary shall monitor the implementation of State emergency conservation plans and of the standby Federal conservation plan and make such recommendations to the Governor of each affected State as he deems appropriate for modification to such plans.
-(b) 
+- **(a)** The Secretary shall monitor the implementation of State emergency conservation plans and of the standby Federal conservation plan and make such recommendations to the Governor of each affected State as he deems appropriate for modification to such plans.
+- **(b)**

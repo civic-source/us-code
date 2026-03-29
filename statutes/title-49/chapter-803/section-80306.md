@@ -5,16 +5,16 @@ usc_section: "80306"
 chapter: 803
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 80306"
-generated_at: "2026-03-29T00:33:13.957Z"
+generated_at: "2026-03-29T02:16:09.101Z"
 ---
 
 # § 80306. Relationship to other laws
 
-(a) This chapter is in addition to another law—
-  (1) imposing, or authorizing the compromise of, fines, penalties, or forfeitures; or
-  (2) providing for seizure, condemnation, or disposition of forfeited property, or the proceeds from the property.
-(b) To the extent applicable and consistent with this chapter, the following apply to a seizure or forfeiture under this chapter:
-  (1) provisions of law related to the seizure, forfeiture, and condemnation of vehicles and vessels violating the customs laws.
-  (2) provisions of law related to the disposition of those vehicles or vessels or the proceeds from the sale of those vehicles or vessels.
-  (3) provisions of law related to the compromise of those forfeitures or claims related to those forfeitures.
-  (4) provisions of law related to the award of compensation to an informer about those forfeitures.
+- **(a)** This chapter is in addition to another law—
+  - **(1)** imposing, or authorizing the compromise of, fines, penalties, or forfeitures; or
+  - **(2)** providing for seizure, condemnation, or disposition of forfeited property, or the proceeds from the property.
+- **(b)** To the extent applicable and consistent with this chapter, the following apply to a seizure or forfeiture under this chapter:
+  - **(1)** provisions of law related to the seizure, forfeiture, and condemnation of vehicles and vessels violating the customs laws.
+  - **(2)** provisions of law related to the disposition of those vehicles or vessels or the proceeds from the sale of those vehicles or vessels.
+  - **(3)** provisions of law related to the compromise of those forfeitures or claims related to those forfeitures.
+  - **(4)** provisions of law related to the award of compensation to an informer about those forfeitures.

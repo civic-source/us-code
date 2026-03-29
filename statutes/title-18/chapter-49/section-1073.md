@@ -5,7 +5,7 @@ usc_section: "1073"
 chapter: 49
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1073"
-generated_at: "2026-03-29T00:30:15.659Z"
+generated_at: "2026-03-29T02:12:02.406Z"
 ---
 
 # § 1073. Flight to avoid prosecution or giving testimony

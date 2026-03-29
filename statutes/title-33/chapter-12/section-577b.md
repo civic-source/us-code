@@ -5,7 +5,7 @@ usc_section: "577b"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 577b"
-generated_at: "2026-03-29T00:31:57.204Z"
+generated_at: "2026-03-29T02:14:18.498Z"
 ---
 
 # § 577b. Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects

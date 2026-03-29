@@ -5,7 +5,7 @@ usc_section: "1"
 chapter: 7
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1"
-generated_at: "2026-03-29T00:30:38.627Z"
+generated_at: "2026-03-29T02:13:20.846Z"
 ---
 
 # § 305c–1. Repealed. Pub. L. 87–23, § 2 , Apr. 24, 1961 , 75 Stat. 45

@@ -5,20 +5,20 @@ usc_section: "8111"
 chapter: 812
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8111"
-generated_at: "2026-03-29T00:20:53.214Z"
+generated_at: "2026-03-29T02:10:45.296Z"
 ---
 
 # § 8111. Navy: grades above chief warrant officer, W–5
 
 The commissioned grades in the Navy above the grade of chief warrant officer, W–5, are the following:
 
-  (1) Admiral.
-  (2) Vice admiral.
-  (3) Rear admiral.
-  (4) Rear admiral (lower half).
-  (5) Captain.
-  (6) Commander.
-  (7) Lieutenant commander.
-  (8) Lieutenant.
-  (9) Lieutenant (junior grade).
-  (10) Ensign.
+  - **(1)** Admiral.
+  - **(2)** Vice admiral.
+  - **(3)** Rear admiral.
+  - **(4)** Rear admiral (lower half).
+  - **(5)** Captain.
+  - **(6)** Commander.
+  - **(7)** Lieutenant commander.
+  - **(8)** Lieutenant.
+  - **(9)** Lieutenant (junior grade).
+  - **(10)** Ensign.

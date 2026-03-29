@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 32"
-generated_at: "2026-03-29T00:29:16.465Z"
+generated_at: "2026-03-29T02:11:20.833Z"
 ---
 
 # § 32. Liabilities and suits as affected by change of name or location

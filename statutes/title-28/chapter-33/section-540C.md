@@ -5,36 +5,36 @@ usc_section: "540C"
 chapter: 33
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 540C"
-generated_at: "2026-03-29T00:31:24.151Z"
+generated_at: "2026-03-29T02:14:04.529Z"
 ---
 
 # § 540C. FBI police
 
-(a) In this section:
-  (1) The term “Director” means the Director of the Federal Bureau of Investigation.
-  (2) 
-    (A) The term “FBI buildings and grounds” means—
-      (i) the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
-      (ii) the land upon which there is situated any building or structure which is occupied wholly by the Federal Bureau of Investigation; and
-      (iii) any enclosed passageway connecting 2 or more buildings or structures occupied in whole or in part by the Federal Bureau of Investigation.
-    (B) The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
-  (3) The term “FBI police” means the permanent police force established under subsection (b).
-(b) 
-  (1) Subject to the supervision of the Attorney General, the Director may establish a permanent police force, to be known as the FBI police.
-  (2) The FBI police shall perform such duties as the Director may prescribe in connection with the protection of persons and property within FBI buildings and grounds.
-  (3) The Director, or designated representative duly authorized by the Attorney General, may appoint uniformed representatives of the Federal Bureau of Investigation as FBI police for duty in connection with the policing of all FBI buildings and grounds.
-  (4) 
-    (A) In accordance with regulations prescribed by the Director and approved by the Attorney General, the FBI police may—
-      (i) police the FBI buildings and grounds for the purpose of protecting persons and property;
-      (ii) in the performance of duties necessary for carrying out subparagraph (A), make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia;
-      (iii) carry firearms as may be required for the performance of duties;
-      (iv) prevent breaches of the peace and suppress affrays and unlawful assemblies; and
-      (v) hold the same powers as sheriffs and constables when policing FBI buildings and grounds.
-    (B) The authority and policing powers of FBI police under this paragraph shall not include the service of civil process.
-  (5) 
-    (A) The rates of basic pay, salary schedule, pay provisions, and benefits for members of the FBI police shall be equivalent to the rates of basic pay, salary schedule, pay provisions, and benefits applicable to members of the United States Secret Service Uniformed Division.
-    (B) Pay and benefits for the FBI police under subparagraph (A)—
-      (i) shall be established by regulation;
-      (ii) shall apply with respect to pay periods beginning after January 1, 2003 ; and
-      (iii) shall not result in any decrease in the rates of pay or benefits of any individual.
-(c) This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
+- **(a)** In this section:
+  - **(1)** The term “Director” means the Director of the Federal Bureau of Investigation.
+  - **(2)**
+    - **(A)** The term “FBI buildings and grounds” means—
+      - **(i)** the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
+      - **(ii)** the land upon which there is situated any building or structure which is occupied wholly by the Federal Bureau of Investigation; and
+      - **(iii)** any enclosed passageway connecting 2 or more buildings or structures occupied in whole or in part by the Federal Bureau of Investigation.
+    - **(B)** The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
+  - **(3)** The term “FBI police” means the permanent police force established under subsection (b).
+- **(b)**
+  - **(1)** Subject to the supervision of the Attorney General, the Director may establish a permanent police force, to be known as the FBI police.
+  - **(2)** The FBI police shall perform such duties as the Director may prescribe in connection with the protection of persons and property within FBI buildings and grounds.
+  - **(3)** The Director, or designated representative duly authorized by the Attorney General, may appoint uniformed representatives of the Federal Bureau of Investigation as FBI police for duty in connection with the policing of all FBI buildings and grounds.
+  - **(4)**
+    - **(A)** In accordance with regulations prescribed by the Director and approved by the Attorney General, the FBI police may—
+      - **(i)** police the FBI buildings and grounds for the purpose of protecting persons and property;
+      - **(ii)** in the performance of duties necessary for carrying out subparagraph (A), make arrests and otherwise enforce the laws of the United States, including the laws of the District of Columbia;
+      - **(iii)** carry firearms as may be required for the performance of duties;
+      - **(iv)** prevent breaches of the peace and suppress affrays and unlawful assemblies; and
+      - **(v)** hold the same powers as sheriffs and constables when policing FBI buildings and grounds.
+    - **(B)** The authority and policing powers of FBI police under this paragraph shall not include the service of civil process.
+  - **(5)**
+    - **(A)** The rates of basic pay, salary schedule, pay provisions, and benefits for members of the FBI police shall be equivalent to the rates of basic pay, salary schedule, pay provisions, and benefits applicable to members of the United States Secret Service Uniformed Division.
+    - **(B)** Pay and benefits for the FBI police under subparagraph (A)—
+      - **(i)** shall be established by regulation;
+      - **(ii)** shall apply with respect to pay periods beginning after January 1, 2003 ; and
+      - **(iii)** shall not result in any decrease in the rates of pay or benefits of any individual.
+- **(c)** This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.

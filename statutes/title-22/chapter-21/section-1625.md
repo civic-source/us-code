@@ -5,7 +5,7 @@ usc_section: "1625"
 chapter: 21
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1625"
-generated_at: "2026-03-29T00:30:33.729Z"
+generated_at: "2026-03-29T02:12:39.999Z"
 ---
 
 # § 1625. Omitted

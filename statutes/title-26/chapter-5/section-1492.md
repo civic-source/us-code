@@ -5,7 +5,7 @@ usc_section: "1492"
 chapter: 5
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1492"
-generated_at: "2026-03-29T00:31:20.898Z"
+generated_at: "2026-03-29T02:14:01.155Z"
 ---
 
 # [§§ 1491, 1492. Repealed. Pub. L. 105–34, title XI, § 1131(a) , Aug. 5, 1997 , 111 Stat. 978 ]

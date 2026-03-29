@@ -5,7 +5,7 @@ usc_section: "1631b"
 chapter: 21
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1631b"
-generated_at: "2026-03-29T00:30:33.730Z"
+generated_at: "2026-03-29T02:12:40.000Z"
 ---
 
 # § 1631b. Cancellation and issuance of shares of stock or other beneficial interest in corporation

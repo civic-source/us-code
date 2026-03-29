@@ -5,20 +5,20 @@ usc_section: "198"
 chapter: 9
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 198"
-generated_at: "2026-03-29T00:28:57.915Z"
+generated_at: "2026-03-29T02:10:16.707Z"
 ---
 
 # § 198. Definitions
 
 Except as provided in section 198b(a) of this title , in this part:
 
-  (1) The term “market” means the sale or disposition of swine, pork, or pork products in commerce.
-  (2) The term “packer” has the meaning given the term in section 1635i of this title .
-  (3) The term “pork” means the meat of a porcine animal.
-  (4) The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
-  (5) The term “State” means each of the 50 States.
-  (6) The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
-  (7) The term “type of contract” means the classification of contracts or risk management agreements for the purchase of swine by—
-    (A) the mechanism used to determine the base price for swine committed to a packer, grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
-    (B) the presence or absence of an accrual account or ledger that must be repaid by the producer or packer that receives the benefit of the contract pricing mechanism in relation to negotiated prices.
-  (8) Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.
+  - **(1)** The term “market” means the sale or disposition of swine, pork, or pork products in commerce.
+  - **(2)** The term “packer” has the meaning given the term in section 1635i of this title .
+  - **(3)** The term “pork” means the meat of a porcine animal.
+  - **(4)** The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
+  - **(5)** The term “State” means each of the 50 States.
+  - **(6)** The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
+  - **(7)** The term “type of contract” means the classification of contracts or risk management agreements for the purchase of swine by—
+    - **(A)** the mechanism used to determine the base price for swine committed to a packer, grouped into practicable classifications by the Secretary (including swine or pork market formula purchases, other market formula purchases, and other purchase arrangements); and
+    - **(B)** the presence or absence of an accrual account or ledger that must be repaid by the producer or packer that receives the benefit of the contract pricing mechanism in relation to negotiated prices.
+  - **(8)** Except as provided in this part, a term has the meaning given the term in section 1635a or 1635i of this title.

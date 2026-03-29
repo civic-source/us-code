@@ -5,13 +5,13 @@ usc_section: "3207"
 chapter: 51
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3207"
-generated_at: "2026-03-29T00:29:52.795Z"
+generated_at: "2026-03-29T02:11:53.880Z"
 ---
 
 # § 3207. Effect on existing rights; water resources
 
 Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—
 
-  (1) as affecting in any way any law governing appropriation or use of, or Federal right to, water on lands within the State of Alaska;
-  (2) as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control, or
-  (3) as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto.
+  - **(1)** as affecting in any way any law governing appropriation or use of, or Federal right to, water on lands within the State of Alaska;
+  - **(2)** as expanding or diminishing Federal or State jurisdiction, responsibility, interests, or rights in water resources development or control, or
+  - **(3)** as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto.

@@ -5,7 +5,7 @@ usc_section: "1344"
 chapter: 6
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1344"
-generated_at: "2026-03-29T00:33:06.602Z"
+generated_at: "2026-03-29T02:16:00.801Z"
 ---
 
 # §§ 1341 to 1344. Omitted

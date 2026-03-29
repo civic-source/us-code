@@ -5,21 +5,21 @@ usc_section: "1091"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1091"
-generated_at: "2026-03-29T00:20:52.946Z"
+generated_at: "2026-03-29T02:10:44.973Z"
 ---
 
 # § 1091. Personal services contracts
 
-(a) 
-  (1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Homeland Security, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
-  (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary.
-(b) In no case may the total amount of compensation paid to an individual in any year under a personal services contract entered into under subsection (a) exceed the amount of annual compensation (excluding the allowances for expenses) specified in section 102 of title 3 .
-(c) 
-  (1) The Secretary shall establish by regulation procedures for entering into personal services contracts with individuals under subsection (a). At a minimum, such procedures shall assure—
-    (A) the provision of adequate notice of contract opportunities to individuals residing in the area of the medical treatment facility involved; and
-    (B) consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
-  (2) Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 1 1 See References in Text note below. of this title or any other similar requirements of law.
-  (3) The procedures established under paragraph (1) may provide for a contracting officer to authorize a contractor to enter into a subcontract for personal services on behalf of the agency upon a determination that the subcontract is—
-    (A) consistent with the requirements of this section and the procedures established under paragraph (1); and
-    (B) in the best interests of the agency.
-(d) The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
+- **(a)**
+  - **(1)** The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Homeland Security, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+  - **(2)** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary.
+- **(b)** In no case may the total amount of compensation paid to an individual in any year under a personal services contract entered into under subsection (a) exceed the amount of annual compensation (excluding the allowances for expenses) specified in section 102 of title 3 .
+- **(c)**
+  - **(1)** The Secretary shall establish by regulation procedures for entering into personal services contracts with individuals under subsection (a). At a minimum, such procedures shall assure—
+    - **(A)** the provision of adequate notice of contract opportunities to individuals residing in the area of the medical treatment facility involved; and
+    - **(B)** consideration of interested individuals solely on the basis of the qualifications established for the contract and the proposed contract price.
+  - **(2)** Upon the establishment of the procedures under paragraph (1), the Secretary may exempt contracts covered by this section from the competitive contracting requirements specified in section 2304 1 1 See References in Text note below. of this title or any other similar requirements of law.
+  - **(3)** The procedures established under paragraph (1) may provide for a contracting officer to authorize a contractor to enter into a subcontract for personal services on behalf of the agency upon a determination that the subcontract is—
+    - **(A)** consistent with the requirements of this section and the procedures established under paragraph (1); and
+    - **(B)** in the best interests of the agency.
+- **(d)** The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).

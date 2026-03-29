@@ -5,7 +5,7 @@ usc_section: "2239"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2239"
-generated_at: "2026-03-29T00:31:57.403Z"
+generated_at: "2026-03-29T02:14:18.608Z"
 ---
 
 # § 2239. Repealed. Pub. L. 101–640, title IV, § 412(f) , Nov. 28, 1990 , 104 Stat. 4650

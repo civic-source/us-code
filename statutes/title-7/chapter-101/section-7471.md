@@ -5,10 +5,10 @@ usc_section: "7471"
 chapter: 101
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7471"
-generated_at: "2026-03-29T00:28:58.281Z"
+generated_at: "2026-03-29T02:10:17.142Z"
 ---
 
 # § 7471. Suspension or termination
 
-(a) If the Secretary finds that an order issued under section 7463 of this title , or a provision of the order, obstructs or does not tend to effectuate the purposes of this subchapter, the Secretary shall suspend or terminate the operation of the order or provision.
-(b) The suspension or termination of any order, or any provision of an order, shall not be considered an order under this subchapter.
+- **(a)** If the Secretary finds that an order issued under section 7463 of this title , or a provision of the order, obstructs or does not tend to effectuate the purposes of this subchapter, the Secretary shall suspend or terminate the operation of the order or provision.
+- **(b)** The suspension or termination of any order, or any provision of an order, shall not be considered an order under this subchapter.

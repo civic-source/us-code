@@ -5,7 +5,7 @@ usc_section: "10201"
 chapter: 1007
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 10201"
-generated_at: "2026-03-29T00:20:53.270Z"
+generated_at: "2026-03-29T02:10:45.357Z"
 ---
 
 # § 10201. Assistant Secretary of Defense for Manpower and Reserve Affairs

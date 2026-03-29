@@ -5,7 +5,7 @@ usc_section: "323"
 chapter: 5
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 323"
-generated_at: "2026-03-29T00:32:04.409Z"
+generated_at: "2026-03-29T02:14:43.127Z"
 ---
 
 # [§ 323. Renumbered § 355]

@@ -5,13 +5,13 @@ usc_section: "2281"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2281"
-generated_at: "2026-03-29T00:28:58.140Z"
+generated_at: "2026-03-29T02:10:16.962Z"
 ---
 
 # § 2281. Congressional declaration of purpose
 
 The purposes of this chapter are to—
 
-  (1) require strict financial and program accounting by advisory committees of the Department of Agriculture;
-  (2) assure balance and objectivity in the membership of such advisory committees; and
-  (3) prevent the formation or continuation of unnecessary advisory committees by the Department of Agriculture.
+  - **(1)** require strict financial and program accounting by advisory committees of the Department of Agriculture;
+  - **(2)** assure balance and objectivity in the membership of such advisory committees; and
+  - **(3)** prevent the formation or continuation of unnecessary advisory committees by the Department of Agriculture.

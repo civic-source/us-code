@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 1
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-29T00:29:16.455Z"
+generated_at: "2026-03-29T02:11:20.826Z"
 ---
 
 # §§ 5, 6. Repealed. Pub. L. 86–251, § 1(b) , (c)(1), Sept. 9, 1959 , 73 Stat. 487 , 488

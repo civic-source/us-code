@@ -5,18 +5,18 @@ usc_section: "963"
 chapter: 22
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 963"
-generated_at: "2026-03-29T00:31:30.800Z"
+generated_at: "2026-03-29T02:14:11.236Z"
 ---
 
 # § 963. Technical Study Panel
 
-(a) There is established a Technical Study Panel (referred to in this section as the “Panel”) which shall provide independent scientific and engineering review and recommendations with respect to the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
-(b) The Panel shall be composed of—
-  (1) two individuals to be appointed by the Secretary of Health and Human Services, in consultation with the Director of the National Institute for Occupational Safety and Health and the Associate Director of the Office of Mine Safety;
-  (2) two individuals to be appointed by the Secretary of Labor, in consultation with the Assistant Secretary for Mine Safety and Health; and
-  (3) two individuals, one to be appointed jointly by the majority leaders of the Senate and House of Representatives and one to be appointed jointly by the minority leader of the Senate and House of Representatives, each to be appointed prior to the sine die adjournment of the second session of the 109th Congress.
-(c) Four of the six individuals appointed to the Panel under subsection (b) shall possess a masters or doctoral level degree in mining engineering or another scientific field demonstrably related to the subject of the report. No individual appointed to the Panel shall be an employee of any coal or other mine, or of any labor organization, or of any State or Federal agency primarily responsible for regulating the mining industry.
-(d) 
-  (1) Not later than 1 year after the date on which all members of the Panel are appointed under subsection (b), the Panel shall prepare and submit to the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report concerning the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
-  (2) Not later than 180 days after the receipt of the report under paragraph (1), the Secretary of Labor shall provide a response to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives containing a description of the actions, if any, that the Secretary intends to take based upon the report, including proposing regulatory changes, and the reasons for such actions.
-(e) Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under section 210(c) of title 42 .
+- **(a)** There is established a Technical Study Panel (referred to in this section as the “Panel”) which shall provide independent scientific and engineering review and recommendations with respect to the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
+- **(b)** The Panel shall be composed of—
+  - **(1)** two individuals to be appointed by the Secretary of Health and Human Services, in consultation with the Director of the National Institute for Occupational Safety and Health and the Associate Director of the Office of Mine Safety;
+  - **(2)** two individuals to be appointed by the Secretary of Labor, in consultation with the Assistant Secretary for Mine Safety and Health; and
+  - **(3)** two individuals, one to be appointed jointly by the majority leaders of the Senate and House of Representatives and one to be appointed jointly by the minority leader of the Senate and House of Representatives, each to be appointed prior to the sine die adjournment of the second session of the 109th Congress.
+- **(c)** Four of the six individuals appointed to the Panel under subsection (b) shall possess a masters or doctoral level degree in mining engineering or another scientific field demonstrably related to the subject of the report. No individual appointed to the Panel shall be an employee of any coal or other mine, or of any labor organization, or of any State or Federal agency primarily responsible for regulating the mining industry.
+- **(d)**
+  - **(1)** Not later than 1 year after the date on which all members of the Panel are appointed under subsection (b), the Panel shall prepare and submit to the Secretary of Labor, the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and the Workforce of the House of Representatives a report concerning the utilization of belt air and the composition and fire retardant properties of belt materials in underground coal mining.
+  - **(2)** Not later than 180 days after the receipt of the report under paragraph (1), the Secretary of Labor shall provide a response to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives containing a description of the actions, if any, that the Secretary intends to take based upon the report, including proposing regulatory changes, and the reasons for such actions.
+- **(e)** Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under section 210(c) of title 42 .

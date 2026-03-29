@@ -5,7 +5,7 @@ usc_section: "6038"
 chapter: 69
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6038"
-generated_at: "2026-03-29T00:30:33.953Z"
+generated_at: "2026-03-29T02:12:40.372Z"
 ---
 
 # § 6038. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(c)(3) , Dec. 18, 2025 , 139 Stat. 1654

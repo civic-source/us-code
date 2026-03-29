@@ -5,13 +5,13 @@ usc_section: "2656h"
 chapter: 38
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2656h"
-generated_at: "2026-03-29T00:30:33.839Z"
+generated_at: "2026-03-29T02:12:40.225Z"
 ---
 
 # § 2656h. International credit reports
 
-(a) Not later than 90 days after October 28, 1991 , the Assistant Secretary of State for Economic and Business Affairs, in consultation with the Secretary of the Treasury, shall submit to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives a report setting forth clear criteria for bilateral loans by which the United States can determine the likelihood of repayment by a country seeking to receive United States loans. The report should include the criteria used for—
-  (1) assessing country risk;
-  (2) projecting loan repayments; and
-  (3) estimating subsidy levels.
-(b) Beginning 180 days after the submission of the report in subsection (a) and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.
+- **(a)** Not later than 90 days after October 28, 1991 , the Assistant Secretary of State for Economic and Business Affairs, in consultation with the Secretary of the Treasury, shall submit to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives a report setting forth clear criteria for bilateral loans by which the United States can determine the likelihood of repayment by a country seeking to receive United States loans. The report should include the criteria used for—
+  - **(1)** assessing country risk;
+  - **(2)** projecting loan repayments; and
+  - **(3)** estimating subsidy levels.
+- **(b)** Beginning 180 days after the submission of the report in subsection (a) and annually thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit a report to the Chairman of the Foreign Relations Committee of the Senate and the Speaker of the House of Representatives showing actual repayments by country and by program to the United States Government for the previous 5 years and the scheduled repayments to the United States Government for the next 5 years.

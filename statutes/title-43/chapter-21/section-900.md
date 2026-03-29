@@ -5,7 +5,7 @@ usc_section: "900"
 chapter: 21
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 900"
-generated_at: "2026-03-29T00:32:57.390Z"
+generated_at: "2026-03-29T02:15:47.577Z"
 ---
 
 # § 900. Suits to cancel patents to lands erroneously issued under railroad or wagon-road grants

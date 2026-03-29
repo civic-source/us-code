@@ -1,0 +1,17 @@
+---
+title: "Section 151702 - Purposes"
+usc_title: 36
+usc_section: "151702"
+chapter: 1517
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 151702"
+generated_at: "2026-03-29T02:14:41.367Z"
+---
+
+# § 151702. Purposes
+
+The purposes of the corporation are to—
+
+  - **(1)** encourage, accept, and administer private gifts to promote and ensure the preservation and public accessibility of the nation’s film heritage held at the Library of Congress and other public and nonprofit archives throughout the United States and the repatriation of American films from foreign archives;
+  - **(2)** further the goals of the Library of Congress and the National Film Preservation Board in connection with their activities under the National Film Preservation Act of 1996 ( 2 U.S.C. 179 l –179w); and
+  - **(3)** conduct activities, alone or in cooperation with other film related institutions and organizations, to further the preservation and public accessibility of films made in the United States, particularly films not protected by private interests, for the benefit of present and future generations of Americans.

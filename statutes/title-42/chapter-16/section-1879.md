@@ -5,7 +5,7 @@ usc_section: "1879"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1879"
-generated_at: "2026-03-29T00:32:53.709Z"
+generated_at: "2026-03-29T02:15:36.542Z"
 ---
 
 # §§ 1876 to 1879. Repealed. Pub. L. 99–383, § 11 , Aug. 21, 1986 , 100 Stat. 817

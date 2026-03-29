@@ -5,16 +5,16 @@ usc_section: "536"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 536"
-generated_at: "2026-03-29T00:33:04.918Z"
+generated_at: "2026-03-29T02:15:59.235Z"
 ---
 
 # § 536. Regulation of carriage agreements
 
-(a) Within one year after October 5, 1992 , the Commission shall establish regulations governing program carriage agreements and related practices between cable operators or other multichannel video programming distributors and video programming vendors. Such regulations shall—
-  (1) include provisions designed to prevent a cable operator or other multichannel video programming distributor from requiring a financial interest in a program service as a condition for carriage on one or more of such operator’s systems;
-  (2) include provisions designed to prohibit a cable operator or other multichannel video programming distributor from coercing a video programming vendor to provide, and from retaliating against such a vendor for failing to provide, exclusive rights against other multichannel video programming distributors as a condition of carriage on a system;
-  (3) contain provisions designed to prevent a multichannel video programming distributor from engaging in conduct the effect of which is to unreasonably restrain the ability of an unaffiliated video programming vendor to compete fairly by discriminating in video programming distribution on the basis of affiliation or nonaffiliation of vendors in the selection, terms, or conditions for carriage of video programming provided by such vendors;
-  (4) provide for expedited review of any complaints made by a video programming vendor pursuant to this section;
-  (5) provide for appropriate penalties and remedies for violations of this subsection, including carriage; and
-  (6) provide penalties to be assessed against any person filing a frivolous complaint pursuant to this section.
-(b) As used in this section, the term “video programming vendor” means a person engaged in the production, creation, or wholesale distribution of video programming for sale.
+- **(a)** Within one year after October 5, 1992 , the Commission shall establish regulations governing program carriage agreements and related practices between cable operators or other multichannel video programming distributors and video programming vendors. Such regulations shall—
+  - **(1)** include provisions designed to prevent a cable operator or other multichannel video programming distributor from requiring a financial interest in a program service as a condition for carriage on one or more of such operator’s systems;
+  - **(2)** include provisions designed to prohibit a cable operator or other multichannel video programming distributor from coercing a video programming vendor to provide, and from retaliating against such a vendor for failing to provide, exclusive rights against other multichannel video programming distributors as a condition of carriage on a system;
+  - **(3)** contain provisions designed to prevent a multichannel video programming distributor from engaging in conduct the effect of which is to unreasonably restrain the ability of an unaffiliated video programming vendor to compete fairly by discriminating in video programming distribution on the basis of affiliation or nonaffiliation of vendors in the selection, terms, or conditions for carriage of video programming provided by such vendors;
+  - **(4)** provide for expedited review of any complaints made by a video programming vendor pursuant to this section;
+  - **(5)** provide for appropriate penalties and remedies for violations of this subsection, including carriage; and
+  - **(6)** provide penalties to be assessed against any person filing a frivolous complaint pursuant to this section.
+- **(b)** As used in this section, the term “video programming vendor” means a person engaged in the production, creation, or wholesale distribution of video programming for sale.

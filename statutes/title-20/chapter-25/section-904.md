@@ -5,24 +5,24 @@ usc_section: "904"
 chapter: 25
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 904"
-generated_at: "2026-03-29T00:07:03.116Z"
+generated_at: "2026-03-29T02:12:17.160Z"
 ---
 
 # § 904. Leave
 
-(a) Subject to the regulations prescribed and issued by the Secretary of Defense under section 902 of this title , each teacher (other than an individual employed as a substitute teacher) shall be entitled to cumulative leave, with pay, which shall accrue at the rate of one day for each calendar month, or part thereof, of a school year, except that if the school year includes more than eight months, any such teacher who shall have served for the entire school year shall be entitled to ten (or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen) days of cumulative leave with pay.
-(b) Saturdays, Sundays, regularly scheduled holidays, and other administratively authorized nonwork days shall not be considered to be days of leave for the purposes of subsection (a) of this section.
-(c) Subject to the regulations prescribed and issued by the Secretary of Defense, leave earned by any teacher under subsection (a) of this section may be used by such teacher—
-  (1) for maternity purposes,
-  (2) in the event of the illness of such teacher,
-  (3) in the event of illness, contagious disease, or death in the immediate family of such teacher, and
-  (4) in the event of any personal emergency.
-(d) Any individual—
-  (1) who is holding a position which is determined to be a teaching position, or
-  (2) who is an employee of the Federal Government or the municipal government of the District of Columbia who is transferred, promoted, or reappointed, without break in service, from a position under a different leave system to a teaching position,
-(e) In any case in which the amount of sick leave, which is to the credit of any individual under a different leave system immediately prior to the date on which he becomes subject as a teacher to the leave system provided by this section and which is included in the leave provided for in subsection (a) of this section, is in excess of the maximum amount of accumulated leave allowable under subparagraph (2) of such subsection, such excess shall remain to the credit of such teacher until used, but the use during any leave year of an amount in excess of the aggregate amount which shall have accrued during such year shall reduce automatically the maximum allowable amount of accumulated leave at the beginning of the next leave year until such amount no longer exceeds the maximum amount allowable under subparagraph (2) of subsection (a) of this section.
-(f) Any annual leave remaining, upon his separation from the service, to the credit of an individual within the purview of this section shall be liquidated in accordance with section 5551 of title 5 , except that leave earned or included under subsection (a) of this section shall not be liquidated.
-(g) In the case of any teacher who is transferred, promoted, or reappointed, without break in service, to a position under a different leave system, the annual leave, and any other leave earned or credited under this section, which is to his credit immediately prior to such transfer, promotion, or reappointment, shall be transferred to his credit in the employing agency on an adjusted basis in accordance with regulations which shall be prescribed by the Director of the Office of Personnel Management.
-(h) The Director of Dependents’ Education, in consultation with the Director of the Office of Personnel Management—
-  (1) shall establish for teachers a voluntary leave transfer program similar to the one under subchapter III of chapter 63 of title 5; and
-  (2) may establish for teachers a voluntary leave bank program similar to the one under subchapter IV of chapter 63 of title 5.
+- **(a)** Subject to the regulations prescribed and issued by the Secretary of Defense under section 902 of this title , each teacher (other than an individual employed as a substitute teacher) shall be entitled to cumulative leave, with pay, which shall accrue at the rate of one day for each calendar month, or part thereof, of a school year, except that if the school year includes more than eight months, any such teacher who shall have served for the entire school year shall be entitled to ten (or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen) days of cumulative leave with pay.
+- **(b)** Saturdays, Sundays, regularly scheduled holidays, and other administratively authorized nonwork days shall not be considered to be days of leave for the purposes of subsection (a) of this section.
+- **(c)** Subject to the regulations prescribed and issued by the Secretary of Defense, leave earned by any teacher under subsection (a) of this section may be used by such teacher—
+  - **(1)** for maternity purposes,
+  - **(2)** in the event of the illness of such teacher,
+  - **(3)** in the event of illness, contagious disease, or death in the immediate family of such teacher, and
+  - **(4)** in the event of any personal emergency.
+- **(d)** Any individual—
+  - **(1)** who is holding a position which is determined to be a teaching position, or
+  - **(2)** who is an employee of the Federal Government or the municipal government of the District of Columbia who is transferred, promoted, or reappointed, without break in service, from a position under a different leave system to a teaching position,
+- **(e)** In any case in which the amount of sick leave, which is to the credit of any individual under a different leave system immediately prior to the date on which he becomes subject as a teacher to the leave system provided by this section and which is included in the leave provided for in subsection (a) of this section, is in excess of the maximum amount of accumulated leave allowable under subparagraph (2) of such subsection, such excess shall remain to the credit of such teacher until used, but the use during any leave year of an amount in excess of the aggregate amount which shall have accrued during such year shall reduce automatically the maximum allowable amount of accumulated leave at the beginning of the next leave year until such amount no longer exceeds the maximum amount allowable under subparagraph (2) of subsection (a) of this section.
+- **(f)** Any annual leave remaining, upon his separation from the service, to the credit of an individual within the purview of this section shall be liquidated in accordance with section 5551 of title 5 , except that leave earned or included under subsection (a) of this section shall not be liquidated.
+- **(g)** In the case of any teacher who is transferred, promoted, or reappointed, without break in service, to a position under a different leave system, the annual leave, and any other leave earned or credited under this section, which is to his credit immediately prior to such transfer, promotion, or reappointment, shall be transferred to his credit in the employing agency on an adjusted basis in accordance with regulations which shall be prescribed by the Director of the Office of Personnel Management.
+- **(h)** The Director of Dependents’ Education, in consultation with the Director of the Office of Personnel Management—
+  - **(1)** shall establish for teachers a voluntary leave transfer program similar to the one under subchapter III of chapter 63 of title 5; and
+  - **(2)** may establish for teachers a voluntary leave bank program similar to the one under subchapter IV of chapter 63 of title 5.

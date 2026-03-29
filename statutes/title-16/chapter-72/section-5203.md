@@ -5,13 +5,13 @@ usc_section: "5203"
 chapter: 72
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5203"
-generated_at: "2026-03-29T00:29:52.849Z"
+generated_at: "2026-03-29T02:11:53.949Z"
 ---
 
 # § 5203. Other relief
 
 Injunctive relief against a violation of section 5201 of this title may be sought by—
 
-  (1) the head of a State agency with jurisdiction over fish or wildlife management;
-  (2) the Attorney General of the United States; or
-  (3) any person who is or would be adversely affected by the violation.
+  - **(1)** the head of a State agency with jurisdiction over fish or wildlife management;
+  - **(2)** the Attorney General of the United States; or
+  - **(3)** any person who is or would be adversely affected by the violation.

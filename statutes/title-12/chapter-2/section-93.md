@@ -5,53 +5,53 @@ usc_section: "93"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 93"
-generated_at: "2026-03-29T00:29:16.472Z"
+generated_at: "2026-03-29T02:11:20.838Z"
 ---
 
 # § 93. Violation of provisions of chapter
 
-(a) If the directors of any national banking association shall knowingly violate, or knowingly permit any of the officers, agents, or servants of the association to violate any of the provisions of title 62 of the Revised Statutes, all the rights, privileges, and franchises of the association shall be thereby forfeited. Such violation shall, however, be determined and adjudged by a proper district or Territorial court of the United States in a suit brought for that purpose by the Comptroller of the Currency, in his own name, before the association shall be declared dissolved. And in cases of such violation, every director who participated in or assented to the same shall be held liable in his personal and individual capacity for all damages which the association, its shareholders, or any other person, shall have sustained in consequence of such violation.
-(b) 
-  (1) Any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who, violates any provision of title 62 of the Revised Statutes or any of the provisions of section 92a of this title , or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
-  (2) Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who, commits any violation described in paragraph (1) which— 1 1 So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.
-    (A) 
-      (i) commits any violation described in any 2 2 So in original. The word “any” probably should not appear. paragraph (1);
-      (ii) recklessly engages in an unsafe or unsound practice in conducting the affairs of such association; or
-      (iii) breaches any fiduciary duty;
-    (B) which violation, practice, or breach—
-      (i) is part of a pattern of misconduct;
-      (ii) causes or is likely to cause more than a minimal loss to such association; or
-      (iii) results in pecuniary gain or other benefit to such party,
-  (3) Notwithstanding paragraphs (1) and (2), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who—
-    (A) knowingly—
-      (i) commits any violation described in paragraph (1);
-      (ii) engages in any unsafe or unsound practice in conducting the affairs of such association; or
-      (iii) breaches any fiduciary duty; and
-    (B) knowingly or recklessly causes a substantial loss to such association or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
-  (4) The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
-    (A) in the case of any person other than a national banking association, an amount to not 3 3 So in original. Probably should be “not to”. exceed $1,000,000; and
-    (B) in the case of a national banking association, an amount not to exceed the lesser of—
-      (i) $1,000,000; or
-      (ii) 1 percent of the total assets of such association.
-  (5) Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
-  (6) The association or other person against whom any penalty is assessed under this subsection shall be afforded an agency hearing if such association or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
-  (7) All penalties collected under authority of this subsection shall be deposited into the Treasury.
-  (8) For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
-  (12) The Comptroller shall prescribe regulations establishing such procedures as may be necessary to carry out this subsection.
-(c) The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such an association (including a separation caused by the closing of such an association) shall not affect the jurisdiction and authority of the Comptroller of the Currency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such association (whether such date occurs before, on, or after August 9, 1989 ).
-(d) 
-  (1) 
-    (A) 
-      (i) If a national bank, a Federal branch, or Federal agency has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Comptroller of the Currency a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
-      (ii) After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller’s intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
-    (B) If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller’s intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
-    (C) Section 1818(h) of this title shall apply to any proceeding under this subsection.
-  (2) In determining whether a franchise shall be forfeited under paragraph (1), the Comptroller of the Currency shall take into account the following factors:
-    (A) The extent to which directors or senior executive officers of the national bank, Federal branch, or Federal agency knew of, or were involved in, the commission of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
-    (B) The extent to which the offense occurred despite the existence of policies and procedures within the national bank, Federal branch, or Federal agency which were designed to prevent the occurrence of any such offense.
-    (C) The extent to which the national bank, Federal branch, or Federal agency has fully cooperated with law enforcement authorities with respect to the investigation of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
-    (D) The extent to which the national bank, Federal branch, or Federal agency has implemented additional internal controls (since the commission of the offense of which the bank, Federal branch, or Federal agency was found guilty) to prevent the occurrence of any other money laundering offense.
-    (E) The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
-  (3) This subsection shall not apply to a successor to the interests of, or a person who acquires, a bank, a Federal branch, or a Federal agency that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
-  (4) The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title .
-(d) The Comptroller of the Currency may act in the Comptroller’s own name and through the Comptroller’s own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
+- **(a)** If the directors of any national banking association shall knowingly violate, or knowingly permit any of the officers, agents, or servants of the association to violate any of the provisions of title 62 of the Revised Statutes, all the rights, privileges, and franchises of the association shall be thereby forfeited. Such violation shall, however, be determined and adjudged by a proper district or Territorial court of the United States in a suit brought for that purpose by the Comptroller of the Currency, in his own name, before the association shall be declared dissolved. And in cases of such violation, every director who participated in or assented to the same shall be held liable in his personal and individual capacity for all damages which the association, its shareholders, or any other person, shall have sustained in consequence of such violation.
+- **(b)**
+  - **(1)** Any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who, violates any provision of title 62 of the Revised Statutes or any of the provisions of section 92a of this title , or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+  - **(2)** Notwithstanding paragraph (1), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who, commits any violation described in paragraph (1) which— 1 1 So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.
+    - **(A)**
+      - **(i)** commits any violation described in any 2 2 So in original. The word “any” probably should not appear. paragraph (1);
+      - **(ii)** recklessly engages in an unsafe or unsound practice in conducting the affairs of such association; or
+      - **(iii)** breaches any fiduciary duty;
+    - **(B)** which violation, practice, or breach—
+      - **(i)** is part of a pattern of misconduct;
+      - **(ii)** causes or is likely to cause more than a minimal loss to such association; or
+      - **(iii)** results in pecuniary gain or other benefit to such party,
+  - **(3)** Notwithstanding paragraphs (1) and (2), any national banking association which, and any institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such association who—
+    - **(A)** knowingly—
+      - **(i)** commits any violation described in paragraph (1);
+      - **(ii)** engages in any unsafe or unsound practice in conducting the affairs of such association; or
+      - **(iii)** breaches any fiduciary duty; and
+    - **(B)** knowingly or recklessly causes a substantial loss to such association or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
+  - **(4)** The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
+    - **(A)** in the case of any person other than a national banking association, an amount to not 3 3 So in original. Probably should be “not to”. exceed $1,000,000; and
+    - **(B)** in the case of a national banking association, an amount not to exceed the lesser of—
+      - **(i)** $1,000,000; or
+      - **(ii)** 1 percent of the total assets of such association.
+  - **(5)** Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+  - **(6)** The association or other person against whom any penalty is assessed under this subsection shall be afforded an agency hearing if such association or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this subsection.
+  - **(7)** All penalties collected under authority of this subsection shall be deposited into the Treasury.
+  - **(8)** For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+  - **(12)** The Comptroller shall prescribe regulations establishing such procedures as may be necessary to carry out this subsection.
+- **(c)** The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title ) with respect to such an association (including a separation caused by the closing of such an association) shall not affect the jurisdiction and authority of the Comptroller of the Currency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such association (whether such date occurs before, on, or after August 9, 1989 ).
+- **(d)**
+  - **(1)**
+    - **(A)**
+      - **(i)** If a national bank, a Federal branch, or Federal agency has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Comptroller of the Currency a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
+      - **(ii)** After receiving written notification from the Attorney General of such a conviction, the Comptroller of the Currency shall issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller’s intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+    - **(B)** If a national bank, a Federal branch, or a Federal agency is convicted of any criminal offense under section 5322 or 5324 of title 31, after receiving written notification from the Attorney General, the Comptroller of the Currency may issue to the national bank, Federal branch, or Federal agency a notice of the Comptroller’s intention to terminate all rights, privileges, and franchises of the bank, Federal branch, or Federal agency and schedule a pretermination hearing.
+    - **(C)** Section 1818(h) of this title shall apply to any proceeding under this subsection.
+  - **(2)** In determining whether a franchise shall be forfeited under paragraph (1), the Comptroller of the Currency shall take into account the following factors:
+    - **(A)** The extent to which directors or senior executive officers of the national bank, Federal branch, or Federal agency knew of, or were involved in, the commission of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
+    - **(B)** The extent to which the offense occurred despite the existence of policies and procedures within the national bank, Federal branch, or Federal agency which were designed to prevent the occurrence of any such offense.
+    - **(C)** The extent to which the national bank, Federal branch, or Federal agency has fully cooperated with law enforcement authorities with respect to the investigation of the money laundering offense of which the bank, Federal branch, or Federal agency was found guilty.
+    - **(D)** The extent to which the national bank, Federal branch, or Federal agency has implemented additional internal controls (since the commission of the offense of which the bank, Federal branch, or Federal agency was found guilty) to prevent the occurrence of any other money laundering offense.
+    - **(E)** The extent to which the interest of the local community in having adequate deposit and credit services available would be threatened by the forfeiture of the franchise.
+  - **(3)** This subsection shall not apply to a successor to the interests of, or a person who acquires, a bank, a Federal branch, or a Federal agency that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
+  - **(4)** The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title .
+- **(d)** The Comptroller of the Currency may act in the Comptroller’s own name and through the Comptroller’s own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.

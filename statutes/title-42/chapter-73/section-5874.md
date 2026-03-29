@@ -5,12 +5,12 @@ usc_section: "5874"
 chapter: 73
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5874"
-generated_at: "2026-03-29T00:32:53.936Z"
+generated_at: "2026-03-29T02:15:36.784Z"
 ---
 
 # § 5874. Definitions
 
 As used in this chapter—
 
-  (1) any reference to “function” or “functions” shall be deemed to include references to duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and
-  (2) any reference to “perform” or “performance”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.
+  - **(1)** any reference to “function” or “functions” shall be deemed to include references to duty, obligation, power, authority, responsibility, right, privilege, and activity, or the plural thereof, as the case may be; and
+  - **(2)** any reference to “perform” or “performance”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.

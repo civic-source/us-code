@@ -5,12 +5,12 @@ usc_section: "3609"
 chapter: 49
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 3609"
-generated_at: "2026-03-29T00:07:03.166Z"
+generated_at: "2026-03-29T02:12:17.400Z"
 ---
 
 # § 3609. Retained rights
 
 Except as otherwise provided in section 3607 of this title , nothing in this chapter shall—
 
-  (1) affect the right of any party to seek legal redress in connection with the purchase or installation of asbestos materials in schools or any claim of disability or death related to exposure to asbestos in a school setting; or
-  (2) affect the rights of any party under any other law.
+  - **(1)** affect the right of any party to seek legal redress in connection with the purchase or installation of asbestos materials in schools or any claim of disability or death related to exposure to asbestos in a school setting; or
+  - **(2)** affect the rights of any party under any other law.

@@ -5,19 +5,19 @@ usc_section: "1862h"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1862h"
-generated_at: "2026-03-29T00:32:53.695Z"
+generated_at: "2026-03-29T02:15:36.525Z"
 ---
 
 # § 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training
 
-(a) The Congress finds that—
-  (1) the position of the United States in the world economy faces great challenges from highly trained foreign competition;
-  (2) the workforce of the United States must be better prepared for the technologically advanced, competitive, global economy;
-  (3) the improvement of our work force’s productivity and our international economic position depend upon the strengthening of our educational efforts in science, technology, engineering, and mathematics or STEM, especially at the associate-degree level;
-  (4) shortages of scientifically and technically educated 1 1 So in original. Probably should be followed by “and”. trained workers in a wide variety of fields will best be addressed by collaboration among the Nation’s associate-degree-granting colleges and private industry to produce skilled, advanced technicians; and
-  (5) the National Science Foundation’s traditional role in developing model curricula, disseminating instructional materials, enhancing faculty development, and stimulating partnerships between educational institutions and industry, makes an enlarged role for the Foundation in STEM education and training particularly appropriate.
-(b) It is the purpose of sections 1862h to 1862j of this title to—
-  (1) improve science and technical education at associate-degree-granting colleges;
-  (2) improve secondary school and postsecondary curricula in STEM fields;
-  (3) improve the educational opportunities of postsecondary students by creating comprehensive articulation agreements and planning between 2-year and 4-year institutions; and
-  (4) promote outreach to secondary schools to improve STEM instruction.
+- **(a)** The Congress finds that—
+  - **(1)** the position of the United States in the world economy faces great challenges from highly trained foreign competition;
+  - **(2)** the workforce of the United States must be better prepared for the technologically advanced, competitive, global economy;
+  - **(3)** the improvement of our work force’s productivity and our international economic position depend upon the strengthening of our educational efforts in science, technology, engineering, and mathematics or STEM, especially at the associate-degree level;
+  - **(4)** shortages of scientifically and technically educated 1 1 So in original. Probably should be followed by “and”. trained workers in a wide variety of fields will best be addressed by collaboration among the Nation’s associate-degree-granting colleges and private industry to produce skilled, advanced technicians; and
+  - **(5)** the National Science Foundation’s traditional role in developing model curricula, disseminating instructional materials, enhancing faculty development, and stimulating partnerships between educational institutions and industry, makes an enlarged role for the Foundation in STEM education and training particularly appropriate.
+- **(b)** It is the purpose of sections 1862h to 1862j of this title to—
+  - **(1)** improve science and technical education at associate-degree-granting colleges;
+  - **(2)** improve secondary school and postsecondary curricula in STEM fields;
+  - **(3)** improve the educational opportunities of postsecondary students by creating comprehensive articulation agreements and planning between 2-year and 4-year institutions; and
+  - **(4)** promote outreach to secondary schools to improve STEM instruction.

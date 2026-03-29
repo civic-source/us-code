@@ -5,7 +5,7 @@ usc_section: "1622d"
 chapter: 21
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1622d"
-generated_at: "2026-03-29T00:30:33.728Z"
+generated_at: "2026-03-29T02:12:39.998Z"
 ---
 
 # § 1622d. Appointment and compensation of officers and employees of Foreign Claims Settlement Commission of the United States; allowances and benefits; utilization of other Federal facilities

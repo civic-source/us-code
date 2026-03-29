@@ -5,7 +5,7 @@ usc_section: "29"
 chapter: 2
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 29"
-generated_at: "2026-03-29T00:31:30.742Z"
+generated_at: "2026-03-29T02:14:11.191Z"
 ---
 
 # § 29. Patents; procurement procedure; filing: application under oath, plat and field notes, notices, and affidavits; posting plat and notice on claim; publication and posting notice in office; certificate; adverse claims; payment per acre; objections; nonresident claimant’s agent for execution of application and affidavits

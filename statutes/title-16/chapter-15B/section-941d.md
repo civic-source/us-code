@@ -5,16 +5,16 @@ usc_section: "941d"
 chapter: 15
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 941d"
-generated_at: "2026-03-29T00:29:52.671Z"
+generated_at: "2026-03-29T02:11:53.723Z"
 ---
 
 # § 941d. Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources
 
 In administering programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, the Director shall seek to achieve the following goals:
 
-  (1) Restoring and maintaining self-sustaining fish and wildlife resources.
-  (2) Minimizing the impacts of contaminants on fishery and wildlife resources.
-  (3) Protecting, maintaining, and, where degraded and destroyed, restoring fish and wildlife habitat, including the enhancement and creation of wetlands that result in a net gain in the amount of those habitats.
-  (4) Stopping illegal activities adversely impacting fishery and wildlife resources.
-  (5) Restoring threatened and endangered species to viable, self-sustaining levels.
-  (6) Protecting, managing, and conserving migratory birds.
+  - **(1)** Restoring and maintaining self-sustaining fish and wildlife resources.
+  - **(2)** Minimizing the impacts of contaminants on fishery and wildlife resources.
+  - **(3)** Protecting, maintaining, and, where degraded and destroyed, restoring fish and wildlife habitat, including the enhancement and creation of wetlands that result in a net gain in the amount of those habitats.
+  - **(4)** Stopping illegal activities adversely impacting fishery and wildlife resources.
+  - **(5)** Restoring threatened and endangered species to viable, self-sustaining levels.
+  - **(6)** Protecting, managing, and conserving migratory birds.

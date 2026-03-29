@@ -5,7 +5,7 @@ usc_section: "2315"
 chapter: 113
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2315"
-generated_at: "2026-03-29T00:30:15.704Z"
+generated_at: "2026-03-29T02:12:02.449Z"
 ---
 
 # § 2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps

@@ -5,15 +5,15 @@ usc_section: "8113"
 chapter: 812
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8113"
-generated_at: "2026-03-29T00:20:53.214Z"
+generated_at: "2026-03-29T02:10:45.296Z"
 ---
 
 # § 8113. Navy and Marine Corps: warrant officer grades
 
 The warrant officer grades in the Navy and the Marine Corps are:
 
-  (1) Chief warrant officer, W–5.
-  (2) Chief warrant officer, W–4.
-  (3) Chief warrant officer, W–3.
-  (4) Chief warrant officer, W–2.
-  (5) Warrant officer, W–1.
+  - **(1)** Chief warrant officer, W–5.
+  - **(2)** Chief warrant officer, W–4.
+  - **(3)** Chief warrant officer, W–3.
+  - **(4)** Chief warrant officer, W–2.
+  - **(5)** Warrant officer, W–1.

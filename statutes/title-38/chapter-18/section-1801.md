@@ -5,7 +5,7 @@ usc_section: "1801"
 chapter: 18
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1801"
-generated_at: "2026-03-29T00:32:17.207Z"
+generated_at: "2026-03-29T02:14:50.371Z"
 ---
 
 # [§ 1801. Repealed. Pub. L. 106–419, title IV, § 401(c)(1) , Nov. 1, 2000 , 114 Stat. 1860 ]

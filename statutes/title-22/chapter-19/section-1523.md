@@ -5,7 +5,7 @@ usc_section: "1523"
 chapter: 19
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1523"
-generated_at: "2026-03-29T00:30:33.727Z"
+generated_at: "2026-03-29T02:12:39.998Z"
 ---
 
 # § 1523. Repealed. Oct. 26, 1951, ch. 575 , title III, § 305, 65 Stat. 647

@@ -5,12 +5,12 @@ usc_section: "3682"
 chapter: 38
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3682"
-generated_at: "2026-03-29T00:30:38.765Z"
+generated_at: "2026-03-29T02:13:20.977Z"
 ---
 
 # § 3682. Assistant probation officers
 
 To the maximum extent practicable, the chief judge or chief probation or pretrial services officer of each judicial district, in coordination with the Office of Tribal Justice and the Office of Justice Services, shall—
 
-  (1) appoint individuals residing in Indian country to serve as probation or pretrial services officers or assistants for purposes of monitoring and providing services to Federal prisoners residing in Indian country; and
-  (2) provide substance abuse, mental health, and other related treatment services to offenders residing on Indian land.
+  - **(1)** appoint individuals residing in Indian country to serve as probation or pretrial services officers or assistants for purposes of monitoring and providing services to Federal prisoners residing in Indian country; and
+  - **(2)** provide substance abuse, mental health, and other related treatment services to offenders residing on Indian land.

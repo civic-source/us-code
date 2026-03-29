@@ -5,96 +5,96 @@ usc_section: "403"
 chapter: 4
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-29T00:07:07.676Z"
+generated_at: "2026-03-29T02:13:00.966Z"
 ---
 
 # § 403. Highway safety research and development
 
-(a) In this section, the term “Federal laboratory” includes—
-  (1) a government-owned, government-operated laboratory; and
-  (2) a government-owned, contractor-operated laboratory.
-(b) 
-  (1) The Secretary may conduct research and development activities, including demonstration projects, training, education, and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
-    (A) all aspects of highway and traffic safety systems and conditions relating to—
-      (i) vehicle, highway, driver, passenger, motorcyclist, bicyclist, and pedestrian characteristics;
-      (ii) crash causation and investigations;
-      (iii) communications; and
-      (iv) emergency medical services, including the transportation of the injured;
-    (B) human behavioral factors and their effect on highway and traffic safety, including—
-      (i) driver education;
-      (ii) impaired driving; and
-      (iii) distracted driving;
-    (C) an evaluation of the effectiveness of countermeasures to increase highway and traffic safety, including occupant protection and alcohol- and drug-impaired driving technologies and initiatives;
-    (D) the development of technologies to detect drug impaired drivers;
-    (E) research on, evaluations of, and identification of best practices related to driver education programs (including driver education curricula, instructor training and certification, program administration, and delivery mechanisms) and make recommendations for harmonizing driver education and multistage graduated licensing systems; and
-    (F) the effect of State laws on any aspects, activities, or programs described in subparagraphs (A) through (E).
-  (2) The Secretary may carry out this section—
-    (A) independently;
-    (B) in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories;
-    (C) by entering into contracts, cooperative agreements, and other transactions with the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, foreign government (in coordination with the Department of State) or person (as defined in chapter 1 of title 1); or
-    (D) by making grants to the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1).
-(c) 
-  (1) To encourage innovative solutions to highway safety problems, stimulate voluntary improvements in highway safety, and stimulate the marketing of new highway safety related technology by private industry, the Secretary is authorized to carry out, on a cost-shared basis, collaborative research and development with—
-    (A) non-Federal entities, including State and local governments, foreign governments, colleges, universities, corporations, partnerships, sole proprietorships, organizations, and trade associations that are incorporated or established under the laws of any State or the United States; and
-    (B) Federal laboratories.
-  (2) In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a )) in which the Secretary provides not more than 50 percent of the cost of any research or development project under this subsection.
-  (3) The research, development, or use of any technology pursuant to an agreement under this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
-(d) In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
-(e) Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic crash or the investigation of such crash conducted pursuant to this chapter or chapter 301 of title 49 may only be made available to the public in a manner that does not identify individuals.
-(f) 
-  (1) Notwithstanding the apportionment formula set forth in section 402(c)(2), $3,500,000 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
-  (2) The program established under paragraph (1)—
-    (A) shall be administered by the Administrator of the National Highway Traffic Safety Administration; and
-    (B) shall be jointly managed by the Governors Highway Safety Association and the National Highway Traffic Safety Administration.
-(g) The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
-(h) 
-  (1) In this subsection:
-    (A) The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in section 30102(a) of title 49 ) by an individual whose blood alcohol content is at or above the legal limit.
-    (B) The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
-  (2) The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
-  (3) The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2).
-  (4) The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
-  (5) The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
-    (A) describes the progress made in carrying out the collaborative research effort; and
-    (B) includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
-(i) The Secretary shall establish procedures and guidelines to ensure that any person participating in a program or activity that collects data on drug or alcohol use by drivers of motor vehicles and is carried out under this section is informed that the program or activity is voluntary.
-(j) The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.
-(k) 
-  (1) The Secretary shall carry out an education campaign to reduce the incidence of vehicular heatstroke of children left in passenger motor vehicles (as defined in section 30102(a) of title 49 ).
-  (2) The Secretary may use, or authorize the use of, funds made available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach for the education campaign under paragraph (1).
-  (3) In carrying out the education campaign under paragraph (1), the Secretary shall coordinate with—
-    (A) interested State and local governments;
-    (B) private industry; and
-    (C) other parties, as determined by the Secretary.
-(l) 
-  (1) In this subsection:
-    (A) The term “motor vehicle” has the meaning given the term in section 30102(a) of title 49 .
-    (B) The term “open recall” means a motor vehicle recall—
-      (i) for which a notification by a manufacturer has been provided under section 30119 of title 49 ; and
-      (ii) that has not been remedied under section 30120 of that title.
-    (C) The term “program” means the program established under paragraph (2)(A).
-    (D) The term “registration” means the process for registering a motor vehicle in a State (including registration renewal).
-    (E) The term “State” has the meaning given the term in section 101(a).
-  (2) 
-    (A) Not later than 2 years after the date of enactment of this subsection, the Secretary shall establish a program under which the Secretary shall provide grants to States for use in developing and implementing State processes for informing each applicable owner and lessee of a motor vehicle of any open recall on the motor vehicle at the time of registration of the motor vehicle in the State, in accordance with this paragraph.
-    (B) To be eligible to receive a grant under the program, a State shall—
-      (i) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
-      (ii) agree—
-        (I) to notify each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that motor vehicle; and
-        (II) to provide to each owner or lessee of a motor vehicle presented for registration, at no cost—
-    (C) In selecting grant recipients under the program, the Secretary shall take into consideration the methodology of a State for—
-      (i) identifying open recalls on a motor vehicle;
-      (ii) informing each owner and lessee of a motor vehicle of an open recall; and
-      (iii) measuring performance in—
-        (I) informing owners and lessees of open recalls; and
-        (II) remedying open recalls.
-    (D) A grant provided under the program shall require a performance period of 2 years.
-    (E) Not later than 90 days after the date of completion of the performance period under subparagraph (D), each State that receives a grant under the program shall submit to the Secretary a report that contains such information as the Secretary considers to be necessary to evaluate the extent to which open recalls have been remedied in the State.
-    (F) Notwithstanding any other provision of law, the Secretary shall not be required to issue any regulations to carry out the program.
-  (3) Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to information collected under the program.
-  (4) 
-    (A) For each of fiscal years 2022 through 2026, the Secretary shall obligate from funds made available to carry out this section $1,500,000 to carry out the program.
-    (B) To ensure, to the maximum extent practicable, that all amounts described in subparagraph (A) are obligated each fiscal year, the Secretary, before the last day of any fiscal year, may reallocate any of those amounts remaining available to increase the amounts made available to carry out any other activities authorized under this section.
-(m) 
-  (1) In conducting research under this section, the Secretary shall evaluate the effectiveness of innovative behavioral traffic safety countermeasures, other than traffic enforcement, that are considered promising or likely to be effective for the purpose of enriching revisions to the document entitled “Countermeasures That Work: A Highway Safety Countermeasure Guide for State Highway Safety Offices, Ninth Edition” and numbered DOT HS 812 478 (or any successor document).
-  (2) The research described in paragraph (1) shall be in addition to any other research carried out under this section.
+- **(a)** In this section, the term “Federal laboratory” includes—
+  - **(1)** a government-owned, government-operated laboratory; and
+  - **(2)** a government-owned, contractor-operated laboratory.
+- **(b)**
+  - **(1)** The Secretary may conduct research and development activities, including demonstration projects, training, education, and the collection and analysis of highway and motor vehicle safety data and related information needed to carry out this section, with respect to—
+    - **(A)** all aspects of highway and traffic safety systems and conditions relating to—
+      - **(i)** vehicle, highway, driver, passenger, motorcyclist, bicyclist, and pedestrian characteristics;
+      - **(ii)** crash causation and investigations;
+      - **(iii)** communications; and
+      - **(iv)** emergency medical services, including the transportation of the injured;
+    - **(B)** human behavioral factors and their effect on highway and traffic safety, including—
+      - **(i)** driver education;
+      - **(ii)** impaired driving; and
+      - **(iii)** distracted driving;
+    - **(C)** an evaluation of the effectiveness of countermeasures to increase highway and traffic safety, including occupant protection and alcohol- and drug-impaired driving technologies and initiatives;
+    - **(D)** the development of technologies to detect drug impaired drivers;
+    - **(E)** research on, evaluations of, and identification of best practices related to driver education programs (including driver education curricula, instructor training and certification, program administration, and delivery mechanisms) and make recommendations for harmonizing driver education and multistage graduated licensing systems; and
+    - **(F)** the effect of State laws on any aspects, activities, or programs described in subparagraphs (A) through (E).
+  - **(2)** The Secretary may carry out this section—
+    - **(A)** independently;
+    - **(B)** in cooperation with other Federal departments, agencies, and instrumentalities and Federal laboratories;
+    - **(C)** by entering into contracts, cooperative agreements, and other transactions with the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, foreign government (in coordination with the Department of State) or person (as defined in chapter 1 of title 1); or
+    - **(D)** by making grants to the National Academy of Sciences, any Federal laboratory, State or local agency, authority, association, institution, or person (as defined in chapter 1 of title 1).
+- **(c)**
+  - **(1)** To encourage innovative solutions to highway safety problems, stimulate voluntary improvements in highway safety, and stimulate the marketing of new highway safety related technology by private industry, the Secretary is authorized to carry out, on a cost-shared basis, collaborative research and development with—
+    - **(A)** non-Federal entities, including State and local governments, foreign governments, colleges, universities, corporations, partnerships, sole proprietorships, organizations, and trade associations that are incorporated or established under the laws of any State or the United States; and
+    - **(B)** Federal laboratories.
+  - **(2)** In carrying out this subsection, the Secretary may enter into cooperative research and development agreements (as defined in section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710a )) in which the Secretary provides not more than 50 percent of the cost of any research or development project under this subsection.
+  - **(3)** The research, development, or use of any technology pursuant to an agreement under this subsection, including the terms under which technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
+- **(d)** In furtherance of the purposes set forth in section 402, the Secretary may vest title to equipment purchased for demonstration projects with funds authorized under this section to State or local agencies on such terms and conditions as the Secretary determines to be appropriate.
+- **(e)** Any report of the National Highway Traffic Safety Administration, or of any officer, employee, or contractor of the National Highway Traffic Safety Administration, relating to any highway traffic crash or the investigation of such crash conducted pursuant to this chapter or chapter 301 of title 49 may only be made available to the public in a manner that does not identify individuals.
+- **(f)**
+  - **(1)** Notwithstanding the apportionment formula set forth in section 402(c)(2), $3,500,000 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+  - **(2)** The program established under paragraph (1)—
+    - **(A)** shall be administered by the Administrator of the National Highway Traffic Safety Administration; and
+    - **(B)** shall be jointly managed by the Governors Highway Safety Association and the National Highway Traffic Safety Administration.
+- **(g)** The Administrator of the National Highway Traffic Safety Administration may participate and cooperate in international activities to enhance highway safety.
+- **(h)**
+  - **(1)** In this subsection:
+    - **(A)** The term “alcohol-impaired driving” means the operation of a motor vehicle (as defined in section 30102(a) of title 49 ) by an individual whose blood alcohol content is at or above the legal limit.
+    - **(B)** The term “legal limit” means a blood alcohol concentration of 0.08 percent or greater (as set forth in section 163(a)) or such other percentage limitation as may be established by applicable Federal, State, or local law.
+  - **(2)** The Administrator of the National Highway Traffic Safety Administration shall carry out a collaborative research effort under chapter 301 of title 49 on in-vehicle technology to prevent alcohol-impaired driving.
+  - **(3)** The Secretary shall obligate from funds made available to carry out this section for the period covering fiscal years 2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2).
+  - **(4)** The Administrator shall not develop requirements for any device or means of technology to be installed in an automobile intended for retail sale that records a driver’s blood alcohol concentration.
+  - **(5)** The Administrator shall submit an annual report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and Committee on Science, Space, and Technology of the House of Representatives that—
+    - **(A)** describes the progress made in carrying out the collaborative research effort; and
+    - **(B)** includes an accounting for the use of Federal funds obligated or expended in carrying out that effort.
+- **(i)** The Secretary shall establish procedures and guidelines to ensure that any person participating in a program or activity that collects data on drug or alcohol use by drivers of motor vehicles and is carried out under this section is informed that the program or activity is voluntary.
+- **(j)** The Federal share of the cost of any project or activity carried out under this section may be not more than 100 percent.
+- **(k)**
+  - **(1)** The Secretary shall carry out an education campaign to reduce the incidence of vehicular heatstroke of children left in passenger motor vehicles (as defined in section 30102(a) of title 49 ).
+  - **(2)** The Secretary may use, or authorize the use of, funds made available to carry out this section to pay for the development, production, and use of broadcast and print media advertising and Internet-based outreach for the education campaign under paragraph (1).
+  - **(3)** In carrying out the education campaign under paragraph (1), the Secretary shall coordinate with—
+    - **(A)** interested State and local governments;
+    - **(B)** private industry; and
+    - **(C)** other parties, as determined by the Secretary.
+- **(l)**
+  - **(1)** In this subsection:
+    - **(A)** The term “motor vehicle” has the meaning given the term in section 30102(a) of title 49 .
+    - **(B)** The term “open recall” means a motor vehicle recall—
+      - **(i)** for which a notification by a manufacturer has been provided under section 30119 of title 49 ; and
+      - **(ii)** that has not been remedied under section 30120 of that title.
+    - **(C)** The term “program” means the program established under paragraph (2)(A).
+    - **(D)** The term “registration” means the process for registering a motor vehicle in a State (including registration renewal).
+    - **(E)** The term “State” has the meaning given the term in section 101(a).
+  - **(2)**
+    - **(A)** Not later than 2 years after the date of enactment of this subsection, the Secretary shall establish a program under which the Secretary shall provide grants to States for use in developing and implementing State processes for informing each applicable owner and lessee of a motor vehicle of any open recall on the motor vehicle at the time of registration of the motor vehicle in the State, in accordance with this paragraph.
+    - **(B)** To be eligible to receive a grant under the program, a State shall—
+      - **(i)** submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
+      - **(ii)** agree—
+        - **(I)** to notify each owner or lessee of a motor vehicle presented for registration in the State of any open recall on that motor vehicle; and
+        - **(II)** to provide to each owner or lessee of a motor vehicle presented for registration, at no cost—
+    - **(C)** In selecting grant recipients under the program, the Secretary shall take into consideration the methodology of a State for—
+      - **(i)** identifying open recalls on a motor vehicle;
+      - **(ii)** informing each owner and lessee of a motor vehicle of an open recall; and
+      - **(iii)** measuring performance in—
+        - **(I)** informing owners and lessees of open recalls; and
+        - **(II)** remedying open recalls.
+    - **(D)** A grant provided under the program shall require a performance period of 2 years.
+    - **(E)** Not later than 90 days after the date of completion of the performance period under subparagraph (D), each State that receives a grant under the program shall submit to the Secretary a report that contains such information as the Secretary considers to be necessary to evaluate the extent to which open recalls have been remedied in the State.
+    - **(F)** Notwithstanding any other provision of law, the Secretary shall not be required to issue any regulations to carry out the program.
+  - **(3)** Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to information collected under the program.
+  - **(4)**
+    - **(A)** For each of fiscal years 2022 through 2026, the Secretary shall obligate from funds made available to carry out this section $1,500,000 to carry out the program.
+    - **(B)** To ensure, to the maximum extent practicable, that all amounts described in subparagraph (A) are obligated each fiscal year, the Secretary, before the last day of any fiscal year, may reallocate any of those amounts remaining available to increase the amounts made available to carry out any other activities authorized under this section.
+- **(m)**
+  - **(1)** In conducting research under this section, the Secretary shall evaluate the effectiveness of innovative behavioral traffic safety countermeasures, other than traffic enforcement, that are considered promising or likely to be effective for the purpose of enriching revisions to the document entitled “Countermeasures That Work: A Highway Safety Countermeasure Guide for State Highway Safety Offices, Ninth Edition” and numbered DOT HS 812 478 (or any successor document).
+  - **(2)** The research described in paragraph (1) shall be in addition to any other research carried out under this section.

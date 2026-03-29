@@ -5,7 +5,7 @@ usc_section: "99"
 chapter: 4
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 99"
-generated_at: "2026-03-29T00:30:24.143Z"
+generated_at: "2026-03-29T02:12:27.940Z"
 ---
 
 # § 99. Repealed. July 28, 1953, ch. 251 , title I, § 101, 67 Stat. 208

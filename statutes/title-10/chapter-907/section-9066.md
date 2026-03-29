@@ -5,13 +5,13 @@ usc_section: "9066"
 chapter: 907
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 9066"
-generated_at: "2026-03-29T00:20:53.253Z"
+generated_at: "2026-03-29T02:10:45.337Z"
 ---
 
 # § 9066. Regular Air Force: composition
 
-(a) The Regular Air Force is the component of the Air Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Air Force.
-(b) The Regular Air Force includes—
-  (1) the officers and enlisted members of the Regular Air Force;
-  (2) the professors, registrar, and cadets at the United States Air Force Academy; and
-  (3) the retired officers and enlisted members of the Regular Air Force.
+- **(a)** The Regular Air Force is the component of the Air Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Air Force.
+- **(b)** The Regular Air Force includes—
+  - **(1)** the officers and enlisted members of the Regular Air Force;
+  - **(2)** the professors, registrar, and cadets at the United States Air Force Academy; and
+  - **(3)** the retired officers and enlisted members of the Regular Air Force.

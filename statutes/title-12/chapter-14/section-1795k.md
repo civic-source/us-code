@@ -5,15 +5,15 @@ usc_section: "1795k"
 chapter: 14
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1795k"
-generated_at: "2026-03-29T00:29:16.665Z"
+generated_at: "2026-03-29T02:11:21.025Z"
 ---
 
 # § 1795k. State and local tax exemption
 
-(a) The Central Liquidity Facility, and its franchise, activities, capital reserves, surplus, and income, shall be exempt from all State and local taxation now or hereafter imposed, other than taxes on real property held by the Facility (to the same extent, according to its value, as other similar property held by other persons is taxed).
-(b) 
-  (1) Except as provided in paragraph (2), the notes, bonds, debentures, and other obligations issued on behalf of the Central Liquidity Facility and the income therefrom shall be exempt from all State and local taxation now or hereafter imposed.
-  (2) Any obligation described in paragraph (1) shall not be exempt from State or local gift, estate, inheritance, legacy, succession, or other wealth transfer taxes.
-(c) For purposes of this section—
-  (1) the term “State” includes the District of Columbia; and
-  (2) taxes imposed by counties or municipalities, or any territory, dependency, or possession of the United States shall be treated as local taxes.
+- **(a)** The Central Liquidity Facility, and its franchise, activities, capital reserves, surplus, and income, shall be exempt from all State and local taxation now or hereafter imposed, other than taxes on real property held by the Facility (to the same extent, according to its value, as other similar property held by other persons is taxed).
+- **(b)**
+  - **(1)** Except as provided in paragraph (2), the notes, bonds, debentures, and other obligations issued on behalf of the Central Liquidity Facility and the income therefrom shall be exempt from all State and local taxation now or hereafter imposed.
+  - **(2)** Any obligation described in paragraph (1) shall not be exempt from State or local gift, estate, inheritance, legacy, succession, or other wealth transfer taxes.
+- **(c)** For purposes of this section—
+  - **(1)** the term “State” includes the District of Columbia; and
+  - **(2)** taxes imposed by counties or municipalities, or any territory, dependency, or possession of the United States shall be treated as local taxes.

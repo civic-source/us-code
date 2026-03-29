@@ -1,0 +1,18 @@
+---
+title: "Section 9567 - Establishment"
+usc_title: 20
+usc_section: "9567"
+chapter: 76
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 9567"
+generated_at: "2026-03-29T02:12:17.527Z"
+---
+
+# § 9567. Establishment
+
+- **(a)** There is established in the Institute a National Center for Special Education Research (in this part referred to as the “Special Education Research Center”).
+- **(b)** The mission of the Special Education Research Center is—
+  - **(1)** to sponsor research to expand knowledge and understanding of the needs of infants, toddlers, and children with disabilities in order to improve the developmental, educational, and transitional results of such individuals;
+  - **(2)** to sponsor research to improve services provided under, and support the implementation of, the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.); and
+  - **(3)** to evaluate the implementation and effectiveness of the Individuals with Disabilities Education Act in coordination with the National Center for Education Evaluation and Regional Assistance.
+- **(c)** Parts A and F, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.

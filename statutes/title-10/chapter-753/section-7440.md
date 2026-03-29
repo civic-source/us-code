@@ -5,13 +5,13 @@ usc_section: "7440"
 chapter: 753
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7440"
-generated_at: "2026-03-29T00:20:53.196Z"
+generated_at: "2026-03-29T02:10:45.279Z"
 ---
 
 # § 7440. Quartermaster
 
 The Secretary of the Army shall detail a commissioned officer of the Army as quartermaster for the Corps of Cadets. The quartermaster shall—
 
-  (1) buy and issue all supplies for the cadets;
-  (2) buy and issue all provisions for the mess; and
-  (3) supervise the mess.
+  - **(1)** buy and issue all supplies for the cadets;
+  - **(2)** buy and issue all provisions for the mess; and
+  - **(3)** supervise the mess.

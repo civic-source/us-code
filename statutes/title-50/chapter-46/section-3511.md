@@ -5,10 +5,10 @@ usc_section: "3511"
 chapter: 46
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3511"
-generated_at: "2026-03-29T00:33:18.212Z"
+generated_at: "2026-03-29T02:16:14.803Z"
 ---
 
 # § 3511. Benefits available in event of the death of personnel
 
-(a) The Director may pay death benefits substantially similar to those authorized for members of the Foreign Service pursuant to the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.) or any other provision of law. The Director may adjust the eligibility for death benefits as necessary to meet the unique requirements of the mission of the Agency.
-(b) Regulations issued pursuant to this section shall be submitted to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before such regulations take effect.
+- **(a)** The Director may pay death benefits substantially similar to those authorized for members of the Foreign Service pursuant to the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.) or any other provision of law. The Director may adjust the eligibility for death benefits as necessary to meet the unique requirements of the mission of the Agency.
+- **(b)** Regulations issued pursuant to this section shall be submitted to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before such regulations take effect.

@@ -5,7 +5,7 @@ usc_section: "278e"
 chapter: 7
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 278e"
-generated_at: "2026-03-29T00:29:41.564Z"
+generated_at: "2026-03-29T02:11:34.007Z"
 ---
 
 # § 278e. Functions and activities

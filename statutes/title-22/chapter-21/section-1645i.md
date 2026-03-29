@@ -5,15 +5,15 @@ usc_section: "1645i"
 chapter: 21
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1645i"
-generated_at: "2026-03-29T00:30:33.738Z"
+generated_at: "2026-03-29T02:12:40.007Z"
 ---
 
 # § 1645i. Award payment procedures
 
-(a) The Commission shall certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to section 1645b of this title .
-(b) 
-  (1) Upon certification of each award made pursuant to section 1645b of this title , the Secretary of the Treasury shall, out of the sums covered into the Claims Fund, make payments on account of such awards as follows, and in the following order of priority:
-    (A) Payment in the amount of $2,500 or the principal amount of the award, whichever is less.
-    (B) Thereafter, payments from time to time, in ratable proportions, on account of the unpaid balance of the principal amounts of all awards according to the proportions which the unpaid balance of such awards bear to the total amount in the Claims Fund available for distribution at the time such payments are made.
-  (2) After payment has been made in full of the principal amounts of all awards pursuant to paragraph (1), pro rata payments may be made on account of any interest that may be allowed on such awards.
-(c) Payments or applications for payments under subsection (b) shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
+- **(a)** The Commission shall certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to section 1645b of this title .
+- **(b)**
+  - **(1)** Upon certification of each award made pursuant to section 1645b of this title , the Secretary of the Treasury shall, out of the sums covered into the Claims Fund, make payments on account of such awards as follows, and in the following order of priority:
+    - **(A)** Payment in the amount of $2,500 or the principal amount of the award, whichever is less.
+    - **(B)** Thereafter, payments from time to time, in ratable proportions, on account of the unpaid balance of the principal amounts of all awards according to the proportions which the unpaid balance of such awards bear to the total amount in the Claims Fund available for distribution at the time such payments are made.
+  - **(2)** After payment has been made in full of the principal amounts of all awards pursuant to paragraph (1), pro rata payments may be made on account of any interest that may be allowed on such awards.
+- **(c)** Payments or applications for payments under subsection (b) shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.

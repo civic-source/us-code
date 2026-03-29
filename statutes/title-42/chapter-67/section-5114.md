@@ -5,15 +5,15 @@ usc_section: "5114"
 chapter: 67
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5114"
-generated_at: "2026-03-29T00:32:53.897Z"
+generated_at: "2026-03-29T02:15:36.738Z"
 ---
 
 # § 5114. Study and report of unlicensed or unregulated adoption placements
 
-(a) The Secretary shall provide for a study (the results of which shall be reported to the appropriate committees of the Congress not later than eighteen months after June 25, 2003 ) designed to determine—
-  (1) the nature, scope, and effects of the interstate (and, to the extent feasible, intrastate) placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies. 1 1 So in original. The period probably should be a semicolon.
-  (2) how interstate placements are being financed across State lines;
-  (3) recommendations on best practice models for both interstate and intrastate adoptions; and
-  (4) how State policies in defining special needs children differentiate or group similar categories of children.
-(b) The Secretary shall conduct research (directly or by grant to, or contract with, public or private nonprofit research agencies or organizations) about adoption outcomes and the factors affecting those outcomes. The Secretary shall submit a report containing the results of such research to the appropriate committees of the Congress not later than the date that is 36 months after June 25, 2003 .
-(c) Not later than 1 year after June 25, 2003 , the Secretary shall submit to the appropriate committees of the Congress a report that contains recommendations for an action plan to facilitate the interjurisdictional adoption of foster children.
+- **(a)** The Secretary shall provide for a study (the results of which shall be reported to the appropriate committees of the Congress not later than eighteen months after June 25, 2003 ) designed to determine—
+  - **(1)** the nature, scope, and effects of the interstate (and, to the extent feasible, intrastate) placement of children in adoptive homes (not including the homes of stepparents or relatives of the child in question) by persons or agencies. 1 1 So in original. The period probably should be a semicolon.
+  - **(2)** how interstate placements are being financed across State lines;
+  - **(3)** recommendations on best practice models for both interstate and intrastate adoptions; and
+  - **(4)** how State policies in defining special needs children differentiate or group similar categories of children.
+- **(b)** The Secretary shall conduct research (directly or by grant to, or contract with, public or private nonprofit research agencies or organizations) about adoption outcomes and the factors affecting those outcomes. The Secretary shall submit a report containing the results of such research to the appropriate committees of the Congress not later than the date that is 36 months after June 25, 2003 .
+- **(c)** Not later than 1 year after June 25, 2003 , the Secretary shall submit to the appropriate committees of the Congress a report that contains recommendations for an action plan to facilitate the interjurisdictional adoption of foster children.

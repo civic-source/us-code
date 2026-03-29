@@ -5,7 +5,7 @@ usc_section: "455"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 455"
-generated_at: "2026-03-29T00:29:52.441Z"
+generated_at: "2026-03-29T02:11:53.469Z"
 ---
 
 # § 455. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

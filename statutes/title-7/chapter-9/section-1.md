@@ -5,11 +5,11 @@ usc_section: "1"
 chapter: 9
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T00:28:57.919Z"
+generated_at: "2026-03-29T02:10:16.711Z"
 ---
 
 # § 228b–1. Final date for making payment to cash seller or poultry grower
 
-(a) Each live poultry dealer obtaining live poultry by purchase in a cash sale shall, before the close of the next business day following the purchase of poultry, and each live poultry dealer obtaining live poultry under a poultry growing arrangement shall, before the close of the fifteenth day following the week in which the poultry is slaughtered, deliver, to the cash seller or poultry grower from whom such live poultry dealer obtains the poultry, the full amount due to such cash seller or poultry grower on account of such poultry.
-(b) Any delay or attempt to delay, by a live poultry dealer which is a party to any such transaction, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for poultry obtained by poultry growing arrangement or purchased in a cash sale, shall be considered an “unfair practice” in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term “unfair practice” as used in this chapter.
-(c) For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.
+- **(a)** Each live poultry dealer obtaining live poultry by purchase in a cash sale shall, before the close of the next business day following the purchase of poultry, and each live poultry dealer obtaining live poultry under a poultry growing arrangement shall, before the close of the fifteenth day following the week in which the poultry is slaughtered, deliver, to the cash seller or poultry grower from whom such live poultry dealer obtains the poultry, the full amount due to such cash seller or poultry grower on account of such poultry.
+- **(b)** Any delay or attempt to delay, by a live poultry dealer which is a party to any such transaction, the collection of funds as herein provided, or otherwise for the purpose of or resulting in extending the normal period of payment for poultry obtained by poultry growing arrangement or purchased in a cash sale, shall be considered an “unfair practice” in violation of this chapter. Nothing in this section shall be deemed to limit the meaning of the term “unfair practice” as used in this chapter.
+- **(c)** For the purpose of this section, a cash sale means a sale in which the seller does not expressly extend credit to the buyer.

@@ -5,7 +5,7 @@ usc_section: "1383"
 chapter: 67
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1383"
-generated_at: "2026-03-29T00:30:15.668Z"
+generated_at: "2026-03-29T02:12:02.412Z"
 ---
 
 # [§ 1383. Repealed. Pub. L. 94–412, title V, § 501(e) , Sept. 14, 1976 , 90 Stat. 1258 ]

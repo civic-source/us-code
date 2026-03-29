@@ -5,7 +5,7 @@ usc_section: "121a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 121a"
-generated_at: "2026-03-29T00:06:10.881Z"
+generated_at: "2026-03-29T02:09:53.642Z"
 ---
 
 # § 121a. Repealed. Pub. L. 105–275, title I, § 6(h)(1) , Oct. 21, 1998 , 112 Stat. 2434

@@ -5,13 +5,13 @@ usc_section: "3501"
 chapter: 35
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 3501"
-generated_at: "2026-03-29T00:32:20.553Z"
+generated_at: "2026-03-29T02:14:58.793Z"
 ---
 
 # § 3501. Definitions
 
 In this chapter, the following definitions apply:
 
-  (1) The term “public agency” means a State or a public agency or political subdivision of a State.
-  (2) The term “public works” includes any public works other than housing.
-  (3) The term “State” means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States.
+  - **(1)** The term “public agency” means a State or a public agency or political subdivision of a State.
+  - **(2)** The term “public works” includes any public works other than housing.
+  - **(3)** The term “State” means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States.

@@ -5,14 +5,14 @@ usc_section: "2504"
 chapter: 27
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2504"
-generated_at: "2026-03-29T00:31:27.695Z"
+generated_at: "2026-03-29T02:14:09.491Z"
 ---
 
 # § 2504. Competitive grants
 
-(a) Each community-based organization that desires to receive a grant to provide technical assistance under section 2503(a) of this title to employers and labor unions shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
-(b) In awarding grants under section 2503(a) of this title , the Secretary shall give priority to applications from community-based organizations that—
-  (1) demonstrate experience preparing women to gain employment in apprenticeable occupations or other nontraditional occupations;
-  (2) demonstrate experience working with the business community to prepare them to place women in apprenticeable occupations or other nontraditional occupations;
-  (3) have tradeswomen or women in nontraditional occupations as active members of the organization, as either employed staff or board members; and
-  (4) have experience delivering technical assistance.
+- **(a)** Each community-based organization that desires to receive a grant to provide technical assistance under section 2503(a) of this title to employers and labor unions shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+- **(b)** In awarding grants under section 2503(a) of this title , the Secretary shall give priority to applications from community-based organizations that—
+  - **(1)** demonstrate experience preparing women to gain employment in apprenticeable occupations or other nontraditional occupations;
+  - **(2)** demonstrate experience working with the business community to prepare them to place women in apprenticeable occupations or other nontraditional occupations;
+  - **(3)** have tradeswomen or women in nontraditional occupations as active members of the organization, as either employed staff or board members; and
+  - **(4)** have experience delivering technical assistance.

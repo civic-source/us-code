@@ -5,12 +5,12 @@ usc_section: "875"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 875"
-generated_at: "2026-03-29T00:31:20.833Z"
+generated_at: "2026-03-29T02:14:01.066Z"
 ---
 
 # § 875. Partnerships; beneficiaries of estates and trusts
 
 For purposes of this subtitle—
 
-  (1) a nonresident alien individual or foreign corporation shall be considered as being engaged in a trade or business within the United States if the partnership of which such individual or corporation is a member is so engaged, and
-  (2) a nonresident alien individual or foreign corporation which is a beneficiary of an estate or trust which is engaged in any trade or business within the United States shall be treated as being engaged in such trade or business within the United States.
+  - **(1)** a nonresident alien individual or foreign corporation shall be considered as being engaged in a trade or business within the United States if the partnership of which such individual or corporation is a member is so engaged, and
+  - **(2)** a nonresident alien individual or foreign corporation which is a beneficiary of an estate or trust which is engaged in any trade or business within the United States shall be treated as being engaged in such trade or business within the United States.

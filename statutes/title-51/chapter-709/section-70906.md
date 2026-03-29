@@ -5,16 +5,16 @@ usc_section: "70906"
 chapter: 709
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 70906"
-generated_at: "2026-03-29T00:33:19.419Z"
+generated_at: "2026-03-29T02:16:19.266Z"
 ---
 
 # § 70906. International Space Station National Laboratory Advisory Committee
 
-(a) Not later than one year after October 15, 2008 , the Administrator shall establish under chapter 10 of title 5 a committee to be known as the “International Space Station National Laboratory Advisory Committee” (hereafter in this section referred to as the “Committee”).
-(b) 
-  (1) The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
-  (2) The Administrator shall appoint a chair from among the members of the Committee, who shall serve for a 2-year term.
-(c) 
-  (1) The Committee shall monitor, assess, and make recommendations regarding effective utilization of the International Space Station as a national laboratory and platform for research.
-  (2) The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
-(d) The Committee shall exist for the life of the International Space Station.
+- **(a)** Not later than one year after October 15, 2008 , the Administrator shall establish under chapter 10 of title 5 a committee to be known as the “International Space Station National Laboratory Advisory Committee” (hereafter in this section referred to as the “Committee”).
+- **(b)**
+  - **(1)** The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
+  - **(2)** The Administrator shall appoint a chair from among the members of the Committee, who shall serve for a 2-year term.
+- **(c)**
+  - **(1)** The Committee shall monitor, assess, and make recommendations regarding effective utilization of the International Space Station as a national laboratory and platform for research.
+  - **(2)** The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
+- **(d)** The Committee shall exist for the life of the International Space Station.

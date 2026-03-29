@@ -5,20 +5,20 @@ usc_section: "9709"
 chapter: 77
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9709"
-generated_at: "2026-03-29T00:07:03.206Z"
+generated_at: "2026-03-29T02:12:17.534Z"
 ---
 
 # § 9709. Coordinated education efforts
 
-(a) The Secretary of the Treasury (in this section referred to as the “Secretary”), in coordination with the Secretary of Education, the Secretary of Agriculture (with respect to land-grant colleges and universities), and any other appropriate agency that is a member of the Financial Literacy and Education Commission established under the Financial Literacy and Education Improvement Act ( 20 U.S.C. 9701 et seq.), shall seek to enhance financial literacy among students at covered educational institutions through—
-  (1) the development of initiatives, programs, and curricula that improve student awareness of the short- and long-term costs associated with education loans and other debt assumed while in college, their repayment obligations, and their rights as borrowers; and
-  (2) assisting such students in navigating the financial aid process.
-(b) For purposes of this section, the Secretary, working in conjunction with the Secretary of Education, the Secretary of Agriculture, and the Financial Literacy and Education Commission, shall—
-  (1) identify programs that promote or enhance financial literacy for college students, with specific emphasis on programs that impart the knowledge and ability for students to best navigate the financial aid process, including those that involve partnerships between nonprofit organizations, colleges and universities, State and local governments, and student organizations;
-  (2) evaluate the effectiveness of such programs in terms of measured results, including positive behavioral change among college students;
-  (3) promote the programs identified as being the most effective; and
-  (4) encourage covered educational institutions to implement financial education programs for their students, including those that have the highest evaluations.
-(c) 
-  (1) Not later than 2 years after August 14, 2008 , the Financial Literacy and Education Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Health Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives on the state of financial education among students at covered educational institutions.
-  (2) The report required by this subsection shall include a description of progress made in enhancing financial education with respect to student understanding of financial aid, including the programs and evaluations required by this section.
-  (3) The Secretary shall, upon request, provide testimony before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives concerning the report required by this subsection.
+- **(a)** The Secretary of the Treasury (in this section referred to as the “Secretary”), in coordination with the Secretary of Education, the Secretary of Agriculture (with respect to land-grant colleges and universities), and any other appropriate agency that is a member of the Financial Literacy and Education Commission established under the Financial Literacy and Education Improvement Act ( 20 U.S.C. 9701 et seq.), shall seek to enhance financial literacy among students at covered educational institutions through—
+  - **(1)** the development of initiatives, programs, and curricula that improve student awareness of the short- and long-term costs associated with education loans and other debt assumed while in college, their repayment obligations, and their rights as borrowers; and
+  - **(2)** assisting such students in navigating the financial aid process.
+- **(b)** For purposes of this section, the Secretary, working in conjunction with the Secretary of Education, the Secretary of Agriculture, and the Financial Literacy and Education Commission, shall—
+  - **(1)** identify programs that promote or enhance financial literacy for college students, with specific emphasis on programs that impart the knowledge and ability for students to best navigate the financial aid process, including those that involve partnerships between nonprofit organizations, colleges and universities, State and local governments, and student organizations;
+  - **(2)** evaluate the effectiveness of such programs in terms of measured results, including positive behavioral change among college students;
+  - **(3)** promote the programs identified as being the most effective; and
+  - **(4)** encourage covered educational institutions to implement financial education programs for their students, including those that have the highest evaluations.
+- **(c)**
+  - **(1)** Not later than 2 years after August 14, 2008 , the Financial Literacy and Education Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Health Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives on the state of financial education among students at covered educational institutions.
+  - **(2)** The report required by this subsection shall include a description of progress made in enhancing financial education with respect to student understanding of financial aid, including the programs and evaluations required by this section.
+  - **(3)** The Secretary shall, upon request, provide testimony before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives concerning the report required by this subsection.

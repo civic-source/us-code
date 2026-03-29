@@ -1,0 +1,23 @@
+---
+title: "Section 9515 - Priorities"
+usc_title: 20
+usc_section: "9515"
+chapter: 76
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 9515"
+generated_at: "2026-03-29T02:12:17.522Z"
+---
+
+# § 9515. Priorities
+
+- **(a)** The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 ( 20 U.S.C. 1001 et seq.), such as—
+  - **(1)** closing the achievement gap between high-performing and low-performing children, especially achievement gaps between minority and nonminority children and between disadvantaged children and such children’s more advantaged peers; and
+  - **(2)** ensuring—
+    - **(A)** that all children have the ability to obtain a high-quality education (from early childhood through postsecondary education) and reach, at a minimum, proficiency on challenging State academic achievement standards and State academic assessments, particularly in mathematics, science, and reading or language arts;
+    - **(B)** access to, and opportunities for, postsecondary education; and
+    - **(C)** the efficacy, impact on academic achievement, and cost-effectiveness of technology use within the Nation’s schools.
+- **(b)** The Board shall approve or disapprove the priorities for the Institute proposed by the Director, including any necessary revision of those priorities. The Board shall transmit any priorities so approved to the appropriate congressional committees.
+- **(c)** The Board shall ensure that priorities of the Institute and the National Education Centers are consistent with the mission of the Institute.
+- **(d)**
+  - **(1)** Before submitting to the Board proposed priorities for the Institute, the Director shall make such priorities available to the public for comment for not less than 60 days (including by means of the Internet and through publishing such priorities in the Federal Register). The Director shall provide to the Board a copy of each such comment submitted.
+  - **(2)** Upon approval of such priorities, the Director shall make the Institute’s plan for addressing such priorities available for public comment in the same manner as under paragraph (1).

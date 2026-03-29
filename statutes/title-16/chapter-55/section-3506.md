@@ -5,10 +5,10 @@ usc_section: "3506"
 chapter: 55
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3506"
-generated_at: "2026-03-29T00:29:52.802Z"
+generated_at: "2026-03-29T02:11:53.891Z"
 ---
 
 # § 3506. Certification of compliance
 
-(a) Not later than 1 year after November 25, 2024 , the head of each Federal agency affected by this chapter shall revise or issue regulations and guidance as necessary to ensure compliance with the provisions of this chapter.
-(b) The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.
+- **(a)** Not later than 1 year after November 25, 2024 , the head of each Federal agency affected by this chapter shall revise or issue regulations and guidance as necessary to ensure compliance with the provisions of this chapter.
+- **(b)** The head of each Federal agency affected by this chapter shall report and certify that each such agency is in compliance with the provisions of this chapter. Such reports and certifications shall be submitted annually to the Committees and the Secretary.

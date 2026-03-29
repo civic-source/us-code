@@ -5,10 +5,10 @@ usc_section: "5197e"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5197e"
-generated_at: "2026-03-29T00:32:53.914Z"
+generated_at: "2026-03-29T02:15:36.757Z"
 ---
 
 # § 5197e. Authorization of appropriations and transfers of funds
 
-(a) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
-(b) Funds made available for the purposes of this subchapter may be allocated or transferred for any of the purposes of this subchapter, with the approval of the Director of the Office of Management and Budget, to any agency or government corporation designated to assist in carrying out this subchapter. Each such allocation or transfer shall be reported in full detail to the Congress within 30 days after such allocation or transfer.
+- **(a)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
+- **(b)** Funds made available for the purposes of this subchapter may be allocated or transferred for any of the purposes of this subchapter, with the approval of the Director of the Office of Management and Budget, to any agency or government corporation designated to assist in carrying out this subchapter. Each such allocation or transfer shall be reported in full detail to the Congress within 30 days after such allocation or transfer.

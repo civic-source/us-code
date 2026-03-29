@@ -5,10 +5,10 @@ usc_section: "136t"
 chapter: 6
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 136t"
-generated_at: "2026-03-29T00:28:57.883Z"
+generated_at: "2026-03-29T02:10:16.672Z"
 ---
 
 # § 136t. Delegation and cooperation
 
-(a) All authority vested in the Administrator by virtue of the provisions of this subchapter may with like force and effect be executed by such employees of the Environmental Protection Agency as the Administrator may designate for the purpose.
-(b) The Administrator shall cooperate with Department of Agriculture, any other Federal agency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.
+- **(a)** All authority vested in the Administrator by virtue of the provisions of this subchapter may with like force and effect be executed by such employees of the Environmental Protection Agency as the Administrator may designate for the purpose.
+- **(b)** The Administrator shall cooperate with Department of Agriculture, any other Federal agency, and any appropriate agency of any State or any political subdivision thereof, in carrying out the provisions of this subchapter, and in securing uniformity of regulations.

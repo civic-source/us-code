@@ -5,13 +5,13 @@ usc_section: "687k"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 687k"
-generated_at: "2026-03-29T00:29:41.642Z"
+generated_at: "2026-03-29T02:11:34.104Z"
 ---
 
 # § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank
 
 Nothing in any provision of law shall be construed to authorize the Federal Financing Bank to acquire after September 30, 1985 —
 
-  (1) any obligation the payment of principal or interest on which has at any time been guaranteed in whole or in part under this subchapter,
-  (2) any obligation which is an interest in any obligation described in paragraph (1), or
-  (3) any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).
+  - **(1)** any obligation the payment of principal or interest on which has at any time been guaranteed in whole or in part under this subchapter,
+  - **(2)** any obligation which is an interest in any obligation described in paragraph (1), or
+  - **(3)** any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).

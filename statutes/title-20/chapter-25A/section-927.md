@@ -5,21 +5,21 @@ usc_section: "927"
 chapter: 25
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 927"
-generated_at: "2026-03-29T00:07:03.118Z"
+generated_at: "2026-03-29T02:12:17.161Z"
 ---
 
 # § 927. Allotment formula
 
-(a) The Director shall by regulation establish a formula for determining the minimum allotment of funds necessary for the operation of each school in the defense dependents’ education system. In establishing such formula, the Director shall take into consideration—
-  (1) the number of students served by a school and the size of the school;
-  (2) special cost factors for a school, including—
-    (A) geographic isolation of the school,
-    (B) a need for special staffing, transportation, or educational programs at the school, and
-    (C) unusual food and housing costs,
-  (3) the cost of providing academic services of a high quality as required by section 921(b)(1) of this title ; and
-  (4) such other factors as the Director considers appropriate.
-(b) Any regulation under subsection (a) shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with section 1232 of this title .
-(c) 
-  (1) Notwithstanding the provisions of section 921(b)(3) of this title , the provisions of part B of the Individuals with Disabilities Education Act [ 20 U.S.C. 1411 et seq.], other than the funding and reporting provisions, shall apply to all schools operated by the Department of Defense under this chapter, including the requirement that children with disabilities, aged 3 to 5, inclusive, receive a free appropriate public education.
-  (2) The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act [ 20 U.S.C. 1436 ] and to comply with the procedural safeguards set forth in part C of such Act [ 20 U.S.C. 1431 et seq.] shall apply with respect to all eligible dependents overseas.
-  (3) In carrying out paragraph (2), the Secretary shall have in effect a comprehensive, coordinated, multidisciplinary program of early intervention services for infants and toddlers with disabilities among Department of Defense entities involved in the provision of such services to such individuals.
+- **(a)** The Director shall by regulation establish a formula for determining the minimum allotment of funds necessary for the operation of each school in the defense dependents’ education system. In establishing such formula, the Director shall take into consideration—
+  - **(1)** the number of students served by a school and the size of the school;
+  - **(2)** special cost factors for a school, including—
+    - **(A)** geographic isolation of the school,
+    - **(B)** a need for special staffing, transportation, or educational programs at the school, and
+    - **(C)** unusual food and housing costs,
+  - **(3)** the cost of providing academic services of a high quality as required by section 921(b)(1) of this title ; and
+  - **(4)** such other factors as the Director considers appropriate.
+- **(b)** Any regulation under subsection (a) shall be issued, and shall become effective, in accordance with the procedures applicable to regulations required to be issued by the Secretary of Education in accordance with section 1232 of this title .
+- **(c)**
+  - **(1)** Notwithstanding the provisions of section 921(b)(3) of this title , the provisions of part B of the Individuals with Disabilities Education Act [ 20 U.S.C. 1411 et seq.], other than the funding and reporting provisions, shall apply to all schools operated by the Department of Defense under this chapter, including the requirement that children with disabilities, aged 3 to 5, inclusive, receive a free appropriate public education.
+  - **(2)** The responsibility to provide comparable early intervention services to infants and toddlers with disabilities and their families in accordance with individualized family service plans described in section 636 of the Individuals with Disabilities Education Act [ 20 U.S.C. 1436 ] and to comply with the procedural safeguards set forth in part C of such Act [ 20 U.S.C. 1431 et seq.] shall apply with respect to all eligible dependents overseas.
+  - **(3)** In carrying out paragraph (2), the Secretary shall have in effect a comprehensive, coordinated, multidisciplinary program of early intervention services for infants and toddlers with disabilities among Department of Defense entities involved in the provision of such services to such individuals.

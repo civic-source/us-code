@@ -5,7 +5,7 @@ usc_section: "382"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 382"
-generated_at: "2026-03-29T00:32:57.321Z"
+generated_at: "2026-03-29T02:15:47.523Z"
 ---
 
 # § 382. Repealed. Pub. L. 87–304, § 9(a)(3) , Sept. 26, 1961 , 75 Stat. 664

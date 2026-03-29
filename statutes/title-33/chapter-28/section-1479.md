@@ -5,11 +5,11 @@ usc_section: "1479"
 chapter: 28
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1479"
-generated_at: "2026-03-29T00:31:57.380Z"
+generated_at: "2026-03-29T02:14:18.589Z"
 ---
 
 # § 1479. Federal liability for unreasonable damages
 
-(a) The United States shall be obliged to pay compensation to the extent of the damage caused by measures which exceed those reasonably necessary to achieve the end mentioned in section 1472 of this title .
-(b) Actions against the United States seeking compensation for any excessive measures may be brought in the United States Court of Federal Claims, in any district court of the United States, and in those courts enumerated in section 460 of title 28 . For purposes of this chapter, American Samoa shall be included within the judicial district of the District Court of the United States for the District of Hawaii, and the Trust Territory of the Pacific Islands shall be included within the judicial districts of both the District Court of the United States for the District of Hawaii and the District Court of Guam.
-(c) With respect to intervention for a substance identified pursuant to section 1473(a) of this title , the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.
+- **(a)** The United States shall be obliged to pay compensation to the extent of the damage caused by measures which exceed those reasonably necessary to achieve the end mentioned in section 1472 of this title .
+- **(b)** Actions against the United States seeking compensation for any excessive measures may be brought in the United States Court of Federal Claims, in any district court of the United States, and in those courts enumerated in section 460 of title 28 . For purposes of this chapter, American Samoa shall be included within the judicial district of the District Court of the United States for the District of Hawaii, and the Trust Territory of the Pacific Islands shall be included within the judicial districts of both the District Court of the United States for the District of Hawaii and the District Court of Guam.
+- **(c)** With respect to intervention for a substance identified pursuant to section 1473(a) of this title , the United States has the burden of establishing that, under the circumstances present at the time of the intervention, the substance could reasonably pose a grave and imminent danger analogous to that posed by a substance enumerated in the protocol.

@@ -5,10 +5,10 @@ usc_section: "3107"
 chapter: 33
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3107"
-generated_at: "2026-03-29T00:30:38.752Z"
+generated_at: "2026-03-29T02:13:20.963Z"
 ---
 
 # § 3107. Direct payment of forest products receipts
 
-(a) Notwithstanding any other law, the Secretary shall, within 1 year from November 28, 1990 , promulgate regulations providing for the payment of the receipts from the sale of Indian forest products as provided in this section.
-(b) Upon the request of an Indian tribe, the Secretary shall provide that the purchaser of the forest products of such tribe, which are harvested under a timber sale contract, permit or other harvest sale document which has been approved by the Secretary, shall make prompt direct payments of the gross proceeds of sales of such forest products, less any amounts segregated as forest management deductions pursuant to section 3105 of this title , into a bank depository account designated by such Indian tribe.
+- **(a)** Notwithstanding any other law, the Secretary shall, within 1 year from November 28, 1990 , promulgate regulations providing for the payment of the receipts from the sale of Indian forest products as provided in this section.
+- **(b)** Upon the request of an Indian tribe, the Secretary shall provide that the purchaser of the forest products of such tribe, which are harvested under a timber sale contract, permit or other harvest sale document which has been approved by the Secretary, shall make prompt direct payments of the gross proceeds of sales of such forest products, less any amounts segregated as forest management deductions pursuant to section 3105 of this title , into a bank depository account designated by such Indian tribe.

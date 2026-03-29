@@ -5,7 +5,7 @@ usc_section: "460h"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 460h"
-generated_at: "2026-03-29T00:29:52.454Z"
+generated_at: "2026-03-29T02:11:53.483Z"
 ---
 
 # § 460h. Costs of surveys or relocation of boundaries

@@ -5,12 +5,12 @@ usc_section: "2702"
 chapter: 47
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2702"
-generated_at: "2026-03-29T00:29:52.781Z"
+generated_at: "2026-03-29T02:11:53.866Z"
 ---
 
 # § 2702. Loans for feasibility studies
 
-(a) The Secretary, after consultation with the Commission, is authorized to make a loan to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person to assist such person in defraying up to 90 percent of the costs of—
-  (1) studies to determine the feasibility of undertaking a small hydroelectric power proj­ect at an existing dam or dams and
-  (2) preparing any application for a necessary license or other Federal, State, and local approval respecting such a project at an existing dam or dams and of participating in any administrative proceeding regarding any such application.
-(b) The Secretary may cancel the unpaid balance and any accrued interest on any loan granted pursuant to this section if he determines on the basis of the study that the small hydroelectric power project would not be technically or economically feasible.
+- **(a)** The Secretary, after consultation with the Commission, is authorized to make a loan to any municipality, electric cooperative, industrial development agency, nonprofit organization, or other person to assist such person in defraying up to 90 percent of the costs of—
+  - **(1)** studies to determine the feasibility of undertaking a small hydroelectric power proj­ect at an existing dam or dams and
+  - **(2)** preparing any application for a necessary license or other Federal, State, and local approval respecting such a project at an existing dam or dams and of participating in any administrative proceeding regarding any such application.
+- **(b)** The Secretary may cancel the unpaid balance and any accrued interest on any loan granted pursuant to this section if he determines on the basis of the study that the small hydroelectric power project would not be technically or economically feasible.

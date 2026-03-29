@@ -5,111 +5,111 @@ usc_section: "167"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 167"
-generated_at: "2026-03-29T00:31:20.651Z"
+generated_at: "2026-03-29T02:14:00.832Z"
 ---
 
 # § 167. Depreciation
 
-(a) There shall be allowed as a depreciation deduction a reasonable allowance for the exhaustion, wear and tear (including a reasonable allowance for obsolescence)—
-  (1) of property used in the trade or business, or
-  (2) of property held for the production of income.
-(b) For determination of depreciation deduction in case of property to which section 168 applies, see section 168.
-(c) 
-  (1) The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect of any property shall be the adjusted basis provided in section 1011, for the purpose of determining the gain on the sale or other disposition of such property.
-  (2) If any property is acquired subject to a lease—
-    (A) no portion of the adjusted basis shall be allocated to the leasehold interest, and
-    (B) the entire adjusted basis shall be taken into account in determining the depreciation deduction (if any) with respect to the property subject to the lease.
-(d) In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
-(e) 
-  (1) No depreciation deduction shall be allowed under this section (and no depreciation or amortization deduction shall be allowed under any other provision of this subtitle) to the taxpayer for any term interest in property for any period during which the remainder interest in such property is held (directly or indirectly) by a related person.
-  (2) 
-    (A) This subsection shall not apply to any term interest to which section 273 applies.
-    (B) This subsection shall not apply to the holder of the dividend rights which were separated from any stripped preferred stock to which section 305(e)(1) applies.
-  (3) If, but for this subsection, a depreciation or amortization deduction would be allowable to the taxpayer with respect to any term interest in property—
-    (A) the taxpayer’s basis in such property shall be reduced by any depreciation or amortization deductions disallowed under this subsection, and
-    (B) the basis of the remainder interest in such property shall be increased by the amount of such disallowed deductions (properly adjusted for any depreciation deductions allowable under subsection (d) to the taxpayer).
-  (4) 
-    (A) No increase in the basis of the remainder interest shall be made under paragraph (3)(B) for any disallowed deductions attributable to periods during which the term interest was held—
-      (i) by an organization exempt from tax under this subtitle, or
-      (ii) by a nonresident alien individual or foreign corporation but only if income from the term interest is not effectively connected with the conduct of a trade or business in the United States.
-    (B) If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any term interest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
-  (5) For purposes of this subsection—
-    (A) The term “term interest in property” has the meaning given such term by section 1001(e)(2).
-    (B) The term “related person” means any person bearing a relationship to the taxpayer described in subsection (b) or (e) of section 267.
-  (6) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
-(f) 
-  (1) 
-    (A) If a depreciation deduction is allowable under subsection (a) with respect to any computer software, such deduction shall be computed by using the straight line method and a useful life of 36 months.
-    (B) For purposes of this section, the term “computer software” has the meaning given to such term by section 197(e)(3)(B); except that such term shall not include any such software which is an amortizable section 197 intangible.
-    (C) In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
-  (2) If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary. If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
-  (3) If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
-(g) 
-  (1) If the depreciation deduction allowable under this section to any taxpayer with respect to any property is determined under the income forecast method or any similar method—
-    (A) the income from the property to be taken into account in determining the depreciation deduction under such method shall be equal to the amount of income earned in connection with the property before the close of the 10th taxable year following the taxable year in which the property was placed in service,
-    (B) the adjusted basis of the property shall only include amounts with respect to which the requirements of section 461(h) are satisfied,
-    (C) the depreciation deduction under such method for the 10th taxable year beginning after the taxable year in which the property was placed in service shall be equal to the adjusted basis of such property as of the beginning of such 10th taxable year, and
-    (D) such taxpayer shall pay (or be entitled to receive) interest computed under the look-back method of paragraph (2) for any recomputation year.
-  (2) The interest computed under the look-back method of this paragraph for any recomputation year shall be determined by—
-    (A) first determining the depreciation deductions under this section with respect to such property which would have been allowable for prior taxable years if the determination of the amounts so allowable had been made on the basis of the sum of the following (instead of the estimated income from such property)—
-      (i) the actual income earned in connection with such property for periods before the close of the recomputation year, and
-      (ii) an estimate of the future income to be earned in connection with such property for periods after the recomputation year and before the close of the 10th taxable year following the taxable year in which the property was placed in service,
-    (B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would result solely from the application of subparagraph (A), and
-    (C) then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
-  (3) Paragraph (1)(D) shall not apply with respect to any property which had a cost basis of $100,000 or less.
-  (4) For purposes of this subsection, except as provided in regulations, the term “recomputation year” means, with respect to any property, the 3d and the 10th taxable years beginning after the taxable year in which the property was placed in service, unless the actual income earned in connection with the property for the period before the close of such 3d or 10th taxable year is within 10 percent of the income earned in connection with the property for such period which was taken into account under paragraph (1)(A).
-  (5) 
-    (A) For purposes of this subsection, the following costs shall be treated as separate properties:
-      (i) Any costs incurred with respect to any property after the 10th taxable year beginning after the taxable year in which the property was placed in service.
-      (ii) Any costs incurred after the property is placed in service and before the close of such 10th taxable year if such costs are significant and give rise to a significant increase in the income from the property which was not included in the estimated income from the property.
-    (B) In the case of property which is 1 or more episodes in a television series, income from syndicating such series shall not be required to be taken into account under this subsection before the earlier of—
-      (i) the 4th taxable year beginning after the date the first episode in such series is placed in service, or
-      (ii) the earliest taxable year in which the taxpayer has an arrangement relating to the future syndication of such series.
-    (C) For purposes of this subsection, in the case of television and motion picture films, the income from the property shall include income from the exploitation of characters, designs, scripts, scores, and other incidental income associated with such films, but only to the extent that such income is earned in connection with the ultimate use of such items by, or the ultimate sale of merchandise to, persons who are not related persons (within the meaning of section 267(b)) to the taxpayer.
-    (D) For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1) for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
-    (E) For purposes of this subsection, the income with respect to any property shall be the taxpayer’s gross income from such property.
-    (F) For purposes of paragraph (2), determinations of the amount of income earned in connection with any property shall be made in the same manner as for purposes of applying the income forecast method; except that any income from the disposition of such property shall be taken into account.
-    (G) Rules similar to the rules of section 460(b)(4) shall apply for purposes of this subsection.
-  (6) The depreciation deduction allowable under this section may be determined under the income forecast method or any similar method only with respect to—
-    (A) property described in paragraph (3) or (4) of section 168(f),
-    (B) copyrights,
-    (C) books,
-    (D) patents, and
-    (E) other property specified in regulations.
-  (7) 
-    (A) For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
-    (B) For purposes of this paragraph, the term “participations and residuals” means, with respect to any property, costs the amount of which by contract varies with the amount of income earned in connection with such property.
-    (C) If the adjusted basis of any property is determined under this paragraph, paragraph (4) shall be applied by substituting “for each taxable year in such period” for “for such period”.
-    (D) 
-      (i) Notwithstanding subparagraph (A), the taxpayer may exclude participations and residuals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
-      (ii) Deductions computed in accordance with this paragraph shall be allowable notwithstanding paragraph (1)(B), section 263, 263A, 404, 419, or 461(h).
-    (E) The Secretary shall prescribe appropriate adjustments to the basis of property and to the look-back method for the additional amounts allowable as a deduction solely by reason of this paragraph.
-  (8) 
-    (A) If an election is in effect under this paragraph for any taxable year, then, notwithstanding paragraph (1), any expense which—
-      (i) is paid or incurred by the taxpayer in creating or acquiring any applicable musical property placed in service during the taxable year, and
-      (ii) is otherwise properly chargeable to capital account,
-    (B) Except as provided in this paragraph, no depreciation or amortization deduction shall be allowed with respect to any expense to which subparagraph (A) applies.
-    (C) For purposes of this paragraph—
-      (i) The term “applicable musical property” means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
-      (ii) Such term shall not include any property—
-        (I) with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
-        (II) to which a simplified procedure established under section 263A(i)(2) 1 1 See References in Text note below. applies, or
-        (III) which is an amortizable section 197 intangible (as defined in section 197(c)).
-    (D) An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
-    (E) An election may not be made under this paragraph for any taxable year beginning after December 31, 2010 .
-(h) 
-  (1) Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
-  (2) For purposes of paragraph (1), any payment paid or incurred during the taxable year shall be treated as paid or incurred on the mid-point of such taxable year.
-  (3) Except as provided in this subsection, no depreciation or amortization deduction shall be allowed with respect to such payments.
-  (4) If any property with respect to which geological and geophysical expenses are paid or incurred is retired or abandoned during the 24-month period described in paragraph (1), no deduction shall be allowed on account of such retirement or abandonment and the amortization deduction under this subsection shall continue with respect to such payment.
-  (5) 
-    (A) In the case of a major integrated oil company, paragraphs (1) and (4) shall be applied by substituting “7-year” for “24 month”.
-    (B) For purposes of this paragraph, the term “major integrated oil company” means, with respect to any taxable year, a producer of crude oil—
-      (i) which has an average daily worldwide production of crude oil of at least 500,000 barrels for the taxable year,
-      (ii) which had gross receipts in excess of $1,000,000,000 for its last taxable year ending during calendar year 2005, and
-      (iii) to which subsection (c) of section 613A does not apply by reason of paragraph (4) of section 613A(d), determined—
-        (I) by substituting “15 percent” for “5 percent” each place it occurs in paragraph (3) of section 613A(d), and
-        (II) without regard to whether subsection (c) of section 613A does not apply by reason of paragraph (2) of section 613A(d).
-(i) 
-  (1) For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.
-  (2) For amortization of goodwill and certain other intangibles, see section 197.
+- **(a)** There shall be allowed as a depreciation deduction a reasonable allowance for the exhaustion, wear and tear (including a reasonable allowance for obsolescence)—
+  - **(1)** of property used in the trade or business, or
+  - **(2)** of property held for the production of income.
+- **(b)** For determination of depreciation deduction in case of property to which section 168 applies, see section 168.
+- **(c)**
+  - **(1)** The basis on which exhaustion, wear and tear, and obsolescence are to be allowed in respect of any property shall be the adjusted basis provided in section 1011, for the purpose of determining the gain on the sale or other disposition of such property.
+  - **(2)** If any property is acquired subject to a lease—
+    - **(A)** no portion of the adjusted basis shall be allocated to the leasehold interest, and
+    - **(B)** the entire adjusted basis shall be taken into account in determining the depreciation deduction (if any) with respect to the property subject to the lease.
+- **(d)** In the case of property held by one person for life with remainder to another person, the deduction shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant. In the case of property held in trust, the allowable deduction shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each. In the case of an estate, the allowable deduction shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
+- **(e)**
+  - **(1)** No depreciation deduction shall be allowed under this section (and no depreciation or amortization deduction shall be allowed under any other provision of this subtitle) to the taxpayer for any term interest in property for any period during which the remainder interest in such property is held (directly or indirectly) by a related person.
+  - **(2)**
+    - **(A)** This subsection shall not apply to any term interest to which section 273 applies.
+    - **(B)** This subsection shall not apply to the holder of the dividend rights which were separated from any stripped preferred stock to which section 305(e)(1) applies.
+  - **(3)** If, but for this subsection, a depreciation or amortization deduction would be allowable to the taxpayer with respect to any term interest in property—
+    - **(A)** the taxpayer’s basis in such property shall be reduced by any depreciation or amortization deductions disallowed under this subsection, and
+    - **(B)** the basis of the remainder interest in such property shall be increased by the amount of such disallowed deductions (properly adjusted for any depreciation deductions allowable under subsection (d) to the taxpayer).
+  - **(4)**
+    - **(A)** No increase in the basis of the remainder interest shall be made under paragraph (3)(B) for any disallowed deductions attributable to periods during which the term interest was held—
+      - **(i)** by an organization exempt from tax under this subtitle, or
+      - **(ii)** by a nonresident alien individual or foreign corporation but only if income from the term interest is not effectively connected with the conduct of a trade or business in the United States.
+    - **(B)** If, but for this subsection, a depreciation or amortization deduction would be allowable to any person with respect to any term interest in property, the principles of subsection (d) shall apply to such person with respect to such term interest.
+  - **(5)** For purposes of this subsection—
+    - **(A)** The term “term interest in property” has the meaning given such term by section 1001(e)(2).
+    - **(B)** The term “related person” means any person bearing a relationship to the taxpayer described in subsection (b) or (e) of section 267.
+  - **(6)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations preventing avoidance of this subsection through cross-ownership arrangements or otherwise.
+- **(f)**
+  - **(1)**
+    - **(A)** If a depreciation deduction is allowable under subsection (a) with respect to any computer software, such deduction shall be computed by using the straight line method and a useful life of 36 months.
+    - **(B)** For purposes of this section, the term “computer software” has the meaning given to such term by section 197(e)(3)(B); except that such term shall not include any such software which is an amortizable section 197 intangible.
+    - **(C)** In the case of computer software which would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to computer software, the useful life under subparagraph (A) shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+  - **(2)** If a depreciation deduction is allowable under subsection (a) with respect to any property described in subparagraph (B), (C), or (D) of section 197(e)(4), such deduction shall be computed in accordance with regulations prescribed by the Secretary. If such property would be tax-exempt use property as defined in subsection (h) of section 168 if such section applied to such property, the useful life under such regulations shall not be less than 125 percent of the lease term (within the meaning of section 168(i)(3)).
+  - **(3)** If a depreciation deduction is allowable under subsection (a) with respect to any right described in section 197(e)(6), such deduction shall be computed by using the straight line method and a useful life of 108 months.
+- **(g)**
+  - **(1)** If the depreciation deduction allowable under this section to any taxpayer with respect to any property is determined under the income forecast method or any similar method—
+    - **(A)** the income from the property to be taken into account in determining the depreciation deduction under such method shall be equal to the amount of income earned in connection with the property before the close of the 10th taxable year following the taxable year in which the property was placed in service,
+    - **(B)** the adjusted basis of the property shall only include amounts with respect to which the requirements of section 461(h) are satisfied,
+    - **(C)** the depreciation deduction under such method for the 10th taxable year beginning after the taxable year in which the property was placed in service shall be equal to the adjusted basis of such property as of the beginning of such 10th taxable year, and
+    - **(D)** such taxpayer shall pay (or be entitled to receive) interest computed under the look-back method of paragraph (2) for any recomputation year.
+  - **(2)** The interest computed under the look-back method of this paragraph for any recomputation year shall be determined by—
+    - **(A)** first determining the depreciation deductions under this section with respect to such property which would have been allowable for prior taxable years if the determination of the amounts so allowable had been made on the basis of the sum of the following (instead of the estimated income from such property)—
+      - **(i)** the actual income earned in connection with such property for periods before the close of the recomputation year, and
+      - **(ii)** an estimate of the future income to be earned in connection with such property for periods after the recomputation year and before the close of the 10th taxable year following the taxable year in which the property was placed in service,
+    - **(B)** second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each such prior taxable year which would result solely from the application of subparagraph (A), and
+    - **(C)** then using the adjusted overpayment rate (as defined in section 460(b)(7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
+  - **(3)** Paragraph (1)(D) shall not apply with respect to any property which had a cost basis of $100,000 or less.
+  - **(4)** For purposes of this subsection, except as provided in regulations, the term “recomputation year” means, with respect to any property, the 3d and the 10th taxable years beginning after the taxable year in which the property was placed in service, unless the actual income earned in connection with the property for the period before the close of such 3d or 10th taxable year is within 10 percent of the income earned in connection with the property for such period which was taken into account under paragraph (1)(A).
+  - **(5)**
+    - **(A)** For purposes of this subsection, the following costs shall be treated as separate properties:
+      - **(i)** Any costs incurred with respect to any property after the 10th taxable year beginning after the taxable year in which the property was placed in service.
+      - **(ii)** Any costs incurred after the property is placed in service and before the close of such 10th taxable year if such costs are significant and give rise to a significant increase in the income from the property which was not included in the estimated income from the property.
+    - **(B)** In the case of property which is 1 or more episodes in a television series, income from syndicating such series shall not be required to be taken into account under this subsection before the earlier of—
+      - **(i)** the 4th taxable year beginning after the date the first episode in such series is placed in service, or
+      - **(ii)** the earliest taxable year in which the taxpayer has an arrangement relating to the future syndication of such series.
+    - **(C)** For purposes of this subsection, in the case of television and motion picture films, the income from the property shall include income from the exploitation of characters, designs, scripts, scores, and other incidental income associated with such films, but only to the extent that such income is earned in connection with the ultimate use of such items by, or the ultimate sale of merchandise to, persons who are not related persons (within the meaning of section 267(b)) to the taxpayer.
+    - **(D)** For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under paragraph (1) for any recomputation year shall be treated as an increase in the tax imposed by this chapter for such year.
+    - **(E)** For purposes of this subsection, the income with respect to any property shall be the taxpayer’s gross income from such property.
+    - **(F)** For purposes of paragraph (2), determinations of the amount of income earned in connection with any property shall be made in the same manner as for purposes of applying the income forecast method; except that any income from the disposition of such property shall be taken into account.
+    - **(G)** Rules similar to the rules of section 460(b)(4) shall apply for purposes of this subsection.
+  - **(6)** The depreciation deduction allowable under this section may be determined under the income forecast method or any similar method only with respect to—
+    - **(A)** property described in paragraph (3) or (4) of section 168(f),
+    - **(B)** copyrights,
+    - **(C)** books,
+    - **(D)** patents, and
+    - **(E)** other property specified in regulations.
+  - **(7)**
+    - **(A)** For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
+    - **(B)** For purposes of this paragraph, the term “participations and residuals” means, with respect to any property, costs the amount of which by contract varies with the amount of income earned in connection with such property.
+    - **(C)** If the adjusted basis of any property is determined under this paragraph, paragraph (4) shall be applied by substituting “for each taxable year in such period” for “for such period”.
+    - **(D)**
+      - **(i)** Notwithstanding subparagraph (A), the taxpayer may exclude participations and residuals from the adjusted basis of such property and deduct such participations and residuals in the taxable year that such participations and residuals are paid.
+      - **(ii)** Deductions computed in accordance with this paragraph shall be allowable notwithstanding paragraph (1)(B), section 263, 263A, 404, 419, or 461(h).
+    - **(E)** The Secretary shall prescribe appropriate adjustments to the basis of property and to the look-back method for the additional amounts allowable as a deduction solely by reason of this paragraph.
+  - **(8)**
+    - **(A)** If an election is in effect under this paragraph for any taxable year, then, notwithstanding paragraph (1), any expense which—
+      - **(i)** is paid or incurred by the taxpayer in creating or acquiring any applicable musical property placed in service during the taxable year, and
+      - **(ii)** is otherwise properly chargeable to capital account,
+    - **(B)** Except as provided in this paragraph, no depreciation or amortization deduction shall be allowed with respect to any expense to which subparagraph (A) applies.
+    - **(C)** For purposes of this paragraph—
+      - **(i)** The term “applicable musical property” means any musical composition (including any accompanying words), or any copyright with respect to a musical composition, which is property to which this subsection applies without regard to this paragraph.
+      - **(ii)** Such term shall not include any property—
+        - **(I)** with respect to which expenses are treated as qualified creative expenses to which section 263A(h) applies,
+        - **(II)** to which a simplified procedure established under section 263A(i)(2) 1 1 See References in Text note below. applies, or
+        - **(III)** which is an amortizable section 197 intangible (as defined in section 197(c)).
+    - **(D)** An election under this paragraph shall be made at such time and in such form as the Secretary may prescribe and shall apply to all applicable musical property placed in service during the taxable year for which the election applies.
+    - **(E)** An election may not be made under this paragraph for any taxable year beginning after December 31, 2010 .
+- **(h)**
+  - **(1)** Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
+  - **(2)** For purposes of paragraph (1), any payment paid or incurred during the taxable year shall be treated as paid or incurred on the mid-point of such taxable year.
+  - **(3)** Except as provided in this subsection, no depreciation or amortization deduction shall be allowed with respect to such payments.
+  - **(4)** If any property with respect to which geological and geophysical expenses are paid or incurred is retired or abandoned during the 24-month period described in paragraph (1), no deduction shall be allowed on account of such retirement or abandonment and the amortization deduction under this subsection shall continue with respect to such payment.
+  - **(5)**
+    - **(A)** In the case of a major integrated oil company, paragraphs (1) and (4) shall be applied by substituting “7-year” for “24 month”.
+    - **(B)** For purposes of this paragraph, the term “major integrated oil company” means, with respect to any taxable year, a producer of crude oil—
+      - **(i)** which has an average daily worldwide production of crude oil of at least 500,000 barrels for the taxable year,
+      - **(ii)** which had gross receipts in excess of $1,000,000,000 for its last taxable year ending during calendar year 2005, and
+      - **(iii)** to which subsection (c) of section 613A does not apply by reason of paragraph (4) of section 613A(d), determined—
+        - **(I)** by substituting “15 percent” for “5 percent” each place it occurs in paragraph (3) of section 613A(d), and
+        - **(II)** without regard to whether subsection (c) of section 613A does not apply by reason of paragraph (2) of section 613A(d).
+- **(i)**
+  - **(1)** For additional rule applicable to depreciation of improvements in the case of mines, oil and gas wells, other natural deposits, and timber, see section 611.
+  - **(2)** For amortization of goodwill and certain other intangibles, see section 197.

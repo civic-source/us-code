@@ -5,34 +5,34 @@ usc_section: "286"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 286"
-generated_at: "2026-03-29T00:32:52.959Z"
+generated_at: "2026-03-29T02:15:35.710Z"
 ---
 
 # § 286. National Library of Medicine
 
-(a) In order to assist the advancement of medical and related sciences and to aid the dissemination and exchange of scientific and other information important to the progress of medicine and to the public health, there is established the National Library of Medicine (hereafter in this part referred to as the “Library”).
-(b) The Secretary, through the Library and subject to subsection (d), shall—
-  (1) acquire and preserve books, periodicals, prints, films, recordings, and other library materials pertinent to medicine;
-  (2) organize the materials specified in paragraph (1) by appropriate cataloging, indexing, and bibliographical listings;
-  (3) publish and disseminate the catalogs, indexes, and bibliographies referred to in paragraph (2);
-  (4) make available, through loans, photographic or other copying procedures, or otherwise, such materials in the Library as the Secretary determines appropriate;
-  (5) provide reference and research assistance;
-  (6) publicize the availability from the Library of the products and services described in any of paragraphs (1) through (5);
-  (7) promote the use of computers and telecommunications by health professionals (including health professionals in rural areas) for the purpose of improving access to biomedical information for health care delivery and medical research; and
-  (8) engage in such other activities as the Secretary determines appropriate and as the Library’s resources permit.
-(c) The Secretary may exchange, destroy, or otherwise dispose of any books, periodicals, films, and other library materials not needed for the permanent use of the Library.
-(d) 
-  (1) The Secretary may, after obtaining the advice and recommendations of the Board of Regents, prescribe rules under which the Library will—
-    (A) provide copies of its publications or materials,
-    (B) will make available its facilities for research, or
-    (C) will make available its bibliographic, reference, or other services,
-  (2) Rules prescribed under paragraph (1) may provide for making available such publications, materials, facilities, or services—
-    (A) without charge as a public service,
-    (B) upon a loan, exchange, or charge basis, or
-    (C) in appropriate circumstances, under contract arrangements made with a public or other nonprofit entity.
-(e) Whenever the Secretary, with the advice of the Board of Regents, determines that—
-  (1) in any geographic area of the United States there is no regional medical library adequate to serve such area;
-  (2) under criteria prescribed for the administration of section 286b–6 of this title , there is a need for a regional medical library to serve such area; and
-  (3) because there is no medical library located in such area which, with financial assistance under section 286b–6 of this title , can feasibly be developed into a regional medical library adequate to serve such area,
-(f) Section 238 of this title shall be applicable to the acceptance and administration of gifts made for the benefit of the Library or for carrying out any of its functions, and the Board of Regents shall make recommendations to the Secretary relating to establishment within the Library of suitable memorials to the donors.
-(g) For purposes of this part, the terms “medicine” and “medical”, except when used in section 286a of this title , include preventive and therapeutic medicine, dentistry, pharmacy, hospitalization, nursing, public health, and the fundamental sciences related thereto, and other related fields of study, research, or ac­tivity.
+- **(a)** In order to assist the advancement of medical and related sciences and to aid the dissemination and exchange of scientific and other information important to the progress of medicine and to the public health, there is established the National Library of Medicine (hereafter in this part referred to as the “Library”).
+- **(b)** The Secretary, through the Library and subject to subsection (d), shall—
+  - **(1)** acquire and preserve books, periodicals, prints, films, recordings, and other library materials pertinent to medicine;
+  - **(2)** organize the materials specified in paragraph (1) by appropriate cataloging, indexing, and bibliographical listings;
+  - **(3)** publish and disseminate the catalogs, indexes, and bibliographies referred to in paragraph (2);
+  - **(4)** make available, through loans, photographic or other copying procedures, or otherwise, such materials in the Library as the Secretary determines appropriate;
+  - **(5)** provide reference and research assistance;
+  - **(6)** publicize the availability from the Library of the products and services described in any of paragraphs (1) through (5);
+  - **(7)** promote the use of computers and telecommunications by health professionals (including health professionals in rural areas) for the purpose of improving access to biomedical information for health care delivery and medical research; and
+  - **(8)** engage in such other activities as the Secretary determines appropriate and as the Library’s resources permit.
+- **(c)** The Secretary may exchange, destroy, or otherwise dispose of any books, periodicals, films, and other library materials not needed for the permanent use of the Library.
+- **(d)**
+  - **(1)** The Secretary may, after obtaining the advice and recommendations of the Board of Regents, prescribe rules under which the Library will—
+    - **(A)** provide copies of its publications or materials,
+    - **(B)** will make available its facilities for research, or
+    - **(C)** will make available its bibliographic, reference, or other services,
+  - **(2)** Rules prescribed under paragraph (1) may provide for making available such publications, materials, facilities, or services—
+    - **(A)** without charge as a public service,
+    - **(B)** upon a loan, exchange, or charge basis, or
+    - **(C)** in appropriate circumstances, under contract arrangements made with a public or other nonprofit entity.
+- **(e)** Whenever the Secretary, with the advice of the Board of Regents, determines that—
+  - **(1)** in any geographic area of the United States there is no regional medical library adequate to serve such area;
+  - **(2)** under criteria prescribed for the administration of section 286b–6 of this title , there is a need for a regional medical library to serve such area; and
+  - **(3)** because there is no medical library located in such area which, with financial assistance under section 286b–6 of this title , can feasibly be developed into a regional medical library adequate to serve such area,
+- **(f)** Section 238 of this title shall be applicable to the acceptance and administration of gifts made for the benefit of the Library or for carrying out any of its functions, and the Board of Regents shall make recommendations to the Secretary relating to establishment within the Library of suitable memorials to the donors.
+- **(g)** For purposes of this part, the terms “medicine” and “medical”, except when used in section 286a of this title , include preventive and therapeutic medicine, dentistry, pharmacy, hospitalization, nursing, public health, and the fundamental sciences related thereto, and other related fields of study, research, or ac­tivity.

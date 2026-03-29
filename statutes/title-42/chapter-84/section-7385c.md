@@ -5,22 +5,22 @@ usc_section: "7385c"
 chapter: 84
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 7385c"
-generated_at: "2026-03-29T00:32:54.029Z"
+generated_at: "2026-03-29T02:15:36.900Z"
 ---
 
 # § 7385c. Exclusivity of remedy against the United States and against contractors and subcontractors
 
-(a) The liability of the United States or an instrumentality of the United States under this subchapter with respect to a cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death related thereto of a covered employee is exclusive and instead of all other liability—
-  (1) of—
-    (A) the United States;
-    (B) any instrumentality of the United States;
-    (C) a contractor that contracted with the Department of Energy to provide management and operation, management and integration, or environmental remediation of a Department of Energy facility (in its capacity as a contractor);
-    (D) a subcontractor that provided services, including construction, at a Department of Energy facility (in its capacity as a subcontractor); and
-    (E) an employee, agent, or assign of an entity specified in subparagraphs (A) through (D);
-  (2) to—
-    (A) the covered employee;
-    (B) the covered employee’s legal representative, spouse, dependents, survivors, and next of kin; and
-    (C) any other person, including any third party as to whom the covered employee, or the covered employee’s legal representative, spouse, dependents, survivors, or next of kin, has a cause of action relating to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death, otherwise entitled to recover damages from the United States, the instrumentality, the contractor, the subcontractor, or the employee, agent, or assign of one of them,
-(b) This section applies to all cases filed on or after October 30, 2000 .
-(c) This section does not apply to an administrative or judicial proceeding under a Federal or State workers’ compensation law.
-(d) This section applies with respect to part E to the covered medical condition or covered illness or death of a covered DOE contractor employee on the same basis as it applies with respect to part B to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death of a covered employee.
+- **(a)** The liability of the United States or an instrumentality of the United States under this subchapter with respect to a cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death related thereto of a covered employee is exclusive and instead of all other liability—
+  - **(1)** of—
+    - **(A)** the United States;
+    - **(B)** any instrumentality of the United States;
+    - **(C)** a contractor that contracted with the Department of Energy to provide management and operation, management and integration, or environmental remediation of a Department of Energy facility (in its capacity as a contractor);
+    - **(D)** a subcontractor that provided services, including construction, at a Department of Energy facility (in its capacity as a subcontractor); and
+    - **(E)** an employee, agent, or assign of an entity specified in subparagraphs (A) through (D);
+  - **(2)** to—
+    - **(A)** the covered employee;
+    - **(B)** the covered employee’s legal representative, spouse, dependents, survivors, and next of kin; and
+    - **(C)** any other person, including any third party as to whom the covered employee, or the covered employee’s legal representative, spouse, dependents, survivors, or next of kin, has a cause of action relating to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death, otherwise entitled to recover damages from the United States, the instrumentality, the contractor, the subcontractor, or the employee, agent, or assign of one of them,
+- **(b)** This section applies to all cases filed on or after October 30, 2000 .
+- **(c)** This section does not apply to an administrative or judicial proceeding under a Federal or State workers’ compensation law.
+- **(d)** This section applies with respect to part E to the covered medical condition or covered illness or death of a covered DOE contractor employee on the same basis as it applies with respect to part B to the cancer (including a specified cancer), chronic silicosis, covered beryllium illness, or death of a covered employee.

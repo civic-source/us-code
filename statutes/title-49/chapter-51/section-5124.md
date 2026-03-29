@@ -5,18 +5,18 @@ usc_section: "5124"
 chapter: 51
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 5124"
-generated_at: "2026-03-29T00:33:13.728Z"
+generated_at: "2026-03-29T02:16:08.867Z"
 ---
 
 # § 5124. Criminal penalty
 
-(a) A person knowingly violating section 5104(b) or willfully or recklessly violating this chapter or a regulation, order, special permit, or approval issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both; except that the maximum amount of imprisonment shall be 10 years in any case in which the violation involves the release of a hazardous material that results in death or bodily injury to any person.
-(b) For purposes of this section—
-  (1) a person acts knowingly when—
-    (A) the person has actual knowledge of the facts giving rise to the violation; or
-    (B) a reasonable person acting in the circumstances and exercising reasonable care would have that knowledge; and
-  (2) knowledge of the existence of a statutory provision, or a regulation or a requirement required by the Secretary, is not an element of an offense under this section.
-(c) For purposes of this section, a person acts willfully when—
-  (1) the person has knowledge of the facts giving rise to the violation; and
-  (2) the person has knowledge that the conduct was unlawful.
-(d) For purposes of this section, a person acts recklessly when the person displays a deliberate indifference or conscious disregard to the consequences of that person’s conduct.
+- **(a)** A person knowingly violating section 5104(b) or willfully or recklessly violating this chapter or a regulation, order, special permit, or approval issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both; except that the maximum amount of imprisonment shall be 10 years in any case in which the violation involves the release of a hazardous material that results in death or bodily injury to any person.
+- **(b)** For purposes of this section—
+  - **(1)** a person acts knowingly when—
+    - **(A)** the person has actual knowledge of the facts giving rise to the violation; or
+    - **(B)** a reasonable person acting in the circumstances and exercising reasonable care would have that knowledge; and
+  - **(2)** knowledge of the existence of a statutory provision, or a regulation or a requirement required by the Secretary, is not an element of an offense under this section.
+- **(c)** For purposes of this section, a person acts willfully when—
+  - **(1)** the person has knowledge of the facts giving rise to the violation; and
+  - **(2)** the person has knowledge that the conduct was unlawful.
+- **(d)** For purposes of this section, a person acts recklessly when the person displays a deliberate indifference or conscious disregard to the consequences of that person’s conduct.

@@ -5,12 +5,12 @@ usc_section: "7434"
 chapter: 753
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7434"
-generated_at: "2026-03-29T00:20:53.196Z"
+generated_at: "2026-03-29T02:10:45.278Z"
 ---
 
 # § 7434. Command and supervision
 
-(a) The supervision and charge of the Academy is in the Department of the Army, under officers of the Army detailed to that duty by the Secretary of the Army.
-(b) The immediate government of the Academy is under the Superintendent, who is also the commanding officer of the Academy and of the military post at West Point.
-(c) The Commandant of Cadets is the immediate commander of the Corps of Cadets, and is in charge of the instruction of the Corps in tactics.
-(d) The permanent professors and the director of admissions exercise command only in the academic department of the Academy.
+- **(a)** The supervision and charge of the Academy is in the Department of the Army, under officers of the Army detailed to that duty by the Secretary of the Army.
+- **(b)** The immediate government of the Academy is under the Superintendent, who is also the commanding officer of the Academy and of the military post at West Point.
+- **(c)** The Commandant of Cadets is the immediate commander of the Corps of Cadets, and is in charge of the instruction of the Corps in tactics.
+- **(d)** The permanent professors and the director of admissions exercise command only in the academic department of the Academy.

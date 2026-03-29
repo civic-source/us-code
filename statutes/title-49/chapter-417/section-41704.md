@@ -5,7 +5,7 @@ usc_section: "41704"
 chapter: 417
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41704"
-generated_at: "2026-03-29T00:33:13.874Z"
+generated_at: "2026-03-29T02:16:09.007Z"
 ---
 
 # § 41704. Transporting property not to be transported in aircraft cabins

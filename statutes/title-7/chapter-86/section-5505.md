@@ -5,7 +5,7 @@ usc_section: "5505"
 chapter: 86
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5505"
-generated_at: "2026-03-29T00:28:58.205Z"
+generated_at: "2026-03-29T02:10:17.041Z"
 ---
 
 # §§ 5501 to 5505. Repealed. Pub. L. 105–185, title III, § 302(c) , June 23, 1998 , 112 Stat. 563

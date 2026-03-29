@@ -5,13 +5,13 @@ usc_section: "6337"
 chapter: 64
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6337"
-generated_at: "2026-03-29T00:31:21.049Z"
+generated_at: "2026-03-29T02:14:01.333Z"
 ---
 
 # § 6337. Redemption of property
 
-(a) Any person whose property has been levied upon shall have the right to pay the amount due, together with the expenses of the proceeding, if any, to the Secretary at any time prior to the sale thereof, and upon such payment the Secretary shall restore such property to him, and all further proceedings in connection with the levy on such property shall cease from the time of such payment.
-(b) 
-  (1) The owners of any real property sold as provided in section 6335, their heirs, executors, or administrators, or any person having any interest therein, or a lien thereon, or any person in their behalf, shall be permitted to redeem the property sold, or any particular tract of such property, at any time within 180 days after the sale thereof.
-  (2) Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
-(c) When any lands sold are redeemed as provided in this section, the Secretary shall cause entry of the fact to be made upon the record mentioned in section 6340, and such entry shall be evidence of such redemption.
+- **(a)** Any person whose property has been levied upon shall have the right to pay the amount due, together with the expenses of the proceeding, if any, to the Secretary at any time prior to the sale thereof, and upon such payment the Secretary shall restore such property to him, and all further proceedings in connection with the levy on such property shall cease from the time of such payment.
+- **(b)**
+  - **(1)** The owners of any real property sold as provided in section 6335, their heirs, executors, or administrators, or any person having any interest therein, or a lien thereon, or any person in their behalf, shall be permitted to redeem the property sold, or any particular tract of such property, at any time within 180 days after the sale thereof.
+  - **(2)** Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+- **(c)** When any lands sold are redeemed as provided in this section, the Secretary shall cause entry of the fact to be made upon the record mentioned in section 6340, and such entry shall be evidence of such redemption.

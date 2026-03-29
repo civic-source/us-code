@@ -5,29 +5,29 @@ usc_section: "2211"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2211"
-generated_at: "2026-03-29T00:30:20.211Z"
+generated_at: "2026-03-29T02:12:08.678Z"
 ---
 
 # § 2211. Congressional advisers for trade policy and negotiations
 
-(a) 
-  (1) At the beginning of each regular session of Congress, the Speaker of the House of Representatives, upon the recommendation of the chairman of the Committee on Ways and Means, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, and the President pro tempore of the Senate, upon the recommendation of the chairman of the Committee on Finance, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, who shall be designated congressional advisers on trade policy and negotiations. They shall provide advice on the development of trade policy and priorities for the implementation thereof. They shall also be accredited by the United States Trade Representative on behalf of the President as official advisers to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
-  (2) 
-    (A) In addition to the advisers designated under paragraph (1) from the Committee on Ways and Means and the Committee on Finance—
-      (i) the Speaker of the House may select additional members of the House, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the House or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations; and
-      (ii) the President pro tempore of the Senate may select additional members of the Senate, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the Senate or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations.
-    (B) Before designating any member under subparagraph (A), the Speaker or the President pro tempore shall consult with—
-      (i) the chairman and ranking member of the Committee on Ways and Means or the Committee on Finance, as appropriate; and
-      (ii) the chairman and ranking minority member of the committee from which the member will be selected.
-    (C) Not more than 3 members (not more than 2 of whom are members of the same political party) may be selected under this paragraph as advisers from any committee of Congress.
-(b) 
-  (1) The United States Trade Representative shall keep each official adviser designated under subsection (a)(1) currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
-  (2) The United States Trade Representative shall keep each official adviser designated under subsection (a)(2) currently informed regarding the trade policy matters and negotiations with respect to which the adviser is designated.
-  (3) 
-    (A) The chairmen of the Committee on Ways and Means and the Committee on Finance may designate members (in addition to the official advisers under subsection (a)(1)) and staff members of their respective committees who shall have access to the information provided to official advisers under paragraph (1).
-    (B) The Chairman 1 1 So in original. Probably should not be capitalized. of any committee of the House or Senate or any joint committee of Congress from which official advisers are selected under subsection (a)(2) may designate other members of such committee, and staff members of such committee, who shall have access to the information provided to official advisers under paragraph (2).
-(c) The United States Trade Representative shall consult on a continuing basis with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the other appropriate committees of the House and Senate on the development, implementation, and administration of overall trade policy of the United States. Such consultations shall include, but are not limited to, the following elements of such policy:
-  (1) The principal multilateral and bilateral negotiating objectives and the progress being made toward their achievement.
-  (2) The implementation, administration, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
-  (3) The actions taken, and proposed to be taken, under the trade laws of the United States and the effectiveness, or anticipated effectiveness, of such actions in achieving trade policy objectives.
-  (4) The important developments and issues in other areas of trade for which there must be developed proper policy response.
+- **(a)**
+  - **(1)** At the beginning of each regular session of Congress, the Speaker of the House of Representatives, upon the recommendation of the chairman of the Committee on Ways and Means, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, and the President pro tempore of the Senate, upon the recommendation of the chairman of the Committee on Finance, shall select 5 members (not more than 3 of whom are members of the same political party) of such committee, who shall be designated congressional advisers on trade policy and negotiations. They shall provide advice on the development of trade policy and priorities for the implementation thereof. They shall also be accredited by the United States Trade Representative on behalf of the President as official advisers to the United States delegations to international conferences, meetings, and negotiating sessions relating to trade agreements.
+  - **(2)**
+    - **(A)** In addition to the advisers designated under paragraph (1) from the Committee on Ways and Means and the Committee on Finance—
+      - **(i)** the Speaker of the House may select additional members of the House, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the House or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations; and
+      - **(ii)** the President pro tempore of the Senate may select additional members of the Senate, for designation as congressional advisers regarding specific trade policy matters or negotiations, from any other committee of the Senate or joint committee of Congress that has jurisdiction over legislation likely to be affected by such matters or negotiations.
+    - **(B)** Before designating any member under subparagraph (A), the Speaker or the President pro tempore shall consult with—
+      - **(i)** the chairman and ranking member of the Committee on Ways and Means or the Committee on Finance, as appropriate; and
+      - **(ii)** the chairman and ranking minority member of the committee from which the member will be selected.
+    - **(C)** Not more than 3 members (not more than 2 of whom are members of the same political party) may be selected under this paragraph as advisers from any committee of Congress.
+- **(b)**
+  - **(1)** The United States Trade Representative shall keep each official adviser designated under subsection (a)(1) currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
+  - **(2)** The United States Trade Representative shall keep each official adviser designated under subsection (a)(2) currently informed regarding the trade policy matters and negotiations with respect to which the adviser is designated.
+  - **(3)**
+    - **(A)** The chairmen of the Committee on Ways and Means and the Committee on Finance may designate members (in addition to the official advisers under subsection (a)(1)) and staff members of their respective committees who shall have access to the information provided to official advisers under paragraph (1).
+    - **(B)** The Chairman 1 1 So in original. Probably should not be capitalized. of any committee of the House or Senate or any joint committee of Congress from which official advisers are selected under subsection (a)(2) may designate other members of such committee, and staff members of such committee, who shall have access to the information provided to official advisers under paragraph (2).
+- **(c)** The United States Trade Representative shall consult on a continuing basis with the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the other appropriate committees of the House and Senate on the development, implementation, and administration of overall trade policy of the United States. Such consultations shall include, but are not limited to, the following elements of such policy:
+  - **(1)** The principal multilateral and bilateral negotiating objectives and the progress being made toward their achievement.
+  - **(2)** The implementation, administration, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
+  - **(3)** The actions taken, and proposed to be taken, under the trade laws of the United States and the effectiveness, or anticipated effectiveness, of such actions in achieving trade policy objectives.
+  - **(4)** The important developments and issues in other areas of trade for which there must be developed proper policy response.

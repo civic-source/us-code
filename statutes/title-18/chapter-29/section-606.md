@@ -5,7 +5,7 @@ usc_section: "606"
 chapter: 29
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 606"
-generated_at: "2026-03-29T00:30:15.621Z"
+generated_at: "2026-03-29T02:12:02.373Z"
 ---
 
 # § 606. Intimidation to secure political contributions

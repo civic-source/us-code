@@ -5,28 +5,28 @@ usc_section: "284f"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 284f"
-generated_at: "2026-03-29T00:32:52.937Z"
+generated_at: "2026-03-29T02:15:35.690Z"
 ---
 
 # § 284f. Parkinson’s disease
 
-(a) The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson’s disease (subject to the extent of amounts appropriated to carry out this section).
-(b) 
-  (1) The Director of NIH shall provide for the coordination of the program established under subsection (a) among all of the national research institutes conducting Parkinson’s disease research.
-  (2) Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
-(c) 
-  (1) The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson’s disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson’s Disease.
-  (2) 
-    (A) With respect to Parkinson’s disease, each center assisted under this subsection shall—
-      (i) use the facilities of a single institution or a consortium of cooperating institutions, and meet such qualifications as may be prescribed by the Director of the NIH; and
-      (ii) conduct basic and clinical research.
-    (B) With respect to Parkinson’s disease, each center assisted under this subsection may—
-      (i) conduct training programs for scientists and health professionals;
-      (ii) conduct programs to provide information and continuing education to health professionals;
-      (iii) conduct programs for the dissemination of information to the public;
-      (iv) separately or in collaboration with other centers, establish a nationwide data system derived from patient populations with Parkinson’s disease, and where possible, comparing relevant data involving general populations;
-      (v) separately or in collaboration with other centers, establish a Parkinson’s Disease Information Clearinghouse to facilitate and enhance knowledge and understanding of Parkinson’s disease; and
-      (vi) separately or in collaboration with other centers, establish a national education program that fosters a national focus on Parkinson’s disease and the care of those with Parkinson’s disease.
-  (3) A center may use funds provided under paragraph (1) to provide stipends for scientists and health professionals enrolled in training programs under paragraph (2)(B).
-  (4) Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
-(d) The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson’s disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis, 1 1 So in original. Probably should be “pathogenesis,”. diagnosis, and treatment of Parkinson’s disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
+- **(a)** The Director of NIH shall establish a program for the conduct and support of research and training with respect to Parkinson’s disease (subject to the extent of amounts appropriated to carry out this section).
+- **(b)**
+  - **(1)** The Director of NIH shall provide for the coordination of the program established under subsection (a) among all of the national research institutes conducting Parkinson’s disease research.
+  - **(2)** Coordination under paragraph (1) shall include the convening of a research planning conference not less frequently than once every 2 years. Each such conference shall prepare and submit to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Commerce of the House of Representatives a report concerning the conference.
+- **(c)**
+  - **(1)** The Director of NIH is authorized to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson’s disease. The Director is authorized to award not more than 10 Core Center Grants and designate each center funded under such grants as a Morris K. Udall Center for Research on Parkinson’s Disease.
+  - **(2)**
+    - **(A)** With respect to Parkinson’s disease, each center assisted under this subsection shall—
+      - **(i)** use the facilities of a single institution or a consortium of cooperating institutions, and meet such qualifications as may be prescribed by the Director of the NIH; and
+      - **(ii)** conduct basic and clinical research.
+    - **(B)** With respect to Parkinson’s disease, each center assisted under this subsection may—
+      - **(i)** conduct training programs for scientists and health professionals;
+      - **(ii)** conduct programs to provide information and continuing education to health professionals;
+      - **(iii)** conduct programs for the dissemination of information to the public;
+      - **(iv)** separately or in collaboration with other centers, establish a nationwide data system derived from patient populations with Parkinson’s disease, and where possible, comparing relevant data involving general populations;
+      - **(v)** separately or in collaboration with other centers, establish a Parkinson’s Disease Information Clearinghouse to facilitate and enhance knowledge and understanding of Parkinson’s disease; and
+      - **(vi)** separately or in collaboration with other centers, establish a national education program that fosters a national focus on Parkinson’s disease and the care of those with Parkinson’s disease.
+  - **(3)** A center may use funds provided under paragraph (1) to provide stipends for scientists and health professionals enrolled in training programs under paragraph (2)(B).
+  - **(4)** Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+- **(d)** The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson’s disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis, 1 1 So in original. Probably should be “pathogenesis,”. diagnosis, and treatment of Parkinson’s disease. Grants under this subsection shall be available for a period of not to exceed 5 years.

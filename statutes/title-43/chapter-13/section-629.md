@@ -5,7 +5,7 @@ usc_section: "629"
 chapter: 13
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 629"
-generated_at: "2026-03-29T00:32:57.380Z"
+generated_at: "2026-03-29T02:15:47.569Z"
 ---
 
 # § 629. Delivery of notices required by State law; right to hearing, appeal, etc.

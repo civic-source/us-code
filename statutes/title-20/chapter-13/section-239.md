@@ -5,7 +5,7 @@ usc_section: "239"
 chapter: 13
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 239"
-generated_at: "2026-03-29T00:07:03.113Z"
+generated_at: "2026-03-29T02:12:17.154Z"
 ---
 
 # §§ 236 to 239. Repealed. Pub. L. 103–382, title III, § 331(b) , Oct. 20, 1994 , 108 Stat. 3965

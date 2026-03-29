@@ -5,7 +5,7 @@ usc_section: "3709"
 chapter: 63
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3709"
-generated_at: "2026-03-29T00:29:41.840Z"
+generated_at: "2026-03-29T02:11:34.344Z"
 ---
 
 # § 3709. Repealed. Pub. L. 99–502, § 9(a) , Oct. 20, 1986 , 100 Stat. 1795

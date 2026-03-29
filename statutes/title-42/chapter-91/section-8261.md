@@ -5,7 +5,7 @@ usc_section: "8261"
 chapter: 91
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8261"
-generated_at: "2026-03-29T00:32:54.115Z"
+generated_at: "2026-03-29T02:15:37.015Z"
 ---
 
 # §§ 8260, 8261. Omitted

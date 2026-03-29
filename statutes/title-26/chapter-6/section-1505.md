@@ -5,10 +5,10 @@ usc_section: "1505"
 chapter: 6
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1505"
-generated_at: "2026-03-29T00:31:20.900Z"
+generated_at: "2026-03-29T02:14:01.156Z"
 ---
 
 # § 1505. Cross references
 
-  (1) For suspension of running of statute of limitations when notice in respect of a deficiency is mailed to one corporation, see section 6503(a)(1).
-  (2) For allocation of income and deductions of related trades or businesses, see section 482.
+  - **(1)** For suspension of running of statute of limitations when notice in respect of a deficiency is mailed to one corporation, see section 6503(a)(1).
+  - **(2)** For allocation of income and deductions of related trades or businesses, see section 482.

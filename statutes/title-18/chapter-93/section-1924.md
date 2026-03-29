@@ -5,11 +5,11 @@ usc_section: "1924"
 chapter: 93
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1924"
-generated_at: "2026-03-29T00:30:15.687Z"
+generated_at: "2026-03-29T02:12:02.430Z"
 ---
 
 # § 1924. Unauthorized removal and retention of classified documents or material
 
-(a) Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than five years, or both.
-(b) For purposes of this section, the provision of documents and materials to the Congress shall not constitute an offense under subsection (a).
-(c) In this section, the term “classified information of the United States” means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.
+- **(a)** Whoever, being an officer, employee, contractor, or consultant of the United States, and, by virtue of his office, employment, position, or contract, becomes possessed of documents or materials containing classified information of the United States, knowingly removes such documents or materials without authority and with the intent to retain such documents or materials at an unauthorized location shall be fined under this title or imprisoned for not more than five years, or both.
+- **(b)** For purposes of this section, the provision of documents and materials to the Congress shall not constitute an offense under subsection (a).
+- **(c)** In this section, the term “classified information of the United States” means information originated, owned, or possessed by the United States Government concerning the national defense or foreign relations of the United States that has been determined pursuant to law or Executive order to require protection against unauthorized disclosure in the interests of national security.

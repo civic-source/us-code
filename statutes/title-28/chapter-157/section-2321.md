@@ -5,11 +5,11 @@ usc_section: "2321"
 chapter: 157
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2321"
-generated_at: "2026-03-29T00:31:24.198Z"
+generated_at: "2026-03-29T02:14:04.574Z"
 ---
 
 # § 2321. Judicial review of Board’s orders and decisions; procedure generally; process
 
-(a) Except as otherwise provided by an Act of Congress, a proceeding to enjoin or suspend, in whole or in part, a rule, regulation, or order of the Surface Transportation Board shall be brought in the court of appeals as provided by and in the manner prescribed in chapter 158 of this title.
-(b) The procedure in the district courts in actions to enforce, in whole or in part, any order of the Surface Transportation Board other than for payment of money or the collection of fines, penalties, and forfeitures, shall be as provided in this chapter.
-(c) The orders, writs, and process of the district courts may, in the cases specified in subsection (b) and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49, run, be served and be returnable anywhere in the United States.
+- **(a)** Except as otherwise provided by an Act of Congress, a proceeding to enjoin or suspend, in whole or in part, a rule, regulation, or order of the Surface Transportation Board shall be brought in the court of appeals as provided by and in the manner prescribed in chapter 158 of this title.
+- **(b)** The procedure in the district courts in actions to enforce, in whole or in part, any order of the Surface Transportation Board other than for payment of money or the collection of fines, penalties, and forfeitures, shall be as provided in this chapter.
+- **(c)** The orders, writs, and process of the district courts may, in the cases specified in subsection (b) and in enforcement actions and actions to collect civil penalties under subtitle IV of title 49, run, be served and be returnable anywhere in the United States.

@@ -5,37 +5,37 @@ usc_section: "6504"
 chapter: 91
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 6504"
-generated_at: "2026-03-29T00:29:41.891Z"
+generated_at: "2026-03-29T02:11:34.395Z"
 ---
 
 # § 6504. Actions by States
 
-(a) 
-  (1) In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of the Commission prescribed under section 6502(b) of this title , the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—
-    (A) enjoin that practice;
-    (B) enforce compliance with the regulation;
-    (C) obtain damage, restitution, or other compensation on behalf of residents of the State; or
-    (D) obtain such other relief as the court may consider to be appropriate.
-  (2) 
-    (A) Before filing an action under paragraph (1), the attorney general of the State involved shall provide to the Commission—
-      (i) written notice of that action; and
-      (ii) a copy of the complaint for that action.
-    (B) 
-      (i) Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before the filing of the action.
-      (ii) In an action described in clause (i), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
-(b) 
-  (1) On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.
-  (2) If the Commission intervenes in an action under subsection (a), it shall have the right—
-    (A) to be heard with respect to any matter that arises in that action; and
-    (B) to file a petition for appeal.
-  (3) Upon application to the court, a person whose self-regulatory guidelines have been approved by the Commission and are relied upon as a defense by any defendant to a proceeding under this section may file amicus curiae in that proceeding.
-(c) For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
-  (1) conduct investigations;
-  (2) administer oaths or affirmations; or
-  (3) compel the attendance of witnesses or the production of documentary and other evidence.
-(d) In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under section 6502 of this title , no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of that regulation.
-(e) 
-  (1) Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28 .
-  (2) In an action brought under subsection (a), process may be served in any district in which the defendant—
-    (A) is an inhabitant; or
-    (B) may be found.
+- **(a)**
+  - **(1)** In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person in a practice that violates any regulation of the Commission prescribed under section 6502(b) of this title , the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction to—
+    - **(A)** enjoin that practice;
+    - **(B)** enforce compliance with the regulation;
+    - **(C)** obtain damage, restitution, or other compensation on behalf of residents of the State; or
+    - **(D)** obtain such other relief as the court may consider to be appropriate.
+  - **(2)**
+    - **(A)** Before filing an action under paragraph (1), the attorney general of the State involved shall provide to the Commission—
+      - **(i)** written notice of that action; and
+      - **(ii)** a copy of the complaint for that action.
+    - **(B)**
+      - **(i)** Subparagraph (A) shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general determines that it is not feasible to provide the notice described in that subparagraph before the filing of the action.
+      - **(ii)** In an action described in clause (i), the attorney general of a State shall provide notice and a copy of the complaint to the Commission at the same time as the attorney general files the action.
+- **(b)**
+  - **(1)** On receiving notice under subsection (a)(2), the Commission shall have the right to intervene in the action that is the subject of the notice.
+  - **(2)** If the Commission intervenes in an action under subsection (a), it shall have the right—
+    - **(A)** to be heard with respect to any matter that arises in that action; and
+    - **(B)** to file a petition for appeal.
+  - **(3)** Upon application to the court, a person whose self-regulatory guidelines have been approved by the Commission and are relied upon as a defense by any defendant to a proceeding under this section may file amicus curiae in that proceeding.
+- **(c)** For purposes of bringing any civil action under subsection (a), nothing in this chapter shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—
+  - **(1)** conduct investigations;
+  - **(2)** administer oaths or affirmations; or
+  - **(3)** compel the attendance of witnesses or the production of documentary and other evidence.
+- **(d)** In any case in which an action is instituted by or on behalf of the Commission for violation of any regulation prescribed under section 6502 of this title , no State may, during the pendency of that action, institute an action under subsection (a) against any defendant named in the complaint in that action for violation of that regulation.
+- **(e)**
+  - **(1)** Any action brought under subsection (a) may be brought in the district court of the United States that meets applicable requirements relating to venue under section 1391 of title 28 .
+  - **(2)** In an action brought under subsection (a), process may be served in any district in which the defendant—
+    - **(A)** is an inhabitant; or
+    - **(B)** may be found.

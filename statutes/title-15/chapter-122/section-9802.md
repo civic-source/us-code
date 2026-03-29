@@ -5,16 +5,16 @@ usc_section: "9802"
 chapter: 122
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 9802"
-generated_at: "2026-03-29T00:29:42.015Z"
+generated_at: "2026-03-29T02:11:34.508Z"
 ---
 
 # § 9802. Purposes
 
 The purposes of this subtitle are—
 
-  (1) to support the travel and tourism industry, which produces economic impacts that are vital to our national economy; and
-  (2) to establish national goals for international visitors to the United States, including—
-    (A) recommendations for achieving such goals and timelines for implementing such recommendations;
-    (B) coordination between Federal and State agencies;
-    (C) the resources needed by each Government agency to achieve such goals; and
-    (D) the number of international visitors and the value of national travel exports.
+  - **(1)** to support the travel and tourism industry, which produces economic impacts that are vital to our national economy; and
+  - **(2)** to establish national goals for international visitors to the United States, including—
+    - **(A)** recommendations for achieving such goals and timelines for implementing such recommendations;
+    - **(B)** coordination between Federal and State agencies;
+    - **(C)** the resources needed by each Government agency to achieve such goals; and
+    - **(D)** the number of international visitors and the value of national travel exports.

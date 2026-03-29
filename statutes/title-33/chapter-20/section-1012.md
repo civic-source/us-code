@@ -5,7 +5,7 @@ usc_section: "1012"
 chapter: 20
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1012"
-generated_at: "2026-03-29T00:31:57.286Z"
+generated_at: "2026-03-29T02:14:18.534Z"
 ---
 
 # § 1012. Repealed. Pub. L. 89–551, § 1(9) , Sept. 1, 1966 , 80 Stat. 375

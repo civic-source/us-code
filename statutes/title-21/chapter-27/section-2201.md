@@ -5,15 +5,15 @@ usc_section: "2201"
 chapter: 27
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 2201"
-generated_at: "2026-03-29T00:30:24.367Z"
+generated_at: "2026-03-29T02:12:28.190Z"
 ---
 
 # § 2201. Performance standards
 
-(a) The Secretary shall, in coordination with the Secretary of Agriculture, not less frequently than every 2 years, review and evaluate relevant health data and other relevant information, including from toxicological and epidemiological studies and analyses, current Good Manufacturing Practices issued by the Secretary relating to food, and relevant recommendations of relevant advisory committees, including the Food Advisory Committee, to determine the most significant foodborne contaminants.
-(b) Based on the review and evaluation conducted under subsection (a), and when appropriate to reduce the risk of serious illness or death to humans or animals or to prevent adulteration of the food under section 342 of this title or to prevent the spread by food of communicable disease under section 264 of title 42 , the Secretary shall issue contaminant-specific and science-based guidance documents, including guidance documents regarding action levels, or regulations. Such guidance, including guidance regarding action levels, or regulations—
-  (1) shall apply to products or product classes;
-  (2) shall, where appropriate, differentiate between food for human consumption and food intended for consumption by animals other than humans; and
-  (3) shall not be written to be facility-specific.
-(c) The Secretary shall coordinate with the Secretary of Agriculture to avoid issuing duplicative guidance on the same contaminants.
-(d) The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.
+- **(a)** The Secretary shall, in coordination with the Secretary of Agriculture, not less frequently than every 2 years, review and evaluate relevant health data and other relevant information, including from toxicological and epidemiological studies and analyses, current Good Manufacturing Practices issued by the Secretary relating to food, and relevant recommendations of relevant advisory committees, including the Food Advisory Committee, to determine the most significant foodborne contaminants.
+- **(b)** Based on the review and evaluation conducted under subsection (a), and when appropriate to reduce the risk of serious illness or death to humans or animals or to prevent adulteration of the food under section 342 of this title or to prevent the spread by food of communicable disease under section 264 of title 42 , the Secretary shall issue contaminant-specific and science-based guidance documents, including guidance documents regarding action levels, or regulations. Such guidance, including guidance regarding action levels, or regulations—
+  - **(1)** shall apply to products or product classes;
+  - **(2)** shall, where appropriate, differentiate between food for human consumption and food intended for consumption by animals other than humans; and
+  - **(3)** shall not be written to be facility-specific.
+- **(c)** The Secretary shall coordinate with the Secretary of Agriculture to avoid issuing duplicative guidance on the same contaminants.
+- **(d)** The Secretary shall periodically review and revise, as appropriate, the guidance documents, including guidance documents regarding action levels, or regulations promulgated under this section.

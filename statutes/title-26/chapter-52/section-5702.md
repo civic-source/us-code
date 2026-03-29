@@ -5,40 +5,40 @@ usc_section: "5702"
 chapter: 52
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5702"
-generated_at: "2026-03-29T00:31:20.996Z"
+generated_at: "2026-03-29T02:14:01.270Z"
 ---
 
 # § 5702. Definitions
 
 When used in this chapter—
 
-(a) “Cigar” means any roll of tobacco wrapped in leaf tobacco or in any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (b)(2)).
-(b) “Cigarette” means—
-  (1) any roll of tobacco wrapped in paper or in any substance not containing tobacco, and
-  (2) any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in paragraph (1).
-(c) “Tobacco products” means cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
-(d) “Manufacturer of tobacco products” means any person who manufactures cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco, except that such term shall not include—
-  (1) a person who produces cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco solely for the person’s own personal consumption or use, and
-  (2) a proprietor of a customs bonded manufacturing warehouse with respect to the operation of such warehouse.
-(e) “Cigarette paper” means paper, or any other material except tobacco, prepared for use as a cigarette wrapper.
-(f) “Cigarette tube” means cigarette paper made into a hollow cylinder for use in making cigarettes.
-(g) “Manufacturer of cigarette papers and tubes” means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
-(h) “Export warehouse” means a bonded internal revenue warehouse for the storage of tobacco products or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
-(i) “Export warehouse proprietor” means any person who operates an export warehouse.
-(j) “Removal” or “remove” means the removal of tobacco products or cigarette papers or tubes, or any processed tobacco, from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
-(k) “Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes, or any processed tobacco, manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco, into the United States.
-(l) In determining price for purposes of section 5701(a)(2)—
-  (1) there shall be included any charge incident to placing the article in condition ready for use,
-  (2) there shall be excluded—
-    (A) the amount of the tax imposed by this chapter or section 7652, and
-    (B) if stated as a separate charge, the amount of any retail sales tax imposed by any State or political subdivision thereof or the District of Columbia, whether the liability for such tax is imposed on the vendor or vendee, and
-  (3) rules similar to the rules of section 4216(b) shall apply.
-(m) 
-  (1) The term “smokeless tobacco” means any snuff or chewing tobacco.
-  (2) The term “snuff” means any finely cut, ground, or powdered tobacco that is not intended to be smoked.
-  (3) The term “chewing tobacco” means any leaf tobacco that is not intended to be smoked.
-(n) The term “pipe tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco to be smoked in a pipe.
-(o) The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes or cigars, or for use as wrappers thereof.
-(p) 
-  (1) The term “manufacturer of processed tobacco” means any person who processes any tobacco other than tobacco products.
-  (2) The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.
+- **(a)** “Cigar” means any roll of tobacco wrapped in leaf tobacco or in any substance containing tobacco (other than any roll of tobacco which is a cigarette within the meaning of subsection (b)(2)).
+- **(b)** “Cigarette” means—
+  - **(1)** any roll of tobacco wrapped in paper or in any substance not containing tobacco, and
+  - **(2)** any roll of tobacco wrapped in any substance containing tobacco which, because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be offered to, or purchased by, consumers as a cigarette described in paragraph (1).
+- **(c)** “Tobacco products” means cigars, cigarettes, smokeless tobacco, pipe tobacco, and roll-your-own tobacco.
+- **(d)** “Manufacturer of tobacco products” means any person who manufactures cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco, except that such term shall not include—
+  - **(1)** a person who produces cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco solely for the person’s own personal consumption or use, and
+  - **(2)** a proprietor of a customs bonded manufacturing warehouse with respect to the operation of such warehouse.
+- **(e)** “Cigarette paper” means paper, or any other material except tobacco, prepared for use as a cigarette wrapper.
+- **(f)** “Cigarette tube” means cigarette paper made into a hollow cylinder for use in making cigarettes.
+- **(g)** “Manufacturer of cigarette papers and tubes” means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+- **(h)** “Export warehouse” means a bonded internal revenue warehouse for the storage of tobacco products or cigarette papers or tubes or any processed tobacco, upon which the internal revenue tax has not been paid, for subsequent shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, or for consumption beyond the jurisdiction of the internal revenue laws of the United States.
+- **(i)** “Export warehouse proprietor” means any person who operates an export warehouse.
+- **(j)** “Removal” or “remove” means the removal of tobacco products or cigarette papers or tubes, or any processed tobacco, from the factory or from internal revenue bond under section 5704, as the Secretary shall by regulation prescribe, or release from customs custody, and shall also include the smuggling or other unlawful importation of such articles into the United States.
+- **(k)** “Importer” means any person in the United States to whom nontaxpaid tobacco products or cigarette papers or tubes, or any processed tobacco, manufactured in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States are shipped or consigned; any person who removes cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse; and any person who smuggles or otherwise unlawfully brings tobacco products or cigarette papers or tubes, or any processed tobacco, into the United States.
+- **(l)** In determining price for purposes of section 5701(a)(2)—
+  - **(1)** there shall be included any charge incident to placing the article in condition ready for use,
+  - **(2)** there shall be excluded—
+    - **(A)** the amount of the tax imposed by this chapter or section 7652, and
+    - **(B)** if stated as a separate charge, the amount of any retail sales tax imposed by any State or political subdivision thereof or the District of Columbia, whether the liability for such tax is imposed on the vendor or vendee, and
+  - **(3)** rules similar to the rules of section 4216(b) shall apply.
+- **(m)**
+  - **(1)** The term “smokeless tobacco” means any snuff or chewing tobacco.
+  - **(2)** The term “snuff” means any finely cut, ground, or powdered tobacco that is not intended to be smoked.
+  - **(3)** The term “chewing tobacco” means any leaf tobacco that is not intended to be smoked.
+- **(n)** The term “pipe tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco to be smoked in a pipe.
+- **(o)** The term “roll-your-own tobacco” means any tobacco which, because of its appearance, type, packaging, or labeling, is suitable for use and likely to be offered to, or purchased by, consumers as tobacco for making cigarettes or cigars, or for use as wrappers thereof.
+- **(p)**
+  - **(1)** The term “manufacturer of processed tobacco” means any person who processes any tobacco other than tobacco products.
+  - **(2)** The processing of tobacco shall not include the farming or growing of tobacco or the handling of tobacco solely for sale, shipment, or delivery to a manufacturer of tobacco products or processed tobacco.

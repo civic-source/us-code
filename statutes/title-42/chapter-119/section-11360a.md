@@ -5,52 +5,52 @@ usc_section: "11360a"
 chapter: 119
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11360a"
-generated_at: "2026-03-29T00:32:54.228Z"
+generated_at: "2026-03-29T02:15:37.157Z"
 ---
 
 # § 11360a. Collaborative applicants
 
-(a) A collaborative applicant shall be established for a geographic area by the relevant parties in that geographic area to—
-  (1) submit an application for amounts under this part; and
-  (2) perform the duties specified in subsection (f) and, if applicable, subsection (g).
-(b) An entity may be established to serve as a collaborative applicant under this section without being a legal entity.
-(c) If the Secretary finds that a collaborative applicant for a geographic area does not meet the requirements of this section, or if there is no collaborative applicant for a geographic area, the Secretary may take remedial action to ensure fair distribution of grant amounts under part C to eligible entities within that area. Such measures may include designating another body as a collaborative applicant, or permitting other eligible entities to apply directly for grants.
-(d) Nothing in this section shall be construed to displace conflict of interest or government fair practices laws, or their equivalent, that govern applicants for grant amounts under parts B and C.
-(e) 
-  (1) Subject to paragraph (2), a collaborative applicant may designate an agent to—
-    (A) apply for a grant under section 11382(c) of this title ;
-    (B) receive and distribute grant funds awarded under part C; and
-    (C) perform other administrative duties.
-  (2) Any collaborative applicant that designates an agent pursuant to paragraph (1) shall regardless of such designation retain all of its duties and responsibilities under this subchapter.
-(f) A collaborative applicant shall—
-  (1) design a collaborative process for the development of an application under part C, and for evaluating the outcomes of projects for which funds are awarded under part B, in such a manner as to provide information necessary for the Secretary—
-    (A) to determine compliance with—
-      (i) the program requirements under section 11386 of this title ; and
-      (ii) the selection criteria described under section 11386a of this title ; and
-    (B) to establish priorities for funding projects in the geographic area involved;
-  (2) participate in the Consolidated Plan for the geographic area served by the collaborative applicant; and
-  (3) ensure operation of, and consistent participation by, project sponsors in a community-wide homeless management information system (in this subsection referred to as “HMIS”) that—
-    (A) collects unduplicated counts of individuals and families experiencing homelessness;
-    (B) analyzes patterns of use of assistance provided under parts B and C for the geographic area involved;
-    (C) provides information to project sponsors and applicants for needs analyses and funding priorities; and
-    (D) is developed in accordance with standards established by the Secretary, including standards that provide for—
-      (i) encryption of data collected for purposes of HMIS;
-      (ii) documentation, including keeping an accurate accounting, proper usage, and disclosure, of HMIS data;
-      (iii) access to HMIS data by staff, contractors, law enforcement, and academic researchers;
-      (iv) rights of persons receiving services under this subchapter;
-      (v) criminal and civil penalties for unlawful disclosure of data; and
-      (vi) such other standards as may be determined necessary by the Secretary.
-(g) 
-  (1) In addition to the duties described in subsection (f), a collaborative applicant shall receive from the Secretary and distribute to other project sponsors in the applicable geographic area funds for projects to be carried out by such other project sponsors, if—
-    (A) the collaborative applicant—
-      (i) applies to undertake such collection and distribution responsibilities in an application submitted under this part; and
-      (ii) is selected to perform such responsibilities by the Secretary; or
-    (B) the Secretary designates the collaborative applicant as the unified funding agency in the geographic area, after—
-      (i) a finding by the Secretary that the applicant—
-        (I) has the capacity to perform such responsibilities; and
-        (II) would serve the purposes of this chapter as they apply to the geographic area; and
-      (ii) the Secretary provides the collaborative applicant with the technical assistance necessary to perform such responsibilities as such assistance is agreed to by the collaborative applicant.
-  (2) A collaborative applicant that is either selected or designated as a unified funding agency for a geographic area under paragraph (1) shall—
-    (A) require each project sponsor who is funded by a grant received under part C to establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds awarded to the project sponsor under part C in order to ensure that all financial transactions carried out under part C are conducted, and records maintained, in accordance with generally accepted accounting principles; and
-    (B) arrange for an annual survey, audit, or evaluation of the financial records of each project carried out by a project sponsor funded by a grant received under part C.
-(h) No board member of a collaborative applicant may participate in decisions of the collaborative applicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.
+- **(a)** A collaborative applicant shall be established for a geographic area by the relevant parties in that geographic area to—
+  - **(1)** submit an application for amounts under this part; and
+  - **(2)** perform the duties specified in subsection (f) and, if applicable, subsection (g).
+- **(b)** An entity may be established to serve as a collaborative applicant under this section without being a legal entity.
+- **(c)** If the Secretary finds that a collaborative applicant for a geographic area does not meet the requirements of this section, or if there is no collaborative applicant for a geographic area, the Secretary may take remedial action to ensure fair distribution of grant amounts under part C to eligible entities within that area. Such measures may include designating another body as a collaborative applicant, or permitting other eligible entities to apply directly for grants.
+- **(d)** Nothing in this section shall be construed to displace conflict of interest or government fair practices laws, or their equivalent, that govern applicants for grant amounts under parts B and C.
+- **(e)**
+  - **(1)** Subject to paragraph (2), a collaborative applicant may designate an agent to—
+    - **(A)** apply for a grant under section 11382(c) of this title ;
+    - **(B)** receive and distribute grant funds awarded under part C; and
+    - **(C)** perform other administrative duties.
+  - **(2)** Any collaborative applicant that designates an agent pursuant to paragraph (1) shall regardless of such designation retain all of its duties and responsibilities under this subchapter.
+- **(f)** A collaborative applicant shall—
+  - **(1)** design a collaborative process for the development of an application under part C, and for evaluating the outcomes of projects for which funds are awarded under part B, in such a manner as to provide information necessary for the Secretary—
+    - **(A)** to determine compliance with—
+      - **(i)** the program requirements under section 11386 of this title ; and
+      - **(ii)** the selection criteria described under section 11386a of this title ; and
+    - **(B)** to establish priorities for funding projects in the geographic area involved;
+  - **(2)** participate in the Consolidated Plan for the geographic area served by the collaborative applicant; and
+  - **(3)** ensure operation of, and consistent participation by, project sponsors in a community-wide homeless management information system (in this subsection referred to as “HMIS”) that—
+    - **(A)** collects unduplicated counts of individuals and families experiencing homelessness;
+    - **(B)** analyzes patterns of use of assistance provided under parts B and C for the geographic area involved;
+    - **(C)** provides information to project sponsors and applicants for needs analyses and funding priorities; and
+    - **(D)** is developed in accordance with standards established by the Secretary, including standards that provide for—
+      - **(i)** encryption of data collected for purposes of HMIS;
+      - **(ii)** documentation, including keeping an accurate accounting, proper usage, and disclosure, of HMIS data;
+      - **(iii)** access to HMIS data by staff, contractors, law enforcement, and academic researchers;
+      - **(iv)** rights of persons receiving services under this subchapter;
+      - **(v)** criminal and civil penalties for unlawful disclosure of data; and
+      - **(vi)** such other standards as may be determined necessary by the Secretary.
+- **(g)**
+  - **(1)** In addition to the duties described in subsection (f), a collaborative applicant shall receive from the Secretary and distribute to other project sponsors in the applicable geographic area funds for projects to be carried out by such other project sponsors, if—
+    - **(A)** the collaborative applicant—
+      - **(i)** applies to undertake such collection and distribution responsibilities in an application submitted under this part; and
+      - **(ii)** is selected to perform such responsibilities by the Secretary; or
+    - **(B)** the Secretary designates the collaborative applicant as the unified funding agency in the geographic area, after—
+      - **(i)** a finding by the Secretary that the applicant—
+        - **(I)** has the capacity to perform such responsibilities; and
+        - **(II)** would serve the purposes of this chapter as they apply to the geographic area; and
+      - **(ii)** the Secretary provides the collaborative applicant with the technical assistance necessary to perform such responsibilities as such assistance is agreed to by the collaborative applicant.
+  - **(2)** A collaborative applicant that is either selected or designated as a unified funding agency for a geographic area under paragraph (1) shall—
+    - **(A)** require each project sponsor who is funded by a grant received under part C to establish such fiscal control and fund accounting procedures as may be necessary to assure the proper disbursal of, and accounting for, Federal funds awarded to the project sponsor under part C in order to ensure that all financial transactions carried out under part C are conducted, and records maintained, in accordance with generally accepted accounting principles; and
+    - **(B)** arrange for an annual survey, audit, or evaluation of the financial records of each project carried out by a project sponsor funded by a grant received under part C.
+- **(h)** No board member of a collaborative applicant may participate in decisions of the collaborative applicant concerning the award of a grant, or provision of other financial benefits, to such member or the organization that such member represents.

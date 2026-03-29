@@ -5,12 +5,12 @@ usc_section: "943b"
 chapter: 15
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 943b"
-generated_at: "2026-03-29T00:29:52.672Z"
+generated_at: "2026-03-29T02:11:53.724Z"
 ---
 
 # § 943b. Definitions
 
 In this chapter—
 
-  (1) “Secretary” means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
-  (2) “Great Lakes fish and wildlife” means fauna, fish, and invertebrates dependent on Great Lakes resources, and located within the Great Lakes Basin.
+  - **(1)** “Secretary” means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
+  - **(2)** “Great Lakes fish and wildlife” means fauna, fish, and invertebrates dependent on Great Lakes resources, and located within the Great Lakes Basin.

@@ -5,7 +5,7 @@ usc_section: "56"
 chapter: 2
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 56"
-generated_at: "2026-03-29T00:28:57.857Z"
+generated_at: "2026-03-29T02:10:16.645Z"
 ---
 
 # § 56. Establishment of cotton standards; furnishing copies of established standards sold

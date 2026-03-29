@@ -5,14 +5,14 @@ usc_section: "2333"
 chapter: 24
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2333"
-generated_at: "2026-03-29T00:32:53.783Z"
+generated_at: "2026-03-29T02:15:36.614Z"
 ---
 
 # § 2333. Transfer of priorities
 
 No priority shall be transferable, except—
 
-(a) a husband and wife may exercise a priority in their joint names;
-(b) a religious organization may exercise the priority which would otherwise belong to its priest, minister, or rabbi, regardless of whether that position happens to be filled at the time of the exercise of the priority;
-(c) two or more priority holders having a common interest in a building or location may assign their interests to a single assignee; and
-(d) the Commission may permit such other transfers as it finds to be fair and equitable.
+- **(a)** a husband and wife may exercise a priority in their joint names;
+- **(b)** a religious organization may exercise the priority which would otherwise belong to its priest, minister, or rabbi, regardless of whether that position happens to be filled at the time of the exercise of the priority;
+- **(c)** two or more priority holders having a common interest in a building or location may assign their interests to a single assignee; and
+- **(d)** the Commission may permit such other transfers as it finds to be fair and equitable.

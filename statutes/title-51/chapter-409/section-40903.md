@@ -5,16 +5,16 @@ usc_section: "40903"
 chapter: 409
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 40903"
-generated_at: "2026-03-29T00:33:19.397Z"
+generated_at: "2026-03-29T02:16:19.254Z"
 ---
 
 # § 40903. Established Program to Stimulate Competitive Research—merit grant competition requirements
 
-(a) In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Established Program to Stimulate Competitive Research.
-(b) Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
-  (1) the application’s merit and relevance to the mission of the Administration;
-  (2) the potential for the grant to serve as a catalyst to enhance the ability of researchers in the State to become more competitive for regular Administration funding;
-  (3) the potential for the grant to improve the environment for science, mathematics, and engineering education in the State; and
-  (4) the need to ensure the maximum distribution of grants among eligible States, consistent with merit.
-(c) The Administrator shall endeavor, where appropriate, to supplement grants made under subsection (b) with such grants for fellowships, traineeships, equipment, or instrumentation as are available.
-(d) In order to ensure that research expertise and talent throughout the Nation is developed and engaged in Administration research and education activities, the Administration shall, as part of its annual budget submission, detail additional steps that can be taken to further integrate the participating eligible States in both existing and new or emerging Administration research programs and center activities.
+- **(a)** In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Established Program to Stimulate Competitive Research.
+- **(b)** Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
+  - **(1)** the application’s merit and relevance to the mission of the Administration;
+  - **(2)** the potential for the grant to serve as a catalyst to enhance the ability of researchers in the State to become more competitive for regular Administration funding;
+  - **(3)** the potential for the grant to improve the environment for science, mathematics, and engineering education in the State; and
+  - **(4)** the need to ensure the maximum distribution of grants among eligible States, consistent with merit.
+- **(c)** The Administrator shall endeavor, where appropriate, to supplement grants made under subsection (b) with such grants for fellowships, traineeships, equipment, or instrumentation as are available.
+- **(d)** In order to ensure that research expertise and talent throughout the Nation is developed and engaged in Administration research and education activities, the Administration shall, as part of its annual budget submission, detail additional steps that can be taken to further integrate the participating eligible States in both existing and new or emerging Administration research programs and center activities.

@@ -5,12 +5,12 @@ usc_section: "1972"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1972"
-generated_at: "2026-03-29T00:33:06.663Z"
+generated_at: "2026-03-29T02:16:00.838Z"
 ---
 
 # § 1972. Controlled substances in freely associated states
 
-(a) The President is authorized to negotiate agreements which provide—
-  (1) that the United States shall carry out the provisions of part C of the Controlled Substances Act ( 21 U.S.C. 821 et seq.) as necessary to provide for the lawful distribution of controlled substances in the freely associated states; and
-  (2) that a freely associated state which institutes and maintains a voluntary system to report annual estimates of narcotics needs to the International Narcotics Control Board, and which imposes controls on imports of narcotic drugs consistent with the Single Convention on Narcotic Drugs, 1961, shall be eligible for exports of narcotic drugs from the United States in the same manner as a country meeting the requirements of subsection (a) of section 953 1 1 See References in Text note below. of title 21.
-(b) Agreements concluded pursuant to this section shall become effective pursuant to section 1901(f)(5) of this title or section 1931(d)(5) of this title , as may be applicable.
+- **(a)** The President is authorized to negotiate agreements which provide—
+  - **(1)** that the United States shall carry out the provisions of part C of the Controlled Substances Act ( 21 U.S.C. 821 et seq.) as necessary to provide for the lawful distribution of controlled substances in the freely associated states; and
+  - **(2)** that a freely associated state which institutes and maintains a voluntary system to report annual estimates of narcotics needs to the International Narcotics Control Board, and which imposes controls on imports of narcotic drugs consistent with the Single Convention on Narcotic Drugs, 1961, shall be eligible for exports of narcotic drugs from the United States in the same manner as a country meeting the requirements of subsection (a) of section 953 1 1 See References in Text note below. of title 21.
+- **(b)** Agreements concluded pursuant to this section shall become effective pursuant to section 1901(f)(5) of this title or section 1931(d)(5) of this title , as may be applicable.

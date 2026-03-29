@@ -5,7 +5,7 @@ usc_section: "3508"
 chapter: 55
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3508"
-generated_at: "2026-03-29T00:29:52.802Z"
+generated_at: "2026-03-29T02:11:53.891Z"
 ---
 
 # § 3508. Separability

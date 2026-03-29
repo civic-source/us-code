@@ -5,7 +5,7 @@ usc_section: "2761"
 chapter: 27
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2761"
-generated_at: "2026-03-29T00:29:25.028Z"
+generated_at: "2026-03-29T02:11:23.806Z"
 ---
 
 # § 2761. Individuals discharged as result of court-martial; allowances to

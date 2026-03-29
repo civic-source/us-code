@@ -5,7 +5,7 @@ usc_section: "9304"
 chapter: 93
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 9304"
-generated_at: "2026-03-29T00:32:20.569Z"
+generated_at: "2026-03-29T02:14:58.805Z"
 ---
 
 # § 9304. Source of appropriations

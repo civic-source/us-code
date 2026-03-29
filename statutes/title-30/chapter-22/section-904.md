@@ -5,7 +5,7 @@ usc_section: "904"
 chapter: 22
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 904"
-generated_at: "2026-03-29T00:31:30.792Z"
+generated_at: "2026-03-29T02:14:11.230Z"
 ---
 
 # § 904. Repealed. Pub. L. 107–275, § 2(c)(2) , Nov. 2, 2002 , 116 Stat. 1926

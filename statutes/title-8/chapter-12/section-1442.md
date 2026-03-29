@@ -1,0 +1,17 @@
+---
+title: "Section 1442 - Alien enemies"
+usc_title: 8
+usc_section: "1442"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1442"
+generated_at: "2026-03-29T02:10:21.471Z"
+---
+
+# § 1442. Alien enemies
+
+- **(a)** An alien who is a native, citizen, subject, or denizen of any country, state, or sovereignty with which the United States is at war may, after his loyalty has been fully established upon investigation by the Attorney General, be naturalized as a citizen of the United States if such alien’s application for naturalization shall be pending at the beginning of the state of war and the applicant is otherwise entitled to admission to citizenship.
+- **(b)** An alien embraced within this section shall not have his application for naturalization considered or heard except after 90 days’ notice to the Attorney General to be considered at the examination or hearing, and the Attorney General’s objection to such consideration shall cause the application to be continued from time to time for so long as the Attorney General may require.
+- **(c)** The Attorney General may, in his discretion, upon investigation fully establishing the loyalty of any alien enemy who did not have an application for naturalization pending at the beginning of the state of war, except such alien enemy from the classification of alien enemy for the purposes of this subchapter, and thereupon such alien shall have the privilege of filing an application for naturalization.
+- **(d)** An alien who is a native, citizen, subject, or denizen of any country, state, or sovereignty with which the United States is at war shall cease to be an alien enemy within the meaning of this section upon the determination by proclamation of the President, or by concurrent resolution of the Congress, that hostilities between the United States and such country, state, or sovereignty have ended.
+- **(e)** Nothing contained herein shall be taken or construed to interfere with or prevent the apprehension and removal, consistent with law, of any alien enemy at any time prior to the actual naturalization of such alien.

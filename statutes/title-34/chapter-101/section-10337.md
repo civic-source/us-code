@@ -5,12 +5,12 @@ usc_section: "10337"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10337"
-generated_at: "2026-03-29T00:32:01.552Z"
+generated_at: "2026-03-29T02:14:25.265Z"
 ---
 
 # § 10337. Definitions
 
 For purposes of this subchapter—
 
-  (1) the term “child” means an individual under the age of 18 years; and
-  (2) the term “abuse” means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.
+  - **(1)** the term “child” means an individual under the age of 18 years; and
+  - **(2)** the term “abuse” means physical or mental injury, sexual abuse or exploitation, or negligent treatment of a child.

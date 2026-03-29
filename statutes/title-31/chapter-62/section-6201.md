@@ -5,13 +5,13 @@ usc_section: "6201"
 chapter: 62
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 6201"
-generated_at: "2026-03-29T00:31:52.652Z"
+generated_at: "2026-03-29T02:14:14.108Z"
 ---
 
 # § 6201. Definitions
 
 As used in this chapter, the term—
 
-  (1) “Director” means the Director of the Office of Management and Budget;
-  (2) “State” means any State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands, the Government of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands; and
-  (3) “municipality” means any subcounty unit of general local government that received Federal assistance in the fiscal year that is the subject of the report.
+  - **(1)** “Director” means the Director of the Office of Management and Budget;
+  - **(2)** “State” means any State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands, the Government of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands; and
+  - **(3)** “municipality” means any subcounty unit of general local government that received Federal assistance in the fiscal year that is the subject of the report.

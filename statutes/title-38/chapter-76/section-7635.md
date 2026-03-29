@@ -5,12 +5,12 @@ usc_section: "7635"
 chapter: 76
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 7635"
-generated_at: "2026-03-29T00:32:17.344Z"
+generated_at: "2026-03-29T02:14:50.489Z"
 ---
 
 # § 7635. Service in other agencies
 
-(a) The Secretary, with the consent of the participant or individual involved and the consent of the head of the department or agency involved, may permit—
-  (1) a period of obligated service required under this chapter to be performed in the Veterans Health Administration to be performed in another Federal department or agency or in the Armed Forces in lieu of performance of such service in the Veterans Health Administration; and
-  (2) a period of obligated service required to be performed in another Federal department or agency or in the Armed Forces under another Federal health personnel educational assistance program to be performed in the Veterans Health Administration.
-(b) This section shall be carried out in cooperation with the heads of other appropriate departments and agencies.
+- **(a)** The Secretary, with the consent of the participant or individual involved and the consent of the head of the department or agency involved, may permit—
+  - **(1)** a period of obligated service required under this chapter to be performed in the Veterans Health Administration to be performed in another Federal department or agency or in the Armed Forces in lieu of performance of such service in the Veterans Health Administration; and
+  - **(2)** a period of obligated service required to be performed in another Federal department or agency or in the Armed Forces under another Federal health personnel educational assistance program to be performed in the Veterans Health Administration.
+- **(b)** This section shall be carried out in cooperation with the heads of other appropriate departments and agencies.

@@ -5,16 +5,16 @@ usc_section: "3862"
 chapter: 58
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3862"
-generated_at: "2026-03-29T00:29:52.824Z"
+generated_at: "2026-03-29T02:11:53.919Z"
 ---
 
 # § 3862. Responsibilities
 
-(a) Each State technical committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter.
-(b) Each State technical committee shall provide public notice of, and permit public attendance at, meetings considering issues of concern related to carrying out this chapter.
-(c) 
-  (1) The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
-  (2) Each State technical committee shall advise the Secretary in establishing priorities and criteria for the programs in this chapter, including the review of whether local working groups are addressing those priorities.
-(d) 
-  (1) Each State technical committee shall be exempt from chapter 10 of title 5.
-  (2) For purposes of chapter 10 of title 5, any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+- **(a)** Each State technical committee established under section 3861 of this title shall meet regularly to provide information, analysis, and recommendations to appropriate officials of the Department of Agriculture who are charged with implementing the conservation provisions of this chapter.
+- **(b)** Each State technical committee shall provide public notice of, and permit public attendance at, meetings considering issues of concern related to carrying out this chapter.
+- **(c)**
+  - **(1)** The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
+  - **(2)** Each State technical committee shall advise the Secretary in establishing priorities and criteria for the programs in this chapter, including the review of whether local working groups are addressing those priorities.
+- **(d)**
+  - **(1)** Each State technical committee shall be exempt from chapter 10 of title 5.
+  - **(2)** For purposes of chapter 10 of title 5, any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.

@@ -5,23 +5,23 @@ usc_section: "183"
 chapter: 5
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 183"
-generated_at: "2026-03-29T00:06:10.897Z"
+generated_at: "2026-03-29T02:09:53.660Z"
 ---
 
 # § 183. Written history of the House of Representatives
 
-(a) Subject to available funding and in accordance with the requirements of this section and section 183a of this title , the Librarian of Congress shall prepare, print, distribute, and arrange for the funding of, a new and complete written history of the House of Representatives, in consultation with the Committee on House Administration. In preparing this written history, the Librarian of Congress shall consult, commission, or engage the services or participation of, eminent historians, Members, and former Members of the House of Representatives.
-(b) In carrying out subsection (a), the Librarian of Congress shall take into account the following:
-  (1) The history should be an illustrated, narrative history of the House of Representatives, organized chronologically.
-  (2) The history’s intended audience is the general reader, as well as Members of Congress and their staffs.
-  (3) The history should include a discussion of the First and Second Continental Congresses and the Constitutional Convention, especially with regard to their roles in creating the House of Representatives.
-(c) 
-  (1) The Librarian of Congress shall arrange for the printing of the history.
-  (2) The printing may be performed—
-    (A) by the Director of the Government Publishing Office pursuant to the provisions of chapter 5 of title 44;
-    (B) under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e), and a publisher in the private sector; or
-    (C) under subparagraphs (A) and (B).
-  (3) Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
-  (4) To the extent that the history is printed by the Director of the Government Publishing Office, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Publishing Office’s congressional allotment for printing and binding.
-(d) The Librarian of Congress shall make the history available for sale to the public, and shall make available, free of charge, 5 copies to each Member of the House of Representatives and 250 copies to the Senate.
-(e) The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.
+- **(a)** Subject to available funding and in accordance with the requirements of this section and section 183a of this title , the Librarian of Congress shall prepare, print, distribute, and arrange for the funding of, a new and complete written history of the House of Representatives, in consultation with the Committee on House Administration. In preparing this written history, the Librarian of Congress shall consult, commission, or engage the services or participation of, eminent historians, Members, and former Members of the House of Representatives.
+- **(b)** In carrying out subsection (a), the Librarian of Congress shall take into account the following:
+  - **(1)** The history should be an illustrated, narrative history of the House of Representatives, organized chronologically.
+  - **(2)** The history’s intended audience is the general reader, as well as Members of Congress and their staffs.
+  - **(3)** The history should include a discussion of the First and Second Continental Congresses and the Constitutional Convention, especially with regard to their roles in creating the House of Representatives.
+- **(c)**
+  - **(1)** The Librarian of Congress shall arrange for the printing of the history.
+  - **(2)** The printing may be performed—
+    - **(A)** by the Director of the Government Publishing Office pursuant to the provisions of chapter 5 of title 44;
+    - **(B)** under a cooperative arrangement among the Librarian of Congress, a private funding source obtained pursuant to subsection (e), and a publisher in the private sector; or
+    - **(C)** under subparagraphs (A) and (B).
+  - **(3)** Any arrangement under paragraph (2) shall include terms for dissemination of excerpts of the history over the Internet via facilities maintained by the United States Government.
+  - **(4)** To the extent that the history is printed by the Director of the Government Publishing Office, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Publishing Office’s congressional allotment for printing and binding.
+- **(d)** The Librarian of Congress shall make the history available for sale to the public, and shall make available, free of charge, 5 copies to each Member of the House of Representatives and 250 copies to the Senate.
+- **(e)** The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.

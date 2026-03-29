@@ -5,7 +5,7 @@ usc_section: "144"
 chapter: 7
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 144"
-generated_at: "2026-03-29T00:28:57.911Z"
+generated_at: "2026-03-29T02:10:16.703Z"
 ---
 
 # §§ 141 to 144. Repealed. Pub. L. 85–36, title I, § 111 , May 23, 1957 , 71 Stat. 35

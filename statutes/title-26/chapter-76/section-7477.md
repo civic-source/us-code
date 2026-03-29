@@ -5,13 +5,13 @@ usc_section: "7477"
 chapter: 76
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7477"
-generated_at: "2026-03-29T00:31:21.093Z"
+generated_at: "2026-03-29T02:14:01.389Z"
 ---
 
 # § 7477. Declaratory judgments relating to value of certain gifts
 
-(a) In a case of an actual controversy involving a determination by the Secretary of the value of any gift shown on the return of tax imposed by chapter 12 or disclosed on such return or in any statement attached to such return, upon the filing of an appropriate pleading, the Tax Court may make a declaration of the value of such gift. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
-(b) 
-  (1) A pleading may be filed under this section only by the donor.
-  (2) The court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted all available administrative remedies within the Internal Revenue Service.
-  (3) If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
+- **(a)** In a case of an actual controversy involving a determination by the Secretary of the value of any gift shown on the return of tax imposed by chapter 12 or disclosed on such return or in any statement attached to such return, upon the filing of an appropriate pleading, the Tax Court may make a declaration of the value of such gift. Any such declaration shall have the force and effect of a decision of the Tax Court and shall be reviewable as such.
+- **(b)**
+  - **(1)** A pleading may be filed under this section only by the donor.
+  - **(2)** The court shall not issue a declaratory judgment or decree under this section in any proceeding unless it determines that the petitioner has exhausted all available administrative remedies within the Internal Revenue Service.
+  - **(3)** If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.

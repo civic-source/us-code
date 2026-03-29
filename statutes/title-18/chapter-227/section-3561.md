@@ -5,17 +5,17 @@ usc_section: "3561"
 chapter: 227
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3561"
-generated_at: "2026-03-29T00:30:15.740Z"
+generated_at: "2026-03-29T02:12:02.491Z"
 ---
 
 # § 3561. Sentence of probation
 
-(a) A defendant who has been found guilty of an offense may be sentenced to a term of probation unless—
-  (1) the offense is a Class A or Class B felony and the defendant is an individual;
-  (2) the offense is an offense for which probation has been expressly precluded; or
-  (3) the defendant is sentenced at the same time to a term of imprisonment for the same or a different offense that is not a petty offense.
-(b) A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
-(c) The authorized terms of probation are—
-  (1) for a felony, not less than one nor more than five years;
-  (2) for a misdemeanor, not more than five years; and
-  (3) for an infraction, not more than one year.
+- **(a)** A defendant who has been found guilty of an offense may be sentenced to a term of probation unless—
+  - **(1)** the offense is a Class A or Class B felony and the defendant is an individual;
+  - **(2)** the offense is an offense for which probation has been expressly precluded; or
+  - **(3)** the defendant is sentenced at the same time to a term of imprisonment for the same or a different offense that is not a petty offense.
+- **(b)** A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
+- **(c)** The authorized terms of probation are—
+  - **(1)** for a felony, not less than one nor more than five years;
+  - **(2)** for a misdemeanor, not more than five years; and
+  - **(3)** for an infraction, not more than one year.

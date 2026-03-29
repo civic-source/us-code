@@ -5,16 +5,16 @@ usc_section: "2252B"
 chapter: 110
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2252B"
-generated_at: "2026-03-29T00:30:15.696Z"
+generated_at: "2026-03-29T02:12:02.439Z"
 ---
 
 # § 2252B. Misleading domain names on the Internet
 
-(a) Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a person into viewing material constituting obscenity shall be fined under this title or imprisoned not more than 2 years, or both.
-(b) Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a minor into viewing material that is harmful to minors on the Internet shall be fined under this title or imprisoned not more than 10 years, or both.
-(c) For the purposes of this section, a domain name that includes a word or words to indicate the sexual content of the site, such as “sex” or “porn”, is not misleading.
-(d) For the purposes of this section, the term “material that is harmful to minors” means any communication, consisting of nudity, sex, or excretion, that, taken as a whole and with reference to its context—
-  (1) predominantly appeals to a prurient interest of minors;
-  (2) is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors; and
-  (3) lacks serious literary, artistic, political, or scientific value for minors.
-(e) For the purposes of subsection (d), the term “sex” means acts of masturbation, sexual intercourse, or physcial 1 1 So in original. Probably should be “physical”. contact with a person’s genitals, or the condition of human male or female genitals when in a state of sexual stimulation or arousal.
+- **(a)** Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a person into viewing material constituting obscenity shall be fined under this title or imprisoned not more than 2 years, or both.
+- **(b)** Whoever knowingly uses a misleading domain name on the Internet with the intent to deceive a minor into viewing material that is harmful to minors on the Internet shall be fined under this title or imprisoned not more than 10 years, or both.
+- **(c)** For the purposes of this section, a domain name that includes a word or words to indicate the sexual content of the site, such as “sex” or “porn”, is not misleading.
+- **(d)** For the purposes of this section, the term “material that is harmful to minors” means any communication, consisting of nudity, sex, or excretion, that, taken as a whole and with reference to its context—
+  - **(1)** predominantly appeals to a prurient interest of minors;
+  - **(2)** is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors; and
+  - **(3)** lacks serious literary, artistic, political, or scientific value for minors.
+- **(e)** For the purposes of subsection (d), the term “sex” means acts of masturbation, sexual intercourse, or physcial 1 1 So in original. Probably should be “physical”. contact with a person’s genitals, or the condition of human male or female genitals when in a state of sexual stimulation or arousal.

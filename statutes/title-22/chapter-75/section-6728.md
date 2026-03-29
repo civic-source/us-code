@@ -5,19 +5,19 @@ usc_section: "6728"
 chapter: 75
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6728"
-generated_at: "2026-03-29T00:30:33.976Z"
+generated_at: "2026-03-29T02:12:40.401Z"
 ---
 
 # § 6728. Annual report on inspections
 
-(a) Not later than one year after October 21, 1998 , and annually thereafter, the President shall submit a report in classified and unclassified form to the appropriate congressional committees on inspections made under the Convention during the preceding year.
-(b) Each report shall contain the following information for the reporting period:
-  (1) The name of each company or entity subject to the jurisdiction of the United States reporting data pursuant to subchapter III of this chapter.
-  (2) The number of inspections under the Convention conducted on the territory of the United States.
-  (3) The number and identity of inspectors conducting any inspection described in paragraph (2) and the number of inspectors barred from inspection by the United States.
-  (4) The cost to the United States for each inspection described in paragraph (2).
-  (5) The total costs borne by United States business firms in the course of inspections described in paragraph (2).
-  (6) A description of the circumstances surrounding inspections described in paragraph (2), including instances of possible industrial espionage and misconduct of inspectors.
-  (7) The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.
-  (8) A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.
-(c) The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
+- **(a)** Not later than one year after October 21, 1998 , and annually thereafter, the President shall submit a report in classified and unclassified form to the appropriate congressional committees on inspections made under the Convention during the preceding year.
+- **(b)** Each report shall contain the following information for the reporting period:
+  - **(1)** The name of each company or entity subject to the jurisdiction of the United States reporting data pursuant to subchapter III of this chapter.
+  - **(2)** The number of inspections under the Convention conducted on the territory of the United States.
+  - **(3)** The number and identity of inspectors conducting any inspection described in paragraph (2) and the number of inspectors barred from inspection by the United States.
+  - **(4)** The cost to the United States for each inspection described in paragraph (2).
+  - **(5)** The total costs borne by United States business firms in the course of inspections described in paragraph (2).
+  - **(6)** A description of the circumstances surrounding inspections described in paragraph (2), including instances of possible industrial espionage and misconduct of inspectors.
+  - **(7)** The identity of parties claiming loss of trade secrets, the circumstances surrounding those losses, and the efforts taken by the United States Government to redress those losses.
+  - **(8)** A description of instances where inspections under the Convention outside the United States have been disrupted or delayed.
+- **(c)** The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.

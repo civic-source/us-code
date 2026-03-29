@@ -5,7 +5,7 @@ usc_section: "1093"
 chapter: 22
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1093"
-generated_at: "2026-03-29T00:29:41.678Z"
+generated_at: "2026-03-29T02:11:34.149Z"
 ---
 
 # § 1093. Registration certificates for marks on principal and supplemental registers to be different

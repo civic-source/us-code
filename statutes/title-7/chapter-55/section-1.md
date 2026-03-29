@@ -5,27 +5,27 @@ usc_section: "1"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-29T00:28:58.138Z"
+generated_at: "2026-03-29T02:10:16.960Z"
 ---
 
 # § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers
 
-(a) The purpose of this section is to ensure compilation and public disclosure of data to assess and hold the Department of Agriculture accountable for the nondiscriminatory participation of socially disadvantaged farmers and ranchers in programs of the Department.
-(b) In this section, the term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2003(e) of this title .
-(c) 
-  (1) For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
-    (A) raw numbers of applicants and participants by race, ethnicity, and gender, subject to appropriate privacy protections, as determined by the Secretary; and
-    (B) the application and participation rate, by race, ethnicity, and gender, as a percentage of the total participation rate of all agricultural producers and landowners.
-  (2) The heads of the agencies of the Department of Agriculture shall collect and transmit to the Secretary any data, including data on race, gender, and ethnicity, that the Secretary determines to be necessary to carry out paragraph (1).
-  (3) Using the technologies and systems of the National Agricultural Statistics Service, the Secretary shall compile and present the data compiled under paragraph (1) for each program described in that paragraph in a manner that includes the raw numbers and participation rates for—
-    (A) the entire United States;
-    (B) each State; and
-    (C) each county in each State.
-  (4) The Secretary shall maintain and make readily available to the public, via website and otherwise in electronic and paper form, the report described in paragraph (3).
-(d) 
-  (1) In carrying out this section, the Secretary shall not disclose the names or individual data of any program participant.
-  (2) The data under this section shall be used exclusively for the purposes described in subsection (a).
-  (3) Except as otherwise provided, the data under this section shall not be used for the evaluation of individual applications for assistance.
-(e) In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
-  (1) the date, place, and subject of the request; and
-  (2) the action taken, not taken, or recommended to the producer or landowner.
+- **(a)** The purpose of this section is to ensure compilation and public disclosure of data to assess and hold the Department of Agriculture accountable for the nondiscriminatory participation of socially disadvantaged farmers and ranchers in programs of the Department.
+- **(b)** In this section, the term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2003(e) of this title .
+- **(c)**
+  - **(1)** For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
+    - **(A)** raw numbers of applicants and participants by race, ethnicity, and gender, subject to appropriate privacy protections, as determined by the Secretary; and
+    - **(B)** the application and participation rate, by race, ethnicity, and gender, as a percentage of the total participation rate of all agricultural producers and landowners.
+  - **(2)** The heads of the agencies of the Department of Agriculture shall collect and transmit to the Secretary any data, including data on race, gender, and ethnicity, that the Secretary determines to be necessary to carry out paragraph (1).
+  - **(3)** Using the technologies and systems of the National Agricultural Statistics Service, the Secretary shall compile and present the data compiled under paragraph (1) for each program described in that paragraph in a manner that includes the raw numbers and participation rates for—
+    - **(A)** the entire United States;
+    - **(B)** each State; and
+    - **(C)** each county in each State.
+  - **(4)** The Secretary shall maintain and make readily available to the public, via website and otherwise in electronic and paper form, the report described in paragraph (3).
+- **(d)**
+  - **(1)** In carrying out this section, the Secretary shall not disclose the names or individual data of any program participant.
+  - **(2)** The data under this section shall be used exclusively for the purposes described in subsection (a).
+  - **(3)** Except as otherwise provided, the data under this section shall not be used for the evaluation of individual applications for assistance.
+- **(e)** In any case in which a current or prospective producer or landowner, in person or in writing, requests from the Farm Service Agency, the Natural Resources Conservation Service, or an agency of the Rural Development Mission Area any benefit or service offered by the Department to agricultural producers or landowners, the Secretary shall issue, on the date of the request, a receipt to the producer or landowner that contains—
+  - **(1)** the date, place, and subject of the request; and
+  - **(2)** the action taken, not taken, or recommended to the producer or landowner.

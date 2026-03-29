@@ -5,7 +5,7 @@ usc_section: "1339b"
 chapter: 35
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1339b"
-generated_at: "2026-03-29T00:28:57.980Z"
+generated_at: "2026-03-29T02:10:16.772Z"
 ---
 
 # § 1339b. Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat

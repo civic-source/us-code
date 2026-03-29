@@ -5,7 +5,7 @@ usc_section: "5031"
 chapter: 403
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 5031"
-generated_at: "2026-03-29T00:30:15.764Z"
+generated_at: "2026-03-29T02:12:02.517Z"
 ---
 
 # § 5031. Definitions

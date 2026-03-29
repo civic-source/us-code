@@ -5,7 +5,7 @@ usc_section: "258"
 chapter: 9
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 258"
-generated_at: "2026-03-29T00:31:27.562Z"
+generated_at: "2026-03-29T02:14:09.367Z"
 ---
 
 # § 258. Reliance on past administrative rulings, etc.

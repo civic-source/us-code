@@ -5,7 +5,7 @@ usc_section: "1638c"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1638c"
-generated_at: "2026-03-29T00:30:38.691Z"
+generated_at: "2026-03-29T02:13:20.895Z"
 ---
 
 # § 1638c. Contracts for personal services in Indian Health Service facilities

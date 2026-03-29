@@ -5,12 +5,12 @@ usc_section: "2876"
 chapter: 169
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2876"
-generated_at: "2026-03-29T00:20:53.098Z"
+generated_at: "2026-03-29T02:10:45.160Z"
 ---
 
 # § 2876. Rental guarantees
 
 The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—
 
-  (1) the occupancy of such units at levels specified in the agreements; or
-  (2) rental income derived from rental of such units at levels specified in the agreements.
+  - **(1)** the occupancy of such units at levels specified in the agreements; or
+  - **(2)** rental income derived from rental of such units at levels specified in the agreements.

@@ -5,12 +5,12 @@ usc_section: "5501"
 chapter: 75
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5501"
-generated_at: "2026-03-29T00:29:52.850Z"
+generated_at: "2026-03-29T02:11:53.952Z"
 ---
 
 # § 5501. Purpose
 
 It is the purpose of this chapter—
 
-  (1) to implement the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993 ; and
-  (2) to establish a system of permitting, reporting, and regulation for vessels of the United States fishing on the high seas.
+  - **(1)** to implement the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, adopted by the Conference of the Food and Agriculture Organization of the United Nations on November 24, 1993 ; and
+  - **(2)** to establish a system of permitting, reporting, and regulation for vessels of the United States fishing on the high seas.

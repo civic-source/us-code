@@ -5,16 +5,16 @@ usc_section: "2242a"
 chapter: 55
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2242a"
-generated_at: "2026-03-29T00:28:58.133Z"
+generated_at: "2026-03-29T02:10:16.954Z"
 ---
 
 # § 2242a. User fees for reports, publications, and software
 
-(a) The Secretary of Agriculture may—
-  (1) furnish, on request, copies of software programs, pamphlets, reports, or other publications, regardless of their form, including electronic publications, prepared in the Department of Agriculture in carrying out any of its missions or programs; and
-  (2) charge such fees therefor as the Secretary determines are reasonable.
-(b) The imposition of such charges shall be consistent with section 9701 of title 31 .
-(c) All moneys received in payment for work or services performed, or for software programs, pamphlets, reports, or other publications provided, under this section—
-  (1) shall be available until expended to pay directly the costs of such work, services, software programs, pamphlets, reports, or publications; and
-  (2) may be credited to appropriations or funds that incur such costs.
-(d) Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments. Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.
+- **(a)** The Secretary of Agriculture may—
+  - **(1)** furnish, on request, copies of software programs, pamphlets, reports, or other publications, regardless of their form, including electronic publications, prepared in the Department of Agriculture in carrying out any of its missions or programs; and
+  - **(2)** charge such fees therefor as the Secretary determines are reasonable.
+- **(b)** The imposition of such charges shall be consistent with section 9701 of title 31 .
+- **(c)** All moneys received in payment for work or services performed, or for software programs, pamphlets, reports, or other publications provided, under this section—
+  - **(1)** shall be available until expended to pay directly the costs of such work, services, software programs, pamphlets, reports, or publications; and
+  - **(2)** may be credited to appropriations or funds that incur such costs.
+- **(d)** Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments. Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.

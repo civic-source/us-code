@@ -5,10 +5,10 @@ usc_section: "1795"
 chapter: 88
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1795"
-generated_at: "2026-03-29T00:20:53.008Z"
+generated_at: "2026-03-29T02:10:45.051Z"
 ---
 
 # § 1795. Parent partnerships with child development centers
 
-(a) The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
-(b) The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
+- **(a)** The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
+- **(b)** The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.

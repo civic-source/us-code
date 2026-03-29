@@ -5,10 +5,10 @@ usc_section: "50116"
 chapter: 501
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50116"
-generated_at: "2026-03-29T00:33:19.401Z"
+generated_at: "2026-03-29T02:16:19.255Z"
 ---
 
 # § 50116. Commercial technology transfer program
 
-(a) The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community, while protecting national security.
-(b) In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of December 30, 2005 .
+- **(a)** The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community, while protecting national security.
+- **(b)** In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of December 30, 2005 .

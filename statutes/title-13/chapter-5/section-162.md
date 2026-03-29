@@ -5,7 +5,7 @@ usc_section: "162"
 chapter: 5
 current_through: "PL 119-73"
 classification: "13 U.S.C. § 162"
-generated_at: "2026-03-29T00:06:54.839Z"
+generated_at: "2026-03-29T02:11:22.194Z"
 ---
 
 # [§ 162. Repealed. Pub. L. 85–207, § 13 , Aug. 28, 1957 , 71 Stat. 483 ]

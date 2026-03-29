@@ -5,7 +5,7 @@ usc_section: "6942"
 chapter: 77
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6942"
-generated_at: "2026-03-29T00:30:33.979Z"
+generated_at: "2026-03-29T02:12:40.405Z"
 ---
 
 # § 6942. Purpose

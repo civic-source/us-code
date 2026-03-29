@@ -5,7 +5,7 @@ usc_section: "6501"
 chapter: 65
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6501"
-generated_at: "2026-03-29T00:32:20.558Z"
+generated_at: "2026-03-29T02:14:58.796Z"
 ---
 
 # § 6501. Definition

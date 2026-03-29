@@ -5,17 +5,17 @@ usc_section: "1680d"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1680d"
-generated_at: "2026-03-29T00:30:38.706Z"
+generated_at: "2026-03-29T02:13:20.909Z"
 ---
 
 # § 1680d. Infant and maternal mortality; fetal alcohol syndrome
 
 By no later than January 1, 1990 , the Secretary shall develop and begin implementation of a plan to achieve the following objectives by January 1, 1994 :
 
-  (1) reduction of the rate of Indian infant mortality in each area office of the Service to the lower of—
-    (A) twelve deaths per one thousand live births, or
-    (B) the rate of infant mortality applicable to the United States population as a whole;
-  (2) reduction of the rate of maternal mortality in each area office of the Service to the lower of—
-    (A) five deaths per one hundred thousand live births, or
-    (B) the rate of maternal mortality applicable to the United States population as a whole; and
-  (3) reduction of the rate of fetal alcohol syndrome among Indians served by, or on behalf of, the Service to one per one thousand live births.
+  - **(1)** reduction of the rate of Indian infant mortality in each area office of the Service to the lower of—
+    - **(A)** twelve deaths per one thousand live births, or
+    - **(B)** the rate of infant mortality applicable to the United States population as a whole;
+  - **(2)** reduction of the rate of maternal mortality in each area office of the Service to the lower of—
+    - **(A)** five deaths per one hundred thousand live births, or
+    - **(B)** the rate of maternal mortality applicable to the United States population as a whole; and
+  - **(3)** reduction of the rate of fetal alcohol syndrome among Indians served by, or on behalf of, the Service to one per one thousand live births.

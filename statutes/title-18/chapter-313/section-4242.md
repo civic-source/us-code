@@ -5,13 +5,13 @@ usc_section: "4242"
 chapter: 313
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 4242"
-generated_at: "2026-03-29T00:30:15.760Z"
+generated_at: "2026-03-29T02:12:02.514Z"
 ---
 
 # § 4242. Determination of the existence of insanity at the time of the offense
 
-(a) Upon the filing of a notice, as provided in Rule 12.2 of the Federal Rules of Criminal Procedure, that the defendant intends to rely on the defense of insanity, the court, upon motion of the attorney for the Government, shall order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
-(b) If the issue of insanity is raised by notice as provided in Rule 12.2 of the Federal Rules of Criminal Procedure on motion of the defendant or of the attorney for the Government, or on the court’s own motion, the jury shall be instructed to find, or, in the event of a nonjury trial, the court shall find the defendant—
-  (1) guilty;
-  (2) not guilty; or
-  (3) not guilty only by reason of insanity.
+- **(a)** Upon the filing of a notice, as provided in Rule 12.2 of the Federal Rules of Criminal Procedure, that the defendant intends to rely on the defense of insanity, the court, upon motion of the attorney for the Government, shall order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
+- **(b)** If the issue of insanity is raised by notice as provided in Rule 12.2 of the Federal Rules of Criminal Procedure on motion of the defendant or of the attorney for the Government, or on the court’s own motion, the jury shall be instructed to find, or, in the event of a nonjury trial, the court shall find the defendant—
+  - **(1)** guilty;
+  - **(2)** not guilty; or
+  - **(3)** not guilty only by reason of insanity.

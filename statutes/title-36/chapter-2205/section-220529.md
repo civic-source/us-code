@@ -1,0 +1,27 @@
+---
+title: "Section 220529 - Arbitration of corporation determinations"
+usc_title: 36
+usc_section: "220529"
+chapter: 2205
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 220529"
+generated_at: "2026-03-29T02:14:41.383Z"
+---
+
+# § 220529. Arbitration of corporation determinations
+
+- **(a)** A party aggrieved by a determination of the corporation under section 220527 or 220528 of this title may obtain review by the arbitration and mediation provider designated by the corporation under section 220522(a)(4).
+- **(b)**
+  - **(1)** A demand for arbitration must be submitted within 30 days after the determination of the corporation.
+  - **(2)** On receipt of a demand for arbitration, the Association shall serve notice on the parties to the arbitration and on the corporation, and shall immediately proceed with arbitration according to the commercial rules of the Association in effect at the time the demand is filed, except that—
+    - **(A)** the arbitration panel shall consist of at least 3 arbitrators, unless the parties to the proceeding agree to a lesser number;
+    - **(B)** the arbitration hearing shall take place at a site selected by the Association, unless the parties to the proceeding agree to the use of another site; and
+    - **(C)** the arbitration hearing shall be open to the public.
+  - **(3)** A decision by the arbitrators shall be by majority vote unless the concurrence of all arbitrators is expressly required by the contesting parties.
+  - **(4)** Each party may be represented by counsel or by any other authorized representative at the arbitration proceeding.
+  - **(5)** The parties may offer any evidence they desire and shall produce any additional evidence the arbitrators believe is necessary to an understanding and determination of the dispute. The arbitrators shall be the sole judges of the relevancy and materiality of the evidence offered. Conformity to legal rules of evidence is not necessary.
+- **(c)** The arbitrators may settle a dispute arising under this chapter before making a final award, if agreed to by the parties and achieved in a manner not inconsistent with the constitution and bylaws of the corporation.
+- **(d)** Final decision of the arbitrators is binding on the parties if the award is not inconsistent with the constitution and bylaws of the corporation.
+- **(e)**
+  - **(1)** At any time before a final decision is made, the hearings may be reopened by the arbitrators on their own motion or on the motion of a party.
+  - **(2)** If the reopening is based on the motion of a party, and if the reopening would result in the arbitrators’ decision being delayed beyond the specific period agreed to at the beginning of the arbitration proceedings, all parties to the decision must agree to reopen the hearings.

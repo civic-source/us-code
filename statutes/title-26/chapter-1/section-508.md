@@ -5,35 +5,35 @@ usc_section: "508"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 508"
-generated_at: "2026-03-29T00:31:20.773Z"
+generated_at: "2026-03-29T02:14:01.000Z"
 ---
 
 # § 508. Special rules with respect to section 501(c)(3) organizations
 
-(a) Except as provided in subsection (c), an organization organized after October 9, 1969 , shall not be treated as an organization described in section 501(c)(3)—
-  (1) unless it has given notice to the Secretary in such manner as the Secretary may by regulations prescribe, that it is applying for recognition of such status, or
-  (2) for any period before the giving of such notice, if such notice is given after the time prescribed by the Secretary by regulations for giving notice under this subsection.
-(b) Except as provided in subsection (c), any organization (including an organization in existence on October 9, 1969 ) which is described in section 501(c)(3) and which does not notify the Secretary, at such time and in such manner as the Secretary may by regulations prescribe, that it is not a private foundation shall be presumed to be a private foundation.
-(c) 
-  (1) Subsections (a) and (b) shall not apply to—
-    (A) churches, their integrated auxiliaries, and conventions or associations of churches, or
-    (B) any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000.
-  (2) The Secretary may by regulations exempt (to the extent and subject to such conditions as may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
-    (A) educational organizations described in section 170(b)(1)(A)(ii), and
-    (B) any other class of organizations with respect to which the Secretary determines that full compliance with the provisions of subsections (a) and (b) is not necessary to the efficient administration of the provisions of this title relating to private foundations.
-(d) 
-  (1) No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
-    (A) by any person after notification is made under section 507(a), or
-    (B) by a substantial contributor (as defined in section 507(d)(2)) in his taxable year which includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
-  (2) No gift or bequest made to an organization shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
-    (A) to a private foundation or a trust described in section 4947 in a taxable year for which it fails to meet the requirements of subsection (e) (determined without regard to subsection (e)(2)), or
-    (B) to any organization in a period for which it is not treated as an organization described in section 501(c)(3) by reason of subsection (a).
-  (3) Paragraph (1) shall not apply if the entire amount of the unpaid portion of the tax imposed by section 507(c) is abated by the Secretary under section 507(g).
-(e) 
-  (1) A private foundation shall not be exempt from taxation under section 501(a) unless its governing instrument includes provisions the effects of which are—
-    (A) to require its income for each taxable year to be distributed at such time and in such manner as not to subject the foundation to tax under section 4942, and
-    (B) to prohibit the foundation from engaging in any act of self-dealing (as defined in section 4941(d)), from retaining any excess business holdings (as defined in section 4943(c)), from making any investments in such manner as to subject the foundation to tax under section 4944, and from making any taxable expenditures (as defined in section 4945(d)).
-  (2) In the case of any organization organized before January 1, 1970 , paragraph (1) shall not apply—
-    (A) to any period after December 31, 1971 , during the pendency of any judicial proceeding begun before January 1, 1972 , by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of paragraph (1), and
-    (B) to any period after the termination of any judicial proceeding described in subparagraph (A) during which its governing instrument or any other instrument does not permit it to meet the requirements of paragraph (1).
-(f) A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide) whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.
+- **(a)** Except as provided in subsection (c), an organization organized after October 9, 1969 , shall not be treated as an organization described in section 501(c)(3)—
+  - **(1)** unless it has given notice to the Secretary in such manner as the Secretary may by regulations prescribe, that it is applying for recognition of such status, or
+  - **(2)** for any period before the giving of such notice, if such notice is given after the time prescribed by the Secretary by regulations for giving notice under this subsection.
+- **(b)** Except as provided in subsection (c), any organization (including an organization in existence on October 9, 1969 ) which is described in section 501(c)(3) and which does not notify the Secretary, at such time and in such manner as the Secretary may by regulations prescribe, that it is not a private foundation shall be presumed to be a private foundation.
+- **(c)**
+  - **(1)** Subsections (a) and (b) shall not apply to—
+    - **(A)** churches, their integrated auxiliaries, and conventions or associations of churches, or
+    - **(B)** any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000.
+  - **(2)** The Secretary may by regulations exempt (to the extent and subject to such conditions as may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
+    - **(A)** educational organizations described in section 170(b)(1)(A)(ii), and
+    - **(B)** any other class of organizations with respect to which the Secretary determines that full compliance with the provisions of subsections (a) and (b) is not necessary to the efficient administration of the provisions of this title relating to private foundations.
+- **(d)**
+  - **(1)** No gift or bequest made to an organization upon which the tax provided by section 507(c) has been imposed shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
+    - **(A)** by any person after notification is made under section 507(a), or
+    - **(B)** by a substantial contributor (as defined in section 507(d)(2)) in his taxable year which includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
+  - **(2)** No gift or bequest made to an organization shall be allowed as a deduction under section 170, 545(b)(2), 642(c), 2055, 2106(a)(2), or 2522, if such gift or bequest is made—
+    - **(A)** to a private foundation or a trust described in section 4947 in a taxable year for which it fails to meet the requirements of subsection (e) (determined without regard to subsection (e)(2)), or
+    - **(B)** to any organization in a period for which it is not treated as an organization described in section 501(c)(3) by reason of subsection (a).
+  - **(3)** Paragraph (1) shall not apply if the entire amount of the unpaid portion of the tax imposed by section 507(c) is abated by the Secretary under section 507(g).
+- **(e)**
+  - **(1)** A private foundation shall not be exempt from taxation under section 501(a) unless its governing instrument includes provisions the effects of which are—
+    - **(A)** to require its income for each taxable year to be distributed at such time and in such manner as not to subject the foundation to tax under section 4942, and
+    - **(B)** to prohibit the foundation from engaging in any act of self-dealing (as defined in section 4941(d)), from retaining any excess business holdings (as defined in section 4943(c)), from making any investments in such manner as to subject the foundation to tax under section 4944, and from making any taxable expenditures (as defined in section 4945(d)).
+  - **(2)** In the case of any organization organized before January 1, 1970 , paragraph (1) shall not apply—
+    - **(A)** to any period after December 31, 1971 , during the pendency of any judicial proceeding begun before January 1, 1972 , by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument in order to meet the requirements of paragraph (1), and
+    - **(B)** to any period after the termination of any judicial proceeding described in subparagraph (A) during which its governing instrument or any other instrument does not permit it to meet the requirements of paragraph (1).
+- **(f)** A sponsoring organization (as defined in section 4966(d)(1)) shall give notice to the Secretary (in such manner as the Secretary may provide) whether such organization maintains or intends to maintain donor advised funds (as defined in section 4966(d)(2)) and the manner in which such organization plans to operate such funds.

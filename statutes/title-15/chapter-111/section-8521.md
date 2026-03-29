@@ -5,57 +5,57 @@ usc_section: "8521"
 chapter: 111
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8521"
-generated_at: "2026-03-29T00:29:41.947Z"
+generated_at: "2026-03-29T02:11:34.451Z"
 ---
 
 # § 8521. Weather and climate information in agriculture
 
-(a) Congress finds that—
-  (1) agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
-  (2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
-  (3) agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
-  (4) efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
-(b) It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.
-(c) The Under Secretary, acting through the Director of the National Weather Service and the heads of such other programs of the National Oceanic and Atmospheric Administration as the Under Secretary considers appropriate, shall—
-  (1) collect and utilize information in order to make usable, reliable, and timely foundational forecasts of subseasonal and seasonal temperature and precipitation;
-  (2) leverage existing research and models from the weather enterprise to improve the forecasts under paragraph (1);
-  (3) determine and provide information on how the forecasted conditions under paragraph (1) may impact—
-    (A) the number and severity of droughts, fires, tornadoes, hurricanes, floods, heat waves, coastal inundation, winter storms, high impact weather, or other relevant natural disasters;
-    (B) snowpack; and
-    (C) sea ice conditions; and
-  (4) develop an Internet clearinghouse to provide the forecasts under paragraph (1) and the information under paragraphs (1) and (3) on both national and regional levels.
-(d) The Director of the National Weather Service shall provide the forecasts under paragraph (1) of subsection (c) and the information on their impacts under paragraph (3) of such subsection to the public, including public and private entities engaged in planning and preparedness, such as National Weather Service Core partners at the Federal, regional, State, tribal, and local levels of government.
-(e) The Under Secretary shall build upon existing forecasting and assessment programs and partnerships, including—
-  (1) by designating research and monitoring activities related to subseasonal and seasonal forecasts as a priority in one or more solicitations of the Cooperative Institutes of the Office of Oceanic and Atmospheric Research;
-  (2) by contributing to the interagency Earth System Prediction Capability; and
-  (3) by consulting with the Secretary of Defense and the Secretary of Homeland Security to determine the highest priority subseasonal and seasonal forecast needs to enhance national security.
-(f) 
-  (1) The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
-  (2) For each State that requests assistance under this subsection, the Under Secretary may—
-    (A) provide funds to support an individual in that State—
-      (i) to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and
-      (ii) to receive the forecasts and information under subsection (c) and disseminate the forecasts and information throughout the State, including to county and tribal governments; and
-    (B) require matching funds of at least 50 percent, from the State, a university, a nongovernmental organization, a trade association, or the private sector.
-  (3) Assistance to an individual State under this subsection shall not exceed $100,000 in a fiscal year.
-(g) Each Federal department and agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
-(h) 
-  (1) Not later than 18 months after April 18, 2017 , the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including—
-    (A) an analysis of the 1 1 So in original. The word “the” probably should not appear. how information from the National Oceanic and Atmospheric Administration on subseasonal and seasonal forecasts, as provided under subsection (c), is utilized in public planning and preparedness;
-    (B) specific plans and goals for the continued development of the subseasonal and seasonal forecasts and related products described in subsection (c); and
-    (C) an identification of research, monitoring, observing, and forecasting requirements to meet the goals described in subparagraph (B).
-  (2) In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
-(i) In this section:
-  (1) The term “foundational forecast” means basic weather observation and forecast data, largely in raw form, before further processing is applied.
-  (2) The term “National Weather Service core partners” means government and nongovernment entities which are directly involved in the preparation or dissemination of, or discussions involving, hazardous weather or other emergency information put out by the National Weather Service.
-  (3) The term “seasonal” means the time range between 3 months and 2 years.
-  (4) The term “State” means a State, a territory, or possession of the United States, including a Commonwealth, or the District of Columbia.
-  (5) The term “subseasonal” means the time range between 2 weeks and 3 months.
-  (6) The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
-  (7) The terms “weather industry” and “weather enterprise” are interchangeable in this section and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
-(j) There are authorized to be appropriated to carry out the activities under this section—
-  (1) $26,500,000 for fiscal year 2019;
-  (2) $27,000,000 for fiscal year 2020;
-  (3) $27,500,000 for fiscal year 2021;
-  (4) $28,000,000 for fiscal year 2022; and
-  (5) $28,500,000 for fiscal year 2023.
-(k) Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.
+- **(a)** Congress finds that—
+  - **(1)** agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
+  - **(2)** the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
+  - **(3)** agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
+  - **(4)** efforts should be made, involving user groups, weather and climate information providers, and Federal and State governments, to expand the use of weather and climate information in agriculture and silviculture.
+- **(b)** It, therefore, is declared to be the policy of Congress that it is in the public interest to maintain an active Federal involvement in providing agricultural and silvicultural weather and climate information and that efforts should be made, among users of this information and among private providers of this information, to improve use of this information.
+- **(c)** The Under Secretary, acting through the Director of the National Weather Service and the heads of such other programs of the National Oceanic and Atmospheric Administration as the Under Secretary considers appropriate, shall—
+  - **(1)** collect and utilize information in order to make usable, reliable, and timely foundational forecasts of subseasonal and seasonal temperature and precipitation;
+  - **(2)** leverage existing research and models from the weather enterprise to improve the forecasts under paragraph (1);
+  - **(3)** determine and provide information on how the forecasted conditions under paragraph (1) may impact—
+    - **(A)** the number and severity of droughts, fires, tornadoes, hurricanes, floods, heat waves, coastal inundation, winter storms, high impact weather, or other relevant natural disasters;
+    - **(B)** snowpack; and
+    - **(C)** sea ice conditions; and
+  - **(4)** develop an Internet clearinghouse to provide the forecasts under paragraph (1) and the information under paragraphs (1) and (3) on both national and regional levels.
+- **(d)** The Director of the National Weather Service shall provide the forecasts under paragraph (1) of subsection (c) and the information on their impacts under paragraph (3) of such subsection to the public, including public and private entities engaged in planning and preparedness, such as National Weather Service Core partners at the Federal, regional, State, tribal, and local levels of government.
+- **(e)** The Under Secretary shall build upon existing forecasting and assessment programs and partnerships, including—
+  - **(1)** by designating research and monitoring activities related to subseasonal and seasonal forecasts as a priority in one or more solicitations of the Cooperative Institutes of the Office of Oceanic and Atmospheric Research;
+  - **(2)** by contributing to the interagency Earth System Prediction Capability; and
+  - **(3)** by consulting with the Secretary of Defense and the Secretary of Homeland Security to determine the highest priority subseasonal and seasonal forecast needs to enhance national security.
+- **(f)**
+  - **(1)** The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
+  - **(2)** For each State that requests assistance under this subsection, the Under Secretary may—
+    - **(A)** provide funds to support an individual in that State—
+      - **(i)** to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and
+      - **(ii)** to receive the forecasts and information under subsection (c) and disseminate the forecasts and information throughout the State, including to county and tribal governments; and
+    - **(B)** require matching funds of at least 50 percent, from the State, a university, a nongovernmental organization, a trade association, or the private sector.
+  - **(3)** Assistance to an individual State under this subsection shall not exceed $100,000 in a fiscal year.
+- **(g)** Each Federal department and agency shall cooperate as appropriate with the Under Secretary in carrying out this section.
+- **(h)**
+  - **(1)** Not later than 18 months after April 18, 2017 , the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report, including—
+    - **(A)** an analysis of the 1 1 So in original. The word “the” probably should not appear. how information from the National Oceanic and Atmospheric Administration on subseasonal and seasonal forecasts, as provided under subsection (c), is utilized in public planning and preparedness;
+    - **(B)** specific plans and goals for the continued development of the subseasonal and seasonal forecasts and related products described in subsection (c); and
+    - **(C)** an identification of research, monitoring, observing, and forecasting requirements to meet the goals described in subparagraph (B).
+  - **(2)** In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
+- **(i)** In this section:
+  - **(1)** The term “foundational forecast” means basic weather observation and forecast data, largely in raw form, before further processing is applied.
+  - **(2)** The term “National Weather Service core partners” means government and nongovernment entities which are directly involved in the preparation or dissemination of, or discussions involving, hazardous weather or other emergency information put out by the National Weather Service.
+  - **(3)** The term “seasonal” means the time range between 3 months and 2 years.
+  - **(4)** The term “State” means a State, a territory, or possession of the United States, including a Commonwealth, or the District of Columbia.
+  - **(5)** The term “subseasonal” means the time range between 2 weeks and 3 months.
+  - **(6)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+  - **(7)** The terms “weather industry” and “weather enterprise” are interchangeable in this section and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
+- **(j)** There are authorized to be appropriated to carry out the activities under this section—
+  - **(1)** $26,500,000 for fiscal year 2019;
+  - **(2)** $27,000,000 for fiscal year 2020;
+  - **(3)** $27,500,000 for fiscal year 2021;
+  - **(4)** $28,000,000 for fiscal year 2022; and
+  - **(5)** $28,500,000 for fiscal year 2023.
+- **(k)** Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.

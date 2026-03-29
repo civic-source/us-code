@@ -5,7 +5,7 @@ usc_section: "810"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 810"
-generated_at: "2026-03-29T00:31:20.808Z"
+generated_at: "2026-03-29T02:14:01.037Z"
 ---
 
 # [§ 810. Repealed. Pub. L. 115–97, title I, § 13511(b)(1) , Dec. 22, 2017 , 131 Stat. 2142 ]

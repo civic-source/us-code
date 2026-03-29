@@ -5,24 +5,24 @@ usc_section: "7602"
 chapter: 83
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7602"
-generated_at: "2026-03-29T00:30:33.993Z"
+generated_at: "2026-03-29T02:12:40.427Z"
 ---
 
 # § 7602. Definitions
 
 In this chapter:
 
-  (1) The term “AIDS” means the acquired immune deficiency syndrome.
-  (2) The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.
-  (3) The term “Global AIDS Coordinator” means the Coordinator of United States Government Activities to Combat HIV/AIDS Globally.
-  (4) The term “Global Fund” means the public-private partnership known as the Global Fund to Fight AIDS, Tuberculosis and Malaria established pursuant to Article 80 of the Swiss Civil Code.
-  (5) The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
-  (6) The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
-  (7) The term “impact evaluation research” means the application of research methods and statistical analysis to measure the extent to which change in a population-based outcome can be attributed to program intervention instead of other environmental factors.
-  (8) The term “operations research” means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
-  (9) The term “paraprofessional” means an individual who is trained and employed as a health agent for the provision of basic assistance in the identification, prevention, or treatment of illness or disability.
-  (10) The term “partner government” means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
-  (11) The term “program monitoring” means the collection, analysis, and use of routine program data to determine—
-    (A) how well a program is carried out; and
-    (B) how much the program costs.
-  (12) The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.].
+  - **(1)** The term “AIDS” means the acquired immune deficiency syndrome.
+  - **(2)** The term “appropriate congressional committees” means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.
+  - **(3)** The term “Global AIDS Coordinator” means the Coordinator of United States Government Activities to Combat HIV/AIDS Globally.
+  - **(4)** The term “Global Fund” means the public-private partnership known as the Global Fund to Fight AIDS, Tuberculosis and Malaria established pursuant to Article 80 of the Swiss Civil Code.
+  - **(5)** The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
+  - **(6)** The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+  - **(7)** The term “impact evaluation research” means the application of research methods and statistical analysis to measure the extent to which change in a population-based outcome can be attributed to program intervention instead of other environmental factors.
+  - **(8)** The term “operations research” means the application of social science research methods, statistical analysis, and other appropriate scientific methods to judge, compare, and improve policies and program outcomes, from the earliest stages of defining and designing programs through their development and implementation, with the objective of the rapid dissemination of conclusions and concrete impact on programming.
+  - **(9)** The term “paraprofessional” means an individual who is trained and employed as a health agent for the provision of basic assistance in the identification, prevention, or treatment of illness or disability.
+  - **(10)** The term “partner government” means a government with which the United States is working to provide assistance to combat HIV/AIDS, tuberculosis, or malaria on behalf of people living within the jurisdiction of such government.
+  - **(11)** The term “program monitoring” means the collection, analysis, and use of routine program data to determine—
+    - **(A)** how well a program is carried out; and
+    - **(B)** how much the program costs.
+  - **(12)** The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.].

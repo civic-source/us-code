@@ -5,10 +5,10 @@ usc_section: "2172"
 chapter: 20
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 2172"
-generated_at: "2026-03-29T00:33:06.680Z"
+generated_at: "2026-03-29T02:16:00.853Z"
 ---
 
 # § 2172. Filing of plan of adjustment
 
-(a) Only the Oversight Board, after the issuance of a certificate pursuant to section 2124(j) of this title , may file a plan of adjustment of the debts of the debtor.
-(b) If the Oversight Board does not file a plan of adjustment with the petition, the Oversight Board shall file a plan of adjustment at the time set by the court.
+- **(a)** Only the Oversight Board, after the issuance of a certificate pursuant to section 2124(j) of this title , may file a plan of adjustment of the debts of the debtor.
+- **(b)** If the Oversight Board does not file a plan of adjustment with the petition, the Oversight Board shall file a plan of adjustment at the time set by the court.

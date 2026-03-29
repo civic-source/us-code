@@ -5,7 +5,7 @@ usc_section: "93"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 93"
-generated_at: "2026-03-29T00:29:52.299Z"
+generated_at: "2026-03-29T02:11:53.337Z"
 ---
 
 # § 93. Grant of prior lands to Northern Pacific Railroad; lieu lands to settlers

@@ -5,7 +5,7 @@ usc_section: "31146"
 chapter: 311
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 31146"
-generated_at: "2026-03-29T00:33:13.842Z"
+generated_at: "2026-03-29T02:16:08.974Z"
 ---
 
 # § 31146. Relationship to other laws

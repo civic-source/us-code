@@ -5,7 +5,7 @@ usc_section: "168a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "24 U.S.C. § 168a"
-generated_at: "2026-03-29T00:30:34.802Z"
+generated_at: "2026-03-29T02:13:07.073Z"
 ---
 
 # § 168a. Repealed. Pub. L. 98–621, § 10(d)(1) , Nov. 8, 1984 , 98 Stat. 3379

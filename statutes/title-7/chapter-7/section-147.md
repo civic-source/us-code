@@ -5,7 +5,7 @@ usc_section: "147"
 chapter: 7
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 147"
-generated_at: "2026-03-29T00:28:57.911Z"
+generated_at: "2026-03-29T02:10:16.703Z"
 ---
 
 # §§ 146, 147. Omitted

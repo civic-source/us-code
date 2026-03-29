@@ -5,7 +5,7 @@ usc_section: "3473"
 chapter: 54
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3473"
-generated_at: "2026-03-29T00:29:52.801Z"
+generated_at: "2026-03-29T02:11:53.889Z"
 ---
 
 # § 3473. Regulations

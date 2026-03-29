@@ -5,7 +5,7 @@ usc_section: "5809"
 chapter: 78
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5809"
-generated_at: "2026-03-29T00:29:52.853Z"
+generated_at: "2026-03-29T02:11:53.957Z"
 ---
 
 # §§ 5801 to 5809. Repealed. Pub. L. 115–334, title II, § 2813 , Dec. 20, 2018 , 132 Stat. 4602

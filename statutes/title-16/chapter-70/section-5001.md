@@ -5,7 +5,7 @@ usc_section: "5001"
 chapter: 70
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5001"
-generated_at: "2026-03-29T00:29:52.846Z"
+generated_at: "2026-03-29T02:11:53.945Z"
 ---
 
 # § 5001. Purpose

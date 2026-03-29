@@ -5,7 +5,7 @@ usc_section: "2372a"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2372a"
-generated_at: "2026-03-29T00:30:33.798Z"
+generated_at: "2026-03-29T02:12:40.071Z"
 ---
 
 # § 2372a. Renewal, reissuance, etc., of export licenses to or for Argentina

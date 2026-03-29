@@ -5,7 +5,7 @@ usc_section: "2582"
 chapter: 153
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2582"
-generated_at: "2026-03-29T00:20:53.062Z"
+generated_at: "2026-03-29T02:10:45.117Z"
 ---
 
 # [§ 2582. Repealed. Pub. L. 112–81, div. A, title X, § 1061(19)(A) , Dec. 31, 2011 , 125 Stat. 1584 ]

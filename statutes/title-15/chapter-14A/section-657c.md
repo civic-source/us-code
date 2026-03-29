@@ -5,7 +5,7 @@ usc_section: "657c"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 657c"
-generated_at: "2026-03-29T00:29:41.632Z"
+generated_at: "2026-03-29T02:11:34.092Z"
 ---
 
 # § 657c. Repealed. Pub. L. 112–239, div. A, title XVI, § 1699(a) , Jan. 2, 2013 , 126 Stat. 2092

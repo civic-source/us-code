@@ -5,14 +5,14 @@ usc_section: "2922a"
 chapter: 173
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2922a"
-generated_at: "2026-03-29T00:20:53.108Z"
+generated_at: "2026-03-29T02:10:45.168Z"
 ---
 
 # § 2922a. Contracts for energy or fuel for military installations
 
-(a) Subject to subsection (b), the Secretary of a military department may enter into contracts for periods of up to 30 years—
-  (1) under section 2917 of this title ; and
-  (2) for the provision and operation of energy production facilities on real property under the Secretary’s jurisdiction or on private property and the purchase of energy produced from such facilities.
-(b) A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
-(c) The costs of contracts under this section for any year may be paid from annual appropriations for that year.
-(d) The Secretary concerned shall ensure energy security and energy resilience are included as critical factors in the provision and operation of energy production facilities under this section.
+- **(a)** Subject to subsection (b), the Secretary of a military department may enter into contracts for periods of up to 30 years—
+  - **(1)** under section 2917 of this title ; and
+  - **(2)** for the provision and operation of energy production facilities on real property under the Secretary’s jurisdiction or on private property and the purchase of energy produced from such facilities.
+- **(b)** A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
+- **(c)** The costs of contracts under this section for any year may be paid from annual appropriations for that year.
+- **(d)** The Secretary concerned shall ensure energy security and energy resilience are included as critical factors in the provision and operation of energy production facilities under this section.

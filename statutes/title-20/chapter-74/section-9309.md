@@ -5,7 +5,7 @@ usc_section: "9309"
 chapter: 74
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9309"
-generated_at: "2026-03-29T00:07:03.200Z"
+generated_at: "2026-03-29T02:12:17.517Z"
 ---
 
 # §§ 9301 to 9309. Repealed. Pub. L. 107–110, title X, § 1011(6) , Jan. 8, 2002 , 115 Stat. 1986

@@ -5,21 +5,21 @@ usc_section: "1377a"
 chapter: 26
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1377a"
-generated_at: "2026-03-29T00:31:57.372Z"
+generated_at: "2026-03-29T02:14:18.582Z"
 ---
 
 # § 1377a. Green infrastructure promotion
 
-(a) The Administrator shall promote the use of green infrastructure in, and coordinate the integration of green infrastructure into, permitting and enforcement under this chapter, planning efforts, research, technical assistance, and funding guidance of the Environmental Protection Agency.
-(b) The Administrator shall ensure that the Office of Water coordinates efforts to increase the use of green infrastructure with—
-  (1) other Federal departments and agencies;
-  (2) State, tribal, and local governments; and
-  (3) the private sector.
-(c) The Administrator shall direct each regional office of the Environmental Protection Agency, as appropriate based on local factors, and consistent with the requirements of this chapter, to promote and integrate the use of green infrastructure within the region, including through—
-  (1) outreach and training regarding green infrastructure implementation for State, tribal, and local governments, tribal communities, and the private sector; and
-  (2) the incorporation of green infrastructure into permitting and other regulatory programs, codes, and ordinance development, including the requirements under consent decrees and settlement agreements in enforcement actions.
-(d) The Administrator shall promote green infrastructure information-sharing, including through an internet website, to share information with, and provide technical assistance to, State, tribal, and local governments, tribal communities, the private sector, and the public, regarding green infrastructure approaches for—
-  (1) reducing water pollution;
-  (2) protecting water resources;
-  (3) complying with regulatory requirements; and
-  (4) achieving other environmental, public health, and community goals.
+- **(a)** The Administrator shall promote the use of green infrastructure in, and coordinate the integration of green infrastructure into, permitting and enforcement under this chapter, planning efforts, research, technical assistance, and funding guidance of the Environmental Protection Agency.
+- **(b)** The Administrator shall ensure that the Office of Water coordinates efforts to increase the use of green infrastructure with—
+  - **(1)** other Federal departments and agencies;
+  - **(2)** State, tribal, and local governments; and
+  - **(3)** the private sector.
+- **(c)** The Administrator shall direct each regional office of the Environmental Protection Agency, as appropriate based on local factors, and consistent with the requirements of this chapter, to promote and integrate the use of green infrastructure within the region, including through—
+  - **(1)** outreach and training regarding green infrastructure implementation for State, tribal, and local governments, tribal communities, and the private sector; and
+  - **(2)** the incorporation of green infrastructure into permitting and other regulatory programs, codes, and ordinance development, including the requirements under consent decrees and settlement agreements in enforcement actions.
+- **(d)** The Administrator shall promote green infrastructure information-sharing, including through an internet website, to share information with, and provide technical assistance to, State, tribal, and local governments, tribal communities, the private sector, and the public, regarding green infrastructure approaches for—
+  - **(1)** reducing water pollution;
+  - **(2)** protecting water resources;
+  - **(3)** complying with regulatory requirements; and
+  - **(4)** achieving other environmental, public health, and community goals.

@@ -5,12 +5,12 @@ usc_section: "9301"
 chapter: 93
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 9301"
-generated_at: "2026-03-29T00:31:52.663Z"
+generated_at: "2026-03-29T02:14:14.122Z"
 ---
 
 # § 9301. Definitions
 
 In this chapter—
 
-  (1) “person” means an individual, a trust, an estate, a partnership, and a corporation.
-  (2) “eligible obligation” means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.
+  - **(1)** “person” means an individual, a trust, an estate, a partnership, and a corporation.
+  - **(2)** “eligible obligation” means any security designated as acceptable in lieu of a surety bond by the Secretary of the Treasury.

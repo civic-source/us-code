@@ -5,7 +5,7 @@ usc_section: "59B"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 59B"
-generated_at: "2026-03-29T00:31:20.607Z"
+generated_at: "2026-03-29T02:14:00.776Z"
 ---
 
 # [§ 59B. Repealed. Pub. L. 101–234, title I, § 102(a) , Dec. 13, 1989 , 103 Stat. 1980 ]

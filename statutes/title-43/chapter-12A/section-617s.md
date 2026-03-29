@@ -5,7 +5,7 @@ usc_section: "617s"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 617s"
-generated_at: "2026-03-29T00:32:57.372Z"
+generated_at: "2026-03-29T02:15:47.560Z"
 ---
 
 # § 617s. Recognition of rights of Mexico to Colorado River waters

@@ -5,15 +5,15 @@ usc_section: "7104a"
 chapter: 78
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7104a"
-generated_at: "2026-03-29T00:30:33.983Z"
+generated_at: "2026-03-29T02:12:40.412Z"
 ---
 
 # § 7104a. Compliance plan and certification requirement
 
-(a) The head of an executive agency may not provide or enter into a grant, contract, or cooperative agreement if the estimated value of the services required to be performed under the grant, contract, or cooperative agreement outside the United States exceeds $500,000, unless a duly designated representative of the recipient of such grant, contract, or cooperative agreement certifies to the contracting or grant officer prior to receiving an award and on an annual basis thereafter, after having conducted due diligence, that—
-  (1) the recipient has implemented a plan to prevent the activities described in section 7104(g) of this title , as amended by section 1702, and is in compliance with that plan;
-  (2) the recipient has implemented procedures to prevent any activities described in such section 7104(g) of this title and to monitor, detect, and terminate any subcontractor, subgrantee, or employee of the recipient engaging in any activities described in such section; and
-  (3) to the best of the representative’s knowledge, neither the recipient, nor any subcontractor or subgrantee of the recipient or any agent of the recipient or of such a subcontractor or subgrantee, is engaged in any of the activities described in such section.
-(b) Any plan or procedures implemented pursuant to subsection (a) shall be appropriate to the size and complexity of the grant, contract, or cooperative agreement and to the nature and scope of its activities, including the number of non-United States citizens expected to be employed.
-(c) The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
-(d) The President, in consultation with the Secretary of State, the Attorney General, the Secretary of Defense, the Secretary of Labor, the Secretary of Homeland Security, the Administrator for the United States Agency for International Development, and the heads of such other executive agencies as the President deems appropriate, shall establish minimum requirements for contractor plans and procedures to be implemented pursuant to this section.
+- **(a)** The head of an executive agency may not provide or enter into a grant, contract, or cooperative agreement if the estimated value of the services required to be performed under the grant, contract, or cooperative agreement outside the United States exceeds $500,000, unless a duly designated representative of the recipient of such grant, contract, or cooperative agreement certifies to the contracting or grant officer prior to receiving an award and on an annual basis thereafter, after having conducted due diligence, that—
+  - **(1)** the recipient has implemented a plan to prevent the activities described in section 7104(g) of this title , as amended by section 1702, and is in compliance with that plan;
+  - **(2)** the recipient has implemented procedures to prevent any activities described in such section 7104(g) of this title and to monitor, detect, and terminate any subcontractor, subgrantee, or employee of the recipient engaging in any activities described in such section; and
+  - **(3)** to the best of the representative’s knowledge, neither the recipient, nor any subcontractor or subgrantee of the recipient or any agent of the recipient or of such a subcontractor or subgrantee, is engaged in any of the activities described in such section.
+- **(b)** Any plan or procedures implemented pursuant to subsection (a) shall be appropriate to the size and complexity of the grant, contract, or cooperative agreement and to the nature and scope of its activities, including the number of non-United States citizens expected to be employed.
+- **(c)** The recipient shall provide a copy of the plan to the contracting or grant officer upon request, and as appropriate, shall post the useful and relevant contents of the plan or related materials on its website and at the workplace.
+- **(d)** The President, in consultation with the Secretary of State, the Attorney General, the Secretary of Defense, the Secretary of Labor, the Secretary of Homeland Security, the Administrator for the United States Agency for International Development, and the heads of such other executive agencies as the President deems appropriate, shall establish minimum requirements for contractor plans and procedures to be implemented pursuant to this section.

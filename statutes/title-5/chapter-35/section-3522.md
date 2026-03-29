@@ -5,16 +5,16 @@ usc_section: "3522"
 chapter: 35
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 3522"
-generated_at: "2026-03-29T00:28:38.320Z"
+generated_at: "2026-03-29T02:10:01.830Z"
 ---
 
 # § 3522. Agency plans; approval
 
-(a) Before obligating any resources for voluntary separation incentive payments, the head of each agency shall submit to the Office of Personnel Management a plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
-(b) The plan of an agency under subsection (a) shall include—
-  (1) the specific positions and functions to be reduced or eliminated;
-  (2) a description of which categories of employees will be offered incentives;
-  (3) the time period during which incentives may be paid;
-  (4) the number and amounts of voluntary separation incentive payments to be offered; and
-  (5) a description of how the agency will operate without the eliminated positions and functions.
-(c) The Director of the Office of Personnel Management shall review each agency’s plan an 1 1 So in original. Probably should be “and”. may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive 2 2 So in original. Probably should be “Director”. of the Office of Personnel Management.
+- **(a)** Before obligating any resources for voluntary separation incentive payments, the head of each agency shall submit to the Office of Personnel Management a plan outlining the intended use of such incentive payments and a proposed organizational chart for the agency once such incentive payments have been completed.
+- **(b)** The plan of an agency under subsection (a) shall include—
+  - **(1)** the specific positions and functions to be reduced or eliminated;
+  - **(2)** a description of which categories of employees will be offered incentives;
+  - **(3)** the time period during which incentives may be paid;
+  - **(4)** the number and amounts of voluntary separation incentive payments to be offered; and
+  - **(5)** a description of how the agency will operate without the eliminated positions and functions.
+- **(c)** The Director of the Office of Personnel Management shall review each agency’s plan an 1 1 So in original. Probably should be “and”. may make any appropriate modifications in the plan, in consultation with the Director of the Office of Management and Budget. A plan under this section may not be implemented without the approval of the Directive 2 2 So in original. Probably should be “Director”. of the Office of Personnel Management.

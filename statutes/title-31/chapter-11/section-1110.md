@@ -5,7 +5,7 @@ usc_section: "1110"
 chapter: 11
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1110"
-generated_at: "2026-03-29T00:31:52.584Z"
+generated_at: "2026-03-29T02:14:14.039Z"
 ---
 
 # § 1110. Year-ahead requests for authorizing legislation

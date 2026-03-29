@@ -5,7 +5,7 @@ usc_section: "17"
 chapter: 50
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 17"
-generated_at: "2026-03-29T00:28:58.091Z"
+generated_at: "2026-03-29T02:10:16.905Z"
 ---
 
 # § 2009cc–17. Regulations

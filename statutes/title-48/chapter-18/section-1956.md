@@ -5,12 +5,12 @@ usc_section: "1956"
 chapter: 18
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1956"
-generated_at: "2026-03-29T00:33:06.662Z"
+generated_at: "2026-03-29T02:16:00.837Z"
 ---
 
 # § 1956. Acquisition of defense sites
 
 The provisions of title III of the Compact relating to future use by the United States of defense sites in Palau do not restrict the authority of the President of the United States to—
 
-  (1) request additional funding, subject to appropriation, related to the use of privately owned land in Palau pursuant to article II of title III of the Compact as may be appropriate in light of actual land use requirements, independent appraisals of such privately owned land accepted by both governments, and other appropriate documentation of actual land use costs; and
-  (2) consent to an extension of the time set forth in a subsidiary agreement to such article in which the Government of Palau is required to make such land available to the United States.
+  - **(1)** request additional funding, subject to appropriation, related to the use of privately owned land in Palau pursuant to article II of title III of the Compact as may be appropriate in light of actual land use requirements, independent appraisals of such privately owned land accepted by both governments, and other appropriate documentation of actual land use costs; and
+  - **(2)** consent to an extension of the time set forth in a subsidiary agreement to such article in which the Government of Palau is required to make such land available to the United States.

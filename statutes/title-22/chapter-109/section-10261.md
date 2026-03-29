@@ -5,10 +5,10 @@ usc_section: "10261"
 chapter: 109
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10261"
-generated_at: "2026-03-29T00:30:34.072Z"
+generated_at: "2026-03-29T02:12:40.521Z"
 ---
 
 # § 10261. Sanctions exception relating to importation of goods
 
-(a) The authorities and requirements to impose sanctions under this chapter shall not include the authority or requirement to impose sanctions on the importation of goods.
-(b) In this section, the term “good” means any article, natural or man-made substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(a)** The authorities and requirements to impose sanctions under this chapter shall not include the authority or requirement to impose sanctions on the importation of goods.
+- **(b)** In this section, the term “good” means any article, natural or man-made substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.

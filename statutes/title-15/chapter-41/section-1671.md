@@ -5,13 +5,13 @@ usc_section: "1671"
 chapter: 41
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1671"
-generated_at: "2026-03-29T00:29:41.724Z"
+generated_at: "2026-03-29T02:11:34.207Z"
 ---
 
 # § 1671. Congressional findings and declaration of purpose
 
-(a) The Congress finds:
-  (1) The unrestricted garnishment of compensation due for personal services encourages the making of predatory extensions of credit. Such extensions of credit divert money into excessive credit payments and thereby hinder the production and flow of goods in interstate commerce.
-  (2) The application of garnishment as a creditors’ remedy frequently results in loss of employment by the debtor, and the resulting disruption of employment, production, and consumption constitutes a substantial burden on interstate commerce.
-  (3) The great disparities among the laws of the several States relating to garnishment have, in effect, destroyed the uniformity of the bankruptcy laws and frustrated the purposes thereof in many areas of the country.
-(b) On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.
+- **(a)** The Congress finds:
+  - **(1)** The unrestricted garnishment of compensation due for personal services encourages the making of predatory extensions of credit. Such extensions of credit divert money into excessive credit payments and thereby hinder the production and flow of goods in interstate commerce.
+  - **(2)** The application of garnishment as a creditors’ remedy frequently results in loss of employment by the debtor, and the resulting disruption of employment, production, and consumption constitutes a substantial burden on interstate commerce.
+  - **(3)** The great disparities among the laws of the several States relating to garnishment have, in effect, destroyed the uniformity of the bankruptcy laws and frustrated the purposes thereof in many areas of the country.
+- **(b)** On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.

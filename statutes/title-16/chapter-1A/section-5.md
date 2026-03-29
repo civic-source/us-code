@@ -5,7 +5,7 @@ usc_section: "5"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-29T00:29:52.531Z"
+generated_at: "2026-03-29T02:11:53.564Z"
 ---
 
 # § 470x–5. Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat. 3272

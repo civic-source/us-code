@@ -5,7 +5,7 @@ usc_section: "1575a"
 chapter: 32
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 1575a"
-generated_at: "2026-03-29T00:32:57.419Z"
+generated_at: "2026-03-29T02:15:47.605Z"
 ---
 
 # § 1575a. Administration and disposition of lands and constructed facilities; revenues credited to general fund of Treasury

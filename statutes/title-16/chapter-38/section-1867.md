@@ -5,19 +5,19 @@ usc_section: "1867"
 chapter: 38
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1867"
-generated_at: "2026-03-29T00:29:52.761Z"
+generated_at: "2026-03-29T02:11:53.842Z"
 ---
 
 # § 1867. Cooperative research and management program
 
-(a) The Secretary of Commerce, in consultation with the Councils, shall establish a cooperative research and management program to address needs identified under this chapter and under any other marine resource laws enforced by the Secretary. The program shall be implemented on a regional basis and shall be developed and conducted through partnerships among Federal, State, and Tribal managers and scientists (including interstate fishery commissions), fishing industry participants (including use of commercial charter or recreational vessels for gathering data), and educational institutions.
-(b) The Secretary shall make funds available under the program for the support of projects to address critical needs identified by the Councils in consultation with the Secretary. The program shall promote and encourage efforts to utilize sources of data maintained by other Federal agencies, State agencies, or academia for use in such projects.
-(c) In making funds available the Secretary shall award funding on a competitive basis and based on regional fishery management needs, select programs that form part of a coherent program of research focused on solving priority issues identified by the Councils, and shall give priority to the following projects:
-  (1) Projects to collect data to improve, supplement, or enhance stock assessments, including the use of fishing vessels or acoustic or other marine technology.
-  (2) Projects to assess the amount and type of bycatch or post-release mortality occurring in a fishery.
-  (3) Conservation engineering projects designed to reduce bycatch, including avoidance of post-release mortality, reduction of bycatch in high seas fisheries, and transfer of such fishing technologies to other nations.
-  (4) Projects for the identification of habitat areas of particular concern and for habitat conservation.
-  (5) Projects designed to collect and compile economic and social data.
-(d) Not later than 180 days after January 12, 2007 , the Secretary, in consultation with the Councils, shall promulgate regulations that create an expedited, uniform, and regionally-based process to promote issuance, where practicable, of experimental fishing permits.
-(e) The Secretary, in consultation with the Councils, shall establish guidelines to ensure that participation in a research project funded under this section does not result in loss of a participant’s catch history or unexpended days-at-sea as part of a limited entry system.
-(f) The procedures of this section shall not apply to research funded by quota set-asides in a fishery.
+- **(a)** The Secretary of Commerce, in consultation with the Councils, shall establish a cooperative research and management program to address needs identified under this chapter and under any other marine resource laws enforced by the Secretary. The program shall be implemented on a regional basis and shall be developed and conducted through partnerships among Federal, State, and Tribal managers and scientists (including interstate fishery commissions), fishing industry participants (including use of commercial charter or recreational vessels for gathering data), and educational institutions.
+- **(b)** The Secretary shall make funds available under the program for the support of projects to address critical needs identified by the Councils in consultation with the Secretary. The program shall promote and encourage efforts to utilize sources of data maintained by other Federal agencies, State agencies, or academia for use in such projects.
+- **(c)** In making funds available the Secretary shall award funding on a competitive basis and based on regional fishery management needs, select programs that form part of a coherent program of research focused on solving priority issues identified by the Councils, and shall give priority to the following projects:
+  - **(1)** Projects to collect data to improve, supplement, or enhance stock assessments, including the use of fishing vessels or acoustic or other marine technology.
+  - **(2)** Projects to assess the amount and type of bycatch or post-release mortality occurring in a fishery.
+  - **(3)** Conservation engineering projects designed to reduce bycatch, including avoidance of post-release mortality, reduction of bycatch in high seas fisheries, and transfer of such fishing technologies to other nations.
+  - **(4)** Projects for the identification of habitat areas of particular concern and for habitat conservation.
+  - **(5)** Projects designed to collect and compile economic and social data.
+- **(d)** Not later than 180 days after January 12, 2007 , the Secretary, in consultation with the Councils, shall promulgate regulations that create an expedited, uniform, and regionally-based process to promote issuance, where practicable, of experimental fishing permits.
+- **(e)** The Secretary, in consultation with the Councils, shall establish guidelines to ensure that participation in a research project funded under this section does not result in loss of a participant’s catch history or unexpended days-at-sea as part of a limited entry system.
+- **(f)** The procedures of this section shall not apply to research funded by quota set-asides in a fishery.

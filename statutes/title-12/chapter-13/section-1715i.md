@@ -5,7 +5,7 @@ usc_section: "1715i"
 chapter: 13
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1715i"
-generated_at: "2026-03-29T00:29:16.591Z"
+generated_at: "2026-03-29T02:11:20.947Z"
 ---
 
 # § 1715i. Repealed. Pub. L. 86–372, title I, § 108 , Sept. 23, 1959 , 73 Stat. 657

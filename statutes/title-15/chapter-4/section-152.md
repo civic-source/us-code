@@ -5,10 +5,10 @@ usc_section: "152"
 chapter: 4
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 152"
-generated_at: "2026-03-29T00:29:41.557Z"
+generated_at: "2026-03-29T02:11:33.999Z"
 ---
 
 # § 152. Reports; records for public inspection
 
-(a) For the purposes of this chapter the fiscal year of a China Trade Act corporation shall correspond to the calendar year. The corporation shall make and file with the registrar, in such manner and form and at such time as shall be by regulation prescribed, a report of its business for each such fiscal year and of its financial condition at the close of the year. The corporation shall furnish a true copy of the report to each of its stockholders.
-(b) The registrar shall file with the Secretary copies of all reports, certificates, and certified copies received or issued by the registrar under the provisions of this chapter. The Secretary shall file with the registrar copies of all applications for a certificate of incorporation, and certificates received or issued by the Secretary under the provisions of this chapter. All such papers shall be kept on record in the offices of the registrar and the Secretary, and shall be available for public inspection under such regulations as may be prescribed.
+- **(a)** For the purposes of this chapter the fiscal year of a China Trade Act corporation shall correspond to the calendar year. The corporation shall make and file with the registrar, in such manner and form and at such time as shall be by regulation prescribed, a report of its business for each such fiscal year and of its financial condition at the close of the year. The corporation shall furnish a true copy of the report to each of its stockholders.
+- **(b)** The registrar shall file with the Secretary copies of all reports, certificates, and certified copies received or issued by the registrar under the provisions of this chapter. The Secretary shall file with the registrar copies of all applications for a certificate of incorporation, and certificates received or issued by the Secretary under the provisions of this chapter. All such papers shall be kept on record in the offices of the registrar and the Secretary, and shall be available for public inspection under such regulations as may be prescribed.

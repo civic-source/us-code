@@ -5,22 +5,22 @@ usc_section: "1795c"
 chapter: 14
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1795c"
-generated_at: "2026-03-29T00:29:16.665Z"
+generated_at: "2026-03-29T02:11:21.024Z"
 ---
 
 # § 1795c. Membership
 
-(a) A credit union primarily serving natural persons may be a Regular member of the Facility by subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the credit union’s paid-in and unimpaired capital and surplus.
-(b) A credit union or group of credit unions, primarily serving other credit unions, may be an Agent member of the Facility by—
-  (1) obtaining the approval of the Board;
-  (2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
-  (3) agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
-  (4) agreeing to submit to the supervision of the Board which shall include, but not be limited to, reporting requirements and periodic unrestricted examinations.
-(c) Stock subscriptions provided for in subsections (a) and (b)(2) of this section shall be—
-  (1) based on an arithmetic average of paid-in capital and surplus over the six months preceding application and membership; and
-  (2) adjusted at the close of each calendar year in accordance with an arithmetic average of paid-in capital and surplus over a period determined by the Board.
-(d) An Agent member of the Facility shall perform for its member credit unions those functions required by the Board to carry out this subchapter.
-(e) 
-  (1) A member of the Facility whose capital stock subscription constitutes less than 5 per centum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
-  (2) A member of the Facility whose capital stock subscription constitutes 5 per centum or more of such stock outstanding, may withdraw from membership in the Facility twenty-four months after notifying the Board of its intention to do so.
-  (3) The Board may terminate membership in the Facility if, after opportunity for a hearing, the Board determines a member has failed to comply with any provision of this subchapter or regulation issued pursuant thereto.
+- **(a)** A credit union primarily serving natural persons may be a Regular member of the Facility by subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the credit union’s paid-in and unimpaired capital and surplus.
+- **(b)** A credit union or group of credit unions, primarily serving other credit unions, may be an Agent member of the Facility by—
+  - **(1)** obtaining the approval of the Board;
+  - **(2)** subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
+  - **(3)** agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
+  - **(4)** agreeing to submit to the supervision of the Board which shall include, but not be limited to, reporting requirements and periodic unrestricted examinations.
+- **(c)** Stock subscriptions provided for in subsections (a) and (b)(2) of this section shall be—
+  - **(1)** based on an arithmetic average of paid-in capital and surplus over the six months preceding application and membership; and
+  - **(2)** adjusted at the close of each calendar year in accordance with an arithmetic average of paid-in capital and surplus over a period determined by the Board.
+- **(d)** An Agent member of the Facility shall perform for its member credit unions those functions required by the Board to carry out this subchapter.
+- **(e)**
+  - **(1)** A member of the Facility whose capital stock subscription constitutes less than 5 per centum of such stock outstanding, may withdraw from membership in the Facility six months after notifying the Board of its intention to do so.
+  - **(2)** A member of the Facility whose capital stock subscription constitutes 5 per centum or more of such stock outstanding, may withdraw from membership in the Facility twenty-four months after notifying the Board of its intention to do so.
+  - **(3)** The Board may terminate membership in the Facility if, after opportunity for a hearing, the Board determines a member has failed to comply with any provision of this subchapter or regulation issued pursuant thereto.

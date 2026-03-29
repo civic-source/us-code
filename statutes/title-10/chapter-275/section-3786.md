@@ -5,12 +5,12 @@ usc_section: "3786"
 chapter: 275
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3786"
-generated_at: "2026-03-29T00:20:53.132Z"
+generated_at: "2026-03-29T02:10:45.198Z"
 ---
 
 # § 3786. Use or release restriction: definition
 
 In this subchapter, the term “use or release restriction”, with respect to technical data delivered to the United States under a contract subject to this section, means a restriction by the contractor or subcontractor on the right of the United States—
 
-  (1) to use such technical data; or
-  (2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
+  - **(1)** to use such technical data; or
+  - **(2)** to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.

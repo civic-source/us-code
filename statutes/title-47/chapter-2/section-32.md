@@ -5,7 +5,7 @@ usc_section: "32"
 chapter: 2
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 32"
-generated_at: "2026-03-29T00:33:04.834Z"
+generated_at: "2026-03-29T02:15:59.169Z"
 ---
 
 # § 32. Application

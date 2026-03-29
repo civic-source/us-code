@@ -5,12 +5,12 @@ usc_section: "51104"
 chapter: 511
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 51104"
-generated_at: "2026-03-29T00:33:02.920Z"
+generated_at: "2026-03-29T02:15:53.760Z"
 ---
 
 # § 51104. General authority of Secretary of the Navy
 
 The Secretary of the Navy, in cooperation with the Maritime Administrator and the head of each State maritime academy, shall ensure that—
 
-  (1) the training of future merchant marine officers at the United States Merchant Marine Academy and at State maritime academies includes programs for naval science training in the operation of merchant vessels as a naval and military auxiliary; and
-  (2) naval officer training programs for future officers, insofar as possible, are maintained at designated maritime academies consistent with Navy standards and needs.
+  - **(1)** the training of future merchant marine officers at the United States Merchant Marine Academy and at State maritime academies includes programs for naval science training in the operation of merchant vessels as a naval and military auxiliary; and
+  - **(2)** naval officer training programs for future officers, insofar as possible, are maintained at designated maritime academies consistent with Navy standards and needs.

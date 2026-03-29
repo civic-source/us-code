@@ -5,7 +5,7 @@ usc_section: "46h"
 chapter: 3
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 46h"
-generated_at: "2026-03-29T00:06:10.860Z"
+generated_at: "2026-03-29T02:09:53.630Z"
 ---
 
 # § 46h. Repealed. May 29, 1951, ch. 117, § 2 , 65 Stat. 47 , eff. July 1, 1951

@@ -5,12 +5,12 @@ usc_section: "5367"
 chapter: 53
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 5367"
-generated_at: "2026-03-29T00:31:52.651Z"
+generated_at: "2026-03-29T02:14:14.107Z"
 ---
 
 # § 5367. Circumventions prohibited
 
 Notwithstanding section 5362(2), a financial transaction provider, or any interactive computer service or telecommunications service, may be liable under this subchapter if such person has actual knowledge and control of bets and wagers, and—
 
-  (1) operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made; or
-  (2) owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.
+  - **(1)** operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made; or
+  - **(2)** owns or controls, or is owned or controlled by, any person who operates, manages, supervises, or directs an Internet website at which unlawful bets or wagers may be placed, received, or otherwise made, or at which unlawful bets or wagers are offered to be placed, received, or otherwise made.

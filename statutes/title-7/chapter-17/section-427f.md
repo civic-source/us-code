@@ -5,7 +5,7 @@ usc_section: "427f"
 chapter: 17
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 427f"
-generated_at: "2026-03-29T00:28:57.931Z"
+generated_at: "2026-03-29T02:10:16.722Z"
 ---
 
 # § 427f. Repealed. Aug. 11, 1955, ch. 790, § 2 , 69 Stat. 674

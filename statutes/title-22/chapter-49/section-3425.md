@@ -5,23 +5,23 @@ usc_section: "3425"
 chapter: 49
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3425"
-generated_at: "2026-03-29T00:30:33.881Z"
+generated_at: "2026-03-29T02:12:40.290Z"
 ---
 
 # § 3425. Reports to Congress
 
-(a) Not later than April 30, 1982 , the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
-(b) Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
-  (1) the activities performed by the Multinational Force and Observers during the preceding year;
-  (2) the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
-  (3) All 1 1 So in original. Probably should not be capitalized. costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
-    (A) the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
-    (B) the identifiable costs relating to property, support, and services provided by the United States to the Multinational Force and Observers;
-  (4) the costs which the United States Government would have incurred in maintaining in the United States those United States units and personnel participating in the Multinational Force and Observers;
-  (5) amounts received by the United States Government from the Multinational Force and Observers as reimbursement;
-  (6) the types of property, support, or services provided to the Multinational Force and Observers by the United States Government, including identification of the types of property, support, or services provided on a nonreimbursable basis; and
-  (7) the results of any discussions with Egypt and Israel regarding the future of the Multinational Force and Observers and its possible reduction or elimination.
-(c) 
-  (1) The reports required by this section shall be as detailed as possible.
-  (2) The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
-  (3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
+- **(a)** Not later than April 30, 1982 , the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a detailed written report with respect to the period ending two weeks prior to that date which contains the information specified in subsection (b).
+- **(b)** Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
+  - **(1)** the activities performed by the Multinational Force and Observers during the preceding year;
+  - **(2)** the composition of the Multinational Force and Observers, including a description of the responsibilities and deployment of the military personnel of each participating country;
+  - **(3)** All 1 1 So in original. Probably should not be capitalized. costs incurred by the United States Government (including both normal and incremental costs), set forth by category, which are associated with the United States relationship with the Multinational Force and Observers and which were incurred during the preceding fiscal year (whether or not the United States was reimbursed for those costs), specifically including but not limited to—
+    - **(A)** the costs associated with the United States units and personnel participating in the Multinational Force and Observers (including salaries, allowances, retirement and other benefits, transportation, housing, and operating and maintenance costs), and
+    - **(B)** the identifiable costs relating to property, support, and services provided by the United States to the Multinational Force and Observers;
+  - **(4)** the costs which the United States Government would have incurred in maintaining in the United States those United States units and personnel participating in the Multinational Force and Observers;
+  - **(5)** amounts received by the United States Government from the Multinational Force and Observers as reimbursement;
+  - **(6)** the types of property, support, or services provided to the Multinational Force and Observers by the United States Government, including identification of the types of property, support, or services provided on a nonreimbursable basis; and
+  - **(7)** the results of any discussions with Egypt and Israel regarding the future of the Multinational Force and Observers and its possible reduction or elimination.
+- **(c)**
+  - **(1)** The reports required by this section shall be as detailed as possible.
+  - **(2)** The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
+  - **(3)** The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.

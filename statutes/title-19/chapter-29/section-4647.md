@@ -5,7 +5,7 @@ usc_section: "4647"
 chapter: 29
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4647"
-generated_at: "2026-03-29T00:30:20.317Z"
+generated_at: "2026-03-29T02:12:08.785Z"
 ---
 
 # § 4647. Hotline

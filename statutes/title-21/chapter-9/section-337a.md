@@ -5,7 +5,7 @@ usc_section: "337a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 337a"
-generated_at: "2026-03-29T00:30:24.163Z"
+generated_at: "2026-03-29T02:12:27.953Z"
 ---
 
 # § 337a. Extraterritorial jurisdiction

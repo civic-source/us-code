@@ -5,14 +5,14 @@ usc_section: "215b"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 215b"
-generated_at: "2026-03-29T00:29:16.480Z"
+generated_at: "2026-03-29T02:11:20.844Z"
 ---
 
 # § 215b. Definitions
 
 As used in this subchapter, the term—
 
-  (1) “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, or which is operating under the Code of Law for the District of Columbia;
-  (2) “State” means the several States and Territories, the Commonwealth of Puerto Rico, the Virgin Islands, and the District of Columbia;
-  (3) “Comptroller” means the Comptroller of the Currency; and
-  (4) “Receiving association” means the national banking association into which one or more national banking associations or one or more State banks, located within the same State, merge.
+  - **(1)** “State bank” means any bank, banking association, trust company, savings bank (other than a mutual savings bank), or other banking institution which is engaged in the business of receiving deposits and which is incorporated under the laws of any State, or which is operating under the Code of Law for the District of Columbia;
+  - **(2)** “State” means the several States and Territories, the Commonwealth of Puerto Rico, the Virgin Islands, and the District of Columbia;
+  - **(3)** “Comptroller” means the Comptroller of the Currency; and
+  - **(4)** “Receiving association” means the national banking association into which one or more national banking associations or one or more State banks, located within the same State, merge.

@@ -5,12 +5,12 @@ usc_section: "2521a"
 chapter: 34
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2521a"
-generated_at: "2026-03-29T00:30:33.826Z"
+generated_at: "2026-03-29T02:12:40.098Z"
 ---
 
 # § 2521a. Nonpartisan appointments
 
 In carrying out this chapter, no political test or political qualification may be used in—
 
-  (1) selecting any person for enrollment as a volunteer or for appointment to a position at, or for assignment to (or for employment for assignment to), a duty station located abroad, or
-  (2) promoting or taking any other action with respect to any volunteer or any person assigned to such a duty station.
+  - **(1)** selecting any person for enrollment as a volunteer or for appointment to a position at, or for assignment to (or for employment for assignment to), a duty station located abroad, or
+  - **(2)** promoting or taking any other action with respect to any volunteer or any person assigned to such a duty station.

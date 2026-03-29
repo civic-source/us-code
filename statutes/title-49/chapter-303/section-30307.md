@@ -5,13 +5,13 @@ usc_section: "30307"
 chapter: 303
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 30307"
-generated_at: "2026-03-29T00:33:13.833Z"
+generated_at: "2026-03-29T02:16:08.967Z"
 ---
 
 # § 30307. Criminal penalties
 
-(a) A person (except an individual described in section 30305(b)(6) 1 1 See References in Text note below. of this title) shall be fined under title 18, imprisoned for not more than one year, or both, if—
-  (1) the person receives under section 30305 of this title information specified in section 30304(b)(1)(A) or (C) of this title;
-  (2) disclosure of the information is not authorized by section 30305 of this title ; and
-  (3) the person willfully discloses the information knowing that disclosure is not authorized.
-(b) A person knowingly and willfully requesting, or under false pretenses obtaining, information specified in section 30304(b)(1)(A) or (C) of this title from a person receiving the information under section 30305 of this title shall be fined under title 18, imprisoned for not more than one year, or both.
+- **(a)** A person (except an individual described in section 30305(b)(6) 1 1 See References in Text note below. of this title) shall be fined under title 18, imprisoned for not more than one year, or both, if—
+  - **(1)** the person receives under section 30305 of this title information specified in section 30304(b)(1)(A) or (C) of this title;
+  - **(2)** disclosure of the information is not authorized by section 30305 of this title ; and
+  - **(3)** the person willfully discloses the information knowing that disclosure is not authorized.
+- **(b)** A person knowingly and willfully requesting, or under false pretenses obtaining, information specified in section 30304(b)(1)(A) or (C) of this title from a person receiving the information under section 30305 of this title shall be fined under title 18, imprisoned for not more than one year, or both.

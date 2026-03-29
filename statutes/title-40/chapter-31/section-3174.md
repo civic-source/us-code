@@ -5,7 +5,7 @@ usc_section: "3174"
 chapter: 31
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 3174"
-generated_at: "2026-03-29T00:32:20.549Z"
+generated_at: "2026-03-29T02:14:58.790Z"
 ---
 
 # § 3174. Operation of public utility communications services serving governmental activities

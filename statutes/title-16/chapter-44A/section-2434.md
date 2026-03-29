@@ -5,17 +5,17 @@ usc_section: "2434"
 chapter: 44
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 2434"
-generated_at: "2026-03-29T00:29:52.775Z"
+generated_at: "2026-03-29T02:11:53.858Z"
 ---
 
 # § 2434. Conservation measures; system of observation and inspection
 
-(a) 
-  (1) The Secretary of State, with the concurrence of the Secretary of Commerce and the Director of the National Science Foundation, is authorized—
-    (A) to decide on behalf of the United States whether the United States is unable to accept or can no longer accept a conservation measure adopted by the Commission pursuant to article IX of the Convention, and
-    (B) to notify the Commission of any such decision in accordance with article IX of the Convention.
-  (2) The Secretary of State shall—
-    (A) publish in the Federal Register, if practicable, timely notice of each proposed decision under paragraph (1) and invite written public comment regarding it; and
-    (B) publish in the Federal Register notice of each notification made to the Commission under paragraph (1).
-(b) The Secretary of State, with the concurrence of the Secretary of Commerce, the Director of the National Science Foundation and the Secretary of the department in which the Coast Guard is operating, is authorized to agree on behalf of the United States to the establishment of a system of observation and inspection, and to interim arrangements pending establishment of such a system, pursuant to article XXIV of the Convention.
-(c) The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, and other communications from the Commission and to take appropriate action on them, either directly or by reference to the appropriate authority.
+- **(a)**
+  - **(1)** The Secretary of State, with the concurrence of the Secretary of Commerce and the Director of the National Science Foundation, is authorized—
+    - **(A)** to decide on behalf of the United States whether the United States is unable to accept or can no longer accept a conservation measure adopted by the Commission pursuant to article IX of the Convention, and
+    - **(B)** to notify the Commission of any such decision in accordance with article IX of the Convention.
+  - **(2)** The Secretary of State shall—
+    - **(A)** publish in the Federal Register, if practicable, timely notice of each proposed decision under paragraph (1) and invite written public comment regarding it; and
+    - **(B)** publish in the Federal Register notice of each notification made to the Commission under paragraph (1).
+- **(b)** The Secretary of State, with the concurrence of the Secretary of Commerce, the Director of the National Science Foundation and the Secretary of the department in which the Coast Guard is operating, is authorized to agree on behalf of the United States to the establishment of a system of observation and inspection, and to interim arrangements pending establishment of such a system, pursuant to article XXIV of the Convention.
+- **(c)** The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, and other communications from the Commission and to take appropriate action on them, either directly or by reference to the appropriate authority.

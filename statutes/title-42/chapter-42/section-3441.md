@@ -5,7 +5,7 @@ usc_section: "3441"
 chapter: 42
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3441"
-generated_at: "2026-03-29T00:32:53.836Z"
+generated_at: "2026-03-29T02:15:36.667Z"
 ---
 
 # § 3441. Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405(b) , Oct. 17, 2000 , 114 Stat. 1221

@@ -5,20 +5,20 @@ usc_section: "1011"
 chapter: 18
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1011"
-generated_at: "2026-03-29T00:29:52.679Z"
+generated_at: "2026-03-29T02:11:53.730Z"
 ---
 
 # § 1011. Watershed restoration and enhancement agreements
 
-(a) For fiscal year 1997 and each fiscal year thereafter, appropriations made for the Bureau of Land Management including appropriations for the Wildland Fire Management account allocated to the National Park Service, Fish and Wildlife Service, and Bureau of Indian Affairs may be used by the Secretary of the Interior for the purpose of entering into cooperative agreements with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened that benefit these resources on public lands within the watershed.
-(b) The Secretary of the Interior may enter into a watershed restoration and enhancement agreement—
-  (1) directly with a willing private landowner; or
-  (2) indirectly through an agreement with a state, local, or tribal government or other public entity, educational institution, or private nonprofit organization.
-(c) In order for the Secretary to enter into a watershed restoration and enhancement agreement—
-  (1) the agreement shall—
-    (A) include such terms and conditions mutually agreed to by the Secretary and the landowner;
-    (B) improve the viability of and otherwise benefit the fish, wildlife, and other biotic resources on public land in the watershed;
-    (C) authorize the provision of technical assistance by the Secretary in the planning of management activities that will further the purposes of the agreement;
-    (D) provide for the sharing of costs of implementing the agreement among the Federal government, 1 1 So in original. Probably should be capitalized. the landowner, and other entities, as mutually agreed on by the affected interests; and
-    (E) ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to be in the public interest; and
-  (2) the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.
+- **(a)** For fiscal year 1997 and each fiscal year thereafter, appropriations made for the Bureau of Land Management including appropriations for the Wildland Fire Management account allocated to the National Park Service, Fish and Wildlife Service, and Bureau of Indian Affairs may be used by the Secretary of the Interior for the purpose of entering into cooperative agreements with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened that benefit these resources on public lands within the watershed.
+- **(b)** The Secretary of the Interior may enter into a watershed restoration and enhancement agreement—
+  - **(1)** directly with a willing private landowner; or
+  - **(2)** indirectly through an agreement with a state, local, or tribal government or other public entity, educational institution, or private nonprofit organization.
+- **(c)** In order for the Secretary to enter into a watershed restoration and enhancement agreement—
+  - **(1)** the agreement shall—
+    - **(A)** include such terms and conditions mutually agreed to by the Secretary and the landowner;
+    - **(B)** improve the viability of and otherwise benefit the fish, wildlife, and other biotic resources on public land in the watershed;
+    - **(C)** authorize the provision of technical assistance by the Secretary in the planning of management activities that will further the purposes of the agreement;
+    - **(D)** provide for the sharing of costs of implementing the agreement among the Federal government, 1 1 So in original. Probably should be capitalized. the landowner, and other entities, as mutually agreed on by the affected interests; and
+    - **(E)** ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to be in the public interest; and
+  - **(2)** the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.

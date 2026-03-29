@@ -5,107 +5,107 @@ usc_section: "18081"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18081"
-generated_at: "2026-03-29T00:32:54.464Z"
+generated_at: "2026-03-29T02:15:37.432Z"
 ---
 
 # § 18081. Procedures for determining eligibility for Exchange participation, premium tax credits and reduced cost-sharing, and individual responsibility exemptions
 
-(a) The Secretary shall establish a program meeting the requirements of this section for determining—
-  (1) whether an individual who is to be covered in the individual market by a qualified health plan offered through an Exchange, or who is claiming a premium tax credit or reduced cost-sharing, meets the requirements of sections 18032(f)(3), 18071(e), and 18082(d) of this title and section 36B(e) of title 26 that the individual be a citizen or national of the United States or an alien lawfully present in the United States;
-  (2) in the case of an individual claiming a premium tax credit or reduced cost-sharing under section 36B of title 26 or section 18071 of this title —
-    (A) whether the individual meets the income and coverage requirements of such sections; and
-    (B) the amount of the tax credit or reduced cost-sharing;
-  (3) whether an individual’s coverage under an employer-sponsored health benefits plan is treated as unaffordable under sections 36B(c)(2)(C) and 5000A(e)(2) of title 26; 1 1 See References in Text note below. and
-  (4) whether to grant a certification under section 18031(d)(4)(H) of this title attesting that, for purposes of the individual responsibility requirement under section 5000A of title 26 , an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
-(b) 
-  (1) An applicant for enrollment in a qualified health plan offered through an Exchange in the individual market shall provide—
-    (A) the name, address, and date of birth of each individual who is to be covered by the plan (in this subsection referred to as an “enrollee”); and
-    (B) the information required by any of the following paragraphs that is applicable to an enrollee.
-  (2) The following information shall be provided with respect to every enrollee:
-    (A) In the case of an enrollee whose eligibility is based on an attestation of citizenship of the enrollee, the enrollee’s social security number.
-    (B) In the case of an individual whose eligibility is based on an attestation of the enrollee’s immigration status, the enrollee’s social security number (if applicable) and such identifying information with respect to the enrollee’s immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
-  (3) In the case of an enrollee with respect to whom a premium tax credit or reduced cost-sharing under section 36B of title 26 or section 18071 of this title is being claimed, the following information:
-    (A) The information described in section 6103( l )(21) of title 26 1 for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
-    (B) The amount of the enrollee’s permitted benefit (as defined in section 9831(d)(3)(C) of title 26 ) under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of such title).
-    (C) The information described in section 18082(b)(2) of this title , including information with respect to individuals who were not required to file an income tax return for the taxable year described in subparagraph (A) or individuals who experienced changes in marital status or family size or significant reductions in income.
-  (4) In the case of an enrollee with respect to whom eligibility for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee’s (or related individual’s) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
-    (A) The name, address, and employer identification number (if available) of the employer.
-    (B) Whether the enrollee or individual is a full-time employee and whether the employer provides such minimum essential coverage.
-    (C) If the employer provides such minimum essential coverage, the lowest cost option for the enrollee’s or individual’s enrollment status and the enrollee’s or individual’s required contribution (within the meaning of section 5000A(e)(1)(B) of title 26 ) under the employer-sponsored plan.
-    (D) If an enrollee claims an employer’s minimum essential coverage is unaffordable, the information described in paragraph (3).
-  (5) In the case of an individual who is seeking an exemption certificate under section 18031(d)(4)(H) of this title from any requirement or penalty imposed by section 5000A of title 26 , 1 the following information:
-    (A) In the case of an individual seeking exemption based on the individual’s status as a member of an exempt religious sect or division, as a member of a health care sharing ministry, as an Indian, or as an individual eligible for a hardship exemption, such information as the Secretary shall prescribe.
-    (B) In the case of an individual seeking exemption based on the lack of affordable coverage or the individual’s status as a taxpayer with household income less than 100 percent of the poverty line, the information described in paragraphs (3) and (4), as applicable.
-(c) 
-  (1) An Exchange shall submit the information provided by an applicant under subsection (b) to the Secretary for verification in accordance with the requirements of this subsection and subsection (d).
-  (2) 
-    (A) The Secretary shall submit to the Commissioner of Social Security the following information for a determination as to whether the information provided is consistent with the information in the records of the Commissioner:
-      (i) The name, date of birth, and social security number of each individual for whom such information was provided under subsection (b)(2).
-      (ii) The attestation of an individual that the individual is a citizen.
-    (B) 
-      (i) In the case of an individual—
-        (I) who attests that the individual is an alien lawfully present in the United States; or
-        (II) who attests that the individual is a citizen but with respect to whom the Commissioner of Social Security has notified the Secretary under subsection (e)(3) that the attestation is inconsistent with information in the records maintained by the Commissioner;
-      (ii) The information described in clause (ii) is the following:
-        (I) The name, date of birth, and any identifying information with respect to the individual’s immigration status provided under subsection (b)(2).
-        (II) The attestation that the individual is an alien lawfully present in the United States or in the case of an individual described in clause (i)(II), the attestation that the individual is a citizen.
-  (3) The Secretary shall submit the information described in subsection (b)(3)(A) provided under paragraph (3), (4), or (5) of subsection (b) to the Secretary of the Treasury for verification of household income and family size for purposes of eligibility.
-  (4) 
-    (A) The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
-      (i) through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
-      (ii) by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through such other method as is approved by the Secretary.
-    (B) The Secretary may modify the methods used under the program established by this section for the Exchange 2 2 So in original. Probably should not be capitalized. and verification of information if the Secretary determines such modifications would reduce the administrative costs and burdens on the applicant, including allowing an applicant to request the Secretary of the Treasury to provide the information described in paragraph (3) directly to the Exchange or to the Secretary. The Secretary shall not make any such modification unless the Secretary determines that any applicable requirements under this section and section 6103 of title 26 with respect to the confidentiality, disclosure, maintenance, or use of information will be met.
-(d) In the case of information provided under subsection (b) that is not required under subsection (c) to be submitted to another person for verification, the Secretary shall verify the accuracy of such information in such manner as the Secretary determines appropriate, including delegating responsibility for verification to the Exchange.
-(e) 
-  (1) Each person to whom the Secretary provided information under subsection (c) shall report to the Secretary under the method established under subsection (c)(4) the results of its verification and the Secretary shall notify the Exchange of such results. Each person to whom the Secretary provided information under subsection (d) shall report to the Secretary in such manner as the Secretary determines appropriate.
-  (2) 
-    (A) If information provided by an applicant under paragraphs (1), (2), (3), and (4) of subsection (b) is verified under subsections (c) and (d)—
-      (i) the individual’s eligibility to enroll through the Exchange and to apply for premium tax credits and cost-sharing reductions shall be satisfied; and
-      (ii) the Secretary shall, if applicable, notify the Secretary of the Treasury under section 18082(c) of this title of the amount of any advance payment to be made.
-    (B) If information provided by an applicant under subsection (b)(5) is verified under subsections (c) and (d), the Secretary shall issue the certification of exemption described in section 18031(d)(4)(H) of this title .
-  (3) If the information provided by any applicant under subsection (b)(2) is inconsistent with information in the records maintained by the Commissioner of Social Security or Secretary of Homeland Security, whichever is applicable, the applicant’s eligibility will be determined in the same manner as an individual’s eligibility under the medicaid program is determined under section 1396a(ee) of this title (as in effect on January 1, 2010 ).
-  (4) 
-    (A) If the information provided by an applicant under subsection (b) (other than subsection (b)(2)) is inconsistent with information in the records maintained by persons under subsection (c) or is not verified under subsection (d), the Secretary shall notify the Exchange and the Exchange shall take the following actions:
-      (i) The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
-      (ii) In the case the inconsistency or inability to verify is not resolved under subparagraph (A), the Exchange shall—
-        (I) notify the applicant of such fact;
-        (II) provide the applicant an opportunity to either present satisfactory documentary evidence or resolve the inconsistency with the person verifying the information under subsection (c) or (d) during the 90-day period beginning the date on which the notice required under subclause (I) is sent to the applicant.
-    (B) 
-      (i) Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a) on the basis of the information contained on the application.
-      (ii) If an inconsistency involving the eligibility for, or amount of, any premium tax credit or cost-sharing reduction is unresolved under this subsection as of the close of the period under subparagraph (A)(ii)(II), the Exchange shall notify the applicant of the amount (if any) of the credit or reduction that is determined on the basis of the records maintained by persons under subsection (c).
-      (iii) If the Secretary notifies an Exchange that an enrollee is eligible for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title because the enrollee’s (or related individual’s) employer does not provide minimum essential coverage through an employer-sponsored plan or that the employer does provide that coverage but it is not affordable coverage, the Exchange shall notify the employer of such fact and that the employer may be liable for the payment assessed under section 4980H of title 26 .
-      (iv) In any case where the inconsistency involving, or inability to verify, information provided under subsection (b)(5) is not resolved as of the close of the period under subparagraph (A)(ii)(II), the Exchange shall notify an applicant that no certification of exemption from any requirement or payment under section 5000A of such title will be issued.
-    (C) The Exchange shall also notify each person receiving notice under this paragraph of the appeals processes established under subsection (f).
-(f) 
-  (1) The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall establish procedures by which the Secretary or one of such other Federal officers—
-    (A) hears and makes decisions with respect to appeals of any determination under subsection (e); and
-    (B) redetermines eligibility on a periodic basis in appropriate circumstances.
-  (2) 
-    (A) The Secretary shall establish a separate appeals process for employers who are notified under subsection (e)(4)(C) that the employer may be liable for a tax imposed by section 4980H of title 26 with respect to an employee because of a determination that the employer does not provide minimum essential coverage through an employer-sponsored plan or that the employer does provide that coverage but it is not affordable coverage with respect to an employee. Such process shall provide an employer the opportunity to—
-      (i) present information to the Exchange for review of the determination either by the Exchange or the person making the determination, including evidence of the employer-sponsored plan and employer contributions to the plan; and
-      (ii) have access to the data used to make the determination to the extent allowable by law.
-    (B) Notwithstanding any provision of this title 1 (or the amendments made by this title) 1 or section 6103 of title 26 , an employer shall not be entitled to any taxpayer return information with respect to an employee for purposes of determining whether the employer is subject to the penalty under section 4980H of title 26 with respect to the employee, except that—
-      (i) the employer may be notified as to the name of an employee and whether or not the employee’s income is above or below the threshold by which the affordability of an employer’s health insurance coverage is measured; and
-      (ii) this subparagraph shall not apply to an employee who provides a waiver (at such time and in such manner as the Secretary may prescribe) authorizing an employer to have access to the employee’s taxpayer return information.
-(g) 
-  (1) An applicant for insurance coverage or for a premium tax credit or cost-sharing reduction shall be required to provide only the information strictly necessary to authenticate identity, determine eligibility, and determine the amount of the credit or reduction.
-  (2) Any person who receives information provided by an applicant under subsection (b) (whether directly or by another person at the request of the applicant), or receives information from a Federal agency under subsection (c), (d), or (e), shall—
-    (A) use the information only for the purposes of, and to the extent necessary in, ensuring the efficient operation of the Exchange, including verifying the eligibility of an individual to enroll through an Exchange or to claim a premium tax credit or cost-sharing reduction or the amount of the credit or reduction; and
-    (B) not disclose the information to any other person except as provided in this section.
-(h) 
-  (1) 
-    (A) 
-      (i) If—
-        (I) any person fails to provides 3 3 So in original. Probably should be “provide”. correct information under subsection (b); and
-        (II) such failure is attributable to negligence or disregard of any rules or regulations of the Secretary,
-      (ii) No penalty shall be imposed under clause (i) if the Secretary determines that there was a reasonable cause for the failure and that the person acted in good faith.
-    (B) Any person who knowingly and willfully provides false or fraudulent information under subsection (b) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $250,000.
-  (2) Any person who knowingly and willfully uses or discloses information in violation of subsection (g) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $25,000.
-  (3) The Secretary (or, if applicable, the Attorney General of the United States) shall not—
-    (A) file notice of lien with respect to any property of a person by reason of any failure to pay the penalty imposed by this subsection; or
-    (B) levy on any such property with respect to such failure.
-(i) 
-  (1) The Secretary of Health and Human Services shall, in consultation with the Secretary of the Treasury, conduct a study of the procedures that are necessary to ensure that in the administration of this title 1 and section 4980H of title 26 (as added by section 1513) 1 that the following rights are protected:
-    (A) The rights of employees to preserve their right to confidentiality of their taxpayer return information and their right to enroll in a qualified health plan through an Exchange if an employer does not provide affordable coverage.
-    (B) The rights of employers to adequate due process and access to information necessary to accurately determine any payment assessed on employers.
-  (2) Not later than January 1, 2013 , the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of 4 4 So in original. Probably should be “on”. Education and Labor and Ways and Means of the House of Representatives.
+- **(a)** The Secretary shall establish a program meeting the requirements of this section for determining—
+  - **(1)** whether an individual who is to be covered in the individual market by a qualified health plan offered through an Exchange, or who is claiming a premium tax credit or reduced cost-sharing, meets the requirements of sections 18032(f)(3), 18071(e), and 18082(d) of this title and section 36B(e) of title 26 that the individual be a citizen or national of the United States or an alien lawfully present in the United States;
+  - **(2)** in the case of an individual claiming a premium tax credit or reduced cost-sharing under section 36B of title 26 or section 18071 of this title —
+    - **(A)** whether the individual meets the income and coverage requirements of such sections; and
+    - **(B)** the amount of the tax credit or reduced cost-sharing;
+  - **(3)** whether an individual’s coverage under an employer-sponsored health benefits plan is treated as unaffordable under sections 36B(c)(2)(C) and 5000A(e)(2) of title 26; 1 1 See References in Text note below. and
+  - **(4)** whether to grant a certification under section 18031(d)(4)(H) of this title attesting that, for purposes of the individual responsibility requirement under section 5000A of title 26 , an individual is entitled to an exemption from either the individual responsibility requirement or the penalty imposed by such section.
+- **(b)**
+  - **(1)** An applicant for enrollment in a qualified health plan offered through an Exchange in the individual market shall provide—
+    - **(A)** the name, address, and date of birth of each individual who is to be covered by the plan (in this subsection referred to as an “enrollee”); and
+    - **(B)** the information required by any of the following paragraphs that is applicable to an enrollee.
+  - **(2)** The following information shall be provided with respect to every enrollee:
+    - **(A)** In the case of an enrollee whose eligibility is based on an attestation of citizenship of the enrollee, the enrollee’s social security number.
+    - **(B)** In the case of an individual whose eligibility is based on an attestation of the enrollee’s immigration status, the enrollee’s social security number (if applicable) and such identifying information with respect to the enrollee’s immigration status as the Secretary, after consultation with the Secretary of Homeland Security, determines appropriate.
+  - **(3)** In the case of an enrollee with respect to whom a premium tax credit or reduced cost-sharing under section 36B of title 26 or section 18071 of this title is being claimed, the following information:
+    - **(A)** The information described in section 6103( l )(21) of title 26 1 for the taxable year ending with or within the second calendar year preceding the calendar year in which the plan year begins.
+    - **(B)** The amount of the enrollee’s permitted benefit (as defined in section 9831(d)(3)(C) of title 26 ) under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of such title).
+    - **(C)** The information described in section 18082(b)(2) of this title , including information with respect to individuals who were not required to file an income tax return for the taxable year described in subparagraph (A) or individuals who experienced changes in marital status or family size or significant reductions in income.
+  - **(4)** In the case of an enrollee with respect to whom eligibility for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee’s (or related individual’s) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
+    - **(A)** The name, address, and employer identification number (if available) of the employer.
+    - **(B)** Whether the enrollee or individual is a full-time employee and whether the employer provides such minimum essential coverage.
+    - **(C)** If the employer provides such minimum essential coverage, the lowest cost option for the enrollee’s or individual’s enrollment status and the enrollee’s or individual’s required contribution (within the meaning of section 5000A(e)(1)(B) of title 26 ) under the employer-sponsored plan.
+    - **(D)** If an enrollee claims an employer’s minimum essential coverage is unaffordable, the information described in paragraph (3).
+  - **(5)** In the case of an individual who is seeking an exemption certificate under section 18031(d)(4)(H) of this title from any requirement or penalty imposed by section 5000A of title 26 , 1 the following information:
+    - **(A)** In the case of an individual seeking exemption based on the individual’s status as a member of an exempt religious sect or division, as a member of a health care sharing ministry, as an Indian, or as an individual eligible for a hardship exemption, such information as the Secretary shall prescribe.
+    - **(B)** In the case of an individual seeking exemption based on the lack of affordable coverage or the individual’s status as a taxpayer with household income less than 100 percent of the poverty line, the information described in paragraphs (3) and (4), as applicable.
+- **(c)**
+  - **(1)** An Exchange shall submit the information provided by an applicant under subsection (b) to the Secretary for verification in accordance with the requirements of this subsection and subsection (d).
+  - **(2)**
+    - **(A)** The Secretary shall submit to the Commissioner of Social Security the following information for a determination as to whether the information provided is consistent with the information in the records of the Commissioner:
+      - **(i)** The name, date of birth, and social security number of each individual for whom such information was provided under subsection (b)(2).
+      - **(ii)** The attestation of an individual that the individual is a citizen.
+    - **(B)**
+      - **(i)** In the case of an individual—
+        - **(I)** who attests that the individual is an alien lawfully present in the United States; or
+        - **(II)** who attests that the individual is a citizen but with respect to whom the Commissioner of Social Security has notified the Secretary under subsection (e)(3) that the attestation is inconsistent with information in the records maintained by the Commissioner;
+      - **(ii)** The information described in clause (ii) is the following:
+        - **(I)** The name, date of birth, and any identifying information with respect to the individual’s immigration status provided under subsection (b)(2).
+        - **(II)** The attestation that the individual is an alien lawfully present in the United States or in the case of an individual described in clause (i)(II), the attestation that the individual is a citizen.
+  - **(3)** The Secretary shall submit the information described in subsection (b)(3)(A) provided under paragraph (3), (4), or (5) of subsection (b) to the Secretary of the Treasury for verification of household income and family size for purposes of eligibility.
+  - **(4)**
+    - **(A)** The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall provide that verifications and determinations under this subsection shall be done—
+      - **(i)** through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
+      - **(ii)** by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through such other method as is approved by the Secretary.
+    - **(B)** The Secretary may modify the methods used under the program established by this section for the Exchange 2 2 So in original. Probably should not be capitalized. and verification of information if the Secretary determines such modifications would reduce the administrative costs and burdens on the applicant, including allowing an applicant to request the Secretary of the Treasury to provide the information described in paragraph (3) directly to the Exchange or to the Secretary. The Secretary shall not make any such modification unless the Secretary determines that any applicable requirements under this section and section 6103 of title 26 with respect to the confidentiality, disclosure, maintenance, or use of information will be met.
+- **(d)** In the case of information provided under subsection (b) that is not required under subsection (c) to be submitted to another person for verification, the Secretary shall verify the accuracy of such information in such manner as the Secretary determines appropriate, including delegating responsibility for verification to the Exchange.
+- **(e)**
+  - **(1)** Each person to whom the Secretary provided information under subsection (c) shall report to the Secretary under the method established under subsection (c)(4) the results of its verification and the Secretary shall notify the Exchange of such results. Each person to whom the Secretary provided information under subsection (d) shall report to the Secretary in such manner as the Secretary determines appropriate.
+  - **(2)**
+    - **(A)** If information provided by an applicant under paragraphs (1), (2), (3), and (4) of subsection (b) is verified under subsections (c) and (d)—
+      - **(i)** the individual’s eligibility to enroll through the Exchange and to apply for premium tax credits and cost-sharing reductions shall be satisfied; and
+      - **(ii)** the Secretary shall, if applicable, notify the Secretary of the Treasury under section 18082(c) of this title of the amount of any advance payment to be made.
+    - **(B)** If information provided by an applicant under subsection (b)(5) is verified under subsections (c) and (d), the Secretary shall issue the certification of exemption described in section 18031(d)(4)(H) of this title .
+  - **(3)** If the information provided by any applicant under subsection (b)(2) is inconsistent with information in the records maintained by the Commissioner of Social Security or Secretary of Homeland Security, whichever is applicable, the applicant’s eligibility will be determined in the same manner as an individual’s eligibility under the medicaid program is determined under section 1396a(ee) of this title (as in effect on January 1, 2010 ).
+  - **(4)**
+    - **(A)** If the information provided by an applicant under subsection (b) (other than subsection (b)(2)) is inconsistent with information in the records maintained by persons under subsection (c) or is not verified under subsection (d), the Secretary shall notify the Exchange and the Exchange shall take the following actions:
+      - **(i)** The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
+      - **(ii)** In the case the inconsistency or inability to verify is not resolved under subparagraph (A), the Exchange shall—
+        - **(I)** notify the applicant of such fact;
+        - **(II)** provide the applicant an opportunity to either present satisfactory documentary evidence or resolve the inconsistency with the person verifying the information under subsection (c) or (d) during the 90-day period beginning the date on which the notice required under subclause (I) is sent to the applicant.
+    - **(B)**
+      - **(i)** Except as provided in paragraph (3), the Exchange shall, during any period before the close of the period under subparagraph (A)(ii)(II), make any determination under paragraphs (2), (3), and (4) of subsection (a) on the basis of the information contained on the application.
+      - **(ii)** If an inconsistency involving the eligibility for, or amount of, any premium tax credit or cost-sharing reduction is unresolved under this subsection as of the close of the period under subparagraph (A)(ii)(II), the Exchange shall notify the applicant of the amount (if any) of the credit or reduction that is determined on the basis of the records maintained by persons under subsection (c).
+      - **(iii)** If the Secretary notifies an Exchange that an enrollee is eligible for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title because the enrollee’s (or related individual’s) employer does not provide minimum essential coverage through an employer-sponsored plan or that the employer does provide that coverage but it is not affordable coverage, the Exchange shall notify the employer of such fact and that the employer may be liable for the payment assessed under section 4980H of title 26 .
+      - **(iv)** In any case where the inconsistency involving, or inability to verify, information provided under subsection (b)(5) is not resolved as of the close of the period under subparagraph (A)(ii)(II), the Exchange shall notify an applicant that no certification of exemption from any requirement or payment under section 5000A of such title will be issued.
+    - **(C)** The Exchange shall also notify each person receiving notice under this paragraph of the appeals processes established under subsection (f).
+- **(f)**
+  - **(1)** The Secretary, in consultation with the Secretary of the Treasury, the Secretary of Homeland Security, and the Commissioner of Social Security, shall establish procedures by which the Secretary or one of such other Federal officers—
+    - **(A)** hears and makes decisions with respect to appeals of any determination under subsection (e); and
+    - **(B)** redetermines eligibility on a periodic basis in appropriate circumstances.
+  - **(2)**
+    - **(A)** The Secretary shall establish a separate appeals process for employers who are notified under subsection (e)(4)(C) that the employer may be liable for a tax imposed by section 4980H of title 26 with respect to an employee because of a determination that the employer does not provide minimum essential coverage through an employer-sponsored plan or that the employer does provide that coverage but it is not affordable coverage with respect to an employee. Such process shall provide an employer the opportunity to—
+      - **(i)** present information to the Exchange for review of the determination either by the Exchange or the person making the determination, including evidence of the employer-sponsored plan and employer contributions to the plan; and
+      - **(ii)** have access to the data used to make the determination to the extent allowable by law.
+    - **(B)** Notwithstanding any provision of this title 1 (or the amendments made by this title) 1 or section 6103 of title 26 , an employer shall not be entitled to any taxpayer return information with respect to an employee for purposes of determining whether the employer is subject to the penalty under section 4980H of title 26 with respect to the employee, except that—
+      - **(i)** the employer may be notified as to the name of an employee and whether or not the employee’s income is above or below the threshold by which the affordability of an employer’s health insurance coverage is measured; and
+      - **(ii)** this subparagraph shall not apply to an employee who provides a waiver (at such time and in such manner as the Secretary may prescribe) authorizing an employer to have access to the employee’s taxpayer return information.
+- **(g)**
+  - **(1)** An applicant for insurance coverage or for a premium tax credit or cost-sharing reduction shall be required to provide only the information strictly necessary to authenticate identity, determine eligibility, and determine the amount of the credit or reduction.
+  - **(2)** Any person who receives information provided by an applicant under subsection (b) (whether directly or by another person at the request of the applicant), or receives information from a Federal agency under subsection (c), (d), or (e), shall—
+    - **(A)** use the information only for the purposes of, and to the extent necessary in, ensuring the efficient operation of the Exchange, including verifying the eligibility of an individual to enroll through an Exchange or to claim a premium tax credit or cost-sharing reduction or the amount of the credit or reduction; and
+    - **(B)** not disclose the information to any other person except as provided in this section.
+- **(h)**
+  - **(1)**
+    - **(A)**
+      - **(i)** If—
+        - **(I)** any person fails to provides 3 3 So in original. Probably should be “provide”. correct information under subsection (b); and
+        - **(II)** such failure is attributable to negligence or disregard of any rules or regulations of the Secretary,
+      - **(ii)** No penalty shall be imposed under clause (i) if the Secretary determines that there was a reasonable cause for the failure and that the person acted in good faith.
+    - **(B)** Any person who knowingly and willfully provides false or fraudulent information under subsection (b) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $250,000.
+  - **(2)** Any person who knowingly and willfully uses or discloses information in violation of subsection (g) shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $25,000.
+  - **(3)** The Secretary (or, if applicable, the Attorney General of the United States) shall not—
+    - **(A)** file notice of lien with respect to any property of a person by reason of any failure to pay the penalty imposed by this subsection; or
+    - **(B)** levy on any such property with respect to such failure.
+- **(i)**
+  - **(1)** The Secretary of Health and Human Services shall, in consultation with the Secretary of the Treasury, conduct a study of the procedures that are necessary to ensure that in the administration of this title 1 and section 4980H of title 26 (as added by section 1513) 1 that the following rights are protected:
+    - **(A)** The rights of employees to preserve their right to confidentiality of their taxpayer return information and their right to enroll in a qualified health plan through an Exchange if an employer does not provide affordable coverage.
+    - **(B)** The rights of employers to adequate due process and access to information necessary to accurately determine any payment assessed on employers.
+  - **(2)** Not later than January 1, 2013 , the Secretary of Health and Human Services shall report the results of the study conducted under paragraph (1), including any recommendations for legislative changes, to the Committees on Finance and Health, Education, Labor and Pensions of the Senate and the Committees of 4 4 So in original. Probably should be “on”. Education and Labor and Ways and Means of the House of Representatives.

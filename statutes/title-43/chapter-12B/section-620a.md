@@ -5,7 +5,7 @@ usc_section: "620a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 620a"
-generated_at: "2026-03-29T00:32:57.377Z"
+generated_at: "2026-03-29T02:15:47.566Z"
 ---
 
 # § 620a. Priority to planning reports of certain additional participating projects; reports to States; San Juan-Chama project; Juniper project

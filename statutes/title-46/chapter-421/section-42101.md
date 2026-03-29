@@ -5,10 +5,10 @@ usc_section: "42101"
 chapter: 421
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 42101"
-generated_at: "2026-03-29T00:33:02.913Z"
+generated_at: "2026-03-29T02:15:53.754Z"
 ---
 
 # § 42101. Regulations of the Commission
 
-(a) To further the objectives and policy set forth in section 50101 of this title , the Federal Maritime Commission shall prescribe regulations affecting shipping in foreign trade, not in conflict with law, to adjust or meet general or special conditions unfavorable to shipping in foreign trade, whether in a particular trade or on a particular route or in commerce generally, including intermodal movements, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and other activities and services integral to transportation systems, and which arise out of or result from laws or regulations of a foreign country or competitive methods, pricing practices, or other practices employed by owners, operators, agents, or masters of vessels of a foreign country.
-(b) A regulation under subsection (a) may be initiated by the Commission on its own motion or on the petition of any person, including another component of the United States Government.
+- **(a)** To further the objectives and policy set forth in section 50101 of this title , the Federal Maritime Commission shall prescribe regulations affecting shipping in foreign trade, not in conflict with law, to adjust or meet general or special conditions unfavorable to shipping in foreign trade, whether in a particular trade or on a particular route or in commerce generally, including intermodal movements, terminal operations, cargo solicitation, agency services, ocean transportation intermediary services and operations, and other activities and services integral to transportation systems, and which arise out of or result from laws or regulations of a foreign country or competitive methods, pricing practices, or other practices employed by owners, operators, agents, or masters of vessels of a foreign country.
+- **(b)** A regulation under subsection (a) may be initiated by the Commission on its own motion or on the petition of any person, including another component of the United States Government.

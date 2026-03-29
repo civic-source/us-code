@@ -5,7 +5,7 @@ usc_section: "2563"
 chapter: 42
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 2563"
-generated_at: "2026-03-29T00:33:18.157Z"
+generated_at: "2026-03-29T02:16:14.749Z"
 ---
 
 # § 2563. Repealed. Pub. L. 115–91, div. C, title XXXI, § 3133(a)(1) , Dec. 12, 2017 , 131 Stat. 1896

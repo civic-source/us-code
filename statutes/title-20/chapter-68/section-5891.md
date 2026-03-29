@@ -5,7 +5,7 @@ usc_section: "5891"
 chapter: 68
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 5891"
-generated_at: "2026-03-29T00:07:03.183Z"
+generated_at: "2026-03-29T02:12:17.423Z"
 ---
 
 # §§ 5881 to 5891. Repealed. Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 310(i)] , Nov. 29, 1999 , 113 Stat. 1535 , 1501A–265

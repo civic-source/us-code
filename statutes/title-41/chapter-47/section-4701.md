@@ -5,16 +5,16 @@ usc_section: "4701"
 chapter: 47
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 4701"
-generated_at: "2026-03-29T00:32:22.605Z"
+generated_at: "2026-03-29T02:15:00.463Z"
 ---
 
 # § 4701. Determinations and decisions
 
-(a) 
-  (1) Determinations and decisions required to be made under this division by the head of an executive agency or provided in this division or chapters 1 to 11 of title 40 to be made by the Administrator of General Services or other agency head may be made for an individual purchase or contract or, except for determinations or decisions made under sections 3105, 3301, 3303 to 3305, 3306(a)–(e), and 3308, chapter 37, and section 4702 of this title or to the extent expressly prohibited by another law, for a class of purchases or contracts.
-  (2) Except as provided in section 3304(a)(7) of this title , and except as provided in section 121(d)(1) and (2) of title 40 with respect to the Administrator of General Services, the agency head, in the discretion and subject to the direction of the agency head, may delegate powers provided by this division or chapters 1 to 11 of title 40, including the making of determinations and decisions described in paragraph (1), to other officers or officials of the agency.
-  (3) The determinations and decisions are final.
-(b) 
-  (1) Each determination or decision under section 3901, 3905, 4503, or 4706(d)(2)(B) of this title shall be based on a written finding by the individual making the determination or decision. A finding under section 4503 or 4706(d)(2)(B) shall set out facts and circumstances that support the determination or decision.
-  (2) Each finding referred to in paragraph (1) is final.
-  (3) The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
+- **(a)**
+  - **(1)** Determinations and decisions required to be made under this division by the head of an executive agency or provided in this division or chapters 1 to 11 of title 40 to be made by the Administrator of General Services or other agency head may be made for an individual purchase or contract or, except for determinations or decisions made under sections 3105, 3301, 3303 to 3305, 3306(a)–(e), and 3308, chapter 37, and section 4702 of this title or to the extent expressly prohibited by another law, for a class of purchases or contracts.
+  - **(2)** Except as provided in section 3304(a)(7) of this title , and except as provided in section 121(d)(1) and (2) of title 40 with respect to the Administrator of General Services, the agency head, in the discretion and subject to the direction of the agency head, may delegate powers provided by this division or chapters 1 to 11 of title 40, including the making of determinations and decisions described in paragraph (1), to other officers or officials of the agency.
+  - **(3)** The determinations and decisions are final.
+- **(b)**
+  - **(1)** Each determination or decision under section 3901, 3905, 4503, or 4706(d)(2)(B) of this title shall be based on a written finding by the individual making the determination or decision. A finding under section 4503 or 4706(d)(2)(B) shall set out facts and circumstances that support the determination or decision.
+  - **(2)** Each finding referred to in paragraph (1) is final.
+  - **(3)** The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.

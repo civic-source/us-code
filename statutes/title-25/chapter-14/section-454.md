@@ -5,7 +5,7 @@ usc_section: "454"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 454"
-generated_at: "2026-03-29T00:30:38.648Z"
+generated_at: "2026-03-29T02:13:20.863Z"
 ---
 
 # § 454. Transferred

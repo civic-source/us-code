@@ -5,7 +5,7 @@ usc_section: "1335"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1335"
-generated_at: "2026-03-29T00:30:20.121Z"
+generated_at: "2026-03-29T02:12:08.597Z"
 ---
 
 # § 1335. Rules and regulations

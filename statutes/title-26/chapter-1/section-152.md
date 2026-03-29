@@ -5,129 +5,129 @@ usc_section: "152"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 152"
-generated_at: "2026-03-29T00:31:20.645Z"
+generated_at: "2026-03-29T02:14:00.823Z"
 ---
 
 # § 152. Dependent defined
 
-(a) For purposes of this subtitle, the term “dependent” means—
-  (1) a qualifying child, or
-  (2) a qualifying relative.
-(b) For purposes of this section—
-  (1) If an individual is a dependent of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall be treated as having no dependents for any taxable year of such individual beginning in such calendar year.
-  (2) An individual shall not be treated as a dependent of a taxpayer under subsection (a) if such individual has made a joint return with the individual’s spouse under section 6013 for the taxable year beginning in the calendar year in which the taxable year of the taxpayer begins.
-  (3) 
-    (A) The term “dependent” does not include an individual who is not a citizen or national of the United States unless such individual is a resident of the United States or a country contiguous to the United States.
-    (B) Subparagraph (A) shall not exclude any child of a taxpayer (within the meaning of subsection (f)(1)(B)) from the definition of “dependent” if—
-      (i) for the taxable year of the taxpayer, the child has the same principal place of abode as the taxpayer and is a member of the taxpayer’s household, and
-      (ii) the taxpayer is a citizen or national of the United States.
-(c) For purposes of this section—
-  (1) The term “qualifying child” means, with respect to any taxpayer for any taxable year, an individual—
-    (A) who bears a relationship to the taxpayer described in paragraph (2),
-    (B) who has the same principal place of abode as the taxpayer for more than one-half of such taxable year,
-    (C) who meets the age requirements of paragraph (3),
-    (D) who has not provided over one-half of such individual’s own support for the calendar year in which the taxable year of the taxpayer begins, and
-    (E) who has not filed a joint return (other than only for a claim of refund) with the individual’s spouse under section 6013 for the taxable year beginning in the calendar year in which the taxable year of the taxpayer begins.
-  (2) For purposes of paragraph (1)(A), an individual bears a relationship to the taxpayer described in this paragraph if such individual is—
-    (A) a child of the taxpayer or a descendant of such a child, or
-    (B) a brother, sister, stepbrother, or stepsister of the taxpayer or a descendant of any such relative.
-  (3) 
-    (A) For purposes of paragraph (1)(C), an individual meets the requirements of this paragraph if such individual is younger than the taxpayer claiming such individual as a qualifying child and—
-      (i) has not attained the age of 19 as of the close of the calendar year in which the taxable year of the taxpayer begins, or
-      (ii) is a student who has not attained the age of 24 as of the close of such calendar year.
-    (B) In the case of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during such calendar year, the requirements of subparagraph (A) shall be treated as met with respect to such individual.
-  (4) 
-    (A) Except as provided in subparagraphs (B) and (C), if (but for this paragraph) an individual may be claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
-      (i) a parent of the individual, or
-      (ii) if clause (i) does not apply, the taxpayer with the highest adjusted gross income for such taxable year.
-    (B) If the parents claiming any qualifying child do not file a joint return together, such child shall be treated as the qualifying child of—
-      (i) the parent with whom the child resided for the longest period of time during the taxable year, or
-      (ii) if the child resides with both parents for the same amount of time during such taxable year, the parent with the highest adjusted gross income.
-    (C) If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
-(d) For purposes of this section—
-  (1) The term “qualifying relative” means, with respect to any taxpayer for any taxable year, an individual—
-    (A) who bears a relationship to the taxpayer described in paragraph (2),
-    (B) whose gross income for the calendar year in which such taxable year begins is less than the exemption amount (as defined in section 151(d)),
-    (C) with respect to whom the taxpayer provides over one-half of the individual’s support for the calendar year in which such taxable year begins, and
-    (D) who is not a qualifying child of such taxpayer or of any other taxpayer for any taxable year beginning in the calendar year in which such taxable year begins.
-  (2) For purposes of paragraph (1)(A), an individual bears a relationship to the taxpayer described in this paragraph if the individual is any of the following with respect to the taxpayer:
-    (A) A child or a descendant of a child.
-    (B) A brother, sister, stepbrother, or stepsister.
-    (C) The father or mother, or an ancestor of either.
-    (D) A stepfather or stepmother.
-    (E) A son or daughter of a brother or sister of the taxpayer.
-    (F) A brother or sister of the father or mother of the taxpayer.
-    (G) A son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
-    (H) An individual (other than an individual who at any time during the taxable year was the spouse, determined without regard to section 7703, of the taxpayer) who, for the taxable year of the taxpayer, has the same principal place of abode as the taxpayer and is a member of the taxpayer’s household.
-  (3) For purposes of paragraph (1)(C), over one-half of the support of an individual for a calendar year shall be treated as received from the taxpayer if—
-    (A) no one person contributed over one-half of such support,
-    (B) over one-half of such support was received from 2 or more persons each of whom, but for the fact that any such person alone did not contribute over one-half of such support, would have been entitled to claim such individual as a dependent for a taxable year beginning in such calendar year,
-    (C) the taxpayer contributed over 10 percent of such support, and
-    (D) each person described in subparagraph (B) (other than the taxpayer) who contributed over 10 percent of such support files a written declaration (in such manner and form as the Secretary may by regulations prescribe) that such person will not claim such individual as a dependent for any taxable year beginning in such calendar year.
-  (4) 
-    (A) For purposes of paragraph (1)(B), the gross income of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
-      (i) the availability of medical care at such workshop is the principal reason for the individual’s presence there, and
-      (ii) the income arises solely from activities at such workshop which are incident to such medical care.
-    (B) For purposes of subparagraph (A), the term “sheltered workshop” means a school—
-      (i) which provides special instruction or training designed to alleviate the disability of the individual, and
-      (ii) which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by a State, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
-  (5) 
-    (A) For purposes of this subsection—
-      (i) payments to a spouse of alimony or separate maintenance payments shall not be treated as a payment by the payor spouse for the support of any dependent, and
-      (ii) in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
-    (B) For purposes of subparagraph (A), the term “alimony or separate maintenance payment” means any payment in cash if—
-      (i) such payment is received by (or on behalf of) a spouse under a divorce or separation instrument (as defined in section 121(d)(3)(C)),
-      (ii) in the case of an individual legally separated from the individual’s spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
-      (iii) there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
-(e) 
-  (1) Notwithstanding subsection (c)(1)(B), (c)(4), or (d)(1)(C), if—
-    (A) a child receives over one-half of the child’s support during the calendar year from the child’s parents—
-      (i) who are divorced or legally separated under a decree of divorce or separate maintenance,
-      (ii) who are separated under a written separation agreement, or
-      (iii) who live apart at all times during the last 6 months of the calendar year, and—
-    (B) such child is in the custody of 1 or both of the child’s parents for more than one-half of the calendar year, such child shall be treated as being the qualifying child or qualifying relative of the noncustodial parent for a calendar year if the requirements described in paragraph (2) or (3) are met.
-  (2) For purposes of paragraph (1), the requirements described in this paragraph are met with respect to any calendar year if—
-    (A) the custodial parent signs a written declaration (in such manner and form as the Secretary may by regulations prescribe) that such custodial parent will not claim such child as a dependent for any taxable year beginning in such calendar year, and
-    (B) the noncustodial parent attaches such written declaration to the noncustodial parent’s return for the taxable year beginning during such calendar year.
-  (3) 
-    (A) For purposes of paragraph (1), the requirements described in this paragraph are met with respect to any calendar year if—
-      (i) a qualified pre-1985 instrument between the parents applicable to the taxable year beginning in such calendar year provides that the noncustodial parent shall be entitled to any deduction allowable under section 151 for such child, and
-      (ii) the noncustodial parent provides at least $600 for the support of such child during such calendar year.
-    (B) For purposes of this paragraph, the term “qualified pre-1985 instrument” means any decree of divorce or separate maintenance or written agreement—
-      (i) which is executed before January 1, 1985 ,
-      (ii) which on such date contains the provision described in subparagraph (A)(i), and
-      (iii) which is not modified on or after such date in a modification which expressly provides that this paragraph shall not apply to such decree or agreement.
-  (4) For purposes of this subsection—
-    (A) The term “custodial parent” means the parent having custody for the greater portion of the calendar year.
-    (B) The term “noncustodial parent” means the parent who is not the custodial parent.
-  (5) This subsection shall not apply in any case where over one-half of the support of the child is treated as having been received from a taxpayer under the provision of subsection (d)(3).
-  (6) For purposes of this subsection, in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
-(f) For purposes of this section—
-  (1) 
-    (A) The term “child” means an individual who is—
-      (i) a son, daughter, stepson, or stepdaughter of the taxpayer, or
-      (ii) an eligible foster child of the taxpayer.
-    (B) In determining whether any of the relationships specified in subparagraph (A)(i) or paragraph (4) exists, a legally adopted individual of the taxpayer, or an individual who is lawfully placed with the taxpayer for legal adoption by the taxpayer, shall be treated as a child of such individual by blood.
-    (C) For purposes of subparagraph (A)(ii), the term “eligible foster child” means an individual who is placed with the taxpayer by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
-  (2) The term “student” means an individual who during each of 5 calendar months during the calendar year in which the taxable year of the taxpayer begins—
-    (A) is a full-time student at an educational organization described in section 170(b)(1)(A)(ii), or
-    (B) is pursuing a full-time course of institutional on-farm training under the supervision of an accredited agent of an educational organization described in section 170(b)(1)(A)(ii) or of a State or political subdivision of a State.
-  (3) An individual shall not be treated as a member of the taxpayer’s household if at any time during the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
-  (4) The terms “brother” and “sister” include a brother or sister by the half blood.
-  (5) For purposes of subsections (c)(1)(D) and (d)(1)(C), in the case of an individual who is—
-    (A) a child of the taxpayer, and
-    (B) a student,
-  (6) 
-    (A) Solely for the purposes referred to in subparagraph (B), a child of the taxpayer—
-      (i) who is presumed by law enforcement authorities to have been kidnapped by someone who is not a member of the family of such child or the taxpayer, and
-      (ii) who had, for the taxable year in which the kidnapping occurred, the same principal place of abode as the taxpayer for more than one-half of the portion of such year before the date of the kidnapping,
-    (B) Subparagraph (A) shall apply solely for purposes of determining—
-      (i) the deduction under section 151(c),
-      (ii) the credit under section 24 (relating to child tax credit),
-      (iii) whether an individual is a surviving spouse or a head of a household (as such terms are defined in section 2), and
-      (iv) the earned income credit under section 32.
-    (C) For purposes of this section, a child of the taxpayer—
-      (i) who is presumed by law enforcement authorities to have been kidnapped by someone who is not a member of the family of such child or the taxpayer, and
-      (ii) who was (without regard to this paragraph) a qualifying relative of the taxpayer for the portion of the taxable year before the date of the kidnapping,
-    (D) Subparagraphs (A) and (C) shall cease to apply as of the first taxable year of the taxpayer beginning after the calendar year in which there is a determination that the child is dead (or, if earlier, in which the child would have attained age 18).
-  (7) For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).
+- **(a)** For purposes of this subtitle, the term “dependent” means—
+  - **(1)** a qualifying child, or
+  - **(2)** a qualifying relative.
+- **(b)** For purposes of this section—
+  - **(1)** If an individual is a dependent of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall be treated as having no dependents for any taxable year of such individual beginning in such calendar year.
+  - **(2)** An individual shall not be treated as a dependent of a taxpayer under subsection (a) if such individual has made a joint return with the individual’s spouse under section 6013 for the taxable year beginning in the calendar year in which the taxable year of the taxpayer begins.
+  - **(3)**
+    - **(A)** The term “dependent” does not include an individual who is not a citizen or national of the United States unless such individual is a resident of the United States or a country contiguous to the United States.
+    - **(B)** Subparagraph (A) shall not exclude any child of a taxpayer (within the meaning of subsection (f)(1)(B)) from the definition of “dependent” if—
+      - **(i)** for the taxable year of the taxpayer, the child has the same principal place of abode as the taxpayer and is a member of the taxpayer’s household, and
+      - **(ii)** the taxpayer is a citizen or national of the United States.
+- **(c)** For purposes of this section—
+  - **(1)** The term “qualifying child” means, with respect to any taxpayer for any taxable year, an individual—
+    - **(A)** who bears a relationship to the taxpayer described in paragraph (2),
+    - **(B)** who has the same principal place of abode as the taxpayer for more than one-half of such taxable year,
+    - **(C)** who meets the age requirements of paragraph (3),
+    - **(D)** who has not provided over one-half of such individual’s own support for the calendar year in which the taxable year of the taxpayer begins, and
+    - **(E)** who has not filed a joint return (other than only for a claim of refund) with the individual’s spouse under section 6013 for the taxable year beginning in the calendar year in which the taxable year of the taxpayer begins.
+  - **(2)** For purposes of paragraph (1)(A), an individual bears a relationship to the taxpayer described in this paragraph if such individual is—
+    - **(A)** a child of the taxpayer or a descendant of such a child, or
+    - **(B)** a brother, sister, stepbrother, or stepsister of the taxpayer or a descendant of any such relative.
+  - **(3)**
+    - **(A)** For purposes of paragraph (1)(C), an individual meets the requirements of this paragraph if such individual is younger than the taxpayer claiming such individual as a qualifying child and—
+      - **(i)** has not attained the age of 19 as of the close of the calendar year in which the taxable year of the taxpayer begins, or
+      - **(ii)** is a student who has not attained the age of 24 as of the close of such calendar year.
+    - **(B)** In the case of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during such calendar year, the requirements of subparagraph (A) shall be treated as met with respect to such individual.
+  - **(4)**
+    - **(A)** Except as provided in subparagraphs (B) and (C), if (but for this paragraph) an individual may be claimed as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
+      - **(i)** a parent of the individual, or
+      - **(ii)** if clause (i) does not apply, the taxpayer with the highest adjusted gross income for such taxable year.
+    - **(B)** If the parents claiming any qualifying child do not file a joint return together, such child shall be treated as the qualifying child of—
+      - **(i)** the parent with whom the child resided for the longest period of time during the taxable year, or
+      - **(ii)** if the child resides with both parents for the same amount of time during such taxable year, the parent with the highest adjusted gross income.
+    - **(C)** If the parents of an individual may claim such individual as a qualifying child but no parent so claims the individual, such individual may be claimed as the qualifying child of another taxpayer but only if the adjusted gross income of such taxpayer is higher than the highest adjusted gross income of any parent of the individual.
+- **(d)** For purposes of this section—
+  - **(1)** The term “qualifying relative” means, with respect to any taxpayer for any taxable year, an individual—
+    - **(A)** who bears a relationship to the taxpayer described in paragraph (2),
+    - **(B)** whose gross income for the calendar year in which such taxable year begins is less than the exemption amount (as defined in section 151(d)),
+    - **(C)** with respect to whom the taxpayer provides over one-half of the individual’s support for the calendar year in which such taxable year begins, and
+    - **(D)** who is not a qualifying child of such taxpayer or of any other taxpayer for any taxable year beginning in the calendar year in which such taxable year begins.
+  - **(2)** For purposes of paragraph (1)(A), an individual bears a relationship to the taxpayer described in this paragraph if the individual is any of the following with respect to the taxpayer:
+    - **(A)** A child or a descendant of a child.
+    - **(B)** A brother, sister, stepbrother, or stepsister.
+    - **(C)** The father or mother, or an ancestor of either.
+    - **(D)** A stepfather or stepmother.
+    - **(E)** A son or daughter of a brother or sister of the taxpayer.
+    - **(F)** A brother or sister of the father or mother of the taxpayer.
+    - **(G)** A son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
+    - **(H)** An individual (other than an individual who at any time during the taxable year was the spouse, determined without regard to section 7703, of the taxpayer) who, for the taxable year of the taxpayer, has the same principal place of abode as the taxpayer and is a member of the taxpayer’s household.
+  - **(3)** For purposes of paragraph (1)(C), over one-half of the support of an individual for a calendar year shall be treated as received from the taxpayer if—
+    - **(A)** no one person contributed over one-half of such support,
+    - **(B)** over one-half of such support was received from 2 or more persons each of whom, but for the fact that any such person alone did not contribute over one-half of such support, would have been entitled to claim such individual as a dependent for a taxable year beginning in such calendar year,
+    - **(C)** the taxpayer contributed over 10 percent of such support, and
+    - **(D)** each person described in subparagraph (B) (other than the taxpayer) who contributed over 10 percent of such support files a written declaration (in such manner and form as the Secretary may by regulations prescribe) that such person will not claim such individual as a dependent for any taxable year beginning in such calendar year.
+  - **(4)**
+    - **(A)** For purposes of paragraph (1)(B), the gross income of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
+      - **(i)** the availability of medical care at such workshop is the principal reason for the individual’s presence there, and
+      - **(ii)** the income arises solely from activities at such workshop which are incident to such medical care.
+    - **(B)** For purposes of subparagraph (A), the term “sheltered workshop” means a school—
+      - **(i)** which provides special instruction or training designed to alleviate the disability of the individual, and
+      - **(ii)** which is operated by an organization described in section 501(c)(3) and exempt from tax under section 501(a), or by a State, a possession of the United States, any political subdivision of any of the foregoing, the United States, or the District of Columbia.
+  - **(5)**
+    - **(A)** For purposes of this subsection—
+      - **(i)** payments to a spouse of alimony or separate maintenance payments shall not be treated as a payment by the payor spouse for the support of any dependent, and
+      - **(ii)** in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
+    - **(B)** For purposes of subparagraph (A), the term “alimony or separate maintenance payment” means any payment in cash if—
+      - **(i)** such payment is received by (or on behalf of) a spouse under a divorce or separation instrument (as defined in section 121(d)(3)(C)),
+      - **(ii)** in the case of an individual legally separated from the individual’s spouse under a decree of divorce or of separate maintenance, the payee spouse and the payor spouse are not members of the same household at the time such payment is made, and
+      - **(iii)** there is no liability to make any such payment for any period after the death of the payee spouse and there is no liability to make any payment (in cash or property) as a substitute for such payments after the death of the payee spouse.
+- **(e)**
+  - **(1)** Notwithstanding subsection (c)(1)(B), (c)(4), or (d)(1)(C), if—
+    - **(A)** a child receives over one-half of the child’s support during the calendar year from the child’s parents—
+      - **(i)** who are divorced or legally separated under a decree of divorce or separate maintenance,
+      - **(ii)** who are separated under a written separation agreement, or
+      - **(iii)** who live apart at all times during the last 6 months of the calendar year, and—
+    - **(B)** such child is in the custody of 1 or both of the child’s parents for more than one-half of the calendar year, such child shall be treated as being the qualifying child or qualifying relative of the noncustodial parent for a calendar year if the requirements described in paragraph (2) or (3) are met.
+  - **(2)** For purposes of paragraph (1), the requirements described in this paragraph are met with respect to any calendar year if—
+    - **(A)** the custodial parent signs a written declaration (in such manner and form as the Secretary may by regulations prescribe) that such custodial parent will not claim such child as a dependent for any taxable year beginning in such calendar year, and
+    - **(B)** the noncustodial parent attaches such written declaration to the noncustodial parent’s return for the taxable year beginning during such calendar year.
+  - **(3)**
+    - **(A)** For purposes of paragraph (1), the requirements described in this paragraph are met with respect to any calendar year if—
+      - **(i)** a qualified pre-1985 instrument between the parents applicable to the taxable year beginning in such calendar year provides that the noncustodial parent shall be entitled to any deduction allowable under section 151 for such child, and
+      - **(ii)** the noncustodial parent provides at least $600 for the support of such child during such calendar year.
+    - **(B)** For purposes of this paragraph, the term “qualified pre-1985 instrument” means any decree of divorce or separate maintenance or written agreement—
+      - **(i)** which is executed before January 1, 1985 ,
+      - **(ii)** which on such date contains the provision described in subparagraph (A)(i), and
+      - **(iii)** which is not modified on or after such date in a modification which expressly provides that this paragraph shall not apply to such decree or agreement.
+  - **(4)** For purposes of this subsection—
+    - **(A)** The term “custodial parent” means the parent having custody for the greater portion of the calendar year.
+    - **(B)** The term “noncustodial parent” means the parent who is not the custodial parent.
+  - **(5)** This subsection shall not apply in any case where over one-half of the support of the child is treated as having been received from a taxpayer under the provision of subsection (d)(3).
+  - **(6)** For purposes of this subsection, in the case of the remarriage of a parent, support of a child received from the parent’s spouse shall be treated as received from the parent.
+- **(f)** For purposes of this section—
+  - **(1)**
+    - **(A)** The term “child” means an individual who is—
+      - **(i)** a son, daughter, stepson, or stepdaughter of the taxpayer, or
+      - **(ii)** an eligible foster child of the taxpayer.
+    - **(B)** In determining whether any of the relationships specified in subparagraph (A)(i) or paragraph (4) exists, a legally adopted individual of the taxpayer, or an individual who is lawfully placed with the taxpayer for legal adoption by the taxpayer, shall be treated as a child of such individual by blood.
+    - **(C)** For purposes of subparagraph (A)(ii), the term “eligible foster child” means an individual who is placed with the taxpayer by an authorized placement agency or by judgment, decree, or other order of any court of competent jurisdiction.
+  - **(2)** The term “student” means an individual who during each of 5 calendar months during the calendar year in which the taxable year of the taxpayer begins—
+    - **(A)** is a full-time student at an educational organization described in section 170(b)(1)(A)(ii), or
+    - **(B)** is pursuing a full-time course of institutional on-farm training under the supervision of an accredited agent of an educational organization described in section 170(b)(1)(A)(ii) or of a State or political subdivision of a State.
+  - **(3)** An individual shall not be treated as a member of the taxpayer’s household if at any time during the taxable year of the taxpayer the relationship between such individual and the taxpayer is in violation of local law.
+  - **(4)** The terms “brother” and “sister” include a brother or sister by the half blood.
+  - **(5)** For purposes of subsections (c)(1)(D) and (d)(1)(C), in the case of an individual who is—
+    - **(A)** a child of the taxpayer, and
+    - **(B)** a student,
+  - **(6)**
+    - **(A)** Solely for the purposes referred to in subparagraph (B), a child of the taxpayer—
+      - **(i)** who is presumed by law enforcement authorities to have been kidnapped by someone who is not a member of the family of such child or the taxpayer, and
+      - **(ii)** who had, for the taxable year in which the kidnapping occurred, the same principal place of abode as the taxpayer for more than one-half of the portion of such year before the date of the kidnapping,
+    - **(B)** Subparagraph (A) shall apply solely for purposes of determining—
+      - **(i)** the deduction under section 151(c),
+      - **(ii)** the credit under section 24 (relating to child tax credit),
+      - **(iii)** whether an individual is a surviving spouse or a head of a household (as such terms are defined in section 2), and
+      - **(iv)** the earned income credit under section 32.
+    - **(C)** For purposes of this section, a child of the taxpayer—
+      - **(i)** who is presumed by law enforcement authorities to have been kidnapped by someone who is not a member of the family of such child or the taxpayer, and
+      - **(ii)** who was (without regard to this paragraph) a qualifying relative of the taxpayer for the portion of the taxable year before the date of the kidnapping,
+    - **(D)** Subparagraphs (A) and (C) shall cease to apply as of the first taxable year of the taxpayer beginning after the calendar year in which there is a determination that the child is dead (or, if earlier, in which the child would have attained age 18).
+  - **(7)** For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).

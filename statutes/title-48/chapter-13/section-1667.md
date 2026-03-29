@@ -5,7 +5,7 @@ usc_section: "1667"
 chapter: 13
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1667"
-generated_at: "2026-03-29T00:33:06.634Z"
+generated_at: "2026-03-29T02:16:00.820Z"
 ---
 
 # § 1667. Repealed. Pub. L. 90–576, title I, § 103 , Oct. 16, 1968 , 82 Stat. 1091

@@ -5,19 +5,19 @@ usc_section: "9269b"
 chapter: 99
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 9269b"
-generated_at: "2026-03-29T00:30:34.048Z"
+generated_at: "2026-03-29T02:12:40.490Z"
 ---
 
 # § 9269b. Waivers, exemptions, and termination
 
-(a) 
-(b) 
-  (1) Subject to section 9265 of this title , the President may suspend the application of any provision of or amendment made by this subtitle 1 1 See References in Text note below. (other than section 9269d of this title or section 9221b(e) of this title , as added by section 7121 1 of this title) with respect to an entity, individual, or transaction, for renewable periods of not more than 180 days each if, before such a suspension or renewal of such a suspension takes effect, the President submits to the appropriate congressional committees—
-    (A) a certification that—
-      (i) the Government of North Korea has—
-        (I) committed to the verifiable suspension of North Korea’s proliferation and testing of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; and
-        (II) has agreed to multilateral talks including the Government of the United States, with the goal of permanently and verifiably limiting North Korea’s weapons of mass destruction and ballistic missile programs; or
-      (ii) the suspension is vital to the national security interests of the United States; and
-    (B) if the President submits a certification under subparagraph (A)(ii), an explanation of the reasons the suspension is vital to the national security interests of the United States.
-  (2) 
-(c) Subject to section 9265 of this title , any requirement to impose sanctions under this subtitle 1 or the amendments made by this subtitle, and any sanctions imposed pursuant to this subtitle 1 or any such amendment, shall terminate on the date on which the President makes the certification described in section 9252 of this title .
+- **(a)**
+- **(b)**
+  - **(1)** Subject to section 9265 of this title , the President may suspend the application of any provision of or amendment made by this subtitle 1 1 See References in Text note below. (other than section 9269d of this title or section 9221b(e) of this title , as added by section 7121 1 of this title) with respect to an entity, individual, or transaction, for renewable periods of not more than 180 days each if, before such a suspension or renewal of such a suspension takes effect, the President submits to the appropriate congressional committees—
+    - **(A)** a certification that—
+      - **(i)** the Government of North Korea has—
+        - **(I)** committed to the verifiable suspension of North Korea’s proliferation and testing of weapons of mass destruction, including systems designed in whole or in part for the delivery of such weapons; and
+        - **(II)** has agreed to multilateral talks including the Government of the United States, with the goal of permanently and verifiably limiting North Korea’s weapons of mass destruction and ballistic missile programs; or
+      - **(ii)** the suspension is vital to the national security interests of the United States; and
+    - **(B)** if the President submits a certification under subparagraph (A)(ii), an explanation of the reasons the suspension is vital to the national security interests of the United States.
+  - **(2)**
+- **(c)** Subject to section 9265 of this title , any requirement to impose sanctions under this subtitle 1 or the amendments made by this subtitle, and any sanctions imposed pursuant to this subtitle 1 or any such amendment, shall terminate on the date on which the President makes the certification described in section 9252 of this title .

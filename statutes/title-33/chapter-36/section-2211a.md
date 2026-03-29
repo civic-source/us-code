@@ -5,15 +5,15 @@ usc_section: "2211a"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2211a"
-generated_at: "2026-03-29T00:31:57.395Z"
+generated_at: "2026-03-29T02:14:18.600Z"
 ---
 
 # § 2211a. Preserving United States harbors
 
-(a) Upon a request from a non-Federal interest, the Secretary shall review a report developed by the non-Federal interest that provides an economic justification for Federal investment in the operation and maintenance of a federally authorized harbor or inland harbor (referred to in this section as a “federally authorized harbor”).
-(b) A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
-  (1) the projected economic benefits, including transportation savings and job creation; and
-  (2) other factors, including navigation safety, national security, and sustainability of subsistence harbors.
-(c) Not later than 180 days after the date on which the Secretary receives a report under subsection (a), the Secretary shall provide to the non-Federal interest a written response to the report, including an assessment of the information provided by the non-Federal interest.
-(d) As the Secretary determines to be appropriate, the Secretary may use the information provided in the report under subsection (a) to justify additional operation and maintenance funding for a federally authorized harbor in accordance with section 2211(b) of this title .
-(e) Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under section 2211(b) of this title .
+- **(a)** Upon a request from a non-Federal interest, the Secretary shall review a report developed by the non-Federal interest that provides an economic justification for Federal investment in the operation and maintenance of a federally authorized harbor or inland harbor (referred to in this section as a “federally authorized harbor”).
+- **(b)** A report submitted under subsection (a) may provide for an economic justification of Federal investment in the operation and maintenance of a federally authorized harbor based on—
+  - **(1)** the projected economic benefits, including transportation savings and job creation; and
+  - **(2)** other factors, including navigation safety, national security, and sustainability of subsistence harbors.
+- **(c)** Not later than 180 days after the date on which the Secretary receives a report under subsection (a), the Secretary shall provide to the non-Federal interest a written response to the report, including an assessment of the information provided by the non-Federal interest.
+- **(d)** As the Secretary determines to be appropriate, the Secretary may use the information provided in the report under subsection (a) to justify additional operation and maintenance funding for a federally authorized harbor in accordance with section 2211(b) of this title .
+- **(e)** Nothing in this section may be construed to preclude the operation and maintenance of a federally authorized harbor under section 2211(b) of this title .

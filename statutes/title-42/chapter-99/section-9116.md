@@ -5,10 +5,10 @@ usc_section: "9116"
 chapter: 99
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9116"
-generated_at: "2026-03-29T00:32:54.136Z"
+generated_at: "2026-03-29T02:15:37.040Z"
 ---
 
 # § 9116. Diligence requirements
 
-(a) The Administrator shall promulgate regulations requiring each licensee to pursue diligently the construction and operation of the ocean thermal energy conversion facility or plantship to which the license applies.
-(b) If the Administrator determines that a licensee is not pursuing diligently the construction and operation of the ocean thermal energy conversion facility or plantship to which the license applies, or that the project has apparently been abandoned, the Administrator shall cause proceedings to be instituted under section 9121 of this title to terminate the license.
+- **(a)** The Administrator shall promulgate regulations requiring each licensee to pursue diligently the construction and operation of the ocean thermal energy conversion facility or plantship to which the license applies.
+- **(b)** If the Administrator determines that a licensee is not pursuing diligently the construction and operation of the ocean thermal energy conversion facility or plantship to which the license applies, or that the project has apparently been abandoned, the Administrator shall cause proceedings to be instituted under section 9121 of this title to terminate the license.

@@ -5,7 +5,7 @@ usc_section: "2011"
 chapter: 51
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2011"
-generated_at: "2026-03-29T00:28:58.092Z"
+generated_at: "2026-03-29T02:10:16.906Z"
 ---
 
 # § 2011. Congressional declaration of policy

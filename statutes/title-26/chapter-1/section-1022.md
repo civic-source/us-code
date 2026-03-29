@@ -5,7 +5,7 @@ usc_section: "1022"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1022"
-generated_at: "2026-03-29T00:31:20.862Z"
+generated_at: "2026-03-29T02:14:01.101Z"
 ---
 
 # [§ 1022. Repealed. Pub. L. 111–312, title III, § 301(a) , Dec. 17, 2010 , 124 Stat. 3300 ]

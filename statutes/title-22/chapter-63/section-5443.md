@@ -5,19 +5,19 @@ usc_section: "5443"
 chapter: 63
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 5443"
-generated_at: "2026-03-29T00:30:33.942Z"
+generated_at: "2026-03-29T02:12:40.359Z"
 ---
 
 # § 5443. Science and technology exchange with Poland and Hungary
 
-(a) There are authorized to be appropriated to the Secretary of State for purposes of continuing to implement the 1987 United States-Polish science and technology agreement—
-  (1) $1,500,000 for fiscal year 1990,
-  (2) $2,000,000 for fiscal year 1991, and
-  (3) $2,000,000 for fiscal year 1992.
-(b) There are authorized to be appropriated to the Secretary of State for purposes of implementing the 1989 United States-Hungarian science and technology agreement—
-  (1) $500,000 for fiscal year 1990,
-  (2) $1,000,000 for fiscal year 1991, and
-  (3) $1,000,000 for fiscal year 1992.
-(c) For purposes of this section—
-  (1) the term “1987 United States-Polish science and technology agreement” refers to the agreement concluded in 1987 by the United States and Poland, entitled “Agreement Between the Government of the United States of America and the Polish People’s Republic on Cooperation in Science and Technology and Its Funding”, together with annexes relating thereto; and
-  (2) the term “1989 United States-Hungarian science and technology agreement” refers to the agreement concluded in 1989 by the United States and Hungary, entitled “Agreement Between the Government of the United States of America and the Government of the Hungarian People’s Republic for Scientific and Technology Cooperation”, together with annexes relating thereto.
+- **(a)** There are authorized to be appropriated to the Secretary of State for purposes of continuing to implement the 1987 United States-Polish science and technology agreement—
+  - **(1)** $1,500,000 for fiscal year 1990,
+  - **(2)** $2,000,000 for fiscal year 1991, and
+  - **(3)** $2,000,000 for fiscal year 1992.
+- **(b)** There are authorized to be appropriated to the Secretary of State for purposes of implementing the 1989 United States-Hungarian science and technology agreement—
+  - **(1)** $500,000 for fiscal year 1990,
+  - **(2)** $1,000,000 for fiscal year 1991, and
+  - **(3)** $1,000,000 for fiscal year 1992.
+- **(c)** For purposes of this section—
+  - **(1)** the term “1987 United States-Polish science and technology agreement” refers to the agreement concluded in 1987 by the United States and Poland, entitled “Agreement Between the Government of the United States of America and the Polish People’s Republic on Cooperation in Science and Technology and Its Funding”, together with annexes relating thereto; and
+  - **(2)** the term “1989 United States-Hungarian science and technology agreement” refers to the agreement concluded in 1989 by the United States and Hungary, entitled “Agreement Between the Government of the United States of America and the Government of the Hungarian People’s Republic for Scientific and Technology Cooperation”, together with annexes relating thereto.

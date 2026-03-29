@@ -5,7 +5,7 @@ usc_section: "60124"
 chapter: 601
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 60124"
-generated_at: "2026-03-29T00:33:19.412Z"
+generated_at: "2026-03-29T02:16:19.261Z"
 ---
 
 # § 60124. Regulatory authority of Secretary

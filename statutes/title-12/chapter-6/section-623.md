@@ -5,7 +5,7 @@ usc_section: "623"
 chapter: 6
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 623"
-generated_at: "2026-03-29T00:29:16.508Z"
+generated_at: "2026-03-29T02:11:20.867Z"
 ---
 
 # § 623. Voluntary liquidation

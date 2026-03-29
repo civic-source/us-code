@@ -5,7 +5,7 @@ usc_section: "1131b"
 chapter: 7
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1131b"
-generated_at: "2026-03-29T00:29:16.525Z"
+generated_at: "2026-03-29T02:11:20.879Z"
 ---
 
 # § 1131b. Repealed. July 26, 1956, ch. 741 , title I, § 105(c), 70 Stat. 665

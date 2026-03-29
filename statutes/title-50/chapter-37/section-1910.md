@@ -5,12 +5,12 @@ usc_section: "1910"
 chapter: 37
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1910"
-generated_at: "2026-03-29T00:33:18.134Z"
+generated_at: "2026-03-29T02:16:14.729Z"
 ---
 
 # § 1910. Funding
 
-(a) Amounts appropriated to carry out this chapter for fiscal years 1993 and 1994 shall remain available until expended.
-(b) There is authorized to be appropriated from, and may be obligated from, the Fund for each of the fiscal years 1995 and 1996 not more than the amount credited to the Fund in interest only for the preceding fiscal year under section 1904(e) of this title .
-(c) In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title .
-(d) In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title .
+- **(a)** Amounts appropriated to carry out this chapter for fiscal years 1993 and 1994 shall remain available until expended.
+- **(b)** There is authorized to be appropriated from, and may be obligated from, the Fund for each of the fiscal years 1995 and 1996 not more than the amount credited to the Fund in interest only for the preceding fiscal year under section 1904(e) of this title .
+- **(c)** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, the Director of National Intelligence shall transfer to the Secretary from amounts appropriated for the Intelligence Community Management Account for each of fiscal years 2005 through 2021 $8,000,000 to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title .
+- **(d)** In addition to amounts that may be made available to the Secretary under the Fund for a fiscal year, there is authorized to be appropriated to the Secretary for each fiscal year, beginning with fiscal year 2022, $8,000,000, to carry out the scholarship, fellowship, and grant programs under subparagraphs (A), (B), and (C), respectively, of section 1902(a)(1) of this title .

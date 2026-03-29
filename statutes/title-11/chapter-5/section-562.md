@@ -5,15 +5,15 @@ usc_section: "562"
 chapter: 5
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 562"
-generated_at: "2026-03-29T00:28:59.956Z"
+generated_at: "2026-03-29T02:10:54.334Z"
 ---
 
 # § 562. Timing of damage measurement in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements
 
-(a) If the trustee rejects a swap agreement, securities contract (as defined in section 741), forward contract, commodity contract (as defined in section 761), repurchase agreement, or master netting agreement pursuant to section 365(a), or if a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant liquidates, terminates, or accelerates such contract or agreement, damages shall be measured as of the earlier of—
-  (1) the date of such rejection; or
-  (2) the date or dates of such liquidation, termination, or acceleration.
-(b) If there are not any commercially reasonable determinants of value as of any date referred to in paragraph (1) or (2) of subsection (a), damages shall be measured as of the earliest subsequent date or dates on which there are commercially reasonable determinants of value.
-(c) For the purposes of subsection (b), if damages are not measured as of the date or dates of rejection, liquidation, termination, or acceleration, and the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant or the trustee objects to the timing of the measurement of damages—
-  (1) the trustee, in the case of an objection by a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant; or
-  (2) the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant, in the case of an objection by the trustee,
+- **(a)** If the trustee rejects a swap agreement, securities contract (as defined in section 741), forward contract, commodity contract (as defined in section 761), repurchase agreement, or master netting agreement pursuant to section 365(a), or if a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant liquidates, terminates, or accelerates such contract or agreement, damages shall be measured as of the earlier of—
+  - **(1)** the date of such rejection; or
+  - **(2)** the date or dates of such liquidation, termination, or acceleration.
+- **(b)** If there are not any commercially reasonable determinants of value as of any date referred to in paragraph (1) or (2) of subsection (a), damages shall be measured as of the earliest subsequent date or dates on which there are commercially reasonable determinants of value.
+- **(c)** For the purposes of subsection (b), if damages are not measured as of the date or dates of rejection, liquidation, termination, or acceleration, and the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant or the trustee objects to the timing of the measurement of damages—
+  - **(1)** the trustee, in the case of an objection by a forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant; or
+  - **(2)** the forward contract merchant, stockbroker, financial institution, securities clearing agency, repo participant, financial participant, master netting agreement participant, or swap participant, in the case of an objection by the trustee,

@@ -5,7 +5,7 @@ usc_section: "107"
 chapter: 2
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 107"
-generated_at: "2026-03-29T00:30:20.108Z"
+generated_at: "2026-03-29T02:12:08.589Z"
 ---
 
 # § 107. Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111

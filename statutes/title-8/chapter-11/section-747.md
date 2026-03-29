@@ -5,7 +5,7 @@ usc_section: "747"
 chapter: 11
 current_through: "PL 119-73"
 classification: "8 U.S.C. § 747"
-generated_at: "2026-03-29T00:06:34.283Z"
+generated_at: "2026-03-29T02:10:21.382Z"
 ---
 
 # § 747. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , eff. Sept. 1, 1948

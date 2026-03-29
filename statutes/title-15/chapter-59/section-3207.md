@@ -5,16 +5,16 @@ usc_section: "3207"
 chapter: 59
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3207"
-generated_at: "2026-03-29T00:29:41.828Z"
+generated_at: "2026-03-29T02:11:34.332Z"
 ---
 
 # § 3207. Judicial review and enforcement
 
-(a) 
-  (1) Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of this chapter except for—
-    (A) an action over which a court of the United States has jurisdiction under paragraph (2), or
-    (B) review in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
-  (2) The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene under section 3205 of this title , and such court shall have jurisdiction to grant appropriate relief.
-(b) 
-  (1) Any person may bring an action to enforce the requirements of this chapter in the appropriate State court. Such action in a State court shall be pursuant to applicable State procedures.
-  (2) Nothing in this chapter shall authorize the Secretary to appeal or otherwise seek judicial review of the decisions of a State regulatory authority or nonregulated gas utility or to become a party to any action to obtain such review or appeal. The Secretary may participate as an amicus curiae in any judicial review of an action arising under the provisions of this chapter.
+- **(a)**
+  - **(1)** Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of this chapter except for—
+    - **(A)** an action over which a court of the United States has jurisdiction under paragraph (2), or
+    - **(B)** review in the Supreme Court of the United States in accordance with sections 1257 and 1258 of title 28.
+  - **(2)** The Secretary may bring an action in any appropriate court of the United States to enforce his right to intervene under section 3205 of this title , and such court shall have jurisdiction to grant appropriate relief.
+- **(b)**
+  - **(1)** Any person may bring an action to enforce the requirements of this chapter in the appropriate State court. Such action in a State court shall be pursuant to applicable State procedures.
+  - **(2)** Nothing in this chapter shall authorize the Secretary to appeal or otherwise seek judicial review of the decisions of a State regulatory authority or nonregulated gas utility or to become a party to any action to obtain such review or appeal. The Secretary may participate as an amicus curiae in any judicial review of an action arising under the provisions of this chapter.

@@ -5,25 +5,25 @@ usc_section: "2004"
 chapter: 22
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2004"
-generated_at: "2026-03-29T00:30:38.719Z"
+generated_at: "2026-03-29T02:13:20.922Z"
 ---
 
 # § 2004. School boundaries
 
-(a) The Secretary shall establish, by regulation, separate geographical attendance areas for each Bureau-funded school.
-(b) In any case where there is more than one Bureau-funded school located on an Indian reservation, at the direction of the tribal governing body, the relevant school boards of the Bureau-funded schools on the reservation may, by mutual consent, establish the relevant attendance areas for such schools, subject to the approval of the tribal governing body. Any such boundaries so established shall be accepted by the Secretary.
-(c) 
-  (1) On or after July 1, 2001 , no geographical attendance area shall be revised or established with respect to any Bureau-funded school unless the tribal governing body or the local school board concerned (if so designated by the tribal governing body) has been afforded—
-    (A) at least 6 months notice of the intention of the Bureau to revise or establish such attendance area; and
-    (B) the opportunity to propose alternative boundaries.
-  (2) Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs. The Secretary shall cause such revisions to be published in the Federal Register.
-  (3) Nothing in this section shall deny a tribal governing body the authority, on a continuing basis, to adopt a tribal resolution allowing parents the choice of the Bureau-funded school their children may attend, regardless of the attendance boundaries established under this section.
-(d) 
-  (1) The Secretary shall not deny funding to a Bureau-funded school for any eligible Indian student attending the school solely because that student’s home or domicile is outside of the geographical attendance area established for that school under this section.
-  (2) No funding shall be made available without tribal authorization to enable a school to provide transportation for any student to or from the school and a location outside the approved attendance area of the school.
-(e) When there is only one Bureau-funded program located on an Indian reservation—
-  (1) the attendance area for the program shall be the boundaries (established by treaty, agreement, legislation, court decisions, or executive decisions and as accepted by the tribe) of the reservation served; and
-  (2) those students residing near the reservation shall also receive services from such program.
-(f) 
-  (1) Notwithstanding any geographical attendance areas, attendance at off-reservation home-living (dormitory) schools shall include students requiring special emphasis programs to be implemented at each off-reservation home-living (dormitory) school.
-  (2) Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.
+- **(a)** The Secretary shall establish, by regulation, separate geographical attendance areas for each Bureau-funded school.
+- **(b)** In any case where there is more than one Bureau-funded school located on an Indian reservation, at the direction of the tribal governing body, the relevant school boards of the Bureau-funded schools on the reservation may, by mutual consent, establish the relevant attendance areas for such schools, subject to the approval of the tribal governing body. Any such boundaries so established shall be accepted by the Secretary.
+- **(c)**
+  - **(1)** On or after July 1, 2001 , no geographical attendance area shall be revised or established with respect to any Bureau-funded school unless the tribal governing body or the local school board concerned (if so designated by the tribal governing body) has been afforded—
+    - **(A)** at least 6 months notice of the intention of the Bureau to revise or establish such attendance area; and
+    - **(B)** the opportunity to propose alternative boundaries.
+  - **(2)** Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs. The Secretary shall cause such revisions to be published in the Federal Register.
+  - **(3)** Nothing in this section shall deny a tribal governing body the authority, on a continuing basis, to adopt a tribal resolution allowing parents the choice of the Bureau-funded school their children may attend, regardless of the attendance boundaries established under this section.
+- **(d)**
+  - **(1)** The Secretary shall not deny funding to a Bureau-funded school for any eligible Indian student attending the school solely because that student’s home or domicile is outside of the geographical attendance area established for that school under this section.
+  - **(2)** No funding shall be made available without tribal authorization to enable a school to provide transportation for any student to or from the school and a location outside the approved attendance area of the school.
+- **(e)** When there is only one Bureau-funded program located on an Indian reservation—
+  - **(1)** the attendance area for the program shall be the boundaries (established by treaty, agreement, legislation, court decisions, or executive decisions and as accepted by the tribe) of the reservation served; and
+  - **(2)** those students residing near the reservation shall also receive services from such program.
+- **(f)**
+  - **(1)** Notwithstanding any geographical attendance areas, attendance at off-reservation home-living (dormitory) schools shall include students requiring special emphasis programs to be implemented at each off-reservation home-living (dormitory) school.
+  - **(2)** Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.

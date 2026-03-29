@@ -5,10 +5,10 @@ usc_section: "18121"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18121"
-generated_at: "2026-03-29T00:32:54.467Z"
+generated_at: "2026-03-29T02:15:37.435Z"
 ---
 
 # § 18121. Implementation funding
 
-(a) There is hereby established a Health Insurance Reform Implementation Fund (referred to in this section as the “Fund”) within the Department of Health and Human Services to carry out the Patient Protection and Affordable Care Act and this Act (and the amendments made by such Acts).
-(b) There is appropriated to the Fund, out of any funds in the Treasury not otherwise appropriated, $1,000,000,000 for Federal administrative expenses to carry out such Act 1 1 So in original. Probably should be “Acts”. (and the amendments made by such Acts).
+- **(a)** There is hereby established a Health Insurance Reform Implementation Fund (referred to in this section as the “Fund”) within the Department of Health and Human Services to carry out the Patient Protection and Affordable Care Act and this Act (and the amendments made by such Acts).
+- **(b)** There is appropriated to the Fund, out of any funds in the Treasury not otherwise appropriated, $1,000,000,000 for Federal administrative expenses to carry out such Act 1 1 So in original. Probably should be “Acts”. (and the amendments made by such Acts).

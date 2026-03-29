@@ -5,24 +5,24 @@ usc_section: "15093"
 chapter: 144
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 15093"
-generated_at: "2026-03-29T00:32:54.353Z"
+generated_at: "2026-03-29T02:15:37.298Z"
 ---
 
 # § 15093. Grants to States
 
-(a) The Secretary shall make grants to States on a competitive basis, in accordance with the provisions of this subchapter, to support systems change activities designed to assist States to develop and implement, or expand and enhance, a statewide system of family support services for families of children with disabilities that accomplishes the purposes of this subchapter.
-(b) No grant shall be awarded under this section for a period of more than 3 years. No State shall be eligible for more than 1 grant under this section.
-(c) 
-  (1) 
-    (A) From amounts appropriated under section 15101(a) of this title , the Secretary shall pay to each State that has an application approved under section 15094 of this title , for each year of the grant period, an amount that is—
-      (i) equal to not more than 75 percent of the cost of the systems change activities to be carried out by the State; and
-      (ii) not less than $100,000 and not more than $500,000.
-    (B) The non-Federal share of the cost of the systems change activities may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
-  (2) The Secretary shall calculate a grant amount described in paragraph (1) on the basis of—
-    (A) the amounts available for making grants under this section; and
-    (B) the child population of the State concerned.
-(d) For the second and third fiscal years for which amounts are appropriated to carry out this section, the Secretary, in providing payments under this section, shall give priority to States that received payments under this section during the preceding fiscal year.
-(e) To the extent practicable, the Secretary shall award grants to States under this section in a manner that—
-  (1) is geographically equitable;
-  (2) distributes the grants among States that have differing levels of development of statewide systems of family support services for families of children with disabilities; and
-  (3) distributes the grants among States that attempt to meet the needs of unserved and underserved populations, such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, and individuals from underserved geographic areas (rural or urban).
+- **(a)** The Secretary shall make grants to States on a competitive basis, in accordance with the provisions of this subchapter, to support systems change activities designed to assist States to develop and implement, or expand and enhance, a statewide system of family support services for families of children with disabilities that accomplishes the purposes of this subchapter.
+- **(b)** No grant shall be awarded under this section for a period of more than 3 years. No State shall be eligible for more than 1 grant under this section.
+- **(c)**
+  - **(1)**
+    - **(A)** From amounts appropriated under section 15101(a) of this title , the Secretary shall pay to each State that has an application approved under section 15094 of this title , for each year of the grant period, an amount that is—
+      - **(i)** equal to not more than 75 percent of the cost of the systems change activities to be carried out by the State; and
+      - **(ii)** not less than $100,000 and not more than $500,000.
+    - **(B)** The non-Federal share of the cost of the systems change activities may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+  - **(2)** The Secretary shall calculate a grant amount described in paragraph (1) on the basis of—
+    - **(A)** the amounts available for making grants under this section; and
+    - **(B)** the child population of the State concerned.
+- **(d)** For the second and third fiscal years for which amounts are appropriated to carry out this section, the Secretary, in providing payments under this section, shall give priority to States that received payments under this section during the preceding fiscal year.
+- **(e)** To the extent practicable, the Secretary shall award grants to States under this section in a manner that—
+  - **(1)** is geographically equitable;
+  - **(2)** distributes the grants among States that have differing levels of development of statewide systems of family support services for families of children with disabilities; and
+  - **(3)** distributes the grants among States that attempt to meet the needs of unserved and underserved populations, such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, and individuals from underserved geographic areas (rural or urban).

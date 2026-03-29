@@ -5,12 +5,12 @@ usc_section: "3334h"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334h"
-generated_at: "2026-03-29T00:33:18.197Z"
+generated_at: "2026-03-29T02:16:14.787Z"
 ---
 
 # § 3334h. Data collection on attrition in intelligence community
 
-(a) 
-  (1) Not later than 90 days after December 27, 2020 , the Director of National Intelligence shall establish standards for collecting data relating to attrition in the intelligence community workforce across demographics, specialities, and length of service.
-  (2) The Director shall include, in the standards established under paragraph (1), standards for collecting data from candidates who accepted conditional offers of employment but chose to withdraw from the hiring process before entering into service, including data with respect to the reasons such candidates chose to withdraw.
-(b) Not later than 120 days after December 27, 2020 , each element of the intelligence community shall begin collecting data on workforce and candidate attrition in accordance with the standards established under subsection (a).
+- **(a)**
+  - **(1)** Not later than 90 days after December 27, 2020 , the Director of National Intelligence shall establish standards for collecting data relating to attrition in the intelligence community workforce across demographics, specialities, and length of service.
+  - **(2)** The Director shall include, in the standards established under paragraph (1), standards for collecting data from candidates who accepted conditional offers of employment but chose to withdraw from the hiring process before entering into service, including data with respect to the reasons such candidates chose to withdraw.
+- **(b)** Not later than 120 days after December 27, 2020 , each element of the intelligence community shall begin collecting data on workforce and candidate attrition in accordance with the standards established under subsection (a).

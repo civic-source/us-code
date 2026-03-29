@@ -5,7 +5,7 @@ usc_section: "947"
 chapter: 18
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 947"
-generated_at: "2026-03-29T00:31:57.283Z"
+generated_at: "2026-03-29T02:14:18.533Z"
 ---
 
 # §§ 945 to 947. Repealed. Pub. L. 98–426, § 25 , Sept. 28, 1984 , 98 Stat. 1654

@@ -5,44 +5,44 @@ usc_section: "45U"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 45U"
-generated_at: "2026-03-29T00:31:20.587Z"
+generated_at: "2026-03-29T02:14:00.751Z"
 ---
 
 # § 45U. Zero-emission nuclear power production credit
 
-(a) For purposes of section 38, the zero-emission nuclear power production credit for any taxable year is an amount equal to the amount by which—
-  (1) the product of—
-    (A) 0.3 cents, multiplied by
-    (B) the kilowatt hours of electricity—
-      (i) produced by the taxpayer at a qualified nuclear power facility, and
-      (ii) sold by the taxpayer to an unrelated person during the taxable year, exceeds
-  (2) the reduction amount for such taxable year.
-(b) 
-  (1) For purposes of this section, the term “qualified nuclear power facility” means any nuclear facility—
-    (A) which is owned by the taxpayer and which uses nuclear energy to produce electricity,
-    (B) which is not an advanced nuclear power facility as defined in subsection (d)(1) of section 45J, and
-    (C) which is placed in service before the date of the enactment of this section.
-  (2) 
-    (A) For purposes of this section, the term “reduction amount” means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of—
-      (i) the amount determined under subsection (a)(1), or
-      (ii) the amount equal to 16 percent of the excess of—
-        (I) subject to subparagraph (B), the gross receipts from any electricity produced by such facility (including any electricity services or products provided in conjunction with the electricity produced by such facility) and sold to an unrelated person during such taxable year, over
-        (II) the amount equal to the product of—
-    (B) 
-      (i) Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall include any amount received by the taxpayer during the taxable year with respect to the qualified nuclear power facility from a zero-emission credit program. For purposes of determining the amount received during such taxable year, the taxpayer shall take into account any reductions required under such program.
-      (ii) For purposes of this subparagraph, the term “zero-emission credit program” means any payments with respect to a qualified nuclear power facility as a result of any Federal, State or local government program for, in whole or in part, the zero-emission, zero-carbon, or air quality attributes of any portion of the electricity produced by such facility.
-      (iii) For purposes of clause (i), any amount received by the taxpayer from a zero-emission credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I) if the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program.
-  (3) For purposes of this section, the term “electricity” means the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power.
-(c) 
-  (1) The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2), as applied by substituting “calendar year 2023” for “calendar year 1992” in subparagraph (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
-  (2) Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) of section 45(e) shall apply for purposes of this section.
-  (3) 
-    (A) No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).
-    (B) No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
-(d) 
-  (1) In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5.
-  (2) 
-    (A) The requirements described in this subparagraph with respect to any qualified nuclear power facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
-    (B) Rules similar to the rules of section 45(b)(7)(B) shall apply.
-  (3) The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
-(e) This section shall not apply to taxable years beginning after December 31, 2032 .
+- **(a)** For purposes of section 38, the zero-emission nuclear power production credit for any taxable year is an amount equal to the amount by which—
+  - **(1)** the product of—
+    - **(A)** 0.3 cents, multiplied by
+    - **(B)** the kilowatt hours of electricity—
+      - **(i)** produced by the taxpayer at a qualified nuclear power facility, and
+      - **(ii)** sold by the taxpayer to an unrelated person during the taxable year, exceeds
+  - **(2)** the reduction amount for such taxable year.
+- **(b)**
+  - **(1)** For purposes of this section, the term “qualified nuclear power facility” means any nuclear facility—
+    - **(A)** which is owned by the taxpayer and which uses nuclear energy to produce electricity,
+    - **(B)** which is not an advanced nuclear power facility as defined in subsection (d)(1) of section 45J, and
+    - **(C)** which is placed in service before the date of the enactment of this section.
+  - **(2)**
+    - **(A)** For purposes of this section, the term “reduction amount” means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of—
+      - **(i)** the amount determined under subsection (a)(1), or
+      - **(ii)** the amount equal to 16 percent of the excess of—
+        - **(I)** subject to subparagraph (B), the gross receipts from any electricity produced by such facility (including any electricity services or products provided in conjunction with the electricity produced by such facility) and sold to an unrelated person during such taxable year, over
+        - **(II)** the amount equal to the product of—
+    - **(B)**
+      - **(i)** Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall include any amount received by the taxpayer during the taxable year with respect to the qualified nuclear power facility from a zero-emission credit program. For purposes of determining the amount received during such taxable year, the taxpayer shall take into account any reductions required under such program.
+      - **(ii)** For purposes of this subparagraph, the term “zero-emission credit program” means any payments with respect to a qualified nuclear power facility as a result of any Federal, State or local government program for, in whole or in part, the zero-emission, zero-carbon, or air quality attributes of any portion of the electricity produced by such facility.
+      - **(iii)** For purposes of clause (i), any amount received by the taxpayer from a zero-emission credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I) if the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program.
+  - **(3)** For purposes of this section, the term “electricity” means the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power.
+- **(c)**
+  - **(1)** The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2), as applied by substituting “calendar year 2023” for “calendar year 1992” in subparagraph (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+  - **(2)** Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) of section 45(e) shall apply for purposes of this section.
+  - **(3)**
+    - **(A)** No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).
+    - **(B)** No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+- **(d)**
+  - **(1)** In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5.
+  - **(2)**
+    - **(A)** The requirements described in this subparagraph with respect to any qualified nuclear power facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+    - **(B)** Rules similar to the rules of section 45(b)(7)(B) shall apply.
+  - **(3)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+- **(e)** This section shall not apply to taxable years beginning after December 31, 2032 .

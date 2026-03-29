@@ -5,20 +5,20 @@ usc_section: "8320"
 chapter: 109
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8320"
-generated_at: "2026-03-29T00:28:58.321Z"
+generated_at: "2026-03-29T02:10:17.199Z"
 ---
 
 # § 8320. Expansion of Animal and Plant Health Inspection Service activities
 
-(a) The Secretary of Agriculture (referred to in this section as the “Secretary”) may utilize existing authorities to give high priority to enhancing and expanding the capacity of the Animal and Plant Health Inspection Service to conduct activities to—
-  (1) increase the inspection capacity of the Service at international points of origin;
-  (2) improve surveillance at ports of entry and customs;
-  (3) enhance methods of protecting against the introduction of plant and animal disease organisms by terrorists;
-  (4) develop new and improve existing strategies and technologies for dealing with intentional outbreaks of plant and animal disease arising from acts of terrorism or from unintentional introduction, including—
-    (A) establishing cooperative agreements among Veterinary Services of the Animal and Plant Health Inspection Service, State animal health commissions and regulatory agencies for livestock and poultry health, and private veterinary practitioners to enhance the preparedness and ability of Veterinary Services and the commissions and agencies to respond to outbreaks of such animal diseases; and
-    (B) strengthening planning and coordination with State and local agencies, including—
-      (i) State animal health commissions and regulatory agencies for livestock and poultry health; and
-      (ii) State agriculture departments; and
-  (5) otherwise improve the capacity of the Service to protect against the threat of bioterrorism.
-(b) The Administrator of the Animal and Plant Health Inspection Service may implement a central automated recordkeeping system to provide for the reliable tracking of the status of animal and plant shipments, including those shipments on hold at ports of entry and customs. The Secretary shall ensure that such a system shall be fully accessible to or fully integrated with the Food Safety Inspection Service.
-(c) There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
+- **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may utilize existing authorities to give high priority to enhancing and expanding the capacity of the Animal and Plant Health Inspection Service to conduct activities to—
+  - **(1)** increase the inspection capacity of the Service at international points of origin;
+  - **(2)** improve surveillance at ports of entry and customs;
+  - **(3)** enhance methods of protecting against the introduction of plant and animal disease organisms by terrorists;
+  - **(4)** develop new and improve existing strategies and technologies for dealing with intentional outbreaks of plant and animal disease arising from acts of terrorism or from unintentional introduction, including—
+    - **(A)** establishing cooperative agreements among Veterinary Services of the Animal and Plant Health Inspection Service, State animal health commissions and regulatory agencies for livestock and poultry health, and private veterinary practitioners to enhance the preparedness and ability of Veterinary Services and the commissions and agencies to respond to outbreaks of such animal diseases; and
+    - **(B)** strengthening planning and coordination with State and local agencies, including—
+      - **(i)** State animal health commissions and regulatory agencies for livestock and poultry health; and
+      - **(ii)** State agriculture departments; and
+  - **(5)** otherwise improve the capacity of the Service to protect against the threat of bioterrorism.
+- **(b)** The Administrator of the Animal and Plant Health Inspection Service may implement a central automated recordkeeping system to provide for the reliable tracking of the status of animal and plant shipments, including those shipments on hold at ports of entry and customs. The Secretary shall ensure that such a system shall be fully accessible to or fully integrated with the Food Safety Inspection Service.
+- **(c)** There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.

@@ -5,26 +5,26 @@ usc_section: "9659"
 chapter: 103
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9659"
-generated_at: "2026-03-29T00:32:54.162Z"
+generated_at: "2026-03-29T02:15:37.073Z"
 ---
 
 # § 9659. Citizens suits
 
-(a) Except as provided in subsections (d) and (e) of this section and in section 9613(h) of this title (relating to timing of judicial review), any person may commence a civil action on his own behalf—
-  (1) against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuant to this chapter (including any provision of an agreement under section 9620 of this title , relating to Federal facilities); or
-  (2) against the President or any other officer of the United States (including the Administrator of the Environmental Protection Agency and the Administrator of the ATSDR) where there is alleged a failure of the President or of such other officer to perform any act or duty under this chapter, including an act or duty under section 9620 of this title (relating to Federal facilities), which is not discretionary with the President or such other officer.
-(b) 
-  (1) Any action under subsection (a)(1) shall be brought in the district court for the district in which the alleged violation occurred.
-  (2) Any action brought under subsection (a)(2) may be brought in the United States District Court for the District of Columbia.
-(c) The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
-(d) 
-  (1) No action may be commenced under subsection (a)(1) before 60 days after the plaintiff has given notice of the violation to each of the following:
-    (A) The President.
-    (B) The State in which the alleged violation occurs.
-    (C) Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ).
-  (2) No action may be commenced under paragraph (1) of subsection (a) if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act [ 42 U.S.C. 6901 et seq.] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ).
-(e) No action may be commenced under paragraph (2) of subsection (a) before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiff will commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
-(f) The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
-(g) In any action under this section, the United States or the State, or both, if not a party may intervene as a matter of right. For other provisions regarding intervention, see section 9613 of this title .
-(h) This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
-(i) The terms used in this section shall have the same meanings as when used in subchapter I.
+- **(a)** Except as provided in subsections (d) and (e) of this section and in section 9613(h) of this title (relating to timing of judicial review), any person may commence a civil action on his own behalf—
+  - **(1)** against any person (including the United States and any other governmental instrumentality or agency, to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any standard, regulation, condition, requirement, or order which has become effective pursuant to this chapter (including any provision of an agreement under section 9620 of this title , relating to Federal facilities); or
+  - **(2)** against the President or any other officer of the United States (including the Administrator of the Environmental Protection Agency and the Administrator of the ATSDR) where there is alleged a failure of the President or of such other officer to perform any act or duty under this chapter, including an act or duty under section 9620 of this title (relating to Federal facilities), which is not discretionary with the President or such other officer.
+- **(b)**
+  - **(1)** Any action under subsection (a)(1) shall be brought in the district court for the district in which the alleged violation occurred.
+  - **(2)** Any action brought under subsection (a)(2) may be brought in the United States District Court for the District of Columbia.
+- **(c)** The district court shall have jurisdiction in actions brought under subsection (a)(1) to enforce the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ), to order such action as may be necessary to correct the violation, and to impose any civil penalty provided for the violation. The district court shall have jurisdiction in actions brought under subsection (a)(2) to order the President or other officer to perform the act or duty concerned.
+- **(d)**
+  - **(1)** No action may be commenced under subsection (a)(1) before 60 days after the plaintiff has given notice of the violation to each of the following:
+    - **(A)** The President.
+    - **(B)** The State in which the alleged violation occurs.
+    - **(C)** Any alleged violator of the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ).
+  - **(2)** No action may be commenced under paragraph (1) of subsection (a) if the President has commenced and is diligently prosecuting an action under this chapter, or under the Solid Waste Disposal Act [ 42 U.S.C. 6901 et seq.] to require compliance with the standard, regulation, condition, requirement, or order concerned (including any provision of an agreement under section 9620 of this title ).
+- **(e)** No action may be commenced under paragraph (2) of subsection (a) before the 60th day following the date on which the plaintiff gives notice to the Administrator or other department, agency, or instrumentality that the plaintiff will commence such action. Notice under this subsection shall be given in such manner as the President shall prescribe by regulation.
+- **(f)** The court, in issuing any final order in any action brought pursuant to this section, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or the substantially prevailing party whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
+- **(g)** In any action under this section, the United States or the State, or both, if not a party may intervene as a matter of right. For other provisions regarding intervention, see section 9613 of this title .
+- **(h)** This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
+- **(i)** The terms used in this section shall have the same meanings as when used in subchapter I.

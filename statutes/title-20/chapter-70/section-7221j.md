@@ -1,0 +1,18 @@
+---
+title: "Section 7221j - Authorization of appropriations"
+usc_title: 20
+usc_section: "7221j"
+chapter: 70
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 7221j"
+generated_at: "2026-03-29T02:12:17.473Z"
+---
+
+# § 7221j. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this part—
+
+  - **(1)** $270,000,000 for fiscal year 2017;
+  - **(2)** $270,000,000 for fiscal year 2018;
+  - **(3)** $300,000,000 for fiscal year 2019; and
+  - **(4)** $300,000,000 for fiscal year 2020.

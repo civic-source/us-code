@@ -5,12 +5,12 @@ usc_section: "51907"
 chapter: 519
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 51907"
-generated_at: "2026-03-29T00:33:02.930Z"
+generated_at: "2026-03-29T02:15:53.766Z"
 ---
 
 # § 51907. Provision of decorations, medals, and replacements
 
 The Secretary of Transportation may provide—
 
-  (1) the decorations and medals authorized by this chapter and replacements for those decorations and medals; and
-  (2) replacements for decorations and medals issued under a prior law.
+  - **(1)** the decorations and medals authorized by this chapter and replacements for those decorations and medals; and
+  - **(2)** replacements for decorations and medals issued under a prior law.

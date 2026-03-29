@@ -5,15 +5,15 @@ usc_section: "10a"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 10a"
-generated_at: "2026-03-29T00:29:16.747Z"
+generated_at: "2026-03-29T02:11:21.126Z"
 ---
 
 # § 2277a–10a. Oversight actions by Corporation
 
-(a) In this section, the term “institution” means—
-  (1) an insured System bank; and
-  (2) a production credit association or other association making loans under section 2279b of this title with a direct loan payable to the funding bank of the association that comprises 20 percent or more of the funding bank’s total loan volume net of nonaccrual loans.
-(b) The Farm Credit Administration shall consult with the Corporation prior to approving an insured obligation that is to be issued by or on behalf of, or participated in by, any insured System bank that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration for the bank.
-(c) 
-  (1) On receiving an application for a merger or restructuring of an institution, the Farm Credit Administration shall forward a copy of the application to the Corporation.
-  (2) If the proposed merger or restructuring involves an institution that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration applicable to the institution, the Farm Credit Administration shall allow 30 days within which the Corporation may submit the views and recommendations of the Corporation, including any conditions for approval. In determining whether to approve or disapprove any proposed merger or restructuring, the Farm Credit Administration shall give due consideration to the views and recommendations of the Corporation.
+- **(a)** In this section, the term “institution” means—
+  - **(1)** an insured System bank; and
+  - **(2)** a production credit association or other association making loans under section 2279b of this title with a direct loan payable to the funding bank of the association that comprises 20 percent or more of the funding bank’s total loan volume net of nonaccrual loans.
+- **(b)** The Farm Credit Administration shall consult with the Corporation prior to approving an insured obligation that is to be issued by or on behalf of, or participated in by, any insured System bank that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration for the bank.
+- **(c)**
+  - **(1)** On receiving an application for a merger or restructuring of an institution, the Farm Credit Administration shall forward a copy of the application to the Corporation.
+  - **(2)** If the proposed merger or restructuring involves an institution that fails to meet the minimum level for any capital requirement established by the Farm Credit Administration applicable to the institution, the Farm Credit Administration shall allow 30 days within which the Corporation may submit the views and recommendations of the Corporation, including any conditions for approval. In determining whether to approve or disapprove any proposed merger or restructuring, the Farm Credit Administration shall give due consideration to the views and recommendations of the Corporation.

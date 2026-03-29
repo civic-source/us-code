@@ -5,7 +5,7 @@ usc_section: "9901"
 chapter: 79
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9901"
-generated_at: "2026-03-29T00:07:03.207Z"
+generated_at: "2026-03-29T02:12:17.537Z"
 ---
 
 # § 9901. Purpose

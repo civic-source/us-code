@@ -1,0 +1,20 @@
+---
+title: "Section 1369 - Treatment of expenses subject to emergency medical services exception"
+usc_title: 8
+usc_section: "1369"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1369"
+generated_at: "2026-03-29T02:10:21.461Z"
+---
+
+# § 1369. Treatment of expenses subject to emergency medical services exception
+
+- **(a)** Subject to such amounts as are provided in advance in appropriation Acts, each State or political subdivision of a State that provides medical assistance for care and treatment of an emergency medical condition (as defined in subsection (d)) through a public hospital or other public facility (including a nonprofit hospital that is eligible for an additional payment adjustment under section 1395ww of title 42 ) or through contract with another hospital or facility to an individual who is an alien not lawfully present in the United States is eligible for payment from the Federal Government of its costs of providing such services, but only to the extent that such costs are not otherwise reimbursed through any other Federal program and cannot be recovered from the alien or another person.
+- **(b)** No payment shall be made under this section with respect to services furnished to an individual unless the immigration status of the individual has been verified through appropriate procedures established by the Secretary of Health and Human Services and the Attorney General.
+- **(c)** This section shall be administered by the Attorney General, in consultation with the Secretary of Health and Human Services.
+- **(d)** For purposes of this section, the term “emergency medical condition” means a medical condition (including emergency labor and delivery) manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
+  - **(1)** placing the patient’s health in serious jeopardy,
+  - **(2)** serious impairment to bodily functions, or
+  - **(3)** serious dysfunction of any bodily organ or part.
+- **(e)** Subsection (a) shall apply to medical assistance for care and treatment of an emergency medical condition furnished on or after January 1, 1997 .

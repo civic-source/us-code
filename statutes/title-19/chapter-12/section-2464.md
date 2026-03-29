@@ -5,7 +5,7 @@ usc_section: "2464"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2464"
-generated_at: "2026-03-29T00:30:20.231Z"
+generated_at: "2026-03-29T02:12:08.699Z"
 ---
 
 # § 2464. Review and report to Congress

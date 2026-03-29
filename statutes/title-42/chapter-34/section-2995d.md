@@ -5,7 +5,7 @@ usc_section: "2995d"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2995d"
-generated_at: "2026-03-29T00:32:53.796Z"
+generated_at: "2026-03-29T02:15:36.625Z"
 ---
 
 # § 2995d. Omitted

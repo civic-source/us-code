@@ -5,10 +5,10 @@ usc_section: "7432"
 chapter: 753
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 7432"
-generated_at: "2026-03-29T00:20:53.196Z"
+generated_at: "2026-03-29T02:10:45.278Z"
 ---
 
 # § 7432. Departments and professors: titles
 
-(a) The Secretary of the Army may prescribe the titles of each of the departments of instruction and the professors of the Academy. However, the change of the title of a department or officer does not affect the status, rank, or eligibility for promotion or retirement of, or otherwise prejudice, a professor at the Academy.
-(b) Upon becoming the senior professor in a department, a permanent professor thereby becomes the head of that department.
+- **(a)** The Secretary of the Army may prescribe the titles of each of the departments of instruction and the professors of the Academy. However, the change of the title of a department or officer does not affect the status, rank, or eligibility for promotion or retirement of, or otherwise prejudice, a professor at the Academy.
+- **(b)** Upon becoming the senior professor in a department, a permanent professor thereby becomes the head of that department.

@@ -5,7 +5,7 @@ usc_section: "3059B"
 chapter: 203
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3059B"
-generated_at: "2026-03-29T00:30:15.721Z"
+generated_at: "2026-03-29T02:12:02.471Z"
 ---
 
 # [§§ 3059 to 3059B. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2) , Nov. 2, 2002 , 116 Stat. 1781 ]

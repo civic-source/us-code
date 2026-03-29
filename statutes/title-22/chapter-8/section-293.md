@@ -5,7 +5,7 @@ usc_section: "293"
 chapter: 8
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 293"
-generated_at: "2026-03-29T00:30:33.705Z"
+generated_at: "2026-03-29T02:12:39.979Z"
 ---
 
 # § 293. Repealed. Pub. L. 88–94, § 2(a) , Aug. 12, 1963 , 77 Stat. 122

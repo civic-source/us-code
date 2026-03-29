@@ -1,0 +1,14 @@
+---
+title: "Section 1351 - Nonimmigrant visa fees"
+usc_title: 8
+usc_section: "1351"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1351"
+generated_at: "2026-03-29T02:10:21.454Z"
+---
+
+# § 1351. Nonimmigrant visa fees
+
+The fees for the furnishing and verification of applications for visas by nonimmigrants of each foreign country and for the issuance of visas to nonimmigrants of each foreign country shall be prescribed by the Secretary of State, if practicable, in amounts corresponding to the total of all visa, entry, residence, or other similar fees, taxes, or charges assessed or levied against nationals of the United States by the foreign countries of which such nonimmigrants are nationals or stateless residents: Provided, That nonimmigrant visas issued to aliens coming to the United States in transit to and from the headquarters district of the United Nations in accordance with the provisions of the Headquarters Agreement shall be gratis. Subject to such criteria as the Secretary of State may prescribe, including the duration of stay of the alien and the financial burden upon the charitable organization, the Secretary of State shall waive or reduce the fee for application and issuance of a nonimmigrant visa for any alien coming to the United States primarily for, or in activities related to, a charitable purpose involving health or nursing care, the provision of food or housing, job training, or any other similar direct service or assistance to poor or otherwise needy individuals in the United States.
+

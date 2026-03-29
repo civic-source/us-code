@@ -5,15 +5,15 @@ usc_section: "599"
 chapter: 25
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 599"
-generated_at: "2026-03-29T00:28:57.946Z"
+generated_at: "2026-03-29T02:10:16.736Z"
 ---
 
 # § 599. Definitions
 
 When used in this chapter—
 
-  (1) The term “person” includes individuals, partnerships, corporations, and associations.
-  (2) The term “Secretary” means the Secretary of Agriculture.
-  (3) Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
-  (4) The term “grapes” means vinifera species table grapes, European type, whether or not they have been in storage.
-  (5) The term “plums” means both European and Japanese type, whether or not they have been in storage, but does not mean Italian-type prunes, nor damson-type plums.
+  - **(1)** The term “person” includes individuals, partnerships, corporations, and associations.
+  - **(2)** The term “Secretary” means the Secretary of Agriculture.
+  - **(3)** Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
+  - **(4)** The term “grapes” means vinifera species table grapes, European type, whether or not they have been in storage.
+  - **(5)** The term “plums” means both European and Japanese type, whether or not they have been in storage, but does not mean Italian-type prunes, nor damson-type plums.

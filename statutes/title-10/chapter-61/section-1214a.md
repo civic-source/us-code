@@ -5,14 +5,14 @@ usc_section: "1214a"
 chapter: 61
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1214a"
-generated_at: "2026-03-29T00:20:52.965Z"
+generated_at: "2026-03-29T02:10:44.995Z"
 ---
 
 # § 1214a. Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation
 
-(a) Except as provided in subsection (c), the Secretary of the military department concerned may not authorize the involuntary administrative separation of a member described in subsection (b), or deny reenlistment of the member, based on a determination that the member is unsuitable for deployment or worldwide assignment based on the same medical condition of the member considered by a Physical Evaluation Board during the evaluation of the member.
-(b) A member covered by subsection (a) is any member of the armed forces who has been determined by a Physical Evaluation Board pursuant to a physical evaluation by the board to be fit for duty.
-(c) 
-  (1) The Secretary of the military department concerned may direct the Physical Evaluation Board to reevaluate any member described in subsection (b) if the Secretary has reason to believe that a medical condition of the member considered by the Physical Evaluation Board during the evaluation of the member described in that subsection renders the member unsuitable for continued military service based on the medical condition.
-  (2) A member determined pursuant to reevaluation under paragraph (1) to be unfit to perform the duties of the member’s office, grade, rank, or rating may be retired or separated for physical disability under this chapter.
-  (3) The Secretary of Defense shall be the final approval authority for any case determined by the Secretary of a military department to warrant administrative separation or denial of reenlistment based on a determination that the member is unsuitable for continued service due to the same medical condition of the member considered by a Physical Evaluation Board that found the member fit for duty.
+- **(a)** Except as provided in subsection (c), the Secretary of the military department concerned may not authorize the involuntary administrative separation of a member described in subsection (b), or deny reenlistment of the member, based on a determination that the member is unsuitable for deployment or worldwide assignment based on the same medical condition of the member considered by a Physical Evaluation Board during the evaluation of the member.
+- **(b)** A member covered by subsection (a) is any member of the armed forces who has been determined by a Physical Evaluation Board pursuant to a physical evaluation by the board to be fit for duty.
+- **(c)**
+  - **(1)** The Secretary of the military department concerned may direct the Physical Evaluation Board to reevaluate any member described in subsection (b) if the Secretary has reason to believe that a medical condition of the member considered by the Physical Evaluation Board during the evaluation of the member described in that subsection renders the member unsuitable for continued military service based on the medical condition.
+  - **(2)** A member determined pursuant to reevaluation under paragraph (1) to be unfit to perform the duties of the member’s office, grade, rank, or rating may be retired or separated for physical disability under this chapter.
+  - **(3)** The Secretary of Defense shall be the final approval authority for any case determined by the Secretary of a military department to warrant administrative separation or denial of reenlistment based on a determination that the member is unsuitable for continued service due to the same medical condition of the member considered by a Physical Evaluation Board that found the member fit for duty.

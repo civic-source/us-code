@@ -5,33 +5,33 @@ usc_section: "1616h"
 chapter: 18
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1616h"
-generated_at: "2026-03-29T00:30:38.681Z"
+generated_at: "2026-03-29T02:13:20.885Z"
 ---
 
 # § 1616h. Health training programs of community colleges
 
-(a) 
-  (1) The Secretary, acting through the Service, shall award grants to community colleges for the purpose of assisting the community college in the establishment of programs which provide education in a health profession leading to a degree or diploma in a health profession for individuals who desire to practice such profession on an Indian reservation or in a tribal clinic.
-  (2) The amount of any grant awarded to a community college under paragraph (1) for the first year in which such a grant is provided to the community college shall not exceed $100,000.
-(b) 
-  (1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
-  (2) Grants may only be made under this section to a community college which—
-    (A) is accredited,
-    (B) has access to a hospital facility, Service facility, or hospital that could provide training of nurses or health professionals,
-    (C) has entered into an agreement with an accredited college or university medical school, the terms of which—
-      (i) provide a program that enhances the transition and recruitment of students into advanced baccalaureate or graduate programs which train health professionals, and
-      (ii) stipulate certifications necessary to approve internship and field placement opportunities at service unit facilities of the Service or at tribal health facilities,
-    (D) has a qualified staff which has the appropriate certifications, and
-    (E) is capable of obtaining State or regional accreditation of the program described in subsection (a)(1).
-(c) The Secretary shall encourage community colleges described in subsection (b)(2) to establish and maintain programs described in subsection (a)(1) by—
-  (1) entering into agreements with such colleges for the provision of qualified personnel of the Service to teach courses of study in such programs, and
-  (2) providing technical assistance and support to such colleges.
-(d) Any program receiving assistance under this section that is conducted with respect to a health profession shall also offer courses of study which provide advanced training for any health professional who—
-  (1) has already received a degree or diploma in such health profession, and
-  (2) provides clinical services on an Indian reservation, at a Service facility, or at a tribal clinic.
-(e) For purposes of this section—
-  (1) The term “community college” means—
-    (A) a junior or community college that is a tribally controlled college or university, or
-    (B) a junior or community college.
-  (2) The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title .
-  (3) The term “junior or community college” has the meaning given to such term by section 1058(e) 1 1 See References in Text note below. of title 20.
+- **(a)**
+  - **(1)** The Secretary, acting through the Service, shall award grants to community colleges for the purpose of assisting the community college in the establishment of programs which provide education in a health profession leading to a degree or diploma in a health profession for individuals who desire to practice such profession on an Indian reservation or in a tribal clinic.
+  - **(2)** The amount of any grant awarded to a community college under paragraph (1) for the first year in which such a grant is provided to the community college shall not exceed $100,000.
+- **(b)**
+  - **(1)** The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) for the purpose of maintaining the program and recruiting students for the program.
+  - **(2)** Grants may only be made under this section to a community college which—
+    - **(A)** is accredited,
+    - **(B)** has access to a hospital facility, Service facility, or hospital that could provide training of nurses or health professionals,
+    - **(C)** has entered into an agreement with an accredited college or university medical school, the terms of which—
+      - **(i)** provide a program that enhances the transition and recruitment of students into advanced baccalaureate or graduate programs which train health professionals, and
+      - **(ii)** stipulate certifications necessary to approve internship and field placement opportunities at service unit facilities of the Service or at tribal health facilities,
+    - **(D)** has a qualified staff which has the appropriate certifications, and
+    - **(E)** is capable of obtaining State or regional accreditation of the program described in subsection (a)(1).
+- **(c)** The Secretary shall encourage community colleges described in subsection (b)(2) to establish and maintain programs described in subsection (a)(1) by—
+  - **(1)** entering into agreements with such colleges for the provision of qualified personnel of the Service to teach courses of study in such programs, and
+  - **(2)** providing technical assistance and support to such colleges.
+- **(d)** Any program receiving assistance under this section that is conducted with respect to a health profession shall also offer courses of study which provide advanced training for any health professional who—
+  - **(1)** has already received a degree or diploma in such health profession, and
+  - **(2)** provides clinical services on an Indian reservation, at a Service facility, or at a tribal clinic.
+- **(e)** For purposes of this section—
+  - **(1)** The term “community college” means—
+    - **(A)** a junior or community college that is a tribally controlled college or university, or
+    - **(B)** a junior or community college.
+  - **(2)** The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title .
+  - **(3)** The term “junior or community college” has the meaning given to such term by section 1058(e) 1 1 See References in Text note below. of title 20.

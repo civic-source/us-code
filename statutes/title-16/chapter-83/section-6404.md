@@ -5,40 +5,40 @@ usc_section: "6404"
 chapter: 83
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6404"
-generated_at: "2026-03-29T00:29:52.857Z"
+generated_at: "2026-03-29T02:11:53.961Z"
 ---
 
 # § 6404. Coral reef action plans
 
-(a) 
-  (1) Not later than 3 years after December 23, 2022 , and 2 years after the date of publication of each National Coral Reef Resilience Strategy, each Federal reef manager shall—
-    (A) prepare a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager; or
-    (B) in the case of a reef under the jurisdiction of a Federal reef manager for which there is an action plan in effect as of December 23, 2022 , update that plan to comply with the requirements of this subsection.
-  (2) A plan prepared under paragraph (1) by a Federal reef manager shall include a discussion of the following:
-    (A) Short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager.
-    (B) A current adaptive management framework to inform research, monitoring, and assessment needs.
-    (C) Tools, strategies, and partnerships necessary to identify, monitor, and address pollution, water quality, and other negative impacts to coral reef ecosystems within the jurisdiction of the manager.
-    (D) The status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager.
-    (E) Estimated budgetary and resource considerations necessary to carry out the plan.
-    (F) Contingencies for response to and recovery from emergencies and disasters.
-    (G) In the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources.
-    (H) Documentation by the Federal reef manager that the plan is consistent with the National Coral Reef Resilience Strategy.
-    (I) A data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
-  (3) Each Federal reef manager shall submit a plan prepared under paragraph (1) to the Task Force.
-  (4) Each plan prepared under paragraph (1) shall be subject to the requirements of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).
-(b) 
-  (1) A covered reef manager may elect to prepare, submit to the Task Force, and maintain a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager.
-  (2) A plan prepared under this subsection shall remain in effect for 5 years, or until an updated plan is submitted to the Task Force, whichever occurs first.
-  (3) A plan prepared under paragraph (1) by a covered reef manager—
-    (A) shall contain a discussion of—
-      (i) short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager;
-      (ii) estimated budgetary and resource considerations necessary to carry out the plan;
-      (iii) in the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources; and
-      (iv) contingencies for response to and recovery from emergencies and disasters; and
-    (B) 
-      (i) the status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager;
-      (ii) a current adaptive management framework to inform research, monitoring, and assessment needs;
-      (iii) tools, strategies, and partnerships necessary to identify, monitor, and address pollution and water quality impacts to coral reef ecosystems within the jurisdiction of the manager; and
-      (iv) a data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
-(c) The Administrator and the Task Force shall make reasonable efforts to provide technical assistance upon request by a Federal reef manager or covered reef manager developing a coral reef action plan under this section.
-(d) The Administrator shall publish each coral reef action plan prepared and submitted to the Task Force under this section on the public website of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.
+- **(a)**
+  - **(1)** Not later than 3 years after December 23, 2022 , and 2 years after the date of publication of each National Coral Reef Resilience Strategy, each Federal reef manager shall—
+    - **(A)** prepare a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager; or
+    - **(B)** in the case of a reef under the jurisdiction of a Federal reef manager for which there is an action plan in effect as of December 23, 2022 , update that plan to comply with the requirements of this subsection.
+  - **(2)** A plan prepared under paragraph (1) by a Federal reef manager shall include a discussion of the following:
+    - **(A)** Short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager.
+    - **(B)** A current adaptive management framework to inform research, monitoring, and assessment needs.
+    - **(C)** Tools, strategies, and partnerships necessary to identify, monitor, and address pollution, water quality, and other negative impacts to coral reef ecosystems within the jurisdiction of the manager.
+    - **(D)** The status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager.
+    - **(E)** Estimated budgetary and resource considerations necessary to carry out the plan.
+    - **(F)** Contingencies for response to and recovery from emergencies and disasters.
+    - **(G)** In the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources.
+    - **(H)** Documentation by the Federal reef manager that the plan is consistent with the National Coral Reef Resilience Strategy.
+    - **(I)** A data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
+  - **(3)** Each Federal reef manager shall submit a plan prepared under paragraph (1) to the Task Force.
+  - **(4)** Each plan prepared under paragraph (1) shall be subject to the requirements of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”).
+- **(b)**
+  - **(1)** A covered reef manager may elect to prepare, submit to the Task Force, and maintain a coral reef action plan to guide management and restoration activities to be undertaken within the responsibilities and jurisdiction of the manager.
+  - **(2)** A plan prepared under this subsection shall remain in effect for 5 years, or until an updated plan is submitted to the Task Force, whichever occurs first.
+  - **(3)** A plan prepared under paragraph (1) by a covered reef manager—
+    - **(A)** shall contain a discussion of—
+      - **(i)** short- and medium-term coral reef conservation and restoration objectives within the jurisdiction of the manager;
+      - **(ii)** estimated budgetary and resource considerations necessary to carry out the plan;
+      - **(iii)** in the case of an updated plan, annual records of significant management and restoration actions taken under the previous plan, cash and noncash resources used to undertake the actions, and the source of such resources; and
+      - **(iv)** contingencies for response to and recovery from emergencies and disasters; and
+    - **(B)**
+      - **(i)** the status of efforts to improve coral reef ecosystem management cooperation and integration between Federal reef managers and covered reef managers, including the identification of existing research and monitoring activities that can be leveraged for coral reef status and trends assessments within the jurisdiction of the manager;
+      - **(ii)** a current adaptive management framework to inform research, monitoring, and assessment needs;
+      - **(iii)** tools, strategies, and partnerships necessary to identify, monitor, and address pollution and water quality impacts to coral reef ecosystems within the jurisdiction of the manager; and
+      - **(iv)** a data management plan to ensure data, assessments, and accompanying information are appropriately preserved, curated, publicly accessible, and broadly reusable.
+- **(c)** The Administrator and the Task Force shall make reasonable efforts to provide technical assistance upon request by a Federal reef manager or covered reef manager developing a coral reef action plan under this section.
+- **(d)** The Administrator shall publish each coral reef action plan prepared and submitted to the Task Force under this section on the public website of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.

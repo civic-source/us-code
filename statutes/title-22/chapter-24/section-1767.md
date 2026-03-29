@@ -5,7 +5,7 @@ usc_section: "1767"
 chapter: 24
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 1767"
-generated_at: "2026-03-29T00:30:33.741Z"
+generated_at: "2026-03-29T02:12:40.013Z"
 ---
 
 # § 1767. Repealed. Pub. L. 85–141, § 11(d) , Aug. 14, 1957 , 71 Stat. 365

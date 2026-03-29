@@ -5,22 +5,22 @@ usc_section: "1171"
 chapter: 11
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1171"
-generated_at: "2026-03-29T00:32:17.174Z"
+generated_at: "2026-03-29T02:14:50.346Z"
 ---
 
 # § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
 
-(a) The Secretary shall determine whether to establish, or to remove, presumptions of service connection based on toxic exposure pursuant to this subchapter, whereby—
-  (1) under section 1172 of this title —
-    (A) the Secretary provides—
-      (i) public notice regarding what formal evaluations the Secretary plans to conduct; and
-      (ii) the public an opportunity to comment on the proposed formal evaluations;
-    (B) the working group established under subsection (b) of such section provides—
-      (i) advice to the Secretary on toxic-exposed veterans and cases in which veterans who, during active military, naval, air, or space service, may have experienced a toxic exposure or their dependents may have experienced a toxic exposure while the veterans were serving in the active military, naval, air, or space service;
-      (ii) recommendations to the Secretary on corrections needed in the Individual Longitudinal Exposure Record to better reflect veterans and dependents described in clause (i); and
-      (iii) recommendations to the Secretary regarding which cases of possible toxic exposure should be reviewed;
-  (2) the Secretary provides for formal evaluations of such recommendations under section 1173 of this title and takes into account reports received by the Secretary from the National Academies of Sciences, Engineering, and Medicine under section 1176 of this title ; and
-  (3) the Secretary issues regulations under section 1174 of this title .
-(b) In this subchapter:
-  (1) The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
-  (2) The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10 .
+- **(a)** The Secretary shall determine whether to establish, or to remove, presumptions of service connection based on toxic exposure pursuant to this subchapter, whereby—
+  - **(1)** under section 1172 of this title —
+    - **(A)** the Secretary provides—
+      - **(i)** public notice regarding what formal evaluations the Secretary plans to conduct; and
+      - **(ii)** the public an opportunity to comment on the proposed formal evaluations;
+    - **(B)** the working group established under subsection (b) of such section provides—
+      - **(i)** advice to the Secretary on toxic-exposed veterans and cases in which veterans who, during active military, naval, air, or space service, may have experienced a toxic exposure or their dependents may have experienced a toxic exposure while the veterans were serving in the active military, naval, air, or space service;
+      - **(ii)** recommendations to the Secretary on corrections needed in the Individual Longitudinal Exposure Record to better reflect veterans and dependents described in clause (i); and
+      - **(iii)** recommendations to the Secretary regarding which cases of possible toxic exposure should be reviewed;
+  - **(2)** the Secretary provides for formal evaluations of such recommendations under section 1173 of this title and takes into account reports received by the Secretary from the National Academies of Sciences, Engineering, and Medicine under section 1176 of this title ; and
+  - **(3)** the Secretary issues regulations under section 1174 of this title .
+- **(b)** In this subchapter:
+  - **(1)** The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
+  - **(2)** The term “Individual Longitudinal Exposure Record” means the data system maintained under section 996 of title 10 .

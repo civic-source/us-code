@@ -5,7 +5,7 @@ usc_section: "50B"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 50B"
-generated_at: "2026-03-29T00:31:20.600Z"
+generated_at: "2026-03-29T02:14:00.767Z"
 ---
 
 # [§§ 50A, 50B. Repealed. Pub. L. 98–369, div. A, title IV, § 474(m)(2) , July 18, 1984 , 98 Stat. 833 ]

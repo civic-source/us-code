@@ -5,7 +5,7 @@ usc_section: "900"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 900"
-generated_at: "2026-03-29T00:30:38.662Z"
+generated_at: "2026-03-29T02:13:20.869Z"
 ---
 
 # § 900. Repealed. Pub. L. 93–197, § 3(b) , Dec. 22, 1973 , 87 Stat. 770

@@ -5,7 +5,7 @@ usc_section: "1848a"
 chapter: 17
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1848a"
-generated_at: "2026-03-29T00:29:16.721Z"
+generated_at: "2026-03-29T02:11:21.100Z"
 ---
 
 # § 1848a. Repealed. Pub. L. 111–203, title VI, § 604(c)(2) , July 21, 2010 , 124 Stat. 1601

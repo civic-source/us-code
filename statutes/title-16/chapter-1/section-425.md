@@ -5,7 +5,7 @@ usc_section: "425"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 425"
-generated_at: "2026-03-29T00:29:52.417Z"
+generated_at: "2026-03-29T02:11:53.445Z"
 ---
 
 # § 425. Fredericksburg and Spotsylvania County Battle Fields Memorial; establishment

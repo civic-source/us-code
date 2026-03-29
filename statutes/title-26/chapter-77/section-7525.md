@@ -5,22 +5,22 @@ usc_section: "7525"
 chapter: 77
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7525"
-generated_at: "2026-03-29T00:31:21.098Z"
+generated_at: "2026-03-29T02:14:01.396Z"
 ---
 
 # § 7525. Confidentiality privileges relating to taxpayer communications
 
-(a) 
-  (1) With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
-  (2) Paragraph (1) may only be asserted in—
-    (A) any noncriminal tax matter before the Internal Revenue Service; and
-    (B) any noncriminal tax proceeding in Federal court brought by or against the United States.
-  (3) For purposes of this subsection—
-    (A) The term “federally authorized tax practitioner” means any individual who is authorized under Federal law to practice before the Internal Revenue Service if such practice is subject to Federal regulation under section 330 of title 31 , United States Code.
-    (B) The term “tax advice” means advice given by an individual with respect to a matter which is within the scope of the individual’s authority to practice described in subparagraph (A).
-(b) The privilege under subsection (a) shall not apply to any written communication which is—
-  (1) between a federally authorized tax practitioner and—
-    (A) any person,
-    (B) any director, officer, employee, agent, or representative of the person, or
-    (C) any other person holding a capital or profits interest in the person, and
-  (2) in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
+- **(a)**
+  - **(1)** With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
+  - **(2)** Paragraph (1) may only be asserted in—
+    - **(A)** any noncriminal tax matter before the Internal Revenue Service; and
+    - **(B)** any noncriminal tax proceeding in Federal court brought by or against the United States.
+  - **(3)** For purposes of this subsection—
+    - **(A)** The term “federally authorized tax practitioner” means any individual who is authorized under Federal law to practice before the Internal Revenue Service if such practice is subject to Federal regulation under section 330 of title 31 , United States Code.
+    - **(B)** The term “tax advice” means advice given by an individual with respect to a matter which is within the scope of the individual’s authority to practice described in subparagraph (A).
+- **(b)** The privilege under subsection (a) shall not apply to any written communication which is—
+  - **(1)** between a federally authorized tax practitioner and—
+    - **(A)** any person,
+    - **(B)** any director, officer, employee, agent, or representative of the person, or
+    - **(C)** any other person holding a capital or profits interest in the person, and
+  - **(2)** in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).

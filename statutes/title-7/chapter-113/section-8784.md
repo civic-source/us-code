@@ -5,10 +5,10 @@ usc_section: "8784"
 chapter: 113
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8784"
-generated_at: "2026-03-29T00:28:58.330Z"
+generated_at: "2026-03-29T02:10:17.212Z"
 ---
 
 # § 8784. Assignment of payments
 
-(a) The provisions of section 590h(g) of title 16 , relating to assignment of payments, shall apply to payments made under this chapter.
-(b) The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.
+- **(a)** The provisions of section 590h(g) of title 16 , relating to assignment of payments, shall apply to payments made under this chapter.
+- **(b)** The producer making the assignment, or the assignee, shall provide the Secretary with notice, in such manner as the Secretary may require, of any assignment made under this section.

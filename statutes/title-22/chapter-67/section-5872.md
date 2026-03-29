@@ -5,12 +5,12 @@ usc_section: "5872"
 chapter: 67
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 5872"
-generated_at: "2026-03-29T00:30:33.950Z"
+generated_at: "2026-03-29T02:12:40.367Z"
 ---
 
 # § 5872. Office of Space Commerce
 
-(a) The Office of Space Commerce of the Department of Commerce is authorized and encouraged to conduct one or more trade missions to appropriate independent states of the former Soviet Union for the purpose of familiarizing United States aerospace industry representatives with space hardware, space technologies, and space services that may be available from the independent states, and with the business practices and overall business climate in the independent states.
-(b) The Office of Space Commerce—
-  (1) shall monitor the progress of any discussions described in section 5871(c)(1) of this title that are being conducted; and
-  (2) shall advise the Administrator of the National Aeronautics and Space Administration as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.
+- **(a)** The Office of Space Commerce of the Department of Commerce is authorized and encouraged to conduct one or more trade missions to appropriate independent states of the former Soviet Union for the purpose of familiarizing United States aerospace industry representatives with space hardware, space technologies, and space services that may be available from the independent states, and with the business practices and overall business climate in the independent states.
+- **(b)** The Office of Space Commerce—
+  - **(1)** shall monitor the progress of any discussions described in section 5871(c)(1) of this title that are being conducted; and
+  - **(2)** shall advise the Administrator of the National Aeronautics and Space Administration as to the impact on United States industry of each potential acquisition of space hardware, space technology, or space services from the independent states of the former Soviet Union, specifically including any anticompetitive issues the Office may observe.

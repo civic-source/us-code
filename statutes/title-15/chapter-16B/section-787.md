@@ -5,13 +5,13 @@ usc_section: "787"
 chapter: 16
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 787"
-generated_at: "2026-03-29T00:29:41.668Z"
+generated_at: "2026-03-29T02:11:34.138Z"
 ---
 
 # § 787. Project Independence Evaluation System documentation; access to model by Congress and public
 
 The Administrator of the Federal Energy Administration shall—
 
-  (1) submit to the Congress, not later than September 1, 1976 , full and complete structural and parametric documentation, and not later than January 1, 1977 , operating documentation, of the Project Independence Evaluation System computer model;
-  (2) provide access to such model to representatives of committees of the Congress in an expeditious manner; and
-  (3) permit the use of such model on the computer system maintained by the Federal Energy Administration by any member of the public upon such reasonable terms and conditions as the Administrator shall, by rule, prescribe. Such rules shall provide that any member of the public who uses such model may be charged a fair and reasonable fee, as determined by the Administrator, for using such model.
+  - **(1)** submit to the Congress, not later than September 1, 1976 , full and complete structural and parametric documentation, and not later than January 1, 1977 , operating documentation, of the Project Independence Evaluation System computer model;
+  - **(2)** provide access to such model to representatives of committees of the Congress in an expeditious manner; and
+  - **(3)** permit the use of such model on the computer system maintained by the Federal Energy Administration by any member of the public upon such reasonable terms and conditions as the Administrator shall, by rule, prescribe. Such rules shall provide that any member of the public who uses such model may be charged a fair and reasonable fee, as determined by the Administrator, for using such model.

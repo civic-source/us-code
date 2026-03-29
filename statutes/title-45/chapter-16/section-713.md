@@ -5,7 +5,7 @@ usc_section: "713"
 chapter: 16
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 713"
-generated_at: "2026-03-29T00:32:59.700Z"
+generated_at: "2026-03-29T02:15:50.544Z"
 ---
 
 # § 713. Access to information

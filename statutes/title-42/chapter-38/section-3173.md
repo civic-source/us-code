@@ -5,7 +5,7 @@ usc_section: "3173"
 chapter: 38
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3173"
-generated_at: "2026-03-29T00:32:53.829Z"
+generated_at: "2026-03-29T02:15:36.661Z"
 ---
 
 # § 3173. Repealed. Pub. L. 108–373, title IV, § 401(a) , Oct. 27, 2004 , 118 Stat. 1767

@@ -5,7 +5,7 @@ usc_section: "224"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 224"
-generated_at: "2026-03-29T00:32:52.794Z"
+generated_at: "2026-03-29T02:15:35.566Z"
 ---
 
 # §§ 219 to 224. Transferred

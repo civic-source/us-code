@@ -5,24 +5,24 @@ usc_section: "50913"
 chapter: 509
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 50913"
-generated_at: "2026-03-29T00:33:19.406Z"
+generated_at: "2026-03-29T02:16:19.258Z"
 ---
 
 # § 50913. Acquiring United States Government property and services
 
-(a) 
-  (1) The Secretary of Transportation shall facilitate and encourage the acquisition by the private sector and State governments of—
-    (A) launch or reentry property of the United States Government that is excess or otherwise is not needed for public use; and
-    (B) launch services and reentry services, including utilities, of the Government otherwise not needed for public use.
-  (2) In acting under paragraph (1) of this subsection, the Secretary shall consider the commercial availability on reasonable terms of substantially equivalent launch property or launch services or reentry services from a domestic source, whether such source is located on or off a Federal range.
-(b) 
-  (1) In this subsection, “direct costs” means the actual costs that—
-    (A) can be associated unambiguously with a commercial launch or reentry effort; and
-    (B) the Government would not incur if there were no commercial launch or reentry effort.
-  (2) In consultation with the Secretary, the head of the executive agency providing the property or service under subsection (a) of this section shall establish the price for the property or service. The price for—
-    (A) acquiring launch property by sale or transaction instead of sale is the fair market value;
-    (B) acquiring launch property (except by sale or transaction instead of sale) is an amount equal to the direct costs, including specific wear and tear and property damage, the Government incurred because of acquisition of the property; and
-    (C) launch services or reentry services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
-  (3) The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
-(c) The Secretary may collect a payment under this section with the consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
-(d) The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.
+- **(a)**
+  - **(1)** The Secretary of Transportation shall facilitate and encourage the acquisition by the private sector and State governments of—
+    - **(A)** launch or reentry property of the United States Government that is excess or otherwise is not needed for public use; and
+    - **(B)** launch services and reentry services, including utilities, of the Government otherwise not needed for public use.
+  - **(2)** In acting under paragraph (1) of this subsection, the Secretary shall consider the commercial availability on reasonable terms of substantially equivalent launch property or launch services or reentry services from a domestic source, whether such source is located on or off a Federal range.
+- **(b)**
+  - **(1)** In this subsection, “direct costs” means the actual costs that—
+    - **(A)** can be associated unambiguously with a commercial launch or reentry effort; and
+    - **(B)** the Government would not incur if there were no commercial launch or reentry effort.
+  - **(2)** In consultation with the Secretary, the head of the executive agency providing the property or service under subsection (a) of this section shall establish the price for the property or service. The price for—
+    - **(A)** acquiring launch property by sale or transaction instead of sale is the fair market value;
+    - **(B)** acquiring launch property (except by sale or transaction instead of sale) is an amount equal to the direct costs, including specific wear and tear and property damage, the Government incurred because of acquisition of the property; and
+    - **(C)** launch services or reentry services is an amount equal to the direct costs, including the basic pay of Government civilian and contractor personnel, the Government incurred because of acquisition of the services.
+  - **(3)** The Secretary shall ensure the establishment of uniform guidelines for, and consistent implementation of, this section by all Federal agencies.
+- **(c)** The Secretary may collect a payment under this section with the consent of the head of the executive agency establishing the price. Amounts collected under this subsection shall be deposited in the Treasury. Amounts (except for excess launch property) shall be credited to the appropriation from which the cost of providing the property or services was paid.
+- **(d)** The head of a department, agency, or instrumentality of the Government may collect a payment for an activity involved in producing a launch vehicle or reentry vehicle, or the payload of either, for launch or reentry if the activity was agreed to by the owner or manufacturer of the launch vehicle, reentry vehicle, or payload.

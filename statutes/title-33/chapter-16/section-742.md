@@ -5,7 +5,7 @@ usc_section: "742"
 chapter: 16
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 742"
-generated_at: "2026-03-29T00:31:57.251Z"
+generated_at: "2026-03-29T02:14:18.518Z"
 ---
 
 # §§ 741, 742. Repealed. June 6, 1940, ch. 257 , §§ 5, 6, 54 Stat. 247

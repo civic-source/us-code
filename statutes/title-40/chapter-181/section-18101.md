@@ -5,12 +5,12 @@ usc_section: "18101"
 chapter: 181
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 18101"
-generated_at: "2026-03-29T00:32:20.587Z"
+generated_at: "2026-03-29T02:14:58.817Z"
 ---
 
 # § 18101. Definitions
 
 In this chapter—
 
-  (1) The term “federal agency” has the same meaning given that term in section 102 of this title .
-  (2) The term “TTY” means a text-telephone used in the transmission of coded signals through the nationwide telecommunications system.
+  - **(1)** The term “federal agency” has the same meaning given that term in section 102 of this title .
+  - **(2)** The term “TTY” means a text-telephone used in the transmission of coded signals through the nationwide telecommunications system.

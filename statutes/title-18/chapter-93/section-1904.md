@@ -5,7 +5,7 @@ usc_section: "1904"
 chapter: 93
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1904"
-generated_at: "2026-03-29T00:30:15.686Z"
+generated_at: "2026-03-29T02:12:02.428Z"
 ---
 
 # [§ 1904. Repealed. Pub. L. 103–322, title XXXIII, § 330004(11) , Sept. 13, 1994 , 108 Stat. 2141 ]

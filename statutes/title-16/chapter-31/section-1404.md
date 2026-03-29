@@ -5,7 +5,7 @@ usc_section: "1404"
 chapter: 31
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1404"
-generated_at: "2026-03-29T00:29:52.713Z"
+generated_at: "2026-03-29T02:11:53.781Z"
 ---
 
 # § 1404. Omitted

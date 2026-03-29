@@ -5,7 +5,7 @@ usc_section: "2253"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2253"
-generated_at: "2026-03-29T00:29:16.741Z"
+generated_at: "2026-03-29T02:11:21.121Z"
 ---
 
 # § 2253. Repealed. Pub. L. 115–334, title V, § 5411(30) , Dec. 20, 2018 , 132 Stat. 4682

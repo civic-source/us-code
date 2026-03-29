@@ -5,15 +5,15 @@ usc_section: "504"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 504"
-generated_at: "2026-03-29T00:31:20.772Z"
+generated_at: "2026-03-29T02:14:00.999Z"
 ---
 
 # § 504. Status after organization ceases to qualify for exemption under section 501(c)(3) because of substantial lobbying or because of political activities
 
-(a) An organization which—
-  (1) was exempt (or was determined by the Secretary to be exempt) from taxation under section 501(a) by reason of being an organization described in section 501(c)(3), and
-  (2) is not an organization described in section 501(c)(3)—
-    (A) by reason of carrying on propaganda, or otherwise attempting, to influence legislation, or
-    (B) by reason of participating in, or intervening in, any political campaign on behalf of (or in opposition to) any candidate for public office,
-(b) The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of subsection (a), including regulations relating to a direct or indirect transfer of all or part of the assets of an organization to an organization controlled (directly or indirectly) by the same person or persons who control the transferor organization.
-(c) Subsection (a) shall not apply to any organization which is a disqualified organization within the meaning of section 501(h)(5) (relating to churches, etc.) for the taxable year immediately preceding the first taxable year for which such organization is described in paragraph (2) of subsection (a).
+- **(a)** An organization which—
+  - **(1)** was exempt (or was determined by the Secretary to be exempt) from taxation under section 501(a) by reason of being an organization described in section 501(c)(3), and
+  - **(2)** is not an organization described in section 501(c)(3)—
+    - **(A)** by reason of carrying on propaganda, or otherwise attempting, to influence legislation, or
+    - **(B)** by reason of participating in, or intervening in, any political campaign on behalf of (or in opposition to) any candidate for public office,
+- **(b)** The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of subsection (a), including regulations relating to a direct or indirect transfer of all or part of the assets of an organization to an organization controlled (directly or indirectly) by the same person or persons who control the transferor organization.
+- **(c)** Subsection (a) shall not apply to any organization which is a disqualified organization within the meaning of section 501(h)(5) (relating to churches, etc.) for the taxable year immediately preceding the first taxable year for which such organization is described in paragraph (2) of subsection (a).

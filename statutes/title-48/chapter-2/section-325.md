@@ -5,7 +5,7 @@ usc_section: "325"
 chapter: 2
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 325"
-generated_at: "2026-03-29T00:33:06.592Z"
+generated_at: "2026-03-29T02:16:00.796Z"
 ---
 
 # §§ 321a to 325. Repealed. Pub. L. 86–70, § 21(d)(6) , (7), June 25, 1959 , 73 Stat. 146

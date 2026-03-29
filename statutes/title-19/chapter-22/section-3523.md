@@ -5,12 +5,12 @@ usc_section: "3523"
 chapter: 22
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 3523"
-generated_at: "2026-03-29T00:30:20.265Z"
+generated_at: "2026-03-29T02:12:08.732Z"
 ---
 
 # § 3523. Duty free treatment for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol
 
 The President—
 
-  (1) shall proclaim duty-free entry for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol, to be effective on the effective date of the proclamation issued by the President under section 3513(a) of this title to carry out Schedule XX, and
-  (2) shall take such actions as are necessary to reflect such tariff treatment in Schedule XX.
+  - **(1)** shall proclaim duty-free entry for octadecyl isocyanate and 5-Chloro-2-(2,4-dichloro-phenoxy)phenol, to be effective on the effective date of the proclamation issued by the President under section 3513(a) of this title to carry out Schedule XX, and
+  - **(2)** shall take such actions as are necessary to reflect such tariff treatment in Schedule XX.

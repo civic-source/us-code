@@ -5,17 +5,17 @@ usc_section: "6336"
 chapter: 608
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6336"
-generated_at: "2026-03-29T00:20:53.188Z"
+generated_at: "2026-03-29T02:10:45.266Z"
 ---
 
 # § 6336. Report on use of funds for certain research and development purposes
 
-(a) Not later than February 1 each year, the Secretary of Energy shall submit to the congressional defense committees a report on the funds expended during the preceding fiscal year on activities under the Department of Energy Laboratory Directed Research and Development Program. The purpose of the report is to permit an assessment of the extent to which such activities support the national security mission of the Department of Energy.
-(b) 
-  (1) The report required by subsection (a) shall include, with respect to plant-directed research and development, the following:
-    (A) A financial accounting of expenditures for such research and development, disaggregated by nuclear weapons production facility.
-    (B) A breakdown of the percentage of research and development conducted by each such facility that is plant-directed research and development.
-    (C) An explanation of how each such facility plans to increase the availability and utilization of funds for plant-directed research and development.
-  (2) In this subsection, the term “plant-directed research and development” means research and development selected by the director of a nuclear weapons production facility.
-(c) Each report shall be prepared by the officials responsible for Federal oversight of the funds expended on activities under the program.
-(d) Each report shall set forth the criteria utilized by the officials preparing the report in determining whether or not the activities reviewed by such officials support the national security mission of the Department.
+- **(a)** Not later than February 1 each year, the Secretary of Energy shall submit to the congressional defense committees a report on the funds expended during the preceding fiscal year on activities under the Department of Energy Laboratory Directed Research and Development Program. The purpose of the report is to permit an assessment of the extent to which such activities support the national security mission of the Department of Energy.
+- **(b)**
+  - **(1)** The report required by subsection (a) shall include, with respect to plant-directed research and development, the following:
+    - **(A)** A financial accounting of expenditures for such research and development, disaggregated by nuclear weapons production facility.
+    - **(B)** A breakdown of the percentage of research and development conducted by each such facility that is plant-directed research and development.
+    - **(C)** An explanation of how each such facility plans to increase the availability and utilization of funds for plant-directed research and development.
+  - **(2)** In this subsection, the term “plant-directed research and development” means research and development selected by the director of a nuclear weapons production facility.
+- **(c)** Each report shall be prepared by the officials responsible for Federal oversight of the funds expended on activities under the program.
+- **(d)** Each report shall set forth the criteria utilized by the officials preparing the report in determining whether or not the activities reviewed by such officials support the national security mission of the Department.

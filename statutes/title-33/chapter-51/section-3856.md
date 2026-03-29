@@ -5,7 +5,7 @@ usc_section: "3856"
 chapter: 51
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3856"
-generated_at: "2026-03-29T00:31:57.470Z"
+generated_at: "2026-03-29T02:14:18.668Z"
 ---
 
 # § 3856. Referrals for appropriate action by foreign country

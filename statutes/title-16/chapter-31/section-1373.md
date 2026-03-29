@@ -5,28 +5,28 @@ usc_section: "1373"
 chapter: 31
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1373"
-generated_at: "2026-03-29T00:29:52.704Z"
+generated_at: "2026-03-29T02:11:53.769Z"
 ---
 
 # § 1373. Regulations on taking of marine mammals
 
-(a) The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title .
-(b) In prescribing such regulations, the Secretary shall give full consideration to all factors which may affect the extent to which such animals may be taken or imported, including but not limited to the effect of such regulations on—
-  (1) existing and future levels of marine mammal species and population stocks;
-  (2) existing international treaty and agreement obligations of the United States;
-  (3) the marine ecosystem and related environmental considerations;
-  (4) the conservation, development, and utilization of fishery resources; and
-  (5) the economic and technological feasibility of implementation.
-(c) The regulations prescribed under subsection (a) of this section for any species or population stock of marine mammal may include, but are not limited to, restrictions with respect to—
-  (1) the number of animals which may be taken or imported in any calendar year pursuant to permits issued under section 1374 of this title ;
-  (2) the age, size, or sex (or any combination of the foregoing) of animals which may be taken or imported, whether or not a quota prescribed under paragraph (1) of this subsection applies with respect to such animals;
-  (3) the season or other period of time within which animals may be taken or imported;
-  (4) the manner and locations in which animals may be taken or imported; and
-  (5) fishing techniques which have been found to cause undue fatalities to any species of marine mammal in a fishery.
-(d) Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary’s determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the publication of notice in the Federal Register of his intention to prescribe regulations under this section—
-  (1) a statement of the estimated existing levels of the species and population stocks of the marine mammal concerned;
-  (2) a statement of the expected impact of the proposed regulations on the optimum sustainable population of such species or population stock;
-  (3) a statement describing the evidence before the Secretary upon which he proposes to base such regulations; and
-  (4) any studies made by or for the Secretary or any recommendations made by or for the Secretary or the Marine Mammal Commission which relate to the establishment of such regulations.
-(e) Any regulation prescribed pursuant to this section shall be periodically reviewed, and may be modified from time to time in such manner as the Secretary deems consistent with and necessary to carry out the purposes of this chapter.
-(f) Within six months after the effective date of this chapter and every twelve months thereafter, the Secretary shall report to the public through publication in the Federal Register and to the Congress on the current status of all marine mammal species and population stocks subject to the provisions of this chapter. His report shall describe those actions taken and those measures believed necessary, including where appropriate, the issuance of permits pursuant to this subchapter to assure the well-being of such marine mammals.
+- **(a)** The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title .
+- **(b)** In prescribing such regulations, the Secretary shall give full consideration to all factors which may affect the extent to which such animals may be taken or imported, including but not limited to the effect of such regulations on—
+  - **(1)** existing and future levels of marine mammal species and population stocks;
+  - **(2)** existing international treaty and agreement obligations of the United States;
+  - **(3)** the marine ecosystem and related environmental considerations;
+  - **(4)** the conservation, development, and utilization of fishery resources; and
+  - **(5)** the economic and technological feasibility of implementation.
+- **(c)** The regulations prescribed under subsection (a) of this section for any species or population stock of marine mammal may include, but are not limited to, restrictions with respect to—
+  - **(1)** the number of animals which may be taken or imported in any calendar year pursuant to permits issued under section 1374 of this title ;
+  - **(2)** the age, size, or sex (or any combination of the foregoing) of animals which may be taken or imported, whether or not a quota prescribed under paragraph (1) of this subsection applies with respect to such animals;
+  - **(3)** the season or other period of time within which animals may be taken or imported;
+  - **(4)** the manner and locations in which animals may be taken or imported; and
+  - **(5)** fishing techniques which have been found to cause undue fatalities to any species of marine mammal in a fishery.
+- **(d)** Regulations prescribed to carry out this section with respect to any species or stock of marine mammals must be made on the record after opportunity for an agency hearing on both the Secretary’s determination to waive the moratorium pursuant to section 1371(a)(3)(A) of this title and on such regulations, except that, in addition to any other requirements, imposed by law with respect to agency rulemaking, the Secretary shall publish and make available to the public either before or concurrent with the publication of notice in the Federal Register of his intention to prescribe regulations under this section—
+  - **(1)** a statement of the estimated existing levels of the species and population stocks of the marine mammal concerned;
+  - **(2)** a statement of the expected impact of the proposed regulations on the optimum sustainable population of such species or population stock;
+  - **(3)** a statement describing the evidence before the Secretary upon which he proposes to base such regulations; and
+  - **(4)** any studies made by or for the Secretary or any recommendations made by or for the Secretary or the Marine Mammal Commission which relate to the establishment of such regulations.
+- **(e)** Any regulation prescribed pursuant to this section shall be periodically reviewed, and may be modified from time to time in such manner as the Secretary deems consistent with and necessary to carry out the purposes of this chapter.
+- **(f)** Within six months after the effective date of this chapter and every twelve months thereafter, the Secretary shall report to the public through publication in the Federal Register and to the Congress on the current status of all marine mammal species and population stocks subject to the provisions of this chapter. His report shall describe those actions taken and those measures believed necessary, including where appropriate, the issuance of permits pursuant to this subchapter to assure the well-being of such marine mammals.

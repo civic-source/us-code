@@ -5,10 +5,10 @@ usc_section: "7682"
 chapter: 83
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 7682"
-generated_at: "2026-03-29T00:30:33.998Z"
+generated_at: "2026-03-29T02:12:40.434Z"
 ---
 
 # § 7682. Authorization of appropriations
 
-(a) There are authorized to be appropriated to the President such sums as may be necessary for the fiscal year 2004 and each fiscal year thereafter to carry out section 262p–8 of this title .
-(b) Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
+- **(a)** There are authorized to be appropriated to the President such sums as may be necessary for the fiscal year 2004 and each fiscal year thereafter to carry out section 262p–8 of this title .
+- **(b)** Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.

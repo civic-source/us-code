@@ -5,10 +5,10 @@ usc_section: "297"
 chapter: 13
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 297"
-generated_at: "2026-03-29T00:31:24.136Z"
+generated_at: "2026-03-29T02:14:04.513Z"
 ---
 
 # § 297. Assignment of judges to courts of the freely associated compact states
 
-(a) The Chief Justice or the chief judge of the United States Court of Appeals for the Ninth Circuit may assign any circuit, district, magistrate, or territorial judge of a court of the Ninth Circuit, with the consent of the judge so assigned, to serve temporarily as a judge of any duly constituted court of the freely associated compact states whenever an official duly authorized by the laws of the respective compact state requests such assignment and such assignment is necessary for the proper dispatch of the business of the respective court.
-(b) The Congress consents to the acceptance and retention by any judge so authorized of reimbursement from the countries referred to in subsection (a) of all necessary travel expenses, including transportation, and of subsistence, or of a reasonable per diem allowance in lieu of subsistence. The judge shall report to the Administrative Office of the United States Courts any amount received pursuant to this subsection.
+- **(a)** The Chief Justice or the chief judge of the United States Court of Appeals for the Ninth Circuit may assign any circuit, district, magistrate, or territorial judge of a court of the Ninth Circuit, with the consent of the judge so assigned, to serve temporarily as a judge of any duly constituted court of the freely associated compact states whenever an official duly authorized by the laws of the respective compact state requests such assignment and such assignment is necessary for the proper dispatch of the business of the respective court.
+- **(b)** The Congress consents to the acceptance and retention by any judge so authorized of reimbursement from the countries referred to in subsection (a) of all necessary travel expenses, including transportation, and of subsistence, or of a reasonable per diem allowance in lieu of subsistence. The judge shall report to the Administrative Office of the United States Courts any amount received pursuant to this subsection.

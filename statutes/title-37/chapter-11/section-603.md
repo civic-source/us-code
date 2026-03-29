@@ -5,7 +5,7 @@ usc_section: "603"
 chapter: 11
 current_through: "PL 119-73"
 classification: "37 U.S.C. § 603"
-generated_at: "2026-03-29T00:32:04.431Z"
+generated_at: "2026-03-29T02:14:43.144Z"
 ---
 
 # § 603. Regulations

@@ -5,7 +5,7 @@ usc_section: "365"
 chapter: 11
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 365"
-generated_at: "2026-03-29T00:32:59.697Z"
+generated_at: "2026-03-29T02:15:50.542Z"
 ---
 
 # § 365. Omitted

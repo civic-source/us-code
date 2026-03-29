@@ -5,13 +5,13 @@ usc_section: "3845"
 chapter: 279
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3845"
-generated_at: "2026-03-29T00:20:53.134Z"
+generated_at: "2026-03-29T02:10:45.200Z"
 ---
 
 # § 3845. Contractor inventory accounting systems: standards
 
-(a) The Secretary of Defense shall prescribe in regulations—
-  (1) standards for inventory accounting systems used by contractors under contract with the Department of Defense; and
-  (2) appropriate enforcement requirements with respect to such standards.
-(b) The regulations prescribed pursuant to subsection (a) shall not apply to a contract that is for an amount not greater than the simplified acquisition threshold.
-(c) The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial products.
+- **(a)** The Secretary of Defense shall prescribe in regulations—
+  - **(1)** standards for inventory accounting systems used by contractors under contract with the Department of Defense; and
+  - **(2)** appropriate enforcement requirements with respect to such standards.
+- **(b)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract that is for an amount not greater than the simplified acquisition threshold.
+- **(c)** The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial products.

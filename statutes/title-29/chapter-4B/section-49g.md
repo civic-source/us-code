@@ -5,7 +5,7 @@ usc_section: "49g"
 chapter: 4
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 49g"
-generated_at: "2026-03-29T00:31:27.538Z"
+generated_at: "2026-03-29T02:14:09.351Z"
 ---
 
 # § 49g. State plans

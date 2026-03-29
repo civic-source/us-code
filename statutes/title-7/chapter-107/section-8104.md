@@ -5,7 +5,7 @@ usc_section: "8104"
 chapter: 107
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8104"
-generated_at: "2026-03-29T00:28:58.312Z"
+generated_at: "2026-03-29T02:10:17.187Z"
 ---
 
 # § 8104. Repealed. Pub. L. 115–334, title IX, § 9004 , Dec. 20, 2018 , 132 Stat. 4885

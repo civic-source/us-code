@@ -5,23 +5,23 @@ usc_section: "9303"
 chapter: 101
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9303"
-generated_at: "2026-03-29T00:32:54.141Z"
+generated_at: "2026-03-29T02:15:37.044Z"
 ---
 
 # § 9303. Program activities
 
-(a) The Secretary shall initiate activities or accelerate existing activities in research areas in which the lack of knowledge limits magnetic fusion energy systems in order to ensure the achievement of the purposes of this chapter.
-(b) 
-  (1) The Secretary shall maintain an aggressive plasma confinement research program on the current lead concept to provide a full measure of support for the design, construction, and operation of the fusion engineering devices.
-  (2) The Secretary shall maintain a broadly based research program on alternate confinement concepts and on advanced fuels at a sufficient level of funding to achieve optimal design of each successive magnetic fusion facility using the then best available confinement and fuel concept.
-  (3) The Secretary shall ensure that research on properties of materials likely to be required for the construction of fusion engineering devices is adequate to provide timely information for the design of such devices.
-(c) 
-  (1) The Secretary shall initiate design activities on a fusion engineering device using the best available confinement concept to ensure operation of such a device at the earliest practicable time, but not later than the year 1990.
-  (2) The Secretary shall develop and test the adequacy of the engineering design of components to be utilized in the fusion engineering device.
-(d) The Secretary shall initiate at the earliest practical time each activity which he deems necessary to achieve the national goal for operation of a demonstration plant at the turn of the twenty-first century.
-(e) The Secretary shall continue efforts to assess factors which will determine the commercial introduction of magnetic fusion energy systems including, but not limited to—
-  (1) projected costs relative to other alternative energy sources;
-  (2) projected growth rates in energy demand;
-  (3) safety-related design limitations;
-  (4) environmental impacts; and
-  (5) limitations on the availability of strategic elements, such as helium, lithium, and special metals.
+- **(a)** The Secretary shall initiate activities or accelerate existing activities in research areas in which the lack of knowledge limits magnetic fusion energy systems in order to ensure the achievement of the purposes of this chapter.
+- **(b)**
+  - **(1)** The Secretary shall maintain an aggressive plasma confinement research program on the current lead concept to provide a full measure of support for the design, construction, and operation of the fusion engineering devices.
+  - **(2)** The Secretary shall maintain a broadly based research program on alternate confinement concepts and on advanced fuels at a sufficient level of funding to achieve optimal design of each successive magnetic fusion facility using the then best available confinement and fuel concept.
+  - **(3)** The Secretary shall ensure that research on properties of materials likely to be required for the construction of fusion engineering devices is adequate to provide timely information for the design of such devices.
+- **(c)**
+  - **(1)** The Secretary shall initiate design activities on a fusion engineering device using the best available confinement concept to ensure operation of such a device at the earliest practicable time, but not later than the year 1990.
+  - **(2)** The Secretary shall develop and test the adequacy of the engineering design of components to be utilized in the fusion engineering device.
+- **(d)** The Secretary shall initiate at the earliest practical time each activity which he deems necessary to achieve the national goal for operation of a demonstration plant at the turn of the twenty-first century.
+- **(e)** The Secretary shall continue efforts to assess factors which will determine the commercial introduction of magnetic fusion energy systems including, but not limited to—
+  - **(1)** projected costs relative to other alternative energy sources;
+  - **(2)** projected growth rates in energy demand;
+  - **(3)** safety-related design limitations;
+  - **(4)** environmental impacts; and
+  - **(5)** limitations on the availability of strategic elements, such as helium, lithium, and special metals.

@@ -5,12 +5,12 @@ usc_section: "42501"
 chapter: 425
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 42501"
-generated_at: "2026-03-29T00:33:02.914Z"
+generated_at: "2026-03-29T02:15:53.755Z"
 ---
 
 # § 42501. Definitions
 
 In this chapter:
 
-  (1) The term “Commission” means the Federal Maritime Commission.
-  (2) The term “Committee” means the National Shipper Advisory Committee established under section 42502.
+  - **(1)** The term “Commission” means the Federal Maritime Commission.
+  - **(2)** The term “Committee” means the National Shipper Advisory Committee established under section 42502.

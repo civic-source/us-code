@@ -1,0 +1,14 @@
+---
+title: "Section 190106 - Exclusive right to name, seals, emblems, and badges"
+usc_title: 36
+usc_section: "190106"
+chapter: 1901
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 190106"
+generated_at: "2026-03-29T02:14:41.375Z"
+---
+
+# § 190106. Exclusive right to name, seals, emblems, and badges
+
+The corporation and its subordinate departmental subdivisions and local chapters have the exclusive right to use the name “Reserve Officers Association of the United States” and seals, emblems, and badges the corporation adopts.
+

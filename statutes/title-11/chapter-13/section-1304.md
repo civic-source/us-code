@@ -5,11 +5,11 @@ usc_section: "1304"
 chapter: 13
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 1304"
-generated_at: "2026-03-29T00:28:59.975Z"
+generated_at: "2026-03-29T02:10:54.352Z"
 ---
 
 # § 1304. Debtor engaged in business
 
-(a) A debtor that is self-employed and incurs trade credit in the production of income from such employment is engaged in business.
-(b) Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 of this title and to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
-(c) A debtor engaged in business shall perform the duties of the trustee specified in section 704(a)(8) of this title .
+- **(a)** A debtor that is self-employed and incurs trade credit in the production of income from such employment is engaged in business.
+- **(b)** Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 of this title and to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
+- **(c)** A debtor engaged in business shall perform the duties of the trustee specified in section 704(a)(8) of this title .

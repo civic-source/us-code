@@ -5,7 +5,7 @@ usc_section: "302"
 chapter: 10
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 302"
-generated_at: "2026-03-29T00:06:10.905Z"
+generated_at: "2026-03-29T02:09:53.670Z"
 ---
 
 # § 302. Regulations

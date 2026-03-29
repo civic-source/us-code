@@ -5,7 +5,7 @@ usc_section: "122"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 122"
-generated_at: "2026-03-29T00:29:16.473Z"
+generated_at: "2026-03-29T02:11:20.839Z"
 ---
 
 # § 122. Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 Stat. 1068

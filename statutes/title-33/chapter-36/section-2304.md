@@ -5,7 +5,7 @@ usc_section: "2304"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2304"
-generated_at: "2026-03-29T00:31:57.416Z"
+generated_at: "2026-03-29T02:14:18.618Z"
 ---
 
 # § 2304. Separability

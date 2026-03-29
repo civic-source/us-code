@@ -5,33 +5,33 @@ usc_section: "1502"
 chapter: 14
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 1502"
-generated_at: "2026-03-29T00:33:04.964Z"
+generated_at: "2026-03-29T02:15:59.283Z"
 ---
 
 # § 1502. Identifying 255 megahertz
 
-(a) 
-  (1) Not later than December 31, 2022 , the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
-  (2) Of the spectrum identified under paragraph (1), not less than—
-    (A) 100 megahertz below the frequency of 8000 megahertz shall be identified for use on an unlicensed basis;
-    (B) 100 megahertz below the frequency of 6000 megahertz shall be identified for use on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission’s authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time stipulated in transition plans approved by the Technical Panel under section 923(h) of this title for those incumbent entities to be relocated to alternate spectrum; and
-    (C) 55 megahertz below the frequency of 8000 megahertz shall be identified for use on either a licensed or unlicensed basis, or a combination of licensed and unlicensed.
-  (3) For purposes of satisfying the requirement under paragraph (1), the following spectrum shall not be counted:
-    (A) The frequencies between 1695 and 1710 megahertz.
-    (B) The frequencies between 1755 and 1780 megahertz.
-    (C) The frequencies between 2155 and 2180 megahertz.
-    (D) The frequencies between 3550 and 3700 megahertz.
-    (E) Spectrum that the Commission determines had more than de minimis mobile or fixed wireless broadband operations within the band on the day before March 23, 2018 .
-  (4) Spectrum identified pursuant to this section may include eligible spectrum, if any, identified after March 23, 2018 , pursuant to title X of the Bipartisan Budget Act of 2015 ( Public Law 114–74 ).
-  (5) Any spectrum that has been made available for licensed or unlicensed use on and after February 11, 2016 , and that otherwise satisfies the requirements of this section may be counted towards the requirements of this subsection.
-  (6) This section shall be carried out in accordance with section 923(j) of this title .
-  (7) In identifying spectrum for use under this section, the Secretary, working through the NTIA, and Commission shall consider—
-    (A) the need to preserve critical existing and planned Federal Government capabilities;
-    (B) the impact on existing State, local, and tribal government capabilities;
-    (C) the international implications;
-    (D) the need for appropriate enforcement mechanisms and authorities; and
-    (E) the importance of the deployment of wireless broadband services in rural areas of the United States.
-(b) Nothing in this section shall be construed—
-  (1) to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals;
-  (2) to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security; or
-  (3) to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act ( 47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, or any other relevant statutory requirement applicable to the reallocation of Federal spectrum.
+- **(a)**
+  - **(1)** Not later than December 31, 2022 , the Secretary, working through the NTIA, and the Commission shall identify a total of at least 255 megahertz of Federal and non-Federal spectrum for mobile and fixed wireless broadband use.
+  - **(2)** Of the spectrum identified under paragraph (1), not less than—
+    - **(A)** 100 megahertz below the frequency of 8000 megahertz shall be identified for use on an unlicensed basis;
+    - **(B)** 100 megahertz below the frequency of 6000 megahertz shall be identified for use on an exclusive, licensed basis for commercial mobile use, pursuant to the Commission’s authority to implement such licensing in a flexible manner, and subject to potential continued use of such spectrum by incumbent Federal entities in designated geographic areas indefinitely or for such length of time stipulated in transition plans approved by the Technical Panel under section 923(h) of this title for those incumbent entities to be relocated to alternate spectrum; and
+    - **(C)** 55 megahertz below the frequency of 8000 megahertz shall be identified for use on either a licensed or unlicensed basis, or a combination of licensed and unlicensed.
+  - **(3)** For purposes of satisfying the requirement under paragraph (1), the following spectrum shall not be counted:
+    - **(A)** The frequencies between 1695 and 1710 megahertz.
+    - **(B)** The frequencies between 1755 and 1780 megahertz.
+    - **(C)** The frequencies between 2155 and 2180 megahertz.
+    - **(D)** The frequencies between 3550 and 3700 megahertz.
+    - **(E)** Spectrum that the Commission determines had more than de minimis mobile or fixed wireless broadband operations within the band on the day before March 23, 2018 .
+  - **(4)** Spectrum identified pursuant to this section may include eligible spectrum, if any, identified after March 23, 2018 , pursuant to title X of the Bipartisan Budget Act of 2015 ( Public Law 114–74 ).
+  - **(5)** Any spectrum that has been made available for licensed or unlicensed use on and after February 11, 2016 , and that otherwise satisfies the requirements of this section may be counted towards the requirements of this subsection.
+  - **(6)** This section shall be carried out in accordance with section 923(j) of this title .
+  - **(7)** In identifying spectrum for use under this section, the Secretary, working through the NTIA, and Commission shall consider—
+    - **(A)** the need to preserve critical existing and planned Federal Government capabilities;
+    - **(B)** the impact on existing State, local, and tribal government capabilities;
+    - **(C)** the international implications;
+    - **(D)** the need for appropriate enforcement mechanisms and authorities; and
+    - **(E)** the importance of the deployment of wireless broadband services in rural areas of the United States.
+- **(b)** Nothing in this section shall be construed—
+  - **(1)** to impair or otherwise affect the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals;
+  - **(2)** to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interest of national security; or
+  - **(3)** to affect any requirement under section 156 of the National Telecommunications and Information Administration Organization Act ( 47 U.S.C. 921 note), as added by section 1062(a) of the National Defense Authorization Act for Fiscal Year 2000, or any other relevant statutory requirement applicable to the reallocation of Federal spectrum.

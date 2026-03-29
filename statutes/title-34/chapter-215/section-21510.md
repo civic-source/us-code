@@ -5,7 +5,7 @@ usc_section: "21510"
 chapter: 215
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 21510"
-generated_at: "2026-03-29T00:32:01.670Z"
+generated_at: "2026-03-29T02:14:25.365Z"
 ---
 
 # § 21510. Rule of construction

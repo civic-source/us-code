@@ -5,7 +5,7 @@ usc_section: "1490g"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1490g"
-generated_at: "2026-03-29T00:32:53.652Z"
+generated_at: "2026-03-29T02:15:36.468Z"
 ---
 
 # § 1490g. Repealed. Pub. L. 98–181, title I [title V, § 503(c)], Nov. 30, 1983 , 97 Stat. 1241

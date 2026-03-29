@@ -5,7 +5,7 @@ usc_section: "5303"
 chapter: 69
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5303"
-generated_at: "2026-03-29T00:32:53.917Z"
+generated_at: "2026-03-29T02:15:36.760Z"
 ---
 
 # § 5303. Grants to States, units of general local government and Indian tribes; authorizations

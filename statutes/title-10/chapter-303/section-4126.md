@@ -5,16 +5,16 @@ usc_section: "4126"
 chapter: 303
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4126"
-generated_at: "2026-03-29T00:20:53.140Z"
+generated_at: "2026-03-29T02:10:45.210Z"
 ---
 
 # § 4126. Use of federally funded research and development centers
 
-(a) Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless such work is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
-(b) This section does not apply to a federally funded research and development center that performs applied scientific research under laboratory conditions.
-(c) 
-  (1) The head of an agency may not obligate or expend amounts appropriated to the Department of Defense for purposes of operating a federally funded research center that was not in existence before June 2, 1986 , until—
-    (A) the head of the agency submits to Congress a report with respect to such center that describes the purpose, mission, and general scope of effort of the center; and
-    (B) a period of 60 days beginning on the date such report is received by Congress has elapsed.
-  (2) In this subsection, the term “head of an agency” has the meaning given such term in section 3004 of this title .
-(d) After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
+- **(a)** Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless such work is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
+- **(b)** This section does not apply to a federally funded research and development center that performs applied scientific research under laboratory conditions.
+- **(c)**
+  - **(1)** The head of an agency may not obligate or expend amounts appropriated to the Department of Defense for purposes of operating a federally funded research center that was not in existence before June 2, 1986 , until—
+    - **(A)** the head of the agency submits to Congress a report with respect to such center that describes the purpose, mission, and general scope of effort of the center; and
+    - **(B)** a period of 60 days beginning on the date such report is received by Congress has elapsed.
+  - **(2)** In this subsection, the term “head of an agency” has the meaning given such term in section 3004 of this title .
+- **(d)** After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.

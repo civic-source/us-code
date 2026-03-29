@@ -5,7 +5,7 @@ usc_section: "2108"
 chapter: 23
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2108"
-generated_at: "2026-03-29T00:31:27.695Z"
+generated_at: "2026-03-29T02:14:09.490Z"
 ---
 
 # § 2108. Effect on other laws

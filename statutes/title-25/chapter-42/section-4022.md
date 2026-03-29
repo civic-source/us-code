@@ -5,15 +5,15 @@ usc_section: "4022"
 chapter: 42
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 4022"
-generated_at: "2026-03-29T00:30:38.770Z"
+generated_at: "2026-03-29T02:13:20.983Z"
 ---
 
 # § 4022. Voluntary withdrawal from trust funds program
 
-(a) An Indian tribe may, in accordance with this section, submit a plan to withdraw some or all funds held in trust for such tribe by the United States and managed by the Secretary through the Bureau.
-(b) The Secretary shall approve such plan within 90 days of receipt and when approving the plan, the Secretary shall obtain the advice of the Special Trustee or prior to the appointment of such Special Trustee, the Director of the Office of Trust Fund Management within the Bureau. Such plan shall meet the following conditions:
-  (1) Such plan has been approved by the appropriate Indian tribe and is accompanied by a resolution from the tribal governing body approving the plan.
-  (2) The Secretary determines such plan to be reasonable after considering all appropriate factors, including (but not limited to) the following:
-    (A) The capability and experience of the individuals or institutions that will be managing the trust funds.
-    (B) The protection against substantial loss of principal.
-(c) Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in section 4027 of this title .
+- **(a)** An Indian tribe may, in accordance with this section, submit a plan to withdraw some or all funds held in trust for such tribe by the United States and managed by the Secretary through the Bureau.
+- **(b)** The Secretary shall approve such plan within 90 days of receipt and when approving the plan, the Secretary shall obtain the advice of the Special Trustee or prior to the appointment of such Special Trustee, the Director of the Office of Trust Fund Management within the Bureau. Such plan shall meet the following conditions:
+  - **(1)** Such plan has been approved by the appropriate Indian tribe and is accompanied by a resolution from the tribal governing body approving the plan.
+  - **(2)** The Secretary determines such plan to be reasonable after considering all appropriate factors, including (but not limited to) the following:
+    - **(A)** The capability and experience of the individuals or institutions that will be managing the trust funds.
+    - **(B)** The protection against substantial loss of principal.
+- **(c)** Beginning on the date funds are withdrawn pursuant to this section, any trust responsibility or liability of the United States with respect to such funds shall cease except as provided for in section 4027 of this title .

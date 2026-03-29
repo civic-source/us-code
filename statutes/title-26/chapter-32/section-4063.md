@@ -5,7 +5,7 @@ usc_section: "4063"
 chapter: 32
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4063"
-generated_at: "2026-03-29T00:31:20.943Z"
+generated_at: "2026-03-29T02:14:01.205Z"
 ---
 
 # [§§ 4061 to 4063. Repealed. Pub. L. 98–369, div. A, title VII, § 735(a)(1) , July 18, 1984 , 98 Stat. 980 ]

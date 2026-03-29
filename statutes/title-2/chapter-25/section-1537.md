@@ -5,12 +5,12 @@ usc_section: "1537"
 chapter: 25
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1537"
-generated_at: "2026-03-29T00:06:10.956Z"
+generated_at: "2026-03-29T02:09:53.729Z"
 ---
 
 # § 1537. Pilot program on small government flexibility
 
-(a) The Director of the Office of Management and Budget, in consultation with Federal agencies, shall establish pilot programs in at least 2 agencies to test innovative, and more flexible regulatory approaches that—
-  (1) reduce reporting and compliance burdens on small governments; and
-  (2) meet overall statutory goals and objectives.
-(b) The pilot programs shall focus on rules in effect or proposed rules, or a combination thereof.
+- **(a)** The Director of the Office of Management and Budget, in consultation with Federal agencies, shall establish pilot programs in at least 2 agencies to test innovative, and more flexible regulatory approaches that—
+  - **(1)** reduce reporting and compliance burdens on small governments; and
+  - **(2)** meet overall statutory goals and objectives.
+- **(b)** The pilot programs shall focus on rules in effect or proposed rules, or a combination thereof.

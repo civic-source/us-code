@@ -5,11 +5,11 @@ usc_section: "460ww"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 460ww"
-generated_at: "2026-03-29T00:29:52.495Z"
+generated_at: "2026-03-29T02:11:53.523Z"
 ---
 
 # § 460ww. Establishment
 
-(a) In order to protect and preserve the scenic, recreational, geological, and fish and wildlife resources of the Gauley River and its tributary, the Meadow River, there is hereby established the Gauley River National Recreation Area (hereinafter in this Act referrred 1 1 So in original. Should be “referred”. to as the “recreation area”).
-(b) The recreation area shall consist of the land, waters, and interests therein generally depicted on the boundary map entitled “Gauley River National Recreation Area”, numbered NRA–GR/20,000A and dated July 1987 and on the boundary map depicting the Meadow River, numbered WSR–MEA/20,000A and dated July 1988. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
-(c) Within five years after October 26, 1988 , the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall submit to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a report containing any boundary modifications which the Secretary recommends, together with the reasons therefor.
+- **(a)** In order to protect and preserve the scenic, recreational, geological, and fish and wildlife resources of the Gauley River and its tributary, the Meadow River, there is hereby established the Gauley River National Recreation Area (hereinafter in this Act referrred 1 1 So in original. Should be “referred”. to as the “recreation area”).
+- **(b)** The recreation area shall consist of the land, waters, and interests therein generally depicted on the boundary map entitled “Gauley River National Recreation Area”, numbered NRA–GR/20,000A and dated July 1987 and on the boundary map depicting the Meadow River, numbered WSR–MEA/20,000A and dated July 1988. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+- **(c)** Within five years after October 26, 1988 , the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) shall submit to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a report containing any boundary modifications which the Secretary recommends, together with the reasons therefor.

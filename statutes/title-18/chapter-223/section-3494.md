@@ -5,7 +5,7 @@ usc_section: "3494"
 chapter: 223
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3494"
-generated_at: "2026-03-29T00:30:15.734Z"
+generated_at: "2026-03-29T02:12:02.485Z"
 ---
 
 # § 3494. Certification of genuineness of foreign document

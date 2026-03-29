@@ -5,15 +5,15 @@ usc_section: "6675"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6675"
-generated_at: "2026-03-29T00:31:21.073Z"
+generated_at: "2026-03-29T02:14:01.363Z"
 ---
 
 # § 6675. Excessive claims with respect to the use of certain fuels
 
-(a) In addition to any criminal penalty provided by law, if a claim is made under section 6416(a)(4) (relating to certain sales of gasoline), section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), 6427 (relating to fuels not used for taxable purposes), or 6435 (relating to eligible indelibly dyed fuel) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
-  (1) Two times the excessive amount; or
-  (2) $10.
-(b) For purposes of this section, the term “excessive amount” means in the case of any person the amount by which—
-  (1) the amount claimed under section 6416(a)(4), 6420, 6421, 6427, or 6435, as the case may be, for any period, exceeds
-  (2) the amount allowable under such section for such period.
-(c) For assessment and collection of penalty provided by subsection (a), see section 6206.
+- **(a)** In addition to any criminal penalty provided by law, if a claim is made under section 6416(a)(4) (relating to certain sales of gasoline), section 6420 (relating to gasoline used on farms), 6421 (relating to gasoline used for certain nonhighway purposes or by local transit systems), 6427 (relating to fuels not used for taxable purposes), or 6435 (relating to eligible indelibly dyed fuel) for an excessive amount, unless it is shown that the claim for such excessive amount is due to reasonable cause, the person making such claim shall be liable to a penalty in an amount equal to whichever of the following is the greater:
+  - **(1)** Two times the excessive amount; or
+  - **(2)** $10.
+- **(b)** For purposes of this section, the term “excessive amount” means in the case of any person the amount by which—
+  - **(1)** the amount claimed under section 6416(a)(4), 6420, 6421, 6427, or 6435, as the case may be, for any period, exceeds
+  - **(2)** the amount allowable under such section for such period.
+- **(c)** For assessment and collection of penalty provided by subsection (a), see section 6206.

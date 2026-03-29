@@ -5,7 +5,7 @@ usc_section: "2263"
 chapter: 110
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2263"
-generated_at: "2026-03-29T00:30:15.700Z"
+generated_at: "2026-03-29T02:12:02.444Z"
 ---
 
 # § 2263. Pretrial release of defendant

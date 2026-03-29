@@ -5,7 +5,7 @@ usc_section: "3346"
 chapter: 34
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 3346"
-generated_at: "2026-03-29T00:29:16.786Z"
+generated_at: "2026-03-29T02:11:21.165Z"
 ---
 
 # § 3346. Establishment of State appraiser certifying and licensing agencies

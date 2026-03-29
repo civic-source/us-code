@@ -5,18 +5,18 @@ usc_section: "3733"
 chapter: 48
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3733"
-generated_at: "2026-03-29T00:33:18.223Z"
+generated_at: "2026-03-29T02:16:14.815Z"
 ---
 
 # § 3733. Limitation on use of funds until certain permits obtained
 
-(a) The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under the Program in a state of the former Soviet Union before obligating more than 40 percent of the total costs of that phase of the project.
-(b) Except as provided in subsection (c), with respect to a new construction project to be carried out by the Program, not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary—
-  (1) determines the number and type of permits that may be required for the lifetime of the project in the proposed location or locations of the project; and
-  (2) obtains from the state in which the project is to be located any permits that may be required to begin construction.
-(c) The limitation in subsection (b) on the obligation of funds for a construction project otherwise covered by such subsection shall not apply with respect to the obligation of funds for a particular project if the Secretary—
-  (1) determines that it is necessary in the national interest to obligate funds for such project; and
-  (2) submits to the congressional defense committees a notification of the intent to obligate funds for such project, together with a complete discussion of the justification for doing so.
-(d) In this section, with respect to a project under the Program:
-  (1) The term “new construction project” means a construction project for which no funds have been obligated or expended as of November 24, 2003 .
-  (2) The term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required for purposes of major construction.
+- **(a)** The Secretary of Defense shall seek to obtain all the permits required to complete each phase of construction of a project under the Program in a state of the former Soviet Union before obligating more than 40 percent of the total costs of that phase of the project.
+- **(b)** Except as provided in subsection (c), with respect to a new construction project to be carried out by the Program, not more than 40 percent of the total costs of the project may be obligated from Cooperative Threat Reduction funds for any fiscal year until the Secretary—
+  - **(1)** determines the number and type of permits that may be required for the lifetime of the project in the proposed location or locations of the project; and
+  - **(2)** obtains from the state in which the project is to be located any permits that may be required to begin construction.
+- **(c)** The limitation in subsection (b) on the obligation of funds for a construction project otherwise covered by such subsection shall not apply with respect to the obligation of funds for a particular project if the Secretary—
+  - **(1)** determines that it is necessary in the national interest to obligate funds for such project; and
+  - **(2)** submits to the congressional defense committees a notification of the intent to obligate funds for such project, together with a complete discussion of the justification for doing so.
+- **(d)** In this section, with respect to a project under the Program:
+  - **(1)** The term “new construction project” means a construction project for which no funds have been obligated or expended as of November 24, 2003 .
+  - **(2)** The term “permit” means any local or national permit for development, general construction, environmental, land use, or other purposes that is required for purposes of major construction.

@@ -5,13 +5,13 @@ usc_section: "8336"
 chapter: 841
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8336"
-generated_at: "2026-03-29T00:20:53.222Z"
+generated_at: "2026-03-29T02:10:45.304Z"
 ---
 
 # § 8336. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct
 
-(a) A member of the Navy Reserve or Marine Corps Reserve described in subsection (b) who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under section 8330 of this title shall be transferred in the highest enlisted grade in which the member served on active duty satisfactorily, as determined by the Secretary of the Navy.
-(b) This section applies to a Reserve enlisted member who—
-  (1) at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve is serving on active duty in a grade lower than the highest enlisted grade held by the member while on active duty; and
-  (2) was previously administratively reduced in grade not as a result of the member’s own misconduct, as determined by the Secretary of the Navy.
-(c) This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the Fleet Reserve or the Fleet Marine Corps Reserve after September 30, 1996 .
+- **(a)** A member of the Navy Reserve or Marine Corps Reserve described in subsection (b) who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under section 8330 of this title shall be transferred in the highest enlisted grade in which the member served on active duty satisfactorily, as determined by the Secretary of the Navy.
+- **(b)** This section applies to a Reserve enlisted member who—
+  - **(1)** at the time of transfer to the Fleet Reserve or Fleet Marine Corps Reserve is serving on active duty in a grade lower than the highest enlisted grade held by the member while on active duty; and
+  - **(2)** was previously administratively reduced in grade not as a result of the member’s own misconduct, as determined by the Secretary of the Navy.
+- **(c)** This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the Fleet Reserve or the Fleet Marine Corps Reserve after September 30, 1996 .

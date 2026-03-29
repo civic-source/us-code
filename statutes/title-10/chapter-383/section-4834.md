@@ -5,10 +5,10 @@ usc_section: "4834"
 chapter: 383
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4834"
-generated_at: "2026-03-29T00:20:53.159Z"
+generated_at: "2026-03-29T02:10:45.233Z"
 ---
 
 # § 4834. Overseas foreign critical technology monitoring and assessment financial assistance program
 
-(a) The Secretary of Defense may establish a foreign critical technology monitoring and assessment program. Under the program, the Secretary may enter into cooperative arrangements with one or more eligible not-for-profit organizations in order to provide financial assistance for the establishment of foreign critical technology monitoring and assessment offices in Europe, Pacific Rim countries, and such other countries as the Secretary considers appropriate.
-(b) Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).
+- **(a)** The Secretary of Defense may establish a foreign critical technology monitoring and assessment program. Under the program, the Secretary may enter into cooperative arrangements with one or more eligible not-for-profit organizations in order to provide financial assistance for the establishment of foreign critical technology monitoring and assessment offices in Europe, Pacific Rim countries, and such other countries as the Secretary considers appropriate.
+- **(b)** Any not-for-profit industrial or professional organization that has economic and scientific interests in research, development, and applications of dual-use critical technologies is eligible to enter into a cooperative arrangement referred to in subsection (a).

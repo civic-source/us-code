@@ -5,10 +5,10 @@ usc_section: "713"
 chapter: 47
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 713"
-generated_at: "2026-03-29T00:31:24.167Z"
+generated_at: "2026-03-29T02:14:04.540Z"
 ---
 
 # § 713. Librarians
 
-(a) Each court of appeals may appoint a librarian who shall be subject to removal by the court.
-(b) The librarian, with the approval of the court, may appoint necessary library assistants in such numbers as the Director of the Administrative Office of the United States Courts may approve. The librarian may remove such library assistants with the approval of the court.
+- **(a)** Each court of appeals may appoint a librarian who shall be subject to removal by the court.
+- **(b)** The librarian, with the approval of the court, may appoint necessary library assistants in such numbers as the Director of the Administrative Office of the United States Courts may approve. The librarian may remove such library assistants with the approval of the court.

@@ -5,7 +5,7 @@ usc_section: "1392"
 chapter: 87
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 1392"
-generated_at: "2026-03-29T00:31:24.176Z"
+generated_at: "2026-03-29T02:14:04.550Z"
 ---
 
 # [§ 1392. Repealed. Pub. L. 112–63, § 203 , Dec. 7, 2011 , 125 Stat. 764 ]

@@ -5,21 +5,21 @@ usc_section: "31134"
 chapter: 311
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 31134"
-generated_at: "2026-03-29T00:33:13.839Z"
+generated_at: "2026-03-29T02:16:08.971Z"
 ---
 
 # § 31134. Requirement for registration and USDOT number
 
-(a) Upon application, and subject to subsections (b) and (c), the Secretary shall register an employer or person subject to the safety jurisdiction of this subchapter. An employer or person may operate a commercial motor vehicle in interstate commerce only if the employer or person is registered by the Secretary under this section and receives a USDOT number. Nothing in this section shall preclude registration by the Secretary of an employer or person not engaged in interstate commerce. An employer or person subject to jurisdiction under subchapter I of chapter 135 of this title shall apply for commercial registration under section 13902 of this title .
-(b) The Secretary shall register an employer or person under subsection (a) only if the Secretary determines that—
-  (1) the employer or person seeking registration is willing and able to comply with the requirements of this subchapter and the regulations prescribed thereunder and chapter 51 and the regulations prescribed thereunder;
-  (2) 
-    (A) 1 1 So in original. There is no subpar. (B). during the 3-year period before the date of the filing of the application, the employer or person is not or was not related through common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter who, during such 3-year period, is or was unfit, unwilling, or unable to comply with the requirements listed in subsection (b)(1); or
-  (3) the employer or person has disclosed to the Secretary any relationship involving common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter.
-(c) The Secretary shall revoke the registration of an employer or person issued under subsection (a) after notice and an opportunity for a proceeding, or suspend the registration after giving notice of the suspension to the employer or person, if the Secretary determines that—
-  (1) the employer’s or person’s authority to operate pursuant to chapter 139 of this title is subject to revocation or suspension under sections 2 2 So in original. Probably should be “section”. 13905(d)(1) or 13905(f) of this title;
-  (2) the employer or person has knowingly failed to comply with the requirements listed in subsection (b)(1);
-  (3) the employer or person has not disclosed any relationship through common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter that the Secretary determines is or was unfit, unwilling, or unable to comply with the requirements listed in subsection (b)(1);
-  (4) the employer or person refused to submit to the safety review required by section 31144(g) of this title .
-(d) The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
-(e) Nothing in this section shall be construed as affecting the authority of a State to issue a Department of Transportation number under State law to a person operating in intrastate commerce.
+- **(a)** Upon application, and subject to subsections (b) and (c), the Secretary shall register an employer or person subject to the safety jurisdiction of this subchapter. An employer or person may operate a commercial motor vehicle in interstate commerce only if the employer or person is registered by the Secretary under this section and receives a USDOT number. Nothing in this section shall preclude registration by the Secretary of an employer or person not engaged in interstate commerce. An employer or person subject to jurisdiction under subchapter I of chapter 135 of this title shall apply for commercial registration under section 13902 of this title .
+- **(b)** The Secretary shall register an employer or person under subsection (a) only if the Secretary determines that—
+  - **(1)** the employer or person seeking registration is willing and able to comply with the requirements of this subchapter and the regulations prescribed thereunder and chapter 51 and the regulations prescribed thereunder;
+  - **(2)**
+    - **(A)** 1 1 So in original. There is no subpar. (B). during the 3-year period before the date of the filing of the application, the employer or person is not or was not related through common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter who, during such 3-year period, is or was unfit, unwilling, or unable to comply with the requirements listed in subsection (b)(1); or
+  - **(3)** the employer or person has disclosed to the Secretary any relationship involving common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter.
+- **(c)** The Secretary shall revoke the registration of an employer or person issued under subsection (a) after notice and an opportunity for a proceeding, or suspend the registration after giving notice of the suspension to the employer or person, if the Secretary determines that—
+  - **(1)** the employer’s or person’s authority to operate pursuant to chapter 139 of this title is subject to revocation or suspension under sections 2 2 So in original. Probably should be “section”. 13905(d)(1) or 13905(f) of this title;
+  - **(2)** the employer or person has knowingly failed to comply with the requirements listed in subsection (b)(1);
+  - **(3)** the employer or person has not disclosed any relationship through common ownership, common management, common control, or common familial relationship to any other person or applicant for registration subject to this subchapter that the Secretary determines is or was unfit, unwilling, or unable to comply with the requirements listed in subsection (b)(1);
+  - **(4)** the employer or person refused to submit to the safety review required by section 31144(g) of this title .
+- **(d)** The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer’s address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
+- **(e)** Nothing in this section shall be construed as affecting the authority of a State to issue a Department of Transportation number under State law to a person operating in intrastate commerce.

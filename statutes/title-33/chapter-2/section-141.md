@@ -5,7 +5,7 @@ usc_section: "141"
 chapter: 2
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 141"
-generated_at: "2026-03-29T00:31:57.078Z"
+generated_at: "2026-03-29T02:14:18.475Z"
 ---
 
 # § 141. Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407

@@ -5,28 +5,28 @@ usc_section: "1091"
 chapter: 50
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1091"
-generated_at: "2026-03-29T00:30:15.661Z"
+generated_at: "2026-03-29T02:12:02.406Z"
 ---
 
 # § 1091. Genocide
 
-(a) Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
-  (1) kills members of that group;
-  (2) causes serious bodily injury to members of that group;
-  (3) causes the permanent impairment of the mental faculties of members of the group through drugs, torture, or similar techniques;
-  (4) subjects the group to conditions of life that are intended to cause the physical destruction of the group in whole or in part;
-  (5) imposes measures intended to prevent births within the group; or
-  (6) transfers by force children of the group to another group;
-(b) The punishment for an offense under subsection (a) is—
-  (1) in the case of an offense under subsection (a)(1), where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both; and
-  (2) a fine of not more than $1,000,000 or imprisonment for not more than twenty years, or both, in any other case.
-(c) Whoever directly and publicly incites another to violate subsection (a) shall be fined not more than $500,000 or imprisoned not more than five years, or both.
-(d) Any person who attempts or conspires to commit an offense under this section shall be punished in the same manner as a person who completes the offense.
-(e) There is jurisdiction over the offenses described in subsections (a), (c), and (d) if—
-  (1) the offense is committed in whole or in part within the United States; or
-  (2) regardless of where the offense is committed, the alleged offender is—
-    (A) a national of the United States (as that term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 ));
-    (B) an alien lawfully admitted for permanent residence in the United States (as that term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 ));
-    (C) a stateless person whose habitual residence is in the United States; or
-    (D) present in the United States.
-(f) Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.
+- **(a)** Whoever, whether in time of peace or in time of war and with the specific intent to destroy, in whole or in substantial part, a national, ethnic, racial, or religious group as such—
+  - **(1)** kills members of that group;
+  - **(2)** causes serious bodily injury to members of that group;
+  - **(3)** causes the permanent impairment of the mental faculties of members of the group through drugs, torture, or similar techniques;
+  - **(4)** subjects the group to conditions of life that are intended to cause the physical destruction of the group in whole or in part;
+  - **(5)** imposes measures intended to prevent births within the group; or
+  - **(6)** transfers by force children of the group to another group;
+- **(b)** The punishment for an offense under subsection (a) is—
+  - **(1)** in the case of an offense under subsection (a)(1), where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both; and
+  - **(2)** a fine of not more than $1,000,000 or imprisonment for not more than twenty years, or both, in any other case.
+- **(c)** Whoever directly and publicly incites another to violate subsection (a) shall be fined not more than $500,000 or imprisoned not more than five years, or both.
+- **(d)** Any person who attempts or conspires to commit an offense under this section shall be punished in the same manner as a person who completes the offense.
+- **(e)** There is jurisdiction over the offenses described in subsections (a), (c), and (d) if—
+  - **(1)** the offense is committed in whole or in part within the United States; or
+  - **(2)** regardless of where the offense is committed, the alleged offender is—
+    - **(A)** a national of the United States (as that term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 ));
+    - **(B)** an alien lawfully admitted for permanent residence in the United States (as that term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 ));
+    - **(C)** a stateless person whose habitual residence is in the United States; or
+    - **(D)** present in the United States.
+- **(f)** Notwithstanding section 3282, in the case of an offense under this section, an indictment may be found, or information instituted, at any time without limitation.

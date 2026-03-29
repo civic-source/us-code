@@ -5,13 +5,13 @@ usc_section: "70305"
 chapter: 703
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 70305"
-generated_at: "2026-03-29T00:33:02.968Z"
+generated_at: "2026-03-29T02:15:53.799Z"
 ---
 
 # § 70305. Suspension of passenger services
 
-(a) Whenever the President determines that a foreign nation permits the use of territory under its jurisdiction as a base of operations or training for, or as a sanctuary for, or in any way arms, aids, or abets, a terrorist or terrorist group that knowingly uses the illegal seizure of passenger vessels or the threat thereof as an instrument of policy, the President may suspend the right of any passenger vessel common carrier to operate to or from, and the right of any passenger vessel of the United States to use, a port in that foreign nation for passenger service. The suspension may be without notice or hearing and for as long as the President determines is necessary to ensure the security of passenger vessels against unlawful seizure.
-(b) A passenger vessel common carrier, or a passenger vessel of the United States, may not operate in violation of a suspension under this section.
-(c) 
-  (1) If a person operates a vessel in violation of this section, the Secretary may deny the vessels of that person entry to ports of the United States.
-  (2) A person violating this section is liable to the United States Government for a civil penalty of not more than $50,000. Each day a vessel uses a prohibited port is a separate violation.
+- **(a)** Whenever the President determines that a foreign nation permits the use of territory under its jurisdiction as a base of operations or training for, or as a sanctuary for, or in any way arms, aids, or abets, a terrorist or terrorist group that knowingly uses the illegal seizure of passenger vessels or the threat thereof as an instrument of policy, the President may suspend the right of any passenger vessel common carrier to operate to or from, and the right of any passenger vessel of the United States to use, a port in that foreign nation for passenger service. The suspension may be without notice or hearing and for as long as the President determines is necessary to ensure the security of passenger vessels against unlawful seizure.
+- **(b)** A passenger vessel common carrier, or a passenger vessel of the United States, may not operate in violation of a suspension under this section.
+- **(c)**
+  - **(1)** If a person operates a vessel in violation of this section, the Secretary may deny the vessels of that person entry to ports of the United States.
+  - **(2)** A person violating this section is liable to the United States Government for a civil penalty of not more than $50,000. Each day a vessel uses a prohibited port is a separate violation.

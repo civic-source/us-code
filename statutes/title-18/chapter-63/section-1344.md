@@ -5,12 +5,12 @@ usc_section: "1344"
 chapter: 63
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 1344"
-generated_at: "2026-03-29T00:30:15.666Z"
+generated_at: "2026-03-29T02:12:02.411Z"
 ---
 
 # § 1344. Bank fraud
 
 Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
-  (1) to defraud a financial institution; or
-  (2) to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a financial institution, by means of false or fraudulent pretenses, representations, or promises;
+  - **(1)** to defraud a financial institution; or
+  - **(2)** to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a financial institution, by means of false or fraudulent pretenses, representations, or promises;

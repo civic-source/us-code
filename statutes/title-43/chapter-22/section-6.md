@@ -5,7 +5,7 @@ usc_section: "6"
 chapter: 22
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 6"
-generated_at: "2026-03-29T00:32:57.393Z"
+generated_at: "2026-03-29T02:15:47.580Z"
 ---
 
 # § 942–6. Rights of way for Alaskan wagon roads, wire rope, aerial, or other tramways; reservations; filing preliminary survey and map of location; alteration, amendment, repeal, or grant of equal rights; forfeiture of rights; reversion of grant; liens

@@ -5,17 +5,17 @@ usc_section: "5165g"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5165g"
-generated_at: "2026-03-29T00:32:53.904Z"
+generated_at: "2026-03-29T02:15:36.748Z"
 ---
 
 # § 5165g. National veterinary emergency teams
 
-(a) The Administrator of the Federal Emergency Management Agency may establish one or more national veterinary emergency teams at accredited colleges of veterinary medicine.
-(b) A national veterinary emergency team shall—
-  (1) deploy with a team of the National Urban Search and Rescue Response System to assist with—
-    (A) veterinary care of canine search teams;
-    (B) locating and treating companion animals, service animals, livestock, and other animals; and
-    (C) surveillance and treatment of zoonotic diseases;
-  (2) recruit, train, and certify veterinary professionals, including veterinary students, in accordance with an established set of plans and standard operating guidelines to carry out the duties associated with planning for and responding to major disasters and emergencies as described in paragraph (1);
-  (3) assist State governments, Indian tribal governments, local governments, and nonprofit organizations in developing emergency management and evacuation plans that account for the care and rescue of animals and in improving local readiness for providing veterinary medical response during an emergency or major disaster; and
-  (4) coordinate with the Department of Homeland Security, the Department of Health and Human Services, the Department of Agriculture, State, local, and Indian tribal governments (including departments of animal and human health), veterinary and health care professionals, and volunteers.
+- **(a)** The Administrator of the Federal Emergency Management Agency may establish one or more national veterinary emergency teams at accredited colleges of veterinary medicine.
+- **(b)** A national veterinary emergency team shall—
+  - **(1)** deploy with a team of the National Urban Search and Rescue Response System to assist with—
+    - **(A)** veterinary care of canine search teams;
+    - **(B)** locating and treating companion animals, service animals, livestock, and other animals; and
+    - **(C)** surveillance and treatment of zoonotic diseases;
+  - **(2)** recruit, train, and certify veterinary professionals, including veterinary students, in accordance with an established set of plans and standard operating guidelines to carry out the duties associated with planning for and responding to major disasters and emergencies as described in paragraph (1);
+  - **(3)** assist State governments, Indian tribal governments, local governments, and nonprofit organizations in developing emergency management and evacuation plans that account for the care and rescue of animals and in improving local readiness for providing veterinary medical response during an emergency or major disaster; and
+  - **(4)** coordinate with the Department of Homeland Security, the Department of Health and Human Services, the Department of Agriculture, State, local, and Indian tribal governments (including departments of animal and human health), veterinary and health care professionals, and volunteers.

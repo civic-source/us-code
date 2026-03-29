@@ -5,26 +5,26 @@ usc_section: "2264"
 chapter: 110
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2264"
-generated_at: "2026-03-29T00:30:15.700Z"
+generated_at: "2026-03-29T02:12:02.444Z"
 ---
 
 # § 2264. Restitution
 
-(a) Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
-(b) 
-  (1) The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court pursuant to paragraph (2).
-  (2) An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
-  (3) For purposes of this subsection, the term “full amount of the victim’s losses” includes any costs incurred by the victim for—
-    (A) medical services relating to physical, psychiatric, or psychological care;
-    (B) physical and occupational therapy or rehabilitation;
-    (C) necessary transportation, temporary housing, and child care expenses;
-    (D) lost income;
-    (E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order;
-    (F) veterinary services relating to physical care for the victim’s pet, service animal, emotional support animal, or horse; and
-    (G) any other losses suffered by the victim as a proximate result of the offense.
-  (4) 
-    (A) The issuance of a restitution order under this section is mandatory.
-    (B) A court may not decline to issue an order under this section because of—
-      (i) the economic circumstances of the defendant; or
-      (ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
-(c) For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+- **(a)** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+- **(b)**
+  - **(1)** The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court pursuant to paragraph (2).
+  - **(2)** An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+  - **(3)** For purposes of this subsection, the term “full amount of the victim’s losses” includes any costs incurred by the victim for—
+    - **(A)** medical services relating to physical, psychiatric, or psychological care;
+    - **(B)** physical and occupational therapy or rehabilitation;
+    - **(C)** necessary transportation, temporary housing, and child care expenses;
+    - **(D)** lost income;
+    - **(E)** attorneys’ fees, plus any costs incurred in obtaining a civil protection order;
+    - **(F)** veterinary services relating to physical care for the victim’s pet, service animal, emotional support animal, or horse; and
+    - **(G)** any other losses suffered by the victim as a proximate result of the offense.
+  - **(4)**
+    - **(A)** The issuance of a restitution order under this section is mandatory.
+    - **(B)** A court may not decline to issue an order under this section because of—
+      - **(i)** the economic circumstances of the defendant; or
+      - **(ii)** the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
+- **(c)** For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.

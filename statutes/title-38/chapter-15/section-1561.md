@@ -5,7 +5,7 @@ usc_section: "1561"
 chapter: 15
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1561"
-generated_at: "2026-03-29T00:32:17.180Z"
+generated_at: "2026-03-29T02:14:50.350Z"
 ---
 
 # [§§ 1560, 1561. Repealed. Pub. L. 113–66, div. A, title V, § 563(c)(1) , Dec. 26, 2013 , 127 Stat. 768 ]

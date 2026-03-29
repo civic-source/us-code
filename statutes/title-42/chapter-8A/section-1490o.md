@@ -5,12 +5,12 @@ usc_section: "1490o"
 chapter: 8
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1490o"
-generated_at: "2026-03-29T00:32:53.656Z"
+generated_at: "2026-03-29T02:15:36.469Z"
 ---
 
 # § 1490o. Reciprocity in approval of housing subdivisions among Federal agencies
 
-(a) The Secretary of Agriculture, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs shall each accept an administrative approval of any housing subdivision made by any of the others so that not later than January 1, 1984 , there is total reciprocity for housing subdivision approvals among the agencies which they head.
-(b) For purposes of complying with subsection (a), the Secretary of Housing and Urban Development shall consider the issuance by the Secretary of Veterans Affairs of a certificate of reasonable value for 1 or more properties in a subdivision to be an administrative approval for the entire subdivision. This subsection shall not apply after September 30, 1994 .
-(c) Before the expiration of the period referred to in subsection (b), the Secretary of Housing and Urban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
-(d) For loans made under this subchapter, the Secretary may accept subdivisions that have been approved by local, county, or State agencies.
+- **(a)** The Secretary of Agriculture, the Secretary of Housing and Urban Development, and the Secretary of Veterans Affairs shall each accept an administrative approval of any housing subdivision made by any of the others so that not later than January 1, 1984 , there is total reciprocity for housing subdivision approvals among the agencies which they head.
+- **(b)** For purposes of complying with subsection (a), the Secretary of Housing and Urban Development shall consider the issuance by the Secretary of Veterans Affairs of a certificate of reasonable value for 1 or more properties in a subdivision to be an administrative approval for the entire subdivision. This subsection shall not apply after September 30, 1994 .
+- **(c)** Before the expiration of the period referred to in subsection (b), the Secretary of Housing and Urban Development shall report to the Congress on housing subdivision approval policies and practices, if any, of the Departments of Housing and Urban Development and Agriculture and the Department of Veterans Affairs. The report shall focus on the administration of environmental laws in connection with any such policies and practices, and shall recommend any statutory, regulatory, and administrative changes needed to achieve total reciprocity for such housing subdivision approvals. The Secretary of Housing and Urban Development shall consult with the foregoing agencies, and such other agencies as the Secretary selects, in preparing the report.
+- **(d)** For loans made under this subchapter, the Secretary may accept subdivisions that have been approved by local, county, or State agencies.

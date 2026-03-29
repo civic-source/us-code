@@ -5,12 +5,12 @@ usc_section: "3108"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3108"
-generated_at: "2026-03-29T00:33:18.179Z"
+generated_at: "2026-03-29T02:16:14.772Z"
 ---
 
 # § 3108. Auditability of certain elements of the intelligence community
 
-(a) The head of each covered entity shall ensure that there is a full financial audit of such covered entity each year beginning with fiscal year 2014. Such audits may be conducted by an internal or external independent accounting or auditing organization.
-(b) Beginning as early as practicable, but in no event later than the audit required under subsection (a) for fiscal year 2016, the head of each covered entity shall take all reasonable steps necessary to ensure that each audit required under subsection (a) contains an unqualified opinion on the financial statements of such covered entity for the fiscal year covered by such audit.
-(c) The chief financial officer of each covered entity shall provide to the congressional intelligence committees an annual audit report from an accounting or auditing organization on each audit of the covered entity conducted pursuant to subsection (a).
-(d) In this section, the term “covered entity” means the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, the National Reconnaissance Office, and the National Geospatial-Intelligence Agency.
+- **(a)** The head of each covered entity shall ensure that there is a full financial audit of such covered entity each year beginning with fiscal year 2014. Such audits may be conducted by an internal or external independent accounting or auditing organization.
+- **(b)** Beginning as early as practicable, but in no event later than the audit required under subsection (a) for fiscal year 2016, the head of each covered entity shall take all reasonable steps necessary to ensure that each audit required under subsection (a) contains an unqualified opinion on the financial statements of such covered entity for the fiscal year covered by such audit.
+- **(c)** The chief financial officer of each covered entity shall provide to the congressional intelligence committees an annual audit report from an accounting or auditing organization on each audit of the covered entity conducted pursuant to subsection (a).
+- **(d)** In this section, the term “covered entity” means the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, the National Reconnaissance Office, and the National Geospatial-Intelligence Agency.

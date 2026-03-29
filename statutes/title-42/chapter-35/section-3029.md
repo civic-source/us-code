@@ -5,13 +5,13 @@ usc_section: "3029"
 chapter: 35
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 3029"
-generated_at: "2026-03-29T00:32:53.809Z"
+generated_at: "2026-03-29T02:15:36.639Z"
 ---
 
 # § 3029. Payments of grants or contracts
 
-(a) Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, as the Assistant Secretary may determine. From a State’s allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
-(b) 
-  (1) For each fiscal year, not less than 25 percent of the non-Federal share of the total expenditures under the State plan which is required by section 3024(d) of this title shall be met from funds from State or local public sources.
-  (2) Funds required to meet the non-Federal share required by section 3024(d)(1)(D) of this title , in amounts exceeding 10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title , shall be met from State sources.
-(c) A State’s allotment under section 3024 of this title for a fiscal year shall be reduced by the percentage (if any) by which its expenditures for such year from State sources under its State plan approved under section 3027 of this title are less than its average annual expenditures from such sources for the period of 3 fiscal years preceding such year.
+- **(a)** Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, as the Assistant Secretary may determine. From a State’s allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
+- **(b)**
+  - **(1)** For each fiscal year, not less than 25 percent of the non-Federal share of the total expenditures under the State plan which is required by section 3024(d) of this title shall be met from funds from State or local public sources.
+  - **(2)** Funds required to meet the non-Federal share required by section 3024(d)(1)(D) of this title , in amounts exceeding 10 percent of the cost of the services specified in such section 3024(d)(1)(D) of this title , shall be met from State sources.
+- **(c)** A State’s allotment under section 3024 of this title for a fiscal year shall be reduced by the percentage (if any) by which its expenditures for such year from State sources under its State plan approved under section 3027 of this title are less than its average annual expenditures from such sources for the period of 3 fiscal years preceding such year.

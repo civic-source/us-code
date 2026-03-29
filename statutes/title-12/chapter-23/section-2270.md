@@ -5,7 +5,7 @@ usc_section: "2270"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2270"
-generated_at: "2026-03-29T00:29:16.744Z"
+generated_at: "2026-03-29T02:11:21.123Z"
 ---
 
 # § 2270. Replacement of suspended or removed directors

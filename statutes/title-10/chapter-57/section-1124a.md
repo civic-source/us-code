@@ -5,16 +5,16 @@ usc_section: "1124a"
 chapter: 57
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1124a"
-generated_at: "2026-03-29T00:20:52.952Z"
+generated_at: "2026-03-29T02:10:44.983Z"
 ---
 
 # § 1124a. Cyber operations-peculiar awards
 
-(a) The Secretary of Defense and the Secretaries of the military departments may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the covered armed forces whose novel actions, invention, or technical achievement enables or ensures operational outcomes in or through cyberspace against threats to national security.
-(b) An award under this section may be paid notwithstanding the member’s death, separation, or retirement from the covered armed forces. However, the novel action, invention, or technical achievement forming the basis for the award must have been made while the member was on active duty or in an active reserve status and not otherwise eligible for an award under chapter 45 of title 5.
-(c) Awards to, and expenses for the honorary recognition of, members of the covered armed forces under this section may be paid from—
-  (1) the funds or appropriations available to the activity primarily benefiting from the novel action, invention, or technical achievement; or
-  (2) the several funds or appropriations of the various activities benefiting from the novel action, invention, or technical achievement.
-(d) The total amount of the award, or awards, made under this section for a novel action, invention, or technical achievement may not exceed $2,500, regardless of the number of persons who may be entitled to share therein.
-(e) Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense or by the Secretaries of the military departments.
-(f) In this section, the term “covered armed forces” means the Army, Navy, Air Force, Marine Corps, and Space Force.
+- **(a)** The Secretary of Defense and the Secretaries of the military departments may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the covered armed forces whose novel actions, invention, or technical achievement enables or ensures operational outcomes in or through cyberspace against threats to national security.
+- **(b)** An award under this section may be paid notwithstanding the member’s death, separation, or retirement from the covered armed forces. However, the novel action, invention, or technical achievement forming the basis for the award must have been made while the member was on active duty or in an active reserve status and not otherwise eligible for an award under chapter 45 of title 5.
+- **(c)** Awards to, and expenses for the honorary recognition of, members of the covered armed forces under this section may be paid from—
+  - **(1)** the funds or appropriations available to the activity primarily benefiting from the novel action, invention, or technical achievement; or
+  - **(2)** the several funds or appropriations of the various activities benefiting from the novel action, invention, or technical achievement.
+- **(d)** The total amount of the award, or awards, made under this section for a novel action, invention, or technical achievement may not exceed $2,500, regardless of the number of persons who may be entitled to share therein.
+- **(e)** Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense or by the Secretaries of the military departments.
+- **(f)** In this section, the term “covered armed forces” means the Army, Navy, Air Force, Marine Corps, and Space Force.

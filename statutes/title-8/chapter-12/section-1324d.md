@@ -1,0 +1,19 @@
+---
+title: "Section 1324d - Civil penalties for failure to depart"
+usc_title: 8
+usc_section: "1324d"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1324d"
+generated_at: "2026-03-29T02:10:21.454Z"
+---
+
+# § 1324d. Civil penalties for failure to depart
+
+- **(a)** Any alien subject to a final order of removal who—
+  - **(1)** willfully fails or refuses to—
+    - **(A)** depart from the United States pursuant to the order,
+    - **(B)** make timely application in good faith for travel or other documents necessary for departure, or
+    - **(C)** present for removal at the time and place required by the Attorney General; or
+  - **(2)** conspires to or takes any action designed to prevent or hamper the alien’s departure pursuant to the order,
+- **(b)** Nothing in this section shall be construed to diminish or qualify any penalties to which an alien may be subject for activities proscribed by section 1253(a) of this title or any other section of this chapter.

@@ -5,29 +5,29 @@ usc_section: "2267b"
 chapter: 36
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2267b"
-generated_at: "2026-03-29T00:31:57.406Z"
+generated_at: "2026-03-29T02:14:18.611Z"
 ---
 
 # § 2267b. Post-disaster watershed assessments
 
-(a) 
-  (1) In an area that the President has declared a major disaster in accordance with section 5170 of title 42 , the Secretary may carry out a watershed assessment to identify, to the maximum extent practicable, specific flood risk reduction, hurricane and storm damage reduction, ecosystem restoration, or navigation project recommendations that will help to rehabilitate and improve the resiliency of damaged infrastructure and natural resources to reduce risks to human life and property from future natural disasters.
-  (2) A watershed assessment carried out paragraph 1 1 So in original. Probably should be preceded by “under”. (1) may identify existing projects being carried out under 1 or more of the authorities referred to in subsection (b)(1).
-  (3) In carrying out a watershed assessment under paragraph (1), the Secretary shall use all existing watershed assessments and related information developed by the Secretary or other Federal, State, or local entities.
-(b) 
-  (1) The Secretary may carry out projects identified under a watershed assessment under subsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
-    (A) Section 205 of the Flood Control Act of 1948 ( 33 U.S.C. 701s ).
-    (B) Section 111 of the River and Harbor Act of 1968 ( 33 U.S.C. 426i ).
-    (C) Section 206 of the Water Resources Development Act of 1996 ( 33 U.S.C. 2330 ).
-    (D) Section 1135 of the Water Resources Development Act of 1986 ( 33 U.S.C. 2309a ).
-    (E) Section 107 of the River and Harbor Act of 1960 ( 33 U.S.C. 577 ).
-    (F) Section 3 of the Act of August 13, 1946 ( 33 U.S.C. 426g ).
-  (2) For each project that does not meet the criteria under paragraph (1), the Secretary shall include a recommendation relating to the project in the annual report submitted to Congress by the Secretary in accordance with section 2282d of this title .
-  (3) In carrying out a project under paragraph (1), the Secretary shall—
-    (A) to the maximum extent practicable, use all existing information and studies available for the project; and
-    (B) not require any element of a study completed for the project prior to the disaster to be repeated.
-(c) All requirements applicable to a project under the Acts described in subsection (b) shall apply to the project.
-(d) A watershed assessment under subsection (a) shall be initiated not later than 2 years after the date on which the major disaster declaration is issued.
-(e) 
-  (1) For any major disaster declared in a territory of the United States before October 23, 2018 , all activities in the territory carried out or undertaken pursuant to the authorities described in this section shall be conducted at full Federal expense unless the President determines that the territory has the ability to pay the cost share for an assessment under this section without the use of loans.
-  (2) In this subsection, the term “territory of the United States” means an insular area specified in section 2310(a)(1) of this title .
+- **(a)**
+  - **(1)** In an area that the President has declared a major disaster in accordance with section 5170 of title 42 , the Secretary may carry out a watershed assessment to identify, to the maximum extent practicable, specific flood risk reduction, hurricane and storm damage reduction, ecosystem restoration, or navigation project recommendations that will help to rehabilitate and improve the resiliency of damaged infrastructure and natural resources to reduce risks to human life and property from future natural disasters.
+  - **(2)** A watershed assessment carried out paragraph 1 1 So in original. Probably should be preceded by “under”. (1) may identify existing projects being carried out under 1 or more of the authorities referred to in subsection (b)(1).
+  - **(3)** In carrying out a watershed assessment under paragraph (1), the Secretary shall use all existing watershed assessments and related information developed by the Secretary or other Federal, State, or local entities.
+- **(b)**
+  - **(1)** The Secretary may carry out projects identified under a watershed assessment under subsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
+    - **(A)** Section 205 of the Flood Control Act of 1948 ( 33 U.S.C. 701s ).
+    - **(B)** Section 111 of the River and Harbor Act of 1968 ( 33 U.S.C. 426i ).
+    - **(C)** Section 206 of the Water Resources Development Act of 1996 ( 33 U.S.C. 2330 ).
+    - **(D)** Section 1135 of the Water Resources Development Act of 1986 ( 33 U.S.C. 2309a ).
+    - **(E)** Section 107 of the River and Harbor Act of 1960 ( 33 U.S.C. 577 ).
+    - **(F)** Section 3 of the Act of August 13, 1946 ( 33 U.S.C. 426g ).
+  - **(2)** For each project that does not meet the criteria under paragraph (1), the Secretary shall include a recommendation relating to the project in the annual report submitted to Congress by the Secretary in accordance with section 2282d of this title .
+  - **(3)** In carrying out a project under paragraph (1), the Secretary shall—
+    - **(A)** to the maximum extent practicable, use all existing information and studies available for the project; and
+    - **(B)** not require any element of a study completed for the project prior to the disaster to be repeated.
+- **(c)** All requirements applicable to a project under the Acts described in subsection (b) shall apply to the project.
+- **(d)** A watershed assessment under subsection (a) shall be initiated not later than 2 years after the date on which the major disaster declaration is issued.
+- **(e)**
+  - **(1)** For any major disaster declared in a territory of the United States before October 23, 2018 , all activities in the territory carried out or undertaken pursuant to the authorities described in this section shall be conducted at full Federal expense unless the President determines that the territory has the ability to pay the cost share for an assessment under this section without the use of loans.
+  - **(2)** In this subsection, the term “territory of the United States” means an insular area specified in section 2310(a)(1) of this title .

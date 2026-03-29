@@ -5,11 +5,11 @@ usc_section: "10146"
 chapter: 1005
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 10146"
-generated_at: "2026-03-29T00:20:53.270Z"
+generated_at: "2026-03-29T02:10:45.356Z"
 ---
 
 # § 10146. Ready Reserve: transfer from
 
-(a) Subject to subsection (c) and under regulations prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member in the Ready Reserve may be transferred to the Standby Reserve.
-(b) A Reserve who is qualified and so requests may be transferred to the Retired Reserve under regulations prescribed by the Secretary concerned and, in the case of the Secretary of a military department, approved by the Secretary of Defense.
-(c) A member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred to the Standby Reserve only with the consent of the governor or other appropriate authority of the State.
+- **(a)** Subject to subsection (c) and under regulations prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member in the Ready Reserve may be transferred to the Standby Reserve.
+- **(b)** A Reserve who is qualified and so requests may be transferred to the Retired Reserve under regulations prescribed by the Secretary concerned and, in the case of the Secretary of a military department, approved by the Secretary of Defense.
+- **(c)** A member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred to the Standby Reserve only with the consent of the governor or other appropriate authority of the State.

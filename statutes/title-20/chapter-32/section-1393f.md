@@ -5,7 +5,7 @@ usc_section: "1393f"
 chapter: 32
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 1393f"
-generated_at: "2026-03-29T00:07:03.131Z"
+generated_at: "2026-03-29T02:12:17.341Z"
 ---
 
 # §§ 1247 to 1393f. Omitted

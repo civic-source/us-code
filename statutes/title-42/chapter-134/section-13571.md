@@ -5,13 +5,13 @@ usc_section: "13571"
 chapter: 134
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 13571"
-generated_at: "2026-03-29T00:32:54.330Z"
+generated_at: "2026-03-29T02:15:37.274Z"
 ---
 
 # § 13571. Purposes
 
 The purposes of this subchapter are to—
 
-  (1) promote national energy policy and energy security, diversity, and economic competitiveness benefits that result from the increased use of coal;
-  (2) mitigate financial risks, reduce the cost of clean coal generation, and increase the marketplace acceptance of clean coal generation and pollution control equipment and processes; and
-  (3) facilitate the environmental performance of clean coal generation.
+  - **(1)** promote national energy policy and energy security, diversity, and economic competitiveness benefits that result from the increased use of coal;
+  - **(2)** mitigate financial risks, reduce the cost of clean coal generation, and increase the marketplace acceptance of clean coal generation and pollution control equipment and processes; and
+  - **(3)** facilitate the environmental performance of clean coal generation.

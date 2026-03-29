@@ -5,23 +5,23 @@ usc_section: "904"
 chapter: 9
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 904"
-generated_at: "2026-03-29T00:32:20.541Z"
+generated_at: "2026-03-29T02:14:58.785Z"
 ---
 
 # § 904. Disposal
 
-(a) Before offering real property situated in an urban area for sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
-(b) To the greatest extent practicable, the Administrator shall furnish to all prospective purchasers of real property situated in an urban area complete information concerning—
-  (1) current zoning regulations, prospective zoning requirements, and objectives for property if it is unzoned; and
-  (2) 
-    (A) the current availability of streets, sidewalks, sewers, water, street lights, and other service facilities; and
-    (B) the prospective availability of those service facilities if the property is included in local comprehensive planning described in subsection (c).
-(c) Local comprehensive planning referred to in subsections (a) and (b) includes any of the following activities, to the extent the activity is directly related to the needs of a unit of general local government:
-  (1) As a guide for government policy and action, preparing general plans related to—
-    (A) the pattern and intensity of land use;
-    (B) the provision of public facilities (including transportation facilities) and other government services; and
-    (C) the effective development and use of human and natural resources.
-  (2) Preparing long-range physical and fiscal plans for government action.
-  (3) Programming capital improvements and other major expenditures, based on a determination of relative urgency, together with definitive financial planning for expenditures in the earlier years of a program.
-  (4) Coordinating related plans and activities of state and local governments and agencies.
-  (5) Preparing regulatory and administrative measures to support activities described in this subsection.
+- **(a)** Before offering real property situated in an urban area for sale, the Administrator of General Services shall give reasonable notice to the unit of general local government exercising zoning and land use jurisdiction in order to provide an opportunity for zoning so that the property is used in accordance with local comprehensive planning described in subsection (c).
+- **(b)** To the greatest extent practicable, the Administrator shall furnish to all prospective purchasers of real property situated in an urban area complete information concerning—
+  - **(1)** current zoning regulations, prospective zoning requirements, and objectives for property if it is unzoned; and
+  - **(2)**
+    - **(A)** the current availability of streets, sidewalks, sewers, water, street lights, and other service facilities; and
+    - **(B)** the prospective availability of those service facilities if the property is included in local comprehensive planning described in subsection (c).
+- **(c)** Local comprehensive planning referred to in subsections (a) and (b) includes any of the following activities, to the extent the activity is directly related to the needs of a unit of general local government:
+  - **(1)** As a guide for government policy and action, preparing general plans related to—
+    - **(A)** the pattern and intensity of land use;
+    - **(B)** the provision of public facilities (including transportation facilities) and other government services; and
+    - **(C)** the effective development and use of human and natural resources.
+  - **(2)** Preparing long-range physical and fiscal plans for government action.
+  - **(3)** Programming capital improvements and other major expenditures, based on a determination of relative urgency, together with definitive financial planning for expenditures in the earlier years of a program.
+  - **(4)** Coordinating related plans and activities of state and local governments and agencies.
+  - **(5)** Preparing regulatory and administrative measures to support activities described in this subsection.

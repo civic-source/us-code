@@ -5,10 +5,10 @@ usc_section: "1827"
 chapter: 44
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 1827"
-generated_at: "2026-03-29T00:29:41.753Z"
+generated_at: "2026-03-29T02:11:34.248Z"
 ---
 
 # § 1827. Utilization of personnel of Department of Agriculture and officers and employees of consenting States; technical and other nonfinancial assistance to State
 
-(a) The Secretary, in carrying out the provisions of this chapter, shall utilize, to the maximum extent practicable, the existing personnel and facilities of the Department of Agriculture. The Secretary is further authorized to utilize the officers and employees of any State, with its consent, and with or without reimbursement, to assist him in carrying out the provisions of this chapter.
-(b) The Secretary may, upon request, provide technical and other nonfinancial assistance (including the lending of equipment on such terms and conditions as the Secretary determines is appropriate) to any State to assist it in administering and enforcing any law of such State designed to prohibit conduct described in section 1824 of this title .
+- **(a)** The Secretary, in carrying out the provisions of this chapter, shall utilize, to the maximum extent practicable, the existing personnel and facilities of the Department of Agriculture. The Secretary is further authorized to utilize the officers and employees of any State, with its consent, and with or without reimbursement, to assist him in carrying out the provisions of this chapter.
+- **(b)** The Secretary may, upon request, provide technical and other nonfinancial assistance (including the lending of equipment on such terms and conditions as the Secretary determines is appropriate) to any State to assist it in administering and enforcing any law of such State designed to prohibit conduct described in section 1824 of this title .

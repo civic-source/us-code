@@ -5,7 +5,7 @@ usc_section: "113a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 113a"
-generated_at: "2026-03-29T00:30:24.143Z"
+generated_at: "2026-03-29T02:12:27.940Z"
 ---
 
 # § 113a. Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations

@@ -5,15 +5,15 @@ usc_section: "9102"
 chapter: 91
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 9102"
-generated_at: "2026-03-29T00:32:20.569Z"
+generated_at: "2026-03-29T02:14:58.805Z"
 ---
 
 # § 9102. Duties
 
-(a) The Commission of Fine Arts shall advise on—
-  (1) the location of statues, fountains, and monuments in the public squares, streets, and parks in the District of Columbia;
-  (2) the selection of models for statues, fountains, and monuments erected under the authority of the Federal Government;
-  (3) the selection of artists to carry out clause (2); and
-  (4) questions of art generally when required to do so by the President or a committee of Congress.
-(b) The officers required to decide the questions described in subsection (a)(1)–(3) shall request the Commission to provide the advice.
-(c) This section does not apply to the Capitol Building and the Library of Congress buildings.
+- **(a)** The Commission of Fine Arts shall advise on—
+  - **(1)** the location of statues, fountains, and monuments in the public squares, streets, and parks in the District of Columbia;
+  - **(2)** the selection of models for statues, fountains, and monuments erected under the authority of the Federal Government;
+  - **(3)** the selection of artists to carry out clause (2); and
+  - **(4)** questions of art generally when required to do so by the President or a committee of Congress.
+- **(b)** The officers required to decide the questions described in subsection (a)(1)–(3) shall request the Commission to provide the advice.
+- **(c)** This section does not apply to the Capitol Building and the Library of Congress buildings.

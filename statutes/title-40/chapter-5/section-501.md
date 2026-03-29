@@ -5,28 +5,28 @@ usc_section: "501"
 chapter: 5
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 501"
-generated_at: "2026-03-29T00:32:20.520Z"
+generated_at: "2026-03-29T02:14:58.772Z"
 ---
 
 # § 501. Services for executive agencies
 
-(a) 
-  (1) The Administrator of General Services shall take action under this subchapter for an executive agency—
-    (A) to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Government in terms of economy, efficiency, or service; and
-    (B) with due regard to the program activities of the agency.
-  (2) The Secretary of Defense may exempt the Department of Defense from an action taken by the Administrator of General Services under this subchapter, unless the President directs otherwise, whenever the Secretary determines that an exemption is in the best interests of national security.
-(b) 
-  (1) 
-    (A) The Administrator of General Services shall procure and supply personal property and nonpersonal services for executive agencies to use in the proper discharge of their responsibilities, and perform functions related to procurement and supply including contracting, inspection, storage, issue, property identification and classification, transportation and traffic management, management of public utility services, and repairing and converting.
-    (B) A contract for public utility services may be made for a period of not more than 10 years.
-  (2) 
-    (A) The Administrator of General Services shall prescribe policies and methods for executive agencies regarding the procurement and supply of personal property and nonpersonal services and related functions.
-    (B) Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
-(c) 
-  (1) For transportation and other public utility services used by executive agencies, the Administrator of General Services shall represent the agencies—
-    (A) in negotiations with carriers and other public utilities; and
-    (B) in proceedings involving carriers or other public utilities before federal and state regulatory bodies.
-  (2) Prior to representing any installation of the Department of Defense in any proceeding under this subsection, the Administrator or any persons or entities acting on behalf of the Administrator shall—
-    (A) notify the senior mission commander of the installation; and
-    (B) solicit and represent the interests of the installation as determined by the installation’s senior mission commander.
-(d) The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.
+- **(a)**
+  - **(1)** The Administrator of General Services shall take action under this subchapter for an executive agency—
+    - **(A)** to the extent that the Administrator of General Services determines that the action is advantageous to the Federal Government in terms of economy, efficiency, or service; and
+    - **(B)** with due regard to the program activities of the agency.
+  - **(2)** The Secretary of Defense may exempt the Department of Defense from an action taken by the Administrator of General Services under this subchapter, unless the President directs otherwise, whenever the Secretary determines that an exemption is in the best interests of national security.
+- **(b)**
+  - **(1)**
+    - **(A)** The Administrator of General Services shall procure and supply personal property and nonpersonal services for executive agencies to use in the proper discharge of their responsibilities, and perform functions related to procurement and supply including contracting, inspection, storage, issue, property identification and classification, transportation and traffic management, management of public utility services, and repairing and converting.
+    - **(B)** A contract for public utility services may be made for a period of not more than 10 years.
+  - **(2)**
+    - **(A)** The Administrator of General Services shall prescribe policies and methods for executive agencies regarding the procurement and supply of personal property and nonpersonal services and related functions.
+    - **(B)** Policies and methods prescribed by the Administrator of General Services under this paragraph are subject to regulations prescribed by the Administrator for Federal Procurement Policy under division B (except sections 1704 and 2303) of subtitle I of title 41.
+- **(c)**
+  - **(1)** For transportation and other public utility services used by executive agencies, the Administrator of General Services shall represent the agencies—
+    - **(A)** in negotiations with carriers and other public utilities; and
+    - **(B)** in proceedings involving carriers or other public utilities before federal and state regulatory bodies.
+  - **(2)** Prior to representing any installation of the Department of Defense in any proceeding under this subsection, the Administrator or any persons or entities acting on behalf of the Administrator shall—
+    - **(A)** notify the senior mission commander of the installation; and
+    - **(B)** solicit and represent the interests of the installation as determined by the installation’s senior mission commander.
+- **(d)** The Administrator of General Services shall operate, for executive agencies, warehouses, supply centers, repair shops, fuel yards, and other similar facilities. After consultation with the executive agencies affected, the Administrator of General Services shall consolidate, take over, or arrange for executive agencies to operate the facilities.

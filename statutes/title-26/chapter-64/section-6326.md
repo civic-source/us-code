@@ -5,10 +5,10 @@ usc_section: "6326"
 chapter: 64
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6326"
-generated_at: "2026-03-29T00:31:21.046Z"
+generated_at: "2026-03-29T02:14:01.328Z"
 ---
 
 # § 6326. Administrative appeal of liens
 
-(a) In such form and at such time as the Secretary shall prescribe by regulations, any person shall be allowed to appeal to the Secretary after the filing of a notice of a lien under this subchapter on the property or the rights to property of such person for a release of such lien alleging an error in the filing of the notice of such lien.
-(b) If the Secretary determines that the filing of the notice of any lien was erroneous, the Secretary shall expeditiously (and, to the extent practicable, within 14 days after such determination) issue a certificate of release of such lien and shall include in such certificate a statement that such filing was erroneous.
+- **(a)** In such form and at such time as the Secretary shall prescribe by regulations, any person shall be allowed to appeal to the Secretary after the filing of a notice of a lien under this subchapter on the property or the rights to property of such person for a release of such lien alleging an error in the filing of the notice of such lien.
+- **(b)** If the Secretary determines that the filing of the notice of any lien was erroneous, the Secretary shall expeditiously (and, to the extent practicable, within 14 days after such determination) issue a certificate of release of such lien and shall include in such certificate a statement that such filing was erroneous.

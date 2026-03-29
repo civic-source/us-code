@@ -5,7 +5,7 @@ usc_section: "51a"
 chapter: 2
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 51a"
-generated_at: "2026-03-29T00:29:16.467Z"
+generated_at: "2026-03-29T02:11:20.835Z"
 ---
 
 # § 51a. Preferred stock; issuance authorized

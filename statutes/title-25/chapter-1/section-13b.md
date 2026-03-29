@@ -5,7 +5,7 @@ usc_section: "13b"
 chapter: 1
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 13b"
-generated_at: "2026-03-29T00:30:38.608Z"
+generated_at: "2026-03-29T02:13:20.832Z"
 ---
 
 # § 13b. Payment of care, tuition, assistance, and other expenses of Indians in boarding homes, institutions, and schools; payment of rewards

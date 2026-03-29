@@ -5,13 +5,13 @@ usc_section: "111"
 chapter: 7
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 111"
-generated_at: "2026-03-29T00:30:15.593Z"
+generated_at: "2026-03-29T02:12:02.355Z"
 ---
 
 # § 111. Assaulting, resisting, or impeding certain officers or employees
 
-(a) Whoever—
-  (1) forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of official duties; or
-  (2) forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person’s term of service,
-(b) Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
-(c) There is extraterritorial jurisdiction over the conduct prohibited by this section.
+- **(a)** Whoever—
+  - **(1)** forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of official duties; or
+  - **(2)** forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person’s term of service,
+- **(b)** Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
+- **(c)** There is extraterritorial jurisdiction over the conduct prohibited by this section.

@@ -5,7 +5,7 @@ usc_section: "3839d"
 chapter: 58
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3839d"
-generated_at: "2026-03-29T00:29:52.815Z"
+generated_at: "2026-03-29T02:11:53.908Z"
 ---
 
 # §§ 3839 to 3839d. Repealed. Pub. L. 113–79, title II, § 2711 , Feb. 7, 2014 , 128 Stat. 771

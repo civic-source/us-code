@@ -1,0 +1,14 @@
+---
+title: "Section 1504 - Cancellation of United States passports and Consular Reports of Birth"
+usc_title: 8
+usc_section: "1504"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1504"
+generated_at: "2026-03-29T02:10:21.475Z"
+---
+
+# § 1504. Cancellation of United States passports and Consular Reports of Birth
+
+- **(a)** The Secretary of State is authorized to cancel any United States passport or Consular Report of Birth, or certified copy thereof, if it appears that such document was illegally, fraudulently, or erroneously obtained from, or was created through illegality or fraud practiced upon, the Secretary. The person for or to whom such document has been issued or made shall be given, at such person’s last known address, written notice of the cancellation of such document, together with the procedures for seeking a prompt post-cancellation hearing. The cancellation under this section of any document purporting to show the citizenship status of the person to whom it was issued shall affect only the document and not the citizenship status of the person in whose name the document was issued.
+- **(b)** For purposes of this section, the term “Consular Report of Birth” refers to the report, designated as a “Report of Birth Abroad of a Citizen of the United States”, issued by a consular officer to document a citizen born abroad.

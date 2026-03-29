@@ -5,12 +5,12 @@ usc_section: "904a"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 904a"
-generated_at: "2026-03-29T00:20:52.901Z"
+generated_at: "2026-03-29T02:10:44.925Z"
 ---
 
 # § 904a. Art. 104a. Fraudulent enlistment, appointment, or separation
 
 Any person who—
 
-  (1) procures his own enlistment or appointment in the armed forces by knowingly false representation or deliberate concealment as to his qualifications for that enlistment or appointment and receives pay or allowances thereunder; or
-  (2) procures his own separation from the armed forces by knowingly false representation or deliberate concealment as to his eligibility for that separation;
+  - **(1)** procures his own enlistment or appointment in the armed forces by knowingly false representation or deliberate concealment as to his qualifications for that enlistment or appointment and receives pay or allowances thereunder; or
+  - **(2)** procures his own separation from the armed forces by knowingly false representation or deliberate concealment as to his eligibility for that separation;

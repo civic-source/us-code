@@ -5,27 +5,27 @@ usc_section: "689e"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 689e"
-generated_at: "2026-03-29T00:29:41.644Z"
+generated_at: "2026-03-29T02:11:34.106Z"
 ---
 
 # § 689e. Issuance and guarantee of trust certificates
 
-(a) The Administrator may issue trust certificates representing ownership of all or a fractional part of debentures issued by a New Markets Venture Capital company and guaranteed by the Administrator under this part, if such certificates are based on and backed by a trust or pool approved by the Administrator and composed solely of guaranteed debentures.
-(b) 
-  (1) The Administrator may, under such terms and conditions as it deems appropriate, guarantee the timely payment of the principal of and interest on trust certificates issued by the Administrator or its agents for purposes of this section.
-  (2) Each guarantee under this subsection shall be limited to the extent of principal and interest on the guaranteed debentures that compose the trust or pool.
-  (3) In the event that a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administrator only through the date of payment of the guarantee. At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
-(c) The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trust certificate issued by the Administrator or its agents under this section.
-(d) The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
-(e) 
-  (1) In the event the Administrator pays a claim under a guarantee issued under this section, it shall be subrogated fully to the rights satisfied by such payment.
-  (2) No Federal, State, or local law shall preclude or limit the exercise by the Administrator of its ownership rights in the debentures residing in a trust or pool against which trust certificates are issued under this section.
-(f) 
-  (1) The Administrator may provide for a central registration of all trust certificates issued under this section.
-  (2) 
-    (A) The Administrator may contract with an agent or agents to carry out on behalf of the Administrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
-      (i) maintenance, on behalf of and under the direction of the Administrator, of such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate the creation of trusts or pools backed by debentures guaranteed under this part; and
-      (ii) the issuance of trust certificates to facilitate the creation of such trusts or pools.
-    (B) Any agent performing functions on behalf of the Administrator under this paragraph shall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
-  (3) The Administrator may regulate brokers and dealers in trust certificates issued under this section.
-  (4) Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
+- **(a)** The Administrator may issue trust certificates representing ownership of all or a fractional part of debentures issued by a New Markets Venture Capital company and guaranteed by the Administrator under this part, if such certificates are based on and backed by a trust or pool approved by the Administrator and composed solely of guaranteed debentures.
+- **(b)**
+  - **(1)** The Administrator may, under such terms and conditions as it deems appropriate, guarantee the timely payment of the principal of and interest on trust certificates issued by the Administrator or its agents for purposes of this section.
+  - **(2)** Each guarantee under this subsection shall be limited to the extent of principal and interest on the guaranteed debentures that compose the trust or pool.
+  - **(3)** In the event that a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administrator only through the date of payment of the guarantee. At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
+- **(c)** The full faith and credit of the United States is pledged to pay all amounts that may be required to be paid under any guarantee of a trust certificate issued by the Administrator or its agents under this section.
+- **(d)** The Administrator shall not collect a fee for any guarantee of a trust certificate under this section, but any agent of the Administrator may collect a fee approved by the Administrator for the functions described in subsection (f)(2).
+- **(e)**
+  - **(1)** In the event the Administrator pays a claim under a guarantee issued under this section, it shall be subrogated fully to the rights satisfied by such payment.
+  - **(2)** No Federal, State, or local law shall preclude or limit the exercise by the Administrator of its ownership rights in the debentures residing in a trust or pool against which trust certificates are issued under this section.
+- **(f)**
+  - **(1)** The Administrator may provide for a central registration of all trust certificates issued under this section.
+  - **(2)**
+    - **(A)** The Administrator may contract with an agent or agents to carry out on behalf of the Administrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
+      - **(i)** maintenance, on behalf of and under the direction of the Administrator, of such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate the creation of trusts or pools backed by debentures guaranteed under this part; and
+      - **(ii)** the issuance of trust certificates to facilitate the creation of such trusts or pools.
+    - **(B)** Any agent performing functions on behalf of the Administrator under this paragraph shall provide a fidelity bond or insurance in such amounts as the Administrator determines to be necessary to fully protect the interests of the United States.
+  - **(3)** The Administrator may regulate brokers and dealers in trust certificates issued under this section.
+  - **(4)** Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.

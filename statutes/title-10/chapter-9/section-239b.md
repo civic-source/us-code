@@ -5,12 +5,12 @@ usc_section: "239b"
 chapter: 9
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 239b"
-generated_at: "2026-03-29T00:20:52.824Z"
+generated_at: "2026-03-29T02:10:44.847Z"
 ---
 
 # § 239b. Certain intelligence-related programs: budget justification materials
 
-(a) In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2021 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31 ), the Secretary of Defense may not include in any single program element both funds made available under the Military Intelligence Program and funds made available outside of the Military Intelligence Program.
-(b) In this section:
-  (1) The term “budget” has the meaning given that term in section 231(f) 1 1 See References in Text note below. of this title.
-  (2) The term “defense budget materials” has the meaning given that term in section 231(f) 1 of this title.
+- **(a)** In the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2021 and each fiscal year thereafter (as submitted with the budget of the President under section 1105(a) of title 31 ), the Secretary of Defense may not include in any single program element both funds made available under the Military Intelligence Program and funds made available outside of the Military Intelligence Program.
+- **(b)** In this section:
+  - **(1)** The term “budget” has the meaning given that term in section 231(f) 1 1 See References in Text note below. of this title.
+  - **(2)** The term “defense budget materials” has the meaning given that term in section 231(f) 1 of this title.

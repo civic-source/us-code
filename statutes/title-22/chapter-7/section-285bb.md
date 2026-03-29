@@ -5,12 +5,12 @@ usc_section: "285bb"
 chapter: 7
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 285bb"
-generated_at: "2026-03-29T00:30:33.679Z"
+generated_at: "2026-03-29T02:12:39.957Z"
 ---
 
 # § 285bb. Additional contribution to special funds
 
-(a) 
-  (1) The United States Governor of the Bank may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b), pursuant to the resolution of the Bank entitled “Seventh Replenishment of the Asian Development Fund”.
-  (2) Any commitment to make the contribution authorized by paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-(b) For the contribution authorized by subsection (a), there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.
+- **(a)**
+  - **(1)** The United States Governor of the Bank may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b), pursuant to the resolution of the Bank entitled “Seventh Replenishment of the Asian Development Fund”.
+  - **(2)** Any commitment to make the contribution authorized by paragraph (1) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+- **(b)** For the contribution authorized by subsection (a), there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.

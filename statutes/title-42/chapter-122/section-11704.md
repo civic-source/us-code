@@ -5,23 +5,23 @@ usc_section: "11704"
 chapter: 122
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 11704"
-generated_at: "2026-03-29T00:32:54.238Z"
+generated_at: "2026-03-29T02:15:37.172Z"
 ---
 
 # § 11704. Functions of Papa Ola Lokahi
 
-(a) Papa Ola Lokahi shall be responsible for the—
-  (1) coordination, implementation, and updating, as appropriate, of the comprehensive health care master plan developed pursuant to section 11703 of this title ;
-  (2) training for the persons described in section 11705(c)(1)(B) of this title ;
-  (3) identification of and research into the diseases that are most prevalent among Native Hawaiians, including behavioral, biomedical, epidemiological, and health services; and
-  (4) the development of an action plan outlining the contributions that each member organization of Papa Ola Lokahi will make in carrying out the policy of this chapter.
-(b) Papa Ola Lokahi is authorized to receive special project funds that may be appropriated for the purpose of research on the health status of Native Hawaiians or for the purpose of addressing the health care needs of Native Hawaiians.
-(c) Papa Ola Lokahi shall serve as a clearinghouse for:
-  (1) the collection and maintenance of data associated with the health status of Native Hawaiians;
-  (2) the identification and research into diseases affecting Native Hawaiians;
-  (3) the availability of Native Hawaiian project funds, research projects and publications;
-  (4) the collaboration of research in the area of Native Hawaiian health; and
-  (5) the timely dissemination of information pertinent to the Native Hawaiian health care systems.
-(d) Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the health care programs and services provided to Native Hawaiians.
-(e) Papa Ola Lokahi shall act as a statewide infrastructure to provide technical support and coordination of training and technical assistance to the Native Hawaiian health care systems.
-(f) Papa Ola Lokahi is authorized to enter into agreements or memoranda of understanding with relevant agencies or organizations that are capable of providing resources or services to the Native Hawaiian health care systems.
+- **(a)** Papa Ola Lokahi shall be responsible for the—
+  - **(1)** coordination, implementation, and updating, as appropriate, of the comprehensive health care master plan developed pursuant to section 11703 of this title ;
+  - **(2)** training for the persons described in section 11705(c)(1)(B) of this title ;
+  - **(3)** identification of and research into the diseases that are most prevalent among Native Hawaiians, including behavioral, biomedical, epidemiological, and health services; and
+  - **(4)** the development of an action plan outlining the contributions that each member organization of Papa Ola Lokahi will make in carrying out the policy of this chapter.
+- **(b)** Papa Ola Lokahi is authorized to receive special project funds that may be appropriated for the purpose of research on the health status of Native Hawaiians or for the purpose of addressing the health care needs of Native Hawaiians.
+- **(c)** Papa Ola Lokahi shall serve as a clearinghouse for:
+  - **(1)** the collection and maintenance of data associated with the health status of Native Hawaiians;
+  - **(2)** the identification and research into diseases affecting Native Hawaiians;
+  - **(3)** the availability of Native Hawaiian project funds, research projects and publications;
+  - **(4)** the collaboration of research in the area of Native Hawaiian health; and
+  - **(5)** the timely dissemination of information pertinent to the Native Hawaiian health care systems.
+- **(d)** Papa Ola Lokahi shall, to the maximum extent possible, coordinate and assist the health care programs and services provided to Native Hawaiians.
+- **(e)** Papa Ola Lokahi shall act as a statewide infrastructure to provide technical support and coordination of training and technical assistance to the Native Hawaiian health care systems.
+- **(f)** Papa Ola Lokahi is authorized to enter into agreements or memoranda of understanding with relevant agencies or organizations that are capable of providing resources or services to the Native Hawaiian health care systems.

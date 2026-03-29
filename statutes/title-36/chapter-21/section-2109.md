@@ -1,0 +1,24 @@
+---
+title: "Section 2109 - Foreign Currency Fluctuations Account"
+usc_title: 36
+usc_section: "2109"
+chapter: 21
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 2109"
+generated_at: "2026-03-29T02:14:41.336Z"
+---
+
+# § 2109. Foreign Currency Fluctuations Account
+
+- **(a)** There is an account in the Treasury known as the “Foreign Currency Fluctuations, American Battle Monuments Commission, Account”. The Account shall be used to provide amounts, in addition to amounts appropriated for salaries and expenses of the Commission, to pay the cost of salaries and expenses that exceeds the amount appropriated for salaries and expenses because of fluctuations in currency exchange rates of foreign countries occurring after a budget request for the Commission is submitted to Congress. The Account may not be used for any other purpose.
+- **(b)** A provision of law limiting the amounts the Commission may obligate in a fiscal year shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+- **(c)**
+  - **(1)** Amounts in the Account may be transferred to amounts appropriated for salaries and expenses of the Commission. Transferred amounts shall be merged with, and are available for the same time period as, the appropriation to which they are applied.
+  - **(2)**
+    - **(A)** if the amounts are not needed to pay obligations incurred because of fluctuations in currency exchange rates of foreign countries in the appropriation to which the amounts were originally transferred; or
+    - **(B)** because of subsequent favorable fluctuations in the rates or because other amounts are, or become, available to pay the obligations.
+  - **(3)** Amounts transferred to an appropriation under this subsection may not be transferred back to the Account after the end of the 2d fiscal year after the fiscal year in which the appropriation was available for obligation.
+- **(d)** An obligation of the Commission payable in the currency of a foreign country may be recorded as an obligation based on exchange rates used in preparing a budget submission. A change reflecting fluctuations in exchange rates may be recorded as a disbursement is made.
+- **(e)** The unobligated balance of an appropriation for salaries and expenses may be transferred to the Account not later than the end of the second fiscal year following the fiscal year for which the appropriation was made. The unobligated balance shall be merged with, and be available for the same period and purposes as, the Account.
+- **(f)** The Commission each year shall submit to the appropriate committees of Congress a report on amounts transferred under this section.
+- **(g)** There is authorized to be appropriated $3,000,000 to the Account.

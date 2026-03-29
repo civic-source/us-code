@@ -5,7 +5,7 @@ usc_section: "2"
 chapter: 1
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-29T00:07:03.093Z"
+generated_at: "2026-03-29T02:12:17.128Z"
 ---
 
 # §§ 1, 2. Repealed. Pub. L. 92–318, title III, § 301(b)(2)(A) , June 23, 1972 , 86 Stat. 332

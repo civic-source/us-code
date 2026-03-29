@@ -5,7 +5,7 @@ usc_section: "5234"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5234"
-generated_at: "2026-03-29T00:31:20.987Z"
+generated_at: "2026-03-29T02:14:01.258Z"
 ---
 
 # [§ 5234. Repealed. Pub. L. 96–39, title VIII, § 807(a)(35) , July 26, 1979 , 93 Stat. 286 ]

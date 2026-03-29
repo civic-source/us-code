@@ -5,7 +5,7 @@ usc_section: "2815"
 chapter: 34
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2815"
-generated_at: "2026-03-29T00:32:53.789Z"
+generated_at: "2026-03-29T02:15:36.621Z"
 ---
 
 # §§ 2808 to 2815. Repealed. Pub. L. 97–35, title VI, § 683(a) , Aug. 13, 1981 , 95 Stat. 519

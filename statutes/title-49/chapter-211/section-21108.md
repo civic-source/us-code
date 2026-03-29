@@ -5,18 +5,18 @@ usc_section: "21108"
 chapter: 211
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 21108"
-generated_at: "2026-03-29T00:33:13.798Z"
+generated_at: "2026-03-29T02:16:08.936Z"
 ---
 
 # § 21108. Pilot projects
 
-(a) As of the date of enactment of the Rail Safety Improvement Act of 2008, a railroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
-  (1) a waiver of compliance with this chapter as in effect on the date of enactment of the Rail Safety Improvement Act of 2008; or
-  (2) a waiver of compliance with this chapter as it will be effective 9 months after the enactment of the Rail Safety Improvement Act of 2008,
-(b) The Secretary may, after notice and opportunity for comment, approve such waivers described in subsection (a) for a period not to exceed two years, if the Secretary determines that such a waiver of compliance is in the public interest and is consistent with railroad safety.
-(c) Any such waiver, based on a new petition, may be extended for additional periods of up to two years, after notice and opportunity for comment. An explanation of any waiver granted under this section shall be published in the Federal Register.
-(d) The Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, no later than December 31, 2012 , or, if no projects are completed prior to December 31, 2012 , no later than 6 months after the completion of a pilot project, a report that—
-  (1) explains and analyzes the effectiveness of any pilot project established pursuant to a waiver granted under subsection (a);
-  (2) describes the status of all other waivers granted under subsection (a) and their related pilot projects, if any; and
-  (3) recommends any appropriate legislative changes to this chapter.
-(e) For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.
+- **(a)** As of the date of enactment of the Rail Safety Improvement Act of 2008, a railroad carrier or railroad carriers and all nonprofit employee labor organizations representing any class or craft of directly affected covered service employees of the railroad carrier or railroad carriers, may jointly petition the Secretary of Transportation for approval of—
+  - **(1)** a waiver of compliance with this chapter as in effect on the date of enactment of the Rail Safety Improvement Act of 2008; or
+  - **(2)** a waiver of compliance with this chapter as it will be effective 9 months after the enactment of the Rail Safety Improvement Act of 2008,
+- **(b)** The Secretary may, after notice and opportunity for comment, approve such waivers described in subsection (a) for a period not to exceed two years, if the Secretary determines that such a waiver of compliance is in the public interest and is consistent with railroad safety.
+- **(c)** Any such waiver, based on a new petition, may be extended for additional periods of up to two years, after notice and opportunity for comment. An explanation of any waiver granted under this section shall be published in the Federal Register.
+- **(d)** The Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, no later than December 31, 2012 , or, if no projects are completed prior to December 31, 2012 , no later than 6 months after the completion of a pilot project, a report that—
+  - **(1)** explains and analyzes the effectiveness of any pilot project established pursuant to a waiver granted under subsection (a);
+  - **(2)** describes the status of all other waivers granted under subsection (a) and their related pilot projects, if any; and
+  - **(3)** recommends any appropriate legislative changes to this chapter.
+- **(e)** For purposes of this section, the term “directly affected covered service employees” means covered service employees to whose hours of service the terms of the waiver petitioned for specifically apply.

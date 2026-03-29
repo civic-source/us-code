@@ -5,42 +5,42 @@ usc_section: "1271"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-29T00:31:20.877Z"
+generated_at: "2026-03-29T02:14:01.122Z"
 ---
 
 # § 1271. Treatment of amounts received on retirement or sale or exchange of debt instruments
 
-(a) For purposes of this title—
-  (1) Amounts received by the holder on retirement of any debt instrument shall be considered as amounts received in exchange therefor.
-  (2) 
-    (A) If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
-      (i) the original issue discount, reduced by
-      (ii) the portion of original issue discount previously includible in the gross income of any holder (without regard to section 1272(a)(7) (or the corresponding provisions of prior law)),
-    (B) This paragraph shall not apply to—
-      (i) any tax-exempt obligation, or
-      (ii) any holder who has purchased the debt instrument at a premium.
-  (3) 
-    (A) On the sale or exchange of any short-term Government obligation, any gain realized which does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
-    (B) For purposes of this paragraph, the term “short-term Government obligation” means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
-    (C) For purposes of this paragraph, the term “acquisition discount” means the excess of the stated redemption price at maturity over the taxpayer’s basis for the obligation.
-    (D) For purposes of this paragraph, except as provided in subparagraph (E), the ratable share of the acquisition discount is an amount which bears the same ratio to such discount as—
-      (i) the number of days which the taxpayer held the obligation, bears to
-      (ii) the number of days after the date the taxpayer acquired the obligation and up to (and including) the date of its maturity.
-    (E) At the election of the taxpayer with respect to any obligation, the ratable share of the acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
-      (i) the taxpayer’s yield to maturity based on the taxpayer’s cost of acquiring the obligation, and
-      (ii) compounding daily.
-  (4) 
-    (A) On the sale or exchange of any short-term nongovernment obligation, any gain realized which does not exceed an amount equal to the ratable share of the original issue discount shall be treated as ordinary income.
-    (B) For purposes of this paragraph, the term “short-term nongovernment obligation” means any obligation which—
-      (i) has a fixed maturity date not more than 1 year from the date of the issue, and
-      (ii) is not a short-term Government obligation (as defined in paragraph (3)(B) without regard to the last sentence thereof).
-    (C) For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
-      (i) the number of days which the taxpayer held the obligation, bears to
-      (ii) the number of days after the date of original issue and up to (and including) the date of its maturity.
-    (D) At the election of the taxpayer with respect to any obligation, the ratable share of the original issue discount is the portion of the original issue discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
-      (i) the yield to maturity based on the issue price of the obligation, and
-      (ii) compounding daily.
-(b) 
-  (1) This section shall not apply to any obligation issued by a natural person before June 9, 1997 .
-  (2) Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) 1 1 See References in Text note below. after June 8, 1997 .
-(c) This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
+- **(a)** For purposes of this title—
+  - **(1)** Amounts received by the holder on retirement of any debt instrument shall be considered as amounts received in exchange therefor.
+  - **(2)**
+    - **(A)** If at the time of original issue there was an intention to call a debt instrument before maturity, any gain realized on the sale or exchange thereof which does not exceed an amount equal to—
+      - **(i)** the original issue discount, reduced by
+      - **(ii)** the portion of original issue discount previously includible in the gross income of any holder (without regard to section 1272(a)(7) (or the corresponding provisions of prior law)),
+    - **(B)** This paragraph shall not apply to—
+      - **(i)** any tax-exempt obligation, or
+      - **(ii)** any holder who has purchased the debt instrument at a premium.
+  - **(3)**
+    - **(A)** On the sale or exchange of any short-term Government obligation, any gain realized which does not exceed an amount equal to the ratable share of the acquisition discount shall be treated as ordinary income.
+    - **(B)** For purposes of this paragraph, the term “short-term Government obligation” means any obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, which has a fixed maturity date not more than 1 year from the date of issue. Such term does not include any tax-exempt obligation.
+    - **(C)** For purposes of this paragraph, the term “acquisition discount” means the excess of the stated redemption price at maturity over the taxpayer’s basis for the obligation.
+    - **(D)** For purposes of this paragraph, except as provided in subparagraph (E), the ratable share of the acquisition discount is an amount which bears the same ratio to such discount as—
+      - **(i)** the number of days which the taxpayer held the obligation, bears to
+      - **(ii)** the number of days after the date the taxpayer acquired the obligation and up to (and including) the date of its maturity.
+    - **(E)** At the election of the taxpayer with respect to any obligation, the ratable share of the acquisition discount is the portion of the acquisition discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
+      - **(i)** the taxpayer’s yield to maturity based on the taxpayer’s cost of acquiring the obligation, and
+      - **(ii)** compounding daily.
+  - **(4)**
+    - **(A)** On the sale or exchange of any short-term nongovernment obligation, any gain realized which does not exceed an amount equal to the ratable share of the original issue discount shall be treated as ordinary income.
+    - **(B)** For purposes of this paragraph, the term “short-term nongovernment obligation” means any obligation which—
+      - **(i)** has a fixed maturity date not more than 1 year from the date of the issue, and
+      - **(ii)** is not a short-term Government obligation (as defined in paragraph (3)(B) without regard to the last sentence thereof).
+    - **(C)** For purposes of this paragraph, except as provided in subparagraph (D), the ratable share of the original issue discount is an amount which bears the same ratio to such discount as—
+      - **(i)** the number of days which the taxpayer held the obligation, bears to
+      - **(ii)** the number of days after the date of original issue and up to (and including) the date of its maturity.
+    - **(D)** At the election of the taxpayer with respect to any obligation, the ratable share of the original issue discount is the portion of the original issue discount accruing while the taxpayer held the obligation determined (under regulations prescribed by the Secretary) on the basis of—
+      - **(i)** the yield to maturity based on the issue price of the obligation, and
+      - **(ii)** compounding daily.
+- **(b)**
+  - **(1)** This section shall not apply to any obligation issued by a natural person before June 9, 1997 .
+  - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) 1 1 See References in Text note below. after June 8, 1997 .
+- **(c)** This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.

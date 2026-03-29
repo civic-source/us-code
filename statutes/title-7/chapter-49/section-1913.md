@@ -5,7 +5,7 @@ usc_section: "1913"
 chapter: 49
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1913"
-generated_at: "2026-03-29T00:28:58.059Z"
+generated_at: "2026-03-29T02:10:16.864Z"
 ---
 
 # § 1913. Authority of Secretary of Agriculture under other provisions of law and to establish and consult with advisory committees

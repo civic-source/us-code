@@ -5,31 +5,31 @@ usc_section: "33"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 33"
-generated_at: "2026-03-29T00:29:52.458Z"
+generated_at: "2026-03-29T02:11:53.488Z"
 ---
 
 # § 460l–33. Management of reclamation lands
 
-(a) 
-  (1) Upon a determination that any such fee, charge, or commission is reasonable and appropriate, the Secretary acting through the Commissioner of Reclamation, is authorized to establish—
-    (A) filing fees for applications and other documents concerning entry upon and use of Reclamation lands;
-    (B) recreation user fees; and
-    (C) charges or commissions for the use of Reclamation lands.
-  (2) The Secretary, acting through the Commissioner of Reclamation, shall promulgate such regulations as the Secretary determines to be necessary—
-    (A) to carry out the provisions of this section and section 460 l –34 of this title;
-    (B) to ensure the protection, comfort, and well-being of the public (including the protection of public safety) with respect to the use of Reclamation lands; and
-    (C) to ensure the protection of resource values.
-(b) The Secretary, acting through the Commissioner of Reclamation, is authorized to—
-  (1) prepare and maintain on a continuing basis an inventory of resources and uses made of Reclamation lands and resources, keep records of such inventory, and make such records available to the public; and
-  (2) ascertain the boundaries of Reclamation lands and provide a means for public identification (including, where appropriate, providing signs and maps).
-(c) 
-  (1) 
-    (A) 1 1 So in original. No par. (2) has been enacted. The Secretary, acting through the Commissioner of Reclamation, is authorized to develop, maintain, and revise resource management plans for Reclamation lands.
-    (B) Each plan described in subparagraph (A)—
-      (i) shall be consistent with applicable laws (including any applicable statute, regulation, or Executive order);
-      (ii) shall be developed in consultation with—
-        (I) such heads of Federal and non-Federal departments or agencies as the Secretary determines to be appropriate; and
-        (II) the authorized beneficiaries (as determined by the Secretary) of any Reclamation project included in the plan; and
-      (iii) shall be developed with appropriate public participation.
-    (C) Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a manner that is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
-(d) Funds expended by the Secretary in carrying out the provisions of this part shall be nonreimbursable under the Federal reclamation laws (the Act of June 17, 1902 ( 32 Stat. 388 , chapter 1093; 43 U.S.C. 371 ), 2 2 See References in Text note below. and Acts supplementary thereto and amendatory thereof).
+- **(a)**
+  - **(1)** Upon a determination that any such fee, charge, or commission is reasonable and appropriate, the Secretary acting through the Commissioner of Reclamation, is authorized to establish—
+    - **(A)** filing fees for applications and other documents concerning entry upon and use of Reclamation lands;
+    - **(B)** recreation user fees; and
+    - **(C)** charges or commissions for the use of Reclamation lands.
+  - **(2)** The Secretary, acting through the Commissioner of Reclamation, shall promulgate such regulations as the Secretary determines to be necessary—
+    - **(A)** to carry out the provisions of this section and section 460 l –34 of this title;
+    - **(B)** to ensure the protection, comfort, and well-being of the public (including the protection of public safety) with respect to the use of Reclamation lands; and
+    - **(C)** to ensure the protection of resource values.
+- **(b)** The Secretary, acting through the Commissioner of Reclamation, is authorized to—
+  - **(1)** prepare and maintain on a continuing basis an inventory of resources and uses made of Reclamation lands and resources, keep records of such inventory, and make such records available to the public; and
+  - **(2)** ascertain the boundaries of Reclamation lands and provide a means for public identification (including, where appropriate, providing signs and maps).
+- **(c)**
+  - **(1)**
+    - **(A)** 1 1 So in original. No par. (2) has been enacted. The Secretary, acting through the Commissioner of Reclamation, is authorized to develop, maintain, and revise resource management plans for Reclamation lands.
+    - **(B)** Each plan described in subparagraph (A)—
+      - **(i)** shall be consistent with applicable laws (including any applicable statute, regulation, or Executive order);
+      - **(ii)** shall be developed in consultation with—
+        - **(I)** such heads of Federal and non-Federal departments or agencies as the Secretary determines to be appropriate; and
+        - **(II)** the authorized beneficiaries (as determined by the Secretary) of any Reclamation project included in the plan; and
+      - **(iii)** shall be developed with appropriate public participation.
+    - **(C)** Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a manner that is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
+- **(d)** Funds expended by the Secretary in carrying out the provisions of this part shall be nonreimbursable under the Federal reclamation laws (the Act of June 17, 1902 ( 32 Stat. 388 , chapter 1093; 43 U.S.C. 371 ), 2 2 See References in Text note below. and Acts supplementary thereto and amendatory thereof).

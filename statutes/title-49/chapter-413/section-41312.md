@@ -5,12 +5,12 @@ usc_section: "41312"
 chapter: 413
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 41312"
-generated_at: "2026-03-29T00:33:13.872Z"
+generated_at: "2026-03-29T02:16:09.006Z"
 ---
 
 # § 41312. Ending or suspending foreign air transportation
 
-(a) An air carrier holding a certificate issued under section 41102 of this title to provide foreign air transportation—
-  (1) may end or suspend the transportation to a place under the certificate only when the carrier gives at least 90 days notice of its intention to end or suspend the transportation to the Secretary of Transportation, any community affected by that decision, and the State authority of the State in which a community is located; and
-  (2) if it is the only air carrier holding a certificate to provide non-stop or single-plane foreign air transportation between 2 places, may end or suspend the transportation between those places only when the carrier gives at least 60 days notice of its intention to end or suspend the transportation to the Secretary and each community directly affected by that decision.
-(b) The Secretary may authorize the temporary suspension of foreign air transportation under subsection (a) of this section when the Secretary finds the suspension is in the public interest.
+- **(a)** An air carrier holding a certificate issued under section 41102 of this title to provide foreign air transportation—
+  - **(1)** may end or suspend the transportation to a place under the certificate only when the carrier gives at least 90 days notice of its intention to end or suspend the transportation to the Secretary of Transportation, any community affected by that decision, and the State authority of the State in which a community is located; and
+  - **(2)** if it is the only air carrier holding a certificate to provide non-stop or single-plane foreign air transportation between 2 places, may end or suspend the transportation between those places only when the carrier gives at least 60 days notice of its intention to end or suspend the transportation to the Secretary and each community directly affected by that decision.
+- **(b)** The Secretary may authorize the temporary suspension of foreign air transportation under subsection (a) of this section when the Secretary finds the suspension is in the public interest.

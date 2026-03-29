@@ -5,7 +5,7 @@ usc_section: "9501"
 chapter: 95
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 9501"
-generated_at: "2026-03-29T00:31:52.664Z"
+generated_at: "2026-03-29T02:14:14.123Z"
 ---
 
 # § 9501. Purpose

@@ -5,13 +5,13 @@ usc_section: "2771"
 chapter: 39
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2771"
-generated_at: "2026-03-29T00:30:33.861Z"
+generated_at: "2026-03-29T02:12:40.263Z"
 ---
 
 # § 2771. Military sales authorizations and ceilings
 
-(a) There are authorized to be appropriated to the President to carry out this chapter $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987. Credits may not be extended under section 2763 of this title in an amount, and loans may not be guaranteed under section 2764(a) of this title in a principal amount, which exceeds any maximum amount which may be established with respect to such credits or such loan guarantees in legislation appropriating funds to carry out this chapter. Unobligated balances of funds made available pursuant to this section are hereby authorized to be continued available by appropriations legislation to carry out this chapter.
-(b) 
-  (1) The total amount of credits extended under section 2763 of this title shall not exceed $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987.
-  (2) Of the aggregate amount of financing provided under this section, not more than $553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
-(c) Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
+- **(a)** There are authorized to be appropriated to the President to carry out this chapter $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987. Credits may not be extended under section 2763 of this title in an amount, and loans may not be guaranteed under section 2764(a) of this title in a principal amount, which exceeds any maximum amount which may be established with respect to such credits or such loan guarantees in legislation appropriating funds to carry out this chapter. Unobligated balances of funds made available pursuant to this section are hereby authorized to be continued available by appropriations legislation to carry out this chapter.
+- **(b)**
+  - **(1)** The total amount of credits extended under section 2763 of this title shall not exceed $5,371,000,000 for fiscal year 1986 and $5,371,000,000 for fiscal year 1987.
+  - **(2)** Of the aggregate amount of financing provided under this section, not more than $553,900,000 for fiscal year 1986 and not more than $553,900,000 for fiscal year 1987 may be made available at concessional rates of interest. If a country is released from its contractual liability to repay the United States Government with respect to financing provided under this section, such financing shall not be considered to be financing provided at concessional rates of interest for purposes of the limitation established by this paragraph.
+- **(c)** Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.

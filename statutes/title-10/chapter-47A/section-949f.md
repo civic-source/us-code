@@ -5,11 +5,11 @@ usc_section: "949f"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 949f"
-generated_at: "2026-03-29T00:20:52.913Z"
+generated_at: "2026-03-29T02:10:44.936Z"
 ---
 
 # § 949f. Challenges
 
-(a) The military judge and primary or alternate members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
-(b) The accused and trial counsel are each entitled to one peremptory challenge, but the military judge may not be challenged except for cause. Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.
-(c) Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.
+- **(a)** The military judge and primary or alternate members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
+- **(b)** The accused and trial counsel are each entitled to one peremptory challenge, but the military judge may not be challenged except for cause. Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.
+- **(c)** Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.

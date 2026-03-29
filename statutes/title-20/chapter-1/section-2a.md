@@ -5,7 +5,7 @@ usc_section: "2a"
 chapter: 1
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 2a"
-generated_at: "2026-03-29T00:07:03.093Z"
+generated_at: "2026-03-29T02:12:17.128Z"
 ---
 
 # § 2a. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 647

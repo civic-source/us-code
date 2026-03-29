@@ -5,21 +5,21 @@ usc_section: "4252"
 chapter: 33
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4252"
-generated_at: "2026-03-29T00:31:20.947Z"
+generated_at: "2026-03-29T02:14:01.210Z"
 ---
 
 # § 4252. Definitions
 
-(a) For purposes of this subchapter, the term “local telephone service” means—
-  (1) the access to a local telephone system, and the privilege of telephonic quality communication with substantially all persons having telephone or radio telephone stations constituting a part of such local telephone system, and
-  (2) any facility or service provided in connection with a service described in paragraph (1).
-(b) For purposes of this subchapter, the term “toll telephone service” means—
-  (1) a telephonic quality communication for which (A) there is a toll charge which varies in amount with the distance and elapsed transmission time of each individual communication and (B) the charge is paid within the United States, and
-  (2) a service which entitles the subscriber, upon payment of a periodic charge (determined as a flat amount or upon the basis of total elapsed transmission time), to the privilege of an unlimited number of telephonic communications to or from all or a substantial portion of the persons having telephone or radio telephone stations in a specified area which is outside the local telephone system area in which the station provided with this service is located.
-(c) For purposes of this subchapter, the term “teletypewriter exchange service” means the access from a teletypewriter or other data station to the teletypewriter exchange system of which such station is a part, and the privilege of intercommunication by such station with substantially all persons having teletypewriter or other data stations constituting a part of the same teletypewriter exchange system, to which the subscriber is entitled upon payment of a charge or charges (whether such charge or charges are determined as a flat periodic amount, on the basis of distance and elapsed transmission time, or in some other manner). The term “teletypewriter exchange service” does not include any service which is “local telephone service” as defined in subsection (a).
-(d) For purposes of this subchapter, the term “private communication service” means—
-  (1) the communication service furnished to a subscriber which entitles the subscriber—
-    (A) to exclusive or priority use of any communication channel or groups of channels, or
-    (B) to the use of an intercommunication system for the subscriber’s stations,
-  (2) switching capacity, extension lines and stations, or other associated services which are provided in connection with, and are necessary or unique to the use of, channels or systems described in paragraph (1), and
-  (3) the channel mileage which connects a telephone station located outside a local telephone system area with a central office in such local telephone system,
+- **(a)** For purposes of this subchapter, the term “local telephone service” means—
+  - **(1)** the access to a local telephone system, and the privilege of telephonic quality communication with substantially all persons having telephone or radio telephone stations constituting a part of such local telephone system, and
+  - **(2)** any facility or service provided in connection with a service described in paragraph (1).
+- **(b)** For purposes of this subchapter, the term “toll telephone service” means—
+  - **(1)** a telephonic quality communication for which (A) there is a toll charge which varies in amount with the distance and elapsed transmission time of each individual communication and (B) the charge is paid within the United States, and
+  - **(2)** a service which entitles the subscriber, upon payment of a periodic charge (determined as a flat amount or upon the basis of total elapsed transmission time), to the privilege of an unlimited number of telephonic communications to or from all or a substantial portion of the persons having telephone or radio telephone stations in a specified area which is outside the local telephone system area in which the station provided with this service is located.
+- **(c)** For purposes of this subchapter, the term “teletypewriter exchange service” means the access from a teletypewriter or other data station to the teletypewriter exchange system of which such station is a part, and the privilege of intercommunication by such station with substantially all persons having teletypewriter or other data stations constituting a part of the same teletypewriter exchange system, to which the subscriber is entitled upon payment of a charge or charges (whether such charge or charges are determined as a flat periodic amount, on the basis of distance and elapsed transmission time, or in some other manner). The term “teletypewriter exchange service” does not include any service which is “local telephone service” as defined in subsection (a).
+- **(d)** For purposes of this subchapter, the term “private communication service” means—
+  - **(1)** the communication service furnished to a subscriber which entitles the subscriber—
+    - **(A)** to exclusive or priority use of any communication channel or groups of channels, or
+    - **(B)** to the use of an intercommunication system for the subscriber’s stations,
+  - **(2)** switching capacity, extension lines and stations, or other associated services which are provided in connection with, and are necessary or unique to the use of, channels or systems described in paragraph (1), and
+  - **(3)** the channel mileage which connects a telephone station located outside a local telephone system area with a central office in such local telephone system,

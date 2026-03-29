@@ -5,7 +5,7 @@ usc_section: "2137"
 chapter: 106
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2137"
-generated_at: "2026-03-29T00:20:53.019Z"
+generated_at: "2026-03-29T02:10:45.064Z"
 ---
 
 # [§ 2137. Renumbered § 16137]

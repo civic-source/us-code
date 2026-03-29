@@ -5,10 +5,10 @@ usc_section: "3502"
 chapter: 25
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 3502"
-generated_at: "2026-03-29T00:31:20.939Z"
+generated_at: "2026-03-29T02:14:01.201Z"
 ---
 
 # § 3502. Nondeductibility of taxes in computing taxable income
 
-(a) The taxes imposed by section 3101 of chapter 21, and by sections 3201 and 3211 of chapter 22 shall not be allowed as a deduction to the taxpayer in computing taxable income under subtitle A.
-(b) The tax deducted and withheld under chapter 24 shall not be allowed as a deduction either to the employer or to the recipient of the income in computing taxable income under subtitle A.
+- **(a)** The taxes imposed by section 3101 of chapter 21, and by sections 3201 and 3211 of chapter 22 shall not be allowed as a deduction to the taxpayer in computing taxable income under subtitle A.
+- **(b)** The tax deducted and withheld under chapter 24 shall not be allowed as a deduction either to the employer or to the recipient of the income in computing taxable income under subtitle A.

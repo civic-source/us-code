@@ -5,7 +5,7 @@ usc_section: "5507"
 chapter: 71
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5507"
-generated_at: "2026-03-29T00:32:53.930Z"
+generated_at: "2026-03-29T02:15:36.777Z"
 ---
 
 # § 5507. Arrangements with Federal agencies for development and demonstration of solar heating and combined heating and cooling systems for commercial buildings

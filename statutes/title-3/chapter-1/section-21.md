@@ -5,13 +5,13 @@ usc_section: "21"
 chapter: 1
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 21"
-generated_at: "2026-03-29T00:06:12.113Z"
+generated_at: "2026-03-29T02:09:54.801Z"
 ---
 
 # § 21. Definitions
 
 As used in this chapter the term—
 
-  (1) “election day” means the Tuesday next after the first Monday in November, in every fourth year succeeding every election of a President and Vice President held in each State, except, in the case of a State that appoints electors by popular vote, if the State modifies the period of voting, as necessitated by force majeure events that are extraordinary and catastrophic, as provided under laws of the State enacted prior to such day, “election day” shall include the modified period of voting.
-  (2) “State” includes the District of Columbia.
-  (3) “executive” means, with respect to any State, the Governor of the State (or, in the case of the District of Columbia, the Mayor of the District of Columbia), except when the laws or constitution of a State in effect as of election day expressly require a different State executive to perform the duties identified under this chapter.
+  - **(1)** “election day” means the Tuesday next after the first Monday in November, in every fourth year succeeding every election of a President and Vice President held in each State, except, in the case of a State that appoints electors by popular vote, if the State modifies the period of voting, as necessitated by force majeure events that are extraordinary and catastrophic, as provided under laws of the State enacted prior to such day, “election day” shall include the modified period of voting.
+  - **(2)** “State” includes the District of Columbia.
+  - **(3)** “executive” means, with respect to any State, the Governor of the State (or, in the case of the District of Columbia, the Mayor of the District of Columbia), except when the laws or constitution of a State in effect as of election day expressly require a different State executive to perform the duties identified under this chapter.

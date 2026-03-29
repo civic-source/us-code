@@ -5,7 +5,7 @@ usc_section: "58"
 chapter: 1
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 58"
-generated_at: "2026-03-29T00:30:20.099Z"
+generated_at: "2026-03-29T02:12:08.583Z"
 ---
 
 # § 58. Repealed. Pub. L. 95–410, title II, § 214(a) , Oct. 3, 1978 , 92 Stat. 904

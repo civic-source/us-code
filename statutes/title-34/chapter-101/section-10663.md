@@ -5,13 +5,13 @@ usc_section: "10663"
 chapter: 101
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 10663"
-generated_at: "2026-03-29T00:32:01.587Z"
+generated_at: "2026-03-29T02:14:25.290Z"
 ---
 
 # § 10663. Grants for programs for drug-endangered children
 
-(a) The Attorney General shall make grants to States, territories, and Indian tribes (as defined in section 10554 of this title ) for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a home in which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
-(b) The Attorney General shall ensure that the services carried out with grants under subsection (a) include the following:
-  (1) Coordination among law enforcement agencies, prosecutors, child protective services, social services, health care services, and any other services determined to be appropriate by the Attorney General to provide assistance regarding the problems of children described in subsection (a).
-  (2) Transition of children from toxic or drug-endangering environments to appropriate residential environments.
-(c) For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.
+- **(a)** The Attorney General shall make grants to States, territories, and Indian tribes (as defined in section 10554 of this title ) for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a home in which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
+- **(b)** The Attorney General shall ensure that the services carried out with grants under subsection (a) include the following:
+  - **(1)** Coordination among law enforcement agencies, prosecutors, child protective services, social services, health care services, and any other services determined to be appropriate by the Attorney General to provide assistance regarding the problems of children described in subsection (a).
+  - **(2)** Transition of children from toxic or drug-endangering environments to appropriate residential environments.
+- **(c)** For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.

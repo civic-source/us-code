@@ -5,7 +5,7 @@ usc_section: "617h"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 617h"
-generated_at: "2026-03-29T00:32:57.371Z"
+generated_at: "2026-03-29T02:15:47.559Z"
 ---
 
 # § 617h. Lands capable of irrigation and reclamation by irrigation works; public entry; preferences

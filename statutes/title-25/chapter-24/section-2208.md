@@ -5,7 +5,7 @@ usc_section: "2208"
 chapter: 24
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2208"
-generated_at: "2026-03-29T00:30:38.734Z"
+generated_at: "2026-03-29T02:13:20.938Z"
 ---
 
 # § 2208. Conveyancing authority upon sale or exchange of tribal lands; removal of trust status of individually owned lands

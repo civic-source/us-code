@@ -5,7 +5,7 @@ usc_section: "3513"
 chapter: 50
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 3513"
-generated_at: "2026-03-29T00:30:33.883Z"
+generated_at: "2026-03-29T02:12:40.292Z"
 ---
 
 # § 3513. Expiration of statutory authorities

@@ -5,10 +5,10 @@ usc_section: "1701"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1701"
-generated_at: "2026-03-29T00:28:58.043Z"
+generated_at: "2026-03-29T02:10:16.846Z"
 ---
 
 # § 1701. Economic assistance and food security
 
-(a) The President shall establish a program under this subchapter to provide for the sale of agricultural commodities to developing countries and private entities for dollars on credit terms, or for local currencies (including for local currencies on credit terms) for use under this subchapter. Such program shall be implemented by the Secretary.
-(b) To carry out the policies and accomplish the objectives described in section 1691 of this title , the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.
+- **(a)** The President shall establish a program under this subchapter to provide for the sale of agricultural commodities to developing countries and private entities for dollars on credit terms, or for local currencies (including for local currencies on credit terms) for use under this subchapter. Such program shall be implemented by the Secretary.
+- **(b)** To carry out the policies and accomplish the objectives described in section 1691 of this title , the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.

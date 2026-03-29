@@ -5,7 +5,7 @@ usc_section: "1765h"
 chapter: 43
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1765h"
-generated_at: "2026-03-29T00:28:58.056Z"
+generated_at: "2026-03-29T02:10:16.861Z"
 ---
 
 # § 1765h. Representation allowance

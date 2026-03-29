@@ -5,12 +5,12 @@ usc_section: "3031"
 chapter: 43
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3031"
-generated_at: "2026-03-29T00:31:57.452Z"
+generated_at: "2026-03-29T02:14:18.650Z"
 ---
 
 # § 3031. Pay and allowances; date of acceptance of promotion
 
-(a) An officer of the commissioned corps who is promoted to a higher grade—
-  (1) is deemed for all purposes to have accepted the promotion upon the date the promotion is made by the President, unless the officer expressly declines the promotion; and
-  (2) shall receive the pay and allowances of the higher grade from that date unless the officer is entitled under another provision of law to receive the pay and allowances of the higher grade from an earlier date.
-(b) An officer who subscribed to the oath of office required by section 3331 of title 5 shall not be required to renew such oath or to take a new oath upon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.
+- **(a)** An officer of the commissioned corps who is promoted to a higher grade—
+  - **(1)** is deemed for all purposes to have accepted the promotion upon the date the promotion is made by the President, unless the officer expressly declines the promotion; and
+  - **(2)** shall receive the pay and allowances of the higher grade from that date unless the officer is entitled under another provision of law to receive the pay and allowances of the higher grade from an earlier date.
+- **(b)** An officer who subscribed to the oath of office required by section 3331 of title 5 shall not be required to renew such oath or to take a new oath upon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.

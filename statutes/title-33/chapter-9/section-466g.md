@@ -5,7 +5,7 @@ usc_section: "466g"
 chapter: 9
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 466g"
-generated_at: "2026-03-29T00:31:57.171Z"
+generated_at: "2026-03-29T02:14:18.487Z"
 ---
 
 # §§ 466 to 466g. Transferred

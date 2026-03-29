@@ -5,20 +5,20 @@ usc_section: "4361c"
 chapter: 55
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4361c"
-generated_at: "2026-03-29T00:32:53.866Z"
+generated_at: "2026-03-29T02:15:36.703Z"
 ---
 
 # § 4361c. Staff management
 
-(a) 
-  (1) The Administrator is authorized to select and appoint up to 75 full-time permanent staff members in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency’s research mission.
-  (2) The Administrator shall select and appoint staff members for these assignments according to rules and criteria promulgated by him. The Agency may continue to pay the salary and benefits of the appointees as well as reasonable and appropriate relocation expenses and tuition.
-  (3) The term of each appointment shall be for up to one year, with a single renewal of up to one year in appropriate cases at the discretion of the Administrator.
-  (4) Staff members appointed to this program shall not count against any Agency personnel ceiling during the term of their appointment.
-(b) 
-  (1) The Administrator is authorized to appoint up to 25 Post-doctoral Research Fellows in accordance with the provisions of section 213.3102(aa) of title 5 of the Code of Federal Regulations.
-  (2) Persons holding these appointments shall not count against any personnel ceiling of the Agency.
-(c) 
-  (1) The Administrator is authorized and encouraged to utilize research associates from outside the Federal Government in conducting the research, development, and demonstration programs of the Agency.
-  (2) These persons shall be selected and shall serve according to rules and criteria promulgated by the Administrator.
-(d) For all programs in this section, the Administrator shall place special emphasis on providing opportunities for education and training of women and minority groups.
+- **(a)**
+  - **(1)** The Administrator is authorized to select and appoint up to 75 full-time permanent staff members in the Office of Research and Development to pursue full-time educational programs for the purpose of (A) securing an advanced degree or (B) securing academic training, for the purpose of making a career change in order to better carry out the Agency’s research mission.
+  - **(2)** The Administrator shall select and appoint staff members for these assignments according to rules and criteria promulgated by him. The Agency may continue to pay the salary and benefits of the appointees as well as reasonable and appropriate relocation expenses and tuition.
+  - **(3)** The term of each appointment shall be for up to one year, with a single renewal of up to one year in appropriate cases at the discretion of the Administrator.
+  - **(4)** Staff members appointed to this program shall not count against any Agency personnel ceiling during the term of their appointment.
+- **(b)**
+  - **(1)** The Administrator is authorized to appoint up to 25 Post-doctoral Research Fellows in accordance with the provisions of section 213.3102(aa) of title 5 of the Code of Federal Regulations.
+  - **(2)** Persons holding these appointments shall not count against any personnel ceiling of the Agency.
+- **(c)**
+  - **(1)** The Administrator is authorized and encouraged to utilize research associates from outside the Federal Government in conducting the research, development, and demonstration programs of the Agency.
+  - **(2)** These persons shall be selected and shall serve according to rules and criteria promulgated by the Administrator.
+- **(d)** For all programs in this section, the Administrator shall place special emphasis on providing opportunities for education and training of women and minority groups.

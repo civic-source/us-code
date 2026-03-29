@@ -5,14 +5,14 @@ usc_section: "4701"
 chapter: 29
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 4701"
-generated_at: "2026-03-29T00:30:20.318Z"
+generated_at: "2026-03-29T02:12:08.786Z"
 ---
 
 # § 4701. Definitions
 
 In this subchapter:
 
-  (1) The term “environmental law” has the meaning given the term in article 24.1 of the USMCA.
-  (2) The term “environmental obligations” means obligations relating to the environment under—
-    (A) chapter 1 of the USMCA (relating to initial provisions and general definitions); and
-    (B) chapter 24 of the USMCA (relating to environment).
+  - **(1)** The term “environmental law” has the meaning given the term in article 24.1 of the USMCA.
+  - **(2)** The term “environmental obligations” means obligations relating to the environment under—
+    - **(A)** chapter 1 of the USMCA (relating to initial provisions and general definitions); and
+    - **(B)** chapter 24 of the USMCA (relating to environment).

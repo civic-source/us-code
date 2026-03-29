@@ -5,29 +5,29 @@ usc_section: "4305"
 chapter: 44
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 4305"
-generated_at: "2026-03-29T00:30:38.785Z"
+generated_at: "2026-03-29T02:13:20.998Z"
 ---
 
 # § 4305. Intertribal tourism demonstration projects
 
-(a) 
-  (1) The Secretary, acting through the Director, shall conduct a Native American tourism program to facilitate the development and conduct of tourism demonstration projects by Indian Tribes, on a Tribal, intertribal, or regional basis.
-  (2) 
-    (A) Under the program established under this section, in order to assist in the development and promotion of tourism on and in the vicinity of Indian lands, the Secretary, acting through the Director, shall, in coordination with the Under Secretary of Agriculture for Rural Development, assist eligible entities in the planning, development, and implementation of tourism development demonstration projects that meet the criteria described in subparagraph (B).
-    (B) In selecting tourism development demonstration projects under this section, the Secretary, acting through the Director, shall select projects that have the potential to increase travel and tourism revenues by attracting visitors to Indian lands and lands in the vicinity of Indian lands, including projects that provide for—
-      (i) the development and distribution of educational and promotional materials pertaining to attractions located on and near Indian lands;
-      (ii) the development of educational resources to assist in private and public tourism development on and in the vicinity of Indian lands; and
-      (iii) the coordination of tourism-related joint ventures and cooperative efforts between eligible entities and appropriate State and local governments that have jurisdiction over areas in the vicinity of Indian lands.
-  (3) To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian Tribes, Tribal organizations, intertribal consortia, or other Tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
-  (4) In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through the Director, shall provide for a demonstration project to be conducted—
-    (A) for Indians of the Four Corners area located in the area adjacent to the border between Arizona, Utah, Colorado, and New Mexico;
-    (B) for Indians of the northwestern area that is commonly known as the Great Northwest (as determined by the Secretary);
-    (C) for the Oklahoma Indians in Oklahoma;
-    (D) for the Indians of the Great Plains area (as determined by the Secretary); and
-    (E) for Alaska Natives in Alaska.
-(b) The Secretary, acting through the Director, shall provide financial assistance, technical assistance, and administrative services to participants that the Secretary, acting through the Director, selects to carry out a tourism development project under this section, with respect to—
-  (1) feasibility studies conducted as part of that project;
-  (2) market analyses;
-  (3) participation in tourism and trade missions; and
-  (4) any other activity that the Secretary, in consultation with the Director, determines to be appropriate to carry out this section.
-(c) The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.
+- **(a)**
+  - **(1)** The Secretary, acting through the Director, shall conduct a Native American tourism program to facilitate the development and conduct of tourism demonstration projects by Indian Tribes, on a Tribal, intertribal, or regional basis.
+  - **(2)**
+    - **(A)** Under the program established under this section, in order to assist in the development and promotion of tourism on and in the vicinity of Indian lands, the Secretary, acting through the Director, shall, in coordination with the Under Secretary of Agriculture for Rural Development, assist eligible entities in the planning, development, and implementation of tourism development demonstration projects that meet the criteria described in subparagraph (B).
+    - **(B)** In selecting tourism development demonstration projects under this section, the Secretary, acting through the Director, shall select projects that have the potential to increase travel and tourism revenues by attracting visitors to Indian lands and lands in the vicinity of Indian lands, including projects that provide for—
+      - **(i)** the development and distribution of educational and promotional materials pertaining to attractions located on and near Indian lands;
+      - **(ii)** the development of educational resources to assist in private and public tourism development on and in the vicinity of Indian lands; and
+      - **(iii)** the coordination of tourism-related joint ventures and cooperative efforts between eligible entities and appropriate State and local governments that have jurisdiction over areas in the vicinity of Indian lands.
+  - **(3)** To carry out the program under this section, the Secretary, acting through the Director, may award grants or enter into other appropriate arrangements with Indian Tribes, Tribal organizations, intertribal consortia, or other Tribal entities that the Secretary, in consultation with the Director, determines to be appropriate.
+  - **(4)** In providing for tourism development demonstration projects under the program under this section, the Secretary, acting through the Director, shall provide for a demonstration project to be conducted—
+    - **(A)** for Indians of the Four Corners area located in the area adjacent to the border between Arizona, Utah, Colorado, and New Mexico;
+    - **(B)** for Indians of the northwestern area that is commonly known as the Great Northwest (as determined by the Secretary);
+    - **(C)** for the Oklahoma Indians in Oklahoma;
+    - **(D)** for the Indians of the Great Plains area (as determined by the Secretary); and
+    - **(E)** for Alaska Natives in Alaska.
+- **(b)** The Secretary, acting through the Director, shall provide financial assistance, technical assistance, and administrative services to participants that the Secretary, acting through the Director, selects to carry out a tourism development project under this section, with respect to—
+  - **(1)** feasibility studies conducted as part of that project;
+  - **(2)** market analyses;
+  - **(3)** participation in tourism and trade missions; and
+  - **(4)** any other activity that the Secretary, in consultation with the Director, determines to be appropriate to carry out this section.
+- **(c)** The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.

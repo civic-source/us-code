@@ -5,12 +5,12 @@ usc_section: "6415"
 chapter: 65
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6415"
-generated_at: "2026-03-29T00:31:21.054Z"
+generated_at: "2026-03-29T02:14:01.338Z"
 ---
 
 # § 6415. Credits or refunds to persons who collected certain taxes
 
-(a) Credit or refund of any overpayment of tax imposed by section 4251, 4261, or 4271 may be allowed to the person who collected the tax and paid it to the Secretary if such person establishes, under such regulations as the Secretary may prescribe, that he has repaid the amount of such tax to the person from whom he collected it, or obtains the consent of such person to the allowance of such credit or refund.
-(b) Any person entitled to a refund of tax imposed by section 4251, 4261, or 4271 paid, or collected and paid, to the Secretary by him may, instead of filing a claim for refund, take credit therefor against taxes imposed by such section due upon any subsequent return.
-(c) In case any person required under section 4251, 4261, or 4271 to collect any tax shall make an overcollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
-(d) Any person making a refund of any payment on which tax imposed by section 4251, 4261, or 4271 has been collected may repay therewith the amount of tax collected on such payment.
+- **(a)** Credit or refund of any overpayment of tax imposed by section 4251, 4261, or 4271 may be allowed to the person who collected the tax and paid it to the Secretary if such person establishes, under such regulations as the Secretary may prescribe, that he has repaid the amount of such tax to the person from whom he collected it, or obtains the consent of such person to the allowance of such credit or refund.
+- **(b)** Any person entitled to a refund of tax imposed by section 4251, 4261, or 4271 paid, or collected and paid, to the Secretary by him may, instead of filing a claim for refund, take credit therefor against taxes imposed by such section due upon any subsequent return.
+- **(c)** In case any person required under section 4251, 4261, or 4271 to collect any tax shall make an overcollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
+- **(d)** Any person making a refund of any payment on which tax imposed by section 4251, 4261, or 4271 has been collected may repay therewith the amount of tax collected on such payment.

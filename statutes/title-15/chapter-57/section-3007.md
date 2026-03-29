@@ -5,11 +5,11 @@ usc_section: "3007"
 chapter: 57
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3007"
-generated_at: "2026-03-29T00:29:41.820Z"
+generated_at: "2026-03-29T02:11:34.324Z"
 ---
 
 # § 3007. Jurisdiction and venue
 
-(a) Notwithstanding any other provision of law, the district courts of the United States shall have jurisdiction over any civil action under this chapter, without regard to the citizenship of the parties or the amount in controversy.
-(b) A civil action under this chapter may be brought in any district court of the United States for a district located in the host State or the off-track State, and all process in any such civil action may be served in any judicial district of the United States.
-(c) The jurisdiction of the district courts of the United States pursuant to this section shall be concurrent with that of any State court of competent jurisdiction located in the host State or the off-track State.
+- **(a)** Notwithstanding any other provision of law, the district courts of the United States shall have jurisdiction over any civil action under this chapter, without regard to the citizenship of the parties or the amount in controversy.
+- **(b)** A civil action under this chapter may be brought in any district court of the United States for a district located in the host State or the off-track State, and all process in any such civil action may be served in any judicial district of the United States.
+- **(c)** The jurisdiction of the district courts of the United States pursuant to this section shall be concurrent with that of any State court of competent jurisdiction located in the host State or the off-track State.

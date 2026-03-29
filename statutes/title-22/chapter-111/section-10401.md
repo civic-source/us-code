@@ -5,19 +5,19 @@ usc_section: "10401"
 chapter: 111
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 10401"
-generated_at: "2026-03-29T00:30:34.074Z"
+generated_at: "2026-03-29T02:12:40.523Z"
 ---
 
 # § 10401. Definitions
 
 In this chapter:
 
-  (1) Except as otherwise provided, the term “appropriate congressional committees” means—
-    (A) the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
-    (B) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.
-  (2) 
-    (A) The term “AUKUS partnership” means the enhanced trilateral security partnership between Australia, the United Kingdom, and the United States announced in September 2021.
-    (B) The AUKUS partnership includes the following two pillars:
-      (i) Pillar One is focused on developing a pathway for Australia to acquire conventionally armed, nuclear-powered submarines.
-      (ii) Pillar Two is focused on enhancing trilateral collaboration on advanced defense capabilities, including hypersonic and counter hypersonic capabilities, quantum technologies, undersea technologies, and artificial intelligence.
-  (3) The term “International Traffic in Arms Regulations” means subchapter M of chapter I of title 22, Code of Federal Regulations (or successor regulations).
+  - **(1)** Except as otherwise provided, the term “appropriate congressional committees” means—
+    - **(A)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+    - **(B)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.
+  - **(2)**
+    - **(A)** The term “AUKUS partnership” means the enhanced trilateral security partnership between Australia, the United Kingdom, and the United States announced in September 2021.
+    - **(B)** The AUKUS partnership includes the following two pillars:
+      - **(i)** Pillar One is focused on developing a pathway for Australia to acquire conventionally armed, nuclear-powered submarines.
+      - **(ii)** Pillar Two is focused on enhancing trilateral collaboration on advanced defense capabilities, including hypersonic and counter hypersonic capabilities, quantum technologies, undersea technologies, and artificial intelligence.
+  - **(3)** The term “International Traffic in Arms Regulations” means subchapter M of chapter I of title 22, Code of Federal Regulations (or successor regulations).

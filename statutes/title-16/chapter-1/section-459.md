@@ -5,7 +5,7 @@ usc_section: "459"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 459"
-generated_at: "2026-03-29T00:29:52.441Z"
+generated_at: "2026-03-29T02:11:53.469Z"
 ---
 
 # § 459. Cape Hatteras National Seashore Recreational Area; conditional establishment; acquisition of lands

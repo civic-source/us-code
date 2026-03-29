@@ -5,20 +5,20 @@ usc_section: "3621"
 chapter: 36
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3621"
-generated_at: "2026-03-29T00:32:18.858Z"
+generated_at: "2026-03-29T02:14:53.132Z"
 ---
 
 # § 3621. Applicability; definitions
 
-(a) This subchapter shall apply with respect to—
-  (1) first-class mail letters and sealed parcels;
-  (2) first-class mail cards;
-  (3) periodicals;
-  (4) standard mail;
-  (5) single-piece parcel post;
-  (6) media mail;
-  (7) bound printed matter;
-  (8) library mail;
-  (9) special services; and
-  (10) single-piece international mail,
-(b) Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
+- **(a)** This subchapter shall apply with respect to—
+  - **(1)** first-class mail letters and sealed parcels;
+  - **(2)** first-class mail cards;
+  - **(3)** periodicals;
+  - **(4)** standard mail;
+  - **(5)** single-piece parcel post;
+  - **(6)** media mail;
+  - **(7)** bound printed matter;
+  - **(8)** library mail;
+  - **(9)** special services; and
+  - **(10)** single-piece international mail,
+- **(b)** Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.

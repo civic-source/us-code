@@ -5,7 +5,7 @@ usc_section: "837e"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 837e"
-generated_at: "2026-03-29T00:29:52.661Z"
+generated_at: "2026-03-29T02:11:53.709Z"
 ---
 
 # § 837e. Transmission lines for other electric energy; rates

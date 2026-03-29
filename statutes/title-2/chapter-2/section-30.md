@@ -5,7 +5,7 @@ usc_section: "30"
 chapter: 2
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 30"
-generated_at: "2026-03-29T00:06:10.857Z"
+generated_at: "2026-03-29T02:09:53.627Z"
 ---
 
 # § 30. Term of service of Members of Congress as trustees or directors of corporations or institutions appropriated for

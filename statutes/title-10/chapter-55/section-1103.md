@@ -5,13 +5,13 @@ usc_section: "1103"
 chapter: 55
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 1103"
-generated_at: "2026-03-29T00:20:52.949Z"
+generated_at: "2026-03-29T02:10:44.979Z"
 ---
 
 # § 1103. Contracts for medical and dental care: State and local preemption
 
-(a) A law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery or financing methods shall not apply to any contract entered into pursuant to this chapter by the Secretary of Defense or the administering Secretaries to the extent that the Secretary of Defense or the administering Secretaries determine that—
-  (1) the State or local law or regulation is inconsistent with a specific provision of the contract or a regulation promulgated by the Secretary of Defense or the administering Secretaries pursuant to this chapter; or
-  (2) the preemption of the State or local law or regulation is necessary to implement or administer the provisions of the contract or to achieve any other important Federal interest.
-(b) In the case of the preemption under subsection (a) of a State or local law or regulation regarding financial solvency, the Secretary of Defense or the administering Secretaries shall require an independent audit of the prime contractor of each contract that is entered into pursuant to this chapter and covered by the preemption. The audit shall be performed by the Defense Contract Audit Agency.
-(c) In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
+- **(a)** A law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery or financing methods shall not apply to any contract entered into pursuant to this chapter by the Secretary of Defense or the administering Secretaries to the extent that the Secretary of Defense or the administering Secretaries determine that—
+  - **(1)** the State or local law or regulation is inconsistent with a specific provision of the contract or a regulation promulgated by the Secretary of Defense or the administering Secretaries pursuant to this chapter; or
+  - **(2)** the preemption of the State or local law or regulation is necessary to implement or administer the provisions of the contract or to achieve any other important Federal interest.
+- **(b)** In the case of the preemption under subsection (a) of a State or local law or regulation regarding financial solvency, the Secretary of Defense or the administering Secretaries shall require an independent audit of the prime contractor of each contract that is entered into pursuant to this chapter and covered by the preemption. The audit shall be performed by the Defense Contract Audit Agency.
+- **(c)** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.

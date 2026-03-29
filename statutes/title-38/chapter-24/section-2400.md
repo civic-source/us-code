@@ -5,13 +5,13 @@ usc_section: "2400"
 chapter: 24
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 2400"
-generated_at: "2026-03-29T00:32:17.233Z"
+generated_at: "2026-03-29T02:14:50.391Z"
 ---
 
 # § 2400. Establishment of National Cemetery Administration; composition of Administration
 
-(a) There shall be within the Department a National Cemetery Administration responsible for the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
-(b) The national cemeteries and other facilities under the control of the National Cemetery Administration shall consist of—
-  (1) national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973;
-  (2) cemeteries under the jurisdiction of the Veterans’ Administration on the date of enactment of this chapter; and
-  (3) any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.
+- **(a)** There shall be within the Department a National Cemetery Administration responsible for the interment of deceased servicemembers and veterans. The National Cemetery Administration shall be headed by the Under Secretary for Memorial Affairs, who shall perform such functions as may be assigned by the Secretary.
+- **(b)** The national cemeteries and other facilities under the control of the National Cemetery Administration shall consist of—
+  - **(1)** national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973;
+  - **(2)** cemeteries under the jurisdiction of the Veterans’ Administration on the date of enactment of this chapter; and
+  - **(3)** any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, or later acquired or developed by the Secretary.

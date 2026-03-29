@@ -5,7 +5,7 @@ usc_section: "2157"
 chapter: 105
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2157"
-generated_at: "2026-03-29T00:30:15.693Z"
+generated_at: "2026-03-29T02:12:02.436Z"
 ---
 
 # [§ 2157. Repealed. Pub. L. 103–322, title XXXIII, § 330004(13) , Sept. 13, 1994 , 108 Stat. 2142 ]

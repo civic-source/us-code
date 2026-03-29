@@ -5,15 +5,15 @@ usc_section: "1607"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1607"
-generated_at: "2026-03-29T00:30:20.164Z"
+generated_at: "2026-03-29T02:12:08.631Z"
 ---
 
 # § 1607. Seizure; value $500,000 or less, prohibited merchandise, transporting conveyances
 
-(a) If—
-  (1) the value of such seized vessel, vehicle, aircraft, merchandise, or baggage does not exceed $500,000;
-  (2) such seized merchandise is merchandise the importation of which is prohibited;
-  (3) such seized vessel, vehicle, or aircraft was used to import, export, transport, or store any controlled substance or listed chemical; or
-  (4) such seized merchandise is any monetary instrument within the meaning of section 5312(a)(3) of title 31 ;
-(b) As used in this section, the terms “controlled substance” and “listed chemical” have the meaning given such terms in section 802 of title 21 .
-(c) The Commissioner of U.S. Customs and Border Protection shall submit to the Congress, by no later than February 1 of each fiscal year, a report on the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Customs Forfeiture Fund under section 1613b of this title within 120 days of seizure, as of the end of the previous fiscal year.
+- **(a)** If—
+  - **(1)** the value of such seized vessel, vehicle, aircraft, merchandise, or baggage does not exceed $500,000;
+  - **(2)** such seized merchandise is merchandise the importation of which is prohibited;
+  - **(3)** such seized vessel, vehicle, or aircraft was used to import, export, transport, or store any controlled substance or listed chemical; or
+  - **(4)** such seized merchandise is any monetary instrument within the meaning of section 5312(a)(3) of title 31 ;
+- **(b)** As used in this section, the terms “controlled substance” and “listed chemical” have the meaning given such terms in section 802 of title 21 .
+- **(c)** The Commissioner of U.S. Customs and Border Protection shall submit to the Congress, by no later than February 1 of each fiscal year, a report on the total dollar value of uncontested seizures of monetary instruments having a value of over $100,000 which, or the proceeds of which, have not been deposited into the Customs Forfeiture Fund under section 1613b of this title within 120 days of seizure, as of the end of the previous fiscal year.

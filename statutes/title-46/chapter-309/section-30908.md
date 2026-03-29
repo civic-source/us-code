@@ -5,12 +5,12 @@ usc_section: "30908"
 chapter: 309
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 30908"
-generated_at: "2026-03-29T00:33:02.904Z"
+generated_at: "2026-03-29T02:15:53.746Z"
 ---
 
 # § 30908. Exemption from arrest or seizure
 
 The following are not subject to arrest or seizure by judicial process in the United States:
 
-  (1) A vessel owned by, possessed by, or operated by or for the United States or a federally-owned corporation.
-  (2) Cargo owned or possessed by the United States or a federally-owned corporation.
+  - **(1)** A vessel owned by, possessed by, or operated by or for the United States or a federally-owned corporation.
+  - **(2)** Cargo owned or possessed by the United States or a federally-owned corporation.

@@ -5,7 +5,7 @@ usc_section: "9571"
 chapter: 120
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 9571"
-generated_at: "2026-03-29T00:29:42.010Z"
+generated_at: "2026-03-29T02:11:34.505Z"
 ---
 
 # § 9571. Purpose

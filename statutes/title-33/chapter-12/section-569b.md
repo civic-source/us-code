@@ -5,7 +5,7 @@ usc_section: "569b"
 chapter: 12
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 569b"
-generated_at: "2026-03-29T00:31:57.200Z"
+generated_at: "2026-03-29T02:14:18.497Z"
 ---
 
 # § 569b. Contracts; architect and engineering services; surveying and mapping services

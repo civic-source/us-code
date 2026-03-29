@@ -5,11 +5,11 @@ usc_section: "9814"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9814"
-generated_at: "2026-03-29T00:32:54.165Z"
+generated_at: "2026-03-29T02:15:37.077Z"
 ---
 
 # § 9814. Training and technical assistance
 
-(a) The Secretary shall provide, directly or through grants, contracts, or other arrangements, such technical assistance and training of personnel as may be required to effectively implement the purposes of this subchapter. No financial assistance shall be provided to any public or private organization under this section unless the Secretary provides the beneficiaries of these services with opportunity to participate in the selection of and to review the quality and utility of the services furnished them by such organization.
-(b) Technical assistance to community development corporations and both urban and rural cooperatives may include planning, management, legal assistance or support, preparation of feasibility studies, product development, marketing, and the provision of stipends to encourage skilled professionals to engage in full-time activities under the direction of a community organization financially assisted under this subchapter.
-(c) Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, and other technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.
+- **(a)** The Secretary shall provide, directly or through grants, contracts, or other arrangements, such technical assistance and training of personnel as may be required to effectively implement the purposes of this subchapter. No financial assistance shall be provided to any public or private organization under this section unless the Secretary provides the beneficiaries of these services with opportunity to participate in the selection of and to review the quality and utility of the services furnished them by such organization.
+- **(b)** Technical assistance to community development corporations and both urban and rural cooperatives may include planning, management, legal assistance or support, preparation of feasibility studies, product development, marketing, and the provision of stipends to encourage skilled professionals to engage in full-time activities under the direction of a community organization financially assisted under this subchapter.
+- **(c)** Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, and other technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.

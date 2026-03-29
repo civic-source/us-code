@@ -5,22 +5,22 @@ usc_section: "11182"
 chapter: 111
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 11182"
-generated_at: "2026-03-29T00:32:01.600Z"
+generated_at: "2026-03-29T02:14:25.300Z"
 ---
 
 # § 11182. Administrative authority
 
-(a) The Office shall be administered by the Administrator under the general authority of the Attorney General.
-(b) Sections 10228(c), 10230(a), 10230(b), 10230(c), 10231(a), 10231(b), and 10231(d) of this title, shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
-  (1) any reference to the Office of Justice Programs in such sections shall be deemed to be a reference to the Assistant Attorney General who heads the Office of Justice Programs; and
-  (2) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
-(c) Sections 10221(a), 10221(c), and 10225 of this title shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
-  (1) any reference to the Attorney General, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, or the Director of the Bureau of Justice Assistance shall be deemed to be a reference to the Administrator;
-  (2) any reference to the Office of Justice Programs, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be deemed to be a reference to the Office of Juvenile Justice and Delinquency Prevention; and
-  (3) the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
-(d) 
-  (1) The Administrator is authorized to establish such rules, regulations, guidance, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance. In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.
-  (2) The Administrator shall ensure that—
-    (A) reporting, compliance reporting, State plan requirements, and other similar documentation as may be required from States is requested in a manner that respects confidentiality, encourages efficiency and reduces the duplication of reporting efforts; and
-    (B) States meeting all the core requirements are encouraged to experiment with offering innovative, data-driven programs designed to further improve the juvenile justice system.
-(e) If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
+- **(a)** The Office shall be administered by the Administrator under the general authority of the Attorney General.
+- **(b)** Sections 10228(c), 10230(a), 10230(b), 10230(c), 10231(a), 10231(b), and 10231(d) of this title, shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
+  - **(1)** any reference to the Office of Justice Programs in such sections shall be deemed to be a reference to the Assistant Attorney General who heads the Office of Justice Programs; and
+  - **(2)** the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
+- **(c)** Sections 10221(a), 10221(c), and 10225 of this title shall apply with respect to the administration of and compliance with this chapter, except that for purposes of this chapter—
+  - **(1)** any reference to the Attorney General, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the National Institute of Justice, the Director of the Bureau of Justice Statistics, or the Director of the Bureau of Justice Assistance shall be deemed to be a reference to the Administrator;
+  - **(2)** any reference to the Office of Justice Programs, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics shall be deemed to be a reference to the Office of Juvenile Justice and Delinquency Prevention; and
+  - **(3)** the term “this chapter” as it appears in such sections shall be deemed to be a reference to this chapter.
+- **(d)**
+  - **(1)** The Administrator is authorized to establish such rules, regulations, guidance, and procedures as are necessary for the exercise of the functions of the Office and only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance. In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.
+  - **(2)** The Administrator shall ensure that—
+    - **(A)** reporting, compliance reporting, State plan requirements, and other similar documentation as may be required from States is requested in a manner that respects confidentiality, encourages efficiency and reduces the duplication of reporting efforts; and
+    - **(B)** States meeting all the core requirements are encouraged to experiment with offering innovative, data-driven programs designed to further improve the juvenile justice system.
+- **(e)** If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.

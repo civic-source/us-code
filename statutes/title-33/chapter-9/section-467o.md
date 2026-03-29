@@ -5,7 +5,7 @@ usc_section: "467o"
 chapter: 9
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 467o"
-generated_at: "2026-03-29T00:31:57.184Z"
+generated_at: "2026-03-29T02:14:18.490Z"
 ---
 
 # § 467o. Repealed. Pub. L. 118–272, div. A, title I, § 1132(e) , Jan. 4, 2025 , 138 Stat. 3024

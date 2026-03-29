@@ -5,217 +5,217 @@ usc_section: "2229"
 chapter: 49
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2229"
-generated_at: "2026-03-29T00:29:41.777Z"
+generated_at: "2026-03-29T02:11:34.278Z"
 ---
 
 # § 2229. Firefighter assistance
 
-(a) In this section:
-  (1) The term “Administrator of FEMA” means the Administrator of FEMA, acting through the Administrator.
-  (2) The term “available grant funds”, with respect to a fiscal year, means those funds appropriated pursuant to the authorization of appropriations in subsection (q)(1) for such fiscal year less any funds used for administrative costs pursuant to subsection (q)(2) in such fiscal year.
-  (3) The term “career fire department” means a fire department that has an all-paid force of firefighting personnel other than paid-on-call firefighters.
-  (4) The term “combination fire department” means a fire department that has—
-    (A) paid firefighting personnel; and
-    (B) volunteer firefighting personnel.
-  (5) The term “firefighting personnel” means individuals, including volunteers, who are firefighters, officers of fire departments, or emergency medical service personnel of fire departments.
-  (6) The term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
-  (7) The term “nonaffiliated EMS organization” means a public or private nonprofit emergency medical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
-  (8) The term “paid-on-call” with respect to firefighting personnel means firefighting personnel who are paid a stipend for each event to which they respond.
-  (9) The term “volunteer fire department” means a fire department that has an all-volunteer force of firefighting personnel.
-(b) 
-  (1) In accordance with this section, the Administrator of FEMA may award—
-    (A) assistance to firefighters grants under subsection (c); and
-    (B) fire prevention and safety grants and other assistance under subsection (d).
-  (2) The Administrator of FEMA shall—
-    (A) establish specific criteria for the selection of grant recipients under this section; and
-    (B) provide assistance with application preparation to applicants for such grants.
-(c) 
-  (1) The Administrator of FEMA may, in consultation with the chief executives of the States in which the recipients are located, award grants on a competitive basis directly to—
-    (A) fire departments, for the purpose of protecting the health and safety of the public and firefighting personnel throughout the United States against fire, fire-related, and other hazards;
-    (B) nonaffiliated EMS organizations to support the provision of emergency medical services; and
-    (C) State fire training academies for the purposes described in subparagraphs (G), (H), and (I) of paragraph (3).
-  (2) 
-    (A) The Administrator of FEMA may not award a grant under this subsection in excess of amounts as follows:
-      (i) In the case of a recipient that serves a jurisdiction with 100,000 people or fewer, the amount of the grant awarded to such recipient shall not exceed $1,000,000 in any fiscal year.
-      (ii) In the case of a recipient that serves a jurisdiction with more than 100,000 people but not more than 500,000 people, the amount of the grant awarded to such recipient shall not exceed $2,000,000 in any fiscal year.
-      (iii) In the case of a recipient that serves a jurisdiction with more than 500,000 but not more than 1,000,000 people, the amount of the grant awarded to such recipient shall not exceed $3,000,000 in any fiscal year.
-      (iv) In the case of a recipient that serves a jurisdiction with more than 1,000,000 people but not more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $6,000,000 for any fiscal year.
-      (v) In the case of a recipient that serves a jurisdiction with more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $9,000,000 in any fiscal year.
-    (B) 
-      (i) Notwithstanding subparagraphs (A) and (B) 1 1 So in original. and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
-      (ii) The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
-  (3) Each entity receiving a grant under this subsection shall use the grant for one or more of the following purposes:
-    (A) To train firefighting personnel in—
-      (i) firefighting;
-      (ii) emergency medical services and other emergency response (including response to natural disasters, acts of terrorism, and other man-made disasters);
-      (iii) arson prevention and detection;
-      (iv) maritime firefighting; or
-      (v) the handling of hazardous materials.
-    (B) To train firefighting personnel to provide any of the training described under subparagraph (A).
-    (C) To fund the creation of rapid intervention teams to protect firefighting personnel at the scenes of fires and other emergencies.
-    (D) To certify—
-      (i) fire inspectors; and
-      (ii) building inspectors—
-        (I) whose responsibilities include fire safety inspections; and
-        (II) who are employed by or serving as volunteers with a fire department.
-    (E) To establish wellness and fitness programs for firefighting personnel to ensure that the firefighting personnel are able to carry out their duties as firefighters, including programs dedicated to raising awareness of, and prevention of, job-related mental health issues.
-    (F) To fund emergency medical services provided by fire departments and nonaffiliated EMS organizations.
-    (G) To acquire additional firefighting vehicles, including fire trucks and other apparatus.
-    (H) To acquire additional firefighting equipment, including equipment for—
-      (i) fighting fires with foam in remote areas without access to water; and
-      (ii) communications, monitoring, and response to a natural disaster, act of terrorism, or other man-made disaster, including the use of a weapon of mass destruction.
-    (I) To acquire personal protective equipment, including personal protective equipment—
-      (i) prescribed for firefighting personnel by the Occupational Safety and Health Administration of the Department of Labor; or
-      (ii) for responding to a natural disaster or act of terrorism or other man-made disaster, including the use of a weapon of mass destruction.
-    (J) To modify fire stations, fire training facilities, and other facilities to protect the health and safety of firefighting personnel.
-    (K) To educate the public about arson prevention and detection.
-    (L) To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
-    (M) To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
-    (N) To provide specialized training to firefighters, paramedics, emergency medical service workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crisis.
-(d) 
-  (1) For the purpose of assisting fire prevention programs and supporting firefighter health and safety research and development, the Administrator of FEMA may, on a competitive basis—
-    (A) award grants to fire departments;
-    (B) award grants to, or enter into contracts or cooperative agreements with, national, State, local, tribal, or nonprofit organizations that are not fire departments and that are recognized for their experience and expertise with respect to fire prevention or fire safety programs and activities and firefighter research and development programs, for the purpose of carrying out—
-      (i) fire prevention programs; and
-      (ii) research to improve firefighter health and life safety; and
-    (C) award grants to institutions of higher education, national fire service organizations, or national fire safety organizations to establish and operate fire safety research centers.
-  (2) A grant awarded under this subsection may not exceed $1,500,000 for a fiscal year.
-  (3) Each entity receiving a grant under this subsection shall use the grant for one or more of the following purposes:
-    (A) To enforce fire codes and promote compliance with fire safety standards.
-    (B) To fund fire prevention programs, including programs that educate the public about arson prevention and detection.
-    (C) To fund wildland fire prevention programs, including education, awareness, and mitigation programs that protect lives, property, and natural resources from fire in the wildland-urban interface.
-    (D) In the case of a grant awarded under paragraph (1)(C), to fund the establishment or operation of a fire safety research center for the purpose of significantly reducing the number of fire-related deaths and injuries among firefighters and the general public through research, development, and technology transfer activities.
-    (E) To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
-  (4) None of the funds made available under this subsection may be provided to the Association of Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
-(e) 
-  (1) An entity seeking a grant under this section shall submit to the Administrator of FEMA an application therefor in such form and in such manner as the Administrator of FEMA determines appropriate.
-  (2) Each application submitted under paragraph (1) shall include the following:
-    (A) A description of the financial need of the applicant for the grant.
-    (B) An analysis of the costs and benefits, with respect to public safety, of the use for which a grant is requested.
-    (C) An agreement to provide information to the national fire incident reporting system for the period covered by the grant.
-    (D) A list of other sources of funding received by the applicant—
-      (i) for the same purpose for which the application for a grant under this section was submitted; or
-      (ii) from the Federal Government for other fire-related purposes.
-    (E) Such other information as the Administrator of FEMA determines appropriate.
-  (3) 
-    (A) Two or more entities may submit an application under paragraph (1) for a grant under this section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
-    (B) Applications under this paragraph may be submitted instead of or in addition to any other application submitted under paragraph (1).
-    (C) The Administrator of FEMA shall—
-      (i) publish guidance on applying for and administering grants awarded for joint programs and initiatives described in subparagraph (A); and
-      (ii) encourage applicants to apply for grants for joint programs and initiatives described in subparagraph (A) as the Administrator of FEMA determines appropriate to achieve greater cost effectiveness and regional efficiency.
-(f) 
-  (1) The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
-  (2) Chapter 10 of title 5 shall not apply to activities carried out pursuant to this subsection.
-(g) In awarding grants under this section, the Administrator of FEMA shall consider the following:
-  (1) The findings and recommendations of the peer reviews carried out under subsection (f).
-  (2) The degree to which an award will reduce deaths, injuries, and property damage by reducing the risks associated with fire-related and other hazards.
-  (3) The extent of the need of an applicant for a grant under this section and the need to protect the United States as a whole.
-  (4) The number of calls requesting or requiring a fire fighting or emergency medical response received by an applicant.
-(h) In awarding grants under this section, the Administrator of FEMA shall ensure that of the available grant funds in each fiscal year—
-  (1) not less than 25 percent are awarded under subsection (c) to career fire departments;
-  (2) not less than 25 percent are awarded under subsection (c) to volunteer fire departments;
-  (3) not less than 25 percent are awarded under subsection (c) to combination fire departments and fire departments using paid-on-call firefighting personnel;
-  (4) not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departments using paid-on-call firefighting personnel for grants awarded under subsection (c);
-  (5) not less than 10 percent are awarded under subsection (d); and
-  (6) not more than 2 percent are awarded under this section to nonaffiliated EMS organizations described in subsection (c)(1)(B).
-(i) 
-  (1) Not less than 3.5 percent of the available grant funds for a fiscal year shall be awarded under this section for purposes described in subsection (c)(3)(F).
-  (2) 
-    (A) Not more than 3 percent of the available grant funds for a fiscal year may be awarded under subsection (c)(1)(C).
-    (B) The Administrator of FEMA may not award a grant under subsection (c)(1)(C) to a State fire training academy in an amount that exceeds $1,000,000 in any fiscal year.
-  (3) Not more than 25 percent of the available grant funds for a fiscal year may be used to assist grant recipients to purchase vehicles pursuant to subsection (c)(3)(G).
-(j) 
-  (1) In considering applications for grants under subsection (c)(1)(A), the Administrator of FEMA shall consider—
-    (A) the extent to which the grant would enhance the daily operations of the applicant and the impact of such a grant on the protection of lives and property; and
-    (B) a broad range of factors important to the applicant’s ability to respond to fires and related hazards, such as the following:
-      (i) Population served.
-      (ii) Geographic response area.
-      (iii) Hazards vulnerability.
-      (iv) Call volume.
-      (v) Financial situation, including unemployment rate of the area being served.
-      (vi) Need for training or equipment.
-  (2) In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which other sources of Federal funding are available to the applicant to provide the assistance requested in such application.
-  (3) In the case of applicants for grants under this section who are described in subsection (d)(1)(B), the Administrator of FEMA shall give priority to applicants who focus on—
-    (A) prevention of injuries to high risk groups from fire; and
-    (B) research programs that demonstrate a potential to improve firefighter safety.
-  (4) 
-    (A) In awarding grants under subsection (d)(1)(C), the Administrator of FEMA shall—
-      (i) select each grant recipient on—
-        (I) the demonstrated research and extension resources available to the recipient to carry out the research, development, and technology transfer activities;
-        (II) the capability of the recipient to provide leadership in making national contributions to fire safety;
-        (III) the recipient’s ability to disseminate the results of fire safety research; and
-        (IV) the strategic plan the recipient proposes to carry out under the grant;
-      (ii) give special consideration in selecting recipients under subparagraph (A) 2 2 So in original. Probably should be “clause (i)”. to an applicant for a grant that consists of a partnership between—
-        (I) a national fire service organization or a national fire safety organization; and
-        (II) an institution of higher education, including a minority-serving institution (as described in section 1067q(a) of title 20 ); and
-      (iii) consider the research needs identified and prioritized through the workshop required by subparagraph (B)(i).
-    (B) 
-      (i) Not later than 90 days after January 2, 2013 , the Administrator of FEMA shall convene a workshop of the fire safety research community, fire service organizations, and other appropriate stakeholders to identify and prioritize fire safety research needs.
-      (ii) The Administrator of FEMA shall ensure that the results of the workshop are made available to the public.
-    (C) 
-      (i) The Administrator of FEMA may award grants under subsection (d) to establish not more than 3 fire safety research centers.
-      (ii) An institution of higher education, a national fire service organization, and a national fire safety organization may not directly receive a grant under subsection (d) for a fiscal year for more than 1 fire safety research center.
-  (5) The Administrator of FEMA shall review lists submitted by applicants pursuant to subsection (e)(2)(D) and take such actions as the Administrator of FEMA considers necessary to prevent unnecessary duplication of grant awards.
-(k) 
-  (1) 
-    (A) Except as provided in subparagraph (B), an applicant seeking a grant to carry out an activity under subsection (c) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 15 percent of the grant awarded to such applicant under such subsection.
-    (B) In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
-      (i) more than 20,000 residents but not more than 1,000,000 residents, the application 3 3 So in original. Probably should be “applicant”. shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
-      (ii) 20,000 residents or fewer, the applicant shall agree to make available non-Federal funds in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
-  (2) 
-    (A) An applicant seeking a grant to carry out an activity under subsection (d) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
-    (B) An applicant for a grant under subsection (d) may meet the matching requirement under subparagraph (A) through direct funding, funding of complementary activities, or the provision of staff, facilities, services, material, or equipment.
-  (3) An applicant seeking a grant under subsection (c) or (d) shall agree to maintain during the term of the grant the applicant’s aggregate expenditures relating to the uses described in subsections (c)(3) and (d)(3) at not less than 80 percent of the average amount of such expenditures in the 2 fiscal years preceding the fiscal year in which the grant amounts are received.
-  (4) 
-    (A) Except as provided in subparagraph (C)(ii), the Administrator of FEMA may waive or reduce the requirements of paragraphs (1), (2), and (3) in cases of demonstrated economic hardship.
-    (B) 
-      (i) The Administrator of FEMA shall establish and publish guidelines for determining what constitutes economic hardship for purposes of this paragraph.
-      (ii) In developing guidelines under clause (i), the Administrator of FEMA shall consult with individuals who are—
-        (I) recognized for expertise in firefighting, emergency medical services provided by fire services, or the economic affairs of State and local governments; and
-        (II) members of national fire service organizations or national organizations representing the interests of State and local governments.
-      (iii) In developing guidelines under clause (i), the Administrator of FEMA shall consider, with respect to relevant communities, the following:
-        (I) Changes in rates of unemployment from previous years.
-        (II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 4 4 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
-        (III) Changes in percentages of individuals eligible to receive food stamps from previous years.
-        (IV) Such other factors as the Administrator of FEMA considers appropriate.
-    (C) The authority under subparagraph (A) shall not apply with respect to a nonprofit organization that—
-      (i) is described in subsection (d)(1)(B); and
-      (ii) is not a fire department or emergency medical services organization.
-(l) 
-  (1) For each fiscal year, prior to awarding any grants under this section, the Administrator of FEMA shall publish in the Federal Register—
-    (A) guidelines that describe—
-      (i) the process for applying for grants under this section; and
-      (ii) the criteria that will be used for selecting grant recipients; and
-    (B) an explanation of any differences between such guidelines and the recommendations obtained under paragraph (2).
-  (2) 
-    (A) For each fiscal year, the Administrator of FEMA shall convene a meeting of qualified members of national fire service organizations and, at the discretion of the Administrator of FEMA, qualified members of emergency medical service organizations to obtain recommendations regarding the following:
-      (i) Criteria for the awarding of grants under this section.
-      (ii) Administrative changes to the assistance program established under subsection (b).
-    (B) For purposes of this paragraph, a qualified member of an organization is a member who—
-      (i) is recognized for expertise in firefighting or emergency medical services;
-      (ii) is not an employee of the Federal Government; and
-      (iii) in the case of a member of an emergency medical service organization, is a member of an organization that represents—
-        (I) providers of emergency medical services that are affiliated with fire departments; or
-        (II) nonaffiliated EMS providers.
-  (3) Chapter 10 of title 5 shall not apply to activities carried out under this subsection.
-(m) Notwithstanding any other provision of law, for purposes of this section, equipment costs shall include all costs attributable to any design, purchase of components, assembly, manufacture, and transportation of equipment not otherwise commercially available.
-(n) The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be eligible to apply for and receive a grant or other assistance under this section on behalf of Alaska Native villages.
-(o) If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6 , the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
-(p) 
-  (1) The Administrator of FEMA may audit a recipient of a grant awarded under this section to ensure that—
-    (A) the grant amounts are expended for the intended purposes; and
-    (B) the grant recipient complies with the requirements of subsection (k).
-  (2) 
-    (A) The Administrator of FEMA shall develop and implement a performance assessment system, including quantifiable performance metrics, to evaluate the extent to which grants awarded under this section are furthering the purposes of this section, including protecting the health and safety of the public and firefighting personnel against fire and fire-related hazards.
-    (B) The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the United States in developing the assessment system required by subparagraph (A).
-  (3) Not less frequently than once each year during the term of a grant awarded under this section, the recipient of the grant shall submit to the Administrator of FEMA an annual report describing how the recipient used the grant amounts.
-  (4) 
-    (A) Not later than September 30, 2013 , and each year thereafter through 2017, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report that provides—
-      (i) information on the performance assessment system developed under paragraph (2); and
-      (ii) using the performance metrics developed under such paragraph, an evaluation of the effectiveness of the grants awarded under this section.
-    (B) The report due under subparagraph (A) on September 30, 2016 , shall also include recommendations for legislative changes to improve grants under this section.
-(q) 
-  (1) There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2024 through 2028.
-  (2) Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
-  (3) Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
-(r) The authority to award assistance and grants under this section shall expire on September 30, 2030 .
+- **(a)** In this section:
+  - **(1)** The term “Administrator of FEMA” means the Administrator of FEMA, acting through the Administrator.
+  - **(2)** The term “available grant funds”, with respect to a fiscal year, means those funds appropriated pursuant to the authorization of appropriations in subsection (q)(1) for such fiscal year less any funds used for administrative costs pursuant to subsection (q)(2) in such fiscal year.
+  - **(3)** The term “career fire department” means a fire department that has an all-paid force of firefighting personnel other than paid-on-call firefighters.
+  - **(4)** The term “combination fire department” means a fire department that has—
+    - **(A)** paid firefighting personnel; and
+    - **(B)** volunteer firefighting personnel.
+  - **(5)** The term “firefighting personnel” means individuals, including volunteers, who are firefighters, officers of fire departments, or emergency medical service personnel of fire departments.
+  - **(6)** The term “institution of higher education” has the meaning given such term in section 1001 of title 20 .
+  - **(7)** The term “nonaffiliated EMS organization” means a public or private nonprofit emergency medical services organization that is not affiliated with a hospital and does not serve a geographic area in which the Administrator of FEMA finds that emergency medical services are adequately provided by a fire department.
+  - **(8)** The term “paid-on-call” with respect to firefighting personnel means firefighting personnel who are paid a stipend for each event to which they respond.
+  - **(9)** The term “volunteer fire department” means a fire department that has an all-volunteer force of firefighting personnel.
+- **(b)**
+  - **(1)** In accordance with this section, the Administrator of FEMA may award—
+    - **(A)** assistance to firefighters grants under subsection (c); and
+    - **(B)** fire prevention and safety grants and other assistance under subsection (d).
+  - **(2)** The Administrator of FEMA shall—
+    - **(A)** establish specific criteria for the selection of grant recipients under this section; and
+    - **(B)** provide assistance with application preparation to applicants for such grants.
+- **(c)**
+  - **(1)** The Administrator of FEMA may, in consultation with the chief executives of the States in which the recipients are located, award grants on a competitive basis directly to—
+    - **(A)** fire departments, for the purpose of protecting the health and safety of the public and firefighting personnel throughout the United States against fire, fire-related, and other hazards;
+    - **(B)** nonaffiliated EMS organizations to support the provision of emergency medical services; and
+    - **(C)** State fire training academies for the purposes described in subparagraphs (G), (H), and (I) of paragraph (3).
+  - **(2)**
+    - **(A)** The Administrator of FEMA may not award a grant under this subsection in excess of amounts as follows:
+      - **(i)** In the case of a recipient that serves a jurisdiction with 100,000 people or fewer, the amount of the grant awarded to such recipient shall not exceed $1,000,000 in any fiscal year.
+      - **(ii)** In the case of a recipient that serves a jurisdiction with more than 100,000 people but not more than 500,000 people, the amount of the grant awarded to such recipient shall not exceed $2,000,000 in any fiscal year.
+      - **(iii)** In the case of a recipient that serves a jurisdiction with more than 500,000 but not more than 1,000,000 people, the amount of the grant awarded to such recipient shall not exceed $3,000,000 in any fiscal year.
+      - **(iv)** In the case of a recipient that serves a jurisdiction with more than 1,000,000 people but not more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $6,000,000 for any fiscal year.
+      - **(v)** In the case of a recipient that serves a jurisdiction with more than 2,500,000 people, the amount of the grant awarded to such recipient shall not exceed $9,000,000 in any fiscal year.
+    - **(B)**
+      - **(i)** Notwithstanding subparagraphs (A) and (B) 1 1 So in original. and except as provided under clause (ii), the Administrator of FEMA may not award a grant under this subsection in a fiscal year in an amount that exceeds the amount that is one percent of the available grant funds in such fiscal year.
+      - **(ii)** The Administrator of FEMA may waive the limitation in clause (i) with respect to a grant recipient if the Administrator of FEMA determines that such recipient has an extraordinary need for a grant in an amount that exceeds the limit under clause (i).
+  - **(3)** Each entity receiving a grant under this subsection shall use the grant for one or more of the following purposes:
+    - **(A)** To train firefighting personnel in—
+      - **(i)** firefighting;
+      - **(ii)** emergency medical services and other emergency response (including response to natural disasters, acts of terrorism, and other man-made disasters);
+      - **(iii)** arson prevention and detection;
+      - **(iv)** maritime firefighting; or
+      - **(v)** the handling of hazardous materials.
+    - **(B)** To train firefighting personnel to provide any of the training described under subparagraph (A).
+    - **(C)** To fund the creation of rapid intervention teams to protect firefighting personnel at the scenes of fires and other emergencies.
+    - **(D)** To certify—
+      - **(i)** fire inspectors; and
+      - **(ii)** building inspectors—
+        - **(I)** whose responsibilities include fire safety inspections; and
+        - **(II)** who are employed by or serving as volunteers with a fire department.
+    - **(E)** To establish wellness and fitness programs for firefighting personnel to ensure that the firefighting personnel are able to carry out their duties as firefighters, including programs dedicated to raising awareness of, and prevention of, job-related mental health issues.
+    - **(F)** To fund emergency medical services provided by fire departments and nonaffiliated EMS organizations.
+    - **(G)** To acquire additional firefighting vehicles, including fire trucks and other apparatus.
+    - **(H)** To acquire additional firefighting equipment, including equipment for—
+      - **(i)** fighting fires with foam in remote areas without access to water; and
+      - **(ii)** communications, monitoring, and response to a natural disaster, act of terrorism, or other man-made disaster, including the use of a weapon of mass destruction.
+    - **(I)** To acquire personal protective equipment, including personal protective equipment—
+      - **(i)** prescribed for firefighting personnel by the Occupational Safety and Health Administration of the Department of Labor; or
+      - **(ii)** for responding to a natural disaster or act of terrorism or other man-made disaster, including the use of a weapon of mass destruction.
+    - **(J)** To modify fire stations, fire training facilities, and other facilities to protect the health and safety of firefighting personnel.
+    - **(K)** To educate the public about arson prevention and detection.
+    - **(L)** To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
+    - **(M)** To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
+    - **(N)** To provide specialized training to firefighters, paramedics, emergency medical service workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crisis.
+- **(d)**
+  - **(1)** For the purpose of assisting fire prevention programs and supporting firefighter health and safety research and development, the Administrator of FEMA may, on a competitive basis—
+    - **(A)** award grants to fire departments;
+    - **(B)** award grants to, or enter into contracts or cooperative agreements with, national, State, local, tribal, or nonprofit organizations that are not fire departments and that are recognized for their experience and expertise with respect to fire prevention or fire safety programs and activities and firefighter research and development programs, for the purpose of carrying out—
+      - **(i)** fire prevention programs; and
+      - **(ii)** research to improve firefighter health and life safety; and
+    - **(C)** award grants to institutions of higher education, national fire service organizations, or national fire safety organizations to establish and operate fire safety research centers.
+  - **(2)** A grant awarded under this subsection may not exceed $1,500,000 for a fiscal year.
+  - **(3)** Each entity receiving a grant under this subsection shall use the grant for one or more of the following purposes:
+    - **(A)** To enforce fire codes and promote compliance with fire safety standards.
+    - **(B)** To fund fire prevention programs, including programs that educate the public about arson prevention and detection.
+    - **(C)** To fund wildland fire prevention programs, including education, awareness, and mitigation programs that protect lives, property, and natural resources from fire in the wildland-urban interface.
+    - **(D)** In the case of a grant awarded under paragraph (1)(C), to fund the establishment or operation of a fire safety research center for the purpose of significantly reducing the number of fire-related deaths and injuries among firefighters and the general public through research, development, and technology transfer activities.
+    - **(E)** To support such other activities, consistent with the purposes of this subsection, as the Administrator of FEMA determines appropriate.
+  - **(4)** None of the funds made available under this subsection may be provided to the Association of Community Organizations for Reform Now (ACORN) or any of its affiliates, subsidiaries, or allied organizations.
+- **(e)**
+  - **(1)** An entity seeking a grant under this section shall submit to the Administrator of FEMA an application therefor in such form and in such manner as the Administrator of FEMA determines appropriate.
+  - **(2)** Each application submitted under paragraph (1) shall include the following:
+    - **(A)** A description of the financial need of the applicant for the grant.
+    - **(B)** An analysis of the costs and benefits, with respect to public safety, of the use for which a grant is requested.
+    - **(C)** An agreement to provide information to the national fire incident reporting system for the period covered by the grant.
+    - **(D)** A list of other sources of funding received by the applicant—
+      - **(i)** for the same purpose for which the application for a grant under this section was submitted; or
+      - **(ii)** from the Federal Government for other fire-related purposes.
+    - **(E)** Such other information as the Administrator of FEMA determines appropriate.
+  - **(3)**
+    - **(A)** Two or more entities may submit an application under paragraph (1) for a grant under this section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
+    - **(B)** Applications under this paragraph may be submitted instead of or in addition to any other application submitted under paragraph (1).
+    - **(C)** The Administrator of FEMA shall—
+      - **(i)** publish guidance on applying for and administering grants awarded for joint programs and initiatives described in subparagraph (A); and
+      - **(ii)** encourage applicants to apply for grants for joint programs and initiatives described in subparagraph (A) as the Administrator of FEMA determines appropriate to achieve greater cost effectiveness and regional efficiency.
+- **(f)**
+  - **(1)** The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
+  - **(2)** Chapter 10 of title 5 shall not apply to activities carried out pursuant to this subsection.
+- **(g)** In awarding grants under this section, the Administrator of FEMA shall consider the following:
+  - **(1)** The findings and recommendations of the peer reviews carried out under subsection (f).
+  - **(2)** The degree to which an award will reduce deaths, injuries, and property damage by reducing the risks associated with fire-related and other hazards.
+  - **(3)** The extent of the need of an applicant for a grant under this section and the need to protect the United States as a whole.
+  - **(4)** The number of calls requesting or requiring a fire fighting or emergency medical response received by an applicant.
+- **(h)** In awarding grants under this section, the Administrator of FEMA shall ensure that of the available grant funds in each fiscal year—
+  - **(1)** not less than 25 percent are awarded under subsection (c) to career fire departments;
+  - **(2)** not less than 25 percent are awarded under subsection (c) to volunteer fire departments;
+  - **(3)** not less than 25 percent are awarded under subsection (c) to combination fire departments and fire departments using paid-on-call firefighting personnel;
+  - **(4)** not less than 10 percent are available for open competition among career fire departments, volunteer fire departments, combination fire departments, and fire departments using paid-on-call firefighting personnel for grants awarded under subsection (c);
+  - **(5)** not less than 10 percent are awarded under subsection (d); and
+  - **(6)** not more than 2 percent are awarded under this section to nonaffiliated EMS organizations described in subsection (c)(1)(B).
+- **(i)**
+  - **(1)** Not less than 3.5 percent of the available grant funds for a fiscal year shall be awarded under this section for purposes described in subsection (c)(3)(F).
+  - **(2)**
+    - **(A)** Not more than 3 percent of the available grant funds for a fiscal year may be awarded under subsection (c)(1)(C).
+    - **(B)** The Administrator of FEMA may not award a grant under subsection (c)(1)(C) to a State fire training academy in an amount that exceeds $1,000,000 in any fiscal year.
+  - **(3)** Not more than 25 percent of the available grant funds for a fiscal year may be used to assist grant recipients to purchase vehicles pursuant to subsection (c)(3)(G).
+- **(j)**
+  - **(1)** In considering applications for grants under subsection (c)(1)(A), the Administrator of FEMA shall consider—
+    - **(A)** the extent to which the grant would enhance the daily operations of the applicant and the impact of such a grant on the protection of lives and property; and
+    - **(B)** a broad range of factors important to the applicant’s ability to respond to fires and related hazards, such as the following:
+      - **(i)** Population served.
+      - **(ii)** Geographic response area.
+      - **(iii)** Hazards vulnerability.
+      - **(iv)** Call volume.
+      - **(v)** Financial situation, including unemployment rate of the area being served.
+      - **(vi)** Need for training or equipment.
+  - **(2)** In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which other sources of Federal funding are available to the applicant to provide the assistance requested in such application.
+  - **(3)** In the case of applicants for grants under this section who are described in subsection (d)(1)(B), the Administrator of FEMA shall give priority to applicants who focus on—
+    - **(A)** prevention of injuries to high risk groups from fire; and
+    - **(B)** research programs that demonstrate a potential to improve firefighter safety.
+  - **(4)**
+    - **(A)** In awarding grants under subsection (d)(1)(C), the Administrator of FEMA shall—
+      - **(i)** select each grant recipient on—
+        - **(I)** the demonstrated research and extension resources available to the recipient to carry out the research, development, and technology transfer activities;
+        - **(II)** the capability of the recipient to provide leadership in making national contributions to fire safety;
+        - **(III)** the recipient’s ability to disseminate the results of fire safety research; and
+        - **(IV)** the strategic plan the recipient proposes to carry out under the grant;
+      - **(ii)** give special consideration in selecting recipients under subparagraph (A) 2 2 So in original. Probably should be “clause (i)”. to an applicant for a grant that consists of a partnership between—
+        - **(I)** a national fire service organization or a national fire safety organization; and
+        - **(II)** an institution of higher education, including a minority-serving institution (as described in section 1067q(a) of title 20 ); and
+      - **(iii)** consider the research needs identified and prioritized through the workshop required by subparagraph (B)(i).
+    - **(B)**
+      - **(i)** Not later than 90 days after January 2, 2013 , the Administrator of FEMA shall convene a workshop of the fire safety research community, fire service organizations, and other appropriate stakeholders to identify and prioritize fire safety research needs.
+      - **(ii)** The Administrator of FEMA shall ensure that the results of the workshop are made available to the public.
+    - **(C)**
+      - **(i)** The Administrator of FEMA may award grants under subsection (d) to establish not more than 3 fire safety research centers.
+      - **(ii)** An institution of higher education, a national fire service organization, and a national fire safety organization may not directly receive a grant under subsection (d) for a fiscal year for more than 1 fire safety research center.
+  - **(5)** The Administrator of FEMA shall review lists submitted by applicants pursuant to subsection (e)(2)(D) and take such actions as the Administrator of FEMA considers necessary to prevent unnecessary duplication of grant awards.
+- **(k)**
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B), an applicant seeking a grant to carry out an activity under subsection (c) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 15 percent of the grant awarded to such applicant under such subsection.
+    - **(B)** In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
+      - **(i)** more than 20,000 residents but not more than 1,000,000 residents, the application 3 3 So in original. Probably should be “applicant”. shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
+      - **(ii)** 20,000 residents or fewer, the applicant shall agree to make available non-Federal funds in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
+  - **(2)**
+    - **(A)** An applicant seeking a grant to carry out an activity under subsection (d) shall agree to make available non-Federal funds to carry out such activity in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
+    - **(B)** An applicant for a grant under subsection (d) may meet the matching requirement under subparagraph (A) through direct funding, funding of complementary activities, or the provision of staff, facilities, services, material, or equipment.
+  - **(3)** An applicant seeking a grant under subsection (c) or (d) shall agree to maintain during the term of the grant the applicant’s aggregate expenditures relating to the uses described in subsections (c)(3) and (d)(3) at not less than 80 percent of the average amount of such expenditures in the 2 fiscal years preceding the fiscal year in which the grant amounts are received.
+  - **(4)**
+    - **(A)** Except as provided in subparagraph (C)(ii), the Administrator of FEMA may waive or reduce the requirements of paragraphs (1), (2), and (3) in cases of demonstrated economic hardship.
+    - **(B)**
+      - **(i)** The Administrator of FEMA shall establish and publish guidelines for determining what constitutes economic hardship for purposes of this paragraph.
+      - **(ii)** In developing guidelines under clause (i), the Administrator of FEMA shall consult with individuals who are—
+        - **(I)** recognized for expertise in firefighting, emergency medical services provided by fire services, or the economic affairs of State and local governments; and
+        - **(II)** members of national fire service organizations or national organizations representing the interests of State and local governments.
+      - **(iii)** In developing guidelines under clause (i), the Administrator of FEMA shall consider, with respect to relevant communities, the following:
+        - **(I)** Changes in rates of unemployment from previous years.
+        - **(II)** Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 4 4 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
+        - **(III)** Changes in percentages of individuals eligible to receive food stamps from previous years.
+        - **(IV)** Such other factors as the Administrator of FEMA considers appropriate.
+    - **(C)** The authority under subparagraph (A) shall not apply with respect to a nonprofit organization that—
+      - **(i)** is described in subsection (d)(1)(B); and
+      - **(ii)** is not a fire department or emergency medical services organization.
+- **(l)**
+  - **(1)** For each fiscal year, prior to awarding any grants under this section, the Administrator of FEMA shall publish in the Federal Register—
+    - **(A)** guidelines that describe—
+      - **(i)** the process for applying for grants under this section; and
+      - **(ii)** the criteria that will be used for selecting grant recipients; and
+    - **(B)** an explanation of any differences between such guidelines and the recommendations obtained under paragraph (2).
+  - **(2)**
+    - **(A)** For each fiscal year, the Administrator of FEMA shall convene a meeting of qualified members of national fire service organizations and, at the discretion of the Administrator of FEMA, qualified members of emergency medical service organizations to obtain recommendations regarding the following:
+      - **(i)** Criteria for the awarding of grants under this section.
+      - **(ii)** Administrative changes to the assistance program established under subsection (b).
+    - **(B)** For purposes of this paragraph, a qualified member of an organization is a member who—
+      - **(i)** is recognized for expertise in firefighting or emergency medical services;
+      - **(ii)** is not an employee of the Federal Government; and
+      - **(iii)** in the case of a member of an emergency medical service organization, is a member of an organization that represents—
+        - **(I)** providers of emergency medical services that are affiliated with fire departments; or
+        - **(II)** nonaffiliated EMS providers.
+  - **(3)** Chapter 10 of title 5 shall not apply to activities carried out under this subsection.
+- **(m)** Notwithstanding any other provision of law, for purposes of this section, equipment costs shall include all costs attributable to any design, purchase of components, assembly, manufacture, and transportation of equipment not otherwise commercially available.
+- **(n)** The Alaska Village Initiatives, a non-profit organization incorporated in the State of Alaska, shall be eligible to apply for and receive a grant or other assistance under this section on behalf of Alaska Native villages.
+- **(o)** If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6 , the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
+- **(p)**
+  - **(1)** The Administrator of FEMA may audit a recipient of a grant awarded under this section to ensure that—
+    - **(A)** the grant amounts are expended for the intended purposes; and
+    - **(B)** the grant recipient complies with the requirements of subsection (k).
+  - **(2)**
+    - **(A)** The Administrator of FEMA shall develop and implement a performance assessment system, including quantifiable performance metrics, to evaluate the extent to which grants awarded under this section are furthering the purposes of this section, including protecting the health and safety of the public and firefighting personnel against fire and fire-related hazards.
+    - **(B)** The Administrator of FEMA shall consult with fire service representatives and with the Comptroller General of the United States in developing the assessment system required by subparagraph (A).
+  - **(3)** Not less frequently than once each year during the term of a grant awarded under this section, the recipient of the grant shall submit to the Administrator of FEMA an annual report describing how the recipient used the grant amounts.
+  - **(4)**
+    - **(A)** Not later than September 30, 2013 , and each year thereafter through 2017, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report that provides—
+      - **(i)** information on the performance assessment system developed under paragraph (2); and
+      - **(ii)** using the performance metrics developed under such paragraph, an evaluation of the effectiveness of the grants awarded under this section.
+    - **(B)** The report due under subparagraph (A) on September 30, 2016 , shall also include recommendations for legislative changes to improve grants under this section.
+- **(q)**
+  - **(1)** There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2024 through 2028.
+  - **(2)** Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
+  - **(3)** Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
+- **(r)** The authority to award assistance and grants under this section shall expire on September 30, 2030 .

@@ -5,38 +5,38 @@ usc_section: "4611"
 chapter: 38
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4611"
-generated_at: "2026-03-29T00:31:20.952Z"
+generated_at: "2026-03-29T02:14:01.219Z"
 ---
 
 # § 4611. Imposition of tax
 
-(a) There is hereby imposed a tax at the rate specified in subsection (c) on—
-  (1) crude oil received at a United States refinery, and
-  (2) petroleum products entered into the United States for consumption, use, or warehousing.
-(b) 
-  (1) If—
-    (A) any domestic crude oil is used in or exported from the United States, and
-    (B) before such use or exportation, no tax was imposed on such crude oil under subsection (a),
-  (2) Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas on the premises where such crude oil was produced.
-(c) 
-  (1) The rate of the taxes imposed by this section is the sum of—
-    (A) the Hazardous Substance Superfund financing rate, and
-    (B) the Oil Spill Liability Trust Fund financing rate.
-  (2) For purposes of paragraph (1)—
-    (A) the Hazardous Substance Superfund financing rate is 16.4 cents a barrel, and
-    (B) the Oil Spill Liability Trust Fund financing rate is—
-      (i) in the case of crude oil received or petroleum products entered before January 1, 2017 , 8 cents a barrel, and
-      (ii) in the case of crude oil received or petroleum products entered after December 31, 2016 , 9 cents a barrel.
-  (3) 
-    (A) In the case of a year beginning after 2023, the amount in paragraph (2)(A) shall be increased by an amount equal to—
-      (i) such amount, multiplied by
-      (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-    (B) If any amount as adjusted under subparagraph (A) is not a multiple of $0.01, such amount shall be rounded to the next lowest multiple of $0.01.
-(d) 
-  (1) The tax imposed by subsection (a)(1) shall be paid by the operator of the United States refinery.
-  (2) The tax imposed by subsection (a)(2) shall be paid by the person entering the product for consumption, use, or warehousing.
-  (3) The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
-[(e) 
-(f) 
-  (1) Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
-  (2) The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025 .
+- **(a)** There is hereby imposed a tax at the rate specified in subsection (c) on—
+  - **(1)** crude oil received at a United States refinery, and
+  - **(2)** petroleum products entered into the United States for consumption, use, or warehousing.
+- **(b)**
+  - **(1)** If—
+    - **(A)** any domestic crude oil is used in or exported from the United States, and
+    - **(B)** before such use or exportation, no tax was imposed on such crude oil under subsection (a),
+  - **(2)** Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas on the premises where such crude oil was produced.
+- **(c)**
+  - **(1)** The rate of the taxes imposed by this section is the sum of—
+    - **(A)** the Hazardous Substance Superfund financing rate, and
+    - **(B)** the Oil Spill Liability Trust Fund financing rate.
+  - **(2)** For purposes of paragraph (1)—
+    - **(A)** the Hazardous Substance Superfund financing rate is 16.4 cents a barrel, and
+    - **(B)** the Oil Spill Liability Trust Fund financing rate is—
+      - **(i)** in the case of crude oil received or petroleum products entered before January 1, 2017 , 8 cents a barrel, and
+      - **(ii)** in the case of crude oil received or petroleum products entered after December 31, 2016 , 9 cents a barrel.
+  - **(3)**
+    - **(A)** In the case of a year beginning after 2023, the amount in paragraph (2)(A) shall be increased by an amount equal to—
+      - **(i)** such amount, multiplied by
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    - **(B)** If any amount as adjusted under subparagraph (A) is not a multiple of $0.01, such amount shall be rounded to the next lowest multiple of $0.01.
+- **(d)**
+  - **(1)** The tax imposed by subsection (a)(1) shall be paid by the operator of the United States refinery.
+  - **(2)** The tax imposed by subsection (a)(2) shall be paid by the person entering the product for consumption, use, or warehousing.
+  - **(3)** The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
+- **[(e)**
+- **(f)**
+  - **(1)** Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financing rate under subsection (c) shall apply on and after April 1, 2006 , or if later, the date which is 30 days after the last day of any calendar quarter for which the Secretary estimates that, as of the close of that quarter, the unobligated balance in the Oil Spill Liability Trust Fund is less than $2,000,000,000.
+  - **(2)** The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025 .

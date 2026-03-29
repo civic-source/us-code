@@ -5,14 +5,14 @@ usc_section: "251"
 chapter: 10
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 251"
-generated_at: "2026-03-29T00:28:57.922Z"
+generated_at: "2026-03-29T02:10:16.714Z"
 ---
 
 # § 251. Conditions for delivery of agricultural products
 
-(a) In the absence of a lawful excuse, a warehouse operator shall, without unnecessary delay, deliver the agricultural product stored or handled in the warehouse on a demand made by—
-  (1) the holder of the receipt for the agricultural product; or
-  (2) the person that deposited the product, if no receipt has been issued.
-(b) Prior to delivery of the agricultural product, payment of the accrued charges associated with the storage of the agricultural product, including satisfaction of the warehouseman’s lien, shall be made if requested by the warehouse operator.
-(c) When the holder of a receipt requests delivery of an agricultural product covered by the receipt, the holder shall surrender the receipt to the warehouse operator, in the manner prescribed by the Secretary, to obtain the agricultural product.
-(d) A warehouse operator shall cancel each receipt returned to the warehouse operator upon the delivery of the agricultural product for which the receipt was issued.
+- **(a)** In the absence of a lawful excuse, a warehouse operator shall, without unnecessary delay, deliver the agricultural product stored or handled in the warehouse on a demand made by—
+  - **(1)** the holder of the receipt for the agricultural product; or
+  - **(2)** the person that deposited the product, if no receipt has been issued.
+- **(b)** Prior to delivery of the agricultural product, payment of the accrued charges associated with the storage of the agricultural product, including satisfaction of the warehouseman’s lien, shall be made if requested by the warehouse operator.
+- **(c)** When the holder of a receipt requests delivery of an agricultural product covered by the receipt, the holder shall surrender the receipt to the warehouse operator, in the manner prescribed by the Secretary, to obtain the agricultural product.
+- **(d)** A warehouse operator shall cancel each receipt returned to the warehouse operator upon the delivery of the agricultural product for which the receipt was issued.

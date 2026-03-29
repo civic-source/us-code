@@ -1,0 +1,14 @@
+---
+title: "Section 7014 - Regulations"
+usc_title: 20
+usc_section: "7014"
+chapter: 70
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 7014"
+generated_at: "2026-03-29T02:12:17.465Z"
+---
+
+# § 7014. Regulations
+
+In developing regulations under this subchapter, the Secretary shall consult with State educational agencies and local educational agencies, organizations representing English learners, and organizations representing teachers and other personnel involved in the education of English learners.
+

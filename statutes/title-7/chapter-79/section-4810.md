@@ -5,30 +5,30 @@ usc_section: "4810"
 chapter: 79
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 4810"
-generated_at: "2026-03-29T00:28:58.199Z"
+generated_at: "2026-03-29T02:10:17.030Z"
 ---
 
 # § 4810. Permissive provisions
 
-(a) On the recommendation of the Board, and with the approval of the Secretary, an order may contain one or more of the following provisions:
-  (1) Each person purchasing a porcine animal from a producer for commercial use, and each importer, shall—
-    (A) maintain and make available for inspection such books and records as may be required by the order; and
-    (B) file reports at the time, in the manner, and having the content prescribed by the order,
-  (2) A term or condition—
-    (A) incidental to, and not inconsistent with, the terms and conditions specified in this chapter; and
-    (B) necessary to effectuate the other provisions of such order.
-(b) 
-  (1) Information referred to in subsection (a)(1) shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
-  (2) 
-    (A) Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
-    (B) Such information may be disclosed only—
-      (i) in a suit or administrative hearing involving the order with respect to which the information was furnished or acquired—
-        (I) brought at the direction or on the request of the Secretary; or
-        (II) to which the Secretary or an officer of the United States is a party; and
-      (ii) if the Secretary considers such information to be relevant to such suit or hearing.
-    (C) Nothing in this section prohibits—
-      (i) the issuance of a general statement based on the reports of a number of persons subject to an order, or statistical data collected therefrom, if such statement or data does not identify the information furnished by any person; or
-      (ii) the publication, by direction of the Secretary, of the name of a person violating an order, together with a statement of the particular provisions of the order violated by such person.
-(c) A person who willfully violates subsection (a)(1) or (b) shall, on conviction, be—
-  (1) subject to a fine of not more than $1,000 or imprisoned for not more than 1 year, or both; and
-  (2) if such person is an employee of the Department of Agriculture or the Board, removed from office.
+- **(a)** On the recommendation of the Board, and with the approval of the Secretary, an order may contain one or more of the following provisions:
+  - **(1)** Each person purchasing a porcine animal from a producer for commercial use, and each importer, shall—
+    - **(A)** maintain and make available for inspection such books and records as may be required by the order; and
+    - **(B)** file reports at the time, in the manner, and having the content prescribed by the order,
+  - **(2)** A term or condition—
+    - **(A)** incidental to, and not inconsistent with, the terms and conditions specified in this chapter; and
+    - **(B)** necessary to effectuate the other provisions of such order.
+- **(b)**
+  - **(1)** Information referred to in subsection (a)(1) shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
+  - **(2)**
+    - **(A)** Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
+    - **(B)** Such information may be disclosed only—
+      - **(i)** in a suit or administrative hearing involving the order with respect to which the information was furnished or acquired—
+        - **(I)** brought at the direction or on the request of the Secretary; or
+        - **(II)** to which the Secretary or an officer of the United States is a party; and
+      - **(ii)** if the Secretary considers such information to be relevant to such suit or hearing.
+    - **(C)** Nothing in this section prohibits—
+      - **(i)** the issuance of a general statement based on the reports of a number of persons subject to an order, or statistical data collected therefrom, if such statement or data does not identify the information furnished by any person; or
+      - **(ii)** the publication, by direction of the Secretary, of the name of a person violating an order, together with a statement of the particular provisions of the order violated by such person.
+- **(c)** A person who willfully violates subsection (a)(1) or (b) shall, on conviction, be—
+  - **(1)** subject to a fine of not more than $1,000 or imprisoned for not more than 1 year, or both; and
+  - **(2)** if such person is an employee of the Department of Agriculture or the Board, removed from office.

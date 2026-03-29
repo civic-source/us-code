@@ -5,7 +5,7 @@ usc_section: "12e"
 chapter: 1
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 12e"
-generated_at: "2026-03-29T00:28:57.845Z"
+generated_at: "2026-03-29T02:10:16.634Z"
 ---
 
 # § 12e. Repealed. Pub. L. 106–554, § 1(a)(5) [title I, § 123(a)(21)] , Dec. 21, 2000 , 114 Stat. 2763 , 2763A–410

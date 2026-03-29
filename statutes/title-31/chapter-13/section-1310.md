@@ -5,19 +5,19 @@ usc_section: "1310"
 chapter: 13
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 1310"
-generated_at: "2026-03-29T00:31:52.590Z"
+generated_at: "2026-03-29T02:14:14.047Z"
 ---
 
 # § 1310. Appropriations for private organizations
 
-(a) The Secretary of the Treasury shall credit an appropriation for a private organization to the appropriate fiscal official of the organization. The credit shall be carried on the accounts of—
-  (1) the Treasury; or
-  (2) a designated depositary of the United States Government (except a national bank).
-(b) The fiscal official may pay an amount out of the appropriation only on a check of the fiscal official—
-  (1) payable to the order of the person to whom payment is to be made; and
-  (2) that states the specific purpose for which the amount is to be applied.
-(c) 
-  (1) The fiscal official may pay an amount of less than $20 out of the appropriation on a check—
-    (A) payable to the order of the fiscal official; and
-    (B) that states the amount is to be applied to small claims.
-  (2) The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of the claims. The list shall state the kind and amount of each claim and the name of each claimant.
+- **(a)** The Secretary of the Treasury shall credit an appropriation for a private organization to the appropriate fiscal official of the organization. The credit shall be carried on the accounts of—
+  - **(1)** the Treasury; or
+  - **(2)** a designated depositary of the United States Government (except a national bank).
+- **(b)** The fiscal official may pay an amount out of the appropriation only on a check of the fiscal official—
+  - **(1)** payable to the order of the person to whom payment is to be made; and
+  - **(2)** that states the specific purpose for which the amount is to be applied.
+- **(c)**
+  - **(1)** The fiscal official may pay an amount of less than $20 out of the appropriation on a check—
+    - **(A)** payable to the order of the fiscal official; and
+    - **(B)** that states the amount is to be applied to small claims.
+  - **(2)** The fiscal official shall provide the Secretary or the designated depositary on which the check is drawn with a certified list of the claims. The list shall state the kind and amount of each claim and the name of each claimant.

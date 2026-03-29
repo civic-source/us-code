@@ -5,12 +5,12 @@ usc_section: "2552"
 chapter: 35
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2552"
-generated_at: "2026-03-29T00:30:33.826Z"
+generated_at: "2026-03-29T02:12:40.098Z"
 ---
 
 # § 2552. Definitions
 
 As used in this chapter—
 
-(a) The terms “arms control” and “disarmament” mean the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement including the necessary steps taken under such an agreement to establish an effective system of international control, or to create and strengthen international organizations for the maintenance of peace.
-(b) The term “Government agency” means any executive department, commission, agency, independent establishment, corporation wholly or partly owned by the United States which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of Government.
+- **(a)** The terms “arms control” and “disarmament” mean the identification, verification, inspection, limitation, control, reduction, or elimination, of armed forces and armaments of all kinds under international agreement including the necessary steps taken under such an agreement to establish an effective system of international control, or to create and strengthen international organizations for the maintenance of peace.
+- **(b)** The term “Government agency” means any executive department, commission, agency, independent establishment, corporation wholly or partly owned by the United States which is an instrumentality of the United States, or any board, bureau, division, service, office, officer, authority, administration, or other establishment in the executive branch of Government.

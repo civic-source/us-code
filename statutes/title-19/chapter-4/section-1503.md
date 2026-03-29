@@ -5,7 +5,7 @@ usc_section: "1503"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1503"
-generated_at: "2026-03-29T00:30:20.143Z"
+generated_at: "2026-03-29T02:12:08.614Z"
 ---
 
 # § 1503. Dutiable value

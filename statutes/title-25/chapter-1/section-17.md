@@ -5,11 +5,11 @@ usc_section: "17"
 chapter: 1
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 17"
-generated_at: "2026-03-29T00:30:38.610Z"
+generated_at: "2026-03-29T02:13:20.833Z"
 ---
 
 # § 17. Use of Bureau facilities
 
-(a) The Secretary of the Interior may permit tribal governments and organizations and student organizations to use Bureau of Indian Affairs equipment, land, buildings, and other structures if such use does not interfere with the purpose for which they are administered by the Bureau and when such use benefits Indians or Federal or federally funded programs. The Secretary may charge the user for the cost of the utilities and other expenses incurred for the use. The amounts collected shall be credited to the appropriation or fund from which the expenses are paid and shall be available until the end of the fiscal year following the fiscal year in which collected. The Secretary’s decision to not permit a use under this section is final and shall not be subject to judicial review.
-(b) The authority provided by this section is in addition to, and not in derogation of, any other authority available to the Secretary of the Interior.
-(c) The payment of any fee, or agreement to pay costs, to the Secretary shall not in any way or to any extent limit the right of the United States to rely upon sovereign immunity or any State or Federal statute limiting liability or damages from injuries sustained in connection with use under this section.
+- **(a)** The Secretary of the Interior may permit tribal governments and organizations and student organizations to use Bureau of Indian Affairs equipment, land, buildings, and other structures if such use does not interfere with the purpose for which they are administered by the Bureau and when such use benefits Indians or Federal or federally funded programs. The Secretary may charge the user for the cost of the utilities and other expenses incurred for the use. The amounts collected shall be credited to the appropriation or fund from which the expenses are paid and shall be available until the end of the fiscal year following the fiscal year in which collected. The Secretary’s decision to not permit a use under this section is final and shall not be subject to judicial review.
+- **(b)** The authority provided by this section is in addition to, and not in derogation of, any other authority available to the Secretary of the Interior.
+- **(c)** The payment of any fee, or agreement to pay costs, to the Secretary shall not in any way or to any extent limit the right of the United States to rely upon sovereign immunity or any State or Federal statute limiting liability or damages from injuries sustained in connection with use under this section.

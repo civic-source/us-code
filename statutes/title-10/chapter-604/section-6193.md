@@ -5,7 +5,7 @@ usc_section: "6193"
 chapter: 604
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 6193"
-generated_at: "2026-03-29T00:20:53.179Z"
+generated_at: "2026-03-29T02:10:45.257Z"
 ---
 
 # § 6193. Sandia National Laboratories

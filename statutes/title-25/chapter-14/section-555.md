@@ -5,7 +5,7 @@ usc_section: "555"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 555"
-generated_at: "2026-03-29T00:30:38.652Z"
+generated_at: "2026-03-29T02:13:20.865Z"
 ---
 
 # § 555. Repealed. Aug. 13, 1954, ch. 732, § 9(c) , 68 Stat. 721

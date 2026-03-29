@@ -5,7 +5,7 @@ usc_section: "557"
 chapter: 13
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 557"
-generated_at: "2026-03-29T00:31:30.772Z"
+generated_at: "2026-03-29T02:14:11.214Z"
 ---
 
 # § 557. Rules and regulations

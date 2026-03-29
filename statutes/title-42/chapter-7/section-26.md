@@ -5,31 +5,31 @@ usc_section: "26"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-03-29T00:32:53.422Z"
+generated_at: "2026-03-29T02:15:36.214Z"
 ---
 
 # § 1395w–26. Establishment of standards
 
-(a) 
-  (1) 
-    (A) The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
-    (B) In establishing solvency standards under subparagraph (A) for provider-sponsored organizations, the Secretary shall consult with interested parties and shall take into account—
-      (i) the delivery system assets of such an organization and ability of such an organization to provide services directly to enrollees through affiliated providers,
-      (ii) alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to the ability of such an organization to meet its service obligations through direct delivery of care, and
-      (iii) any standards developed by the National Association of Insurance Commissioners specifically for risk-based health care delivery organizations.
-    (C) Such standards shall include provisions to prevent enrollees from being held liable to any person or entity for the Medicare+ÐChoice organization’s debts in the event of the organization’s insolvency.
-  (2) In carrying out the rulemaking process under this subsection, the Secretary, after consultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997 .
-  (3) As part of the notice under paragraph (2), and for purposes of this subsection, the “target date for publication” (referred to in section 564(a)(5) of such title) shall be April 1, 1998 .
-  (4) In applying section 564(c) of such title under this subsection, “15 days” shall be substituted for “30 days”.
-  (5) The Secretary shall provide for—
-    (A) the appointment of a negotiated rulemaking committee under section 565(a) of such title by not later than 30 days after the end of the comment period provided for under section 564(c) of such title (as shortened under paragraph (4)), and
-    (B) the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
-  (6) The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998 , regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
-  (7) If the committee is not terminated under paragraph (6), the rulemaking committee shall submit a report containing a proposed rule by not later than 1 month before the target date of publication.
-  (8) The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
-  (9) The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target date of publication.
-(b) 
-  (1) The Secretary shall establish by regulation other standards (not described in subsection (a)) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998 . In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
-  (2) Consistent with the requirements of this part, standards established under this subsection shall be based on standards established under section 1395mm of this title to carry out analogous provisions of such section.
-  (3) The standards established under this part shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to MA plans which are offered by MA organizations under this part.
-  (4) The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.
+- **(a)**
+  - **(1)**
+    - **(A)** The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
+    - **(B)** In establishing solvency standards under subparagraph (A) for provider-sponsored organizations, the Secretary shall consult with interested parties and shall take into account—
+      - **(i)** the delivery system assets of such an organization and ability of such an organization to provide services directly to enrollees through affiliated providers,
+      - **(ii)** alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to the ability of such an organization to meet its service obligations through direct delivery of care, and
+      - **(iii)** any standards developed by the National Association of Insurance Commissioners specifically for risk-based health care delivery organizations.
+    - **(C)** Such standards shall include provisions to prevent enrollees from being held liable to any person or entity for the Medicare+ÐChoice organization’s debts in the event of the organization’s insolvency.
+  - **(2)** In carrying out the rulemaking process under this subsection, the Secretary, after consultation with the National Association of Insurance Commissioners, the American Academy of Actuaries, organizations representative of medicare beneficiaries, and other interested parties, shall publish the notice provided for under section 564(a) of title 5 by not later than 45 days after August 5, 1997 .
+  - **(3)** As part of the notice under paragraph (2), and for purposes of this subsection, the “target date for publication” (referred to in section 564(a)(5) of such title) shall be April 1, 1998 .
+  - **(4)** In applying section 564(c) of such title under this subsection, “15 days” shall be substituted for “30 days”.
+  - **(5)** The Secretary shall provide for—
+    - **(A)** the appointment of a negotiated rulemaking committee under section 565(a) of such title by not later than 30 days after the end of the comment period provided for under section 564(c) of such title (as shortened under paragraph (4)), and
+    - **(B)** the nomination of a facilitator under section 566(c) of such title by not later than 10 days after the date of appointment of the committee.
+  - **(6)** The negotiated rulemaking committee appointed under paragraph (5) shall report to the Secretary, by not later than January 1, 1998 , regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before 1 month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress towards such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this subsection through such other methods as the Secretary may provide.
+  - **(7)** If the committee is not terminated under paragraph (6), the rulemaking committee shall submit a report containing a proposed rule by not later than 1 month before the target date of publication.
+  - **(8)** The Secretary shall publish a rule under this subsection in the Federal Register by not later than the target date of publication. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 60 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications of entities to be certified as provider-sponsored organizations pursuant to such rules and consistent with this subsection.
+  - **(9)** The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target date of publication.
+- **(b)**
+  - **(1)** The Secretary shall establish by regulation other standards (not described in subsection (a)) for Medicare+Choice organizations and plans consistent with, and to carry out, this part. The Secretary shall publish such regulations by June 1, 1998 . In order to carry out this requirement in a timely manner, the Secretary may promulgate regulations that take effect on an interim basis, after notice and pending opportunity for public comment.
+  - **(2)** Consistent with the requirements of this part, standards established under this subsection shall be based on standards established under section 1395mm of this title to carry out analogous provisions of such section.
+  - **(3)** The standards established under this part shall supersede any State law or regulation (other than State licensing laws or State laws relating to plan solvency) with respect to MA plans which are offered by MA organizations under this part.
+  - **(4)** The Secretary may not implement, other than at the beginning of a calendar year, regulations under this section that impose new, significant regulatory requirements on a Medicare+Choice organization or plan.

@@ -5,7 +5,7 @@ usc_section: "1925"
 chapter: 18
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1925"
-generated_at: "2026-03-29T00:32:53.711Z"
+generated_at: "2026-03-29T02:15:36.543Z"
 ---
 
 # § 1925. Omitted

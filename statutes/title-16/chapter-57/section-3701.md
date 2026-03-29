@@ -5,13 +5,13 @@ usc_section: "3701"
 chapter: 57
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3701"
-generated_at: "2026-03-29T00:29:52.806Z"
+generated_at: "2026-03-29T02:11:53.894Z"
 ---
 
 # § 3701. Establishment and purposes of Foundation
 
-(a) There is established the National Fish and Wildlife Foundation (hereinafter in this chapter referred to as the “Foundation”). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
-(b) The purposes of the Foundation are—
-  (1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration, to further the conservation and management of fish, wildlife, plants, and other natural resources;
-  (2) to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
-  (3) to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.
+- **(a)** There is established the National Fish and Wildlife Foundation (hereinafter in this chapter referred to as the “Foundation”). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
+- **(b)** The purposes of the Foundation are—
+  - **(1)** to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration, to further the conservation and management of fish, wildlife, plants, and other natural resources;
+  - **(2)** to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
+  - **(3)** to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.

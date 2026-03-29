@@ -5,21 +5,21 @@ usc_section: "8961"
 chapter: 115
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8961"
-generated_at: "2026-03-29T00:29:41.964Z"
+generated_at: "2026-03-29T02:11:34.465Z"
 ---
 
 # § 8961. PFAS destruction and disposal guidance
 
-(a) Not later than 1 year after December 20, 2019 , the Administrator shall publish interim guidance on the destruction and disposal of perfluoroalkyl and polyfluoroalkyl substances and materials containing perfluoroalkyl and polyfluoroalkyl substances, including—
-  (1) aqueous film-forming foam;
-  (2) soil and biosolids;
-  (3) textiles, other than consumer goods, treated with perfluoroalkyl and polyfluoroalkyl substances;
-  (4) spent filters, membranes, resins, granular carbon, and other waste from water treatment;
-  (5) landfill leachate containing perfluoroalkyl and polyfluoroalkyl substances; and
-  (6) solid, liquid, or gas waste streams containing perfluoroalkyl and polyfluoroalkyl substances from facilities manufacturing or using perfluoroalkyl and polyfluoroalkyl substances.
-(b) The interim guidance under subsection (a) shall—
-  (1) take into consideration—
-    (A) the potential for releases of perfluoroalkyl and polyfluoroalkyl substances during destruction or disposal, including through volatilization, air dispersion, or leachate; and
-    (B) potentially vulnerable populations living near likely destruction or disposal sites; and
-  (2) provide guidance on testing and monitoring air, effluent, and soil near potential destruction or disposal sites for releases described in paragraph (1)(A).
-(c) The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator determines to be appropriate, but not less frequently than once every 3 years.
+- **(a)** Not later than 1 year after December 20, 2019 , the Administrator shall publish interim guidance on the destruction and disposal of perfluoroalkyl and polyfluoroalkyl substances and materials containing perfluoroalkyl and polyfluoroalkyl substances, including—
+  - **(1)** aqueous film-forming foam;
+  - **(2)** soil and biosolids;
+  - **(3)** textiles, other than consumer goods, treated with perfluoroalkyl and polyfluoroalkyl substances;
+  - **(4)** spent filters, membranes, resins, granular carbon, and other waste from water treatment;
+  - **(5)** landfill leachate containing perfluoroalkyl and polyfluoroalkyl substances; and
+  - **(6)** solid, liquid, or gas waste streams containing perfluoroalkyl and polyfluoroalkyl substances from facilities manufacturing or using perfluoroalkyl and polyfluoroalkyl substances.
+- **(b)** The interim guidance under subsection (a) shall—
+  - **(1)** take into consideration—
+    - **(A)** the potential for releases of perfluoroalkyl and polyfluoroalkyl substances during destruction or disposal, including through volatilization, air dispersion, or leachate; and
+    - **(B)** potentially vulnerable populations living near likely destruction or disposal sites; and
+  - **(2)** provide guidance on testing and monitoring air, effluent, and soil near potential destruction or disposal sites for releases described in paragraph (1)(A).
+- **(c)** The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator determines to be appropriate, but not less frequently than once every 3 years.

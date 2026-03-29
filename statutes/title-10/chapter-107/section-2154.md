@@ -5,18 +5,18 @@ usc_section: "2154"
 chapter: 107
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2154"
-generated_at: "2026-03-29T00:20:53.020Z"
+generated_at: "2026-03-29T02:10:45.065Z"
 ---
 
 # § 2154. Joint professional military education: three-phase approach
 
-(a) The Secretary of Defense shall implement a three-phase approach to joint professional military education, as follows:
-  (1) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in section 2151(a) of this title ), in addition to the principal curriculum taught to all officers at an intermediate level service school or at a joint intermediate level school.
-  (2) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of—
-    (A) a joint professional military education curriculum taught in residence at, or offered through, the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
-    (B) a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
-  (3) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with section 2153 of this title .
-(b) The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in section 2155(a) of this title .
-(c) 
-  (1) Any distance education program offered to satisfy Phase I or Phase II instruction under paragraph (1) or (2) of subsection (a) shall include a pathway for a student who is a member of a reserve component to fully complete the course of instruction asynchronously and while physically separated from the course instructors and without any in-person attendance required to graduate from such program.
-  (2) In this subsection, the term “distance education” has the meaning given such term in section 103 of the Higher Education Act of 1965 ( 20 U.S.C. 1003 ).
+- **(a)** The Secretary of Defense shall implement a three-phase approach to joint professional military education, as follows:
+  - **(1)** There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase I instruction, consisting of all the elements of a joint professional military education (as specified in section 2151(a) of this title ), in addition to the principal curriculum taught to all officers at an intermediate level service school or at a joint intermediate level school.
+  - **(2)** There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as Phase II instruction, consisting of—
+    - **(A)** a joint professional military education curriculum taught in residence at, or offered through, the Joint Forces Staff College or a senior level service school that has been designated and certified by the Secretary of Defense as a joint professional military education institution; or
+    - **(B)** a senior level service course of at least ten months that has been designated and certified by the Secretary of Defense as a joint professional military education course.
+  - **(3)** There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with section 2153 of this title .
+- **(b)** The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in section 2155(a) of this title .
+- **(c)**
+  - **(1)** Any distance education program offered to satisfy Phase I or Phase II instruction under paragraph (1) or (2) of subsection (a) shall include a pathway for a student who is a member of a reserve component to fully complete the course of instruction asynchronously and while physically separated from the course instructors and without any in-person attendance required to graduate from such program.
+  - **(2)** In this subsection, the term “distance education” has the meaning given such term in section 103 of the Higher Education Act of 1965 ( 20 U.S.C. 1003 ).

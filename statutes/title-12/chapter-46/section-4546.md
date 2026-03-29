@@ -5,14 +5,14 @@ usc_section: "4546"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4546"
-generated_at: "2026-03-29T00:29:16.828Z"
+generated_at: "2026-03-29T02:11:21.202Z"
 ---
 
 # § 4546. Prohibition of public disclosure of proprietary information
 
-(a) Subject to subsection (d), the Director may, by regulation or order, provide that certain information shall be treated as proprietary information and not subject to disclosure under section 4543 of this title , section 1723a(n)(3) of this title , or section 1456(f)(3) of this title .
-(b) The Director shall not provide public access to, or disclose to the public, any information required to be submitted by an enterprise under section 1723a(n) of this title or section 1456(f) of this title that the Director determines is proprietary.
-(c) This section may not be construed to authorize the disclosure of information to, or examination of data by, the public or a representative of any person or agency pending the issuance of a final decision under this section.
-(d) Subject to privacy considerations, as described in section 304(j) of the Home Mortgage Disclosure Act of 1975 ( 12 U.S.C. 2803(j) ), the Director shall, by regulation or order, provide that certain information relating to single family mortgage data of the enterprises shall be disclosed to the public, in order to make available to the public—
-  (1) the same data from the enterprises that is required of insured depository institutions under the Home Mortgage Disclosure Act of 1975 [ 12 U.S.C. 2801 et seq.]; and
-  (2) information collected by the Director under section 4544(b)(6) of this title .
+- **(a)** Subject to subsection (d), the Director may, by regulation or order, provide that certain information shall be treated as proprietary information and not subject to disclosure under section 4543 of this title , section 1723a(n)(3) of this title , or section 1456(f)(3) of this title .
+- **(b)** The Director shall not provide public access to, or disclose to the public, any information required to be submitted by an enterprise under section 1723a(n) of this title or section 1456(f) of this title that the Director determines is proprietary.
+- **(c)** This section may not be construed to authorize the disclosure of information to, or examination of data by, the public or a representative of any person or agency pending the issuance of a final decision under this section.
+- **(d)** Subject to privacy considerations, as described in section 304(j) of the Home Mortgage Disclosure Act of 1975 ( 12 U.S.C. 2803(j) ), the Director shall, by regulation or order, provide that certain information relating to single family mortgage data of the enterprises shall be disclosed to the public, in order to make available to the public—
+  - **(1)** the same data from the enterprises that is required of insured depository institutions under the Home Mortgage Disclosure Act of 1975 [ 12 U.S.C. 2801 et seq.]; and
+  - **(2)** information collected by the Director under section 4544(b)(6) of this title .

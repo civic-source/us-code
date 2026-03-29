@@ -5,10 +5,10 @@ usc_section: "5627"
 chapter: 53
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5627"
-generated_at: "2026-03-29T00:29:16.955Z"
+generated_at: "2026-03-29T02:11:21.309Z"
 ---
 
 # § 5627. Regulations
 
-(a) The Secretary is authorized to promulgate regulations to implement and administer the grant programs and undertakings authorized by this subchapter.
-(b) Regulations prescribed under this section may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of grant programs, undertakings, or eligible entities, as, in the judgment of the Secretary, are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion of this subchapter, or to facilitate compliance with this subchapter.
+- **(a)** The Secretary is authorized to promulgate regulations to implement and administer the grant programs and undertakings authorized by this subchapter.
+- **(b)** Regulations prescribed under this section may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of grant programs, undertakings, or eligible entities, as, in the judgment of the Secretary, are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion of this subchapter, or to facilitate compliance with this subchapter.

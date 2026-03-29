@@ -5,17 +5,17 @@ usc_section: "1543"
 chapter: 33
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 1543"
-generated_at: "2026-03-29T00:33:18.107Z"
+generated_at: "2026-03-29T02:16:14.703Z"
 ---
 
 # § 1543. Reporting requirement
 
-(a) In the absence of a declaration of war, in any case in which United States Armed Forces are introduced—
-  (1) into hostilities or into situations where imminent involvement in hostilities is clearly indicated by the circumstances;
-  (2) into the territory, airspace or waters of a foreign nation, while equipped for combat, except for deployments which relate solely to supply, replacement, repair, or training of such forces; or
-  (3) in numbers which substantially enlarge United States Armed Forces equipped for combat already located in a foreign nation;
-    (A) the circumstances necessitating the introduction of United States Armed Forces;
-    (B) the constitutional and legislative authority under which such introduction took place; and
-    (C) the estimated scope and duration of the hostilities or involvement.
-(b) The President shall provide such other information as the Congress may request in the fulfillment of its constitutional responsibilities with respect to committing the Nation to war and to the use of United States Armed Forces abroad.
-(c) Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
+- **(a)** In the absence of a declaration of war, in any case in which United States Armed Forces are introduced—
+  - **(1)** into hostilities or into situations where imminent involvement in hostilities is clearly indicated by the circumstances;
+  - **(2)** into the territory, airspace or waters of a foreign nation, while equipped for combat, except for deployments which relate solely to supply, replacement, repair, or training of such forces; or
+  - **(3)** in numbers which substantially enlarge United States Armed Forces equipped for combat already located in a foreign nation;
+    - **(A)** the circumstances necessitating the introduction of United States Armed Forces;
+    - **(B)** the constitutional and legislative authority under which such introduction took place; and
+    - **(C)** the estimated scope and duration of the hostilities or involvement.
+- **(b)** The President shall provide such other information as the Congress may request in the fulfillment of its constitutional responsibilities with respect to committing the Nation to war and to the use of United States Armed Forces abroad.
+- **(c)** Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.

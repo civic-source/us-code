@@ -5,7 +5,7 @@ usc_section: "20709c"
 chapter: 207
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 20709c"
-generated_at: "2026-03-29T00:32:01.657Z"
+generated_at: "2026-03-29T02:14:25.352Z"
 ---
 
 # §§ 20709a to 20709c. Transferred

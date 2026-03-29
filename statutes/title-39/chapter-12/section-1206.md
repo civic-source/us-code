@@ -5,11 +5,11 @@ usc_section: "1206"
 chapter: 12
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 1206"
-generated_at: "2026-03-29T00:32:18.841Z"
+generated_at: "2026-03-29T02:14:53.120Z"
 ---
 
 # § 1206. Collective-bargaining agreements
 
-(a) Collective-bargaining agreements between the Postal Service and bargaining representatives recognized under section 1203 of this title shall be effective for not less than 2 years.
-(b) Collective-bargaining agreements between the Postal Service and bargaining representatives recognized under section 1203 may include any procedures for resolution by the parties of grievances and adverse actions arising under the agreement, including procedures culminating in binding third-party arbitration, or the parties may adopt any such procedures by mutual agreement in the event of a dispute.
-(c) The Postal Service and bargaining representatives recognized under section 1203 may by mutual agreement adopt procedures for the resolution of disputes or impasses arising in the negotiation of a collective-bargaining agreement.
+- **(a)** Collective-bargaining agreements between the Postal Service and bargaining representatives recognized under section 1203 of this title shall be effective for not less than 2 years.
+- **(b)** Collective-bargaining agreements between the Postal Service and bargaining representatives recognized under section 1203 may include any procedures for resolution by the parties of grievances and adverse actions arising under the agreement, including procedures culminating in binding third-party arbitration, or the parties may adopt any such procedures by mutual agreement in the event of a dispute.
+- **(c)** The Postal Service and bargaining representatives recognized under section 1203 may by mutual agreement adopt procedures for the resolution of disputes or impasses arising in the negotiation of a collective-bargaining agreement.

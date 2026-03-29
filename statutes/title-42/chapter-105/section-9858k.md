@@ -5,13 +5,13 @@ usc_section: "9858k"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9858k"
-generated_at: "2026-03-29T00:32:54.182Z"
+generated_at: "2026-03-29T02:15:37.103Z"
 ---
 
 # § 9858k. Limitations on use of financial assistance for certain purposes
 
-(a) No financial assistance provided under this subchapter, pursuant to the choice of a parent under section 9858c(c)(2)(A)(i)(I) of this title or through any other grant or contract under the State plan, shall be expended for any sectarian purpose or activity, including sectarian worship or instruction.
-(b) With regard to services provided to students enrolled in grades 1 through 12, no financial assistance provided under this subchapter shall be expended for—
-  (1) any services provided to such students during the regular school day;
-  (2) any services for which such students receive academic credit toward graduation; or
-  (3) any instructional services which supplant or duplicate the academic program of any public or private school.
+- **(a)** No financial assistance provided under this subchapter, pursuant to the choice of a parent under section 9858c(c)(2)(A)(i)(I) of this title or through any other grant or contract under the State plan, shall be expended for any sectarian purpose or activity, including sectarian worship or instruction.
+- **(b)** With regard to services provided to students enrolled in grades 1 through 12, no financial assistance provided under this subchapter shall be expended for—
+  - **(1)** any services provided to such students during the regular school day;
+  - **(2)** any services for which such students receive academic credit toward graduation; or
+  - **(3)** any instructional services which supplant or duplicate the academic program of any public or private school.

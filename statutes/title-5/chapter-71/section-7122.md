@@ -5,12 +5,12 @@ usc_section: "7122"
 chapter: 71
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7122"
-generated_at: "2026-03-29T00:28:38.376Z"
+generated_at: "2026-03-29T02:10:01.908Z"
 ---
 
 # § 7122. Exceptions to arbitral awards
 
-(a) Either party to arbitration under this chapter may file with the Authority an exception to any arbitrator’s award pursuant to the arbitration (other than an award relating to a matter described in section 7121(f) of this title ). If upon review the Authority finds that the award is deficient—
-  (1) because it is contrary to any law, rule, or regulation; or
-  (2) on other grounds similar to those applied by Federal courts in private sector labor-management relations;
-(b) If no exception to an arbitrator’s award is filed under subsection (a) of this section during the 30-day period beginning on the date the award is served on the party, the award shall be final and binding. An agency shall take the actions required by an arbitrator’s final award. The award may include the payment of backpay (as provided in section 5596 of this title ).
+- **(a)** Either party to arbitration under this chapter may file with the Authority an exception to any arbitrator’s award pursuant to the arbitration (other than an award relating to a matter described in section 7121(f) of this title ). If upon review the Authority finds that the award is deficient—
+  - **(1)** because it is contrary to any law, rule, or regulation; or
+  - **(2)** on other grounds similar to those applied by Federal courts in private sector labor-management relations;
+- **(b)** If no exception to an arbitrator’s award is filed under subsection (a) of this section during the 30-day period beginning on the date the award is served on the party, the award shall be final and binding. An agency shall take the actions required by an arbitrator’s final award. The award may include the payment of backpay (as provided in section 5596 of this title ).

@@ -5,12 +5,12 @@ usc_section: "390dd"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 390dd"
-generated_at: "2026-03-29T00:32:57.336Z"
+generated_at: "2026-03-29T02:15:47.532Z"
 ---
 
 # § 390dd. Limitation on ownership
 
 Except as provided in section 390ii of this title , irrigation water may not be delivered to—
 
-  (1) a qualified recipient for use in the irrigation of lands owned by such qualified recipient in excess of nine hundred and sixty acres of class I lands or the equivalent thereof; or
-  (2) a limited recipient for the use in the irrigation of lands owned by such limited recipient in excess of six hundred and forty acres of class I lands or the equivalent thereof;
+  - **(1)** a qualified recipient for use in the irrigation of lands owned by such qualified recipient in excess of nine hundred and sixty acres of class I lands or the equivalent thereof; or
+  - **(2)** a limited recipient for the use in the irrigation of lands owned by such limited recipient in excess of six hundred and forty acres of class I lands or the equivalent thereof;

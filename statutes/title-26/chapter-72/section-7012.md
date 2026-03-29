@@ -5,14 +5,14 @@ usc_section: "7012"
 chapter: 72
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7012"
-generated_at: "2026-03-29T00:31:21.080Z"
+generated_at: "2026-03-29T02:14:01.375Z"
 ---
 
 # § 7012. Cross references
 
-  (1) For provisions relating to registration in connection with firearms, see sections 5802, 5841, and 5861.
-  (2) For special rules with respect to registration by persons engaged in receiving wagers, see section 4412.
-  (3) For provisions relating to registration in relation to the taxes on gasoline and diesel fuel, see section 4101.
-  (4) For provisions relating to registration by dealers in distilled spirits, wines, and beer, see section 5124.
-  (5) For penalty for failure to register, see section 7272.
-  (6) For other penalties for failure to register with respect to wagering, see section 7262.
+  - **(1)** For provisions relating to registration in connection with firearms, see sections 5802, 5841, and 5861.
+  - **(2)** For special rules with respect to registration by persons engaged in receiving wagers, see section 4412.
+  - **(3)** For provisions relating to registration in relation to the taxes on gasoline and diesel fuel, see section 4101.
+  - **(4)** For provisions relating to registration by dealers in distilled spirits, wines, and beer, see section 5124.
+  - **(5)** For penalty for failure to register, see section 7272.
+  - **(6)** For other penalties for failure to register with respect to wagering, see section 7262.

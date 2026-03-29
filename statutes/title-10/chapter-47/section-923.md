@@ -5,16 +5,16 @@ usc_section: "923"
 chapter: 47
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 923"
-generated_at: "2026-03-29T00:20:52.903Z"
+generated_at: "2026-03-29T02:10:44.927Z"
 ---
 
 # § 923. Art. 123. Offenses concerning Government computers
 
-(a) Any person subject to this chapter who—
-  (1) knowingly accesses a Government computer, with an unauthorized purpose, and by doing so obtains classified information, with reason to believe such information could be used to the injury of the United States, or to the advantage of any foreign nation, and intentionally communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted such information to any person not entitled to receive it;
-  (2) intentionally accesses a Government computer, with an unauthorized purpose, and thereby obtains classified or other protected information from any Government computer; or
-  (3) knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization to a Government computer;
-(b) In this section:
-  (1) The term “computer” has the meaning given that term in section 1030 of title 18 .
-  (2) The term “Government computer” means a computer owned or operated by or on behalf of the United States Government.
-  (3) The term “damage” has the meaning given that term in section 1030 of title 18 .
+- **(a)** Any person subject to this chapter who—
+  - **(1)** knowingly accesses a Government computer, with an unauthorized purpose, and by doing so obtains classified information, with reason to believe such information could be used to the injury of the United States, or to the advantage of any foreign nation, and intentionally communicates, delivers, transmits, or causes to be communicated, delivered, or transmitted such information to any person not entitled to receive it;
+  - **(2)** intentionally accesses a Government computer, with an unauthorized purpose, and thereby obtains classified or other protected information from any Government computer; or
+  - **(3)** knowingly causes the transmission of a program, information, code, or command, and as a result of such conduct, intentionally causes damage without authorization to a Government computer;
+- **(b)** In this section:
+  - **(1)** The term “computer” has the meaning given that term in section 1030 of title 18 .
+  - **(2)** The term “Government computer” means a computer owned or operated by or on behalf of the United States Government.
+  - **(3)** The term “damage” has the meaning given that term in section 1030 of title 18 .

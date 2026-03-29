@@ -5,7 +5,7 @@ usc_section: "1173"
 chapter: 16
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 1173"
-generated_at: "2026-03-29T00:30:24.355Z"
+generated_at: "2026-03-29T02:12:28.169Z"
 ---
 
 # § 1173. Transferred and Omitted

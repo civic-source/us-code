@@ -5,7 +5,7 @@ usc_section: "3211"
 chapter: 32
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3211"
-generated_at: "2026-03-29T00:32:18.856Z"
+generated_at: "2026-03-29T02:14:53.131Z"
 ---
 
 # § 3211. Public documents

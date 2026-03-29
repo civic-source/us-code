@@ -1,0 +1,18 @@
+---
+title: "Section 1087b - Funds for origination of direct student loans"
+usc_title: 20
+usc_section: "1087b"
+chapter: 28
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1087b"
+generated_at: "2026-03-29T02:12:17.253Z"
+---
+
+# § 1087b. Funds for origination of direct student loans
+
+- **(a)** The Secretary shall provide, on the basis of the need and the eligibility of students at each participating institution, and parents of such students, for such loans, funds for student and parent loans under this part—
+  - **(1)** directly to an institution of higher education that has an agreement with the Secretary under section 1087d(a) of this title to participate in the direct student loan programs under this part and that also has an agreement with the Secretary under section 1087d(b) of this title to originate loans under this part; or
+  - **(2)** through an alternative originator designated by the Secretary to students (and parents of students) attending institutions of higher education that have an agreement with the Secretary under section 1087d(a) of this title but that do not have an agreement with the Secretary under section 1087d(b) of this title .
+- **(b)** No institution of higher education shall have a right to participate in the programs authorized by this part, to originate loans, or to perform any program function under this part. Nothing in this subsection shall be construed so as to limit the entitlement of an eligible student attending a participating institution (or the eligible parent of such student) to borrow under this part.
+- **(c)** Loan funds shall be paid and delivered to an institution by the Secretary prior to the beginning of the payment period established by the Secretary in a manner that is consistent with payment and delivery of Federal Pell Grants under subpart 1 of part A of this subchapter.
+- **(d)** Loan funds for students (and parents of students) attending institutions outside the United States shall be disbursed through a financial institution located or operating in the United States and designated by the Secretary to serve as the agent of such institutions with respect to the receipt of the disbursements of such loan funds and the transfer of such funds to such institutions. To be eligible to receive funds under this part, an institution outside the United States shall make arrangements with the agent designated by the Secretary under this subsection to receive funds under this part.

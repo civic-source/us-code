@@ -5,19 +5,19 @@ usc_section: "6432"
 chapter: 73
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 6432"
-generated_at: "2026-03-29T00:30:33.966Z"
+generated_at: "2026-03-29T02:12:40.387Z"
 ---
 
 # § 6432. Duties of Commission
 
-(a) The Commission shall have as its primary responsibility—
-  (1) the annual and ongoing review of the facts and circumstances of violations of religious freedom presented in the Country Reports on Human Rights Practices, the Annual Report, and the Executive Summary, as well as information from other sources as appropriate; and
-  (2) the making of policy recommendations to the President, the Secretary of State, and Congress with respect to matters involving international religious freedom.
-(b) The Commission, in evaluating United States Government policies in response to violations of religious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
-(c) The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation, official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination or reduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
-(d) Together with specific policy recommendations provided under subsections (b) and (c), the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
-(e) 
-  (1) The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
-  (2) The Commission shall regularly—
-    (A) track the implementation by the United States Government of the recommendations it makes under paragraph (1); and
-    (B) review, to the extent practicable, the effectiveness of such implemented recommendations in advancing religious freedom internationally.
+- **(a)** The Commission shall have as its primary responsibility—
+  - **(1)** the annual and ongoing review of the facts and circumstances of violations of religious freedom presented in the Country Reports on Human Rights Practices, the Annual Report, and the Executive Summary, as well as information from other sources as appropriate; and
+  - **(2)** the making of policy recommendations to the President, the Secretary of State, and Congress with respect to matters involving international religious freedom.
+- **(b)** The Commission, in evaluating United States Government policies in response to violations of religious freedom, shall consider and recommend options for policies of the United States Government with respect to each foreign country the government of which has engaged in or tolerated violations of religious freedom, including particularly severe violations of religious freedom, including diplomatic inquiries, diplomatic protest, official public protest demarche of protest, condemnation within multilateral fora, delay or cancellation of cultural or scientific exchanges, delay or cancellation of working, official, or state visits, reduction of certain assistance funds, termination of certain assistance funds, imposition of targeted trade sanctions, imposition of broad trade sanctions, and withdrawal of the chief of mission.
+- **(c)** The Commission, in evaluating the United States Government policies with respect to countries found to be taking deliberate steps and making significant improvement in respect for the right of religious freedom, shall consider and recommend policy options, including private commendation, diplomatic commendation, official public commendation, commendation within multilateral fora, an increase in cultural or scientific exchanges, or both, termination or reduction of existing Presidential actions, an increase in certain assistance funds, and invitations for working, official, or state visits.
+- **(d)** Together with specific policy recommendations provided under subsections (b) and (c), the Commission shall also indicate its evaluation of the potential effects of such policies, if implemented, on the religious communities and individuals whose rights are found to be violated in the country in question.
+- **(e)**
+  - **(1)** The Commission shall, on an ongoing basis, monitor facts and circumstances of violations of religious freedom, in consultation with independent human rights groups and nongovernmental organizations, including churches and other religious communities, and make such recommendations as may be necessary to the appropriate officials and offices in the United States Government.
+  - **(2)** The Commission shall regularly—
+    - **(A)** track the implementation by the United States Government of the recommendations it makes under paragraph (1); and
+    - **(B)** review, to the extent practicable, the effectiveness of such implemented recommendations in advancing religious freedom internationally.

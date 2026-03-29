@@ -5,10 +5,10 @@ usc_section: "8127"
 chapter: 81
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 8127"
-generated_at: "2026-03-29T00:28:38.385Z"
+generated_at: "2026-03-29T02:10:01.922Z"
 ---
 
 # § 8127. Representation; attorneys’ fees
 
-(a) A claimant may authorize an individual to represent him in any proceeding under this subchapter before the Secretary of Labor.
-(b) A claim for legal or other services furnished in respect to a case, claim, or award for compensation under this subchapter is valid only if approved by the Secretary.
+- **(a)** A claimant may authorize an individual to represent him in any proceeding under this subchapter before the Secretary of Labor.
+- **(b)** A claim for legal or other services furnished in respect to a case, claim, or award for compensation under this subchapter is valid only if approved by the Secretary.

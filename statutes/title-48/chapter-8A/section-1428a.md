@@ -5,7 +5,7 @@ usc_section: "1428a"
 chapter: 8
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1428a"
-generated_at: "2026-03-29T00:33:06.618Z"
+generated_at: "2026-03-29T02:16:00.808Z"
 ---
 
 # § 1428a. Submission of plan for use of funds; contents of plan; term, interest rate, and premium charge of loan

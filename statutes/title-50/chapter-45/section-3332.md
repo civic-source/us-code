@@ -5,25 +5,25 @@ usc_section: "3332"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3332"
-generated_at: "2026-03-29T00:33:18.192Z"
+generated_at: "2026-03-29T02:16:14.785Z"
 ---
 
 # § 3332. Guidance and reporting requirement regarding the interactions between the intelligence community and entertainment industry
 
-(a) In this section:
-  (1) The term “engagement”—
-    (A) means any significant interaction between an element of the intelligence community and an entertainment industry entity for the purposes of contributing to an entertainment product intended to be heard, read, viewed, or otherwise experienced by the public; and
-    (B) does not include routine inquiries made by the press or news media to the public affairs office of an intelligence community.
-  (2) The term “entertainment industry entity” means an entity that creates, produces, promotes, or distributes a work of entertainment intended to be heard, read, viewed, or otherwise experienced by an audience, including—
-    (A) theater productions, motion pictures, radio broadcasts, television broadcasts, podcasts, webcasts, other sound or visual recording, music, or dance;
-    (B) books and other published material; and
-    (C) such other entertainment activity, as determined by the Director of National Intelligence.
-(b) 
-  (1) Not later than 180 days after May 5, 2017 , the Director of National Intelligence shall issue, and release to the public, guidance regarding engagements by elements of the intelligence community with entertainment industry entities.
-  (2) The guidance required by paragraph (1) shall permit an element of the intelligence community to conduct engagements, if the head of the element, or a designee of such head, provides prior approval.
-(c) At the written request of either of the congressional intelligence committees, the Director of National Intelligence shall submit to such committees information with respect to engagements occurring during the calendar year prior to the year during which such request is made. Such information may include—
-  (1) a description of the nature and duration of each such engagement;
-  (2) the cost incurred by the United States Government for each such engagement;
-  (3) a description of the benefits to the United States Government for each such engagement;
-  (4) a determination of whether any information was declassified, and whether any classified information was improperly disclosed, for each such engagement; and
-  (5) a description of the work produced through each such engagement.
+- **(a)** In this section:
+  - **(1)** The term “engagement”—
+    - **(A)** means any significant interaction between an element of the intelligence community and an entertainment industry entity for the purposes of contributing to an entertainment product intended to be heard, read, viewed, or otherwise experienced by the public; and
+    - **(B)** does not include routine inquiries made by the press or news media to the public affairs office of an intelligence community.
+  - **(2)** The term “entertainment industry entity” means an entity that creates, produces, promotes, or distributes a work of entertainment intended to be heard, read, viewed, or otherwise experienced by an audience, including—
+    - **(A)** theater productions, motion pictures, radio broadcasts, television broadcasts, podcasts, webcasts, other sound or visual recording, music, or dance;
+    - **(B)** books and other published material; and
+    - **(C)** such other entertainment activity, as determined by the Director of National Intelligence.
+- **(b)**
+  - **(1)** Not later than 180 days after May 5, 2017 , the Director of National Intelligence shall issue, and release to the public, guidance regarding engagements by elements of the intelligence community with entertainment industry entities.
+  - **(2)** The guidance required by paragraph (1) shall permit an element of the intelligence community to conduct engagements, if the head of the element, or a designee of such head, provides prior approval.
+- **(c)** At the written request of either of the congressional intelligence committees, the Director of National Intelligence shall submit to such committees information with respect to engagements occurring during the calendar year prior to the year during which such request is made. Such information may include—
+  - **(1)** a description of the nature and duration of each such engagement;
+  - **(2)** the cost incurred by the United States Government for each such engagement;
+  - **(3)** a description of the benefits to the United States Government for each such engagement;
+  - **(4)** a determination of whether any information was declassified, and whether any classified information was improperly disclosed, for each such engagement; and
+  - **(5)** a description of the work produced through each such engagement.

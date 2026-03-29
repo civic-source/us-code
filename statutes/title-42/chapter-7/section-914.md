@@ -5,21 +5,21 @@ usc_section: "914"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 914"
-generated_at: "2026-03-29T00:32:53.276Z"
+generated_at: "2026-03-29T02:15:36.053Z"
 ---
 
 # § 914. Office of Women’s Health
 
-(a) The Secretary shall establish within the Office of the Administrator of the Health Resources and Services Administration, an office to be known as the Office of Women’s Health. The Office shall be headed by a director who shall be appointed by the Administrator.
-(b) The Director of the Office shall—
-  (1) report to the Administrator on the current Administration level of activity regarding women’s health across, where appropriate, age, biological, and sociocultural contexts;
-  (2) establish short-range and long-range goals and objectives within the Health Resources and Services Administration for women’s health and, as relevant and appropriate, coordinate with other appropriate offices on activities within the Administration that relate to health care provider training, health service delivery, research, and demonstration projects, for issues of particular concern to women;
-  (3) identify projects in women’s health that should be conducted or supported by the bureaus of the Administration;
-  (4) consult with health professionals, nongovernmental organizations, consumer organizations, women’s health professionals, and other individuals and groups, as appropriate, on Administration policy with regard to women; and
-  (5) serve as a member of the Department of Health and Human Services Coordinating Committee on Women’s Health (established under section 237a(b)(4) of this title ).
-(c) The Director of the Office shall assume the authority for the development, implementation, administration, and evaluation of any projects carried out through the Health Resources and Services Administration relating to women’s health on March 23, 2010 .
-(d) For purposes of this section:
-  (1) The term “Administration” means the Health Resources and Services Administration.
-  (2) The term “Administrator” means the Administrator of the Health Resources and Services Administration.
-  (3) The term “Office” means the Office of Women’s Health established under this section in the Administration.
-(e) For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.
+- **(a)** The Secretary shall establish within the Office of the Administrator of the Health Resources and Services Administration, an office to be known as the Office of Women’s Health. The Office shall be headed by a director who shall be appointed by the Administrator.
+- **(b)** The Director of the Office shall—
+  - **(1)** report to the Administrator on the current Administration level of activity regarding women’s health across, where appropriate, age, biological, and sociocultural contexts;
+  - **(2)** establish short-range and long-range goals and objectives within the Health Resources and Services Administration for women’s health and, as relevant and appropriate, coordinate with other appropriate offices on activities within the Administration that relate to health care provider training, health service delivery, research, and demonstration projects, for issues of particular concern to women;
+  - **(3)** identify projects in women’s health that should be conducted or supported by the bureaus of the Administration;
+  - **(4)** consult with health professionals, nongovernmental organizations, consumer organizations, women’s health professionals, and other individuals and groups, as appropriate, on Administration policy with regard to women; and
+  - **(5)** serve as a member of the Department of Health and Human Services Coordinating Committee on Women’s Health (established under section 237a(b)(4) of this title ).
+- **(c)** The Director of the Office shall assume the authority for the development, implementation, administration, and evaluation of any projects carried out through the Health Resources and Services Administration relating to women’s health on March 23, 2010 .
+- **(d)** For purposes of this section:
+  - **(1)** The term “Administration” means the Health Resources and Services Administration.
+  - **(2)** The term “Administrator” means the Administrator of the Health Resources and Services Administration.
+  - **(3)** The term “Office” means the Office of Women’s Health established under this section in the Administration.
+- **(e)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014.

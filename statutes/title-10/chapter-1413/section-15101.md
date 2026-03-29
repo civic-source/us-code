@@ -5,14 +5,14 @@ usc_section: "15101"
 chapter: 1413
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 15101"
-generated_at: "2026-03-29T00:20:53.297Z"
+generated_at: "2026-03-29T02:10:45.386Z"
 ---
 
 # § 15101. Officers in designated competitive categories
 
-(a) Each Secretary of a military department may designate one or more competitive categories for promotion of officers under section 14005 of this title that are under the jurisdiction of such Secretary as a competitive category of officers whose promotion, retirement, and continuation on the reserve active-status list shall be subject to the provisions of this chapter.
-(b) The Secretary of a military department may not designate a competitive category of officers for purposes of this chapter until 60 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report on the designation of the competitive category. The report on the designation of a competitive category shall set forth the following:
-  (1) A detailed description of officer requirements for officers within the competitive category.
-  (2) An explanation of the number of opportunities for consideration for promotion to each particular grade, and an estimate of promotion timing, within the competitive category.
-  (3) An estimate of the size of the promotion zone for each grade within the competitive category.
-  (4) A description of any other matters the Secretary considered in determining to designate the competitive category for purposes of this chapter.
+- **(a)** Each Secretary of a military department may designate one or more competitive categories for promotion of officers under section 14005 of this title that are under the jurisdiction of such Secretary as a competitive category of officers whose promotion, retirement, and continuation on the reserve active-status list shall be subject to the provisions of this chapter.
+- **(b)** The Secretary of a military department may not designate a competitive category of officers for purposes of this chapter until 60 days after the date on which the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report on the designation of the competitive category. The report on the designation of a competitive category shall set forth the following:
+  - **(1)** A detailed description of officer requirements for officers within the competitive category.
+  - **(2)** An explanation of the number of opportunities for consideration for promotion to each particular grade, and an estimate of promotion timing, within the competitive category.
+  - **(3)** An estimate of the size of the promotion zone for each grade within the competitive category.
+  - **(4)** A description of any other matters the Secretary considered in determining to designate the competitive category for purposes of this chapter.

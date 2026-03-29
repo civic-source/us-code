@@ -5,10 +5,10 @@ usc_section: "6575"
 chapter: 84
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 6575"
-generated_at: "2026-03-29T00:29:52.863Z"
+generated_at: "2026-03-29T02:11:53.971Z"
 ---
 
 # § 6575. Technical assistance
 
-(a) The Secretary of Agriculture shall provide landowners with technical assistance to assist the owners in complying with the terms of plans (as included in agreements or easements) under the healthy forests reserve program.
-(b) The Secretary of Agriculture may request the services of, and enter into cooperative agreements with, individuals or entities certified as technical service providers under section 3842 of this title , to assist the Secretary in providing technical assistance necessary to develop and implement the healthy forests reserve program.
+- **(a)** The Secretary of Agriculture shall provide landowners with technical assistance to assist the owners in complying with the terms of plans (as included in agreements or easements) under the healthy forests reserve program.
+- **(b)** The Secretary of Agriculture may request the services of, and enter into cooperative agreements with, individuals or entities certified as technical service providers under section 3842 of this title , to assist the Secretary in providing technical assistance necessary to develop and implement the healthy forests reserve program.

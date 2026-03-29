@@ -5,21 +5,21 @@ usc_section: "5131"
 chapter: 68
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5131"
-generated_at: "2026-03-29T00:32:53.898Z"
+generated_at: "2026-03-29T02:15:36.740Z"
 ---
 
 # § 5131. Federal and State disaster preparedness programs
 
-(a) The President is authorized to establish a program of disaster preparedness that utilizes services of all appropriate agencies and includes—
-  (1) preparation of disaster preparedness plans for mitigation, warning, emergency operations, rehabilitation, and recovery;
-  (2) training and exercises;
-  (3) postdisaster critiques and evaluations;
-  (4) annual review of programs;
-  (5) coordination of Federal, State, and local preparedness programs;
-  (6) application of science and technology;
-  (7) research.
-(b) The President shall provide technical assistance to the States in developing comprehensive plans and practicable programs for preparation against disasters, including hazard reduction, avoidance, and mitigation; for assistance to individuals, businesses, and State and local governments following such disasters; and for recovery of damaged or destroyed public and private facilities.
-(c) Upon application by a State, the President is authorized to make grants, not to exceed in the aggregate to such State $250,000, for the development of plans, programs, and capabilities for disaster preparedness and prevention. Such grants shall be applied for within one year from May 22, 1974 . Any State desiring financial assistance under this section shall designate or create an agency to plan and administer such a disaster preparedness program, and shall, through such agency, submit a State plan to the President, which shall—
-  (1) set forth a comprehensive and detailed State program for preparation against and assistance following, emergencies and major disasters, including provisions for assistance to individuals, businesses, and local governments; and
-  (2) include provisions for appointment and training of appropriate staffs, formulation of necessary regulations and procedures and conduct of required exercises.
-(d) The President is authorized to make grants not to exceed 50 per centum of the cost of improving, maintaining and updating State disaster assistance plans, including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards; except that no such grant shall exceed $50,000 per annum to any State.
+- **(a)** The President is authorized to establish a program of disaster preparedness that utilizes services of all appropriate agencies and includes—
+  - **(1)** preparation of disaster preparedness plans for mitigation, warning, emergency operations, rehabilitation, and recovery;
+  - **(2)** training and exercises;
+  - **(3)** postdisaster critiques and evaluations;
+  - **(4)** annual review of programs;
+  - **(5)** coordination of Federal, State, and local preparedness programs;
+  - **(6)** application of science and technology;
+  - **(7)** research.
+- **(b)** The President shall provide technical assistance to the States in developing comprehensive plans and practicable programs for preparation against disasters, including hazard reduction, avoidance, and mitigation; for assistance to individuals, businesses, and State and local governments following such disasters; and for recovery of damaged or destroyed public and private facilities.
+- **(c)** Upon application by a State, the President is authorized to make grants, not to exceed in the aggregate to such State $250,000, for the development of plans, programs, and capabilities for disaster preparedness and prevention. Such grants shall be applied for within one year from May 22, 1974 . Any State desiring financial assistance under this section shall designate or create an agency to plan and administer such a disaster preparedness program, and shall, through such agency, submit a State plan to the President, which shall—
+  - **(1)** set forth a comprehensive and detailed State program for preparation against and assistance following, emergencies and major disasters, including provisions for assistance to individuals, businesses, and local governments; and
+  - **(2)** include provisions for appointment and training of appropriate staffs, formulation of necessary regulations and procedures and conduct of required exercises.
+- **(d)** The President is authorized to make grants not to exceed 50 per centum of the cost of improving, maintaining and updating State disaster assistance plans, including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards; except that no such grant shall exceed $50,000 per annum to any State.

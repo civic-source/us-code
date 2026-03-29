@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 2
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 14"
-generated_at: "2026-03-29T00:07:03.093Z"
+generated_at: "2026-03-29T02:12:17.129Z"
 ---
 
 # §§ 11 to 14. Repealed. Pub. L. 105–33, title VI, § 6201 , Aug. 5, 1997 , 111 Stat. 653

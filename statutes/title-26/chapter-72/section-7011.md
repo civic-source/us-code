@@ -5,10 +5,10 @@ usc_section: "7011"
 chapter: 72
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7011"
-generated_at: "2026-03-29T00:31:21.080Z"
+generated_at: "2026-03-29T02:14:01.373Z"
 ---
 
 # § 7011. Registration—persons paying a special tax
 
-(a) Every person engaged in any trade or business on which a special tax is imposed by law shall register with the Secretary his name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
-(b) Any person exempted under the provisions of section 4905 from the payment of a special tax, shall register with the Secretary in accordance with regulations prescribed by the Secretary.
+- **(a)** Every person engaged in any trade or business on which a special tax is imposed by law shall register with the Secretary his name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
+- **(b)** Any person exempted under the provisions of section 4905 from the payment of a special tax, shall register with the Secretary in accordance with regulations prescribed by the Secretary.

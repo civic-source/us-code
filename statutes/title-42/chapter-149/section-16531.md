@@ -5,14 +5,14 @@ usc_section: "16531"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16531"
-generated_at: "2026-03-29T00:32:54.413Z"
+generated_at: "2026-03-29T02:15:37.370Z"
 ---
 
 # § 16531. Definitions
 
 In this subchapter:
 
-  (1) The term “Department” means the Department of Energy.
-  (2) The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20 .
-  (3) The term “National Laboratory” has the meaning given the term in section 15801 of this title .
-  (4) The term “Secretary” means the Secretary of Energy.
+  - **(1)** The term “Department” means the Department of Energy.
+  - **(2)** The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20 .
+  - **(3)** The term “National Laboratory” has the meaning given the term in section 15801 of this title .
+  - **(4)** The term “Secretary” means the Secretary of Energy.

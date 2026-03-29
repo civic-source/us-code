@@ -5,10 +5,10 @@ usc_section: "119"
 chapter: 1
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 119"
-generated_at: "2026-03-29T00:32:17.139Z"
+generated_at: "2026-03-29T02:14:50.328Z"
 ---
 
 # § 119. Contracting for statistical analyses and data evaluation
 
-(a) The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, as determined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.”. 1 1 So in original. The quotation marks and second period probably should not appear.
-(b) Nothing in this section may be construed to limit the authority of the Secretary to enter into contracts or other agreements for statistical analyses and data evaluation under any other provision of law.
+- **(a)** The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, as determined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.”. 1 1 So in original. The quotation marks and second period probably should not appear.
+- **(b)** Nothing in this section may be construed to limit the authority of the Secretary to enter into contracts or other agreements for statistical analyses and data evaluation under any other provision of law.

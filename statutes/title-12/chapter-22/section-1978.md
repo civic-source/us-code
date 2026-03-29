@@ -5,7 +5,7 @@ usc_section: "1978"
 chapter: 22
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1978"
-generated_at: "2026-03-29T00:29:16.728Z"
+generated_at: "2026-03-29T02:11:21.108Z"
 ---
 
 # § 1978. Actions under other Federal or State laws unaffected; regulations or orders barred as a defense

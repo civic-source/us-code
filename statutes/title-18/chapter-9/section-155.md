@@ -5,7 +5,7 @@ usc_section: "155"
 chapter: 9
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 155"
-generated_at: "2026-03-29T00:30:15.595Z"
+generated_at: "2026-03-29T02:12:02.356Z"
 ---
 
 # § 155. Fee agreements in cases under title 11 and receiverships

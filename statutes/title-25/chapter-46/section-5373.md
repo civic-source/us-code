@@ -5,20 +5,20 @@ usc_section: "5373"
 chapter: 46
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 5373"
-generated_at: "2026-03-29T00:30:38.802Z"
+generated_at: "2026-03-29T02:13:21.015Z"
 ---
 
 # § 5373. Regulations
 
-(a) 
-  (1) Not later than 90 days after October 21, 2020 , the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
-  (2) Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 38 months after October 21, 2020 .
-  (3) The authority to promulgate regulations under paragraph (1) shall expire on the date that is 50 months after October 21, 2020 .
-(b) 
-  (1) A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only representatives of the Federal Government and Tribal government.
-  (2) Among the Federal representatives described in paragraph (1), the Office of Self-Governance shall be the lead agency for the Department.
-(c) The Secretary shall adapt the negotiated rulemaking procedures to the unique context of self-governance and the government-to-government relationship between the United States and Indian Tribes.
-(d) 
-  (1) The Secretary may repeal any regulation that is inconsistent with this chapter.
-  (2) Subject to section 101(a) of the PROGRESS for Indian Tribes Act and except with respect to programs described under section 5363(c) of this title , this subchapter shall supersede any conflicting provision of law (including any conflicting regulations).
-  (3) The lack of promulgated regulations on an issue shall not limit the effect or implementation of this subchapter.
+- **(a)**
+  - **(1)** Not later than 90 days after October 21, 2020 , the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
+  - **(2)** Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 38 months after October 21, 2020 .
+  - **(3)** The authority to promulgate regulations under paragraph (1) shall expire on the date that is 50 months after October 21, 2020 .
+- **(b)**
+  - **(1)** A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this section shall have as its members only representatives of the Federal Government and Tribal government.
+  - **(2)** Among the Federal representatives described in paragraph (1), the Office of Self-Governance shall be the lead agency for the Department.
+- **(c)** The Secretary shall adapt the negotiated rulemaking procedures to the unique context of self-governance and the government-to-government relationship between the United States and Indian Tribes.
+- **(d)**
+  - **(1)** The Secretary may repeal any regulation that is inconsistent with this chapter.
+  - **(2)** Subject to section 101(a) of the PROGRESS for Indian Tribes Act and except with respect to programs described under section 5363(c) of this title , this subchapter shall supersede any conflicting provision of law (including any conflicting regulations).
+  - **(3)** The lack of promulgated regulations on an issue shall not limit the effect or implementation of this subchapter.

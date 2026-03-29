@@ -5,14 +5,14 @@ usc_section: "2124"
 chapter: 23
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 2124"
-generated_at: "2026-03-29T00:29:16.732Z"
+generated_at: "2026-03-29T02:11:21.112Z"
 ---
 
 # § 2124. Stock of banks for cooperatives
 
-(a) The Capital stock of each bank for cooperatives shall be in such amount as its board determines is required for the purpose of providing adequate capital to permit the bank to meet the credit needs of borrowers from the bank and such amounts may be increased or decreased from time to time in accordance with such needs.
-(b) The capital stock of each bank shall be divided into shares of par value of $100 each and may be of such classes as the board may determine. Such stock may be issued in fractional shares.
-(c) Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks 1 1 So in original. There probably should be a semicolon after “banks”. (ii) other categories of persons and entities described in sections 2128 and 2129 of this title eligible to borrow from the bank, as determined by the bank’s board of directors; and (iii) other banks for cooperatives, and shall not be otherwise transferred, pledged, or hypothecated except as consented to by the issuing bank under regulations of the Farm Credit Administration.
-(d) Each holder of one or more shares of voting stock which is eligible to borrow from a bank for cooperatives shall be entitled only to one vote and only in the affairs of the bank in the district in which its principal office is located unless otherwise authorized under regulations issued by the Farm Credit Administration, except that if such holder has not been a borrower from the bank in which it holds such stock within a period of two years next preceding the date fixed by the Farm Credit Administration prior to the commencement of voting, it shall not be entitled to vote.
-(e) Nonvoting investment stock may be issued in such series and in such amounts as may be determined by the board and may be exchanged for voting stock or sold or transferred to any person subject to the approval of the issuing bank.
-(f) Participation certificates may be issued to parties to whom voting stock may not be issued.
+- **(a)** The Capital stock of each bank for cooperatives shall be in such amount as its board determines is required for the purpose of providing adequate capital to permit the bank to meet the credit needs of borrowers from the bank and such amounts may be increased or decreased from time to time in accordance with such needs.
+- **(b)** The capital stock of each bank shall be divided into shares of par value of $100 each and may be of such classes as the board may determine. Such stock may be issued in fractional shares.
+- **(c)** Voting stock may be issued or transferred to and held only by (i) cooperative associations eligible to borrow from the banks 1 1 So in original. There probably should be a semicolon after “banks”. (ii) other categories of persons and entities described in sections 2128 and 2129 of this title eligible to borrow from the bank, as determined by the bank’s board of directors; and (iii) other banks for cooperatives, and shall not be otherwise transferred, pledged, or hypothecated except as consented to by the issuing bank under regulations of the Farm Credit Administration.
+- **(d)** Each holder of one or more shares of voting stock which is eligible to borrow from a bank for cooperatives shall be entitled only to one vote and only in the affairs of the bank in the district in which its principal office is located unless otherwise authorized under regulations issued by the Farm Credit Administration, except that if such holder has not been a borrower from the bank in which it holds such stock within a period of two years next preceding the date fixed by the Farm Credit Administration prior to the commencement of voting, it shall not be entitled to vote.
+- **(e)** Nonvoting investment stock may be issued in such series and in such amounts as may be determined by the board and may be exchanged for voting stock or sold or transferred to any person subject to the approval of the issuing bank.
+- **(f)** Participation certificates may be issued to parties to whom voting stock may not be issued.

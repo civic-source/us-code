@@ -5,7 +5,7 @@ usc_section: "3692"
 chapter: 233
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3692"
-generated_at: "2026-03-29T00:30:15.752Z"
+generated_at: "2026-03-29T02:12:02.504Z"
 ---
 
 # § 3692. Jury trial for contempt in labor dispute cases

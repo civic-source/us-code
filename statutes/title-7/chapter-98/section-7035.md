@@ -5,12 +5,12 @@ usc_section: "7035"
 chapter: 98
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7035"
-generated_at: "2026-03-29T00:28:58.258Z"
+generated_at: "2026-03-29T02:10:17.108Z"
 ---
 
 # § 7035. Confidentiality
 
 In carrying out this subchapter, the Secretary—
 
-  (1) may not make available any information over the Internet that would otherwise not be available for release under section 552 or 552a of title 5; and
-  (2) shall ensure, to the maximum extent practicable, that the confidentiality of persons is maintained.
+  - **(1)** may not make available any information over the Internet that would otherwise not be available for release under section 552 or 552a of title 5; and
+  - **(2)** shall ensure, to the maximum extent practicable, that the confidentiality of persons is maintained.

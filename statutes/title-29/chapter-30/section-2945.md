@@ -5,7 +5,7 @@ usc_section: "2945"
 chapter: 30
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2945"
-generated_at: "2026-03-29T00:31:27.701Z"
+generated_at: "2026-03-29T02:14:09.496Z"
 ---
 
 # §§ 2931 to 2945. Repealed. Pub. L. 113–128, title V, § 511(a) , July 22, 2014 , 128 Stat. 1705

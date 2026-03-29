@@ -5,7 +5,7 @@ usc_section: "1175"
 chapter: 23
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 1175"
-generated_at: "2026-03-29T00:31:57.290Z"
+generated_at: "2026-03-29T02:14:18.537Z"
 ---
 
 # §§ 1166 to 1175. Omitted

@@ -5,15 +5,15 @@ usc_section: "7302"
 chapter: 92
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 7302"
-generated_at: "2026-03-29T00:29:52.881Z"
+generated_at: "2026-03-29T02:11:53.996Z"
 ---
 
 # § 7302. Definitions
 
 In this chapter:
 
-  (1) The term “Fund” means the Collaborative Forest Landscape Restoration Fund established by section 7303(f) of this title .
-  (2) The term “program” means the Collaborative Forest Landscape Restoration Program established under section 7303(a) of this title .
-  (3) The term “proposal” means a collaborative forest landscape restoration proposal described in section 7303(b) of this title .
-  (4) The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
-  (5) The term “strategy” means a landscape restoration strategy described in section 7303(b)(1) of this title .
+  - **(1)** The term “Fund” means the Collaborative Forest Landscape Restoration Fund established by section 7303(f) of this title .
+  - **(2)** The term “program” means the Collaborative Forest Landscape Restoration Program established under section 7303(a) of this title .
+  - **(3)** The term “proposal” means a collaborative forest landscape restoration proposal described in section 7303(b) of this title .
+  - **(4)** The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+  - **(5)** The term “strategy” means a landscape restoration strategy described in section 7303(b)(1) of this title .

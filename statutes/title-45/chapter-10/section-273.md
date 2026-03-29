@@ -5,7 +5,7 @@ usc_section: "273"
 chapter: 10
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 273"
-generated_at: "2026-03-29T00:32:59.685Z"
+generated_at: "2026-03-29T02:15:50.530Z"
 ---
 
 # §§ 261 to 273. Omitted

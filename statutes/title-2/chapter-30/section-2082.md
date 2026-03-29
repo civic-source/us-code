@@ -1,0 +1,23 @@
+---
+title: "Section 2082 - Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property"
+usc_title: 2
+usc_section: "2082"
+chapter: 30
+current_through: "PL 119-73"
+classification: "2 U.S.C. § 2082"
+generated_at: "2026-03-29T02:09:53.756Z"
+---
+
+# § 2082. Authority of Commission to accept gifts and conduct other transactions relating to works of fine art and other property
+
+- **(a)** In carrying out the purposes referred to in section 2081(a) of this title the Commission is authorized—
+  - **(1)** to accept gifts of works of fine art, gifts of other property, and gifts of money; and
+  - **(2)** to acquire property, administer property, dispose of property, and conduct other transactions related to such purposes.
+- **(b)** The Commission shall, with respect to works of fine art and other property received by the Commission—
+  - **(1)** in consultation with the Joint Committee on the Library, the Senate Commission on Art, or the House of Representatives Fine Arts Board, as the case may be, transfer such property to the entity consulted;
+  - **(2)** if a transfer described in paragraph (1) is not appropriate, dispose of the work of fine art by sale or other transaction; and
+  - **(3)** in the case of property that is not directly related to the purposes referred to in section 2081(a) of this title , dispose of such property by sale or other transaction.
+- **(c)** In conducting transactions under this section, the Commission shall—
+  - **(1)** accept money only in the form of a check or similar instrument made payable to the Treasury of the United States and shall deposit any such check or instrument in accordance with section 2083 of this title ;
+  - **(2)** in making sales and engaging in other property transactions, take into consideration market conditions and other relevant factors; and
+  - **(3)** assure that each transaction is directly related to the purposes referred to in section 2081(a) of this title .

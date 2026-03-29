@@ -5,234 +5,234 @@ usc_section: "21"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 21"
-generated_at: "2026-03-29T00:32:53.409Z"
+generated_at: "2026-03-29T02:15:36.200Z"
 ---
 
 # § 1395w–21. Eligibility, election, and enrollment
 
-(a) 
-  (1) Subject to the provisions of this section, each Medicare+Choice eligible individual (as defined in paragraph (3)) is entitled to elect to receive benefits (other than qualified prescription drug benefits) under this subchapter—
-    (A) through the original medicare fee-for-service program under parts A and B, or
-    (B) through enrollment in a Medicare+Choice plan under this part,
-  (2) A Medicare+Choice plan may be any of the following types of plans of health insurance:
-    (A) 
-      (i) Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title ), and regional or local preferred provider organization plans (including MA regional plans).
-      (ii) Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title ) may be any type of coordinated care plan.
-    (B) An MSA plan, as defined in section 1395w–28(b)(3) of this title , and a contribution into a Medicare+Choice medical savings account (MSA).
-    (C) A Medicare+Choice private fee-for-service plan, as defined in section 1395w–28(b)(2) of this title .
-  (3) In this subchapter, the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
-(b) 
-  (1) 
-    (A) Except as the Secretary may otherwise provide and except as provided in subparagraph (C), an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
-    (B) Pursuant to rules specified by the Secretary, the Secretary shall provide that an MA local plan may offer to all individuals residing in a geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the benefits under the original medicare fee-for-service program option, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
-    (C) Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
-      (i) the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
-      (ii) there is no other Medicare+Choice plan offered in the area in which the enrollee resides at the time of the organization’s election.
-  (2) 
-    (A) An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
-    (B) The Secretary may apply rules similar to the rules described in subparagraph (A) in the case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
-  (3) An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title ), a qualified disabled and working individual (described in section 1396d(s) of this title ), an individual described in section 1396a(a)(10)(E)(iii) of this title , or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
-  (4) 
-    (A) Under rules established by the Secretary, an individual is not eligible to enroll (or continue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
-    (B) The Secretary shall regularly evaluate the impact of permitting enrollment in MSA plans under this part on selection (including adverse selection), use of preventive care, access to care, and the financial status of the Trust Funds under this subchapter.
-    (C) The Secretary shall submit to Congress periodic reports on the numbers of individuals enrolled in such plans and on the evaluation being conducted under subparagraph (B).
-(c) 
-  (1) The Secretary shall establish a process through which elections described in subsection (a) are made and changed, including the form and manner in which such elections are made and changed. Subject to paragraph (4), such elections shall be made or changed only during coverage election periods specified under subsection (e) and shall become effective as provided in subsection (f).
-  (2) 
-    (A) Such process shall permit an individual who wishes to elect a Medicare+Choice plan offered by a Medicare+Choice organization to make such election through the filing of an appropriate election form with the organization.
-    (B) Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, to terminate such election through the filing of an appropriate election form with the organization.
-  (3) 
-    (A) 
-      (i) Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) is deemed to have chosen the original medicare fee-for-service program option.
-      (ii) The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
-    (B) An individual who has made (or is deemed to have made) an election under this section is considered to have continued to make such election until such time as—
-      (i) the individual changes the election under this section, or
-      (ii) the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B), no longer serves the area in which the individual resides.
-  (4) 
-    (A) On the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , an MA eligible individual described in clause (i) or (ii) of subparagraph (B) is deemed, unless the individual elects otherwise, to have elected to receive benefits under this subchapter through an applicable MA plan (and shall be enrolled in such plan) beginning with such plan year, if—
-      (i) the individual is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year;
-      (ii) such reasonable cost reimbursement contract was extended or renewed for the last reasonable cost reimbursement contract year of the contract (as described in subclause (I) of section 1395mm(h)(5)(C)(iv) of this title ) pursuant to such section;
-      (iii) the eligible organization that is offering such reasonable cost reimbursement contract provided the notice described in subclause (III) of such section that the contract was to be converted;
-      (iv) the applicable MA plan—
-        (I) is the plan that was converted from the reasonable cost reimbursement contract described in clause (iii);
-        (II) is offered by the same entity (or an organization affiliated with such entity that has a common ownership interest of control) that entered into such contract; and
-        (III) is offered in the service area where the individual resides;
-      (v) in the case of reasonable cost reimbursement contracts that provide coverage under parts A and B (and, to the extent the Secretary determines it to be feasible, contracts that provide only part B coverage), the difference between the estimated individual costs (as determined applicable by the Secretary) for the applicable MA plan and such costs for the predecessor cost plan does not exceed a threshold established by the Secretary; and
-      (vi) the applicable MA plan—
-        (I) provides coverage for enrollees transitioning from the converted reasonable cost reimbursement contract to such plan to maintain current providers of services and suppliers and course of treatment at the time of enrollment for a period of at least 90 days after enrollment; and
-        (II) during such period, pays such providers of services and suppliers for items and services furnished to the enrollee an amount that is not less than the amount of payment applicable for such items and services under the original Medicare fee-for-service program under parts A and B.
-    (B) 
-      (i) An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who is not, for such previous plan year, enrolled in a prescription drug plan under part D, including coverage under section 1395w–132 of this title .
-      (ii) An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who, for such previous plan year, is enrolled in a prescription drug plan under part D—
-        (I) through such contract; or
-        (II) through a prescription drug plan, if the sponsor of such plan is the same entity (or an organization affiliated with such entity) that entered into such contract.
-    (C) In this paragraph, the term “applicable MA plan” means, in the case of an individual described in—
-      (i) subparagraph (B)(i), an MA plan that is not an MA–PD plan; and
-      (ii) subparagraph (B)(ii), an MA–PD plan.
-    (D) Not later than 45 days before the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , the Secretary shall identify and notify the individuals who will be subject to deemed elections under subparagraph (A) on the first day of such period.
-(d) 
-  (1) The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
-  (2) 
-    (A) At least 15 days before the beginning of each annual, coordinated election period (as defined in subsection (e)(3)(B)), the Secretary shall mail to each Medicare+Choice eligible individual residing in an area the following:
-      (i) The general information described in paragraph (3).
-      (ii) A list identifying the Medicare+Choice plans that are (or will be) available to residents of the area and information described in paragraph (4) concerning such plans. Such information shall be presented in a comparative form.
-      (iii) Any other information that the Secretary determines will assist the individual in making the election under this section.
-    (B) 
-      (i) To the extent practicable, the Secretary shall, not later than 30 days before the beginning of the initial Medicare+Choice enrollment period for an individual described in subsection (e)(1), mail to the individual the information described in subparagraph (A).
-      (ii) The Secretary shall require a Medicare Advantage organization that is offering a Medicare Advantage plan that has been converted from a reasonable cost reimbursement contract pursuant to section 1395mm(h)(5)(C)(iv) of this title to mail, not later than 30 days prior to the first day of the annual, coordinated election period under subsection (e)(3) of a year, to any individual enrolled under such contract and identified by the Secretary under subsection (c)(4)(D) for such year—
-        (I) a notification that such individual will, on such day, be deemed to have made an election with respect to such plan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
-        (II) the information described in subparagraph (A);
-        (III) a description of the differences between such MA plan or MA–PD plan and the reasonable cost reimbursement contract in which the individual was most recently enrolled with respect to benefits covered under such plans, including cost-sharing, premiums, drug coverage, and provider networks;
-        (IV) information about the special period for elections under subsection (e)(2)(F); and
-        (V) other information the Secretary may specify.
-    (C) The information disseminated under this paragraph shall be written and formatted using language that is easily understandable by medicare beneficiaries.
-    (D) The information described in subparagraph (A) shall be updated on at least an annual basis to reflect changes in the availability of Medicare+Choice plans and the benefits and Medicare+Choice monthly basic and supplemental beneficiary premiums for such plans.
-  (3) General information under this paragraph, with respect to coverage under this part during a year, shall include the following:
-    (A) A general description of the benefits covered under the original medicare fee-for-service program under parts A and B, including—
-      (i) covered items and services,
-      (ii) beneficiary cost sharing, such as deductibles, coinsurance, and copayment amounts, and
-      (iii) any beneficiary liability for balance billing.
-    (B) Information and instructions on how to exercise election options under this section.
-    (C) A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title .
-    (D) A general description of the benefits, enrollment rights, and other requirements applicable to medicare supplemental policies under section 1395ss of this title and provisions relating to medicare select policies described in section 1395ss(t) of this title .
-    (E) The fact that a Medicare+Choice organization may terminate its contract, refuse to renew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
-    (F) In the case of an MA regional plan, a description of the catastrophic coverage and single deductible applicable under the plan.
-  (4) Information under this paragraph, with respect to a Medicare+Choice plan for a year, shall include the following:
-    (A) The benefits covered under the plan, including the following:
-      (i) Covered items and services beyond those provided under the original medicare fee-for-service program.
-      (ii) Any beneficiary cost sharing, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title .
-      (iii) Any maximum limitations on out-of-pocket expenses.
-      (iv) In the case of an MSA plan, differences in cost sharing, premiums, and balance billing under such a plan compared to under other Medicare+Choice plans.
-      (v) In the case of a Medicare+Choice private fee-for-service plan, differences in cost sharing, premiums, and balance billing under such a plan compared to under other Medicare+Choice plans.
-      (vi) The extent to which an enrollee may obtain benefits through out-of-network health care providers.
-      (vii) The extent to which an enrollee may select among in-network providers and the types of providers participating in the plan’s network.
-      (viii) The organization’s coverage of emergency and urgently needed care.
-    (B) 
-      (i) The monthly amount of the premium charged to an individual.
-      (ii) The reduction in part B premiums, if any.
-    (C) The service area of the plan.
-    (D) To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
-      (i) disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan’s service area),
-      (ii) information on medicare enrollee satisfaction,
-      (iii) information on health outcomes, and
-      (iv) the recent record regarding compliance of the plan with requirements of this part (as determined by the Secretary).
-    (E) Supplemental health care benefits, including any reductions in cost-sharing under section 1395w–22(a)(3) of this title and the terms and conditions (including premiums) for such benefits.
-  (5) The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
-  (6) The Secretary may enter into contracts with non-Federal entities to carry out activities under this subsection.
-  (7) A Medicare+Choice organization shall provide the Secretary with such information on the organization and each Medicare+Choice plan it offers as may be required for the preparation of the information referred to in paragraph (2)(A).
-(e) 
-  (1) If, at the time an individual first becomes entitled to benefits under part A and enrolled under part B, there is one or more Medicare+Choice plans offered in the area in which the individual resides, the individual shall make the election under this section during a period specified by the Secretary such that if the individual elects a Medicare+Choice plan during the period, coverage under the plan becomes effective as of the first date on which the individual may receive such coverage. If any portion of an individual’s initial enrollment period under part B occurs after the end of the annual, coordinated election period described in paragraph (3)(B)(iii), the initial enrollment period under this part shall further extend through the end of the individual’s initial enrollment period under part B.
-  (2) Subject to paragraph (5)—
-    (A) At any time during the period beginning January 1, 1998 , and ending on December 31, 2005 , a Medicare+Choice eligible individual may change the election under subsection (a)(1).
-    (B) 
-      (i) Subject to clause (ii), subparagraph (C)(iii), 1 1 See References in Text note below. and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1).
-      (ii) An individual may exercise the right under clause (i) only once. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under the first sentence of paragraph (4).
-    (C) Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011 and ending with 2018), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
-    (D) At any time after 2005 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1)—
-      (i) to enroll in a Medicare+Choice plan; or
-      (ii) to change the Medicare+Choice plan in which the individual is enrolled.
-    (E) 
-      (i) On any date during the period beginning on January 1, 2007 , and ending on July 31, 2007 , on which a Medicare Advantage eligible individual is an unenrolled fee-for-service individual (as defined in clause (ii)), the individual may elect under subsection (a)(1) to enroll in a Medicare Advantage plan that is not an MA–PD plan.
-      (ii) In this subparagraph, the term “unenrolled fee-for-service individual” means, with respect to a date, a Medicare Advantage eligible individual who—
-        (I) is receiving benefits under this subchapter through enrollment in the original medicare fee-for-service program under parts A and B;
-        (II) is not enrolled in an MA plan on such date; and
-        (III) as of such date is not otherwise eligible to elect to enroll in an MA plan.
-      (iii) An individual may exercise the right under clause (i) only once during the period described in such clause.
-      (iv) Nothing in this subparagraph shall be construed as permitting an individual exercising the right under clause (i)—
-        (I) who is enrolled in a prescription drug plan under part D, to disenroll from such plan or to enroll in a different prescription drug plan; or
-        (II) who is not enrolled in a prescription drug plan, to enroll in such a plan.
-    (F) 
-      (i) At any time during the period beginning after the last day of the annual, coordinated election period under paragraph (3) in which an individual is deemed to have elected to enroll in an MA plan or MA–PD plan under subsection (c)(4) and ending on the last day of February of the first plan year for which the individual is enrolled in such plan, such individual may change the election under subsection (a)(1) (including changing the MA plan or MA–PD plan in which the individual is enrolled).
-      (ii) An individual may exercise the right under clause (i) only once during the applicable period described in such clause. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
-    (G) 
-      (i) Subject to clause (ii) and subparagraph (D)—
-        (I) in the case of an MA eligible individual who is enrolled in an MA plan, at any time during the first 3 months of a year (beginning with 2019); or
-        (II) in the case of an individual who first becomes an MA eligible individual during a year (beginning with 2019) and enrolls in an MA plan, during the first 3 months during such year in which the individual is an MA eligible individual;
-      (ii) An individual may change the election pursuant to clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
-      (iii) Clauses (i) and (ii) of this subparagraph shall only apply with respect to changes in enrollment in a prescription drug plan under part D in the case of an individual who, previous to such change in enrollment, is enrolled in a Medicare Advantage plan.
-      (iv) Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause, notwithstanding marketing guidelines established by the Centers for Medicare & Medicaid Services.
-  (3) 
-    (A) Subject to paragraph (5), each individual who is eligible to make an election under this section may change such election during an annual, coordinated election period.
-    (B) For purposes of this section, the term “annual, coordinated election period” means—
-      (i) with respect to a year before 2002, the month of November before such year;
-      (ii) with respect to 2002, 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year;
-      (iii) with respect to 2006, the period beginning on November 15, 2005 , and ending on May 15, 2006 ;
-      (iv) with respect to 2007, 2008, 2009, and 2010, the period beginning on November 15 and ending on December 31 of the year before such year; and
-      (v) with respect to 2012 and succeeding years, the period beginning on October 15 and ending on December 7 of the year before such year.
-    (C) During the fall season of each year (beginning with 1999) and during the period described in subparagraph (B)(iii), in conjunction with the annual coordinated election period defined in subparagraph (B), the Secretary shall provide for a nationally coordinated educational and publicity campaign to inform Medicare+Choice eligible individuals about Medicare+Choice plans and the election process provided under this section.
-    (D) During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title , offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.
-  (4) Effective as of January 1, 2006 , an individual may discontinue an election of a Medicare+ÐChoice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
-    (A) 
-      (i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
-      (ii) the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides, or has notified the individual of an impending termination or discontinuation of such plan;
-    (B) the individual is no longer eligible to elect the plan because of a change in the individual’s place of residence or other change in circumstances (specified by the Secretary, but not including termination of the individual’s enrollment on the basis described in clause (i) or (ii) of subsection (g)(3)(B));
-    (C) the individual demonstrates (in accordance with guidelines established by the Secretary) that—
-      (i) the organization offering the plan substantially violated a material provision of the organization’s contract under this part in relation to the individual (including the failure to provide an enrollee on a timely basis medically necessary care for which benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards); or
-      (ii) the organization (or an agent or other entity acting on the organization’s behalf) materially misrepresented the plan’s provisions in marketing the plan to the individual; or
-    (D) the individual meets such other exceptional conditions as the Secretary may provide.
-  (5) Notwithstanding the preceding provisions of this subsection, an individual—
-    (A) may elect an MSA plan only during—
-      (i) an initial open enrollment period described in paragraph (1), or
-      (ii) an annual, coordinated election period described in paragraph (3)(B);
-    (B) subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
-    (C) who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
-  (6) Subject to paragraph (5), a Medicare+Choice organization—
-    (A) shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the period described in paragraph (2)(F), during the month of November 1998 and during the annual, coordinated election period under paragraph (3) for each subsequent year, and during special election periods described in the first sentence of paragraph (4); and
-    (B) may accept other changes to elections at such other times as the organization provides.
-(f) 
-  (1) An election of coverage made during the initial coverage election period under subsection (e)(1) shall take effect upon the date the individual becomes entitled to benefits under part A and enrolled under part B, except as the Secretary may provide (consistent with section 1395q of this title ) in order to prevent retroactive coverage.
-  (2) An election or change of coverage made under subsection (e)(2) shall take effect with the first day of the first calendar month following the date on which the election or change is made.
-  (3) An election or change of coverage made during an annual, coordinated election period (as defined in subsection (e)(3)(B), other than the period described in clause (iii) of such subsection) in a year shall take effect as of the first day of the following year.
-  (4) An election or change of coverage made during any other period under subsection (e)(4) shall take effect in such manner as the Secretary provides in a manner consistent (to the extent practicable) with protecting continuity of health benefit coverage.
-(g) 
-  (1) Except as provided in this subsection, a Medicare+Choice organization shall provide that at any time during which elections are accepted under this section with respect to a Medicare+Choice plan offered by the organization, the organization will accept without restrictions individuals who are eligible to make such election.
-  (2) If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
-    (A) first to such individuals as have elected the plan at the time of the determination, and
-    (B) then to other such individuals in such a manner that does not discriminate, on a basis described in section 1395w–22(b) of this title , among the individuals (who seek to elect the plan).
-  (3) 
-    (A) Subject to subparagraph (B), a Medicare+ÐChoice organization may not for any reason terminate the election of any individual under this section for a Medicare+Choice plan it offers.
-    (B) A Medicare+Choice organization may terminate an individual’s election under this section with respect to a Medicare+Choice plan it offers if—
-      (i) any Medicare+Choice monthly basic and supplemental beneficiary premiums required with respect to such plan are not paid on a timely basis (consistent with standards under section 1395w–26 of this title that provide for a grace period for late payment of such premiums),
-      (ii) the individual has engaged in disruptive behavior (as specified in such standards), or
-      (iii) the plan is terminated with respect to all individuals under this part in the area in which the individual resides.
-    (C) 
-      (i) Any individual whose election is terminated under clause (i) or (ii) of subparagraph (B) is deemed to have elected the original medicare fee-for-service program option described in subsection (a)(1)(A).
-      (ii) Any individual whose election is terminated under subparagraph (B)(iii) shall have a special election period under subsection (e)(4)(A) in which to change coverage to coverage under another Medicare+Choice plan. Such an individual who fails to make an election during such period is deemed to have chosen to change coverage to the original medicare fee-for-service program option described in subsection (a)(1)(A).
-    (D) Pursuant to a contract under section 1395w–27 of this title , each Medicare+Choice organization receiving an election form under subsection (c)(2) shall transmit to the Secretary (at such time and in such manner as the Secretary may specify) a copy of such form or such other information respecting the election as the Secretary may specify.
-(h) 
-  (1) No marketing material or application form may be distributed by a Medicare+Choice organization to (or for the use of) Medicare+ÐChoice eligible individuals unless—
-    (A) at least 45 days (or 10 days in the case described in paragraph (5)) before the date of distribution the organization has submitted the material or form to the Secretary for review, and
-    (B) the Secretary has not disapproved the distribution of such material or form.
-  (2) The standards established under section 1395w–26 of this title shall include guidelines for the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
-  (3) In the case of material or form that is submitted under paragraph (1)(A) to the Secretary or a regional office of the Department of Health and Human Services and the Secretary or the office has not disapproved the distribution of marketing material or form under paragraph (1)(B) with respect to a Medicare+Choice plan in an area, the Secretary is deemed not to have disapproved such distribution in all other areas covered by the plan and organization except with regard to that portion of such material or form that is specific only to an area involved.
-  (4) Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered under this part, included in the standards established under section 1395w–26 of this title . Such standards—
-    (A) shall not permit a Medicare+Choice organization to provide for, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates as an inducement for enrollment or otherwise;
-    (B) may include a prohibition against a Medicare+Choice organization (or agent of such an organization) completing any portion of any election form used to carry out elections under this section on behalf of any individual;
-    (C) shall not permit a Medicare Advantage organization (or the agents, brokers, and other third parties representing such organization) to conduct the prohibited activities described in subsection (j)(1); and
-    (D) shall only permit a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization) to conduct the activities described in subsection (j)(2) in accordance with the limitations established under such subsection.
-  (5) In the case of marketing material of an organization that uses, without modification, proposed model language specified by the Secretary, the period specified in paragraph (1)(A) shall be reduced from 45 days to 10 days.
-  (6) For plan years beginning on or after January 1, 2010 , a Medicare Advantage organization must ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
-  (7) 
-    (A) Each Medicare Advantage organization shall—
-      (i) only use agents and brokers who have been licensed under State law to sell Medicare Advantage plans offered by the Medicare Advantage organization;
-      (ii) in the case where a State has a State appointment law, abide by such law; and
-      (iii) report to the applicable State the termination of any such agent or broker, including the reasons for such termination (as required under applicable State law).
-    (B) Each Medicare Advantage organization shall comply in a timely manner with any request by a State for information regarding the performance of a licensed agent, broker, or other third party representing the Medicare Advantage organization as part of an investigation by the State into the conduct of the agent, broker, or other third party.
-(i) 
-  (1) Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), 1395ww(h)(3)(D), and 1395w–23(m) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B for items and services furnished to the individual.
-  (2) Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
-  (3) Paragraphs (1) and (2) shall not apply with respect to expenses for organ acquisitions for kidney transplants described in section 1395w–22(a)(1)(B)(i) of this title .
-(j) 
-  (1) The following prohibited activities are described in this paragraph:
-    (A) Any unsolicited means of direct contact of prospective enrollees, including soliciting door-to-door or any outbound telemarketing without the prospective enrollee initiating contact.
-    (B) The sale of other non-health related products (such as annuities and life insurance) during any sales or marketing activity or presentation conducted with respect to a Medicare Advantage plan.
-    (C) The provision of meals of any sort, regardless of value, to prospective enrollees at promotional and sales activities.
-    (D) Sales and marketing activities for the enrollment of individuals in Medicare Advantage plans that are conducted—
-      (i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies), except in the case where such activities are conducted in common areas in health care settings; and
-      (ii) at educational events.
-  (2) The Secretary shall establish limitations with respect to at least the following:
-    (A) The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advance agreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
-    (B) The use of the name or logo of a co-branded network provider on Medicare Advantage plan membership and marketing materials.
-    (C) The offering of gifts and other promotional items other than those that are of nominal value (as determined by the Secretary) to prospective enrollees at promotional activities.
-    (D) The use of compensation other than as provided under guidelines established by the Secretary. Such guidelines shall ensure that the use of compensation creates incentives for agents and brokers to enroll individuals in the Medicare Advantage plan that is intended to best meet their health care needs.
-    (E) The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
+- **(a)**
+  - **(1)** Subject to the provisions of this section, each Medicare+Choice eligible individual (as defined in paragraph (3)) is entitled to elect to receive benefits (other than qualified prescription drug benefits) under this subchapter—
+    - **(A)** through the original medicare fee-for-service program under parts A and B, or
+    - **(B)** through enrollment in a Medicare+Choice plan under this part,
+  - **(2)** A Medicare+Choice plan may be any of the following types of plans of health insurance:
+    - **(A)**
+      - **(i)** Coordinated care plans which provide health care services, including but not limited to health maintenance organization plans (with or without point of service options), plans offered by provider-sponsored organizations (as defined in section 1395w–25(d) of this title ), and regional or local preferred provider organization plans (including MA regional plans).
+      - **(ii)** Specialized MA plans for special needs individuals (as defined in section 1395w–28(b)(6) of this title ) may be any type of coordinated care plan.
+    - **(B)** An MSA plan, as defined in section 1395w–28(b)(3) of this title , and a contribution into a Medicare+Choice medical savings account (MSA).
+    - **(C)** A Medicare+Choice private fee-for-service plan, as defined in section 1395w–28(b)(2) of this title .
+  - **(3)** In this subchapter, the term “Medicare+Choice eligible individual” means an individual who is entitled to benefits under part A and enrolled under part B.
+- **(b)**
+  - **(1)**
+    - **(A)** Except as the Secretary may otherwise provide and except as provided in subparagraph (C), an individual is eligible to elect a Medicare+Choice plan offered by a Medicare+Choice organization only if the plan serves the geographic area in which the individual resides.
+    - **(B)** Pursuant to rules specified by the Secretary, the Secretary shall provide that an MA local plan may offer to all individuals residing in a geographic area the option to continue enrollment in the plan, notwithstanding that the individual no longer resides in the service area of the plan, so long as the plan provides that individuals exercising this option have, as part of the benefits under the original medicare fee-for-service program option, reasonable access within that geographic area to the full range of basic benefits, subject to reasonable cost sharing liability in obtaining such benefits.
+    - **(C)** Notwithstanding subparagraph (A) and in addition to subparagraph (B), if a Medicare+Choice organization eliminates from its service area a Medicare+Choice payment area that was previously within its service area, the organization may elect to offer individuals residing in all or portions of the affected area who would otherwise be ineligible to continue enrollment the option to continue enrollment in an MA local plan it offers so long as—
+      - **(i)** the enrollee agrees to receive the full range of basic benefits (excluding emergency and urgently needed care) exclusively at facilities designated by the organization within the plan service area; and
+      - **(ii)** there is no other Medicare+Choice plan offered in the area in which the enrollee resides at the time of the organization’s election.
+  - **(2)**
+    - **(A)** An individual who is enrolled in a health benefit plan under chapter 89 of title 5 is not eligible to enroll in an MSA plan until such time as the Director of the Office of Management and Budget certifies to the Secretary that the Office of Personnel Management has adopted policies which will ensure that the enrollment of such individuals in such plans will not result in increased expenditures for the Federal Government for health benefit plans under such chapter.
+    - **(B)** The Secretary may apply rules similar to the rules described in subparagraph (A) in the case of individuals who are eligible for health care benefits under chapter 55 of title 10 or under chapter 17 of title 38.
+  - **(3)** An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title ), a qualified disabled and working individual (described in section 1396d(s) of this title ), an individual described in section 1396a(a)(10)(E)(iii) of this title , or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
+  - **(4)**
+    - **(A)** Under rules established by the Secretary, an individual is not eligible to enroll (or continue enrollment) in an MSA plan for a year unless the individual provides assurances satisfactory to the Secretary that the individual will reside in the United States for at least 183 days during the year.
+    - **(B)** The Secretary shall regularly evaluate the impact of permitting enrollment in MSA plans under this part on selection (including adverse selection), use of preventive care, access to care, and the financial status of the Trust Funds under this subchapter.
+    - **(C)** The Secretary shall submit to Congress periodic reports on the numbers of individuals enrolled in such plans and on the evaluation being conducted under subparagraph (B).
+- **(c)**
+  - **(1)** The Secretary shall establish a process through which elections described in subsection (a) are made and changed, including the form and manner in which such elections are made and changed. Subject to paragraph (4), such elections shall be made or changed only during coverage election periods specified under subsection (e) and shall become effective as provided in subsection (f).
+  - **(2)**
+    - **(A)** Such process shall permit an individual who wishes to elect a Medicare+Choice plan offered by a Medicare+Choice organization to make such election through the filing of an appropriate election form with the organization.
+    - **(B)** Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, to terminate such election through the filing of an appropriate election form with the organization.
+  - **(3)**
+    - **(A)**
+      - **(i)** Subject to clause (ii), an individual who fails to make an election during an initial election period under subsection (e)(1) is deemed to have chosen the original medicare fee-for-service program option.
+      - **(ii)** The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
+    - **(B)** An individual who has made (or is deemed to have made) an election under this section is considered to have continued to make such election until such time as—
+      - **(i)** the individual changes the election under this section, or
+      - **(ii)** the Medicare+Choice plan with respect to which such election is in effect is discontinued or, subject to subsection (b)(1)(B), no longer serves the area in which the individual resides.
+  - **(4)**
+    - **(A)** On the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , an MA eligible individual described in clause (i) or (ii) of subparagraph (B) is deemed, unless the individual elects otherwise, to have elected to receive benefits under this subchapter through an applicable MA plan (and shall be enrolled in such plan) beginning with such plan year, if—
+      - **(i)** the individual is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year;
+      - **(ii)** such reasonable cost reimbursement contract was extended or renewed for the last reasonable cost reimbursement contract year of the contract (as described in subclause (I) of section 1395mm(h)(5)(C)(iv) of this title ) pursuant to such section;
+      - **(iii)** the eligible organization that is offering such reasonable cost reimbursement contract provided the notice described in subclause (III) of such section that the contract was to be converted;
+      - **(iv)** the applicable MA plan—
+        - **(I)** is the plan that was converted from the reasonable cost reimbursement contract described in clause (iii);
+        - **(II)** is offered by the same entity (or an organization affiliated with such entity that has a common ownership interest of control) that entered into such contract; and
+        - **(III)** is offered in the service area where the individual resides;
+      - **(v)** in the case of reasonable cost reimbursement contracts that provide coverage under parts A and B (and, to the extent the Secretary determines it to be feasible, contracts that provide only part B coverage), the difference between the estimated individual costs (as determined applicable by the Secretary) for the applicable MA plan and such costs for the predecessor cost plan does not exceed a threshold established by the Secretary; and
+      - **(vi)** the applicable MA plan—
+        - **(I)** provides coverage for enrollees transitioning from the converted reasonable cost reimbursement contract to such plan to maintain current providers of services and suppliers and course of treatment at the time of enrollment for a period of at least 90 days after enrollment; and
+        - **(II)** during such period, pays such providers of services and suppliers for items and services furnished to the enrollee an amount that is not less than the amount of payment applicable for such items and services under the original Medicare fee-for-service program under parts A and B.
+    - **(B)**
+      - **(i)** An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who is not, for such previous plan year, enrolled in a prescription drug plan under part D, including coverage under section 1395w–132 of this title .
+      - **(ii)** An MA eligible individual described in this clause, with respect to a plan year, is an MA eligible individual who is enrolled in a reasonable cost reimbursement contract under section 1395mm(h) of this title in the previous plan year and who, for such previous plan year, is enrolled in a prescription drug plan under part D—
+        - **(I)** through such contract; or
+        - **(II)** through a prescription drug plan, if the sponsor of such plan is the same entity (or an organization affiliated with such entity) that entered into such contract.
+    - **(C)** In this paragraph, the term “applicable MA plan” means, in the case of an individual described in—
+      - **(i)** subparagraph (B)(i), an MA plan that is not an MA–PD plan; and
+      - **(ii)** subparagraph (B)(ii), an MA–PD plan.
+    - **(D)** Not later than 45 days before the first day of the annual, coordinated election period under subsection (e)(3) for plan years beginning on or after January 1, 2017 , the Secretary shall identify and notify the individuals who will be subject to deemed elections under subparagraph (A) on the first day of such period.
+- **(d)**
+  - **(1)** The Secretary shall provide for activities under this subsection to broadly disseminate information to medicare beneficiaries (and prospective medicare beneficiaries) on the coverage options provided under this section in order to promote an active, informed selection among such options.
+  - **(2)**
+    - **(A)** At least 15 days before the beginning of each annual, coordinated election period (as defined in subsection (e)(3)(B)), the Secretary shall mail to each Medicare+Choice eligible individual residing in an area the following:
+      - **(i)** The general information described in paragraph (3).
+      - **(ii)** A list identifying the Medicare+Choice plans that are (or will be) available to residents of the area and information described in paragraph (4) concerning such plans. Such information shall be presented in a comparative form.
+      - **(iii)** Any other information that the Secretary determines will assist the individual in making the election under this section.
+    - **(B)**
+      - **(i)** To the extent practicable, the Secretary shall, not later than 30 days before the beginning of the initial Medicare+Choice enrollment period for an individual described in subsection (e)(1), mail to the individual the information described in subparagraph (A).
+      - **(ii)** The Secretary shall require a Medicare Advantage organization that is offering a Medicare Advantage plan that has been converted from a reasonable cost reimbursement contract pursuant to section 1395mm(h)(5)(C)(iv) of this title to mail, not later than 30 days prior to the first day of the annual, coordinated election period under subsection (e)(3) of a year, to any individual enrolled under such contract and identified by the Secretary under subsection (c)(4)(D) for such year—
+        - **(I)** a notification that such individual will, on such day, be deemed to have made an election with respect to such plan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
+        - **(II)** the information described in subparagraph (A);
+        - **(III)** a description of the differences between such MA plan or MA–PD plan and the reasonable cost reimbursement contract in which the individual was most recently enrolled with respect to benefits covered under such plans, including cost-sharing, premiums, drug coverage, and provider networks;
+        - **(IV)** information about the special period for elections under subsection (e)(2)(F); and
+        - **(V)** other information the Secretary may specify.
+    - **(C)** The information disseminated under this paragraph shall be written and formatted using language that is easily understandable by medicare beneficiaries.
+    - **(D)** The information described in subparagraph (A) shall be updated on at least an annual basis to reflect changes in the availability of Medicare+Choice plans and the benefits and Medicare+Choice monthly basic and supplemental beneficiary premiums for such plans.
+  - **(3)** General information under this paragraph, with respect to coverage under this part during a year, shall include the following:
+    - **(A)** A general description of the benefits covered under the original medicare fee-for-service program under parts A and B, including—
+      - **(i)** covered items and services,
+      - **(ii)** beneficiary cost sharing, such as deductibles, coinsurance, and copayment amounts, and
+      - **(iii)** any beneficiary liability for balance billing.
+    - **(B)** Information and instructions on how to exercise election options under this section.
+    - **(C)** A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title .
+    - **(D)** A general description of the benefits, enrollment rights, and other requirements applicable to medicare supplemental policies under section 1395ss of this title and provisions relating to medicare select policies described in section 1395ss(t) of this title .
+    - **(E)** The fact that a Medicare+Choice organization may terminate its contract, refuse to renew its contract, or reduce the service area included in its contract, under this part, and the effect of such a termination, nonrenewal, or service area reduction may have on individuals enrolled with the Medicare+Choice plan under this part.
+    - **(F)** In the case of an MA regional plan, a description of the catastrophic coverage and single deductible applicable under the plan.
+  - **(4)** Information under this paragraph, with respect to a Medicare+Choice plan for a year, shall include the following:
+    - **(A)** The benefits covered under the plan, including the following:
+      - **(i)** Covered items and services beyond those provided under the original medicare fee-for-service program.
+      - **(ii)** Any beneficiary cost sharing, including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title .
+      - **(iii)** Any maximum limitations on out-of-pocket expenses.
+      - **(iv)** In the case of an MSA plan, differences in cost sharing, premiums, and balance billing under such a plan compared to under other Medicare+Choice plans.
+      - **(v)** In the case of a Medicare+Choice private fee-for-service plan, differences in cost sharing, premiums, and balance billing under such a plan compared to under other Medicare+Choice plans.
+      - **(vi)** The extent to which an enrollee may obtain benefits through out-of-network health care providers.
+      - **(vii)** The extent to which an enrollee may select among in-network providers and the types of providers participating in the plan’s network.
+      - **(viii)** The organization’s coverage of emergency and urgently needed care.
+    - **(B)**
+      - **(i)** The monthly amount of the premium charged to an individual.
+      - **(ii)** The reduction in part B premiums, if any.
+    - **(C)** The service area of the plan.
+    - **(D)** To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
+      - **(i)** disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan’s service area),
+      - **(ii)** information on medicare enrollee satisfaction,
+      - **(iii)** information on health outcomes, and
+      - **(iv)** the recent record regarding compliance of the plan with requirements of this part (as determined by the Secretary).
+    - **(E)** Supplemental health care benefits, including any reductions in cost-sharing under section 1395w–22(a)(3) of this title and the terms and conditions (including premiums) for such benefits.
+  - **(5)** The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
+  - **(6)** The Secretary may enter into contracts with non-Federal entities to carry out activities under this subsection.
+  - **(7)** A Medicare+Choice organization shall provide the Secretary with such information on the organization and each Medicare+Choice plan it offers as may be required for the preparation of the information referred to in paragraph (2)(A).
+- **(e)**
+  - **(1)** If, at the time an individual first becomes entitled to benefits under part A and enrolled under part B, there is one or more Medicare+Choice plans offered in the area in which the individual resides, the individual shall make the election under this section during a period specified by the Secretary such that if the individual elects a Medicare+Choice plan during the period, coverage under the plan becomes effective as of the first date on which the individual may receive such coverage. If any portion of an individual’s initial enrollment period under part B occurs after the end of the annual, coordinated election period described in paragraph (3)(B)(iii), the initial enrollment period under this part shall further extend through the end of the individual’s initial enrollment period under part B.
+  - **(2)** Subject to paragraph (5)—
+    - **(A)** At any time during the period beginning January 1, 1998 , and ending on December 31, 2005 , a Medicare+Choice eligible individual may change the election under subsection (a)(1).
+    - **(B)**
+      - **(i)** Subject to clause (ii), subparagraph (C)(iii), 1 1 See References in Text note below. and subparagraph (D), at any time during the first 6 months of 2006, or, if the individual first becomes a Medicare+Choice eligible individual during 2006, during the first 6 months during 2006 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1).
+      - **(ii)** An individual may exercise the right under clause (i) only once. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under the first sentence of paragraph (4).
+    - **(C)** Subject to subparagraph (D), at any time during the first 45 days of a year (beginning with 2011 and ending with 2018), an individual who is enrolled in a Medicare Advantage plan may change the election under subsection (a)(1), but only with respect to coverage under the original medicare fee-for-service program under parts A and B, and may elect qualified prescription drug coverage in accordance with section 1395w–101 of this title .
+    - **(D)** At any time after 2005 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1)—
+      - **(i)** to enroll in a Medicare+Choice plan; or
+      - **(ii)** to change the Medicare+Choice plan in which the individual is enrolled.
+    - **(E)**
+      - **(i)** On any date during the period beginning on January 1, 2007 , and ending on July 31, 2007 , on which a Medicare Advantage eligible individual is an unenrolled fee-for-service individual (as defined in clause (ii)), the individual may elect under subsection (a)(1) to enroll in a Medicare Advantage plan that is not an MA–PD plan.
+      - **(ii)** In this subparagraph, the term “unenrolled fee-for-service individual” means, with respect to a date, a Medicare Advantage eligible individual who—
+        - **(I)** is receiving benefits under this subchapter through enrollment in the original medicare fee-for-service program under parts A and B;
+        - **(II)** is not enrolled in an MA plan on such date; and
+        - **(III)** as of such date is not otherwise eligible to elect to enroll in an MA plan.
+      - **(iii)** An individual may exercise the right under clause (i) only once during the period described in such clause.
+      - **(iv)** Nothing in this subparagraph shall be construed as permitting an individual exercising the right under clause (i)—
+        - **(I)** who is enrolled in a prescription drug plan under part D, to disenroll from such plan or to enroll in a different prescription drug plan; or
+        - **(II)** who is not enrolled in a prescription drug plan, to enroll in such a plan.
+    - **(F)**
+      - **(i)** At any time during the period beginning after the last day of the annual, coordinated election period under paragraph (3) in which an individual is deemed to have elected to enroll in an MA plan or MA–PD plan under subsection (c)(4) and ending on the last day of February of the first plan year for which the individual is enrolled in such plan, such individual may change the election under subsection (a)(1) (including changing the MA plan or MA–PD plan in which the individual is enrolled).
+      - **(ii)** An individual may exercise the right under clause (i) only once during the applicable period described in such clause. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+    - **(G)**
+      - **(i)** Subject to clause (ii) and subparagraph (D)—
+        - **(I)** in the case of an MA eligible individual who is enrolled in an MA plan, at any time during the first 3 months of a year (beginning with 2019); or
+        - **(II)** in the case of an individual who first becomes an MA eligible individual during a year (beginning with 2019) and enrolls in an MA plan, during the first 3 months during such year in which the individual is an MA eligible individual;
+      - **(ii)** An individual may change the election pursuant to clause (i) only once during the applicable 3-month period described in such clause in each year. The limitation under this clause shall not apply to changes in elections effected during an annual, coordinated election period under paragraph (3) or during a special enrollment period under paragraph (4).
+      - **(iii)** Clauses (i) and (ii) of this subparagraph shall only apply with respect to changes in enrollment in a prescription drug plan under part D in the case of an individual who, previous to such change in enrollment, is enrolled in a Medicare Advantage plan.
+      - **(iv)** Pursuant to subsection (j), no unsolicited marketing or marketing materials may be sent to an individual described in clause (i) during the continuous open enrollment and disenrollment period established for the individual under such clause, notwithstanding marketing guidelines established by the Centers for Medicare & Medicaid Services.
+  - **(3)**
+    - **(A)** Subject to paragraph (5), each individual who is eligible to make an election under this section may change such election during an annual, coordinated election period.
+    - **(B)** For purposes of this section, the term “annual, coordinated election period” means—
+      - **(i)** with respect to a year before 2002, the month of November before such year;
+      - **(ii)** with respect to 2002, 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year;
+      - **(iii)** with respect to 2006, the period beginning on November 15, 2005 , and ending on May 15, 2006 ;
+      - **(iv)** with respect to 2007, 2008, 2009, and 2010, the period beginning on November 15 and ending on December 31 of the year before such year; and
+      - **(v)** with respect to 2012 and succeeding years, the period beginning on October 15 and ending on December 7 of the year before such year.
+    - **(C)** During the fall season of each year (beginning with 1999) and during the period described in subparagraph (B)(iii), in conjunction with the annual coordinated election period defined in subparagraph (B), the Secretary shall provide for a nationally coordinated educational and publicity campaign to inform Medicare+Choice eligible individuals about Medicare+Choice plans and the election process provided under this section.
+    - **(D)** During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title , offered in different areas and the election process provided under this section. During the period described in subparagraph (B)(iii), the Secretary shall provide for an educational and publicity campaign to inform MA eligible individuals about the availability of MA plans (including MA–PD plans) offered in different areas and the election process provided under this section.
+  - **(4)** Effective as of January 1, 2006 , an individual may discontinue an election of a Medicare+ÐChoice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
+    - **(A)**
+      - **(i)** the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
+      - **(ii)** the organization has terminated or otherwise discontinued providing the plan in the area in which the individual resides, or has notified the individual of an impending termination or discontinuation of such plan;
+    - **(B)** the individual is no longer eligible to elect the plan because of a change in the individual’s place of residence or other change in circumstances (specified by the Secretary, but not including termination of the individual’s enrollment on the basis described in clause (i) or (ii) of subsection (g)(3)(B));
+    - **(C)** the individual demonstrates (in accordance with guidelines established by the Secretary) that—
+      - **(i)** the organization offering the plan substantially violated a material provision of the organization’s contract under this part in relation to the individual (including the failure to provide an enrollee on a timely basis medically necessary care for which benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards); or
+      - **(ii)** the organization (or an agent or other entity acting on the organization’s behalf) materially misrepresented the plan’s provisions in marketing the plan to the individual; or
+    - **(D)** the individual meets such other exceptional conditions as the Secretary may provide.
+  - **(5)** Notwithstanding the preceding provisions of this subsection, an individual—
+    - **(A)** may elect an MSA plan only during—
+      - **(i)** an initial open enrollment period described in paragraph (1), or
+      - **(ii)** an annual, coordinated election period described in paragraph (3)(B);
+    - **(B)** subject to subparagraph (C), may not discontinue an election of an MSA plan except during the periods described in clause (ii) or (iii) of subparagraph (A) and under the first sentence of paragraph (4); and
+    - **(C)** who elects an MSA plan during an annual, coordinated election period, and who never previously had elected such a plan, may revoke such election, in a manner determined by the Secretary, by not later than December 15 following the date of the election.
+  - **(6)** Subject to paragraph (5), a Medicare+Choice organization—
+    - **(A)** shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the period described in paragraph (2)(F), during the month of November 1998 and during the annual, coordinated election period under paragraph (3) for each subsequent year, and during special election periods described in the first sentence of paragraph (4); and
+    - **(B)** may accept other changes to elections at such other times as the organization provides.
+- **(f)**
+  - **(1)** An election of coverage made during the initial coverage election period under subsection (e)(1) shall take effect upon the date the individual becomes entitled to benefits under part A and enrolled under part B, except as the Secretary may provide (consistent with section 1395q of this title ) in order to prevent retroactive coverage.
+  - **(2)** An election or change of coverage made under subsection (e)(2) shall take effect with the first day of the first calendar month following the date on which the election or change is made.
+  - **(3)** An election or change of coverage made during an annual, coordinated election period (as defined in subsection (e)(3)(B), other than the period described in clause (iii) of such subsection) in a year shall take effect as of the first day of the following year.
+  - **(4)** An election or change of coverage made during any other period under subsection (e)(4) shall take effect in such manner as the Secretary provides in a manner consistent (to the extent practicable) with protecting continuity of health benefit coverage.
+- **(g)**
+  - **(1)** Except as provided in this subsection, a Medicare+Choice organization shall provide that at any time during which elections are accepted under this section with respect to a Medicare+Choice plan offered by the organization, the organization will accept without restrictions individuals who are eligible to make such election.
+  - **(2)** If the Secretary determines that a Medicare+Choice organization, in relation to a Medicare+Choice plan it offers, has a capacity limit and the number of Medicare+Choice eligible individuals who elect the plan under this section exceeds the capacity limit, the organization may limit the election of individuals of the plan under this section but only if priority in election is provided—
+    - **(A)** first to such individuals as have elected the plan at the time of the determination, and
+    - **(B)** then to other such individuals in such a manner that does not discriminate, on a basis described in section 1395w–22(b) of this title , among the individuals (who seek to elect the plan).
+  - **(3)**
+    - **(A)** Subject to subparagraph (B), a Medicare+ÐChoice organization may not for any reason terminate the election of any individual under this section for a Medicare+Choice plan it offers.
+    - **(B)** A Medicare+Choice organization may terminate an individual’s election under this section with respect to a Medicare+Choice plan it offers if—
+      - **(i)** any Medicare+Choice monthly basic and supplemental beneficiary premiums required with respect to such plan are not paid on a timely basis (consistent with standards under section 1395w–26 of this title that provide for a grace period for late payment of such premiums),
+      - **(ii)** the individual has engaged in disruptive behavior (as specified in such standards), or
+      - **(iii)** the plan is terminated with respect to all individuals under this part in the area in which the individual resides.
+    - **(C)**
+      - **(i)** Any individual whose election is terminated under clause (i) or (ii) of subparagraph (B) is deemed to have elected the original medicare fee-for-service program option described in subsection (a)(1)(A).
+      - **(ii)** Any individual whose election is terminated under subparagraph (B)(iii) shall have a special election period under subsection (e)(4)(A) in which to change coverage to coverage under another Medicare+Choice plan. Such an individual who fails to make an election during such period is deemed to have chosen to change coverage to the original medicare fee-for-service program option described in subsection (a)(1)(A).
+    - **(D)** Pursuant to a contract under section 1395w–27 of this title , each Medicare+Choice organization receiving an election form under subsection (c)(2) shall transmit to the Secretary (at such time and in such manner as the Secretary may specify) a copy of such form or such other information respecting the election as the Secretary may specify.
+- **(h)**
+  - **(1)** No marketing material or application form may be distributed by a Medicare+Choice organization to (or for the use of) Medicare+ÐChoice eligible individuals unless—
+    - **(A)** at least 45 days (or 10 days in the case described in paragraph (5)) before the date of distribution the organization has submitted the material or form to the Secretary for review, and
+    - **(B)** the Secretary has not disapproved the distribution of such material or form.
+  - **(2)** The standards established under section 1395w–26 of this title shall include guidelines for the review of any material or form submitted and under such guidelines the Secretary shall disapprove (or later require the correction of) such material or form if the material or form is materially inaccurate or misleading or otherwise makes a material misrepresentation.
+  - **(3)** In the case of material or form that is submitted under paragraph (1)(A) to the Secretary or a regional office of the Department of Health and Human Services and the Secretary or the office has not disapproved the distribution of marketing material or form under paragraph (1)(B) with respect to a Medicare+Choice plan in an area, the Secretary is deemed not to have disapproved such distribution in all other areas covered by the plan and organization except with regard to that portion of such material or form that is specific only to an area involved.
+  - **(4)** Each Medicare+Choice organization shall conform to fair marketing standards, in relation to Medicare+Choice plans offered under this part, included in the standards established under section 1395w–26 of this title . Such standards—
+    - **(A)** shall not permit a Medicare+Choice organization to provide for, subject to subsection (j)(2)(C), cash, gifts, prizes, or other monetary rebates as an inducement for enrollment or otherwise;
+    - **(B)** may include a prohibition against a Medicare+Choice organization (or agent of such an organization) completing any portion of any election form used to carry out elections under this section on behalf of any individual;
+    - **(C)** shall not permit a Medicare Advantage organization (or the agents, brokers, and other third parties representing such organization) to conduct the prohibited activities described in subsection (j)(1); and
+    - **(D)** shall only permit a Medicare Advantage organization (and the agents, brokers, and other third parties representing such organization) to conduct the activities described in subsection (j)(2) in accordance with the limitations established under such subsection.
+  - **(5)** In the case of marketing material of an organization that uses, without modification, proposed model language specified by the Secretary, the period specified in paragraph (1)(A) shall be reduced from 45 days to 10 days.
+  - **(6)** For plan years beginning on or after January 1, 2010 , a Medicare Advantage organization must ensure that the name of each Medicare Advantage plan offered by the Medicare Advantage organization includes the plan type of the plan (using standard terminology developed by the Secretary).
+  - **(7)**
+    - **(A)** Each Medicare Advantage organization shall—
+      - **(i)** only use agents and brokers who have been licensed under State law to sell Medicare Advantage plans offered by the Medicare Advantage organization;
+      - **(ii)** in the case where a State has a State appointment law, abide by such law; and
+      - **(iii)** report to the applicable State the termination of any such agent or broker, including the reasons for such termination (as required under applicable State law).
+    - **(B)** Each Medicare Advantage organization shall comply in a timely manner with any request by a State for information regarding the performance of a licensed agent, broker, or other third party representing the Medicare Advantage organization as part of an investigation by the State into the conduct of the agent, broker, or other third party.
+- **(i)**
+  - **(1)** Subject to sections 1395w–22(a)(5), 1395w–23(a)(4), 1395w–23(g), 1395w–23(h), 1395ww(d)(11), 1395ww(h)(3)(D), and 1395w–23(m) of this title, payments under a contract with a Medicare+Choice organization under section 1395w–23(a) of this title with respect to an individual electing a Medicare+Choice plan offered by the organization shall be instead of the amounts which (in the absence of the contract) would otherwise be payable under parts A and B for items and services furnished to the individual.
+  - **(2)** Subject to sections 1395w–23(a)(4), 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395w–27a(h), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
+  - **(3)** Paragraphs (1) and (2) shall not apply with respect to expenses for organ acquisitions for kidney transplants described in section 1395w–22(a)(1)(B)(i) of this title .
+- **(j)**
+  - **(1)** The following prohibited activities are described in this paragraph:
+    - **(A)** Any unsolicited means of direct contact of prospective enrollees, including soliciting door-to-door or any outbound telemarketing without the prospective enrollee initiating contact.
+    - **(B)** The sale of other non-health related products (such as annuities and life insurance) during any sales or marketing activity or presentation conducted with respect to a Medicare Advantage plan.
+    - **(C)** The provision of meals of any sort, regardless of value, to prospective enrollees at promotional and sales activities.
+    - **(D)** Sales and marketing activities for the enrollment of individuals in Medicare Advantage plans that are conducted—
+      - **(i)** in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies), except in the case where such activities are conducted in common areas in health care settings; and
+      - **(ii)** at educational events.
+  - **(2)** The Secretary shall establish limitations with respect to at least the following:
+    - **(A)** The scope of any appointment with respect to the marketing of a Medicare Advantage plan. Such limitation shall require advance agreement with a prospective enrollee on the scope of the marketing appointment and documentation of such agreement by the Medicare Advantage organization. In the case where the marketing appointment is in person, such documentation shall be in writing.
+    - **(B)** The use of the name or logo of a co-branded network provider on Medicare Advantage plan membership and marketing materials.
+    - **(C)** The offering of gifts and other promotional items other than those that are of nominal value (as determined by the Secretary) to prospective enrollees at promotional activities.
+    - **(D)** The use of compensation other than as provided under guidelines established by the Secretary. Such guidelines shall ensure that the use of compensation creates incentives for agents and brokers to enroll individuals in the Medicare Advantage plan that is intended to best meet their health care needs.
+    - **(E)** The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.

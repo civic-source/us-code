@@ -5,7 +5,7 @@ usc_section: "921b"
 chapter: 31
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 921b"
-generated_at: "2026-03-29T00:28:57.958Z"
+generated_at: "2026-03-29T02:10:16.748Z"
 ---
 
 # §§ 921a, 921b. Repealed. Pub. L. 115–334, title VI, § 6602(b)(13) , (14), Dec. 20, 2018 , 132 Stat. 4777

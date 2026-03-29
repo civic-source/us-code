@@ -5,12 +5,12 @@ usc_section: "9203"
 chapter: 92
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 9203"
-generated_at: "2026-03-29T00:28:38.437Z"
+generated_at: "2026-03-29T02:10:01.999Z"
 ---
 
 # § 9203. Agency policies; complaint procedures
 
 The Director of the Office of Personnel Management shall—
 
-  (1) develop, implement, and publish a policy to assist employees of agencies in complying with section 9202 and the regulations issued pursuant to such section; and
-  (2) establish and publish procedures under which an applicant for an appointment to a position in the civil service may submit a complaint, or any other information, relating to compliance by an employee of an agency with section 9202.
+  - **(1)** develop, implement, and publish a policy to assist employees of agencies in complying with section 9202 and the regulations issued pursuant to such section; and
+  - **(2)** establish and publish procedures under which an applicant for an appointment to a position in the civil service may submit a complaint, or any other information, relating to compliance by an employee of an agency with section 9202.

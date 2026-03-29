@@ -5,7 +5,7 @@ usc_section: "60162"
 chapter: 601
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 60162"
-generated_at: "2026-03-29T00:33:19.414Z"
+generated_at: "2026-03-29T02:16:19.262Z"
 ---
 
 # § 60162. Future considerations

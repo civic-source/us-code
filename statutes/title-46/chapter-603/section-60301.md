@@ -5,16 +5,16 @@ usc_section: "60301"
 chapter: 603
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 60301"
-generated_at: "2026-03-29T00:33:02.956Z"
+generated_at: "2026-03-29T02:15:53.791Z"
 ---
 
 # § 60301. Regular tonnage taxes
 
-(a) A tax is imposed at the rate of 4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter, at each entry in a port of the United States of—
-  (1) a vessel entering from a foreign port or place in North America, Central America, the West Indies Islands, the Bahama Islands, the Bermuda Islands, or the coast of South America bordering the Caribbean Sea; or
-  (2) a vessel returning to the same port or place in the United States from which it departed, and not entering the United States from another port or place, except—
-    (A) a vessel of the United States;
-    (B) a recreational vessel (as defined in section 2101 of this title ); or
-    (C) a barge.
-(b) A tax is imposed at the rate of 13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter, on a vessel at each entry in a port of the United States from a foreign port or place not named in subsection (a)(1).
-(c) Subsection (a) does not apply to a vessel entering other than by sea from a foreign port or place at which tonnage, lighthouse, or other equivalent taxes are not imposed on vessels of the United States.
+- **(a)** A tax is imposed at the rate of 4.5 cents per ton, not to exceed a total of 22.5 cents per ton per year, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter, at each entry in a port of the United States of—
+  - **(1)** a vessel entering from a foreign port or place in North America, Central America, the West Indies Islands, the Bahama Islands, the Bermuda Islands, or the coast of South America bordering the Caribbean Sea; or
+  - **(2)** a vessel returning to the same port or place in the United States from which it departed, and not entering the United States from another port or place, except—
+    - **(A)** a vessel of the United States;
+    - **(B)** a recreational vessel (as defined in section 2101 of this title ); or
+    - **(C)** a barge.
+- **(b)** A tax is imposed at the rate of 13.5 cents per ton, not to exceed a total of 67.5 cents per ton per year, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter, on a vessel at each entry in a port of the United States from a foreign port or place not named in subsection (a)(1).
+- **(c)** Subsection (a) does not apply to a vessel entering other than by sea from a foreign port or place at which tonnage, lighthouse, or other equivalent taxes are not imposed on vessels of the United States.

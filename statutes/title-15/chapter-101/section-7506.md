@@ -5,12 +5,12 @@ usc_section: "7506"
 chapter: 101
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 7506"
-generated_at: "2026-03-29T00:29:41.927Z"
+generated_at: "2026-03-29T02:11:34.432Z"
 ---
 
 # § 7506. Department of Commerce programs
 
-(a) The Director of the National Institute of Standards and Technology shall—
-  (1) as part of the Program activities under section 7501(b)(7) of this title , establish a program to conduct basic research on issues related to the development and manufacture of nanotechnology, including metrology; reliability and quality assurance; processes control; and manufacturing best practices; and
-  (2) utilize the Manufacturing Extension Partnership program 1 1 See Change of Name note below. to the extent possible to ensure that the research conducted under paragraph (1) reaches small- and medium-sized manufacturing companies.
-(b) The Secretary of Commerce or his designee, in consultation with the National Nanotechnology Coordination Office and, to the extent possible, utilizing resources at the National Technical Information Service, shall establish a clearinghouse of information related to commercialization of nanotechnology research, including information relating to activities by regional, State, and local commercial nanotechnology initiatives; transition of research, technologies, and concepts from Federal nanotechnology research and development programs into commercial and military products; best practices by government, universities and private sector laboratories transitioning technology to commercial use; examples of ways to overcome barriers and challenges to technology deployment; and use of manufacturing infrastructure and workforce.
+- **(a)** The Director of the National Institute of Standards and Technology shall—
+  - **(1)** as part of the Program activities under section 7501(b)(7) of this title , establish a program to conduct basic research on issues related to the development and manufacture of nanotechnology, including metrology; reliability and quality assurance; processes control; and manufacturing best practices; and
+  - **(2)** utilize the Manufacturing Extension Partnership program 1 1 See Change of Name note below. to the extent possible to ensure that the research conducted under paragraph (1) reaches small- and medium-sized manufacturing companies.
+- **(b)** The Secretary of Commerce or his designee, in consultation with the National Nanotechnology Coordination Office and, to the extent possible, utilizing resources at the National Technical Information Service, shall establish a clearinghouse of information related to commercialization of nanotechnology research, including information relating to activities by regional, State, and local commercial nanotechnology initiatives; transition of research, technologies, and concepts from Federal nanotechnology research and development programs into commercial and military products; best practices by government, universities and private sector laboratories transitioning technology to commercial use; examples of ways to overcome barriers and challenges to technology deployment; and use of manufacturing infrastructure and workforce.

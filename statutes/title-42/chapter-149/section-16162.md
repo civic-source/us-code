@@ -5,14 +5,14 @@ usc_section: "16162"
 chapter: 149
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 16162"
-generated_at: "2026-03-29T00:32:54.379Z"
+generated_at: "2026-03-29T02:15:37.328Z"
 ---
 
 # § 16162. Technology transfer
 
 In carrying out this subchapter, the Secretary shall carry out programs that—
 
-  (1) provide for the transfer of critical hydrogen and fuel cell technologies to the private sector;
-  (2) accelerate wider application of those technologies in the global market;
-  (3) foster the exchange of generic, nonproprietary information; and
-  (4) assess technical and commercial viability of technologies relating to the production, distribution, storage, and use of hydrogen energy and fuel cells.
+  - **(1)** provide for the transfer of critical hydrogen and fuel cell technologies to the private sector;
+  - **(2)** accelerate wider application of those technologies in the global market;
+  - **(3)** foster the exchange of generic, nonproprietary information; and
+  - **(4)** assess technical and commercial viability of technologies relating to the production, distribution, storage, and use of hydrogen energy and fuel cells.

@@ -5,17 +5,17 @@ usc_section: "3001"
 chapter: 201
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 3001"
-generated_at: "2026-03-29T00:20:53.110Z"
+generated_at: "2026-03-29T02:10:45.171Z"
 ---
 
 # § 3001. Defense acquisition system; element of the defense acquisition system
 
-(a) In this part, the term “defense acquisition system” means—
-  (1) the workforce engaged in carrying out the acquisition of property and services for the Department of Defense;
-  (2) the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and
-  (3) the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
-(b) In this part, the term “element of the defense acquisition system” means an organization that—
-  (1) employs members of the acquisition workforce;
-  (2) carries out acquisition functions; and
-  (3) focuses primarily on acquisition.
-(c) In this part, the term “acquisition” has the meaning provided in section 131 of title 41 .
+- **(a)** In this part, the term “defense acquisition system” means—
+  - **(1)** the workforce engaged in carrying out the acquisition of property and services for the Department of Defense;
+  - **(2)** the management structure responsible for directing and overseeing the acquisition of property and services for the Department of Defense; and
+  - **(3)** the statutory, regulatory, and policy framework that guides the acquisition of property and services for the Department of Defense.
+- **(b)** In this part, the term “element of the defense acquisition system” means an organization that—
+  - **(1)** employs members of the acquisition workforce;
+  - **(2)** carries out acquisition functions; and
+  - **(3)** focuses primarily on acquisition.
+- **(c)** In this part, the term “acquisition” has the meaning provided in section 131 of title 41 .

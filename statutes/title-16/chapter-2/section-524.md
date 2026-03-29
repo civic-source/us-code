@@ -5,7 +5,7 @@ usc_section: "524"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 524"
-generated_at: "2026-03-29T00:29:52.542Z"
+generated_at: "2026-03-29T02:11:53.576Z"
 ---
 
 # § 524. Rights-of-way for dams, reservoirs, or water plants for municipal, mining, and milling purposes

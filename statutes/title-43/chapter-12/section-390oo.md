@@ -5,12 +5,12 @@ usc_section: "390oo"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 390oo"
-generated_at: "2026-03-29T00:32:57.338Z"
+generated_at: "2026-03-29T02:15:47.533Z"
 ---
 
 # § 390oo. Temporary supplies of water
 
-(a) Neither the ownership limitations of this subchapter nor the ownership limitations of any other provision of Federal reclamation law shall apply to lands which receive only a temporary, not to exceed one year, supply of water made possible as a result of—
-  (1) an unusually large water supply not otherwise storable for project purposes; or
-  (2) infrequent and otherwise unmanaged flood flows of short duration.
-(b) The Secretary shall have the authority to waive payments for a supply of water described in subsection (a).
+- **(a)** Neither the ownership limitations of this subchapter nor the ownership limitations of any other provision of Federal reclamation law shall apply to lands which receive only a temporary, not to exceed one year, supply of water made possible as a result of—
+  - **(1)** an unusually large water supply not otherwise storable for project purposes; or
+  - **(2)** infrequent and otherwise unmanaged flood flows of short duration.
+- **(b)** The Secretary shall have the authority to waive payments for a supply of water described in subsection (a).

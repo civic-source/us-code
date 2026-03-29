@@ -5,7 +5,7 @@ usc_section: "2242"
 chapter: 153
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2242"
-generated_at: "2026-03-29T00:31:24.196Z"
+generated_at: "2026-03-29T02:14:04.571Z"
 ---
 
 # § 2242. Application

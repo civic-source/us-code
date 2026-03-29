@@ -5,13 +5,13 @@ usc_section: "1262"
 chapter: 25
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1262"
-generated_at: "2026-03-29T00:31:30.817Z"
+generated_at: "2026-03-29T02:14:11.251Z"
 ---
 
 # § 1262. Coal exploration permits
 
-(a) Each State or Federal program shall include a requirement that coal exploration operations which substantially disturb the natural land surface be conducted in accordance with exploration regulations issued by the regulatory authority. Such regulations shall include, at a minimum (1) the requirement that prior to conducting any exploration under this section, any person must file with the regulatory authority notice of intention to explore and such notice shall include a description of the exploration area and the period of supposed exploration and (2) provisions for reclamation in accordance with the performance standards in section 1265 of this title of all lands disturbed in exploration, including excavations, roads, drill holes, and the removal of necessary facilities and equipment.
-(b) Information submitted to the regulatory authority pursuant to this subsection as confidential concerning trade secrets or privileged commercial or financial information which relates to the competitive rights of the person or entity intended to explore the described area shall not be available for public examination.
-(c) Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section or regulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title .
-(d) No operator shall remove more than two hundred and fifty tons of coal pursuant to an exploration permit without the specific written approval of the regulatory authority.
-(e) Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 ( 90 Stat. 1085 ).
+- **(a)** Each State or Federal program shall include a requirement that coal exploration operations which substantially disturb the natural land surface be conducted in accordance with exploration regulations issued by the regulatory authority. Such regulations shall include, at a minimum (1) the requirement that prior to conducting any exploration under this section, any person must file with the regulatory authority notice of intention to explore and such notice shall include a description of the exploration area and the period of supposed exploration and (2) provisions for reclamation in accordance with the performance standards in section 1265 of this title of all lands disturbed in exploration, including excavations, roads, drill holes, and the removal of necessary facilities and equipment.
+- **(b)** Information submitted to the regulatory authority pursuant to this subsection as confidential concerning trade secrets or privileged commercial or financial information which relates to the competitive rights of the person or entity intended to explore the described area shall not be available for public examination.
+- **(c)** Any person who conducts any coal exploration activities which substantially disturb the natural land surface in violation of this section or regulations issued pursuant thereto shall be subject to the provisions of section 1268 of this title .
+- **(d)** No operator shall remove more than two hundred and fifty tons of coal pursuant to an exploration permit without the specific written approval of the regulatory authority.
+- **(e)** Coal exploration on Federal lands shall be governed by section 4 of the Federal Coal Leasing Amendments Act of 1975 ( 90 Stat. 1085 ).

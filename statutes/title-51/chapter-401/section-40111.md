@@ -5,10 +5,10 @@ usc_section: "40111"
 chapter: 401
 current_through: "PL 119-73"
 classification: "51 U.S.C. § 40111"
-generated_at: "2026-03-29T00:33:19.393Z"
+generated_at: "2026-03-29T02:16:19.250Z"
 ---
 
 # § 40111. Fundamental research program
 
-(a) In order to ensure that the Nation maintains needed capabilities in fundamental areas of aeronautics research, the Administrator shall establish a program of long-term fundamental research in aeronautical sciences and technologies that is not tied to specific development projects.
-(b) The Administrator shall conduct the program under this section, in part by awarding grants to institutions of higher education. The Administrator shall encourage the participation of institutions of higher education located in States that participate in the Experimental Program to Stimulate Competitive Research. All grants to institutions of higher education under this section shall be awarded through merit review.
+- **(a)** In order to ensure that the Nation maintains needed capabilities in fundamental areas of aeronautics research, the Administrator shall establish a program of long-term fundamental research in aeronautical sciences and technologies that is not tied to specific development projects.
+- **(b)** The Administrator shall conduct the program under this section, in part by awarding grants to institutions of higher education. The Administrator shall encourage the participation of institutions of higher education located in States that participate in the Experimental Program to Stimulate Competitive Research. All grants to institutions of higher education under this section shall be awarded through merit review.

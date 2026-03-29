@@ -5,17 +5,17 @@ usc_section: "2762"
 chapter: 40
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2762"
-generated_at: "2026-03-29T00:31:57.447Z"
+generated_at: "2026-03-29T02:14:18.645Z"
 ---
 
 # § 2762. Submerged oil program
 
-(a) 
-  (1) The Under Secretary of Commerce for Oceans and Atmosphere, in conjunction with the Commandant of the Coast Guard, shall establish a program to detect, monitor, and evaluate the environmental effects of submerged oil in the Delaware River and Bay region. The program shall include the following elements:
-    (A) The development of methods to remove, disperse, or otherwise diminish the persistence of submerged oil.
-    (B) The development of improved models and capacities for predicting the environmental fate, transport, and effects of submerged oil.
-    (C) The development of techniques to detect and monitor submerged oil.
-  (2) Not later than 3 years after July 11, 2006 , the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the activities carried out under this subsection and activities proposed to be carried out under this subsection.
-(b) 
-  (1) The Commandant of the Coast Guard, in conjunction with the Under Secretary of Commerce for Oceans and Atmosphere, shall conduct a demonstration project for the purpose of developing and demonstrating technologies and management practices to remove submerged oil from the Delaware River and other navigable waters.
-  (2) There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
+- **(a)**
+  - **(1)** The Under Secretary of Commerce for Oceans and Atmosphere, in conjunction with the Commandant of the Coast Guard, shall establish a program to detect, monitor, and evaluate the environmental effects of submerged oil in the Delaware River and Bay region. The program shall include the following elements:
+    - **(A)** The development of methods to remove, disperse, or otherwise diminish the persistence of submerged oil.
+    - **(B)** The development of improved models and capacities for predicting the environmental fate, transport, and effects of submerged oil.
+    - **(C)** The development of techniques to detect and monitor submerged oil.
+  - **(2)** Not later than 3 years after July 11, 2006 , the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the activities carried out under this subsection and activities proposed to be carried out under this subsection.
+- **(b)**
+  - **(1)** The Commandant of the Coast Guard, in conjunction with the Under Secretary of Commerce for Oceans and Atmosphere, shall conduct a demonstration project for the purpose of developing and demonstrating technologies and management practices to remove submerged oil from the Delaware River and other navigable waters.
+  - **(2)** There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.

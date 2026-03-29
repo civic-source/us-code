@@ -5,13 +5,13 @@ usc_section: "10201"
 chapter: 102
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 10201"
-generated_at: "2026-03-29T00:28:38.443Z"
+generated_at: "2026-03-29T02:10:02.007Z"
 ---
 
 # § 10201. Definitions
 
 In this chapter—
 
-  (1) the term “member” means an employee of the United States Secret Service Uniformed Division having the authorities described under section 3056A(b) of title 18 ;
-  (2) the term “Secretary” means the Secretary of the Department of Homeland Security; and
-  (3) the term “United States Secret Service Uniformed Division” has the meaning given that term under section 3056A of title 18 .
+  - **(1)** the term “member” means an employee of the United States Secret Service Uniformed Division having the authorities described under section 3056A(b) of title 18 ;
+  - **(2)** the term “Secretary” means the Secretary of the Department of Homeland Security; and
+  - **(3)** the term “United States Secret Service Uniformed Division” has the meaning given that term under section 3056A of title 18 .

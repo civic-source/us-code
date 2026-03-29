@@ -5,16 +5,16 @@ usc_section: "7363"
 chapter: 73
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7363"
-generated_at: "2026-03-29T00:28:38.378Z"
+generated_at: "2026-03-29T02:10:01.912Z"
 ---
 
 # § 7363. Reports to Congress
 
-(a) The Office of Personnel Management shall, within 6 months after the date of the enactment of the Federal Employee Substance Abuse Education and Treatment Act of 1986 and annually thereafter, submit to each House of Congress a report containing the matters described in subsection (b).
-(b) Each report under this section shall include—
-  (1) a description of any programs or services provided under section 7361 or 7362 of this title, including the costs associated with each such program or service and the source and adequacy of any funding 1 1 So in original. Probably should be followed by “of”. such program or service;
-  (2) a description of the levels of participation in each program and service provided under section 7361 or 7362 of this title, and the effectiveness of such programs and services;
-  (3) a description of the training and qualifications required of the personnel providing any program or service under section 7361 or 7362 of this title;
-  (4) a description of the training given to supervisory personnel in connection with recognizing the symptoms of drug or alcohol abuse and the procedures (including those relating to confidentiality) under which individuals are referred for treatment, rehabilitation, or other assistance;
-  (5) any recommendations for legislation considered appropriate by the Office and any proposed administrative actions; and
-  (6) information describing any other related activities under section 7904 of this title , and any other matter which the Office considers appropriate.
+- **(a)** The Office of Personnel Management shall, within 6 months after the date of the enactment of the Federal Employee Substance Abuse Education and Treatment Act of 1986 and annually thereafter, submit to each House of Congress a report containing the matters described in subsection (b).
+- **(b)** Each report under this section shall include—
+  - **(1)** a description of any programs or services provided under section 7361 or 7362 of this title, including the costs associated with each such program or service and the source and adequacy of any funding 1 1 So in original. Probably should be followed by “of”. such program or service;
+  - **(2)** a description of the levels of participation in each program and service provided under section 7361 or 7362 of this title, and the effectiveness of such programs and services;
+  - **(3)** a description of the training and qualifications required of the personnel providing any program or service under section 7361 or 7362 of this title;
+  - **(4)** a description of the training given to supervisory personnel in connection with recognizing the symptoms of drug or alcohol abuse and the procedures (including those relating to confidentiality) under which individuals are referred for treatment, rehabilitation, or other assistance;
+  - **(5)** any recommendations for legislation considered appropriate by the Office and any proposed administrative actions; and
+  - **(6)** information describing any other related activities under section 7904 of this title , and any other matter which the Office considers appropriate.

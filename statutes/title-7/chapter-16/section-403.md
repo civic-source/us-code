@@ -5,7 +5,7 @@ usc_section: "403"
 chapter: 16
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 403"
-generated_at: "2026-03-29T00:28:57.930Z"
+generated_at: "2026-03-29T02:10:16.721Z"
 ---
 
 # § 403. Transfer of activities of Department of Agriculture to bureau; employment of clerks, etc.

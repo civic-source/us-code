@@ -5,7 +5,7 @@ usc_section: "2540d"
 chapter: 148
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2540d"
-generated_at: "2026-03-29T00:20:53.056Z"
+generated_at: "2026-03-29T02:10:45.113Z"
 ---
 
 # [§ 2540d. Renumbered § 4975]

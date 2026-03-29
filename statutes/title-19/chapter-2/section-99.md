@@ -5,7 +5,7 @@ usc_section: "99"
 chapter: 2
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 99"
-generated_at: "2026-03-29T00:30:20.107Z"
+generated_at: "2026-03-29T02:12:08.589Z"
 ---
 
 # § 99. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 643

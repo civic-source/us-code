@@ -5,7 +5,7 @@ usc_section: "755"
 chapter: 4
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 755"
-generated_at: "2026-03-29T00:33:06.597Z"
+generated_at: "2026-03-29T02:16:00.799Z"
 ---
 
 # § 755. Omitted

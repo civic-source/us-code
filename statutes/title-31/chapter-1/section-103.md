@@ -5,7 +5,7 @@ usc_section: "103"
 chapter: 1
 current_through: "PL 119-73"
 classification: "31 U.S.C. § 103"
-generated_at: "2026-03-29T00:31:52.555Z"
+generated_at: "2026-03-29T02:14:14.025Z"
 ---
 
 # § 103. United States

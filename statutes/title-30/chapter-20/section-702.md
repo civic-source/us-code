@@ -5,7 +5,7 @@ usc_section: "702"
 chapter: 20
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 702"
-generated_at: "2026-03-29T00:31:30.776Z"
+generated_at: "2026-03-29T02:14:11.217Z"
 ---
 
 # § 702. “Qualified applicant” defined

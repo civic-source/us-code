@@ -5,17 +5,17 @@ usc_section: "19040"
 chapter: 163
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19040"
-generated_at: "2026-03-29T00:32:54.508Z"
+generated_at: "2026-03-29T02:15:37.481Z"
 ---
 
 # § 19040. Foreign financial support
 
-(a) The Director shall request, on an annual basis, from a recipient institution of higher education a disclosure, in the form of a summary document, from the institution, a foundation of the institution, and related entities such as any educational, cultural, or language entity, of the current financial support, the value of which is $50,000 or more, including gifts and contracts, received directly or indirectly from a foreign source (as such term is defined in section 1011f(h)(2) of title 20 ) associated with a foreign country of concern.
-(b) Each disclosure to the Director under this section shall be made on the condition that the institution will maintain a true copy of the relevant records subject to the disclosure requirement until the latest of—
-  (1) the date that is four years after the date of the agreement;
-  (2) the date on which the agreement terminates; or
-  (3) the last day of any period that applicable State public record law requires a true copy of such agreement to be maintained.
-(c) Upon review of the disclosures under this section, the Director may request that a recipient institution provide true copies of any contracts, agreements, or documentation of financial transactions associated with disclosures made under this section.
-(d) The Director, acting through the Office of Research Security and Policy in coordination with the Foundation’s Office of Inspector General and in consultation with the recipient institution, may reduce the award funding amount or suspend or terminate the award if the Director determines—
-  (1) such institution fails to comply with the records retention requirement in subsection (b) or fails to provide information requested under this section; or
-  (2) the Chief of Research Security determines the disclosures under this section indicate a threat to research security.
+- **(a)** The Director shall request, on an annual basis, from a recipient institution of higher education a disclosure, in the form of a summary document, from the institution, a foundation of the institution, and related entities such as any educational, cultural, or language entity, of the current financial support, the value of which is $50,000 or more, including gifts and contracts, received directly or indirectly from a foreign source (as such term is defined in section 1011f(h)(2) of title 20 ) associated with a foreign country of concern.
+- **(b)** Each disclosure to the Director under this section shall be made on the condition that the institution will maintain a true copy of the relevant records subject to the disclosure requirement until the latest of—
+  - **(1)** the date that is four years after the date of the agreement;
+  - **(2)** the date on which the agreement terminates; or
+  - **(3)** the last day of any period that applicable State public record law requires a true copy of such agreement to be maintained.
+- **(c)** Upon review of the disclosures under this section, the Director may request that a recipient institution provide true copies of any contracts, agreements, or documentation of financial transactions associated with disclosures made under this section.
+- **(d)** The Director, acting through the Office of Research Security and Policy in coordination with the Foundation’s Office of Inspector General and in consultation with the recipient institution, may reduce the award funding amount or suspend or terminate the award if the Director determines—
+  - **(1)** such institution fails to comply with the records retention requirement in subsection (b) or fails to provide information requested under this section; or
+  - **(2)** the Chief of Research Security determines the disclosures under this section indicate a threat to research security.

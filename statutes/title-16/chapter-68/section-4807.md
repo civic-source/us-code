@@ -5,7 +5,7 @@ usc_section: "4807"
 chapter: 68
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 4807"
-generated_at: "2026-03-29T00:29:52.844Z"
+generated_at: "2026-03-29T02:11:53.943Z"
 ---
 
 # § 4807. Omitted

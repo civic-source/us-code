@@ -5,25 +5,25 @@ usc_section: "6111"
 chapter: 61
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6111"
-generated_at: "2026-03-29T00:32:20.556Z"
+generated_at: "2026-03-29T02:14:58.795Z"
 ---
 
 # § 6111. Supreme Court Building
 
-(a) 
-  (1) The Architect of the Capitol shall have charge of the structural and mechanical care of the Supreme Court Building, including—
-    (A) the care and maintenance of the grounds; and
-    (B) the supplying of all mechanical furnishings and mechanical equipment for the Building.
-  (2) The Architect shall direct the operation and maintenance of the mechanical equipment and repair of the building.
-  (3) The Architect may enter into all necessary contracts to carry out this subsection.
-(b) Amounts appropriated under—
-  (1) subsection (a) and sections 6112 and 6113 of this title are available for—
-    (A) expenses of heating and air-conditioning refrigeration supplied by the Capitol Power Plant, advancements for which shall be made and deposited in the Treasury to the credit of appropriations provided for the Capitol Power Plant; and
-    (B) the purchase of electrical energy; and
-  (2) the heading “Supreme Court of the United States” and “care of the building and grounds” are available for—
-    (A) improvements, maintenance, repairs, equipment, supplies, materials, and appurtenances;
-    (B) special clothing for workers;
-    (C) personal and other services (including temporary labor without regard to chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5); and
-    (D) without compliance with section 6101(b) to (d) of title 41—
-      (i) for snow removal (by hire of personnel and equipment or under contract); and
-      (ii) for the replacement of electrical transformers containing polychlorinated biphenyls.
+- **(a)**
+  - **(1)** The Architect of the Capitol shall have charge of the structural and mechanical care of the Supreme Court Building, including—
+    - **(A)** the care and maintenance of the grounds; and
+    - **(B)** the supplying of all mechanical furnishings and mechanical equipment for the Building.
+  - **(2)** The Architect shall direct the operation and maintenance of the mechanical equipment and repair of the building.
+  - **(3)** The Architect may enter into all necessary contracts to carry out this subsection.
+- **(b)** Amounts appropriated under—
+  - **(1)** subsection (a) and sections 6112 and 6113 of this title are available for—
+    - **(A)** expenses of heating and air-conditioning refrigeration supplied by the Capitol Power Plant, advancements for which shall be made and deposited in the Treasury to the credit of appropriations provided for the Capitol Power Plant; and
+    - **(B)** the purchase of electrical energy; and
+  - **(2)** the heading “Supreme Court of the United States” and “care of the building and grounds” are available for—
+    - **(A)** improvements, maintenance, repairs, equipment, supplies, materials, and appurtenances;
+    - **(B)** special clothing for workers;
+    - **(C)** personal and other services (including temporary labor without regard to chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5); and
+    - **(D)** without compliance with section 6101(b) to (d) of title 41—
+      - **(i)** for snow removal (by hire of personnel and equipment or under contract); and
+      - **(ii)** for the replacement of electrical transformers containing polychlorinated biphenyls.

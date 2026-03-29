@@ -5,17 +5,17 @@ usc_section: "12507"
 chapter: 125
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 12507"
-generated_at: "2026-03-29T00:33:02.893Z"
+generated_at: "2026-03-29T02:15:53.741Z"
 ---
 
 # § 12507. Penalties
 
-(a) A person shall be fined under title 18, imprisoned for not more than 2 years, or both, if the person with the intent to defraud—
-  (1) provides false information to the Secretary of Transportation or a State issuing authority regarding the identification of a vessel under this chapter; or
-  (2) tampers with, removes, or falsifies the unique vessel identification number assigned to a vessel under section 12502 of this title .
-(b) A person is liable to the United States Government for a civil penalty of not more than $10,000 if the person—
-  (1) provides false information to the Secretary or a State issuing authority regarding the identification of a vessel under this chapter;
-  (2) violates section 12502 of this title ; or
-  (3) fails to comply with requirements prescribed by the Secretary under section 12505 of this title .
-(c) A vessel involved in a violation of this chapter, or regulation under this chapter, and its equipment, may be seized by, and forfeited to, the Government.
-(d) If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.
+- **(a)** A person shall be fined under title 18, imprisoned for not more than 2 years, or both, if the person with the intent to defraud—
+  - **(1)** provides false information to the Secretary of Transportation or a State issuing authority regarding the identification of a vessel under this chapter; or
+  - **(2)** tampers with, removes, or falsifies the unique vessel identification number assigned to a vessel under section 12502 of this title .
+- **(b)** A person is liable to the United States Government for a civil penalty of not more than $10,000 if the person—
+  - **(1)** provides false information to the Secretary or a State issuing authority regarding the identification of a vessel under this chapter;
+  - **(2)** violates section 12502 of this title ; or
+  - **(3)** fails to comply with requirements prescribed by the Secretary under section 12505 of this title .
+- **(c)** A vessel involved in a violation of this chapter, or regulation under this chapter, and its equipment, may be seized by, and forfeited to, the Government.
+- **(d)** If a person, not an individual, is involved in a violation of this chapter, the president or chief executive of the person also is subject to any penalty provided under this section.

@@ -5,7 +5,7 @@ usc_section: "1110"
 chapter: 20
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 1110"
-generated_at: "2026-03-29T00:32:59.720Z"
+generated_at: "2026-03-29T02:15:50.564Z"
 ---
 
 # § 1110. Repealed. Pub. L. 99–509, title IV, § 4033(c)(1)(C)(i)(II) , Oct. 21, 1986 , 100 Stat. 1908

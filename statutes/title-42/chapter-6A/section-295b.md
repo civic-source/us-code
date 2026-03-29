@@ -5,13 +5,13 @@ usc_section: "295b"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 295b"
-generated_at: "2026-03-29T00:32:53.025Z"
+generated_at: "2026-03-29T02:15:35.772Z"
 ---
 
 # § 295b. Public health traineeships
 
-(a) The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3).
-(b) 
-  (1) The amount of any grant under this section shall be determined by the Secretary.
-  (2) Traineeships awarded under grants made under subsection (a) shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
-  (3) The individuals referred to in subsection (a) are individuals who are pursuing a course of study in a health professions field in which there is a severe shortage of health professionals (which fields include the fields of epidemiology, environmental health, biostatistics, toxicology, nutrition, and maternal and child health).
+- **(a)** The Secretary may make grants to accredited schools of public health, and to other public or nonprofit private institutions accredited for the provision of graduate or specialized training in public health, for the purpose of assisting such schools and institutions in providing traineeships to individuals described in subsection (b)(3).
+- **(b)**
+  - **(1)** The amount of any grant under this section shall be determined by the Secretary.
+  - **(2)** Traineeships awarded under grants made under subsection (a) shall provide for tuition and fees and such stipends and allowances (including travel and subsistence expenses and dependency allowances) for the trainees as the Secretary may deem necessary.
+  - **(3)** The individuals referred to in subsection (a) are individuals who are pursuing a course of study in a health professions field in which there is a severe shortage of health professionals (which fields include the fields of epidemiology, environmental health, biostatistics, toxicology, nutrition, and maternal and child health).

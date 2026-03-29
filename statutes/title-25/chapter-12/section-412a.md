@@ -5,7 +5,7 @@ usc_section: "412a"
 chapter: 12
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 412a"
-generated_at: "2026-03-29T00:30:38.644Z"
+generated_at: "2026-03-29T02:13:20.858Z"
 ---
 
 # § 412a. Exemption from taxation of lands subject to restrictions against alienation; determination of homestead

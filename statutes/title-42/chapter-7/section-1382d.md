@@ -5,23 +5,23 @@ usc_section: "1382d"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1382d"
-generated_at: "2026-03-29T00:32:53.329Z"
+generated_at: "2026-03-29T02:15:36.115Z"
 ---
 
 # § 1382d. Rehabilitation services for blind and disabled individuals
 
-(a) In the case of any blind or disabled individual who—
-  (1) has not attained age 16; and
-  (2) with respect to whom benefits are paid under this subchapter,
-(b) 
-(c) 
-(d) The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 [ 29 U.S.C. 720 et seq.] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a), (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) in cases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual’s ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title .
-(e) The Commissioner of Social Security may reimburse the State agency described in subsection (d) for the costs described therein incurred in the provision of rehabilitation services—
-  (1) for any month for which an individual received—
-    (A) benefits under section 1382 or 1382h(a) of this title;
-    (B) assistance under section 1382h(b) of this title ; or
-    (C) a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66 ; and
-  (2) for any month before the 13th consecutive month for which an individual, for a reason other than cessation of disability or blindness, was ineligible for—
-    (A) benefits under section 1382 or 1382h(a) of this title;
-    (B) assistance under section 1382h(b) of this title ; or
-    (C) a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66 .
+- **(a)** In the case of any blind or disabled individual who—
+  - **(1)** has not attained age 16; and
+  - **(2)** with respect to whom benefits are paid under this subchapter,
+- **(b)**
+- **(c)**
+- **(d)** The Commissioner of Social Security is authorized to reimburse the State agency administering or supervising the administration of a State plan for vocational rehabilitation services approved under title I of the Rehabilitation Act of 1973 [ 29 U.S.C. 720 et seq.] for the costs incurred under such plan in the provision of rehabilitation services to individuals who are referred for such services pursuant to subsection (a), (1) in cases where the furnishing of such services results in the performance by such individuals of substantial gainful activity for a continuous period of nine months, (2) in cases where such individuals receive benefits as a result of section 1383(a)(6) of this title (except that no reimbursement under this subsection shall be made for services furnished to any individual receiving such benefits for any period after the close of such individual’s ninth consecutive month of substantial gainful activity or the close of the month with which his or her entitlement to such benefits ceases, whichever first occurs), and (3) in cases where such individuals, without good cause, refuse to continue to accept vocational rehabilitation services or fail to cooperate in such a manner as to preclude their successful rehabilitation. The determination that the vocational rehabilitation services contributed to the successful return of an individual to substantial gainful activity, the determination that an individual, without good cause, refused to continue to accept vocational rehabilitation services or failed to cooperate in such a manner as to preclude successful rehabilitation, and the determination of the amount of costs to be reimbursed under this subsection shall be made by the Commissioner of Social Security in accordance with criteria determined by the Commissioner in the same manner as under section 422(d)(1) of this title .
+- **(e)** The Commissioner of Social Security may reimburse the State agency described in subsection (d) for the costs described therein incurred in the provision of rehabilitation services—
+  - **(1)** for any month for which an individual received—
+    - **(A)** benefits under section 1382 or 1382h(a) of this title;
+    - **(B)** assistance under section 1382h(b) of this title ; or
+    - **(C)** a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66 ; and
+  - **(2)** for any month before the 13th consecutive month for which an individual, for a reason other than cessation of disability or blindness, was ineligible for—
+    - **(A)** benefits under section 1382 or 1382h(a) of this title;
+    - **(B)** assistance under section 1382h(b) of this title ; or
+    - **(C)** a federally administered State supplementary payment under section 1382e of this title or section 212(b) of Public Law 93–66 .

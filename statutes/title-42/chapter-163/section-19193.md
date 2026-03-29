@@ -5,7 +5,7 @@ usc_section: "19193"
 chapter: 163
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 19193"
-generated_at: "2026-03-29T00:32:54.519Z"
+generated_at: "2026-03-29T02:15:37.493Z"
 ---
 
 # § 19193. Definition

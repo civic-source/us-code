@@ -5,12 +5,12 @@ usc_section: "2101"
 chapter: 39
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 2101"
-generated_at: "2026-03-29T00:32:57.459Z"
+generated_at: "2026-03-29T02:15:47.650Z"
 ---
 
 # § 2101. Findings
 
 The Congress finds that—
 
-(a) States have the responsibility for management of a broad range of living and nonliving resources in State waters and submerged lands; and
-(b) included in the range of resources are certain abandoned shipwrecks, which have been deserted and to which the owner has relinquished ownership rights with no retention.
+- **(a)** States have the responsibility for management of a broad range of living and nonliving resources in State waters and submerged lands; and
+- **(b)** included in the range of resources are certain abandoned shipwrecks, which have been deserted and to which the owner has relinquished ownership rights with no retention.

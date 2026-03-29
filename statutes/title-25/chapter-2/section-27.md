@@ -5,7 +5,7 @@ usc_section: "27"
 chapter: 2
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 27"
-generated_at: "2026-03-29T00:30:38.610Z"
+generated_at: "2026-03-29T02:13:20.833Z"
 ---
 
 # § 27. Omitted

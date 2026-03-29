@@ -5,7 +5,7 @@ usc_section: "532"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 532"
-generated_at: "2026-03-29T00:29:52.542Z"
+generated_at: "2026-03-29T02:11:53.576Z"
 ---
 
 # § 532. Roads and trails system; Congressional findings and declaration of policy

@@ -5,14 +5,14 @@ usc_section: "3096"
 chapter: 44
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3096"
-generated_at: "2026-03-29T00:33:18.176Z"
+generated_at: "2026-03-29T02:16:14.769Z"
 ---
 
 # § 3096. Specificity of National Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence
 
-(a) The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
-  (1) Counterterrorism.
-  (2) Counterproliferation.
-  (3) Counternarcotics.
-  (4) Counterintelligence.
-(b) Amounts set forth under subsection (a) may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.
+- **(a)** The budget justification materials submitted to Congress in support of the budget of the President for a fiscal year that is submitted to Congress under section 1105(a) of title 31 shall set forth separately the aggregate amount requested for that fiscal year for the National Intelligence Program for each of the following:
+  - **(1)** Counterterrorism.
+  - **(2)** Counterproliferation.
+  - **(3)** Counternarcotics.
+  - **(4)** Counterintelligence.
+- **(b)** Amounts set forth under subsection (a) may be set forth in unclassified form or classified form, at the election of the Director of National Intelligence.

@@ -5,12 +5,12 @@ usc_section: "3604"
 chapter: 229
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3604"
-generated_at: "2026-03-29T00:30:15.745Z"
+generated_at: "2026-03-29T02:12:02.496Z"
 ---
 
 # § 3604. Transportation of a probationer
 
 A court, after imposing a sentence of probation, may direct a United States marshal to furnish the probationer with—
 
-(a) transportation to the place to which he is required to proceed as a condition of his probation; and
-(b) money, not to exceed such amount as the Attorney General may prescribe, for subsistence expenses while traveling to his destination.
+- **(a)** transportation to the place to which he is required to proceed as a condition of his probation; and
+- **(b)** money, not to exceed such amount as the Attorney General may prescribe, for subsistence expenses while traveling to his destination.

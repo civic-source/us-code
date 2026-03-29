@@ -5,10 +5,10 @@ usc_section: "101924"
 chapter: 1019
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 101924"
-generated_at: "2026-03-29T00:33:21.618Z"
+generated_at: "2026-03-29T02:16:35.457Z"
 ---
 
 # § 101924. Promotion of sale of Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts
 
-(a) Promoting the sale of authentic United States Indian, Alaskan Native, Native Samoan, and Native Hawaiian handicrafts relating to the cultural, historical, and geographic characteristics of System units is encouraged, and the Secretary shall ensure that there is a continuing effort to enhance the handicraft trade where it exists and establish the trade in appropriate areas where the trade does not exist.
-(b) In furtherance of the purposes of subsection (a), the revenue derived from the sale of United States Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts shall be exempt from any franchise fee payments under this subchapter.
+- **(a)** Promoting the sale of authentic United States Indian, Alaskan Native, Native Samoan, and Native Hawaiian handicrafts relating to the cultural, historical, and geographic characteristics of System units is encouraged, and the Secretary shall ensure that there is a continuing effort to enhance the handicraft trade where it exists and establish the trade in appropriate areas where the trade does not exist.
+- **(b)** In furtherance of the purposes of subsection (a), the revenue derived from the sale of United States Indian, Alaska Native, Native Samoan, and Native Hawaiian handicrafts shall be exempt from any franchise fee payments under this subchapter.

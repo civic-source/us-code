@@ -5,12 +5,12 @@ usc_section: "6126"
 chapter: 61
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6126"
-generated_at: "2026-03-29T00:28:38.363Z"
+generated_at: "2026-03-29T02:10:01.892Z"
 ---
 
 # § 6126. Flexible schedules; credit hours; accumulation and compensation
 
-(a) Subject to any limitation prescribed by the Office of Personnel Management or the agency, a full-time employee on a flexible schedule can accumulate not more than 24 credit hours, and a part-time employee can accumulate not more than one-fourth of the hours in such employee’s biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
-(b) Any employee who is on a flexible schedule program under section 6122 of this title and who is no longer subject to such a program shall be paid at such employee’s then current rate of basic pay for—
-  (1) in the case of a full-time employee, not more than 24 credit hours accumulated by such employee, or
-  (2) in the case of a part-time employee, the number of credit hours (not in excess of one-fourth of the hours in such employee’s biweekly basic work requirement) accumulated by such employee.
+- **(a)** Subject to any limitation prescribed by the Office of Personnel Management or the agency, a full-time employee on a flexible schedule can accumulate not more than 24 credit hours, and a part-time employee can accumulate not more than one-fourth of the hours in such employee’s biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
+- **(b)** Any employee who is on a flexible schedule program under section 6122 of this title and who is no longer subject to such a program shall be paid at such employee’s then current rate of basic pay for—
+  - **(1)** in the case of a full-time employee, not more than 24 credit hours accumulated by such employee, or
+  - **(2)** in the case of a part-time employee, the number of credit hours (not in excess of one-fourth of the hours in such employee’s biweekly basic work requirement) accumulated by such employee.

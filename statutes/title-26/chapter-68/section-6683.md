@@ -5,7 +5,7 @@ usc_section: "6683"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6683"
-generated_at: "2026-03-29T00:31:21.074Z"
+generated_at: "2026-03-29T02:14:01.364Z"
 ---
 
 # [§ 6683. Repealed. Pub. L. 109–135, title IV, § 403(n)(3)(A) , Dec. 21, 2005 , 119 Stat. 2626 ]

@@ -5,10 +5,10 @@ usc_section: "3025"
 chapter: 43
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 3025"
-generated_at: "2026-03-29T00:31:57.451Z"
+generated_at: "2026-03-29T02:14:18.650Z"
 ---
 
 # § 3025. Length of service for promotion purposes
 
-(a) Each officer shall be assumed to have, for promotion purposes, at least the same length of service as any other officer below that officer on the lineal list.
-(b) Notwithstanding subsection (a), an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.
+- **(a)** Each officer shall be assumed to have, for promotion purposes, at least the same length of service as any other officer below that officer on the lineal list.
+- **(b)** Notwithstanding subsection (a), an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.

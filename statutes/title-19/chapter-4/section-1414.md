@@ -5,40 +5,40 @@ usc_section: "1414"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1414"
-generated_at: "2026-03-29T00:30:20.132Z"
+generated_at: "2026-03-29T02:12:08.604Z"
 ---
 
 # § 1414. Remote location filing
 
-(a) 
-  (1) A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—
-    (A) the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
-    (B) the participant elects to file from the remote location.
-  (2) 
-    (A) In order to qualify for filing from a remote location, a Program participant must have the capability to provide, on an entry-by-entry basis, for the following:
-      (i) The electronic entry of merchandise.
-      (ii) The electronic entry summary of required information.
-      (iii) The electronic transmission of invoice information (when required by the Customs Service).
-      (iv) The electronic payment of duties, fees, and taxes.
-      (v) Such other electronic capabilities within the existing or planned components of the Program as the Secretary shall by regulation require.
-    (B) The Customs Service may not permit any exemption or waiver from the requirements established by this section for participation in remote entry filing.
-  (3) The Secretary may prohibit a Program participant from participating in remote location filing, and may remove a Program participant from participation in remote location filing, if the participant—
-      (i) fails to meet all the compliance requirements and operational standards of remote location filing; or
-      (ii) fails to adhere to all applicable laws and regulations.
-  (4) Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d).
-(b) 
-  (1) A Program participant that is eligible under subsection (a) to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
-  (2) The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
-  (3) 
-    (A) A Program participant that is eligible under paragraph (1) to file additional information from a remote location shall electronically file all such information that the Customs Service can accept electronically.
-    (B) If the Customs Service cannot accept additional information electronically, the Program participant shall file the paper documentation with respect to the information at the appropriate filing location.
-    (C) For purposes of subparagraph (B), the “appropriate location” is—
-      (i) before January 1, 1999 , a designated location; and
-      (ii) after December 31, 1998 —
-        (I) if the paper documentation is required for release, a designated location; or
-        (II) if the paper documentation is not required for release, a remote location designated by the Customs Service or a designated location.
-    (D) A Program participant that is eligible under paragraph (1) to file additional information electronically from a remote location but chooses not to do so must file the paper documentation with respect to the information at a designated location.
-(c) A Program participant that is eligible to file electronically entry information under subsection (a) and additional information under subsection (b) from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
-(d) As used in this section:
-  (1) The term “designated location” means a customs office located in the customs district designated by the entry filer for purposes of customs examination of the merchandise.
-  (2) The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title .
+- **(a)**
+  - **(1)** A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—
+    - **(A)** the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
+    - **(B)** the participant elects to file from the remote location.
+  - **(2)**
+    - **(A)** In order to qualify for filing from a remote location, a Program participant must have the capability to provide, on an entry-by-entry basis, for the following:
+      - **(i)** The electronic entry of merchandise.
+      - **(ii)** The electronic entry summary of required information.
+      - **(iii)** The electronic transmission of invoice information (when required by the Customs Service).
+      - **(iv)** The electronic payment of duties, fees, and taxes.
+      - **(v)** Such other electronic capabilities within the existing or planned components of the Program as the Secretary shall by regulation require.
+    - **(B)** The Customs Service may not permit any exemption or waiver from the requirements established by this section for participation in remote entry filing.
+  - **(3)** The Secretary may prohibit a Program participant from participating in remote location filing, and may remove a Program participant from participation in remote location filing, if the participant—
+      - **(i)** fails to meet all the compliance requirements and operational standards of remote location filing; or
+      - **(ii)** fails to adhere to all applicable laws and regulations.
+  - **(4)** Any Program participant that is eligible to file entry information electronically from a remote location but chooses not to do so in the case of any entry must file any paper documentation for the entry at the designated location referred to in subsection (d).
+- **(b)**
+  - **(1)** A Program participant that is eligible under subsection (a) to file entry information from a remote location may, if the Customs Service is satisfied that the participant meets the requirements under paragraph (2), also electronically file from the remote location additional information that is required by the Customs Service to be presented before the acceptance of entry summary information and at the time of acceptance of entry summary information.
+  - **(2)** The Secretary shall publish, and periodically update, a list of those capabilities within the existing and planned components of the Program that a Program participant must have for purposes of this subsection.
+  - **(3)**
+    - **(A)** A Program participant that is eligible under paragraph (1) to file additional information from a remote location shall electronically file all such information that the Customs Service can accept electronically.
+    - **(B)** If the Customs Service cannot accept additional information electronically, the Program participant shall file the paper documentation with respect to the information at the appropriate filing location.
+    - **(C)** For purposes of subparagraph (B), the “appropriate location” is—
+      - **(i)** before January 1, 1999 , a designated location; and
+      - **(ii)** after December 31, 1998 —
+        - **(I)** if the paper documentation is required for release, a designated location; or
+        - **(II)** if the paper documentation is not required for release, a remote location designated by the Customs Service or a designated location.
+    - **(D)** A Program participant that is eligible under paragraph (1) to file additional information electronically from a remote location but chooses not to do so must file the paper documentation with respect to the information at a designated location.
+- **(c)** A Program participant that is eligible to file electronically entry information under subsection (a) and additional information under subsection (b) from a remote location may file at any remote location designated by the Customs Service any information required by the Customs Service after entry summary.
+- **(d)** As used in this section:
+  - **(1)** The term “designated location” means a customs office located in the customs district designated by the entry filer for purposes of customs examination of the merchandise.
+  - **(2)** The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title .

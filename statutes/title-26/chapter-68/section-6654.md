@@ -5,104 +5,104 @@ usc_section: "6654"
 chapter: 68
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6654"
-generated_at: "2026-03-29T00:31:21.070Z"
+generated_at: "2026-03-29T02:14:01.358Z"
 ---
 
 # § 6654. Failure by individual to pay estimated income tax
 
-(a) Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1, the tax under chapter 2, and the tax under chapter 2A for the taxable year an amount determined by applying—
-  (1) the underpayment rate established under section 6621,
-  (2) to the amount of the underpayment,
-  (3) for the period of the underpayment.
-(b) For purposes of subsection (a)—
-  (1) The amount of the underpayment shall be the excess of—
-    (A) the required installment, over
-    (B) the amount (if any) of the installment paid on or before the due date for the installment.
-  (2) The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
-    (A) the 15th day of the 4th month following the close of the taxable year, or
-    (B) with respect to any portion of the underpayment, the date on which such portion is paid.
-  (3) For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
-(c) For purposes of this section—
-  (1) There shall be 4 required installments for each taxable year.
-  (2) In the case of the following required installments: The due date is: 1st April 15 2nd June 15 3rd September 15 4th January 15 of the following taxable year.
-(d) For purposes of this section—
-  (1) 
-    (A) Except as provided in paragraph (2), the amount of any required installment shall be 25 percent of the required annual payment.
-    (B) For purposes of subparagraph (A), the term “required annual payment” means the lesser of—
-      (i) 90 percent of the tax shown on the return for the taxable year (or, if no return is filed, 90 percent of the tax for such year), or
-      (ii) 100 percent of the tax shown on the return of the individual for the preceding taxable year.
-    (C) 
-      (i) If the adjusted gross income shown on the return of the individual for the preceding taxable year beginning in any calendar year exceeds $150,000, clause (ii) of subparagraph (B) shall be applied by substituting “110 percent” for “100 percent”.
-      (ii) In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (i) shall be applied by substituting “$75,000” for “$150,000”.
-      (iii) In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
-  (2) 
-    (A) In the case of any required installment, if the individual establishes that the annualized income installment is less than the amount determined under paragraph (1)—
-      (i) the amount of such required installment shall be the annualized income installment, and
-      (ii) any reduction in a required installment resulting from the application of this subparagraph shall be recaptured by increasing the amount of the next required installment determined under paragraph (1) by the amount of such reduction (and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this clause).
-    (B) In the case of any required installment, the annualized income installment is the excess (if any) of—
-      (i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, alternative minimum taxable income, and adjusted self-employment income for months in the taxable year ending before the due date for the installment, over
-      (ii) the aggregate amount of any prior required installments for the taxable year.
-    (C) For purposes of this paragraph—
-      (i) The taxable income, alternative minimum taxable income, and adjusted self-employment income shall be placed on an annualized basis under regulations prescribed by the Secretary.
-      (ii) In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
-      (iii) The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section 1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
-    (D) 
-      (i) Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
-      (ii) If a taxpayer elects to have this clause apply to any taxable year—
-        (I) clause (i) shall not apply, and
-        (II) for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
-(e) 
-  (1) No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax), reduced by the credit allowable under section 31, is less than $1,000.
-  (2) No addition to tax shall be imposed under subsection (a) for any taxable year if—
-    (A) the preceding taxable year was a taxable year of 12 months,
-    (B) the individual did not have any liability for tax for the preceding taxable year, and
-    (C) the individual was a citizen or resident of the United States throughout the preceding taxable year.
-  (3) 
-    (A) No addition to tax shall be imposed under subsection (a) with respect to any underpayment to the extent the Secretary determines that by reason of casualty, disaster, or other unusual circumstances the imposition of such addition to tax would be against equity and good conscience.
-    (B) No addition to tax shall be imposed under subsection (a) with respect to any underpayment if the Secretary determines that—
-      (i) the taxpayer—
-        (I) retired after having attained age 62, or
-        (II) became disabled,
-      (ii) such underpayment was due to reasonable cause and not to willful neglect.
-(f) For purposes of this section, the term “tax” means—
-  (1) the tax imposed by chapter 1 (other than any increase in such tax by reason of section 143(m)), plus
-  (2) the tax imposed by chapter 2, plus
-  (3) the tax imposed by chapter 2A, minus
-  (4) the credits against tax provided by part IV of subchapter A of chapter 1, other than the credit against tax provided by section 31 (relating to tax withheld on wages).
-(g) 
-  (1) For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
-  (2) The taxpayer may apply paragraph (1) separately with respect to—
-    (A) wage withholding, and
-    (B) all other amounts withheld for which credit is allowed under section 31.
-(h) If, on or before January 31 of the following taxable year, the taxpayer files a return for the taxable year and pays in full the amount computed on the return as payable, then no addition to tax shall be imposed under subsection (a) with respect to any underpayment of the 4th required installment for the taxable year.
-(i) For purposes of this section—
-  (1) If an individual is a farmer or fisherman for any taxable year—
-    (A) there shall be only 1 required installment for the taxable year,
-    (B) the due date for such installment shall be January 15 of the following taxable year,
-    (C) the amount of such installment shall be equal to the required annual payment determined under subsection (d)(1)(B) by substituting “66⅔ percent” for “90 percent” and without regard to subparagraph (C) of subsection (d)(1), and
-    (D) subsection (h) shall be applied—
-      (i) by substituting “March 1” for “January 31”, and
-      (ii) by treating the required installment described in subparagraph (A) of this paragraph as the 4th required installment.
-  (2) An individual is a farmer or fisherman for any taxable year if—
-    (A) the individual’s gross income from farming or fishing (including oyster farming) for the taxable year is at least 66⅔ percent of the total gross income from all sources for the taxable year, or
-    (B) such individual’s gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least 66⅔ percent of the total gross income from all sources shown on such return.
-(j) In the case of a nonresident alien described in section 6072(c):
-  (1) There shall be 3 required installments for the taxable year.
-  (2) The due dates for required installments under this subsection shall be determined under the following table: In the case of the following required installments: The due date is: 1st June 15 2nd September 15 3rd January 15 of the following taxable year.
-  (3) 
-    (A) In the case of the first required installment, subsection (d) shall be applied by substituting “50 percent” for “25 percent” in subsection (d)(1)(A).
-    (B) The applicable percentage for purposes of subsection (d)(2) shall be determined under the following table: In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
-(k) 
-  (1) In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
-  (2) This section shall be applied to taxable years of less than 12 months in accordance with regulations prescribed by the Secretary.
-(l) 
-  (1) Except as otherwise provided in this subsection, this section shall apply to any estate or trust.
-  (2) With respect to any taxable year ending before the date 2 years after the date of the decedent’s death, this section shall not apply to—
-    (A) the estate of such decedent, or
-    (B) any trust—
-      (i) all of which was treated (under subpart E of part I of subchapter J of chapter 1) as owned by the decedent, and
-      (ii) to which the residue of the decedent’s estate will pass under his will (or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration).
-  (3) This section shall not apply to any trust which is subject to the tax imposed by section 511 or which is a private foundation.
-  (4) In the case of any estate or trust to which this section applies, subsection (d)(2)(B)(i) shall be applied by substituting “ending before the date 1 month before the due date for the installment” for “ending before the due date for the installment”.
-(m) For purposes of this section, the tax imposed under section 3101(b)(2) (to the extent not withheld) shall be treated as a tax imposed under chapter 2.
-(n) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
+- **(a)** Except as otherwise provided in this section, in the case of any underpayment of estimated tax by an individual, there shall be added to the tax under chapter 1, the tax under chapter 2, and the tax under chapter 2A for the taxable year an amount determined by applying—
+  - **(1)** the underpayment rate established under section 6621,
+  - **(2)** to the amount of the underpayment,
+  - **(3)** for the period of the underpayment.
+- **(b)** For purposes of subsection (a)—
+  - **(1)** The amount of the underpayment shall be the excess of—
+    - **(A)** the required installment, over
+    - **(B)** the amount (if any) of the installment paid on or before the due date for the installment.
+  - **(2)** The period of the underpayment shall run from the due date for the installment to whichever of the following dates is the earlier—
+    - **(A)** the 15th day of the 4th month following the close of the taxable year, or
+    - **(B)** with respect to any portion of the underpayment, the date on which such portion is paid.
+  - **(3)** For purposes of paragraph (2)(B), a payment of estimated tax shall be credited against unpaid required installments in the order in which such installments are required to be paid.
+- **(c)** For purposes of this section—
+  - **(1)** There shall be 4 required installments for each taxable year.
+  - **(2)** In the case of the following required installments: The due date is: 1st April 15 2nd June 15 3rd September 15 4th January 15 of the following taxable year.
+- **(d)** For purposes of this section—
+  - **(1)**
+    - **(A)** Except as provided in paragraph (2), the amount of any required installment shall be 25 percent of the required annual payment.
+    - **(B)** For purposes of subparagraph (A), the term “required annual payment” means the lesser of—
+      - **(i)** 90 percent of the tax shown on the return for the taxable year (or, if no return is filed, 90 percent of the tax for such year), or
+      - **(ii)** 100 percent of the tax shown on the return of the individual for the preceding taxable year.
+    - **(C)**
+      - **(i)** If the adjusted gross income shown on the return of the individual for the preceding taxable year beginning in any calendar year exceeds $150,000, clause (ii) of subparagraph (B) shall be applied by substituting “110 percent” for “100 percent”.
+      - **(ii)** In the case of a married individual (within the meaning of section 7703) who files a separate return for the taxable year for which the amount of the installment is being determined, clause (i) shall be applied by substituting “$75,000” for “$150,000”.
+      - **(iii)** In the case of an estate or trust, adjusted gross income shall be determined as provided in section 67(e).
+  - **(2)**
+    - **(A)** In the case of any required installment, if the individual establishes that the annualized income installment is less than the amount determined under paragraph (1)—
+      - **(i)** the amount of such required installment shall be the annualized income installment, and
+      - **(ii)** any reduction in a required installment resulting from the application of this subparagraph shall be recaptured by increasing the amount of the next required installment determined under paragraph (1) by the amount of such reduction (and by increasing subsequent required installments to the extent that the reduction has not previously been recaptured under this clause).
+    - **(B)** In the case of any required installment, the annualized income installment is the excess (if any) of—
+      - **(i)** an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, alternative minimum taxable income, and adjusted self-employment income for months in the taxable year ending before the due date for the installment, over
+      - **(ii)** the aggregate amount of any prior required installments for the taxable year.
+    - **(C)** For purposes of this paragraph—
+      - **(i)** The taxable income, alternative minimum taxable income, and adjusted self-employment income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+      - **(ii)** In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
+      - **(iii)** The term “adjusted self-employment income” means self-employment income (as defined in section 1402(b)); except that section 1402(b) shall be applied by placing wages (within the meaning of section 1402(b)) for months in the taxable year ending before the due date for the installment on an annualized basis consistent with clause (i).
+    - **(D)**
+      - **(i)** Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under subparagraph (B) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+      - **(ii)** If a taxpayer elects to have this clause apply to any taxable year—
+        - **(I)** clause (i) shall not apply, and
+        - **(II)** for purposes of computing any annualized income installment for such taxable year, the taxpayer shall be treated as having received ratably during such taxable year items of income and credit described in clause (i) in an amount equal to the amount of such items shown on the return of the taxpayer for the preceding taxable year (the second preceding taxable year in the case of the first and second required installments for such taxable year).
+- **(e)**
+  - **(1)** No addition to tax shall be imposed under subsection (a) for any taxable year if the tax shown on the return for such taxable year (or, if no return is filed, the tax), reduced by the credit allowable under section 31, is less than $1,000.
+  - **(2)** No addition to tax shall be imposed under subsection (a) for any taxable year if—
+    - **(A)** the preceding taxable year was a taxable year of 12 months,
+    - **(B)** the individual did not have any liability for tax for the preceding taxable year, and
+    - **(C)** the individual was a citizen or resident of the United States throughout the preceding taxable year.
+  - **(3)**
+    - **(A)** No addition to tax shall be imposed under subsection (a) with respect to any underpayment to the extent the Secretary determines that by reason of casualty, disaster, or other unusual circumstances the imposition of such addition to tax would be against equity and good conscience.
+    - **(B)** No addition to tax shall be imposed under subsection (a) with respect to any underpayment if the Secretary determines that—
+      - **(i)** the taxpayer—
+        - **(I)** retired after having attained age 62, or
+        - **(II)** became disabled,
+      - **(ii)** such underpayment was due to reasonable cause and not to willful neglect.
+- **(f)** For purposes of this section, the term “tax” means—
+  - **(1)** the tax imposed by chapter 1 (other than any increase in such tax by reason of section 143(m)), plus
+  - **(2)** the tax imposed by chapter 2, plus
+  - **(3)** the tax imposed by chapter 2A, minus
+  - **(4)** the credits against tax provided by part IV of subchapter A of chapter 1, other than the credit against tax provided by section 31 (relating to tax withheld on wages).
+- **(g)**
+  - **(1)** For purposes of applying this section, the amount of the credit allowed under section 31 for the taxable year shall be deemed a payment of estimated tax, and an equal part of such amount shall be deemed paid on each due date for such taxable year, unless the taxpayer establishes the dates on which all amounts were actually withheld, in which case the amounts so withheld shall be deemed payments of estimated tax on the dates on which such amounts were actually withheld.
+  - **(2)** The taxpayer may apply paragraph (1) separately with respect to—
+    - **(A)** wage withholding, and
+    - **(B)** all other amounts withheld for which credit is allowed under section 31.
+- **(h)** If, on or before January 31 of the following taxable year, the taxpayer files a return for the taxable year and pays in full the amount computed on the return as payable, then no addition to tax shall be imposed under subsection (a) with respect to any underpayment of the 4th required installment for the taxable year.
+- **(i)** For purposes of this section—
+  - **(1)** If an individual is a farmer or fisherman for any taxable year—
+    - **(A)** there shall be only 1 required installment for the taxable year,
+    - **(B)** the due date for such installment shall be January 15 of the following taxable year,
+    - **(C)** the amount of such installment shall be equal to the required annual payment determined under subsection (d)(1)(B) by substituting “66⅔ percent” for “90 percent” and without regard to subparagraph (C) of subsection (d)(1), and
+    - **(D)** subsection (h) shall be applied—
+      - **(i)** by substituting “March 1” for “January 31”, and
+      - **(ii)** by treating the required installment described in subparagraph (A) of this paragraph as the 4th required installment.
+  - **(2)** An individual is a farmer or fisherman for any taxable year if—
+    - **(A)** the individual’s gross income from farming or fishing (including oyster farming) for the taxable year is at least 66⅔ percent of the total gross income from all sources for the taxable year, or
+    - **(B)** such individual’s gross income from farming or fishing (including oyster farming) shown on the return of the individual for the preceding taxable year is at least 66⅔ percent of the total gross income from all sources shown on such return.
+- **(j)** In the case of a nonresident alien described in section 6072(c):
+  - **(1)** There shall be 3 required installments for the taxable year.
+  - **(2)** The due dates for required installments under this subsection shall be determined under the following table: In the case of the following required installments: The due date is: 1st June 15 2nd September 15 3rd January 15 of the following taxable year.
+  - **(3)**
+    - **(A)** In the case of the first required installment, subsection (d) shall be applied by substituting “50 percent” for “25 percent” in subsection (d)(1)(A).
+    - **(B)** The applicable percentage for purposes of subsection (d)(2) shall be determined under the following table: In the case of the following required installments: The applicable percentage is: 1st 22.5 2nd 45 3rd 67.5 4th 90.
+- **(k)**
+  - **(1)** In applying this section to a taxable year beginning on any date other than January 1, there shall be substituted, for the months specified in this section, the months which correspond thereto.
+  - **(2)** This section shall be applied to taxable years of less than 12 months in accordance with regulations prescribed by the Secretary.
+- **(l)**
+  - **(1)** Except as otherwise provided in this subsection, this section shall apply to any estate or trust.
+  - **(2)** With respect to any taxable year ending before the date 2 years after the date of the decedent’s death, this section shall not apply to—
+    - **(A)** the estate of such decedent, or
+    - **(B)** any trust—
+      - **(i)** all of which was treated (under subpart E of part I of subchapter J of chapter 1) as owned by the decedent, and
+      - **(ii)** to which the residue of the decedent’s estate will pass under his will (or, if no will is admitted to probate, which is the trust primarily responsible for paying debts, taxes, and expenses of administration).
+  - **(3)** This section shall not apply to any trust which is subject to the tax imposed by section 511 or which is a private foundation.
+  - **(4)** In the case of any estate or trust to which this section applies, subsection (d)(2)(B)(i) shall be applied by substituting “ending before the date 1 month before the due date for the installment” for “ending before the due date for the installment”.
+- **(m)** For purposes of this section, the tax imposed under section 3101(b)(2) (to the extent not withheld) shall be treated as a tax imposed under chapter 2.
+- **(n)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.

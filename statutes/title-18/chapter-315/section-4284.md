@@ -5,7 +5,7 @@ usc_section: "4284"
 chapter: 315
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 4284"
-generated_at: "2026-03-29T00:30:15.762Z"
+generated_at: "2026-03-29T02:12:02.515Z"
 ---
 
 # [§§ 4283, 4284. Repealed. Pub. L. 98–473, title II, § 218(a)(7) , Oct. 12, 1984 , 98 Stat. 2027 ]

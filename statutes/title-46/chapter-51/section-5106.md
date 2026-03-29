@@ -5,10 +5,10 @@ usc_section: "5106"
 chapter: 51
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 5106"
-generated_at: "2026-03-29T00:33:02.860Z"
+generated_at: "2026-03-29T02:15:53.720Z"
 ---
 
 # § 5106. Load line certificate
 
-(a) On finding that a load line survey of a vessel under this chapter is satisfactory and that the vessel’s load lines are marked correctly, the Secretary shall issue the vessel a load line certificate and deliver it to the owner, master, or individual in charge of the vessel.
-(b) The certificate shall be maintained as required by the Secretary.
+- **(a)** On finding that a load line survey of a vessel under this chapter is satisfactory and that the vessel’s load lines are marked correctly, the Secretary shall issue the vessel a load line certificate and deliver it to the owner, master, or individual in charge of the vessel.
+- **(b)** The certificate shall be maintained as required by the Secretary.

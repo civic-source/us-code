@@ -5,10 +5,10 @@ usc_section: "1255"
 chapter: 25
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 1255"
-generated_at: "2026-03-29T00:31:30.816Z"
+generated_at: "2026-03-29T02:14:11.249Z"
 ---
 
 # § 1255. State laws
 
-(a) No State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, shall be superseded by any provision of this chapter or any regulation issued pursuant thereto, except insofar as such State law or regulation is inconsistent with the provisions of this chapter.
-(b) Any provision of any State law or regulation in effect upon August 3, 1977 , or which may become effective thereafter, which provides for more stringent land use and environmental controls and regulations of surface coal mining and reclamation operation than do the provisions of this chapter or any regulation issued pursuant thereto shall not be construed to be inconsistent with this chapter. The Secretary shall set forth any State law or regulation which is construed to be inconsistent with this chapter. Any provision of any State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, which provides for the control and regulation of surface mining and reclamation operations for which no provision is contained in this chapter shall not be construed to be inconsistent with this chapter.
+- **(a)** No State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, shall be superseded by any provision of this chapter or any regulation issued pursuant thereto, except insofar as such State law or regulation is inconsistent with the provisions of this chapter.
+- **(b)** Any provision of any State law or regulation in effect upon August 3, 1977 , or which may become effective thereafter, which provides for more stringent land use and environmental controls and regulations of surface coal mining and reclamation operation than do the provisions of this chapter or any regulation issued pursuant thereto shall not be construed to be inconsistent with this chapter. The Secretary shall set forth any State law or regulation which is construed to be inconsistent with this chapter. Any provision of any State law or regulation in effect on August 3, 1977 , or which may become effective thereafter, which provides for the control and regulation of surface mining and reclamation operations for which no provision is contained in this chapter shall not be construed to be inconsistent with this chapter.

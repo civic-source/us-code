@@ -5,7 +5,7 @@ usc_section: "9859a"
 chapter: 105
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 9859a"
-generated_at: "2026-03-29T00:32:54.183Z"
+generated_at: "2026-03-29T02:15:37.105Z"
 ---
 
 # § 9859a. Authorization of appropriations

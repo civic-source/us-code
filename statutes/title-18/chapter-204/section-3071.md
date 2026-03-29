@@ -5,16 +5,16 @@ usc_section: "3071"
 chapter: 204
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3071"
-generated_at: "2026-03-29T00:30:15.722Z"
+generated_at: "2026-03-29T02:12:02.471Z"
 ---
 
 # § 3071. Information for which rewards authorized
 
-(a) With respect to acts of terrorism primarily within the territorial jurisdiction of the United States, the Attorney General may reward any individual who furnishes information—
-  (1) leading to the arrest or conviction, in any country, of any individual or individuals for the commission of an act of terrorism against a United States person or United States property; or
-  (2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of terrorism against a United States person or property; or
-  (3) leading to the prevention, frustration, or favorable resolution of an act of terrorism against a United States person or property.
-(b) With respect to acts of espionage involving or directed at the United States, the Attorney General may reward any individual who furnishes information—
-  (1) leading to the arrest or conviction, in any country, of any individual or individuals for commission of an act of espionage against the United States;
-  (2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of espionage against the United States; or
-  (3) leading to the prevention or frustration of an act of espionage against the United States.
+- **(a)** With respect to acts of terrorism primarily within the territorial jurisdiction of the United States, the Attorney General may reward any individual who furnishes information—
+  - **(1)** leading to the arrest or conviction, in any country, of any individual or individuals for the commission of an act of terrorism against a United States person or United States property; or
+  - **(2)** leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of terrorism against a United States person or property; or
+  - **(3)** leading to the prevention, frustration, or favorable resolution of an act of terrorism against a United States person or property.
+- **(b)** With respect to acts of espionage involving or directed at the United States, the Attorney General may reward any individual who furnishes information—
+  - **(1)** leading to the arrest or conviction, in any country, of any individual or individuals for commission of an act of espionage against the United States;
+  - **(2)** leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of espionage against the United States; or
+  - **(3)** leading to the prevention or frustration of an act of espionage against the United States.

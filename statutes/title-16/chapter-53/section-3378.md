@@ -5,19 +5,19 @@ usc_section: "3378"
 chapter: 53
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3378"
-generated_at: "2026-03-29T00:29:52.799Z"
+generated_at: "2026-03-29T02:11:53.888Z"
 ---
 
 # § 3378. Miscellaneous provisions
 
-(a) Nothing in this chapter shall be construed to prevent the several States or Indian tribes from making or enforcing laws or regulations not inconsistent with the provisions of this chapter.
-(b) The following provisions of law are repealed:
-  (1) The Act of May 20, 1926 (commonly known as the Black Bass Act; 16 U.S.C. 851–856 ).
-  (2) Section 667e of this title and sections 43 and 44 of title 18 (commonly known as provisions of the Lacey Act).
-  (3) Sections 3054 and 3112 of title 18.
-(c) Nothing in this chapter shall be construed as—
-  (1) repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b);
-  (2) repealing, superseding, or modifying any right, privilege, or immunity granted, reserved, or established pursuant to treaty, statute, or executive order pertaining to any Indian tribe, band, or community; or
-  (3) enlarging or diminishing the authority of any State or Indian tribe to regulate the activities of persons within Indian reservations.
-(d) The Secretary of the Interior is authorized to pay from agency appropriations the travel expense of newly appointed special agents of the United States Fish and Wildlife Service and the transportation expense of household goods and personal effects from place of residence at time of selection to first duty station to the extent authorized by section 5724 of title 5 for all such special agents appointed after January 1, 1977 .
-(e) The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
+- **(a)** Nothing in this chapter shall be construed to prevent the several States or Indian tribes from making or enforcing laws or regulations not inconsistent with the provisions of this chapter.
+- **(b)** The following provisions of law are repealed:
+  - **(1)** The Act of May 20, 1926 (commonly known as the Black Bass Act; 16 U.S.C. 851–856 ).
+  - **(2)** Section 667e of this title and sections 43 and 44 of title 18 (commonly known as provisions of the Lacey Act).
+  - **(3)** Sections 3054 and 3112 of title 18.
+- **(c)** Nothing in this chapter shall be construed as—
+  - **(1)** repealing, superseding, or modifying any provision of Federal law other than those specified in subsection (b);
+  - **(2)** repealing, superseding, or modifying any right, privilege, or immunity granted, reserved, or established pursuant to treaty, statute, or executive order pertaining to any Indian tribe, band, or community; or
+  - **(3)** enlarging or diminishing the authority of any State or Indian tribe to regulate the activities of persons within Indian reservations.
+- **(d)** The Secretary of the Interior is authorized to pay from agency appropriations the travel expense of newly appointed special agents of the United States Fish and Wildlife Service and the transportation expense of household goods and personal effects from place of residence at time of selection to first duty station to the extent authorized by section 5724 of title 5 for all such special agents appointed after January 1, 1977 .
+- **(e)** The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.

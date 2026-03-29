@@ -5,28 +5,28 @@ usc_section: "2002"
 chapter: 22
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2002"
-generated_at: "2026-03-29T00:30:38.719Z"
+generated_at: "2026-03-29T02:13:20.921Z"
 ---
 
 # § 2002. National criteria for home-living situations
 
-(a) 
-  (1) The Secretary, in consultation with the Secretary of Education, Indian organizations and tribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
-  (2) Such standards shall be implemented in Bureau-operated schools, and shall serve as minimum standards for contract or grant schools.
-  (3) Once established, any revisions of such standards shall be developed according to the requirements established under section 2017 of this title .
-(b) The Secretary shall implement the revised standards established under this section immediately upon completion of the standards.
-(c) 
-  (1) The Secretary shall submit to the appropriate committees of Congress, the tribes, and the affected schools, and publish in the Federal Register, a detailed plan to bring all Bureau-funded schools that provide home-living (dormitory) situations up to the standards established under this section.
-  (2) The plan described in paragraph (1) shall include—
-    (A) a statement of the relative needs of each Bureau-funded home-living (dormitory) school;
-    (B) projected future needs of each Bureau-funded home-living (dormitory) school;
-    (C) detailed information on the status of each school in relation to the standards established under this section;
-    (D) specific cost estimates for meeting each standard for each such school;
-    (E) aggregate cost estimates for bringing all such schools into compliance with the criteria established under this section; and
-    (F) specific timelines for bringing each school into compliance with such standards.
-(d) 
-  (1) A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a).
-  (2) 
-    (A) A tribal governing body, or the local school board so designated by the tribal governing body, may waive, in whole or in part, the standards established under this section if such standards are determined by such body or board to be inappropriate for the needs of students from that tribe.
-    (B) The tribal governing body or school board involved shall, not later than 60 days after providing a waiver under subparagraph (A) for a school, submit to the Director a proposal for alternative standards that take into account the specific needs of the tribe’s children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.
-(e) No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.
+- **(a)**
+  - **(1)** The Secretary, in consultation with the Secretary of Education, Indian organizations and tribes, and Bureau-funded schools, shall revise the national standards for home-living (dormitory) situations to include such factors as heating, lighting, cooling, adult-child ratios, needs for counselors (including special needs related to off-reservation home-living (dormitory) situations), therapeutic programs, space, and privacy.
+  - **(2)** Such standards shall be implemented in Bureau-operated schools, and shall serve as minimum standards for contract or grant schools.
+  - **(3)** Once established, any revisions of such standards shall be developed according to the requirements established under section 2017 of this title .
+- **(b)** The Secretary shall implement the revised standards established under this section immediately upon completion of the standards.
+- **(c)**
+  - **(1)** The Secretary shall submit to the appropriate committees of Congress, the tribes, and the affected schools, and publish in the Federal Register, a detailed plan to bring all Bureau-funded schools that provide home-living (dormitory) situations up to the standards established under this section.
+  - **(2)** The plan described in paragraph (1) shall include—
+    - **(A)** a statement of the relative needs of each Bureau-funded home-living (dormitory) school;
+    - **(B)** projected future needs of each Bureau-funded home-living (dormitory) school;
+    - **(C)** detailed information on the status of each school in relation to the standards established under this section;
+    - **(D)** specific cost estimates for meeting each standard for each such school;
+    - **(E)** aggregate cost estimates for bringing all such schools into compliance with the criteria established under this section; and
+    - **(F)** specific timelines for bringing each school into compliance with such standards.
+- **(d)**
+  - **(1)** A tribal governing body or local school board may, in accordance with this subsection, waive the standards established under this section for a school described in subsection (a).
+  - **(2)**
+    - **(A)** A tribal governing body, or the local school board so designated by the tribal governing body, may waive, in whole or in part, the standards established under this section if such standards are determined by such body or board to be inappropriate for the needs of students from that tribe.
+    - **(B)** The tribal governing body or school board involved shall, not later than 60 days after providing a waiver under subparagraph (A) for a school, submit to the Director a proposal for alternative standards that take into account the specific needs of the tribe’s children. Such alternative standards shall be established by the Director for the school involved unless specifically rejected by the Director for good cause and in writing provided to the affected tribes or local school board.
+- **(e)** No school in operation on or before July 1, 1999 (regardless of compliance or noncompliance with the standards established under this section), may be closed, transferred to another authority, or consolidated, and no program of such a school may be substantially curtailed, because the school failed to meet such standards.

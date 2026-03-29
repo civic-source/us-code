@@ -5,7 +5,7 @@ usc_section: "8407"
 chapter: 70
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 8407"
-generated_at: "2026-03-29T00:07:03.197Z"
+generated_at: "2026-03-29T02:12:17.512Z"
 ---
 
 # §§ 8401 to 8407. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

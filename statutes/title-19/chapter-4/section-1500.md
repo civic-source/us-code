@@ -5,15 +5,15 @@ usc_section: "1500"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1500"
-generated_at: "2026-03-29T00:30:20.142Z"
+generated_at: "2026-03-29T02:12:08.613Z"
 ---
 
 # § 1500. Appraisement, classification, and liquidation procedure
 
 The Customs Service shall, under rules and regulations prescribed by the Secretary—
 
-(a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title , by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
-(b) fix the final classification and rate of duty applicable to such merchandise;
-(c) fix the final amount of duty to be paid on such merchandise and determine any increased or additional duties, taxes, and fees due or any excess of duties, taxes, and fees deposited;
-(d) liquidate the entry and reconciliation, if any, of such merchandise; and
-(e) give or transmit, pursuant to an electronic data interchange system, notice of such liquidation to the importer, his consignee, or agent in such form and manner as the Secretary shall by regulation prescribe.
+- **(a)** fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title , by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
+- **(b)** fix the final classification and rate of duty applicable to such merchandise;
+- **(c)** fix the final amount of duty to be paid on such merchandise and determine any increased or additional duties, taxes, and fees due or any excess of duties, taxes, and fees deposited;
+- **(d)** liquidate the entry and reconciliation, if any, of such merchandise; and
+- **(e)** give or transmit, pursuant to an electronic data interchange system, notice of such liquidation to the importer, his consignee, or agent in such form and manner as the Secretary shall by regulation prescribe.

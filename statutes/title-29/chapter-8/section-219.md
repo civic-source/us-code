@@ -5,7 +5,7 @@ usc_section: "219"
 chapter: 8
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 219"
-generated_at: "2026-03-29T00:31:27.561Z"
+generated_at: "2026-03-29T02:14:09.367Z"
 ---
 
 # § 219. Separability

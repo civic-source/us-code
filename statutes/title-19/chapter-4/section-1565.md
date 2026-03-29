@@ -5,12 +5,12 @@ usc_section: "1565"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1565"
-generated_at: "2026-03-29T00:30:20.158Z"
+generated_at: "2026-03-29T02:12:08.625Z"
 ---
 
 # § 1565. Cartage
 
 The cartage of merchandise entered for warehouse shall be done by—
 
-  (1) cartmen appointed and licensed by the Customs Service; or
-  (2) carriers designated under section 1551 of this title to carry bonded merchandise;
+  - **(1)** cartmen appointed and licensed by the Customs Service; or
+  - **(2)** carriers designated under section 1551 of this title to carry bonded merchandise;

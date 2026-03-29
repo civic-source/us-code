@@ -5,7 +5,7 @@ usc_section: "1002"
 chapter: 18
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1002"
-generated_at: "2026-03-29T00:29:52.678Z"
+generated_at: "2026-03-29T02:11:53.729Z"
 ---
 
 # § 1002. Definitions

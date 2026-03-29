@@ -5,7 +5,7 @@ usc_section: "107"
 chapter: 4
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 107"
-generated_at: "2026-03-29T00:30:24.143Z"
+generated_at: "2026-03-29T02:12:27.940Z"
 ---
 
 # §§ 106, 107. Omitted

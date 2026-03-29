@@ -5,7 +5,7 @@ usc_section: "198"
 chapter: 12
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 198"
-generated_at: "2026-03-29T00:33:18.030Z"
+generated_at: "2026-03-29T02:16:14.692Z"
 ---
 
 # §§ 196 to 198. Transferred

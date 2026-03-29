@@ -5,52 +5,52 @@ usc_section: "3831b"
 chapter: 58
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-29T00:29:52.812Z"
+generated_at: "2026-03-29T02:11:53.902Z"
 ---
 
 # § 3831b. Farmable wetland program
 
-(a) 
-  (1) During the 2008 through 2023 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
-  (2) The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
-(b) 
-  (1) Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, land—
-    (A) that is wetland (including a converted wetland described in section 3822(b)(1)(A) of this title ) that had a cropping history during at least 3 of the immediately preceding 10 crop years;
-    (B) on which a constructed wetland is to be developed that will receive surface and subsurface flow from row crop agricultural production and is designed to provide nitrogen removal in addition to other wetland functions;
-    (C) that was devoted to commercial pond-raised aquaculture in any year during the period of calendar years 2002 through 2007; or
-    (D) that, after January 1, 1990 , and before December 31, 2002 , was—
-      (i) cropped during at least 3 of 10 crop years; and
-      (ii) subject to the natural overflow of a prairie wetland.
-  (2) Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, buffer acreage that—
-    (A) with respect to land described in subparagraph (A), (B), or (C) of paragraph (1)—
-      (i) is contiguous to such land;
-      (ii) is used to protect such land; and
-      (iii) is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
-    (B) with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
-(c) 
-  (1) The Secretary may enroll in the conservation reserve, pursuant to the program established under this section, not more than—
-    (A) 100,000 acres in any State; and
-    (B) a total of 750,000 acres.
-  (2) Subject to paragraph (3), any acreage enrolled in the conservation reserve under this section shall be considered acres maintained in the conservation reserve.
-  (3) Acreage enrolled in the conservation reserve under this section shall not affect for any fiscal year the quantity of—
-    (A) acreage enrolled to establish conservation buffers as part of the program announced on March 24, 1998 (63 Fed. Reg. 14109); or
-    (B) acreage enrolled into the conservation reserve enhancement program announced on May 27, 1998 (63 Fed. Reg. 28965).
-  (4) The Secretary shall conduct a review of the program established under this section with respect to each State that has enrolled land in the conservation reserve pursuant to the program. As a result of the review, the Secretary may increase the number of acres that may be enrolled in a State under the program to not more than 200,000 acres, notwithstanding paragraph (1)(A).
-(d) 
-  (1) 
-    (A) The maximum size of any land described in subparagraph (A) or (B) of subsection (b)(1) that an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, shall be 40 contiguous acres.
-    (B) The maximum size of any land described in subparagraph (D) of subsection (b)(1) that an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, shall be 20 contiguous acres.
-    (C) All acres described in subparagraph (A) or (B), including acres that are ineligible for payment, shall be covered by the conservation contract.
-  (2) The maximum size of any buffer acreage described in subsection (b)(2) that an owner or operator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
-  (3) Except for land described in subsection (b)(1)(C) and buffer acreage related to such land, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
-(e) During the term of a contract entered into under the program established under this section, an owner or operator shall agree—
-  (1) to restore the hydrology of the wetland within the eligible acreage to the maximum extent practicable, as determined by the Secretary;
-  (2) to establish vegetative cover (which may include emerging vegetation in water and bottomland hardwoods, cypress, and other appropriate tree species) on the eligible acreage, as determined by the Secretary;
-  (3) to a general prohibition of commercial use of the enrolled land; and
-  (4) to carry out other duties described in section 3832 of this title .
-(f) 
-  (1) Except as provided in paragraphs (2) and (3), in return for a contract entered into under this section, the Secretary shall—
-    (A) make payments to the owner or operator based on rental rates for cropland; and
-    (B) provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
-  (2) The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
-  (3) The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title .
+- **(a)**
+  - **(1)** During the 2008 through 2023 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
+  - **(2)** The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
+- **(b)**
+  - **(1)** Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, land—
+    - **(A)** that is wetland (including a converted wetland described in section 3822(b)(1)(A) of this title ) that had a cropping history during at least 3 of the immediately preceding 10 crop years;
+    - **(B)** on which a constructed wetland is to be developed that will receive surface and subsurface flow from row crop agricultural production and is designed to provide nitrogen removal in addition to other wetland functions;
+    - **(C)** that was devoted to commercial pond-raised aquaculture in any year during the period of calendar years 2002 through 2007; or
+    - **(D)** that, after January 1, 1990 , and before December 31, 2002 , was—
+      - **(i)** cropped during at least 3 of 10 crop years; and
+      - **(ii)** subject to the natural overflow of a prairie wetland.
+  - **(2)** Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, buffer acreage that—
+    - **(A)** with respect to land described in subparagraph (A), (B), or (C) of paragraph (1)—
+      - **(i)** is contiguous to such land;
+      - **(ii)** is used to protect such land; and
+      - **(iii)** is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
+    - **(B)** with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
+- **(c)**
+  - **(1)** The Secretary may enroll in the conservation reserve, pursuant to the program established under this section, not more than—
+    - **(A)** 100,000 acres in any State; and
+    - **(B)** a total of 750,000 acres.
+  - **(2)** Subject to paragraph (3), any acreage enrolled in the conservation reserve under this section shall be considered acres maintained in the conservation reserve.
+  - **(3)** Acreage enrolled in the conservation reserve under this section shall not affect for any fiscal year the quantity of—
+    - **(A)** acreage enrolled to establish conservation buffers as part of the program announced on March 24, 1998 (63 Fed. Reg. 14109); or
+    - **(B)** acreage enrolled into the conservation reserve enhancement program announced on May 27, 1998 (63 Fed. Reg. 28965).
+  - **(4)** The Secretary shall conduct a review of the program established under this section with respect to each State that has enrolled land in the conservation reserve pursuant to the program. As a result of the review, the Secretary may increase the number of acres that may be enrolled in a State under the program to not more than 200,000 acres, notwithstanding paragraph (1)(A).
+- **(d)**
+  - **(1)**
+    - **(A)** The maximum size of any land described in subparagraph (A) or (B) of subsection (b)(1) that an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, shall be 40 contiguous acres.
+    - **(B)** The maximum size of any land described in subparagraph (D) of subsection (b)(1) that an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, shall be 20 contiguous acres.
+    - **(C)** All acres described in subparagraph (A) or (B), including acres that are ineligible for payment, shall be covered by the conservation contract.
+  - **(2)** The maximum size of any buffer acreage described in subsection (b)(2) that an owner or operator may enroll in the conservation reserve under this section shall be determined by the Secretary in consultation with the State Technical Committee.
+  - **(3)** Except for land described in subsection (b)(1)(C) and buffer acreage related to such land, the maximum size of any eligible acreage described in subsection (b)(1) in a tract of an owner or operator enrolled in the conservation reserve under this section shall be 40 acres.
+- **(e)** During the term of a contract entered into under the program established under this section, an owner or operator shall agree—
+  - **(1)** to restore the hydrology of the wetland within the eligible acreage to the maximum extent practicable, as determined by the Secretary;
+  - **(2)** to establish vegetative cover (which may include emerging vegetation in water and bottomland hardwoods, cypress, and other appropriate tree species) on the eligible acreage, as determined by the Secretary;
+  - **(3)** to a general prohibition of commercial use of the enrolled land; and
+  - **(4)** to carry out other duties described in section 3832 of this title .
+- **(f)**
+  - **(1)** Except as provided in paragraphs (2) and (3), in return for a contract entered into under this section, the Secretary shall—
+    - **(A)** make payments to the owner or operator based on rental rates for cropland; and
+    - **(B)** provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
+  - **(2)** The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
+  - **(3)** The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title .

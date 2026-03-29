@@ -5,7 +5,7 @@ usc_section: "422g"
 chapter: 12
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 422g"
-generated_at: "2026-03-29T00:32:57.346Z"
+generated_at: "2026-03-29T02:15:47.542Z"
 ---
 
 # § 422g. Information from Federal agencies; costs

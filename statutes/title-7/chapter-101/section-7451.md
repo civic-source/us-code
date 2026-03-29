@@ -5,7 +5,7 @@ usc_section: "7451"
 chapter: 101
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 7451"
-generated_at: "2026-03-29T00:28:58.279Z"
+generated_at: "2026-03-29T02:10:17.137Z"
 ---
 
 # § 7451. Regulations

@@ -5,12 +5,12 @@ usc_section: "4853"
 chapter: 58
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 4853"
-generated_at: "2026-03-29T00:30:33.932Z"
+generated_at: "2026-03-29T02:12:40.349Z"
 ---
 
 # § 4853. Security requirements for contractors
 
 Not later than 90 days after August 27, 1986 , the Secretary of State shall issue regulations to—
 
-  (1) strengthen the security procedures applicable to contractors and subcontractors involved in any way with any diplomatic construction or design project; and
-  (2) permit a contractor or subcontractor to have access to any design or blueprint relating to such a project only in accordance with those procedures.
+  - **(1)** strengthen the security procedures applicable to contractors and subcontractors involved in any way with any diplomatic construction or design project; and
+  - **(2)** permit a contractor or subcontractor to have access to any design or blueprint relating to such a project only in accordance with those procedures.

@@ -5,7 +5,7 @@ usc_section: "1396"
 chapter: 7
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1396"
-generated_at: "2026-03-29T00:33:06.605Z"
+generated_at: "2026-03-29T02:16:00.802Z"
 ---
 
 # § 1396. Duties and taxes covered into Virgin Islands treasury

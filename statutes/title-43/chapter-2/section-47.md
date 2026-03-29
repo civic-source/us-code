@@ -5,7 +5,7 @@ usc_section: "47"
 chapter: 2
 current_through: "PL 119-73"
 classification: "43 U.S.C. § 47"
-generated_at: "2026-03-29T00:32:57.297Z"
+generated_at: "2026-03-29T02:15:47.508Z"
 ---
 
 # § 47. Repealed. Aug. 7, 1946, ch. 770, § 1(11) , 60 Stat. 867

@@ -5,84 +5,84 @@ usc_section: "993"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-29T00:31:20.858Z"
+generated_at: "2026-03-29T02:14:01.095Z"
 ---
 
 # § 993. Definitions and special rules
 
-(a) 
-  (1) For purposes of this part, except as provided by regulations under paragraph (2), the qualified export receipts of a corporation are—
-    (A) gross receipts from the sale, exchange, or other disposition of export property,
-    (B) gross receipts from the lease or rental of export property, which is used by the lessee of such property outside the United States,
-    (C) gross receipts for services which are related and subsidiary to any qualified sale, exchange, lease, rental, or other disposition of export property by such corporation,
-    (D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
-    (E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
-    (F) interest on any obligation which is a qualified export asset,
-    (G) gross receipts for engineering or architectural services for construction projects located (or proposed for location) outside the United States, and
-    (H) gross receipts for the performance of managerial services in furtherance of the production of other qualified export receipts of a DISC.
-  (2) The Secretary may under regulations designate receipts from the sale, exchange, lease, rental, or other disposition of export property, and from services, as not being receipts described in paragraph (1) if he determines that such sale, exchange, lease, rental, or other disposition, or furnishing of services—
-    (A) is for ultimate use in the United States;
-    (B) is accomplished by a subsidy granted by the United States or any instrumentality thereof;
-    (C) is for use by the United States or any instrumentality thereof where the use of such export property or services is required by law or regulation.
-  (3) For purposes of this part, the term “controlled group” has the meaning assigned to the term “controlled group of corporations” by section 1563(a), except that the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears therein, and section 1563(b) shall not apply.
-(b) For purposes of this part, the qualified export assets of a corporation are—
-  (1) export property (as defined in subsection (c));
-  (2) assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance of engineering or architectural services described in subparagraph (G) of subsection (a)(1) or managerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
-  (3) accounts receivable and evidences of indebtedness which arise by reason of transactions of such corporation or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation described in subparagraph (A), (B), (C), (D), (G), or (H), of subsection (a)(1);
-  (4) money, bank deposits, and other similar temporary investments, which are reasonably necessary to meet the working capital requirements of such corporation;
-  (5) obligations arising in connection with a producer’s loan (as defined in subsection (d));
-  (6) stock or securities of a related foreign export corporation (as defined in subsection (e));
-  (7) obligations issued, guaranteed, or insured, in whole or in part, by the Export-Import Bank of the United States or the Foreign Credit Insurance Association in those cases where such obligations are acquired from such Bank or Association or from the seller or purchaser of the goods or services with respect to which such obligations arose;
-  (8) obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to an agreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
-  (9) amounts (other than reasonable working capital) on deposit in the United States that are utilized during the period provided for in, and otherwise in accordance with, regulations prescribed by the Secretary to acquire other qualified export assets.
-(c) 
-  (1) For purposes of this part, the term “export property” means property—
-    (A) manufactured, produced, grown, or extracted in the United States by a person other than a DISC,
-    (B) held primarily for sale, lease, or rental, in the ordinary course of trade or business, by, or to, a DISC, for direct use, consumption, or disposition outside the United States, and
-    (C) not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
-  (2) For purposes of this part, the term “export property” does not include—
-    (A) property leased or rented by a DISC for use by any member of a controlled group (as defined in subsection (a)(3)) which includes the DISC,
-    (B) patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks, trade brands, franchises, or other like property,
-    (C) products of a character with respect to which a deduction for depletion is allowable (including oil, gas, coal, or uranium products) under section 613 or 613A,
-    (D) products the export of which is prohibited or curtailed under section 7(a) 1 1 See References in Text note below. of the Export Administration Act of 1979 to effectuate the policy set forth in paragraph (2)(C) of section 3 1 of such Act (relating to the protection of the domestic economy), or
-    (E) any unprocessed timber which is a softwood.
-  (3) If the President determines that the supply of any property described in paragraph (1) is insufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President’s determination that the property is no longer in short supply.
-(d) 
-  (1) An obligation, subject to the rules provided in paragraphs (2) and (3), shall be treated as arising out of a producer’s loan if—
-    (A) the loan, when added to the unpaid balance of all other producer’s loans made by the DISC, does not exceed the accumulated DISC income at the beginning of the month in which the loan is made;
-    (B) the obligation is evidenced by a note (or other evidence of indebtedness) with a stated maturity date not more than 5 years from the date of the loan;
-    (C) the loan is made to a person engaged in the United States in the manufacturing, production, growing, or extraction of export property determined without regard to subparagraph (C) or (D) of subsection (c)(2), (referred to hereinafter as the “borrower”); and
-    (D) at the time of such loan it is designated as a producer’s loan.
-  (2) An obligation shall be treated as arising out of a producer’s loan only to the extent that such loan, when added to the unpaid balance of all other producer’s loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
-    (A) the amount of the borrower’s adjusted basis determined at the beginning of the borrower’s taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
-    (B) the amount of the borrower’s property held primarily for sale, lease, or rental, to customers in the ordinary course of trade or business, at the beginning of such taxable year; and
-    (C) the aggregate amount of the borrower’s research and experimental expenditures (within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971 ,
-  (3) An obligation shall be treated as arising out of a producer’s loan in a taxable year only to the extent that such loan, when added to the unpaid balance of all other producer’s loans to the borrower made during such taxable year, does not exceed an amount equal to—
-    (A) the amount by which the sum of the adjusted basis of assets described in paragraph (2)(A) and (B) on the last day of the taxable year in which the loan is made exceeds the sum of the adjusted basis of such assets on the first day of such taxable year; plus
-    (B) the aggregate amount of the borrower’s research and experimental expenditures (within the meaning of section 174) in the United States during such taxable year.
-  (4) 
-    (A) In the case of a borrower who is a domestic film maker and who incurs an obligation to a DISC for the making of a film, and such DISC is engaged in the trade or business of selling, leasing, or renting films which are export property, the limitation described in paragraph (2) may be determined (to the extent provided under regulations prescribed by the Secretary) on the basis of—
-      (i) the sum of the amounts described in subparagraphs (A), (B), and (C) thereof plus reasonable estimates of all such amounts to be incurred at any time by the borrower with respect to films which are commenced within the taxable year in which the loan is made, and
-      (ii) the percentage which, based on the experience of producers of similar films, the annual receipts of such producers from the sale, lease, or rental of such films outside the United States is of the annual gross receipts of such producers from the sale, lease, or rental of such films.
-    (B) For purposes of this paragraph, a borrower is a domestic film maker with respect to a film if—
-      (i) such borrower is a United States person within the meaning of section 7701(a)(30), except that with respect to a partnership, all of the partners must be United States persons, and with respect to a corporation, all of its officers and at least a majority of its directors must be United States persons;
-      (ii) such borrower is engaged in the trade or business of making the film with respect to which the loan is made;
-      (iii) the studio, if any, used or to be used for the taking of photographs and the recording of sound incorporated into such film is located in the United States;
-      (iv) the aggregate playing time of portions of such film photographed outside the United States does not or will not exceed 20 percent of the playing time of such film; and
-      (v) not less than 80 percent of the total amount paid or to be paid for services performed in the making of such film is paid or to be paid to persons who are United States persons at the time such services are performed or consists of amounts which are fully taxable by the United States.
-    (C) For purposes of clause (v) of subparagraph (B)—
-      (i) there shall not be taken into account any amount which is contingent upon receipts or profits of the film and which is fully taxable by the United States (within the meaning of clause (ii)); and
-      (ii) any amount paid or to be paid to a United States person, to a non-resident alien individual, or to a corporation which furnishes the services of an officer or employee to the borrower with respect to the making of a film, shall be treated as fully taxable by the United States only if the total amount received by such person, individual, officer, or employee for services performed in the making of such film is fully included in gross income for purposes of this chapter.
-(e) In determining whether a corporation (hereinafter in this subsection referred to as “the domestic corporation”) is a DISC—
-  (1) A foreign corporation is a related foreign export corporation if—
-    (A) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation,
-    (B) 95 percent or more of such foreign corporation’s gross receipts for its taxable year ending with or within the taxable year of the domestic corporation consists of qualified export receipts described in subparagraphs (A), (B), (C), and (D) of subsection (a)(1) and interest on any obligation described in paragraphs (3) and (4) of subsection (b), and
-    (C) the adjusted basis of the qualified export assets (described in paragraphs (1), (2), (3), and (4) of subsection (b)) held by such foreign corporation at the close of such taxable year equals or exceeds 95 percent of the sum of the adjusted basis of all assets held by it at the close of such taxable year.
-  (2) A foreign corporation is a related foreign export corporation if—
-    (A) stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation, and
-    (B) its exclusive function is to hold real property for the exclusive use (under a lease or otherwise) of the domestic corporation.
-  (3) A foreign corporation is a related foreign export corporation if—
-    (A) less than 10 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation is owned (within the meaning of section 1563 (d) and (e)) by the domestic corporation or by a controlled group of corporations (within the meaning of section 1563) of which the domestic corporation is a member, and
-    (B) the ownership of stock or securities in such foreign corporation by the domestic corporation is determined (under regulations prescribed by the Secretary) to be reasonably in furtherance of a transaction or transactions giving rise to qualified export receipts of the domestic corporation.
-(f) For purposes of this part, the term “gross receipts” means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
-(g) For purposes of this part, the term “United States” includes the Commonwealth of Puerto Rico and the possessions of the United States.
+- **(a)**
+  - **(1)** For purposes of this part, except as provided by regulations under paragraph (2), the qualified export receipts of a corporation are—
+    - **(A)** gross receipts from the sale, exchange, or other disposition of export property,
+    - **(B)** gross receipts from the lease or rental of export property, which is used by the lessee of such property outside the United States,
+    - **(C)** gross receipts for services which are related and subsidiary to any qualified sale, exchange, lease, rental, or other disposition of export property by such corporation,
+    - **(D)** gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
+    - **(E)** dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
+    - **(F)** interest on any obligation which is a qualified export asset,
+    - **(G)** gross receipts for engineering or architectural services for construction projects located (or proposed for location) outside the United States, and
+    - **(H)** gross receipts for the performance of managerial services in furtherance of the production of other qualified export receipts of a DISC.
+  - **(2)** The Secretary may under regulations designate receipts from the sale, exchange, lease, rental, or other disposition of export property, and from services, as not being receipts described in paragraph (1) if he determines that such sale, exchange, lease, rental, or other disposition, or furnishing of services—
+    - **(A)** is for ultimate use in the United States;
+    - **(B)** is accomplished by a subsidy granted by the United States or any instrumentality thereof;
+    - **(C)** is for use by the United States or any instrumentality thereof where the use of such export property or services is required by law or regulation.
+  - **(3)** For purposes of this part, the term “controlled group” has the meaning assigned to the term “controlled group of corporations” by section 1563(a), except that the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears therein, and section 1563(b) shall not apply.
+- **(b)** For purposes of this part, the qualified export assets of a corporation are—
+  - **(1)** export property (as defined in subsection (c));
+  - **(2)** assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance of engineering or architectural services described in subparagraph (G) of subsection (a)(1) or managerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
+  - **(3)** accounts receivable and evidences of indebtedness which arise by reason of transactions of such corporation or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation described in subparagraph (A), (B), (C), (D), (G), or (H), of subsection (a)(1);
+  - **(4)** money, bank deposits, and other similar temporary investments, which are reasonably necessary to meet the working capital requirements of such corporation;
+  - **(5)** obligations arising in connection with a producer’s loan (as defined in subsection (d));
+  - **(6)** stock or securities of a related foreign export corporation (as defined in subsection (e));
+  - **(7)** obligations issued, guaranteed, or insured, in whole or in part, by the Export-Import Bank of the United States or the Foreign Credit Insurance Association in those cases where such obligations are acquired from such Bank or Association or from the seller or purchaser of the goods or services with respect to which such obligations arose;
+  - **(8)** obligations issued by a domestic corporation organized solely for the purpose of financing sales of export property pursuant to an agreement with the Export-Import Bank of the United States under which such corporation makes export loans guaranteed by such bank; and
+  - **(9)** amounts (other than reasonable working capital) on deposit in the United States that are utilized during the period provided for in, and otherwise in accordance with, regulations prescribed by the Secretary to acquire other qualified export assets.
+- **(c)**
+  - **(1)** For purposes of this part, the term “export property” means property—
+    - **(A)** manufactured, produced, grown, or extracted in the United States by a person other than a DISC,
+    - **(B)** held primarily for sale, lease, or rental, in the ordinary course of trade or business, by, or to, a DISC, for direct use, consumption, or disposition outside the United States, and
+    - **(C)** not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
+  - **(2)** For purposes of this part, the term “export property” does not include—
+    - **(A)** property leased or rented by a DISC for use by any member of a controlled group (as defined in subsection (a)(3)) which includes the DISC,
+    - **(B)** patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks, trade brands, franchises, or other like property,
+    - **(C)** products of a character with respect to which a deduction for depletion is allowable (including oil, gas, coal, or uranium products) under section 613 or 613A,
+    - **(D)** products the export of which is prohibited or curtailed under section 7(a) 1 1 See References in Text note below. of the Export Administration Act of 1979 to effectuate the policy set forth in paragraph (2)(C) of section 3 1 of such Act (relating to the protection of the domestic economy), or
+    - **(E)** any unprocessed timber which is a softwood.
+  - **(3)** If the President determines that the supply of any property described in paragraph (1) is insufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President’s determination that the property is no longer in short supply.
+- **(d)**
+  - **(1)** An obligation, subject to the rules provided in paragraphs (2) and (3), shall be treated as arising out of a producer’s loan if—
+    - **(A)** the loan, when added to the unpaid balance of all other producer’s loans made by the DISC, does not exceed the accumulated DISC income at the beginning of the month in which the loan is made;
+    - **(B)** the obligation is evidenced by a note (or other evidence of indebtedness) with a stated maturity date not more than 5 years from the date of the loan;
+    - **(C)** the loan is made to a person engaged in the United States in the manufacturing, production, growing, or extraction of export property determined without regard to subparagraph (C) or (D) of subsection (c)(2), (referred to hereinafter as the “borrower”); and
+    - **(D)** at the time of such loan it is designated as a producer’s loan.
+  - **(2)** An obligation shall be treated as arising out of a producer’s loan only to the extent that such loan, when added to the unpaid balance of all other producer’s loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
+    - **(A)** the amount of the borrower’s adjusted basis determined at the beginning of the borrower’s taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
+    - **(B)** the amount of the borrower’s property held primarily for sale, lease, or rental, to customers in the ordinary course of trade or business, at the beginning of such taxable year; and
+    - **(C)** the aggregate amount of the borrower’s research and experimental expenditures (within the meaning of section 174) in the United States during all preceding taxable years beginning after December 31, 1971 ,
+  - **(3)** An obligation shall be treated as arising out of a producer’s loan in a taxable year only to the extent that such loan, when added to the unpaid balance of all other producer’s loans to the borrower made during such taxable year, does not exceed an amount equal to—
+    - **(A)** the amount by which the sum of the adjusted basis of assets described in paragraph (2)(A) and (B) on the last day of the taxable year in which the loan is made exceeds the sum of the adjusted basis of such assets on the first day of such taxable year; plus
+    - **(B)** the aggregate amount of the borrower’s research and experimental expenditures (within the meaning of section 174) in the United States during such taxable year.
+  - **(4)**
+    - **(A)** In the case of a borrower who is a domestic film maker and who incurs an obligation to a DISC for the making of a film, and such DISC is engaged in the trade or business of selling, leasing, or renting films which are export property, the limitation described in paragraph (2) may be determined (to the extent provided under regulations prescribed by the Secretary) on the basis of—
+      - **(i)** the sum of the amounts described in subparagraphs (A), (B), and (C) thereof plus reasonable estimates of all such amounts to be incurred at any time by the borrower with respect to films which are commenced within the taxable year in which the loan is made, and
+      - **(ii)** the percentage which, based on the experience of producers of similar films, the annual receipts of such producers from the sale, lease, or rental of such films outside the United States is of the annual gross receipts of such producers from the sale, lease, or rental of such films.
+    - **(B)** For purposes of this paragraph, a borrower is a domestic film maker with respect to a film if—
+      - **(i)** such borrower is a United States person within the meaning of section 7701(a)(30), except that with respect to a partnership, all of the partners must be United States persons, and with respect to a corporation, all of its officers and at least a majority of its directors must be United States persons;
+      - **(ii)** such borrower is engaged in the trade or business of making the film with respect to which the loan is made;
+      - **(iii)** the studio, if any, used or to be used for the taking of photographs and the recording of sound incorporated into such film is located in the United States;
+      - **(iv)** the aggregate playing time of portions of such film photographed outside the United States does not or will not exceed 20 percent of the playing time of such film; and
+      - **(v)** not less than 80 percent of the total amount paid or to be paid for services performed in the making of such film is paid or to be paid to persons who are United States persons at the time such services are performed or consists of amounts which are fully taxable by the United States.
+    - **(C)** For purposes of clause (v) of subparagraph (B)—
+      - **(i)** there shall not be taken into account any amount which is contingent upon receipts or profits of the film and which is fully taxable by the United States (within the meaning of clause (ii)); and
+      - **(ii)** any amount paid or to be paid to a United States person, to a non-resident alien individual, or to a corporation which furnishes the services of an officer or employee to the borrower with respect to the making of a film, shall be treated as fully taxable by the United States only if the total amount received by such person, individual, officer, or employee for services performed in the making of such film is fully included in gross income for purposes of this chapter.
+- **(e)** In determining whether a corporation (hereinafter in this subsection referred to as “the domestic corporation”) is a DISC—
+  - **(1)** A foreign corporation is a related foreign export corporation if—
+    - **(A)** stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation,
+    - **(B)** 95 percent or more of such foreign corporation’s gross receipts for its taxable year ending with or within the taxable year of the domestic corporation consists of qualified export receipts described in subparagraphs (A), (B), (C), and (D) of subsection (a)(1) and interest on any obligation described in paragraphs (3) and (4) of subsection (b), and
+    - **(C)** the adjusted basis of the qualified export assets (described in paragraphs (1), (2), (3), and (4) of subsection (b)) held by such foreign corporation at the close of such taxable year equals or exceeds 95 percent of the sum of the adjusted basis of all assets held by it at the close of such taxable year.
+  - **(2)** A foreign corporation is a related foreign export corporation if—
+    - **(A)** stock possessing more than 50 percent of the total combined voting power of all classes of stock entitled to vote is owned directly by the domestic corporation, and
+    - **(B)** its exclusive function is to hold real property for the exclusive use (under a lease or otherwise) of the domestic corporation.
+  - **(3)** A foreign corporation is a related foreign export corporation if—
+    - **(A)** less than 10 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation is owned (within the meaning of section 1563 (d) and (e)) by the domestic corporation or by a controlled group of corporations (within the meaning of section 1563) of which the domestic corporation is a member, and
+    - **(B)** the ownership of stock or securities in such foreign corporation by the domestic corporation is determined (under regulations prescribed by the Secretary) to be reasonably in furtherance of a transaction or transactions giving rise to qualified export receipts of the domestic corporation.
+- **(f)** For purposes of this part, the term “gross receipts” means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
+- **(g)** For purposes of this part, the term “United States” includes the Commonwealth of Puerto Rico and the possessions of the United States.

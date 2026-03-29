@@ -5,10 +5,10 @@ usc_section: "541c"
 chapter: 2
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 541c"
-generated_at: "2026-03-29T00:29:52.555Z"
+generated_at: "2026-03-29T02:11:53.592Z"
 ---
 
 # § 541c. Extension of boundaries of Siuslaw National Forest; transfer of Federal property to Secretary
 
-(a) The boundaries of the Siuslaw National Forest are hereby extended to include all of the lands lying within the Area as described in accordance with section 541b of this title which are not within the national forest boundaries on December 22, 1974 .
-(b) Notwithstanding any other provision of law, any Federal property located on the lands added to the Siuslaw National Forest by this section may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary. Any lands so transferred shall become part of the Siuslaw National Forest.
+- **(a)** The boundaries of the Siuslaw National Forest are hereby extended to include all of the lands lying within the Area as described in accordance with section 541b of this title which are not within the national forest boundaries on December 22, 1974 .
+- **(b)** Notwithstanding any other provision of law, any Federal property located on the lands added to the Siuslaw National Forest by this section may, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary. Any lands so transferred shall become part of the Siuslaw National Forest.

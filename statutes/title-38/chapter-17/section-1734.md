@@ -5,12 +5,12 @@ usc_section: "1734"
 chapter: 17
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1734"
-generated_at: "2026-03-29T00:32:17.204Z"
+generated_at: "2026-03-29T02:14:50.369Z"
 ---
 
 # § 1734. Hospital and nursing home care and medical services in the United States
 
-(a) The Secretary shall furnish hospital and nursing home care and medical services to any individual described in subsection (b) in the same manner, and subject to the same terms and conditions, as apply to the furnishing of such care and services to individuals who are veterans as defined in section 101(2) of this title . Any disability of an individual described in subsection (b) that is a service-connected disability for purposes of this subchapter (as provided for under section 1735(2) of this title ) shall be considered to be a service-connected disability for purposes of furnishing care and services under the preceding sentence.
-(b) Subsection (a) applies to any individual who is a Commonwealth Army veteran or new Philippine Scout and who—
-  (1) is residing in the United States; and
-  (2) is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
+- **(a)** The Secretary shall furnish hospital and nursing home care and medical services to any individual described in subsection (b) in the same manner, and subject to the same terms and conditions, as apply to the furnishing of such care and services to individuals who are veterans as defined in section 101(2) of this title . Any disability of an individual described in subsection (b) that is a service-connected disability for purposes of this subchapter (as provided for under section 1735(2) of this title ) shall be considered to be a service-connected disability for purposes of furnishing care and services under the preceding sentence.
+- **(b)** Subsection (a) applies to any individual who is a Commonwealth Army veteran or new Philippine Scout and who—
+  - **(1)** is residing in the United States; and
+  - **(2)** is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.

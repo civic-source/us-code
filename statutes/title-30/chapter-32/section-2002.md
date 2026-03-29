@@ -5,20 +5,20 @@ usc_section: "2002"
 chapter: 32
 current_through: "PL 119-73"
 classification: "30 U.S.C. § 2002"
-generated_at: "2026-03-29T00:31:30.844Z"
+generated_at: "2026-03-29T02:14:11.277Z"
 ---
 
 # § 2002. Definitions
 
 In this chapter:
 
-  (1) The term “contract” means a procurement contract within the meaning of section 6303 of title 31 .
-  (2) The term “cooperative agreement” means a cooperative agreement within the meaning of section 6305 of title 31 .
-  (3) The term “Director” means the Director of the National Science Foundation.
-  (4) The term “grant” means a grant awarded under a grant agreement (within the meaning of section 6304 of title 31 ).
-  (5) The term “industrial enterprise” means a private, nongovernmental enterprise that has an expertise or capability that relates to methane hydrate research and development.
-  (6) The term “institution of higher education” means an institution of higher education (as defined in section 1002 of title 20 ).
-  (7) The term “Secretary” means the Secretary of Energy, acting through the Assistant Secretary for Fossil Energy.
-  (8) The term “Secretary of Commerce” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
-  (9) The term “Secretary of Defense” means the Secretary of Defense, acting through the Secretary of the Navy.
-  (10) The term “Secretary of the Interior” means the Secretary of the Interior, acting through the Director of the United States Geological Survey, the Director of the Bureau of Land Management, and the Director of the Minerals Management Service.
+  - **(1)** The term “contract” means a procurement contract within the meaning of section 6303 of title 31 .
+  - **(2)** The term “cooperative agreement” means a cooperative agreement within the meaning of section 6305 of title 31 .
+  - **(3)** The term “Director” means the Director of the National Science Foundation.
+  - **(4)** The term “grant” means a grant awarded under a grant agreement (within the meaning of section 6304 of title 31 ).
+  - **(5)** The term “industrial enterprise” means a private, nongovernmental enterprise that has an expertise or capability that relates to methane hydrate research and development.
+  - **(6)** The term “institution of higher education” means an institution of higher education (as defined in section 1002 of title 20 ).
+  - **(7)** The term “Secretary” means the Secretary of Energy, acting through the Assistant Secretary for Fossil Energy.
+  - **(8)** The term “Secretary of Commerce” means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.
+  - **(9)** The term “Secretary of Defense” means the Secretary of Defense, acting through the Secretary of the Navy.
+  - **(10)** The term “Secretary of the Interior” means the Secretary of the Interior, acting through the Director of the United States Geological Survey, the Director of the Bureau of Land Management, and the Director of the Minerals Management Service.

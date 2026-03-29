@@ -5,7 +5,7 @@ usc_section: "3225"
 chapter: 32
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 3225"
-generated_at: "2026-03-29T00:32:17.249Z"
+generated_at: "2026-03-29T02:14:50.403Z"
 ---
 
 # § 3225. Discharge or release under conditions which would bar the use of benefits

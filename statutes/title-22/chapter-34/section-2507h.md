@@ -5,11 +5,11 @@ usc_section: "2507h"
 chapter: 34
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2507h"
-generated_at: "2026-03-29T00:30:33.824Z"
+generated_at: "2026-03-29T02:12:40.095Z"
 ---
 
 # § 2507h. Removal and assessment and evaluation
 
-(a) If a volunteer requests removal from the site in which such volunteer is serving because the volunteer feels at risk of imminent bodily harm, the President shall, as expeditiously as practical after receiving such request, remove the volunteer from the site. If the President receives such a request, the President shall assess and evaluate the safety of such site and may not assign another volunteer to the site until such time as the assessment and evaluation is complete and the site has been determined to be safe. Volunteers may remain at a site during the assessment and evaluation.
-(b) If the President determines that a site is unsafe for any remaining volunteers at the site, the President shall, as expeditiously as practical, remove all volunteers from the site.
-(c) The President shall establish a global tracking and recording system to track and record incidents of crimes against volunteers.
+- **(a)** If a volunteer requests removal from the site in which such volunteer is serving because the volunteer feels at risk of imminent bodily harm, the President shall, as expeditiously as practical after receiving such request, remove the volunteer from the site. If the President receives such a request, the President shall assess and evaluate the safety of such site and may not assign another volunteer to the site until such time as the assessment and evaluation is complete and the site has been determined to be safe. Volunteers may remain at a site during the assessment and evaluation.
+- **(b)** If the President determines that a site is unsafe for any remaining volunteers at the site, the President shall, as expeditiously as practical, remove all volunteers from the site.
+- **(c)** The President shall establish a global tracking and recording system to track and record incidents of crimes against volunteers.

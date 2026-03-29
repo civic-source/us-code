@@ -5,7 +5,7 @@ usc_section: "1321"
 chapter: 13
 current_through: "PL 119-73"
 classification: "38 U.S.C. § 1321"
-generated_at: "2026-03-29T00:32:17.179Z"
+generated_at: "2026-03-29T02:14:50.349Z"
 ---
 
 # § 1321. Certifications with respect to pay grade

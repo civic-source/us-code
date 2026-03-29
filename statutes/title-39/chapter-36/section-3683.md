@@ -5,16 +5,16 @@ usc_section: "3683"
 chapter: 36
 current_through: "PL 119-73"
 classification: "39 U.S.C. § 3683"
-generated_at: "2026-03-29T00:32:18.863Z"
+generated_at: "2026-03-29T02:14:53.136Z"
 ---
 
 # § 3683. Uniform rates for books; films; other materials
 
-(a) Notwithstanding any other provision of this title, the rates of postage established for mail matter enumerated in former section 4554 of this title shall be uniform for such mail of the same weight, and shall not vary with the distance transported.
-(b) The rates of postage under former section 4554(b)(1) of this title shall not be effective except with respect to mailings which—
-  (1) constitute materials specified in former section 4554(b)(2) of this title ; and
-  (2) are sent between—
-    (A) an institution, organization, or association listed in subparagraph (A) or (B) of such former section 4554(b)(1) and any other such institution, organization, or association;
-    (B) an institution, organization, or association referred to in subparagraph (A) and any individual (other than an individual having a financial interest in the sale, promotion, or distribution of the materials involved);
-    (C) an institution, organization, or association referred to in subparagraph (A) and a qualified nonprofit organization (as defined in former section 4452(d) of this title ) that is not such an institution, organization, or association; or
-    (D) an institution, organization, or association referred to in subparagraph (A) and a publisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.
+- **(a)** Notwithstanding any other provision of this title, the rates of postage established for mail matter enumerated in former section 4554 of this title shall be uniform for such mail of the same weight, and shall not vary with the distance transported.
+- **(b)** The rates of postage under former section 4554(b)(1) of this title shall not be effective except with respect to mailings which—
+  - **(1)** constitute materials specified in former section 4554(b)(2) of this title ; and
+  - **(2)** are sent between—
+    - **(A)** an institution, organization, or association listed in subparagraph (A) or (B) of such former section 4554(b)(1) and any other such institution, organization, or association;
+    - **(B)** an institution, organization, or association referred to in subparagraph (A) and any individual (other than an individual having a financial interest in the sale, promotion, or distribution of the materials involved);
+    - **(C)** an institution, organization, or association referred to in subparagraph (A) and a qualified nonprofit organization (as defined in former section 4452(d) of this title ) that is not such an institution, organization, or association; or
+    - **(D)** an institution, organization, or association referred to in subparagraph (A) and a publisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.

@@ -5,7 +5,7 @@ usc_section: "410zzz"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 410zzz"
-generated_at: "2026-03-29T00:29:52.406Z"
+generated_at: "2026-03-29T02:11:53.432Z"
 ---
 
 # § 410zzz. Acquisition of lands

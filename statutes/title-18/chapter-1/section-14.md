@@ -5,7 +5,7 @@ usc_section: "14"
 chapter: 1
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 14"
-generated_at: "2026-03-29T00:30:15.586Z"
+generated_at: "2026-03-29T02:12:02.350Z"
 ---
 
 # [§ 14. Repealed. Pub. L. 107–273, div. B, title IV, § 4004(a) , Nov. 2, 2002 , 116 Stat. 1812 ]

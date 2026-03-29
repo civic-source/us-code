@@ -5,7 +5,7 @@ usc_section: "70115"
 chapter: 701
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 70115"
-generated_at: "2026-03-29T00:33:02.965Z"
+generated_at: "2026-03-29T02:15:53.798Z"
 ---
 
 # § 70115. Long-range vessel tracking system

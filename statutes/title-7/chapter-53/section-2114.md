@@ -5,7 +5,7 @@ usc_section: "2114"
 chapter: 53
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 2114"
-generated_at: "2026-03-29T00:28:58.119Z"
+generated_at: "2026-03-29T02:10:16.941Z"
 ---
 
 # § 2114. Rules and regulations

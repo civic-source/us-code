@@ -5,7 +5,7 @@ usc_section: "1864"
 chapter: 7
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1864"
-generated_at: "2026-03-29T00:30:20.198Z"
+generated_at: "2026-03-29T02:12:08.665Z"
 ---
 
 # § 1864. Import sanctions for export violations

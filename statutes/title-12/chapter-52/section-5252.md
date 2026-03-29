@@ -5,19 +5,19 @@ usc_section: "5252"
 chapter: 52
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5252"
-generated_at: "2026-03-29T00:29:16.888Z"
+generated_at: "2026-03-29T02:11:21.251Z"
 ---
 
 # § 5252. Reports by the Office of Management and Budget and the Congressional Budget Office
 
-(a) Within 60 days of the first exercise of the authority granted in section 5211(a) of this title , but in no case later than December 31, 2008 , and annually thereafter, the Office of Management and Budget shall report to the President and the Congress—
-  (1) the estimate, notwithstanding section 661a(5)(F) of title 2 , as of the first business day that is at least 30 days prior to the issuance of the report, of the cost of the troubled assets, and guarantees of the troubled assets, determined in accordance with section 5232 of this title ;
-  (2) the information used to derive the estimate, including assets purchased or guaranteed, prices paid, revenues received, the impact on the deficit and debt, and a description of any outstanding commitments to purchase troubled assets; and
-  (3) a detailed analysis of how the estimate has changed from the previous report.
-(b) Within 45 days of receipt by the Congress of each report from the Office of Management and Budget under subsection (a), the Congressional Budget Office shall report to the Congress the Congressional Budget Office’s assessment of the report submitted by the Office of Management and Budget, including—
-  (1) the cost of the troubled assets and guarantees of the troubled assets,
-  (2) the information and valuation methods used to calculate such cost, and
-  (3) the impact on the deficit and the debt.
-(c) In carrying out the duties in this subsection 1 1 So in original. Probably should be “section”. or performing analyses of activities under this chapter, the Director of the Congressional Budget Office may employ personnel and procure the services of experts and consultants.
-(d) There are authorized to be appropriated such sums as may be necessary to produce reports required by this section.
-(e) Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under section 5211 of this title have been sold or transferred out of the ownership or control of the Federal Government.
+- **(a)** Within 60 days of the first exercise of the authority granted in section 5211(a) of this title , but in no case later than December 31, 2008 , and annually thereafter, the Office of Management and Budget shall report to the President and the Congress—
+  - **(1)** the estimate, notwithstanding section 661a(5)(F) of title 2 , as of the first business day that is at least 30 days prior to the issuance of the report, of the cost of the troubled assets, and guarantees of the troubled assets, determined in accordance with section 5232 of this title ;
+  - **(2)** the information used to derive the estimate, including assets purchased or guaranteed, prices paid, revenues received, the impact on the deficit and debt, and a description of any outstanding commitments to purchase troubled assets; and
+  - **(3)** a detailed analysis of how the estimate has changed from the previous report.
+- **(b)** Within 45 days of receipt by the Congress of each report from the Office of Management and Budget under subsection (a), the Congressional Budget Office shall report to the Congress the Congressional Budget Office’s assessment of the report submitted by the Office of Management and Budget, including—
+  - **(1)** the cost of the troubled assets and guarantees of the troubled assets,
+  - **(2)** the information and valuation methods used to calculate such cost, and
+  - **(3)** the impact on the deficit and the debt.
+- **(c)** In carrying out the duties in this subsection 1 1 So in original. Probably should be “section”. or performing analyses of activities under this chapter, the Director of the Congressional Budget Office may employ personnel and procure the services of experts and consultants.
+- **(d)** There are authorized to be appropriated such sums as may be necessary to produce reports required by this section.
+- **(e)** Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under section 5211 of this title have been sold or transferred out of the ownership or control of the Federal Government.

@@ -5,7 +5,7 @@ usc_section: "77jj"
 chapter: 2
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 77jj"
-generated_at: "2026-03-29T00:29:41.460Z"
+generated_at: "2026-03-29T02:11:33.890Z"
 ---
 
 # § 77jj. Loans to Corporation from Reconstruction Finance Corporation authorized

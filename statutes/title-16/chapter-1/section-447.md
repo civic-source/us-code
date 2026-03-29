@@ -5,7 +5,7 @@ usc_section: "447"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 447"
-generated_at: "2026-03-29T00:29:52.433Z"
+generated_at: "2026-03-29T02:11:53.460Z"
 ---
 
 # § 447. Repealed. Pub. L. 94–429, § 3(d) , Sept. 28, 1976 , 90 Stat. 1342

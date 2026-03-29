@@ -5,7 +5,7 @@ usc_section: "131"
 chapter: 4
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 131"
-generated_at: "2026-03-29T00:30:24.144Z"
+generated_at: "2026-03-29T02:12:27.941Z"
 ---
 
 # §§ 129a to 131. Repealed. Pub. L. 107–171, title X, § 10418(a)(1) , (8), (16), May 13, 2002 , 116 Stat. 507 , 508

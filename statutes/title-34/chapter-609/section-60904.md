@@ -5,10 +5,10 @@ usc_section: "60904"
 chapter: 609
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 60904"
-generated_at: "2026-03-29T00:32:01.703Z"
+generated_at: "2026-03-29T02:14:25.400Z"
 ---
 
 # § 60904. Consultation and updates
 
-(a) The agency shall consult with the designated person who filed the written application pursuant to section 60901 of this title and provide him or her with periodic updates during the case file review and full reinvestigation.
-(b) The agency shall meet with the designated person and discuss the evidence to explain to the designated person who filed the written application pursuant to section 60901 of this title its decision whether or not to engage in the full reinvestigation provided for under section 60903 of this title at the conclusion of the case file review.
+- **(a)** The agency shall consult with the designated person who filed the written application pursuant to section 60901 of this title and provide him or her with periodic updates during the case file review and full reinvestigation.
+- **(b)** The agency shall meet with the designated person and discuss the evidence to explain to the designated person who filed the written application pursuant to section 60901 of this title its decision whether or not to engage in the full reinvestigation provided for under section 60903 of this title at the conclusion of the case file review.

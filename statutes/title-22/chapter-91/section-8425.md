@@ -5,24 +5,24 @@ usc_section: "8425"
 chapter: 91
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 8425"
-generated_at: "2026-03-29T00:30:34.015Z"
+generated_at: "2026-03-29T02:12:40.452Z"
 ---
 
 # § 8425. Requirements for civilian control of certain assistance
 
-(a) 
-  (1) For fiscal years 2010 through 2014, any direct cash security-related assistance or non-assistance payments by the United States to the Government of Pakistan may only be provided or made to civilian authorities of a civilian government of Pakistan.
-  (2) For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilian authorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
-(b) 
-  (1) The Secretary of State, in consultation with the Secretary of Defense, may waive the requirements of subsection (a) with respect to security-related assistance described in subsection (a) funded from accounts within budget function 150 (International Affairs) if the Secretary of State certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
-  (2) The Secretary of Defense, in consultation with the Secretary of State, may waive the requirements of subsection (a) with respect to non-assistance payments described in subsection (a) funded from accounts within budget function 050 (National Defense) if the Secretary of Defense certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
-(c) Nothing in this section shall apply with respect to—
-  (1) any activities subject to reporting requirements under title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.];
-  (2) any assistance to promote democratic elections or public participation in democratic processes;
-  (3) any assistance or payments if the Secretary of State determines and certifies to the appropriate congressional committees that subsequent to the termination of assistance or payments a democratically elected government has taken office;
-  (4) any assistance or payments made pursuant to section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( Public Law 108–375 ; 118 Stat. 2086 ), as amended;
-  (5) any payments made pursuant to the Acquisition and Cross-Servicing Agreement between the Department of Defense of the United States of America and the Ministry of Defense of the Islamic Republic of Pakistan; and
-  (6) any assistance or payments made pursuant to section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ( Public Law 110–417 ; 122 Stat. 4578 ).
-(d) In this section—
-  (1) the term “appropriate congressional committees” means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
-  (2) the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
+- **(a)**
+  - **(1)** For fiscal years 2010 through 2014, any direct cash security-related assistance or non-assistance payments by the United States to the Government of Pakistan may only be provided or made to civilian authorities of a civilian government of Pakistan.
+  - **(2)** For fiscal years 2010 through 2014, the Secretary of State, in coordination with the Secretary of Defense, shall ensure that civilian authorities of a civilian government of Pakistan have received a copy of final documentation provided to the United States related to non-assistance payments provided or made to the Government of Pakistan.
+- **(b)**
+  - **(1)** The Secretary of State, in consultation with the Secretary of Defense, may waive the requirements of subsection (a) with respect to security-related assistance described in subsection (a) funded from accounts within budget function 150 (International Affairs) if the Secretary of State certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
+  - **(2)** The Secretary of Defense, in consultation with the Secretary of State, may waive the requirements of subsection (a) with respect to non-assistance payments described in subsection (a) funded from accounts within budget function 050 (National Defense) if the Secretary of Defense certifies to the appropriate congressional committees that the waiver is important to the national security interest of the United States.
+- **(c)** Nothing in this section shall apply with respect to—
+  - **(1)** any activities subject to reporting requirements under title V of the National Security Act of 1947 [ 50 U.S.C. 3091 et seq.];
+  - **(2)** any assistance to promote democratic elections or public participation in democratic processes;
+  - **(3)** any assistance or payments if the Secretary of State determines and certifies to the appropriate congressional committees that subsequent to the termination of assistance or payments a democratically elected government has taken office;
+  - **(4)** any assistance or payments made pursuant to section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ( Public Law 108–375 ; 118 Stat. 2086 ), as amended;
+  - **(5)** any payments made pursuant to the Acquisition and Cross-Servicing Agreement between the Department of Defense of the United States of America and the Ministry of Defense of the Islamic Republic of Pakistan; and
+  - **(6)** any assistance or payments made pursuant to section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ( Public Law 110–417 ; 122 Stat. 4578 ).
+- **(d)** In this section—
+  - **(1)** the term “appropriate congressional committees” means the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives and the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+  - **(2)** the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.

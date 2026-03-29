@@ -5,14 +5,14 @@ usc_section: "3102"
 chapter: 33
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3102"
-generated_at: "2026-03-29T00:30:38.752Z"
+generated_at: "2026-03-29T02:13:20.962Z"
 ---
 
 # § 3102. Purposes
 
 The purposes of this chapter are to—
 
-  (1) allow the Secretary of the Interior to take part in the management of Indian forest lands, with the participation of the lands’ beneficial owners, in a manner consistent with the Secretary’s trust responsibility and with the objectives of the beneficial owners;
-  (2) clarify the authority of the Secretary to make deductions from the proceeds of sale of Indian forest products, assure the use of such deductions on the reservation from which they are derived solely for use in forest land management activities, and assure that no other deductions shall be collected;
-  (3) increase the number of professional Indian foresters and related staff in forestry programs on Indian forest land; and
-  (4) provide for the authorization of necessary appropriations to carry out this chapter for the protection, conservation, utilization, management, and enhancement of Indian forest lands.
+  - **(1)** allow the Secretary of the Interior to take part in the management of Indian forest lands, with the participation of the lands’ beneficial owners, in a manner consistent with the Secretary’s trust responsibility and with the objectives of the beneficial owners;
+  - **(2)** clarify the authority of the Secretary to make deductions from the proceeds of sale of Indian forest products, assure the use of such deductions on the reservation from which they are derived solely for use in forest land management activities, and assure that no other deductions shall be collected;
+  - **(3)** increase the number of professional Indian foresters and related staff in forestry programs on Indian forest land; and
+  - **(4)** provide for the authorization of necessary appropriations to carry out this chapter for the protection, conservation, utilization, management, and enhancement of Indian forest lands.

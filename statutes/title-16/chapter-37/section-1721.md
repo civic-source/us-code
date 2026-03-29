@@ -5,18 +5,18 @@ usc_section: "1721"
 chapter: 37
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1721"
-generated_at: "2026-03-29T00:29:52.740Z"
+generated_at: "2026-03-29T02:11:53.817Z"
 ---
 
 # § 1721. Congressional findings and purpose
 
-(a) The Congress finds the following:
-  (1) Conserving or developing natural and cultural resources and enhancing and maintaining environmentally important lands and waters through the use of the Nation’s young men and women in a Public Lands Corps can benefit those men and women by providing them with education and work opportunities, furthering their understanding and appreciation of the natural and cultural resources, and providing a means to pay for higher education or to repay indebtedness they have incurred to obtain higher education while at the same time benefiting the Nation’s economy and its environment.
-  (2) Many facilities and natural resources located on eligible service lands are in disrepair or degraded and in need of labor intensive rehabilitation, restoration, and enhancement work which cannot be carried out by Federal agencies at existing personnel levels.
-  (3) Youth conservation corps have established a good record of restoring and maintaining these kinds of facilities and resources in a cost effective and efficient manner, especially when they have worked in partnership arrangements with government land management agencies.
-(b) It is the purpose of this subchapter to—
-  (1) perform, in a cost-effective manner, appropriate conservation projects on eligible service lands where such projects will not be performed by existing employees;
-  (2) assist governments and Indian tribes in performing research and public education tasks associated with natural and cultural resources on eligible service lands;
-  (3) expose young men and women to public service while furthering their understanding and appreciation of the Nation’s natural and cultural resources;
-  (4) expand educational opportunities by rewarding individuals who participate in national service with an increased ability to pursue higher education or job training; and
-  (5) stimulate interest among the Nation’s young men and women in conservation careers by exposing them to conservation professionals in land managing agencies.
+- **(a)** The Congress finds the following:
+  - **(1)** Conserving or developing natural and cultural resources and enhancing and maintaining environmentally important lands and waters through the use of the Nation’s young men and women in a Public Lands Corps can benefit those men and women by providing them with education and work opportunities, furthering their understanding and appreciation of the natural and cultural resources, and providing a means to pay for higher education or to repay indebtedness they have incurred to obtain higher education while at the same time benefiting the Nation’s economy and its environment.
+  - **(2)** Many facilities and natural resources located on eligible service lands are in disrepair or degraded and in need of labor intensive rehabilitation, restoration, and enhancement work which cannot be carried out by Federal agencies at existing personnel levels.
+  - **(3)** Youth conservation corps have established a good record of restoring and maintaining these kinds of facilities and resources in a cost effective and efficient manner, especially when they have worked in partnership arrangements with government land management agencies.
+- **(b)** It is the purpose of this subchapter to—
+  - **(1)** perform, in a cost-effective manner, appropriate conservation projects on eligible service lands where such projects will not be performed by existing employees;
+  - **(2)** assist governments and Indian tribes in performing research and public education tasks associated with natural and cultural resources on eligible service lands;
+  - **(3)** expose young men and women to public service while furthering their understanding and appreciation of the Nation’s natural and cultural resources;
+  - **(4)** expand educational opportunities by rewarding individuals who participate in national service with an increased ability to pursue higher education or job training; and
+  - **(5)** stimulate interest among the Nation’s young men and women in conservation careers by exposing them to conservation professionals in land managing agencies.

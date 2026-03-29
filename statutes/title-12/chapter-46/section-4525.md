@@ -5,12 +5,12 @@ usc_section: "4525"
 chapter: 46
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 4525"
-generated_at: "2026-03-29T00:29:16.825Z"
+generated_at: "2026-03-29T02:11:21.201Z"
 ---
 
 # § 4525. Information, records, and meetings
 
 For purposes of subchapter II of chapter 5 of title 5—
 
-  (1) the Agency, and
-  (2) the Department of Housing and Urban Development, with respect to activities under this chapter,
+  - **(1)** the Agency, and
+  - **(2)** the Department of Housing and Urban Development, with respect to activities under this chapter,

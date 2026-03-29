@@ -5,13 +5,13 @@ usc_section: "2101"
 chapter: 21
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 2101"
-generated_at: "2026-03-29T00:28:38.300Z"
+generated_at: "2026-03-29T02:10:01.804Z"
 ---
 
 # § 2101. Civil service; armed forces; uniformed services
 
 For the purpose of this title—
 
-  (1) the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
-  (2) “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard; and
-  (3) “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+  - **(1)** the “civil service” consists of all appointive positions in the executive, judicial, and legislative branches of the Government of the United States, except positions in the uniformed services;
+  - **(2)** “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard; and
+  - **(3)** “uniformed services” means the armed forces, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.

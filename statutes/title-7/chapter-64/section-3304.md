@@ -5,7 +5,7 @@ usc_section: "3304"
 chapter: 64
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3304"
-generated_at: "2026-03-29T00:28:58.173Z"
+generated_at: "2026-03-29T02:10:16.999Z"
 ---
 
 # §§ 3301 to 3304. Repealed. Pub. L. 99–198, title XIV, § 1421 , Dec. 23, 1985 , 99 Stat. 1552

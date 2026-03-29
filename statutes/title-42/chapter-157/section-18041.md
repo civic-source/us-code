@@ -5,31 +5,31 @@ usc_section: "18041"
 chapter: 157
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18041"
-generated_at: "2026-03-29T00:32:54.460Z"
+generated_at: "2026-03-29T02:15:37.427Z"
 ---
 
 # § 18041. State flexibility in operation and enforcement of Exchanges and related requirements
 
-(a) 
-  (1) The Secretary shall, as soon as practicable after March 23, 2010 , issue regulations setting standards for meeting the requirements under this title, 1 1 See References in Text note below. and the amendments made by this title, 1 with respect to—
-    (A) the establishment and operation of Exchanges (including SHOP Exchanges);
-    (B) the offering of qualified health plans through such Exchanges;
-    (C) the establishment of the reinsurance and risk adjustment programs under part E; and
-    (D) such other requirements as the Secretary determines appropriate.
-  (2) In issuing the regulations under paragraph (1), the Secretary shall consult with the National Association of Insurance Commissioners and its members and with health insurance issuers, consumer organizations, and such other individuals as the Secretary selects in a manner designed to ensure balanced representation among interested parties.
-(b) Each State that elects, at such time and in such manner as the Secretary may prescribe, to apply the requirements described in subsection (a) shall, not later than January 1, 2014 , adopt and have in effect—
-  (1) the Federal standards established under subsection (a); or
-  (2) a State law or regulation that the Secretary determines implements the standards within the State.
-(c) 
-  (1) If—
-    (A) a State is not an electing State under subsection (b); or
-    (B) the Secretary determines, on or before January 1, 2013 , that an electing State—
-      (i) will not have any required Exchange operational by January 1, 2014 ; or
-      (ii) has not taken the actions the Secretary determines necessary to implement—
-        (I) the other requirements set forth in the standards under subsection (a); or
-        (II) the requirements set forth in subtitles A and C and the amendments made by such subtitles;
-  (2) The provisions of section 2736(b) 1 of the Public Health Services 2 2 So in original. Probably should be “Service”. Act [ 42 U.S.C. 300gg–22(b) ] shall apply to the enforcement under paragraph (1) of requirements of subsection (a)(1) (without regard to any limitation on the application of those provisions to group health plans).
-(d) Nothing in this title 1 shall be construed to preempt any State law that does not prevent the application of the provisions of this title. 1
-(e) 
-  (1) In the case of a State operating an Exchange before January 1, 2010 , and which has insured a percentage of its population not less than the percentage of the population projected to be covered nationally after the implementation of this Act, that seeks to operate an Exchange under this section, the Secretary shall presume that such Exchange meets the standards under this section unless the Secretary determines, after completion of the process established under paragraph (2), that the Exchange does not comply with such standards.
-  (2) The Secretary shall establish a process to work with a State described in paragraph (1) to provide assistance necessary to assist the State’s Exchange in coming into compliance with the standards for approval under this section.
+- **(a)**
+  - **(1)** The Secretary shall, as soon as practicable after March 23, 2010 , issue regulations setting standards for meeting the requirements under this title, 1 1 See References in Text note below. and the amendments made by this title, 1 with respect to—
+    - **(A)** the establishment and operation of Exchanges (including SHOP Exchanges);
+    - **(B)** the offering of qualified health plans through such Exchanges;
+    - **(C)** the establishment of the reinsurance and risk adjustment programs under part E; and
+    - **(D)** such other requirements as the Secretary determines appropriate.
+  - **(2)** In issuing the regulations under paragraph (1), the Secretary shall consult with the National Association of Insurance Commissioners and its members and with health insurance issuers, consumer organizations, and such other individuals as the Secretary selects in a manner designed to ensure balanced representation among interested parties.
+- **(b)** Each State that elects, at such time and in such manner as the Secretary may prescribe, to apply the requirements described in subsection (a) shall, not later than January 1, 2014 , adopt and have in effect—
+  - **(1)** the Federal standards established under subsection (a); or
+  - **(2)** a State law or regulation that the Secretary determines implements the standards within the State.
+- **(c)**
+  - **(1)** If—
+    - **(A)** a State is not an electing State under subsection (b); or
+    - **(B)** the Secretary determines, on or before January 1, 2013 , that an electing State—
+      - **(i)** will not have any required Exchange operational by January 1, 2014 ; or
+      - **(ii)** has not taken the actions the Secretary determines necessary to implement—
+        - **(I)** the other requirements set forth in the standards under subsection (a); or
+        - **(II)** the requirements set forth in subtitles A and C and the amendments made by such subtitles;
+  - **(2)** The provisions of section 2736(b) 1 of the Public Health Services 2 2 So in original. Probably should be “Service”. Act [ 42 U.S.C. 300gg–22(b) ] shall apply to the enforcement under paragraph (1) of requirements of subsection (a)(1) (without regard to any limitation on the application of those provisions to group health plans).
+- **(d)** Nothing in this title 1 shall be construed to preempt any State law that does not prevent the application of the provisions of this title. 1
+- **(e)**
+  - **(1)** In the case of a State operating an Exchange before January 1, 2010 , and which has insured a percentage of its population not less than the percentage of the population projected to be covered nationally after the implementation of this Act, that seeks to operate an Exchange under this section, the Secretary shall presume that such Exchange meets the standards under this section unless the Secretary determines, after completion of the process established under paragraph (2), that the Exchange does not comply with such standards.
+  - **(2)** The Secretary shall establish a process to work with a State described in paragraph (1) to provide assistance necessary to assist the State’s Exchange in coming into compliance with the standards for approval under this section.

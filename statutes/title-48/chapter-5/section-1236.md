@@ -5,7 +5,7 @@ usc_section: "1236"
 chapter: 5
 current_through: "PL 119-73"
 classification: "48 U.S.C. § 1236"
-generated_at: "2026-03-29T00:33:06.600Z"
+generated_at: "2026-03-29T02:16:00.800Z"
 ---
 
 # §§ 1235 to 1236. Transferred

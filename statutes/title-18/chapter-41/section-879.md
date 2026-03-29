@@ -5,21 +5,21 @@ usc_section: "879"
 chapter: 41
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 879"
-generated_at: "2026-03-29T00:30:15.638Z"
+generated_at: "2026-03-29T02:12:02.384Z"
 ---
 
 # § 879. Threats against former Presidents and certain other persons
 
-(a) Whoever knowingly and willfully threatens to kill, kidnap, or inflict bodily harm upon—
-  (1) a former President or a member of the immediate family of a former President;
-  (2) a member of the immediate family of the President, the President-elect, the Vice President, or the Vice President-elect;
-  (3) a major candidate for the office of President or Vice President, or a member of the immediate family of such candidate; or
-  (4) a person protected by the Secret Service under section 3056(a)(6);
-(b) As used in this section—
-  (1) the term “immediate family” means—
-    (A) with respect to subsection (a)(1) of this section, the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage, and minor children of a former President until they reach sixteen years of age; and
-    (B) with respect to subsection (a)(2) and (a)(3) of this section, a person to whom the President, President-elect, Vice President, Vice President-elect, or major candidate for the office of President or Vice President—
-      (i) is related by blood, marriage, or adoption; or
-      (ii) stands in loco parentis;
-  (2) the term “major candidate for the office of President or Vice President” means a candidate referred to in subsection (a)(7) of section 3056 of this title ; and
-  (3) the terms “President-elect” and “Vice President-elect” have the meanings given those terms in section 871(b) of this title .
+- **(a)** Whoever knowingly and willfully threatens to kill, kidnap, or inflict bodily harm upon—
+  - **(1)** a former President or a member of the immediate family of a former President;
+  - **(2)** a member of the immediate family of the President, the President-elect, the Vice President, or the Vice President-elect;
+  - **(3)** a major candidate for the office of President or Vice President, or a member of the immediate family of such candidate; or
+  - **(4)** a person protected by the Secret Service under section 3056(a)(6);
+- **(b)** As used in this section—
+  - **(1)** the term “immediate family” means—
+    - **(A)** with respect to subsection (a)(1) of this section, the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage, and minor children of a former President until they reach sixteen years of age; and
+    - **(B)** with respect to subsection (a)(2) and (a)(3) of this section, a person to whom the President, President-elect, Vice President, Vice President-elect, or major candidate for the office of President or Vice President—
+      - **(i)** is related by blood, marriage, or adoption; or
+      - **(ii)** stands in loco parentis;
+  - **(2)** the term “major candidate for the office of President or Vice President” means a candidate referred to in subsection (a)(7) of section 3056 of this title ; and
+  - **(3)** the terms “President-elect” and “Vice President-elect” have the meanings given those terms in section 871(b) of this title .

@@ -5,7 +5,7 @@ usc_section: "1736d"
 chapter: 41
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 1736d"
-generated_at: "2026-03-29T00:28:58.049Z"
+generated_at: "2026-03-29T02:10:16.852Z"
 ---
 
 # §§ 1736c, 1736d. Repealed. Pub. L. 104–127, title II , §§ 218, 219, Apr. 4, 1996 , 110 Stat. 957

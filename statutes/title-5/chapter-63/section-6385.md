@@ -5,12 +5,12 @@ usc_section: "6385"
 chapter: 63
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 6385"
-generated_at: "2026-03-29T00:28:38.371Z"
+generated_at: "2026-03-29T02:10:01.901Z"
 ---
 
 # § 6385. Prohibition of coercion
 
-(a) An employee shall not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with the exercise of any rights which such other employee may have under this subchapter.
-(b) For the purpose of this section—
-  (1) the term “intimidate, threaten, or coerce” includes promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or taking or threatening to take any reprisal (such as deprivation of appointment, promotion, or compensation); and
-  (2) the term “employee” means any “employee”, as defined by section 2105.
+- **(a)** An employee shall not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with the exercise of any rights which such other employee may have under this subchapter.
+- **(b)** For the purpose of this section—
+  - **(1)** the term “intimidate, threaten, or coerce” includes promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or taking or threatening to take any reprisal (such as deprivation of appointment, promotion, or compensation); and
+  - **(2)** the term “employee” means any “employee”, as defined by section 2105.

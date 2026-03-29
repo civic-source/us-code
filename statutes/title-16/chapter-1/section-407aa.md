@@ -5,18 +5,18 @@ usc_section: "407aa"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 407aa"
-generated_at: "2026-03-29T00:29:52.357Z"
+generated_at: "2026-03-29T02:11:53.381Z"
 ---
 
 # § 407aa. Findings and purposes
 
-(a) Congress finds that:
-  (1) 1987 was the bicentennial of the signing of the United States Constitution;
-  (2) commemoration of the Constitution’s bicentennial included various events conducted by the Federal Commission on the Bicentennial of the United States Constitution, and State and local bicentennial commissions;
-  (3) bicentennial activities included important educational and instructional programs to heighten public awareness of the Constitution and the democratic process;
-  (4) educational programs for the Constitution should continue after the bicentennial to document its profound impact on the political, economic and social development of this Nation, and in order to recognize those Americans instrumental in the history of the Constitution; and
-  (5) units of the National Park System preserve and interpret key historic sites that document the history of the origins, subsequent development, and effects of the United States Constitution on this Nation.
-(b) It is therefore the policy of the Congress to provide each of the following:
-  (1) the necessary resources to develop a national resource center to undertake, on an ongoing basis, educational programs on the Constitution;
-  (2) exhibits of, and an archives for, programs on or related to the recent bicentennial of the United States Constitution; and
-  (3) interpretation of the United States Constitution at those units of the National Park System particularly relevant to its history.
+- **(a)** Congress finds that:
+  - **(1)** 1987 was the bicentennial of the signing of the United States Constitution;
+  - **(2)** commemoration of the Constitution’s bicentennial included various events conducted by the Federal Commission on the Bicentennial of the United States Constitution, and State and local bicentennial commissions;
+  - **(3)** bicentennial activities included important educational and instructional programs to heighten public awareness of the Constitution and the democratic process;
+  - **(4)** educational programs for the Constitution should continue after the bicentennial to document its profound impact on the political, economic and social development of this Nation, and in order to recognize those Americans instrumental in the history of the Constitution; and
+  - **(5)** units of the National Park System preserve and interpret key historic sites that document the history of the origins, subsequent development, and effects of the United States Constitution on this Nation.
+- **(b)** It is therefore the policy of the Congress to provide each of the following:
+  - **(1)** the necessary resources to develop a national resource center to undertake, on an ongoing basis, educational programs on the Constitution;
+  - **(2)** exhibits of, and an archives for, programs on or related to the recent bicentennial of the United States Constitution; and
+  - **(3)** interpretation of the United States Constitution at those units of the National Park System particularly relevant to its history.

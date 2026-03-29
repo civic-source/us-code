@@ -5,7 +5,7 @@ usc_section: "5049"
 chapter: 66
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 5049"
-generated_at: "2026-03-29T00:32:53.890Z"
+generated_at: "2026-03-29T02:15:36.730Z"
 ---
 
 # § 5049. Prohibition of Federal control of educational institution or school system

@@ -5,15 +5,15 @@ usc_section: "2653"
 chapter: 157
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2653"
-generated_at: "2026-03-29T00:20:53.068Z"
+generated_at: "2026-03-29T02:10:45.123Z"
 ---
 
 # § 2653. Evacuation of family pets and contract working dogs during noncombatant evacuations of foreign countries
 
-(a) Subject to the limitations under subsection (b), in the event of a situation during which the Department of Defense evacuates noncombatants from a foreign country, the Secretary of Defense may enter into agreements with appropriate nonprofit entities under which such entities provide for the evacuation of—
-  (1) the family pets of citizens of the United States who are evacuated by the Department; and
-  (2) contract working dogs located in such country.
-(b) The limitations under this subsection are as follows:
-  (1) The Department of Defense is not responsible for providing veterinary care for a family pet or contract working dog by reason of the evacuation of the pet or dog pursuant to subsection (a).
-  (2) The Secretary may not exercise the authority under subsection (a) if the exercise of such authority would result in a reduction in the number of individuals who would otherwise be evacuated.
-  (3) The operator of a vehicle used for evacuation may refuse to evacuate a family pet or contract working dog if the operator determines that the evacuation would create a safety risk to other passengers or personnel.
+- **(a)** Subject to the limitations under subsection (b), in the event of a situation during which the Department of Defense evacuates noncombatants from a foreign country, the Secretary of Defense may enter into agreements with appropriate nonprofit entities under which such entities provide for the evacuation of—
+  - **(1)** the family pets of citizens of the United States who are evacuated by the Department; and
+  - **(2)** contract working dogs located in such country.
+- **(b)** The limitations under this subsection are as follows:
+  - **(1)** The Department of Defense is not responsible for providing veterinary care for a family pet or contract working dog by reason of the evacuation of the pet or dog pursuant to subsection (a).
+  - **(2)** The Secretary may not exercise the authority under subsection (a) if the exercise of such authority would result in a reduction in the number of individuals who would otherwise be evacuated.
+  - **(3)** The operator of a vehicle used for evacuation may refuse to evacuate a family pet or contract working dog if the operator determines that the evacuation would create a safety risk to other passengers or personnel.

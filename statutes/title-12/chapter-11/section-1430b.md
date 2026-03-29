@@ -5,12 +5,12 @@ usc_section: "1430b"
 chapter: 11
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 1430b"
-generated_at: "2026-03-29T00:29:16.532Z"
+generated_at: "2026-03-29T02:11:20.887Z"
 ---
 
 # § 1430b. Advances to nonmember mortgagee; terms and conditions
 
-(a) Each Federal Home Loan Bank is authorized to make advances to nonmember mortgagees approved under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.]. Such mortgagees must be chartered institutions having succession and subject to the inspection and supervision of some governmental agency, and whose principal activity in the mortgage field must consist of lending their own funds. Such advances shall not be subject to the other provisions and restrictions of this chapter, but shall be made upon the security of insured mortgages, insured under title II of the National Housing Act. Advances made under the terms of this section shall be at such rates of interest and upon such terms and conditions as shall be determined by the Director, but no advance may be for an amount in excess of 90 per centum of the unpaid principal of the mortgage loan given as security.
-(b) An advance made to a State housing finance agency for the purpose of facilitating mortgage lending that benefits individuals and families that meet the income requirements set forth in section 142(d) or 143(f) of title 26, need not be collateralized by a mortgage insured under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.] or otherwise, if—
-  (1) such advance otherwise meets the requirements of this subsection; and
-  (2) such advance meets the requirements of section 1430(a) of this title , and any real estate collateral for such loan comprises single family or multifamily residential mortgages.
+- **(a)** Each Federal Home Loan Bank is authorized to make advances to nonmember mortgagees approved under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.]. Such mortgagees must be chartered institutions having succession and subject to the inspection and supervision of some governmental agency, and whose principal activity in the mortgage field must consist of lending their own funds. Such advances shall not be subject to the other provisions and restrictions of this chapter, but shall be made upon the security of insured mortgages, insured under title II of the National Housing Act. Advances made under the terms of this section shall be at such rates of interest and upon such terms and conditions as shall be determined by the Director, but no advance may be for an amount in excess of 90 per centum of the unpaid principal of the mortgage loan given as security.
+- **(b)** An advance made to a State housing finance agency for the purpose of facilitating mortgage lending that benefits individuals and families that meet the income requirements set forth in section 142(d) or 143(f) of title 26, need not be collateralized by a mortgage insured under title II of the National Housing Act [ 12 U.S.C. 1707 et seq.] or otherwise, if—
+  - **(1)** such advance otherwise meets the requirements of this subsection; and
+  - **(2)** such advance meets the requirements of section 1430(a) of this title , and any real estate collateral for such loan comprises single family or multifamily residential mortgages.

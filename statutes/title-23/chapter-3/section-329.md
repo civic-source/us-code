@@ -5,20 +5,20 @@ usc_section: "329"
 chapter: 3
 current_through: "PL 119-73"
 classification: "23 U.S.C. § 329"
-generated_at: "2026-03-29T00:07:07.673Z"
+generated_at: "2026-03-29T02:13:00.962Z"
 ---
 
 # § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
 
-(a) In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
-  (1) Establishment of plants selected by State and local transportation authorities to perform one or more of the following functions: abatement of stormwater runoff, stabilization of soil, provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees, and aesthetic enhancement.
-  (2) Management of plants which impair or impede the establishment, maintenance, or safe use of a transportation system.
-(b) The establishment and management under subsection (a)(1) and (a)(2) may include—
-  (1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act ( 7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
-  (2) establishment of plants, whether native or nonnative with a preference for native to the maximum extent possible, for the purposes defined in subsection (a)(1);
-  (3) control or elimination of plants as defined in subsection (a)(2);
-  (4) elimination of plants to create fuel breaks for the prevention and control of wildfires; and
-  (5) training.
-(c) 
-  (1) Subject to paragraph (2), an activity described in subsection (a) may be carried out concurrently with, in advance of, or following the construction of a project funded under this title.
-  (2) An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.
+- **(a)** In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
+  - **(1)** Establishment of plants selected by State and local transportation authorities to perform one or more of the following functions: abatement of stormwater runoff, stabilization of soil, provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees, and aesthetic enhancement.
+  - **(2)** Management of plants which impair or impede the establishment, maintenance, or safe use of a transportation system.
+- **(b)** The establishment and management under subsection (a)(1) and (a)(2) may include—
+  - **(1)** right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act ( 7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
+  - **(2)** establishment of plants, whether native or nonnative with a preference for native to the maximum extent possible, for the purposes defined in subsection (a)(1);
+  - **(3)** control or elimination of plants as defined in subsection (a)(2);
+  - **(4)** elimination of plants to create fuel breaks for the prevention and control of wildfires; and
+  - **(5)** training.
+- **(c)**
+  - **(1)** Subject to paragraph (2), an activity described in subsection (a) may be carried out concurrently with, in advance of, or following the construction of a project funded under this title.
+  - **(2)** An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.

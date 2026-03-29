@@ -5,7 +5,7 @@ usc_section: "407"
 chapter: 5
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 407"
-generated_at: "2026-03-29T00:33:04.911Z"
+generated_at: "2026-03-29T02:15:59.229Z"
 ---
 
 # § 407. Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys’ fees

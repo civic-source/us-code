@@ -5,11 +5,11 @@ usc_section: "2074"
 chapter: 47
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 2074"
-generated_at: "2026-03-29T00:29:41.765Z"
+generated_at: "2026-03-29T02:11:34.264Z"
 ---
 
 # § 2074. Private remedies
 
-(a) Compliance with consumer product safety rules or other rules or orders under this chapter shall not relieve any person from liability at common law or under State statutory law to any other person.
-(b) The failure of the Commission to take any action or commence a proceeding with respect to the safety of a consumer product shall not be admissible in evidence in litigation at common law or under State statutory law relating to such consumer product.
-(c) Subject to sections 2055(a)(2) and 2055(b) of this title but notwithstanding section 2055(a)(1) of this title , (1) any accident or investigation report made under this chapter by an officer or employee of the Commission shall be made available to the public in a manner which will not identify any injured person or any person treating him, without the consent of the person so identified, and (2) all reports on research projects, demonstration projects, and other related activities shall be public information.
+- **(a)** Compliance with consumer product safety rules or other rules or orders under this chapter shall not relieve any person from liability at common law or under State statutory law to any other person.
+- **(b)** The failure of the Commission to take any action or commence a proceeding with respect to the safety of a consumer product shall not be admissible in evidence in litigation at common law or under State statutory law relating to such consumer product.
+- **(c)** Subject to sections 2055(a)(2) and 2055(b) of this title but notwithstanding section 2055(a)(1) of this title , (1) any accident or investigation report made under this chapter by an officer or employee of the Commission shall be made available to the public in a manner which will not identify any injured person or any person treating him, without the consent of the person so identified, and (2) all reports on research projects, demonstration projects, and other related activities shall be public information.

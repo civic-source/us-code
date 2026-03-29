@@ -5,31 +5,31 @@ usc_section: "45305"
 chapter: 453
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 45305"
-generated_at: "2026-03-29T00:33:13.914Z"
+generated_at: "2026-03-29T02:16:09.052Z"
 ---
 
 # § 45305. Registration, certification, and related fees
 
-(a) Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
-  (1) Registering an aircraft.
-  (2) Reregistering, replacing, or renewing an aircraft registration certificate.
-  (3) Issuing an original dealer’s aircraft registration certificate.
-  (4) Issuing an additional dealer’s aircraft registration certificate (other than the original).
-  (5) Issuing a special registration number.
-  (6) Issuing a renewal of a special registration number reservation.
-  (7) Recording a security interest in an aircraft or aircraft part.
-  (8) Issuing an airman certificate.
-  (9) Issuing a replacement airman certificate.
-  (10) Issuing an airman medical certificate.
-  (11) Providing a legal opinion pertaining to aircraft registration or recordation.
-(b) Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—
-  (1) is established and collected in a manner consistent with aviation safety agreements; and
-  (2) does not exceed the estimated costs of the services.
-(c) No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
-(d) 
-  (1) Notwithstanding section 3302 of title 31 , any fee authorized to be collected under this section shall—
-    (A) be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
-    (B) be available for expenditure only to pay the costs of activities and services for which the fee is imposed, including all costs associated with collecting the fee; and
-    (C) remain available until expended.
-  (2) The Administrator may continue to assess, collect, and spend fees established under this section during any period in which the funding for the Federal Aviation Administration is provided under an Act providing continuing appropriations in lieu of the Administration’s regular appropriations.
-  (3) The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
+- **(a)** Subject to subsection (c), the Administrator of the Federal Aviation Administration shall establish and collect a fee for each of the following services and activities of the Administration that does not exceed the estimated costs of the service or activity:
+  - **(1)** Registering an aircraft.
+  - **(2)** Reregistering, replacing, or renewing an aircraft registration certificate.
+  - **(3)** Issuing an original dealer’s aircraft registration certificate.
+  - **(4)** Issuing an additional dealer’s aircraft registration certificate (other than the original).
+  - **(5)** Issuing a special registration number.
+  - **(6)** Issuing a renewal of a special registration number reservation.
+  - **(7)** Recording a security interest in an aircraft or aircraft part.
+  - **(8)** Issuing an airman certificate.
+  - **(9)** Issuing a replacement airman certificate.
+  - **(10)** Issuing an airman medical certificate.
+  - **(11)** Providing a legal opinion pertaining to aircraft registration or recordation.
+- **(b)** Subject to subsection (c), and notwithstanding section 45301(a), the Administrator may establish and collect a fee from a foreign government or entity for services related to certification, regardless of where the services are provided, if the fee—
+  - **(1)** is established and collected in a manner consistent with aviation safety agreements; and
+  - **(2)** does not exceed the estimated costs of the services.
+- **(c)** No fee may be collected under this section unless the expenditure of the fee to pay the costs of activities and services for which the fee is imposed is provided for in advance in an appropriations Act.
+- **(d)**
+  - **(1)** Notwithstanding section 3302 of title 31 , any fee authorized to be collected under this section shall—
+    - **(A)** be credited as offsetting collections to the account that finances the activities and services for which the fee is imposed;
+    - **(B)** be available for expenditure only to pay the costs of activities and services for which the fee is imposed, including all costs associated with collecting the fee; and
+    - **(C)** remain available until expended.
+  - **(2)** The Administrator may continue to assess, collect, and spend fees established under this section during any period in which the funding for the Federal Aviation Administration is provided under an Act providing continuing appropriations in lieu of the Administration’s regular appropriations.
+  - **(3)** The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.

@@ -1,0 +1,21 @@
+---
+title: "Section 1364 - Triennial comprehensive report on immigration"
+usc_title: 8
+usc_section: "1364"
+chapter: 12
+current_through: "PL 119-73"
+classification: "8 U.S.C. § 1364"
+generated_at: "2026-03-29T02:10:21.458Z"
+---
+
+# § 1364. Triennial comprehensive report on immigration
+
+- **(a)** The President shall transmit to the Congress, not later than January 1, 1989 , and not later than January 1 of every third year thereafter, a comprehensive immigration-impact report.
+- **(b)** Each report shall include—
+  - **(1)** the number and classification of aliens admitted (whether as immediate relatives, special immigrants, refugees, or under the preferences classifications, or as nonimmigrants), paroled, or granted asylum, during the relevant period;
+  - **(2)** a reasonable estimate of the number of aliens who entered the United States during the period without visas or who became deportable during the period under section 237 of the Immigration and Nationality Act [ 8 U.S.C. 1227 ]; and
+  - **(3)** a description of the impact of admissions and other entries of immigrants, refugees, asylees, and parolees into the United States during the period on the economy, labor and housing markets, the educational system, social services, foreign policy, environmental quality and resources, the rate, size, and distribution of population growth in the United States, and the impact on specific States and local units of government of high rates of immigration resettlement.
+- **(c)** The information (referred to in subsection (b)) contained in each report shall be—
+  - **(1)** described for the preceding three-year period, and
+  - **(2)** projected for the succeeding five-year period, based on reasonable estimates substantiated by the best available evidence.
+- **(d)** The President also may include in such report any appropriate recommendations on changes in numerical limitations or other policies under title II of the Immigration and Nationality Act [ 8 U.S.C. 1151 et seq.] bearing on the admission and entry of such aliens to the United States.

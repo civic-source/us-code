@@ -5,7 +5,7 @@ usc_section: "134a"
 chapter: 4
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 134a"
-generated_at: "2026-03-29T00:20:52.792Z"
+generated_at: "2026-03-29T02:10:44.823Z"
 ---
 
 # [§ 134a. Repealed. Pub. L. 111–383, div. A, title IX, § 901(b)(1) , Jan. 7, 2011 , 124 Stat. 4317 ]

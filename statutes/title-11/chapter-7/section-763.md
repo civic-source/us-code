@@ -5,11 +5,11 @@ usc_section: "763"
 chapter: 7
 current_through: "PL 119-73"
 classification: "11 U.S.C. § 763"
-generated_at: "2026-03-29T00:28:59.962Z"
+generated_at: "2026-03-29T02:10:54.340Z"
 ---
 
 # § 763. Treatment of accounts
 
-(a) Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
-(b) A member of a clearing organization shall be deemed to hold such member’s proprietary account in a separate capacity from such member’s customers’ account.
-(c) The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.
+- **(a)** Accounts held by the debtor for a particular customer in separate capacities shall be treated as accounts of separate customers.
+- **(b)** A member of a clearing organization shall be deemed to hold such member’s proprietary account in a separate capacity from such member’s customers’ account.
+- **(c)** The net equity in a customer’s account may not be offset against the net equity in the account of any other customer.

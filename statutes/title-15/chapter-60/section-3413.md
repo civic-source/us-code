@@ -5,7 +5,7 @@ usc_section: "3413"
 chapter: 60
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3413"
-generated_at: "2026-03-29T00:29:41.832Z"
+generated_at: "2026-03-29T02:11:34.338Z"
 ---
 
 # § 3413. Repealed. Pub. L. 101–60, § 3(b)(5) , July 26, 1989 , 103 Stat. 159

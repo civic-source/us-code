@@ -5,15 +5,15 @@ usc_section: "3334f"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3334f"
-generated_at: "2026-03-29T00:33:18.196Z"
+generated_at: "2026-03-29T02:16:14.787Z"
 ---
 
 # § 3334f. Congressional notification of designation of covered intelligence officer as persona non grata
 
-(a) In this section, the term “covered intelligence officer” means—
-  (1) a United States intelligence officer serving in a post in a foreign country; or
-  (2) a known or suspected foreign intelligence officer serving in a United States post.
-(b) Not later than 72 hours after a covered intelligence officer is designated as a persona non grata, the Director of National Intelligence, in consultation with the Secretary of State, shall submit to the congressional intelligence committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a notification of that designation. Each such notification shall include—
-  (1) the date of the designation;
-  (2) the basis for the designation; and
-  (3) a justification for the expulsion.
+- **(a)** In this section, the term “covered intelligence officer” means—
+  - **(1)** a United States intelligence officer serving in a post in a foreign country; or
+  - **(2)** a known or suspected foreign intelligence officer serving in a United States post.
+- **(b)** Not later than 72 hours after a covered intelligence officer is designated as a persona non grata, the Director of National Intelligence, in consultation with the Secretary of State, shall submit to the congressional intelligence committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a notification of that designation. Each such notification shall include—
+  - **(1)** the date of the designation;
+  - **(2)** the basis for the designation; and
+  - **(3)** a justification for the expulsion.

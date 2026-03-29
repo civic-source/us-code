@@ -5,13 +5,13 @@ usc_section: "2506"
 chapter: 27
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 2506"
-generated_at: "2026-03-29T00:31:27.695Z"
+generated_at: "2026-03-29T02:14:09.491Z"
 ---
 
 # § 2506. Liaison role of Department of Labor
 
 The Department of Labor shall serve as a liaison among employers, labor unions, and community-based organizations. The liaison role may include—
 
-  (1) coordination of employers, labor unions, and community-based organizations with respect to technical assistance provided under section 2503(a) of this title ;
-  (2) conducting regular assessment meetings with representatives of employers, labor unions, and community-based organizations with respect to such technical assistance; and
-  (3) seeking the input of employers and labor unions with respect to strategies and recommendations for improving such technical assistance.
+  - **(1)** coordination of employers, labor unions, and community-based organizations with respect to technical assistance provided under section 2503(a) of this title ;
+  - **(2)** conducting regular assessment meetings with representatives of employers, labor unions, and community-based organizations with respect to such technical assistance; and
+  - **(3)** seeking the input of employers and labor unions with respect to strategies and recommendations for improving such technical assistance.

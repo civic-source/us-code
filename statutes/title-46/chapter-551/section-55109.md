@@ -5,14 +5,14 @@ usc_section: "55109"
 chapter: 551
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 55109"
-generated_at: "2026-03-29T00:33:02.947Z"
+generated_at: "2026-03-29T02:15:53.781Z"
 ---
 
 # § 55109. Dredging
 
-(a) Except as provided in subsection (b), a vessel may engage in dredging in the navigable waters of the United States only if—
-  (1) the vessel is wholly owned by citizens of the United States for purposes of engaging in the coastwise trade;
-  (2) the charterer, if any, is a citizen of the United States for purposes of engaging in the coastwise trade; and
-  (3) the vessel has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title or is exempt from documentation but would otherwise be eligible for such a certificate and endorsement.
-(b) A documented vessel with a registry endorsement may engage in the dredging of gold in Alaska.
-(c) If a vessel is operated in knowing violation of this section, the vessel and its equipment are liable to seizure by and forfeiture to the United States Government.
+- **(a)** Except as provided in subsection (b), a vessel may engage in dredging in the navigable waters of the United States only if—
+  - **(1)** the vessel is wholly owned by citizens of the United States for purposes of engaging in the coastwise trade;
+  - **(2)** the charterer, if any, is a citizen of the United States for purposes of engaging in the coastwise trade; and
+  - **(3)** the vessel has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title or is exempt from documentation but would otherwise be eligible for such a certificate and endorsement.
+- **(b)** A documented vessel with a registry endorsement may engage in the dredging of gold in Alaska.
+- **(c)** If a vessel is operated in knowing violation of this section, the vessel and its equipment are liable to seizure by and forfeiture to the United States Government.

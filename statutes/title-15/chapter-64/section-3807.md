@@ -5,12 +5,12 @@ usc_section: "3807"
 chapter: 64
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 3807"
-generated_at: "2026-03-29T00:29:41.851Z"
+generated_at: "2026-03-29T02:11:34.355Z"
 ---
 
 # § 3807. Use of methane-fueled vehicles by Federal agencies and departments
 
 The Secretary shall consult with the Postmaster General of the United States Postal Service, the Administrator of the General Services Administration, the Secretary of Defense, and the heads of other Federal agencies where appropriate to—
 
-(a) determine the practicability of using methane vehicles in the performance of certain or all of the functions of their agencies based in counties and standard metropolitan statistical areas in which demonstrations under section 3806 of this title are being conducted; and
-(b) arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.
+- **(a)** determine the practicability of using methane vehicles in the performance of certain or all of the functions of their agencies based in counties and standard metropolitan statistical areas in which demonstrations under section 3806 of this title are being conducted; and
+- **(b)** arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.

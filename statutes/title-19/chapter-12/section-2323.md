@@ -5,7 +5,7 @@ usc_section: "2323"
 chapter: 12
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 2323"
-generated_at: "2026-03-29T00:30:20.220Z"
+generated_at: "2026-03-29T02:12:08.687Z"
 ---
 
 # § 2323. Omitted

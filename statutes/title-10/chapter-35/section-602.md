@@ -5,7 +5,7 @@ usc_section: "602"
 chapter: 35
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 602"
-generated_at: "2026-03-29T00:20:52.865Z"
+generated_at: "2026-03-29T02:10:44.888Z"
 ---
 
 # § 602. Flexibility in determining terms of appointment for certain senior officer positions

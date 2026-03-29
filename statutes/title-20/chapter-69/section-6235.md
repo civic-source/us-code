@@ -5,7 +5,7 @@ usc_section: "6235"
 chapter: 69
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 6235"
-generated_at: "2026-03-29T00:07:03.186Z"
+generated_at: "2026-03-29T02:12:17.428Z"
 ---
 
 # §§ 6231 to 6235. Omitted

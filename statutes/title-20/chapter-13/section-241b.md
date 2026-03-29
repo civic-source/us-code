@@ -5,7 +5,7 @@ usc_section: "241b"
 chapter: 13
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 241b"
-generated_at: "2026-03-29T00:07:03.113Z"
+generated_at: "2026-03-29T02:12:17.154Z"
 ---
 
 # §§ 241a, 241b. Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 1978 , 92 Stat. 2200

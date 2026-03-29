@@ -5,18 +5,18 @@ usc_section: "2093"
 chapter: 23
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 2093"
-generated_at: "2026-03-29T00:32:53.746Z"
+generated_at: "2026-03-29T02:15:36.581Z"
 ---
 
 # § 2093. Domestic distribution of source material
 
-(a) The Commission is authorized to issue licenses for and to distribute source material within the United States to qualified applicants requesting such material—
-  (1) for the conduct of research and development activities of the types specified in section 2051 of this title ;
-  (2) for use in the conduct of research and development activities or in medical therapy under a license issued pursuant to section 2134 of this title ;
-  (3) for use under a license issued pursuant to section 2133 of this title ; or
-  (4) for any other use approved by the Commission as an aid to science or industry.
-(b) The Commission shall establish, by rule, minimum criteria for the issuance of specific or general licenses for the distribution of source material depending upon the degree of importance to the common defense and security or to the health and safety of the public of—
-  (1) the physical characteristics of the source material to be distributed;
-  (2) the quantities of source material to be distributed; and
-  (3) the intended use of the source material to be distributed.
-(c) The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) and shall make a reasonable charge determined pursuant to section 2201(m) of this title , for the source material licensed and distributed under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.
+- **(a)** The Commission is authorized to issue licenses for and to distribute source material within the United States to qualified applicants requesting such material—
+  - **(1)** for the conduct of research and development activities of the types specified in section 2051 of this title ;
+  - **(2)** for use in the conduct of research and development activities or in medical therapy under a license issued pursuant to section 2134 of this title ;
+  - **(3)** for use under a license issued pursuant to section 2133 of this title ; or
+  - **(4)** for any other use approved by the Commission as an aid to science or industry.
+- **(b)** The Commission shall establish, by rule, minimum criteria for the issuance of specific or general licenses for the distribution of source material depending upon the degree of importance to the common defense and security or to the health and safety of the public of—
+  - **(1)** the physical characteristics of the source material to be distributed;
+  - **(2)** the quantities of source material to be distributed; and
+  - **(3)** the intended use of the source material to be distributed.
+- **(c)** The Commission may make a reasonable charge determined pursuant to section 2201(m) of this title for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4) and shall make a reasonable charge determined pursuant to section 2201(m) of this title , for the source material licensed and distributed under subsection (a)(3). The Commission shall establish criteria in writing for the determination of whether a charge will be made for the source material licensed and distributed under subsection (a)(1), (a)(2), or (a)(4), considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the source material will be used.

@@ -5,7 +5,7 @@ usc_section: "23"
 chapter: 1
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 23"
-generated_at: "2026-03-29T00:30:15.587Z"
+generated_at: "2026-03-29T02:12:02.352Z"
 ---
 
 # § 23. 1 1 So in original. No section 22 has been enacted. Court of the United States defined

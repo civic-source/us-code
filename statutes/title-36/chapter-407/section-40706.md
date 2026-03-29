@@ -1,0 +1,22 @@
+---
+title: "Section 40706 - Distribution of assets on dissolution"
+usc_title: 36
+usc_section: "40706"
+chapter: 407
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 40706"
+generated_at: "2026-03-29T02:14:41.349Z"
+---
+
+# § 40706. Distribution of assets on dissolution
+
+- **(a)** On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army:
+  - **(1)** Firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama on the date of dissolution.
+  - **(2)** M–16 rifles under control of the corporation.
+  - **(3)** Trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
+- **(b)**
+  - **(1)** On dissolution of the corporation, an asset not described in subsection (a) of this section may be distributed to an organization that—
+    - **(A)** is exempt from taxation under section 501(a) of the Internal Revenue Code of 1986 ( 26 U.S.C. 501(a) ) as an organization described in section 501(c)(3) of that Code ( 26 U.S.C. 501(c)(3) ); and
+    - **(B)** performs functions similar to the functions described in section 40722 of this title .
+  - **(2)** An asset distributed under this subsection may not be distributed to an individual.
+- **(c)** On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.

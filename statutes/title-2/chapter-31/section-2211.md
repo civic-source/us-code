@@ -5,7 +5,7 @@ usc_section: "2211"
 chapter: 31
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 2211"
-generated_at: "2026-03-29T00:06:10.978Z"
+generated_at: "2026-03-29T02:09:53.762Z"
 ---
 
 # § 2211. Establishment

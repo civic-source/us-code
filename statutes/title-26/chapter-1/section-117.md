@@ -5,28 +5,28 @@ usc_section: "117"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 117"
-generated_at: "2026-03-29T00:31:20.620Z"
+generated_at: "2026-03-29T02:14:00.796Z"
 ---
 
 # § 117. Qualified scholarships
 
-(a) Gross income does not include any amount received as a qualified scholarship by an individual who is a candidate for a degree at an educational organization described in section 170(b)(1)(A)(ii).
-(b) For purposes of this section—
-  (1) The term “qualified scholarship” means any amount received by an individual as a scholarship or fellowship grant to the extent the individual establishes that, in accordance with the conditions of the grant, such amount was used for qualified tuition and related expenses.
-  (2) For purposes of paragraph (1), the term “qualified tuition and related expenses” means—
-    (A) tuition and fees required for the enrollment or attendance of a student at an educational organization described in section 170(b)(1)(A)(ii), and
-    (B) fees, books, supplies, and equipment required for courses of instruction at such an educational organization.
-(c) 
-  (1) Except as provided in paragraph (2), subsections (a) and (d) shall not apply to that portion of any amount received which represents payment for teaching, research, or other services by the student required as a condition for receiving the qualified scholarship or qualified tuition reduction.
-  (2) Paragraph (1) shall not apply to any amount received by an individual under—
-    (A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act,
-    (B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code, or
-    (C) a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in such section).
-(d) 
-  (1) Gross income shall not include any qualified tuition reduction.
-  (2) For purposes of this subsection, the term “qualified tuition reduction” means the amount of any reduction in tuition provided to an employee of an organization described in section 170(b)(1)(A)(ii) for the education (below the graduate level) at such organization (or another organization described in section 170(b)(1)(A)(ii)) of—
-    (A) such employee, or
-    (B) any person treated as an employee (or whose use is treated as an employee use) under the rules of section 132(h).
-  (3) Paragraph (1) shall apply with respect to any qualified tuition reduction provided with respect to any highly compensated employee only if such reduction is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)). For purposes of this paragraph, the term “highly compensated employee” has the meaning given such term by section 414(q).
-  [(4) 
-  (5) In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
+- **(a)** Gross income does not include any amount received as a qualified scholarship by an individual who is a candidate for a degree at an educational organization described in section 170(b)(1)(A)(ii).
+- **(b)** For purposes of this section—
+  - **(1)** The term “qualified scholarship” means any amount received by an individual as a scholarship or fellowship grant to the extent the individual establishes that, in accordance with the conditions of the grant, such amount was used for qualified tuition and related expenses.
+  - **(2)** For purposes of paragraph (1), the term “qualified tuition and related expenses” means—
+    - **(A)** tuition and fees required for the enrollment or attendance of a student at an educational organization described in section 170(b)(1)(A)(ii), and
+    - **(B)** fees, books, supplies, and equipment required for courses of instruction at such an educational organization.
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), subsections (a) and (d) shall not apply to that portion of any amount received which represents payment for teaching, research, or other services by the student required as a condition for receiving the qualified scholarship or qualified tuition reduction.
+  - **(2)** Paragraph (1) shall not apply to any amount received by an individual under—
+    - **(A)** the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act,
+    - **(B)** the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code, or
+    - **(C)** a comprehensive student work-learning-service program (as defined in section 448(e) of the Higher Education Act of 1965) operated by a work college (as defined in such section).
+- **(d)**
+  - **(1)** Gross income shall not include any qualified tuition reduction.
+  - **(2)** For purposes of this subsection, the term “qualified tuition reduction” means the amount of any reduction in tuition provided to an employee of an organization described in section 170(b)(1)(A)(ii) for the education (below the graduate level) at such organization (or another organization described in section 170(b)(1)(A)(ii)) of—
+    - **(A)** such employee, or
+    - **(B)** any person treated as an employee (or whose use is treated as an employee use) under the rules of section 132(h).
+  - **(3)** Paragraph (1) shall apply with respect to any qualified tuition reduction provided with respect to any highly compensated employee only if such reduction is available on substantially the same terms to each member of a group of employees which is defined under a reasonable classification set up by the employer which does not discriminate in favor of highly compensated employees (within the meaning of section 414(q)). For purposes of this paragraph, the term “highly compensated employee” has the meaning given such term by section 414(q).
+  - **[(4)**
+  - **(5)** In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.

@@ -5,22 +5,22 @@ usc_section: "4981"
 chapter: 389
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 4981"
-generated_at: "2026-03-29T00:20:53.169Z"
+generated_at: "2026-03-29T02:10:45.243Z"
 ---
 
 # § 4981. Establishment of loan guarantee program
 
-(a) In order to meet the national security objectives in section 4811(a) of this title , the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
-  (1) The improvement of the protection of the critical infrastructure of the commercial firms.
-  (2) The refinancing of improvements previously made to the protection of the critical infrastructure of the commercial firms.
-(b) For purposes of this section, a qualified commercial firm is a company or other business entity (including a consortium of such companies or other business entities, as determined by the Secretary) that the Secretary determines—
-  (1) conducts a significant level of its research, development, engineering, and manufacturing activities in the United States;
-  (2) is a company or other business entity the majority ownership or control of which is by United States citizens or is a company or other business of a parent company that is incorporated in a country the government of which—
-    (A) encourages the participation of firms so owned or controlled in research and development consortia to which the government of that country provides funding directly or provides funding indirectly through international organizations or agreements; and
-    (B) affords adequate and effective protection for the intellectual property rights of companies incorporated in the United States;
-  (3) provides technology products or services critical to the operations of the Department of Defense;
-  (4) meets standards of prevention of cyberterrorism applicable to the Department of Defense; and
-  (5) agrees to submit the report required under section 4985 of this title .
-(c) The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed $10,000,000, with respect to all borrowers.
-(d) The Secretary shall prescribe regulations setting forth goals for the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
-(e) The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
+- **(a)** In order to meet the national security objectives in section 4811(a) of this title , the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
+  - **(1)** The improvement of the protection of the critical infrastructure of the commercial firms.
+  - **(2)** The refinancing of improvements previously made to the protection of the critical infrastructure of the commercial firms.
+- **(b)** For purposes of this section, a qualified commercial firm is a company or other business entity (including a consortium of such companies or other business entities, as determined by the Secretary) that the Secretary determines—
+  - **(1)** conducts a significant level of its research, development, engineering, and manufacturing activities in the United States;
+  - **(2)** is a company or other business entity the majority ownership or control of which is by United States citizens or is a company or other business of a parent company that is incorporated in a country the government of which—
+    - **(A)** encourages the participation of firms so owned or controlled in research and development consortia to which the government of that country provides funding directly or provides funding indirectly through international organizations or agreements; and
+    - **(B)** affords adequate and effective protection for the intellectual property rights of companies incorporated in the United States;
+  - **(3)** provides technology products or services critical to the operations of the Department of Defense;
+  - **(4)** meets standards of prevention of cyberterrorism applicable to the Department of Defense; and
+  - **(5)** agrees to submit the report required under section 4985 of this title .
+- **(c)** The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed $10,000,000, with respect to all borrowers.
+- **(d)** The Secretary shall prescribe regulations setting forth goals for the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
+- **(e)** The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.

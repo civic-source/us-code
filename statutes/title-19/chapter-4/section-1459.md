@@ -5,23 +5,23 @@ usc_section: "1459"
 chapter: 4
 current_through: "PL 119-73"
 classification: "19 U.S.C. § 1459"
-generated_at: "2026-03-29T00:30:20.137Z"
+generated_at: "2026-03-29T02:12:08.609Z"
 ---
 
 # § 1459. Reporting requirements for individuals
 
-(a) Except as otherwise authorized by the Secretary, individuals arriving in the United States other than by vessel, vehicle, or aircraft shall—
-  (1) enter the United States only at a border crossing point designated by the Secretary; and
-  (2) immediately—
-    (A) report the arrival, and
-    (B) present themselves, and all articles accompanying them for inspection;
-(b) Except as otherwise authorized by the Secretary, passengers and crew members aboard a conveyance the arrival in the United States of which was made or reported in accordance with section 1433 or 1644 of this title or section 1644a(b)(1) or (c)(1) of this title, or in accordance with applicable regulations, shall remain aboard the conveyance until authorized to depart the conveyance by the appropriate customs officer. Upon departing the conveyance, the passengers and crew members shall immediately report to the designated customs facility with all articles accompanying them.
-(c) Except as otherwise authorized by the Secretary, individuals aboard a conveyance the arrival in the United States of which was not made or reported in accordance with the laws or regulations referred to in subsection (b) of this section shall immediately notify a customs officer and report their arrival, together with appropriate information concerning the conveyance on or in which they arrived, and present their property for customs examination and inspection.
-(d) Except as otherwise authorized by the Secretary, any person required to report to a designated customs facility under subsection (a), (b), or (c) of this section may not depart that facility until authorized to do so by the appropriate customs officer.
-(e) It is unlawful—
-  (1) to fail to comply with subsection (a), (b), or (c) of this section;
-  (2) to present any forged, altered, or false document or paper to a customs officer under subsection (a), (b), or (c) of this section without revealing the facts;
-  (3) to violate subsection (d) of this section; or
-  (4) to fail to comply with, or violate, any regulation prescribed to carry out subsection (a), (b), (c), or (d) of this section.
-(f) Any individual who violates any provision of subsection (e) of this section is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation.
-(g) In addition to being liable for a civil penalty under subsection (f) of this section, any individual who intentionally violates any provision of subsection (e) of this section is, upon conviction, liable for a fine of not more than $5,000, or imprisonment for not more than 1 year, or both.
+- **(a)** Except as otherwise authorized by the Secretary, individuals arriving in the United States other than by vessel, vehicle, or aircraft shall—
+  - **(1)** enter the United States only at a border crossing point designated by the Secretary; and
+  - **(2)** immediately—
+    - **(A)** report the arrival, and
+    - **(B)** present themselves, and all articles accompanying them for inspection;
+- **(b)** Except as otherwise authorized by the Secretary, passengers and crew members aboard a conveyance the arrival in the United States of which was made or reported in accordance with section 1433 or 1644 of this title or section 1644a(b)(1) or (c)(1) of this title, or in accordance with applicable regulations, shall remain aboard the conveyance until authorized to depart the conveyance by the appropriate customs officer. Upon departing the conveyance, the passengers and crew members shall immediately report to the designated customs facility with all articles accompanying them.
+- **(c)** Except as otherwise authorized by the Secretary, individuals aboard a conveyance the arrival in the United States of which was not made or reported in accordance with the laws or regulations referred to in subsection (b) of this section shall immediately notify a customs officer and report their arrival, together with appropriate information concerning the conveyance on or in which they arrived, and present their property for customs examination and inspection.
+- **(d)** Except as otherwise authorized by the Secretary, any person required to report to a designated customs facility under subsection (a), (b), or (c) of this section may not depart that facility until authorized to do so by the appropriate customs officer.
+- **(e)** It is unlawful—
+  - **(1)** to fail to comply with subsection (a), (b), or (c) of this section;
+  - **(2)** to present any forged, altered, or false document or paper to a customs officer under subsection (a), (b), or (c) of this section without revealing the facts;
+  - **(3)** to violate subsection (d) of this section; or
+  - **(4)** to fail to comply with, or violate, any regulation prescribed to carry out subsection (a), (b), (c), or (d) of this section.
+- **(f)** Any individual who violates any provision of subsection (e) of this section is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation.
+- **(g)** In addition to being liable for a civil penalty under subsection (f) of this section, any individual who intentionally violates any provision of subsection (e) of this section is, upon conviction, liable for a fine of not more than $5,000, or imprisonment for not more than 1 year, or both.

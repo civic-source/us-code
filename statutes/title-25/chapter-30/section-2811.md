@@ -5,14 +5,14 @@ usc_section: "2811"
 chapter: 30
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2811"
-generated_at: "2026-03-29T00:30:38.746Z"
+generated_at: "2026-03-29T02:13:20.955Z"
 ---
 
 # § 2811. Native American Issues Coordinator
 
-(a) There is established in the Executive Office for United States Attorneys of the Department of Justice a position to be known as the “Native American Issues Coordinator”.
-(b) The Native American Issues Coordinator shall—
-  (1) coordinate with the United States Attorneys that have authority to prosecute crimes in Indian country;
-  (2) coordinate prosecutions of crimes of national significance in Indian country, as determined by the Attorney General;
-  (3) coordinate as necessary with other components of the Department of Justice and any relevant advisory groups to the Attorney General or the Deputy Attorney General; and
-  (4) carry out such other duties as the Attorney General may prescribe.
+- **(a)** There is established in the Executive Office for United States Attorneys of the Department of Justice a position to be known as the “Native American Issues Coordinator”.
+- **(b)** The Native American Issues Coordinator shall—
+  - **(1)** coordinate with the United States Attorneys that have authority to prosecute crimes in Indian country;
+  - **(2)** coordinate prosecutions of crimes of national significance in Indian country, as determined by the Attorney General;
+  - **(3)** coordinate as necessary with other components of the Department of Justice and any relevant advisory groups to the Attorney General or the Deputy Attorney General; and
+  - **(4)** carry out such other duties as the Attorney General may prescribe.

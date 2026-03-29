@@ -5,7 +5,7 @@ usc_section: "79"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 79"
-generated_at: "2026-03-29T00:06:10.872Z"
+generated_at: "2026-03-29T02:09:53.639Z"
 ---
 
 # § 79. Transferred

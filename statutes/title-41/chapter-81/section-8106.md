@@ -5,7 +5,7 @@ usc_section: "8106"
 chapter: 81
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 8106"
-generated_at: "2026-03-29T00:32:22.615Z"
+generated_at: "2026-03-29T02:15:00.470Z"
 ---
 
 # § 8106. Regulations

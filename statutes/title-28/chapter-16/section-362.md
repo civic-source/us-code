@@ -5,7 +5,7 @@ usc_section: "362"
 chapter: 16
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 362"
-generated_at: "2026-03-29T00:31:24.139Z"
+generated_at: "2026-03-29T02:14:04.515Z"
 ---
 
 # § 362. Other provisions and rules not affected

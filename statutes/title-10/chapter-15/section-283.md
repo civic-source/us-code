@@ -5,34 +5,34 @@ usc_section: "283"
 chapter: 15
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 283"
-generated_at: "2026-03-29T00:20:52.829Z"
+generated_at: "2026-03-29T02:10:44.850Z"
 ---
 
 # § 283. Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities
 
-(a) Upon the request of the Attorney General, the Secretary of Defense may provide assistance in support of Department of Justice activities related to the enforcement of section 2332f of title 18 during situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities.
-(b) Military explosive ordnance disposal units providing rendering-safe support to Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 in emergency situations involving weapons of mass destruction shall provide such support in a manner consistent with the provisions of section 382 1 1 See References in Text note below. of this title.
-(c) 
-  (1) The Secretary of Defense and the Attorney General shall jointly prescribe regulations concerning the types of assistance that may be provided under this section. Such regulations shall also describe the actions that Department of Defense personnel may take in circumstances incident to the provision of assistance under this section.
-  (2) 
-    (A) Except as provided in subparagraph (B), the regulations prescribed under paragraph (1) may not authorize any of the following actions:
-      (i) Arrest.
-      (ii) Any direct participation in conducting a search for or seizure of evidence related to a violation of section 175, 229, or 2332a of title 18.
-      (iii) Any direct participation in the collection of intelligence for law enforcement purposes.
-    (B) Such regulations may authorize an action described in subparagraph (A) to be taken under the following conditions:
-      (i) The action is considered necessary for the immediate protection of human life, and civilian law enforcement officials are not capable of taking the action.
-      (ii) The action is otherwise authorized under subsection (a) or under otherwise applicable law.
-(d) The term “explosive ordnance”—
-  (1) means—
-    (A) bombs and warheads;
-    (B) guided and ballistic missiles;
-    (C) artillery, mortar, rocket, and small arms ammunition;
-    (D) all mines, torpedoes, and depth charges;
-    (E) grenades demolition charges;
-    (F) pyrotechnics;
-    (G) clusters and dispensers;
-    (H) cartridge- and propellant- actuated devices;
-    (I) electroexplosives devices;
-    (J) clandestine and improvised explosive devices; and
-    (K) all similar or related items or components explosive in nature; and
-  (2) includes all munitions containing explosives, propellants, nuclear fission or fusion materials, and biological and chemical agents.
+- **(a)** Upon the request of the Attorney General, the Secretary of Defense may provide assistance in support of Department of Justice activities related to the enforcement of section 2332f of title 18 during situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities.
+- **(b)** Military explosive ordnance disposal units providing rendering-safe support to Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 in emergency situations involving weapons of mass destruction shall provide such support in a manner consistent with the provisions of section 382 1 1 See References in Text note below. of this title.
+- **(c)**
+  - **(1)** The Secretary of Defense and the Attorney General shall jointly prescribe regulations concerning the types of assistance that may be provided under this section. Such regulations shall also describe the actions that Department of Defense personnel may take in circumstances incident to the provision of assistance under this section.
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), the regulations prescribed under paragraph (1) may not authorize any of the following actions:
+      - **(i)** Arrest.
+      - **(ii)** Any direct participation in conducting a search for or seizure of evidence related to a violation of section 175, 229, or 2332a of title 18.
+      - **(iii)** Any direct participation in the collection of intelligence for law enforcement purposes.
+    - **(B)** Such regulations may authorize an action described in subparagraph (A) to be taken under the following conditions:
+      - **(i)** The action is considered necessary for the immediate protection of human life, and civilian law enforcement officials are not capable of taking the action.
+      - **(ii)** The action is otherwise authorized under subsection (a) or under otherwise applicable law.
+- **(d)** The term “explosive ordnance”—
+  - **(1)** means—
+    - **(A)** bombs and warheads;
+    - **(B)** guided and ballistic missiles;
+    - **(C)** artillery, mortar, rocket, and small arms ammunition;
+    - **(D)** all mines, torpedoes, and depth charges;
+    - **(E)** grenades demolition charges;
+    - **(F)** pyrotechnics;
+    - **(G)** clusters and dispensers;
+    - **(H)** cartridge- and propellant- actuated devices;
+    - **(I)** electroexplosives devices;
+    - **(J)** clandestine and improvised explosive devices; and
+    - **(K)** all similar or related items or components explosive in nature; and
+  - **(2)** includes all munitions containing explosives, propellants, nuclear fission or fusion materials, and biological and chemical agents.

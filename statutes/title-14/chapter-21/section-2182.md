@@ -5,27 +5,27 @@ usc_section: "2182"
 chapter: 21
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 2182"
-generated_at: "2026-03-29T00:29:25.018Z"
+generated_at: "2026-03-29T02:11:23.799Z"
 ---
 
 # § 2182. Multirater assessment of certain personnel
 
-(a) 
-  (1) Commencing not later than one year after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant shall develop and implement a plan to conduct every two years a multirater assessment for each of the following:
-    (A) Each flag officer of the Coast Guard.
-    (B) Each member of the Senior Executive Service of the Coast Guard.
-    (C) Each officer of the Coast Guard nominated for promotion to the grade of flag officer.
-  (2) Each officer of the Coast Guard shall undergo a multirater assessment before promotion to—
-    (A) the grade of O–4;
-    (B) the grade of O–5; and
-    (C) the grade of O–6.
-  (3) Each enlisted member of the Coast Guard shall undergo a multirater assessment before advancement to—
-    (A) the grade of E–7;
-    (B) the grade of E–8;
-    (C) the grade of E–9; and
-    (D) the grade of E–10.
-  (4) An individual assessed shall not be permitted to select the peers and subordinates who provide opinions for the multirater assessment of such individual.
-  (5) 
-    (A) Following an assessment of an individual pursuant to paragraphs (1) through (3), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
-    (B) The supervisor of the individual assessed shall be provided with the results of the multirater assessment.
-(b) In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
+- **(a)**
+  - **(1)** Commencing not later than one year after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant shall develop and implement a plan to conduct every two years a multirater assessment for each of the following:
+    - **(A)** Each flag officer of the Coast Guard.
+    - **(B)** Each member of the Senior Executive Service of the Coast Guard.
+    - **(C)** Each officer of the Coast Guard nominated for promotion to the grade of flag officer.
+  - **(2)** Each officer of the Coast Guard shall undergo a multirater assessment before promotion to—
+    - **(A)** the grade of O–4;
+    - **(B)** the grade of O–5; and
+    - **(C)** the grade of O–6.
+  - **(3)** Each enlisted member of the Coast Guard shall undergo a multirater assessment before advancement to—
+    - **(A)** the grade of E–7;
+    - **(B)** the grade of E–8;
+    - **(C)** the grade of E–9; and
+    - **(D)** the grade of E–10.
+  - **(4)** An individual assessed shall not be permitted to select the peers and subordinates who provide opinions for the multirater assessment of such individual.
+  - **(5)**
+    - **(A)** Following an assessment of an individual pursuant to paragraphs (1) through (3), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+    - **(B)** The supervisor of the individual assessed shall be provided with the results of the multirater assessment.
+- **(b)** In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.

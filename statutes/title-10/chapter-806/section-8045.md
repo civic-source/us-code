@@ -5,7 +5,7 @@ usc_section: "8045"
 chapter: 806
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8045"
-generated_at: "2026-03-29T00:20:53.211Z"
+generated_at: "2026-03-29T02:10:45.294Z"
 ---
 
 # § 8045. Deputy Commandants

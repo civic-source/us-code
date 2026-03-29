@@ -5,12 +5,12 @@ usc_section: "4501"
 chapter: 45
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 4501"
-generated_at: "2026-03-29T00:32:22.605Z"
+generated_at: "2026-03-29T02:15:00.462Z"
 ---
 
 # § 4501. Authority of executive agency
 
 An executive agency may—
 
-  (1) make advance, partial, progress or other payments under contracts for property or services made by the agency; and
-  (2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+  - **(1)** make advance, partial, progress or other payments under contracts for property or services made by the agency; and
+  - **(2)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.

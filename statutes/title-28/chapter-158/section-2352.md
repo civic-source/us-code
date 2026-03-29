@@ -5,7 +5,7 @@ usc_section: "2352"
 chapter: 158
 current_through: "PL 119-73"
 classification: "28 U.S.C. § 2352"
-generated_at: "2026-03-29T00:31:24.199Z"
+generated_at: "2026-03-29T02:14:04.575Z"
 ---
 
 # [§ 2352. Repealed. Pub. L. 89–773, § 4 , Nov. 6, 1966 , 80 Stat. 1323 ]

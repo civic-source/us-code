@@ -5,12 +5,12 @@ usc_section: "1397i"
 chapter: 7
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1397i"
-generated_at: "2026-03-29T00:32:53.587Z"
+generated_at: "2026-03-29T02:15:36.399Z"
 ---
 
 # § 1397i. Additional funding for aging and disability services programs
 
-(a) In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $276,000,000, to remain available until expended, to carry out the programs described in division B of this subchapter.
-(b) Of the amounts made available by subsection (a)—
-  (1) $88,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2021, of which not less than an amount equal to $100,0000,000 minus the amount previously provided in fiscal year 2021 to carry out section 1397m–1(b) of this title shall be made available to carry out such section; and
-  (2) $188,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2022, of which not less than $100,000,000 shall be for activities described in section 1397m–1(b) of this title .
+- **(a)** In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $276,000,000, to remain available until expended, to carry out the programs described in division B of this subchapter.
+- **(b)** Of the amounts made available by subsection (a)—
+  - **(1)** $88,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2021, of which not less than an amount equal to $100,0000,000 minus the amount previously provided in fiscal year 2021 to carry out section 1397m–1(b) of this title shall be made available to carry out such section; and
+  - **(2)** $188,000,000 shall be made available to carry out the programs described in division B of this subchapter in fiscal year 2022, of which not less than $100,000,000 shall be for activities described in section 1397m–1(b) of this title .

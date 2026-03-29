@@ -5,7 +5,7 @@ usc_section: "14013"
 chapter: 136
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 14013"
-generated_at: "2026-03-29T00:32:54.334Z"
+generated_at: "2026-03-29T02:15:37.278Z"
 ---
 
 # § 14013. Omitted

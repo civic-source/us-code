@@ -5,7 +5,7 @@ usc_section: "3664"
 chapter: 38
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 3664"
-generated_at: "2026-03-29T00:30:38.764Z"
+generated_at: "2026-03-29T02:13:20.977Z"
 ---
 
 # § 3664. No offset

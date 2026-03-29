@@ -5,14 +5,14 @@ usc_section: "795l"
 chapter: 16
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 795l"
-generated_at: "2026-03-29T00:31:27.606Z"
+generated_at: "2026-03-29T02:14:09.399Z"
 ---
 
 # § 795l. Restriction
 
 Each State agency designated under section 795k(b)(1) of this title shall collect the information required by section 721(a)(10) of this title separately for—
 
-  (1) eligible individuals receiving supported employment services under this subchapter;
-  (2) eligible individuals receiving supported employment services under subchapter I;
-  (3) eligible youth receiving supported employment services under this subchapter; and
-  (4) eligible youth receiving supported employment services under subchapter I.
+  - **(1)** eligible individuals receiving supported employment services under this subchapter;
+  - **(2)** eligible individuals receiving supported employment services under subchapter I;
+  - **(3)** eligible youth receiving supported employment services under this subchapter; and
+  - **(4)** eligible youth receiving supported employment services under subchapter I.

@@ -5,10 +5,10 @@ usc_section: "10207"
 chapter: 1007
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 10207"
-generated_at: "2026-03-29T00:20:53.271Z"
+generated_at: "2026-03-29T02:10:45.358Z"
 ---
 
 # § 10207. Mobilization forces: maintenance
 
-(a) Whenever units or members of the reserve components are ordered to active duty (other than for training) during a period of partial mobilization, the Secretary concerned shall continue to maintain mobilization forces by planning and budgeting for the continued organization and training of the reserve components not mobilized, and make the fullest practicable use of the Federal facilities vacated by mobilized units, consistent with approved joint mobilization plans.
-(b) In this section, the term “partial mobilization” means the mobilization resulting from action by Congress or the President, under any law, to bring units of any reserve component, and members not assigned to units organized to serve as units, to active duty for a limited expansion of the active armed forces.
+- **(a)** Whenever units or members of the reserve components are ordered to active duty (other than for training) during a period of partial mobilization, the Secretary concerned shall continue to maintain mobilization forces by planning and budgeting for the continued organization and training of the reserve components not mobilized, and make the fullest practicable use of the Federal facilities vacated by mobilized units, consistent with approved joint mobilization plans.
+- **(b)** In this section, the term “partial mobilization” means the mobilization resulting from action by Congress or the President, under any law, to bring units of any reserve component, and members not assigned to units organized to serve as units, to active duty for a limited expansion of the active armed forces.

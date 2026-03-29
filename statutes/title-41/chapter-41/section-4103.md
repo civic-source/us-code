@@ -5,34 +5,34 @@ usc_section: "4103"
 chapter: 41
 current_through: "PL 119-73"
 classification: "41 U.S.C. § 4103"
-generated_at: "2026-03-29T00:32:22.600Z"
+generated_at: "2026-03-29T02:15:00.460Z"
 ---
 
 # § 4103. General authority
 
-(a) Subject to the requirements of this section, section 4106 of this title , and other applicable law, the head of an executive agency may enter into a task or delivery order contract for procurement of services or property.
-(b) The solicitation for a task or delivery order contract shall include—
-  (1) the period of the contract, including the number of options to extend the contract and the period for which the contract may be extended under each option;
-  (2) the maximum quantity or dollar value of the services or property to be procured under the contract; and
-  (3) a statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
-(c) The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in section 3304(a) of this title applies to the contract and the use of those procedures is approved in accordance with section 3304(e) of this title .
-(d) 
-  (1) The head of an executive agency may exercise the authority provided in this section—
-    (A) to award a single task or delivery order contract; or
-    (B) if the solicitation states that the head of the executive agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to 2 or more sources.
-  (2) No determination under section 3303 of this title is required for an award of multiple task or delivery order contracts under paragraph (1)(B).
-  (3) 
-    (A) No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the executive agency determines in writing that—
-      (i) the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
-      (ii) the contract provides only for firm, fixed price task orders or delivery orders for—
-        (I) products for which unit prices are established in the contract; or
-        (II) services for which prices are established in the contract for the specific tasks to be performed;
-      (iii) only one source is qualified and capable of performing the work at a reasonable price to the Federal Government; or
-      (iv) because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
-    (B) The head of the executive agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
-  (4) Regulations implementing this subsection shall establish—
-    (A) a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under paragraph (1)(B); and
-    (B) criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
-(e) A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
-(f) Except as otherwise specifically provided in section 4105 of this title , this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in section 1105(g) of title 31 ).
-(g) Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
+- **(a)** Subject to the requirements of this section, section 4106 of this title , and other applicable law, the head of an executive agency may enter into a task or delivery order contract for procurement of services or property.
+- **(b)** The solicitation for a task or delivery order contract shall include—
+  - **(1)** the period of the contract, including the number of options to extend the contract and the period for which the contract may be extended under each option;
+  - **(2)** the maximum quantity or dollar value of the services or property to be procured under the contract; and
+  - **(3)** a statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
+- **(c)** The head of an executive agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in section 3304(a) of this title applies to the contract and the use of those procedures is approved in accordance with section 3304(e) of this title .
+- **(d)**
+  - **(1)** The head of an executive agency may exercise the authority provided in this section—
+    - **(A)** to award a single task or delivery order contract; or
+    - **(B)** if the solicitation states that the head of the executive agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to 2 or more sources.
+  - **(2)** No determination under section 3303 of this title is required for an award of multiple task or delivery order contracts under paragraph (1)(B).
+  - **(3)**
+    - **(A)** No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the executive agency determines in writing that—
+      - **(i)** the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+      - **(ii)** the contract provides only for firm, fixed price task orders or delivery orders for—
+        - **(I)** products for which unit prices are established in the contract; or
+        - **(II)** services for which prices are established in the contract for the specific tasks to be performed;
+      - **(iii)** only one source is qualified and capable of performing the work at a reasonable price to the Federal Government; or
+      - **(iv)** because of exceptional circumstances, it is necessary in the public interest to award the contract to a single source.
+    - **(B)** The head of the executive agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).
+  - **(4)** Regulations implementing this subsection shall establish—
+    - **(A)** a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under paragraph (1)(B); and
+    - **(B)** criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
+- **(e)** A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+- **(f)** Except as otherwise specifically provided in section 4105 of this title , this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in section 1105(g) of title 31 ).
+- **(g)** Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.

@@ -5,10 +5,10 @@ usc_section: "1862a"
 chapter: 28
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 1862a"
-generated_at: "2026-03-29T00:06:10.964Z"
+generated_at: "2026-03-29T02:09:53.741Z"
 ---
 
 # § 1862a. Use of construction project funds to reimburse Capitol Police for related overtime costs
 
-(a) The Architect of the Capitol shall transfer amounts made available for construction projects during a fiscal year to the applicable appropriations accounts of the United States Capitol Police in order to reimburse the Capitol Police for overtime costs incurred in connection with such projects.
-(b) This section shall apply with respect to fiscal year 2013 and each succeeding fiscal year.
+- **(a)** The Architect of the Capitol shall transfer amounts made available for construction projects during a fiscal year to the applicable appropriations accounts of the United States Capitol Police in order to reimburse the Capitol Police for overtime costs incurred in connection with such projects.
+- **(b)** This section shall apply with respect to fiscal year 2013 and each succeeding fiscal year.

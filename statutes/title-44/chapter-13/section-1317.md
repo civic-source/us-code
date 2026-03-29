@@ -5,7 +5,7 @@ usc_section: "1317"
 chapter: 13
 current_through: "PL 119-73"
 classification: "44 U.S.C. § 1317"
-generated_at: "2026-03-29T00:32:58.545Z"
+generated_at: "2026-03-29T02:15:49.322Z"
 ---
 
 # § 1317. Foreign Relations

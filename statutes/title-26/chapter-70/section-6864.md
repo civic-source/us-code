@@ -5,7 +5,7 @@ usc_section: "6864"
 chapter: 70
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 6864"
-generated_at: "2026-03-29T00:31:21.079Z"
+generated_at: "2026-03-29T02:14:01.372Z"
 ---
 
 # § 6864. Termination of extended period for payment in case of carryback

@@ -5,30 +5,30 @@ usc_section: "8003"
 chapter: 106
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8003"
-generated_at: "2026-03-29T00:29:41.936Z"
+generated_at: "2026-03-29T02:11:34.439Z"
 ---
 
 # § 8003. Federal swimming pool and spa drain cover standard
 
-(a) The requirements described in subsection (b) shall be treated as a consumer product safety rule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act ( 15 U.S.C. 2051 et seq.).
-(b) Effective 1 year after December 19, 2007 , each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
-(c) 
-  (1) 
-    (A) Beginning 1 year after December 19, 2007 —
-      (i) each public pool and spa in the United States shall be equipped with anti-entrapment devices or systems that comply with the ASME/ANSI A112.19.8 performance standard, or any successor standard; and
-      (ii) each public pool and spa in the United States with a single main drain other than an unblockable drain shall be equipped, at a minimum, with 1 or more of the following devices or systems designed to prevent entrapment by pool or spa drains that meets the requirements of subparagraph (B):
-        (I) A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
-        (II) A suction-limiting vent system with a tamper-resistant atmospheric opening.
-        (III) A gravity drainage system that utilizes a collector tank.
-        (IV) An automatic pump shut-off system.
-        (V) A device or system that disables the drain.
-        (VI) Any other system determined by the Commission to be equally effective as, or better than, the systems described in subclauses (I) through (V) of this clause at preventing or eliminating the risk of injury or death associated with pool drainage systems.
-    (B) Any device or system described in subparagraph (A)(ii) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
-  (2) In this subsection, the term “public pool and spa” means a swimming pool or spa that is—
-    (A) open to the public generally, whether for a fee or free of charge;
-    (B) open exclusively to—
-      (i) members of an organization and their guests;
-      (ii) residents of a multi-unit apartment building, apartment complex, residential real estate development, or other multi-family residential area (other than a municipality, township, or other local government jurisdiction); or
-      (iii) patrons of a hotel or other public accommodations facility; or
-    (C) operated by the Federal Government (or by a concessionaire on behalf of the Federal Government) for the benefit of members of the Armed Forces and their dependents or employees of any department or agency and their dependents.
-  (3) Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act ( 15 U.S.C. 2068(a)(1) ) and may also be enforced under section 17 of that Act ( 15 U.S.C. 2066 ).
+- **(a)** The requirements described in subsection (b) shall be treated as a consumer product safety rule issued by the Consumer Product Safety Commission under the Consumer Product Safety Act ( 15 U.S.C. 2051 et seq.).
+- **(b)** Effective 1 year after December 19, 2007 , each swimming pool or spa drain cover manufactured, distributed, or entered into commerce in the United States shall conform to the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard regulating such swimming pool or drain cover. If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public.
+- **(c)**
+  - **(1)**
+    - **(A)** Beginning 1 year after December 19, 2007 —
+      - **(i)** each public pool and spa in the United States shall be equipped with anti-entrapment devices or systems that comply with the ASME/ANSI A112.19.8 performance standard, or any successor standard; and
+      - **(ii)** each public pool and spa in the United States with a single main drain other than an unblockable drain shall be equipped, at a minimum, with 1 or more of the following devices or systems designed to prevent entrapment by pool or spa drains that meets the requirements of subparagraph (B):
+        - **(I)** A safety vacuum release system which ceases operation of the pump, reverses the circulation flow, or otherwise provides a vacuum release at a suction outlet when a blockage is detected, that has been tested by an independent third party and found to conform to ASME/ANSI standard A112.19.17 or ASTM standard F2387.
+        - **(II)** A suction-limiting vent system with a tamper-resistant atmospheric opening.
+        - **(III)** A gravity drainage system that utilizes a collector tank.
+        - **(IV)** An automatic pump shut-off system.
+        - **(V)** A device or system that disables the drain.
+        - **(VI)** Any other system determined by the Commission to be equally effective as, or better than, the systems described in subclauses (I) through (V) of this clause at preventing or eliminating the risk of injury or death associated with pool drainage systems.
+    - **(B)** Any device or system described in subparagraph (A)(ii) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
+  - **(2)** In this subsection, the term “public pool and spa” means a swimming pool or spa that is—
+    - **(A)** open to the public generally, whether for a fee or free of charge;
+    - **(B)** open exclusively to—
+      - **(i)** members of an organization and their guests;
+      - **(ii)** residents of a multi-unit apartment building, apartment complex, residential real estate development, or other multi-family residential area (other than a municipality, township, or other local government jurisdiction); or
+      - **(iii)** patrons of a hotel or other public accommodations facility; or
+    - **(C)** operated by the Federal Government (or by a concessionaire on behalf of the Federal Government) for the benefit of members of the Armed Forces and their dependents or employees of any department or agency and their dependents.
+  - **(3)** Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act ( 15 U.S.C. 2068(a)(1) ) and may also be enforced under section 17 of that Act ( 15 U.S.C. 2066 ).

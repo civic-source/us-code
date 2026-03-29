@@ -5,7 +5,7 @@ usc_section: "3813"
 chapter: 69
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 3813"
-generated_at: "2026-03-29T00:28:58.184Z"
+generated_at: "2026-03-29T02:10:17.015Z"
 ---
 
 # § 3813. Authorization of appropriations

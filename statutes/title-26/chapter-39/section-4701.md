@@ -5,21 +5,21 @@ usc_section: "4701"
 chapter: 39
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 4701"
-generated_at: "2026-03-29T00:31:20.957Z"
+generated_at: "2026-03-29T02:14:01.222Z"
 ---
 
 # § 4701. Tax on issuer of registration-required obligation not in registered form
 
-(a) In the case of any person who issues a registration-required obligation which is not in registered form, there is hereby imposed on such person on the issuance of such obligation a tax in an amount equal to the product of—
-  (1) 1 percent of the principal amount of such obligation, multiplied by
-  (2) the number of calendar years (or portions thereof) during the period beginning on the date of issuance of such obligation and ending on the date of maturity.
-(b) For purposes of this section—
-  (1) 
-    (A) The term “registration-required obligation” has the same meaning as when used in section 163(f), except that such term shall not include any obligation which—
-      (i) is required to be registered under section 149(a), or
-      (ii) is described in subparagraph (B).
-    (B) An obligation is described in this subparagraph if—
-      (i) there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person,
-      (ii) interest on such obligation is payable only outside the United States and its possessions, and
-      (iii) on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.
-  (2) The term “registered form” has the same meaning as when used in section 163(f).
+- **(a)** In the case of any person who issues a registration-required obligation which is not in registered form, there is hereby imposed on such person on the issuance of such obligation a tax in an amount equal to the product of—
+  - **(1)** 1 percent of the principal amount of such obligation, multiplied by
+  - **(2)** the number of calendar years (or portions thereof) during the period beginning on the date of issuance of such obligation and ending on the date of maturity.
+- **(b)** For purposes of this section—
+  - **(1)**
+    - **(A)** The term “registration-required obligation” has the same meaning as when used in section 163(f), except that such term shall not include any obligation which—
+      - **(i)** is required to be registered under section 149(a), or
+      - **(ii)** is described in subparagraph (B).
+    - **(B)** An obligation is described in this subparagraph if—
+      - **(i)** there are arrangements reasonably designed to ensure that such obligation will be sold (or resold in connection with the original issue) only to a person who is not a United States person,
+      - **(ii)** interest on such obligation is payable only outside the United States and its possessions, and
+      - **(iii)** on the face of such obligation there is a statement that any United States person who holds such obligation will be subject to limitations under the United States income tax laws.
+  - **(2)** The term “registered form” has the same meaning as when used in section 163(f).

@@ -5,7 +5,7 @@ usc_section: "5814"
 chapter: 88
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 5814"
-generated_at: "2026-03-29T00:28:58.211Z"
+generated_at: "2026-03-29T02:10:17.048Z"
 ---
 
 # § 5814. Authorization of appropriations

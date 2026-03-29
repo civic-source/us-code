@@ -5,13 +5,13 @@ usc_section: "3324"
 chapter: 45
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 3324"
-generated_at: "2026-03-29T00:33:18.192Z"
+generated_at: "2026-03-29T02:16:14.785Z"
 ---
 
 # § 3324. Prohibition on using journalists as agents or assets
 
-(a) It is the policy of the United States that an element of the Intelligence Community may not use as an agent or asset for the purposes of collecting intelligence any individual who—
-  (1) is authorized by contract or by the issuance of press credentials to represent himself or herself, either in the United States or abroad, as a correspondent of a United States news media organization; or
-  (2) is officially recognized by a foreign government as a representative of a United States media organization.
-(b) Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
-(c) Subsection (a) shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.
+- **(a)** It is the policy of the United States that an element of the Intelligence Community may not use as an agent or asset for the purposes of collecting intelligence any individual who—
+  - **(1)** is authorized by contract or by the issuance of press credentials to represent himself or herself, either in the United States or abroad, as a correspondent of a United States news media organization; or
+  - **(2)** is officially recognized by a foreign government as a representative of a United States media organization.
+- **(b)** Pursuant to such procedures as the President may prescribe, the President or the Director of Central Intelligence may waive subsection (a) in the case of an individual if the President or the Director, as the case may be, makes a written determination that the waiver is necessary to address the overriding national security interest of the United States. The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate shall be notified of any waiver under this subsection.
+- **(c)** Subsection (a) shall not be construed to prohibit the voluntary cooperation of any person who is aware that the cooperation is being provided to an element of the United States Intelligence Community.

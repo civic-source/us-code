@@ -5,10 +5,10 @@ usc_section: "75f"
 chapter: 3
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 75f"
-generated_at: "2026-03-29T00:07:03.096Z"
+generated_at: "2026-03-29T02:12:17.133Z"
 ---
 
 # § 75f. Director; appointment and compensation; officers and employees
 
-(a) The Board may appoint and fix the compensation and duties of a director of the Gallery, and his appointment and salary shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The Board may employ such other officers and employees as may be necessary for the efficient administration, operation, and maintenance of the Gallery.
-(b) The Board may delegate to the Secretary of the Smithsonian Institution, as well as to the Commission, any of its functions pursuant to subsection (a) of this section.
+- **(a)** The Board may appoint and fix the compensation and duties of a director of the Gallery, and his appointment and salary shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The Board may employ such other officers and employees as may be necessary for the efficient administration, operation, and maintenance of the Gallery.
+- **(b)** The Board may delegate to the Secretary of the Smithsonian Institution, as well as to the Commission, any of its functions pursuant to subsection (a) of this section.

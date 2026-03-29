@@ -5,15 +5,15 @@ usc_section: "935"
 chapter: 20
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 935"
-generated_at: "2026-03-29T00:06:10.940Z"
+generated_at: "2026-03-29T02:09:53.707Z"
 ---
 
 # § 935. Calculating a sequestration
 
-(a) 
-  (1) OMB shall calculate the uniform percentage by which the budgetary resources of nonexempt direct spending programs are to be sequestered such that the outlay savings resulting from that sequestration, as calculated under subsection (b), shall offset the budget-year debit, if any, on the applicable PAYGO scorecard. If the uniform percentage calculated under the prior sentence exceeds 4 percent, the Medicare programs described in section 906(d) of this title shall be reduced by 4 percent and the uniform percentage by which the budgetary resources of all other nonexempt direct spending programs are to be sequestered shall be increased, as necessary, so that the sequestration of Medicare and of all other nonexempt direct spending programs together produce the required outlay savings.
-  (2) Subject to the exemptions set forth in section 11, 1 1 See References in Text note below. OMB shall determine the uniform percentage required under paragraph (1) with respect to programs and activities contained in the unified budget only.
-(b) In determining the amount by which a sequestration offsets a budget-year debit, OMB shall count—
-  (1) the amount by which the sequestration in a crop year of crop support payments, pursuant to section 906(j) of this title , reduces outlays in the budget year and the subsequent fiscal year;
-  (2) the amount by which the sequestration of Medicare payments in the 12-month period following the sequestration order, pursuant to section 906(d) of this title , reduces outlays in the budget year and the subsequent fiscal year; and
-  (3) the amount by which the sequestration in the budget year of the budgetary resources of other nonexempt mandatory programs reduces outlays in the budget year and in the subsequent fiscal year.
+- **(a)**
+  - **(1)** OMB shall calculate the uniform percentage by which the budgetary resources of nonexempt direct spending programs are to be sequestered such that the outlay savings resulting from that sequestration, as calculated under subsection (b), shall offset the budget-year debit, if any, on the applicable PAYGO scorecard. If the uniform percentage calculated under the prior sentence exceeds 4 percent, the Medicare programs described in section 906(d) of this title shall be reduced by 4 percent and the uniform percentage by which the budgetary resources of all other nonexempt direct spending programs are to be sequestered shall be increased, as necessary, so that the sequestration of Medicare and of all other nonexempt direct spending programs together produce the required outlay savings.
+  - **(2)** Subject to the exemptions set forth in section 11, 1 1 See References in Text note below. OMB shall determine the uniform percentage required under paragraph (1) with respect to programs and activities contained in the unified budget only.
+- **(b)** In determining the amount by which a sequestration offsets a budget-year debit, OMB shall count—
+  - **(1)** the amount by which the sequestration in a crop year of crop support payments, pursuant to section 906(j) of this title , reduces outlays in the budget year and the subsequent fiscal year;
+  - **(2)** the amount by which the sequestration of Medicare payments in the 12-month period following the sequestration order, pursuant to section 906(d) of this title , reduces outlays in the budget year and the subsequent fiscal year; and
+  - **(3)** the amount by which the sequestration in the budget year of the budgetary resources of other nonexempt mandatory programs reduces outlays in the budget year and in the subsequent fiscal year.

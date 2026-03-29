@@ -5,14 +5,14 @@ usc_section: "798"
 chapter: 12
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 798"
-generated_at: "2026-03-29T00:29:52.632Z"
+generated_at: "2026-03-29T02:11:53.675Z"
 ---
 
 # § 798. Purpose and scope of preliminary permits; transfer and cancellation
 
-(a) Each preliminary permit issued under this subchapter shall be for the sole purpose of maintaining priority of application for a license under the terms of this chapter for such period or periods, not exceeding a total of 4 years, as in the discretion of the Commission may be necessary for making examinations and surveys, for preparing maps, plans, specifications, and estimates, and for making financial arrangements.
-(b) The Commission may—
-  (1) extend the period of a preliminary permit once for not more than 4 additional years beyond the 4 years permitted by subsection (a) if the Commission finds that the permittee has carried out activities under such permit in good faith and with reasonable diligence; and
-  (2) after the end of an extension period granted under paragraph (1), issue an additional permit to the permittee if the Commission determines that there are extraordinary circumstances that warrant the issuance of the additional permit.
-(c) Each such permit shall set forth the conditions under which priority shall be maintained.
-(d) Such permits shall not be transferable, and may be canceled by order of the Commission upon failure of permittees to comply with the conditions thereof or for other good cause shown after notice and opportunity for hearing.
+- **(a)** Each preliminary permit issued under this subchapter shall be for the sole purpose of maintaining priority of application for a license under the terms of this chapter for such period or periods, not exceeding a total of 4 years, as in the discretion of the Commission may be necessary for making examinations and surveys, for preparing maps, plans, specifications, and estimates, and for making financial arrangements.
+- **(b)** The Commission may—
+  - **(1)** extend the period of a preliminary permit once for not more than 4 additional years beyond the 4 years permitted by subsection (a) if the Commission finds that the permittee has carried out activities under such permit in good faith and with reasonable diligence; and
+  - **(2)** after the end of an extension period granted under paragraph (1), issue an additional permit to the permittee if the Commission determines that there are extraordinary circumstances that warrant the issuance of the additional permit.
+- **(c)** Each such permit shall set forth the conditions under which priority shall be maintained.
+- **(d)** Such permits shall not be transferable, and may be canceled by order of the Commission upon failure of permittees to comply with the conditions thereof or for other good cause shown after notice and opportunity for hearing.

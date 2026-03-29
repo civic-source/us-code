@@ -5,7 +5,7 @@ usc_section: "331"
 chapter: 9
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 331"
-generated_at: "2026-03-29T00:30:38.631Z"
+generated_at: "2026-03-29T02:13:20.849Z"
 ---
 
 # § 331. Repealed. Pub. L. 106–462, title I, § 106(a)(1) , Nov. 7, 2000 , 114 Stat. 2007

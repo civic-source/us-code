@@ -5,7 +5,7 @@ usc_section: "2355"
 chapter: 139
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2355"
-generated_at: "2026-03-29T00:20:53.045Z"
+generated_at: "2026-03-29T02:10:45.098Z"
 ---
 
 # [§ 2355. Repealed. Pub. L. 103–355, title II, § 2002(a) , Oct. 13, 1994 , 108 Stat. 3303 ]

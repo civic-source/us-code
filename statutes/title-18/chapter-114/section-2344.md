@@ -5,13 +5,13 @@ usc_section: "2344"
 chapter: 114
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 2344"
-generated_at: "2026-03-29T00:30:15.712Z"
+generated_at: "2026-03-29T02:12:02.457Z"
 ---
 
 # § 2344. Penalties
 
-(a) Whoever knowingly violates section 2342(a) of this title shall be fined under this title or imprisoned not more than five years, or both.
-(b) Whoever knowingly violates any rule or regulation promulgated under section 2343(a) or 2346 of this title or violates section 2342(b) of this title shall be fined under this title or imprisoned not more than three years, or both.
-(c) Any contraband cigarettes or contraband smokeless tobacco involved in any violation of the provisions of this chapter shall be subject to seizure and forfeiture. The provisions of chapter 46 of title 18 relating to civil forfeitures shall extend to any seizure or civil forfeiture under this section. Any cigarettes or smokeless tobacco so seized and forfeited shall be either—
-  (1) destroyed and not resold; or
-  (2) used for undercover investigative operations for the detection and prosecution of crimes, and then destroyed and not resold.
+- **(a)** Whoever knowingly violates section 2342(a) of this title shall be fined under this title or imprisoned not more than five years, or both.
+- **(b)** Whoever knowingly violates any rule or regulation promulgated under section 2343(a) or 2346 of this title or violates section 2342(b) of this title shall be fined under this title or imprisoned not more than three years, or both.
+- **(c)** Any contraband cigarettes or contraband smokeless tobacco involved in any violation of the provisions of this chapter shall be subject to seizure and forfeiture. The provisions of chapter 46 of title 18 relating to civil forfeitures shall extend to any seizure or civil forfeiture under this section. Any cigarettes or smokeless tobacco so seized and forfeited shall be either—
+  - **(1)** destroyed and not resold; or
+  - **(2)** used for undercover investigative operations for the detection and prosecution of crimes, and then destroyed and not resold.

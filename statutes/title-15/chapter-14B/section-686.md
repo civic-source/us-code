@@ -5,13 +5,13 @@ usc_section: "686"
 chapter: 14
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 686"
-generated_at: "2026-03-29T00:29:41.640Z"
+generated_at: "2026-03-29T02:11:34.101Z"
 ---
 
 # § 686. Aggregate limitations on amount of assistance to any single enterprise
 
-(a) If any small business investment company has obtained financing from the Administrator and such financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not, without the approval of the Administrator, exceed 10 percent of the sum of—
-  (1) the private capital of such company; and
-  (2) the total amount of leverage projected by the company in the company’s business plan that was approved by the Administrator at the time of the grant of the company’s license.
-(b) 
-(c) With respect to obligations or securities acquired prior to the effective date of the Small Business Investment Act Amendments of 1967, and with respect to legally binding commitments issued prior to such date, the provisions of this section as in effect immediately prior to such effective date shall continue to apply.
+- **(a)** If any small business investment company has obtained financing from the Administrator and such financing remains outstanding, the aggregate amount of securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not, without the approval of the Administrator, exceed 10 percent of the sum of—
+  - **(1)** the private capital of such company; and
+  - **(2)** the total amount of leverage projected by the company in the company’s business plan that was approved by the Administrator at the time of the grant of the company’s license.
+- **(b)**
+- **(c)** With respect to obligations or securities acquired prior to the effective date of the Small Business Investment Act Amendments of 1967, and with respect to legally binding commitments issued prior to such date, the provisions of this section as in effect immediately prior to such effective date shall continue to apply.

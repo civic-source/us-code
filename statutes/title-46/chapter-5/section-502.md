@@ -5,12 +5,12 @@ usc_section: "502"
 chapter: 5
 current_through: "PL 119-73"
 classification: "46 U.S.C. § 502"
-generated_at: "2026-03-29T00:33:02.818Z"
+generated_at: "2026-03-29T02:15:53.703Z"
 ---
 
 # § 502. Cargo exempt from forfeiture
 
 Cargo on a vessel is exempt from forfeiture under this title if—
 
-  (1) the cargo is owned in good faith by a person not the owner, master, or crewmember of the vessel; and
-  (2) the customs duties on the cargo have been paid or secured for payment as provided by law.
+  - **(1)** the cargo is owned in good faith by a person not the owner, master, or crewmember of the vessel; and
+  - **(2)** the customs duties on the cargo have been paid or secured for payment as provided by law.

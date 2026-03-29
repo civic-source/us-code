@@ -5,10 +5,10 @@ usc_section: "761a"
 chapter: 6
 current_through: "PL 119-73"
 classification: "47 U.S.C. § 761a"
-generated_at: "2026-03-29T00:33:04.937Z"
+generated_at: "2026-03-29T02:15:59.255Z"
 ---
 
 # § 761a. Incentives; limitation on expansion pending privatization
 
-(a) Until INTELSAT, Inmarsat, and their successor or separate entities are privatized in accordance with the requirements of this subchapter, INTELSAT, Inmarsat, and their successor or separate entities, respectively, shall not be permitted to provide additional services. The Commission shall take all necessary measures to implement this requirement, including denial by the Commission of licensing for such services.
-(b) Until such privatization is achieved, the United States shall oppose and decline to facilitate applications by such entities for new orbital locations to provide such services.
+- **(a)** Until INTELSAT, Inmarsat, and their successor or separate entities are privatized in accordance with the requirements of this subchapter, INTELSAT, Inmarsat, and their successor or separate entities, respectively, shall not be permitted to provide additional services. The Commission shall take all necessary measures to implement this requirement, including denial by the Commission of licensing for such services.
+- **(b)** Until such privatization is achieved, the United States shall oppose and decline to facilitate applications by such entities for new orbital locations to provide such services.

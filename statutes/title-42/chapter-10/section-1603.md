@@ -5,7 +5,7 @@ usc_section: "1603"
 chapter: 10
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1603"
-generated_at: "2026-03-29T00:32:53.666Z"
+generated_at: "2026-03-29T02:15:36.482Z"
 ---
 
 # § 1603. Omitted

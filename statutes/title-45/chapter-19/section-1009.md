@@ -5,10 +5,10 @@ usc_section: "1009"
 chapter: 19
 current_through: "PL 119-73"
 classification: "45 U.S.C. § 1009"
-generated_at: "2026-03-29T00:32:59.718Z"
+generated_at: "2026-03-29T02:15:50.559Z"
 ---
 
 # § 1009. Expedited proceedings
 
-(a) The Commission shall give all proceedings involving the Rock Island Railroad preference over all other pending proceedings related to rail carriers and make all of its decisions at the earliest practicable time.
-(b) The Commission shall, within 100 days of the filing of an application (or such shorter period as the court may set) pursuant to section 915 of this title , reach a decision on all proceedings filed after January 1, 1980 , which involve a sale, transfer or lease of any line of the Rock Island Railroad to a solvent carrier.
+- **(a)** The Commission shall give all proceedings involving the Rock Island Railroad preference over all other pending proceedings related to rail carriers and make all of its decisions at the earliest practicable time.
+- **(b)** The Commission shall, within 100 days of the filing of an application (or such shorter period as the court may set) pursuant to section 915 of this title , reach a decision on all proceedings filed after January 1, 1980 , which involve a sale, transfer or lease of any line of the Rock Island Railroad to a solvent carrier.

@@ -5,7 +5,7 @@ usc_section: "8803"
 chapter: 879
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 8803"
-generated_at: "2026-03-29T00:20:53.246Z"
+generated_at: "2026-03-29T02:10:45.328Z"
 ---
 
 # § 8803. Sales: veterans under treatment

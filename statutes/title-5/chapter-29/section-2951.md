@@ -5,17 +5,17 @@ usc_section: "2951"
 chapter: 29
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 2951"
-generated_at: "2026-03-29T00:28:38.303Z"
+generated_at: "2026-03-29T02:10:01.807Z"
 ---
 
 # § 2951. Reports to the Office of Personnel Management
 
 The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, that—
 
-  (1) the appointing authority notify the Office of Personnel Management in writing of the following actions and their dates as to each individual selected for appointment in the competitive service from among those who have been examined—
-    (A) appointment and residence of appointee;
-    (B) separation during probation;
-    (C) transfer;
-    (D) resignation; and
-    (E) removal; and
-  (2) the Office keep records of these actions.
+  - **(1)** the appointing authority notify the Office of Personnel Management in writing of the following actions and their dates as to each individual selected for appointment in the competitive service from among those who have been examined—
+    - **(A)** appointment and residence of appointee;
+    - **(B)** separation during probation;
+    - **(C)** transfer;
+    - **(D)** resignation; and
+    - **(E)** removal; and
+  - **(2)** the Office keep records of these actions.

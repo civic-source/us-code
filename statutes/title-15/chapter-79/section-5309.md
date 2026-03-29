@@ -5,7 +5,7 @@ usc_section: "5309"
 chapter: 79
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 5309"
-generated_at: "2026-03-29T00:29:41.876Z"
+generated_at: "2026-03-29T02:11:34.381Z"
 ---
 
 # § 5309. Omitted

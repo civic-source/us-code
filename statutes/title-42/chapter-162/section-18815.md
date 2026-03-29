@@ -5,7 +5,7 @@ usc_section: "18815"
 chapter: 162
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 18815"
-generated_at: "2026-03-29T00:32:54.498Z"
+generated_at: "2026-03-29T02:15:37.469Z"
 ---
 
 # § 18815. Report

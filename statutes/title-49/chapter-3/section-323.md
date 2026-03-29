@@ -5,10 +5,10 @@ usc_section: "323"
 chapter: 3
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 323"
-generated_at: "2026-03-29T00:33:13.702Z"
+generated_at: "2026-03-29T02:16:08.851Z"
 ---
 
 # § 323. Personnel
 
-(a) The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.
-(b) The Secretary may procure services under section 3109 of title 5 . However, an individual may be paid not more than $100 a day for services.
+- **(a)** The Secretary of Transportation may appoint and fix the pay of officers and employees of the Department of Transportation and may prescribe their duties and powers.
+- **(b)** The Secretary may procure services under section 3109 of title 5 . However, an individual may be paid not more than $100 a day for services.

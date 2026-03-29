@@ -5,7 +5,7 @@ usc_section: "204"
 chapter: 13
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 204"
-generated_at: "2026-03-29T00:33:18.030Z"
+generated_at: "2026-03-29T02:16:14.692Z"
 ---
 
 # §§ 201 to 204. Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641

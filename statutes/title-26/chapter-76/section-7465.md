@@ -5,10 +5,10 @@ usc_section: "7465"
 chapter: 76
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 7465"
-generated_at: "2026-03-29T00:31:21.092Z"
+generated_at: "2026-03-29T02:14:01.389Z"
 ---
 
 # § 7465. Provisions of special application to transferees
 
-  (1) For rules of burden of proof in transferee proceedings, see section 6902(a).
-  (2) For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).
+  - **(1)** For rules of burden of proof in transferee proceedings, see section 6902(a).
+  - **(2)** For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).

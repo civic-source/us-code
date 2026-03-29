@@ -5,7 +5,7 @@ usc_section: "7"
 chapter: 1
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 7"
-generated_at: "2026-03-29T00:29:16.455Z"
+generated_at: "2026-03-29T02:11:20.826Z"
 ---
 
 # § 7. Chief of examining division

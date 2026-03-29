@@ -5,14 +5,14 @@ usc_section: "2414a"
 chapter: 26
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 2414a"
-generated_at: "2026-03-29T00:30:38.737Z"
+generated_at: "2026-03-29T02:13:20.942Z"
 ---
 
 # § 2414a. Review of programs
 
-(a) In the development of the Memorandum of Agreement required by section 2411 of this title , the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall review and consider—
-  (1) the various programs established by Federal law providing health services and benefits to Indian tribes, including those relating to mental health and alcohol and substance abuse prevention and treatment,
-  (2) tribal, State and local, and private health resources and programs,
-  (3) where facilities to provide such treatment are or should be located, and
-  (4) the effectiveness of public and private alcohol and substance abuse treatment programs in operation on October 27, 1986 ,
-(b) The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.
+- **(a)** In the development of the Memorandum of Agreement required by section 2411 of this title , the Secretary of the Interior, the Attorney General, and the Secretary of Health and Human Services shall review and consider—
+  - **(1)** the various programs established by Federal law providing health services and benefits to Indian tribes, including those relating to mental health and alcohol and substance abuse prevention and treatment,
+  - **(2)** tribal, State and local, and private health resources and programs,
+  - **(3)** where facilities to provide such treatment are or should be located, and
+  - **(4)** the effectiveness of public and private alcohol and substance abuse treatment programs in operation on October 27, 1986 ,
+- **(b)** The results of the review conducted under subsection (a) shall be provided to every Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan.

@@ -5,7 +5,7 @@ usc_section: "2321n"
 chapter: 32
 current_through: "PL 119-73"
 classification: "22 U.S.C. § 2321n"
-generated_at: "2026-03-29T00:30:33.789Z"
+generated_at: "2026-03-29T02:12:40.062Z"
 ---
 
 # §§ 2321l to 2321n. Repealed. Pub. L. 104–164, title I, § 104(b)(2)(B) , July 21, 1996 , 110 Stat. 1427

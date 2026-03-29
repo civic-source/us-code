@@ -1,0 +1,17 @@
+---
+title: "Section 31103 - Membership"
+usc_title: 36
+usc_section: "31103"
+chapter: 311
+current_through: "PL 119-73"
+classification: "36 U.S.C. § 31103"
+generated_at: "2026-03-29T02:14:41.348Z"
+---
+
+# § 31103. Membership
+
+- **(a)** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
+- **(b)** Each member has one vote on each matter submitted to a vote at a meeting of the members.
+- **(c)** Each organization that is a member of the corporation as provided in the constitution of the corporation is entitled to all the benefits of incorporation under this chapter. Those benefits cease immediately on termination of membership, whether by—
+  - **(1)** resignation from the corporation; or
+  - **(2)** termination of its membership by the board of directors of the corporation as provided in the constitution.

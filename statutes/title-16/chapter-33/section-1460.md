@@ -5,19 +5,19 @@ usc_section: "1460"
 chapter: 33
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 1460"
-generated_at: "2026-03-29T00:29:52.727Z"
+generated_at: "2026-03-29T02:11:53.798Z"
 ---
 
 # § 1460. Walter B. Jones excellence in coastal zone management awards
 
-(a) The Secretary shall, using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), implement a program to promote excellence in coastal zone management by identifying and acknowledging outstanding accomplishments in the field.
-(b) The Secretary shall elect annually—
-  (1) one individual, other than an employee or officer of the Federal Government, whose contribution to the field of coastal zone management has been the most significant;
-  (2) 5 local governments which have made the most progress in developing and implementing the coastal zone management principles embodied in this chapter; and
-  (3) up to 10 graduate students whose academic study promises to contribute materially to development of new or improved approaches to coastal zone management.
-(c) In making selections under subsection (b)(2) the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
-(d) In making selections under subsection (b)(3) the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
-(e) Using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), the Secretary shall establish and execute appropriate awards, to be known as the “Walter B. Jones Awards”, including—
-  (1) cash awards in an amount not to exceed $5,000 each;
-  (2) research grants; and
-  (3) public ceremonies to acknowledge such awards.
+- **(a)** The Secretary shall, using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), implement a program to promote excellence in coastal zone management by identifying and acknowledging outstanding accomplishments in the field.
+- **(b)** The Secretary shall elect annually—
+  - **(1)** one individual, other than an employee or officer of the Federal Government, whose contribution to the field of coastal zone management has been the most significant;
+  - **(2)** 5 local governments which have made the most progress in developing and implementing the coastal zone management principles embodied in this chapter; and
+  - **(3)** up to 10 graduate students whose academic study promises to contribute materially to development of new or improved approaches to coastal zone management.
+- **(c)** In making selections under subsection (b)(2) the Secretary shall solicit nominations from the coastal states, and shall consult with experts in local government planning and land use.
+- **(d)** In making selections under subsection (b)(3) the Secretary shall solicit nominations from coastal states and the National Sea Grant College Program.
+- **(e)** Using sums in the Coastal Zone Management Fund established under section 1456a of this title and other amounts available to carry out this chapter (other than amounts appropriated to carry out sections 1454, 1455, 1455a, 1456b, 1456c, and 1461 of this title), the Secretary shall establish and execute appropriate awards, to be known as the “Walter B. Jones Awards”, including—
+  - **(1)** cash awards in an amount not to exceed $5,000 each;
+  - **(2)** research grants; and
+  - **(3)** public ceremonies to acknowledge such awards.

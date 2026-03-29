@@ -1,0 +1,19 @@
+---
+title: "Section 124 - Homeland Security Advisory System"
+usc_title: 6
+usc_section: "124"
+chapter: 1
+current_through: "PL 119-73"
+classification: "6 U.S.C. § 124"
+generated_at: "2026-03-29T02:10:04.950Z"
+---
+
+# § 124. Homeland Security Advisory System
+
+- **(a)** The Secretary shall administer the Homeland Security Advisory System in accordance with this section to provide advisories or warnings regarding the threat or risk that acts of terrorism will be committed on the homeland to Federal, State, local, and tribal government authorities and to the people of the United States, as appropriate. The Secretary shall exercise primary responsibility for providing such advisories or warnings.
+- **(b)** In administering the Homeland Security Advisory System, the Secretary shall—
+  - **(1)** establish criteria for the issuance and revocation of such advisories or warnings;
+  - **(2)** develop a methodology, relying on the criteria established under paragraph (1), for the issuance and revocation of such advisories or warnings;
+  - **(3)** provide, in each such advisory or warning, specific information and advice regarding appropriate protective measures and countermeasures that may be taken in response to the threat or risk, at the maximum level of detail practicable to enable individuals, government entities, emergency response providers, and the private sector to act appropriately;
+  - **(4)** whenever possible, limit the scope of each such advisory or warning to a specific region, locality, or economic sector believed to be under threat or at risk; and
+  - **(5)** not, in issuing any advisory or warning, use color designations as the exclusive means of specifying homeland security threat conditions that are the subject of the advisory or warning.

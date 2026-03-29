@@ -5,16 +5,16 @@ usc_section: "5227"
 chapter: 52
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 5227"
-generated_at: "2026-03-29T00:29:16.883Z"
+generated_at: "2026-03-29T02:11:21.248Z"
 ---
 
 # § 5227. Study and report on margin authority
 
-(a) The Comptroller General shall undertake a study to determine the extent to which leverage and sudden deleveraging of financial institutions was a factor behind the current financial crisis.
-(b) The study required by this section shall include—
-  (1) an analysis of the roles and responsibilities of the Board, the Securities and Exchange Commission, the Secretary, and other Federal banking agencies with respect to monitoring leverage and acting to curtail excessive leveraging;
-  (2) an analysis of the authority of the Board to regulate leverage, including by setting margin requirements, and what process the Board used to decide whether or not to use its authority;
-  (3) an analysis of any usage of the margin authority by the Board; and
-  (4) recommendations for the Board and appropriate committees of Congress with respect to the existing authority of the Board.
-(c) Not later than June 1, 2009 , the Comptroller General shall complete and submit a report on the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
-(d) Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title .
+- **(a)** The Comptroller General shall undertake a study to determine the extent to which leverage and sudden deleveraging of financial institutions was a factor behind the current financial crisis.
+- **(b)** The study required by this section shall include—
+  - **(1)** an analysis of the roles and responsibilities of the Board, the Securities and Exchange Commission, the Secretary, and other Federal banking agencies with respect to monitoring leverage and acting to curtail excessive leveraging;
+  - **(2)** an analysis of the authority of the Board to regulate leverage, including by setting margin requirements, and what process the Board used to decide whether or not to use its authority;
+  - **(3)** an analysis of any usage of the margin authority by the Board; and
+  - **(4)** recommendations for the Board and appropriate committees of Congress with respect to the existing authority of the Board.
+- **(c)** Not later than June 1, 2009 , the Comptroller General shall complete and submit a report on the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+- **(d)** Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title .

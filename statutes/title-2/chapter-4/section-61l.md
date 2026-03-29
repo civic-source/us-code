@@ -5,7 +5,7 @@ usc_section: "61l"
 chapter: 4
 current_through: "PL 119-73"
 classification: "2 U.S.C. § 61l"
-generated_at: "2026-03-29T00:06:10.866Z"
+generated_at: "2026-03-29T02:09:53.635Z"
 ---
 
 # § 61l. Transferred

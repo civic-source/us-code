@@ -5,7 +5,7 @@ usc_section: "408c"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 408c"
-generated_at: "2026-03-29T00:29:52.357Z"
+generated_at: "2026-03-29T02:11:53.381Z"
 ---
 
 # § 408c. Acceptance of title to lands; reservations; leases; rights-of-way and easements

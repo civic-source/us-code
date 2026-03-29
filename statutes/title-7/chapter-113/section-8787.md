@@ -5,25 +5,25 @@ usc_section: "8787"
 chapter: 113
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 8787"
-generated_at: "2026-03-29T00:28:58.330Z"
+generated_at: "2026-03-29T02:10:17.212Z"
 ---
 
 # § 8787. Hard white wheat development program
 
-(a) In this section:
-  (1) The term “eligible hard white wheat seed” means hard white wheat seed that, as determined by the Secretary, is—
-    (A) certified;
-    (B) of a variety that is suitable for the State in which the seed will be planted;
-    (C) rated at least superior with respect to quality; and
-    (D) specifically approved under a seed establishment program established by the State Department of Agriculture and the State Wheat Commission of the 1 or more States in which the seed will be planted.
-  (2) The term “program” means the hard white wheat development program established under subsection (b)(1).
-  (3) The term “Secretary” means the Secretary of Agriculture, in consultation with the State Departments of Agriculture and the State Wheat Commissions of the States in regions in which hard white wheat is produced, as determined by the Secretary.
-(b) 
-  (1) Subject to the availability of appropriations, the Secretary shall establish a hard white wheat development program in accordance with paragraph (2) to promote the establishment of hard white wheat as a viable market class of wheat in the United States by encouraging production of at least 240,000,000 bushels of hard white wheat by 2012.
-  (2) 
-    (A) Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall make available incentive payments to producers of those crops.
-    (B) The Secretary shall carry out subparagraph (A) subject to a regional limitation determined by the Secretary on the number of acres for which payments may be received that takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
-    (C) Payments to producers on a farm described in subparagraph (A) shall be—
-      (i) in an amount that is not less than $0.20 per bushel; and
-      (ii) in an amount that is not less than $2.00 per acre for planting eligible hard white wheat seed.
-(c) There are authorized to be appropriated to carry out this section $35,000,000 for the period of fiscal years 2009 through 2012.
+- **(a)** In this section:
+  - **(1)** The term “eligible hard white wheat seed” means hard white wheat seed that, as determined by the Secretary, is—
+    - **(A)** certified;
+    - **(B)** of a variety that is suitable for the State in which the seed will be planted;
+    - **(C)** rated at least superior with respect to quality; and
+    - **(D)** specifically approved under a seed establishment program established by the State Department of Agriculture and the State Wheat Commission of the 1 or more States in which the seed will be planted.
+  - **(2)** The term “program” means the hard white wheat development program established under subsection (b)(1).
+  - **(3)** The term “Secretary” means the Secretary of Agriculture, in consultation with the State Departments of Agriculture and the State Wheat Commissions of the States in regions in which hard white wheat is produced, as determined by the Secretary.
+- **(b)**
+  - **(1)** Subject to the availability of appropriations, the Secretary shall establish a hard white wheat development program in accordance with paragraph (2) to promote the establishment of hard white wheat as a viable market class of wheat in the United States by encouraging production of at least 240,000,000 bushels of hard white wheat by 2012.
+  - **(2)**
+    - **(A)** Subject to subparagraphs (B) and (C) and subsection (c), if funds are made available for any of the 2009 through 2012 crops of hard white wheat, the Secretary shall make available incentive payments to producers of those crops.
+    - **(B)** The Secretary shall carry out subparagraph (A) subject to a regional limitation determined by the Secretary on the number of acres for which payments may be received that takes into account planting history and potential planting, but does not exceed a total of 2,900,000 acres or the equivalent volume of production based on a yield of 50 bushels per acre.
+    - **(C)** Payments to producers on a farm described in subparagraph (A) shall be—
+      - **(i)** in an amount that is not less than $0.20 per bushel; and
+      - **(ii)** in an amount that is not less than $2.00 per acre for planting eligible hard white wheat seed.
+- **(c)** There are authorized to be appropriated to carry out this section $35,000,000 for the period of fiscal years 2009 through 2012.

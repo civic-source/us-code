@@ -5,10 +5,10 @@ usc_section: "9411"
 chapter: 75
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9411"
-generated_at: "2026-03-29T00:07:03.201Z"
+generated_at: "2026-03-29T02:12:17.519Z"
 ---
 
 # § 9411. Local allocations
 
-(a) The Lead State Agency shall allocate to Local Councils in the State not less than 93 percent of the funds provided to the State under this chapter for a fiscal year.
-(b) The Lead State Agency shall allocate funds provided under this chapter on the basis of the population of the locality served by the Local Council.
+- **(a)** The Lead State Agency shall allocate to Local Councils in the State not less than 93 percent of the funds provided to the State under this chapter for a fiscal year.
+- **(b)** The Lead State Agency shall allocate funds provided under this chapter on the basis of the population of the locality served by the Local Council.

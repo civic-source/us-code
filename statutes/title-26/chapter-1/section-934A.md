@@ -5,7 +5,7 @@ usc_section: "934A"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 934A"
-generated_at: "2026-03-29T00:31:20.847Z"
+generated_at: "2026-03-29T02:14:01.081Z"
 ---
 
 # [§ 934A. Repealed. Pub. L. 99–514, title XII, § 1275(c)(3) , Oct. 22, 1986 , 100 Stat. 2599 ]

@@ -5,7 +5,7 @@ usc_section: "16"
 chapter: 1
 current_through: "PL 119-73"
 classification: "3 U.S.C. § 16"
-generated_at: "2026-03-29T00:06:12.113Z"
+generated_at: "2026-03-29T02:09:54.801Z"
 ---
 
 # § 16. Same; seats for officers and Members of two Houses in joint session

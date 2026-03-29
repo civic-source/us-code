@@ -5,10 +5,10 @@ usc_section: "1862o"
 chapter: 16
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 1862o"
-generated_at: "2026-03-29T00:32:53.699Z"
+generated_at: "2026-03-29T02:15:36.530Z"
 ---
 
 # § 1862o. Postdoctoral research fellows
 
-(a) The Director shall require that all grant applications that include funding to support postdoctoral and graduate student researchers include a description of the mentoring activities that will be provided for such individuals, and shall ensure that this part of the application is evaluated under the Foundation’s broader impacts merit review criterion. The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award. Mentoring activities may include career counseling, training in preparing grant applications, guidance on ways to improve teaching skills, and training in research ethics.
-(b) The Director shall require that annual reports and the final report for research grants that include funding to support postdoctoral researchers include a description of the mentoring activities provided to such researchers.
+- **(a)** The Director shall require that all grant applications that include funding to support postdoctoral and graduate student researchers include a description of the mentoring activities that will be provided for such individuals, and shall ensure that this part of the application is evaluated under the Foundation’s broader impacts merit review criterion. The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award. Mentoring activities may include career counseling, training in preparing grant applications, guidance on ways to improve teaching skills, and training in research ethics.
+- **(b)** The Director shall require that annual reports and the final report for research grants that include funding to support postdoctoral researchers include a description of the mentoring activities provided to such researchers.

@@ -5,13 +5,13 @@ usc_section: "2458"
 chapter: 145
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2458"
-generated_at: "2026-03-29T00:20:53.050Z"
+generated_at: "2026-03-29T02:10:45.102Z"
 ---
 
 # § 2458. Inventory management policies
 
-(a) The Secretary of Defense shall issue a single, uniform policy on the management of inventory items of the Department of Defense. Such policy shall—
-  (1) establish maximum levels for inventory items sufficient to achieve and maintain only those levels for inventory items necessary for the national defense;
-  (2) provide guidance to item managers and other appropriate officials on how effectively to eliminate wasteful practices in the acquisition and management of inventory items; and
-  (3) set forth a uniform system for the valuation of inventory items by the military departments and Defense Agencies.
-(b) The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.
+- **(a)** The Secretary of Defense shall issue a single, uniform policy on the management of inventory items of the Department of Defense. Such policy shall—
+  - **(1)** establish maximum levels for inventory items sufficient to achieve and maintain only those levels for inventory items necessary for the national defense;
+  - **(2)** provide guidance to item managers and other appropriate officials on how effectively to eliminate wasteful practices in the acquisition and management of inventory items; and
+  - **(3)** set forth a uniform system for the valuation of inventory items by the military departments and Defense Agencies.
+- **(b)** The Secretary of Defense shall establish procedures to ensure that, with regard to item managers and other personnel responsible for the acquisition and management of inventory items of the Department of Defense, personnel appraisal systems for such personnel give appropriate consideration to efforts made by such personnel to eliminate wasteful practices and achieve cost savings in the acquisition and management of inventory items.

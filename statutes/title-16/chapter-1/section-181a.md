@@ -5,7 +5,7 @@ usc_section: "181a"
 chapter: 1
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 181a"
-generated_at: "2026-03-29T00:29:52.315Z"
+generated_at: "2026-03-29T02:11:53.347Z"
 ---
 
 # §§ 181, 181a. Omitted

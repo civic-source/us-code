@@ -5,67 +5,67 @@ usc_section: "643"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 643"
-generated_at: "2026-03-29T00:31:20.797Z"
+generated_at: "2026-03-29T02:14:01.023Z"
 ---
 
 # § 643. Definitions applicable to subparts A, B, C, and D
 
-(a) For purposes of this part, the term “distributable net income” means, with respect to any taxable year, the taxable income of the estate or trust computed with the following modifications—
-  (1) No deduction shall be taken under sections 651 and 661 (relating to additional deductions).
-  (2) No deduction shall be taken under section 642(b) (relating to deduction for personal exemptions).
-  (3) Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
-  (4) For purposes only of subpart B (relating to trusts which distribute current income only), there shall be excluded those items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, does not pay or credit to any beneficiary by reason of his determination that such dividends are allocable to corpus under the terms of the governing instrument and applicable local law.
-  (5) There shall be included any tax-exempt interest to which section 103 applies, reduced by any amounts which would be deductible in respect of disbursements allocable to such interest but for the provisions of section 265 (relating to disallowance of certain deductions).
-  (6) In the case of a foreign trust—
-    (A) There shall be included the amounts of gross income from sources without the United States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
-    (B) Gross income from sources within the United States shall be determined without regard to section 894 (relating to income exempt under treaty).
-    (C) Paragraph (3) shall not apply to a foreign trust. In the case of such a trust, there shall be included gains from the sale or exchange of capital assets, reduced by losses from such sales or exchanges to the extent such losses do not exceed gains from such sales or exchanges.
-  (7) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part, including regulations to prevent avoidance of such purposes.
-(b) For purposes of this subpart and subparts B, C, and D, the term “income”, when not preceded by the words “taxable”, “distributable net”, “undistributed net”, or “gross”, means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
-(c) For purposes of this part, the term “beneficiary” includes heir, legatee, devisee.
-(d) Except to the extent otherwise provided in regulations, this subchapter shall be applied with respect to payments subject to withholding under section 3406—
-  (1) by allocating between the estate or trust and its beneficiaries any credit allowable under section 31(c) (on the basis of their respective shares of any such payment taken into account under this subchapter),
-  (2) by treating each beneficiary to whom such credit is allocated as if an amount equal to such credit has been paid to him by the estate or trust, and
-  (3) by allowing the estate or trust a deduction in an amount equal to the credit so allocated to beneficiaries.
-(e) 
-  (1) The basis of any property received by a beneficiary in a distribution from an estate or trust shall be—
-    (A) the adjusted basis of such property in the hands of the estate or trust immediately before the distribution, adjusted for
-    (B) any gain or loss recognized to the estate or trust on the distribution.
-  (2) In the case of any distribution of property (other than cash), the amount taken into account under sections 661(a)(2) and 662(a)(2) shall be the lesser of—
-    (A) the basis of such property in the hands of the beneficiary (as determined under paragraph (1)), or
-    (B) the fair market value of such prop­erty.
-  (3) 
-    (A) In the case of any distribution of property (other than cash) to which an election under this paragraph applies—
-      (i) paragraph (2) shall not apply,
-      (ii) gain or loss shall be recognized by the estate or trust in the same manner as if such property had been sold to the distributee at its fair market value, and
-      (iii) the amount taken into account under sections 661(a)(2) and 662(a)(2) shall be the fair market value of such property.
-    (B) Any election under this paragraph shall apply to all distributions made by the estate or trust during a taxable year and shall be made on the return of such estate or trust for such taxable year.
-  (4) This subsection shall not apply to any distribution described in section 663(a).
-(f) For purposes of this subchapter, under regulations prescribed by the Secretary, 2 or more trusts shall be treated as 1 trust if—
-  (1) such trusts have substantially the same grantor or grantors and substantially the same primary beneficiary or beneficiaries, and
-  (2) a principal purpose of such trusts is the avoidance of the tax imposed by this chapter.
-(g) 
-  (1) In the case of a trust—
-    (A) the trustee may elect to treat any portion of a payment of estimated tax made by such trust for any taxable year of the trust as a payment made by a beneficiary of such trust,
-    (B) any amount so treated shall be treated as paid or credited to the beneficiary on the last day of such taxable year, and
-    (C) for purposes of subtitle F, the amount so treated—
-      (i) shall not be treated as a payment of estimated tax made by the trust, but
-      (ii) shall be treated as a payment of estimated tax made by such beneficiary on January 15 following the taxable year.
-  (2) An election under paragraph (1) shall be made on or before the 65th day after the close of the taxable year of the trust and in such manner as the Secretary may prescribe.
-  (3) In the case of a taxable year reasonably expected to be the last taxable year of an estate—
-    (A) any reference in this subsection to a trust shall be treated as including a reference to an estate, and
-    (B) the fiduciary of the estate shall be treated as the trustee.
-(h) For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
-(i) For purposes of subparts B, C, and D—
-  (1) Except as provided in regulations, if a foreign trust makes a loan of cash or marketable securities (or permits the use of any other trust property) directly or indirectly to or by—
-    (A) any grantor or beneficiary of such trust who is a United States person, or
-    (B) any United States person not described in subparagraph (A) who is related to such grantor or beneficiary,
-  (2) For purposes of this subsection—
-    (A) The term “cash” includes foreign currencies and cash equivalents.
-    (B) 
-      (i) A person is related to another person if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b). In applying section 267 for purposes of the preceding sentence, section 267(c)(4) shall be applied as if the family of an individual includes the spouses of the members of the family.
-      (ii) If any person described in paragraph (1)(B) is related to more than one person, the grantor or beneficiary to whom the treatment under this subsection applies shall be determined under regulations prescribed by the Secretary.
-    (C) The term “United States person” does not include any entity exempt from tax under this chapter.
-    (D) Any trust which is treated under this subsection as making a distribution shall be treated as not described in section 651.
-    (E) In the case of the use of any trust property other than a loan of cash or marketable securities, paragraph (1) shall not apply to the extent that the trust is paid the fair market value of such use within a reasonable period of time of such use.
-  (3) If any loan (or use of property) is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) or the return of such property shall be disregarded for purposes of this title.
+- **(a)** For purposes of this part, the term “distributable net income” means, with respect to any taxable year, the taxable income of the estate or trust computed with the following modifications—
+  - **(1)** No deduction shall be taken under sections 651 and 661 (relating to additional deductions).
+  - **(2)** No deduction shall be taken under section 642(b) (relating to deduction for personal exemptions).
+  - **(3)** Gains from the sale or exchange of capital assets shall be excluded to the extent that such gains are allocated to corpus and are not (A) paid, credited, or required to be distributed to any beneficiary during the taxable year, or (B) paid, permanently set aside, or to be used for the purposes specified in section 642(c). Losses from the sale or exchange of capital assets shall be excluded, except to the extent such losses are taken into account in determining the amount of gains from the sale or exchange of capital assets which are paid, credited, or required to be distributed to any beneficiary during the taxable year. The exclusion under section 1202 shall not be taken into account.
+  - **(4)** For purposes only of subpart B (relating to trusts which distribute current income only), there shall be excluded those items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, does not pay or credit to any beneficiary by reason of his determination that such dividends are allocable to corpus under the terms of the governing instrument and applicable local law.
+  - **(5)** There shall be included any tax-exempt interest to which section 103 applies, reduced by any amounts which would be deductible in respect of disbursements allocable to such interest but for the provisions of section 265 (relating to disallowance of certain deductions).
+  - **(6)** In the case of a foreign trust—
+    - **(A)** There shall be included the amounts of gross income from sources without the United States, reduced by any amounts which would be deductible in respect of disbursements allocable to such income but for the provisions of section 265(a)(1) (relating to disallowance of certain deductions).
+    - **(B)** Gross income from sources within the United States shall be determined without regard to section 894 (relating to income exempt under treaty).
+    - **(C)** Paragraph (3) shall not apply to a foreign trust. In the case of such a trust, there shall be included gains from the sale or exchange of capital assets, reduced by losses from such sales or exchanges to the extent such losses do not exceed gains from such sales or exchanges.
+  - **(7)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this part, including regulations to prevent avoidance of such purposes.
+- **(b)** For purposes of this subpart and subparts B, C, and D, the term “income”, when not preceded by the words “taxable”, “distributable net”, “undistributed net”, or “gross”, means the amount of income of the estate or trust for the taxable year determined under the terms of the governing instrument and applicable local law. Items of gross income constituting extraordinary dividends or taxable stock dividends which the fiduciary, acting in good faith, determines to be allocable to corpus under the terms of the governing instrument and applicable local law shall not be considered income.
+- **(c)** For purposes of this part, the term “beneficiary” includes heir, legatee, devisee.
+- **(d)** Except to the extent otherwise provided in regulations, this subchapter shall be applied with respect to payments subject to withholding under section 3406—
+  - **(1)** by allocating between the estate or trust and its beneficiaries any credit allowable under section 31(c) (on the basis of their respective shares of any such payment taken into account under this subchapter),
+  - **(2)** by treating each beneficiary to whom such credit is allocated as if an amount equal to such credit has been paid to him by the estate or trust, and
+  - **(3)** by allowing the estate or trust a deduction in an amount equal to the credit so allocated to beneficiaries.
+- **(e)**
+  - **(1)** The basis of any property received by a beneficiary in a distribution from an estate or trust shall be—
+    - **(A)** the adjusted basis of such property in the hands of the estate or trust immediately before the distribution, adjusted for
+    - **(B)** any gain or loss recognized to the estate or trust on the distribution.
+  - **(2)** In the case of any distribution of property (other than cash), the amount taken into account under sections 661(a)(2) and 662(a)(2) shall be the lesser of—
+    - **(A)** the basis of such property in the hands of the beneficiary (as determined under paragraph (1)), or
+    - **(B)** the fair market value of such prop­erty.
+  - **(3)**
+    - **(A)** In the case of any distribution of property (other than cash) to which an election under this paragraph applies—
+      - **(i)** paragraph (2) shall not apply,
+      - **(ii)** gain or loss shall be recognized by the estate or trust in the same manner as if such property had been sold to the distributee at its fair market value, and
+      - **(iii)** the amount taken into account under sections 661(a)(2) and 662(a)(2) shall be the fair market value of such property.
+    - **(B)** Any election under this paragraph shall apply to all distributions made by the estate or trust during a taxable year and shall be made on the return of such estate or trust for such taxable year.
+  - **(4)** This subsection shall not apply to any distribution described in section 663(a).
+- **(f)** For purposes of this subchapter, under regulations prescribed by the Secretary, 2 or more trusts shall be treated as 1 trust if—
+  - **(1)** such trusts have substantially the same grantor or grantors and substantially the same primary beneficiary or beneficiaries, and
+  - **(2)** a principal purpose of such trusts is the avoidance of the tax imposed by this chapter.
+- **(g)**
+  - **(1)** In the case of a trust—
+    - **(A)** the trustee may elect to treat any portion of a payment of estimated tax made by such trust for any taxable year of the trust as a payment made by a beneficiary of such trust,
+    - **(B)** any amount so treated shall be treated as paid or credited to the beneficiary on the last day of such taxable year, and
+    - **(C)** for purposes of subtitle F, the amount so treated—
+      - **(i)** shall not be treated as a payment of estimated tax made by the trust, but
+      - **(ii)** shall be treated as a payment of estimated tax made by such beneficiary on January 15 following the taxable year.
+  - **(2)** An election under paragraph (1) shall be made on or before the 65th day after the close of the taxable year of the trust and in such manner as the Secretary may prescribe.
+  - **(3)** In the case of a taxable year reasonably expected to be the last taxable year of an estate—
+    - **(A)** any reference in this subsection to a trust shall be treated as including a reference to an estate, and
+    - **(B)** the fiduciary of the estate shall be treated as the trustee.
+- **(h)** For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
+- **(i)** For purposes of subparts B, C, and D—
+  - **(1)** Except as provided in regulations, if a foreign trust makes a loan of cash or marketable securities (or permits the use of any other trust property) directly or indirectly to or by—
+    - **(A)** any grantor or beneficiary of such trust who is a United States person, or
+    - **(B)** any United States person not described in subparagraph (A) who is related to such grantor or beneficiary,
+  - **(2)** For purposes of this subsection—
+    - **(A)** The term “cash” includes foreign currencies and cash equivalents.
+    - **(B)**
+      - **(i)** A person is related to another person if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b). In applying section 267 for purposes of the preceding sentence, section 267(c)(4) shall be applied as if the family of an individual includes the spouses of the members of the family.
+      - **(ii)** If any person described in paragraph (1)(B) is related to more than one person, the grantor or beneficiary to whom the treatment under this subsection applies shall be determined under regulations prescribed by the Secretary.
+    - **(C)** The term “United States person” does not include any entity exempt from tax under this chapter.
+    - **(D)** Any trust which is treated under this subsection as making a distribution shall be treated as not described in section 651.
+    - **(E)** In the case of the use of any trust property other than a loan of cash or marketable securities, paragraph (1) shall not apply to the extent that the trust is paid the fair market value of such use within a reasonable period of time of such use.
+  - **(3)** If any loan (or use of property) is taken into account under paragraph (1), any subsequent transaction between the trust and the original borrower regarding the principal of the loan (by way of complete or partial repayment, satisfaction, cancellation, discharge, or otherwise) or the return of such property shall be disregarded for purposes of this title.

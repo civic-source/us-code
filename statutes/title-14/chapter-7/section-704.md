@@ -5,11 +5,11 @@ usc_section: "704"
 chapter: 7
 current_through: "PL 119-73"
 classification: "14 U.S.C. § 704"
-generated_at: "2026-03-29T00:29:24.988Z"
+generated_at: "2026-03-29T02:11:23.778Z"
 ---
 
 # § 704. Department of the Army and Department of the Air Force
 
-(a) The Secretary of the Army or the Secretary of the Air Force at the request of the Secretary may, with or without reimbursement for the cost thereof, as agreed, receive members of the Coast Guard for instruction in any school, including any aviation school, maintained by the Army or the Air Force, and such members shall be subject to the regulations governing such schools.
-(b) Officers and enlisted members of the Coast Guard shall be permitted to purchase quartermaster supplies from the Army at the same price as is charged the officers and enlisted members of the Army.
-(c) Articles of ordnance property may be sold by the Secretary of the Army to officers of the Coast Guard for their use in the public service in the same manner as these articles are sold to officers of the Army.
+- **(a)** The Secretary of the Army or the Secretary of the Air Force at the request of the Secretary may, with or without reimbursement for the cost thereof, as agreed, receive members of the Coast Guard for instruction in any school, including any aviation school, maintained by the Army or the Air Force, and such members shall be subject to the regulations governing such schools.
+- **(b)** Officers and enlisted members of the Coast Guard shall be permitted to purchase quartermaster supplies from the Army at the same price as is charged the officers and enlisted members of the Army.
+- **(c)** Articles of ordnance property may be sold by the Secretary of the Army to officers of the Coast Guard for their use in the public service in the same manner as these articles are sold to officers of the Army.

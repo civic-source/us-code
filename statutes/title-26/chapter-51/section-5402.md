@@ -5,10 +5,10 @@ usc_section: "5402"
 chapter: 51
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 5402"
-generated_at: "2026-03-29T00:31:20.992Z"
+generated_at: "2026-03-29T02:14:01.265Z"
 ---
 
 # § 5402. Definitions
 
-(a) The brewery shall consist of the land and buildings described in the brewer’s notice. The continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions; and if parts of the brewery are so separated they must abut on the dividing medium and be adjacent to each other. Notwithstanding the preceding sentence, facilities under the control of the brewer for case packing, loading, or storing which are located within reasonable proximity to the brewery packaging facilities may be approved by the Secretary as a part of the brewery if the revenue will not be jeopardized thereby.
-(b) For definition of brewer, see section 5052(d).
+- **(a)** The brewery shall consist of the land and buildings described in the brewer’s notice. The continuity of the brewery must be unbroken except where separated by public passageways, streets, highways, waterways, or carrier rights-of-way, or partitions; and if parts of the brewery are so separated they must abut on the dividing medium and be adjacent to each other. Notwithstanding the preceding sentence, facilities under the control of the brewer for case packing, loading, or storing which are located within reasonable proximity to the brewery packaging facilities may be approved by the Secretary as a part of the brewery if the revenue will not be jeopardized thereby.
+- **(b)** For definition of brewer, see section 5052(d).

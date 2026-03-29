@@ -5,16 +5,16 @@ usc_section: "40115"
 chapter: 401
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 40115"
-generated_at: "2026-03-29T00:33:13.863Z"
+generated_at: "2026-03-29T02:16:09.000Z"
 ---
 
 # § 40115. Withholding information
 
-(a) 
-  (1) A person may object to the public disclosure of information—
-    (A) in a record filed under this part; or
-    (B) obtained under this part by the Secretary of Transportation or State or the United States Postal Service.
-  (2) An objection must be in writing and must state the reasons for the objection. The Secretary of Transportation or State or the Postal Service shall order the information withheld from public disclosure when the appropriate Secretary or the Postal Service decides that disclosure of the information would—
-    (A) prejudice the United States Government in preparing and presenting its position in international negotiations; or
-    (B) have an adverse effect on the competitive position of an air carrier in foreign air transportation.
-(b) This section does not authorize information to be withheld from a committee of Congress authorized to have the information.
+- **(a)**
+  - **(1)** A person may object to the public disclosure of information—
+    - **(A)** in a record filed under this part; or
+    - **(B)** obtained under this part by the Secretary of Transportation or State or the United States Postal Service.
+  - **(2)** An objection must be in writing and must state the reasons for the objection. The Secretary of Transportation or State or the Postal Service shall order the information withheld from public disclosure when the appropriate Secretary or the Postal Service decides that disclosure of the information would—
+    - **(A)** prejudice the United States Government in preparing and presenting its position in international negotiations; or
+    - **(B)** have an adverse effect on the competitive position of an air carrier in foreign air transportation.
+- **(b)** This section does not authorize information to be withheld from a committee of Congress authorized to have the information.

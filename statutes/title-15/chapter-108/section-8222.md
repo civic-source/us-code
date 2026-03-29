@@ -5,12 +5,12 @@ usc_section: "8222"
 chapter: 108
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 8222"
-generated_at: "2026-03-29T00:29:41.939Z"
+generated_at: "2026-03-29T02:11:34.442Z"
 ---
 
 # § 8222. Regulation of reinsurer solvency
 
-(a) If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, such State shall be solely responsible for regulating the financial solvency of the reinsurer.
-(b) 
-  (1) If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, no other State may require the reinsurer to provide any additional financial information other than the information the reinsurer is required to file with its domiciliary State.
-  (2) No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.
+- **(a)** If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, such State shall be solely responsible for regulating the financial solvency of the reinsurer.
+- **(b)**
+  - **(1)** If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, no other State may require the reinsurer to provide any additional financial information other than the information the reinsurer is required to file with its domiciliary State.
+  - **(2)** No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.

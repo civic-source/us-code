@@ -5,28 +5,28 @@ usc_section: "102102"
 chapter: 1021
 current_through: "PL 119-73"
 classification: "54 U.S.C. § 102102"
-generated_at: "2026-03-29T00:33:21.619Z"
+generated_at: "2026-03-29T02:16:35.465Z"
 ---
 
 # § 102102. Authority of Secretary to enter into lease for buildings and associated property
 
-(a) To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary may consider advisable, and except as provided in subsection (b) and subject to subsection (c), may enter into a lease with any person or government entity for the use of buildings and associated property administered by the Secretary as part of the System.
-(b) The Secretary may not use a lease under subsection (a) to authorize the lessee to engage in activities that are subject to authorization by the Secretary through a concession contract, commercial use authorization, or similar instrument.
-(c) Buildings and associated property leased under subsection (a)—
-  (1) shall be used for an activity that is consistent with the purposes established by law for the System unit in which the building is located;
-  (2) shall not result in degradation of the purposes and values of the System unit; and
-  (3) shall be compatible with Service programs.
-(d) 
-  (1) With respect to a lease under subsection (a)—
-    (A) payment of fair market value rental shall be required; and
-    (B) section 1302 of title 40 shall not apply.
-  (2) The Secretary may adjust the rental amount as appropriate to take into account any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, or repair and related expenses.
-(e) 
-  (1) Rental payments under a lease under subsection (a) shall be deposited in a special account in the Treasury.
-  (2) Amounts in the special account shall be available until expended, without further appropriation, for infrastructure needs at System units, including—
-    (A) facility refurbishment;
-    (B) repair and replacement;
-    (C) infrastructure projects associated with System unit resource protection; and
-    (D) direct maintenance of the leased buildings and associated property.
-  (3) The Secretary shall develop procedures for the use of the special account that ensure accountability and demonstrated results consistent with this section and sections 100101(b), 100502, 100507, 100751(b), 100754, 100901(b) and (c), 100906(a) and (d), 101302(b)(1) and (c) to (e), 101306, 101702(b) and (c), 101901, 102701, and 102702 of this title.
-(f) The Secretary shall prescribe regulations implementing this section that include provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
+- **(a)** To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary may consider advisable, and except as provided in subsection (b) and subject to subsection (c), may enter into a lease with any person or government entity for the use of buildings and associated property administered by the Secretary as part of the System.
+- **(b)** The Secretary may not use a lease under subsection (a) to authorize the lessee to engage in activities that are subject to authorization by the Secretary through a concession contract, commercial use authorization, or similar instrument.
+- **(c)** Buildings and associated property leased under subsection (a)—
+  - **(1)** shall be used for an activity that is consistent with the purposes established by law for the System unit in which the building is located;
+  - **(2)** shall not result in degradation of the purposes and values of the System unit; and
+  - **(3)** shall be compatible with Service programs.
+- **(d)**
+  - **(1)** With respect to a lease under subsection (a)—
+    - **(A)** payment of fair market value rental shall be required; and
+    - **(B)** section 1302 of title 40 shall not apply.
+  - **(2)** The Secretary may adjust the rental amount as appropriate to take into account any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, or repair and related expenses.
+- **(e)**
+  - **(1)** Rental payments under a lease under subsection (a) shall be deposited in a special account in the Treasury.
+  - **(2)** Amounts in the special account shall be available until expended, without further appropriation, for infrastructure needs at System units, including—
+    - **(A)** facility refurbishment;
+    - **(B)** repair and replacement;
+    - **(C)** infrastructure projects associated with System unit resource protection; and
+    - **(D)** direct maintenance of the leased buildings and associated property.
+  - **(3)** The Secretary shall develop procedures for the use of the special account that ensure accountability and demonstrated results consistent with this section and sections 100101(b), 100502, 100507, 100751(b), 100754, 100901(b) and (c), 100906(a) and (d), 101302(b)(1) and (c) to (e), 101306, 101702(b) and (c), 101901, 102701, and 102702 of this title.
+- **(f)** The Secretary shall prescribe regulations implementing this section that include provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.

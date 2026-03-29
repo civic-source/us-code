@@ -5,33 +5,33 @@ usc_section: "9708"
 chapter: 121
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 9708"
-generated_at: "2026-03-29T00:29:42.013Z"
+generated_at: "2026-03-29T02:11:34.507Z"
 ---
 
 # § 9708. Interagency Committee on Water Management and Infrastructure
 
-(a) There is established a committee, to be known as the “Interagency Committee on Water Management and Infrastructure” (in this section referred to as the “Water Policy Committee”).
-(b) The Water Policy Committee shall be composed of the following members:
-  (1) The Administrator.
-  (2) The Secretary of the Interior.
-  (3) The Administrator of the Environmental Protection Agency.
-  (4) The Secretary of Agriculture.
-  (5) The Secretary of Commerce.
-  (6) The Secretary of Energy.
-  (7) The Secretary of the Army.
-  (8) The heads of such other agencies as the co-chairs consider appropriate.
-(c) The Water Policy Committee shall be co-chaired by the Secretary of the Interior and the Administrator of the Environmental Protection Agency.
-(d) The Water Policy Committee shall meet not less frequently than 6 times each year, at the call of the co-chairs.
-(e) The Water Policy Committee shall ensure that agencies and departments across the Federal Government that engage in water-related matters, including water storage and supplies, water quality and restoration activities, water infrastructure, transportation on United States rivers and inland waterways, and water forecasting, work together where such agencies and departments have joint or overlapping responsibilities to—
-  (1) improve interagency coordination among Federal agencies and departments on water resource management and water infrastructure issues;
-  (2) coordinate existing water-related Federal task forces, working groups, and other formal cross-agency initiatives, as appropriate;
-  (3) prioritize managing the water resources of the United States and promoting resilience of the water-related infrastructure of the United States, including—
-    (A) increasing water storage, water supply reliability, and drought resiliency;
-    (B) improving water quality, source water protection, and nutrient management;
-    (C) promoting restoration activities;
-    (D) improving water systems, including with respect to drinking water, desalination, water reuse, wastewater, and flood control; and
-    (E) improving water data management, research, modeling, and forecasting;
-  (4) improve interagency coordination of data management, access, modeling, and visualization with respect to water-related matters;
-  (5) promote integrated planning for Federal investments in water-related infrastructure to enhance coordination and protect taxpayer investment; and
-  (6) support workforce development and efforts to recruit, train, and retain professionals to operate and maintain essential drinking water, wastewater, flood control, hydropower, water delivery, and water storage facilities in the United States.
-(f) Not later than 1 year after December 27, 2022 , the Water Policy Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.
+- **(a)** There is established a committee, to be known as the “Interagency Committee on Water Management and Infrastructure” (in this section referred to as the “Water Policy Committee”).
+- **(b)** The Water Policy Committee shall be composed of the following members:
+  - **(1)** The Administrator.
+  - **(2)** The Secretary of the Interior.
+  - **(3)** The Administrator of the Environmental Protection Agency.
+  - **(4)** The Secretary of Agriculture.
+  - **(5)** The Secretary of Commerce.
+  - **(6)** The Secretary of Energy.
+  - **(7)** The Secretary of the Army.
+  - **(8)** The heads of such other agencies as the co-chairs consider appropriate.
+- **(c)** The Water Policy Committee shall be co-chaired by the Secretary of the Interior and the Administrator of the Environmental Protection Agency.
+- **(d)** The Water Policy Committee shall meet not less frequently than 6 times each year, at the call of the co-chairs.
+- **(e)** The Water Policy Committee shall ensure that agencies and departments across the Federal Government that engage in water-related matters, including water storage and supplies, water quality and restoration activities, water infrastructure, transportation on United States rivers and inland waterways, and water forecasting, work together where such agencies and departments have joint or overlapping responsibilities to—
+  - **(1)** improve interagency coordination among Federal agencies and departments on water resource management and water infrastructure issues;
+  - **(2)** coordinate existing water-related Federal task forces, working groups, and other formal cross-agency initiatives, as appropriate;
+  - **(3)** prioritize managing the water resources of the United States and promoting resilience of the water-related infrastructure of the United States, including—
+    - **(A)** increasing water storage, water supply reliability, and drought resiliency;
+    - **(B)** improving water quality, source water protection, and nutrient management;
+    - **(C)** promoting restoration activities;
+    - **(D)** improving water systems, including with respect to drinking water, desalination, water reuse, wastewater, and flood control; and
+    - **(E)** improving water data management, research, modeling, and forecasting;
+  - **(4)** improve interagency coordination of data management, access, modeling, and visualization with respect to water-related matters;
+  - **(5)** promote integrated planning for Federal investments in water-related infrastructure to enhance coordination and protect taxpayer investment; and
+  - **(6)** support workforce development and efforts to recruit, train, and retain professionals to operate and maintain essential drinking water, wastewater, flood control, hydropower, water delivery, and water storage facilities in the United States.
+- **(f)** Not later than 1 year after December 27, 2022 , the Water Policy Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.

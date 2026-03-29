@@ -5,7 +5,7 @@ usc_section: "787"
 chapter: 23
 current_through: "PL 119-73"
 classification: "50 U.S.C. § 787"
-generated_at: "2026-03-29T00:33:18.040Z"
+generated_at: "2026-03-29T02:16:14.697Z"
 ---
 
 # §§ 786, 787. Repealed. Pub. L. 90–237, § 5 , Jan. 2, 1968 , 81 Stat. 766

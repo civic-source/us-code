@@ -5,7 +5,7 @@ usc_section: "8793"
 chapter: 95
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 8793"
-generated_at: "2026-03-29T00:32:54.130Z"
+generated_at: "2026-03-29T02:15:37.033Z"
 ---
 
 # §§ 8791 to 8793. Omitted

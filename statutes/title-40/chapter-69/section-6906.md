@@ -5,12 +5,12 @@ usc_section: "6906"
 chapter: 69
 current_through: "PL 119-73"
 classification: "40 U.S.C. § 6906"
-generated_at: "2026-03-29T00:32:20.562Z"
+generated_at: "2026-03-29T02:14:58.798Z"
 ---
 
 # § 6906. Union Station Fund
 
-(a) There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.
-(b) The account shall be credited with receipts of the Secretary of Transportation from activities authorized by this subchapter.
-(c) The Secretary may use income and proceeds received from activities authorized by this subchapter, including operating and leasing income and payments made to the Federal Government under development agreements, to pay expenses the Secretary incurs in carrying out the purposes of this subchapter, including construction, acquisition, leasing, operation, and maintenance expenses and payments made to developers under development agreements.
-(d) The balance in the account is available in amounts specified in annual appropriation laws for making expenditures authorized by this subchapter.
+- **(a)** There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.
+- **(b)** The account shall be credited with receipts of the Secretary of Transportation from activities authorized by this subchapter.
+- **(c)** The Secretary may use income and proceeds received from activities authorized by this subchapter, including operating and leasing income and payments made to the Federal Government under development agreements, to pay expenses the Secretary incurs in carrying out the purposes of this subchapter, including construction, acquisition, leasing, operation, and maintenance expenses and payments made to developers under development agreements.
+- **(d)** The balance in the account is available in amounts specified in annual appropriation laws for making expenditures authorized by this subchapter.

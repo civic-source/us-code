@@ -5,13 +5,13 @@ usc_section: "430c"
 chapter: 21
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 430c"
-generated_at: "2026-03-29T00:20:52.846Z"
+generated_at: "2026-03-29T02:10:44.869Z"
 ---
 
 # § 430c. Senior Intelligence Oversight Official
 
-(a) The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
-(b) The Senior Intelligence Oversight Official shall conduct independent oversight of all intelligence, counterintelligence, and intelligence-related activities of the Department of Defense and shall have such other related responsibilities as may be determined by the Secretary.
-(c) The Senior Intelligence Oversight Official shall have—
-  (1) access to all information necessary to carry out the responsibilities and functions of the Senior Intelligence Oversight Official, as determined by the Secretary; and
-  (2) direct access to the Secretary of Defense and the Deputy Secretary of Defense, as circumstances require in the determination of the Senior Intelligence Oversight Official.
+- **(a)** The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
+- **(b)** The Senior Intelligence Oversight Official shall conduct independent oversight of all intelligence, counterintelligence, and intelligence-related activities of the Department of Defense and shall have such other related responsibilities as may be determined by the Secretary.
+- **(c)** The Senior Intelligence Oversight Official shall have—
+  - **(1)** access to all information necessary to carry out the responsibilities and functions of the Senior Intelligence Oversight Official, as determined by the Secretary; and
+  - **(2)** direct access to the Secretary of Defense and the Deputy Secretary of Defense, as circumstances require in the determination of the Senior Intelligence Oversight Official.

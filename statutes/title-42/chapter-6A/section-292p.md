@@ -5,10 +5,10 @@ usc_section: "292p"
 chapter: 6
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 292p"
-generated_at: "2026-03-29T00:32:53.013Z"
+generated_at: "2026-03-29T02:15:35.758Z"
 ---
 
 # § 292p. Authorization of appropriations
 
-(a) For fiscal year 1993 and subsequent fiscal years, there are authorized to be appropriated such sums as may be necessary for the adequacy of the student loan insurance account under this subpart and for the purpose of administering this subpart.
-(b) Sums appropriated under subsection (a) shall remain available until expended.
+- **(a)** For fiscal year 1993 and subsequent fiscal years, there are authorized to be appropriated such sums as may be necessary for the adequacy of the student loan insurance account under this subpart and for the purpose of administering this subpart.
+- **(b)** Sums appropriated under subsection (a) shall remain available until expended.

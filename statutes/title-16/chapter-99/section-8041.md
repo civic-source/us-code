@@ -5,10 +5,10 @@ usc_section: "8041"
 chapter: 99
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 8041"
-generated_at: "2026-03-29T00:29:52.892Z"
+generated_at: "2026-03-29T02:11:54.007Z"
 ---
 
 # § 8041. Authorization of appropriations
 
-(a) Amounts made available to carry out this chapter shall be derived from amounts appropriated to the relevant agencies and departments.
-(b) Nothing in this chapter shall be construed to authorize an increase in required or voluntary contributions paid by the United States to any multilateral or international organization.
+- **(a)** Amounts made available to carry out this chapter shall be derived from amounts appropriated to the relevant agencies and departments.
+- **(b)** Nothing in this chapter shall be construed to authorize an increase in required or voluntary contributions paid by the United States to any multilateral or international organization.

@@ -5,13 +5,13 @@ usc_section: "3682"
 chapter: 232
 current_through: "PL 119-73"
 classification: "18 U.S.C. § 3682"
-generated_at: "2026-03-29T00:30:15.752Z"
+generated_at: "2026-03-29T02:12:02.504Z"
 ---
 
 # § 3682. Notice to victims of order of special forfeiture
 
 The United States attorney shall, within thirty days after the imposition of an order under this chapter and at such other times as the Attorney General may require, publish in a newspaper of general circulation in the district in which the offense for which a defendant was convicted occurred, a notice that states—
 
-  (1) the name of, and other identifying information about, the defendant;
-  (2) the offense for which the defendant was convicted; and
-  (3) that the court has ordered a special forfeiture of certain proceeds that may be used to satisfy a judgment obtained against the defendant by a victim of an offense for which the defendant has been convicted.
+  - **(1)** the name of, and other identifying information about, the defendant;
+  - **(2)** the offense for which the defendant was convicted; and
+  - **(3)** that the court has ordered a special forfeiture of certain proceeds that may be used to satisfy a judgment obtained against the defendant by a victim of an offense for which the defendant has been convicted.

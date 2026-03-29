@@ -5,7 +5,7 @@ usc_section: "590k"
 chapter: 3
 current_through: "PL 119-73"
 classification: "16 U.S.C. § 590k"
-generated_at: "2026-03-29T00:29:52.580Z"
+generated_at: "2026-03-29T02:11:53.617Z"
 ---
 
 # § 590k. Availability of funds

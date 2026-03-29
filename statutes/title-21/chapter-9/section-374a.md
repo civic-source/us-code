@@ -5,12 +5,12 @@ usc_section: "374a"
 chapter: 9
 current_through: "PL 119-73"
 classification: "21 U.S.C. § 374a"
-generated_at: "2026-03-29T00:30:24.265Z"
+generated_at: "2026-03-29T02:12:28.068Z"
 ---
 
 # § 374a. Inspections relating to food allergens
 
 The Secretary of Health and Human Services shall conduct inspections consistent with the authority under section 374 of this title of facilities in which foods are manufactured, processed, packed, or held—
 
-  (1) to ensure that the entities operating the facilities comply with practices to reduce or eliminate cross-contact of a food with residues of major food allergens that are not intentional ingredients of the food; and
-  (2) to ensure that major food allergens are properly labeled on foods.
+  - **(1)** to ensure that the entities operating the facilities comply with practices to reduce or eliminate cross-contact of a food with residues of major food allergens that are not intentional ingredients of the food; and
+  - **(2)** to ensure that major food allergens are properly labeled on foods.

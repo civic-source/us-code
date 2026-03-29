@@ -5,14 +5,14 @@ usc_section: "7313"
 chapter: 73
 current_through: "PL 119-73"
 classification: "5 U.S.C. § 7313"
-generated_at: "2026-03-29T00:28:38.377Z"
+generated_at: "2026-03-29T02:10:01.910Z"
 ---
 
 # § 7313. Riots and civil disorders
 
-(a) An individual convicted by any Federal, State, or local court of competent jurisdiction of—
-  (1) inciting a riot or civil disorder;
-  (2) organizing, promoting, encouraging, or participating in a riot or civil disorder;
-  (3) aiding or abetting any person in committing any offense specified in clause (1) or (2); or
-  (4) any offense determined by the head of the employing agency to have been committed in furtherance of, or while participating in, a riot or civil disorder;
-(b) For the purposes of this section, “felony” means any offense for which imprisonment is authorized for a term exceeding one year.
+- **(a)** An individual convicted by any Federal, State, or local court of competent jurisdiction of—
+  - **(1)** inciting a riot or civil disorder;
+  - **(2)** organizing, promoting, encouraging, or participating in a riot or civil disorder;
+  - **(3)** aiding or abetting any person in committing any offense specified in clause (1) or (2); or
+  - **(4)** any offense determined by the head of the employing agency to have been committed in furtherance of, or while participating in, a riot or civil disorder;
+- **(b)** For the purposes of this section, “felony” means any offense for which imprisonment is authorized for a term exceeding one year.

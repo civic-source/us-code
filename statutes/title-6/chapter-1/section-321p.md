@@ -5,12 +5,12 @@ usc_section: "321p"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 321p"
-generated_at: "2026-03-29T00:06:17.480Z"
+generated_at: "2026-03-29T02:10:04.994Z"
 ---
 
 # § 321p. National planning and education
 
 The Secretary shall, to the extent practicable—
 
-  (1) include in national planning frameworks the threat of an EMP or GMD event; and
-  (2) conduct outreach to educate owners and operators of critical infrastructure, emergency planners, and emergency response providers at all levels of government regarding threats of EMP and GMD.
+  - **(1)** include in national planning frameworks the threat of an EMP or GMD event; and
+  - **(2)** conduct outreach to educate owners and operators of critical infrastructure, emergency planners, and emergency response providers at all levels of government regarding threats of EMP and GMD.

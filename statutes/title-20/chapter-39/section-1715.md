@@ -1,0 +1,14 @@
+---
+title: "Section 1715 - District lines"
+usc_title: 20
+usc_section: "1715"
+chapter: 39
+current_through: "PL 119-73"
+classification: "20 U.S.C. § 1715"
+generated_at: "2026-03-29T02:12:17.373Z"
+---
+
+# § 1715. District lines
+
+In the formulation of remedies under section 1712 or 1713 of this title the lines drawn by a State, subdividing its territory into separate school districts, shall not be ignored or altered except where it is established that the lines were drawn for the purpose, and had the effect, of segregating children among public schools on the basis of race, color, sex, or national origin.
+

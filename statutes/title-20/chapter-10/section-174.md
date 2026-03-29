@@ -5,7 +5,7 @@ usc_section: "174"
 chapter: 10
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 174"
-generated_at: "2026-03-29T00:07:03.112Z"
+generated_at: "2026-03-29T02:12:17.153Z"
 ---
 
 # §§ 161 to 174. Omitted

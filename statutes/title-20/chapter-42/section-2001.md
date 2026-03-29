@@ -5,7 +5,7 @@ usc_section: "2001"
 chapter: 42
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 2001"
-generated_at: "2026-03-29T00:07:03.155Z"
+generated_at: "2026-03-29T02:12:17.374Z"
 ---
 
 # § 2001. Congressional statement of findings

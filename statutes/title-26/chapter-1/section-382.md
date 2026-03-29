@@ -5,215 +5,215 @@ usc_section: "382"
 chapter: 1
 current_through: "PL 119-73"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-29T00:31:20.697Z"
+generated_at: "2026-03-29T02:14:00.897Z"
 ---
 
 # § 382. Limitation on net operating loss carryforwards and certain built-in losses following ownership change
 
-(a) The amount of the taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed the section 382 limitation for such year.
-(b) For purposes of this section—
-  (1) Except as otherwise provided in this section, the section 382 limitation for any post-change year is an amount equal to—
-    (A) the value of the old loss corporation, multiplied by
-    (B) the long-term tax-exempt rate.
-  (2) If the section 382 limitation for any post-change year exceeds the taxable income of the new loss corporation for such year which was offset by pre-change losses, the section 382 limitation for the next post-change year shall be increased by the amount of such excess.
-  (3) In the case of any post-change year which includes the change date—
-    (A) Subsection (a) shall not apply to the portion of the taxable income for such year which is allocable to the period in such year on or before the change date. Except as provided in subsection (h)(5) and in regulations, taxable income shall be allocated ratably to each day in the year.
-    (B) For purposes of applying the limitation of subsection (a) to the remainder of the taxable income for such year, the section 382 limitation shall be an amount which bears the same ratio to such limitation (determined without regard to this paragraph) as—
-      (i) the number of days in such year after the change date, bears to
-      (ii) the total number of days in such year.
-(c) 
-  (1) Except as provided in paragraph (2), if the new loss corporation does not continue the business enterprise of the old loss corporation at all times during the 2-year period beginning on the change date, the section 382 limitation for any post-change year shall be zero.
-  (2) The section 382 limitation for any post-change year shall not be less than the sum of—
-    (A) any increase in such limitation under—
-      (i) subsection (h)(1)(A) for recognized built-in gains for such year, and
-      (ii) subsection (h)(1)(C) for gain recognized by reason of an election under section 338, plus
-    (B) any increase in such limitation under subsection (b)(2) for amounts described in subparagraph (A) which are carried forward to such year.
-(d) For purposes of this section—
-  (1) The term “pre-change loss” means—
-    (A) any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
-    (B) the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
-  (2) The term “post-change year” means any taxable year ending after the change date.
-  (3) The term “pre-change loss” shall include any carryover of disallowed interest described in section 163(j)(2) under rules similar to the rules of paragraph (1).
-(e) For purposes of this section—
-  (1) Except as otherwise provided in this subsection, the value of the old loss corporation is the value of the stock of such corporation (including any stock described in section 1504(a)(4)) immediately before the ownership change.
-  (2) If a redemption or other corporate contraction occurs in connection with an ownership change, the value under paragraph (1) shall be determined after taking such redemption or other corporate contraction into account.
-  (3) Except as otherwise provided in regulations, in determining the value of any old loss corporation which is a foreign corporation, there shall be taken into account only items treated as connected with the conduct of a trade or business in the United States.
-(f) For purposes of this section—
-  (1) The long-term tax-exempt rate shall be the highest of the adjusted Federal long-term rates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
-  (2) For purposes of paragraph (1), the term “adjusted Federal long-term rate” means the Federal long-term rate determined under section 1274(d), except that—
-    (A) paragraphs (2) and (3) thereof shall not apply, and
-    (B) such rate shall be properly adjusted for differences between rates on long-term taxable and tax-exempt obligations.
-(g) For purposes of this section—
-  (1) There is an ownership change if, immediately after any owner shift involving a 5-percent shareholder or any equity structure shift—
-    (A) the percentage of the stock of the loss corporation owned by 1 or more 5-percent shareholders has increased by more than 50 percentage points, over
-    (B) the lowest percentage of stock of the loss corporation (or any predecessor corporation) owned by such shareholders at any time during the testing period.
-  (2) There is an owner shift involving a 5-percent shareholder if—
-    (A) there is any change in the respective ownership of stock of a corporation, and
-    (B) such change affects the percentage of stock of such corporation owned by any person who is a 5-percent shareholder before or after such change.
-  (3) 
-    (A) The term “equity structure shift” means any reorganization (within the meaning of section 368). Such term shall not include—
-      (i) any reorganization described in subparagraph (D) or (G) of section 368(a)(1) unless the requirements of section 354(b)(1) are met, and
-      (ii) any reorganization described in subparagraph (F) of section 368(a)(1).
-    (B) To the extent provided in regulations, the term “equity structure shift” includes taxable reorganization-type transactions, public offerings, and similar transactions.
-  (4) 
-    (A) Except as provided in subparagraphs (B)(i) and (C), in determining whether an ownership change has occurred, all stock owned by shareholders of a corporation who are not 5-percent shareholders of such corporation shall be treated as stock owned by 1 5-percent shareholder of such corporation.
-    (B) For purposes of determining whether an equity structure shift (or subsequent transaction) is an ownership change—
-      (i) Subparagraph (A) shall be applied separately with respect to each group of shareholders (immediately before such equity structure shift) of each corporation which was a party to the reorganization involved in such equity structure shift.
-      (ii) Unless a different proportion is established, acquisitions of stock after such equity structure shift shall be treated as being made proportionately from all shareholders immediately before such acquisition.
-    (C) Except as provided in regulations, rules similar to the rules of subparagraph (B) shall apply in determining whether there has been an owner shift involving a 5-percent shareholder and whether such shift (or subsequent transaction) results in an ownership change.
-    (D) If any stock held by a 50-percent shareholder is treated by such shareholder as becoming worthless during any taxable year of such shareholder and such stock is held by such shareholder as of the close of such taxable year, for purposes of determining whether an ownership change occurs after the close of such taxable year, such shareholder—
-      (i) shall be treated as having acquired such stock on the 1st day of his 1st succeeding taxable year, and
-      (ii) shall not be treated as having owned such stock during any prior period.
-(h) For purposes of this section—
-  (1) 
-    (A) 
-      (i) If the old loss corporation has a net unrealized built-in gain, the section 382 limitation for any recognition period taxable year shall be increased by the recognized built-in gains for such taxable year.
-      (ii) The increase under clause (i) for any recognition period taxable year shall not exceed—
-        (I) the net unrealized built-in gain, reduced by
-        (II) recognized built-in gains for prior years ending in the recognition period.
-    (B) 
-      (i) If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
-      (ii) Clause (i) shall apply to recognized built-in losses for any recognition period taxable year only to the extent such losses do not exceed—
-        (I) the net unrealized built-in loss, reduced by
-        (II) recognized built-in losses for prior taxable years ending in the recognition period.
-    (C) If an election under section 338 is made in connection with an ownership change and the net unrealized built-in gain is zero by reason of paragraph (3)(B), then, with respect to such change, the section 382 limitation for the post-change year in which gain is recognized by reason of such election shall be increased by the lesser of—
-      (i) the recognized built-in gains by reason of such election, or
-      (ii) the net unrealized built-in gain (determined without regard to paragraph (3)(B)).
-  (2) 
-    (A) The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset to the extent the new loss corporation establishes that—
-      (i) such asset was held by the old loss corporation immediately before the change date, and
-      (ii) such gain does not exceed the excess of—
-        (I) the fair market value of such asset on the change date, over
-        (II) the adjusted basis of such asset on such date.
-    (B) The term “recognized built-in loss” means any loss recognized during the recognition period on the disposition of any asset except to the extent the new loss corporation establishes that—
-      (i) such asset was not held by the old loss corporation immediately before the change date, or
-      (ii) such loss exceeds the excess of—
-        (I) the adjusted basis of such asset on the change date, over
-        (II) the fair market value of such asset on such date.
-  (3) 
-    (A) 
-      (i) The terms “net unrealized built-in gain” and “net unrealized built-in loss” mean, with respect to any old loss corporation, the amount by which—
-        (I) the fair market value of the assets of such corporation immediately before an ownership change is more or less, respectively, than
-        (II) the aggregate adjusted basis of such assets at such time.
-      (ii) If a redemption or other corporate contraction occurs in connection with an ownership change, to the extent provided in regulations, determinations under clause (i) shall be made after taking such redemption or other corporate contraction into account.
-    (B) 
-      (i) If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than the lesser of—
-        (I) 15 percent of the amount determined for purposes of subparagraph (A)(i)(I), or
-        (II) $10,000,000,
-      (ii) In computing any net unrealized built-in gain or net unrealized built-in loss under clause (i), except as provided in regulations, there shall not be taken into account—
-        (I) any cash or cash item, or
-        (II) any marketable security which has a value which does not substantially differ from adjusted basis.
-  (4) If a deduction for any portion of a recognized built-in loss is disallowed for any post-change year, such portion—
-    (A) shall be carried forward to subsequent taxable years under rules similar to the rules for the carrying forward of net operating losses (or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses), but
-    (B) shall be subject to limitation under this section in the same manner as a pre-change loss.
-  (5) For purposes of subsection (b)(3)—
-    (A) in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
-    (B) in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
-  (6) 
-    (A) Any item of income which is properly taken into account during the recognition period but which is attributable to periods before the change date shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account.
-    (B) Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the change date shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
-    (C) The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
-  (7) 
-    (A) The term “recognition period” means, with respect to any ownership change, the 5-year period beginning on the change date.
-    (B) The term “recognition period taxable year” means any taxable year any portion of which is in the recognition period.
-  (8) If 80 percent or more in value of the stock of a corporation is acquired in 1 transaction (or in a series of related transactions during any 12-month period), for purposes of determining the net unrealized built-in loss, the fair market value of the assets of such corporation shall not exceed the grossed up amount paid for such stock properly adjusted for indebtedness of the corporation and other relevant items.
-  (9) The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection where property held on the change date was acquired (or is subsequently transferred) in a transaction where gain or loss is not recognized (in whole or in part).
-(i) For purposes of this section—
-  (1) Except as otherwise provided in this section, the testing period is the 3-year period ending on the day of any owner shift involving a 5-percent shareholder or equity structure shift.
-  (2) If there has been an ownership change under this section, the testing period for determining whether a 2nd ownership change has occurred shall not begin before the 1st day following the change date for such earlier ownership change.
-  (3) The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to any loss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
-(j) For purposes of this section, the change date is—
-  (1) in the case where the last component of an ownership change is an owner shift involving a 5-percent shareholder, the date on which such shift occurs, and
-  (2) in the case where the last component of an ownership change is an equity structure shift, the date of the reorganization.
-(k) For purposes of this section—
-  (1) The term “loss corporation” means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20). Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
-  (2) The term “old loss corporation” means any corporation—
-    (A) with respect to which there is an ownership change, and
-    (B) which (before the ownership change) was a loss corporation.
-  (3) The term “new loss corporation” means a corporation which (after an ownership change) is a loss corporation. Nothing in this section shall be treated as implying that the same corporation may not be both the old loss corporation and the new loss corporation.
-  (4) Taxable income shall be computed with the modifications set forth in section 172(d).
-  (5) The term “value” means fair market value.
-  (6) 
-    (A) Except as provided in regulations and subsection (e), the term “stock” means stock other than stock described in section 1504(a)(4).
-    (B) The Secretary shall prescribe such regulations as may be necessary—
-      (i) to treat warrants, options, contracts to acquire stock, convertible debt interests, and other similar interests as stock, and
-      (ii) to treat stock as not stock.
-    (C) Determinations of the percentage of stock of any corporation held by any person shall be made on the basis of value.
-  (7) The term “5-percent shareholder” means any person holding 5 percent or more of the stock of the corporation at any time during the testing period.
-(l) For purposes of this section—
-  (1) 
-    (A) Any capital contribution received by an old loss corporation as part of a plan a principal purpose of which is to avoid or increase any limitation under this section shall not be taken into account for purposes of this section.
-    (B) For purposes of subparagraph (A), any capital contribution made during the 2-year period ending on the change date shall, except as provided in regulations, be treated as part of a plan described in subparagraph (A).
-  (2) 
-    (A) In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentence of section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
-      (i) the section 382 limitation for such taxable year, reduced by
-      (ii) the unused pre-change losses for taxable years preceding the loss year.
-    (B) In any case in which—
-      (i) a pre-change loss of a loss corporation for any taxable year is subject to a section 382 limitation, and
-      (ii) a net operating loss of such corporation from such taxable year is not subject to such limitation,
-  (3) 
-    (A) Section 318 (relating to constructive ownership of stock) shall apply in determining ownership of stock, except that—
-      (i) paragraphs (1) and (5)(B) of section 318(a) shall not apply and an individual and all members of his family described in paragraph (1) of section 318(a) shall be treated as 1 individual for purposes of applying this section,
-      (ii) paragraph (2) of section 318(a) shall be applied—
-        (I) without regard to the 50-percent limitation contained in subparagraph (C) thereof, and
-        (II) except as provided in regulations, by treating stock attributed thereunder as no longer being held by the entity from which attributed,
-      (iii) paragraph (3) of section 318(a) shall be applied only to the extent provided in regulations,
-      (iv) except to the extent provided in regulations, an option to acquire stock shall be treated as exercised if such exercise results in an ownership change, and
-      (v) in attributing stock from an entity under paragraph (2) of section 318(a), there shall not be taken into account—
-        (I) in the case of attribution from a corporation, stock which is not treated as stock for purposes of this section, or
-        (II) in the case of attribution from another entity, an interest in such entity similar to stock described in subclause (I).
-    (B) If—
-      (i) the basis of any stock in the hands of any person is determined—
-        (I) under section 1014 (relating to property acquired from a decedent),
-        (II) section 1015 (relating to property acquired by a gift or transfer in trust), or
-        (III) section 1041(b)(2) (relating to transfers of property between spouses or incident to divorce),
-      (ii) stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
-      (iii) stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),
-    (C) Except as provided in regulations, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
-  (4) 
-    (A) If, immediately after an ownership change, the new loss corporation has substantial nonbusiness assets, the value of the old loss corporation shall be reduced by the excess (if any) of—
-      (i) the fair market value of the nonbusiness assets of the old loss corporation, over
-      (ii) the nonbusiness asset share of indebtedness for which such corporation is liable.
-    (B) For purposes of subparagraph (A)—
-      (i) The old loss corporation shall be treated as having substantial nonbusiness assets if at least ⅓ of the value of the total assets of such corporation consists of nonbusiness assets.
-      (ii) A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
-    (C) For purposes of this paragraph, the term “nonbusiness assets” means assets held for investment.
-    (D) For purposes of this paragraph, the nonbusiness asset share of the indebtedness of the corporation is an amount which bears the same ratio to such indebtedness as—
-      (i) the fair market value of the nonbusiness assets of the corporation, bears to
-      (ii) the fair market value of all assets of such corporation.
-    (E) For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary’s assets. For purposes of the preceding sentence, a corporation shall be treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
-  (5) 
-    (A) Subsection (a) shall not apply to any ownership change if—
-      (i) the old loss corporation is (immediately before such ownership change) under the jurisdiction of the court in a title 11 or similar case, and
-      (ii) the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of the new loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
-    (B) In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if no deduction was allowable under this chapter for the interest paid or accrued by the old loss corporation on indebtedness which was converted into stock pursuant to title 11 or similar case during—
-      (i) any taxable year ending during the 3-year period preceding the taxable year in which the ownership change occurs, and
-      (ii) the period of the taxable year in which the ownership change occurs on or before the change date.
-    (C) In applying section 108(e)(8) to any case to which subparagraph (A) applies, there shall not be taken into account any indebtedness for interest described in subparagraph (B).
-    (D) If, during the 2-year period immediately following an ownership change to which this paragraph applies, an ownership change of the new loss corporation occurs, this paragraph shall not apply and the section 382 limitation with respect to the 2nd ownership change for any post-change year ending after the change date of the 2nd ownership change shall be zero.
-    (E) For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
-      (i) was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
-      (ii) arose in the ordinary course of the trade or business of the old loss corporation and is held by the person who at all times held the beneficial interest in such indebtedness.
-    (F) For purposes of this paragraph, the term “title 11 or similar case” has the meaning given such term by section 368(a)(3)(A).
-    (G) A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
-  (6) If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
-  (7) The Secretary shall by regulation provide for the application of this section to the alternative tax net operating loss deduction under section 56(d).
-  (8) Except as provided in regulations, any entity and any predecessor or successor entities of such entity shall be treated as 1 entity.
-(m) The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and section 383, including (but not limited to) regulations—
-  (1) providing for the application of this section and section 383 where an ownership change with respect to the old loss corporation is followed by an ownership change with respect to the new loss corporation, and
-  (2) providing for the application of this section and section 383 in the case of a short taxable year,
-  (3) providing for such adjustments to the application of this section and section 383 as is necessary to prevent the avoidance of the purposes of this section and section 383, including the avoidance of such purposes through the use of related persons, pass-thru entities, or other intermediaries,
-  (4) providing for the application of subsection (g)(4) where there is only 1 corporation involved, and
-  (5) providing, in the case of any group of corporations described in section 1563(a) (determined by substituting “50 percent” for “80 percent” each place it appears and determined without regard to paragraph (4) thereof), appropriate adjustments to value, built-in gain or loss, and other items so that items are not omitted or taken into account more than once.
-(n) 
-  (1) The limitation contained in subsection (a) shall not apply in the case of an ownership change which is pursuant to a restructuring plan of a taxpayer which—
-    (A) is required under a loan agreement or a commitment for a line of credit entered into with the Department of the Treasury under the Emergency Economic Stabilization Act of 2008, and
-    (B) is intended to result in a rationalization of the costs, capitalization, and capacity with respect to the manufacturing workforce of, and suppliers to, the taxpayer and its subsidiaries.
-  (2) Paragraph (1) shall not apply in the case of any subsequent ownership change unless such ownership change is described in such paragraph.
-  (3) 
-    (A) Paragraph (1) shall not apply in the case of any ownership change if, immediately after such ownership change, any person (other than a voluntary employees’ beneficiary association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total combined voting power of all classes of stock entitled to vote, or of the total value of the stock of such corporation.
-    (B) 
-      (i) Related persons shall be treated as a single person for purposes of this paragraph.
-      (ii) For purposes of clause (i), a person shall be treated as related to another person if—
-        (I) such person bears a relationship to such other person described in section 267(b) or 707(b), or
-        (II) such persons are members of a group of persons acting in concert.
+- **(a)** The amount of the taxable income of any new loss corporation for any post-change year which may be offset by pre-change losses shall not exceed the section 382 limitation for such year.
+- **(b)** For purposes of this section—
+  - **(1)** Except as otherwise provided in this section, the section 382 limitation for any post-change year is an amount equal to—
+    - **(A)** the value of the old loss corporation, multiplied by
+    - **(B)** the long-term tax-exempt rate.
+  - **(2)** If the section 382 limitation for any post-change year exceeds the taxable income of the new loss corporation for such year which was offset by pre-change losses, the section 382 limitation for the next post-change year shall be increased by the amount of such excess.
+  - **(3)** In the case of any post-change year which includes the change date—
+    - **(A)** Subsection (a) shall not apply to the portion of the taxable income for such year which is allocable to the period in such year on or before the change date. Except as provided in subsection (h)(5) and in regulations, taxable income shall be allocated ratably to each day in the year.
+    - **(B)** For purposes of applying the limitation of subsection (a) to the remainder of the taxable income for such year, the section 382 limitation shall be an amount which bears the same ratio to such limitation (determined without regard to this paragraph) as—
+      - **(i)** the number of days in such year after the change date, bears to
+      - **(ii)** the total number of days in such year.
+- **(c)**
+  - **(1)** Except as provided in paragraph (2), if the new loss corporation does not continue the business enterprise of the old loss corporation at all times during the 2-year period beginning on the change date, the section 382 limitation for any post-change year shall be zero.
+  - **(2)** The section 382 limitation for any post-change year shall not be less than the sum of—
+    - **(A)** any increase in such limitation under—
+      - **(i)** subsection (h)(1)(A) for recognized built-in gains for such year, and
+      - **(ii)** subsection (h)(1)(C) for gain recognized by reason of an election under section 338, plus
+    - **(B)** any increase in such limitation under subsection (b)(2) for amounts described in subparagraph (A) which are carried forward to such year.
+- **(d)** For purposes of this section—
+  - **(1)** The term “pre-change loss” means—
+    - **(A)** any net operating loss carryforward of the old loss corporation to the taxable year ending with the ownership change or in which the change date occurs, and
+    - **(B)** the net operating loss of the old loss corporation for the taxable year in which the ownership change occurs to the extent such loss is allocable to the period in such year on or before the change date.
+  - **(2)** The term “post-change year” means any taxable year ending after the change date.
+  - **(3)** The term “pre-change loss” shall include any carryover of disallowed interest described in section 163(j)(2) under rules similar to the rules of paragraph (1).
+- **(e)** For purposes of this section—
+  - **(1)** Except as otherwise provided in this subsection, the value of the old loss corporation is the value of the stock of such corporation (including any stock described in section 1504(a)(4)) immediately before the ownership change.
+  - **(2)** If a redemption or other corporate contraction occurs in connection with an ownership change, the value under paragraph (1) shall be determined after taking such redemption or other corporate contraction into account.
+  - **(3)** Except as otherwise provided in regulations, in determining the value of any old loss corporation which is a foreign corporation, there shall be taken into account only items treated as connected with the conduct of a trade or business in the United States.
+- **(f)** For purposes of this section—
+  - **(1)** The long-term tax-exempt rate shall be the highest of the adjusted Federal long-term rates in effect for any month in the 3-calendar-month period ending with the calendar month in which the change date occurs.
+  - **(2)** For purposes of paragraph (1), the term “adjusted Federal long-term rate” means the Federal long-term rate determined under section 1274(d), except that—
+    - **(A)** paragraphs (2) and (3) thereof shall not apply, and
+    - **(B)** such rate shall be properly adjusted for differences between rates on long-term taxable and tax-exempt obligations.
+- **(g)** For purposes of this section—
+  - **(1)** There is an ownership change if, immediately after any owner shift involving a 5-percent shareholder or any equity structure shift—
+    - **(A)** the percentage of the stock of the loss corporation owned by 1 or more 5-percent shareholders has increased by more than 50 percentage points, over
+    - **(B)** the lowest percentage of stock of the loss corporation (or any predecessor corporation) owned by such shareholders at any time during the testing period.
+  - **(2)** There is an owner shift involving a 5-percent shareholder if—
+    - **(A)** there is any change in the respective ownership of stock of a corporation, and
+    - **(B)** such change affects the percentage of stock of such corporation owned by any person who is a 5-percent shareholder before or after such change.
+  - **(3)**
+    - **(A)** The term “equity structure shift” means any reorganization (within the meaning of section 368). Such term shall not include—
+      - **(i)** any reorganization described in subparagraph (D) or (G) of section 368(a)(1) unless the requirements of section 354(b)(1) are met, and
+      - **(ii)** any reorganization described in subparagraph (F) of section 368(a)(1).
+    - **(B)** To the extent provided in regulations, the term “equity structure shift” includes taxable reorganization-type transactions, public offerings, and similar transactions.
+  - **(4)**
+    - **(A)** Except as provided in subparagraphs (B)(i) and (C), in determining whether an ownership change has occurred, all stock owned by shareholders of a corporation who are not 5-percent shareholders of such corporation shall be treated as stock owned by 1 5-percent shareholder of such corporation.
+    - **(B)** For purposes of determining whether an equity structure shift (or subsequent transaction) is an ownership change—
+      - **(i)** Subparagraph (A) shall be applied separately with respect to each group of shareholders (immediately before such equity structure shift) of each corporation which was a party to the reorganization involved in such equity structure shift.
+      - **(ii)** Unless a different proportion is established, acquisitions of stock after such equity structure shift shall be treated as being made proportionately from all shareholders immediately before such acquisition.
+    - **(C)** Except as provided in regulations, rules similar to the rules of subparagraph (B) shall apply in determining whether there has been an owner shift involving a 5-percent shareholder and whether such shift (or subsequent transaction) results in an ownership change.
+    - **(D)** If any stock held by a 50-percent shareholder is treated by such shareholder as becoming worthless during any taxable year of such shareholder and such stock is held by such shareholder as of the close of such taxable year, for purposes of determining whether an ownership change occurs after the close of such taxable year, such shareholder—
+      - **(i)** shall be treated as having acquired such stock on the 1st day of his 1st succeeding taxable year, and
+      - **(ii)** shall not be treated as having owned such stock during any prior period.
+- **(h)** For purposes of this section—
+  - **(1)**
+    - **(A)**
+      - **(i)** If the old loss corporation has a net unrealized built-in gain, the section 382 limitation for any recognition period taxable year shall be increased by the recognized built-in gains for such taxable year.
+      - **(ii)** The increase under clause (i) for any recognition period taxable year shall not exceed—
+        - **(I)** the net unrealized built-in gain, reduced by
+        - **(II)** recognized built-in gains for prior years ending in the recognition period.
+    - **(B)**
+      - **(i)** If the old loss corporation has a net unrealized built-in loss, the recognized built-in loss for any recognition period taxable year shall be subject to limitation under this section in the same manner as if such loss were a pre-change loss.
+      - **(ii)** Clause (i) shall apply to recognized built-in losses for any recognition period taxable year only to the extent such losses do not exceed—
+        - **(I)** the net unrealized built-in loss, reduced by
+        - **(II)** recognized built-in losses for prior taxable years ending in the recognition period.
+    - **(C)** If an election under section 338 is made in connection with an ownership change and the net unrealized built-in gain is zero by reason of paragraph (3)(B), then, with respect to such change, the section 382 limitation for the post-change year in which gain is recognized by reason of such election shall be increased by the lesser of—
+      - **(i)** the recognized built-in gains by reason of such election, or
+      - **(ii)** the net unrealized built-in gain (determined without regard to paragraph (3)(B)).
+  - **(2)**
+    - **(A)** The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset to the extent the new loss corporation establishes that—
+      - **(i)** such asset was held by the old loss corporation immediately before the change date, and
+      - **(ii)** such gain does not exceed the excess of—
+        - **(I)** the fair market value of such asset on the change date, over
+        - **(II)** the adjusted basis of such asset on such date.
+    - **(B)** The term “recognized built-in loss” means any loss recognized during the recognition period on the disposition of any asset except to the extent the new loss corporation establishes that—
+      - **(i)** such asset was not held by the old loss corporation immediately before the change date, or
+      - **(ii)** such loss exceeds the excess of—
+        - **(I)** the adjusted basis of such asset on the change date, over
+        - **(II)** the fair market value of such asset on such date.
+  - **(3)**
+    - **(A)**
+      - **(i)** The terms “net unrealized built-in gain” and “net unrealized built-in loss” mean, with respect to any old loss corporation, the amount by which—
+        - **(I)** the fair market value of the assets of such corporation immediately before an ownership change is more or less, respectively, than
+        - **(II)** the aggregate adjusted basis of such assets at such time.
+      - **(ii)** If a redemption or other corporate contraction occurs in connection with an ownership change, to the extent provided in regulations, determinations under clause (i) shall be made after taking such redemption or other corporate contraction into account.
+    - **(B)**
+      - **(i)** If the amount of the net unrealized built-in gain or net unrealized built-in loss (determined without regard to this subparagraph) of any old loss corporation is not greater than the lesser of—
+        - **(I)** 15 percent of the amount determined for purposes of subparagraph (A)(i)(I), or
+        - **(II)** $10,000,000,
+      - **(ii)** In computing any net unrealized built-in gain or net unrealized built-in loss under clause (i), except as provided in regulations, there shall not be taken into account—
+        - **(I)** any cash or cash item, or
+        - **(II)** any marketable security which has a value which does not substantially differ from adjusted basis.
+  - **(4)** If a deduction for any portion of a recognized built-in loss is disallowed for any post-change year, such portion—
+    - **(A)** shall be carried forward to subsequent taxable years under rules similar to the rules for the carrying forward of net operating losses (or to the extent the amount so disallowed is attributable to capital losses, under rules similar to the rules for the carrying forward of net capital losses), but
+    - **(B)** shall be subject to limitation under this section in the same manner as a pre-change loss.
+  - **(5)** For purposes of subsection (b)(3)—
+    - **(A)** in applying subparagraph (A) thereof, taxable income shall be computed without regard to recognized built-in gains to the extent such gains increased the section 382 limitation for the year (or recognized built-in losses to the extent such losses are treated as pre-change losses), and gain described in paragraph (1)(C), for the year, and
+    - **(B)** in applying subparagraph (B) thereof, the section 382 limitation shall be computed without regard to recognized built-in gains, and gain described in paragraph (1)(C), for the year.
+  - **(6)**
+    - **(A)** Any item of income which is properly taken into account during the recognition period but which is attributable to periods before the change date shall be treated as a recognized built-in gain for the taxable year in which it is properly taken into account.
+    - **(B)** Any amount which is allowable as a deduction during the recognition period (determined without regard to any carryover) but which is attributable to periods before the change date shall be treated as a recognized built-in loss for the taxable year for which it is allowable as a deduction.
+    - **(C)** The amount of the net unrealized built-in gain or loss shall be properly adjusted for amounts which would be treated as recognized built-in gains or losses under this paragraph if such amounts were properly taken into account (or allowable as a deduction) during the recognition period.
+  - **(7)**
+    - **(A)** The term “recognition period” means, with respect to any ownership change, the 5-year period beginning on the change date.
+    - **(B)** The term “recognition period taxable year” means any taxable year any portion of which is in the recognition period.
+  - **(8)** If 80 percent or more in value of the stock of a corporation is acquired in 1 transaction (or in a series of related transactions during any 12-month period), for purposes of determining the net unrealized built-in loss, the fair market value of the assets of such corporation shall not exceed the grossed up amount paid for such stock properly adjusted for indebtedness of the corporation and other relevant items.
+  - **(9)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection where property held on the change date was acquired (or is subsequently transferred) in a transaction where gain or loss is not recognized (in whole or in part).
+- **(i)** For purposes of this section—
+  - **(1)** Except as otherwise provided in this section, the testing period is the 3-year period ending on the day of any owner shift involving a 5-percent shareholder or equity structure shift.
+  - **(2)** If there has been an ownership change under this section, the testing period for determining whether a 2nd ownership change has occurred shall not begin before the 1st day following the change date for such earlier ownership change.
+  - **(3)** The testing period shall not begin before the earlier of the 1st day of the 1st taxable year from which there is a carryforward of a loss or of an excess credit to the 1st post-change year or the taxable year in which the transaction being tested occurs. Except as provided in regulations, this paragraph shall not apply to any loss corporation which has a net unrealized built-in loss (determined after application of subsection (h)(3)(B)).
+- **(j)** For purposes of this section, the change date is—
+  - **(1)** in the case where the last component of an ownership change is an owner shift involving a 5-percent shareholder, the date on which such shift occurs, and
+  - **(2)** in the case where the last component of an ownership change is an equity structure shift, the date of the reorganization.
+- **(k)** For purposes of this section—
+  - **(1)** The term “loss corporation” means a corporation entitled to use a net operating loss carryover or having a net operating loss for the taxable year in which the ownership change occurs. Such term shall include any corporation entitled to use a carryforward of disallowed interest described in section 381(c)(20). Except to the extent provided in regulations, such term includes any corporation with a net unrealized built-in loss.
+  - **(2)** The term “old loss corporation” means any corporation—
+    - **(A)** with respect to which there is an ownership change, and
+    - **(B)** which (before the ownership change) was a loss corporation.
+  - **(3)** The term “new loss corporation” means a corporation which (after an ownership change) is a loss corporation. Nothing in this section shall be treated as implying that the same corporation may not be both the old loss corporation and the new loss corporation.
+  - **(4)** Taxable income shall be computed with the modifications set forth in section 172(d).
+  - **(5)** The term “value” means fair market value.
+  - **(6)**
+    - **(A)** Except as provided in regulations and subsection (e), the term “stock” means stock other than stock described in section 1504(a)(4).
+    - **(B)** The Secretary shall prescribe such regulations as may be necessary—
+      - **(i)** to treat warrants, options, contracts to acquire stock, convertible debt interests, and other similar interests as stock, and
+      - **(ii)** to treat stock as not stock.
+    - **(C)** Determinations of the percentage of stock of any corporation held by any person shall be made on the basis of value.
+  - **(7)** The term “5-percent shareholder” means any person holding 5 percent or more of the stock of the corporation at any time during the testing period.
+- **(l)** For purposes of this section—
+  - **(1)**
+    - **(A)** Any capital contribution received by an old loss corporation as part of a plan a principal purpose of which is to avoid or increase any limitation under this section shall not be taken into account for purposes of this section.
+    - **(B)** For purposes of subparagraph (A), any capital contribution made during the 2-year period ending on the change date shall, except as provided in regulations, be treated as part of a plan described in subparagraph (A).
+  - **(2)**
+    - **(A)** In the case of any pre-change loss for any taxable year (hereinafter in this subparagraph referred to as the “loss year”) subject to limitation under this section, for purposes of determining under the 2nd sentence of section 172(b)(2) the amount of such loss which may be carried to any taxable year, taxable income for any taxable year shall be treated as not greater than—
+      - **(i)** the section 382 limitation for such taxable year, reduced by
+      - **(ii)** the unused pre-change losses for taxable years preceding the loss year.
+    - **(B)** In any case in which—
+      - **(i)** a pre-change loss of a loss corporation for any taxable year is subject to a section 382 limitation, and
+      - **(ii)** a net operating loss of such corporation from such taxable year is not subject to such limitation,
+  - **(3)**
+    - **(A)** Section 318 (relating to constructive ownership of stock) shall apply in determining ownership of stock, except that—
+      - **(i)** paragraphs (1) and (5)(B) of section 318(a) shall not apply and an individual and all members of his family described in paragraph (1) of section 318(a) shall be treated as 1 individual for purposes of applying this section,
+      - **(ii)** paragraph (2) of section 318(a) shall be applied—
+        - **(I)** without regard to the 50-percent limitation contained in subparagraph (C) thereof, and
+        - **(II)** except as provided in regulations, by treating stock attributed thereunder as no longer being held by the entity from which attributed,
+      - **(iii)** paragraph (3) of section 318(a) shall be applied only to the extent provided in regulations,
+      - **(iv)** except to the extent provided in regulations, an option to acquire stock shall be treated as exercised if such exercise results in an ownership change, and
+      - **(v)** in attributing stock from an entity under paragraph (2) of section 318(a), there shall not be taken into account—
+        - **(I)** in the case of attribution from a corporation, stock which is not treated as stock for purposes of this section, or
+        - **(II)** in the case of attribution from another entity, an interest in such entity similar to stock described in subclause (I).
+    - **(B)** If—
+      - **(i)** the basis of any stock in the hands of any person is determined—
+        - **(I)** under section 1014 (relating to property acquired from a decedent),
+        - **(II)** section 1015 (relating to property acquired by a gift or transfer in trust), or
+        - **(III)** section 1041(b)(2) (relating to transfers of property between spouses or incident to divorce),
+      - **(ii)** stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
+      - **(iii)** stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),
+    - **(C)** Except as provided in regulations, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
+  - **(4)**
+    - **(A)** If, immediately after an ownership change, the new loss corporation has substantial nonbusiness assets, the value of the old loss corporation shall be reduced by the excess (if any) of—
+      - **(i)** the fair market value of the nonbusiness assets of the old loss corporation, over
+      - **(ii)** the nonbusiness asset share of indebtedness for which such corporation is liable.
+    - **(B)** For purposes of subparagraph (A)—
+      - **(i)** The old loss corporation shall be treated as having substantial nonbusiness assets if at least ⅓ of the value of the total assets of such corporation consists of nonbusiness assets.
+      - **(ii)** A regulated investment company to which part I of subchapter M applies, a real estate investment trust to which part II of subchapter M applies, or a REMIC to which part IV of subchapter M applies, shall not be treated as a new loss corporation having substantial nonbusiness assets.
+    - **(C)** For purposes of this paragraph, the term “nonbusiness assets” means assets held for investment.
+    - **(D)** For purposes of this paragraph, the nonbusiness asset share of the indebtedness of the corporation is an amount which bears the same ratio to such indebtedness as—
+      - **(i)** the fair market value of the nonbusiness assets of the corporation, bears to
+      - **(ii)** the fair market value of all assets of such corporation.
+    - **(E)** For purposes of this paragraph, stock and securities in any subsidiary corporation shall be disregarded and the parent corporation shall be deemed to own its ratable share of the subsidiary’s assets. For purposes of the preceding sentence, a corporation shall be treated as a subsidiary if the parent owns 50 percent or more of the combined voting power of all classes of stock entitled to vote, and 50 percent or more of the total value of shares of all classes of stock.
+  - **(5)**
+    - **(A)** Subsection (a) shall not apply to any ownership change if—
+      - **(i)** the old loss corporation is (immediately before such ownership change) under the jurisdiction of the court in a title 11 or similar case, and
+      - **(ii)** the shareholders and creditors of the old loss corporation (determined immediately before such ownership change) own (after such ownership change and as a result of being shareholders or creditors immediately before such change) stock of the new loss corporation (or stock of a controlling corporation if also in bankruptcy) which meets the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+    - **(B)** In any case to which subparagraph (A) applies, the pre-change losses and excess credits (within the meaning of section 383(a)(2)) which may be carried to a post-change year shall be computed as if no deduction was allowable under this chapter for the interest paid or accrued by the old loss corporation on indebtedness which was converted into stock pursuant to title 11 or similar case during—
+      - **(i)** any taxable year ending during the 3-year period preceding the taxable year in which the ownership change occurs, and
+      - **(ii)** the period of the taxable year in which the ownership change occurs on or before the change date.
+    - **(C)** In applying section 108(e)(8) to any case to which subparagraph (A) applies, there shall not be taken into account any indebtedness for interest described in subparagraph (B).
+    - **(D)** If, during the 2-year period immediately following an ownership change to which this paragraph applies, an ownership change of the new loss corporation occurs, this paragraph shall not apply and the section 382 limitation with respect to the 2nd ownership change for any post-change year ending after the change date of the 2nd ownership change shall be zero.
+    - **(E)** For purposes of subparagraph (A)(ii), stock transferred to a creditor shall be taken into account only to the extent such stock is transferred in satisfaction of indebtedness and only if such indebtedness—
+      - **(i)** was held by the creditor at least 18 months before the date of the filing of the title 11 or similar case, or
+      - **(ii)** arose in the ordinary course of the trade or business of the old loss corporation and is held by the person who at all times held the beneficial interest in such indebtedness.
+    - **(F)** For purposes of this paragraph, the term “title 11 or similar case” has the meaning given such term by section 368(a)(3)(A).
+    - **(G)** A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
+  - **(6)** If paragraph (5) does not apply to any reorganization described in subparagraph (G) of section 368(a)(1) or any exchange of debt for stock in a title 11 or similar case (as defined in section 368(a)(3)(A)), the value under subsection (e) shall reflect the increase (if any) in value of the old loss corporation resulting from any surrender or cancellation of creditors’ claims in the transaction.
+  - **(7)** The Secretary shall by regulation provide for the application of this section to the alternative tax net operating loss deduction under section 56(d).
+  - **(8)** Except as provided in regulations, any entity and any predecessor or successor entities of such entity shall be treated as 1 entity.
+- **(m)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section and section 383, including (but not limited to) regulations—
+  - **(1)** providing for the application of this section and section 383 where an ownership change with respect to the old loss corporation is followed by an ownership change with respect to the new loss corporation, and
+  - **(2)** providing for the application of this section and section 383 in the case of a short taxable year,
+  - **(3)** providing for such adjustments to the application of this section and section 383 as is necessary to prevent the avoidance of the purposes of this section and section 383, including the avoidance of such purposes through the use of related persons, pass-thru entities, or other intermediaries,
+  - **(4)** providing for the application of subsection (g)(4) where there is only 1 corporation involved, and
+  - **(5)** providing, in the case of any group of corporations described in section 1563(a) (determined by substituting “50 percent” for “80 percent” each place it appears and determined without regard to paragraph (4) thereof), appropriate adjustments to value, built-in gain or loss, and other items so that items are not omitted or taken into account more than once.
+- **(n)**
+  - **(1)** The limitation contained in subsection (a) shall not apply in the case of an ownership change which is pursuant to a restructuring plan of a taxpayer which—
+    - **(A)** is required under a loan agreement or a commitment for a line of credit entered into with the Department of the Treasury under the Emergency Economic Stabilization Act of 2008, and
+    - **(B)** is intended to result in a rationalization of the costs, capitalization, and capacity with respect to the manufacturing workforce of, and suppliers to, the taxpayer and its subsidiaries.
+  - **(2)** Paragraph (1) shall not apply in the case of any subsequent ownership change unless such ownership change is described in such paragraph.
+  - **(3)**
+    - **(A)** Paragraph (1) shall not apply in the case of any ownership change if, immediately after such ownership change, any person (other than a voluntary employees’ beneficiary association under section 501(c)(9)) owns stock of the new loss corporation possessing 50 percent or more of the total combined voting power of all classes of stock entitled to vote, or of the total value of the stock of such corporation.
+    - **(B)**
+      - **(i)** Related persons shall be treated as a single person for purposes of this paragraph.
+      - **(ii)** For purposes of clause (i), a person shall be treated as related to another person if—
+        - **(I)** such person bears a relationship to such other person described in section 267(b) or 707(b), or
+        - **(II)** such persons are members of a group of persons acting in concert.

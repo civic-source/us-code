@@ -5,7 +5,7 @@ usc_section: "2223a"
 chapter: 131
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 2223a"
-generated_at: "2026-03-29T00:20:53.029Z"
+generated_at: "2026-03-29T02:10:45.083Z"
 ---
 
 # [§ 2223a. Renumbered § 4571]

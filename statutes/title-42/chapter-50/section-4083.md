@@ -5,10 +5,10 @@ usc_section: "4083"
 chapter: 50
 current_through: "PL 119-73"
 classification: "42 U.S.C. § 4083"
-generated_at: "2026-03-29T00:32:53.858Z"
+generated_at: "2026-03-29T02:15:36.692Z"
 ---
 
 # § 4083. Settlement of claims; arbitration
 
-(a) The Administrator is authorized to make final settlement of any claims or demands which may arise as a result of any financial transactions which he is authorized to carry out under this subchapter, and may, to assist him in making any such settlement, refer any disputes relating to such claims or demands to arbitration, with the consent of the parties concerned.
-(b) Such arbitration shall be advisory in nature, and any award, decision, or recommendation which may be made shall become final only upon the approval of the Administrator.
+- **(a)** The Administrator is authorized to make final settlement of any claims or demands which may arise as a result of any financial transactions which he is authorized to carry out under this subchapter, and may, to assist him in making any such settlement, refer any disputes relating to such claims or demands to arbitration, with the consent of the parties concerned.
+- **(b)** Such arbitration shall be advisory in nature, and any award, decision, or recommendation which may be made shall become final only upon the approval of the Administrator.

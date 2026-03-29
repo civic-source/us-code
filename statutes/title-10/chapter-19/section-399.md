@@ -5,7 +5,7 @@ usc_section: "399"
 chapter: 19
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 399"
-generated_at: "2026-03-29T00:20:52.843Z"
+generated_at: "2026-03-29T02:10:44.866Z"
 ---
 
 # § 399. Notifications relating to military operations in the information environment: requirement to notify Chief of Mission

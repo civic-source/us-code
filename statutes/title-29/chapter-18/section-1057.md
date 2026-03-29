@@ -5,7 +5,7 @@ usc_section: "1057"
 chapter: 18
 current_through: "PL 119-73"
 classification: "29 U.S.C. § 1057"
-generated_at: "2026-03-29T00:31:27.629Z"
+generated_at: "2026-03-29T02:14:09.418Z"
 ---
 
 # § 1057. Repealed. Pub. L. 109–280, title I, § 108(d) , formerly § 107(d), Aug. 17, 2006 , 120 Stat. 820 , renumbered Pub. L. 111–192, title II, § 202(a) , June 25, 2010 , 124 Stat. 1297

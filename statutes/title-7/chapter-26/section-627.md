@@ -5,21 +5,21 @@ usc_section: "627"
 chapter: 26
 current_through: "PL 119-73"
 classification: "7 U.S.C. § 627"
-generated_at: "2026-03-29T00:28:57.955Z"
+generated_at: "2026-03-29T02:10:16.745Z"
 ---
 
 # § 627. Dairy forward pricing pilot program
 
-(a) Not later than 90 days after November 29, 1999 , the Secretary of Agriculture shall establish a temporary pilot program under which milk producers and cooperatives are authorized to voluntarily enter into forward price contracts with milk handlers.
-(b) Payments made by milk handlers to milk producers and cooperatives, and prices received by milk producers and cooperatives, under the forward contracts shall be deemed to satisfy—
-  (1) all regulated minimum milk price requirements of paragraphs (B) and (F) of subsection (5) of section 608c of this title ; and
-  (2) the requirement of paragraph (C) of such subsection regarding total payments by each handler.
-(c) 
-  (1) The pilot program shall apply only with respect to the marketing of federally regulated milk that—
-    (A) is not classified as Class I milk or otherwise intended for fluid use; and
-    (B) is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in federally regulated milk.
-  (2) To assist milk handlers in complying with the limitation in paragraph (1)(A) without having to segregate or otherwise individually track the source and disposition of milk, a milk handler may allocate milk receipts from producers, cooperatives, and other sources that are not subject to a forward contract to satisfy the handler’s obligations with regard to Class I milk usage.
-(d) The authority of the Secretary of Agriculture to carry out the pilot program shall terminate on December 31, 2004 . No forward price contract entered into under the program may extend beyond that date.
-(e) 
-  (1) The Secretary of Agriculture shall conduct a study on forward contracting between milk producers and cooperatives and milk handlers to determine the impact on milk prices paid to producers in the United States. To obtain information for the study, the Secretary may use the authorities available to the Secretary under section 608d of this title , subject to the confidentiality requirements of subsection (2) of such section.
-  (2) Not later than April 30, 2002 , the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.
+- **(a)** Not later than 90 days after November 29, 1999 , the Secretary of Agriculture shall establish a temporary pilot program under which milk producers and cooperatives are authorized to voluntarily enter into forward price contracts with milk handlers.
+- **(b)** Payments made by milk handlers to milk producers and cooperatives, and prices received by milk producers and cooperatives, under the forward contracts shall be deemed to satisfy—
+  - **(1)** all regulated minimum milk price requirements of paragraphs (B) and (F) of subsection (5) of section 608c of this title ; and
+  - **(2)** the requirement of paragraph (C) of such subsection regarding total payments by each handler.
+- **(c)**
+  - **(1)** The pilot program shall apply only with respect to the marketing of federally regulated milk that—
+    - **(A)** is not classified as Class I milk or otherwise intended for fluid use; and
+    - **(B)** is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in federally regulated milk.
+  - **(2)** To assist milk handlers in complying with the limitation in paragraph (1)(A) without having to segregate or otherwise individually track the source and disposition of milk, a milk handler may allocate milk receipts from producers, cooperatives, and other sources that are not subject to a forward contract to satisfy the handler’s obligations with regard to Class I milk usage.
+- **(d)** The authority of the Secretary of Agriculture to carry out the pilot program shall terminate on December 31, 2004 . No forward price contract entered into under the program may extend beyond that date.
+- **(e)**
+  - **(1)** The Secretary of Agriculture shall conduct a study on forward contracting between milk producers and cooperatives and milk handlers to determine the impact on milk prices paid to producers in the United States. To obtain information for the study, the Secretary may use the authorities available to the Secretary under section 608d of this title , subject to the confidentiality requirements of subsection (2) of such section.
+  - **(2)** Not later than April 30, 2002 , the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.

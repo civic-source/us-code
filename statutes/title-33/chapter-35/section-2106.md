@@ -5,10 +5,10 @@ usc_section: "2106"
 chapter: 35
 current_through: "PL 119-73"
 classification: "33 U.S.C. § 2106"
-generated_at: "2026-03-29T00:31:57.394Z"
+generated_at: "2026-03-29T02:14:18.599Z"
 ---
 
 # § 2106. Savings clauses
 
-(a) Nothing in this chapter shall be construed as replacing or superseding section 831y–1 of title 16 .
-(b) Nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State over the siting, construction, monitoring, or managing of artificial reefs within its boundaries.
+- **(a)** Nothing in this chapter shall be construed as replacing or superseding section 831y–1 of title 16 .
+- **(b)** Nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State over the siting, construction, monitoring, or managing of artificial reefs within its boundaries.

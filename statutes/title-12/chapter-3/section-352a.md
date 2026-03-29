@@ -5,7 +5,7 @@ usc_section: "352a"
 chapter: 3
 current_through: "PL 119-73"
 classification: "12 U.S.C. § 352a"
-generated_at: "2026-03-29T00:29:16.495Z"
+generated_at: "2026-03-29T02:11:20.854Z"
 ---
 
 # § 352a. Repealed. Pub. L. 85–699, title VI, § 601 , Aug. 21, 1958 , 72 Stat. 697

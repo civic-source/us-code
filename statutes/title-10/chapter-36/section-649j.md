@@ -5,13 +5,13 @@ usc_section: "649j"
 chapter: 36
 current_through: "PL 119-73"
 classification: "10 U.S.C. § 649j"
-generated_at: "2026-03-29T00:20:52.873Z"
+generated_at: "2026-03-29T02:10:44.897Z"
 ---
 
 # § 649j. Other administrative authorities
 
 The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this subchapter:
 
-  (1) Section 638b, relating to voluntary retirement incentives.
-  (2) Section 639, relating to continuation on active duty to complete disciplinary action.
-  (3) Section 640, relating to deferment of retirement or separation for medical reasons.
+  - **(1)** Section 638b, relating to voluntary retirement incentives.
+  - **(2)** Section 639, relating to continuation on active duty to complete disciplinary action.
+  - **(3)** Section 640, relating to deferment of retirement or separation for medical reasons.

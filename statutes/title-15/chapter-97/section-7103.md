@@ -5,27 +5,27 @@ usc_section: "7103"
 chapter: 97
 current_through: "PL 119-73"
 classification: "15 U.S.C. § 7103"
-generated_at: "2026-03-29T00:29:41.911Z"
+generated_at: "2026-03-29T02:11:34.414Z"
 ---
 
 # § 7103. Membership of the Interagency Committee
 
-(a) 
-  (1) The Interagency Committee shall be composed of 1 representative from each of the following:
-    (A) The Department of Commerce.
-    (B) The Department of Defense.
-    (C) The Department of Health and Human Services.
-    (D) The Department of Labor.
-    (E) The Small Business Administration.
-    (F) The Department of Transportation.
-    (G) The Department of the Treasury.
-    (H) The General Services Administration.
-    (I) The Board of Governors of the Federal Reserve.
-    (J) The Executive staff of the President engaged in policymaking activities.
-  (2) 
-    (A) Except as provided in subparagraph (B), the head of each department and agency listed in paragraph (1) shall, not later than 45 days after December 2, 1997 , designate a representative who shall be a policymaking official within the department or agency, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee.
-    (B) With respect to the Small Business Administration, the representative shall be the Assistant Administrator of the Office of Women’s Business Ownership, who also shall serve as the vice chairperson of the Interagency Committee and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under section 7105 of this title .
-  (3) Other representatives of the Federal Government not listed in paragraph (1) may participate in the meetings and functions of the Interagency Committee on a temporary basis as needed to carry out specific Interagency Committee goals.
-(b) Not later than 45 days after December 2, 1997 , the President, in consultation with the Administrator of the Small Business Administration, shall appoint 1 of the members of the Interagency Committee to serve as chairperson.
-(c) The members of the Interagency Committee shall serve without additional pay for such membership.
-(d) Upon request by the chairperson of the Interagency Committee, the head of any Federal department or agency may detail any of the personnel of such agency to assist the Interagency Committee in carrying out its duties under this chapter without regard to section 3341 of title 5 .
+- **(a)**
+  - **(1)** The Interagency Committee shall be composed of 1 representative from each of the following:
+    - **(A)** The Department of Commerce.
+    - **(B)** The Department of Defense.
+    - **(C)** The Department of Health and Human Services.
+    - **(D)** The Department of Labor.
+    - **(E)** The Small Business Administration.
+    - **(F)** The Department of Transportation.
+    - **(G)** The Department of the Treasury.
+    - **(H)** The General Services Administration.
+    - **(I)** The Board of Governors of the Federal Reserve.
+    - **(J)** The Executive staff of the President engaged in policymaking activities.
+  - **(2)**
+    - **(A)** Except as provided in subparagraph (B), the head of each department and agency listed in paragraph (1) shall, not later than 45 days after December 2, 1997 , designate a representative who shall be a policymaking official within the department or agency, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee.
+    - **(B)** With respect to the Small Business Administration, the representative shall be the Assistant Administrator of the Office of Women’s Business Ownership, who also shall serve as the vice chairperson of the Interagency Committee and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under section 7105 of this title .
+  - **(3)** Other representatives of the Federal Government not listed in paragraph (1) may participate in the meetings and functions of the Interagency Committee on a temporary basis as needed to carry out specific Interagency Committee goals.
+- **(b)** Not later than 45 days after December 2, 1997 , the President, in consultation with the Administrator of the Small Business Administration, shall appoint 1 of the members of the Interagency Committee to serve as chairperson.
+- **(c)** The members of the Interagency Committee shall serve without additional pay for such membership.
+- **(d)** Upon request by the chairperson of the Interagency Committee, the head of any Federal department or agency may detail any of the personnel of such agency to assist the Interagency Committee in carrying out its duties under this chapter without regard to section 3341 of title 5 .

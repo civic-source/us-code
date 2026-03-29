@@ -5,13 +5,13 @@ usc_section: "577"
 chapter: 1
 current_through: "PL 119-73"
 classification: "6 U.S.C. § 577"
-generated_at: "2026-03-29T00:06:17.488Z"
+generated_at: "2026-03-29T02:10:05.025Z"
 ---
 
 # § 577. Urban and other high risk area communications capabilities
 
-(a) The Secretary, in consultation with the Chairman of the Federal Communications Commission and the Secretary of Defense, and with appropriate State, local, and tribal government officials, shall provide technical guidance, training, and other assistance, as appropriate, to support the rapid establishment of consistent, secure, and effective interoperable emergency communications capabilities in the event of an emergency in urban and other areas determined by the Secretary to be at consistently high levels of risk from natural disasters, acts of terrorism, and other man-made disasters.
-(b) The interoperable emergency communications capabilities established under subsection (a) shall ensure the ability of all levels of government, emergency response providers, the private sector, and other organizations with emergency response capabilities—
-  (1) to communicate with each other in the event of an emergency;
-  (2) to have appropriate and timely access to the Information Sharing Environment described in section 485 of this title ; and
-  (3) to be consistent with any applicable State or Urban Area homeland strategy or plan.
+- **(a)** The Secretary, in consultation with the Chairman of the Federal Communications Commission and the Secretary of Defense, and with appropriate State, local, and tribal government officials, shall provide technical guidance, training, and other assistance, as appropriate, to support the rapid establishment of consistent, secure, and effective interoperable emergency communications capabilities in the event of an emergency in urban and other areas determined by the Secretary to be at consistently high levels of risk from natural disasters, acts of terrorism, and other man-made disasters.
+- **(b)** The interoperable emergency communications capabilities established under subsection (a) shall ensure the ability of all levels of government, emergency response providers, the private sector, and other organizations with emergency response capabilities—
+  - **(1)** to communicate with each other in the event of an emergency;
+  - **(2)** to have appropriate and timely access to the Information Sharing Environment described in section 485 of this title ; and
+  - **(3)** to be consistent with any applicable State or Urban Area homeland strategy or plan.

@@ -5,7 +5,7 @@ usc_section: "123"
 chapter: 6
 current_through: "PL 119-73"
 classification: "27 U.S.C. § 123"
-generated_at: "2026-03-29T00:31:21.683Z"
+generated_at: "2026-03-29T02:14:02.222Z"
 ---
 
 # § 123. Repealed. June 25, 1936, ch. 815, § 9 , 49 Stat. 1930

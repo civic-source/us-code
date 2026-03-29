@@ -5,11 +5,11 @@ usc_section: "40726"
 chapter: 407
 current_through: "PL 119-73"
 classification: "34 U.S.C. § 40726"
-generated_at: "2026-03-29T00:32:01.687Z"
+generated_at: "2026-03-29T02:14:25.383Z"
 ---
 
 # § 40726. DNA identification of missing persons
 
-(a) The Attorney General shall make grants to promote the use of forensic DNA technology to identify missing persons and unidentified human remains.
-(b) Each State or unit of local government that receives funding under this section shall be required to submit the DNA profiles of such missing persons and unidentified human remains to the National Missing Persons DNA Database of the Federal Bureau of Investigation.
-(c) There are authorized to be appropriated $2,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
+- **(a)** The Attorney General shall make grants to promote the use of forensic DNA technology to identify missing persons and unidentified human remains.
+- **(b)** Each State or unit of local government that receives funding under this section shall be required to submit the DNA profiles of such missing persons and unidentified human remains to the National Missing Persons DNA Database of the Federal Bureau of Investigation.
+- **(c)** There are authorized to be appropriated $2,000,000 for each of fiscal years 2017 through 2021 to carry out this section.

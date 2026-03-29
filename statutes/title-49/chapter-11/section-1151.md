@@ -5,20 +5,20 @@ usc_section: "1151"
 chapter: 11
 current_through: "PL 119-73"
 classification: "49 U.S.C. § 1151"
-generated_at: "2026-03-29T00:33:13.715Z"
+generated_at: "2026-03-29T02:16:08.861Z"
 ---
 
 # § 1151. Aviation enforcement
 
-(a) The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
-(b) On request of the Board, the Attorney General may bring a civil action in an appropriate court—
-  (1) to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections; and
-  (2) to prosecute a person violating those sections or a regulation prescribed or order issued under any of those sections.
-(c) On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
-(d) If the Board or Attorney General carry out such civil actions described in subsection (a) or (b) of this section against an airman employed at the time of the accident or incident by an air carrier operating under part 121 of title 14, Code of Federal Regulations, the Board shall immediately notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of such civil actions, including—
-  (1) the labor union representing the airman involved, if applicable;
-  (2) the air carrier at which the airman is employed;
-  (3) the docket information of the incident or accident in which the airman was involved;
-  (4) the date of such civil actions taken by the Board or Attorney General; and
-  (5) a description of why such civil actions were taken by the Board or Attorney General.
-(e) Not later than 15 days after the notification described in subsection (d), the Board shall submit a report to or brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the status of compliance with the civil actions taken.
+- **(a)** The National Transportation Safety Board may bring a civil action in a district court of the United States against a person to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections. An action under this subsection may be brought in the judicial district in which the person does business or the violation occurred.
+- **(b)** On request of the Board, the Attorney General may bring a civil action in an appropriate court—
+  - **(1)** to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title or a regulation prescribed or order issued under any of those sections; and
+  - **(2)** to prosecute a person violating those sections or a regulation prescribed or order issued under any of those sections.
+- **(c)** On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
+- **(d)** If the Board or Attorney General carry out such civil actions described in subsection (a) or (b) of this section against an airman employed at the time of the accident or incident by an air carrier operating under part 121 of title 14, Code of Federal Regulations, the Board shall immediately notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of such civil actions, including—
+  - **(1)** the labor union representing the airman involved, if applicable;
+  - **(2)** the air carrier at which the airman is employed;
+  - **(3)** the docket information of the incident or accident in which the airman was involved;
+  - **(4)** the date of such civil actions taken by the Board or Attorney General; and
+  - **(5)** a description of why such civil actions were taken by the Board or Attorney General.
+- **(e)** Not later than 15 days after the notification described in subsection (d), the Board shall submit a report to or brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the status of compliance with the civil actions taken.

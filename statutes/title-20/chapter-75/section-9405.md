@@ -5,10 +5,10 @@ usc_section: "9405"
 chapter: 75
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 9405"
-generated_at: "2026-03-29T00:07:03.200Z"
+generated_at: "2026-03-29T02:12:17.518Z"
 ---
 
 # § 9405. Coordination of Federal programs
 
-(a) The Secretary and the Secretary of Education shall develop mechanisms to resolve administrative and programmatic conflicts between Federal programs that would be a barrier to parents, caregivers, service providers, or children related to the coordination of services and funding for early learning programs.
-(b) In the case of a collaborative activity funded under this chapter and another provision of law providing for Federal child care or early learning programs, the use of equipment and nonconsumable supplies purchased with funds made available under this chapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under this chapter or such provision, during a period in which the activity is predominately funded under this chapter or such provision.
+- **(a)** The Secretary and the Secretary of Education shall develop mechanisms to resolve administrative and programmatic conflicts between Federal programs that would be a barrier to parents, caregivers, service providers, or children related to the coordination of services and funding for early learning programs.
+- **(b)** In the case of a collaborative activity funded under this chapter and another provision of law providing for Federal child care or early learning programs, the use of equipment and nonconsumable supplies purchased with funds made available under this chapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under this chapter or such provision, during a period in which the activity is predominately funded under this chapter or such provision.

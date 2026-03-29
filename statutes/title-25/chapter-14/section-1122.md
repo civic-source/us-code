@@ -5,7 +5,7 @@ usc_section: "1122"
 chapter: 14
 current_through: "PL 119-73"
 classification: "25 U.S.C. § 1122"
-generated_at: "2026-03-29T00:30:38.665Z"
+generated_at: "2026-03-29T02:13:20.871Z"
 ---
 
 # § 1122. Omitted

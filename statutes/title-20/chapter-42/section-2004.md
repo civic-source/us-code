@@ -5,17 +5,17 @@ usc_section: "2004"
 chapter: 42
 current_through: "PL 119-73"
 classification: "20 U.S.C. § 2004"
-generated_at: "2026-03-29T00:07:03.155Z"
+generated_at: "2026-03-29T02:12:17.374Z"
 ---
 
 # § 2004. Harry S Truman Scholarship Foundation
 
-(a) There is established, as an independent establishment of the executive branch of the United States Government, the Harry S Truman Scholarship Foundation.
-(b) 
-  (1) 1 1 So in original. No par. (2) has been enacted. The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
-    (A) two Members of the Senate, one from each political party, to be appointed by the President of the Senate;
-    (B) two Members of the House of Representatives, one from each political party, to be appointed by the Speaker;
-    (C) eight members, not more than four of whom shall be of the same political party, to be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, one a chief executive officer of a city or county, one a member of a Federal court, one a member of a State court, one a person active in postsecondary education, and three representatives of the general public; and
-    (D) the Secretary of Education or his designate, who shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
-(c) The term of office of each member of the Board shall be six years; except that (1) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (2) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made.
-(d) Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+- **(a)** There is established, as an independent establishment of the executive branch of the United States Government, the Harry S Truman Scholarship Foundation.
+- **(b)**
+  - **(1)** 1 1 So in original. No par. (2) has been enacted. The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
+    - **(A)** two Members of the Senate, one from each political party, to be appointed by the President of the Senate;
+    - **(B)** two Members of the House of Representatives, one from each political party, to be appointed by the Speaker;
+    - **(C)** eight members, not more than four of whom shall be of the same political party, to be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, one a chief executive officer of a city or county, one a member of a Federal court, one a member of a State court, one a person active in postsecondary education, and three representatives of the general public; and
+    - **(D)** the Secretary of Education or his designate, who shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
+- **(c)** The term of office of each member of the Board shall be six years; except that (1) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (2) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made.
+- **(d)** Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
