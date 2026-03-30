@@ -3,16 +3,16 @@ title: "Section 59 - Other definitions and special rules"
 usc_title: 26
 usc_section: "59"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 59"
-generated_at: "2026-03-30T07:12:22.921Z"
+generated_at: "2026-03-30T07:15:38.935Z"
 status: "active"
 ---
 
 # § 59. Other definitions and special rules
 
 - **(a)** For purposes of this part—
-  - **(1)** The alternative minimum tax foreign tax credit for any taxable year shall be the credit which would be determined under section 27(a) for such taxable year if—
+  - **(1)** The alternative minimum tax foreign tax credit for any taxable year shall be the credit which would be determined under section 27 for such taxable year if—
     - **(A)** the pre-credit tentative minimum tax were the tax against which such credit was taken for purposes of section 904 for the taxable year and all prior taxable years beginning after December 31, 1986 ,
     - **(B)** section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
     - **(C)** the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.

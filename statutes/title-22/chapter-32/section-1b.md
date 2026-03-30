@@ -3,9 +3,9 @@ title: "Section 1b - Transferred"
 usc_title: 22
 usc_section: "1b"
 chapter: 32
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 1b"
-generated_at: "2026-03-30T07:12:12.245Z"
+generated_at: "2026-03-30T07:15:29.009Z"
 status: "transferred"
 ---
 

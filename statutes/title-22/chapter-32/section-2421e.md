@@ -3,9 +3,9 @@ title: "Section 2421e - Definitions"
 usc_title: 22
 usc_section: "2421e"
 chapter: 32
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2421e"
-generated_at: "2026-03-30T07:12:12.247Z"
+generated_at: "2026-03-30T07:15:29.010Z"
 status: "active"
 ---
 

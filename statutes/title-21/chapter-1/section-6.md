@@ -3,9 +3,9 @@ title: "Section 6 - Transferred"
 usc_title: 21
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "21 U.S.C. § 6"
-generated_at: "2026-03-30T07:12:03.073Z"
+generated_at: "2026-03-30T07:15:25.894Z"
 status: "transferred"
 ---
 

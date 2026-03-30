@@ -3,9 +3,9 @@ title: "Section 8011 - Revised congregate housing services program"
 usc_title: 42
 usc_section: "8011"
 chapter: 89
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 8011"
-generated_at: "2026-03-30T07:13:46.056Z"
+generated_at: "2026-03-30T07:16:11.447Z"
 status: "active"
 ---
 
@@ -110,7 +110,7 @@ status: "active"
     - **(F)** the reasonableness and application of fees schedules established for congregate services;
     - **(G)** the adequacy and accuracy of the proposed budgets; and
     - **(H)** the extent to which the owner will provide funds from other services in excess of that required by this section.
-  - **(2)** The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n) 4 4 So in original. Probably should be subsection “(m)”. , establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
+  - **(2)** The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, by regulation under subsection (n), 4 4 So in original. Probably should be subsection “(m),”. establish procedures for States, Indian tribes, and units of general local government receiving assistance under this section—
     - **(A)** to review and evaluate the performance of the congregate services programs of eligible housing projects receiving assistance under this section in such State; and
     - **(B)** to submit annually, to the Secretary concerned, a report evaluating the impact and effectiveness of congregate services programs in the entity assisted under this section.
 - **(i)**
@@ -166,7 +166,7 @@ status: "active"
     - **(B)** impedes the ability of the individual to live independently unless the individual receives congregate services.
   - **(20)** The term “unit of general local government”—
     - **(A)** means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
-    - **(B)** includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B) 11 11 So in original. Probably should be subsection “(h)(1)(B)”. .
+    - **(B)** includes a unit of general government acting as an applicant for assistance under this section in cooperation with a nonprofit housing sponsor and a nonprofit housing sponsor acting as an applicant for assistance under this section in cooperation with a unit of general local government, as provided under subsection (g)(1)(B). 11 11 So in original. Probably should be subsection “(h)(1)(B).”.
 - **(l)**
   - **(1)** Each Secretary concerned shall submit to the Congress, for each fiscal year for which assistance is provided for congregate services programs under this section, an annual report—
     - **(A)** describing the activities being carried out with assistance under this section and the population being served by such activities;

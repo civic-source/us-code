@@ -3,9 +3,9 @@ title: "Section 18384 - Decadal results"
 usc_title: 42
 usc_section: "18384"
 chapter: 159
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 18384"
-generated_at: "2026-03-30T07:13:46.202Z"
+generated_at: "2026-03-30T07:16:11.683Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2109 - Report on employment and international competitiveness"
 usc_title: 29
 usc_section: "2109"
 chapter: 23
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 2109"
-generated_at: "2026-03-30T07:12:16.137Z"
+generated_at: "2026-03-30T07:15:34.241Z"
 status: "active"
 ---
 

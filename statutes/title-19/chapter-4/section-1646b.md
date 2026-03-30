@@ -3,9 +3,9 @@ title: "Section 1646b - Random customs inspections for stolen automobiles being 
 usc_title: 19
 usc_section: "1646b"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 1646b"
-generated_at: "2026-03-30T07:11:54.956Z"
+generated_at: "2026-03-30T07:15:16.012Z"
 status: "active"
 ---
 

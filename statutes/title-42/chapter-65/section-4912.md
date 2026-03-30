@@ -3,9 +3,9 @@ title: "Section 4912 - Records, reports, and information"
 usc_title: 42
 usc_section: "4912"
 chapter: 65
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 4912"
-generated_at: "2026-03-30T07:13:45.959Z"
+generated_at: "2026-03-30T07:16:11.287Z"
 status: "active"
 ---
 

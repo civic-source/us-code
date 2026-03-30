@@ -3,9 +3,9 @@ title: "Section 1775 - Retention of nonimmigrant visa applications by the Depart
 usc_title: 8
 usc_section: "1775"
 chapter: 15
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "8 U.S.C. § 1775"
-generated_at: "2026-03-30T07:10:58.131Z"
+generated_at: "2026-03-30T07:14:48.279Z"
 status: "active"
 ---
 

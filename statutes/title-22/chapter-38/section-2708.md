@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T07:12:12.256Z"
+generated_at: "2026-03-30T07:15:29.020Z"
 status: "active"
 ---
 
@@ -74,9 +74,11 @@ status: "active"
     - **(B)** a person with respect to whom the individual stands in loco parentis; and
     - **(C)** any person not covered by subparagraph (A) or (B) who is living in the individual’s household and is related to the individual by blood or marriage.
   - **(4)** The term “rewards program” means the program established in subsection (a)(1).
-  - **(5)** The term “transnational organized crime” means—
-    - **(A)** racketeering activity (as such term is defined in section 1961 of title 18 ) that involves at least one jurisdiction outside the United States; or
-    - **(B)** any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit.
+  - **(5)** The term “transnational organized crime”—
+    - **(A)** means—
+      - **(i)** racketeering activity (as such term is defined in section 1961 of title 18 ) that involves at least one jurisdiction outside the United States; or
+      - **(ii)** any other criminal offense punishable by a term of imprisonment of at least four years under Federal, State, or local law that involves at least one jurisdiction outside the United States and that is intended to obtain, directly or indirectly, a financial or other material benefit; and
+    - **(B)** includes severe forms of trafficking in persons (as defined in section 7102 of this title ) involving at least 1 jurisdiction outside of the United States.
   - **(6)** The term “transnational organized crime group” means a group of persons that includes one or more citizens of a foreign country, exists for a period of time, and acts in concert with the aim of engaging in transnational organized crime.
   - **(7)** The term “United States narcotics laws” means the laws of the United States for the prevention and control of illicit trafficking in controlled substances (as such term is defined in section 802(6) of title 21 ).
   - **(8)** The term “United States person” means—

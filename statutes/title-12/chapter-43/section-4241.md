@@ -3,9 +3,9 @@ title: "Section 4241 - Authority to enter into contracts for private counsel"
 usc_title: 12
 usc_section: "4241"
 chapter: 43
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "12 U.S.C. § 4241"
-generated_at: "2026-03-30T07:11:36.715Z"
+generated_at: "2026-03-30T07:15:09.843Z"
 status: "active"
 ---
 

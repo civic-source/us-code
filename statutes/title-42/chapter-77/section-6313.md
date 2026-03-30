@@ -3,9 +3,9 @@ title: "Section 6313 - Standards"
 usc_title: 42
 usc_section: "6313"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 6313"
-generated_at: "2026-03-30T07:13:45.991Z"
+generated_at: "2026-03-30T07:16:11.342Z"
 status: "active"
 ---
 
@@ -227,4 +227,4 @@ status: "active"
       - **(i)** Except as provided in clause (ii), the rule shall provide that the standards shall apply to products manufactured beginning on the date that is 3 years after the final rule is published.
       - **(ii)** If the Secretary determines, by rule, that a 3-year period is inadequate, the Secretary may establish an effective date for products manufactured beginning on the date that is not more than 5 years after the date of publication of a final rule for the products.
   - **(6)** Subparagraph (C) of paragraph (1) shall not apply to a walk-in cooler or walk-in freezer component if the component manufacturer has demonstrated to the satisfaction of the Secretary that the component reduces energy consumption at least as much as if such subparagraph were to apply. In support of any demonstration under this paragraph, a manufacturer shall provide to the Secretary all data and technical information necessary to fully evaluate its application.
-- **(g)** If the Secretary, acting pursuant to section 341(b), includes as covered equipment solid state lighting power supply circuits, drivers, or devices described in section 6291(36)(A)(ii) of this title , the Secretary may prescribe under this part, not earlier than 1 year after the date on which a test procedure has been prescribed, an energy conservation standard for such equipment.
+- **(g)** If the Secretary, acting pursuant to section 6312(b) of this title , includes as covered equipment solid state lighting power supply circuits, drivers, or devices described in section 6291(36)(A)(ii) of this title , the Secretary may prescribe under this part, not earlier than 1 year after the date on which a test procedure has been prescribed, an energy conservation standard for such equipment.

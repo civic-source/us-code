@@ -3,9 +3,9 @@ title: "Section 9536 - Equipment: bakeries, schools, kitchens, and mess halls"
 usc_title: 10
 usc_section: "9536"
 chapter: 933
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 9536"
-generated_at: "2026-03-30T07:11:06.669Z"
+generated_at: "2026-03-30T07:14:57.850Z"
 status: "active"
 ---
 

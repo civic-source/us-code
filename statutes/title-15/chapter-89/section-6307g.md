@@ -3,9 +3,9 @@ title: "Section 6307g - Confidentiality"
 usc_title: 15
 usc_section: "6307g"
 chapter: 89
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 6307g"
-generated_at: "2026-03-30T07:11:27.034Z"
+generated_at: "2026-03-30T07:15:11.924Z"
 status: "active"
 ---
 

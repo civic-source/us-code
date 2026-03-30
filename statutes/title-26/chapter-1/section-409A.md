@@ -3,9 +3,9 @@ title: "Section 409A - Inclusion in gross income of deferred compensation under 
 usc_title: 26
 usc_section: "409A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 409A"
-generated_at: "2026-03-30T07:12:22.969Z"
+generated_at: "2026-03-30T07:15:38.987Z"
 status: "active"
 ---
 
@@ -62,7 +62,7 @@ status: "active"
       - **(i)** during any restricted period with respect to a single-employer defined benefit plan, assets are set aside or reserved (directly or indirectly) in a trust (or other arrangement as determined by the Secretary) or transferred to such a trust or other arrangement for purposes of paying deferred compensation of an applicable covered employee under a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor, or
       - **(ii)** a nonqualified deferred compensation plan of the plan sponsor or member of a controlled group which includes the plan sponsor provides that assets will become restricted to the provision of benefits under the plan to an applicable covered employee in connection with such restricted period (or other similar financial measure determined by the Secretary) with respect to the defined benefit plan, or assets are so restricted,
     - **(B)** For purposes of this section, the term “restricted period” means, with respect to any plan described in subparagraph (A)—
-      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)); 1 1 So in original. The semicolon probably should be a comma.
+      - **(i)** any period during which the plan is in at-risk status (as defined in section 430(i)),
       - **(ii)** any period the plan sponsor is a debtor in a case under title 11, United States Code, or similar Federal or State law, and
       - **(iii)** the 12-month period beginning on the date which is 6 months before the termination date of the plan if, as of the termination date, the plan is not sufficient for benefit liabilities (within the meaning of section 4041 of the Employee Retirement Income Security Act of 1974).
     - **(C)** If an employer provides directly or indirectly for the payment of any Federal, State, or local income taxes with respect to any compensation required to be included in gross income by reason of this paragraph—

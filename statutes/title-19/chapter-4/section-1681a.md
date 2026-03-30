@@ -3,9 +3,9 @@ title: "Section 1681a - Requirements for entry of certain cigarettes and smokele
 usc_title: 19
 usc_section: "1681a"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 1681a"
-generated_at: "2026-03-30T07:11:54.964Z"
+generated_at: "2026-03-30T07:15:16.021Z"
 status: "active"
 ---
 

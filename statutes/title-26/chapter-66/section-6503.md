@@ -3,16 +3,16 @@ title: "Section 6503 - Suspension of running of period of limitation"
 usc_title: 26
 usc_section: "6503"
 chapter: 66
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6503"
-generated_at: "2026-03-30T07:12:23.112Z"
+generated_at: "2026-03-30T07:15:39.136Z"
 status: "active"
 ---
 
 # § 6503. Suspension of running of period of limitation
 
 - **(a)**
-  - **(1)** The running of the period of limitations provided in section 6501 or 6502. 1 1 So in original. on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
+  - **(1)** The running of the period of limitations provided in section 6501 or 6502 on the making of assessments or the collection by levy or a proceeding in court, in respect of any deficiency as defined in section 6211 (relating to income, estate, gift and certain excise taxes), shall (after the mailing of a notice under section 6212(a)) be suspended for the period during which the Secretary is prohibited from making the assessment or from collecting by levy or a proceeding in court (and in any event, if a proceeding in respect of the deficiency is placed on the docket of the Tax Court, until the decision of the Tax Court becomes final), and for 60 days thereafter.
   - **(2)** If a notice under section 6212(a) in respect of a deficiency in tax imposed by subtitle A for any taxable year is mailed to a corporation, the suspension of the running of the period of limitations provided in paragraph (1) of this subsection shall apply in the case of corporations with which such corporation made a consolidated income tax return for such taxable year.
 - **(b)** The period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period the assets of the taxpayer are in the control or custody of the court in any proceeding before any court of the United States or of any State or of the District of Columbia, and for 6 months thereafter.
 - **(c)** The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer’s return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months.

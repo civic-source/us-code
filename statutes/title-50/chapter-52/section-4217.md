@@ -3,9 +3,9 @@ title: "Section 4217 - Documents relating to the internment"
 usc_title: 50
 usc_section: "4217"
 chapter: 52
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 4217"
-generated_at: "2026-03-30T07:13:58.471Z"
+generated_at: "2026-03-30T07:16:19.001Z"
 status: "active"
 ---
 

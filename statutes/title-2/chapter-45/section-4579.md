@@ -3,33 +3,37 @@ title: "Section 4579 - Student loan repayment program for Senate employees"
 usc_title: 2
 usc_section: "4579"
 chapter: 45
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 4579"
-generated_at: "2026-03-30T07:10:50.408Z"
+generated_at: "2026-03-30T07:14:20.290Z"
 status: "active"
 ---
 
 # § 4579. Student loan repayment program for Senate employees
 
 - **(a)** In this section:
-  - **(1)** The term “eligible employee” means an individual, except as provided under subsection (b)(3)—
+  - **(1)** The term “departure date” means the earlier of—
+    - **(A)** the date on which the term of a departing Senator or Vice President ends; or
+    - **(B)** the date on which the departing Senator or Vice President will retire or resign.
+  - **(2)** The term “departing Senator or Vice President” means a Senator or Vice President who will not serve in the next term due to retirement, resignation, a decision to not seek reelection, or a failure to secure reelection.
+  - **(3)** The term “eligible employee” means an individual, except as provided under subsection (b)(3)—
     - **(A)** who is an employee of the Senate; and
-    - **(B)** whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).
-  - **(2)** The term “employee of the Senate”—
+    - **(B)** whose rate of pay as an employee of the Senate, on the date on which such eligibility is determined, does not exceed the rate of basic pay payable for a position at level IV of the Executive Schedule under section 5315 of title 5 .
+  - **(4)** The term “employee of the Senate”—
     - **(A)** has the meaning given the term under section 1301 of this title ; and
     - **(B)** includes any employee of the Office of Congressional Accessibility Services whose pay is disbursed by the Secretary of the Senate.
-  - **(3)** The term “employing office”—
+  - **(5)** The term “employing office”—
     - **(A)** means the employing office, as defined under section 1301 of this title , of an employee of the Senate; and
     - **(B)** includes the Office of Congressional Accessibility Services with respect to employees of that office whose pay is disbursed by the Secretary of the Senate.
-  - **(4)** The term “Secretary” means the Secretary of the Senate.
-  - **(5)** The term “student loan” means—
+  - **(6)** The term “Secretary” means the Secretary of the Senate.
+  - **(7)** The term “student loan” means—
     - **(A)** a loan made, insured, or guaranteed under part B, D, or E of title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1071 et seq., 1087a et seq., or 1087aa et seq.); and
     - **(B)** a health education assistance loan made or insured under part A of title VII of the Public Health Service Act ( 42 U.S.C. 292 et seq.), or under part E of title VIII of such Act ( 42 U.S.C. 297a et seq.).
 - **(b)**
   - **(1)**
     - **(A)** The head of an employing office and an eligible employee may enter into a written service agreement under which—
       - **(i)** the employing office shall agree to repay, by direct payments on behalf of the eligible employee, any student loan indebtedness of the eligible employee that is outstanding at the time the eligible employee and the employing office enter into the agreement, subject to this section; and
-      - **(ii)** the eligible employee shall agree to complete the 1-year required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
+      - **(ii)** the eligible employee shall agree to complete the required period of employment described in subsection (c)(1) with the employing office in exchange for the student loan payments.
     - **(B)**
       - **(i)** A service agreement under this paragraph shall contain—
         - **(I)** the start and end dates of the required period of employment covered by the agreement;
@@ -42,7 +46,11 @@ status: "active"
   - **(2)** On entering into a service agreement under this section, the employing office shall submit a copy of the service agreement to the Secretary.
   - **(3)** Notwithstanding section 5379 of title 5 , an employee of the Office of Congressional Accessibility Services may not participate in the student loan repayment program through an agreement under that section and participate in the student loan repayment program through a service agreement under this section at the same time.
 - **(c)**
-  - **(1)** The term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+  - **(1)**
+    - **(A)** Except as provided in subparagraph (B), the term of the required period of employment under a service agreement under this section shall be 1 year. On completion of the required period of employment under such a service agreement, the eligible employee and the employing office may enter into additional service agreements for successive 1-year periods of employment.
+    - **(B)** After the date that is 1 year before the departure date of a departing Senator or Vice President, the departing Senator or Vice President may enter into a service agreement under this section with an eligible employee of the office of the Senator or Vice President (including an eligible employee who has completed a required period of employment under a previous service agreement) that includes a required period of employment that—
+      - **(i)** is less than 1 year; and
+      - **(ii)** shall end on the last day of the last full pay period ending on or before the departure date of the departing Senator or Vice President.
   - **(2)**
     - **(A)** The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—
       - **(i)** $500 in any month; or
@@ -55,9 +63,11 @@ status: "active"
     - **(B)** the employee engages in misconduct or does not maintain an acceptable level of performance, as determined by the head of the employing office; or
     - **(C)** the employee violates any condition of the agreement.
   - **(2)** The duty of an eligible employee to fulfill the required period of employment under the service agreement shall be terminated if—
-    - **(A)** funds are not made available to cover the cost of the student loan repayment program carried out under this section; or
-    - **(B)** the employee and the head of the employing office involved mutually agree to terminate the service agreement under subsection (f)(7).
-  - **(3)** An employing office who hires an eligible employee during a required period of employment under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee’s prior employing office under the agreement.
+    - **(A)** funds are not made available to cover the cost of the student loan repayment program carried out under this section;
+    - **(B)** the employee and the head of the employing office involved mutually agree to terminate the service agreement;
+    - **(C)** the agreement is terminated as provided under subsection (f)(7)(A); or
+    - **(D)** the employee separates from service with the office of a departing Senator or Vice President.
+  - **(3)** An employing office who hires an eligible employee during a required period of employment (including a required period of employment described in subsection (c)(1)(B)) under such a service agreement may assume the remaining obligations (as of the date of the hiring) of the employee’s prior employing office under the agreement.
   - **(4)** If an eligible employee fails to reimburse the Senate for the amount owed under paragraph (1), such amount shall be collected—
     - **(A)** under section 6568(c) of this title or section 5514 of title 5 if the eligible employee is employed by any other office of the Senate or agency of the Federal Government; or
     - **(B)** under other applicable provisions of law if the eligible employee is not employed by any other office of the Senate or agency of the Federal Government.
@@ -82,7 +92,16 @@ status: "active"
   - **(4)** Student loan payments may be made under this section with respect to more than 1 student loan of an eligible employee at the same time or separately, if the total payments on behalf of such employee do not exceed the limits under subsection (c)(2)(A).
   - **(5)** Student loan payments made on behalf of an eligible employee under this section shall be in addition to any basic pay and other forms of compensation otherwise payable to the eligible employee, and shall be subject to withholding for income and employment tax obligations as provided for by law.
   - **(6)** An agreement to make student loan payments under this section shall not exempt an eligible employee from the responsibility or liability of the employee with respect to the loan involved and the eligible employee shall continue to be responsible for making student loan payments on the portion of any loan that is not covered under the terms of the service agreement.
-  - **(7)** Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.
+  - **(7)**
+    - **(A)**
+      - **(i)** Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office.
+      - **(ii)** If the head of an employing office decides to reduce the amount of student loan payments to an eligible employee under clause (i)—
+        - **(I)** the employing office shall concurrently notify the eligible employee and the Secretary of the Senate of the reduction; and
+        - **(II)** not later than 30 days after the date of the concurrent notice, the eligible employee may terminate the service agreement.
+    - **(B)** Notwithstanding the terms of a service agreement under this section, the head of an employing office, with the consent of an eligible employee, may increase the amount of student loan payments made under the agreement with the eligible employee, if—
+      - **(i)** the office has adequate funds available for the purpose of agreements under this section;
+      - **(ii)** the amount of the increased payment does not exceed the limitations under this section; and
+      - **(iii)** the total amount of the loan payments to be made (including such increase) during the remainder of the required period of employment does not exceed the amount of student loan indebtedness of the eligible employee as of the date of the increase.
   - **(8)** A service agreement under this section shall not be construed to create a right to, promise of, or entitlement to the continued employment of the eligible employee.
   - **(9)** A student loan payment under this section shall not be construed to be an entitlement for any eligible employee.
   - **(10)** A student loan payment under this section—

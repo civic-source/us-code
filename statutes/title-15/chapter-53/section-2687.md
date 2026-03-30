@@ -3,9 +3,9 @@ title: "Section 2687 - Regulations"
 usc_title: 15
 usc_section: "2687"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 2687"
-generated_at: "2026-03-30T07:11:27.013Z"
+generated_at: "2026-03-30T07:15:11.901Z"
 status: "active"
 ---
 

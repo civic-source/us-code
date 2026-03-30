@@ -3,9 +3,9 @@ title: "Section 7112 - Licenses of masters or mates as pilots"
 usc_title: 46
 usc_section: "7112"
 chapter: 71
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "46 U.S.C. § 7112"
-generated_at: "2026-03-30T07:13:55.182Z"
+generated_at: "2026-03-30T07:16:16.862Z"
 status: "active"
 ---
 

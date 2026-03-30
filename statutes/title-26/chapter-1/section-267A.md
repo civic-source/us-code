@@ -3,9 +3,9 @@ title: "Section 267A - Certain related party amounts paid or accrued in hybrid t
 usc_title: 26
 usc_section: "267A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 267A"
-generated_at: "2026-03-30T07:12:22.952Z"
+generated_at: "2026-03-30T07:15:38.970Z"
 status: "active"
 ---
 
@@ -30,5 +30,5 @@ status: "active"
   - **(6)** rules for determining the tax residence of a foreign entity if the entity is otherwise considered a resident of more than one country or of no country,
   - **(7)** exceptions from subsection (a) with respect to—
     - **(A)** cases in which the disqualified related party amount is taxed under the laws of a foreign country other than the country of which the related party is a resident for tax purposes, and
-    - **(B)** other cases which the Secretary determines do not present a risk of eroding the Federal tax base,
+    - **(B)** other cases which the Secretary determines do not present a risk of eroding the Federal tax base, 1 1 So in original. Probably should be followed by “and”.
   - **(8)** requirements for record keeping and information reporting in addition to any requirements imposed by section 6038A.

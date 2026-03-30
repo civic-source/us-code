@@ -3,9 +3,9 @@ title: "Section 56 - Adjustments in computing alternative minimum taxable income
 usc_title: 26
 usc_section: "56"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 56"
-generated_at: "2026-03-30T07:12:22.920Z"
+generated_at: "2026-03-30T07:15:38.935Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
       - **(iii)** in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
       - **(iv)** the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
     - **(D)** No recovery of any tax to which subparagraph (A)(ii) applied shall be included in gross income for purposes of determining alternative minimum taxable income.
-    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) 1 of section 63(c)(1).
+    - **(E)** The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed.
     - **(F)** Section 68 shall not apply.
   - **(2)**
     - **(A)** The amount allowable as a deduction under section 173 or 174(a) in computing the regular tax for amounts paid or incurred after December 31, 1986 , shall be capitalized and—
@@ -64,8 +64,8 @@ status: "active"
         - **(I)** the amount of such deduction attributable to net operating losses (other than the deduction described in clause (ii)(I)), or
         - **(II)** 90 percent of alternative minimum taxable income determined without regard to such deduction and the deduction under section 199, 1 plus
       - **(ii)** the lesser of—
-        - **(I)** the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), 1 or
-        - **(II)** alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 reduced by the amount determined under clause (i), and
+        - **(I)** the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H) (as in effect before its repeal by the Tax Increase Prevention Act of 2014), or
+        - **(II)** alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 1 reduced by the amount determined under clause (i), and
     - **(B)** in determining the amount of such deduction—
       - **(i)** the net operating loss (within the meaning of section 172(c)) for any loss year shall be adjusted as provided in paragraph (2), and
       - **(ii)** appropriate adjustments in the application of section 172(b)(2) shall be made to take into account the limitation of subparagraph (A).
@@ -88,4 +88,3 @@ status: "active"
     - **(B)** is secured by property which, at the time such indebtedness was incurred, was—
       - **(i)** the principal residence (within the meaning of section 121) of the taxpayer, or
       - **(ii)** a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
-- **[(f)**

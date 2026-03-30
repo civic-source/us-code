@@ -3,9 +3,9 @@ title: "Section 206 - Bills and resolutions of Committee on the Judiciary of Hou
 usc_title: 1
 usc_section: "206"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "1 U.S.C. § 206"
-generated_at: "2026-03-30T07:10:49.103Z"
+generated_at: "2026-03-30T07:14:22.335Z"
 status: "active"
 ---
 

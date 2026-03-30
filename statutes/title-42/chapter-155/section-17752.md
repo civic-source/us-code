@@ -3,9 +3,9 @@ title: "Section 17752 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "17752"
 chapter: 155
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 17752"
-generated_at: "2026-03-30T07:13:46.192Z"
+generated_at: "2026-03-30T07:16:11.668Z"
 status: "repealed"
 ---
 

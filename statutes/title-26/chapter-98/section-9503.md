@@ -3,9 +3,9 @@ title: "Section 9503 - Highway Trust Fund"
 usc_title: 26
 usc_section: "9503"
 chapter: 98
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 9503"
-generated_at: "2026-03-30T07:12:23.137Z"
+generated_at: "2026-03-30T07:15:39.163Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
   - **(4)**
     - **(A)** The Secretary shall pay from time to time from the Highway Trust Fund into the Sport Fish Restoration and Boating Trust Fund amounts (as determined by him) equivalent to the small-engine fuel taxes received on or after December 1, 1990 , and before October 1, 2022 .
     - **(B)** For purposes of this paragraph, the term “small-engine fuel taxes” means the taxes under section 4081 with respect to gasoline used as a fuel in the nonbusiness use of small-engine outdoor power equipment, but only to the extent such taxes are deposited into the Highway Trust Fund.
-  - **(5)** The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005 , and before October 1, 2011 , under section 4081 with respect to so much of the rate of tax as does not exceed—
+  - **(5)** The Secretary shall pay at least monthly from the Highway Trust Fund into the Airport and Airway Trust Fund amounts (as determined by the Secretary) equivalent to the taxes received on or after October 1, 2005 , under section 4081 with respect to so much of the rate of tax as does not exceed—
     - **(A)** 4.3 cents per gallon of kerosene subject to section 6427( l )(4)(A) with respect to which a payment has been made by the Secretary under section 6427( l ), and
     - **(B)** 21.8 cents per gallon of kerosene subject to section 6427( l )(4)(B) with respect to which a payment has been made by the Secretary under section 6427( l ).
 - **(d)**
@@ -86,8 +86,8 @@ status: "active"
   - **(2)** The Secretary of the Treasury shall transfer to the Mass Transit Account the mass transit portion of the amounts appropriated to the Highway Trust Fund under subsection (b) which are attributable to taxes under sections 4041 and 4081 imposed after March 31, 1983 . For purposes of the preceding sentence, the term “mass transit portion” means, for any fuel with respect to which tax was imposed under section 4041 or 4081 and otherwise deposited into the Highway Trust Fund, the amount determined at the rate of—
     - **(A)** except as otherwise provided in this sentence, 2.86 cents per gallon,
     - **(B)** 1.43 cents per gallon in the case of any partially exempt methanol or ethanol fuel (as defined in section 4041(m)) none of the alcohol in which consists of ethanol,
-    - **(C)** 1.86 cents per gallon in the case of liquefied natural gas,
-    - **(D)** 2.13 cents per gallon in the case of liquefied petroleum gas, and
+    - **(C)** 1.86 cents per energy equivalent of a gallon of diesel (as defined in section 4041(a)(2)(D)) in the case of liquefied natural gas,
+    - **(D)** 2.13 cents per energy equivalent of a gallon of gasoline (as defined in section 4041(a)(2)(C)) in the case of liquefied petroleum gas, and
     - **(E)** 9.71 cents per MCF (determined at standard temperature and pressure) in the case of compressed natural gas.
   - **(3)** Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020 , in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
   - **(4)** Rules similar to the rules of subsection (d) shall apply to the Mass Transit Account.

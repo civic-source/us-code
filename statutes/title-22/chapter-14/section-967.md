@@ -3,9 +3,9 @@ title: "Section 967 - Repealed. Pub. L. 86–723 , § 52(4), Sept. 8, 1960 , 74 
 usc_title: 22
 usc_section: "967"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 967"
-generated_at: "2026-03-30T07:12:12.214Z"
+generated_at: "2026-03-30T07:15:28.977Z"
 status: "repealed"
 ---
 

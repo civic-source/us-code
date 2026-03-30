@@ -3,9 +3,9 @@ title: "Section 1396h - State false claims act requirements for increased State 
 usc_title: 42
 usc_section: "1396h"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 1396h"
-generated_at: "2026-03-30T07:13:45.821Z"
+generated_at: "2026-03-30T07:16:11.069Z"
 status: "active"
 ---
 

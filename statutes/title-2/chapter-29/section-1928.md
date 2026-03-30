@@ -3,9 +3,9 @@ title: "Section 1928 - Repealed. Pub. L. 111–145 , § 2(a)(4)(B)(i), Mar. 4, 2
 usc_title: 2
 usc_section: "1928"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 1928"
-generated_at: "2026-03-30T07:10:50.399Z"
+generated_at: "2026-03-30T07:14:20.281Z"
 status: "repealed"
 ---
 

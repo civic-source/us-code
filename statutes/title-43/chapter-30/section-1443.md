@@ -3,9 +3,9 @@ title: "Section 1443 - Cancellation of leases of public lands used as airports m
 usc_title: 43
 usc_section: "1443"
 chapter: 30
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 1443"
-generated_at: "2026-03-30T07:12:59.816Z"
+generated_at: "2026-03-30T07:15:55.082Z"
 status: "active"
 ---
 

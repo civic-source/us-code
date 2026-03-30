@@ -3,13 +3,13 @@ title: "Section 5182 - Cross references"
 usc_title: 26
 usc_section: "5182"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 5182"
-generated_at: "2026-03-30T07:12:23.084Z"
+generated_at: "2026-03-30T07:15:39.105Z"
 status: "active"
 ---
 
 # § 5182. Cross references
 
-For provisions requiring recordkeeping by wholesale liquor dealers, see section 5112, 1 1 So in original. Probably should be “5121,”. and by retail liquor dealers, see section 5122.
+For provisions requiring recordkeeping by wholesale liquor dealers, see section 5121, and by retail liquor dealers, see section 5122.
 

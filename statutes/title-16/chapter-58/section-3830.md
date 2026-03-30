@@ -3,9 +3,9 @@ title: "Section 3830 - Repealed. Pub. L. 113–79, title II , § 2701, Feb. 7, 2
 usc_title: 16
 usc_section: "3830"
 chapter: 58
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 3830"
-generated_at: "2026-03-30T07:11:43.305Z"
+generated_at: "2026-03-30T07:15:21.080Z"
 status: "repealed"
 ---
 

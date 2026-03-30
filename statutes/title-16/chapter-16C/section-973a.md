@@ -3,9 +3,9 @@ title: "Section 973a - Application to other laws"
 usc_title: 16
 usc_section: "973a"
 chapter: 16
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 973a"
-generated_at: "2026-03-30T07:11:43.250Z"
+generated_at: "2026-03-30T07:15:21.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 313a - Establishment of meteorological observation stations in t
 usc_title: 15
 usc_section: "313a"
 chapter: 9
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 313a"
-generated_at: "2026-03-30T07:11:26.930Z"
+generated_at: "2026-03-30T07:15:11.811Z"
 status: "active"
 ---
 

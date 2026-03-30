@@ -3,9 +3,9 @@ title: "Section 4101 - Foreign Claims Settlement Commission of the United States
 usc_title: 50
 usc_section: "4101"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 4101"
-generated_at: "2026-03-30T07:13:58.468Z"
+generated_at: "2026-03-30T07:16:18.997Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51701 - United States Maritime Service"
 usc_title: 46
 usc_section: "51701"
 chapter: 517
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "46 U.S.C. § 51701"
-generated_at: "2026-03-30T07:13:55.197Z"
+generated_at: "2026-03-30T07:16:16.888Z"
 status: "active"
 ---
 

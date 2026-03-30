@@ -3,9 +3,9 @@ title: "Section 76 - Standards and procedures; establishment, amendment, and rev
 usc_title: 7
 usc_section: "76"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 76"
-generated_at: "2026-03-30T07:11:01.861Z"
+generated_at: "2026-03-30T07:15:04.377Z"
 status: "active"
 ---
 

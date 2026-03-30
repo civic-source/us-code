@@ -3,9 +3,9 @@ title: "Section 223 - Health savings accounts"
 usc_title: 26
 usc_section: "223"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 223"
-generated_at: "2026-03-30T07:12:22.949Z"
+generated_at: "2026-03-30T07:15:38.967Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
         - **(I)** $5,000 for self-only coverage, and
         - **(II)** twice the dollar amount in subclause (I) for family coverage.
     - **(B)** Such term does not include a health plan if substantially all of its coverage is coverage described in paragraph (1)(B).
-    - **(C)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1871 of the Social Security Act, except as otherwise provided by the Secretary).
+    - **(C)** A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for preventive care (within the meaning of section 1861 of the Social Security Act, except as otherwise provided by the Secretary).
     - **(D)** In the case of a plan using a network of providers—
       - **(i)** Such plan shall not fail to be treated as a high deductible health plan by reason of having an out-of-pocket limitation for services provided outside of such network which exceeds the applicable limitation under subparagraph (A)(ii).
       - **(ii)** Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
@@ -90,7 +90,7 @@ status: "active"
     - **(D)** The assets of the trust will not be commingled with other property except in a common trust fund or common investment fund.
     - **(E)** The interest of an individual in the balance in his account is nonforfeitable.
   - **(2)**
-    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) 1 1 So in original. Probably should be followed by a second closing parenthesis. for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+    - **(A)** The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d)) for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
     - **(B)** Subparagraph (A) shall not apply to any payment for insurance.
     - **(C)** Subparagraph (B) shall not apply to any expense for coverage under—
       - **(i)** a health plan during any period of continuation coverage required under any Federal law,

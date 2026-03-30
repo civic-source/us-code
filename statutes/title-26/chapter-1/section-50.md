@@ -3,9 +3,9 @@ title: "Section 50 - Other special rules"
 usc_title: 26
 usc_section: "50"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 50"
-generated_at: "2026-03-30T07:12:22.919Z"
+generated_at: "2026-03-30T07:15:38.934Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** Any amount which would have been applied as a reduction under paragraph (2) of section 47(b) but for the fact that a reduction under such paragraph cannot reduce the amount taken into account under section 47(b)(1) below zero shall be treated as an amount required to be recaptured under subparagraph (A) for the taxable year during which the building is placed in service.
     - **(C)** Under regulations prescribed by the Secretary, a sale by, and leaseback to, a taxpayer who, when the property is placed in service, will be a lessee to whom the rules referred to in subsection (d)(5) apply shall not be treated as a cessation described in subparagraph (A) to the extent that the amount which will be passed through to the lessee under such rules with respect to such property is not less than the qualified rehabilitation expenditures properly taken into account by the lessee under section 47(d) with respect to such property.
     - **(D)** If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
-    - **(E)** Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
+    - **(E)** Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
   - **(3)** In the case of any cessation described in paragraph (1) or (2), the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation.
   - **(4)** Paragraphs (1) and (2) shall not apply to—
     - **(A)** a transfer by reason of death, or
@@ -36,7 +36,7 @@ status: "active"
     - **(A)** Except as provided in subparagraph (B), no credit shall be determined under this subpart with respect to any property which is used predominantly outside the United States.
     - **(B)** Subparagraph (A) shall not apply to any property described in section 168(g)(4).
   - **(2)** No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
-    - **(A)** nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities. 1 1 So in original. The period probably should be a semicolon.
+    - **(A)** nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
     - **(B)** property used by a hotel or motel in connection with the trade or business of furnishing lodging where the predominant portion of the accommodations is used by transients;
     - **(C)** a certified historic structure to the extent of that portion of the basis which is attributable to qualified rehabilitation expenditures; and
     - **(D)** any energy property.

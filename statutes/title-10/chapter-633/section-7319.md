@@ -3,16 +3,16 @@ title: "Section 7319 - Requirements for availability of funds relating to advanc
 usc_title: 10
 usc_section: "7319"
 chapter: 633
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 7319"
-generated_at: "2026-03-30T07:11:06.660Z"
+generated_at: "2026-03-30T07:14:57.841Z"
 status: "active"
 ---
 
 # § 7319. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium
 
 - **(a)** Low-enriched uranium activities may only be carried out using funds authorized to be appropriated or otherwise made available for the Department of Energy for atomic energy defense activities for defense nuclear nonproliferation.
-- **(b)** Prohibition Regarding Certain Accounts
+- **(b)**
   - **(1)** None of the funds described in paragraph (2) may be obligated or expended to carry out low-enriched uranium activities.
   - **(2)** The funds described in this paragraph are funds authorized to be appropriated or otherwise made available for any fiscal year for any of the following accounts:
     - **(A)** Shipbuilding and conversion, Navy, or any other account of the Department of Defense.

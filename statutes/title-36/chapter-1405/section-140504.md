@@ -3,9 +3,9 @@ title: "Section 140504 - Governing body"
 usc_title: 36
 usc_section: "140504"
 chapter: 1405
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "36 U.S.C. § 140504"
-generated_at: "2026-03-30T07:12:40.640Z"
+generated_at: "2026-03-30T07:15:49.382Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1014 - Effect on other laws"
 usc_title: 15
 usc_section: "1014"
 chapter: 20
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 1014"
-generated_at: "2026-03-30T07:11:26.963Z"
+generated_at: "2026-03-30T07:15:11.848Z"
 status: "active"
 ---
 

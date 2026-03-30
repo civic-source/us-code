@@ -3,9 +3,9 @@ title: "Section 9319 - Recruit basic training: separate housing for male and fem
 usc_title: 10
 usc_section: "9319"
 chapter: 901
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 9319"
-generated_at: "2026-03-30T07:11:06.667Z"
+generated_at: "2026-03-30T07:14:57.848Z"
 status: "active"
 ---
 

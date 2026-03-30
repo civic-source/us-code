@@ -3,9 +3,9 @@ title: "Section 6334 - Property exempt from levy"
 usc_title: 26
 usc_section: "6334"
 chapter: 64
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6334"
-generated_at: "2026-03-30T07:12:23.107Z"
+generated_at: "2026-03-30T07:15:39.131Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(8)** If the taxpayer is required by judgment of a court of competent jurisdiction, entered prior to the date of levy, to contribute to the support of his minor children, so much of his salary, wages, or other income as is necessary to comply with such judgment.
   - **(9)** Any amount payable to or received by an individual as wages or salary for personal services, or as income derived from other sources, during any period, to the extent that the total of such amounts payable to or received by him during such period does not exceed the applicable exempt amount determined under subsection (d).
   - **(10)** Any amount payable to an individual as a service-connected (within the meaning of section 101(16) of title 38 , United States Code) disability benefit under—
-    - **(A)** subchapter II, III, IV, V,, 1 1 So in original. or VI of chapter 11 of such title 38, or
+    - **(A)** subchapter II, III, IV, V, or VI of chapter 11 of such title 38, or
     - **(B)** chapter 13, 21, 23, 31, 32, 34, 35, 37, or 39 of such title 38.
   - **(11)** Any amount payable to an individual as a recipient of public assistance under—
     - **(A)** title IV or title XVI (relating to supplemental security income for the aged, blind, and disabled) of the Social Security Act, or

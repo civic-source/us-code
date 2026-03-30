@@ -3,9 +3,9 @@ title: "Section 425 - Rights and protections under the Occupational Safety and H
 usc_title: 3
 usc_section: "425"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "3 U.S.C. § 425"
-generated_at: "2026-03-30T07:10:49.465Z"
+generated_at: "2026-03-30T07:14:24.075Z"
 status: "active"
 ---
 

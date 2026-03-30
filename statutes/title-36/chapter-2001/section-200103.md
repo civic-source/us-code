@@ -3,9 +3,9 @@ title: "Section 200103 - Powers"
 usc_title: 36
 usc_section: "200103"
 chapter: 2001
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "36 U.S.C. § 200103"
-generated_at: "2026-03-30T07:12:40.646Z"
+generated_at: "2026-03-30T07:15:49.390Z"
 status: "active"
 ---
 

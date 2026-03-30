@@ -3,9 +3,9 @@ title: "Section 1121 - Formation of Project"
 usc_title: 30
 usc_section: "1121"
 chapter: 24
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 1121"
-generated_at: "2026-03-30T07:12:16.445Z"
+generated_at: "2026-03-30T07:15:31.398Z"
 status: "active"
 ---
 

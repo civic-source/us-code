@@ -3,9 +3,9 @@ title: "Section 16012 - Prohibition on assumption by United States Government of
 usc_title: 42
 usc_section: "16012"
 chapter: 149
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 16012"
-generated_at: "2026-03-30T07:13:46.169Z"
+generated_at: "2026-03-30T07:16:11.628Z"
 status: "active"
 ---
 

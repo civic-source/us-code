@@ -1,15 +1,15 @@
 ---
-title: "Section 82 - Reimbursement for expenses of moving"
+title: "Section 82 - Reimbursement of moving expenses"
 usc_title: 26
 usc_section: "82"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 82"
-generated_at: "2026-03-30T07:12:22.925Z"
+generated_at: "2026-03-30T07:15:38.939Z"
 status: "active"
 ---
 
-# § 82. Reimbursement for expenses of moving
+# § 82. Reimbursement of moving expenses
 
 Except as provided in section 132(a)(6), there shall be included in gross income (as compensation for services) any amount received or accrued, directly or indirectly, by an individual as a payment for or reimbursement of expenses of moving from one residence to another residence which is attributable to employment or self-employment.
 

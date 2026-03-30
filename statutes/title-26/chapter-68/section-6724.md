@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T07:12:23.118Z"
+generated_at: "2026-03-30T07:15:39.143Z"
 status: "active"
 ---
 
@@ -46,8 +46,8 @@ status: "active"
       - **(xvii)** subsection (b) or (e) of section 1060 (relating to reporting requirements of transferors and transferees in certain asset acquisitions),
       - **(xviii)** section 4101(d) (relating to information reporting with respect to fuels taxes),
       - **(xix)** subparagraph (C) of section 338(h)(10) (relating to information required to be furnished to the Secretary in case of elective recognition of gain or loss),
-      - **(xx)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts), or 1 1 So in original. The word “or” probably should not appear.
-      - **(xxi)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), and 2 2 So in original. The word “and” probably should not appear.
+      - **(xx)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
+      - **(xxi)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements),
       - **(xxii)** section 6039(a) (relating to returns required with respect to certain options),
       - **(xxiii)** section 6050W (relating to returns to payments made in settlement of payment card transactions),
       - **(xxiv)** section 6055 (relating to returns relating to information regarding health insurance coverage),
@@ -56,21 +56,21 @@ status: "active"
     - **(C)** any statement of the amount of payments to another person required to be made to the Secretary under—
       - **(i)** section 408(i) (relating to reports with respect to individual retirement accounts or annuities), or
       - **(ii)** section 6047(d) (relating to reports by employers, plan administrators, etc.), and
-    - **(D)** any statement required to be filed with the Secretary under section 6035. Such term also includes any form, statement, or schedule required to be filed with the Secretary under chapter 4 or with respect to any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States). 3 3 So in original. Provision probably should be set flush with par. (1).
+    - **(D)** any statement required to be filed with the Secretary under section 6035.
   - **(2)** The term “payee statement” means any statement required to be furnished under—
     - **(A)** section 6031(b) or (c), 6034A, or 6037(b) (relating to statements furnished by certain pass-thru entities),
     - **(B)** section 6039(b) (relating to information required in connection with certain options),
     - **(C)** section 6041(d) (relating to information at source),
     - **(D)** section 6041A(e) (relating to returns regarding payments of remuneration for services and direct sales),
     - **(E)** section 6042(c) (relating to returns regarding payments of dividends and corporate earnings and profits),
-    - **(F)** subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions). 4 4 So in original. The period probably should be a comma.
+    - **(F)** subsections (b) and (d) of section 6043A (relating to returns relating to taxable mergers and acquisitions),
     - **(G)** section 6044(e) (relating to returns regarding payments of patronage dividends),
     - **(H)** section 6045(b) or (d) (relating to returns of brokers),
     - **(I)** section 6045A (relating to information required in connection with transfers of covered securities to brokers),
     - **(J)** subsections (c) and (e) of section 6045B (relating to returns relating to actions affecting basis of specified securities),
     - **(K)** section 6049(c) (relating to returns regarding payments of interest),
     - **(L)** section 6050A(b) (relating to reporting requirements of certain fishing boat operators),
-    - **(M)** section 6050H(d) or (h)(2) relating 5 5 So in original. Probably should be preceded by an opening parenthesis. to returns relating to mortgage interest received in trade or business from individuals),
+    - **(M)** section 6050H(d) or (h)(2) (relating to returns relating to mortgage interest received in trade or business from individuals),
     - **(N)** section 6050I(e) or paragraph (4) or (5) of section 6050I(g) (relating to cash received in trade or business, etc.),
     - **(O)** section 6050J(e) (relating to returns relating to foreclosures and abandonments of security),
     - **(P)** section 6050K(b) (relating to returns relating to exchanges of certain partnership interests),
@@ -87,20 +87,21 @@ status: "active"
     - **(AA)** section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
     - **(BB)** section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
     - **(CC)** section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
-    - **(DD)** section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals) 6 6 So in original. A comma probably should appear.
+    - **(DD)** section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals),
     - **(EE)** section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements),
     - **(FF)** section 6050W(f) (relating to returns relating to payments made in settlement of payment card transactions),
     - **(GG)** section 6055(c) (relating to statements relating to information regarding health insurance coverage),
     - **(HH)** section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage),
     - **(II)** section 6035 (other than a statement described in paragraph (1)(D)), or
-    - **(JJ)** subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
+    - **(JJ)** 1 1 So in original. Two subpars. (JJ) have been enacted. section 6226(a)(2) (relating to statements relating to alternative to payment of imputed underpayment by partnership) or under any other provision of this title which provides for the application of rules similar to such section.
+    - **(JJ)** 1 subsection (a)(2), (b)(2), or (c)(2) of section 6050Y (relating to returns relating to certain life insurance contract transactions).
   - **(3)** The term “specified information reporting requirement” means—
     - **(A)** the notice required by section 6050K(c)(1) (relating to requirement that transferor notify partnership of exchange),
     - **(B)** any requirement contained in the regulations prescribed under section 6109 that a person—
       - **(i)** include his TIN on any return, statement, or other document (other than an information return or payee statement),
       - **(ii)** furnish his TIN to another person, or
       - **(iii)** include on any return, statement, or other document (other than an information return or payee statement) made with respect to another person the TIN of such person,
-    - **(C)** 7 7 See Amendment of Subsection (d)(3) note below. any requirement contained in the regulations prescribed under section 215 that a person—
+    - **(C)** 2 2 See Amendment of Subsection (d)(3) note below. any requirement contained in the regulations prescribed under section 215 that a person—
       - **(i)** furnish his TIN to another person, or
       - **(ii)** include on his return the TIN of another person, and
     - **(D)** any requirement under section 6109(h) that—

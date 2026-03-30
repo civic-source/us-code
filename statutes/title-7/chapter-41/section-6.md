@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 104–127, title II , § 271(a), Apr. 4, 1
 usc_title: 7
 usc_section: "6"
 chapter: 41
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 6"
-generated_at: "2026-03-30T07:11:01.926Z"
+generated_at: "2026-03-30T07:15:04.442Z"
 status: "repealed"
 ---
 

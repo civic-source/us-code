@@ -3,9 +3,9 @@ title: "Section 2222 - Defense business systems: business process reengineering;
 usc_title: 10
 usc_section: "2222"
 chapter: 131
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2222"
-generated_at: "2026-03-30T07:11:06.606Z"
+generated_at: "2026-03-30T07:14:57.789Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(4)** uses an acquisition and sustainment strategy that prioritizes the use of commercial software and business practices.
 - **(c)**
   - **(1)** The Secretary shall issue guidance to provide for the coordination of, and decision making for, the planning, programming, and control of investments in covered defense business systems.
-  - **(2)** The Secretary shall direct the Deputy Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
+  - **(2)** The Secretary shall direct the Deputy Chief Management Officer of the Department of Defense, 1 1 See References in Text note below. the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
 - **(d)** The guidance issued under subsection (c)(1) shall include the following elements:
   - **(1)** Policy to ensure that the business processes of the Department of Defense are continuously reviewed and revised—
     - **(A)** to implement the most streamlined and efficient business processes practicable; and
@@ -30,7 +30,7 @@ status: "active"
   - **(5)** Policy to ensure full consideration of sustainability and technological refreshment requirements, and the appropriate use of open architectures.
   - **(6)** Policy to ensure that best acquisition and systems engineering practices are used in the procurement and deployment of commercial systems, modified commercial systems, and defense-unique systems to meet Department of Defense missions.
 - **(e)**
-  - **(1)** The Secretary, working through the Deputy Chief Management Officer of the Department of Defense, shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the “defense business enterprise architecture”.
+  - **(1)** The Secretary, working through the Deputy Chief Management Officer of the Department of Defense, 1 shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the “defense business enterprise architecture”.
   - **(2)** The defense business enterprise architecture shall be sufficiently defined to effectively guide implementation of interoperable defense business system solutions and shall be consistent with the policies and procedures established by the Director of the Office of Management and Budget.
   - **(3)** The defense business enterprise architecture shall—
     - **(A)** include policies, procedures, business data standards, business performance measures, and business information requirements that apply uniformly throughout the Department of Defense; and
@@ -57,7 +57,7 @@ status: "active"
     - **(C)** The Director of Cost Assessment and Program Evaluation shall have access to data for the purpose of executing missions as designated by the Secretary of Defense.
     - **(D)** The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
 - **(f)**
-  - **(1)** The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department’s business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Deputy Chief Management Officer and the Chief Information Officer of the Department of Defense.
+  - **(1)** The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department’s business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Deputy Chief Management Officer 1 and the Chief Information Officer of the Department of Defense.
   - **(2)** The membership of the Council shall include the following:
     - **(A)** The Chief Management Officers of the military departments, or their designees.
     - **(B)** The following officials of the Department of Defense, or their designees:
@@ -72,10 +72,10 @@ status: "active"
     - **(D)** the system has an acquisition strategy designed to eliminate or reduce the need to tailor commercial off-the-shelf systems to meet unique requirements, incorporate unique requirements, or incorporate unique interfaces to the maximum extent practicable; and
     - **(E)** the system is in compliance with the Department’s auditability requirements.
   - **(2)** For purposes of paragraph (1), the appropriate approval official with respect to a covered defense business system is the following:
-    - **(A)** Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Deputy Chief Management Officer of the Department of Defense.
+    - **(A)** Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Deputy Chief Management Officer of the Department of Defense. 1
     - **(B)** Except as may be provided in subparagraph (C), for any defense business system other than a priority defense business system—
       - **(i)** in the case of a system of a military department, the Chief Management Officer of that military department; and
-      - **(ii)** in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Deputy Chief Management Officer of the Department of Defense.
+      - **(ii)** in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Deputy Chief Management Officer of the Department of Defense. 1
     - **(C)** In the case of any defense business system, such official other than the applicable official under subparagraph (A) or (B) as the Secretary designates for such purpose.
   - **(3)** For any fiscal year in which funds are expended for development or sustainment pursuant to a covered defense business system program, the appropriate approval official shall review the system and certify, certify with conditions, or decline to certify, as the case may be, that it continues to satisfy the requirements of paragraph (1). If the approval official determines that certification cannot be granted, the approval official shall notify the milestone decision authority for the program and provide a recommendation for corrective action.
   - **(4)** The obligation of Department of Defense funds for a covered defense business system program that has not been certified in accordance with paragraph (3) is a violation of section 1341(a)(1)(A) of title 31 .
@@ -99,10 +99,10 @@ status: "active"
   - **(4)** The term “covered defense business system program” means a defense acquisition program to develop and field a covered defense business system or an increment of a covered defense business system.
   - **(5)** The term “priority defense business system” means a defense business system that is—
     - **(A)** expected to have a total amount of budget authority over the period of the current future-years defense program submitted to Congress under section 221 of this title in excess of $250,000,000; or
-    - **(B)** designated by the Deputy Chief Management Officer of the Department of Defense as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
+    - **(B)** designated by the Deputy Chief Management Officer of the Department of Defense 1 as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
   - **(6)** The term “enterprise architecture” has the meaning given that term in section 3601(4) of title 44 .
   - **(7)** The term “information system” has the meaning given that term in section 11101 of title 40 , United States Code.
   - **(8)** The term “national security system” has the meaning given that term in section 3552(b)(6)(A) of title 44 .
   - **(9)** The term “business process mapping” means a procedure in which the steps in a business process are clarified and documented in both written form and in a flow chart.
   - **(10)** The term “common enterprise data” means business operations or management-related data, generally from defense business systems, in a usable format that is automatically accessible by authorized personnel and organizations.
-  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A). 1 1 So in original. Probably should be “subsection (e)(6)(A).”
+  - **(11)** The term “data governance process” means a system to manage the timely Department of Defense-wide sharing of data described under subsection (a)(6)(A). 2 2 So in original. Probably should be “subsection (e)(6)(A).”

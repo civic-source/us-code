@@ -3,9 +3,9 @@ title: "Section 64 - Repealed. Oct. 31, 1951, ch. 654 , § 1(37)–(40), 65 Stat
 usc_title: 20
 usc_section: "64"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 64"
-generated_at: "2026-03-30T07:11:44.971Z"
+generated_at: "2026-03-30T07:15:17.632Z"
 status: "repealed"
 ---
 

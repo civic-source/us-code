@@ -3,9 +3,9 @@ title: "Section 1347 - Safety and health regulations"
 usc_title: 43
 usc_section: "1347"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 1347"
-generated_at: "2026-03-30T07:12:59.814Z"
+generated_at: "2026-03-30T07:15:55.080Z"
 status: "active"
 ---
 

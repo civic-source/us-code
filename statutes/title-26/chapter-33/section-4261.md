@@ -3,9 +3,9 @@ title: "Section 4261 - Imposition of tax"
 usc_title: 26
 usc_section: "4261"
 chapter: 33
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 4261"
-generated_at: "2026-03-30T07:12:23.068Z"
+generated_at: "2026-03-30T07:15:39.088Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** There is hereby imposed on the amount paid for taxable transportation of any person a tax equal to 7.5 percent of the amount so paid.
 - **(b)**
-  - **(1)** There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount determined in accordance with the following table for the period in which the segment begins: In the case of segments beginning: The tax is: After September 30, 1997 , and before October 1, 1998 $1.00 After September 30, 1998 , and before October 1, 1999 $2.00 After September 30, 1999 , and before January 1, 2000 $2.25 During 2000 $2.50 During 2001 $2.75 During 2002 or thereafter $3.00.
+  - **(1)** There is hereby imposed on the amount paid for each domestic segment of taxable transportation by air a tax in the amount of $3.00.
   - **(2)** For purposes of this section, the term “domestic segment” means any segment consisting of 1 takeoff and 1 landing and which is taxable transportation described in section 4262(a)(1).
   - **(3)** If—
     - **(A)** transportation is purchased between 2 locations on specified flights, and
@@ -69,11 +69,11 @@ status: "active"
   - **(2)** by a fixed-wing aircraft equipped for and exclusively dedicated on that flight to acute care emergency medical services.
 - **(h)** No tax shall be imposed by this section or section 4271 on any air transportation exclusively for the purpose of skydiving.
 - **(i)** No tax shall be imposed by this section or section 4271 on any air transportation by a seaplane with respect to any segment consisting of a takeoff from, and a landing on, water, but only if the places at which such takeoff and landing occur have not received and are not receiving financial assistance from the Airport and Airways Trust Fund.
-- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after March 31, 2018 .
+- **(j)** No tax shall be imposed by this section or section 4271 on any air transportation if tax is imposed under section 4043 with respect to the fuel used in such transportation. This subsection shall not apply after September 30, 2018 .
 - **(k)**
   - **(1)** The taxes imposed by this section shall apply to—
     - **(A)** transportation beginning during the period—
       - **(i)** beginning on the 7th day after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
-      - **(ii)** ending on March 31, 2018 , and
+      - **(ii)** ending on September 30, 2018 , and
     - **(B)** amounts paid during such period for transportation beginning after such period.
   - **(2)** If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.

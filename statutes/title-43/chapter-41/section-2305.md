@@ -3,9 +3,9 @@ title: "Section 2305 - Federal Land Disposal Account"
 usc_title: 43
 usc_section: "2305"
 chapter: 41
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 2305"
-generated_at: "2026-03-30T07:12:59.834Z"
+generated_at: "2026-03-30T07:15:55.111Z"
 status: "active"
 ---
 
@@ -17,15 +17,18 @@ status: "active"
   - **(1)** Funds in the Federal Land Disposal Account shall be expended in accordance with this subsection.
   - **(2)**
     - **(A)** Except as authorized under subparagraph (C), funds shall be used to purchase lands or interests therein that are otherwise authorized by law to be acquired, and that are—
-      - **(i)** inholdings; and
-      - **(ii)** adjacent to federally designated areas and contain exceptional resources.
+      - **(i)** inholdings;
+      - **(ii)** adjacent to federally designated areas and contain exceptional resources; or
+      - **(iii)** adjacent to inaccessible lands open to public hunting, fishing, recreational shooting, or other recreational purposes.
     - **(B)** Not less than 80 percent of the funds allocated for the purchase of land within each State shall be used to acquire inholdings identified under section 2303 of this title .
-    - **(C)** An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 1 of this title.
+    - **(C)** An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 of this title .
     - **(D)** Of the amounts not used under subparagraph (C), not less than 80 percent shall be expended within the State in which the funds were generated. Any remaining funds may be expended in any other State.
+    - **(E)** Any funds made available under subparagraph (D) that are not obligated or expended by the end of the fourth full fiscal year after the date of the sale or exchange of land that generated the funds may be expended in any State.
   - **(3)** The Secretary and the Secretary of Agriculture shall develop a procedure for prioritizing the acquisition of inholdings and non-Federal lands with exceptional resources as provided in paragraph (2). Such procedure shall consider—
     - **(A)** the date the inholding was established (as provided in section 2303(c) of this title );
-    - **(B)** the extent to which acquisition of the land or interest therein will facilitate management efficiency; and
-    - **(C)** such other criteria as the Secretary and the Secretary of Agriculture deem appropriate.
+    - **(B)** the extent to which the acquisition of the land or interest therein will increase the public availability of resources for, and facilitate public access to, hunting, fishing, and other recreational activities;
+    - **(C)** the extent to which acquisition of the land or interest therein will facilitate management efficiency; and
+    - **(D)** such other criteria as the Secretary and the Secretary of Agriculture deem appropriate.
   - **(4)** Any land acquired under this section shall be—
     - **(A)** from a willing seller;
     - **(B)** contingent on the conveyance of title acceptable to the Secretary, or the Secretary of Agriculture in the case of an acquisition of National Forest System land, using title standards of the Attorney General;
@@ -35,6 +38,3 @@ status: "active"
   - **(1)** contains a hazardous substance or is otherwise contaminated; or
   - **(2)** because of the location or other characteristics of the land, would be difficult or uneconomic to manage as Federal land.
 - **(e)** Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
-- **(f)** On termination of activities under section 2304 1 of this title—
-  - **(1)** the Federal Land Disposal Account shall be terminated; and
-  - **(2)** any remaining balance in the account shall become available for appropriation under section 200303 of title 54 .

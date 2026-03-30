@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T07:12:22.977Z"
+generated_at: "2026-03-30T07:15:38.996Z"
 status: "active"
 ---
 
@@ -97,7 +97,7 @@ status: "active"
       - **(iv)** Redemptions that are made pursuant to a plan maintained with respect to employees, or that are made on account of the death, disability, or termination of employment of an employee or shareholder, shall not be taken into account under clause (i).
       - **(v)**
         - **(I)** Dividends and redemptions with respect to applicable preferred stock shall not be taken into account under clause (i) to the extent that dividends accrue with respect to such stock at a specified rate in all events and without regard to the plan sponsor’s income, and interest accrues on any unpaid dividends with respect to such stock.
-        - **(II)** For purposes of subclause (I), the term “applicable preferred stock” means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of title I of 1 1 So in original. Probably should be followed by “the”. Employee Retirement Income Security Act of 1974).
+        - **(II)** For purposes of subclause (I), the term “applicable preferred stock” means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of title I of the Employee Retirement Income Security Act of 1974).
     - **(F)** For purposes of this paragraph—
       - **(i)** The term “plan sponsor” includes any member of the plan sponsor’s controlled group (as defined in section 412(d)(3)).
       - **(ii)** The term “restriction period” means, with respect to any election year—
@@ -214,7 +214,7 @@ status: "active"
       - **(i)** The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
       - **(ii)** Solely for purposes of determining the minimum required contribution under this section, the plan sponsor may, in lieu of the segment rates determined under subparagraph (C), elect to use interest rates under the corporate bond yield curve. For purposes of the preceding sentence such curve shall be determined without regard to the 24-month averaging described in clause (i). Such election, once made, may be revoked only with the consent of the Secretary.
     - **(E)** For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary.
-    - **(F)** The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) 2 2 See References in Text note below. for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
+    - **(F)** The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
   - **(3)**
     - **(A)** Except as provided in subparagraph (C) or (D), the Secretary shall by regulation prescribe mortality tables to be used in determining any present value or making any computation under this section. Such tables shall be based on the actual experience of pension plans and projected trends in such experience. In prescribing such tables, the Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
     - **(B)** The Secretary shall (at least every 10 years) make revisions in any table in effect under subparagraph (A) to reflect the actual experience of pension plans and projected trends in such experience.

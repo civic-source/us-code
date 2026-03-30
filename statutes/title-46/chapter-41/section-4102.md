@@ -3,9 +3,9 @@ title: "Section 4102 - Safety equipment"
 usc_title: 46
 usc_section: "4102"
 chapter: 41
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "46 U.S.C. § 4102"
-generated_at: "2026-03-30T07:13:55.180Z"
+generated_at: "2026-03-30T07:16:16.859Z"
 status: "active"
 ---
 

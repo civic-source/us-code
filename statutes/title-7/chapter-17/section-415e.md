@@ -3,9 +3,9 @@ title: "Section 415e - Transferred"
 usc_title: 7
 usc_section: "415e"
 chapter: 17
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 415e"
-generated_at: "2026-03-30T07:11:01.883Z"
+generated_at: "2026-03-30T07:15:04.399Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 68 - Overall limitation on itemized deductions"
 usc_title: 26
 usc_section: "68"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 68"
-generated_at: "2026-03-30T07:12:22.922Z"
+generated_at: "2026-03-30T07:15:38.937Z"
 status: "active"
 ---
 
@@ -20,9 +20,9 @@ status: "active"
     - **(B)** $275,000 in the case of a head of household (as defined in section 2(b)),
     - **(C)** $250,000 in the case of an individual who is not married and who is not a surviving spouse or head of household, and
     - **(D)** ½ the amount applicable under subparagraph (A) (after adjustment, if any, under paragraph (2)) in the case of a married individual filing a separate return.
-  - **(2)** In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be shall be 1 1 So in original. increased by an amount equal to—
+  - **(2)** In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
-    - **(B)** the cost-of-living adjustment determined under section 1(f)(3)(A)(ii) for the calendar year in which the taxable year begins, except that section 1(f)(3)(B) shall be applied by substituting “2012” for “2016”.
+    - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, except that section 1(f)(3)(A)(ii) shall be applied by substituting “2012” for “2016”.
 - **(c)** For purposes of this section, the term “itemized deductions” does not include—
   - **(1)** the deduction under section 213 (relating to medical, etc. expenses),
   - **(2)** any deduction for investment interest (as defined in section 163(d)), and

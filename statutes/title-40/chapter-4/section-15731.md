@@ -3,9 +3,9 @@ title: "Section 15731 - Southeast Crescent Regional Commission"
 usc_title: 40
 usc_section: "15731"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "40 U.S.C. § 15731"
-generated_at: "2026-03-30T07:12:42.611Z"
+generated_at: "2026-03-30T07:15:49.838Z"
 status: "active"
 ---
 

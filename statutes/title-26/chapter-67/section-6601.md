@@ -3,9 +3,9 @@ title: "Section 6601 - Interest on underpayment, nonpayment, or extensions of ti
 usc_title: 26
 usc_section: "6601"
 chapter: 67
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6601"
-generated_at: "2026-03-30T07:12:23.112Z"
+generated_at: "2026-03-30T07:15:39.137Z"
 status: "active"
 ---
 
@@ -14,12 +14,9 @@ status: "active"
 - **(a)** If any amount of tax imposed by this title (whether required to be shown on a return, or to be paid by stamp or by some other method) is not paid on or before the last date prescribed for payment, interest on such amount at the underpayment rate established under section 6621 shall be paid for the period from such last date to the date paid.
 - **(b)** For purposes of this section, the last date prescribed for payment of the tax shall be determined under chapter 62 with the application of the following rules:
   - **(1)** The last date prescribed for payment shall be determined without regard to any extension of time for payment or any installment agreement entered into under section 6159.
-  - **(2)** In the case of an election under section 6156(a) 1 1 See References in Text note below. to pay the tax in installments—
-    - **(A)** The date prescribed for payment of each installment of the tax shown on the return shall be determined under section 6156(b), 1 and
-    - **(B)** The last date prescribed for payment of the first installment shall be deemed the last date prescribed for payment of any portion of the tax not shown on the return.
-  - **(3)** The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
-  - **(4)** In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
-  - **(5)** In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
+  - **(2)** The last date prescribed for payment shall be determined without regard to any notice and demand for payment issued, by reason of jeopardy (as provided in chapter 70), prior to the last date otherwise prescribed for such payment.
+  - **(3)** In the case of the tax imposed by section 531 for any taxable year, the last date prescribed for payment shall be deemed to be the due date (without regard to extensions) for the return of tax imposed by subtitle A for such taxable year.
+  - **(4)** In the case of taxes payable by stamp and in all other cases in which the last date for payment is not otherwise prescribed, the last date for payment shall be deemed to be the date the liability for tax arises (and in no event shall be later than the date notice and demand for the tax is made by the Secretary).
 - **(c)** In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period.
 - **(d)**
   - **(1)** If the amount of any tax imposed by subtitle A is reduced by reason of a carryback of a net operating loss or net capital loss, such reduction in tax shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the net operating loss or net capital loss arises.

@@ -3,9 +3,9 @@ title: "Section 853A - Credits from tax credit bonds allowed to shareholders"
 usc_title: 26
 usc_section: "853A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 853A"
-generated_at: "2026-03-30T07:12:23.008Z"
+generated_at: "2026-03-30T07:15:39.030Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(A)** The term “tax credit bond” means—
       - **(i)** a qualified tax credit bond (as defined in section 54A(d)), 1
       - **(ii)** a build America bond (as defined in section 54AA(d)) 1 other than a qualified bond described in section 54AA(g), 1 and
-      - **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
+      - **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter. 1
     - **(B)** The term “applicable date” means—
       - **(i)** in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), 1 and
       - **(ii)** in the case of a build America bond (as defined in section 54AA(d)), 1 any interest payment date (as defined in section 54AA(e)). 1

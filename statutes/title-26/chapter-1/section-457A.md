@@ -3,9 +3,9 @@ title: "Section 457A - Nonqualified deferred compensation from certain tax indif
 usc_title: 26
 usc_section: "457A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 457A"
-generated_at: "2026-03-30T07:12:22.985Z"
+generated_at: "2026-03-30T07:15:39.005Z"
 status: "active"
 ---
 
@@ -42,6 +42,6 @@ status: "active"
   - **(3)**
     - **(A)** The term “nonqualified deferred compensation plan” has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
     - **(B)** Compensation shall not be treated as deferred for purposes of this section if the service provider receives payment of such compensation not later than 12 months after the end of the taxable year of the service recipient during which the right to the payment of such compensation is no longer subject to a substantial risk of forfeiture.
-  - **(4)** In the case 1 1 So in original. Probably should be followed by “of”. a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation had 2 2 So in original. The word “had” probably should not appear. been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
+  - **(4)** In the case of a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
   - **(5)** Rules similar to the rules of paragraphs (5) and (6) of section 409A(d) shall apply.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.

@@ -3,9 +3,9 @@ title: "Section 169 - Amortization of pollution control facilities"
 usc_title: 26
 usc_section: "169"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 169"
-generated_at: "2026-03-30T07:12:22.942Z"
+generated_at: "2026-03-30T07:15:38.958Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** In the case of any facility described in paragraph (1) solely by reason of paragraph (5), subparagraph (A) shall be applied by substituting “ April 11, 2005 ” for “ December 31, 1968 ” each place it appears therein.
   - **(5)** In the case of any atmospheric pollution control facility which is placed in service after April 11, 2005 , and used in connection with an electric generation plant or other property which is primarily coal fired—
     - **(A)** paragraph (1) shall be applied without regard to the phrase “in operation before January 1, 1976 ”, and
-    - **(B)** in the case of facility 1 1 So in original. Probably should be “a facility”. placed in service in connection with a plant or other property placed in operation after December 31, 1975 , this section shall be applied by substituting “84” for “60” each place it appears in subsections (a) and (b).
+    - **(B)** in the case of a facility placed in service in connection with a plant or other property placed in operation after December 31, 1975 , this section shall be applied by substituting “84” for “60” each place it appears in subsections (a) and (b).
 - **(e)** The Federal certifying authority shall not certify any property under subsection (d)(1)(B) to the extent it appears that by reason of profits derived through the recovery of wastes or otherwise in the operation of such property, its costs will be recovered over its actual useful life.
 - **(f)**
   - **(1)** For purposes of this section, the term “amortizable basis” means that portion of the adjusted basis (for determining gain) of a certified pollution control facility which may be amortized under this section.

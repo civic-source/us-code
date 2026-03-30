@@ -3,9 +3,9 @@ title: "Section 142 - Exempt facility bond"
 usc_title: 26
 usc_section: "142"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 142"
-generated_at: "2026-03-30T07:12:22.931Z"
+generated_at: "2026-03-30T07:15:38.946Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
         - **(I)** in any county in which is located a qualified military installation to which the number of members of the Armed Forces of the United States assigned to units based out of such qualified military installation, as of June 1, 2008 , has increased by not less than 20 percent, as compared to such number on December 31, 2005 , or
         - **(II)** in any county adjacent to a county described in subclause (I).
       - **(iv)** For purposes of clause (iii), the term “qualified military installation” means any military installation or facility the number of members of the Armed Forces of the United States assigned to which, as of June 1, 2008 , is not less than 1,000.
-    - **(C)** Rules similar to the rules of 42(i)(3)(D) 1 1 So in original. Probably should be “section 42(i)(3)(D)”. shall apply for purposes of this subsection.
+    - **(C)** Rules similar to the rules of section 42(i)(3)(D) shall apply for purposes of this subsection.
     - **(D)** A unit shall not fail to be treated as a residential unit merely because such unit is a single-room occupancy unit (within the meaning of section 42).
     - **(E)**
       - **(i)** Any determination of area median gross income under subparagraph (B) with respect to any project for any calendar year after 2008 shall not be less than the area median gross income determined under such subparagraph with respect to such project for the calendar year preceding the calendar year for which such determination is made.

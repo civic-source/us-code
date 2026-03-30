@@ -3,9 +3,9 @@ title: "Section 2282 - Repealed. Pub. L. 114–328, div. A, title XII , § 1241(
 usc_title: 10
 usc_section: "2282"
 chapter: 136
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2282"
-generated_at: "2026-03-30T07:11:06.608Z"
+generated_at: "2026-03-30T07:14:57.791Z"
 status: "repealed"
 ---
 

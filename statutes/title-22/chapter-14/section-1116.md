@@ -3,9 +3,9 @@ title: "Section 1116 - Repealed. Pub. L. 96–465, title II , § 2205(1), Oct. 1
 usc_title: 22
 usc_section: "1116"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 1116"
-generated_at: "2026-03-30T07:12:12.215Z"
+generated_at: "2026-03-30T07:15:28.978Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1412 - Transfers between a multiemployer plan and a single-emplo
 usc_title: 29
 usc_section: "1412"
 chapter: 18
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 1412"
-generated_at: "2026-03-30T07:12:16.133Z"
+generated_at: "2026-03-30T07:15:34.237Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** No accrued benefit of a participant or beneficiary may be lower immediately after the effective date of a transfer or merger described in subsection (a) than the benefit immediately before that date.
 - **(c)**
   - **(1)** Except as provided in paragraphs (2) and (3), a multiemployer plan which transfers liabilities to a single-employer plan shall be liable to the corporation if the single-employer plan terminates within 60 months after the effective date of the transfer. The amount of liability shall be the lesser of—
-    - **(A)** the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 this title, or
+    - **(A)** the amount of the plan asset insufficiency of the terminated single-employer plan, less 30 percent of the net worth of the employer who maintained the single-employer plan, determined in accordance with section 1362 or 1364 of this title, or
     - **(B)** the value, on the effective date of the transfer, of the unfunded benefits transferred to the single-employer plan which are guaranteed under section 1322 of this title .
   - **(2)** A multiemployer plan shall be liable to the corporation as provided in paragraph (1) unless, within 180 days after the corporation receives an application (together with such information as the corporation may reasonably require for purposes of such application) from the multiemployer plan sponsor for a determination under this paragraph—
     - **(A)** the corporation determines that the interests of the plan participants and beneficiaries and of the corporation are adequately protected, or

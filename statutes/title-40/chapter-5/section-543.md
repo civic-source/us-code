@@ -3,9 +3,9 @@ title: "Section 543 - Method of disposition"
 usc_title: 40
 usc_section: "543"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "40 U.S.C. § 543"
-generated_at: "2026-03-30T07:12:42.596Z"
+generated_at: "2026-03-30T07:15:49.823Z"
 status: "active"
 ---
 

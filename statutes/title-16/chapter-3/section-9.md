@@ -3,9 +3,9 @@ title: "Section 9 - Federal funds"
 usc_title: 16
 usc_section: "9"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 9"
-generated_at: "2026-03-30T07:11:43.212Z"
+generated_at: "2026-03-30T07:15:20.980Z"
 status: "active"
 ---
 

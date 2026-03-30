@@ -3,9 +3,9 @@ title: "Section 101 - Transferred"
 usc_title: 8
 usc_section: "101"
 chapter: 6
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "8 U.S.C. § 101"
-generated_at: "2026-03-30T07:10:58.097Z"
+generated_at: "2026-03-30T07:14:48.244Z"
 status: "transferred"
 ---
 

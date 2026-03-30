@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 2
 usc_section: "1301"
 chapter: 24
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 1301"
-generated_at: "2026-03-30T07:10:50.391Z"
+generated_at: "2026-03-30T07:14:20.272Z"
 status: "active"
 ---
 
@@ -23,8 +23,9 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
     - **(E)** the Congressional Budget Office;
     - **(F)** the Office of the Architect of the Capitol;
     - **(G)** the Office of the Attending Physician;
-    - **(H)** the Office of Compliance; or
-    - **(I)** the Office of Technology Assessment.
+    - **(H)** the Office of Compliance;
+    - **(I)** the Office of Technology Assessment; or
+    - **(J)** the Library of Congress, except for section 1351 of this title .
   - **(4)** The term “employee” includes an applicant for employment and a former employee.
   - **(5)** The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol or the Botanic Garden.
   - **(6)** The term “employee of the Capitol Police” includes any member or officer of the Capitol Police.
@@ -33,8 +34,9 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
   - **(9)** The term “employing office” means—
     - **(A)** the personal office of a Member of the House of Representatives or of a Senator;
     - **(B)** a committee of the House of Representatives or the Senate or a joint committee;
-    - **(C)** any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate; or
-    - **(D)** the Office of Congressional Accessibility Services, the United States Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment.
+    - **(C)** any other office headed by a person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an employee of the House of Representatives or the Senate;
+    - **(D)** the Office of Congressional Accessibility Services, the United States Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, and the Office of Technology Assessment; or
+    - **(E)** the Library of Congress, except for section 1351 of this title .
   - **(10)** The term “Executive Director” means the Executive Director of the Office of Compliance.
   - **(11)** The term “General Counsel” means the General Counsel of the Office of Compliance.
   - **(12)** The term “Office” means the Office of Compliance.

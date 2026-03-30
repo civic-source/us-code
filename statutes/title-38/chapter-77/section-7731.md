@@ -3,9 +3,9 @@ title: "Section 7731 - Establishment"
 usc_title: 38
 usc_section: "7731"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "38 U.S.C. § 7731"
-generated_at: "2026-03-30T07:12:54.451Z"
+generated_at: "2026-03-30T07:15:51.213Z"
 status: "active"
 ---
 

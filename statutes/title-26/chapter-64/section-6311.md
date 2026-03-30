@@ -3,9 +3,9 @@ title: "Section 6311 - Payment of tax by commercially acceptable means"
 usc_title: 26
 usc_section: "6311"
 chapter: 64
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6311"
-generated_at: "2026-03-30T07:12:23.105Z"
+generated_at: "2026-03-30T07:15:39.129Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a credit card shall not be subject to section 161 of the Truth in Lending Act ( 15 U.S.C. 1666 ), or to any similar provisions of State law, if the error alleged by the person is an error relating to the underlying tax liability, rather than an error relating to the credit card account such as a computational error or numerical transposition in the credit card transaction or an issue as to whether the person authorized payment by use of the credit card,
     - **(B)** a payment of internal revenue taxes (or a payment for internal revenue stamps) shall not be subject to section 170 of the Truth in Lending Act ( 15 U.S.C. 1666i ), or to any similar provisions of State law,
     - **(C)** a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a debit card shall not be subject to section 908 of the Electronic Fund Transfer Act ( 15 U.S.C. 1693f ), or to any similar provisions of State law, if the error alleged by the person is an error relating to the underlying tax liability, rather than an error relating to the debit card account such as a computational error or numerical transposition in the debit card transaction or an issue as to whether the person authorized payment by use of the debit card,
-    - **(D)** the term “creditor” under section 103(f) 1 1 See References in Text note below. of the Truth in Lending Act ( 15 U.S.C. 1602(f) ) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
+    - **(D)** the term “creditor” under section 103(g) of the Truth in Lending Act ( 15 U.S.C. 1602(g) ) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
     - **(E)** notwithstanding any other provision of law to the contrary, in the case of payment made by credit card or debit card transaction of an amount owed to a person as the result of the correction of an error under section 161 of the Truth in Lending Act ( 15 U.S.C. 1666 ) or section 908 of the Electronic Fund Transfer Act ( 15 U.S.C. 1693f ), the Secretary is authorized to provide such amount to such person as a credit to that person’s credit card or debit card account through the applicable credit card or debit card system.
 - **(e)**
   - **(1)** Except as otherwise authorized by this subsection, no person may use or disclose any information relating to credit or debit card transactions obtained pursuant to section 6103(k)(9) other than for purposes directly related to the processing of such transactions, or the billing or collection of amounts charged or debited pursuant thereto.

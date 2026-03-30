@@ -3,9 +3,9 @@ title: "Section 5000A - Requirement to maintain minimum essential coverage"
 usc_title: 26
 usc_section: "5000A"
 chapter: 48
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 5000A"
-generated_at: "2026-03-30T07:12:23.080Z"
+generated_at: "2026-03-30T07:15:39.102Z"
 status: "active"
 ---
 
@@ -29,14 +29,14 @@ status: "active"
     - **(B)** An amount equal to the following percentage of the excess of the taxpayer’s household income for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer for the taxable year:
       - **(i)** 1.0 percent for taxable years beginning in 2014.
       - **(ii)** 2.0 percent for taxable years beginning in 2015.
-      - **(iii)** Zero percent for taxable years beginning after 2015.
+      - **(iii)** 2.5 percent for taxable years beginning after 2015.
   - **(3)** For purposes of paragraph (1)—
-    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $0.
+    - **(A)** Except as provided in subparagraphs (B) and (C), the applicable dollar amount is $695.
     - **(B)** The applicable dollar amount is $95 for 2014 and $325 for 2015.
     - **(C)** If an applicable individual has not attained the age of 18 as of the beginning of a month, the applicable dollar amount with respect to such individual for the month shall be equal to one-half of the applicable dollar amount for the calendar year in which the month occurs.
     - **(D)** In the case of any calendar year beginning after 2016, the applicable dollar amount shall be equal to $695, increased by an amount equal to—
       - **(i)** $695, multiplied by
-      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B)for “calendar year 2016” in subparagraph (A)(ii) thereof.
+      - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(4)** For purposes of this section—
     - **(A)** The family size involved with respect to any taxpayer shall be equal to the number of individuals for whom the taxpayer is allowed a deduction under section 151 (relating to allowance of deduction for personal exemptions) for the taxable year.
     - **(B)** The term “household income” means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—

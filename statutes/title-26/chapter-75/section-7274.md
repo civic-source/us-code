@@ -3,9 +3,9 @@ title: "Section 7274 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(8)(E)(
 usc_title: 26
 usc_section: "7274"
 chapter: 75
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 7274"
-generated_at: "2026-03-30T07:12:23.121Z"
+generated_at: "2026-03-30T07:15:39.145Z"
 status: "repealed"
 ---
 

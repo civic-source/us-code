@@ -3,9 +3,9 @@ title: "Section 5110 - Submersible vessels"
 usc_title: 46
 usc_section: "5110"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "46 U.S.C. § 5110"
-generated_at: "2026-03-30T07:13:55.182Z"
+generated_at: "2026-03-30T07:16:16.861Z"
 status: "active"
 ---
 

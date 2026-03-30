@@ -3,9 +3,9 @@ title: "Section 3162 - State allotments"
 usc_title: 29
 usc_section: "3162"
 chapter: 32
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 3162"
-generated_at: "2026-03-30T07:12:16.145Z"
+generated_at: "2026-03-30T07:15:34.250Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
         - **(III)** Subject to subclause (I), the Secretary shall ensure that no State shall receive an allotment percentage for a fiscal year that is more than 130 percent of the allotment percentage of the State for the preceding fiscal year.
         - **(IV)** In any fiscal year in which the remainder described in clause (i) does not exceed $1,000,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 127(b)(1)(C)(iv)(IV) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2852(b)(1)(C)(iv)(IV) ] (as in effect on the day before July 22, 2014 ).
   - **(2)** For the purpose of the formula specified in paragraph (1)(C):
-    - **(A)** The term “allotment percentage”, used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2852(b)(1)(C) ] (as in effect on July 22, 2014 ) that is received under such section by the State involved for fiscal year 2014.
+    - **(A)** The term “allotment percentage”, used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 [ 29 U.S.C. 2852(b)(1)(C) ] (as in effect on the day before July 22, 2014 ) that is received under such section by the State involved for fiscal year 2014.
     - **(B)** The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this part and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subparagraph, determinations of areas of substantial unemployment shall be made once each fiscal year.
     - **(C)** Subject to paragraph (3), the term “disadvantaged youth” means an individual who is age 16 through 21 who received an income, or is a member of a family that received a total family income, that, in relation to family size, does not exceed the higher of—
       - **(i)** the poverty line; or

@@ -3,9 +3,9 @@ title: "Section 39 - Carryback and carryforward of unused credits"
 usc_title: 26
 usc_section: "39"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 39"
-generated_at: "2026-03-30T07:12:22.908Z"
+generated_at: "2026-03-30T07:15:38.921Z"
 status: "active"
 ---
 
@@ -19,18 +19,11 @@ status: "active"
     - **(A)** The entire amount of the unused credit for an unused credit year shall be carried to the earliest of the 21 taxable years to which (by reason of paragraph (1)) such credit may be carried.
     - **(B)** The amount of the unused credit for the unused credit year shall be carried to each of the other 20 taxable years to the extent that such unused credit may not be taken into account under section 38(a) for a prior taxable year because of the limitations of subsections (b) and (c).
   - **(3)** Notwithstanding subsection (d), in the case of the marginal oil and gas well production credit—
-    - **(A)** this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit) or the eligible small business credits,
+    - **(A)** this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit),
     - **(B)** paragraph (1) shall be applied by substituting “each of the 5 taxable years” for “the taxable year” in subparagraph (A) thereof, and
     - **(C)** paragraph (2) shall be applied—
       - **(i)** by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
       - **(ii)** by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
-  - **(4)**
-    - **(A)** Notwithstanding subsection (d), in the case of eligible small business credits determined in the first taxable year of the taxpayer beginning in 2010—
-      - **(i)** paragraph (1) shall be applied by substituting “each of the 5 taxable years” for “the taxable year” in subparagraph (A) thereof, and
-      - **(ii)** paragraph (2) shall be applied—
-        - **(I)** by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
-        - **(II)** by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
-    - **(B)** For purposes of this subsection, the term “eligible small business credits” has the meaning given such term by section 38(c)(5)(B).
 - **(b)** The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
   - **(1)** the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
   - **(2)** the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year.

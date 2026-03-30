@@ -3,9 +3,9 @@ title: "Section 127d - Renumbered § 331]"
 usc_title: 10
 usc_section: "127d"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 127d"
-generated_at: "2026-03-30T07:11:06.537Z"
+generated_at: "2026-03-30T07:14:57.718Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 154 - Federal Communications Commission"
 usc_title: 47
 usc_section: "154"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 154"
-generated_at: "2026-03-30T07:14:02.145Z"
+generated_at: "2026-03-30T07:16:15.742Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(iv)** be employed by, hold any official relation to, or own any stocks, bonds, or other securities of, any person significantly regulated by the Commission under this chapter;
     - **(B)**
       - **(i)** The Commission shall have authority to waive, from time to time, the application of the prohibitions established in subparagraph (A) to persons employed by the Commission if the Commission determines that the financial interests of a person which are involved in a particular case are minimal, except that such waiver authority shall be subject to the provisions of section 208 of title 18 . The waiver authority established in this subparagraph shall not apply with respect to members of the Commission.
-      - **(ii)** In any case in which the Commission exercises the waiver authority established in this subparagraph, the Commission shall publish notice of such action in the Federal Register and shall furnish notice of such action to the appropriate committees of each House of the Congress. Each such notice shall include information regarding the identity of the person receiving the waiver, the position held by such person, and the nature of the financial interests which are the subject of the waiver.
+      - **(ii)** In any case in which the Commission exercises the waiver authority established in this subparagraph, the Commission shall publish notice of such action in the Federal Register.
   - **(3)** The Commission, in determining whether a company or other entity has a significant interest in communications, manufacturing, or sales activities which are subject to regulation by the Commission, shall consider (without excluding other relevant factors)—
     - **(A)** the revenues, investments, profits, and managerial efforts directed to the related communications, manufacturing, or sales activities of the company or other entity involved, as compared to the other aspects of the business of such company or other entity;
     - **(B)** the extent to which the Commission regulates and oversees the activities of such company or other entity;
@@ -30,7 +30,16 @@ status: "active"
     - **(D)** the perceptions held by the public regarding the business activities of such company or other entity.
   - **(4)** Members of the Commission shall not engage in any other business, vocation, profession, or employment while serving as such members.
   - **(5)** The maximum number of commissioners who may be members of the same political party shall be a number equal to the least number of commissioners which constitutes a majority of the full membership of the Commission.
-- **(c)** commissioners 1 1 So in original. Probably should be capitalized. shall be appointed for terms of five years and until their successors are appointed and have been confirmed and taken the oath of office, except that they shall not continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office; except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the commissioner whom he succeeds. No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.
+- **(c)**
+  - **(1)** A commissioner—
+    - **(A)** shall be appointed for a term of 5 years;
+    - **(B)** except as provided in subparagraph (C), may continue to serve after the expiration of the fixed term of office of the commissioner until a successor is appointed and has been confirmed and taken the oath of office; and
+    - **(C)** may not continue to serve after the expiration of the session of Congress that begins after the expiration of the fixed term of office of the commissioner.
+  - **(2)** Any person chosen to fill a vacancy in the Commission—
+    - **(A)** shall be appointed for the unexpired term of the commissioner that the person succeeds;
+    - **(B)** except as provided in subparagraph (C), may continue to serve after the expiration of the fixed term of office of the commissioner that the person succeeds until a successor is appointed and has been confirmed and taken the oath of office; and
+    - **(C)** may not continue to serve after the expiration of the session of Congress that begins after the expiration of the fixed term of office of the commissioner that the person succeeds.
+  - **(3)** No vacancy in the Commission shall impair the right of the remaining commissioners to exercise all the powers of the Commission.
 - **(d)** Each Commissioner shall receive an annual salary at the annual rate payable from time to time for level IV of the Executive Schedule, payable in monthly installments. The Chairman of the Commission, during the period of his service as Chairman, shall receive an annual salary at the annual rate payable from time to time for level III of the Executive Schedule.
 - **(e)** The principal office of the Commission shall be in the District of Columbia, where its general sessions shall be held; but whenever the convenience of the public or of the parties may be promoted or delay or expense prevented thereby, the Commission may hold special sessions in any part of the United States.
 - **(f)**
@@ -69,15 +78,7 @@ status: "active"
     - **(C)** Any person who provides services under this paragraph or who provides goods in connection with such services shall not, by reason of having provided such service or goods, be considered a Federal or special government employee.
 - **(g)**
   - **(1)** The Commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for office supplies, law books, period­icals, and books of reference, for printing and binding, for land for use as sites for radio monitoring stations and related facilities, including living quarters where necessary in remote areas, for the construction of such stations and facilities, and for the improvement, furnishing, equipping, and repairing of such stations and facilities and of laboratories and other related facilities (including construction of minor subsidiary buildings and structures not exceeding $25,000 in any one instance) used in connection with technical research activities), as may be necessary for the execution of the functions vested in the Commission and as may be appropriated for by the Congress in accordance with the authorizations of appropriations established in section 156 of this title . All expenditures of the Commission, including all necessary expenses for transportation incurred by the commissioners or by their employees, under their orders, in making any investigation or upon any official business in any other places than in the city of Washington, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the chairman of the Commission or by such other member or officer thereof as may be designated by the Commission for that purpose.
-  - **(2)**
-    - **(A)** If—
-      - **(i)** the necessary expenses specified in the last sentence of paragraph (1) have been incurred for the purpose of enabling commissioners or employees of the Commission to attend and participate in any convention, conference, or meeting;
-      - **(ii)** such attendance and participation are in furtherance of the functions of the Commission; and
-      - **(iii)** such attendance and participation are requested by the person sponsoring such convention, conference, or meeting;
-    - **(B)** The total amount of unreimbursed expenditures made by the Commission for travel for any fiscal year, together with the total amount of reimbursements which the Commission accepts under subparagraph (A) for such fiscal year, shall not exceed the level of travel expenses appropriated to the Commission for such fiscal year.
-    - **(C)** The Commission shall submit to the appropriate committees of the Congress, and publish in the Federal Register, quarterly reports specifying reimbursements which the Commission has accepted under this paragraph.
-    - **(D)** The provisions of this paragraph shall cease to have any force or effect at the end of fiscal year 1994.
-    - **(E)** Funds which are received by the Commission as reimbursements under the provisions of this paragraph after the close of a fiscal year shall remain available for obligation.
+  - **(2)** Repealed. Pub. L. 115–141, div. P, title IV , § 402(i)(1)(B), Mar. 23, 2018 , 132 Stat. 1089 .
   - **(3)**
     - **(A)** Notwithstanding any other provision of law, in furtherance of its functions the Commission is authorized to accept, hold, administer, and use unconditional gifts, donations, and bequests of real, personal, and other property (including voluntary and uncompensated services, as authorized by section 3109 of title 5 ).
     - **(B)** The Commission, for purposes of providing radio club and military-recreational call signs, may utilize the voluntary, uncompensated, and unreimbursed services of amateur radio organizations authorized by the Commission that have tax-exempt status under section 501(c)(3) of title 26 .
@@ -86,12 +87,7 @@ status: "active"
 - **(h)** Three members of the Commission shall constitute a quorum thereof. The Commission shall have an official seal which shall be judicially noticed.
 - **(i)** The Commission may perform any and all acts, make such rules and regulations, and issue such orders, not inconsistent with this chapter, as may be necessary in the execution of its functions.
 - **(j)** The Commission may conduct its proceedings in such manner as will best conduce to the proper dispatch of business and to the ends of justice. No commissioner shall participate in any hearing or proceeding in which he has a pecuniary interest. Any party may appear before the Commission and be heard in person or by attorney. Every vote and official act of the Commission shall be entered of record, and its proceedings shall be public upon the request of any party interested. The Commission is authorized to withhold publication of records or proceedings containing secret information affecting the national defense.
-- **(k)** The Commission shall make an annual report to Congress, copies of which shall be distributed as are other reports transmitted to Congress. Such reports shall contain—
-  - **(1)** such information and data collected by the Commission as may be considered of value in the determination of questions connected with the regulation of interstate and foreign wire and radio communication and radio transmission of energy;
-  - **(2)** such information and data concerning the functioning of the Commission as will be of value to Congress in appraising the amount and character of the work and accomplishments of the Commission and the adequacy of its staff and equipment;
-  - **(3)** an itemized statement of all funds expended during the preceding year by the Commission, of the sources of such funds, and of the authority in this chapter or elsewhere under which such expenditures were made; and
-  - **(4)** specific recommendations to Congress as to additional legislation which the Commission deems necessary or desirable, including all legislative proposals submitted for approval to the Director of the Office of Management and Budget.
-- **(l)** All reports of investigations made by the Commission shall be entered of record, and a copy thereof shall be furnished to the party who may have complained, and to any common carrier or licensee that may have been complained of.
-- **(m)** The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
-- **(n)** Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
-- **(o)** For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
+- **(k)** All reports of investigations made by the Commission shall be entered of record, and a copy thereof shall be furnished to the party who may have complained, and to any common carrier or licensee that may have been complained of.
+- **(l)** The Commission shall provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and such authorized publications shall be competent evidence of the reports and decisions of the Commission therein contained in all courts of the United States and of the several States without any further proof or authentication thereof.
+- **(m)** Rates of compensation of persons appointed under this section shall be subject to the reduction applicable to officers and employees of the Federal Government generally.
+- **(n)** For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.

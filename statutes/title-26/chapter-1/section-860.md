@@ -3,9 +3,9 @@ title: "Section 860 - Deduction for deficiency dividends"
 usc_title: 26
 usc_section: "860"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 860"
-generated_at: "2026-03-30T07:12:23.011Z"
+generated_at: "2026-03-30T07:15:39.033Z"
 status: "active"
 ---
 
@@ -42,7 +42,7 @@ status: "active"
   - **(2)**
     - **(A)** The amount of deficiency dividends (other than deficiency dividends qualifying as capital gain dividends) paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the sum of—
       - **(i)** the excess of the amount of increase referred to in subparagraph (A) of paragraph (1) or (2) of subsection (d) (whichever applies) over the amount of any increase in the deduction for dividends paid (computed without regard to capital gain dividends) for such taxable year which results from such determination, and
-      - **(ii)** the amount of decreased 1 1 So in original. Probably should be “decrease”. referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
+      - **(ii)** the amount of decrease referred to in subparagraph (C) of paragraph (1) or (2) of subsection (d) (whichever applies).
     - **(B)** The amount of deficiency dividends qualifying as capital gain dividends paid by a qualified investment entity for the taxable year with respect to which the liability for tax resulting from the determination exists shall not exceed the amount by which (i) the increase referred to in subparagraph (B) of paragraph (1) or (2) of subsection (d) (whichever applies), exceeds (ii) the amount of any dividends paid during such taxable year which are designated or reported (as the case may be) as capital gain dividends after such determination.
   - **(3)**
     - **(A)** Deficiency dividends paid in any taxable year shall not be included in the amount of dividends paid for such year for purposes of computing the dividends paid deduction for such year.
@@ -53,4 +53,4 @@ status: "active"
   - **(2)** In the case of any deficiency established by a determination under this section—
     - **(A)** the collection of the deficiency, and all interest, additions to tax, additional amounts, and assessable penalties in respect thereof, shall, except in cases of jeopardy, be stayed until the expiration of 120 days after the date of the determination, and
     - **(B)** if claim for a deficiency dividend deduction is filed under subsection (g), the collection of such part of the deficiency as is not reduced by the deduction for deficiency dividends provided in subsection (a) shall be stayed until the date the claim is disallowed (in whole or in part), and if disallowed in part collection shall be made only with respect to the part disallowed.
-- **(i)** No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willfull 2 2 So in original. Probably should be “willful”. failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
+- **(i)** No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.

@@ -3,9 +3,9 @@ title: "Section 505 - Mass mailing of information by Senators under frank; quart
 usc_title: 2
 usc_section: "505"
 chapter: 16
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 505"
-generated_at: "2026-03-30T07:10:50.382Z"
+generated_at: "2026-03-30T07:14:20.263Z"
 status: "active"
 ---
 

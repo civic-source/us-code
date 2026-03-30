@@ -3,9 +3,9 @@ title: "Section 63 - Taxable income defined"
 usc_title: 26
 usc_section: "63"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 63"
-generated_at: "2026-03-30T07:12:22.922Z"
+generated_at: "2026-03-30T07:15:38.936Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
   - **(1)** the standard deduction,
   - **(2)** the deduction for personal exemptions provided in section 151, and
-  - **(3)** the deduction provided in section 199A.
+  - **(3)** any deduction provided in section 199A.
 - **(c)** For purposes of this subtitle—
   - **(1)** Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
     - **(A)** the basic standard deduction, and
@@ -52,7 +52,7 @@ status: "active"
 - **(d)** For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
   - **(1)** the deductions allowable in arriving at adjusted gross income,
   - **(2)** the deduction for personal exemptions provided by section 151, and
-  - **(3)** the deduction provided in section 199A.
+  - **(3)** any deduction provided in section 199A.
 - **(e)**
   - **(1)** Unless an individual makes an election under this subsection for the taxable year, no itemized deduction shall be allowed for the taxable year. For purposes of this subtitle, the determination of whether a deduction is allowable under this chapter shall be made without regard to the preceding sentence.
   - **(2)** Any election under this subsection shall be made on the taxpayer’s return, and the Secretary shall prescribe the manner of signifying such election on the return.

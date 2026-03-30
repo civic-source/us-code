@@ -3,9 +3,9 @@ title: "Section 4451 - Report on certain U.S. Customs and Border Protection agre
 usc_title: 19
 usc_section: "4451"
 chapter: 28
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 4451"
-generated_at: "2026-03-30T07:11:55.008Z"
+generated_at: "2026-03-30T07:15:16.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4502 - Identification and disbursement of restitutionary amounts
 usc_title: 15
 usc_section: "4502"
 chapter: 71
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 4502"
-generated_at: "2026-03-30T07:11:27.026Z"
+generated_at: "2026-03-30T07:15:11.916Z"
 status: "active"
 ---
 

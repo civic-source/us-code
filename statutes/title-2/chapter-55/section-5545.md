@@ -3,9 +3,9 @@ title: "Section 5545 - House Services Revolving Fund"
 usc_title: 2
 usc_section: "5545"
 chapter: 55
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 5545"
-generated_at: "2026-03-30T07:10:50.412Z"
+generated_at: "2026-03-30T07:14:20.294Z"
 status: "active"
 ---
 
@@ -18,6 +18,7 @@ status: "active"
   - **(4)** The provision of mail services to entities which are not part of the House of Representatives.
   - **(5)** The payment of fees for the use of the exercise facility described in section 103(a). 1 1 See References in Text note below.
   - **(6)** The collection of promotional rebates and incentives on credit card purchases, balances, and payments.
+  - **(7)** The collection of a service fee from vendors of the Master Web Services Agreement or the Technology Services Contract for failure to abide by and maintain House of Representatives security policies.
 - **(b)** Amounts in the Revolving Funds 2 2 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
 - **(c)** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title .
 - **(d)**

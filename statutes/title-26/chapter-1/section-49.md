@@ -3,9 +3,9 @@ title: "Section 49 - At-risk rules"
 usc_title: 26
 usc_section: "49"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 49"
-generated_at: "2026-03-30T07:12:22.919Z"
+generated_at: "2026-03-30T07:15:38.933Z"
 status: "active"
 ---
 
@@ -21,9 +21,8 @@ status: "active"
       - **(i)** the portion of the basis of any qualified rehabilitated building attributable to qualified rehabilitation expenditures,
       - **(ii)** the basis of any energy property,
       - **(iii)** the basis of any property which is part of a qualifying advanced coal project under section 48A,
-      - **(iv)** the basis of any property which is part of a qualifying gasification project under section 48B,
-      - **(v)** the basis of any property which is part of a qualifying advanced energy project under section 48C, and
-      - **(vi)** the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D.
+      - **(iv)** the basis of any property which is part of a qualifying gasification project under section 48B, and
+      - **(v)** the basis of any property which is part of a qualifying advanced energy project under section 48C.
     - **(D)**
       - **(i)** For purposes of this paragraph and paragraph (2), the term “nonqualified nonrecourse financing” means any nonrecourse financing which is not qualified commercial financing.
       - **(ii)** For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—

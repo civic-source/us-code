@@ -3,9 +3,9 @@ title: "Section 846 - Noise standards; promulgation of new standards; tests; pro
 usc_title: 30
 usc_section: "846"
 chapter: 22
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 846"
-generated_at: "2026-03-30T07:12:16.438Z"
+generated_at: "2026-03-30T07:15:31.391Z"
 status: "active"
 ---
 

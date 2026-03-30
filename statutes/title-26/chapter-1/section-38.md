@@ -3,9 +3,9 @@ title: "Section 38 - General business credit"
 usc_title: 26
 usc_section: "38"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 38"
-generated_at: "2026-03-30T07:12:22.908Z"
+generated_at: "2026-03-30T07:15:38.921Z"
 status: "active"
 ---
 
@@ -39,20 +39,15 @@ status: "active"
   - **(21)** the advanced nuclear power facility production credit determined under section 45J(a),
   - **(22)** the nonconventional source production credit determined under section 45K(a),
   - **(23)** the new energy efficient home credit determined under section 45L(a),
-  - **(24)** the energy efficient appliance credit determined under section 45M(a),
-  - **(25)** the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
-  - **(26)** the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
-  - **(27)** the Hurricane Katrina housing credit determined under section 1400P(b),
-  - **(28)** the Hurricane Katrina employee retention credit determined under section 1400R(a),
-  - **(29)** the Hurricane Rita employee retention credit determined under section 1400R(b),
-  - **(30)** the Hurricane Wilma employee retention credit determined under section 1400R(c),
-  - **(31)** the mine rescue team training credit determined under section 45N(a),
-  - **(32)** in the case of an eligible agricultural business (as defined in section 45O(e)), the agricultural chemicals security credit determined under section 45O(a),
-  - **(33)** the differential wage payment credit determined under section 45P(a),
-  - **(34)** the carbon dioxide sequestration credit determined under section 45Q(a) 1 1 So in original. Probably should be followed by a comma.
-  - **(35)** the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
-  - **(36)** the small employer health insurance credit determined under section 45R, plus
-  - **(37)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a).
+  - **(24)** the portion of the alternative motor vehicle credit to which section 30B(g)(1) applies,
+  - **(25)** the portion of the alternative fuel vehicle refueling property credit to which section 30C(d)(1) applies,
+  - **(26)** the mine rescue team training credit determined under section 45N(a),
+  - **(27)** in the case of an eligible agricultural business (as defined in section 45O(e)), the agricultural chemicals security credit determined under section 45O(a),
+  - **(28)** the differential wage payment credit determined under section 45P(a),
+  - **(29)** the carbon dioxide sequestration credit determined under section 45Q(a),
+  - **(30)** the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
+  - **(31)** the small employer health insurance credit determined under section 45R, plus
+  - **(32)** in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a).
 - **(c)**
   - **(1)** The credit allowed under subsection (a) for any taxable year shall not exceed the excess (if any) of the taxpayer’s net income tax over the greater of—
     - **(A)** the tentative minimum tax for the taxable year, or
@@ -62,24 +57,18 @@ status: "active"
       - **(i)** this section and section 39 shall be applied separately with respect to such credit, and
       - **(ii)** for purposes of applying paragraph (1) to such credit—
         - **(I)** 75 percent of the tentative minimum tax shall be substituted for the tentative minimum tax under subparagraph (A) thereof, and
-        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit, the New York Liberty Zone business employee credit, the eligible small business credits, and the specified credits).
+        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the empowerment zone employment credit and the specified credits).
     - **(B)** For purposes of this paragraph, the term “empowerment zone employment credit” means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
-  - **(3)**
-    - **(A)** In the case of the New York Liberty Zone business employee credit—
-      - **(i)** this section and section 39 shall be applied separately with respect to such credit, and
-      - **(ii)** in applying paragraph (1) to such credit—
-        - **(I)** the tentative minimum tax shall be treated as being zero, and
-        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the New York Liberty Zone business employee credit, the eligible small business credits, and the specified credits).
-    - **(B)** For purposes of this subsection, the term “New York Liberty Zone business employee credit” means the portion of work opportunity credit under section 51 determined under section 1400L(a).
+  - **[(3)**
   - **(4)**
     - **(A)** In the case of specified credits—
       - **(i)** this section and section 39 shall be applied separately with respect to such credits, and
       - **(ii)** in applying paragraph (1) to such credits—
         - **(I)** the tentative minimum tax shall be treated as being zero, and
-        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the eligible small business credits and the specified credits).
+        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the specified credits).
     - **(B)** For purposes of this subsection, the term “specified credits” means—
       - **(i)** for taxable years beginning after December 31, 2004 , the credit determined under section 40,
-      - **(ii)** the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(C), after application of rules similar to the rules of paragraph (5)(D)),
+      - **(ii)** the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(A) after application of the rules of paragraph (5)(B)),
       - **(iii)** the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007 ,
       - **(iv)** the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
         - **(I)** at a facility which is originally placed in service after the date of the enactment of this paragraph, and
@@ -93,17 +82,11 @@ status: "active"
       - **(xi)** the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007 , and
       - **(xii)** the credit determined under section 51.
   - **(5)**
-    - **(A)** In the case of eligible small business credits determined in taxable years beginning in 2010—
-      - **(i)** this section and section 39 shall be applied separately with respect to such credits, and
-      - **(ii)** in applying paragraph (1) to such credits—
-        - **(I)** the tentative minimum tax shall be treated as being zero, and
-        - **(II)** the limitation under paragraph (1) (as modified by subclause (I)) shall be reduced by the credit allowed under subsection (a) for the taxable year (other than the eligible small business credits).
-    - **(B)** For purposes of this subsection, the term “eligible small business credits” means the sum of the credits listed in subsection (b) which are determined for the taxable year with respect to an eligible small business. Such credits shall not be taken into account under paragraph (2), (3), or (4).
-    - **(C)** For purposes of this subsection, the term “eligible small business” means, with respect to any taxable year—
+    - **(A)** For purposes of this subsection, the term “eligible small business” means, with respect to any taxable year—
       - **(i)** a corporation the stock of which is not publicly traded,
       - **(ii)** a partnership, or
       - **(iii)** a sole proprietorship,
-    - **(D)** Credits determined with respect to a partnership or S corporation shall not be treated as eligible small business credits by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (C) for the taxable year in which such credits are treated as current year business credits.
+    - **(B)** For purposes of paragraph (4)(B)(ii), any credit determined under section 41 with respect to a partnership or S corporation shall not be treated as a specified credit by any partner or shareholder unless such partner or shareholder meets the gross receipts test under subparagraph (A) for the taxable year in which such credit is treated as a current year business credit.
   - **(6)**
     - **(A)** In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer’s taxable year.
     - **(B)** In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given to such term by section 1563(a).

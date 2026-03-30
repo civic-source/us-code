@@ -3,9 +3,9 @@ title: "Section 4051 - Imposition of tax on heavy trucks and trailers sold at re
 usc_title: 26
 usc_section: "4051"
 chapter: 31
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 4051"
-generated_at: "2026-03-30T07:12:23.066Z"
+generated_at: "2026-03-30T07:15:39.086Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(D)** Truck trailer and semitrailer bodies.
     - **(E)** Tractors of the kind chiefly used for highway transportation in combination with a trailer or semitrailer.
   - **(2)** The tax imposed by paragraph (1) shall not apply to automobile truck chassis and automobile truck bodies, suitable for use with a vehicle which has a gross vehicle weight of 33,000 pounds or less (as determined under regulations prescribed by the Secretary).
-  - **(3)** The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary. 1 1 So in original. Probably should be preceded by a closing parenthesis.
+  - **(3)** The tax imposed by paragraph (1) shall not apply to truck trailer and semitrailer chassis and bodies, suitable for use with a trailer or semitrailer which has a gross vehicle weight of 26,000 pounds or less (as determined under regulations prescribed by the Secretary).
   - **(4)** The tax imposed by paragraph (1) shall not apply to tractors of the kind chiefly used for highway transportation in combination with a trailer or semitrailer if—
     - **(A)** such tractor has a gross vehicle weight of 19,500 pounds or less (as determined by the Secretary), and
     - **(B)** such tractor, in combination with a trailer or semitrailer, has a gross combined weight of 33,000 pounds or less (as determined by the Secretary).

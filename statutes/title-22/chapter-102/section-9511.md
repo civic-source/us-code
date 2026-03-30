@@ -1,15 +1,15 @@
 ---
-title: "Section 9511 - Congressional review of certain actions relating to sanctions imposed with respect to the Russian federation"
+title: "Section 9511 - Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation"
 usc_title: 22
 usc_section: "9511"
 chapter: 102
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 9511"
-generated_at: "2026-03-30T07:12:12.332Z"
+generated_at: "2026-03-30T07:15:29.096Z"
 status: "active"
 ---
 
-# § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian federation
+# § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation
 
 - **(a)**
   - **(1)** Notwithstanding any other provision of law, before taking any action described in paragraph (2), the President shall submit to the appropriate congressional committees and leadership a report that describes the proposed action and the reasons for that action.

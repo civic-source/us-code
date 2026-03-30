@@ -3,9 +3,9 @@ title: "Section 2739 - Amounts recovered from third parties for loss or damage t
 usc_title: 10
 usc_section: "2739"
 chapter: 163
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2739"
-generated_at: "2026-03-30T07:11:06.637Z"
+generated_at: "2026-03-30T07:14:57.818Z"
 status: "active"
 ---
 

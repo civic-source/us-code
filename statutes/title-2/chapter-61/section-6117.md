@@ -3,9 +3,9 @@ title: "Section 6117 - Stationery allowance for President of Senate"
 usc_title: 2
 usc_section: "6117"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 6117"
-generated_at: "2026-03-30T07:10:50.412Z"
+generated_at: "2026-03-30T07:14:20.294Z"
 status: "active"
 ---
 

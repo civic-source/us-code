@@ -3,9 +3,9 @@ title: "Section 1592 - Authority of Secretary"
 usc_title: 42
 usc_section: "1592"
 chapter: 9
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 1592"
-generated_at: "2026-03-30T07:13:45.869Z"
+generated_at: "2026-03-30T07:16:11.145Z"
 status: "active"
 ---
 

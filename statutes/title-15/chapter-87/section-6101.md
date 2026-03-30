@@ -3,9 +3,9 @@ title: "Section 6101 - Findings"
 usc_title: 15
 usc_section: "6101"
 chapter: 87
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 6101"
-generated_at: "2026-03-30T07:11:27.033Z"
+generated_at: "2026-03-30T07:15:11.923Z"
 status: "active"
 ---
 

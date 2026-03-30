@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T07:13:45.677Z"
+generated_at: "2026-03-30T07:16:10.844Z"
 status: "active"
 ---
 
@@ -130,8 +130,9 @@ status: "active"
         - **(II)** verify such person’s social security account number (or employer identification number),
         - **(III)** determine whether such person has been convicted of a violation of section 408, 1011, or 1383a of this title,
         - **(IV)** obtain information concerning whether such person has been convicted of any other offense under Federal or State law which resulted in imprisonment for more than 1 year,
-        - **(V)** obtain information concerning whether such person is a person described in section 402(x)(1)(A)(iv) of this title , and
-        - **(VI)** determine whether certification of payment of benefits to such person has been revoked pursuant to this subsection, the designation of such person as a representative payee has been revoked pursuant to section 1007(a) of this title , or payment of benefits to such person has been terminated pursuant to section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter VIII, or subchapter XVI.
+        - **(V)** obtain information concerning whether such person is a person described in section 402(x)(1)(A)(iv) of this title ,
+        - **(VI)** determine whether certification of payment of benefits to such person has been revoked pursuant to this subsection, the designation of such person as a representative payee has been revoked pursuant to section 1007(a) of this title , or payment of benefits to such person has been terminated pursuant to section 1383(a)(2)(A)(iii) of this title by reason of misuse of funds paid as benefits under this subchapter, subchapter VIII, or subchapter XVI, and
+        - **(VII)** determine whether such person has been convicted (and not subsequently exonerated), under Federal or State law, of a felony provided under clause (iv), or of an attempt or a conspiracy to commit such a felony.
       - **(ii)** The Commissioner of Social Security shall establish and maintain a centralized file, which shall be updated periodically and which shall be in a form which renders it readily retrievable by each servicing office of the Social Security Administration. Such file shall consist of—
         - **(I)** a list of the names and social security account numbers (or employer identification numbers) of all persons with respect to whom certification of payment of benefits has been revoked on or after January 1, 1991 , pursuant to this subsection, whose designation as a representative payee has been revoked pursuant to section 1007(a) of this title , or with respect to whom payment of benefits has been terminated on or after such date pursuant to section 1383(a)(2)(A)(iii) of this title , by reason of misuse of funds paid as benefits under this subchapter, subchapter VIII, or subchapter XVI, and
         - **(II)** a list of the names and social security account numbers (or employer identification numbers) of all persons who have been convicted of a violation of section 408, 1011, or 1383a of this title.
@@ -139,13 +140,31 @@ status: "active"
         - **(I)** such person is described in section 402(x)(1)(A)(iv) of this title ,
         - **(II)** such person has information that is necessary for the officer to conduct the officer’s official duties, and
         - **(III)** the location or apprehension of such person is within the officer’s official duties.
+      - **(iv)** The felony crimes provided under this clause, whether an offense under State or Federal law, are the following:
+        - **(I)** Human trafficking, including as prohibited under sections 1590 and 1591 of title 18.
+        - **(II)** False imprisonment, including as prohibited under section 1201 of title 18 .
+        - **(III)** Kidnapping, including as prohibited under section 1201 of title 18 .
+        - **(IV)** Rape and sexual assault, including as prohibited under sections 2241, 2242, 2243, and 2244 of title 18.
+        - **(V)** First-degree homicide, including as prohibited under section 1111 of title 18 .
+        - **(VI)** Robbery, including as prohibited under section 2111 of title 18 .
+        - **(VII)** Fraud to obtain access to government assistance, including as prohibited under sections 287, 1001, and 1343 of title 18.
+        - **(VIII)** Fraud by scheme, including as prohibited under section 1343 of title 18 .
+        - **(IX)** Theft of government funds or property, including as prohibited under section 641 of title 18 .
+        - **(X)** Abuse or neglect, including as prohibited under sections 111, 113, 114, 115, 116, or 117 of title 18.
+        - **(XI)** Forgery, including as prohibited under section 642 and chapter 25 (except section 512) of title 18.
+        - **(XII)** Identity theft or identity fraud, including as prohibited under sections 1028 and 1028A of title 18.
+      - **(v)**
+        - **(I)** For the purpose of carrying out the activities required under subparagraph (B)(i) as part of the investigation under subparagraph (A)(i), the Commissioner may conduct a background check of any individual seeking to serve as a representative payee under this subsection and may disqualify from service as a representative payee any such individual who fails to grant permission for the Commissioner to conduct such a background check.
+        - **(II)** The Commissioner may revoke certification of payment of benefits under this subsection to any individual serving as a representative payee on or after January 1, 2019 who fails to grant permission for the Commissioner to conduct such a background check.
     - **(C)**
       - **(i)** Benefits of an individual may not be certified for payment to any other person pursuant to this subsection if—
         - **(I)** such person has previously been convicted as described in subparagraph (B)(i)(III),
         - **(II)** except as provided in clause (ii), certification of payment of benefits to such person under this subsection has previously been revoked as described in subparagraph (B)(i)(VI) 5 5 So in original. Probably should be followed by a comma. the designation of such person as a representative payee has been revoked pursuant to section 1007(a) of this title , or payment of benefits to such person pursuant to section 1383(a)(2)(A)(ii) of this title has previously been terminated as described in section 1383(a)(2)(B)(ii)(VI) of this title ,
         - **(III)** except as provided in clause (iii), such person is a creditor of such individual who provides such individual with goods or services for consideration,
-        - **(IV)** such person has previously been convicted as described in subparagraph (B)(i)(IV), unless the Commissioner determines that such certification would be appropriate notwithstanding such conviction, or
-        - **(V)** such person is a person described in section 402(x)(1)(A)(iv) of this title .
+        - **(IV)** such person has previously been convicted as described in subparagraph (B)(i)(IV), unless the Commissioner determines that such certification would be appropriate notwithstanding such conviction,
+        - **(V)** such person is a person described in section 402(x)(1)(A)(iv) of this title ,
+        - **(VI)** except as provided in clause (vi), such person has previously been convicted (and not subsequently exonerated) as described in subparagraph (B)(i)(VII), or
+        - **(VII)** such person’s benefits under this subchapter, subchapter VIII, or subchapter XVI are certified for payment to a representative payee during the period for which the individual’s benefits would be certified for payment to another person.
       - **(ii)** The Commissioner of Social Security shall prescribe regulations under which the Commissioner of Social Security may grant exemptions to any person from the provisions of clause (i)(II) on a case-by-case basis if such exemption is in the best interest of the individual whose benefits would be paid to such person pursuant to this subsection.
       - **(iii)** Clause (i)(III) shall not apply with respect to any person who is a creditor referred to therein if such creditor is—
         - **(I)** a relative of such individual if such relative resides in the same household as such individual,
@@ -162,6 +181,9 @@ status: "active"
         - **(II)** a Federal, State, or local government agency whose mission is to carry out income maintenance, social service, or health care-related activities,
         - **(III)** a State or local government agency with fiduciary responsibilities, or
         - **(IV)** a designee of an agency (other than of a Federal agency) referred to in the preceding subclauses of this clause, if the Commissioner of Social Security deems it appropriate,
+      - **(vi)**
+        - **(I)** With respect to any person described in subclause (II)—
+        - **(II)** A person is described in this subclause if the person—
     - **(D)**
       - **(i)** Subject to clause (ii), if the Commissioner of Social Security makes a determination described in the first sentence of paragraph (1) with respect to any individual’s benefit and determines that direct payment of the benefit to the individual would cause substantial harm to the individual, the Commissioner of Social Security may defer (in the case of initial entitlement) or suspend (in the case of existing entitlement) direct payment of such benefit to the individual, until such time as the selection of a representative payee is made pursuant to this subsection.
       - **(ii)**
@@ -182,12 +204,18 @@ status: "active"
     - **(A)** In any case where payment under this subchapter is made to a person other than the individual entitled to such payment, the Commissioner of Social Security shall establish a system of accountability monitoring whereby such person shall report not less often than annually with respect to the use of such payments. The Commissioner of Social Security shall establish and implement statistically valid procedures for reviewing such reports in order to identify instances in which such persons are not properly using such payments.
     - **(B)** Subparagraph (A) shall not apply in any case where the other person to whom such payment is made is a State institution. In such cases, the Commissioner of Social Security shall establish a system of accountability monitoring for institutions in each State.
     - **(C)** Subparagraph (A) shall not apply in any case where the individual entitled to such payment is a resident of a Federal institution and the other person to whom such payment is made is the institution.
-    - **(D)** Notwithstanding subparagraphs (A), (B), and (C), the Commissioner of Social Security may require a report at any time from any person receiving payments on behalf of another, if the Commissioner of Social Security has reason to believe that the person receiving such payments is misusing such payments.
-    - **(E)** In any case in which the person described in subparagraph (A) or (D) receiving payments on behalf of another fails to submit a report required by the Commissioner of Social Security under subparagraph (A) or (D), the Commissioner may, after furnishing notice to such person and the individual entitled to such payment, require that such person appear in person at a field office of the Social Security Administration serving the area in which the individual resides in order to receive such payments.
-    - **(F)** The Commissioner of Social Security shall maintain a centralized file, which shall be updated periodically and which shall be in a form which will be readily retrievable by each servicing office of the Social Security Administration, of—
+    - **(D)**
+      - **(i)** Subparagraph (A) shall not apply in any case where the other person to whom such payment is made is—
+        - **(I)** a parent, or other individual who is a legal guardian of, a minor child entitled to such payment who primarily resides in the same household;
+        - **(II)** a parent of an individual entitled to such payment who is under a disability (as defined in section 423(d) of this title ) who primarily resides in the same household; or
+        - **(III)** the spouse of the individual entitled to such payment.
+      - **(ii)** The Commissioner of Social Security shall establish and implement procedures as necessary for the Commissioner to determine the eligibility of such parties for the exemption provided in clause (i). The Commissioner shall prescribe such regulations as may be necessary to determine eligibility for such exemption.
+    - **(E)** Notwithstanding subparagraphs (A), (B), (C), and (D), the Commissioner of Social Security may require a report at any time from any person receiving payments on behalf of another, if the Commissioner of Social Security has reason to believe that the person receiving such payments is misusing such payments.
+    - **(F)** In any case in which the person described in subparagraph (A) or (E) receiving payments on behalf of another fails to submit a report required by the Commissioner of Social Security under subparagraph (A) or (E), the Commissioner may, after furnishing notice to such person and the individual entitled to such payment, require that such person appear in person at a field office of the Social Security Administration serving the area in which the individual resides in order to receive such payments.
+    - **(G)** The Commissioner of Social Security shall maintain a centralized file, which shall be updated periodically and which shall be in a form which will be readily retrievable by each servicing office of the Social Security Administration, of—
       - **(i)** the address and the social security account number (or employer identification number) of each representative payee who is receiving benefit payments pursuant to this subsection, section 1007 of this title , or section 1383(a)(2) of this title , and
       - **(ii)** the address and social security account number of each individual for whom each representative payee is reported to be providing services as representative payee pursuant to this subsection, section 1007 of this title , or section 1383(a)(2) of this title .
-    - **(G)** Each servicing office of the Administration shall maintain a list, which shall be updated periodically, of public agencies and certified community-based nonprofit social service agencies (as defined in paragraph (10)) which are qualified to serve as representative payees pursuant to this subsection or section 1007 or 1383(a)(2) of this title and which are located in the area served by such servicing office.
+    - **(H)** Each servicing office of the Administration shall maintain a list, which shall be updated periodically, of public agencies and certified community-based nonprofit social service agencies (as defined in paragraph (10)) which are qualified to serve as representative payees pursuant to this subsection or section 1007 or 1383(a)(2) of this title and which are located in the area served by such servicing office.
   - **(4)**
     - **(A)**
       - **(i)** Except as provided in the next sentence, a qualified organization may collect from an individual a monthly fee for expenses (including overhead) incurred by such organization in providing services performed as such individual’s representative payee pursuant to this subsection if such fee does not exceed the lesser of—
@@ -201,26 +229,69 @@ status: "active"
   - **(5)** In cases where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall certify for payment to the beneficiary or the beneficiary’s alternative representative payee an amount equal to such misused benefits. In any case in which a representative payee that—
     - **(A)** is not an individual (regardless of whether it is a “qualified organization” within the meaning of paragraph (4)(B)); or
     - **(B)** is an individual who, for any month during a period when misuse occurs, serves 15 or more individuals who are beneficiaries under this subchapter, subchapter VIII, subchapter XVI, or any combination of such subchapters;
-  - **(6)**
-    - **(A)** In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner shall provide for the periodic onsite review of any person or agency located in the United States that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter VIII or subchapter XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this subsection, section 1007 of this title , or section 1383(a)(2) of this title in any case in which—
+  - **(6)** In addition to such other reviews of representative payees as the Commissioner of Social Security may otherwise conduct, the Commissioner shall provide for the periodic onsite review of any person or agency located in the United States that receives the benefits payable under this subchapter (alone or in combination with benefits payable under subchapter VIII or subchapter XVI) to another individual pursuant to the appointment of such person or agency as a representative payee under this subsection, section 1007 of this title , or section 1383(a)(2) of this title in any case in which—
+    - **(C)** 7 (i) The Commissioner of Social Security shall make annual grants directly to the protection and advocacy system serving each of the States and the American Indian consortium for the purpose of conducting reviews of representative payees in accordance with this subparagraph. The total amount used by the Commissioner for such grants each year—
+        - **(I)** shall be an amount sufficient, as determined by the Commissioner in consultation with each of the protection and advocacy systems, to carry out all of the activities described in clause (ii); and
+        - **(II)** shall not be less than $25,000,000.
       - **(i)** the representative payee is a person who serves in that capacity with respect to 15 or more such individuals;
-      - **(ii)** the representative payee is a certified community-based nonprofit social service agency (as defined in paragraph (10) of this subsection or section 1383(a)(2)(I) of this title ); or
-      - **(iii)** the representative payee is an agency (other than an agency described in clause (ii)) that serves in that capacity with respect to 50 or more such individuals.
-    - **(B)** Within 120 days after the end of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the results of periodic onsite reviews conducted during the fiscal year pursuant to subparagraph (A) and of any other reviews of representative payees conducted during such fiscal year in connection with benefits under this subchapter. Each such report shall describe in detail all problems identified in such reviews and any corrective action taken or planned to be taken to correct such problems, and shall include—
-      - **(i)** the number of such reviews;
-      - **(ii)** the results of such reviews;
-      - **(iii)** the number of cases in which the representative payee was changed and why;
-      - **(iv)** the number of cases involving the exercise of expedited, targeted oversight of the representative payee by the Commissioner conducted upon receipt of an allegation of misuse of funds, failure to pay a vendor, or a similar irregularity;
-      - **(v)** the number of cases discovered in which there was a misuse of funds;
-      - **(vi)** how any such cases of misuse of funds were dealt with by the Commissioner;
-      - **(vii)** the final disposition of such cases of misuse of funds, including any criminal penalties imposed; and
-      - **(viii)** such other information as the Commissioner deems appropriate.
+      - **(ii)** the representative payee is a certified community-based nonprofit social service agency (as defined in paragraph (10) of this subsection or section 1383(a)(2)(I) of this title );
+      - **(iii)** the representative payee is an agency (other than an agency described in clause (ii)) that serves in that capacity with respect to 50 or more such individuals; or
+      - **(iv)** the representative payee collects a fee for its services. The Commissioner shall also conduct periodic onsite reviews of individual and organizational payees, including payees who are related to the beneficiary and primarily reside in the same household, selected on the basis of risk-factors for potential misuse or unsuitability associated with such payees or beneficiaries.
+- **(ii)** A protection and advocacy system awarded a grant under this subparagraph shall use the grant funds to—
+        - **(I)** conduct all periodic onsite reviews pursuant to this paragraph and such other reviews of representative payees as the Commissioner may request, including reviews conducted in response to allegations or concerns about the performance or suitability of the payee;
+        - **(II)** conduct additional reviews that the protection and advocacy system has reason to believe are warranted;
+        - **(III)** develop corrective action plans to assist representative payees in conforming to requirements specified by the Commissioner;
+        - **(IV)** submit a report to the Commissioner on each completed review containing such information as the Commissioner shall require; and
+        - **(V)** conduct an initial onsite assessment of any organization that begins collecting a fee for its services as a representative payee to ensure that such organization is established as such a representative payee in accordance with requirements specified by the Commissioner.
+- **(iii)** To be eligible to receive grants under this section, a protection and advocacy system shall submit an initial application to the Commissioner at such time, in such form and manner, and accompanied by such information and assurances as the Commissioner may require.
   - **(7)**
     - **(A)** If the Commissioner of Social Security or a court of competent jurisdiction determines that a representative payee that is not a Federal, State, or local government agency has misused all or part of an individual’s benefit that was paid to such representative payee under this subsection, the representative payee shall be liable for the amount misused, and such amount (to the extent not repaid by the representative payee) shall be treated as an overpayment of benefits under this subchapter to the representative payee for all purposes of this chapter and related laws pertaining to the recovery of such overpayments. Subject to subparagraph (B), upon recovering all or any part of such amount, the Commissioner shall certify an amount equal to the recovered amount for payment to such individual or such individual’s alternative representative payee.
     - **(B)** The total of the amount certified for payment to such individual or such individual’s alternative representative payee under subparagraph (A) and the amount certified for payment under paragraph (5) may not exceed the total benefit amount misused by the representative payee with respect to such individual.
   - **(8)** For purposes of this subsection, the term “benefit based on disability” of an individual means a disability insurance benefit of such individual under section 423 of this title or a child’s, widow’s, or widower’s insurance benefit of such individual under section 402 of this title based on such individual’s disability.
   - **(9)** For purposes of this subsection, misuse of benefits by a representative payee occurs in any case in which the representative payee receives payment under this subchapter for the use and benefit of another person and converts such payment, or any part thereof, to a use other than for the use and benefit of such other person. The Commissioner of Social Security may prescribe by regulation the meaning of the term “use and benefit” for purposes of this paragraph.
   - **(10)** For purposes of this subsection, the term “certified community-based nonprofit social service agency” means a community-based nonprofit social service agency which is in compliance with requirements, under regulations which shall be prescribed by the Commissioner, for annual certification to the Commissioner that it is bonded in accordance with requirements specified by the Commissioner and that it is licensed in each State in which it serves as a representative payee (if licensing is available in the State) in accordance with requirements specified by the Commissioner. Any such annual certification shall include a copy of any independent audit on the agency which may have been performed since the previous certification.
+  - **(11)**
+    - **(A)** The Commissioner of Social Security shall—
+      - **(i)** enter into agreements with each State with a plan approved under part E of subchapter IV for the purpose of sharing and matching data, on an automated monthly basis, in the system of records of the Social Security Administration with each Statewide and Tribal Automated Child Welfare Information System to identify represented minor beneficiaries who are in foster care under the responsibility of the State for such month; and
+      - **(ii)** in any case in which a represented minor beneficiary has entered or exited foster care or changed foster care placement in such month, redetermine the appropriate representative payee for such individual.
+    - **(B)** For purposes of this paragraph—
+      - **(i)** the term “State” has the meaning given such term for purposes of part E of subchapter IV;
+      - **(ii)** the term “Statewide and Tribal Automated Child Welfare Information System” means a statewide mechanized data collection and information retrieval system described in section 674(a)(3)(C) of this title ; and
+      - **(iii)** the term “represented minor beneficiary”, with respect to an individual for a month, means a child (as defined for purposes of section 675(8) of this title ) entitled to benefits under this subchapter for such month whose benefits are certified for payment to a representative payee.
+  - **(12)**
+    - **(A)** Not later than January 31 of each fiscal year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the total number of individuals entitled to benefits under subchapters II, VIII, and XVI, respectively, (and the number of individuals concurrently entitled to benefits under more than one such subchapter) who have a representative payee, the total number of such representative payees, and the results of all reviews of representative payees conducted during the previous fiscal year in connection with benefits under this subchapter, subchapter VIII, or subchapter XVI. Such report shall summarize problems identified in such reviews and corrective actions taken or planned to be taken to correct such problems, and shall include—
+      - **(i)** the number of such reviews;
+      - **(ii)** the results of such reviews;
+      - **(iii)** the number of cases in which the representative payee was changed and why;
+      - **(iv)** the number of reviews conducted in response to allegations or concerns about the performance or suitability of the payee;
+      - **(v)** the number of cases discovered in which there was a misuse of funds, and the total dollar amount of benefits determined by the Commissioner during such fiscal year to have been misused by a representative payee (regardless of the fiscal year in which such misuse occurred);
+      - **(vi)** the number of cases discovered in which such misuse of funds resulted from the negligent failure of the Commissioner to investigate or monitor a representative payee;
+      - **(vii)** the final disposition of such cases of misuse of funds, including—
+        - **(I)** any criminal, civil, and administrative penalties imposed;
+        - **(II)** the total dollar amount of misused benefits repaid to beneficiaries and alternative representative payees under each of—
+        - **(III)** the total dollar amount of misused benefits recovered under each of—
+      - **(viii)** any updates to prior year reports necessary to reflect subsequent recoveries and repayments pertaining to misuse determinations made in prior years; and
+      - **(ix)** such other information as the Commissioner deems appropriate.
+    - **(B)** Each report required under this paragraph for a fiscal year shall include the information described in clauses (i) through (ix) of subparagraph (A) with respect to—
+      - **(i)** all representative payees reviewed during such fiscal year;
+      - **(ii)** all such representative payees that are organizations, separated by whether such organization collects a fee for its services as a representative payee;
+      - **(iii)** all such representative payees that are individuals serving 15 or more individuals; and
+      - **(iv)** all such representative payees that are individuals serving less than 15 individuals, separated by whether such representative payee is a family member.
+      - **(iv)**
+        - **(I)** Subject to subclause (II), the Commissioner shall ensure that any funds used for grants under clause (i) shall be allocated to the protection and advocacy systems serving each of the States and the American Indian consortium in a manner such that the amount provided to each protection and advocacy system bears the same ratio to the total of such funds as the number of represented beneficiaries in the State or American Indian consortium in which such protection and advocacy system is located bears to the total number of represented beneficiaries.
+        - **(II)** The amount of an annual grant to a protection and advocacy system under clause (i) shall—
+        - **(III)** Funds provided to a protection and advocacy system through a grant under clause (i) for a 1-year period shall remain available through the end of the following 1-year period.
+        - **(IV)** For purposes of this clause, the term “represented beneficiary” means an individual—
+      - **(v)**
+        - **(I)** The Commissioner shall make annual grants, in an amount equal to 4 percent of the total amount of grants awarded each year under clause (i), to an eligible national association for the provision of training and technical assistance, administrative support, and data collection services to protection and advocacy systems in connection with grants awarded under clause (i).
+        - **(II)** In this clause, the term “eligible national association” means a national disability association with extensive knowledge and demonstrated experience in providing training, technical assistance, and administrative oversight to protection and advocacy systems that monitor representative payees.
+      - **(vi)** In conducting reviews under this section, a protection and advocacy system shall have the same authorities, including access to records, facilities, and persons, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+      - **(vii)** Whenever benefit amounts under this title are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 415(i) of this title , each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.
+      - **(viii)** No additional funds are authorized to be appropriated to carry out the requirements of this subparagraph. Such requirements shall be carried out using amounts otherwise authorized.
+      - **(ix)** In this subparagraph:
+        - **(I)** The term “American Indian consortium” means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+        - **(II)** The term “protection and advocacy system” means a protection and advocacy system established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
+        - **(III)** The term “State” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 - **(k)** Any payment made after December 31, 1939 , under conditions set forth in subsection (j), any payment made before January 1, 1940 , to, or on behalf of, a legally incompetent individual, and any payment made after December 31, 1939 , to a legally incompetent individual without knowledge by the Commissioner of Social Security of incompetency prior to certification of payment, if otherwise valid under this subchapter, shall be a complete settlement and satisfaction of any claim, right, or interest in and to such payment.
 - **(l)** The Commissioner of Social Security is authorized to delegate to any member, officer, or employee of the Social Security Administration designated by the Commissioner any of the powers conferred upon the Commissioner by this section, and is authorized to be represented by the Commissioner’s own attorneys in any court in any case or proceeding arising under the provisions of subsection (e).
 - **(m)**

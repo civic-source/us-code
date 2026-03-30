@@ -3,19 +3,19 @@ title: "Section 40912 - Requirements to obtain waiver"
 usc_title: 34
 usc_section: "40912"
 chapter: 409
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "34 U.S.C. § 40912"
-generated_at: "2026-03-30T07:12:25.818Z"
+generated_at: "2026-03-30T07:15:41.804Z"
 status: "active"
 ---
 
 # § 40912. Requirements to obtain waiver
 
-- **(a)** Beginning 3 years after January 8, 2008 , a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under the Crime Identification Technology Act of 1988 ( 42 U.S.C. 14601 ) 1 1 See References in Text note below. if the State provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
+- **(a)** Beginning 3 years after January 8, 2008 , a State shall be eligible to receive a waiver of the 10 percent matching requirement for National Criminal History Improvement Grants under section 40301 of this title if the State is in compliance with an implementation plan established under subsection (b) or provides at least 90 percent of the information described in subsection (c). The length of such a waiver shall not exceed 2 years.
 - **(b)**
   - **(1)**
     - **(A)** To assist the Attorney General in making a determination under subsection (a) of this section, and under section 40914 of this title , concerning the compliance of the States in providing information to the Attorney General for the purpose of receiving a waiver under subsection (a) of this section, or facing a loss of funds under section 40914 of this title , by a date not later than 180 days after January 8, 2008 , each State shall provide the Attorney General with a reasonable estimate, as calculated by a method determined by the Attorney General and in accordance with section 40914(d) of this title , of the number of the records described in subparagraph (C) applicable to such State that concern persons who are prohibited from possessing or receiving a firearm under subsection (g) or (n) of section 922 of title 18 .
-    - **(B)** A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under section 40913 of this title , until such date as it provides such estimate to the Attorney General.
+    - **(B)** A State that fails to provide an estimate described in subparagraph (A) by the date required under such subparagraph shall be ineligible to receive any funds under section 40913 of this title , until such date as it provides such estimate to the Attorney General or has established an implementation plan under section 40917 of this title .
     - **(C)** For purposes of subparagraph (A), a record is the following:
       - **(i)** A record that identifies a person who has been convicted in any court of a crime punishable by imprisonment for a term exceeding 1 year.
       - **(ii)** A record that identifies a person for whom an indictment has been returned for a crime punishable by imprisonment for a term exceeding 1 year that is valid under the laws of the State involved or who is a fugitive from justice, as of the date of the estimate, and for which a record of final disposition is not available.

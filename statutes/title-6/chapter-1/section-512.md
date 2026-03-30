@@ -3,9 +3,9 @@ title: "Section 512 - Construction"
 usc_title: 6
 usc_section: "512"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "6 U.S.C. § 512"
-generated_at: "2026-03-30T07:11:13.403Z"
+generated_at: "2026-03-30T07:14:47.589Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1174 - Repealed. Pub. L. 96–374, title VI , § 601(c)(2), Oct.
 usc_title: 20
 usc_section: "1174"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 1174"
-generated_at: "2026-03-30T07:11:45.038Z"
+generated_at: "2026-03-30T07:15:17.696Z"
 status: "repealed"
 ---
 

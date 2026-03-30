@@ -3,15 +3,15 @@ title: "Section 280C - Certain expenses for which credits are allowable"
 usc_title: 26
 usc_section: "280C"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 280C"
-generated_at: "2026-03-30T07:12:22.954Z"
+generated_at: "2026-03-30T07:15:38.972Z"
 status: "active"
 ---
 
 # § 280C. Certain expenses for which credits are allowable
 
-- **(a)** No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the sum of the credits determined for the taxable year under sections 45A(a), 45P(a), 45S(a), 51(a), and 1 1 So in original. The word “and” probably should not appear. 1396(a), 1400P(b), and 1400R. In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 52(a)) or a trade or business which is treated as being under common control with other trades or businesses (within the meaning of section 52(b)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subsections (a) and (b) of section 52.
+- **(a)** No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the sum of the credits determined for the taxable year under sections 45A(a), 45P(a), 45S(a), 51(a), and 1396(a). In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 52(a)) or a trade or business which is treated as being under common control with other trades or businesses (within the meaning of section 52(b)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subsections (a) and (b) of section 52.
 - **(b)**
   - **(1)** No deduction shall be allowed for that portion of the qualified clinical testing expenses (as defined in section 45C(b)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 45C (determined without regard to section 38(c)).
   - **(2)** If—
@@ -49,13 +49,3 @@ status: "active"
 - **(f)** No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction taken into account in determining the credit under section 45O for the taxable year which is equal to the amount of the credit determined for such taxable year under section 45O(a).
 - **(g)** No deduction shall be allowed for the portion of the premiums paid by the taxpayer for coverage of 1 or more individuals under a qualified health plan which is equal to the amount of the credit determined for the taxable year under section 36B(a) with respect to such premiums.
 - **(h)** No deduction shall be allowed for that portion of the premiums for qualified health plans (as defined in section 1301(a) of the Patient Protection and Affordable Care Act), or for health insurance coverage in the case of taxable years beginning in 2010, 2011, 2012, or 2013, paid by an employer which is equal to the amount of the credit determined under section 45R(a) with respect to the premiums.
-- **(g)**
-  - **(1)** No deduction shall be allowed for that portion of the qualified investment (as defined in section 48D(b)) otherwise allowable as a deduction for the taxable year which—
-    - **(A)** would be qualified research expenses (as defined in section 41(b)), basic research expenses (as defined in section 41(e)(2)), or qualified clinical testing expenses (as defined in section 45C(b)) if the credit under section 41 or section 45C were allowed with respect to such expenses for such taxable year, and
-    - **(B)** is equal to the amount of the credit determined for such taxable year under section 48D(a), reduced by—
-      - **(i)** the amount disallowed as a deduction by reason of section 48D(e)(2)(B), and
-      - **(ii)** the amount of any basis reduction under section 48D(e)(1).
-  - **(2)** In the case of expenses described in paragraph (1)(A) taken into account in determining the credit under section 48D for the taxable year, if—
-    - **(A)** the amount of the portion of the credit determined under such section with respect to such expenses, exceeds
-    - **(B)** the amount allowable as a deduction for such taxable year for such expenses (determined without regard to paragraph (1)),
-  - **(3)** Paragraph (3) of subsection (b) shall apply for purposes of this subsection.

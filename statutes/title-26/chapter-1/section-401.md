@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T07:12:22.961Z"
+generated_at: "2026-03-30T07:15:38.980Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** A trust created or organized in the United States and forming part of a stock bonus, pension, or profit-sharing plan of an employer for the exclusive benefit of his employees or their beneficiaries shall constitute a qualified trust under this section—
   - **(1)** if contributions are made to the trust by such employer, or employees, or both, or by another employer who is entitled to deduct his contributions under section 404(a)(3)(B) (relating to deduction for contributions to profit-sharing and stock bonus plans), or by a charitable remainder trust pursuant to a qualified gratuitous transfer (as defined in section 664(g)(1)), for the purpose of distributing to such employees or their beneficiaries the corpus and income of the fund accumulated by the trust in accordance with such plan;
-  - **(2)** if under the trust instrument it is impossible, at any time prior to the satisfaction of all liabilities with respect to employees and their beneficiaries under the trust, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, purposes other than for the exclusive benefit of his employees or their beneficiaries (but this paragraph shall not be construed, in the case of a multiemployer plan, to prohibit the return of a contribution within 6 months after the plan administrator determines that the contribution was made by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) or the trust which is part of such plan is exempt from taxation under section 501(a), or the return of any withdrawal liability payment determined to be an overpayment within 6 months of such determination).; 1 1 So in original. Period before semicolon probably should be a closing parenthesis.
+  - **(2)** if under the trust instrument it is impossible, at any time prior to the satisfaction of all liabilities with respect to employees and their beneficiaries under the trust, for any part of the corpus or income to be (within the taxable year or thereafter) used for, or diverted to, purposes other than for the exclusive benefit of his employees or their beneficiaries (but this paragraph shall not be construed, in the case of a multiemployer plan, to prohibit the return of a contribution within 6 months after the plan administrator determines that the contribution was made by a mistake of fact or law (other than a mistake relating to whether the plan is described in section 401(a) or the trust which is part of such plan is exempt from taxation under section 501(a), or the return of any withdrawal liability payment determined to be an overpayment within 6 months of such determination));
   - **(3)** if the plan of which such trust is a part satisfies the requirements of section 410 (relating to minimum participation standards); and
   - **(4)** if the contributions or benefits provided under the plan do not discriminate in favor of highly compensated employees (within the meaning of section 414(q)). For purposes of this paragraph, there shall be excluded from consideration employees described in section 410(b)(3)(A) and (C).
   - **(5)**
@@ -121,7 +121,7 @@ status: "active"
     - **(A)** the date on which the participant attains the earlier of age 65 or the normal retirement age specified under the plan,
     - **(B)** occurs the 10th anniversary of the year in which the participant commenced participation in the plan, or
     - **(C)** the participant terminates his service with the employer.
-  - **(15)** a 2 2 So in original. Probably should be capitalized. trust shall not constitute a qualified trust under this section unless under the plan of which such trust is a part—
+  - **(15)** A trust shall not constitute a qualified trust under this section unless under the plan of which such trust is a part—
     - **(A)** in the case of a participant or beneficiary who is receiving benefits under such plan, or
     - **(B)** in the case of a participant who is separated from the service and who has nonforfeitable rights to benefits,
   - **(16)** A trust shall not constitute a qualified trust under this section if the plan of which such trust is a part provides for benefits or contributions which exceed the limitations of section 415.
@@ -189,7 +189,7 @@ status: "active"
     - **(D)** For purposes of this paragraph, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A).
     - **(E)** For purposes of this paragraph, the term “eligible retirement plan” has the meaning given such term by section 402(c)(8)(B), except that a qualified trust shall be considered an eligible retirement plan only if it is a defined contribution plan, the terms of which permit the acceptance of rollover distributions.
   - **(32)**
-    - **(A)** A trust forming part of a pension plan to which section section 3 3 So in original. 430(j)(4) or 433(f)(5) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section section 3 430(j)(4) or 433(f)(5)).
+    - **(A)** A trust forming part of a pension plan to which section 430(j)(4) or 433(f)(5) applies shall not be treated as failing to constitute a qualified trust under this section merely because such plan ceases to make any payment described in subparagraph (B) during any period that such plan has a liquidity shortfall (as defined in section 430(j)(4) or 433(f)(5)).
     - **(B)** A payment is described in this subparagraph if such payment is—
       - **(i)** any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs during the period referred to in subparagraph (A),
       - **(ii)** any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
@@ -264,7 +264,7 @@ status: "active"
     - **(A)** The term “earned income” means the net earnings from self-employment (as defined in section 1402(a)), but such net earnings shall be determined—
       - **(i)** only with respect to a trade or business in which personal services of the taxpayer are a material income-producing factor,
       - **(ii)** without regard to paragraphs (4) and (5) of section 1402(c),
-      - **(iii)** in the case of any individual who is treated as an employee under sections 4 4 So in original. Probably should be “section”. 3121(d)(3)(A), (C), or (D), without regard to paragraph (2) of section 1402(c),
+      - **(iii)** in the case of any individual who is treated as an employee under subparagraph (A), (C), or (D) of section 3121(d)(3), without regard to section 1402(c)(2),
       - **(iv)** without regard to items which are not included in gross income for purposes of this chapter, and the deductions properly allocable to or chargeable against such items,
       - **(v)** with regard to the deductions allowed by section 404 to the taxpayer, and
       - **(vi)** with regard to the deduction allowed to the taxpayer by section 164(f).
@@ -305,7 +305,7 @@ status: "active"
         - **(I)** severance from employment, death, or disability,
         - **(II)** an event described in paragraph (10),
         - **(III)** in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
-        - **(IV)** 5 5 See Amendment of Subsection (k) note below. in the case of contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies, upon hardship of the employee, or
+        - **(IV)** 1 1 See Amendment of Subsection (k) note below. in the case of contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies, upon hardship of the employee, or
         - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, and
       - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years;
     - **(C)** which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
@@ -355,7 +355,7 @@ status: "active"
       - **(iv)** any organization which—
         - **(I)** is a mutual irrigation or ditch company described in section 501(c)(12) (without regard to the 85 percent requirement thereof), or
         - **(II)** is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
-      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 3 (iii), or (iv).
+      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 2 2 So in original. (iii), or (iv).
     - **(C)** A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
   - **(8)**
     - **(A)** A cash or deferred arrangement shall not be treated as failing to meet the requirements of clause (ii) of paragraph (3)(A) for any plan year if, before the close of the following plan year—

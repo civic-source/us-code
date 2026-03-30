@@ -3,9 +3,9 @@ title: "Section 3306 - Definitions"
 usc_title: 26
 usc_section: "3306"
 chapter: 23
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 3306"
-generated_at: "2026-03-30T07:12:23.061Z"
+generated_at: "2026-03-30T07:15:39.081Z"
 status: "active"
 ---
 
@@ -34,9 +34,9 @@ status: "active"
     - **(C)** under a simplified employee pension (as defined in section 408(k)(1)), other than any contributions described in section 408(k)(6),
     - **(D)** under or to an annuity contract described in section 403(b), other than a payment for the purchase of such contract which is made by reason of a salary reduction agreement (whether evidenced by a written instrument or otherwise),
     - **(E)** under or to an exempt governmental deferred compensation plan (as defined in section 3121(v)(3)),
-    - **(F)** to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974; 1 1 So in original. The semicolon probably should be a comma.
+    - **(F)** to supplement pension benefits under a plan or trust described in any of the foregoing provisions of this paragraph to take into account some portion or all of the increase in the cost of living (as determined by the Secretary of Labor) since retirement but only if such supplemental payments are under a plan which is treated as a welfare plan under section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974,
     - **(G)** under a cafeteria plan (within the meaning of section 125) if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received, or
-    - **(H)** under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof, 2 2 So in original. The comma probably should be a semicolon.
+    - **(H)** under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof, 1 1 So in original. The comma probably should be a semicolon.
   - **(6)** the payment by an employer (without deduction from the remuneration of the employee)—
     - **(A)** of the tax imposed upon an employee under section 3101, or
     - **(B)** of any payment required from an employee under a State unemployment compensation law,
@@ -95,7 +95,7 @@ status: "active"
     - **(A)** service performed in connection with the catching or taking of salmon or halibut, for commercial purposes, and
     - **(B)** service performed on or in connection with a vessel of more than 10 net tons (determined in the manner provided for determining the register tonnage of merchant vessels under the laws of the United States);
   - **(18)** service described in section 3121(b)(20);
-  - **(19)** Service 3 3 So in original. Probably should not be capitalized. which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended ( 8 U.S.C. 1101(a)(15)(F) , (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
+  - **(19)** service which is performed by a nonresident alien individual for the period he is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act, as amended ( 8 U.S.C. 1101(a)(15)(F) , (J), (M), or (Q)), and which is performed to carry out the purpose specified in subparagraph (F), (J), (M), or (Q), as the case may be;
   - **(20)** service performed by a full time student (as defined in subsection (q)) in the employ of an organized camp—
     - **(A)** if such camp—
       - **(i)** did not operate for more than 7 months in the calendar year and did not operate for more than 7 months in the preceding calendar year, or
@@ -106,7 +106,7 @@ status: "active"
 - **(e)** For purposes of this chapter, the term “State agency” means any State officer, board, or other authority, designated under a State law to administer the unemployment fund in such State.
 - **(f)** For purposes of this chapter, the term “unemployment fund” means a special fund, established under a State law and administered by a State agency, for the payment of compensation. Any sums standing to the account of the State agency in the Unemployment Trust Fund established by section 904 of the Social Security Act, as amended ( 42 U.S.C. 1104 ), shall be deemed to be a part of the unemployment fund of the State, and no sums paid out of the Unemployment Trust Fund to such State agency shall cease to be a part of the unemployment fund of the State until expended by such State agency. An unemployment fund shall be deemed to be maintained during a taxable year only if throughout such year, or such portion of the year as the unemployment fund was in existence, no part of the moneys of such fund was expended for any purpose other than the payment of compensation (exclusive of expenses of administration) and for refunds of sums erroneously paid into such fund and refunds paid in accordance with the provisions of section 3305(b); except that—
   - **(1)** an amount equal to the amount of employee payments into the unemployment fund of a State may be used in the payment of cash benefits to individuals with respect to their disability, exclusive of expenses of administration;
-  - **(2)** the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices, 2
+  - **(2)** the amounts specified by section 903(c)(2) or 903(d)(4) of the Social Security Act may, subject to the conditions prescribed in such section, be used for expenses incurred by the State for administration of its unemployment compensation law and public employment offices, 1
   - **(3)** nothing in this subsection shall be construed to prohibit deducting any amount from unemployment compensation otherwise payable to an individual and using the amount so deducted to pay for health insurance, or the withholding of Federal, State, or local individual income tax, if the individual elected to have such deduction made and such deduction was made under a program approved by the Secretary of Labor;
   - **(4)** amounts may be deducted from unemployment benefits and used to repay overpayments as provided in section 303(g) of the Social Security Act;
   - **(5)** amounts may be withdrawn for the payment of short-time compensation under a short-time compensation program (as defined in subsection (v)); and
@@ -177,14 +177,14 @@ status: "active"
   - **(4)** the aggregate number of individuals receiving the allowance under the program does not at any time exceed 5 percent of the number of individuals receiving regular unemployment compensation under the State law at such time;
   - **(5)** the program does not result in any cost to the Unemployment Trust Fund (established by section 904(a) of the Social Security Act) in excess of the cost that would be incurred by such State and charged to such Fund if the State had not participated in such program; and
   - **(6)** the program meets such other requirements as the Secretary of Labor determines to be appropriate.
-- **(u)** For purposes of this chapter, the term “Indian tribe” has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 450b(e) ), 4 4 See References in Text note below. and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
-- **(v)** For purposes of this part, 5 5 So in original. This section is not contained in a part. the term “short-time compensation program” means a program under which—
+- **(u)** For purposes of this chapter, the term “Indian tribe” has the meaning given to such term by section 4(e) of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304(e) ), and includes any subdivision, subsidiary, or business enterprise wholly owned by such an Indian tribe.
+- **(v)** For purposes of this section, the term “short-time compensation program” means a program under which—
   - **(1)** the participation of an employer is voluntary;
   - **(2)** an employer reduces the number of hours worked by employees in lieu of layoffs;
   - **(3)** such employees whose workweeks have been reduced by at least 10 percent, and by not more than the percentage, if any, that is determined by the State to be appropriate (but in no case more than 60 percent), are not disqualified from unemployment compensation;
   - **(4)** the amount of unemployment compensation payable to any such employee is a pro rata portion of the unemployment compensation which would otherwise be payable to the employee if such employee were unemployed;
   - **(5)** such employees meet the availability for work and work search test requirements while collecting short-time compensation benefits, by being available for their workweek as required by the State agency;
-  - **(6)** eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) 4 to enhance job skills if such program has been approved by the State agency;
+  - **(6)** eligible employees may participate, as appropriate, in training (including employer-sponsored training or worker training funded under the Workforce Investment Act of 1998) 2 2 See References in Text note below. to enhance job skills if such program has been approved by the State agency;
   - **(7)** the State agency shall require employers to certify that if the employer provides health benefits and retirement benefits under a defined benefit plan (as defined in section 414(j)) or contributions under a defined contribution plan (as defined in section 414(i)) to any employee whose workweek is reduced under the program that such benefits will continue to be provided to employees participating in the short-time compensation program under the same terms and conditions as though the workweek of such employee had not been reduced or to the same extent as other employees not participating in the short-time compensation program;
   - **(8)** the State agency shall require an employer to submit a written plan describing the manner in which the requirements of this subsection will be implemented (including a plan for giving advance notice, where feasible, to an employee whose workweek is to be reduced) together with an estimate of the number of layoffs that would have occurred absent the ability to participate in short-time compensation and such other information as the Secretary of Labor determines is appropriate;
   - **(9)** the terms of the employer’s written plan and implementation shall be consistent with employer obligations under applicable Federal and State laws; and

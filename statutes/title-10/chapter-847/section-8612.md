@@ -3,9 +3,9 @@ title: "Section 8612 - Repealed. Pub. L. 90–235 , § 8(2), Jan. 2, 1968 , 81 S
 usc_title: 10
 usc_section: "8612"
 chapter: 847
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 8612"
-generated_at: "2026-03-30T07:11:06.665Z"
+generated_at: "2026-03-30T07:14:57.845Z"
 status: "repealed"
 ---
 

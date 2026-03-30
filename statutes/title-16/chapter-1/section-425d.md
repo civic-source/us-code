@@ -3,9 +3,9 @@ title: "Section 425d - Duties of commission"
 usc_title: 16
 usc_section: "425d"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 425d"
-generated_at: "2026-03-30T07:11:43.148Z"
+generated_at: "2026-03-30T07:15:20.920Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6302 - Mode or time of collection"
 usc_title: 26
 usc_section: "6302"
 chapter: 64
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6302"
-generated_at: "2026-03-30T07:12:23.105Z"
+generated_at: "2026-03-30T07:15:39.128Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(e)**
   - **(1)** Except as provided in paragraph (2), if, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.
   - **(2)**
-    - **(A)** In the case of a person required to make deposits of the tax imposed by sections 1 1 So in original. Probably should be “section”. 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+    - **(A)** In the case of a person required to make deposits of the tax imposed by section 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
     - **(B)** If September 29 falls on a Saturday or Sunday, the due date under subparagraph (A) shall be—
       - **(i)** in the case of Saturday, the preceding day, and
       - **(ii)** in the case of Sunday, the following day.

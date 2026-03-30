@@ -3,9 +3,9 @@ title: "Section 28 - Mining district regulations by miners: location, recordatio
 usc_title: 30
 usc_section: "28"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 28"
-generated_at: "2026-03-30T07:12:16.425Z"
+generated_at: "2026-03-30T07:15:31.376Z"
 status: "active"
 ---
 

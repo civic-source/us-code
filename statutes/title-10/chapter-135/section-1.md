@@ -1,15 +1,15 @@
 ---
-title: "Section 1 - Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments."
+title: "Section 1 - Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. 2 2 So in original. The period probably should not appear."
 usc_title: 10
 usc_section: "1"
 chapter: 135
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T07:11:06.608Z"
+generated_at: "2026-03-30T07:14:57.791Z"
 status: "active"
 ---
 
-# § 2279c. 1 1 Another section 2279c is set out preceding this section. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.
+# § 2279c. 1 1 Another section 2279c is set out preceding this section. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. 2 2 So in original. The period probably should not appear.
 
 - **(a)**
   - **(1)**

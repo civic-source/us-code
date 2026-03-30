@@ -3,9 +3,9 @@ title: "Section 3302 - Credits against tax"
 usc_title: 26
 usc_section: "3302"
 chapter: 23
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 3302"
-generated_at: "2026-03-30T07:12:23.060Z"
+generated_at: "2026-03-30T07:15:39.080Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
     - **(A)** no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a reduction in such State’s unemployment tax effort (as defined by the Secretary of Labor in regulations),
     - **(B)** no State action was taken during the 12-month period ending on September 30 of such taxable year (excluding any action required under State law as in effect prior to the date of the enactment of this subsection) which has resulted or will result in a net decrease in the solvency of the State unemployment compensation system (as defined by the Secretary of Labor in regulations),
     - **(C)** the State unemployment tax rate for the taxable year equals or exceeds the average benefit cost ratio for calendar years in the 5-calendar year period ending with the last calendar year before the taxable year, and
-    - **(D)** the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year (or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981 ).
+    - **(D)** the outstanding balance for such State of advances under title XII of the Social Security Act on September 30 of such taxable year was not greater than the outstanding balance for such State of such advances on September 30 of the third preceding taxable year.
   - **(3)** If the credit reduction under subsection (c)(2) is limited by reason of paragraph (1) of this subsection for any taxable year, for purposes of applying subsection (c)(2) to subsequent taxable years (including years after 1987), the taxable year for which the credit reduction was so limited (and January 1 thereof) shall not be taken into account.
   - **(4)** For purposes of this subsection, the State unemployment tax rate for any taxable year is the percentage obtained by dividing—
     - **(A)** the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by

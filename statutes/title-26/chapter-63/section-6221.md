@@ -3,15 +3,15 @@ title: "Section 6221 - Determination at partnership level"
 usc_title: 26
 usc_section: "6221"
 chapter: 63
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6221"
-generated_at: "2026-03-30T07:12:23.104Z"
+generated_at: "2026-03-30T07:15:39.127Z"
 status: "active"
 ---
 
 # § 6221. Determination at partnership level
 
-- **(a)** Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner’s distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or share shall be determined, at the partnership level pursuant to this subchapter.
+- **(a)** Any adjustment to a partnership-related item shall be determined, and any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item shall be determined, at the partnership level, except to the extent otherwise provided in this subchapter.
 - **(b)**
   - **(1)** This subchapter shall not apply with respect to any partnership for any taxable year if—
     - **(A)** the partnership elects the application of this subsection for such taxable year,

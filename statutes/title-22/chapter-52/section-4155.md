@@ -3,9 +3,9 @@ title: "Section 4155 - Conversion of certain positions in Department of Agricult
 usc_title: 22
 usc_section: "4155"
 chapter: 52
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 4155"
-generated_at: "2026-03-30T07:12:12.281Z"
+generated_at: "2026-03-30T07:15:29.046Z"
 status: "active"
 ---
 

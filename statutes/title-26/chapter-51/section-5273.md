@@ -3,9 +3,9 @@ title: "Section 5273 - Sale, use, and recovery of denatured distilled spirits"
 usc_title: 26
 usc_section: "5273"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 5273"
-generated_at: "2026-03-30T07:12:23.085Z"
+generated_at: "2026-03-30T07:15:39.106Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
 - **(d)** No person shall withdraw or sell denatured distilled spirits, or sell any article containing denatured distilled spirits for beverage purposes.
 - **(e)**
   - **(1)** For penalty and forfeiture for unlawful use or concealment of denatured distilled spirits, see section 5607.
-  - **(2)** For applicability of all provisions of law relating to distilled spirits that are not denatured, including those requiring payment of tax, to denatured distilled spirits or articles produced, withdrawn, sold, transported, or used in violation of law or regulations, see section 5001(a)(6). 1 1 See References in Text note below.
+  - **(2)** For applicability of all provisions of law relating to distilled spirits that are not denatured, including those requiring payment of tax, to denatured distilled spirits or articles produced, withdrawn, sold, transported, or used in violation of law or regulations, see section 5001(a)(5).
   - **(3)** For definition of “articles”, see section 5002(a)(14).

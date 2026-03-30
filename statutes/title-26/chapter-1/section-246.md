@@ -3,9 +3,9 @@ title: "Section 246 - Rules applying to deductions for dividends received"
 usc_title: 26
 usc_section: "246"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 246"
-generated_at: "2026-03-30T07:12:22.950Z"
+generated_at: "2026-03-30T07:15:38.968Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
         - **(I)** any dividends received by the FHLB from the FHLMC during such taxable year, and
         - **(II)** the total earnings and profits (determined without regard to dividends described in subclause (I)) of the FHLB as reported in its annual financial statement prepared in accordance with section 20 of the Federal Home Loan Bank Act ( 12 U.S.C. 1440 ).
 - **(b)**
-  - **(1)** Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 2 199A, 243(a)(1), subsection (a) and (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 243(a)(1), subsection (a) and (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
+  - **(1)** Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 243(a)(1), subsection 2 2 So in original. (a) and 2 (b) of section 245, and section 250 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199A, 243(a)(1), subsection 2 (a) and 2 (b) of section 245, and 250, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
   - **(2)** Paragraph (1) shall not apply for any taxable year for which there is a net operating loss (as determined under section 172).
   - **(3)** The provisions of paragraph (1) shall be applied—
     - **(A)** first separately with respect to dividends from 20-percent owned corporations (as defined in section 243(c)(2)) and the percentage determined under this paragraph shall be 65 percent, and
@@ -60,4 +60,3 @@ status: "active"
       - **(i)** the specified 10-percent owned foreign corporation referred to in section 245A(a) is a specified 10-percent owned foreign corporation at all times during such period, and
       - **(ii)** the taxpayer is a United States shareholder with respect to such specified 10-percent owned foreign corporation at all times during such period.
 - **(d)** No deduction shall be allowed under section 243 in respect of a dividend from a corporation which is a DISC or former DISC (as defined in section 992(a)) to the extent such dividend is paid out of the corporation’s accumulated DISC income or previously taxed income, or is a deemed distribution pursuant to section 995(b)(1).
-- **(e)** No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4).

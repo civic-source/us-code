@@ -3,9 +3,9 @@ title: "Section 575 - Repealed. Pub. L. 105–362, title IX , § 901(i)(1), Nov.
 usc_title: 30
 usc_section: "575"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 575"
-generated_at: "2026-03-30T07:12:16.435Z"
+generated_at: "2026-03-30T07:15:31.386Z"
 status: "repealed"
 ---
 

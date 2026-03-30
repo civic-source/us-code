@@ -3,9 +3,9 @@ title: "Section 2540 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "2540"
 chapter: 148
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2540"
-generated_at: "2026-03-30T07:11:06.629Z"
+generated_at: "2026-03-30T07:14:57.810Z"
 status: "active"
 ---
 

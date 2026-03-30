@@ -3,9 +3,9 @@ title: "Section 9227 - Travel recommendations for United States citizens to Nort
 usc_title: 22
 usc_section: "9227"
 chapter: 99
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 9227"
-generated_at: "2026-03-30T07:12:12.330Z"
+generated_at: "2026-03-30T07:15:29.094Z"
 status: "active"
 ---
 

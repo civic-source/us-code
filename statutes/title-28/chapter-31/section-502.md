@@ -3,9 +3,9 @@ title: "Section 502 - Seal"
 usc_title: 28
 usc_section: "502"
 chapter: 31
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "28 U.S.C. § 502"
-generated_at: "2026-03-30T07:12:15.238Z"
+generated_at: "2026-03-30T07:15:33.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9859e - Use of funds"
 usc_title: 42
 usc_section: "9859e"
 chapter: 105
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 9859e"
-generated_at: "2026-03-30T07:13:46.094Z"
+generated_at: "2026-03-30T07:16:11.506Z"
 status: "active"
 ---
 

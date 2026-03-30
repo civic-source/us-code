@@ -3,9 +3,9 @@ title: "Section 5320 - Historic preservation requirements"
 usc_title: 42
 usc_section: "5320"
 chapter: 69
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 5320"
-generated_at: "2026-03-30T07:13:45.974Z"
+generated_at: "2026-03-30T07:16:11.313Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3154 - Repealed. Pub. L. 110–234, title VII , § 7110(a), May 
 usc_title: 7
 usc_section: "3154"
 chapter: 64
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 3154"
-generated_at: "2026-03-30T07:11:01.965Z"
+generated_at: "2026-03-30T07:15:04.481Z"
 status: "repealed"
 ---
 

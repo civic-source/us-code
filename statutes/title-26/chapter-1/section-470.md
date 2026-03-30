@@ -3,9 +3,9 @@ title: "Section 470 - Limitation on deductions allocable to property used by gov
 usc_title: 26
 usc_section: "470"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 470"
-generated_at: "2026-03-30T07:12:22.988Z"
+generated_at: "2026-03-30T07:15:39.008Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
         - **(I)** has at the time the lease is entered into an unconditional at-risk equity investment (as determined by the Secretary) in the property of at least 20 percent of the lessor’s adjusted basis in the property as of that time, and
         - **(II)** maintains such investment throughout the term of the lease, and
       - **(ii)** the fair market value of the property at the end of the lease term is reasonably expected to be equal to at least 20 percent of such basis.
-    - **(B)** For purposes of clause (ii), 1 1 So in original. Probably should be “subparagraph (A)(ii)”. the fair market value at the end of the lease term shall be reduced to the extent that a person other than the lessor bears a risk of loss in the value of the property.
+    - **(B)** For purposes of subparagraph (A)(ii), the fair market value at the end of the lease term shall be reduced to the extent that a person other than the lessor bears a risk of loss in the value of the property.
     - **(C)** This paragraph shall not apply to any lease with a lease term of 5 years or less.
   - **(3)**
     - **(A)** A lease of property meets the requirements of this paragraph if there is no arrangement under which the lessee bears—

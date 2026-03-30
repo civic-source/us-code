@@ -3,9 +3,9 @@ title: "Section 7931 - Sense of Congress on early learning and child care"
 usc_title: 20
 usc_section: "7931"
 chapter: 70
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 7931"
-generated_at: "2026-03-30T07:11:45.098Z"
+generated_at: "2026-03-30T07:15:17.755Z"
 status: "active"
 ---
 

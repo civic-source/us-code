@@ -3,9 +3,9 @@ title: "Section 2544 - Modernization and consolidation of tritium recycling faci
 usc_title: 50
 usc_section: "2544"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 2544"
-generated_at: "2026-03-30T07:13:58.438Z"
+generated_at: "2026-03-30T07:16:18.955Z"
 status: "active"
 ---
 

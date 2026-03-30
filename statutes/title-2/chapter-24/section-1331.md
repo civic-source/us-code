@@ -3,9 +3,9 @@ title: "Section 1331 - Rights and protections under Americans with Disabilities 
 usc_title: 2
 usc_section: "1331"
 chapter: 24
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 1331"
-generated_at: "2026-03-30T07:10:50.391Z"
+generated_at: "2026-03-30T07:14:20.273Z"
 status: "active"
 ---
 
@@ -20,8 +20,9 @@ status: "active"
   - **(6)** the Congressional Budget Office;
   - **(7)** the Office of the Architect of the Capitol (including the Botanic Garden);
   - **(8)** the Office of the Attending Physician;
-  - **(9)** the Office of Compliance; and
-  - **(10)** the Office of Technology Assessment.
+  - **(9)** the Office of Compliance;
+  - **(10)** the Office of Technology Assessment; and
+  - **(11)** the Library of Congress.
 - **(b)**
   - **(1)** The rights and protections against discrimination in the provision of public services and accommodations established by sections 201 through 230, 302, 303, and 309 of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12131–121 50, 12182, 12183, and 12189) shall apply to the entities listed in subsection (a).
   - **(2)** For purposes of the application of title II of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12131 et seq.) under this section, the term “public entity” means any entity listed in subsection (a) that provides public services, programs, or activities.

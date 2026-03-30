@@ -3,9 +3,9 @@ title: "Section 44 - Sturgeon Bay, Illinois"
 usc_title: 33
 usc_section: "44"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "33 U.S.C. § 44"
-generated_at: "2026-03-30T07:12:38.295Z"
+generated_at: "2026-03-30T07:15:42.934Z"
 status: "active"
 ---
 

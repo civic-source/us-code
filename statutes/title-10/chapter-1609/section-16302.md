@@ -3,9 +3,9 @@ title: "Section 16302 - Education loan repayment program: health professions off
 usc_title: 10
 usc_section: "16302"
 chapter: 1609
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 16302"
-generated_at: "2026-03-30T07:11:06.682Z"
+generated_at: "2026-03-30T07:14:57.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Compensation schedule for survivors"
 usc_title: 42
 usc_section: "3"
 chapter: 84
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T07:13:46.023Z"
+generated_at: "2026-03-30T07:16:11.395Z"
 status: "active"
 ---
 

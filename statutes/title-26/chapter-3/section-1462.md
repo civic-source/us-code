@@ -3,9 +3,9 @@ title: "Section 1462 - Withheld tax as credit to recipient of income"
 usc_title: 26
 usc_section: "1462"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1462"
-generated_at: "2026-03-30T07:12:23.048Z"
+generated_at: "2026-03-30T07:15:39.067Z"
 status: "active"
 ---
 

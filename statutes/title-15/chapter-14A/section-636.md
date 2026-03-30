@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T07:11:26.935Z"
+generated_at: "2026-03-30T07:15:11.816Z"
 status: "active"
 ---
 
@@ -750,8 +750,8 @@ status: "active"
       - **(iii)** The contribution requirements in subparagraph (B) do not apply to grants made under this subparagraph.
     - **(D)** The eligibility for a grant described in subparagraph (A), 5 or (C) shall be determined separately for each loan-making site or office of 1 intermediary.
     - **(E)**
-      - **(i)** Each intermediary may expend an amount not to exceed 25 percent of the grant funds received under paragraph (1)(B)(ii) to provide information and technical assistance to small business concerns that are prospective borrowers under this subsection.
-      - **(ii)** An intermediary may expend not more than 25 percent of the funds received under paragraph (1)(B)(ii) to enter into third party contracts for the provision of technical assistance.
+      - **(i)** Each intermediary may expend an amount not to exceed 50 percent of the grant funds received under paragraph (1)(B)(ii) to provide information and technical assistance to small business concerns that are prospective borrowers under this subsection.
+      - **(ii)** An intermediary may expend not more than 50 percent of the funds received under paragraph (1)(B)(ii) to enter into third party contracts for the provision of technical assistance.
     - **(F)**
       - **(i)** The Administration may accept any funds transferred to the Administration from other departments or agencies of the Federal Government to make grants in accordance with this subparagraph and section 202(b) of the Small Business Reauthorization Act of 1997 to participating intermediaries and technical assistance providers under paragraph (5), for use in accordance with clause (iii) to provide additional technical assistance and related services to recipients of assistance under a State program described in paragraph (1)(A)(iv) at the time they initially apply for assistance under this subparagraph.
       - **(ii)** In making grants under this subparagraph, the Administration may select, from among participating intermediaries and technical assistance providers described in clause (i), not more than 20 grantees in fiscal year 1998, not more than 25 grantees in fiscal year 1999, and not more than 30 grantees in fiscal year 2000, each of whom may receive a grant under this subparagraph in an amount not to exceed $200,000 per year.

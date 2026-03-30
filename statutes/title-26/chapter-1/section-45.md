@@ -3,9 +3,9 @@ title: "Section 45 - Electricity produced from certain renewable resources, etc.
 usc_title: 26
 usc_section: "45"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 45"
-generated_at: "2026-03-30T07:12:22.913Z"
+generated_at: "2026-03-30T07:15:38.927Z"
 status: "active"
 ---
 
@@ -66,13 +66,13 @@ status: "active"
   - **(5)** The term “small irrigation power” means power—
     - **(A)** generated without any dam or impoundment of water through an irrigation system canal or ditch, and
     - **(B)** the nameplate capacity rating of which is not less than 150 kilowatts but is less than 5 megawatts.
-  - **(6)** The term “municipal solid waste” has the meaning given the term “solid waste” under section 2(27) 1 1 See References in Text note below. of the Solid Waste Disposal Act ( 42 U.S.C. 6903 ), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
+  - **(6)** The term “municipal solid waste” has the meaning given the term “solid waste” under section 1004(27) of the Solid Waste Disposal Act ( 42 U.S.C. 6903 ), except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined).
   - **(7)**
     - **(A)** The term “refined coal” means a fuel—
       - **(i)** which—
         - **(I)** is a liquid, gaseous, or solid fuel produced from coal (including lignite) or high carbon fly ash, including such fuel used as a feedstock,
-        - **(II)** is sold by the taxpayer with the reasonable expectation that it will be used for purpose 2 2 So in original. Probably should be preceded by “the”. of producing steam, and
-        - **(III)** is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction. 3 3 So in original. The period probably should be “, or”.
+        - **(II)** is sold by the taxpayer with the reasonable expectation that it will be used for the purpose of producing steam, and
+        - **(III)** is certified by the taxpayer as resulting (when used in the production of steam) in a qualified emission reduction, or
       - **(ii)** which is steel industry fuel.
     - **(B)** The term “qualified emission reduction” means a reduction of at least 20 percent of the emissions of nitrogen oxide and at least 40 percent of the emissions of either sulfur dioxide or mercury released when burning the refined coal (excluding any dilution caused by materials combined or added during the production process), as compared to the emissions released when burning the feedstock coal or comparable coal predominantly available in the marketplace as of January 1, 2003 .
     - **(C)**
@@ -187,7 +187,7 @@ status: "active"
   - **(9)**
     - **(A)** The term “qualified facility” shall not include any facility which produces electricity from gas derived from the biodegradation of municipal solid waste if such biodegradation occurred in a facility (within the meaning of section 45K) the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year.
     - **(B)**
-      - **(i)** The term “refined coal production facility” shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29, 1 as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+      - **(i)** The term “refined coal production facility” shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29, 1 1 See References in Text note below. as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
       - **(ii)** In the case of a facility producing steel industry fuel, clause (i) shall not apply to so much of the refined coal produced at such facility as is steel industry fuel.
   - **(10)**
     - **(A)** In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—

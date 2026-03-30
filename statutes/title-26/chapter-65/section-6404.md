@@ -3,9 +3,9 @@ title: "Section 6404 - Abatements"
 usc_title: 26
 usc_section: "6404"
 chapter: 65
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6404"
-generated_at: "2026-03-30T07:12:23.108Z"
+generated_at: "2026-03-30T07:15:39.133Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
     - **(B)** any interest, penalty, addition to tax, or additional amount in a case involving fraud;
     - **(C)** any interest, penalty, addition to tax, or additional amount with respect to any tax liability shown on the return;
     - **(D)** any interest, penalty, addition to tax, or additional amount with respect to any gross misstatement;
-    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(2)(A) 1 1 See References in Text note below. is not met and any listed transaction (as defined in 6707A(c)); or
+    - **(E)** any interest, penalty, addition to tax, or additional amount with respect to any reportable transaction with respect to which the requirement of section 6664(d)(3)(A) is not met and any listed transaction (as defined in 6707A(c)); or
     - **(F)** any criminal penalty.
   - **(3)** For purposes of this subsection, the term “suspension period” means the period—
     - **(A)** beginning on the day after the close of the 36-month period under paragraph (1); and

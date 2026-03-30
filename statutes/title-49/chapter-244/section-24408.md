@@ -3,9 +3,9 @@ title: "Section 24408 - Restoration and enhancement grants"
 usc_title: 49
 usc_section: "24408"
 chapter: 244
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 24408"
-generated_at: "2026-03-30T07:14:01.734Z"
+generated_at: "2026-03-30T07:16:21.526Z"
 status: "active"
 ---
 

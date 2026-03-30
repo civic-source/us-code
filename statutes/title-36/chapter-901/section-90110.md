@@ -3,9 +3,9 @@ title: "Section 90110 - Immunity of United States Government"
 usc_title: 36
 usc_section: "90110"
 chapter: 901
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "36 U.S.C. § 90110"
-generated_at: "2026-03-30T07:12:40.638Z"
+generated_at: "2026-03-30T07:15:49.380Z"
 status: "active"
 ---
 

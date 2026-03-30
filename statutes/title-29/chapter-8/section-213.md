@@ -3,9 +3,9 @@ title: "Section 213 - Exemptions"
 usc_title: 29
 usc_section: "213"
 chapter: 8
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 213"
-generated_at: "2026-03-30T07:12:16.091Z"
+generated_at: "2026-03-30T07:15:34.189Z"
 status: "active"
 ---
 
@@ -32,7 +32,8 @@ status: "active"
     - **(B)** the design, development, documentation, analysis, creation, testing, or modification of computer systems or programs, including prototypes, based on and related to user or system design specifications;
     - **(C)** the design, documentation, testing, creation, or modification of computer programs related to machine operating systems; or
     - **(D)** a combination of duties described in subparagraphs (A), (B), and (C) the performance of which requires the same level of skills, and
-  - **(18)** any employee who is a border patrol agent, as defined in section 5550(a) of title 5 .
+  - **(18)** any employee who is a border patrol agent, as defined in section 5550(a) of title 5 ; or
+  - **(19)** any employee employed to play baseball who is compensated pursuant to a contract that provides for a weekly salary for services performed during the league’s championship season (but not spring training or the off season) at a rate that is not less than a weekly salary equal to the minimum wage under section 206(a) of this title for a workweek of 40 hours, irrespective of the number of hours the employee devotes to baseball related activities.
 - **(b)** The provisions of section 207 of this title shall not apply with respect to—
   - **(1)** any employee with respect to whom the Secretary of Transportation has power to establish qualifications and maximum hours of service pursuant to the provisions of section 31502 of title 49 ; or
   - **(2)** any employee of an employer engaged in the operation of a rail carrier subject to part A of subtitle IV of title 49; or

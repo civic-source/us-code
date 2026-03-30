@@ -3,9 +3,9 @@ title: "Section 11293 - Duties and functions of the Administrator"
 usc_title: 34
 usc_section: "11293"
 chapter: 111
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "34 U.S.C. § 11293"
-generated_at: "2026-03-30T07:12:25.792Z"
+generated_at: "2026-03-30T07:15:41.778Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
       - **(iii)** the number of children nationwide who are reported to NCMEC as victims of parental kidnappings; and
       - **(iv)** the number of children recovered nationwide whose recovery was reported to NCMEC;
     - **(G)** provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;
-    - **(H)** provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+    - **(H)** provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children, including cases involving children with developmental disabilities such as autism;
     - **(I)** provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;
     - **(J)** provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;
     - **(K)** provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;

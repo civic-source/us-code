@@ -3,9 +3,9 @@ title: "Section 250 - Foreign-derived intangible income and global intangible lo
 usc_title: 26
 usc_section: "250"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 250"
-generated_at: "2026-03-30T07:12:22.951Z"
+generated_at: "2026-03-30T07:15:38.968Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)**
     - **(A)** If, for any taxable year—
       - **(i)** the sum of the foreign-derived intangible income and the global intangible low-taxed income amount otherwise taken into account by the domestic corporation under paragraph (1), exceeds
-      - **(ii)** the taxable income of the domestic corporation (determined without regard to this section),then the amount of the foreign-derived intangible income and the global intangible low-taxed income amount so taken into account shall be reduced as provided in subparagraph (B).
+      - **(ii)** the taxable income of the domestic corporation (determined without regard to this section),
     - **(B)** For purposes of subparagraph (A)—
       - **(i)** foreign-derived intangible income shall be reduced by an amount which bears the same ratio to the excess described in subparagraph (A) as such foreign-derived intangible income bears to the sum described in subparagraph (A)(i), and
       - **(ii)** the global intangible low-taxed income amount shall be reduced by the remainder of such excess.

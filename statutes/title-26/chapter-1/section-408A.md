@@ -3,9 +3,9 @@ title: "Section 408A - Roth IRAs"
 usc_title: 26
 usc_section: "408A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 408A"
-generated_at: "2026-03-30T07:12:22.967Z"
+generated_at: "2026-03-30T07:15:38.986Z"
 status: "active"
 ---
 
@@ -57,7 +57,7 @@ status: "active"
       - **(i)** there shall be included in gross income any amount which would be includible were it not part of a qualified rollover contribution,
       - **(ii)** section 72(t) shall not apply, and
       - **(iii)** unless the taxpayer elects not to have this clause apply, any amount required to be included in gross income for any taxable year beginning in 2010 by reason of this paragraph shall be so included ratably over the 2-taxable-year period beginning with the first taxable year beginning in 2011.
-    - **(B)** This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A) 1 1 So in original. Probably should be followed by a period.
+    - **(B)** This paragraph shall apply to a distribution from an eligible retirement plan (as defined by section 402(c)(8)(B)) maintained for the benefit of an individual which is contributed to a Roth IRA maintained for the benefit of such individual in a qualified rollover contribution. This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).
     - **(C)** The conversion of an individual retirement plan (other than a Roth IRA) to a Roth IRA shall be treated for purposes of this paragraph as a distribution to which this paragraph applies.
     - **(D)** Trustees of Roth IRAs, trustees of individual retirement plans, persons subject to section 6047(d)(1), or all of the foregoing persons, whichever is appropriate, shall include such additional information in reports required under section 408(i) or 6047 as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
     - **(E)** In the case of a qualified rollover contribution to a Roth IRA of a distribution to which subparagraph (A)(iii) applied, the following rules shall apply:
@@ -97,7 +97,7 @@ status: "active"
     - **(A)** The term “qualified rollover contribution” includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10 , United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
       - **(i)** the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by
       - **(ii)** the amounts so received which were contributed to a Coverdell education savings account under section 530(d)(9).
-    - **(B)** Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by the 2 2 So in original. The word “the” probably should not appear. subparagraph (A).
+    - **(B)** Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
     - **(C)** For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
 - **(f)** For purposes of this section—
   - **(1)** a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and

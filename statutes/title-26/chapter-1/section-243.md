@@ -3,9 +3,9 @@ title: "Section 243 - Dividends received by corporations"
 usc_title: 26
 usc_section: "243"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 243"
-generated_at: "2026-03-30T07:12:22.950Z"
+generated_at: "2026-03-30T07:15:38.967Z"
 status: "active"
 ---
 
@@ -18,11 +18,9 @@ status: "active"
 - **(b)**
   - **(1)** For purposes of this section, the term “qualifying dividend” means any dividend received by a corporation—
     - **(A)** if at the close of the day on which such dividend is received, such corporation is a member of the same affiliated group as the corporation distributing such dividend, and
-    - **(B)** if—
-      - **(i)** such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963 , for which an election under section 1562 was not in effect, and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group, or
-      - **(ii)** such dividend is paid by a corporation with respect to which an election under section 936 is in effect for the taxable year in which such dividend is paid.
+    - **(B)** if such dividend is distributed out of the earnings and profits of a taxable year of the distributing corporation which ends after December 31, 1963 , and on each day of which the distributing corporation and the corporation receiving the dividend were members of such affiliated group.
   - **(2)** For purposes of this subsection:
-    - **(A)** The term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2), 1504(b)(4), and 1504(c) shall not apply.
+    - **(A)** The term “affiliated group” has the meaning given such term by section 1504(a), except that for such purposes sections 1504(b)(2) and 1504(c) shall not apply.
     - **(B)** The requirements of paragraph (1)(A) shall not be treated as being met with respect to any dividend received by a corporation if, for any taxable year which includes the day on which such dividend is received—
       - **(i)** 1 or more members of the affiliated group referred to in paragraph (1)(A) choose to any extent to take the benefits of section 901, and
       - **(ii)** 1 or more other members of such group claim to any extent a deduction for taxes otherwise creditable under section 901.

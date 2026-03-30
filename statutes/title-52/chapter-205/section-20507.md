@@ -3,9 +3,9 @@ title: "Section 20507 - Requirements with respect to administration of voter reg
 usc_title: 52
 usc_section: "20507"
 chapter: 205
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "52 U.S.C. § 20507"
-generated_at: "2026-03-30T07:14:08.644Z"
+generated_at: "2026-03-30T07:16:23.775Z"
 status: "active"
 ---
 

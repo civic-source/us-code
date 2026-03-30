@@ -3,9 +3,9 @@ title: "Section 832 - Insurance company taxable income"
 usc_title: 26
 usc_section: "832"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 832"
-generated_at: "2026-03-30T07:12:23.006Z"
+generated_at: "2026-03-30T07:15:39.027Z"
 status: "active"
 ---
 
@@ -71,7 +71,7 @@ status: "active"
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by treating unearned premiums as including an amount equal to such expenses, and
       - **(ii)** appropriate adjustments shall be made under subparagraph (c) of paragraph (4) to reflect the amount by which—
         - **(I)** such reserves at the close of the most recent taxable year beginning before January 1, 1987 , are greater or less than,
-        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses, 2 2 So in original. The comma probably should be a period.
+        - **(II)** 80 percent of the sum of the amount under subclause (I) plus such premium acquisition expenses.
   - **(8)**
     - **(A)** In the case of premiums attributable to title insurance—
       - **(i)** subparagraph (B) of paragraph (4) shall be applied by substituting “the discounted unearned premiums” for “80 percent of the unearned premiums” each place it appears, and

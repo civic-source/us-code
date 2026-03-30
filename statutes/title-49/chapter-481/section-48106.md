@@ -3,9 +3,9 @@ title: "Section 48106 - Airway science curriculum grants"
 usc_title: 49
 usc_section: "48106"
 chapter: 481
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 48106"
-generated_at: "2026-03-30T07:14:01.781Z"
+generated_at: "2026-03-30T07:16:21.596Z"
 status: "active"
 ---
 

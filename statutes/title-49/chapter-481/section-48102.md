@@ -3,9 +3,9 @@ title: "Section 48102 - Research and development"
 usc_title: 49
 usc_section: "48102"
 chapter: 481
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 48102"
-generated_at: "2026-03-30T07:14:01.781Z"
+generated_at: "2026-03-30T07:16:21.595Z"
 status: "active"
 ---
 
@@ -70,7 +70,7 @@ status: "active"
   - **(7)** $170,000,000 for fiscal year 2011;
   - **(8)** $168,000,000 for each of fiscal years 2012 through 2015;
   - **(9)** $166,000,000 for each of fiscal years 2016 and 2017; and
-  - **(10)** $88,008,219 for the period beginning on October 1, 2017 and ending on March 31, 2018 .
+  - **(10)** $176,500,000 for fiscal year 2018.
 - **(b)**
   - **(1)** The Administrator shall consider the advice and recommendations of the research advisory committee established by section 44508 of this title in establishing priorities among major categories of research and development activities carried out by the Federal Aviation Administration.
   - **(2)** At least 15 percent of the amount appropriated under subsection (a) of this section shall be for long-term research projects.

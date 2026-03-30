@@ -3,9 +3,9 @@ title: "Section 1 - Proclamation to disperse"
 usc_title: 10
 usc_section: "1"
 chapter: 13
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1"
-generated_at: "2026-03-30T07:11:06.545Z"
+generated_at: "2026-03-30T07:14:57.726Z"
 status: "active"
 ---
 

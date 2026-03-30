@@ -3,9 +3,9 @@ title: "Section 6422 - Cross references"
 usc_title: 26
 usc_section: "6422"
 chapter: 65
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6422"
-generated_at: "2026-03-30T07:12:23.110Z"
+generated_at: "2026-03-30T07:15:39.134Z"
 status: "active"
 ---
 
@@ -17,8 +17,7 @@ status: "active"
   - **(4)** For refund, credit, or abatement of amounts disallowed by courts upon review of Tax Court decision, see section 7486.
   - **(5)** For refund or redemption of stamps, see chapter 69.
   - **(6)** For abatement, credit, or refund in case of jeopardy assessments, see chapter 70.
-  - **(7)** For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742). 1 1 See References in Text note below.
-  - **(8)** For restrictions on transfers and assignments of claims against the United States, see section 3727 of title 31 , United States Code.
-  - **(9)** For set-off of claims against amounts due the United States, see section 3728 of title 31 , United States Code.
-  - **(10)** For special provisions relating to alcohol and tobacco taxes, see subtitle E.
-  - **(11)** for 2 2 So in original. Probably should be capitalized. credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
+  - **(7)** For restrictions on transfers and assignments of claims against the United States, see section 3727 of title 31 , United States Code.
+  - **(8)** For set-off of claims against amounts due the United States, see section 3728 of title 31 , United States Code.
+  - **(9)** For special provisions relating to alcohol and tobacco taxes, see subtitle E.
+  - **(10)** For credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.

@@ -3,9 +3,9 @@ title: "Section 1433 - Exemption from taxation; obligations acceptable as credit
 usc_title: 12
 usc_section: "1433"
 chapter: 11
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "12 U.S.C. § 1433"
-generated_at: "2026-03-30T07:11:36.618Z"
+generated_at: "2026-03-30T07:15:09.745Z"
 status: "active"
 ---
 

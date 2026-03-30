@@ -3,9 +3,9 @@ title: "Section 1250 - Gain from dispositions of certain depreciable realty"
 usc_title: 26
 usc_section: "1250"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1250"
-generated_at: "2026-03-30T07:12:23.033Z"
+generated_at: "2026-03-30T07:15:39.055Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
 - **(d)**
   - **(1)** Subsection (a) shall not apply to a disposition by gift.
   - **(2)** Except as provided in section 691 (relating to income in respect of a decedent), subsection (a) shall not apply to a transfer at death.
-  - **(3)** If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+  - **(3)** If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (6), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
   - **(4)**
     - **(A)** If property is disposed of and gain (determined without regard to this section) is not recognized in whole or in part under section 1031 or 1033, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the greater of the following:
       - **(i)** the amount of gain recognized on the disposition (determined without regard to this section), increased as provided in subparagraph (B), or

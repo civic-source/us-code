@@ -3,9 +3,9 @@ title: "Section 12223 - Applications"
 usc_title: 34
 usc_section: "12223"
 chapter: 121
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "34 U.S.C. § 12223"
-generated_at: "2026-03-30T07:12:25.795Z"
+generated_at: "2026-03-30T07:15:41.781Z"
 status: "active"
 ---
 

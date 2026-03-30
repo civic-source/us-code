@@ -3,9 +3,9 @@ title: "Section 1538 - Annual statements to Congress on agency compliance"
 usc_title: 2
 usc_section: "1538"
 chapter: 25
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 1538"
-generated_at: "2026-03-30T07:10:50.394Z"
+generated_at: "2026-03-30T07:14:20.276Z"
 status: "active"
 ---
 

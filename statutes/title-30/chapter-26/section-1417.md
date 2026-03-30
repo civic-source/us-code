@@ -3,9 +3,9 @@ title: "Section 1417 - Duration of licenses and permits"
 usc_title: 30
 usc_section: "1417"
 chapter: 26
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 1417"
-generated_at: "2026-03-30T07:12:16.454Z"
+generated_at: "2026-03-30T07:15:31.408Z"
 status: "active"
 ---
 

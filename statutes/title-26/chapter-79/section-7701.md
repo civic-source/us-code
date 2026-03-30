@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T07:12:23.129Z"
+generated_at: "2026-03-30T07:15:39.155Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(17)** As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
   - **(18)** The term “international organization” means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act ( 22 U.S.C. 288–288f ).
   - **(19)** The term “domestic building and loan association” means a domestic building and loan association, a domestic savings and loan association, and a Federal savings and loan association—
-    - **(A)** which either (i) is an insured institution within the meaning of section 401(a) 2 2 See References in Text note below. of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii) is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
+    - **(A)** which is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
     - **(B)** the business of which consists principally of acquiring the savings of the public and investing in loans; and
     - **(C)** at least 60 percent of the amount of the total assets of which (at the close of the taxable year) consists of—
       - **(i)** cash,
@@ -73,9 +73,7 @@ status: "active"
     - **(A)** The term “foreign estate” means an estate the income of which, from sources without the United States which is not effectively connected with the conduct of a trade or business within the United States, is not includible in gross income under subtitle A.
     - **(B)** The term “foreign trust” means any trust other than a trust described in subparagraph (E) of paragraph (30).
   - **(32)** The term “cooperative bank” means an institution without capital stock organized and operated for mutual purposes and without profit, which—
-    - **(A)** either—
-      - **(i)** is an insured institution within the meaning of section 401(a) 2 of the National Housing Act (12 U.S.C., sec. 1724(a)), or
-      - **(ii)** is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
+    - **(A)** is subject by law to supervision and examination by State or Federal authority having supervision over such institutions, and
     - **(B)** meets the requirements of subparagraphs (B) and (C) of paragraph (19) of this subsection (relating to definition of domestic building and loan association).
   - **(33)** The term “regulated public utility” means—
     - **(A)** A corporation engaged in the furnishing or sale of—
@@ -93,7 +91,7 @@ status: "active"
   - **(35)** The term “enrolled actuary” means a person who is enrolled by the Joint Board for the Enrollment of Actuaries established under subtitle C of the title III of the Employee Retirement Income Security Act of 1974.
   - **(36)**
     - **(A)** The term “tax return preparer” means any person who prepares for compensation, or who employs one or more persons to prepare for compensation, any return of tax imposed by this title or any claim for refund of tax imposed by this title. For purposes of the preceding sentence, the preparation of a substantial portion of a return or claim for refund shall be treated as if it were the preparation of such return or claim for refund.
-    - **(B)** A person shall not be an 3 3 So in original. Probably should be “a”. “tax return preparer” merely because such person—
+    - **(B)** A person shall not be a “tax return preparer” merely because such person—
       - **(i)** furnishes typing, reproducing, or other mechanical assistance,
       - **(ii)** prepares a return or claim for refund of the employer (or of an officer or employee of the employer) by whom he is regularly and continuously employed,
       - **(iii)** prepares as a fiduciary a return or claim for refund for any person, or
@@ -184,7 +182,7 @@ status: "active"
       - **(iii)** a student, or
       - **(iv)** a professional athlete who is temporarily in the United States to compete in a sports event—
         - **(I)** which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
-        - **(II)** all of the net proceeds of which are contributed to such organization, and, 4 4 So in original. The comma probably should not appear.
+        - **(II)** all of the net proceeds of which are contributed to such organization, and, 2 2 So in original. The comma probably should not appear.
         - **(III)** which utilizes volunteers for substantially all of the work performed in carrying out such event.
     - **(B)** The term “foreign government-related individual” means any individual temporarily present in the United States by reason of—
       - **(i)** diplomatic status, or a visa which the Secretary (after consultation with the Secretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,
@@ -255,7 +253,7 @@ status: "active"
       - **(ii)** For purposes of clause (iii) of subparagraph (A), there shall not be taken into account any significant financial benefit merely because payments by the service recipient under the contract or arrangement are decreased by reason of increased production or efficiency or the recovery of energy or other products.
   - **(5)** This subsection shall not apply to any property described in clause (i), (ii), (iii), or (iv) of section 1250(a)(1)(B) (relating to low-income housing) if—
     - **(A)** such property is operated by or for an organization described in paragraph (3) or (4) of section 501(c), and
-    - **(B)** at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconcilation 5 5 So in original. Probably should be “Reconciliation”. Act of 1990).
+    - **(B)** at least 80 percent of the units in such property are leased to low-income tenants (within the meaning of section 167(k)(3)(B)) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
   - **(6)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the provisions of this subsection.
 - **(f)** The Secretary shall prescribe such regulations as may be necessary or appropriate to prevent the avoidance of those provisions of this title which deal with—
   - **(1)** the linking of borrowing to investment, or

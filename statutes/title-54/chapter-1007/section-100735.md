@@ -3,9 +3,9 @@ title: "Section 100735 - Civil actions for just compensation by mining claim hol
 usc_title: 54
 usc_section: "100735"
 chapter: 1007
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "54 U.S.C. § 100735"
-generated_at: "2026-03-30T07:14:04.303Z"
+generated_at: "2026-03-30T07:16:24.657Z"
 status: "active"
 ---
 

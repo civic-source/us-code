@@ -3,9 +3,9 @@ title: "Section 78d - Securities and Exchange Commission"
 usc_title: 15
 usc_section: "78d"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 78d"
-generated_at: "2026-03-30T07:11:26.896Z"
+generated_at: "2026-03-30T07:15:11.771Z"
 status: "active"
 ---
 
@@ -93,7 +93,7 @@ status: "active"
   - **(4)** The Advocate for Small Business Capital Formation shall—
     - **(A)** assist small businesses and small business investors in resolving significant problems such businesses and investors may have with the Commission or with self-regulatory organizations;
     - **(B)** identify areas in which small businesses and small business investors would benefit from changes in the regulations of the Commission or the rules of self-regulatory organizations;
-    - **(C)** identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned and women-owned small businesses;
+    - **(C)** identify problems that small businesses have with securing access to capital, including any unique challenges to minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters;
     - **(D)** analyze the potential impact on small businesses and small business investors of—
       - **(i)** proposed regulations of the Commission that are likely to have a significant economic impact on small businesses and small business capital formation; and
       - **(ii)** proposed rules that are likely to have a significant economic impact on small businesses and small business capital formation of self-regulatory organizations registered under this chapter;
@@ -107,7 +107,7 @@ status: "active"
     - **(B)** Each report required under subparagraph (A) shall include—
       - **(i)** appropriate statistical information and full and substantive analysis;
       - **(ii)** information on steps that the Advocate for Small Business Capital Formation has taken during the reporting period to improve small business services and the responsiveness of the Commission and self-regulatory organizations to small business and small business investor concerns;
-      - **(iii)** a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned and women-owned small businesses and their investors, during the reporting period;
+      - **(iii)** a summary of the most serious issues encountered by small businesses and small business investors, including any unique issues encountered by minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters and their investors, during the reporting period;
       - **(iv)** an inventory of the items summarized under clause (iii) (including items summarized under such clause for any prior reporting period on which no action has been taken or that have not been resolved to the satisfaction of the Advocate for Small Business Capital Formation as of the beginning of the reporting period covered by the report) that includes—
         - **(I)** identification of any action taken by the Commission or the self-regulatory organization and the result of such action;
         - **(II)** the length of time that each item has remained on such inventory; and

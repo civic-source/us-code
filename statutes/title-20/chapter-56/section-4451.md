@@ -3,9 +3,9 @@ title: "Section 4451 - Authorization of appropriations"
 usc_title: 20
 usc_section: "4451"
 chapter: 56
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 4451"
-generated_at: "2026-03-30T07:11:45.066Z"
+generated_at: "2026-03-30T07:15:17.723Z"
 status: "active"
 ---
 

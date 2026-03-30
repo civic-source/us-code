@@ -3,9 +3,9 @@ title: "Section 269g - Private International Law Conference at The Hague and Pri
 usc_title: 22
 usc_section: "269g"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 269g"
-generated_at: "2026-03-30T07:12:12.197Z"
+generated_at: "2026-03-30T07:15:28.960Z"
 status: "active"
 ---
 

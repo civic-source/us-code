@@ -3,9 +3,9 @@ title: "Section 355a - Laws applicable to added lands"
 usc_title: 16
 usc_section: "355a"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 355a"
-generated_at: "2026-03-30T07:11:43.121Z"
+generated_at: "2026-03-30T07:15:20.896Z"
 status: "active"
 ---
 

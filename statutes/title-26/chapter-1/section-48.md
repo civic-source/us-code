@@ -3,16 +3,16 @@ title: "Section 48 - Energy credit"
 usc_title: 26
 usc_section: "48"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 48"
-generated_at: "2026-03-30T07:12:22.917Z"
+generated_at: "2026-03-30T07:15:38.932Z"
 status: "active"
 ---
 
 # § 48. Energy credit
 
 - **(a)**
-  - **(1)** For purposes of section 46, except as provided in paragraphs (1)(B), (2)(B), (3)(B), and (4)(B) 1 1 See References in Text note below. of subsection (c), the energy credit for any taxable year is the energy percentage of the basis of each energy property placed in service during such taxable year.
+  - **(1)** For purposes of section 46, except as provided in paragraphs (1)(B), (2)(B), and (3)(B) of subsection (c), the energy credit for any taxable year is the energy percentage of the basis of each energy property placed in service during such taxable year.
   - **(2)**
     - **(A)** Except as provided in paragraphs (6) and (7), the energy percentage is—
       - **(i)** 30 percent in the case of—
@@ -73,7 +73,7 @@ status: "active"
     - **(A)** Subject to subparagraph (B), in the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022 , the energy percentage determined under paragraph (2) shall be equal to—
       - **(i)** in the case of any property the construction of which begins after December 31, 2019 , and before January 1, 2021 , 26 percent, and
       - **(ii)** in the case of any property the construction of which begins after December 31, 2020 , and before January 1, 2022 , 22 percent.
-    - **(B)** In the case of any property energy property 2 2 So in original. described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022 , and which is not placed in service before January 1, 2024 , the energy percentage determined under paragraph (2) shall be equal to 10 percent.
+    - **(B)** In the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2022 , and which is not placed in service before January 1, 2024 , the energy percentage determined under paragraph (2) shall be equal to 10 percent.
   - **(7)**
     - **(A)** Subject to subparagraph (B), in the case of any qualified fuel cell property, qualified small wind property, or energy property described in paragraph (3)(A)(ii), the energy percentage determined under paragraph (2) shall be equal to—
       - **(i)** in the case of any property the construction of which begins after December 31, 2019 , and before January 1, 2021 , 26 percent, and
@@ -92,7 +92,7 @@ status: "active"
     - **(A)** The term “qualified microturbine property” means a stationary microturbine power plant which—
       - **(i)** has a nameplate capacity of less than 2,000 kilowatts, and
       - **(ii)** has an electricity-only generation efficiency of not less than 26 percent at International Standard Organization conditions.
-    - **(B)** In the case of qualified microturbine property placed in service during the taxable year, the credit otherwise determined under subsection (a) for such year with respect to such property shall not exceed an amount equal 3 3 So in original. Probably should be followed by “to”. $200 for each kilowatt of capacity of such property.
+    - **(B)** In the case of qualified microturbine property placed in service during the taxable year, the credit otherwise determined under subsection (a) for such year with respect to such property shall not exceed an amount equal to $200 for each kilowatt of capacity of such property.
     - **(C)** The term “stationary microturbine power plant” means an integrated system comprised of a gas turbine engine, a combustor, a recuperator or regenerator, a generator or alternator, and associated balance of plant components which converts a fuel into electricity and thermal energy. Such term also includes all secondary components located between the existing infrastructure for fuel delivery and the existing infrastructure for power distribution, including equipment and controls for meeting relevant power standards, such as voltage, frequency, and power factors.
     - **(D)** The term “qualified microturbine property” shall not include any property the construction of which does not begin before January 1, 2022 .
   - **(3)**
@@ -126,6 +126,6 @@ status: "active"
     - **(A)** the tax imposed under subtitle A on the taxpayer for the taxable year in which such grant is made shall be increased by so much of such credit as was allowed under section 38,
     - **(B)** the general business carryforwards under section 39 shall be adjusted so as to recapture the portion of such credit which was not so allowed, and
     - **(C)** the amount of such grant shall be determined without regard to any reduction in the basis of such property by reason of such credit.
-  - **(3)** Any such grant shall—
-    - **(A)** not be includible in the gross income or alternative minimum taxable income of the taxpayer, but
-    - **(B)** shall 4 4 So in original. The word “shall” probably should not appear. be taken into account in determining the basis of the property to which such grant relates, except that the basis of such property shall be reduced under section 50(c) in the same manner as a credit allowed under subsection (a).
+  - **(3)** Any such grant—
+    - **(A)** shall not be includible in the gross income or alternative minimum taxable income of the taxpayer, but
+    - **(B)** shall be taken into account in determining the basis of the property to which such grant relates, except that the basis of such property shall be reduced under section 50(c) in the same manner as a credit allowed under subsection (a).

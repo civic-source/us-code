@@ -3,9 +3,9 @@ title: "Section 873a - Repealed. June 25, 1948, ch. 646 , § 39, 62 Stat. 992"
 usc_title: 48
 usc_section: "873a"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "48 U.S.C. § 873a"
-generated_at: "2026-03-30T07:13:54.543Z"
+generated_at: "2026-03-30T07:16:17.359Z"
 status: "repealed"
 ---
 

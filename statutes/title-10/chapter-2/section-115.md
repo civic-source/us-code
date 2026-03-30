@@ -3,9 +3,9 @@ title: "Section 115 - Personnel strengths: requirement for annual authorization"
 usc_title: 10
 usc_section: "115"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 115"
-generated_at: "2026-03-30T07:11:06.536Z"
+generated_at: "2026-03-30T07:14:57.716Z"
 status: "active"
 ---
 
@@ -63,7 +63,7 @@ status: "active"
   - **(6)** Members of the militia called into Federal service under chapter 15 of this title.
   - **(7)** Members of the National Guard on full-time National Guard duty under section 502(f)(1)(A) of title 32 .
   - **(8)** Members of reserve components on active duty for training or full-time National Guard duty for training.
-  - **(9)** Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1321(a) of the Department of Defense Cooperative Threat Reduction Act ( 50 U.S.C. 3711(a) )
+  - **(9)** Members of the Selected Reserve of the Ready Reserve on active duty to support programs described in section 1321(a) of the Department of Defense Cooperative Threat Reduction Act ( 50 U.S.C. 3711(a) ).
   - **(10)** Members of the National Guard on active duty or full-time National Guard duty for the purpose of carrying out drug interdiction and counter-drug activities under section 112 of title 32 .
   - **(11)** Members of a reserve component on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) 1 1 See References in Text note below. for the administration of the Selective Service System.
   - **(12)** Members of the National Guard on full-time National Guard duty for the purpose of providing command, administrative, training, or support services for the National Guard Challenge Program authorized by section 509 of title 32 .

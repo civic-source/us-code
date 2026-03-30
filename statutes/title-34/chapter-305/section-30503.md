@@ -3,9 +3,9 @@ title: "Section 30503 - Support for criminal investigations and prosecutions by 
 usc_title: 34
 usc_section: "30503"
 chapter: 305
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "34 U.S.C. § 30503"
-generated_at: "2026-03-30T07:12:25.814Z"
+generated_at: "2026-03-30T07:15:41.800Z"
 status: "active"
 ---
 

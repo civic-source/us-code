@@ -3,9 +3,9 @@ title: "Section 1366 - Pass-thru of items to shareholders"
 usc_title: 26
 usc_section: "1366"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1366"
-generated_at: "2026-03-30T07:12:23.040Z"
+generated_at: "2026-03-30T07:15:39.062Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(4)** In the case of any charitable contribution of property to which the second sentence of section 1367(a)(2) applies, paragraph (1) shall not apply to the extent of the excess (if any) of—
     - **(A)** the shareholder’s pro rata share of such contribution, over
     - **(B)** the shareholder’s pro rata share of the adjusted basis of such property.
-- **(e)** If an individual who is a member of the family (within the meaning of section 704(e)(3)) 1 1 See References in Text note below. of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+- **(e)** If an individual who is a member of the family (within the meaning of section 704(e)(2) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
 - **(f)**
   - **(1)** Subsection (a) shall not apply with respect to any credit allowable under section 34 (relating to certain uses of gasoline and special fuels).
   - **(2)** If any tax is imposed under section 1374 for any taxable year on an S corporation, for purposes of subsection (a), the amount so imposed shall be treated as a loss sustained by the S corporation during such taxable year. The character of such loss shall be determined by allocating the loss proportionately among the recognized built-in gains giving rise to such tax.

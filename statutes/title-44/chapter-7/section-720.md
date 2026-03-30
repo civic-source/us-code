@@ -3,9 +3,9 @@ title: "Section 720 - Senate and House Manuals"
 usc_title: 44
 usc_section: "720"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "44 U.S.C. § 720"
-generated_at: "2026-03-30T07:13:10.758Z"
+generated_at: "2026-03-30T07:15:53.895Z"
 status: "active"
 ---
 

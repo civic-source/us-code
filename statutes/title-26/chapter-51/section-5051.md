@@ -3,9 +3,9 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-30T07:12:23.082Z"
+generated_at: "2026-03-30T07:15:39.103Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be the amount determined under this paragraph.
-    - **(B)** Except as provided in subparagraph (C), the rate of tax shall be $18 for per barrel.
+    - **(B)** Except as provided in subparagraph (C), the rate of tax shall be $18 for per 1 1 So in original. barrel.
     - **(C)** In the case of beer removed after December 31, 2017 , and before January 1, 2020 , the rate of tax shall be—
       - **(i)** $16 on the first 6,000,000 barrels of beer—
         - **(I)** brewed by the brewer and removed during the calendar year for consumption or sale, or

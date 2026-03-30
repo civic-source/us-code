@@ -3,9 +3,9 @@ title: "Section 795 - Photographing and sketching defense installations"
 usc_title: 18
 usc_section: "795"
 chapter: 37
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 795"
-generated_at: "2026-03-30T07:11:47.903Z"
+generated_at: "2026-03-30T07:15:18.747Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51 - Short title"
 usc_title: 15
 usc_section: "51"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 51"
-generated_at: "2026-03-30T07:11:26.921Z"
+generated_at: "2026-03-30T07:15:11.801Z"
 status: "active"
 ---
 

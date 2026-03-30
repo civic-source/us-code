@@ -3,9 +3,9 @@ title: "Section 2009g - Guarantee and commitment to guarantee loans"
 usc_title: 7
 usc_section: "2009g"
 chapter: 50
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 2009g"
-generated_at: "2026-03-30T07:11:01.938Z"
+generated_at: "2026-03-30T07:15:04.454Z"
 status: "active"
 ---
 

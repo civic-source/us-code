@@ -3,9 +3,9 @@ title: "Section 12132 - Ounce of prevention grant program"
 usc_title: 34
 usc_section: "12132"
 chapter: 121
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "34 U.S.C. § 12132"
-generated_at: "2026-03-30T07:12:25.794Z"
+generated_at: "2026-03-30T07:15:41.779Z"
 status: "active"
 ---
 

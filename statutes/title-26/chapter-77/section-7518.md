@@ -3,9 +3,9 @@ title: "Section 7518 - Tax incentives relating to merchant marine capital constr
 usc_title: 26
 usc_section: "7518"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 7518"
-generated_at: "2026-03-30T07:12:23.126Z"
+generated_at: "2026-03-30T07:15:39.152Z"
 status: "active"
 ---
 
@@ -101,4 +101,4 @@ status: "active"
 - **(h)** Under joint regulations—
   - **(1)** a transfer of a fund from one person to another person in a transaction to which section 381 applies may be treated as if such transaction did not constitute a nonqualified withdrawal, and
   - **(2)** a similar rule shall be applied in the case of a continuation of a partnership.
-- **(i)** For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
+- **(i)** For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.

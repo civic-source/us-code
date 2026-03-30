@@ -3,9 +3,9 @@ title: "Section 904 - Limitation on credit"
 usc_title: 26
 usc_section: "904"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 904"
-generated_at: "2026-03-30T07:12:23.017Z"
+generated_at: "2026-03-30T07:15:39.040Z"
 status: "active"
 ---
 
@@ -35,8 +35,7 @@ status: "active"
         - **(I)** the highest rate of tax set forth in subsection (a), (b), (c), (d), or (e) of section 1 (whichever applies), over
         - **(II)** the alternative rate of tax determined under section 1(h), bears to
       - **(ii)** that rate referred to in subclause (I).
-  - **(4)** For purposes of subsection (a), in the case of a corporation, the taxable income shall not include any portion thereof taken into account for purposes of the credit (if any) allowed by section 936 (without regard to subsections (a)(4) and (i) thereof).
-  - **(5)** For purposes of subsection (a), in the case of a domestic corporation which is a United States shareholder with respect to a specified 10-percent owned foreign corporation, such shareholder’s taxable income from sources without the United States (and entire taxable income) shall be determined without regard to—
+  - **(4)** For purposes of subsection (a), in the case of a domestic corporation which is a United States shareholder with respect to a specified 10-percent owned foreign corporation, such shareholder’s taxable income from sources without the United States (and entire taxable income) shall be determined without regard to—
     - **(A)** the foreign-source portion of any dividend received from such foreign corporation, and
     - **(B)** any deductions properly allocable or apportioned to—
       - **(i)** income (other than amounts includible under section 951(a)(1) or 951A(a)) with respect to stock of such specified 10-percent owned foreign corporation, or
@@ -54,7 +53,7 @@ status: "active"
       - **(ii)** The term “general category income” means income other than income described in paragraph (1)(A), foreign branch income, and passive category income.
     - **(B)**
       - **(i)** Except as otherwise provided in this subparagraph, the term “passive income” means any income received or accrued by any person which is of a kind which would be foreign personal holding company income (as defined in section 954(c)).
-      - **(ii)** Except as provided in clause (iii), the term “passive income” includes, except as provided in subparagraph (E)(iii) 1 or paragraph (3)(I) 1 , any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
+      - **(ii)** Except as provided in clause (iii), subparagraph (E)(ii), or paragraph (3)(H), the term “passive income” includes any amount includible in gross income under section 1293 (relating to certain passive foreign investment companies).
       - **(iii)** The term “passive income” shall not include—
         - **(I)** any export financing interest, and
         - **(II)** any high-taxed income.
@@ -144,7 +143,7 @@ status: "active"
     - **(C)** providing that rules similar to the rules of paragraph (3)(C) shall apply to interest, rents, and royalties received or accrued from entities which would be controlled foreign corporations if they were foreign corporations.
 - **[(e)**
 - **(f)**
-  - **(1)** For purposes of this subpart and section 936, in the case of any taxpayer who sustains an overall foreign loss for any taxable year, that portion of the taxpayer’s taxable income from sources without the United States for each succeeding taxable year which is equal to the lesser of—
+  - **(1)** For purposes of this subpart, in the case of any taxpayer who sustains an overall foreign loss for any taxable year, that portion of the taxpayer’s taxable income from sources without the United States for each succeeding taxable year which is equal to the lesser of—
     - **(A)** the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
     - **(B)** 50 percent (or such larger percent as the taxpayer may choose) of the taxpayer’s taxable income from sources without the United States for such succeeding taxable year,
   - **(2)** For purposes of this subsection, the term “overall foreign loss” means the amount by which the gross income for the taxable year from sources without the United States (whether or not the taxpayer chooses the benefits of this subpart for such taxable year) for such year is exceeded by the sum of the deductions properly apportioned or allocated thereto, except that there shall not be taken into account—
@@ -186,7 +185,7 @@ status: "active"
       - **(iii)** The term “separate limitation loss” means, with respect to any income category, the loss from such category determined under the principles of section 907(c)(4)(B).
     - **(F)** If any separate limitation loss for any taxable year is allocated against any separate limitation income for such taxable year, except to the extent provided in regulations, rules similar to the rules of paragraph (3) shall apply to any disposition of property if gain from such disposition would be in the income category with respect to which there was such separate limitation loss.
 - **(g)**
-  - **(1)** For purposes of this subpart and section 936, in the case of any taxpayer who sustains an overall domestic loss for any taxable year beginning after December 31, 2006 , that portion of the taxpayer’s taxable income from sources within the United States for each succeeding taxable year which is equal to the lesser of—
+  - **(1)** For purposes of this subpart and section 936, 1 in the case of any taxpayer who sustains an overall domestic loss for any taxable year beginning after December 31, 2006 , that portion of the taxpayer’s taxable income from sources within the United States for each succeeding taxable year which is equal to the lesser of—
     - **(A)** the amount of such loss (to the extent not used under this paragraph in prior taxable years), or
     - **(B)** 50 percent of the taxpayer’s taxable income from sources within the United States for such succeeding taxable year,
   - **(2)** For purposes of this subsection—

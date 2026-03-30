@@ -3,9 +3,9 @@ title: "Section 877A - Tax responsibilities of expatriation"
 usc_title: 26
 usc_section: "877A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 877A"
-generated_at: "2026-03-30T07:12:23.014Z"
+generated_at: "2026-03-30T07:15:39.037Z"
 status: "active"
 ---
 
@@ -105,7 +105,7 @@ status: "active"
     - **(C)** the date the United States Department of State issues to the individual a certificate of loss of nationality, or
     - **(D)** the date a court of the United States cancels a naturalized citizen’s certificate of naturalization.
   - **(5)** The term “long-term resident” has the meaning given to such term by section 877(e)(2).
-  - **(6)** The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4), 1 1 See References in Text note below. 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
+  - **(6)** The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(f)(4), 223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 - **(h)**
   - **(1)** In the case of any covered expatriate, notwithstanding any other provision of this title—
     - **(A)** any time period for acquiring property which would result in the reduction in the amount of gain recognized with respect to property disposed of by the taxpayer shall terminate on the day before the expatriation date, and

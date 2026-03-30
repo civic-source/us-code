@@ -3,9 +3,9 @@ title: "Section 1472 - Loans for housing and buildings on adequate farms"
 usc_title: 42
 usc_section: "1472"
 chapter: 8
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 1472"
-generated_at: "2026-03-30T07:13:45.861Z"
+generated_at: "2026-03-30T07:16:11.131Z"
 status: "active"
 ---
 
@@ -179,5 +179,5 @@ status: "active"
     - **(F)** The Secretary may establish limitations on the number of loans guaranteed under this paragraph, which shall be based on market conditions and other factors as the Secretary considers appropriate.
   - **(18)** The Secretary may delegate, in part or in full, the Secretary’s authority to approve and execute binding Rural Housing Service loan guarantees pursuant to this subsection to certain preferred lenders, in accordance with standards established by the Secretary.
 - **(i)**
-  - **(1)** The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
+  - **(1)** To the extent provided in advance in appropriations Acts, the Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender’s participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan.
   - **(2)** Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).

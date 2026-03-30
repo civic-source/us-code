@@ -3,9 +3,9 @@ title: "Section 202a - Summer homes and cottages"
 usc_title: 16
 usc_section: "202a"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 202a"
-generated_at: "2026-03-30T07:11:43.114Z"
+generated_at: "2026-03-30T07:15:20.890Z"
 status: "active"
 ---
 

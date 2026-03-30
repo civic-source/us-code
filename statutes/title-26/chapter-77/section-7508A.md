@@ -3,15 +3,15 @@ title: "Section 7508A - Authority to postpone certain deadlines by reason of Pre
 usc_title: 26
 usc_section: "7508A"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 7508A"
-generated_at: "2026-03-30T07:12:23.126Z"
+generated_at: "2026-03-30T07:15:39.152Z"
 status: "active"
 ---
 
 # § 7508A. Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions
 
-- **(a)** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) 1 1 See References in Text note below. or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+- **(a)** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
   - **(1)** whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
   - **(2)** the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
   - **(3)** the amount of any credit or refund.

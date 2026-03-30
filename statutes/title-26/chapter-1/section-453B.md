@@ -1,15 +1,15 @@
 ---
-title: "Section 453B - Gain or loss disposition of installment obligations"
+title: "Section 453B - Gain or loss on disposition of installment obligations"
 usc_title: 26
 usc_section: "453B"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 453B"
-generated_at: "2026-03-30T07:12:22.984Z"
+generated_at: "2026-03-30T07:15:39.004Z"
 status: "active"
 ---
 
-# § 453B. Gain or loss disposition of installment obligations
+# § 453B. Gain or loss on disposition of installment obligations
 
 - **(a)** If an installment obligation is satisfied at other than its face value or distributed, transmitted, sold, or otherwise disposed of, gain or loss shall result to the extent of the difference between the basis of the obligation and—
   - **(1)** the amount realized, in the case of satisfaction at other than face value or a sale or exchange, or

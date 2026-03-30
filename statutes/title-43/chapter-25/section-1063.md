@@ -3,9 +3,9 @@ title: "Section 1063 - Obstruction of settlement on or transit over public lands
 usc_title: 43
 usc_section: "1063"
 chapter: 25
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 1063"
-generated_at: "2026-03-30T07:12:59.811Z"
+generated_at: "2026-03-30T07:15:55.075Z"
 status: "active"
 ---
 

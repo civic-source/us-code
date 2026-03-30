@@ -3,9 +3,9 @@ title: "Section 132 - Certain fringe benefits"
 usc_title: 26
 usc_section: "132"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 132"
-generated_at: "2026-03-30T07:12:22.929Z"
+generated_at: "2026-03-30T07:15:38.944Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** The term “employee discount” means the amount by which—
     - **(A)** the price at which the property or services are provided by the employer to an employee for use by such employee, is less than
     - **(B)** the price at which such property or services are being offered by the employer to customers.
-  - **(4)** The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is peforming 1 1 So in original. Probably should be “performing”. services.
+  - **(4)** The term “qualified property or services” means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
 - **(d)** For purposes of this section, the term “working condition fringe” means any property or services provided to an employee of the employer to the extent that, if the employee paid for such property or services, such payment would be allowable as a deduction under section 162 or 167.
 - **(e)** For purposes of this section—
   - **(1)** The term “de minimis fringe” means any property or service the value of which is (after taking into account the frequency with which similar fringes are provided by the employer to the employer’s employees) so small as to make accounting for it unreasonable or administratively impracticable.

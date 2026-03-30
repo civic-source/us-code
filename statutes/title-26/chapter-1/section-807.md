@@ -3,9 +3,9 @@ title: "Section 807 - Rules for certain reserves"
 usc_title: 26
 usc_section: "807"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 807"
-generated_at: "2026-03-30T07:12:23.004Z"
+generated_at: "2026-03-30T07:15:39.026Z"
 status: "active"
 ---
 
@@ -83,7 +83,7 @@ status: "active"
     - **(C)** For purposes of this paragraph, the term “existing plan of insurance” means, with respect to any contract, any plan of insurance which was filed by the company using such contract in one or more States before January 1, 1984 , and is on file in the appropriate State for such contract.
   - **(5)**
     - **(A)** The amount taken into account for purposes of subsections (a) and (b) as—
-      - **(i)** the opening balance of the items referred to in subparagraph (C), 1 1 So in original. Probably should be “subparagraph (B),”. See 2014 Amendment note below. and
+      - **(i)** the opening balance of the items referred to in subparagraph (B), and
       - **(ii)** the closing balance of such items,
     - **(B)** For purposes of this paragraph, the items referred to in this subparagraph are the items described in subsection (c) which consist of unearned premiums and premiums received in advance under insurance contracts not described in section 816(b)(1)(B).
   - **(6)** The Secretary shall require reporting (at such time and in such manner as the Secretary shall prescribe) with respect to the opening balance and closing balance of reserves and with respect to the method of computing reserves for purposes of determining income.

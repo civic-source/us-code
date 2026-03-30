@@ -3,9 +3,9 @@ title: "Section 710 - Sexual risk avoidance education"
 usc_title: 42
 usc_section: "710"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 710"
-generated_at: "2026-03-30T07:13:45.710Z"
+generated_at: "2026-03-30T07:16:10.893Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019, allot to each State which has transmitted an application for the fiscal year under section 705(a) of this title an amount equal to the product of—
-    - **(A)** the amount appropriated pursuant to subsection (e)(1) 1 1 So in original. Probably should be “subsection (f)(1)”. for the fiscal year, minus the amount reserved under subsection (e)(2) 2 2 So in original. Probably should be “subsection (f)(2)”. for the fiscal year; and
+    - **(A)** the amount appropriated pursuant to subsection (f)(1) for the fiscal year, minus the amount reserved under subsection (f)(2) for the fiscal year; and
     - **(B)** the proportion that the number of low-income children in the State bears to the total of such numbers of children for all the States.
   - **(2)**
     - **(A)** For the purpose described in subsection (b), the Secretary shall, for each of fiscal years 2018 and 2019, for any State which has not transmitted an application for the fiscal year under section 705(a) of this title , allot to one or more entities in the State the amount that would have been allotted to the State under paragraph (1) if the State had submitted such an application.
@@ -53,7 +53,7 @@ status: "active"
     - **(B)** submit a report to the Congress on the results of such evaluations, together with a summary of the information collected pursuant to subsection (b)(6).
   - **(2)** In conducting the evaluations required by paragraph (1), including the establishment of rigorous evaluation methodologies, the Secretary shall consult with relevant stakeholders and evaluation experts.
 - **(d)**
-  - **(1)** Sections 703, 707, and 708 of this title apply to allotments under subsection (a) to the same extent and in the same manner as such sections apply to allotments under section 702(c) of this title .
+  - **(1)** Sections 703, 707, and 708 of this title apply to allotments under subsection (a) to the same extent and in the same manner as such sections apply to allotments under section 702(c) of this title , except that section 703(a) of this title shall be applied by substituting “the total of the sums” for “four-sevenths of the total of the sums”.
   - **(2)** Sections 705 and 706 of this title apply to allotments under subsection (a) to the extent determined by the Secretary to be appropriate.
 - **(e)** In this section:
   - **(1)** The term “age-appropriate” means suitable (in terms of topics, messages, and teaching methods) to the developmental and social maturity of the particular age or age group of children or adolescents, based on developing cognitive, emotional, and behavioral capacity typical for the age or age group.

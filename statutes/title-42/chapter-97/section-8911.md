@@ -3,9 +3,9 @@ title: "Section 8911 - Comprehensive study of projected impact on atmospheric le
 usc_title: 42
 usc_section: "8911"
 chapter: 97
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 8911"
-generated_at: "2026-03-30T07:13:46.070Z"
+generated_at: "2026-03-30T07:16:11.468Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9546 - Ukranian energy security"
 usc_title: 22
 usc_section: "9546"
 chapter: 102
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 9546"
-generated_at: "2026-03-30T07:12:12.334Z"
+generated_at: "2026-03-30T07:15:29.098Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** to support the Government of Ukraine in restoring its sovereign and territorial integrity;
   - **(2)** to condemn and oppose all of the destabilizing efforts by the Government of the Russian Federation in Ukraine in violation of its obligations and international commitments;
   - **(3)** to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
-  - **(4)** to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses;
+  - **(4)** to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; 1 1 So in original. Probably should be “Caucasus;”.
   - **(5)** to assist in promoting reform in regulatory oversight and operations in Ukraine’s energy sector, including the establishment and empowerment of an independent regulatory organization;
   - **(6)** to encourage and support fair competition, market liberalization, and reliability in Ukraine’s energy sector;
   - **(7)** to help Ukraine and United States allies and partners in Europe reduce their dependence on Russian energy resources, especially natural gas, which the Government of the Russian Federation uses as a weapon to coerce, intimidate, and influence other countries;

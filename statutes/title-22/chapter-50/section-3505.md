@@ -3,9 +3,9 @@ title: "Section 3505 - Director"
 usc_title: 22
 usc_section: "3505"
 chapter: 50
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 3505"
-generated_at: "2026-03-30T07:12:12.268Z"
+generated_at: "2026-03-30T07:15:29.031Z"
 status: "active"
 ---
 

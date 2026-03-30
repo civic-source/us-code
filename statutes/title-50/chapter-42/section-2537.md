@@ -3,9 +3,9 @@ title: "Section 2537 - Selected Acquisition Reports and independent cost estimat
 usc_title: 50
 usc_section: "2537"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 2537"
-generated_at: "2026-03-30T07:13:58.437Z"
+generated_at: "2026-03-30T07:16:18.952Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
       - **(ii)** Each nuclear weapon system undergoing life extension at the completion of phase 6.3, relating to development engineering.
       - **(iii)** Each nuclear weapon system undergoing life extension at the completion of phase 6.4, relating to production engineering, and before the initiation of phase 6.5, relating to first production.
       - **(iv)** Each new nuclear facility within the nuclear security enterprise that is estimated to cost more than $500,000,000 before such facility achieves critical decision 1 and before such facility achieves critical decision 2 in the acquisition process.
-      - **(v)** Each nuclear weapons system undergoing a major alteration project (as defined in section 2753(a)(2)) of this title.
+      - **(v)** Each nuclear weapons system undergoing a major alteration project (as defined in section 2753(a)(2) of this title ).
     - **(B)** An independent cost review of each nuclear weapon system undergoing life extension at the completion of phase 6.2, relating to study of feasibility and down-select.
   - **(2)** Each independent cost estimate and independent cost review under paragraph (1) shall include—
     - **(A)** whether the cost baseline or the budget estimate for the period covered by the future-years nuclear security program has changed, and the rationale for any such change; and

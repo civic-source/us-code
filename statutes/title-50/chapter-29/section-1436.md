@@ -3,9 +3,9 @@ title: "Section 1436 - Repealed. Pub. L. 97–295 , § 6(b), Oct. 12, 1982 , 96 
 usc_title: 50
 usc_section: "1436"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 1436"
-generated_at: "2026-03-30T07:13:58.417Z"
+generated_at: "2026-03-30T07:16:18.923Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7702 - Definitions"
 usc_title: 22
 usc_section: "7702"
 chapter: 84
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 7702"
-generated_at: "2026-03-30T07:12:12.314Z"
+generated_at: "2026-03-30T07:15:29.079Z"
 status: "active"
 ---
 

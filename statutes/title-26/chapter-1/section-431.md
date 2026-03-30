@@ -3,9 +3,9 @@ title: "Section 431 - Minimum funding standards for multiemployer plans"
 usc_title: 26
 usc_section: "431"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 431"
-generated_at: "2026-03-30T07:12:22.978Z"
+generated_at: "2026-03-30T07:15:38.998Z"
 status: "active"
 ---
 
@@ -144,7 +144,7 @@ status: "active"
   - **(2)**
     - **(A)** If the plan sponsor of a multiemployer plan submits to the Secretary an application for an extension of the period of years required to amortize any unfunded liability described in any clause of subsection (b)(2)(B) or described in subsection (b)(4), the Secretary may extend the amortization period for a period of time (not in excess of 10 years reduced by the number of years of any extension under paragraph (1) with respect to such unfunded liability) if the Secretary makes the determination described in subparagraph (B). Such extension shall be in addition to any extension under paragraph (1).
     - **(B)** The Secretary may grant an extension under subparagraph (A) if the Secretary determines that—
-      - **(i)** such extension would carry out the purposes of this Act 2 2 So in original. Probably should be “title”. and would provide adequate protection for participants under the plan and their beneficiaries, and
+      - **(i)** such extension would carry out the purposes of the Pension Protection Act of 2006 and would provide adequate protection for participants under the plan and their beneficiaries, and
       - **(ii)** the failure to permit such extension would—
         - **(I)** result in a substantial risk to the voluntary continuation of the plan, or a substantial curtailment of pension benefit levels or employee compensation, and
         - **(II)** be adverse to the interests of plan participants in the aggregate.

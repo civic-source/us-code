@@ -3,9 +3,9 @@ title: "Section 6910 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6910"
 chapter: 88
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 6910"
-generated_at: "2026-03-30T07:11:43.329Z"
+generated_at: "2026-03-30T07:15:21.107Z"
 status: "active"
 ---
 

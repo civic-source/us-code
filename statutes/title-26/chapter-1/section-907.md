@@ -3,9 +3,9 @@ title: "Section 907 - Special rules in case of foreign oil and gas income"
 usc_title: 26
 usc_section: "907"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 907"
-generated_at: "2026-03-30T07:12:23.018Z"
+generated_at: "2026-03-30T07:15:39.041Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(3)** The term “foreign oil and gas extraction income” and the term “foreign oil related income” include—
     - **(A)** interest, to the extent the category of income of such interest is determined under section 904(d)(3),
     - **(B)** amounts with respect to which taxes are deemed paid under section 960, and
-    - **(C)** the taxpayer’s distributive share of the income of partnerships. 1 1 So in original. The period probably should be a comma.
+    - **(C)** the taxpayer’s distributive share of the income of partnerships,
   - **(4)**
     - **(A)** The combined foreign oil and gas income of a taxpayer for a taxable year (determined without regard to this paragraph) shall be reduced—
       - **(i)** first by the amount determined under subparagraph (B), and
@@ -64,7 +64,7 @@ status: "active"
 - **(d)** For purposes of this chapter, in determining the amount of taxable income in the case of foreign oil and gas extraction income, if the oil or gas is disposed of, or is acquired other than from the government of a foreign country, at a posted price (or other pricing arrangement) which differs from the fair market value for such oil or gas, such fair market value shall be used in lieu of such posted price (or other pricing arrangement).
 - **[(e)**
 - **(f)**
-  - **(1)** If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable year, 2 2 So in original. Probably should be “years,”. in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+  - **(1)** If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the “unused credit year”), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
   - **(2)** The amount of the unused foreign oil and gas taxes which under paragraph (1) may be deemed paid or accrued in any preceding or succeeding taxable year shall not exceed the lesser of—
     - **(A)** the amount by which the limitation provided by subsection (a) for such taxable year exceeds the sum of—
       - **(i)** the foreign oil and gas taxes paid or accrued during such taxable year, plus

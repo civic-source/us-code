@@ -3,9 +3,9 @@ title: "Section 4958 - Taxes on excess benefit transactions"
 usc_title: 26
 usc_section: "4958"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 4958"
-generated_at: "2026-03-30T07:12:23.074Z"
+generated_at: "2026-03-30T07:15:39.095Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ status: "active"
     - **(A)** any person who was, at any time during the 5-year period ending on the date of such transaction, in a position to exercise substantial influence over the affairs of the organization,
     - **(B)** a member of the family of an individual described in subparagraph (A),
     - **(C)** a 35-percent controlled entity,
-    - **(D)** any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization. 1 1 So in original. The period probably should be a comma.
+    - **(D)** any person who is described in subparagraph (A), (B), or (C) with respect to an organization described in section 509(a)(3) and organized and operated exclusively for the benefit of, to perform the functions of, or to carry out the purposes of the applicable tax-exempt organization,
     - **(E)** which involves a donor advised fund (as defined in section 4966(d)(2)), any person who is described in paragraph (7) with respect to such donor advised fund (as so defined), and
     - **(F)** which involves a sponsoring organization (as defined in section 4966(d)(1)), any person who is described in paragraph (8) with respect to such sponsoring organization (as so defined).
   - **(2)** The term “organization manager” means, with respect to any applicable tax-exempt organization, any officer, director, or trustee of such organization (or any individual having powers or responsibilities similar to those of officers, directors, or trustees of the organization).

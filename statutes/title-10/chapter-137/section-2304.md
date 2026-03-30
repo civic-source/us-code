@@ -3,9 +3,9 @@ title: "Section 2304 - Contracts: competition requirements"
 usc_title: 10
 usc_section: "2304"
 chapter: 137
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2304"
-generated_at: "2026-03-30T07:11:06.609Z"
+generated_at: "2026-03-30T07:14:57.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Special rules for capital gains invested in opportunity zone
 usc_title: 26
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 2"
-generated_at: "2026-03-30T07:12:23.047Z"
+generated_at: "2026-03-30T07:15:39.065Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
         - **(II)** the original use of such property in the qualified opportunity zone commences with the qualified opportunity fund or the qualified opportunity fund substantially improves the property, and
         - **(III)** during substantially all of the qualified opportunity fund’s holding period for such property, substantially all of the use of such property was in a qualified opportunity zone.
       - **(ii)** For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-month period in the hands of the qualified opportunity fund.
-      - **(iii)** For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) 1 1 So in original. No paragraph (8) has been enacted. of this subsection in lieu of the application of such rule in section 179(d)(2)(A).
+      - **(iii)** For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection 1 1 So in original. This subsection does not contain a paragraph (8). in lieu of the application of such rule in section 179(d)(2)(A).
   - **(3)**
     - **(A)** The term “qualified opportunity zone business” means a trade or business—
       - **(i)** in which substantially all of the tangible property owned or leased by the taxpayer is qualified opportunity zone business property (determined by substituting “qualified opportunity zone business” for “qualified opportunity fund” each place it appears in paragraph (2)(D)),

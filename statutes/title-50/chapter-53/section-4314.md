@@ -3,9 +3,9 @@ title: "Section 4314 - False manifest; refusal of clearance; reports of gold or 
 usc_title: 50
 usc_section: "4314"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 4314"
-generated_at: "2026-03-30T07:13:58.474Z"
+generated_at: "2026-03-30T07:16:19.006Z"
 status: "active"
 ---
 

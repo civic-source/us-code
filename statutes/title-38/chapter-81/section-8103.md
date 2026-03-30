@@ -3,9 +3,9 @@ title: "Section 8103 - Authority to construct and alter, and to acquire sites fo
 usc_title: 38
 usc_section: "8103"
 chapter: 81
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "38 U.S.C. § 8103"
-generated_at: "2026-03-30T07:12:54.451Z"
+generated_at: "2026-03-30T07:15:51.214Z"
 status: "active"
 ---
 

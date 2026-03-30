@@ -3,9 +3,9 @@ title: "Section 179 - Election to expense certain depreciable business assets"
 usc_title: 26
 usc_section: "179"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 179"
-generated_at: "2026-03-30T07:12:22.944Z"
+generated_at: "2026-03-30T07:15:38.961Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
       - **(ii)** computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i) and to which section 167 applies,
     - **(B)** which is—
       - **(i)** section 1245 property (as defined in section 1245(a)(3)), or
-      - **(ii)** at the election of the taxpayer, qualified real property (as defined in subsection (f)), and
+      - **(ii)** at the election of the taxpayer, qualified real property (as defined in subsection (e)), and
     - **(C)** which is acquired by purchase for use in the active conduct of a trade or business.
   - **(2)** For purposes of paragraph (1), the term “purchase” means any acquisition of property, but only if—
     - **(A)** the property is not acquired from a person whose relationship to the person acquiring it would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants),
@@ -74,18 +74,7 @@ status: "active"
   - **(8)** In the case of a partnership, the limitations of subsection (b) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders.
   - **(9)** No credit shall be allowed under section 38 with respect to any amount for which a deduction is allowed under subsection (a).
   - **(10)** The Secretary shall, by regulations, provide for recapturing the benefit under any deduction allowable under subsection (a) with respect to any property which is not used predominantly in a trade or business at any time.
-- **(e)**
-  - **(1)** For purposes of this section—
-    - **(A)** the dollar amount in effect under subsection (b)(1) for the taxable year shall be increased by the lesser of—
-      - **(i)** $100,000, or
-      - **(ii)** the cost of qualified section 179 disaster assistance property placed in service during the taxable year, and
-    - **(B)** the dollar amount in effect under subsection (b)(2) for the taxable year shall be increased by the lesser of—
-      - **(i)** $600,000, or
-      - **(ii)** the cost of qualified section 179 disaster assistance property placed in service during the taxable year.
-  - **(2)** For purposes of this subsection, the term “qualified section 179 disaster assistance property” means section 179 property (as defined in subsection (d)) which is qualified disaster assistance property (as defined in section 168(n)(2)).
-  - **(3)** For purposes of sections 1397A and 1400J, qualified section 179 disaster assistance property shall not be treated as qualified zone property or qualified renewal property, unless the taxpayer elects not to take such qualified section 179 disaster assistance property into account for purposes of this subsection.
-  - **(4)** For purposes of this subsection, rules similar to the rules under subsection (d)(10) shall apply with respect to any qualified section 179 disaster assistance property which ceases to be qualified section 179 disaster assistance property.
-- **(f)** For purposes of this section, the term “qualified real property” means—
+- **(e)** For purposes of this section, the term “qualified real property” means—
   - **(1)** any qualified improvement property described in section 168(e)(6), and
   - **(2)** any of the following improvements to nonresidential real property placed in service after the date such property was first placed in service:
     - **(A)** Roofs.

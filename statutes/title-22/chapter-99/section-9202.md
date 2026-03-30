@@ -3,9 +3,9 @@ title: "Section 9202 - Definitions"
 usc_title: 22
 usc_section: "9202"
 chapter: 99
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 9202"
-generated_at: "2026-03-30T07:12:12.329Z"
+generated_at: "2026-03-30T07:15:29.093Z"
 status: "active"
 ---
 
@@ -49,7 +49,7 @@ In this chapter:
     - **(B)** is located in North Korea, except for a financial institution that is excluded by the President in accordance with section 9228(c) of this title ;
     - **(C)** is owned or controlled by the Government of North Korea, regardless of location; or
     - **(D)** is owned or controlled by a financial institution described in subparagraph (A), (B), or (C), regardless of location.
-  - **(13)** The term ‘North Korean person’ means—
+  - **(13)** The term “North Korean person” means—
     - **(A)** a North Korean citizen or national; or
     - **(B)** an entity owned or controlled by the Government of North Korea or by a North Korean citizen or national.
   - **(14)** The term “significant activities undermining cybersecurity” includes—

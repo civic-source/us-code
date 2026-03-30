@@ -3,9 +3,9 @@ title: "Section 732 - Protection of whistleblowers as criteria in evaluation of 
 usc_title: 38
 usc_section: "732"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "38 U.S.C. § 732"
-generated_at: "2026-03-30T07:12:54.405Z"
+generated_at: "2026-03-30T07:15:51.157Z"
 status: "active"
 ---
 

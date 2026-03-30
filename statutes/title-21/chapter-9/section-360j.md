@@ -3,9 +3,9 @@ title: "Section 360j - General provisions respecting control of devices intended
 usc_title: 21
 usc_section: "360j"
 chapter: 9
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "21 U.S.C. § 360j"
-generated_at: "2026-03-30T07:12:03.098Z"
+generated_at: "2026-03-30T07:15:25.920Z"
 status: "active"
 ---
 
@@ -238,7 +238,7 @@ status: "active"
   - **(4)** For purposes of this subsection—
     - **(A)** the term “applicable medical imaging device” means a device intended to be used in conjunction with a contrast agent (or class of contrast agents) for an imaging use that is not described in the approved labeling of such contrast agent (or the approved labeling of any contrast agent in the same class as such contrast agent); and
     - **(B)** the term “contrast agent” means a drug that is approved under section 355 of this title or licensed under section 262 of title 42 , is intended for use in conjunction with an applicable medical imaging device, and—
-      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+      - **(i)** is a diagnostic radiopharmaceutical, as defined in section 2 2 So in original. Probably should be “sections”. 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
       - **(ii)** is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
 - **(q)**
   - **(1)**

@@ -3,9 +3,9 @@ title: "Section 13219 - United States Postal Service"
 usc_title: 42
 usc_section: "13219"
 chapter: 134
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 13219"
-generated_at: "2026-03-30T07:13:46.146Z"
+generated_at: "2026-03-30T07:16:11.590Z"
 status: "active"
 ---
 

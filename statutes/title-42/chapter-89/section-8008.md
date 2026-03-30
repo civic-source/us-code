@@ -3,9 +3,9 @@ title: "Section 8008 - Funding procedures"
 usc_title: 42
 usc_section: "8008"
 chapter: 89
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 8008"
-generated_at: "2026-03-30T07:13:46.056Z"
+generated_at: "2026-03-30T07:16:11.447Z"
 status: "active"
 ---
 

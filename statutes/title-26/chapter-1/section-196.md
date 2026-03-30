@@ -3,9 +3,9 @@ title: "Section 196 - Deduction for certain unused business credits"
 usc_title: 26
 usc_section: "196"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 196"
-generated_at: "2026-03-30T07:12:22.946Z"
+generated_at: "2026-03-30T07:15:38.963Z"
 status: "active"
 ---
 
@@ -28,6 +28,4 @@ status: "active"
   - **(12)** the low sulfur diesel fuel production credit determined under section 45H(a),
   - **(13)** the new energy efficient home credit determined under section 45L(a), and
   - **(14)** the small employer health insurance credit determined under section 45R(a).
-- **(d)** Subsection (a) shall be applied by substituting “an amount equal to 50 percent of” for “an amount equal to” in the case of—
-  - **(1)** the investment credit determined under section 46 (other than the rehabilitation credit), and
-  - **(2)** the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990 .
+- **(d)** Subsection (a) shall be applied by substituting “an amount equal to 50 percent of” for “an amount equal to” in the case of the investment credit determined under section 46 (other than the rehabilitation credit).

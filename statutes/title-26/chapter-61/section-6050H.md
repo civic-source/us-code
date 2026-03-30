@@ -3,9 +3,9 @@ title: "Section 6050H - Returns relating to mortgage interest received in trade 
 usc_title: 26
 usc_section: "6050H"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6050H"
-generated_at: "2026-03-30T07:12:23.095Z"
+generated_at: "2026-03-30T07:15:39.118Z"
 status: "active"
 ---
 
@@ -41,5 +41,5 @@ status: "active"
   - **(3)** For purposes of this subsection—
     - **(A)** rules similar to the rules of subsection (c) shall apply, and
     - **(B)** the term “mortgage insurance” means—
-      - **(i)** mortgage insurance provided by the Veterans Administration, the Federal Housing Administration, or the Rural Housing Administration, and
+      - **(i)** mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
       - **(ii)** private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ( 12 U.S.C. 4901 ), as in effect on the date of the enactment of this subsection).

@@ -3,9 +3,9 @@ title: "Section 20103 - Membership"
 usc_title: 36
 usc_section: "20103"
 chapter: 201
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "36 U.S.C. § 20103"
-generated_at: "2026-03-30T07:12:40.630Z"
+generated_at: "2026-03-30T07:15:49.371Z"
 status: "active"
 ---
 

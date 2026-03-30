@@ -3,9 +3,9 @@ title: "Section 6911 - Aviation cadets: grade; procurement; transfer"
 usc_title: 10
 usc_section: "6911"
 chapter: 601
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 6911"
-generated_at: "2026-03-30T07:11:06.656Z"
+generated_at: "2026-03-30T07:14:57.837Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6591 - “United States assistance” defined"
 usc_title: 22
 usc_section: "6591"
 chapter: 74
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 6591"
-generated_at: "2026-03-30T07:12:12.302Z"
+generated_at: "2026-03-30T07:15:29.065Z"
 status: "active"
 ---
 

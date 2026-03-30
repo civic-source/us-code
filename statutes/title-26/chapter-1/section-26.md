@@ -3,16 +3,16 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-30T07:12:22.905Z"
+generated_at: "2026-03-30T07:15:38.918Z"
 status: "active"
 ---
 
 # § 26. Limitation based on tax liability; definition of tax liability
 
 - **(a)** The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the sum of—
-  - **(1)** the taxpayer’s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27(a), and
+  - **(1)** the taxpayer’s regular tax liability for the taxable year reduced by the foreign tax credit allowable under section 27, and
   - **(2)** the tax imposed by section 55(a) for the taxable year.
 - **(b)** For purposes of this part—
   - **(1)** The term “regular tax liability” means the tax imposed by this chapter for the taxable year.
@@ -32,7 +32,7 @@ status: "active"
     - **(M)** section 860E(e) (relating to taxes with respect to certain residual interests),
     - **(N)** section 884 (relating to branch profits tax),
     - **(O)** sections 453( l )(3) and 453A(c) (relating to interest on certain deferred tax liabilities),
-    - **(P)** section 860K 1 1 See References in Text note below. (relating to treatment of transfers of high-yield interests to disqualified holders),
+    - **[(P)** Repealed. Pub. L. 115–141, div. U, title IV , § 401(b)(2), Mar. 23, 2018 , 132 Stat. 1201 .]
     - **(Q)** section 220(f)(4) (relating to additional tax on Archer MSA distributions not used for qualified medical expenses),
     - **(R)** section 138(c)(2) (relating to penalty for distributions from Medicare Advantage MSA not used for qualified medical expenses if minimum balance not maintained),
     - **(S)** sections 106(e)(3)(A)(ii), 223(b)(8)(B)(i)(II), and 408(d)(9)(D)(i)(II) (relating to certain failures to maintain high deductible health plan coverage),

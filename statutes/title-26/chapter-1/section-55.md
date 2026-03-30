@@ -3,9 +3,9 @@ title: "Section 55 - Alternative minimum tax imposed"
 usc_title: 26
 usc_section: "55"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 55"
-generated_at: "2026-03-30T07:12:22.920Z"
+generated_at: "2026-03-30T07:15:38.935Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(D)** 20 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the sum of the amounts on which tax is determined under subparagraphs (B) and (C), plus
     - **(E)** 25 percent of the amount of taxable excess in excess of the sum of the amounts on which tax is determined under the preceding subparagraphs of this paragraph.
 - **(c)**
-  - **(1)** For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a). Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
+  - **(1)** For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a). 1 1 See References in Text note below. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
   - **(2)** Solely for purposes of this section, section 1301 (relating to averaging of farm and fishing income) shall not apply in computing the regular tax liability.
   - **(3)** For provisions providing that certain credits are not allowable against the tax imposed by this section, see sections 30C(d)(2) and 38(c).
 - **(d)** For purposes of this section—

@@ -3,9 +3,9 @@ title: "Section 508 - Repealed. Pub. L. 114–94, div. A, title VI , § 6019(d)(
 usc_title: 23
 usc_section: "508"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "23 U.S.C. § 508"
-generated_at: "2026-03-30T07:12:08.075Z"
+generated_at: "2026-03-30T07:15:25.165Z"
 status: "repealed"
 ---
 

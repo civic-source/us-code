@@ -3,9 +3,9 @@ title: "Section 1718 - Inspections"
 usc_title: 30
 usc_section: "1718"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 1718"
-generated_at: "2026-03-30T07:12:16.457Z"
+generated_at: "2026-03-30T07:15:31.411Z"
 status: "active"
 ---
 

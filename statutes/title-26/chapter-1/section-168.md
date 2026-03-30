@@ -3,9 +3,9 @@ title: "Section 168 - Accelerated cost recovery system"
 usc_title: 26
 usc_section: "168"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 168"
-generated_at: "2026-03-30T07:12:22.940Z"
+generated_at: "2026-03-30T07:15:38.956Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(F)** Water utility property described in subsection (e)(5).
     - **(G)** Qualified improvement property described in subsection (e)(6).
   - **(4)** Salvage value shall be treated as zero.
-  - **(5)** An election under paragraph (2)(D) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
+  - **(5)** An election under paragraph (2)(D) 1 1 See References in Text note below. or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
 - **(c)** For purposes of this section, the applicable recovery period shall be determined in accordance with the following table: In the case of: The applicable recovery period is: 3-year property 3 years 5-year property 5 years 7-year property 7 years 10-year property 10 years 15-year property 15 years 20-year property 20 years Water utility property 25 years Residential rental property 27.5 years Nonresidential real property 39 years. Any railroad grading or tunnel bore 50 years.
 - **(d)** For purposes of this section—
   - **(1)** Except as otherwise provided in this subsection, the applicable convention is the half-year convention.
@@ -45,7 +45,7 @@ status: "active"
       - **(i)** the aggregate bases of property to which this section applies placed in service during the last 3 months of the taxable year, exceed
       - **(ii)** 40 percent of the aggregate bases of property to which this section applies placed in service during such taxable year,
     - **(B)** For purposes of subparagraph (A), there shall not be taken into account—
-      - **(i)** any nonresidential real property 1 1 So in original. Probably should be “property,”. residential rental property, and railroad grading or tunnel bore, and
+      - **(i)** any nonresidential real property, residential rental property, and railroad grading or tunnel bore, and
       - **(ii)** any other property placed in service and disposed of during the same taxable year.
   - **(4)**
     - **(A)** The half-year convention is a convention which treats all property placed in service during any taxable year (or disposed of during any taxable year) as placed in service (or disposed of) on the mid-point of such taxable year.
@@ -77,11 +77,11 @@ status: "active"
       - **(v)** any section 1245 property used in connection with research and experimentation,
       - **(vi)** any property which—
         - **(I)** is described in subparagraph (A) of section 48(a)(3) (or would be so described if “solar or wind energy” were substituted for “solar energy” in clause (i) thereof and the last sentence of such section did not apply to such subparagraph),
-        - **(II)** is described in paragraph (15) of section 48( l ) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) and is a qualifying small power production facility within the meaning of section 3(17)(C) of the Federal Power Act ( 16 U.S.C. 796(17)(C) ), as in effect on September 1, 1986 , or
+        - **(II)** is described in paragraph (15) of section 48( l ) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) and has a power production capacity of not greater than 80 megawatts, or
         - **(III)** is described in section 48( l )(3)(A)(ix) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990), and
       - **(vii)** any machinery or equipment (other than any grain bin, cotton ginning asset, fence, or other land improvement) which is used in a farming business (as defined in section 263A(e)(4)), the original use of which commences with the taxpayer after December 31, 2017 .
     - **(C)** The term “7-year property” includes—
-      - **(i)** any railroad track, and 2 2 So in original. The word “and” probably should not appear.
+      - **(i)** any railroad track,
       - **(ii)** any motorsports entertainment complex,
       - **(iii)** any Alaska natural gas pipeline,
       - **(iv)** any natural gas gathering line the original use of which commences with the taxpayer after April 11, 2005 , and
@@ -144,7 +144,7 @@ status: "active"
     - **(C)** a recovery period determined under the following table: In the case of: The recovery period shall be: (i) Property not described in clause (ii) or (iii) The class life. (ii) Personal property with no class life 12 years. (iii) Residential rental property 30 years (iv) Nonresidential real property 40 years (v) Any railroad grading or tunnel bore or water utility property 50 years
   - **(3)**
     - **(A)** In the case of any tax-exempt use property subject to a lease, the recovery period used for purposes of paragraph (2) shall (notwithstanding any other subparagraph of this paragraph) in no event be less than 125 percent of the lease term.
-    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (F) 25
+    - **(B)** For purposes of paragraph (2), in the case of property described in any of the following subparagraphs of subsection (e)(3), the class life shall be determined as follows: If property is described in subparagraph: The class life is: 2 So in original. There is no cl. (v) of subsec. (e)(3)(D). (A)(iii) 4 (B)(ii) 5 (B)(iii) 9.5 (B)(vii) 10 (C)(i) 10 (C)(iii) 22 (C)(iv) 14 (D)(i) 15 (D)(ii) 20 (D)(v) 2 20 (E)(i) 24 (E)(ii) 24 (E)(iii) 20 (E)(iv) 20 (E)(v) 30 (E)(vi) 35 (F) 25
     - **(C)** In the case of any qualified technological equipment, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(D)** In the case of any automobile or light general purpose truck, the recovery period used for purposes of paragraph (2) shall be 5 years.
     - **(E)** In the case of any section 1245 property which is real property with no class life, the recovery period used for purposes of paragraph (2) shall be 40 years.
@@ -157,7 +157,7 @@ status: "active"
     - **(D)** any motor vehicle of a United States person (as defined in section 7701(a)(30)) which is operated to and from the United States;
     - **(E)** any container of a United States person which is used in the transportation of property to and from the United States;
     - **(F)** any property (other than a vessel or an aircraft) of a United States person which is used for the purpose of exploring for, developing, removing, or transporting resources from the outer Continental Shelf (within the meaning of section 2 of the Outer Continental Shelf Lands Act, as amended and supplemented; ( 43 U.S.C. 1331 ));
-    - **(G)** any property which is owned by a domestic corporation (other than a corporation which has an election in effect under section 936) or by a United States citizen (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation or such a citizen, or by a corporation created or organized in, or under the law of, a possession of the United States;
+    - **(G)** any property which is owned by a domestic corporation or by a United States citizen (other than a citizen entitled to the benefits of section 931 or 933) and which is used predominantly in a possession of the United States by such a corporation or such a citizen, or by a corporation created or organized in, or under the law of, a possession of the United States;
     - **(H)** any communications satellite (as defined in section 103(3) of the Communications Satellite Act of 1962, 47 U.S.C. 702(3) ), or any interest therein, of a United States person;
     - **(I)** any cable, or any interest therein, of a domestic corporation engaged in furnishing telephone service to which section 168(i)(10)(C) applies (or of a wholly owned domestic subsidiary of such a corporation), if such cable is part of a submarine cable system which constitutes part of a communication link exclusively between the United States and one or more foreign countries;
     - **(J)** any property (other than a vessel or an aircraft) of a United States person which is used in international or territorial waters within the northern portion of the Western Hemisphere for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or deposits under such waters;
@@ -406,7 +406,7 @@ status: "active"
 - **(j)**
   - **(1)** For purposes of subsection (a), the applicable recovery period for qualified Indian reservation property shall be determined in accordance with the table contained in paragraph (2) in lieu of the table contained in subsection (c).
   - **(2)** For purposes of paragraph (1)— In the case of: The applicable recovery period is: 3-year property 2 years 5-year property 3 years 7-year property 4 years 10-year property 6 years 15-year property 9 years 20-year property 12 years Nonresidential real property 22 years.
-  - **(3)** For purposes of determining alternative minimum taxable income under section 55, the deduction under subsection (a) for property to which paragraph (1) applies shall be determined under this section without regard to any adjustment under section 56.
+  - **(3)** For purposes of determining alternative minimum taxable income under section 55, the deduction under subsection (a) for qualified Indian reservation property shall be determined under this section without regard to any adjustment under section 56.
   - **(4)** For purposes of this subsection—
     - **(A)** The term “qualified Indian reservation property” means property which is property described in the table in paragraph (2) and which is—
       - **(i)** used by the taxpayer predominantly in the active conduct of a trade or business within an Indian reservation,
@@ -427,7 +427,7 @@ status: "active"
     - **(A)** section 3(d) of the Indian Financing Act of 1974 ( 25 U.S.C. 1452(d) ), or
     - **(B)** section 4(10) of the Indian Child Welfare Act of 1978 ( 25 U.S.C. 1903(10) ).
   - **(7)** Any reference in this subsection to a provision not contained in this title shall be treated for purposes of this subsection as a reference to such provision as in effect on the date of the enactment of this paragraph.
-  - **(8)** If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
+  - **(8)** If a taxpayer makes an election under this paragraph with respect to any class of property for any taxable year, paragraph (1) shall not apply to all property in such class placed in service during such taxable year. Such election, once made, shall be irrevocable.
   - **(9)** This subsection shall not apply to property placed in service after December 31, 2017 .
 - **(k)**
   - **(1)** In the case of any qualified property—
@@ -438,7 +438,7 @@ status: "active"
       - **(i)**
         - **(I)** to which this section applies which has a recovery period of 20 years or less,
         - **(II)** which is computer software (as defined in section 167(f)(1)(B)) for which a deduction is allowable under section 167(a) without regard to this subsection,
-        - **(III)** which is water utility property, or
+        - **(III)** which is water utility property, or 3 3 So in original. The word “or” probably should not appear.
         - **(IV)** which is a qualified film or television production (as defined in subsection (d) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection, or
         - **(V)** which is a qualified live theatrical production (as defined in subsection (e) of section 181) for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection,
       - **(ii)** the original use of which begins with the taxpayer or the acquisition of which by the taxpayer meets the requirements of clause (ii) of subparagraph (E), and
@@ -447,7 +447,7 @@ status: "active"
       - **(i)** The term “qualified property” includes any property if such property—
         - **(I)** meets the requirements of clauses (i) and (ii) of subparagraph (A),
         - **(II)** is placed in service by the taxpayer before January 1, 2028 ,
-        - **(III)** is acquired by the taxpayer (or acquired pursuant to a written contract entered into) before January 1, 2027 ,
+        - **(III)** is acquired by the taxpayer (or acquired pursuant to a written binding contract entered into) before January 1, 2027 ,
         - **(IV)** has a recovery period of at least 10 years or is transportation property,
         - **(V)** is subject to section 263A, and
         - **(VI)** meets the requirements of clause (iii) of section 263A(f)(1)(B) (determined as if such clause also applies to property which has a long useful life (within the meaning of section 263A(f))).
@@ -493,7 +493,7 @@ status: "active"
       - **(ii)** the adjusted basis of such specified plant shall be reduced by the amount of such deduction.
     - **(B)** For purposes of this paragraph, the term “specified plant” means—
       - **(i)** any tree or vine which bears fruits or nuts, and
-      - **(ii)** any other plant which will have more than one yield of fruits or nuts and which generally has a pre-productive period of more than 2 years from the time of planting or grafting to the time at which such plant begins bearing fruits or nuts.
+      - **(ii)** any other plant which will have more than one crop or yield of fruits or nuts and which generally has a pre-productive period of more than 2 years from the time of planting or grafting to the time at which such plant begins bearing a marketable crop or yield of fruits or nuts.
     - **(C)** An election under this paragraph may be revoked only with the consent of the Secretary.
     - **(D)** If this paragraph applies to any specified plant, such specified plant shall not be treated as qualified property in the taxable year in which placed in service.
     - **(E)** Rules similar to the rules of paragraph (2)(G) shall apply for purposes of this paragraph.
@@ -582,41 +582,3 @@ status: "active"
         - **(I)** any cathode ray tube, flat panel screen, or similar video display device with a screen size greater than 4 inches measured diagonally, or
         - **(II)** any central processing unit.
     - **(C)** The term “recycling” or “recycle” means that process (including sorting) by which worn or superfluous materials are manufactured or processed into specification grade commodities that are suitable for use as a replacement or substitute for virgin materials in manufacturing tangible consumer and commercial products, including packaging.
-- **(n)**
-  - **(1)** In the case of any qualified disaster assistance property—
-    - **(A)** the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of the qualified disaster assistance property, and
-    - **(B)** the adjusted basis of the qualified disaster assistance property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
-  - **(2)** For purposes of this subsection—
-    - **(A)** The term “qualified disaster assistance property” means any property—
-      - **(i)**
-        - **(I)** which is described in subsection (k)(2)(A)(i), or
-        - **(II)** which is nonresidential real property or residential rental property,
-      - **(ii)** substantially all of the use of which is—
-        - **(I)** in a disaster area with respect to a federally declared disaster occurring before January 1, 2010 , and
-        - **(II)** in the active conduct of a trade or business by the taxpayer in such disaster area,
-      - **(iii)** which—
-        - **(I)** rehabilitates property damaged, or replaces property destroyed or condemned, as a result of such federally declared disaster, except that, for purposes of this clause, property shall be treated as replacing property destroyed or condemned if, as part of an integrated plan, such property replaces property which is included in a continuous area which includes real property destroyed or condemned, and
-        - **(II)** is similar in nature to, and located in the same county as, the property being rehabilitated or replaced,
-      - **(iv)** the original use of which in such disaster area commences with an eligible taxpayer on or after the applicable disaster date,
-      - **(v)** which is acquired by such eligible taxpayer by purchase (as defined in section 179(d)) on or after the applicable disaster date, but only if no written binding contract for the acquisition was in effect before such date, and
-      - **(vi)** which is placed in service by such eligible taxpayer on or before the date which is the last day of the third calendar year following the applicable disaster date (the fourth calendar year in the case of nonresidential real property and residential rental property).
-    - **(B)**
-      - **(i)** The term “qualified disaster assistance property” shall not include—
-        - **(I)** any property to which subsection (k) (determined without regard to paragraph (4)), ( l ), or (m) applies,
-        - **(II)** any property to which section 1400N(d) applies, and
-        - **(III)** any property described in section 1400N(p)(3).
-      - **(ii)** The term “qualified disaster assistance property” shall not include any property to which the alternative depreciation system under subsection (g) applies, determined without regard to paragraph (7) of subsection (g) (relating to election to have system apply).
-      - **(iii)** Such term shall not include any property any portion of which is financed with the proceeds of any obligation the interest on which is exempt from tax under section 103.
-      - **(iv)** Such term shall not include any qualified revitalization building with respect to which the taxpayer has elected the application of paragraph (1) or (2) of section 1400I(a).
-      - **(v)** If a taxpayer makes an election under this clause with respect to any class of property for any taxable year, this subsection shall not apply to all property in such class placed in service during such taxable year.
-    - **(C)** For purposes of this subsection, rules similar to the rules of subparagraph (E) of subsection (k)(2) shall apply, except that such subparagraph shall be applied—
-      - **(i)** by substituting “the applicable disaster date” for “ December 31, 2007 ” each place it appears therein,
-      - **(ii)** without regard to “and before January 1, 2015 ” in clause (i) thereof, and
-      - **(iii)** by substituting “qualified disaster assistance property” for “qualified property” in clause (iv) thereof.
-    - **(D)** For purposes of this subsection, rules similar to the rules of subsection (k)(2)(G) shall apply.
-  - **(3)** For purposes of this subsection—
-    - **(A)** The term “applicable disaster date” means, with respect to any federally declared disaster, the date on which such federally declared disaster occurs.
-    - **(B)** The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). 3 3 See References in Text note below.
-    - **(C)** The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii). 3
-    - **(D)** The term “eligible taxpayer” means a taxpayer who has suffered an economic loss attributable to a federally declared disaster.
-  - **(4)** For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.

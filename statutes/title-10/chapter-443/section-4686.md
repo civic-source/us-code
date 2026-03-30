@@ -3,9 +3,9 @@ title: "Section 4686 - Obsolete ordnance: gift to State homes for soldiers and s
 usc_title: 10
 usc_section: "4686"
 chapter: 443
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 4686"
-generated_at: "2026-03-30T07:11:06.649Z"
+generated_at: "2026-03-30T07:14:57.830Z"
 status: "active"
 ---
 

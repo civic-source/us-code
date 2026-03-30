@@ -3,9 +3,9 @@ title: "Section 6213 - Restrictions applicable to deficiencies; petition to Tax 
 usc_title: 26
 usc_section: "6213"
 chapter: 63
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6213"
-generated_at: "2026-03-30T07:12:23.103Z"
+generated_at: "2026-03-30T07:15:39.127Z"
 status: "active"
 ---
 
@@ -49,12 +49,12 @@ status: "active"
       - **(ii)** the computation of the credit on the return reflects the treatment of such individual as being of an age different from the individual’s age based on such TIN,
     - **(M)** the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child,
     - **(N)** an omission of any increase required under section 36(f) with respect to the recapture of a credit allowed under section 36,
-    - **(O)** the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid 1 1 So in original. Probably should be followed by a comma.
-    - **(P)** an omission of information required by section 24(h)(2) 2 2 See References in Text note below. or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (h)(1) 2 thereof, and
-    - **(Q)** an omission of information required by section 25A(i)(8)(B) 2 or an entry on the return claiming the credit determined under section 25A(i) for a taxable year for which the credit is disallowed under paragraph (8)(A) 2 thereof.
+    - **(O)** the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid,
+    - **(P)** an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof, and
+    - **(Q)** an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A).
 - **(h)**
   - **(1)** For assessment as if a mathematical error on the return, in the case of erroneous claims for income tax prepayment credits, see section 6201(a)(3).
   - **(2)** For assessments without regard to restrictions imposed by this section in the case of—
     - **(A)** Recovery of foreign income taxes, see section 905(c).
     - **(B)** Recovery of foreign estate tax, see section 2016.
-  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 2
+  - **(3)** For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a). 1 1 See References in Text note below.

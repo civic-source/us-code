@@ -3,9 +3,9 @@ title: "Section 615b - Definitions"
 usc_title: 47
 usc_section: "615b"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 615b"
-generated_at: "2026-03-30T07:14:02.173Z"
+generated_at: "2026-03-30T07:16:15.784Z"
 status: "active"
 ---
 

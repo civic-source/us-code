@@ -3,9 +3,9 @@ title: "Section 857 - Taxation of real estate investment trusts and their benefi
 usc_title: 26
 usc_section: "857"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 857"
-generated_at: "2026-03-30T07:12:23.010Z"
+generated_at: "2026-03-30T07:15:39.032Z"
 status: "active"
 ---
 
@@ -103,7 +103,7 @@ status: "active"
       - **(i)** the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the 3 taxable year period ending with such taxable year, divided by
       - **(ii)** the sum of the fair market value of all of the assets of the trust as of the beginning of each of the 3 taxable years which are part of the period referred to in clause (i).
     - **(I)** In the case of a sale on or before the termination date, the sale of property which is not a prohibited transaction through the application of subparagraph (D) shall be considered property held for investment or for use in a trade or business and not property described in section 1221(a)(1) for all purposes of this subtitle. For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.
-    - **(J)** For purposes of this paragraph, the term “termination date” has the meaning given such term by section 856(c)(8). 1 1 See References in Text note below.
+    - **(J)** For purposes of this paragraph, the term “termination date” has the meaning given such term by section 856(c)(10).
   - **(7)**
     - **(A)** There is hereby imposed for each taxable year of the real estate investment trust a tax equal to 100 percent of redetermined rents, redetermined deductions, excess interest, and redetermined TRS service income.
     - **(B)**

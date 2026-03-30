@@ -1,15 +1,15 @@
 ---
-title: "Section 993 - Definitions"
+title: "Section 993 - Definitions and special rules"
 usc_title: 26
 usc_section: "993"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-30T07:12:23.025Z"
+generated_at: "2026-03-30T07:15:39.047Z"
 status: "active"
 ---
 
-# § 993. Definitions
+# § 993. Definitions and special rules
 
 - **(a)**
   - **(1)** For purposes of this part, except as provided by regulations under paragraph (2), the qualified export receipts of a corporation are—

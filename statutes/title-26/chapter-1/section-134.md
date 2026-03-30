@@ -3,9 +3,9 @@ title: "Section 134 - Certain military benefits"
 usc_title: 26
 usc_section: "134"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 134"
-generated_at: "2026-03-30T07:12:22.929Z"
+generated_at: "2026-03-30T07:15:38.945Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
     - **(C)** Subparagraph (A) shall not apply to any adjustment to the amount of death gratuity payable under chapter 75 of title 10, United States Code, which is pursuant to a provision of law enacted after September 9, 1986 .
   - **(4)** For purposes of paragraph (1), such term includes any dependent care assistance program (as in effect on the date of the enactment of this paragraph) for any individual described in paragraph (1)(A).
   - **(5)** The term “qualified military benefit” includes a travel benefit provided under section 2613 of title 10 , United States Code (as in effect on the date of the enactment of this paragraph).
-  - **(6)** The term “qualified military benefit” includes any bonus payment by a State or political subdivision thereof to any member or former member of the uniformed services of the United States or any dependent of such member only by reason of such member’s service in an 1 1 So in original. Probably should be “a”. combat zone (as defined in section 112(c)(2), determined without regard to the parenthetical).
+  - **(6)** The term “qualified military benefit” includes any bonus payment by a State or political subdivision thereof to any member or former member of the uniformed services of the United States or any dependent of such member only by reason of such member’s service in a combat zone (as defined in section 112(c)(2), determined without regard to the parenthetical).

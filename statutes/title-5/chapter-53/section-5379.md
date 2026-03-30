@@ -3,9 +3,9 @@ title: "Section 5379 - Student loan repayments"
 usc_title: 5
 usc_section: "5379"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "5 U.S.C. § 5379"
-generated_at: "2026-03-30T07:10:54.492Z"
+generated_at: "2026-03-30T07:14:45.617Z"
 status: "active"
 ---
 

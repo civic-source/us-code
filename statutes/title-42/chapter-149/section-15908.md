@@ -3,9 +3,9 @@ title: "Section 15908 - Preservation of geological and geophysical data"
 usc_title: 42
 usc_section: "15908"
 chapter: 149
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 15908"
-generated_at: "2026-03-30T07:13:46.167Z"
+generated_at: "2026-03-30T07:16:11.624Z"
 status: "active"
 ---
 

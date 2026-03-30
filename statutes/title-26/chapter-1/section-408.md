@@ -3,16 +3,16 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T07:12:22.966Z"
+generated_at: "2026-03-30T07:15:38.985Z"
 status: "active"
 ---
 
 # § 408. Individual retirement accounts
 
 - **(a)** For purposes of this section, the term “individual retirement account” means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries, but only if the written governing instrument creating the trust meets the following requirements:
-  - **(1)** Except in the case of a rollover contribution described in subsection (d)(3) in 1 1 So in original. section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
+  - **(1)** Except in the case of a rollover contribution described in subsection (d)(3) or in section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
   - **(2)** The trustee is a bank (as defined in subsection (n)) or such other person who demonstrates to the satisfaction of the Secretary that the manner in which such other person will administer the trust will be consistent with the requirements of this section.
   - **(3)** No part of the trust funds will be invested in life insurance contracts.
   - **(4)** The interest of an individual in the balance in his account is nonforfeitable.
@@ -202,7 +202,7 @@ status: "active"
       - **(ii)** a silver coin described in section 5112(e) of title 31 , United States Code,
       - **(iii)** a platinum coin described in section 5112(k) of title 31 , United States Code, or
       - **(iv)** a coin issued under the laws of any State, or
-    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7 ) 3 3 See References in Text note below. requires for metals which may be delivered in satisfaction of a regulated futures contract,
+    - **(B)** any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 5 of the Commodity Exchange Act, 7 U.S.C. 7 ) requires for metals which may be delivered in satisfaction of a regulated futures contract,
 - **(n)** For purposes of subsection (a)(2), the term “bank” means—
   - **(1)** any bank (as defined in section 581),
   - **(2)** an insured credit union (within the meaning of paragraph (6) or (7) of section 101 of the Federal Credit Union Act), and

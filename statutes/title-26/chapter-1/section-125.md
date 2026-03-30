@@ -3,9 +3,9 @@ title: "Section 125 - Cafeteria plans"
 usc_title: 26
 usc_section: "125"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 125"
-generated_at: "2026-03-30T07:12:22.928Z"
+generated_at: "2026-03-30T07:15:38.943Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
     - **(B)** a shareholder owning more than 5 percent of the voting power or value of all classes of stock of the employer,
     - **(C)** highly compensated, or
     - **(D)** a spouse or dependent (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of an individual described in subparagraph (A), (B), or (C).
-  - **(2)** The term “highly compensated individual” means an individual who is described in subparagraphs 1 1 So in original. Probably should be “subparagraph”. (A), (B), (C), or (D) of paragraph (1).
+  - **(2)** The term “highly compensated individual” means an individual who is described in subparagraph (A), (B), (C), or (D) of paragraph (1).
 - **(f)** For purposes of this section—
   - **(1)** The term “qualified benefit” means any benefit which, with the application of subsection (a), is not includible in the gross income of the employee by reason of an express provision of this chapter (other than section 106(b), 117, 127, or 132). Such term includes any group term life insurance which is includible in gross income only because it exceeds the dollar limitation of section 79 and such term includes any other benefit permitted under regulations.
   - **(2)** The term “qualified benefit” shall not include any product which is advertised, marketed, or offered as long-term care insurance.

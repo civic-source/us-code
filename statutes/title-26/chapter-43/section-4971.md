@@ -3,9 +3,9 @@ title: "Section 4971 - Taxes on failure to meet minimum funding standards"
 usc_title: 26
 usc_section: "4971"
 chapter: 43
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 4971"
-generated_at: "2026-03-30T07:12:23.075Z"
+generated_at: "2026-03-30T07:15:39.096Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(c)** For purposes of this section—
   - **(1)** The term “accumulated funding deficiency” has the meaning given to such term by section 431.
   - **(2)** The term “correct” means, with respect to an accumulated funding deficiency or CSEC accumulated funding deficiency, the contribution, to or under the plan, of the amount necessary to reduce such accumulated funding deficiency or CSEC accumulated funding deficiency as of the end of a plan year in which such deficiency arose to zero.
-  - **(3)** The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable 1 1 So in original. Probably should be followed by a comma. and ending on the earlier of—
+  - **(3)** The term “taxable period” means, with respect to an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, the period beginning with the end of the plan year in which there is an accumulated funding deficiency, CSEC accumulated funding deficiency, or unpaid minimum required contribution, whichever is applicable, and ending on the earlier of—
     - **(A)** the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a), or
     - **(B)** the date on which the tax imposed by subsection (a) is assessed.
   - **(4)**
@@ -40,7 +40,7 @@ status: "active"
 - **(f)**
   - **(1)** In the case of a plan to which section 430(j)(4) or 433(f) applies, there is hereby imposed a tax of 10 percent of the excess (if any) of—
     - **(A)** the amount of the liquidity shortfall for any quarter, over
-    - **(B)** the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable 1 for such quarter (but only if such installment is paid on or before the due date for such installment).
+    - **(B)** the amount of such shortfall which is paid by the required installment under section 430(j) or 433(f), whichever is applicable, for such quarter (but only if such installment is paid on or before the due date for such installment).
   - **(2)** If the plan has a liquidity shortfall as of the close of any quarter and as of the close of each of the following 4 quarters, there is hereby imposed a tax equal to 100 percent of the amount on which tax was imposed by paragraph (1) for such first quarter.
   - **(3)**
     - **(A)** For purposes of this subsection, the terms “liquidity shortfall” and “quarter” have the respective meanings given such terms by section 430(j) or 433(f), whichever is applicable.
@@ -68,7 +68,7 @@ status: "active"
       - **(ii)** the amount equal to $1,100 multiplied by the number of days during the taxable year which are included in the period beginning on the day following the close of the 240-day period described in section 432(e)(1)(A) and ending on the day on which the rehabilitation plan is adopted.
     - **(C)**
       - **(i)** The tax imposed by subparagraph (A) shall be paid by each plan sponsor.
-      - **(ii)** For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9). 2
+      - **(ii)** For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(j)(9).
   - **(5)** In the case of a failure described in paragraph (2) or (3) which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by this subsection. For purposes of this paragraph, reasonable cause includes unanticipated and material market fluctuations, the loss of a significant contributing employer, or other factors to the extent that the payment of tax under this subsection with respect to the failure would be excessive or otherwise inequitable relative to the failure involved.
   - **(6)** For purposes of this subsection, any term used in this subsection which is also used in section 432 shall have the meaning given such term by section 432.
 - **(h)**

@@ -3,9 +3,9 @@ title: "Section 6371e - Grants for project costs and technical assistance"
 usc_title: 42
 usc_section: "6371e"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 6371e"
-generated_at: "2026-03-30T07:13:45.996Z"
+generated_at: "2026-03-30T07:16:11.349Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 505 - Army and Air Force schools and field exercises"
 usc_title: 32
 usc_section: "505"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "32 U.S.C. § 505"
-generated_at: "2026-03-30T07:12:27.185Z"
+generated_at: "2026-03-30T07:15:40.714Z"
 status: "active"
 ---
 

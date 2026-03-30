@@ -3,9 +3,9 @@ title: "Section 505 - Opinions of Attorney General"
 usc_title: 38
 usc_section: "505"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "38 U.S.C. § 505"
-generated_at: "2026-03-30T07:12:54.403Z"
+generated_at: "2026-03-30T07:15:51.155Z"
 status: "active"
 ---
 

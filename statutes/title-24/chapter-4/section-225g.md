@@ -3,9 +3,9 @@ title: "Section 225g - Financing provisions"
 usc_title: 24
 usc_section: "225g"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "24 U.S.C. § 225g"
-generated_at: "2026-03-30T07:11:58.270Z"
+generated_at: "2026-03-30T07:15:26.033Z"
 status: "active"
 ---
 

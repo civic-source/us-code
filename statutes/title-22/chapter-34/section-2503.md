@@ -3,9 +3,9 @@ title: "Section 2503 - Director and Deputy Director; delegation of functions"
 usc_title: 22
 usc_section: "2503"
 chapter: 34
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2503"
-generated_at: "2026-03-30T07:12:12.249Z"
+generated_at: "2026-03-30T07:15:29.013Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6067 - Sense of Congress"
 usc_title: 20
 usc_section: "6067"
 chapter: 68
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 6067"
-generated_at: "2026-03-30T07:11:45.071Z"
+generated_at: "2026-03-30T07:15:17.728Z"
 status: "active"
 ---
 

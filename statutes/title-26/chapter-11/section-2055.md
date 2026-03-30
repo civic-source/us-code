@@ -3,9 +3,9 @@ title: "Section 2055 - Transfers for public, charitable, and religious uses"
 usc_title: 26
 usc_section: "2055"
 chapter: 11
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 2055"
-generated_at: "2026-03-30T07:12:23.053Z"
+generated_at: "2026-03-30T07:15:39.071Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
     - **(D)** For purposes of this paragraph, the term “qualified interest” means an interest for which a deduction is allowable under subsection (a).
     - **(E)** The deduction referred to in subparagraph (A) shall not exceed the amount of the deduction which would have been allowable for the reformable interest but for paragraph (2).
     - **(F)** If (by reason of the death of any individual, or by termination or distribution of a trust in accordance with the terms of the trust instrument) by the due date for filing the estate tax return (including any extension thereof) a reformable interest is in a wholly charitable trust or passes directly to a person or for a use described in subsection (a), a deduction shall be allowed for such reformable interest as if it had met the requirements of paragraph (2) on the date of the decedent’s death. For purposes of the preceding sentence, the term “wholly charitable trust” means a charitable trust which, upon the allowance of a deduction, would be described in section 4947(a)(1).
-    - **(G)** The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J) 1 1 So in original. Probably should be followed by an additional closing parenthesis. has occurred.
+    - **(G)** The period for assessing any deficiency of any tax attributable to the application of this paragraph shall not expire before the date 1 year after the date on which the Secretary is notified that such reformation (or other proceeding pursuant to subparagraph (J)) has occurred.
     - **(H)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing such adjustments in the application of the provisions of section 508 (relating to special rules relating to section 501(c)(3) organizations), subchapter J (relating to estates, trusts, beneficiaries, and decedents), and chapter 42 (relating to private foundations) as may be necessary by reason of the qualified reformation.
     - **(I)** The Secretary shall prescribe regulations (consistent with the provisions of this paragraph) permitting reformations in the case of any failure—
       - **(i)** to meet the requirements of section 170(f)(3)(B) (relating to remainder interests in personal residence or farm, etc.), or

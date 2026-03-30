@@ -3,9 +3,9 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-30T07:13:45.983Z"
+generated_at: "2026-03-30T07:16:11.327Z"
 status: "active"
 ---
 
@@ -46,8 +46,8 @@ status: "active"
   - **(2)** Petroleum products from the Reserve may not be drawn down under this subsection—
     - **(A)** in excess of an aggregate of 30,000,000 barrels with respect to each such shortage;
     - **(B)** for more than 60 days with respect to each such shortage;
-    - **(C)** if there are fewer than 350,000,000 barrels of petroleum product stored in the Reserve; or
-    - **(D)** below the level of an aggregate of 350,000,000 barrels of petroleum product stored in the Reserve.
+    - **(C)** if there are fewer than 340,000,000 barrels of petroleum product stored in the Reserve; or
+    - **(D)** below the level of an aggregate of 340,000,000 barrels of petroleum product stored in the Reserve.
   - **(3)** During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
   - **(4)** In no case may the drawdown under this subsection be extended beyond 60 days with respect to any domestic energy supply shortage.
 - **(i)** Notwithstanding any other law, the President may permit any petroleum products withdrawn from the Strategic Petroleum Reserve in accordance with this section to be sold and delivered for refining or exchange outside of the United States, in connection with an arrangement for the delivery of refined petroleum products to the United States.

@@ -3,9 +3,9 @@ title: "Section 936 - Regulations and reports"
 usc_title: 30
 usc_section: "936"
 chapter: 22
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "30 U.S.C. § 936"
-generated_at: "2026-03-30T07:12:16.443Z"
+generated_at: "2026-03-30T07:15:31.394Z"
 status: "active"
 ---
 

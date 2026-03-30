@@ -3,9 +3,9 @@ title: "Section 47106 - Project grant application approval conditioned on satisf
 usc_title: 49
 usc_section: "47106"
 chapter: 471
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 47106"
-generated_at: "2026-03-30T07:14:01.775Z"
+generated_at: "2026-03-30T07:16:21.588Z"
 status: "active"
 ---
 

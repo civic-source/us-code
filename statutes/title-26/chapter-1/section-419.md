@@ -3,9 +3,9 @@ title: "Section 419 - Treatment of funded welfare benefit plans"
 usc_title: 26
 usc_section: "419"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 419"
-generated_at: "2026-03-30T07:12:22.975Z"
+generated_at: "2026-03-30T07:15:38.994Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(B)** section 404 applies (determined without regard to section 404(b)(2)), or
     - **(C)** section 404A applies.
   - **(3)** The term “fund” means—
-    - **(A)** any organization described in paragraph (7), (9), (17), or (20) 1 1 See References in Text note below. of section 501(c),
+    - **(A)** any organization described in paragraph (7), (9), or (17) of section 501(c),
     - **(B)** any trust, corporation, or other organization not exempt from the tax imposed by this chapter, and
     - **(C)** to the extent provided in regulations, any account held for an employer by any person.
   - **(4)**

@@ -3,9 +3,9 @@ title: "Section 4001 - Definitions"
 usc_title: 25
 usc_section: "4001"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "25 U.S.C. § 4001"
-generated_at: "2026-03-30T07:11:58.194Z"
+generated_at: "2026-03-30T07:15:26.756Z"
 status: "active"
 ---
 

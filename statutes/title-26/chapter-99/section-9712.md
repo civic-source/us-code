@@ -3,9 +3,9 @@ title: "Section 9712 - Establishment and coverage of 1992 UMWA Benefit Plan"
 usc_title: 26
 usc_section: "9712"
 chapter: 99
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 9712"
-generated_at: "2026-03-30T07:12:23.139Z"
+generated_at: "2026-03-30T07:15:39.166Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(A)** The 1992 UMWA Benefit Plan shall include any amount transferred to the plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ).
     - **(B)** Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in subsection (c) with respect to any beneficiary for whom no monthly per beneficiary premium is paid pursuant to paragraph (1)(A) or (3) of subsection (d).
   - **(4)**
-    - **(A)** The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232(h)(2)(C) ) shall include any amount transferred to the plan under subsections (h) and (i) of 1 1 So in original. Probably should be followed by “section 402 of”. the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ).
+    - **(A)** The plan described in section 402(h)(2)(C) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232(h)(2)(C) ) shall include any amount transferred to the plan under subsections (h) and (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232 ).
     - **(B)** Any amount transferred under subparagraph (A) for any fiscal year shall be used to provide the health benefits described in section 402(h)(2)(C)(i) of the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1232(h)(2)(C)(i) ) to individuals described in section 402(h)(2)(C) of such Act ( 30 U.S.C. 1232(h)(2)(C) ).
 - **(b)**
   - **(1)** The 1992 UMWA Benefit Plan shall only provide health benefits coverage to any eligible beneficiary who is not eligible for benefits under the Combined Fund and shall not provide such coverage to any other individual.

@@ -3,9 +3,9 @@ title: "Section 415 - Limitations on benefits and contribution under qualified p
 usc_title: 26
 usc_section: "415"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 415"
-generated_at: "2026-03-30T07:12:22.973Z"
+generated_at: "2026-03-30T07:15:38.992Z"
 status: "active"
 ---
 
@@ -142,7 +142,7 @@ status: "active"
   - **(2)** Notwithstanding paragraph (1) and subsection (g), a multiemployer plan (as defined in section 414(f)) shall not be combined or aggregated—
     - **(A)** with any other plan which is not a multiemployer plan for purposes of applying subsection (b)(1)(B) to such other plan, or
     - **(B)** with any other multiemployer plan for purposes of applying the limitations established in this section.
-- **(g)** Except as provided in subsection (f)(3), 1 1 See References in Text note below. the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
+- **(g)** Except as provided in subsection (f)(2), the Secretary, in applying the provisions of this section to benefits or contributions under more than one plan maintained by the same employer, and to any trusts, contracts, accounts, or bonds referred to in subsection (a)(2), with respect to which the participant has the control required under section 414(b) or (c), as modified by subsection (h), shall, under regulations prescribed by the Secretary, disqualify one or more trusts, plans, contracts, accounts, or bonds, or any combination thereof until such benefits or contributions do not exceed the limitations contained in this section. In addition to taking into account such other factors as may be necessary to carry out the purposes of subsection (f), the regulations prescribed under this paragraph shall provide that no plan which has been terminated shall be disqualified until all other trusts, plans, contracts, accounts, or bonds have been disqualified.
 - **(h)** For purposes of applying subsections (b) and (c) of section 414 to this section, the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears in section 1563(a)(1).
 - **(i)** Where for the period before January 1, 1976 , or (if later) the first day of the first plan year of the plan, the records necessary for the application of this section are not available, the Secretary may by regulations prescribe alternate methods for determining the amounts to be taken into account for such period.
 - **(j)** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including, but not limited to, regulations defining the term “year” for purposes of any provision of this section.

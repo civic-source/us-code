@@ -3,9 +3,9 @@ title: "Section 6911 - Transfer of Department functions to Secretary of Agricult
 usc_title: 7
 usc_section: "6911"
 chapter: 98
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 6911"
-generated_at: "2026-03-30T07:11:01.993Z"
+generated_at: "2026-03-30T07:15:04.510Z"
 status: "active"
 ---
 

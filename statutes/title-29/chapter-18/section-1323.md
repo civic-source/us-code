@@ -3,9 +3,9 @@ title: "Section 1323 - Plan fiduciaries"
 usc_title: 29
 usc_section: "1323"
 chapter: 18
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 1323"
-generated_at: "2026-03-30T07:12:16.128Z"
+generated_at: "2026-03-30T07:15:34.232Z"
 status: "active"
 ---
 

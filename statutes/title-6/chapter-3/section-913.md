@@ -3,9 +3,9 @@ title: "Section 913 - Facility exercise requirements"
 usc_title: 6
 usc_section: "913"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "6 U.S.C. § 913"
-generated_at: "2026-03-30T07:11:13.410Z"
+generated_at: "2026-03-30T07:14:47.597Z"
 status: "active"
 ---
 

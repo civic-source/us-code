@@ -3,9 +3,9 @@ title: "Section 23 - Adoption expenses"
 usc_title: 26
 usc_section: "23"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 23"
-generated_at: "2026-03-30T07:12:22.903Z"
+generated_at: "2026-03-30T07:15:38.917Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
     - **(A)** No credit shall be allowed under subsection (a) for any expense for which a deduction or credit is allowed under any other provision of this chapter.
     - **(B)** No credit shall be allowed under subsection (a) for any expense to the extent that funds for such expense are received under any Federal, State, or local program.
 - **(c)**
-  - **(1)** If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 25D and 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+  - **(1)** If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
   - **(2)** No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 - **(d)** For purposes of this section—
   - **(1)** The term “qualified adoption expenses” means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses—

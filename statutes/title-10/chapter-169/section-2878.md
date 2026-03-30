@@ -3,9 +3,9 @@ title: "Section 2878 - Conveyance or lease of existing property and facilities"
 usc_title: 10
 usc_section: "2878"
 chapter: 169
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2878"
-generated_at: "2026-03-30T07:11:06.640Z"
+generated_at: "2026-03-30T07:14:57.822Z"
 status: "active"
 ---
 

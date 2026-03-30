@@ -3,9 +3,9 @@ title: "Section 6049 - Returns regarding payments of interest"
 usc_title: 26
 usc_section: "6049"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6049"
-generated_at: "2026-03-30T07:12:23.095Z"
+generated_at: "2026-03-30T07:15:39.117Z"
 status: "active"
 ---
 
@@ -92,7 +92,7 @@ status: "active"
     - **(C)** Except as otherwise provided in regulations, any return or statement required to be filed or furnished under this section with respect to interest income described in subparagraph (A) and interest on any other debt instrument to which section 1272(a)(6) applies shall also provide information setting forth the adjusted issue price of the interest to which the return or statement relates at the beginning of each accrual period with respect to which interest income is required to be reported on such return or statement and information necessary to compute accrual of market discount.
     - **(D)** The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
   - **(8)**
-    - **(A)** For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54(g) 1 1 See References in Text note below. or 1400N( l )(6) and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4) 1 or 1400N( l )(2)(D), as the case may be).
+    - **(A)** For purposes of subsection (a), the term “interest” includes amounts includible in gross income under section 54(g) 1 1 See References in Text note below. and such amounts shall be treated as paid on the credit allowance date (as defined in section 54(b)(4)). 1
     - **(B)** Except as otherwise provided in regulations, in the case of any interest described in subparagraph (A), subsection (b)(4) shall be applied without regard to subparagraphs (A), (H), (I), (J), (K), and (L)(i) of such subsection.
     - **(C)** The Secretary may prescribe such regulations as are necessary or appropriate to carry out the purposes of this paragraph, including regulations which require more frequent or more detailed reporting.
   - **(9)**

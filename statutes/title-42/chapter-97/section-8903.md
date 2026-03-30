@@ -3,9 +3,9 @@ title: "Section 8903 - Comprehensive research plan"
 usc_title: 42
 usc_section: "8903"
 chapter: 97
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 8903"
-generated_at: "2026-03-30T07:13:46.070Z"
+generated_at: "2026-03-30T07:16:11.468Z"
 status: "active"
 ---
 

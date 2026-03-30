@@ -3,9 +3,9 @@ title: "Section 4507 - Longevity compensation"
 usc_title: 2
 usc_section: "4507"
 chapter: 45
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 4507"
-generated_at: "2026-03-30T07:10:50.406Z"
+generated_at: "2026-03-30T07:14:20.289Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** Office of the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
     - **(C)** Offices of the Secretaries for the Majority and the Minority;
   - **(2)** each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
-  - **(3)** each employee of the Capitol Guide Service established under section 2166 1 1 See References in Text note below. of this title.
+  - **(3)** each employee of the Capitol Guide Service established under section 2166 2 2 See References in Text note below. of this title.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), an employee to whom this section applies shall be paid, during any period of continuous creditable service, additional annual compensation (hereinafter referred to as “longevity compensation”) at the rate of $482 for (A) each year of creditable service performed for the first five years and (B) each two years of creditable service performed during the twenty-year period following the first five years.
   - **(2)** The amount of longevity compensation which may be paid to an employee, when added to his regular annual compensation, shall not exceed the maximum annual compensation which may be paid to Senate employees generally as prescribed by law or orders of the President pro tempore issued under authority of section 4571 of this title .

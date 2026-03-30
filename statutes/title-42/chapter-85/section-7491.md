@@ -3,9 +3,9 @@ title: "Section 7491 - Visibility protection for Federal class I areas"
 usc_title: 42
 usc_section: "7491"
 chapter: 85
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 7491"
-generated_at: "2026-03-30T07:13:46.032Z"
+generated_at: "2026-03-30T07:16:11.410Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5105 - Joint applications for social security and dependency and
 usc_title: 38
 usc_section: "5105"
 chapter: 51
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "38 U.S.C. § 5105"
-generated_at: "2026-03-30T07:12:54.437Z"
+generated_at: "2026-03-30T07:15:51.196Z"
 status: "active"
 ---
 

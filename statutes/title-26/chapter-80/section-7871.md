@@ -3,9 +3,9 @@ title: "Section 7871 - Indian tribal governments treated as States for certain p
 usc_title: 26
 usc_section: "7871"
 chapter: 80
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 7871"
-generated_at: "2026-03-30T07:12:23.134Z"
+generated_at: "2026-03-30T07:15:39.160Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
       - **(i)** The employment requirements of this subparagraph are met with respect to a facility financed by the net proceeds of an issue if, as of the close of each calendar year in the testing period, the aggregate face amount of all outstanding tax-exempt private activity bonds issued to provide financing for the establishment which includes such facility is not more than 20 times greater than the aggregate wages (as defined by section 3121(a)) paid during the preceding calendar year to individuals (who are enrolled members of the Indian tribe of the issuer or the spouse of any such member) for services rendered at such establishment.
       - **(ii)**
         - **(I)** If, as of the close of any calendar year in the testing period, the requirements of this subparagraph are not met with respect to an establishment, section 103 shall cease to apply to interest received or accrued (on all private activity bonds issued to provide financing for the establishment) after the close of such calendar year.
-        - **(II)** Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calender 1 1 So in original. Probably should be “calendar”. year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
+        - **(II)** Subclause (I) shall not apply if the requirements of this subparagraph would be met if the aggregate face amount of all tax-exempt private activity bonds issued to provide financing for the establishment and outstanding at the close of the 90th day after the close of the calendar year were substituted in clause (i) for such bonds outstanding at the close of such calendar year.
       - **(iii)** For purposes of this subparagraph, the term “testing period” means, with respect to an issue, each calendar year which begins more than 2 years after the date of issuance of the issue (or, in the case of a refunding obligation, the date of issuance of the original issue).
     - **(E)** For purposes of this paragraph—
       - **(i)** The term “qualified Indian lands” means land which is held in trust by the United States for the benefit of an Indian tribe.

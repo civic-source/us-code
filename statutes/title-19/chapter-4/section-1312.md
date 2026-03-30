@@ -3,9 +3,9 @@ title: "Section 1312 - Bonded smelting and refining warehouses"
 usc_title: 19
 usc_section: "1312"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 1312"
-generated_at: "2026-03-30T07:11:54.941Z"
+generated_at: "2026-03-30T07:15:15.996Z"
 status: "active"
 ---
 

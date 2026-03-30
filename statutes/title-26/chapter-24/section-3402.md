@@ -3,9 +3,9 @@ title: "Section 3402 - Income tax collected at source"
 usc_title: 26
 usc_section: "3402"
 chapter: 24
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 3402"
-generated_at: "2026-03-30T07:12:23.062Z"
+generated_at: "2026-03-30T07:15:39.082Z"
 status: "active"
 ---
 
@@ -116,7 +116,7 @@ status: "active"
 - **(p)**
   - **(1)**
     - **(A)** If, at the time a specified Federal payment is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee.
-    - **(B)** The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c), or such other percentage as is permitted under regulations prescribed by the Secretary.
+    - **(B)** The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c), 1 or such other percentage as is permitted under regulations prescribed by the Secretary.
     - **(C)** For purposes of this paragraph, the term “specified Federal payment” means—
       - **(i)** any payment of a social security benefit (as defined in section 86(d)),
       - **(ii)** any payment referred to in the second sentence of section 451(d) 1 which is treated as insurance proceeds,
@@ -128,7 +128,7 @@ status: "active"
     - **(A)** from remuneration for services performed by an employee for the employee’s employer which (without regard to this paragraph) does not constitute wages, and
     - **(B)** from any other type of payment with respect to which the Secretary finds that withholding would be appropriate under the provisions of this chapter,
 - **(q)**
-  - **(1)** Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) and such payment.
+  - **(1)** Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) 1 and such payment.
   - **(2)** In the case of any payment of winnings which are subject to withholding made to a nonresident alien individual or a foreign corporation, the tax imposed under paragraph (1) shall not apply to any such payment subject to tax under section 1441(a) (relating to withholding on nonresident aliens) or tax under section 1442(a) (relating to withholding on foreign corporations).
   - **(3)** For purposes of this subsection, the term “winnings which are subject to withholding” means proceeds from a wager determined in accordance with the following:
     - **(A)** Except as provided in subparagraphs (B) and (C), proceeds of more than $5,000 from a wagering transaction, if the amount of such proceeds is at least 300 times as large as the amount wagered.
@@ -147,7 +147,7 @@ status: "active"
   - **(2)** The tax imposed by paragraph (1) shall not apply to any payment to the extent that the payment, when annualized, does not exceed an amount equal to the sum of—
     - **(A)** the basic standard deduction (as defined in section 63(c)) for an individual to whom section 63(c)(2)(C) 1 applies, and
     - **(B)** the exemption amount (as defined in section 151(d)).
-  - **(3)** For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c)) on an amount of taxable income equal to the excess of—
+  - **(3)** For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) 1 (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c) 1 ) on an amount of taxable income equal to the excess of—
     - **(A)** the annualized amount of such payment, over
     - **(B)** the amount determined under paragraph (2).
   - **(4)** For purposes of this subsection, terms used in paragraph (1) which are defined in section 4 of the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.), as in effect on the date of the enactment of this subsection, shall have the respective meanings given such terms by such section.

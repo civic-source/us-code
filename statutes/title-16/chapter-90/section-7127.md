@@ -3,9 +3,9 @@ title: "Section 7127 - Availability of project funds"
 usc_title: 16
 usc_section: "7127"
 chapter: 90
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 7127"
-generated_at: "2026-03-30T07:11:43.331Z"
+generated_at: "2026-03-30T07:15:21.109Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
 - **(c)** Subject to section 7128 of this title , any project funds reserved by a participating county in the preceding fiscal year that are unobligated at the end of a fiscal year because the Secretary concerned has rejected one or more proposed projects shall be available for use as part of the project submissions in the next fiscal year.
 - **(d)**
   - **(1)** If an approved project under this chapter is enjoined or prohibited by a Federal court, the Secretary concerned shall return the unobligated project funds related to the project to the participating county or counties that reserved the funds.
-  - **(2)** The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under subparagraph (B) or (C)(i) of section 7112(d)(1) of this title .
+  - **(2)** The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under subparagraph (B)(i), (B)(ii), or (C)(i) of section 7112(d)(1) of this title .

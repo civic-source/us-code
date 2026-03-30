@@ -3,9 +3,9 @@ title: "Section 6033 - Returns by exempt organizations"
 usc_title: 26
 usc_section: "6033"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6033"
-generated_at: "2026-03-30T07:12:23.091Z"
+generated_at: "2026-03-30T07:15:39.113Z"
 status: "active"
 ---
 
@@ -55,10 +55,10 @@ status: "active"
     - **(B)** reimbursements paid by the organization during the taxable year with respect to taxes imposed under such section,
   - **(12)** such information as the Secretary may require with respect to any excess benefit transaction (as defined in section 4958),
   - **(13)** such information with respect to disqualified persons as the Secretary may prescribe,
-  - **(14)** such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies,
+  - **(14)** such information as the Secretary may require with respect to disaster relief activities,
   - **(15)** in the case of an organization to which the requirements of section 501(r) apply for the taxable year—
     - **(A)** a description of how the organization is addressing the needs identified in each community health needs assessment conducted under section 501(r)(3) and a description of any such needs that are not being addressed together with the reasons why such needs are not being addressed, and
-    - **(B)** the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement). 1 1 So in original. The period probably should be “, and”.
+    - **(B)** the audited financial statements of such organization (or, in the case of an organization the financial statements of which are included in a consolidated financial statement with other organizations, such consolidated financial statement), and
   - **(16)** such other information for purposes of carrying out the internal revenue laws as the Secretary may require.
 - **(c)** In the case of an organization which is a private foundation (within the meaning of section 509(a))—
   - **(1)** the Secretary shall by regulations provide that the private foundation shall include in its annual return under this section such information (not required to be furnished by subsection (b) or the forms or regulations prescribed thereunder) as would have been required to be furnished under section 6056 (relating to annual reports by private foundations) as such section 6056 was in effect on January 1, 1979 , and

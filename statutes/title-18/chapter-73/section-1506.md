@@ -3,9 +3,9 @@ title: "Section 1506 - Theft or alteration of record or process; false bail"
 usc_title: 18
 usc_section: "1506"
 chapter: 73
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 1506"
-generated_at: "2026-03-30T07:11:47.916Z"
+generated_at: "2026-03-30T07:15:18.760Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1223 - Holding period of property"
 usc_title: 26
 usc_section: "1223"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1223"
-generated_at: "2026-03-30T07:12:23.031Z"
+generated_at: "2026-03-30T07:15:39.053Z"
 status: "active"
 ---
 
@@ -32,6 +32,6 @@ For purposes of this subtitle—
     - **(C)** such sale or disposition is to a person who is a qualified heir (as defined in section 2032A(e)(1)) with respect to the decedent,
   - **(11)** In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
   - **(12)** In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
-  - **(13)** Except for purposes of sections 1202(a)(2), 1202(c)(2)(A), 1400B(b), and 1400F(b), in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
+  - **(13)** Except for purposes of subsections (a)(2) and (c)(2)(A) of section 1202, in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
   - **(14)** If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
   - **(15)** For special holding period provision relating to certain partnership distributions, see section 735(b).

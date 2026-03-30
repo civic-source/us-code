@@ -3,9 +3,9 @@ title: "Section 227 - Restrictions on use of telephone equipment"
 usc_title: 47
 usc_section: "227"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 227"
-generated_at: "2026-03-30T07:14:02.150Z"
+generated_at: "2026-03-30T07:16:15.747Z"
 status: "active"
 ---
 
@@ -122,7 +122,7 @@ status: "active"
       - **(ii)** The regulations required under subparagraph (A) shall exempt from the prohibition under paragraph (1) transmissions in connection with—
         - **(I)** any authorized activity of a law enforcement agency; or
         - **(II)** a court order that specifically authorizes the use of caller identification manipulation.
-  - **(4)** Not later than 6 months after December 22, 2010 , the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+  - **(4)**
   - **(5)**
     - **(A)**
       - **(i)** Any person that is determined by the Commission, in accordance with paragraphs (3) and (4) of section 503(b) of this title , to have violated this subsection shall be liable to the United States for a forfeiture penalty. A forfeiture penalty under this paragraph shall be in addition to any other penalty provided for by this chapter. The amount of the forfeiture penalty determined under this paragraph shall not exceed $10,000 for each violation, or 3 times that amount for each day of a continuing violation, except that the amount assessed for any continuing violation shall not exceed a total of $1,000,000 for any single act or failure to act.

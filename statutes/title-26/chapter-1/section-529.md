@@ -3,9 +3,9 @@ title: "Section 529 - Qualified tuition programs"
 usc_title: 26
 usc_section: "529"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 529"
-generated_at: "2026-03-30T07:12:22.994Z"
+generated_at: "2026-03-30T07:15:39.015Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
     - **(B)** The taxes imposed by chapters 12 and 13 shall apply to a transfer by reason of a change in the designated beneficiary under the program (or a rollover to the account of a new beneficiary) unless the new beneficiary is—
       - **(i)** assigned to the same generation as (or a higher generation than) the old beneficiary (determined in accordance with section 2651), and
       - **(ii)** a member of the family of the old beneficiary.
-  - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from an 1 1 So in original. Probably should be “a”. Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
+  - **(6)** The tax imposed by section 530(d)(4) shall apply to any payment or distribution from a qualified tuition program in the same manner as such tax applies to a payment or distribution from a Coverdell education savings account. This paragraph shall not apply to any payment or distribution in any taxable year beginning before January 1, 2004 , which is includible in gross income but used for qualified higher education expenses of the designated beneficiary.
   - **(7)** Any reference in this subsection to the term “qualified higher education expense” shall include a reference to expenses for tuition in connection with enrollment or attendance at an elementary or secondary public, private, or religious school.
 - **(d)** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
@@ -79,8 +79,8 @@ status: "active"
     - **(D)** any first cousin of such beneficiary.
   - **(3)**
     - **(A)** The term “qualified higher education expenses” means—
-      - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution;
-      - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance 2 2 So in original. Probably should be followed by “; and”.
+      - **(i)** tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution,
+      - **(ii)** expenses for special needs services in the case of a special needs beneficiary which are incurred in connection with such enrollment or attendance, and
       - **(iii)** expenses for the purchase of computer or peripheral equipment (as defined in section 168(i)(2)(B)), computer software (as defined in section 197(e)(3)(B)), or Internet access and related services, if such equipment, software, or services are to be used primarily by the beneficiary during any of the years the beneficiary is enrolled at an eligible educational institution.
     - **(B)**
       - **(i)** In the case of an individual who is an eligible student (as defined in section 25A(b)(3)) for any academic period, such term shall also include reasonable costs for such period (as determined under the qualified tuition program) incurred by the designated beneficiary for room and board while attending such institution. For purposes of subsection (b)(6), a designated beneficiary shall be treated as meeting the requirements of this clause.

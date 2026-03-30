@@ -3,9 +3,9 @@ title: "Section 47124 - Agreements for State and local operation of airport faci
 usc_title: 49
 usc_section: "47124"
 chapter: 471
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 47124"
-generated_at: "2026-03-30T07:14:01.777Z"
+generated_at: "2026-03-30T07:16:21.591Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(vi)** Air traffic control towers located at airports with safety or operational problems related to topography, weather, runway configuration, or mix of aircraft.
       - **(vii)** Air traffic control towers located at an airport at which the community has been operating the tower at its own expense.
     - **(D)** If the costs of operating an air traffic tower under the program exceed the benefits, the airport sponsor or State or local government having jurisdiction over the airport shall pay the portion of the costs that exceed such benefit, with the maximum allowable local cost share capped at 20 percent.
-    - **(E)** Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2017 and not more than $5,160,822 for the period beginning on October 1, 2017 , and ending on March 31, 2018 , may be used to carry out this paragraph.
+    - **(E)** Of the amounts appropriated pursuant to section 106(k)(1), not more than $10,350,000 for each of fiscal years 2012 through 2018 may be used to carry out this paragraph.
     - **(F)** If the Secretary finds that all or part of an amount made available under this paragraph is not required during a fiscal year, the Secretary may use, during such fiscal year, the amount not so required to carry out the program continued under paragraph (1).
   - **(4)**
     - **(A)** The Secretary may provide grants to a sponsor of—

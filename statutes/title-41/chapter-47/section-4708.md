@@ -3,9 +3,9 @@ title: "Section 4708 - Payment of reimbursable indirect costs in cost-type resea
 usc_title: 41
 usc_section: "4708"
 chapter: 47
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "41 U.S.C. § 4708"
-generated_at: "2026-03-30T07:13:06.779Z"
+generated_at: "2026-03-30T07:15:54.179Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 365 - Executory contracts and unexpired leases"
 usc_title: 11
 usc_section: "365"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "11 U.S.C. § 365"
-generated_at: "2026-03-30T07:11:17.801Z"
+generated_at: "2026-03-30T07:15:07.321Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9221a - Prohibition on indirect correspondent accounts"
 usc_title: 22
 usc_section: "9221a"
 chapter: 99
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 9221a"
-generated_at: "2026-03-30T07:12:12.330Z"
+generated_at: "2026-03-30T07:15:29.094Z"
 status: "active"
 ---
 
@@ -17,5 +17,5 @@ status: "active"
   - **(2)** does not involve debiting or crediting a North Korean account.
 - **(c)** In this section:
   - **(1)** The term “correspondent account” has the meaning given that term in section 5318A of title 31 .
-  - **(2)** The term “United States financial institution” means has the meaning given that term in section 510.310 of title 31, Code of Federal Regulations, as in effect on August 2, 2017 .
+  - **(2)** The term “United States financial institution” means 1 1 So in original. has the meaning given that term in section 510.310 of title 31, Code of Federal Regulations, as in effect on August 2, 2017 .
   - **(3)** The term “foreign financial institution” has the meaning given that term in section 1010.605 of title 31, Code of Federal Regulations, as in effect on August 2, 2017 .

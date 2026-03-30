@@ -3,9 +3,9 @@ title: "Section 622 - Bribery of or gifts to inspectors or other officers and ac
 usc_title: 21
 usc_section: "622"
 chapter: 12
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "21 U.S.C. § 622"
-generated_at: "2026-03-30T07:12:03.127Z"
+generated_at: "2026-03-30T07:15:25.949Z"
 status: "active"
 ---
 

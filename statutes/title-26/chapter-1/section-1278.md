@@ -3,9 +3,9 @@ title: "Section 1278 - Definitions and special rules"
 usc_title: 26
 usc_section: "1278"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1278"
-generated_at: "2026-03-30T07:12:23.036Z"
+generated_at: "2026-03-30T07:15:39.057Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(3)** The term “bond” means any bond, debenture, note, certificate, or other evidence of indebtedness.
   - **(4)** The term “revised issue price” means the sum of—
     - **(A)** the issue price of the bond, and
-    - **(B)** the aggregate amount of the original issue discount includible in the gross income of all holders for periods before the acquisition of the bond by the taxpayer (determined without regard to section 1272(a)(7) or (b)(4)) or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer.
+    - **(B)** the aggregate amount of the original issue discount includible in the gross income of all holders for periods before the acquisition of the bond by the taxpayer (determined without regard to section 1272(a)(7)) or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer.
   - **(5)** The terms “original issue discount”, “stated redemption price at maturity”, and “issue price” have the respective meanings given such terms by subpart A of this part.
 - **(b)**
   - **(1)** If the taxpayer makes an election under this subsection—

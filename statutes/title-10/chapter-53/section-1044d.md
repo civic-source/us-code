@@ -3,9 +3,9 @@ title: "Section 1044d - Military testamentary instruments: requirement for recog
 usc_title: 10
 usc_section: "1044d"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1044d"
-generated_at: "2026-03-30T07:11:06.569Z"
+generated_at: "2026-03-30T07:14:57.753Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8368 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1629(
 usc_title: 10
 usc_section: "8368"
 chapter: 837
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 8368"
-generated_at: "2026-03-30T07:11:06.664Z"
+generated_at: "2026-03-30T07:14:57.845Z"
 status: "repealed"
 ---
 

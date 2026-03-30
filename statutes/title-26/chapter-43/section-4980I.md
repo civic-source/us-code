@@ -3,9 +3,9 @@ title: "Section 4980I - Excise tax on high cost employer-sponsored health covera
 usc_title: 26
 usc_section: "4980I"
 chapter: 43
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 4980I"
-generated_at: "2026-03-30T07:12:23.079Z"
+generated_at: "2026-03-30T07:15:39.101Z"
 status: "active"
 ---
 
@@ -36,8 +36,8 @@ status: "active"
         - **(II)** The amount determined under this subclause is an amount equal to the excess (if any) of—
       - **(iv)** In the case of an individual who is a qualified retiree or who participates in a plan sponsored by an employer the majority of whose employees covered by the plan are engaged in a high-risk profession or employed to repair or install electrical or telecommunications lines—
         - **(I)** the dollar amount in clause (i)(I) shall be increased by $1,650, and
-        - **(II)** the dollar amount in clause (i)(II) shall be increased by $3,450, 1 1 So in original. The comma probably should be a period.
-      - **(v)** In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for for the calendar year preceding such year, increased by an amount equal to the product of—
+        - **(II)** the dollar amount in clause (i)(II) shall be increased by $3,450.
+      - **(v)** In the case of any calendar year after 2018, each of the dollar amounts under clauses (i) (after the application of clause (ii)) and (iv) shall be increased to the amount equal to such amount as determined for the calendar year preceding such year, increased by an amount equal to the product of—
         - **(I)** such amount as so determined, multiplied by
         - **(II)** the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “2016” in subparagraph (A)(ii) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 - **(c)**

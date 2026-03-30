@@ -3,9 +3,9 @@ title: "Section 2249 - Amount and character of cooperation"
 usc_title: 7
 usc_section: "2249"
 chapter: 55
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 2249"
-generated_at: "2026-03-30T07:11:01.955Z"
+generated_at: "2026-03-30T07:15:04.472Z"
 status: "active"
 ---
 

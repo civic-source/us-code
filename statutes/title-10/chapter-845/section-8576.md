@@ -3,9 +3,9 @@ title: "Section 8576 - Repealed. Pub. L. 90–235 , § 5(a)(2), Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8576"
 chapter: 845
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 8576"
-generated_at: "2026-03-30T07:11:06.664Z"
+generated_at: "2026-03-30T07:14:57.845Z"
 status: "repealed"
 ---
 

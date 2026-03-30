@@ -3,9 +3,9 @@ title: "Section 1561 - Complaints of sexual harassment: investigation by command
 usc_title: 10
 usc_section: "1561"
 chapter: 80
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1561"
-generated_at: "2026-03-30T07:11:06.593Z"
+generated_at: "2026-03-30T07:14:57.777Z"
 status: "active"
 ---
 

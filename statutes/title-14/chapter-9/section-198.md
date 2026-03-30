@@ -3,9 +3,9 @@ title: "Section 198 - Repealed. Pub. L. 112–213, title II , § 216(f), Dec. 20
 usc_title: 14
 usc_section: "198"
 chapter: 9
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "14 U.S.C. § 198"
-generated_at: "2026-03-30T07:11:18.005Z"
+generated_at: "2026-03-30T07:15:06.625Z"
 status: "repealed"
 ---
 

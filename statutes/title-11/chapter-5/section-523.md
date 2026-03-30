@@ -3,9 +3,9 @@ title: "Section 523 - Exceptions to discharge"
 usc_title: 11
 usc_section: "523"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "11 U.S.C. § 523"
-generated_at: "2026-03-30T07:11:17.803Z"
+generated_at: "2026-03-30T07:15:07.324Z"
 status: "active"
 ---
 
@@ -27,8 +27,8 @@ status: "active"
       - **(iv)** that the debtor caused to be made or published with intent to deceive; or
     - **(C)**
       - **(i)** for purposes of subparagraph (A)—
-        - **(I)** consumer debts owed to a single creditor and aggregating more than $500 for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
-        - **(II)** cash advances aggregating more than $750 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
+        - **(I)** consumer debts owed to a single creditor and aggregating more than $500 1 1 See Adjustment of Dollar Amounts notes below. for luxury goods or services incurred by an individual debtor on or within 90 days before the order for relief under this title are presumed to be nondischargeable; and
+        - **(II)** cash advances aggregating more than $750 1 that are extensions of consumer credit under an open end credit plan obtained by an individual debtor on or within 70 days before the order for relief under this title, are presumed to be nondischargeable; and
       - **(ii)** for purposes of this subparagraph—
         - **(I)** the terms “consumer”, “credit”, and “open end credit plan” have the same meanings as in section 103 of the Truth in Lending Act; and
         - **(II)** the term “luxury goods or services” does not include goods or services reasonably necessary for the support or maintenance of the debtor or a dependent of the debtor;
@@ -66,7 +66,7 @@ status: "active"
       - **(i)** any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
       - **(ii)** any settlement agreement entered into by the debtor; or
       - **(iii)** any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
-- **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 1 1 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 1 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+- **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 2 2 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 2 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 - **(c)**
   - **(1)** Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), or (6) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), or (6), as the case may be, of subsection (a) of this section.
   - **(2)** Paragraph (1) shall not apply in the case of a Federal depository institutions regulatory agency seeking, in its capacity as conservator, receiver, or liquidating agent for an insured depository institution, to recover a debt described in subsection (a)(2), (a)(4), (a)(6), or (a)(11) owed to such institution by an institution-affiliated party unless the receiver, conservator, or liquidating agent was appointed in time to reasonably comply, or for a Federal depository institutions regulatory agency acting in its corporate capacity as a successor to such receiver, conservator, or liquidating agent to reasonably comply, with subsection (a)(3)(B) as a creditor of such institution-affiliated party with respect to such debt.

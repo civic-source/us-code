@@ -3,9 +3,9 @@ title: "Section 192 - Defense Agencies and Department of Defense Field Activitie
 usc_title: 10
 usc_section: "192"
 chapter: 8
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 192"
-generated_at: "2026-03-30T07:11:06.543Z"
+generated_at: "2026-03-30T07:14:57.723Z"
 status: "active"
 ---
 
@@ -26,4 +26,4 @@ status: "active"
 - **(d)** Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after October 17, 1998 .
 - **(e)**
   - **(1)** The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
-  - **(2)** Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
+  - **(2)** Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense. 1 1 See References in Text note below.

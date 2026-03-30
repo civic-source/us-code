@@ -3,9 +3,9 @@ title: "Section 2397a - Sense of Congress"
 usc_title: 19
 usc_section: "2397a"
 chapter: 12
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 2397a"
-generated_at: "2026-03-30T07:11:54.975Z"
+generated_at: "2026-03-30T07:15:16.032Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 918 - Art. 118. Murder"
 usc_title: 10
 usc_section: "918"
 chapter: 47
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 918"
-generated_at: "2026-03-30T07:11:06.563Z"
+generated_at: "2026-03-30T07:14:57.746Z"
 status: "active"
 ---
 

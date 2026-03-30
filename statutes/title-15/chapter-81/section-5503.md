@@ -3,9 +3,9 @@ title: "Section 5503 - Definitions"
 usc_title: 15
 usc_section: "5503"
 chapter: 81
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 5503"
-generated_at: "2026-03-30T07:11:27.031Z"
+generated_at: "2026-03-30T07:15:11.921Z"
 status: "active"
 ---
 

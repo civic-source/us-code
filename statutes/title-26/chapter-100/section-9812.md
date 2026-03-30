@@ -3,9 +3,9 @@ title: "Section 9812 - Parity in mental health and substance use disorder benefi
 usc_title: 26
 usc_section: "9812"
 chapter: 100
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 9812"
-generated_at: "2026-03-30T07:12:23.140Z"
+generated_at: "2026-03-30T07:15:39.167Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
       - **(i)** the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan, and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
       - **(ii)** the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
     - **(B)** In this paragraph:
-      - **(i)** The term “financial requirement” includes deductibles, copayments, coinsurance, and out-of-pocket expenses, but excludes an aggregate lifetime limit and an annual limit subject to paragraphs (1) and (2), 1 1 So in original. The comma probably should be a period.
+      - **(i)** The term “financial requirement” includes deductibles, copayments, coinsurance, and out-of-pocket expenses, but excludes an aggregate lifetime limit and an annual limit subject to paragraphs (1) and (2).
       - **(ii)** A financial requirement or treatment limit is considered to be predominant if it is the most common or frequent of such type of limit or requirement.
       - **(iii)** The term “treatment limitation” includes limits on the frequency of treatment, number of visits, days of coverage, or other similar limits on the scope or duration of treatment.
   - **(4)** The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits shall be made available by the plan administrator in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator to the participant or beneficiary in accordance with regulations.

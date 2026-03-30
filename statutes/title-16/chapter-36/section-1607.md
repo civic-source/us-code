@@ -1,15 +1,15 @@
 ---
-title: "Section 1607 - National Forest System renewable resources; development and administration by Secretary of Agriculture in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests"
+title: "Section 1607 - National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests"
 usc_title: 16
 usc_section: "1607"
 chapter: 36
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 1607"
-generated_at: "2026-03-30T07:11:43.276Z"
+generated_at: "2026-03-30T07:15:21.048Z"
 status: "active"
 ---
 
-# § 1607. National Forest System renewable resources; development and administration by Secretary of Agriculture in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
+# § 1607. National Forest System renewable resources; development and administration by Secretary in accordance with multiple use and sustained yield concepts for products and services; target year for operational posture of resources; budget requests
 
   - **(1)** the backlog of areas that will benefit by such treatment has been eliminated,
   - **(2)** the cost of treating the remainder of such area exceeds the economic and environmental benefits to be secured from their treatment, or

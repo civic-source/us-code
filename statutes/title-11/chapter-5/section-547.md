@@ -3,9 +3,9 @@ title: "Section 547 - Preferences"
 usc_title: 11
 usc_section: "547"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "11 U.S.C. § 547"
-generated_at: "2026-03-30T07:11:17.804Z"
+generated_at: "2026-03-30T07:15:07.326Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
   - **(6)** that is the fixing of a statutory lien that is not avoidable under section 545 of this title ;
   - **(7)** to the extent such transfer was a bona fide payment of a debt for a domestic support obligation;
   - **(8)** if, in a case filed by an individual debtor whose debts are primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $600; or
-  - **(9)** if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000.
+  - **(9)** if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of all property that constitutes or is affected by such transfer is less than $5,000. 1 1 See Adjustment of Dollar Amounts notes below.
 - **(d)** The trustee may avoid a transfer of an interest in property of the debtor transferred to or for the benefit of a surety to secure reimbursement of such a surety that furnished a bond or other obligation to dissolve a judicial lien that would have been avoidable by the trustee under subsection (b) of this section. The liability of such surety under such bond or obligation shall be discharged to the extent of the value of such property recovered by the trustee or the amount paid to the trustee.
 - **(e)**
   - **(1)** For the purposes of this section—

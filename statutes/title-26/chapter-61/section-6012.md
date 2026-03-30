@@ -3,9 +3,9 @@ title: "Section 6012 - Persons required to make returns of income"
 usc_title: 26
 usc_section: "6012"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6012"
-generated_at: "2026-03-30T07:12:23.090Z"
+generated_at: "2026-03-30T07:15:39.112Z"
 status: "active"
 ---
 
@@ -31,9 +31,9 @@ status: "active"
   - **(3)** Every estate the gross income of which for the taxable year is $600 or more;
   - **(4)** Every trust having for the taxable year any taxable income, or having gross income of $600 or over, regardless of the amount of taxable income;
   - **(5)** Every estate or trust of which any beneficiary is a nonresident alien;
-  - **(6)** Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year; and 1 1 So in original.
-  - **(7)** Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year. 1
-  - **(8)** Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(D). 1 , 2 2 See References in Text note below.
+  - **(6)** Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year;
+  - **(7)** Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year; and
+  - **(8)** Every estate of an individual under chapter 7 or 11 of title 11 of the United States Code (relating to bankruptcy) the gross income of which for the taxable year is not less than the sum of the exemption amount plus the basic standard deduction under section 63(c)(2)(C);
 - **(b)**
   - **(1)** If an individual is deceased, the return of such individual required under subsection (a) shall be made by his executor, administrator, or other person charged with the property of such decedent.
   - **(2)** If an individual is unable to make a return required under subsection (a), the return of such individual shall be made by a duly authorized agent, his committee, guardian, fiduciary or other person charged with the care of the person or property of such individual. The preceding sentence shall not apply in the case of a receiver appointed by authority of law in possession of only a part of the property of an individual.

@@ -3,9 +3,9 @@ title: "Section 2075 - Center for Cultural and Technical Interchange Between Nor
 usc_title: 22
 usc_section: "2075"
 chapter: 29
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2075"
-generated_at: "2026-03-30T07:12:12.224Z"
+generated_at: "2026-03-30T07:15:28.987Z"
 status: "active"
 ---
 

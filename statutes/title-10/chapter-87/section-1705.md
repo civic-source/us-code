@@ -3,9 +3,9 @@ title: "Section 1705 - Department of Defense Acquisition Workforce Development F
 usc_title: 10
 usc_section: "1705"
 chapter: 87
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1705"
-generated_at: "2026-03-30T07:11:06.596Z"
+generated_at: "2026-03-30T07:14:57.779Z"
 status: "active"
 ---
 
@@ -32,6 +32,22 @@ status: "active"
   - **(1)**
     - **(A)** Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department and to develop acquisition tools and methodologies, and undertake research and development activities, leading to acquisition policies and practices that will improve the efficiency and effectiveness of defense acquisition efforts. In the case of temporary members of the acquisition workforce designated pursuant to subsection (g)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
     - **(B)** Amounts in the Fund also may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund.
+  - **(2)** Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
+  - **(3)** The Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the senior official designated to manage the Fund, shall issue guidance for the administration of the Fund. Such guidance shall include provisions—
+    - **(A)** identifying areas of need in the acquisition workforce for which amounts in the Fund may be used, including—
+      - **(i)** changes to the types of skills needed in the acquisition workforce;
+      - **(ii)** incentives to retain in the acquisition workforce qualified, experienced acquisition workforce personnel; and
+      - **(iii)** incentives for attracting new, high-quality personnel to the acquisition workforce;
+    - **(B)** describing the manner and timing for applications for amounts in the Fund to be submitted;
+    - **(C)** describing the evaluation criteria to be used for approving or prioritizing applications for amounts in the Fund in any fiscal year;
+    - **(D)** describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section; and
+    - **(E)** describing the amount from the Fund that may be used to pay salaries of personnel at the Office of the Secretary of Defense, military departments, and Defense Agencies to manage the Fund and the circumstances under which such amounts may be used for such purpose.
+  - **(4)** Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purposes of—
+    - **(A)** providing advanced training to Department of Defense employees;
+    - **(B)** developing acquisition tools and methodologies and performing research on acquisition policies and best practices that will improve the efficiency and effectiveness of defense acquisition efforts; and
+    - **(C)** supporting human capital and talent management of the acquisition workforce, including benchmarking studies, assessments, and requirements planning.
+  - **(5)** Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008 , and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
+  - **(6)** Amounts credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.
 - **(f)** For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
   - **(1)** designate any category of positions in the acquisition workforce as positions for which there exists a shortage of candidates or there is a critical hiring need; and
   - **(2)** utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.

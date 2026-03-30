@@ -3,9 +3,9 @@ title: "Section 1311 - Rights and protections under title VII of Civil Rights Ac
 usc_title: 2
 usc_section: "1311"
 chapter: 24
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 1311"
-generated_at: "2026-03-30T07:10:50.391Z"
+generated_at: "2026-03-30T07:14:20.273Z"
 status: "active"
 ---
 

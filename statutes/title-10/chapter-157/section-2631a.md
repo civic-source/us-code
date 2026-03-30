@@ -3,9 +3,9 @@ title: "Section 2631a - Contingency planning: sealift and related intermodal tra
 usc_title: 10
 usc_section: "2631a"
 chapter: 157
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2631a"
-generated_at: "2026-03-30T07:11:06.631Z"
+generated_at: "2026-03-30T07:14:57.813Z"
 status: "active"
 ---
 

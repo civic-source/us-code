@@ -3,9 +3,9 @@ title: "Section 78gg - Separability"
 usc_title: 15
 usc_section: "78gg"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 78gg"
-generated_at: "2026-03-30T07:11:26.913Z"
+generated_at: "2026-03-30T07:15:11.791Z"
 status: "active"
 ---
 

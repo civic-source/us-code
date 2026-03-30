@@ -3,9 +3,9 @@ title: "Section 1075 - Limitations on individual federally insured loans and on 
 usc_title: 20
 usc_section: "1075"
 chapter: 28
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 1075"
-generated_at: "2026-03-30T07:11:45.001Z"
+generated_at: "2026-03-30T07:15:17.660Z"
 status: "active"
 ---
 

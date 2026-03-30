@@ -3,9 +3,9 @@ title: "Section 2779a - Prohibition on incentive payments"
 usc_title: 22
 usc_section: "2779a"
 chapter: 39
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2779a"
-generated_at: "2026-03-30T07:12:12.262Z"
+generated_at: "2026-03-30T07:15:29.025Z"
 status: "active"
 ---
 

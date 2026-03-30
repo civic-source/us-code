@@ -3,9 +3,9 @@ title: "Section 3758 - Omitted"
 usc_title: 42
 usc_section: "3758"
 chapter: 46
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 3758"
-generated_at: "2026-03-30T07:13:45.943Z"
+generated_at: "2026-03-30T07:16:11.262Z"
 status: "omitted"
 ---
 

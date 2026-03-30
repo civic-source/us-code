@@ -3,9 +3,9 @@ title: "Section 104 - Compensation for injuries or sickness"
 usc_title: 26
 usc_section: "104"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 104"
-generated_at: "2026-03-30T07:12:22.926Z"
+generated_at: "2026-03-30T07:15:38.941Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(A)** on or before September 24, 1975 , he was entitled to receive any amount described in subsection (a)(4),
     - **(B)** on September 24, 1975 , he was a member of any organization (or reserve component thereof) referred to in subsection (a)(4) or under a binding written commitment to become such a member,
     - **(C)** he receives an amount described in subsection (a)(4) by reason of a combat-related injury, or
-    - **(D)** on application therefor, he would be entitled to receive disability compensation from the Veterans’ Administration.
+    - **(D)** on application therefor, he would be entitled to receive disability compensation from the Department of Veterans Affairs.
   - **(3)** For purposes of this subsection, the term “combat-related injury” means personal injury or sickness—
     - **(A)** which is incurred—
       - **(i)** as a direct result of armed conflict,

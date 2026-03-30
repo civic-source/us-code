@@ -3,9 +3,9 @@ title: "Section 3076 - Separability"
 usc_title: 50
 usc_section: "3076"
 chapter: 44
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 3076"
-generated_at: "2026-03-30T07:13:58.449Z"
+generated_at: "2026-03-30T07:16:18.971Z"
 status: "active"
 ---
 

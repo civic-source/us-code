@@ -3,9 +3,9 @@ title: "Section 6983 - Prohibition relating to human rights abuses"
 usc_title: 22
 usc_section: "6983"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 6983"
-generated_at: "2026-03-30T07:12:12.305Z"
+generated_at: "2026-03-30T07:15:29.069Z"
 status: "active"
 ---
 

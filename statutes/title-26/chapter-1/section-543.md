@@ -3,9 +3,9 @@ title: "Section 543 - Personal holding company income"
 usc_title: 26
 usc_section: "543"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 543"
-generated_at: "2026-03-30T07:12:22.995Z"
+generated_at: "2026-03-30T07:15:39.017Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(A)** such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income, and
     - **(B)** the sum of—
       - **(i)** the dividends paid during the taxable year (determined under section 562),
-      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(d) 1 1 See References in Text note below. (as limited by the second sentence of section 563(b)), and
+      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
       - **(iii)** the consent dividends for the taxable year (determined under section 565),
   - **(3)** The adjusted income from mineral, oil, and gas royalties; except that such adjusted income shall not be included if—
     - **(A)** such adjusted income constitutes 50 percent or more of the adjusted ordinary gross income,
@@ -105,7 +105,7 @@ status: "active"
   - **(5)**
     - **(A)** The requirements of this paragraph are met if the sum of—
       - **(i)** the dividends paid during the taxable year (determined under section 562),
-      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(d) 1 (as limited by the second sentence of section 563(b)), and
+      - **(ii)** the dividends considered as paid on the last day of the taxable year under section 563(c) (as limited by the second sentence of section 563(b)), and
       - **(iii)** the consent dividends for the taxable year (determined under section 565),
     - **(B)** For purposes of this paragraph, personal holding company income shall be computed—
       - **(i)** without regard to amounts described in subsection (a)(1)(C),

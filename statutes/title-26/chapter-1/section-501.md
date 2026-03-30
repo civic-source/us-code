@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T07:12:22.989Z"
+generated_at: "2026-03-30T07:15:39.010Z"
 status: "active"
 ---
 
@@ -55,7 +55,9 @@ status: "active"
     - **(D)** For purposes of this paragraph, the term “qualified pole rental” means any rental of a pole (or other structure used to support wires) if such pole (or other structure)—
       - **(i)** is used by the telephone or electric company to support one or more wires which are used by such company in providing telephone or electric services to its members, and
       - **(ii)** is used pursuant to the rental to support one or more wires (in addition to the wires described in clause (i)) for use in connection with the transmission by wire of electricity or of telephone or other communications.
-    - **(E)** For purposes of subparagraph (C)(ii), the term “FERC” means the Federal Energy Regulatory Commission and references to such term shall be treated as including the Public Utility Commission of Texas with respect to any ERCOT utility (as defined in section 212(k)(2)(B) of the Federal Power Act ( 16 U.S.C. 824k(k)(2)(B) )).
+    - **(E)** For purposes of subparagraph (C)(ii), the term “FERC” means—
+      - **(i)** the Federal Energy Regulatory Commission, or
+      - **(ii)** in the case of any utility with respect to which all of the electricity generated, transmitted, or distributed by such utility is generated, transmitted, distributed, and consumed in the same State, the State agency of such State with the authority to regulate electric utilities.
     - **(F)** For purposes of subparagraph (C)(iv), the term “nuclear decommissioning transaction” means—
       - **(i)** any transfer into a trust, fund, or instrument established to pay any nuclear decommissioning costs if the transfer is in connection with the transfer of the mutual or cooperative electric company’s interest in a nuclear power plant or nuclear power plant unit,
       - **(ii)** any distribution from any trust, fund, or instrument established to pay any nuclear decommissioning costs, or
@@ -85,7 +87,7 @@ status: "active"
       - **(i)** domestic building and loan associations,
       - **(ii)** cooperative banks without capital stock organized and operated for mutual purposes and without profit,
       - **(iii)** mutual savings banks not having capital stock represented by shares, or
-      - **(iv)** mutual savings banks described in section 591(b) 2 2 So in original. Probably should be followed by a period.
+      - **(iv)** mutual savings banks described in section 591(b).
     - **(C)** Corporations or associations organized before September 1, 1957 , and operated for mutual purposes and without profit for the purpose of providing reserve funds for associations or banks described in clause (i), (ii), or (iii) of subparagraph (B); but only if 85 percent or more of the income is attributable to providing such reserve funds and to investments. This subparagraph shall not apply to any corporation or association entitled to exemption under subparagraph (B).
   - **(15)**
     - **(A)** Insurance companies (as defined in section 816(a)) other than life (including interinsurers and reciprocal underwriters) if—
@@ -123,7 +125,7 @@ status: "active"
       - **(iv)** the requirements of section 401(a)(30) are met.
   - **(19)** A post or organization of past or present members of the Armed Forces of the United States, or an auxiliary unit or society of, or a trust or foundation for, any such post or organization—
     - **(A)** organized in the United States or any of its possessions,
-    - **(B)** at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows,, 3 3 So in original. widowers, ancestors, or lineal descendants of past or present members of the Armed Forces of the United States or of cadets, and
+    - **(B)** at least 75 percent of the members of which are past or present members of the Armed Forces of the United States and substantially all of the other members of which are individuals who are cadets or are spouses, widows, widowers, ancestors, or lineal descendants of past or present members of the Armed Forces of the United States or of cadets, and
     - **(C)** no part of the net earnings of which inures to the benefit of any private shareholder or individual.
   - **[(20)** Repealed. Pub. L. 113–295, div. A, title II , § 221(a)(19)(B)(iii), Dec. 19, 2014 , 128 Stat. 4040 .]
   - **(21)**
@@ -239,7 +241,7 @@ status: "active"
   - **(2)** organized and controlled by one or more such members, and
   - **(3)** comprised solely of members that are organizations described in clause (ii) or (iv) of section 170(b)(1)(A)—
     - **(A)** which are exempt from taxation under subsection (a), or
-    - **(B)** the income of which is excluded from taxation under section 115(a),
+    - **(B)** the income of which is excluded from taxation under section 115,
 - **(g)** For purposes of subsection (c)(5), the term “agricultural” includes the art or science of cultivating land, harvesting crops or aquatic resources, or raising livestock.
 - **(h)**
   - **(1)** In the case of an organization to which this subsection applies, exemption from taxation under subsection (a) shall be denied because a substantial part of the activities of such organization consists of carrying on propaganda, or otherwise attempting, to influence legislation, but only if such organization normally—
@@ -339,7 +341,7 @@ status: "active"
       - **(i)** the date of the first publication of a designation or identification described in paragraph (2) with respect to such organization, or
       - **(ii)** the date of the enactment of this subsection, and
     - **(B)** ends on the first date that all designations and identifications described in paragraph (2) with respect to such organization are rescinded pursuant to the law or Executive order under which such designation or identification was made.
-  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 556(b)(2), 1 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
+  - **(4)** No deduction shall be allowed under any provision of this title, including sections 170, 545(b)(2), 642(c), 2055, 2106(a)(2), and 2522, with respect to any contribution to an organization described in paragraph (2) during the period described in paragraph (3).
   - **(5)** Notwithstanding section 7428 or any other provision of law, no organization or other person may challenge a suspension under paragraph (1), a designation or identification described in paragraph (2), the period of suspension described in paragraph (3), or a denial of a deduction under paragraph (4) in any administrative or judicial proceeding relating to the Federal tax liability of such organization or other person.
   - **(6)**
     - **(A)** If—

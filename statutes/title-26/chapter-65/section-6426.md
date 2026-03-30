@@ -3,9 +3,9 @@ title: "Section 6426 - Credit for alcohol fuel, biodiesel, and alternative fuel 
 usc_title: 26
 usc_section: "6426"
 chapter: 65
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6426"
-generated_at: "2026-03-30T07:12:23.110Z"
+generated_at: "2026-03-30T07:15:39.134Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** For purposes of this subsection—
     - **(A)** Except as provided in subparagraphs (B) and (C), the applicable amount is—
       - **(i)** in the case of calendar years beginning before 2009, 51 cents, and
-      - **(ii)** in the case of calendar years beginning after 2008, 45 cents.. 1 1 So in original.
+      - **(ii)** in the case of calendar years beginning after 2008, 45 cents.
     - **(B)** In the case of an alcohol fuel mixture in which none of the alcohol consists of ethanol, the applicable amount is 60 cents.
     - **(C)** In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in section 40(h)(3)(B) with respect to all preceding calendar years beginning after 2007, subparagraph (A)(ii) shall be applied by substituting “51 cents” for “45 cents”.
   - **(3)** For purposes of this subsection, the term “alcohol fuel mixture” means a mixture of alcohol and a taxable fuel which—

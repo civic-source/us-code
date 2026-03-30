@@ -3,9 +3,9 @@ title: "Section 529A - Qualified ABLE programs"
 usc_title: 26
 usc_section: "529A"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 529A"
-generated_at: "2026-03-30T07:12:22.994Z"
+generated_at: "2026-03-30T07:15:39.015Z"
 status: "active"
 ---
 
@@ -44,9 +44,6 @@ status: "active"
       - **(i)** Subparagraph (A) shall not apply to any amount paid or distributed from an ABLE account to the extent that the amount received is paid, not later than the 60th day after the date of such payment or distribution, into another ABLE account for the benefit of the same designated beneficiary or an eligible individual who is a member of the family of the designated beneficiary.
       - **(ii)** Any change in the designated beneficiary of an interest in a qualified ABLE program during a taxable year shall not be treated as a distribution for purposes of subparagraph (A) if the new beneficiary is an eligible individual for such taxable year and a member of the family of the former beneficiary.
       - **(iii)** Clause (i) shall not apply to any transfer if such transfer occurs within 12 months from the date of a previous transfer to any qualified ABLE program for the benefit of the designated beneficiary.
-    - **(D)** For purposes of applying section 72—
-      - **(i)** except to the extent provided by the Secretary, all distributions during a taxable year shall be treated as one distribution, and
-      - **(ii)** except to the extent provided by the Secretary, the value of the contract, income on the contract, and investment in the contract shall be computed as of the close of the calendar year in which the taxable year begins.
   - **(2)** For purposes of chapters 12 and 13—
     - **(A)** Any contribution to a qualified ABLE program on behalf of any designated beneficiary—
       - **(i)** shall be treated as a completed gift to such designated beneficiary which is not a future interest in property, and
@@ -64,7 +61,7 @@ status: "active"
   - **(1)** Each officer or employee having control of the qualified ABLE program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary may require.
   - **(2)** For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
   - **(3)** A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
-  - **(4)** For purposes of section 103 of the Achieving a Better Life Experience Act of 2014, 1 1 See References in Text note below. States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+  - **(4)** For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014 States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
   - **(5)** The reports and notices required by paragraphs (1), (2), and (3) shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
   - **(1)** An individual is an eligible individual for a taxable year if during such taxable year—
@@ -78,7 +75,7 @@ status: "active"
       - **(ii)** includes a copy of the individual’s diagnosis relating to the individual’s relevant impairment or impairments, signed by a physician meeting the criteria of section 1861(r)(1) of the Social Security Act.
     - **(B)** No inference may be drawn from a disability certification for purposes of establishing eligibility for benefits under title II, XVI, or XIX of the Social Security Act.
   - **(3)** The term “designated beneficiary” in connection with an ABLE account established under a qualified ABLE program means the eligible individual who established an ABLE account and is the owner of such account.
-  - **(4)** The term “member of the family” means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in subparagraph 2 2 So in original. The word “subparagraph” probably should not appear. section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
+  - **(4)** The term “member of the family” means, with respect to any designated beneficiary, an individual who bears a relationship to such beneficiary which is described in section 152(d)(2)(B). For purposes of the preceding sentence, a rule similar to the rule of section 152(f)(1)(B) shall apply.
   - **(5)** The term “qualified disability expenses” means any expenses related to the eligible individual’s blindness or disability which are made for the benefit of an eligible individual who is the designated beneficiary, including the following expenses: education, housing, transportation, employment training and support, assistive technology and personal support services, health, prevention and wellness, financial management and administrative services, legal fees, expenses for oversight and monitoring, funeral and burial expenses, and other expenses, which are approved by the Secretary under regulations and consistent with the purposes of this section.
   - **(6)** The term “ABLE account” means an account established by an eligible individual, owned by such eligible individual, and maintained under a qualified ABLE program.
 - **(f)** Subject to any outstanding payments due for qualified disability expenses, upon the death of the designated beneficiary, all amounts remaining in the qualified ABLE account not in excess of the amount equal to the total medical assistance paid for the designated beneficiary after the establishment of the account, net of any premiums paid from the account or paid by or on behalf of the beneficiary to a Medicaid Buy-In program under any State Medicaid plan established under title XIX of the Social Security Act, shall be distributed to such State upon filing of a claim for payment by such State. For purposes of this paragraph, the State shall be a creditor of an ABLE account and not a beneficiary. Subsection (c)(3) shall not apply to a distribution under the preceding sentence.

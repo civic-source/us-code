@@ -3,9 +3,9 @@ title: "Section 1084 - Minimum funding standards for multiemployer plans"
 usc_title: 29
 usc_section: "1084"
 chapter: 18
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 1084"
-generated_at: "2026-03-30T07:12:16.116Z"
+generated_at: "2026-03-30T07:15:34.217Z"
 status: "active"
 ---
 
@@ -109,7 +109,7 @@ status: "active"
         - **(II)** an event which is reasonably and reliably predictable (as determined by the Secretary of the Treasury),
       - **(iii)** The rate of interest used to determine current liability under this paragraph shall be the rate of interest determined under subparagraph (E).
       - **(iv)**
-        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26 ) used to determine reserves for group annuity contracts issued on January 1, 1993 .
+        - **(I)** In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary of the Treasury which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A) of title 26 ) 1 used to determine reserves for group annuity contracts issued on January 1, 1993 .
         - **(II)** The Secretary of the Treasury may by regulation prescribe for plan years beginning after December 31, 1999 , mortality tables to be used in determining current liability under this subsection. Such tables shall be based upon the actual experience of pension plans and projected trends in such experience. In prescribing such tables, such Secretary shall take into account results of available independent studies of mortality of individuals covered by pension plans.
       - **(v)** Notwithstanding clause (iv)—
         - **(I)** The Secretary of the Treasury shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. Such Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995 , and for individuals whose disabilities occur in plan years beginning on or after such date.

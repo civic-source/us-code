@@ -3,9 +3,9 @@ title: "Section 1 - Report concerning voluntary reporting system"
 usc_title: 42
 usc_section: "1"
 chapter: 67
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T07:13:45.963Z"
+generated_at: "2026-03-30T07:16:11.296Z"
 status: "active"
 ---
 

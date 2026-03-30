@@ -3,15 +3,15 @@ title: "Section 6222 - Partner’s return must be consistent with partnership re
 usc_title: 26
 usc_section: "6222"
 chapter: 63
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6222"
-generated_at: "2026-03-30T07:12:23.104Z"
+generated_at: "2026-03-30T07:15:39.127Z"
 status: "active"
 ---
 
 # § 6222. Partner’s return must be consistent with partnership return
 
-- **(a)** A partner shall, on the partner’s return, treat each item of income, gain, loss, deduction, or credit attributable to a partnership in a manner which is consistent with the treatment of such income, gain, loss, deduction, or credit on the partnership return.
+- **(a)** A partner shall, on the partner’s return, treat any partnership-related item in a manner which is consistent with the treatment of such item on the partnership return.
 - **(b)** Any underpayment of tax by a partner by reason of failing to comply with the requirements of subsection (a) shall be assessed and collected in the same manner as if such underpayment were on account of a mathematical or clerical error appearing on the partner’s return. Paragraph (2) of section 6213(b) shall not apply to any assessment of an underpayment referred to in the preceding sentence.
 - **(c)**
   - **(1)** In the case of any item referred to in subsection (a), if—

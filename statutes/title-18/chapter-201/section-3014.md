@@ -3,9 +3,9 @@ title: "Section 3014 - Additional special assessment"
 usc_title: 18
 usc_section: "3014"
 chapter: 201
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 3014"
-generated_at: "2026-03-30T07:11:47.934Z"
+generated_at: "2026-03-30T07:15:18.778Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
 - **(f)** The amount assessed under subsection (a) shall, subject to subsection (b), be collected in the manner that fines are collected in criminal cases.
 - **(g)** Subject to section 3613(b), the obligation to pay an assessment imposed on or after the date of enactment of the Justice for Victims of Trafficking Act of 2015 shall not cease until the assessment is paid in full.
 - **(h)**
-  - **(1)** From amounts appropriated under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 254b -2(b)(1)), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
+  - **(1)** From amounts appropriated under subparagraphs (E) and (F) of section 10503(b)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 254b–2(b)(1) ), there shall be transferred to the Fund an amount equal to the amount transferred under subsection (d) for each fiscal year, except that the amount transferred under this paragraph shall not be less than $5,000,000 or more than $30,000,000 in each such fiscal year, and such amounts shall remain available until expended.
   - **(2)** The Attorney General, in coordination with the Secretary of Health and Human Services, shall use amounts transferred to the Fund under paragraph (1) to award grants that may be used for the provision of health care or medical items or services to victims of trafficking under—
     - **(A)** sections 202, 203, and 204 of the Trafficking Victims Protection Reauthorization Act of 2005 ( 42 U.S.C. 14044a , 14044b, and 14044c); 1
     - **(B)** subsections (b)(2) and (f) of section 107 of the Trafficking Victims Protection Act of 2000 ( 22 U.S.C. 7105 ); and

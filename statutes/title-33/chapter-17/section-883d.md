@@ -3,9 +3,9 @@ title: "Section 883d - Improvement of methods, instruments, and equipments; inve
 usc_title: 33
 usc_section: "883d"
 chapter: 17
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "33 U.S.C. § 883d"
-generated_at: "2026-03-30T07:12:38.314Z"
+generated_at: "2026-03-30T07:15:42.956Z"
 status: "active"
 ---
 

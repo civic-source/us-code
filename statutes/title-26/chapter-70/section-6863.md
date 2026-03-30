@@ -3,15 +3,15 @@ title: "Section 6863 - Stay of collection of jeopardy assessments"
 usc_title: 26
 usc_section: "6863"
 chapter: 70
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6863"
-generated_at: "2026-03-30T07:12:23.119Z"
+generated_at: "2026-03-30T07:15:39.144Z"
 status: "active"
 ---
 
 # § 6863. Stay of collection of jeopardy assessments
 
-- **(a)** When an assessment has been made under section 6851, 6852,, 1 1 So in original. 6861 or 6862, the collection of the whole or any amount of such assessment may be stayed by filing with the Secretary, within such time as may be fixed by regulations prescribed by the Secretary, a bond in an amount equal to the amount as to which the stay is desired, conditioned upon the payment of the amount (together with interest thereon) the collection of which is stayed, at the time at which, but for the making of such assessment, such amount would be due. Upon the filing of the bond the collection of so much of the amount assessed as is covered by the bond shall be stayed. The taxpayer shall have the right to waive such stay at any time in respect of the whole or any part of the amount covered by the bond, and if as a result of such waiver any part of the amount covered by the bond is paid, then the bond shall, at the request of the taxpayer, be proportionately reduced. If any portion of such assessment is abated, the bond shall, at the request of the taxpayer, be proportionately reduced.
+- **(a)** When an assessment has been made under section 6851, 6852, 6861 or 6862, the collection of the whole or any amount of such assessment may be stayed by filing with the Secretary, within such time as may be fixed by regulations prescribed by the Secretary, a bond in an amount equal to the amount as to which the stay is desired, conditioned upon the payment of the amount (together with interest thereon) the collection of which is stayed, at the time at which, but for the making of such assessment, such amount would be due. Upon the filing of the bond the collection of so much of the amount assessed as is covered by the bond shall be stayed. The taxpayer shall have the right to waive such stay at any time in respect of the whole or any part of the amount covered by the bond, and if as a result of such waiver any part of the amount covered by the bond is paid, then the bond shall, at the request of the taxpayer, be proportionately reduced. If any portion of such assessment is abated, the bond shall, at the request of the taxpayer, be proportionately reduced.
 - **(b)** In the case of taxes subject to the jurisdiction of the Tax Court—
   - **(1)** If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
   - **(2)** The bond shall be conditioned upon the payment of so much of such assessment (collection of which is stayed by the bond) as is not abated by a decision of the Tax Court which has become final. If the Tax Court determines that the amount assessed is greater than the amount which should have been assessed, then when the decision of the Tax Court is rendered the bond shall, at the request of the taxpayer, be proportionately reduced.

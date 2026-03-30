@@ -3,9 +3,9 @@ title: "Section 2167 - Safeguards information"
 usc_title: 42
 usc_section: "2167"
 chapter: 23
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 2167"
-generated_at: "2026-03-30T07:13:45.909Z"
+generated_at: "2026-03-30T07:16:11.210Z"
 status: "active"
 ---
 

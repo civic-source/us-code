@@ -3,9 +3,9 @@ title: "Section 6039 - Returns required in connection with certain options"
 usc_title: 26
 usc_section: "6039"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6039"
-generated_at: "2026-03-30T07:12:23.093Z"
+generated_at: "2026-03-30T07:15:39.115Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(3)** Any corporation which transfers any share of stock pursuant to the exercise of any option described in subsection (a)(2) shall identify such stock in a manner adequate to carry out the purposes of this section.
 - **(d)** For definition of—
   - **(1)** the term “incentive stock option”, see section 422(b), and
-  - **(2)** the term “employee stock purchase plan” 1 1 So in original. Probably should be followed by a comma. see section 423(b).
+  - **(2)** the term “employee stock purchase plan”, see section 423(b).

@@ -3,9 +3,9 @@ title: "Section 163 - Interest"
 usc_title: 26
 usc_section: "163"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 163"
-generated_at: "2026-03-30T07:12:22.937Z"
+generated_at: "2026-03-30T07:15:38.953Z"
 status: "active"
 ---
 
@@ -39,7 +39,6 @@ status: "active"
       - **(iii)** so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
     - **(C)** The term “investment expenses” means the deductions allowed under this chapter (other than for interest) which are directly connected with the production of investment income.
     - **(D)** Investment income and investment expenses shall not include any income or expenses taken into account under section 469 in computing income or loss from a passive activity.
-    - **(E)** Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). 1 1 See References in Text note below. The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
   - **(5)** For purposes of this subsection—
     - **(A)** The term “property held for investment” shall include—
       - **(i)** any property which produces income of a type described in section 469(e)(1), and
@@ -49,7 +48,7 @@ status: "active"
     - **(B)** In the case of property described in subparagraph (A)(i), expenses shall be allocated to such property in the same manner as under section 469.
     - **(C)** For purposes of this paragraph, the terms “activity”, “passive activity”, and “materially participate” have the meanings given such terms by section 469.
 - **(e)**
-  - **(1)** In the case of any debt instrument issued after July 1, 1982 , the portion of the original issue discount with respect to such debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
+  - **(1)** The portion of the original issue discount with respect to any debt instrument which is allowable as a deduction to the issuer for any taxable year shall be equal to the aggregate daily portions of the original issue discount for days during such taxable year.
   - **(2)** For purposes of this subsection—
     - **(A)** The term “debt instrument” has the meaning given such term by section 1275(a)(1).
     - **(B)** The daily portion of the original issue discount for any day shall be determined under section 1272(a) (without regard to paragraph (7) thereof and without regard to section 1273(a)(3)).
@@ -62,9 +61,7 @@ status: "active"
     - **(C)** For purposes of subparagraph (A), the term “related foreign person” means any person—
       - **(i)** who is not a United States person, and
       - **(ii)** who is related (within the meaning of section 267(b)) to the issuer.
-  - **(4)** This subsection shall not apply to any debt instrument described in—
-    - **(A)** subparagraph (D) of section 1272(a)(2) (relating to obligations issued by natural persons before March 2, 1984 ), and
-    - **(B)** subparagraph (E) of section 1272(a)(2) (relating to loans between natural persons).
+  - **(4)** This subsection shall not apply to any debt instrument described in section 1272(a)(2)(D) (relating to loans between natural persons).
   - **(5)**
     - **(A)** In the case of an applicable high yield discount obligation issued by a corporation—
       - **(i)** no deduction shall be allowed under this chapter for the disqualified portion of the original issue discount on such obligation, and
@@ -78,7 +75,7 @@ status: "active"
       - **(i)** For purposes of this paragraph, the disqualified portion of the original issue discount on any applicable high yield discount obligation is the lesser of—
         - **(I)** the amount of such original issue discount, or
         - **(II)** the portion of the total return on such obligation which bears the same ratio to such total return as the disqualified yield on such obligation bears to the yield to maturity on such obligation.
-      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to 2 2 So in original. Probably should be followed by “in”. subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+      - **(ii)** For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to in subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
     - **(D)** This paragraph shall not apply to any obligation issued by any corporation for any period for which such corporation is an S corporation.
     - **(E)** This paragraph shall not apply for purposes of determining earnings and profits; except that, for purposes of determining the dividend equivalent portion of any amount includible in gross income under section 1272(a) in respect of an applicable high yield discount obligation, no reduction shall be made for any amount attributable to the disqualified portion of any original issue discount on such obligation.
     - **(F)**
@@ -229,7 +226,7 @@ status: "active"
     - **(B)** For purposes of this paragraph, the term “electing real property trade or business” means any trade or business which is described in section 469(c)(7)(C) and which makes an election under this subparagraph. Any such election shall be made at such time and in such manner as the Secretary shall prescribe, and, once made, shall be irrevocable.
     - **(C)** For purposes of this paragraph, the term “electing farming business” means—
       - **(i)** a farming business (as defined in section 263A(e)(4)) which makes an election under this subparagraph, or
-      - **(ii)** any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2) 3 3 So in original. Probably should be “section 199A(g)(3)”. ) with respect to which the cooperative makes an election under this subparagraph.
+      - **(ii)** any trade or business of a specified agricultural or horticultural cooperative (as defined in section 199A(g)(2)) 1 1 See References in Text note below. with respect to which the cooperative makes an election under this subparagraph.
   - **(8)** For purposes of this subsection, the term “adjusted taxable income” means the taxable income of the taxpayer—
     - **(A)** computed without regard to—
       - **(i)** any item of income, gain, deduction, or loss which is not properly allocable to a trade or business,

@@ -3,9 +3,9 @@ title: "Section 502 - Procurement of printing, binding, and blank-book work by D
 usc_title: 44
 usc_section: "502"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "44 U.S.C. § 502"
-generated_at: "2026-03-30T07:13:10.758Z"
+generated_at: "2026-03-30T07:15:53.894Z"
 status: "active"
 ---
 

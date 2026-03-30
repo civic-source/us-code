@@ -3,9 +3,9 @@ title: "Section 571 - Identification of major system acquisitions"
 usc_title: 14
 usc_section: "571"
 chapter: 15
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "14 U.S.C. § 571"
-generated_at: "2026-03-30T07:11:18.007Z"
+generated_at: "2026-03-30T07:15:06.627Z"
 status: "active"
 ---
 

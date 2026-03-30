@@ -3,9 +3,9 @@ title: "Section 877 - Expatriation to avoid tax"
 usc_title: 26
 usc_section: "877"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 877"
-generated_at: "2026-03-30T07:12:23.014Z"
+generated_at: "2026-03-30T07:15:39.037Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
       - **(i)** an individual losing United States citizenship contributes property during the 10-year period beginning on the date the individual loses United States citizenship to any corporation which, at the time of the contribution, is described in subparagraph (B), and
       - **(ii)** income derived from such property immediately before such contribution was from sources within the United States (or, if no income was so derived, would have been from such sources),
     - **(B)** A corporation is described in this subparagraph with respect to an individual if, were such individual a United States citizen—
-      - **(i)** such corporation would be a controlled foreign corporation (as defined in 1 1 So in original. Probably should be followed by “section”. 957), and
+      - **(i)** such corporation would be a controlled foreign corporation (as defined in section 957), and
       - **(ii)** such individual would be a United States shareholder (as defined in section 951(b)) with respect to such corporation.
     - **(C)** If stock in the corporation referred to in subparagraph (A) (or any other stock which has a basis determined in whole or part by reference to such stock) is disposed of during the 10-year period referred to in subsection (a) and while the property referred to in subparagraph (A) is held by such corporation, a pro rata share of such property (determined on the basis of the value of such stock) shall be treated as sold by the corporation immediately before such disposition.
     - **(D)** The Secretary shall prescribe such regulations as may be necessary to prevent the avoidance of the purposes of this paragraph, including where—

@@ -3,9 +3,9 @@ title: "Section 1323 - Conservation of fishery resources"
 usc_title: 19
 usc_section: "1323"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "19 U.S.C. § 1323"
-generated_at: "2026-03-30T07:11:54.942Z"
+generated_at: "2026-03-30T07:15:15.997Z"
 status: "active"
 ---
 

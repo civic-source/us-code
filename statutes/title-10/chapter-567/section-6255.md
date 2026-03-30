@@ -3,9 +3,9 @@ title: "Section 6255 - Commemorative or special medals: facsimiles and ribbons"
 usc_title: 10
 usc_section: "6255"
 chapter: 567
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 6255"
-generated_at: "2026-03-30T07:11:06.654Z"
+generated_at: "2026-03-30T07:14:57.835Z"
 status: "active"
 ---
 

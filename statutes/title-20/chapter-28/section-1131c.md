@@ -3,9 +3,9 @@ title: "Section 1131c - Internships"
 usc_title: 20
 usc_section: "1131c"
 chapter: 28
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 1131c"
-generated_at: "2026-03-30T07:11:45.029Z"
+generated_at: "2026-03-30T07:15:17.687Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** contain work experience for the students designed to contribute to the students’ preparation for a master’s degree program.
 - **(c)**
   - **(1)** There is established in the executive branch of the Federal Government an Interagency Committee on Minority Careers in International Affairs composed of not less than 7 members, including—
-    - **(A)** the Under Secretary for Farm and Foreign Agricultural Services of the Department of Agriculture, or the Under Secretary’s designee;
+    - **(A)** the Under Secretary for Farm and Foreign Agricultural Services of the Department of Agriculture, 1 1 See References in Text note below. or the Under Secretary’s designee;
     - **(B)** the Assistant Secretary and Director General, of the United States and Foreign Commercial Service of the Department of Commerce, or the Assistant Secretary and Director General’s designee;
     - **(C)** the Under Secretary of Defense for Personnel and Readiness of the Department of Defense, or the Under Secretary’s designee;
     - **(D)** the Assistant Secretary for Postsecondary Education in the Department of Education, or the Assistant Secretary’s designee;

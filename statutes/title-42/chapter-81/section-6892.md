@@ -3,9 +3,9 @@ title: "Section 6892 - Annual report to Congress by Comptroller General"
 usc_title: 42
 usc_section: "6892"
 chapter: 81
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 6892"
-generated_at: "2026-03-30T07:13:46.004Z"
+generated_at: "2026-03-30T07:16:11.362Z"
 status: "active"
 ---
 

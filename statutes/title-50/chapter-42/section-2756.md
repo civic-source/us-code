@@ -3,9 +3,9 @@ title: "Section 2756 - Unfunded priorities of the National Nuclear Security Admi
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-30T07:13:58.442Z"
+generated_at: "2026-03-30T07:16:18.960Z"
 status: "active"
 ---
 

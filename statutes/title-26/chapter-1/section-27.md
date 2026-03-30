@@ -1,15 +1,15 @@
 ---
-title: "Section 27 - Taxes of foreign countries and possessions of the United States; possession tax credit"
+title: "Section 27 - Taxes of foreign countries and possessions of the United States"
 usc_title: 26
 usc_section: "27"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 27"
-generated_at: "2026-03-30T07:12:22.905Z"
+generated_at: "2026-03-30T07:15:38.918Z"
 status: "active"
 ---
 
-# § 27. Taxes of foreign countries and possessions of the United States; possession tax credit
+# § 27. Taxes of foreign countries and possessions of the United States
 
-- **(a)** The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901.
-- **(b)** In the case of a domestic corporation, the amount provided by section 936 (relating to Puerto Rico and possession tax credit) shall be allowed as a credit against the tax imposed by this chapter.
+The amount of taxes imposed by foreign countries and possessions of the United States shall be allowed as a credit against the tax imposed by this chapter to the extent provided in section 901 1 1 So in original.
+

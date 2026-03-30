@@ -3,9 +3,9 @@ title: "Section 2443 - Sustainment factors in weapon system design"
 usc_title: 10
 usc_section: "2443"
 chapter: 144
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2443"
-generated_at: "2026-03-30T07:11:06.623Z"
+generated_at: "2026-03-30T07:14:57.805Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6058 - Information required in connection with certain plans of 
 usc_title: 26
 usc_section: "6058"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6058"
-generated_at: "2026-03-30T07:12:23.097Z"
+generated_at: "2026-03-30T07:15:39.120Z"
 status: "active"
 ---
 
@@ -20,7 +20,6 @@ status: "active"
     - **(A)** the making of contributions (other than rollover contributions), and
     - **(B)** the making of distributions.
 - **(e)** For purposes of this section, the term “special IRP tax” means a tax imposed by—
-  - **(1)** section 408(f), 1 1 See References in Text note below.
-  - **(2)** section 4973, or
-  - **(3)** section 4974.
+  - **(1)** section 4973, or
+  - **(2)** section 4974.
 - **(f)** For provisions relating to penalties for failure to file a return required by this section, see section 6652(e). For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.

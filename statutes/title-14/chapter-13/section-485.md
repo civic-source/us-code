@@ -3,9 +3,9 @@ title: "Section 485 - Clothing for officers and enlisted personnel"
 usc_title: 14
 usc_section: "485"
 chapter: 13
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "14 U.S.C. § 485"
-generated_at: "2026-03-30T07:11:18.005Z"
+generated_at: "2026-03-30T07:15:06.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 24 - Child tax credit"
 usc_title: 26
 usc_section: "24"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 24"
-generated_at: "2026-03-30T07:12:22.903Z"
+generated_at: "2026-03-30T07:15:38.917Z"
 status: "active"
 ---
 
@@ -36,11 +36,10 @@ status: "active"
       - **(iii)** 50 percent of the taxes imposed by section 3211(a) on amounts received by the taxpayer during the calendar year in which the taxable year begins.
     - **(B)** The term “social security taxes” shall not include any taxes to the extent the taxpayer is entitled to a special refund of such taxes under section 6413(c).
     - **(C)** Any amounts paid pursuant to an agreement under section 3121( l ) (relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph (A)(i) shall be treated as taxes referred to in such subparagraph.
-  - **[(3)**
-  - **(5)** Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
+  - **(3)** Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
 - **(e)**
   - **(1)** No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.
-  - **(2)** No credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
+  - **(2)** No credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
 - **(f)** Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 - **(g)**
   - **(1)**

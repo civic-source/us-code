@@ -3,9 +3,9 @@ title: "Section 3838c - Duties of the Secretary"
 usc_title: 16
 usc_section: "3838c"
 chapter: 58
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 3838c"
-generated_at: "2026-03-30T07:11:43.306Z"
+generated_at: "2026-03-30T07:15:21.082Z"
 status: "active"
 ---
 

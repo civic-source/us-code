@@ -3,9 +3,9 @@ title: "Section 1391 - Designation procedure"
 usc_title: 26
 usc_section: "1391"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1391"
-generated_at: "2026-03-30T07:12:23.041Z"
+generated_at: "2026-03-30T07:15:39.063Z"
 status: "active"
 ---
 
@@ -65,9 +65,9 @@ status: "active"
     - **(D)** Subsection (e)(5) shall not apply to any enterprise community designated under subsection (a) that is also nominated for designation under this subsection.
     - **(E)**
       - **(i)** Section 1393(a)(4) shall not apply to an area nominated for designation under this subsection.
-      - **(ii)** An area in an Indian reservation shall be treated as nominated by a State and a local government if it is nominated by the reservation governing body (as determined by the Secretary of 1 1 So in original. Probably should be followed by “the”. Interior).
+      - **(ii)** An area in an Indian reservation shall be treated as nominated by a State and a local government if it is nominated by the reservation governing body (as determined by the Secretary of the Interior).
 - **(h)**
   - **(1)** In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
   - **(2)** A designation may be made under this subsection after the date of the enactment of this subsection and before January 1, 2002 .
   - **(3)** The rules of subsection (g)(3) shall apply to designations under this subsection.
-  - **(4)** The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
+  - **(4)** The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e). 1 1 See References in Text note below. Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.

@@ -3,9 +3,9 @@ title: "Section 149 - Congestion mitigation and air quality improvement program"
 usc_title: 23
 usc_section: "149"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "23 U.S.C. § 149"
-generated_at: "2026-03-30T07:12:08.066Z"
+generated_at: "2026-03-30T07:15:25.154Z"
 status: "active"
 ---
 
@@ -101,4 +101,4 @@ status: "active"
     - **(B)** describes progress made in achieving the air quality and traffic congestion performance targets described in section 150(d); and
     - **(C)** includes a description of projects identified for funding under this section and how such projects will contribute to achieving emission and traffic congestion reduction targets.
   - **(2)** Performance plans shall be updated biennially and include a separate report that assesses the progress of the program of projects under the previous plan in achieving the air quality and traffic congestion targets of the previous plan.
-- **(m)** A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation.
+- **(m)** A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported 1 1 So in original. Probably should be “State-supported”. Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.

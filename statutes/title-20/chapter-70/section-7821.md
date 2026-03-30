@@ -3,9 +3,9 @@ title: "Section 7821 - Consolidation of State administrative funds for elementar
 usc_title: 20
 usc_section: "7821"
 chapter: 70
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 7821"
-generated_at: "2026-03-30T07:11:45.096Z"
+generated_at: "2026-03-30T07:15:17.753Z"
 status: "active"
 ---
 

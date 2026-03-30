@@ -3,9 +3,9 @@ title: "Section 7712 - Annual report"
 usc_title: 22
 usc_section: "7712"
 chapter: 84
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 7712"
-generated_at: "2026-03-30T07:12:12.315Z"
+generated_at: "2026-03-30T07:15:29.079Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** The report shall include the following:
   - **(1)** The amount of obligations and expenditures for assistance provided to each eligible country during the prior fiscal year.
   - **(2)** For each eligible country, an assessment of—
-    - **(A)** the progress made during each year by the country toward achieving the objectives set out in the Compact entered into by the country; and
+    - **(A)** the progress made during each year by the country toward achieving the objectives set out in any Compact entered into by the country; and
     - **(B)** the extent to which assistance provided under section 7704 of this title has been effective in helping the country to achieve such objectives.
   - **(3)** A description of the coordination of assistance provided under section 7704 of this title with other United States foreign assistance and related trade policies.
   - **(4)** A description of the coordination of assistance provided under section 7704 of this title with assistance provided by other donor countries.

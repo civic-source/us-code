@@ -3,9 +3,9 @@ title: "Section 511 - Compensatory absence from duty for military personnel at i
 usc_title: 14
 usc_section: "511"
 chapter: 13
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "14 U.S.C. § 511"
-generated_at: "2026-03-30T07:11:18.006Z"
+generated_at: "2026-03-30T07:15:06.626Z"
 status: "active"
 ---
 

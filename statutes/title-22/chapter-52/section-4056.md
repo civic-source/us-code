@@ -3,9 +3,9 @@ title: "Section 4056 - Creditable service"
 usc_title: 22
 usc_section: "4056"
 chapter: 52
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 4056"
-generated_at: "2026-03-30T07:12:12.277Z"
+generated_at: "2026-03-30T07:15:29.041Z"
 status: "active"
 ---
 

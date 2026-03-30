@@ -3,9 +3,9 @@ title: "Section 6655 - Failure by corporation to pay estimated income tax"
 usc_title: 26
 usc_section: "6655"
 chapter: 68
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6655"
-generated_at: "2026-03-30T07:12:23.114Z"
+generated_at: "2026-03-30T07:15:39.138Z"
 status: "active"
 ---
 
@@ -77,7 +77,7 @@ status: "active"
       - **(ii)** The term “filing month” means the month in which the installment is required to be paid.
       - **(iii)** The Secretary may by regulations provide for the determination of the base period percentage in the case of reorganizations, new corporations, and other similar circumstances.
   - **(4)**
-    - **(A)** Any amounts required to be included in gross income under section 936(h) or 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under paragraph (2) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
+    - **(A)** Any amounts required to be included in gross income under section 951(a) (and credits properly allocable thereto) shall be taken into account in computing any annualized income installment under paragraph (2) in a manner similar to the manner under which partnership income inclusions (and credits properly allocable thereto) are taken into account.
     - **(B)**
       - **(i)** If a taxpayer elects to have this subparagraph apply for any taxable year—
         - **(I)** subparagraph (A) shall not apply, and

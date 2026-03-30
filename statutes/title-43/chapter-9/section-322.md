@@ -3,9 +3,9 @@ title: "Section 322 - Desert lands defined; question how determined"
 usc_title: 43
 usc_section: "322"
 chapter: 9
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 322"
-generated_at: "2026-03-30T07:12:59.789Z"
+generated_at: "2026-03-30T07:15:55.044Z"
 status: "active"
 ---
 

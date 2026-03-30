@@ -3,9 +3,9 @@ title: "Section 6011 - General requirement of return, statement, or list"
 usc_title: 26
 usc_section: "6011"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6011"
-generated_at: "2026-03-30T07:12:23.090Z"
+generated_at: "2026-03-30T07:15:39.112Z"
 status: "active"
 ---
 
@@ -31,6 +31,14 @@ status: "active"
     - **(B)** For purposes of this paragraph, the term “specified tax return preparer” means, with respect to any calendar year, any tax return preparer unless such preparer reasonably expects to file 10 or fewer individual income tax returns during such calendar year.
     - **(C)** For purposes of this paragraph, the term “individual income tax return” means any return of the tax imposed by subtitle A on individuals, estates, or trusts.
   - **(4)** The numerical limitation under paragraph (2)(A) shall not apply to any return filed by a financial institution (as defined in section 1471(d)(5)) with respect to tax for which such institution is made liable under section 1461 or 1474(a).
+  - **(5)**
+    - **(A)** In the case of a partnership, paragraph (2)(A) shall be applied by substituting for “250” the following amount:
+      - **(i)** In the case of returns and statements relating to calendar year 2018, “200”.
+      - **(ii)** In the case of returns and statements relating to calendar year 2019, “150”.
+      - **(iii)** In the case of returns and statements relating to calendar year 2020, “100”.
+      - **(iv)** In the case of returns and statements relating to calendar year 2021, “50”.
+      - **(v)** In the case of returns and statements relating to calendar years after 2021, “20”.
+    - **(B)** Notwithstanding subparagraph (A) and paragraph (2)(A), the Secretary shall require partnerships having more than 100 partners to file returns on magnetic media.
 - **(f)**
   - **(1)** The Secretary is authorized to promote the benefits of and encourage the use of electronic tax administration programs, as they become available, through the use of mass communications and other means.
   - **(2)** The Secretary may implement procedures to provide for the payment of appropriate incentives for electronically filed returns.

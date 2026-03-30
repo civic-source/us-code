@@ -3,9 +3,9 @@ title: "Section 1725 - Food Aid Consultative Group"
 usc_title: 7
 usc_section: "1725"
 chapter: 41
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 1725"
-generated_at: "2026-03-30T07:11:01.923Z"
+generated_at: "2026-03-30T07:15:04.439Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** There is established a Food Aid Consultative Group (hereinafter referred to in this section as the “Group”) that shall meet regularly to review and address issues concerning the effectiveness of the regulations and procedures that govern food assistance programs established and implemented under this subchapter, and the implementation of other provisions of this subchapter that may involve eligible organizations described in section 1722(d)(1) of this title .
 - **(b)** The Group shall be composed of—
   - **(1)** the Administrator;
-  - **(2)** the Under Secretary of Agriculture for Farm and Foreign Agricultural Services;
+  - **(2)** the Under Secretary of Agriculture for Farm and Foreign Agricultural Services; 1 1 See References in Text note below.
   - **(3)** the Inspector General of the Agency for International Development;
   - **(4)** a representative of each private voluntary organization and cooperative participating in a program under this subchapter, or receiving planning assistance funds from the Agency to establish programs under this subchapter;
   - **(5)** representatives from African, Asian and Latin American indigenous non-governmental organizations determined appropriate by the Administrator;

@@ -3,9 +3,9 @@ title: "Section 1788a - Family support programs: immediate family members of mem
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-30T07:11:06.597Z"
+generated_at: "2026-03-30T07:14:57.782Z"
 status: "active"
 ---
 
@@ -25,6 +25,6 @@ status: "active"
     - **(D)** Recommendations for incorporating lessons learned into other family support programs.
     - **(E)** Any other matters the Commander considers appropriate regarding the programs.
 - **(e)** In this section:
-  - **(1)** The term ‘Commander’ means the Commander of the United States Special Operations Command.
-  - **(2)** The term ‘immediate family members’ has the meaning given that term in section 1789(c) of this title .
-  - **(3)** The term ‘special operations forces’ means those forces of the armed forces identified as special operations forces under section 167(i) 1 1 See References in Text note below. of this title.
+  - **(1)** The term “Commander” means the Commander of the United States Special Operations Command.
+  - **(2)** The term “immediate family members” has the meaning given that term in section 1789(c) of this title .
+  - **(3)** The term “special operations forces” means those forces of the armed forces identified as special operations forces under section 167(i) 1 1 See References in Text note below. of this title.

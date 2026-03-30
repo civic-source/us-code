@@ -3,9 +3,9 @@ title: "Section 171a - Council on Oversight of the National Leadership Command, 
 usc_title: 10
 usc_section: "171a"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 171a"
-generated_at: "2026-03-30T07:11:06.542Z"
+generated_at: "2026-03-30T07:14:57.722Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
   - **(2)** In carrying out the responsibility for oversight of the command, control, and communications system as specified in paragraph (1), the Council shall be responsible for the following:
     - **(A)** Oversight of performance assessments (including interoperability).
     - **(B)** Vulnerability identification and mitigation.
-    - **(C)** Architecture development(including space system architectures and associated user terminals and ground segments).
+    - **(C)** Architecture development (including space system architectures and associated user terminals and ground segments).
     - **(D)** Resource prioritization.
     - **(E)** Such other responsibilities as the Secretary of Defense shall specify for purposes of this section.
 - **(e)** During the period preceding January 31, 2021 , at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31 , and from time to time after such period at the discretion of the Council, the Council shall submit to the congressional defense committees a report on the activities of the Council. Each report shall include the following:

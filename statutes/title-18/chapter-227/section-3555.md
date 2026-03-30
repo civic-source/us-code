@@ -3,9 +3,9 @@ title: "Section 3555 - Order of notice to victims"
 usc_title: 18
 usc_section: "3555"
 chapter: 227
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 3555"
-generated_at: "2026-03-30T07:11:47.941Z"
+generated_at: "2026-03-30T07:15:18.785Z"
 status: "active"
 ---
 

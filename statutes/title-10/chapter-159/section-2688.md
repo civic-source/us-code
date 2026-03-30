@@ -3,9 +3,9 @@ title: "Section 2688 - Utility systems: conveyance authority"
 usc_title: 10
 usc_section: "2688"
 chapter: 159
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2688"
-generated_at: "2026-03-30T07:11:06.634Z"
+generated_at: "2026-03-30T07:14:57.816Z"
 status: "active"
 ---
 

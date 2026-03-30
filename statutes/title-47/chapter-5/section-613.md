@@ -3,15 +3,15 @@ title: "Section 613 - Video programming accessibility"
 usc_title: 47
 usc_section: "613"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 613"
-generated_at: "2026-03-30T07:14:02.172Z"
+generated_at: "2026-03-30T07:16:15.781Z"
 status: "active"
 ---
 
 # § 613. Video programming accessibility
 
-- **(a)** Within 180 days after February 8, 1996 , the Federal Communications Commission shall complete an inquiry to ascertain the level at which video programming is closed captioned. Such inquiry shall examine the extent to which existing or previously published programming is closed captioned, the size of the video programming provider or programming owner providing closed captioning, the size of the market served, the relative audience shares achieved, or any other related factors. The Commission shall submit to the Congress a report on the results of such inquiry.
+- **(a)**
 - **(b)** Within 18 months after February 8, 1996 , the Commission shall prescribe such regulations as are necessary to implement this section. Such regulations shall ensure that—
   - **(1)** video programming first published or exhibited after the effective date of such regulations is fully accessible through the provision of closed captions, except as provided in subsection (d); and
   - **(2)** video programming providers or owners maximize the accessibility of video programming first published or exhibited prior to the effective date of such regulations through the provision of closed captions, except as provided in subsection (d).

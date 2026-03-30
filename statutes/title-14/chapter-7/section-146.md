@@ -3,9 +3,9 @@ title: "Section 146 - United States Postal Service"
 usc_title: 14
 usc_section: "146"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "14 U.S.C. § 146"
-generated_at: "2026-03-30T07:11:18.004Z"
+generated_at: "2026-03-30T07:15:06.624Z"
 status: "active"
 ---
 

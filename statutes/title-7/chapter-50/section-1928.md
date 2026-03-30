@@ -3,9 +3,9 @@ title: "Section 1928 - Full faith and credit"
 usc_title: 7
 usc_section: "1928"
 chapter: 50
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 1928"
-generated_at: "2026-03-30T07:11:01.930Z"
+generated_at: "2026-03-30T07:15:04.446Z"
 status: "active"
 ---
 

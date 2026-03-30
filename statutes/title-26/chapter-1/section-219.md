@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T07:12:22.948Z"
+generated_at: "2026-03-30T07:15:38.965Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ status: "active"
   - **(1)** any amount paid in cash for the taxable year by or on behalf of an individual to an individual retirement plan for such individual’s benefit, and
   - **(2)** any amount contributed on behalf of any individual to a plan described in section 501(c)(18).
 - **(f)**
-  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term “compensation” shall include any amount includible in the individual’s gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term compensation 2 2 So in original. Probably should be set off by quotation marks. includes any differential wage payment (as defined in section 3401(h)(2)).
+  - **(1)** For purposes of this section, the term “compensation” includes earned income (as defined in section 401(c)(2)). The term “compensation” does not include any amount received as a pension or annuity and does not include any amount received as deferred compensation. The term “compensation” shall include any amount includible in the individual’s gross income under section 71 with respect to a divorce or separation instrument described in subparagraph (A) of section 71(b)(2). For purposes of this paragraph, section 401(c)(2) shall be applied as if the term trade or business for purposes of section 1402 included service described in subsection (c)(6). The term “compensation” includes any differential wage payment (as defined in section 3401(h)(2)).
   - **(2)** The maximum deduction under subsection (b) shall be computed separately for each individual, and this section shall be applied without regard to any community property laws.
   - **(3)** For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
   - **[(4)**
@@ -105,6 +105,6 @@ status: "active"
   - **(7)** If this subsection applies to an individual for any taxable year solely because their spouse is an active participant, then, in applying this subsection to the individual (but not their spouse)—
     - **(A)** the applicable dollar amount under paragraph (3)(B)(i) shall be $150,000; and
     - **(B)** the amount applicable under paragraph (2)(A)(ii) shall be $10,000.
-  - **(8)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each 2 2 So in original. The word “each” probably should not appear. be increased by an amount equal to—
+  - **(8)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall be be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.

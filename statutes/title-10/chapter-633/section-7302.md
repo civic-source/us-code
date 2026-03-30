@@ -3,9 +3,9 @@ title: "Section 7302 - Repealed. Pub. L. 103–355, title III , § 3024(a), Oct.
 usc_title: 10
 usc_section: "7302"
 chapter: 633
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 7302"
-generated_at: "2026-03-30T07:11:06.659Z"
+generated_at: "2026-03-30T07:14:57.840Z"
 status: "repealed"
 ---
 

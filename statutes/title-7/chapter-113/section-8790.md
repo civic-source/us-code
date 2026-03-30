@@ -3,9 +3,9 @@ title: "Section 8790 - Signature authority"
 usc_title: 7
 usc_section: "8790"
 chapter: 113
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 8790"
-generated_at: "2026-03-30T07:11:02.024Z"
+generated_at: "2026-03-30T07:15:04.540Z"
 status: "active"
 ---
 

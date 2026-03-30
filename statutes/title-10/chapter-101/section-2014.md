@@ -3,9 +3,9 @@ title: "Section 2014 - Administrative actions adversely affecting military train
 usc_title: 10
 usc_section: "2014"
 chapter: 101
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 2014"
-generated_at: "2026-03-30T07:11:06.599Z"
+generated_at: "2026-03-30T07:14:57.783Z"
 status: "active"
 ---
 

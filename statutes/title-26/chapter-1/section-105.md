@@ -3,9 +3,9 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-30T07:12:22.926Z"
+generated_at: "2026-03-30T07:15:38.941Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
   - **(6)** The term “self-insured medical reimbursement plan” means a plan of an employer to reimburse employees for expenses referred to in subsection (b) for which reimbursement is not provided under a policy of accident and health insurance.
   - **(7)** For purposes of this section, the excess reimbursement of a highly compensated individual which is attributable to a self-insured medical reimbursement plan is—
     - **(A)** in the case of a benefit available to highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B)), the amount reimbursed under the plan to the employee with respect to such benefit, and
-    - **(B)** in the case of benefits (other than benefits described in subparagraph (A) 1 1 So in original. Probably should be followed by a closing parenthesis. paid to a highly compensated individual by a plan which fails to satisfy the requirements of paragraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
+    - **(B)** in the case of benefits (other than benefits described in subparagraph (A)) paid to a highly compensated individual by a plan which fails to satisfy the requirements of paragraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
       - **(i)** the numerator of which is the total amount reimbursed to all participants who are highly compensated individuals under the plan for the plan year, and
       - **(ii)** the denominator of which is the total amount reimbursed to all employees under the plan for such plan year.
   - **(8)** All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.

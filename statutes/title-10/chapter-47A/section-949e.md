@@ -3,9 +3,9 @@ title: "Section 949e - Continuances"
 usc_title: 10
 usc_section: "949e"
 chapter: 47
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 949e"
-generated_at: "2026-03-30T07:11:06.565Z"
+generated_at: "2026-03-30T07:14:57.748Z"
 status: "active"
 ---
 

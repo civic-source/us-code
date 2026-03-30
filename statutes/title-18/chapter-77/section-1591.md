@@ -3,9 +3,9 @@ title: "Section 1591 - Sex trafficking of children or by force, fraud, or coerci
 usc_title: 18
 usc_section: "1591"
 chapter: 77
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 1591"
-generated_at: "2026-03-30T07:11:47.917Z"
+generated_at: "2026-03-30T07:15:18.761Z"
 status: "active"
 ---
 
@@ -26,5 +26,6 @@ status: "active"
     - **(B)** any scheme, plan, or pattern intended to cause a person to believe that failure to perform an act would result in serious harm to or physical restraint against any person; or
     - **(C)** the abuse or threatened abuse of law or the legal process.
   - **(3)** The term “commercial sex act” means any sex act, on account of which anything of value is given to or received by any person.
-  - **(4)** The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
-  - **(5)** The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
+  - **(4)** The term “participation in a venture” means knowingly assisting, supporting, or facilitating a violation of subsection (a)(1).
+  - **(5)** The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing commercial sexual activity in order to avoid incurring that harm.
+  - **(6)** The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.

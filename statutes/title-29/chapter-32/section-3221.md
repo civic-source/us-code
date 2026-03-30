@@ -3,9 +3,9 @@ title: "Section 3221 - Native American programs"
 usc_title: 29
 usc_section: "3221"
 chapter: 32
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "29 U.S.C. § 3221"
-generated_at: "2026-03-30T07:12:16.149Z"
+generated_at: "2026-03-30T07:15:34.255Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** identify the education and employment needs of the population to be served and the manner in which the activities to be provided will strengthen the ability of the individuals served to obtain or retain unsubsidized employment leading to self-sufficiency;
   - **(4)** describe the activities to be provided and the manner in which such activities are to be integrated with other appropriate activities; and
   - **(5)** describe, after the entity submitting the plan consults with the Secretary, the performance accountability measures to be used to assess the performance of entities in carrying out the activities assisted under this section, which shall include the primary indicators of performance described in section 3141(b)(2)(A) of this title and expected levels of performance for such indicators, in accordance with subsection (h).
-- **(f)** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.).
+- **(f)** Each entity receiving assistance under subsection (c) may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 ( 25 U.S.C. 3401 et seq.). 1
 - **(g)** Nothing in this section shall be construed—
   - **(1)** to limit the eligibility of any entity described in subsection (c) to participate in any activity offered by a State or local entity under this Act; or
   - **(2)** to preclude or discourage any agreement, between any entity described in subsection (c) and any State or local entity, to facilitate the provision of services by such entity or to the population served by such entity.

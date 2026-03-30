@@ -3,9 +3,9 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T07:11:44.994Z"
+generated_at: "2026-03-30T07:15:17.654Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
         - **(V)** $0 for fiscal year 2015;
         - **(VI)** $0 for fiscal year 2016;
         - **(VII)** $1,320,000,000 for fiscal year 2017;
-        - **(VIII)** $1,382,000,000 for fiscal year 2018;
+        - **(VIII)** $1,334,000,000 for fiscal year 2018;
         - **(IX)** $1,409,000,000 for fiscal year 2019;
         - **(X)** $1,430,000,000 for fiscal year 2020; and
         - **(XI)** $1,145,000,000 for fiscal year 2021 and each succeeding fiscal year.

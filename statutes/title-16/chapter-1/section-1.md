@@ -3,9 +3,9 @@ title: "Section 1 - Administration"
 usc_title: 16
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T07:11:43.192Z"
+generated_at: "2026-03-30T07:15:20.962Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** Within the national historical park the Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer, or exchange, lands and interests therein, except that property owned by the State of Georgia or any political subdivision thereof may be acquired only by donation or exchange.
   - **(2)** Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
-    - **(A)** the Secretary may acquire such property in accordancewith the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+    - **(A)** the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
     - **(B)** with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
   - **(3)** Property may be acquired pursuant to this section subject to such conditions and reservations as in the judgment of the Secretary are not inconsistent with the purposes of this subchapter and the administration of the national historical park, including, in the event that the burial site of Martin Luther King, Junior, is acquired, the condition that his widow may be interred therein.
   - **(4)** Any and all legal or equitable title, interests, or encumbrances, if any, held by the Department of Housing and Urban Development in the property designated “Parcel A” on the map referenced in section 460bbbb of this title are hereby conveyed to the Secretary to be administered in accordance with the purposes of this subchapter.

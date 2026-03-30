@@ -3,9 +3,9 @@ title: "Section 1374 - Tax imposed on certain built-in gains"
 usc_title: 26
 usc_section: "1374"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1374"
-generated_at: "2026-03-30T07:12:23.040Z"
+generated_at: "2026-03-30T07:15:39.062Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(A)** The term “net recognized built-in gain” means, with respect to any taxable year in the recognition period, the lesser of—
       - **(i)** the amount which would be the taxable income of the S corporation for such taxable year if only recognized built-in gains and recognized built-in losses were taken into account, or
       - **(ii)** such corporation’s taxable income for such taxable year (determined as provided in section 1375(b)(1)(B)).
-    - **(B)** If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year. The preceding sentence shall apply only in the case of a corporation treated as an S corporation by reason of an election made on or after March 31, 1988 .
+    - **(B)** If, for any taxable year described in subparagraph (A), the amount referred to in clause (i) of subparagraph (A) exceeds the amount referred to in clause (ii) of subparagraph (A), such excess shall be treated as a recognized built-in gain in the succeeding taxable year.
   - **(3)** The term “recognized built-in gain” means any gain recognized during the recognition period on the disposition of any asset except to the extent that the S corporation establishes that—
     - **(A)** such asset was not held by the S corporation as of the beginning of the 1st taxable year for which it was an S corporation, or
     - **(B)** such gain exceeds the excess (if any) of—

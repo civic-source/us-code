@@ -3,9 +3,9 @@ title: "Section 2113a - Good neighbor authority"
 usc_title: 16
 usc_section: "2113a"
 chapter: 41
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 2113a"
-generated_at: "2026-03-30T07:11:43.289Z"
+generated_at: "2026-03-30T07:15:21.063Z"
 status: "active"
 ---
 
@@ -29,12 +29,15 @@ status: "active"
       - **(ii)** activities to reduce hazardous fuels; and
       - **(iii)** any other activities to restore or improve forest, rangeland, and watershed health, including fish and wildlife habitat.
     - **(B)** The term “forest, rangeland, and watershed restoration services” does not include—
-      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas; or
+      - **(i)** construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+        - **(I)** necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
+        - **(II)** in the case of a National Forest System road that is determined to be unneeded in accordance with section 212.5(b)(2) of title 36, Code of Federal Regulations (as in effect on the date of enactment of the Good Neighbor Authority Improvement Act), 1 1 See References in Text note below. decommissioned in accordance with subparagraph (A)(iii)—
       - **(ii)** construction, alteration, repair or replacement of public buildings or works.
   - **(4)** The term “good neighbor agreement” means a cooperative agreement or contract (including a sole source contract) entered into between the Secretary and a Governor to carry out authorized restoration services under this section.
   - **(5)** The term “Governor” means the Governor or any other appropriate executive official of an affected State or the Commonwealth of Puerto Rico.
-  - **(6)** The term “road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014 ).
-  - **(7)** The term “Secretary” means—
+  - **(6)** The term “National Forest System road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on the date of enactment of the Good Neighbor Authority Improvement Act). 1
+  - **(7)** The term “road” has the meaning given the term in section 212.1 of title 36, Code of Federal Regulations (as in effect on February 7, 2014 ).
+  - **(8)** The term “Secretary” means—
     - **(A)** the Secretary of Agriculture, with respect to National Forest System land; and
     - **(B)** the Secretary of the Interior, with respect to Bureau of Land Management land.
 - **(b)**

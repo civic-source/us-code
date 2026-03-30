@@ -3,9 +3,9 @@ title: "Section 389a - Conditions of transfer of dry land and irrigation field s
 usc_title: 7
 usc_section: "389a"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 389a"
-generated_at: "2026-03-30T07:11:01.882Z"
+generated_at: "2026-03-30T07:15:04.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5907 - Effective date"
 usc_title: 49
 usc_section: "5907"
 chapter: 59
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 5907"
-generated_at: "2026-03-30T07:14:01.715Z"
+generated_at: "2026-03-30T07:16:21.494Z"
 status: "active"
 ---
 

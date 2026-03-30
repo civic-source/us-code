@@ -3,9 +3,9 @@ title: "Section 5a - Transfer of New Communities Fund assets and liabilities"
 usc_title: 12
 usc_section: "5a"
 chapter: 13
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "12 U.S.C. § 5a"
-generated_at: "2026-03-30T07:11:36.626Z"
+generated_at: "2026-03-30T07:15:09.755Z"
 status: "active"
 ---
 

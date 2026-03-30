@@ -3,9 +3,9 @@ title: "Section 9304 - Aviation students: detail of enlisted members of Air Forc
 usc_title: 10
 usc_section: "9304"
 chapter: 901
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 9304"
-generated_at: "2026-03-30T07:11:06.666Z"
+generated_at: "2026-03-30T07:14:57.847Z"
 status: "active"
 ---
 

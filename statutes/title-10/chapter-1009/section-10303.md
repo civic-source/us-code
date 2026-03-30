@@ -3,9 +3,9 @@ title: "Section 10303 - Navy Reserve Policy Board"
 usc_title: 10
 usc_section: "10303"
 chapter: 1009
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 10303"
-generated_at: "2026-03-30T07:11:06.671Z"
+generated_at: "2026-03-30T07:14:57.853Z"
 status: "active"
 ---
 

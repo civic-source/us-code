@@ -3,9 +3,9 @@ title: "Section 1 - Designation"
 usc_title: 26
 usc_section: "1"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1"
-generated_at: "2026-03-30T07:12:23.046Z"
+generated_at: "2026-03-30T07:15:39.065Z"
 status: "active"
 ---
 

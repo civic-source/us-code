@@ -3,9 +3,9 @@ title: "Section 3060 - Preliminary examination"
 usc_title: 18
 usc_section: "3060"
 chapter: 203
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "18 U.S.C. § 3060"
-generated_at: "2026-03-30T07:11:47.934Z"
+generated_at: "2026-03-30T07:15:18.779Z"
 status: "active"
 ---
 

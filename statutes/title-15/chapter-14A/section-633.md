@@ -3,9 +3,9 @@ title: "Section 633 - Small Business Administration"
 usc_title: 15
 usc_section: "633"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 633"
-generated_at: "2026-03-30T07:11:26.934Z"
+generated_at: "2026-03-30T07:15:11.815Z"
 status: "active"
 ---
 
@@ -94,7 +94,7 @@ status: "active"
       - **(ii)** for any person serving as a Business Opportunity Specialist on or before January 3, 2013 , until January 3, 2020 .
   - **(3)** The duties and certification requirements described in this subsection shall be included in any initial job posting for the position of a Business Opportunity Specialist.
 - **(h)**
-  - **(1)** The principal duties of a commercial market representative employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title(or the designee of the official) shall be to advance the policies established in section 637(d)(1) of this title relating to subcontracting, including—
+  - **(1)** The principal duties of a commercial market representative employed by the Administrator and reporting to the senior official appointed by the Administrator with responsibilities under sections 637, 644, 657a, and 657f of this title (or the designee of the official) shall be to advance the policies established in section 637(d)(1) of this title relating to subcontracting, including—
     - **(A)** helping prime contractors to find small business concerns that are capable of performing subcontracts;
     - **(B)** for contractors awarded contracts containing the clause described in section 637(d)(3) of this title , providing—
       - **(i)** counseling on the responsibility of the contractor to maximize subcontracting opportunities for small business concerns;

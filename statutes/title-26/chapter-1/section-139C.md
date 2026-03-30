@@ -1,15 +1,13 @@
 ---
-title: "Section 139C - COBRA premium assistance"
+title: "Section 139C - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(7)(C), Mar. 23, 2018 , 132 Stat. 1212 ]"
 usc_title: 26
 usc_section: "139C"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 139C"
-generated_at: "2026-03-30T07:12:22.930Z"
-status: "active"
+generated_at: "2026-03-30T07:15:38.945Z"
+status: "repealed"
 ---
 
-# § 139C. COBRA premium assistance
-
-In the case of an assistance eligible individual (as defined in section 3001 of title III of division B of the American Recovery and Reinvestment Act of 2009), gross income does not include any premium reduction provided under subsection (a) of such section.
+# [§ 139C. Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(7)(C), Mar. 23, 2018 , 132 Stat. 1212 ]
 

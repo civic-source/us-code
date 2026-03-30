@@ -3,9 +3,9 @@ title: "Section 7442 - Federal Cyber Scholarship-for-Service Program"
 usc_title: 15
 usc_section: "7442"
 chapter: 100
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 7442"
-generated_at: "2026-03-30T07:11:27.045Z"
+generated_at: "2026-03-30T07:15:11.937Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** Congress, including any agency, entity, office, or commission established in the legislative branch;
   - **(3)** an interstate agency;
   - **(4)** a State, local, or Tribal government; or
-  - **(5)** a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in section 5195c(e) of title 42 .
+  - **(5)** a State, local, or Tribal government-affiliated non-profit that is considered to be critical infrastructure (as defined in section 5195c(e) of title 42 ).
 - **(e)**
   - **(1)** Notwithstanding any provision of chapter 33 of title 5 governing appointments in the competitive service, an agency shall appoint in the excepted service an individual who has completed the eligible degree program for which a scholarship was awarded.
   - **(2)** Except as provided in paragraph (4), upon fulfillment of the service term, an employee appointed under paragraph (1) may be converted noncompetitively to term, career-conditional or career appointment.

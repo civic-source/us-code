@@ -3,9 +3,9 @@ title: "Section 30703 - Bills of lading"
 usc_title: 46
 usc_section: "30703"
 chapter: 307
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "46 U.S.C. § 30703"
-generated_at: "2026-03-30T07:13:55.190Z"
+generated_at: "2026-03-30T07:16:16.879Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20113 - Powers of the Administration in performance of functions
 usc_title: 51
 usc_section: "20113"
 chapter: 201
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "51 U.S.C. § 20113"
-generated_at: "2026-03-30T07:14:03.925Z"
+generated_at: "2026-03-30T07:16:24.115Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
 - **(d)** In the performance of its functions, the Administration is authorized to accept unconditional gifts or donations of services, money, or property, real, personal, or mixed, tangible or intangible.
 - **(e)** In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of section 3324 of title 31 , to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
 - **(f)** In the performance of its functions, the Administration is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement, and on a similar basis to cooperate with other public and private agencies and instrumentalities in the use of services, equipment, and facilities. Each department and agency of the Federal Government shall cooperate fully with the Administration in making its services, equipment, personnel, and facilities available to the Administration, and any such department or agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, aeronautical and space vehicles, and supplies and equipment other than administrative supplies or equipment.
-- **(g)** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration and Congress.
+- **(g)** In the performance of its functions, the Administration is authorized to appoint such advisory committees as may be appropriate for purposes of consultation and advice to the Administration.
 - **(h)** In the performance of its functions, the Administration is authorized to establish within the Administration such offices and procedures as may be appropriate to provide for the greatest possible coordination of its activities under this chapter with related scientific and other activities being carried on by other public and private agencies and organizations.
 - **(i)** In the performance of its functions, the Administration is authorized to obtain services as provided by section 3109 of title 5 , but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable under section 5376 of title 5 .
 - **(j)** In the performance of its functions, the Administration is authorized, when determined by the Administrator to be necessary, and subject to such security investigations as the Administrator may determine to be appropriate, to employ aliens without regard to statutory provisions prohibiting payment of compensation to aliens.

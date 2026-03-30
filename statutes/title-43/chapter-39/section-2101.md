@@ -3,9 +3,9 @@ title: "Section 2101 - Findings"
 usc_title: 43
 usc_section: "2101"
 chapter: 39
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 2101"
-generated_at: "2026-03-30T07:12:59.833Z"
+generated_at: "2026-03-30T07:15:55.109Z"
 status: "active"
 ---
 

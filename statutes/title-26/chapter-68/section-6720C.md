@@ -1,15 +1,13 @@
 ---
-title: "Section 6720C - Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance"
+title: "Section 6720C - Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(7)(B), Mar. 23, 2018 , 132 Stat. 1212 ]"
 usc_title: 26
 usc_section: "6720C"
 chapter: 68
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6720C"
-generated_at: "2026-03-30T07:12:23.118Z"
-status: "active"
+generated_at: "2026-03-30T07:15:39.142Z"
+status: "repealed"
 ---
 
-# § 6720C. Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance
+# [§ 6720C. Repealed. Pub. L. 115–141, div. U, title IV , § 401(d)(7)(B), Mar. 23, 2018 , 132 Stat. 1212 ]
 
-- **(a)** Any person required to notify a group health plan under section 3001(a)(2)(C) of title III of division B of the American Recovery and Reinvestment Act of 2009 who fails to make such a notification at such time and in such manner as the Secretary of Labor may require shall pay a penalty of 110 percent of the premium reduction provided under such section after termination of eligibility under such subsection.
-- **(b)** No penalty shall be imposed under subsection (a) with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.

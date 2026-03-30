@@ -3,9 +3,9 @@ title: "Section 2156 - Regulations"
 usc_title: 50
 usc_section: "2156"
 chapter: 38
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 2156"
-generated_at: "2026-03-30T07:13:58.432Z"
+generated_at: "2026-03-30T07:16:18.945Z"
 status: "active"
 ---
 

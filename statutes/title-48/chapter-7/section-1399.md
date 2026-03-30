@@ -3,9 +3,9 @@ title: "Section 1399 - Repealed. Pub. L. 97–357, title III , § 308(b), Oct. 1
 usc_title: 48
 usc_section: "1399"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "48 U.S.C. § 1399"
-generated_at: "2026-03-30T07:13:54.544Z"
+generated_at: "2026-03-30T07:16:17.360Z"
 status: "repealed"
 ---
 

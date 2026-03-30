@@ -3,9 +3,9 @@ title: "Section 3604 - Exemptions"
 usc_title: 15
 usc_section: "3604"
 chapter: 62
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 3604"
-generated_at: "2026-03-30T07:11:27.020Z"
+generated_at: "2026-03-30T07:15:11.909Z"
 status: "active"
 ---
 

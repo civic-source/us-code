@@ -3,9 +3,9 @@ title: "Section 2216 - Repealed. Pub. L. 95–424, title I , § 102(g)(1)(A), Oc
 usc_title: 22
 usc_section: "2216"
 chapter: 32
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 2216"
-generated_at: "2026-03-30T07:12:12.234Z"
+generated_at: "2026-03-30T07:15:28.998Z"
 status: "repealed"
 ---
 

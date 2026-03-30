@@ -3,9 +3,9 @@ title: "Section 16481 - Commission defined"
 usc_title: 42
 usc_section: "16481"
 chapter: 149
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 16481"
-generated_at: "2026-03-30T07:13:46.180Z"
+generated_at: "2026-03-30T07:16:11.644Z"
 status: "active"
 ---
 

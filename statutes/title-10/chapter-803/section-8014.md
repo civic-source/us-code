@@ -3,9 +3,9 @@ title: "Section 8014 - Office of the Secretary of the Air Force"
 usc_title: 10
 usc_section: "8014"
 chapter: 803
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 8014"
-generated_at: "2026-03-30T07:11:06.663Z"
+generated_at: "2026-03-30T07:14:57.844Z"
 status: "active"
 ---
 

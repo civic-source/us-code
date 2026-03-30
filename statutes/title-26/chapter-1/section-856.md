@@ -3,9 +3,9 @@ title: "Section 856 - Definition of real estate investment trust"
 usc_title: 26
 usc_section: "856"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 856"
-generated_at: "2026-03-30T07:12:23.009Z"
+generated_at: "2026-03-30T07:15:39.030Z"
 status: "active"
 ---
 
@@ -97,13 +97,13 @@ status: "active"
     - **(A)** following the corporation, trust, or association’s identification of the failure to meet the requirements of paragraph (2) or (3), or of both such paragraphs, for any taxable year, a description of each item of its gross income described in such paragraphs is set forth in a schedule for such taxable year filed in accordance with regulations prescribed by the Secretary, and
     - **(B)** the failure to meet the requirements of paragraph (2) or (3), or of both such paragraphs, is due to reasonable cause and not due to willful neglect.
   - **(7)**
-    - **(A)** A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iii) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+    - **(A)** A corporation, trust, or association that fails to meet the requirements of paragraph (4) (other than a failure to meet the requirements of paragraph (4)(B)(iv) which is described in subparagraph (B)(i) of this paragraph) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
       - **(i)** following the corporation, trust, or association’s identification of the failure to satisfy the requirements of such paragraph for a particular quarter, a description of each asset that causes the corporation, trust, or association to fail to satisfy the requirements of such paragraph at the close of such quarter of any taxable year is set forth in a schedule for such quarter filed in accordance with regulations prescribed by the Secretary,
       - **(ii)** the failure to meet the requirements of such paragraph for a particular quarter is due to reasonable cause and not due to willful neglect, and
       - **(iii)**
         - **(I)** the corporation, trust, or association disposes of the assets set forth on the schedule specified in clause (i) within 6 months after the last day of the quarter in which the corporation, trust or association’s identification of the failure to satisfy the requirements of such paragraph occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
         - **(II)** the requirements of such paragraph are otherwise met within the time period specified in subclause (I).
-    - **(B)** A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iii) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
+    - **(B)** A corporation, trust, or association that fails to meet the requirements of paragraph (4)(B)(iv) for a particular quarter shall nevertheless be considered to have satisfied the requirements of such paragraph for such quarter if—
       - **(i)** such failure is due to the ownership of assets the total value of which does not exceed the lesser of—
         - **(I)** 1 percent of the total value of the trust’s assets at the end of the quarter for which such measurement is done, and
         - **(II)** $10,000,000, and
@@ -118,10 +118,20 @@ status: "active"
       - **(iii)** For purposes of subtitle F, the taxes imposed by this subparagraph shall be treated as excise taxes with respect to which the deficiency procedures of such subtitle apply.
   - **(8)** If a corporation was a distributing corporation or a controlled corporation (other than a controlled corporation with respect to a distribution described in section 355(h)(2)(A)) with respect to any distribution to which section 355 (or so much of section 356 as relates to section 355) applied, such corporation (and any successor corporation) shall not be eligible to make any election under paragraph (1) for any taxable year beginning before the end of the 10-year period beginning on the date of such distribution.
   - **(9)**
-    - **(A)** Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
-    - **(B)** In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
-      - **(i)** for purposes of paragraph (3)(B), as an obligation described therein, and
-      - **(ii)** for purposes of paragraph (4)(A), as a real estate asset.
+    - **(A)**
+      - **(i)** Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
+      - **(ii)** If—
+        - **(I)** personal property is leased under, or in connection with, a lease of real property, for a period of not less than 1 year, and rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C),
+        - **(II)** any portion of such personal property and any portion of such real property are sold, or otherwise disposed of, in a single disposition (or contemporaneously in separate dispositions), and
+        - **(III)** the fair market value of the personal property so sold or contemporaneously disposed of (determined at the time of disposition) does not exceed 15 percent of the total fair market value of all of the personal and real property so sold or contemporaneously disposed of (determined at the time of disposition),
+    - **(B)**
+      - **(i)** In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
+        - **(I)** for purposes of paragraph (3)(B), as an obligation described therein,
+        - **(II)** for purposes of paragraph (4)(A), as a real estate asset, and
+        - **(III)** for purposes of paragraphs (2)(D) and (3)(C), as a mortgage on real property.
+      - **(ii)**
+        - **(I)** Except as provided in subclause (II), the fair market value of all such property shall be determined for purposes of clause (i) in the same manner as the fair market value of real property is determined for purposes of apportioning interest income between real property and personal property under paragraph (3)(B).
+        - **(II)** For purposes of applying clause (i)(III), fair market value shall be determined at the time of sale or other disposition.
   - **(10)** For purposes of this subsection, the term “termination date” means, with respect to any taxpayer, the last day of the taxpayer’s first taxable year beginning after the date of the enactment of this paragraph and before the date that is 1 year after such date of enactment.
 - **(d)**
   - **(1)** For purposes of paragraphs (2) and (3) of subsection (c), the term “rents from real property” includes (subject to paragraph (2))—
@@ -302,7 +312,7 @@ status: "active"
     - **(A)** The term “lodging facility” has the meaning given to such term by subsection (d)(9)(D)(ii).
     - **(B)** The term “health care facility” has the meaning given to such term by subsection (e)(6)(D)(ii).
 - **(m)**
-  - **(1)** In applying subclause (III) of subsection (c)(4)(B)(iii), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
+  - **(1)** In applying subclause (III) of subsection (c)(4)(B)(iv), except as otherwise determined by the Secretary in regulations, the following shall not be considered securities held by the trust:
     - **(A)** Straight debt securities of an issuer which meet the requirements of paragraph (2).
     - **(B)** Any loan to an individual or an estate.
     - **(C)** Any section 467 rental agreement (as defined in section 467(d)), other than with a person described in subsection (d)(2)(B).
@@ -321,22 +331,16 @@ status: "active"
       - **(i)** are not described in paragraph (1) (prior to the application of this subparagraph), and
       - **(ii)** have an aggregate value greater than 1 percent of the issuer’s outstanding securities determined without regard to paragraph (3)(A)(i).
   - **(3)**
-    - **(A)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
+    - **(A)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
       - **(i)** a trust’s interest as a partner in a partnership (as defined in section 7701(a)(2)) shall not be considered a security, and
       - **(ii)** the trust shall be deemed to own its proportionate share of each of the assets of the partnership.
     - **(B)** For purposes of subparagraph (A), with respect to any taxable year beginning after the date of the enactment of this subparagraph—
       - **(i)** the trust’s interest in the partnership assets shall be the trust’s proportionate interest in any securities issued by the partnership (determined without regard to subparagraph (A)(i) and paragraph (4), but not including securities described in paragraph (1)), and
       - **(ii)** the value of any debt instrument shall be the adjusted issue price thereof, as defined in section 1272(a)(4).
-  - **(4)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iii)—
+  - **(4)** For purposes of applying subclause (III) of subsection (c)(4)(B)(iv)—
     - **(A)** any debt instrument issued by a partnership and not described in paragraph (1) shall not be considered a security to the extent of the trust’s interest as a partner in the partnership, and
     - **(B)** any debt instrument issued by a partnership and not described in paragraph (1) shall not be considered a security if at least 75 percent of the partnership’s gross income (excluding gross income from prohibited transactions) is derived from sources referred to in subsection (c)(3).
-  - **(5)** The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iii) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
-  - **(6)**
-    - **(A)** Notwithstanding paragraph (2)(C), securities held by a trust shall not be considered securities held by the trust for purposes of subsection (c)(4)(B)(iii)(III) during any period beginning on or before October 22, 2004 , if such securities—
-      - **(i)** are held by such trust continuously during such period, and
-      - **(ii)** would not be taken into account for purposes of such subsection by reason of paragraph (7)(C) of subsection (c) (as in effect on October 22, 2004 ) if the amendments made by section 243 of the American Jobs Creation Act of 2004 had never been enacted.
-    - **(B)** Subparagraph (A) shall not apply with respect to any security after the later of October 22, 2004 , or the latest maturity date under the contract (as in effect on October 22, 2004 ) taking into account any renewal or extension permitted under the contract if such renewal or extension does not significantly modify any other terms of the contract.
-    - **(C)** If the successor of a trust to which this paragraph applies acquires securities in a transaction to which section 381 applies, such trusts shall be treated as a single entity for purposes of determining the holding period of such securities under subparagraph (A).
+  - **(5)** The Secretary is authorized to provide guidance (including through the issuance of a written determination, as defined in section 6110(b)) that an arrangement shall not be considered a security held by the trust for purposes of applying subclause (III) of subsection (c)(4)(B)(iv) notwithstanding that such arrangement otherwise could be considered a security under subparagraph (F) of subsection (c)(5).
 - **(n)**
   - **(1)** For purposes of this part—
     - **(A)** passive foreign exchange gain for any taxable year shall not constitute gross income for purposes of subsection (c)(2), and

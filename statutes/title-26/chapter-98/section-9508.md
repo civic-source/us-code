@@ -3,9 +3,9 @@ title: "Section 9508 - Leaking Underground Storage Tank Trust Fund"
 usc_title: 26
 usc_section: "9508"
 chapter: 98
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 9508"
-generated_at: "2026-03-30T07:12:23.137Z"
+generated_at: "2026-03-30T07:15:39.164Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(3)** taxes received in the Treasury under section 4042 (relating to tax on fuel used in commercial transportation on inland waterways) to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under such section, and
   - **(4)** amounts received in the Treasury and collected under section 9003(h)(6) of the Solid Waste Disposal Act.
 - **(c)**
-  - **(1)** Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the 1 1 So in original. Public Law 109–168 .
+  - **(1)** Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of Public Law 109–168 .
   - **(2)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $2,400,000,000 to be transferred under section 9503(f)(3) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
   - **(3)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $1,000,000,000 to be transferred under section 9503(f)(6) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
   - **(4)** Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated—

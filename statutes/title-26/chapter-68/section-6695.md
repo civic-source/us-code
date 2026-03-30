@@ -3,9 +3,9 @@ title: "Section 6695 - Other assessable penalties with respect to the preparatio
 usc_title: 26
 usc_section: "6695"
 chapter: 68
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 6695"
-generated_at: "2026-03-30T07:12:23.116Z"
+generated_at: "2026-03-30T07:15:39.141Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(1)** eligibility to file as a head of household (as defined in section 2(b)) on the return, or
   - **(2)** eligibility for, or the amount of, the credit allowable by section 24, 25A(a)(1), or 32,
 - **(h)**
-  - **(1)** In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
-  - **(2)** If any amount adjusted under subparagraph (A)— 1 1 So in original. Probably should be “paragraph (1)—”.
+  - **(1)** In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for the calendar year determined by substituting “calendar year 2013” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  - **(2)** If any amount adjusted under paragraph (1)—
     - **(A)** is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
-    - **(B)** is not described in clause (i) 2 2 So in original. Probably should be “subparagraph (A)”. and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+    - **(B)** is not described in subparagraph (A) and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.

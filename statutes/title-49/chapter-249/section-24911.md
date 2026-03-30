@@ -3,9 +3,9 @@ title: "Section 24911 - Federal-State partnership for state of good repair"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-30T07:14:01.736Z"
+generated_at: "2026-03-30T07:16:21.528Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
     - **(E)** if applicable, the consistency of the project with planning guidance and documents set forth by the Secretary or required by law; and
     - **(F)** any other relevant factors, as determined by the Secretary.
 - **(e)**
-  - **(1)** Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation on the Northeast Corridor are in compliance with section 24905(c)(2).
+  - **(1)** Grant funds may not be provided under this section to an eligible recipient for an eligible project located on the Northeast Corridor unless Amtrak and the public authorities providing commuter rail passenger transportation at the eligible project location on the Northeast Corridor are in compliance with section 24905(c)(2).
   - **(2)** When selecting projects located on the Northeast Corridor, the Secretary shall consider the appropriate sequence and phasing of projects as contained in the Northeast Corridor capital investment plan developed pursuant to section 24904(a).
 - **(f)**
   - **(1)** The Secretary shall estimate the total cost of a project under this section based on the best available information, including engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.

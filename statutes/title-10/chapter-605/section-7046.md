@@ -3,9 +3,9 @@ title: "Section 7046 - Officers of foreign countries: admission"
 usc_title: 10
 usc_section: "7046"
 chapter: 605
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 7046"
-generated_at: "2026-03-30T07:11:06.657Z"
+generated_at: "2026-03-30T07:14:57.838Z"
 status: "active"
 ---
 

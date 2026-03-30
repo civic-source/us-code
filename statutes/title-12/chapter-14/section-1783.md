@@ -3,9 +3,9 @@ title: "Section 1783 - National Credit Union Share Insurance Fund"
 usc_title: 12
 usc_section: "1783"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "12 U.S.C. § 1783"
-generated_at: "2026-03-30T07:11:36.656Z"
+generated_at: "2026-03-30T07:15:09.785Z"
 status: "active"
 ---
 

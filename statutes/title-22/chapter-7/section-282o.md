@@ -3,9 +3,9 @@ title: "Section 282o - Selective capital increase and amendment of the Articles 
 usc_title: 22
 usc_section: "282o"
 chapter: 7
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "22 U.S.C. § 282o"
-generated_at: "2026-03-30T07:12:12.201Z"
+generated_at: "2026-03-30T07:15:28.964Z"
 status: "active"
 ---
 

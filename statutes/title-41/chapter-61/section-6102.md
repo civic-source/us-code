@@ -3,9 +3,9 @@ title: "Section 6102 - Exceptions from advertising requirement"
 usc_title: 41
 usc_section: "6102"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "41 U.S.C. § 6102"
-generated_at: "2026-03-30T07:13:06.779Z"
+generated_at: "2026-03-30T07:15:54.179Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
 - **(f)** Lumber and other forest products produced by Indian enterprises from forests on Indian reservations may be sold under regulations the Secretary of the Interior prescribes, without compliance with section 6101 of this title .
 - **(g)** Section 6101 of this title does not apply to purchases and contracts for supplies or services for any office of the House of Representatives.
 - **(h)** The Director of the Congressional Budget Office may enter into agreements or contracts without regard to section 6101 of this title .
+- **(i)** Section 6101 of this title does not apply to agreements, contracts or purchases by any office of the Senate.

@@ -3,9 +3,9 @@ title: "Section 47e - Certification of award; approval; payment"
 usc_title: 50
 usc_section: "47e"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "50 U.S.C. § 47e"
-generated_at: "2026-03-30T07:13:58.411Z"
+generated_at: "2026-03-30T07:16:18.912Z"
 status: "active"
 ---
 

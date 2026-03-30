@@ -3,9 +3,9 @@ title: "Section 6511 - Definitions"
 usc_title: 16
 usc_section: "6511"
 chapter: 84
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 6511"
-generated_at: "2026-03-30T07:11:43.324Z"
+generated_at: "2026-03-30T07:15:21.101Z"
 status: "active"
 ---
 
@@ -19,7 +19,11 @@ In this subchapter:
       - **(ii)** a group of homes and other structures with basic infrastructure and services (such as utilities and collectively maintained transportation routes) within or adjacent to Federal land;
     - **(B)** in which conditions are conducive to a large-scale wildland fire disturbance event; and
     - **(C)** for which a significant threat to human life or property exists as a result of a wildland fire disturbance event.
-  - **(2)** The term “authorized hazardous fuel reduction project” means the measures and methods described in the definition of “appropriate tools” contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
+  - **(2)**
+    - **(A)** The term “authorized hazardous fuel reduction project” means the measures and methods described in the definition of “appropriate tools” contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
+    - **(B)** The term “authorized hazardous fuel reduction project” includes, using the measures and methods described in subparagraph (A), the installation of—
+      - **(i)** a natural or manmade change in fuel characteristics that affects fire behavior such that a fire can be more readily controlled (commonly known as a “fuel break”); and
+      - **(ii)** a natural or constructed barrier used to stop or check a fire or to provide a control line from which to work to stop or check a fire (commonly known as a “firebreak”).
   - **(3)** The term “community wildfire protection plan” means a plan for an at-risk community that—
     - **(A)** is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable local government, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
     - **(B)** identifies and prioritizes areas for hazardous fuel reduction treatments and recommends the types and methods of treatment on Federal and non-Federal land that will protect 1 or more at-risk communities and essential infrastructure; and

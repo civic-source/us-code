@@ -3,9 +3,9 @@ title: "Section 40122 - Federal Aviation Administration personnel management sys
 usc_title: 49
 usc_section: "40122"
 chapter: 401
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "49 U.S.C. § 40122"
-generated_at: "2026-03-30T07:14:01.756Z"
+generated_at: "2026-03-30T07:16:21.556Z"
 status: "active"
 ---
 

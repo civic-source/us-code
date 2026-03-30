@@ -3,9 +3,9 @@ title: "Section 35 - Demonstration program to integrate information technology i
 usc_title: 42
 usc_section: "35"
 chapter: 6
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 35"
-generated_at: "2026-03-30T07:13:45.668Z"
+generated_at: "2026-03-30T07:16:10.831Z"
 status: "active"
 ---
 

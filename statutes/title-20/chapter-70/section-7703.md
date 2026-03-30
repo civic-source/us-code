@@ -3,9 +3,9 @@ title: "Section 7703 - Payments for eligible federally connected children"
 usc_title: 20
 usc_section: "7703"
 chapter: 70
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 7703"
-generated_at: "2026-03-30T07:11:45.092Z"
+generated_at: "2026-03-30T07:15:17.749Z"
 status: "active"
 ---
 
@@ -74,13 +74,15 @@ status: "active"
         - **(I)** is a local educational agency—
         - **(II)** is a local educational agency that—
         - **(III)** is a local educational agency that—
-        - **(IV)** is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) 1 1 See References in Text note below. of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
+        - **(IV)** is a local educational agency that received a payment for fiscal year 2015 under section 7703(b)(2)(E) 1 of this title (as such section was in effect for such fiscal year) and has a total student enrollment of not less than 25,000 students, of which—
         - **(V)** is a local educational agency that—
       - **(ii)**
         - **(I)** Subject to subclause (II), a heavily impacted local educational agency that met the requirements of clause (i) for a fiscal year shall be ineligible to receive a basic support payment under subparagraph (A) if the agency fails to meet the requirements of clause (i) for a subsequent fiscal year, except that such agency shall continue to receive a basic support payment under this paragraph for the fiscal year for which the ineligibility determination is made.
         - **(II)** In the case of a heavily impacted local educational agency described in subclause (II) or (V) of clause (i) that is eligible to receive a basic support payment under subparagraph (A), but that has had, for 2 consecutive fiscal years, a tax rate for general fund purposes that falls below 95 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State, such agency shall be determined to be ineligible under clause (i) and ineligible to receive a basic support payment under subparagraph (A) for each fiscal year succeeding such 2 consecutive fiscal years for which the agency has such a tax rate for general fund purposes, and until the fiscal year for which the agency resumes such eligibility in accordance with clause (iii).
         - **(III)** In the case of a heavily impacted local educational agency that is eligible to receive a basic support payment under subparagraph (A), but that has been taken over by a State board of education in any 2 previous years, such agency shall be deemed to maintain heavily impacted status for 2 fiscal years following December 10, 2015 .
-      - **(iii)** A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
+      - **(iii)**
+        - **(I)** A local educational agency seeking a payment under this paragraph for the first time shall apply for and be determined eligible under clause (i) for 2 consecutive years before receiving such a payment, and shall not receive such a payment for the first year of eligibility.
+        - **(II)** A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
     - **(C)**
       - **(i)** Except as provided in subparagraph (D), the maximum amount that a heavily impacted local educational agency is eligible to receive under this paragraph for any fiscal year is the sum of the total weighted student units, as computed under subsection (a)(2) and subject to clause (ii), multiplied by the greater of—
         - **(I)** four-fifths of the average per-pupil expenditure of the State in which the local educational agency is located for the third fiscal year preceding the fiscal year for which the determination is made; or

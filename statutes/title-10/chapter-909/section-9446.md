@@ -3,9 +3,9 @@ title: "Section 9446 - Miscellaneous personnel authorities"
 usc_title: 10
 usc_section: "9446"
 chapter: 909
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 9446"
-generated_at: "2026-03-30T07:11:06.668Z"
+generated_at: "2026-03-30T07:14:57.849Z"
 status: "active"
 ---
 

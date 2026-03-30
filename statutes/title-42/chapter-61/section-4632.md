@@ -3,9 +3,9 @@ title: "Section 4632 - Administration; relocation assistance in programs receivi
 usc_title: 42
 usc_section: "4632"
 chapter: 61
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 4632"
-generated_at: "2026-03-30T07:13:45.955Z"
+generated_at: "2026-03-30T07:16:11.282Z"
 status: "active"
 ---
 

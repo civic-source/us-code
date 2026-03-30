@@ -3,9 +3,9 @@ title: "Section 8652 - Transferred"
 usc_title: 20
 usc_section: "8652"
 chapter: 70
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 8652"
-generated_at: "2026-03-30T07:11:45.100Z"
+generated_at: "2026-03-30T07:15:17.756Z"
 status: "transferred"
 ---
 

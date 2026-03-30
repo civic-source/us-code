@@ -3,9 +3,9 @@ title: "Section 5 - Investment advisory contracts"
 usc_title: 15
 usc_section: "5"
 chapter: 2
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T07:11:26.923Z"
+generated_at: "2026-03-30T07:15:11.803Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(2)** apply to an investment advisory contract with—
     - **(A)** an investment company registered under subchapter I of this chapter, or
     - **(B)** any other person (except a trust, governmental plan, collective trust fund, or separate account referred to in section 80a–3(c)(11) of this title ), provided that the contract relates to the investment of assets in excess of $1 million,
-  - **(3)** apply with respect to any investment advisory contract between an investment adviser and a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of section 80a–60(a)(3)(B)(iii) of this title is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(3)(B) of this title and does not have a profit-sharing plan described in section 80a–56(n) of this title ;
+  - **(3)** apply with respect to any investment advisory contract between an investment adviser and a business development company, as defined in this subchapter, if (A) the compensation provided for in such contract does not exceed 20 per centum of the realized capital gains upon the funds of the business development company over a specified period or as of definite dates, computed net of all realized capital losses and unrealized capital depreciation, and the condition of section 80a–60(a)(4)(B)(iii) of this title is satisfied, and (B) the business development company does not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(4)(B) of this title and does not have a profit-sharing plan described in section 80a–56(n) of this title ;
   - **(4)** apply to an investment advisory contract with a company excepted from the definition of an investment company under section 80a–3(c)(7) of this title ; or
   - **(5)** apply to an investment advisory contract with a person who is not a resident of the United States.
 - **(c)** For purposes of paragraph (2) of subsection (b), the point from which increases and decreases in compensation are measured shall be the fee which is paid or earned when the investment performance of such company or fund is equivalent to that of the index or other measure of performance, and an index of securities prices shall be deemed appropriate unless the Commission by order shall determine otherwise.

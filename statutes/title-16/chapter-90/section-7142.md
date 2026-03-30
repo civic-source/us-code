@@ -3,9 +3,9 @@ title: "Section 7142 - Use"
 usc_title: 16
 usc_section: "7142"
 chapter: 90
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 7142"
-generated_at: "2026-03-30T07:11:43.331Z"
+generated_at: "2026-03-30T07:15:21.109Z"
 status: "active"
 ---
 
@@ -13,10 +13,11 @@ status: "active"
 
 - **(a)** A participating county, including any applicable agencies of the participating county, shall use county funds, in accordance with this subchapter, only—
   - **(1)** to carry out activities under the Firewise Communities program to provide to homeowners in fire-sensitive ecosystems education on, and assistance with implementing, techniques in home siting, home construction, and home landscaping that can increase the protection of people and property from wildfires;
-  - **(2)** to reimburse the participating county for search and rescue and other emergency services, including firefighting, that are—
+  - **(2)** to reimburse the participating county for search and rescue and other emergency services, including firefighting and law enforcement patrols, that are—
     - **(A)** performed on Federal land after the date on which the use was approved under subsection (b); and
-    - **(B)** paid for by the participating county; and
-  - **(3)** to develop community wildfire protection plans in coordination with the appropriate Secretary concerned.
+    - **(B)** paid for by the participating county;
+  - **(3)** to cover training costs and equipment purchases directly related to the emergency services described in paragraph (2); and
+  - **(4)** to develop and carry out community wildfire protection plans in coordination with the appropriate Secretary concerned.
 - **(b)** A participating county shall use county funds for a use described in subsection (a) only after a 45-day public comment period, at the beginning of which the participating county shall—
   - **(1)** publish in any publications of local record a proposal that describes the proposed use of the county funds; and
   - **(2)** submit the proposal to any resource advisory committee established under section 7125 of this title for the participating county.

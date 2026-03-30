@@ -3,9 +3,9 @@ title: "Section 1059 - Corporate shareholder’s basis in stock reduced by nonta
 usc_title: 26
 usc_section: "1059"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1059"
-generated_at: "2026-03-30T07:12:23.029Z"
+generated_at: "2026-03-30T07:15:39.050Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
 - **(d)** For purposes of this section—
   - **(1)** Any reduction in basis under subsection (a)(1) shall be treated as occurring at the beginning of the ex-dividend date of the extraordinary dividend to which the reduction relates.
   - **(2)** To the extent any dividend consists of property other than cash, the amount of such dividend shall be treated as the fair market value of such property (as of the date of the distribution) reduced as provided in section 301(b)(2).
-  - **(3)** For purposes of determining the holding period of stock under subsection (a), rules similar to the rules of paragraphs (3) and (4) of section 246(c) shall apply; except that “2 years” shall be substituted for the number of days specified in subparagraph (B) 2 2 See References in Text note below. of section 246(c)(3).
+  - **(3)** For purposes of determining the holding period of stock under subsection (a), rules similar to the rules of paragraphs (3) and (4) of section 246(c) shall apply and there shall not be taken into account any day which is more than 2 years after the date on which such share becomes ex-dividend.
   - **(4)** The term “ex-dividend date” means the date on which the share of stock becomes ex-dividend.
   - **(5)** The term “dividend announcement date” means, with respect to any dividend, the date on which the corporation declares, announces, or agrees to the amount or payment of such dividend, whichever is the earliest.
   - **(6)**

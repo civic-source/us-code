@@ -3,9 +3,9 @@ title: "Section 424 - Definitions and special rules"
 usc_title: 26
 usc_section: "424"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 424"
-generated_at: "2026-03-30T07:12:22.977Z"
+generated_at: "2026-03-30T07:15:38.996Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(2)** stock owned, directly or indirectly, by or for a corporation, partnership, estate, or trust, shall be considered as being owned proportionately by or for its shareholders, partners, or beneficiaries.
 - **(e)** For purposes of this part, the term “parent corporation” means any corporation (other than the employer corporation) in an unbroken chain of corporations ending with the employer corporation if, at the time of the granting of the option, each of the corporations other than the employer corporation owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 - **(f)** For purposes of this part, the term “subsidiary corporation” means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
-- **(g)** In applying subsections (e) and (f) for purposes of section 1 1 So in original. Probably should be “sections”. 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsections (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies”, as the case may be.
+- **(g)** In applying subsections (e) and (f) for purposes of sections 422(a)(2) and 423(a)(2), there shall be substituted for the term “employer corporation” wherever it appears in subsections (e) and (f) the term “grantor corporation” or the term “corporation issuing or assuming a stock option in a transaction to which section 424(a) applies”, as the case may be.
 - **(h)**
   - **(1)** For purposes of this part, if the terms of any option to purchase stock are modified, extended, or renewed, such modification, extension, or renewal shall be considered as the granting of a new option.
   - **(2)** In the case of the transfer of stock pursuant to the exercise of an option to which section 423 applies and which has been so modified, extended, or renewed, the fair market value of such stock at the time of the granting of the option shall be considered as whichever of the following is the highest—

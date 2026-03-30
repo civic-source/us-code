@@ -3,13 +3,13 @@ title: "Section 5847 - Effect on other laws"
 usc_title: 26
 usc_section: "5847"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 5847"
-generated_at: "2026-03-30T07:12:23.090Z"
+generated_at: "2026-03-30T07:15:39.112Z"
 status: "active"
 ---
 
 # § 5847. Effect on other laws
 
-Nothing in this chapter shall be construed as modifying or affecting the requirements of section 414 of the Mutual Security Act of 1954, as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
+Nothing in this chapter shall be construed as modifying or affecting the requirements of section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ), as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
 

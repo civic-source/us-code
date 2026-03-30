@@ -3,9 +3,9 @@ title: "Section 582 - Bad debts, losses, and gains with respect to securities he
 usc_title: 26
 usc_section: "582"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 582"
-generated_at: "2026-03-30T07:12:22.996Z"
+generated_at: "2026-03-30T07:15:39.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 646 - Liens"
 usc_title: 15
 usc_section: "646"
 chapter: 14
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 646"
-generated_at: "2026-03-30T07:11:26.945Z"
+generated_at: "2026-03-30T07:15:11.827Z"
 status: "active"
 ---
 

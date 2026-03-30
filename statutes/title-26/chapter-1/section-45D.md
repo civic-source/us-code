@@ -3,9 +3,9 @@ title: "Section 45D - New markets tax credit"
 usc_title: 26
 usc_section: "45D"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 45D"
-generated_at: "2026-03-30T07:12:22.914Z"
+generated_at: "2026-03-30T07:15:38.928Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
     - **(C)** $2,000,000,000 for 2004 and 2005,
     - **(D)** $3,500,000,000 for 2006 and 2007,
     - **(E)** $5,000,000,000 for 2008,
-    - **(F)** $5,000,000,000 for 2009 1 1 So in original. Probably should be followed by “, and”.
+    - **(F)** $5,000,000,000 for 2009, and
     - **(G)** $3,500,000,000 for each of calendar years 2010 through 2019.
   - **(2)** The limitation under paragraph (1) shall be allocated by the Secretary among qualified community development entities selected by the Secretary. In making allocations under the preceding sentence, the Secretary shall give priority to any entity—
     - **(A)** with a record of having successfully provided capital or technical assistance to disadvantaged businesses or communities, or
@@ -96,7 +96,7 @@ status: "active"
   - **(4)**
     - **(A)** The tax for the taxable year shall be increased under paragraph (1) only with respect to credits allowed by reason of this section which were used to reduce tax liability. In the case of credits not so used to reduce tax liability, the carryforwards and carrybacks under section 39 shall be appropriately adjusted.
     - **(B)** Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
-- **(h)** The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of sections 1202, 1400B, and 1400F.
+- **(h)** The basis of any qualified equity investment shall be reduced by the amount of any credit determined under this section with respect to such investment. This subsection shall not apply for purposes of section 1202.
 - **(i)** The Secretary shall prescribe such regulations as may be appropriate to carry out this section, including regulations—
   - **(1)** which limit the credit for investments which are directly or indirectly subsidized by other Federal tax benefits (including the credit under section 42 and the exclusion from gross income under section 103),
   - **(2)** which prevent the abuse of the purposes of this section,

@@ -3,9 +3,9 @@ title: "Section 2012 - Authorization for appropriation"
 usc_title: 43
 usc_section: "2012"
 chapter: 38
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 2012"
-generated_at: "2026-03-30T07:12:59.833Z"
+generated_at: "2026-03-30T07:15:55.109Z"
 status: "active"
 ---
 

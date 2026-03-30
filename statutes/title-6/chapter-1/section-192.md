@@ -3,9 +3,9 @@ title: "Section 192 - Homeland Security Institute"
 usc_title: 6
 usc_section: "192"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "6 U.S.C. § 192"
-generated_at: "2026-03-30T07:11:13.389Z"
+generated_at: "2026-03-30T07:14:47.574Z"
 status: "active"
 ---
 

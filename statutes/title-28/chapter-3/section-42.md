@@ -3,9 +3,9 @@ title: "Section 42 - Allotment of Supreme Court justices to circuits"
 usc_title: 28
 usc_section: "42"
 chapter: 3
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "28 U.S.C. § 42"
-generated_at: "2026-03-30T07:12:15.231Z"
+generated_at: "2026-03-30T07:15:33.311Z"
 status: "active"
 ---
 

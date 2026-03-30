@@ -3,9 +3,9 @@ title: "Section 77a - Repealed. Pub. L. 104–186, title II , § 204(22)(A)(iii)
 usc_title: 2
 usc_section: "77a"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "2 U.S.C. § 77a"
-generated_at: "2026-03-30T07:10:50.372Z"
+generated_at: "2026-03-30T07:14:20.252Z"
 status: "repealed"
 ---
 

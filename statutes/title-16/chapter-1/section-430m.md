@@ -3,9 +3,9 @@ title: "Section 430m - Administration"
 usc_title: 16
 usc_section: "430m"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 430m"
-generated_at: "2026-03-30T07:11:43.152Z"
+generated_at: "2026-03-30T07:15:20.923Z"
 status: "active"
 ---
 

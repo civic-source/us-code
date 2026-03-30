@@ -3,9 +3,9 @@ title: "Section 295a - Public health training centers"
 usc_title: 42
 usc_section: "295a"
 chapter: 6
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "42 U.S.C. § 295a"
-generated_at: "2026-03-30T07:13:45.614Z"
+generated_at: "2026-03-30T07:16:10.746Z"
 status: "active"
 ---
 

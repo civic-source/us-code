@@ -3,9 +3,9 @@ title: "Section 2013 - Authorization of appropriations"
 usc_title: 20
 usc_section: "2013"
 chapter: 42
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "20 U.S.C. § 2013"
-generated_at: "2026-03-30T07:11:45.053Z"
+generated_at: "2026-03-30T07:15:17.711Z"
 status: "active"
 ---
 

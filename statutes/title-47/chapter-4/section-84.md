@@ -3,9 +3,9 @@ title: "Section 84 - Repealed. June 19, 1934, ch. 652 , § 602(a), 48 Stat. 1102
 usc_title: 47
 usc_section: "84"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 84"
-generated_at: "2026-03-30T07:14:02.144Z"
+generated_at: "2026-03-30T07:16:15.739Z"
 status: "repealed"
 ---
 

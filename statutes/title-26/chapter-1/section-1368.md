@@ -3,9 +3,9 @@ title: "Section 1368 - Distributions"
 usc_title: 26
 usc_section: "1368"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 1368"
-generated_at: "2026-03-30T07:12:23.040Z"
+generated_at: "2026-03-30T07:15:39.062Z"
 status: "active"
 ---
 
@@ -37,4 +37,4 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), the term “affected shareholder” means any shareholder to whom a distribution is made by the S corporation during the taxable year.
 - **(f)** If a director receives a distribution (not in part or full payment in exchange for stock) from an S corporation with respect to any restricted bank director stock (as defined in section 1361(f)), the amount of such distribution—
   - **(1)** shall be includible in gross income of the director, and
-  - **(2)** shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount in 1 1 So in original. Probably should be “is”. included in the gross income of the director.
+  - **(2)** shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount is included in the gross income of the director.

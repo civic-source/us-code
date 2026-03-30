@@ -3,9 +3,9 @@ title: "Section 992 - Requirements of a domestic international sales corporation
 usc_title: 26
 usc_section: "992"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 992"
-generated_at: "2026-03-30T07:12:23.025Z"
+generated_at: "2026-03-30T07:15:39.047Z"
 status: "active"
 ---
 
@@ -45,9 +45,8 @@ status: "active"
   - **(2)** a personal holding company (as defined in section 542),
   - **(3)** a financial institution to which section 581 applies,
   - **(4)** an insurance company subject to the tax imposed by subchapter L,
-  - **(5)** a regulated investment company (as defined in section 851(a)),
-  - **(6)** a China Trade Act corporation receiving the special deduction provided in section 941(a), 1 1 See References in Text note below. or
-  - **(7)** an S corporation.
+  - **(5)** a regulated investment company (as defined in section 851(a)), or
+  - **(6)** an S corporation.
 - **(e)** If—
   - **(1)** a corporation (hereinafter in this subsection referred to as “subsidiary”) was established to take advantage of the provisions of this part, and
   - **(2)** a second corporation (hereinafter in this subsection referred to as “parent”) throughout the taxable year owns directly at least 80 percent of the stock of the subsidiary,

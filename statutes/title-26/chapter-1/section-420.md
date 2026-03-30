@@ -3,9 +3,9 @@ title: "Section 420 - Transfers of excess pension assets to retiree health accou
 usc_title: 26
 usc_section: "420"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 420"
-generated_at: "2026-03-30T07:12:22.976Z"
+generated_at: "2026-03-30T07:15:38.995Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
   - **(4)** No transfer made after December 31, 2025 , shall be treated as a qualified transfer.
 - **(c)**
   - **(1)**
-    - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(D)) 1 1 See References in Text note below. for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
+    - **(A)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) shall be used only to pay qualified current retiree liabilities (other than liabilities of key employees not taken into account under subsection (e)(1)(E)) for the taxable year of the transfer (whether directly or through reimbursement). In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C).
     - **(B)**
       - **(i)** Any assets transferred to a health benefits account, or an applicable life insurance account, in a qualified transfer (and any income allocable thereto) which are not used as provided in subparagraph (A) shall be transferred out of the account to the transferor plan.
       - **(ii)** Any amount transferred out of an account under clause (i)—

@@ -3,9 +3,9 @@ title: "Section 3844 - Administrative requirements for conservation programs"
 usc_title: 16
 usc_section: "3844"
 chapter: 58
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "16 U.S.C. § 3844"
-generated_at: "2026-03-30T07:11:43.308Z"
+generated_at: "2026-03-30T07:15:21.085Z"
 status: "active"
 ---
 
@@ -95,3 +95,6 @@ status: "active"
   - **(3)** The Agricultural Act of 2014.
   - **(4)** Any law that succeeds a law specified in paragraph (1), (2), or (3).
 - **(l)** In carrying out the conservation stewardship program under subpart B of part II of subchapter IV and the environmental quality incentives program under part IV of subchapter IV, the Secretary may enter into alternative funding arrangements with Indian tribes if the Secretary determines that the goals and objectives of the programs will be met by such arrangements, and that statutory limitations regarding contracts with individual producers will not be exceeded by any tribal member.
+- **(m)**
+  - **(1)** In this subsection, the term “exempted producer” means a producer or landowner eligible to participate in any conservation program administered by the Secretary.
+  - **(2)** Notwithstanding the Federal Funding Accountability and Transparency Act of 2006 ( Public Law 109–282 ; 31 U.S.C. 6101 note), the requirements of parts 25 and 170 of title 2, Code of Federal Regulations (and any successor regulations), shall not apply with respect to assistance received by an exempted producer from the Secretary, acting through the Natural Resources Conservation Service.

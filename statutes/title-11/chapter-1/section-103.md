@@ -3,9 +3,9 @@ title: "Section 103 - Applicability of chapters"
 usc_title: 11
 usc_section: "103"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "11 U.S.C. § 103"
-generated_at: "2026-03-30T07:11:17.797Z"
+generated_at: "2026-03-30T07:15:07.318Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** Subchapters I and II of chapter 7 of this title apply only in a case under such chapter.
 - **(c)** Subchapter III of chapter 7 of this title applies only in a case under such chapter concerning a stockbroker.
 - **(d)** Subchapter IV of chapter 7 of this title applies only in a case under such chapter concerning a commodity broker.
-- **(e)** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991.
+- **(e)** Subchapter V of chapter 7 of this title shall apply only in a case under such chapter concerning the liquidation of an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 1 See References in Text note below. of the Federal Deposit Insurance Corporation Improvement Act of 1991.
 - **(f)** Except as provided in section 901 of this title , only chapters 1 and 9 of this title apply in a case under such chapter 9.
 - **(g)** Except as provided in section 901 of this title , subchapters I, II, and III of chapter 11 of this title apply only in a case under such chapter.
 - **(h)** Subchapter IV of chapter 11 of this title applies only in a case under such chapter concerning a railroad.

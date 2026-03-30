@@ -3,9 +3,9 @@ title: "Section 2688 - Control of lead-based paint hazards at Federal facilities
 usc_title: 15
 usc_section: "2688"
 chapter: 53
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "15 U.S.C. § 2688"
-generated_at: "2026-03-30T07:11:27.013Z"
+generated_at: "2026-03-30T07:15:11.901Z"
 status: "active"
 ---
 

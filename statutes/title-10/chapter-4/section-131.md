@@ -3,9 +3,9 @@ title: "Section 131 - Office of the Secretary of Defense"
 usc_title: 10
 usc_section: "131"
 chapter: 4
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 131"
-generated_at: "2026-03-30T07:11:06.539Z"
+generated_at: "2026-03-30T07:14:57.720Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(D)** The Under Secretary of Defense (Comptroller).
     - **(E)** The Under Secretary of Defense for Personnel and Readiness.
     - **(F)** The Under Secretary of Defense for Intelligence.
-  - **(4)** The Deputy Chief Management Officer of the Department of Defense.
+  - **(4)** The Deputy Chief Management Officer of the Department of Defense. 1 1 See References in Text note below.
   - **(5)** Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
     - **(A)** The Director of Cost Assessment and Program Evaluation.
     - **(B)** The Director of Operational Test and Evaluation.
@@ -33,7 +33,7 @@ status: "active"
   - **(8)** The Assistant Secretaries of Defense.
   - **(9)** Other officials provided for by law, as follows:
     - **(A)** The two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation under section 139a(c) of this title .
-    - **(B)** The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) 1 1 See References in Text note below. of this title.
+    - **(B)** The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation appointed pursuant to section 139b(a) 1 of this title.
     - **(C)** The Deputy Assistant Secretary of Defense for Systems Engineering appointed pursuant to section 139b(b) 1 of this title.
     - **(D)** The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy appointed pursuant to section 139c 1 of this title.
     - **(E)** The Director of Small Business Programs appointed pursuant to section 144 of this title .

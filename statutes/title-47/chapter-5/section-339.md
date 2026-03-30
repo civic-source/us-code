@@ -3,9 +3,9 @@ title: "Section 339 - Carriage of distant television stations by satellite carri
 usc_title: 47
 usc_section: "339"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 339"
-generated_at: "2026-03-30T07:14:02.162Z"
+generated_at: "2026-03-30T07:16:15.765Z"
 status: "active"
 ---
 
@@ -55,17 +55,6 @@ status: "active"
   - **(2)** The Commission shall complete all actions necessary to prescribe regulations required by this section so that the regulations shall become effective within 1 year after November 29, 1999 .
 - **(c)**
   - **(1)**
-    - **(A)** Not later than 1 year after December 8, 2004 , the Federal Communications Commission shall complete an inquiry regarding whether, for purposes of identifying if a household is unserved by an adequate digital signal under section 119(d)(10) of title 17 , the digital signal strength standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or the testing procedures in section 73.686(d) of title 47, Code of Federal Regulations, such statutes or regulations should be revised to take into account the types of antennas that are available to consumers.
-    - **(B)** In conducting the study under this paragraph, the Commission shall consider whether—
-      - **(i)** to account for the fact that an antenna can be mounted on a roof or placed in a home and can be fixed or capable of rotating;
-      - **(ii)** section 73.686(d) of title 47, Code of Federal Regulations, should be amended to create different procedures for determining if the requisite digital signal strength is present than for determining if the requisite analog signal strength is present;
-      - **(iii)** a standard should be used other than the presence of a signal of a certain strength to ensure that a household can receive a high-quality picture using antennas of reasonable cost and ease of installation;
-      - **(iv)** to develop a predictive methodology for determining whether a household is unserved by an adequate digital signal under section 119(d)(10) of title 17 ;
-      - **(v)** there is a wide variation in the ability of reasonably priced consumer digital television sets to receive over-the-air signals, such that at a given signal strength some may be able to display high-quality pictures while others cannot, whether such variation is related to the price of the television set, and whether such variation should be factored into setting a standard for determining whether a household is unserved by an adequate digital signal; and
-      - **(vi)** to account for factors such as building loss, external interference sources, or undesired signals from both digital television and analog television stations using either the same or adjacent channels in nearby markets, foliage, and man-made clutter.
-    - **(C)** Not later than 1 year after December 8, 2004 , the Federal Communications Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
-      - **(i)** the results of the study under this paragraph; and
-      - **(ii)** recommendations, if any, as to what changes should be made to Federal statutes or regulations.
   - **(2)** A subscriber who is denied the retransmission of a signal of a network station under section 119 of title 17 may request a waiver from such denial by submitting a request, through such subscriber’s satellite carrier, to the network station asserting that the retransmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. The subscriber shall be permitted to receive such retransmission under section 119(d)(10)(B) of title 17 , if such station agrees to the waiver request and files with the satellite carrier a written waiver with respect to that subscriber allowing the subscriber to receive such retransmission. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver.
   - **(3)**
     - **(A)** Within 270 days after the date of the enactment of the Satellite Television Extension and Localism Act of 2010, the Commission shall develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations, through the use of an antenna, to receive signals in accordance with the signal intensity standard in section 73.622(e)(1) of title 47, Code of Federal Regulations, or a successor regulation, including to account for the continuing operation of translator stations and low power television stations. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Commission in CS Docket No. 98–201, as previously revised with respect to analog signals, and as recommended by the Commission with respect to digital signals in its Report to Congress in ET Docket No. 05–182, FCC 05–199 (released December 9, 2005 ). The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.

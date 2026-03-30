@@ -1,30 +1,25 @@
 ---
-title: "Section 3 - Recovery zone facility bonds"
+title: "Section 3 - Tax tables for individuals"
 usc_title: 26
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 3"
-generated_at: "2026-03-30T07:12:23.046Z"
+generated_at: "2026-03-30T07:15:38.916Z"
 status: "active"
 ---
 
-# § 1400U–3. Recovery zone facility bonds
+# § 3. Tax tables for individuals
 
-- **(a)** For purposes of part IV of subchapter B (relating to tax exemption requirements for State and local bonds), the term “exempt facility bond” includes any recovery zone facility bond.
-- **(b)**
-  - **(1)** For purposes of this section, the term “recovery zone facility bond” means any bond issued as part of an issue if—
-    - **(A)** 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of such issue are to be used for recovery zone property,
-    - **(B)** such bond is issued before January 1, 2011 , and
-    - **(C)** the issuer designates such bond for purposes of this section.
-  - **(2)** The maximum aggregate face amount of bonds which may be designated by any issuer under paragraph (1) shall not exceed the amount of recovery zone facility bond limitation allocated to such issuer under section 1400U–1.
-- **(c)** For purposes of this section—
-  - **(1)** The term “recovery zone property” means any property to which section 168 applies (or would apply but for section 179) if—
-    - **(A)** such property was constructed, reconstructed, renovated, or acquired by purchase (as defined in section 179(d)(2)) by the taxpayer after the date on which the designation of the recovery zone took effect,
-    - **(B)** the original use of which in the recovery zone commences with the taxpayer, and
-    - **(C)** substantially all of the use of which is in the recovery zone and is in the active conduct of a qualified business by the taxpayer in such zone.
-  - **(2)** The term “qualified business” means any trade or business except that—
-    - **(A)** the rental to others of real property located in a recovery zone shall be treated as a qualified business only if the property is not residential rental property (as defined in section 168(e)(2)), and
-    - **(B)** such term shall not include any trade or business consisting of the operation of any facility described in section 144(c)(6)(B).
-  - **(3)** Rules similar to the rules of subsections (a)(2) and (b) of section 1397D shall apply for purposes of this subsection.
-- **(d)** Sections 146 (relating to volume cap) and 147(d) (relating to acquisition of existing property not permitted) shall not apply to any recovery zone facility bond.
+- **(a)**
+  - **(1)** In lieu of the tax imposed by section 1, there is hereby imposed for each taxable year on the taxable income of every individual—
+    - **(A)** who does not itemize his deductions for the taxable year, and
+    - **(B)** whose taxable income for such taxable year does not exceed the ceiling amount,
+  - **(2)** For purposes of paragraph (1), the term “ceiling amount” means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
+  - **(3)** The Secretary may provide that this section shall apply also for any taxable year to individuals who itemize their deductions. Any tables prescribed under the preceding sentence shall be on the basis of taxable income.
+- **(b)** This section shall not apply to—
+  - **(1)** an individual making a return under section 443(a)(1) for a period of less than 12 months on account of a change in annual accounting period, and
+  - **(2)** an estate or trust.
+- **(c)** For purposes of this title, the tax imposed by this section shall be treated as tax imposed by section 1.
+- **(d)** Whenever it is necessary to determine the taxable income of an individual to whom this section applies, the taxable income shall be determined under section 63.
+- **(e)** For computation of tax by Secretary, see section 6014.

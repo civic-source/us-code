@@ -3,9 +3,9 @@ title: "Section 7315 - Preservation of Navy shipbuilding capability"
 usc_title: 10
 usc_section: "7315"
 chapter: 633
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 7315"
-generated_at: "2026-03-30T07:11:06.660Z"
+generated_at: "2026-03-30T07:14:57.841Z"
 status: "active"
 ---
 

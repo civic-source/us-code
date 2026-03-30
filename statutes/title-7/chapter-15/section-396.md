@@ -3,9 +3,9 @@ title: "Section 396 - Inspection of livestock, hides, animal products, etc.; pla
 usc_title: 7
 usc_section: "396"
 chapter: 15
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "7 U.S.C. § 396"
-generated_at: "2026-03-30T07:11:01.883Z"
+generated_at: "2026-03-30T07:15:04.399Z"
 status: "active"
 ---
 

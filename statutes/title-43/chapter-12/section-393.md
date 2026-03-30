@@ -3,9 +3,9 @@ title: "Section 393 - Proceeds from sale of materials, etc."
 usc_title: 43
 usc_section: "393"
 chapter: 12
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "43 U.S.C. § 393"
-generated_at: "2026-03-30T07:12:59.794Z"
+generated_at: "2026-03-30T07:15:55.051Z"
 status: "active"
 ---
 

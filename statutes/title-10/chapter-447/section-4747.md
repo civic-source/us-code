@@ -3,9 +3,9 @@ title: "Section 4747 - Renumbered §§ 2648 to 2651]"
 usc_title: 10
 usc_section: "4747"
 chapter: 447
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "10 U.S.C. § 4747"
-generated_at: "2026-03-30T07:11:06.649Z"
+generated_at: "2026-03-30T07:14:57.831Z"
 status: "renumbered"
 ---
 

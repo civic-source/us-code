@@ -3,9 +3,9 @@ title: "Section 543 - Regulation of rates"
 usc_title: 47
 usc_section: "543"
 chapter: 5
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "47 U.S.C. § 543"
-generated_at: "2026-03-30T07:14:02.168Z"
+generated_at: "2026-03-30T07:16:15.776Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
 - **(i)** In developing and prescribing regulations pursuant to this section, the Commission shall design such regulations to reduce the administrative burdens and cost of compliance for cable systems that have 1,000 or fewer subscribers.
 - **(j)** During the term of an agreement made before July 1, 1990 , by a franchising authority and a cable operator providing for the regulation of basic cable service rates, where there was not effective competition under Commission rules in effect on that date, nothing in this section (or the regulations thereunder) shall abridge the ability of such franchising authority to regulate rates in accordance with such an agreement.
 - **(k)**
-  - **(1)** The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
+  - **(1)** The Commission shall publish with its report under section 163 of this title statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
   - **(2)**
     - **(A)** The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under section 325 of this title .
     - **(B)** The Commission shall publish information under this paragraph in a manner substantially similar to the way other comparable information is published in such report.

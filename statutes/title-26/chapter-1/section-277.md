@@ -3,9 +3,9 @@ title: "Section 277 - Deductions incurred by certain membership organizations in
 usc_title: 26
 usc_section: "277"
 chapter: 1
-current_through: "PL 115-137"
+current_through: "PL 115-171"
 classification: "26 U.S.C. § 277"
-generated_at: "2026-03-30T07:12:22.954Z"
+generated_at: "2026-03-30T07:15:38.971Z"
 status: "active"
 ---
 
