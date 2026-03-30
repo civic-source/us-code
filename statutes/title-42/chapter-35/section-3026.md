@@ -3,9 +3,9 @@ title: "Section 3026 - Area plans"
 usc_title: 42
 usc_section: "3026"
 chapter: 35
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 3026"
-generated_at: "2026-03-30T00:16:29.404Z"
+generated_at: "2026-03-30T00:20:22.807Z"
 ---
 
 # § 3026. Area plans

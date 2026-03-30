@@ -3,9 +3,9 @@ title: "Section 1294 - Election to extend time for payment of tax on undistribut
 usc_title: 26
 usc_section: "1294"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 1294"
-generated_at: "2026-03-30T00:15:47.820Z"
+generated_at: "2026-03-30T00:19:39.174Z"
 ---
 
 # § 1294. Election to extend time for payment of tax on undistributed earnings

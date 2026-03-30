@@ -3,9 +3,9 @@ title: "Section 261 - Creation; membership; compensation; meetings; officers; pr
 usc_title: 12
 usc_section: "261"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 261"
-generated_at: "2026-03-30T00:14:48.285Z"
+generated_at: "2026-03-30T00:18:37.568Z"
 ---
 
 # § 261. Creation; membership; compensation; meetings; officers; procedure; quorum; vacancies

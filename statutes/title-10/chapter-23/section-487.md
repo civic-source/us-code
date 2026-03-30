@@ -3,9 +3,9 @@ title: "Section 487 - Biannual briefing on missile defense and related activitie
 usc_title: 10
 usc_section: "487"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 487"
-generated_at: "2026-03-30T00:14:10.237Z"
+generated_at: "2026-03-30T00:18:12.186Z"
 ---
 
 # § 487. Biannual briefing on missile defense and related activities

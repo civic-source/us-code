@@ -3,9 +3,9 @@ title: "Section 40502 - Service contracts"
 usc_title: 46
 usc_section: "40502"
 chapter: 405
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 40502"
-generated_at: "2026-03-30T00:16:36.534Z"
+generated_at: "2026-03-30T00:20:37.508Z"
 ---
 
 # § 40502. Service contracts

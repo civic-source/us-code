@@ -3,9 +3,9 @@ title: "Section 6511 - Limitations on credit or refund"
 usc_title: 26
 usc_section: "6511"
 chapter: 66
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 6511"
-generated_at: "2026-03-30T00:15:47.913Z"
+generated_at: "2026-03-30T00:19:39.267Z"
 ---
 
 # § 6511. Limitations on credit or refund

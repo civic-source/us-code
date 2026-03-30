@@ -3,9 +3,9 @@ title: "Section 8101 - Complement of inspected vessels"
 usc_title: 46
 usc_section: "8101"
 chapter: 81
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 8101"
-generated_at: "2026-03-30T00:16:36.517Z"
+generated_at: "2026-03-30T00:20:37.494Z"
 ---
 
 # § 8101. Complement of inspected vessels

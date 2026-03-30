@@ -3,9 +3,9 @@ title: "Section 4216 - Board of Directors of the Fund"
 usc_title: 50
 usc_section: "4216"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 4216"
-generated_at: "2026-03-30T00:16:38.032Z"
+generated_at: "2026-03-30T00:20:29.438Z"
 ---
 
 # § 4216. Board of Directors of the Fund

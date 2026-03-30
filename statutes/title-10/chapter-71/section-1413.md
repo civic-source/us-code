@@ -3,9 +3,9 @@ title: "Section 1413 - Repealed. Pub. L. 108–136, div. A, title VI, § 641(b) 
 usc_title: 10
 usc_section: "1413"
 chapter: 71
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1413"
-generated_at: "2026-03-30T00:14:10.282Z"
+generated_at: "2026-03-30T00:18:12.238Z"
 ---
 
 # [§ 1413. Repealed. Pub. L. 108–136, div. A, title VI, § 641(b) , Nov. 24, 2003 , 117 Stat. 1514 ]

@@ -3,9 +3,9 @@ title: "Section 33 - Authorization; construction, operation, and maintenance, ap
 usc_title: 22
 usc_section: "33"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 33"
-generated_at: "2026-03-30T00:15:12.486Z"
+generated_at: "2026-03-30T00:19:26.833Z"
 ---
 
 # § 277d–33. Authorization; construction, operation, and maintenance, appropriations, and acquisition of land

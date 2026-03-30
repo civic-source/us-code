@@ -3,9 +3,9 @@ title: "Section 459t - Secretary of the Interior authorized to execute deeds and
 usc_title: 16
 usc_section: "459t"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 459t"
-generated_at: "2026-03-30T00:14:59.415Z"
+generated_at: "2026-03-30T00:18:47.380Z"
 ---
 
 # § 459t. Secretary of the Interior authorized to execute deeds and leases for project lands; inclusion of conditional covenants

@@ -3,9 +3,9 @@ title: "Section 1720I - Mental and behavioral health care for certain former mem
 usc_title: 38
 usc_section: "1720I"
 chapter: 17
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 1720I"
-generated_at: "2026-03-30T00:16:03.242Z"
+generated_at: "2026-03-30T00:20:03.428Z"
 ---
 
 # § 1720I. Mental and behavioral health care for certain former members of the Armed Forces

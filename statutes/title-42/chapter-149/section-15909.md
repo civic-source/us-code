@@ -3,9 +3,9 @@ title: "Section 15909 - Gas hydrate production incentive"
 usc_title: 42
 usc_section: "15909"
 chapter: 149
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 15909"
-generated_at: "2026-03-30T00:16:29.720Z"
+generated_at: "2026-03-30T00:20:23.114Z"
 ---
 
 # § 15909. Gas hydrate production incentive

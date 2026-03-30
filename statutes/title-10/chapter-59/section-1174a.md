@@ -3,9 +3,9 @@ title: "Section 1174a - Special separation benefits programs"
 usc_title: 10
 usc_section: "1174a"
 chapter: 59
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1174a"
-generated_at: "2026-03-30T00:14:10.277Z"
+generated_at: "2026-03-30T00:18:12.233Z"
 ---
 
 # § 1174a. Special separation benefits programs
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T00:14:10.277Z"
   - **(1)** be released from active duty or full-time National Guard duty or discharged, as the case may be; and
   - **(2)** be entitled to—
     - **(A)** separation pay equal to 15 percent of the product of (i) the member’s years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
-    - **(B)** the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) 1 1 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 1991 ( 104 Stat. 1558 ; 37 U.S.C. 476 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title .
+    - **(B)** the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 ( 104 Stat. 1558 ; 37 U.S.C. 476 1 1 See References in Text note below. note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title .
 - **(c)** Subject to subsections (d) and (e), a member of an armed force is eligible for voluntary separation under a program established for that armed force pursuant to this section if the member—
   - **(1)** has not been approved for payment of a voluntary separation incentive under section 1175 of this title ;
   - **(2)** has served on active duty or full-time National Guard duty or any combination of active duty and full-time National Guard duty for more than 6 years;

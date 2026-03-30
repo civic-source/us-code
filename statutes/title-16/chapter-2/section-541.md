@@ -3,9 +3,9 @@ title: "Section 541 - Cascade Head Scenic-Research Area; establishment"
 usc_title: 16
 usc_section: "541"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 541"
-generated_at: "2026-03-30T00:14:59.460Z"
+generated_at: "2026-03-30T00:18:47.428Z"
 ---
 
 # § 541. Cascade Head Scenic-Research Area; establishment

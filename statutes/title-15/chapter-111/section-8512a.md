@@ -3,9 +3,9 @@ title: "Section 8512a - Learning excellence and good examples from new developer
 usc_title: 15
 usc_section: "8512a"
 chapter: 111
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 8512a"
-generated_at: "2026-03-30T00:14:33.582Z"
+generated_at: "2026-03-30T00:18:28.207Z"
 ---
 
 # § 8512a. Learning excellence and good examples from new developers
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T00:14:33.582Z"
     - **(D)** Subject to subsection (f), all data owned by the Federal Government and data that the Administrator has the legal right to redistribute that are associated with models made available to the public pursuant to the plan and used in operational forecasting by the Administration, including—
       - **(i)** relevant metadata; and
       - **(ii)** data used for operational models used by the Administration as of December 23, 2022 .
-  - **(2)** In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do not jeopardize—
+  - **(2)** In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do 1 1 So in original. Probably should be “does”. not jeopardize—
     - **(A)** national security;
     - **(B)** intellectual property or redistribution rights, including under titles 17 and 35;
     - **(C)** any trade secret or commercial or financial information subject to section 552(b)(4) of title 5 ;
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T00:14:33.582Z"
   - **(3)** In developing and implementing the plan under paragraph (1), the Administrator shall prioritize making available to the public the models described in paragraph (1)(A).
   - **(4)** In developing and implementing the plan under subsection (a), the Administrator shall ensure that all requirements incorporated into any models described in paragraph (1)(A) ensure compliance with statistical laws and other relevant data protection requirements, including the protection of any personally identifiable information.
   - **(5)** In developing and implementing the plan under paragraph (1), the Administrator may exclude models that the Administrator determines will be retired or superseded in fewer than 5 years after December 23, 2022 .
-  - **(6)** In carrying out paragraphs (1) and (2), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this title. 1 1 See References in Text note below.
+  - **(6)** In carrying out paragraphs (1) and (2), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this title. 2 2 See References in Text note below.
   - **(7)** The Administrator shall plan for and establish a program to support infrastructure, including telecommunications and technology infrastructure of the Administration and the platforms described in paragraph (6), relevant to making operational models and data available to the public pursuant to the plan under subsection (a).
   - **(8)**
 - **(d)** The Administrator shall—
@@ -53,7 +53,7 @@ generated_at: "2026-03-30T00:14:33.582Z"
       - **(i)** for engaging with interested stakeholders to learn what innovations those stakeholders have found;
       - **(ii)** for reviewing those innovations; and
       - **(iii)** for operationalizing innovations to improve suitable models; and
-    - **(C)** the use of any Federal financial assistance, including under section 3719 of this title 1 or the Crowdsourcing and Citizen Science Act ( 15 U.S.C. 3724 ), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.
+    - **(C)** the use of any Federal financial assistance, including under section 3719 of this title 2 or the Crowdsourcing and Citizen Science Act ( 15 U.S.C. 3724 ), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.
   - **(2)** In this subsection, the term “appropriate congressional committees” means—
     - **(A)** the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.

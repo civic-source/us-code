@@ -3,9 +3,9 @@ title: "Section 1228b - Coordination"
 usc_title: 20
 usc_section: "1228b"
 chapter: 31
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 1228b"
-generated_at: "2026-03-30T00:15:01.653Z"
+generated_at: "2026-03-30T00:18:58.006Z"
 ---
 
 # § 1228b. Coordination

@@ -3,9 +3,9 @@ title: "Section 21106 - Limitations on employee sleeping quarters"
 usc_title: 49
 usc_section: "21106"
 chapter: 211
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 21106"
-generated_at: "2026-03-30T00:16:45.875Z"
+generated_at: "2026-03-30T00:20:32.870Z"
 ---
 
 # § 21106. Limitations on employee sleeping quarters

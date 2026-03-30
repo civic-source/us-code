@@ -3,9 +3,9 @@ title: "Section 916f - Violations; fines and penalties"
 usc_title: 16
 usc_section: "916f"
 chapter: 14
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 916f"
-generated_at: "2026-03-30T00:14:59.512Z"
+generated_at: "2026-03-30T00:18:47.481Z"
 ---
 
 # § 916f. Violations; fines and penalties

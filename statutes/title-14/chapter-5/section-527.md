@@ -3,9 +3,9 @@ title: "Section 527 - Safety of vessels of the Armed Forces"
 usc_title: 14
 usc_section: "527"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 527"
-generated_at: "2026-03-30T00:14:28.569Z"
+generated_at: "2026-03-30T00:18:33.422Z"
 ---
 
 # § 527. Safety of vessels of the Armed Forces

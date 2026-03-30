@@ -3,9 +3,9 @@ title: "Section 5564 - Travel and transportation; dependents; household and pers
 usc_title: 5
 usc_section: "5564"
 chapter: 55
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 5564"
-generated_at: "2026-03-30T00:13:52.468Z"
+generated_at: "2026-03-30T00:17:57.271Z"
 ---
 
 # § 5564. Travel and transportation; dependents; household and personal effects; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable

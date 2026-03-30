@@ -3,9 +3,9 @@ title: "Section 803 - Conditions of license generally"
 usc_title: 16
 usc_section: "803"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 803"
-generated_at: "2026-03-30T00:14:59.494Z"
+generated_at: "2026-03-30T00:18:47.464Z"
 ---
 
 # § 803. Conditions of license generally

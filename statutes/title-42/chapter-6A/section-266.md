@@ -3,9 +3,9 @@ title: "Section 266 - Special quarantine powers in time of war"
 usc_title: 42
 usc_section: "266"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 266"
-generated_at: "2026-03-30T00:16:28.934Z"
+generated_at: "2026-03-30T00:20:22.328Z"
 ---
 
 # § 266. Special quarantine powers in time of war

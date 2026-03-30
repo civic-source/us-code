@@ -3,9 +3,9 @@ title: "Section 2211a - Authorization; implementation; targeted assistance"
 usc_title: 22
 usc_section: "2211a"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2211a"
-generated_at: "2026-03-30T00:15:12.524Z"
+generated_at: "2026-03-30T00:19:26.871Z"
 ---
 
 # § 2211a. Authorization; implementation; targeted assistance

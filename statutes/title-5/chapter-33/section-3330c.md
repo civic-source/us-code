@@ -3,9 +3,9 @@ title: "Section 3330c - Preference eligibles; remedy"
 usc_title: 5
 usc_section: "3330c"
 chapter: 33
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 3330c"
-generated_at: "2026-03-30T00:13:52.449Z"
+generated_at: "2026-03-30T00:17:57.255Z"
 ---
 
 # § 3330c. Preference eligibles; remedy

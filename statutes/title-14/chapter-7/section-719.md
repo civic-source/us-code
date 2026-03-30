@@ -3,9 +3,9 @@ title: "Section 719 - Research projects; transactions other than contracts and g
 usc_title: 14
 usc_section: "719"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 719"
-generated_at: "2026-03-30T00:14:28.571Z"
+generated_at: "2026-03-30T00:18:33.424Z"
 ---
 
 # § 719. Research projects; transactions other than contracts and grants
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T00:14:28.571Z"
   - **(2)** The amount of any payment received by the Federal Government pursuant to a requirement imposed under paragraph (1) shall be deposited in the general fund of the Treasury. Amounts so deposited shall be available for the purposes of carrying out this section, to the extent provided in advance in appropriations Acts.
 - **(c)**
   - **(1)** The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1), 2 2 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
-  - **(2)** A cooperative agreement containing a clause described in subsection (c)(1), 1 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+  - **(2)** A cooperative agreement containing a clause described in subsection (c)(1), 2 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 - **(d)** The Commandant shall—
   - **(1)** ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section or other innovative forms of contracting are afforded opportunities for adequate education and training; and
   - **(2)** establish minimum levels and requirements for continuous and experiential learning for such personnel, including levels and requirements for acquisition certification programs.

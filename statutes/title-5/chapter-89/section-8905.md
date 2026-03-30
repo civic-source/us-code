@@ -3,9 +3,9 @@ title: "Section 8905 - Election of coverage"
 usc_title: 5
 usc_section: "8905"
 chapter: 89
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 8905"
-generated_at: "2026-03-30T00:13:52.506Z"
+generated_at: "2026-03-30T00:17:57.308Z"
 ---
 
 # § 8905. Election of coverage

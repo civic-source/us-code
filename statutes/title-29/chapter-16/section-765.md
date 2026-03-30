@@ -3,9 +3,9 @@ title: "Section 765 - Disability, Independent Living, and Rehabilitation Researc
 usc_title: 29
 usc_section: "765"
 chapter: 16
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "29 U.S.C. § 765"
-generated_at: "2026-03-30T00:15:31.099Z"
+generated_at: "2026-03-30T00:19:31.318Z"
 ---
 
 # § 765. Disability, Independent Living, and Rehabilitation Research Advisory Council

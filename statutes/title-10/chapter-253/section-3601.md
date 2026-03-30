@@ -3,9 +3,9 @@ title: "Section 3601 - Procedures for urgent acquisition and deployment of capab
 usc_title: 10
 usc_section: "3601"
 chapter: 253
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 3601"
-generated_at: "2026-03-30T00:14:10.342Z"
+generated_at: "2026-03-30T00:18:12.307Z"
 ---
 
 # § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
@@ -18,7 +18,7 @@ generated_at: "2026-03-30T00:14:10.342Z"
       - **(iii)** are based on technologies that are proven and available; and
       - **(iv)** can appropriately be acquired under fixed-price contracts; or
     - **(B)** that can be developed or procured under a section 804 rapid acquisition pathway.
-  - **(2)** In this section, the term “section 804 rapid acquisition pathway” means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.).
+  - **(2)** In this section, the term “section 804 rapid acquisition pathway” means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.). 1 1 So in original. Probably should be “ 10 U.S.C. 3201 note prec.).”
 - **(b)** The procedures prescribed under subsection (a) shall include the following:
   - **(1)** A process for streamlined communications between the Chairman of the Joint Chiefs of Staff, the acquisition community, and the research and development community, including—
     - **(A)** a process for the commanders of the combatant commands and the Chairman of the Joint Chiefs of Staff to communicate their needs to the acquisition community and the research and development community; and
@@ -28,7 +28,7 @@ generated_at: "2026-03-30T00:14:10.342Z"
     - **(B)** a process for developing an acquisition and funding strategy for the deployment of the capability; and
     - **(C)** a process for making deployment and utilization determinations based on information obtained pursuant to subparagraphs (A) and (B).
   - **(3)** A process to determine the disposition of a capability, including termination (demilitarization or disposal), continued sustainment, or transition to a program of record.
-  - **(4)** Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.). 1 1 So in original. Probably should be “ 10 U.S.C. 3201 note prec.).”
+  - **(4)** Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 ( Public Law 114–92 ; 10 U.S.C. 3201 prec.). 1
 - **(c)**
   - **(1)**
     - **(A)** In the case of any capability that, as determined in writing by the Secretary of Defense, is urgently needed to eliminate a documented deficiency that has resulted in combat casualties, or is likely to result in combat casualties, the Secretary may use the procedures developed under this section in order to accomplish the urgent acquisition and deployment of the needed capability.

@@ -3,9 +3,9 @@ title: "Section 179 - Low-carbon transportation materials grants"
 usc_title: 23
 usc_section: "179"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "23 U.S.C. § 179"
-generated_at: "2026-03-30T00:15:10.090Z"
+generated_at: "2026-03-30T00:19:06.962Z"
 ---
 
 # § 179. Low-carbon transportation materials grants

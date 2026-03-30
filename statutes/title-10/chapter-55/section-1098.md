@@ -3,9 +3,9 @@ title: "Section 1098 - Incentives for participation in cost-effective health car
 usc_title: 10
 usc_section: "1098"
 chapter: 55
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1098"
-generated_at: "2026-03-30T00:14:10.272Z"
+generated_at: "2026-03-30T00:18:12.227Z"
 ---
 
 # § 1098. Incentives for participation in cost-effective health care plans

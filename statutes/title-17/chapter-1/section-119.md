@@ -3,9 +3,9 @@ title: "Section 119 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "119"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "17 U.S.C. § 119"
-generated_at: "2026-03-30T00:14:53.506Z"
+generated_at: "2026-03-30T00:18:42.095Z"
 ---
 
 # § 119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite

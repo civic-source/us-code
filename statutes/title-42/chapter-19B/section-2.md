@@ -3,9 +3,9 @@ title: "Section 2 - Delegation of functions"
 usc_title: 42
 usc_section: "2"
 chapter: 19
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T00:16:29.358Z"
+generated_at: "2026-03-30T00:20:22.760Z"
 ---
 
 # § 1962d–2. Delegation of functions

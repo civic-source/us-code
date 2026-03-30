@@ -3,9 +3,9 @@ title: "Section 8716 - Regulations"
 usc_title: 5
 usc_section: "8716"
 chapter: 87
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 8716"
-generated_at: "2026-03-30T00:13:52.504Z"
+generated_at: "2026-03-30T00:17:57.307Z"
 ---
 
 # § 8716. Regulations

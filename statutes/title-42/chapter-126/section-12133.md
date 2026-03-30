@@ -3,9 +3,9 @@ title: "Section 12133 - Enforcement"
 usc_title: 42
 usc_section: "12133"
 chapter: 126
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 12133"
-generated_at: "2026-03-30T00:16:29.663Z"
+generated_at: "2026-03-30T00:20:23.056Z"
 ---
 
 # § 12133. Enforcement

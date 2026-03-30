@@ -3,9 +3,9 @@ title: "Section 4022 - Authority of the Department of Defense to carry out certa
 usc_title: 10
 usc_section: "4022"
 chapter: 301
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4022"
-generated_at: "2026-03-30T00:14:10.347Z"
+generated_at: "2026-03-30T00:18:12.315Z"
 ---
 
 # § 4022. Authority of the Department of Defense to carry out certain prototype projects
@@ -73,7 +73,7 @@ generated_at: "2026-03-30T00:14:10.347Z"
     - **(B)** the participants in the transaction successfully completed the prototype project provided for in the transaction.
   - **(3)** A follow-on production contract or transaction may be awarded, pursuant to this subsection, when the Department determines that an individual prototype or prototype subproject as part of a consortium is successfully completed by the participants.
   - **(4)** Award of a follow-on production contract or transaction pursuant to the terms under this subsection is not contingent upon the successful completion of all activities within a consortium as a condition for an award for follow-on production of a successfully completed prototype or prototype subproject within that consortium.
-  - **(5)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 1 of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
+  - **(5)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 1 1 See References in Text note below. of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
 - **(g)** An agreement entered into pursuant to the authority of subsection (a) or a follow-on contract or transaction entered into pursuant to the authority of subsection (f) may provide for prototypes or follow-on production items to be provided to another contractor as Government-furnished equipment.
 - **(h)** An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 - **(i)**

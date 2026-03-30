@@ -3,9 +3,9 @@ title: "Section 2274 - Destruction or misuse of vessel by person in charge"
 usc_title: 18
 usc_section: "2274"
 chapter: 111
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "18 U.S.C. § 2274"
-generated_at: "2026-03-30T00:14:51.923Z"
+generated_at: "2026-03-30T00:18:53.189Z"
 ---
 
 # § 2274. Destruction or misuse of vessel by person in charge

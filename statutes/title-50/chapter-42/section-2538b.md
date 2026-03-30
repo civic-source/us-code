@@ -3,9 +3,9 @@ title: "Section 2538b - Stockpile responsiveness program"
 usc_title: 50
 usc_section: "2538b"
 chapter: 42
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 2538b"
-generated_at: "2026-03-30T00:16:37.982Z"
+generated_at: "2026-03-30T00:20:29.393Z"
 ---
 
 # § 2538b. Stockpile responsiveness program

@@ -3,9 +3,9 @@ title: "Section 831i - Sale of surplus power; preferences; experimental work; ac
 usc_title: 16
 usc_section: "831i"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 831i"
-generated_at: "2026-03-30T00:14:59.503Z"
+generated_at: "2026-03-30T00:18:47.473Z"
 ---
 
 # § 831i. Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities

@@ -3,9 +3,9 @@ title: "Section 3617 - National Security Agency Emerging Technologies Panel"
 usc_title: 50
 usc_section: "3617"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3617"
-generated_at: "2026-03-30T00:16:38.020Z"
+generated_at: "2026-03-30T00:20:29.428Z"
 ---
 
 # § 3617. National Security Agency Emerging Technologies Panel

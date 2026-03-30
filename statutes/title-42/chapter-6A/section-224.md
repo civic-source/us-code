@@ -3,9 +3,9 @@ title: "Section 224 - Transferred"
 usc_title: 42
 usc_section: "224"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 224"
-generated_at: "2026-03-30T00:16:28.893Z"
+generated_at: "2026-03-30T00:20:22.287Z"
 ---
 
 # §§ 219 to 224. Transferred

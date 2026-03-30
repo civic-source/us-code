@@ -3,9 +3,9 @@ title: "Section 4071 - Establishment; application of Federal Employees’ Retire
 usc_title: 22
 usc_section: "4071"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4071"
-generated_at: "2026-03-30T00:15:12.582Z"
+generated_at: "2026-03-30T00:19:26.928Z"
 ---
 
 # § 4071. Establishment; application of Federal Employees’ Retirement System to Foreign Service Pension System participants

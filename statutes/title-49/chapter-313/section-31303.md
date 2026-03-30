@@ -3,9 +3,9 @@ title: "Section 31303 - Notification requirements"
 usc_title: 49
 usc_section: "31303"
 chapter: 313
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 31303"
-generated_at: "2026-03-30T00:16:45.895Z"
+generated_at: "2026-03-30T00:20:32.890Z"
 ---
 
 # § 31303. Notification requirements

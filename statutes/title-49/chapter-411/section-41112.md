@@ -3,9 +3,9 @@ title: "Section 41112 - Liability insurance and financial responsibility"
 usc_title: 49
 usc_section: "41112"
 chapter: 411
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 41112"
-generated_at: "2026-03-30T00:16:45.908Z"
+generated_at: "2026-03-30T00:20:32.903Z"
 ---
 
 # § 41112. Liability insurance and financial responsibility

@@ -3,9 +3,9 @@ title: "Section 219 - Repealed. Pub. L. 100–17, title I, § 133(e)(1) , Apr. 2
 usc_title: 23
 usc_section: "219"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "23 U.S.C. § 219"
-generated_at: "2026-03-30T00:15:10.093Z"
+generated_at: "2026-03-30T00:19:06.965Z"
 ---
 
 # [§ 219. Repealed. Pub. L. 100–17, title I, § 133(e)(1) , Apr. 2, 1987 , 101 Stat. 173 ]

@@ -3,9 +3,9 @@ title: "Section 111 - PDP regions; submission of bids; plan approval"
 usc_title: 42
 usc_section: "111"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 111"
-generated_at: "2026-03-30T00:16:29.204Z"
+generated_at: "2026-03-30T00:20:22.607Z"
 ---
 
 # § 1395w–111. PDP regions; submission of bids; plan approval
@@ -109,6 +109,6 @@ generated_at: "2026-03-30T00:16:29.204Z"
 - **(h)** The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g). The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection 3 3 So in original. (f).
 - **(i)** In order to promote competition under this part and in carrying out this part, the Secretary—
   - **(1)** may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors;
-  - **(2)** may not require a particular formulary, except as provided under section 1395w–104(b)(3)(l) of this title ; and
+  - **(2)** may not require a particular formulary, except as provided under section 1395w–104(b)(3)( l ) 4 4 So in original. Probably should be “(b)(3)(I)”. of this title; and
   - **(3)** may not institute a price structure for the reimbursement of covered part D drugs, except as provided under part E of subchapter XI.
 - **(j)** A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.

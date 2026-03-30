@@ -3,9 +3,9 @@ title: "Section 621 - Competitive categories for promotion"
 usc_title: 10
 usc_section: "621"
 chapter: 36
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 621"
-generated_at: "2026-03-30T00:14:10.244Z"
+generated_at: "2026-03-30T00:18:12.193Z"
 ---
 
 # § 621. Competitive categories for promotion

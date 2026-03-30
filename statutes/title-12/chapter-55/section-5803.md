@@ -3,9 +3,9 @@ title: "Section 5803 - LIBOR contracts"
 usc_title: 12
 usc_section: "5803"
 chapter: 55
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 5803"
-generated_at: "2026-03-30T00:14:48.462Z"
+generated_at: "2026-03-30T00:18:37.746Z"
 ---
 
 # § 5803. LIBOR contracts

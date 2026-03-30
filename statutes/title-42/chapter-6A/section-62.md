@@ -1,14 +1,14 @@
 ---
-title: "Section 62 - Supplemental fund"
+title: "Section 62 - Supplemental Fund"
 usc_title: 42
 usc_section: "62"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 62"
-generated_at: "2026-03-30T00:16:29.067Z"
+generated_at: "2026-03-30T00:20:22.471Z"
 ---
 
-# § 300mm–62. Supplemental fund
+# § 300mm–62. Supplemental Fund
 
 - **(a)** There is established a fund to be known as the World Trade Center Health Program Supplemental Fund (referred to in this section as the “Supplemental Fund”), consisting of amounts deposited into the Fund under subsection (b).
 - **(b)** Out of any money in the Treasury not otherwise appropriated, there is appropriated for fiscal year 2023 $1,000,000,000, for deposit into the Supplemental Fund, which amounts shall remain available through fiscal year 2032.

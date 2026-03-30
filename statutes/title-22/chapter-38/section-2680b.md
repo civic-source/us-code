@@ -3,9 +3,9 @@ title: "Section 2680b - Special rules for certain monthly workers’ compensatio
 usc_title: 22
 usc_section: "2680b"
 chapter: 38
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2680b"
-generated_at: "2026-03-30T00:15:12.552Z"
+generated_at: "2026-03-30T00:19:26.899Z"
 ---
 
 # § 2680b. Special rules for certain monthly workers’ compensation payments and other payments for Department of State personnel under chief of mission authority

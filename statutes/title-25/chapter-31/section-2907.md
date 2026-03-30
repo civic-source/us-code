@@ -3,9 +3,9 @@ title: "Section 2907 - Survey on Native American languages"
 usc_title: 25
 usc_section: "2907"
 chapter: 31
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "25 U.S.C. § 2907"
-generated_at: "2026-03-30T00:15:13.687Z"
+generated_at: "2026-03-30T00:19:08.558Z"
 ---
 
 # § 2907. Survey on Native American languages

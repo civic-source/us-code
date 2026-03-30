@@ -3,9 +3,9 @@ title: "Section 10606 - Repealed. Pub. L. 108–405, title I, § 102(c) , Oct. 3
 usc_title: 42
 usc_section: "10606"
 chapter: 112
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 10606"
-generated_at: "2026-03-30T00:16:29.644Z"
+generated_at: "2026-03-30T00:20:23.036Z"
 ---
 
 # § 10606. Repealed. Pub. L. 108–405, title I, § 102(c) , Oct. 30, 2004 , 118 Stat. 2264

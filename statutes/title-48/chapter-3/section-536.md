@@ -3,9 +3,9 @@ title: "Section 536 - Repealed. Pub. L. 86–3, § 14(e) , Mar. 18, 1959 , 73 St
 usc_title: 48
 usc_section: "536"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "48 U.S.C. § 536"
-generated_at: "2026-03-30T00:16:35.561Z"
+generated_at: "2026-03-30T00:20:26.304Z"
 ---
 
 # § 536. Repealed. Pub. L. 86–3, § 14(e) , Mar. 18, 1959 , 73 Stat. 10

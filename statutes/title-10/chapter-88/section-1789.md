@@ -3,9 +3,9 @@ title: "Section 1789 - Chaplain-led programs: authorized support"
 usc_title: 10
 usc_section: "1789"
 chapter: 88
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1789"
-generated_at: "2026-03-30T00:14:10.297Z"
+generated_at: "2026-03-30T00:18:12.256Z"
 ---
 
 # § 1789. Chaplain-led programs: authorized support
@@ -15,4 +15,4 @@ generated_at: "2026-03-30T00:14:10.297Z"
 - **(c)** In this section, the term “covered individual” means—
   - **(1)** a member of the armed forces on active duty;
   - **(2)** a member of the reserve components in an active status; or
-  - **(3)** a dependent of an individual described in subparagraph (A) or (B). 1 1 So in original. Probably should be “paragraph (1) or (2)”.
+  - **(3)** a dependent of an individual described in subparagraph (A) or (B). 1 1 So in original. Probably should be “paragraph (1) or (2).”

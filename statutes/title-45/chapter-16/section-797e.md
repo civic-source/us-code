@@ -3,9 +3,9 @@ title: "Section 797e - Assignment of work"
 usc_title: 45
 usc_section: "797e"
 chapter: 16
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "45 U.S.C. § 797e"
-generated_at: "2026-03-30T00:16:05.397Z"
+generated_at: "2026-03-30T00:20:05.472Z"
 ---
 
 # § 797e. Assignment of work

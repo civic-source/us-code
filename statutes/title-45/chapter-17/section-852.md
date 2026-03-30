@@ -3,9 +3,9 @@ title: "Section 852 - Repealed. Pub. L. 97–35, title XI, § 1188(e) , Aug. 13,
 usc_title: 45
 usc_section: "852"
 chapter: 17
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "45 U.S.C. § 852"
-generated_at: "2026-03-30T00:16:05.398Z"
+generated_at: "2026-03-30T00:20:05.473Z"
 ---
 
 # § 852. Repealed. Pub. L. 97–35, title XI, § 1188(e) , Aug. 13, 1981 , 95 Stat. 699

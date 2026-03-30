@@ -3,9 +3,9 @@ title: "Section 1302d - Grants for construction and refurbishing of individual h
 usc_title: 33
 usc_section: "1302d"
 chapter: 26
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "33 U.S.C. § 1302d"
-generated_at: "2026-03-30T00:15:52.434Z"
+generated_at: "2026-03-30T00:19:53.609Z"
 ---
 
 # § 1302d. Grants for construction and refurbishing of individual household decentralized wastewater systems for individuals with low or moderate income

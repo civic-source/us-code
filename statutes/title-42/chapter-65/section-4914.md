@@ -3,9 +3,9 @@ title: "Section 4914 - Development of low-noise-emission products"
 usc_title: 42
 usc_section: "4914"
 chapter: 65
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 4914"
-generated_at: "2026-03-30T00:16:29.447Z"
+generated_at: "2026-03-30T00:20:22.848Z"
 ---
 
 # § 4914. Development of low-noise-emission products

@@ -3,9 +3,9 @@ title: "Section 522 - Federal Reserve branch bank buildings"
 usc_title: 12
 usc_section: "522"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 522"
-generated_at: "2026-03-30T00:14:48.292Z"
+generated_at: "2026-03-30T00:18:37.574Z"
 ---
 
 # § 522. Federal Reserve branch bank buildings

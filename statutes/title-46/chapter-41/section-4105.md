@@ -3,9 +3,9 @@ title: "Section 4105 - Uninspected passenger vessels"
 usc_title: 46
 usc_section: "4105"
 chapter: 41
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 4105"
-generated_at: "2026-03-30T00:16:36.514Z"
+generated_at: "2026-03-30T00:20:37.490Z"
 ---
 
 # § 4105. Uninspected passenger vessels

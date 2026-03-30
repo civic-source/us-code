@@ -3,9 +3,9 @@ title: "Section 154501 - Definition"
 usc_title: 36
 usc_section: "154501"
 chapter: 1545
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "36 U.S.C. § 154501"
-generated_at: "2026-03-30T00:16:00.284Z"
+generated_at: "2026-03-30T00:19:56.610Z"
 ---
 
 # § 154501. Definition

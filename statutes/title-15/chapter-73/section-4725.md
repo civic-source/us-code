@@ -3,9 +3,9 @@ title: "Section 4725 - United States and Foreign Commercial Service Pacific Rim 
 usc_title: 15
 usc_section: "4725"
 chapter: 73
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 4725"
-generated_at: "2026-03-30T00:14:33.547Z"
+generated_at: "2026-03-30T00:18:28.179Z"
 ---
 
 # § 4725. United States and Foreign Commercial Service Pacific Rim initiative

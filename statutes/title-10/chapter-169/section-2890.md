@@ -3,9 +3,9 @@ title: "Section 2890 - Rights and responsibilities of tenants of housing units"
 usc_title: 10
 usc_section: "2890"
 chapter: 169
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 2890"
-generated_at: "2026-03-30T00:14:10.333Z"
+generated_at: "2026-03-30T00:18:12.297Z"
 ---
 
 # § 2890. Rights and responsibilities of tenants of housing units

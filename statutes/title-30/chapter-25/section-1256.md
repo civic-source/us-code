@@ -3,9 +3,9 @@ title: "Section 1256 - Permits"
 usc_title: 30
 usc_section: "1256"
 chapter: 25
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "30 U.S.C. § 1256"
-generated_at: "2026-03-30T00:15:23.803Z"
+generated_at: "2026-03-30T00:19:29.575Z"
 ---
 
 # § 1256. Permits

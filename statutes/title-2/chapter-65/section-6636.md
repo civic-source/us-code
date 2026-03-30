@@ -3,9 +3,9 @@ title: "Section 6636 - Senate Computer Center"
 usc_title: 2
 usc_section: "6636"
 chapter: 65
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 6636"
-generated_at: "2026-03-30T00:13:59.004Z"
+generated_at: "2026-03-30T00:17:40.351Z"
 ---
 
 # § 6636. Senate Computer Center

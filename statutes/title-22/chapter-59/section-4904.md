@@ -3,9 +3,9 @@ title: "Section 4904 - Secretary of State"
 usc_title: 22
 usc_section: "4904"
 chapter: 59
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4904"
-generated_at: "2026-03-30T00:15:12.597Z"
+generated_at: "2026-03-30T00:19:26.939Z"
 ---
 
 # § 4904. Secretary of State

@@ -3,9 +3,9 @@ title: "Section 677d - Notification and reporting"
 usc_title: 6
 usc_section: "677d"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "6 U.S.C. § 677d"
-generated_at: "2026-03-30T00:14:01.502Z"
+generated_at: "2026-03-30T00:18:00.111Z"
 ---
 
 # § 677d. Notification and reporting

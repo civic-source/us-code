@@ -3,9 +3,9 @@ title: "Section 3171 - General authorization"
 usc_title: 29
 usc_section: "3171"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "29 U.S.C. § 3171"
-generated_at: "2026-03-30T00:15:31.156Z"
+generated_at: "2026-03-30T00:19:31.375Z"
 ---
 
 # § 3171. General authorization

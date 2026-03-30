@@ -3,9 +3,9 @@ title: "Section 7316 - Lifeboatmen"
 usc_title: 46
 usc_section: "7316"
 chapter: 73
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 7316"
-generated_at: "2026-03-30T00:16:36.517Z"
+generated_at: "2026-03-30T00:20:37.493Z"
 ---
 
 # § 7316. Lifeboatmen

@@ -3,9 +3,9 @@ title: "Section 3052 - Limitation on establishment or operation of diplomatic in
 usc_title: 50
 usc_section: "3052"
 chapter: 44
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3052"
-generated_at: "2026-03-30T00:16:37.995Z"
+generated_at: "2026-03-30T00:20:29.406Z"
 ---
 
 # § 3052. Limitation on establishment or operation of diplomatic intelligence support centers

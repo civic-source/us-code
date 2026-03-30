@@ -3,9 +3,9 @@ title: "Section 1406a - Expenses of management and operation of transferred proj
 usc_title: 42
 usc_section: "1406a"
 chapter: 8
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1406a"
-generated_at: "2026-03-30T00:16:29.299Z"
+generated_at: "2026-03-30T00:20:22.701Z"
 ---
 
 # § 1406a. Expenses of management and operation of transferred projects as nonadministrative; payment

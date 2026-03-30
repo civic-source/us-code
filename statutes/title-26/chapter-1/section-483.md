@@ -3,9 +3,9 @@ title: "Section 483 - Interest on certain deferred payments"
 usc_title: 26
 usc_section: "483"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 483"
-generated_at: "2026-03-30T00:15:47.765Z"
+generated_at: "2026-03-30T00:19:39.122Z"
 ---
 
 # § 483. Interest on certain deferred payments

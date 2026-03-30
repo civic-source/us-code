@@ -3,9 +3,9 @@ title: "Section 474 - Review of district court action"
 usc_title: 28
 usc_section: "474"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "28 U.S.C. § 474"
-generated_at: "2026-03-30T00:15:29.237Z"
+generated_at: "2026-03-30T00:19:45.354Z"
 ---
 
 # § 474. Review of district court action

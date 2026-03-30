@@ -3,9 +3,9 @@ title: "Section 6405 - Coral reef stewardship partnerships"
 usc_title: 16
 usc_section: "6405"
 chapter: 83
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 6405"
-generated_at: "2026-03-30T00:14:59.606Z"
+generated_at: "2026-03-30T00:18:47.583Z"
 ---
 
 # § 6405. Coral reef stewardship partnerships
@@ -32,4 +32,4 @@ generated_at: "2026-03-30T00:14:59.606Z"
     - **(B)** A representative of a Federal agency described in subparagraph (A) may become a member of a coral reef stewardship partnership described in paragraph (1) if—
       - **(i)** the representative submits a request to become a member to the chairperson of the partnership referred to in paragraph (1)(A); and
       - **(ii)** the chairperson consents to the request.
-- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coral reef stewardship partnerships under this section.
+- **(e)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to coral reef stewardship partnerships under this section.

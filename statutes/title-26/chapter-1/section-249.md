@@ -3,9 +3,9 @@ title: "Section 249 - Limitation on deduction of bond premium on repurchase"
 usc_title: 26
 usc_section: "249"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 249"
-generated_at: "2026-03-30T00:15:47.716Z"
+generated_at: "2026-03-30T00:19:39.076Z"
 ---
 
 # § 249. Limitation on deduction of bond premium on repurchase

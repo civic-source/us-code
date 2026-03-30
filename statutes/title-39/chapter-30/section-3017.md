@@ -3,9 +3,9 @@ title: "Section 3017 - Nonmailable skill contests or sweepstakes matter; notific
 usc_title: 39
 usc_section: "3017"
 chapter: 30
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "39 U.S.C. § 3017"
-generated_at: "2026-03-30T00:15:57.681Z"
+generated_at: "2026-03-30T00:19:55.393Z"
 ---
 
 # § 3017. Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings

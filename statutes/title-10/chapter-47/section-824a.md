@@ -3,9 +3,9 @@ title: "Section 824a - Art. 24a. Special trial counsel"
 usc_title: 10
 usc_section: "824a"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 824a"
-generated_at: "2026-03-30T00:14:10.250Z"
+generated_at: "2026-03-30T00:18:12.201Z"
 ---
 
 # § 824a. Art. 24a. Special trial counsel
@@ -23,10 +23,10 @@ generated_at: "2026-03-30T00:14:10.250Z"
   - **(2)**
     - **(A)** A special trial counsel shall have exclusive authority to determine if a reported offense is a covered offense and shall exercise authority over any such offense in accordance with this chapter. Any determination to prefer or refer charges shall not act to disqualify the special trial counsel as an accuser.
     - **(B)** If a special trial counsel determines that a reported offense is a covered offense, the special trial counsel may also exercise authority over any offense that the special trial counsel determines to be related to the covered offense and any other offense alleged to have been committed by a person alleged to have committed the covered offense.
-  - **(3)** Subject to paragraph (4), with respect to charges and specifications alleging any offense over which a special trial counsel exercises authority, a special trial counsel shall have exclusive authority to, in accordance with this chapter—
+  - **(3)** Subject to paragraph (5), with respect to charges and specifications alleging any offense over which a special trial counsel exercises authority, a special trial counsel shall have exclusive authority to, in accordance with this chapter—
     - **(A)** on behalf of the Government, withdraw or dismiss the charges and specifications or make a motion to withdraw or dismiss the charges and specifications;
     - **(B)** refer the charges and specifications for trial by a special or general court-martial;
     - **(C)** enter into a plea agreement; and
-    - **(D)** determine if an ordered rehearing is impracticable.
+    - **(D)** determine if an authorized rehearing is impracticable.
   - **(4)** The determination of a special trial counsel to refer charges and specifications to a court-martial for trial shall be binding on any applicable convening authority for the referral of such charges and specifications.
   - **(5)** If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.

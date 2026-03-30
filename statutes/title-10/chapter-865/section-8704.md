@@ -3,9 +3,9 @@ title: "Section 8704 - Disposition of receipts"
 usc_title: 10
 usc_section: "8704"
 chapter: 865
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 8704"
-generated_at: "2026-03-30T00:14:10.377Z"
+generated_at: "2026-03-30T00:18:12.347Z"
 ---
 
 # § 8704. Disposition of receipts

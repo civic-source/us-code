@@ -3,9 +3,9 @@ title: "Section 497 - Notification required for reduction, consolidation, or wit
 usc_title: 10
 usc_section: "497"
 chapter: 24
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 497"
-generated_at: "2026-03-30T00:14:10.238Z"
+generated_at: "2026-03-30T00:18:12.187Z"
 ---
 
 # § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe

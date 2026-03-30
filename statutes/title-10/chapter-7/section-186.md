@@ -3,9 +3,9 @@ title: "Section 186 - Repealed. Pub. L. 113–291, div. A, title IX, § 901(c) ,
 usc_title: 10
 usc_section: "186"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 186"
-generated_at: "2026-03-30T00:14:10.227Z"
+generated_at: "2026-03-30T00:18:12.172Z"
 ---
 
 # [§ 186. Repealed. Pub. L. 113–291, div. A, title IX, § 901(c) , Dec. 19, 2014 , 128 Stat. 3463 ]

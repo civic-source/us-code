@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(14), 
 usc_title: 48
 usc_section: "1"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "48 U.S.C. § 1"
-generated_at: "2026-03-30T00:16:35.562Z"
+generated_at: "2026-03-30T00:20:26.304Z"
 ---
 
 # § 733a–1. Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(14), 66 Stat. 279

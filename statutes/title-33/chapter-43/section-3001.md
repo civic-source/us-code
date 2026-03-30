@@ -3,9 +3,9 @@ title: "Section 3001 - Commissioned officer corps"
 usc_title: 33
 usc_section: "3001"
 chapter: 43
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "33 U.S.C. § 3001"
-generated_at: "2026-03-30T00:15:52.485Z"
+generated_at: "2026-03-30T00:19:53.658Z"
 ---
 
 # § 3001. Commissioned officer corps

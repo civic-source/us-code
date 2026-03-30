@@ -3,9 +3,9 @@ title: "Section 2288 - Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 
 usc_title: 29
 usc_section: "2288"
 chapter: 24
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "29 U.S.C. § 2288"
-generated_at: "2026-03-30T00:15:31.145Z"
+generated_at: "2026-03-30T00:19:31.363Z"
 ---
 
 # §§ 2281 to 2288. Repealed. Pub. L. 105–394, title IV, § 401 , Nov. 13, 1998 , 112 Stat. 3661

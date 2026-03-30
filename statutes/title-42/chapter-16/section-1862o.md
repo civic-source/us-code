@@ -3,9 +3,9 @@ title: "Section 1862o - Postdoctoral research fellows"
 usc_title: 42
 usc_section: "1862o"
 chapter: 16
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1862o"
-generated_at: "2026-03-30T00:16:29.351Z"
+generated_at: "2026-03-30T00:20:22.753Z"
 ---
 
 # § 1862o. Postdoctoral research fellows

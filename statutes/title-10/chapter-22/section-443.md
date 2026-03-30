@@ -3,9 +3,9 @@ title: "Section 443 - Imagery intelligence and geospatial information: support f
 usc_title: 10
 usc_section: "443"
 chapter: 22
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 443"
-generated_at: "2026-03-30T00:14:10.236Z"
+generated_at: "2026-03-30T00:18:12.185Z"
 ---
 
 # § 443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances

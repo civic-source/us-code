@@ -3,9 +3,9 @@ title: "Section 1001 - Reference to chapter 1219"
 usc_title: 10
 usc_section: "1001"
 chapter: 51
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1001"
-generated_at: "2026-03-30T00:14:10.262Z"
+generated_at: "2026-03-30T00:18:12.215Z"
 ---
 
 # § 1001. Reference to chapter 1219

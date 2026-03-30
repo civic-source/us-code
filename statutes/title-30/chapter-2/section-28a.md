@@ -3,9 +3,9 @@ title: "Section 28a - Omitted"
 usc_title: 30
 usc_section: "28a"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "30 U.S.C. § 28a"
-generated_at: "2026-03-30T00:15:23.777Z"
+generated_at: "2026-03-30T00:19:29.548Z"
 ---
 
 # § 28a. Omitted

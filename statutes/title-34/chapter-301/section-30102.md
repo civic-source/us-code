@@ -3,9 +3,9 @@ title: "Section 30102 - Development and support of cybersecurity forensic capabi
 usc_title: 34
 usc_section: "30102"
 chapter: 301
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 30102"
-generated_at: "2026-03-30T00:15:51.227Z"
+generated_at: "2026-03-30T00:19:48.377Z"
 ---
 
 # § 30102. Development and support of cybersecurity forensic capabilities

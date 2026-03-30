@@ -3,9 +3,9 @@ title: "Section 195 - Start-up expenditures"
 usc_title: 26
 usc_section: "195"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 195"
-generated_at: "2026-03-30T00:15:47.709Z"
+generated_at: "2026-03-30T00:19:39.070Z"
 ---
 
 # § 195. Start-up expenditures

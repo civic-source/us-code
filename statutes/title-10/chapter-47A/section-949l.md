@@ -3,9 +3,9 @@ title: "Section 949l - Voting and rulings"
 usc_title: 10
 usc_section: "949l"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 949l"
-generated_at: "2026-03-30T00:14:10.259Z"
+generated_at: "2026-03-30T00:18:12.211Z"
 ---
 
 # § 949l. Voting and rulings

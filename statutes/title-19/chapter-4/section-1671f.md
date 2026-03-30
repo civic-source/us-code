@@ -3,9 +3,9 @@ title: "Section 1671f - Treatment of difference between deposit of estimated cou
 usc_title: 19
 usc_section: "1671f"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 1671f"
-generated_at: "2026-03-30T00:14:53.268Z"
+generated_at: "2026-03-30T00:19:01.207Z"
 ---
 
 # § 1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order

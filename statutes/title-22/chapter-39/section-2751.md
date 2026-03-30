@@ -3,9 +3,9 @@ title: "Section 2751 - Need for international defense cooperation and military e
 usc_title: 22
 usc_section: "2751"
 chapter: 39
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2751"
-generated_at: "2026-03-30T00:15:12.558Z"
+generated_at: "2026-03-30T00:19:26.905Z"
 ---
 
 # § 2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy

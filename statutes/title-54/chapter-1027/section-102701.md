@@ -3,9 +3,9 @@ title: "Section 102701 - Law enforcement personnel within System"
 usc_title: 54
 usc_section: "102701"
 chapter: 1027
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "54 U.S.C. § 102701"
-generated_at: "2026-03-30T00:16:52.141Z"
+generated_at: "2026-03-30T00:20:42.018Z"
 ---
 
 # § 102701. Law enforcement personnel within System

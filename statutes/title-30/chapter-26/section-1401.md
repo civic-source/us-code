@@ -3,9 +3,9 @@ title: "Section 1401 - Congressional findings and declaration of purpose"
 usc_title: 30
 usc_section: "1401"
 chapter: 26
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "30 U.S.C. § 1401"
-generated_at: "2026-03-30T00:15:23.807Z"
+generated_at: "2026-03-30T00:19:29.580Z"
 ---
 
 # § 1401. Congressional findings and declaration of purpose

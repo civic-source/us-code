@@ -3,9 +3,9 @@ title: "Section 196b - Repealed. Pub. L. 98–621, § 10(n) , Nov. 8, 1984 , 98 
 usc_title: 24
 usc_section: "196b"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "24 U.S.C. § 196b"
-generated_at: "2026-03-30T00:15:04.145Z"
+generated_at: "2026-03-30T00:19:03.489Z"
 ---
 
 # § 196b. Repealed. Pub. L. 98–621, § 10(n) , Nov. 8, 1984 , 98 Stat. 3380

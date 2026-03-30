@@ -3,9 +3,9 @@ title: "Section 2294 - Authorizations of appropriations for Development Fund for
 usc_title: 22
 usc_section: "2294"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2294"
-generated_at: "2026-03-30T00:15:12.529Z"
+generated_at: "2026-03-30T00:19:26.876Z"
 ---
 
 # § 2294. Authorizations of appropriations for Development Fund for Africa

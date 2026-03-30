@@ -3,9 +3,9 @@ title: "Section 505 - Arrangements and public records"
 usc_title: 49
 usc_section: "505"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 505"
-generated_at: "2026-03-30T00:16:45.834Z"
+generated_at: "2026-03-30T00:20:32.833Z"
 ---
 
 # § 505. Arrangements and public records

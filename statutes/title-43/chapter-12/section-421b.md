@@ -3,9 +3,9 @@ title: "Section 421b - Loans for construction of distribution and drainage syste
 usc_title: 43
 usc_section: "421b"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "43 U.S.C. § 421b"
-generated_at: "2026-03-30T00:16:09.764Z"
+generated_at: "2026-03-30T00:20:08.051Z"
 ---
 
 # § 421b. Loans for construction of distribution and drainage systems; repayment contract; time period for repayment of loan; “irrigation district or other public agency” defined

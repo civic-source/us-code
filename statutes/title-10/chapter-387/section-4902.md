@@ -3,9 +3,9 @@ title: "Section 4902 - Department of Defense Mentor-Protege Program"
 usc_title: 10
 usc_section: "4902"
 chapter: 387
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4902"
-generated_at: "2026-03-30T00:14:10.359Z"
+generated_at: "2026-03-30T00:18:12.327Z"
 ---
 
 # § 4902. Department of Defense Mentor-Protege Program
@@ -110,7 +110,7 @@ generated_at: "2026-03-30T00:14:10.359Z"
     - **(A)** uses rehabilitative engineering to provide employment opportunities for severely disabled individuals and integrates severely disabled individuals into its workforce;
     - **(B)** employs severely disabled individuals at a rate that averages not less than 20 percent of its total workforce;
     - **(C)** employs each severely disabled individual in its workforce generally on the basis of 40 hours per week; and
-    - **(D)** pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act ( 29 U.S.C. 206 ) 2 to those employees who are severely disabled individuals.
+    - **(D)** pays not less than the minimum wage prescribed pursuant to section 6 of the Fair Labor Standards Act 3 3 So in original. Probably should be followed by “of 1938”. ( 29 U.S.C. 206 ) to those employees who are severely disabled individuals.
   - **(6)** The term “severely disabled individual” means an individual who is blind (as defined in section 8501 of title 41 ) or a severely disabled individual (as defined in such section).
   - **(7)** The term “small business concern” has the meaning given such term under section 3 of the Small Business Act ( 15 U.S.C. 632 ).
   - **(8)** The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given such term in section 8(d)(3)(C) of the Small Business Act ( 15 U.S.C. 637(d)(3)(C) ).

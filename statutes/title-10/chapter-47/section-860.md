@@ -3,9 +3,9 @@ title: "Section 860 - Art. 60. Post-trial processing in general and special cour
 usc_title: 10
 usc_section: "860"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 860"
-generated_at: "2026-03-30T00:14:10.252Z"
+generated_at: "2026-03-30T00:18:12.204Z"
 ---
 
 # § 860. Art. 60. Post-trial processing in general and special courts-martial

@@ -3,9 +3,9 @@ title: "Section 2003 - Target participation rates"
 usc_title: 7
 usc_section: "2003"
 chapter: 50
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 2003"
-generated_at: "2026-03-30T00:14:23.569Z"
+generated_at: "2026-03-30T00:18:19.968Z"
 ---
 
 # § 2003. Target participation rates

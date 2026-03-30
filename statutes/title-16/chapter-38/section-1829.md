@@ -3,9 +3,9 @@ title: "Section 1829 - International monitoring and compliance"
 usc_title: 16
 usc_section: "1829"
 chapter: 38
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 1829"
-generated_at: "2026-03-30T00:14:59.554Z"
+generated_at: "2026-03-30T00:18:47.526Z"
 ---
 
 # § 1829. International monitoring and compliance

@@ -3,9 +3,9 @@ title: "Section 294k - Training demonstration program"
 usc_title: 42
 usc_section: "294k"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 294k"
-generated_at: "2026-03-30T00:16:28.987Z"
+generated_at: "2026-03-30T00:20:22.389Z"
 ---
 
 # § 294k. Training demonstration program
@@ -45,11 +45,11 @@ generated_at: "2026-03-30T00:16:28.987Z"
     - **(C)** a community mental health center (as defined in section 1395x(ff)(3)(B) of this title );
     - **(D)** a rural health clinic (as defined in section 1395x(aa) of this title );
     - **(E)** a health center operated by the Indian Health Service, an Indian tribe, a tribal organization, or an urban Indian organization (as defined in section 1603 of title 25 ); or
-    - **(F)** an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,, 1 1 So in original.. and social workers, including such entities that serve pediatric populations.
+    - **(F)** an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,, 1 1 So in original. and social workers, including such entities that serve pediatric populations.
   - **(3)** To be eligible to receive a grant under subsection (a)(3), an entity shall be a school of medicine or osteopathic medicine, a nursing school, a physician assistant training program, a school of pharmacy, a school of social work, an accredited public or nonprofit private hospital, an accredited medical residency program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant.
 - **(d)**
   - **(1)** In awarding grants under subsection (a)(1) or (a)(2), the Secretary shall give priority to eligible entities that—
-    - **(A)** demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse 2 2 So in original. practitioners, physician assistants counselors,, 2 or social workers in addiction medicine per year to meet the needs of the area served;
+    - **(A)** demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse 1 practitioners, physician assistants counselors,, 1 or social workers in addiction medicine per year to meet the needs of the area served;
     - **(B)** demonstrate experience in training providers to practice team-based care that integrates mental health and substance use disorder prevention and treatment services with primary care in community-based settings, which may include such settings that serve pediatric populations;
     - **(C)** demonstrate experience in using health information technology and, as appropriate, telehealth to support—
       - **(i)** the delivery of mental health and substance use disorder services at the eligible entities described in subsections (c)(1) and (c)(2); and
@@ -70,4 +70,4 @@ generated_at: "2026-03-30T00:16:28.987Z"
     - **(A)** an analysis of the effect of the demonstration program under this section on the quality, quantity, and distribution of mental health and substance use disorder services;
     - **(B)** an analysis of the effect of the demonstration program on the prevalence of untreated mental health and substance use disorders in the surrounding communities of health centers participating in the demonstration; and
     - **(C)** recommendations on whether the demonstration program should be expanded.
-- **(g)** There are authorized to be appropriated to carry out this section, and $31,700,000 for each of fiscal years 2023 through 2027.
+- **(g)** There are authorized to be appropriated to carry out this section, and 1 $31,700,000 for each of fiscal years 2023 through 2027.

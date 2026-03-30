@@ -3,9 +3,9 @@ title: "Section 6q - Special procedures to encourage and facilitate bona fide he
 usc_title: 7
 usc_section: "6q"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 6q"
-generated_at: "2026-03-30T00:14:23.470Z"
+generated_at: "2026-03-30T00:18:19.859Z"
 ---
 
 # § 6q. Special procedures to encourage and facilitate bona fide hedging by agricultural producers

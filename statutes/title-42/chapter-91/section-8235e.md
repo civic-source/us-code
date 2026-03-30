@@ -3,9 +3,9 @@ title: "Section 8235e - Authority of Federal Energy Regulatory Commission to exe
 usc_title: 42
 usc_section: "8235e"
 chapter: 91
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 8235e"
-generated_at: "2026-03-30T00:16:29.586Z"
+generated_at: "2026-03-30T00:20:22.977Z"
 ---
 
 # § 8235e. Authority of Federal Energy Regulatory Commission to exempt application of certain laws

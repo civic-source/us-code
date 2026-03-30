@@ -3,9 +3,9 @@ title: "Section 329 - Additional appropriation for agricultural colleges"
 usc_title: 7
 usc_section: "329"
 chapter: 13
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 329"
-generated_at: "2026-03-30T00:14:23.505Z"
+generated_at: "2026-03-30T00:18:19.895Z"
 ---
 
 # § 329. Additional appropriation for agricultural colleges

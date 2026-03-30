@@ -3,9 +3,9 @@ title: "Section 20709 - Combat Human Trafficking Act"
 usc_title: 34
 usc_section: "20709"
 chapter: 207
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 20709"
-generated_at: "2026-03-30T00:15:51.220Z"
+generated_at: "2026-03-30T00:19:48.371Z"
 ---
 
 # § 20709. Combat Human Trafficking Act

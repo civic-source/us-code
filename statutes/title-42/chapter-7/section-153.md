@@ -3,9 +3,9 @@ title: "Section 153 - Condition for coverage of drugs under this part"
 usc_title: 42
 usc_section: "153"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 153"
-generated_at: "2026-03-30T00:16:29.213Z"
+generated_at: "2026-03-30T00:20:22.614Z"
 ---
 
 # § 1395w–153. Condition for coverage of drugs under this part
@@ -15,7 +15,7 @@ generated_at: "2026-03-30T00:16:29.213Z"
     - **(A)** for 2011 through 2024, the Medicare coverage gap discount program under section 1395w–114a of this title ; and
     - **(B)** for 2025 and each subsequent year, the manufacturer discount program under section 1395w–114c of this title ;
   - **(2)** have entered into and have in effect—
-    - **(A)** for 2011 through 2024, an agreement described in subsection (b) of section 1395w–114a with the Secretary; and
+    - **(A)** for 2011 through 2024, an agreement described in subsection (b) of section 1395w–114a of this title with the Secretary; and
     - **(B)** for 2025 and each subsequent year, an agreement described in subsection (b) of section 1395w–114c of this title with the Secretary; and
   - **(3)** have entered into and have in effect, under terms and conditions specified by the Secretary, a contract with a third party that the Secretary has entered into a contract with under subsection (d)(3) of section 1395w–114a of this title .
 - **(b)** Paragraphs (1)(A), (2)(A), and (3) of subsection (a) shall apply to covered part D drugs dispensed under this part on or after January 1, 2011 , and before January 1, 2025 , and paragraphs (1)(B) and (2)(B) of such subsection shall apply to covered part D drugs dispensed under this part on or after January 1, 2025 .

@@ -3,9 +3,9 @@ title: "Section 8611 - Attendance at meetings of technical, professional, or sci
 usc_title: 10
 usc_section: "8611"
 chapter: 861
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 8611"
-generated_at: "2026-03-30T00:14:10.374Z"
+generated_at: "2026-03-30T00:18:12.345Z"
 ---
 
 # § 8611. Attendance at meetings of technical, professional, or scientific organizations

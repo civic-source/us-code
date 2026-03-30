@@ -3,9 +3,9 @@ title: "Section 707 - Bills and resolutions: style and form"
 usc_title: 44
 usc_section: "707"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "44 U.S.C. § 707"
-generated_at: "2026-03-30T00:16:12.481Z"
+generated_at: "2026-03-30T00:20:08.509Z"
 ---
 
 # § 707. Bills and resolutions: style and form

@@ -3,9 +3,9 @@ title: "Section 9042 - Emergency relief and taxpayer protections"
 usc_title: 15
 usc_section: "9042"
 chapter: 116
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 9042"
-generated_at: "2026-03-30T00:14:33.595Z"
+generated_at: "2026-03-30T00:18:28.219Z"
 ---
 
 # § 9042. Emergency relief and taxpayer protections
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T00:14:33.595Z"
 - **(a)** Notwithstanding any other provision of law, to provide liquidity to eligible businesses, States, and municipalities related to losses incurred as a result of coronavirus, the Secretary is authorized to make loans, loan guarantees, and other investments in support of eligible businesses, States, and municipalities that do not, in the aggregate, exceed $0 and provide the subsidy amounts necessary for such loans, loan guarantees, and other investments in accordance with the provisions of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
 - **(b)** Loans, loan guarantees, and other investments made pursuant to subsection (a) shall be made available as follows:
   - **(1)** Not more than $0 shall be available to make loans and loan guarantees for passenger air carriers, eligible businesses that are certified under part 145 of title 14, Code of Federal Regulations, and approved to perform inspection, repair, replace, or overhaul services, and ticket agents (as defined in section 40102 of title 49 ).
-  - **(2)** Not more than 0 1 1 So in original. Probably should be “$0”. shall be available to make loans and loan guarantees for cargo air carriers.
+  - **(2)** Not more than 0 1 1 So in original. Probably should be preceded by a dollar sign. shall be available to make loans and loan guarantees for cargo air carriers.
   - **(3)** Not more than 0 1 shall be available to make loans and loan guarantees for businesses critical to maintaining national security.
   - **(4)** Not more than the sum of $0 and any amounts available under paragraphs (1), (2), and (3) that are not used as provided under those paragraphs shall be available to make loans and loan guarantees to, and other investments in, programs or facilities established by the Board of Governors of the Federal Reserve System for the purpose of providing liquidity to the financial system that supports lending to eligible businesses, States, or municipalities by—
     - **(A)** purchasing obligations or other interests directly from issuers of such obligations or other interests;
@@ -79,7 +79,7 @@ generated_at: "2026-03-30T00:14:33.595Z"
     - **(A)** the amount transferred from the appropriation made under section 9061 of this title to the financing accounts; and
     - **(B)** the amount necessary to repay any amount lent from the Treasury to such financing accounts.
   - **(2)** After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under section 401(a) of title 42 .
-- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
+- **(f)** Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 1 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
   - **(1)** using direct hiring authority to hire employees to administer this part;
   - **(2)** entering into contracts, including contracts for services authorized by this part;
   - **(3)** establishing vehicles that are authorized, subject to supervision by the Secretary, to purchase, hold, and sell assets and issue obligations; and

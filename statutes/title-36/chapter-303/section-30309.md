@@ -3,9 +3,9 @@ title: "Section 30309 - Records and inspection"
 usc_title: 36
 usc_section: "30309"
 chapter: 303
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "36 U.S.C. § 30309"
-generated_at: "2026-03-30T00:16:00.270Z"
+generated_at: "2026-03-30T00:19:56.599Z"
 ---
 
 # § 30309. Records and inspection

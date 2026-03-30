@@ -3,9 +3,9 @@ title: "Section 1475 - Loan payment moratorium and foreclosure procedures"
 usc_title: 42
 usc_section: "1475"
 chapter: 8
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1475"
-generated_at: "2026-03-30T00:16:29.318Z"
+generated_at: "2026-03-30T00:20:22.720Z"
 ---
 
 # § 1475. Loan payment moratorium and foreclosure procedures

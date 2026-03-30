@@ -3,9 +3,9 @@ title: "Section 12493 - Department of Housing and Urban Development Gender-based
 usc_title: 34
 usc_section: "12493"
 chapter: 121
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 12493"
-generated_at: "2026-03-30T00:15:51.208Z"
+generated_at: "2026-03-30T00:19:48.359Z"
 ---
 
 # § 12493. Department of Housing and Urban Development Gender-based Violence Prevention Office and Violence Against Women Act Director

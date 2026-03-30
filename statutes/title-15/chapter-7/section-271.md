@@ -3,9 +3,9 @@ title: "Section 271 - Findings and purposes"
 usc_title: 15
 usc_section: "271"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 271"
-generated_at: "2026-03-30T00:14:33.398Z"
+generated_at: "2026-03-30T00:18:28.043Z"
 ---
 
 # § 271. Findings and purposes

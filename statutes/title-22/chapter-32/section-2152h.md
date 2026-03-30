@@ -3,9 +3,9 @@ title: "Section 2152h - Assistance to provide safe water, sanitation, and hygien
 usc_title: 22
 usc_section: "2152h"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2152h"
-generated_at: "2026-03-30T00:15:12.521Z"
+generated_at: "2026-03-30T00:19:26.869Z"
 ---
 
 # § 2152h. Assistance to provide safe water, sanitation, and hygiene

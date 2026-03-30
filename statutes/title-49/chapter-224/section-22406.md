@@ -3,9 +3,9 @@ title: "Section 22406 - Authorization of appropriations. 1 1 So in original. The
 usc_title: 49
 usc_section: "22406"
 chapter: 224
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 22406"
-generated_at: "2026-03-30T00:16:45.877Z"
+generated_at: "2026-03-30T00:20:32.873Z"
 ---
 
 # § 22406. Authorization of appropriations. 1 1 So in original. The period probably should not appear.

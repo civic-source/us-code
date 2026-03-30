@@ -3,9 +3,9 @@ title: "Section 3964 - Assignments to salary class"
 usc_title: 22
 usc_section: "3964"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 3964"
-generated_at: "2026-03-30T00:15:12.577Z"
+generated_at: "2026-03-30T00:19:26.922Z"
 ---
 
 # § 3964. Assignments to salary class

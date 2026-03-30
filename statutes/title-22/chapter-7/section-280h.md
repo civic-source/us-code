@@ -3,9 +3,9 @@ title: "Section 280h - Representation in Caribbean Commission; appointment of co
 usc_title: 22
 usc_section: "280h"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 280h"
-generated_at: "2026-03-30T00:15:12.487Z"
+generated_at: "2026-03-30T00:19:26.834Z"
 ---
 
 # § 280h. Representation in Caribbean Commission; appointment of commissioners and alternates

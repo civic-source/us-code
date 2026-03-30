@@ -3,9 +3,9 @@ title: "Section 112 - State"
 usc_title: 46
 usc_section: "112"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 112"
-generated_at: "2026-03-30T00:16:36.505Z"
+generated_at: "2026-03-30T00:20:37.483Z"
 ---
 
 # § 112. State

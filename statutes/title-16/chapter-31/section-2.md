@@ -1,14 +1,14 @@
 ---
-title: "Section 2 - Marine Mammal Health Monitoring and Analysis Platform"
+title: "Section 2 - Marine Mammal Health Monitoring and Analysis Platform (Health MAP)"
 usc_title: 16
 usc_section: "2"
 chapter: 31
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T00:14:59.537Z"
+generated_at: "2026-03-30T00:18:47.508Z"
 ---
 
-# § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform
+# § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)
 
 - **(a)** Not later than 1 year after December 23, 2022 , the Secretary, acting through the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Secretary of the Interior and the Marine Mammal Commission, shall—
   - **(1)** establish a marine mammal health monitoring and analysis platform (referred to in this chapter as the “Health MAP”);

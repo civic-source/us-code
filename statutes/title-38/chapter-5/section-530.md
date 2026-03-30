@@ -3,9 +3,9 @@ title: "Section 530 - Annual report on program and expenditures for domestic res
 usc_title: 38
 usc_section: "530"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 530"
-generated_at: "2026-03-30T00:16:03.226Z"
+generated_at: "2026-03-30T00:20:03.414Z"
 ---
 
 # § 530. Annual report on program and expenditures for domestic response to weapons of mass destruction

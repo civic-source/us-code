@@ -3,9 +3,9 @@ title: "Section 1862h - Congressional statement of findings and declaration of p
 usc_title: 42
 usc_section: "1862h"
 chapter: 16
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1862h"
-generated_at: "2026-03-30T00:16:29.349Z"
+generated_at: "2026-03-30T00:20:22.751Z"
 ---
 
 # § 1862h. Congressional statement of findings and declaration of purposes respecting scientific and technical education and training

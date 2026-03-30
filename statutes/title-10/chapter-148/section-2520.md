@@ -3,9 +3,9 @@ title: "Section 2520 - Repealed. Pub. L. 104–106, div. A, title X, § 1081(f) 
 usc_title: 10
 usc_section: "2520"
 chapter: 148
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 2520"
-generated_at: "2026-03-30T00:14:10.316Z"
+generated_at: "2026-03-30T00:18:12.278Z"
 ---
 
 # [§ 2520. Repealed. Pub. L. 104–106, div. A, title X, § 1081(f) , Feb. 10, 1996 , 110 Stat. 454 ]

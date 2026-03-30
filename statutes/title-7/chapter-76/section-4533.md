@@ -3,9 +3,9 @@ title: "Section 4533 - Issuance of order"
 usc_title: 7
 usc_section: "4533"
 chapter: 76
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 4533"
-generated_at: "2026-03-30T00:14:23.617Z"
+generated_at: "2026-03-30T00:18:20.019Z"
 ---
 
 # § 4533. Issuance of order

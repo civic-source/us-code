@@ -3,9 +3,9 @@ title: "Section 5104 - Decisions and notices of decisions"
 usc_title: 38
 usc_section: "5104"
 chapter: 51
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 5104"
-generated_at: "2026-03-30T00:16:03.286Z"
+generated_at: "2026-03-30T00:20:03.464Z"
 ---
 
 # § 5104. Decisions and notices of decisions

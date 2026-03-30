@@ -3,9 +3,9 @@ title: "Section 308b - Special pay: reenlistment bonus for members of the Select
 usc_title: 37
 usc_section: "308b"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "37 U.S.C. § 308b"
-generated_at: "2026-03-30T00:16:00.999Z"
+generated_at: "2026-03-30T00:19:55.805Z"
 ---
 
 # § 308b. Special pay: reenlistment bonus for members of the Selected Reserve

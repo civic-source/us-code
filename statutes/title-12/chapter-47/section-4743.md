@@ -3,9 +3,9 @@ title: "Section 4743 - Approving States for participation"
 usc_title: 12
 usc_section: "4743"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 4743"
-generated_at: "2026-03-30T00:14:48.429Z"
+generated_at: "2026-03-30T00:18:37.713Z"
 ---
 
 # § 4743. Approving States for participation

@@ -3,9 +3,9 @@ title: "Section 18042 - Federal program to assist establishment and operation of
 usc_title: 42
 usc_section: "18042"
 chapter: 157
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 18042"
-generated_at: "2026-03-30T00:16:29.771Z"
+generated_at: "2026-03-30T00:20:23.166Z"
 ---
 
 # § 18042. Federal program to assist establishment and operation of nonprofit, member-run health insurance issuers

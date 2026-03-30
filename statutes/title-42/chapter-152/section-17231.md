@@ -3,9 +3,9 @@ title: "Section 17231 - Energy storage competitiveness"
 usc_title: 42
 usc_section: "17231"
 chapter: 152
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 17231"
-generated_at: "2026-03-30T00:16:29.758Z"
+generated_at: "2026-03-30T00:20:23.152Z"
 ---
 
 # § 17231. Energy storage competitiveness

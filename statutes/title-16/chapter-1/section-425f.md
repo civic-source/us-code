@@ -3,9 +3,9 @@ title: "Section 425f - Ascertaining and marking lines of battle"
 usc_title: 16
 usc_section: "425f"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 425f"
-generated_at: "2026-03-30T00:14:59.399Z"
+generated_at: "2026-03-30T00:18:47.365Z"
 ---
 
 # § 425f. Ascertaining and marking lines of battle

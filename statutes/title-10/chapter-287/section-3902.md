@@ -3,9 +3,9 @@ title: "Section 3902 - Credit for Indian contracting in meeting certain subcontr
 usc_title: 10
 usc_section: "3902"
 chapter: 287
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 3902"
-generated_at: "2026-03-30T00:14:10.346Z"
+generated_at: "2026-03-30T00:18:12.314Z"
 ---
 
 # § 3902. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses

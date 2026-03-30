@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T00:16:29.072Z"
+generated_at: "2026-03-30T00:20:22.476Z"
 ---
 
 # § 405. Evidence, procedure, and certification for payments
@@ -345,7 +345,7 @@ generated_at: "2026-03-30T00:16:29.072Z"
     - **(B)** inform the individual of the source of the incorrect death data.
   - **(8)** The Commissioner of Social Security shall include information on the status of the program established under this section and impediments to the effective implementation of the program in the 1984 report required under section 904 of this title .
   - **(9)**
-    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002—
+    - **(A)** The Commissioner of Social Security shall, upon the request of the official responsible for a State driver’s license agency pursuant to the Help America Vote Act of 2002 [ 52 U.S.C. 20901 et seq.]—
       - **(i)** enter into an agreement with such official for the purpose of verifying applicable information, so long as the requirements of subparagraphs (A) and (B) of paragraph (3) are met; and
       - **(ii)** include in such agreement safeguards to assure the maintenance of the confidentiality of any applicable information disclosed and procedures to permit such agency to use the applicable information for the purpose of maintaining its records.
     - **(B)** Information provided pursuant to an agreement under this paragraph shall be provided at such time, in such place, and in such manner as the Commissioner determines appropriate.

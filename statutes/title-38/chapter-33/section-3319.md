@@ -3,9 +3,9 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T00:16:03.267Z"
+generated_at: "2026-03-30T00:20:03.448Z"
 ---
 
 # § 3319. Authority to transfer unused education benefits to family members

@@ -3,9 +3,9 @@ title: "Section 2282c - Worker health and safety rules for Department of Energy 
 usc_title: 42
 usc_section: "2282c"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 2282c"
-generated_at: "2026-03-30T00:16:29.388Z"
+generated_at: "2026-03-30T00:20:22.790Z"
 ---
 
 # § 2282c. Worker health and safety rules for Department of Energy nuclear facilities

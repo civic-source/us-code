@@ -3,9 +3,9 @@ title: "Section 1412 - Expedited review of certain appeals"
 usc_title: 2
 usc_section: "1412"
 chapter: 24
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 1412"
-generated_at: "2026-03-30T00:13:58.976Z"
+generated_at: "2026-03-30T00:17:40.320Z"
 ---
 
 # § 1412. Expedited review of certain appeals

@@ -3,9 +3,9 @@ title: "Section 1821 - Basic authority for trade agreements"
 usc_title: 19
 usc_section: "1821"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 1821"
-generated_at: "2026-03-30T00:14:53.277Z"
+generated_at: "2026-03-30T00:19:01.217Z"
 ---
 
 # § 1821. Basic authority for trade agreements

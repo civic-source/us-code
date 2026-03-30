@@ -3,9 +3,9 @@ title: "Section 12 - Repealed. Pub. L. 93–380, title I, § 101(a)(4)(B) , Aug.
 usc_title: 20
 usc_section: "12"
 chapter: 13
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 12"
-generated_at: "2026-03-30T00:15:01.584Z"
+generated_at: "2026-03-30T00:18:57.937Z"
 ---
 
 # § 241d–12. Repealed. Pub. L. 93–380, title I, § 101(a)(4)(B) , Aug. 21, 1974 , 88 Stat. 496

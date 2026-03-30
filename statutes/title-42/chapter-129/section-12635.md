@@ -3,9 +3,9 @@ title: "Section 12635 - Nondiscrimination"
 usc_title: 42
 usc_section: "12635"
 chapter: 129
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 12635"
-generated_at: "2026-03-30T00:16:29.676Z"
+generated_at: "2026-03-30T00:20:23.070Z"
 ---
 
 # § 12635. Nondiscrimination

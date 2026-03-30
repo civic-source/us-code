@@ -3,9 +3,9 @@ title: "Section 4141 - Award of grants and contracts to colleges and universitie
 usc_title: 10
 usc_section: "4141"
 chapter: 305
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4141"
-generated_at: "2026-03-30T00:14:10.349Z"
+generated_at: "2026-03-30T00:18:12.317Z"
 ---
 
 # § 4141. Award of grants and contracts to colleges and universities: requirement of competition

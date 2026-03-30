@@ -3,9 +3,9 @@ title: "Section 9622 - Rations: commissioned officers in field"
 usc_title: 10
 usc_section: "9622"
 chapter: 969
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 9622"
-generated_at: "2026-03-30T00:14:10.388Z"
+generated_at: "2026-03-30T00:18:12.358Z"
 ---
 
 # § 9622. Rations: commissioned officers in field

@@ -3,9 +3,9 @@ title: "Section 12772 - Reserve commissioned officers who have served as Attendi
 usc_title: 10
 usc_section: "12772"
 chapter: 1225
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 12772"
-generated_at: "2026-03-30T00:14:10.398Z"
+generated_at: "2026-03-30T00:18:12.368Z"
 ---
 
 # § 12772. Reserve commissioned officers who have served as Attending Physician to the Congress: grade on transfer to Retired Reserve

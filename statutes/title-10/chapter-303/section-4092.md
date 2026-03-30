@@ -3,9 +3,9 @@ title: "Section 4092 - Personnel management authority to attract experts in scie
 usc_title: 10
 usc_section: "4092"
 chapter: 303
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4092"
-generated_at: "2026-03-30T00:14:10.348Z"
+generated_at: "2026-03-30T00:18:12.316Z"
 ---
 
 # § 4092. Personnel management authority to attract experts in science and engineering
@@ -43,5 +43,5 @@ generated_at: "2026-03-30T00:14:10.348Z"
   - **(4)** during any fiscal year, pay up to 15 individuals newly appointed pursuant to paragraph (1)(B) the travel, transportation, and relocation expenses and services described under sections 5724, 5724a, and 5724c of title 5.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), the service of an employee under an appointment under subsection (b)(1) may not exceed four years.
-  - **(2)** The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the the 1 1 So in original. The second “the” probably should not appear. activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ), the Space Development Agency, or the National Geospatial-Intelligence Agency, as applicable.
+  - **(2)** The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the the 1 1 So in original. activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 ( Public Law 115–232 ), the Space Development Agency, or the National Geospatial-Intelligence Agency, as applicable.
 - **(d)** Notwithstanding any other provision of this section or section 5307 of title 5 , no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee’s total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3 .

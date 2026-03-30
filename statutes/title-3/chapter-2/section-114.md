@@ -3,9 +3,9 @@ title: "Section 114 - General pay limitation"
 usc_title: 3
 usc_section: "114"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "3 U.S.C. § 114"
-generated_at: "2026-03-30T00:13:49.673Z"
+generated_at: "2026-03-30T00:17:26.119Z"
 ---
 
 # § 114. General pay limitation

@@ -3,9 +3,9 @@ title: "Section 115 - Subsidies for part D eligible individuals for qualified pr
 usc_title: 42
 usc_section: "115"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 115"
-generated_at: "2026-03-30T00:16:29.209Z"
+generated_at: "2026-03-30T00:20:22.610Z"
 ---
 
 # § 1395w–115. Subsidies for part D eligible individuals for qualified prescription drug coverage

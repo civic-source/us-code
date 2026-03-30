@@ -3,9 +3,9 @@ title: "Section 6935 - Restrictions on recycled oil"
 usc_title: 42
 usc_section: "6935"
 chapter: 82
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 6935"
-generated_at: "2026-03-30T00:16:29.513Z"
+generated_at: "2026-03-30T00:20:22.911Z"
 ---
 
 # § 6935. Restrictions on recycled oil

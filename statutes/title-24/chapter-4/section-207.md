@@ -3,9 +3,9 @@ title: "Section 207 - Omitted"
 usc_title: 24
 usc_section: "207"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "24 U.S.C. § 207"
-generated_at: "2026-03-30T00:15:04.145Z"
+generated_at: "2026-03-30T00:19:03.489Z"
 ---
 
 # § 207. Omitted

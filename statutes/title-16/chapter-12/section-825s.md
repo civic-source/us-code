@@ -3,9 +3,9 @@ title: "Section 825s - Sale of electric power from reservoir projects; rate sche
 usc_title: 16
 usc_section: "825s"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 825s"
-generated_at: "2026-03-30T00:14:59.501Z"
+generated_at: "2026-03-30T00:18:47.471Z"
 ---
 
 # § 825s. Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of moneys

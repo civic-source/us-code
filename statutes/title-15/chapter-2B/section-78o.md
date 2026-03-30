@@ -3,9 +3,9 @@ title: "Section 78o - Registration and regulation of brokers and dealers"
 usc_title: 15
 usc_section: "78o"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 78o"
-generated_at: "2026-03-30T00:14:33.366Z"
+generated_at: "2026-03-30T00:18:28.012Z"
 ---
 
 # § 78o. Registration and regulation of brokers and dealers
@@ -178,7 +178,7 @@ generated_at: "2026-03-30T00:14:33.366Z"
     - **(A)** Except as provided in subparagraph (B), no State or political subdivision thereof may enforce any law, rule, regulation, or other administrative action against a registered funding portal with respect to its business as such.
     - **(B)** Subparagraph (A) does not apply with respect to the examination and enforcement of any law, rule, regulation, or administrative action of a State or political subdivision thereof in which the principal place of business of a registered funding portal is located, provided that such law, rule, regulation, or administrative action is not in addition to or different from the requirements for registered funding portals established by the Commission.
     - **(C)** For purposes of this paragraph, the term “State” includes the District of Columbia and the territories of the United States.
-  - **(3)** No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) for a customer in such State if—
+  - **(3)** No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) 3 for a customer in such State if—
     - **(A)** such associated person is not ineligible to register with such State for any reason other than such a transaction;
     - **(B)** such associated person is registered with a registered securities association and at least one State; and
     - **(C)** the broker or dealer with which such person is associated is registered with such State.

@@ -3,9 +3,9 @@ title: "Section 962 - Right of way in Colorado and Wyoming to pipeline companies
 usc_title: 43
 usc_section: "962"
 chapter: 22
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "43 U.S.C. § 962"
-generated_at: "2026-03-30T00:16:09.780Z"
+generated_at: "2026-03-30T00:20:08.070Z"
 ---
 
 # § 962. Right of way in Colorado and Wyoming to pipeline companies

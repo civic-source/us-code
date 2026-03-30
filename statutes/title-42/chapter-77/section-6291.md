@@ -3,9 +3,9 @@ title: "Section 6291 - Definitions"
 usc_title: 42
 usc_section: "6291"
 chapter: 77
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 6291"
-generated_at: "2026-03-30T00:16:29.482Z"
+generated_at: "2026-03-30T00:20:22.883Z"
 ---
 
 # § 6291. Definitions

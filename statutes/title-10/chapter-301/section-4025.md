@@ -3,14 +3,14 @@ title: "Section 4025 - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "4025"
 chapter: 301
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4025"
-generated_at: "2026-03-30T00:14:10.347Z"
+generated_at: "2026-03-30T00:18:12.315Z"
 ---
 
 # § 4025. Prizes for advanced technology achievements
 
-- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes, including procurement contracts and other agreements, that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that—”
+- **(a)** The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the service acquisition executive for each military department, may carry out programs to award cash prizes and other types of prizes, including procurement contracts and other agreements, that the Secretary determines are appropriate to recognize outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that—
   - **(1)** have the potential for application to the performance of the military missions of the Department of Defense; or
   - **(2)** demonstrate management practices that improve the schedule or performance, reduce the costs, or otherwise support the transition of technology into acquisition programs or operational use.
 - **(b)** Each program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes and for the selection of recipients of procurement contracts and other agreements. The process shall include the widely-advertised solicitation of submissions.

@@ -3,9 +3,9 @@ title: "Section 667 - Repealed. Pub. L. 113–291, div. A, title V, § 505(a)(1)
 usc_title: 10
 usc_section: "667"
 chapter: 38
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 667"
-generated_at: "2026-03-30T00:14:10.246Z"
+generated_at: "2026-03-30T00:18:12.196Z"
 ---
 
 # [§ 667. Repealed. Pub. L. 113–291, div. A, title V, § 505(a)(1) , Dec. 19, 2014 , 128 Stat. 3356 ]

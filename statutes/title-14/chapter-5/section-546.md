@@ -3,9 +3,9 @@ title: "Section 546 - Deposit of damage payments"
 usc_title: 14
 usc_section: "546"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 546"
-generated_at: "2026-03-30T00:14:28.570Z"
+generated_at: "2026-03-30T00:18:33.423Z"
 ---
 
 # § 546. Deposit of damage payments

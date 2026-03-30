@@ -3,9 +3,9 @@ title: "Section 271 - Establishment of Bureau of Citizenship and Immigration Ser
 usc_title: 6
 usc_section: "271"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "6 U.S.C. § 271"
-generated_at: "2026-03-30T00:14:01.477Z"
+generated_at: "2026-03-30T00:18:00.084Z"
 ---
 
 # § 271. Establishment of Bureau of Citizenship and Immigration Services

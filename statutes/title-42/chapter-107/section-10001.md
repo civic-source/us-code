@@ -3,9 +3,9 @@ title: "Section 10001 - Statement of findings"
 usc_title: 42
 usc_section: "10001"
 chapter: 107
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 10001"
-generated_at: "2026-03-30T00:16:29.633Z"
+generated_at: "2026-03-30T00:20:23.024Z"
 ---
 
 # § 10001. Statement of findings

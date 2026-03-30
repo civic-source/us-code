@@ -3,9 +3,9 @@ title: "Section 78qq - Small Business Capital Formation Advisory Committee"
 usc_title: 15
 usc_section: "78qq"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 78qq"
-generated_at: "2026-03-30T00:14:33.380Z"
+generated_at: "2026-03-30T00:18:28.026Z"
 ---
 
 # § 78qq. Small Business Capital Formation Advisory Committee
@@ -59,4 +59,4 @@ generated_at: "2026-03-30T00:14:33.380Z"
   - **(2)** each time the Committee submits a finding or recommendation to the Commission, promptly issue a public statement—
     - **(A)** assessing the finding or recommendation of the Committee; and
     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
-- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+- **(h)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply with respect to the Committee and its activities.

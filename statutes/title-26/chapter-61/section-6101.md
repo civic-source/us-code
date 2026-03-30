@@ -3,9 +3,9 @@ title: "Section 6101 - Period covered by returns or other documents"
 usc_title: 26
 usc_section: "6101"
 chapter: 61
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 6101"
-generated_at: "2026-03-30T00:15:47.892Z"
+generated_at: "2026-03-30T00:19:39.245Z"
 ---
 
 # § 6101. Period covered by returns or other documents

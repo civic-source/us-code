@@ -3,9 +3,9 @@ title: "Section 9461 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "9461"
 chapter: 953
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 9461"
-generated_at: "2026-03-30T00:14:10.385Z"
+generated_at: "2026-03-30T00:18:12.356Z"
 ---
 
 # § 9461. Policy on sexual harassment and sexual violence

@@ -3,9 +3,9 @@ title: "Section 2219a - Right of first refusal"
 usc_title: 12
 usc_section: "2219a"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 2219a"
-generated_at: "2026-03-30T00:14:48.386Z"
+generated_at: "2026-03-30T00:18:37.670Z"
 ---
 
 # § 2219a. Right of first refusal

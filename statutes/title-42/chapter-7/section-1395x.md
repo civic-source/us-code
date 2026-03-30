@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T00:16:29.213Z"
+generated_at: "2026-03-30T00:20:22.614Z"
 ---
 
 # § 1395x. Definitions
@@ -851,7 +851,7 @@ For purposes of this subchapter—
   - **(2)** The term “rural emergency hospital” means a facility described in paragraph (3) that—
     - **(A)** is enrolled under section 1395cc(j) of this title , submits the additional information described in paragraph (4)(A) for purposes of such enrollment, and makes the detailed transition plan described in clause (i) of such paragraph available to the public, in a form and manner determined appropriate by the Secretary;
     - **(B)** does not provide any acute care inpatient services, other than those described in paragraph (6)(A);
-    - **(C)** has in effect a transfer agreement with a level I or level II trauma center;
+    - **(C)** has in effect a transfer agreement with a level I or level II trauma center; 2
     - **(D)** meets—
       - **(i)** licensure requirements as described in paragraph (5);
       - **(ii)** the requirements of a staffed emergency department as described in paragraph (1)(B);

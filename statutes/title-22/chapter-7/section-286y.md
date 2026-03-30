@@ -3,9 +3,9 @@ title: "Section 286y - Promoting conditions for exchange rate stability"
 usc_title: 22
 usc_section: "286y"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 286y"
-generated_at: "2026-03-30T00:15:12.492Z"
+generated_at: "2026-03-30T00:19:26.841Z"
 ---
 
 # § 286y. Promoting conditions for exchange rate stability

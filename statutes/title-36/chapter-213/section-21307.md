@@ -3,9 +3,9 @@ title: "Section 21307 - Annual report"
 usc_title: 36
 usc_section: "21307"
 chapter: 213
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "36 U.S.C. § 21307"
-generated_at: "2026-03-30T00:16:00.268Z"
+generated_at: "2026-03-30T00:19:56.597Z"
 ---
 
 # § 21307. Annual report

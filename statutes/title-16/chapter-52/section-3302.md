@@ -3,9 +3,9 @@ title: "Section 3302 - Definitions"
 usc_title: 16
 usc_section: "3302"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 3302"
-generated_at: "2026-03-30T00:14:59.576Z"
+generated_at: "2026-03-30T00:18:47.550Z"
 ---
 
 # § 3302. Definitions

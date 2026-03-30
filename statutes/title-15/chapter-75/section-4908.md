@@ -3,9 +3,9 @@ title: "Section 4908 - Information on service sector"
 usc_title: 15
 usc_section: "4908"
 chapter: 75
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 4908"
-generated_at: "2026-03-30T00:14:33.550Z"
+generated_at: "2026-03-30T00:18:28.180Z"
 ---
 
 # § 4908. Information on service sector

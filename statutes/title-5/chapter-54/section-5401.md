@@ -3,9 +3,9 @@ title: "Section 5401 - Purpose"
 usc_title: 5
 usc_section: "5401"
 chapter: 54
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 5401"
-generated_at: "2026-03-30T00:13:52.464Z"
+generated_at: "2026-03-30T00:17:57.267Z"
 ---
 
 # § 5401. Purpose

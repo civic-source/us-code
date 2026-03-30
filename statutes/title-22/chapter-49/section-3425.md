@@ -3,9 +3,9 @@ title: "Section 3425 - Reports to Congress"
 usc_title: 22
 usc_section: "3425"
 chapter: 49
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 3425"
-generated_at: "2026-03-30T00:15:12.569Z"
+generated_at: "2026-03-30T00:19:26.916Z"
 ---
 
 # § 3425. Reports to Congress

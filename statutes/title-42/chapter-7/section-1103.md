@@ -3,9 +3,9 @@ title: "Section 1103 - Amounts transferred to State accounts"
 usc_title: 42
 usc_section: "1103"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1103"
-generated_at: "2026-03-30T00:16:29.119Z"
+generated_at: "2026-03-30T00:20:22.522Z"
 ---
 
 # § 1103. Amounts transferred to State accounts
@@ -143,7 +143,7 @@ generated_at: "2026-03-30T00:16:29.119Z"
     - **(B)** The State has demonstrated steps it has taken or will take to ease eligibility requirements and access to unemployment compensation for claimants, including waiving work search requirements and the waiting week, and non-charging employers directly impacted by COVID–19 due to an illness in the workplace or direction from a public health official to isolate or quarantine workers.
   - **(4)** Any amount transferred to the account of a State under this subsection may be used by such State only for the administration of its unemployment compensation law, including by taking such steps as may be necessary to ensure adequate resources in periods of high demand.
   - **(5)** Not later than 1 year after March 18, 2020 , each State receiving emergency administration grant funding under paragraph (1)(C)(i) shall submit to the Secretary of Labor, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate, a report that includes—
-    - **(A)** an analysis of the recipiency rate for unemployment compensation in the State as such rate has changed over time;
+    - **(A)** an analysis of the recipiency rate for unemployment compensation in the State as such rate has changed over time; 2 2 So in original. Probably should be followed by “and”.
     - **(B)** a description of steps the State intends to take to increase such recipiency rate.
   - **(6)**
     - **(A)** Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account (as established by section 1101 of this title ) such sums as the Secretary of Labor estimates to be necessary for purposes of making the transfers described in paragraph (1)(C).

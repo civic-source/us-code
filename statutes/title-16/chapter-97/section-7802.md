@@ -3,9 +3,9 @@ title: "Section 7802 - Appointment or designation of United States Commissioners
 usc_title: 16
 usc_section: "7802"
 chapter: 97
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 7802"
-generated_at: "2026-03-30T00:14:59.621Z"
+generated_at: "2026-03-30T00:18:47.600Z"
 ---
 
 # § 7802. Appointment or designation of United States Commissioners
@@ -39,7 +39,7 @@ generated_at: "2026-03-30T00:14:59.621Z"
       - **(i)** The Advisory Committee shall determine its organization and prescribe its practices and procedures for carrying out its functions under this chapter, the South Pacific Fisheries Convention, and the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.).
       - **(ii)** The Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures.
       - **(iii)** A majority of the members of the Advisory Committee shall constitute a quorum to conduct business.
-      - **(iv)** Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+      - **(iv)** Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.
       - **(v)** In order to reduce the cost of Advisory Committee meetings, the Advisory Committee shall, to the extent practicable, utilize teleconferences and webinars for that purpose.
     - **(D)** The Secretary and the Secretary of State shall furnish the Advisory Committee with relevant information concerning fishery resources and international fishery agreements.
   - **(2)**

@@ -3,9 +3,9 @@ title: "Section 20309 - Effect on certain other laws"
 usc_title: 52
 usc_section: "20309"
 chapter: 203
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "52 U.S.C. § 20309"
-generated_at: "2026-03-30T00:16:48.175Z"
+generated_at: "2026-03-30T00:20:39.417Z"
 ---
 
 # § 20309. Effect on certain other laws

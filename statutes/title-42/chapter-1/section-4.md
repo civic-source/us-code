@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 St
 usc_title: 42
 usc_section: "4"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T00:16:28.890Z"
+generated_at: "2026-03-30T00:20:22.285Z"
 ---
 
 # §§ 3, 4. Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 Stat. 714

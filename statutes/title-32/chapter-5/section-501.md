@@ -3,9 +3,9 @@ title: "Section 501 - Training generally"
 usc_title: 32
 usc_section: "501"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "32 U.S.C. § 501"
-generated_at: "2026-03-30T00:15:49.656Z"
+generated_at: "2026-03-30T00:19:47.137Z"
 ---
 
 # § 501. Training generally

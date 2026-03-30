@@ -3,9 +3,9 @@ title: "Section 8336 - Immediate retirement"
 usc_title: 5
 usc_section: "8336"
 chapter: 83
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 8336"
-generated_at: "2026-03-30T00:13:52.489Z"
+generated_at: "2026-03-30T00:17:57.292Z"
 ---
 
 # § 8336. Immediate retirement

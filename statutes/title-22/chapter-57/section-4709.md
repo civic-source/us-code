@@ -3,9 +3,9 @@ title: "Section 4709 - General authorities"
 usc_title: 22
 usc_section: "4709"
 chapter: 57
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4709"
-generated_at: "2026-03-30T00:15:12.593Z"
+generated_at: "2026-03-30T00:19:26.936Z"
 ---
 
 # § 4709. General authorities

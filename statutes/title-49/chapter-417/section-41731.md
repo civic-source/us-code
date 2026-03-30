@@ -3,9 +3,9 @@ title: "Section 41731 - Definitions"
 usc_title: 49
 usc_section: "41731"
 chapter: 417
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 41731"
-generated_at: "2026-03-30T00:16:45.913Z"
+generated_at: "2026-03-30T00:20:32.906Z"
 ---
 
 # § 41731. Definitions

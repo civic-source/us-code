@@ -3,9 +3,9 @@ title: "Section 5906 - Federal assistance and participation in programs"
 usc_title: 42
 usc_section: "5906"
 chapter: 74
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 5906"
-generated_at: "2026-03-30T00:16:29.477Z"
+generated_at: "2026-03-30T00:20:22.877Z"
 ---
 
 # § 5906. Federal assistance and participation in programs

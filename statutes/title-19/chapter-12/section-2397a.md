@@ -1,14 +1,12 @@
 ---
-title: "Section 2397a - Sense of Congress"
+title: "Section 2397a - Omitted"
 usc_title: 19
 usc_section: "2397a"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 2397a"
-generated_at: "2026-03-30T00:14:53.287Z"
+generated_at: "2026-03-30T00:19:01.227Z"
 ---
 
-# § 2397a. Sense of Congress
-
-It is the sense of Congress that the Secretaries of Labor, Commerce, and Agriculture should apply the provisions of part 2 (relating to adjustment assistance for workers), part 3 (relating to adjustment assistance for firms), part 4 (relating to adjustment assistance for communities), and part 6 (relating to adjustment assistance for farmers), respectively, with the utmost regard for the interests of workers, firms, communities, and farmers petitioning for benefits under such parts.
+# § 2397a. Omitted
 

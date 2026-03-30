@@ -3,9 +3,9 @@ title: "Section 3701 - Labor-management relations"
 usc_title: 22
 usc_section: "3701"
 chapter: 51
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 3701"
-generated_at: "2026-03-30T00:15:12.572Z"
+generated_at: "2026-03-30T00:19:26.918Z"
 ---
 
 # § 3701. Labor-management relations

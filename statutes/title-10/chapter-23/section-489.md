@@ -3,9 +3,9 @@ title: "Section 489 - Repealed. Pub. L. 113–291, div. A, title III, § 331(a) 
 usc_title: 10
 usc_section: "489"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 489"
-generated_at: "2026-03-30T00:14:10.237Z"
+generated_at: "2026-03-30T00:18:12.186Z"
 ---
 
 # [§ 489. Repealed. Pub. L. 113–291, div. A, title III, § 331(a) , Dec. 19, 2014 , 128 Stat. 3344 ]

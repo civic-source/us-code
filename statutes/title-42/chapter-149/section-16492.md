@@ -3,9 +3,9 @@ title: "Section 16492 - Regulation of certain oil used in transformers"
 usc_title: 42
 usc_section: "16492"
 chapter: 149
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 16492"
-generated_at: "2026-03-30T00:16:29.742Z"
+generated_at: "2026-03-30T00:20:23.138Z"
 ---
 
 # § 16492. Regulation of certain oil used in transformers

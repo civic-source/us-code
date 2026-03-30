@@ -3,9 +3,9 @@ title: "Section 3304 - State plan"
 usc_title: 29
 usc_section: "3304"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "29 U.S.C. § 3304"
-generated_at: "2026-03-30T00:15:31.165Z"
+generated_at: "2026-03-30T00:19:31.386Z"
 ---
 
 # § 3304. State plan

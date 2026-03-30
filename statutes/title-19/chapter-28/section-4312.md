@@ -3,9 +3,9 @@ title: "Section 4312 - Priorities and performance standards for customs moderniz
 usc_title: 19
 usc_section: "4312"
 chapter: 28
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 4312"
-generated_at: "2026-03-30T00:14:53.317Z"
+generated_at: "2026-03-30T00:19:01.258Z"
 ---
 
 # § 4312. Priorities and performance standards for customs modernization, trade facilitation, and trade enforcement functions and programs

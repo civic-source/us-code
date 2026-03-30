@@ -3,9 +3,9 @@ title: "Section 414 - Personal money allowance"
 usc_title: 37
 usc_section: "414"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "37 U.S.C. § 414"
-generated_at: "2026-03-30T00:16:01.004Z"
+generated_at: "2026-03-30T00:19:55.809Z"
 ---
 
 # § 414. Personal money allowance

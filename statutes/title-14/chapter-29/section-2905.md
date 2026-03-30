@@ -3,9 +3,9 @@ title: "Section 2905 - Youth sponsorship initiatives"
 usc_title: 14
 usc_section: "2905"
 chapter: 29
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 2905"
-generated_at: "2026-03-30T00:14:28.579Z"
+generated_at: "2026-03-30T00:18:33.433Z"
 ---
 
 # § 2905. Youth sponsorship initiatives

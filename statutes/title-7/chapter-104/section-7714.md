@@ -3,9 +3,9 @@ title: "Section 7714 - General remedial measures for new plant pests and noxious
 usc_title: 7
 usc_section: "7714"
 chapter: 104
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 7714"
-generated_at: "2026-03-30T00:14:23.661Z"
+generated_at: "2026-03-30T00:18:20.068Z"
 ---
 
 # § 7714. General remedial measures for new plant pests and noxious weeds

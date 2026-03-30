@@ -3,9 +3,9 @@ title: "Section 8456 - Military reserve technicians"
 usc_title: 5
 usc_section: "8456"
 chapter: 84
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 8456"
-generated_at: "2026-03-30T00:13:52.500Z"
+generated_at: "2026-03-30T00:17:57.302Z"
 ---
 
 # § 8456. Military reserve technicians

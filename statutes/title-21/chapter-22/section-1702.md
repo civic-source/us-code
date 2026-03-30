@@ -3,9 +3,9 @@ title: "Section 1702 - Office of National Drug Control Policy"
 usc_title: 21
 usc_section: "1702"
 chapter: 22
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "21 U.S.C. § 1702"
-generated_at: "2026-03-30T00:15:08.782Z"
+generated_at: "2026-03-30T00:19:09.706Z"
 ---
 
 # § 1702. Office of National Drug Control Policy

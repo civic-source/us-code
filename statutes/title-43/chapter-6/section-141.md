@@ -3,9 +3,9 @@ title: "Section 141 - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21
 usc_title: 43
 usc_section: "141"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "43 U.S.C. § 141"
-generated_at: "2026-03-30T00:16:09.752Z"
+generated_at: "2026-03-30T00:20:08.033Z"
 ---
 
 # § 141. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

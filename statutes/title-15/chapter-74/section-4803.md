@@ -3,9 +3,9 @@ title: "Section 4803 - Duties of Council"
 usc_title: 15
 usc_section: "4803"
 chapter: 74
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 4803"
-generated_at: "2026-03-30T00:14:33.548Z"
+generated_at: "2026-03-30T00:18:28.180Z"
 ---
 
 # § 4803. Duties of Council

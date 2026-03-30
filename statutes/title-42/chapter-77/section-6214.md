@@ -3,9 +3,9 @@ title: "Section 6214 - Repealed. Pub. L. 106–469, title I, § 103(3) , Nov. 9,
 usc_title: 42
 usc_section: "6214"
 chapter: 77
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 6214"
-generated_at: "2026-03-30T00:16:29.479Z"
+generated_at: "2026-03-30T00:20:22.878Z"
 ---
 
 # § 6214. Repealed. Pub. L. 106–469, title I, § 103(3) , Nov. 9, 2000 , 114 Stat. 2029

@@ -3,9 +3,9 @@ title: "Section 300ii - Definitions"
 usc_title: 42
 usc_section: "300ii"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 300ii"
-generated_at: "2026-03-30T00:16:29.059Z"
+generated_at: "2026-03-30T00:20:22.462Z"
 ---
 
 # § 300ii. Definitions

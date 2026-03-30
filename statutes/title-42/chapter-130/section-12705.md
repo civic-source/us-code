@@ -3,9 +3,9 @@ title: "Section 12705 - State and local housing strategies"
 usc_title: 42
 usc_section: "12705"
 chapter: 130
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 12705"
-generated_at: "2026-03-30T00:16:29.684Z"
+generated_at: "2026-03-30T00:20:23.076Z"
 ---
 
 # § 12705. State and local housing strategies

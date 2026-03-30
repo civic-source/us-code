@@ -3,9 +3,9 @@ title: "Section 53734 - Replacement of vessels because of changes in operating s
 usc_title: 46
 usc_section: "53734"
 chapter: 537
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 53734"
-generated_at: "2026-03-30T00:16:36.548Z"
+generated_at: "2026-03-30T00:20:37.520Z"
 ---
 
 # § 53734. Replacement of vessels because of changes in operating standards

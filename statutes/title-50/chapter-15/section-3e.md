@@ -3,9 +3,9 @@ title: "Section 3e - Transferred"
 usc_title: 50
 usc_section: "3e"
 chapter: 15
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3e"
-generated_at: "2026-03-30T00:16:37.954Z"
+generated_at: "2026-03-30T00:20:29.370Z"
 ---
 
 # § 403–3e. Transferred

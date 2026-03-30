@@ -3,9 +3,9 @@ title: "Section 1469e - Insular government purchases"
 usc_title: 48
 usc_section: "1469e"
 chapter: 10
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "48 U.S.C. § 1469e"
-generated_at: "2026-03-30T00:16:35.567Z"
+generated_at: "2026-03-30T00:20:26.310Z"
 ---
 
 # § 1469e. Insular government purchases

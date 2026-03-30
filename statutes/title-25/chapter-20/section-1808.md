@@ -3,9 +3,9 @@ title: "Section 1808 - Amount of grants"
 usc_title: 25
 usc_section: "1808"
 chapter: 20
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "25 U.S.C. § 1808"
-generated_at: "2026-03-30T00:15:13.670Z"
+generated_at: "2026-03-30T00:19:08.542Z"
 ---
 
 # § 1808. Amount of grants

@@ -3,9 +3,9 @@ title: "Section 1509 - Exception to limitation on authority of Secretary of Defe
 usc_title: 6
 usc_section: "1509"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "6 U.S.C. § 1509"
-generated_at: "2026-03-30T00:14:01.517Z"
+generated_at: "2026-03-30T00:18:00.125Z"
 ---
 
 # § 1509. Exception to limitation on authority of Secretary of Defense to disseminate certain information

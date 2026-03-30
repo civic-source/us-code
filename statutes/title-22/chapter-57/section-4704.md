@@ -3,9 +3,9 @@ title: "Section 4704 - Guidelines"
 usc_title: 22
 usc_section: "4704"
 chapter: 57
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4704"
-generated_at: "2026-03-30T00:15:12.593Z"
+generated_at: "2026-03-30T00:19:26.936Z"
 ---
 
 # § 4704. Guidelines

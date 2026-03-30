@@ -3,9 +3,9 @@ title: "Section 1091 - Loss from wash sales of stock or securities"
 usc_title: 26
 usc_section: "1091"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 1091"
-generated_at: "2026-03-30T00:15:47.812Z"
+generated_at: "2026-03-30T00:19:39.167Z"
 ---
 
 # § 1091. Loss from wash sales of stock or securities

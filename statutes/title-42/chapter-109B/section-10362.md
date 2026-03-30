@@ -3,9 +3,9 @@ title: "Section 10362 - Definitions"
 usc_title: 42
 usc_section: "10362"
 chapter: 109
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 10362"
-generated_at: "2026-03-30T00:16:29.639Z"
+generated_at: "2026-03-30T00:20:23.032Z"
 ---
 
 # § 10362. Definitions

@@ -3,9 +3,9 @@ title: "Section 1359 - Disposition of qualifying vessels"
 usc_title: 26
 usc_section: "1359"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 1359"
-generated_at: "2026-03-30T00:15:47.823Z"
+generated_at: "2026-03-30T00:19:39.176Z"
 ---
 
 # § 1359. Disposition of qualifying vessels

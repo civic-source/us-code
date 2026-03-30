@@ -3,9 +3,9 @@ title: "Section 3054 - POW/MIA analytic capability"
 usc_title: 50
 usc_section: "3054"
 chapter: 44
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3054"
-generated_at: "2026-03-30T00:16:37.995Z"
+generated_at: "2026-03-30T00:20:29.406Z"
 ---
 
 # § 3054. POW/MIA analytic capability

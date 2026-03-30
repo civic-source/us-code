@@ -3,9 +3,9 @@ title: "Section 3115 - Cooperative agreement between Department of the Interior 
 usc_title: 25
 usc_section: "3115"
 chapter: 33
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "25 U.S.C. § 3115"
-generated_at: "2026-03-30T00:15:13.690Z"
+generated_at: "2026-03-30T00:19:08.562Z"
 ---
 
 # § 3115. Cooperative agreement between Department of the Interior and Indian tribes

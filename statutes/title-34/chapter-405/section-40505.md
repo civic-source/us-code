@@ -3,9 +3,9 @@ title: "Section 40505 - Reporting on National Missing and Unidentified Persons S
 usc_title: 34
 usc_section: "40505"
 chapter: 405
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 40505"
-generated_at: "2026-03-30T00:15:51.233Z"
+generated_at: "2026-03-30T00:19:48.383Z"
 ---
 
 # § 40505. Reporting on National Missing and Unidentified Persons System (NamUs) Program

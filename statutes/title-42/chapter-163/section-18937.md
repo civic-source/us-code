@@ -3,14 +3,15 @@ title: "Section 18937 - Artificial intelligence"
 usc_title: 42
 usc_section: "18937"
 chapter: 163
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 18937"
-generated_at: "2026-03-30T00:16:29.792Z"
+generated_at: "2026-03-30T00:20:23.187Z"
 ---
 
 # § 18937. Artificial intelligence
 
-- **(a)** The Director shall continue to support the development of artificial intelligence and data science, and carry out the activities of the National Artificial Intelligence Initiative Act of 2020 authorized in division E of the National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ), including through—
+The Director shall continue to support the development of artificial intelligence and data science, and carry out the activities of the National Artificial Intelligence Initiative Act of 2020 authorized in division E of the National Defense Authorization Act for Fiscal Year 2021 ( Public Law 116–283 ), including through—
+
   - **(1)** expanding the Institute’s capabilities, including scientific staff and research infrastructure;
   - **(2)** supporting measurement research and development for advanced computer chips and hardware designed for artificial intelligence systems;
   - **(3)** supporting the development of technical standards and guidelines that promote safe and trustworthy artificial intelligence systems, such as enhancing the accuracy, explainability, privacy, reliability, robustness, safety, security, and mitigation of harmful bias in artificial intelligence systems;

@@ -3,9 +3,9 @@ title: "Section 22704 - Governing body"
 usc_title: 36
 usc_section: "22704"
 chapter: 227
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "36 U.S.C. § 22704"
-generated_at: "2026-03-30T00:16:00.269Z"
+generated_at: "2026-03-30T00:19:56.598Z"
 ---
 
 # § 22704. Governing body

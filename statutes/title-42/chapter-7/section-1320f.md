@@ -3,9 +3,9 @@ title: "Section 1320f - Establishment of program"
 usc_title: 42
 usc_section: "1320f"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1320f"
-generated_at: "2026-03-30T00:16:29.142Z"
+generated_at: "2026-03-30T00:20:22.547Z"
 ---
 
 # § 1320f. Establishment of program
@@ -13,7 +13,7 @@ generated_at: "2026-03-30T00:16:29.142Z"
 - **(a)** The Secretary shall establish a Drug Price Negotiation Program (in this part referred to as the “program”). Under the program, with respect to each price applicability period, the Secretary shall—
   - **(1)** publish a list of selected drugs in accordance with section 1320f–1 of this title ;
   - **(2)** enter into agreements with manufacturers of selected drugs with respect to such period, in accordance with section 1320f–2 of this title ;
-  - **(3)** negotiate and, if applicable, renegotiate maximum fair prices for such selected drugs, in accordance with section 1320f–3 of this title ;
+  - **(3)** negotiate and, if applicable, renegotiate maximum fair prices for such selected drugs, in accordance with section 1320f–3 of this title ; 1 1 So in original. Probably should be followed by “and”.
   - **(4)** carry out the publication and administrative duties and compliance monitoring in accordance with sections 1320f–4 and 1320f–5 of this title.
 - **(b)** For purposes of this part:
   - **(1)** The term “initial price applicability year” means a year (beginning with 2026).
@@ -40,7 +40,7 @@ generated_at: "2026-03-30T00:16:29.142Z"
     - **(B)** in subparagraph (B), by substituting “ August 1, 2024 ” for “November 1 of the year that begins 2 years prior to the initial price applicability year”.
   - **(3)** Section 1320f–1 of this title shall be applied—
     - **(A)** in subsection (b)(1)(A), by substituting “during the period beginning on June 1, 2022 , and ending on May 31, 2023 ” for “during the most recent period of 12 months prior to the selected drug publication date (but ending not later than October 31 of the year prior to the year of such drug publication date), with respect to such year, for which data are available”; and
-    - **(B)** in subsection (d)(1)(A), by substituting “during the period beginning on June 1, 2022 , and ending on May 31, 2023 ” for “during the most recent period for which data are available of at least 12 months prior to the selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date), with respect to such year”. 1 1 So in original. Probably should read as follows: “during the most recent 12-month period for which data are available prior to such selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date).”
+    - **(B)** in subsection (d)(1)(A), by substituting “during the period beginning on June 1, 2022 , and ending on May 31, 2023 ” for “during the most recent period for which data are available of at least 12 months prior to the selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date), with respect to such year”. 2 2 So in original. Probably should read as follows: “during the most recent 12-month period for which data are available prior to such selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date)”.
   - **(4)** Section 1320f–2(a) of this title shall be applied by substituting “ October 1, 2023 ” for “February 28 following the selected drug publication date with respect to such selected drug”.
   - **(5)** Section 1320f–3(b)(2) of this title shall be applied—
     - **(A)** in subparagraph (A), by substituting “ October 2, 2023 ” for “March 1 of the year of the selected drug publication date, with respect to the selected drug”;

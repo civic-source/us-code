@@ -3,9 +3,9 @@ title: "Section 8703 - Settlement of claims"
 usc_title: 10
 usc_section: "8703"
 chapter: 865
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 8703"
-generated_at: "2026-03-30T00:14:10.377Z"
+generated_at: "2026-03-30T00:18:12.347Z"
 ---
 
 # § 8703. Settlement of claims

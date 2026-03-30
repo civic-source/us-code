@@ -3,9 +3,9 @@ title: "Section 51706 - Centers of excellence for domestic maritime workforce tr
 usc_title: 46
 usc_section: "51706"
 chapter: 517
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 51706"
-generated_at: "2026-03-30T00:16:36.541Z"
+generated_at: "2026-03-30T00:20:37.515Z"
 ---
 
 # § 51706. Centers of excellence for domestic maritime workforce training and education

@@ -3,9 +3,9 @@ title: "Section 2206 - Disbursement of funds of military department to cover obl
 usc_title: 10
 usc_section: "2206"
 chapter: 131
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 2206"
-generated_at: "2026-03-30T00:14:10.305Z"
+generated_at: "2026-03-30T00:18:12.266Z"
 ---
 
 # § 2206. Disbursement of funds of military department to cover obligation of another agency of Department of Defense

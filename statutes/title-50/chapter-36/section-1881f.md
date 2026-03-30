@@ -3,9 +3,9 @@ title: "Section 1881f - Congressional oversight"
 usc_title: 50
 usc_section: "1881f"
 chapter: 36
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 1881f"
-generated_at: "2026-03-30T00:16:37.967Z"
+generated_at: "2026-03-30T00:20:29.381Z"
 ---
 
 # § 1881f. Congressional oversight

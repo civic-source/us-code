@@ -3,9 +3,9 @@ title: "Section 4312 - Engine cut-off switches"
 usc_title: 46
 usc_section: "4312"
 chapter: 43
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 4312"
-generated_at: "2026-03-30T00:16:36.515Z"
+generated_at: "2026-03-30T00:20:37.491Z"
 ---
 
 # § 4312. Engine cut-off switches

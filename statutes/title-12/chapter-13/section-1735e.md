@@ -3,9 +3,9 @@ title: "Section 1735e - Acceptance of materials or products used in structures"
 usc_title: 12
 usc_section: "1735e"
 chapter: 13
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 1735e"
-generated_at: "2026-03-30T00:14:48.339Z"
+generated_at: "2026-03-30T00:18:37.621Z"
 ---
 
 # § 1735e. Acceptance of materials or products used in structures

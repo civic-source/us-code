@@ -3,9 +3,9 @@ title: "Section 2346a - Authorizations of appropriations"
 usc_title: 22
 usc_section: "2346a"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2346a"
-generated_at: "2026-03-30T00:15:12.532Z"
+generated_at: "2026-03-30T00:19:26.879Z"
 ---
 
 # § 2346a. Authorizations of appropriations

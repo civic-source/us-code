@@ -3,9 +3,9 @@ title: "Section 7624 - Breach of agreement: liability"
 usc_title: 38
 usc_section: "7624"
 chapter: 76
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 7624"
-generated_at: "2026-03-30T00:16:03.306Z"
+generated_at: "2026-03-30T00:20:03.483Z"
 ---
 
 # § 7624. Breach of agreement: liability

@@ -3,9 +3,9 @@ title: "Section 4194 - Lists and returns of seamen and vessels, etc."
 usc_title: 22
 usc_section: "4194"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4194"
-generated_at: "2026-03-30T00:15:12.587Z"
+generated_at: "2026-03-30T00:19:26.932Z"
 ---
 
 # § 4194. Lists and returns of seamen and vessels, etc.

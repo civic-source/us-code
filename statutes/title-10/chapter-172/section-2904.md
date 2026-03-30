@@ -3,9 +3,9 @@ title: "Section 2904 - Strategic Environmental Research and Development Program 
 usc_title: 10
 usc_section: "2904"
 chapter: 172
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 2904"
-generated_at: "2026-03-30T00:14:10.334Z"
+generated_at: "2026-03-30T00:18:12.299Z"
 ---
 
 # § 2904. Strategic Environmental Research and Development Program Scientific Advisory Board

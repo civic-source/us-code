@@ -3,9 +3,9 @@ title: "Section 5471 - Consultation"
 usc_title: 12
 usc_section: "5471"
 chapter: 53
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 5471"
-generated_at: "2026-03-30T00:14:48.450Z"
+generated_at: "2026-03-30T00:18:37.735Z"
 ---
 
 # § 5471. Consultation

@@ -3,9 +3,9 @@ title: "Section 1962c - Authorization of appropriations; coordination of related
 usc_title: 42
 usc_section: "1962c"
 chapter: 19
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1962c"
-generated_at: "2026-03-30T00:16:29.358Z"
+generated_at: "2026-03-30T00:20:22.759Z"
 ---
 
 # § 1962c. Authorization of appropriations; coordination of related Federal planning assistance programs; utilization of Federal agencies administering programs contributing to water resources planning

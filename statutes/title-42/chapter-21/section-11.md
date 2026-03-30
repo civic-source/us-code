@@ -3,9 +3,9 @@ title: "Section 11 - Veterans’ special rights or preference"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T00:16:29.366Z"
+generated_at: "2026-03-30T00:20:22.767Z"
 ---
 
 # § 2000e–11. Veterans’ special rights or preference

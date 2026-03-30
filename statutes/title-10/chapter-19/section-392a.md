@@ -3,9 +3,9 @@ title: "Section 392a - Principal Cyber Advisors"
 usc_title: 10
 usc_section: "392a"
 chapter: 19
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 392a"
-generated_at: "2026-03-30T00:14:10.234Z"
+generated_at: "2026-03-30T00:18:12.183Z"
 ---
 
 # § 392a. Principal Cyber Advisors
@@ -54,7 +54,7 @@ generated_at: "2026-03-30T00:14:10.234Z"
       - **(vi)** To advise senior leadership of the Department on, and advocate for, investment in capabilities to execute Department missions in and through cyberspace.
       - **(vii)** To identify shortfalls in capabilities to conduct Department missions in and through cyberspace, and make recommendations on addressing such shortfalls in the Program Budget Review process.
       - **(viii)** To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
-      - **(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) 2 2 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 2014 ( 10 U.S.C. 2224 note) in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
+      - **(ix)** On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) 2 2 So in original. Probably should be preceded by “section”. of the National Defense Authorization Act for Fiscal Year 2014 ( 10 U.S.C. 2224 note) 3 3 See References in Text note below. in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 - **(c)**
   - **(1)**
     - **(A)** Not later than 270 days after the date of the enactment of this Act, each of the secretaries of the military departments, in consultation with the service chiefs, shall appoint an independent Principal Cyber Advisor for each service to act as the principal advisor to the relevant secretary on all cyber matters affecting that military service.
@@ -79,7 +79,7 @@ generated_at: "2026-03-30T00:14:10.234Z"
     - **(D)** Department of Defense Chief Information Officer.
     - **(E)** Defense Digital Service.
   - **(4)**
-    - **(A)** Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10 , United States Code, for that fiscal year to the relevant service’s Principal Cyber Advisor for review under clause (ii) 3 3 So in original. Probably should be “subparagraph (B)”. before submitting the proposed budget to the department’s comptroller.
+    - **(A)** Each of the secretaries of the military departments shall require service components with responsibilities associated with cyberspace operations forces, offensive or defensive cyberspace operations and capabilities, and cyberspace issues relevant to the duties specified in paragraph (2) to transmit the proposed budget for such responsibilities for a fiscal year and for the period covered by the future-years defense program submitted to Congress under section 221 of title 10 , United States Code, for that fiscal year to the relevant service’s Principal Cyber Advisor for review under clause (ii) 4 4 So in original. Probably should be “subparagraph (B)”. before submitting the proposed budget to the department’s comptroller.
     - **(B)** Each Principal Cyber Advisor under paragraph (1)(A) shall review each proposed budget transmitted under subparagraph (A) and submit to the secretary of the relevant military department a report containing the comments of the Principal Cyber Advisor with respect to all such proposed budgets, together with the certification of the Principal Cyber Advisor regarding whether each proposed budget is adequate.
     - **(C)** Not later than March 31 of each year, each of the secretaries of the military departments shall submit to the congressional defense committees a report specifying each proposed budget for the subsequent fiscal year contained in the most-recent report submitted under subparagraph (B) that the Principal Cyber Advisor did not certify to be adequate. The report of the secretary shall include a discussion of the actions that the secretary took or proposes to take, together with any additional comments that the Secretary considers appropriate regarding the adequacy or inadequacy of the proposed budgets.
   - **(5)** Not later than February 1, 2021 , and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor’s activities and ability to perform the functions specified in paragraph (2).

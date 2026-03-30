@@ -3,9 +3,9 @@ title: "Section 16375 - Program administration"
 usc_title: 42
 usc_section: "16375"
 chapter: 149
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 16375"
-generated_at: "2026-03-30T00:16:29.740Z"
+generated_at: "2026-03-30T00:20:23.134Z"
 ---
 
 # § 16375. Program administration

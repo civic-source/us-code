@@ -3,9 +3,9 @@ title: "Section 3334e - Enhanced procurement authority to manage supply chain ri
 usc_title: 50
 usc_section: "3334e"
 chapter: 45
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3334e"
-generated_at: "2026-03-30T00:16:38.006Z"
+generated_at: "2026-03-30T00:20:29.417Z"
 ---
 
 # § 3334e. Enhanced procurement authority to manage supply chain risk

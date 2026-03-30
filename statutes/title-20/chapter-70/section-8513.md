@@ -3,9 +3,9 @@ title: "Section 8513 - Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan
 usc_title: 20
 usc_section: "8513"
 chapter: 70
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 8513"
-generated_at: "2026-03-30T00:15:01.721Z"
+generated_at: "2026-03-30T00:18:58.077Z"
 ---
 
 # §§ 8501 to 8513. Repealed. Pub. L. 107–110, title X, § 1011(5)(A) , Jan. 8, 2002 , 115 Stat. 1986

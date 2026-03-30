@@ -3,9 +3,9 @@ title: "Section 2108a - Treatment of certain individuals as veterans, disabled v
 usc_title: 5
 usc_section: "2108a"
 chapter: 21
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 2108a"
-generated_at: "2026-03-30T00:13:52.445Z"
+generated_at: "2026-03-30T00:17:57.252Z"
 ---
 
 # § 2108a. Treatment of certain individuals as veterans, disabled veterans, and preference eligibles

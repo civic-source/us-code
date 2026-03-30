@@ -3,9 +3,9 @@ title: "Section 63 - Duplicate collection of statistics prohibited; access to av
 usc_title: 13
 usc_section: "63"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "13 U.S.C. § 63"
-generated_at: "2026-03-30T00:14:30.833Z"
+generated_at: "2026-03-30T00:18:22.490Z"
 ---
 
 # § 63. Duplicate collection of statistics prohibited; access to available statistics

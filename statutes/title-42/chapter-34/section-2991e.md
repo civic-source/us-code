@@ -3,9 +3,9 @@ title: "Section 2991e - Announcement of research, demonstration, or pilot projec
 usc_title: 42
 usc_section: "2991e"
 chapter: 34
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 2991e"
-generated_at: "2026-03-30T00:16:29.398Z"
+generated_at: "2026-03-30T00:20:22.801Z"
 ---
 
 # § 2991e. Announcement of research, demonstration, or pilot projects

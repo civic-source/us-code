@@ -3,9 +3,9 @@ title: "Section 8 - Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 17, 1
 usc_title: 42
 usc_section: "8"
 chapter: 19
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T00:16:29.357Z"
+generated_at: "2026-03-30T00:20:22.757Z"
 ---
 
 # §§ 1961c to 1961c–8. Repealed. Pub. L. 95–467, title IV, § 410(a) , Oct. 17, 1978 , 92 Stat. 1316

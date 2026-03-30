@@ -3,9 +3,9 @@ title: "Section 53302 - Authority for construction reserve funds"
 usc_title: 46
 usc_section: "53302"
 chapter: 533
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 53302"
-generated_at: "2026-03-30T00:16:36.545Z"
+generated_at: "2026-03-30T00:20:37.517Z"
 ---
 
 # § 53302. Authority for construction reserve funds

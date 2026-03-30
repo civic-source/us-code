@@ -3,9 +3,9 @@ title: "Section 2000dd - Prohibition on cruel, inhuman, or degrading treatment o
 usc_title: 42
 usc_section: "2000dd"
 chapter: 21
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 2000dd"
-generated_at: "2026-03-30T00:16:29.368Z"
+generated_at: "2026-03-30T00:20:22.769Z"
 ---
 
 # § 2000dd. Prohibition on cruel, inhuman, or degrading treatment or punishment of persons under custody or control of the United States Government

@@ -3,9 +3,9 @@ title: "Section 351 - Obligations of cooperative marketing association as issued
 usc_title: 12
 usc_section: "351"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 351"
-generated_at: "2026-03-30T00:14:48.288Z"
+generated_at: "2026-03-30T00:18:37.570Z"
 ---
 
 # § 351. Obligations of cooperative marketing association as issued or drawn for agricultural purposes

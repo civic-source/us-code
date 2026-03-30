@@ -3,9 +3,9 @@ title: "Section 114 - Maiming within maritime and territorial jurisdiction"
 usc_title: 18
 usc_section: "114"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "18 U.S.C. § 114"
-generated_at: "2026-03-30T00:14:51.885Z"
+generated_at: "2026-03-30T00:18:53.148Z"
 ---
 
 # § 114. Maiming within maritime and territorial jurisdiction

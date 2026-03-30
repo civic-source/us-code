@@ -3,9 +3,9 @@ title: "Section 12462 - Purpose"
 usc_title: 34
 usc_section: "12462"
 chapter: 121
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 12462"
-generated_at: "2026-03-30T00:15:51.206Z"
+generated_at: "2026-03-30T00:19:48.357Z"
 ---
 
 # § 12462. Purpose

@@ -3,9 +3,9 @@ title: "Section 4202 - Exaction of excessive fees for verification of invoices; 
 usc_title: 22
 usc_section: "4202"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 4202"
-generated_at: "2026-03-30T00:15:12.587Z"
+generated_at: "2026-03-30T00:19:26.932Z"
 ---
 
 # § 4202. Exaction of excessive fees for verification of invoices; penalty

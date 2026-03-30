@@ -3,9 +3,9 @@ title: "Section 1581 - Foreign National Employees Separation Pay Account"
 usc_title: 10
 usc_section: "1581"
 chapter: 81
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1581"
-generated_at: "2026-03-30T00:14:10.292Z"
+generated_at: "2026-03-30T00:18:12.249Z"
 ---
 
 # § 1581. Foreign National Employees Separation Pay Account

@@ -3,9 +3,9 @@ title: "Section 155 - Functions of Mediation Board"
 usc_title: 45
 usc_section: "155"
 chapter: 8
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "45 U.S.C. § 155"
-generated_at: "2026-03-30T00:16:05.381Z"
+generated_at: "2026-03-30T00:20:05.457Z"
 ---
 
 # § 155. Functions of Mediation Board

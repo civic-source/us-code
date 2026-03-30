@@ -3,9 +3,9 @@ title: "Section 964 - Tier 1 participants in C–TPAT"
 usc_title: 6
 usc_section: "964"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "6 U.S.C. § 964"
-generated_at: "2026-03-30T00:14:01.508Z"
+generated_at: "2026-03-30T00:18:00.117Z"
 ---
 
 # § 964. Tier 1 participants in C–TPAT

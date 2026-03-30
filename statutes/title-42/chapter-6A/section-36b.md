@@ -3,9 +3,9 @@ title: "Section 36b - Mental health and substance use disorder services for stud
 usc_title: 42
 usc_section: "36b"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 36b"
-generated_at: "2026-03-30T00:16:28.973Z"
+generated_at: "2026-03-30T00:20:22.372Z"
 ---
 
 # § 290bb–36b. Mental health and substance use disorder services for students in higher education

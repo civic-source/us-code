@@ -3,9 +3,9 @@ title: "Section 1733 - Government records and papers; copies"
 usc_title: 28
 usc_section: "1733"
 chapter: 115
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "28 U.S.C. § 1733"
-generated_at: "2026-03-30T00:15:29.252Z"
+generated_at: "2026-03-30T00:19:45.369Z"
 ---
 
 # § 1733. Government records and papers; copies

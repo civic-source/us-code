@@ -3,9 +3,9 @@ title: "Section 1720F - Comprehensive program for suicide prevention among veter
 usc_title: 38
 usc_section: "1720F"
 chapter: 17
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 1720F"
-generated_at: "2026-03-30T00:16:03.241Z"
+generated_at: "2026-03-30T00:20:03.427Z"
 ---
 
 # § 1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces

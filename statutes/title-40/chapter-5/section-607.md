@@ -3,9 +3,9 @@ title: "Section 607 - Records"
 usc_title: 40
 usc_section: "607"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "40 U.S.C. § 607"
-generated_at: "2026-03-30T00:15:58.357Z"
+generated_at: "2026-03-30T00:20:00.255Z"
 ---
 
 # § 607. Records

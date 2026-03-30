@@ -3,9 +3,9 @@ title: "Section 954 - Appointment of administrative personnel and inspectors; qu
 usc_title: 30
 usc_section: "954"
 chapter: 22
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "30 U.S.C. § 954"
-generated_at: "2026-03-30T00:15:23.797Z"
+generated_at: "2026-03-30T00:19:29.568Z"
 ---
 
 # § 954. Appointment of administrative personnel and inspectors; qualifications; training programs

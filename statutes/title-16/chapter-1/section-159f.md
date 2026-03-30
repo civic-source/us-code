@@ -3,9 +3,9 @@ title: "Section 159f - Enactment of revision"
 usc_title: 16
 usc_section: "159f"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 159f"
-generated_at: "2026-03-30T00:14:59.355Z"
+generated_at: "2026-03-30T00:18:47.320Z"
 ---
 
 # § 159f. Enactment of revision

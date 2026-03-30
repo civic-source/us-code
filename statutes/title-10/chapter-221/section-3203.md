@@ -3,9 +3,9 @@ title: "Section 3203 - Exclusion of particular source or restriction of solicita
 usc_title: 10
 usc_section: "3203"
 chapter: 221
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 3203"
-generated_at: "2026-03-30T00:14:10.338Z"
+generated_at: "2026-03-30T00:18:12.304Z"
 ---
 
 # § 3203. Exclusion of particular source or restriction of solicitation to small business concerns

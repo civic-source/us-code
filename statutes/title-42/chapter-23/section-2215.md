@@ -3,9 +3,9 @@ title: "Section 2215 - Nuclear Regulatory Commission user fees and annual charge
 usc_title: 42
 usc_section: "2215"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 2215"
-generated_at: "2026-03-30T00:16:29.386Z"
+generated_at: "2026-03-30T00:20:22.788Z"
 ---
 
 # § 2215. Nuclear Regulatory Commission user fees and annual charges for fiscal year 2021 and each fiscal year thereafter

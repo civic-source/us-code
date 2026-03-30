@@ -3,9 +3,9 @@ title: "Section 529 - Authorization of development and administration considerat
 usc_title: 16
 usc_section: "529"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 529"
-generated_at: "2026-03-30T00:14:59.453Z"
+generated_at: "2026-03-30T00:18:47.422Z"
 ---
 
 # § 529. Authorization of development and administration consideration to relative values of resources; areas of wilderness

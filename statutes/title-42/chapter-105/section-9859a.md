@@ -3,9 +3,9 @@ title: "Section 9859a - Authorization of appropriations"
 usc_title: 42
 usc_section: "9859a"
 chapter: 105
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 9859a"
-generated_at: "2026-03-30T00:16:29.628Z"
+generated_at: "2026-03-30T00:20:23.022Z"
 ---
 
 # § 9859a. Authorization of appropriations

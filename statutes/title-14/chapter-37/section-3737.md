@@ -3,9 +3,9 @@ title: "Section 3737 - Running mates"
 usc_title: 14
 usc_section: "3737"
 chapter: 37
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 3737"
-generated_at: "2026-03-30T00:14:28.580Z"
+generated_at: "2026-03-30T00:18:33.435Z"
 ---
 
 # § 3737. Running mates

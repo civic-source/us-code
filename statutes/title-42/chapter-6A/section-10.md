@@ -3,9 +3,9 @@ title: "Section 10 - Coordination of preparedness for and response to all-hazard
 usc_title: 42
 usc_section: "10"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-03-30T00:16:29.055Z"
+generated_at: "2026-03-30T00:20:22.459Z"
 ---
 
 # § 300hh–10. Coordination of preparedness for and response to all-hazards public health emergencies
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:16:29.055Z"
     - **(G)** Carry out drills and operational exercises each year, including national-level and State-level full-scale exercises not less than once every 4 years, in consultation with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies, as necessary and appropriate, to identify, inform, and address gaps in and policies related to all-hazards medical and public health preparedness and response, including exercises—
       - **(i)** based on 1 1 So in original. Probably should be followed by a dash.
         - **(I)** identified threats for which countermeasures are available and for which no countermeasures are available; and
-        - **(II)** unknown threats for which no countermeasures are available. 2 2 So in original. The period probably should be a semicolon.
+        - **(II)** unknown threats for which no countermeasures are available;
       - **(ii)** that assess the ability of the Strategic National Stockpile, as appropriate, to provide medical countermeasures, medical products, and other supplies, including ancillary medical supplies, to support the response to a public health emergency or potential public health emergency, including a threat that requires the large-scale and simultaneous deployment of stockpiles and a long-term public health and medical response; and
       - **(iii)** conducted in coordination with State and local health officials.
     - **(H)** On a periodic basis consult with, as applicable and appropriate, the Assistant to the President for National Security Affairs, to provide an update on, and discuss, medical and public health preparedness and response activities pursuant to this chapter and the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], including progress on the development, approval, clearance, and licensure of medical countermeasures.
@@ -82,7 +82,7 @@ generated_at: "2026-03-30T00:16:29.055Z"
     - **(F)** evaluate progress made in meeting timelines, allocations, benchmarks, and milestones identified under subparagraph (D)(ii);
     - **(G)** report on the amount of funds available for procurement in the special reserve fund as defined in section 247d–6b(h) of this title and the impact this funding will have on meeting the requirements under section 247d–6b of this title ;
     - **(H)** incorporate input from Federal, State, local, and tribal stakeholders;
-    - **(I)** identify the progress made in meeting the medical countermeasure priorities for at-risk individuals (as defined in 3 3 So in original. The word “section” probably should appear. 300hh–1(b)(4)(B) of this title), as applicable under subparagraph (C), including with regard to the projected needs for related stockpiling and replenishment of the Strategic National Stockpile, including by addressing the needs of pediatric populations with respect to such countermeasures and products in the Strategic National Stockpile, including—
+    - **(I)** identify the progress made in meeting the medical countermeasure priorities for at-risk individuals (as defined in 2 2 So in original. The word “section” probably should appear. 300hh–1(b)(4)(B) of this title), as applicable under subparagraph (C), including with regard to the projected needs for related stockpiling and replenishment of the Strategic National Stockpile, including by addressing the needs of pediatric populations with respect to such countermeasures and products in the Strategic National Stockpile, including—
       - **(i)** a list of such countermeasures and products necessary to address the needs of pediatric populations;
       - **(ii)** a description of measures taken to coordinate with the Office of Pediatric Therapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
       - **(iii)** a description of existing gaps in the Strategic National Stockpile and the development of such countermeasures and products to address the needs of pediatric populations; and
@@ -124,5 +124,5 @@ generated_at: "2026-03-30T00:16:29.055Z"
     - **(H)** objectives, activities, or initiatives related to the coordination and consultation required under subsections (b)(4)(H) and (b)(4)(I), in a manner consistent with paragraph (3), as appropriate.
   - **(2)**
     - **(A)** The Chair of the Committee on Health, Education, Labor, and Pensions of the Senate or the Chair of the Committee on Energy and Commerce of the House of Representatives may waive the requirements of paragraph (1) for the applicable fiscal year with respect to the applicable Committee.
-    - **(B)** The requirements of this subsection shall not be construed to impact the appearance of other Federal officials or the Assistant Secretary at hearings of either Committee described in paragraph (1) at other times and for purposes other than the times and purposes described in paragraph (1) 4 4 So in original. Probably should be followed by a period.
+    - **(B)** The requirements of this subsection shall not be construed to impact the appearance of other Federal officials or the Assistant Secretary at hearings of either Committee described in paragraph (1) at other times and for purposes other than the times and purposes described in paragraph (1) 3 3 So in original. Probably should be followed by a period.
   - **(3)** Information that is not appropriate for disclosure during an open hearing under paragraph (1) in order to protect national security may instead be discussed in a closed hearing that immediately follows such open hearing.

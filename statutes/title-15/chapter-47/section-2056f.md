@@ -3,9 +3,9 @@ title: "Section 2056f - Consumer product safety standard to protect against tip-
 usc_title: 15
 usc_section: "2056f"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 2056f"
-generated_at: "2026-03-30T00:14:33.500Z"
+generated_at: "2026-03-30T00:18:28.134Z"
 ---
 
 # § 2056f. Consumer product safety standard to protect against tip-over of clothing storage units
@@ -38,7 +38,7 @@ generated_at: "2026-03-30T00:14:33.500Z"
   - **(1)** Beginning 5 years after December 29, 2022 , subsequent to the publication of a consumer product safety standard under this section, the Commission may, at any time, initiate rulemaking, in accordance with section 553 of title 5 , to modify the requirements of such standard or to include additional provisions if the Commission makes a determination that such modifications or additions are reasonably necessary to protect children from tip-over-related death or injury.
   - **(2)**
     - **(A)** If the Commission receives a petition for a new or revised test that permits incorporated safety features (excluding tip restraints) to work as intended, if the features cannot be overridden by consumers in normal use and provide an equivalent or greater level of safety as the tests developed under subsection (c)(2) or the performance requirements described in subsection (d)(2)(B), as applicable, the Commission shall determine within 120 days—
-      - **(i)** whether the petition meets the requirements for petitions set forth in section 1051.5 of title 16, Code of Federal Regulations, or any successor regulation implementing section 2058(i)of this title; and
+      - **(i)** whether the petition meets the requirements for petitions set forth in section 1051.5 of title 16, Code of Federal Regulations, or any successor regulation implementing section 2058(i) of this title ; and
       - **(ii)** whether the petition demonstrates that the test could reasonably meet the requirements of subsection (c)(2)(B), and if so, the Commission shall determine by recorded vote, within 60 days after the determination, whether to initiate rulemaking, in accordance with section 553 of title 5 , to revise a consumer product safety standard promulgated under this section to include the new or revised test.
     - **(B)** Compliance with the testing requirements of a standard revised under subparagraph (A) may be demonstrated either through the performance of a new or revised test under subparagraph (A) or the performance of the tests otherwise required under a standard promulgated under this section.
   - **(3)** Any rule promulgated under this subsection, including any modification or revision made under this subsection, shall be treated as a consumer product safety rule promulgated under section 2058 of this title .

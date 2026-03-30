@@ -3,9 +3,9 @@ title: "Section 3203 - Voluntary services"
 usc_title: 50
 usc_section: "3203"
 chapter: 44
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 3203"
-generated_at: "2026-03-30T00:16:38.003Z"
+generated_at: "2026-03-30T00:20:29.411Z"
 ---
 
 # § 3203. Voluntary services

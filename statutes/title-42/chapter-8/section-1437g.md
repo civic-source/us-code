@@ -3,9 +3,9 @@ title: "Section 1437g - Public housing Capital and Operating Funds"
 usc_title: 42
 usc_section: "1437g"
 chapter: 8
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1437g"
-generated_at: "2026-03-30T00:16:29.307Z"
+generated_at: "2026-03-30T00:20:22.708Z"
 ---
 
 # § 1437g. Public housing Capital and Operating Funds
@@ -64,7 +64,7 @@ generated_at: "2026-03-30T00:16:29.307Z"
       - **(iii)** the number of public housing dwelling units owned, assisted, or operated by the public housing agency that are chronically vacant and the amount of assistance appropriate for those units;
       - **(iv)** to the extent quantifiable, the extent to which the public housing agency provides programs and activities designed to promote the economic self-sufficiency and management skills of public housing residents;
       - **(v)** the need of the public housing agency to carry out anti-crime and anti-drug activities, including providing adequate security for public housing residents;
-      - **(vi)** the amount of public housing rental income foregone by the public housing agency as a result of escrow savings accounts under section 1437u(d)(2) of this title for families participating in a family self-sufficiency program of the agency under such section 1437u of this title ; and
+      - **(vi)** the amount of public housing rental income foregone by the public housing agency as a result of escrow savings accounts under section 1437u(d)(2) 2 2 See References in Text note below. of this title for families participating in a family self-sufficiency program of the agency under such section 1437u of this title ; and
       - **(vii)** any other factors that the Secretary determines to be appropriate.
     - **(B)** The formula shall provide an incentive to encourage public housing agencies to facilitate increases in earned income by families in occupancy. Any such incentive shall provide that the agency shall benefit from increases in such rental income and that such amounts accruing to the agency pursuant to such benefit may be used only for low-income housing or to benefit the residents of the public housing agency.
     - **(C)**
@@ -143,7 +143,7 @@ generated_at: "2026-03-30T00:16:29.307Z"
   - **(2)** In the case of any public housing unit assisted pursuant to the authority under paragraph (1), the Secretary may, by regulation, reduce the period under subsection (d)(3) or (e)(3), as applicable, during which such units must be operated under requirements applicable to public housing. In cases in which there is commitment of operating assistance but no commitment of capital assistance, the Secretary may make section 8 [ 42 U.S.C. 1437f ] requirements applicable, as appropriate, by regulation.
 - **(m)**
   - **(1)**
-  - **(2)** Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding 2 2 So in original. $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+  - **(2)** Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding 3 3 So in original. $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
   - **(3)** Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
   - **(4)** This subsection shall apply to fiscal year 1999 and each fiscal year thereafter.
 - **(n)**

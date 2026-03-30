@@ -3,9 +3,9 @@ title: "Section 101339 - Assessment and priority listing"
 usc_title: 54
 usc_section: "101339"
 chapter: 1013
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "54 U.S.C. § 101339"
-generated_at: "2026-03-30T00:16:52.138Z"
+generated_at: "2026-03-30T00:20:42.015Z"
 ---
 
 # § 101339. Assessment and priority listing

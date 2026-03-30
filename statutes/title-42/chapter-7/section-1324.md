@@ -3,9 +3,9 @@ title: "Section 1324 - “Governor” defined"
 usc_title: 42
 usc_section: "1324"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1324"
-generated_at: "2026-03-30T00:16:29.144Z"
+generated_at: "2026-03-30T00:20:22.549Z"
 ---
 
 # § 1324. “Governor” defined

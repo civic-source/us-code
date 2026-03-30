@@ -3,9 +3,9 @@ title: "Section 801 - Tax imposed"
 usc_title: 26
 usc_section: "801"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 801"
-generated_at: "2026-03-30T00:15:47.783Z"
+generated_at: "2026-03-30T00:19:39.139Z"
 ---
 
 # § 801. Tax imposed

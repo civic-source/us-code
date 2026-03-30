@@ -3,9 +3,9 @@ title: "Section 802 - Coronavirus State fiscal recovery fund"
 usc_title: 42
 usc_section: "802"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 802"
-generated_at: "2026-03-30T00:16:29.114Z"
+generated_at: "2026-03-30T00:20:22.518Z"
 ---
 
 # § 802. Coronavirus State fiscal recovery fund
@@ -102,7 +102,7 @@ generated_at: "2026-03-30T00:16:29.114Z"
         - **(II)** The spending limitation under subclause (I) shall not apply to any use of funds permitted under paragraph (1), and any such use of funds shall be disregarded for purposes of applying such spending limitation.
       - **(ii)** Funds provided under a payment made under this section shall not be used for operating expenses of a project described in clauses (xx) through (xxiv) of subparagraph (B).
       - **(iii)** Except as otherwise determined by the Secretary or the head of a Federal agency to which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
-        - **(I)** the requirements of section 1702 of title 47 shall apply to funds provided under a payment made under this section that are used pursuant to subparagraph (A) for a project described in clause (xxvi) of subparagraph (B) that relates to broadband infrastructure;
+        - **(I)** the requirements of section 60102 of the Infrastructure Investment and Jobs Act [ 47 U.S.C. 1702 ] shall apply to funds provided under a payment made under this section that are used pursuant to subparagraph (A) for a project described in clause (xxvi) of subparagraph (B) that relates to broadband infrastructure;
         - **(II)** the requirements of titles 23, 40, and 49, title I of the Housing and Community Development Act of 1974 ( 42 U.S.C. 5301 et seq.), and the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et. seq) 1 1 So in original. shall apply to funds provided under a payment made under this section that are used for projects described in subparagraph (B); and
         - **(III)** a State government receiving a payment under this section may use funds provided under such payment for projects described in clauses (i) through (xxvii) of subparagraph (B), as applicable, that—
       - **(iv)** The Secretary may delegate oversight and administration of the requirements described in clause (iii) to the appropriate Federal agency.

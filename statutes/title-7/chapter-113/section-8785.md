@@ -3,9 +3,9 @@ title: "Section 8785 - Tracking of benefits"
 usc_title: 7
 usc_section: "8785"
 chapter: 113
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 8785"
-generated_at: "2026-03-30T00:14:23.680Z"
+generated_at: "2026-03-30T00:18:20.088Z"
 ---
 
 # § 8785. Tracking of benefits

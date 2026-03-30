@@ -3,9 +3,9 @@ title: "Section 2931 - Office of the United States Coordinator for the Preventio
 usc_title: 50
 usc_section: "2931"
 chapter: 43
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 2931"
-generated_at: "2026-03-30T00:16:37.989Z"
+generated_at: "2026-03-30T00:20:29.400Z"
 ---
 
 # § 2931. Office of the United States Coordinator for the Prevention of Weapons of Mass Destruction Proliferation and Terrorism

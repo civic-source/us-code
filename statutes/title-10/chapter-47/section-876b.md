@@ -3,9 +3,9 @@ title: "Section 876b - Art. 76b. Lack of mental capacity or mental responsibilit
 usc_title: 10
 usc_section: "876b"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 876b"
-generated_at: "2026-03-30T00:14:10.253Z"
+generated_at: "2026-03-30T00:18:12.205Z"
 ---
 
 # § 876b. Art. 76b. Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment

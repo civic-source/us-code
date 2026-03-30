@@ -3,9 +3,9 @@ title: "Section 7651n - Clean coal technology regulatory incentives"
 usc_title: 42
 usc_section: "7651n"
 chapter: 85
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 7651n"
-generated_at: "2026-03-30T00:16:29.573Z"
+generated_at: "2026-03-30T00:20:22.965Z"
 ---
 
 # § 7651n. Clean coal technology regulatory incentives

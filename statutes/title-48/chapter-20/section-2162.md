@@ -3,9 +3,9 @@ title: "Section 2162 - Who may be a debtor"
 usc_title: 48
 usc_section: "2162"
 chapter: 20
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "48 U.S.C. § 2162"
-generated_at: "2026-03-30T00:16:35.584Z"
+generated_at: "2026-03-30T00:20:26.325Z"
 ---
 
 # § 2162. Who may be a debtor

@@ -3,9 +3,9 @@ title: "Section 2302 - Prohibited personnel practices"
 usc_title: 5
 usc_section: "2302"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 2302"
-generated_at: "2026-03-30T00:13:52.446Z"
+generated_at: "2026-03-30T00:17:57.252Z"
 ---
 
 # § 2302. Prohibited personnel practices

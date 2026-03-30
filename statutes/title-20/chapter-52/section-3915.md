@@ -3,9 +3,9 @@ title: "Section 3915 - Graduate fellowships"
 usc_title: 20
 usc_section: "3915"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 3915"
-generated_at: "2026-03-30T00:15:01.679Z"
+generated_at: "2026-03-30T00:18:58.033Z"
 ---
 
 # § 3915. Graduate fellowships

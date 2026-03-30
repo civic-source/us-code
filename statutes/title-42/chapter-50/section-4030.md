@@ -3,9 +3,9 @@ title: "Section 4030 - Repealed. Pub. L. 112–141, div. F, title II, § 100225(
 usc_title: 42
 usc_section: "4030"
 chapter: 50
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 4030"
-generated_at: "2026-03-30T00:16:29.430Z"
+generated_at: "2026-03-30T00:20:22.833Z"
 ---
 
 # § 4030. Repealed. Pub. L. 112–141, div. F, title II, § 100225(b) , July 6, 2012 , 126 Stat. 941

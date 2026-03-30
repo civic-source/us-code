@@ -3,9 +3,9 @@ title: "Section 136c - Experimental use permits"
 usc_title: 7
 usc_section: "136c"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 136c"
-generated_at: "2026-03-30T00:14:23.486Z"
+generated_at: "2026-03-30T00:18:19.875Z"
 ---
 
 # § 136c. Experimental use permits

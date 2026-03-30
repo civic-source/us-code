@@ -3,9 +3,9 @@ title: "Section 7530 - Application of earned income tax credit to possessions of
 usc_title: 26
 usc_section: "7530"
 chapter: 77
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 7530"
-generated_at: "2026-03-30T00:15:47.933Z"
+generated_at: "2026-03-30T00:19:39.287Z"
 ---
 
 # § 7530. Application of earned income tax credit to possessions of the United States

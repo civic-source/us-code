@@ -3,9 +3,9 @@ title: "Section 9224 - Procurement sanctions"
 usc_title: 22
 usc_section: "9224"
 chapter: 99
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 9224"
-generated_at: "2026-03-30T00:15:12.650Z"
+generated_at: "2026-03-30T00:19:26.987Z"
 ---
 
 # § 9224. Procurement sanctions

@@ -3,9 +3,9 @@ title: "Section 8716 - Naval Observatory: exchange of information with foreign o
 usc_title: 10
 usc_section: "8716"
 chapter: 867
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 8716"
-generated_at: "2026-03-30T00:14:10.378Z"
+generated_at: "2026-03-30T00:18:12.347Z"
 ---
 
 # § 8716. Naval Observatory: exchange of information with foreign offices

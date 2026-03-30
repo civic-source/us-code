@@ -3,9 +3,9 @@ title: "Section 179p - National Film Registry Collection of Library of Congress"
 usc_title: 2
 usc_section: "179p"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 179p"
-generated_at: "2026-03-30T00:13:58.931Z"
+generated_at: "2026-03-30T00:17:40.296Z"
 ---
 
 # § 179p. National Film Registry Collection of Library of Congress

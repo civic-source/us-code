@@ -3,9 +3,9 @@ title: "Section 6309 - Administrative provisions"
 usc_title: 7
 usc_section: "6309"
 chapter: 92
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "7 U.S.C. § 6309"
-generated_at: "2026-03-30T00:14:23.635Z"
+generated_at: "2026-03-30T00:18:20.038Z"
 ---
 
 # § 6309. Administrative provisions

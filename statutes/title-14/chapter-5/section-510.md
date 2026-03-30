@@ -1,14 +1,14 @@
 ---
-title: "Section 510 - Conveyance of Coast Guard Vessels for Public Purposes"
+title: "Section 510 - Conveyance of Coast Guard vessels for public purposes"
 usc_title: 14
 usc_section: "510"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 510"
-generated_at: "2026-03-30T00:14:28.569Z"
+generated_at: "2026-03-30T00:18:33.422Z"
 ---
 
-# § 510. Conveyance of Coast Guard Vessels for Public Purposes
+# § 510. Conveyance of Coast Guard vessels for public purposes
 
 - **(a)** On request by the Commandant, the Administrator of the General Services Administration may transfer ownership of a Coast Guard vessel or aircraft to an eligible entity for educational, cultural, historical, charitable, recreational, or other public purposes if such transfer is authorized by law.
 - **(b)** The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—

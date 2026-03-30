@@ -3,9 +3,9 @@ title: "Section 893 - Art. 93. Cruelty and maltreatment"
 usc_title: 10
 usc_section: "893"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 893"
-generated_at: "2026-03-30T00:14:10.254Z"
+generated_at: "2026-03-30T00:18:12.205Z"
 ---
 
 # § 893. Art. 93. Cruelty and maltreatment

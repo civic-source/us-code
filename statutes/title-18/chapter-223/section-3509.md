@@ -3,9 +3,9 @@ title: "Section 3509 - Child victims’ and child witnesses’ rights"
 usc_title: 18
 usc_section: "3509"
 chapter: 223
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "18 U.S.C. § 3509"
-generated_at: "2026-03-30T00:14:51.940Z"
+generated_at: "2026-03-30T00:18:53.208Z"
 ---
 
 # § 3509. Child victims’ and child witnesses’ rights

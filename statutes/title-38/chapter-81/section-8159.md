@@ -3,9 +3,9 @@ title: "Section 8159 - Authority to pay for services authorized but not subject 
 usc_title: 38
 usc_section: "8159"
 chapter: 81
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 8159"
-generated_at: "2026-03-30T00:16:03.311Z"
+generated_at: "2026-03-30T00:20:03.488Z"
 ---
 
 # § 8159. Authority to pay for services authorized but not subject to an agreement

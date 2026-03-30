@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T00:16:29.166Z"
+generated_at: "2026-03-30T00:20:22.570Z"
 ---
 
 # § 1395m. Special payment rules for particular items and services
@@ -635,7 +635,7 @@ generated_at: "2026-03-30T00:16:29.166Z"
         - **(XI)** A rural emergency hospital (as defined in section 1395x(kkk)(2) of this title ).
       - **(iii)** In the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , with respect to telehealth services identified in subparagraph (F)(i) as of March 15, 2022 , that are furnished during the period beginning on the first day after the end of such emergency period and ending on December 31, 2024 , the term “originating site” means any site in the United States at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, including the home of an individual.
     - **(D)** The term “physician” has the meaning given that term in section 1395x(r) of this title .
-    - **(E)** The term “practitioner” has the meaning given that term in section 1395u(b)(18)(C) of this title and, in the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024 , shall include a qualified occupational therapist (as such term is used in section 1395x(g) of this title ), a qualified physical therapist (as such term is used in section 1395x(p) of this title ), a qualified speech-language pathologist (as defined in section 1395x( ll )(4)(A) of this title), and a qualified audiologist (as defined in section 1395x( ll )(4)(B)).
+    - **(E)** The term “practitioner” has the meaning given that term in section 1395u(b)(18)(C) of this title and, in the case that the emergency period described in section 1320b–5(g)(1)(B) of this title ends before December 31, 2024 , for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024 , shall include a qualified occupational therapist (as such term is used in section 1395x(g) of this title ), a qualified physical therapist (as such term is used in section 1395x(p) of this title ), a qualified speech-language pathologist (as defined in section 1395x( ll )(4)(A) of this title), and a qualified audiologist (as defined in section 1395x( ll )(4)(B) of this title).
     - **(F)**
       - **(i)** Subject to paragraph (8), the term “telehealth service” means professional consultations, office visits, and office psychiatry services (identified as of July 1, 2000 , by HCPCS codes 99241–99275, 99201–99215, 90804–90809, and 90862 (and as subsequently modified by the Secretary)), and any additional service specified by the Secretary.
       - **(ii)** The Secretary shall establish a process that provides, on an annual basis, for the addition or deletion of services (and HCPCS codes), as appropriate, to those specified in clause (i) for authorized payment under paragraph (1).

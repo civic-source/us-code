@@ -3,9 +3,9 @@ title: "Section 100801 - Definitions"
 usc_title: 54
 usc_section: "100801"
 chapter: 1008
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "54 U.S.C. § 100801"
-generated_at: "2026-03-30T00:16:52.136Z"
+generated_at: "2026-03-30T00:20:42.014Z"
 ---
 
 # § 100801. Definitions

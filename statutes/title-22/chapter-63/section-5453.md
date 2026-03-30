@@ -3,9 +3,9 @@ title: "Section 5453 - Medical supplies, hospital equipment, and medical trainin
 usc_title: 22
 usc_section: "5453"
 chapter: 63
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 5453"
-generated_at: "2026-03-30T00:15:12.600Z"
+generated_at: "2026-03-30T00:19:26.941Z"
 ---
 
 # § 5453. Medical supplies, hospital equipment, and medical training for Poland

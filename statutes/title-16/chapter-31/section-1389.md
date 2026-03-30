@@ -3,9 +3,9 @@ title: "Section 1389 - Pacific Coast Task Force; Gulf of Maine"
 usc_title: 16
 usc_section: "1389"
 chapter: 31
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-30T00:14:59.535Z"
+generated_at: "2026-03-30T00:18:47.506Z"
 ---
 
 # § 1389. Pacific Coast Task Force; Gulf of Maine
@@ -62,7 +62,7 @@ generated_at: "2026-03-30T00:14:59.535Z"
         - **(I)** The Confederated Tribes of Siletz Indians or the Confederated Tribes of the Grand Ronde Community, or both.
         - **(II)** The Confederated Tribes of the Warm Springs or the Confederated Tribes of the Umatilla Reservation, or both.
       - **(iii)** A committee established under this subparagraph may take action with respect to a permit application and removal under this subsection only with majority agreement by the committee members.
-      - **(iv)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to a committee established under this subparagraph.
+      - **(iv)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to a committee established under this subparagraph.
   - **(7)** For purposes of this subsection, any sea lion located upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be individually identifiable.
   - **(8)** For purposes of this subsection, any sea lion located in the mainstem of the Columbia River upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be having a significant negative impact, within the meaning of subsection (b)(1).
   - **(9)** In this subsection, the term “Indian tribe” has the meaning given such term in section 5304 of title 25 .

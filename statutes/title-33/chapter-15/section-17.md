@@ -3,9 +3,9 @@ title: "Section 17 - Corps of Engineers Western Water Cooperative Committee"
 usc_title: 33
 usc_section: "17"
 chapter: 15
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "33 U.S.C. § 17"
-generated_at: "2026-03-30T00:15:52.408Z"
+generated_at: "2026-03-30T00:19:53.586Z"
 ---
 
 # § 701b–17. Corps of Engineers Western Water Cooperative Committee

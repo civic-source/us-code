@@ -3,9 +3,9 @@ title: "Section 505a - Interchange of lands between Department of Agriculture an
 usc_title: 16
 usc_section: "505a"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 505a"
-generated_at: "2026-03-30T00:14:59.452Z"
+generated_at: "2026-03-30T00:18:47.421Z"
 ---
 
 # § 505a. Interchange of lands between Department of Agriculture and military departments of Department of Defense; report to Congress

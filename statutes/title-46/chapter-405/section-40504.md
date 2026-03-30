@@ -3,9 +3,9 @@ title: "Section 40504 - Shipping exchange registry"
 usc_title: 46
 usc_section: "40504"
 chapter: 405
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 40504"
-generated_at: "2026-03-30T00:16:36.534Z"
+generated_at: "2026-03-30T00:20:37.508Z"
 ---
 
 # § 40504. Shipping exchange registry

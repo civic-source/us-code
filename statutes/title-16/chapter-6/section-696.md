@@ -3,9 +3,9 @@ title: "Section 696 - National Key Deer Refuge; establishment; acquisition of pr
 usc_title: 16
 usc_section: "696"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 696"
-generated_at: "2026-03-30T00:14:59.482Z"
+generated_at: "2026-03-30T00:18:47.451Z"
 ---
 
 # § 696. National Key Deer Refuge; establishment; acquisition of property: exchanges, cash equalization payments; administration

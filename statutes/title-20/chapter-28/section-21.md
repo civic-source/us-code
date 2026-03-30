@@ -3,9 +3,9 @@ title: "Section 21 - Early intervention and college awareness program authorized
 usc_title: 20
 usc_section: "21"
 chapter: 28
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 21"
-generated_at: "2026-03-30T00:15:01.605Z"
+generated_at: "2026-03-30T00:18:57.957Z"
 ---
 
 # § 1070a–21. Early intervention and college awareness program authorized

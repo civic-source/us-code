@@ -3,9 +3,9 @@ title: "Section 737 - Unrestricted deeds for townsite lands held by Alaska nativ
 usc_title: 43
 usc_section: "737"
 chapter: 17
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "43 U.S.C. § 737"
-generated_at: "2026-03-30T00:16:09.775Z"
+generated_at: "2026-03-30T00:20:08.063Z"
 ---
 
 # § 737. Unrestricted deeds for townsite lands held by Alaska natives

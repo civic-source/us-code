@@ -3,9 +3,9 @@ title: "Section 421 - Additional provisions with respect to the Department of En
 usc_title: 5
 usc_section: "421"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 421"
-generated_at: "2026-03-30T00:13:52.430Z"
+generated_at: "2026-03-30T00:17:57.237Z"
 ---
 
 # § 421. Additional provisions with respect to the Department of Energy

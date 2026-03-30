@@ -3,9 +3,9 @@ title: "Section 230 - Depositions by agents touching depredations"
 usc_title: 25
 usc_section: "230"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "25 U.S.C. § 230"
-generated_at: "2026-03-30T00:15:13.641Z"
+generated_at: "2026-03-30T00:19:08.510Z"
 ---
 
 # § 230. Depositions by agents touching depredations

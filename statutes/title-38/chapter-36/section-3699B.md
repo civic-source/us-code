@@ -3,9 +3,9 @@ title: "Section 3699B - Treatment of certain for-profit educational institutions
 usc_title: 38
 usc_section: "3699B"
 chapter: 36
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 3699B"
-generated_at: "2026-03-30T00:16:03.274Z"
+generated_at: "2026-03-30T00:20:03.456Z"
 ---
 
 # § 3699B. Treatment of certain for-profit educational institutions

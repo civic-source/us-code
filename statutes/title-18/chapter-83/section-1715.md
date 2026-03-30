@@ -3,9 +3,9 @@ title: "Section 1715 - Firearms as nonmailable; regulations"
 usc_title: 18
 usc_section: "1715"
 chapter: 83
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "18 U.S.C. § 1715"
-generated_at: "2026-03-30T00:14:51.914Z"
+generated_at: "2026-03-30T00:18:53.179Z"
 ---
 
 # § 1715. Firearms as nonmailable; regulations

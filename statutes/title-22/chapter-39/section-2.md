@@ -3,9 +3,9 @@ title: "Section 2 - “Nuclear explosive device” defined"
 usc_title: 22
 usc_section: "2"
 chapter: 39
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 2"
-generated_at: "2026-03-30T00:15:12.564Z"
+generated_at: "2026-03-30T00:19:26.910Z"
 ---
 
 # § 2799aa–2. “Nuclear explosive device” defined

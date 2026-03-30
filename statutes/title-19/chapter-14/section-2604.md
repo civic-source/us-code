@@ -3,9 +3,9 @@ title: "Section 2604 - Designation of materials covered by agreements or emergen
 usc_title: 19
 usc_section: "2604"
 chapter: 14
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 2604"
-generated_at: "2026-03-30T00:14:53.296Z"
+generated_at: "2026-03-30T00:19:01.236Z"
 ---
 
 # § 2604. Designation of materials covered by agreements or emergency actions

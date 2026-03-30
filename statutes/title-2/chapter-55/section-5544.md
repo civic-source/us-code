@@ -3,9 +3,9 @@ title: "Section 5544 - Deposit of House Information Resources reimbursements for
 usc_title: 2
 usc_section: "5544"
 chapter: 55
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 5544"
-generated_at: "2026-03-30T00:13:58.998Z"
+generated_at: "2026-03-30T00:17:40.346Z"
 ---
 
 # § 5544. Deposit of House Information Resources reimbursements for services

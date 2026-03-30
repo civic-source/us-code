@@ -3,9 +3,9 @@ title: "Section 1781 - Medical care for survivors and dependents of certain vete
 usc_title: 38
 usc_section: "1781"
 chapter: 17
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 1781"
-generated_at: "2026-03-30T00:16:03.244Z"
+generated_at: "2026-03-30T00:20:03.431Z"
 ---
 
 # § 1781. Medical care for survivors and dependents of certain veterans

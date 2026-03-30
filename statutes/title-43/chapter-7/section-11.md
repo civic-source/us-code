@@ -3,9 +3,9 @@ title: "Section 11 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21,
 usc_title: 43
 usc_section: "11"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "43 U.S.C. § 11"
-generated_at: "2026-03-30T00:16:09.754Z"
+generated_at: "2026-03-30T00:20:08.035Z"
 ---
 
 # § 270–11. Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21, 1976 , 90 Stat. 2789

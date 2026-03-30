@@ -3,9 +3,9 @@ title: "Section 10205 - Members of Ready Reserve: requirement of notification of
 usc_title: 10
 usc_section: "10205"
 chapter: 1007
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 10205"
-generated_at: "2026-03-30T00:14:10.390Z"
+generated_at: "2026-03-30T00:18:12.360Z"
 ---
 
 # § 10205. Members of Ready Reserve: requirement of notification of change of status

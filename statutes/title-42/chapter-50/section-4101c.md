@@ -3,9 +3,9 @@ title: "Section 4101c - Coordination"
 usc_title: 42
 usc_section: "4101c"
 chapter: 50
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 4101c"
-generated_at: "2026-03-30T00:16:29.432Z"
+generated_at: "2026-03-30T00:20:22.835Z"
 ---
 
 # § 4101c. Coordination

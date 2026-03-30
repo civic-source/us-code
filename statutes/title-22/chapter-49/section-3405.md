@@ -3,9 +3,9 @@ title: "Section 3405 - Contributions by other countries to support peace in the 
 usc_title: 22
 usc_section: "3405"
 chapter: 49
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 3405"
-generated_at: "2026-03-30T00:15:12.569Z"
+generated_at: "2026-03-30T00:19:26.916Z"
 ---
 
 # § 3405. Contributions by other countries to support peace in the Middle East

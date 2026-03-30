@@ -3,9 +3,9 @@ title: "Section 19401 - Findings"
 usc_title: 42
 usc_section: "19401"
 chapter: 164
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 19401"
-generated_at: "2026-03-30T00:16:29.806Z"
+generated_at: "2026-03-30T00:20:23.199Z"
 ---
 
 # § 19401. Findings

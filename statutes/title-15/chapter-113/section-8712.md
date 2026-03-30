@@ -3,9 +3,9 @@ title: "Section 8712 - Effect on other laws"
 usc_title: 15
 usc_section: "8712"
 chapter: 113
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 8712"
-generated_at: "2026-03-30T00:14:33.585Z"
+generated_at: "2026-03-30T00:18:28.211Z"
 ---
 
 # § 8712. Effect on other laws

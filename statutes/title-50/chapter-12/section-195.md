@@ -3,9 +3,9 @@ title: "Section 195 - Definitions"
 usc_title: 50
 usc_section: "195"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "50 U.S.C. § 195"
-generated_at: "2026-03-30T00:16:37.954Z"
+generated_at: "2026-03-30T00:20:29.368Z"
 ---
 
 # § 195. Definitions

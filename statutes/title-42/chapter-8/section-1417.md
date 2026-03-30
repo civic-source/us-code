@@ -3,9 +3,9 @@ title: "Section 1417 - Repealed. Pub. L. 90–448, title XVII, § 1719(b) , Aug.
 usc_title: 42
 usc_section: "1417"
 chapter: 8
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1417"
-generated_at: "2026-03-30T00:16:29.300Z"
+generated_at: "2026-03-30T00:20:22.701Z"
 ---
 
 # § 1417. Repealed. Pub. L. 90–448, title XVII, § 1719(b) , Aug. 1, 1968 , 82 Stat. 610

@@ -3,9 +3,9 @@ title: "Section 3339 - Limitation on amount of grant"
 usc_title: 42
 usc_section: "3339"
 chapter: 41
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 3339"
-generated_at: "2026-03-30T00:16:29.417Z"
+generated_at: "2026-03-30T00:20:22.820Z"
 ---
 
 # § 3339. Limitation on amount of grant

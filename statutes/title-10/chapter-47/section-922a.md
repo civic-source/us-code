@@ -3,9 +3,9 @@ title: "Section 922a - Art. 122a. Receiving stolen property"
 usc_title: 10
 usc_section: "922a"
 chapter: 47
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 922a"
-generated_at: "2026-03-30T00:14:10.255Z"
+generated_at: "2026-03-30T00:18:12.207Z"
 ---
 
 # § 922a. Art. 122a. Receiving stolen property

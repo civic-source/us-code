@@ -3,9 +3,9 @@ title: "Section 8814 - National Quantum Initiative Advisory Committee"
 usc_title: 15
 usc_section: "8814"
 chapter: 114
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 8814"
-generated_at: "2026-03-30T00:14:33.585Z"
+generated_at: "2026-03-30T00:18:28.212Z"
 ---
 
 # § 8814. National Quantum Initiative Advisory Committee
@@ -25,4 +25,4 @@ generated_at: "2026-03-30T00:14:33.585Z"
     - **(G)** whether national security, societal, economic, legal, and workforce concerns are adequately addressed by the Program.
 - **(e)** Not later than 180 days after December 21, 2018 , and at least biennially thereafter, the Advisory Committee shall submit to the President, the appropriate committees of Congress, and such other committees of Congress as the Advisory Committee deems appropriate a report on the findings of the independent assessment under subsection (d), including any recommendations for improvements to the Program.
 - **(f)** Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 , for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
-- **(g)** The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).
+- **(g)** The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.). 1 1 See References in Text note below.

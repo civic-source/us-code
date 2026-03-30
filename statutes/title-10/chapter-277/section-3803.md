@@ -3,9 +3,9 @@ title: "Section 3803 - Security for advance payments"
 usc_title: 10
 usc_section: "3803"
 chapter: 277
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 3803"
-generated_at: "2026-03-30T00:14:10.346Z"
+generated_at: "2026-03-30T00:18:12.312Z"
 ---
 
 # § 3803. Security for advance payments

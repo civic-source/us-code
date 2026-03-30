@@ -3,9 +3,9 @@ title: "Section 1737 - Tracking system for stolen passports"
 usc_title: 8
 usc_section: "1737"
 chapter: 15
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "8 U.S.C. § 1737"
-generated_at: "2026-03-30T00:14:25.915Z"
+generated_at: "2026-03-30T00:18:02.684Z"
 ---
 
 # § 1737. Tracking system for stolen passports

@@ -3,9 +3,9 @@ title: "Section 3571 - Simplified acquisition threshold"
 usc_title: 10
 usc_section: "3571"
 chapter: 251
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 3571"
-generated_at: "2026-03-30T00:14:10.342Z"
+generated_at: "2026-03-30T00:18:12.307Z"
 ---
 
 # § 3571. Simplified acquisition threshold

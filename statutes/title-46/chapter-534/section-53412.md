@@ -3,9 +3,9 @@ title: "Section 53412 - Acquisition of Fleet vessels"
 usc_title: 46
 usc_section: "53412"
 chapter: 534
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "46 U.S.C. § 53412"
-generated_at: "2026-03-30T00:16:36.546Z"
+generated_at: "2026-03-30T00:20:37.518Z"
 ---
 
 # § 53412. Acquisition of Fleet vessels

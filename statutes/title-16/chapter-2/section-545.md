@@ -3,9 +3,9 @@ title: "Section 545 - Mount Pleasant National Scenic Area; purposes"
 usc_title: 16
 usc_section: "545"
 chapter: 2
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 545"
-generated_at: "2026-03-30T00:14:59.463Z"
+generated_at: "2026-03-30T00:18:47.432Z"
 ---
 
 # § 545. Mount Pleasant National Scenic Area; purposes

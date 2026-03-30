@@ -3,9 +3,9 @@ title: "Section 300x - Formula grants to States"
 usc_title: 42
 usc_section: "300x"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 300x"
-generated_at: "2026-03-30T00:16:29.024Z"
+generated_at: "2026-03-30T00:20:22.427Z"
 ---
 
 # § 300x. Formula grants to States

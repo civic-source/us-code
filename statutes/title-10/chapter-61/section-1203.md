@@ -3,9 +3,9 @@ title: "Section 1203 - Regulars and members on active duty for more than 30 days
 usc_title: 10
 usc_section: "1203"
 chapter: 61
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1203"
-generated_at: "2026-03-30T00:14:10.278Z"
+generated_at: "2026-03-30T00:18:12.234Z"
 ---
 
 # § 1203. Regulars and members on active duty for more than 30 days: separation

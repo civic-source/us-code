@@ -3,9 +3,9 @@ title: "Section 8933 - Ocean Research Advisory Panel"
 usc_title: 10
 usc_section: "8933"
 chapter: 893
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 8933"
-generated_at: "2026-03-30T00:14:10.381Z"
+generated_at: "2026-03-30T00:18:12.351Z"
 ---
 
 # § 8933. Ocean Research Advisory Panel
@@ -24,4 +24,4 @@ generated_at: "2026-03-30T00:14:10.381Z"
   - **(5)** Any additional responsibilities that the Committee considers appropriate.
 - **(c)** The Committee shall require the Advisory Panel to meet not less frequently than two times each year.
 - **(d)** The Administrator of the National Oceanic and Atmospheric Administration shall provide to the Advisory Panel such administrative and technical support as the Advisory Panel may require.
-- **(e)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Panel shall terminate on January 1, 2040 .
+- **(e)** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. the Advisory Panel shall terminate on January 1, 2040 .

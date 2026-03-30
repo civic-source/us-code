@@ -3,9 +3,9 @@ title: "Section 1008 - Overpayments and underpayments"
 usc_title: 42
 usc_section: "1008"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 1008"
-generated_at: "2026-03-30T00:16:29.119Z"
+generated_at: "2026-03-30T00:20:22.521Z"
 ---
 
 # § 1008. Overpayments and underpayments

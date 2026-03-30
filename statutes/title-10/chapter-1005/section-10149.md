@@ -3,9 +3,9 @@ title: "Section 10149 - Ready Reserve: continuous screening"
 usc_title: 10
 usc_section: "10149"
 chapter: 1005
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 10149"
-generated_at: "2026-03-30T00:14:10.389Z"
+generated_at: "2026-03-30T00:18:12.360Z"
 ---
 
 # § 10149. Ready Reserve: continuous screening

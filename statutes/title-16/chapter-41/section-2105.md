@@ -3,9 +3,9 @@ title: "Section 2105 - Urban and community forestry assistance"
 usc_title: 16
 usc_section: "2105"
 chapter: 41
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "16 U.S.C. § 2105"
-generated_at: "2026-03-30T00:14:59.563Z"
+generated_at: "2026-03-30T00:18:47.536Z"
 ---
 
 # § 2105. Urban and community forestry assistance

@@ -3,9 +3,9 @@ title: "Section 927 - Allotment formula"
 usc_title: 20
 usc_section: "927"
 chapter: 25
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "20 U.S.C. § 927"
-generated_at: "2026-03-30T00:15:01.587Z"
+generated_at: "2026-03-30T00:18:57.939Z"
 ---
 
 # § 927. Allotment formula

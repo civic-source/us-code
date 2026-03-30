@@ -3,9 +3,9 @@ title: "Section 1315 - Effective date of rates of duty"
 usc_title: 19
 usc_section: "1315"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "19 U.S.C. § 1315"
-generated_at: "2026-03-30T00:14:53.249Z"
+generated_at: "2026-03-30T00:19:01.188Z"
 ---
 
 # § 1315. Effective date of rates of duty

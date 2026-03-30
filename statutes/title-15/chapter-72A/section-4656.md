@@ -3,9 +3,9 @@ title: "Section 4656 - Advanced microelectronics research and development"
 usc_title: 15
 usc_section: "4656"
 chapter: 72
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 4656"
-generated_at: "2026-03-30T00:14:33.546Z"
+generated_at: "2026-03-30T00:18:28.178Z"
 ---
 
 # § 4656. Advanced microelectronics research and development
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T00:14:33.546Z"
     - **(B)** the extent to which the strategy developed under subsection (a)(3) is helping maintain United States leadership in microelectronics manufacturing;
     - **(C)** assessment of the research and development programs and activities authorized under this section; and
     - **(D)** opportunities for new public-private partnerships to advance microelectronics research, development, and domestic manufacturing.
-  - **(3)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee established under this subsection.
+  - **(3)** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the advisory committee established under this subsection.
 - **(c)**
   - **(1)** Subject to the availability of appropriations for such purpose, the Secretary of Commerce, in collaboration with the Secretary of Defense, shall establish a national semiconductor technology center to conduct research and prototyping of advanced semiconductor technology and grow the domestic semiconductor workforce to strengthen the economic competitiveness and security of the domestic supply chain. Such center shall be operated as a public private-sector consortium with participation from the private sector, the Department of Energy, and the National Science Foundation. The Secretary may make financial assistance awards, including construction awards, in support of the national semiconductor technology center.
   - **(2)** The functions of the center established under paragraph (1) shall be as follows:

@@ -3,9 +3,9 @@ title: "Section 5202 - Definitions"
 usc_title: 12
 usc_section: "5202"
 chapter: 52
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 5202"
-generated_at: "2026-03-30T00:14:48.433Z"
+generated_at: "2026-03-30T00:18:37.718Z"
 ---
 
 # § 5202. Definitions

@@ -3,9 +3,9 @@ title: "Section 524 - Information on shipments to be given Chairman of National 
 usc_title: 22
 usc_section: "524"
 chapter: 10
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 524"
-generated_at: "2026-03-30T00:15:12.501Z"
+generated_at: "2026-03-30T00:19:26.850Z"
 ---
 
 # § 524. Information on shipments to be given Chairman of National Munitions Control Board

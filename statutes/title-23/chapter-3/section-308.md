@@ -3,9 +3,9 @@ title: "Section 308 - Cooperation with Federal and State agencies and foreign co
 usc_title: 23
 usc_section: "308"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "23 U.S.C. § 308"
-generated_at: "2026-03-30T00:15:10.093Z"
+generated_at: "2026-03-30T00:19:06.966Z"
 ---
 
 # § 308. Cooperation with Federal and State agencies and foreign countries

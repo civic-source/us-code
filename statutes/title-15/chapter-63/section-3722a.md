@@ -3,9 +3,9 @@ title: "Section 3722a - Regional Technology and Innovation Hub Program"
 usc_title: 15
 usc_section: "3722a"
 chapter: 63
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 3722a"
-generated_at: "2026-03-30T00:14:33.537Z"
+generated_at: "2026-03-30T00:18:28.170Z"
 ---
 
 # § 3722a. Regional Technology and Innovation Hub Program
@@ -49,7 +49,7 @@ generated_at: "2026-03-30T00:14:33.537Z"
     - **(C)** industry or firms in relevant technology, innovation, or manufacturing sectors;
     - **(D)** economic development organizations or similar entities that are focused primarily on improving science, technology, innovation, entrepreneurship, or access to capital; and
     - **(E)** labor organizations or workforce training organizations, which may include State and local workforce development boards as established under sections 3111 and 3122 of title 29; 1 and
-  - **(2)**
+  - **(2)** may include 1 or more—
     - **(A)** economic development entities with relevant expertise, including a district organization (as defined in section 300.3 of title 13, Code of Federal Regulations, or successor regulation);
     - **(B)** organizations that contribute to increasing the participation of underserved populations in science, technology, innovation, and entrepreneurship;
     - **(C)** venture development organizations;

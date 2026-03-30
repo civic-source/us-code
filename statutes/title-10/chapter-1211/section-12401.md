@@ -3,9 +3,9 @@ title: "Section 12401 - Army and Air National Guard of the United States: status
 usc_title: 10
 usc_section: "12401"
 chapter: 1211
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 12401"
-generated_at: "2026-03-30T00:14:10.395Z"
+generated_at: "2026-03-30T00:18:12.366Z"
 ---
 
 # § 12401. Army and Air National Guard of the United States: status

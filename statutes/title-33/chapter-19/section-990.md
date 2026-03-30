@@ -3,9 +3,9 @@ title: "Section 990 - Offenses and penalties"
 usc_title: 33
 usc_section: "990"
 chapter: 19
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "33 U.S.C. § 990"
-generated_at: "2026-03-30T00:15:52.421Z"
+generated_at: "2026-03-30T00:19:53.598Z"
 ---
 
 # § 990. Offenses and penalties

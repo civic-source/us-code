@@ -3,9 +3,9 @@ title: "Section 10228 - Prohibition of Federal control over State and local crim
 usc_title: 34
 usc_section: "10228"
 chapter: 101
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 10228"
-generated_at: "2026-03-30T00:15:51.176Z"
+generated_at: "2026-03-30T00:19:48.330Z"
 ---
 
 # § 10228. Prohibition of Federal control over State and local criminal justice agencies; prohibition of discrimination

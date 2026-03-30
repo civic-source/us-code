@@ -3,9 +3,9 @@ title: "Section 509 - Repealed. Pub. L. 110–403, title II, § 201(b)(1) , Oct.
 usc_title: 17
 usc_section: "509"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "17 U.S.C. § 509"
-generated_at: "2026-03-30T00:14:53.510Z"
+generated_at: "2026-03-30T00:18:42.100Z"
 ---
 
 # [§ 509. Repealed. Pub. L. 110–403, title II, § 201(b)(1) , Oct. 13, 2008 , 122 Stat. 4260 ]

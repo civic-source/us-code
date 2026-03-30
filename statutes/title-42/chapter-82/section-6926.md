@@ -3,9 +3,9 @@ title: "Section 6926 - Authorized State hazardous waste programs"
 usc_title: 42
 usc_section: "6926"
 chapter: 82
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 6926"
-generated_at: "2026-03-30T00:16:29.513Z"
+generated_at: "2026-03-30T00:20:22.910Z"
 ---
 
 # § 6926. Authorized State hazardous waste programs

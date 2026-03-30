@@ -3,9 +3,9 @@ title: "Section 3226a - Re-enrollment in alternative school by high-school dropo
 usc_title: 29
 usc_section: "3226a"
 chapter: 32
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "29 U.S.C. § 3226a"
-generated_at: "2026-03-30T00:15:31.163Z"
+generated_at: "2026-03-30T00:19:31.383Z"
 ---
 
 # § 3226a. Re-enrollment in alternative school by high-school dropout

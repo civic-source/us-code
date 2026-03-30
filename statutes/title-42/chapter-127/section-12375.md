@@ -3,9 +3,9 @@ title: "Section 12375 - Report of Conference"
 usc_title: 42
 usc_section: "12375"
 chapter: 127
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 12375"
-generated_at: "2026-03-30T00:16:29.667Z"
+generated_at: "2026-03-30T00:20:23.061Z"
 ---
 
 # § 12375. Report of Conference

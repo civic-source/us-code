@@ -3,9 +3,9 @@ title: "Section 10307 - Prohibited acts"
 usc_title: 52
 usc_section: "10307"
 chapter: 103
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "52 U.S.C. § 10307"
-generated_at: "2026-03-30T00:16:48.173Z"
+generated_at: "2026-03-30T00:20:39.415Z"
 ---
 
 # § 10307. Prohibited acts

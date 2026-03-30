@@ -3,9 +3,9 @@ title: "Section 47113 - Minority and disadvantaged business participation"
 usc_title: 49
 usc_section: "47113"
 chapter: 471
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 47113"
-generated_at: "2026-03-30T00:16:45.936Z"
+generated_at: "2026-03-30T00:20:32.928Z"
 ---
 
 # § 47113. Minority and disadvantaged business participation

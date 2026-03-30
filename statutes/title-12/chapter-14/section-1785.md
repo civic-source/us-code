@@ -3,9 +3,9 @@ title: "Section 1785 - Requirements governing insured credit unions"
 usc_title: 12
 usc_section: "1785"
 chapter: 14
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "12 U.S.C. § 1785"
-generated_at: "2026-03-30T00:14:48.347Z"
+generated_at: "2026-03-30T00:18:37.631Z"
 ---
 
 # § 1785. Requirements governing insured credit unions
@@ -69,7 +69,7 @@ generated_at: "2026-03-30T00:14:48.347Z"
         - **(I)** it has been 7 years or more since the offense occurred; or
         - **(II)** the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
       - **(ii)** For individuals who committed an offense when they were 21 years of age or younger, paragraph (1) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
-      - **(iii)** This subparagraph shall not apply to an offense described under paragraph (1)(B). 2 2 So in original. Probably should be “paragraph (2)”.
+      - **(iii)** This subparagraph shall not apply to an offense described under paragraph (1)(B). 1
     - **(B)** With respect to an individual, paragraph (1) shall not apply to an offense if—
       - **(i)** there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
       - **(ii)** it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual’s State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
@@ -89,7 +89,7 @@ generated_at: "2026-03-30T00:14:48.347Z"
     - **(C)** Consent applications filed at a regional office by an individual—
       - **(i)** shall be reviewed by such office; and
       - **(ii)** may be approved or denied by such office, if such authority has been delegated to such office by the Board, except with respect to—
-        - **(I)** cases involving an offense described under paragraph (1)(B); 2 and
+        - **(I)** cases involving an offense described under paragraph (1)(B); 1 and
         - **(II)** such other high-level security cases as may be designated by the Board.
     - **(D)** The national office of the Board shall—
       - **(i)** review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
@@ -103,13 +103,13 @@ generated_at: "2026-03-30T00:14:48.347Z"
         - **(II)** provide such record to the applicant to review for accuracy.
       - **(ii)** The Board may not require an applicant to provide certified copies of criminal history records unless the Board determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
     - **(G)** Consistent with title VII of the Civil Rights Act of 1964 ( 42 U.S.C. 2000e et seq.), the Board shall—
-      - **(i)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 3 3 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
+      - **(i)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 2 2 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
       - **(ii)** consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
       - **(iii)** consider any additional information the Board determines necessary for safety and soundness.
     - **(H)** With respect to an approved consent application filed by an insured credit union on behalf of an individual, if the Board determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Board (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
     - **(I)** In carrying out this subsection, the Board shall consult and coordinate with the Federal Deposit Insurance Corporation as needed to promote consistent implementation where appropriate.
   - **(6)** In this subsection:
-    - **(A)** The term “consent application” means an application filed with Board 3 by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
+    - **(A)** The term “consent application” means an application filed with Board 2 by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
     - **(B)** The term “criminal offense involving dishonesty”—
       - **(i)** means an offense under which an individual, directly or indirectly—
         - **(I)** cheats or defrauds; or

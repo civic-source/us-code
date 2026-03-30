@@ -3,9 +3,9 @@ title: "Section 4506 - Procurement of services: data analysis and requirements v
 usc_title: 10
 usc_section: "4506"
 chapter: 341
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 4506"
-generated_at: "2026-03-30T00:14:10.354Z"
+generated_at: "2026-03-30T00:18:12.322Z"
 ---
 
 # § 4506. Procurement of services: data analysis and requirements validation

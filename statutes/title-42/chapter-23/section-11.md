@@ -3,9 +3,9 @@ title: "Section 11 - Low-level waste"
 usc_title: 42
 usc_section: "11"
 chapter: 23
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T00:16:29.392Z"
+generated_at: "2026-03-30T00:20:22.796Z"
 ---
 
 # § 2297h–11. Low-level waste

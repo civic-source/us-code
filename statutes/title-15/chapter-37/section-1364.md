@@ -3,9 +3,9 @@ title: "Section 1364 - Annual report by designated agencies to Secretary; report
 usc_title: 15
 usc_section: "1364"
 chapter: 37
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 1364"
-generated_at: "2026-03-30T00:14:33.468Z"
+generated_at: "2026-03-30T00:18:28.105Z"
 ---
 
 # § 1364. Annual report by designated agencies to Secretary; reports by Secretary to President and Congress

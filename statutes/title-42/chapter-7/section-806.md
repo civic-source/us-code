@@ -1,14 +1,14 @@
 ---
-title: "Section 806 - Rescission of funds declined by states, territories, or other governmental entities"
+title: "Section 806 - Rescission of funds declined by States, territories, or other governmental entities"
 usc_title: 42
 usc_section: "806"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 806"
-generated_at: "2026-03-30T00:16:29.117Z"
+generated_at: "2026-03-30T00:20:22.520Z"
 ---
 
-# § 806. Rescission of funds declined by states, territories, or other governmental entities
+# § 806. Rescission of funds declined by States, territories, or other governmental entities
 
 - **(a)**
   - **(1)** Subject to paragraphs (2) and (3), if a State, territory, or other governmental entity provides notice to the Secretary of the Treasury in the manner provided by the Secretary of the Treasury that the State, territory, or other governmental entity intends to decline all or a portion of the amounts that are to be awarded to the State, territory, or other governmental entity from funds appropriated under this subchapter, an amount equal to the unaccepted amounts or portion of such amounts allocated by the Secretary of the Treasury as of the date of such notice that would have been awarded to the State, territory, or other governmental entity shall be rescinded from the applicable appropriation account.

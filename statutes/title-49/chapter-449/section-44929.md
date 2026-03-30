@@ -3,9 +3,9 @@ title: "Section 44929 - Donation of screening equipment to protect the United St
 usc_title: 49
 usc_section: "44929"
 chapter: 449
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 44929"
-generated_at: "2026-03-30T00:16:45.928Z"
+generated_at: "2026-03-30T00:20:32.921Z"
 ---
 
 # § 44929. Donation of screening equipment to protect the United States

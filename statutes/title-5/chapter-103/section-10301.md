@@ -3,9 +3,9 @@ title: "Section 10301 - Notice of employment opportunities for Department of Sta
 usc_title: 5
 usc_section: "10301"
 chapter: 103
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "5 U.S.C. § 10301"
-generated_at: "2026-03-30T00:13:52.512Z"
+generated_at: "2026-03-30T00:17:57.315Z"
 ---
 
 # § 10301. Notice of employment opportunities for Department of State and USAID positions

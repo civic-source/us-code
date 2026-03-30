@@ -3,9 +3,9 @@ title: "Section 689e - Issuance and guarantee of trust certificates"
 usc_title: 15
 usc_section: "689e"
 chapter: 14
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "15 U.S.C. § 689e"
-generated_at: "2026-03-30T00:14:33.438Z"
+generated_at: "2026-03-30T00:18:28.079Z"
 ---
 
 # § 689e. Issuance and guarantee of trust certificates

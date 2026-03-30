@@ -3,9 +3,9 @@ title: "Section 205 - Appointment and tenure of office of Surgeon General; rever
 usc_title: 42
 usc_section: "205"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 205"
-generated_at: "2026-03-30T00:16:28.891Z"
+generated_at: "2026-03-30T00:20:22.286Z"
 ---
 
 # § 205. Appointment and tenure of office of Surgeon General; reversion in rank

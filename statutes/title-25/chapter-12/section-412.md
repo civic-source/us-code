@@ -3,9 +3,9 @@ title: "Section 412 - Payment of taxes from share of allottee in tribal funds"
 usc_title: 25
 usc_section: "412"
 chapter: 12
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "25 U.S.C. § 412"
-generated_at: "2026-03-30T00:15:13.648Z"
+generated_at: "2026-03-30T00:19:08.520Z"
 ---
 
 # § 412. Payment of taxes from share of allottee in tribal funds

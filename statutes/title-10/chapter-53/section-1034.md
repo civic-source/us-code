@@ -3,9 +3,9 @@ title: "Section 1034 - Protected communications; prohibition of retaliatory pers
 usc_title: 10
 usc_section: "1034"
 chapter: 53
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 1034"
-generated_at: "2026-03-30T00:14:10.262Z"
+generated_at: "2026-03-30T00:18:12.215Z"
 ---
 
 # § 1034. Protected communications; prohibition of retaliatory personnel actions
@@ -74,7 +74,7 @@ generated_at: "2026-03-30T00:14:10.262Z"
   - **(1)** Not later than 30 days after receiving a report from the Inspector General under subsection (e), the Secretary of Homeland Security or the Secretary of the military department concerned, as applicable, shall determine whether corrective or disciplinary action should be taken. If the Secretary concerned determines that corrective or disciplinary action should be taken, the Secretary shall take appropriate corrective or disciplinary action.
   - **(2)** If the Inspector General determines that a personnel action prohibited by subsection (b) has occurred, the Secretary concerned shall—
     - **(A)** order such action as is necessary to correct the record of a personnel action prohibited by subsection (b), including referring the report to the appropriate board for the correction of military records; and
-    - **(B)** submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 1 1 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.).
+    - **(B)** submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
   - **(3)** If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
     - **(A)** provide to the Secretary of Defense and the member or former member a notice of the determination and the reasons for not taking action; and
     - **(B)** when appropriate, refer the report to the appropriate board for the correction of military records for further review under subsection (g).

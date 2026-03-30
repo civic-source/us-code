@@ -3,9 +3,9 @@ title: "Section 3382 - Purposes"
 usc_title: 22
 usc_section: "3382"
 chapter: 48
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "22 U.S.C. § 3382"
-generated_at: "2026-03-30T00:15:12.568Z"
+generated_at: "2026-03-30T00:19:26.915Z"
 ---
 
 # § 3382. Purposes

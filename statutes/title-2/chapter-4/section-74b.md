@@ -3,9 +3,9 @@ title: "Section 74b - Transferred"
 usc_title: 2
 usc_section: "74b"
 chapter: 4
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 74b"
-generated_at: "2026-03-30T00:13:58.925Z"
+generated_at: "2026-03-30T00:17:40.291Z"
 ---
 
 # § 74b. Transferred

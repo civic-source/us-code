@@ -3,9 +3,9 @@ title: "Section 9833 - Regulations"
 usc_title: 26
 usc_section: "9833"
 chapter: 100
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 9833"
-generated_at: "2026-03-30T00:15:47.953Z"
+generated_at: "2026-03-30T00:19:39.309Z"
 ---
 
 # § 9833. Regulations

@@ -3,9 +3,9 @@ title: "Section 1009 - Repealed. Oct. 31, 1951, ch. 655, § 56(d) , 65 Stat. 729
 usc_title: 48
 usc_section: "1009"
 chapter: 5
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "48 U.S.C. § 1009"
-generated_at: "2026-03-30T00:16:35.563Z"
+generated_at: "2026-03-30T00:20:26.305Z"
 ---
 
 # § 1009. Repealed. Oct. 31, 1951, ch. 655, § 56(d) , 65 Stat. 729

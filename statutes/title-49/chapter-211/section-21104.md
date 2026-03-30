@@ -3,9 +3,9 @@ title: "Section 21104 - Limitations on duty hours of signal employees"
 usc_title: 49
 usc_section: "21104"
 chapter: 211
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "49 U.S.C. § 21104"
-generated_at: "2026-03-30T00:16:45.875Z"
+generated_at: "2026-03-30T00:20:32.870Z"
 ---
 
 # § 21104. Limitations on duty hours of signal employees

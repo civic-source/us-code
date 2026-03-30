@@ -3,9 +3,9 @@ title: "Section 273 - Organ procurement organizations"
 usc_title: 42
 usc_section: "273"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 273"
-generated_at: "2026-03-30T00:16:28.934Z"
+generated_at: "2026-03-30T00:20:22.329Z"
 ---
 
 # § 273. Organ procurement organizations
@@ -33,7 +33,7 @@ generated_at: "2026-03-30T00:16:28.934Z"
       - **(i)** is composed of—
         - **(I)** members who represent hospital administrators, intensive care or emergency room personnel, tissue banks, and voluntary health associations in its service area,
         - **(II)** members who represent the public residing in such area,
-        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatability 3 3 So in original. Probably should be “histocompatibility”. or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
+        - **(III)** a physician with knowledge, experience, or skill in the field of histocompatibility or an individual with a doctorate degree in a biological science with knowledge, experience, or skill in the field of histocompatibility,
         - **(IV)** a physician with knowledge or skill in the field of neurology, and
         - **(V)** from each transplant center in its service area which has arrangements described in paragraph (3)(G) with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
       - **(ii)** has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (3), and

@@ -3,9 +3,9 @@ title: "Section 779 - Use of appropriations"
 usc_title: 31
 usc_section: "779"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "31 U.S.C. § 779"
-generated_at: "2026-03-30T00:15:55.070Z"
+generated_at: "2026-03-30T00:19:49.126Z"
 ---
 
 # § 779. Use of appropriations

@@ -3,9 +3,9 @@ title: "Section 6615b - Quadrennial science and technology review"
 usc_title: 42
 usc_section: "6615b"
 chapter: 79
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 6615b"
-generated_at: "2026-03-30T00:16:29.502Z"
+generated_at: "2026-03-30T00:20:22.901Z"
 ---
 
 # § 6615b. Quadrennial science and technology review

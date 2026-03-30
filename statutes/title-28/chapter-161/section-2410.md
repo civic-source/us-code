@@ -3,9 +3,9 @@ title: "Section 2410 - Actions affecting property on which United States has lie
 usc_title: 28
 usc_section: "2410"
 chapter: 161
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "28 U.S.C. § 2410"
-generated_at: "2026-03-30T00:15:29.258Z"
+generated_at: "2026-03-30T00:19:45.374Z"
 ---
 
 # § 2410. Actions affecting property on which United States has lien

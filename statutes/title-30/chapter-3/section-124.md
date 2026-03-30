@@ -3,9 +3,9 @@ title: "Section 124 - Agricultural entry or purchase of lands withdrawn or class
 usc_title: 30
 usc_section: "124"
 chapter: 3
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "30 U.S.C. § 124"
-generated_at: "2026-03-30T00:15:23.779Z"
+generated_at: "2026-03-30T00:19:29.551Z"
 ---
 
 # § 124. Agricultural entry or purchase of lands withdrawn or classified as containing sodium or sulphur

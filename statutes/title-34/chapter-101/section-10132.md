@@ -3,9 +3,9 @@ title: "Section 10132 - Bureau of Justice Statistics"
 usc_title: 34
 usc_section: "10132"
 chapter: 101
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "34 U.S.C. § 10132"
-generated_at: "2026-03-30T00:15:51.174Z"
+generated_at: "2026-03-30T00:19:48.326Z"
 ---
 
 # § 10132. Bureau of Justice Statistics

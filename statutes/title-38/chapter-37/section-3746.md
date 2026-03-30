@@ -3,9 +3,9 @@ title: "Section 3746 - Maturity of loans"
 usc_title: 38
 usc_section: "3746"
 chapter: 37
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "38 U.S.C. § 3746"
-generated_at: "2026-03-30T00:16:03.280Z"
+generated_at: "2026-03-30T00:20:03.459Z"
 ---
 
 # § 3746. Maturity of loans

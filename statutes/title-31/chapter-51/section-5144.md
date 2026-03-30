@@ -3,9 +3,9 @@ title: "Section 5144 - Providing impressions of portraits and vignettes"
 usc_title: 31
 usc_section: "5144"
 chapter: 51
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "31 U.S.C. § 5144"
-generated_at: "2026-03-30T00:15:55.093Z"
+generated_at: "2026-03-30T00:19:49.149Z"
 ---
 
 # § 5144. Providing impressions of portraits and vignettes

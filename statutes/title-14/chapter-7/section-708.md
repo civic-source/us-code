@@ -3,9 +3,9 @@ title: "Section 708 - Department of Health and Human Services"
 usc_title: 14
 usc_section: "708"
 chapter: 7
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "14 U.S.C. § 708"
-generated_at: "2026-03-30T00:14:28.570Z"
+generated_at: "2026-03-30T00:18:33.423Z"
 ---
 
 # § 708. Department of Health and Human Services

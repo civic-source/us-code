@@ -3,9 +3,9 @@ title: "Section 2922i - Multiyear contracts: purchase of electricity from renewa
 usc_title: 10
 usc_section: "2922i"
 chapter: 173
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 2922i"
-generated_at: "2026-03-30T00:14:10.336Z"
+generated_at: "2026-03-30T00:18:12.300Z"
 ---
 
 # § 2922i. Multiyear contracts: purchase of electricity from renewable energy sources

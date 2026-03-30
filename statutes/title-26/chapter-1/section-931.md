@@ -3,9 +3,9 @@ title: "Section 931 - Income from sources within Guam, American Samoa, or the No
 usc_title: 26
 usc_section: "931"
 chapter: 1
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "26 U.S.C. § 931"
-generated_at: "2026-03-30T00:15:47.802Z"
+generated_at: "2026-03-30T00:19:39.156Z"
 ---
 
 # § 931. Income from sources within Guam, American Samoa, or the Northern Mariana Islands

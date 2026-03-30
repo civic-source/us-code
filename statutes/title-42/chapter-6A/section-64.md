@@ -3,9 +3,9 @@ title: "Section 64 - Additional required agreements"
 usc_title: 42
 usc_section: "64"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "42 U.S.C. § 64"
-generated_at: "2026-03-30T00:16:29.042Z"
+generated_at: "2026-03-30T00:20:22.444Z"
 ---
 
 # § 300ff–64. Additional required agreements

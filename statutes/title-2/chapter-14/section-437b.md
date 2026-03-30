@@ -3,9 +3,9 @@ title: "Section 437b - Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 
 usc_title: 2
 usc_section: "437b"
 chapter: 14
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "2 U.S.C. § 437b"
-generated_at: "2026-03-30T00:13:58.935Z"
+generated_at: "2026-03-30T00:17:40.301Z"
 ---
 
 # § 437b. Repealed. Pub. L. 96–187, title I, § 105(1) , Jan. 8, 1980 , 93 Stat. 1354

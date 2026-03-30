@@ -3,9 +3,9 @@ title: "Section 601 - Repealed. Pub. L. 111–295, § 4(a) , Dec. 9, 2010 , 124 
 usc_title: 17
 usc_section: "601"
 chapter: 6
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "17 U.S.C. § 601"
-generated_at: "2026-03-30T00:14:53.511Z"
+generated_at: "2026-03-30T00:18:42.100Z"
 ---
 
 # [§ 601. Repealed. Pub. L. 111–295, § 4(a) , Dec. 9, 2010 , 124 Stat. 3180 ]

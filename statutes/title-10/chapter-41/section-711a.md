@@ -3,9 +3,9 @@ title: "Section 711a - American National Red Cross: detail of commissioned offic
 usc_title: 10
 usc_section: "711a"
 chapter: 41
-current_through: "PL 118-10"
+current_through: "PL 118-14"
 classification: "10 U.S.C. § 711a"
-generated_at: "2026-03-30T00:14:10.247Z"
+generated_at: "2026-03-30T00:18:12.198Z"
 ---
 
 # § 711a. American National Red Cross: detail of commissioned officers
