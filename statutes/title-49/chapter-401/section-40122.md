@@ -3,9 +3,9 @@ title: "Section 40122 - Federal Aviation Administration personnel management sys
 usc_title: 49
 usc_section: "40122"
 chapter: 401
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 40122"
-generated_at: "2026-03-30T07:47:24.828Z"
+generated_at: "2026-03-30T07:50:15.322Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ status: "active"
   - **(1)** In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996 , a personnel management system for the Administration that addresses the unique demands on the agency’s workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
   - **(2)** The provisions of title 5 shall not apply to the new personnel management system developed and implemented pursuant to paragraph (1), with the exception of—
     - **(A)** section 2302(b), relating to whistleblower protection, including the provisions for investigation and enforcement as provided in chapter 12 of title 5;
-    - **(B)** sections 3308–3320, relating to veterans’ preference;
+    - **(B)** sections 3304(f), to the extent consistent with the Federal Aviation Administration’s status as an excepted service agency, 3308–3320, 3330a, 3330b, 3330c, and 3330d, relating to veterans’ preference;
     - **(C)** chapter 71, relating to labor-management relations;
     - **(D)** section 7204, relating to antidiscrimination;
     - **(E)** chapter 73, relating to suitability, security, and conduct;

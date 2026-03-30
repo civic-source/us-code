@@ -3,9 +3,9 @@ title: "Section 919 - Art. 119. Manslaughter"
 usc_title: 10
 usc_section: "919"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 919"
-generated_at: "2026-03-30T07:45:51.261Z"
+generated_at: "2026-03-30T07:48:43.901Z"
 status: "active"
 ---
 

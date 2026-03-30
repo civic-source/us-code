@@ -3,9 +3,9 @@ title: "Section 76f - Appointment, compensation, and duties of Director of Galle
 usc_title: 20
 usc_section: "76f"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 76f"
-generated_at: "2026-03-30T07:46:11.779Z"
+generated_at: "2026-03-30T07:48:57.294Z"
 status: "active"
 ---
 

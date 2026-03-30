@@ -3,9 +3,9 @@ title: "Section 2313b - Performance of incurred cost audits"
 usc_title: 10
 usc_section: "2313b"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2313b"
-generated_at: "2026-03-30T07:45:51.346Z"
+generated_at: "2026-03-30T07:48:43.951Z"
 status: "active"
 ---
 
@@ -19,6 +19,8 @@ status: "active"
     - **(C)** maintain an appropriate mix of Government and private sector capacity to meet the current and future needs of the Department of Defense for the performance of incurred cost audits;
     - **(D)** ensure that qualified private auditors perform incurred cost audits on an ongoing basis to improve the efficiency and effectiveness of the performance of incurred cost audits; and
     - **(E)** limit multiyear auditing to ensure that multiyear auditing is conducted only—
+      - **(i)** to address outstanding incurred cost audits for which a qualified incurred cost submission was submitted to the Defense Contract Audit Agency more than 12 months before the date of the enactment of this section; or
+      - **(ii)** when the contractor being audited submits a written request, including a justification for the use of multiyear auditing, to the Under Secretary of Defense (Comptroller).
   - **(2)** The Secretary of Defense shall consult with Federal agencies that have awarded contracts or task orders to qualified private auditors to ensure that the Department of Defense is using, as appropriate, best practices relating to contracting with qualified private auditors.
   - **(3)** The Secretary of Defense shall ensure that a qualified private auditor performing an incurred cost audit under this section—
     - **(A)** has no conflict of interest in performing such an audit, as defined by generally accepted government auditing standards;

@@ -3,9 +3,9 @@ title: "Section 629a - Definitions"
 usc_title: 42
 usc_section: "629a"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 629a"
-generated_at: "2026-03-30T07:46:59.834Z"
+generated_at: "2026-03-30T07:50:06.767Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(5)** The term “Indian tribe” has the meaning given the term in section 628(c) of this title .
   - **(6)** The term “tribal organization” has the meaning given the term in section 628(c) of this title .
   - **(7)**
-    - **(A)** The term “time-limited family reunification services” means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child’s home and placed in a foster family home or a child care institution and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion, but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title , is considered to have entered foster care.
+    - **(A)** The term “family reunification services” means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child’s home and placed in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.
     - **(B)** The services and activities described in this subparagraph are the following:
       - **(i)** Individual, group, and family counseling.
       - **(ii)** Inpatient, residential, or outpatient substance abuse treatment services.

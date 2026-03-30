@@ -3,9 +3,9 @@ title: "Section 2507a - Sexual assault risk-reduction and response training"
 usc_title: 22
 usc_section: "2507a"
 chapter: 34
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2507a"
-generated_at: "2026-03-30T07:46:23.124Z"
+generated_at: "2026-03-30T07:49:19.039Z"
 status: "active"
 ---
 
@@ -14,7 +14,15 @@ status: "active"
 - **(a)** As part of the training provided to all volunteers under section 2507(a) of this title , the President shall develop and implement comprehensive sexual assault risk-reduction and response training that, to the extent practicable, conforms to best practices in the sexual assault field.
 - **(b)** In developing the sexual assault risk-reduction and response training under subsection (a), the President shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
 - **(c)** Once a volunteer has arrived in his or her country of service, the President shall provide the volunteer with training tailored to the country of service that includes cultural training relating to gender relations, risk-reduction strategies, treatment available in such country (including sexual assault forensic exams, post-exposure prophylaxis (PEP) for HIV exposure, screening for sexually transmitted diseases, and pregnancy testing), MedEvac procedures, and information regarding a victim’s right to pursue legal action against a perpetrator.
-- **(d)** Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.
+- **(d)**
+  - **(1)** Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
+    - **(A)** an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
+    - **(B)** the current early termination rate of volunteers serving in such country;
+    - **(C)** health risks prevalent in such country;
+    - **(D)** the nature and frequency of sexual harassment reported by volunteers serving in such country;
+    - **(E)** the extent and types of services provided by the Peace Corps to volunteers serving in such country, including access to medical care, counseling services, and assistance from the Office of Victim Advocacy; and
+    - **(F)** the level of satisfaction reported by volunteers serving in such country.
+  - **(2)** Upon receiving information 1 1 So in original. Probably should be preceded by “the”. described in paragraph (1), the applicant shall have the option to change the country of consideration and identify a substitute country.
 - **(e)** The President shall provide each applicant, before the applicant enrolls as a volunteer, with—
   - **(1)** the contact information of the Inspector General of the Peace Corps for purposes of reporting sexual assault mismanagement or any other mismanagement, misconduct, wrongdoing, or violations of law or policy whenever it involves a Peace Corps employee, volunteer, contractor, or outside party that receives funds from the Peace Corps;
   - **(2)** clear, written guidelines regarding whom to contact, including the direct telephone number for the designated Sexual Assault Response Liaison (SARL) and the Office of Victim Advocacy and what steps to take in the event of a sexual assault or other crime; and
@@ -34,7 +42,7 @@ status: "active"
     - **(B)** In cases in which volunteers elect restricted reporting, disclosure of their personally identifying information is authorized to the following persons or organizations when disclosure would be for the following reasons:
       - **(i)** Peace Corps staff or law enforcement when authorized by the victim in writing.
       - **(ii)** Peace Corps staff or law enforcement to prevent or lessen a serious or imminent threat to the health or safety of the victim or another person.
-      - **(iii)** SARLs, victim advocates or healthcare providers when required for the provision of victim services.
+      - **(iii)** SARLs, Victim’s Advocates, or healthcare providers when required for the provision of victim services.
       - **(iv)** State and Federal courts when ordered, or if disclosure is required by Federal or State statute.
     - **(C)** In cases in which information is disclosed pursuant to subparagraph (B), the President shall—
       - **(i)** make reasonable attempts to provide notice to the volunteer with respect to whom such information is being released; and

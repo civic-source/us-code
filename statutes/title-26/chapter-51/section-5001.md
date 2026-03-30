@@ -3,9 +3,9 @@ title: "Section 5001 - Imposition, rate, and attachment of tax"
 usc_title: 26
 usc_section: "5001"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 5001"
-generated_at: "2026-03-30T07:46:33.369Z"
+generated_at: "2026-03-30T07:49:37.173Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
 - **(c)**
   - **(1)** In the case of a distilled spirits operation, the otherwise applicable tax rate under subsection (a)(1) shall be—
     - **(A)** $2.70 per proof gallon on the first 100,000 proof gallons of distilled spirits, and
-    - **(B)** $13.34 per proof gallon on the first 22,130,000 of proof gallons of distilled spirits to which subparagraph (A) does not apply,
+    - **(B)** $13.34 per proof gallon on the first 22,130,000 of 1 1 So in original. proof gallons of distilled spirits to which subparagraph (A) does not apply,
   - **(2)**
     - **(A)** In the case of a controlled group, the proof gallon quantities specified under subparagraphs (A) and (B) of paragraph (1) shall be applied to such group and apportioned among the members of such group in such manner as the Secretary or their delegate shall by regulations prescribe.
     - **(B)** For purposes of subparagraph (A), the term “controlled group” shall have the meaning given such term by subsection (a) of section 1563, except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in such subsection.

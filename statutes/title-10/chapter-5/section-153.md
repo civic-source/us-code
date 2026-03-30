@@ -3,9 +3,9 @@ title: "Section 153 - Chairman: functions"
 usc_title: 10
 usc_section: "153"
 chapter: 5
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 153"
-generated_at: "2026-03-30T07:45:51.214Z"
+generated_at: "2026-03-30T07:48:43.870Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
     - **(A)** developing doctrine for the joint employment of the armed forces;
     - **(B)** formulating policies and technical standards, and executing actions, for the joint training of the armed forces;
     - **(C)** formulating policies for coordinating the military education of members of the armed forces;
-    - **(D)** formulating policies for concept development and experimentation for the joint employment of the armed forces;
+    - **(D)** formulating policies for development and experimentation on both urgent and long-term concepts for joint force employment, including establishment of a process within the Joint Staff for analyzing and prioritizing gaps in capabilities that could potentially be addressed by joint concept development using existing or modified joint force capabilities;
     - **(E)** formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces; and
     - **(F)** advising the Secretary on development of joint command, control, communications, and cybercapability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
   - **(7)** In other matters—
@@ -60,7 +60,7 @@ status: "active"
     - **(D)** At a minimum, each National Military Strategy (or update) submitted under this paragraph shall—
       - **(i)** assess the strategic environment, threats, opportunities, and challenges that affect the national security of the United States;
       - **(ii)** assess military ends, ways, and means to support the objectives referred to in subparagraph (C);
-      - **(iii)** provide the framework for the assessment by the Chairman of military strategic and operational risks, and for the development of risk mitigation options;
+      - **(iii)** provide the framework for the assessment by the Chairman of military risk, and for the development of risk mitigation options;
       - **(iv)** develop military options to address threats and opportunities;
       - **(v)** assess joint force capabilities, capacities, and resources; and
       - **(vi)** establish military guidance for the development of the joint force and the total force building on guidance by the President and the Secretary of Defense as referred to in subparagraph (C).
@@ -68,7 +68,7 @@ status: "active"
     - **(A)** The Chairman shall prepare each year an assessment of the risks associated with the most current National Military Strategy (or update) under paragraph (1). The risk assessment shall be known as the “Risk Assessment of the Chairman of the Joint Chiefs of Staff”. The Chairman shall complete preparation of the Risk Assessment in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion in the report of the Secretary of Defense, if any, under paragraph (4).
     - **(B)** The Risk Assessment shall do the following:
       - **(i)** As the Chairman considers appropriate, update any changes to the strategic environment, threats, objectives, force planning and sizing constructs, assessments, and assumptions that informed the National Military Strategy (or update) required by this section.
-      - **(ii)** Identify and define the military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).
+      - **(ii)** Identify and define the military strategic risks to United States interests and military risks in executing the National Military Strategy (or update).
       - **(iii)** Identify and define levels of risk, including an identification of what constitutes “significant” risk in the judgment of the Chairman.
       - **(iv)**
         - **(I)** Identify and assess risk in the National Military Strategy (or update) by category and level and the ways in which risk might manifest itself, including how risk is projected to increase, decrease, or remain stable over time; and

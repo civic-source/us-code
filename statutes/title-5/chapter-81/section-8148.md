@@ -3,9 +3,9 @@ title: "Section 8148 - Forfeiture of benefits by convicted felons"
 usc_title: 5
 usc_section: "8148"
 chapter: 81
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 8148"
-generated_at: "2026-03-30T07:45:39.145Z"
+generated_at: "2026-03-30T07:48:04.606Z"
 status: "active"
 ---
 

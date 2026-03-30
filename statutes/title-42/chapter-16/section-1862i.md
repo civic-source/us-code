@@ -3,9 +3,9 @@ title: "Section 1862i - Scientific and technical education"
 usc_title: 42
 usc_section: "1862i"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1862i"
-generated_at: "2026-03-30T07:47:00.039Z"
+generated_at: "2026-03-30T07:50:06.958Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** the development of model instructional programs in advanced-technology fields and in core science and mathematics courses;
   - **(2)** the professional development of faculty and instructors, both full- and part-time, who provide instruction in science, mathematics, and advanced-technology fields;
   - **(3)** the establishment of innovative partnership arrangements that—
-    - **(A)** involve associate-degree-granting colleges and other appropriate public and private sector entities, 1 1 So in original. The comma probably should be a semicolon.
+    - **(A)** involve associate-degree-granting colleges and other appropriate public and private sector entities;
     - **(B)** provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs; and
     - **(C)** encourage participation of individuals identified in section 1885a or 1885b of this title;
   - **(4)** the acquisition of state-of-the-art instrumentation essential to programs designed to prepare and upgrade students in scientific and advanced-technology fields; and
@@ -38,20 +38,57 @@ status: "active"
   - **(2)** The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
   - **(3)** The Director shall—
     - **(A)** establish a program to encourage and make grants available to institutions of higher education that award associate degrees to recruit and train individuals from the fields of science, technology, engineering, and mathematics to mentor students who are described in section 1885a or 1885b of this title in order to assist those students in identifying, qualifying for, and entering higher-paying technical jobs in those fields; and
-    - **(B)** make grants available to associate-degree-granting colleges to carry out the program identified in subsection 2 2 So in original. Probably should be “subparagraph”. (A).
-- **(d)** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [ 20 U.S.C. 1011 et seq.].
-- **(e)** To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
-- **(f)** In carrying out sections 1862h to 1862j of this title, the Director shall—
+    - **(B)** make grants available to associate-degree-granting colleges to carry out the program identified in subsection 1 1 So in original. Probably should be “subparagraph”. (A).
+- **(d)**
+  - **(1)** The Director shall award grants to junior or community colleges to develop or improve associate degree or certificate programs in STEM fields, with respect to the region in which the respective college is located, and an in-demand industry sector or occupation.
+  - **(2)** In considering applications for grants under paragraph (1), the Director shall prioritize—
+    - **(A)** applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia, 2 2 So in original. or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
+    - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
+    - **(C)** applications that include commitments by the partnering employers or employer consortia, or industry or sector partnerships, to offer apprenticeships, internships, or other applied learning opportunities to students enrolled in the proposed associate degree or certificate program;
+    - **(D)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields in the proposed associate degree or certificate program; and
+    - **(E)** applications that describe how the applying junior or community college will support the collection of information and data for purposes of evaluation of the proposed associate degree or certificate program.
+- **(e)**
+  - **(1)** The Director shall award grants to institutions of higher education partnering with private sector employers or private sector employer consortia, or industry or sector partnerships, that commit to offering apprenticeships, internships, research opportunities, or applied learning experiences to enrolled students in identified STEM baccalaureate degree programs.
+  - **(2)** Awards under this subsection may be used—
+    - **(A)** to develop curricula and programs for apprenticeship, internships, research opportunities, or applied learning experiences; or
+    - **(B)** to provide matching funds to incentivize partnership and participation by private sector employers and industry.
+  - **(3)** In considering applications for grants under paragraph (1), the Director shall prioritize—
+    - **(A)** applicants that consist of a partnership between—
+      - **(i)** the applying institution of higher education; and
+      - **(ii)** individual employers or an employer consortia, 2 or industry or sector partnerships;
+    - **(B)** applications that demonstrate current and future workforce demand in occupations directly related to the identified STEM fields;
+    - **(C)** applications that include outreach plans and goals for recruiting and enrolling women and other underrepresented populations in STEM fields; and
+    - **(D)** applications that describe how the institution of higher education will support the collection and information of data for purposes of the evaluation of identified STEM degree programs.
+- **(f)**
+  - **(1)** The Director of the National Science Foundation shall award competitive grants to institutions of higher education or nonprofit organizations to conduct research on student outcomes and determine best practices for STEM education and technical skills education through distance learning or in a simulated work environment.
+  - **(2)** The research areas eligible for funding under this subsection may include—
+    - **(A)** post-secondary courses for technical skills development for STEM occupations;
+    - **(B)** improving high-school level career and technical education in STEM subjects;
+    - **(C)** encouraging and sustaining interest and achievement levels in STEM subjects among women and other populations historically underrepresented in STEM studies and careers; and
+    - **(D)** combining computer-based and online STEM education and skills development with traditional mentoring and other mentoring arrangements, apprenticeships, internships, and other applied learning opportunities.
+- **(g)** In carrying out this section, the Director shall consult, cooperate, and coordinate, to enhance program effectiveness and to avoid duplication, with the programs and policies of other relevant Federal agencies. In carrying out subsection (c), the Director shall coordinate activities with programs receiving assistance under part B of title I of the Higher Education Act of 1965 [ 20 U.S.C. 1011 et seq.].
+- **(h)**
+  - **(1)** The Director shall allocate out of amounts made available for the Education and Human Resources Directorate—
+    - **(A)** up to $5,000,000 to carry out the activities under subsection (d) for each of fiscal years 2019 through 2022, subject to the availability of appropriations;
+    - **(B)** up to $2,500,000 to carry out the activities under subsection (e) for each of fiscal years 2019 through 2022, subject to the availability of appropriations; and
+    - **(C)** up to $2,500,000 to carry out the activities under subsection (f) for each of fiscal years 2019 through 2022, subject to the availability of appropriations.
+  - **(2)** Amounts made available to carry out subsections (d), (e), and (f) shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+  - **(3)** To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+- **(i)** In carrying out sections 1862h to 1862j of this title, the Director shall—
   - **(1)** award grants on a competitive, merit basis;
   - **(2)** ensure an equitable geographic distribution of grant awards;
   - **(3)** ensure that an applicant for a grant awarded under subsection (a), (b), or (c)(1) will make an in-cash or in-kind contribution in an amount equal to at least 25 percent of the cost of the program, and for a grant awarded under subsection (c)(2) will make an in-cash or in-kind contribution in an amount at least equal to the amount of the grant award;
   - **(4)** establish and maintain a readily accessible inventory of the programs assisted under sections 1862h to 1862j of this title; and
   - **(5)** designate an officer of the National Science Foundation to serve as a liaison with associate-degree-granting institutions for the purpose of enhancing the role of such institutions in the activities of the Foundation.
-- **(g)** As used in this section—
+- **(j)** As used in this section—
   - **(1)** the term “advanced-technology” includes advanced technical activities such as the modernization, miniaturization, integration, and computerization of electronic, hydraulic, pneumatic, laser, nuclear, chemical, telecommunication, fiber optic, robotic, and other technological applications to enhance productivity improvements in manufacturing, communication, transportation, commercial, and similar economic and national security activities;
   - **(2)** the term “associate-degree-granting college” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 [ 20 U.S.C. 1001 ]) that—
     - **(A)** is a nonprofit institution that offers a 2-year associate-degree program or a 2-year certificate program; or
     - **(B)** is a proprietary institution that offers a 2-year associate-degree program;
   - **(3)** the term “bachelor-degree-granting institution” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 [ 20 U.S.C. 1001 ]) that offers a baccalaureate degree program;
-  - **(4)** the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions; and
-  - **(5)** the term “local educational agency” has the meaning given such term in section 2891(12) 3 3 See References in Text note below. of title 20.
+  - **(4)** the term “eligible partnership” means one or more associate-degree-granting colleges in partnership with one or more separate bachelor-degree-granting institutions;
+  - **(5)** the term “in-demand industry sector or occupation” has the meaning given the term in section 3102 of title 29 ;
+  - **(6)** the term “junior or community college” has the meaning given the term in section 312 of the Higher Education Act of 1965 ( 20 U.S.C. 1058 );
+  - **(7)** the term “local educational agency” has the meaning given such term in section 2891(12) 3 3 See References in Text note below. of title 20. 4 4 So in original. The period probably should be a semicolon.
+  - **(8)** the term “region” means a labor market area, as that term is defined in section 3102 of title 29 ; and
+  - **(9)** the terms “mathematics, science, engineering, or technology” or “STEM” mean science, technology, engineering, and mathematics, including computer science.

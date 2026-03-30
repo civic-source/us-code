@@ -3,9 +3,9 @@ title: "Section 336 - Contracting bonus for cadets and midshipmen enrolled in th
 usc_title: 37
 usc_section: "336"
 chapter: 5
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "37 U.S.C. § 336"
-generated_at: "2026-03-30T07:46:40.513Z"
+generated_at: "2026-03-30T07:49:44.395Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
 - **(d)** Upon acceptance of a written agreement under subsection (a) by the Secretary concerned, the total amount of the bonus payable under the agreement becomes fixed. The agreement shall specify when the bonus will be paid and whether the bonus will be paid in a lump sum or in installments.
 - **(e)** A person who, having received all or part of a bonus under subsection (a), fails to fulfill the terms of the written agreement required by such subsection for receipt of the bonus shall be subject to the repayment provisions of section 373 of this title .
 - **(f)** The Secretary concerned shall issue such regulations as may be necessary to carry out this section.
-- **(g)** No agreement under this section may be entered into after December 31, 2018 .
+- **(g)** No agreement under this section may be entered into after December 31, 2019 .

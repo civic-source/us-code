@@ -3,9 +3,9 @@ title: "Section 2304a - Task and delivery order contracts: general authority"
 usc_title: 10
 usc_section: "2304a"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2304a"
-generated_at: "2026-03-30T07:45:51.342Z"
+generated_at: "2026-03-30T07:48:43.948Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(B)** if the solicitation states that the head of the agency has the option to do so, to award separate task or delivery order contracts for the same or similar services or property to two or more sources.
   - **(2)** No determination under section 2304(b) of this title is required for award of multiple task or delivery order contracts under paragraph (1)(B).
   - **(3)** No task or delivery order contract in an amount estimated to exceed $100,000,000 (including all options) may be awarded to a single source unless the head of the agency determines in writing that—
-    - **(A)** the task or delivery orders expected under the contract are so integrally related that only a single source can reasonably perform the work;
+    - **(A)** the task or delivery orders expected under the contract are so integrally related that only a single source can efficiently perform the work;
     - **(B)** the contract provides only for firm, fixed price task orders or delivery orders for—
       - **(i)** products for which unit prices are established in the contract; or
       - **(ii)** services for which prices are established in the contract for the specific tasks to be performed;

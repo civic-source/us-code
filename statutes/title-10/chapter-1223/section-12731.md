@@ -3,9 +3,9 @@ title: "Section 12731 - Age and service requirements"
 usc_title: 10
 usc_section: "12731"
 chapter: 1223
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 12731"
-generated_at: "2026-03-30T07:45:51.464Z"
+generated_at: "2026-03-30T07:48:44.012Z"
 status: "active"
 ---
 
@@ -37,6 +37,6 @@ status: "active"
       - **(i)** Service on active duty described in this subparagraph is service on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) or under section 12301(d) of this title . Such service does not include service on active duty pursuant to a call or order to active duty under section 12310 of this title .
       - **(ii)** Active service described in this subparagraph is also service under a call to active service authorized by the President or the Secretary of Defense under section 502(f) of title 32 for purposes of responding to a national emergency declared by the President or supported by Federal funds.
       - **(iii)** If a member described in subparagraph (A) is wounded or otherwise injured or becomes ill while serving on active duty pursuant to a call or order to active duty under a provision of law referred to in the first sentence of clause (i) or in clause (ii), and the member is then ordered to active duty under section 12301(h)(1) of this title to receive medical care for the wound, injury, or illness, each day of active duty under that order for medical care shall be treated as a continuation of the original call or order to active duty for purposes of reducing the eligibility age of the member under this paragraph.
-      - **(iv)** Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
+      - **(iv)** Service on active duty described in this subparagraph is also service on active duty pursuant to a call or order to active duty authorized by the Secretary of Homeland Security under section 712 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 for purposes of emergency augmentation of the Regular Coast Guard forces.
     - **(C)** The eligibility age for purposes of subsection (a)(1) may not be reduced below 50 years of age for any person under subparagraph (A).
   - **(3)** The Secretary concerned shall periodically notify each member of the Ready Reserve described by paragraph (2) of the current eligibility age for retired pay of such member under this section, including any reduced eligibility age by reason of the operation of that paragraph. Notice shall be provided by such means as the Secretary considers appropriate taking into account the cost of provision of notice and the convenience of members.

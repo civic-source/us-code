@@ -3,9 +3,9 @@ title: "Section 16538 - Advanced Research Projects Agency—Energy"
 usc_title: 42
 usc_section: "16538"
 chapter: 149
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 16538"
-generated_at: "2026-03-30T07:47:00.360Z"
+generated_at: "2026-03-30T07:50:07.284Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** In this section:
   - **(1)** The term “ARPA–E” means the Advanced Research Projects Agency—Energy established by subsection (b).
   - **(2)** The term “Director” means the Director of ARPA-E appointed under subsection (d).
-  - **(3)** The term “Fund” means the Energy Transformation Acceleration Fund established under subsection (n)(1).
+  - **(3)** The term “Fund” means the Energy Transformation Acceleration Fund established under subsection ( o )(1).
 - **(b)** There is established the Advanced Research Projects Agency—Energy within the Department to overcome the long-term and high-risk technological barriers in the development of energy technologies.
 - **(c)**
   - **(1)** The goals of ARPA-E shall be—
@@ -100,7 +100,14 @@ status: "active"
 - **(m)** The authorities granted by this section are—
   - **(1)** in addition to existing authorities granted to the Secretary; and
   - **(2)** are not intended to supersede or modify any existing authorities.
-- **(n)**
+- **(n)** The following types of information collected by ARPA–E from recipients of financial assistance awards shall be considered commercial and financial information obtained from a person and privileged or confidential and not subject to disclosure under section 552(b)(4) of title 5 :
+  - **(1)** Plans for commercialization of technologies developed under the award, including business plans, technology-to-market plans, market studies, and cost and performance models.
+  - **(2)** Investments provided to an awardee from third parties (such as venture capital firms, hedge funds, and private equity firms), including amounts and the percentage of ownership of the awardee provided in return for the investments.
+  - **(3)** Additional financial support that the awardee—
+    - **(A)** plans to or has invested into the technology developed under the award; or
+    - **(B)** is seeking from third parties.
+  - **(4)** Revenue from the licensing or sale of new products or services resulting from research conducted under the award.
+- **(o)**
   - **(1)** There is established in the Treasury of the United States a fund, to be known as the “Energy Transformation Acceleration Fund”, which shall be administered by the Director for the purposes of carrying out this section.
   - **(2)** Subject to paragraphs (4) and (5), 2 2 See References in Text note below. there are authorized to be appropriated to the Director for deposit in the Fund, without fiscal year limitation—
     - **(A)** $300,000,000 for fiscal year 2008;

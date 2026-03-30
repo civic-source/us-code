@@ -1,0 +1,24 @@
+---
+title: "Section 8933 - Ocean Research Advisory Panel"
+usc_title: 10
+usc_section: "8933"
+chapter: 893
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 8933"
+generated_at: "2026-03-30T07:48:44.000Z"
+status: "active"
+---
+
+# § 8933. Ocean Research Advisory Panel
+
+- **(a)** The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the chairman, including the following:
+  - **(1)** One member who will represent the National Academy of Sciences.
+  - **(2)** One member who will represent the National Academy of Engineering.
+  - **(3)** One member who will represent the Institute of Medicine.
+  - **(4)** Members selected from among individuals who will represent the views of ocean industries, State governments, academia, and such other views as the chairman considers appropriate.
+  - **(5)** Members selected from among individuals eminent in the fields of marine science or marine policy, or related fields.
+- **(b)** The Council shall assign the following responsibilities to the Advisory Panel:
+  - **(1)** To advise the Council on policies and procedures to implement the National Oceanographic Partnership Program.
+  - **(2)** To advise the Council on selection of partnership projects and allocation of funds for partnership projects for implementation under the program.
+  - **(3)** To advise the Council on matters relating to national oceanographic data requirements.
+  - **(4)** Any additional responsibilities that the Council considers appropriate.

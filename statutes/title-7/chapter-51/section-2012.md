@@ -3,9 +3,9 @@ title: "Section 2012 - Definitions"
 usc_title: 7
 usc_section: "2012"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2012"
-generated_at: "2026-03-30T07:45:46.514Z"
+generated_at: "2026-03-30T07:48:18.723Z"
 status: "active"
 ---
 
@@ -17,13 +17,13 @@ As used in this chapter, the term:
 - **(b)** “Allotment” means the total value of benefits a household is authorized to receive during each month.
 - **(c)** “Allowable medical expenses” means expenditures for (1) medical and dental care, (2) hospitalization or nursing care (including hospitalization or nursing care of an individual who was a household member immediately prior to entering a hospital or nursing home), (3) prescription drugs when prescribed by a licensed practitioner authorized under State law and over-the-counter medication (including insulin) when approved by a licensed practitioner or other qualified health professional, (4) health and hospitalization insurance policies (excluding the costs of health and accident or income maintenance policies), (5) medicare premiums related to coverage under title XVIII of the Social Security Act [ 42 U.S.C. 1395 et seq.], (6) dentures, hearing aids, and prosthetics (including the costs of securing and maintaining a seeing eye dog), (7) eye glasses prescribed by a physician skilled in eye disease or by an optometrist, (8) reasonable costs of transportation necessary to secure medical treatment or services, and (9) maintaining an attendant, homemaker, home health aide, housekeeper, or child care services due to age, infirmity, or illness.
 - **(d)** The term “benefit” means the value of supplemental nutrition assistance provided to a household by means of—
-  - **(1)** an electronic benefit transfer under section 2016(i) of this title ; or
+  - **(1)** an electronic benefit transfer under section 2016(h) of this title ; or
   - **(2)** other means of providing assistance, as determined by the Secretary.
 - **(e)** The term “benefit issuer” means any office of the State agency or any person, partnership, corporation, organization, political subdivision, or other entity with which a State agency has contracted for, or to which it has delegated functional responsibility in connection with, the issuance of benefits to households.
 - **(f)** “Certification period” means the period for which households shall be eligible to receive benefits. The certification period shall not exceed 12 months, except that the certification period may be up to 24 months if all adult household members are elderly or disabled. A State agency shall have at least 1 contact with each certified household every 12 months. The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title .
 - **(g)** “Coupon” means any coupon, stamp, type of certificate, authorization card, cash or check issued in lieu of a coupon.
 - **(h)** “Drug addiction or alcoholic treatment and rehabilitation program” means any such program conducted by a private nonprofit organization or institution, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act ( 42 U.S.C. 300x et seq.) to provide treatment that can lead to the rehabilitation of drug addicts or alcoholics.
-- **(i)** The term “EBT card” means an electronic benefit transfer card issued under section 2016(i) of this title .
+- **(i)** The term “EBT card” means an electronic benefit transfer card issued under section 2016(h) of this title .
 - **(j)** “Elderly or disabled member” means a member of a household who—
   - **(1)** is sixty years of age or older;
   - **(2)**
@@ -63,8 +63,8 @@ As used in this chapter, the term:
     - **(E)** Narcotics addicts or alcoholics, together with their children, who live under the supervision of a private nonprofit institution, or a publicly operated community mental health center, for the purpose of regular participation in a drug or alcoholic treatment program.
 - **(n)** “Reservation” means the geographically defined area or areas over which a tribal organization exercises governmental jurisdiction.
 - **(o)** “Retail food store” means—
-  - **(1)** an establishment or house-to-house trade route that sells food for home preparation and consumption and—
-    - **(A)** offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (r)(1), including perishable foods in at least 3 of the categories; or
+  - **(1)** an establishment, house-to-house trade route, or online entity that sells food for home preparation and consumption and—
+    - **(A)** offers for sale, on a continuous basis, a variety of at least 7 foods in each of the 4 categories of staple foods specified in subsection (q)(1), including perishable foods in at least 3 of the categories; or
     - **(B)** has over 50 percent of the total sales of the establishment or route in staple foods,
   - **(2)** an establishment, organization, program, or group living arrangement referred to in paragraphs (3), (4), (5), (7), (8), and (9) of subsection (k);
   - **(3)** a store purveying the hunting and fishing equipment described in subsection (k)(6);
@@ -90,9 +90,9 @@ As used in this chapter, the term:
 - **(r)** “State” means the fifty States, the District of Columbia, Guam, the Virgin Islands of the United States, and the reservations of an Indian tribe whose tribal organization meets the requirements of this chapter for participation as a State agency.
 - **(s)** “State agency” means (1) the agency of State government, including the local offices thereof, which has the responsibility for the administration of the federally aided public assistance programs within such State, and in those States where such assistance programs are operated on a decentralized basis, the term shall include the counterpart local agencies administering such programs, and (2) the tribal organization of an Indian tribe determined by the Secretary to be capable of effectively administering a food distribution program under section 2013(b) of this title or a supplemental nutrition assistance program under section 2020(d) of this title .
 - **(t)** “Supplemental nutrition assistance program” means the program operated pursuant to this chapter.
-- **(u)** “Thrifty food plan” means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary’s calculations. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
+- **(u)** “Thrifty food plan” means the diet required to feed a family of four persons consisting of a man and a woman twenty through fifty, a child six through eight, and a child nine through eleven years of age, determined in accordance with the Secretary’s calculations. By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance. The cost of such diet shall be the basis for uniform allotments for all households regardless of their actual composition, except that the Secretary shall—
   - **(1)** make household-size adjustments (based on the unrounded cost of such diet) taking into account economies of scale;
   - **(2)** make cost adjustments in the thrifty food plan for Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska;
   - **(3)** make cost adjustments in the separate thrifty food plans for Guam, and the Virgin Islands of the United States to reflect the cost of food in those States, but not to exceed the cost of food in the fifty States and the District of Columbia; and
   - **(4)** on October 1, 1996 , and each October 1 thereafter, adjust the cost of the diet to reflect the cost of the diet in the preceding June, and round the result to the nearest lower dollar increment for each household size, except that on October 1, 1996 , the Secretary may not reduce the cost of the diet in effect on September 30, 1996 , and except that on October 1, 2003 , in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002 .
-- **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in the Indian Self-Determination Act ( 25 U.S.C. 450b(b) ), 1 1 See References in Text note below. as well as any Indian tribe, band, or community holding a treaty with a State government.
+- **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in section 5304 of title 25 , as well as any Indian tribe, band, or community holding a treaty with a State government.

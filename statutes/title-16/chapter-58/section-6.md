@@ -3,9 +3,9 @@ title: "Section 6 - Terminal lakes assistance"
 usc_title: 16
 usc_section: "6"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T07:46:15.547Z"
+generated_at: "2026-03-30T07:49:06.092Z"
 status: "active"
 ---
 
@@ -66,5 +66,8 @@ status: "active"
       - **(iii)** section 208 of the Energy and Water Development Appropriations Act, 2006 ( Public Law 109–103 ; 119 Stat. 2268 , 123 Stat. 2856 ); and
       - **(iv)** section 208 of the Energy and Water Development and Related Agencies Appropriations Act, 2010 ( Public Law 111–85 ; 123 Stat. 2858 , 123 Stat. 2967 , 125 Stat. 867 ).
 - **(e)**
-  - **(1)** There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended.
-  - **(2)** As soon as practicable after February 7, 2014 , the Secretary shall transfer to the “Bureau of Reclamation—Water and Related Resources” account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
+  - **(1)** As soon as practicable after February 7, 2014 , the Secretary shall transfer to the “Bureau of Reclamation—Water and Related Resources” account $150,000,000 from the funds of the Commodity Credit Corporation to carry out subsection (d), to remain available until expended.
+  - **(2)**
+    - **(A)** Nothing in this section authorizes any additional funds to carry out this section.
+    - **(B)** Any funds made available to carry out this section before December 20, 2018 , may remain available until expended.
+- **(f)** The authority provided by this section shall terminate on October 1, 2023 .

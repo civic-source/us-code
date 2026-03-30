@@ -3,9 +3,9 @@ title: "Section 321 - Training with friendly foreign countries: payment of train
 usc_title: 10
 usc_section: "321"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 321"
-generated_at: "2026-03-30T07:45:51.227Z"
+generated_at: "2026-03-30T07:48:43.879Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(1)** The primary purpose of the training and exercises for which payment may be made under subsection (b) shall be to train United States forces.
   - **(2)** Training and exercises with friendly foreign countries under subsection (a) should be planned and prioritized consistent with applicable guidance relating to the security cooperation programs and activities of the Department of Defense.
 - **(d)** Amounts available for the authority to pay expenses in subsection (b) for a fiscal year may be used to pay expenses under that subsection for training and exercises that begin in such fiscal year but end in the next fiscal year.
-- **(e)** Not later than the end of the first calender quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calender quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
+- **(e)** Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.
 - **(f)**
   - **(1)** The Secretary of Defense shall prescribe regulations for the administration of this section. The Secretary shall submit the regulations to the Committees on Armed Services of the Senate and the House of Representatives.
   - **(2)** The regulations required under this section shall provide the following:

@@ -3,9 +3,9 @@ title: "Section 428h - Ascertaining and marking line of battle"
 usc_title: 16
 usc_section: "428h"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 428h"
-generated_at: "2026-03-30T07:46:15.315Z"
+generated_at: "2026-03-30T07:49:05.934Z"
 status: "active"
 ---
 

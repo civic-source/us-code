@@ -3,9 +3,9 @@ title: "Section 3203 - Tsunami forecasting and warning program"
 usc_title: 33
 usc_section: "3203"
 chapter: 45
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 3203"
-generated_at: "2026-03-30T07:46:37.835Z"
+generated_at: "2026-03-30T07:49:41.227Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
     - **(B)** to pose significant risks of tsunami for States along the coastal areas of the Atlantic Ocean, Caribbean Sea, or Gulf of Mexico; and
   - **(3)** supports other international tsunami forecasting and warning efforts.
 - **(d)**
-  - **(1)** The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers shall include—
+  - **(1)** The Administrator shall support or maintain centers to support the tsunami warning system required by subsection (c). The Centers 1 1 So in original. shall include—
     - **(A)** the National Tsunami Warning Center, located in Alaska, which is primarily responsible for Alaska and the continental United States;
     - **(B)** the Pacific Tsunami Warning Center, located in Hawaii, which is primarily responsible for Hawaii, the Caribbean, and other areas of the Pacific not covered by the National Center; and
     - **(C)** any additional forecast and warning centers determined by the National Weather Service to be necessary.
@@ -55,7 +55,7 @@ status: "active"
     - **(I)** Making data gathered under this chapter and post-warning analyses conducted by the National Weather Service or other relevant Administration offices available to the public.
     - **(J)** Integrating and modernizing the program operated under this section with advances in tsunami science to improve performance without compromising service.
   - **(3)** The tsunami warning centers supported or maintained under paragraph (1) shall maintain a fail-safe warning capability and perform back-up duties for each other.
-  - **(4)** The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 1 1 So in original. Probably should be “section 3204(b)”. of this title, consider appropriate to ensure that regional and local forecast offices—
+  - **(4)** The Administrator shall coordinate with the forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and such program offices of the Administration as the Administrator or the coordinating committee, as established in section 3204(d) 2 2 So in original. Probably should be “section 3204(b)”. of this title, consider appropriate to ensure that regional and local forecast offices—
     - **(A)** have the technical knowledge and capability to disseminate tsunami warnings for the communities they serve;
     - **(B)** leverage connections with local emergency management officials for optimally disseminating tsunami warnings and forecasts; and
     - **(C)** implement mass communication tools in effect on the day before April 18, 2017 , used by the National Weather Service on such date and newer mass communication technologies as they are developed as a part of the Weather-Ready Nation program of the Administration, or otherwise, for the purpose of timely and effective delivery of tsunami warnings.

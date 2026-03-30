@@ -3,9 +3,9 @@ title: "Section 1131 - General authority"
 usc_title: 49
 usc_section: "1131"
 chapter: 11
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 1131"
-generated_at: "2026-03-30T07:47:24.783Z"
+generated_at: "2026-03-30T07:50:15.267Z"
 status: "active"
 ---
 
@@ -13,11 +13,11 @@ status: "active"
 
 - **(a)**
   - **(1)** The National Transportation Safety Board shall investigate or have investigated (in detail the Board prescribes) and establish the facts, circumstances, and cause or probable cause of—
-    - **(A)** an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) 1 1 See References in Text note below. of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
+    - **(A)** an aircraft accident the Board has authority to investigate under section 1132 of this title or an aircraft accident involving a public aircraft as defined by section 40102(a) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
     - **(B)** a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
     - **(C)** a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;
     - **(D)** a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
-    - **(E)** a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 , or involving a vessel of the United States (as defined in section 2101(46) 1 of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+    - **(E)** a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988 , or involving a vessel of the United States (as defined in section 2101(46) 1 1 See References in Text note below. of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
     - **(F)** any other accident related to the transportation of individuals or property when the Board decides—
       - **(i)** the accident is catastrophic;
       - **(ii)** the accident involves problems of a recurring character; or

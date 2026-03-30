@@ -1,0 +1,18 @@
+---
+title: "Section 9036 - Surgeon General: appointment; duties"
+usc_title: 10
+usc_section: "9036"
+chapter: 905
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 9036"
+generated_at: "2026-03-30T07:48:44.001Z"
+status: "active"
+---
+
+# § 9036. Surgeon General: appointment; duties
+
+- **(a)** The Surgeon General of the Air Force shall be appointed by the President, by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department.
+- **(b)**
+  - **(1)** The Surgeon General serves as the principal advisor to the Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force, including strategic planning and policy development relating to such matters.
+  - **(2)** The Surgeon General serves as the chief medical advisor of the Air Force to the Director of the Defense Health Agency on matters pertaining to military health readiness requirements and safety of members of the Air Force.
+  - **(3)** The Surgeon General, acting under the authority, direction, and control of the Secretary of the Air Force, shall recruit, organize, train, and equip, medical personnel of the Air Force.

@@ -3,9 +3,9 @@ title: "Section 3846 - Regulations"
 usc_title: 16
 usc_section: "3846"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 3846"
-generated_at: "2026-03-30T07:46:15.549Z"
+generated_at: "2026-03-30T07:49:06.094Z"
 status: "active"
 ---
 

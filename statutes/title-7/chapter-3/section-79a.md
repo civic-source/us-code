@@ -3,9 +3,9 @@ title: "Section 79a - Weighing authority"
 usc_title: 7
 usc_section: "79a"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 79a"
-generated_at: "2026-03-30T07:45:46.397Z"
+generated_at: "2026-03-30T07:48:18.639Z"
 status: "active"
 ---
 
@@ -23,9 +23,19 @@ status: "active"
 - **(h)** No State or local governmental agency or person shall weigh or state in any document the weight of grain determined at a location where official weighing is required to be performed as provided for in this section except in accordance with the procedures prescribed pursuant to this section.
 - **(i)**
   - **(1)** No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d).
-  - **(2)** Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
-    - **(A)** the current designated official agency for that geographic area is unable to provide weighing services in a timely manner; or
-    - **(B)** the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
+    - **(B)** If the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—
+      - **(i)** the current designated official agency for that geographic area is unable to provide weighing services in a timely manner;
+      - **(ii)** a person requesting weighing services in that geographic area has not been receiving official weighing services from the current designated official agency for that geographic area; or
+      - **(iii)** the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+    - **(C)**
+      - **(i)** In this subparagraph, the term “eligible grain handling facility” means a grain handling facility that—
+        - **(I)** was granted an exception under the final rule entitled “Exceptions to Geographic Areas for Official Agencies Under the USGSA” (68 Fed. Reg. 19137 ( April 18, 2003 )); and
+        - **(II)** had that exception revoked between September 30, 2015 and December 20, 2018 .
+      - **(ii)** Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+        - **(I)** the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+        - **(II)** the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018 .
 - **(j)** The provisions of this section shall not limit any authority vested in the Secretary under the United States Warehouse Act ( 39 Stat. 486 , as amended; 7 U.S.C. 241 et seq.).
 - **(k)** The representatives of the Secretary shall be afforded access to any elevator, warehouse, or other storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
 - **(l)**

@@ -3,9 +3,9 @@ title: "Section 1471 - Definitions"
 usc_title: 7
 usc_section: "1471"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1471"
-generated_at: "2026-03-30T07:45:46.465Z"
+generated_at: "2026-03-30T07:48:18.688Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ As used in this subchapter:
       - **(ii)** any Indian organization or entity chartered under the Act of June 18, 1934 ( 48 Stat. 984 , chapter 576; 25 U.S.C. 461 et seq.), 2 commonly known as the “Indian Reorganization Act”;
       - **(iii)** any tribal organization (as defined in section 5304(c) of title 25 ); 2 or
       - **(iv)** any economic enterprise (as defined in section 1452(e) of title 25 );
-  - **(2)** The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), fish used for food, and other animals designated by the Secretary (at the Secretary’s sole discretion) that—
+  - **(2)** The term “livestock” means cattle, elk, reindeer, bison, horses, deer, sheep, goats, swine, poultry (including egg-producing poultry), llamas, alpacas, live fish, crawfish, and other animals that—
     - **(A)** are part of a foundation herd (including producing dairy cattle) or offspring; or
     - **(B)** are purchased as part of a normal operation and not to obtain additional benefits under this subchapter.
   - **(3)** The term “State” means any State of the United States, the Commonwealth of Puerto Rico, the Virgin Islands, or Guam.

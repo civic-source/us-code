@@ -3,9 +3,9 @@ title: "Section 901 - Definitions"
 usc_title: 6
 usc_section: "901"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 901"
-generated_at: "2026-03-30T07:45:41.921Z"
+generated_at: "2026-03-30T07:48:14.907Z"
 status: "active"
 ---
 
@@ -37,5 +37,5 @@ In this Act:
   - **(13)** The term “screening” means a visual or automated review of information about goods, including manifest or entry documentation accompanying a shipment being imported into the United States, to determine the presence of misdeclared, restricted, or prohibited items and assess the level of threat posed by such cargo.
   - **(14)** The term “search” means an intrusive examination in which a container is opened and its contents are devanned and visually inspected for the presence of misdeclared, restricted, or prohibited items.
   - **(15)** The term “Secretary” means the Secretary of Homeland Security.
-  - **(16)** The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) of title 46 ).
-  - **(17)** The term “transportation security incident” has the meaning given the term in section 70101(6) of title 46 .
+  - **(16)** The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) 1 of title 46).
+  - **(17)** The term “transportation security incident” has the meaning given the term in section 70101(6) 1 of title 46.

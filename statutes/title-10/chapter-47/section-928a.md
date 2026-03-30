@@ -1,13 +1,18 @@
 ---
-title: "Section 928a - Art. 128a]"
+title: "Section 928a - Art. 128a. Maiming"
 usc_title: 10
 usc_section: "928a"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 928a"
-generated_at: "2026-03-30T07:45:51.263Z"
+generated_at: "2026-03-30T07:48:43.901Z"
 status: "active"
 ---
 
-# [§ 928a. Art. 128a]
+# § 928a. Art. 128a. Maiming
 
+Any person subject to this chapter who, with intent to injure, disfigure, or disable, inflicts upon the person of another an injury which—
+
+  - **(1)** seriously disfigures his person by any mutilation thereof;
+  - **(2)** destroys or disables any member or organ of his body; or
+  - **(3)** seriously diminishes his physical vigor by the injury of any member or organ;

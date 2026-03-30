@@ -3,9 +3,9 @@ title: "Section 322a - Renewal of rights-of-way without consent of Pueblo Tribes
 usc_title: 25
 usc_section: "322a"
 chapter: 8
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 322a"
-generated_at: "2026-03-30T07:46:20.625Z"
+generated_at: "2026-03-30T07:49:10.534Z"
 status: "active"
 ---
 

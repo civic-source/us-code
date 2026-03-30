@@ -3,9 +3,9 @@ title: "Section 59m - Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake
 usc_title: 33
 usc_section: "59m"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 59m"
-generated_at: "2026-03-30T07:46:37.751Z"
+generated_at: "2026-03-30T07:49:41.160Z"
 status: "active"
 ---
 

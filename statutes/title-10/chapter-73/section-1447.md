@@ -3,9 +3,9 @@ title: "Section 1447 - Definitions"
 usc_title: 10
 usc_section: "1447"
 chapter: 73
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1447"
-generated_at: "2026-03-30T07:45:51.303Z"
+generated_at: "2026-03-30T07:48:43.926Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ In this subchapter:
   - **(1)** The term “Plan” means the Survivor Benefit Plan established by this subchapter.
   - **(2)** The term “standard annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(A) of this title .
   - **(3)** The term “reserve-component annuity” means an annuity provided by virtue of eligibility under section 1448(a)(1)(B) of this title .
-  - **(4)** The term “retired pay” includes retainer pay paid under section 6330 of this title .
+  - **(4)** The term “retired pay” includes retainer pay paid under section 8330 of this title .
   - **(5)** The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
   - **(6)** The term “base amount” means the following:
     - **(A)** In the case of a person who dies after becoming entitled to retired pay, such term means the amount of monthly retired pay (determined without regard to any reduction under section 1409(b)(2) or 1415(b)(1)(B) of this title) to which the person—

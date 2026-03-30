@@ -3,9 +3,9 @@ title: "Section 7513 - Classifications and attainment dates"
 usc_title: 42
 usc_section: "7513"
 chapter: 85
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 7513"
-generated_at: "2026-03-30T07:47:00.205Z"
+generated_at: "2026-03-30T07:50:07.113Z"
 status: "active"
 ---
 

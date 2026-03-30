@@ -3,9 +3,9 @@ title: "Section 1999 - Interest rate reduction program"
 usc_title: 7
 usc_section: "1999"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1999"
-generated_at: "2026-03-30T07:45:46.504Z"
+generated_at: "2026-03-30T07:48:18.716Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(2)**
     - **(A)** The total amount of funds used by the Secretary to carry out this section for a fiscal year shall not exceed $750,000,000.
     - **(B)**
-      - **(i)** The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
-      - **(ii)** Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
+      - **(i)** The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers or veteran farmers and ranchers (as defined in section 2279(a) of this title ).
+      - **(ii)** Funds reserved for farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 - **(f)** The Secretary shall make available to farmers, on request, a list of lenders in the area that participate in guaranteed farm loan programs and other lenders in the area that express a desire to participate in such programs and that request inclusion in the list.
 - **(g)** Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988 , shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.

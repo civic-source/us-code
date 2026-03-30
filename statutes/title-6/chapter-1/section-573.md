@@ -3,15 +3,15 @@ title: "Section 573 - Assessments and reports"
 usc_title: 6
 usc_section: "573"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 573"
-generated_at: "2026-03-30T07:45:41.914Z"
+generated_at: "2026-03-30T07:48:14.898Z"
 status: "active"
 ---
 
 # § 573. Assessments and reports
 
-- **(a)** Not later than 1 year after October 4, 2006 , and not less than every 5 years thereafter, the Secretary, acting through the Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
+- **(a)** Not later than 1 year after October 4, 2006 , and not less than every 5 years thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall conduct an assessment of Federal, State, local, and tribal governments that—
   - **(1)** defines the range of capabilities needed by emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters;
   - **(2)** defines the range of interoperable emergency communications capabilities needed for specific events;
   - **(3)** assesses the current available capabilities to meet such communications needs;
@@ -24,7 +24,7 @@ status: "active"
     - **(B)** identifies the interoperable emergency communications systems in use by public safety agencies in the United States.
 - **(b)** The baseline assessment under this section may include a classified annex including information provided under subsection (a)(5)(A).
 - **(c)** In conducting the baseline assessment under this section, the Secretary may incorporate findings from assessments conducted before, or ongoing on, October 4, 2006 .
-- **(d)** Not later than one year after October 4, 2006 , and biennially thereafter, the Secretary, acting through the Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, and carrying out its responsibilities under, this subchapter, including—
+- **(d)** Not later than one year after October 4, 2006 , and biennially thereafter, the Secretary, acting through the Assistant Director for Emergency Communications, shall submit to Congress a report on the progress of the Department in achieving the goals of, and carrying out its responsibilities under, this subchapter, including—
   - **(1)** a description of the findings of the most recent baseline assessment conducted under subsection (a);
   - **(2)** a determination of the degree to which interoperable emergency communications capabilities have been attained to date and the gaps that remain for interoperability to be achieved;
   - **(3)** an evaluation of the ability to continue to communicate and to provide and maintain interoperable emergency communications by emergency managers, emergency response providers, and relevant government officials in the event of—

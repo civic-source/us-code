@@ -3,9 +3,9 @@ title: "Section 383 - Assessment, monitoring, and evaluation of programs and act
 usc_title: 10
 usc_section: "383"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 383"
-generated_at: "2026-03-30T07:45:51.229Z"
+generated_at: "2026-03-30T07:48:43.880Z"
 status: "active"
 ---
 
@@ -18,6 +18,7 @@ status: "active"
     - **(B)** Monitoring of implementation of such programs and activities in order to measure progress in execution and, to the extent possible, achievement of desired outcomes.
     - **(C)** Evaluation of the efficiency and effectiveness of such programs and activities in achieving desired outcomes.
     - **(D)** Identification of lessons learned in carrying out such programs and activities, and development of recommendation for improving future security cooperation programs and activities of the Department of Defense.
+    - **(E)** Incorporation of lessons learned from prior security cooperation programs and activities of the Department of Defense that were carried out any time on or after September 11, 2001 .
   - **(2)** The program shall be conducted in accordance with international best practices, interagency standards, and, if applicable, the Government Performance and Results Act of 1993 ( Public Law 103–62 ), and the amendments made by that Act, and the GPRA Modernization Act of 2010 ( Public Law 111–352 ), and the amendments made by that Act.
 - **(c)**
   - **(1)** Funds available to the Defense Security Cooperation Agency, and other funds available to the Department of Defense for security cooperation programs and activities of the Department of Defense, may be used to carry out the program required by subsection (a).

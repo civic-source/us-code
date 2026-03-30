@@ -3,9 +3,9 @@ title: "Section 22 - Benefits and beneficiary protections"
 usc_title: 42
 usc_section: "22"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-03-30T07:46:59.909Z"
+generated_at: "2026-03-30T07:50:06.838Z"
 status: "active"
 ---
 
@@ -248,3 +248,6 @@ status: "active"
     - **(B)** an individual enrollee shall have discretion as to whether to receive such service through the in-person visit or as an additional telehealth benefit.
   - **(5)** For purposes of this subsection and section 1395w–24 of this title , if a plan provides additional telehealth benefits, such additional telehealth benefits shall be treated as if they were benefits under the original Medicare fee-for-service program option.
   - **(6)** Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospice care) for which benefits are available under parts A and B, including benefits available under section 1395m(m) of this title .
+- **(n)**
+  - **(1)** In the case of an individual enrolled under an MA or MA–PD plan who is furnished an in-home health risk assessment on or after January 1, 2021 , such plan shall ensure that such assessment includes information on the safe disposal of prescription drugs that are controlled substances that meets the criteria established under paragraph (2). Such information shall include information on drug takeback programs that meet such requirements determined appropriate by the Secretary and information on in-home disposal.
+  - **(2)** The Secretary shall, through rulemaking, establish criteria the Secretary determines appropriate with respect to information provided to an individual to ensure that such information sufficiently educates such individual on the safe disposal of prescription drugs that are controlled substances.

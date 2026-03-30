@@ -3,9 +3,9 @@ title: "Section 2326 - Regional sediment management"
 usc_title: 33
 usc_section: "2326"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2326"
-generated_at: "2026-03-30T07:46:37.822Z"
+generated_at: "2026-03-30T07:49:41.217Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
+    - **(A)** For sediment obtained through or used in the construction, operation, or maintenance of an authorized Federal water resources project, including a project authorized for flood control, the Secretary shall develop, at Federal expense, regional sediment management plans and carry out projects at locations identified in plans developed under this section, or identified jointly by the non-Federal interest and the Secretary, for use in the construction, repair, modification, or rehabilitation of projects associated with Federal water resources projects for purposes listed in paragraph (3).
     - **(B)** For purposes of projects carried out under this section, the Secretary may include sediment from other Federal sources and non-Federal sources, subject to the requirement that any sediment obtained from a non-Federal source shall not be obtained at Federal expense.
   - **(2)** The Secretary shall develop plans under this subsection in cooperation with the appropriate Federal, State, regional, and local agencies.
   - **(3)** The purposes of using sediment for the construction, repair, modification, or rehabilitation of Federal water resources projects are—
@@ -55,4 +55,4 @@ status: "active"
   - **(9)** Toledo Harbor, Lucas County, Ohio.
   - **(10)** Galveston Bay, Texas.
   - **(11)** Benson Beach, Washington.
-- **(g)** There is authorized to be appropriated to carry out this section $50,000,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
+- **(g)** There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.

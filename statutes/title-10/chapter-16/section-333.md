@@ -3,9 +3,9 @@ title: "Section 333 - Foreign security forces: authority to build capacity"
 usc_title: 10
 usc_section: "333"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 333"
-generated_at: "2026-03-30T07:45:51.227Z"
+generated_at: "2026-03-30T07:48:43.879Z"
 status: "active"
 ---
 
@@ -21,11 +21,11 @@ status: "active"
   - **(7)** Operations or activities that contribute to an international coalition operation that is determined by the Secretary to be in the national interest of the United States.
 - **(b)**
   - **(1)** The concurrence of the Secretary of State is required to conduct or support any program authorized by subsection (a).
-  - **(2)** The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a).
+  - **(2)** The Secretary of Defense and the Secretary of State shall jointly develop and plan any program carried out pursuant to subsection (a). In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.
   - **(3)** The Secretary of Defense and the Secretary of State shall coordinate the implementation of any program under subsection (a). The Secretary of Defense and the Secretary of State shall each designate an individual responsible for program coordination under this paragraph at the lowest appropriate level in the Department concerned.
   - **(4)** Any notice required by this section to be submitted to the appropriate committees of Congress shall be prepared in coordination with the Secretary of State.
 - **(c)**
-  - **(1)** A program under subsection (a) may include the provision and sustainment of defense articles, training, defense services, supplies (including consumables), and small-scale construction.
+  - **(1)** A program under subsection (a) may include the provision and sustainment of defense articles, training, defense services, supplies (including consumables), and small-scale construction supporting security cooperation programs under this section.
   - **(2)** A program under subsection (a) shall include elements that promote the following:
     - **(A)** Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.
     - **(B)** Institutional capacity building.
@@ -45,6 +45,7 @@ status: "active"
   - **(7)** In the case of a program described in subsection (d)(3), each of the following:
     - **(A)** A written justification that the provision of sustainment support described in that subsection for a period in excess of five years will enhance the security interest of the United States.
     - **(B)** To the extent practicable, a plan to transition such sustainment support from funding through the Department to funding through another security sector assistance program of the United States Government or funding through partner nations.
+  - **(8)** In the case of activities under a program that results in the provision of small-scale construction above $750,000, the location, project title, and cost of each small-scale construction project that will be carried out, a Department of Defense Form 1391 for each such project, and a masterplan of planned infrastructure investments at the location over the next 5 years.
 - **(f)** The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
   - **(1)** Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
   - **(2)** Information on the timeliness of delivery of defense articles, defense services, supplies (including consumables), and small-scale construction when compared with delivery schedules for such articles, services, supplies, and construction previously provided to Congress.

@@ -3,9 +3,9 @@ title: "Section 37 - Violations; punishment"
 usc_title: 47
 usc_section: "37"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "47 U.S.C. § 37"
-generated_at: "2026-03-30T07:47:03.775Z"
+generated_at: "2026-03-30T07:50:12.578Z"
 status: "active"
 ---
 

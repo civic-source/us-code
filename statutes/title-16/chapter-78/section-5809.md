@@ -1,15 +1,13 @@
 ---
-title: "Section 5809 - Authorization of appropriations"
+title: "Section 5809 - Repealed. Pub. L. 115–334, title II , § 2813, Dec. 20, 2018 , 132 Stat. 4602"
 usc_title: 16
 usc_section: "5809"
 chapter: 78
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 5809"
-generated_at: "2026-03-30T07:46:15.567Z"
-status: "active"
+generated_at: "2026-03-30T07:49:06.107Z"
+status: "repealed"
 ---
 
-# § 5809. Authorization of appropriations
-
-There are authorized to be appropriated to the Department to be made available to the Foundation $1,000,000 for each of fiscal years 1997 through 1999 to initially establish and carry out activities of the Foundation.
+# §§ 5801 to 5809. Repealed. Pub. L. 115–334, title II , § 2813, Dec. 20, 2018 , 132 Stat. 4602
 

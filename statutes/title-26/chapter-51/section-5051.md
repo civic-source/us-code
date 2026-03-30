@@ -3,9 +3,9 @@ title: "Section 5051 - Imposition and rate of tax"
 usc_title: 26
 usc_section: "5051"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 5051"
-generated_at: "2026-03-30T07:46:33.371Z"
+generated_at: "2026-03-30T07:49:37.175Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(ii)** $18 on any barrels of beer to which clause (i) does not apply.
     - **(D)** For purposes of this section, a barrel shall contain not more than 31 gallons of beer, and any tax imposed under this section shall be applied at a like rate for any other quantity or for fractional parts of a barrel.
   - **(2)**
-    - **(A)**
+    - **(A)** In the case of a brewer who produces not more than 2,000,000 barrels of beer during the calendar year, the per barrel rate of the tax imposed by this section shall be $7 ($3.50 in the case of beer removed after December 31, 2017 , and before January 1, 2020 ) on the first 60,000 barrels of beer which are removed in such year for consumption or sale and which have been brewed or produced by such brewer at qualified breweries in the United States.
     - **(B)** The Secretary may prescribe such regulations as may be necessary to prevent the reduced rates provided in this paragraph from benefiting any person who produces more than 2,000,000 barrels of beer during a calendar year.
   - **(3)** Where the Secretary or his delegate finds that the revenue will not be endangered thereby, he may by regulations prescribe tolerances for barrels and fractional parts of barrels, and, if such tolerances are prescribed, no assessment shall be made and no tax shall be collected for any excess in any case where the contents of a barrel or a fractional part of a barrel are within the limit of the applicable tolerance prescribed.
   - **(4)**

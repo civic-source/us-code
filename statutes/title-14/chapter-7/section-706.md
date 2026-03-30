@@ -1,0 +1,15 @@
+---
+title: "Section 706 - United States Postal Service"
+usc_title: 14
+usc_section: "706"
+chapter: 7
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 706"
+generated_at: "2026-03-30T07:48:46.247Z"
+status: "active"
+---
+
+# § 706. United States Postal Service
+
+Coast Guard facilities and personnel may be utilized for the transportation and delivery of mail matter during emergency conditions or at isolated locations under such arrangements as may be satisfactory to the Secretary and the United States Postal Service.
+

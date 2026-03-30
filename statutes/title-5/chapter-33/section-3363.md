@@ -3,9 +3,9 @@ title: "Section 3363 - Preference eligibles; promotion; physical qualifications;
 usc_title: 5
 usc_section: "3363"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 3363"
-generated_at: "2026-03-30T07:45:39.118Z"
+generated_at: "2026-03-30T07:48:04.578Z"
 status: "active"
 ---
 

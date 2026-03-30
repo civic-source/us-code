@@ -3,9 +3,9 @@ title: "Section 16274 - University nuclear science and engineering support"
 usc_title: 42
 usc_section: "16274"
 chapter: 149
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 16274"
-generated_at: "2026-03-30T07:47:00.353Z"
+generated_at: "2026-03-30T07:50:07.277Z"
 status: "active"
 ---
 
@@ -25,6 +25,6 @@ status: "active"
   - **(1)** converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
   - **(2)** consortia of universities to broaden access to university research reactors;
   - **(3)** student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
-  - **(4)** reactor improvements as part of a taking into consideration effort that emphasizes research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+  - **(4)** reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
 - **(e)** Funding for a project provided under this section may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
 - **(f)** In this section, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in subsection (b)(2).

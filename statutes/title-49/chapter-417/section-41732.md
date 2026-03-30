@@ -3,9 +3,9 @@ title: "Section 41732 - Basic essential air service"
 usc_title: 49
 usc_section: "41732"
 chapter: 417
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 41732"
-generated_at: "2026-03-30T07:47:24.832Z"
+generated_at: "2026-03-30T07:50:15.327Z"
 status: "active"
 ---
 
@@ -27,3 +27,4 @@ status: "active"
     - **(B)** 60 percent when service is provided by aircraft with more than 14 passenger seats.
   - **(5)** service provided in aircraft with at least 2 engines and using 2 pilots, unless scheduled air transportation has not been provided to the place in aircraft with at least 2 engines and using 2 pilots for at least 60 consecutive operating days at any time since October 31, 1978 .
   - **(6)** service provided by pressurized aircraft when the service is provided by aircraft that regularly fly above 8,000 feet in altitude.
+- **(c)** Notwithstanding section 41733(e), upon request by an eligible place, the Secretary may waive, in whole or in part, subsections (a) and (b) of this section or subsections (a) through (c) of section 41734. A waiver issued under this subsection shall remain in effect for a limited period of time, as determined by the Secretary.

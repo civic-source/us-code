@@ -3,9 +3,9 @@ title: "Section 9108 - Obligations"
 usc_title: 31
 usc_section: "9108"
 chapter: 91
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "31 U.S.C. § 9108"
-generated_at: "2026-03-30T07:46:36.904Z"
+generated_at: "2026-03-30T07:49:39.780Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(c)** The Secretary may designate an officer or employee of an agency to carry out this section if the head of the agency agrees.
 - **(d)**
   - **(1)** This section does not apply to a mixed-ownership Government corporation when the corporation has no capital of the Government.
-  - **(2)** Subsections (a) and (b) of this section do not apply to the Rural Telephone Bank (when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 ( 7 U.S.C. 950(a) )), the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.
+  - **(2)** Subsections (a) and (b) of this section do not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.

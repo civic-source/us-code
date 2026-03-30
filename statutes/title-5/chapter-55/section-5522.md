@@ -3,9 +3,9 @@ title: "Section 5522 - Advance payments; rates; amounts recoverable"
 usc_title: 5
 usc_section: "5522"
 chapter: 55
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 5522"
-generated_at: "2026-03-30T07:45:39.128Z"
+generated_at: "2026-03-30T07:48:04.589Z"
 status: "active"
 ---
 

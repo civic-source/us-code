@@ -3,9 +3,9 @@ title: "Section 2321h - Stockpiling of defense articles for foreign countries"
 usc_title: 22
 usc_section: "2321h"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2321h"
-generated_at: "2026-03-30T07:46:23.109Z"
+generated_at: "2026-03-30T07:49:19.028Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** The value of defense articles to be set aside, earmarked, reserved, or intended for use as war reserve stocks for allied or other foreign countries (other than for purposes of the North Atlantic Treaty Organization or in the implementation of agreements with Israel) in stockpiles located in foreign countries may not exceed in any fiscal year an amount that is specified in security assistance authorizing legislation for that fiscal year.
   - **(2)**
-    - **(A)** The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, 2017, 2018, and 2019.
+    - **(A)** The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2020.
     - **(B)** Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 - **(c)**
   - **(1)** Except as provided in paragraph (2), no stockpile of defense articles may be located outside the boundaries of a United States military base or a military base used primarily by the United States.

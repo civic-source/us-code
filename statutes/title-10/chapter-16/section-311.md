@@ -3,9 +3,9 @@ title: "Section 311 - Exchange of defense personnel between United States and fr
 usc_title: 10
 usc_section: "311"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 311"
-generated_at: "2026-03-30T07:45:51.226Z"
+generated_at: "2026-03-30T07:48:43.878Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of a friendly foreign country or international or regional security organization for the reciprocal or non-reciprocal exchange of—
     - **(A)** members of the armed forces and civilian personnel of the Department of Defense; and
     - **(B)** military and civilian personnel of the defense or security ministry of that foreign government or international or regional security organization.
-  - **(3)** An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary to State 1 1 So in original. Probably should be “Secretary of State”. to the extent the exchange is with either of the following:
+  - **(3)** An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
     - **(A)** A non-defense security ministry of a foreign government.
     - **(B)** An international or regional security organization.
 - **(b)**

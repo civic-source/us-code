@@ -3,13 +3,13 @@ title: "Section 21509 - Authorization of appropriations"
 usc_title: 34
 usc_section: "21509"
 chapter: 215
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 21509"
-generated_at: "2026-03-30T07:46:36.272Z"
+generated_at: "2026-03-30T07:49:40.355Z"
 status: "active"
 ---
 
 # § 21509. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this chapter $6,000,000 for each of fiscal years 2017 and 2018.
+There are authorized to be appropriated to carry out this chapter $6,000,000 for each of fiscal years 2018 through 2021.
 

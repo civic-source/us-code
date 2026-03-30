@@ -3,9 +3,9 @@ title: "Section 1720I - Mental and behavioral health care for certain former mem
 usc_title: 38
 usc_section: "1720I"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1720I"
-generated_at: "2026-03-30T07:46:46.208Z"
+generated_at: "2026-03-30T07:49:45.548Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** while serving in the active military, naval, or air service, was discharged or released therefrom under a condition that is not honorable but not—
     - **(A)** a dishonorable discharge; or
     - **(B)** a discharge by court-martial;
-  - **(3)** is not otherwise eligible to enroll in the health care system established by section 1705 of this title ; and
+  - **(3)** is not enrolled in the health care system established by section 1705 of this title ; and
   - **(4)**
     - **(A)**
       - **(i)** served in the Armed Forces for a period of more than 100 cumulative days; and

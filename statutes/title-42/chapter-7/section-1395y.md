@@ -3,9 +3,9 @@ title: "Section 1395y - Exclusions from coverage and medicare as secondary payer
 usc_title: 42
 usc_section: "1395y"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395y"
-generated_at: "2026-03-30T07:46:59.928Z"
+generated_at: "2026-03-30T07:50:06.856Z"
 status: "active"
 ---
 
@@ -131,7 +131,9 @@ status: "active"
     - **(B)** An entity that knowingly, willfully, and repeatedly fails to complete a claim form in accordance with subparagraph (A) or provides inaccurate information relating to the availability of other health benefit plans on a claim form under such subparagraph shall be subject to a civil money penalty of not to exceed $2,000 for each such incident. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title .
   - **(7)**
     - **(A)** On and after the first day of the first calendar quarter beginning after the date that is 1 year after December 29, 2007 , an entity serving as an insurer or third party administrator for a group health plan, as defined in paragraph (1)(A)(v), and, in the case of a group health plan that is self-insured and self-administered, a plan administrator or fiduciary, shall—
-      - **(i)** secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been a primary plan to the program under this subchapter; and
+      - **(i)** secure from the plan sponsor and plan participants such information as the Secretary shall specify for the purpose of identifying situations where the group health plan is or has been—
+        - **(I)** a primary plan to the program under this subchapter; or
+        - **(II)** for calendar quarters beginning on or after January 1, 2020 , a primary payer with respect to benefits relating to prescription drug coverage under part D; and
       - **(ii)** submit such information to the Secretary in a form and manner (including frequency) specified by the Secretary.
     - **(B)**
       - **(i)** An entity, a plan administrator, or a fiduciary described in subparagraph (A) that fails to comply with the requirements under such subparagraph shall be subject to a civil money penalty of $1,000 for each day of noncompliance for each individual for which the information under such subparagraph should have been submitted. The provisions of subsections (e) and (k) of section 1320a–7a of this title shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title . A civil money penalty under this clause shall be in addition to any other penalties prescribed by law and in addition to any Medicare secondary payer claim under this subchapter with respect to an individual.
@@ -250,4 +252,5 @@ status: "active"
 - **(o)**
   - **(1)** The Secretary may suspend payments to a provider of services or supplier under this subchapter pending an investigation of a credible allegation of fraud against the provider of services or supplier, unless the Secretary determines there is good cause not to suspend such payments.
   - **(2)** The Secretary shall consult with the Inspector General of the Department of Health and Human Services in determining whether there is a credible allegation of fraud against a provider of services or supplier.
-  - **(3)** The Secretary shall promulgate regulations to carry out this subsection and section 1396b(i)(2)(C) of this title .
+  - **(3)** The Secretary shall promulgate regulations to carry out this subsection, section 1395w–112(b)(7) of this section (including as applied pursuant to section 1395w–27(f)(3)(D) of this title ), and section 1396b(i)(2)(C) of this title .
+  - **(4)** In carrying out this subsection, section 1395w–112(b)(7) of this title (including as applied pursuant to section 1395w–27(f)(3)(D) of this title ), and section 1396b(i)(2)(C) of this title , a fraud hotline tip (as defined by the Secretary) without further evidence shall not be treated as sufficient evidence for a credible allegation of fraud.

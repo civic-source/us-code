@@ -3,9 +3,9 @@ title: "Section 54101 - Assistance for small shipyards"
 usc_title: 46
 usc_section: "54101"
 chapter: 541
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 54101"
-generated_at: "2026-03-30T07:47:17.812Z"
+generated_at: "2026-03-30T07:50:11.295Z"
 status: "active"
 ---
 
@@ -18,8 +18,9 @@ status: "active"
   - **(1)** In providing assistance under the program, the Administrator shall consider projects that foster—
     - **(A)** efficiency, competitive operations, and quality ship construction, repair, and reconfiguration; and
     - **(B)** employee skills and enhanced productivity related to shipbuilding, ship repair, and associated industries.
-  - **(2)** The Administrator shall award grants under this section not later than 120 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
-  - **(3)** Notwithstanding paragraph (2), amounts awarded as a grant under this section that are not expended by the grantee shall remain available to the Administrator for use for grants under this section.
+  - **(2)** The Administrator shall post a Notice of Funding Opportunity regarding grants awarded under this section not more than 15 days after the date of enactment of the appropriations Act for the fiscal year concerned.
+  - **(3)** The Administrator shall award grants under this section not later than 120 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
+  - **(4)** Notwithstanding paragraph (3), amounts awarded as a grant under this section that are not expended by the grantee shall remain available to the Administrator for use for grants under this section.
 - **(c)**
   - **(1)** Assistance provided under this section may be used to—
     - **(A)** make capital and related improvements in small shipyards; and
@@ -31,11 +32,10 @@ status: "active"
   - **(2)** The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
 - **(f)**
   - **(1)** To be eligible for assistance under this section, an applicant shall submit an application, in such form, and containing such information and assurances as the Administrator may require, within 60 days after the date of enactment of the appropriations Act for the fiscal year concerned.
-  - **(2)** Each application submitted under paragraph (1) shall include—
-    - **(A)** 1 1 So in original. There is no subpar. (B). a comprehensive description of—
-      - **(i)** the need for the project;
-      - **(ii)** the methodology for implementing the project; and
-      - **(iii)** any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
+  - **(2)** Each application submitted under paragraph (1) shall include a comprehensive description of—
+    - **(A)** the need for the project;
+    - **(B)** the methodology for implementing the project; and
+    - **(C)** any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
   - **(3)** The Administrator, in consultation with the Office of the Inspector General, shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
     - **(A)** grant funds are used for the purposes for which they were made available;
     - **(B)** grantees have properly accounted for all expenditures of grant funds; and

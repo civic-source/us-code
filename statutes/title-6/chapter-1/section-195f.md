@@ -3,9 +3,9 @@ title: "Section 195f - EMP and GMD mitigation research and development"
 usc_title: 6
 usc_section: "195f"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 195f"
-generated_at: "2026-03-30T07:45:41.899Z"
+generated_at: "2026-03-30T07:48:14.883Z"
 status: "active"
 ---
 
@@ -24,5 +24,5 @@ status: "active"
   - **(5)** The restoration and recovery capabilities of critical infrastructure under differing levels of damage and disruption from various threats of EMP and GMD, as informed by the objective scientific analysis conducted under paragraph (1).
   - **(6)** An analysis of the feasibility of a real-time alert system to inform electrical grid operators and other stakeholders within milliseconds of a high-altitude nuclear explosion.
 - **(c)**
-  - **(1)** Section 133 of this title , and any regulations issued pursuant to such section, shall apply to any information shared with the Federal Government under this section.
+  - **(1)** Section 673 of this title , and any regulations issued pursuant to such section, shall apply to any information shared with the Federal Government under this section.
   - **(2)** Information shared by the Federal Government with a State, local, or tribal government under this section shall be exempt from disclosure under any provision of State, local, or tribal freedom of information law, open government law, open meetings law, open records law, sunshine law, or similar law requiring the disclosure of information or records.

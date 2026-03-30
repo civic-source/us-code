@@ -3,9 +3,9 @@ title: "Section 40308 - Space grant review panel"
 usc_title: 51
 usc_section: "40308"
 chapter: 403
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "51 U.S.C. § 40308"
-generated_at: "2026-03-30T07:47:26.597Z"
+generated_at: "2026-03-30T07:50:20.806Z"
 status: "active"
 ---
 

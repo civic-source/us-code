@@ -3,9 +3,9 @@ title: "Section 1720G - Assistance and support services for caregivers"
 usc_title: 38
 usc_section: "1720G"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1720G"
-generated_at: "2026-03-30T07:46:46.208Z"
+generated_at: "2026-03-30T07:49:45.548Z"
 status: "active"
 ---
 
@@ -130,9 +130,3 @@ status: "active"
     - **(B)** Supervision or protection based on symptoms or residuals of neurological or other impairment or injury.
     - **(C)** Regular or extensive instruction or supervision without which the ability of the veteran to function in daily life would be seriously impaired.
     - **(D)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title ).
-- **(e)** There are authorized to be appropriated to carry out the programs required by subsections (a) and (b)—
-  - **(1)** $60,000,000 for fiscal year 2010;
-  - **(2)** $1,542,000,000 for the period of fiscal years 2011 through 2015;
-  - **(3)** $625,000,000 for fiscal year 2016;
-  - **(4)** $734,628,000 for fiscal year 2017; and
-  - **(5)** $839,828,000 for each of fiscal years 2018 and 2019.

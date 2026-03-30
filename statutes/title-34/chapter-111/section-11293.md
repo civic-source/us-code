@@ -3,9 +3,9 @@ title: "Section 11293 - Duties and functions of the Administrator"
 usc_title: 34
 usc_section: "11293"
 chapter: 111
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 11293"
-generated_at: "2026-03-30T07:46:36.247Z"
+generated_at: "2026-03-30T07:49:40.334Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administrator shall—
   - **(1)** issue such rules as the Administrator considers necessary or appropriate to carry out this subchapter;
   - **(2)** make such arrangements as may be necessary and appropriate to facilitate effective coordination among all federally funded programs relating to missing children (including the preparation of an annual comprehensive plan for facilitating such coordination);
-  - **(3)** provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1), to appropriate entities;
+  - **(3)** provide for the furnishing of information derived from the national toll-free hotline, established under subsection (b)(1), to appropriate entities;
   - **(4)** coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
   - **(5)** provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
   - **(6)** not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the President pro tempore of the Senate, and the Committee on the Judiciary of the Senate—
@@ -22,7 +22,7 @@ status: "active"
     - **(B)** identifying and summarizing effective models of Federal, State, and local coordination and cooperation in locating and recovering missing children;
     - **(C)** identifying and summarizing effective program models that provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction;
     - **(D)** describing how the Administrator satisfied the requirements of paragraph (4) in the preceding fiscal year;
-    - **(E)** describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free telephone line established under subsection (b)(1)(A) and the number and types of communications referred to the national communications system established under section 11231 of this title ;
+    - **(E)** describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free hotline established under subsection (b)(1)(A), the number and types of communications referred to the national communications system established under section 11231 of this title , and the number and types of reports to the tipline established under subsection (b)(1)(K)(i);
     - **(F)** describing in detail the activities in the preceding fiscal year of the national resource center and clearinghouse established under subsection (b)(2);
     - **(G)** describing all the programs for which assistance was provided under section 11294 of this title in the preceding fiscal year;
     - **(H)** summarizing the results of all research completed in the preceding year for which assistance was provided at any time under this subchapter; and
@@ -34,45 +34,36 @@ status: "active"
 - **(b)**
   - **(1)** The Administrator shall annually make a grant to the Center, which shall be used to—
     - **(A)**
-      - **(i)** operate a national 24-hour toll-free telephone line by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s legal custodian; and
-      - **(ii)** coordinate the operation of such telephone line with the operation of the national communications system referred to in part C of subchapter III;
+      - **(i)** operate a national 24-hour toll-free hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and
+      - **(ii)** coordinate the operation of such hotline with the operation of the national communications system referred to in part C of subchapter III;
     - **(B)** operate the official national resource center and information clearinghouse for missing and exploited children;
     - **(C)** provide to State and local governments, public and private nonprofit agencies, State and local educational agencies, and individuals, information regarding—
-      - **(i)** free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
-      - **(ii)** the existence and nature of programs being carried out by Federal agencies to assist missing and exploited children and their families;
+      - **(i)** free or low-cost legal, food, lodging, and transportation services that are available for the benefit of missing and exploited children and their families;
+      - **(ii)** the existence and nature of programs being carried out by Federal agencies to assist missing and exploited children and their families; and
+      - **(iii)** innovative and model programs, services, and legislation that benefit missing and exploited children;
     - **(D)** coordinate public and private programs that locate, recover, or reunite missing children with their families;
-    - **(E)** disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;
-    - **(F)** based solely on reports received by the National Center for Missing and Exploited Children (NCMEC), and not involving any data collection by NCMEC other than the receipt of those reports, annually provide to the Department of Justice’s Office of Juvenile Justice and Delinquency Prevention—
-      - **(i)** the number of children nationwide who are reported to NCMEC as missing;
-      - **(ii)** the number of children nationwide who are reported to NCMEC as victims of non-family abductions;
-      - **(iii)** the number of children nationwide who are reported to NCMEC as victims of parental kidnappings; and
-      - **(iv)** the number of children recovered nationwide whose recovery was reported to NCMEC;
-    - **(G)** provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;
-    - **(H)** provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children, including cases involving children with developmental disabilities such as autism;
-    - **(I)** provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;
-    - **(J)** provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;
-    - **(K)** provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;
-    - **(L)** provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;
-    - **(M)** track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;
-    - **(N)** provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;
-    - **(O)** facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
-    - **(P)** operate a cyber tipline to provide online users and electronic service providers an effective means of reporting Internet-related child sexual exploitation in the areas of—
-      - **(i)** possession, manufacture, and distribution of child pornography;
-      - **(ii)** online enticement of children for sexual acts;
-      - **(iii)** child sex trafficking, including child prostitution;
-      - **(iv)** sex tourism involving children;
-      - **(v)** extrafamilial child sexual molestation;
-      - **(vi)** unsolicited obscene material sent to a child;
-      - **(vii)** misleading domain names; and
-      - **(viii)** misleading words or digital images on the Internet,
-    - **(Q)** work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;
-    - **(R)** operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;
-    - **(S)** develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with public agencies and public and private nonprofit organizations, on—
-      - **(i)** the prevention of child abduction and sexual exploitation; and
-      - **(ii)** internet safety;
-    - **(T)** provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
-    - **(U)** assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
-    - **(V)** provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
+    - **(E)** provide technical assistance and training to families, law enforcement agencies, State and local governments, elements of the criminal justice system, nongovernmental agencies, local educational agencies, and the general public—
+      - **(i)** in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children;
+      - **(ii)** to respond to foster children missing from the State child welfare system in coordination with child welfare agencies and courts handling juvenile justice and dependency matters; and
+      - **(iii)** in the identification, location, and recovery of victims of, and children at risk for, child sex trafficking;
+    - **(F)** provide assistance to families, law enforcement agencies, State and local governments, nongovernmental agencies, child-serving professionals, and other individuals involved in the location and recovery of missing and abducted children nationally and, in cooperation with the Department of State, internationally;
+    - **(G)** provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;
+    - **(H)** provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
+    - **(I)** provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;
+    - **(J)** facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
+    - **(K)** work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
+      - **(i)** by operating a tipline to—
+        - **(I)** provide to individuals and electronic service providers an effective means of reporting internet-related and other instances of child sexual exploitation in the areas of—
+        - **(II)** make reports received through the tipline available to the appropriate law enforcement agency for its review and potential investigation;
+      - **(ii)** by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
+      - **(iii)** by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
+    - **(L)** develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
+      - **(i)** the prevention of child abduction and sexual exploitation;
+      - **(ii)** internet safety, including tips for social media and cyberbullying; and
+      - **(iii)** sexting and sextortion;
+    - **(M)** provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children;
+    - **(N)** assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
+    - **(O)** provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
   - **(2)**
     - **(A)** Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annual salary payable to a member of the Federal Government’s Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
     - **(B)** For the purpose of this paragraph, the term “compensation”—

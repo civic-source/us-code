@@ -3,9 +3,9 @@ title: "Section 7653 - Office of Pest Management Policy"
 usc_title: 7
 usc_section: "7653"
 chapter: 103
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 7653"
-generated_at: "2026-03-30T07:45:46.612Z"
+generated_at: "2026-03-30T07:48:18.795Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
 - **(e)** The Office of Pest Management Policy shall be under the direction of a Director appointed by the Secretary, who shall report directly to the Secretary or a designee of the Secretary.
 - **(f)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 1999 through 2013; and
-  - **(2)** $3,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $3,000,000 for each of fiscal years 2014 through 2023.

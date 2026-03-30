@@ -3,9 +3,9 @@ title: "Section 177 - Repealed. Pub. L. 99–514, title II , § 241(a), Oct. 22,
 usc_title: 26
 usc_section: "177"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 177"
-generated_at: "2026-03-30T07:46:33.212Z"
+generated_at: "2026-03-30T07:49:37.041Z"
 status: "repealed"
 ---
 

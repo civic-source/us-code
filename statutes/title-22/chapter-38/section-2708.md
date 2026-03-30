@@ -3,9 +3,9 @@ title: "Section 2708 - Department of State rewards program"
 usc_title: 22
 usc_section: "2708"
 chapter: 38
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2708"
-generated_at: "2026-03-30T07:46:23.132Z"
+generated_at: "2026-03-30T07:49:19.045Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(B)** to sustain or support any terrorist organization or transnational organized crime group;
   - **(8)** the arrest or conviction in any country of any individual for participating in, primarily outside the United States, transnational organized crime;
   - **(9)** the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
-  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide, as defined under the statute of such tribunal;
+  - **(10)** the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
   - **(11)** the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of section 1030 of title 18 ; or
   - **(12)** the disruption of financial mechanisms of any person who has engaged in the conduct described in sections 1 1 So in original. Probably should be “section”. 2914(a) or 2914(b)(1) of this title.
 - **(c)**
@@ -67,7 +67,7 @@ status: "active"
 - **(k)** As used in this section:
   - **(1)** The term “act of international terrorism” includes—
     - **(A)** any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title ) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
-    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) of title 50 .
+    - **(B)** any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 4605(j)(1)(A) 2 2 See References in Text note below. of title 50.
   - **(2)** The term “appropriate congressional committees” means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
   - **(3)** The term “member of the immediate family”, with respect to an individual, includes—
     - **(A)** a spouse, parent, brother, sister, or child of the individual;

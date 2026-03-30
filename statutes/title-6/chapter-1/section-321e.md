@@ -1,23 +1,13 @@
 ---
-title: "Section 321e - Chief Medical Officer"
+title: "Section 321e - Repealed. Pub. L. 115–387 , § 2(c)(1), Dec. 21, 2018 , 132 Stat. 5166"
 usc_title: 6
 usc_section: "321e"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 321e"
-generated_at: "2026-03-30T07:45:41.906Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.889Z"
+status: "repealed"
 ---
 
-# § 321e. Chief Medical Officer
+# § 321e. Repealed. Pub. L. 115–387 , § 2(c)(1), Dec. 21, 2018 , 132 Stat. 5166
 
-- **(a)** There is in the Department a Chief Medical Officer, who shall be appointed by the President.
-- **(b)** The individual appointed as Chief Medical Officer shall possess a demonstrated ability in and knowledge of medicine and public health.
-- **(c)** The Chief Medical Officer shall have the primary responsibility within the Department for medical issues related to natural disasters, acts of terrorism, and other man-made disasters, including—
-  - **(1)** serving as the principal advisor to the Secretary and the Administrator on medical and public health issues;
-  - **(2)** coordinating the biodefense activities of the Department;
-  - **(3)** ensuring internal and external coordination of all medical preparedness and response activities of the Department, including training, exercises, and equipment support;
-  - **(4)** serving as the Department’s primary point of contact with the Department of Agriculture, the Department of Defense, the Department of Health and Human Services, the Department of Transportation, the Department of Veterans Affairs, and other Federal departments or agencies, on medical and public health issues;
-  - **(5)** serving as the Department’s primary point of contact for State, local, and tribal governments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
-  - **(6)** discharging, in coordination with the Under Secretary for Science and Technology, the responsibilities of the Department related to Project Bioshield; and
-  - **(7)** performing such other duties relating to such responsibilities as the Secretary may require.

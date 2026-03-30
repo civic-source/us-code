@@ -3,9 +3,9 @@ title: "Section 601 - Definitions"
 usc_title: 6
 usc_section: "601"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 601"
-generated_at: "2026-03-30T07:45:41.915Z"
+generated_at: "2026-03-30T07:48:14.899Z"
 status: "active"
 ---
 
@@ -41,7 +41,7 @@ In this subchapter, the following definitions shall apply:
       - **(ii)** that operates a law enforcement or emergency response agency with the capacity to respond to calls for law enforcement or emergency services;
       - **(iii)**
         - **(I)** that is located on or near an international border or a coastline bordering an ocean (including the Gulf of Mexico) or international waters;
-        - **(II)** that is located within 10 miles of a system or asset included on the prioritized critical infrastructure list established under section 124 l (a)(2) of this title or has such a system or asset within its territory;
+        - **(II)** that is located within 10 miles of a system or asset included on the prioritized critical infrastructure list established under section 664(a)(2) of this title or has such a system or asset within its territory;
         - **(III)** that is located within or contiguous to 1 of the 50 most populous metropolitan statistical areas in the United States; or
         - **(IV)** the jurisdiction of which includes not less than 1,000 square miles of Indian country, as that term is defined in section 1151 of title 18 ; and
       - **(iv)** that certifies to the Secretary that a State has not provided funds under section 604 or 605 of this title to the Indian tribe or consortium of Indian tribes for the purpose for which direct funding is sought; and

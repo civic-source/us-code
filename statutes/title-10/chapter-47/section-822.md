@@ -3,9 +3,9 @@ title: "Section 822 - Art. 22. Who may convene general courts-martial"
 usc_title: 10
 usc_section: "822"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 822"
-generated_at: "2026-03-30T07:45:51.251Z"
+generated_at: "2026-03-30T07:48:43.895Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** the commanding officer of a unified or specified combatant command;
   - **(4)** the Secretary concerned;
   - **(5)** the commanding officer of an Army Group, an Army, an Army Corps, a division, a separate brigade, or a corresponding unit of the Army or Marine Corps;
-  - **(6)** the commander in chief of a fleet; the commanding officer of a naval station or larger shore activity of the Navy beyond the United States;
+  - **(6)** the commander of a fleet; the commanding officer of a naval station or larger shore activity of the Navy beyond the United States;
   - **(7)** the commanding officer of an air command, an air force, an air division, or a separate wing of the Air Force or Marine Corps;
   - **(8)** any other commanding officer designated by the Secretary concerned; or
   - **(9)** any other commanding officer in any of the armed forces when empowered by the President.

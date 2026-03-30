@@ -3,9 +3,9 @@ title: "Section 20333 - Specialized technical assistance and training programs"
 usc_title: 34
 usc_section: "20333"
 chapter: 203
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 20333"
-generated_at: "2026-03-30T07:46:36.265Z"
+generated_at: "2026-03-30T07:49:40.349Z"
 status: "active"
 ---
 
@@ -20,6 +20,7 @@ status: "active"
     - **(B)** administrative reform in juvenile and family courts.
   - **(2)** The criteria established for the making of grants pursuant to paragraph (1) shall give priority to programs that improve—
     - **(A)** procedures for determining whether child service agencies have made reasonable efforts to prevent placement of children in foster care;
-    - **(B)** procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family; and
-    - **(C)** procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I.
+    - **(B)** procedures for determining whether child service agencies have, after placement of children in foster care, made reasonable efforts to reunite the family;
+    - **(C)** procedures for coordinating information and services among health professionals, social workers, law enforcement professionals, prosecutors, defense attorneys, and juvenile and family court personnel, consistent with subchapter I; and
+    - **(D)** procedures for improving the judicial response to children who are vulnerable to human trafficking, to the extent an appropriate screening tool exists.
 - **(c)** The Administrator shall make grants under subsections (a) and (b) consistent with sections 11172, 11183, and 11186 of this title.

@@ -3,13 +3,13 @@ title: "Section 701s - Small flood control projects; appropriations; amount limi
 usc_title: 33
 usc_section: "701s"
 chapter: 15
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 701s"
-generated_at: "2026-03-30T07:46:37.769Z"
+generated_at: "2026-03-30T07:49:41.176Z"
 status: "active"
 ---
 
 # § 701s. Small flood control projects; appropriations; amount limitation for single locality; conditions
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $55,000,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title , when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $68,750,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title , when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
 

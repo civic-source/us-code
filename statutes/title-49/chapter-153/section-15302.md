@@ -3,9 +3,9 @@ title: "Section 15302 - Authority to exempt pipeline carrier transportation"
 usc_title: 49
 usc_section: "15302"
 chapter: 153
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 15302"
-generated_at: "2026-03-30T07:47:24.804Z"
+generated_at: "2026-03-30T07:50:15.292Z"
 status: "active"
 ---
 

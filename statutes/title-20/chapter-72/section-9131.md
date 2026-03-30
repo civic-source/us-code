@@ -3,9 +3,9 @@ title: "Section 9131 - Reservations and allotments"
 usc_title: 20
 usc_section: "9131"
 chapter: 72
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 9131"
-generated_at: "2026-03-30T07:46:11.980Z"
+generated_at: "2026-03-30T07:48:57.418Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** From the amount appropriated under the authority of section 9123 of this title for any fiscal year, the Director—
-    - **(A)** shall reserve 1.75 percent to award grants in accordance with section 9161 of this title ; and
+    - **(A)** shall reserve 2.25 percent to award grants in accordance with section 9161 of this title ; and
     - **(B)** shall reserve 3.75 percent to award national leadership grants or contracts in accordance with section 9162 of this title .
   - **(2)** If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) for the fiscal year succeeding the fiscal year for which the funds were so reserved.
 - **(b)**
@@ -23,7 +23,8 @@ status: "active"
     - **(A)** For purposes of this subsection, the minimum allotment for each State shall be $680,000, except that the minimum allotment shall be $60,000 in the case of the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
     - **(B)** Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) for any fiscal year is insufficient to fully satisfy the requirement of subparagraph (A), each of the minimum allotments under such subparagraph shall be reduced ratably.
     - **(C)**
-      - **(i)** Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
-      - **(ii)** The Director shall award grants pursuant to clause (i) on a competitive basis and after taking into consideration available recommendations from the Pacific Region Educational Laboratory in Honolulu, Hawaii.
-      - **(iii)** The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.
+      - **(i)** Notwithstanding subparagraph (A), if the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019—
+        - **(I)** the minimum allotment for each State otherwise receiving a minimum allotment of $680,000 under subparagraph (A) shall be increased to $1,000,000; and
+        - **(II)** the minimum allotment for each State otherwise receiving a minimum allotment of $60,000 under subparagraph (A) shall be increased to $100,000.
+      - **(ii)** If the sum appropriated under the authority of section 9123 of this title and not reserved under subsection (a) for any fiscal year exceeds the aggregate of the allotments for all States under this subsection for fiscal year 2019, yet is insufficient to fully satisfy the requirement of clause (i), such excess amount shall first be allotted among the States described in clause (i)(I) so as to increase equally the minimum allotment for each such State above $680,000. After the requirement of clause (i)(I) is fully satisfied for any fiscal year, any remainder of such excess amount shall be allotted among the States described in clause (i)(II) so as to increase equally the minimum allotment for each such State above $60,000.
   - **(4)** The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.

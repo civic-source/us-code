@@ -3,9 +3,9 @@ title: "Section 12451 - Creating hope through outreach, options, services, and e
 usc_title: 34
 usc_section: "12451"
 chapter: 121
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 12451"
-generated_at: "2026-03-30T07:46:36.255Z"
+generated_at: "2026-03-30T07:49:40.341Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(2)** protect the confidentiality and privacy of child and youth victim information, particularly in the context of parental or third party involvement and consent, mandatory reporting duties, and working with other service providers all with priority on victim safety and autonomy; and
   - **(3)** ensure that all individuals providing intervention or prevention programming to children or youth through a program funded under this section have completed, or will complete, sufficient training in connection with domestic violence, dating violence, sexual assault, stalking, and sex trafficking.
 - **(e)** In this section, the definitions and grant conditions provided for in section 12291 of this title shall apply.
-- **(f)** There is authorized to be appropriated to carry out this section, $15,000,000 for each of fiscal years 2014 through 2018.
+- **(f)** There is authorized to be appropriated to carry out this section, $15,000,000 for each of fiscal years 2019 through 2022.
 - **(g)**
   - **(1)** Not less than 50 percent of the total amount appropriated under this section for each fiscal year shall be used for the purposes described in subsection (b)(1).
   - **(2)** Not less than 10 percent of the total amount appropriated under this section for each fiscal year shall be made available for grants under the program authorized by section 10452 of this title . The requirements of this section shall not apply to funds allocated under this paragraph.

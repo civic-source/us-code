@@ -3,9 +3,9 @@ title: "Section 2291i - Repealed. Pub. L. 104–66, title I , § 1112(a), Dec. 2
 usc_title: 22
 usc_section: "2291i"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2291i"
-generated_at: "2026-03-30T07:46:23.106Z"
+generated_at: "2026-03-30T07:49:19.025Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 112 - Requirements for and contracts with prescription drug plan
 usc_title: 42
 usc_section: "112"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 112"
-generated_at: "2026-03-30T07:46:59.919Z"
+generated_at: "2026-03-30T07:50:06.848Z"
 status: "active"
 ---
 
@@ -65,6 +65,9 @@ status: "active"
     - **(G)** A determination under this paragraph that a claim submitted by a pharmacy is a clean claim shall not be construed as a positive determination regarding eligibility for payment under this subchapter, nor is it an indication of government approval of, or acquiescence regarding, the claim submitted. The determination shall not relieve any party of civil or criminal liability with respect to the claim, nor does it offer a defense to any administrative, civil, or criminal action with respect to the claim.
   - **(5)** Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall provide that a pharmacy located in, or having a contract with, a long-term care facility shall have not less than 30 days (but not more than 90 days) to submit claims to the sponsor for reimbursement under the plan.
   - **(6)** If the PDP sponsor of a prescription drug plan uses a standard for reimbursement of pharmacies based on the cost of a drug, each contract entered into with such sponsor under this part with respect to the plan shall provide that the sponsor shall update such standard not less frequently than once every 7 days, beginning with an initial update on January 1 of each year, to accurately reflect the market price of acquiring the drug.
+  - **(7)**
+    - **(A)** Section 1395y( o )(1) of this title shall apply with respect to a PDP sponsor with a contract under this part, a pharmacy, and payments to such pharmacy under this part in the same manner as such section applies with respect to the Secretary, a provider of services or supplier, and payments to such provider of services or supplier under this subchapter. A PDP sponsor shall notify the Secretary regarding the imposition of any payment suspension pursuant to the previous sentence, such as through the secure internet website portal (or other successor technology) established under section 1395w–28(i) of this title .
+    - **(B)** Nothing in this paragraph shall be construed as limiting the authority of a PDP sponsor to conduct postpayment review.
 - **(c)**
   - **(1)**
     - **(A)** In the case of an entity that seeks to offer a prescription drug plan in a State, the Secretary shall waive the requirement of subsection (a)(1) that the entity be licensed in that State if the Secretary determines, based on the application and other evidence presented to the Secretary, that any of the grounds for approval of the application described in paragraph (2) have been met.

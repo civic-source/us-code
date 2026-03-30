@@ -3,9 +3,9 @@ title: "Section 9521 - Definitions"
 usc_title: 22
 usc_section: "9521"
 chapter: 102
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9521"
-generated_at: "2026-03-30T07:46:23.230Z"
+generated_at: "2026-03-30T07:49:19.121Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ In this part:
   - **(1)** The term “appropriate congressional committees” means—
     - **(A)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Finance of the Senate; and
     - **(B)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.
-  - **(2)** The term “good” has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+  - **(2)** The term “good” has the meaning given that term in section 4618 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(3)** The term “international financial institution” has the meaning given that term in section 262r(c) of this title .
   - **(4)** The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
   - **(5)** The term “person” means an individual or entity.

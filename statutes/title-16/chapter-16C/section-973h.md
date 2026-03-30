@@ -3,9 +3,9 @@ title: "Section 973h - Enforcement"
 usc_title: 16
 usc_section: "973h"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 973h"
-generated_at: "2026-03-30T07:46:15.460Z"
+generated_at: "2026-03-30T07:49:06.031Z"
 status: "active"
 ---
 
@@ -31,5 +31,5 @@ status: "active"
     - **(C)** exercise any other lawful authority; and
     - **(D)** investigate alleged violations of the Treaty to the same extent authorized to investigate alleged violations of this chapter.
   - **(2)** To the extent possible, Authorized Officers shall exercise their powers under paragraph (1)(A)(ii), (iii), and (iv) of this subsection so as not to interfere unduly with the lawful operation of the vessel.
-  - **(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 of title 14 .
+  - **(3)** Nothing in this chapter shall be construed to limit the enforcement of this or other applicable Federal laws under section 89 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 - **(e)** The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter.

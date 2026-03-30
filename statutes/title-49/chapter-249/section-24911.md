@@ -3,9 +3,9 @@ title: "Section 24911 - Federal-State partnership for state of good repair"
 usc_title: 49
 usc_section: "24911"
 chapter: 249
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24911"
-generated_at: "2026-03-30T07:47:24.812Z"
+generated_at: "2026-03-30T07:50:15.304Z"
 status: "active"
 ---
 
@@ -82,4 +82,4 @@ status: "active"
       - **(iii)** a description of how the project meets such criteria.
   - **(3)** An obligation or administrative commitment may be made under this section only when amounts are appropriated for such purpose.
 - **(h)** Amounts appropriated for carrying out this section shall remain available until expended.
-- **(i)** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 24405.
+- **(i)** Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the grant conditions under section 22905.

@@ -3,9 +3,9 @@ title: "Section 1206 - Employees of Alaska Railroad"
 usc_title: 45
 usc_section: "1206"
 chapter: 21
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "45 U.S.C. § 1206"
-generated_at: "2026-03-30T07:46:48.962Z"
+generated_at: "2026-03-30T07:49:57.466Z"
 status: "active"
 ---
 

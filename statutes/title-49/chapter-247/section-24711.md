@@ -3,9 +3,9 @@ title: "Section 24711 - Competitive passenger rail service pilot program"
 usc_title: 49
 usc_section: "24711"
 chapter: 247
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24711"
-generated_at: "2026-03-30T07:47:24.811Z"
+generated_at: "2026-03-30T07:50:15.303Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
 - **(c)** If the Secretary awards the right and obligation to provide intercity rail passenger transportation over a route described in this section to an eligible petitioner—
   - **(1)** the Secretary shall, if necessary to carry out the purposes of this section, require Amtrak to provide access to the Amtrak-owned reservation system, stations, and facilities directly related to operations of the awarded routes to the eligible petitioner awarded a contract under this section, in accordance with subsection (g);
   - **(2)** an employee of any person, except as provided in a collective bargaining agreement, used by such eligible petitioner in the operation of a route under this section shall be considered an employee of that eligible petitioner and subject to the applicable Federal laws and regulations governing similar crafts or classes of employees of Amtrak; and
-  - **(3)** the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 24405.
+  - **(3)** the winning bidder shall provide hiring preference to qualified Amtrak employees displaced by the award of the bid, consistent with the staffing plan submitted by the bidder, and shall be subject to the grant conditions under section 22905.
 - **(d)** If an eligible petitioner awarded a route under this section ceases to operate the service or fails to fulfill an obligation under a contract required under subsection (b)(1)(E), the Secretary, in collaboration with the Surface Transportation Board, shall take any necessary action consistent with this title to enforce the contract and ensure the continued provision of service, including—
   - **(1)** the installment of an interim rail carrier;
   - **(2)** providing to the interim rail carrier under paragraph (1) an operating subsidy necessary to provide service; and

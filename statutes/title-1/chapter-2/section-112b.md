@@ -3,9 +3,9 @@ title: "Section 112b - United States international agreements; transmission to C
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-03-30T07:45:37.535Z"
+generated_at: "2026-03-30T07:47:54.582Z"
 status: "active"
 ---
 
@@ -25,5 +25,5 @@ status: "active"
     - **(A)** An arrangement shall constitute an international agreement within the meaning of this section (other than subsection (c)) irrespective of the duration of activities under the arrangement or the arrangement itself.
     - **(B)** Arrangements that constitute an international agreement within the meaning of this section (other than subsection (c)) include the following:
       - **(i)** A bilateral or multilateral counterterrorism agreement.
-      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), 1 1 See References in Text note below. section 620A(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371(a) ), or section 40(d) of the Arms Export Control Act ( 22 U.S.C. 2780(d) ).
+      - **(ii)** A bilateral agreement with a country that is subject to a determination under section 6(j)(1)(A) 1 1 See References in Text note below. of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371(a) ), or section 40(d) of the Arms Export Control Act ( 22 U.S.C. 2780(d) ).
 - **(f)** The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.

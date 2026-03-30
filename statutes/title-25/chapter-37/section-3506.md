@@ -3,9 +3,9 @@ title: "Section 3506 - Wind and hydropower feasibility study"
 usc_title: 25
 usc_section: "3506"
 chapter: 37
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 3506"
-generated_at: "2026-03-30T07:46:20.681Z"
+generated_at: "2026-03-30T07:49:10.577Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(c)** Not later than 1 year after August 8, 2005 , the Secretary of Energy, the Secretary, and the Secretary of the Army shall submit to Congress a report that describes the results of the study, including—
   - **(1)** an analysis and comparison of the potential energy cost or benefits to the customers of the Western Area Power Administration through the use of combined wind and hydropower;
   - **(2)** an economic and engineering evaluation of whether a combined wind and hydropower system can reduce reservoir fluctuation, enhance efficient and reliable energy production, and provide Missouri River management flexibility;
-  - **(3)** if found feasible, recommendations for a demonstration project to be carried out by the Western Area Power Administration, in partnership with an Indian tribal government or tribal energy resource development organization, and Western Area Power Administration customers to demonstrate the feasibility and potential of using wind energy produced on Indian land to supply firming energy to the Western Area Power Administration; and
+  - **(3)** if found feasible, recommendations for a demonstration project to be carried out by the Western Area Power Administration, in partnership with an Indian tribal government or tribal energy development organization, and Western Area Power Administration customers to demonstrate the feasibility and potential of using wind energy produced on Indian land to supply firming energy to the Western Area Power Administration; and
   - **(4)** an identification of—
     - **(A)** the economic and environmental costs of, or benefits to be realized through, a Federal-tribal-customer partnership; and
     - **(B)** the manner in which a Federal-tribal-customer partnership could contribute to the energy security of the United States.

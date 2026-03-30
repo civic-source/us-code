@@ -3,15 +3,15 @@ title: "Section 70118 - Enforcement by State and local officers"
 usc_title: 46
 usc_section: "70118"
 chapter: 701
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 70118"
-generated_at: "2026-03-30T07:47:17.818Z"
+generated_at: "2026-03-30T07:50:11.302Z"
 status: "active"
 ---
 
 # § 70118. Enforcement by State and local officers
 
-- **(a)** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 of title II of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191 ) or security or safety zone regulation under section 7(b) of the Ports and Waterways Safety Act ( 33 U.S.C. 1226(b) ) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ( 33 U.S.C. 1509(d) ) by a Coast Guard official authorized by law to prescribe such regulations, if—
+- **(a)** Any State or local government law enforcement officer who has authority to enforce State criminal laws may make an arrest for violation of a security zone regulation prescribed under section 1 1 1 See References in Text note below. of title II of the Act of June 15, 1917 (chapter 30; 50 U.S.C. 191 ) or security or safety zone regulation under section 7(b) 1 of the Ports and Waterways Safety Act ( 33 U.S.C. 1226(b) ) or a safety zone regulation prescribed under section 10(d) of the Deepwater Port Act of 1974 ( 33 U.S.C. 1509(d) ) by a Coast Guard official authorized by law to prescribe such regulations, if—
   - **(1)** such violation is a felony; and
   - **(2)** the officer has reasonable grounds to believe that the person to be arrested has committed or is committing such violation.
 - **(b)** The provisions of this section are in addition to any power conferred by law to such officers. This section shall not be construed as a limitation of any power conferred by law to such officers, or any other officer of the United States or any State. This section does not grant to such officers any powers not authorized by the law of the State in which those officers are employed.

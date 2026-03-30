@@ -3,9 +3,9 @@ title: "Section 639 - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 50
 usc_section: "639"
 chapter: 22
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 639"
-generated_at: "2026-03-30T07:47:13.188Z"
+generated_at: "2026-03-30T07:50:18.872Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 162 - Combatant commands: assigned forces; chain of command"
 usc_title: 10
 usc_section: "162"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 162"
-generated_at: "2026-03-30T07:45:51.215Z"
+generated_at: "2026-03-30T07:48:43.870Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** As directed by the Secretary of Defense, the Secretaries of the military departments shall assign specified forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
-  - **(2)** A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 3013, 5013, or 8013 of this title, as applicable.
+  - **(2)** A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 7013, 8013, or 9013 of this title, as applicable.
   - **(3)** A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
     - **(A)** by authority of the Secretary of Defense; and
     - **(B)** under procedures prescribed by the Secretary and approved by the President.

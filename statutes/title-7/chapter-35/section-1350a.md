@@ -3,9 +3,9 @@ title: "Section 1350a - Repealed. Pub. L. 96–470, title I , § 102(e), Oct. 19
 usc_title: 7
 usc_section: "1350a"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1350a"
-generated_at: "2026-03-30T07:45:46.454Z"
+generated_at: "2026-03-30T07:48:18.681Z"
 status: "repealed"
 ---
 

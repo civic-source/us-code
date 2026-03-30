@@ -3,9 +3,9 @@ title: "Section 4085 - Repealed. Pub. L. 98–473, title II , § 218(a)(3), Oct.
 usc_title: 18
 usc_section: "4085"
 chapter: 305
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 4085"
-generated_at: "2026-03-30T07:46:07.420Z"
+generated_at: "2026-03-30T07:48:55.510Z"
 status: "repealed"
 ---
 

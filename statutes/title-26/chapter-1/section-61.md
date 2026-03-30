@@ -3,9 +3,9 @@ title: "Section 61 - Gross income defined"
 usc_title: 26
 usc_section: "61"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 61"
-generated_at: "2026-03-30T07:46:33.185Z"
+generated_at: "2026-03-30T07:49:37.017Z"
 status: "active"
 ---
 
@@ -19,12 +19,11 @@ status: "active"
   - **(5)** Rents;
   - **(6)** Royalties;
   - **(7)** Dividends;
-  - **(8)** 1 1 See Amendment of Subsection (a) note below. Alimony and separate maintenance payments;
-  - **(9)** Annuities;
-  - **(10)** Income from life insurance and endowment contracts;
-  - **(11)** Pensions;
-  - **(12)** Income from discharge of indebtedness;
-  - **(13)** Distributive share of partnership gross income;
-  - **(14)** Income in respect of a decedent; and
-  - **(15)** Income from an interest in an estate or trust.
+  - **(8)** Annuities;
+  - **(9)** Income from life insurance and endowment contracts;
+  - **(10)** Pensions;
+  - **(11)** Income from discharge of indebtedness;
+  - **(12)** Distributive share of partnership gross income;
+  - **(13)** Income in respect of a decedent; and
+  - **(14)** Income from an interest in an estate or trust.
 - **(b)** For items specifically included in gross income, see part II (sec. 71 and following). For items specifically excluded from gross income, see part III (sec. 101 and following).

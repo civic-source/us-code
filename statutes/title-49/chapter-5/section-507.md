@@ -3,9 +3,9 @@ title: "Section 507 - Enforcement"
 usc_title: 49
 usc_section: "507"
 chapter: 5
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 507"
-generated_at: "2026-03-30T07:47:24.782Z"
+generated_at: "2026-03-30T07:50:15.265Z"
 status: "active"
 ---
 

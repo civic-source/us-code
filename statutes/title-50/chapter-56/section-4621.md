@@ -1,15 +1,13 @@
 ---
-title: "Section 4621 - Effective date"
+title: "Section 4621 - Repealed. Pub. L. 115–232, div. A, title XVII , § 1766(a), Aug. 13, 2018 , 132 Stat. 2232"
 usc_title: 50
 usc_section: "4621"
 chapter: 56
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 4621"
-generated_at: "2026-03-30T07:47:13.249Z"
-status: "active"
+generated_at: "2026-03-30T07:50:18.934Z"
+status: "repealed"
 ---
 
-# § 4621. Effective date
-
-This chapter shall take effect upon the expiration of the Export Administration Act of 1969.
+# §§ 4614 to 4621. Repealed. Pub. L. 115–232, div. A, title XVII , § 1766(a), Aug. 13, 2018 , 132 Stat. 2232
 

@@ -3,9 +3,9 @@ title: "Section 10364 - Water management improvement"
 usc_title: 42
 usc_section: "10364"
 chapter: 109
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 10364"
-generated_at: "2026-03-30T07:47:00.275Z"
+generated_at: "2026-03-30T07:50:07.192Z"
 status: "active"
 ---
 
@@ -24,13 +24,20 @@ status: "active"
       - **(i)** to address any climate-related impact to the water supply of the United States that increases ecological resiliency to the impacts of climate change; or
       - **(ii)** to prevent any water-related crisis or conflict at any watershed that has a nexus to a Federal reclamation project located in a service area.
   - **(2)** To be eligible to receive a grant, or enter into an agreement with the Secretary under paragraph (1), an eligible applicant shall—
-    - **(A)** be located within the States and areas referred to in section 391 of title 43 ; and
+    - **(A)** be located within—
+      - **(i)** the States and areas referred to in section 391 of title 43 ;
+      - **(ii)** the State of Alaska; or
+      - **(iii)** the State of Hawaii; and
     - **(B)** submit to the Secretary an application that includes a proposal of the improvement or activity to be planned, designed, constructed, or implemented by the eligible applicant.
   - **(3)**
     - **(A)** Each grant and agreement entered into by the Secretary with any eligible applicant under paragraph (1) shall be in compliance with each requirement described in subparagraphs (B) through (F).
-    - **(B)** In carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
-      - **(i)** to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
-      - **(ii)** to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+    - **(B)**
+      - **(i)** Except as provided in clause (ii), in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the eligible applicant agrees not—
+        - **(I)** to use any associated water savings to increase the total irrigated acreage of the eligible applicant; or
+        - **(II)** to otherwise increase the consumptive use of water in the operation of the eligible applicant, as determined pursuant to the law of the State in which the operation of the eligible applicant is located.
+      - **(ii)** In the case of an eligible applicant that is an Indian tribe, in carrying out paragraph (1), the Secretary shall not provide a grant, or enter into an agreement, for an improvement to conserve irrigation water unless the Indian tribe agrees not—
+        - **(I)** to use any associated water savings to increase the total irrigated acreage more than the water right of that Indian tribe, as determined by—
+        - **(II)** to otherwise increase the consumptive use of water more than the water right of the Indian tribe described in subclause (I).
     - **(C)** Any funds provided by the Secretary to an eligible applicant through a grant or agreement under paragraph (1) shall be nonreimbursable.
     - **(D)** If an infrastructure improvement to a federally owned facility is the subject of a grant or other agreement entered into between the Secretary and an eligible applicant under paragraph (1), the Federal Government shall continue to hold title to the facility and improvements to the facility.
     - **(E)**
@@ -53,4 +60,4 @@ status: "active"
     - **(B)** The agreements under this subsection shall be available to all Reclamation projects and programs that may benefit from project-specific or programmatic cooperative research and development.
 - **(c)** Grants or other agreements made under this section may be for the mutual benefit of the United States and the entity that is provided the grant or enters into the cooperative agreement.
 - **(d)** This section shall not supersede any existing project-specific funding authority.
-- **(e)** There is authorized to be appropriated to carry out this section $450,000,000, 1 1 See Funding note below. to remain available until expended.
+- **(e)** There is authorized to be appropriated to carry out this section $480,000,000 to remain available until expended.

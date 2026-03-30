@@ -3,9 +3,9 @@ title: "Section 8903 - Provision of costs of loan guarantees for Ukraine"
 usc_title: 22
 usc_section: "8903"
 chapter: 96
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 8903"
-generated_at: "2026-03-30T07:46:23.222Z"
+generated_at: "2026-03-30T07:49:19.115Z"
 status: "active"
 ---
 

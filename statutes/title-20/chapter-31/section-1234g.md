@@ -3,9 +3,9 @@ title: "Section 1234g - Judicial review"
 usc_title: 20
 usc_section: "1234g"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 1234g"
-generated_at: "2026-03-30T07:46:11.885Z"
+generated_at: "2026-03-30T07:48:57.360Z"
 status: "active"
 ---
 

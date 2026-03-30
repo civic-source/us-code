@@ -3,9 +3,9 @@ title: "Section 11 - Vacation on request of designation or registration as “re
 usc_title: 7
 usc_section: "11"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 11"
-generated_at: "2026-03-30T07:45:46.389Z"
+generated_at: "2026-03-30T07:48:18.633Z"
 status: "active"
 ---
 

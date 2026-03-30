@@ -3,16 +3,16 @@ title: "Section 7205 - State sponsors of international terrorism"
 usc_title: 22
 usc_section: "7205"
 chapter: 79
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 7205"
-generated_at: "2026-03-30T07:46:23.200Z"
+generated_at: "2026-03-30T07:49:19.098Z"
 status: "active"
 ---
 
 # § 7205. State sponsors of international terrorism
 
 - **(a)**
-  - **(1)** Notwithstanding any other provision of this chapter (other than section 7203 of this title ), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title , section 4605(j)(1) of title 50 , or section 2780(d) of this title , or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
+  - **(1)** Notwithstanding any other provision of this chapter (other than section 7203 of this title ), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title , section 4605(j)(1) 1 1 See References in Text note below. of title 50, or section 2780(d) of this title , or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
   - **(2)** Paragraph (1) shall not apply with respect to the export of agricultural commodities, medicine, or medical devices to the Government of Syria or to the Government of North Korea, or to any other entity in Syria or North Korea.
 - **(b)** The applicable department or agency of the Federal Government shall submit to the appropriate congressional committees on a quarterly basis a report on any activities undertaken under subsection (a)(1) during the preceding calendar quarter.
 - **(c)** Not later than 2 years after October 28, 2000 , and every 2 years thereafter, the applicable department or agency of the Federal Government shall submit a report to the appropriate congressional committees on the operation of the licensing system under this section for the preceding 2-year period, including—

@@ -3,20 +3,21 @@ title: "Section 179 - Nuclear Weapons Council"
 usc_title: 10
 usc_section: "179"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 179"
-generated_at: "2026-03-30T07:45:51.217Z"
+generated_at: "2026-03-30T07:48:43.872Z"
 status: "active"
 ---
 
 # § 179. Nuclear Weapons Council
 
 - **(a)** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
-  - **(1)** The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+  - **(1)** The Under Secretary of Defense for Acquisition and Sustainment.
   - **(2)** The Vice Chairman of the Joint Chiefs of Staff.
   - **(3)** The Under Secretary for Nuclear Security of the Department of Energy.
-  - **(4)** The Under Secretary of Defense for Policy.
-  - **(5)** The Commander of the United States Strategic Command.
+  - **(4)** The Under Secretary of Defense for Research and Engineering.
+  - **(5)** The Under Secretary of Defense for Policy.
+  - **(6)** The Commander of the United States Strategic Command.
 - **(b)**
   - **(1)** Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
   - **(2)** A meeting of the Council shall be chaired by the Under Secretary for Nuclear Security of the Department of Energy whenever the matter under consideration is within the primary responsibility or concern of the Department of Energy, as determined by majority vote of the Council.

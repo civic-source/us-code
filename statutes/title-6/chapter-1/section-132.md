@@ -1,17 +1,13 @@
 ---
-title: "Section 132 - Designation of critical infrastructure protection program"
+title: "Section 132 - Transferred"
 usc_title: 6
 usc_section: "132"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 132"
-generated_at: "2026-03-30T07:45:41.895Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.880Z"
+status: "transferred"
 ---
 
-# § 132. Designation of critical infrastructure protection program
+# § 132. Transferred
 
-A critical infrastructure protection program may be designated as such by one of the following:
-
-  - **(1)** The President.
-  - **(2)** The Secretary of Homeland Security.

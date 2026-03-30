@@ -3,9 +3,9 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-30T07:47:13.233Z"
+generated_at: "2026-03-30T07:50:18.920Z"
 status: "active"
 ---
 
@@ -16,6 +16,7 @@ status: "active"
     - **(A)** the lessee’s entry into military service; or
     - **(B)** the date of the lessee’s military orders described in paragraph (1)(B) or (2)(B) of subsection (b), as the case may be.
   - **(2)** A lessee’s termination of a lease pursuant to this subsection shall terminate any obligation a dependent of the lessee may have under the lease.
+  - **(3)** The spouse of the lessee on a lease described in subsection (b)(1) may terminate the lease during the one-year period beginning on the date of the death of the lessee, if the lessee dies while in military service or while performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in section 101(d) of title 10 ).
 - **(b)** This section applies to the following leases:
   - **(1)** A lease of premises occupied, or intended to be occupied, by a servicemember or a servicemember’s dependents for a residential, professional, business, agricultural, or similar purpose if—
     - **(A)** the lease is executed by or on behalf of a person who thereafter and during the term of the lease enters military service; or

@@ -3,9 +3,9 @@ title: "Section 2269 - Tribal partnership program"
 usc_title: 33
 usc_section: "2269"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2269"
-generated_at: "2026-03-30T07:46:37.817Z"
+generated_at: "2026-03-30T07:49:41.213Z"
 status: "active"
 ---
 
@@ -24,8 +24,8 @@ status: "active"
     - **(A)** On the request of an Indian tribe, the Secretary shall conduct a study on, and provide to the Indian tribe a report describing, the feasibility of a water resources development project described in paragraph (1).
     - **(B)** A report under subparagraph (A) may, but shall not be required to, contain a recommendation on a specific water resources development project.
   - **(4)**
-    - **(A)** The Secretary may carry out the design and construction of a water resources development project described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project is not more than $10,000,000.
-    - **(B)** If the Federal share of the cost of a project described in subparagraph (A) is more than $10,000,000, the Secretary may only carry out the project if Congress enacts a law authorizing the Secretary to carry out the project.
+    - **(A)** The Secretary may carry out the design and construction of a water resources development project, or separable element of a project, described in paragraph (1) that the Secretary determines is feasible if the Federal share of the cost of the project or separable element is not more than $12,500,000.
+    - **(B)** If the Federal share of the cost of the project or separable element described in subparagraph (A) is more than $12,500,000, the Secretary may only carry out the project or separable element if Congress enacts a law authorizing the Secretary to carry out the project or separable element.
 - **(c)**
   - **(1)** In recognition of the unique role of the Secretary of the Interior concerning trust responsibilities with Indian tribes and in recognition of mutual trust responsibilities, the Secretary shall consult with the Secretary of the Interior concerning an activity conducted under subsection (b).
   - **(2)** The Secretary shall—

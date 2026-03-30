@@ -3,9 +3,9 @@ title: "Section 1914 - Implementation of depository library program by Director 
 usc_title: 44
 usc_section: "1914"
 chapter: 19
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "44 U.S.C. § 1914"
-generated_at: "2026-03-30T07:46:48.127Z"
+generated_at: "2026-03-30T07:49:48.240Z"
 status: "active"
 ---
 

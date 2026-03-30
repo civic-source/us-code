@@ -1,16 +1,19 @@
 ---
-title: "Section 861 - Art. 61. Waiver or withdrawal of appeal"
+title: "Section 861 - Art. 61. Waiver of right to appeal; withdrawal of appeal"
 usc_title: 10
 usc_section: "861"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 861"
-generated_at: "2026-03-30T07:45:51.258Z"
+generated_at: "2026-03-30T07:48:43.898Z"
 status: "active"
 ---
 
-# § 861. Art. 61. Waiver or withdrawal of appeal
+# § 861. Art. 61. Waiver of right to appeal; withdrawal of appeal
 
-- **(a)** In each case subject to appellate review under section 866 or 869(a) of this title (article 66 or 69(a)), except a case in which the sentence as approved under section 860(c) of this title (article 60(c)) includes death, the accused may file with the convening authority a statement expressly waiving the right of the accused to such review. Such a waiver shall be signed by both the accused and by defense counsel and must be filed within 10 days after the action under section 860(c) of this title (article 60(c)) is served on the accused or on defense counsel. The convening authority or other person taking such action, for good cause, may extend the period for such filing by not more than 30 days.
-- **(b)** Except in a case in which the sentence as approved under section 860(c) of this title (article 60(c)) includes death, the accused may withdraw an appeal at any time.
-- **(c)** A waiver of the right to appellate review or the withdrawal of an appeal under this section bars review under section 866 or 869(a) of this title (article 66 or 69(a)).
+- **(a)** After entry of judgment in a general or special court-martial, under procedures prescribed by the Secretary concerned, the accused may waive the right to appellate review in each case subject to such review under section 866 of this title (article 66). Such a waiver shall be—
+  - **(1)** signed by the accused and by defense counsel; and
+  - **(2)** attached to the record of trial.
+- **(b)** In a general or special court-martial, the accused may withdraw an appeal at any time.
+- **(c)** Notwithstanding subsections (a) and (b), an accused may not waive the right to appeal or withdraw an appeal with respect to a judgment that includes a sentence of death.
+- **(d)** A waiver or withdrawal under this section bars review under section 866 of this title (article 66).

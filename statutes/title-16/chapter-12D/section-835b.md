@@ -3,9 +3,9 @@ title: "Section 835b - Repealed. Pub. L. 87–728 , § 3, Oct. 1, 1962 , 76 Stat
 usc_title: 16
 usc_section: "835b"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 835b"
-generated_at: "2026-03-30T07:46:15.449Z"
+generated_at: "2026-03-30T07:49:06.024Z"
 status: "repealed"
 ---
 

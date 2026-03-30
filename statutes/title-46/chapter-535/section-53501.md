@@ -3,9 +3,9 @@ title: "Section 53501 - Definitions"
 usc_title: 46
 usc_section: "53501"
 chapter: 535
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 53501"
-generated_at: "2026-03-30T07:47:17.810Z"
+generated_at: "2026-03-30T07:50:11.291Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ In this chapter:
     - **(A)** a vessel—
       - **(i)** constructed in the United States (and, if reconstructed, reconstructed in the United States), constructed outside the United States but documented under the laws of the United States on April 15, 1970 , or constructed outside the United States for use in the United States foreign trade pursuant to a contract made before April 15, 1970 ;
       - **(ii)** documented under the laws of the United States; and
-      - **(iii)** agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title , to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade trade 1 1 So in original. or in the fisheries of the United States; and
+      - **(iii)** agreed, between the Secretary and the person maintaining the capital construction fund established under section 53503 of this title , to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States; and
     - **(B)** a commercial fishing vessel—
       - **(i)** constructed in the United States and, if reconstructed, reconstructed in the United States;
       - **(ii)** of at least 2 net tons but less than 5 net tons;
@@ -56,7 +56,7 @@ In this chapter:
     - **(B)** that is—
       - **(i)** loaded at a port in the United States and unloaded either at another port in the United States or at a port in Canada located in the Great Lakes Saint Lawrence Seaway System; or
       - **(ii)** loaded at a port in Canada located in the Great Lakes Saint Lawrence Seaway System and unloaded at a port in the United States.
-  - **(7)** The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
-  - **(8)** The term “vessel” includes—
+  - **(8)** The term “United States foreign trade” includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.
+  - **(9)** The term “vessel” includes—
     - **(A)** cargo handling equipment that the Secretary determines is intended for use primarily on the vessel; and
     - **(B)** an ocean-going towing vessel, an ocean-going barge, or a comparable towing vessel or barge operated on the Great Lakes.

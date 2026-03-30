@@ -3,9 +3,9 @@ title: "Section 4111 - Repealed. Pub. L. 107–95 , § 5(e)(3), Dec. 21, 2001 , 
 usc_title: 38
 usc_section: "4111"
 chapter: 41
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 4111"
-generated_at: "2026-03-30T07:46:46.234Z"
+generated_at: "2026-03-30T07:49:45.575Z"
 status: "repealed"
 ---
 

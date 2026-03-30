@@ -3,9 +3,9 @@ title: "Section 522 - Reporting and record keeping violations"
 usc_title: 49
 usc_section: "522"
 chapter: 5
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 522"
-generated_at: "2026-03-30T07:47:24.782Z"
+generated_at: "2026-03-30T07:50:15.266Z"
 status: "active"
 ---
 

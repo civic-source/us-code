@@ -3,9 +3,9 @@ title: "Section 1989 - Rules and regulations"
 usc_title: 7
 usc_section: "1989"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1989"
-generated_at: "2026-03-30T07:45:46.503Z"
+generated_at: "2026-03-30T07:48:18.715Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
     - **(B)** knowledge of the regulations concerning the guaranteed loan program; and
     - **(C)** proficiency related to the certified lender program requirements.
   - **(2)** The designation of a lender as a Preferred Certified Lender shall be revoked at any time that the Secretary determines that such lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of a Preferred Certified Lender are excessive as compared to other Preferred Certified Lenders, except that such suspension or revocation shall not affect any outstanding guarantee.
-  - **(3)** As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each preferred certified lender to ensure that the conditions of such certification are being met.
+  - **(3)** As a condition of such preferred certification, the Secretary shall require the institution to undertake to service the loans guaranteed by the Secretary under this subsection using generally accepted banking standards concerning loan servicing employed by prudent commercial or cooperative lenders. The Secretary shall, at least annually, monitor the performance of each Preferred Certified Lender to ensure that the conditions of such certification are being met.
   - **(4)** Notwithstanding any other provision of law, the Secretary shall—
     - **(A)** guarantee 80 percent of an approved loan made by a certified lending institution as described in this subsection, subject to county committee certification that the borrower meets the eligibility requirements or such other criteria as may be applicable to loans guaranteed by the Secretary under other provisions of this chapter;
     - **(B)** permit certified lending institutions to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to credit worthiness, the closing, monitoring, collection and liquidation of loans, and to accept appropriate certifications, as provided by regulations issued by the Secretary, that the borrower is in compliance with all requirements of law or regulations promulgated by the Secretary; and

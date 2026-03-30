@@ -3,9 +3,9 @@ title: "Section 2756 - Unfunded priorities of the National Nuclear Security Admi
 usc_title: 50
 usc_section: "2756"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 2756"
-generated_at: "2026-03-30T07:47:13.213Z"
+generated_at: "2026-03-30T07:50:18.899Z"
 status: "active"
 ---
 
@@ -18,7 +18,8 @@ status: "active"
     - **(B)** The additional amount of funds recommended in connection with the objectives under subparagraph (A).
     - **(C)** Account information with respect to that priority.
   - **(2)** Each report required by subsection (a) shall present the unfunded priorities covered by the report in order of urgency of priority.
-- **(c)** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
+- **(c)** If the Administrator fails to submit to the congressional defense committees a report required by subsection (a) for any of fiscal years 2020 through 2024 that includes the matters specified in subsection (b)(1) for at least one unfunded priority by the deadline specified in subsection (a), not more than 65 percent of the funds authorized to be appropriated or otherwise made available for the fiscal year in which such failure occurs for travel and transportation of persons under the Federal salaries and expenses account of the Administration may be obligated or expended until the date on which the Administrator submits such report.
+- **(d)** In this section, the term “unfunded priority”, in the case of a fiscal year, means a program, activity, or mission requirement that—
   - **(1)** is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to section 1105(a) of title 31 ;
   - **(2)** is necessary to fulfill a requirement associated with the mission of the Administration; and
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—

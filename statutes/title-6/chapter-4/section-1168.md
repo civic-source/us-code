@@ -3,9 +3,9 @@ title: "Section 1168 - Railroad security research and development"
 usc_title: 6
 usc_section: "1168"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 1168"
-generated_at: "2026-03-30T07:45:41.927Z"
+generated_at: "2026-03-30T07:48:14.914Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(1)** In carrying out research and development projects under this section, the Secretary shall consult with the Chief Privacy Officer of the Department and the Officer for Civil Rights and Civil Liberties of the Department as appropriate and in accordance with section 142 of this title .
   - **(2)** In accordance with sections 142 and 345 of this title, the Chief Privacy Officer shall conduct privacy impact assessments and the Officer for Civil Rights and Civil Liberties shall conduct reviews, as appropriate, for research and development initiatives developed under this section that the Secretary determines could have an impact on privacy, civil rights, or civil liberties.
 - **(e)**
-  - **(1)** Out of funds appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary to carry out this section—
+  - **(1)** Out of funds appropriated pursuant to section 114(w) 1 1 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
     - **(A)** $33,000,000 for fiscal year 2008;
     - **(B)** $33,000,000 for fiscal year 2009;
     - **(C)** $33,000,000 for fiscal year 2010; and

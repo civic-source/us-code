@@ -3,16 +3,16 @@ title: "Section 1935 - Down payment loan program"
 usc_title: 7
 usc_section: "1935"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1935"
-generated_at: "2026-03-30T07:45:46.498Z"
+generated_at: "2026-03-30T07:48:18.712Z"
 status: "active"
 ---
 
 # § 1935. Down payment loan program
 
 - **(a)**
-  - **(1)** Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers for down payments on farm ownership loans.
+  - **(1)** Notwithstanding any other section of this subchapter, the Secretary shall establish, within the farm ownership loan program established under this subchapter, a program under which loans shall be made under this section to eligible farmers or ranchers for down payments on farm ownership loans.
   - **(2)** The Secretary shall be the primary coordinator of credit supervision for the down payment loan program established under this section, in consultation with the commercial or cooperative lender and, if applicable, the contracting credit counseling service selected under section 2006b(c) of this title .
 - **(b)**
   - **(1)** Each loan made under this section shall be in an amount that does not exceed 45 percent of the least of—
@@ -36,10 +36,16 @@ status: "active"
 - **(d)** In carrying out this section, the Secretary shall, to the maximum extent practicable—
   - **(1)** facilitate the transfer of farms and ranches from retiring farmers and ranchers to persons eligible for insured loans under this subchapter;
   - **(2)** make efforts to widely publicize the availability of loans under this section among—
-    - **(A)** potentially eligible recipients of the loans;
+    - **(A)** potentially eligible farmers or ranchers;
     - **(B)** retiring farmers and ranchers; and
     - **(C)** applicants for farm ownership loans under this subchapter;
-  - **(3)** encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;
-  - **(4)** coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for beginning farmers or ranchers or socially disadvantaged farmers or ranchers; and
-  - **(5)** establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher.
-- **(e)** In this section, the term “socially disadvantaged farmer or rancher” has the meaning given that term in section 2003(e)(2) of this title .
+  - **(3)** encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to eligible farmers or ranchers by providing seller financing;
+  - **(4)** coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for—
+    - **(A)** beginning farmers or ranchers;
+    - **(B)** socially disadvantaged farmers or ranchers, as defined in section 2003(e) of this title ; or
+    - **(C)** veteran farmers or ranchers, as defined in section 2279(a) of this title ; and; and 1 1 So in original.
+  - **(5)** establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to an eligible farmer or rancher.
+- **(e)** In this section, the term “eligible farmer or rancher” means—
+  - **(1)** a qualified beginning farmer or rancher;
+  - **(2)** a socially disadvantaged farmer or rancher, as defined in section 2003(e) of this title ; and
+  - **(3)** a veteran farmer or rancher, as defined in section 2279(a) of this title .

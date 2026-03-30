@@ -1,15 +1,15 @@
 ---
-title: "Section 44704 - Type certificates, production certificates, airworthiness certificates,, 1 1 So in original. and design and production organization certificates"
+title: "Section 44704 - Type certificates, production certificates, airworthiness certificates, and design and production organization certificates"
 usc_title: 49
 usc_section: "44704"
 chapter: 447
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 44704"
-generated_at: "2026-03-30T07:47:24.837Z"
+generated_at: "2026-03-30T07:50:15.332Z"
 status: "active"
 ---
 
-# § 44704. Type certificates, production certificates, airworthiness certificates,, 1 1 So in original. and design and production organization certificates
+# § 44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates
 
 - **(a)**
   - **(1)** The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title . On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
@@ -26,6 +26,13 @@ status: "active"
       - **(iii)** making such data available will enhance aviation safety.
     - **(B)** In this section, the term “engineering data” as used with respect to an aircraft, engine, propeller, or appliance means type design drawing and specifications for the entire aircraft, engine, propeller, or appliance or change to the aircraft, engine, propeller, or appliance, including the original design data, and any associated supplier data for individual parts or components approved as part of the particular certificate for the aircraft, engine, propeller, or appliance.
     - **(C)** The Administrator shall maintain engineering data in the possession of the Administration relating to a type certificate or a supplemental type certificate that has been inactive for 3 or more years.
+  - **(6)**
+    - **(A)** Not later than 15 months after the date of enactment of the FAA Reauthorization Act of 2018, the Administrator shall establish an effective, timely, and milestone-based issue resolution process for type certification activities under this subsection.
+    - **(B)** The resolution process shall provide for—
+      - **(i)** resolution of technical issues at pre-established stages of the certification process, as agreed to by the Administrator and the type certificate applicant;
+      - **(ii)** automatic elevation to appropriate management personnel of the Federal Aviation Administration and the type certificate applicant of any major certification process milestone that is not completed or resolved within a specific period of time agreed to by the Administrator and the type certificate applicant; and
+      - **(iii)** resolution of a major certification process milestone elevated pursuant to clause (ii) within a specific period of time agreed to by the Administrator and the type certificate applicant.
+    - **(C)** In this paragraph, the term “major certification process milestone” means a milestone related to a type certification basis, type certification plan, type inspection authorization, issue paper, or other major type certification activity agreed to by the Administrator and the type certificate applicant.
 - **(b)**
   - **(1)** The Administrator may issue a type certificate designated as a supplemental type certificate for a change to an aircraft, aircraft engine, propeller, or appliance.
   - **(2)** A supplemental type certificate issued under paragraph (1) shall consist of the change to the aircraft, aircraft engine, propeller, or appliance with respect to the previously issued type certificate for the aircraft, aircraft engine, propeller, or appliance.

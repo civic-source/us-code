@@ -3,9 +3,9 @@ title: "Section 5362 - Definitions"
 usc_title: 31
 usc_section: "5362"
 chapter: 53
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "31 U.S.C. § 5362"
-generated_at: "2026-03-30T07:46:36.899Z"
+generated_at: "2026-03-30T07:49:39.776Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 576b - Purchasers of national-forest timber; deposits of money i
 usc_title: 16
 usc_section: "576b"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 576b"
-generated_at: "2026-03-30T07:46:15.400Z"
+generated_at: "2026-03-30T07:49:05.990Z"
 status: "active"
 ---
 

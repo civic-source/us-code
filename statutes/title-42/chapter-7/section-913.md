@@ -3,9 +3,9 @@ title: "Section 913 - Duties and authority of Secretary"
 usc_title: 42
 usc_section: "913"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 913"
-generated_at: "2026-03-30T07:46:59.851Z"
+generated_at: "2026-03-30T07:50:06.785Z"
 status: "active"
 ---
 

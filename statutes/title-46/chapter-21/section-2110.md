@@ -3,9 +3,9 @@ title: "Section 2110 - Fees"
 usc_title: 46
 usc_section: "2110"
 chapter: 21
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 2110"
-generated_at: "2026-03-30T07:47:17.789Z"
+generated_at: "2026-03-30T07:50:11.267Z"
 status: "active"
 ---
 
@@ -33,4 +33,3 @@ status: "active"
 - **(h)** Fees and charges collected by the Secretary under this section shall be deposited in the general fund of the Treasury as offsetting receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities.
 - **(i)** The collection of a fee or charge under this section does not alter or expand the functions, powers, responsibilities, or liability of the United States under any law for the performance of services or the provision of a thing of value for which a fee or charge is collected under this section.
 - **(j)** The Secretary may not establish or collect a fee or charge for the inspection under part B of this subtitle of training vessels operated by State maritime academies.
-- **(k)** The Secretary may not plan, implement or finalize any regulation that would promulgate any new maritime user fee which was not implemented and collected prior to January 1, 1998 , including a fee or charge for any domestic icebreaking service or any other navigational assistance service. This subsection expires on September 30, 2006 .

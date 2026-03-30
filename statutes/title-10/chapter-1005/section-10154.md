@@ -3,9 +3,9 @@ title: "Section 10154 - Retired Reserve"
 usc_title: 10
 usc_section: "10154"
 chapter: 1005
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 10154"
-generated_at: "2026-03-30T07:45:51.453Z"
+generated_at: "2026-03-30T07:48:44.006Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 The Retired Reserve consists of the following Reserves:
 
-  - **(1)** Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under section 291 of title 14 .
+  - **(1)** Reserves who are or have been retired under section 7311, 8323, or 9311 of this title or under section 291 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
   - **(2)** Reserves who have been transferred to the Retired Reserve, retain their status as Reserves, and are otherwise qualified.

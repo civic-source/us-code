@@ -3,9 +3,9 @@ title: "Section 6555 - Relation to other laws"
 usc_title: 16
 usc_section: "6555"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6555"
-generated_at: "2026-03-30T07:46:15.573Z"
+generated_at: "2026-03-30T07:49:06.110Z"
 status: "active"
 ---
 

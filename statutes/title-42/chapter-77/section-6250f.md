@@ -3,9 +3,9 @@ title: "Section 6250f - Limit on amount of petroleum distillate"
 usc_title: 42
 usc_section: "6250f"
 chapter: 77
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 6250f"
-generated_at: "2026-03-30T07:47:00.148Z"
+generated_at: "2026-03-30T07:50:07.060Z"
 status: "active"
 ---
 

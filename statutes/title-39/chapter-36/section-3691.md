@@ -3,9 +3,9 @@ title: "Section 3691 - Establishment of modern service standards"
 usc_title: 39
 usc_section: "3691"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "39 U.S.C. § 3691"
-generated_at: "2026-03-30T07:46:39.527Z"
+generated_at: "2026-03-30T07:49:42.757Z"
 status: "active"
 ---
 

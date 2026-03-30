@@ -1,29 +1,15 @@
 ---
-title: "Section 1 - National Center for Rural Telecommunications Assessment"
+title: "Section 1 - Environmental reviews"
 usc_title: 7
 usc_section: "1"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T07:45:46.446Z"
+generated_at: "2026-03-30T07:48:18.675Z"
 status: "active"
 ---
 
-# § 950bb–1. National Center for Rural Telecommunications Assessment
+# § 950cc–1. Environmental reviews
 
-- **(a)** The Secretary shall designate an entity to serve as the National Center for Rural Telecommunications Assessment (referred to in this section as the “Center”).
-- **(b)** In designating the Center under subsection (a), the Secretary shall take into consideration the following criteria:
-  - **(1)** The Center shall be an entity that demonstrates to the Secretary—
-    - **(A)** a focus on rural policy research; and
-    - **(B)** a minimum of 5 years of experience relating to rural telecommunications research and assessment.
-  - **(2)** The Center shall be capable of assessing broadband services in rural areas.
-  - **(3)** The Center shall have significant experience involving other rural economic development centers and organizations with respect to the assessment of rural policies and the formulation of policy solutions at the Federal, State, and local levels.
-- **(c)** The Center shall be managed by a board of directors, which shall be responsible for the duties of the Center described in subsection (d).
-- **(d)** The Center shall—
-  - **(1)** assess the effectiveness of programs carried out under this subchapter in increasing broadband penetration and purchase in rural areas, especially in rural communities identified by the Secretary as having no broadband service before the provision of a loan or loan guarantee under this subchapter;
-  - **(2)** work with existing rural development centers selected by the Center to identify policies and initiatives at the Federal, State, and local levels that have increased broadband penetration and purchase in rural areas and provide recommendations to Federal, State, and local policymakers on effective strategies to bring affordable broadband services to residents of rural areas, particularly residents located outside of the municipal boundaries of a rural city or town; and
-  - **(3)** develop and publish reports describing the activities carried out by the Center under this section.
-- **(e)** Not later than December 1 of each applicable fiscal year, the board of directors of the Center shall submit to Congress and the Secretary a report describing the activities carried out by the Center during the preceding fiscal year and the results of any research conducted by the Center during that fiscal year, including—
-  - **(1)** an assessment of each program carried out under this subchapter; and
-  - **(2)** an assessment of the effects of the policy initiatives identified under subsection (d)(2).
-- **(f)** There is authorized to be appropriated to the Secretary to carry out this section $1,000,000 for each of fiscal years 2008 through 2012.
+The Secretary may obligate, but not disperse, funds under this chapter before the completion of otherwise required environmental, historical, or other types of reviews if the Secretary determines that a subsequent site-specific review shall be adequate and easily accomplished for the location of towers, poles, or other broadband facilities in the service area of the borrower without compromising the project or the required reviews.
+

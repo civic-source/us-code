@@ -3,9 +3,9 @@ title: "Section 361c - Authorization of appropriations and allotments of grants"
 usc_title: 7
 usc_section: "361c"
 chapter: 14
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 361c"
-generated_at: "2026-03-30T07:45:46.427Z"
+generated_at: "2026-03-30T07:48:18.660Z"
 status: "active"
 ---
 
@@ -34,9 +34,7 @@ status: "active"
 - **(e)** “Administration” as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3).
 - **(f)** In making payments to States, the Secretary of Agriculture is authorized to adjust any such payment to the nearest dollar.
 - **(g)** If in any year the amount made available by a State from its own funds (including any revenue-sharing funds) to a State agricultural experiment station is reduced because of an increase in the allotment made available under sections 361a to 361i of this title, the allotment to the State agricultural experiment station from the appropriation in the next succeeding fiscal year shall be reduced in an equivalent amount. The Secretary shall reapportion the amount of such reduction to other States for use by their agricultural experiment stations.
-- **(h)**
-  - **(1)** Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title .
-  - **(2)** The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3).
+- **(h)** Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this subsection shall be considered to satisfy the merit review requirements of section 7613(e) of this title .
 - **(i)**
   - **(1)** Not less than the applicable percentage specified under paragraph (2) of the Federal formula funds that are paid under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title to colleges and universities eligible to receive funds under the Act of July 2, 1862 ( 12 Stat. 503 , chapter 130; 7 U.S.C. 301 et seq.), during a fiscal year shall be expended for activities that integrate cooperative research and extension (referred to in this subsection as “integrated activities”).
   - **(2)**
@@ -45,7 +43,6 @@ status: "active"
       - **(i)** 25 percent; or
       - **(ii)** twice the percentage for the State determined under subparagraph (A).
     - **(C)** The Secretary of Agriculture may reduce the minimum percentage required to be expended by a State for integrated activities under subparagraph (B) in a case of hardship, infeasibility, or other similar circumstance beyond the control of the State, as determined by the Secretary.
-    - **(D)** The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title , as applicable, a description of the manner in which the State will meet the requirements of this paragraph.
   - **(3)** This subsection does not apply to funds provided—
     - **(A)** by a State or local government pursuant to a matching requirement;
     - **(B)** to a 1994 Institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 ( Public Law 103–382 ; 7 U.S.C. 301 note)); or

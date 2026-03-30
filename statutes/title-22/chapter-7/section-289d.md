@@ -3,9 +3,9 @@ title: "Section 289d - Omitted"
 usc_title: 22
 usc_section: "289d"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 289d"
-generated_at: "2026-03-30T07:46:23.069Z"
+generated_at: "2026-03-30T07:49:18.998Z"
 status: "omitted"
 ---
 

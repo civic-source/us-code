@@ -3,9 +3,9 @@ title: "Section 1341 - Rights and protections under Occupational Safety and Heal
 usc_title: 2
 usc_section: "1341"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1341"
-generated_at: "2026-03-30T07:45:37.417Z"
+generated_at: "2026-03-30T07:48:12.676Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
   - **(2)** The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
   - **(3)** The regulations issued under paragraph (1) shall include a method of identifying, for purposes of this section and for different categories of violations of subsection (a), the employing office responsible for correction of a particular violation.
 - **(e)**
-  - **(1)** On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
+  - **(1)** On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1), shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Office of Congressional Accessibility Services, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Congressional Workplace Rights, the Office of Technology Assessment, the Library of Congress, and the Government Accountability Office to report on compliance with subsection (a).
   - **(2)** On the basis of each periodic inspection, the General Counsel shall prepare and submit a report—
     - **(A)** to the Speaker of the House of Representatives, the President pro tempore of the Senate, and the Office of the Architect of the Capitol or other employing office responsible for correcting the violation of this section uncovered by such inspection, and
     - **(B)** containing the results of the periodic inspection, identifying the employing office responsible for correcting the violation of this section uncovered by such inspection, describing any steps necessary to correct any violation of this section, and assessing any risks to employee health and safety associated with any violation.

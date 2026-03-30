@@ -1,19 +1,13 @@
 ---
-title: "Section 215 - Alimony, etc., payments"
+title: "Section 215 - Repealed. Pub. L. 115–97, title I , § 11051(a), Dec. 22, 2017 , 131 Stat. 2089 ]"
 usc_title: 26
 usc_section: "215"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 215"
-generated_at: "2026-03-30T07:46:33.215Z"
-status: "active"
+generated_at: "2026-03-30T07:49:37.044Z"
+status: "repealed"
 ---
 
-# § 215. Alimony, etc., payments
+# [§ 215. Repealed. Pub. L. 115–97, title I , § 11051(a), Dec. 22, 2017 , 131 Stat. 2089 ]
 
-- **(a)** In the case of an individual, there shall be allowed as a deduction an amount equal to the alimony or separate maintenance payments paid during such individual’s taxable year.
-- **(b)** For purposes of this section, the term “alimony or separate maintenance payment” means any alimony or separate maintenance payment (as defined in section 71(b)) which is includible in the gross income of the recipient under section 71.
-- **(c)** The Secretary may prescribe regulations under which—
-  - **(1)** any individual receiving alimony or separate maintenance payments is required to furnish such individual’s taxpayer identification number to the individual making such payments, and
-  - **(2)** the individual making such payments is required to include such taxpayer identification number on such individual’s return for the taxable year in which such payments are made.
-- **(d)** No deduction shall be allowed under this section with respect to any payment if, by reason of section 682 (relating to income of alimony trusts), the amount thereof is not includible in such individual’s gross income.

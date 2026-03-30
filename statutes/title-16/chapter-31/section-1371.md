@@ -3,9 +3,9 @@ title: "Section 1371 - Moratorium on taking and importing marine mammals and mar
 usc_title: 16
 usc_section: "1371"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 1371"
-generated_at: "2026-03-30T07:46:15.479Z"
+generated_at: "2026-03-30T07:49:06.044Z"
 status: "active"
 ---
 
@@ -45,11 +45,14 @@ status: "active"
     - **(D)** The authority to deter marine mammals pursuant to subparagraph (A) applies to all marine mammals, including all stocks designated as depleted under this chapter.
   - **(5)**
     - **(A)**
-      - **(i)** Upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
+      - **(i)** Except as provided by clause (ii), upon request therefor by citizens of the United States who engage in a specified activity (other than commercial fishing) within a specified geographical region, the Secretary shall allow, during periods of not more than five consecutive years each, the incidental, but not intentional, taking by citizens while engaging in that activity within that region of small numbers of marine mammals of a species or population stock if the Secretary, after notice (in the Federal Register and in newspapers of general circulation, and through appropriate electronic media, in the coastal areas that may be affected by such activity) and opportunity for public comment—
         - **(I)** finds that the total of such taking during each five-year (or less) period concerned will have a negligible impact on such species or stock and will not have an unmitigable adverse impact on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or, in the case of a cooperative agreement under both this chapter and the Whaling Convention Act of 1949 ( 16 U.S.C. 916 et seq.), pursuant to section 1382(c) of this title ; and
         - **(II)** prescribes regulations setting forth—
-      - **(ii)** For a military readiness activity (as defined in section 315(f) of Public Law 107–314 ; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
-      - **(iii)** Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314 ; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
+      - **(ii)** In the case of a military readiness activity (as defined in section 315(f) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 ( Public Law 107–314 ; 16 U.S.C. 703 note), clause (i) shall be applied—
+        - **(I)** in the matter preceding clause (I), by substituting “seven consecutive years” for “five consecutive years”; and
+        - **(II)** in clause (I), by substituting “seven-year” for “five-year”.
+      - **(iii)** For a military readiness activity (as defined in section 315(f) of Public Law 107–314 ; 16 U.S.C. 703 note), a determination of “least practicable adverse impact on such species or stock” under clause (i)(II)(aa) shall include consideration of personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity. Before making the required determination, the Secretary shall consult with the Department of Defense regarding personnel safety, practicality of implementation, and impact on the effectiveness of the military readiness activity.
+      - **(iv)** Notwithstanding clause (i), for any authorization affecting a military readiness activity (as defined in section 315(f) of Public Law 107–314 ; 16 U.S.C. 703 note), the Secretary shall publish the notice required by such clause only in the Federal Register.
     - **(B)** The Secretary shall withdraw, or suspend for a time certain (either on an individual or class basis, as appropriate) the permission to take marine mammals under subparagraph (A) pursuant to a specified activity within a specified geographical region if the Secretary finds, after notice and opportunity for public comment (as required under subparagraph (A) unless subparagraph (C)(i) applies), that—
       - **(i)** the regulations prescribed under subparagraph (A) regarding methods of taking, monitoring, or reporting are not being substantially complied with by a person engaging in such activity; or
       - **(ii)** the taking allowed under subparagraph (A) pursuant to one or more activities within one or more regions is having, or may have, more than a negligible impact on the species or stock concerned.

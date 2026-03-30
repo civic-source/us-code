@@ -3,9 +3,9 @@ title: "Section 2912 - Availability and use of energy cost savings"
 usc_title: 10
 usc_section: "2912"
 chapter: 173
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2912"
-generated_at: "2026-03-30T07:45:51.401Z"
+generated_at: "2026-03-30T07:48:43.981Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title , shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
 - **(b)** The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under section 2916(b)(2) of this title shall be used as follows:
-  - **(1)** One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
+  - **(1)** One-half of the amount shall be used for the implementation of additional energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and energy security measures, including energy resilience and energy conservation construction projects, at buildings, facilities, or installations of the Department of Defense or related to vehicles and equipment of the Department, which are designated, in accordance with regulations prescribed by the Secretary of Defense, by the head of the department, agency, or instrumentality that realized the savings referred to in subsection (a).
   - **(2)** One-half of the amount shall be used at the installation at which the savings were realized, as determined by the commanding officer of such installation consistent with applicable law and regulations, for—
     - **(A)** improvements to existing military family housing units;
     - **(B)** any unspecified minor construction project that will enhance the quality of life of personnel; or

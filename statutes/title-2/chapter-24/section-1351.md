@@ -3,9 +3,9 @@ title: "Section 1351 - Application of chapter 71 of title 5 relating to Federal 
 usc_title: 2
 usc_section: "1351"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1351"
-generated_at: "2026-03-30T07:45:37.417Z"
+generated_at: "2026-03-30T07:48:12.676Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
     - **(D)** the Office of the Speaker of the House of Representatives, the Office of the Majority Leader of the House of Representatives, the Office of the Minority Leader of the House of Representatives, the Offices of the Chief Deputy Majority Whips, the Offices of the Chief Deputy Minority Whips and the following offices within the Office of the Clerk of the House of Representatives: Offices of Legislative Operations, Official Reporters of Debate, Official Reporters to Committees, Printing Services, and Legislative Information;
     - **(E)** the Office of the Legislative Counsel of the Senate, the Office of the Senate Legal Counsel, the Office of the Legislative Counsel of the House of Representatives, the Office of the General Counsel of the House of Representatives, the Office of the Parliamentarian of the House of Representatives, and the Office of the Law Revision Counsel;
     - **(F)** the offices of any caucus or party organization;
-    - **(G)** the Congressional Budget Office, the Office of Technology Assessment, and the Office of Compliance; and
+    - **(G)** the Congressional Budget Office, the Office of Technology Assessment, and the Office of Congressional Workplace Rights; and
     - **(H)** such other offices that perform comparable functions which are identified under regulations of the Board.
 - **(f)**
   - **(1)** Except as provided in paragraph (2), subsections (a) and (b) shall be effective on October 1, 1996 .

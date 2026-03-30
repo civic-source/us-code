@@ -3,9 +3,9 @@ title: "Section 2304 - Contracts: competition requirements"
 usc_title: 10
 usc_section: "2304"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2304"
-generated_at: "2026-03-30T07:45:51.342Z"
+generated_at: "2026-03-30T07:48:43.948Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(D)** would ensure the continuous availability of a reliable source of supply of such property or service;
     - **(E)** would satisfy projected needs for such property or service determined on the basis of a history of high demand for the property or service; or
     - **(F)** in the case of medical supplies, safety supplies, or emergency supplies, would satisfy a critical need for such supplies.
-  - **(2)** The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644) and concerns other than small business concerns, historically Black colleges and universities, and minority institutions in furtherance of section 2323 of this title .
+  - **(2)** The head of an agency may provide for the procurement of property or services covered by this section using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644).
   - **(3)** A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by subsection (f)(1).
   - **(4)** A determination under paragraph (1) may not be made for a class of purchases or contracts.
 - **(c)** The head of an agency may use procedures other than competitive procedures only when—

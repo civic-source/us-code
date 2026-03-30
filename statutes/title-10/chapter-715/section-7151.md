@@ -1,0 +1,23 @@
+---
+title: "Section 7151 - Commissioned officer grades"
+usc_title: 10
+usc_section: "7151"
+chapter: 715
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 7151"
+generated_at: "2026-03-30T07:48:43.983Z"
+status: "active"
+---
+
+# § 7151. Commissioned officer grades
+
+The commissioned grades in the Regular Army are:
+
+  - **(1)** Major general.
+  - **(2)** Brigadier general.
+  - **(3)** Colonel.
+  - **(4)** Lieutenant colonel.
+  - **(5)** Major.
+  - **(6)** Captain.
+  - **(7)** First lieutenant.
+  - **(8)** Second lieutenant.

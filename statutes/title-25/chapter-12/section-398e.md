@@ -3,9 +3,9 @@ title: "Section 398e - Applications for permits to prospect for oil and gas file
 usc_title: 25
 usc_section: "398e"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 398e"
-generated_at: "2026-03-30T07:46:20.630Z"
+generated_at: "2026-03-30T07:49:10.537Z"
 status: "active"
 ---
 

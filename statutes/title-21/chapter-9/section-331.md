@@ -3,9 +3,9 @@ title: "Section 331 - Prohibited acts"
 usc_title: 21
 usc_section: "331"
 chapter: 9
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "21 U.S.C. § 331"
-generated_at: "2026-03-30T07:46:19.672Z"
+generated_at: "2026-03-30T07:49:09.772Z"
 status: "active"
 ---
 
@@ -52,7 +52,7 @@ The following acts and the causing thereof are prohibited:
 - **(z)** Omitted.
 - **(aa)** The importation of a prescription drug in violation of section 384 of this title , the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 - **(bb)** The transfer of an article of food in violation of an order under section 334(h) of this title , or the removal or alteration of any mark or label required by the order to identify the article as detained.
-- **(cc)** The importing or offering for import into the United States of an article of food by, with the assistance of, or at the direction of, a person debarred under section 335a(b)(3) of this title .
+- **(cc)** The importing or offering for import into the United States of an article of food or a drug by, with the assistance of, or at the direction of, a person debarred from such activity under section 335a(b)(3) of this title .
 - **(dd)** The failure to register in accordance with section 350d of this title .
 - **(ee)** The importing or offering for import into the United States of an article of food in violation of the requirements under section 381(m) of this title .
 - **(ff)** The importing or offering for import into the United States of a drug or device with respect to which there is a failure to comply with a request of the Secretary to submit to the Secretary a statement under section 381( o ) of this title.
@@ -108,3 +108,4 @@ The following acts and the causing thereof are prohibited:
   - **(2)** In this paragraph—
     - **(A)** the term “plastic microbead” means any solid plastic particle that is less than five millimeters in size and is intended to be used to exfoliate or cleanse the human body or any part thereof; and
     - **(B)** the term “rinse-off cosmetic” includes toothpaste.
+- **(eee)** The failure to comply with any order issued under section 360bbb–8d of this title .

@@ -3,9 +3,9 @@ title: "Section 592a - Technology research and development investment strategy f
 usc_title: 6
 usc_section: "592a"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 592a"
-generated_at: "2026-03-30T07:45:41.915Z"
+generated_at: "2026-03-30T07:48:14.899Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
 - **(c)** Not later than 1 year after October 13, 2006 , the Secretary shall submit a report to the appropriate congressional committees on—
   - **(1)** the impact of this title, 1 1 See References in Text note below. and the amendments made by this title, on the responsibilities under section 182 of this title ; and
   - **(2)** the efforts of the Department to coordinate, integrate, and establish priorities for conducting all basic and applied research, development, testing, and evaluation of technology and systems to detect, prevent, protect, and respond to chemical, biological, radiological, and nuclear terrorist attacks.
-- **(d)** The Director for Domestic Nuclear Detection and the Under Secretary for Science and Technology shall jointly and annually notify Congress that the strategy and technology road map for nuclear and radiological detection developed under subsections (a) and (b) is consistent with the national policy and strategic plan for identifying priorities, goals, objectives, and policies for coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to terrorist threats from weapons of mass destruction that are required under section 182(2) of this title .
+- **(d)** The Director for Domestic Nuclear Detection 1 and the Under Secretary for Science and Technology shall jointly and annually notify Congress that the strategy and technology road map for nuclear and radiological detection developed under subsections (a) and (b) is consistent with the national policy and strategic plan for identifying priorities, goals, objectives, and policies for coordinating the Federal Government’s civilian efforts to identify and develop countermeasures to terrorist threats from weapons of mass destruction that are required under section 182(2) of this title .

@@ -3,9 +3,9 @@ title: "Section 318 - National Advisory Council"
 usc_title: 6
 usc_section: "318"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 318"
-generated_at: "2026-03-30T07:45:41.905Z"
+generated_at: "2026-03-30T07:48:14.889Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
     - **(A)** The Deputy Administrator, Protection and National Preparedness of the Federal Emergency Management Agency, or designee.
     - **(B)** The Chief Safety Officer of the Pipeline and Hazardous Materials Safety Administration, or designee.
     - **(C)** The Associate Administrator for Hazardous Materials Safety of the Pipeline and Hazardous Materials Safety Administration, or designee.
-    - **(D)** The Director of the Office of Emergency Communications of the Department of Homeland Security, or designee.
+    - **(D)** The Assistant Director for Emergency Communications, or designee.
     - **(E)** The Director for the Office of Railroad, Pipeline and Hazardous Materials Investigations of the National Transportation Safety Board, or designee.
     - **(F)** The Chief Safety Officer and Associate Administrator for Railroad Safety of the Federal Railroad Administration, or designee.
     - **(G)** The Assistant Administrator for Security Policy and Industry Engagement of the Transportation Security Administration, or designee.

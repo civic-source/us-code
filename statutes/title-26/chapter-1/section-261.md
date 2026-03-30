@@ -3,9 +3,9 @@ title: "Section 261 - General rule for disallowance of deductions"
 usc_title: 26
 usc_section: "261"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 261"
-generated_at: "2026-03-30T07:46:33.221Z"
+generated_at: "2026-03-30T07:49:37.048Z"
 status: "active"
 ---
 

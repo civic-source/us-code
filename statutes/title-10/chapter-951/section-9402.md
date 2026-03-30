@@ -1,0 +1,15 @@
+---
+title: "Section 9402 - Enlisted members of Air Force: schools"
+usc_title: 10
+usc_section: "9402"
+chapter: 951
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 9402"
+generated_at: "2026-03-30T07:48:44.002Z"
+status: "active"
+---
+
+# § 9402. Enlisted members of Air Force: schools
+
+- **(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Air Force with the approval of the President, enlisted members of the Air Force shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Air Force officers in this instruction.
+- **(b)** Schools for the instruction of enlisted members of the Air Force in the common branches of education, including United States history, shall be maintained at all air bases at which members of the Air Force are stationed. The Secretary may detail members of the Air Force to carry out this subsection. The commander of each air base where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.

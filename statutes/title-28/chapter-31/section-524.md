@@ -3,9 +3,9 @@ title: "Section 524 - Availability of appropriations"
 usc_title: 28
 usc_section: "524"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "28 U.S.C. § 524"
-generated_at: "2026-03-30T07:46:26.396Z"
+generated_at: "2026-03-30T07:49:24.225Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
         - **(III)** printing;
         - **(IV)** the storage, protection, and destruction of controlled substances; and
         - **(V)** contracting for services directly related to the identification of forfeitable assets, and the processing of and accounting for forfeitures;
-    - **(B)** the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of chapter 77 of title 18, sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
+    - **(B)** the payment of awards for information or assistance directly relating to violations of the criminal drug laws of the United States or of chapter 77 of title 18, chapter 110 of title 18, sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986;
     - **(C)** at the discretion of the Attorney General, the payment of awards for information or assistance leading to a civil or criminal forfeiture involving any Federal agency participating in the Fund;
     - **(D)** the compromise and payment of valid liens and mortgages against property that has been forfeited pursuant to any law enforced or administered by the Department of Justice, subject to the discretion of the Attorney General to determine the validity of any such lien or mortgage and the amount of payment to be made, and the employment of attorneys and other personnel skilled in State real estate law as necessary;
     - **(E)**

@@ -3,9 +3,9 @@ title: "Section 1683 - Indian Catastrophic Health Emergency Fund"
 usc_title: 25
 usc_section: "1683"
 chapter: 18
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 1683"
-generated_at: "2026-03-30T07:46:20.654Z"
+generated_at: "2026-03-30T07:49:10.555Z"
 status: "active"
 ---
 

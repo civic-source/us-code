@@ -3,9 +3,9 @@ title: "Section 2313 - Transfer of functions"
 usc_title: 42
 usc_section: "2313"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 2313"
-generated_at: "2026-03-30T07:47:00.075Z"
+generated_at: "2026-03-30T07:50:06.992Z"
 status: "active"
 ---
 

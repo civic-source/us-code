@@ -3,9 +3,9 @@ title: "Section 1302 - Application of laws"
 usc_title: 2
 usc_section: "1302"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1302"
-generated_at: "2026-03-30T07:45:37.416Z"
+generated_at: "2026-03-30T07:48:12.675Z"
 status: "active"
 ---
 
@@ -29,3 +29,8 @@ status: "active"
   - **(3)** Each report accompanying any bill or joint resolution relating to terms and conditions of employment or access to public services or accommodations reported by a committee of the House of Representatives or the Senate shall—
     - **(A)** describe the manner in which the provisions of the bill or joint resolution apply to the legislative branch; or
     - **(B)** in the case of a provision not applicable to the legislative branch, include a statement of the reasons the provision does not apply.
+- **(c)**
+  - **(1)** The provisions of this chapter that apply to a violation of section 1311(a)(1) of this title shall be considered to apply to a violation of title II of the Genetic Information Nondiscrimination Act of 2008 ( 42 U.S.C. 2000ff et seq.), consistent with section 207(c) of that Act ( 42 U.S.C. 2000ff–6(c) ).
+  - **(2)**
+    - **(A)** Nothing in this section limits the provisions of this chapter that apply to a violation of a law described in subparagraph (B).
+    - **(B)** A law described in this subparagraph is a law (even if not listed in subsection (a) or this subsection) that explicitly applies one or more provisions of this chapter to a violation.

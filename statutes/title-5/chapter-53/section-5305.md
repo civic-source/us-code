@@ -3,9 +3,9 @@ title: "Section 5305 - Special pay authority"
 usc_title: 5
 usc_section: "5305"
 chapter: 53
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 5305"
-generated_at: "2026-03-30T07:45:39.124Z"
+generated_at: "2026-03-30T07:48:04.584Z"
 status: "active"
 ---
 

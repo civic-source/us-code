@@ -3,9 +3,9 @@ title: "Section 16413 - National Center for Energy Management and Building Techn
 usc_title: 42
 usc_section: "16413"
 chapter: 149
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 16413"
-generated_at: "2026-03-30T07:47:00.357Z"
+generated_at: "2026-03-30T07:50:07.281Z"
 status: "active"
 ---
 

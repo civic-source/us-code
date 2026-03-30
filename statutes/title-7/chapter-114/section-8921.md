@@ -3,9 +3,9 @@ title: "Section 8921 - Research and development of agricultural countermeasures"
 usc_title: 7
 usc_section: "8921"
 chapter: 114
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 8921"
-generated_at: "2026-03-30T07:45:46.637Z"
+generated_at: "2026-03-30T07:48:18.812Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
     - **(B)** waiving the requirement would lead to the rapid development of a qualified agricultural countermeasure, as determined by the Secretary.
 - **(b)** There are authorized to be appropriated to carry out this section—
   - **(1)** $50,000,000 for each of fiscal years 2008 through 2013; and
-  - **(2)** $15,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $15,000,000 for each of fiscal years 2014 through 2023.

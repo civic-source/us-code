@@ -3,15 +3,15 @@ title: "Section 47128 - State block grant program"
 usc_title: 49
 usc_section: "47128"
 chapter: 471
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 47128"
-generated_at: "2026-03-30T07:47:24.847Z"
+generated_at: "2026-03-30T07:50:15.347Z"
 status: "active"
 ---
 
 # § 47128. State block grant program
 
-- **(a)** The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+- **(a)** The Secretary of Transportation shall issue guidance to carry out a State block grant program. The guidance shall provide that the Secretary may designate not more than 20 qualified States for each fiscal year to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 - **(b)** A State wishing to participate in the program must submit an application to the Secretary. The Secretary shall select a State on the basis of its application only after—
   - **(1)** deciding the State has an organization capable of effectively administering a block grant made under this section;
   - **(2)** deciding the State uses a satisfactory airport system planning process;

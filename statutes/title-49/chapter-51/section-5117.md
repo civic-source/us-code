@@ -3,9 +3,9 @@ title: "Section 5117 - Special permits and exclusions"
 usc_title: 49
 usc_section: "5117"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 5117"
-generated_at: "2026-03-30T07:47:24.786Z"
+generated_at: "2026-03-30T07:50:15.271Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(1)** The Secretary shall exclude, in any part, from this chapter and regulations prescribed under this chapter—
     - **(A)** a public vessel (as defined in section 2101 of title 46 );
     - **(B)** a vessel exempted under section 3702 of title 46 from chapter 37 of title 46; and
-    - **(C)** a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 ( 33 U.S.C. 1221 et seq.).
+    - **(C)** a vessel to the extent it is regulated under the Ports and Waterways Safety Act of 1972 1 1 See References in Text note below. ( 33 U.S.C. 1221 et seq.).
   - **(2)** This chapter and regulations prescribed under this chapter do not prohibit—
     - **(A)** or regulate transportation of a firearm (as defined in section 232 of title 18 ), or ammunition for a firearm, by an individual for personal use; or
     - **(B)** transportation of a firearm or ammunition in commerce.

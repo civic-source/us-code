@@ -3,9 +3,9 @@ title: "Section 3292b - Competitive grants for international agricultural scienc
 usc_title: 7
 usc_section: "3292b"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3292b"
-generated_at: "2026-03-30T07:45:46.552Z"
+generated_at: "2026-03-30T07:48:18.751Z"
 status: "active"
 ---
 
@@ -20,4 +20,4 @@ status: "active"
   - **(5)** enhance the capability of United States colleges and universities, in cooperation with other Federal agencies, to provide leadership and educational programs that will assist United States natural resources and food production, processing, and distribution businesses and industries to compete internationally, including product market identification, international policies limiting or enhancing market production, development of new or enhancement of existing markets, and production efficiencies.
 - **(c)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 1999 through 2013; and
-  - **(2)** $5,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $5,000,000 for each of fiscal years 2014 through 2023.

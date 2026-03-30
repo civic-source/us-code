@@ -3,9 +3,9 @@ title: "Section 1j - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 S
 usc_title: 42
 usc_section: "1j"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1j"
-generated_at: "2026-03-30T07:46:59.671Z"
+generated_at: "2026-03-30T07:50:06.612Z"
 status: "repealed"
 ---
 

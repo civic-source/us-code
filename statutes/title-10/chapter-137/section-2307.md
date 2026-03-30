@@ -3,17 +3,23 @@ title: "Section 2307 - Contract financing"
 usc_title: 10
 usc_section: "2307"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2307"
-generated_at: "2026-03-30T07:45:51.345Z"
+generated_at: "2026-03-30T07:48:43.950Z"
 status: "active"
 ---
 
 # § 2307. Contract financing
 
-- **(a)** The head of any agency may—
-  - **(1)** make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
-  - **(2)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+- **(a)**
+  - **(1)** The head of any agency may 1 1 So in original.
+    - **(A)** make advance, partial, progress, or other payments under contracts for property or services made by the agency; and
+    - **(B)** insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
+  - **(2)**
+    - **(A)** For a prime contractor (as defined in section 8701 of title 41 ) that is a small business concern (as defined in section 3 of the Small Business Act ( 15 U.S.C. 632 )), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if a specific payment date is not established by contract.
+    - **(B)** For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if—
+      - **(i)** a specific payment date is not established by contract; and
+      - **(ii)** the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 - **(b)**
   - **(1)** Whenever practicable, payments under subsection (a) shall be made using performance-based payments on any of the following bases:
     - **(A)** Performance measured by objective, quantifiable methods such as delivery of acceptable items, work measurement, or statistical process controls.

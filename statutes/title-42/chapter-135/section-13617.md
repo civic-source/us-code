@@ -3,9 +3,9 @@ title: "Section 13617 - Treatment of covered section 8 housing not subject to el
 usc_title: 42
 usc_section: "13617"
 chapter: 135
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 13617"
-generated_at: "2026-03-30T07:47:00.332Z"
+generated_at: "2026-03-30T07:50:07.256Z"
 status: "active"
 ---
 

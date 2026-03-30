@@ -1,0 +1,19 @@
+---
+title: "Section 9656 - Notifications to be provided by the Corporation"
+usc_title: 22
+usc_section: "9656"
+chapter: 103
+current_through: "PL 116-10"
+classification: "22 U.S.C. § 9656"
+generated_at: "2026-03-30T07:49:19.125Z"
+status: "active"
+---
+
+# § 9656. Notifications to be provided by the Corporation
+
+- **(a)** Not later than 15 days prior to the Corporation making a financial commitment associated with the provision of support under subchapter II of this title in an amount in excess of $10,000,000, the Chief Executive Officer of the Corporation shall submit to the appropriate congressional committees a report in writing that contains the information required by subsection (b).
+- **(b)** The information required by this subsection includes—
+  - **(1)** the amount of each such financial commitment;
+  - **(2)** an identification of the recipient or beneficiary; and
+  - **(3)** a description of the project, activity, or asset and the development goal or purpose to be achieved by providing support by the Corporation.
+- **(c)** The Chief Executive Officer of the Corporation shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral agreement described in section 9631(a) of this title .

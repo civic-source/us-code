@@ -3,9 +3,9 @@ title: "Section 12304 - Selected Reserve and certain Individual Ready Reserve me
 usc_title: 10
 usc_section: "12304"
 chapter: 1209
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 12304"
-generated_at: "2026-03-30T07:45:51.461Z"
+generated_at: "2026-03-30T07:48:44.010Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(1)** a use or threatened use of a weapon of mass destruction; or
   - **(2)** a terrorist attack or threatened terrorist attack in the United States that results, or could result, in significant loss of life or property.
 - **(c)**
-  - **(1)** No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+  - **(1)** No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or section 12406 of this title or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
   - **(2)** Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
   - **(3)** No unit or member of a reserve component may be ordered to active duty under this section to provide assistance referred to in subsection (b) unless the President determines that the requirements for responding to an emergency referred to in that subsection have exceeded, or will exceed, the response capabilities of local, State, and Federal civilian agencies.
 - **(d)** Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.

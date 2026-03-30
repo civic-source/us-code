@@ -3,9 +3,9 @@ title: "Section 3731 - Appraisals"
 usc_title: 38
 usc_section: "3731"
 chapter: 37
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 3731"
-generated_at: "2026-03-30T07:46:46.232Z"
+generated_at: "2026-03-30T07:49:45.572Z"
 status: "active"
 ---
 

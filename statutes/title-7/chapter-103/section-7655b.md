@@ -3,9 +3,9 @@ title: "Section 7655b - Forestry products advanced utilization research"
 usc_title: 7
 usc_section: "7655b"
 chapter: 103
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 7655b"
-generated_at: "2026-03-30T07:45:46.612Z"
+generated_at: "2026-03-30T07:48:18.795Z"
 status: "active"
 ---
 
@@ -39,5 +39,5 @@ status: "active"
   - **(2)** the number of buildings the Forest Service has built with wood as the primary structural material; and
   - **(3)** the investments made by the Forest Service in green building and wood promotion.
 - **(f)**
-  - **(1)** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2018.
+  - **(1)** There are authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2014 through 2023.
   - **(2)** To the extent practicable, the Secretary shall match any funds made available under paragraph (1) with funds made available under section 1646 of title 16 .

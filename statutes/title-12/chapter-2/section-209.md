@@ -3,9 +3,9 @@ title: "Section 209 - Liability protection"
 usc_title: 12
 usc_section: "209"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 209"
-generated_at: "2026-03-30T07:46:02.643Z"
+generated_at: "2026-03-30T07:48:49.448Z"
 status: "active"
 ---
 

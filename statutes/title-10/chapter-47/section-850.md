@@ -1,16 +1,19 @@
 ---
-title: "Section 850 - Art. 50. Admissibility of records of courts of inquiry"
+title: "Section 850 - Art. 50. Admissibility of sworn testimony from records of courts of inquiry"
 usc_title: 10
 usc_section: "850"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 850"
-generated_at: "2026-03-30T07:45:51.255Z"
+generated_at: "2026-03-30T07:48:43.897Z"
 status: "active"
 ---
 
-# § 850. Art. 50. Admissibility of records of courts of inquiry
+# § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry
 
 - **(a)** In any case not capital and not extending to the dismissal of a commissioned officer, the sworn testimony, contained in the duly authenticated record of proceedings of a court of inquiry, of a person whose oral testimony cannot be obtained, may, if otherwise admissible under the rules of evidence, be read in evidence by any party before a court-martial or military commission if the accused was a party before the court of inquiry and if the same issue was involved or if the accused consents to the introduction of such evidence. This section does not apply to a military commission established under chapter 47A of this title.
 - **(b)** Such testimony may be read in evidence only by the defense in capital cases or cases extending to the dismissal of a commissioned officer.
 - **(c)** Such testimony may also be read in evidence before a court of inquiry or a military board.
+- **(d)** Sworn testimony that—
+  - **(1)** is recorded by audiotape, videotape, or similar method; and
+  - **(2)** is contained in the duly authenticated record of proceedings of a court of inquiry;

@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions"
 usc_title: 38
 usc_section: "3301"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 3301"
-generated_at: "2026-03-30T07:46:46.223Z"
+generated_at: "2026-03-30T07:49:45.563Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ In this chapter:
 
   - **(1)** The term “active duty” has the meanings as follows (subject to the limitations specified in sections 3002(6) and 3311(b)):
     - **(A)** In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
-    - **(B)** In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 of title 14 .
+    - **(B)** In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
     - **(C)** In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
       - **(i)** in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard; or
       - **(ii)** in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.

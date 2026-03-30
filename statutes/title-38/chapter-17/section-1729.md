@@ -3,9 +3,9 @@ title: "Section 1729 - Recovery by the United States of the cost of certain care
 usc_title: 38
 usc_section: "1729"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1729"
-generated_at: "2026-03-30T07:46:46.209Z"
+generated_at: "2026-03-30T07:49:45.549Z"
 status: "active"
 ---
 
@@ -17,8 +17,8 @@ status: "active"
     - **(A)** that is incurred incident to the individual’s employment and that is covered under a workers’ compensation law or plan that provides for payment for the cost of health care and services provided to the individual by reason of the disability;
     - **(B)** that is incurred as the result of a motor vehicle accident to which applies a State law that requires the owners or operators of motor vehicles registered in that State to have in force automobile accident reparations insurance;
     - **(C)** that is incurred as the result of a crime of personal violence that occurred in a State, or a political subdivision of a State, in which a person injured as the result of such a crime is entitled to receive health care and services at such State’s or subdivision’s expense for personal injuries suffered as the result of such crime;
-    - **(D)** that is incurred by an individual who is entitled to care (or payment of the expenses of care) under a health-plan contract.
-    - **(E)** for which care and services are furnished before September 30, 2019 , under this chapter to a veteran who—
+    - **(D)** that is incurred by an individual who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
+    - **(E)** for which care and services are furnished under this chapter to a veteran who—
       - **(i)** has a service-connected disability; and
       - **(ii)** is entitled to care (or payment of the expenses of care) under a health-plan contract.
   - **(3)** In the case of a health-plan contract that contains a requirement for payment of a deductible or copayment by the individual—

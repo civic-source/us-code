@@ -3,9 +3,9 @@ title: "Section 1397E - Repealed. Pub. L. 115–97, title I , § 13404(c)(1), De
 usc_title: 26
 usc_section: "1397E"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 1397E"
-generated_at: "2026-03-30T07:46:33.328Z"
+generated_at: "2026-03-30T07:49:37.138Z"
 status: "repealed"
 ---
 

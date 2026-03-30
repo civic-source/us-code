@@ -1,23 +1,39 @@
 ---
-title: "Section 345 - Regional Defense Combating Terrorism Fellowship Program"
+title: "Section 345 - Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program"
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-03-30T07:45:51.228Z"
+generated_at: "2026-03-30T07:48:43.880Z"
 status: "active"
 ---
 
-# § 345. Regional Defense Combating Terrorism Fellowship Program
+# § 345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program
 
-- **(a)** Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
-- **(b)** The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
-- **(c)** Not later than December 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
+- **(a)**
+  - **(1)** The Secretary of Defense may carry out a program under which the Secretary may pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted for purposes of regional defense in connection with either of the following:
+    - **(A)** Combating terrorism.
+    - **(B)** Irregular warfare.
+  - **(2)** Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
+  - **(3)** The program authorized by this section shall be known as the “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
+- **(b)**
+  - **(1)** The program authorized by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense and the Secretary of State.
+  - **(2)** The regulations shall ensure that—
+    - **(A)** the Secretary of Defense and the Secretary of State—
+      - **(i)** jointly develop and plan activities under the program that—
+        - **(I)** advance United States security cooperation objectives; and
+        - **(II)** support theater security cooperation planning of the combatant commands; and
+      - **(ii)** coordinate on the implementation of activities under the program;
+    - **(B)** each of the Secretary of Defense and the Secretary of State designates an individual at the lowest appropriate level of the Department of Defense or the Department of State, as applicable, who shall be responsible for program coordination; and
+    - **(C)** to the extent practicable, activities under the program are appropriately coordinated with, and do not duplicate or conflict with, activities under International Military Education and Training (IMET) authorities.
+  - **(3)** Upon any update of the regulations, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a copy of the regulations as so updated, together with a description of the update.
+- **(c)** The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
+- **(d)** Not later than December 1 of each year, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
   - **(1)** A complete accounting of the expenditure of appropriated funds for purposes authorized under subsection (a), including—
     - **(A)** the countries of the foreign officers and officials for whom costs were paid; and
     - **(B)** for each such country, the total amount of the costs paid.
   - **(2)** The training courses attended by the foreign officers and officials, including a specification of which, if any, courses were conducted in foreign countries.
-  - **(3)** An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States in the global war on terrorism.
+  - **(3)** An assessment of the effectiveness of the program referred to in subsection (a), including engagement activities for program alumni, in increasing the cooperation of the governments of foreign countries with the United States.
   - **(4)** A discussion of any actions being taken to improve the program, including a list of any unfunded or unmet training requirements and requests.
   - **(5)** A discussion and justification of how the program fits within the theater security priorities of each of the commanders of the geographic combatant commands.

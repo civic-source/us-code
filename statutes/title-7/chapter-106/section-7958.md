@@ -3,9 +3,9 @@ title: "Section 7958 - Miscellaneous provisions"
 usc_title: 7
 usc_section: "7958"
 chapter: 106
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 7958"
-generated_at: "2026-03-30T07:45:46.621Z"
+generated_at: "2026-03-30T07:48:18.802Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** The Secretary shall appoint—
       - **(i)** 3 producers from the Southeast (Alabama, Georgia, and Florida) peanut producing region;
       - **(ii)** 3 producers from the Southwest (Texas, Oklahoma, and New Mexico) peanut producing region; and
-      - **(iii)** 3 producers from the Virginia/Carolina (Virginia and North Carolina) peanut producing region.
+      - **(iii)** 3 producers from the Virginia/Carolina (Virginia, North Carolina, and South Carolina) peanut producing region.
     - **(C)** The Secretary shall appoint 3 peanut industry representatives from each of the 3 peanut producing regions in the United States.
   - **(3)**
     - **(A)** A member of the Board shall serve a 3-year term.

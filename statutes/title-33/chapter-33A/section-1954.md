@@ -3,9 +3,9 @@ title: "Section 1954 - Coordination"
 usc_title: 33
 usc_section: "1954"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 1954"
-generated_at: "2026-03-30T07:46:37.812Z"
+generated_at: "2026-03-30T07:49:41.209Z"
 status: "active"
 ---
 
@@ -16,8 +16,10 @@ status: "active"
   - **(1)** the National Oceanic and Atmospheric Administration, who shall serve as the Chairperson of the Committee;
   - **(2)** the Environmental Protection Agency;
   - **(3)** the United States Coast Guard;
-  - **(4)** the United States Navy; and
-  - **(5)** such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
+  - **(4)** the United States Navy;
+  - **(5)** the Department of State;
+  - **(6)** the Department of the Interior; and
+  - **(7)** such other Federal agencies that have an interest in ocean issues or water pollution prevention and control as the Secretary of Commerce determines appropriate.
 - **(c)** The Committee shall meet at least twice a year to provide a public, interagency forum to ensure the coordination of national and international research, monitoring, education, and regulatory actions addressing the persistent marine debris problem.
 - **(d)** The Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration, in cooperation with the Administrator of the Environmental Protection Agency, shall utilize the marine debris data derived under title V of the Marine Protection, Research, and Sanctuaries Act of 1972 ( 33 U.S.C. 2801 et seq.) to assist—
   - **(1)** the Committee in ensuring coordination of research, monitoring, education and regulatory actions; and

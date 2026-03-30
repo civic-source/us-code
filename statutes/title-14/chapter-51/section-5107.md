@@ -1,0 +1,20 @@
+---
+title: "Section 5107 - Major acquisition program risk assessment"
+usc_title: 14
+usc_section: "5107"
+chapter: 51
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 5107"
+generated_at: "2026-03-30T07:48:46.257Z"
+status: "active"
+---
+
+# § 5107. Major acquisition program risk assessment
+
+- **(a)** Not later than April 15 and October 15 of each year, the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing regarding a current assessment of the risks associated with all current major acquisition programs, as that term is defined in section 5103(f).
+- **(b)** Each assessment under this subsection shall include, for each current major acquisition program, discussion of the following:
+  - **(1)** The top five current risks to such program.
+  - **(2)** Any failure of such program to demonstrate a key performance parameter or threshold during operational test and evaluation conducted during the 2 fiscal-year quarters preceding such assessment.
+  - **(3)** Whether there has been any decision in such 2 fiscal-year quarters to order full-rate production before all key performance parameters or thresholds are met.
+  - **(4)** Whether there has been any breach of major acquisition program cost (as defined by the Major Systems Acquisition Manual) in such 2 fiscal-year quarters.
+  - **(5)** Whether there has been any breach of major acquisition program schedule (as so defined) during such 2 fiscal-year quarters.

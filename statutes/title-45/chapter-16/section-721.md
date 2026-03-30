@@ -3,9 +3,9 @@ title: "Section 721 - Loans"
 usc_title: 45
 usc_section: "721"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "45 U.S.C. § 721"
-generated_at: "2026-03-30T07:46:48.955Z"
+generated_at: "2026-03-30T07:49:57.459Z"
 status: "active"
 ---
 

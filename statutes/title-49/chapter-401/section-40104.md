@@ -3,9 +3,9 @@ title: "Section 40104 - Promotion of civil aeronautics and safety of air commerc
 usc_title: 49
 usc_section: "40104"
 chapter: 401
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 40104"
-generated_at: "2026-03-30T07:47:24.827Z"
+generated_at: "2026-03-30T07:50:15.321Z"
 status: "active"
 ---
 
@@ -13,4 +13,9 @@ status: "active"
 
 - **(a)** The Administrator of the Federal Aviation Administration shall encourage the development of civil aeronautics and safety of air commerce in and outside the United States. In carrying out this subsection, the Administrator shall take action that the Administrator considers necessary to establish, within available resources, a program to distribute civil aviation information in each region served by the Administration. The program shall provide, on request, informational material and expertise on civil aviation to State and local school administrators, college and university officials, and officers of other interested organizations.
 - **(b)** The Administrator shall promote and achieve global improvements in the safety, efficiency, and environmental effect of air travel by exercising leadership with the Administrator’s foreign counterparts, in the International Civil Aviation Organization and its subsidiary organizations, and other international organizations and fora, and with the private sector.
-- **(c)** In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47176. 1 1 See References in Text note below.
+- **(c)** In carrying out subsection (a), the Administrator shall take action to encourage the construction of airport capacity enhancement projects at congested airports as those terms are defined in section 47175.
+- **(d)** The Secretary shall take appropriate actions to—
+  - **(1)** promote United States aerospace-related safety standards abroad;
+  - **(2)** facilitate and vigorously defend approvals of United States aerospace products and services abroad;
+  - **(3)** with respect to bilateral partners, utilize bilateral safety agreements and other mechanisms to improve validation of United States certificated aeronautical products, services, and appliances and enhance mutual acceptance in order to eliminate redundancies and unnecessary costs; and
+  - **(4)** with respect to the aeronautical safety authorities of a foreign country, streamline validation and coordination processes.

@@ -3,9 +3,9 @@ title: "Section 482 - Quarterly reports: personnel and unit readiness"
 usc_title: 10
 usc_section: "482"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 482"
-generated_at: "2026-03-30T07:45:51.233Z"
+generated_at: "2026-03-30T07:48:43.883Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Not later than 30 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The reports for the first and third quarters of a calendar year shall contain the information required by subsections (b), (d), (e), (f), and (g). The reports for the second and fourth quarters of a calendar year shall contain the information required by subsection (j).
 - **(b)** A report for the second or fourth quarter of a calendar year shall specifically describe—
-  - **(1)** each readiness problem and deficiency identified using the assessments considered under subsection (c); and
+  - **(1)** each readiness problem and deficiency in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense, identified using the assessments considered under subsection (c); and
   - **(2)** the key indicators and other relevant information related to each identified problem and deficiency.
 - **(c)** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
   - **(1)** to any council, committee, or other body of the Department of Defense—
@@ -23,8 +23,8 @@ status: "active"
   - **(3)** as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 - **(d)**
   - **(1)** A report for the second or fourth quarter of a calendar year shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
-  - **(2)** For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
-  - **(3)** The assessment included in the report under paragraph (1) by the Commander of the United States Strategic Command shall include a separate assessment prepared by the Commander of United States Cyber Command relating to the readiness of United States Cyber Command and the readiness of the cyber force of each of the military departments.
+  - **(2)** A report for the second or fourth quarter of a calendar year under this section shall also include an assessment by each commander of a geographic or functional combatant command of the readiness of the command to conduct operations in a multidomain battle that integrates ground, air, sea, space, and cyber forces.
+  - **(3)** For purposes of this subsection, the term “assigned mission” means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
 - **(e)** A report for the second or fourth quarter of a calendar year shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, “Policies and Procedures for Determining Workforce Mix”.
 - **(f)**
   - **(1)** A report for the second or fourth quarter of a calendar year shall also include an assessment by the Secretary of Defense of the military readiness of the combat support and related agencies, including, for each such agency—

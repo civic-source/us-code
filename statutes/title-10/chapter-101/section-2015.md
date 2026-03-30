@@ -3,17 +3,15 @@ title: "Section 2015 - Program to assist members in obtaining professional crede
 usc_title: 10
 usc_section: "2015"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2015"
-generated_at: "2026-03-30T07:45:51.325Z"
+generated_at: "2026-03-30T07:48:43.938Z"
 status: "active"
 ---
 
 # § 2015. Program to assist members in obtaining professional credentials
 
-- **(a)** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials related to military training and skills that—
-  - **(1)** are acquired during service in the armed forces; and
-  - **(2)** translate into civilian occupations.
+- **(a)** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall carry out a program to enable members of the armed forces to obtain, while serving in the armed forces, professional credentials that translate into civilian occupations.
 - **(b)**
   - **(1)** Under the program required by this section, the Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, shall provide for the payment of expenses of members for professional accreditation, Federal occupational licenses, State-imposed and professional licenses, professional certification, and related expenses.
   - **(2)** The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.

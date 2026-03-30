@@ -3,9 +3,9 @@ title: "Section 4707 - Establishment and maintenance of counseling services"
 usc_title: 22
 usc_section: "4707"
 chapter: 57
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 4707"
-generated_at: "2026-03-30T07:46:23.170Z"
+generated_at: "2026-03-30T07:49:19.075Z"
 status: "active"
 ---
 

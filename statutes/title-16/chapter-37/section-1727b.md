@@ -1,0 +1,19 @@
+---
+title: "Section 1727b - Indian Youth Service Corps"
+usc_title: 16
+usc_section: "1727b"
+chapter: 37
+current_through: "PL 116-10"
+classification: "16 U.S.C. § 1727b"
+generated_at: "2026-03-30T07:49:06.060Z"
+status: "active"
+---
+
+# § 1727b. Indian Youth Service Corps
+
+- **(a)** There is established within the Public Lands Corps a program to be known as the “Indian Youth Service Corps” that—
+  - **(1)** enrolls participants between the ages of 16 and 30, inclusive, and veterans age 35 or younger, a majority of whom are Indians;
+  - **(2)** is established pursuant to an agreement between an Indian tribe and a qualified youth or conservation corps for the benefit of the members of the Indian tribe; and
+  - **(3)** carries out appropriate conservation projects on eligible service land.
+- **(b)** The Secretary may enter into cooperative agreements with Indian tribes and qualified youth or conservation corps for the establishment and administration of the Indian Youth Service Corps.
+- **(c)** Not later than 18 months after March 12, 2019 , the Secretary of the Interior, in consultation with Indian tribes, shall issue guidelines for the management of the Indian Youth Service Corps, in accordance with this subchapter and any other applicable Federal laws.

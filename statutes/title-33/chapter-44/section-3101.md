@@ -3,9 +3,9 @@ title: "Section 3101 - Interagency oceans and human health research program"
 usc_title: 33
 usc_section: "3101"
 chapter: 44
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 3101"
-generated_at: "2026-03-30T07:46:37.835Z"
+generated_at: "2026-03-30T07:49:41.227Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
     - **(E)** marine environmental microbiology;
     - **(F)** bioaccumulative and endocrine-disrupting chemical contaminants; and
     - **(G)** predictive models based on indicators of marine environmental health or public health threats.
-  - **(2)** Coordination with the National Ocean Research Leadership Council ( 10 U.S.C. 7902(a) ) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+  - **(2)** Coordination with the National Ocean Research Leadership Council ( 10 U.S.C. 8932(a) ) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
   - **(3)** Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
     - **(A)** genomics and proteomics to develop genetic and immunological detection approaches and predictive tools and to discover new biomedical resources;
     - **(B)** biomaterials and bioengineering;

@@ -3,9 +3,9 @@ title: "Section 1076a - TRICARE dental program"
 usc_title: 10
 usc_section: "1076a"
 chapter: 55
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1076a"
-generated_at: "2026-03-30T07:45:51.279Z"
+generated_at: "2026-03-30T07:48:43.912Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** A dental insurance plan for members of the Individual Ready Reserve not eligible to enroll in the plan established under paragraph (1).
   - **(3)** Dental benefits plans for eligible dependents of members of the uniformed services who are on active duty for a period of more than 30 days.
   - **(4)** A dental benefits plan for eligible dependents of members of the Ready Reserve of the reserve components who are not on active duty for more than 30 days.
-- **(b)** The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
+- **(b)** The plans established under this section shall be administered by the Secretary of Defense through an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (a) to enroll in an insurance plan under chapter 89A of title 5, in accordance with terms prescribed by the Secretary, including terms, to the extent practical, as defined by the Director through regulation, consistent with subsection (d) and, to the extent practicable in relation to such chapter 89A, other provisions of this section.
 - **(c)** Dental plans established under subsection (a) may provide for the following dental care:
   - **(1)** Diagnostic, oral examination, and preventive services and palliative emergency care.
   - **(2)** Basic restorative services of amalgam and composite restorations, stainless steel crowns for primary teeth, and dental appliance repairs.

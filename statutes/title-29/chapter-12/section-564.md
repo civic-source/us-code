@@ -1,15 +1,13 @@
 ---
-title: "Section 564 - Working capital fund; availability for personnel functions in regional administrative offices"
+title: "Section 564 - Repealed. Pub. L. 115–245, div. B, title I , § 117(b)(1), Sept. 28, 2018 , 132 Stat. 3067"
 usc_title: 29
 usc_section: "564"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 564"
-generated_at: "2026-03-30T07:46:27.556Z"
-status: "active"
+generated_at: "2026-03-30T07:49:22.769Z"
+status: "repealed"
 ---
 
-# § 564. Working capital fund; availability for personnel functions in regional administrative offices
-
-The Working Capital Fund of the Department of Labor shall be available on and after March 5, 1970 , for expenses necessary for personnel functions in regional administrative offices.
+# § 564. Repealed. Pub. L. 115–245, div. B, title I , § 117(b)(1), Sept. 28, 2018 , 132 Stat. 3067
 

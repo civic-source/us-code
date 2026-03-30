@@ -3,9 +3,9 @@ title: "Section 70102 - National freight strategic plan"
 usc_title: 49
 usc_section: "70102"
 chapter: 701
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 70102"
-generated_at: "2026-03-30T07:47:24.854Z"
+generated_at: "2026-03-30T07:50:15.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3121 - Definitions"
 usc_title: 26
 usc_section: "3121"
 chapter: 21
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 3121"
-generated_at: "2026-03-30T07:46:33.342Z"
+generated_at: "2026-03-30T07:49:37.150Z"
 status: "active"
 ---
 
@@ -150,7 +150,8 @@ status: "active"
     - **(C)** the amount of such individual’s share depends on the amount of the boat’s (or the boats’ in the case of a fishing operation involving more than one boat) catch of fish or other forms of aquatic animal life,
   - **(21)** domestic service in a private home of the employer which—
     - **(A)** is performed in any year by an individual under the age of 18 during any portion of such year; and
-    - **(B)** is not the principal occupation of such employee.
+    - **(B)** is not the principal occupation of such employee; or
+  - **(22)** service performed by members of Indian tribal councils as tribal council members in the employ of an Indian tribal government, except that this paragraph shall not apply in the case of service included under an agreement under section 218A of the Social Security Act.
 - **(c)** For purposes of this chapter, if the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term “pay period” means a period (of not more than 31 consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by subsection (b)(9).
 - **(d)** For purposes of this chapter, the term “employee” means—
   - **(1)** any officer of a corporation; or
@@ -160,7 +161,7 @@ status: "active"
     - **(B)** as a full-time life insurance salesman;
     - **(C)** as a home worker performing work, according to specifications furnished by the person for whom the services are performed, on materials or goods furnished by such person which are required to be returned to such person or a person designated by him; or
     - **(D)** as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations;
-  - **(4)** any individual who performs services that are included under an agreement entered into pursuant to section 218 of the Social Security Act.
+  - **(4)** any individual who performs services that are included under an agreement entered into pursuant to section 218 or 218A of the Social Security Act.
 - **(e)** For purposes of this chapter—
   - **(1)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
   - **(2)** The term “United States” when used in a geographical sense includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.

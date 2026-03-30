@@ -3,9 +3,9 @@ title: "Section 1812 - Care and superintendence of Capitol"
 usc_title: 2
 usc_section: "1812"
 chapter: 28
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1812"
-generated_at: "2026-03-30T07:45:37.424Z"
+generated_at: "2026-03-30T07:48:12.681Z"
 status: "active"
 ---
 

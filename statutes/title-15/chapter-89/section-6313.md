@@ -3,9 +3,9 @@ title: "Section 6313 - Relationship with State law"
 usc_title: 15
 usc_section: "6313"
 chapter: 89
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 6313"
-generated_at: "2026-03-30T07:45:58.988Z"
+generated_at: "2026-03-30T07:48:52.210Z"
 status: "active"
 ---
 

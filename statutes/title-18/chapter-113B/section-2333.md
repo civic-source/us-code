@@ -3,9 +3,9 @@ title: "Section 2333 - Civil remedies"
 usc_title: 18
 usc_section: "2333"
 chapter: 113
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 2333"
-generated_at: "2026-03-30T07:46:07.390Z"
+generated_at: "2026-03-30T07:48:55.490Z"
 status: "active"
 ---
 
@@ -17,3 +17,4 @@ status: "active"
 - **(d)**
   - **(1)** In this subsection, the term “person” has the meaning given the term in section 1 of title 1 .
   - **(2)** In an action under subsection (a) for an injury arising from an act of international terrorism committed, planned, or authorized by an organization that had been designated as a foreign terrorist organization under section 219 of the Immigration and Nationality Act ( 8 U.S.C. 1189 ), as of the date on which such act of international terrorism was committed, planned, or authorized, liability may be asserted as to any person who aids and abets, by knowingly providing substantial assistance, or who conspires with the person who committed such an act of international terrorism.
+- **(e)** For purposes of section 201 of the Terrorism Risk Insurance Act of 2002 ( 28 U.S.C. 1610 note), in any action in which a national of the United States has obtained a judgment against a terrorist party pursuant to this section, the term “blocked asset” shall include any asset of that terrorist party (including the blocked assets of any agency or instrumentality of that party) seized or frozen by the United States under section 805(b) of the Foreign Narcotics Kingpin Designation Act ( 21 U.S.C. 1904(b) ).

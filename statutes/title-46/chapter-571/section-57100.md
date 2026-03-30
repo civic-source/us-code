@@ -3,9 +3,9 @@ title: "Section 57100 - National Defense Reserve Fleet"
 usc_title: 46
 usc_section: "57100"
 chapter: 571
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 57100"
-generated_at: "2026-03-30T07:47:17.815Z"
+generated_at: "2026-03-30T07:50:11.297Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
       - **(ii)** the management capability necessary to operate, maintain, and activate the vessel at a reasonable price.
     - **(B)** The Secretary of Transportation shall include in each contract for the management of a vessel in the Ready Reserve Force a requirement that each seaman who performs services on any vessel covered by the contract hold the license or merchant mariner’s document that would be required under chapter 71 or chapter 73 of title 46, United States Code, for a seaman performing that service while operating the vessel if the vessel were not a public vessel.
 - **(d)**
-  - **(1)** The provisions of section 7310 of title 10 , United States Code, shall apply to vessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
+  - **(1)** The provisions of section 8680 of title 10 shall apply to vessels specified in subsection (b), and to the Secretary of Transportation with respect to those vessels, in the same manner as those provisions apply to vessels specified in subsection (b) of such section, and to the Secretary of the Navy, respectively.
   - **(2)** Vessels specified in this paragraph are vessels maintained by the Secretary of Transportation in support of the Department of Defense, including any vessel assigned by the Secretary of Transportation to the Ready Reserve Force that is owned by the United States.
 - **(e)** Vessels in the National Defense Reserve Fleet are exempt from the provisions of section 3703a.
 - **(f)** With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration’s mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:

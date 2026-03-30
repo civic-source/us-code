@@ -3,9 +3,9 @@ title: "Section 1395ww - Payments to hospitals for inpatient hospital services"
 usc_title: 42
 usc_section: "1395ww"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395ww"
-generated_at: "2026-03-30T07:46:59.944Z"
+generated_at: "2026-03-30T07:50:06.871Z"
 status: "active"
 ---
 
@@ -127,6 +127,7 @@ status: "active"
         - **(IX)**
         - **(X)** To the extent practicable, the Secretary shall, with input from consensus organizations and other stakeholders, take steps to ensure that the measures specified by the Secretary under this clause are coordinated and aligned with quality measures applicable to—
         - **(XI)** The Secretary shall establish a process to validate measures specified under this clause as appropriate. Such process shall include the auditing of a number of randomly selected hospitals sufficient to ensure validity of the reporting program under this clause as a whole and shall provide a hospital with an opportunity to appeal the validation of measures reported by such hospital.
+        - **(XII)**
       - **(ix)**
         - **(I)** For purposes of clause (i) for fiscal year 2015 and each subsequent fiscal year, in the case of an eligible hospital (as defined in subsection (n)(6)) that is not a meaningful EHR user (as defined in subsection (n)(3)) for an EHR reporting period for such fiscal year, three-quarters of the applicable percentage increase otherwise applicable under clause (i) (determined without regard to clause (viii), (xi), or (xii)) for such fiscal year shall be reduced by 33⅓ percent for fiscal year 2015, 66⅔ percent for fiscal year 2016, and 100 percent for fiscal year 2017 and each subsequent fiscal year. Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year.
         - **(II)** The Secretary may, on a case-by-case basis (and, with respect to the application of subclause (I) for fiscal year 2017, for categories of subsection (d) hospitals, as established by the Secretary and posted on the Internet website of the Centers for Medicare & Medicaid Services prior to December 15, 2015 , an application for which must be submitted to the Secretary by not later than April 1, 2016 ), exempt an eligible hospital from the application of subclause (I) with respect to a fiscal year if the Secretary determines, subject to annual renewal, that requiring such hospital to be a meaningful EHR user during such fiscal year would result in a significant hardship, such as in the case of a hospital in a rural area without sufficient Internet access. The Secretary shall exempt an eligible hospital from the application of the payment adjustment under subclause (I) with respect to a fiscal year, subject to annual renewal, if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by such hospital is decertified under a program kept or recognized pursuant to section 300jj–11(c)(5) of this title . In no case may a hospital be granted an exemption under this subclause for more than 5 years.
@@ -1229,6 +1230,7 @@ status: "active"
         - **(I)** Measures are selected under subparagraph (A) that cover at least the following 5 specific conditions or procedures:
         - **(II)** Measures selected under subparagraph (A) shall be related to the Hospital Consumer Assessment of Healthcare Providers and Systems survey (HCAHPS).
       - **(ii)** For value-based incentive payments made with respect to discharges occurring during fiscal year 2014 or a subsequent fiscal year, the Secretary shall ensure that measures selected under subparagraph (A) include efficiency measures, including measures of “Medicare spending per beneficiary”. Such measures shall be adjusted for factors such as age, sex, race, severity of illness, and other factors that the Secretary determines appropriate.
+      - **(iii)** The Secretary may not include under subparagraph (A) a measure that is based on the questions appearing on the Hospital Consumer Assessment of Healthcare Providers and Systems survey in 2018 or 2019 about communication by hospital staff with an individual about the individual’s pain.
     - **(C)**
       - **(i)** The Secretary may not select a measure under subparagraph (A) for use under the Program with respect to a performance period for a fiscal year (as established under paragraph (4)) unless such measure has been specified under subsection (b)(3)(B)(viii) and included on the Hospital Compare Internet website for at least 1 year prior to the beginning of such performance period.
       - **(ii)** A measure selected under subparagraph (A) shall not apply to a hospital if such hospital does not furnish services appropriate to such measure.

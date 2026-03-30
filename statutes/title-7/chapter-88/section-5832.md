@@ -3,9 +3,9 @@ title: "Section 5832 - National Training Program"
 usc_title: 7
 usc_section: "5832"
 chapter: 88
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 5832"
-generated_at: "2026-03-30T07:45:46.573Z"
+generated_at: "2026-03-30T07:48:18.766Z"
 status: "active"
 ---
 
@@ -39,4 +39,4 @@ status: "active"
   - **(10)** provide specific information on nutrient management practices developed through the research programs in chapter 86 of this title; 1 and
   - **(11)** provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title, 1 and other appropriate research programs of the Department.
 - **(h)** For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
-- **(i)** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2018.
+- **(i)** There are authorized to be appropriated to carry out the National Training Program $20,000,000 for each of fiscal years 2013 through 2023.

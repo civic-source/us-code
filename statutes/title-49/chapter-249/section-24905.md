@@ -3,9 +3,9 @@ title: "Section 24905 - Northeast Corridor Commission; Safety Committee"
 usc_title: 49
 usc_section: "24905"
 chapter: 249
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24905"
-generated_at: "2026-03-30T07:47:24.812Z"
+generated_at: "2026-03-30T07:50:15.303Z"
 status: "active"
 ---
 
@@ -67,5 +67,4 @@ status: "active"
     - **(E)** rail passengers;
     - **(F)** rail labor; and
     - **(G)** other individuals and organizations the Secretary decides have a significant interest in rail safety or security.
-  - **(2)** The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security.
-  - **(3)** At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations.
+  - **(2)** The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.

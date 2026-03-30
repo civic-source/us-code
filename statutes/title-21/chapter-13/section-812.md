@@ -3,9 +3,9 @@ title: "Section 812 - Schedules of controlled substances"
 usc_title: 21
 usc_section: "812"
 chapter: 13
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "21 U.S.C. § 812"
-generated_at: "2026-03-30T07:46:19.740Z"
+generated_at: "2026-03-30T07:49:09.828Z"
 status: "active"
 ---
 
@@ -117,7 +117,7 @@ status: "active"
   - **(14)** N-methyl-3-piperidyl benzilate.
   - **(15)** Psilocybin.
   - **(16)** Psilocyn.
-  - **(17)** Tetrahydrocannabinols.
+  - **(17)** Tetrahydrocannabinols, except for tetrahydrocannabinols in hemp (as defined under section 1639 o of title 7).
   - **(18)** 4-methylmethcathinone (Mephedrone).
   - **(19)** 3,4-methylenedioxypyrovalerone (MDPV).
   - **(20)** 2-(2,5-Dimethoxy-4-ethylphenyl)ethanamine (2C–E).

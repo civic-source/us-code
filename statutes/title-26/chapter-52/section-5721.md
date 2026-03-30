@@ -3,9 +3,9 @@ title: "Section 5721 - Inventories"
 usc_title: 26
 usc_section: "5721"
 chapter: 52
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 5721"
-generated_at: "2026-03-30T07:46:33.378Z"
+generated_at: "2026-03-30T07:49:37.182Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8440e - Members of the uniformed services"
 usc_title: 5
 usc_section: "8440e"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 8440e"
-generated_at: "2026-03-30T07:45:39.157Z"
+generated_at: "2026-03-30T07:48:04.617Z"
 status: "active"
 ---
 

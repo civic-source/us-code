@@ -3,9 +3,9 @@ title: "Section 1383a - Interim exemption for commercial fisheries"
 usc_title: 16
 usc_section: "1383a"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 1383a"
-generated_at: "2026-03-30T07:46:15.482Z"
+generated_at: "2026-03-30T07:49:06.046Z"
 status: "active"
 ---
 
@@ -124,5 +124,5 @@ status: "active"
 - **(o)** As used in this section—
   - **(1)** the term “fishery” has the same meaning as it does in section 1802(8) 2 2 See References in Text note below. of this title.
   - **(2)** the term “Secretary” means the Secretary of Commerce.
-  - **(3)** the term “vessel engaged in a fishery” means a fishing vessel as defined in section 2101(11a) of title 46 or a fish processing vessel as defined in section 2101(11b) of that title, which is engaged in fishery.
+  - **(3)** the term “vessel engaged in a fishery” means a fishing vessel as defined in section 2101(12) of title 46 or a fish processing vessel as defined in section 2101(13) of that title, which is engaged in fishery.
   - **(4)** the term “vessel of the United States” has the same meaning as it does in section 1802(27) 2 of this title.

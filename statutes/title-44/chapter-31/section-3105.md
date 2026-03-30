@@ -3,9 +3,9 @@ title: "Section 3105 - Safeguards"
 usc_title: 44
 usc_section: "3105"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "44 U.S.C. § 3105"
-generated_at: "2026-03-30T07:46:48.129Z"
+generated_at: "2026-03-30T07:49:48.242Z"
 status: "active"
 ---
 

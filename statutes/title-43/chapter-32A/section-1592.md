@@ -3,9 +3,9 @@ title: "Section 1592 - Authorization to construct, operate, and maintain salinit
 usc_title: 43
 usc_section: "1592"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1592"
-generated_at: "2026-03-30T07:46:48.683Z"
+generated_at: "2026-03-30T07:49:48.829Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
   - **(4)** In implementing the units authorized to be constructed or the programs pursuant to paragraphs (1), (2), (3), (4), (5), (6), and (7) of subsection (a), the Secretary shall comply with procedural and substantive State water laws.
   - **(5)** The Secretary may, under authority of this subchapter and limited to the purposes of this chapter, fund through a grant or contract, for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts, a non-Federal entity to operate and maintain measures to replace incidental fish and wildlife values foregone.
   - **(6)** In implementing the units authorized to be constructed pursuant to subsection (a), the Secretary shall implement measures to replace incidental fish and wildlife values foregone concurrently with the implementation of a unit’s, or a portion of a unit’s, related features.
-- **(c)** The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.].
+- **(c)** The Secretary of Agriculture shall carry out salinity control measures (including watershed enhancement and cost-share measures with livestock and crop producers) in the Colorado River Basin as part of the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [ 16 U.S.C. 3839aa et seq.].

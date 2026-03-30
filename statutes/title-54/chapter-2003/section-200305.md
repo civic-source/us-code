@@ -3,9 +3,9 @@ title: "Section 200305 - Financial assistance to States"
 usc_title: 54
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "54 U.S.C. § 200305"
-generated_at: "2026-03-30T07:47:32.926Z"
+generated_at: "2026-03-30T07:50:23.632Z"
 status: "active"
 ---
 
@@ -23,7 +23,6 @@ status: "active"
     - **(C)** the Federal resources and programs in each State.
   - **(3)** The total allocation to a State under paragraphs (1) and (2) shall not exceed 10 percent of the total amount allocated to all of the States in any one year.
   - **(4)** The Secretary shall notify each State of its apportionments. The amounts shall be available for payment to the State for planning, acquisition, or development projects as prescribed. Any amount of any apportionment that has not been paid or obligated by the Secretary during the fiscal year in which the notification is given and for 2 fiscal years thereafter shall be reapportioned by the Secretary in accordance with paragraph (2) without regard to the 10 percent limitation to an individual State specified in this subsection.
-  - **(5)** For the purposes of paragraph (1), the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands shall be deemed to be one State, and shall receive shares of the apportionment in proportion to their populations.
 - **(c)** Payments to any State shall cover not more than 50 percent of the cost of planning, acquisition, or development projects that are undertaken by the State. The remaining share of the cost shall be borne by the State in a manner and with funds or services as shall be satisfactory to the Secretary.
 - **(d)**
   - **(1)** A comprehensive statewide outdoor recreation plan shall be required prior to the consideration by the Secretary of financial assistance for acquisition or development projects. The plan shall be adequate if, in the judgment of the Secretary, it encompasses and will promote the purposes of this chapter. No plan shall be approved unless the chief executive official of the State certifies that ample opportunity for public participation in plan development and revision has been accorded. The Secretary shall develop, in consultation with others, criteria for public participation, which criteria shall constitute the basis for the certification by the chief executive official. The plan shall contain—

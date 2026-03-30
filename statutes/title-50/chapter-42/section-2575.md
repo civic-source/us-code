@@ -3,9 +3,9 @@ title: "Section 2575 - Defense nuclear nonproliferation management plan"
 usc_title: 50
 usc_section: "2575"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 2575"
-generated_at: "2026-03-30T07:47:13.209Z"
+generated_at: "2026-03-30T07:50:18.895Z"
 status: "active"
 ---
 
@@ -45,5 +45,5 @@ status: "active"
   - **(13)** A description of the activities to be carried out under the program during that five-year period and a description of how the program will be prioritized relative to other defense nuclear nonproliferation programs of the Administration during that five-year period to address the highest priority risks and requirements, as informed by the threat assessment carried out under paragraph (10).
   - **(14)** A description and assessment of activities to be carried out under the program during that five-year period that will be coordinated with other elements of the Department of Energy, with the Department of Defense, and with other Federal agencies, to maximize efficiency and avoid redundancies.
   - **(15)** A summary of the technologies and capabilities documented under section 2576(a) of this title .
-  - **(17)** 2 2 So in original. After amendment by Pub. L. 115–91 , there is no par. (16). A summary of the assessments conducted under section 2576(b)(1) of this title .
-  - **(18)** Such other matters as the Administrator considers appropriate.
+  - **(16)** A summary of the assessments conducted under section 2576(b)(1) of this title .
+  - **(17)** Such other matters as the Administrator considers appropriate.

@@ -3,9 +3,9 @@ title: "Section 2129 - Eligibility"
 usc_title: 12
 usc_section: "2129"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 2129"
-generated_at: "2026-03-30T07:46:02.790Z"
+generated_at: "2026-03-30T07:48:49.539Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** a percentage of the voting control of the association not less than 80 per centum (60 per centum (A) in the case of rural electric, telephone, public utility, and service cooperatives; (B) in the case of local farm supply cooperatives that have historically served needs of the community that would not adequately be served by other suppliers and have experienced a reduction in the percentage of farmer membership due to changed circumstances beyond their control such as, but not limited to, urbanization of the community; and (C) in the case of local farm supply cooperatives that provide or will provide needed services to a community and that are or will be in competition with a cooperative specified in paragraph (B)) or, with respect to any type of association or cooperative, such higher percentage as established by the bank board, is held by farmers, producers or harvesters of aquatic products, or eligible cooperative associations as defined herein;
 - **(b)** Notwithstanding any other provision of this section:
   - **(1)** The following entities shall also be eligible to borrow from a bank for cooperatives:
-    - **(A)** Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration, or a loan or loan commitment from the Rural Telephone Bank, or that are eligible under the Rural Electrification Act of 1936 ( 7 U.S.C. 901 et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
+    - **(A)** Cooperatives and other entities that have received a loan, loan commitment, or loan guarantee from the Rural Electrification Administration (or any successor agency), or that are eligible under the Rural Electrification Act of 1936 ( 7 U.S.C. 901 et seq.) for a loan, loan commitment, or loan guarantee from the Administration or the Bank (or a successor of the Administration or the Bank), and subsidiaries of such cooperatives or other entities.
     - **(B)** Any legal entity that (i) holds more than 50 percent of the voting control of an association or other entity that is eligible to borrow from a bank for cooperatives under subsection (a) or subparagraph (A) of this paragraph, and (ii) borrows for the purpose of making funds available to that association or entity, and makes funds available to that association or entity under the same terms and conditions that the funds are borrowed from a bank for cooperatives.
     - **(C)** Any cooperative or other entity described in subsection (b) or (f) of section 2128 of this title .
     - **(D)** Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.

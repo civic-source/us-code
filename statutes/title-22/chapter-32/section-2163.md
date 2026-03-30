@@ -3,9 +3,9 @@ title: "Section 2163 - Repealed. Pub. L. 93–189 , § 3(b), Dec. 17, 1973 , 87 
 usc_title: 22
 usc_section: "2163"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2163"
-generated_at: "2026-03-30T07:46:23.099Z"
+generated_at: "2026-03-30T07:49:19.020Z"
 status: "repealed"
 ---
 

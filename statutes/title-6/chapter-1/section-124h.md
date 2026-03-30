@@ -3,9 +3,9 @@ title: "Section 124h - Department of Homeland Security State, Local, and Regiona
 usc_title: 6
 usc_section: "124h"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 124h"
-generated_at: "2026-03-30T07:45:41.893Z"
+generated_at: "2026-03-30T07:48:14.878Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(1)** The Under Secretary for Intelligence and Analysis shall, to the maximum extent practicable, assign officers and intelligence analysts from components of the Department to participating State, local, and regional fusion centers.
   - **(2)** Officers and intelligence analysts assigned to participating fusion centers under this subsection may be assigned from the following Department components, in coordination with the respective component head and in consultation with the principal officials of participating fusion centers:
     - **(A)** Office of Intelligence and Analysis.
-    - **(B)** Office of Infrastructure Protection.
+    - **(B)** Cybersecurity and Infrastructure Security Agency.
     - **(C)** Transportation Security Administration.
     - **(D)** United States Customs and Border Protection.
     - **(E)** United States Immigration and Customs Enforcement.

@@ -3,15 +3,15 @@ title: "Section 1706A - Remediation of medical service lines"
 usc_title: 38
 usc_section: "1706A"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1706A"
-generated_at: "2026-03-30T07:46:46.205Z"
+generated_at: "2026-03-30T07:49:45.546Z"
 status: "active"
 ---
 
 # § 1706A. Remediation of medical service lines
 
-- **(a)** Not later than 30 days after determining under section 1703(e)(1) 1 1 See References in Text note below. that a medical service line of the Department is providing hospital care, medical services, or extended care services that does not comply with the standards for quality established by the Secretary, the Secretary shall submit to Congress an assessment of the factors that led the Secretary to make such determination and a plan with specific actions, and the time to complete them, to be taken to comply with such standards for quality, including the following:
+- **(a)** Not later than 30 days after determining under section 1703(e)(1) 1 1 See References in Text note below. of this title that a medical service line of the Department is providing hospital care, medical services, or extended care services that does not comply with the standards for quality established by the Secretary, the Secretary shall submit to Congress an assessment of the factors that led the Secretary to make such determination and a plan with specific actions, and the time to complete them, to be taken to comply with such standards for quality, including the following:
   - **(1)** Increasing personnel or temporary personnel assistance, including mobile deployment teams.
   - **(2)** Special hiring incentives, including the Education Debt Reduction Program under subchapter VII of chapter 76 of this title and recruitment, relocation, and retention incentives.
   - **(3)** Utilizing direct hiring authority.
@@ -22,5 +22,5 @@ status: "active"
 - **(b)** In each assessment submitted under subsection (a) with respect to a medical service line, the Secretary shall identify the individuals at the Central Office of the Veterans Health Administration, the facility used by the medical service line, and the central office of the relevant Veterans Integrated Service Network who are responsible for overseeing the progress of that medical service line in complying with the standards for quality established by the Secretary.
 - **(c)** Not later than 180 days after submitting an assessment under subsection (a) with respect to a medical service line, the Secretary shall submit to Congress a report on the progress of that medical service line in complying with the standards for quality established by the Secretary and any other measures the Secretary will take to assist the medical service line in complying with such standards for quality.
 - **(d)** Not less frequently than once each year, the Secretary shall—
-  - **(1)** submit to Congress an analysis of the remediation actions and costs of such actions taken with respect to each medical service line with respect to which the Secretary submitted an assessment and plan under paragraph (1) in the preceding year, including an update on the progress of each such medical service line in complying with the standards for quality and timeliness established by the Secretary and any other actions the Secretary is undertaking to assist the medical service line in complying with standards for quality as established by the Secretary; and
+  - **(1)** submit to Congress an analysis of the remediation actions and costs of such actions taken with respect to each medical service line with respect to which the Secretary submitted an assessment and plan under subsection (a) in the preceding year, including an update on the progress of each such medical service line in complying with the standards for quality and timeliness established by the Secretary and any other actions the Secretary is undertaking to assist the medical service line in complying with standards for quality as established by the Secretary; and
   - **(2)** publish such analysis on the internet website of the Department.

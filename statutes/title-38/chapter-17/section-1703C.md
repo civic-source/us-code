@@ -3,9 +3,9 @@ title: "Section 1703C - Standards for quality"
 usc_title: 38
 usc_section: "1703C"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1703C"
-generated_at: "2026-03-30T07:46:46.204Z"
+generated_at: "2026-03-30T07:49:45.545Z"
 status: "active"
 ---
 
@@ -30,8 +30,8 @@ status: "active"
 - **(b)**
   - **(1)** Not later than 1 year after the date on which the Secretary establishes standards for quality under subsection (a), the Secretary shall publish the quality rating of medical facilities of the Department in the publicly available Hospital Compare website through the Centers for Medicare & Medicaid Services for the purpose of providing veterans with information that allows them to compare performance measure information among Department and non-Department health care providers.
   - **(2)** Not later than 2 years after the date on which the Secretary establishes standards for quality under subsection (a), the Secretary shall consider and solicit public comment on potential changes to the measures used in such standards to ensure that they include the most up-to-date and applicable industry measures for veterans.
-- **(c)**
+- **(c)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
-  - **(2)** The term “covered veterans” refers to veterans described in section 1703(b) 1 1 See References in Text note below. of this title.
+  - **(2)** The term “covered veterans” means veterans described in section 1703(b) 1 1 See References in Text note below. of this title.

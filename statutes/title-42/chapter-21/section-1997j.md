@@ -3,9 +3,9 @@ title: "Section 1997j - Disclaimer respecting private litigation"
 usc_title: 42
 usc_section: "1997j"
 chapter: 21
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1997j"
-generated_at: "2026-03-30T07:47:00.051Z"
+generated_at: "2026-03-30T07:50:06.969Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1783 - Yaquina Head Outstanding Natural Area"
 usc_title: 43
 usc_section: "1783"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1783"
-generated_at: "2026-03-30T07:46:48.696Z"
+generated_at: "2026-03-30T07:49:48.843Z"
 status: "active"
 ---
 

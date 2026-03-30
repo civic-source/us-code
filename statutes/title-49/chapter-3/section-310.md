@@ -3,9 +3,9 @@ title: "Section 310 - Aligning Federal environmental reviews"
 usc_title: 49
 usc_section: "310"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 310"
-generated_at: "2026-03-30T07:47:24.781Z"
+generated_at: "2026-03-30T07:50:15.264Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(4)** The interagency collaboration sessions shall include a consultation with groups or individuals representing State, tribal, and local governments that are engaged in the infrastructure permitting process.
 - **(e)** Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, in coordination with relevant Federal agencies, shall establish a program to measure and report on progress toward aligning Federal reviews and reducing permitting and project delivery time as outlined in this section.
 - **(f)**
-  - **(1)** Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—
+  - **(1)** Not later than 2 years after the date of enactment of this section and biennially thereafter, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, and make publicly available on the Department of Transportation website, a report that describes—
     - **(A)** progress in aligning Federal environmental reviews under this section; and
     - **(B)** the impact this section has had on accelerating the environmental review and permitting process.
   - **(2)** Not later than 3 years after the date of enactment of this section, the Inspector General of the Department of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes—

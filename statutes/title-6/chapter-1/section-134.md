@@ -1,15 +1,13 @@
 ---
-title: "Section 134 - No private right of action"
+title: "Section 134 - Transferred"
 usc_title: 6
 usc_section: "134"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 134"
-generated_at: "2026-03-30T07:45:41.895Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.880Z"
+status: "transferred"
 ---
 
-# § 134. No private right of action
-
-Nothing in this part may be construed to create a private right of action for enforcement of any provision of this chapter.
+# § 134. Transferred
 

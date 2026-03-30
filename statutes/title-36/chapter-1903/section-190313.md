@@ -3,9 +3,9 @@ title: "Section 190313 - Annual report"
 usc_title: 36
 usc_section: "190313"
 chapter: 1903
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "36 U.S.C. § 190313"
-generated_at: "2026-03-30T07:46:40.145Z"
+generated_at: "2026-03-30T07:49:43.378Z"
 status: "active"
 ---
 

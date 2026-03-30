@@ -3,9 +3,9 @@ title: "Section 620 - Repealed. Pub. L. 109–288 , § 6(a), Sept. 28, 2006 , 12
 usc_title: 42
 usc_section: "620"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 620"
-generated_at: "2026-03-30T07:46:59.833Z"
+generated_at: "2026-03-30T07:50:06.767Z"
 status: "repealed"
 ---
 

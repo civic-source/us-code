@@ -3,9 +3,9 @@ title: "Section 1922 - Persons eligible for real estate loans"
 usc_title: 7
 usc_section: "1922"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1922"
-generated_at: "2026-03-30T07:45:46.494Z"
+generated_at: "2026-03-30T07:48:18.709Z"
 status: "active"
 ---
 
@@ -27,3 +27,14 @@ status: "active"
     - **(B)** If, as of April 4, 1996 , a farmer or rancher has had a direct loan outstanding under this subchapter for less than 5 years, the Secretary shall not make a loan to the farmer or rancher under subparagraph (A) after the date that is 10 years after April 4, 1996 .
     - **(C)** If, as of April 4, 1996 , a farmer or rancher has had a direct loan outstanding under this subchapter for 5 years or more, the Secretary shall not make a loan to the farmer or rancher under subparagraph (A) after the date that is 5 years after April 4, 1996 .
     - **(D)** Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
+  - **(4)** In the case of a qualified beginning farmer or rancher, the Secretary may—
+    - **(A)** reduce the 3-year requirement in paragraph (1) to 1 or 2 years, if the farmer or rancher has—
+      - **(i)** not less than 16 credit hours of post-secondary education in a field related to agriculture;
+      - **(ii)** successfully completed a farm management curriculum offered by a cooperative extension service, a community college, an adult vocational agriculture program, a nonprofit organization, or a land-grant college or university;
+      - **(iii)** at least 1 year of experience as hired farm labor with substantial management responsibilities;
+      - **(iv)** successfully completed a farm mentorship, apprenticeship, or internship program with an emphasis on management requirements and day-to-day farm management decisions;
+      - **(v)** significant business management experience;
+      - **(vi)** been honorably discharged from the armed forces of the United States;
+      - **(vii)** successfully repaid a youth loan made under section 1941(b) of this title ; or
+      - **(viii)** an established relationship with an individual who has experience in farming or ranching, or is a retired farmer or rancher, and is participating as a counselor in a Service Corps of Retired Executives program authorized under section 637(b)(1)(B) of title 15 , or with a local farm or ranch operator or organization, approved by the Secretary, that is committed to mentoring the farmer or rancher; or
+    - **(B)** waive the 3-year requirement in paragraph (1) if the farmer or rancher meets the requirements of clauses (iii) and (viii) of subparagraph (A).

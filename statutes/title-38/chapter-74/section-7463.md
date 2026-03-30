@@ -3,9 +3,9 @@ title: "Section 7463 - Other adverse actions"
 usc_title: 38
 usc_section: "7463"
 chapter: 74
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 7463"
-generated_at: "2026-03-30T07:46:46.250Z"
+generated_at: "2026-03-30T07:49:45.591Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(1)** In any case in which charges are brought against a section 7401(1) employee which could result in a major adverse action and which do not involve professional conduct or competence, the employee is entitled to notice and an opportunity to answer with respect to those charges in accordance with subparagraphs (A) and (B) of section 7462(b)(1) of this title , but within the time periods specified in paragraph (3).
   - **(2)** In any other case in which charges are brought against a section 7401(1) employee, the employee is entitled, within the aggregate time period specified in paragraph (3)(A), to—
     - **(A)** written notice stating the specific reason for the proposed action, and
-    - **(B)** time to answer to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+    - **(B)** time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
   - **(3)**
     - **(A)** The aggregate period for the resolution of charges against an employee under paragraph (1) or (2) may not exceed 15 business days.
     - **(B)** The period for the response of an employee under paragraph (1) or (2)(B) to written notice of charges under paragraph (1) or (2)(A), as applicable, shall be seven business days.

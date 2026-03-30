@@ -3,16 +3,16 @@ title: "Section 7693 - Eligibility; preferences; covered costs"
 usc_title: 38
 usc_section: "7693"
 chapter: 76
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 7693"
-generated_at: "2026-03-30T07:46:46.252Z"
+generated_at: "2026-03-30T07:49:45.592Z"
 status: "active"
 ---
 
 # § 7693. Eligibility; preferences; covered costs
 
 - **(a)** An individual is eligible to participate in the Specialty Education Loan Repayment Program if the individual—
-  - **(1)** is hired under section 7401 of this title to work in an occupation described in section 7692 of this title ;
+  - **(1)** will be eligible for appointment under section 7401 of this title to work in an occupation described in section 7692 of this title ;
   - **(2)** owes any amount of principal or interest under a loan, the proceeds of which were used by or on behalf of that individual to pay costs relating to a course of education or training which led to a degree that qualified the individual for the position referred to in paragraph (1); and
   - **(3)** is—
     - **(A)** recently graduated from an accredited medical or osteopathic school and matched to an accredited residency program in a medical specialty described in section 7692 of this title ; or

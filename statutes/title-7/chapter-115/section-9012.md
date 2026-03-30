@@ -3,9 +3,9 @@ title: "Section 9012 - Base acres"
 usc_title: 7
 usc_section: "9012"
 chapter: 115
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 9012"
-generated_at: "2026-03-30T07:45:46.637Z"
+generated_at: "2026-03-30T07:48:18.813Z"
 status: "active"
 ---
 
@@ -47,7 +47,9 @@ status: "active"
 - **(c)**
   - **(1)** Notwithstanding the election made under subsection (a), if the sum of the base acres for a farm, including generic base acres, and the acreage described in paragraph (2) exceeds the actual cropland acreage of the farm, the Secretary shall reduce the base acres for 1 or more covered commodities or generic base acres for the farm so that the sum of the base acres, including generic base acres, and the acreage described in paragraph (2) does not exceed the actual cropland acreage of the farm.
   - **(2)** For purposes of paragraph (1), the Secretary shall include the following:
-    - **(A)** Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program (or successor programs) under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3830 et seq.).
+    - **(A)** Any acreage on the farm enrolled in—
+      - **(i)** the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ( 16 U.S.C. 3831 et seq.); or
+      - **(ii)** a wetland reserve easement under section 1265C of the Food Security Act of 1985 ( 16 U.S.C. 3865c ).
     - **(B)** Any other acreage on the farm enrolled in a Federal conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
     - **(C)** If the Secretary designates additional oilseeds, any eligible oilseed acreage, which shall be determined in the same manner as eligible oilseed acreage under subsection (b)(1)(C).
   - **(3)** The Secretary shall give the owner of the farm the opportunity to select the base acres for a covered commodity or generic base acres for the farm against which the reduction required by paragraph (1) will be made.
@@ -61,3 +63,7 @@ status: "active"
       - **(i)** remains devoted to commercial agricultural production; or
       - **(ii)** is likely to be returned to the previous agricultural use.
     - **(B)** The Secretary shall establish procedures to identify land described in subparagraph (A).
+  - **(3)**
+    - **(A)** In the case of a farm on which all of the cropland was planted to grass or pasture (including cropland that was idle or fallow), as determined by the Secretary, during the period beginning on January 1, 2009 , and ending on December 31, 2017 , the Secretary shall maintain all base acres and payment yields for the covered commodities on the farm, except that no payment shall be made with respect to those base acres under section 9016 or 9017 of this title for the 2019 through 2023 crop years.
+    - **(B)** The producers on a farm for which all of the base acres are maintained under subparagraph (A) shall be ineligible for the option to change the election applicable to the producers on the farm under section 9015(h) of this title .
+  - **(4)** The Secretary shall ensure that producers on a farm do not reconstitute the farm to void or change the treatment of base acres under this section.

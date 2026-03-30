@@ -3,9 +3,9 @@ title: "Section 901 - Taxes of foreign countries and of possessions of United St
 usc_title: 26
 usc_section: "901"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 901"
-generated_at: "2026-03-30T07:46:33.299Z"
+generated_at: "2026-03-30T07:49:37.114Z"
 status: "active"
 ---
 
@@ -51,7 +51,7 @@ status: "active"
       - **(i)** the government of which the United States does not recognize, unless such government is otherwise eligible to purchase defense articles or services under the Arms Export Control Act,
       - **(ii)** with respect to which the United States has severed diplomatic relations,
       - **(iii)** with respect to which the United States has not severed diplomatic relations but does not conduct such relations, or
-      - **(iv)** which the Secretary of State has, pursuant to section 6(j) of the Export Administration Act of 1979, as amended, designated as a foreign country which repeatedly provides support for acts of international terrorisms.
+      - **(iv)** which the Secretary of State has, pursuant to section 6(j) 2 2 See References in Text note below. of the Export Administration Act of 1979, as amended, designated as a foreign country which repeatedly provides support for acts of international terrorisms.
     - **(B)** This subsection shall apply to any foreign country described in subparagraph (A) during the period—
       - **(i)** beginning on the later of—
         - **(I)** January 1, 1987 , or

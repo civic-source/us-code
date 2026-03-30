@@ -3,9 +3,9 @@ title: "Section 408 - Taking possession of, use of, or injury to harbor or river
 usc_title: 33
 usc_section: "408"
 chapter: 9
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 408"
-generated_at: "2026-03-30T07:46:37.754Z"
+generated_at: "2026-03-30T07:49:41.163Z"
 status: "active"
 ---
 
@@ -30,3 +30,4 @@ status: "active"
     - **(A)** make a decision on the application; or
     - **(B)** provide a schedule to the applicant identifying when the Secretary will make a decision on the application.
   - **(3)** In any case in which a schedule provided under paragraph (2)(B) extends beyond 120 days from the date of receipt of a complete application, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an explanation justifying the extended timeframe for review.
+- **(d)** For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.

@@ -3,9 +3,9 @@ title: "Section 1395f - Conditions of and limitations on payment for services"
 usc_title: 42
 usc_section: "1395f"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395f"
-generated_at: "2026-03-30T07:46:59.879Z"
+generated_at: "2026-03-30T07:50:06.811Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(7)** in the case of hospice care provided an individual—
     - **(A)**
       - **(i)** in the first 90-day period—
-        - **(I)** the individual’s attending physician (as defined in section 1395x(dd)(3)(B) of this title ) (which for purposes of this subparagraph does not include a nurse practitioner), and
+        - **(I)** the individual’s attending physician (as defined in section 1395x(dd)(3)(B) of this title ) (which for purposes of this subparagraph does not include a nurse practitioner or a physician assistant), and
         - **(II)** the medical director (or physician member of the interdisciplinary group described in section 1395x(dd)(2)(B) of this title ) of the hospice program providing (or arranging for) the care,
       - **(ii)** in a subsequent 90- or 60-day period, the medical director or physician described in clause (i)(II) recertifies at the beginning of the period that the individual is terminally ill based on such clinical judgment;
     - **(B)** a written plan for providing hospice care with respect to such individual has been established (before such care is provided by, or under arrangements made by, that hospice program) and is periodically reviewed by the individual’s attending physician and by the medical director (and the interdisciplinary group described in section 1395x(dd)(2)(B) of this title ) of the hospice program;

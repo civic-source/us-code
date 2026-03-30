@@ -3,9 +3,9 @@ title: "Section 80302 - Patrol services"
 usc_title: 46
 usc_section: "80302"
 chapter: 803
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 80302"
-generated_at: "2026-03-30T07:47:17.819Z"
+generated_at: "2026-03-30T07:50:11.303Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
     - **(B)** has crossed the fishing banks of Newfoundland north of latitude 43 degrees north during the fishing season; or
     - **(C)** has passed through regions known or believed to be endangered by ice when proceeding to and from ports of North America.
   - **(2)** The name of the vessel and all pertinent information about the incident shall be reported to the government of the country to which the vessel belongs if that government requests.
-- **(d)** The Commandant of the Coast Guard, under the direction of the Secretary of the department in which the Coast Guard is operating, shall carry out the services provided for in this section and shall assign necessary aircraft, material, and personnel of the Coast Guard. On request of such Secretary, the head of an agency may detail personnel, lend or contribute material or equipment, or otherwise assist in carrying out the services provided for in this section.
+- **(d)** The Commandant, under the direction of the Secretary of the department in which the Coast Guard is operating, shall carry out the services provided for in this section and shall assign necessary aircraft, material, and personnel of the Coast Guard. On request of such Secretary, the head of an agency may detail personnel, lend or contribute material or equipment, or otherwise assist in carrying out the services provided for in this section.
 - **(e)** The Commandant shall publish an annual report of the activities of the services provided for in this section. A copy of the report shall be provided to each interested foreign government and to each agency assisting in the work.

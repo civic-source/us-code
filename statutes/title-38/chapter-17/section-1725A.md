@@ -3,9 +3,9 @@ title: "Section 1725A - Access to walk-in care"
 usc_title: 38
 usc_section: "1725A"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1725A"
-generated_at: "2026-03-30T07:46:46.209Z"
+generated_at: "2026-03-30T07:49:45.549Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** For purposes of this section, an eligible veteran is any individual who—
   - **(1)** is enrolled in the health care system established under section 1705(a) of this title ; and
   - **(2)** has received care under this chapter within the 24-month period preceding the furnishing of walk-in care under this section.
-- **(c)** For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract or other agreement with the Secretary to furnish services under this section.
+- **(c)** For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract 1 1 So in original. Probably should be followed by a comma. agreement, or other arrangement with the Secretary to furnish services under this section.
 - **(d)** Whenever practicable, the Secretary may use a Federally-qualified health center (as defined in section 1905( l )(2)(B) of the Social Security Act ( 42 U.S.C. 1396d ( l )(2)(B))) to carry out this section.
 - **(e)** The Secretary shall ensure continuity of care for those eligible veterans who receive walk-in care services under this section, including through the establishment of a mechanism to receive medical records from walk-in care providers and provide pertinent patient medical records to providers of walk-in care.
 - **(f)**
@@ -25,6 +25,6 @@ status: "active"
     - **(C)** An eligible veteran required to pay a copayment under this title may be required to pay a regular copayment for the first two walk-in care visits in a calendar year. For any additional visits, a higher copayment at an amount determined by the Secretary may be required.
   - **(2)** After the first two episodes of care furnished to an eligible veteran under this section, the Secretary may adjust the copayment required of the veteran under this subsection based upon the priority group of enrollment of the eligible veteran, the number of episodes of care furnished to the eligible veteran during a year, and other factors the Secretary considers appropriate under this section.
   - **(3)** The amount or amounts of the copayments required under this subsection shall be prescribed by the Secretary by rule.
-  - **(4)** Section 8153(c) of this title shall not apply to this subsection.
+  - **(4)** Sections 8153(c) and 1703A(j) of this title shall not apply to this subsection.
 - **(g)** Not later than 1 year after the date of the enactment of the Caring for Our Veterans Act of 2018, the Secretary shall promulgate regulations to carry out this section.
 - **(h)** In this section, the term “walk-in care” means non-emergent care provided by a qualifying non-Department entity or provider that furnishes episodic care and not longitudinal management of conditions and is otherwise defined through regulations the Secretary shall promulgate.

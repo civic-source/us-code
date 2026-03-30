@@ -3,9 +3,9 @@ title: "Section 3303a - Levee safety initiative"
 usc_title: 33
 usc_section: "3303a"
 chapter: 46
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 3303a"
-generated_at: "2026-03-30T07:46:37.837Z"
+generated_at: "2026-03-30T07:49:41.228Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
         - **(V)** develops technical assistance materials, seminars, and guidelines to improve the security of levees of the United States.
     - **(D)** Technical assistance or grants may not be provided to a State under this subsection during a fiscal year unless the State enters into an agreement with the Administrator to ensure that the State will maintain during that fiscal year aggregate expenditures for programs to ensure levee safety that equal or exceed the average annual level of such expenditures for the State for the 2 fiscal years preceding that fiscal year.
     - **(E)**
-      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2015 through 2019.
+      - **(i)** There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
       - **(ii)** For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
         - **(I)** ⅓ among States, regional districts, and Indian tribes that qualify for assistance under this subsection.
         - **(II)** ⅔ among States, regional districts, and Indian tribes that qualify for assistance under this subsection, to each such State, regional district, or Indian tribe in the proportion that—

@@ -3,9 +3,9 @@ title: "Section 10651 - Adult and juvenile collaboration programs"
 usc_title: 34
 usc_section: "10651"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 10651"
-generated_at: "2026-03-30T07:46:36.239Z"
+generated_at: "2026-03-30T07:49:40.328Z"
 status: "active"
 ---
 
@@ -67,8 +67,7 @@ status: "active"
     - **(A)** The joint applicants may apply to the Attorney General for a nonrenewable planning grant to develop a collaboration program.
     - **(B)** The Attorney General and the Secretary may not approve a planning grant unless the application for the grant includes or provides, at a minimum, for a budget and a budget justification, a description of the outcome measures that will be used to measure the effectiveness of the program in promoting public safety and public health, the activities proposed (including the provision of substance abuse treatment services, where appropriate) and a schedule for completion of such activities, and the personnel necessary to complete such activities.
     - **(C)** A planning grant shall be effective for a period of 1 year, beginning on the first day of the month in which the planning grant is made. Applicants may not receive more than 1 such planning grant.
-    - **(D)** The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.
-    - **(E)** Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
+    - **(D)** Up to 5 percent of all planning funds shall be used to foster collaboration between State and local governments in furtherance of the purposes set forth in the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.
   - **(5)**
     - **(A)** Joint applicants that have prepared a planning grant application may apply to the Attorney General for approval of a nonrenewable implementation grant to develop a collaboration program.
     - **(B)** To receive an implementation grant, the joint applicants shall—
@@ -132,7 +131,7 @@ status: "active"
     - **(B)** 60 percent of the total cost of the program in year 3; and
     - **(C)** 25 percent of the total cost of the program in years 4 and 5.
   - **(2)** The non-Federal share of payments made under this section may be made in cash or in-kind fairly evaluated, including planned equipment or services.
-- **(e)** The Attorney General, in consultation with the Secretary, in administering grants under this section, may use up to 3 percent of funds appropriated to—
+- **(e)** The Attorney General, in consultation with the Secretary, in administering grants under this section, shall use not less than 6 percent of funds appropriated to—
   - **(1)** research the use of alternatives to prosecution through pretrial diversion in appropriate cases involving individuals with mental illness;
   - **(2)** offer specialized training to personnel of criminal and juvenile justice agencies in appropriate diversion techniques;
   - **(3)** provide technical assistance to local governments, mental health courts, and diversion programs, including technical assistance relating to program evaluation;
@@ -144,7 +143,7 @@ status: "active"
   - **(2)** The task force established under paragraph (1) shall—
     - **(A)** identify policies within their departments that hinder or facilitate local collaborative initiatives for preliminarily qualified offenders; and
     - **(B)** submit, not later than 2 years after October 30, 2004 , a report to Congress containing recommendations for improved interdepartmental collaboration regarding the provision of services to preliminarily qualified offenders.
-- **(g)** Unless all eligible applications submitted by any State or unit of local government within such State for a planning or implementation grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for planning or implementation grants pursuant to this section.
+- **(g)** The Attorney General shall use not less than 8 percent of funds appropriated to provide technical assistance to State and local governments receiving grants under this subchapter to foster collaboration between such governments in furtherance of the purposes set forth in section 3 of the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 ( 34 U.S.C. 10651 note).
 - **(h)**
   - **(1)** The Attorney General is authorized to make grants under this section to States, units of local government, Indian tribes, and tribal organizations for the following purposes:
     - **(A)** To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.

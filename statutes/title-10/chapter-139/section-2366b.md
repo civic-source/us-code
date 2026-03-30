@@ -3,9 +3,9 @@ title: "Section 2366b - Major defense acquisition programs: certification requir
 usc_title: 10
 usc_section: "2366b"
 chapter: 139
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2366b"
-generated_at: "2026-03-30T07:45:51.358Z"
+generated_at: "2026-03-30T07:48:43.957Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
     - **(B)** appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost;
     - **(C)** reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program;
-    - **(D)** the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under section 2435) do not exceed the program cost and fielding targets established under section 2448a(a) of this title , or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the Secretary of Defense after a request for such increase or delay by the milestone decision authority;
+    - **(D)** the estimated procurement unit cost for the program and the estimated date for initial operational capability for the baseline description for the program (established under section 2435) do not exceed the program cost and fielding targets established under section 2448a(a) of this title , or, if such estimated cost is higher than the program cost targets or if such estimated date is later than the fielding target, the program cost targets have been increased or the fielding target has been delayed by the milestone decision authority;
     - **(E)** funding is expected to be available to execute the product development and production plan for the program, consistent with the estimates described in subparagraph (C) for the program;
     - **(F)** appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
     - **(G)** the Department of Defense has completed an analysis of alternatives with respect to the program;
@@ -38,7 +38,7 @@ status: "active"
   - **(2)** Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certifications or determination concerned or rescind Milestone B approval if the milestone decision authority determines that such certifications, determination, or approval are no longer valid.
 - **(c)**
   - **(1)** Not later than 15 days after granting Milestone B approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
-    - **(A)** The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title .
+    - **(A)** The program cost and fielding targets established under section 2448a(a) of this title .
     - **(B)** The estimated cost and schedule for the program established by the military department concerned, including—
       - **(i)** the dollar values estimated for the program acquisition unit cost, average procurement unit cost, and total life-cycle cost; and
       - **(ii)** the planned dates for each program milestone, initial operational test and evaluation, and initial operational capability.

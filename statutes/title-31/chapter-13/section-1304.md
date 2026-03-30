@@ -3,9 +3,9 @@ title: "Section 1304 - Judgments, awards, and compromise settlements"
 usc_title: 31
 usc_section: "1304"
 chapter: 13
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "31 U.S.C. § 1304"
-generated_at: "2026-03-30T07:46:36.881Z"
+generated_at: "2026-03-30T07:49:39.760Z"
 status: "active"
 ---
 
@@ -32,3 +32,10 @@ status: "active"
     - **(D)** the Coast Guard Exchanges; or
     - **(E)** the Exchange Councils of the National Aeronautics and Space Administration.
   - **(2)** The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
+- **(d)** Beginning not later than the date that is 60 days after the date of enactment of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and unless the disclosure of such information is otherwise prohibited by law or a court order, the Secretary of the Treasury shall make available to the public on a website, as soon as practicable, but not later than 30 days after the date on which a payment under this section is tendered, the following information with regard to that payment:
+  - **(1)** The name of the specific agency or entity whose actions gave rise to the claim or judgment.
+  - **(2)** The name of the plaintiff or claimant.
+  - **(3)** The name of counsel for the plaintiff or claimant.
+  - **(4)** The amount paid representing principal liability, and any amounts paid representing any ancillary liability, including attorney fees, costs, and interest.
+  - **(5)** A brief description of the facts that gave rise to the claim.
+  - **(6)** The name of the agency that submitted the claim.

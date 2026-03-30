@@ -3,9 +3,9 @@ title: "Section 1748c - Bureau of Land Management Foundation"
 usc_title: 43
 usc_section: "1748c"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1748c"
-generated_at: "2026-03-30T07:46:48.694Z"
+generated_at: "2026-03-30T07:49:48.841Z"
 status: "active"
 ---
 
@@ -68,7 +68,7 @@ status: "active"
     - **(A)** Serving as a member of the Board shall not constitute employment by the Federal Government for any purpose.
     - **(B)** A member of the Board shall serve without pay, other than reimbursement for the actual and necessary traveling and subsistence expenses incurred in the performance of the duties of the member for the Foundation, in accordance with section 5703 of title 5 .
   - **(8)** The Board may—
-    - **(A)**
+    - **(A)** appoint officers and employees in accordance with paragraph (9);
     - **(B)** adopt a constitution and bylaws consistent with the purposes of the Foundation and this section; and
     - **(C)** carry out any other activities that may be necessary to function and to carry out this section.
   - **(9)**

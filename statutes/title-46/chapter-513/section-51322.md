@@ -3,9 +3,9 @@ title: "Section 51322 - Protection of cadets from sexual assault onboard vessels
 usc_title: 46
 usc_section: "51322"
 chapter: 513
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 51322"
-generated_at: "2026-03-30T07:47:17.808Z"
+generated_at: "2026-03-30T07:50:11.290Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is in violation of the sexual assault policy developed by the Academy through a check conducted under paragraph (1), the staff may—
     - **(A)** remove any cadet of the Academy from the vessel; and
     - **(B)** report the violation to the owner or operator of the vessel.
-- **(c)** The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy.
+- **(c)** The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
 - **(d)**
   - **(1)** The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
   - **(2)** The Maritime Administrator shall make available to the public for each year—

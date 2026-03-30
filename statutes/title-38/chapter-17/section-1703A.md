@@ -3,9 +3,9 @@ title: "Section 1703A - Agreements with eligible entities or providers; certific
 usc_title: 38
 usc_section: "1703A"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1703A"
-generated_at: "2026-03-30T07:46:46.203Z"
+generated_at: "2026-03-30T07:49:45.545Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** When hospital care, a medical service, or an extended care service required by a veteran who is entitled to such care or service under this chapter is not feasibly available to the veteran from a facility of the Department or through a contract or sharing agreement entered into pursuant to another provision of law, the Secretary may furnish such care or service to such veteran through an agreement under this section with an eligible entity or provider to provide such hospital care, medical service, or extended care service.
+    - **(A)** When hospital care, a medical service, or an extended care service required by a covered individual who is entitled to such care or service under this chapter is not feasibly available to the covered individual from a facility of the Department or through a contract or sharing agreement entered into pursuant to another provision of law, the Secretary may furnish such care or service to such covered individual through an agreement under this section with an eligible entity or provider to provide such hospital care, medical service, or extended care service.
     - **(B)** An agreement entered into under this section to provide hospital care, a medical service, or an extended care service shall be known as a “Veterans Care Agreement”.
-    - **(C)** For purposes of subparagraph (A), hospital care, a medical service, or an extended care service may be considered not feasibly available to a veteran from a facility of the Department or through a contract or sharing agreement described in such subparagraph when the Secretary determines the veteran’s medical condition, the travel involved, the nature of the care or services required, or a combination of these factors make the use of a facility of the Department or a contract or sharing agreement described in such subparagraph impracticable or inadvisable.
+    - **(C)** For purposes of subparagraph (A), hospital care, a medical service, or an extended care service may be considered not feasibly available to a covered individual from a facility of the Department or through a contract or sharing agreement described in such subparagraph when the Secretary determines the covered individual’s medical condition, the travel involved, the nature of the care or services required, or a combination of these factors make the use of a facility of the Department or a contract or sharing agreement described in such subparagraph impracticable or inadvisable.
     - **(D)** A Veterans Care Agreement may be entered into by the Secretary or any Department official authorized by the Secretary.
   - **(2)**
     - **(A)** Subject to subparagraph (B), the Secretary shall review each Veterans Care Agreement of material size, as determined by the Secretary or set forth in paragraph (3), for hospital care, a medical service, or an extended care service to determine whether it is feasible and advisable to provide such care or service within a facility of the Department or by contract or sharing agreement entered into pursuant to another provision of law and, if so, take action to do so.
@@ -42,7 +42,7 @@ status: "active"
   - **(1)** Pursuant to regulations promulgated under subsection (k), the Secretary may define the requirements for providers and entities entering into agreements under this section based upon such factors as the number of patients receiving care or services, the number of employees employed by the entity or provider furnishing such care or services, the amount paid by the Secretary to the provider or entity, or other factors as determined by the Secretary.
   - **(2)** To furnish hospital care, medical services, or extended care services under this section, an eligible entity or provider shall agree—
     - **(A)** to accept payment at the rates established in regulations prescribed under this section;
-    - **(B)** that payment by the Secretary under this section on behalf of a veteran to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of the veteran for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
+    - **(B)** that payment by the Secretary under this section on behalf of a covered individual to a provider of services or care shall, unless rejected and refunded by the provider within 30 days of receipt, constitute payment in full and extinguish any liability on the part of the covered individual for the treatment or care provided, and no provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate this requirement;
     - **(C)** to provide only the care and services authorized by the Department under this section and to obtain the prior written consent of the Department to furnish care or services outside the scope of such authorization;
     - **(D)** to bill the Department in accordance with the methodology outlined in regulations prescribed under this section;
     - **(E)** to not seek to recover or collect from a health plan contract or third party, as those terms are defined in section 1729 of this title , for any care or service that is furnished or paid for by the Department;
@@ -53,14 +53,14 @@ status: "active"
   - **(2)** The Secretary may discontinue a Veterans Care Agreement with an eligible entity or provider at such time and upon such reasonable notice to the eligible entity or provider as may be specified in regulations prescribed under this section, if an official designated by the Secretary—
     - **(A)** has determined that the eligible entity or provider failed to comply substantially with the provisions of the Veterans Care Agreement, or with the provisions of this section or regulations prescribed under this section;
     - **(B)** has determined the eligible entity or provider is excluded from participation in a Federal health care program under section 1128 or section 1128A of the Social Security Act ( 42 U.S.C. 1320a–7 or 1320a–7a) or is identified on the System for Award Management Exclusions list as provided in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or successor regulations;
-    - **(C)** has ascertained that the eligible entity or provider has been convicted of a felony or other serious offense under Federal or State law and determines the eligible entity or provider’s continued participation would be detrimental to the best interests of veterans or the Department; or
-    - **(D)** has determined that it is reasonable to terminate the agreement based on the health care needs of a veteran.
-- **(g)** The Secretary shall establish a system or systems for monitoring the quality of care provided to veterans through Veterans Care Agreements and for assessing the quality of hospital care, medical services, and extended care services furnished by eligible entities and providers before the renewal of Veterans Care Agreements.
+    - **(C)** has ascertained that the eligible entity or provider has been convicted of a felony or other serious offense under Federal or State law and determines the eligible entity or provider’s continued participation would be detrimental to the best interests of covered individuals or the Department; or
+    - **(D)** has determined that it is reasonable to terminate the agreement based on the health care needs of a covered individual.
+- **(g)** The Secretary shall establish a system or systems for monitoring the quality of care provided to covered individuals through Veterans Care Agreements and for assessing the quality of hospital care, medical services, and extended care services furnished by eligible entities and providers before the renewal of Veterans Care Agreements.
 - **(h)**
   - **(1)** The Secretary shall promulgate administrative procedures for eligible entities and providers to present all disputes arising under or related to Veterans Care Agreements.
   - **(2)** Such procedures constitute the eligible entities’ and providers’ exhaustive and exclusive administrative remedies.
   - **(3)** Eligible entities or providers must first exhaust such administrative procedures before seeking any judicial review under section 1346 of title 28 (known as the “Tucker Act”).
-  - **(4)** Disputes under this section must pertain to either the scope of authorization under the Veterans Care Agreement or claims for payment subject to the Veterans Care Agreement and are not claims for the purposes of such laws that would otherwise require application of sections 7101 through 7109 of title 41, United States Code.
+  - **(4)** Disputes under this section must pertain to either the scope of authorization under the Veterans Care Agreement or claims for payment subject to the Veterans Care Agreement and are not claims for the purposes of such laws that would otherwise require application of sections 7101 through 7109 of title 41.
 - **(i)**
   - **(1)** A Veterans Care Agreement may be authorized by the Secretary or any Department official authorized by the Secretary, and such action shall not be treated as—
     - **(A)** an award for the purposes of such laws that would otherwise require the use of competitive procedures for the furnishing of care and services; or
@@ -71,5 +71,6 @@ status: "active"
       - **(i)** all laws regarding integrity, ethics, or fraud, or that subject a person to civil or criminal penalties; and
       - **(ii)** all laws that protect against employment discrimination or that otherwise ensure equal employment opportunities.
   - **(3)** Notwithstanding paragraph (2)(B)(i), an eligible entity or provider that enters into an agreement under this section shall not be treated as a Federal contractor or subcontractor for purposes of chapter 67 of title 41 (commonly known as the “McNamara-O’Hara Service Contract Act of 1965”).
-- **(j)** Eligibility for hospital care, medical services, and extended care services furnished to any veteran pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided in a facility of the Department, and provisions of this chapter applicable to veterans receiving such care and services in a facility of the Department shall apply to veterans treated under this section.
+- **(j)** Eligibility for hospital care, medical services, and extended care services furnished to any covered individual pursuant to a Veterans Care Agreement shall be subject to the same terms as though provided in a facility of the Department, and provisions of this chapter applicable to covered individuals receiving such care and services in a facility of the Department shall apply to covered individuals treated under this section.
 - **(k)** The Secretary shall promulgate regulations to carry out this section.
+- **(l)** In this section, the term “covered individual” means any individual eligible for hospital care, medical services, or extended care services under this title or any other law administered by the Secretary.

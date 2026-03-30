@@ -3,13 +3,13 @@ title: "Section 45107 - Transportation Security Administration"
 usc_title: 49
 usc_section: "45107"
 chapter: 451
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 45107"
-generated_at: "2026-03-30T07:47:24.842Z"
+generated_at: "2026-03-30T07:50:15.340Z"
 status: "active"
 ---
 
 # § 45107. Transportation Security Administration
 
-- **(a)** The authority of the Administrator of the Federal Aviation Administration under this chapter with respect to programs relating to testing of airport security screening personnel are transferred to the Under Secretary of Transportation for Security. Notwithstanding section 45102(a), the regulations prescribed under section 45102(a) shall require testing of such personnel by their employers instead of by air carriers and foreign air carriers.
-- **(b)** The provisions of this chapter that apply with respect to employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions shall apply with respect to employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions. The Under Secretary of Transportation for Security, the Transportation Security Administration, and employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions shall be subject to and comply with such provisions in the same manner and to the same extent as the Administrator of the Federal Aviation Administration, the Federal Aviation Administration, and employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions, respectively.
+- **(a)** The authority of the Administrator of the Federal Aviation Administration under this chapter with respect to programs relating to testing of airport security screening personnel are transferred to the Administrator of the Transportation Security Administration. Notwithstanding section 45102(a), the regulations prescribed under section 45102(a) shall require testing of such personnel by their employers instead of by air carriers and foreign air carriers.
+- **(b)** The provisions of this chapter that apply with respect to employees of the Federal Aviation Administration whose duties include responsibility for safety-sensitive functions shall apply with respect to employees of the Transportation Security Administration whose duties include responsibility for security-sensitive functions.

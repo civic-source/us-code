@@ -3,9 +3,9 @@ title: "Section 3156 - Education grants to Alaska Native serving institutions an
 usc_title: 7
 usc_section: "3156"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3156"
-generated_at: "2026-03-30T07:45:46.549Z"
+generated_at: "2026-03-30T07:48:18.748Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** to strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international educational needs in the food and agriculture sciences;
     - **(C)** to attract and support undergraduate and graduate students from under represented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level including by village elders and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
     - **(D)** to facilitate cooperative initiatives between two or more Alaska Native serving institutions, or between Alaska Native serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
-  - **(3)** There are authorized to be appropriated to make grants under this subsection $10,000,000 in fiscal years 2001 through 2018.
+  - **(3)** There are authorized to be appropriated to make grants under this subsection $10,000,000 in fiscal years 2001 through 2023.
 - **(b)**
   - **(1)** The Secretary of Agriculture may make competitive grants to Native Hawaiian serving institutions for the purpose of promoting and strengthening the ability of Native Hawaiian serving institutions to carry out education, applied research, and related community development programs.
   - **(2)** Grants made under this section shall be used—
@@ -26,4 +26,4 @@ status: "active"
     - **(B)** to strengthen institutional educational capacities, including libraries, curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, in order to respond to identified State, regional, national, or international educational needs in the food and agriculture sciences;
     - **(C)** to attract and support undergraduate and graduate students from under represented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
     - **(D)** to facilitate cooperative initiatives between two or more Native Hawaiian serving institutions, or between Native Hawaiian serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
-  - **(3)** There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2018.
+  - **(3)** There are authorized to be appropriated to make grants under this subsection $10,000,000 for each of fiscal years 2001 through 2023.

@@ -3,9 +3,9 @@ title: "Section 674b - Sullys Hill National Game Preserve; acquisition of additi
 usc_title: 16
 usc_section: "674b"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 674b"
-generated_at: "2026-03-30T07:46:15.416Z"
+generated_at: "2026-03-30T07:49:06.001Z"
 status: "active"
 ---
 

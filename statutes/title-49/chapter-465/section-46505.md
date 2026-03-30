@@ -3,9 +3,9 @@ title: "Section 46505 - Carrying a weapon or explosive on an aircraft"
 usc_title: 49
 usc_section: "46505"
 chapter: 465
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 46505"
-generated_at: "2026-03-30T07:47:24.844Z"
+generated_at: "2026-03-30T07:50:15.343Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
 - **(c)** An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 - **(d)** Subsection (b)(1) of this section does not apply to—
   - **(1)** a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the United States Government, authorized to carry arms in an official capacity;
-  - **(2)** another individual the Administrator of the Federal Aviation Administration or the Under Secretary of Transportation for Security by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
+  - **(2)** another individual the Administrator of the Federal Aviation Administration or the Administrator of the Transportation Security Administration by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
   - **(3)** an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
 - **(e)** If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.

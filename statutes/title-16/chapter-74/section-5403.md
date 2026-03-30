@@ -3,9 +3,9 @@ title: "Section 5403 - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "5403"
 chapter: 74
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 5403"
-generated_at: "2026-03-30T07:46:15.565Z"
+generated_at: "2026-03-30T07:49:06.105Z"
 status: "repealed"
 ---
 

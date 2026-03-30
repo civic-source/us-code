@@ -3,15 +3,15 @@ title: "Section 2191 - Congressional statement of purpose; creation and function
 usc_title: 22
 usc_section: "2191"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2191"
-generated_at: "2026-03-30T07:46:23.100Z"
+generated_at: "2026-03-30T07:49:19.021Z"
 status: "active"
 ---
 
 # § 2191. Congressional statement of purpose; creation and functions of Corporation
 
-  - **(1)** be guided by the economic and social development impact and benefits of such a proj­ect and the ways in which such a project complements, or is compatible with, other development assistance programs or projects of the United States or other donors;
+  - **(1)** be guided by the economic and social development impact and benefits of such a project and the ways in which such a project complements, or is compatible with, other development assistance programs or projects of the United States or other donors;
   - **(2)** give preferential consideration to investment projects in less developed countries that have per capita incomes of $984 or less in 1986 United States dollars, and restrict its activities with respect to investment projects in less developed countries that have per capita incomes of $4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19 , Ireland, and Northern Ireland); and
   - **(3)** ensure that the project is consistent with the provisions of section 2151p of this title , section 2151p–1 of this title , and section 2151q of this title relating to the environment and natural resources of, and tropical forests and endangered species in, developing countries, and consistent with the intent of regulations issued pursuant to section 2151p of this title , section 2151p–1 of this title , and section 2151q of this title . In carrying out its purpose, the Corporation, utilizing broad criteria, shall undertake—
 - **(a)** to conduct financing, insurance, and reinsurance operations on a self-sustaining basis, taking into account in its financing operations the economic and financial soundness of projects;

@@ -3,9 +3,9 @@ title: "Section 408 - Individual retirement accounts"
 usc_title: 26
 usc_section: "408"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 408"
-generated_at: "2026-03-30T07:46:33.239Z"
+generated_at: "2026-03-30T07:49:37.063Z"
 status: "active"
 ---
 
@@ -73,7 +73,7 @@ status: "active"
     - **(B)** If—
       - **(i)** the taxpayer reasonably relies on information supplied pursuant to subtitle F for determining the amount of a rollover contribution, but
       - **(ii)** the information was erroneous,
-  - **(6)** The transfer of an individual’s interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in subparagraph (A) of section 71(b)(2) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
+  - **(6)** The transfer of an individual’s interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
   - **(7)**
     - **(A)** Notwithstanding any other provision of this subsection or section 72(t), paragraph (1) and section 72(t)(1) shall apply to the transfer or distribution from a simplified employee pension of any contribution under a salary reduction arrangement described in subsection (k)(6) (or any income allocable thereto) before a determination as to whether the requirements of subsection (k)(6)(A)(iii) are met with respect to such contribution.
     - **(B)** For purposes of paragraphs (4) and (5) and section 4973, any amount excludable or excluded from gross income under section 402(h) or 402(k) shall be treated as an amount allowable or allowed as a deduction under section 219.

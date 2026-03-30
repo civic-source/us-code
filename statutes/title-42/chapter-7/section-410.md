@@ -3,9 +3,9 @@ title: "Section 410 - Definitions relating to employment"
 usc_title: 42
 usc_section: "410"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 410"
-generated_at: "2026-03-30T07:46:59.819Z"
+generated_at: "2026-03-30T07:50:06.754Z"
 status: "active"
 ---
 
@@ -101,7 +101,8 @@ For the purposes of this subchapter—
     - **(C)** the amount of such individual’s share depends on the amount of the boat’s (or boats’ in the case of a fishing operation involving more than one boat) catch of fish or other forms of aquatic animal life,
   - **(21)** Domestic service in a private home of the employer which—
     - **(A)** is performed in any year by an individual under the age of 18 during any portion of such year; and
-    - **(B)** is not the principal occupation of such employee.
+    - **(B)** is not the principal occupation of such employee; or
+  - **(22)** Service performed by members of Indian tribal councils as tribal council members in the employ of an Indian tribal government, except that this paragraph shall not apply in the case of service included under an agreement under section 418a of this title .
 - **(b)** If the services performed during one-half or more of any pay period by an employee for the person employing him constitute employment, all the services of such employee for such period shall be deemed to be employment; but if the services performed during more than one-half of any such pay period by an employee for the person employing him do not constitute employment, then none of the services of such employee for such period shall be deemed to be employment. As used in this subsection, the term “pay period” means a period (of not more than thirty-one consecutive days) for which a payment of remuneration is ordinarily made to the employee by the person employing him. This subsection shall not be applicable with respect to services performed in a pay period by an employee for the person employing him, where any of such service is excepted by paragraph (9) of subsection (a).
 - **(c)** The term “American vessel” means any vessel documented or numbered under the laws of the United States; and includes any vessel which is neither documented or numbered under the laws of the United States nor documented under the laws of any foreign country, if its crew is employed solely by one or more citizens or residents of the United States or corporations organized under the laws of the United States or of any State.
 - **(d)** The term “American aircraft” means an aircraft registered under the laws of the United States.

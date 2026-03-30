@@ -3,9 +3,9 @@ title: "Section 1284 - Limitations and conditions"
 usc_title: 33
 usc_section: "1284"
 chapter: 26
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 1284"
-generated_at: "2026-03-30T07:46:37.789Z"
+generated_at: "2026-03-30T07:49:41.190Z"
 status: "active"
 ---
 

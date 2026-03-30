@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-30T07:46:19.741Z"
+generated_at: "2026-03-30T07:49:09.829Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
         - **(II)** appropriate counseling and other appropriate ancillary services.
       - **(iii)**
         - **(I)** The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
-        - **(II)** The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.
+        - **(II)** The applicable number is—
         - **(III)** The Secretary may by regulation change such applicable number.
         - **(IV)** The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
     - **(C)** For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
@@ -89,13 +89,15 @@ status: "active"
         - **(V)** The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
         - **(VI)** The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
         - **(VII)** The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
+        - **(VIII)** The physician graduated in good standing from an accredited school of allopathic medicine or osteopathic medicine in the United States during the 5-year period immediately preceding the date on which the physician submits to the Secretary a written notification under subparagraph (B) and successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency that—
       - **(iii)** The term “qualifying practitioner” means—
-        - **(I)** a qualifying physician, as defined in clause (ii); or
-        - **(II)** during the period beginning on July 22, 2016 , and ending on October 1, 2021 , a qualifying other practitioner, as defined in clause (iv).
-      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner or physician assistant who satisfies each of the following:
-        - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-        - **(II)** The nurse practitioner or physician assistant has—
-        - **(III)** The nurse practitioner or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
+        - **(I)** a qualifying physician, as defined in clause (ii);
+        - **(II)** a qualifying other practitioner, as defined in clause (iv), who is a nurse practitioner or physician assistant; or
+        - **(III)** for the period beginning on October 1, 2018 , and ending on October 1, 2023 , a qualifying other practitioner, as defined in clause (iv), who is a clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
+      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant who satisfies each of the following:
+        - **(I)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
+        - **(II)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant has—
+        - **(III)** The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
     - **(H)**
       - **(i)** In consultation with the Administrator of the Drug Enforcement Administration, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, and the Commissioner of Food and Drugs, the Secretary shall issue regulations (through notice and comment rulemaking) or issue practice guidelines to address the following:
         - **(I)** Approval of additional credentialing bodies and the responsibilities of additional credentialing bodies.

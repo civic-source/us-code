@@ -3,9 +3,9 @@ title: "Section 10381 - Authority to make public safety and community policing g
 usc_title: 34
 usc_section: "10381"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 10381"
-generated_at: "2026-03-30T07:46:36.233Z"
+generated_at: "2026-03-30T07:49:40.322Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(9)** to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
   - **(10)** to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
   - **(11)** to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
-  - **(12)** to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities;
+  - **(12)** to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
   - **(13)** to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
   - **(14)** to assist a State or Indian tribe in enforcing a law throughout the State or tribal community that requires that a convicted sex offender register his or her address with a State, tribal, or local law enforcement agency and be subject to criminal prosecution for failure to comply;
   - **(15)** to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
@@ -69,7 +69,9 @@ status: "active"
     - **(A)** shall be 100 percent; and
     - **(B)** may be used to cover indirect costs.
   - **(4)** There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2011 through 2015.
-- **(k)** Not later than 180 days after July 29, 2010 , the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
+- **(k)** The Attorney General shall use amounts otherwise appropriated to carry out this section for a fiscal year (beginning with fiscal year 2019) to make competitive grants, in amounts of not less than $1,000,000 for such fiscal year, to State law enforcement agencies with high seizures of precursor chemicals, finished methamphetamine, laboratories, and laboratory dump seizures for the purpose of locating or investigating illicit activities, such as precursor diversion, laboratories, or methamphetamine traffickers.
+- **(l)** The Attorney General shall use amounts otherwise appropriated to carry out this section, or other amounts as appropriated, for a fiscal year (beginning with fiscal year 2019) to make competitive grants to State law enforcement agencies in States with high per capita rates of primary treatment admissions, for the purpose of locating or investigating illicit activities, through Statewide collaboration, relating to the distribution of heroin, fentanyl, or carfentanil or relating to the unlawful distribution of prescription opioids.
+- **(m)** Not later than 180 days after July 29, 2010 , the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
   - **(1)** the problem of intermittent funding;
   - **(2)** the integration of COPS personnel with existing law enforcement authorities; and
   - **(3)** an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.

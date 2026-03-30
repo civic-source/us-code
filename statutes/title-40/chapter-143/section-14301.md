@@ -3,9 +3,9 @@ title: "Section 14301 - Establishment, membership, and employees"
 usc_title: 40
 usc_section: "14301"
 chapter: 143
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "40 U.S.C. § 14301"
-generated_at: "2026-03-30T07:46:40.921Z"
+generated_at: "2026-03-30T07:49:44.020Z"
 status: "active"
 ---
 

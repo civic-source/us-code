@@ -3,9 +3,9 @@ title: "Section 40504 - Grants for the assistance of organizations to find missi
 usc_title: 34
 usc_section: "40504"
 chapter: 405
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 40504"
-generated_at: "2026-03-30T07:46:36.277Z"
+generated_at: "2026-03-30T07:49:40.359Z"
 status: "active"
 ---
 
@@ -18,4 +18,4 @@ status: "active"
   - **(4)** to provide informational resources and referrals to families of missing adults;
   - **(5)** to assist in public notification and victim advocacy related to missing adults; and
   - **(6)** to establish and maintain a national clearinghouse for missing adults.
-- **(b)** The Attorney General may make such rules and regulations as may be necessary to carry out this Act.
+- **(b)** The Attorney General may make such rules and regulations as may be necessary to carry out this title. 1 1 See References in Text note below.

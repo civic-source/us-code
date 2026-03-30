@@ -3,9 +3,9 @@ title: "Section 2603 - Settlement of claims for damages caused by the Postal Ser
 usc_title: 39
 usc_section: "2603"
 chapter: 26
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "39 U.S.C. § 2603"
-generated_at: "2026-03-30T07:46:39.523Z"
+generated_at: "2026-03-30T07:49:42.753Z"
 status: "active"
 ---
 

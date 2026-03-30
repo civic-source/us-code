@@ -3,9 +3,9 @@ title: "Section 2911 - Energy policy of the Department of Defense"
 usc_title: 10
 usc_section: "2911"
 chapter: 173
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2911"
-generated_at: "2026-03-30T07:45:51.400Z"
+generated_at: "2026-03-30T07:48:43.981Z"
 status: "active"
 ---
 
@@ -13,12 +13,15 @@ status: "active"
 
 - **(a)** The Secretary of Defense shall ensure the readiness of the armed forces for their military missions by pursuing energy security and energy resilience.
 - **(b)** In order to achieve the policy set forth in subsection (a), the Secretary of Defense may—
-  - **(1)** require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
-  - **(2)** authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
-  - **(3)** in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
+  - **(1)** establish metrics and standards for the assessment of energy resilience;
+  - **(2)** require the Secretary of a military department to perform mission assurance and readiness assessments of energy power systems for mission critical assets and supporting infrastructure, applying uniform mission standards established by the Secretary of Defense;
+  - **(3)** require the Secretary of a military department to establish and maintain an energy resilience master plan for an installation;
+  - **(4)** authorize the use of energy security and energy resilience, including the benefits of on-site generation resources that reduce or avoid the cost of backup power, as factors in the cost-benefit analysis for procurement of energy; and
+  - **(5)** in selecting facility energy projects that will use renewable energy sources, pursue energy security and energy resilience by giving favorable consideration to projects that provide power directly to a military facility or into the installation electrical distribution network.
 - **(c)**
   - **(1)** The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
   - **(2)** The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
+  - **(3)** The Secretary of Defense shall include the energy security and resilience goals of the Department of Defense in the installation energy report submitted under section 2925(a) of this title for fiscal year 2018 and every fiscal year thereafter. In the development of energy security and resilience goals, the Department of Defense shall conform with the definitions of energy security and resilience under this title. The report shall include the amount of critical energy load, together with the level of availability and reliability by fiscal year the Department of Defense deems necessary to achieve energy security and resilience.
 - **(d)**
   - **(1)** The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
   - **(2)** The master plan shall include the following:

@@ -3,9 +3,9 @@ title: "Section 6411 - Tentative carryback and refund adjustments"
 usc_title: 26
 usc_section: "6411"
 chapter: 65
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 6411"
-generated_at: "2026-03-30T07:46:33.403Z"
+generated_at: "2026-03-30T07:49:37.202Z"
 status: "active"
 ---
 

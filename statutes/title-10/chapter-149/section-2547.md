@@ -3,9 +3,9 @@ title: "Section 2547 - Acquisition-related functions of chiefs of the armed forc
 usc_title: 10
 usc_section: "2547"
 chapter: 149
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2547"
-generated_at: "2026-03-30T07:45:51.378Z"
+generated_at: "2026-03-30T07:48:43.967Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(B)** concur with the cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program before Milestone A approval is granted under section 2366a of this title ;
     - **(C)** concur that appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total life-cycle cost before Milestone B approval is granted under section 2366b of this title ; and
     - **(D)** concur that the requirements in the program capability document are necessary and realistic in relation to program cost and fielding targets as required by paragraph (1) before Milestone C approval is granted.
-- **(c)** Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or section 8014(c)(1)(A) of this title , except as explicitly provided in this section.
+- **(c)** Nothing in this section shall be construed to affect the assignment of functions under section 7014(c)(1)(A), section 8014(c)(1)(A), or section 9014(c)(1)(A) of this title , except as explicitly provided in this section.
 - **(d)** In this section:
   - **(1)** The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
   - **(2)** The term “requirements document” means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—

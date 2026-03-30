@@ -3,9 +3,9 @@ title: "Section 9406 - Enforcement of arms embargos"
 usc_title: 22
 usc_section: "9406"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9406"
-generated_at: "2026-03-30T07:46:23.229Z"
+generated_at: "2026-03-30T07:49:19.121Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
   - **(2)** Iran no longer presents a significant threat to the national security of the United States and to the allies of the United States; and
   - **(3)** the Government of Iran has ceased providing operational or financial support for acts of international terrorism and no longer satisfies the requirements for designation as a state sponsor of terrorism.
 - **(e)** In this section, the term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined to be a government that has repeatedly provided support for acts of international terrorism for purposes of—
-  - **(1)** section 4605(j)(1)(A) of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.));
+  - **(1)** section 4605(j)(1)(A) 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.));
   - **(2)** section 2371(a) of this title ;
   - **(3)** section 2780(d) of this title ; or
   - **(4)** any other provision of law.

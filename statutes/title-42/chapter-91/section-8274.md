@@ -3,9 +3,9 @@ title: "Section 8274 - Acquisition of systems"
 usc_title: 42
 usc_section: "8274"
 chapter: 91
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 8274"
-generated_at: "2026-03-30T07:47:00.231Z"
+generated_at: "2026-03-30T07:50:07.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1395r - Amount of premiums for individuals enrolled under this p
 usc_title: 42
 usc_section: "1395r"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395r"
-generated_at: "2026-03-30T07:46:59.895Z"
+generated_at: "2026-03-30T07:50:06.826Z"
 status: "active"
 ---
 
@@ -64,7 +64,7 @@ status: "active"
       - **(i)**
         - **(I)** Subject to paragraphs (5) and (6), for years before 2018: If the modified adjusted gross income is: The applicable percentage is: More than $80,000 but not more than $100,000 35 percent More than $100,000 but not more than $150,000 50 percent More than $150,000 but not more than $200,000 65 percent More than $200,000 80 percent.
         - **(II)** Subject to paragraph (5), for 2018: If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 80 percent.
-        - **(III)** Subject to paragraph (5), for years beginning with 2019: “If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 but less than $500,000 80 percent At least $500,000 85 percent.”.
+        - **(III)** Subject to paragraph (5), for years beginning with 2019: If the modified adjusted gross income is: The applicable percentage is: More than $85,000 but not more than $107,000 35 percent More than $107,000 but not more than $133,500 50 percent More than $133,500 but not more than $160,000 65 percent More than $160,000 but less than $500,000 80 percent At least $500,000 85 percent.
       - **(ii)** In the case of a joint return, clause (i) shall be applied by substituting dollar amounts which are twice the dollar amounts otherwise applicable under clause (i) for the calendar year except, with respect to the dollar amounts applied in the last row of the table under subclause (III) of such clause (and the second dollar amount specified in the second to last row of such table), clause (i) shall be applied by substituting dollar amounts which are 150 percent of such dollar amounts for the calendar year.
       - **(iii)** In the case of an individual who—
         - **(I)** is married as of the close of the taxable year (within the meaning of section 7703 of the Internal Revenue Code of 1986) but does not file a joint return for such year, and

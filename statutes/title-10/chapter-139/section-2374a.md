@@ -3,9 +3,9 @@ title: "Section 2374a - Prizes for advanced technology achievements"
 usc_title: 10
 usc_section: "2374a"
 chapter: 139
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2374a"
-generated_at: "2026-03-30T07:45:51.359Z"
+generated_at: "2026-03-30T07:48:43.957Z"
 status: "active"
 ---
 
@@ -18,5 +18,5 @@ status: "active"
   - **(2)** No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Under Secretary of Defense for Research and Engineering.
   - **(3)** No prize competition may result in the award of a solely nonmonetary prize with a fair market value of more than $10,000 without the approval of the Under Secretary of Defense for Research and Engineering.
 - **(d)** A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of an official referred to in that subsection to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects.
-- **(e)** In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds or nonmonetary items from other departments and agencies of the Federal Government,, 1 1 So in original. from State and local governments, and from the private sector, to award prizes under this section. The Secretary may not give any special consideration to any private sector entity in return for a donation.
+- **(e)** In addition to such sums as may be appropriated or otherwise made available to the Secretary to award prizes under this section, the Secretary may accept funds or nonmonetary items from other departments and agencies of the Federal Government, from State and local governments, and from the private sector, to award prizes under this section. The Secretary may not give any special consideration to any private sector entity in return for a donation.
 - **(f)** Use of prize authority under this section shall be considered the use of competitive procedures for the purposes of section 2304 of this title .

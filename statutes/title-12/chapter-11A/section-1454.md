@@ -3,9 +3,9 @@ title: "Section 1454 - Purchase and sale of mortgages; residential mortgages; co
 usc_title: 12
 usc_section: "1454"
 chapter: 11
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 1454"
-generated_at: "2026-03-30T07:46:02.674Z"
+generated_at: "2026-03-30T07:48:49.467Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(A)** satisfies minimum requirements of integrity, reliability, and accuracy;
     - **(B)** has a historical record of measuring and predicting default rates and other credit behaviors;
     - **(C)** is consistent with the safe and sound operation of the corporation;
-    - **(D)** complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 4548 of this title ; and
+    - **(D)** complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 4548(1) of this title ; and
     - **(E)** satisfies any other requirements, as determined by the Corporation.
   - **(4)** If the Corporation has validated and approved 1 or more credit score models under paragraph (3) and the Corporation validates and approves an additional credit score model, the Corporation may determine that—
     - **(A)** the additional credit score model has replaced the credit score model or credit score models previously validated and approved; and
@@ -43,7 +43,7 @@ status: "active"
     - **(B)** The Director of the Federal Housing Finance Agency may authorize not more than 2 extensions of the date established under subparagraph (A), each of which shall not exceed 30 days, upon a written request and a showing of good cause by the Corporation.
     - **(C)** The Corporation shall provide notice to an applicant regarding the status of an application submitted under paragraph (6) not later than 60 days after the date on which the application was submitted to the Corporation.
     - **(D)** If an application submitted under paragraph (6) is disapproved, the Corporation shall provide to the applicant the reasons for the disapproval not later than 30 days after a determination is made under this paragraph.
-  - **(8)** If the Corporation elects to use a credit score under this subsection, the Director of the Federal Housing Finance Agency shall require the Corporation to periodically review the validation and approval process required under paragraph (3) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 4548 of this title .
+  - **(8)** If the Corporation elects to use a credit score under this subsection, the Director of the Federal Housing Finance Agency shall require the Corporation to periodically review the validation and approval process required under paragraph (3) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 4548(1) of this title .
   - **(9)** If, as of the effective date of this subsection, a credit score model has not been approved under paragraph (3), the Corporation may use a credit score model that was in use before the effective date of this subsection, if necessary to prevent substantial market disruptions, until the earlier of—
     - **(A)** the date on which a credit score model is validated and approved under paragraph (3); or
     - **(B)** the date that is 2 years after the effective date of this subsection.

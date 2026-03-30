@@ -3,21 +3,26 @@ title: "Section 3871d - Funding"
 usc_title: 16
 usc_section: "3871d"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 3871d"
-generated_at: "2026-03-30T07:46:15.551Z"
+generated_at: "2026-03-30T07:49:06.095Z"
 status: "active"
 ---
 
 # § 3871d. Funding
 
-- **(a)** The Secretary shall use $100,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2014 through 2018 to carry out the program.
+- **(a)** The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2023 to carry out the program.
 - **(b)** Funds made available under subsection (a) shall remain available until expended.
-- **(c)**
-  - **(1)** In addition to the funds made available under subsection (a), the Secretary shall reserve 7 percent of the funds and acres made available for a covered program for each of fiscal years 2014 through 2018 in order to ensure additional resources are available to carry out this program.
-  - **(2)** Any funds or acres reserved under paragraph (1) for a fiscal year from a covered program that are not committed under this program by April 1 of that fiscal year shall be returned for use under the covered program.
-- **(d)** Of the funds and acres made available for the program under subsection (a) and reserved for the program under subsection (c), the Secretary shall allocate—
-  - **(1)** 25 percent of the funds and acres to projects based on a State competitive process administered by the State Conservationist, with the advice of the State technical committee established under subchapter VI;
-  - **(2)** 40 percent of the funds and acres to projects based on a national competitive process to be established by the Secretary; and
-  - **(3)** 35 percent of the funds and acres to projects for critical conservation areas designated under section 3871f of this title .
-- **(e)** None of the funds made available or reserved for the program may be used to pay for the administrative expenses of eligible partners.
+- **(c)** Of the funds made available for the program under subsection (a), the Secretary shall allocate—
+  - **(1)** 50 percent of the funds to projects based on a State or multistate competitive process administered by the Secretary at the local level with the advice of the applicable State technical committees established under subchapter VI; and
+  - **(2)** 50 percent of the funds to projects for critical conservation areas designated under section 3871f of this title .
+- **(d)**
+  - **(1)** Except as provided in paragraph (2), none of the funds made available for the program, including for a partnership agreement funded through an alternative funding arrangement or grant agreement under section 3871c(d) of this title , may be used to pay for the administrative expenses of eligible partners.
+  - **(2)** Under a partnership agreement that is not funded through an alternative funding arrangement or grant agreement under section 3871c(d) of this title , the Secretary may advance reasonable amounts of funding for not longer than 90 days for technical assistance to eligible partners to conduct project development and outreach activities in a project area, including—
+    - **(A)** providing outreach and education to producers for potential participation in the project;
+    - **(B)** establishing baseline metrics to support the development of the assessment required under section 3871b(c)(1)(E) of this title ; or
+    - **(C)** providing technical assistance to producers.
+- **(e)**
+  - **(1)** At the time of project selection, the Secretary shall identify and make publicly available the amount that the Secretary shall use to provide technical assistance under the terms of the partnership agreement.
+  - **(2)** The Secretary shall limit costs of the Secretary for technical assistance to costs specific and necessary to carry out the objectives of the program.
+  - **(3)** The Secretary shall develop and implement strategies to encourage third-party technical service providers to provide technical assistance to eligible partners pursuant to a partnership agreement.

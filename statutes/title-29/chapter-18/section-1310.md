@@ -3,9 +3,9 @@ title: "Section 1310 - Authority to require certain information"
 usc_title: 29
 usc_section: "1310"
 chapter: 18
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 1310"
-generated_at: "2026-03-30T07:46:27.599Z"
+generated_at: "2026-03-30T07:49:22.804Z"
 status: "active"
 ---
 

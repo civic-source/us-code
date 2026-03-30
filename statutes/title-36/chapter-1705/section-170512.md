@@ -3,9 +3,9 @@ title: "Section 170512 - Annual report"
 usc_title: 36
 usc_section: "170512"
 chapter: 1705
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "36 U.S.C. § 170512"
-generated_at: "2026-03-30T07:46:40.145Z"
+generated_at: "2026-03-30T07:49:43.378Z"
 status: "active"
 ---
 

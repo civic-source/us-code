@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T07:46:59.854Z"
+generated_at: "2026-03-30T07:50:06.788Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)**
   - **(1)** Notwithstanding any other provision of this chapter (except for paragraph (2) of this subsection), the total amount certified by the Secretary of Health and Human Services under subchapters I, X, XIV, and XVI, under parts A and E of subchapter IV, and under subsection (b) of this section, for payment to any territory for a fiscal year shall not exceed the ceiling amount for the territory for the fiscal year.
-  - **(2)** Paragraph (1) of this subsection shall be applied without regard to any payment made under section 603(a)(2), 603(a)(4), 603(a)(5), 606, or 613(f) of this title.
+  - **(2)** Paragraph (1) of this subsection shall be applied without regard to any payment made under section 603(a)(2), 603(a)(4), 603(a)(5), 606, 613(f), or 674(a)(6) of this title.
 - **(b)**
   - **(1)** Each territory shall be entitled to receive from the Secretary for each fiscal year a grant in an amount equal to 75 percent of the amount (if any) by which—
     - **(A)** the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV, including any amount paid to the State under part A of subchapter IV that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds

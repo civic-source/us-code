@@ -3,9 +3,9 @@ title: "Section 985 - Persons convicted of capital crimes; certain other persons
 usc_title: 10
 usc_section: "985"
 chapter: 49
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 985"
-generated_at: "2026-03-30T07:45:51.270Z"
+generated_at: "2026-03-30T07:48:43.906Z"
 status: "active"
 ---
 
@@ -14,8 +14,9 @@ status: "active"
 - **(a)** The Secretary of a military department and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may not provide military honors (under section 1491 of this title or any other authority) at the funeral or burial of any of the following persons:
   - **(1)** A person described in section 2411(b) of title 38 .
   - **(2)** A person who is a veteran (as defined in section 1491(h) of this title ) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person’s death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person’s service (or former service).
-- **(b)** A person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
+- **(b)** Except as provided in subsection (c), a person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of section 2411(b) of title 38 is not entitled to or eligible for, and may not be provided, burial in—
   - **(1)** Arlington National Cemetery;
   - **(2)** the Soldiers’ and Airmen’s National Cemetery; or
   - **(3)** any other cemetery administered by the Secretary of a military department or the Secretary of Defense.
-- **(c)** In this section, the term “burial” includes inurnment.
+- **(c)** Subsection (b) shall not preclude the burial at the United States Disciplinary Barracks Cemetery at Fort Leavenworth, Kansas, of a military prisoner, including a military prisoner who is a person described in section 2411(b) of title 38 , who dies while in custody of a military department and whose remains are not claimed by the person authorized to direct disposition of the remains or by other persons legally authorized to dispose of the remains.
+- **(d)** In this section, the term “burial” includes inurnment.

@@ -3,9 +3,9 @@ title: "Section 10173 - Marine Forces Reserve"
 usc_title: 10
 usc_section: "10173"
 chapter: 1006
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 10173"
-generated_at: "2026-03-30T07:45:51.453Z"
+generated_at: "2026-03-30T07:48:44.006Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The Marine Forces Reserve is commanded by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, reports directly to the Commandant of the Marine Corps.
 - **(c)** The Commandant of the Marine Corps—
   - **(1)** shall assign to the Marine Forces Reserve the forces of the Marine Corps Reserve stationed in the continental United States other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title ; and
-  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 5013 of this title , shall assign to the combatant commands (through the Marine Corps component commander for each such command) all such forces assigned to the Marine Forces Reserve under paragraph (1) in the manner specified by the Secretary of Defense.
+  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 8013 of this title , shall assign to the combatant commands (through the Marine Corps component commander for each such command) all such forces assigned to the Marine Forces Reserve under paragraph (1) in the manner specified by the Secretary of Defense.

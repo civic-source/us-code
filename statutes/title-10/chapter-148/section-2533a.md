@@ -3,9 +3,9 @@ title: "Section 2533a - Requirement to buy certain articles from American source
 usc_title: 10
 usc_section: "2533a"
 chapter: 148
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2533a"
-generated_at: "2026-03-30T07:45:51.374Z"
+generated_at: "2026-03-30T07:48:43.966Z"
 status: "active"
 ---
 
@@ -36,6 +36,6 @@ status: "active"
   - **(2)** Waste and byproducts of cotton and wool fiber for use in the production of propellants and explosives.
 - **(g)** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
 - **(h)** Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title .
-- **(i)** This section is applicable to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41 .
+- **(i)** This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding section 1906 of title 41 .
 - **(j)** In this section, the term “United States” includes the possessions of the United States.
 - **(k)** In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).

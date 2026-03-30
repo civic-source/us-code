@@ -3,9 +3,9 @@ title: "Section 1395kkk - Repealed. Pub. L. 115–123, div. E, title XI , § 520
 usc_title: 42
 usc_section: "1395kkk"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395kkk"
-generated_at: "2026-03-30T07:46:59.957Z"
+generated_at: "2026-03-30T07:50:06.883Z"
 status: "repealed"
 ---
 

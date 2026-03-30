@@ -1,0 +1,15 @@
+---
+title: "Section 2148 - Separation for failure of selection for promotion or continuation; time of"
+usc_title: 14
+usc_section: "2148"
+chapter: 21
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 2148"
+generated_at: "2026-03-30T07:48:46.252Z"
+status: "active"
+---
+
+# § 2148. Separation for failure of selection for promotion or continuation; time of
+
+If, under section 2142, 2143, 2144, 2145, 2150, or 2151 of this title, the discharge or retirement of any officer would be required less than six months following approval of the report of the board which considered but did not select him for promotion or continuation, the discharge or retirement of such officer shall be deferred until the last day of the sixth calendar month after such approval.
+

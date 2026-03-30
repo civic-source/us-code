@@ -3,9 +3,9 @@ title: "Section 1397mm - Grants to improve outreach and enrollment"
 usc_title: 42
 usc_section: "1397mm"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1397mm"
-generated_at: "2026-03-30T07:46:59.996Z"
+generated_at: "2026-03-30T07:50:06.919Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
     - **(F)** A faith-based organization or consortia, to the extent that a grant awarded to such an entity is consistent with the requirements of section 300x–65 of this title relating to a grant award to nongovernmental entities.
     - **(G)** An elementary or secondary school.
   - **(2)** The term “Federal health safety net organization” means—
-    - **(A)** a Federally-qualified health center (as defined in section 3196d( l )(2)(B) of this title);
+    - **(A)** a Federally-qualified health center (as defined in section 1396d( l )(2)(B) of this title);
     - **(B)** a hospital defined as a disproportionate share hospital for purposes of section 1396r–4 of this title ;
     - **(C)** a covered entity described in section 256b(a)(4) of this title ; and
     - **(D)** any other entity or consortium that serves children under a federally funded program, including the special supplemental nutrition program for women, infants, and children (WIC) established under section 1786 of this title , the Head Start and Early Head Start programs under the Head Start Act ( 42 U.S.C. 9801 et seq.), 1 1 See References in Text note below. the school lunch program established under the Richard B. Russell National School Lunch Act [ 42 U.S.C. 1751 et seq.], and an elementary or secondary school.

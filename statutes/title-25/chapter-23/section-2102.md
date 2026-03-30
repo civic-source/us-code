@@ -3,9 +3,9 @@ title: "Section 2102 - Minerals Agreements"
 usc_title: 25
 usc_section: "2102"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 2102"
-generated_at: "2026-03-30T07:46:20.663Z"
+generated_at: "2026-03-30T07:49:10.562Z"
 status: "active"
 ---
 

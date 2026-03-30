@@ -3,9 +3,9 @@ title: "Section 5564 - Travel and transportation; dependents; household and pers
 usc_title: 5
 usc_section: "5564"
 chapter: 55
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 5564"
-generated_at: "2026-03-30T07:45:39.130Z"
+generated_at: "2026-03-30T07:48:04.591Z"
 status: "active"
 ---
 
@@ -26,5 +26,5 @@ status: "active"
 - **(h)** A claim for net proceeds covered into the Treasury under subsection (g) of this section may be filed with the Administrator of General Services by the owner, his heir or next of kin, or his legal representative at any time before the end of 5 years from the date the proceeds are covered into the Treasury. When a claim is filed, the Administrator of General Services shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of 5 years from the date the proceeds are covered into the Treasury, it is barred from being acted on by the Administrator of General Services or the courts.
 - **(i)** This section does not amend or repeal—
   - **(1)** section 2575, 2733, 4712, 6522, or 9712 of title 10;
-  - **(2)** section 507 of title 14 ; or
+  - **(2)** section 507 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14; or
   - **(3)** chapter 171 of title 28.

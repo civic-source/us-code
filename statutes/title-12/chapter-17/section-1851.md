@@ -3,9 +3,9 @@ title: "Section 1851 - Prohibitions on proprietary trading and certain relations
 usc_title: 12
 usc_section: "1851"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 1851"
-generated_at: "2026-03-30T07:46:02.784Z"
+generated_at: "2026-03-30T07:48:49.535Z"
 status: "active"
 ---
 

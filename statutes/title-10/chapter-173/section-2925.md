@@ -3,27 +3,29 @@ title: "Section 2925 - Annual Department of Defense energy management reports"
 usc_title: 10
 usc_section: "2925"
 chapter: 173
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2925"
-generated_at: "2026-03-30T07:45:51.402Z"
+generated_at: "2026-03-30T07:48:43.981Z"
 status: "active"
 ---
 
 # § 2925. Annual Department of Defense energy management reports
 
-- **(a)** Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title . Each report shall contain the following:
+- **(a)** Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title , including progress on energy resilience at military installations according to metrics developed by the Secretary. Each report shall contain the following:
   - **(1)** A description of the progress made to achieve the goals of the Energy Policy Act of 2005 ( Public Law 109–58 ), section 2911(g) of this title , section 553 of the National Energy Conservation Policy Act ( 42 U.S.C. 8259b ), the Energy Independence and Security Act of 2007 ( Public Law 110–140 ), and the energy performance goals for the Department of Defense during the preceding fiscal year, including progress on energy resilience at military installations according to metrics developed by the Secretary.
   - **(2)** A description of the energy savings, return on investment, and enhancements to installation mission assurance realized by the fulfillment of the goals described in paragraph (1).
-  - **(3)** Details of all utility outages impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the mission requirements associated with disruption tolerances based on risk to mission, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.
-  - **(4)** Details of a military installation’s total energy requirements and critical energy requirements, and the current energy resilience and emergency backup systems servicing critical energy requirements, including, at a minimum—
+  - **(3)** Details of all utility outages impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.
+  - **(4)** Details of a military installation’s total energy requirements and critical energy requirements (including critical energy loads in megawatts and the associated downtime tolerances for critical energy loads), and the current energy resilience and emergency backup systems servicing critical energy requirements, including, at a minimum—
     - **(A)** energy resilience and emergency backup system power requirements;
     - **(B)** the critical missions, facility, or facilities serviced;
     - **(C)** system service life;
     - **(D)** capital, operations, maintenance, and testing costs; and
     - **(E)** other information the Secretary determines necessary.
-  - **(5)** At the discretion of the Secretary of Defense, a classified annex, as appropriate.
+  - **(5)** A list of energy resilience projects awarded by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the reporting fiscal year, including project description, award date, the critical energy requirements serviced (including critical energy loads in megawatts), expected reliability of the project (as indicated in the awarded contract), life cycle costs, savings to investment, fuel type, and the type of appropriation or alternative financing used.
+  - **(6)** A list of energy resilience projects planned by the Department of Defense by military department and military installation, whether appropriated or alternative financed for the next two fiscal years, including project description, fuel type, expected award date, and the type of appropriation or alternative financing expected for use.
+  - **(7)** At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 - **(b)**
-  - **(1)** Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(b) of this title .
+  - **(1)** Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to section 2926(d) of this title .
   - **(2)** The annual report under this subsection shall address and include the following:
     - **(A)** Statistical information on operational energy demands, in terms of expenditures and consumption, for the preceding five fiscal years, including funding made available in regular defense appropriations Acts and any supplemental appropriation Acts.
     - **(B)** An estimate of operational energy demands for the current fiscal year and next fiscal year, including funding requested to meet operational energy demands in the budget submitted to Congress under section 1105 of title 31 and in any supplemental requests.

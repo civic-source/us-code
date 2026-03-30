@@ -3,9 +3,9 @@ title: "Section 2309a - Project modifications for improvement of environment"
 usc_title: 33
 usc_section: "2309a"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2309a"
-generated_at: "2026-03-30T07:46:37.821Z"
+generated_at: "2026-03-30T07:49:41.216Z"
 status: "active"
 ---
 
@@ -22,5 +22,5 @@ status: "active"
 - **(e)** The Secretary shall coordinate any actions taken pursuant to this section with appropriate Federal, State, and local agencies.
 - **(f)**
 - **(g)** Notwithstanding section 1962d–5b of title 42 , a non-Federal sponsor for any project carried out under this section may include a nonprofit entity, with the consent of the affected local government.
-- **(h)** There is authorized to be appropriated not to exceed $40,000,000 annually to carry out this section.
+- **(h)** There is authorized to be appropriated not to exceed $50,000,000 annually to carry out this section.
 - **(i)** In this section, the term “water resources project constructed by the Secretary” includes a water resources project constructed or funded jointly by the Secretary and the head of any other Federal agency (including the Natural Resources Conservation Service).

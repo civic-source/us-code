@@ -1,0 +1,27 @@
+---
+title: "Section 5105 - Inventory of real property"
+usc_title: 14
+usc_section: "5105"
+chapter: 51
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 5105"
+generated_at: "2026-03-30T07:48:46.257Z"
+status: "active"
+---
+
+# § 5105. Inventory of real property
+
+- **(a)** The Commandant shall maintain an inventory of all real property, including submerged lands, under the control of the Coast Guard, which shall include—
+  - **(1)** the size, the location, and any other appropriate description of each unit of such property;
+  - **(2)** an assessment of the physical condition of each unit of such property, excluding lands;
+  - **(3)** a determination of whether each unit of such property should be—
+    - **(A)** retained to fulfill a current or projected Coast Guard mission requirement; or
+    - **(B)** subject to divestiture; and
+  - **(4)** other information the Commandant considers appropriate.
+- **(b)** The Commandant shall update information on each unit of real property included in the inventory required under subsection (a) not later than 30 days after any change relating to the control of such property.
+- **(c)** Not later than March 30, 2016 , and every 5 years thereafter, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+  - **(1)** a list of all real property under the control of the Coast Guard and the location of such property by property type;
+  - **(2)** recommendations for divestiture with respect to any units of such property; and
+  - **(3)** recommendations for consolidating any units of such property, including—
+    - **(A)** an estimate of the costs or savings associated with each recommended consolidation; and
+    - **(B)** a discussion of the impact that such consolidation would have on Coast Guard mission effectiveness.

@@ -1,0 +1,24 @@
+---
+title: "Section 18644 - Biological and environmental research"
+usc_title: 42
+usc_section: "18644"
+chapter: 161
+current_through: "PL 116-10"
+classification: "42 U.S.C. § 18644"
+generated_at: "2026-03-30T07:50:07.308Z"
+status: "active"
+---
+
+# § 18644. Biological and environmental research
+
+- **(a)** The Director shall carry out research and development activities in fundamental, structural, computational, and systems biology to increase systems-level understanding of the complex biological systems, which may include activities—
+  - **(1)** to accelerate breakthroughs and new knowledge that would enable the cost-effective, sustainable production of—
+    - **(A)** biomass-based liquid transportation fuels;
+    - **(B)** bioenergy; and
+    - **(C)** biobased materials;
+  - **(2)** to improve understanding of the global carbon cycle, including processes for removing carbon dioxide from the atmosphere, through photosynthesis and other biological processes, for sequestration and storage; and
+  - **(3)** to understand the biological mechanisms used to transform, immobilize, or remove contaminants from subsurface environments.
+- **(b)** The Director shall not approve new climate science-related initiatives without making a determination that such work is well-coordinated with any relevant work carried out by other Federal agencies.
+- **(c)**
+  - **(1)** The Director shall carry out a research program on low-dose radiation.
+  - **(2)** The purpose of the program is to enhance the scientific understanding of, and reduce uncertainties associated with, the effects of exposure to low-dose radiation to inform improved risk-management methods.

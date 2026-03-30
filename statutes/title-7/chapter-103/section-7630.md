@@ -3,9 +3,9 @@ title: "Section 7630 - Grants for youth organizations"
 usc_title: 7
 usc_section: "7630"
 chapter: 103
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 7630"
-generated_at: "2026-03-30T07:45:46.611Z"
+generated_at: "2026-03-30T07:48:18.794Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
 - **(c)** Recipients of funds under this section may redistribute all or part of the funds received to individual councils or local chapters within the councils without further need of approval from the Secretary.
 - **(d)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013; and
-  - **(2)** $3,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $3,000,000 for each of fiscal years 2014 through 2023.

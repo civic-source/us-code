@@ -3,9 +3,9 @@ title: "Section 4305 - Property of foreign missions"
 usc_title: 22
 usc_section: "4305"
 chapter: 53
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 4305"
-generated_at: "2026-03-30T07:46:23.166Z"
+generated_at: "2026-03-30T07:49:19.072Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(3)** The Secretary of State shall inform the Secretary of Defense and the Director of the Federal Bureau of Investigation immediately upon notice being given pursuant to subsection (a) of this section of a proposed acquisition of real property by or on behalf of the foreign mission of a foreign country described in paragraph (4).
   - **(4)** For the purposes of this subsection, the term “foreign country” means—
     - **(A)** any country listed as a Communist country in section 2370(f) of this title ;
-    - **(B)** any country determined by the Secretary of State, for purposes of section 4605(j) of title 50 , to be a country which has repeatedly provided support for acts of international terrorism; and
+    - **(B)** any country determined by the Secretary of State, for purposes of section 4605(j) 1 1 See References in Text note below. of title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
     - **(C)** any other country which engages in intelligence activities in the United States which are adverse to the national security interests of the United States.
   - **(5)** As used in this section, the term “substantially improve” shall not be construed to prevent the establishment of a foreign mission by a country which, on December 22, 1987 —
     - **(A)** does not have a mission in the United States, or

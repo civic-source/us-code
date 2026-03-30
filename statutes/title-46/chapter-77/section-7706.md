@@ -3,14 +3,14 @@ title: "Section 7706 - Drug testing reporting"
 usc_title: 46
 usc_section: "7706"
 chapter: 77
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 7706"
-generated_at: "2026-03-30T07:47:17.796Z"
+generated_at: "2026-03-30T07:50:11.274Z"
 status: "active"
 ---
 
 # § 7706. Drug testing reporting
 
-- **(a)** Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant of the Coast Guard the report.
+- **(a)** Not later than 2 weeks after receiving from a Medical Review Officer a report of a verified positive drug test or verified test violation by a civilian employee of a Federal agency, an applicant for employment by a Federal agency, an officer in the Public Health Services, or an officer in the National Oceanic and Atmospheric Administration Commissioned Officer Corps, who is employed in any capacity on board a vessel operated by the agency, the head of the agency shall release to the Commandant the report.
 - **(b)** The head of a Federal agency shall carry out a release under subsection (a) in accordance with the standards, procedures, and regulations applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 - **(c)** Notwithstanding section 503(e) of the Supplemental Appropriations Act, 1987 ( 5 U.S.C. 7301 note), the report of a drug test of an employee or an applicant for employment by a Federal agency may be released under this section without the prior written consent of the employee or the applicant.

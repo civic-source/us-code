@@ -3,9 +3,9 @@ title: "Section 3113 - Combined State plan"
 usc_title: 29
 usc_section: "3113"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 3113"
-generated_at: "2026-03-30T07:46:27.618Z"
+generated_at: "2026-03-30T07:49:22.819Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(H)** Programs authorized under title V of the Older Americans Act of 1965 ( 42 U.S.C. 3056 et seq.).
     - **(I)** Employment and training activities carried out by the Department of Housing and Urban Development.
     - **(J)** Employment and training activities carried out under the Community Services Block Grant Act ( 42 U.S.C. 9901 et seq.).
-    - **(K)** Programs authorized under section 60532 of title 34 .
+    - **(K)** Programs authorized under section 60532 1 1 See References in Text note below. of title 34.
 - **(b)**
   - **(1)** The portion of a combined plan covering the core programs shall be subject to the requirements of section 3112 of this title (including section 3112(c)(3) of this title ). The portion of such plan covering a program or activity described in subsection (a)(2) shall be subject to the requirements, if any, applicable to a plan or application for assistance for that program or activity, under the Federal law authorizing the program or activity. At the election of the State, section 3112(c)(3) of this title may apply to that portion.
   - **(2)** A State that submits a combined plan that is approved under subsection (c) shall not be required to submit any other plan or application in order to receive Federal funds to carry out the core programs or the program or activities described in subsection (a)(2) that are covered by the combined plan.

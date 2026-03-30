@@ -1,0 +1,15 @@
+---
+title: "Section 2506 - Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution"
+usc_title: 14
+usc_section: "2506"
+chapter: 25
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 2506"
+generated_at: "2026-03-30T07:48:46.253Z"
+status: "active"
+---
+
+# § 2506. Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution
+
+Under procedures prescribed by the Secretary, the Secretary may suspend the payment of the retired pay of a member or former member during periods in which the member willfully remains outside the United States to avoid criminal prosecution or civil liability. The procedures shall address the types of criminal offenses and civil proceedings for which the procedures may be used, including the offenses specified in section 8312 of title 5 , and the manner by which a member, upon the return of the member to the United States, may obtain retired pay withheld during the member’s absence.
+

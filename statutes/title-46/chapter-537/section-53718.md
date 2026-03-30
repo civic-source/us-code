@@ -3,9 +3,9 @@ title: "Section 53718 - Annual report to Congress"
 usc_title: 46
 usc_section: "53718"
 chapter: 537
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 53718"
-generated_at: "2026-03-30T07:47:17.812Z"
+generated_at: "2026-03-30T07:50:11.294Z"
 status: "active"
 ---
 

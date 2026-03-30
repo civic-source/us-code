@@ -3,9 +3,9 @@ title: "Section 1396a - State plans for medical assistance"
 usc_title: 42
 usc_section: "1396a"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1396a"
-generated_at: "2026-03-30T07:46:59.959Z"
+generated_at: "2026-03-30T07:50:06.884Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
     - **(C)** that any laboratory services paid for under such plan must be provided by a laboratory which meets the applicable requirements of section 1395x(e)(9) of this title or paragraphs (16) and (17) of section 1395x(s) of this title , or, in the case of a laboratory which is in a rural health clinic, of section 1395x(aa)(2)(G) of this title , and
     - **(D)** that the State maintain a consumer-oriented website providing useful information to consumers regarding all skilled nursing facilities and all nursing facilities in the State, including for each facility, Form 2567 State inspection reports (or a successor form), complaint investigation reports, the facility’s plan of correction, and such other information that the State or the Secretary considers useful in assisting the public to assess the quality of long term care options and the quality of care provided by individual facilities;
   - **(10)** provide—
-    - **(A)** for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (17), (21), and (28) of section 1396d(a) of this title , to—
+    - **(A)** for making medical assistance available, including at least the care and services listed in paragraphs (1) through (5), (17), (21), (28), and (29) of section 1396d(a) of this title , to—
       - **(i)** all individuals—
         - **(I)** who are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A or part E of subchapter IV (including individuals eligible under this subchapter by reason of section 602(a)(37), 1 1 See References in Text note below. 606(h), 1 or 673(b) of this title, or considered by the State to be receiving such aid as authorized under section 682(e)(6) 1 of this title),
         - **(II)**
@@ -250,7 +250,7 @@ status: "active"
   - **(79)** provide that any agent, clearinghouse, or other alternate payee (as defined by the Secretary) that submits claims on behalf of a health care provider must register with the State and the Secretary in a form and manner specified by the Secretary;
   - **(80)** provide that the State shall not provide any payments for items or services provided under the State plan or under a waiver to any financial institution or entity located outside of the United States;
   - **(81)** provide for implementation of the payment models specified by the Secretary under section 1315a(c) of this title for implementation on a nationwide basis unless the State demonstrates to the satisfaction of the Secretary that implementation would not be administratively feasible or appropriate to the health care delivery system of the State;
-  - **(82)** provide that the State agency responsible for administering the State plan under this subchapter provides assurances to the Secretary that the State agency is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title ; and
+  - **(82)** provide that the State agency responsible for administering the State plan under this subchapter provides assurances to the Secretary that the State agency is in compliance with subparagraphs (A), (B), and (C) of section 1320a–7n(b)(2) of this title ;
   - **(83)** provide that, not later than January 1, 2017 , in the case of a State plan (or waiver of the plan) that provides medical assistance on a fee-for-service basis or through a primary care case-management system described in section 1396n(b)(1) of this title (other than a primary care case management entity (as defined by the Secretary)), the State shall publish (and update on at least an annual basis) on the public website of the State agency administering the State plan, a directory of the physicians described in subsection (mm) and, at State option, other providers described in such subsection that—
     - **(A)** includes—
       - **(i)** with respect to each such physician or provider—
@@ -263,7 +263,13 @@ status: "active"
         - **(II)** the physician’s or provider’s cultural and linguistic capabilities, including the languages spoken by the physician or provider or by the skilled medical interpreter providing interpretation services at the physician’s or provider’s office; and
     - **(B)** may include, at State option, with respect to each such physician or provider—
       - **(i)** the Internet website of such physician or provider; or
-      - **(ii)** whether the physician or provider is accepting as new patients individuals who receive medical assistance under this subchapter.
+      - **(ii)** whether the physician or provider is accepting as new patients individuals who receive medical assistance under this subchapter;
+  - **(84)** provide that—
+    - **(A)** the State shall not terminate eligibility for medical assistance under the State plan for an individual who is an eligible juvenile (as defined in subsection (nn)(2)) because the juvenile is an inmate of a public institution (as defined in subsection (nn)(3)), but may suspend coverage during the period the juvenile is such an inmate;
+    - **(B)** in the case of an individual who is an eligible juvenile described in paragraph (2)(A) of subsection (nn), the State shall, prior to the individual’s release from such a public institution, conduct a redetermination of eligibility for such individual with respect to such medical assistance (without requiring a new application from the individual) and, if the State determines pursuant to such redetermination that the individual continues to meet the eligibility requirements for such medical assistance, the State shall restore coverage for such medical assistance to such an individual upon the individual’s release from such public institution; and
+    - **(C)** in the case of an individual who is an eligible juvenile described in paragraph (2)(B) of subsection (nn), the State shall process any application for medical assistance submitted by, or on behalf of, such individual such that the State makes a determination of eligibility for such individual with respect to such medical assistance upon release of such individual from such public institution;
+  - **(85)** provide that the State is in compliance with the drug review and utilization requirements under subsection ( oo )(1); and
+  - **(86)** provide, at the option of the State, for making medical assistance available on an inpatient or outpatient basis at a residential pediatric recovery center (as defined in subsection (pp)) to infants with neonatal abstinence syndrome.
 - **(b)** The Secretary shall approve any plan which fulfills the conditions specified in subsection (a), except that he shall not approve any plan which imposes, as a condition of eligibility for medical assistance under the plan—
   - **(1)** an age requirement of more than 65 years; or
   - **(2)** any residence requirement which excludes any individual who resides in the State, regardless of whether or not the residence is maintained permanently or at a fixed address; or
@@ -691,3 +697,42 @@ status: "active"
     - **(A)** is enrolled with the agency as of the date on which the directory is published or updated (as applicable) under subsection (a)(83); and
     - **(B)** received payment under the State plan in the 12-month period preceding such date; and
   - **(2)** in the case of a physician or provider of a provider type for which the State agency does not require such enrollment, a physician or provider that received payment under the State plan (or a waiver of the plan) in the 12-month period preceding the date on which the directory is published or updated (as applicable) under subsection (a)(83).
+- **(nn)** For purposes of subsection (a)(84) and this subsection:
+  - **(1)** The term “juvenile” means an individual who is—
+    - **(A)** under 21 years of age; or
+    - **(B)** described in subsection (a)(10)(A)(i)(IX).
+  - **(2)** The term “eligible juvenile” means a juvenile who is an inmate of a public institution and who—
+    - **(A)** was determined eligible for medical assistance under the State plan immediately before becoming an inmate of such a public institution; or
+    - **(B)** is determined eligible for such medical assistance while an inmate of a public institution.
+  - **(3)** The term “inmate of a public institution” has the meaning given such term for purposes of applying the subdivision (A) following paragraph (30) of section 1396d(a) of this title , taking into account the exception in such subdivision for a patient of a medical institution.
+- **(oo)**
+  - **(1)** For purposes of subsection (a)(85), the drug review and utilization requirements under this subsection are, subject to paragraph (3) and beginning October 1, 2019 , the following:
+    - **(A)**
+      - **(i)** The State has in place—
+        - **(I)** safety edits (as specified by the State) for subsequent fills for opioids and a claims review automated process (as designed and implemented by the State) that indicates when an individual enrolled under the State plan (or under a waiver of the State plan) is prescribed a subsequent fill of opioids in excess of any limitation that may be identified by the State;
+        - **(II)** safety edits (as specified by the State) on the maximum daily morphine equivalent that can be prescribed to an individual enrolled under the State plan (or under a waiver of the State plan) for treatment of chronic pain and a claims review automated process (as designed and implemented by the State) that indicates when an individual enrolled under the plan (or waiver) is prescribed the morphine equivalent for such treatment in excess of any limitation that may be identified by the State; and
+        - **(III)** a claims review automated process (as designed and implemented by the State) that monitors when an individual enrolled under the State plan (or under a waiver of the State plan) is concurrently prescribed opioids and—
+      - **(ii)** The State requires each managed care entity (as defined in section 1396u–2(a)(1)(B) of this title ) with respect to which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title to have in place, subject to paragraph (3), with respect to individuals who are eligible for medical assistance under the State plan (or under a waiver of the State plan) and who are enrolled with the entity, the limitations described in subclauses (I) and (II) of clause (i) and a claims review automated process described in subclause (III) of such clause.
+      - **(iii)** Nothing in this subparagraph may be construed as prohibiting a State or managed care entity from designing and implementing a claims review automated process under this subparagraph that provides for prospective or retrospective reviews of claims. Nothing in this subparagraph shall be understood as prohibiting the exercise of clinical judgment from a provider enrolled as a participating provider in a State plan (or waiver of the State plan) or contracting with a managed care entity regarding the best items and services for an individual enrolled under such State plan (or waiver).
+    - **(B)** The State has in place a program (as designed and implemented by the State) to monitor and manage the appropriate use of antipsychotic medications by children enrolled under the State plan (or under a waiver of the State plan) and submits annually to the Secretary such information as the Secretary may require on activities carried out under such program for individuals not more than the age of 18 years generally and children in foster care specifically.
+    - **(C)** The State has in place a process (as designed and implemented by the State) that identifies potential fraud or abuse of controlled substances by individuals enrolled under the State plan (or under a waiver of the State plan), health care providers prescribing drugs to individuals so enrolled, and pharmacies dispensing drugs to individuals so enrolled.
+    - **(D)** The State shall include in the annual report submitted to the Secretary under section 1396r–8(g)(3)(D) of this title information on the limitations, requirement, program, and processes applied by the State under subparagraphs (A) through (C) in accordance with such manner and time as specified by the Secretary.
+    - **(E)** Nothing shall prevent a State from satisfying the requirement—
+      - **(i)** described in subparagraph (A) by having safety edits or a claims review automated process described in such subparagraph that was in place before October 1, 2019 ;
+      - **(ii)** described in subparagraph (B) by having a program described in such subparagraph that was in place before such date; or
+      - **(iii)** described in subparagraph (C) by having a process described in such subparagraph that was in place before such date.
+  - **(2)** For each fiscal year beginning with fiscal year 2020, the Secretary shall submit to Congress a report on the most recent information submitted by States under paragraph (1)(D).
+  - **(3)**
+    - **(A)** The drug review and utilization requirements under this subsection shall not apply with respect to an individual who—
+      - **(i)** is receiving—
+        - **(I)** hospice or palliative care; or
+        - **(II)** treatment for cancer;
+      - **(ii)** is a resident of a long-term care facility, of a facility described in section 1396d(d) of this title , or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or
+      - **(iii)** the State elects to treat as exempted from such requirements.
+    - **(B)** In order to ensure reasonable access to health care, the Secretary shall waive the drug review and utilization requirements under this subsection, with respect to a State, in the case of natural disasters and similar situations, and in the case of the provision of emergency services (as defined for purposes of section 1395w–104(c)(5)(D)(ii)(II) of this title ).
+- **(pp)**
+  - **(1)** For purposes of section 1396a(a)(86) of this title , the term “residential pediatric recovery center” means a center or facility that furnishes items and services for which medical assistance is available under the State plan to infants with the diagnosis of neonatal abstinence syndrome without any other significant medical risk factors.
+  - **(2)** A residential pediatric recovery center may offer counseling and other services to mothers (and other appropriate family members and caretakers) of infants receiving treatment at such centers if such services are otherwise covered under the State plan under this subchapter or under a waiver of such plan. Such other services may include the following:
+    - **(A)** Counseling or referrals for services.
+    - **(B)** Activities to encourage caregiver-infant bonding.
+    - **(C)** Training on caring for such infants.

@@ -3,9 +3,9 @@ title: "Section 2007 - Imprisonment for debt"
 usc_title: 28
 usc_section: "2007"
 chapter: 127
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "28 U.S.C. § 2007"
-generated_at: "2026-03-30T07:46:26.412Z"
+generated_at: "2026-03-30T07:49:24.240Z"
 status: "active"
 ---
 

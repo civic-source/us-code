@@ -3,9 +3,9 @@ title: "Section 2313a - Defense Contract Audit Agency: annual report"
 usc_title: 10
 usc_section: "2313a"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2313a"
-generated_at: "2026-03-30T07:45:51.346Z"
+generated_at: "2026-03-30T07:48:43.950Z"
 status: "active"
 ---
 
@@ -23,8 +23,10 @@ status: "active"
     - **(G)** the ratio of sustained questioned costs to the aggregate costs of performing audits, set forth separately by type of audit; and
     - **(H)** the total number and dollar value of audits that are pending for a period longer than one year as of the end of the fiscal year covered by the report, and the fiscal year in which the qualified submission was received, set forth separately by type of audit;
   - **(3)** a summary of any recommendations of actions or resources needed to improve the audit process;
-  - **(4)** a description of outreach actions toward industry to promote more effective use of audit resources; and
-  - **(5)** any other matters the Director considers appropriate.
+  - **(4)** a summary, set forth separately by dollar amount and percentage, of indirect costs for independent research and development incurred by contractors in the previous fiscal year;
+  - **(5)** a summary, set forth separately by dollar amount and percentage, of indirect costs for bid and proposal costs incurred by contractors in the previous fiscal year;
+  - **(6)** a description of outreach actions toward industry to promote more effective use of audit resources; and
+  - **(7)** any other matters the Director considers appropriate.
 - **(b)** Not later than March 30 of each year, the Director shall submit to the congressional defense committees the report required by subsection (a).
 - **(c)** Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.
 - **(d)**

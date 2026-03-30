@@ -3,15 +3,15 @@ title: "Section 4016 - Financing"
 usc_title: 42
 usc_section: "4016"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 4016"
-generated_at: "2026-03-30T07:47:00.105Z"
+generated_at: "2026-03-30T07:50:07.019Z"
 status: "active"
 ---
 
 # § 4016. Financing
 
-- **(a)** All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title , and $1,000,000,000 thereafter; except that, through November 30, 2018 , clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+- **(a)** All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title , and $1,000,000,000 thereafter; except that, through May 31, 2019 , clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 - **(b)** Any funds borrowed by the Administrator under this authority shall, from time to time, be deposited in the National Flood Insurance Fund established under section 4017 of this title .
 - **(c)** Upon the exercise of the authority established under subsection (a), the Administrator shall transmit a schedule for repayment of such amounts to—
   - **(1)** the Secretary of the Treasury;

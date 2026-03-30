@@ -3,9 +3,9 @@ title: "Section 2218 - National Defense Sealift Fund"
 usc_title: 10
 usc_section: "2218"
 chapter: 131
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2218"
-generated_at: "2026-03-30T07:45:51.334Z"
+generated_at: "2026-03-30T07:48:43.944Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** operations, maintenance, and lease or charter of national defense sealift vessels; and
     - **(C)** installation and maintenance of defense features for national defense purposes on privately owned and operated vessels.
   - **(2)** All receipts from the disposition of national defense sealift vessels, excluding receipts from the sale, exchange, or scrapping of National Defense Reserve Fleet vessels under sections 57101–57104 and chapter 573 of title 46.
-  - **(3)** All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 ( 10 U.S.C. 7291 note).
+  - **(3)** All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 ( 10 U.S.C. 8661 note).
   - **(4)** Any other funds made available to the Department of Defense to carry out any of the purposes described in subsection (c).
 - **(e)**
   - **(1)** The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money, personal property (excluding vessels), or assistance in kind for support of the sealift functions of the Department of Defense.
@@ -41,11 +41,14 @@ status: "active"
       - **(i)** participated in the Maritime Security Fleet; and
       - **(ii)** is available for purchase at a reasonable cost, as determined by the Secretary.
     - **(B)** If the Secretary determines that no used vessel meeting the requirements under clauses (i) and (ii) of subparagraph (A) is available, the Secretary may purchase a used vessel comparable to a vessel described in clause (i) of subparagraph (A), regardless of the source of the vessel or where the vessel was constructed, if such vessel is available for purchase at a reasonable cost, as determined by the Secretary.
-    - **(C)** The Secretary may not use the authority under this paragraph to purchase more than two foreign constructed ships.
+    - **(C)** The Secretary may not use the authority under this paragraph to purchase more than seven foreign constructed vessels.
     - **(D)** The Secretary shall ensure that the initial conversion, or modernization of any vessel purchased under the authority of subparagraph (A) occurs in a shipyard located in the United States.
-    - **(E)** Not later than 30 days after the purchase of any vessel using the authority under this paragraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
-      - **(i)** The date of the purchase.
-      - **(ii)** The price at which the vessel was purchased.
+    - **(E)** The Secretary may not use the authority under this paragraph to procure more than two foreign constructed vessels unless the Secretary submits to Congress, by not later than the second week of February of the fiscal year during which the Secretary plans to use such authority, a certification that—
+      - **(i)** the Secretary has initiated an acquisition strategy for the construction in United States shipyards of not less than ten new sealift vessels; and
+      - **(ii)** of such new sealift vessels, the lead ship is anticipated to be delivered by not later than 2026.
+    - **(F)** Not later than 30 days before the purchase of any vessel using the authority under this paragraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
+      - **(i)** The proposed date of the purchase.
+      - **(ii)** The price at which the vessel would be purchased.
       - **(iii)** The anticipated cost of modernization of the vessel.
       - **(iv)** The proposed military utility of the vessel.
       - **(v)** The proposed date on which the vessel will be available for use by the Ready Reserve.
@@ -53,6 +56,8 @@ status: "active"
       - **(vii)** Certification that—
         - **(I)** there was no vessel available for purchase at a reasonable price that was constructed in the United States; and
         - **(II)** the used vessel purchased supports the recapitalization of the Ready Reserve Force component of the National Defense Reserve Fleet or the Military Sealift Command surge fleet.
+      - **(viii)** A detailed account of the criteria used to make the determination under subparagraph (B).
+    - **(G)** The Secretary may not finalize or execute the final purchase of any vessel using the authority under this paragraph until 30 days after the date on which a report under subparagraph (E) is submitted with respect to such purchase.
 - **(g)** No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
 - **(h)** Budget requests submitted to Congress for the National Defense Sealift Fund shall separately identify—
   - **(1)** the amount requested for programs, projects, and activities for construction (including design of vessels), purchase, alteration, and conversion of national defense sealift vessels;

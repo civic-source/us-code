@@ -3,9 +3,9 @@ title: "Section 1204 - Motor carrier security-sensitive material tracking"
 usc_title: 6
 usc_section: "1204"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 1204"
-generated_at: "2026-03-30T07:45:41.929Z"
+generated_at: "2026-03-30T07:48:14.915Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
       - **(vi)** whether installation of the technology described in clause (v) should be incorporated into the program under paragraph (1);
       - **(vii)** the costs, benefits, and practicality of such technology described in clause (v) in the context of the overall benefit to national security, including commerce in transportation; and
       - **(viii)** other systems and information the Secretary determines appropriate.
-- **(b)** From the amounts appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary to carry out this section—
+- **(b)** From the amounts appropriated pursuant to section 114(w) 1 1 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
   - **(1)** $7,000,000 for fiscal year 2008 of which $3,000,000 may be used for equipment;
   - **(2)** $7,000,000 for fiscal year 2009 of which $3,000,000 may be used for equipment; and
   - **(3)** $7,000,000 for fiscal year 2010 of which $3,000,000 may be used for equipment.

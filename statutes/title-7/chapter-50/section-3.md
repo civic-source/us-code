@@ -3,9 +3,9 @@ title: "Section 3 - Repealed. Pub. L. 110–234, title VI , § 6002(b), May 22, 
 usc_title: 7
 usc_section: "3"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T07:45:46.514Z"
+generated_at: "2026-03-30T07:48:18.723Z"
 status: "repealed"
 ---
 

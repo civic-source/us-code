@@ -3,9 +3,9 @@ title: "Section 2810 - Disclosure by Secretary; commencement, scope, etc."
 usc_title: 12
 usc_section: "2810"
 chapter: 29
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 2810"
-generated_at: "2026-03-30T07:46:02.814Z"
+generated_at: "2026-03-30T07:48:49.553Z"
 status: "active"
 ---
 

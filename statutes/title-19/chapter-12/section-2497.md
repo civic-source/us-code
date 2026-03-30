@@ -3,9 +3,9 @@ title: "Section 2497 - Supplemental agricultural disaster assistance"
 usc_title: 19
 usc_section: "2497"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "19 U.S.C. § 2497"
-generated_at: "2026-03-30T07:46:09.219Z"
+generated_at: "2026-03-30T07:48:58.496Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
   - **(15)** The term “normal production on the farm” means the sum of the expected revenue for all crops on the farm, as determined under subsection (b)(6)(A).
   - **(16)** The term “qualifying natural disaster declaration” means a natural disaster declared by the Secretary for production losses under section 1961(a) of title 7 .
   - **(17)** The term “Secretary” means the Secretary of Agriculture.
-  - **(18)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) of title 7 .
+  - **(18)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 3 3 See References in Text note below. of title 7.
   - **(19)** The term “State” means—
     - **(A)** a State;
     - **(B)** the District of Columbia;
@@ -92,13 +92,13 @@ status: "active"
     - **(C)** Notwithstanding subparagraph (A), in the case of a noninsurable commodity for which the noninsured crop assistance program provides for an adjustment in the level of assistance, such as in the case of unharvested crops, the adjusted assistance level shall be the basis for determining the disaster assistance program guarantee for the noninsurable commodity.
     - **(D)** The Secretary shall establish equitable treatment for non-yield based policies and plans of insurance, such as the Adjusted Gross Revenue Lite insurance program.
   - **(4)**
-    - **(A)** For purposes of this subsection, the total farm revenue for a farm, 3 3 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
+    - **(A)** For purposes of this subsection, the total farm revenue for a farm, 4 4 So in original. The comma probably should not appear. shall equal the sum obtained by adding—
       - **(i)** the estimated actual value for each crop produced on a farm by using the product obtained by multiplying—
         - **(I)** the actual production by crop on a farm for purposes of determining losses under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) or the noninsured crop assistance program; and
         - **(II)** subject to subparagraphs (B) and (C), to the extent practicable, the national average market price received for the marketing year, as determined by the Secretary;
-      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 4 4 See References in Text note below. of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
-      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 4 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 4 of that Act [ 7 U.S.C. 8715 ];
-      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 4 or successor subtitles;
+      - **(ii)** 15 percent of amount of any direct payments made to the producer under sections 1103 and 1303 3 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8713 , 8753] or successor sections;
+      - **(iii)** the total amount of any counter-cyclical payments made to the producer under sections 1104 and 1304 3 of the Food, Conservation, and Energy Act of 2008 [ 7 U.S.C. 8714 , 8754] or successor sections or of any average crop revenue election payments made to the producer under section 1105 3 of that Act [ 7 U.S.C. 8715 ];
+      - **(iv)** the total amount of any loan deficiency payments, marketing loan gains, and marketing certificate gains made to the producer under subtitles B and C of the Food, Conservation, and Energy Act of 2008 3 or successor subtitles;
       - **(v)** the amount of payments for prevented planting on a farm;
       - **(vi)** the amount of crop insurance indemnities received by an eligible producer on a farm for each crop on a farm;
       - **(vii)** the amount of payments an eligible producer on a farm received under the noninsured crop assistance program for each crop on a farm; and
@@ -199,7 +199,7 @@ status: "active"
     - **(B)** In the case of an eligible livestock producer that is a socially disadvantaged farmer or rancher or limited resource or beginning farmer or rancher, as determined by the Secretary, the Secretary may—
       - **(i)** waive subparagraph (A); and
       - **(ii)** provide disaster assistance under this subsection at a level that the Secretary determines to be equitable and appropriate.
-    - **(C)** In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter. 4
+    - **(C)** In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year but does not meet the requirements of subparagraph (A), the Secretary shall waive subparagraph (A) if the eligible livestock producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under subparagraph (A) to the Secretary not later than 90 days after the date of enactment of this subchapter. 3
     - **(D)**
       - **(i)** The Secretary may provide equitable relief to an eligible livestock producer that is otherwise ineligible or unintentionally fails to meet the requirements of subparagraph (A) for the grazing land incurring the loss on a case-by-case basis, as determined by the Secretary.
       - **(ii)** In the case of an eligible livestock producer that suffered losses on grazing land during the 2008 calendar year, the Secretary shall take special consideration to provide equitable relief in cases in which the eligible livestock producer failed to meet the requirements of subparagraph (A) due to the enactment of this subchapter after the closing date of sales periods for crop insurance under the Federal Crop Insurance Act ( 7 U.S.C. 1501 et seq.) and the noninsured crop assistance program.
@@ -239,7 +239,7 @@ status: "active"
     - **(A)** waive paragraph (1); and
     - **(B)** provide disaster assistance under this section at a level that the Secretary determines to be equitable and appropriate.
   - **(4)**
-    - **(A)** In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter. 4
+    - **(A)** In the case of an eligible producer that suffered losses in an insurable commodity or noninsurable commodity during the 2008 crop year but does not meet the requirements of paragraph (1), the Secretary shall waive paragraph (1) if the eligible producer pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after the date of enactment of this subchapter. 3
     - **(B)** In the case of an insurable commodity or noninsurable commodity for the 2009 crop year that does not meet the requirements of paragraph (1) and the relevant crop insurance program sales closing date or noninsured crop assistance program fee payment date was prior to August 14, 2008 , the Secretary shall waive paragraph (1) if the eligible producer of the insurable commodity or noninsurable commodity pays a fee in an amount equal to the applicable noninsured crop assistance program fee or catastrophic risk protection plan fee required under paragraph (1) to the Secretary not later than 90 days after October 13, 2008 .
   - **(5)**
     - **(A)** The Secretary may provide equitable relief to eligible producers on a farm that are otherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.

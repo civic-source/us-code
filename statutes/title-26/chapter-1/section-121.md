@@ -3,9 +3,9 @@ title: "Section 121 - Exclusion of gain from sale of principal residence"
 usc_title: 26
 usc_section: "121"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 121"
-generated_at: "2026-03-30T07:46:33.192Z"
+generated_at: "2026-03-30T07:49:37.024Z"
 status: "active"
 ---
 
@@ -54,7 +54,11 @@ status: "active"
   - **(2)** For purposes of this section, in the case of an unmarried individual whose spouse is deceased on the date of the sale or exchange of property, the period such unmarried individual owned and used such property shall include the period such deceased spouse owned and used such property before death.
   - **(3)** For purposes of this section—
     - **(A)** In the case of an individual holding property transferred to such individual in a transaction described in section 1041(a), the period such individual owns such property shall include the period the transferor owned the property.
-    - **(B)** Solely for purposes of this section, an individual shall be treated as using property as such individual’s principal residence during any period of ownership while such individual’s spouse or former spouse is granted use of the property under a divorce or separation instrument (as defined in section 71(b)(2)).
+    - **(B)** Solely for purposes of this section, an individual shall be treated as using property as such individual’s principal residence during any period of ownership while such individual’s spouse or former spouse is granted use of the property under a divorce or separation instrument.
+    - **(C)** For purposes of this paragraph, the term “divorce or separation instrument” means—
+      - **(i)** a decree of divorce or separate maintenance or a written instrument incident to such a decree,
+      - **(ii)** a written separation agreement, or
+      - **(iii)** a decree (not described in clause (i)) requiring a spouse to make payments for the support or maintenance of the other spouse.
   - **(4)** For purposes of this section, if the taxpayer holds stock as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as defined in such section), then—
     - **(A)** the holding requirements of subsection (a) shall be applied to the holding of such stock, and
     - **(B)** the use requirements of subsection (a) shall be applied to the house or apartment which the taxpayer was entitled to occupy as such stockholder.
@@ -103,4 +107,4 @@ status: "active"
     - **(B)** For purposes of subparagraph (A), rules similar to the rules of subparagraphs (B) and (D) of paragraph (9) shall apply.
 - **(e)** This section shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) applies to such individual.
 - **(f)** This section shall not apply to any sale or exchange with respect to which the taxpayer elects not to have this section apply.
-- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 2 2 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 2 in determining the holding period of such property) had been so owned and used.
+- **(g)** For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 1 1 See References in Text note below. (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer’s principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(6) 1 in determining the holding period of such property) had been so owned and used.

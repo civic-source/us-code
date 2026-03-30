@@ -3,9 +3,9 @@ title: "Section 9403 - Imposition of additional sanctions in response to Iran’
 usc_title: 22
 usc_section: "9403"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9403"
-generated_at: "2026-03-30T07:46:23.229Z"
+generated_at: "2026-03-30T07:49:19.121Z"
 status: "active"
 ---
 

@@ -1,21 +1,13 @@
 ---
-title: "Section 1648 - Recycling research"
+title: "Section 1648 - Repealed. Pub. L. 115–334, title VIII , § 8201, Dec. 20, 2018 , 132 Stat. 4839"
 usc_title: 16
 usc_section: "1648"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 1648"
-generated_at: "2026-03-30T07:46:15.500Z"
-status: "active"
+generated_at: "2026-03-30T07:49:06.059Z"
+status: "repealed"
 ---
 
-# § 1648. Recycling research
+# § 1648. Repealed. Pub. L. 115–334, title VIII , § 8201, Dec. 20, 2018 , 132 Stat. 4839
 
-- **(a)** Congress finds that—
-  - **(1)** the United States is amassing vast amounts of solid wastes, which is presenting an increasing problem for municipalities in locating suitable disposal sites;
-  - **(2)** a large proportion of these wastes consists of paper and other wood wastes;
-  - **(3)** less than one-third of these paper and wood wastes are recycled;
-  - **(4)** additional recycling would result in reduced solid waste landfill disposal and would contribute to a reduced rate of removal of standing timber from forest lands; and
-  - **(5)** additional research is needed to develop technological advances to address barriers to increased recycling of paper and wood wastes and utilization of products consisting of recycled materials.
-- **(b)** The Secretary is authorized to conduct, support, and cooperate in an expanded wood fiber recycling research program, including the acquisition of necessary equipment. The Secretary shall seek to ensure that the program includes the cooperation and support of private industry and that program goals include the application of such research to industry and consumer needs.
-- **(c)** In addition to any other funds made available to implement section 1642 of this title , for the 5-year period beginning on October 1, 1990 , there are authorized to be appropriated annually $10,000,000 to implement this section.

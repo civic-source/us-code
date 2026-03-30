@@ -3,9 +3,9 @@ title: "Section 6n - Registration of commodity trading advisors and commodity po
 usc_title: 7
 usc_section: "6n"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 6n"
-generated_at: "2026-03-30T07:45:46.385Z"
+generated_at: "2026-03-30T07:48:18.631Z"
 status: "active"
 ---
 

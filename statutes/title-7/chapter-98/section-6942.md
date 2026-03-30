@@ -3,9 +3,9 @@ title: "Section 6942 - Rural Utilities Service"
 usc_title: 7
 usc_section: "6942"
 chapter: 98
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 6942"
-generated_at: "2026-03-30T07:45:46.592Z"
+generated_at: "2026-03-30T07:48:18.780Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary shall establish and maintain within the Department the Rural Utilities Service and assign to the Service such functions as the Secretary considers appropriate.
 - **(b)**
   - **(1)** The Rural Utilities Service shall be headed by an Administrator who shall be appointed by the President.
-  - **(2)**
+  - **(2)** The Administrator of the Rural Utilities Service shall receive basic pay at a rate not to exceed the maximum amount of compensation payable to a member of the Senior Executive Service under subsection (b) of section 5382 of title 5 .
 - **(c)** The Secretary shall carry out through the Rural Utilities Service the following functions that are under the jurisdiction of the Department:
   - **(1)** Electric and telephone loan programs and water and waste facility activities authorized by law, including—
     - **(A)** the Rural Electrification Act of 1936 ( 7 U.S.C. 901 et seq.); and

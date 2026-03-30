@@ -3,9 +3,9 @@ title: "Section 231 - Budgeting for construction of naval vessels: annual plan a
 usc_title: 10
 usc_section: "231"
 chapter: 9
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 231"
-generated_at: "2026-03-30T07:45:51.220Z"
+generated_at: "2026-03-30T07:48:43.876Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
     - **(C)** A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
     - **(D)** The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
     - **(E)** The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (D).
+    - **(F)** The estimated operations and sustainment costs required to support the vessels delivered under the naval vessel construction plan.
 - **(c)** If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under section 179 of this title .
 - **(d)** Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under section 221 of this title .
 - **(e)**

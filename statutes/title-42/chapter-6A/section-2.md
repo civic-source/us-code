@@ -3,9 +3,9 @@ title: "Section 2 - Education and outreach"
 usc_title: 42
 usc_section: "2"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T07:46:59.809Z"
+generated_at: "2026-03-30T07:50:06.744Z"
 status: "active"
 ---
 

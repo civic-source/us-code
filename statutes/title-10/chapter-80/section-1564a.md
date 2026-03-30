@@ -3,21 +3,27 @@ title: "Section 1564a - Counterintelligence polygraph program"
 usc_title: 10
 usc_section: "1564a"
 chapter: 80
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1564a"
-generated_at: "2026-03-30T07:45:51.314Z"
+generated_at: "2026-03-30T07:48:43.931Z"
 status: "active"
 ---
 
 # § 1564a. Counterintelligence polygraph program
 
 - **(a)** The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be conducted in accordance with the standards specified in subsection (e).
-- **(b)** Except as provided in subsection (d), the following persons, if their duties are described in subsection (c), are subject to this section:
-  - **(1)** Military and civilian personnel of the Department of Defense.
-  - **(2)** Personnel of defense contractors.
-  - **(3)** A person assigned or detailed to the Department of Defense.
-  - **(4)** An applicant for a position in the Department of Defense.
-- **(c)** The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b) is subject to this section if that person’s duties involve—
+- **(b)** Except as provided in subsection (d), the following persons are subject to this section:
+  - **(1)** With respect to persons whose duties are described in subsection (c)—
+    - **(A)** military and civilian personnel of the Department of Defense;
+    - **(B)** personnel of defense contractors;
+    - **(C)** persons assigned or detailed to the Department of Defense; and
+    - **(D)** applicants for a position in the Department of Defense.
+  - **(2)** A person who is—
+    - **(A)** a national of the United States (as such term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 )) and also a national of a foreign state; and
+    - **(B)** either—
+      - **(i)** a civilian employee or contractor who requires access to classified information; or
+      - **(ii)** a member of the armed forces who requires access to classified information.
+- **(c)** The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b)(1) is subject to this section if that person’s duties involve—
   - **(1)** access to information that—
     - **(A)** has been classified at the level of top secret; or
     - **(B)** is designated as being within a special access program under section 4.4(a) of Executive Order No. 12958 (or a successor Executive order); or
@@ -37,11 +43,12 @@ status: "active"
 - **(e)**
   - **(1)** Polygraph examinations conducted under this section shall comply with all applicable laws and regulations.
   - **(2)** Such examinations may be authorized for any of the following purposes:
-    - **(A)** To assist in determining the initial eligibility for duties described in subsection (c) of, and aperiodically thereafter, on a random basis, to assist in determining the continued eligibility of, persons described in subsections (b) and (c).
+    - **(A)** To assist in determining the initial eligibility for duties described in subsection (c) of, and aperiodically thereafter, on a random basis, to assist in determining the continued eligibility of, persons described in subsections (b)(1) and (c).
     - **(B)** With the consent of, or upon the request of, the examinee, to—
       - **(i)** resolve serious credible derogatory information developed in connection with a personnel security investigation; or
       - **(ii)** exculpate him- or herself of allegations or evidence arising in the course of a counterintelligence or personnel security investigation.
     - **(C)** To assist, in a limited number of cases when operational exigencies require the immediate use of a person’s services before the completion of a personnel security investigation, in determining the interim eligibility for duties described in subsection (c) of the person.
+    - **(D)** With respect to persons described in subsection (b)(2), to assist in assessing any counterintelligence threats identified in an authorized investigation of foreign preference or foreign influence risks, as described in part 147 of title 32, Code of Federal Regulations, or such successor regulations.
   - **(3)** Polygraph examinations conducted under this section shall provide adequate safeguards, prescribed by the Secretary of Defense, for the protection of the rights and privacy of persons subject to this section under subsection (b) who are considered for or administered polygraph examinations under this section. Such safeguards shall include the following:
     - **(A)** The examinee shall receive timely notification of the examination and its intended purpose and may only be given the examination with the consent of the examinee.
     - **(B)** The examinee shall be advised of the examinee’s right to consult with legal counsel.

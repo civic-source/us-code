@@ -3,9 +3,9 @@ title: "Section 18404 - National space technology policy"
 usc_title: 42
 usc_section: "18404"
 chapter: 159
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 18404"
-generated_at: "2026-03-30T07:47:00.382Z"
+generated_at: "2026-03-30T07:50:07.307Z"
 status: "active"
 ---
 

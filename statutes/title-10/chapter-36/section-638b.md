@@ -3,9 +3,9 @@ title: "Section 638b - Voluntary retirement incentive"
 usc_title: 10
 usc_section: "638b"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 638b"
-generated_at: "2026-03-30T07:45:51.244Z"
+generated_at: "2026-03-30T07:48:43.890Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
 - **(c)**
   - **(1)** Except as provided in paragraph (2), an officer of the armed forces is eligible for a voluntary retirement incentive payment under this section if the officer—
     - **(A)** has served on active duty for more than 20 years, but not more than 29 years, on the approved date of retirement;
-    - **(B)** meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 3911, 6323, or 8911 of this title, as applicable to that officer;
+    - **(B)** meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 7311, 8323, or 9311 of this title, as applicable to that officer;
     - **(C)** on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement years of active service for the member’s grade as specified in section 633 or 634 of this title;
     - **(D)** on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement age under any other provision of law; and
     - **(E)** meets any additional requirements for such eligibility as is specified by the Secretary concerned, including any requirement relating to years of service, skill rating, military specialty or competitive category, grade, any remaining period of obligated service, or any combination thereof.

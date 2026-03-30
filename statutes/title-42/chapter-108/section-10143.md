@@ -3,9 +3,9 @@ title: "Section 10143 - Title to material"
 usc_title: 42
 usc_section: "10143"
 chapter: 108
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 10143"
-generated_at: "2026-03-30T07:47:00.271Z"
+generated_at: "2026-03-30T07:50:07.186Z"
 status: "active"
 ---
 

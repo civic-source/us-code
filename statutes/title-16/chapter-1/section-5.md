@@ -1,15 +1,15 @@
 ---
-title: "Section 5 - Authorization of appropriations; limitation on authority"
+title: "Section 5 - Protection of services and recreational opportunities"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T07:46:15.375Z"
+generated_at: "2026-03-30T07:49:05.974Z"
 status: "active"
 ---
 
-# § 460bbbb–5. Authorization of appropriations; limitation on authority
+# § 460ffff–5. Protection of services and recreational opportunities
 
-Effective October 1, 1980 , there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter. Notwithstanding any other provision of this subchapter, authority to enter into contracts, to incur obligations, or to make payments under this subchapter shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts.
-
+- **(a)** Nothing in this subchapter limits commercial services for existing or historic recreation uses, as authorized by the permit process of the Bureau of Land Management.
+- **(b)** Commercial permits to exercise guided recreational opportunities for the public that are authorized as of March 12, 2019 , may continue to be authorized.

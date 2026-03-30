@@ -3,9 +3,9 @@ title: "Section 2922a - Contracts for energy or fuel for military installations"
 usc_title: 10
 usc_section: "2922a"
 chapter: 173
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2922a"
-generated_at: "2026-03-30T07:45:51.401Z"
+generated_at: "2026-03-30T07:48:43.981Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(2)** for the provision and operation of energy production facilities on real property under the Secretary’s jurisdiction or on private property and the purchase of energy produced from such facilities.
 - **(b)** A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
 - **(c)** The costs of contracts under this section for any year may be paid from annual appropriations for that year.
-- **(d)** The Secretary concerned shall prioritize energy security and resilience.
+- **(d)** The Secretary concerned shall ensure energy security and resilience are prioritized and included in the provision and operation of energy production facilities under this section.

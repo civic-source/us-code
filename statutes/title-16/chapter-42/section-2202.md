@@ -3,13 +3,13 @@ title: "Section 2202 - Payments to agricultural producers for carrying out water
 usc_title: 16
 usc_section: "2202"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 2202"
-generated_at: "2026-03-30T07:46:15.519Z"
+generated_at: "2026-03-30T07:49:06.072Z"
 status: "active"
 ---
 
 # § 2202. Payments to agricultural producers for carrying out water conservation or water enhancing measures; criteria
 
-The Secretary of Agriculture is authorized to make payments to agricultural producers who carry out emergency water conservation or water enhancing measures (including measures carried out to assist confined livestock) during periods of severe drought as determined by the Secretary.
+The Secretary is authorized to make payments to agricultural producers who carry out emergency water conservation or water enhancing measures (including measures carried out to assist confined livestock) during periods of severe drought as determined by the Secretary.
 

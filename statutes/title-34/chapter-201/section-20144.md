@@ -3,9 +3,9 @@ title: "Section 20144 - Justice for United States victims of state sponsored ter
 usc_title: 34
 usc_section: "20144"
 chapter: 201
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 20144"
-generated_at: "2026-03-30T07:46:36.263Z"
+generated_at: "2026-03-30T07:49:40.347Z"
 status: "active"
 ---
 
@@ -116,6 +116,6 @@ status: "active"
   - **(4)** The term “final judgment” means an enforceable final judgment, decree or order on liability and damages entered by a United States district court that is not subject to further appellate review, but does not include a judgment, decree, or order that has been waived, relinquished, satisfied, espoused by the United States, or subject to a bilateral claims settlement agreement between the United States and a foreign state. In the case of a default judgment, such judgment shall not be considered a final judgment until such time as service of process has been completed pursuant to section 1608(e) of title 28 .
   - **(5)** The term “Fund” means the United States Victims of State Sponsored Terrorism Fund established by this section.
   - **(6)** The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments (including payments from the September 11th Victim Compensation Fund ( 49 U.S.C. 40101 note)), and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
-  - **(7)** The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) of title 50 , section 2371 of title 22 , section 2780 of title 22 , or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+  - **(7)** The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) 1 of title 50, section 2371 of title 22 , section 2780 of title 22 , or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
   - **(8)** The term “United States person” means a natural person who has suffered an injury arising from the actions of a foreign state for which the foreign state has been determined not to be immune from the jurisdiction of the courts of the United States under section 1605A or section 1605(a)(7) (as such section was in effect on January 27, 2008 ) of title 28 or is eligible to make a claim under subsection (c)(2)(B) or subsection (c)(2)(C).
 - **(k)** The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.

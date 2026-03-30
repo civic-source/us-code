@@ -3,9 +3,9 @@ title: "Section 1533 - Information collection and dissemination with respect to 
 usc_title: 21
 usc_section: "1533"
 chapter: 20
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "21 U.S.C. § 1533"
-generated_at: "2026-03-30T07:46:19.753Z"
+generated_at: "2026-03-30T07:49:09.838Z"
 status: "active"
 ---
 
@@ -19,13 +19,13 @@ status: "active"
   - **(3)** The Administrator shall, to the maximum extent practicable and in a manner consistent with applicable law, minimize reporting requirements by a grant recipient and expedite any application for a renewal grant made under this part.
 - **(b)**
   - **(1)** The Administrator may collect data from—
-    - **(A)** national substance abuse organizations that work with eligible coalitions, community anti-drug coalitions, departments or agencies of the Federal Government, or State or local governments and the governing bodies of Indian tribes; and
+    - **(A)** national substance use and misuse organizations that work with eligible coalitions, community anti-drug coalitions, departments or agencies of the Federal Government, or State or local governments and the governing bodies of Indian tribes; and
     - **(B)** any other entity or organization that carries out activities that relate to the purposes of the Program.
   - **(2)** The Administrator may—
     - **(A)** evaluate the utility of specific initiatives relating to the purposes of the Program;
     - **(B)** conduct an evaluation of the Program; and
     - **(C)** disseminate information described in this subsection to—
-      - **(i)** eligible coalitions and other substance abuse organizations; and
+      - **(i)** eligible coalitions and other substance use and misuse organizations; and
       - **(ii)** the general public.
   - **(3)** The Administrator shall carry out activities under this subsection in consultation with the Advisory Commission and the National Community Antidrug Coalition Institute.
   - **(4)** Amounts for activities under paragraph (2)(B) may not be derived from amounts under section 1524(a) of this title except for amounts that are available under section 1524(b) of this title for administrative costs.

@@ -3,9 +3,9 @@ title: "Section 5165 - Mitigation planning"
 usc_title: 42
 usc_section: "5165"
 chapter: 68
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 5165"
-generated_at: "2026-03-30T07:47:00.128Z"
+generated_at: "2026-03-30T07:50:07.041Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(1)** Federal contributions under section 5170c of this title may be used to fund the development and updating of mitigation plans under this section.
   - **(2)** With respect to any mitigation plan, a State, local, or tribal government may use an amount of Federal contributions under section 5170c of this title not to exceed 7 percent of the amount of such contributions available to the government as of a date determined by the government.
 - **(e)**
-  - **(1)** If, at the time of the declaration of a major disaster, a State has in effect an approved mitigation plan under this section, the President may increase to 20 percent, with respect to the major disaster, the maximum percentage specified in the last sentence of section 5170c(a) of this title .
+  - **(1)** If, at the time of the declaration of a major disaster or event under section 5187 of this title , a State has in effect an approved mitigation plan under this section, the President may increase to 20 percent, with respect to the major disaster or event under section 5187 of this title , the maximum percentage specified in the last sentence of section 5170c(a) of this title .
   - **(2)** In determining whether to increase the maximum percentage under paragraph (1), the President shall consider whether the State has established—
     - **(A)** eligibility criteria for property acquisition and other types of mitigation measures;
     - **(B)** requirements for cost effectiveness that are related to the eligibility criteria;

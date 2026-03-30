@@ -3,9 +3,9 @@ title: "Section 6047 - Information relating to certain trusts and annuity plans"
 usc_title: 26
 usc_section: "6047"
 chapter: 61
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 6047"
-generated_at: "2026-03-30T07:46:33.385Z"
+generated_at: "2026-03-30T07:49:37.187Z"
 status: "active"
 ---
 

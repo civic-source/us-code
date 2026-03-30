@@ -3,9 +3,9 @@ title: "Section 1396w - Asset verification through access to information held by
 usc_title: 42
 usc_section: "1396w"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1396w"
-generated_at: "2026-03-30T07:46:59.985Z"
+generated_at: "2026-03-30T07:50:06.909Z"
 status: "active"
 ---
 
@@ -48,3 +48,13 @@ status: "active"
 - **(h)** The Secretary shall provide States with technical assistance to aid in implementation of an asset verification program under this section.
 - **(i)** A State implementing an asset verification program under this section shall furnish to the Secretary such reports concerning the program, at such times, in such format, and containing such information as the Secretary determines appropriate.
 - **(j)** Notwithstanding any other provision of law, reasonable expenses of States in carrying out the program under this section shall be treated, for purposes of section 1396b(a) of this title , in the same manner as State expenditures specified in paragraph (7) of such section.
+- **(k)**
+  - **(1)** With respect to a calendar quarter beginning on or after January 1, 2021 , the Federal medical assistance percentage otherwise determined under section 1396d(b) of this title for a non-compliant State shall be reduced—
+    - **(A)** for calendar quarters in 2021 and 2022, by 0.12 percentage points;
+    - **(B)** for calendar quarters in 2023, by 0.25 percentage points;
+    - **(C)** for calendar quarters in 2024, by 0.35 percentage points; and
+    - **(D)** for calendar quarters in 2025 and each year thereafter, by 0.5 percentage points.
+  - **(2)** For purposes of this subsection, the term “non-compliant State” means a State—
+    - **(A)** that is one of the 50 States or the District of Columbia;
+    - **(B)** with respect to which the Secretary has not approved a State plan amendment submitted under subsection (a)(2); and
+    - **(C)** that is not operating, on an ongoing basis, an asset verification program in accordance with this section.

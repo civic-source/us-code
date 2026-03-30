@@ -3,9 +3,9 @@ title: "Section 4511 - Investigations; power to subpena and take oaths and affir
 usc_title: 7
 usc_section: "4511"
 chapter: 76
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 4511"
-generated_at: "2026-03-30T07:45:46.561Z"
+generated_at: "2026-03-30T07:48:18.757Z"
 status: "active"
 ---
 

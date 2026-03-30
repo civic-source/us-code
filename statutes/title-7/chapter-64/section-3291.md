@@ -3,9 +3,9 @@ title: "Section 3291 - International agricultural research, extension, and teach
 usc_title: 7
 usc_section: "3291"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3291"
-generated_at: "2026-03-30T07:45:46.552Z"
+generated_at: "2026-03-30T07:48:18.751Z"
 status: "active"
 ---
 
@@ -43,4 +43,8 @@ status: "active"
 - **(d)** The Secretary shall provide biennial reports to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
   - **(1)** to coordinate international agricultural research within the Federal Government; and
   - **(2)** to more effectively link the activities of domestic and international agricultural researchers, particularly researchers of the Agricultural Research Service.
-- **(e)** Notwithstanding any other provision of law, the full amount of any funds appropriated or otherwise made available to carry out cooperative projects under the arrangement entered into between the Secretary and the Government of Israel to support the Israel-United States Binational Agricultural Research and Development Fund shall be paid directly to the Fund.
+- **(e)**
+  - **(1)** Notwithstanding any other provision of law, the full amount of any funds appropriated or otherwise made available to carry out cooperative projects under the arrangement entered into between the Secretary and the Government of Israel to support the United States-Israel Binational Agricultural Research and Development Fund (referred to in this subsection as the “BARD Fund”) shall be paid directly to the Fund.
+  - **(2)** Activities under the BARD Fund to promote and support agricultural research and development that are of mutual benefit to the United States and Israel shall—
+    - **(A)** accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARD Fund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
+    - **(B)** encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.

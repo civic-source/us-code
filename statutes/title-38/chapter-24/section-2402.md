@@ -3,9 +3,9 @@ title: "Section 2402 - Persons eligible for interment in national cemeteries"
 usc_title: 38
 usc_section: "2402"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 2402"
-generated_at: "2026-03-30T07:46:46.217Z"
+generated_at: "2026-03-30T07:49:45.558Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
       - **(ii)** performing that travel; or
       - **(iii)** undergoing that hospitalization or treatment at the expense of the United States.
   - **(4)** Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
-  - **(5)** The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7).
+  - **(5)** The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s or child’s death if such death occurs before October 1, 2024 .
   - **(6)** Such other persons or classes of persons as may be designated by the Secretary.
   - **(7)** Any person who at the time of death was entitled to retired pay under chapter 1223 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
   - **(8)** Any individual whose service is described in subsection (a) or (b) of section 107 of this title if such individual at the time of death—

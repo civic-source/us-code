@@ -3,9 +3,9 @@ title: "Section 1602 - International Regulations"
 usc_title: 33
 usc_section: "1602"
 chapter: 30
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 1602"
-generated_at: "2026-03-30T07:46:37.809Z"
+generated_at: "2026-03-30T07:49:41.207Z"
 status: "active"
 ---
 

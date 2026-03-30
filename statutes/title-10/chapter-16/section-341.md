@@ -3,9 +3,9 @@ title: "Section 341 - Department of Defense State Partnership Program"
 usc_title: 10
 usc_section: "341"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 341"
-generated_at: "2026-03-30T07:45:51.227Z"
+generated_at: "2026-03-30T07:48:43.879Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** Each program established under this subsection shall be known as a “State Partnership”.
 - **(b)**
   - **(1)** An activity with forces referred to in subsection (a)(1)(B) or organizations described in subsection (a)(1)(C) under a program established under subsection (a) may be carried out only if the Secretary of Defense, with the concurrence of the Secretary of State, determines and notifies the appropriate congressional committees not less than 15 days before initiating such activity that the activity is in the national security interests of the United States.
-  - **(2)** The conduct of any activities under a program established under subsection (a) shall be subject to the provisions of section 362 of this title .
+  - **(2)** The conduct of any assistance activities under a program established under subsection (a) shall be subject to the provisions of section 362 of this title .
 - **(c)** The Chief of the National Guard Bureau shall designate a director for each State and territory to be responsible for the coordination of activities under a program established under subsection (a) for such State or territory and reporting on activities under the program.
 - **(d)** This section shall be carried out in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this section. Such regulations shall include accounting procedures to ensure that expenditures of funds to carry out this section are accounted for and appropriate.
 - **(e)**

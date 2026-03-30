@@ -3,9 +3,9 @@ title: "Section 920b - Art. 120b. Rape and sexual assault of a child"
 usc_title: 10
 usc_section: "920b"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 920b"
-generated_at: "2026-03-30T07:45:51.262Z"
+generated_at: "2026-03-30T07:48:43.901Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
 - **(f)** In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
 - **(g)** Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
 - **(h)** In this section:
-  - **(1)** The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)).
+  - **(1)** The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)), except that the term “sexual act” also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
   - **(2)** The term “force” means—
     - **(A)** the use of a weapon;
     - **(B)** the use of such physical strength or violence as is sufficient to overcome, restrain, or injure a child; or

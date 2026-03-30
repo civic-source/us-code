@@ -3,9 +3,9 @@ title: "Section 16618 - Repealed. Pub. L. 111–314 , § 6, Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16618"
 chapter: 150
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 16618"
-generated_at: "2026-03-30T07:47:00.361Z"
+generated_at: "2026-03-30T07:50:07.285Z"
 status: "repealed"
 ---
 

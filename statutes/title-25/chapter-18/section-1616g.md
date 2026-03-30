@@ -3,9 +3,9 @@ title: "Section 1616g - INMED program"
 usc_title: 25
 usc_section: "1616g"
 chapter: 18
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 1616g"
-generated_at: "2026-03-30T07:46:20.642Z"
+generated_at: "2026-03-30T07:49:10.547Z"
 status: "active"
 ---
 

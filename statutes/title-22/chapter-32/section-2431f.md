@@ -3,9 +3,9 @@ title: "Section 2431f - Authority to engage in debt-for-nature swaps and debt bu
 usc_title: 22
 usc_section: "2431f"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2431f"
-generated_at: "2026-03-30T07:46:23.120Z"
+generated_at: "2026-03-30T07:49:19.037Z"
 status: "active"
 ---
 
@@ -23,4 +23,5 @@ status: "active"
   - **(5)**
     - **(A)** The Facility shall notify the administrator of the agency primarily responsible for administering subchapter I of this chapter or the Commodity Credit Corporation, as the case may be, of eligible purchasers described in paragraph (1)(B) that the President has determined to be eligible under paragraph (1), and shall direct such agency or Corporation, as the case may be, to carry out the sale, reduction, or cancellation of a loan pursuant to such paragraph.
     - **(B)** Such agency or Corporation, as the case may be, shall make an adjustment in its accounts to reflect the sale, reduction, or cancellation.
+    - **(C)** One or more individuals appointed by the United States Government shall serve in an official capacity on the administering body that oversees the implementation of grants arising from a debt-for-nature swap or debt buyback regardless of whether the United States is a party to any agreement between the eligible purchaser and the government of the beneficiary country.
 - **(b)** The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.

@@ -3,9 +3,9 @@ title: "Section 8521 - Weather and climate information in agriculture"
 usc_title: 15
 usc_section: "8521"
 chapter: 111
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 8521"
-generated_at: "2026-03-30T07:45:59.018Z"
+generated_at: "2026-03-30T07:48:52.228Z"
 status: "active"
 ---
 
@@ -53,4 +53,10 @@ status: "active"
   - **(5)** The term “subseasonal” means the time range between 2 weeks and 3 months.
   - **(6)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
   - **(7)** The terms “weather industry” and “weather enterprise” are interchangeable in this section and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
-- **(j)** For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.
+- **(j)** There are authorized to be appropriated to carry out the activities under this section—
+  - **(1)** $26,500,000 for fiscal year 2019;
+  - **(2)** $27,000,000 for fiscal year 2020;
+  - **(3)** $27,500,000 for fiscal year 2021;
+  - **(4)** $28,000,000 for fiscal year 2022; and
+  - **(5)** $28,500,000 for fiscal year 2023.
+- **(k)** Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.

@@ -3,9 +3,9 @@ title: "Section 8111 - Biomass Crop Assistance Program"
 usc_title: 7
 usc_section: "8111"
 chapter: 107
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 8111"
-generated_at: "2026-03-30T07:45:46.627Z"
+generated_at: "2026-03-30T07:48:18.805Z"
 status: "active"
 ---
 
@@ -40,8 +40,9 @@ status: "active"
         - **(II)** in a manner that is consistent with—
       - **(ii)** if woody eligible material, woody eligible material that is produced on land other than contract acreage that—
         - **(I)** is a byproduct of a preventative treatment that is removed to reduce hazardous fuel or to reduce or contain disease or insect infestation; and
-        - **(II)** if harvested from Federal land, is harvested in accordance with section 6512(e) of title 16 ; and
-      - **(iii)** eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels.
+        - **(II)** if harvested from Federal land, is harvested in accordance with section 6512(e) of title 16 ;
+      - **(iii)** eligible material that is delivered to a qualified biomass conversion facility to be used for heat, power, biobased products, research, or advanced biofuels; and
+      - **(iv)** algae.
     - **(C)** The term “eligible material” does not include—
       - **(i)** material that is whole grain from any crop that is eligible to receive payments under title I of the Agricultural Act of 2014 [ 7 U.S.C. 9001 et seq.] or an amendment made by that title, including—
         - **(I)** barley, corn, grain sorghum, oats, rice, or wheat;
@@ -56,17 +57,16 @@ status: "active"
         - **(X)** wool and cotton boll fiber;
       - **(ii)** animal waste and byproducts, including fat, oil, grease, and manure;
       - **(iii)** food waste and yard waste;
-      - **(iv)** algae;
-      - **(v)** woody eligible material that—
+      - **(iv)** woody eligible material that—
         - **(I)** is removed outside contract acreage; and
         - **(II)** is not a byproduct of a preventative treatment to reduce hazardous fuel or to reduce or contain disease or insect infestation;
-      - **(vi)** any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
-      - **(vii)** bagasse.
+      - **(v)** any woody eligible material collected or harvested outside contract acreage that would otherwise be used for existing market products; or
+      - **(vi)** bagasse.
   - **(7)** The term “producer” means an owner or operator of contract acreage that is physically located within a BCAP project area.
   - **(8)** The term “project sponsor” means—
     - **(A)** a group of producers; or
     - **(B)** a biomass conversion facility.
-  - **(9)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) of this title .
+  - **(9)** The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) 1 1 See References in Text note below. of this title.
 - **(b)** The Secretary shall establish and administer a Biomass Crop Assistance Program to—
   - **(1)** support the establishment and production of eligible crops for conversion to bioenergy in selected BCAP project areas; and
   - **(2)** assist agricultural and forest land owners and operators with the collection, harvest, storage, and transportation of eligible material for use in a biomass conversion facility.
@@ -103,7 +103,7 @@ status: "active"
         - **(I)** a conservation plan;
         - **(II)** a forest stewardship plan; or
         - **(III)** a plan that is equivalent to a conservation or forest stewardship plan; and
-      - **(iv)** any additional requirements that Secretary 1 1 So in original. Probably should be preceded by “the”. determines to be necessary.
+      - **(iv)** any additional requirements that Secretary 2 2 So in original. Probably should be preceded by “the”. determines to be necessary.
     - **(C)** A contract under this subsection shall have a term of not more than—
       - **(i)** 5 years for annual and perennial crops; or
       - **(ii)** 15 years for woody biomass.
@@ -139,8 +139,6 @@ status: "active"
   - **(3)** As a condition of the receipt of an annual payment under subsection (c), a producer receiving a payment under this subsection for collection, harvest, storage, or transportation of an eligible crop produced on BCAP acreage shall agree to a reduction in the annual payment.
 - **(e)** Not later than 4 years after February 7, 2014 , the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the dissemination by the Secretary of the best practice data and information gathered from participants receiving assistance under this section.
 - **(f)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $25,000,000 for each of fiscal years 2014 through 2018.
+  - **(1)** There is authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** Of the amount made available under paragraph (1) for each fiscal year, the Secretary shall use not less than 10 percent, nor more than 50 percent, of the amount to make collection, harvest, transportation, and storage payments under subsection (d)(2).
-  - **(3)**
-    - **(A)** Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
-    - **(B)** To the extent funds obligated or expended under subparagraph (A) include funds of the Commodity Credit Corporation, such funds shall not be considered an allotment or fund transfer from the Commodity Credit Corporation for purposes of the limit on expenditures for technical assistance imposed by section 714i of title 15 .
+  - **(3)** Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.

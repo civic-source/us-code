@@ -3,9 +3,9 @@ title: "Section 300u - General authority of Secretary"
 usc_title: 42
 usc_section: "300u"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 300u"
-generated_at: "2026-03-30T07:46:59.776Z"
+generated_at: "2026-03-30T07:50:06.714Z"
 status: "active"
 ---
 

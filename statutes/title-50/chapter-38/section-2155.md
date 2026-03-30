@@ -3,9 +3,9 @@ title: "Section 2155 - Administrative provisions"
 usc_title: 50
 usc_section: "2155"
 chapter: 38
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 2155"
-generated_at: "2026-03-30T07:47:13.203Z"
+generated_at: "2026-03-30T07:50:18.889Z"
 status: "active"
 ---
 

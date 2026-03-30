@@ -3,9 +3,9 @@ title: "Section 3019 - Taxation by State, county, etc., taxing authority; Federa
 usc_title: 12
 usc_section: "3019"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 3019"
-generated_at: "2026-03-30T07:46:02.816Z"
+generated_at: "2026-03-30T07:48:49.554Z"
 status: "active"
 ---
 

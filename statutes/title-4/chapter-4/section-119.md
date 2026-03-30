@@ -3,9 +3,9 @@ title: "Section 119 - Electronic databases for nationwide standard numeric juris
 usc_title: 4
 usc_section: "119"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "4 U.S.C. § 119"
-generated_at: "2026-03-30T07:45:36.340Z"
+generated_at: "2026-03-30T07:47:47.679Z"
 status: "active"
 ---
 

@@ -1,37 +1,20 @@
 ---
-title: "Section 2902 - Capital investment plan"
+title: "Section 2902 - Surveys of Coast Guard families"
 usc_title: 14
 usc_section: "2902"
 chapter: 29
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "14 U.S.C. § 2902"
-generated_at: "2026-03-30T07:45:55.511Z"
+generated_at: "2026-03-30T07:48:46.254Z"
 status: "active"
 ---
 
-# § 2902. Capital investment plan
+# § 2902. Surveys of Coast Guard families
 
-- **(a)** On the date on which the President submits to Congress a budget pursuant to section 1105 of title 31 , the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
-  - **(1)** a capital investment plan for the Coast Guard that identifies for each capital asset for which appropriations are proposed in that budget—
-    - **(A)** the proposed appropriations included in the budget;
-    - **(B)** the total estimated cost of completion based on the proposed appropriations included in the budget;
-    - **(C)** projected funding levels for each fiscal year for the next 5 fiscal years or until project completion, whichever is earlier;
-    - **(D)** an estimated completion date based on the proposed appropriations included in the budget; and
-    - **(E)** an acquisition program baseline, as applicable; and
-  - **(2)** a list of each unfunded priority for the Coast Guard.
-- **(b)** In the fiscal year following each fiscal year for which appropriations are enacted for a new capital asset, the report submitted under subsection (a) shall include—
-  - **(1)** an estimated life-cycle cost estimate for the new capital asset;
-  - **(2)** an assessment of the impact the new capital asset will have on—
-    - **(A)** delivery dates for each capital asset;
-    - **(B)** estimated completion dates for each capital asset;
-    - **(C)** the total estimated cost to complete each capital asset; and
-    - **(D)** other planned construction or improvement projects; and
-  - **(3)** recommended funding levels for each capital asset necessary to meet the estimated completion dates and total estimated costs included in the such 1 1 So in original. asset’s approved acquisition program baseline.
-- **(c)** In this section—
-  - **(1)** the term “unfunded priority” means a program or mission requirement that—
-    - **(A)** has not been selected for funding in the applicable proposed budget;
-    - **(B)** is necessary to fulfill a requirement associated with an operational need; and
-    - **(C)** the Commandant would have recommended for inclusion in the applicable proposed budget had additional resources been available or had the requirement emerged before the budget was submitted; and
-  - **(2)** the term “new capital asset” means—
-    - **(A)** an acquisition program that does not have an approved acquisition program baseline; or
-    - **(B)** the acquisition of a capital asset in excess of the number included in the approved acquisition program baseline.
+- **(a)** The Commandant, in order to determine the effectiveness of Federal policies, programs, and activities related to the families of Coast Guard members, may survey—
+  - **(1)** any Coast Guard member;
+  - **(2)** any retired Coast Guard member;
+  - **(3)** the immediate family of any Coast Guard member or retired Coast Guard member; and
+  - **(4)** any survivor of a deceased Coast Guard member.
+- **(b)** Participation in any survey conducted under subsection (a) shall be voluntary.
+- **(c)** Each person surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44 .

@@ -3,9 +3,9 @@ title: "Section 2282d - Annual report to Congress"
 usc_title: 33
 usc_section: "2282d"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2282d"
-generated_at: "2026-03-30T07:46:37.818Z"
+generated_at: "2026-03-30T07:49:41.214Z"
 status: "active"
 ---
 
@@ -17,8 +17,9 @@ status: "active"
   - **(3)** Any proposed modification to an authorized water resources development project or feasibility study that meets the criteria established in subsection (c)(1)(A) that—
     - **(A)** is submitted to the Secretary by a non-Federal interest pursuant to subsection (b); or
     - **(B)** is identified by the Secretary for authorization.
+  - **(4)** Any programmatic modification for an environmental infrastructure assistance program.
 - **(b)**
-  - **(1)** Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies to be included in the annual report.
+  - **(1)** Not later than May 1 of each year, the Secretary shall publish in the Federal Register a notice requesting proposals from non-Federal interests for proposed feasibility studies, proposed modifications to authorized water resources development projects and feasibility studies, and proposed modifications for an environmental infrastructure program to be included in the annual report.
   - **(2)** The Secretary shall include in each notice required by this subsection a requirement that non-Federal interests submit to the Secretary any proposals described in paragraph (1) by not later than 120 days after the date of publication of the notice in the Federal Register in order for the proposals to be considered for inclusion in the annual report.
   - **(3)** On the date of publication of each notice required by this subsection, the Secretary shall—
     - **(A)** make the notice publicly available, including on the Internet; and
@@ -65,12 +66,17 @@ status: "active"
         - **(II)** the authorized feasibility study for which a modification is proposed, with respect to the benefits of such modification; or
       - **(ii)** the proposed modification to an authorized water resources development project.
   - **(3)** The Secretary shall include in the annual report a certification stating that each feasibility report, proposed feasibility study, and proposed modification to an authorized water resources development project or feasibility study included in the annual report meets the criteria established in paragraph (1)(A).
-  - **(4)** The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that those proposals did not meet the criteria for inclusion under such paragraph.
-- **(d)** Notwithstanding any other deadlines required by this section, the Secretary shall—
+  - **(4)**
+    - **(A)** The Secretary shall include in the annual report an appendix listing the proposals submitted under subsection (b) that were not included in the annual report under paragraph (1)(A) and a description of why the Secretary determined that those proposals did not meet the criteria for inclusion under such paragraph.
+    - **(B)** In carrying out the activities described in this section—
+      - **(i)** the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of the Secretary’s determination that the proposal requires legislative changes to an authorized water resources development project, feasibility study, or environmental infrastructure program; and
+      - **(ii)** the Secretary shall not include proposals in the appendix of the annual report that otherwise meet the criteria for inclusion in the annual report solely on the basis of a policy of the Secretary.
+- **(d)** The Secretary shall include in the annual report only proposed modifications for an environmental infrastructure assistance program that have not been included in any previous annual report. For each proposed modification, the Secretary shall include a letter or statement of support for the proposed modification from each associated non-Federal interest, description of assistance provided, and total Federal cost of assistance provided.
+- **(e)** Notwithstanding any other deadlines required by this section, the Secretary shall—
   - **(1)** not later than 60 days after June 10, 2014 , publish in the Federal Register a notice required by subsection (b)(1); and
   - **(2)** include in such notice a requirement that non-Federal interests submit to the Secretary any proposals described in subsection (b)(1) by not later than 120 days after the date of publication of such notice in the Federal Register in order for such proposals to be considered for inclusion in the first annual report developed by the Secretary under this section.
-- **(e)** Upon submission of an annual report to Congress, the Secretary shall make the annual report publicly available, including through publication on the Internet.
-- **(f)** In this section:
+- **(f)** Upon submission of an annual report to Congress, the Secretary shall make the annual report publicly available, including through publication on the Internet.
+- **(g)** In this section:
   - **(1)** The term “annual report” means a report required by subsection (a).
   - **(2)**
     - **(A)** The term “feasibility report” means a final feasibility report developed under section 2282 of this title .

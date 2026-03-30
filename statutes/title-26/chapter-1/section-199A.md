@@ -3,9 +3,9 @@ title: "Section 199A - Qualified business income"
 usc_title: 26
 usc_section: "199A"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-30T07:46:33.214Z"
+generated_at: "2026-03-30T07:49:37.043Z"
 status: "active"
 ---
 
@@ -58,7 +58,7 @@ status: "active"
   - **(2)** If the net amount of qualified income, gain, deduction, and loss with respect to qualified trades or businesses of the taxpayer for any taxable year is less than zero, such amount shall be treated as a loss from a qualified trade or business in the succeeding taxable year.
   - **(3)** For purposes of this subsection—
     - **(A)** The term “qualified items of income, gain, deduction, and loss” means items of income, gain, deduction, and loss to the extent such items are—
-      - **(i)** effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting “qualified trade or business (within the meaning of section 199A)” for“nonresident alien individual or a foreign corporation” or for “a 1 1 So in original. The word “a” probably should not appear within the quoted text. foreign corporation” each place it appears), and
+      - **(i)** effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting “qualified trade or business (within the meaning of section 199A)” for “nonresident alien individual or a foreign corporation” or for “a 1 1 So in original. The word “a” probably should not appear within the quoted text. foreign corporation” each place it appears), and
       - **(ii)** included or allowed in determining taxable income for the taxable year.
     - **(B)** The following items shall not be taken into account as a qualified item of income, gain, deduction, or loss:
       - **(i)** Any item of short-term capital gain, short-term capital loss, long-term capital gain, or long-term capital loss.

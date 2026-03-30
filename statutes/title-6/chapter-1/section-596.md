@@ -3,16 +3,16 @@ title: "Section 596 - Contracting and grant making authorities"
 usc_title: 6
 usc_section: "596"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 596"
-generated_at: "2026-03-30T07:45:41.915Z"
+generated_at: "2026-03-30T07:48:14.899Z"
 status: "active"
 ---
 
 # § 596. Contracting and grant making authorities
 
-The Secretary, acting through the Director for Domestic Nuclear Detection, in carrying out the responsibilities under paragraphs (6) and (7) of section 592(a) of this title , shall—
+The Secretary, acting through the Assistant Secretary, in carrying out the responsibilities under section 592 of this title , shall—
 
   - **(1)** operate extramural and intramural programs and distribute funds through grants, cooperative agreements, and other transactions and contracts;
-  - **(2)** ensure that activities under paragraphs (6) and (7) of section 592(a) of this title include investigations of radiation detection equipment in configurations suitable for deployment at seaports, which may include underwater or water surface detection equipment and detection equipment that can be mounted on cranes and straddle cars used to move shipping containers; and
+  - **(2)** ensure that activities under section 592 of this title include investigations of radiation detection equipment in configurations suitable for deployment at seaports, which may include underwater or water surface detection equipment and detection equipment that can be mounted on cranes and straddle cars used to move shipping containers; and
   - **(3)** have the authority to establish or contract with 1 or more federally funded research and development centers to provide independent analysis of homeland security issues and carry out other responsibilities under this subchapter.

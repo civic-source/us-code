@@ -3,15 +3,15 @@ title: "Section 321q - Coordination of Department of Homeland Security efforts r
 usc_title: 6
 usc_section: "321q"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 321q"
-generated_at: "2026-03-30T07:45:41.906Z"
+generated_at: "2026-03-30T07:48:14.890Z"
 status: "active"
 ---
 
 # § 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism
 
-- **(a)** The Secretary, acting through the Assistant Secretary for Health Affairs, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
+- **(a)** The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall carry out a program to coordinate the Department’s efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
 - **(b)** The coordination program required by subsection (a) shall include, at a minimum, the following:
   - **(1)** Providing oversight and management of the Department’s responsibilities pursuant to Homeland Security Presidential Directive 9–Defense of United States Agriculture and Food.
   - **(2)** Providing oversight and integration of the Department’s activities related to veterinary public health, food defense, and agricultural security.

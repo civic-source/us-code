@@ -3,9 +3,9 @@ title: "Section 1681g - Disclosures to consumers"
 usc_title: 15
 usc_section: "1681g"
 chapter: 41
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 1681g"
-generated_at: "2026-03-30T07:45:58.902Z"
+generated_at: "2026-03-30T07:48:52.158Z"
 status: "active"
 ---
 

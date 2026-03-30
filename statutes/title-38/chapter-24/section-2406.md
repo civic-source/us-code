@@ -3,9 +3,9 @@ title: "Section 2406 - Acquisition of lands"
 usc_title: 38
 usc_section: "2406"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 2406"
-generated_at: "2026-03-30T07:46:46.218Z"
+generated_at: "2026-03-30T07:49:45.558Z"
 status: "active"
 ---
 

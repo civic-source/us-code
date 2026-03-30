@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T07:46:46.223Z"
+generated_at: "2026-03-30T07:49:45.563Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Secretary shall pay to each individual entitled to educational assistance under this chapter who is pursuing an approved program of education (other than a program covered by subsections (e) and (f)) the amounts specified in subsection (c) to meet the expenses of such individual’s subsistence, tuition, fees, and other educational costs for pursuit of such program of education.
 - **(b)** A program of education is an approved program of education for purposes of this chapter if the program of education is approved for purposes of chapter 30 (including approval by the State approving agency concerned).
 - **(c)** The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
-  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), or (9) of section 3311(b), amounts as follows:
+  - **(1)** In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (9), or (10) of section 3311(b), amounts as follows:
     - **(A)** An amount equal to the following:
       - **(i)** In the case of a program of education pursued at a public institution of higher learning, the actual net cost for in-State tuition and fees assessed by the institution for the program of education after the application of—
         - **(I)** any waiver of, or reduction in, tuition and fees; and
@@ -125,3 +125,6 @@ status: "active"
 - **(h)** Amounts payable under subsections (c)(1)(A) (and of similar amounts payable under paragraphs (2) through (7) of subsection (c)), (e)(2), and (f)(2)(A), and under subparagraphs (A)(i), (C), and (D) of subsection (g)(3), shall be paid directly to the educational institution concerned.
 - **(i)** Any monthly housing stipend payable under this section during the academic year beginning on August 1 of a calendar year shall be determined utilizing rates for basic allowances for housing payable under section 403 of title 37 in effect as of January 1 of such calendar year.
 - **(j)** For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
+- **(k)**
+  - **(1)** The Secretary shall furnish to individuals receiving educational assistance under this chapter documentation that verifies the amount of the monthly housing stipend the individual receives under this section.
+  - **(2)** The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.

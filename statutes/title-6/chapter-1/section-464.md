@@ -3,9 +3,9 @@ title: "Section 464 - Federal Law Enforcement Training Centers"
 usc_title: 6
 usc_section: "464"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 464"
-generated_at: "2026-03-30T07:45:41.910Z"
+generated_at: "2026-03-30T07:48:14.893Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
   - **(4)**
     - **(A)** The Director may—
       - **(i)** execute strategic partnerships with State and local law enforcement to provide such law enforcement with specific training, including maritime law enforcement training; and
-      - **(ii)** coordinate with the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
+      - **(ii)** coordinate with the Director of Cybersecurity and Infrastructure Security and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
     - **(B)** The Director shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, upon request, information on activities undertaken in the previous year pursuant to subparagraph (A).
   - **(5)** The Director may detail employees of FLETC to positions throughout the Department in furtherance of improving the effectiveness and quality of training provided by the Department and, as appropriate, the development of critical departmental programs and initiatives.
   - **(6)** Partner organizations that wish to participate in FLETC training programs shall assign non-reimbursable detailed instructors to FLETC for designated time periods to support all training programs at FLETC, as appropriate. The Director shall determine the number of detailed instructors that is proportional to the number of training hours requested by each partner organization scheduled by FLETC for each fiscal year. If a partner organization is unable to provide a proportional number of detailed instructors, such partner organization shall reimburse FLETC for the salary equivalent for such detailed instructors, as appropriate.

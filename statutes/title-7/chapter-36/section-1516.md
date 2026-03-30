@@ -3,9 +3,9 @@ title: "Section 1516 - Funding"
 usc_title: 7
 usc_section: "1516"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1516"
-generated_at: "2026-03-30T07:45:46.472Z"
+generated_at: "2026-03-30T07:48:18.693Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
       - **(ii)** Costs to contract for the review of policies, plans of insurance, and related materials under section 1505(e) of this title and to contract for other assistance in considering policies, plans of insurance, and related materials.
     - **(B)** Amounts necessary to carry out the dairy options pilot program shall not be counted toward the limitation on expenses specified in subparagraph (A).
     - **(C)**
-      - **(i)** For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $9,000,000 for each fiscal year, to pay costs—
+      - **(i)** For each of the 2014 and subsequent reinsurance years, the Corporation may use the insurance fund established under subsection (c), but not to exceed $7,000,000 for each fiscal year, to pay costs—
         - **(I)** to reimburse expenses incurred for the operations and review of policies, plans of insurance, and related materials (including actuarial and related information); and
         - **(II)** to assist the Corporation in maintaining program actuarial soundness and financial integrity.
       - **(ii)** For the purposes described in clause (i), the Secretary may, without further appropriation—

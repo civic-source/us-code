@@ -3,9 +3,9 @@ title: "Section 1163 - Railroad security assistance"
 usc_title: 6
 usc_section: "1163"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 1163"
-generated_at: "2026-03-30T07:45:41.927Z"
+generated_at: "2026-03-30T07:48:14.913Z"
 status: "active"
 ---
 
@@ -18,15 +18,15 @@ status: "active"
   - **(4)** Notwithstanding the requirement for eligibility and uses of funds in paragraphs (2) and (3), a railroad carrier is eligible for a grant under this section if the applicant uses the funds solely for the development of assessments or security plans under section 1162 of this title .
   - **(5)** Notwithstanding the requirements for eligibility and uses of funds in paragraphs (2) and (3), prior to the earlier of 1 year after the date of issuance of final regulations requiring vulnerability assessments and security plans under section 1162 of this title or 3 years after August 3, 2007 , the Secretary may award grants under this section for rail security improvements listed under subsection (b) based upon railroad carrier vulnerability assessments and security plans that the Secretary determines are sufficient for the purposes of this section but have not been approved by the Secretary in accordance with section 1162 of this title .
 - **(b)** A recipient of a grant under this section shall use the grant funds for one or more of the following:
-  - **(1)** Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations.
+  - **(1)** Security and redundancy for critical communications, computer, and train control systems essential for secure railroad operations, including communications interoperability where appropriate with relevant outside agencies and entities.
   - **(2)** Accommodation of railroad cargo or passenger security inspection facilities, related infrastructure, and operations at or near United States international borders or other ports of entry.
   - **(3)** The security of security-sensitive materials transportation by railroad.
   - **(4)** Chemical, biological, radiological, or explosive detection, including canine patrols for such detection.
-  - **(5)** The security of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
+  - **(5)** The security and preparedness of intercity passenger railroad stations, trains, and infrastructure, including security capital improvement projects that the Secretary determines enhance railroad station security.
   - **(6)** Technologies to reduce the vulnerabilities of railroad cars, including structural modification of railroad cars transporting security-sensitive materials to improve their resistance to acts of terrorism.
-  - **(7)** The sharing of intelligence and information about security threats.
+  - **(7)** The sharing of intelligence and information about security threats and preparedness, including connectivity to the National Terrorist Screening Center.
   - **(8)** To obtain train tracking and communications equipment, including equipment that is interoperable with Federal, State, and local agencies and tribal governments.
-  - **(9)** To hire, train, and employ police and security officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
+  - **(9)** To hire, train, and employ police, security, and preparedness officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
   - **(10)** Overtime reimbursement, including reimbursement of State, local, and tribal governments for costs, for enhanced security personnel assigned to duties related to railroad security during periods of high or severe threat levels and National Special Security Events or other periods of heightened security as determined by the Secretary.
   - **(11)** Perimeter protection systems, including access control, installation of improved lighting, fencing, and barricades at railroad facilities.
   - **(12)** Tunnel protection systems.
@@ -55,7 +55,7 @@ status: "active"
 - **(g)** Not later than 240 days after August 3, 2007 , the Secretary shall provide a report to the appropriate congressional committees on the feasibility and appropriateness of requiring a non-Federal match for grants awarded to freight railroad carriers and other private entities under this section.
 - **(h)** A recipient of a grant under this section and sections 1164 and 1165 of this title shall be required to comply with the standards of section 24312 of title 49 , as in effect on January 1, 2007 , with respect to the project in the same manner as Amtrak is required to comply with such standards for construction work financed under an agreement made under section 24308(a) of that title.
 - **(i)**
-  - **(1)** Out of funds appropriated pursuant to section 114(w) of title 49 , there shall be made available to the Secretary to carry out this section—
+  - **(1)** Out of funds appropriated pursuant to section 114(w) 1 1 See References in Text note below. of title 49, there shall be made available to the Secretary to carry out this section—
     - **(A)** $300,000,000 for fiscal year 2008;
     - **(B)** $300,000,000 for fiscal year 2009;
     - **(C)** $300,000,000 for fiscal year 2010; and

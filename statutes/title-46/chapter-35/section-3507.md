@@ -3,9 +3,9 @@ title: "Section 3507 - Passenger vessel security and safety requirements"
 usc_title: 46
 usc_section: "3507"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 3507"
-generated_at: "2026-03-30T07:47:17.791Z"
+generated_at: "2026-03-30T07:50:11.270Z"
 status: "active"
 ---
 
@@ -21,9 +21,6 @@ status: "active"
     - **(D)** The vessel shall integrate technology that can be used for capturing images of passengers or detecting passengers who have fallen overboard, to the extent that such technology is available.
     - **(E)** The vessel shall be equipped with a sufficient number of operable acoustic hailing or other such warning devices to provide communication capability around the entire vessel when operating in high risk areas (as defined by the United States Coast Guard).
   - **(2)** In administering the requirements of paragraph (1)(C), the Secretary shall take into consideration fire safety and other applicable emergency requirements established by the U.S. Coast Guard and under international law, as appropriate.
-  - **(3)**
-    - **(A)** Except as provided in subparagraph (B), the requirements of paragraph (1) shall take effect 18 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
-    - **(B)** The requirements of paragraph (1)(C) take effect on the date of enactment of the Cruise Vessel Security and Safety Act of 2010.
 - **(b)**
   - **(1)** The owner of a vessel to which this section applies shall maintain a video surveillance system to assist in documenting crimes on the vessel and in providing evidence for the prosecution of such crimes, as determined by the Secretary.
   - **(2)** The owner of a vessel to which this section applies shall provide to any law enforcement official performing official duties in the course and scope of an investigation, upon request, a copy of all records of video surveillance that the official believes may provide evidence of a crime reported to law enforcement officials.
@@ -56,7 +53,7 @@ status: "active"
     - **(A)** information, other than medical findings, necessary for the owner or master of the vessel to comply with the provisions of subsection (g) or other applicable incident reporting laws;
     - **(B)** information to secure the safety of passengers or crew on board the vessel; or
     - **(C)** any information to law enforcement officials performing official duties in the course and scope of an investigation; and
-  - **(2)** treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
+  - **(2)** treat any information derived from, or obtained in connection with, post-assault counseling or other supportive services as confidential, so no such information may be released to the cruise line or any legal representative thereof without the prior knowledge and approval in writing of the patient, or, if the patient is unable to provide written authorization, the patient’s next-of-kin.
 - **(f)** The owner of a vessel to which this section applies shall—
   - **(1)** establish and implement procedures and restrictions concerning—
     - **(A)** which crewmembers have access to passenger staterooms; and
@@ -110,15 +107,13 @@ status: "active"
   - **(2)** The Secretary may deny entry into the United States to a vessel to which this section applies if the owner of the vessel—
     - **(A)** commits an act or omission for which a penalty may be imposed under this subsection; or
     - **(B)** fails to pay a penalty imposed on the owner under this subsection.
-- **(i)** Within 6 months after the date of enactment of the Cruise Vessel Security and Safety Act of 2010, the Secretary shall issue guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
+- **(i)** The Secretary shall maintain guidelines, training curricula, and inspection and certification procedures necessary to carry out the requirements of this section.
 - **(j)** The Secretary and the Commandant shall each issue such regulations as are necessary to implement this section.
 - **(k)**
-  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(22)) that—
+  - **(1)** This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
     - **(A)** is authorized to carry at least 250 passengers;
     - **(B)** has onboard sleeping facilities for each passenger;
     - **(C)** is on a voyage that embarks or disembarks passengers in the United States; and
     - **(D)** is not engaged on a coastwise voyage.
   - **(2)** This section and section 3508 do not apply to a vessel of the United States operated by the Federal Government or a vessel owned and operated by a State.
-- **(l)** In this section and section 3508:
-  - **(1)** The term “Commandant” means the Commandant of the Coast Guard.
-  - **(2)** The term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
+- **(l)** In this section and section 3508, the term “owner” means the owner, charterer, managing operator, master, or other individual in charge of a vessel.

@@ -3,9 +3,9 @@ title: "Section 24910 - Rail cooperative research program"
 usc_title: 49
 usc_section: "24910"
 chapter: 249
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24910"
-generated_at: "2026-03-30T07:47:24.812Z"
+generated_at: "2026-03-30T07:50:15.304Z"
 status: "active"
 ---
 
@@ -37,5 +37,6 @@ status: "active"
     - **(A)** representatives of State transportation agencies;
     - **(B)** transportation and environmental economists, scientists, and engineers; and
     - **(C)** representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
+  - **(3)** The advisory board established under this subsection ceases to exist effective January 1, 2019 .
 - **(d)** The Secretary may make grants to, and enter into cooperative agreements with, the National Academy of Sciences to carry out such activities relating to the research, technology, and technology transfer activities described in subsection (b) as the Secretary deems appropriate.
 - **(e)** There are authorized to be appropriated to the Secretary of Transportation $5,000,000 for each of fiscal years 2010 through 2013 for carrying out this section.

@@ -3,9 +3,9 @@ title: "Section 636 - Additional powers"
 usc_title: 15
 usc_section: "636"
 chapter: 14
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 636"
-generated_at: "2026-03-30T07:45:58.812Z"
+generated_at: "2026-03-30T07:48:52.103Z"
 status: "active"
 ---
 
@@ -77,14 +77,28 @@ status: "active"
     - **(C)** When considering loan or guarantee applications, the Administration shall give weight to export-related benefits, including opening new markets for United States goods and services abroad and encouraging the involvement of small businesses, including agricultural concerns, in the export market.
     - **(D)** The Administrator shall aggressively market its export financing program to small businesses.
   - **(15)**
-    - **(A)** The Administration may guarantee loans under this subsection to qualified employee trusts with respect to a small business concern for the purpose of purchasing stock of the concern under a plan approved by the Administrator which, when carried out, results in the qualified employee trust owning at least 51 per centum of the stock of the concern.
-    - **(B)** The plan requiring the Administrator’s approval under subparagraph (A) shall be submitted to the Administration by the trustee of such trust with its application for the guarantee. Such plan shall include an agreement with the Administrator which is binding on such trust and on the small business concern and which provides that—
+    - **(A)** The Administration may guarantee loans under this subsection—
+      - **(i)** to qualified employee trusts with respect to a small business concern for the purpose of purchasing, and for any transaction costs associated with purchasing, stock of the concern under a plan approved by the Administrator which, when carried out, results in the qualified employee trust owning at least 51 per centum of the stock of the concern; and
+      - **(ii)** to a small business concern under a plan approved by the Administrator, if the proceeds from the loan are only used to make a loan to a qualified employee trust, and for any transaction costs associated with making that loan, that results in the qualified employee trust owning at least 51 percent of the small business concern.
+    - **(B)** The plan requiring the Administrator’s approval under subparagraph (A) shall be submitted to the Administration by the trustee of such trust or by the small business concern with its application for the guarantee. Such plan shall include an agreement with the Administrator which is binding on such trust and on the small business concern and which provides that—
       - **(i)** not later than the date the loan guaranteed under subparagraph (A) is repaid (or as soon thereafter as is consistent with the requirements of section 401(a) of title 26 ), at least 51 per centum of the total stock of such concern shall be allocated to the accounts of at least 51 per centum of the employees of such concern who are entitled to share in such allocation,
-      - **(ii)** there will be periodic reviews of the role in the management of such concern of employees to whose accounts stock is allocated, and
-      - **(iii)** there will be adequate management to assure management expertise and continuity.
+      - **(ii)** there will be periodic reviews of the role in the management of such concern of employees to whose accounts stock is allocated,
+      - **(iii)** there will be adequate management to assure management expertise and continuity, and
+      - **(iv)** with respect to a loan made to a trust, or to a cooperative in accordance with paragraph (35)—
+        - **(I)** a seller of the small business concern may remain involved as an officer, director, or key employee of the small business concern when a qualified employee trust or cooperative has acquired 100 percent of ownership of the small business concern; and
+        - **(II)** any seller of the small business concern who remains as an owner of the small business concern, regardless of the percentage of ownership interest, shall be required to provide a personal guarantee by the Administration.
     - **(C)** In determining whether to guarantee any loan under this paragraph, the individual business experience or personal assets of employee-owners shall not be used as criteria, except inasmuch as certain employee-owners may assume managerial responsibilities, in which case business experience may be considered.
     - **(D)** For purposes of this paragraph, a corporation which is controlled by any other person shall be treated as a small business concern if such corporation would, after the plan described in subparagraph (B) is carried out, be treated as a small business concern.
-    - **(E)** The Administration shall compile a separate list of applications for assistance under this paragraph, indicating which applications were accepted and which were denied, and shall report periodically to the Congress on the status of employee-owned firms assisted by the Administration.
+    - **(E)** The Administration shall compile a separate list of applications for assistance under this paragraph, indicating which applications were accepted and which were denied, and shall report periodically to the Congress on the status of employee-owned firms assisted by the Administration, which shall include—
+      - **(i)** the total number of loans made to employee-owned business concerns that were guaranteed by the Administrator under this subsection or section 502 of the Small Business Investment Act of 1958 ( 15 U.S.C. 696 ), including the number of loans made—
+        - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
+        - **(II)** to cooperatives;
+      - **(ii)** the total number of financings made to employee-owned business concerns by companies licensed under section 301(c) of the Small Business Investment Act of 1958 ( 15 U.S.C. 696(c) ) [ 15 U.S.C. 681(c) ], including the number of financings made—
+        - **(I)** to small business concerns owned and controlled by socially and economically disadvantaged individuals; and
+        - **(II)** to cooperatives; and
+      - **(iii)** any outreach and educational activities conducted by the Administration with respect to employee-owned business concerns.
+    - **(F)** A small business concern that makes a loan to a qualified employee trust under subparagraph (A)(ii) is not required to contain the same terms and conditions as the loan made to the small business concern that is guaranteed by the Administration under such subparagraph.
+    - **(G)** With respect to a loan made to a qualified employee trust under this paragraph, or to a cooperative in accordance with paragraph (35), the Administrator may, as deemed appropriate, elect to not require any mandatory equity to be provided by the qualified employee trust or cooperative to make the loan.
   - **(16)**
     - **(A)** If the Administrator determines that a loan guaranteed under this subsection will allow an eligible small business concern that is engaged in or adversely affected by international trade to improve its competitive position, the Administrator may make such loan to assist such concern—
       - **(i)** in the financing of the acquisition, construction, renovation, modernization, improvement, or expansion of productive facilities or equipment to be used in the United States in the production of goods and services involved in international trade;
@@ -170,9 +184,11 @@ status: "active"
   - **(26)** All fees, interest, and profits received and retained by the Administration under this subsection shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 661a of title 2 ) to the Administration of purchasing and guaranteeing loans under this chapter.
   - **(27)** Repealed. Pub. L. 106–8 , § 3(c), Apr. 2, 1999 , 113 Stat. 16 .
   - **(28)** In addition to such other lease arrangements as may be authorized by the Administration, a borrower may permanently lease to one or more tenants not more than 20 percent of any property constructed with the proceeds of a loan guaranteed under this subsection, if the borrower permanently occupies and uses not less than 60 percent of the total business space in the property.
-  - **(29)** With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
-    - **(A)** shall be required by the Administration in connection with any such loan for more than $250,000; or
-    - **(B)** may be required by the Administration or the lender in connection with any such loan for $250,000 or less, if such appraisal is necessary for appropriate evaluation of creditworthiness.
+  - **(29)**
+    - **(A)** With respect to a loan under this subsection that is secured by commercial real property, an appraisal of such property by a State licensed or certified appraiser—
+      - **(i)** shall be required by the Administration in connection with any such loan, if such loan is in an amount greater than the Federal banking regulator appraisal threshold; or
+      - **(ii)** may be required by the Administration or the lender in connection with any such loan, if such loan is in an amount equal to or less than the Federal banking regulator appraisal threshold, if such appraisal is necessary for appropriate evaluation of creditworthiness.
+    - **(B)** For purposes of this paragraph, the term “Federal banking regulator appraisal threshold” means the lesser of the threshold amounts set by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation for when a federally related transaction that is a commercial real estate transaction requires an appraisal prepared by a State licensed or certified appraiser.
   - **(30)** Ownership requirements to determine the eligibility of a small business concern that applies for assistance under any credit program under this chapter shall be determined without regard to any ownership interest of a spouse arising solely from the application of the community property laws of a State for purposes of determining marital interests.
   - **(31)**
     - **(A)** As used in this paragraph:
@@ -288,6 +304,9 @@ status: "active"
       - **(ii)** For an express loan guaranteed under this paragraph, the Administrator shall guarantee—
         - **(I)** 90 percent of a loan that is not more than $350,000; and
         - **(II)** 75 percent of a loan that is more than $350,000 and not more than $500,000.
+  - **(35)**
+    - **(A)** In this paragraph, the term “cooperative” means an entity that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulation.
+    - **(B)** The Administration shall guarantee loans made to a cooperative for the purpose described in paragraph (15).
 - **(b)** Except as to agricultural enterprises as defined in section 647(b)(1) of this title , the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
   - **(1)**
     - **(A)** to make such loans (either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis) as the Administration may determine to be necessary or appropriate to repair, rehabilitate or replace property, real or personal, damaged or destroyed by or as a result of natural or other disasters: Provided , That such damage or destruction is not compensated for by insurance or otherwise: And provided further , That the Administration may increase the amount of the loan by up to an additional 20 per centum of the aggregate costs of such damage or destruction (whether or not compensated for by insurance or otherwise) if it determines such increase to be necessary or appropriate in order to protect the damaged or destroyed property from possible future disasters by taking mitigating measures, including—
@@ -627,6 +646,9 @@ status: "active"
         - **(III)** For any transfer of property under this clause to a small business concern, the terms and conditions shall be the same as a transfer to a Program Participant, except that the small business concern shall agree not to sell or transfer the property to any party other than the Federal Government during the covered period.
         - **(IV)** A small business concern that receives a transfer of property under this clause may not receive a transfer of property under clause (i) during the covered period.
         - **(V)** If a small business concern sells or transfers property in violation of the agreement described in subclause (III), the Administrator may initiate proceedings to prohibit the small business concern from receiving a transfer of property under this clause or clause (i), in addition to any other remedy available to the Administrator.
+      - **(iii)**
+        - **(I)** In this clause, the term “covered period” means the period beginning on August 13, 2018 , and ending on the date on which the Oversight Board established under section 2121 of title 48 terminates.
+        - **(II)** The Administrator may transfer technology or surplus property under clause (i) to a Puerto Rico business if the Puerto Rico business meets the requirements for such a transfer, without regard to whether the Puerto Rico business is a Program Participant.
     - **(G)** Training assistance whereby the Administration shall conduct training sessions to assist individuals and enterprises eligible to receive contracts under section 637(a) of this title in the development of business principles and strategies to enhance their ability to successfully compete for contracts in the marketplace.
     - **(H)** Joint ventures, leader-follower arrangements, and teaming agreements between the Program Participant and other Program Participants and other business concerns with respect to contracting opportunities for the research, development, full-scale engineering or production of major systems. Such activities shall be undertaken on the basis of programs developed by the agency responsible for the procurement of the major system, with the assistance of the Administration.
     - **(I)** Transitional management business planning training and technical assistance.
@@ -721,7 +743,7 @@ status: "active"
         - **(VIII)** any plan to involve other technical assistance providers (such as counselors from the Service Corps of Retired Executives or small business development centers) or private sector lenders in assisting selected business concerns.
       - **(ii)** In selecting intermediaries to participate in the program established under this subsection, the Administration shall give priority to those applicants that provide loans in amounts averaging not more than $10,000.
     - **(B)** As a condition of any loan made to an intermediary under subparagraph (B)(i) of paragraph (1), the Administrator shall require the intermediary to contribute not less than 15 percent of the loan amount in cash from non-Federal sources.
-    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $5,000,000 in the remaining years of the intermediary’s participation in the program.
+    - **(C)** Notwithstanding subsection (a)(3), no loan shall be made under this subsection if the total amount outstanding and committed to one intermediary (excluding outstanding grants) from the business loan and investment fund established by this chapter would, as a result of such loan, exceed $750,000 in the first year of such intermediary’s participation in the program, and $6,000,000 in the remaining years of the intermediary’s participation in the program.
     - **(D)**
       - **(i)** The Administrator shall, by regulation, require each intermediary to establish a loan loss reserve fund, and to maintain such reserve fund until all obligations owed to the Administration under this subsection are repaid.
       - **(ii)**

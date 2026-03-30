@@ -3,15 +3,15 @@ title: "Section 6518 - Authorization of appropriations"
 usc_title: 16
 usc_section: "6518"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6518"
-generated_at: "2026-03-30T07:46:15.572Z"
+generated_at: "2026-03-30T07:49:06.110Z"
 status: "active"
 ---
 
 # § 6518. Authorization of appropriations
 
-There is authorized to be appropriated $760,000,000 for each fiscal year to carry out—
+There is authorized to be appropriated $660,000,000 for each of fiscal years 2019 through 2023 to carry out—
 
   - **(1)** activities authorized by this subchapter; and
   - **(2)** other hazardous fuel reduction activities of the Secretary, including making grants to States, local governments, Indian tribes, and other eligible recipients for activities authorized by law.

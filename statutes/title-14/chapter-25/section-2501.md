@@ -1,0 +1,15 @@
+---
+title: "Section 2501 - Grade on retirement"
+usc_title: 14
+usc_section: "2501"
+chapter: 25
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 2501"
+generated_at: "2026-03-30T07:48:46.253Z"
+status: "active"
+---
+
+# § 2501. Grade on retirement
+
+- **(a)** Any commissioned officer, other than a commissioned warrant officer, who is retired under any provision of this title, shall be retired from active service with the highest grade held by him for not less than six months while on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.
+- **(b)** Any warrant officer who is retired under any provision of section 580, 1263, 1293, or 1305 of title 10, shall be retired from active service with the highest commissioned grade above chief warrant officer, W–4, held by him for not less than six months on active duty in which, as determined by the Secretary, his performance of duty was satisfactory.

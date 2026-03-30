@@ -3,9 +3,9 @@ title: "Section 1710 - Eligibility for hospital, nursing home, and domiciliary c
 usc_title: 38
 usc_section: "1710"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1710"
-generated_at: "2026-03-30T07:46:46.206Z"
+generated_at: "2026-03-30T07:49:45.546Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
     - **(A)** who has a compensable service-connected disability rated less than 50 percent or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent;
     - **(B)** whose discharge or release from active military, naval, or air service was for a disability that was incurred or aggravated in the line of duty;
     - **(C)** who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran’s continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
-    - **(D)** who is a former prisoner of war, who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14 , or who was awarded the Purple Heart;
+    - **(D)** who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, or who was awarded the Purple Heart;
     - **(E)** who is a veteran of the Mexican border period or of World War I;
     - **(F)** who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e); or
     - **(G)** who is unable to defray the expenses of necessary care as determined under section 1722(a) of this title .
@@ -77,7 +77,7 @@ status: "active"
     - **(A)** the lesser of—
       - **(i)** the cost of furnishing such care, as determined by the Secretary; or
       - **(ii)** the amount determined under paragraph (3) of this subsection; and
-    - **(B)** before September 30, 2019 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+    - **(B)** before September 30, 2020 , an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
   - **(3)**
     - **(A)** In the case of hospital care furnished during any 365-day period, the amount referred to in paragraph (2)(A)(ii) of this subsection is—
       - **(i)** the amount of the inpatient Medicare deductible, plus

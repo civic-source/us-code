@@ -3,9 +3,9 @@ title: "Section 321m - Voluntary private sector preparedness accreditation and c
 usc_title: 6
 usc_section: "321m"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 321m"
-generated_at: "2026-03-30T07:45:41.906Z"
+generated_at: "2026-03-30T07:48:14.890Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** The Administrator, based on consideration of—
       - **(i)** the expertise of the Administrator in emergency management and preparedness in the United States; and
       - **(ii)** the responsibilities of the Administrator as the principal advisor to the President for all matters relating to emergency management in the United States.
-    - **(B)** The Assistant Secretary for Infrastructure Protection, based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
+    - **(B)** The Assistant Secretary for Infrastructure Protection, 1 1 See Change of Name note below. based on consideration of the expertise of the Assistant Secretary in, and responsibilities for—
       - **(i)** protection of critical infrastructure;
       - **(ii)** risk assessment methodologies; and
       - **(iii)** interacting with the private sector on the issues described in clauses (i) and (ii).

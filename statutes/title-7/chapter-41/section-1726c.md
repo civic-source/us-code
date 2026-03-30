@@ -3,9 +3,9 @@ title: "Section 1726c - Local and regional food aid procurement projects"
 usc_title: 7
 usc_section: "1726c"
 chapter: 41
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1726c"
-generated_at: "2026-03-30T07:45:46.486Z"
+generated_at: "2026-03-30T07:48:18.704Z"
 status: "active"
 ---
 
@@ -56,7 +56,7 @@ status: "active"
         - **(II)** procure eligible commodities that are produced in Africa.
     - **(B)** A portion of the funds provided under this subsection shall be made available for field-based projects that provide development assistance for a period of not less than 1 year.
 - **(e)**
-  - **(1)** There is authorized to be appropriated to carry out this section $80,000,000 for each of fiscal years 2014 through 2018.
+  - **(1)** There is authorized to be appropriated to the Secretary to carry out this section $80,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** In carrying out this section, the Secretary may give a preference to eligible organizations that have, or are working toward, projects under the McGovern-Dole International Food for Education and Child Nutrition Program established under section 1736 o –1 of this title.
   - **(3)** Each year, the Secretary shall submit to the appropriate committees of Congress a report that describes the use of funds under this section, including—
     - **(A)** the impact of procurements and projects on—

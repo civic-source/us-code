@@ -3,9 +3,9 @@ title: "Section 664 - Length of joint duty assignments"
 usc_title: 10
 usc_section: "664"
 chapter: 38
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 664"
-generated_at: "2026-03-30T07:45:51.246Z"
+generated_at: "2026-03-30T07:48:43.891Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(D)** a qualifying reassignment from a joint duty assignment as prescribed by the Secretary of Defense in regulations.
   - **(2)** Service in a joint duty assignment in a case in which the officer’s tour of duty in that assignment brings the officer’s accrued service for purposes of subsection (d)(2) to the requirement in subsection (a).
 - **(d)** An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
-  - **(1)** A joint duty assignment that meets the the 1 1 So in original. requirement in subsection (a).
+  - **(1)** A joint duty assignment that meets the requirement in subsection (a).
   - **(2)** Accrued joint experience in joint duty assignments as described in subsection (e).
   - **(3)** A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
   - **(4)** A second and subsequent joint duty assignment that is less than the period required under subsection (a).

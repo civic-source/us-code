@@ -3,9 +3,9 @@ title: "Section 21701 - Organization"
 usc_title: 36
 usc_section: "21701"
 chapter: 217
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "36 U.S.C. § 21701"
-generated_at: "2026-03-30T07:46:40.130Z"
+generated_at: "2026-03-30T07:49:43.365Z"
 status: "active"
 ---
 

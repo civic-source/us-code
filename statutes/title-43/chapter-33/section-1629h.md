@@ -3,9 +3,9 @@ title: "Section 1629h - Kake Tribal Corporation land transfer"
 usc_title: 43
 usc_section: "1629h"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1629h"
-generated_at: "2026-03-30T07:46:48.689Z"
+generated_at: "2026-03-30T07:49:48.836Z"
 status: "active"
 ---
 
@@ -32,5 +32,4 @@ status: "active"
     - **(B)** a municipal drinking water source in accordance with the laws of the State of Alaska;
     - **(C)** a source of fresh water for the Gunnuk Creek Hatchery; and
     - **(D)** habitat for black bear, deer, birds, and other wildlife.
-- **(h)** Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise convey such timber to any person for the purpose of exporting that timber from the State of Alaska.
-- **(i)** There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2) and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).
+- **(h)** There are authorized such sums as may be necessary to carry out this chapter, including to compensate Kake Tribal Corporation for relinquishing its development rights pursuant to subsection (g)(2). No funds authorized under this section may be paid to Kake Tribal Corporation unless Kake Tribal Corporation is a party to the conservation easements described in subsection (g).

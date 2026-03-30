@@ -3,9 +3,9 @@ title: "Section 2305 - Acceptance of gifts"
 usc_title: 44
 usc_section: "2305"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "44 U.S.C. § 2305"
-generated_at: "2026-03-30T07:46:48.128Z"
+generated_at: "2026-03-30T07:49:48.241Z"
 status: "active"
 ---
 

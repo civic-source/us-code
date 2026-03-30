@@ -3,9 +3,9 @@ title: "Section 2252A - Certain activities relating to material constituting or 
 usc_title: 18
 usc_section: "2252A"
 chapter: 110
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 2252A"
-generated_at: "2026-03-30T07:46:07.382Z"
+generated_at: "2026-03-30T07:48:55.485Z"
 status: "active"
 ---
 
@@ -14,8 +14,8 @@ status: "active"
 - **(a)** Any person who—
   - **(1)** knowingly mails, or transports or ships using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer, any child pornography;
   - **(2)** knowingly receives or distributes—
-    - **(A)** any child pornography that has been mailed, or using any means or facility of interstate or foreign commerce shipped or transported in or affecting interstate or foreign commerce by any means, including by computer; or
-    - **(B)** any material that contains child pornography that has been mailed, or using any means or facility of interstate or foreign commerce shipped or transported in or affecting interstate or foreign commerce by any means, including by computer;
+    - **(A)** any child pornography using any means or facility of interstate or foreign commerce or that has been mailed, or has been shipped or transported in or affecting interstate or foreign commerce by any means, including by computer; or
+    - **(B)** any material that contains child pornography using any means or facility of interstate or foreign commerce or that has been mailed, or has been shipped or transported in or affecting interstate or foreign commerce by any means, including by computer;
   - **(3)** knowingly—
     - **(A)** reproduces any child pornography for distribution through the mails, or using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer; or
     - **(B)** advertises, promotes, presents, distributes, or solicits through the mails, or using any means or facility of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means, including by computer, any material or purported material in a manner that reflects the belief, or that is intended to cause another to believe, that the material or purported material is, or contains—

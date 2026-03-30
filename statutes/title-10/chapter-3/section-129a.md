@@ -3,9 +3,9 @@ title: "Section 129a - General policy for total force management"
 usc_title: 10
 usc_section: "129a"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 129a"
-generated_at: "2026-03-30T07:45:51.208Z"
+generated_at: "2026-03-30T07:48:43.867Z"
 status: "active"
 ---
 
@@ -34,6 +34,6 @@ status: "active"
   - **(5)** the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
 - **(g)**
   - **(1)** Functions performed by civilian personnel should not be performed by military personnel except—
-    - **(A)** if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel, including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission; or
+    - **(A)** if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnelis cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity; or
     - **(B)** if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
   - **(2)** In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.

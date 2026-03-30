@@ -1,0 +1,18 @@
+---
+title: "Section 9343 - Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct"
+usc_title: 10
+usc_section: "9343"
+chapter: 943
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 9343"
+generated_at: "2026-03-30T07:48:44.002Z"
+status: "active"
+---
+
+# § 9343. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member’s misconduct
+
+- **(a)** A Reserve enlisted member of the Air Force described in subsection (b) who is retired under section 9314 of this title shall be retired in the highest enlisted grade in which the member served on active duty satisfactorily (or, in the case of a member of the National Guard, in which the member served on full-time National Guard duty satisfactorily), as determined by the Secretary of the Air Force.
+- **(b)** This section applies to a Reserve enlisted member who—
+  - **(1)** at the time of retirement is serving on active duty (or, in the case of a member of the National Guard, on full-time National Guard duty) in a grade lower than the highest enlisted grade held by the member while on active duty (or full-time National Guard duty); and
+  - **(2)** was previously administratively reduced in grade not as a result of the member’s own misconduct, as determined by the Secretary of the Air Force.
+- **(c)** This section applies with respect to Reserve enlisted members who are retired under section 9314 of this title after September 30, 1996 .

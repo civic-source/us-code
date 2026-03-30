@@ -3,9 +3,9 @@ title: "Section 6513 - Prioritization"
 usc_title: 16
 usc_section: "6513"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6513"
-generated_at: "2026-03-30T07:46:15.572Z"
+generated_at: "2026-03-30T07:49:06.109Z"
 status: "active"
 ---
 
@@ -26,3 +26,20 @@ status: "active"
   - **(2)**
     - **(A)** In providing financial assistance under any provision of law for hazardous fuel reduction projects on non-Federal land, the Secretary shall consider recommendations made by at-risk communities that have developed community wildfire protection plans.
     - **(B)** In allocating funding under this paragraph, the Secretary should, to the maximum extent practicable, give priority to communities that have adopted a community wildfire protection plan or have taken proactive measures to encourage willing property owners to reduce fire risk on private property.
+- **(e)**
+  - **(1)** In this subsection:
+    - **(A)** The term “hazardous fuel reduction project” means a hazardous fuel reduction project described in paragraph (2).
+    - **(B)** The term “non-Federal land” includes—
+      - **(i)** State land;
+      - **(ii)** county land;
+      - **(iii)** Tribal land;
+      - **(iv)** private land; and
+      - **(v)** other non-Federal land.
+  - **(2)** The Secretary may make grants to State foresters to support hazardous fuel reduction projects that incorporate treatments in landscapes across ownership boundaries on Federal and non-Federal land, particularly in areas identified as priorities in applicable State-wide forest resource assessments or strategies under section 2101a(a) of this title , as mutually agreed to by the State forester and the Regional Forester.
+  - **(3)** To conduct and fund treatments for hazardous fuel reduction projects carried out by State foresters using grants under paragraph (2), the Secretary may use the authorities of the Secretary relating to cooperation and technical and financial assistance, including the good neighbor authority under—
+    - **(A)** section 2113a of this title ; and
+    - **(B)** section 331 of the Department of the Interior and Related Agencies Appropriations Act, 2001 ( 16 U.S.C. 1011 note; Public Law 106–291 ).
+  - **(4)** In carrying out a hazardous fuel reduction project using a grant under paragraph (2) on non-Federal land, the State forester, in consultation with the Secretary—
+    - **(A)** shall consult with any applicable owners of the non-Federal land; and
+    - **(B)** shall not implement the hazardous fuel reduction project on non-Federal land without the consent of the owner of the non-Federal land.
+  - **(5)** There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.

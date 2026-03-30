@@ -3,9 +3,9 @@ title: "Section 2211b - Monitoring system"
 usc_title: 22
 usc_section: "2211b"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2211b"
-generated_at: "2026-03-30T07:46:23.103Z"
+generated_at: "2026-03-30T07:49:19.022Z"
 status: "active"
 ---
 
@@ -13,7 +13,6 @@ status: "active"
 
 - **(a)** In order to maximize the sustainable development impact of assistance authorized under section 2211a(a) of this title , the Administrator of the Agency, acting through the Director of the office, shall strengthen its monitoring system to meet the requirements of subsection (b).
 - **(b)** The requirements referred to in subsection (a) are the following:
-  - **(1)** The monitoring system shall include performance goals for the assistance and expresses such goals in an objective and quantifiable form, to the extent feasible.
-  - **(2)** The monitoring system shall include performance indicators to be used in measuring or assessing the achievement of the performance goals described in paragraph (1) and the objectives of the assistance authorized under section 2211a of this title .
+  - **(1)** The monitoring system shall include performance goals, including goals on a gender disaggregated basis, such as improvements in employment, access to financial services, education, enterprise development, earnings and control over income, and property and land rights, for the assistance and expresses such goals in an objective and quantifiable form, to the extent feasible.
+  - **(2)** The monitoring system shall incorporate Agency planning and reporting processes and indicators to measure or assess the achievement of the performance goals described in paragraph (1) and the objectives of the assistance authorized under section 2211a of this title .
   - **(3)** The monitoring system provides a basis for recommendations for adjustments to the assistance to enhance the sustainability and the impact of the assistance, particularly the impact of such assistance on the very poor, particularly poor women.
-  - **(4)** The monitoring system adopts the widespread use of proven and effective poverty assessment tools to successfully identify the very poor and ensure that they receive adequate access to microenterprise loans, savings, and assistance.

@@ -3,9 +3,9 @@ title: "Section 8256 - Incentives for agencies"
 usc_title: 42
 usc_section: "8256"
 chapter: 91
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 8256"
-generated_at: "2026-03-30T07:47:00.230Z"
+generated_at: "2026-03-30T07:50:07.137Z"
 status: "active"
 ---
 

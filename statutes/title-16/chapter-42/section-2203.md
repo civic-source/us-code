@@ -1,17 +1,17 @@
 ---
-title: "Section 2203 - Emergency measures"
+title: "Section 2203 - Emergency watershed program"
 usc_title: 16
 usc_section: "2203"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 2203"
-generated_at: "2026-03-30T07:46:15.519Z"
+generated_at: "2026-03-30T07:49:06.072Z"
 status: "active"
 ---
 
-# § 2203. Emergency measures
+# § 2203. Emergency watershed program
 
-- **(a)** The Secretary of Agriculture is authorized to undertake emergency measures, including the purchase of floodplain easements, for runoff retardation and soil-erosion prevention, in cooperation with landowners and land users, as the Secretary deems necessary to safeguard lives and property from floods, drought, and the products of erosion on any watershed whenever fire, flood, or any other natural occurrence is causing or has caused a sudden impairment of that watershed.
+- **(a)** The Secretary is authorized to undertake emergency watershed protection measures, including the purchase of floodplain easements, for runoff retardation and soil-erosion prevention, in cooperation with landowners and land users, as the Secretary deems necessary to safeguard lives and property from floods, drought, and the products of erosion on any watershed whenever fire, flood, or any other natural occurrence is causing or has caused a sudden impairment of that watershed.
 - **(b)**
   - **(1)** The Secretary may modify or terminate a floodplain easement administered by the Secretary under this section if—
     - **(A)** the current owner agrees to the modification or termination; and

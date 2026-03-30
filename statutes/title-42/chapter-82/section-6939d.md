@@ -3,9 +3,9 @@ title: "Section 6939d - Public vessels"
 usc_title: 42
 usc_section: "6939d"
 chapter: 82
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 6939d"
-generated_at: "2026-03-30T07:47:00.175Z"
+generated_at: "2026-03-30T07:50:07.084Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
   - **(2)** the date on which the waste is transferred from the public vessel on which the waste was generated to another public vessel within the territorial waters of the United States;
 - **(c)** For purposes of this section:
   - **(1)** The term “public vessel” means a vessel owned or bareboat chartered and operated by the United States, or by a foreign nation, except when the vessel is engaged in commerce.
-  - **(2)** The terms “in reserve” and “in service” have the meanings applicable to those terms under section 7293 and sections 7304 through 7308 of title 10 and regulations prescribed under those sections.
-- **(d)** Nothing in this section shall be construed as altering or otherwise affecting the provisions of section 7311 of title 10 .
+  - **(2)** The terms “in reserve” and “in service” have the meanings applicable to those terms under section 8663 and sections 8674 through 8678 of title 10 and regulations prescribed under those sections.
+- **(d)** Nothing in this section shall be construed as altering or otherwise affecting the provisions of section 8681 of title 10 .

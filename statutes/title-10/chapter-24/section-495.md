@@ -3,15 +3,15 @@ title: "Section 495 - Strategic delivery systems"
 usc_title: 10
 usc_section: "495"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 495"
-generated_at: "2026-03-30T07:45:51.234Z"
+generated_at: "2026-03-30T07:48:43.884Z"
 status: "active"
 ---
 
 # § 495. Strategic delivery systems
 
-- **(a)** Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ; 123 Stat. 2549 ), including plans regarding—
+- **(a)** The President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ( Public Law 111–84 ; 123 Stat. 2549 ), including plans regarding—
   - **(1)** a heavy bomber and air-launched cruise missile;
   - **(2)** an intercontinental ballistic missile;
   - **(3)** a submarine-launched ballistic missile;

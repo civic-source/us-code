@@ -3,9 +3,9 @@ title: "Section 1396b - Payment to States"
 usc_title: 42
 usc_section: "1396b"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1396b"
-generated_at: "2026-03-30T07:46:59.963Z"
+generated_at: "2026-03-30T07:50:06.888Z"
 status: "active"
 ---
 
@@ -278,6 +278,29 @@ status: "active"
       - **(iii)** for setting the capitation rates and any other payment rates for services provided in accordance with this subsection using a methodology satisfactory to the Secretary designed to ensure that total Federal matching payments under this subchapter for such services will be lower than the matching payments that would be made for the same services, if provided under the State plan on a fee for service basis to an actuarially equivalent population.
     - **(C)** The undertaking described in subparagraph (A) shall be subject to approval (and annual re-approval) by the Secretary in the same manner as a contract under this subsection.
     - **(D)** The undertaking described in subparagraph (A) shall not be eligible for a waiver under section 1396n(b) of this title .
+  - **(7)** Payment shall be made under this subchapter to a State for expenditures for capitation payments described in section 438.6(e) of title 42, Code of Federal Regulations (or any successor regulation).
+  - **(8)**
+    - **(A)** The State agency administering the State plan under this subchapter may have reasonable access, as determined by the State, to 1 or more prescription drug monitoring program databases administered or accessed by the State to the extent the State agency is permitted to access such databases under State law.
+    - **(B)** Such State agency may facilitate reasonable access, as determined by the State, to 1 or more prescription drug monitoring program databases administered or accessed by the State, to same extent that the State agency is permitted under State law to access such databases, for—
+      - **(i)** any provider enrolled under the State plan to provide services to Medicaid beneficiaries; and
+      - **(ii)** any managed care entity (as defined under section 1396u–2(a)(1)(B) of this title ) that has a contract with the State under this subsection or under section 1396d(t)(3) of this title .
+    - **(C)** Such State agency may share information in such databases, to the same extent that the State agency is permitted under State law to share information in such databases, with—
+      - **(i)** any provider enrolled under the State plan to provide services to Medicaid beneficiaries; and
+      - **(ii)** any managed care entity (as defined under section 1396u–2(a)(1)(B) of this title ) that has a contract with the State under this subsection or under section 1396d(t)(3) of this title .
+  - **(9)**
+    - **(A)** With respect to expenditures described in subparagraph (B) that are incurred by a State for any fiscal year after fiscal year 2020 (and before fiscal year 2024), in determining the pro rata share to which the United States is equitably entitled under subsection (d)(3), the Secretary shall substitute the Federal medical assistance percentage that applies for such fiscal year to the State under section 1396d(b) of this title (without regard to any adjustments to such percentage applicable under such section or any other provision of law) for the percentage that applies to such expenditures under section 1396d(y) of this title .
+    - **(B)** Expenditures described in this subparagraph, with respect to a fiscal year to which subparagraph (A) applies, are expenditures incurred by a State for payment for medical assistance provided to individuals described in subclause (VIII) of section 1396a(a)(10)(A)(i) of this title by a managed care entity, or other specified entity (as defined in subparagraph (D)(iii)), that are treated as remittances because the State—
+      - **(i)** has satisfied the requirement of section 438.8 of title 42, Code of Federal Regulations (or any successor regulation), by electing—
+        - **(I)** in the case of a State described in subparagraph (C), to apply a minimum medical loss ratio (as defined in subparagraph (D)(ii)) that is at least 85 percent but not greater than the minimum medical loss ratio (as so defined) that such State applied as of May 31, 2018 ; or
+        - **(II)** in the case of a State not described in subparagraph (C), to apply a minimum medical loss ratio that is equal to 85 percent; and
+      - **(ii)** recovered all or a portion of the expenditures as a result of the entity’s failure to meet such ratio.
+    - **(C)** For purposes of subparagraph (B), a State described in this subparagraph is a State that as of May 31, 2018 , applied a minimum medical loss ratio (as calculated under subsection (d) of section 438.8 of title 42, Code of Federal Regulations (as in effect on June 1, 2018 )) for payment for services provided by entities described in such subparagraph under the State plan under this subchapter (or a waiver of the plan) that is equal to or greater than 85 percent.
+    - **(D)** For purposes of this paragraph:
+      - **(i)** The term “managed care entity” means a medicaid managed care organization described in section 1396u–2(a)(1)(B)(i) of this title .
+      - **(ii)** The term “minimum medical loss ratio” means, with respect to a State, a minimum medical loss ratio (as calculated under subsection (d) of section 438.8 of title 42, Code of Federal Regulations (as in effect on June 1, 2018 )) for payment for services provided by entities described in subparagraph (B) under the State plan under this subchapter (or a waiver of the plan).
+      - **(iii)** The term “other specified entity” means—
+        - **(I)** a prepaid inpatient health plan, as defined in section 438.2 of title 42, Code of Federal Regulations (or any successor regulation); and
+        - **(II)** a prepaid ambulatory health plan, as defined in such section (or any successor regulation).
 - **(n)**
 - **(o)** Notwithstanding the preceding provisions of this section, no payment shall be made to a State under the preceding provisions of this section for expenditures for medical assistance provided for an individual under its State plan approved under this subchapter to the extent that a private insurer (as defined by the Secretary by regulation and including a group health plan (as defined in section 1167(1) of title 29 ), a service benefit plan, and a health maintenance organization) would have been obligated to provide such assistance but for a provision of its insurance contract which has the effect of limiting or excluding such obligation because the individual is eligible for or is provided medical assistance under the plan.
 - **(p)**
@@ -600,3 +623,78 @@ status: "active"
         - **(III)** applicable best practice guidelines and empirical references.
       - **(iii)** Monitor outlier physician’s prescribing, such as failure to refill, dosage strengths, and provide incentives and information to encourage the adoption of best clinical practices.
     - **(C)** For purposes of this paragraph, the term “targeted beneficiaries” means Medicaid eligible beneficiaries who are identified as having high prescription drug costs and medical costs, such as individuals with behavioral disorders or multiple chronic diseases who are taking multiple medications.
+- **(aa)**
+  - **(1)** Not later than the date that is 180 days after October 24, 2018 , the Secretary shall, in consultation, as appropriate, with the Director of the Agency for Healthcare Research and Quality and the Assistant Secretary for Mental Health and Substance Use, conduct a 54-month demonstration project for the purpose described in paragraph (2) under which the Secretary shall—
+    - **(A)** for the first 18-month period of such project, award planning grants described in paragraph (3); and
+    - **(B)** for the remaining 36-month period of such project, provide to each State selected under paragraph (4) payments in accordance with paragraph (5).
+  - **(2)** The purpose described in this paragraph is for each State selected under paragraph (4) to increase the treatment capacity of providers participating under the State plan (or a waiver of such plan) to provide substance use disorder treatment or recovery services under such plan (or waiver) through the following activities:
+    - **(A)** For the purpose described in paragraph (3)(C)(i), activities that support an ongoing assessment of the behavioral health treatment needs of the State, taking into account the matters described in subclauses (I) through (IV) of such paragraph.
+    - **(B)** Activities that, taking into account the results of the assessment described in subparagraph (A), support the recruitment, training, and provision of technical assistance for providers participating under the State plan (or a waiver of such plan) that offer substance use disorder treatment or recovery services.
+    - **(C)** Improved reimbursement for and expansion of, through the provision of education, training, and technical assistance, the number or treatment capacity of providers participating under the State plan (or waiver) that—
+      - **(i)** are authorized to dispense drugs approved by the Food and Drug Administration for individuals with a substance use disorder who need withdrawal management or maintenance treatment for such disorder;
+      - **(ii)** have in effect a registration or waiver under section 823(g) of title 21 for purposes of dispensing narcotic drugs to individuals for maintenance treatment or detoxification treatment and are in compliance with any regulation promulgated by the Assistant Secretary for Mental Health and Substance Use for purposes of carrying out the requirements of such section 823(g); and
+      - **(iii)** are qualified under applicable State law to provide substance use disorder treatment or recovery services.
+    - **(D)** Improved reimbursement for and expansion of, through the provision of education, training, and technical assistance, the number or treatment capacity of providers participating under the State plan (or waiver) that have the qualifications to address the treatment or recovery needs of—
+      - **(i)** individuals enrolled under the State plan (or a waiver of such plan) who have neonatal abstinence syndrome, in accordance with guidelines issued by the American Academy of Pediatrics and American College of Obstetricians and Gynecologists relating to maternal care and infant care with respect to neonatal abstinence syndrome;
+      - **(ii)** pregnant women, postpartum women, and infants, particularly the concurrent treatment, as appropriate, and comprehensive case management of pregnant women, postpartum women and infants, enrolled under the State plan (or a waiver of such plan);
+      - **(iii)** adolescents and young adults between the ages of 12 and 21 enrolled under the State plan (or a waiver of such plan); or
+      - **(iv)** American Indian and Alaska Native individuals enrolled under the State plan (or a waiver of such plan).
+  - **(3)**
+    - **(A)** The Secretary shall, with respect to the first 18-month period of the demonstration project conducted under paragraph (1), award planning grants to at least 10 States selected in accordance with subparagraph (B) for purposes of preparing an application described in paragraph (4)(C) and carrying out the activities described in subparagraph (C).
+    - **(B)** In selecting States for purposes of this paragraph, the Secretary shall—
+      - **(i)** select States that have a State plan (or waiver of the State plan) approved under this subchapter;
+      - **(ii)** select States in a manner that ensures geographic diversity; and
+      - **(iii)** give preference to States with a prevalence of substance use disorders (in particular opioid use disorders) that is comparable to or higher than the national average prevalence, as measured by aggregate per capita drug overdoses, or any other measure that the Secretary deems appropriate.
+    - **(C)** Activities described in this subparagraph are, with respect to a State, each of the following:
+      - **(i)** Activities that support the development of an initial assessment of the behavioral health treatment needs of the State to determine the extent to which providers are needed (including the types of such providers and geographic area of need) to improve the network of providers that treat substance use disorders under the State plan (or waiver), including the following:
+        - **(I)** An estimate of the number of individuals enrolled under the State plan (or a waiver of such plan) who have a substance use disorder.
+        - **(II)** Information on the capacity of providers to provide substance use disorder treatment or recovery services to individuals enrolled under the State plan (or waiver), including information on providers who provide such services and their participation under the State plan (or waiver).
+        - **(III)** Information on the gap in substance use disorder treatment or recovery services under the State plan (or waiver) based on the information described in subclauses (I) and (II).
+        - **(IV)** Projections regarding the extent to which the State participating under the demonstration project would increase the number of providers offering substance use disorder treatment or recovery services under the State plan (or waiver) during the period of the demonstration project.
+      - **(ii)** Activities that, taking into account the results of the assessment described in clause (i), support the development of State infrastructure to, with respect to the provision of substance use disorder treatment or recovery services under the State plan (or a waiver of such plan), recruit prospective providers and provide training and technical assistance to such providers.
+    - **(D)** For purposes of subparagraph (A), there is appropriated, out of any funds in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended.
+  - **(4)**
+    - **(A)** The Secretary shall, with respect to the remaining 36-month period of the demonstration project conducted under paragraph (1), select not more than 5 States in accordance with subparagraph (B) for purposes of carrying out the activities described in paragraph (2) and receiving payments in accordance with paragraph (5).
+    - **(B)** In selecting States for purposes of this paragraph, the Secretary shall—
+      - **(i)** select States that received a planning grant under paragraph (3);
+      - **(ii)** select States that submit to the Secretary an application in accordance with the requirements in subparagraph (C), taking into consideration the quality of each such application;
+      - **(iii)** select States in a manner that ensures geographic diversity; and
+      - **(iv)** give preference to States with a prevalence of substance use disorders (in particular opioid use disorders) that is comparable to or higher than the national average prevalence, as measured by aggregate per capita drug overdoses, or any other measure that the Secretary deems appropriate.
+    - **(C)**
+      - **(i)** A State seeking to be selected for purposes of this paragraph shall submit to the Secretary, at such time and in such form and manner as the Secretary requires, an application that includes such information, provisions, and assurances, as the Secretary may require, in addition to the following:
+        - **(I)** A proposed process for carrying out the ongoing assessment described in paragraph (2)(A), taking into account the results of the initial assessment described in paragraph (3)(C)(i).
+        - **(II)** A review of reimbursement methodologies and other policies related to substance use disorder treatment or recovery services under the State plan (or waiver) that may create barriers to increasing the number of providers delivering such services.
+        - **(III)** The development of a plan, taking into account activities carried out under paragraph (3)(C)(ii), that will result in long-term and sustainable provider networks under the State plan (or waiver) that will offer a continuum of care for substance use disorders. Such plan shall include the following:
+        - **(IV)** A proposed process for reporting the information required under paragraph (6)(A), including information to assess the effectiveness of the efforts of the State to expand the capacity of providers to deliver substance use disorder treatment or recovery services during the period of the demonstration project under this subsection.
+        - **(V)** The expected financial impact of the demonstration project under this subsection on the State.
+        - **(VI)** A description of all funding sources available to the State to provide substance use disorder treatment or recovery services in the State.
+        - **(VII)** A preliminary plan for how the State will sustain any increase in the capacity of providers to deliver substance use disorder treatment or recovery services resulting from the demonstration project under this subsection after the termination of such demonstration project.
+        - **(VIII)** A description of how the State will coordinate the goals of the demonstration project with any waiver granted (or submitted by the State and pending) pursuant to section 1315 of this title for the delivery of substance use services under the State plan, as applicable.
+      - **(ii)** In completing an application under clause (i), a State shall consult with relevant stakeholders, including Medicaid managed care plans, health care providers, and Medicaid beneficiary advocates, and include in such application a description of such consultation.
+  - **(5)**
+    - **(A)** For each quarter occurring during the period for which the demonstration project is conducted (after the first 18 months of such period), the Secretary shall pay under this subsection, subject to subparagraph (C), to each State selected under paragraph (4) an amount equal to 80 percent of so much of the qualified sums expended during such quarter.
+    - **(B)** For purposes of subparagraph (A), the term “qualified sums” means, with respect to a State and a quarter, the amount equal to the amount (if any) by which the sums expended by the State during such quarter attributable to substance use disorder treatment or recovery services furnished by providers participating under the State plan (or a waiver of such plan) exceeds 1/4 of such sums expended by the State during fiscal year 2018 attributable to substance use disorder treatment or recovery services.
+    - **(C)** In the case that payment is made under subparagraph (A) with respect to expenditures for substance use disorder treatment or recovery services furnished by providers participating under the State plan (or a waiver of such plan), payment may not also be made under subsection (a) with respect to expenditures for the same services so furnished.
+  - **(6)**
+    - **(A)** A State receiving payments under paragraph (5) shall, for the period of the demonstration project under this subsection, submit to the Secretary a quarterly report, with respect to expenditures for substance use disorder treatment or recovery services for which payment is made to the State under this subsection, on the following:
+      - **(i)** The specific activities with respect to which payment under this subsection was provided.
+      - **(ii)** The number of providers that delivered substance use disorder treatment or recovery services in the State under the demonstration project compared to the estimated number of providers that would have otherwise delivered such services in the absence of such demonstration project.
+      - **(iii)** The number of individuals enrolled under the State plan (or a waiver of such plan) who received substance use disorder treatment or recovery services under the demonstration project compared to the estimated number of such individuals who would have otherwise received such services in the absence of such demonstration project.
+      - **(iv)** Other matters as determined by the Secretary.
+    - **(B)**
+      - **(i)** Not later than October 1, 2020 , the Administrator of the Centers for Medicare & Medicaid Services shall, in consultation with the Director of the Agency for Healthcare Research and Quality and the Assistant Secretary for Mental Health and Substance Use, submit to Congress an initial report on—
+        - **(I)** the States awarded planning grants under paragraph (3);
+        - **(II)** the criteria used in such selection; and
+        - **(III)** the activities carried out by such States under such planning grants.
+      - **(ii)** Not later than October 1, 2022 , the Administrator of the Centers for Medicare & Medicaid Services shall, in consultation with the Director of the Agency for Healthcare Research and Quality and the Assistant Secretary for Mental Health and Substance Use, submit to Congress an interim report—
+        - **(I)** on activities carried out under the demonstration project under this subsection;
+        - **(II)** on the extent to which States selected under paragraph (4) have achieved the stated goals submitted in their applications under subparagraph (C) of such paragraph;
+        - **(III)** with a description of the strengths and limitations of such demonstration project; and
+        - **(IV)** with a plan for the sustainability of such project.
+      - **(iii)** Not later than October 1, 2024 , the Administrator of the Centers for Medicare & Medicaid Services shall, in consultation with the Director of the Agency for Healthcare Research and Quality and the Assistant Secretary for Mental Health and Substance Use, submit to Congress a final report—
+        - **(I)** providing updates on the matters reported in the interim report under clause (ii);
+        - **(II)** including a description of any changes made with respect to the demonstration project under this subsection after the submission of such interim report; and
+        - **(III)** evaluating such demonstration project.
+    - **(C)** Not later than 3 years after October 24, 2018 , the Director of the Agency for Healthcare Research and Quality, in consultation with the Administrator of the Centers for Medicare & Medicaid Services, shall submit to Congress a summary on the experiences of States awarded planning grants under paragraph (3) and States selected under paragraph (4).
+  - **(7)** During the period of the demonstration project under this subsection, the Secretary shall, in collaboration with States selected under paragraph (4), facilitate data sharing and the development of best practices between such States and States that were not so selected.
+  - **(8)** There is appropriated, out of any funds in the Treasury not otherwise appropriated, $5,000,000 to the Centers for Medicare & Medicaid Services for purposes of implementing this subsection. Such amount shall remain available until expended.

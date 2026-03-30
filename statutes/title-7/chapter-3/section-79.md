@@ -3,9 +3,9 @@ title: "Section 79 - Official inspection"
 usc_title: 7
 usc_section: "79"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 79"
-generated_at: "2026-03-30T07:45:46.397Z"
+generated_at: "2026-03-30T07:48:18.639Z"
 status: "active"
 ---
 
@@ -49,16 +49,30 @@ status: "active"
     - **(C)** the Secretary—
       - **(i)** periodically conducts a consultation with the customers of the applicant, in a manner that provides opportunity for protection of the identity of the customer if desired by the customer, to review the performance of the applicant with regard to the provision of official inspection services and other requirements of this chapter; and
       - **(ii)** works with the applicant to address any concerns identified during the consultation process.
-  - **(2)** Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
-    - **(A)** the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
-    - **(B)** a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
-    - **(C)** the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+  - **(2)**
+    - **(A)** Subject to subparagraph (B), not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary.
+    - **(B)** Subject to subsection (g)(4)(A), if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title , the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—
+      - **(i)** the current designated official agency for that geographic area is unable to provide inspection services in a timely manner;
+      - **(ii)** a person requesting inspection services in that geographic area has not been receiving official inspection services from the current designated official agency for that geographic area;
+      - **(iii)** a person requesting inspection services in that geographic area requests a probe inspection on a barge-lot basis; or
+      - **(iv)** the current official agency for that geographic area agrees in writing with the adjacent official agency to waive the current geographic area restriction at the request of the applicant for service.
+    - **(C)** The exception under subparagraph (B)(ii) may only be terminated if all parties to that exception jointly agree on the termination, unless terminated according to subsection (g)(4)(A).
+    - **(D)**
+      - **(i)** In this subparagraph, the term “eligible grain handling facility” means a grain handling facility that—
+        - **(I)** was granted an exception under the final rule entitled “Exceptions to Geographic Areas for Official Agencies Under the USGSA” (68 Fed. Reg. 19137 ( April 18, 2003 )); and
+        - **(II)** had that exception revoked between September 30, 2015 , and December 20, 2018 .
+      - **(ii)** Within 90 days of notification from an eligible grain handling facility, the Secretary shall restore an exception described in clause (i)(I) with an official agency if—
+        - **(I)** the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
+        - **(II)** the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
   - **(3)** Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
   - **(4)** No State or local governmental agency or person shall provide any official inspection for the purposes of this chapter except pursuant to an unsuspended and unrevoked delegation of authority or designation by the Secretary, as provided in this section, or as provided in section 84(a) of this title .
 - **(g)**
   - **(1)** Designations of official agencies shall terminate at such time as specified by the Secretary but not later than every 5 years and may be renewed in accordance with the criteria and procedure prescribed in subsection (f) of this section.
   - **(2)** A designation of an official agency may be amended at any time upon application by the official agency if the Secretary determines that the amendment will be consistent with the provisions and objectives of this chapter; and a designation will be cancelled upon request by the official agency with ninety days written notice to the Secretary. A fee as prescribed by regulations of the Secretary shall be paid by the official agency to the Secretary for each such amendment, to cover the costs incurred by the Secretary in connection therewith, and it shall be deposited in the fund created in subsection (j) of this section.
   - **(3)** The Secretary may revoke a designation of an official agency whenever, after opportunity for hearing is afforded the agency, the Secretary determines that the agency has failed to meet one or more of the criteria specified in subsection (f) of this section or the regulations under this chapter for the performance of official functions, or otherwise has not complied with any provision of this chapter or any regulation prescribed or instruction issued to such agency under this chapter, or has been convicted of any violation of other Federal law involving the handling or official inspection of grain: Provided , That the Secretary may, without first affording the official agency an opportunity for a hearing, suspend any designation pending final determination of the proceeding whenever the Secretary has reason to believe there is cause for revocation of the designation and considers such action to be in the best interest of the official inspection system under this chapter. The Secretary shall afford any such agency an opportunity for a hearing within thirty days after temporarily suspending such designation.
+  - **(4)**
+    - **(A)** The exceptions under clauses (ii) and (iv) of subsection (f)(2)(B) shall not apply if the designation of an official agency is terminated, pursuant to paragraph (1).
+    - **(B)** If the designation of an official agency is renewed or restored after being terminated under paragraph (1), the Secretary may renew or restore the exceptions under subsection (f)(2)(B) in accordance with that subsection.
 - **(h)** If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title , and that no official agency within reasonable proximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title , until such time as the service can be provided on a regular basis by an official agency.
 - **(i)** The Secretary is authorized to cause official inspection under this chapter to be made, as provided in subsection (a) of section 77 of this title , in Canadian ports of United States export grain transshipped through Canadian ports, and pursuant thereto the Secretary is authorized to enter into an agreement with the Canadian Government for such inspection. All or specified functions of such inspections shall be performed by official inspection personnel employed by the Secretary or, except for appeals, by persons operating under a contract with the Secretary or as otherwise provided by agreement with the Canadian Government.
 - **(j)**

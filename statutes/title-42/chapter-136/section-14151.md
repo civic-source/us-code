@@ -3,9 +3,9 @@ title: "Section 14151 - Repealed. Pub. L. 109–162, title XI , § 1154(b)(3), J
 usc_title: 42
 usc_section: "14151"
 chapter: 136
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 14151"
-generated_at: "2026-03-30T07:47:00.333Z"
+generated_at: "2026-03-30T07:50:07.258Z"
 status: "repealed"
 ---
 

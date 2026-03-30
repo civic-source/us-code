@@ -3,15 +3,15 @@ title: "Section 115a - Annual defense manpower requirements report"
 usc_title: 10
 usc_section: "115a"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 115a"
-generated_at: "2026-03-30T07:45:51.204Z"
+generated_at: "2026-03-30T07:48:43.864Z"
 status: "active"
 ---
 
 # § 115a. Annual defense manpower requirements report
 
-- **(a)** The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 . The report shall contain the Secretary’s recommendations for—
+- **(a)** The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31 . The report shall contain the Secretary’s recommendations for—
   - **(1)** the annual active-duty end-strength level for each component of the armed forces for the next fiscal year;
   - **(2)** the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year; and
   - **(3)** the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title ) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) 1 1 See References in Text note below. of this title.
@@ -35,6 +35,7 @@ status: "active"
     - **(D)** deaths;
     - **(E)** promotions; and
     - **(F)** reserve and regular officers ordered to active duty.
+  - **(4)** The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 - **(e)**
   - **(1)** In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
   - **(2)** For purposes of this subsection, the term “medical personnel” includes—

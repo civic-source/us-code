@@ -3,9 +3,9 @@ title: "Section 1138 - Evaluation and audit of National Transportation Safety Bo
 usc_title: 49
 usc_section: "1138"
 chapter: 11
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 1138"
-generated_at: "2026-03-30T07:47:24.783Z"
+generated_at: "2026-03-30T07:50:15.267Z"
 status: "active"
 ---
 
@@ -17,6 +17,7 @@ status: "active"
   - **(2)** resource management;
   - **(3)** workforce development;
   - **(4)** procurement and contracting planning, practices and policies;
-  - **(5)** the extent to which the Board follows leading practices in selected management areas; and
-  - **(6)** the extent to which the Board addresses management challenges in completing accident investigations.
-- **(c)** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+  - **(5)** the process and procedures to select an accident to investigate;
+  - **(6)** the extent to which the Board follows leading practices in selected management areas; and
+  - **(7)** the extent to which the Board addresses management challenges in completing accident investigations.
+- **(c)** For purposes of this section the term “appropriate congressional committees” means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.

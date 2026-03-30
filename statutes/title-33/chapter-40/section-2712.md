@@ -3,9 +3,9 @@ title: "Section 2712 - Uses of Fund"
 usc_title: 33
 usc_section: "2712"
 chapter: 40
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2712"
-generated_at: "2026-03-30T07:46:37.829Z"
+generated_at: "2026-03-30T07:49:41.223Z"
 status: "active"
 ---
 
@@ -39,16 +39,6 @@ status: "active"
   - **(2)** not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.
 - **(f)** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
 - **(g)**
-  - **(1)** The Comptroller General of the United States shall conduct an audit, including a detailed accounting of each disbursement from the Fund in excess of $500,000 that is—
-    - **(A)** disbursed by the National Pollution Fund Center and not reimbursed by the responsible party; and
-    - **(B)** administered and managed by the receiving Federal agencies, including final payments made to agencies and contractors and, to the extent possible, subcontractors.
-  - **(2)** The audits shall be conducted—
-    - **(A)** at least once every 3 years after October 15, 2010 , until 2016; and
-    - **(B)** at least once every 5 years after the last audit conducted under subparagraph (A).
-  - **(3)** The Comptroller shall submit the results of each audit conducted under paragraph (1) to—
-    - **(A)** the Senate Committee on Commerce, Science, and Transportation;
-    - **(B)** the House of Representatives Committee on Transportation and Infrastructure; and
-    - **(C)** the Secretary or Administrator of each agency referred to in paragraph (1)(B).
 - **(h)**
   - **(1)** No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
   - **(2)** No claim may be presented under this section for recovery of damages unless the claim is presented within 3 years after the date on which the injury and its connection with the discharge in question were reasonably discoverable with the exercise of due care, or in the case of natural resource damages under section 2702(b)(2)(A) of this title , if later, the date of completion of the natural resources damage assessment under section 2706(e) of this title .
@@ -63,12 +53,17 @@ status: "active"
   - **(1)** In the expenditure of Federal funds for removal of oil, including for distribution of supplies, construction, and other reasonable and appropriate activities, under a contract or agreement with a private person, preference shall be given, to the extent feasible and practicable, to private persons residing or doing business primarily in the area affected by the discharge of oil.
   - **(2)** This subsection shall not be considered to restrict the use of Department of Defense resources.
 - **(l)**
-  - **(1)** Within one year after October 15, 2010 , and annually thereafter, the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
+  - **(1)** Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31 , the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
     - **(A)** provide a report on disbursements for the preceding fiscal year from the Fund, regardless of whether those disbursements were subject to annual appropriations, to—
       - **(i)** the Senate Committee on Commerce, Science, and Transportation; and
       - **(ii)** the House of Representatives Committee on Transportation and Infrastructure; and
     - **(B)** make the report available to the public on the National Pollution Funds Center Internet website.
   - **(2)** The report shall include—
-    - **(A)** a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
-    - **(B)** a description of how each such use of the Fund meets the requirements of subsection (a).
+    - **(A)** a list of each incident that—
+      - **(i)** occurred in the preceding fiscal year; and
+      - **(ii)** resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more;
+    - **(B)** a list of each incident that—
+      - **(i)** occurred in the fiscal year preceding the preceding fiscal year; and
+      - **(ii)** resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more; and
+    - **(C)** an accounting of any amounts reimbursed to the Fund in the preceding fiscal year that were recovered from a responsible party for an incident that resulted in disbursements from the Fund, for removal costs and damages, totaling $500,000 or more.
   - **(3)** Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).

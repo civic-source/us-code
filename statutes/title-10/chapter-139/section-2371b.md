@@ -3,9 +3,9 @@ title: "Section 2371b - Authority of the Department of Defense to carry out cert
 usc_title: 10
 usc_section: "2371b"
 chapter: 139
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2371b"
-generated_at: "2026-03-30T07:45:51.359Z"
+generated_at: "2026-03-30T07:48:43.957Z"
 status: "active"
 ---
 
@@ -14,18 +14,18 @@ status: "active"
 - **(a)**
   - **(1)** Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 2371 of this title , carry out prototype projects that are directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
   - **(2)** The authority of this section—
-    - **(A)** may be exercised for a transaction (for a prototype project) that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41 , or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+    - **(A)** may be exercised for a transaction for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f), that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41 , or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
       - **(i)** the requirements of subsection (d) will be met; and
       - **(ii)** the use of the authority of this section is essential to promoting the success of the prototype project; and
-    - **(B)** may be exercised for a transaction (for a prototype project) that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
-      - **(i)** the Under Secretary of Defense for Acquisition, Technology, and Logistics determines in writing that—
+    - **(B)** may be exercised for a transaction for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f), that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
+      - **(i)** the Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment determines in writing that—
         - **(I)** the requirements of subsection (d) will be met; and
         - **(II)** the use of the authority of this section is essential to meet critical national security objectives; and
       - **(ii)** the congressional defense committees are notified in writing at least 30 days before such authority is exercised.
-  - **(3)** The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretary of Defense for Acquisition, Technology, and Logistics under paragraph (2)(B), may not be delegated.
+  - **(3)** The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.
 - **(b)**
   - **(1)** Subsections (e)(1)(B) and (e)(2) of such section 2371 shall not apply to projects carried out under subsection (a).
-  - **(2)** To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under subsection (a).
+  - **(2)** To the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out the prototype projects under subsection (a).
 - **(c)**
   - **(1)** Each agreement entered into by an official referred to in subsection (a) to carry out a project under that subsection that provides for payments in a total amount in excess of $5,000,000 shall include a clause that provides for the Comptroller General, in the discretion of the Comptroller General, to examine the records of any party to the agreement or any entity that participates in the performance of the agreement.
   - **(2)** The requirement in paragraph (1) shall not apply with respect to a party or entity, or a subordinate element of a party or entity, that has not entered into any other agreement that provides for audit access by a Government entity in the year prior to the date of the agreement.
@@ -53,6 +53,8 @@ status: "active"
   - **(2)** A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of this title , if—
     - **(A)** competitive procedures were used for the selection of parties for participation in the transaction; and
     - **(B)** the participants in the transaction successfully completed the prototype project provided for in the transaction.
-  - **(3)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
+  - **(3)** A follow-on production contract or transaction may be awarded, pursuant to this subsection, when the Department determines that an individual prototype or prototype subproject as part of a consortium is successfully completed by the participants.
+  - **(4)** Award of a follow-on production contract or transaction pursuant to the terms under this subsection is not contingent upon the successful completion of all activities within a consortium as a condition for an award for follow-on production of a successfully completed prototype or prototype subproject within that consortium.
+  - **(5)** Contracts and transactions entered into pursuant to this subsection may be awarded using the authority in subsection (a), under the authority of chapter 137 of this title, or under such procedures, terms, and conditions as the Secretary of Defense may establish by regulation.
 - **(g)** An agreement entered into pursuant to the authority of subsection (a) or a follow-on contract or transaction entered into pursuant to the authority of subsection (f) may provide for prototypes or follow-on production items to be provided to another contractor as Government-furnished equipment.
 - **(h)** An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.

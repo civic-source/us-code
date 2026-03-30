@@ -3,9 +3,9 @@ title: "Section 3311 - Educational assistance for service in the Armed Forces co
 usc_title: 38
 usc_section: "3311"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 3311"
-generated_at: "2026-03-30T07:46:46.223Z"
+generated_at: "2026-03-30T07:49:45.563Z"
 status: "active"
 ---
 
@@ -52,6 +52,7 @@ status: "active"
       - **(i)** continues on active duty for an aggregate of less than 6 months; or
       - **(ii)** before completion of service on active duty of an aggregate of 6 months, is discharged or released from active duty as described in subsection (c).
   - **(9)** An individual who is the child or spouse of a person who, on or after September 11, 2001 , dies in line of duty while serving on active duty as a member of the Armed Forces.
+  - **(10)** An individual who is awarded the Purple Heart for service in the Armed Forces occurring on or after September 11, 2001 , and continues to serve on active duty in the Armed Forces or is discharged or released from active duty as described in subsection (c).
 - **(c)** A discharge or release from active duty of an individual described in this subsection is a discharge or release as follows:
   - **(1)** A discharge from active duty in the Armed Forces with an honorable discharge.
   - **(2)** A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
@@ -62,7 +63,7 @@ status: "active"
     - **(C)** a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as determined by the Secretary concerned in accordance with regulations prescribed by the Secretary of Defense.
 - **(d)** The following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
   - **(1)** A period of service on active duty of an officer pursuant to an agreement under section 2107(b) of title 10 .
-  - **(2)** A period of service on active duty of an officer pursuant to an agreement under section 4348, 6959, or 9348 of title 10 or section 182 of title 14 .
+  - **(2)** A period of service on active duty of an officer pursuant to an agreement under section 7448, 8459, or 9448 of title 10 or section 182 1 1 See References in Text note below. of title 14.
   - **(3)** A period of service that is terminated because of a defective enlistment and induction based on—
     - **(A)** the individual’s being a minor for purposes of service in the Armed Forces;
     - **(B)** an erroneous enlistment or induction; or

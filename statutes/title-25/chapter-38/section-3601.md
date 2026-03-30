@@ -3,9 +3,9 @@ title: "Section 3601 - Findings"
 usc_title: 25
 usc_section: "3601"
 chapter: 38
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 3601"
-generated_at: "2026-03-30T07:46:20.681Z"
+generated_at: "2026-03-30T07:49:10.577Z"
 status: "active"
 ---
 

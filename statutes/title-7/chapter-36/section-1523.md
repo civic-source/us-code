@@ -3,9 +3,9 @@ title: "Section 1523 - Pilot programs"
 usc_title: 7
 usc_section: "1523"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1523"
-generated_at: "2026-03-30T07:45:46.474Z"
+generated_at: "2026-03-30T07:48:18.694Z"
 status: "active"
 ---
 
@@ -98,7 +98,7 @@ status: "active"
   - **(1)** In this subsection, the term “livestock commodity” includes cattle, sheep, swine, goats, and poultry, including pasture, rangeland, and forage as a source of feed for that livestock.
   - **(2)** Notwithstanding subsection (a)(2), the Corporation may conduct 2 or more pilot programs to provide producers of underserved specialty crops and livestock commodities with index-based weather insurance, subject to the requirements of this section.
   - **(3)**
-    - **(A)** The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph 2 2 So in original. Probably should be followed by a period.
+    - **(A)** The Board shall approve 2 or more proposed policies or plans of insurance from approved insurance providers if the Board determines that the policies or plans provide coverage as specified in paragraph (2), and meet the conditions described in this paragraph.
     - **(B)** To be eligible for approval under this subsection, the approved insurance provider shall have—
       - **(i)** adequate experience underwriting and administering policies or plans of insurance that are comparable to the proposed policy or plan of insurance;
       - **(ii)** sufficient assets or reinsurance to satisfy the underwriting obligations of the approved insurance provider, and possess a sufficient insurance credit rating from an appropriate credit rating bureau, in accordance with Board procedures; and

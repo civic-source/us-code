@@ -3,9 +3,9 @@ title: "Section 272 - Establishment, functions, and activities"
 usc_title: 15
 usc_section: "272"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 272"
-generated_at: "2026-03-30T07:45:58.798Z"
+generated_at: "2026-03-30T07:48:52.095Z"
 status: "active"
 ---
 
@@ -66,8 +66,9 @@ status: "active"
         - **(II)** to protect individual privacy and civil liberties;
       - **(v)** incorporate voluntary consensus standards and industry best practices;
       - **(vi)** align with voluntary international standards to the fullest extent possible;
-      - **(vii)** prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
-      - **(viii)** include such other similar and consistent elements as the Director considers necessary; and
+      - **(vii)** prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes;
+      - **(viii)** consider small business concerns (as defined in section 632 of this title ); and
+      - **(ix)** include such other similar and consistent elements as the Director considers necessary; and
     - **(B)** shall not prescribe or otherwise require—
       - **(i)** the use of specific solutions;
       - **(ii)** the use of specific information or communications technology products or services; or

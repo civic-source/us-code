@@ -3,9 +3,9 @@ title: "Section 1991 - Definitions"
 usc_title: 7
 usc_section: "1991"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1991"
-generated_at: "2026-03-30T07:45:46.503Z"
+generated_at: "2026-03-30T07:48:18.715Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
   - **(11)** The term “qualified beginning farmer or rancher” means an applicant, regardless of whether the applicant is participating in a program under section 1935 of this title —
     - **(A)** who is eligible for assistance under this chapter;
     - **(B)** who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 10 years;
-    - **(C)** in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operators, or owners, who are all related to one another by blood or marriage;
+    - **(C)** in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operator, 1 1 So in original. or owners who are all related to one another by blood or marriage;
     - **(D)**
       - **(i)** in the case of an owner and operator of a farm or ranch, who—
         - **(I)** in the case of a loan made to an individual, individually or with the immediate family of the applicant—
@@ -46,11 +46,11 @@ status: "active"
       - **(i)** consolidation, rescheduling, reamortization, or deferral of a loan; or
       - **(ii)** any write-down provided as part of a resolution of a discrimination complaint against the Secretary.
   - **(13)**
-    - **(A)** Subject to subparagraphs (B) through (G), the terms “rural” and “rural area” mean any area other than—
+    - **(A)** Subject to subparagraphs (B) through (I), the terms “rural” and “rural area” mean any area other than—
       - **(i)** a city or town that has a population of greater than 50,000 inhabitants; and
       - **(ii)** any urbanized area contiguous and adjacent to a city or town described in clause (i).
-    - **(B)** For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title , the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
-    - **(C)** For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title , the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
+    - **(B)** For the purpose of water and waste disposal grants and direct loans provided under paragraphs (1) and (2) of section 1926(a) of this title , the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+    - **(C)** For the purpose of community facility direct loans and grants under paragraphs (1), (19), (20), and (21) of section 1926(a) of this title , the terms “rural” and “rural area” mean any area other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants.
     - **(D)**
       - **(i)** This subparagraph applies to—
         - **(I)** an urbanized area described in subparagraphs (A)(ii) and (F) that—
@@ -74,7 +74,9 @@ status: "active"
         - **(II)** an area described in clause (i)(II) not to be a rural area for purposes of subparagraph (C).
       - **(iii)** A program applicant may appeal an estimate made under clause (i)(I) based on appropriate data for an area, as determined by the Secretary.
     - **(G)** Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
-- **(b)** As used in sections 1927(e), 1 1 See References in Text note below. 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
+    - **(H)** Populations of individuals incarcerated on a long-term or regional basis shall not be included in determining whether an area is “rural” or a “rural area”.
+    - **(I)** The first 1,500 individuals who reside in housing located on a military base shall not be included in determining whether an area is “rural” or a “rural area”.
+- **(b)** As used in sections 1927(d), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
   - **(1)** The term “borrower” means any farm borrower who has outstanding obligations to the Secretary under any farmer program loan, without regard to whether the loan has been accelerated, but does not include any farm borrower all of whose loans and accounts have been foreclosed on or liquidated, voluntarily or otherwise.
   - **(2)** The term “loan service program” means, with respect to a farmer program borrower, a primary loan service program or a preservation loan service program.
   - **(3)** The term “primary loan service program” means—

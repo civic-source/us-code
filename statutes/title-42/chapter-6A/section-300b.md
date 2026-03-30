@@ -3,9 +3,9 @@ title: "Section 300b - Repealed. Pub. L. 97–35, title XXI , § 2193(b)(1), Aug
 usc_title: 42
 usc_section: "300b"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 300b"
-generated_at: "2026-03-30T07:46:59.760Z"
+generated_at: "2026-03-30T07:50:06.697Z"
 status: "repealed"
 ---
 

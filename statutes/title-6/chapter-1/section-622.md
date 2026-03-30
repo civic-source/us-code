@@ -3,16 +3,16 @@ title: "Section 622 - Chemical Facility Anti-Terrorism Standards Program"
 usc_title: 6
 usc_section: "622"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 622"
-generated_at: "2026-03-30T07:45:41.917Z"
+generated_at: "2026-03-30T07:48:14.901Z"
 status: "active"
 ---
 
 # § 622. Chemical Facility Anti-Terrorism Standards Program
 
 - **(a)**
-  - **(1)** There is in the Department a Chemical Facility Anti-Terrorism Standards Program.
+  - **(1)** There is in the Department a Chemical Facility Anti-Terrorism Standards Program, which shall be located in the Cybersecurity and Infrastructure Security Agency.
   - **(2)** In carrying out the Chemical Facility Anti-Terrorism Standards Program, the Secretary shall—
     - **(A)** identify—
       - **(i)** chemical facilities of interest; and

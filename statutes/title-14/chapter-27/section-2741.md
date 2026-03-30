@@ -1,0 +1,19 @@
+---
+title: "Section 2741 - Time limit on award; report concerning deed"
+usc_title: 14
+usc_section: "2741"
+chapter: 27
+current_through: "PL 116-10"
+classification: "14 U.S.C. § 2741"
+generated_at: "2026-03-30T07:48:46.253Z"
+status: "active"
+---
+
+# § 2741. Time limit on award; report concerning deed
+
+- **(a)** No medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof may be awarded to a person unless—
+  - **(1)** the award is made within five years after the date of the deed or service justifying the award;
+  - **(2)** a statement setting forth the deed or distinguished service and recommending official recognition of it was made by his superior through official channels within three years from the date of that deed or termination of the service.
+- **(b)** If the Secretary determines that—
+  - **(1)** a statement setting forth the deed or distinguished service and recommending official recognition of it was made by the person’s superior through official channels within three years from the date of that deed or termination of the service and was supported by sufficient evidence within that time; and
+  - **(2)** no award was made, because the statement was lost or through inadvertence the recommendation was not acted upon; a medal of honor, Coast Guard cross, distinguished service medal, silver star medal, distinguished flying cross, Coast Guard medal, or bar, emblem, or insignia in lieu thereof, as the case may be, may be awarded to the person within two years after the date of that determination.

@@ -3,9 +3,9 @@ title: "Section 2009d - Rural Development Trust Fund"
 usc_title: 7
 usc_section: "2009d"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2009d"
-generated_at: "2026-03-30T07:45:46.507Z"
+generated_at: "2026-03-30T07:48:18.719Z"
 status: "active"
 ---
 
@@ -31,9 +31,8 @@ status: "active"
     - **(C)** emergency community water assistance grants under section 1926a of this title ; or
     - **(D)** solid waste management grants under section 1932(b) of this title .
   - **(3)** The rural business and cooperative development category consists of all amounts made available for—
-    - **(A)** rural business opportunity grants under section 1926(a)(11)(A) 1 1 See References in Text note below. of this title;
-    - **(B)** business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title ; or
-    - **(C)** rural business enterprise grants or rural educational network grants under section 1932(c) of this title .
+    - **(A)** business and industry direct and guaranteed loans under section 1932(a)(2)(A) of this title ; or
+    - **(B)** rural business enterprise grants or rural educational network grants under section 1932(c) of this title .
 - **(e)**
   - **(1)** Each fiscal year, the Secretary shall transfer to the federally recognized Indian tribe account of the Trust Fund 3 percent of the amount deposited into the Trust Fund for the fiscal year under subsection (d).
   - **(2)** The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d).

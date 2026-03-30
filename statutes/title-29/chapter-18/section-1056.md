@@ -3,9 +3,9 @@ title: "Section 1056 - Form and payment of benefits"
 usc_title: 29
 usc_section: "1056"
 chapter: 18
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 1056"
-generated_at: "2026-03-30T07:46:27.579Z"
+generated_at: "2026-03-30T07:49:22.788Z"
 status: "active"
 ---
 

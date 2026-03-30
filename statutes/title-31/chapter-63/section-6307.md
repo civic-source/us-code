@@ -3,9 +3,9 @@ title: "Section 6307 - Interpretative guidelines and exemptions"
 usc_title: 31
 usc_section: "6307"
 chapter: 63
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "31 U.S.C. § 6307"
-generated_at: "2026-03-30T07:46:36.901Z"
+generated_at: "2026-03-30T07:49:39.777Z"
 status: "active"
 ---
 

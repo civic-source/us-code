@@ -1,13 +1,15 @@
 ---
-title: "Section 922a - Art. 122a]"
+title: "Section 922a - Art. 122a. Receiving stolen property"
 usc_title: 10
 usc_section: "922a"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 922a"
-generated_at: "2026-03-30T07:45:51.262Z"
+generated_at: "2026-03-30T07:48:43.901Z"
 status: "active"
 ---
 
-# [§ 922a. Art. 122a]
+# § 922a. Art. 122a. Receiving stolen property
+
+Any person subject to this chapter who wrongfully receives, buys, or conceals stolen property, knowing the property to be stolen property, shall be punished as a court-martial may direct.
 

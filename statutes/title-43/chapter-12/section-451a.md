@@ -3,9 +3,9 @@ title: "Section 451a - Persons eligible for benefits"
 usc_title: 43
 usc_section: "451a"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 451a"
-generated_at: "2026-03-30T07:46:48.661Z"
+generated_at: "2026-03-30T07:49:48.806Z"
 status: "active"
 ---
 

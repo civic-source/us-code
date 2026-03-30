@@ -3,9 +3,9 @@ title: "Section 2034 - Assistance for community food projects"
 usc_title: 7
 usc_section: "2034"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2034"
-generated_at: "2026-03-30T07:45:46.527Z"
+generated_at: "2026-03-30T07:48:18.732Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
     - **(A)** requires a 1-time contribution of Federal assistance to become self-sustaining; and
     - **(B)** is designed—
       - **(i)**
-        - **(I)** to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;; 1 1 So in original.
+        - **(I)** to meet the food needs of low-income individuals through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;
         - **(II)** to increase the self-reliance of communities in providing for the food needs of the communities; and
         - **(III)** to promote comprehensive responses to local food, food access, farm, and nutrition issues; or
       - **(ii)** to meet specific State, local, or neighborhood food and agricultural needs, including needs relating to—
@@ -31,8 +31,9 @@ status: "active"
   - **(1)** From amounts made available to carry out this chapter, the Secretary may make grants to assist eligible private nonprofit entities to establish and carry out community food projects.
   - **(2)** The total amount of funds provided as grants under this section may not exceed—
     - **(A)** $1,000,000 for fiscal year 1996;
-    - **(B)** $5,000,000 for each of fiscal years 2008 through 2014; and
-    - **(C)** $9,000,000 for fiscal year 2015 and each fiscal year thereafter.
+    - **(B)** $5,000,000 for each of fiscal years 2008 through 2014;
+    - **(C)** $9,000,000 for each of fiscal years 2015 through 2018; and
+    - **(D)** $5,000,000 for fiscal year 2019 and each fiscal year thereafter.
 - **(c)** To be eligible for a grant under subsection (b), a public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners, must—
   - **(1)** have experience in the area of—
     - **(A)** community food work, particularly concerning small and medium-sized farms, including the provision of food to people in low-income communities and the development of new markets in low-income communities for agricultural producers;

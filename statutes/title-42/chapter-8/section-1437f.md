@@ -3,9 +3,9 @@ title: "Section 1437f - Low-income housing assistance"
 usc_title: 42
 usc_section: "1437f"
 chapter: 8
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1437f"
-generated_at: "2026-03-30T07:47:00.000Z"
+generated_at: "2026-03-30T07:50:06.923Z"
 status: "active"
 ---
 
@@ -127,7 +127,10 @@ status: "active"
     - **(E)** shall provide that any termination of tenancy under this subsection shall be preceded by the provision of written notice by the owner to the tenant specifying the grounds for that action, and any relief shall be consistent with applicable State and local law; and
     - **(F)** may include any addenda required by the Secretary to set forth the provisions of this subsection. In the case of any foreclosure on any federally-related mortgage loan (as that term is defined in section 2602 of title 12 ) or on any residential real property in which a recipient of assistance under this subsection resides, the immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to the lease between the prior owner and the tenant and to the housing assistance payments contract between the prior owner and the public housing agency for the occupied unit, except that this provision and the provisions related to foreclosure in subparagraph (C) shall not shall not 3 affect any State or local law that provides longer time periods or other additional protections for tenants.
   - **(8)**
-    - **(A)** Except as provided in paragraph (11), for each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B).
+    - **(A)**
+      - **(i)** For each dwelling unit for which a housing assistance payment contract is established under this subsection, the public housing agency (or other entity pursuant to paragraph (11)) shall inspect the unit before any assistance payment is made to determine whether the dwelling unit meets the housing quality standards under subparagraph (B), except as provided in clause (ii) or (iii) of this subparagraph.
+      - **(ii)** In the case of any dwelling unit that is determined, pursuant to an inspection under clause (i), not to meet the housing quality standards under subparagraph (B), assistance payments may be made for the unit notwithstanding subparagraph (C) if failure to meet such standards is a result only of non-life-threatening conditions, as such conditions are established by the Secretary. A public housing agency making assistance payments pursuant to this clause for a dwelling unit shall, 30 days after the beginning of the period for which such payments are made, withhold any assistance payments for the unit if any deficiency resulting in noncompliance with the housing quality standards has not been corrected by such time. The public housing agency shall recommence assistance payments when such deficiency has been corrected, and may use any payments withheld to make assistance payments relating to the period during which payments were withheld.
+      - **(iii)** In the case of any property that within the previous 24 months has met the requirements of an inspection that qualifies as an alternative inspection method pursuant to subparagraph (E), a public housing agency may authorize occupancy before the inspection under clause (i) has been completed, and may make assistance payments retroactive to the beginning of the lease term after the unit has been determined pursuant to an inspection under clause (i) to meet the housing quality standards under subparagraph (B). This clause may not be construed to exempt any dwelling unit from compliance with the requirements of subparagraph (D).
     - **(B)** The housing quality standards under this subparagraph are standards for safe and habitable housing established—
       - **(i)** by the Secretary for purposes of this subsection; or
       - **(ii)** by local housing codes or by codes adopted by public housing agencies that—

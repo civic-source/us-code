@@ -3,9 +3,9 @@ title: "Section 1395m - Special payment rules for particular items and services"
 usc_title: 42
 usc_section: "1395m"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395m"
-generated_at: "2026-03-30T07:46:59.888Z"
+generated_at: "2026-03-30T07:50:06.820Z"
 status: "active"
 ---
 
@@ -602,7 +602,7 @@ status: "active"
   - **(2)**
     - **(A)** The Secretary shall pay to a physician or practitioner located at a distant site that furnishes a telehealth service to an eligible telehealth individual an amount equal to the amount that such physician or practitioner would have been paid under this subchapter had such service been furnished without the use of a telecommunications system.
     - **(B)**
-      - **(i)** Subject to clause (ii), with respect to a telehealth service, subject to section 1395 l (a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
+      - **(i)** Subject to clause (ii) and paragraph (6)(C), with respect to a telehealth service, subject to section 1395 l (a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
         - **(I)** for the period beginning on October 1, 2001 , and ending on December 31, 2001 , and for 2002, $20; and
         - **(II)** for a subsequent year, the facility fee specified in subclause (I) or this subclause for the preceding year increased by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for such subsequent year.
       - **(ii)** No facility fee shall be paid under this subparagraph to an originating site described in paragraph (4)(C)(ii)(X).
@@ -614,7 +614,7 @@ status: "active"
     - **(A)** The term “distant site” means the site at which the physician or practitioner is located at the time the service is provided via a telecommunications system.
     - **(B)** The term “eligible telehealth individual” means an individual enrolled under this part who receives a telehealth service furnished at an originating site.
     - **(C)**
-      - **(i)** Except as provided in paragraph (6), the term “originating site” means only those sites described in clause (ii) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
+      - **(i)** Except as provided in paragraphs (5), (6), and (7), the term “originating site” means only those sites described in clause (ii) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
         - **(I)** in an area that is designated as a rural health professional shortage area under section 254e(a)(1)(A) of this title ;
         - **(II)** in a county that is not included in a Metropolitan Statistical Area; or
         - **(III)** from an entity that participates in a Federal telemedicine demonstration project that has been approved by (or receives funding from) the Secretary of Health and Human Services as of December 31, 2000 .
@@ -628,7 +628,7 @@ status: "active"
         - **(VII)** A skilled nursing facility (as defined in section 1395i–3(a) of this title ).
         - **(VIII)** A community mental health center (as defined in section 1395x(ff)(3)(B) of this title ).
         - **(IX)** A renal dialysis facility, but only for purposes of section 1395rr(b)(3)(B) of this title .
-        - **(X)** The home of an individual, but only for purposes of section 1395rr(b)(3)(B) of this title .
+        - **(X)** The home of an individual, but only for purposes of section 1395rr(b)(3)(B) of this title or telehealth services described in paragraph (7).
     - **(D)** The term “physician” has the meaning given that term in section 1395x(r) of this title .
     - **(E)** The term “practitioner” has the meaning given that term in section 1395u(b)(18)(C) of this title .
     - **(F)**
@@ -639,6 +639,7 @@ status: "active"
     - **(A)** The requirements described in paragraph (4)(C) shall not apply with respect to telehealth services furnished on or after January 1, 2019 , for purposes of diagnosis, evaluation, or treatment of symptoms of an acute stroke, as determined by the Secretary.
     - **(B)** With respect to telehealth services described in subparagraph (A), the term “originating site” shall include any hospital (as defined in section 1395x(e) of this title ) or critical access hospital (as defined in section 1395x(mm)(1) of this title ), any mobile stroke unit (as defined by the Secretary), or any other site determined appropriate by the Secretary, at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system.
     - **(C)** No facility fee shall be paid under paragraph (2)(B) to an originating site with respect to a telehealth service described in subparagraph (A) if the originating site does not otherwise meet the requirements for an originating site under paragraph (4)(C).
+  - **(7)** The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019 , to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
 - **(n)** Notwithstanding any other provision of this subchapter, effective beginning on January 1, 2010 , if the Secretary determines appropriate, the Secretary may—
   - **(1)** modify—
     - **(A)** the coverage of any preventive service described in subparagraph (A) of section 1395x(ddd)(3) of this title to the extent that such modification is consistent with the recommendations of the United States Preventive Services Task Force; and
@@ -656,6 +657,13 @@ status: "active"
         - **(I)** in the first year after implementation of such system, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for the year involved; and
         - **(II)** in subsequent years, by the percentage increase in a market basket of Federally qualified health center goods and services as promulgated through regulations, or if such an index is not available, by the percentage increase in the MEI (as defined in section 1395u(i)(3) of this title ) for the year involved.
     - **(C)** Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
+  - **(3)**
+    - **(A)** In the case of a Federally qualified health center with respect to which, beginning on or after January 1, 2019 , Federally qualified health center services (as defined in section 1395x(aa)(3) of this title ) are furnished for the treatment of opioid use disorder by a physician or practitioner who meets the requirements described in subparagraph (C), the Secretary shall, subject to availability of funds under subparagraph (D), make a payment (at such time and in such manner as specified by the Secretary) to such Federally qualified health center after receiving and approving an application submitted by such Federally qualified health center under subparagraph (B). Such a payment shall be in an amount determined by the Secretary, based on an estimate of the average costs of training for purposes of receiving a waiver described in subparagraph (C)(ii). Such a payment may be made only one time with respect to each such physician or practitioner.
+    - **(B)** In order to receive a payment described in subparagraph (A), a Federally qualified health center shall submit to the Secretary an application for such a payment at such time, in such manner, and containing such information as specified by the Secretary. A Federally qualified health center may apply for such a payment for each physician or practitioner described in subparagraph (A) furnishing services described in such subparagraph at such center.
+    - **(C)** For purposes of subparagraph (A), the requirements described in this subparagraph, with respect to a physician or practitioner, are the following:
+      - **(i)** The physician or practitioner is employed by or working under contract with a Federally qualified health center described in subparagraph (A) that submits an application under subparagraph (B).
+      - **(ii)** The physician or practitioner first receives a waiver under section 823(g) of title 21 on or after January 1, 2019 .
+    - **(D)** For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
 - **(p)**
   - **(1)** In the case of an applicable computed tomography service (as defined in paragraph (2)) for which payment is made under an applicable payment system (as defined in paragraph (3)) and that is furnished on or after January 1, 2016 , using equipment that is not consistent with the CT equipment standard (described in paragraph (4)), the payment amount for such service shall be reduced by the applicable percentage (as defined in paragraph (5)).
   - **(2)** In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014 , by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). 5 5 So in original. The period probably should be preceded by another closing parenthesis.
@@ -821,3 +829,7 @@ status: "active"
     - **(A)** Not later than January 1, 2019 , the Secretary shall establish a modifier to indicate (in a form and manner specified by the Secretary), in the case of an outpatient physical therapy service or outpatient occupational therapy service furnished in whole or in part by a therapy assistant (as so defined), that the service was furnished by a therapy assistant.
     - **(B)** Each request for payment, or bill submitted, for an outpatient physical therapy service or outpatient occupational therapy service furnished in whole or in part by a therapy assistant (as so defined) on or after January 1, 2020 , shall include the modifier established under subparagraph (A) for each such service.
   - **(3)** The Secretary shall implement this subsection through notice and comment rulemaking.
+- **(w)**
+  - **(1)** The Secretary shall pay to an opioid treatment program (as defined in paragraph (2) of section 1395x(jjj) of this title ) an amount that is equal to 100 percent of a bundled payment under this part for opioid use disorder treatment services (as defined in paragraph (1) of such section) that are furnished by such program to an individual during an episode of care (as defined by the Secretary) beginning on or after January 1, 2020 . The Secretary shall ensure, as determined appropriate by the Secretary, that no duplicative payments are made under this part or part D for items and services furnished by an opioid treatment program.
+  - **(2)** The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
+  - **(3)** The Secretary shall provide an update each year to the bundled payment amounts under this subsection.

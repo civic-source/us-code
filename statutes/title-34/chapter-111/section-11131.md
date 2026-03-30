@@ -3,9 +3,9 @@ title: "Section 11131 - Authority to make grants and contracts"
 usc_title: 34
 usc_section: "11131"
 chapter: 111
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 11131"
-generated_at: "2026-03-30T07:46:36.244Z"
+generated_at: "2026-03-30T07:49:40.332Z"
 status: "active"
 ---
 
@@ -13,5 +13,5 @@ status: "active"
 
 - **(a)** The Administrator is authorized to make grants to States and units of local government or combinations thereof to assist them in planning, establishing, operating, coordinating, and evaluating projects directly or through grants and contracts with public and private agencies for the development of more effective education, training, research, prevention, diversion, treatment, and rehabilitation programs in the area of juvenile delinquency and programs to improve the juvenile justice system.
 - **(b)**
-  - **(1)** With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 1 1 So in original. Probably should be “units of local governments”. (and combinations thereof), and local private agencies to facilitate compliance with section 11133 of this title and implementation of the State plan approved under section 11133(c) of this title .
+  - **(1)** With not to exceed 5 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 1 1 So in original. Probably should be “units of local governments”. (and combinations thereof), and local private agencies to facilitate compliance with section 11133 of this title and implementation of the State plan approved under section 11133(c) of this title .
   - **(2)** Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.

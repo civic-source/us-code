@@ -3,9 +3,9 @@ title: "Section 993 - Definitions and special rules"
 usc_title: 26
 usc_section: "993"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 993"
-generated_at: "2026-03-30T07:46:33.308Z"
+generated_at: "2026-03-30T07:49:37.122Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
     - **(A)** property leased or rented by a DISC for use by any member of a controlled group (as defined in subsection (a)(3)) which includes the DISC,
     - **(B)** patents, inventions, models, designs, formulas, or processes, whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademarks, trade brands, franchises, or other like property,
     - **(C)** products of a character with respect to which a deduction for depletion is allowable (including oil, gas, coal, or uranium products) under section 613 or 613A,
-    - **(D)** products the export of which is prohibited or curtailed under section 7(a) of the Export Administration Act of 1979 to effectuate the policy set forth in paragraph (2)(C) of section 3 of such Act (relating to the protection of the domestic economy), or
+    - **(D)** products the export of which is prohibited or curtailed under section 7(a) 1 1 See References in Text note below. of the Export Administration Act of 1979 to effectuate the policy set forth in paragraph (2)(C) of section 3 1 of such Act (relating to the protection of the domestic economy), or
     - **(E)** any unprocessed timber which is a softwood.
   - **(3)** If the President determines that the supply of any property described in paragraph (1) is insufficient to meet the requirements of the domestic economy, he may by Executive order designate the property as in short supply. Any property so designated shall be treated as property not described in paragraph (1) during the period beginning with the date specified in the Executive order and ending with the date specified in an Executive order setting forth the President’s determination that the property is no longer in short supply.
 - **(d)**

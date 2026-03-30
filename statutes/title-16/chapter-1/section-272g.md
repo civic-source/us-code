@@ -3,9 +3,9 @@ title: "Section 272g - Land exchange involving school trust land"
 usc_title: 16
 usc_section: "272g"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 272g"
-generated_at: "2026-03-30T07:46:15.272Z"
+generated_at: "2026-03-30T07:49:05.905Z"
 status: "active"
 ---
 

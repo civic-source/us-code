@@ -3,9 +3,9 @@ title: "Section 14108 - Recommendations by promotion boards"
 usc_title: 10
 usc_section: "14108"
 chapter: 1403
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 14108"
-generated_at: "2026-03-30T07:45:51.466Z"
+generated_at: "2026-03-30T07:48:44.013Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** A promotion board convened under section 14101(a) of this title may not recommend an officer for promotion unless—
   - **(1)** the officer receives the recommendation of a majority of the members of the board;
   - **(2)** a majority of the members of the board finds that the officer is fully qualified for promotion; and
-  - **(3)** a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 14107 of this title , finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
+  - **(3)** a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under section 14107 of this title , finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable.
 - **(c)** Except as otherwise provided by law, an officer on the reserve active-status list may not be promoted to a higher grade under chapter 1405 of this title unless the officer is considered and recommended for promotion to that grade by a promotion board convened under section 14101(a) of this title (or by a special selection board convened under section 14502 of this title ).
 - **(d)** The recommendations of a promotion board may be disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary concerned to assist the board) until the written report of the recommendations of the board, required by section 14109 of this title , is signed by each member of the board.
 - **(e)** The Secretary convening a promotion board under section 14101(a) of this title , and an officer or other official exercising authority over any member of a selection board, may not—

@@ -3,9 +3,9 @@ title: "Section 8532 - Commercial weather data"
 usc_title: 15
 usc_section: "8532"
 chapter: 111
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 8532"
-generated_at: "2026-03-30T07:45:59.019Z"
+generated_at: "2026-03-30T07:48:52.228Z"
 status: "active"
 ---
 
@@ -33,7 +33,7 @@ status: "active"
       - **(i)** the viability of assimilating the commercially provided data into National Oceanic and Atmospheric Administration meteorological models;
       - **(ii)** whether, and by how much, the data add value to weather forecasts; and
       - **(iii)** the accuracy, quality, timeliness, validity, reliability, usability, information technology security, and cost-effectiveness of obtaining commercial weather data from private sector providers.
-  - **(3)** For each of fiscal years 2017 through 2020, there are authorized to be appropriated for procurement, acquisition, and construction at National 1 Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
+  - **(3)** For each of fiscal years 2019 through 2023, there are authorized to be appropriated for procurement, acquisition, and construction at the National Environmental Satellite, Data, and Information Service, $6,000,000 to carry out this subsection.
 - **(d)** If an assessment under subsection (c)(2)(B) demonstrates the ability of commercial weather data to meet data and metadata standards and specifications published under subsection (c)(1), the Under Secretary shall—
   - **(1)** where appropriate, cost-effective, and feasible, obtain commercial weather data from private sector providers;
   - **(2)** as early as possible in the acquisition process for any future National Oceanic and Atmospheric Administration meteorological space system, consider whether there is a suitable, cost-effective, commercial capability available or that will be available to meet any or all of the observational requirements by the planned operational date of the system;

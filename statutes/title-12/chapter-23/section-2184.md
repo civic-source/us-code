@@ -3,16 +3,16 @@ title: "Section 2184 - Communications with stockholders"
 usc_title: 12
 usc_section: "2184"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 2184"
-generated_at: "2026-03-30T07:46:02.792Z"
+generated_at: "2026-03-30T07:48:49.540Z"
 status: "active"
 ---
 
 # § 2184. Communications with stockholders
 
 - **(a)**
-  - **(1)** Within 7 days after receipt of a written request by a stockholder, a bank for cooperatives, Federal land bank association, or production credit association shall provide a current list of its stockholders to such requesting stockholder.
+  - **(1)** A Farm Credit System bank or association shall provide to a stockholder of the bank or association a current list of stockholders of the bank or association not later than 7 calendar days after the date on which the bank or association receives a written request for the stockholder list from the stockholder.
   - **(2)** As a condition of providing a stockholder list under paragraph (1), the bank or association may require that the stockholder agree and certify in writing that the stockholder will—
     - **(A)** use the list exclusively for communicating with stockholders for permissible purposes; and
     - **(B)** not make the list available to any person, other than the stockholder’s attorney or accountant, without first obtaining the written consent of the institution.

@@ -3,9 +3,9 @@ title: "Section 3149 - Grants for economic adjustment"
 usc_title: 42
 usc_section: "3149"
 chapter: 38
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 3149"
-generated_at: "2026-03-30T07:47:00.093Z"
+generated_at: "2026-03-30T07:50:07.009Z"
 status: "active"
 ---
 
@@ -33,3 +33,4 @@ status: "active"
   - **(4)**
     - **(A)** No securities issued pursuant to paragraph (2)(C) shall be treated as exempted securities for purposes of the Securities Act of 1933 ( 15 U.S.C. 77a et seq.) or the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.), unless exempted by rule or regulation of the Securities and Exchange Commission.
     - **(B)** Except as provided in subparagraph (A), no provision of this subsection or any regulation promulgated by the Secretary under this subsection supersedes or otherwise affects the application of the securities laws (as the term is defined in section 3(a) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a) )) or the rules, regulations, or orders of the Securities and Exchange Commission or a self-regulatory organization under that Commission.
+- **(e)** In providing assistance pursuant to subsection (c)(2), if appropriate and as applicable, the Secretary may encourage hazard mitigation in assistance provided pursuant to such subsection.

@@ -1,15 +1,15 @@
 ---
-title: "Section 833 - Art. 33. Forwarding of charges"
+title: "Section 833 - Art 33. Disposition guidance"
 usc_title: 10
 usc_section: "833"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 833"
-generated_at: "2026-03-30T07:45:51.252Z"
+generated_at: "2026-03-30T07:48:43.896Z"
 status: "active"
 ---
 
-# § 833. Art. 33. Forwarding of charges
+# § 833. Art 33. Disposition guidance
 
-When a person is held for trial by general court-martial the commanding officer shall, within eight days after the accused is ordered into arrest or confinement, if practicable, forward the charges, together with the investigation and allied papers, to the officer exercising general court-martial jurisdiction. If that is not practicable, he shall report in writing to that officer the reasons for delay.
+The President shall direct the Secretary of Defense to issue, in consultation with the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy, non-binding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to disposition of charges and specifications in the interest of justice and discipline under sections 830 and 834 of this title (articles 30 and 34). Such guidance shall take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Government with respect to disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
 

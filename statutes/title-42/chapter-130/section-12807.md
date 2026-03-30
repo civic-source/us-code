@@ -3,9 +3,9 @@ title: "Section 12807 - Low-income housing conservation and efficiency grant pro
 usc_title: 42
 usc_section: "12807"
 chapter: 130
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 12807"
-generated_at: "2026-03-30T07:47:00.317Z"
+generated_at: "2026-03-30T07:50:07.240Z"
 status: "active"
 ---
 

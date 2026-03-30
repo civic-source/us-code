@@ -3,9 +3,9 @@ title: "Section 8334 - Deductions, contributions, and deposits"
 usc_title: 5
 usc_section: "8334"
 chapter: 83
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 8334"
-generated_at: "2026-03-30T07:45:39.147Z"
+generated_at: "2026-03-30T07:48:04.608Z"
 status: "active"
 ---
 
@@ -59,6 +59,10 @@ status: "active"
   - **(3)** Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
   - **(4)** The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, as appropriate, shall furnish such information to the Office as the Office may determine to be necessary for the administration of this subsection.
   - **(5)** Effective with respect to any period of military service after December 31, 1998 , the percentage of basic pay under section 204 of title 37 payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for that same period for service as an employee, subject to paragraph (1)(B).
+  - **(6)**
+    - **(A)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the employing agency of such employee, Member, or annuitant makes an administrative error, such employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+    - **(B)** For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or Congressional employee.
+    - **(C)** The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 - **(k)**
   - **(1)** Effective with respect to pay periods beginning after December 31, 1986 , in administering this section in the case of an individual described in section 8402(b)(2) of this title —
     - **(A)** the amount to be deducted and withheld by the employing agency shall be determined in accordance with paragraph (2) of this subsection instead of subsection (a)(1)(A); and
@@ -86,5 +90,10 @@ status: "active"
     - **(B)** the date on which the employee or Member making the deposit first becomes an employee or Member,
   - **(3)** The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
   - **(4)** Effective with respect to any period of service after December 31, 1998 , the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
+  - **(5)**
+    - **(A)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if an employing agency of such employee, Member, or annuitant makes an administrative error that causes additional interest assessed to accrue on the deposit, the employing agency may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+    - **(B)** In calculating and processing the deposit under paragraph (1) with respect to an employee, Member, or annuitant, if the Office of Personnel Management makes an administrative error that causes additional interest assessed to accrue on the deposit, the Office of Personnel Management may pay, on behalf of the employee, Member, or annuitant, any additional interest assessed due to the administrative error.
+    - **(C)** For purposes of subparagraph (A), the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate, shall be considered the employing agency of a Member or congressional employee.
+    - **(D)** The Director of the Office of Personnel Management shall issue such regulations as are necessary to carry out this paragraph.
 - **(m)** A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 - **(n)** Notwithstanding subsection (c), no deposit may be made with respect to service credited under section 8332(b)(17).

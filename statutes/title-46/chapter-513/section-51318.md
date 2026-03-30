@@ -3,9 +3,9 @@ title: "Section 51318 - Policy on sexual harassment, dating violence, domestic v
 usc_title: 46
 usc_section: "51318"
 chapter: 513
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 51318"
-generated_at: "2026-03-30T07:47:17.808Z"
+generated_at: "2026-03-30T07:50:11.289Z"
 status: "active"
 ---
 
@@ -14,18 +14,20 @@ status: "active"
 - **(a)**
   - **(1)** The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking applicable to the cadets and other personnel of the Academy.
   - **(2)** The policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking prescribed under this subsection shall include—
-    - **(A)** a program to promote awareness of the incidence of rape, acquaintance rape, domestic violence, dating violence, stalking, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
-    - **(B)** procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
+    - **(A)** a program to promote awareness and prevention of the incidence of rape, acquaintance rape, domestic violence, dating violence, stalking, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel;
+    - **(B)** procedures for documenting, tracking, and maintaining the data required to conduct the annual assessments to determine the effectiveness of the policies, procedures, and training program of the Academy with respect to sexual harassment, dating violence, domestic violence, sexual assault, and stalking involving cadets or other Academy personnel, as required by subsection (c);
+    - **(C)** procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
       - **(i)** specifying the person or persons to whom an alleged occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking should be reported by the victim and the options for confidential reporting;
       - **(ii)** specifying any other person whom the victim should contact; and
       - **(iii)** procedures on the preservation of evidence potentially necessary for proof of a criminal sexual offense;
-    - **(C)** a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
-    - **(D)** any other sanction authorized to be imposed in a substantiated case of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
-    - **(E)** procedures through which—
+    - **(D)** procedures for investigating sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel to determine whether disciplinary action is necessary;
+    - **(E)** a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel;
+    - **(F)** any other sanction authorized to be imposed in a substantiated case of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible;
+    - **(G)** procedures through which—
       - **(i)** questions regarding sexual harassment, dating violence, domestic violence, sexual assault, or stalking can be confidentially asked and confidentially answered;
       - **(ii)** victims can report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking confidentially; and
       - **(iii)** the privacy of victims of sexual harassment, dating violence, domestic violence, sexual assault, or stalking will be protected; and
-    - **(F)** required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving Academy personnel.
+    - **(H)** required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment, dating violence, domestic violence, sexual assault, or stalking involving Academy personnel.
   - **(3)**
     - **(A)** The Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to develop a mandatory training program at the Academy for each individual who is involved in implementing the Academy’s student disciplinary grievance procedures, including each individual who is responsible for—
       - **(i)** resolving complaints of reported sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
@@ -56,7 +58,7 @@ status: "active"
     - **(B)** includes a brief history of the problem of sexual harassment, dating violence, domestic violence, sexual assault, and stalking in the merchant marine, in the Armed Forces, and at the Academy; and
     - **(C)** includes information relating to reporting sexual harassment, dating violence, domestic violence, sexual assault, and stalking, victims’ rights, and dismissal for offenders.
   - **(2)**
-    - **(A)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to implement and maintain a plan to combat retaliation against cadets at the Academy who report sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
+    - **(A)** Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, the Maritime Administrator shall direct the Superintendent of the United States Merchant Marine Academy to implement and maintain a plan to combat retaliation against cadets at the Academy and other Academy personnel who report sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
     - **(B)** The Superintendent shall consider an act of retaliation against a cadet at the Academy who reports sexual harassment, dating violence, domestic violence, sexual assault, or stalking as a Class I violation of the Midshipman Regulations of the Academy or equivalent code of conduct.
     - **(C)** The Superintendent shall work with the sexual assault prevention and response staff of the Academy to define “retaliation” for purposes of this subsection.
   - **(3)**
@@ -84,7 +86,7 @@ status: "active"
 - **(d)**
   - **(1)** For each Academy program year, the Superintendent shall submit to the Secretary a report that provides information about sexual harassment and sexual assault involving cadets or other Academy personnel.
   - **(2)** Each report submitted under paragraph (1) shall include, for the Academy program year covered by the report—
-    - **(A)** the number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials;
+    - **(A)** the number of sexual assaults, rapes, and other sexual offenses, including sexual harassment, involving cadets or other Academy personnel that have been reported to Academy officials;
     - **(B)** the number of the reported cases described in subparagraph (A) that have been substantiated;
     - **(C)** the policies, procedures, and training implemented by the Superintendent and the leadership of the Academy in response to incidents of sexual harassment and sexual assault involving cadets and other Academy personnel; and
     - **(D)** a plan for the actions that will be taken in the following Academy program year regarding prevention of, and response to, incidents of sexual harassment and sexual assault involving cadets and other Academy personnel.
@@ -95,7 +97,7 @@ status: "active"
     - **(A)** For each incident of sexual harassment or sexual assault reported to the Superintendent, the Superintendent shall provide to the Secretary and the Board of Visitors of the Academy a report that includes—
       - **(i)** the facts surrounding the incident, except for any details that would reveal the identities of the people involved; and
       - **(ii)** the Academy’s response to the incident.
-    - **(B)** The Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary’s comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+    - **(B)** Not later than January 15 of each year, the Secretary shall submit a copy of each report received under subparagraph (A) and the Secretary’s comments on the report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 - **(e)**
   - **(1)** No requirement related to confidentiality in this section or section 51319 of this title may be construed to prevent a sexual assault response coordinator from providing information for any report required by law regarding sexual harassment, dating violence, domestic violence, sexual assault, or stalking.
   - **(2)** Any information provided for a report referred to in paragraph (1) shall be provided in a manner that protects the identity of the victim or witness.

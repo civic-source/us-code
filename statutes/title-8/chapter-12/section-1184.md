@@ -3,9 +3,9 @@ title: "Section 1184 - Admission of nonimmigrants"
 usc_title: 8
 usc_section: "1184"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "8 U.S.C. § 1184"
-generated_at: "2026-03-30T07:45:42.539Z"
+generated_at: "2026-03-30T07:48:21.449Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
       - **(i)** No nonimmigrant visa under section 1101(a)(15)(P)(i)(a) of this title shall be issued to any alien who is a national of a country that is a state sponsor of international terrorism unless the Secretary of State determines, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that such alien does not pose a threat to the safety, national security, or national interest of the United States. In making a determination under this subparagraph, the Secretary of State shall apply standards developed by the Secretary of State, in consultation with the Secretary of Homeland Security and the heads of other appropriate United States agencies, that are applicable to the nationals of such states.
       - **(ii)** In this subparagraph, the term “state sponsor of international terrorism” means any country the government of which has been determined by the Secretary of State under any of the laws specified in clause (iii) to have repeatedly provided support for acts of international terrorism.
       - **(iii)** The laws specified in this clause are the following:
-        - **(I)** Section 4605(j)(1)(A) of title 50 (or successor statute).
+        - **(I)** Section 4605(j)(1)(A) of title 50 (or successor statute). 1 1 See References in Text note below.
         - **(II)** Section 2780(d) of title 22 .
         - **(III)** Section 2371(a) of title 22 .
     - **(G)** The Secretary of Homeland Security shall permit a petition under this subsection to seek classification of more than 1 alien as a nonimmigrant under section 1101(a)(15)(P)(i)(a) of this title .
@@ -88,7 +88,7 @@ status: "active"
     - **(D)** The number of such petitions which have been withdrawn.
     - **(E)** The number of such petitions which are awaiting final action.
   - **(9)**
-    - **(A)** The Attorney General shall impose a fee on an employer (excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20 , a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization) filing before 1 1 So in original. The word “before” probably should not appear. a petition under paragraph (1)—
+    - **(A)** The Attorney General shall impose a fee on an employer (excluding any employer that is a primary or secondary education institution, an institution of higher education, as defined in section 1001(a) of title 20 , a nonprofit entity related to or affiliated with any such institution, a nonprofit entity which engages in established curriculum-related clinical training of students registered at any such institution, a nonprofit research organization, or a governmental research organization) filing before 2 2 So in original. The word “before” probably should not appear. a petition under paragraph (1)—
       - **(i)** initially to grant an alien nonimmigrant status described in section 1101(a)(15)(H)(i)(b) of this title ;
       - **(ii)** to extend the stay of an alien having such status (unless the employer previously has obtained an extension for such alien); or
       - **(iii)** to obtain authorization for an alien having such status to change employers.
@@ -134,7 +134,7 @@ status: "active"
         - **(III)** the petitioner committed, was arrested for, was convicted of, or pled guilty to committing a crime that did not result in serious bodily injury and where there was a connection between the crime and the petitioner’s having been battered or subjected to extreme cruelty.
       - **(iii)** In acting on applications under this subparagraph, the Secretary of Homeland Security shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Secretary.
   - **(3)** In this subsection:
-    - **(A)** The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005. 2 2 See References in Text note below.
+    - **(A)** The terms “domestic violence”, “sexual assault”, “child abuse and neglect”, “dating violence”, “elder abuse”, and “stalking” have the meaning given such terms in section 3 of the Violence Against Women and Department of Justice Reauthorization Act of 2005. 1
     - **(B)** The term “specified crime” means the following:
       - **(i)** Domestic violence, sexual assault, child abuse and neglect, dating violence, elder abuse, stalking, or an attempt to commit any such crime.
       - **(ii)** Homicide, murder, manslaughter, rape, abusive sexual contact, sexual exploitation, incest, torture, trafficking, peonage, holding hostage, involuntary servitude, slave trade, kidnapping, abduction, unlawful criminal restraint, false imprisonment, or an attempt to commit any of the crimes described in this clause.

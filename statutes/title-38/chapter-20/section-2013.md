@@ -3,9 +3,9 @@ title: "Section 2013 - Program to improve retention of housing by formerly homel
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-30T07:46:46.215Z"
+generated_at: "2026-03-30T07:49:45.555Z"
 status: "active"
 ---
 

@@ -1,0 +1,19 @@
+---
+title: "Section 18601 - Definitions"
+usc_title: 42
+usc_section: "18601"
+chapter: 161
+current_through: "PL 116-10"
+classification: "42 U.S.C. § 18601"
+generated_at: "2026-03-30T07:50:07.307Z"
+status: "active"
+---
+
+# § 18601. Definitions
+
+In this chapter:
+
+  - **(1)** The term “Department” means the Department of Energy.
+  - **(2)** The term “Director” means the Director of the Office of Science of the Department, except as otherwise indicated.
+  - **(3)** The term “National Laboratory” has the meaning given that term in section 15801 of this title .
+  - **(4)** The term “Secretary” means the Secretary of Energy.

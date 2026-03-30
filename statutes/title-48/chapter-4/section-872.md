@@ -3,9 +3,9 @@ title: "Section 872 - Habeas corpus; mandamus; suit to restrain assessment or co
 usc_title: 48
 usc_section: "872"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "48 U.S.C. § 872"
-generated_at: "2026-03-30T07:47:03.056Z"
+generated_at: "2026-03-30T07:50:10.088Z"
 status: "active"
 ---
 

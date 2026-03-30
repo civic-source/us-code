@@ -3,9 +3,9 @@ title: "Section 2289a - Consideration of measures"
 usc_title: 33
 usc_section: "2289a"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2289a"
-generated_at: "2026-03-30T07:46:37.819Z"
+generated_at: "2026-03-30T07:49:41.215Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** In this section, the following definitions apply:
   - **(1)** The term “natural feature” means a feature that is created through the action of physical, geological, biological, and chemical processes over time.
-  - **(2)** The term “nature-based feature” means a feature that is created by human design, engineering, and construction to provide risk reduction in coastal areas by acting in concert with natural processes.
+  - **(2)** The term “nature-based feature” means a feature that is created by human design, engineering, and construction to provide risk reduction by acting in concert with natural processes.
 - **(b)** In studying the feasibility of projects for flood risk management, hurricane and storm damage reduction, and ecosystem restoration the Secretary shall, with the consent of the non-Federal sponsor of the feasibility study, consider, as appropriate—
   - **(1)** natural features;
   - **(2)** nature-based features;

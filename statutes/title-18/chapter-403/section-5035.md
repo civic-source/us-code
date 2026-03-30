@@ -3,9 +3,9 @@ title: "Section 5035 - Detention prior to disposition"
 usc_title: 18
 usc_section: "5035"
 chapter: 403
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 5035"
-generated_at: "2026-03-30T07:46:07.424Z"
+generated_at: "2026-03-30T07:48:55.512Z"
 status: "active"
 ---
 

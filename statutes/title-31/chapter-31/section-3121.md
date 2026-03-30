@@ -3,9 +3,9 @@ title: "Section 3121 - Procedure"
 usc_title: 31
 usc_section: "3121"
 chapter: 31
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "31 U.S.C. § 3121"
-generated_at: "2026-03-30T07:46:36.886Z"
+generated_at: "2026-03-30T07:49:39.763Z"
 status: "active"
 ---
 

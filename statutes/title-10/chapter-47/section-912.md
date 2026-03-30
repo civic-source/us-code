@@ -1,15 +1,16 @@
 ---
-title: "Section 912 - Art. 112. Drunk on duty"
+title: "Section 912 - Art. 112. Drunkenness and other incapacitation offenses"
 usc_title: 10
 usc_section: "912"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 912"
-generated_at: "2026-03-30T07:45:51.261Z"
+generated_at: "2026-03-30T07:48:43.900Z"
 status: "active"
 ---
 
-# § 912. Art. 112. Drunk on duty
+# § 912. Art. 112. Drunkenness and other incapacitation offenses
 
-Any person subject to this chapter other than a sentinel or look-out, who is found drunk on duty, shall be punished as a court-martial may direct.
-
+- **(a)** Any person subject to this chapter who is drunk on duty shall be punished as a court-martial may direct.
+- **(b)** Any person subject to this chapter who, as a result of indulgence in any alcoholic beverage or any drug, is incapacitated for the proper performance of duty shall be punished as a court-martial may direct.
+- **(c)** Any person subject to this chapter who is a prisoner and, while in such status, is drunk shall be punished as a court-martial may direct.

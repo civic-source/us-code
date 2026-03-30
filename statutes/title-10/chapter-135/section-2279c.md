@@ -1,0 +1,21 @@
+---
+title: "Section 2279c - Air Force Space Command"
+usc_title: 10
+usc_section: "2279c"
+chapter: 135
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 2279c"
+generated_at: "2026-03-30T07:48:43.947Z"
+status: "active"
+---
+
+# § 2279c. Air Force Space Command
+
+- **(a)**
+  - **(1)** The head of the Air Force Space Command shall be the Commander of the Air Force Space Command, who shall be appointed in accordance with section 601 of this title . The officer serving as Commander, while so serving, has the grade of general without vacating the permanent grade of the officer.
+  - **(2)** The Commander shall be appointed to serve a term of six years. The Secretary may propose to promote the individual serving as the Commander during that term of appointment.
+  - **(3)** The incumbent Commander may serve as the first Commander after December 12, 2017 .
+- **(b)** In addition to the authorities and responsibilities assigned to the Commander before December 12, 2017 , the Commander has the sole authority with respect to each of the following:
+  - **(1)** Organizing, training, and equipping personnel and operations of the space forces of the Air Force.
+  - **(2)** Subject to the direction of the Secretary of the Air Force, serving as the service acquisition executive under section 1704 of this title for defense space acquisitions.
+  - **(3)** In consultation with the Chief Information Officer of the Department of Defense, procurement of commercial satellite communications services for the Department of Defense for such services entered into after December 11, 2018 .

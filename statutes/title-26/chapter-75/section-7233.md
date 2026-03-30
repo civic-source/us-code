@@ -3,9 +3,9 @@ title: "Section 7233 - Repealed. Pub. L. 94–455, title XIX , § 1952(n)(2)(A),
 usc_title: 26
 usc_section: "7233"
 chapter: 75
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 7233"
-generated_at: "2026-03-30T07:46:33.417Z"
+generated_at: "2026-03-30T07:49:37.214Z"
 status: "repealed"
 ---
 

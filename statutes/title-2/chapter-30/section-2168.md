@@ -3,9 +3,9 @@ title: "Section 2168 - Memorandum of understanding for provision of services of 
 usc_title: 2
 usc_section: "2168"
 chapter: 30
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 2168"
-generated_at: "2026-03-30T07:45:37.433Z"
+generated_at: "2026-03-30T07:48:12.689Z"
 status: "active"
 ---
 

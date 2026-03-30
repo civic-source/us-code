@@ -3,16 +3,16 @@ title: "Section 6941 - Under Secretary of Agriculture for Rural Development"
 usc_title: 7
 usc_section: "6941"
 chapter: 98
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 6941"
-generated_at: "2026-03-30T07:45:46.592Z"
+generated_at: "2026-03-30T07:48:18.780Z"
 status: "active"
 ---
 
 # § 6941. Under Secretary of Agriculture for Rural Development
 
-- **(a)** The Secretary is authorized to establish in the Department the position of Under Secretary of Agriculture for Rural Development.
-- **(b)** If the Secretary establishes the position of Under Secretary of Agriculture for Rural Development authorized under subsection (a), the Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
+- **(a)** The Secretary shall establish in the Department the position of Under Secretary of Agriculture for Rural Development.
+- **(b)** The Under Secretary of Agriculture for Rural Development shall be appointed by the President, by and with the advice and consent of the Senate.
 - **(c)**
   - **(1)** Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Rural Development those functions under the jurisdiction of the Department that are related to rural economic and community development.
   - **(2)** The Under Secretary of Agriculture for Rural Development shall perform such other functions as may be required by law or prescribed by the Secretary.

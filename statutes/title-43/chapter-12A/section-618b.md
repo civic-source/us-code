@@ -3,9 +3,9 @@ title: "Section 618b - Reduction of payments and transfers where revenue is insu
 usc_title: 43
 usc_section: "618b"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 618b"
-generated_at: "2026-03-30T07:46:48.667Z"
+generated_at: "2026-03-30T07:49:48.813Z"
 status: "active"
 ---
 

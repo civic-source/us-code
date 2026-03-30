@@ -1,35 +1,13 @@
 ---
-title: "Section 145 - Cyber Security Enhancement Act of 2002"
+title: "Section 145 - Transferred"
 usc_title: 6
 usc_section: "145"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 145"
-generated_at: "2026-03-30T07:45:41.895Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.881Z"
+status: "transferred"
 ---
 
-# § 145. Cyber Security Enhancement Act of 2002
+# § 145. Transferred
 
-- **(a)** This section may be cited as the “Cyber Security Enhancement Act of 2002”.
-- **(b)**
-  - **(1)** Pursuant to its authority under section 994(p) of title 28 and in accordance with this subsection, the United States Sentencing Commission shall review and, if appropriate, amend its guidelines and its policy statements applicable to persons convicted of an offense under section 1030 of title 18 .
-  - **(2)** In carrying out this subsection, the Sentencing Commission shall—
-    - **(A)** ensure that the sentencing guidelines and policy statements reflect the serious nature of the offenses described in paragraph (1), the growing incidence of such offenses, and the need for an effective deterrent and appropriate punishment to prevent such offenses;
-    - **(B)** consider the following factors and the extent to which the guidelines may or may not account for them—
-      - **(i)** the potential and actual loss resulting from the offense;
-      - **(ii)** the level of sophistication and planning involved in the offense;
-      - **(iii)** whether the offense was committed for purposes of commercial advantage or private financial benefit;
-      - **(iv)** whether the defendant acted with malicious intent to cause harm in committing the offense;
-      - **(v)** the extent to which the offense violated the privacy rights of individuals harmed;
-      - **(vi)** whether the offense involved a computer used by the government in furtherance of national defense, national security, or the administration of justice;
-      - **(vii)** whether the violation was intended to or had the effect of significantly interfering with or disrupting a critical infrastructure; and
-      - **(viii)** whether the violation was intended to or had the effect of creating a threat to public health or safety, or injury to any person;
-    - **(C)** assure reasonable consistency with other relevant directives and with other sentencing guidelines;
-    - **(D)** account for any additional aggravating or mitigating circumstances that might justify exceptions to the generally applicable sentencing ranges;
-    - **(E)** make any necessary conforming changes to the sentencing guidelines; and
-    - **(F)** assure that the guidelines adequately meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18 .
-- **(c)** Not later than May 1, 2003 , the United States Sentencing Commission shall submit a brief report to Congress that explains any actions taken by the Sentencing Commission in response to this section and includes any recommendations the Commission may have regarding statutory penalties for offenses under section 1030 of title 18 .
-- **(d)**
-  - **(1)**
-  - **(2)** A government entity that receives a disclosure under section 2702(b) of title 18 shall file, not later than 90 days after such disclosure, a report to the Attorney General stating the paragraph of that section under which the disclosure was made, the date of the disclosure, the entity to which the disclosure was made, the number of customers or subscribers to whom the information disclosed pertained, and the number of communications, if any, that were disclosed. The Attorney General shall publish all such reports into a single report to be submitted to Congress 1 year after November 25, 2002 .

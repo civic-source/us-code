@@ -3,15 +3,25 @@ title: "Section 5925 - High-priority research and extension initiatives"
 usc_title: 7
 usc_section: "5925"
 chapter: 88
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 5925"
-generated_at: "2026-03-30T07:45:46.574Z"
+generated_at: "2026-03-30T07:48:18.767Z"
 status: "active"
 ---
 
 # § 5925. High-priority research and extension initiatives
 
-- **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+- **(a)**
+  - **(1)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g).
+  - **(2)**
+    - **(A)** Subject to subparagraph (C), an entity receiving a grant under paragraph (1) shall provide non-Federal matching funds (including funds from an agricultural commodity promotion, research, and information program) equal to not less than the amount of the grant.
+    - **(B)** Non-Federal matching funds described in subparagraph (A) may include in-kind support.
+    - **(C)** The Secretary may waive the matching funds requirement under subparagraph (A) with respect to a research project if the Secretary determines that—
+      - **(i)** the results of the project are of a particular benefit to a specific agricultural commodity, but those results are likely to be applicable to agricultural commodities generally; or
+      - **(ii)**
+        - **(I)** the project—
+        - **(II)** the recipient is unable to satisfy the matching funds requirement.
+  - **(3)** The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 - **(b)**
   - **(1)** Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of grants under this section.
   - **(2)** To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
@@ -24,11 +34,49 @@ status: "active"
   - **(5)** Research and extension grants may be made under this section to support food and agricultural science at a consortium of land-grant institutions in the American-Pacific region.
   - **(6)** Research grants may be made under this section, in equal dollar amounts to the Caribbean and Pacific Basins, to support tropical and subtropical agricultural research, including pest and disease research, at the land-grant institutions in the Caribbean and Pacific regions.
   - **(7)** Research and extension grants may be made under this section to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics, with priority given to eligible institutions that carry out continuing programs funded by the Secretary.
-  - **(8)** Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa and forage yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa and other forages, and systems to reduce losses during harvest and storage.
+  - **(8)** Research and extension grants may be made under this section for the purpose of studying improvements in alfalfa seed and alfalfa forage systems yields, biomass and persistence, pest pressures, the bioenergy potential of alfalfa seed and other alfalfa forage systems to reduce losses during harvest and storage.
   - **(9)** Research and extension grants may be made under this section for the purposes of—
     - **(A)** developing and disseminating science-based tools and treatments to combat the coffee berry borer (Hypothenemus hampei); and
     - **(B)** establishing an areawide integrated pest management program in areas affected by, or areas at risk of, being affected by the coffee berry borer.
   - **(10)** Research and extension grants may be made under this section for the purpose of carrying out or enhancing research to improve the digestibility, nutritional value, and efficiency of the use of corn, soybean meal, cereal grains, and grain byproducts for the poultry and food animal production industries.
+  - **(11)** Research and extension grants may be made under this section for the purposes of—
+    - **(A)** developing and disseminating science-based tools and treatments to combat the macadamia felted coccid ( Eriococcus ironsidei ); and
+    - **(B)** establishing an areawide integrated pest management program in areas affected by, or areas at risk of being affected by, the macadamia felted coccid.
+  - **(12)** Research and extension grants may be made under this section for the purposes of—
+    - **(A)** carrying out or enhancing research related to turfgrass and sod issues;
+    - **(B)** enhancing production and uses of turfgrass for the general public;
+    - **(C)** identifying new turfgrass varieties with superior drought, heat, cold, and pest tolerance to reduce water, fertilizer, and pesticide use;
+    - **(D)** selecting genetically superior turfgrasses and developing improved technologies for managing commercial, residential, and recreational turfgrass areas;
+    - **(E)** producing turfgrasses that—
+      - **(i)** aid in mitigating soil erosion;
+      - **(ii)** protect against pollutant runoff into waterways; or
+      - **(iii)** provide other environmental benefits;
+    - **(F)** investigating, preserving, and protecting native plant species, including grasses not currently utilized in turfgrass systems;
+    - **(G)** creating systems for more economical and viable turfgrass seed and sod production throughout the United States; and
+    - **(H)** investigating the turfgrass phytobiome and developing biologic products to enhance soil, enrich plants, and mitigate pests.
+  - **(13)**
+    - **(A)** Research and extension grants may be made under this section for the purpose of carrying out research to improve fertilizer use efficiency in crops—
+      - **(i)** to maximize crop yield; and
+      - **(ii)** to minimize nutrient losses to surface and groundwater and the atmosphere.
+    - **(B)** In awarding grants under subparagraph (A), the Secretary shall give priority to research examining the impact of the source, rate, timing, and placement of plant nutrients.
+  - **(14)** Research and extension grants may be made under this section to study cattle fever ticks—
+    - **(A)** to facilitate the understanding of the role of wildlife in the persistence and spread of cattle fever ticks;
+    - **(B)** to develop advanced methods for eradication of cattle fever ticks, including—
+      - **(i)** alternative treatment methods for cattle and other susceptible species;
+      - **(ii)** field treatment for premises, including corral pens and pasture loafing areas;
+      - **(iii)** methods for treatment and control on infested wildlife;
+      - **(iv)** biological control agents; and
+      - **(v)** new and improved vaccines;
+    - **(C)** to evaluate rangeland vegetation that impacts the survival of cattle fever ticks;
+    - **(D)** to improve management of diseases relating to cattle fever ticks that are associated with wildlife, livestock, and human health;
+    - **(E)** to improve diagnostic detection of tick-infested or infected animals and pastures; and
+    - **(F)** to conduct outreach to impacted ranchers, hunters, and landowners to integrate tactics and document sustainability of best practices.
+  - **(15)** Research grants may be made under this section for the purpose of improving the efficiency and sustainability of laying hen and turkey production through integrated, collaborative research and technology transfer. Emphasis may be placed on laying hen and turkey disease prevention, antimicrobial resistance, nutrition, gut health, and alternative housing systems under extreme seasonal weather conditions.
+  - **(16)** Research and extension grants may be made under this section for the purposes of supporting research projects at land-grant colleges and universities (as defined in section 3103 of this title ) with established deer research programs for the purposes of treating, mitigating, or eliminating chronic wasting disease.
+  - **(17)** Research and extension grants may be made under this section for the development and testing of algae and algae systems (including micro- and macro-algae systems).
+  - **(18)** Research and extension grants may be made under this section for the purposes of examining nutrient management based on the source, rate, timing, and placement of crop nutrients.
+  - **(19)** Research and extension grants may be made under this section for the purposes of carrying out or enhancing research on the utilization of big data for more precise management of dryland farming agricultural systems.
+  - **(20)** Research and extension grants may be made under this section for the purposes of developing and disseminating science-based tools and treatments to combat diseases of hops caused by the plant pathogens Podosphaera macularis and Pseudoperonospora humuli .
 - **(e)**
   - **(1)** In this subsection:
     - **(A)** The term “Initiative” means the pulse crop health initiative established by paragraph (2).
@@ -52,7 +100,7 @@ status: "active"
   - **(4)** In making competitive grants under this subsection, the Secretary shall provide a higher priority to projects that—
     - **(A)** are multistate, multiinstitutional, and multidisciplinary; and
     - **(B)** include explicit mechanisms to communicate results to the pulse crop industry and the public.
-  - **(5)** There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2018.
+  - **(5)** There are authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
 - **(f)**
   - **(1)** The Secretary shall make a competitive grant to, or enter into a contract or a cooperative agreement with, an eligible entity (described in paragraph (2)) for purposes of establishing an internationally integrated training system to enhance the protection of the food supply in the United States, to be known as the “Comprehensive Food Safety Training Network” (referred to in this subsection as the “Network”).
   - **(2)**
@@ -69,7 +117,7 @@ status: "active"
     - **(F)** assisting Federal agencies in the implementation of food safety protection training requirements including requirements under the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 301 et seq.), the Agricultural Act of 2014, and any provision of law amended by such Act; and
     - **(G)** performing evaluation and outcome-based studies to provide to the Secretary information on the effectiveness and impact of training and metrics on jurisdictions and sectors within the food safety system.
   - **(4)** An eligible entity may alter the consortium membership to meet specific training expertise needs.
-  - **(5)** There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+  - **(5)** There are authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 - **(g)**
   - **(1)**
     - **(A)** Research and extension grants may be made under this section—
@@ -80,21 +128,62 @@ status: "active"
         - **(II)** the sublethal effects of insecticides, herbicides, and fungicides on honey bees and native and managed pollinators;
       - **(iv)** to develop mitigative and preventative measures to improve native and managed pollinator health; and
       - **(v)** to promote the health of honey bees and native pollinators through habitat conservation and best management practices.
-    - **(B)** There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2018.
+    - **(B)** There is authorized to be appropriated to carry out this paragraph $10,000,000 for each of fiscal years 2008 through 2023.
   - **(2)**
     - **(A)** The Secretary shall, to the maximum extent practicable, increase the capacity and infrastructure of the Department—
       - **(i)** to address colony collapse disorder and other long-term threats to pollinator health, including the hiring of additional personnel; and
       - **(ii)** to conduct research on colony collapse disorder and other pollinator issues at the facilities of the Department.
-    - **(B)** There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2018.
-  - **(3)** There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2018.
-  - **(4)** The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
+    - **(B)** There is authorized to be appropriated to carry out this paragraph $7,250,000 for each of fiscal years 2008 through 2023.
+  - **(3)** There is authorized to be appropriated to conduct a nationwide honey bee pest, pathogen, health, and population status surveillance program $2,750,000 for each of fiscal years 2008 through 2023.
+  - **(4)**
+    - **(A)** The Chief Scientist of the Department of Agriculture shall coordinate research, extension, education, and economic activities in the Department of Agriculture relating to native and managed pollinator health and habitat.
+    - **(B)** In carrying out subparagraph (A), the Chief Scientist shall—
+      - **(i)** assign an individual to serve in the Office of the Chief Scientist as a Honeybee and Pollinator Research Coordinator who shall be responsible for leading the efforts of the Chief Scientist in carrying out such subparagraph;
+      - **(ii)** implement and coordinate pollinator health research efforts of the Department, as recommended by the Pollinator Health Task Force;
+      - **(iii)** establish annual strategic priorities and goals for the Department for native and managed pollinator research;
+      - **(iv)** communicate such priorities and goals to each agency or office of the Department of Agriculture, the managed pollinator industry, and relevant grant recipients under programs administered by the Secretary; and
+      - **(v)** coordinate and identify all research on native and managed pollinator health needed and conducted by the Department of Agriculture and relevant grant recipients under programs administered by the Secretary to ensure consistency and reduce unintended duplication of effort.
+    - **(C)** In coordinating research activities under subparagraph (A), the Chief Scientist shall ensure that such research—
+      - **(i)** identifies and addresses the multiple stressors on pollinator health, including pests and pathogens, reduced habitat, lack of nutritional resources, and exposure to pesticides;
+      - **(ii)** evaluates stewardship and management practices of managed pollinators that would impact managed pollinator health;
+      - **(iii)** documents the prevalence of major pests, such as varroa destructor (commonly referred to as the varroa mite), and diseases that are transported between States through practices involving managed pollinators;
+      - **(iv)** evaluates the impact of overcrowding of colonies for pollination services and the impact of such overcrowding on pollinator health status and pollinator health recovery;
+      - **(v)** evaluates and reports on the health differences of managed pollinators in—
+        - **(I)** crops not requiring contract pollination;
+        - **(II)** crops requiring contract pollination; and
+        - **(III)** native habitat;
+      - **(vi)** evaluates the impact of horticultural and agricultural pest management practices on native and managed pollinator colonies in diverse agroecosystems;
+      - **(vii)** documents pesticide residues that are—
+        - **(I)** found in native and managed pollinator colonies; and
+        - **(II)** associated with typical localized commercial crop pest management practices;
+      - **(viii)** with respect to native and managed pollinator colonies visiting crops for crop pollination or honey production purposes, documents—
+        - **(I)** the strength and health of such colonies;
+        - **(II)** the survival, growth, reproduction, and production of such colonies;
+        - **(III)** pests, pathogens, and viruses that affect such colonies;
+        - **(IV)** environmental conditions of such colonies;
+        - **(V)** beekeeper practices; and
+        - **(VI)** any other relevant information, as determined by the Chief Scientist;
+      - **(ix)** documents, with respect to healthy populations of managed pollinators, best management practices and other practices for managed pollinators and crop managers;
+      - **(x)** evaluates the effectiveness of—
+        - **(I)** conservation practices that target the specific needs of native and managed pollinator habitats;
+        - **(II)** incentives that allow for the expansion of native and managed pollinator forage acreage; and
+        - **(III)** managed pollinator breeding practices and efforts to, with respect to managed pollinators, avoid creating a genetic bottleneck and improve genetic diversity;
+      - **(xi)** in the case of commercially managed pollinator colonies, continues to gather data—
+        - **(I)** on an annual basis with respect to losses of such colonies, splits of such colonies, and the total number of pollinator colonies;
+        - **(II)** on rising input costs; and
+        - **(III)** overall economic value to the food economy; and
+      - **(xii)** addresses any other issue relating to native and managed pollinators, as determined by the Chief Scientist, in consultation with scientific experts.
+    - **(D)** The Chief Scientist, to the maximum extent practicable, shall—
+      - **(i)** make publicly available the results of the research described in subparagraph (C); and
+      - **(ii)** in the case of the research described in subparagraph (C)(vi), publish any data or reports that were produced by the Department of Agriculture but not made publicly available during the period beginning on January 1, 2008 , and ending on December 20, 2018 .
+  - **(5)** The Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency, shall publish guidance on enhancing pollinator health and the long-term viability of populations of pollinators, including recommendations related to—
     - **(A)** allowing for managed honey bees to forage on National Forest System lands where compatible with other natural resource management priorities; and
     - **(B)** planting and maintaining managed honey bee and native pollinator foraging on National Forest System lands where compatible with other natural resource management priorities.
-  - **(5)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
+  - **(6)** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report—
     - **(A)** describing the progress made by the Department of Agriculture in—
       - **(i)** investigating the cause or causes of honey bee colony collapse and honey bee health disorders;
       - **(ii)** finding appropriate strategies, including best management practices 1 1 So in original. Probably should be followed by a comma. to reduce colony loss; and
       - **(iii)** addressing the decline of managed honey bees and native pollinators;
     - **(B)** assessing Federal efforts to mitigate pollinator losses and threats to the United States commercial beekeeping industry; and
     - **(C)** providing recommendations to Congress regarding how to better coordinate Federal agency efforts to address the decline of managed honey bees and native pollinators.
-- **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2018.
+- **(h)** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.

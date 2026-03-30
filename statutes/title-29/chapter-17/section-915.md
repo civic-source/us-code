@@ -3,9 +3,9 @@ title: "Section 915 - Repealed. Pub. L. 97–300, title I , § 184(a)(1), Oct. 1
 usc_title: 29
 usc_section: "915"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 915"
-generated_at: "2026-03-30T07:46:27.574Z"
+generated_at: "2026-03-30T07:49:22.783Z"
 status: "repealed"
 ---
 

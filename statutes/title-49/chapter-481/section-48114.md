@@ -3,9 +3,9 @@ title: "Section 48114 - Funding for aviation programs"
 usc_title: 49
 usc_section: "48114"
 chapter: 481
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 48114"
-generated_at: "2026-03-30T07:47:24.850Z"
+generated_at: "2026-03-30T07:50:15.351Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** The total budget resources made available from the Airport and Airway Trust Fund each fiscal year pursuant to sections 48101, 48102, 48103, and 106(k) shall—
       - **(i)** in fiscal year 2013, be equal to 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
-      - **(ii)** in fiscal year 2014 and each fiscal year thereafter, be equal to the sum of—
+      - **(ii)** in fiscal years 2014 through 2018, be equal to the sum of—
         - **(I)** 90 percent of the estimated level of receipts plus interest credited to the Airport and Airway Trust Fund for that fiscal year; and
         - **(II)** the actual level of receipts plus interest credited to the Airport and Airway Trust Fund for the second preceding fiscal year minus the total amount made available for obligation from the Airport and Airway Trust Fund for the second preceding fiscal year.
     - **(B)** No funds may be appropriated or limited for aviation investment programs listed in subsection (b)(1) unless the amount described in subparagraph (A) has been provided.

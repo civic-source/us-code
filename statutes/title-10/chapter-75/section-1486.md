@@ -3,9 +3,9 @@ title: "Section 1486 - Other citizens of United States"
 usc_title: 10
 usc_section: "1486"
 chapter: 75
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1486"
-generated_at: "2026-03-30T07:45:51.308Z"
+generated_at: "2026-03-30T07:48:43.929Z"
 status: "active"
 ---
 

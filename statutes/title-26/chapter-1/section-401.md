@@ -3,9 +3,9 @@ title: "Section 401 - Qualified pension, profit-sharing, and stock bonus plans"
 usc_title: 26
 usc_section: "401"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 401"
-generated_at: "2026-03-30T07:46:33.233Z"
+generated_at: "2026-03-30T07:49:37.058Z"
 status: "active"
 ---
 
@@ -305,7 +305,7 @@ status: "active"
         - **(I)** severance from employment, death, or disability,
         - **(II)** an event described in paragraph (10),
         - **(III)** in the case of a profit-sharing or stock bonus plan, the attainment of age 59½,
-        - **(IV)** 1 1 See Amendment of Subsection (k) note below. in the case of contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies, upon hardship of the employee, or
+        - **(IV)** subject to the provisions of paragraph (14), upon hardship of the employee, or
         - **(V)** in the case of a qualified reservist distribution (as defined in section 72(t)(2)(G)(iii)), the date on which a period referred to in subclause (III) of such section begins, and
       - **(ii)** will not be distributable merely by reason of the completion of a stated period of participation or the lapse of a fixed number of years;
     - **(C)** which provides that an employee’s right to his accrued benefit derived from employer contributions made to the trust pursuant to his election is nonforfeitable, and
@@ -355,7 +355,7 @@ status: "active"
       - **(iv)** any organization which—
         - **(I)** is a mutual irrigation or ditch company described in section 501(c)(12) (without regard to the 85 percent requirement thereof), or
         - **(II)** is a district organized under the laws of a State as a municipal corporation for the purpose of irrigation, water conservation, or drainage, and
-      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 2 2 So in original. (iii), or (iv).
+      - **(v)** an organization which is a national association of organizations described in clause (i), (ii),, 1 1 So in original. (iii), or (iv).
     - **(C)** A rural cooperative plan which includes a qualified cash or deferred arrangement shall not be treated as violating the requirements of section 401(a) or of paragraph (2) merely by reason of a hardship distribution or a distribution to a participant after attainment of age 59½. For purposes of this section, the term “hardship distribution” means a distribution described in paragraph (2)(B)(i)(IV) (without regard to the limitation of its application to profit-sharing or stock bonus plans).
   - **(8)**
     - **(A)** A cash or deferred arrangement shall not be treated as failing to meet the requirements of clause (ii) of paragraph (3)(A) for any plan year if, before the close of the following plan year—
@@ -447,6 +447,13 @@ status: "active"
         - **(I)** the notice explains the employee’s right under the arrangement to elect not to have elective contributions made on the employee’s behalf (or to elect to have such contributions made at a different percentage),
         - **(II)** in the case of an arrangement under which the employee may elect among 2 or more investment options, the notice explains how contributions made under the arrangement will be invested in the absence of any investment election by the employee, and
         - **(III)** the employee has a reasonable period of time after receipt of the notice described in subclauses (I) and (II) and before the first elective contribution is made to make either such election.
+  - **(14)** For purposes of paragraph (2)(B)(i)(IV)—
+    - **(A)** The following amounts may be distributed upon hardship of the employee:
+      - **(i)** Contributions to a profit-sharing or stock bonus plan to which section 402(e)(3) applies.
+      - **(ii)** Qualified nonelective contributions (as defined in subsection (m)(4)(C)).
+      - **(iii)** Qualified matching contributions described in paragraph (3)(D)(ii)(I).
+      - **(iv)** Earnings on any contributions described in clause (i), (ii), or (iii).
+    - **(B)** A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
 - **(l)**
   - **(1)** The requirements of this subsection are met with respect to a plan if—
     - **(A)** in the case of a defined contribution plan, the requirements of paragraph (2) are met, and

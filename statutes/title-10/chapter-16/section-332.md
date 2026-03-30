@@ -3,9 +3,9 @@ title: "Section 332 - Friendly foreign countries; international and regional org
 usc_title: 10
 usc_section: "332"
 chapter: 16
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 332"
-generated_at: "2026-03-30T07:45:51.227Z"
+generated_at: "2026-03-30T07:48:43.879Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)** provide institutional, ministerial-level advice, and other training to personnel of the ministry or regional organization to which assigned in support of stabilization or post-conflict activities; or
   - **(2)** assist such ministry or regional organization in building core institutional capacity, competencies, and capabilities to manage defense-related processes.
 - **(b)**
-  - **(1)** The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
+  - **(1)** The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide advisors or trainers to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
     - **(A)** for the purpose of—
       - **(i)** enhancing civilian oversight of foreign security forces;
       - **(ii)** establishing responsible defense governance and internal controls in order to help build effective, transparent, and accountable defense institutions;
@@ -24,7 +24,7 @@ status: "active"
     - **(B)** for such other purposes as the Secretary considers appropriate, consistent with the authority in subsection (a).
   - **(2)** Each fiscal year quarter, the Secretary of Defense shall submit to the appropriate committees of Congress a report on activities under the program under paragraph (1) during the preceding fiscal year quarter. Each report shall include, for the fiscal year quarter covered by such report, the following:
     - **(A)** A list of activities under the program.
-    - **(B)** A list of any organization described in paragraph (1) to which the Secretary assigned advisors or trainers under the program, including the number of such advisors or trainers so assigned, the duration of each assignment, a brief description of the activities of each assigned advisor or trainer, and a statement of the cost of each assignment.
+    - **(B)** A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, a brief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
     - **(C)** A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
 - **(c)** Not later than 15 days before assigning a civilian employee of the Department of Defense or a member of the armed forces as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
   - **(1)** A statement of the intent of the Secretary to assign the advisor or trainer to the regional organization.

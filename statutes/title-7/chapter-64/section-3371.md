@@ -1,24 +1,13 @@
 ---
-title: "Section 3371 - Matching funds requirement"
+title: "Section 3371 - Repealed. Pub. L. 115–334, title VII , § 7614(a), Dec. 20, 2018 , 132 Stat. 4833"
 usc_title: 7
 usc_section: "3371"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3371"
-generated_at: "2026-03-30T07:45:46.555Z"
-status: "active"
+generated_at: "2026-03-30T07:48:18.753Z"
+status: "repealed"
 ---
 
-# § 3371. Matching funds requirement
+# § 3371. Repealed. Pub. L. 115–334, title VII , § 7614(a), Dec. 20, 2018 , 132 Stat. 4833
 
-- **(a)** The recipient of a competitive grant that is awarded by the Secretary under a covered law shall provide funds, in-kind contributions, or a combination of both, from sources other than funds provided through such grant in an amount that is at least equal to the amount of such grant.
-- **(b)** The matching funds requirement under subsection (a) shall not apply to grants awarded—
-  - **(1)** to a research agency of the Department of Agriculture; or
-  - **(2)** to an entity eligible to receive funds under a capacity and infrastructure program (as defined in section 6971(f)(1)(C) of this title ), including a partner of such entity.
-- **(c)** The Secretary may waive the matching funds requirement under subsection (a) for a year with respect to a competitive grant that involves research or extension activities that are consistent with the priorities established by the National Agricultural Research, Extension, Education, and Economics Advisory Board under section 3123(c)(1)(B) of this title for the year involved.
-- **(d)** In this section, the term “covered law” means each of the following provisions of law:
-  - **(1)** This chapter.
-  - **(2)** Title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 ( 7 U.S.C. 5801 et seq.).
-  - **(3)** The Agricultural Research, Extension, and Education Reform Act of 1998 ( 7 U.S.C. 7601 et seq.).
-  - **(4)** Part III of subtitle E of title VII of the Food, Conservation, and Energy Act of 2008.
-  - **(5)** Section 3157 of this title .

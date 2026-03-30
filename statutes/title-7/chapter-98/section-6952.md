@@ -3,9 +3,9 @@ title: "Section 6952 - Multiagency task force"
 usc_title: 7
 usc_section: "6952"
 chapter: 98
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 6952"
-generated_at: "2026-03-30T07:45:46.592Z"
+generated_at: "2026-03-30T07:48:18.781Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(A)** be appointed by the Under Secretary for Food, Nutrition, and Consumer Services; and
     - **(B)** serve as Chairperson of the Task Force;
   - **(2)** at least 1 representative from the Agricultural Marketing Service, who shall be appointed by the Under Secretary for Marketing and Regulatory Programs;
-  - **(3)** at least 1 representative from the Farm Services Agency, who shall be appointed by the Under Secretary for Farm and Foreign Agricultural Services; 1 1 See References in Text note below. and
+  - **(3)** at least 1 representative from the Farm Services Agency, who shall be appointed by the Under Secretary of Agriculture for Farm Production and Conservation; and
   - **(4)** at least 1 representative from the Food Safety and Inspection Service, who shall be appointed by the Under Secretary for Food Safety.
 - **(c)**
   - **(1)** The Task Force shall be responsible for evaluation and monitoring of the commodity programs to ensure that the commodity programs meet the mission of the Department—

@@ -3,9 +3,9 @@ title: "Section 4004 - Northern Gulf of Mexico hypoxia"
 usc_title: 33
 usc_section: "4004"
 chapter: 53
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 4004"
-generated_at: "2026-03-30T07:46:37.843Z"
+generated_at: "2026-03-30T07:49:41.233Z"
 status: "active"
 ---
 

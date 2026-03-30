@@ -3,9 +3,9 @@ title: "Section 3302 - Competitive service; rules"
 usc_title: 5
 usc_section: "3302"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 3302"
-generated_at: "2026-03-30T07:45:39.116Z"
+generated_at: "2026-03-30T07:48:04.576Z"
 status: "active"
 ---
 

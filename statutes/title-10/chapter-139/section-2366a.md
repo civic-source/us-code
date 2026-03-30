@@ -3,9 +3,9 @@ title: "Section 2366a - Major defense acquisition programs: determination requir
 usc_title: 10
 usc_section: "2366a"
 chapter: 139
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2366a"
-generated_at: "2026-03-30T07:45:51.357Z"
+generated_at: "2026-03-30T07:48:43.956Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(9)** that the program or subprogram meets any other considerations the milestone decision authority considers relevant.
 - **(c)**
   - **(1)** Not later than 15 days after granting Milestone A approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following elements:
-    - **(A)** The program cost and fielding targets established by the Secretary of Defense under section 2448a(a) of this title .
+    - **(A)** The program cost and fielding targets established under section 2448a(a) of this title .
     - **(B)** The estimated cost and schedule for the program established by the military department concerned, including—
       - **(i)** the dollar values estimated for the program acquisition unit cost and total life-cycle cost; and
       - **(ii)** the planned dates for each program milestone and initial operational capability.

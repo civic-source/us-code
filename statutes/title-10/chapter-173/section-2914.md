@@ -1,15 +1,15 @@
 ---
-title: "Section 2914 - Energy resiliency 1 1 So in original. Probably should be “resilience”. and conservation construction projects"
+title: "Section 2914 - Energy resilience and conservation construction projects"
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T07:45:51.401Z"
+generated_at: "2026-03-30T07:48:43.981Z"
 status: "active"
 ---
 
-# § 2914. Energy resiliency 1 1 So in original. Probably should be “resilience”. and conservation construction projects
+# § 2914. Energy resilience and conservation construction projects
 
 - **(a)** The Secretary of Defense may carry out a military construction project for energy resilience, energy security, or energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 - **(b)**

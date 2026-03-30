@@ -1,13 +1,15 @@
 ---
-title: "Section 715 - Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(g)(2), Oct. 5, 1994 , 108 Stat. 2996 ]"
+title: "Section 715 - Attending Physician to the Congress: grade"
 usc_title: 10
 usc_section: "715"
 chapter: 41
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 715"
-generated_at: "2026-03-30T07:45:51.248Z"
-status: "repealed"
+generated_at: "2026-03-30T07:48:43.894Z"
+status: "active"
 ---
 
-# [§ 715. Repealed. Pub. L. 103–337, div. A, title XVI , § 1662(g)(2), Oct. 5, 1994 , 108 Stat. 2996 ]
+# § 715. Attending Physician to the Congress: grade
+
+A general officer serving as Attending Physician to the Congress, while so serving, holds the grade of major general. A flag officer serving as Attending Physician to the Congress, while so serving, holds the grade of rear admiral (upper half).
 

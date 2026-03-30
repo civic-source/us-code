@@ -3,9 +3,9 @@ title: "Section 280d - Transferred"
 usc_title: 42
 usc_section: "280d"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 280d"
-generated_at: "2026-03-30T07:46:59.709Z"
+generated_at: "2026-03-30T07:50:06.647Z"
 status: "transferred"
 ---
 

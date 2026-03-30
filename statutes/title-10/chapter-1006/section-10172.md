@@ -3,9 +3,9 @@ title: "Section 10172 - Navy Reserve Force"
 usc_title: 10
 usc_section: "10172"
 chapter: 1006
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 10172"
-generated_at: "2026-03-30T07:45:51.453Z"
+generated_at: "2026-03-30T07:48:44.006Z"
 status: "active"
 ---
 
@@ -15,4 +15,4 @@ status: "active"
 - **(b)** The Chief of Navy Reserve shall be the commander of the Navy Reserve Force. The commander of the Navy Reserve Force reports directly to the Chief of Naval Operations.
 - **(c)** The Secretary of the Navy—
   - **(1)** shall assign to the Navy Reserve Force specified portions of the Navy Reserve other than forces assigned to the unified combatant command for special operations forces established pursuant to section 167 of this title ; and
-  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 5013 of this title , shall assign to the combatant commands all such forces assigned to the Navy Reserve Force under paragraph (1) in the manner specified by the Secretary of Defense.
+  - **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 8013 of this title , shall assign to the combatant commands all such forces assigned to the Navy Reserve Force under paragraph (1) in the manner specified by the Secretary of Defense.

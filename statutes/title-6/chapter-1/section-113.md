@@ -3,9 +3,9 @@ title: "Section 113 - Other officers"
 usc_title: 6
 usc_section: "113"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 113"
-generated_at: "2026-03-30T07:45:41.890Z"
+generated_at: "2026-03-30T07:48:14.877Z"
 status: "active"
 ---
 
@@ -20,18 +20,18 @@ status: "active"
     - **(E)** A Director of the Bureau of Citizenship and Immigration Services.
     - **(F)** An Under Secretary for Management, who shall be first assistant to the Deputy Secretary of Homeland Security for purposes of subchapter III of chapter 33 of title 5.
     - **(G)** A Director of U.S. Immigration and Customs Enforcement.
-    - **(H)** An Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department.
+    - **(H)** A Director of the Cybersecurity and Infrastructure Security Agency.
     - **(I)** Not more than 12 Assistant Secretaries.
     - **(J)** A General Counsel, who shall be the chief legal officer of the Department.
     - **(K)** An Under Secretary for Strategy, Policy, and Plans.
   - **(2)** If any of the Assistant Secretaries referred to under paragraph (1)(I) is designated to be the Assistant Secretary for Health Affairs, the Assistant Secretary for Legislative Affairs, or the Assistant Secretary for Public Affairs, that Assistant Secretary shall be appointed by the President without the advice and consent of the Senate.
 - **(b)** There shall be in the Department an Office of Inspector General and an Inspector General at the head of such office, as provided in the Inspector General Act of 1978 (5 U.S.C. App.).
-- **(c)** To assist the Secretary in the performance of the Secretary’s functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 of title 14 .
+- **(c)** To assist the Secretary in the performance of the Secretary’s functions, there is a Commandant of the Coast Guard, who shall be appointed as provided in section 44 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 and who shall report directly to the Secretary. In addition to such duties as may be provided in this chapter and as assigned to the Commandant by the Secretary, the duties of the Commandant shall include those required by section 2 1 of title 14.
 - **(d)** To assist the Secretary in the performance of the Secretary’s functions, there are the following officers, appointed by the President:
   - **(1)** A Director of the Secret Service.
   - **(2)** A Chief Information Officer.
   - **(3)** An Officer for Civil Rights and Civil Liberties.
-  - **(4)** A Director for Domestic Nuclear Detection.
+  - **(4)** An Assistant Secretary for the Countering Weapons of Mass Destruction Office.
   - **(5)** Any Director of a Joint Task Force under section 348 of this title .
 - **(e)** There shall be in the Department a Chief Financial Officer, as provided in chapter 9 of title 31.
 - **(f)** Subject to the provisions of this chapter, every officer of the Department shall perform the functions specified by law for the official’s office or prescribed by the Secretary.

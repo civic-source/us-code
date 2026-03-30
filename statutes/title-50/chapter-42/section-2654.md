@@ -3,9 +3,9 @@ title: "Section 2654 - Department of Energy counterintelligence polygraph progra
 usc_title: 50
 usc_section: "2654"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 2654"
-generated_at: "2026-03-30T07:47:13.211Z"
+generated_at: "2026-03-30T07:50:18.896Z"
 status: "active"
 ---
 
@@ -16,5 +16,8 @@ status: "active"
   - **(1)** The Secretary shall prescribe regulations for the new counterintelligence polygraph program required by subsection (a) in accordance with the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act).
   - **(2)** In prescribing regulations for the new program, the Secretary shall take into account the results of the Polygraph Review.
   - **(3)** Not later than six months after obtaining the results of the Polygraph Review, the Secretary shall issue a notice of proposed rulemaking for the new program.
+  - **(4)** In the event of a counterintelligence investigation, the regulations prescribed under paragraph (1) may ensure that the persons subject to the counterintelligence polygraph program required by subsection (a) include any person who is—
+    - **(A)** a national of the United States (as such term is defined in section 1101 of title 8 ) and also a national of a foreign state; and
+    - **(B)** an employee or contractor who requires access to classified information.
 - **(c)**
 - **(d)** In this section, the term “Polygraph Review” means the review of the Committee to Review the Scientific Evidence on the Polygraph of the National Academy of Sciences.

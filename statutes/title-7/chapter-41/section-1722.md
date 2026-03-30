@@ -3,9 +3,9 @@ title: "Section 1722 - Provision of agricultural commodities"
 usc_title: 7
 usc_section: "1722"
 chapter: 41
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1722"
-generated_at: "2026-03-30T07:45:46.485Z"
+generated_at: "2026-03-30T07:48:18.703Z"
 status: "active"
 ---
 
@@ -40,7 +40,7 @@ status: "active"
   - **(4)** recommend to the Administrator methods of making assistance available that are the most appropriate for each local setting;
   - **(5)** supervise the distribution of commodities provided and the implementation of programs carried out under this subchapter; and
   - **(6)** periodically evaluate the effectiveness of projects undertaken under this subchapter.
-- **(g)** Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
+- **(g)** Agricultural commodities and other assistance provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such agricultural commodities or food procured outside of the United States, or on printed material that accompanies other assistance, in the language of the locality in which such commodities and other assistance are distributed, as being furnished by the people of the United States of America.
 - **(h)**
   - **(1)** The Administrator shall use funds made available for fiscal year 2014 and subsequent fiscal years to carry out this subchapter—
     - **(A)** to assess the types and quality of agricultural commodities and products donated for food aid;
@@ -54,4 +54,4 @@ status: "active"
     - **(A)** shall carry out this subsection in consultation with and through independent entities with proven expertise in food aid commodity quality enhancements;
     - **(B)** may enter into contracts to obtain the services of such entities; and
     - **(C)** shall consult with the Food Aid Consultative Group on how to carry out this subsection.
-  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2018, not more than $4,500,000 may be used to carry out this subsection.
+  - **(3)** Of the funds made available under section 1726a(f) of this title , 1 1 So in original. The comma probably should not appear. for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.

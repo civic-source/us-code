@@ -3,23 +3,26 @@ title: "Section 6572 - Eligibility and enrollment of lands in program"
 usc_title: 16
 usc_section: "6572"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6572"
-generated_at: "2026-03-30T07:46:15.573Z"
+generated_at: "2026-03-30T07:49:06.110Z"
 status: "active"
 ---
 
 # § 6572. Eligibility and enrollment of lands in program
 
 - **(a)** The Secretary of Agriculture, in coordination with the Secretary of the Interior and the Secretary of Commerce, shall describe and define forest ecosystems that are eligible for enrollment in the healthy forests reserve program.
-- **(b)** To be eligible for enrollment in the healthy forests reserve program, land shall be—
-  - **(1)** private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under section 1533 of this title ; and
-  - **(2)** private land the enrollment of which will restore, enhance, or otherwise measurably improve the well-being of species that—
-    - **(A)** are not listed as endangered or threatened under section 1533 of this title ; but
-    - **(B)** are candidates for such listing, State-listed species, or special concern species.
+- **(b)** To be eligible for enrollment in the healthy forests reserve program, land shall be private forest land, or private land being restored to forest land, the enrollment of which will maintain, restore, enhance, or otherwise measurably—
+  - **(1)** increase the likelihood of recovery of a species that is listed as endangered or threatened under section 1533 of this title ; or
+  - **(2)** improve the well-being of a species that—
+    - **(A)** is—
+      - **(i)** not listed as endangered or threatened under such section; and
+      - **(ii)** a candidate for such listing, a State-listed species, or a special concern species; or
+    - **(B)** is deemed a species of greatest conservation need by a State wildlife action plan.
 - **(c)** In enrolling land that satisfies the criteria under subsection (b), the Secretary of Agriculture shall give additional consideration to land the enrollment of which will—
-  - **(1)** improve biological diversity; and
-  - **(2)** increase carbon sequestration.
+  - **(1)** improve biological diversity;
+  - **(2)** conserve forest land that provides habitat for species described in subsection (b); and
+  - **(3)** increase carbon sequestration.
 - **(d)** The Secretary of Agriculture shall enroll land in the healthy forests reserve program only with the consent of the owner of the land.
 - **(e)**
   - **(1)** Land may be enrolled in the healthy forests reserve program in accordance with—
@@ -29,11 +32,6 @@ status: "active"
       - **(i)** a permanent easement; or
       - **(ii)** in a State that imposes a maximum duration for easements, an easement for the maximum duration allowed under State law.
   - **(2)**
-    - **(A)** Of the total amount of funds expended under the program for a fiscal year to acquire easements and enter into cost-share agreements described in paragraph (1)—
-      - **(i)** not more than 40 percent shall be used for cost-share agreements described in paragraph (1)(A); and
-      - **(ii)** not more than 60 percent shall be used for easements described in subparagraphs (B) and (C) of paragraph (1).
-    - **(B)** The Secretary may use any funds allocated under clause (i) or (ii) of subparagraph (A) that are not obligated by April 1 of the fiscal year for which the funds are made available to carry out a different method of enrollment during that fiscal year.
-  - **(3)**
     - **(A)** In this paragraph, the term “acreage owned by Indian tribes” includes—
       - **(i)** land that is held in trust by the United States for Indian tribes or individual Indians;
       - **(ii)** land, the title to which is held by Indian tribes or individual Indians subject to Federal restrictions against alienation or encumbrance;
@@ -43,12 +41,15 @@ status: "active"
       - **(vi)** a combination of 1 or more types of land described in clauses (i) through (v).
     - **(B)** In the case of acreage owned by an Indian tribe, the Secretary may enroll acreage into the healthy forests reserve program through the use of—
       - **(i)** a 30-year contract (the value of which shall be equivalent to the value of a 30-year easement);
-      - **(ii)** a 10-year cost-share agreement; or
-      - **(iii)** any combination of the options described in clauses (i) and (ii).
+      - **(ii)** a 10-year cost-share agreement;
+      - **(iii)** a permanent easement; or
+      - **(iv)** any combination of the options described in clauses (i) through (iii).
 - **(f)**
   - **(1)** The Secretary of Agriculture shall give priority to the enrollment of land that provides the greatest conservation benefit to—
     - **(A)** primarily, species listed as endangered or threatened under section 1533 of this title ; and
     - **(B)** secondarily, species that—
       - **(i)** are not listed as endangered or threatened under section 1533 of this title ; but
-      - **(ii)** are candidates for such listing, State-listed species, or special concern species.
+      - **(ii)**
+        - **(I)** are candidates for such listing, State-listed species, or special concern species; or
+        - **(II)** are deemed a species of greatest conservation need under a State wildlife action plan.
   - **(2)** The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.

@@ -3,9 +3,9 @@ title: "Section 3705 - NOAA ocean acidification activities"
 usc_title: 33
 usc_section: "3705"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 3705"
-generated_at: "2026-03-30T07:46:37.841Z"
+generated_at: "2026-03-30T07:49:41.231Z"
 status: "active"
 ---
 
@@ -20,5 +20,5 @@ status: "active"
     - **(E)** as an integral part of the research programs described in this chapter, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and its impacts on marine resources; and
     - **(F)** coordination of ocean acidification monitoring and impacts research with other appropriate international ocean science bodies such as the International Oceanographic Commission, the International Council for the Exploration of the Sea, the North Pacific Marine Science Organization, and others;
   - **(2)** provides grants for critical research projects that explore the effects of ocean acidification on ecosystems and the socioeconomic impacts of increased ocean acidification that are relevant to the goals and priorities of the strategic research plan; and
-  - **(3)** incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under section 7901 of title 10 .
+  - **(3)** incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under section 8931 of title 10 .
 - **(b)** In conducting the Program, the Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this chapter on such terms as the Secretary considers appropriate.

@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T07:46:59.915Z"
+generated_at: "2026-03-30T07:50:06.843Z"
 status: "active"
 ---
 
@@ -84,6 +84,12 @@ status: "active"
       - **(ii)** the difference between .85 and the medical loss ratio;
     - **(B)** for 3 consecutive contract years, the Secretary shall not permit the enrollment of new enrollees under the plan for coverage during the second succeeding contract year; and
     - **(C)** the Secretary shall terminate the plan contract if the plan fails to have such a medical loss ratio for 5 consecutive contract years.
+  - **(5)**
+    - **(A)** Beginning with plan years beginning on or after January 1, 2021 , a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
+    - **(B)** Not later than January 1, 2021 , the Secretary shall, in consultation with stakeholders, establish a process under which MA plans and prescription drug plans shall submit to the Secretary information described in subparagraph (A).
+    - **(C)** For purposes of this paragraph, including as applied under section 1395w–112(b)(3)(D) of this title , the Secretary shall, pursuant to rulemaking—
+      - **(i)** specify a definition for the term “inappropriate prescribing” and a method for determining if a provider of services prescribes inappropriate prescribing; and
+      - **(ii)** establish the process described in subparagraph (B) and the types of information that shall be submitted through such process.
 - **(f)**
   - **(1)** A contract under this part shall require a Medicare+Choice organization to provide prompt payment (consistent with the provisions of sections 1395h(c)(2) and 1395u(c)(2) of this title) of claims submitted for services and supplies furnished to enrollees pursuant to the contract, if the services or supplies are not furnished under a contract between the organization and the provider or supplier (or in the case of a Medicare+Choice private fee-for-service plan, if a claim is submitted to such organization by an enrollee).
   - **(2)** In the case of a Medicare+Choice eligible organization which the Secretary determines, after notice and opportunity for a hearing, has failed to make payments of amounts in compliance with paragraph (1), the Secretary may provide for direct payment of the amounts owed to providers and suppliers (or, in the case of a Medicare+Choice private fee-for-service plan, amounts owed to the enrollees) for covered services and supplies furnished to individuals enrolled under this part under the contract. If the Secretary provides for the direct payments, the Secretary shall provide for an appropriate reduction in the amount of payments otherwise made to the organization under this part to reflect the amount of the Secretary’s payments (and the Secretary’s costs in making the payments).
@@ -91,6 +97,7 @@ status: "active"
     - **(A)** Section 1395w–112(b)(4) of this title .
     - **(B)** Section 1395w–112(b)(5) of this title .
     - **(C)** Section 1395w–112(b)(6) of this title .
+    - **(D)** Section 1395w–112(b)(7) of this title .
 - **(g)**
   - **(1)** If the Secretary determines that a Medicare+Choice organization with a contract under this section—
     - **(A)** fails substantially to provide medically necessary items and services that are required (under law or under the contract) to be provided to an individual covered under the contract, if the failure has adversely affected (or has substantial likelihood of adversely affecting) the individual;

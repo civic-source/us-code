@@ -3,9 +3,9 @@ title: "Section 2798 - Sanctions against certain foreign persons"
 usc_title: 22
 usc_section: "2798"
 chapter: 39
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 2798"
-generated_at: "2026-03-30T07:46:23.140Z"
+generated_at: "2026-03-30T07:49:19.052Z"
 status: "active"
 ---
 
@@ -15,13 +15,13 @@ status: "active"
   - **(1)** Except as provided in subsection (b)(2), the President shall impose both of the sanctions described in subsection (c) if the President determines that a foreign person, on or after October 28, 1991 , has knowingly and materially contributed—
     - **(A)** through the export from the United States of any goods or technology that are subject to the jurisdiction of the United States,
     - **(B)** through the export from any other country of any goods or technology that would be, if they were United States goods or technology, subject to the jurisdiction of the United States, or
-    - **(C)** through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979 [ 50 U.S.C. 4601 et seq.],
+    - **(C)** through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979,
   - **(2)** Paragraph (1) applies in the case of—
     - **(A)** any foreign country that the President determines has, at any time after January 1, 1980 —
       - **(i)** used chemical or biological weapons in violation of international law;
       - **(ii)** used lethal chemical or biological weapons against its own nationals; or
       - **(iii)** made substantial preparations to engage in the activities described in clause (i) or (ii);
-    - **(B)** any foreign country whose government is determined for purposes of section 6(j) of the Export Administration Act of 1979 [ 50 U.S.C. 4605(j) ] to be a government that has repeatedly provided support for acts of international terrorism; or
+    - **(B)** any foreign country whose government is determined for purposes of section 6(j) 1 1 See References in Text note below. of the Export Administration Act of 1979 to be a government that has repeatedly provided support for acts of international terrorism; or
     - **(C)** any other foreign country, project, or entity designated by the President for purposes of this section.
   - **(3)** Sanctions shall be imposed pursuant to paragraph (1) on—
     - **(A)** the foreign person with respect to which the President makes the determination described in that paragraph;

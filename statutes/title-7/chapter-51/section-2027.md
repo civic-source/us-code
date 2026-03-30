@@ -3,16 +3,16 @@ title: "Section 2027 - Appropriations and allotments"
 usc_title: 7
 usc_section: "2027"
 chapter: 51
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2027"
-generated_at: "2026-03-30T07:45:46.525Z"
+generated_at: "2026-03-30T07:48:18.731Z"
 status: "active"
 ---
 
 # § 2027. Appropriations and allotments
 
 - **(a)**
-  - **(1)** To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2018. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title , subject to paragraph (3).
+  - **(1)** To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of fiscal years 2008 through 2023. Not to exceed one-fourth of 1 per centum of the previous year’s appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title , subject to paragraph (3).
   - **(2)** No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
   - **(3)**
     - **(A)** Of the amounts made available under the second sentence of paragraph (1), not more than $2,000,000 in any fiscal year may be used by the Secretary to make 2-year competitive grants that will—

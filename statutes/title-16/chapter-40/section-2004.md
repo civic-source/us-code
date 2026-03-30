@@ -3,9 +3,9 @@ title: "Section 2004 - Continuing appraisal of soil, water, and related resource
 usc_title: 16
 usc_section: "2004"
 chapter: 40
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 2004"
-generated_at: "2026-03-30T07:46:15.516Z"
+generated_at: "2026-03-30T07:49:06.069Z"
 status: "active"
 ---
 
@@ -22,4 +22,4 @@ status: "active"
 - **(b)** The appraisal shall utilize data collected under this chapter and pertinent data and information collected by the Department of Agriculture and other Federal, State, tribal, and local agencies and organizations. The Secretary shall establish an integrated system capable of using combinations of resource data to determine the quality and capabilities for alternative uses of the resource base and to identify areas of local, State, tribal, and National concerns and related roles pertaining to soil and water conservation, resource use and development, and environmental improvement.
 - **(c)** The appraisal shall be made in cooperation with conservation districts, State and tribal soil and water conservation agencies, and other appropriate citizen groups, and local, tribal, and State agencies under such procedures as the Secretary may prescribe to insure public participation.
 - **(d)** In conducting the appraisal described in subsection (a), the Secretary shall concurrently solicit and evaluate recommendations for improving the appraisal, including the content, scope, process, participation in, and other elements of the appraisal, as determined by the Secretary.
-- **(e)** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010 , and December 31, 2015 . The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
+- **(e)** The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010 , December 31, 2015 , and December 31, 2022 . The Secretary may make such additional interim appraisals as the Secretary considers appropriate.

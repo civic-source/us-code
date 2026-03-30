@@ -3,21 +3,25 @@ title: "Section 42302 - Consumer complaints"
 usc_title: 49
 usc_section: "42302"
 chapter: 423
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 42302"
-generated_at: "2026-03-30T07:47:24.834Z"
+generated_at: "2026-03-30T07:50:15.329Z"
 status: "active"
 ---
 
 # § 42302. Consumer complaints
 
-- **(a)** The Secretary of Transportation shall establish a consumer complaints toll-free hotline telephone number for the use of passengers in air transportation and shall take actions to notify the public of—
+- **(a)** The Secretary of Transportation shall establish a consumer complaints toll-free hotline telephone number for the use of passengers in air transportation (including transportation by air ambulance (as defined by the Secretary of Transportation)) and shall take actions to notify the public of—
   - **(1)** that telephone number; and
   - **(2)** the Internet Web site of the Aviation Consumer Protection Division of the Department of Transportation.
 - **(b)** An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include on the Internet Web site of the carrier—
   - **(1)** the hotline telephone number established under subsection (a);
   - **(2)** the e-mail address, telephone number, and mailing address of the air carrier for the submission of complaints by passengers about air travel service problems; and
   - **(3)** the Internet Web site and mailing address of the Aviation Consumer Protection Division of the Department of Transportation for the submission of complaints by passengers about air travel service problems.
-- **(c)** An air carrier or foreign air carrier providing scheduled air transportation using any aircraft that as originally designed has a passenger capacity of 30 or more passenger seats shall include the hotline telephone number established under subsection (a) on—
-  - **(1)** prominently displayed signs of the carrier at the airport ticket counters in the United States where the air carrier operates; and
-  - **(2)** any electronic confirmation of the purchase of a passenger ticket for air transportation issued by the air carrier.
+- **(c)** Each air carrier and foreign air carrier shall include the hotline telephone number established under subsection (a) on—
+  - **(1)** prominently displayed signs of the carrier at the airport ticket counters in the United States where the carrier operates; and
+  - **(2)** any electronic confirmation of the purchase of a passenger ticket for air transportation issued by the carrier.
+- **(d)** The Secretary shall periodically evaluate the benefits of using mobile phone applications or other widely used technologies to provide new means for air passengers to communicate complaints in addition to the telephone number established under subsection (a) and shall provide such new means as the Secretary determines appropriate.
+- **(e)** Each air ambulance provider shall include the hotline telephone number, link to the Internet website established under subsection (a), and contact information for the Aviation Consumer Advocate established under section 425 1 1 See References in Text note below. on—
+  - **(1)** any invoice, bill, or other communication provided to a passenger or customer of the provider; and
+  - **(2)** its Internet Web site, and any related mobile device application.

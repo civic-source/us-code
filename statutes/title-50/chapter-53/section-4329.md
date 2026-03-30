@@ -3,9 +3,9 @@ title: "Section 4329 - Return of property"
 usc_title: 50
 usc_section: "4329"
 chapter: 53
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 4329"
-generated_at: "2026-03-30T07:47:13.241Z"
+generated_at: "2026-03-30T07:50:18.928Z"
 status: "active"
 ---
 

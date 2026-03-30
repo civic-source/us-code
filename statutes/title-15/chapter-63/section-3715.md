@@ -3,9 +3,9 @@ title: "Section 3715 - Use of partnership intermediaries"
 usc_title: 15
 usc_section: "3715"
 chapter: 63
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 3715"
-generated_at: "2026-03-30T07:45:58.966Z"
+generated_at: "2026-03-30T07:48:52.196Z"
 status: "active"
 ---
 

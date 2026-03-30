@@ -3,21 +3,21 @@ title: "Section 7103 - Interagency Task Force to Monitor and Combat Trafficking"
 usc_title: 22
 usc_section: "7103"
 chapter: 78
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 7103"
-generated_at: "2026-03-30T07:46:23.196Z"
+generated_at: "2026-03-30T07:49:19.095Z"
 status: "active"
 ---
 
 # § 7103. Interagency Task Force to Monitor and Combat Trafficking
 
 - **(a)** The President shall establish an Interagency Task Force to Monitor and Combat Trafficking.
-- **(b)** The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, and such other officials as may be designated by the President.
+- **(b)** The President shall appoint the members of the Task Force, which shall include the Secretary of State, the Administrator of the United States Agency for International Development, the Attorney General, the Secretary of Labor, the Secretary of Health and Human Services, the Director of National Intelligence, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Education, the Secretary of the Treasury, the United States Trade Representative, and such other officials as may be designated by the President.
 - **(c)** The Task Force shall be chaired by the Secretary of State.
 - **(d)** The Task Force shall carry out the following activities:
   - **(1)** Coordinate the implementation of this chapter.
   - **(2)** Measure and evaluate progress of the United States and other countries in the areas of trafficking prevention, protection, and assistance to victims of trafficking, and prosecution and enforcement against traffickers, including the role of public corruption in facilitating trafficking. The Task Force shall have primary responsibility for assisting the Secretary of State in the preparation of the reports described in section 7107 of this title .
-  - **(3)** Expand interagency procedures to collect and organize data, including significant research and resource information on domestic and international trafficking. Any data collection procedures established under this subsection shall respect the confidentiality of victims of trafficking.
+  - **(3)** Expand interagency procedures to collect and organize data, including significant research and resource information on domestic and international trafficking and providing an annual report on the case referrals received from the national human trafficking hotline by Federal departments and agencies. Any data collection procedures and reporting requirements established under this subsection shall respect the confidentiality of victims of trafficking.
   - **(4)** Engage in efforts to facilitate cooperation among countries of origin, transit, and destination. Such efforts shall aim to strengthen local and regional capacities to prevent trafficking, prosecute traffickers and assist trafficking victims, and shall include initiatives to enhance cooperative efforts between destination countries and countries of origin and assist in the appropriate reintegration of stateless victims of trafficking.
   - **(5)** Examine the role of the international “sex tourism” industry in the trafficking of persons and in the sexual exploitation of women and children around the world.
   - **(6)** Engage in consultation and advocacy with governmental and nongovernmental organizations, among other entities, to advance the purposes of this chapter, and make reasonable efforts to distribute information to enable all relevant Federal Government agencies to publicize the National Human Trafficking Resource Center Hotline on their websites, in all headquarters offices, and in all field offices throughout the United States.
@@ -52,9 +52,11 @@ status: "active"
       - **(iii)** the number of individuals referred for prosecution for State offenses, including offenses relating to the purchasing of commercial sex acts;
       - **(iv)** the number of victims granted continued presence in the United States under section 7105(c)(3) of this title ;
       - **(v)** the number of victims granted a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 ;
-      - **(vi)** the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order; and
-      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
-    - **(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) of title 34 , and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible.
+      - **(vi)** the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
+      - **(vii)** the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
+      - **(viii)** the number of convictions obtained under chapter 77 of title 18 aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and 2
+    - **(R)** the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) 1 of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
+    - **(S)** tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
 - **(e)**
   - **(1)** The Secretary of State shall establish within the Department of State an Office to Monitor and Combat Trafficking, which shall provide assistance to the Task Force. Any such Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, with the rank of Ambassador-at-Large. The Director shall have the primary responsibility for assisting the Secretary of State in carrying out the purposes of this chapter and may have additional responsibilities as determined by the Secretary. The Director shall consult with nongovernmental organizations and multilateral organizations, and with trafficking victims or other affected persons. The Director shall have the authority to take evidence in public hearings or by other means. The agencies represented on the Task Force are authorized to provide staff to the Office on a nonreimbursable basis.
   - **(2)** The Director shall be responsible for—

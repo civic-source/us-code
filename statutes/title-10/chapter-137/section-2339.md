@@ -1,15 +1,13 @@
 ---
-title: "Section 2339 - Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories"
+title: "Section 2339 - Repealed. Pub. L. 115–232, div. A, title VIII , § 821(c)(1), Aug. 13, 2018 , 132 Stat. 1853 ]"
 usc_title: 10
 usc_section: "2339"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2339"
-generated_at: "2026-03-30T07:45:51.354Z"
-status: "active"
+generated_at: "2026-03-30T07:48:43.953Z"
+status: "repealed"
 ---
 
-# § 2339. Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories
-
-Notwithstanding subsection (a) of section 1902 of title 41 , the micro-purchase threshold for the Department of Defense for purposes of such section is $10,000 for purposes of basic research programs and for the activities of the Department of Defense science and technology reinvention laboratories.
+# [§ 2339. Repealed. Pub. L. 115–232, div. A, title VIII , § 821(c)(1), Aug. 13, 2018 , 132 Stat. 1853 ]
 

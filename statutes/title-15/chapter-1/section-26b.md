@@ -3,9 +3,9 @@ title: "Section 26b - Application of antitrust laws to professional major league
 usc_title: 15
 usc_section: "26b"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 26b"
-generated_at: "2026-03-30T07:45:58.716Z"
+generated_at: "2026-03-30T07:48:52.046Z"
 status: "active"
 ---
 

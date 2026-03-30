@@ -3,9 +3,9 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-03-30T07:45:46.576Z"
+generated_at: "2026-03-30T07:48:18.768Z"
 status: "active"
 ---
 
@@ -34,9 +34,10 @@ status: "active"
     - **(A)** award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofit organizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
     - **(B)** in consultation with the Secretary—
       - **(i)** identify existing and proposed Federal intramural and extramural research and development programs relating to the purposes of the Foundation described in subsection (c); and
-      - **(ii)** coordinate Foundation activities with those programs so as to minimize duplication of existing efforts and to avoid conflicts;
+      - **(ii)** coordinate Foundation activities with those programs so as to minimize duplication of existing efforts and to avoid conflicts, specifically at the Department of Agriculture; and
+      - **(iii)** document the consultation process and include a summary of the results in the annual report required in subsection (f)(3)(B) 1 1 So in original. Probably should be followed by a period.
     - **(C)** identify unmet and emerging agricultural research needs after reviewing the roadmap for agricultural research, education, and extension authorized by section 7614a of this title ;
-    - **(D)** facilitate technology transfer and release of information and data gathered from the activities of the Foundation to the agricultural research community;
+    - **(D)** facilitate technology transfer and release of information and data gathered from the activities of the Foundation to the agricultural research community and agriculture stakeholders;
     - **(E)** promote and encourage the development of the next generation of agricultural research scientists; and
     - **(F)** carry out such other activities as the Board determines to be consistent with the purposes of the Foundation.
   - **(2)** The activities described in paragraph (1) shall be supplemental to any other activities at the Department and shall not preempt any authority or responsibility of the Department under another provision of law.
@@ -55,7 +56,7 @@ status: "active"
         - **(I)** 8 shall be selected from a list of candidates to be provided by the National Academy of Sciences; and
         - **(II)** 7 shall be selected from lists of candidates provided by industry.
       - **(ii)**
-        - **(I)** The ex-officio members shall ensure that a majority of the appointed members of the Board have actual experience in agricultural research and, to the extent practicable, represent diverse sectors of agriculture.
+        - **(I)** The ex-officio members shall ensure that a majority of the appointed members of the Board have actual experience in agriculture or agricultural research and, to the extent practicable, represent diverse sectors of agriculture.
         - **(II)** No employee of the Federal Government may serve as an appointed member of the Board under this subparagraph.
         - **(III)** Appointment to the Board under this subparagraph shall not constitute Federal employment.
       - **(iii)** All appointed members of the Board shall be voting members.
@@ -73,8 +74,9 @@ status: "active"
         - **(V)** policies for the conduct of the general operations of the Foundation, including a cap on administrative expenses for recipients of a grant, contract, or cooperative agreement from the Foundation; and
         - **(VI)** specific duties for the Executive Director;
       - **(ii)** prioritize and provide overall direction for the activities of the Foundation;
-      - **(iii)** evaluate the performance of the Executive Director; and
-      - **(iv)** carry out any other necessary activities regarding the Foundation.
+      - **(iii)** evaluate the performance of the Executive Director;
+      - **(iv)** actively solicit and accept funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including from private entities; and
+      - **(v)** carry out any other necessary activities regarding the Foundation.
     - **(B)** In establishing bylaws under subparagraph (A)(i), the Board shall ensure that the bylaws do not—
       - **(i)** reflect unfavorably on the ability of the Foundation to carry out the duties of the Foundation in a fair and objective manner; or
       - **(ii)** compromise, or appear to compromise, the integrity of any governmental agency or program, or any officer or employee employed by, or involved in, a governmental agency or program.
@@ -94,7 +96,7 @@ status: "active"
     - **(A)** In carrying out this section, the Board, acting through the Executive Director, may—
       - **(i)** adopt, alter, and use a corporate seal, which shall be judicially noticed;
       - **(ii)** hire, promote, compensate, and discharge 1 or more officers, employees, and agents, as may be necessary, and define the duties of the officers, employees, and agents;
-      - **(iii)** solicit and accept any funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including such support from private entities;
+      - **(iii)** solicit and accept funds, gifts, grants, devises, or bequests of real or personal property made to the Foundation, including such support from private entities;
       - **(iv)** prescribe the manner in which—
         - **(I)** real or personal property of the Foundation is acquired, held, and transferred;
         - **(II)** general operations of the Foundation are to be conducted; and
@@ -115,11 +117,20 @@ status: "active"
       - **(ii)** make the audits, and all other records, documents, and other papers of the Foundation, available to the Secretary and the Comptroller General of the United States for examination or audit.
     - **(B)**
       - **(i)**
-        - **(I)** Not later than 5 months following the end of each fiscal year, the Foundation shall publish a report for the preceding fiscal year that includes—
+        - **(I)** Not later than 5 months following the end of each fiscal year, the Foundation shall publish and post online a report for the preceding fiscal year that includes—
         - **(II)** Each report under subclause (I) shall include a description of all gifts, grants, devises, or bequests to the Foundation of real or personal property or money, which shall include—
         - **(III)** The Foundation shall—
         - **(IV)** The Board shall hold an annual public meeting to summarize the activities of the Foundation.
       - **(ii)** Any recipient of a grant under subsection (d)(1)(A) shall provide the Foundation with a report at the conclusion of any research or studies conducted that describes the results of the research or studies, including any data generated.
+      - **(iii)** The Foundation shall publish an annual notice with a description of agricultural research priorities under this section for the upcoming fiscal year, including—
+        - **(I)** a schedule for funding competitions;
+        - **(II)** a discussion of how applications for funding will be evaluated; and
+        - **(III)** how the Foundation will communicate information about funded awards to the public to ensure that grantees and partners understand the objectives of the Foundation.
+      - **(iv)** Not later than 1 year after December 20, 2018 , the Foundation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a strategic plan describing a path for the Foundation to become self-sustaining, including—
+        - **(I)** a forecast of major agricultural challenge opportunities identified by the scientific advisory councils of the Foundation and approved by the Board, including short- and long-term objectives;
+        - **(II)** an overview of the efforts that the Foundation will take to be transparent in each of the processes of the Foundation, including—
+        - **(III)** a description of financial goals and benchmarks for the next 10 years, including a detailed plan for—
+        - **(IV)** other related issues, as determined by the Board.
   - **(4)**
     - **(A)** To ensure integrity in the operations of the Foundation, the Board shall develop and enforce procedures relating to standards of conduct, financial disclosure statements, conflicts of interest (including recusal and waiver rules), audits, and any other matters determined appropriate by the Board.
     - **(B)** Any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
@@ -130,7 +141,11 @@ status: "active"
   - **(6)** The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligations of the Foundation.
 - **(g)**
   - **(1)**
-    - **(A)** On February 7, 2014 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
-    - **(B)** The Foundation may use the funds made available under subparagraph (A) to carry out the purposes of the Foundation only to the extent that the Foundation secures an equal amount of non-Federal matching funds for each expenditure.
+    - **(A)**
+      - **(i)** On February 7, 2014 , of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $200,000,000, to remain available until expended under the conditions described in subparagraph (B).
+      - **(ii)** On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
+    - **(B)**
+      - **(i)** The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
+      - **(ii)** Nothing in this section requires the Foundation to require a matching contribution from an individual grantee as a condition of receiving a grant under this section.
     - **(C)** None of the funds made available under subparagraph (A) may be used for construction.
   - **(2)** The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).

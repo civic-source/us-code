@@ -3,15 +3,15 @@ title: "Section 1118 - Authorization of appropriations"
 usc_title: 49
 usc_section: "1118"
 chapter: 11
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 1118"
-generated_at: "2026-03-30T07:47:24.783Z"
+generated_at: "2026-03-30T07:50:15.266Z"
 status: "active"
 ---
 
 # § 1118. Authorization of appropriations
 
-- **(a)** There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.
+- **(a)** There are authorized to be appropriated for the purposes of this chapter $111,400,000 for fiscal year 2019, $112,400,000 for fiscal year 2020, $113,400,000 for fiscal year 2021, and $114,400,000 for fiscal year 2022. Such sums shall remain available until expended.
 - **(b)** The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 - **(c)**
   - **(1)** The Board may impose and collect such fees, refunds, and reimbursements as it determines to be appropriate for services provided by or through the Board.

@@ -3,9 +3,9 @@ title: "Section 1397ff - Process for submission, approval, and amendment of Stat
 usc_title: 42
 usc_section: "1397ff"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1397ff"
-generated_at: "2026-03-30T07:46:59.994Z"
+generated_at: "2026-03-30T07:50:06.917Z"
 status: "active"
 ---
 

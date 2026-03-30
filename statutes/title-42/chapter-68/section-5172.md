@@ -3,9 +3,9 @@ title: "Section 5172 - Repair, restoration, and replacement of damaged facilitie
 usc_title: 42
 usc_section: "5172"
 chapter: 68
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 5172"
-generated_at: "2026-03-30T07:47:00.130Z"
+generated_at: "2026-03-30T07:50:07.042Z"
 status: "active"
 ---
 
@@ -17,8 +17,9 @@ status: "active"
     - **(B)** subject to paragraph (3), to a person that owns or operates a private nonprofit facility damaged or destroyed by a major disaster for the repair, restoration, reconstruction, or replacement of the facility and for associated expenses incurred by the person.
   - **(2)** For the purposes of this section, associated expenses shall include—
     - **(A)** the costs of mobilizing and employing the National Guard for performance of eligible work;
-    - **(B)** the costs of using prison labor to perform eligible work, including wages actually paid, transportation to a worksite, and extraordinary costs of guards, food, and lodging; and
-    - **(C)** base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringe benefits on such wages to the extent that such benefits were being paid before the major disaster.
+    - **(B)** the costs of using prison labor to perform eligible work, including wages actually paid, transportation to a worksite, and extraordinary costs of guards, food, and lodging;
+    - **(C)** base and overtime wages for the employees and extra hires of a State, local government, or person described in paragraph (1) that perform eligible work, plus fringe benefits on such wages to the extent that such benefits were being paid before the major disaster; and
+    - **(D)** base and overtime wages for extra hires to facilitate the implementation and enforcement of adopted building codes for a period of not more than 180 days after the major disaster is declared.
   - **(3)**
     - **(A)** The President may make contributions to a private nonprofit facility under paragraph (1)(B) only if—
       - **(i)** the facility provides critical services (as defined by the President) in the event of a major disaster; or
@@ -49,7 +50,7 @@ status: "active"
     - **(D)** Nothing in this paragraph prevents the President from increasing the Federal cost share above 85 percent.
 - **(c)**
   - **(1)**
-    - **(A)** In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to 90 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+    - **(A)** In any case in which a State or local government determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing any public facility owned or controlled by the State or local government, the State or local government may elect to receive, in lieu of a contribution under subsection (a)(1)(A), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
     - **(B)** Funds contributed to a State or local government under this paragraph may be used—
       - **(i)** to repair, restore, or expand other selected public facilities;
       - **(ii)** to construct new facilities; or
@@ -58,7 +59,7 @@ status: "active"
       - **(i)** any public facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
       - **(ii)** any uninsured public facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.).
   - **(2)**
-    - **(A)** In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to 75 percent of the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
+    - **(A)** In any case in which a person that owns or operates a private nonprofit facility determines that the public welfare would not best be served by repairing, restoring, reconstructing, or replacing the facility, the person may elect to receive, in lieu of a contribution under subsection (a)(1)(B), a contribution in an amount equal to the Federal share of the Federal estimate of the cost of repairing, restoring, reconstructing, or replacing the facility and of management expenses.
     - **(B)** Funds contributed to a person under this paragraph may be used—
       - **(i)** to repair, restore, or expand other selected private nonprofit facilities owned or operated by the person;
       - **(ii)** to construct new private nonprofit facilities to be owned or operated by the person; or
@@ -67,7 +68,7 @@ status: "active"
       - **(i)** any private nonprofit facility located in a regulatory floodway (as defined in section 59.1 of title 44, Code of Federal Regulations (or a successor regulation)); or
       - **(ii)** any uninsured private nonprofit facility located in a special flood hazard area identified by the Administrator of the Federal Emergency Management Agency under the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.).
 - **(d)**
-  - **(1)** If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988 , by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2).
+  - **(1)** If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 ( 42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988 , by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016 , through December 31, 2018 .
   - **(2)** The amount of a reduction in Federal assistance under this section with respect to a facility shall be the lesser of—
     - **(A)** the value of such facility on the date of the flood damage or destruction, or
     - **(B)** the maximum amount of insurance proceeds which would have been payable with respect to such facility if such facility had been covered by flood insurance under the National Flood Insurance Act of 1968 on such date.
@@ -75,12 +76,14 @@ status: "active"
   - **(4)** The President shall disseminate information regarding the reduction in Federal assistance provided for by this subsection to State and local governments and the owners and operators of private nonprofit facilities who may be affected by such a reduction.
 - **(e)**
   - **(1)**
-    - **(A)** For the purposes of this section, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
-      - **(i)** on the basis of the design of the facility as the facility existed immediately before the major disaster; and
-      - **(ii)** in conformity with codes, specifications, and standards (including floodplain management and hazard mitigation criteria required by the President or under the Coastal Barrier Resources Act ( 16 U.S.C. 3501 et seq.)) applicable at the time at which the disaster occurred.
+    - **(A)** For the purposes of this section, for disasters declared on or after August 1, 2017 , or a disaster in which a cost estimate has not yet been finalized for a project, or for any project for which the finalized cost estimate is on appeal, the President shall estimate the eligible cost of repairing, restoring, reconstructing, or replacing a public facility or private nonprofit facility—
+      - **(i)** on the basis of the design of the facility as the facility existed immediately before the major disaster;
+      - **(ii)** in conformity with the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility’s users against disasters (including floodplain management and hazard mitigation criteria required by the President or under the Coastal Barrier Resources Act ( 16 U.S.C. 3501 et seq.)); and
+      - **(iii)** in a manner that allows the facility to meet the definition of resilient developed pursuant to this subsection.
     - **(B)**
       - **(i)** Subject to paragraph (2), the President shall use the cost estimation procedures established under paragraph (3) to determine the eligible cost under this subsection.
       - **(ii)** The procedures specified in this paragraph and paragraph (2) shall apply only to projects the eligible cost of which is equal to or greater than the amount specified in section 5189 of this title .
+    - **(C)** Contributions for the eligible cost made under this section may be provided on an actual cost basis or on cost-estimation procedures.
   - **(2)**
     - **(A)** In any case in which the actual cost of repairing, restoring, reconstructing, or replacing a facility under this section is greater than the ceiling percentage established under paragraph (3) of the cost estimated under paragraph (1), the President may determine that the eligible cost includes a portion of the actual cost of the repair, restoration, reconstruction, or replacement that exceeds the cost estimated under paragraph (1).
     - **(B)**
@@ -98,3 +101,8 @@ status: "active"
     - **(D)** Not later than 2 years after the date of promulgation of regulations under subparagraph (C) and periodically thereafter, the President shall review the cost estimation procedures and the ceiling and floor percentages established under this paragraph.
     - **(E)** Not later than 1 year after the date of promulgation of regulations under subparagraph (C), 3 years after that date, and at the end of each 2-year period thereafter, the expert panel shall submit to Congress a report on the appropriateness of the cost estimation procedures.
   - **(4)** In any case in which the facility being repaired, restored, reconstructed, or replaced under this section was under construction on the date of the major disaster, the cost of repairing, restoring, reconstructing, or replacing the facility shall include, for the purposes of this section, only those costs that, under the contract for the construction, are the owner’s responsibility and not the contractor’s responsibility.
+  - **(5)**
+    - **(A)** Not later than 18 months after October 5, 2018 , the President, acting through the Administrator of the Federal Emergency Management Agency, and in consultation with the heads of relevant Federal departments and agencies, shall issue a final rulemaking that defines the terms “resilient” and “resiliency” for purposes of this subsection.
+    - **(B)** Not later than 60 days after October 5, 2018 , the Administrator shall issue interim guidance to implement this subsection. Such interim guidance shall expire 18 months after the October 5, 2018 or upon issuance of final regulations pursuant to subparagraph (A), whichever occurs first.
+    - **(C)** Not later than 90 days after the date on which the Administrator issues the final rulemaking under this paragraph, the Administrator shall issue any necessary guidance related to the rulemaking.
+    - **(D)** Not later than 2 years after October 5, 2018 , the Administrator shall submit to Congress a report summarizing the regulations and guidance issued pursuant to this paragraph.

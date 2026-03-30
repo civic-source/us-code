@@ -3,9 +3,9 @@ title: "Section 290bb - Center for Substance Abuse Treatment"
 usc_title: 42
 usc_section: "290bb"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 290bb"
-generated_at: "2026-03-30T07:46:59.735Z"
+generated_at: "2026-03-30T07:50:06.671Z"
 status: "active"
 ---
 
@@ -25,6 +25,8 @@ status: "active"
   - **(10)** carry out activities to educate individuals on the need for establishing treatment facilities within their communities;
   - **(11)** encourage public and private entities that provide health insurance to provide benefits for outpatient treatment services and other nonhospital-based treatment services;
   - **(12)** evaluate treatment programs to determine the quality and appropriateness of various forms of treatment, which shall be carried out through grants, contracts, or cooperative agreements provided to public or nonprofit private entities;
-  - **(13)** ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded; and
-  - **(14)** work with States, providers, and individuals in recovery, and their families, to promote the expansion of recovery support services and systems of care oriented toward recovery.
+  - **(13)** ensure the consistent documentation of the application of criteria when awarding grants and the ongoing oversight of grantees after such grants are awarded;
+  - **(14)** work with States, providers, and individuals in recovery, and their families, to promote the expansion of recovery support services and systems of care oriented toward recovery;
+  - **(15)** in cooperation with the Secretary, implement and disseminate, as appropriate, the recommendations in the report entitled “Protecting Our Infants Act: Final Strategy” issued by the Department of Health and Human Services in 2017; and
+  - **(16)** in cooperation with relevant stakeholders, and through public-private partnerships, encourage education about substance use disorders for pregnant women and health care providers who treat pregnant women and babies.
 - **(c)** In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.

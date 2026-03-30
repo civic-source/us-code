@@ -3,9 +3,9 @@ title: "Section 382 - Limitation on net operating loss carryforwards and certain
 usc_title: 26
 usc_section: "382"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 382"
-generated_at: "2026-03-30T07:46:33.232Z"
+generated_at: "2026-03-30T07:49:37.057Z"
 status: "active"
 ---
 
@@ -169,7 +169,7 @@ status: "active"
         - **(II)** section 1015 (relating to property acquired by a gift or transfer in trust), or
         - **(III)** section 1041(b)(2) (relating to transfers of property between spouses or incident to divorce),
       - **(ii)** stock is received by any person in satisfaction of a right to receive a pecuniary bequest, or
-      - **(iii)** 1 1 See Amendment of Subsection ( l )(3)(B)(iii) note below. stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 71(b)(2)),
+      - **(iii)** stock is acquired by a person pursuant to any divorce or separation instrument (within the meaning of section 121(d)(3)(C)),
     - **(C)** Except as provided in regulations, any change in proportionate ownership which is attributable solely to fluctuations in the relative fair market values of different classes of stock shall not be taken into account.
   - **(4)**
     - **(A)** If, immediately after an ownership change, the new loss corporation has substantial nonbusiness assets, the value of the old loss corporation shall be reduced by the excess (if any) of—

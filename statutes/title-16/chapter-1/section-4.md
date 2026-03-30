@@ -1,15 +1,15 @@
 ---
-title: "Section 4 - Entrance or admission fees prohibited"
+title: "Section 4 - Transfer of administrative jurisdiction"
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T07:46:15.375Z"
+generated_at: "2026-03-30T07:49:05.974Z"
 status: "active"
 ---
 
-# § 460bbbb–4. Entrance or admission fees prohibited
+# § 460ffff–4. Transfer of administrative jurisdiction
 
-Notwithstanding any other provision of law, no fees shall be charged for entrance or admission to the national historical park or the preservation district established by this subchapter.
+Administrative jurisdiction over the approximately 56 acres of Federal land depicted on the Map as “USFS Transfer to BLM” is transferred from the Forest Service to the Bureau of Land Management.
 

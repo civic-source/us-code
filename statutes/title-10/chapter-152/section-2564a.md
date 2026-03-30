@@ -3,9 +3,9 @@ title: "Section 2564a - Provision of assistance for adaptive sports programs for
 usc_title: 10
 usc_section: "2564a"
 chapter: 152
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2564a"
-generated_at: "2026-03-30T07:45:51.380Z"
+generated_at: "2026-03-30T07:48:43.968Z"
 status: "active"
 ---
 

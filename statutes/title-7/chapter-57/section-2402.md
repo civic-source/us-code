@@ -3,15 +3,15 @@ title: "Section 2402 - Right to plant variety protection; plant varieties protec
 usc_title: 7
 usc_section: "2402"
 chapter: 57
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2402"
-generated_at: "2026-03-30T07:45:46.538Z"
+generated_at: "2026-03-30T07:48:18.741Z"
 status: "active"
 ---
 
 # § 2402. Right to plant variety protection; plant varieties protectable
 
-- **(a)** The breeder of any sexually reproduced or tuber propagated plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
+- **(a)** The breeder of any sexually reproduced, tuber propagated, or asexually reproduced plant variety (other than fungi or bacteria) who has so reproduced the variety, or the successor in interest of the breeder, shall be entitled to plant variety protection for the variety, subject to the conditions and requirements of this chapter, if the variety is—
   - **(1)** new, in the sense that, on the date of filing of the application for plant variety protection, propagating or harvested material of the variety has not been sold or otherwise disposed of to other persons, by or with the consent of the breeder, or the successor in interest of the breeder, for purposes of exploitation of the variety—
     - **(A)** in the United States, more than 1 year prior to the date of filing; or
     - **(B)** in any area outside of the United States—

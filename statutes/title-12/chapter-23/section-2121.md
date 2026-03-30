@@ -3,13 +3,13 @@ title: "Section 2121 - Establishment; titles; branches"
 usc_title: 12
 usc_section: "2121"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 2121"
-generated_at: "2026-03-30T07:46:02.789Z"
+generated_at: "2026-03-30T07:48:49.538Z"
 status: "active"
 ---
 
 # § 2121. Establishment; titles; branches
 
-The banks for cooperatives established pursuant to sections 2 and 30 of the Farm Credit Act of 1933, as amended, shall continue as federally chartered instrumentalities of the United States. The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives. Unless an existing bank for cooperatives is merged with another bank, there shall be a bank for cooperatives in each farm credit district and a Central Bank for Cooperatives. A bank for cooperatives may include in its title the name of the city in which it is located or other geographical designation. The Central Bank for Cooperatives may be located in such place as its board of directors may determine with the approval of the Farm Credit Administration. When authorized by the Farm Credit Administration each bank for cooperatives may establish such branches or other offices as may be appropriate for the effective operation of its business.
+The banks for cooperatives established pursuant to sections 2 and 30 of the Farm Credit Act of 1933, as amended, shall continue as federally chartered instrumentalities of the United States. The Farm Credit Administration shall approve amendments consistent with this chapter to charters and organizational certificates of banks for cooperatives. Unless an existing bank for cooperatives is merged with another bank, there shall be a bank for cooperatives in each farm credit district. A bank for cooperatives may include in its title the name of the city in which it is located or other geographical designation. When authorized by the Farm Credit Administration each bank for cooperatives may establish such branches or other offices as may be appropriate for the effective operation of its business.
 

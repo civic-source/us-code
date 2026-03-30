@@ -3,9 +3,9 @@ title: "Section 5165d - Designation of Small State and Rural Advocate"
 usc_title: 42
 usc_section: "5165d"
 chapter: 68
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 5165d"
-generated_at: "2026-03-30T07:47:00.128Z"
+generated_at: "2026-03-30T07:50:07.041Z"
 status: "active"
 ---
 

@@ -1,15 +1,84 @@
 ---
-title: "Section 1 - Request for additional wildfire suppression funds"
+title: "Section 1 - Wildfire Technology Modernization"
 usc_title: 43
 usc_section: "1"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T07:46:48.694Z"
+generated_at: "2026-03-30T07:49:48.841Z"
 status: "active"
 ---
 
-# § 1748a–1. Request for additional wildfire suppression funds
+# § 1748b–1. Wildfire Technology Modernization
 
-If the amount provided for wildfire suppression operations for that fiscal year will be exhausted within 30 calendar days, the Secretary of the Interior or the Secretary of Agriculture (as applicable), in consultation with the Director of the Office of Management and Budget, shall promptly submit a request to Congress for supplemental appropriations.
-
+- **(a)** The purpose of this section is to promote the use of the best available technology to enhance the effective and cost-efficient response to wildfires—
+  - **(1)** to meet applicable protection objectives; and
+  - **(2)** to increase the safety of—
+    - **(A)** firefighters; and
+    - **(B)** the public.
+- **(b)** In this section:
+  - **(1)** The term “Secretaries” means—
+    - **(A)** the Secretary of Agriculture; and
+    - **(B)** the Secretary.
+  - **(2)** The term “Secretary concerned” means—
+    - **(A)** the Secretary of Agriculture, with respect to activities under the Department of Agriculture; and
+    - **(B)** the Secretary, with respect to activities under the Department of the Interior.
+- **(c)**
+  - **(1)** In this subsection, the terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49 .
+  - **(2)** Not later than 180 days after March 12, 2019 , the Secretary, in consultation with the Secretary of Agriculture, shall establish a research, development, and testing program, or expand an applicable existing program, to assess unmanned aircraft system technologies, including optionally piloted aircraft, across the full range of wildland fire management operations in order to accelerate the deployment and integration of those technologies into the operations of the Secretaries.
+  - **(3)** In carrying out the program established under paragraph (2), the Secretaries, in coordination with the Federal Aviation Administration, State wildland firefighting agencies, and other relevant Federal agencies, shall enter into an agreement under which the Secretaries shall develop consistent protocols and plans for the use on wildland fires of unmanned aircraft system technologies, including for the development of real-time maps of the location of wildland fires.
+- **(d)**
+  - **(1)** Not later than 2 years after March 12, 2019 , subject to the availability of appropriations, the Secretaries, in coordination with State wildland firefighting agencies, shall jointly develop and operate a tracking system (referred to in this subsection as the “system”) to remotely locate the positions of fire resources for use by wildland firefighters, including, at a minimum, any fire resources assigned to Federal type 1 wildland fire incident management teams.
+  - **(2)** The system shall—
+    - **(A)** use the most practical and effective technology available to the Secretaries to remotely track the location of an active resource, such as a Global Positioning System;
+    - **(B)** depict the location of each fire resource on the applicable maps developed under subsection (c)(3);
+    - **(C)** operate continuously during the period for which any firefighting personnel are assigned to the applicable Federal wildland fire; and
+    - **(D)** be subject to such terms and conditions as the Secretary concerned determines necessary for the effective implementation of the system.
+  - **(3)** The Secretary concerned shall—
+    - **(A)** before commencing operation of the system—
+      - **(i)** conduct not fewer than 2 pilot projects relating to the operation, management, and effectiveness of the system; and
+      - **(ii)** review the results of those pilot projects;
+    - **(B)** conduct training, and maintain a culture, such that an employee, officer, or contractor shall not rely on the system for safety; and
+    - **(C)** establish procedures for the collection, storage, and transfer of data collected under this subsection to ensure—
+      - **(i)** data security; and
+      - **(ii)** the privacy of wildland fire personnel.
+- **(e)**
+  - **(1)** To the maximum extent practicable, the Secretaries shall ensure that wildland fire management activities conducted by the Secretaries, or conducted jointly by the Secretaries and State wildland firefighting agencies, achieve compliance with applicable incident management objectives in a manner that—
+    - **(A)** minimizes firefighter exposure to the lowest level necessary; and
+    - **(B)** reduces overall costs of wildfire incidents.
+  - **(2)**
+    - **(A)** The Secretaries, in coordination with State wildland firefighting agencies, shall establish a system or expand an existing system to track and monitor decisions made by the Secretaries or State wildland firefighting agencies in managing wildfires.
+    - **(B)** The system established or expanded under subparagraph (A) shall be able to alert the Secretaries if—
+      - **(i)** unusual costs are incurred;
+      - **(ii)** an action to be carried out would likely—
+        - **(I)** endanger the safety of a firefighter; or
+        - **(II)** be ineffective in meeting an applicable suppression or protection goal; or
+      - **(iii)** a decision regarding the management of a wildfire deviates from—
+        - **(I)** an applicable protocol established by the Secretaries, including the requirement under paragraph (1); or
+        - **(II)** an applicable spatial fire management plan or fire management plan of the Secretary concerned.
+- **(f)** The Secretaries shall establish a program, to be known as the “Interagency Wildland Fire Air Quality Response Program”, under which the Secretary concerned—
+  - **(1)** to the maximum extent practicable, shall assign 1 or more air resource advisors to a type 1 incident management team managing a Federal wildland fire; and
+  - **(2)** may assign 1 or more air resource advisors to a type 2 incident management team managing a wildland fire.
+- **(g)**
+- **(h)**
+  - **(1)** The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration and the Secretary of Commerce, shall establish and maintain a database, to be known as the “Rapid Response Erosion Database” (referred to in this subsection as the “Database”).
+  - **(2)**
+    - **(A)** The Secretaries shall make the Database (including the original source code)—
+      - **(i)** web-based; and
+      - **(ii)** available without charge.
+    - **(B)** To the maximum extent practicable, the Database shall provide for—
+      - **(i)** the automatic incorporation of spatial data relating to vegetation, soils, and elevation into an applicable map created by the Secretary concerned that depicts the changes in land-cover and soil properties caused by a wildland fire; and
+      - **(ii)** the generation of a composite map that can be used by the Secretary concerned to model the effectiveness of treatments in the burned area to prevent flooding, erosion, and landslides under a range of weather scenarios.
+  - **(3)** The Secretary concerned shall use the Database, as applicable, in developing recommendations for emergency stabilization treatments or modifications to drainage structures to protect values-at-risk following a wildland fire.
+  - **(4)** The Secretaries may share the Database, and any results generated in using the Database, with any State or unit of local government.
+- **(i)**
+  - **(1)** The Secretaries, in consultation with the Administrator of the National Aeronautics and Space Administration, the Secretary of Energy, and the Secretary of Commerce, through the capabilities and assets located at the National Laboratories, shall establish and maintain a system to predict the locations of future wildfires for fire-prone areas of the United States.
+  - **(2)** The system established under paragraph (1) shall be based on, and seek to enhance, similar systems in existence on March 12, 2019 , including the Fire Danger Assessment System.
+  - **(3)** Not later than 1 year after March 12, 2019 , the Secretaries shall use the system established under paragraph (1), to the maximum extent practicable, for purposes of developing any wildland fire potential forecasts.
+  - **(4)** The Secretaries may share the system established under paragraph (1), and any results generated in using the system, with any State or unit of local government.
+- **(j)** The authority provided by this section terminates on the date that is 10 years after March 12, 2019 .
+- **(k)** Nothing in this section—
+  - **(1)** requires the Secretary concerned to establish a new program, system, or database to replace an existing program, system, or database that meets the objectives of this section; or
+  - **(2)** precludes the Secretary concerned from using existing or future technology that—
+    - **(A)** is more efficient, safer, or better meets the needs of firefighters, other personnel, or the public; and
+    - **(B)** meets the objectives of this section.

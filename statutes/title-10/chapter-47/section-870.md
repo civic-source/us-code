@@ -3,9 +3,9 @@ title: "Section 870 - Art. 70. Appellate counsel"
 usc_title: 10
 usc_section: "870"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 870"
-generated_at: "2026-03-30T07:45:51.258Z"
+generated_at: "2026-03-30T07:48:43.898Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
   - **(3)** when the Judge Advocate General has sent the case to the Court of Appeals for the Armed Forces.
 - **(d)** The accused has the right to be represented before the Court of Criminal Appeals, the Court of Appeals for the Armed Forces, or the Supreme Court by civilian counsel if provided by him.
 - **(e)** Military appellate counsel shall also perform such other functions in connection with the review of court martial cases as the Judge Advocate General directs.
+- **(f)** To the greatest extent practicable, in any capital case, at least one defense counsel under subsection (c) shall, as determined by the Judge Advocate General, be learned in the law applicable to such cases. If necessary, this counsel may be a civilian and, if so, may be compensated in accordance with regulations prescribed by the Secretary of Defense.

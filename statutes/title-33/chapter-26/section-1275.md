@@ -3,9 +3,9 @@ title: "Section 1275 - Columbia River Basin Restoration"
 usc_title: 33
 usc_section: "1275"
 chapter: 26
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 1275"
-generated_at: "2026-03-30T07:46:37.788Z"
+generated_at: "2026-03-30T07:49:41.189Z"
 status: "active"
 ---
 
@@ -83,6 +83,7 @@ status: "active"
   - **(5)**
     - **(A)** Nothing in this subsection limits the eligibility of the Estuary Partnership to receive funding under section 1330(g) of this title .
     - **(B)** None of the funds made available under this subsection may be used for the administration of a management conference under section 1330 of this title .
+  - **(6)** There is authorized to be appropriated to carry out this subsection $30,000,000 for each of fiscal years 2020 and 2021.
 - **(e)** The President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31 , shall submit information regarding each Federal agency involved in protection and restoration of the Columbia River Basin, including an interagency crosscut budget that displays for each Federal agency—
   - **(1)** the amounts obligated for the preceding fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin;
   - **(2)** the estimated budget for the current fiscal year for protection and restoration projects, programs, and studies relating to the Columbia River Basin; and

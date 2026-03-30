@@ -1,0 +1,15 @@
+---
+title: "Section 70032 - Saint Lawrence Seaway"
+usc_title: 46
+usc_section: "70032"
+chapter: 700
+current_through: "PL 116-10"
+classification: "46 U.S.C. § 70032"
+generated_at: "2026-03-30T07:50:11.299Z"
+status: "active"
+---
+
+# § 70032. Saint Lawrence Seaway
+
+The authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Saint Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters A through C 1 1 So in original. Probably should be “subchapters I through III”. and this subchapter shall be delegated by the Secretary to the Saint Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
+

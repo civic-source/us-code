@@ -3,9 +3,9 @@ title: "Section 1 - Community development revolving loan fund for credit unions"
 usc_title: 12
 usc_section: "1"
 chapter: 14
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T07:46:02.735Z"
+generated_at: "2026-03-30T07:48:49.504Z"
 status: "active"
 ---
 

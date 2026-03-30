@@ -1,15 +1,13 @@
 ---
-title: "Section 922 - Inspection of car ferries entering from abroad"
+title: "Section 922 - Repealed. Pub. L. 115–254, div. J , § 1816(c), Oct. 5, 2018 , 132 Stat. 3541"
 usc_title: 6
 usc_section: "922"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 922"
-generated_at: "2026-03-30T07:45:41.921Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.907Z"
+status: "repealed"
 ---
 
-# § 922. Inspection of car ferries entering from abroad
-
-Not later than 120 days after October 13, 2006 , the Secretary, acting through the Commissioner, and in coordination with the Secretary of State and in cooperation with ferry operators and appropriate foreign government officials, shall seek to develop a plan for the inspection of passengers and vehicles before such passengers board, or such vehicles are loaded onto, a ferry bound for a United States facility required to submit a plan under section 70103(c) of title 46 .
+# § 922. Repealed. Pub. L. 115–254, div. J , § 1816(c), Oct. 5, 2018 , 132 Stat. 3541
 

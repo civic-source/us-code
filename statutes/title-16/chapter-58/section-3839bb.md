@@ -3,9 +3,9 @@ title: "Section 3839bb - Conservation of private grazing land"
 usc_title: 16
 usc_section: "3839bb"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 3839bb"
-generated_at: "2026-03-30T07:46:15.546Z"
+generated_at: "2026-03-30T07:49:06.092Z"
 status: "active"
 ---
 
@@ -42,6 +42,9 @@ status: "active"
   - **(2)**
     - **(A)** If funding is provided to carry out this section, it shall be provided through a specific line-item in the annual appropriations for the Natural Resources Conservation Service.
     - **(B)** Personnel of the Department trained in pasture and range management shall be made available under the program to deliver and coordinate technical assistance and education to owners and managers of private grazing land, at the request of the owners and managers.
+    - **(C)** In carrying out the program under this section, the Secretary shall provide education and outreach activities through partnerships with—
+      - **(i)** land-grant colleges and universities (as defined in section 3103 of title 7 ); and
+      - **(ii)** nongovernmental organizations.
 - **(d)**
   - **(1)** Congress finds that—
     - **(A)** there is a severe lack of technical assistance for farmers and ranchers that graze livestock;
@@ -58,4 +61,4 @@ status: "active"
     - **(D)** The area proposed to be included in a grazing management district shall be determined by the Secretary on the basis of an application by farmers or ranchers.
     - **(E)** The Secretary may use authority under the Agricultural Adjustment Act ( 7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
     - **(F)** The activities of a grazing management district shall be scientifically sound activities, as determined by the Secretary in consultation with a technical advisory committee composed of ranchers, farmers, and technical experts.
-- **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
+- **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2023.

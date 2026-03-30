@@ -3,9 +3,9 @@ title: "Section 4507 - Selection of fellowship recipients"
 usc_title: 20
 usc_section: "4507"
 chapter: 57
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 4507"
-generated_at: "2026-03-30T07:46:11.924Z"
+generated_at: "2026-03-30T07:48:57.384Z"
 status: "active"
 ---
 

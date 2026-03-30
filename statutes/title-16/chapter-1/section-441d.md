@@ -3,9 +3,9 @@ title: "Section 441d - Examinations, excavations, and gathering of objects of in
 usc_title: 16
 usc_section: "441d"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 441d"
-generated_at: "2026-03-30T07:46:15.321Z"
+generated_at: "2026-03-30T07:49:05.938Z"
 status: "active"
 ---
 

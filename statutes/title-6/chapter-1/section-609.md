@@ -3,9 +3,9 @@ title: "Section 609 - Use of funds"
 usc_title: 6
 usc_section: "609"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 609"
-generated_at: "2026-03-30T07:45:41.916Z"
+generated_at: "2026-03-30T07:48:14.900Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administrator shall permit the recipient of a grant under section 604 or 605 of this title to use grant funds to achieve target capabilities related to preventing, preparing for, protecting against, and responding to acts of terrorism, consistent with a State homeland security plan and relevant local, tribal, and regional homeland security plans, including by working in conjunction with a National Laboratory (as defined in section 15801(3) of title 42 ), through—
   - **(1)** developing and enhancing homeland security, emergency management, or other relevant plans, assessments, or mutual aid agreements;
   - **(2)** designing, conducting, and evaluating training and exercises, including training and exercises conducted under section 321a of this title and section 748 of this title ;
-  - **(3)** protecting a system or asset included on the prioritized critical infrastructure list established under section 124 l (a)(2) of this title;
+  - **(3)** protecting a system or asset included on the prioritized critical infrastructure list established under section 664(a)(2) of this title ;
   - **(4)** purchasing, upgrading, storing, or maintaining equipment, including computer hardware and software;
   - **(5)** ensuring operability and achieving interoperability of emergency communications;
   - **(6)** responding to an increase in the threat level under the Homeland Security Advisory System, or to the needs resulting from a National Special Security Event;

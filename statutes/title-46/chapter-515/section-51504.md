@@ -3,9 +3,9 @@ title: "Section 51504 - Use of training vessels"
 usc_title: 46
 usc_section: "51504"
 chapter: 515
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 51504"
-generated_at: "2026-03-30T07:47:17.808Z"
+generated_at: "2026-03-30T07:50:11.290Z"
 status: "active"
 ---
 
@@ -29,6 +29,12 @@ status: "active"
     - **(A)** $100,000 for fiscal year 2006;
     - **(B)** $200,000 for fiscal year 2007; and
     - **(C)** $300,000 for fiscal year 2008 and each fiscal year thereafter.
-- **(g)** The Secretary may not—
-  - **(1)** take a vessel, currently in use as a training vessel under this section, out of service to implement an alternative program (including vessel sharing) unless the vessel is incapable of being maintained in good repair as required by subsection (d); or
-  - **(2)** implement a program requiring a State maritime academy to share its training vessel with another State maritime academy, except with the express consent of Congress.
+- **(g)**
+  - **(1)** Not later than 90 days after the date of enactment of the National Defense Authorization Act for Fiscal Year 2019, the Secretary, acting through the Maritime Administrator, shall upon consultation with the maritime academies, and to the extent feasible with the consent of the maritime academies, implement a program of training vessel sharing, requiring maritime academies to share training vessel 1 1 So in original. Probably should be “vessels”. provided by the Secretary among maritime academies, as necessary to ensure that training needs of each academy are met.
+  - **(2)** For purposes of this subsection, a program of vessel sharing shall include—
+    - **(A)** ways to maximize the available underway training available in the fleet of training vessels;
+    - **(B)** coordinating the dates and duration of training cruises with the academic calendars of maritime academies;
+    - **(C)** coordinating academic programs designed to be implemented aboard training vessels among maritime academies; and
+    - **(D)** identifying ways to minimize costs.
+  - **(3)** Subject to the availability of appropriations, the Maritime Administrator may provide additional funding to State maritime academies during periods of limited training vessel capacity, for costs associated with training vessel sharing.
+  - **(4)** Not later than 30 days after the beginning of each fiscal year, the Secretary, acting through the Maritime Administrator, shall evaluate the vessel sharing program under this subsection to determine the optimal utilization of State maritime training vessels, and modify the program as necessary to improve utilization.

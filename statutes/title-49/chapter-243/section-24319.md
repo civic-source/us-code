@@ -3,9 +3,9 @@ title: "Section 24319 - Grant process"
 usc_title: 49
 usc_section: "24319"
 chapter: 243
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24319"
-generated_at: "2026-03-30T07:47:24.810Z"
+generated_at: "2026-03-30T07:50:15.301Z"
 status: "active"
 ---
 
@@ -15,8 +15,9 @@ status: "active"
 - **(b)** Amtrak shall transmit to the Secretary grant requests for Federal funds appropriated to the Secretary of Transportation for the use of Amtrak.
 - **(c)** A grant request under subsection (b) shall, as applicable—
   - **(1)** describe projected operating and capital costs for the upcoming fiscal year for Northeast Corridor activities, including train services and infrastructure, and National Network activities, including State-supported routes and long-distance routes, in comparison to prior fiscal year actual financial performance;
-  - **(2)** describe the capital projects to be funded, with cost estimates and an estimated timetable for completion of the projects covered by the request; and
-  - **(3)** assess Amtrak’s financial condition.
+  - **(2)** describe the capital projects to be funded, with cost estimates and an estimated timetable for completion of the projects covered by the request;
+  - **(3)** assess Amtrak’s financial condition; and
+  - **(4)** describe the status of efforts to improve safety and security on the Northeast Corridor main line, including a description of any efforts to implement recommendations of relevant railroad safety advisory committees.
 - **(d)**
   - **(1)**
     - **(A)** Not later than 30 days after the date that Amtrak submits a grant request under this section, the Secretary of Transportation shall complete a review of the request and provide notice to Amtrak that—

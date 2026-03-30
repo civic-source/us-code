@@ -1,22 +1,26 @@
 ---
-title: "Section 2a - Promoting access to information on evidence-based programs and practices"
+title: "Section 2a - Peer support technical assistance center"
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T07:46:59.741Z"
+generated_at: "2026-03-30T07:50:06.677Z"
 status: "active"
 ---
 
-# § 290dd–2a. Promoting access to information on evidence-based programs and practices
+# § 290ee–2a. Peer support technical assistance center
 
-- **(a)** The Assistant Secretary shall, as appropriate, improve access to reliable and valid information on evidence-based programs and practices, including information on the strength of evidence associated with such programs and practices, related to mental and substance use disorders for States, local communities, nonprofit entities, and other stakeholders, by posting on the Internet website of the Administration information on evidence-based programs and practices that have been reviewed by the Assistant Secretary in accordance with the requirements of this section.
-- **(b)**
-  - **(1)** In carrying out subsection (a), the Assistant Secretary may establish a period for the submission of applications for evidence-based programs and practices to be posted publicly in accordance with subsection (a).
-  - **(2)** In establishing the application period under paragraph (1), the Assistant Secretary shall provide for the public notice of such application period in the Federal Register. Such notice may solicit applications for evidence-based programs and practices to address gaps in information identified by the Assistant Secretary, the National Mental Health and Substance Use Policy Laboratory established under section 290aa–0 of this title , or the Assistant Secretary for Planning and Evaluation, including pursuant to the evaluation and recommendations under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 or priorities identified in the strategic plan under section 290aa( l ) of this title.
-- **(c)** The Assistant Secretary may establish minimum requirements for the applications submitted under subsection (b), including applications related to the submission of research and evaluation.
-- **(d)**
-  - **(1)** The Assistant Secretary shall review applications prior to public posting in accordance with subsection (a), and may prioritize the review of applications for evidence-based programs and practices that are related to topics included in the notice provided under subsection (b)(2).
-  - **(2)** In carrying out paragraph (1), the Assistant Secretary may utilize a rating and review system, which may include information on the strength of evidence associated with the evidence-based programs and practices and a rating of the methodological rigor of the research supporting the applications.
-  - **(3)** The Assistant Secretary shall make the metrics used to evaluate applications under this section, and any resulting ratings of such applications, publicly available.
+- **(a)** The Secretary, acting through the Assistant Secretary, shall establish or operate a National Peer-Run Training and Technical Assistance Center for Addiction Recovery Support (referred to in this section as the “Center”).
+- **(b)** The Center established under subsection (a) shall provide technical assistance and support to recovery community organizations and peer support networks, including such assistance and support related to—
+  - **(1)** training on identifying—
+    - **(A)** signs of substance use disorder;
+    - **(B)** resources to assist individuals with a substance use disorder, or resources for families of an individual with a substance use disorder; and
+    - **(C)** best practices for the delivery of recovery support services;
+  - **(2)** the provision of translation services, interpretation, or other such services for clients with limited English speaking proficiency;
+  - **(3)** data collection to support research, including for translational research;
+  - **(4)** capacity building; and
+  - **(5)** evaluation and improvement, as necessary, of the effectiveness of such services provided by recovery community organizations.
+- **(c)** The Center established under subsection (a) shall periodically issue best practices for use by recovery community organizations and peer support networks.
+- **(d)** In this section, the term “recovery community organization” has the meaning given such term in section 290ee–2 of this title .
+- **(e)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.

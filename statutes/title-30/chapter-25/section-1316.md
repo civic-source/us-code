@@ -3,9 +3,9 @@ title: "Section 1316 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1316"
 chapter: 25
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "30 U.S.C. § 1316"
-generated_at: "2026-03-30T07:46:25.715Z"
+generated_at: "2026-03-30T07:49:21.429Z"
 status: "active"
 ---
 

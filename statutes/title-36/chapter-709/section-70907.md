@@ -1,15 +1,15 @@
 ---
-title: "Section 70907 - Exclusive right to name, seals, emblems, and badges"
+title: "Section 70907 - Exclusive right to name, 1 1 So in original. Probably should be “names”. seals, emblems, and badges"
 usc_title: 36
 usc_section: "70907"
 chapter: 709
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "36 U.S.C. § 70907"
-generated_at: "2026-03-30T07:46:40.136Z"
+generated_at: "2026-03-30T07:49:43.370Z"
 status: "active"
 ---
 
-# § 70907. Exclusive right to name, seals, emblems, and badges
+# § 70907. Exclusive right to name, 1 1 So in original. Probably should be “names”. seals, emblems, and badges
 
-The corporation and its authorized chapters and associations of chapters have the exclusive right to use the name “Future Farmers of America” and the initials FFA as representing an agricultural membership organization and seals, emblems, and badges the corporation adopts.
+The FFA and its authorized chapters and associations of chapters have the exclusive right to use the names “Future Farmers of America” and “National FFA Organization, 2 2 So in original. ” and the initials FFA as representing an agricultural education membership organization and seals, emblems, and badges the FFA adopts.
 

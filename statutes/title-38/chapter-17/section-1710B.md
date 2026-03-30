@@ -3,9 +3,9 @@ title: "Section 1710B - Extended care services"
 usc_title: 38
 usc_section: "1710B"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1710B"
-generated_at: "2026-03-30T07:46:46.206Z"
+generated_at: "2026-03-30T07:49:45.546Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ status: "active"
     - **(A)** to a veteran whose annual income (determined under section 1503 of this title ) is less than the amount in effect under section 1521(b) of this title ;
     - **(B)** to a veteran being furnished hospice care under this section;
     - **(C)** with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999 ; or
-    - **(D)** to a veteran who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14 .
+    - **(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 2 2 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
 - **(d)**
   - **(1)** A veteran who is furnished extended care services under this chapter and who is required under subsection (c) to pay an amount to the United States in order to be furnished such services shall be liable to the United States for that amount.
   - **(2)** In implementing subsection (c), the Secretary shall develop a methodology for establishing the amount of the copayment for which a veteran described in subsection (c) is liable. That methodology shall provide for—

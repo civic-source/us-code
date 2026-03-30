@@ -3,9 +3,9 @@ title: "Section 306 - Annual report"
 usc_title: 46
 usc_section: "306"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 306"
-generated_at: "2026-03-30T07:47:17.789Z"
+generated_at: "2026-03-30T07:50:11.266Z"
 status: "active"
 ---
 
@@ -16,5 +16,7 @@ status: "active"
   - **(1)** a list of the 20 foreign countries that generated the largest volume of oceanborne liner cargo for the most recent calendar year in bilateral trade with the United States;
   - **(2)** an analysis of conditions described in section 42302(a) of this title being investigated or found to exist in foreign countries;
   - **(3)** any actions being taken by the Commission to offset those conditions;
-  - **(4)** any recommendations for additional legislation to offset those conditions; and
-  - **(5)** a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection.
+  - **(4)** any recommendations for additional legislation to offset those conditions;
+  - **(5)** a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection; and
+  - **(6)** an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part 1 1 So in original. Subtitle I of title 46 does not contain parts. between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+- **(c)** In this section, the term “certain covered services” has the meaning given the term in section 40102.

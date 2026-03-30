@@ -3,9 +3,9 @@ title: "Section 4722 - Aquatic nuisance species program"
 usc_title: 16
 usc_section: "4722"
 chapter: 67
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 4722"
-generated_at: "2026-03-30T07:46:15.560Z"
+generated_at: "2026-03-30T07:49:06.102Z"
 status: "active"
 ---
 

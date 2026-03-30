@@ -3,9 +3,9 @@ title: "Section 1806 - Immigration and transition"
 usc_title: 48
 usc_section: "1806"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "48 U.S.C. § 1806"
-generated_at: "2026-03-30T07:47:03.066Z"
+generated_at: "2026-03-30T07:50:10.097Z"
 status: "active"
 ---
 
@@ -40,10 +40,10 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** An alien, if otherwise qualified, may seek admission to Guam or to the Commonwealth during the transition program as a nonimmigrant worker under section 101(a)(15)(H) of the Immigration and Nationality Act (8 USC 1 1 So in original. Probably should be “U.S.C.” 1101(a)(15)(H)) without counting against the numerical limitations set forth in section 214(g) of such Act (8 USC 1 1184(g)).
-    - **(B)** In the case of such an alien who seeks admission under section 101(a)(15)(H)(ii)(b) of such Act [ 8 U.S.C. 1101(a)(15)(H)(ii)(b) ], such alien, if otherwise qualified, may, before October 1, 2023 , be admitted under such section for a period of up to 3 years to perform service or labor on Guam or the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact 2 2 So in original. Probably should be “contract”. or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and the Commonwealth, notwithstanding the requirement of such section that the service or labor be temporary.
-  - **(2)**
-    - **(A)** For any fiscal year, not more 3 3 So in original. Probably should be followed by “than”. 4,000 aliens may be admitted to Guam and the Commonwealth pursuant to paragraph (1)(B).
-    - **(B)** Paragraph (1)(B) does not apply with respect to the performance of services or labor at a location other than Guam or the Commonwealth.
+    - **(B)** In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(b) ), the alien, if otherwise qualified, may, before December 31, 2023 , be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
+      - **(i)** to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact 2 2 So in original. Probably should be “contract”. or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and in the Commonwealth; or
+      - **(ii)** to perform service or labor as a health care worker (such as a nurse, physician assistant, or allied health professional) at a facility that jointly serves members of the Armed Forces, dependents, and civilians on Guam or in the Commonwealth, subject to the education, training, licensing, and other requirements of section 212(a)(5)(C) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(5)(C) ), as applicable, except that this clause shall not be construed to include graduates of medical schools coming to Guam or the Commonwealth to perform service or labor as members of the medical profession.
+  - **(2)** Paragraph (1) does not apply with respect to the performance of services of labor at a location other than Guam or the Commonwealth.
   - **(3)** Not later than December 1, 2027 , the Secretary shall submit a report to the Committee on Energy and Natural Resources of the Senate, the Committee on the Judiciary of the Senate, the Committee on Natural Resources of the House of Representatives, and the Committee on the Judiciary of the House of Representatives that—
     - **(A)** projects the number of asylum claims the Secretary anticipates following the termination of the transition period; and
     - **(B)** describes the efforts of the Secretary to ensure appropriate interdiction efforts, provide for appropriate treatment of asylum seekers, and prepare to accept and adjudicate asylum claims in the Commonwealth.

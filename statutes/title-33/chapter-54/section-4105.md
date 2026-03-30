@@ -1,0 +1,20 @@
+---
+title: "Section 4105 - Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration"
+usc_title: 33
+usc_section: "4105"
+chapter: 54
+current_through: "PL 116-10"
+classification: "33 U.S.C. § 4105"
+generated_at: "2026-03-30T07:49:41.233Z"
+status: "active"
+---
+
+# § 4105. Reports on unmanned maritime systems and usage for mission of the National Oceanic and Atmospheric Administration
+
+- **(a)** In carrying out this chapter, the Administrator shall, not later than one year after December 21, 2018 , and every 4 years thereafter, submit to the appropriate committees of Congress a report on the usage of unmanned maritime systems for the mission of the Administration.
+- **(b)** Each report submitted under subsection (a) shall include, for the period covered by the report, the following:
+  - **(1)** An inventory of current unmanned maritime systems used by programs of the Administration, a summary of the data they have returned, and the benefits realized from having such data.
+  - **(2)** A prioritized list of data requirements of the Administration that could be met with unmanned maritime systems, and the commercially available unmanned maritime systems with the operational capabilities to collect such data.
+- **(c)** In this section, the term “appropriate committees of Congress” means—
+  - **(1)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate; and
+  - **(2)** the Committee on Appropriations, the Committee on Armed Services, the Committee on Natural Resources, and the Committee on Science, Space, and Technology of the House of Representatives.

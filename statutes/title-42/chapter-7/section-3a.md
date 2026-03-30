@@ -1,123 +1,55 @@
 ---
-title: "Section 3a - Use of average sales price payment methodology"
+title: "Section 3a - Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances"
 usc_title: 42
 usc_section: "3a"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 3a"
-generated_at: "2026-03-30T07:46:59.899Z"
+generated_at: "2026-03-30T07:50:06.910Z"
 status: "active"
 ---
 
-# § 1395w–3a. Use of average sales price payment methodology
+# § 1396w–3a. Requirements relating to qualified prescription drug monitoring programs and prescribing certain controlled substances
 
-- **(a)**
-  - **(1)** Except as provided in paragraph (2), this section shall apply to payment for drugs and biologicals that are described in section 1395u( o )(1)(C) of this title and that are furnished on or after January 1, 2005 .
-  - **(2)** This section shall not apply in the case of a physician who elects under subsection (a)(1)(A)(ii) of section 1395w–3b of this title for that section to apply instead of this section for the payment for drugs and biologicals.
-- **(b)**
-  - **(1)** Subject to paragraph (7) and subsections (d)(3)(C) and (e), the amount of payment determined under this section for the billing and payment code for a drug or biological (based on a minimum dosage unit) is, subject to applicable deductible and coinsurance—
-    - **(A)** in the case of a multiple source drug (as defined in subsection (c)(6)(C)), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008 , or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008 ;
-    - **(B)** in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4); or
-    - **(C)** in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
-  - **(2)**
-    - **(A)** The manufacturer of a drug or biological shall specify the unit associated with each National Drug Code (including package size) as part of the submission of data under section 1396r–8(b)(3)(A)(iii) of this title .
-    - **(B)** In this section, the term “unit” means, with respect to each National Drug Code (including package size) associated with a drug or biological, the lowest identifiable quantity (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological that is dispensed, exclusive of any diluent without reference to volume measures pertaining to liquids. For years after 2004, the Secretary may establish the unit for a manufacturer to report and methods for counting units as the Secretary determines appropriate to implement this section.
-  - **(3)** For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title determined by—
-    - **(A)** computing the sum of the products (for each National Drug Code assigned to such drug products) of—
-      - **(i)** the manufacturer’s average sales price (as defined in subsection (c)); and
-      - **(ii)** the total number of units specified under paragraph (2) sold; and
-    - **(B)** dividing the sum determined under subparagraph (A) by the sum of the total number of units under subparagraph (A)(ii) for all National Drug Codes assigned to such drug products.
-  - **(4)** The amount specified in this paragraph for a single source drug or biological is the lesser of the following:
-    - **(A)** The average sales price as determined using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008 , and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008 , for all National Drug Codes assigned to such drug or biological product.
-    - **(B)** The wholesale acquisition cost (as defined in subsection (c)(6)(B)) using the methodology applied under paragraph (3) for single source drugs and biologicals furnished before April 1, 2008 , and using the methodology applied under paragraph (6) for single source drugs and biologicals furnished on or after April 1, 2008 , for all National Drug Codes assigned to such drug or biological product.
-  - **(5)** The payment amount shall be determined under this subsection based on information reported under subsection (f) and without regard to any special packaging, labeling, or identifiers on the dosage form or product or package.
-  - **(6)**
-    - **(A)** For all drug products included within the same multiple source drug billing and payment code, the amount specified in this paragraph is the volume-weighted average of the average sales prices reported under section 1396r–8(b)(3)(A)(iii) of this title determined by—
-      - **(i)** computing the sum of the products (for each National Drug Code assigned to such drug products) of—
-        - **(I)** the manufacturer’s average sales price (as defined in subsection (c)), determined by the Secretary without dividing such price by the total number of billing units for the National Drug Code for the billing and payment code; and
-        - **(II)** the total number of units specified under paragraph (2) sold; and
-      - **(ii)** dividing the sum determined under clause (i) by the sum of the products (for each National Drug Code assigned to such drug products) of—
-        - **(I)** the total number of units specified under paragraph (2) sold; and
-        - **(II)** the total number of billing units for the National Drug Code for the billing and payment code.
-    - **(B)** For purposes of this subsection, the term “billing unit” means the identifiable quantity associated with a billing and payment code, as established by the Secretary.
-  - **(7)** Beginning with April 1, 2008 , the payment amount for—
-    - **(A)** each single source drug or biological described in section 1395u( o )(1)(G) of this title that is treated as a multiple source drug because of the application of subsection (c)(6)(C)(ii) is the lower of—
-      - **(i)** the payment amount that would be determined for such drug or biological applying such subsection; or
-      - **(ii)** the payment amount that would have been determined for such drug or biological if such subsection were not applied; and
-    - **(B)** a multiple source drug described in section 1395u( o )(1)(G) of this title (excluding a drug or biological that is treated as a multiple source drug because of the application of such subsection) is the lower of—
-      - **(i)** the payment amount that would be determined for such drug or biological taking into account the application of such subsection; or
-      - **(ii)** the payment amount that would have been determined for such drug or biological if such subsection were not applied.
-  - **(8)** The amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
-    - **(A)** the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
-    - **(B)** 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
-- **(c)**
-  - **(1)** For purposes of this section, subject to paragraphs (2) and (3), the manufacturer’s “average sales price” means, of a drug or biological for a National Drug Code for a calendar quarter for a manufacturer for a unit—
-    - **(A)** the manufacturer’s sales to all purchasers (excluding sales exempted in paragraph (2)) in the United States for such drug or biological in the calendar quarter; divided by
-    - **(B)** the total number of such units of such drug or biological sold by the manufacturer in such quarter.
-  - **(2)** In calculating the manufacturer’s average sales price under this subsection, the following sales shall be excluded:
-    - **(A)** Sales exempt from the inclusion in the determination of “best price” under section 1396r–8(c)(1)(C)(i) of this title .
-    - **(B)** Such other sales as the Secretary identifies as sales to an entity that are merely nominal in amount (as applied for purposes of section 1396r–8(c)(1)(C)(ii)(III) of this title , except as the Secretary may otherwise provide).
-  - **(3)** In calculating the manufacturer’s average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under section 1396r–8 of this title ). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
-  - **(4)** In the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section for the drug or biological based on—
-    - **(A)** the wholesale acquisition cost; or
-    - **(B)** the methodologies in effect under this part on November 1, 2003 , to determine payment amounts for drugs or biologicals.
-  - **(5)**
-    - **(A)** The manufacturer’s average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
-    - **(B)** The payment amounts under subsection (b) shall be updated by the Secretary on a quarterly basis and shall be applied based upon the manufacturer’s average sales price calculated for the most recent calendar quarter for which data is available.
-    - **(C)** The Secretary may contract with appropriate entities to calculate the payment amount under subsection (b). Notwithstanding any other provision of law, the Secretary may implement, by program instruction or otherwise, any of the provisions of this section.
-  - **(6)** In this section:
-    - **(A)** The term “manufacturer” means, with respect to a drug or biological, the manufacturer (as defined in section 1396r–8(k)(5) of this title ).
-    - **(B)** The term “wholesale acquisition cost” means, with respect to a drug or biological, the manufacturer’s list price for the drug or biological to wholesalers or direct purchasers in the United States, not including prompt pay or other discounts, rebates or reductions in price, for the most recent month for which the information is available, as reported in wholesale price guides or other publications of drug or biological pricing data.
-    - **(C)**
-      - **(i)** The term “multiple source drug” means, for a calendar quarter, a drug for which there are 2 or more drug products which—
-        - **(I)** are rated as therapeutically equivalent (under the Food and Drug Administration’s most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations”),
-        - **(II)** except as provided in subparagraph (E), are pharmaceutically equivalent and bioequivalent, as determined under subparagraph (F) and as determined by the Food and Drug Administration, and
-        - **(III)** are sold or marketed in the United States during the quarter.
-      - **(ii)** With respect to single source drugs or biologicals that are within the same billing and payment code as of October 1, 2003 , the Secretary shall treat such single source drugs or biologicals as if the single source drugs or biologicals were multiple source drugs.
-    - **(D)** The term “single source drug or biological” means—
-      - **(i)** a biological; or
-      - **(ii)** a drug which is not a multiple source drug and which is produced or distributed under a new drug application approved by the Food and Drug Administration, including a drug product marketed by any cross-licensed producers or distributors operating under the new drug application.
-    - **(E)** Subparagraph (C)(ii) shall not apply if the Food and Drug Administration changes by regulation the requirement that, for purposes of the publication described in subparagraph (C)(i), in order for drug products to be rated as therapeutically equivalent, they must be pharmaceutically equivalent and bioequivalent, as defined in subparagraph (F).
-    - **(F)** For purposes of this paragraph—
-      - **(i)** drug products are pharmaceutically equivalent if the products contain identical amounts of the same active drug ingredient in the same dosage form and meet compendial or other applicable standards of strength, quality, purity, and identity; and
-      - **(ii)** drugs are bioequivalent if they do not present a known or potential bioequivalence problem, or, if they do present such a problem, they are shown to meet an appropriate standard of bioequivalence.
-    - **(G)** In applying provisions of section 1396r–8 of this title under this section, “other than a vaccine” is deemed deleted from section 1396r–8(k)(2)(B) of this title .
-    - **(H)** The term “biosimilar biological product” means a biological product approved under an abbreviated application for a license of a biological product that relies in part on data or information in an application for another biological product licensed under section 262 of this title .
-    - **(I)** The term “reference biological product” means the biological product licensed under such section 262 of this title that is referred to in the application described in subparagraph (H) of the biosimilar biological product.
-- **(d)**
-  - **(1)** The Inspector General of the Department of Health and Human Services shall conduct studies, which may include surveys, to determine the widely available market prices of drugs and biologicals to which this section applies, as the Inspector General, in consultation with the Secretary, determines to be appropriate.
-  - **(2)** Based upon such studies and other data for drugs and biologicals, the Inspector General shall compare the average sales price under this section for drugs and biologicals with—
-    - **(A)** the widely available market price for such drugs and biologicals (if any); and
-    - **(B)** the average manufacturer price (as determined under section 1396r–8(k)(1) of this title ) for such drugs and biologicals.
+- **(a)** Subject to subsection (d), beginning October 1, 2021 , a State—
+  - **(1)** shall require each covered provider to check, in accordance with such timing, manner, and form as specified by the State, the prescription drug history of a covered individual being treated by the covered provider through a qualified prescription drug monitoring program described in subsection (b) before prescribing to such individual a controlled substance; and
+  - **(2)** in the case that such a provider is not able to conduct such a check despite a good faith effort by such provider—
+    - **(A)** shall require the provider to document such good faith effort, including the reasons why the provider was not able to conduct the check; and
+    - **(B)** may require the provider to submit, upon request, such documentation to the State.
+- **(b)** A qualified prescription drug monitoring program described in this subsection is, with respect to a State, a prescription drug monitoring program administered by the State that, at a minimum, satisfies each of the following criteria:
+  - **(1)** The program facilitates access by a covered provider to, at a minimum, the following information with respect to a covered individual, in as close to real-time as possible:
+    - **(A)** Information regarding the prescription drug history of a covered individual with respect to controlled substances.
+    - **(B)** The number and type of controlled substances prescribed to and filled for the covered individual during at least the most recent 12-month period.
+    - **(C)** The name, location, and contact information (or other identifying number selected by the State, such as a national provider identifier issued by the National Plan and Provider Enumeration System of the Centers for Medicare & Medicaid Services) of each covered provider who prescribed a controlled substance to the covered individual during at least the most recent 12-month period.
+  - **(2)** The program facilitates the integration of information described in paragraph (1) into the workflow of a covered provider, which may include the electronic system the covered provider uses to prescribe controlled substances.
+- **(c)** The Secretary shall clarify privacy requirements, including requirements under the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ( 42 U.S.C. 1320d–2 note), related to the sharing of data under subsection (b) in the same manner as the Secretary is required under subparagraph (J) of section 1395w–104(c)(5) of this title to clarify privacy requirements related to the sharing of data described in such subparagraph.
+- **(d)** In order to ensure reasonable access to health care, the Secretary shall waive the application of the requirement under subsection (a), with respect to a State, in the case of natural disasters and similar situations, and in the case of the provision of emergency services (as defined for purposes of section 1395w–104(c)(5)(D)(ii)(II) of this title ).
+- **(e)**
+  - **(1)** Each State shall include in the annual report submitted to the Secretary under section 1396r–8(g)(3)(D) of this title , beginning with such reports submitted for 2023, information including, at a minimum, the following information for the most recent 12-month period:
+    - **(A)** The percentage of covered providers (as determined pursuant to a process established by the State) who checked the prescription drug history of a covered individual through a qualified prescription drug monitoring program described in subsection (b) before prescribing to such individual a controlled substance.
+    - **(B)** Aggregate trends with respect to prescribing controlled substances such as—
+      - **(i)** the quantity of daily morphine milligram equivalents prescribed for controlled substances;
+      - **(ii)** the number and quantity of daily morphine milligram equivalents prescribed for controlled substances per covered individual; and
+      - **(iii)** the types of controlled substances prescribed, including the dates of such prescriptions, the supplies authorized (including the duration of such supplies), and the period of validity of such prescriptions, in different populations (such as individuals who are elderly, individuals with disabilities, and individuals who are enrolled under both this subchapter and subchapter XVIII).
+    - **(C)** Whether or not the State requires (and a detailed explanation as to why the State does or does not require) pharmacists to check the prescription drug history of a covered individual through a qualified prescription drug monitoring program described in subsection (b) before dispensing a controlled substance to such individual.
+    - **(D)** An accounting of any data or privacy breach of a qualified prescription drug monitoring program described in subsection (b), the number of covered individuals impacted by each such breach, and a description of the steps the State has taken to address each such breach, including, to the extent required by State or Federal law or otherwise determined appropriate by the State, alerting any such impacted individual and law enforcement of the breach.
+  - **(2)** Not later than October 1, 2023 , the Administrator of the Centers for Medicare & Medicaid Services shall publish on the publicly available website of the Centers for Medicare & Medicaid Services a report including the following information:
+    - **(A)** Guidance for States on how States can increase the percentage of covered providers who use qualified prescription drug monitoring programs described in subsection (b).
+    - **(B)** Best practices for how States and covered providers should use such qualified prescription drug monitoring programs to reduce the occurrence of abuse of controlled substances.
+- **(f)**
+  - **(1)** With respect to a State that meets the condition described in paragraph (2) and any quarter occurring during fiscal year 2019 or fiscal year 2020, the Federal medical assistance percentage or Federal matching rate that would otherwise apply to such State under section 1396b(a) of this title for such quarter, with respect to expenditures by the State for activities under the State plan (or a waiver of such plan) to design, develop, or implement a prescription drug monitoring program (and to make connections to such program) that satisfies the criteria described in paragraphs (1) and (2) of subsection (b), shall be equal to 100 percent.
+  - **(2)** The condition described in this paragraph, with respect to a State, is that the State (in this paragraph referred to as the “administering State”) has in place agreements with all States that are contiguous to such administering State that, when combined, enable covered providers in all such contiguous States to access, through the prescription drug monitoring program, the information that is described in subsection (b)(1) of covered individuals of such administering State and that covered providers in such administering State are able to access through such program.
+- **(g)** Nothing in this section prevents a State from requiring pharmacists to check the prescription drug history of covered individuals through a qualified prescription drug monitoring program before dispensing controlled substances to such individuals.
+- **(h)** In this section:
+  - **(1)** The term “controlled substance” means a drug that is included in schedule II of section 812(c) of title 21 and, at the option of the State involved, a drug included in schedule III or IV of such section.
+  - **(2)** The term “covered individual” means, with respect to a State, an individual who is enrolled in the State plan (or under a waiver of such plan). Such term does not include an individual who—
+    - **(A)** is receiving—
+      - **(i)** hospice or palliative care; or
+      - **(ii)** treatment for cancer;
+    - **(B)** is a resident of a long-term care facility, of a facility described in section 1396d(d) of this title , or of another facility for which frequently abused drugs are dispensed for residents through a contract with a single pharmacy; or
+    - **(C)** the State elects to treat as exempted from such term.
   - **(3)**
-    - **(A)** The Secretary may disregard the average sales price for a drug or biological that exceeds the widely available market price or the average manufacturer price for such drug or biological by the applicable threshold percentage (as defined in subparagraph (B)).
-    - **(B)** In this paragraph, the term “applicable threshold percentage” means—
-      - **(i)** in 2005, in the case of an average sales price for a drug or biological that exceeds widely available market price or the average manufacturer price, 5 percent; and
-      - **(ii)** in 2006 and subsequent years, the percentage applied under this subparagraph subject to such adjustment as the Secretary may specify for the widely available market price or the average manufacturer price, or both.
-    - **(C)** If the Inspector General finds that the average sales price for a drug or biological exceeds such widely available market price or average manufacturer price for such drug or biological by the applicable threshold percentage, the Inspector General shall inform the Secretary (at such times as the Secretary may specify to carry out this subparagraph) and the Secretary shall, effective as of the next quarter, substitute for the amount of payment otherwise determined under this section for such drug or biological the lesser of—
-      - **(i)** the widely available market price for the drug or biological (if any); or
-      - **(ii)** 103 percent of the average manufacturer price (as determined under section 1396r–8(k)(1) of this title ) for the drug or biological.
-  - **(4)**
-    - **(A)** If the Secretary determines that a manufacturer has made a misrepresentation in the reporting of the manufacturer’s average sales price for a drug or biological, the Secretary may apply a civil money penalty in an amount of up to $10,000 for each such price misrepresentation and for each day in which such price misrepresentation was applied.
-    - **(B)** The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to civil money penalties under subparagraph (B) in the same manner as they apply to a penalty or proceeding under section 1320a–7a(a) of this title .
-  - **(5)**
-    - **(A)** In this subsection, the term “widely available market price” means the price that a prudent physician or supplier would pay for the drug or biological. In determining such price, the Inspector General shall take into account the discounts, rebates, and other price concessions routinely made available to such prudent physicians or suppliers for such drugs or biologicals.
-    - **(B)** In determining the price under subparagraph (A), the Inspector General shall consider information from one or more of the following sources:
-      - **(i)** Manufacturers.
-      - **(ii)** Wholesalers.
-      - **(iii)** Distributors.
-      - **(iv)** Physician supply houses.
-      - **(v)** Specialty pharmacies.
-      - **(vi)** Group purchasing arrangements.
-      - **(vii)** Surveys of physicians.
-      - **(viii)** Surveys of suppliers.
-      - **(ix)** Information on such market prices from insurers.
-      - **(x)** Information on such market prices from private health plans.
-- **(e)** In the case of a public health emergency under section 247d of this title in which there is a documented inability to access drugs and biologicals, and a concomitant increase in the price, 1 1 So in original. The comma probably should not appear. of a drug or biological which is not reflected in the manufacturer’s average sales price for one or more quarters, the Secretary may use the wholesale acquisition cost (or other reasonable measure of drug or biological price) instead of the manufacturer’s average sales price for such quarters and for subsequent quarters until the price and availability of the drug or biological has stabilized and is substantially reflected in the applicable manufacturer’s average sales price.
-- **(f)** For requirements for reporting the manufacturer’s average sales price (and, if required to make payment, the manufacturer’s wholesale acquisition cost) for the drug or biological under this section, see section 1396r–8(b)(3) of this title .
-- **(g)** There shall be no administrative or judicial review under section 1395ff of this title , section 1395 oo of this title, or otherwise, of—
-  - **(1)** determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;
-  - **(2)** the identification of units (and package size) under subsection (b)(2);
-  - **(3)** the method to allocate rebates, chargebacks, and other price concessions to a quarter if specified by the Secretary;
-  - **(4)** the manufacturer’s average sales price when it is used for the determination of a payment amount under this section; and
-  - **(5)** the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
+    - **(A)** The term “covered provider” means, subject to subparagraph (B), with respect to a State, a health care provider who is participating under the State plan (or waiver of the State plan) and licensed, registered, or otherwise permitted by the State to prescribe a controlled substance (or the designee of such provider).
+    - **(B)**
+      - **(i)** Beginning October 1, 2021 , for purposes of this section, such term does not include a health care provider included in any type of health care provider determined by the Secretary to be exempt from application of this section under clause (ii).
+      - **(ii)** Not later than October 1, 2020 , the Secretary, after consultation with the National Association of Medicaid Directors, national health care provider associations, Medicaid beneficiary advocates, and advocates for individuals with rare diseases, shall determine, based on such consultations, the types of health care providers (if any) that should be exempted from the definition of the term “covered provider” for purposes of this section.

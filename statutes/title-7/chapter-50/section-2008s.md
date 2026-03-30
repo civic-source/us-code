@@ -3,9 +3,9 @@ title: "Section 2008s - Rural microentrepreneur assistance program"
 usc_title: 7
 usc_section: "2008s"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2008s"
-generated_at: "2026-03-30T07:45:46.507Z"
+generated_at: "2026-03-30T07:48:18.719Z"
 status: "active"
 ---
 
@@ -55,7 +55,9 @@ status: "active"
       - **(i)** The Secretary shall make grants to microenterprise development organizations to provide marketing, management, and other technical assistance to microentrepreneurs that—
         - **(I)** received a loan from the microenterprise development organization under paragraph (3); or
         - **(II)** are seeking a loan from the microenterprise development organization under paragraph (3).
-      - **(ii)** A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded.
+      - **(ii)** A microenterprise development organization shall be eligible to receive an annual grant under this subparagraph in an amount equal to not less than 20 percent and not more than 25 percent of the total outstanding balance of microloans made by the microenterprise development organization under paragraph (3), as of the date the grant is awarded, subject to—
+        - **(I)** satisfactory performance by the microenterprise development organization under this section, and
+        - **(II)** the availability of funding.
     - **(C)** Not more than 10 percent of a grant received by a microenterprise development organization for a fiscal year under this paragraph may be used to pay administrative expenses.
 - **(c)**
   - **(1)**
@@ -65,9 +67,4 @@ status: "active"
       - **(i)** in cash (including through fees, grants (including community development block grants), and gifts); or
       - **(ii)** in the form of in-kind contributions.
   - **(2)** At a minimum, not later than December 1 of each fiscal year, a microenterprise development organization that receives a loan or grant under this section shall provide to the Secretary such information as the Secretary may require to ensure that assistance provided under this section is used for the purposes for which the loan or grant was made.
-- **(d)**
-  - **(1)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
-    - **(A)** $4,000,000 for each of fiscal years 2009 through 2011;
-    - **(B)** $3,000,000 for fiscal year 2012; and
-    - **(C)** $3,000,000 for each of fiscal years 2014 through 2018.
-  - **(2)** In addition to amounts made available under paragraph (1), there are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2009 through 2018.
+- **(d)** There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.

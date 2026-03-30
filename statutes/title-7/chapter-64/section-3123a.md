@@ -3,9 +3,9 @@ title: "Section 3123a - Specialty crop committee"
 usc_title: 7
 usc_section: "3123a"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3123a"
-generated_at: "2026-03-30T07:45:46.546Z"
+generated_at: "2026-03-30T07:48:18.746Z"
 status: "active"
 ---
 
@@ -14,13 +14,13 @@ status: "active"
 - **(a)**
   - **(1)** Not later than 90 days after December 21, 2004 , the executive committee of the Advisory Board shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
   - **(2)**
-    - **(A)** Not later than 45 days after February 7, 2014 , the Secretary shall establish within the speciality crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title .
-    - **(B)** The citrus disease subcommittee shall be composed of 9 members, each of whom is a domestic producer of citrus in a State, represented as follows:
-      - **(i)** Three of such members shall represent Arizona or California.
+    - **(A)** Not later than 45 days after February 7, 2014 , the Secretary shall establish within the specialty crops committee, and appoint the initial members of, a citrus disease subcommittee to carry out the responsibilities of the subcommittee described in subsection (g) in accordance with subsection (j)(3) of section 7632 of this title .
+    - **(B)** The citrus disease subcommittee shall be composed of 11 members, each of whom is a domestic producer of citrus in a State, represented as follows:
+      - **(i)** Five of such members shall represent Arizona or California.
       - **(ii)** Five of such members shall represent Florida.
       - **(iii)** One of such members shall represent Texas.
     - **(C)** The Secretary may appoint individuals who are not members of the specialty crops committee or the Advisory Board established under section 3123 of this title as members of the citrus disease subcommittee 1 1 So in original. Probably should be followed by a period.
-    - **(D)** The subcommittee established under subparagraph (A) shall terminate on September 30, 2018 .
+    - **(D)** The subcommittee established under subparagraph (A) shall terminate on September 30, 2023 .
     - **(E)** The subcommittee established under subparagraph (A) shall be covered by the exemption to section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.) applicable to the Advisory Board under section 3123(f) of this title .
 - **(b)**
   - **(1)** Individuals who are not members of the Advisory Board may be appointed as members of the specialty crops committee.

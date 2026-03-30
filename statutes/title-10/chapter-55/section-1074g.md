@@ -3,9 +3,9 @@ title: "Section 1074g - Pharmacy benefits program"
 usc_title: 10
 usc_section: "1074g"
 chapter: 55
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1074g"
-generated_at: "2026-03-30T07:45:51.277Z"
+generated_at: "2026-03-30T07:48:43.911Z"
 status: "active"
 ---
 
@@ -48,7 +48,7 @@ status: "active"
     - **(A)** exclude from the pharmacy benefits program any pharmaceutical agent that the Secretary determines provides very little or no clinical effectiveness to covered beneficiaries and the Department under the program; and
     - **(B)** give preferential status to any non-generic pharmaceutical agent on the uniform formulary by treating it, for purposes of cost-sharing under paragraph (6), as a generic product under the TRICARE retail pharmacy program and mail order pharmacy program.
 - **(b)**
-  - **(1)** The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (h).
+  - **(1)** The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (h). 1 1 See References in Text note below.
   - **(2)** The committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 - **(c)**
   - **(1)** Concurrent with the establishment of the Pharmacy and Therapeutics Committee under subsection (b), the Secretary shall establish a Uniform Formulary Beneficiary Advisory Panel to review and comment on the development of the uniform formulary. The Secretary shall consider the comments of the panel before implementing the uniform formulary or implementing changes to the uniform formulary.
@@ -63,9 +63,22 @@ status: "active"
   - **(3)** With respect to the TRICARE retail pharmacy program described in subsection (a)(2)(E)(ii), the Secretary shall ensure that a contract entered into with a TRICARE pharmacy program contractor includes requirements described in section 1860D–12(b)(6) of the Social Security Act ( 42 U.S.C. 1395w–112(b)(6) ) to ensure the provision of information regarding the pricing standard for prescription drugs.
 - **(e)** The Secretary of Defense shall implement the use of the Pharmacy Data Transaction Service in all fixed facilities of the uniformed services under the jurisdiction of the Secretary, in the TRICARE retail pharmacy program, and in the national mail-order pharmacy program.
 - **(f)** With respect to any prescription filled after January 28, 2008 , the TRICARE retail pharmacy program shall be treated as an element of the Department of Defense for purposes of the procurement of drugs by Federal agencies under section 8126 of title 38 to the extent necessary to ensure that pharmaceuticals paid for by the Department of Defense that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
-- **(g)** In this section:
+- **(g)**
+  - **(1)** The Secretary of Defense shall establish and maintain a program (to be known as the “Military Health System Prescription Drug Monitoring Program”) in accordance with this subsection. The program shall include a special emphasis on drugs provided through facilities of the uniformed services.
+  - **(2)** The program shall be—
+    - **(A)** comparable to prescription drug monitoring programs operated by States, including such programs approved by the Secretary of Health and Human Services under section 399O of the Public Health Service Act ( 42 U.S.C. 280g–3 ); and
+    - **(B)** applicable to designated controlled substance prescriptions under the pharmacy benefits program.
+  - **(3)**
+    - **(A)** The Secretary shall establish appropriate procedures for the bi-directional sharing of patient-specific information regarding prescriptions for designated controlled substances between the program and State prescription drug monitoring programs.
+    - **(B)** The purpose of sharing of information under this paragraph shall be to prevent misuse and diversion of opioid medications and other designated controlled substances.
+    - **(C)** Any disclosure of patient-specific information by the Secretary under this paragraph is an authorized disclosure for purposes of the health information privacy regulations promulgated under the Health Insurance Portability and Accountability Act of 1996 ( Public Law 104–191 ).
+  - **(4)**
+    - **(A)** Any procedures developed pursuant to paragraph (3)(A) shall include appropriate safeguards, as determined by the Secretary, concerning cyber security of Department of Defense systems and operational security of Department personnel.
+    - **(B)** To the extent the Secretary considers appropriate, the program may be treated as comparable to a State program for purposes of bi-directional sharing of controlled substance prescription information.
+  - **(5)** For purposes of this subsection, any reference to a program operated by a State includes any program operated by a county, municipality, or other subdivision within that State.
+- **(h)** In this section:
   - **(1)** The term “eligible covered beneficiary” means a covered beneficiary for whom eligibility to receive pharmacy benefits through the means described in subsection (a)(2)(E) is established under this chapter or another provision of law.
   - **(2)** The term “pharmaceutical agent” means drugs, biological products, and medical devices under the regulatory authority of the Food and Drug Administration.
   - **(3)** The term “over-the-counter drug” means a drug that is not subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 353(b) ).
   - **(4)** The term “prescription drug” means a drug that is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 353(b) ).
-- **(h)** The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
+- **(i)** The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.

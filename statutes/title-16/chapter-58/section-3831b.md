@@ -3,16 +3,16 @@ title: "Section 3831b - Farmable wetland program"
 usc_title: 16
 usc_section: "3831b"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 3831b"
-generated_at: "2026-03-30T07:46:15.542Z"
+generated_at: "2026-03-30T07:49:06.089Z"
 status: "active"
 ---
 
 # § 3831b. Farmable wetland program
 
 - **(a)**
-  - **(1)** During the 2008 through 2018 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
+  - **(1)** During the 2008 through 2023 fiscal years, the Secretary shall carry out a farmable wetland program in each State under which the Secretary shall enroll eligible acreage described in subsection (b).
   - **(2)** The Secretary shall ensure, to the maximum extent practicable, that owners and operators in each State have an equitable opportunity to participate in the program established under this section.
 - **(b)**
   - **(1)** Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, land—
@@ -24,7 +24,7 @@ status: "active"
       - **(ii)** subject to the natural overflow of a prairie wetland.
   - **(2)** Subject to subsections (c) and (d), an owner or operator may enroll in the conservation reserve, pursuant to the program established under this section, buffer acreage that—
     - **(A)** with respect to land described in subparagraph (A), (B), or (C) of paragraph (1)—
-      - **(i)** is contiguous to such land 1 1 So in original. Probably should be followed by a semicolon.
+      - **(i)** is contiguous to such land;
       - **(ii)** is used to protect such land; and
       - **(iii)** is of such width as the Secretary determines is necessary to protect such land, taking into consideration and accommodating the farming practices (including the straightening of boundaries to accommodate machinery) used with respect to the cropland that surrounds such land; and
     - **(B)** with respect to land described in subparagraph (D) of paragraph (1), enhances a wildlife benefit to the extent practicable in terms of upland to wetland ratios, as determined by the Secretary.
@@ -53,5 +53,5 @@ status: "active"
   - **(1)** Except as provided in paragraphs (2) and (3), in return for a contract entered into under this section, the Secretary shall—
     - **(A)** make payments to the owner or operator based on rental rates for cropland; and
     - **(B)** provide assistance to the owner or operator in accordance with sections 3833 and 3834 of this title.
-  - **(2)** The Secretary shall use the method of determination described in section 3834(d)(2)(A)(ii) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
+  - **(2)** The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
   - **(3)** The amounts payable to owners and operators in the form of rental payments under contracts entered into under this section shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title .

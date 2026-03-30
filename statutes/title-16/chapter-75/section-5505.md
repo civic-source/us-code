@@ -3,9 +3,9 @@ title: "Section 5505 - Unlawful activities"
 usc_title: 16
 usc_section: "5505"
 chapter: 75
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 5505"
-generated_at: "2026-03-30T07:46:15.565Z"
+generated_at: "2026-03-30T07:49:06.106Z"
 status: "active"
 ---
 

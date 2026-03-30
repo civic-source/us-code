@@ -3,9 +3,9 @@ title: "Section 1187 - Visa waiver program for certain visitors"
 usc_title: 8
 usc_section: "1187"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "8 U.S.C. § 1187"
-generated_at: "2026-03-30T07:45:42.542Z"
+generated_at: "2026-03-30T07:48:21.451Z"
 status: "active"
 ---
 
@@ -31,11 +31,11 @@ status: "active"
     - **(A)** Except as provided in subparagraphs (B) and (C)—
       - **(i)** the alien has not been present, at any time on or after March 1, 2011 —
         - **(I)** in Iraq or Syria;
-        - **(II)** in a country that is designated by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+        - **(II)** in a country that is designated by the Secretary of State under section 4605(j) 2 2 See References in Text note below. of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
         - **(III)** in any other country or area of concern designated by the Secretary of Homeland Security under subparagraph (D); and
       - **(ii)** regardless of whether the alien is a national of a program country, the alien is not a national of—
         - **(I)** Iraq or Syria;
-        - **(II)** a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
+        - **(II)** a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) 2 of title 50 (as continued in effect under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)), section 2780 of title 22 , section 2371 of title 22 , or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
         - **(III)** any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
     - **(B)** Subparagraph (A)(i) shall not apply in the case of an alien if the Secretary of Homeland Security determines that the alien was present—
       - **(i)** in order to perform military service in the armed forces of a program country; or
@@ -176,7 +176,7 @@ status: "active"
     - **(D)** to collect, provide, and share passenger data as required under subsection (h)(1)(B).
   - **(2)** The Secretary of Homeland Security may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
   - **(3)**
-    - **(A)** For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations 2 2 So in original. Probably should be followed by a comma. that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
+    - **(A)** For purposes of this section, a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations 1 that owns or operates a noncommercial aircraft is a corporation that is organized under the laws of any of the States of the United States or the District of Columbia and is accredited by or a member of a national organization that sets business aviation standards. The Secretary of Homeland Security shall prescribe by regulation the provision of such information as the Secretary of Homeland Security deems necessary to identify the domestic corporation, its officers, employees, shareholders, its place of business, and its business activities.
     - **(B)** In addition to any other fee authorized by law, the Secretary of Homeland Security is authorized to charge and collect, on a periodic basis, an amount from each domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, for nonimmigrant visa waiver admissions on noncommercial aircraft owned or operated by such domestic corporation equal to the total amount of fees assessed for issuance of nonimmigrant visa waiver arrival/departure forms at land border ports of entry. All fees collected under this paragraph shall be deposited into the Immigration User Fee Account established under section 1356(h) of this title .
 - **(f)**
   - **(1)**

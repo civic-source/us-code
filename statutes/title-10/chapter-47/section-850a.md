@@ -3,9 +3,9 @@ title: "Section 850a - Art. 50a. Defense of lack of mental responsibility"
 usc_title: 10
 usc_section: "850a"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 850a"
-generated_at: "2026-03-30T07:45:51.255Z"
+generated_at: "2026-03-30T07:48:43.897Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** It is an affirmative defense in a trial by court-martial that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 - **(b)** The accused has the burden of proving the defense of lack of mental responsibility by clear and convincing evidence.
-- **(c)** Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue, the military judge, or the president of a court-martial without a military judge, shall instruct the members of the court as to the defense of lack of mental responsibility under this section and charge them to find the accused—
+- **(c)** Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue, the military judge shall instruct the members of the court as to the defense of lack of mental responsibility under this section and charge them to find the accused—
   - **(1)** guilty;
   - **(2)** not guilty; or
   - **(3)** not guilty only by reason of lack of mental responsibility.

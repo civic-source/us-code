@@ -1,16 +1,28 @@
 ---
-title: "Section 6 - Minimizing adverse impacts on preservation district"
+title: "Section 6 - Advisory Council"
 usc_title: 16
 usc_section: "6"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 6"
-generated_at: "2026-03-30T07:46:15.375Z"
+generated_at: "2026-03-30T07:49:05.973Z"
 status: "active"
 ---
 
-# § 460bbbb–6. Minimizing adverse impacts on preservation district
+# § 460zzz–6. Advisory Council
 
-- **(a)** In order to better integrate the east and west portions of the Martin Luther King, Junior, Preservation District, the Federal Highway Administration, in cooperation with the Georgia Department of Transportation, is hereby directed to insure that any design and reconstruction of the North Interstate 85 and Interstate 75 Expressway over Auburn and Edgewood Avenues in the city of Atlanta, Georgia, and the interchange at Edgewood Avenue, shall minimize the adverse impacts on the preservation district.
-- **(b)** In carrying out the provisions of this subsection, the Federal Highway Administration shall require that, where feasible, any major change required for the Auburn Avenue overpass results in a design which permits a wider distance between overpass support structures and the disposition of understructure development rights for appropriate business or recreation uses.
-- **(c)** Plans for the construction, exterior renovation, or demolition of any structure or change in land use within the preservation district by the National Park Service or any Federal agency must be submitted to the Atlanta Urban Design Commission in a timely fashion for its review and comment.
+- **(a)** Not later than 180 days after March 30, 2009 , the Secretary shall establish an advisory council, to be known as the “Dominguez-Escalante National Conservation Area Advisory Council”.
+- **(b)** The Council shall advise the Secretary with respect to the preparation and implementation of the management plan.
+- **(c)** The Council shall be subject to—
+  - **(1)** the Federal Advisory Committee Act (5 U.S.C. App.); and
+  - **(2)** the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq.).
+- **(d)** The Council shall include 10 members to be appointed by the Secretary, of whom, to the extent practicable—
+  - **(1)** 1 member shall be appointed after considering the recommendations of the Mesa County Commission;
+  - **(2)** 1 member shall be appointed after considering the recommendations of the Montrose County Commission;
+  - **(3)** 1 member shall be appointed after considering the recommendations of the Delta County Commission;
+  - **(4)** 1 member shall be appointed after considering the recommendations of the permittees holding grazing allotments within the Conservation Area or the Wilderness; and
+  - **(5)** 5 members shall reside in, or within reasonable proximity to, Mesa County, Delta County, or Montrose County, Colorado, with backgrounds that reflect—
+    - **(A)** the purposes for which the Conservation Area or Wilderness was established; and
+    - **(B)** the interests of the stakeholders that are affected by the planning and management of the Conservation Area and Wilderness.
+- **(e)** The Secretary shall ensure that the membership of the Council is fairly balanced in terms of the points of view represented and the functions to be performed by the Council.
+- **(f)** The Council shall terminate on the date that is 1 year from the date on which the management plan is adopted by the Secretary.

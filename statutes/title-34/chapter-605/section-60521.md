@@ -3,9 +3,9 @@ title: "Section 60521 - Offender reentry substance abuse and criminal justice co
 usc_title: 34
 usc_section: "60521"
 chapter: 605
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 60521"
-generated_at: "2026-03-30T07:46:36.284Z"
+generated_at: "2026-03-30T07:49:40.365Z"
 status: "active"
 ---
 
@@ -36,5 +36,5 @@ status: "active"
   - **(2)** Not later than September 30, 2010 , the Attorney General shall submit to Congress a report on the drug treatment programs funded under this section, including on the matters specified in paragraph (1).
 - **(e)** The term “Single State Authority for Substance Abuse” means an entity designated by the Governor or chief executive officer of a State as the single State administrative authority responsible for the planning, development, implementation, monitoring, regulation, and evaluation of substance abuse services.
 - **(f)**
-  - **(1)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2009 and 2010.
+  - **(1)** There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** Of the amount made available to carry out this section in any fiscal year, the Attorney General shall ensure that grants awarded under this section are equitably distributed among geographical regions and between urban and rural populations, including Indian Tribes, consistent with the objective of reducing recidivism among criminal offenders.

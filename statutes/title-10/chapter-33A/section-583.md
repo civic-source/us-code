@@ -3,9 +3,9 @@ title: "Section 583 - Definitions"
 usc_title: 10
 usc_section: "583"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 583"
-generated_at: "2026-03-30T07:45:51.241Z"
+generated_at: "2026-03-30T07:48:43.888Z"
 status: "active"
 ---
 
@@ -24,4 +24,4 @@ In this chapter:
     - **(A)** are eligible for consideration for promotion to the next higher grade;
     - **(B)** are in the same grade as warrant officers in the promotion zone; and
     - **(C)** are junior to the junior warrant officer in the promotion zone.
-  - **(4)** The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a of title 14 .
+  - **(4)** The active-duty list referred to in section 573(b) of this title includes the active-duty promotion list established by section 41a 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.

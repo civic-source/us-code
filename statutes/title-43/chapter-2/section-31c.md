@@ -3,9 +3,9 @@ title: "Section 31c - Geologic mapping program"
 usc_title: 43
 usc_section: "31c"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 31c"
-generated_at: "2026-03-30T07:46:48.648Z"
+generated_at: "2026-03-30T07:49:48.793Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ status: "active"
     - **(C)** administered through the Survey.
 - **(b)**
   - **(1)** The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
-    - **(A)** develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title , which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009 ;
-    - **(B)** appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009 , in accordance with section 31d of this title ; and
+    - **(A)** develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title , which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 12, 2019 ;
+    - **(B)** appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 12, 2019 , in accordance with section 31d of this title ; and
     - **(C)** submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
       - **(i)** how the Survey and the Association are coordinating the development and implementation of the geologic mapping program;
       - **(ii)** how the Survey and the Association establish goals, mapping priorities, and target dates for implementation of the geologic mapping program; and

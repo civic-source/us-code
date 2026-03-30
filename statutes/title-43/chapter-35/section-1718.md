@@ -3,9 +3,9 @@ title: "Section 1718 - Documents of conveyance; terms, covenants, etc."
 usc_title: 43
 usc_section: "1718"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1718"
-generated_at: "2026-03-30T07:46:48.692Z"
+generated_at: "2026-03-30T07:49:48.839Z"
 status: "active"
 ---
 

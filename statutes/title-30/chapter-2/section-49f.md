@@ -3,9 +3,9 @@ title: "Section 49f - Fees of recorders in Alaska for filing proofs of work and 
 usc_title: 30
 usc_section: "49f"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "30 U.S.C. § 49f"
-generated_at: "2026-03-30T07:46:25.688Z"
+generated_at: "2026-03-30T07:49:21.402Z"
 status: "active"
 ---
 

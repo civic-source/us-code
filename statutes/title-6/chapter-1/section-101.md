@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 6
 usc_section: "101"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 101"
-generated_at: "2026-03-30T07:45:41.890Z"
+generated_at: "2026-03-30T07:48:14.876Z"
 status: "active"
 ---
 
@@ -25,7 +25,7 @@ In this chapter, the following definitions apply:
   - **(10)** The term “GMD” means a geomagnetic disturbance caused by a solar storm or another naturally occurring phenomenon.
   - **(11)** The term “intelligence component of the Department” means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50 , except—
     - **(A)** the United States Secret Service; and
-    - **(B)** the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 of title 14 , except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50 . 1 1 So in original. A closing parenthesis probably should precede the period.
+    - **(B)** the Coast Guard, when operating under the direct authority of the Secretary of Defense or Secretary of the Navy pursuant to section 3 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, except that nothing in this paragraph shall affect or diminish the authority and responsibilities of the Commandant of the Coast Guard to command or control the Coast Guard as an armed force or the authority of the Director of National Intelligence with respect to the Coast Guard as an element of the intelligence community (as defined under section 3003(4) of title 50 . 2 2 So in original. A closing parenthesis probably should precede the period.
   - **(12)** The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
   - **(13)** The term “local government” means—
     - **(A)** a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;

@@ -3,9 +3,9 @@ title: "Section 24102 - Definitions"
 usc_title: 49
 usc_section: "24102"
 chapter: 241
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 24102"
-generated_at: "2026-03-30T07:47:24.809Z"
+generated_at: "2026-03-30T07:50:15.299Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ In this part—
     - **(C)** long-distance routes of more than 750 miles between endpoints operated by Amtrak as of the date of enactment of the Passenger Rail Investment and Improvement Act of 2008; and
     - **(D)** short-distance corridors, or routes of not more than 750 miles between endpoints, operated by—
       - **(i)** Amtrak; or
-      - **(ii)** another rail carrier that receives funds under chapter 244.
+      - **(ii)** another rail carrier that receives funds under chapter 229.
   - **(8)** “Northeast Corridor” means Connecticut, Delaware, the District of Columbia, Maryland, Massachusetts, New Jersey, New York, Pennsylvania, and Rhode Island.
   - **(9)** “rail carrier” means a person, including a unit of State or local government, providing rail transportation for compensation.
   - **(10)** “rate” means a rate, fare, or charge for rail transportation.

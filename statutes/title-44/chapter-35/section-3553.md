@@ -3,9 +3,9 @@ title: "Section 3553 - Authority and functions of the Director and the Secretary
 usc_title: 44
 usc_section: "3553"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "44 U.S.C. § 3553"
-generated_at: "2026-03-30T07:46:48.131Z"
+generated_at: "2026-03-30T07:49:48.244Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(B)** information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
   - **(3)** ensuring that the Secretary carries out the authorities and functions under subsection (b);
   - **(4)** coordinating the development of standards and guidelines under section 20 of the National Institute of Standards and Technology Act ( 15 U.S.C. 278g–3 ) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) to assure, to the maximum extent feasible, that such standards and guidelines are complementary with standards and guidelines developed for national security systems;
-  - **(5)** overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303 of title 40 , to enforce accountability for compliance with such requirements; and
+  - **(5)** overseeing agency compliance with the requirements of this subchapter and section 1326 of title 41 , including through any authorized action under section 11303 of title 40 , to enforce accountability for compliance with such requirements; and
   - **(6)** coordinating information security policies and procedures with related information resources management policies and procedures.
 - **(b)** The Secretary, in consultation with the Director, shall administer the implementation of agency information security policies and practices for information systems, except for national security systems and information systems described in paragraph (2) or (3) of subsection (e), including—
   - **(1)** assisting the Director in carrying out the authorities and functions under paragraphs (1), (2), (3), (5), and (6) of subsection (a);
@@ -73,7 +73,7 @@ status: "active"
     - **(G)** consider any applicable standards or guidelines developed by the National Institute of Standards and Technology issued by the Secretary of Commerce under section 11331 of title 40 ; and
     - **(H)** not later than February 1 of each year, submit to the appropriate congressional committees a report regarding the specific actions the Secretary has taken pursuant to paragraph (1)(A).
   - **(3)**
-    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+    - **(A)** Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) 1 of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
       - **(i)** the Secretary determines there is an imminent threat to agency information systems;
       - **(ii)** the Secretary determines a directive under subsection (b)(2)(C) or paragraph (1)(A) is not reasonably likely to result in a timely response to the threat;
       - **(iii)** the Secretary determines the risk posed by the imminent threat outweighs any adverse consequences reasonably expected to result from the use of the intrusion detection and prevention capabilities under the control of the Secretary;

@@ -3,9 +3,9 @@ title: "Section 2079 - Transfers of functions"
 usc_title: 15
 usc_section: "2079"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 2079"
-generated_at: "2026-03-30T07:45:58.926Z"
+generated_at: "2026-03-30T07:48:52.172Z"
 status: "active"
 ---
 

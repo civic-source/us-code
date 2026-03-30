@@ -3,9 +3,9 @@ title: "Section 2621 - Enforcement"
 usc_title: 7
 usc_section: "2621"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2621"
-generated_at: "2026-03-30T07:45:46.541Z"
+generated_at: "2026-03-30T07:48:18.743Z"
 status: "active"
 ---
 

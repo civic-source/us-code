@@ -3,9 +3,9 @@ title: "Section 335a - Debarment, temporary denial of approval, and suspension"
 usc_title: 21
 usc_section: "335a"
 chapter: 9
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "21 U.S.C. § 335a"
-generated_at: "2026-03-30T07:46:19.673Z"
+generated_at: "2026-03-30T07:49:09.773Z"
 status: "active"
 ---
 
@@ -17,10 +17,11 @@ status: "active"
     - **(A)** relating to the development or approval, including the process for development or approval, of any drug product, or
     - **(B)** otherwise relating to the regulation of any drug product under this chapter,
 - **(b)**
-  - **(1)** The Secretary, on the Secretary’s own initiative or in response to a petition, may, in accordance with paragraph (2), debar—
-    - **(A)** a person other than an individual from submitting or assisting in the submission of any abbreviated drug application,
-    - **(B)** an individual from providing services in any capacity to a person that has an approved or pending drug product application, or
-    - **(C)** a person from importing an article of food or offering such an article for import into the United States.
+  - **(1)** The Secretary, on the Secretary’s own initiative or in response to a petition, may, in accordance with paragraph (2) or (3), debar—
+    - **(A)** a person other than an individual from submitting or assisting in the submission of any abbreviated drug application;
+    - **(B)** an individual from providing services in any capacity to a person that has an approved or pending drug product application;
+    - **(C)** a person from importing an article of food or offering such an article for import into the United States; or
+    - **(D)** a person from importing or offering for import into the United States a drug.
   - **(2)** The following persons are subject to debarment under subparagraph (A) or (B) of paragraph (1):
     - **(A)** Any person other than an individual that the Secretary finds has been convicted—
       - **(i)** for conduct that—
@@ -41,9 +42,16 @@ status: "active"
         - **(III)** knew that the actions described in subclause (I) were violative of law, and
         - **(IV)** did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
   - **(3)** A person is subject to debarment under paragraph (1)(C) if—
-    - **(A)** the person has been convicted of a felony for conduct relating to the importation into the United States of any food; or
-    - **(B)** the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals.
+    - **(A)** the person has been convicted of a felony for conduct relating to the importation into the United States of any food;
+    - **(B)** the person has engaged in a pattern of importing or offering for import adulterated food that presents a threat of serious adverse health consequences or death to humans or animals;
+    - **(C)** the person has been convicted of a felony for conduct relating to the importation into the United States of any drug or controlled substance (as defined in section 802 of this title );
+    - **(D)** the person has engaged in a pattern of importing or offering for import—
+      - **(i)** controlled substances that are prohibited from importation under section 1401(m) of title 19 ; or
+      - **(ii)** adulterated or misbranded drugs that are—
+        - **(I)** not designated in an authorized electronic data interchange system as a product that is regulated by the Secretary; or
+        - **(II)** knowingly or intentionally falsely designated in an authorized electronic data interchange system as a product that is regulated by the Secretary.
   - **(4)** An order of the Secretary under clause (iii) or (iv) of paragraph (2)(B) shall not take effect until 30 days after the order has been issued.
+  - **(5)** For purposes of paragraph (3)(D), the term “pattern of importing or offering for import” means importing or offering for import a drug described in clause (i) or (ii) of paragraph (3)(D) in an amount, frequency, or dosage that is inconsistent with personal or household use by the importer.
 - **(c)**
   - **(1)** The Secretary—
     - **(A)** shall not accept or review (other than in connection with an audit under this section) any abbreviated drug application submitted by or with the assistance of a person debarred under subsection (a)(1) or (b)(2)(A) during the period such person is debarred,

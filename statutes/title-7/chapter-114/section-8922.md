@@ -3,9 +3,9 @@ title: "Section 8922 - Agricultural biosecurity grant program"
 usc_title: 7
 usc_section: "8922"
 chapter: 114
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 8922"
-generated_at: "2026-03-30T07:45:46.637Z"
+generated_at: "2026-03-30T07:48:18.812Z"
 status: "active"
 ---
 
@@ -30,4 +30,4 @@ status: "active"
   - **(2)** Funds received under this section may not be used for the construction, renovation, or rehabilitation of a building or facility.
 - **(e)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2008 through 2013, to remain available until expended; and
-  - **(2)** $5,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
+  - **(2)** $5,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.

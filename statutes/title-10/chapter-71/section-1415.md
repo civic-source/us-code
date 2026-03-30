@@ -3,9 +3,9 @@ title: "Section 1415 - Lump sum payment of certain retired pay"
 usc_title: 10
 usc_section: "1415"
 chapter: 71
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 1415"
-generated_at: "2026-03-30T07:45:51.302Z"
+generated_at: "2026-03-30T07:48:43.925Z"
 status: "active"
 ---
 
@@ -48,4 +48,4 @@ status: "active"
   - **(1)** Subject to paragraph (2), an eligible person who makes an election described in subsection (b)(1) shall be entitled to receive the eligible person’s monthly covered retired pay calculated in accordance with paragraph (2) after the eligible person attains the eligible person’s retirement age.
   - **(2)** The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the first month beginning after the person attains the eligible person’s retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with section 1401a of this title .
 - **(d)** An eligible person who does not make the election described in subsection (b)(1) shall be paid the retired pay to which the eligible person is otherwise entitled under the applicable provisions of law referred to in subsection (a)(1).
-- **(e)** The Secretary of Defense concerned 1 1 So in original. shall prescribe regulations to carry out the provisions of this section.
+- **(e)** The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.

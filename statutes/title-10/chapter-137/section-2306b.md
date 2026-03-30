@@ -3,9 +3,9 @@ title: "Section 2306b - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "2306b"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2306b"
-generated_at: "2026-03-30T07:45:51.345Z"
+generated_at: "2026-03-30T07:48:43.950Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
   - **(3)** funds appropriated for those payments.
 - **(g)**
   - **(1)** Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
-  - **(2)** In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (1), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall, as part of the certification required by subsection (i)(1)(A), give written notification to the congressional defense committees of—
+  - **(2)** In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (1), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall, as part of the certification required by subsection (i)(1)(A), 1 1 See References in Text note below. give written notification to the congressional defense committees of—
     - **(A)** the cancellation ceiling amounts planned for each program year in the proposed multiyear procurement contract, together with the reasons for the amounts planned;
     - **(B)** the extent to which costs of contract cancellation are not included in the budget for the contract; and
     - **(C)** a financial risk assessment of not including budgeting for costs of contract cancellation.
@@ -49,7 +49,7 @@ status: "active"
   - **(1)** In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
   - **(2)** In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
     - **(A)** A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were made after the completion of a cost analysis performed by the Director of Cost Assessment and Program Evaluation for the purpose of section 2334(e)(1) 1 1 See References in Text note below. of this title, and that the analysis supports those preliminary findings.
+    - **(B)** Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
   - **(3)** A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
     - **(A)** The Secretary has determined that each of the requirements in paragraphs (1) through (6) of subsection (a) will be met by such contract and has provided the basis for such determination to the congressional defense committees.
     - **(B)** The Secretary’s determination under subparagraph (A) was made after completion of a cost analysis conducted on the basis of section 2334(e)(2) 1 of this title, and the analysis supports the determination.

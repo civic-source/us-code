@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 26
 usc_section: "7701"
 chapter: 79
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 7701"
-generated_at: "2026-03-30T07:46:33.428Z"
+generated_at: "2026-03-30T07:49:37.223Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(14)** The term “taxpayer” means any person subject to any internal revenue tax.
   - **(15)** The term “military or naval forces of the United States” and the term “Armed Forces of the United States” each includes all regular and reserve components of the uniformed services which are subject to the jurisdiction of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, and each term also includes the Coast Guard. The members of such forces include commissioned officers and personnel below the grade of commissioned officers in such forces.
   - **(16)** The term “withholding agent” means any person required to deduct and withhold any tax under the provisions of section 1441, 1442, 1443, or 1461.
-  - **(17)** As used in sections 682 and 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such sections, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such sections are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such sections, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
+  - **(17)** As used in section 2516, if the husband and wife therein referred to are divorced, wherever appropriate to the meaning of such section, the term “wife” shall be read “former wife” and the term “husband” shall be read “former husband”; and, if the payments described in such section are made by or on behalf of the wife or former wife to the husband or former husband instead of vice versa, wherever appropriate to the meaning of such section, the term “husband” shall be read “wife” and the term “wife” shall be read “husband.”
   - **(18)** The term “international organization” means a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act ( 22 U.S.C. 288–288f ).
   - **(19)** The term “domestic building and loan association” means a domestic building and loan association, a domestic savings and loan association, and a Federal savings and loan association—
     - **(A)** which is subject by law to supervision and examination by State or Federal authority having supervision over such associations;
@@ -182,7 +182,7 @@ status: "active"
       - **(iii)** a student, or
       - **(iv)** a professional athlete who is temporarily in the United States to compete in a sports event—
         - **(I)** which is organized for the primary purpose of benefiting an organization which is described in section 501(c)(3) and exempt from tax under section 501(a),
-        - **(II)** all of the net proceeds of which are contributed to such organization, and, 2 2 So in original. The comma probably should not appear.
+        - **(II)** all of the net proceeds of which are contributed to such organization, and, 1 1 So in original. The comma probably should not appear.
         - **(III)** which utilizes volunteers for substantially all of the work performed in carrying out such event.
     - **(B)** The term “foreign government-related individual” means any individual temporarily present in the United States by reason of—
       - **(i)** diplomatic status, or a visa which the Secretary (after consultation with the Secretary of State) determines represents full-time diplomatic or consular status for purposes of this subsection,

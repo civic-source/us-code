@@ -3,9 +3,9 @@ title: "Section 132a - Chief Management Officer"
 usc_title: 10
 usc_section: "132a"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 132a"
-generated_at: "2026-03-30T07:45:51.212Z"
+generated_at: "2026-03-30T07:48:43.868Z"
 status: "active"
 ---
 
@@ -24,5 +24,16 @@ status: "active"
     - **(C)** Exercising any responsibilities, duties, and powers relating to business systems or management that are exercisable by a chief information officer for the Department, other than those responsibilities, duties, and powers of a chief information officer that are vested in the Chief Information Officer of the Department of Defense by section 142 of this title .
   - **(5)** Serving as the official with principal responsibility in the Department for providing for the availability of common, usable, Defense-wide data sets with applications such as improving acquisition outcomes and personnel management.
   - **(6)** Authority to direct the Secretaries of the military departments and the heads of all other elements of the Department with regard to matters for which the Chief Management Officer has responsibility under this section.
-- **(c)** The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
-- **(d)** In this section, the term “enterprise business operations” means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.
+  - **(7)** Serving as the official with principal responsibility in the Department for minimizing the duplication of efforts, maximizing efficiency and effectiveness, and establishing metrics for performance among and for all organizations and elements of the Department.
+- **(c)**
+  - **(1)**
+    - **(A)** Beginning in fiscal year 2020, the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require the head of each Defense Agency and Department of Defense Field Activity specified by the Secretary for purposes of this subsection to transmit the proposed budget of such Agency or Activity for enterprise business operations for a fiscal year, and for the period covered by the future-years defense program submitted to Congress under section 221 of this title for that fiscal year, to the Chief Management Officer for review under subparagraph (B) at the same time the proposed budget is submitted to the Under Secretary of Defense (Comptroller).
+    - **(B)** The Chief Management Officer shall review each proposed budget transmitted under subparagraph (A) and, not later than January 31 of the year preceding the fiscal year for which the budget is proposed, shall submit to the Secretary a report containing the comments of the Chief Management Officer with respect to all such proposed budgets, together with the certification of the Chief Management Officer regarding whether each such proposed budget achieves the required level of efficiency and effectiveness for enterprise business operations, consistent with guidance for budget review established by the Chief Management Officer.
+    - **(C)** Not later than March 31 each year, the Secretary shall submit to Congress a report that includes the following:
+      - **(i)** Each proposed budget for the enterprise business operations of a Defense Agency or Department of Defense Field Activity that was transmitted to the Chief Management Officer under subparagraph (A).
+      - **(ii)** Identification of each proposed budget contained in the most recent report submitted under subparagraph (B) that the Chief Management Officer did not certify as achieving the required level of efficiency and effectiveness for enterprise business operations.
+      - **(iii)** A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets identified in the report.
+      - **(iv)** Any additional comments that the Secretary considers appropriate regarding inadequate levels of efficiency and effectiveness for enterprise business operations achieved by the proposed budgets.
+  - **(2)** Nothing in this subsection shall be construed to modify or interfere with the budget-related responsibilities of the Director of National Intelligence.
+- **(d)** The Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense and the Deputy Secretary of Defense.
+- **(e)** In this section, the term “enterprise business operations” means those activities that constitute the cross-cutting business operations used by multiple components of the Department of Defense, but not those activities that are directly tied to a single military department or Department of Defense component. The term includes business-support functions designated by the Secretary of Defense or the Deputy Secretary of Defense for purposes of this section, such as aspects of financial management, healthcare, acquisition and procurement, supply chain and logistics, certain information technology, real property, and human resources operations.

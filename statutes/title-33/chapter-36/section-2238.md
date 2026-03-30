@@ -3,9 +3,9 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T07:46:37.815Z"
+generated_at: "2026-03-30T07:49:41.211Z"
 status: "active"
 ---
 
@@ -53,7 +53,7 @@ status: "active"
     - **(A)** the Secretary determines that the action is necessary to address the navigation needs of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
     - **(B)** the Secretary provides within 90 days of the action notice and information on the need for the action to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 - **(e)**
-  - **(1)** Not later than 270 days after June 10, 2014 , and biennially thereafter, the Secretary shall assess the operation and maintenance needs and uses of the harbors and inland harbors referred to in subsection (a)(2).
+  - **(1)** Not later than 270 days after June 10, 2014 , and biennially thereafter, the Secretary shall assess, and issue a report to Congress on, the operation and maintenance needs and uses of the harbors and inland harbors referred to in subsection (a)(2).
   - **(2)**
     - **(A)** In carrying out paragraph (1), the Secretary shall identify—
       - **(i)** the total future costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors referred to in subsection (a)(2); and
@@ -72,6 +72,7 @@ status: "active"
       - **(xi)** public health and safety related equipment for responding to coastal and inland emergencies;
       - **(xii)** recreation purposes; and
       - **(xiii)** other authorized purposes.
+    - **(C)** In carrying out paragraph (1), the Secretary shall identify potential opportunities for the beneficial use of dredged materials obtained from harbors and inland harbors referred to in subsection (a)(2), including projects eligible under section 1122 of the Water Resources Development Act of 2016 ( 130 Stat. 1645 ; 33 U.S.C. 2326 note).
   - **(3)**
     - **(A)** For fiscal year 2016, and biennially thereafter, in conjunction with the President’s annual budget submission to Congress under section 1105(a) of title 31 , the Secretary shall submit to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that, with respect to harbors and inland harbors referred to in subsection (a)(2)—
       - **(i)** identifies the operation and maintenance costs associated with the harbors and inland harbors, including those costs required to achieve and maintain the constructed width and depth for the harbors and inland harbors and the costs for expanded uses at eligible harbors and inland harbors, on a project-by-project basis;

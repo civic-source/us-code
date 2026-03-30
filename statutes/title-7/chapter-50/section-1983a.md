@@ -3,9 +3,9 @@ title: "Section 1983a - Prompt approval of loans and loan guarantees"
 usc_title: 7
 usc_section: "1983a"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1983a"
-generated_at: "2026-03-30T07:45:46.500Z"
+generated_at: "2026-03-30T07:48:18.714Z"
 status: "active"
 ---
 
@@ -66,4 +66,4 @@ status: "active"
       - **(ii)** the form minimizes the documentation required to accompany the form;
       - **(iii)** the cost of completing and processing the form is minimal; and
       - **(iv)** the form can be completed and processed in an expeditious manner.
-- **(h)** Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1932(f), 1936b, 2008p, and 2008s of this title.
+- **(h)** Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.

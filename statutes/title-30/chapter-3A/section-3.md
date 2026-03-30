@@ -3,9 +3,9 @@ title: "Section 3 - Lands not subject to oil and gas leasing"
 usc_title: 30
 usc_section: "3"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "30 U.S.C. § 3"
-generated_at: "2026-03-30T07:46:25.693Z"
+generated_at: "2026-03-30T07:49:21.408Z"
 status: "active"
 ---
 

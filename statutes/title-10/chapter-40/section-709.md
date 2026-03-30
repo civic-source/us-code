@@ -3,9 +3,9 @@ title: "Section 709 - Emergency leave of absence"
 usc_title: 10
 usc_section: "709"
 chapter: 40
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 709"
-generated_at: "2026-03-30T07:45:51.248Z"
+generated_at: "2026-03-30T07:48:43.893Z"
 status: "active"
 ---
 

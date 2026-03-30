@@ -3,9 +3,9 @@ title: "Section 1717 - Federal National Mortgage Association and Government Nati
 usc_title: 12
 usc_section: "1717"
 chapter: 13
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 1717"
-generated_at: "2026-03-30T07:46:02.718Z"
+generated_at: "2026-03-30T07:48:49.494Z"
 status: "active"
 ---
 
@@ -38,7 +38,7 @@ status: "active"
       - **(i)** satisfies minimum requirements of integrity, reliability, and accuracy;
       - **(ii)** has a historical record of measuring and predicting default rates and other credit behaviors;
       - **(iii)** is consistent with the safe and sound operation of the corporation;
-      - **(iv)** complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 4548 of this title ; and
+      - **(iv)** complies with any standards and criteria established by the Director of the Federal Housing Finance Agency under section 4548(1) of this title ; and
       - **(v)** satisfies any other requirements, as determined by the corporation.
     - **(D)** If the corporation has validated and approved 1 or more credit score models under subparagraph (C) and the corporation validates and approves an additional credit score model, the corporation may determine that—
       - **(i)** the additional credit score model has replaced the credit score model or credit score models previously validated and approved; and
@@ -50,7 +50,7 @@ status: "active"
       - **(ii)** The Director of the Federal Housing Finance Agency may authorize not more than 2 extensions of the date established under clause (i), each of which shall not exceed 30 days, upon a written request and a showing of good cause by the corporation.
       - **(iii)** The corporation shall provide notice to an applicant regarding the status of an application submitted under subparagraph (F) not later than 60 days after the date on which the application was submitted to the corporation.
       - **(iv)** If an application submitted under subparagraph (F) is disapproved, the corporation shall provide to the applicant the reasons for the disapproval not later than 30 days after a determination is made under this subparagraph.
-    - **(H)** If the corporation elects to use a credit score model under this paragraph, the Director of the Federal Housing Finance Agency shall require the corporation to periodically review the validation and approval process required under subparagraph (C) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 4548 of this title .
+    - **(H)** If the corporation elects to use a credit score model under this paragraph, the Director of the Federal Housing Finance Agency shall require the corporation to periodically review the validation and approval process required under subparagraph (C) as the Director determines necessary to ensure that the process remains appropriate and adequate and complies with any standards and criteria established pursuant to section 4548(1) of this title .
     - **(I)** If, as of the effective date of this paragraph, a credit score model has not been approved under subparagraph (C), the corporation may use a credit score model that was in use before the effective date of this paragraph, if necessary to prevent substantial market disruptions, until the earlier of—
       - **(i)** the date on which a credit score model is validated and approved under subparagraph (C); or
       - **(ii)** the date that is 2 years after the effective date of this paragraph.

@@ -3,9 +3,9 @@ title: "Section 409 - Renumbered § 479]"
 usc_title: 37
 usc_section: "409"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "37 U.S.C. § 409"
-generated_at: "2026-03-30T07:46:40.516Z"
+generated_at: "2026-03-30T07:49:44.397Z"
 status: "renumbered"
 ---
 

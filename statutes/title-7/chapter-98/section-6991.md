@@ -3,9 +3,9 @@ title: "Section 6991 - Definitions"
 usc_title: 7
 usc_section: "6991"
 chapter: 98
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 6991"
-generated_at: "2026-03-30T07:45:46.594Z"
+generated_at: "2026-03-30T07:48:18.782Z"
 status: "active"
 ---
 
@@ -15,12 +15,12 @@ For purposes of this subchapter:
 
   - **(1)** The term “adverse decision” means an administrative decision made by an officer, employee, or committee of an agency that is adverse to a participant. The term includes a denial of equitable relief by an agency or the failure of an agency to issue a decision or otherwise act on the request or right of the participant. The term does not include a decision over which the Board of Contract Appeals has jurisdiction.
   - **(2)** The term “agency” means any agency of the Department designated by the Secretary or a successor agency of the Department, except that the term shall include the following (and any successor to the following):
-    - **(A)** The Consolidated Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title ).
+    - **(A)** The Farm Service Agency (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Farm Service Agency under section 6932 of this title ).
     - **(B)** The Commodity Credit Corporation, with respect to domestic programs.
     - **(C)** The Farmers Home Administration.
     - **(D)** The Federal Crop Insurance Corporation.
     - **(E)** The Rural Development Administration.
-    - **(F)** The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title ).
+    - **(F)** The Natural Resources Conservation Service (or other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6936(b) of this title ).
     - **(G)** A State, county, or area committee established under section 590h(b)(5) of title 16 .
   - **(3)** The term “appellant” means a participant who appeals an adverse decision in accordance with this subchapter.
   - **(4)** The term “case record” means all the materials maintained by the Secretary related to an adverse decision.

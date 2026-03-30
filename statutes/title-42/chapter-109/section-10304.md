@@ -3,9 +3,9 @@ title: "Section 10304 - Research concerning water resource-related problems deem
 usc_title: 42
 usc_section: "10304"
 chapter: 109
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 10304"
-generated_at: "2026-03-30T07:47:00.275Z"
+generated_at: "2026-03-30T07:50:07.192Z"
 status: "active"
 ---
 

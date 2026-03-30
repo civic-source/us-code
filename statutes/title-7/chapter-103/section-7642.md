@@ -3,9 +3,9 @@ title: "Section 7642 - Food Animal Residue Avoidance Database program"
 usc_title: 7
 usc_section: "7642"
 chapter: 103
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 7642"
-generated_at: "2026-03-30T07:45:46.611Z"
+generated_at: "2026-03-30T07:48:18.795Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
   - **(8)** engage in other activities designed to promote food safety.
 - **(c)** The Secretary shall offer to enter into a contract, grant, or cooperative agreement with 1 or more appropriate colleges and universities to operate the FARAD program. The term of the contract, grant, or cooperative agreement shall be 3 years, with options to extend the term of the contract triennially.
 - **(d)** Federal funds provided by the Secretary under a contract, grant, or cooperative agreement under this section shall be subject to reduction for indirect costs of the recipient of the funds in an amount not to exceed 19 percent of the total Federal funds provided under the contract, grant, or cooperative agreement.
-- **(e)** In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2018.
+- **(e)** In addition to any other funds available to carry out subsection (c), there is authorized to be appropriated to carry out this section $2,500,000 for each of fiscal years 2008 through 2023.

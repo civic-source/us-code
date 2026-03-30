@@ -3,9 +3,9 @@ title: "Section 9811 - Travel and transportation expenses of certain new appoint
 usc_title: 5
 usc_section: "9811"
 chapter: 98
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 9811"
-generated_at: "2026-03-30T07:45:39.166Z"
+generated_at: "2026-03-30T07:48:04.627Z"
 status: "active"
 ---
 

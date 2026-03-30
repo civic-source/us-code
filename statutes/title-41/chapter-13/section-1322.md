@@ -1,0 +1,37 @@
+---
+title: "Section 1322 - Federal Acquisition Security Council establishment and membership"
+usc_title: 41
+usc_section: "1322"
+chapter: 13
+current_through: "PL 116-10"
+classification: "41 U.S.C. § 1322"
+generated_at: "2026-03-30T07:49:47.258Z"
+status: "active"
+---
+
+# § 1322. Federal Acquisition Security Council establishment and membership
+
+- **(a)** There is established in the executive branch a Federal Acquisition Security Council.
+- **(b)**
+  - **(1)** The following agencies shall be represented on the Council:
+    - **(A)** The Office of Management and Budget.
+    - **(B)** The General Services Administration.
+    - **(C)** The Department of Homeland Security, including the Cybersecurity and Infrastructure Security Agency.
+    - **(D)** The Office of the Director of National Intelligence, including the National Counterintelligence and Security Center.
+    - **(E)** The Department of Justice, including the Federal Bureau of Investigation.
+    - **(F)** The Department of Defense, including the National Security Agency.
+    - **(G)** The Department of Commerce, including the National Institute of Standards and Technology.
+    - **(H)** Such other executive agencies as determined by the Chairperson of the Council.
+  - **(2)**
+    - **(A)**
+      - **(i)** Not later than 45 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, the head of each agency represented on the Council shall designate a representative of that agency as the lead representative of the agency on the Council.
+      - **(ii)** The representative of an agency designated under clause (i) shall have expertise in supply chain risk management, acquisitions, or information and communications technology.
+    - **(B)** The lead representative of an agency designated under subparagraph (A) shall ensure that appropriate personnel, including leadership and subject matter experts of the agency, are aware of the business of the Council.
+- **(c)**
+  - **(1)** Not later than 45 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, the Director of the Office of Management and Budget shall designate a senior-level official from the Office of Management and Budget to serve as the Chairperson of the Council.
+  - **(2)** The Chairperson shall perform functions that include—
+    - **(A)** subject to subsection (d), developing a schedule for meetings of the Council;
+    - **(B)** designating executive agencies to be represented on the Council under subsection (b)(1)(H);
+    - **(C)** in consultation with the lead representative of each agency represented on the Council, developing a charter for the Council; and
+    - **(D)** not later than 7 days after completion of the charter, submitting the charter to the appropriate congressional committees and leadership.
+- **(d)** The Council shall meet not later than 60 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018 and not less frequently than quarterly thereafter.

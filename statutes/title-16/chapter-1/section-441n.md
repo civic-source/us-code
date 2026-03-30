@@ -3,9 +3,9 @@ title: "Section 441n - Lands outside gunnery range; exchange of lands; reservati
 usc_title: 16
 usc_section: "441n"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 441n"
-generated_at: "2026-03-30T07:46:15.322Z"
+generated_at: "2026-03-30T07:49:05.939Z"
 status: "active"
 ---
 

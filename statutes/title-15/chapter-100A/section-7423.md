@@ -3,9 +3,9 @@ title: "Section 7423 - No additional funds authorized"
 usc_title: 15
 usc_section: "7423"
 chapter: 100
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 7423"
-generated_at: "2026-03-30T07:45:59.006Z"
+generated_at: "2026-03-30T07:48:52.221Z"
 status: "active"
 ---
 

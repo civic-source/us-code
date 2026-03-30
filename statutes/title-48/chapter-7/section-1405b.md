@@ -3,9 +3,9 @@ title: "Section 1405b - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19,
 usc_title: 48
 usc_section: "1405b"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "48 U.S.C. § 1405b"
-generated_at: "2026-03-30T07:47:03.057Z"
+generated_at: "2026-03-30T07:50:10.089Z"
 status: "repealed"
 ---
 

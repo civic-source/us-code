@@ -3,9 +3,9 @@ title: "Section 41109 - Assessment of penalties"
 usc_title: 46
 usc_section: "41109"
 chapter: 411
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 41109"
-generated_at: "2026-03-30T07:47:17.805Z"
+generated_at: "2026-03-30T07:50:11.287Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** Until a matter is referred to the Attorney General, the Federal Maritime Commission may, after notice and opportunity for a hearing, assess a civil penalty provided for in this part. The Commission may compromise, modify, or remit, with or without conditions, a civil penalty.
 - **(b)** In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.
-- **(c)** A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) of this title or to defraud the Commission by concealing such a violation.
+- **(c)** A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) 1 1 See References in Text note below. of this title or to defraud the Commission by concealing such a violation.
 - **(d)** The Commission or a court may not order a person to pay the difference between the amount billed and agreed upon in writing with a common carrier or its agent and the amount set forth in a tariff or service contract by that common carrier for the transportation service provided.
 - **(e)** A proceeding to assess a civil penalty under this section must be commenced within 5 years after the date of the violation.
 - **(f)** A person against whom a civil penalty is assessed under this section may obtain review under chapter 158 of title 28.

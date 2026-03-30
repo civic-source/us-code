@@ -3,9 +3,9 @@ title: "Section 5711 - Authority for telework travel expenses test programs"
 usc_title: 5
 usc_section: "5711"
 chapter: 57
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "5 U.S.C. § 5711"
-generated_at: "2026-03-30T07:45:39.132Z"
+generated_at: "2026-03-30T07:48:04.593Z"
 status: "active"
 ---
 
@@ -53,4 +53,4 @@ status: "active"
       - **(i)** prepare an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program; and
       - **(ii)** before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.
     - **(C)** With respect to an employee of the Patent and Trademark Office who voluntarily relocates from the pre-existing duty station of that employee, the operating procedures of the program may include a reasonable maximum number of occasional visits to the pre-existing duty station before that employee is eligible for payment of any accrued travel expenses by the Office.
-- **(g)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Telework Enhancement Act of 2010.
+- **(g)** The authority to conduct test programs under this section shall expire on December 31, 2020 .

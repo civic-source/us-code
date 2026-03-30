@@ -3,9 +3,9 @@ title: "Section 1506 - General powers"
 usc_title: 7
 usc_section: "1506"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1506"
-generated_at: "2026-03-30T07:45:46.466Z"
+generated_at: "2026-03-30T07:48:18.689Z"
 status: "active"
 ---
 
@@ -20,8 +20,17 @@ status: "active"
 - **(g)** The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this subchapter.
 - **(h)**
   - **(1)** The Corporation may conduct surveys and investigations relating to crop insurance, agriculture-related risks and losses, and other issues related to carrying out this subchapter.
-  - **(2)** The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
-  - **(3)** Notwithstanding section 1502(c) of this title , records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title , and other agricultural programs.
+  - **(2)**
+    - **(A)** The Corporation shall assemble data for the purpose of establishing sound actuarial bases for insurance on agricultural commodities.
+    - **(B)** Data collected by the National Agricultural Statistics Service, whether published or unpublished, shall be—
+      - **(i)** provided in an aggregate form to the Corporation for the purpose of providing insurance under this subchapter; and
+      - **(ii)** kept confidential by the Corporation in the same manner and to the same extent as is required under—
+        - **(I)** section 2276 of this title ; and
+        - **(II)** the Confidential Information Protection and Statistical Efficiency Act of 2002 ( 44 U.S.C. 3501 note; Public Law 107–347 ).
+    - **(C)** In collecting data under this subsection, the Secretary shall ensure that—
+      - **(i)** appropriate data are collected through the noninsured crop disaster assistance program established by section 7333 of this title ; and
+      - **(ii)** not less frequently than annually, the Farm Service Agency shares, and the Corporation considers, the data described in clause (i).
+  - **(3)** Notwithstanding section 1502(c) of this title , records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title , and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title , and other agricultural programs.
 - **(i)** The Corporation shall determine the character and necessity for its expenditures under this subchapter and the manner in which they shall be incurred, allowed, and paid, without regard to the provisions of any other laws governing the expenditure of public funds and such determinations shall be final and conclusive upon all other officers of the Government.
 - **(j)** The Corporation shall have the authority to make final and conclusive settlement and adjustment of any claim by or against the Corporation or a fiscal officer of the Corporation.
 - **(k)** The Corporation shall have such powers as may be necessary or appropriate for the exercise of the powers herein specifically conferred upon the Corporation and all such incidental powers as are customary in corporations generally.

@@ -3,9 +3,9 @@ title: "Section 16391 - Improved technology transfer of energy technologies"
 usc_title: 42
 usc_section: "16391"
 chapter: 149
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 16391"
-generated_at: "2026-03-30T07:47:00.356Z"
+generated_at: "2026-03-30T07:50:07.280Z"
 status: "active"
 ---
 
@@ -24,6 +24,7 @@ status: "active"
   - **(3)** develop and disseminate to the public and prospective technology partners information about opportunities and procedures for technology transfer with the Department, including opportunities and procedures related to alternative approaches to resolution of disputes involving intellectual property rights and other technology transfer matters.
 - **(e)** The Secretary shall establish an Energy Technology Commercialization Fund, using 0.9 percent of the amount made available to the Department for applied energy research, development, demonstration, and commercial application for each fiscal year based on future planned activities and the amount of the appropriations for the fiscal year, to be used to provide matching funds with private partners to promote promising energy technologies for commercial purposes.
 - **(f)** Nothing in this section affects the technology transfer responsibilities of Federal employees under the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3701 et seq.).
-- **(g)**
+- **(g)** The Secretary shall permit the directors of the National Laboratories to use funds authorized to support technology transfer within the Department to carry out early stage and precommercial technology demonstration activities to remove technology barriers that limit private sector interest and demonstrate potential commercial applications of any research and technologies arising from National Laboratory activities.
+- **(h)**
   - **(1)** Not later than 180 days after August 8, 2005 , the Secretary shall submit to Congress a technology transfer execution plan.
   - **(2)** Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (e).

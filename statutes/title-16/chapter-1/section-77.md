@@ -3,17 +3,19 @@ title: "Section 77 - California State School lands"
 usc_title: 16
 usc_section: "77"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 77"
-generated_at: "2026-03-30T07:46:15.301Z"
+generated_at: "2026-03-30T07:49:05.924Z"
 status: "active"
 ---
 
 # § 410aaa–77. California State School lands
 
-- **(a)** Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [ 43 U.S.C. 1716 ].
+- **(a)**
+  - **(1)** The Secretary shall negotiate in good faith to reach an agreement with the California State Lands Commission (referred to in this section as the “Commission”) to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas, national monuments, off-highway vehicle recreation areas, or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”).
+  - **(2)** To the maximum extent practicable, not later than 10 years after October 31, 1994 , the Secretary shall reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [ 43 U.S.C. 1716 ].
 - **(b)** Within six months after October 31, 1994 , the Secretary shall send to the Commission and to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives a list of the following:
-  - **(1)** State School lands or interests therein (including mineral interests) which are located within the boundaries of the wilderness areas or park system units designated by this Act.
+  - **(1)** State School lands or interests therein (including mineral interests) which are located within the boundaries of the wilderness areas, national monuments, off-highway vehicle recreation areas, or park system units designated by this Act.
   - **(2)** Lands within the State of California under the jurisdiction of the Secretary that the Secretary determines to be suitable for disposal for exchange, identified in the following priority—
     - **(A)** lands with mineral interests, including geothermal, which have the potential for commercial development but which are not currently under mineral lease or producing Federal mineral revenues;
     - **(B)** Federal claims in California managed by the Bureau of Reclamation that the Secretary determines are not needed for any Bureau of Reclamation project; and

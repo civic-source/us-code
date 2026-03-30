@@ -3,9 +3,9 @@ title: "Section 9410 - Exceptions for national security and humanitarian assista
 usc_title: 22
 usc_section: "9410"
 chapter: 101
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9410"
-generated_at: "2026-03-30T07:46:23.229Z"
+generated_at: "2026-03-30T07:49:19.121Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
 - **(c)** Nothing in this chapter shall be construed to limit the authority of the President under the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.).
 - **(d)** In this section:
   - **(1)** The term “agricultural commodity” has the meaning given that term in section 5602 of title 7 .
-  - **(2)** The term “good” has the meaning given that term in section 4618 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
+  - **(2)** The term “good” has the meaning given that term in section 4618 1 1 See References in Text note below. of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act ( 50 U.S.C. 1701 et seq.)).
   - **(3)** The term “medical device” has the meaning given the term “device” in section 321 of title 21 .
   - **(4)** The term “medicine” has the meaning given the term “drug” in section 321 of title 21 .

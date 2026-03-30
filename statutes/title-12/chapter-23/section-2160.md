@@ -3,9 +3,9 @@ title: "Section 2160 - Federal Farm Credit Banks Funding Corporation"
 usc_title: 12
 usc_section: "2160"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 2160"
-generated_at: "2026-03-30T07:46:02.791Z"
+generated_at: "2026-03-30T07:48:49.540Z"
 status: "active"
 ---
 
@@ -27,14 +27,9 @@ status: "active"
       - **(i)** who are not borrowers from, shareholders in, or employees or agents of any System institution, who are not affiliated with the Farm Credit Administration, and who are not actively engaged with a bank or investment organization that is a member of the Corporation’s selling group for System-wide securities; and
       - **(ii)** who are experienced or knowledgeable in corporate and public finance, agricultural economics, and financial reporting and disclosure.
     - **(D)** The president of the Corporation shall serve as a nonvoting member of the board.
-  - **(2)**
-    - **(A)** During the period in which the Assistance Board is in existence, the board of directors of the Assistance Board shall designate one of its directors to serve as a non-voting representative to the board of directors of the Corporation.
-    - **(B)** The person designated by the Assistance Board under subparagraph (A) may attend and participate in all deliberations of the board of directors of the Corporation.
-    - **(C)** After termination of the Assistance Board, neither the Assistance Board nor its successor, the Farm Credit System Insurance Corporation, shall have any representation on the board of directors of the Corporation.
-- **(e)** Until a majority of the voting members of the board of directors of the Corporation is elected, which shall occur as soon as is practicable after January 6, 1988 —
-  - **(1)** the finance committee established under section 2156 1 1 See References in Text note below. of this title in effect before January 6, 1988 , and the fiscal agency established under section 2160 1 of this title in effect before January 6, 1988 , shall continue to operate as if this section had not been enacted; and
-  - **(2)** the board of directors of the predecessor Federal Farm Credit Banks Funding Corporation shall be the board of directors of the Financial Assistance Corporation.
-- **(f)**
+  - **(2)** In selecting candidates under subparagraphs (A) and (B) of paragraph (1), due consideration shall be given to choosing individuals knowledgeable in agricultural economics, public and corporate finance, and financial reporting and disclosure.
+  - **(3)** The Farm Credit System Insurance Corporation shall not have representation on the board of directors of the Corporation.
+- **(e)**
   - **(1)** The Corporation shall, by operation of law and without any further action by the Farm Credit Administration, the predecessor Federal Farm Credit Banks Funding Corporation (hereinafter referred to in this subsection as “the predecessor corporation”) chartered under this chapter, or any court, succeed to the assets of and assume all debts, obligations, contracts, and other liabilities of the predecessor corporation, matured or unmatured, accrued, absolute, contingent or otherwise, and whether or not reflected or reserved against on balance sheets, books of account, or records of the predecessor corporation.
   - **(2)** The existing contractual obligations, security instruments, and title instruments of the predecessor corporation shall, by operation of law and without any further action by the Farm Credit Administration, the predecessor corporation, or any court, become and be converted into obligations, entitlements, and instruments of the Corporation.
   - **(3)** The stock of the predecessor corporation issued before January 6, 1988 , shall, by operation of law and without any further action by the Farm Credit Administration, the predecessor corporation, or any court, become and be converted into stock of the Corporation established by this section.

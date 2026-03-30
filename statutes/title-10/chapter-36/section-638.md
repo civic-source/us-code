@@ -3,9 +3,9 @@ title: "Section 638 - Selective early retirement"
 usc_title: 10
 usc_section: "638"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 638"
-generated_at: "2026-03-30T07:45:51.244Z"
+generated_at: "2026-03-30T07:48:43.890Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
 - **(b)**
   - **(1)**
     - **(A)** An officer in a grade below brigadier general or rear admiral (lower half) who is recommended for early retirement under this section or section 638a of this title and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
-    - **(B)** If an officer described in subparagraph (A) is not eligible for retirement under any provision of law, the officer shall be retained on active duty until the officer is qualified for retirement under section 3911, 6323, or 8911 of this title, and then be retired under that section, unless the officer is sooner retired or discharged under some other provision of law, with such retirement under that section occurring not later than the later of the following:
+    - **(B)** If an officer described in subparagraph (A) is not eligible for retirement under any provision of law, the officer shall be retained on active duty until the officer is qualified for retirement under section 7311, 8323, or 9311 of this title, and then be retired under that section, unless the officer is sooner retired or discharged under some other provision of law, with such retirement under that section occurring not later than the later of the following:
       - **(i)** The first day of the month beginning after the month in which the officer becomes qualified for retirement under that section.
       - **(ii)** The first day of the seventh calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
   - **(2)** An officer who holds the regular grade of brigadier general, major general, rear admiral (lower half), or rear admiral who is recommended for early retirement under this section and whose early retirement is approved by the Secretary concerned shall be retired, under any provision of law under which he is eligible to retire, on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approved the report of the board which recommended the officer for early retirement.
@@ -37,5 +37,5 @@ status: "active"
   - **(1)** The Secretary of Defense shall prescribe regulations for the administration of this section.
   - **(2)**
     - **(A)** Such regulations shall require that when the Secretary of the military department concerned submits a list of officers to a selection board convened under section 611(b) of this title to consider officers for selection for early retirement under this section, such list (except as provided in subparagraph (B)) shall include each officer on the active-duty list in the same grade and competitive category whose position on the active-duty list is between that of the most junior officer in that grade and competitive category whose name is submitted to the board and that of the most senior officer in that grade and competitive category whose name is submitted to the board.
-    - **(B)** A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 3911, 6323, or 8911 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
+    - **(B)** A list under subparagraph (A) may not include an officer in that grade and competitive category (i) who has been approved for voluntary retirement under section 7311, 8323, or 9311 of this title, or (ii) who is to be involuntarily retired under any provision of law during the fiscal year in which the selection board is convened or during the following fiscal year.
     - **(C)** An officer not considered by a selection board convened under section 611(b) of this title by reason of subparagraph (B) shall be retired on the date approved for the retirement of that officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.

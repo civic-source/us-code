@@ -3,9 +3,9 @@ title: "Section 44911 - Intelligence"
 usc_title: 49
 usc_section: "44911"
 chapter: 449
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 44911"
-generated_at: "2026-03-30T07:47:24.840Z"
+generated_at: "2026-03-30T07:50:15.337Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
   - **(8)** the Defense Intelligence Agency.
   - **(9)** the Federal Bureau of Investigation.
   - **(10)** the Drug Enforcement Administration.
-- **(b)** The head of each unit in the intelligence community shall prescribe policies and procedures to ensure that intelligence reports about terrorism are made available, as appropriate, to the heads of other units in the intelligence community, the Secretary of Transportation, and the Under Secretary of Transportation for Security.
+- **(b)** The head of each unit in the intelligence community shall prescribe policies and procedures to ensure that intelligence reports about terrorism are made available, as appropriate, to the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Transportation Security Administration.
 - **(c)** The heads of the units in the intelligence community shall place greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
-- **(d)** At the request of the Secretary, the Director of Central Intelligence shall designate at least one intelligence officer of the Central Intelligence Agency to serve in a senior position in the Office of the Secretary.
-- **(e)** The heads of units in the intelligence community, the Secretary, and the Under Secretary shall review and, as appropriate, revise written working agreements between the intelligence community and the Under Secretary.
+- **(d)** At the request of the Secretary of Homeland Security, the Director of Central Intelligence shall designate at least one intelligence officer of the Central Intelligence Agency to serve in a senior position in the Office of the Secretary.
+- **(e)** The heads of units in the intelligence community, the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.

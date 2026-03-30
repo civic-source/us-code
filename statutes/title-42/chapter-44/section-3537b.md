@@ -3,9 +3,9 @@ title: "Section 3537b - Repealed. Pub. L. 104–65 , § 11(b)(1), Dec. 19, 1995 
 usc_title: 42
 usc_section: "3537b"
 chapter: 44
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 3537b"
-generated_at: "2026-03-30T07:47:00.098Z"
+generated_at: "2026-03-30T07:50:07.013Z"
 status: "repealed"
 ---
 

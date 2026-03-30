@@ -3,9 +3,9 @@ title: "Section 3155 - Agricultural and food policy research centers"
 usc_title: 7
 usc_section: "3155"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3155"
-generated_at: "2026-03-30T07:45:46.548Z"
+generated_at: "2026-03-30T07:48:18.748Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
   - **(2)** develop theoretical and applied research methods;
   - **(3)** collect, analyze, and disseminate data for policymakers, analysts, and individuals; and
   - **(4)** develop programs to train analysts.
-- **(e)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2018.
+- **(e)** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2014 through 2023.

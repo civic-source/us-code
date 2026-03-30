@@ -3,9 +3,9 @@ title: "Section 1331 - Rights and protections under Americans with Disabilities 
 usc_title: 2
 usc_section: "1331"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1331"
-generated_at: "2026-03-30T07:45:37.417Z"
+generated_at: "2026-03-30T07:48:12.676Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(6)** the Congressional Budget Office;
   - **(7)** the Office of the Architect of the Capitol (including the Botanic Garden);
   - **(8)** the Office of the Attending Physician;
-  - **(9)** the Office of Compliance;
+  - **(9)** the Office of Congressional Workplace Rights;
   - **(10)** the Office of Technology Assessment; and
   - **(11)** the Library of Congress.
 - **(b)**
@@ -46,5 +46,14 @@ status: "active"
   - **(4)** The Attorney General, the Secretary of Transportation, and the Architectural and Transportation Barriers Compliance Board may, on request of the Executive Director, detail to the Office such personnel as may be necessary to advise and assist the Office in carrying out its duties under this section.
 - **(g)**
 - **(h)**
+  - **(1)** In this subsection, the term “Library visitor” means an individual who is eligible to bring a claim for a violation under title II or III of the Americans with Disabilities Act of 1990 [ 42 U.S.C. 12131 et seq., 12181 et seq.] (other than a violation for which the exclusive remedy is under section 1311 of this title ) against the Library of Congress.
+  - **(2)**
+    - **(A)** A Library visitor who alleges a violation of subsection (b) by the Library of Congress may, subject to subparagraph (B)—
+      - **(i)** file a charge against the Library of Congress under subsection (d); or
+      - **(ii)** use the remedies and procedures set forth in section 2000e–16 of title 42 , as provided under section 510 (other than paragraph (5)) of the Americans with Disabilities Act of 1990 ( 42 U.S.C. 12209 ).
+    - **(B)** A Library visitor that has initiated proceedings under clause (i) or (ii) of subparagraph (A) may elect to change and initiate a proceeding under the other clause—
+      - **(i)** in the case of a Library visitor who first filed a charge pursuant to subparagraph (A)(i), before the General Counsel files a complaint under subsection (d)(3); or
+      - **(ii)** in the case of a Library visitor who first initiated a proceeding under subparagraph (A)(ii), before the Library visitor requests a hearing under the procedures of the Library of Congress described in such subparagraph.
+- **(i)**
   - **(1)** Subsections (b), (c), and (d) shall be effective on January 1, 1997 .
   - **(2)** Subsection (g) shall be effective 1 year after transmission to the Congress of the study under section 1371 of this title .

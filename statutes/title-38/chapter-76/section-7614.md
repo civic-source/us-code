@@ -3,9 +3,9 @@ title: "Section 7614 - Part-time students"
 usc_title: 38
 usc_section: "7614"
 chapter: 76
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 7614"
-generated_at: "2026-03-30T07:46:46.251Z"
+generated_at: "2026-03-30T07:49:45.591Z"
 status: "active"
 ---
 

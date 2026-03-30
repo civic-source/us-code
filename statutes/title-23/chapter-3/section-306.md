@@ -3,9 +3,9 @@ title: "Section 306 - Mapping"
 usc_title: 23
 usc_section: "306"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "23 U.S.C. § 306"
-generated_at: "2026-03-30T07:46:18.710Z"
+generated_at: "2026-03-30T07:49:09.027Z"
 status: "active"
 ---
 

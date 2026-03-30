@@ -3,9 +3,9 @@ title: "Section 2214 - NRC user fees and annual charges"
 usc_title: 42
 usc_section: "2214"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 2214"
-generated_at: "2026-03-30T07:47:00.070Z"
+generated_at: "2026-03-30T07:50:06.986Z"
 status: "active"
 ---
 
@@ -21,8 +21,9 @@ status: "active"
     - **(A)** The aggregate amount of the annual charges collected from all licensees and certificate holders in a fiscal year shall equal an amount that approximates the percentages of the budget authority of the Commission for the fiscal year stated in subparagraph (B), less—
       - **(i)** amounts collected under subsection (b) during the fiscal year;
       - **(ii)** amounts appropriated to the Commission from the Nuclear Waste Fund for the fiscal year;
-      - **(iii)** amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005; and
-      - **(iv)** amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections.
+      - **(iii)** amounts appropriated to the Commission for the fiscal year for implementation of section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005;
+      - **(iv)** amounts appropriated to the Commission for homeland security activities of the Commission for the fiscal year, except for the costs of fingerprinting and background checks required by section 2169 of this title and the costs of conducting security inspections; and
+      - **(v)** amounts appropriated to the Commission for the fiscal year for activities related to the development of regulatory infrastructure for advanced nuclear reactor technologies, including activities required under section 103 1 1 See References in Text note below. of the Nuclear Energy Innovation and Modernization Act.
     - **(B)** The percentages referred to in subparagraph (A) are—
       - **(i)** 98 percent for fiscal year 2001;
       - **(ii)** 96 percent for fiscal year 2002;

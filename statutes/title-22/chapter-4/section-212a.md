@@ -3,9 +3,9 @@ title: "Section 212a - Restriction of passports for sex tourism"
 usc_title: 22
 usc_section: "212a"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 212a"
-generated_at: "2026-03-30T07:46:23.046Z"
+generated_at: "2026-03-30T07:49:18.981Z"
 status: "active"
 ---
 

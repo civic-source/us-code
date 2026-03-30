@@ -3,9 +3,9 @@ title: "Section 7310 - Advisory committee"
 usc_title: 15
 usc_section: "7310"
 chapter: 99
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 7310"
-generated_at: "2026-03-30T07:45:59.005Z"
+generated_at: "2026-03-30T07:48:52.220Z"
 status: "active"
 ---
 

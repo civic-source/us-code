@@ -3,9 +3,9 @@ title: "Section 198 - Repealed. Pub. L. 98–621 , § 10(p), Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "198"
 chapter: 4
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "24 U.S.C. § 198"
-generated_at: "2026-03-30T07:46:17.824Z"
+generated_at: "2026-03-30T07:49:08.031Z"
 status: "repealed"
 ---
 

@@ -3,17 +3,17 @@ title: "Section 2228 - Office of Corrosion Policy and Oversight"
 usc_title: 10
 usc_section: "2228"
 chapter: 131
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2228"
-generated_at: "2026-03-30T07:45:51.337Z"
+generated_at: "2026-03-30T07:48:43.945Z"
 status: "active"
 ---
 
 # § 2228. Office of Corrosion Policy and Oversight
 
 - **(a)**
-  - **(1)** There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
-  - **(2)** The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition, Technology, and Logistics) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense. The Director shall report directly to the Under Secretary.
+  - **(1)** There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition and Sustainment.
+  - **(2)** The Office shall be headed by a Director of Corrosion Policy and Oversight, who shall be assigned to such position by the Under Secretary from among civilian employees of the Department of Defense with the qualifications described in paragraph (3). The Director is responsible in the Department of Defense to the Secretary of Defense (after the Under Secretary of Defense for Acquisition and Sustainment) for the prevention and mitigation of corrosion of the military equipment and infrastructure of the Department of Defense.. 1 1 So in original.
   - **(3)** In order to qualify to be assigned to the position of Director, an individual shall—
     - **(A)** have management expertise in, and professional experience with, corrosion project and policy implementation, including an understanding of the effects of corrosion policies on infrastructure; research, development, test, and evaluation; and maintenance; and
     - **(B)** have an understanding of Department of Defense budget formulation and execution, policy formulation, and planning and program requirements.

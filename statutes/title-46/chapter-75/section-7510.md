@@ -3,9 +3,9 @@ title: "Section 7510 - Examinations for merchant mariner credentials"
 usc_title: 46
 usc_section: "7510"
 chapter: 75
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 7510"
-generated_at: "2026-03-30T07:47:17.796Z"
+generated_at: "2026-03-30T07:50:11.274Z"
 status: "active"
 ---
 
@@ -20,12 +20,12 @@ status: "active"
     - **(C)** the frequency that an examinee correctly or incorrectly answered such question.
 - **(b)** Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
 - **(c)**
-  - **(1)** Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant of the Coast Guard shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
+  - **(1)** Not later than 90 days after the date of the enactment of the Coast Guard Authorization Act of 2016, and once every two years thereafter, the Commandant shall commission a working group to review new questions for inclusion in examinations required for merchant mariner credentials, composed of—
     - **(A)** 1 subject matter expert from the Coast Guard;
     - **(B)** representatives from training facilities and the maritime industry, of whom—
       - **(i)** one-half shall be representatives from approved training facilities; and
       - **(ii)** one-half shall be representatives from the appropriate maritime industry;
-    - **(C)** at least 1 representative from the Merchant Marine Personnel Advisory Committee;
+    - **(C)** at least 1 representative from the National Merchant Marine Personnel Advisory Committee;
     - **(D)** at least 2 representatives from the State maritime academies, of whom one shall be a representative from the deck training track and one shall be a representative of the engineer license track;
     - **(E)** representatives from other Coast Guard Federal advisory committees, as appropriate, for the industry segment associated with the subject examinations;
     - **(F)** at least 1 subject matter expert from the Maritime Administration; and

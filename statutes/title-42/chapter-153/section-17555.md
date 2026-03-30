@@ -1,13 +1,13 @@
 ---
-title: "Section 17555 - Omitted"
+title: "Section 17555 - Transferred"
 usc_title: 42
 usc_section: "17555"
 chapter: 153
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 17555"
-generated_at: "2026-03-30T07:47:00.372Z"
-status: "omitted"
+generated_at: "2026-03-30T07:50:07.297Z"
+status: "transferred"
 ---
 
-# § 17555. Omitted
+# § 17555. Transferred
 

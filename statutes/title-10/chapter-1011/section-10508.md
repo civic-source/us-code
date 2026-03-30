@@ -3,9 +3,9 @@ title: "Section 10508 - National Guard Bureau: general provisions"
 usc_title: 10
 usc_section: "10508"
 chapter: 1011
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 10508"
-generated_at: "2026-03-30T07:45:51.456Z"
+generated_at: "2026-03-30T07:48:44.008Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The manpower requirements of the National Guard Bureau as a joint activity of the Department of Defense shall be determined in accordance with regulations prescribed by the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff.
 - **(b)**
-  - **(1)** The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2103, 2105, and 3101 of title 5, or section 328 of title 32 , within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
+  - **(1)** The Chief of the National Guard Bureau may program for, appoint, employ, administer, detail, and assign persons under sections 2102, 2103, 2105, and 3101 of title 5, subchapter IV of chapter 53 of title 5, or section 328 of title 32 , within the National Guard Bureau and the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands to execute the functions of the National Guard Bureau and the missions of the National Guard, and missions as assigned by the Chief of the National Guard Bureau.
   - **(2)** The Chief of the National Guard Bureau may designate the adjutants general referred to in section 314 of title 32 to appoint, employ, and administer the National Guard employees authorized by this subsection.
   - **(3)** Notwithstanding the Intergovernmental Personnel Act of 1970 ( 42 U.S.C. 4701 et seq.) and under regulations prescribed by the Chief of the National Guard Bureau, all personnel actions or conditions of employment, including adverse actions under title 5, pertaining to a person appointed, employed, or administered by an adjutant general under this subsection shall be accomplished by the adjutant general of the jurisdiction concerned. For purposes of any administrative complaint, grievance, claim, or action arising from, or relating to, such a personnel action or condition of employment:
     - **(A)** The adjutant general of the jurisdiction concerned shall be considered the head of the agency and the National Guard of the jurisdiction concerned shall be considered the employing agency of the individual and the sole defendant or respondent in any administrative action.

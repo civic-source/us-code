@@ -3,15 +3,15 @@ title: "Section 3115a - Tribal forest assets protection"
 usc_title: 25
 usc_section: "3115a"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 3115a"
-generated_at: "2026-03-30T07:46:20.676Z"
+generated_at: "2026-03-30T07:49:10.573Z"
 status: "active"
 ---
 
 # § 3115a. Tribal forest assets protection
 
-- **(a)** In this section:
+- **(a)** In this Act:
   - **(1)** The term “Federal land” means—
     - **(A)** land of the National Forest System (as defined in section 1609(a) of title 16 ) administered by the Secretary of Agriculture, acting through the Chief of the Forest Service; and
     - **(B)** public lands (as defined in section 1702 of title 43 ), the surface of which is administered by the Secretary of the Interior, acting through the Director of the Bureau of Land Management.
@@ -56,7 +56,7 @@ status: "active"
     - **(F)** the features of the landscape of the land subject to the proposal, including watersheds and vegetation types;
     - **(G)** the working relationships between the Indian tribe and Federal agencies in coordinating activities affecting the land subject to the proposal; and
     - **(H)** the access by members of the Indian tribe to the land subject to the proposal.
-- **(f)** Nothing in this section—
-  - **(1)** prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )) or other authority invoked pursuant to this section; or
+- **(f)** Nothing in this Act—
+  - **(1)** prohibits, restricts, or otherwise adversely affects the participation of any Indian tribe in stewardship agreements or contracting under the authority of section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999 ( 16 U.S.C. 2104 note; Public Law 105–277 ) (as amended by section 323 of the Department of the Interior and Related Agencies Appropriations Act, 2003 ( 117 Stat. 275 )) or other authority invoked pursuant to this Act; or
   - **(2)** invalidates any agreement or contract under that authority.
-- **(g)** Not later than 4 years after July 22, 2004 , the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this section.
+- **(g)** Not later than 4 years after July 22, 2004 , the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this Act.

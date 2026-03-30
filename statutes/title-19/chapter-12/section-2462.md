@@ -3,9 +3,9 @@ title: "Section 2462 - Designation of beneficiary developing countries"
 usc_title: 19
 usc_section: "2462"
 chapter: 12
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "19 U.S.C. § 2462"
-generated_at: "2026-03-30T07:46:09.216Z"
+generated_at: "2026-03-30T07:48:58.495Z"
 status: "active"
 ---
 
@@ -44,7 +44,7 @@ status: "active"
         - **(II)** good faith negotiations to provide prompt, adequate, and effective compensation under the applicable provisions of international law are in progress, or the country described in clause (i) is otherwise taking steps to discharge its obligations under international law with respect to such citizen, corporation, partnership, or association, or
         - **(III)** a dispute involving such citizen, corporation, partnership, or association over compensation for such a seizure has been submitted to arbitration under the provisions of the Convention for the Settlement of Investment Disputes, or in another mutually agreed upon forum,
     - **(E)** Such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute.
-    - **(F)** Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
+    - **(F)** Such country aids or abets, by granting sanctuary from prosecution to, any individual or group which has committed an act of international terrorism or the Secretary of State makes a determination with respect to such country under section 4605(j)(1)(A) 1 1 See References in Text note below. of title 50 or such country has not taken steps to support the efforts of the United States to combat terrorism.
     - **(G)** Such country has not taken or is not taking steps to afford internationally recognized worker rights to workers in the country (including any designated zone in that country).
     - **(H)** Such country has not implemented its commitments to eliminate the worst forms of child labor.
 - **(c)** In determining whether to designate any country as a beneficiary developing country under this subchapter, the President shall take into account—

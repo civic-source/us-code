@@ -3,9 +3,9 @@ title: "Section 44907 - Security standards at foreign airports"
 usc_title: 49
 usc_section: "44907"
 chapter: 449
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 44907"
-generated_at: "2026-03-30T07:47:24.839Z"
+generated_at: "2026-03-30T07:50:15.337Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** other foreign airports the Secretary considers appropriate.
   - **(2)** The Secretary of Transportation shall conduct an assessment under paragraph (1) of this subsection—
     - **(A)** in consultation with appropriate aeronautic authorities of the government of a foreign country concerned and each air carrier serving the foreign airport for which the Secretary is conducting the assessment;
-    - **(B)** to establish the extent to which a foreign airport effectively maintains and carries out security measures; and
+    - **(B)** to establish the extent to which a foreign airport effectively maintains and carries out security measures, including the screening and vetting of airport workers; and
     - **(C)** by using a standard that will result in an analysis of the security measures at the airport based at least on the standards and appropriate recommended practices contained in Annex 17 to the Convention on International Civil Aviation in effect on the date of the assessment.
   - **(3)** Each report to Congress required under section 44938(b) of this title shall contain a summary of the assessments conducted under this subsection.
 - **(b)** In carrying out subsection (a) of this section, the Secretary of Transportation shall consult with the Secretary of State—

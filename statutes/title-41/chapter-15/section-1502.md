@@ -3,9 +3,9 @@ title: "Section 1502 - Cost accounting standards"
 usc_title: 41
 usc_section: "1502"
 chapter: 15
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "41 U.S.C. § 1502"
-generated_at: "2026-03-30T07:46:47.924Z"
+generated_at: "2026-03-30T07:49:47.259Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(A)** exempt classes of contractors and subcontractors from the requirements of this chapter; and
     - **(B)** establish procedures for the waiver of the requirements of this chapter for individual contracts and subcontracts.
   - **(3)**
-    - **(A)** The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $15,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
+    - **(A)** The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract with a value of less than $100,000,000 if that official determines in writing that the segment of the contractor or subcontractor that will perform the work—
       - **(i)** is primarily engaged in the sale of commercial items; and
       - **(ii)** would not otherwise be subject to the cost accounting standards under this section.
     - **(B)** The head of an executive agency may waive the applicability of the cost accounting standards for a contract or subcontract under exceptional circumstances when necessary to meet the needs of the agency. A determination to waive the applicability of the standards under this subparagraph shall be set forth in writing and shall include a statement of the circumstances justifying the waiver.

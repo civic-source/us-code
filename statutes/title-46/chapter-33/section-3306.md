@@ -3,9 +3,9 @@ title: "Section 3306 - Regulations"
 usc_title: 46
 usc_section: "3306"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 3306"
-generated_at: "2026-03-30T07:47:17.790Z"
+generated_at: "2026-03-30T07:50:11.269Z"
 status: "active"
 ---
 
@@ -33,9 +33,17 @@ status: "active"
 - **(f)** In prescribing regulations for offshore supply vessels, the Secretary shall consider the characteristics, methods of operation, and the nature of the service of offshore supply vessels.
 - **(g)** In prescribing regulations for fish processing or fish tender vessels, the Secretary shall consult with representatives of the private sector having experience in the operation of these vessels. The regulations shall reflect the specialized nature and economics of fish processing or fish tender vessel operations and the character, design, and construction of fish processing or fish tender vessels.
 - **(h)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for vessels of at least 100 gross tons but less than 300 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title .
-- **(i)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(5) of this title .
+- **(i)** The Secretary shall establish appropriate structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less that 500 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title carrying not more than 150 passengers on domestic voyages, which meet the eligibility criteria of section 2113(4) of this title .
 - **(j)** The Secretary may establish by regulation a safety management system appropriate for the characteristics, methods of operation, and nature of service of towing vessels.
 - **(k)**
   - **(1)** Each vessel of the United States that is constructed under a contract entered into after the date of enactment of the Maritime Safety Act of 2010, or that is delivered after January 1, 2011 , with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled “Oil Fuel Tank Protection”.
   - **(2)** The Secretary may prescribe regulations to apply the requirements described in Regulation 12A to vessels described in paragraph (1) that are not otherwise subject to that convention. Any such regulation shall be considered to be an interpretive rule for the purposes of section 553 of title 5 .
   - **(3)** In this subsection the term “oil fuel” means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.
+- **(l)**
+  - **(1)** The Secretary shall require that a freight vessel inspected under this chapter be outfitted with distress signaling and location technology for the higher of—
+    - **(A)** the minimum complement of officers and crew specified on the certificate of inspection for such vessel; or
+    - **(B)** the number of persons onboard the vessel; and
+  - **(2)** the requirement described in paragraph (1) shall not apply to vessels operating within the baseline from which the territorial sea of the United States is measured.
+- **(m)**
+  - **(1)** The Secretary shall promulgate regulations requiring companies to maintain records of all incremental weight changes made to freight vessels inspected under this chapter, and to track weight changes over time to facilitate rapid determination of the aggregate total.
+  - **(2)** Records maintained under paragraph (1) shall be stored, in paper or electronic form, onboard such vessels for not less than 3 years and shoreside for the life of the vessel.

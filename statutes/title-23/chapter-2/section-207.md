@@ -3,9 +3,9 @@ title: "Section 207 - Tribal transportation self-governance program"
 usc_title: 23
 usc_section: "207"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "23 U.S.C. § 207"
-generated_at: "2026-03-30T07:46:18.710Z"
+generated_at: "2026-03-30T07:49:09.026Z"
 status: "active"
 ---
 
@@ -138,8 +138,8 @@ status: "active"
 - **(n)**
   - **(1)**
     - **(A)** Not later than 90 days after the date of enactment of the FAST Act, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this section.
-    - **(B)** Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 21 months after such date of enactment.
-    - **(C)** The authority to promulgate regulations under subparagraph (A) shall expire 30 months after such date of enactment.
+    - **(B)** Proposed regulations to implement this section shall be published in the Federal Register by the Secretary not later than 42 months after such date of enactment.
+    - **(C)** The authority to promulgate regulations under subparagraph (A) shall expire 48 months after such date of enactment.
     - **(D)** A deadline set forth in subparagraph (B) or (C) may be extended up to 180 days if the negotiated rulemaking committee referred to in paragraph (2) concludes that the committee cannot meet the deadline and the Secretary so notifies the appropriate committees of Congress.
   - **(2)**
     - **(A)** A negotiated rulemaking committee established pursuant to section 565 of title 5 to carry out this subsection shall have as its members only Federal and tribal government representatives, a majority of whom shall be nominated by and be representatives of Indian tribes with funding agreements under this title.

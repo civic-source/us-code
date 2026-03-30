@@ -3,9 +3,9 @@ title: "Section 53106 - Payments"
 usc_title: 46
 usc_section: "53106"
 chapter: 531
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 53106"
-generated_at: "2026-03-30T07:47:17.809Z"
+generated_at: "2026-03-30T07:50:11.291Z"
 status: "active"
 ---
 
@@ -13,13 +13,9 @@ status: "active"
 
 - **(a)**
   - **(1)** The Secretary, subject to the availability of appropriations and the other provisions of this section, shall pay to the contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to—
-    - **(A)** $2,600,000 for each of fiscal years 2006, 2007, and 2008;
-    - **(B)** $2,900,000 for each of fiscal years 2009, 2010, and 2011;
-    - **(C)** $3,100,000 for each of fiscal years 2012, 2013, 2014, and 2015;
-    - **(D)** $4,999,950 for fiscal year 2017;
-    - **(E)** $5,000,000 for each of fiscal years 2018, 2019, and 2020;
-    - **(F)** $5,233,463 for fiscal year 2021; and
-    - **(G)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
+    - **(A)** $5,000,000 for each of fiscal years 2018, 2019, and 2020;
+    - **(B)** $5,233,463 for fiscal year 2021; and
+    - **(C)** $3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.
   - **(2)** The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
 - **(b)** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 - **(c)** The Secretary of Transportation shall not make any payment under this chapter for a vessel with respect to any days for which the vessel is—

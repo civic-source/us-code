@@ -3,9 +3,9 @@ title: "Section 14305 - Establishment of promotion zones: mandatory consideratio
 usc_title: 10
 usc_section: "14305"
 chapter: 1405
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 14305"
-generated_at: "2026-03-30T07:45:51.466Z"
+generated_at: "2026-03-30T07:48:44.014Z"
 status: "active"
 ---
 

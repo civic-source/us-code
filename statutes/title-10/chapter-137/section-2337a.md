@@ -3,9 +3,9 @@ title: "Section 2337a - Assessment, management, and control of operating and sup
 usc_title: 10
 usc_section: "2337a"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2337a"
-generated_at: "2026-03-30T07:45:51.353Z"
+generated_at: "2026-03-30T07:48:43.953Z"
 status: "active"
 ---
 
@@ -35,4 +35,4 @@ status: "active"
     - **(A)** promptly receives the results of all cost estimates and cost analyses conducted by the military departments with regard to operating and support costs of major weapon systems;
     - **(B)** has timely access to any records and data of the military departments (including classified and proprietary information) that the Director considers necessary to carry out such responsibility; and
     - **(C)** with the concurrence of the Under Secretary of Defense for Acquisition and Sustainment, may direct the military departments to collect and retain information necessary to support the database.
-- **(d)** In this section, the term “major weapon system” has the meaning given that term in section 2379(f) of title 10 , United States Code.
+- **(d)** In this section, the term “major weapon system” has the meaning given that term in section 2379(f) of this title .

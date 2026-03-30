@@ -3,9 +3,9 @@ title: "Section 1141 - College access challenge grant program"
 usc_title: 20
 usc_section: "1141"
 chapter: 28
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 1141"
-generated_at: "2026-03-30T07:46:11.872Z"
+generated_at: "2026-03-30T07:48:57.352Z"
 status: "active"
 ---
 

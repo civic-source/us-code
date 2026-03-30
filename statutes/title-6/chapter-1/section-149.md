@@ -1,25 +1,13 @@
 ---
-title: "Section 149 - Cybersecurity plans"
+title: "Section 149 - Transferred"
 usc_title: 6
 usc_section: "149"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "6 U.S.C. § 149"
-generated_at: "2026-03-30T07:45:41.896Z"
-status: "active"
+generated_at: "2026-03-30T07:48:14.881Z"
+status: "transferred"
 ---
 
-# § 149. Cybersecurity plans
+# § 149. Transferred
 
-- **(a)** In this section—
-  - **(1)** the term “agency information system” means an information system used or operated by an agency or by another entity on behalf of an agency;
-  - **(2)** the terms “cybersecurity risk” and “information system” have the meanings given those terms in section 148 of this title ;
-  - **(3)** the term “intelligence community” has the meaning given the term in section 3003(4) of title 50 ; and
-  - **(4)** the term “national security system” has the meaning given the term in section 11103 of title 40 .
-- **(b)**
-  - **(1)** The Secretary, in coordination with the Director of the Office of Management and Budget, shall—
-    - **(A)** develop and implement an intrusion assessment plan to proactively detect, identify, and remove intruders in agency information systems on a routine basis; and
-    - **(B)** update such plan as necessary.
-  - **(2)** The intrusion assessment plan required under paragraph (1) shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
-- **(c)** The Under Secretary appointed under section 113(a)(1)(H) of this title shall, in coordination with appropriate Federal departments and agencies, State and local governments, sector coordinating councils, information sharing and analysis organizations (as defined in section 131(5) of this title ), owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, regularly update, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks (as defined in section 148 of this title ) to critical infrastructure.
-- **(d)** The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (c), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.

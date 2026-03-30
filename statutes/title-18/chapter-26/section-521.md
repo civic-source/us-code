@@ -3,9 +3,9 @@ title: "Section 521 - Criminal street gangs"
 usc_title: 18
 usc_section: "521"
 chapter: 26
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 521"
-generated_at: "2026-03-30T07:46:07.342Z"
+generated_at: "2026-03-30T07:48:55.460Z"
 status: "active"
 ---
 
@@ -18,8 +18,9 @@ status: "active"
 - **(b)** The sentence of a person convicted of an offense described in subsection (c) shall be increased by up to 10 years if the offense is committed under the circumstances described in subsection (d).
 - **(c)** The offenses described in this section are—
   - **(1)** a Federal felony involving a controlled substance (as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 )) for which the maximum penalty is not less than 5 years;
-  - **(2)** a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another; and
-  - **(3)** a conspiracy to commit an offense described in paragraph (1) or (2).
+  - **(2)** a Federal felony crime of violence that has as an element the use or attempted use of physical force against the person of another;
+  - **(3)** a Federal offense involving human trafficking, sexual abuse, sexual exploitation, or transportation for prostitution or any illegal sexual activity; and
+  - **(4)** a conspiracy to commit an offense described in paragraph (1), (2), or (3).
 - **(d)** The circumstances described in this section are that the offense described in subsection (c) was committed by a person who—
   - **(1)** participates in a criminal street gang with knowledge that its members engage in or have engaged in a continuing series of offenses described in subsection (c);
   - **(2)** intends to promote or further the felonious activities of the criminal street gang or maintain or increase his or her position in the gang; and

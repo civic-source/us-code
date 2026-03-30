@@ -3,9 +3,9 @@ title: "Section 60541 - Federal prisoner reentry initiative"
 usc_title: 34
 usc_section: "60541"
 chapter: 605
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "34 U.S.C. § 60541"
-generated_at: "2026-03-30T07:46:36.285Z"
+generated_at: "2026-03-30T07:49:40.365Z"
 status: "active"
 ---
 
@@ -24,9 +24,10 @@ status: "active"
     - **(A)** the maximum allowable period in a community confinement facility; and
     - **(B)** such other incentives as the Director considers appropriate (not including a reduction of the term of imprisonment).
 - **(b)**
-  - **(1)** The Director shall assist prisoners in obtaining identification (including a social security card, driver’s license or other official photo identification, or birth certificate) prior to release.
+  - **(1)** The Director shall assist prisoners in obtaining identification prior to release from a term of imprisonment in a Federal prison or if the individual was not sentenced to a term of imprisonment in a Federal prison, prior to release from a sentence to a term in community confinement, including a social security card, driver’s license or other official photo identification, and a birth certificate.
   - **(2)** At the request of a direct-release prisoner, a representative of the United States Probation System shall, prior to the release of that prisoner, help that prisoner develop a release plan.
   - **(3)** In this section, the term “direct-release prisoner” means a prisoner who is scheduled for release and will not be placed in prerelease custody.
+  - **(4)** In this subsection, the term “community confinement” means residence in a community treatment center, halfway house, restitution center, mental health facility, alcohol or drug rehabilitation center, or other community facility.
 - **(c)** The Attorney General shall take such steps as are necessary to modify the procedures and policies of the Department of Justice with respect to the transition of offenders from the custody of the Bureau of Prisons to the community—
   - **(1)** to enhance case planning and implementation of reentry programs, policies, and guidelines;
   - **(2)** to improve such transition to the community, including placement of such individuals in community corrections facilities; and
@@ -56,16 +57,16 @@ status: "active"
 - **(f)**
 - **(g)**
   - **(1)**
-    - **(A)** The Attorney General shall conduct a pilot program to determine the effectiveness of removing eligible elderly offenders from a Bureau of Prisons facility and placing such offenders on home detention until the expiration of the prison term to which the offender was sentenced.
-    - **(B)** In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders from the Bureau of Prisons facility to home detention.
-    - **(C)** The Attorney General is authorized to waive the requirements of section 3624 of title 18 as necessary to provide for the release of some or all eligible elderly offenders from the Bureau of Prisons facility to home detention for the purposes of the pilot program under this subsection.
-  - **(2)** A violation by an eligible elderly offender of the terms of home detention (including the commission of another Federal, State, or local crime) shall result in the removal of that offender from home detention and the return of that offender to the designated Bureau of Prisons institution in which that offender was imprisoned immediately before placement on home detention under paragraph (1), or to another appropriate Bureau of Prisons institution, as determined by the Bureau of Prisons.
-  - **(3)** A pilot program under paragraph (1) shall be conducted through at least one Bureau of Prisons facility designated by the Attorney General as appropriate for the pilot program and shall be carried out during fiscal years 2009 and 2010.
-  - **(4)** The Attorney General shall monitor and evaluate each eligible elderly offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The Administrative Office of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders released to home detention under this section.
+    - **(A)** The Attorney General shall conduct a pilot program to determine the effectiveness of removing eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities and placing such offenders on home detention until the expiration of the prison term to which the offender was sentenced.
+    - **(B)** In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention, upon written request from either the Bureau of Prisons or an eligible elderly offender or eligible terminally ill offender.
+    - **(C)** The Attorney General is authorized to waive the requirements of section 3624 of title 18 as necessary to provide for the release of some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention for the purposes of the pilot program under this subsection.
+  - **(2)** A violation by an eligible elderly offender or eligible terminally ill offender of the terms of home detention (including the commission of another Federal, State, or local crime) shall result in the removal of that offender from home detention and the return of that offender to the designated Bureau of Prisons institution in which that offender was imprisoned immediately before placement on home detention under paragraph (1), or to another appropriate Bureau of Prisons institution, as determined by the Bureau of Prisons.
+  - **(3)** A pilot program under paragraph (1) shall be conducted through Bureau of Prisons facilities designated by the Attorney General as appropriate for the pilot program and shall be carried out during fiscal years 2019 through 2023.
+  - **(4)** The Attorney General shall monitor and evaluate each eligible elderly offender or eligible terminally ill offender placed on home detention under this section, and shall report to Congress concerning the experience with the program at the end of the period described in paragraph (3). The Administrative Office of the United States Courts and the United States probation offices shall provide such assistance and carry out such functions as the Attorney General may request in monitoring, supervising, providing services to, and evaluating eligible elderly offenders and eligible terminally ill offenders released to home detention under this section.
   - **(5)** In this section:
     - **(A)** The term “eligible elderly offender” means an offender in the custody of the Bureau of Prisons—
-      - **(i)** who is not less than 65 years of age;
-      - **(ii)** who is serving a term of imprisonment that is not life imprisonment based on conviction for an offense or offenses that do not include any crime of violence (as defined in section 16 of title 18 ), sex offense (as defined in section 20911(5) of this title ), offense described in section 2332b(g)(5)(B) of title 18 , or offense under chapter 37 of title 18, and has served the greater of 10 years or 75 percent of the term of imprisonment to which the offender was sentenced;
+      - **(i)** who is not less than 60 years of age;
+      - **(ii)** who is serving a term of imprisonment that is not life imprisonment based on conviction for an offense or offenses that do not include any crime of violence (as defined in section 16 of title 18 ), sex offense (as defined in section 20911(5) of this title ), offense described in section 2332b(g)(5)(B) of title 18 , or offense under chapter 37 of title 18, and has served ⅔ of the term of imprisonment to which the offender was sentenced;
       - **(iii)** who has not been convicted in the past of any Federal or State crime of violence, sex offense, or other offense described in clause (ii);
       - **(iv)** who has not been determined by the Bureau of Prisons, on the basis of information the Bureau uses to make custody classifications, and in the sole discretion of the Bureau, to have a history of violence, or of engaging in conduct constituting a sex offense or other offense described in clause (ii);
       - **(v)** who has not escaped, or attempted to escape, from a Bureau of Prisons institution;
@@ -73,17 +74,10 @@ status: "active"
       - **(vii)** who has been determined by the Bureau of Prisons to be at no substantial risk of engaging in criminal conduct or of endangering any person or the public if released to home detention.
     - **(B)** The term “home detention” has the same meaning given the term in the Federal Sentencing Guidelines as of April 9, 2008 , and includes detention in a nursing home or other residential long-term care facility.
     - **(C)** The term “term of imprisonment” includes multiple terms of imprisonment ordered to run consecutively or concurrently, which shall be treated as a single, aggregate term of imprisonment for purposes of this section.
-- **(h)**
-  - **(1)** The Director of the Administrative Office of the United States Courts, in consultation with the Attorney General, may establish the Federal Remote Satellite Tracking and Reentry Training (ReStart) program to promote the effective reentry into the community of high risk individuals.
-  - **(2)** For purposes of this section, the term “high risk individual” means—
-    - **(A)** an individual who is under supervised release, with respect to a Federal offense, and who has previously violated the terms of a release granted such individual following a term of imprisonment; or
-    - **(B)** an individual convicted of a Federal offense who is at a high risk for recidivism, as determined by the Director of the Bureau of Prisons, and who is eligible for early release pursuant to voluntary participation in a program of residential substance abuse treatment under section 3621(e) of title 18 or a program described in this section.
-  - **(3)** The program authorized under paragraph (1) shall include, with respect to high risk individuals participating in such program, the following core elements:
-    - **(A)** A system of graduated levels of supervision, that uses, as appropriate and indicated—
-      - **(i)** satellite tracking, global positioning, remote satellite, and other tracking or monitoring technologies to monitor and supervise such individuals in the community; and
-      - **(ii)** community corrections facilities and home confinement.
-    - **(B)** Substance abuse treatment and aftercare related to such treatment, mental and medical health treatment and aftercare related to such treatment, vocational and educational training, life skills instruction, conflict resolution skills training, batterer intervention programs, and other programs to promote effective reentry into the community as appropriate.
-    - **(C)** Involvement of the family of such an individual, a victim advocate, and the victim of the offense committed by such an individual, if such involvement is safe for such victim (especially in a domestic violence case).
-    - **(D)** A methodology, including outcome measures, to evaluate the program.
-    - **(E)** Notification to the victim of the offense committed by such an individual of the status and nature of such an individual’s reentry plan.
-- **(i)** There are authorized to be appropriated to the Attorney General to carry out this section, $5,000,000 for each of fiscal years 2009 and 2010.
+    - **(D)** The term “eligible terminally ill offender” means an offender in the custody of the Bureau of Prisons who—
+      - **(i)** is serving a term of imprisonment based on conviction for an offense or offenses that do not include any crime of violence (as defined in section 16(a) of title 18 ), sex offense (as defined in section 20911(5) of this title ), offense described in section 2332b(g)(5)(B) of title 18 , or offense under chapter 37 of title 18;
+      - **(ii)** satisfies the criteria specified in clauses (iii) through (vii) of subparagraph (A); and
+      - **(iii)** has been determined by a medical doctor approved by the Bureau of Prisons to be—
+        - **(I)** in need of care at a nursing home, intermediate care facility, or assisted living facility, as those terms are defined in section 1715w of title 12 ; or
+        - **(II)** diagnosed with a terminal illness.
+- **(h)** There are authorized to be appropriated to the Attorney General to carry out this section, $5,000,000 for each of fiscal years 2019 through 2023.

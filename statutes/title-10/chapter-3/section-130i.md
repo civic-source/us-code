@@ -3,9 +3,9 @@ title: "Section 130i - Protection of certain facilities and assets from unmanned
 usc_title: 10
 usc_section: "130i"
 chapter: 3
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 130i"
-generated_at: "2026-03-30T07:45:51.209Z"
+generated_at: "2026-03-30T07:48:43.868Z"
 status: "active"
 ---
 
@@ -72,4 +72,4 @@ status: "active"
       - **(ix)** a Major Range and Test Facility Base (as defined in section 196(i) of this title ).
   - **(4)** The term “defense budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
   - **(5)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meanings given those terms in section 2510 of title 18 .
-  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 note).
+  - **(6)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 2 2 See References in Text note below. note).

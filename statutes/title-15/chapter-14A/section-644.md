@@ -3,9 +3,9 @@ title: "Section 644 - Awards or contracts"
 usc_title: 15
 usc_section: "644"
 chapter: 14
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 644"
-generated_at: "2026-03-30T07:45:58.827Z"
+generated_at: "2026-03-30T07:48:52.113Z"
 status: "active"
 ---
 
@@ -198,7 +198,7 @@ status: "active"
 - **(j)**
   - **(1)** Each contract for the purchase of goods and services that has an anticipated value greater than the micro-purchase threshold, but not greater than the simplified acquisition threshold shall be reserved exclusively for small business concerns unless the contracting officer is unable to obtain offers from two or more small business concerns that are competitive with market prices and are competitive with regard to the quality and delivery of the goods or services being purchased.
   - **(2)** In carrying out paragraph (1), a contracting officer shall consider a responsive offer timely received from an eligible small business offeror.
-  - **(3)** Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of section 637 of this title , section 2323 of title 10 , section 712 3 3 See References in Text note below. of the Business Opportunity Development Reform Act of 1988 ( Public Law 100–656 ; 15 U.S.C. 644 note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
+  - **(3)** Nothing in paragraph (1) shall be construed as precluding an award of a contract with a value not greater than $100,000 under the authority of subsection (a) of section 637 of this title , section 712 3 3 See References in Text note below. of the Business Opportunity Development Reform Act of 1988 ( Public Law 100–656 ; 15 U.S.C. 644 note), or section 7102 of the Federal Acquisition Streamlining Act of 1994.
 - **(k)** There is hereby established in each Federal agency having procurement powers an office to be known as the “Office of Small and Disadvantaged Business Utilization”. The management of each such office shall be vested in an officer or employee of such agency, with experience serving in any combination of the following roles: program manager, deputy program manager, or assistant program manager for Federal acquisition program; chief engineer, systems engineer, assistant engineer, or product support manager for Federal acquisition program; Federal contracting officer; small business technical advisor; contracts administrator for Federal Government contracts; attorney specializing in Federal procurement law; small business liaison officer; officer or employee who managed Federal Government contracts for a small business; or individual whose primary responsibilities were for the functions and duties of section 637, 644, 657a, 657f, or 657q of this title. Such officer or employee—
   - **(1)** shall be known as the “Director of Small and Disadvantaged Business Utilization” for such agency;
   - **(2)** shall be appointed by the head of such agency to a position that is a Senior Executive Service position (as such term is defined under section 3132(a) of title 5 ), except that, for any agency in which the positions of Chief Acquisition Officer and senior procurement executive (as such terms are defined under section 657q(a) of this title ) are not Senior Executive Service positions, the Director of Small and Disadvantaged Business Utilization may be appointed to a position compensated at not less than the minimum rate of basic pay payable for grade GS–15 of the General Schedule under section 5332 of title 5 (including comparability payments under section 5304 of title 5 );
@@ -211,7 +211,7 @@ status: "active"
     - **(A)** who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity; and
     - **(B)** whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to sections 637, 644, 657a, 657f, and 657q of this title, 4
   - **(9)** shall cooperate, and consult on a regular basis, with the Administration with respect to carrying out the functions and duties described in paragraph (4) of this subsection;
-  - **(10)** shall make recommendations to contracting officers as to whether a particular contract requirement should be awarded pursuant to subsection (a), section 637, 644, 657a, or 657f of this title, or section 2323 of title 10 , which shall be made with due regard to the requirements of subsection (m), and the failure of the contracting officer to accept any such recommendations shall be documented and included within the appropriate contract file;
+  - **(10)** shall make recommendations to contracting officers as to whether a particular contract requirement should be awarded pursuant to subsection (a) or section 637, 644, 657a, or 657f of this title, and the failure of the contracting officer to accept any such recommendations shall be documented and included within the appropriate contract file;
   - **(11)** shall review and advise such agency on any decision to convert an activity performed by a small business concern to an activity performed by a Federal employee;
   - **(12)** shall provide to the Chief Acquisition Officer and senior procurement executive of such agency advice and comments on acquisition strategies, market research, and justifications related to section 657q of this title ;
   - **(13)** may provide training to small business concerns and contract specialists, except that such training may only be provided to the extent that the training does not interfere with the Director carrying out other responsibilities under this subsection;
@@ -268,14 +268,7 @@ status: "active"
       - **(iii)** is for a contingency operation, as defined in section 101(a)(13) of title 10 ;
       - **(iv)** is to be awarded pursuant to an agreement with the government of a foreign country in which Armed Forces of the United States are deployed; or
       - **(v)** both the place of award and the place of performance are outside of the United States and its territories.
-- **(m)**
-  - **(1)** Each agency subject to the requirements of section 2323 of title 10 shall, when implementing such requirements—
-    - **(A)** establish policies and procedures that insure that there will be no reduction in the number of 7 7 So in original. Probably should be “or”. dollar value of contracts awarded pursuant to this section and section 637(a) of this title in order to achieve any goal or other program objective; and
-    - **(B)** assure that such requirements will not alter or change the procurement process used to implement this section or section 637(a) of this title .
-  - **(2)** All procurement center representatives (including those referred to in subsection (k)(6)), in addition to such other duties as may be assigned by the Administrator, shall—
-    - **(A)** monitor the performance of the procurement activities to which they are assigned to ascertain the degree of compliance with the requirements of paragraph (1);
-    - **(B)** report to their immediate supervisors all instances of noncompliance with such requirements; and
-    - **(C)** increase, insofar as possible, the number and dollar value of procurements that may be used for the programs established under this section, section 637(a) of this title , and section 2323 of title 10 .
+- **(m)** All procurement center representatives (including those referred to in subsection (k)(6)), in addition to such other duties as may be assigned by the Administrator, shall increase, insofar as possible, the number and dollar value of procurements that may be used for the programs established under this section and section 637(a) of this title .
 - **(n)** For purposes of this section, the determination of labor surplus areas shall be made on the basis of the criteria in effect at the time of the determination, except that any minimum population criteria shall not exceed twenty-five thousand. Such determination, as modified by the preceding sentence, shall be made by the Secretary of Labor.
 - **(o)** A concern may not be awarded a contract under subsection (a) as a small business concern unless the concern agrees to satisfy the requirements of section 657s of this title .
 - **(p)**
@@ -337,3 +330,24 @@ status: "active"
     - **(A)** by the Administrator that affect Federal acquisition; and
     - **(B)** by the Federal Acquisition Council that implement amendments to this chapter; and
   - **(2)** any materials the Administrator has developed that explain, train, or assist Federal agencies or departments or small business concerns with compliance with the regulations described in paragraph (1).
+- **(w)**
+  - **(1)** With respect to any solicitation for the award of a contract for construction anticipated to be awarded to a small business concern, the agency administering such contract shall provide a notice along with the solicitation to prospective bidders and offerors that includes—
+    - **(A)** information about the agency’s policies or practices in complying with the requirements of the Federal Acquisition Regulation relating to the timely definitization of requests for an equitable adjustment; and
+    - **(B)** information about the agency’s past performance in definitizing requests for equitable adjustments in accordance with paragraph (2).
+  - **(2)** An agency shall provide the past performance information described under paragraph (1)(B) as follows:
+    - **(A)** For the 3-year period preceding the issuance of the notice, to the extent such information is available.
+    - **(B)** With respect to an agency that, on August 13, 2018 , has not compiled the information described under paragraph (1)(B)—
+      - **(i)** beginning 1 year after August 13, 2018 , for the 1-year period preceding the issuance of the notice;
+      - **(ii)** beginning 2 years after August 13, 2018 , for the 2-year period preceding the issuance of the notice; and
+      - **(iii)** beginning 3 years after August 13, 2018 , and each year thereafter, for the 3-year period preceding the issuance of the notice.
+  - **(3)** In the notice required under paragraph (1), the agency shall ensure that the past performance information described under paragraph (1)(B) is set forth separately for each definitization action that was completed during the following periods:
+    - **(A)** Not more than 30 days after receipt of a request for an equitable adjustment.
+    - **(B)** Not more than 60 days after receipt of a request for an equitable adjustment.
+    - **(C)** Not more than 90 days after receipt of a request for an equitable adjustment.
+    - **(D)** Not more than 180 days after receipt of a request for an equitable adjustment.
+    - **(E)** Not more than 365 days after receipt of a request for an equitable adjustment.
+    - **(F)** More than 365 days after receipt of a request for an equitable adjustment.
+    - **(G)** After the completion of the performance of the contract through a contract modification addressing all undefinitized requests for an equitable adjustment received during the term of the contract.
+- **(x)**
+  - **(1)** If an agency awards a prime contract to Puerto Rico business during the period beginning on August 13, 2018 , and ending on the date that is 4 years after such date, the value of the contract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A)(i) during such period.
+  - **(2)** Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 ( 15 U.S.C. 644 note), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.

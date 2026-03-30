@@ -3,9 +3,9 @@ title: "Section 26106 - High-speed rail corridor development"
 usc_title: 49
 usc_section: "26106"
 chapter: 261
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 26106"
-generated_at: "2026-03-30T07:47:24.813Z"
+generated_at: "2026-03-30T07:50:15.304Z"
 status: "active"
 ---
 
@@ -60,7 +60,7 @@ status: "active"
         - **(I)** donated property interests or services;
         - **(II)** financial contributions by intercity passenger, freight, and commuter rail carriers commensurate with the benefit expected to their operations; and
         - **(III)** financial commitments from host railroads, non-Federal governmental entities, non-governmental entities, and others.
-  - **(3)** The Secretary shall require each recipient of a grant under this chapter to comply with the grant requirements of section 24405 of this title .
+  - **(3)** The Secretary shall require each recipient of a grant under this chapter to comply with the grant requirements of section 22905.
   - **(4)** State rail plans completed before the date of enactment of the Passenger Rail Investment and Improvement Act of 2008 that substantially meet the requirements of chapter 227 of this title, as determined by the Secretary pursuant to section 22506 1 of this title, shall be deemed by the Secretary to have met the requirements of paragraph (2)(A)(i) of this subsection.
 - **(f)** The Federal share of the cost of a project financed under this section shall not exceed 80 percent of the project net capital cost.
 - **(g)** Within 1 year after the date of enactment of this section, the Secretary shall issue regulations to carry out this section.

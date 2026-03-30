@@ -3,9 +3,9 @@ title: "Section 44926 - Appeal and redress process for passengers wrongly delaye
 usc_title: 49
 usc_section: "44926"
 chapter: 449
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 44926"
-generated_at: "2026-03-30T07:47:24.841Z"
+generated_at: "2026-03-30T07:50:15.338Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)**
   - **(1)** The Secretary shall establish in the Department an Office of Appeals and Redress to implement, coordinate, and execute the process established by the Secretary pursuant to subsection (a). The Office shall include representatives from the Transportation Security Administration, United States Customs and Border Protection, and such other offices and components of the Department as the Secretary determines appropriate.
   - **(2)** The process established by the Secretary pursuant to subsection (a) shall include the establishment of a method by which the Office, under the direction of the Secretary, will be able to maintain a record of air carrier passengers and other individuals who have been misidentified and have corrected erroneous information.
-  - **(3)** To prevent repeated delays of an 1 1 So in original. misidentified passenger or other individual, the Office shall—
+  - **(3)** To prevent repeated delays of a misidentified passenger or other individual, the Office shall—
     - **(A)** ensure that the records maintained under this subsection contain information determined by the Secretary to authenticate the identity of such a passenger or individual;
     - **(B)** furnish to the Transportation Security Administration, United States Customs and Border Protection, or any other appropriate office or component of the Department, upon request, such information as may be necessary to allow such office or component to assist air carriers in improving their administration of the advanced passenger prescreening system and reduce the number of false positives; and
     - **(C)** require air carriers and foreign air carriers take action to identify passengers determined, under the process established under subsection (a), to have been wrongly identified.

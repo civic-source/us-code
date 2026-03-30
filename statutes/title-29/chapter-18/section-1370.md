@@ -3,9 +3,9 @@ title: "Section 1370 - Enforcement authority relating to terminations of single-
 usc_title: 29
 usc_section: "1370"
 chapter: 18
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "29 U.S.C. § 1370"
-generated_at: "2026-03-30T07:46:27.603Z"
+generated_at: "2026-03-30T07:49:22.807Z"
 status: "active"
 ---
 

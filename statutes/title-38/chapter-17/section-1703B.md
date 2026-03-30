@@ -3,9 +3,9 @@ title: "Section 1703B - Access standards"
 usc_title: 38
 usc_section: "1703B"
 chapter: 17
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 1703B"
-generated_at: "2026-03-30T07:46:46.204Z"
+generated_at: "2026-03-30T07:49:45.545Z"
 status: "active"
 ---
 
@@ -33,8 +33,8 @@ status: "active"
     - **(A)** the requested care is clinically necessary; and
     - **(B)** the Department is able to provide such care in a manner that complies with designated access standards established under this section.
   - **(3)** The Secretary shall promptly respond to any such request by a covered veteran.
-- **(i)**
+- **(i)** In this section:
   - **(1)** The term “appropriate committees of Congress” means—
     - **(A)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
     - **(B)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
-  - **(2)** The term “covered veterans” refers to veterans described in section 1703(b) 1 of this title.
+  - **(2)** The term “covered veterans” means veterans described in section 1703(b) 1 of this title.

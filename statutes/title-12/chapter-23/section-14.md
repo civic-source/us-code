@@ -3,9 +3,9 @@ title: "Section 14 - Federal jurisdiction"
 usc_title: 12
 usc_section: "14"
 chapter: 23
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "12 U.S.C. § 14"
-generated_at: "2026-03-30T07:46:02.806Z"
+generated_at: "2026-03-30T07:48:49.549Z"
 status: "active"
 ---
 

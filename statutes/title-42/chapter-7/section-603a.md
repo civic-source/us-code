@@ -3,9 +3,9 @@ title: "Section 603a - Transferred"
 usc_title: 42
 usc_section: "603a"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 603a"
-generated_at: "2026-03-30T07:46:59.829Z"
+generated_at: "2026-03-30T07:50:06.763Z"
 status: "transferred"
 ---
 

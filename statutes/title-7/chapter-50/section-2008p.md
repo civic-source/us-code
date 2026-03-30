@@ -3,9 +3,9 @@ title: "Section 2008p - Grants for NOAA weather radio transmitters"
 usc_title: 7
 usc_section: "2008p"
 chapter: 50
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 2008p"
-generated_at: "2026-03-30T07:45:46.507Z"
+generated_at: "2026-03-30T07:48:18.718Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ status: "active"
   - **(1)** a binding commitment from a tower owner to place the transmitter on a tower; and
   - **(2)** a description of how the tower placement will increase coverage of a rural area by the all hazards weather radio broadcast system of the National Oceanic and Atmospheric Administration.
 - **(c)** A grant provided under this section shall be not more than 75 percent of the total cost of acquiring a radio transmitter, as described in subsection (a).
-- **(d)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
+- **(d)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2023.

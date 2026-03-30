@@ -1,0 +1,15 @@
+---
+title: "Section 8293 - Distinguished-service medal"
+usc_title: 10
+usc_section: "8293"
+chapter: 837
+current_through: "PL 116-10"
+classification: "10 U.S.C. § 8293"
+generated_at: "2026-03-30T07:48:43.991Z"
+status: "active"
+---
+
+# § 8293. Distinguished-service medal
+
+The President may award a distinguished-service medal of appropriate design and a ribbon, together with a rosette or other device to be worn in place thereof, to any person who, while serving in any capacity with the Navy or the Marine Corps, distinguishes himself by exceptionally meritorious service to the United States in a duty of great responsibility.
+

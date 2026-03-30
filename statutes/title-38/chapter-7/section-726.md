@@ -3,9 +3,9 @@ title: "Section 726 - Annual report on performance awards and bonuses awarded to
 usc_title: 38
 usc_section: "726"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 726"
-generated_at: "2026-03-30T07:46:46.200Z"
+generated_at: "2026-03-30T07:49:45.540Z"
 status: "active"
 ---
 
@@ -27,4 +27,4 @@ status: "active"
     - **(B)** an individual—
       - **(i)** in an administrative or executive position; and
       - **(ii)** appointed under section 7306(a) or section 7401(1) of this title .
-  - **(3)** The term “career appointee” has the meaning given that term in section 3132(a) of title 5 , United States Code.
+  - **(3)** The term “career appointee” has the meaning given that term in section 3132(a) of title 5 .

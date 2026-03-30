@@ -3,9 +3,9 @@ title: "Section 7702 - Administrative procedure"
 usc_title: 46
 usc_section: "7702"
 chapter: 77
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "46 U.S.C. § 7702"
-generated_at: "2026-03-30T07:47:17.796Z"
+generated_at: "2026-03-30T07:50:11.274Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Sections 551–559 of title 5 apply to each hearing under this chapter about suspending or revoking a license, certificate of registry, or merchant mariner’s document.
 - **(b)** The individual whose license, certificate of registry, or merchant mariner’s document has been suspended or revoked under this chapter may appeal, within 30 days, the suspension or revocation to the Secretary.
 - **(c)**
-  - **(1)** The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under section 206(b)(4) of the National Driver Register Act of 1982 ( 23 U.S.C. 401 note), 1 1 See References in Text note below. all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
+  - **(1)** The Secretary shall request a holder of a license, certificate of registry, or merchant mariner’s document to make available to the Secretary, under section 30305(b)(7) of title 49 , all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act committed by the individual.
   - **(2)** The Secretary shall require the testing of the holder of a license, certificate of registry, or merchant mariner’s document for use of alcohol and dangerous drugs in violation of law or Federal regulation. The testing may include preemployment (with respect to dangerous drugs only), periodic, random, and reasonable cause testing, and shall include post-accident testing.
 - **(d)**
   - **(1)** The Secretary may temporarily, for not more than 45 days, suspend and take possession of the license, certificate of registry, or merchant mariner’s document held by an individual if—

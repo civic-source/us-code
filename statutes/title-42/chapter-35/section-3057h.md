@@ -3,9 +3,9 @@ title: "Section 3057h - Eligibility"
 usc_title: 42
 usc_section: "3057h"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 3057h"
-generated_at: "2026-03-30T07:47:00.091Z"
+generated_at: "2026-03-30T07:50:07.006Z"
 status: "active"
 ---
 

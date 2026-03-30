@@ -3,9 +3,9 @@ title: "Section 3805 - Indian dam safety"
 usc_title: 25
 usc_section: "3805"
 chapter: 40
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 3805"
-generated_at: "2026-03-30T07:46:20.683Z"
+generated_at: "2026-03-30T07:49:10.578Z"
 status: "active"
 ---
 
@@ -28,10 +28,10 @@ status: "active"
       - **(i)** such amounts as are deposited in the Fund under subparagraph (B); and
       - **(ii)** any interest earned on investment of amounts in the Fund under subparagraph (D).
     - **(B)**
-      - **(i)** For each of fiscal years 2017 through 2023, the Secretary of the Treasury shall deposit in the Fund $22,750,000 from the general fund of the Treasury.
+      - **(i)** For each of fiscal years 2017 through 2030, the Secretary of the Treasury shall deposit in the Fund $22,750,000 from the general fund of the Treasury.
       - **(ii)** Amounts deposited in the Fund under clause (i) shall be used, subject to appropriation, to carry out this section.
     - **(C)**
-      - **(i)** Subject to clause (ii), for each of fiscal years 2017 through 2023, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+      - **(i)** Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
         - **(I)** $22,750,000; and
         - **(II)** the amount of interest accrued in the Fund.
       - **(ii)** The Secretary may expend more than $22,750,000 for any fiscal year referred to in clause (i) if the additional amounts are available in the Fund as a result of a failure of the Secretary to expend all of the amounts available under clause (i) in 1 or more prior fiscal years.
@@ -41,7 +41,7 @@ status: "active"
     - **(E)**
       - **(i)** The amounts required to be transferred to the Fund under this paragraph shall be transferred at least monthly.
       - **(ii)** Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates are in excess of or less than the amounts required to be transferred.
-    - **(F)** On September 30, 2023 —
+    - **(F)** On September 30, 2030 —
       - **(i)** the Fund shall terminate; and
       - **(ii)** the unexpended and unobligated balance of the Fund shall be transferred to the general fund of the Treasury.
   - **(2)**
@@ -49,10 +49,10 @@ status: "active"
       - **(i)** such amounts as are deposited in the Fund under subparagraph (B); and
       - **(ii)** any interest earned on investment of amounts in the Fund under subparagraph (D).
     - **(B)**
-      - **(i)** For each of fiscal years 2017 through 2023, the Secretary of the Treasury shall deposit in the Fund $10,000,000 from the general fund of the Treasury.
+      - **(i)** For each of fiscal years 2017 through 2030, the Secretary of the Treasury shall deposit in the Fund $10,000,000 from the general fund of the Treasury.
       - **(ii)** Amounts deposited in the Fund under clause (i) shall be used, subject to appropriation, to carry out this section.
     - **(C)**
-      - **(i)** Subject to clause (ii), for each of fiscal years 2017 through 2023, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+      - **(i)** Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
         - **(I)** $10,000,000; and
         - **(II)** the amount of interest accrued in the Fund.
       - **(ii)** The Secretary may expend more than $10,000,000 for any fiscal year referred to in clause (i) if the additional amounts are available in the Fund as a result of a failure of the Secretary to expend all of the amounts available under clause (i) in 1 or more prior fiscal years.
@@ -62,7 +62,7 @@ status: "active"
     - **(E)**
       - **(i)** The amounts required to be transferred to the Fund under this paragraph shall be transferred at least monthly.
       - **(ii)** Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates are in excess of or less than the amounts required to be transferred.
-    - **(F)** On September 30, 2023 —
+    - **(F)** On September 30, 2030 —
       - **(i)** the Fund shall terminate; and
       - **(ii)** the unexpended and unobligated balance of the Fund shall be transferred to the general fund of the Treasury.
 - **(c)**
@@ -71,8 +71,8 @@ status: "active"
       - **(i)** create flood risks or other risks to public or employee safety or natural or cultural resources; and
       - **(ii)** unduly impede the management and efficiency of Indian dams.
     - **(B)**
-      - **(i)** Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2023 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
-      - **(ii)** Consistent with subsection (b)(2)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $10,000,000 of amounts in the Low-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2023 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(B).
+      - **(i)** Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
+      - **(ii)** Consistent with subsection (b)(2)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $10,000,000 of amounts in the Low-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(B).
     - **(C)** Maintenance, repair, and replacement activities for Indian dams under this section shall be carried out in accordance with the dam safety policies of the Director of the Bureau of Indian Affairs established to carry out the Indian Dams Safety Act of 1994 ( 25 U.S.C. 3801 et seq.).
   - **(2)**
     - **(A)** The dams eligible for funding under paragraph (1)(B)(i) are Indian high hazard potential dams in the United States that—
@@ -113,7 +113,7 @@ status: "active"
       - **(iii)** solicit and consider the input, comments, and recommendations of the landowners served by the Indian dam.
     - **(B)** If the Secretary determines that an emergency circumstance exists with respect to an Indian dam, subparagraph (A) shall not apply with respect to that Indian dam.
   - **(5)**
-    - **(A)** Subject to subparagraph (B), to the maximum extent practicable, the Secretary shall ensure that, for each of fiscal years 2017 through 2023, each Indian dam eligible for funding under paragraph (2) that has critical maintenance needs receives part of the funding under paragraph (1) to address critical maintenance needs.
+    - **(A)** Subject to subparagraph (B), to the maximum extent practicable, the Secretary shall ensure that, for each of fiscal years 2017 through 2030, each Indian dam eligible for funding under paragraph (2) that has critical maintenance needs receives part of the funding under paragraph (1) to address critical maintenance needs.
     - **(B)** In allocating amounts under paragraph (1)(B), in addition to considering the funding priorities described in paragraph (3), the Secretary shall give priority to Indian dams eligible for funding under paragraph (2) that serve—
       - **(i)** more than 1 Indian tribe within an Indian reservation; or
       - **(ii)** highly populated Indian communities, as determined by the Secretary.
@@ -173,5 +173,5 @@ status: "active"
   - **(1)** The Secretary shall establish, within the Bureau of Indian Affairs, a flood plain management pilot program (referred to in this subsection as the “program”) to provide, at the request of an Indian tribe, guidance to the Indian tribe relating to best practices for the mitigation and prevention of floods, including consultation with the Indian tribe on—
     - **(A)** flood plain mapping; or
     - **(B)** new construction planning.
-  - **(2)** The program shall terminate on the date that is 4 years after December 16, 2016 .
-  - **(3)** Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017, 2018, and 2019 to carry out this subsection, to remain available until expended.
+  - **(2)** The program shall terminate on the date that is 11 years after December 16, 2016 .
+  - **(3)** Of the amounts authorized to be expended from either Fund, $250,000 shall be made available from either Fund during each of fiscal years 2017 through 2026 to carry out this subsection, to remain available until expended.

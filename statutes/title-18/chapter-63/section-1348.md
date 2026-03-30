@@ -3,9 +3,9 @@ title: "Section 1348 - Securities and commodities fraud"
 usc_title: 18
 usc_section: "1348"
 chapter: 63
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 1348"
-generated_at: "2026-03-30T07:46:07.366Z"
+generated_at: "2026-03-30T07:48:55.475Z"
 status: "active"
 ---
 

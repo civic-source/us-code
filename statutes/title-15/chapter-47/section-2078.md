@@ -3,9 +3,9 @@ title: "Section 2078 - Cooperation with States and other Federal agencies"
 usc_title: 15
 usc_section: "2078"
 chapter: 47
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 2078"
-generated_at: "2026-03-30T07:45:58.926Z"
+generated_at: "2026-03-30T07:48:52.172Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
       - **(i)** laws regulating the manufacture, importation, distribution, or sale of defective or unsafe consumer products, or other practices substantially similar to practices prohibited by any law administered by the Commission;
       - **(ii)** a law administered by the Commission, if disclosure of the material would further a Commission investigation or enforcement proceeding; or
       - **(iii)** with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency’s government; and
-    - **(C)** in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) of title 50 , has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) of title 50 .
+    - **(C)** in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1 1 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
   - **(2)** The Commission may abrogate any agreement or memorandum of understanding with another agency if the Commission determines that the other agency has failed to maintain in confidence any information provided under such agreement or memorandum of understanding, or has used any such information for purposes other than those set forth in such agreement or memorandum of understanding.
   - **(3)** Except as provided in paragraph (4), the Commission shall not be required to disclose under section 552 of title 5 or any other provision of law—
     - **(A)** any material obtained from a foreign government agency, if the foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;

@@ -3,9 +3,9 @@ title: "Section 1515 - Program compliance and integrity"
 usc_title: 7
 usc_section: "1515"
 chapter: 36
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1515"
-generated_at: "2026-03-30T07:45:46.472Z"
+generated_at: "2026-03-30T07:48:18.692Z"
 status: "active"
 ---
 
@@ -37,8 +37,11 @@ status: "active"
 - **(d)**
   - **(1)** The Secretary shall develop and implement a coordinated plan for the Farm Service Agency to assist the Corporation in the ongoing monitoring of programs carried out under this subchapter, including—
     - **(A)** at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
-    - **(B)** reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
-    - **(C)** assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter.
+    - **(B)** reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities;
+    - **(C)** assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this subchapter; and
+    - **(D)** using published aggregate data from the National Agricultural Statistics Service or any other data source to—
+      - **(i)** detect yield disparities or other data anomalies that indicate potential fraud; and
+      - **(ii)** target the relevant counties, crops, regions, companies, or agents associated with that potential fraud for audits and other enforcement actions.
   - **(2)** If, within five calendar days after receiving a report submitted under paragraph (1)(B), the Corporation does not provide a written response that describes the intended actions of the Corporation, the Farm Service Agency may conduct its own inquiry into the alleged program fraud, waste, or abuse on approval from the State director of the Farm Service Agency of the State in which the alleged fraud, waste, or abuse occurred. If as a result of the inquiry, the Farm Service Agency concludes further investigation is warranted, but the Corporation declines to proceed with the investigation, the Farm Service Agency may refer the matter to the Inspector General of the Department of Agriculture.
   - **(3)** The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
   - **(4)**
@@ -55,7 +58,7 @@ status: "active"
     - **(A)** Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
     - **(B)** Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
   - **(2)**
-    - **(A)** The Corporation shall conduct a review of any agent identified pursuant to paragraph (1)(A), and any person identified pursuant to paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
+    - **(A)** The Corporation shall conduct a review of any agent identified under paragraph (1)(A), and any person identified under paragraph (1)(B), to determine whether the higher loss claims associated with the agent or the higher number of accepted or denied claims (as applicable) associated with the person are the result of fraud, waste, or abuse.
     - **(B)** The Corporation shall take appropriate remedial action with respect to any occurrence of fraud, waste, or abuse identified in a review conducted under this paragraph.
   - **(3)** The Corporation shall develop procedures to require an annual review by an approved insurance provider of the performance of each agent and loss adjuster used by the approved insurance provider. The Corporation shall oversee the conduct of annual reviews and may consult with an approved insurance provider regarding any remedial action that is determined to be necessary as a result of the annual review of an agent or loss adjuster.
 - **(g)**
@@ -63,7 +66,12 @@ status: "active"
     - **(A)** The name and identification number of the insured.
     - **(B)** The agricultural commodity to be insured.
     - **(C)** The elected coverage level, including the price election, of the insured.
-  - **(2)** The information required by paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+    - **(D)** The actual production history to be used to establish insurable yields.
+  - **(2)**
+    - **(A)** The information required to be submitted under subparagraphs (A) through (C) of paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+    - **(B)**
+      - **(i)** The information required to be submitted under paragraph (1)(D) with respect to an applicable policy or plan of insurance for a covered commodity (as defined in section 9011 of this title ) shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable production reporting date for the crop to be insured.
+      - **(ii)** Nothing in clause (i) limits the ability of an approved insurance provider to correct any error in the information submitted under paragraph (1)(D) after receipt of the information by the Corporation in accordance with clause (i).
 - **(h)**
   - **(1)** A producer, agent, loss adjuster, approved insurance provider, or other person that willfully and intentionally provides any false or inaccurate information to the Corporation or to an approved insurance provider with respect to a policy or plan of insurance under this subchapter may, after notice and an opportunity for a hearing on the record, be subject to one or more of the sanctions described in paragraph (3).
   - **(2)** A person may, after notice and an opportunity for a hearing on the record, be subject to one or more of the sanctions described in paragraph (3) if the person is a producer, agent, loss adjuster, approved insurance provider, or other person that willfully and intentionally fails to comply with a requirement of the Corporation.
@@ -100,6 +108,12 @@ status: "active"
   - **(2)** The Secretary shall use the information technologies known as data mining and data warehousing and other available information technologies to administer and enforce this subchapter.
   - **(3)** The Secretary may enter into contracts to use private sector expertise and technological resources in implementing this subsection, which shall be subject to competition on a periodic basis, as determined by the Secretary.
 - **(k)**
+  - **(1)** The Corporation shall establish requirements for continuing education for loss adjusters and agents of approved insurance providers.
+  - **(2)** The requirements for continuing education described in paragraph (1) shall ensure that loss adjusters and agents of approved insurance providers are familiar with—
+    - **(A)** the policies and plans of insurance available under this subchapter, including the regulations promulgated to carry out this subchapter;
+    - **(B)** efforts to promote program integrity through the elimination of waste, fraud, and abuse; and
+    - **(C)** other aspects of adjusting, delivering, and servicing policies and plans of insurance by adjustors and agents, as determined by the Secretary, including conservation activities and agronomic practices (including organic and sustainable practices) that are common and appropriate to the area in which the insured crop being inspected is produced.
+- **(l)**
   - **(1)**
     - **(A)** For purposes of subsection (j)(1), the Corporation may use, from amounts made available from the insurance fund established under section 1516(c) of this title , not more than—
       - **(i)**

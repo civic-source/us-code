@@ -3,9 +3,9 @@ title: "Section 92 - Repealed. Oct. 11, 1951, ch. 495 , § 5, 65 Stat. 407"
 usc_title: 33
 usc_section: "92"
 chapter: 2
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "33 U.S.C. § 92"
-generated_at: "2026-03-30T07:46:37.753Z"
+generated_at: "2026-03-30T07:49:41.162Z"
 status: "repealed"
 ---
 

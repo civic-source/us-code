@@ -3,9 +3,9 @@ title: "Section 632 - Definitions"
 usc_title: 15
 usc_section: "632"
 chapter: 14
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 632"
-generated_at: "2026-03-30T07:45:58.809Z"
+generated_at: "2026-03-30T07:48:52.101Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
       - **(i)** is proposed after an opportunity for public notice and comment;
       - **(ii)** provides for determining—
         - **(I)** the size of a manufacturing concern as measured by the manufacturing concern’s average employment based upon employment during each of the manufacturing concern’s pay periods for the preceding 12 months;
-        - **(II)** the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 3 years;
+        - **(II)** the size of a business concern providing services on the basis of the annual average gross receipts of the business concern over a period of not less than 5 years;
         - **(III)** the size of other business concerns on the basis of data over a period of not less than 3 years; or
         - **(IV)** other appropriate factors; and
       - **(iii)** is approved by the Administrator.
@@ -58,7 +58,7 @@ status: "active"
   - **(2)** For purposes of this chapter, the term “qualified employee trust” means, with respect to a small business concern, a trust—
     - **(A)** which forms part of an employee stock ownership plan (as defined in section 4975(e)(7) of title 26 )—
       - **(i)** which is maintained by such concern, and
-      - **(ii)** which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities (as defined in section 4975(e)(8) of title 26 ) which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of outstanding common shares voted; and
+      - **(ii)** which provides that each participant is entitled to direct the plan trustee as to the manner of how to vote the qualified employer securities (as defined in section 4975(e)(8) of title 26 ), which are allocated to the account of such participant with respect to a corporate matter which (by law or charter) must be decided by a vote conducted in accordance with section 409(e) of the title 26; and
     - **(B)** in the case of any loan guarantee under section 636(a) of this title , the trustee of which enters into an agreement with the Administrator which is binding on the trust and on such small business concern and which provides that—
       - **(i)** the loan guaranteed under section 636(a) of this title shall be used solely for the purchase of qualifying employer securities of such concern,
       - **(ii)** all funds acquired by the concern in such purchase shall be used by such concern solely for the purposes for which such loan was guaranteed,
@@ -211,9 +211,22 @@ status: "active"
   - **(7)** The term “agricultural commodity” has the same meaning as in section 5602 of title 7 .
 - **(q)** In this chapter, the following definitions apply:
   - **(1)** The term “service-disabled veteran” means a veteran with a disability that is service-connected (as defined in section 101(16) of title 38 ).
-  - **(2)** The term “small business concern owned and controlled by service-disabled veterans” means a small business concern—
-    - **(A)** not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
-    - **(B)** the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+  - **(2)** The term “small business concern owned and controlled by service-disabled veterans” means any of the following:
+    - **(A)** A small business concern—
+      - **(i)** not less than 51 percent of which is owned by one or more service-disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more service-disabled veterans; and
+      - **(ii)** the management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
+    - **(B)** A small business concern—
+      - **(i)** not less than 51 percent of which is owned by one or more service-disabled veterans with a disability that is rated by the Secretary of Veterans Affairs as a permanent and total disability who are unable to manage the daily business operations of such concern; or
+      - **(ii)** in the case of a publicly owned business, not less than 51 percent of the stock (not including any stock owned by an ESOP) of which is owned by one or more such veterans.
+    - **(C)**
+      - **(i)** During the time period described in clause (ii), a small business concern that was a small business concern described in subparagraph (A) or (B) immediately prior to the death of a service-disabled veteran who was the owner of the concern, the death of whom causes the concern to be less than 51 percent owned by one or more service-disabled veterans, if—
+        - **(I)** the surviving spouse of the deceased veteran acquires such veteran’s ownership interest in such concern;
+        - **(II)** such veteran had a service-connected disability (as defined in section 101(16) of title 38 ) rated as 100 percent disabling under the laws administered by the Secretary of Veterans Affairs or such veteran died as a result of a service-connected disability; and
+        - **(III)** immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38 .
+      - **(ii)** The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
+        - **(I)** the date on which the surviving spouse remarries;
+        - **(II)** the date on which the surviving spouse relinquishes an ownership interest in the small business concern; or
+        - **(III)** the date that is 10 years after the date of the death of the veteran.
   - **(3)** The term “small business concern owned and controlled by veterans” means a small business concern—
     - **(A)** not less than 51 percent of which is owned by one or more veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
     - **(B)** the management and daily business operations of which are controlled by one or more veterans.
@@ -226,6 +239,8 @@ status: "active"
       - **(ii)** was subject to the time limitation during such period of active duty.
     - **(B)** Upon submission of proper documentation to the Administrator, the extension of a time limitation under subparagraph (A) shall be equal to the period of time that such veteran who owned or controlled such a concern was on active duty as described in that subparagraph.
     - **(C)** The provisions of subparagraphs (A) and (B) shall not apply to any programs subject to the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.).
+  - **(6)** The term “ESOP” has the meaning given the term “employee stock ownership plan” in section 4975(e)(7) of title 26 .
+  - **(7)** The term “surviving spouse” has the meaning given such term in section 101(3) of title 38 .
 - **(r)** As used in section 650 of this title :
   - **(1)** The term “small business lending company” means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
   - **(2)** The term “non-Federally regulated lender” means a business concern if—
@@ -262,3 +277,4 @@ status: "active"
   - **(1)** The term “subcontract” means a legally binding agreement between a contractor that is already under contract to another party to perform work, and a third party, hereinafter referred to as the subcontractor, for the subcontractor to perform a part, or all, of the work that the contractor has undertaken.
   - **(2)** The term “first tier subcontractor” means a subcontractor who has a subcontract directly with the prime contractor.
   - **(3)** The term “at any tier” means any subcontractor other than a subcontractor who is a first tier subcontractor.
+- **(ee)** In this chapter, the term “Puerto Rico business” means a small business concern that has its principal office located in the Commonwealth of Puerto Rico.

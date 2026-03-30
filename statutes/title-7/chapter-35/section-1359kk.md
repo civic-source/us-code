@@ -3,9 +3,9 @@ title: "Section 1359kk - Administration of tariff rate quotas"
 usc_title: 7
 usc_section: "1359kk"
 chapter: 35
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 1359kk"
-generated_at: "2026-03-30T07:45:46.457Z"
+generated_at: "2026-03-30T07:48:18.682Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2362 - Research and educational programs and activities: histori
 usc_title: 10
 usc_section: "2362"
 chapter: 139
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2362"
-generated_at: "2026-03-30T07:45:51.357Z"
+generated_at: "2026-03-30T07:48:43.956Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(2)** Support to assist in the attraction and retention of faculty in scientific disciplines important to the national security functions of the Department of Defense.
   - **(3)** Establishing partnerships between such institutions and defense laboratories, Government defense organizations, the defense industry, and other institutions of higher education in research, development, testing, and evaluation in areas important to the national security functions of the Department of Defense.
   - **(4)** Other such non-monetary assistance as the Secretary finds appropriate to enhance defense-related research, development, testing, and evaluation activities at such institutions.
-- **(d)** The Secretary of Defense may establish procedures under which the Secretary may give priority in providing funding under this section to institutions that have not otherwise received a significant amount of funding from the Department of Defense for research, development, testing, and evaluation programs supporting the national security functions of the Department.
+- **(d)** The Secretary of Defense may establish procedures under which the Secretary may limit funding under this section to institutions that have not otherwise received a significant amount of funding from the Department of Defense for research, development, testing, and evaluation programs supporting the national security functions of the Department.
 - **(e)** In this section the term “covered educational institution” means—
   - **(1)** an institution of higher education eligible for assistance under title III or V of the Higher Education Act of 1965 ( 20 U.S.C. 1051 et seq.); or
   - **(2)** an accredited postsecondary minority institution.

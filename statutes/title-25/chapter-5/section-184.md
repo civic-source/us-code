@@ -3,9 +3,9 @@ title: "Section 184 - Rights of children born of marriages between white men and
 usc_title: 25
 usc_section: "184"
 chapter: 5
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "25 U.S.C. § 184"
-generated_at: "2026-03-30T07:46:20.622Z"
+generated_at: "2026-03-30T07:49:10.531Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 622 - State plans for child welfare services"
 usc_title: 42
 usc_section: "622"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 622"
-generated_at: "2026-03-30T07:46:59.833Z"
+generated_at: "2026-03-30T07:50:06.767Z"
 status: "active"
 ---
 
@@ -56,7 +56,9 @@ status: "active"
     - **(E)** coordinate services and share information with other States;
   - **(17)** not later than October 1, 2007 , describe the State standards for the content and frequency of caseworker visits for children who are in foster care under the responsibility of the State, which, at a minimum, ensure that the children are visited on a monthly basis and that the caseworker visits are well-planned and focused on issues pertinent to case planning and service delivery to ensure the safety, permanency, and well-being of the children;
   - **(18)** include a description of the activities that the State has undertaken to reduce the length of time children who have not attained 5 years of age are without a permanent family, and the activities the State undertakes to address the developmental needs of all vulnerable children under 5 years of age who receive benefits or services under this part or part E; and
-  - **(19)** contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent that the compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information.
+  - **(19)** document steps taken to track and prevent child maltreatment deaths by including—
+    - **(A)** a description of the steps the State is taking to compile complete and accurate information on the deaths required by Federal law to be reported by the State agency referred to in paragraph (1), including gathering relevant information on the deaths from the relevant organizations in the State including entities such as State vital statistics department, child death review teams, law enforcement agencies, offices of medical examiners, or coroners; and
+    - **(B)** a description of the steps the State is taking to develop and implement a comprehensive, statewide plan to prevent the fatalities that involves and engages relevant public and private agency partners, including those in public health, law enforcement, and the courts.
 - **(c)** In this subpart:
   - **(1)** The term “administrative costs” means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processing and computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
   - **(2)** For definitions of other terms used in this part, see section 675 of this title .

@@ -3,9 +3,9 @@ title: "Section 7512a - Plan submissions and requirements"
 usc_title: 42
 usc_section: "7512a"
 chapter: 85
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 7512a"
-generated_at: "2026-03-30T07:47:00.205Z"
+generated_at: "2026-03-30T07:50:07.113Z"
 status: "active"
 ---
 

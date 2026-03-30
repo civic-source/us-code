@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-30T07:46:33.209Z"
+generated_at: "2026-03-30T07:49:37.039Z"
 status: "active"
 ---
 
@@ -438,7 +438,7 @@ status: "active"
   - **(3)** For nondeductibility of contributions by common trust funds, see section 584.
   - **(4)** For charitable contributions of partners, see section 702.
   - **(5)** For charitable contributions of nonresident aliens, see section 873.
-  - **(6)** For treatment of gifts for benefit of or use in connection with the Naval Academy as gifts to or for use of the United States, see section 6973 of title 10 , United States Code.
+  - **(6)** For treatment of gifts for benefit of or use in connection with the Naval Academy as gifts to or for use of the United States, see section 8473 of title 10 , United States Code.
   - **(7)** For treatment of gifts accepted by the Secretary of State, the Director of the International Communication Agency, or the Director of the United States International Development Cooperation Agency, as gifts to or for the use of the United States, see section 25 of the State Department Basic Authorities Act of 1956.
   - **(8)** For treatment of gifts of money accepted by the Attorney General for credit to the “Commissary Funds Federal Prisons” as gifts to or for the use of the United States, see section 4043 of title 18 , United States Code.
   - **(9)** For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.

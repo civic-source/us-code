@@ -3,9 +3,9 @@ title: "Section 1087dd - Terms of loans"
 usc_title: 20
 usc_section: "1087dd"
 chapter: 28
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "20 U.S.C. § 1087dd"
-generated_at: "2026-03-30T07:46:11.845Z"
+generated_at: "2026-03-30T07:48:57.334Z"
 status: "active"
 ---
 
@@ -52,8 +52,9 @@ status: "active"
       - **(iii)** during which the borrower—
         - **(I)** is serving on active duty during a war or other military operation or national emergency; or
         - **(II)** is performing qualifying National Guard duty during a war or other military operation or national emergency,
-      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship; or
-      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ;
+      - **(iv)** not in excess of 3 years for any reason which the lender determines, in accordance with regulations prescribed by the Secretary under section 1085( o ) of this title, has caused or will cause the borrower to have an economic hardship;
+      - **(v)** during which the borrower is engaged in service described in section 1087ee(a)(2) of this title ; or
+      - **(vi)** during which the borrower is receiving treatment for cancer and the 6 months after such period;
     - **(B)** No repayment of principal of, or interest on, any loan for any period described in subparagraph (A) shall begin until 6 months after the completion of such period.
     - **(C)** An individual with an outstanding loan balance who meets the eligibility criteria for a deferment described in subparagraph (A) as in effect on October 7, 1998 , shall be eligible for deferment under this paragraph notwithstanding any contrary provision of the promissory note under which the loan or loans were made, and notwithstanding any amendment (or effective date provision relating to any amendment) to this section made prior to the date of such deferment.
   - **(3)**

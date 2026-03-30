@@ -3,9 +3,9 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-03-30T07:47:00.127Z"
+generated_at: "2026-03-30T07:50:07.040Z"
 status: "active"
 ---
 
@@ -31,6 +31,6 @@ As used in this chapter—
     - **(C)** Any other public building, structure, or system, including those used for educational, recreational, or cultural purposes.
     - **(D)** Any park.
   - **(11)**
-    - **(A)** The term “private nonprofit facility” means private nonprofit educational (without regard to the religious character of the facility), utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
-    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded from this definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
+    - **(A)** The term “private nonprofit facility” means private nonprofit educational (without regard to the religious character of the facility), center-based childcare, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled) and facilities on Indian reservations, as defined by the President.
+    - **(B)** In addition to the facilities described in subparagraph (A), the term “private nonprofit facility” includes any private nonprofit facility that provides essential social services to the general public (including museums, zoos, performing arts facilities, community arts centers, community centers, libraries, homeless shelters, senior citizen centers, rehabilitation facilities, shelter workshops, food banks, broadcasting facilities, houses of worship, and facilities that provide health and safety services of a governmental nature), as defined by the President. No house of worship may be excluded from this definition because leadership or membership in the organization operating the house of worship is limited to persons who share a religious faith or practice.
   - **(12)** The term “Chief Executive” means the person who is the Chief, Chairman, Governor, President, or similar executive official of an Indian tribal government.

@@ -1,18 +1,17 @@
 ---
-title: "Section 44507 - Civil aeromedical research"
+title: "Section 44507 - Regions and centers"
 usc_title: 49
 usc_section: "44507"
 chapter: 445
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "49 U.S.C. § 44507"
-generated_at: "2026-03-30T07:47:24.836Z"
+generated_at: "2026-03-30T07:50:15.330Z"
 status: "active"
 ---
 
-# § 44507. Civil aeromedical research
+# § 44507. Regions and centers
 
-The Civil Aeromedical Institute established by section 106(j) of this title may—
-
+- **(a)** The Civil Aeromedical Institute established by section 106(j) of this title may—
   - **(1)** conduct civil aeromedical research, including research related to—
     - **(A)** the protection and survival of aircraft occupants;
     - **(B)** medical accident investigation and airman medical certification;
@@ -25,3 +24,4 @@ The Civil Aeromedical Institute established by section 106(j) of this title may�
   - **(3)** make comments to the Administrator on human factors aspects of proposed training programs, equipment requirements, standards, and procedures for aviation personnel;
   - **(4)** advise, assist, and represent the Federal Aviation Administration in the human factors aspects of joint projects between the Administration and the National Aeronautics and Space Administration, other departments, agencies, and instrumentalities of the United States Government, industry, and governments of foreign countries; and
   - **(5)** provide medical consultation services to the Administrator about medical certification of airmen.
+- **(b)** The Secretary of Transportation shall define the roles and responsibilities of the William J. Hughes Technical Center in a manner that is consistent with the defined roles and responsibilities of the Civil Aeromedical Institute under subsection (a).

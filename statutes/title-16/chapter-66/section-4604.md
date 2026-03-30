@@ -3,9 +3,9 @@ title: "Section 4604 - Volunteers"
 usc_title: 16
 usc_section: "4604"
 chapter: 66
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 4604"
-generated_at: "2026-03-30T07:46:15.558Z"
+generated_at: "2026-03-30T07:49:06.101Z"
 status: "active"
 ---
 

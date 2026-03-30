@@ -3,9 +3,9 @@ title: "Section 9865 - Repealed. Pub. L. 103–382, title III , § 391(w), Oct. 
 usc_title: 42
 usc_section: "9865"
 chapter: 105
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 9865"
-generated_at: "2026-03-30T07:47:00.265Z"
+generated_at: "2026-03-30T07:50:07.181Z"
 status: "repealed"
 ---
 

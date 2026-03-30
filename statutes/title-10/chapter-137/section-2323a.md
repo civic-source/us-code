@@ -3,15 +3,15 @@ title: "Section 2323a - Credit for Indian contracting in meeting certain subcont
 usc_title: 10
 usc_section: "2323a"
 chapter: 137
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2323a"
-generated_at: "2026-03-30T07:45:51.349Z"
+generated_at: "2026-03-30T07:48:43.952Z"
 status: "active"
 ---
 
 # § 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education
 
-- **(a)** Subject to subsections (b) and (c), in any case in which a subcontracting goal is specified in a Department of Defense contract in the implementation of section 2323 of this title and section 8(d) of the Small Business Act ( 15 U.S.C. 637(d) ), credit toward meeting that subcontracting goal shall be given for—
+- **(a)** Subject to subsections (b) and (c), in any case in which a subcontracting goal is specified in a Department of Defense contract in the implementation of section 8(d) of the Small Business Act ( 15 U.S.C. 637(d) ), credit toward meeting that subcontracting goal shall be given for—
   - **(1)** work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if such work is performed on any Indian lands and meets the requirements of paragraph (1) of subsection (b); or
   - **(2)** work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
 - **(b)**

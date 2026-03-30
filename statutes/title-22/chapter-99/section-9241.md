@@ -3,15 +3,15 @@ title: "Section 9241 - Strategy to promote North Korean human rights"
 usc_title: 22
 usc_section: "9241"
 chapter: 99
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9241"
-generated_at: "2026-03-30T07:46:23.227Z"
+generated_at: "2026-03-30T07:49:19.120Z"
 status: "active"
 ---
 
 # § 9241. Strategy to promote North Korean human rights
 
-- **(a)** Not later than 180 days after February 18, 2016 , the Secretary of State, in coordination with other appropriate Federal departments and agencies, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that details a United States strategy to promote initiatives to enhance international awareness of and to address the human rights situation in North Korea.
+- **(a)** Not later than 120 days after October 25, 2018 , and periodically thereafter, the Secretary of State, in coordination with other appropriate Federal departments and agencies, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report that details a United States strategy to promote initiatives to enhance international awareness of and to address the human rights situation in North Korea.
 - **(b)** The report required under subsection (a) should include—
   - **(1)** a list of countries that forcibly repatriate refugees from North Korea;
   - **(2)** a list of countries where North Korean laborers work, including countries the governments of which have formal arrangements with the Government of North Korea or any person acting for or on behalf of that Government to employ North Korean workers; and

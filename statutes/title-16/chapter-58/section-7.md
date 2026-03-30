@@ -3,13 +3,13 @@ title: "Section 7 - Limitation on payments"
 usc_title: 16
 usc_section: "7"
 chapter: 58
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T07:46:15.546Z"
+generated_at: "2026-03-30T07:49:06.091Z"
 status: "active"
 ---
 
 # § 3839aa–7. Limitation on payments
 
-A person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this part that, in aggregate, exceed $450,000 for all contracts entered into under this part by the person or legal entity during the period of fiscal years 2014 through 2018, regardless of the number of contracts entered into under this part by the person or legal entity.
+Not including payments made under section 3839aa–2(j) of this title , a person or legal entity may not receive, directly or indirectly, cost-share or incentive payments under this subpart that, in aggregate, exceed $450,000 for all contracts entered into under this subpart by the person or legal entity during the period of fiscal years 2014 through 2018, or the period of fiscal years 2019 through 2023, regardless of the number of contracts entered into under this subpart by the person or legal entity.
 

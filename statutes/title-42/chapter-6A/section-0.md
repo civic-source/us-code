@@ -3,9 +3,9 @@ title: "Section 0 - National Mental Health and Substance Use Policy Laboratory"
 usc_title: 42
 usc_section: "0"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 0"
-generated_at: "2026-03-30T07:46:59.734Z"
+generated_at: "2026-03-30T07:50:06.670Z"
 status: "active"
 ---
 
@@ -20,8 +20,11 @@ status: "active"
   - **(5)** periodically review programs and activities operated by the Administration relating to the diagnosis or prevention of, treatment for, and recovery from, mental and substance use disorders to—
     - **(A)** identify any such programs or activities that are duplicative;
     - **(B)** identify any such programs or activities that are not evidence-based, effective, or efficient; and
-    - **(C)** formulate recommendations for coordinating, eliminating, or improving programs or activities identified under subparagraph (A) or (B) and merging such programs or activities into other successful programs or activities; and
-  - **(6)** carry out other activities as deemed necessary to continue to encourage innovation and disseminate evidence-based programs and practices.
+    - **(C)** formulate recommendations for coordinating, eliminating, or improving programs or activities identified under subparagraph (A) or (B) and merging such programs or activities into other successful programs or activities;
+  - **(6)** issue and periodically update information for entities applying for grants or cooperative agreements from the Substance Abuse and Mental Health Services Administration in order to—
+    - **(A)** encourage the implementation and replication of evidence-based practices; and
+    - **(B)** provide technical assistance to applicants for funding, including with respect to justifications for such programs and activities; and
+  - **(7)** carry out other activities as deemed necessary to continue to encourage innovation and disseminate evidence-based programs and practices.
 - **(c)**
   - **(1)** In carrying out subsection (b)(3), the Laboratory—
     - **(A)** may give preference to models that improve—

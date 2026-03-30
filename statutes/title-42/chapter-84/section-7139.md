@@ -3,9 +3,9 @@ title: "Section 7139 - Office of Science; establishment; appointment of Director
 usc_title: 42
 usc_section: "7139"
 chapter: 84
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 7139"
-generated_at: "2026-03-30T07:47:00.183Z"
+generated_at: "2026-03-30T07:50:07.092Z"
 status: "active"
 ---
 
@@ -19,3 +19,4 @@ status: "active"
   - **(4)** to advise the Secretary with respect to education and training activities required for effective short- and long-term basic and applied research activities of the Department;
   - **(5)** to advise the Secretary with respect to grants and other forms of financial assistance required for effective short- and long-term basic and applied research activities of the Department; and
   - **(6)** to carry out such additional duties assigned to the Office by the Secretary.
+- **(c)** The mission of the Office of Science shall be the delivery of scientific discoveries, capabilities, and major scientific tools to transform the understanding of nature and to advance the energy, economic, and national security of the United States.

@@ -3,9 +3,9 @@ title: "Section 672 - Foster care maintenance payments program"
 usc_title: 42
 usc_section: "672"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 672"
-generated_at: "2026-03-30T07:46:59.843Z"
+generated_at: "2026-03-30T07:50:06.778Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
       - **(i)** the State agency administering the State plan approved under section 671 of this title ;
       - **(ii)** any other public agency with which the State agency administering or supervising the administration of the State plan has made an agreement which is in effect; or
       - **(iii)** an Indian tribe or a tribal organization (as defined in section 679c(a) of this title ) or a tribal consortium that has a plan approved under section 671 of this title in accordance with section 679c of this title ; and
-    - **(C)** the child has been placed in a foster family home or child-care institution.
+    - **(C)** the child has been placed in a foster family home, with a parent residing in a licensed residential family-based treatment facility, but only to the extent permitted under subsection (j), or in a child-care institution.
   - **(3)**
     - **(A)** A child in the home referred to in paragraph (1) would have met the AFDC eligibility requirement of this paragraph if the child—
       - **(i)** would have received aid under the State plan approved under section 602 of this title (as in effect on July 16, 1996 ) in the home, in or for the month in which the agreement was entered into or court proceedings leading to the determination referred to in paragraph (2)(A)(ii) of this subsection were initiated; or
@@ -52,3 +52,9 @@ status: "active"
   - **(2)** in the case of any other child who is potentially eligible for benefits under a State plan approved under this part and at imminent risk of removal from the home, only if—
     - **(A)** reasonable efforts are being made in accordance with section 671(a)(15) of this title to prevent the need for, or if necessary to pursue, removal of the child from the home; and
     - **(B)** the State agency has made, not less often than every 6 months, a determination (or redetermination) as to whether the child remains at imminent risk of removal from the home.
+- **(j)**
+  - **(1)** Notwithstanding the preceding provisions of this section, a child who is eligible for foster care maintenance payments under this section, or who would be eligible for the payments if the eligibility were determined without regard to paragraphs (1)(B) and (3) of subsection (a), shall be eligible for the payments for a period of not more than 12 months during which the child is placed with a parent who is in a licensed residential family-based treatment facility for substance abuse, but only if—
+    - **(A)** the recommendation for the placement is specified in the child’s case plan before the placement;
+    - **(B)** the treatment facility provides, as part of the treatment for substance abuse, parenting skills training, parent education, and individual and family counseling; and
+    - **(C)** the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specific interventions to address the consequences of trauma and facilitate healing.
+  - **(2)** With respect to children for whom foster care maintenance payments are made under paragraph (1), only the children who satisfy the requirements of paragraphs (1)(B) and (3) of subsection (a) shall be considered to be children with respect to whom foster care maintenance payments are made under this section for purposes of subsection (h) or section 673(b)(3)(B) of this title .

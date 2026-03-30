@@ -1,15 +1,15 @@
 ---
-title: "Section 2410s - Security clearances for facilities of certain companies."
+title: "Section 2410s - Security clearances for facilities of certain companies"
 usc_title: 10
 usc_section: "2410s"
 chapter: 141
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2410s"
-generated_at: "2026-03-30T07:45:51.365Z"
+generated_at: "2026-03-30T07:48:43.960Z"
 status: "active"
 ---
 
-# § 2410s. Security clearances for facilities of certain companies.
+# § 2410s. Security clearances for facilities of certain companies
 
 - **(a)** If the senior management official of a covered company does not have a security clearance, the Secretary of Defense may grant a security clearance to a facility of such company only if the following criteria are met:
   - **(1)** The company has appointed a senior officer, director, or employee of the company who has a security clearance at the level of the security clearance of the facility to act as the senior management official of the company with respect to such facility.

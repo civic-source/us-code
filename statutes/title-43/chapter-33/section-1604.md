@@ -3,9 +3,9 @@ title: "Section 1604 - Enrollment"
 usc_title: 43
 usc_section: "1604"
 chapter: 33
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 1604"
-generated_at: "2026-03-30T07:46:48.684Z"
+generated_at: "2026-03-30T07:49:48.831Z"
 status: "active"
 ---
 

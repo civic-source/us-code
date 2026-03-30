@@ -3,13 +3,13 @@ title: "Section 433g - Fort Frederica National Monument; establishment"
 usc_title: 16
 usc_section: "433g"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 433g"
-generated_at: "2026-03-30T07:46:15.321Z"
+generated_at: "2026-03-30T07:49:05.938Z"
 status: "active"
 ---
 
 # § 433g. Fort Frederica National Monument; establishment
 
-When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed two hundred and fifty acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the “Fort Frederica National Monument.”
+When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed 305 acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the “Fort Frederica National Monument.”
 

@@ -3,13 +3,13 @@ title: "Section 70914 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "70914"
 chapter: 709
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "36 U.S.C. § 70914"
-generated_at: "2026-03-30T07:46:40.136Z"
+generated_at: "2026-03-30T07:49:43.370Z"
 status: "active"
 ---
 
 # § 70914. Distribution of assets on dissolution or final liquidation
 
-On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be used by the board of directors for the benefit of students of vocational agriculture or be transferred to a recognized educational foundation.
+On dissolution or final liquidation of the FFA, any assets remaining after the discharge of all liabilities shall be used by the board of directors for the benefit of students of agricultural education or be transferred to a recognized educational foundation.
 

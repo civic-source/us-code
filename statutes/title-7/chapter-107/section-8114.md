@@ -3,9 +3,9 @@ title: "Section 8114 - Sun grant program"
 usc_title: 7
 usc_section: "8114"
 chapter: 107
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 8114"
-generated_at: "2026-03-30T07:45:46.627Z"
+generated_at: "2026-03-30T07:48:18.806Z"
 status: "active"
 ---
 
@@ -53,7 +53,6 @@ status: "active"
         - **(I)** Except as provided in subclauses (II) and (III), as a condition of receiving a grant under this paragraph, the sun grant center or subcenter shall require that not less than 20 percent of the cost of an activity described in subparagraph (B) be matched with funds, including in-kind contributions, from a non-Federal source.
         - **(II)** Subclause (I) shall not apply to fundamental research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1 1 So in original. Probably should be followed by a third closing parenthesis. .
         - **(III)** The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) 1 if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
-        - **(IV)** The matching funds requirement under section 3371 of this title shall not apply in the case of a grant provided by a sun grant center or subcenter under this paragraph.
       - **(v)** Funds made available for grants shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
       - **(vi)** A sun grant center or subcenter may not recover the indirect costs of making grants under subparagraph (A).
   - **(2)** A sun grant center or subcenter may use up to 4 percent of the funds described in subsection (b) to pay administrative expenses incurred in carrying out paragraph (1).
@@ -68,4 +67,4 @@ status: "active"
 - **(f)** Not later than 90 days after the end of each fiscal year, a sun grant center or subcenter receiving a grant under this section shall submit to the Secretary a report that describes the policies, priorities, and operations of the program carried out by the center or subcenter during the fiscal year, including—
   - **(1)** the results of all peer and merit review procedures conducted pursuant to subsection (c)(1)(C)(i); and
   - **(2)** a description of progress made in facilitating the priorities described in subsection (d)(1).
-- **(g)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2018, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
+- **(g)** There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2023, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).

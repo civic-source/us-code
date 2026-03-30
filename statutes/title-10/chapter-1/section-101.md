@@ -3,9 +3,9 @@ title: "Section 101 - Definitions"
 usc_title: 10
 usc_section: "101"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 101"
-generated_at: "2026-03-30T07:45:51.202Z"
+generated_at: "2026-03-30T07:48:43.861Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
     - **(B)** that is designated by the Secretary of Defense as a Department of Defense Field Activity.
   - **(13)** The term “contingency operation” means a military operation that—
     - **(A)** is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force; or
-    - **(B)** results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 15 of this title, section 712 of title 14 , or any other provision of law during a war or during a national emergency declared by the President or Congress.
+    - **(B)** results in the call or order to, or retention on, active duty of members of the uniformed services under section 688, 12301(a), 12302, 12304, 12304a, 12305, or 12406 of this title, chapter 13 of this title, section 712 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, or any other provision of law during a war or during a national emergency declared by the President or Congress.
   - **(14)** The term “supplies” includes material, equipment, and stores of all kinds.
   - **(15)** The term “pay” includes basic pay, special pay, retainer pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
   - **(16)** The term “congressional defense committees” means—
@@ -123,8 +123,9 @@ status: "active"
     - **(A)** have been primed, fused, armed, or otherwise prepared for action;
     - **(B)** have been fired, dropped, launched, projected, or placed in such a manner as to constitute a hazard to operations, installations, personnel, or material; and
     - **(C)** remain unexploded, whether by malfunction, design, or any other cause.
-  - **(6)** The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including task critical assets and other mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
+  - **(6)** The term “energy resilience” means the ability to avoid, prepare for, minimize, adapt to, and recover from anticipated and unanticipated energy disruptions in order to ensure energy availability and reliability sufficient to provide for mission assurance and readiness, including mission essential operations related to readiness, and to execute or rapidly reestablish mission essential requirements.
   - **(7)** The term “energy security” means having assured access to reliable supplies of energy and the ability to protect and deliver sufficient energy to meet mission essential requirements.
+  - **(8)** The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 - **(f)** In this title—
   - **(1)** “shall” is used in an imperative sense;
   - **(2)** “may” is used in a permissive sense;

@@ -3,9 +3,9 @@ title: "Section 2004 - National Research Council study"
 usc_title: 30
 usc_section: "2004"
 chapter: 32
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "30 U.S.C. § 2004"
-generated_at: "2026-03-30T07:46:25.723Z"
+generated_at: "2026-03-30T07:49:21.436Z"
 status: "active"
 ---
 

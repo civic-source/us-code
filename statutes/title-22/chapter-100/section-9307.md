@@ -3,15 +3,15 @@ title: "Section 9307 - Reports"
 usc_title: 22
 usc_section: "9307"
 chapter: 100
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "22 U.S.C. § 9307"
-generated_at: "2026-03-30T07:46:23.228Z"
+generated_at: "2026-03-30T07:49:19.120Z"
 status: "active"
 ---
 
 # § 9307. Reports
 
-- **(a)** Not later than 1 year and 2 years after the date of the submission of the strategy required under section 9304(c) of this title , the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy for 2017 and 2018, which shall—
+- **(a)** During each of the first 7 years after the date of the submission of the strategy required under section 9304(c) of this title , the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy at the end of the reporting period, which shall—
   - **(1)** contain a summary of the Global Food Security Strategy as an appendix;
   - **(2)** identify any substantial changes made in the Global Food Security Strategy during the preceding calendar year;
   - **(3)** describe the progress made in implementing the Global Food Security Strategy;

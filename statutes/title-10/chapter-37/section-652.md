@@ -3,9 +3,9 @@ title: "Section 652 - Notice to Congress of proposed changes in units, assignmen
 usc_title: 10
 usc_section: "652"
 chapter: 37
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 652"
-generated_at: "2026-03-30T07:45:51.245Z"
+generated_at: "2026-03-30T07:48:43.891Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(A)** for enlisted members and warrant officers, to military occupational specialties, specialty codes, enlisted designators, enlisted classification codes, additional skill identifiers, and special qualification identifiers; and
     - **(B)** for officers (other than warrant officers), to officer areas of concentration, occupational specialties, specialty codes, designators, additional skill identifiers, and special qualification identifiers.
 - **(b)**
-  - **(1)** Except in a case covered by section 6035 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+  - **(1)** Except in a case covered by section 8225 of this title or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
   - **(2)** Paragraph (1) applies to a proposed military personnel policy change, other than a policy change covered by subsection (a), that would make available to female members of the armed forces assignment to any of the following that, as of the date of the proposed change, is closed to such assignment:
     - **(A)** Any type of unit not covered by subsection (a).
     - **(B)** Any class of combat vessel.

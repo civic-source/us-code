@@ -3,9 +3,9 @@ title: "Section 1396d - Definitions"
 usc_title: 42
 usc_section: "1396d"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1396d"
-generated_at: "2026-03-30T07:46:59.966Z"
+generated_at: "2026-03-30T07:50:06.891Z"
 status: "active"
 ---
 
@@ -48,10 +48,11 @@ For purposes of this subchapter—
   - **(25)** primary care case management services (as defined in subsection (t));
   - **(26)** services furnished under a PACE program under section 1396u–4 of this title to PACE program eligible individuals enrolled under the program under such section;
   - **(27)** subject to subsection (x), primary and secondary medical strategies and treatment and services for individuals who have Sickle Cell Disease;
-  - **(28)** freestanding birth center services (as defined in subsection ( l )(3)(A)) and other ambulatory services that are offered by a freestanding birth center (as defined in subsection ( l )(3)(B)) and that are otherwise included in the plan; and
-  - **(29)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
+  - **(28)** freestanding birth center services (as defined in subsection ( l )(3)(A)) and other ambulatory services that are offered by a freestanding birth center (as defined in subsection ( l )(3)(B)) and that are otherwise included in the plan;
+  - **(29)** subject to paragraph (2) of subsection (ee), for the period beginning October 1, 2020 , and ending September 30, 2025 , medication-assisted treatment (as defined in paragraph (1) of such subsection); and
+  - **(30)** any other medical care, and any other type of remedial care recognized under State law, specified by the Secretary,
     - **(A)** any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution); or
-    - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases.
+    - **(B)** any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n( l ) of this title).
       - **(i)** under the age of 21, or, at the option of the State, under the age of 20, 19, or 18 as the State may choose,
       - **(ii)** relatives specified in section 606(b)(1) 1 1 See References in Text note below. of this title with whom a child is living if such child is (or would, if needy, be) a dependent child under part A of subchapter IV,
       - **(iii)** 65 years of age or older,
@@ -303,3 +304,8 @@ For purposes of this subchapter—
   - **(3)** Such term shall not include coverage for drugs or biologicals that are not otherwise covered under this subchapter.
 - **(cc)** Notwithstanding subsections (y), (z), and (aa), in the case of a State that requires political subdivisions within the State to contribute toward the non-Federal share of expenditures required under the State plan under section 1396a(a)(2) of this title , the State shall not be eligible for an increase in its Federal medical assistance percentage under such subsections if it requires that political subdivisions pay a greater percentage of the non-Federal share of such expenditures, or a greater percentage of the non-Federal share of payments under section 1396r–4 of this title , than the respective percentages that would have been required by the State under the State plan under this subchapter, State law, or both, as in effect on December 31, 2009 , and without regard to any such increase. Voluntary contributions by a political subdivision to the non-Federal share of expenditures under the State plan under this subchapter or to the non-Federal share of payments under section 1396r–4 of this title , shall not be considered to be required contributions for purposes of this subsection. The treatment of voluntary contributions, and the treatment of contributions required by a State under the State plan under this subchapter, or State law, as provided by this subsection, shall also apply to the increases in the Federal medical assistance percentage under section 5001 of the American Recovery and Reinvestment Act of 2009.
 - **(dd)** Notwithstanding subsection (b), with respect to the portion of the amounts expended for medical assistance for services described in section 1396a(a)(13)(C) of this title furnished on or after January 1, 2013 , and before January 1, 2015 , that is attributable to the amount by which the minimum payment rate required under such section (or, by application, section 1396u–2(f) of this title ) exceeds the payment rate applicable to such services under the State plan as of July 1, 2009 , the Federal medical assistance percentage for a State that is one of the 50 States or the District of Columbia shall be equal to 100 percent. The preceding sentence does not prohibit the payment of Federal financial participation based on the Federal medical assistance percentage for amounts in excess of those specified in such sentence.
+- **(ee)**
+  - **(1)** For purposes of subsection (a)(29), the term “medication-assisted treatment”—
+    - **(A)** means all drugs approved under section 355 of title 21 , including methadone, and all biological products licensed under section 262 of this title to treat opioid use disorders; and
+    - **(B)** includes, with respect to the provision of such drugs and biological products, counseling services and behavioral therapy.
+  - **(2)** The provisions of paragraph (29) of subsection (a) shall not apply with respect to a State for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary that implementing such provisions statewide for all individuals eligible to enroll in the State plan (or waiver of the State plan) would not be feasible by reason of a shortage of qualified providers of medication-assisted treatment, or facilities providing such treatment, that will contract with the State or a managed care entity with which the State has a contract under section 1396b(m) of this title or under section 1396d(t)(3) of this title .

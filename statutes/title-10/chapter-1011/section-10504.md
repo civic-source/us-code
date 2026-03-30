@@ -3,18 +3,19 @@ title: "Section 10504 - Chief of National Guard Bureau: annual reports"
 usc_title: 10
 usc_section: "10504"
 chapter: 1011
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 10504"
-generated_at: "2026-03-30T07:45:51.455Z"
+generated_at: "2026-03-30T07:48:44.008Z"
 status: "active"
 ---
 
 # § 10504. Chief of National Guard Bureau: annual reports
 
-- **(a)** The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions.
-  - **(2)** 1 1 So in original. No par. (1) has been enacted. The annual report required by paragraph (1) shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
+- **(a)**
+  - **(1)** The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions.
+  - **(2)** The annual report required by paragraph (1) shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
 - **(b)** The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113(c) of this title is submitted to Congress.
-- **(b)**
+- **(c)**
   - **(1)** Not later than January 31 of each of calendar years 2018 through 2020, the Chief of the National Guard Bureau, in coordination with the Secretary of Defense, shall submit to the recipients described in paragraph (3) a report that identifies the personnel, training, and equipment required by the non-Federalized National Guard—
     - **(A)** to support civilian authorities in connection with natural and man-made disasters during the covered period; and
     - **(B)** to carry out prevention, protection, mitigation, response, and recovery activities relating to such disasters during the covered period.
@@ -35,6 +36,6 @@ status: "active"
     - **(E)** The Secretary of the Army.
     - **(F)** The Secretary of the Air Force.
     - **(G)** The Commander of the United States Northern Command.
-    - **(H)** The Commander of the United States Pacific Command.
+    - **(H)** The Commander of the United States Indo-Pacific Command.
     - **(I)** The Commander of the United States Cyber Command.
   - **(4)** In this subsection, the term “covered period” means the fiscal year beginning after the date on which a report is submitted under paragraph (1).

@@ -3,9 +3,9 @@ title: "Section 3593 - Special hearing to determine whether a sentence of death 
 usc_title: 18
 usc_section: "3593"
 chapter: 228
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "18 U.S.C. § 3593"
-generated_at: "2026-03-30T07:46:07.412Z"
+generated_at: "2026-03-30T07:48:55.504Z"
 status: "active"
 ---
 

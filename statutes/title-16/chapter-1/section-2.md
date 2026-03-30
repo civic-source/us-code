@@ -1,18 +1,22 @@
 ---
-title: "Section 2 - Authority of Secretary regarding property and concessions"
+title: "Section 2 - Management plan"
 usc_title: 16
 usc_section: "2"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T07:46:15.375Z"
+generated_at: "2026-03-30T07:49:05.974Z"
 status: "active"
 ---
 
-# § 460bbbb–2. Authority of Secretary regarding property and concessions
+# § 460ffff–2. Management plan
 
-- **(a)** Within the national historical park, the Secretary may convey a freehold or leasehold interest in any property, for such sums as he deems appropriate, and subject to such terms and conditions and reservations as will assure the use of the property in a manner which is, in the judgment of the Secretary, consistent with the purposes of this subchapter and the administration of the national historical park. The Secretary shall offer the last owner or tenant of record a reasonable opportunity to purchase or lease, as appropriate, the property proposed to be conveyed prior to any conveyance under this subsection, and in the case of a lease to such tenant of record, the initial rental charge shall not be substantially more than the last rent paid by the tenant for that property, with any future increases not to exceed the general escalation of rental rates in the surrounding area.
-- **(b)** The Secretary may enter into cooperative agreements with the owners of properties of historical or cultural significance as determined by the Secretary, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement. The authorities in this subsection shall also be available to the Secretary with respect to properties within the Martin Luther King, Junior, Preservation District.
-- **(c)** The Secretary may, in carrying out his authorities with respect to the interpretation of properties within the national historical park and the preservation district, accept the services and assistance, with or without reimbursement therefor, of qualified persons and entities to the extent he deems necessary and appropriate. Funds appropriated for the purposes of this subchapter may be expended for the improvement, restoration, and maintenance of properties in which the Secretary has acquired a leasehold interest.
-- **(d)** Notwithstanding any other provision of law, the Secretary shall give first preference to the Martin Luther King, Junior, Center for Social Change with respect to any contract for a concession to sell books, postcards, tapes, or similar types of appropriate mementos related to the purposes of this subchapter, on facilities operated and maintained by the Secretary within the historical park: Provided , That agreement can be reached on terms and conditions acceptable to the Secretary.
-- **(e)** The Secretary is authorized to take only such actions within and upon the grounds of the Ebenezer Baptist Church as will directly support appropriate public visitation to and within the church in accordance with the purposes of this subchapter, or which will assist in the maintenance or preservation of those portions of said church which are directly related to the purposes of this subchapter.
+- **(a)** Not later than 3 years after March 12, 2019 , in accordance with subsections (b) and (c), the Secretary shall develop a comprehensive plan for the long-term management of the Scenic Area.
+- **(b)** In developing the management plan, the Secretary shall consult with—
+  - **(1)** appropriate State, Tribal, and local governmental entities, including Inyo County and the Tribe;
+  - **(2)** utilities, including Southern California Edison Company and the Los Angeles Department of Water and Power;
+  - **(3)** the Alabama Hills Stewardship Group; and
+  - **(4)** members of the public.
+- **(c)** In accordance with this subchapter, the management plan shall include provisions for maintenance of existing public utility and other rights-of-way within the Scenic Area.
+- **(d)** In developing the management plan, in accordance with this section, the Secretary may allow casual use mining limited to the use of hand tools, metal detectors, hand-fed dry washers, vacuum cleaners, gold pans, small sluices, and similar items.
+- **(e)** Pending completion of the management plan, the Secretary shall manage the Scenic Area in accordance with section 460ffff–1(b) of this title .

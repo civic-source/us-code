@@ -3,9 +3,9 @@ title: "Section 8401 - Regulation of certain biological agents and toxins"
 usc_title: 7
 usc_section: "8401"
 chapter: 110
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 8401"
-generated_at: "2026-03-30T07:45:46.630Z"
+generated_at: "2026-03-30T07:48:18.807Z"
 status: "active"
 ---
 
@@ -18,8 +18,9 @@ status: "active"
       - **(i)** consider—
         - **(I)** the effect of exposure to the agent or toxin on animal or plant health, and on the production and marketability of animal or plant products;
         - **(II)** the pathogenicity of the agent or the toxicity of the toxin and the methods by which the agent or toxin is transferred to animals or plants;
-        - **(III)** the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin; and
-        - **(IV)** any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
+        - **(III)** the availability and effectiveness of pharmacotherapies and prophylaxis to treat and prevent any illness caused by the agent or toxin;
+        - **(IV)**
+        - **(V)** any other criteria that the Secretary considers appropriate to protect animal or plant health, or animal or plant products; and
       - **(ii)** consult with appropriate Federal departments and agencies and with scientific experts representing appropriate professional groups.
   - **(2)** The Secretary shall review and republish the list under paragraph (1) biennially, or more often as needed, and shall by regulation revise the list as necessary in accordance with such paragraph.
 - **(b)** The Secretary shall by regulation provide for—

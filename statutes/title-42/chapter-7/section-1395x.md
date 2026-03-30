@@ -3,9 +3,9 @@ title: "Section 1395x - Definitions"
 usc_title: 42
 usc_section: "1395x"
 chapter: 7
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 1395x"
-generated_at: "2026-03-30T07:46:59.925Z"
+generated_at: "2026-03-30T07:50:06.853Z"
 status: "active"
 ---
 
@@ -153,8 +153,9 @@ For purposes of this subchapter—
     - **(CC)** items and services furnished under a cardiac rehabilitation program (as defined in subsection (eee)(1)) or under a pulmonary rehabilitation program (as defined in subsection (fff)(1));
     - **(DD)** items and services furnished under an intensive cardiac rehabilitation program (as defined in subsection (eee)(4));
     - **(EE)** kidney disease education services (as defined in subsection (ggg));
-    - **(FF)** personalized prevention plan services (as defined in subsection (hhh)); and
-    - **(GG)** home infusion therapy (as defined in subsection (iii)(1));
+    - **(FF)** personalized prevention plan services (as defined in subsection (hhh));
+    - **(GG)** home infusion therapy (as defined in subsection (iii)(1)); and
+    - **(HH)** opioid use disorder treatment services (as defined in subsection (jjj)).
   - **(3)** diagnostic X-ray tests (including tests under the supervision of a physician, furnished in a place of residence used as the patient’s home, if the performance of such tests meets such conditions relating to health and safety as the Secretary may find necessary and including diagnostic mammography if conducted by a facility that has a certificate (or provisional certificate) issued under section 354 of the Public Health Service Act [ 42 U.S.C. 263b ]), diagnostic laboratory tests, and other diagnostic tests;
   - **(4)** X-ray, radium, and radioactive isotope therapy, including materials and services of technicians;
   - **(5)** surgical dressings, and splints, casts, and other devices used for reduction of fractures and dislocations;
@@ -425,7 +426,7 @@ For purposes of this subchapter—
     - **(G)** meets such other requirements as the Secretary may find necessary in the interest of the health and safety of the individuals who are provided care and services by such agency or organization.
   - **(3)**
     - **(A)** An individual is considered to be “terminally ill” if the individual has a medical prognosis that the individual’s life expectancy is 6 months or less.
-    - **(B)** The term “attending physician” means, with respect to an individual, the physician (as defined in subsection (r)(1)) or nurse practitioner (as defined in subsection (aa)(5)), who may be employed by a hospice program, whom the individual identifies as having the most significant role in the determination and delivery of medical care to the individual at the time the individual makes an election to receive hospice care.
+    - **(B)** The term “attending physician” means, with respect to an individual, the physician (as defined in subsection (r)(1)), the nurse practitioner (as defined in subsection (aa)(5)), or the physician assistant (as defined in such subsection), who may be employed by a hospice program, whom the individual identifies as having the most significant role in the determination and delivery of medical care to the individual at the time the individual makes an election to receive hospice care.
   - **(4)**
     - **(A)** An entity which is certified as a provider of services other than a hospice program shall be considered, for purposes of certification as a hospice program, to have met any requirements under paragraph (2) which are also the same requirements for certification as such other type of provider. The Secretary shall coordinate surveys for determining certification under this subchapter so as to provide, to the extent feasible, for simultaneous surveys of an entity which seeks to be certified as a hospice program and as a provider of services of another type.
     - **(B)** Any entity which is certified as a hospice program and as a provider of another type shall have separate provider agreements under section 1395cc of this title and shall file separate cost reports with respect to costs incurred in providing hospice care and in providing other services and items under this subchapter.
@@ -598,7 +599,7 @@ For purposes of this subchapter—
       - **(ii)** in the case of an individual in a State that does not provide for such licensure or certification, meets such other criteria as the Secretary establishes.
   - **(3)** Subparagraphs (A) and (B) of paragraph (2) shall not apply in the case of an individual who, as of December 21, 2000 , is licensed or certified as a dietitian or nutrition professional by the State in which medical nutrition therapy services are performed.
 - **(ww)**
-  - **(1)** The term “initial preventive physical examination” means physicians’ services consisting of a physical examination (including measurement of height, weight body mass index,, 10 10 So in original. Probably should be “weight, body mass index,”. and blood pressure) with the goal of health promotion and disease detection and includes education, counseling, and referral with respect to screening and other preventive services described in paragraph (2) and end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual, but does not include clinical laboratory tests.
+  - **(1)** The term “initial preventive physical examination” means physicians’ services consisting of a physical examination (including measurement of height, weight body mass index,, 10 10 So in original. Probably should be “weight, body mass index,”. and blood pressure) with the goal of health promotion and disease detection and includes education, counseling, and referral with respect to screening and other preventive services described in paragraph (2), end-of-life planning (as defined in paragraph (3)) upon the agreement with the individual, and the furnishing of a review of any current opioid prescriptions (as defined in paragraph (4)), but does not include clinical laboratory tests.
   - **(2)** The screening and other preventive services described in this paragraph include the following:
     - **(A)** Pneumococcal, influenza, and hepatitis B vaccine and administration under subsection (s)(10).
     - **(B)** Screening mammography as defined in subsection (jj).
@@ -613,10 +614,16 @@ For purposes of this subchapter—
     - **(K)** Diabetes screening tests as defined in subsection (yy).
     - **(L)** Ultrasound screening for abdominal aortic aneurysm as defined in subsection (bbb).
     - **(M)** An electrocardiogram.
-    - **(N)** Additional preventive services (as defined in subsection (ddd)(1)).
+    - **(N)** Screening for potential substance use disorders.
+    - **(O)** Additional preventive services (as defined in subsection (ddd)(1)).
   - **(3)** For purposes of paragraph (1), the term “end-of-life planning” means verbal or written information regarding—
     - **(A)** an individual’s ability to prepare an advance directive in the case that an injury or illness causes the individual to be unable to make health care decisions; and
     - **(B)** whether or not the physician is willing to follow the individual’s wishes as expressed in an advance directive.
+  - **(4)** For purposes of paragraph (1), the term “a review of any current opioid prescriptions” means, with respect to an individual determined to have a current prescription for opioids—
+    - **(A)** a review of the potential risk factors to the individual for opioid use disorder;
+    - **(B)** an evaluation of the individual’s severity of pain and current treatment plan;
+    - **(C)** the provision of information on non-opioid treatment options; and
+    - **(D)** a referral to a specialist, as appropriate.
 - **(xx)**
   - **(1)** The term “cardiovascular screening blood test” means a blood test for the early detection of cardiovascular disease (or abnormalities associated with an elevated risk of cardiovascular disease) that tests for the following:
     - **(A)** Cholesterol levels and other lipid or triglyceride levels.
@@ -761,7 +768,9 @@ For purposes of this subchapter—
       - **(i)** A screening schedule for the next 5 to 10 years, as appropriate, based on recommendations of the United States Preventive Services Task Force and the Advisory Committee on Immunization Practices, and the individual’s health status, screening history, and age-appropriate preventive services covered under this subchapter.
       - **(ii)** A list of risk factors and conditions for which primary, secondary, or tertiary prevention interventions are recommended or are underway, including any mental health conditions or any such risk factors or conditions that have been identified through an initial preventive physical examination (as described under subsection (ww)(1)), and a list of treatment options and their associated risks and benefits.
     - **(F)** The furnishing of personalized health advice and a referral, as appropriate, to health education or preventive counseling services or programs aimed at reducing identified risk factors and improving self-management, or community-based lifestyle interventions to reduce health risks and promote self-management and wellness, including weight loss, physical activity, smoking cessation, fall prevention, and nutrition.
-    - **(G)** Any other element determined appropriate by the Secretary.
+    - **(G)** Screening for potential substance use disorders and referral for treatment as appropriate.
+    - **(H)** The furnishing of a review of any current opioid prescriptions (as defined in subsection (ww)(4)).
+    - **(I)** Any other element determined appropriate by the Secretary.
   - **(3)** A health professional described in this paragraph is—
     - **(A)** a physician;
     - **(B)** a practitioner described in clause (i) of section 1395u(b)(18)(C) of this title ; or
@@ -810,3 +819,18 @@ For purposes of this subchapter—
         - **(III)** is accredited by an organization designated by the Secretary pursuant to section 1395m(u)(5) of this title ; and
         - **(IV)** meets such other requirements as the Secretary determines appropriate, taking into account the standards of care for home infusion therapy established by Medicare Advantage plans under part C and in the private sector.
       - **(ii)** A qualified home infusion therapy supplier may subcontract with a pharmacy, physician, provider of services, or supplier to meet the requirements of this subparagraph.
+- **(jjj)**
+  - **(1)** The term “opioid use disorder treatment services” means items and services that are furnished by an opioid treatment program for the treatment of opioid use disorder, including—
+    - **(A)** opioid agonist and antagonist treatment medications (including oral, injected, or implanted versions) that are approved by the Food and Drug Administration under section 355 of title 21 for use in the treatment of opioid use disorder;
+    - **(B)** dispensing and administration of such medications, if applicable;
+    - **(C)** substance use counseling by a professional to the extent authorized under State law to furnish such services;
+    - **(D)** individual and group therapy with a physician or psychologist (or other mental health professional to the extent authorized under State law);
+    - **(E)** toxicology testing, and
+    - **(F)** other items and services that the Secretary determines are appropriate (but in no event to include meals or transportation).
+  - **(2)** The term “opioid treatment program” means an entity that is an opioid treatment program (as defined in section 8.2 of title 42 of the Code of Federal Regulations, or any successor regulation) that—
+    - **(A)** is enrolled under section 1395cc(j) of this title ;
+    - **(B)** has in effect a certification by the Substance Abuse and Mental Health Services Administration for such a program;
+    - **(C)** is accredited by an accrediting body approved by the Substance Abuse and Mental Health Services Administration; and
+    - **(D)** meets such additional conditions as the Secretary may find necessary to ensure—
+      - **(i)** the health and safety of individuals being furnished services under such program; and
+      - **(ii)** the effective and efficient furnishing of such services.

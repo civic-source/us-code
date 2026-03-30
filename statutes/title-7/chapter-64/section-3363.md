@@ -3,9 +3,9 @@ title: "Section 3363 - Resident instruction grants for insular areas"
 usc_title: 7
 usc_section: "3363"
 chapter: 64
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "7 U.S.C. § 3363"
-generated_at: "2026-03-30T07:45:46.555Z"
+generated_at: "2026-03-30T07:48:18.753Z"
 status: "active"
 ---
 
@@ -21,4 +21,4 @@ status: "active"
   - **(2)** The Secretary of Agriculture may require that any grant awarded under this section contain provisions that require funds to be targeted to meet the needs identified in section 3101 of this title .
 - **(c)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for each of fiscal years 2002 through 2013; and
-  - **(2)** $2,000,000 for each of fiscal years 2014 through 2018.
+  - **(2)** $2,000,000 for each of fiscal years 2014 through 2023.

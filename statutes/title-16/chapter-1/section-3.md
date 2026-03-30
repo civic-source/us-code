@@ -1,27 +1,20 @@
 ---
-title: "Section 3 - Establishment of Advisory Commission"
+title: "Section 3 - Land taken into trust for Lone Pine Paiute-Shoshone Reservation"
 usc_title: 16
 usc_section: "3"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T07:46:15.375Z"
+generated_at: "2026-03-30T07:49:05.974Z"
 status: "active"
 ---
 
-# § 460bbbb–3. Establishment of Advisory Commission
+# § 460ffff–3. Land taken into trust for Lone Pine Paiute-Shoshone Reservation
 
-- **(a)** There is hereby established the Martin Luther King, Junior, National Historic Site Advisory Commission (hereinafter referred to in this section as the “Commission”). The Commission shall consist of thirteen members, eleven of whom shall be appointed by the Secretary as follows:
-  - **(1)** three members appointed for terms of three years from recommendations submitted by the governing body of the Martin Luther King, Junior, Center for Social Change;
-  - **(2)** two members appointed for terms of four years from recommendations submitted by the Governor of the State of Georgia, one of whom shall have professional expertise in historic preservation matters;
-  - **(3)** two members appointed for terms of five years from recommendations submitted by the mayor of the city of Atlanta, Georgia, one of whom shall represent the economic and cultural interests of the Sweet Auburn Historic District;
-  - **(4)** one member appointed for a term of five years from recommendations submitted by the governing body of the Ebenezer Baptist Church;
-  - **(5)** the Chairman of the Atlanta Urban Design Commission and one additional member from the Commission to be chosen by the Commission; and
-  - **(6)** one member, appointed for a term of five years by the Secretary, who shall chair the Commission. In addition to the foregoing members, Mrs. Coretta Scott King, or such other appropriate family member as may be designated by the immediate family of Martin Luther King, Junior, and the Director of the National Park Service shall be ex officio members of the Commission.
-- **(b)** Any vacancy in the membership of the Commission shall be filled in the same manner in which the original appointment was made. Members of the Commission shall serve without compensation as such, but the Secretary may pay expenses of Commission members reasonably incurred by them in carrying out their responsibilities under this section upon presentation of vouchers signed by the chair of the Commission. Necessary administrative services and expenses shall be provided to the Commission by the Department of the Interior.
-- **(c)** The function of the Commission shall be to:
-  - **(1)** advise the Secretary with respect to the formulation and execution of plans for and the overall administration of the national historic site and the preservation district, including advice with respect to the consummation of cooperative agreements, and interpretation of properties, and the use and appreciation of the national historic site and the preservation district by the public;
-  - **(2)** prepare a generalized impact area plan for a one-mile radius outside the District which shall examine overall community development goals, plans, and efforts within that area, including historic preservation, transportation, parking, housing, urban revitalization, and parks and recreation functions, in order to maximize beneficial relationships between these goals, plans, and efforts and the district herein established; and
-  - **(3)** prepare, on the basis of the findings and recommendations of the impact area plan required by the preceding paragraph, a detailed development plan for the neighborhoods and outlying commercial areas immediately outside the district for such development, conservation, preservation, rehabilitation activities and transportation, parking, and land use planning as would complement and enhance the District and the purposes for which the District is established.
-- **(d)** The Secretary is directed to provide the appropriate planning agency of the city of Atlanta an amount of the local planning funds authorized by section 460bbbb–5 of this title sufficient for that agency to provide such staff and technical assistance to the Advisory Commission as are required for it to develop the plans required by subsection (c) of this section. Such plans, prepared in full coordination with and opportunities for participation by, all relevant public agencies and private groups, shall be delivered to the Secretary in a timely fashion for use in preparing the general management plan for the district.
-- **(e)** The Commission shall terminate ten years from the effective date of this Act.
+- **(a)**
+  - **(1)** On completion of the survey described in subsection (b), all right, title, and interest of the United States in and to the approximately 132 acres of Federal land depicted on the Map as “Lone Pine Paiute-Shoshone Reservation Addition” shall be held in trust for the benefit of the Tribe, subject to paragraphs (2) and (3).
+  - **(2)** The land described in paragraph (1) shall be subject to all easements, covenants, conditions, restrictions, withdrawals, and other matters of record in existence on March 12, 2019 .
+  - **(3)** The Federal land over which the right-of-way for the Los Angeles Aqueduct is located, generally described as the 250-foot-wide right-of-way granted to the City of Los Angeles pursuant to the Act of June 30, 1906 ( 34 Stat. 801 , chapter 3926), shall not be taken into trust for the Tribe.
+- **(b)** Not later than 180 days after March 12, 2019 , the Secretary shall complete a survey of the boundary lines to establish the boundaries of the land to be held in trust under subsection (a)(1).
+- **(c)** The land held in trust pursuant to subsection (a)(1) shall be considered to be a part of the reservation of the Tribe.
+- **(d)** Land held in trust under subsection (a)(1) shall not be eligible, or considered to have been taken into trust, for gaming (within the meaning of the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq.)).

@@ -3,9 +3,9 @@ title: "Section 2021A - Homeless women veterans and homeless veterans with child
 usc_title: 38
 usc_section: "2021A"
 chapter: 20
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "38 U.S.C. § 2021A"
-generated_at: "2026-03-30T07:46:46.215Z"
+generated_at: "2026-03-30T07:49:45.555Z"
 status: "active"
 ---
 
@@ -19,5 +19,5 @@ status: "active"
 - **(d)** The Secretary of Labor shall carry out this section through the Assistant Secretary of Labor for Veterans’ Employment and Training.
 - **(e)** The Secretary of Labor shall include as part of the report required under section 2021(d) of this title an evaluation of the grant program under this section, which shall include an evaluation of services furnished to veterans under this section and an analysis of the information collected under subsection (c).
 - **(f)**
-  - **(1)** In addition to any amount authorized to be appropriated to carry out section 2021 of this title , there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2018.
+  - **(1)** In addition to any amount authorized to be appropriated to carry out section 2021 of this title , there is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2011 through 2020.
   - **(2)** Funds appropriated to carry out this section shall remain available until expended. Funds obligated in any fiscal year to carry out this section may be expended in that fiscal year and the succeeding fiscal year.

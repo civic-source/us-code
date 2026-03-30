@@ -3,9 +3,9 @@ title: "Section 3363 - Emergency allocation authority"
 usc_title: 15
 usc_section: "3363"
 chapter: 60
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "15 U.S.C. § 3363"
-generated_at: "2026-03-30T07:45:58.959Z"
+generated_at: "2026-03-30T07:48:52.192Z"
 status: "active"
 ---
 

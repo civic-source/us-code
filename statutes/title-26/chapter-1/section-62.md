@@ -3,9 +3,9 @@ title: "Section 62 - Adjusted gross income defined"
 usc_title: 26
 usc_section: "62"
 chapter: 1
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "26 U.S.C. § 62"
-generated_at: "2026-03-30T07:46:33.185Z"
+generated_at: "2026-03-30T07:49:37.017Z"
 status: "active"
 ---
 
@@ -28,7 +28,7 @@ status: "active"
   - **(7)** The deduction allowed by section 219 (relating to deduction of certain retirement savings).
   - **[(8)**
   - **(9)** The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
-  - **(10)** The deduction allowed by section 215.
+  - **[(10)**
   - **(11)** The deduction allowed by section 194.
   - **(12)** The deduction allowed by section 165 for the repayment to a trust described in paragraph (9) or (17) of section 501(c) of supplemental unemployment compensation benefits received from such trust if such repayment is required because of the receipt of trade readjustment allowances under section 231 or 232 of the Trade Act of 1974 ( 19 U.S.C. 2291 and 2292).
   - **(13)** Any deduction allowable under this chapter by reason of an individual remitting any portion of any jury pay to such individual’s employer in exchange for payment by the employer of compensation for the period such individual was performing jury duty. For purposes of the preceding sentence, the term “jury pay” means any payment received by the individual for the discharge of jury duty.

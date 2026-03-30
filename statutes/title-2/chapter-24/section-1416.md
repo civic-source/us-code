@@ -3,9 +3,9 @@ title: "Section 1416 - Confidentiality"
 usc_title: 2
 usc_section: "1416"
 chapter: 24
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "2 U.S.C. § 1416"
-generated_at: "2026-03-30T07:45:37.419Z"
+generated_at: "2026-03-30T07:48:12.678Z"
 status: "active"
 ---
 

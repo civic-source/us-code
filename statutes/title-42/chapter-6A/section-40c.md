@@ -3,9 +3,9 @@ title: "Section 40c - Comprehensive plan for expenditure of appropriations"
 usc_title: 42
 usc_section: "40c"
 chapter: 6
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "42 U.S.C. § 40c"
-generated_at: "2026-03-30T07:46:59.787Z"
+generated_at: "2026-03-30T07:50:06.724Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2279 - Foreign commercial satellite services and foreign launche
 usc_title: 10
 usc_section: "2279"
 chapter: 135
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "10 U.S.C. § 2279"
-generated_at: "2026-03-30T07:45:51.340Z"
+generated_at: "2026-03-30T07:48:43.947Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(A)** a launch that occurs prior to December 31, 2022 ; or
     - **(B)** a contract or other agreement relating to launch services that, prior to the date that is 180 days after the date of the enactment of this subsection, was either fully paid for by the contractor or covered by a legally binding commitment of the contractor to pay for such services.
   - **(3)** In this subsection, the term “launch vehicle” means a fully integrated space launch vehicle.
-- **(c)** The prohibitions in subsection 1 1 So in original. Probably should be “subsections”. (a) and (b) shall not apply to a contract if—
+- **(c)** The prohibitions in subsections (a) and (b) shall not apply to a contract if—
   - **(1)** the Secretary determines it is in the national security of the United States to enter into such contract; and
   - **(2)** not later than 7 days before entering into such contract, the Secretary, in consultation with the Director of National Intelligence, submits to the congressional defense committees a national security assessment for such contract that includes the following:
     - **(A)** The projected period of performance (including any period covered by options to extend the contract), the financial terms, and a description of the services to be provided under the contract.

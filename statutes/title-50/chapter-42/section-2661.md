@@ -3,9 +3,9 @@ title: "Section 2661 - Protection of certain nuclear facilities and assets from 
 usc_title: 50
 usc_section: "2661"
 chapter: 42
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "50 U.S.C. § 2661"
-generated_at: "2026-03-30T07:47:13.211Z"
+generated_at: "2026-03-30T07:50:18.896Z"
 status: "active"
 ---
 
@@ -28,4 +28,4 @@ status: "active"
     - **(A)** identified by the Secretary of Energy for purposes of this section;
     - **(B)** located in the United States (including the territories and possessions of the United States); and
     - **(C)** owned by the United States or contracted to the United States, to store or use special nuclear material.
-  - **(2)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 note).
+  - **(2)** The terms “unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ( Public Law 112–95 ; 49 U.S.C. 40101 1 1 See References in Text note below. note).

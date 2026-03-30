@@ -3,9 +3,9 @@ title: "Section 931d - Additional authority of department or agency head"
 usc_title: 43
 usc_section: "931d"
 chapter: 22
-current_through: "PL 115-231"
+current_through: "PL 116-10"
 classification: "43 U.S.C. § 931d"
-generated_at: "2026-03-30T07:46:48.673Z"
+generated_at: "2026-03-30T07:49:48.819Z"
 status: "active"
 ---
 
