@@ -3,9 +3,9 @@ title: "Section 1437l - Repealed. Pub. L. 105–276, title V, § 522(a) , Oct. 2
 usc_title: 42
 usc_section: "1437l"
 chapter: 8
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 1437l"
-generated_at: "2026-03-30T09:54:48.336Z"
+generated_at: "2026-03-30T10:00:53.163Z"
 status: "repealed"
 ---
 

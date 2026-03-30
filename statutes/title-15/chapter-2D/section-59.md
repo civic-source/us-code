@@ -3,9 +3,9 @@ title: "Section 59 - Functions and activities of business development companies"
 usc_title: 15
 usc_section: "59"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "15 U.S.C. § 59"
-generated_at: "2026-03-30T09:52:11.205Z"
+generated_at: "2026-03-30T09:59:27.301Z"
 status: "active"
 ---
 

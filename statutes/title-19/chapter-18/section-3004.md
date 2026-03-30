@@ -3,9 +3,9 @@ title: "Section 3004 - Enactment of Harmonized Tariff Schedule"
 usc_title: 19
 usc_section: "3004"
 chapter: 18
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "19 U.S.C. § 3004"
-generated_at: "2026-03-30T09:52:39.967Z"
+generated_at: "2026-03-30T09:59:51.899Z"
 status: "active"
 ---
 

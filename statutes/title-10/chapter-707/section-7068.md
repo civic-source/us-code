@@ -3,9 +3,9 @@ title: "Section 7068 - Medical Service Corps: organization; Chief and assistant 
 usc_title: 10
 usc_section: "7068"
 chapter: 707
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 7068"
-generated_at: "2026-03-30T09:52:03.503Z"
+generated_at: "2026-03-30T09:59:21.353Z"
 status: "active"
 ---
 

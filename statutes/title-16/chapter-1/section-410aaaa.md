@@ -3,9 +3,9 @@ title: "Section 410aaaa - Fort Sumter and Fort Moultrie National Historical Park
 usc_title: 16
 usc_section: "410aaaa"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 410aaaa"
-generated_at: "2026-03-30T09:52:28.428Z"
+generated_at: "2026-03-30T09:59:48.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1044 - Repealed. Pub. L. 115–97, title I, § 13313(a) , Dec. 2
 usc_title: 26
 usc_section: "1044"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "26 U.S.C. § 1044"
-generated_at: "2026-03-30T09:53:09.262Z"
+generated_at: "2026-03-30T10:00:15.102Z"
 status: "repealed"
 ---
 

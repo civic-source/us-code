@@ -3,9 +3,9 @@ title: "Section 200302 - Purposes"
 usc_title: 36
 usc_section: "200302"
 chapter: 2003
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "36 U.S.C. § 200302"
-generated_at: "2026-03-30T09:53:37.400Z"
+generated_at: "2026-03-30T10:00:31.498Z"
 status: "active"
 ---
 

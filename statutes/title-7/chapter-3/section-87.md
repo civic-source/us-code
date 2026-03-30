@@ -3,9 +3,9 @@ title: "Section 87 - Conflicts of interest"
 usc_title: 7
 usc_section: "87"
 chapter: 3
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "7 U.S.C. § 87"
-generated_at: "2026-03-30T09:51:48.798Z"
+generated_at: "2026-03-30T09:59:05.706Z"
 status: "active"
 ---
 

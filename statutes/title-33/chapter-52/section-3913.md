@@ -3,9 +3,9 @@ title: "Section 3913 - Reports on program implementation"
 usc_title: 33
 usc_section: "3913"
 chapter: 52
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "33 U.S.C. § 3913"
-generated_at: "2026-03-30T09:53:13.099Z"
+generated_at: "2026-03-30T10:00:20.812Z"
 status: "active"
 ---
 

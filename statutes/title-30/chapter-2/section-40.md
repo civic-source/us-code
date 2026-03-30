@@ -3,9 +3,9 @@ title: "Section 40 - Verification of affidavits"
 usc_title: 30
 usc_section: "40"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "30 U.S.C. § 40"
-generated_at: "2026-03-30T09:52:58.783Z"
+generated_at: "2026-03-30T10:00:01.084Z"
 status: "active"
 ---
 

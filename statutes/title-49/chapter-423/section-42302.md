@@ -3,9 +3,9 @@ title: "Section 42302 - Consumer complaints"
 usc_title: 49
 usc_section: "42302"
 chapter: 423
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 42302"
-generated_at: "2026-03-30T09:54:55.136Z"
+generated_at: "2026-03-30T10:01:02.122Z"
 status: "active"
 ---
 

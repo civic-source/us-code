@@ -3,9 +3,9 @@ title: "Section 6158 - Utilization of funds for specialized training of professi
 usc_title: 2
 usc_section: "6158"
 chapter: 61
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "2 U.S.C. § 6158"
-generated_at: "2026-03-30T09:51:42.093Z"
+generated_at: "2026-03-30T09:58:37.694Z"
 status: "active"
 ---
 

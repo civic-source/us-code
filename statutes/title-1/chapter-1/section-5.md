@@ -3,9 +3,9 @@ title: "Section 5 - “Company” or “association” as including successors a
 usc_title: 1
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "1 U.S.C. § 5"
-generated_at: "2026-03-30T09:51:40.902Z"
+generated_at: "2026-03-30T09:58:41.053Z"
 status: "active"
 ---
 

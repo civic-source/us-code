@@ -3,9 +3,9 @@ title: "Section 1903 - Amount of insurance"
 usc_title: 38
 usc_section: "1903"
 chapter: 19
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "38 U.S.C. § 1903"
-generated_at: "2026-03-30T09:53:58.810Z"
+generated_at: "2026-03-30T10:00:33.815Z"
 status: "active"
 ---
 

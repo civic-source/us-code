@@ -3,9 +3,9 @@ title: "Section 1717 - Hearings and investigations"
 usc_title: 30
 usc_section: "1717"
 chapter: 29
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "30 U.S.C. § 1717"
-generated_at: "2026-03-30T09:52:58.814Z"
+generated_at: "2026-03-30T10:00:01.115Z"
 status: "active"
 ---
 

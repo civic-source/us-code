@@ -3,9 +3,9 @@ title: "Section 5721 - Continued application of United States law"
 usc_title: 22
 usc_section: "5721"
 chapter: 66
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "22 U.S.C. § 5721"
-generated_at: "2026-03-30T09:52:53.956Z"
+generated_at: "2026-03-30T09:59:58.744Z"
 status: "active"
 ---
 

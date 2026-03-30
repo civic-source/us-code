@@ -3,9 +3,9 @@ title: "Section 595 - Consideration of benefits in assessing compensation"
 usc_title: 33
 usc_section: "595"
 chapter: 12
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "33 U.S.C. § 595"
-generated_at: "2026-03-30T09:53:13.035Z"
+generated_at: "2026-03-30T10:00:20.748Z"
 status: "active"
 ---
 

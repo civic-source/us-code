@@ -3,9 +3,9 @@ title: "Section 154 - Repealed. Pub. L. 106–224, title IV, § 438(a)(1) , June
 usc_title: 7
 usc_section: "154"
 chapter: 8
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "7 U.S.C. § 154"
-generated_at: "2026-03-30T09:51:48.814Z"
+generated_at: "2026-03-30T09:59:05.721Z"
 status: "repealed"
 ---
 

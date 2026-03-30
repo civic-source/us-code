@@ -3,9 +3,9 @@ title: "Section 743 - Repealed. Pub. L. 93–280, § 1(2) , May 10, 1974 , 88 St
 usc_title: 16
 usc_section: "743"
 chapter: 9
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 743"
-generated_at: "2026-03-30T09:52:28.510Z"
+generated_at: "2026-03-30T09:59:48.178Z"
 status: "repealed"
 ---
 

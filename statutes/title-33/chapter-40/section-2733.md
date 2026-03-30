@@ -3,9 +3,9 @@ title: "Section 2733 - Bligh Reef light"
 usc_title: 33
 usc_section: "2733"
 chapter: 40
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "33 U.S.C. § 2733"
-generated_at: "2026-03-30T09:53:13.090Z"
+generated_at: "2026-03-30T10:00:20.803Z"
 status: "active"
 ---
 

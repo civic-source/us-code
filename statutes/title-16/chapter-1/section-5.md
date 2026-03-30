@@ -3,9 +3,9 @@ title: "Section 5 - Protection of services and recreational opportunities"
 usc_title: 16
 usc_section: "5"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T09:52:28.472Z"
+generated_at: "2026-03-30T09:59:48.142Z"
 status: "active"
 ---
 

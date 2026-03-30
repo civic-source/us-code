@@ -3,9 +3,9 @@ title: "Section 22908 - Restoration and enhancement grants"
 usc_title: 49
 usc_section: "22908"
 chapter: 229
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 22908"
-generated_at: "2026-03-30T09:54:55.108Z"
+generated_at: "2026-03-30T10:01:02.077Z"
 status: "active"
 ---
 

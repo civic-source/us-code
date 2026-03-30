@@ -3,9 +3,9 @@ title: "Section 16355 - National Laboratory designation"
 usc_title: 42
 usc_section: "16355"
 chapter: 149
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 16355"
-generated_at: "2026-03-30T09:54:48.650Z"
+generated_at: "2026-03-30T10:00:53.578Z"
 status: "active"
 ---
 

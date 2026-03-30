@@ -3,9 +3,9 @@ title: "Section 1598 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , 
 usc_title: 19
 usc_section: "1598"
 chapter: 4
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "19 U.S.C. § 1598"
-generated_at: "2026-03-30T09:52:39.933Z"
+generated_at: "2026-03-30T09:59:51.867Z"
 status: "repealed"
 ---
 

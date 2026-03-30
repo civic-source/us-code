@@ -3,9 +3,9 @@ title: "Section 553a - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 16
 usc_section: "553a"
 chapter: 3
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 553a"
-generated_at: "2026-03-30T09:52:28.488Z"
+generated_at: "2026-03-30T09:59:48.157Z"
 status: "repealed"
 ---
 

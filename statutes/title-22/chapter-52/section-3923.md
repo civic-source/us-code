@@ -3,9 +3,9 @@ title: "Section 3923 - Compatibility among agencies utilizing Foreign Service pe
 usc_title: 22
 usc_section: "3923"
 chapter: 52
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "22 U.S.C. § 3923"
-generated_at: "2026-03-30T09:52:53.935Z"
+generated_at: "2026-03-30T09:59:58.724Z"
 status: "active"
 ---
 

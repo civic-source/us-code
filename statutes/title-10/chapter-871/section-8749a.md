@@ -3,9 +3,9 @@ title: "Section 8749a - Civil service mariners of Military Sealift Command: alco
 usc_title: 10
 usc_section: "8749a"
 chapter: 871
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 8749a"
-generated_at: "2026-03-30T09:52:03.516Z"
+generated_at: "2026-03-30T09:59:21.366Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7642 - Authorization of appropriations"
 usc_title: 42
 usc_section: "7642"
 chapter: 85
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 7642"
-generated_at: "2026-03-30T09:54:48.524Z"
+generated_at: "2026-03-30T10:00:53.409Z"
 status: "active"
 ---
 

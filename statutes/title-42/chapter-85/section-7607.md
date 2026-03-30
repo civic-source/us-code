@@ -3,9 +3,9 @@ title: "Section 7607 - Administrative proceedings and judicial review"
 usc_title: 42
 usc_section: "7607"
 chapter: 85
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 7607"
-generated_at: "2026-03-30T09:54:48.522Z"
+generated_at: "2026-03-30T10:00:53.407Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
   - **(1)** This subsection applies to—
     - **(A)** the promulgation or revision of any national ambient air quality standard under section 7409 of this title ,
     - **(B)** the promulgation or revision of an implementation plan by the Administrator under section 7410(c) of this title ,
-    - **(C)** the promulgation or revision of any standard of performance under section 7411 of this title , or emission standard or limitation under section 7412(d) of this title , any standard under section 7412(f) of this title , or any regulation under section 7412(g)(1)(D) and (F) of this title, or any regulation under section 7412(m) or (n) of this title,
+    - **(C)** the promulgation or revision of any standard of performance under section 7411 of this title , or emission standard or limitation under section 7412(d) of this title , any standard under section 7412(f) of this title , or any regulation under section 7412(g)(1)(D) and (F) 6 6 So in original. There are no subpars. (D) and (F) of section 7412(g)(1) of this title . of this title, or any regulation under section 7412(m) or (n) of this title,
     - **(D)** the promulgation of any requirement for solid waste combustion under section 7429 of this title ,
     - **(E)** the promulgation or revision of any regulation pertaining to any fuel or fuel additive under section 7545 of this title ,
     - **(F)** the promulgation or revision of any aircraft emission standard under section 7571 of this title ,
@@ -69,4 +69,4 @@ status: "active"
 - **(e)** Nothing in this chapter shall be construed to authorize judicial review of regulations or orders of the Administrator under this chapter, except as provided in this section.
 - **(f)** In any judicial proceeding under this section, the court may award costs of litigation (including reasonable attorney and expert witness fees) whenever it determines that such award is appropriate.
 - **(g)** In any action respecting the promulgation of regulations under section 7420 of this title or the administration or enforcement of section 7420 of this title no court shall grant any stay, injunctive, or similar relief before final judgment by such court in such action.
-- **(h)** It is the intent of Congress that, consistent with the policy of subchapter II of chapter 5 of title 5, the Administrator in promulgating any regulation under this chapter, including a regulation subject to a deadline, shall ensure a reasonable period for public participation of at least 30 days, except as otherwise expressly provided in section 6 6 So in original. Probably should be “sections”. 7407(d), 7502(a), 7511(a) and (b), and 7512(a) and (b) of this title.
+- **(h)** It is the intent of Congress that, consistent with the policy of subchapter II of chapter 5 of title 5, the Administrator in promulgating any regulation under this chapter, including a regulation subject to a deadline, shall ensure a reasonable period for public participation of at least 30 days, except as otherwise expressly provided in section 7 7 So in original. Probably should be “sections”. 7407(d), 7502(a), 7511(a) and (b), and 7512(a) and (b) of this title.

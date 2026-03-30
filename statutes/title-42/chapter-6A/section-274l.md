@@ -3,9 +3,9 @@ title: "Section 274l - Stem cell therapeutic outcomes database"
 usc_title: 42
 usc_section: "274l"
 chapter: 6
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 274l"
-generated_at: "2026-03-30T09:54:48.067Z"
+generated_at: "2026-03-30T10:00:52.800Z"
 status: "active"
 ---
 

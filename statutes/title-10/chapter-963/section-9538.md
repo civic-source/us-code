@@ -3,9 +3,9 @@ title: "Section 9538 - Repealed. Pub. L. 103–160, div. A, title VIII, § 823(6
 usc_title: 10
 usc_section: "9538"
 chapter: 963
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 9538"
-generated_at: "2026-03-30T09:52:03.523Z"
+generated_at: "2026-03-30T09:59:21.373Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8088 - Judge Advocate General’s Corps: Office of the Judge Adv
 usc_title: 10
 usc_section: "8088"
 chapter: 809
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 8088"
-generated_at: "2026-03-30T09:52:03.509Z"
+generated_at: "2026-03-30T09:59:21.359Z"
 status: "active"
 ---
 

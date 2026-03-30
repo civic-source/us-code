@@ -3,9 +3,9 @@ title: "Section 261 - Prospecting permits; lands included; acreage"
 usc_title: 30
 usc_section: "261"
 chapter: 3
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "30 U.S.C. § 261"
-generated_at: "2026-03-30T09:52:58.789Z"
+generated_at: "2026-03-30T10:00:01.089Z"
 status: "active"
 ---
 

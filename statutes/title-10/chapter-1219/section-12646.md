@@ -3,9 +3,9 @@ title: "Section 12646 - Commissioned officers: retention of after completing 18 
 usc_title: 10
 usc_section: "12646"
 chapter: 1219
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 12646"
-generated_at: "2026-03-30T09:52:03.530Z"
+generated_at: "2026-03-30T09:59:21.380Z"
 status: "active"
 ---
 

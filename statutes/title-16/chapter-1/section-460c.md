@@ -3,9 +3,9 @@ title: "Section 460c - Repealed. Pub. L. 85–767, § 2 [19, 21, 23, 33] , Aug. 
 usc_title: 16
 usc_section: "460c"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 460c"
-generated_at: "2026-03-30T09:52:28.444Z"
+generated_at: "2026-03-30T09:59:48.114Z"
 status: "repealed"
 ---
 

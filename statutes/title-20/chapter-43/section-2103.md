@@ -3,9 +3,9 @@ title: "Section 2103 - American Folklife Center"
 usc_title: 20
 usc_section: "2103"
 chapter: 43
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 2103"
-generated_at: "2026-03-30T09:52:23.818Z"
+generated_at: "2026-03-30T09:59:50.719Z"
 status: "active"
 ---
 
@@ -35,5 +35,5 @@ status: "active"
   - **(1)** The Librarian shall call the first meeting of the Board, at which the first order of business shall be the election of a Chairman and a Vice Chairman, who shall serve for a term of one year. Thereafter each Chairman and Vice Chairman shall be elected for a term of two years. The Vice Chairman shall perform the duties of the Chairman in his absence. In case of a vacancy occurring in the chairmanship or vice-chairmanship, the Board shall elect a member to fill the vacancy for the remainder of the unexpired term.
   - **(2)** A majority of the members of the Board currently serving shall constitute a quorum.
   - **(3)** The Board shall meet at least once each fiscal year.
-- **(f)** After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5 , United States Code.
+- **(f)** After consultation with the Board, the Librarian shall appoint the Director of the Center. The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5 .
 - **(g)** The Director shall be the chief executive officer of the Center. Subject to the direction of the Board and the general supervision of the Librarian, the Director shall have responsibility for carrying out functions of the Center, and shall have authority over all personnel and activities of the Center.

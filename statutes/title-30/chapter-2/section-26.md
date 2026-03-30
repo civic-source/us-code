@@ -3,9 +3,9 @@ title: "Section 26 - Locators’ rights of possession and enjoyment"
 usc_title: 30
 usc_section: "26"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "30 U.S.C. § 26"
-generated_at: "2026-03-30T09:52:58.782Z"
+generated_at: "2026-03-30T10:00:01.083Z"
 status: "active"
 ---
 

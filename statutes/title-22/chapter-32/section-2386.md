@@ -3,9 +3,9 @@ title: "Section 2386 - Experts, consultants, and retired officers"
 usc_title: 22
 usc_section: "2386"
 chapter: 32
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "22 U.S.C. § 2386"
-generated_at: "2026-03-30T09:52:53.906Z"
+generated_at: "2026-03-30T09:59:58.695Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1005 - Employee protection agreement"
 usc_title: 45
 usc_section: "1005"
 chapter: 19
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "45 U.S.C. § 1005"
-generated_at: "2026-03-30T09:54:13.583Z"
+generated_at: "2026-03-30T10:00:35.709Z"
 status: "active"
 ---
 

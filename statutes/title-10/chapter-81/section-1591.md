@@ -3,9 +3,9 @@ title: "Section 1591 - Reimbursement for travel and transportation expenses when
 usc_title: 10
 usc_section: "1591"
 chapter: 81
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 1591"
-generated_at: "2026-03-30T09:52:03.453Z"
+generated_at: "2026-03-30T09:59:21.305Z"
 status: "active"
 ---
 

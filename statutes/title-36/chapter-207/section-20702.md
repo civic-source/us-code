@@ -3,9 +3,9 @@ title: "Section 20702 - Organization"
 usc_title: 36
 usc_section: "20702"
 chapter: 207
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "36 U.S.C. § 20702"
-generated_at: "2026-03-30T09:53:37.385Z"
+generated_at: "2026-03-30T10:00:31.483Z"
 status: "active"
 ---
 

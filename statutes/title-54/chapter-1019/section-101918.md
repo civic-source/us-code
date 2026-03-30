@@ -3,9 +3,9 @@ title: "Section 101918 - Transfer or conveyance of concession contracts or lease
 usc_title: 54
 usc_section: "101918"
 chapter: 1019
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "54 U.S.C. § 101918"
-generated_at: "2026-03-30T09:55:08.200Z"
+generated_at: "2026-03-30T10:01:11.155Z"
 status: "active"
 ---
 

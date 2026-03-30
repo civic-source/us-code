@@ -3,9 +3,9 @@ title: "Section 1747f - Payment of claims; assignment of benefits by investors"
 usc_title: 12
 usc_section: "1747f"
 chapter: 13
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "12 U.S.C. § 1747f"
-generated_at: "2026-03-30T09:52:13.015Z"
+generated_at: "2026-03-30T09:59:39.547Z"
 status: "active"
 ---
 

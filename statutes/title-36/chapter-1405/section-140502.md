@@ -3,9 +3,9 @@ title: "Section 140502 - Principles and purposes"
 usc_title: 36
 usc_section: "140502"
 chapter: 1405
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "36 U.S.C. § 140502"
-generated_at: "2026-03-30T09:53:37.394Z"
+generated_at: "2026-03-30T10:00:31.492Z"
 status: "active"
 ---
 

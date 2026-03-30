@@ -3,9 +3,9 @@ title: "Section 422A - Renumbered § 422]"
 usc_title: 26
 usc_section: "422A"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "26 U.S.C. § 422A"
-generated_at: "2026-03-30T09:53:09.212Z"
+generated_at: "2026-03-30T10:00:15.048Z"
 status: "renumbered"
 ---
 

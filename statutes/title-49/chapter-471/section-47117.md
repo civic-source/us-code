@@ -3,9 +3,9 @@ title: "Section 47117 - Use of apportioned amounts"
 usc_title: 49
 usc_section: "47117"
 chapter: 471
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 47117"
-generated_at: "2026-03-30T09:54:55.153Z"
+generated_at: "2026-03-30T10:01:02.147Z"
 status: "active"
 ---
 

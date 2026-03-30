@@ -3,9 +3,9 @@ title: "Section 80l - Establishment of Museum of African Art; functions"
 usc_title: 20
 usc_section: "80l"
 chapter: 3
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 80l"
-generated_at: "2026-03-30T09:52:23.742Z"
+generated_at: "2026-03-30T09:59:50.645Z"
 status: "active"
 ---
 

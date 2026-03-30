@@ -3,9 +3,9 @@ title: "Section 2242 - Authority to use appropriated funds for certain investiga
 usc_title: 10
 usc_section: "2242"
 chapter: 134
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 2242"
-generated_at: "2026-03-30T09:52:03.465Z"
+generated_at: "2026-03-30T09:59:21.316Z"
 status: "active"
 ---
 

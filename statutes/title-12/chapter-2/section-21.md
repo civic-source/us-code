@@ -3,9 +3,9 @@ title: "Section 21 - Formation of national banking associations; incorporators; 
 usc_title: 12
 usc_section: "21"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "12 U.S.C. § 21"
-generated_at: "2026-03-30T09:52:12.957Z"
+generated_at: "2026-03-30T09:59:39.487Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13504 - Exempt motor carrier transportation entirely in one Stat
 usc_title: 49
 usc_section: "13504"
 chapter: 135
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 13504"
-generated_at: "2026-03-30T09:54:55.097Z"
+generated_at: "2026-03-30T10:01:02.060Z"
 status: "active"
 ---
 

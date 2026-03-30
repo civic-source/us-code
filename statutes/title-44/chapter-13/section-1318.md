@@ -3,9 +3,9 @@ title: "Section 1318 - Geological Survey: classes and sizes of publications; rep
 usc_title: 44
 usc_section: "1318"
 chapter: 13
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "44 U.S.C. § 1318"
-generated_at: "2026-03-30T09:54:11.640Z"
+generated_at: "2026-03-30T10:00:35.902Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 865 - Source rules for personal property sales"
 usc_title: 26
 usc_section: "865"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "26 U.S.C. § 865"
-generated_at: "2026-03-30T09:53:09.248Z"
+generated_at: "2026-03-30T10:00:15.087Z"
 status: "active"
 ---
 

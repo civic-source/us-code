@@ -3,9 +3,9 @@ title: "Section 14912 - Weight-bumping in household goods transportation"
 usc_title: 49
 usc_section: "14912"
 chapter: 149
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 14912"
-generated_at: "2026-03-30T09:54:55.102Z"
+generated_at: "2026-03-30T10:01:02.067Z"
 status: "active"
 ---
 

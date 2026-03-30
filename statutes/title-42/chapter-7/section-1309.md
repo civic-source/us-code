@@ -3,9 +3,9 @@ title: "Section 1309 - Amounts disregarded not to be taken into account in deter
 usc_title: 42
 usc_section: "1309"
 chapter: 7
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 1309"
-generated_at: "2026-03-30T09:54:48.203Z"
+generated_at: "2026-03-30T10:00:52.976Z"
 status: "active"
 ---
 

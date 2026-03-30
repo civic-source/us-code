@@ -3,9 +3,9 @@ title: "Section 1417 - Option to request remote work assignment or paid leave of
 usc_title: 2
 usc_section: "1417"
 chapter: 24
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "2 U.S.C. § 1417"
-generated_at: "2026-03-30T09:51:42.072Z"
+generated_at: "2026-03-30T09:58:37.674Z"
 status: "active"
 ---
 

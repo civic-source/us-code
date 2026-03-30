@@ -3,9 +3,9 @@ title: "Section 10103 - Territories and possessions"
 usc_title: 42
 usc_section: "10103"
 chapter: 108
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 10103"
-generated_at: "2026-03-30T09:54:48.571Z"
+generated_at: "2026-03-30T10:00:53.471Z"
 status: "active"
 ---
 

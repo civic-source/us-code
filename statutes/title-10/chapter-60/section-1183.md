@@ -3,9 +3,9 @@ title: "Section 1183 - Repealed. Pub. L. 105–261, div. A, title V, § 503(a) ,
 usc_title: 10
 usc_section: "1183"
 chapter: 60
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 1183"
-generated_at: "2026-03-30T09:52:03.441Z"
+generated_at: "2026-03-30T09:59:21.294Z"
 status: "repealed"
 ---
 

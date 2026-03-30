@@ -3,9 +3,9 @@ title: "Section 2000d - Prohibition against exclusion from participation in, den
 usc_title: 42
 usc_section: "2000d"
 chapter: 21
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 2000d"
-generated_at: "2026-03-30T09:54:48.377Z"
+generated_at: "2026-03-30T10:00:53.216Z"
 status: "active"
 ---
 

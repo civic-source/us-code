@@ -3,9 +3,9 @@ title: "Section 27 - Revival of applications; reinstatement of reexamination pro
 usc_title: 35
 usc_section: "27"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "35 U.S.C. § 27"
-generated_at: "2026-03-30T09:53:25.733Z"
+generated_at: "2026-03-30T10:00:29.049Z"
 status: "active"
 ---
 

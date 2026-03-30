@@ -3,9 +3,9 @@ title: "Section 603 - Restrictions imposed by Board of Governors of the Federal 
 usc_title: 12
 usc_section: "603"
 chapter: 6
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "12 U.S.C. § 603"
-generated_at: "2026-03-30T09:52:12.971Z"
+generated_at: "2026-03-30T09:59:39.505Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2873 - Direct loans and loan guarantees"
 usc_title: 10
 usc_section: "2873"
 chapter: 169
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 2873"
-generated_at: "2026-03-30T09:52:03.498Z"
+generated_at: "2026-03-30T09:59:21.349Z"
 status: "active"
 ---
 

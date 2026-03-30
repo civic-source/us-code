@@ -3,9 +3,9 @@ title: "Section 7069 - Army Nurse Corps: composition; Chief and assistant chief;
 usc_title: 10
 usc_section: "7069"
 chapter: 707
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 7069"
-generated_at: "2026-03-30T09:52:03.503Z"
+generated_at: "2026-03-30T09:59:21.353Z"
 status: "active"
 ---
 

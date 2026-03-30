@@ -3,9 +3,9 @@ title: "Section 9656 - Transportation of hazardous substances; listing as hazard
 usc_title: 42
 usc_section: "9656"
 chapter: 103
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 9656"
-generated_at: "2026-03-30T09:54:48.557Z"
+generated_at: "2026-03-30T10:00:53.453Z"
 status: "active"
 ---
 

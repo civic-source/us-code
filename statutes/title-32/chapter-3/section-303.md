@@ -3,9 +3,9 @@ title: "Section 303 - Active and inactive enlistments and transfers"
 usc_title: 32
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "32 U.S.C. § 303"
-generated_at: "2026-03-30T09:53:17.053Z"
+generated_at: "2026-03-30T10:00:17.087Z"
 status: "active"
 ---
 

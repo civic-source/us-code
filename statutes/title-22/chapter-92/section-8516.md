@@ -3,9 +3,9 @@ title: "Section 8516 - Authority to implement United Nations Security Council re
 usc_title: 22
 usc_section: "8516"
 chapter: 92
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "22 U.S.C. § 8516"
-generated_at: "2026-03-30T09:52:54.040Z"
+generated_at: "2026-03-30T09:59:58.776Z"
 status: "active"
 ---
 

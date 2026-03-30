@@ -3,9 +3,9 @@ title: "Section 46b - Repealed. Oct. 31, 1951, ch. 655, § 56(c) , 65 Stat. 729"
 usc_title: 50
 usc_section: "46b"
 chapter: 4
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "50 U.S.C. § 46b"
-generated_at: "2026-03-30T09:55:05.931Z"
+generated_at: "2026-03-30T10:01:03.673Z"
 status: "repealed"
 ---
 

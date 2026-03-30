@@ -3,9 +3,9 @@ title: "Section 10806 - Access to records"
 usc_title: 42
 usc_section: "10806"
 chapter: 114
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 10806"
-generated_at: "2026-03-30T09:54:48.580Z"
+generated_at: "2026-03-30T10:00:53.485Z"
 status: "active"
 ---
 

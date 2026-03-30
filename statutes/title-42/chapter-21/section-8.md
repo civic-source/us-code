@@ -3,9 +3,9 @@ title: "Section 8 - Investigations"
 usc_title: 42
 usc_section: "8"
 chapter: 21
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 8"
-generated_at: "2026-03-30T09:54:48.378Z"
+generated_at: "2026-03-30T10:00:53.217Z"
 status: "active"
 ---
 

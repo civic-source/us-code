@@ -3,9 +3,9 @@ title: "Section 230106 - Service of process"
 usc_title: 36
 usc_section: "230106"
 chapter: 2301
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "36 U.S.C. § 230106"
-generated_at: "2026-03-30T09:53:37.403Z"
+generated_at: "2026-03-30T10:00:31.502Z"
 status: "active"
 ---
 

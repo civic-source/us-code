@@ -3,9 +3,9 @@ title: "Section 823 - Administration of direct loans and loan guarantees"
 usc_title: 45
 usc_section: "823"
 chapter: 17
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "45 U.S.C. § 823"
-generated_at: "2026-03-30T09:54:13.581Z"
+generated_at: "2026-03-30T10:00:35.708Z"
 status: "active"
 ---
 

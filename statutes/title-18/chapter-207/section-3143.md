@@ -3,9 +3,9 @@ title: "Section 3143 - Release or detention of a defendant pending sentence or a
 usc_title: 18
 usc_section: "3143"
 chapter: 207
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "18 U.S.C. § 3143"
-generated_at: "2026-03-30T09:52:21.873Z"
+generated_at: "2026-03-30T09:59:45.865Z"
 status: "active"
 ---
 

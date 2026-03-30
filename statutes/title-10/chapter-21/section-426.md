@@ -3,9 +3,9 @@ title: "Section 426 - Integration of Department of Defense intelligence, surveil
 usc_title: 10
 usc_section: "426"
 chapter: 21
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 426"
-generated_at: "2026-03-30T09:52:03.407Z"
+generated_at: "2026-03-30T09:59:21.261Z"
 status: "active"
 ---
 

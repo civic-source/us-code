@@ -3,9 +3,9 @@ title: "Section 47127 - Ground transportation demonstration projects"
 usc_title: 49
 usc_section: "47127"
 chapter: 471
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "49 U.S.C. § 47127"
-generated_at: "2026-03-30T09:54:55.154Z"
+generated_at: "2026-03-30T10:01:02.149Z"
 status: "active"
 ---
 

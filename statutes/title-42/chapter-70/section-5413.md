@@ -3,9 +3,9 @@ title: "Section 5413 - Inspections and investigations for promulgation or enforc
 usc_title: 42
 usc_section: "5413"
 chapter: 70
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 5413"
-generated_at: "2026-03-30T09:54:48.454Z"
+generated_at: "2026-03-30T10:00:53.319Z"
 status: "active"
 ---
 

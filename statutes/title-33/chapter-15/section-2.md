@@ -3,9 +3,9 @@ title: "Section 2 - Separability"
 usc_title: 33
 usc_section: "2"
 chapter: 15
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "33 U.S.C. § 2"
-generated_at: "2026-03-30T09:53:13.041Z"
+generated_at: "2026-03-30T10:00:20.755Z"
 status: "active"
 ---
 

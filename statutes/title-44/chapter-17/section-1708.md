@@ -3,9 +3,9 @@ title: "Section 1708 - Prices for sales copies of publications; crediting of rec
 usc_title: 44
 usc_section: "1708"
 chapter: 17
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "44 U.S.C. § 1708"
-generated_at: "2026-03-30T09:54:11.640Z"
+generated_at: "2026-03-30T10:00:35.903Z"
 status: "active"
 ---
 

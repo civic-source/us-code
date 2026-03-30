@@ -3,9 +3,9 @@ title: "Section 107 - Boundary changed"
 usc_title: 16
 usc_section: "107"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 107"
-generated_at: "2026-03-30T09:52:28.392Z"
+generated_at: "2026-03-30T09:59:48.063Z"
 status: "active"
 ---
 

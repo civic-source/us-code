@@ -3,9 +3,9 @@ title: "Section 1805 - Deputy Architect of the Capitol/Chief Operating Officer"
 usc_title: 2
 usc_section: "1805"
 chapter: 28
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "2 U.S.C. § 1805"
-generated_at: "2026-03-30T09:51:42.075Z"
+generated_at: "2026-03-30T09:58:37.676Z"
 status: "active"
 ---
 

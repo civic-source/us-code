@@ -3,9 +3,9 @@ title: "Section 1397m - Enhancement of long-term care"
 usc_title: 42
 usc_section: "1397m"
 chapter: 7
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 1397m"
-generated_at: "2026-03-30T09:54:48.322Z"
+generated_at: "2026-03-30T10:00:53.142Z"
 status: "active"
 ---
 

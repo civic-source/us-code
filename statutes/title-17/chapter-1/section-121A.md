@@ -3,9 +3,9 @@ title: "Section 121A - Limitations on exclusive rights: reproduction for blind o
 usc_title: 17
 usc_section: "121A"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "17 U.S.C. § 121A"
-generated_at: "2026-03-30T09:52:26.132Z"
+generated_at: "2026-03-30T09:59:41.808Z"
 status: "active"
 ---
 

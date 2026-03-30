@@ -3,9 +3,9 @@ title: "Section 3603 - Repealed. Pub. L. 104–201, div. A, title XVI, § 1633(b
 usc_title: 50
 usc_section: "3603"
 chapter: 47
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "50 U.S.C. § 3603"
-generated_at: "2026-03-30T09:55:05.984Z"
+generated_at: "2026-03-30T10:01:03.746Z"
 status: "repealed"
 ---
 

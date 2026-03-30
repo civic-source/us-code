@@ -3,9 +3,9 @@ title: "Section 2705 - Impact study by Secretary of Labor"
 usc_title: 19
 usc_section: "2705"
 chapter: 15
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "19 U.S.C. § 2705"
-generated_at: "2026-03-30T09:52:39.965Z"
+generated_at: "2026-03-30T09:59:51.898Z"
 status: "active"
 ---
 

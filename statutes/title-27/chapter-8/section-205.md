@@ -3,9 +3,9 @@ title: "Section 205 - Unfair competition and unlawful practices"
 usc_title: 27
 usc_section: "205"
 chapter: 8
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "27 U.S.C. § 205"
-generated_at: "2026-03-30T09:52:56.354Z"
+generated_at: "2026-03-30T10:00:00.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 669 - Theft or embezzlement in connection with health care"
 usc_title: 18
 usc_section: "669"
 chapter: 31
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "18 U.S.C. § 669"
-generated_at: "2026-03-30T09:52:21.837Z"
+generated_at: "2026-03-30T09:59:45.829Z"
 status: "active"
 ---
 

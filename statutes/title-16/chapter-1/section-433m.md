@@ -3,9 +3,9 @@ title: "Section 433m - Authorization of appropriation"
 usc_title: 16
 usc_section: "433m"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 433m"
-generated_at: "2026-03-30T09:52:28.435Z"
+generated_at: "2026-03-30T09:59:48.105Z"
 status: "active"
 ---
 

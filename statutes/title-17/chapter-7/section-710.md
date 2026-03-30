@@ -3,9 +3,9 @@ title: "Section 710 - Emergency relief authority"
 usc_title: 17
 usc_section: "710"
 chapter: 7
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "17 U.S.C. § 710"
-generated_at: "2026-03-30T09:52:26.135Z"
+generated_at: "2026-03-30T09:59:41.810Z"
 status: "active"
 ---
 

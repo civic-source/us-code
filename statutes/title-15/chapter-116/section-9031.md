@@ -3,9 +3,9 @@ title: "Section 9031 - Funding for the DOL Office of Inspector General for overs
 usc_title: 15
 usc_section: "9031"
 chapter: 116
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "15 U.S.C. § 9031"
-generated_at: "2026-03-30T09:52:11.357Z"
+generated_at: "2026-03-30T09:59:27.454Z"
 status: "active"
 ---
 

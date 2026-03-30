@@ -3,9 +3,9 @@ title: "Section 144 - Repealed. Pub. L. 91–452, title XI, § 1106(a) , Oct. 15
 usc_title: 50
 usc_section: "144"
 chapter: 8
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "50 U.S.C. § 144"
-generated_at: "2026-03-30T09:55:05.932Z"
+generated_at: "2026-03-30T10:01:03.675Z"
 status: "repealed"
 ---
 

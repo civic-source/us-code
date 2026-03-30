@@ -3,9 +3,9 @@ title: "Section 141b - Collections, physical security, control, and preservation
 usc_title: 2
 usc_section: "141b"
 chapter: 5
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "2 U.S.C. § 141b"
-generated_at: "2026-03-30T09:51:42.049Z"
+generated_at: "2026-03-30T09:58:37.649Z"
 status: "active"
 ---
 

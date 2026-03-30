@@ -3,9 +3,9 @@ title: "Section 2551 - Right of action"
 usc_title: 19
 usc_section: "2551"
 chapter: 13
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "19 U.S.C. § 2551"
-generated_at: "2026-03-30T09:52:39.961Z"
+generated_at: "2026-03-30T09:59:51.893Z"
 status: "active"
 ---
 

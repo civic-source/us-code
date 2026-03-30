@@ -3,9 +3,9 @@ title: "Section 11 - Omitted"
 usc_title: 30
 usc_section: "11"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "30 U.S.C. § 11"
-generated_at: "2026-03-30T09:52:58.782Z"
+generated_at: "2026-03-30T10:00:01.082Z"
 status: "omitted"
 ---
 

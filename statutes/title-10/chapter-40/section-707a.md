@@ -3,9 +3,9 @@ title: "Section 707a - Payment upon disapproval of certain board of inquiry reco
 usc_title: 10
 usc_section: "707a"
 chapter: 40
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 707a"
-generated_at: "2026-03-30T09:52:03.416Z"
+generated_at: "2026-03-30T09:59:21.270Z"
 status: "active"
 ---
 

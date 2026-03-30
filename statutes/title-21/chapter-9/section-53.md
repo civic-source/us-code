@@ -3,9 +3,9 @@ title: "Section 53 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "53"
 chapter: 9
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "21 U.S.C. § 53"
-generated_at: "2026-03-30T09:52:43.840Z"
+generated_at: "2026-03-30T09:59:56.669Z"
 status: "active"
 ---
 

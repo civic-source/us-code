@@ -3,9 +3,9 @@ title: "Section 1413 - Local educational agency eligibility"
 usc_title: 20
 usc_section: "1413"
 chapter: 33
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 1413"
-generated_at: "2026-03-30T09:52:23.810Z"
+generated_at: "2026-03-30T09:59:50.711Z"
 status: "active"
 ---
 

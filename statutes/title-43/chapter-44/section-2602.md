@@ -3,9 +3,9 @@ title: "Section 2602 - Cooperative agreements with other agencies or private own
 usc_title: 43
 usc_section: "2602"
 chapter: 44
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "43 U.S.C. § 2602"
-generated_at: "2026-03-30T09:54:07.530Z"
+generated_at: "2026-03-30T10:00:37.370Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 381 - Consolidated budget"
 usc_title: 10
 usc_section: "381"
 chapter: 16
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 381"
-generated_at: "2026-03-30T09:52:03.406Z"
+generated_at: "2026-03-30T09:59:21.259Z"
 status: "active"
 ---
 

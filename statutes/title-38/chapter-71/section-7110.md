@@ -3,9 +3,9 @@ title: "Section 7110 - Repealed. Pub. L. 103–271, § 7(b)(2) , July 1, 1994 , 
 usc_title: 38
 usc_section: "7110"
 chapter: 71
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "38 U.S.C. § 7110"
-generated_at: "2026-03-30T09:53:58.847Z"
+generated_at: "2026-03-30T10:00:33.847Z"
 status: "repealed"
 ---
 

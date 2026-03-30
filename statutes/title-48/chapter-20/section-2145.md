@@ -3,9 +3,9 @@ title: "Section 2145 - Recommendations on financial stability and management res
 usc_title: 48
 usc_section: "2145"
 chapter: 20
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "48 U.S.C. § 2145"
-generated_at: "2026-03-30T09:54:52.005Z"
+generated_at: "2026-03-30T10:00:56.927Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 674b - White Horse Hill National Game Preserve; acquisition of a
 usc_title: 16
 usc_section: "674b"
 chapter: 6
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 674b"
-generated_at: "2026-03-30T09:52:28.502Z"
+generated_at: "2026-03-30T09:59:48.171Z"
 status: "active"
 ---
 

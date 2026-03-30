@@ -3,9 +3,9 @@ title: "Section 3130 - Omitted"
 usc_title: 20
 usc_section: "3130"
 chapter: 47
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 3130"
-generated_at: "2026-03-30T09:52:23.824Z"
+generated_at: "2026-03-30T09:59:50.725Z"
 status: "omitted"
 ---
 

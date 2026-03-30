@@ -3,9 +3,9 @@ title: "Section 290 - Notice of patent suits"
 usc_title: 35
 usc_section: "290"
 chapter: 29
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "35 U.S.C. § 290"
-generated_at: "2026-03-30T09:53:25.738Z"
+generated_at: "2026-03-30T10:00:29.053Z"
 status: "active"
 ---
 

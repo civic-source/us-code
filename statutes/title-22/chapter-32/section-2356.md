@@ -3,9 +3,9 @@ title: "Section 2356 - Patents and technical information"
 usc_title: 22
 usc_section: "2356"
 chapter: 32
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "22 U.S.C. § 2356"
-generated_at: "2026-03-30T09:52:53.904Z"
+generated_at: "2026-03-30T09:59:58.692Z"
 status: "active"
 ---
 

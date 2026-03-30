@@ -3,9 +3,9 @@ title: "Section 1501 - Assault on process server"
 usc_title: 18
 usc_section: "1501"
 chapter: 73
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "18 U.S.C. § 1501"
-generated_at: "2026-03-30T09:52:21.851Z"
+generated_at: "2026-03-30T09:59:45.843Z"
 status: "active"
 ---
 

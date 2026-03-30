@@ -3,9 +3,9 @@ title: "Section 135 - Repealed. Dec. 16, 1930, ch. 14, § 1 , 46 Stat. 1028"
 usc_title: 16
 usc_section: "135"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "16 U.S.C. § 135"
-generated_at: "2026-03-30T09:52:28.393Z"
+generated_at: "2026-03-30T09:59:48.064Z"
 status: "repealed"
 ---
 

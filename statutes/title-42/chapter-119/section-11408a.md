@@ -3,9 +3,9 @@ title: "Section 11408a - Use of FMHA inventory for transitional housing for home
 usc_title: 42
 usc_section: "11408a"
 chapter: 119
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 11408a"
-generated_at: "2026-03-30T09:54:48.588Z"
+generated_at: "2026-03-30T10:00:53.495Z"
 status: "active"
 ---
 

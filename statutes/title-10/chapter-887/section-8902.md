@@ -3,9 +3,9 @@ title: "Section 8902 - Appointment and enlistment in reserve components"
 usc_title: 10
 usc_section: "8902"
 chapter: 887
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 8902"
-generated_at: "2026-03-30T09:52:03.518Z"
+generated_at: "2026-03-30T09:59:21.368Z"
 status: "active"
 ---
 

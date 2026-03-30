@@ -3,9 +3,9 @@ title: "Section 105 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 19
 usc_section: "105"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "19 U.S.C. § 105"
-generated_at: "2026-03-30T09:52:39.917Z"
+generated_at: "2026-03-30T09:59:51.852Z"
 status: "repealed"
 ---
 

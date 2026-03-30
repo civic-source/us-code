@@ -3,9 +3,9 @@ title: "Section 2107 - Congressional employee"
 usc_title: 5
 usc_section: "2107"
 chapter: 21
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "5 U.S.C. § 2107"
-generated_at: "2026-03-30T09:51:43.741Z"
+generated_at: "2026-03-30T09:58:56.546Z"
 status: "active"
 ---
 

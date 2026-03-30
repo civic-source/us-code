@@ -3,9 +3,9 @@ title: "Section 1420 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1420"
 chapter: 27
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "33 U.S.C. § 1420"
-generated_at: "2026-03-30T09:53:13.071Z"
+generated_at: "2026-03-30T10:00:20.783Z"
 status: "active"
 ---
 

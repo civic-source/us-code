@@ -3,9 +3,9 @@ title: "Section 55501 - United States Committee on the Marine Transportation Sys
 usc_title: 46
 usc_section: "55501"
 chapter: 555
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "46 U.S.C. § 55501"
-generated_at: "2026-03-30T09:54:55.912Z"
+generated_at: "2026-03-30T10:00:58.012Z"
 status: "active"
 ---
 

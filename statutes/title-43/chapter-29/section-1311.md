@@ -3,9 +3,9 @@ title: "Section 1311 - Rights of States"
 usc_title: 43
 usc_section: "1311"
 chapter: 29
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "43 U.S.C. § 1311"
-generated_at: "2026-03-30T09:54:07.503Z"
+generated_at: "2026-03-30T10:00:37.341Z"
 status: "active"
 ---
 

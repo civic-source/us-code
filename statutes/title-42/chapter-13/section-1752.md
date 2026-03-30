@@ -3,9 +3,9 @@ title: "Section 1752 - Authorization of appropriations; “Secretary” defined"
 usc_title: 42
 usc_section: "1752"
 chapter: 13
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 1752"
-generated_at: "2026-03-30T09:54:48.353Z"
+generated_at: "2026-03-30T10:00:53.185Z"
 status: "active"
 ---
 

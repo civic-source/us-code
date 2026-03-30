@@ -3,9 +3,9 @@ title: "Section 9514 - Office of the Director"
 usc_title: 20
 usc_section: "9514"
 chapter: 76
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 9514"
-generated_at: "2026-03-30T09:52:23.868Z"
+generated_at: "2026-03-30T09:59:50.768Z"
 status: "active"
 ---
 

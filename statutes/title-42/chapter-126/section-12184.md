@@ -3,9 +3,9 @@ title: "Section 12184 - Prohibition of discrimination in specified public transp
 usc_title: 42
 usc_section: "12184"
 chapter: 126
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 12184"
-generated_at: "2026-03-30T09:54:48.595Z"
+generated_at: "2026-03-30T10:00:53.506Z"
 status: "active"
 ---
 

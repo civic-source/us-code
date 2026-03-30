@@ -3,9 +3,9 @@ title: "Section 8 - Respect for flag"
 usc_title: 4
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "4 U.S.C. § 8"
-generated_at: "2026-03-30T09:51:40.879Z"
+generated_at: "2026-03-30T09:58:39.070Z"
 status: "active"
 ---
 

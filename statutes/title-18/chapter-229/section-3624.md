@@ -3,9 +3,9 @@ title: "Section 3624 - Release of a prisoner"
 usc_title: 18
 usc_section: "3624"
 chapter: 229
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "18 U.S.C. § 3624"
-generated_at: "2026-03-30T09:52:21.882Z"
+generated_at: "2026-03-30T09:59:45.874Z"
 status: "active"
 ---
 

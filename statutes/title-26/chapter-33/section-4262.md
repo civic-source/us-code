@@ -3,9 +3,9 @@ title: "Section 4262 - Definition of taxable transportation"
 usc_title: 26
 usc_section: "4262"
 chapter: 33
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "26 U.S.C. § 4262"
-generated_at: "2026-03-30T09:53:09.296Z"
+generated_at: "2026-03-30T10:00:15.138Z"
 status: "active"
 ---
 

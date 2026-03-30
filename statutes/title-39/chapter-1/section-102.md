@@ -3,9 +3,9 @@ title: "Section 102 - Definitions"
 usc_title: 39
 usc_section: "102"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "39 U.S.C. § 102"
-generated_at: "2026-03-30T09:53:35.551Z"
+generated_at: "2026-03-30T10:00:30.723Z"
 status: "active"
 ---
 

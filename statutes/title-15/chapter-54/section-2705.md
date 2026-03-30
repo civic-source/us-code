@@ -3,9 +3,9 @@ title: "Section 2705 - Coordinating and consulting requirements and authorities 
 usc_title: 15
 usc_section: "2705"
 chapter: 54
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "15 U.S.C. § 2705"
-generated_at: "2026-03-30T09:52:11.309Z"
+generated_at: "2026-03-30T09:59:27.406Z"
 status: "active"
 ---
 

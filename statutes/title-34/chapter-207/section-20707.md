@@ -3,9 +3,9 @@ title: "Section 20707 - Definitions"
 usc_title: 34
 usc_section: "20707"
 chapter: 207
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "34 U.S.C. § 20707"
-generated_at: "2026-03-30T09:53:29.997Z"
+generated_at: "2026-03-30T10:00:24.798Z"
 status: "active"
 ---
 

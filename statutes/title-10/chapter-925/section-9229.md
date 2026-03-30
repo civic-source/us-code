@@ -3,9 +3,9 @@ title: "Section 9229 - Command: commissioned officers in certain designated cate
 usc_title: 10
 usc_section: "9229"
 chapter: 925
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 9229"
-generated_at: "2026-03-30T09:52:03.520Z"
+generated_at: "2026-03-30T09:59:21.369Z"
 status: "active"
 ---
 

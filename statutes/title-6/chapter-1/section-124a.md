@@ -3,9 +3,9 @@ title: "Section 124a - Homeland security information sharing"
 usc_title: 6
 usc_section: "124a"
 chapter: 1
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "6 U.S.C. § 124a"
-generated_at: "2026-03-30T09:51:50.839Z"
+generated_at: "2026-03-30T09:59:12.446Z"
 status: "active"
 ---
 

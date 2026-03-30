@@ -3,9 +3,9 @@ title: "Section 216 - Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1
 usc_title: 23
 usc_section: "216"
 chapter: 2
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "23 U.S.C. § 216"
-generated_at: "2026-03-30T09:52:42.669Z"
+generated_at: "2026-03-30T09:59:54.866Z"
 status: "repealed"
 ---
 

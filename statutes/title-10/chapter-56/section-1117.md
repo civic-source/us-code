@@ -3,9 +3,9 @@ title: "Section 1117 - Investment of assets of Fund"
 usc_title: 10
 usc_section: "1117"
 chapter: 56
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "10 U.S.C. § 1117"
-generated_at: "2026-03-30T09:52:03.438Z"
+generated_at: "2026-03-30T09:59:21.291Z"
 status: "active"
 ---
 

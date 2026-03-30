@@ -3,9 +3,9 @@ title: "Section 13504 - Math and science education program"
 usc_title: 42
 usc_section: "13504"
 chapter: 134
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 13504"
-generated_at: "2026-03-30T09:54:48.625Z"
+generated_at: "2026-03-30T10:00:53.546Z"
 status: "active"
 ---
 

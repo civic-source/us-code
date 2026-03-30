@@ -3,9 +3,9 @@ title: "Section 5363 - Prohibition on acceptance of any financial instrument for
 usc_title: 31
 usc_section: "5363"
 chapter: 53
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "31 U.S.C. § 5363"
-generated_at: "2026-03-30T09:53:15.854Z"
+generated_at: "2026-03-30T10:00:18.291Z"
 status: "active"
 ---
 

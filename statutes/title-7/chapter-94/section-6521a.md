@@ -3,9 +3,9 @@ title: "Section 6521a - Organic agricultural product imports interagency working
 usc_title: 7
 usc_section: "6521a"
 chapter: 94
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "7 U.S.C. § 6521a"
-generated_at: "2026-03-30T09:51:48.935Z"
+generated_at: "2026-03-30T09:59:05.831Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 912 - Procedure after report or discharge of committee; debate; 
 usc_title: 5
 usc_section: "912"
 chapter: 9
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "5 U.S.C. § 912"
-generated_at: "2026-03-30T09:51:43.739Z"
+generated_at: "2026-03-30T09:58:56.544Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1905 - Disclosure of confidential information generally"
 usc_title: 18
 usc_section: "1905"
 chapter: 93
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "18 U.S.C. § 1905"
-generated_at: "2026-03-30T09:52:21.857Z"
+generated_at: "2026-03-30T09:59:45.848Z"
 status: "active"
 ---
 

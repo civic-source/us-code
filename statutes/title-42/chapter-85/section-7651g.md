@@ -3,9 +3,9 @@ title: "Section 7651g - Permits and compliance plans"
 usc_title: 42
 usc_section: "7651g"
 chapter: 85
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "42 U.S.C. § 7651g"
-generated_at: "2026-03-30T09:54:48.526Z"
+generated_at: "2026-03-30T10:00:53.412Z"
 status: "active"
 ---
 

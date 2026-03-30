@@ -3,9 +3,9 @@ title: "Section 2017 - Regulations"
 usc_title: 25
 usc_section: "2017"
 chapter: 22
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "25 U.S.C. § 2017"
-generated_at: "2026-03-30T09:52:45.352Z"
+generated_at: "2026-03-30T09:59:55.742Z"
 status: "active"
 ---
 

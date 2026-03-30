@@ -3,9 +3,9 @@ title: "Section 38 - Stipends and scholarship conditions"
 usc_title: 20
 usc_section: "38"
 chapter: 28
-current_through: "PL 116-193"
+current_through: "PL 116-216"
 classification: "20 U.S.C. § 38"
-generated_at: "2026-03-30T09:52:23.765Z"
+generated_at: "2026-03-30T09:59:50.667Z"
 status: "active"
 ---
 
