@@ -3,9 +3,9 @@ title: "Section 1505 - Unlicensed services in guard bands"
 usc_title: 47
 usc_section: "1505"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "47 U.S.C. § 1505"
-generated_at: "2026-03-30T02:48:50.437Z"
+generated_at: "2026-03-30T02:52:17.346Z"
 ---
 
 # § 1505. Unlicensed services in guard bands

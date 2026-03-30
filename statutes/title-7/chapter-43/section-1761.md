@@ -3,9 +3,9 @@ title: "Section 1761 - Foreign markets; collection of information"
 usc_title: 7
 usc_section: "1761"
 chapter: 43
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 1761"
-generated_at: "2026-03-30T02:46:47.582Z"
+generated_at: "2026-03-30T02:50:11.603Z"
 ---
 
 # § 1761. Foreign markets; collection of information

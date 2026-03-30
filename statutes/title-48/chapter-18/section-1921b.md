@@ -3,9 +3,9 @@ title: "Section 1921b - Agreements with and other provisions related to the Repu
 usc_title: 48
 usc_section: "1921b"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 1921b"
-generated_at: "2026-03-30T02:48:50.966Z"
+generated_at: "2026-03-30T02:52:10.406Z"
 ---
 
 # § 1921b. Agreements with and other provisions related to the Republic of the Marshall Islands

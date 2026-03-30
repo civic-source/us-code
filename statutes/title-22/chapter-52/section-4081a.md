@@ -3,9 +3,9 @@ title: "Section 4081a - Exception for Government-financed air transportation; re
 usc_title: 22
 usc_section: "4081a"
 chapter: 52
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 4081a"
-generated_at: "2026-03-30T02:47:52.686Z"
+generated_at: "2026-03-30T02:50:53.086Z"
 ---
 
 # § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals

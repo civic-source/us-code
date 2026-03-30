@@ -3,9 +3,9 @@ title: "Section 9073 - Procedures for providing payroll support"
 usc_title: 15
 usc_section: "9073"
 chapter: 116
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 9073"
-generated_at: "2026-03-30T02:47:19.821Z"
+generated_at: "2026-03-30T02:50:30.081Z"
 ---
 
 # § 9073. Procedures for providing payroll support

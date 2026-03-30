@@ -3,9 +3,9 @@ title: "Section 6105 - Confidentiality of information arising under treaty oblig
 usc_title: 26
 usc_section: "6105"
 chapter: 61
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 6105"
-generated_at: "2026-03-30T02:48:06.738Z"
+generated_at: "2026-03-30T02:51:05.593Z"
 ---
 
 # § 6105. Confidentiality of information arising under treaty obligations

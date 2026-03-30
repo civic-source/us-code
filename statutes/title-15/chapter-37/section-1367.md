@@ -3,9 +3,9 @@ title: "Section 1367 - Repayments"
 usc_title: 15
 usc_section: "1367"
 chapter: 37
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 1367"
-generated_at: "2026-03-30T02:47:19.665Z"
+generated_at: "2026-03-30T02:50:29.937Z"
 ---
 
 # § 1367. Repayments

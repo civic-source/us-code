@@ -3,9 +3,9 @@ title: "Section 3704a - Clearinghouse for State and Local Initiatives on Product
 usc_title: 15
 usc_section: "3704a"
 chapter: 63
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 3704a"
-generated_at: "2026-03-30T02:47:19.747Z"
+generated_at: "2026-03-30T02:50:30.012Z"
 ---
 
 # § 3704a. Clearinghouse for State and Local Initiatives on Productivity, Technology, and Innovation

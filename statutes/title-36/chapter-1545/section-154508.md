@@ -3,9 +3,9 @@ title: "Section 154508 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "154508"
 chapter: 1545
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 154508"
-generated_at: "2026-03-30T02:48:16.869Z"
+generated_at: "2026-03-30T02:51:20.898Z"
 ---
 
 # § 154508. Duty to maintain corporate and tax-exempt status

@@ -3,9 +3,9 @@ title: "Section 7122 - Exceptions to arbitral awards"
 usc_title: 5
 usc_section: "7122"
 chapter: 71
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 7122"
-generated_at: "2026-03-30T02:46:38.038Z"
+generated_at: "2026-03-30T02:49:55.202Z"
 ---
 
 # § 7122. Exceptions to arbitral awards

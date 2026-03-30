@@ -3,9 +3,9 @@ title: "Section 19113 - Scholarships and fellowships"
 usc_title: 42
 usc_section: "19113"
 chapter: 163
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19113"
-generated_at: "2026-03-30T02:48:46.950Z"
+generated_at: "2026-03-30T02:52:03.235Z"
 ---
 
 # § 19113. Scholarships and fellowships

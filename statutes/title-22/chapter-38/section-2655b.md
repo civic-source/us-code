@@ -3,9 +3,9 @@ title: "Section 2655b - Diplomatic presence overseas"
 usc_title: 22
 usc_section: "2655b"
 chapter: 38
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2655b"
-generated_at: "2026-03-30T02:47:52.642Z"
+generated_at: "2026-03-30T02:50:53.048Z"
 ---
 
 # § 2655b. Diplomatic presence overseas

@@ -3,9 +3,9 @@ title: "Section 7105b - Improving domestic victim screening procedures"
 usc_title: 22
 usc_section: "7105b"
 chapter: 78
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 7105b"
-generated_at: "2026-03-30T02:47:52.730Z"
+generated_at: "2026-03-30T02:50:53.124Z"
 ---
 
 # § 7105b. Improving domestic victim screening procedures

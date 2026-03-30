@@ -3,9 +3,9 @@ title: "Section 6317 - Energy conservation standards for high-intensity discharg
 usc_title: 42
 usc_section: "6317"
 chapter: 77
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 6317"
-generated_at: "2026-03-30T02:48:46.627Z"
+generated_at: "2026-03-30T02:52:02.833Z"
 ---
 
 # § 6317. Energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors

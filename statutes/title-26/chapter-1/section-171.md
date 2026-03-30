@@ -3,9 +3,9 @@ title: "Section 171 - Amortizable bond premium"
 usc_title: 26
 usc_section: "171"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 171"
-generated_at: "2026-03-30T02:48:06.491Z"
+generated_at: "2026-03-30T02:51:05.383Z"
 ---
 
 # § 171. Amortizable bond premium

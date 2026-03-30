@@ -3,9 +3,9 @@ title: "Section 7032 - The Army Staff: general duties"
 usc_title: 10
 usc_section: "7032"
 chapter: 705
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 7032"
-generated_at: "2026-03-30T02:47:08.573Z"
+generated_at: "2026-03-30T02:50:18.684Z"
 ---
 
 # § 7032. The Army Staff: general duties

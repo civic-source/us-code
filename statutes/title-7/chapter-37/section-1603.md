@@ -3,9 +3,9 @@ title: "Section 1603 - Procedural powers; witness fees and mileage"
 usc_title: 7
 usc_section: "1603"
 chapter: 37
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 1603"
-generated_at: "2026-03-30T02:46:47.565Z"
+generated_at: "2026-03-30T02:50:11.585Z"
 ---
 
 # § 1603. Procedural powers; witness fees and mileage

@@ -3,9 +3,9 @@ title: "Section 1425 - Advisory committees of the First Responder Network Author
 usc_title: 47
 usc_section: "1425"
 chapter: 13
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "47 U.S.C. § 1425"
-generated_at: "2026-03-30T02:48:50.434Z"
+generated_at: "2026-03-30T02:52:17.344Z"
 ---
 
 # § 1425. Advisory committees of the First Responder Network Authority

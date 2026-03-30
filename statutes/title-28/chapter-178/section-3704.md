@@ -3,9 +3,9 @@ title: "Section 3704 - Applicability"
 usc_title: 28
 usc_section: "3704"
 chapter: 178
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "28 U.S.C. § 3704"
-generated_at: "2026-03-30T02:47:58.876Z"
+generated_at: "2026-03-30T02:50:56.790Z"
 ---
 
 # § 3704. Applicability

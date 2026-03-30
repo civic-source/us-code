@@ -3,9 +3,9 @@ title: "Section 1494a - Annual reports to Congress"
 usc_title: 48
 usc_section: "1494a"
 chapter: 10
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 1494a"
-generated_at: "2026-03-30T02:48:50.955Z"
+generated_at: "2026-03-30T02:52:10.393Z"
 ---
 
 # § 1494a. Annual reports to Congress

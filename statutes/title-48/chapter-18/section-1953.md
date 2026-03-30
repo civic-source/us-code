@@ -3,9 +3,9 @@ title: "Section 1953 - Antidrug program"
 usc_title: 48
 usc_section: "1953"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 1953"
-generated_at: "2026-03-30T02:48:50.969Z"
+generated_at: "2026-03-30T02:52:10.412Z"
 ---
 
 # § 1953. Antidrug program

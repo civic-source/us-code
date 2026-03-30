@@ -3,9 +3,9 @@ title: "Section 502 - Cargo exempt from forfeiture"
 usc_title: 46
 usc_section: "502"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "46 U.S.C. § 502"
-generated_at: "2026-03-30T02:48:52.028Z"
+generated_at: "2026-03-30T02:52:21.745Z"
 ---
 
 # § 502. Cargo exempt from forfeiture

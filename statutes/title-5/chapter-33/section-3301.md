@@ -3,9 +3,9 @@ title: "Section 3301 - Civil service; generally"
 usc_title: 5
 usc_section: "3301"
 chapter: 33
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 3301"
-generated_at: "2026-03-30T02:46:38.004Z"
+generated_at: "2026-03-30T02:49:55.169Z"
 ---
 
 # § 3301. Civil service; generally

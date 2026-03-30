@@ -3,9 +3,9 @@ title: "Section 3743 - Reports on activities and assistance under Department of 
 usc_title: 50
 usc_section: "3743"
 chapter: 48
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3743"
-generated_at: "2026-03-30T02:49:17.667Z"
+generated_at: "2026-03-30T02:52:24.537Z"
 ---
 
 # § 3743. Reports on activities and assistance under Department of Defense Cooperative Threat Reduction Program

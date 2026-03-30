@@ -3,9 +3,9 @@ title: "Section 1766 - Powers of Board"
 usc_title: 12
 usc_section: "1766"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 1766"
-generated_at: "2026-03-30T02:47:16.145Z"
+generated_at: "2026-03-30T02:50:26.424Z"
 ---
 
 # § 1766. Powers of Board

@@ -3,9 +3,9 @@ title: "Section 949h - Former jeopardy"
 usc_title: 10
 usc_section: "949h"
 chapter: 47
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 949h"
-generated_at: "2026-03-30T02:47:08.439Z"
+generated_at: "2026-03-30T02:50:18.522Z"
 ---
 
 # § 949h. Former jeopardy

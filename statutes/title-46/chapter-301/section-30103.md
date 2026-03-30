@@ -3,9 +3,9 @@ title: "Section 30103 - Liability of master, mate, engineer, and pilot"
 usc_title: 46
 usc_section: "30103"
 chapter: 301
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "46 U.S.C. § 30103"
-generated_at: "2026-03-30T02:48:52.052Z"
+generated_at: "2026-03-30T02:52:21.772Z"
 ---
 
 # § 30103. Liability of master, mate, engineer, and pilot

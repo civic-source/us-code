@@ -3,9 +3,9 @@ title: "Section 3079 - Insider threat policy compliance and reporting"
 usc_title: 50
 usc_section: "3079"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3079"
-generated_at: "2026-03-30T02:49:17.637Z"
+generated_at: "2026-03-30T02:52:24.503Z"
 ---
 
 # § 3079. Insider threat policy compliance and reporting

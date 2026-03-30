@@ -3,9 +3,9 @@ title: "Section 547 - Advisory Committee on Tribal and Indian Affairs"
 usc_title: 38
 usc_section: "547"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 547"
-generated_at: "2026-03-30T02:48:18.995Z"
+generated_at: "2026-03-30T02:51:18.007Z"
 ---
 
 # § 547. Advisory Committee on Tribal and Indian Affairs

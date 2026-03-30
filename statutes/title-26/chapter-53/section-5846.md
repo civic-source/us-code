@@ -3,9 +3,9 @@ title: "Section 5846 - Other laws applicable"
 usc_title: 26
 usc_section: "5846"
 chapter: 53
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 5846"
-generated_at: "2026-03-30T02:48:06.719Z"
+generated_at: "2026-03-30T02:51:05.576Z"
 ---
 
 # § 5846. Other laws applicable

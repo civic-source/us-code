@@ -3,9 +3,9 @@ title: "Section 1930 - Repealed. Pub. L. 86–108 , ch. II, § 205(j), July 24, 
 usc_title: 22
 usc_section: "1930"
 chapter: 24
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 1930"
-generated_at: "2026-03-30T02:47:52.597Z"
+generated_at: "2026-03-30T02:50:53.006Z"
 ---
 
 # § 1930. Repealed. Pub. L. 86–108 , ch. II, § 205(j), July 24, 1959 , 73 Stat. 250

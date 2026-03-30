@@ -3,9 +3,9 @@ title: "Section 423d - Acceptance and disposition of gifts"
 usc_title: 16
 usc_section: "423d"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 423d"
-generated_at: "2026-03-30T02:47:42.352Z"
+generated_at: "2026-03-30T02:50:43.003Z"
 ---
 
 # § 423d. Acceptance and disposition of gifts

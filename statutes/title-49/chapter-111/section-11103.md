@@ -3,9 +3,9 @@ title: "Section 11103 - Switch connections and tracks"
 usc_title: 49
 usc_section: "11103"
 chapter: 111
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "49 U.S.C. § 11103"
-generated_at: "2026-03-30T02:48:55.947Z"
+generated_at: "2026-03-30T02:52:20.429Z"
 ---
 
 # § 11103. Switch connections and tracks

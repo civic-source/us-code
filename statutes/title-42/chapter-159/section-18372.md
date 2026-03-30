@@ -3,9 +3,9 @@ title: "Section 18372 - Transitioning experimental research to operations"
 usc_title: 42
 usc_section: "18372"
 chapter: 159
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 18372"
-generated_at: "2026-03-30T02:48:46.928Z"
+generated_at: "2026-03-30T02:52:03.208Z"
 ---
 
 # § 18372. Transitioning experimental research to operations

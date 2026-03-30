@@ -3,9 +3,9 @@ title: "Section 46101 - General organization"
 usc_title: 46
 usc_section: "46101"
 chapter: 461
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "46 U.S.C. § 46101"
-generated_at: "2026-03-30T02:48:52.059Z"
+generated_at: "2026-03-30T02:52:21.778Z"
 ---
 
 # § 46101. General organization

@@ -3,9 +3,9 @@ title: "Section 9062a - Annual report on Air Force tactical fighter aircraft for
 usc_title: 10
 usc_section: "9062a"
 chapter: 907
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 9062a"
-generated_at: "2026-03-30T02:47:08.603Z"
+generated_at: "2026-03-30T02:50:18.719Z"
 ---
 
 # § 9062a. Annual report on Air Force tactical fighter aircraft force structure. 1 1 So in original. The period probably should not appear.

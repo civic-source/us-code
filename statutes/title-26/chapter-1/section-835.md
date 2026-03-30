@@ -3,9 +3,9 @@ title: "Section 835 - Election by reciprocal"
 usc_title: 26
 usc_section: "835"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 835"
-generated_at: "2026-03-30T02:48:06.598Z"
+generated_at: "2026-03-30T02:51:05.471Z"
 ---
 
 # § 835. Election by reciprocal

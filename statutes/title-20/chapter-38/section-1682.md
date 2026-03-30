@@ -3,9 +3,9 @@ title: "Section 1682 - Federal administrative enforcement; report to Congression
 usc_title: 20
 usc_section: "1682"
 chapter: 38
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 1682"
-generated_at: "2026-03-30T02:47:29.632Z"
+generated_at: "2026-03-30T02:50:39.211Z"
 ---
 
 # § 1682. Federal administrative enforcement; report to Congressional committees

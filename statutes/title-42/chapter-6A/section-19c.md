@@ -3,9 +3,9 @@ title: "Section 19c - Study on intractable water systems"
 usc_title: 42
 usc_section: "19c"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19c"
-generated_at: "2026-03-30T02:48:46.116Z"
+generated_at: "2026-03-30T02:52:02.186Z"
 ---
 
 # § 300j–19c. Study on intractable water systems

@@ -3,9 +3,9 @@ title: "Section 4407 - Allocation of amounts available to carry out this chapter
 usc_title: 16
 usc_section: "4407"
 chapter: 64
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 4407"
-generated_at: "2026-03-30T02:47:42.614Z"
+generated_at: "2026-03-30T02:50:43.278Z"
 ---
 
 # § 4407. Allocation of amounts available to carry out this chapter

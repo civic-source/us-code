@@ -3,9 +3,9 @@ title: "Section 511 - Joint development of unitary plan for construction of faci
 usc_title: 50
 usc_section: "511"
 chapter: 20
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 511"
-generated_at: "2026-03-30T02:49:17.585Z"
+generated_at: "2026-03-30T02:52:24.444Z"
 ---
 
 # § 511. Joint development of unitary plan for construction of facilities; construction at educational institutions

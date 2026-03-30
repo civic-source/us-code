@@ -3,9 +3,9 @@ title: "Section 32 - Destruction of aircraft or aircraft facilities"
 usc_title: 18
 usc_section: "32"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 32"
-generated_at: "2026-03-30T02:47:34.092Z"
+generated_at: "2026-03-30T02:50:34.921Z"
 ---
 
 # § 32. Destruction of aircraft or aircraft facilities

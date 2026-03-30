@@ -3,9 +3,9 @@ title: "Section 4957 - Subcontractor information"
 usc_title: 10
 usc_section: "4957"
 chapter: 388
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 4957"
-generated_at: "2026-03-30T02:47:08.571Z"
+generated_at: "2026-03-30T02:50:18.681Z"
 ---
 
 # § 4957. Subcontractor information

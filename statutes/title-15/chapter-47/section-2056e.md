@@ -3,9 +3,9 @@ title: "Section 2056e - Consumer product safety standard for button cell or coin
 usc_title: 15
 usc_section: "2056e"
 chapter: 47
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 2056e"
-generated_at: "2026-03-30T02:47:19.704Z"
+generated_at: "2026-03-30T02:50:29.973Z"
 ---
 
 # § 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries

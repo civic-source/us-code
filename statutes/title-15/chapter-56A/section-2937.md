@@ -3,9 +3,9 @@ title: "Section 2937 - Omitted"
 usc_title: 15
 usc_section: "2937"
 chapter: 56
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 2937"
-generated_at: "2026-03-30T02:47:19.737Z"
+generated_at: "2026-03-30T02:50:30.004Z"
 ---
 
 # § 2937. Omitted

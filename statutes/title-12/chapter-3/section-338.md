@@ -3,9 +3,9 @@ title: "Section 338 - Examination of affiliates; forfeiture of membership on ref
 usc_title: 12
 usc_section: "338"
 chapter: 3
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 338"
-generated_at: "2026-03-30T02:47:16.060Z"
+generated_at: "2026-03-30T02:50:26.344Z"
 ---
 
 # § 338. Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense

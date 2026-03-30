@@ -3,9 +3,9 @@ title: "Section 9002 - Definitions"
 usc_title: 26
 usc_section: "9002"
 chapter: 95
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 9002"
-generated_at: "2026-03-30T02:48:06.799Z"
+generated_at: "2026-03-30T02:51:05.646Z"
 ---
 
 # § 9002. Definitions

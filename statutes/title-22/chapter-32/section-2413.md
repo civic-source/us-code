@@ -3,9 +3,9 @@ title: "Section 2413 - Changes in allocation of foreign assistance"
 usc_title: 22
 usc_section: "2413"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2413"
-generated_at: "2026-03-30T02:47:52.630Z"
+generated_at: "2026-03-30T02:50:53.036Z"
 ---
 
 # § 2413. Changes in allocation of foreign assistance

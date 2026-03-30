@@ -3,9 +3,9 @@ title: "Section 70j - Exemptions"
 usc_title: 15
 usc_section: "70j"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 70j"
-generated_at: "2026-03-30T02:47:19.514Z"
+generated_at: "2026-03-30T02:50:29.803Z"
 ---
 
 # § 70j. Exemptions

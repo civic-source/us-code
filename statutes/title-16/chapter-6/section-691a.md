@@ -3,9 +3,9 @@ title: "Section 691a - Establishment of Cheyenne Bottoms Migratory Bird Refuge; 
 usc_title: 16
 usc_section: "691a"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 691a"
-generated_at: "2026-03-30T02:47:42.463Z"
+generated_at: "2026-03-30T02:50:43.116Z"
 ---
 
 # § 691a. Establishment of Cheyenne Bottoms Migratory Bird Refuge; purpose

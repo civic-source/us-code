@@ -3,9 +3,9 @@ title: "Section 77qqq - Special powers of trustee; duties of paying agents"
 usc_title: 15
 usc_section: "77qqq"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 77qqq"
-generated_at: "2026-03-30T02:47:19.523Z"
+generated_at: "2026-03-30T02:50:29.811Z"
 ---
 
 # § 77qqq. Special powers of trustee; duties of paying agents

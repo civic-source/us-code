@@ -3,9 +3,9 @@ title: "Section 8461 - Midshipmen: dismissal for best interests of the service"
 usc_title: 10
 usc_section: "8461"
 chapter: 853
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 8461"
-generated_at: "2026-03-30T02:47:08.590Z"
+generated_at: "2026-03-30T02:50:18.703Z"
 ---
 
 # § 8461. Midshipmen: dismissal for best interests of the service

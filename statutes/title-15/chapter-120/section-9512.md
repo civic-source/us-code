@@ -3,9 +3,9 @@ title: "Section 9512 - Public sector development"
 usc_title: 15
 usc_section: "9512"
 chapter: 120
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 9512"
-generated_at: "2026-03-30T02:47:19.829Z"
+generated_at: "2026-03-30T02:50:30.087Z"
 ---
 
 # § 9512. Public sector development

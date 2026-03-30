@@ -3,9 +3,9 @@ title: "Section 3001 - Definitions"
 usc_title: 25
 usc_section: "3001"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 3001"
-generated_at: "2026-03-30T02:47:49.275Z"
+generated_at: "2026-03-30T02:50:48.182Z"
 ---
 
 # § 3001. Definitions

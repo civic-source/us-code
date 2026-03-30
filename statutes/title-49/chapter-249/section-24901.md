@@ -3,9 +3,9 @@ title: "Section 24901 - Definitions"
 usc_title: 49
 usc_section: "24901"
 chapter: 249
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "49 U.S.C. § 24901"
-generated_at: "2026-03-30T02:48:55.974Z"
+generated_at: "2026-03-30T02:52:20.454Z"
 ---
 
 # § 24901. Definitions

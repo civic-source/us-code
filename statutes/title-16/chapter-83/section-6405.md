@@ -3,9 +3,9 @@ title: "Section 6405 - Coral reef stewardship partnerships"
 usc_title: 16
 usc_section: "6405"
 chapter: 83
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 6405"
-generated_at: "2026-03-30T02:47:42.626Z"
+generated_at: "2026-03-30T02:50:43.290Z"
 ---
 
 # § 6405. Coral reef stewardship partnerships

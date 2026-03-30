@@ -3,9 +3,9 @@ title: "Section 3093 - Presidential approval and reporting of covert actions"
 usc_title: 50
 usc_section: "3093"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3093"
-generated_at: "2026-03-30T02:49:17.638Z"
+generated_at: "2026-03-30T02:52:24.504Z"
 ---
 
 # § 3093. Presidential approval and reporting of covert actions

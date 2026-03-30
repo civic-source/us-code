@@ -3,9 +3,9 @@ title: "Section 140 - Applicability of part"
 usc_title: 42
 usc_section: "140"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 140"
-generated_at: "2026-03-30T02:48:46.146Z"
+generated_at: "2026-03-30T02:52:02.223Z"
 ---
 
 # § 300ff–140. Applicability of part

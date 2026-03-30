@@ -3,9 +3,9 @@ title: "Section 5302B - Prohibition of debt arising from overpayment due to dela
 usc_title: 38
 usc_section: "5302B"
 chapter: 53
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 5302B"
-generated_at: "2026-03-30T02:48:19.102Z"
+generated_at: "2026-03-30T02:51:18.078Z"
 ---
 
 # § 5302B. Prohibition of debt arising from overpayment due to delay in processing

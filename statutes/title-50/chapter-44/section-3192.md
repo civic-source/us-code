@@ -3,9 +3,9 @@ title: "Section 3192 - Framework for cross-disciplinary education and training"
 usc_title: 50
 usc_section: "3192"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3192"
-generated_at: "2026-03-30T02:49:17.643Z"
+generated_at: "2026-03-30T02:52:24.509Z"
 ---
 
 # § 3192. Framework for cross-disciplinary education and training

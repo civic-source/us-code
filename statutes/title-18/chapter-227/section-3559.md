@@ -3,9 +3,9 @@ title: "Section 3559 - Sentencing classification of offenses"
 usc_title: 18
 usc_section: "3559"
 chapter: 227
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 3559"
-generated_at: "2026-03-30T02:47:34.162Z"
+generated_at: "2026-03-30T02:50:34.988Z"
 ---
 
 # § 3559. Sentencing classification of offenses

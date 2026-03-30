@@ -3,9 +3,9 @@ title: "Section 220501 - Short title and definitions"
 usc_title: 36
 usc_section: "220501"
 chapter: 2205
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 220501"
-generated_at: "2026-03-30T02:48:16.872Z"
+generated_at: "2026-03-30T02:51:20.902Z"
 ---
 
 # § 220501. Short title and definitions

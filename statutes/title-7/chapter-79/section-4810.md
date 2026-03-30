@@ -3,9 +3,9 @@ title: "Section 4810 - Permissive provisions"
 usc_title: 7
 usc_section: "4810"
 chapter: 79
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 4810"
-generated_at: "2026-03-30T02:46:47.667Z"
+generated_at: "2026-03-30T02:50:11.692Z"
 ---
 
 # § 4810. Permissive provisions

@@ -3,9 +3,9 @@ title: "Section 2341 - Authority to acquire logistic support, supplies, and serv
 usc_title: 10
 usc_section: "2341"
 chapter: 138
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 2341"
-generated_at: "2026-03-30T02:47:08.506Z"
+generated_at: "2026-03-30T02:50:18.603Z"
 ---
 
 # § 2341. Authority to acquire logistic support, supplies, and services for elements of the armed forces deployed outside the United States

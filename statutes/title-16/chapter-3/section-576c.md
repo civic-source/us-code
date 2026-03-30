@@ -3,9 +3,9 @@ title: "Section 576c - Supplemental National Forest Reforestation Fund; establis
 usc_title: 16
 usc_section: "576c"
 chapter: 3
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 576c"
-generated_at: "2026-03-30T02:47:42.443Z"
+generated_at: "2026-03-30T02:50:43.098Z"
 ---
 
 # § 576c. Supplemental National Forest Reforestation Fund; establishment; duration; authorization of appropriations

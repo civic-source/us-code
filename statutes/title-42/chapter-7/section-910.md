@@ -3,9 +3,9 @@ title: "Section 910 - Recommendations by Board of Trustees to remedy inadequate 
 usc_title: 42
 usc_section: "910"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 910"
-generated_at: "2026-03-30T02:48:46.223Z"
+generated_at: "2026-03-30T02:52:02.320Z"
 ---
 
 # § 910. Recommendations by Board of Trustees to remedy inadequate balances in Social Security trust funds

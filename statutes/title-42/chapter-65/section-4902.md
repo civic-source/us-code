@@ -3,9 +3,9 @@ title: "Section 4902 - Definitions"
 usc_title: 42
 usc_section: "4902"
 chapter: 65
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 4902"
-generated_at: "2026-03-30T02:48:46.577Z"
+generated_at: "2026-03-30T02:52:02.767Z"
 ---
 
 # § 4902. Definitions

@@ -3,9 +3,9 @@ title: "Section 11046 - Civil actions"
 usc_title: 42
 usc_section: "11046"
 chapter: 116
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 11046"
-generated_at: "2026-03-30T02:48:46.786Z"
+generated_at: "2026-03-30T02:52:03.033Z"
 ---
 
 # § 11046. Civil actions

@@ -3,9 +3,9 @@ title: "Section 20 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 St
 usc_title: 19
 usc_section: "20"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "19 U.S.C. § 20"
-generated_at: "2026-03-30T02:47:37.114Z"
+generated_at: "2026-03-30T02:50:36.513Z"
 ---
 
 # §§ 19, 20. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 646

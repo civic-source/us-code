@@ -3,9 +3,9 @@ title: "Section 6995 - Informal hearings"
 usc_title: 7
 usc_section: "6995"
 chapter: 98
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 6995"
-generated_at: "2026-03-30T02:46:47.703Z"
+generated_at: "2026-03-30T02:50:11.727Z"
 ---
 
 # § 6995. Informal hearings

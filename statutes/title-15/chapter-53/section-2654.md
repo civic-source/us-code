@@ -3,9 +3,9 @@ title: "Section 2654 - Transitional rules"
 usc_title: 15
 usc_section: "2654"
 chapter: 53
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 2654"
-generated_at: "2026-03-30T02:47:19.731Z"
+generated_at: "2026-03-30T02:50:29.998Z"
 ---
 
 # § 2654. Transitional rules

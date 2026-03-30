@@ -3,9 +3,9 @@ title: "Section 4144 - Grants for other purposes"
 usc_title: 12
 usc_section: "4144"
 chapter: 42
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 4144"
-generated_at: "2026-03-30T02:47:16.239Z"
+generated_at: "2026-03-30T02:50:26.512Z"
 ---
 
 # § 4144. Grants for other purposes

@@ -3,9 +3,9 @@ title: "Section 276a - Expenditures"
 usc_title: 2
 usc_section: "276a"
 chapter: 9
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "2 U.S.C. § 276a"
-generated_at: "2026-03-30T02:46:39.269Z"
+generated_at: "2026-03-30T02:50:03.241Z"
 ---
 
 # § 276a. Expenditures

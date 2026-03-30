@@ -3,9 +3,9 @@ title: "Section 4405 - Preemption"
 usc_title: 12
 usc_section: "4405"
 chapter: 45
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 4405"
-generated_at: "2026-03-30T02:47:16.243Z"
+generated_at: "2026-03-30T02:50:26.517Z"
 ---
 
 # § 4405. Preemption

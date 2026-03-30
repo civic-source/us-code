@@ -3,9 +3,9 @@ title: "Section 5722 - Travel and transportation expenses of new appointees; pos
 usc_title: 5
 usc_section: "5722"
 chapter: 57
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 5722"
-generated_at: "2026-03-30T02:46:38.027Z"
+generated_at: "2026-03-30T02:49:55.192Z"
 ---
 
 # § 5722. Travel and transportation expenses of new appointees; posts of duty outside the continental United States

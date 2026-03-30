@@ -3,9 +3,9 @@ title: "Section 794b - Removal of architectural, transportation, or communicatio
 usc_title: 29
 usc_section: "794b"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 794b"
-generated_at: "2026-03-30T02:47:57.855Z"
+generated_at: "2026-03-30T02:50:58.633Z"
 ---
 
 # § 794b. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations

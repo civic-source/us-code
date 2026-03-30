@@ -3,9 +3,9 @@ title: "Section 3026 - Acceleration of the Final Government Equity Redemption Da
 usc_title: 12
 usc_section: "3026"
 chapter: 31
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 3026"
-generated_at: "2026-03-30T02:47:16.222Z"
+generated_at: "2026-03-30T02:50:26.496Z"
 ---
 
 # § 3026. Acceleration of the Final Government Equity Redemption Date

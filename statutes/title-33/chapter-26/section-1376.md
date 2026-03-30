@@ -3,9 +3,9 @@ title: "Section 1376 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1376"
 chapter: 26
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "33 U.S.C. § 1376"
-generated_at: "2026-03-30T02:48:12.833Z"
+generated_at: "2026-03-30T02:51:10.386Z"
 ---
 
 # § 1376. Authorization of appropriations

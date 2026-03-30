@@ -3,9 +3,9 @@ title: "Section 3356 - Improving the use of data by executive agencies for curbi
 usc_title: 31
 usc_section: "3356"
 chapter: 33
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "31 U.S.C. § 3356"
-generated_at: "2026-03-30T02:48:11.375Z"
+generated_at: "2026-03-30T02:51:12.290Z"
 ---
 
 # § 3356. Improving the use of data by executive agencies for curbing improper payments

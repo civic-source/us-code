@@ -3,9 +3,9 @@ title: "Section 4233 - Lease requirements and tenant selection"
 usc_title: 25
 usc_section: "4233"
 chapter: 43
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 4233"
-generated_at: "2026-03-30T02:47:49.295Z"
+generated_at: "2026-03-30T02:50:48.200Z"
 ---
 
 # § 4233. Lease requirements and tenant selection

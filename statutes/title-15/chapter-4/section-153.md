@@ -3,9 +3,9 @@ title: "Section 153 - Dividends"
 usc_title: 15
 usc_section: "153"
 chapter: 4
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 153"
-generated_at: "2026-03-30T02:47:19.577Z"
+generated_at: "2026-03-30T02:50:29.860Z"
 ---
 
 # § 153. Dividends

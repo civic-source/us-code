@@ -3,9 +3,9 @@ title: "Section 11319 - Resources, planning, and portfolio management"
 usc_title: 40
 usc_section: "11319"
 chapter: 113
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "40 U.S.C. § 11319"
-generated_at: "2026-03-30T02:48:15.458Z"
+generated_at: "2026-03-30T02:51:19.778Z"
 ---
 
 # § 11319. Resources, planning, and portfolio management

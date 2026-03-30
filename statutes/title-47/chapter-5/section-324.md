@@ -3,9 +3,9 @@ title: "Section 324 - Use of minimum power"
 usc_title: 47
 usc_section: "324"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "47 U.S.C. § 324"
-generated_at: "2026-03-30T02:48:50.401Z"
+generated_at: "2026-03-30T02:52:17.317Z"
 ---
 
 # § 324. Use of minimum power

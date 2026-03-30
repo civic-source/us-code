@@ -3,9 +3,9 @@ title: "Section 384 - Card index of agricultural literature; copies to be furnis
 usc_title: 7
 usc_section: "384"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 384"
-generated_at: "2026-03-30T02:46:47.508Z"
+generated_at: "2026-03-30T02:50:11.527Z"
 ---
 
 # § 384. Card index of agricultural literature; copies to be furnished by Secretary

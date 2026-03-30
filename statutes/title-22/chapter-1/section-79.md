@@ -3,9 +3,9 @@ title: "Section 79 - Transferred"
 usc_title: 22
 usc_section: "79"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 79"
-generated_at: "2026-03-30T02:47:52.547Z"
+generated_at: "2026-03-30T02:50:52.962Z"
 ---
 
 # §§ 72 to 79. Transferred

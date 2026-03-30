@@ -3,9 +3,9 @@ title: "Section 130107 - Restrictions"
 usc_title: 36
 usc_section: "130107"
 chapter: 1301
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 130107"
-generated_at: "2026-03-30T02:48:16.861Z"
+generated_at: "2026-03-30T02:51:20.888Z"
 ---
 
 # § 130107. Restrictions

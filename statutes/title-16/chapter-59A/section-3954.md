@@ -3,9 +3,9 @@ title: "Section 3954 - National coastal wetlands conservation grants"
 usc_title: 16
 usc_section: "3954"
 chapter: 59
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 3954"
-generated_at: "2026-03-30T02:47:42.608Z"
+generated_at: "2026-03-30T02:50:43.273Z"
 ---
 
 # § 3954. National coastal wetlands conservation grants

@@ -3,9 +3,9 @@ title: "Section 4001 - Promotions"
 usc_title: 22
 usc_section: "4001"
 chapter: 52
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 4001"
-generated_at: "2026-03-30T02:47:52.678Z"
+generated_at: "2026-03-30T02:50:53.080Z"
 ---
 
 # § 4001. Promotions

@@ -3,9 +3,9 @@ title: "Section 3414 - Office of Elementary and Secondary Education; inclusion o
 usc_title: 20
 usc_section: "3414"
 chapter: 48
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 3414"
-generated_at: "2026-03-30T02:47:29.643Z"
+generated_at: "2026-03-30T02:50:39.223Z"
 ---
 
 # § 3414. Office of Elementary and Secondary Education; inclusion of Office of Migrant Education

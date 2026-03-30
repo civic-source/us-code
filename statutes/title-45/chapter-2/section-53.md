@@ -3,9 +3,9 @@ title: "Section 53 - Contributory negligence; diminution of damages"
 usc_title: 45
 usc_section: "53"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "45 U.S.C. § 53"
-generated_at: "2026-03-30T02:48:26.934Z"
+generated_at: "2026-03-30T02:51:35.183Z"
 ---
 
 # § 53. Contributory negligence; diminution of damages

@@ -3,9 +3,9 @@ title: "Section 6724 - Procedures for inspections"
 usc_title: 22
 usc_section: "6724"
 chapter: 75
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 6724"
-generated_at: "2026-03-30T02:47:52.722Z"
+generated_at: "2026-03-30T02:50:53.118Z"
 ---
 
 # § 6724. Procedures for inspections

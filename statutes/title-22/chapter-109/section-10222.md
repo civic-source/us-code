@@ -3,9 +3,9 @@ title: "Section 10222 - Imposition of sanctions with respect to human rights abu
 usc_title: 22
 usc_section: "10222"
 chapter: 109
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 10222"
-generated_at: "2026-03-30T02:47:52.781Z"
+generated_at: "2026-03-30T02:50:53.170Z"
 ---
 
 # § 10222. Imposition of sanctions with respect to human rights abuses and perpetration of a coup in Burma

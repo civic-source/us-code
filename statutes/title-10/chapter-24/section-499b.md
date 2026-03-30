@@ -3,9 +3,9 @@ title: "Section 499b - Participation in United States Strategic Command strategi
 usc_title: 10
 usc_section: "499b"
 chapter: 24
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 499b"
-generated_at: "2026-03-30T02:47:08.411Z"
+generated_at: "2026-03-30T02:50:18.494Z"
 ---
 
 # § 499b. Participation in United States Strategic Command strategic deterrence exercises

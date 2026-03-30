@@ -3,9 +3,9 @@ title: "Section 2767a - Repealed. Pub. L. 101–189, div. A, title IX, § 931(d)
 usc_title: 22
 usc_section: "2767a"
 chapter: 39
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2767a"
-generated_at: "2026-03-30T02:47:52.656Z"
+generated_at: "2026-03-30T02:50:53.060Z"
 ---
 
 # § 2767a. Repealed. Pub. L. 101–189, div. A, title IX, § 931(d)(2) , Nov. 29, 1989 , 103 Stat. 1535

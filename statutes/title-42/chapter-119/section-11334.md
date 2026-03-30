@@ -3,9 +3,9 @@ title: "Section 11334 - Records and audit of National Board and recipients of as
 usc_title: 42
 usc_section: "11334"
 chapter: 119
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 11334"
-generated_at: "2026-03-30T02:48:46.789Z"
+generated_at: "2026-03-30T02:52:03.039Z"
 ---
 
 # § 11334. Records and audit of National Board and recipients of assistance

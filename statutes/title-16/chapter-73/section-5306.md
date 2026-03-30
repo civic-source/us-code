@@ -3,9 +3,9 @@ title: "Section 5306 - Authorization of appropriations"
 usc_title: 16
 usc_section: "5306"
 chapter: 73
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 5306"
-generated_at: "2026-03-30T02:47:42.621Z"
+generated_at: "2026-03-30T02:50:43.285Z"
 ---
 
 # § 5306. Authorization of appropriations

@@ -3,9 +3,9 @@ title: "Section 2285 - Department of Defense Climate Resilience Infrastructure I
 usc_title: 10
 usc_section: "2285"
 chapter: 136
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 2285"
-generated_at: "2026-03-30T02:47:08.506Z"
+generated_at: "2026-03-30T02:50:18.602Z"
 ---
 
 # § 2285. Department of Defense Climate Resilience Infrastructure Initiative

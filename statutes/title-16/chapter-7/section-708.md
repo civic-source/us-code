@@ -3,9 +3,9 @@ title: "Section 708 - State or Territorial laws or regulations"
 usc_title: 16
 usc_section: "708"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 708"
-generated_at: "2026-03-30T02:47:42.468Z"
+generated_at: "2026-03-30T02:50:43.122Z"
 ---
 
 # § 708. State or Territorial laws or regulations

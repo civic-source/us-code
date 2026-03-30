@@ -3,9 +3,9 @@ title: "Section 7913 - Prohibition on discrimination"
 usc_title: 20
 usc_section: "7913"
 chapter: 70
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 7913"
-generated_at: "2026-03-30T02:47:29.701Z"
+generated_at: "2026-03-30T02:50:39.282Z"
 ---
 
 # § 7913. Prohibition on discrimination

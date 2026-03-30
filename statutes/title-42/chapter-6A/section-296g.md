@@ -3,9 +3,9 @@ title: "Section 296g - Prohibition against discrimination by schools on basis of
 usc_title: 42
 usc_section: "296g"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 296g"
-generated_at: "2026-03-30T02:48:46.089Z"
+generated_at: "2026-03-30T02:52:02.154Z"
 ---
 
 # § 296g. Prohibition against discrimination by schools on basis of sex

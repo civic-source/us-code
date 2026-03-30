@@ -3,9 +3,9 @@ title: "Section 12k - City of West Jordan Water Reuse Project"
 usc_title: 43
 usc_section: "12k"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 12k"
-generated_at: "2026-03-30T02:48:28.895Z"
+generated_at: "2026-03-30T02:51:38.281Z"
 ---
 
 # § 390h–12k. City of West Jordan Water Reuse Project

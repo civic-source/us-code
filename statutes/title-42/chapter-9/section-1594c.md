@@ -3,9 +3,9 @@ title: "Section 1594c - Services of architects and engineers; use of appropriati
 usc_title: 42
 usc_section: "1594c"
 chapter: 9
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 1594c"
-generated_at: "2026-03-30T02:48:46.452Z"
+generated_at: "2026-03-30T02:52:02.608Z"
 ---
 
 # § 1594c. Services of architects and engineers; use of appropriations; acquisition of sites

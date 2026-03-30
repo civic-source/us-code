@@ -3,9 +3,9 @@ title: "Section 2285 - Budget prohibitions"
 usc_title: 7
 usc_section: "2285"
 chapter: 55
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 2285"
-generated_at: "2026-03-30T02:46:47.636Z"
+generated_at: "2026-03-30T02:50:11.663Z"
 ---
 
 # § 2285. Budget prohibitions

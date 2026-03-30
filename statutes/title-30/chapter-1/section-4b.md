@@ -3,9 +3,9 @@ title: "Section 4b - Cooperation with individuals, municipalities, etc.; contrac
 usc_title: 30
 usc_section: "4b"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "30 U.S.C. § 4b"
-generated_at: "2026-03-30T02:47:56.143Z"
+generated_at: "2026-03-30T02:50:55.726Z"
 ---
 
 # § 4b. Cooperation with individuals, municipalities, etc.; contracts with owners; agreements as to prices

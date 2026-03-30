@@ -3,9 +3,9 @@ title: "Section 3605 - Payment of educational assistance in cases of withdrawal"
 usc_title: 38
 usc_section: "3605"
 chapter: 36
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 3605"
-generated_at: "2026-03-30T02:48:19.041Z"
+generated_at: "2026-03-30T02:51:18.057Z"
 ---
 
 # § 3605. Payment of educational assistance in cases of withdrawal

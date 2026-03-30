@@ -3,9 +3,9 @@ title: "Section 18 - Land acquisition"
 usc_title: 16
 usc_section: "18"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 18"
-generated_at: "2026-03-30T02:47:42.397Z"
+generated_at: "2026-03-30T02:50:43.052Z"
 ---
 
 # § 460vv–18. Land acquisition

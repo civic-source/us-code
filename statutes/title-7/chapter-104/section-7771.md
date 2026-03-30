@@ -3,9 +3,9 @@ title: "Section 7771 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7771"
 chapter: 104
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 7771"
-generated_at: "2026-03-30T02:46:47.729Z"
+generated_at: "2026-03-30T02:50:11.750Z"
 ---
 
 # § 7771. Authorization of appropriations

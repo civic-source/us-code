@@ -3,9 +3,9 @@ title: "Section 445a - Transferred"
 usc_title: 48
 usc_section: "445a"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 445a"
-generated_at: "2026-03-30T02:48:50.948Z"
+generated_at: "2026-03-30T02:52:10.379Z"
 ---
 
 # § 445a. Transferred

@@ -3,9 +3,9 @@ title: "Section 7405 - Consultation"
 usc_title: 15
 usc_section: "7405"
 chapter: 100
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 7405"
-generated_at: "2026-03-30T02:47:19.792Z"
+generated_at: "2026-03-30T02:50:30.053Z"
 ---
 
 # § 7405. Consultation

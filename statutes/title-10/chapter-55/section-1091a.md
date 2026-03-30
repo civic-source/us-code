@@ -3,9 +3,9 @@ title: "Section 1091a - Identification in patient medical records of affiliation
 usc_title: 10
 usc_section: "1091a"
 chapter: 55
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 1091a"
-generated_at: "2026-03-30T02:47:08.456Z"
+generated_at: "2026-03-30T02:50:18.542Z"
 ---
 
 # § 1091a. Identification in patient medical records of affiliation of certain non-Department of Defense health care providers

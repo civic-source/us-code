@@ -3,9 +3,9 @@ title: "Section 1204 - Powers and functions of the Merit Systems Protection Boar
 usc_title: 5
 usc_section: "1204"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 1204"
-generated_at: "2026-03-30T02:46:37.998Z"
+generated_at: "2026-03-30T02:49:55.163Z"
 ---
 
 # § 1204. Powers and functions of the Merit Systems Protection Board

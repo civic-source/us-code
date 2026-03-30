@@ -3,9 +3,9 @@ title: "Section 8105 - Total disability"
 usc_title: 5
 usc_section: "8105"
 chapter: 81
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 8105"
-generated_at: "2026-03-30T02:46:38.042Z"
+generated_at: "2026-03-30T02:49:55.206Z"
 ---
 
 # § 8105. Total disability

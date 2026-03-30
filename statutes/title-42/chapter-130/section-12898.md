@@ -3,9 +3,9 @@ title: "Section 12898 - Implementation"
 usc_title: 42
 usc_section: "12898"
 chapter: 130
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 12898"
-generated_at: "2026-03-30T02:48:46.833Z"
+generated_at: "2026-03-30T02:52:03.092Z"
 ---
 
 # § 12898. Implementation

@@ -3,9 +3,9 @@ title: "Section 140405 - Powers"
 usc_title: 36
 usc_section: "140405"
 chapter: 1404
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 140405"
-generated_at: "2026-03-30T02:48:16.862Z"
+generated_at: "2026-03-30T02:51:20.890Z"
 ---
 
 # § 140405. Powers

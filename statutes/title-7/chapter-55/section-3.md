@@ -3,9 +3,9 @@ title: "Section 3 - Council on Rural Community Innovation and Economic Developme
 usc_title: 7
 usc_section: "3"
 chapter: 55
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 3"
-generated_at: "2026-03-30T02:46:47.627Z"
+generated_at: "2026-03-30T02:50:11.655Z"
 ---
 
 # § 2204b–3. Council on Rural Community Innovation and Economic Development

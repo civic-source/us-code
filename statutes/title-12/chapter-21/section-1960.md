@@ -3,9 +3,9 @@ title: "Section 1960 - Safe harbor with respect to keep open directives"
 usc_title: 12
 usc_section: "1960"
 chapter: 21
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 1960"
-generated_at: "2026-03-30T02:47:16.195Z"
+generated_at: "2026-03-30T02:50:26.471Z"
 ---
 
 # § 1960. Safe harbor with respect to keep open directives

@@ -3,9 +3,9 @@ title: "Section 390zz - Reporting"
 usc_title: 43
 usc_section: "390zz"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 390zz"
-generated_at: "2026-03-30T02:48:28.897Z"
+generated_at: "2026-03-30T02:51:38.284Z"
 ---
 
 # § 390zz. Reporting

@@ -3,9 +3,9 @@ title: "Section 3506 - Separability"
 usc_title: 20
 usc_section: "3506"
 chapter: 48
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 3506"
-generated_at: "2026-03-30T02:47:29.646Z"
+generated_at: "2026-03-30T02:50:39.226Z"
 ---
 
 # § 3506. Separability

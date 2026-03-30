@@ -3,9 +3,9 @@ title: "Section 30119 - Contributions by Government contractors"
 usc_title: 52
 usc_section: "30119"
 chapter: 301
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "52 U.S.C. § 30119"
-generated_at: "2026-03-30T02:49:21.502Z"
+generated_at: "2026-03-30T02:52:29.104Z"
 ---
 
 # § 30119. Contributions by Government contractors

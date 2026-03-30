@@ -3,9 +3,9 @@ title: "Section 130h - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b
 usc_title: 10
 usc_section: "130h"
 chapter: 3
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 130h"
-generated_at: "2026-03-30T02:47:08.385Z"
+generated_at: "2026-03-30T02:50:18.466Z"
 ---
 
 # [§ 130h. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1) , Dec. 23, 2024 , 138 Stat. 2199 ]

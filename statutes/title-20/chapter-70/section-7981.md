@@ -3,9 +3,9 @@ title: "Section 7981 - Evaluations"
 usc_title: 20
 usc_section: "7981"
 chapter: 70
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 7981"
-generated_at: "2026-03-30T02:47:29.704Z"
+generated_at: "2026-03-30T02:50:39.284Z"
 ---
 
 # § 7981. Evaluations

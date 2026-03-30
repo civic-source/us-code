@@ -3,9 +3,9 @@ title: "Section 7661f - Small business stationary source technical and environme
 usc_title: 42
 usc_section: "7661f"
 chapter: 85
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 7661f"
-generated_at: "2026-03-30T02:48:46.708Z"
+generated_at: "2026-03-30T02:52:02.935Z"
 ---
 
 # § 7661f. Small business stationary source technical and environmental compliance assistance program

@@ -3,9 +3,9 @@ title: "Section 3703 - Definitions"
 usc_title: 25
 usc_section: "3703"
 chapter: 39
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 3703"
-generated_at: "2026-03-30T02:47:49.286Z"
+generated_at: "2026-03-30T02:50:48.192Z"
 ---
 
 # § 3703. Definitions

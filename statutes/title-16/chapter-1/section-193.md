@@ -3,9 +3,9 @@ title: "Section 193 - Claims and rights under land laws not affected; rights-of-
 usc_title: 16
 usc_section: "193"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 193"
-generated_at: "2026-03-30T02:47:42.299Z"
+generated_at: "2026-03-30T02:50:42.898Z"
 ---
 
 # § 193. Claims and rights under land laws not affected; rights-of-way for irrigation and other purposes

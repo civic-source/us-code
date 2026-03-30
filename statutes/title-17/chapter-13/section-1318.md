@@ -3,9 +3,9 @@ title: "Section 1318 - Copies of records"
 usc_title: 17
 usc_section: "1318"
 chapter: 13
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "17 U.S.C. § 1318"
-generated_at: "2026-03-30T02:47:34.680Z"
+generated_at: "2026-03-30T02:50:33.466Z"
 ---
 
 # § 1318. Copies of records

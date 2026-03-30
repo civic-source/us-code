@@ -3,9 +3,9 @@ title: "Section 251m - Authorization of appropriations"
 usc_title: 16
 usc_section: "251m"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 251m"
-generated_at: "2026-03-30T02:47:42.304Z"
+generated_at: "2026-03-30T02:50:42.958Z"
 ---
 
 # § 251m. Authorization of appropriations

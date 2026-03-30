@@ -3,9 +3,9 @@ title: "Section 357 - Special and incentive pay authorities for members of the r
 usc_title: 37
 usc_section: "357"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "37 U.S.C. § 357"
-generated_at: "2026-03-30T02:48:15.976Z"
+generated_at: "2026-03-30T02:51:14.769Z"
 ---
 
 # § 357. Special and incentive pay authorities for members of the reserve components of the armed forces

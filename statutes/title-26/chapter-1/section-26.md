@@ -3,9 +3,9 @@ title: "Section 26 - Limitation based on tax liability; definition of tax liabil
 usc_title: 26
 usc_section: "26"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 26"
-generated_at: "2026-03-30T02:48:06.418Z"
+generated_at: "2026-03-30T02:51:05.320Z"
 ---
 
 # § 26. Limitation based on tax liability; definition of tax liability

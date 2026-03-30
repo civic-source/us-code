@@ -3,9 +3,9 @@ title: "Section 606 - Inspection and labeling of meat food products"
 usc_title: 21
 usc_section: "606"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "21 U.S.C. § 606"
-generated_at: "2026-03-30T02:47:48.018Z"
+generated_at: "2026-03-30T02:50:49.550Z"
 ---
 
 # § 606. Inspection and labeling of meat food products

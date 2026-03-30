@@ -3,9 +3,9 @@ title: "Section 4102 - Authority of the Attorney General"
 usc_title: 18
 usc_section: "4102"
 chapter: 306
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 4102"
-generated_at: "2026-03-30T02:47:34.171Z"
+generated_at: "2026-03-30T02:50:34.998Z"
 ---
 
 # § 4102. Authority of the Attorney General

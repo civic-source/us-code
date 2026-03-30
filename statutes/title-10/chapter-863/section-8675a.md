@@ -3,9 +3,9 @@ title: "Section 8675a - Vessels stricken from Naval Vessel Register: contracts f
 usc_title: 10
 usc_section: "8675a"
 chapter: 863
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 8675a"
-generated_at: "2026-03-30T02:47:08.594Z"
+generated_at: "2026-03-30T02:50:18.709Z"
 ---
 
 # § 8675a. Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis

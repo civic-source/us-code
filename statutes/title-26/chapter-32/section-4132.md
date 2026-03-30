@@ -3,9 +3,9 @@ title: "Section 4132 - Definitions and special rules"
 usc_title: 26
 usc_section: "4132"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 4132"
-generated_at: "2026-03-30T02:48:06.684Z"
+generated_at: "2026-03-30T02:51:05.545Z"
 ---
 
 # § 4132. Definitions and special rules

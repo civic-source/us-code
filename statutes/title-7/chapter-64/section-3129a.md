@@ -3,9 +3,9 @@ title: "Section 3129a - Exemption from chapter 10 of title 5 for competitive res
 usc_title: 7
 usc_section: "3129a"
 chapter: 64
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 3129a"
-generated_at: "2026-03-30T02:46:47.646Z"
+generated_at: "2026-03-30T02:50:11.673Z"
 ---
 
 # § 3129a. Exemption from chapter 10 of title 5 for competitive research, extension, and education programs

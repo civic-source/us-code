@@ -3,9 +3,9 @@ title: "Section 503 - Enlistments: recruiting campaigns; compilation of director
 usc_title: 10
 usc_section: "503"
 chapter: 31
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 503"
-generated_at: "2026-03-30T02:47:08.412Z"
+generated_at: "2026-03-30T02:50:18.495Z"
 ---
 
 # § 503. Enlistments: recruiting campaigns; compilation of directory information

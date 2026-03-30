@@ -3,9 +3,9 @@ title: "Section 1003 - Residence outside the United States"
 usc_title: 42
 usc_section: "1003"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 1003"
-generated_at: "2026-03-30T02:48:46.224Z"
+generated_at: "2026-03-30T02:52:02.321Z"
 ---
 
 # § 1003. Residence outside the United States

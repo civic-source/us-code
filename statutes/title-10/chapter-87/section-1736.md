@@ -3,9 +3,9 @@ title: "Section 1736 - Repealed. Pub. L. 107–107, div. A, title X, § 1048(e)(
 usc_title: 10
 usc_section: "1736"
 chapter: 87
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 1736"
-generated_at: "2026-03-30T02:47:08.487Z"
+generated_at: "2026-03-30T02:50:18.575Z"
 ---
 
 # [§ 1736. Repealed. Pub. L. 107–107, div. A, title X, § 1048(e)(6)(A) , Dec. 28, 2001 , 115 Stat. 1227 ]

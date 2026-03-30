@@ -3,9 +3,9 @@ title: "Section 3057 - National Counterproliferation and Biosecurity Center"
 usc_title: 50
 usc_section: "3057"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3057"
-generated_at: "2026-03-30T02:49:17.636Z"
+generated_at: "2026-03-30T02:52:24.499Z"
 ---
 
 # § 3057. National Counterproliferation and Biosecurity Center

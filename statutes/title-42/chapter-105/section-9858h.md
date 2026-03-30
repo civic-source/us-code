@@ -3,9 +3,9 @@ title: "Section 9858h - Payments"
 usc_title: 42
 usc_section: "9858h"
 chapter: 105
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 9858h"
-generated_at: "2026-03-30T02:48:46.763Z"
+generated_at: "2026-03-30T02:52:03.006Z"
 ---
 
 # § 9858h. Payments

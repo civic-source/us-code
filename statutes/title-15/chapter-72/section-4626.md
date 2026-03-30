@@ -3,9 +3,9 @@ title: "Section 4626 - Budgeting for semiconductor manufacturing technology rese
 usc_title: 15
 usc_section: "4626"
 chapter: 72
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 4626"
-generated_at: "2026-03-30T02:47:19.760Z"
+generated_at: "2026-03-30T02:50:30.023Z"
 ---
 
 # § 4626. Budgeting for semiconductor manufacturing technology research

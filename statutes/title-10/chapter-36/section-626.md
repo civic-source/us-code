@@ -3,9 +3,9 @@ title: "Section 626 - Acceptance of promotions; oath of office"
 usc_title: 10
 usc_section: "626"
 chapter: 36
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 626"
-generated_at: "2026-03-30T02:47:08.419Z"
+generated_at: "2026-03-30T02:50:18.502Z"
 ---
 
 # § 626. Acceptance of promotions; oath of office

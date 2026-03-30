@@ -3,9 +3,9 @@ title: "Section 20002 - Members: duty status"
 usc_title: 10
 usc_section: "20002"
 chapter: 2001
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 20002"
-generated_at: "2026-03-30T02:47:08.630Z"
+generated_at: "2026-03-30T02:50:18.750Z"
 ---
 
 # § 20002. Members: duty status

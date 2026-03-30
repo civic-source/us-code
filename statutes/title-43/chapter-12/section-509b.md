@@ -3,9 +3,9 @@ title: "Section 509b - Additional project benefits through the construction of n
 usc_title: 43
 usc_section: "509b"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 509b"
-generated_at: "2026-03-30T02:48:28.905Z"
+generated_at: "2026-03-30T02:51:38.289Z"
 ---
 
 # § 509b. Additional project benefits through the construction of new or supplementary works

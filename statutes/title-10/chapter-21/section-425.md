@@ -3,9 +3,9 @@ title: "Section 425 - Prohibition of unauthorized use of name, initials, or seal
 usc_title: 10
 usc_section: "425"
 chapter: 21
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 425"
-generated_at: "2026-03-30T02:47:08.407Z"
+generated_at: "2026-03-30T02:50:18.490Z"
 ---
 
 # § 425. Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies

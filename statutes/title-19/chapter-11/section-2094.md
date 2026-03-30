@@ -3,9 +3,9 @@ title: "Section 2094 - Rules and regulations"
 usc_title: 19
 usc_section: "2094"
 chapter: 11
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "19 U.S.C. § 2094"
-generated_at: "2026-03-30T02:47:37.158Z"
+generated_at: "2026-03-30T02:50:36.558Z"
 ---
 
 # § 2094. Rules and regulations

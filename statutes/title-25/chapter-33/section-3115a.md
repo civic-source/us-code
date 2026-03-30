@@ -3,9 +3,9 @@ title: "Section 3115a - Tribal forest assets protection"
 usc_title: 25
 usc_section: "3115a"
 chapter: 33
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 3115a"
-generated_at: "2026-03-30T02:47:49.279Z"
+generated_at: "2026-03-30T02:50:48.186Z"
 ---
 
 # § 3115a. Tribal forest assets protection

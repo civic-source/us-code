@@ -3,9 +3,9 @@ title: "Section 1344 - Bank fraud"
 usc_title: 18
 usc_section: "1344"
 chapter: 63
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 1344"
-generated_at: "2026-03-30T02:47:34.123Z"
+generated_at: "2026-03-30T02:50:34.951Z"
 ---
 
 # § 1344. Bank fraud

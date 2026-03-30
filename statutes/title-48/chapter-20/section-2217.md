@@ -3,9 +3,9 @@ title: "Section 2217 - Savings clause"
 usc_title: 48
 usc_section: "2217"
 chapter: 20
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 2217"
-generated_at: "2026-03-30T02:48:50.978Z"
+generated_at: "2026-03-30T02:52:10.426Z"
 ---
 
 # § 2217. Savings clause

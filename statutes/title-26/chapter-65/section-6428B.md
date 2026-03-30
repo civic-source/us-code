@@ -3,9 +3,9 @@ title: "Section 6428B - 2021 recovery rebates to individuals"
 usc_title: 26
 usc_section: "6428B"
 chapter: 65
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 6428B"
-generated_at: "2026-03-30T02:48:06.757Z"
+generated_at: "2026-03-30T02:51:05.609Z"
 ---
 
 # § 6428B. 2021 recovery rebates to individuals

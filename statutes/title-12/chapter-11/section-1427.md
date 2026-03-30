@@ -3,9 +3,9 @@ title: "Section 1427 - Directors"
 usc_title: 12
 usc_section: "1427"
 chapter: 11
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 1427"
-generated_at: "2026-03-30T02:47:16.080Z"
+generated_at: "2026-03-30T02:50:26.362Z"
 ---
 
 # § 1427. Directors

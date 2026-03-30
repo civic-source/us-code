@@ -3,9 +3,9 @@ title: "Section 1032 - Notice and disclosure requirements with respect to lump s
 usc_title: 29
 usc_section: "1032"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 1032"
-generated_at: "2026-03-30T02:47:57.865Z"
+generated_at: "2026-03-30T02:50:58.642Z"
 ---
 
 # § 1032. Notice and disclosure requirements with respect to lump sums

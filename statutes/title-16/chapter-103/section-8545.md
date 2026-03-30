@@ -3,9 +3,9 @@ title: "Section 8545 - Forest Service and Bureau of Land Management temporary sp
 usc_title: 16
 usc_section: "8545"
 chapter: 103
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 8545"
-generated_at: "2026-03-30T02:47:42.656Z"
+generated_at: "2026-03-30T02:50:43.323Z"
 ---
 
 # § 8545. Forest Service and Bureau of Land Management temporary special recreation permits for outfitting and guiding

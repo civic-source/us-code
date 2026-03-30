@@ -3,9 +3,9 @@ title: "Section 277 - Regulations"
 usc_title: 15
 usc_section: "277"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 277"
-generated_at: "2026-03-30T02:47:19.581Z"
+generated_at: "2026-03-30T02:50:29.864Z"
 ---
 
 # § 277. Regulations

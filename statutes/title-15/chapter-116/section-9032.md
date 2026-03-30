@@ -3,9 +3,9 @@ title: "Section 9032 - Implementation"
 usc_title: 15
 usc_section: "9032"
 chapter: 116
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 9032"
-generated_at: "2026-03-30T02:47:19.817Z"
+generated_at: "2026-03-30T02:50:30.076Z"
 ---
 
 # § 9032. Implementation

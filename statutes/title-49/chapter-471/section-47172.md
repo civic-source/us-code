@@ -3,9 +3,9 @@ title: "Section 47172 - Air traffic procedures for airport capacity enhancement 
 usc_title: 49
 usc_section: "47172"
 chapter: 471
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "49 U.S.C. § 47172"
-generated_at: "2026-03-30T02:48:56.043Z"
+generated_at: "2026-03-30T02:52:20.523Z"
 ---
 
 # § 47172. Air traffic procedures for airport capacity enhancement projects at congested airports

@@ -3,9 +3,9 @@ title: "Section 3331 - Summoning and term"
 usc_title: 18
 usc_section: "3331"
 chapter: 216
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 3331"
-generated_at: "2026-03-30T02:47:34.157Z"
+generated_at: "2026-03-30T02:50:34.985Z"
 ---
 
 # § 3331. Summoning and term

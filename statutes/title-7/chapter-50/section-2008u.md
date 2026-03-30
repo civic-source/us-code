@@ -3,9 +3,9 @@ title: "Section 2008u - Health care services"
 usc_title: 7
 usc_section: "2008u"
 chapter: 50
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 2008u"
-generated_at: "2026-03-30T02:46:47.600Z"
+generated_at: "2026-03-30T02:50:11.627Z"
 ---
 
 # § 2008u. Health care services

@@ -3,9 +3,9 @@ title: "Section 3105a - Classified intelligence budget justification materials"
 usc_title: 50
 usc_section: "3105a"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3105a"
-generated_at: "2026-03-30T02:49:17.640Z"
+generated_at: "2026-03-30T02:52:24.506Z"
 ---
 
 # § 3105a. Classified intelligence budget justification materials

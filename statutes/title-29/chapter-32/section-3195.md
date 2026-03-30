@@ -3,9 +3,9 @@ title: "Section 3195 - Recruitment, screening, selection, and assignment of enro
 usc_title: 29
 usc_section: "3195"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 3195"
-generated_at: "2026-03-30T02:47:57.931Z"
+generated_at: "2026-03-30T02:50:58.699Z"
 ---
 
 # § 3195. Recruitment, screening, selection, and assignment of enrollees

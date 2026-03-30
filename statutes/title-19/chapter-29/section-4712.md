@@ -3,9 +3,9 @@ title: "Section 4712 - Assessment"
 usc_title: 19
 usc_section: "4712"
 chapter: 29
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "19 U.S.C. § 4712"
-generated_at: "2026-03-30T02:47:37.215Z"
+generated_at: "2026-03-30T02:50:36.616Z"
 ---
 
 # § 4712. Assessment

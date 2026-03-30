@@ -3,9 +3,9 @@ title: "Section 19195 - Interagency working group"
 usc_title: 42
 usc_section: "19195"
 chapter: 163
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19195"
-generated_at: "2026-03-30T02:48:46.953Z"
+generated_at: "2026-03-30T02:52:03.240Z"
 ---
 
 # § 19195. Interagency working group

@@ -3,9 +3,9 @@ title: "Section 3224 - Evaluations and research"
 usc_title: 29
 usc_section: "3224"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 3224"
-generated_at: "2026-03-30T02:47:57.934Z"
+generated_at: "2026-03-30T02:50:58.701Z"
 ---
 
 # § 3224. Evaluations and research

@@ -3,9 +3,9 @@ title: "Section 10604 - Corporate powers and obligations of the Foundation"
 usc_title: 22
 usc_section: "10604"
 chapter: 113
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 10604"
-generated_at: "2026-03-30T02:47:52.785Z"
+generated_at: "2026-03-30T02:50:53.174Z"
 ---
 
 # § 10604. Corporate powers and obligations of the Foundation

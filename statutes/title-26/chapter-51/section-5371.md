@@ -3,9 +3,9 @@ title: "Section 5371 - Insurance coverage, etc."
 usc_title: 26
 usc_section: "5371"
 chapter: 51
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 5371"
-generated_at: "2026-03-30T02:48:06.714Z"
+generated_at: "2026-03-30T02:51:05.571Z"
 ---
 
 # § 5371. Insurance coverage, etc.

@@ -3,9 +3,9 @@ title: "Section 5791a - Transferred"
 usc_title: 42
 usc_section: "5791a"
 chapter: 72
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 5791a"
-generated_at: "2026-03-30T02:48:46.606Z"
+generated_at: "2026-03-30T02:52:02.808Z"
 ---
 
 # § 5791a. Transferred

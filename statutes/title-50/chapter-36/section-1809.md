@@ -3,9 +3,9 @@ title: "Section 1809 - Criminal sanctions"
 usc_title: 50
 usc_section: "1809"
 chapter: 36
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 1809"
-generated_at: "2026-03-30T02:49:17.594Z"
+generated_at: "2026-03-30T02:52:24.455Z"
 ---
 
 # § 1809. Criminal sanctions

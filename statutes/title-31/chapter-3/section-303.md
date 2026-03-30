@@ -3,9 +3,9 @@ title: "Section 303 - Bureau of Engraving and Printing"
 usc_title: 31
 usc_section: "303"
 chapter: 3
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "31 U.S.C. § 303"
-generated_at: "2026-03-30T02:48:11.351Z"
+generated_at: "2026-03-30T02:51:12.272Z"
 ---
 
 # § 303. Bureau of Engraving and Printing

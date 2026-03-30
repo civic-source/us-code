@@ -3,9 +3,9 @@ title: "Section 195b - Fees for witnesses requested to appear before Majority Po
 usc_title: 2
 usc_section: "195b"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "2 U.S.C. § 195b"
-generated_at: "2026-03-30T02:46:39.268Z"
+generated_at: "2026-03-30T02:50:03.241Z"
 ---
 
 # § 195b. Fees for witnesses requested to appear before Majority Policy Committee or Minority Policy Committee

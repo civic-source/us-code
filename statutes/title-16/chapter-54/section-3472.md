@@ -3,9 +3,9 @@ title: "Section 3472 - Conservation tillage; Congressional findings, etc."
 usc_title: 16
 usc_section: "3472"
 chapter: 54
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 3472"
-generated_at: "2026-03-30T02:47:42.590Z"
+generated_at: "2026-03-30T02:50:43.254Z"
 ---
 
 # § 3472. Conservation tillage; Congressional findings, etc.

@@ -3,9 +3,9 @@ title: "Section 3227a - Degree-granting authority"
 usc_title: 50
 usc_section: "3227a"
 chapter: 44
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3227a"
-generated_at: "2026-03-30T02:49:17.644Z"
+generated_at: "2026-03-30T02:52:24.509Z"
 ---
 
 # § 3227a. Degree-granting authority

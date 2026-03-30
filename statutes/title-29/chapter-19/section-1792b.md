@@ -3,9 +3,9 @@ title: "Section 1792b - Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug
 usc_title: 29
 usc_section: "1792b"
 chapter: 19
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 1792b"
-generated_at: "2026-03-30T02:47:57.910Z"
+generated_at: "2026-03-30T02:50:58.680Z"
 ---
 
 # §§ 1792 to 1792b. Repealed. Pub. L. 105–220, title I, § 199(b)(2) , Aug. 7, 1998 , 112 Stat. 1059

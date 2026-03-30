@@ -3,9 +3,9 @@ title: "Section 4632 - Administration; relocation assistance in programs receivi
 usc_title: 42
 usc_section: "4632"
 chapter: 61
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 4632"
-generated_at: "2026-03-30T02:48:46.574Z"
+generated_at: "2026-03-30T02:52:02.761Z"
 ---
 
 # § 4632. Administration; relocation assistance in programs receiving Federal financial assistance

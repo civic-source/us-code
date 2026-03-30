@@ -3,9 +3,9 @@ title: "Section 507 - Violation of Great Lakes Agreement"
 usc_title: 47
 usc_section: "507"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "47 U.S.C. § 507"
-generated_at: "2026-03-30T02:48:50.413Z"
+generated_at: "2026-03-30T02:52:17.326Z"
 ---
 
 # § 507. Violation of Great Lakes Agreement

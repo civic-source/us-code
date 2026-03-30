@@ -3,9 +3,9 @@ title: "Section 761 - Repayment of excess of deposits to cover cost of surveys o
 usc_title: 43
 usc_section: "761"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 761"
-generated_at: "2026-03-30T02:48:28.913Z"
+generated_at: "2026-03-30T02:51:38.296Z"
 ---
 
 # § 761. Repayment of excess of deposits to cover cost of surveys of mineral lands

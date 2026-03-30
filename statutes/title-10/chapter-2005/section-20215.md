@@ -3,9 +3,9 @@ title: "Section 20215 - Recommendations for promotion by selection boards"
 usc_title: 10
 usc_section: "20215"
 chapter: 2005
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 20215"
-generated_at: "2026-03-30T02:47:08.631Z"
+generated_at: "2026-03-30T02:50:18.751Z"
 ---
 
 # § 20215. Recommendations for promotion by selection boards

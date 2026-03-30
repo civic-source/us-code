@@ -3,9 +3,9 @@ title: "Section 1903 - Annual Board of Visitors"
 usc_title: 14
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "14 U.S.C. § 1903"
-generated_at: "2026-03-30T02:47:11.357Z"
+generated_at: "2026-03-30T02:50:21.613Z"
 ---
 
 # § 1903. Annual Board of Visitors

@@ -3,9 +3,9 @@ title: "Section 7013 - Secretary of the Army"
 usc_title: 10
 usc_section: "7013"
 chapter: 703
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 7013"
-generated_at: "2026-03-30T02:47:08.573Z"
+generated_at: "2026-03-30T02:50:18.683Z"
 ---
 
 # § 7013. Secretary of the Army

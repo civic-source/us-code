@@ -3,9 +3,9 @@ title: "Section 9435 - Dean of the Faculty"
 usc_title: 10
 usc_section: "9435"
 chapter: 953
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 9435"
-generated_at: "2026-03-30T02:47:08.606Z"
+generated_at: "2026-03-30T02:50:18.722Z"
 ---
 
 # § 9435. Dean of the Faculty

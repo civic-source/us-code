@@ -3,9 +3,9 @@ title: "Section 8548 - Liability"
 usc_title: 16
 usc_section: "8548"
 chapter: 103
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 8548"
-generated_at: "2026-03-30T02:47:42.656Z"
+generated_at: "2026-03-30T02:50:43.323Z"
 ---
 
 # § 8548. Liability

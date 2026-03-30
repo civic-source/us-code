@@ -3,9 +3,9 @@ title: "Section 512 - Obstruction of navigation"
 usc_title: 33
 usc_section: "512"
 chapter: 11
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "33 U.S.C. § 512"
-generated_at: "2026-03-30T02:48:12.774Z"
+generated_at: "2026-03-30T02:51:10.336Z"
 ---
 
 # § 512. Obstruction of navigation

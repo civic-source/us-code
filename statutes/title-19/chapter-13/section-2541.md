@@ -3,9 +3,9 @@ title: "Section 2541 - Functions of Trade Representative"
 usc_title: 19
 usc_section: "2541"
 chapter: 13
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "19 U.S.C. § 2541"
-generated_at: "2026-03-30T02:47:37.176Z"
+generated_at: "2026-03-30T02:50:36.576Z"
 ---
 
 # § 2541. Functions of Trade Representative

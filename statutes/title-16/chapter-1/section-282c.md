@@ -3,9 +3,9 @@ title: "Section 282c - Authorization of appropriations"
 usc_title: 16
 usc_section: "282c"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 282c"
-generated_at: "2026-03-30T02:47:42.308Z"
+generated_at: "2026-03-30T02:50:42.960Z"
 ---
 
 # § 282c. Authorization of appropriations

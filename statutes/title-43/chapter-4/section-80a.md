@@ -3,9 +3,9 @@ title: "Section 80a - Repealed. Apr. 24, 1944, ch. 177, § 4 , 58 Stat. 215"
 usc_title: 43
 usc_section: "80a"
 chapter: 4
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 80a"
-generated_at: "2026-03-30T02:48:28.885Z"
+generated_at: "2026-03-30T02:51:38.275Z"
 ---
 
 # §§ 80, 80a. Repealed. Apr. 24, 1944, ch. 177, § 4 , 58 Stat. 215

@@ -3,9 +3,9 @@ title: "Section 419 - Special provisions concerning overseas contingency operati
 usc_title: 5
 usc_section: "419"
 chapter: 4
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 419"
-generated_at: "2026-03-30T02:46:37.986Z"
+generated_at: "2026-03-30T02:49:55.153Z"
 ---
 
 # § 419. Special provisions concerning overseas contingency operations

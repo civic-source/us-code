@@ -3,9 +3,9 @@ title: "Section 4504 - Administrative provisions"
 usc_title: 16
 usc_section: "4504"
 chapter: 65
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 4504"
-generated_at: "2026-03-30T02:47:42.615Z"
+generated_at: "2026-03-30T02:50:43.278Z"
 ---
 
 # § 4504. Administrative provisions

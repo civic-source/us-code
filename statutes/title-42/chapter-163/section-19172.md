@@ -3,9 +3,9 @@ title: "Section 19172 - National Science Foundation rural STEM activities"
 usc_title: 42
 usc_section: "19172"
 chapter: 163
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19172"
-generated_at: "2026-03-30T02:48:46.952Z"
+generated_at: "2026-03-30T02:52:03.238Z"
 ---
 
 # § 19172. National Science Foundation rural STEM activities

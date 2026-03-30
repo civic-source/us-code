@@ -3,9 +3,9 @@ title: "Section 99 - Repayment of moneys deposited and covered into Treasury"
 usc_title: 43
 usc_section: "99"
 chapter: 4
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 99"
-generated_at: "2026-03-30T02:48:28.885Z"
+generated_at: "2026-03-30T02:51:38.275Z"
 ---
 
 # § 99. Repayment of moneys deposited and covered into Treasury

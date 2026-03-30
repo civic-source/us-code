@@ -3,9 +3,9 @@ title: "Section 2332 - Shoreline and riverine protection and restoration"
 usc_title: 33
 usc_section: "2332"
 chapter: 36
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "33 U.S.C. § 2332"
-generated_at: "2026-03-30T02:48:12.863Z"
+generated_at: "2026-03-30T02:51:10.410Z"
 ---
 
 # § 2332. Shoreline and riverine protection and restoration

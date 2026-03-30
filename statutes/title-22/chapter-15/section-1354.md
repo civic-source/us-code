@@ -3,9 +3,9 @@ title: "Section 1354 - Quotas on Philippine articles"
 usc_title: 22
 usc_section: "1354"
 chapter: 15
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 1354"
-generated_at: "2026-03-30T02:47:52.584Z"
+generated_at: "2026-03-30T02:50:52.995Z"
 ---
 
 # § 1354. Quotas on Philippine articles

@@ -3,9 +3,9 @@ title: "Section 7231h - Limitations"
 usc_title: 20
 usc_section: "7231h"
 chapter: 70
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 7231h"
-generated_at: "2026-03-30T02:47:29.685Z"
+generated_at: "2026-03-30T02:50:39.265Z"
 ---
 
 # § 7231h. Limitations

@@ -3,9 +3,9 @@ title: "Section 1229 - Modification of plan after confirmation"
 usc_title: 11
 usc_section: "1229"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "11 U.S.C. § 1229"
-generated_at: "2026-03-30T02:47:11.939Z"
+generated_at: "2026-03-30T02:50:22.383Z"
 ---
 
 # § 1229. Modification of plan after confirmation

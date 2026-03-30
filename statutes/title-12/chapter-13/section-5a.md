@@ -3,9 +3,9 @@ title: "Section 5a - Transfer of New Communities Fund assets and liabilities"
 usc_title: 12
 usc_section: "5a"
 chapter: 13
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 5a"
-generated_at: "2026-03-30T02:47:16.097Z"
+generated_at: "2026-03-30T02:50:26.378Z"
 ---
 
 # § 1701g–5a. Transfer of New Communities Fund assets and liabilities

@@ -3,9 +3,9 @@ title: "Section 2113 - Definition"
 usc_title: 28
 usc_section: "2113"
 chapter: 133
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "28 U.S.C. § 2113"
-generated_at: "2026-03-30T02:47:58.866Z"
+generated_at: "2026-03-30T02:50:56.782Z"
 ---
 
 # § 2113. Definition

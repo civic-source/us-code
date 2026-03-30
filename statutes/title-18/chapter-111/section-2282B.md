@@ -3,9 +3,9 @@ title: "Section 2282B - Violence against aids to maritime navigation"
 usc_title: 18
 usc_section: "2282B"
 chapter: 111
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 2282B"
-generated_at: "2026-03-30T02:47:34.141Z"
+generated_at: "2026-03-30T02:50:34.968Z"
 ---
 
 # § 2282B. Violence against aids to maritime navigation

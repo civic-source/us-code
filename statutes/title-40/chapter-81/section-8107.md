@@ -3,9 +3,9 @@ title: "Section 8107 - Advertisements and sales in or around Washington Monument
 usc_title: 40
 usc_section: "8107"
 chapter: 81
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "40 U.S.C. § 8107"
-generated_at: "2026-03-30T02:48:15.455Z"
+generated_at: "2026-03-30T02:51:19.773Z"
 ---
 
 # § 8107. Advertisements and sales in or around Washington Monument

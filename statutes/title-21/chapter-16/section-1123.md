@@ -3,9 +3,9 @@ title: "Section 1123 - Repealed. Pub. L. 92–255, title I, § 104 , Mar. 21, 19
 usc_title: 21
 usc_section: "1123"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "21 U.S.C. § 1123"
-generated_at: "2026-03-30T02:47:48.038Z"
+generated_at: "2026-03-30T02:50:49.568Z"
 ---
 
 # §§ 1121 to 1123. Repealed. Pub. L. 92–255, title I, § 104 , Mar. 21, 1972 , 86 Stat. 67

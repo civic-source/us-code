@@ -3,9 +3,9 @@ title: "Section 3122 - Local workforce development boards"
 usc_title: 29
 usc_section: "3122"
 chapter: 32
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 3122"
-generated_at: "2026-03-30T02:47:57.923Z"
+generated_at: "2026-03-30T02:50:58.691Z"
 ---
 
 # § 3122. Local workforce development boards

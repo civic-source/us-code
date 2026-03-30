@@ -3,9 +3,9 @@ title: "Section 17064 - Smart building acceleration"
 usc_title: 42
 usc_section: "17064"
 chapter: 152
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 17064"
-generated_at: "2026-03-30T02:48:46.898Z"
+generated_at: "2026-03-30T02:52:03.172Z"
 ---
 
 # § 17064. Smart building acceleration

@@ -3,9 +3,9 @@ title: "Section 2022A - Legal services for homeless veterans and veterans at ris
 usc_title: 38
 usc_section: "2022A"
 chapter: 20
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 2022A"
-generated_at: "2026-03-30T02:48:19.024Z"
+generated_at: "2026-03-30T02:51:18.038Z"
 ---
 
 # § 2022A. Legal services for homeless veterans and veterans at risk for homelessness

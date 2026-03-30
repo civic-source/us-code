@@ -3,9 +3,9 @@ title: "Section 19271 - Establishment of blockchain and cryptocurrency specialis
 usc_title: 42
 usc_section: "19271"
 chapter: 163
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19271"
-generated_at: "2026-03-30T02:48:46.956Z"
+generated_at: "2026-03-30T02:52:03.242Z"
 ---
 
 # § 19271. Establishment of blockchain and cryptocurrency specialist position within OSTP

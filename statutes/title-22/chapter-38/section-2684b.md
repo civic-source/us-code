@@ -3,9 +3,9 @@ title: "Section 2684b - Strengthening the Chief Information Officer of the Depar
 usc_title: 22
 usc_section: "2684b"
 chapter: 38
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2684b"
-generated_at: "2026-03-30T02:47:52.646Z"
+generated_at: "2026-03-30T02:50:53.051Z"
 ---
 
 # § 2684b. Strengthening the Chief Information Officer of the Department of State

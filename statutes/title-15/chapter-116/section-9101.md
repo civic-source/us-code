@@ -3,9 +3,9 @@ title: "Section 9101 - Funding"
 usc_title: 15
 usc_section: "9101"
 chapter: 116
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 9101"
-generated_at: "2026-03-30T02:47:19.824Z"
+generated_at: "2026-03-30T02:50:30.082Z"
 ---
 
 # § 9101. Funding

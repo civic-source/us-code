@@ -3,9 +3,9 @@ title: "Section 290ff - Comprehensive community mental health services for child
 usc_title: 42
 usc_section: "290ff"
 chapter: 6
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 290ff"
-generated_at: "2026-03-30T02:48:46.073Z"
+generated_at: "2026-03-30T02:52:02.132Z"
 ---
 
 # § 290ff. Comprehensive community mental health services for children with serious emotional disturbances

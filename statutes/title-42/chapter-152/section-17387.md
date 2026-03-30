@@ -3,9 +3,9 @@ title: "Section 17387 - Integrated energy systems"
 usc_title: 42
 usc_section: "17387"
 chapter: 152
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 17387"
-generated_at: "2026-03-30T02:48:46.913Z"
+generated_at: "2026-03-30T02:52:03.192Z"
 ---
 
 # § 17387. Integrated energy systems

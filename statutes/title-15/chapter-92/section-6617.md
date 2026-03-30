@@ -3,9 +3,9 @@ title: "Section 6617 - Suspension of penalties for certain year 2000 failures by
 usc_title: 15
 usc_section: "6617"
 chapter: 92
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 6617"
-generated_at: "2026-03-30T02:47:19.778Z"
+generated_at: "2026-03-30T02:50:30.040Z"
 ---
 
 # § 6617. Suspension of penalties for certain year 2000 failures by small business concerns

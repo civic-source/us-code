@@ -3,9 +3,9 @@ title: "Section 3102 - Attachment"
 usc_title: 28
 usc_section: "3102"
 chapter: 176
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "28 U.S.C. § 3102"
-generated_at: "2026-03-30T02:47:58.874Z"
+generated_at: "2026-03-30T02:50:56.788Z"
 ---
 
 # § 3102. Attachment

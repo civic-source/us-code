@@ -3,9 +3,9 @@ title: "Section 1450 - Attachment or sequestration; securities"
 usc_title: 28
 usc_section: "1450"
 chapter: 89
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "28 U.S.C. § 1450"
-generated_at: "2026-03-30T02:47:58.859Z"
+generated_at: "2026-03-30T02:50:56.775Z"
 ---
 
 # § 1450. Attachment or sequestration; securities

@@ -3,9 +3,9 @@ title: "Section 8909 - Employees Health Benefits Fund"
 usc_title: 5
 usc_section: "8909"
 chapter: 89
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "5 U.S.C. § 8909"
-generated_at: "2026-03-30T02:46:38.071Z"
+generated_at: "2026-03-30T02:49:55.234Z"
 ---
 
 # § 8909. Employees Health Benefits Fund

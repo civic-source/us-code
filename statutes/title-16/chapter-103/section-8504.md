@@ -3,9 +3,9 @@ title: "Section 8504 - National strategy for military and veteran recreation"
 usc_title: 16
 usc_section: "8504"
 chapter: 103
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 8504"
-generated_at: "2026-03-30T02:47:42.655Z"
+generated_at: "2026-03-30T02:50:43.322Z"
 ---
 
 # § 8504. National strategy for military and veteran recreation

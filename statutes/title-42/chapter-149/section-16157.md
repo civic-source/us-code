@@ -3,9 +3,9 @@ title: "Section 16157 - Demonstration"
 usc_title: 42
 usc_section: "16157"
 chapter: 149
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 16157"
-generated_at: "2026-03-30T02:48:46.872Z"
+generated_at: "2026-03-30T02:52:03.142Z"
 ---
 
 # § 16157. Demonstration

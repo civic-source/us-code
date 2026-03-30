@@ -3,9 +3,9 @@ title: "Section 2581 - General authority of Secretary of State"
 usc_title: 22
 usc_section: "2581"
 chapter: 35
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2581"
-generated_at: "2026-03-30T02:47:52.639Z"
+generated_at: "2026-03-30T02:50:53.045Z"
 ---
 
 # § 2581. General authority of Secretary of State

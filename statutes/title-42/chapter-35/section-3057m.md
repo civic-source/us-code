@@ -3,9 +3,9 @@ title: "Section 3057m - Payments"
 usc_title: 42
 usc_section: "3057m"
 chapter: 35
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 3057m"
-generated_at: "2026-03-30T02:48:46.541Z"
+generated_at: "2026-03-30T02:52:02.720Z"
 ---
 
 # § 3057m. Payments

@@ -3,9 +3,9 @@ title: "Section 7385s - Definitions"
 usc_title: 42
 usc_section: "7385s"
 chapter: 84
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 7385s"
-generated_at: "2026-03-30T02:48:46.669Z"
+generated_at: "2026-03-30T02:52:02.888Z"
 ---
 
 # § 7385s. Definitions

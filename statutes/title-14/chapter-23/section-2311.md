@@ -3,9 +3,9 @@ title: "Section 2311 - Retirement in cases where higher grade or rating has been
 usc_title: 14
 usc_section: "2311"
 chapter: 23
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "14 U.S.C. § 2311"
-generated_at: "2026-03-30T02:47:11.362Z"
+generated_at: "2026-03-30T02:50:21.618Z"
 ---
 
 # § 2311. Retirement in cases where higher grade or rating has been held

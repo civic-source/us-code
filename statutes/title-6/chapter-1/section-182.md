@@ -3,9 +3,9 @@ title: "Section 182 - Responsibilities and authorities of the Under Secretary fo
 usc_title: 6
 usc_section: "182"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "6 U.S.C. § 182"
-generated_at: "2026-03-30T02:46:41.910Z"
+generated_at: "2026-03-30T02:50:05.807Z"
 ---
 
 # § 182. Responsibilities and authorities of the Under Secretary for Science and Technology

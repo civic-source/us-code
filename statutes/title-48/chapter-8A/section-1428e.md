@@ -3,9 +3,9 @@ title: "Section 1428e - Audit of books and records of agency, or agencies, admin
 usc_title: 48
 usc_section: "1428e"
 chapter: 8
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "48 U.S.C. § 1428e"
-generated_at: "2026-03-30T02:48:50.954Z"
+generated_at: "2026-03-30T02:52:10.387Z"
 ---
 
 # § 1428e. Audit of books and records of agency, or agencies, administering loan funds

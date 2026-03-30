@@ -3,9 +3,9 @@ title: "Section 14094 - Transferred"
 usc_title: 42
 usc_section: "14094"
 chapter: 136
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 14094"
-generated_at: "2026-03-30T02:48:46.849Z"
+generated_at: "2026-03-30T02:52:03.112Z"
 ---
 
 # § 14094. Transferred

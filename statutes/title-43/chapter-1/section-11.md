@@ -3,9 +3,9 @@ title: "Section 11 - Restriction on officers, clerks, and employees"
 usc_title: 43
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 11"
-generated_at: "2026-03-30T02:48:28.882Z"
+generated_at: "2026-03-30T02:51:38.271Z"
 ---
 
 # § 11. Restriction on officers, clerks, and employees

@@ -3,9 +3,9 @@ title: "Section 931 - Rural Electrification and Telephone Revolving Fund"
 usc_title: 7
 usc_section: "931"
 chapter: 31
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 931"
-generated_at: "2026-03-30T02:46:47.523Z"
+generated_at: "2026-03-30T02:50:11.541Z"
 ---
 
 # § 931. Rural Electrification and Telephone Revolving Fund

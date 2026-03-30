@@ -3,9 +3,9 @@ title: "Section 403j - Authorization of appropriation"
 usc_title: 16
 usc_section: "403j"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 403j"
-generated_at: "2026-03-30T02:47:42.316Z"
+generated_at: "2026-03-30T02:50:42.970Z"
 ---
 
 # § 403j. Authorization of appropriation

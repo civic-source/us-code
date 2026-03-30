@@ -3,9 +3,9 @@ title: "Section 7705 - Businesses knowingly promoted by electronic mail with fal
 usc_title: 15
 usc_section: "7705"
 chapter: 103
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 7705"
-generated_at: "2026-03-30T02:47:19.795Z"
+generated_at: "2026-03-30T02:50:30.056Z"
 ---
 
 # § 7705. Businesses knowingly promoted by electronic mail with false or misleading transmission information

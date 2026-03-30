@@ -3,9 +3,9 @@ title: "Section 730 - State allotments"
 usc_title: 29
 usc_section: "730"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 730"
-generated_at: "2026-03-30T02:47:57.849Z"
+generated_at: "2026-03-30T02:50:58.628Z"
 ---
 
 # § 730. State allotments

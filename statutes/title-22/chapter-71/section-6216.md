@@ -3,9 +3,9 @@ title: "Section 6216 - Special authority for surge capacity"
 usc_title: 22
 usc_section: "6216"
 chapter: 71
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 6216"
-generated_at: "2026-03-30T02:47:52.715Z"
+generated_at: "2026-03-30T02:50:53.111Z"
 ---
 
 # § 6216. Special authority for surge capacity

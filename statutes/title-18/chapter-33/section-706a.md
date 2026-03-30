@@ -3,9 +3,9 @@ title: "Section 706a - Geneva distinctive emblems"
 usc_title: 18
 usc_section: "706a"
 chapter: 33
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "18 U.S.C. § 706a"
-generated_at: "2026-03-30T02:47:34.106Z"
+generated_at: "2026-03-30T02:50:34.934Z"
 ---
 
 # § 706a. Geneva distinctive emblems

@@ -3,9 +3,9 @@ title: "Section 1743 - Disclosure of financial interests by officers or employee
 usc_title: 43
 usc_section: "1743"
 chapter: 35
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 1743"
-generated_at: "2026-03-30T02:48:28.948Z"
+generated_at: "2026-03-30T02:51:38.322Z"
 ---
 
 # § 1743. Disclosure of financial interests by officers or employees

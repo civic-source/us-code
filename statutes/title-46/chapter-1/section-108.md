@@ -3,9 +3,9 @@ title: "Section 108 - Fisheries"
 usc_title: 46
 usc_section: "108"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "46 U.S.C. § 108"
-generated_at: "2026-03-30T02:48:52.028Z"
+generated_at: "2026-03-30T02:52:21.745Z"
 ---
 
 # § 108. Fisheries

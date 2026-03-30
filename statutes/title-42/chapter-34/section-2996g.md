@@ -3,9 +3,9 @@ title: "Section 2996g - Records and reports"
 usc_title: 42
 usc_section: "2996g"
 chapter: 34
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 2996g"
-generated_at: "2026-03-30T02:48:46.528Z"
+generated_at: "2026-03-30T02:52:02.704Z"
 ---
 
 # § 2996g. Records and reports

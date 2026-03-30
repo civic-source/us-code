@@ -3,9 +3,9 @@ title: "Section 6403 - Referenda"
 usc_title: 15
 usc_section: "6403"
 chapter: 90
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 6403"
-generated_at: "2026-03-30T02:47:19.774Z"
+generated_at: "2026-03-30T02:50:30.037Z"
 ---
 
 # § 6403. Referenda

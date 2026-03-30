@@ -3,9 +3,9 @@ title: "Section 1162 - Definition"
 usc_title: 11
 usc_section: "1162"
 chapter: 11
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "11 U.S.C. § 1162"
-generated_at: "2026-03-30T02:47:11.936Z"
+generated_at: "2026-03-30T02:50:22.381Z"
 ---
 
 # § 1162. Definition

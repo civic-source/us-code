@@ -3,9 +3,9 @@ title: "Section 7125 - Resource advisory committees"
 usc_title: 16
 usc_section: "7125"
 chapter: 90
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 7125"
-generated_at: "2026-03-30T02:47:42.641Z"
+generated_at: "2026-03-30T02:50:43.306Z"
 ---
 
 # § 7125. Resource advisory committees
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T02:47:42.641Z"
   - **(6)** make recommendations to the Secretary concerned for any appropriate changes or adjustments to the projects being monitored by the resource advisory committee.
 - **(c)**
   - **(1)**
-    - **(A)** The Secretary concerned, 1 shall appoint the members of resource advisory committees for a term of 4 years beginning on the date of appointment.
+    - **(A)** The Secretary concerned shall appoint the members of resource advisory committees for a term of 4 years beginning on the date of appointment.
     - **(B)** The Secretary concerned may reappoint members to subsequent 4-year terms.
   - **(2)** The Secretary concerned shall ensure that each resource advisory committee established meets the requirements of subsection (d).
   - **(3)** Not later than 180 days after October 3, 2008 , the Secretary concerned shall make initial appointments to the resource advisory committees.
@@ -61,14 +61,14 @@ generated_at: "2026-03-30T02:47:42.641Z"
       - **(iv)** are school officials or teachers; or
       - **(v)** represent the affected public at large.
   - **(3)** In appointing committee members from the 3 categories in paragraph (2), the Secretary concerned shall provide for balanced and broad representation from within each category.
-  - **(4)** The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to extent 2 2 So in original. Probably should be preceded by “the”. practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
+  - **(4)** The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to the extent practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
   - **(5)** A majority on each resource advisory committee shall select the chairperson of the committee.
   - **(6)**
     - **(A)** On notice from the applicable regional forester that an adequate number of qualified candidates are not interested or available to serve on a resource advisory committee, the Secretary concerned shall publish a notice in the Federal Register seeking candidates for the resource advisory committee.
     - **(B)** If, by the date that is 30 days after the date of publication of notice under subparagraph (A), an inadequate number of qualified candidates have applied to serve on a resource advisory committee, the Secretary concerned may reduce—
       - **(i)** the membership requirement under paragraph (1) to not fewer than 9; and
       - **(ii)** the membership requirements under subparagraphs (A), (B), and (C) of paragraph (2) to 3 in each category described in that paragraph, except that where a vacancy exists on a resource advisory committee, the Secretary concerned may not reject a qualified applicant from any category.
-    - **(C)** The authority provided under this paragraph terminates on October 1, 2023 .
+    - **(C)** The authority provided under this paragraph terminates on October 1, 2026 .
 - **(e)**
   - **(1)** Subject to paragraph (3), each resource advisory committee shall establish procedures for proposing projects to the Secretary concerned under this subchapter.
   - **(2)** A quorum must be present to constitute an official meeting of the committee.
@@ -101,9 +101,4 @@ generated_at: "2026-03-30T02:47:42.641Z"
       - **(i)** the State of Montana; or
       - **(ii)** the State of Arizona.
     - **(E)** Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
-  - **(5)** The authority provided under this subsection terminates on October 1, 2023 .
-  - **(6)** Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
-    - **(A)** with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
-      - **(i)** appointments were faster or slower; and
-      - **(ii)** the requirements described in paragraph (3)(C)(i) differ; and
-    - **(B)** a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.
+  - **(5)** The authority provided under this subsection terminates on October 1, 2026 .

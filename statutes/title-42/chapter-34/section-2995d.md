@@ -3,9 +3,9 @@ title: "Section 2995d - Omitted"
 usc_title: 42
 usc_section: "2995d"
 chapter: 34
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 2995d"
-generated_at: "2026-03-30T02:48:46.527Z"
+generated_at: "2026-03-30T02:52:02.703Z"
 ---
 
 # § 2995d. Omitted

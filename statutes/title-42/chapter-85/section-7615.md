@@ -3,9 +3,9 @@ title: "Section 7615 - Separability"
 usc_title: 42
 usc_section: "7615"
 chapter: 85
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 7615"
-generated_at: "2026-03-30T02:48:46.700Z"
+generated_at: "2026-03-30T02:52:02.925Z"
 ---
 
 # § 7615. Separability

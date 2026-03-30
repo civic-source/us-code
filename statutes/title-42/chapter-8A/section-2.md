@@ -3,9 +3,9 @@ title: "Section 2 - Loan guarantees for multifamily rental housing in rural area
 usc_title: 42
 usc_section: "2"
 chapter: 8
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:48:46.445Z"
+generated_at: "2026-03-30T02:52:02.601Z"
 ---
 
 # § 1490p–2. Loan guarantees for multifamily rental housing in rural areas

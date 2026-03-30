@@ -3,9 +3,9 @@ title: "Section 4702 - Insurance awards by War Shipping Administrators; findings
 usc_title: 50
 usc_section: "4702"
 chapter: 57
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 4702"
-generated_at: "2026-03-30T02:49:17.691Z"
+generated_at: "2026-03-30T02:52:24.567Z"
 ---
 
 # § 4702. Insurance awards by War Shipping Administrators; findings and actions as conclusive

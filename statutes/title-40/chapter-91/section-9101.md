@@ -3,9 +3,9 @@ title: "Section 9101 - Establishment, composition, and vacancies"
 usc_title: 40
 usc_section: "9101"
 chapter: 91
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "40 U.S.C. § 9101"
-generated_at: "2026-03-30T02:48:15.457Z"
+generated_at: "2026-03-30T02:51:19.776Z"
 ---
 
 # § 9101. Establishment, composition, and vacancies

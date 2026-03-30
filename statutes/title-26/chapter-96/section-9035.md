@@ -3,9 +3,9 @@ title: "Section 9035 - Qualified campaign expense limitations"
 usc_title: 26
 usc_section: "9035"
 chapter: 96
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 9035"
-generated_at: "2026-03-30T02:48:06.800Z"
+generated_at: "2026-03-30T02:51:05.647Z"
 ---
 
 # § 9035. Qualified campaign expense limitations

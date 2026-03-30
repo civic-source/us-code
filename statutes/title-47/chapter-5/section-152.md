@@ -3,9 +3,9 @@ title: "Section 152 - Application of chapter"
 usc_title: 47
 usc_section: "152"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "47 U.S.C. § 152"
-generated_at: "2026-03-30T02:48:50.379Z"
+generated_at: "2026-03-30T02:52:17.299Z"
 ---
 
 # § 152. Application of chapter

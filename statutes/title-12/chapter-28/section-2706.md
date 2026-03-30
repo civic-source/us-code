@@ -3,9 +3,9 @@ title: "Section 2706 - Emergency Homeowners’ Relief Fund"
 usc_title: 12
 usc_section: "2706"
 chapter: 28
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 2706"
-generated_at: "2026-03-30T02:47:16.219Z"
+generated_at: "2026-03-30T02:50:26.493Z"
 ---
 
 # § 2706. Emergency Homeowners’ Relief Fund

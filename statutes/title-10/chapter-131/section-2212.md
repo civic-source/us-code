@@ -3,9 +3,9 @@ title: "Section 2212 - Renumbered § 3138]"
 usc_title: 10
 usc_section: "2212"
 chapter: 131
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 2212"
-generated_at: "2026-03-30T02:47:08.500Z"
+generated_at: "2026-03-30T02:50:18.594Z"
 ---
 
 # [§ 2212. Renumbered § 3138]

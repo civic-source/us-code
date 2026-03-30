@@ -3,9 +3,9 @@ title: "Section 2544 - Modernization and consolidation of tritium recycling faci
 usc_title: 50
 usc_section: "2544"
 chapter: 42
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 2544"
-generated_at: "2026-03-30T02:49:17.618Z"
+generated_at: "2026-03-30T02:52:24.481Z"
 ---
 
 # § 2544. Modernization and consolidation of tritium recycling facilities

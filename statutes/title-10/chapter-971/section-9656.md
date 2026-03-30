@@ -3,9 +3,9 @@ title: "Section 9656 - Aircraft and equipment: civilian aviation schools"
 usc_title: 10
 usc_section: "9656"
 chapter: 971
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 9656"
-generated_at: "2026-03-30T02:47:08.609Z"
+generated_at: "2026-03-30T02:50:18.726Z"
 ---
 
 # § 9656. Aircraft and equipment: civilian aviation schools

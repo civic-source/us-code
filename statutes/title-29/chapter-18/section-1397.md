@@ -3,9 +3,9 @@ title: "Section 1397 - Application of part in case of certain pre-1980 withdrawa
 usc_title: 29
 usc_section: "1397"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 1397"
-generated_at: "2026-03-30T02:47:57.905Z"
+generated_at: "2026-03-30T02:50:58.677Z"
 ---
 
 # § 1397. Application of part in case of certain pre-1980 withdrawals; adjustment of covered plan

@@ -3,9 +3,9 @@ title: "Section 2392 - Process for strategic basing actions for the Department o
 usc_title: 10
 usc_section: "2392"
 chapter: 141
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 2392"
-generated_at: "2026-03-30T02:47:08.509Z"
+generated_at: "2026-03-30T02:50:18.606Z"
 ---
 
 # § 2392. Process for strategic basing actions for the Department of the Air Force

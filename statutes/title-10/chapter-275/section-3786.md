@@ -3,9 +3,9 @@ title: "Section 3786 - Use or release restriction: definition"
 usc_title: 10
 usc_section: "3786"
 chapter: 275
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 3786"
-generated_at: "2026-03-30T02:47:08.552Z"
+generated_at: "2026-03-30T02:50:18.658Z"
 ---
 
 # § 3786. Use or release restriction: definition

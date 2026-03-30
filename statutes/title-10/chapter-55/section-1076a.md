@@ -3,9 +3,9 @@ title: "Section 1076a - TRICARE dental program"
 usc_title: 10
 usc_section: "1076a"
 chapter: 55
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 1076a"
-generated_at: "2026-03-30T02:47:08.452Z"
+generated_at: "2026-03-30T02:50:18.538Z"
 ---
 
 # § 1076a. TRICARE dental program

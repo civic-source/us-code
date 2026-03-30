@@ -3,9 +3,9 @@ title: "Section 1062 - Grants to institutions"
 usc_title: 20
 usc_section: "1062"
 chapter: 28
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 1062"
-generated_at: "2026-03-30T02:47:29.543Z"
+generated_at: "2026-03-30T02:50:39.123Z"
 ---
 
 # § 1062. Grants to institutions

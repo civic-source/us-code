@@ -3,9 +3,9 @@ title: "Section 4319 - Report on oversight of revenue protection and enforcement
 usc_title: 19
 usc_section: "4319"
 chapter: 28
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "19 U.S.C. § 4319"
-generated_at: "2026-03-30T02:47:37.205Z"
+generated_at: "2026-03-30T02:50:36.606Z"
 ---
 
 # § 4319. Report on oversight of revenue protection and enforcement measures

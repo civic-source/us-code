@@ -3,9 +3,9 @@ title: "Section 1731 - Application of subchapter"
 usc_title: 30
 usc_section: "1731"
 chapter: 29
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "30 U.S.C. § 1731"
-generated_at: "2026-03-30T02:47:56.192Z"
+generated_at: "2026-03-30T02:50:55.768Z"
 ---
 
 # § 1731. Application of subchapter

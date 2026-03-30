@@ -3,9 +3,9 @@ title: "Section 6902 - Establishment of program"
 usc_title: 15
 usc_section: "6902"
 chapter: 95
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 6902"
-generated_at: "2026-03-30T02:47:19.783Z"
+generated_at: "2026-03-30T02:50:30.045Z"
 ---
 
 # § 6902. Establishment of program

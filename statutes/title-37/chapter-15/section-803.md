@@ -3,9 +3,9 @@ title: "Section 803 - Commissioned officers of the Army, Air Force, or Space For
 usc_title: 37
 usc_section: "803"
 chapter: 15
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "37 U.S.C. § 803"
-generated_at: "2026-03-30T02:48:15.983Z"
+generated_at: "2026-03-30T02:51:14.777Z"
 ---
 
 # § 803. Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls

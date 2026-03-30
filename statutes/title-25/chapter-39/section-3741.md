@@ -3,9 +3,9 @@ title: "Section 3741 - Regulations"
 usc_title: 25
 usc_section: "3741"
 chapter: 39
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 3741"
-generated_at: "2026-03-30T02:47:49.287Z"
+generated_at: "2026-03-30T02:50:48.193Z"
 ---
 
 # § 3741. Regulations

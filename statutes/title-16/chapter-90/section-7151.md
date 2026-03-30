@@ -3,9 +3,9 @@ title: "Section 7151 - Regulations"
 usc_title: 16
 usc_section: "7151"
 chapter: 90
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 7151"
-generated_at: "2026-03-30T02:47:42.642Z"
+generated_at: "2026-03-30T02:50:43.307Z"
 ---
 
 # § 7151. Regulations

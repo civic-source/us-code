@@ -3,9 +3,9 @@ title: "Section 441o - Facilities for interpretation of park and history of Siou
 usc_title: 16
 usc_section: "441o"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 441o"
-generated_at: "2026-03-30T02:47:42.362Z"
+generated_at: "2026-03-30T02:50:43.014Z"
 ---
 
 # § 441o. Facilities for interpretation of park and history of Sioux Nation; conveyance of reservation lands; submission of terms to Congressional committees

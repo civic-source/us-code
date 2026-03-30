@@ -3,9 +3,9 @@ title: "Section 40729 - Reservation of firearms, ammunition, and parts"
 usc_title: 36
 usc_section: "40729"
 chapter: 407
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 40729"
-generated_at: "2026-03-30T02:48:16.857Z"
+generated_at: "2026-03-30T02:51:20.883Z"
 ---
 
 # § 40729. Reservation of firearms, ammunition, and parts

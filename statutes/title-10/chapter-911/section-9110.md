@@ -3,9 +3,9 @@ title: "Section 9110 - Regular Air Force: strength in grade; general officers"
 usc_title: 10
 usc_section: "9110"
 chapter: 911
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 9110"
-generated_at: "2026-03-30T02:47:08.603Z"
+generated_at: "2026-03-30T02:50:18.720Z"
 ---
 
 # § 9110. Regular Air Force: strength in grade; general officers

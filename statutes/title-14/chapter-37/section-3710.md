@@ -3,9 +3,9 @@ title: "Section 3710 - Reserve student pre-commissioning assistance program"
 usc_title: 14
 usc_section: "3710"
 chapter: 37
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "14 U.S.C. § 3710"
-generated_at: "2026-03-30T02:47:11.367Z"
+generated_at: "2026-03-30T02:50:21.622Z"
 ---
 
 # § 3710. Reserve student pre-commissioning assistance program

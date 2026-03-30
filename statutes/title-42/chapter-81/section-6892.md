@@ -3,9 +3,9 @@ title: "Section 6892 - Annual report to Congress by Comptroller General"
 usc_title: 42
 usc_section: "6892"
 chapter: 81
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 6892"
-generated_at: "2026-03-30T02:48:46.643Z"
+generated_at: "2026-03-30T02:52:02.854Z"
 ---
 
 # § 6892. Annual report to Congress by Comptroller General

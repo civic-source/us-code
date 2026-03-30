@@ -3,9 +3,9 @@ title: "Section 1185k - Other patient protections"
 usc_title: 29
 usc_section: "1185k"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 1185k"
-generated_at: "2026-03-30T02:47:57.892Z"
+generated_at: "2026-03-30T02:50:58.666Z"
 ---
 
 # § 1185k. Other patient protections

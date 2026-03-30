@@ -3,9 +3,9 @@ title: "Section 1073f - Health care fraud and abuse prevention program"
 usc_title: 10
 usc_section: "1073f"
 chapter: 55
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 1073f"
-generated_at: "2026-03-30T02:47:08.450Z"
+generated_at: "2026-03-30T02:50:18.533Z"
 ---
 
 # § 1073f. Health care fraud and abuse prevention program

@@ -3,9 +3,9 @@ title: "Section 3155 - Training for personnel outside acquisition workforce"
 usc_title: 10
 usc_section: "3155"
 chapter: 209
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 3155"
-generated_at: "2026-03-30T02:47:08.542Z"
+generated_at: "2026-03-30T02:50:18.647Z"
 ---
 
 # § 3155. Training for personnel outside acquisition workforce

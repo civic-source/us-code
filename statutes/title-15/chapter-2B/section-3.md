@@ -3,9 +3,9 @@ title: "Section 3 - Prohibited foreign trade practices by persons other than iss
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:47:19.556Z"
+generated_at: "2026-03-30T02:50:29.842Z"
 ---
 
 # § 78dd–3. Prohibited foreign trade practices by persons other than issuers or domestic concerns

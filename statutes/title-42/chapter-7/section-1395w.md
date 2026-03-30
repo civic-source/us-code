@@ -3,9 +3,9 @@ title: "Section 1395w - Appropriations to cover Government contributions and con
 usc_title: 42
 usc_section: "1395w"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 1395w"
-generated_at: "2026-03-30T02:48:46.287Z"
+generated_at: "2026-03-30T02:52:02.403Z"
 ---
 
 # § 1395w. Appropriations to cover Government contributions and contingency reserve

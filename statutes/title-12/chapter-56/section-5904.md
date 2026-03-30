@@ -3,9 +3,9 @@ title: "Section 5904 - Approval of subsidiaries of insured depository institutio
 usc_title: 12
 usc_section: "5904"
 chapter: 56
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 5904"
-generated_at: "2026-03-30T02:47:16.306Z"
+generated_at: "2026-03-30T02:50:26.577Z"
 ---
 
 # § 5904. Approval of subsidiaries of insured depository institutions and Federal qualified payment stablecoin issuers

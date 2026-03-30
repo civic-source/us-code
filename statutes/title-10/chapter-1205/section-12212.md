@@ -3,9 +3,9 @@ title: "Section 12212 - Officers: Air National Guard of the United States"
 usc_title: 10
 usc_section: "12212"
 chapter: 1205
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 12212"
-generated_at: "2026-03-30T02:47:08.617Z"
+generated_at: "2026-03-30T02:50:18.735Z"
 ---
 
 # § 12212. Officers: Air National Guard of the United States

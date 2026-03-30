@@ -3,9 +3,9 @@ title: "Section 8025 - Financial management"
 usc_title: 10
 usc_section: "8025"
 chapter: 803
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 8025"
-generated_at: "2026-03-30T02:47:08.583Z"
+generated_at: "2026-03-30T02:50:18.696Z"
 ---
 
 # § 8025. Financial management

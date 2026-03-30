@@ -3,9 +3,9 @@ title: "Section 1862g - Established Program to Stimulate Competitive Research"
 usc_title: 42
 usc_section: "1862g"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 1862g"
-generated_at: "2026-03-30T02:48:46.473Z"
+generated_at: "2026-03-30T02:52:02.634Z"
 ---
 
 # § 1862g. Established Program to Stimulate Competitive Research

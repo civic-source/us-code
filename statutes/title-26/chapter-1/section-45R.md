@@ -3,9 +3,9 @@ title: "Section 45R - Employee health insurance expenses of small employers"
 usc_title: 26
 usc_section: "45R"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "26 U.S.C. § 45R"
-generated_at: "2026-03-30T02:48:06.438Z"
+generated_at: "2026-03-30T02:51:05.338Z"
 ---
 
 # § 45R. Employee health insurance expenses of small employers

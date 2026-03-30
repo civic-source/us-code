@@ -3,9 +3,9 @@ title: "Section 70022 - Prohibition on entry and operation"
 usc_title: 46
 usc_section: "70022"
 chapter: 700
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "46 U.S.C. § 70022"
-generated_at: "2026-03-30T02:48:52.081Z"
+generated_at: "2026-03-30T02:52:21.805Z"
 ---
 
 # § 70022. Prohibition on entry and operation

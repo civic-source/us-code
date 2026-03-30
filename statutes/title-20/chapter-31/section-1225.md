@@ -3,9 +3,9 @@ title: "Section 1225 - Availability of appropriations on academic or school-year
 usc_title: 20
 usc_section: "1225"
 chapter: 31
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "20 U.S.C. § 1225"
-generated_at: "2026-03-30T02:47:29.614Z"
+generated_at: "2026-03-30T02:50:39.193Z"
 ---
 
 # § 1225. Availability of appropriations on academic or school-year basis; additional period for obligation of funds

@@ -3,9 +3,9 @@ title: "Section 19402 - Definitions"
 usc_title: 42
 usc_section: "19402"
 chapter: 164
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 19402"
-generated_at: "2026-03-30T02:48:46.959Z"
+generated_at: "2026-03-30T02:52:03.245Z"
 ---
 
 # § 19402. Definitions

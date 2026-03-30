@@ -3,9 +3,9 @@ title: "Section 13303 - Service of notice in proceedings"
 usc_title: 49
 usc_section: "13303"
 chapter: 133
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "49 U.S.C. § 13303"
-generated_at: "2026-03-30T02:48:55.950Z"
+generated_at: "2026-03-30T02:52:20.432Z"
 ---
 
 # § 13303. Service of notice in proceedings

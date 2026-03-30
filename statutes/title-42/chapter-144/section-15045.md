@@ -3,9 +3,9 @@ title: "Section 15045 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15045"
 chapter: 144
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 15045"
-generated_at: "2026-03-30T02:48:46.857Z"
+generated_at: "2026-03-30T02:52:03.122Z"
 ---
 
 # § 15045. Authorization of appropriations

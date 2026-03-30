@@ -3,9 +3,9 @@ title: "Section 511 - Definitions"
 usc_title: 7
 usc_section: "511"
 chapter: 21
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 511"
-generated_at: "2026-03-30T02:46:47.512Z"
+generated_at: "2026-03-30T02:50:11.532Z"
 ---
 
 # § 511. Definitions

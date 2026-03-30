@@ -3,9 +3,9 @@ title: "Section 1831g - Contracts between depository institutions and persons pr
 usc_title: 12
 usc_section: "1831g"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 1831g"
-generated_at: "2026-03-30T02:47:16.178Z"
+generated_at: "2026-03-30T02:50:26.455Z"
 ---
 
 # § 1831g. Contracts between depository institutions and persons providing goods, products, or services

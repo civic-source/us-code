@@ -3,9 +3,9 @@ title: "Section 649d - Central information clearinghouse"
 usc_title: 15
 usc_section: "649d"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 649d"
-generated_at: "2026-03-30T02:47:19.618Z"
+generated_at: "2026-03-30T02:50:29.897Z"
 ---
 
 # § 649d. Central information clearinghouse

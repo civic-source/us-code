@@ -3,9 +3,9 @@ title: "Section 9030 - Waiver of the 7-day waiting period for benefits under the
 usc_title: 15
 usc_section: "9030"
 chapter: 116
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 9030"
-generated_at: "2026-03-30T02:47:19.817Z"
+generated_at: "2026-03-30T02:50:30.076Z"
 ---
 
 # § 9030. Waiver of the 7-day waiting period for benefits under the Railroad Unemployment Insurance Act

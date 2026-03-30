@@ -3,9 +3,9 @@ title: "Section 1414 - License and permit fees"
 usc_title: 30
 usc_section: "1414"
 chapter: 26
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "30 U.S.C. § 1414"
-generated_at: "2026-03-30T02:47:56.185Z"
+generated_at: "2026-03-30T02:50:55.762Z"
 ---
 
 # § 1414. License and permit fees

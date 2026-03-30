@@ -3,9 +3,9 @@ title: "Section 1937 - Irish counterpart account; approval of disposition"
 usc_title: 22
 usc_section: "1937"
 chapter: 24
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 1937"
-generated_at: "2026-03-30T02:47:52.597Z"
+generated_at: "2026-03-30T02:50:53.006Z"
 ---
 
 # § 1937. Irish counterpart account; approval of disposition

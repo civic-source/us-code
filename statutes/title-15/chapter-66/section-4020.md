@@ -3,9 +3,9 @@ title: "Section 4020 - Rules and regulations"
 usc_title: 15
 usc_section: "4020"
 chapter: 66
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 4020"
-generated_at: "2026-03-30T02:47:19.756Z"
+generated_at: "2026-03-30T02:50:30.020Z"
 ---
 
 # § 4020. Rules and regulations

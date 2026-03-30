@@ -3,9 +3,9 @@ title: "Section 5187 - Fire management assistance"
 usc_title: 42
 usc_section: "5187"
 chapter: 68
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 5187"
-generated_at: "2026-03-30T02:48:46.594Z"
+generated_at: "2026-03-30T02:52:02.788Z"
 ---
 
 # § 5187. Fire management assistance

@@ -3,9 +3,9 @@ title: "Section 629a - Definitions"
 usc_title: 42
 usc_section: "629a"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 629a"
-generated_at: "2026-03-30T02:48:46.198Z"
+generated_at: "2026-03-30T02:52:02.289Z"
 ---
 
 # § 629a. Definitions

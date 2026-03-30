@@ -3,9 +3,9 @@ title: "Section 2601 - Findings, policy, and intent"
 usc_title: 15
 usc_section: "2601"
 chapter: 53
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 2601"
-generated_at: "2026-03-30T02:47:19.720Z"
+generated_at: "2026-03-30T02:50:29.988Z"
 ---
 
 # § 2601. Findings, policy, and intent

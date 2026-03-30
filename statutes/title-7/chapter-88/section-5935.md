@@ -3,9 +3,9 @@ title: "Section 5935 - Repealed. Pub. L. 113–79, title VII, § 7407 , Feb. 7, 
 usc_title: 7
 usc_section: "5935"
 chapter: 88
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 5935"
-generated_at: "2026-03-30T02:46:47.679Z"
+generated_at: "2026-03-30T02:50:11.704Z"
 ---
 
 # § 5935. Repealed. Pub. L. 113–79, title VII, § 7407 , Feb. 7, 2014 , 128 Stat. 898

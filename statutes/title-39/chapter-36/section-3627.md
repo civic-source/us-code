@@ -3,9 +3,9 @@ title: "Section 3627 - Adjusting free rates"
 usc_title: 39
 usc_section: "3627"
 chapter: 36
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "39 U.S.C. § 3627"
-generated_at: "2026-03-30T02:48:24.832Z"
+generated_at: "2026-03-30T02:51:14.321Z"
 ---
 
 # § 3627. Adjusting free rates

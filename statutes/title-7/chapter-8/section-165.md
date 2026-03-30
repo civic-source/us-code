@@ -3,9 +3,9 @@ title: "Section 165 - Repealed. Pub. L. 88–448, title IV, § 402(a)(13) , Aug.
 usc_title: 7
 usc_section: "165"
 chapter: 8
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 165"
-generated_at: "2026-03-30T02:46:47.498Z"
+generated_at: "2026-03-30T02:50:11.518Z"
 ---
 
 # § 165. Repealed. Pub. L. 88–448, title IV, § 402(a)(13) , Aug. 19, 1964 , 78 Stat. 493

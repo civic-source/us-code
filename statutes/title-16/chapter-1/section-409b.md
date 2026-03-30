@@ -3,9 +3,9 @@ title: "Section 409b - George Washington headquarters; maintenance"
 usc_title: 16
 usc_section: "409b"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 409b"
-generated_at: "2026-03-30T02:47:42.319Z"
+generated_at: "2026-03-30T02:50:42.972Z"
 ---
 
 # § 409b. George Washington headquarters; maintenance

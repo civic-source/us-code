@@ -3,9 +3,9 @@ title: "Section 2725 - Fees for use of the George P. Shultz National Foreign Aff
 usc_title: 22
 usc_section: "2725"
 chapter: 38
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2725"
-generated_at: "2026-03-30T02:47:52.651Z"
+generated_at: "2026-03-30T02:50:53.056Z"
 ---
 
 # § 2725. Fees for use of the George P. Shultz National Foreign Affairs Training Center

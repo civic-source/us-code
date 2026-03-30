@@ -3,9 +3,9 @@ title: "Section 571 - Emergency Communications Division"
 usc_title: 6
 usc_section: "571"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "6 U.S.C. § 571"
-generated_at: "2026-03-30T02:46:41.940Z"
+generated_at: "2026-03-30T02:50:05.835Z"
 ---
 
 # § 571. Emergency Communications Division

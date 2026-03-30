@@ -3,9 +3,9 @@ title: "Section 3005 - Savings clause"
 usc_title: 43
 usc_section: "3005"
 chapter: 48
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 3005"
-generated_at: "2026-03-30T02:48:28.962Z"
+generated_at: "2026-03-30T02:51:38.333Z"
 ---
 
 # § 3005. Savings clause

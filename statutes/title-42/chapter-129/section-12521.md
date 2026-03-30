@@ -3,9 +3,9 @@ title: "Section 12521 - Purpose"
 usc_title: 42
 usc_section: "12521"
 chapter: 129
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 12521"
-generated_at: "2026-03-30T02:48:46.808Z"
+generated_at: "2026-03-30T02:52:03.063Z"
 ---
 
 # § 12521. Purpose

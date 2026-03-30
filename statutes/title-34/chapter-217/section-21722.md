@@ -3,9 +3,9 @@ title: "Section 21722 - Effective interagency coordination and Federal data coll
 usc_title: 34
 usc_section: "21722"
 chapter: 217
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "34 U.S.C. § 21722"
-generated_at: "2026-03-30T02:48:10.385Z"
+generated_at: "2026-03-30T02:51:08.923Z"
 ---
 
 # § 21722. Effective interagency coordination and Federal data collection

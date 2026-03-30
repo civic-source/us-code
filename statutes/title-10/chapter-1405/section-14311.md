@@ -3,9 +3,9 @@ title: "Section 14311 - Delay of promotion: involuntary"
 usc_title: 10
 usc_section: "14311"
 chapter: 1405
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 14311"
-generated_at: "2026-03-30T02:47:08.624Z"
+generated_at: "2026-03-30T02:50:18.742Z"
 ---
 
 # § 14311. Delay of promotion: involuntary

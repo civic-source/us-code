@@ -3,9 +3,9 @@ title: "Section 3996 - Perfection or defense of rights"
 usc_title: 50
 usc_section: "3996"
 chapter: 50
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "50 U.S.C. § 3996"
-generated_at: "2026-03-30T02:49:17.673Z"
+generated_at: "2026-03-30T02:52:24.546Z"
 ---
 
 # § 3996. Perfection or defense of rights

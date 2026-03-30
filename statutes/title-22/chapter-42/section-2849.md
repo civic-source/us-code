@@ -3,9 +3,9 @@ title: "Section 2849 - Omitted"
 usc_title: 22
 usc_section: "2849"
 chapter: 42
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 2849"
-generated_at: "2026-03-30T02:47:52.662Z"
+generated_at: "2026-03-30T02:50:53.065Z"
 ---
 
 # §§ 2841 to 2849. Omitted

@@ -3,9 +3,9 @@ title: "Section 1801 - Applicability of the immigration laws"
 usc_title: 8
 usc_section: "1801"
 chapter: 16
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "8 U.S.C. § 1801"
-generated_at: "2026-03-30T02:46:42.861Z"
+generated_at: "2026-03-30T02:50:07.453Z"
 ---
 
 # § 1801. Applicability of the immigration laws

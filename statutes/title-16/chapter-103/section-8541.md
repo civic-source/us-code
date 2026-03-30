@@ -3,9 +3,9 @@ title: "Section 8541 - Permitting process improvements"
 usc_title: 16
 usc_section: "8541"
 chapter: 103
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 8541"
-generated_at: "2026-03-30T02:47:42.655Z"
+generated_at: "2026-03-30T02:50:43.322Z"
 ---
 
 # § 8541. Permitting process improvements

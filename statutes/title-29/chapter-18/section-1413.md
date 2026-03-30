@@ -3,9 +3,9 @@ title: "Section 1413 - Partitions of eligible multiemployer plans"
 usc_title: 29
 usc_section: "1413"
 chapter: 18
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "29 U.S.C. § 1413"
-generated_at: "2026-03-30T02:47:57.906Z"
+generated_at: "2026-03-30T02:50:58.678Z"
 ---
 
 # § 1413. Partitions of eligible multiemployer plans

@@ -3,9 +3,9 @@ title: "Section 3474 - Discontinuance for unsatisfactory conduct or progress"
 usc_title: 38
 usc_section: "3474"
 chapter: 34
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 3474"
-generated_at: "2026-03-30T02:48:19.038Z"
+generated_at: "2026-03-30T02:51:18.054Z"
 ---
 
 # § 3474. Discontinuance for unsatisfactory conduct or progress

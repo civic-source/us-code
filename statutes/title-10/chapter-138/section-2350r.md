@@ -3,9 +3,9 @@ title: "Section 2350r - North Atlantic Treaty Organization Allied Special Operat
 usc_title: 10
 usc_section: "2350r"
 chapter: 138
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "10 U.S.C. § 2350r"
-generated_at: "2026-03-30T02:47:08.508Z"
+generated_at: "2026-03-30T02:50:18.605Z"
 ---
 
 # § 2350r. North Atlantic Treaty Organization Allied Special Operations Forces Command

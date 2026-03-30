@@ -3,9 +3,9 @@ title: "Section 386g - Repealed. Oct. 31, 1951, ch. 654, § 1(10) , 65 Stat. 701
 usc_title: 7
 usc_section: "386g"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 386g"
-generated_at: "2026-03-30T02:46:47.508Z"
+generated_at: "2026-03-30T02:50:11.527Z"
 ---
 
 # § 386g. Repealed. Oct. 31, 1951, ch. 654, § 1(10) , 65 Stat. 701

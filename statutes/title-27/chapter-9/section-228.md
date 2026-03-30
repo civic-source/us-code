@@ -3,9 +3,9 @@ title: "Section 228 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862"
 usc_title: 27
 usc_section: "228"
 chapter: 9
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "27 U.S.C. § 228"
-generated_at: "2026-03-30T02:47:54.916Z"
+generated_at: "2026-03-30T02:50:55.315Z"
 ---
 
 # §§ 221 to 228. Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862

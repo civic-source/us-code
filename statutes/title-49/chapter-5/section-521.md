@@ -3,9 +3,9 @@ title: "Section 521 - Civil penalties"
 usc_title: 49
 usc_section: "521"
 chapter: 5
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "49 U.S.C. § 521"
-generated_at: "2026-03-30T02:48:55.915Z"
+generated_at: "2026-03-30T02:52:20.402Z"
 ---
 
 # § 521. Civil penalties

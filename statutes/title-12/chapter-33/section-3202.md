@@ -3,9 +3,9 @@ title: "Section 3202 - Dual service of management official as management officia
 usc_title: 12
 usc_section: "3202"
 chapter: 33
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "12 U.S.C. § 3202"
-generated_at: "2026-03-30T02:47:16.225Z"
+generated_at: "2026-03-30T02:50:26.499Z"
 ---
 
 # § 3202. Dual service of management official as management official of unaffiliated institution or holding company in same area, town, or village prohibited

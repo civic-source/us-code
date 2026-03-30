@@ -3,9 +3,9 @@ title: "Section 391c - Withdrawal of lands for use as bombing target range"
 usc_title: 16
 usc_section: "391c"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 391c"
-generated_at: "2026-03-30T02:47:42.312Z"
+generated_at: "2026-03-30T02:50:42.964Z"
 ---
 
 # § 391c. Withdrawal of lands for use as bombing target range

@@ -3,9 +3,9 @@ title: "Section 1551 - Repealed. Aug. 2, 1954, ch. 649 , title VIII, § 802(b), 
 usc_title: 42
 usc_section: "1551"
 chapter: 9
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "42 U.S.C. § 1551"
-generated_at: "2026-03-30T02:48:46.447Z"
+generated_at: "2026-03-30T02:52:02.603Z"
 ---
 
 # § 1551. Repealed. Aug. 2, 1954, ch. 649 , title VIII, § 802(b), 68 Stat. 642

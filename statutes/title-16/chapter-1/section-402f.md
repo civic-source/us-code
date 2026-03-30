@@ -3,9 +3,9 @@ title: "Section 402f - Further additions to park"
 usc_title: 16
 usc_section: "402f"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "16 U.S.C. § 402f"
-generated_at: "2026-03-30T02:47:42.314Z"
+generated_at: "2026-03-30T02:50:42.966Z"
 ---
 
 # § 402f. Further additions to park

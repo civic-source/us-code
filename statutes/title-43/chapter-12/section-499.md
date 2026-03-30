@@ -3,9 +3,9 @@ title: "Section 499 - Discretionary power to transfer management"
 usc_title: 43
 usc_section: "499"
 chapter: 12
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "43 U.S.C. § 499"
-generated_at: "2026-03-30T02:48:28.904Z"
+generated_at: "2026-03-30T02:51:38.289Z"
 ---
 
 # § 499. Discretionary power to transfer management

@@ -3,9 +3,9 @@ title: "Section 464b - Staffing accreditation function"
 usc_title: 6
 usc_section: "464b"
 chapter: 1
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "6 U.S.C. § 464b"
-generated_at: "2026-03-30T02:46:41.933Z"
+generated_at: "2026-03-30T02:50:05.829Z"
 ---
 
 # § 464b. Staffing accreditation function

@@ -3,9 +3,9 @@ title: "Section 1a - Marketing certificates for rice"
 usc_title: 7
 usc_section: "1a"
 chapter: 35
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "7 U.S.C. § 1a"
-generated_at: "2026-03-30T02:46:47.545Z"
+generated_at: "2026-03-30T02:50:11.564Z"
 ---
 
 # § 1441–1a. Marketing certificates for rice

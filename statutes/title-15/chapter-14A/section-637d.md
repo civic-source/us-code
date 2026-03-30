@@ -3,9 +3,9 @@ title: "Section 637d - Subcontracting plan reports"
 usc_title: 15
 usc_section: "637d"
 chapter: 14
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "15 U.S.C. § 637d"
-generated_at: "2026-03-30T02:47:19.606Z"
+generated_at: "2026-03-30T02:50:29.886Z"
 ---
 
 # § 637d. Subcontracting plan reports

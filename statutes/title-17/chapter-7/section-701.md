@@ -3,9 +3,9 @@ title: "Section 701 - The Copyright Office: General responsibilities and organiz
 usc_title: 17
 usc_section: "701"
 chapter: 7
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "17 U.S.C. § 701"
-generated_at: "2026-03-30T02:47:34.673Z"
+generated_at: "2026-03-30T02:50:33.462Z"
 ---
 
 # § 701. The Copyright Office: General responsibilities and organization

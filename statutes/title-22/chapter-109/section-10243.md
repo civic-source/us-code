@@ -3,9 +3,9 @@ title: "Section 10243 - Appropriate congressional committees defined"
 usc_title: 22
 usc_section: "10243"
 chapter: 109
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "22 U.S.C. § 10243"
-generated_at: "2026-03-30T02:47:52.782Z"
+generated_at: "2026-03-30T02:50:53.171Z"
 ---
 
 # § 10243. Appropriate congressional committees defined

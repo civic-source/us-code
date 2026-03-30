@@ -3,9 +3,9 @@ title: "Section 2404 - Administration"
 usc_title: 38
 usc_section: "2404"
 chapter: 24
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "38 U.S.C. § 2404"
-generated_at: "2026-03-30T02:48:19.027Z"
+generated_at: "2026-03-30T02:51:18.043Z"
 ---
 
 # § 2404. Administration

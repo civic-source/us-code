@@ -3,9 +3,9 @@ title: "Section 30101 - State grant program for training and prosecution of comp
 usc_title: 34
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "34 U.S.C. § 30101"
-generated_at: "2026-03-30T02:48:10.386Z"
+generated_at: "2026-03-30T02:51:08.924Z"
 ---
 
 # § 30101. State grant program for training and prosecution of computer crimes

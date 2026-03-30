@@ -3,9 +3,9 @@ title: "Section 327 - Application for grant by department or agency"
 usc_title: 25
 usc_section: "327"
 chapter: 8
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "25 U.S.C. § 327"
-generated_at: "2026-03-30T02:47:49.218Z"
+generated_at: "2026-03-30T02:50:48.134Z"
 ---
 
 # § 327. Application for grant by department or agency

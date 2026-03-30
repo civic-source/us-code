@@ -3,9 +3,9 @@ title: "Section 220710 - Service of process"
 usc_title: 36
 usc_section: "220710"
 chapter: 2207
-current_through: "PL 119-57"
+current_through: "PL 119-59"
 classification: "36 U.S.C. § 220710"
-generated_at: "2026-03-30T02:48:16.876Z"
+generated_at: "2026-03-30T02:51:20.906Z"
 ---
 
 # § 220710. Service of process
