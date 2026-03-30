@@ -3,9 +3,9 @@ title: "Section 6 - Training"
 usc_title: 42
 usc_section: "6"
 chapter: 8
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T06:21:33.367Z"
+generated_at: "2026-03-30T06:24:31.030Z"
 status: "active"
 ---
 

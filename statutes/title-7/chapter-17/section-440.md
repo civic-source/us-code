@@ -1,15 +1,13 @@
 ---
-title: "Section 440 - Reimbursement of appropriations available for classing or grading agriculture commodities without charge"
+title: "Section 440 - Transferred"
 usc_title: 7
 usc_section: "440"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 440"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 440. Reimbursement of appropriations available for classing or grading agriculture commodities without charge
-
-On and after June 29, 1949 , appropriations available for classing or grading any agricultural commodity without charge to the producers thereof may be reimbursed from nonadministrative funds of the Commodity Credit Corporation for the cost of classing or grading any such commodity for producers who obtain Commodity Credit Corporation price support.
+# § 440. Transferred
 

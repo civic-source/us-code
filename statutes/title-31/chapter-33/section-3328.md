@@ -3,9 +3,9 @@ title: "Section 3328 - Paying checks and drafts"
 usc_title: 31
 usc_section: "3328"
 chapter: 33
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "31 U.S.C. § 3328"
-generated_at: "2026-03-30T06:20:49.849Z"
+generated_at: "2026-03-30T06:23:51.272Z"
 status: "active"
 ---
 

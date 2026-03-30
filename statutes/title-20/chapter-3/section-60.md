@@ -3,9 +3,9 @@ title: "Section 60 - Army articles furnished to National Museum"
 usc_title: 20
 usc_section: "60"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 60"
-generated_at: "2026-03-30T06:20:21.234Z"
+generated_at: "2026-03-30T06:23:06.954Z"
 status: "active"
 ---
 

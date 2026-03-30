@@ -3,9 +3,9 @@ title: "Section 673 - Reversionary interests"
 usc_title: 26
 usc_section: "673"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 673"
-generated_at: "2026-03-30T06:20:42.251Z"
+generated_at: "2026-03-30T06:23:46.789Z"
 status: "active"
 ---
 

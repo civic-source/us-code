@@ -3,9 +3,9 @@ title: "Section 12183 - New construction and alterations in public accommodation
 usc_title: 42
 usc_section: "12183"
 chapter: 126
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 12183"
-generated_at: "2026-03-30T06:21:33.657Z"
+generated_at: "2026-03-30T06:24:31.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 424 - Repealed. Pub. L. 107–107, div. A, title XIV , § 1410(a
 usc_title: 24
 usc_section: "424"
 chapter: 10
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "24 U.S.C. § 424"
-generated_at: "2026-03-30T06:20:23.250Z"
+generated_at: "2026-03-30T06:23:25.507Z"
 status: "repealed"
 ---
 

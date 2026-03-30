@@ -3,9 +3,9 @@ title: "Section 3007 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3007"
 chapter: 31
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "29 U.S.C. § 3007"
-generated_at: "2026-03-30T06:20:34.947Z"
+generated_at: "2026-03-30T06:23:34.070Z"
 status: "active"
 ---
 

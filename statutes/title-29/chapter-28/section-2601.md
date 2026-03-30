@@ -3,9 +3,9 @@ title: "Section 2601 - Findings and purposes"
 usc_title: 29
 usc_section: "2601"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "29 U.S.C. § 2601"
-generated_at: "2026-03-30T06:20:34.944Z"
+generated_at: "2026-03-30T06:23:34.066Z"
 status: "active"
 ---
 

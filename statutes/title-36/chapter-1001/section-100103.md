@@ -3,9 +3,9 @@ title: "Section 100103 - Purposes"
 usc_title: 36
 usc_section: "100103"
 chapter: 1001
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 100103"
-generated_at: "2026-03-30T06:21:06.574Z"
+generated_at: "2026-03-30T06:23:56.295Z"
 status: "active"
 ---
 

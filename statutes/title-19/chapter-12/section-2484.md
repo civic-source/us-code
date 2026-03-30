@@ -3,9 +3,9 @@ title: "Section 2484 - International drug control"
 usc_title: 19
 usc_section: "2484"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "19 U.S.C. § 2484"
-generated_at: "2026-03-30T06:20:13.636Z"
+generated_at: "2026-03-30T06:23:23.498Z"
 status: "active"
 ---
 

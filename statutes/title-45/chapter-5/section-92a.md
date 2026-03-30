@@ -3,9 +3,9 @@ title: "Section 92a - Repealed. Aug. 10, 1956, ch. 1041 , § 53, 70A Stat. 641"
 usc_title: 45
 usc_section: "92a"
 chapter: 5
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "45 U.S.C. § 92a"
-generated_at: "2026-03-30T06:21:18.807Z"
+generated_at: "2026-03-30T06:24:00.074Z"
 status: "repealed"
 ---
 

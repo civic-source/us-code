@@ -3,9 +3,9 @@ title: "Section 4203 - Existing policies and procedures; review, etc."
 usc_title: 7
 usc_section: "4203"
 chapter: 73
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 4203"
-generated_at: "2026-03-30T06:19:46.713Z"
+generated_at: "2026-03-30T06:22:43.092Z"
 status: "active"
 ---
 

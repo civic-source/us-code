@@ -3,9 +3,9 @@ title: "Section 34 - American-Mexican Boundary Treaty, authorization for carryin
 usc_title: 22
 usc_section: "34"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 34"
-generated_at: "2026-03-30T06:20:29.478Z"
+generated_at: "2026-03-30T06:23:30.285Z"
 status: "active"
 ---
 

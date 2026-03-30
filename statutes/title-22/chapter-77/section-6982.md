@@ -3,9 +3,9 @@ title: "Section 6982 - Administrative authorities"
 usc_title: 22
 usc_section: "6982"
 chapter: 77
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 6982"
-generated_at: "2026-03-30T06:20:29.582Z"
+generated_at: "2026-03-30T06:23:30.391Z"
 status: "active"
 ---
 

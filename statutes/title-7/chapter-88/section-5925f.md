@@ -3,9 +3,9 @@ title: "Section 5925f - Farm business management"
 usc_title: 7
 usc_section: "5925f"
 chapter: 88
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 5925f"
-generated_at: "2026-03-30T06:19:46.724Z"
+generated_at: "2026-03-30T06:22:43.102Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
   - **(2)** collaborate with farm management and producer associations;
   - **(3)** address the farm management needs of a variety of crops and regions of the United States; and
   - **(4)** use and support the national farm financial management database.
-- **(c)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+- **(c)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of grants under this section.
 - **(d)** There are authorized to be appropriated to carry out this section—
   - **(1)** such sums as are necessary for fiscal year 2013; and
   - **(2)** $5,000,000 for each of fiscal years 2014 through 2018.

@@ -3,9 +3,9 @@ title: "Section 1826a - Denial of port privileges and sanctions for high seas la
 usc_title: 16
 usc_section: "1826a"
 chapter: 38
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 1826a"
-generated_at: "2026-03-30T06:20:08.682Z"
+generated_at: "2026-03-30T06:23:20.576Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3796bb - Rural drug enforcement assistance"
 usc_title: 42
 usc_section: "3796bb"
 chapter: 46
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 3796bb"
-generated_at: "2026-03-30T06:21:33.455Z"
+generated_at: "2026-03-30T06:24:31.114Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 428b - Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations"
+title: "Section 428b - Transferred"
 usc_title: 7
 usc_section: "428b"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 428b"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 428b. Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations
-
-In order to reduce fertilizer and herbicide usage in excess of production needs, to develop wheat and feed grain varieties more susceptible to complete fertilizer utilization, and to improve the resistance of wheat and feed grain plants to disease and to enhance their conservation and environmental qualities, the Secretary of Agriculture is authorized and directed to carry out regional and national research programs. In carrying out such research, the Secretary shall utilize the technical and related services of the appropriate Federal, State, and private agencies. There is authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, but not more than $1,000,000 in any fiscal year.
+# § 428b. Transferred
 

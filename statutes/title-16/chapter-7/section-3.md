@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations for the preservation of wetl
 usc_title: 16
 usc_section: "3"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T06:20:08.628Z"
+generated_at: "2026-03-30T06:23:20.522Z"
 status: "active"
 ---
 

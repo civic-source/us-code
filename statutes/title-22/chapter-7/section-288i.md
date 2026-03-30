@@ -3,9 +3,9 @@ title: "Section 288i - Liaison Office of the People’s Republic of China; exten
 usc_title: 22
 usc_section: "288i"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 288i"
-generated_at: "2026-03-30T06:20:29.486Z"
+generated_at: "2026-03-30T06:23:30.294Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 136i - Use of restricted use pesticides; applicators"
 usc_title: 7
 usc_section: "136i"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 136i"
-generated_at: "2026-03-30T06:19:46.607Z"
+generated_at: "2026-03-30T06:22:42.986Z"
 status: "active"
 ---
 

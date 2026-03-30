@@ -3,9 +3,9 @@ title: "Section 4313 - Repealed. Pub. L. 105–225 , § 6(b), Aug. 12, 1998 , 11
 usc_title: 10
 usc_section: "4313"
 chapter: 401
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 4313"
-generated_at: "2026-03-30T06:19:43.931Z"
+generated_at: "2026-03-30T06:22:46.486Z"
 status: "repealed"
 ---
 

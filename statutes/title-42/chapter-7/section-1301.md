@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 42
 usc_section: "1301"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 1301"
-generated_at: "2026-03-30T06:21:33.228Z"
+generated_at: "2026-03-30T06:24:30.893Z"
 status: "active"
 ---
 

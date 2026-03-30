@@ -3,9 +3,9 @@ title: "Section 4014 - Testing for human immunodeficiency virus"
 usc_title: 18
 usc_section: "4014"
 chapter: 301
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 4014"
-generated_at: "2026-03-30T06:20:05.778Z"
+generated_at: "2026-03-30T06:23:14.924Z"
 status: "active"
 ---
 

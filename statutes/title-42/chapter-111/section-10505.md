@@ -3,9 +3,9 @@ title: "Section 10505 - Confidentiality of information"
 usc_title: 42
 usc_section: "10505"
 chapter: 111
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 10505"
-generated_at: "2026-03-30T06:21:33.638Z"
+generated_at: "2026-03-30T06:24:31.285Z"
 status: "active"
 ---
 

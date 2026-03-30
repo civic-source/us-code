@@ -3,9 +3,9 @@ title: "Section 3865c - Wetland reserve easements"
 usc_title: 16
 usc_section: "3865c"
 chapter: 58
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 3865c"
-generated_at: "2026-03-30T06:20:08.712Z"
+generated_at: "2026-03-30T06:23:20.605Z"
 status: "active"
 ---
 

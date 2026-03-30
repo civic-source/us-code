@@ -3,9 +3,9 @@ title: "Section 470j - Repealed. Pub. L. 113–287 , § 7, Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "470j"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 470j"
-generated_at: "2026-03-30T06:20:08.597Z"
+generated_at: "2026-03-30T06:23:20.491Z"
 status: "repealed"
 ---
 

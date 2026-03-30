@@ -3,9 +3,9 @@ title: "Section 1536 - Omitted"
 usc_title: 20
 usc_section: "1536"
 chapter: 35
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 1536"
-generated_at: "2026-03-30T06:20:21.312Z"
+generated_at: "2026-03-30T06:23:07.038Z"
 status: "omitted"
 ---
 

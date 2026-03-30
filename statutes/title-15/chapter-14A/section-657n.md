@@ -3,9 +3,9 @@ title: "Section 657n - Immediate Disaster Assistance program"
 usc_title: 15
 usc_section: "657n"
 chapter: 14
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 657n"
-generated_at: "2026-03-30T06:19:58.010Z"
+generated_at: "2026-03-30T06:23:01.963Z"
 status: "active"
 ---
 

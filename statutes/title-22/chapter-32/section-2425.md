@@ -3,9 +3,9 @@ title: "Section 2425 - Repealed. Pub. L. 95–424, title VI , § 604, Oct. 6, 19
 usc_title: 22
 usc_section: "2425"
 chapter: 32
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 2425"
-generated_at: "2026-03-30T06:20:29.524Z"
+generated_at: "2026-03-30T06:23:30.332Z"
 status: "repealed"
 ---
 

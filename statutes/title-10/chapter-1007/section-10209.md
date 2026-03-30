@@ -3,9 +3,9 @@ title: "Section 10209 - Regular and reserve components: discrimination prohibite
 usc_title: 10
 usc_section: "10209"
 chapter: 1007
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 10209"
-generated_at: "2026-03-30T06:19:43.957Z"
+generated_at: "2026-03-30T06:22:46.509Z"
 status: "active"
 ---
 

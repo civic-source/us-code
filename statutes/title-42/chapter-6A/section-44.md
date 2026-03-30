@@ -3,9 +3,9 @@ title: "Section 44 - State flexibility in individual market reforms"
 usc_title: 42
 usc_section: "44"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 44"
-generated_at: "2026-03-30T06:21:33.181Z"
+generated_at: "2026-03-30T06:24:30.846Z"
 status: "active"
 ---
 

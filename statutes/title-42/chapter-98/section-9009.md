@@ -3,9 +3,9 @@ title: "Section 9009 - Authorization of appropriations"
 usc_title: 42
 usc_section: "9009"
 chapter: 98
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 9009"
-generated_at: "2026-03-30T06:21:33.600Z"
+generated_at: "2026-03-30T06:24:31.250Z"
 status: "active"
 ---
 

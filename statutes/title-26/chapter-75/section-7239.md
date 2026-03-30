@@ -3,9 +3,9 @@ title: "Section 7239 - Repealed. Pub. L. 94–455, title XIX , § 1904(b)(8)(D)(
 usc_title: 26
 usc_section: "7239"
 chapter: 75
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 7239"
-generated_at: "2026-03-30T06:20:42.377Z"
+generated_at: "2026-03-30T06:23:46.916Z"
 status: "repealed"
 ---
 

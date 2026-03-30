@@ -3,9 +3,9 @@ title: "Section 334 - Special aviation incentive pay and bonus authorities for o
 usc_title: 37
 usc_section: "334"
 chapter: 5
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "37 U.S.C. § 334"
-generated_at: "2026-03-30T06:21:05.995Z"
+generated_at: "2026-03-30T06:23:55.717Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 924 - Withdrawal or limitation of assignment to Federal Governme
 usc_title: 47
 usc_section: "924"
 chapter: 8
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "47 U.S.C. § 924"
-generated_at: "2026-03-30T06:21:36.865Z"
+generated_at: "2026-03-30T06:24:35.096Z"
 status: "active"
 ---
 

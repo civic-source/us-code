@@ -3,9 +3,9 @@ title: "Section 3 - Establishment of private corporation"
 usc_title: 42
 usc_section: "3"
 chapter: 23
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T06:21:33.424Z"
+generated_at: "2026-03-30T06:24:31.084Z"
 status: "active"
 ---
 

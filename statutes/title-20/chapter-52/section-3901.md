@@ -3,9 +3,9 @@ title: "Section 3901 - Statement of purpose"
 usc_title: 20
 usc_section: "3901"
 chapter: 52
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 3901"
-generated_at: "2026-03-30T06:20:21.322Z"
+generated_at: "2026-03-30T06:23:07.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 906 - Congressional Record: gratuitous copies; delivery"
 usc_title: 44
 usc_section: "906"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "44 U.S.C. § 906"
-generated_at: "2026-03-30T06:21:19.071Z"
+generated_at: "2026-03-30T06:23:59.833Z"
 status: "active"
 ---
 

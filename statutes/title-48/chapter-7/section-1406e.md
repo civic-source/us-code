@@ -3,9 +3,9 @@ title: "Section 1406e - Repealed. Pub. L. 97–357, title III , § 307, Oct. 19,
 usc_title: 48
 usc_section: "1406e"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "48 U.S.C. § 1406e"
-generated_at: "2026-03-30T06:21:41.800Z"
+generated_at: "2026-03-30T06:24:33.992Z"
 status: "repealed"
 ---
 

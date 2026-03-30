@@ -3,9 +3,9 @@ title: "Section 2903 - Custody and control of property"
 usc_title: 44
 usc_section: "2903"
 chapter: 29
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "44 U.S.C. § 2903"
-generated_at: "2026-03-30T06:21:19.075Z"
+generated_at: "2026-03-30T06:23:59.838Z"
 status: "active"
 ---
 

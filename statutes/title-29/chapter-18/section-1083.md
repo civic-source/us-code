@@ -3,9 +3,9 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T06:20:34.919Z"
+generated_at: "2026-03-30T06:23:34.042Z"
 status: "active"
 ---
 

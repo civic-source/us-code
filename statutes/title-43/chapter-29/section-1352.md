@@ -3,9 +3,9 @@ title: "Section 1352 - Oil and gas information program"
 usc_title: 43
 usc_section: "1352"
 chapter: 29
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1352"
-generated_at: "2026-03-30T06:21:15.983Z"
+generated_at: "2026-03-30T06:24:05.092Z"
 status: "active"
 ---
 

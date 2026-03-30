@@ -3,9 +3,9 @@ title: "Section 852 - Repealed. Pub. L. 95–281 , § 1(b)(3), May 15, 1978 , 92
 usc_title: 25
 usc_section: "852"
 chapter: 14
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 852"
-generated_at: "2026-03-30T06:20:24.492Z"
+generated_at: "2026-03-30T06:23:26.830Z"
 status: "repealed"
 ---
 

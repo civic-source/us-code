@@ -3,9 +3,9 @@ title: "Section 353 - Exemptions and consideration for certain drugs, devices, a
 usc_title: 21
 usc_section: "353"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 353"
-generated_at: "2026-03-30T06:20:26.435Z"
+generated_at: "2026-03-30T06:23:28.358Z"
 status: "active"
 ---
 
@@ -156,16 +156,12 @@ status: "active"
         - **(II)** if the sponsor proposes any such studies, the Secretary and the sponsor of such product shall collaborate and seek to reach agreement, within a reasonable time of such proposal, not to exceed 90 calendar days, on the design of such studies; and
         - **(III)** if an agreement is reached under subclause (II) and the sponsor conducts one or more of such studies, the Secretary shall consider the data resulting from any such study when reevaluating the determination of the primary mode of action of such product, and unless and until such reevaluation has occurred and the Secretary issues a new determination, the determination of the Secretary under subparagraph (D) shall remain in effect.
   - **(2)**
-    - **(A)**
-      - **(i)** To establish clarity and certainty for the sponsor, the sponsor of a combination product may request a meeting on such combination product. If the Secretary concludes that a determination of the primary mode of action pursuant to paragraph (1)(D) is necessary, the sponsor may request such meeting only after the Secretary makes such determination. If the sponsor submits a written meeting request, the Secretary shall, not later than 75 calendar days after receiving such request, meet with the sponsor of such combination product.
-      - **(ii)** A meeting under clause (i) may—
+    - **(A)** 1 1 So in original. No subpar. (B) has been enacted. (i) To establish clarity and certainty for the sponsor, the sponsor of a combination product may request a meeting on such combination product. If the Secretary concludes that a determination of the primary mode of action pursuant to paragraph (1)(D) is necessary, the sponsor may request such meeting only after the Secretary makes such determination. If the sponsor submits a written meeting request, the Secretary shall, not later than 75 calendar days after receiving such request, meet with the sponsor of such combination product.
+- **(ii)** A meeting under clause (i) may—
         - **(I)** address the standards and requirements for market approval or clearance of the combination product;
         - **(II)** address other issues relevant to such combination product, such as requirements related to postmarket modification of such combination product and good manufacturing practices applicable to such combination product; and
         - **(III)** identify elements under subclauses (I) and (II) that may be more appropriate for discussion and agreement with the Secretary at a later date given that scientific or other information is not available, or agreement is otherwise not feasible regarding such elements, at the time a request for such meeting is made.
-      - **(iii)** Any agreement under this subparagraph shall be in writing and made part of the administrative record by the Secretary.
-      - **(iv)** Any such agreement shall remain in effect, except—
-        - **(I)** upon the written agreement of the Secretary and the sponsor or applicant; or
-        - **(II)** pursuant to a decision by the director of the reviewing division of the primary agency center, or a person more senior than such director, in consultation with consulting centers and the Office, as appropriate, that an issue essential to determining whether the standard for market clearance or other applicable standard under this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] applicable to the combination product has been identified since the agreement was reached, or that deviating from the agreement is otherwise justifiable based on scientific evidence, for public health reasons.
+- **(iii)** Any agreement under this subparagraph shall be in writing and made part of the administrative record by the Secretary.
   - **(3)** For purposes of conducting the premarket review of a combination product that contains an approved constituent part described in paragraph (4), the Secretary may require that the sponsor of such combination product submit to the Secretary only data or information that the Secretary determines is necessary to meet the standard for clearance or approval, as applicable, under this chapter or the Public Health Service Act, including any incremental risks and benefits posed by such combination product, using a risk-based approach and taking into account any prior finding of safety and effectiveness or substantial equivalence for the approved constituent part relied upon by the applicant in accordance with paragraph (5).
   - **(4)** For purposes of paragraph (3), an approved constituent part is—
     - **(A)** a drug constituent part of a combination product being reviewed in a single application or request under section 360e, 360(k), or 360c(f)(2) of this title (submitted in accordance with paragraph (5)), that is an approved drug, provided such application or request complies with paragraph (5);
@@ -195,18 +191,19 @@ status: "active"
     - **(C)**
       - **(i)** In carrying out this subsection, the Office shall help to ensure timely and effective premarket review that involves more than one agency center by coordinating such reviews, overseeing the timeliness of such reviews, and overseeing the alignment of feedback regarding such reviews.
       - **(ii)** In order to ensure the timeliness and alignment of the premarket review of a combination product, the agency center with primary jurisdiction for the product, and the consulting agency center, shall be responsible to the Office with respect to the timeliness and alignment of the premarket review.
-      - **(iii)** The Office shall ensure that, with respect to a combination product, a designated person or persons in the primary agency center is the primary point or points of contact for the sponsor of such combination product. The Office shall also coordinate communications to and from any consulting center involved in such premarket review, if requested by such primary agency center or any such consulting center. Agency communications and commitments, to the extent consistent with other provisions of law and the requirements of all affected agency centers, from the primary agency center shall be considered as communication from the Secretary on behalf of all agency centers involved in the review.
-      - **(iv)** The Office shall, with respect to the premarket review of a combination product—
-        - **(I)** ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
-        - **(II)** ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
-        - **(III)** ensure that each consulting center follows the guidance described in clause (vi) and advises, as appropriate, on other relevant regulations, guidances, and policies.
-      - **(v)** In seeking agency action with respect to a combination product, the sponsor of such product—
-        - **(I)** shall identify the product as a combination product; and
-        - **(II)** may request in writing the participation of representatives of the Office in meetings related to such combination product, or to have the Office otherwise engage on such regulatory matters concerning the combination product.
-      - **(vi)** Not later than 4 years after December 13, 2016 , and after a public comment period of not less than 60 calendar days, the Secretary shall issue a final guidance that describes—
-        - **(I)** the structured process for managing pre-submission interactions with sponsors developing combination products;
-        - **(II)** the best practices for ensuring that the feedback in such pre-submission interactions represents the Agency’s best advice based on the information provided during such pre-submission interactions; 1 1 So in original. The word “and” probably should appear.
-        - **(III)** the information that is required to be submitted with a meeting request under paragraph (2), how such meetings relate to other types of meetings in the Food and Drug Administration, and the form and content of any agreement reached through a meeting under such paragraph (2); 2 2 So in original. The semicolon probably should be a period.
+      - **(iv)** Any such agreement shall remain in effect, except—
+        - **(I)** upon the written agreement of the Secretary and the sponsor or applicant; or
+        - **(II)** pursuant to a decision by the director of the reviewing division of the primary agency center, or a person more senior than such director, in consultation with consulting centers and the Office, as appropriate, that an issue essential to determining whether the standard for market clearance or other applicable standard under this chapter or the Public Health Service Act [ 42 U.S.C. 201 et seq.] applicable to the combination product has been identified since the agreement was reached, or that deviating from the agreement is otherwise justifiable based on scientific evidence, for public health reasons.
+- **(iii)** The Office shall ensure that, with respect to a combination product, a designated person or persons in the primary agency center is the primary point or points of contact for the sponsor of such combination product. The Office shall also coordinate communications to and from any consulting center involved in such premarket review, if requested by such primary agency center or any such consulting center. Agency communications and commitments, to the extent consistent with other provisions of law and the requirements of all affected agency centers, from the primary agency center shall be considered as communication from the Secretary on behalf of all agency centers involved in the review.
+  - **(9)** As used in this subsection:
+    - **(A)** The term “agency center” means a center or alternative organizational component of the Food and Drug Administration.
+    - **(B)** The term “biological product” has the meaning given the term in section 351(i) of the Public Health Service Act ( 42 U.S.C. 262(i) ).
+    - **(C)** The term “market clearance” includes—
+      - **(i)** approval of an application under section 355, 357, 4 4 See References in Text note below. 360e, or 360j(g) of this title;
+      - **(ii)** a finding of substantial equivalence under this part;
+      - **(iii)** approval of a biologics license application under subsection (a) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ); and
+      - **(iv)** de novo classification under section 360c(a)(1) of this title .
+    - **(D)** The terms “premarket review” and “reviews” include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ], including with respect to investigational use of the product.
     - **(D)** In carrying out this subsection, the Office shall ensure the consistency and appropriateness of postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law.
     - **(E)**
       - **(i)** Any dispute regarding the timeliness of the premarket review of a combination product may be presented to the Office for resolution, unless the dispute is clearly premature.
@@ -218,12 +215,14 @@ status: "active"
       - **(iii)** describing improvements in the consistency of postmarket regulation of combination products; and
       - **(iv)** identifying the percentage of combination products for which a dispute resolution, with respect to premarket review, was requested by the combination product’s sponsor.
     - **(H)** Nothing in this paragraph shall be construed to limit the regulatory authority of any agency center.
-  - **(9)** As used in this subsection:
-    - **(A)** The term “agency center” means a center or alternative organizational component of the Food and Drug Administration.
-    - **(B)** The term “biological product” has the meaning given the term in section 351(i) of the Public Health Service Act ( 42 U.S.C. 262(i) ).
-    - **(C)** The term “market clearance” includes—
-      - **(i)** approval of an application under section 355, 357, 3 3 See References in Text note below. 360e, or 360j(g) of this title;
-      - **(ii)** a finding of substantial equivalence under this part;
-      - **(iii)** approval of a biologics license application under subsection (a) of section 351 of the Public Health Service Act ( 42 U.S.C. 262 ); and
-      - **(iv)** de novo classification under section 360c(a)(1) of this title .
-    - **(D)** The terms “premarket review” and “reviews” include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act [ 42 U.S.C. 262 ], including with respect to investigational use of the product.
+      - **(iv)** The Office shall, with respect to the premarket review of a combination product—
+        - **(I)** ensure that any meeting between the Secretary and the sponsor of such product is attended by each agency center involved in the review, as appropriate;
+        - **(II)** ensure that each consulting agency center has completed its premarket review and provided the results of such review to the primary agency center in a timely manner; and
+        - **(III)** ensure that each consulting center follows the guidance described in clause (vi) and advises, as appropriate, on other relevant regulations, guidances, and policies.
+      - **(v)** In seeking agency action with respect to a combination product, the sponsor of such product—
+        - **(I)** shall identify the product as a combination product; and
+        - **(II)** may request in writing the participation of representatives of the Office in meetings related to such combination product, or to have the Office otherwise engage on such regulatory matters concerning the combination product.
+      - **(vi)** Not later than 4 years after December 13, 2016 , and after a public comment period of not less than 60 calendar days, the Secretary shall issue a final guidance that describes—
+        - **(I)** the structured process for managing pre-submission interactions with sponsors developing combination products;
+        - **(II)** the best practices for ensuring that the feedback in such pre-submission interactions represents the Agency’s best advice based on the information provided during such pre-submission interactions; 2 2 So in original. The word “and” probably should appear.
+        - **(III)** the information that is required to be submitted with a meeting request under paragraph (2), how such meetings relate to other types of meetings in the Food and Drug Administration, and the form and content of any agreement reached through a meeting under such paragraph (2); 3 3 So in original. The semicolon probably should be a period.

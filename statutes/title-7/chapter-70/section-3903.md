@@ -3,9 +3,9 @@ title: "Section 3903 - Annual program review to achieve coordination with Nation
 usc_title: 7
 usc_section: "3903"
 chapter: 70
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 3903"
-generated_at: "2026-03-30T06:19:46.713Z"
+generated_at: "2026-03-30T06:22:43.091Z"
 status: "active"
 ---
 

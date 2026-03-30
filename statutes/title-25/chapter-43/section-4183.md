@@ -3,9 +3,9 @@ title: "Section 4183 - Savings provision"
 usc_title: 25
 usc_section: "4183"
 chapter: 43
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 4183"
-generated_at: "2026-03-30T06:20:24.532Z"
+generated_at: "2026-03-30T06:23:26.872Z"
 status: "active"
 ---
 

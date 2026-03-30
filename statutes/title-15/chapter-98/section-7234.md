@@ -3,9 +3,9 @@ title: "Section 7234 - Considerations by appropriate State regulatory authoritie
 usc_title: 15
 usc_section: "7234"
 chapter: 98
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 7234"
-generated_at: "2026-03-30T06:19:58.112Z"
+generated_at: "2026-03-30T06:23:02.060Z"
 status: "active"
 ---
 

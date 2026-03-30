@@ -3,9 +3,9 @@ title: "Section 148 - Repealed. Pub. L. 94–579, title VII , § 704(a), Oct. 21
 usc_title: 43
 usc_section: "148"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 148"
-generated_at: "2026-03-30T06:21:15.953Z"
+generated_at: "2026-03-30T06:24:05.064Z"
 status: "repealed"
 ---
 

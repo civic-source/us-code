@@ -3,9 +3,9 @@ title: "Section 502 - Absences due to sickness, wounds, and certain other causes
 usc_title: 37
 usc_section: "502"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "37 U.S.C. § 502"
-generated_at: "2026-03-30T06:21:06.002Z"
+generated_at: "2026-03-30T06:23:55.722Z"
 status: "active"
 ---
 

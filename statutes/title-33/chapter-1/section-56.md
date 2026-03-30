@@ -3,9 +3,9 @@ title: "Section 56 - Fort Point Channel and South Bay, Boston, Massachusetts"
 usc_title: 33
 usc_section: "56"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "33 U.S.C. § 56"
-generated_at: "2026-03-30T06:21:01.961Z"
+generated_at: "2026-03-30T06:23:53.586Z"
 status: "active"
 ---
 

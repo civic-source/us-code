@@ -3,9 +3,9 @@ title: "Section 50302 - Loan guarantees for production of commercial reusable in
 usc_title: 51
 usc_section: "50302"
 chapter: 503
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "51 U.S.C. § 50302"
-generated_at: "2026-03-30T06:21:56.942Z"
+generated_at: "2026-03-30T06:24:47.695Z"
 status: "active"
 ---
 

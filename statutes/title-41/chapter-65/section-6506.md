@@ -3,9 +3,9 @@ title: "Section 6506 - Administrative provisions"
 usc_title: 41
 usc_section: "6506"
 chapter: 65
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "41 U.S.C. § 6506"
-generated_at: "2026-03-30T06:21:20.731Z"
+generated_at: "2026-03-30T06:23:59.598Z"
 status: "active"
 ---
 

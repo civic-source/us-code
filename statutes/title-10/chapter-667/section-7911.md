@@ -3,9 +3,9 @@ title: "Section 7911 - Repealed. Pub. L. 112–239, div. A, title V , § 552(b),
 usc_title: 10
 usc_section: "7911"
 chapter: 667
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 7911"
-generated_at: "2026-03-30T06:19:43.948Z"
+generated_at: "2026-03-30T06:22:46.502Z"
 status: "repealed"
 ---
 

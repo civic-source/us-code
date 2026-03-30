@@ -3,9 +3,9 @@ title: "Section 276b - Travel and related expenses"
 usc_title: 2
 usc_section: "276b"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "2 U.S.C. § 276b"
-generated_at: "2026-03-30T06:19:36.044Z"
+generated_at: "2026-03-30T06:22:09.220Z"
 status: "active"
 ---
 

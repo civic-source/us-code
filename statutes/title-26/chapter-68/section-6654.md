@@ -3,9 +3,9 @@ title: "Section 6654 - Failure by individual to pay estimated income tax"
 usc_title: 26
 usc_section: "6654"
 chapter: 68
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 6654"
-generated_at: "2026-03-30T06:20:42.370Z"
+generated_at: "2026-03-30T06:23:46.909Z"
 status: "active"
 ---
 

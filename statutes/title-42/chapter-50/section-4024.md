@@ -3,9 +3,9 @@ title: "Section 4024 - Coordination with other programs"
 usc_title: 42
 usc_section: "4024"
 chapter: 50
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 4024"
-generated_at: "2026-03-30T06:21:33.468Z"
+generated_at: "2026-03-30T06:24:31.125Z"
 status: "active"
 ---
 

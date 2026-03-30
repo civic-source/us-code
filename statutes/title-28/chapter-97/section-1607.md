@@ -3,9 +3,9 @@ title: "Section 1607 - Counterclaims"
 usc_title: 28
 usc_section: "1607"
 chapter: 97
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "28 U.S.C. § 1607"
-generated_at: "2026-03-30T06:20:32.526Z"
+generated_at: "2026-03-30T06:23:39.390Z"
 status: "active"
 ---
 

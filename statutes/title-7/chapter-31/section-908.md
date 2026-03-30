@@ -3,9 +3,9 @@ title: "Section 908 - Repealed. Pub. L. 104–127, title VII , § 776, Apr. 4, 1
 usc_title: 7
 usc_section: "908"
 chapter: 31
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 908"
-generated_at: "2026-03-30T06:19:46.633Z"
+generated_at: "2026-03-30T06:22:43.011Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1462 - Personnel development to improve services and results for
 usc_title: 20
 usc_section: "1462"
 chapter: 33
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 1462"
-generated_at: "2026-03-30T06:20:21.311Z"
+generated_at: "2026-03-30T06:23:07.036Z"
 status: "active"
 ---
 

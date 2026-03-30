@@ -3,9 +3,9 @@ title: "Section 2a - Promoting access to information on evidence-based programs 
 usc_title: 42
 usc_section: "2a"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-03-30T06:21:33.118Z"
+generated_at: "2026-03-30T06:24:30.792Z"
 status: "active"
 ---
 

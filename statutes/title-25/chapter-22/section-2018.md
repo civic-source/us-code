@@ -3,9 +3,9 @@ title: "Section 2018 - Regional meetings and negotiated rulemaking"
 usc_title: 25
 usc_section: "2018"
 chapter: 22
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 2018"
-generated_at: "2026-03-30T06:20:24.512Z"
+generated_at: "2026-03-30T06:23:26.852Z"
 status: "active"
 ---
 

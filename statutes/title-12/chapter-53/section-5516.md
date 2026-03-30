@@ -3,9 +3,9 @@ title: "Section 5516 - Other banks, savings associations, and credit unions"
 usc_title: 12
 usc_section: "5516"
 chapter: 53
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "12 U.S.C. § 5516"
-generated_at: "2026-03-30T06:20:00.419Z"
+generated_at: "2026-03-30T06:23:00.081Z"
 status: "active"
 ---
 

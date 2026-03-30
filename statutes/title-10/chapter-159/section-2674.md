@@ -3,9 +3,9 @@ title: "Section 2674 - Operation and control of Pentagon Reservation and defense
 usc_title: 10
 usc_section: "2674"
 chapter: 159
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 2674"
-generated_at: "2026-03-30T06:19:43.916Z"
+generated_at: "2026-03-30T06:22:46.473Z"
 status: "active"
 ---
 

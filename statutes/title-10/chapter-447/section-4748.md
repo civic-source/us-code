@@ -3,9 +3,9 @@ title: "Section 4748 - Repealed. Pub. L. 87–651, title I , § 119(1), Sept. 7,
 usc_title: 10
 usc_section: "4748"
 chapter: 447
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 4748"
-generated_at: "2026-03-30T06:19:43.934Z"
+generated_at: "2026-03-30T06:22:46.489Z"
 status: "repealed"
 ---
 

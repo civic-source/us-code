@@ -3,9 +3,9 @@ title: "Section 742h - Reports on fishery products"
 usc_title: 16
 usc_section: "742h"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 742h"
-generated_at: "2026-03-30T06:20:08.630Z"
+generated_at: "2026-03-30T06:23:20.524Z"
 status: "active"
 ---
 

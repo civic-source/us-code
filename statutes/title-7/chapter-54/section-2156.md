@@ -3,9 +3,9 @@ title: "Section 2156 - Animal fighting venture prohibition"
 usc_title: 7
 usc_section: "2156"
 chapter: 54
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 2156"
-generated_at: "2026-03-30T06:19:46.695Z"
+generated_at: "2026-03-30T06:22:43.073Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6 - Evaluation of performance of Department of Justice programs"
 usc_title: 42
 usc_section: "6"
 chapter: 46
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T06:21:33.465Z"
+generated_at: "2026-03-30T06:24:31.123Z"
 status: "active"
 ---
 

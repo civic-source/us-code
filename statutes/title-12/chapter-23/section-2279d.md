@@ -3,9 +3,9 @@ title: "Section 2279d - Termination of System institution status"
 usc_title: 12
 usc_section: "2279d"
 chapter: 23
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "12 U.S.C. § 2279d"
-generated_at: "2026-03-30T06:20:00.366Z"
+generated_at: "2026-03-30T06:23:00.027Z"
 status: "active"
 ---
 

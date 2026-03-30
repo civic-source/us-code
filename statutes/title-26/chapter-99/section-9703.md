@@ -3,9 +3,9 @@ title: "Section 9703 - Plan benefits"
 usc_title: 26
 usc_section: "9703"
 chapter: 99
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 9703"
-generated_at: "2026-03-30T06:20:42.397Z"
+generated_at: "2026-03-30T06:23:46.935Z"
 status: "active"
 ---
 

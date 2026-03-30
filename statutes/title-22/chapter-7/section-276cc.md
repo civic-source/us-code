@@ -3,9 +3,9 @@ title: "Section 276cc - Acceptance of funds and property from other sources; lim
 usc_title: 22
 usc_section: "276cc"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 276cc"
-generated_at: "2026-03-30T06:20:29.476Z"
+generated_at: "2026-03-30T06:23:30.284Z"
 status: "active"
 ---
 

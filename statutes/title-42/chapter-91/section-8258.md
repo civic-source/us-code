@@ -3,9 +3,9 @@ title: "Section 8258 - Reports"
 usc_title: 42
 usc_section: "8258"
 chapter: 91
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8258"
-generated_at: "2026-03-30T06:21:33.590Z"
+generated_at: "2026-03-30T06:24:31.241Z"
 status: "active"
 ---
 

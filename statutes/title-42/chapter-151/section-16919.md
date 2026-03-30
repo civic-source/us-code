@@ -3,9 +3,9 @@ title: "Section 16919 - National Sex Offender Registry"
 usc_title: 42
 usc_section: "16919"
 chapter: 151
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 16919"
-generated_at: "2026-03-30T06:21:33.740Z"
+generated_at: "2026-03-30T06:24:31.379Z"
 status: "active"
 ---
 

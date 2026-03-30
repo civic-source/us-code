@@ -3,9 +3,9 @@ title: "Section 130510 - Statement required in audit report"
 usc_title: 36
 usc_section: "130510"
 chapter: 1305
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 130510"
-generated_at: "2026-03-30T06:21:06.575Z"
+generated_at: "2026-03-30T06:23:56.296Z"
 status: "active"
 ---
 

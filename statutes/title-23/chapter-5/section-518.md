@@ -3,9 +3,9 @@ title: "Section 518 - Vehicle-to-vehicle and vehicle-to-infrastructure communica
 usc_title: 23
 usc_section: "518"
 chapter: 5
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "23 U.S.C. § 518"
-generated_at: "2026-03-30T06:20:27.395Z"
+generated_at: "2026-03-30T06:23:27.354Z"
 status: "active"
 ---
 

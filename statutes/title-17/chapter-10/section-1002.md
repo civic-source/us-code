@@ -3,9 +3,9 @@ title: "Section 1002 - Incorporation of copying controls"
 usc_title: 17
 usc_section: "1002"
 chapter: 10
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "17 U.S.C. § 1002"
-generated_at: "2026-03-30T06:20:06.151Z"
+generated_at: "2026-03-30T06:23:07.258Z"
 status: "active"
 ---
 

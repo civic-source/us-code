@@ -3,9 +3,9 @@ title: "Section 7922 - Rule of construction regarding travel to and from school"
 usc_title: 20
 usc_section: "7922"
 chapter: 70
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 7922"
-generated_at: "2026-03-30T06:20:21.358Z"
+generated_at: "2026-03-30T06:23:07.087Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360b - New animal drugs"
 usc_title: 21
 usc_section: "360b"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 360b"
-generated_at: "2026-03-30T06:20:26.445Z"
+generated_at: "2026-03-30T06:23:28.368Z"
 status: "active"
 ---
 
@@ -134,7 +134,7 @@ status: "active"
     - **(E)** that the application contains any untrue statement of a material fact; or
     - **(F)** that the applicant has made any changes from the standpoint of safety or effectiveness beyond the variations provided for in the application unless he has supplemented the application by filing with the Secretary adequate information respecting all such changes and unless there is in effect an approval of the supplemental application. The supplemental application shall be treated in the same manner as the original application.
   - **(2)** The Secretary may also, after due notice and opportunity for hearing to the applicant, issue an order withdrawing the approval of an application with respect to any new animal drug under this section if the Secretary finds—
-    - **(A)** that the applicant has failed to establish a system for maintaining required rec­ords, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under subsection (1), or the applicant has refused to permit access to, or copying or verification of, such records as required by paragraph (2) of such subsection;
+    - **(A)** that the applicant has failed to establish a system for maintaining required rec­ords, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under subsection ( l ), or the applicant has refused to permit access to, or copying or verification of, such records as required by paragraph (2) of such subsection;
     - **(B)** that on the basis of new information before him, evaluated together with the evidence before him when the application was approved, the methods used in, or the facilities and controls used for, the manufacture, processing, and packing of such drug are inadequate to assure and preserve its identity, strength, quality, and purity and were not made adequate within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of; or
     - **(C)** that on the basis of new information before him, evaluated together with the evidence before him when the application was approved, the labeling of such drug, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of.
   - **(3)** Any order under this subsection shall state the findings upon which it is based.

@@ -3,9 +3,9 @@ title: "Section 1641 - Conveyances to Village Corporations"
 usc_title: 43
 usc_section: "1641"
 chapter: 33
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1641"
-generated_at: "2026-03-30T06:21:15.995Z"
+generated_at: "2026-03-30T06:24:05.104Z"
 status: "active"
 ---
 

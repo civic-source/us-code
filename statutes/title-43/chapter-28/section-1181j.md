@@ -1,15 +1,13 @@
 ---
-title: "Section 1181j - Appropriations to carry out sections 1181h and 1181i"
+title: "Section 1181j - Transferred"
 usc_title: 43
 usc_section: "1181j"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1181j"
-generated_at: "2026-03-30T06:21:15.979Z"
-status: "active"
+generated_at: "2026-03-30T06:24:05.089Z"
+status: "transferred"
 ---
 
-# § 1181j. Appropriations to carry out sections 1181h and 1181i
-
-For the purpose of carrying out the provisions of sections 1181h and 1181i of this title there are authorized to be appropriated such sums as the Congress may from time to time determine to be necessary.
+# § 1181j. Transferred
 

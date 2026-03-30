@@ -3,9 +3,9 @@ title: "Section 9 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 9"
-generated_at: "2026-03-30T06:20:21.239Z"
+generated_at: "2026-03-30T06:23:06.959Z"
 status: "active"
 ---
 

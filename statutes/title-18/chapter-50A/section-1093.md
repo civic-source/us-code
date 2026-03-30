@@ -3,9 +3,9 @@ title: "Section 1093 - Definitions"
 usc_title: 18
 usc_section: "1093"
 chapter: 50
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 1093"
-generated_at: "2026-03-30T06:20:05.746Z"
+generated_at: "2026-03-30T06:23:14.889Z"
 status: "active"
 ---
 

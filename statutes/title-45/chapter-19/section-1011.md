@@ -3,9 +3,9 @@ title: "Section 1011 - Authority of Railroad Retirement Board"
 usc_title: 45
 usc_section: "1011"
 chapter: 19
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "45 U.S.C. § 1011"
-generated_at: "2026-03-30T06:21:18.824Z"
+generated_at: "2026-03-30T06:24:00.093Z"
 status: "active"
 ---
 

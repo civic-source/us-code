@@ -3,9 +3,9 @@ title: "Section 7521 - Emission standards for new motor vehicles or new motor ve
 usc_title: 42
 usc_section: "7521"
 chapter: 85
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 7521"
-generated_at: "2026-03-30T06:21:33.566Z"
+generated_at: "2026-03-30T06:24:31.218Z"
 status: "active"
 ---
 

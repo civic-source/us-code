@@ -3,9 +3,9 @@ title: "Section 14041 - Enhanced training and services to end abuse in later lif
 usc_title: 42
 usc_section: "14041"
 chapter: 136
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 14041"
-generated_at: "2026-03-30T06:21:33.699Z"
+generated_at: "2026-03-30T06:24:31.342Z"
 status: "active"
 ---
 

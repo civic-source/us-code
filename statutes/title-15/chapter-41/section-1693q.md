@@ -3,9 +3,9 @@ title: "Section 1693q - Relation to State laws"
 usc_title: 15
 usc_section: "1693q"
 chapter: 41
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 1693q"
-generated_at: "2026-03-30T06:19:58.057Z"
+generated_at: "2026-03-30T06:23:02.007Z"
 status: "active"
 ---
 

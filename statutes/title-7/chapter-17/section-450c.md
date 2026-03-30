@@ -1,17 +1,13 @@
 ---
-title: "Section 450c - Delegation of regulatory functions of Secretary of Agriculture; definitions"
+title: "Section 450c - Transferred"
 usc_title: 7
 usc_section: "450c"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 450c"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 450c. Delegation of regulatory functions of Secretary of Agriculture; definitions
+# § 450c. Transferred
 
-As used in sections 450c to 450g of this title—
-
-- **(a)** The term “regulatory order” means an order, marketing agreement, standard, permit, license, registration, suspension or revocation of a permit, license, or registration, certificate, award, rule or regulation, if it has the force and effect of law, and if it may be made, prescribed, issued, or promulgated only after notice and hearing or opportunity for hearing have been given.
-- **(b)** The term “regulatory function” means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.

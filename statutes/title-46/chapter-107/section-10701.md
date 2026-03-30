@@ -3,9 +3,9 @@ title: "Section 10701 - Application"
 usc_title: 46
 usc_section: "10701"
 chapter: 107
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "46 U.S.C. § 10701"
-generated_at: "2026-03-30T06:21:40.596Z"
+generated_at: "2026-03-30T06:24:34.687Z"
 status: "active"
 ---
 

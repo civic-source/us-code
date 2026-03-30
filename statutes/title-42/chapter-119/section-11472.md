@@ -3,9 +3,9 @@ title: "Section 11472 - Repealed. Pub. L. 105–220, title I , § 199(b)(1), Aug
 usc_title: 42
 usc_section: "11472"
 chapter: 119
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 11472"
-generated_at: "2026-03-30T06:21:33.651Z"
+generated_at: "2026-03-30T06:24:31.298Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17012 - Advanced battery loan guarantee program"
 usc_title: 42
 usc_section: "17012"
 chapter: 152
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 17012"
-generated_at: "2026-03-30T06:21:33.742Z"
+generated_at: "2026-03-30T06:24:31.382Z"
 status: "active"
 ---
 

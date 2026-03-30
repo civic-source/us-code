@@ -3,9 +3,9 @@ title: "Section 2138 - Purchase of dogs or cats by United States Government faci
 usc_title: 7
 usc_section: "2138"
 chapter: 54
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 2138"
-generated_at: "2026-03-30T06:19:46.694Z"
+generated_at: "2026-03-30T06:22:43.071Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1964 - Terms of loans"
 usc_title: 7
 usc_section: "1964"
 chapter: 50
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 1964"
-generated_at: "2026-03-30T06:19:46.674Z"
+generated_at: "2026-03-30T06:22:43.051Z"
 status: "active"
 ---
 

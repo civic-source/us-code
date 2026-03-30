@@ -3,9 +3,9 @@ title: "Section 42109 - Consultation with other agencies"
 usc_title: 46
 usc_section: "42109"
 chapter: 421
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "46 U.S.C. § 42109"
-generated_at: "2026-03-30T06:21:40.605Z"
+generated_at: "2026-03-30T06:24:34.695Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 421 - Dairying and livestock experiment station, Mandan, North Dakota"
+title: "Section 421 - Omitted"
 usc_title: 7
 usc_section: "421"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 421"
-generated_at: "2026-03-30T06:19:46.623Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "omitted"
 ---
 
-# § 421. Dairying and livestock experiment station, Mandan, North Dakota
-
-The Secretary of Agriculture is authorized and directed to establish at Mandan, North Dakota, a dairying and livestock experiment station, in connection with the Great Plains Experiment Station, for investigations and experiments in the dairy and livestock industries and the problems pertaining to the establishment and development of such industries, and for demonstrations, assistance, and service in livestock breeding, growing, and feeding.
+# § 421. Omitted
 

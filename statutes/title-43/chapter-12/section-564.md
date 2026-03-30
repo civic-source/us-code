@@ -3,9 +3,9 @@ title: "Section 564 - Reappraisal of town lots for sale"
 usc_title: 43
 usc_section: "564"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 564"
-generated_at: "2026-03-30T06:21:15.968Z"
+generated_at: "2026-03-30T06:24:05.078Z"
 status: "active"
 ---
 

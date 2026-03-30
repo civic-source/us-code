@@ -3,9 +3,9 @@ title: "Section 294q - National Health Care Workforce Commission"
 usc_title: 42
 usc_section: "294q"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 294q"
-generated_at: "2026-03-30T06:21:33.129Z"
+generated_at: "2026-03-30T06:24:30.801Z"
 status: "active"
 ---
 

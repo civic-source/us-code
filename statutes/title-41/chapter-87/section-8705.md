@@ -3,9 +3,9 @@ title: "Section 8705 - Administrative offsets"
 usc_title: 41
 usc_section: "8705"
 chapter: 87
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "41 U.S.C. § 8705"
-generated_at: "2026-03-30T06:21:20.732Z"
+generated_at: "2026-03-30T06:23:59.599Z"
 status: "active"
 ---
 

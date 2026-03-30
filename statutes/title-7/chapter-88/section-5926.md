@@ -3,16 +3,16 @@ title: "Section 5926 - Centers of excellence"
 usc_title: 7
 usc_section: "5926"
 chapter: 88
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 5926"
-generated_at: "2026-03-30T06:19:46.724Z"
+generated_at: "2026-03-30T06:22:43.102Z"
 status: "active"
 ---
 
 # § 5926. Centers of excellence
 
 - **(a)** The Secretary shall prioritize centers of excellence established for purposes of carrying out research, extension, and education activities relating to the food and agricultural sciences (as defined in section 3103 of this title ) for the receipt of funding for any competitive research or extension program administered by the Secretary.
-- **(b)** A center of excellence is composed of 1 or more of the eligible entities specified in subsection (b)(7) of section 450i of this title that provide financial or in-kind support to the center of excellence.
+- **(b)** A center of excellence is composed of 1 or more of the eligible entities specified in subsection (b)(7) of section 3157 of this title that provide financial or in-kind support to the center of excellence.
 - **(c)**
   - **(1)** The criteria for recognition as a center of excellence shall include efforts—
     - **(A)** to ensure coordination and cost effectiveness by reducing unnecessarily duplicative efforts regarding research, teaching, and extension;

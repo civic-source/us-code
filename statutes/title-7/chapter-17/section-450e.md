@@ -1,15 +1,13 @@
 ---
-title: "Section 450e - Authority of designated employees; retroactive revocation of delegation"
+title: "Section 450e - Transferred"
 usc_title: 7
 usc_section: "450e"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 450e"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 450e. Authority of designated employees; retroactive revocation of delegation
-
-Whenever a delegation is made under section 450d of this title , all provisions of law shall be construed as if the regulatory function or the part thereof delegated had (to the extent of the delegation) been vested by law in the individual to whom the delegation is made, instead of in the Secretary of Agriculture. A revocation of delegation shall not be retroactive, and each regulatory function or part thereof performed (within the scope of the delegation) by such individual prior to the revocation shall be considered as having been performed by the Secretary.
+# § 450e. Transferred
 

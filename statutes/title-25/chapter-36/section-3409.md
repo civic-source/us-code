@@ -3,9 +3,9 @@ title: "Section 3409 - Private sector training placements"
 usc_title: 25
 usc_section: "3409"
 chapter: 36
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 3409"
-generated_at: "2026-03-30T06:20:24.525Z"
+generated_at: "2026-03-30T06:23:26.865Z"
 status: "active"
 ---
 

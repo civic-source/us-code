@@ -3,9 +3,9 @@ title: "Section 121 - Regulations"
 usc_title: 10
 usc_section: "121"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 121"
-generated_at: "2026-03-30T06:19:43.811Z"
+generated_at: "2026-03-30T06:22:46.384Z"
 status: "active"
 ---
 

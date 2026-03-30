@@ -3,9 +3,9 @@ title: "Section 308 - Assistant Secretaries; Deputy Assistant Secretaries"
 usc_title: 38
 usc_section: "308"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "38 U.S.C. § 308"
-generated_at: "2026-03-30T06:21:07.897Z"
+generated_at: "2026-03-30T06:23:57.863Z"
 status: "active"
 ---
 
@@ -31,6 +31,7 @@ status: "active"
   - **(9)** Functions regarding intergovernmental, public, and consumer information and affairs.
   - **(10)** Procurement functions.
   - **(11)** Operations, preparedness, security, and law enforcement functions.
+  - **(12)** The functions set forth in section 323(c) of this title .
 - **(c)** Whenever the President nominates an individual for appointment as an Assistant Secretary, the President shall include in the communication to the Senate of the nomination a statement of the particular functions of the Department specified in subsection (b), and any other functions of the Department, the individual will exercise upon taking office.
 - **(d)**
   - **(1)** There shall be in the Department such number of Deputy Assistant Secretaries, not exceeding 19, as the Secretary may determine. Each Deputy Assistant Secretary shall be appointed by the Secretary and shall perform such functions as the Secretary prescribes.

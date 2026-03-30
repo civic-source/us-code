@@ -3,9 +3,9 @@ title: "Section 6002 - Purposes for grants"
 usc_title: 15
 usc_section: "6002"
 chapter: 86
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 6002"
-generated_at: "2026-03-30T06:19:58.100Z"
+generated_at: "2026-03-30T06:23:02.048Z"
 status: "active"
 ---
 

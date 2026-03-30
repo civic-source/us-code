@@ -3,9 +3,9 @@ title: "Section 256e - Program of payments to children’s hospitals that operat
 usc_title: 42
 usc_section: "256e"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 256e"
-generated_at: "2026-03-30T06:21:33.079Z"
+generated_at: "2026-03-30T06:24:30.755Z"
 status: "active"
 ---
 

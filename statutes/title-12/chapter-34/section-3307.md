@@ -3,9 +3,9 @@ title: "Section 3307 - Administration"
 usc_title: 12
 usc_section: "3307"
 chapter: 34
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "12 U.S.C. § 3307"
-generated_at: "2026-03-30T06:20:00.376Z"
+generated_at: "2026-03-30T06:23:00.037Z"
 status: "active"
 ---
 

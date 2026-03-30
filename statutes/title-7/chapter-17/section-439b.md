@@ -1,15 +1,13 @@
 ---
-title: "Section 439b - Recommendations to Congress for discontinuance of plants"
+title: "Section 439b - Omitted"
 usc_title: 7
 usc_section: "439b"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 439b"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "omitted"
 ---
 
-# § 439b. Recommendations to Congress for discontinuance of plants
-
-Whenever the Secretary finds that the operation of any plant or plants as provided in sections 439 to 439e of this title is no longer necessary or desirable, he shall report such fact to Congress with his recommendations for the disposition thereof.
+# § 439b. Omitted
 

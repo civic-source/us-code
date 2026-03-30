@@ -3,9 +3,9 @@ title: "Section 8287 - Authority to enter into contracts"
 usc_title: 42
 usc_section: "8287"
 chapter: 91
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8287"
-generated_at: "2026-03-30T06:21:33.592Z"
+generated_at: "2026-03-30T06:24:31.242Z"
 status: "active"
 ---
 

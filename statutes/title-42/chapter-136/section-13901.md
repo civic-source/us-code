@@ -3,9 +3,9 @@ title: "Section 13901 - Authority of Attorney General"
 usc_title: 42
 usc_section: "13901"
 chapter: 136
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 13901"
-generated_at: "2026-03-30T06:21:33.697Z"
+generated_at: "2026-03-30T06:24:31.340Z"
 status: "active"
 ---
 

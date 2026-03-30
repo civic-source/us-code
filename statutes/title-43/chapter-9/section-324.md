@@ -3,9 +3,9 @@ title: "Section 324 - Assignment of entries"
 usc_title: 43
 usc_section: "324"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 324"
-generated_at: "2026-03-30T06:21:15.956Z"
+generated_at: "2026-03-30T06:24:05.066Z"
 status: "active"
 ---
 

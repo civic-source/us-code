@@ -3,9 +3,9 @@ title: "Section 5925 - High-priority research and extension initiatives"
 usc_title: 7
 usc_section: "5925"
 chapter: 88
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 5925"
-generated_at: "2026-03-30T06:19:46.723Z"
+generated_at: "2026-03-30T06:22:43.102Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (d) through (g). The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 - **(b)**
-  - **(1)** Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.
+  - **(1)** Except as otherwise provided in this section, paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of grants under this section.
   - **(2)** To facilitate the making of research and extension grants under this section in the research and extension areas specified in subsections (d) through (g), the Secretary may appoint a task force for each such area to make recommendations to the Secretary. The Secretary may not incur costs in excess of $1,000 for any fiscal year in connection with each task force established under this paragraph.
 - **(c)** Following the completion of a peer review process for grant proposals received under this section, the Secretary shall provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.
 - **(d)**
@@ -48,7 +48,7 @@ status: "active"
     - **(E)** education and technical assistance programs with respect to pulse crops, such as programs—
       - **(i)** providing technical expertise to help food companies include pulse crops in innovative and healthy food; and
       - **(ii)** establishing an educational program to encourage pulse crop consumption in the United States.
-  - **(3)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a competitive grant under this subsection.
+  - **(3)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of a competitive grant under this subsection.
   - **(4)** In making competitive grants under this subsection, the Secretary shall provide a higher priority to projects that—
     - **(A)** are multistate, multiinstitutional, and multidisciplinary; and
     - **(B)** include explicit mechanisms to communicate results to the pulse crop industry and the public.

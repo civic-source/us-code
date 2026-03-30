@@ -3,9 +3,9 @@ title: "Section 572 - Cooperation between Secretary of Agriculture and public or
 usc_title: 16
 usc_section: "572"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 572"
-generated_at: "2026-03-30T06:20:08.613Z"
+generated_at: "2026-03-30T06:23:20.507Z"
 status: "active"
 ---
 

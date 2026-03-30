@@ -3,9 +3,9 @@ title: "Section 944 - Effect of confirmation"
 usc_title: 11
 usc_section: "944"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "11 U.S.C. § 944"
-generated_at: "2026-03-30T06:19:54.349Z"
+generated_at: "2026-03-30T06:22:56.930Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 91 - Repealed. Pub. L. 85–857 , § 14(1), Sept. 2, 1958 , 72 S
 usc_title: 24
 usc_section: "91"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "24 U.S.C. § 91"
-generated_at: "2026-03-30T06:20:23.246Z"
+generated_at: "2026-03-30T06:23:25.503Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 145a - Periodical binding of printed hearings of committee testi
 usc_title: 2
 usc_section: "145a"
 chapter: 5
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "2 U.S.C. § 145a"
-generated_at: "2026-03-30T06:19:36.041Z"
+generated_at: "2026-03-30T06:22:09.217Z"
 status: "active"
 ---
 

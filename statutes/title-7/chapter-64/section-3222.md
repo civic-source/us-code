@@ -3,9 +3,9 @@ title: "Section 3222 - Agricultural research at 1890 land-grant colleges, includ
 usc_title: 7
 usc_section: "3222"
 chapter: 64
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 3222"
-generated_at: "2026-03-30T06:19:46.708Z"
+generated_at: "2026-03-30T06:22:43.086Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
 - **(b)** Beginning with the fiscal year ending September 30, 1979 , the funds appropriated in each fiscal year under this section shall be distributed as follows:
   - **(1)** Three per centum shall be available to the Secretary for administration of this section. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
   - **(2)** The remainder shall be allotted among the eligible institutions as follows:
-    - **(A)** Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978 , under section 450i of this title , shall be allocated among the eligible institutions in the same proportion as funds made available under section 450i of this title , for the fiscal year ending September 30, 1978 , are allocated among the eligible institutions.
+    - **(A)** Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978 , under section 3157 of this title , shall be allocated among the eligible institutions in the same proportion as funds made available under section 3157 of this title , for the fiscal year ending September 30, 1978 , are allocated among the eligible institutions.
     - **(B)** Of funds in excess of the amount allocated under subparagraph (A) of this paragraph, 20 per centum shall be allotted among eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated. In computing the distribution of funds allocated under this subparagraph, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
 - **(c)**
   - **(1)** The director of the State agricultural experiment station in each State where an eligible institution is located and the research director specified in subsection (d) of this section in each of the eligible institutions in such State shall jointly develop, by mutual agreement, a comprehensive program of agricultural research in such State, to be submitted for approval by the Secretary within one year after September 29, 1977 .

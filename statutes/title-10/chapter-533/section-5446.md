@@ -3,9 +3,9 @@ title: "Section 5446 - Repealed. Pub. L. 101–510, div. A, title IV , § 403(b)
 usc_title: 10
 usc_section: "5446"
 chapter: 533
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 5446"
-generated_at: "2026-03-30T06:19:43.937Z"
+generated_at: "2026-03-30T06:22:46.491Z"
 status: "repealed"
 ---
 

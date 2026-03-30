@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5"
 chapter: 21
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T06:21:33.406Z"
+generated_at: "2026-03-30T06:24:31.067Z"
 status: "active"
 ---
 

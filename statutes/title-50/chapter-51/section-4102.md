@@ -3,9 +3,9 @@ title: "Section 4102 - Jurisdiction of Commission"
 usc_title: 50
 usc_section: "4102"
 chapter: 51
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "50 U.S.C. § 4102"
-generated_at: "2026-03-30T06:21:38.496Z"
+generated_at: "2026-03-30T06:24:45.874Z"
 status: "active"
 ---
 

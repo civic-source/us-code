@@ -3,9 +3,9 @@ title: "Section 3322 - Enhancement project proposals"
 usc_title: 16
 usc_section: "3322"
 chapter: 52
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 3322"
-generated_at: "2026-03-30T06:20:08.701Z"
+generated_at: "2026-03-30T06:23:20.595Z"
 status: "active"
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Section 1181b - Cooperative agreements with other agencies or private owners for coordinated administration"
+title: "Section 1181b - Transferred"
 usc_title: 43
 usc_section: "1181b"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1181b"
-generated_at: "2026-03-30T06:21:15.979Z"
-status: "active"
+generated_at: "2026-03-30T06:24:05.089Z"
+status: "transferred"
 ---
 
-# § 1181b. Cooperative agreements with other agencies or private owners for coordinated administration
-
-The Secretary of the Interior is authorized, in his discretion, to make cooperative agreements with other Federal or State forest administrative agencies or with private forest owners or operators for the coordinated administration, with respect to time, rate, method of cutting, and sustained yield, of forest units comprising parts of revested or reconveyed lands, together with lands in private ownership or under the administration of other public agencies, when by such agreements he may be aided in accomplishing the purposes mentioned in sections 1181a and 1181b of this title.
+# § 1181b. Transferred
 

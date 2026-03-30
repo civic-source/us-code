@@ -3,9 +3,9 @@ title: "Section 8924 - Sanctions on Russian and other foreign financial institut
 usc_title: 22
 usc_section: "8924"
 chapter: 96
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 8924"
-generated_at: "2026-03-30T06:20:29.602Z"
+generated_at: "2026-03-30T06:23:30.412Z"
 status: "active"
 ---
 

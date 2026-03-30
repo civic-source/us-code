@@ -3,9 +3,9 @@ title: "Section 8542 - Identification of countries of concern with respect to th
 usc_title: 22
 usc_section: "8542"
 chapter: 92
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 8542"
-generated_at: "2026-03-30T06:20:29.598Z"
+generated_at: "2026-03-30T06:23:30.408Z"
 status: "active"
 ---
 

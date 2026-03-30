@@ -3,9 +3,9 @@ title: "Section 691g - Repealed. Pub. L. 99–371, title II , § 210(d), formerl
 usc_title: 20
 usc_section: "691g"
 chapter: 20
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 691g"
-generated_at: "2026-03-30T06:20:21.242Z"
+generated_at: "2026-03-30T06:23:06.962Z"
 status: "repealed"
 ---
 

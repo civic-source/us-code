@@ -3,9 +3,9 @@ title: "Section 8105 - Fishing vessel exemption"
 usc_title: 46
 usc_section: "8105"
 chapter: 81
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "46 U.S.C. § 8105"
-generated_at: "2026-03-30T06:21:40.594Z"
+generated_at: "2026-03-30T06:24:34.685Z"
 status: "active"
 ---
 

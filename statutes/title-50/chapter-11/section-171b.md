@@ -3,9 +3,9 @@ title: "Section 171b - Repealed. Pub. L. 85–861 , § 36A, Sept. 2, 1958 , 72 S
 usc_title: 50
 usc_section: "171b"
 chapter: 11
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "50 U.S.C. § 171b"
-generated_at: "2026-03-30T06:21:38.441Z"
+generated_at: "2026-03-30T06:24:45.822Z"
 status: "repealed"
 ---
 

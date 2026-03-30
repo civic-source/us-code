@@ -3,9 +3,9 @@ title: "Section 1232 - Reclamation fee"
 usc_title: 30
 usc_section: "1232"
 chapter: 25
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "30 U.S.C. § 1232"
-generated_at: "2026-03-30T06:20:47.068Z"
+generated_at: "2026-03-30T06:23:32.902Z"
 status: "active"
 ---
 

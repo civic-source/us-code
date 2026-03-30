@@ -3,9 +3,9 @@ title: "Section 24 - Customer property with respect to commodity broker debtors;
 usc_title: 7
 usc_section: "24"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 24"
-generated_at: "2026-03-30T06:19:46.599Z"
+generated_at: "2026-03-30T06:22:42.978Z"
 status: "active"
 ---
 

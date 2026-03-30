@@ -3,9 +3,9 @@ title: "Section 949o - Record of trial"
 usc_title: 10
 usc_section: "949o"
 chapter: 47
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 949o"
-generated_at: "2026-03-30T06:19:43.844Z"
+generated_at: "2026-03-30T06:22:46.412Z"
 status: "active"
 ---
 

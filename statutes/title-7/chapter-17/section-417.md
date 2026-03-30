@@ -1,15 +1,13 @@
 ---
-title: "Section 417 - Distribution of farmers’ bulletins"
+title: "Section 417 - Transferred"
 usc_title: 7
 usc_section: "417"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 417"
-generated_at: "2026-03-30T06:19:46.623Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 417. Distribution of farmers’ bulletins
-
-In the distribution of farmers’ bulletins, which shall be adapted to the interests of the people of the different sections of the country, an equal proportion of four-fifths shall be delivered to or sent out under the addressed franks furnished by Senators, Representatives, and Delegates in Congress, as such Senators, Representatives, or Delegates shall direct: Provided , That the Secretary of Agriculture shall notify Senators, Representatives, and Delegates in Congress of the title and character of each such bulletin, with the total number to which each Senator, Representative, and Delegate may be entitled for such distribution; and on the face of the envelope inclosing said bulletins shall be printed the title of each bulletin contained therein.
+# § 417. Transferred
 

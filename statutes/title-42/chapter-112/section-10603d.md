@@ -3,9 +3,9 @@ title: "Section 10603d - Crime victims legal assistance grants"
 usc_title: 42
 usc_section: "10603d"
 chapter: 112
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 10603d"
-generated_at: "2026-03-30T06:21:33.639Z"
+generated_at: "2026-03-30T06:24:31.286Z"
 status: "active"
 ---
 

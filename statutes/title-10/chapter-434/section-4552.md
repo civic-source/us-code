@@ -3,9 +3,9 @@ title: "Section 4552 - Policy"
 usc_title: 10
 usc_section: "4552"
 chapter: 434
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 4552"
-generated_at: "2026-03-30T06:19:43.933Z"
+generated_at: "2026-03-30T06:22:46.488Z"
 status: "active"
 ---
 

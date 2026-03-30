@@ -3,9 +3,9 @@ title: "Section 7218 - Planting flexibility"
 usc_title: 7
 usc_section: "7218"
 chapter: 100
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 7218"
-generated_at: "2026-03-30T06:19:46.740Z"
+generated_at: "2026-03-30T06:22:43.118Z"
 status: "active"
 ---
 

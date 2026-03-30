@@ -3,9 +3,9 @@ title: "Section 1509 - Costs of publication, etc."
 usc_title: 44
 usc_section: "1509"
 chapter: 15
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "44 U.S.C. § 1509"
-generated_at: "2026-03-30T06:21:19.073Z"
+generated_at: "2026-03-30T06:23:59.835Z"
 status: "active"
 ---
 

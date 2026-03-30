@@ -3,9 +3,9 @@ title: "Section 7108 - Actions against significant traffickers in persons"
 usc_title: 22
 usc_section: "7108"
 chapter: 78
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 7108"
-generated_at: "2026-03-30T06:20:29.584Z"
+generated_at: "2026-03-30T06:23:30.393Z"
 status: "active"
 ---
 

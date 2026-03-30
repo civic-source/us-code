@@ -3,9 +3,9 @@ title: "Section 2697 - Acceptance of gifts on behalf of United States"
 usc_title: 22
 usc_section: "2697"
 chapter: 38
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 2697"
-generated_at: "2026-03-30T06:20:29.533Z"
+generated_at: "2026-03-30T06:23:30.341Z"
 status: "active"
 ---
 

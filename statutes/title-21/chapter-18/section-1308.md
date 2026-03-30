@@ -3,9 +3,9 @@ title: "Section 1308 - Omitted"
 usc_title: 21
 usc_section: "1308"
 chapter: 18
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 1308"
-generated_at: "2026-03-30T06:20:26.490Z"
+generated_at: "2026-03-30T06:23:28.413Z"
 status: "omitted"
 ---
 

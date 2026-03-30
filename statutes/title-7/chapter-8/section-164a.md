@@ -3,9 +3,9 @@ title: "Section 164a - Repealed. Pub. L. 106–224, title IV , § 438(a)(1), Jun
 usc_title: 7
 usc_section: "164a"
 chapter: 8
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 164a"
-generated_at: "2026-03-30T06:19:46.617Z"
+generated_at: "2026-03-30T06:22:42.996Z"
 status: "repealed"
 ---
 

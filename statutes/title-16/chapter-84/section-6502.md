@@ -3,9 +3,9 @@ title: "Section 6502 - Definitions"
 usc_title: 16
 usc_section: "6502"
 chapter: 84
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 6502"
-generated_at: "2026-03-30T06:20:08.726Z"
+generated_at: "2026-03-30T06:23:20.620Z"
 status: "active"
 ---
 

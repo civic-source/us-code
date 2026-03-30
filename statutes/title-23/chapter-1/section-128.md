@@ -3,9 +3,9 @@ title: "Section 128 - Public hearings"
 usc_title: 23
 usc_section: "128"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "23 U.S.C. § 128"
-generated_at: "2026-03-30T06:20:27.378Z"
+generated_at: "2026-03-30T06:23:27.339Z"
 status: "active"
 ---
 

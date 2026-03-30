@@ -3,9 +3,9 @@ title: "Section 130111 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "130111"
 chapter: 1301
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 130111"
-generated_at: "2026-03-30T06:21:06.575Z"
+generated_at: "2026-03-30T06:23:56.295Z"
 status: "active"
 ---
 

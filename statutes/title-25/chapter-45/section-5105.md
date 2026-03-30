@@ -3,9 +3,9 @@ title: "Section 5105 - Title to lands"
 usc_title: 25
 usc_section: "5105"
 chapter: 45
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 5105"
-generated_at: "2026-03-30T06:20:24.535Z"
+generated_at: "2026-03-30T06:23:26.875Z"
 status: "active"
 ---
 

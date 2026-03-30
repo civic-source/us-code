@@ -1,15 +1,13 @@
 ---
-title: "Section 432 - Purchase of cultures for soil and fertilizer investigations"
+title: "Section 432 - Transferred"
 usc_title: 7
 usc_section: "432"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 432"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 432. Purchase of cultures for soil and fertilizer investigations
-
-The Secretary of Agriculture may purchase from applicable appropriations cultures in the open market for use in connection with soil and fertilizer investigations.
+# § 432. Transferred
 

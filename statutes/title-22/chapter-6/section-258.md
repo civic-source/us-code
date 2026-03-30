@@ -3,9 +3,9 @@ title: "Section 258 - Commitment and discharge"
 usc_title: 22
 usc_section: "258"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 258"
-generated_at: "2026-03-30T06:20:29.470Z"
+generated_at: "2026-03-30T06:23:30.278Z"
 status: "active"
 ---
 

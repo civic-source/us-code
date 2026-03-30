@@ -3,9 +3,9 @@ title: "Section 7502 - Nonattainment plan provisions in general"
 usc_title: 42
 usc_section: "7502"
 chapter: 85
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 7502"
-generated_at: "2026-03-30T06:21:33.562Z"
+generated_at: "2026-03-30T06:24:31.215Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
       - **(i)** the State has complied with all requirements and commitments pertaining to the area in the applicable implementation plan, and
       - **(ii)** in accordance with guidance published by the Administrator, no more than a minimal number of exceedances of the relevant national ambient air quality standard has occurred in the area in the year preceding the Extension Year.
     - **(D)** This paragraph shall not apply with respect to nonattainment areas for which attainment dates are specifically provided under other provisions of this part.
-- **(b)** At the time the Administrator promulgates the designation of an area as nonattainment with respect to a national ambient air quality standard under section 7407(d) of this title , the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title . Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of the nonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) of this section and section 7410(a)(2) of this title .
+- **(b)** At the time the Administrator promulgates the designation of an area as nonattainment with respect to a national ambient air quality standard under section 7407(d) of this title , the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title . Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of the nonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title .
 - **(c)** The plan provisions (including plan items) required to be submitted under this part shall comply with each of the following:
   - **(1)** Such plan provisions shall provide for the implementation of all reasonably available control measures as expeditiously as practicable (including such reductions in emissions from existing sources in the area as may be obtained through the adoption, at a minimum, of reasonably available control technology) and shall provide for attainment of the national primary ambient air quality standards.
   - **(2)** Such plan provisions shall require reasonable further progress.

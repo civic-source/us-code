@@ -3,9 +3,9 @@ title: "Section 3061 - Investigative powers of Postal Service personnel"
 usc_title: 18
 usc_section: "3061"
 chapter: 203
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 3061"
-generated_at: "2026-03-30T06:20:05.767Z"
+generated_at: "2026-03-30T06:23:14.912Z"
 status: "active"
 ---
 

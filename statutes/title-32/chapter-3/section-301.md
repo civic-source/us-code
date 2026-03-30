@@ -3,9 +3,9 @@ title: "Section 301 - Federal recognition of enlisted members"
 usc_title: 32
 usc_section: "301"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "32 U.S.C. § 301"
-generated_at: "2026-03-30T06:20:48.954Z"
+generated_at: "2026-03-30T06:23:48.594Z"
 status: "active"
 ---
 

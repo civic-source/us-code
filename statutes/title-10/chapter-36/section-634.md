@@ -3,9 +3,9 @@ title: "Section 634 - Retirement for years of service: regular colonels and Navy
 usc_title: 10
 usc_section: "634"
 chapter: 36
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 634"
-generated_at: "2026-03-30T06:19:43.832Z"
+generated_at: "2026-03-30T06:22:46.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3433 - Testimony and production of papers in extraordinary chall
 usc_title: 19
 usc_section: "3433"
 chapter: 21
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "19 U.S.C. § 3433"
-generated_at: "2026-03-30T06:20:13.649Z"
+generated_at: "2026-03-30T06:23:23.510Z"
 status: "active"
 ---
 

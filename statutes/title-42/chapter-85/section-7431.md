@@ -3,9 +3,9 @@ title: "Section 7431 - Land use authority"
 usc_title: 42
 usc_section: "7431"
 chapter: 85
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 7431"
-generated_at: "2026-03-30T06:21:33.560Z"
+generated_at: "2026-03-30T06:24:31.214Z"
 status: "active"
 ---
 

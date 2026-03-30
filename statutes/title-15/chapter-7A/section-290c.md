@@ -3,9 +3,9 @@ title: "Section 290c - Standards, criteria, and procedures for preparation and p
 usc_title: 15
 usc_section: "290c"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 290c"
-generated_at: "2026-03-30T06:19:57.989Z"
+generated_at: "2026-03-30T06:23:01.942Z"
 status: "active"
 ---
 

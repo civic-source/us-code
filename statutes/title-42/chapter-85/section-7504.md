@@ -3,9 +3,9 @@ title: "Section 7504 - Planning procedures"
 usc_title: 42
 usc_section: "7504"
 chapter: 85
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 7504"
-generated_at: "2026-03-30T06:21:33.563Z"
+generated_at: "2026-03-30T06:24:31.215Z"
 status: "active"
 ---
 

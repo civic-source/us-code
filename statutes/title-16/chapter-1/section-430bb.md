@@ -3,9 +3,9 @@ title: "Section 430bb - Determination of desirable areas"
 usc_title: 16
 usc_section: "430bb"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 430bb"
-generated_at: "2026-03-30T06:20:08.560Z"
+generated_at: "2026-03-30T06:23:20.453Z"
 status: "active"
 ---
 

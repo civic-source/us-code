@@ -3,9 +3,9 @@ title: "Section 6612 - State of mind; bystander liability; control"
 usc_title: 15
 usc_section: "6612"
 chapter: 92
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 6612"
-generated_at: "2026-03-30T06:19:58.105Z"
+generated_at: "2026-03-30T06:23:02.053Z"
 status: "active"
 ---
 

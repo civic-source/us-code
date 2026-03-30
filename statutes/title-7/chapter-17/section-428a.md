@@ -1,15 +1,13 @@
 ---
-title: "Section 428a - Acquisition of land; options"
+title: "Section 428a - Transferred"
 usc_title: 7
 usc_section: "428a"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 428a"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 428a. Acquisition of land; options
+# § 428a. Transferred
 
-- **(a)** The Department of Agriculture is authorized to acquire land, or interest therein, by purchase, exchange or otherwise, as may be necessary to carry out its authorized work: Provided , That no acquisition shall be made under this authority unless provision is made therefor in the applicable appropriation or other law.
-- **(b)** Appropriations for the Department of Agriculture which are available for the purchase of land may be expended for options to purchase land: Provided , That not to exceed $1 may be expended for each option to purchase any particular tract or tracts of land unless otherwise provided in appropriation or other law.

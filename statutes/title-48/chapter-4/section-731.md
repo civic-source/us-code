@@ -3,9 +3,9 @@ title: "Section 731 - Territory included under name Puerto Rico"
 usc_title: 48
 usc_section: "731"
 chapter: 4
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "48 U.S.C. § 731"
-generated_at: "2026-03-30T06:21:41.798Z"
+generated_at: "2026-03-30T06:24:33.990Z"
 status: "active"
 ---
 

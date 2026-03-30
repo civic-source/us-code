@@ -3,9 +3,9 @@ title: "Section 1913 - Appropriations for supplying depository libraries; restri
 usc_title: 44
 usc_section: "1913"
 chapter: 19
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "44 U.S.C. § 1913"
-generated_at: "2026-03-30T06:21:19.074Z"
+generated_at: "2026-03-30T06:23:59.836Z"
 status: "active"
 ---
 

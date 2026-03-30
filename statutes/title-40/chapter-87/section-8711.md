@@ -3,9 +3,9 @@ title: "Section 8711 - National Capital Planning Commission"
 usc_title: 40
 usc_section: "8711"
 chapter: 87
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "40 U.S.C. § 8711"
-generated_at: "2026-03-30T06:21:09.141Z"
+generated_at: "2026-03-30T06:23:56.708Z"
 status: "active"
 ---
 

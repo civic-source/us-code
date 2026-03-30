@@ -3,9 +3,9 @@ title: "Section 7410 - Grant eligibility requirements and compliance with immigr
 usc_title: 15
 usc_section: "7410"
 chapter: 100
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 7410"
-generated_at: "2026-03-30T06:19:58.114Z"
+generated_at: "2026-03-30T06:23:02.061Z"
 status: "active"
 ---
 

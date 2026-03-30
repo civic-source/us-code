@@ -3,9 +3,9 @@ title: "Section 3831 - Repealed. Pub. L. 104–201, div. C, title XXXV , § 3546
 usc_title: 22
 usc_section: "3831"
 chapter: 51
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 3831"
-generated_at: "2026-03-30T06:20:29.548Z"
+generated_at: "2026-03-30T06:23:30.356Z"
 status: "repealed"
 ---
 

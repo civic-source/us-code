@@ -3,9 +3,9 @@ title: "Section 1043 - Rules and regulations; administration and enforcement"
 usc_title: 21
 usc_section: "1043"
 chapter: 15
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 1043"
-generated_at: "2026-03-30T06:20:26.489Z"
+generated_at: "2026-03-30T06:23:28.412Z"
 status: "active"
 ---
 

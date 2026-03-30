@@ -3,9 +3,9 @@ title: "Section 708 - Assignments; succession"
 usc_title: 30
 usc_section: "708"
 chapter: 20
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "30 U.S.C. § 708"
-generated_at: "2026-03-30T06:20:47.058Z"
+generated_at: "2026-03-30T06:23:32.892Z"
 status: "active"
 ---
 

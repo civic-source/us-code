@@ -3,9 +3,9 @@ title: "Section 4501 - Findings and declarations"
 usc_title: 22
 usc_section: "4501"
 chapter: 55
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 4501"
-generated_at: "2026-03-30T06:20:29.561Z"
+generated_at: "2026-03-30T06:23:30.369Z"
 status: "active"
 ---
 

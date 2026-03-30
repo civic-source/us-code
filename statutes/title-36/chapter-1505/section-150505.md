@@ -3,9 +3,9 @@ title: "Section 150505 - Governing body"
 usc_title: 36
 usc_section: "150505"
 chapter: 1505
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 150505"
-generated_at: "2026-03-30T06:21:06.576Z"
+generated_at: "2026-03-30T06:23:56.297Z"
 status: "active"
 ---
 

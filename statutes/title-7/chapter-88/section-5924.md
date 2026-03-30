@@ -3,9 +3,9 @@ title: "Section 5924 - Agricultural Genome Initiative"
 usc_title: 7
 usc_section: "5924"
 chapter: 88
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 5924"
-generated_at: "2026-03-30T06:19:46.723Z"
+generated_at: "2026-03-30T06:22:43.102Z"
 status: "active"
 ---
 
@@ -32,5 +32,5 @@ status: "active"
   - **(1)** The Secretary may make grants or enter into cooperative agreements with individuals and organizations in accordance with section 3318 of this title .
   - **(2)** A grant or cooperative agreement under this subsection shall be made or entered into on a competitive basis.
   - **(3)** The Secretary shall encourage awards under this section to consortia of eligible entities.
-- **(d)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
+- **(d)** Paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title shall apply with respect to the making of a grant or cooperative agreement under this section.
 - **(e)** The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.

@@ -3,9 +3,9 @@ title: "Section 8 - Pesticide registration service fees"
 usc_title: 7
 usc_section: "8"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T06:19:46.610Z"
+generated_at: "2026-03-30T06:22:42.988Z"
 status: "active"
 ---
 
@@ -65,7 +65,7 @@ status: "active"
       - **(i)** The Administrator may exempt from, or waive a portion of, the registration service fee for an application for minor uses for a pesticide.
       - **(ii)** An applicant requesting a waiver or exemption under this subparagraph shall provide supporting documentation that demonstrates, to the satisfaction of the Administrator, that anticipated revenues from the uses that are the subject of the application would be insufficient to justify imposition of the full application fee.
     - **(E)** The Administrator shall exempt an application from the registration service fee if the Administrator determines that—
-      - **(i)** the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ( 7 U.S.C. 450i(e) ); and
+      - **(i)** the application is solely associated with a tolerance petition submitted in connection with the Inter-Regional Project Number 4 (IR–4) as described in section 2 of Public Law 89–106 ( 7 U.S.C. 450i(e) ); 1 1 See References in Text note below. and
       - **(ii)** the exemption is in the public interest.
     - **(F)**
       - **(i)** The Administrator shall waive 50 percent of the registration service fees payable by an entity for a covered pesticide registration application under this section if the entity is a small business (as defined in section 136a–1(i)(1)(E)(ii) of this title ) at the time of application.
@@ -78,7 +78,7 @@ status: "active"
         - **(II)** if the entity is requesting a waiver of 75 percent of the applicable registration service fees payable under this section, documentation demonstrating that the entity has an average annual global gross revenue described in section 136a–1(i)(1)(E)(ii)(I)(bb) of this title that does not exceed $10,000,000, at the time of application.
     - **(G)** An agency of the Federal Government or a State government shall be exempt from covered registration service fees under this section.
   - **(8)**
-    - **(A)** If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent. 1 1 So in original. The period probably should not appear. of the total registration service fee payable under paragraph (3) for the application.
+    - **(A)** If, during the first 60 days after the beginning of the applicable decision time review period under subsection (f)(3), a covered pesticide registration application is withdrawn by the applicant, the Administrator shall refund all but 25 percent. 2 2 So in original. The period probably should not appear. of the total registration service fee payable under paragraph (3) for the application.
     - **(B)**
       - **(i)** If a covered pesticide registration application is withdrawn after the first 60 days of the applicable decision time review period, the Administrator shall determine what portion, if any, of the total registration service fee payable under paragraph (3) for the application may be refunded based on the proportion of the work completed at the time of withdrawal.
       - **(ii)** The Administrator shall—

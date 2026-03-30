@@ -3,9 +3,9 @@ title: "Section 3420 - Grand jury information; notification of certain persons p
 usc_title: 12
 usc_section: "3420"
 chapter: 35
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "12 U.S.C. § 3420"
-generated_at: "2026-03-30T06:20:00.378Z"
+generated_at: "2026-03-30T06:23:00.039Z"
 status: "active"
 ---
 

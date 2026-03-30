@@ -3,9 +3,9 @@ title: "Section 6127 - Omitted"
 usc_title: 20
 usc_section: "6127"
 chapter: 69
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 6127"
-generated_at: "2026-03-30T06:20:21.332Z"
+generated_at: "2026-03-30T06:23:07.059Z"
 status: "omitted"
 ---
 

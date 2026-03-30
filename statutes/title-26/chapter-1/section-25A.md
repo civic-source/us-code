@@ -3,9 +3,9 @@ title: "Section 25A - Hope and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T06:20:42.150Z"
+generated_at: "2026-03-30T06:23:46.689Z"
 status: "active"
 ---
 

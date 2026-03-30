@@ -3,9 +3,9 @@ title: "Section 211 - Copies to Members of Congress"
 usc_title: 1
 usc_section: "211"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "1 U.S.C. § 211"
-generated_at: "2026-03-30T06:19:29.227Z"
+generated_at: "2026-03-30T06:22:08.115Z"
 status: "active"
 ---
 

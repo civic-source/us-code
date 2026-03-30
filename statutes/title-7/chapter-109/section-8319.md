@@ -3,9 +3,9 @@ title: "Section 8319 - Surveillance of zoonotic diseases"
 usc_title: 7
 usc_section: "8319"
 chapter: 109
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 8319"
-generated_at: "2026-03-30T06:19:46.761Z"
+generated_at: "2026-03-30T06:22:43.141Z"
 status: "active"
 ---
 

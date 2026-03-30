@@ -3,9 +3,9 @@ title: "Section 7216 - Foreign public accounting firms"
 usc_title: 15
 usc_section: "7216"
 chapter: 98
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 7216"
-generated_at: "2026-03-30T06:19:58.111Z"
+generated_at: "2026-03-30T06:23:02.059Z"
 status: "active"
 ---
 

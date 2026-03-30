@@ -3,9 +3,9 @@ title: "Section 161 - Establishment of Office; Director"
 usc_title: 6
 usc_section: "161"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "6 U.S.C. § 161"
-generated_at: "2026-03-30T06:19:48.019Z"
+generated_at: "2026-03-30T06:22:40.155Z"
 status: "active"
 ---
 

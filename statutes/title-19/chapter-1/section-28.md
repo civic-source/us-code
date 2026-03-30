@@ -3,9 +3,9 @@ title: "Section 28 - Repealed. Aug. 2, 1956, ch. 887 , § 4(a)(12)–(14), 70 St
 usc_title: 19
 usc_section: "28"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "19 U.S.C. § 28"
-generated_at: "2026-03-30T06:20:13.596Z"
+generated_at: "2026-03-30T06:23:23.458Z"
 status: "repealed"
 ---
 

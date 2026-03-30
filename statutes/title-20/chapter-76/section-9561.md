@@ -3,9 +3,9 @@ title: "Section 9561 - Establishment"
 usc_title: 20
 usc_section: "9561"
 chapter: 76
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 9561"
-generated_at: "2026-03-30T06:20:21.363Z"
+generated_at: "2026-03-30T06:23:07.093Z"
 status: "active"
 ---
 

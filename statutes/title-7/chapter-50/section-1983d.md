@@ -3,9 +3,9 @@ title: "Section 1983d - Farmer loan pilot projects"
 usc_title: 7
 usc_section: "1983d"
 chapter: 50
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 1983d"
-generated_at: "2026-03-30T06:19:46.675Z"
+generated_at: "2026-03-30T06:22:43.053Z"
 status: "active"
 ---
 

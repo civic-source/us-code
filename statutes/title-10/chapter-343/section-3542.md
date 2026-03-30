@@ -3,9 +3,9 @@ title: "Section 3542 - Repealed. Pub. L. 103–337, div. A, title XVI , §§ 166
 usc_title: 10
 usc_section: "3542"
 chapter: 343
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 3542"
-generated_at: "2026-03-30T06:19:43.929Z"
+generated_at: "2026-03-30T06:22:46.484Z"
 status: "repealed"
 ---
 

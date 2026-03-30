@@ -3,9 +3,9 @@ title: "Section 4204 - Restriction as to certificate for goods from countries ad
 usc_title: 22
 usc_section: "4204"
 chapter: 52
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 4204"
-generated_at: "2026-03-30T06:20:29.559Z"
+generated_at: "2026-03-30T06:23:30.367Z"
 status: "active"
 ---
 

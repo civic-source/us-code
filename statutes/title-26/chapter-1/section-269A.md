@@ -3,9 +3,9 @@ title: "Section 269A - Personal service corporations formed or availed of to avo
 usc_title: 26
 usc_section: "269A"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 269A"
-generated_at: "2026-03-30T06:20:42.203Z"
+generated_at: "2026-03-30T06:23:46.741Z"
 status: "active"
 ---
 

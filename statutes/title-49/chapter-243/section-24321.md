@@ -3,9 +3,9 @@ title: "Section 24321 - Food and beverage reform"
 usc_title: 49
 usc_section: "24321"
 chapter: 243
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "49 U.S.C. § 24321"
-generated_at: "2026-03-30T06:21:48.380Z"
+generated_at: "2026-03-30T06:24:37.152Z"
 status: "active"
 ---
 

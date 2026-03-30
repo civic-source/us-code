@@ -3,9 +3,9 @@ title: "Section 1621p - American Indians Into Psychology Program"
 usc_title: 25
 usc_section: "1621p"
 chapter: 18
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 1621p"
-generated_at: "2026-03-30T06:20:24.499Z"
+generated_at: "2026-03-30T06:23:26.838Z"
 status: "active"
 ---
 

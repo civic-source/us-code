@@ -3,9 +3,9 @@ title: "Section 1453a - Administrative priority for applications relating to act
 usc_title: 42
 usc_section: "1453a"
 chapter: 8
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 1453a"
-generated_at: "2026-03-30T06:21:33.370Z"
+generated_at: "2026-03-30T06:24:31.031Z"
 status: "active"
 ---
 

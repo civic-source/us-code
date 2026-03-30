@@ -3,9 +3,9 @@ title: "Section 760g - Authorization of appropriations for migratory game fish s
 usc_title: 16
 usc_section: "760g"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 760g"
-generated_at: "2026-03-30T06:20:08.632Z"
+generated_at: "2026-03-30T06:23:20.526Z"
 status: "active"
 ---
 

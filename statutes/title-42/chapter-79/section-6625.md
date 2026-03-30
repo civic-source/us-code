@@ -3,9 +3,9 @@ title: "Section 6625 - Coordination of international science and technology part
 usc_title: 42
 usc_section: "6625"
 chapter: 79
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 6625"
-generated_at: "2026-03-30T06:21:33.528Z"
+generated_at: "2026-03-30T06:24:31.183Z"
 status: "active"
 ---
 

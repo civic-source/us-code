@@ -3,9 +3,9 @@ title: "Section 174 - Repealed. June 30, 1949, ch. 288 , title VI, § 602(a)(20)
 usc_title: 24
 usc_section: "174"
 chapter: 4
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "24 U.S.C. § 174"
-generated_at: "2026-03-30T06:20:23.246Z"
+generated_at: "2026-03-30T06:23:25.504Z"
 status: "repealed"
 ---
 

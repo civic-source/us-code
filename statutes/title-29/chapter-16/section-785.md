@@ -3,9 +3,9 @@ title: "Section 785 - Authorization of appropriations"
 usc_title: 29
 usc_section: "785"
 chapter: 16
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "29 U.S.C. § 785"
-generated_at: "2026-03-30T06:20:34.908Z"
+generated_at: "2026-03-30T06:23:34.032Z"
 status: "active"
 ---
 

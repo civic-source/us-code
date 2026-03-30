@@ -3,9 +3,9 @@ title: "Section 1214 - Investigation of prohibited personnel practices; correcti
 usc_title: 5
 usc_section: "1214"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-03-30T06:19:32.601Z"
+generated_at: "2026-03-30T06:22:35.754Z"
 status: "active"
 ---
 
@@ -42,7 +42,9 @@ status: "active"
       - **(i)** The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
       - **(ii)** Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
       - **(iii)** Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
-    - **(B)** The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+    - **(B)**
+      - **(i)** The Board may extend the period of any stay granted under subparagraph (A) for any period which the Board considers appropriate.
+      - **(ii)** If the Board lacks the number of members appointed under section 1201 required to constitute a quorum, any remaining member of the Board who was appointed, by and with the advice and consent of the Senate, may, upon request by the Special Counsel, extend the period of any stay granted under subparagraph (A).
     - **(C)** The Board shall allow any agency which is the subject of a stay to comment to the Board on any extension of stay proposed under subparagraph (B).
     - **(D)** A stay may be terminated by the Board at any time, except that a stay may not be terminated by the Board—
       - **(i)** on its own motion or on the motion of an agency, unless notice and opportunity for oral or written comments are first provided to the Special Counsel and the individual on whose behalf the stay was ordered; or

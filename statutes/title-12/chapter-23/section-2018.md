@@ -3,9 +3,9 @@ title: "Section 2018 - Security; terms"
 usc_title: 12
 usc_section: "2018"
 chapter: 23
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "12 U.S.C. § 2018"
-generated_at: "2026-03-30T06:20:00.356Z"
+generated_at: "2026-03-30T06:23:00.018Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 29 - Technical assistance"
 usc_title: 42
 usc_section: "29"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 29"
-generated_at: "2026-03-30T06:21:33.175Z"
+generated_at: "2026-03-30T06:24:30.839Z"
 status: "active"
 ---
 

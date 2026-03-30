@@ -3,9 +3,9 @@ title: "Section 1079c - Provisional coverage for emerging services and supplies"
 usc_title: 10
 usc_section: "1079c"
 chapter: 55
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 1079c"
-generated_at: "2026-03-30T06:19:43.854Z"
+generated_at: "2026-03-30T06:22:46.420Z"
 status: "active"
 ---
 

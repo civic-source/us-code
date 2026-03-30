@@ -3,9 +3,9 @@ title: "Section 2156 - Production of defective national-defense material, nation
 usc_title: 18
 usc_section: "2156"
 chapter: 105
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 2156"
-generated_at: "2026-03-30T06:20:05.756Z"
+generated_at: "2026-03-30T06:23:14.901Z"
 status: "active"
 ---
 

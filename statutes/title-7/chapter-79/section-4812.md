@@ -3,9 +3,9 @@ title: "Section 4812 - Suspension and termination of orders"
 usc_title: 7
 usc_section: "4812"
 chapter: 79
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 4812"
-generated_at: "2026-03-30T06:19:46.717Z"
+generated_at: "2026-03-30T06:22:43.096Z"
 status: "active"
 ---
 

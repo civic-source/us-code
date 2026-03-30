@@ -3,9 +3,9 @@ title: "Section 6745 - Recordkeeping violations"
 usc_title: 22
 usc_section: "6745"
 chapter: 75
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 6745"
-generated_at: "2026-03-30T06:20:29.579Z"
+generated_at: "2026-03-30T06:23:30.389Z"
 status: "active"
 ---
 

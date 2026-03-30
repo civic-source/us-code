@@ -3,9 +3,9 @@ title: "Section 233 - Civil actions or proceedings against commissioned officers
 usc_title: 42
 usc_section: "233"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 233"
-generated_at: "2026-03-30T06:21:33.054Z"
+generated_at: "2026-03-30T06:24:30.728Z"
 status: "active"
 ---
 

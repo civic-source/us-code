@@ -3,9 +3,9 @@ title: "Section 678 - Renumbered § 12310]"
 usc_title: 10
 usc_section: "678"
 chapter: 39
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 678"
-generated_at: "2026-03-30T06:19:43.833Z"
+generated_at: "2026-03-30T06:22:46.404Z"
 status: "renumbered"
 ---
 

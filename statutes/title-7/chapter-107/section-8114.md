@@ -3,9 +3,9 @@ title: "Section 8114 - Sun grant program"
 usc_title: 7
 usc_section: "8114"
 chapter: 107
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 8114"
-generated_at: "2026-03-30T06:19:46.760Z"
+generated_at: "2026-03-30T06:22:43.140Z"
 status: "active"
 ---
 
@@ -39,7 +39,7 @@ status: "active"
 - **(c)**
   - **(1)**
     - **(A)** A sun grant center or subcenter shall use 75 percent of the funds described in subsection (b) to provide competitive grants to entities that are—
-      - **(i)** eligible to receive grants under subsection (b)(7) of section 450i of this title ; and
+      - **(i)** eligible to receive grants under subsection (b)(7) of section 3157 of this title ; and
       - **(ii)** located in the region covered by the sun grant center or subcenter.
     - **(B)** Grants described in subparagraph (A) shall be used by the grant recipient to conduct, in a manner consistent with the purposes described in subsection (a), multi-institutional and integrated, multistate research, extension, and education programs on technology development and technology implementation.
     - **(C)**

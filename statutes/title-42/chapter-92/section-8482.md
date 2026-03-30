@@ -3,9 +3,9 @@ title: "Section 8482 - Repealed. Pub. L. 104–66, title I , § 1051(e), Dec. 21
 usc_title: 42
 usc_section: "8482"
 chapter: 92
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8482"
-generated_at: "2026-03-30T06:21:33.595Z"
+generated_at: "2026-03-30T06:24:31.246Z"
 status: "repealed"
 ---
 

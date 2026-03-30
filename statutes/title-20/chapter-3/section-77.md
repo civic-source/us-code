@@ -3,9 +3,9 @@ title: "Section 77 - National Air and Space Museum"
 usc_title: 20
 usc_section: "77"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 77"
-generated_at: "2026-03-30T06:20:21.237Z"
+generated_at: "2026-03-30T06:23:06.956Z"
 status: "active"
 ---
 

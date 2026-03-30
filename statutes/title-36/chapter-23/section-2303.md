@@ -3,9 +3,9 @@ title: "Section 2303 - Compensation; travel expenses; full-time officers or empl
 usc_title: 36
 usc_section: "2303"
 chapter: 23
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 2303"
-generated_at: "2026-03-30T06:21:06.567Z"
+generated_at: "2026-03-30T06:23:56.287Z"
 status: "active"
 ---
 

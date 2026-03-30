@@ -3,9 +3,9 @@ title: "Section 4081 - Commencement of action for relief"
 usc_title: 19
 usc_section: "4081"
 chapter: 26
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "19 U.S.C. § 4081"
-generated_at: "2026-03-30T06:20:13.659Z"
+generated_at: "2026-03-30T06:23:23.519Z"
 status: "active"
 ---
 

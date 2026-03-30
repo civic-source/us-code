@@ -3,9 +3,9 @@ title: "Section 7431 - Federal cybersecurity research and development"
 usc_title: 15
 usc_section: "7431"
 chapter: 100
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 7431"
-generated_at: "2026-03-30T06:19:58.114Z"
+generated_at: "2026-03-30T06:23:02.061Z"
 status: "active"
 ---
 

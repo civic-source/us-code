@@ -3,9 +3,9 @@ title: "Section 823 - Registration requirements"
 usc_title: 21
 usc_section: "823"
 chapter: 13
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 823"
-generated_at: "2026-03-30T06:20:26.481Z"
+generated_at: "2026-03-30T06:23:28.404Z"
 status: "active"
 ---
 
@@ -83,13 +83,19 @@ status: "active"
       - **(i)** The term “group practice” has the meaning given such term in section 1395nn(h)(4) of title 42 .
       - **(ii)** The term “qualifying physician” means a physician who is licensed under State law and who meets one or more of the following conditions:
         - **(I)** The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
-    - **(II)** The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
+        - **(II)** The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
         - **(III)** The physician holds a board certification in addiction medicine from the American Osteopathic Association.
         - **(IV)** The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall include—
         - **(V)** The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
         - **(VI)** The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
         - **(VII)** The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
-- **(iii)** The term “qualifying practitioner” means—
+      - **(iii)** The term “qualifying practitioner” means—
+        - **(I)** a qualifying physician, as defined in clause (ii); or
+        - **(II)** during the period beginning on July 22, 2016 , and ending on October 1, 2021 , a qualifying other practitioner, as defined in clause (iv).
+      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner or physician assistant who satisfies each of the following:
+        - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
+        - **(II)** The nurse practitioner or physician assistant has—
+        - **(III)** The nurse practitioner or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
     - **(H)**
       - **(i)** In consultation with the Administrator of the Drug Enforcement Administration, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, and the Commissioner of Food and Drugs, the Secretary shall issue regulations (through notice and comment rulemaking) or issue practice guidelines to address the following:
         - **(I)** Approval of additional credentialing bodies and the responsibilities of additional credentialing bodies.
@@ -99,12 +105,6 @@ status: "active"
     - **(I)** Notwithstanding section 903 of this title , nothing in this paragraph shall be construed to preempt any State law that—
       - **(i)** permits a qualifying practitioner to dispense narcotic drugs in schedule III, IV, or V, or combinations of such drugs, for maintenance or detoxification treatment in accordance with this paragraph to a total number of patients that is more than 30 or less than the total number applicable to the qualifying practitioner under subparagraph (B)(iii)(II) if a State enacts a law modifying such total number and the Attorney General is notified by the State of such modification; or
       - **(ii)** requires a qualifying practitioner to comply with additional requirements relating to the dispensing of narcotic drugs in schedule III, IV, or V, or combinations of such drugs, including requirements relating to the practice setting in which the qualifying practitioner practices and education, training, and reporting requirements.
-      - **(iv)** The term “qualifying other practitioner” means a nurse practitioner or physician assistant who satisfies each of the following:
-        - **(I)** The nurse practitioner or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-        - **(II)** The nurse practitioner or physician assistant has—
-        - **(III)** The nurse practitioner or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
-        - **(I)** a qualifying physician, as defined in clause (ii); or
-        - **(II)** during the period beginning on July 22, 2016 and ending on October 1, 2021 , a qualifying other practitioner, as defined in clause (iv).
 - **(h)** The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of section 802(39)(A) of this title . In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
   - **(1)** maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
   - **(2)** compliance by the applicant with applicable Federal, State, and local law;

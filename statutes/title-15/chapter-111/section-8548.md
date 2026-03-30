@@ -3,9 +3,9 @@ title: "Section 8548 - Weather enterprise outreach"
 usc_title: 15
 usc_section: "8548"
 chapter: 111
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 8548"
-generated_at: "2026-03-30T06:19:58.122Z"
+generated_at: "2026-03-30T06:23:02.069Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 190309 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "190309"
 chapter: 1903
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 190309"
-generated_at: "2026-03-30T06:21:06.582Z"
+generated_at: "2026-03-30T06:23:56.303Z"
 status: "active"
 ---
 

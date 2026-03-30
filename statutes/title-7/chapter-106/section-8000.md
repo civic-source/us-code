@@ -3,9 +3,9 @@ title: "Section 8000 - Repealed. Pub. L. 110–234, title I , § 1623(b), May 22
 usc_title: 7
 usc_section: "8000"
 chapter: 106
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 8000"
-generated_at: "2026-03-30T06:19:46.757Z"
+generated_at: "2026-03-30T06:22:43.137Z"
 status: "repealed"
 ---
 

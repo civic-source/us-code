@@ -3,9 +3,9 @@ title: "Section 16657 - Omitted"
 usc_title: 42
 usc_section: "16657"
 chapter: 150
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 16657"
-generated_at: "2026-03-30T06:21:33.739Z"
+generated_at: "2026-03-30T06:24:31.378Z"
 status: "omitted"
 ---
 

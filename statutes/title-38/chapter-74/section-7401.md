@@ -3,9 +3,9 @@ title: "Section 7401 - Appointments in Veterans Health Administration"
 usc_title: 38
 usc_section: "7401"
 chapter: 74
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "38 U.S.C. § 7401"
-generated_at: "2026-03-30T06:21:07.942Z"
+generated_at: "2026-03-30T06:23:57.910Z"
 status: "active"
 ---
 
@@ -23,3 +23,4 @@ There may be appointed by the Secretary such personnel as the Secretary may find
       - **(iv)** would not otherwise be available to provide medical care or treatment for veterans.
     - **(B)** Not later than 45 days before the Secretary appoints any personnel for a class of health care occupations that is not specifically listed in this paragraph, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and the Office of Management and Budget notice of such appointment.
     - **(C)** Before submitting notice under subparagraph (B), the Secretary shall solicit comments from any labor organization representing employees in such class and include such comments in such notice.
+  - **(4)** Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.

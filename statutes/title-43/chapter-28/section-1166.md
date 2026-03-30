@@ -1,15 +1,13 @@
 ---
-title: "Section 1166 - Limitations of suits to annul patents"
+title: "Section 1166 - Transferred"
 usc_title: 43
 usc_section: "1166"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1166"
-generated_at: "2026-03-30T06:21:15.979Z"
-status: "active"
+generated_at: "2026-03-30T06:24:05.089Z"
+status: "transferred"
 ---
 
-# § 1166. Limitations of suits to annul patents
-
-Suits by the United States to vacate and annul any patent shall only be brought within six years after the date of the issuance of such patents.
+# § 1166. Transferred
 

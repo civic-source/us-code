@@ -3,9 +3,9 @@ title: "Section 379g - Definitions"
 usc_title: 21
 usc_section: "379g"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 379g"
-generated_at: "2026-03-30T06:20:26.460Z"
+generated_at: "2026-03-30T06:23:28.384Z"
 status: "active"
 ---
 

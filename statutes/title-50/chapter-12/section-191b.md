@@ -3,9 +3,9 @@ title: "Section 191b - Repealed. Pub. L. 96–70, title III , § 3303(a)(5), Sep
 usc_title: 50
 usc_section: "191b"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "50 U.S.C. § 191b"
-generated_at: "2026-03-30T06:21:38.441Z"
+generated_at: "2026-03-30T06:24:45.822Z"
 status: "repealed"
 ---
 

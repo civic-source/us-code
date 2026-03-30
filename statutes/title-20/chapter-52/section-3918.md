@@ -3,9 +3,9 @@ title: "Section 3918 - Approval of proposals"
 usc_title: 20
 usc_section: "3918"
 chapter: 52
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 3918"
-generated_at: "2026-03-30T06:20:21.323Z"
+generated_at: "2026-03-30T06:23:07.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18431 - Workforce stabilization and critical skills preservation
 usc_title: 42
 usc_section: "18431"
 chapter: 159
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 18431"
-generated_at: "2026-03-30T06:21:33.764Z"
+generated_at: "2026-03-30T06:24:31.403Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8262c - Federal agency energy management training"
 usc_title: 42
 usc_section: "8262c"
 chapter: 91
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8262c"
-generated_at: "2026-03-30T06:21:33.591Z"
+generated_at: "2026-03-30T06:24:31.241Z"
 status: "active"
 ---
 

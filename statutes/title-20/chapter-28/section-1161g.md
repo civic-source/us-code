@@ -3,9 +3,9 @@ title: "Section 1161g - Patsy T. Mink fellowship program"
 usc_title: 20
 usc_section: "1161g"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 1161g"
-generated_at: "2026-03-30T06:20:21.295Z"
+generated_at: "2026-03-30T06:23:07.020Z"
 status: "active"
 ---
 

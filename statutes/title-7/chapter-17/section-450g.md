@@ -1,15 +1,13 @@
 ---
-title: "Section 450g - Authorization of appropriations for cooperative research projects"
+title: "Section 450g - Transferred"
 usc_title: 7
 usc_section: "450g"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 450g"
-generated_at: "2026-03-30T06:19:46.624Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 450g. Authorization of appropriations for cooperative research projects
-
-There is authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 450c to 450g of this title.
+# § 450g. Transferred
 

@@ -3,9 +3,9 @@ title: "Section 382 - Exports of certain unapproved products"
 usc_title: 21
 usc_section: "382"
 chapter: 9
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "21 U.S.C. § 382"
-generated_at: "2026-03-30T06:20:26.468Z"
+generated_at: "2026-03-30T06:23:28.392Z"
 status: "active"
 ---
 
@@ -76,7 +76,7 @@ status: "active"
       - **(ii)** the country to which the drug or device would be exported; and
     - **(B)** in the language and units of measurement of the country to which the drug or device would be exported or in the language designated by such country; or
   - **(6)** if the drug or device is not promoted in accordance with the labeling requirements set forth in paragraph (5).
-- **(g)** The exporter of a drug or device exported under subsection (b)(1) shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A). When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A), 1 1 So in original. Probably should be subsection “(b)(1)(A)”. the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
+- **(g)** The exporter of a drug or device exported under subsection (b)(1) shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A). When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A), 1 1 So in original. Probably should be subsection “(b)(1)(A),”. the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
 - **(h)** For purposes of this section—
   - **(1)** a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 [ 21 U.S.C. 151 et seq.] ( 37 Stat. 832–833 ) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
   - **(2)** the term “drug” includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 ( 37 Stat. 832–833 ) (commonly known as the Virus-Serum Toxin Act).

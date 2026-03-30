@@ -3,9 +3,9 @@ title: "Section 7655b - Forestry products advanced utilization research"
 usc_title: 7
 usc_section: "7655b"
 chapter: 103
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 7655b"
-generated_at: "2026-03-30T06:19:46.750Z"
+generated_at: "2026-03-30T06:22:43.127Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
       - **(i)** extensive history and demonstrated experience in forestry and forestry products research;
       - **(ii)** existing capacity in forestry products research and dissemination; and
       - **(iii)** a demonstrated means of evaluating and responding to the needs of the related commercial sector.
-  - **(3)** In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 450i of this title .
+  - **(3)** In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title .
   - **(4)** The term of a grant made under this section may not exceed 10 years.
 - **(d)** The Secretary shall ensure that any activities carried out under this section are carried out in coordination with the Forest Service, including the Forest Products Laboratory, and other appropriate agencies of the Department.
 - **(e)** The Secretary shall submit an annual report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate describing, for the period covered by the report—

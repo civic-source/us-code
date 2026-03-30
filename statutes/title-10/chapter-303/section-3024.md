@@ -3,9 +3,9 @@ title: "Section 3024 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "3024"
 chapter: 303
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 3024"
-generated_at: "2026-03-30T06:19:43.928Z"
+generated_at: "2026-03-30T06:22:46.483Z"
 status: "active"
 ---
 

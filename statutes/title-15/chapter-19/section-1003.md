@@ -3,9 +3,9 @@ title: "Section 1003 - Authorization for free travel on Golden Gate Bridge; issu
 usc_title: 15
 usc_section: "1003"
 chapter: 19
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 1003"
-generated_at: "2026-03-30T06:19:58.026Z"
+generated_at: "2026-03-30T06:23:01.977Z"
 status: "active"
 ---
 

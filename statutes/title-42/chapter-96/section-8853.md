@@ -3,9 +3,9 @@ title: "Section 8853 - Lending for energy production and conservation projects b
 usc_title: 42
 usc_section: "8853"
 chapter: 96
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8853"
-generated_at: "2026-03-30T06:21:33.600Z"
+generated_at: "2026-03-30T06:24:31.249Z"
 status: "active"
 ---
 

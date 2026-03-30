@@ -3,9 +3,9 @@ title: "Section 6593 - Assistance programs coordination and oversight"
 usc_title: 22
 usc_section: "6593"
 chapter: 74
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 6593"
-generated_at: "2026-03-30T06:20:29.578Z"
+generated_at: "2026-03-30T06:23:30.387Z"
 status: "active"
 ---
 

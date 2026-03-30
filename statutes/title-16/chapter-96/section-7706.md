@@ -3,9 +3,9 @@ title: "Section 7706 - Prohibited acts"
 usc_title: 16
 usc_section: "7706"
 chapter: 96
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 7706"
-generated_at: "2026-03-30T06:20:08.735Z"
+generated_at: "2026-03-30T06:23:20.629Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ It is unlawful for any person—
   - **(7)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any act prohibited by this section;
   - **(8)** to submit to the Secretary false information (including false information regarding the capacity and extent to which a United States fish processor, on an annual basis, will process a portion of the optimum yield of a fishery that will be harvested by fishing vessels of the United States), regarding any matter that the Secretary is considering in the course of carrying out this chapter;
   - **(9)** to assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by or under contract to any person to carry out responsibilities under this chapter;
-  - **(10)** to engage in fishing activities in violation of any regulation adopted pursuant to this chapter ;
+  - **(10)** to engage in fishing activities in violation of any regulation adopted pursuant to this chapter;
   - **(11)** to fail to make, keep, or furnish any catch returns, statistical records, or other reports required by regulations adopted pursuant to this chapter to be made, kept, or furnished;
   - **(12)** to fail to stop a vessel upon being hailed and instructed to stop by a duly authorized official of the United States;
   - **(13)** to import, in violation of any regulation adopted pursuant to this chapter, any fisheries resources in any form of those species subject to regulation pursuant to a recommendation, resolution, or decision of the Commission, or any fisheries resources in any form not under regulation but under investigation by the Commission, during the period such fisheries resources have been denied entry in accordance with this chapter;

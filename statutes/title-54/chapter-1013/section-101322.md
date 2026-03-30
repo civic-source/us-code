@@ -3,9 +3,9 @@ title: "Section 101322 - Management development and training"
 usc_title: 54
 usc_section: "101322"
 chapter: 1013
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "54 U.S.C. § 101322"
-generated_at: "2026-03-30T06:21:50.399Z"
+generated_at: "2026-03-30T06:24:48.129Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2103c - Forest Legacy Program"
 usc_title: 16
 usc_section: "2103c"
 chapter: 41
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 2103c"
-generated_at: "2026-03-30T06:20:08.689Z"
+generated_at: "2026-03-30T06:23:20.583Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use of conservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
 - **(b)** The Secretary shall exercise the authority under subsection (a) in conjunction with State or regional programs that the Secretary deems consistent with this section.
-- **(c)** In addition to the authorities granted under section 515 of this title and section 428a(a) of title 7 , the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+- **(c)** In addition to the authorities granted under section 515 of this title and section 2268a(a) of title 7 , the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
 - **(d)**
   - **(1)** Lands and interests therein acquired under subsection (c) may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
   - **(2)** Not later than November 28, 1991 , the Secretary shall establish a regional program in furtherance of the Northern Forest Lands Study in the States of New York, New Hampshire, Vermont, and Maine under Public Law 100–446 . The Secretary shall establish additional programs in each of the Northeast, Midwest, South, and Western regions of the United States, and the Pacific Northwest (including the State of Washington), on the preparation of an assessment of the need for such programs.

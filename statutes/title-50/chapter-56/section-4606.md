@@ -3,9 +3,9 @@ title: "Section 4606 - Short supply controls"
 usc_title: 50
 usc_section: "4606"
 chapter: 56
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "50 U.S.C. § 4606"
-generated_at: "2026-03-30T06:21:38.508Z"
+generated_at: "2026-03-30T06:24:45.886Z"
 status: "active"
 ---
 

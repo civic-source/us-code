@@ -3,9 +3,9 @@ title: "Section 4653 - Ordnance and ordnance stores: District of Columbia high s
 usc_title: 10
 usc_section: "4653"
 chapter: 441
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 4653"
-generated_at: "2026-03-30T06:19:43.933Z"
+generated_at: "2026-03-30T06:22:46.489Z"
 status: "active"
 ---
 

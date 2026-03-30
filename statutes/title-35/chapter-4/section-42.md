@@ -3,9 +3,9 @@ title: "Section 42 - Patent and Trademark Office funding"
 usc_title: 35
 usc_section: "42"
 chapter: 4
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "35 U.S.C. § 42"
-generated_at: "2026-03-30T06:20:48.831Z"
+generated_at: "2026-03-30T06:23:48.771Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5072a - Repealed. Pub. L. 103–359, title III , § 304, Oct. 14
 usc_title: 22
 usc_section: "5072a"
 chapter: 60
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 5072a"
-generated_at: "2026-03-30T06:20:29.564Z"
+generated_at: "2026-03-30T06:23:30.373Z"
 status: "repealed"
 ---
 

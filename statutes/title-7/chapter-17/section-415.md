@@ -1,15 +1,13 @@
 ---
-title: "Section 415 - Purchase of seeds and plants for distribution"
+title: "Section 415 - Transferred"
 usc_title: 7
 usc_section: "415"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 415"
-generated_at: "2026-03-30T06:19:46.623Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 415. Purchase of seeds and plants for distribution
-
-Purchase and distribution of vegetable, field, and flower seeds, plants, shrubs, vines, bulbs, and cuttings shall be of the freshest and best obtainable varieties and adapted to general cultivation.
+# § 415. Transferred
 

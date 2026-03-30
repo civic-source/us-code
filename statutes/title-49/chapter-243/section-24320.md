@@ -3,9 +3,9 @@ title: "Section 24320 - Amtrak 5-year business line and asset plans"
 usc_title: 49
 usc_section: "24320"
 chapter: 243
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "49 U.S.C. § 24320"
-generated_at: "2026-03-30T06:21:48.380Z"
+generated_at: "2026-03-30T06:24:37.152Z"
 status: "active"
 ---
 

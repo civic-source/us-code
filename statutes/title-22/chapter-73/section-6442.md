@@ -3,9 +3,9 @@ title: "Section 6442 - Presidential actions in response to particularly severe v
 usc_title: 22
 usc_section: "6442"
 chapter: 73
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 6442"
-generated_at: "2026-03-30T06:20:29.576Z"
+generated_at: "2026-03-30T06:23:30.385Z"
 status: "active"
 ---
 

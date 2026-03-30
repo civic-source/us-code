@@ -3,9 +3,9 @@ title: "Section 2105 - Personnel and services"
 usc_title: 44
 usc_section: "2105"
 chapter: 21
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "44 U.S.C. § 2105"
-generated_at: "2026-03-30T06:21:19.074Z"
+generated_at: "2026-03-30T06:23:59.836Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 23 - Injury to submarine cables in efforts to save life excepted
 usc_title: 47
 usc_section: "23"
 chapter: 2
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "47 U.S.C. § 23"
-generated_at: "2026-03-30T06:21:36.832Z"
+generated_at: "2026-03-30T06:24:35.064Z"
 status: "active"
 ---
 

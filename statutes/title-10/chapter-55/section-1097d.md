@@ -3,9 +3,9 @@ title: "Section 1097d - TRICARE program: notice of change to benefits"
 usc_title: 10
 usc_section: "1097d"
 chapter: 55
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 1097d"
-generated_at: "2026-03-30T06:19:43.856Z"
+generated_at: "2026-03-30T06:22:46.422Z"
 status: "active"
 ---
 

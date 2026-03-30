@@ -3,9 +3,9 @@ title: "Section 5315 - Reports on foreign currency transactions"
 usc_title: 31
 usc_section: "5315"
 chapter: 53
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "31 U.S.C. § 5315"
-generated_at: "2026-03-30T06:20:49.859Z"
+generated_at: "2026-03-30T06:23:51.282Z"
 status: "active"
 ---
 

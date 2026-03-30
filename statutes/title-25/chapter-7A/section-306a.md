@@ -3,9 +3,9 @@ title: "Section 306a - Advances for support of old, disabled, or indigent allott
 usc_title: 25
 usc_section: "306a"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "25 U.S.C. § 306a"
-generated_at: "2026-03-30T06:20:24.484Z"
+generated_at: "2026-03-30T06:23:26.822Z"
 status: "active"
 ---
 

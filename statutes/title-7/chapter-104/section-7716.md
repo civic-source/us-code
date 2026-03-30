@@ -3,9 +3,9 @@ title: "Section 7716 - Recovery of compensation for unauthorized activities"
 usc_title: 7
 usc_section: "7716"
 chapter: 104
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 7716"
-generated_at: "2026-03-30T06:19:46.751Z"
+generated_at: "2026-03-30T06:22:43.128Z"
 status: "active"
 ---
 

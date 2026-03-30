@@ -3,9 +3,9 @@ title: "Section 6106 - Study of discrimination based on age"
 usc_title: 42
 usc_section: "6106"
 chapter: 76
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 6106"
-generated_at: "2026-03-30T06:21:33.509Z"
+generated_at: "2026-03-30T06:24:31.165Z"
 status: "active"
 ---
 

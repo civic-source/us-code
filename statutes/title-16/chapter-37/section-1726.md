@@ -3,9 +3,9 @@ title: "Section 1726 - Living allowances and terms of service"
 usc_title: 16
 usc_section: "1726"
 chapter: 37
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 1726"
-generated_at: "2026-03-30T06:20:08.680Z"
+generated_at: "2026-03-30T06:23:20.574Z"
 status: "active"
 ---
 

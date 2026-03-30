@@ -3,9 +3,9 @@ title: "Section 527 - Authority to suspend sections 523, 525, and 526"
 usc_title: 10
 usc_section: "527"
 chapter: 32
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 527"
-generated_at: "2026-03-30T06:19:43.829Z"
+generated_at: "2026-03-30T06:22:46.399Z"
 status: "active"
 ---
 

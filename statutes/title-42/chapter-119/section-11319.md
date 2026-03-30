@@ -3,9 +3,9 @@ title: "Section 11319 - Termination"
 usc_title: 42
 usc_section: "11319"
 chapter: 119
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 11319"
-generated_at: "2026-03-30T06:21:33.646Z"
+generated_at: "2026-03-30T06:24:31.293Z"
 status: "active"
 ---
 

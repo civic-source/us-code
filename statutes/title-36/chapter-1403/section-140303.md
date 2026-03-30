@@ -3,9 +3,9 @@ title: "Section 140303 - Powers"
 usc_title: 36
 usc_section: "140303"
 chapter: 1403
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 140303"
-generated_at: "2026-03-30T06:21:06.576Z"
+generated_at: "2026-03-30T06:23:56.296Z"
 status: "active"
 ---
 

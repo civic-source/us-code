@@ -3,9 +3,9 @@ title: "Section 8455 - Repealed. Pub. L. 104–66, title II , § 2021(j)(1), Dec
 usc_title: 42
 usc_section: "8455"
 chapter: 92
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 8455"
-generated_at: "2026-03-30T06:21:33.594Z"
+generated_at: "2026-03-30T06:24:31.246Z"
 status: "repealed"
 ---
 

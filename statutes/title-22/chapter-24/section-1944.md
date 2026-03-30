@@ -3,9 +3,9 @@ title: "Section 1944 - Reconstruction assistance in Chile; authorization of appr
 usc_title: 22
 usc_section: "1944"
 chapter: 24
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 1944"
-generated_at: "2026-03-30T06:20:29.501Z"
+generated_at: "2026-03-30T06:23:30.308Z"
 status: "active"
 ---
 

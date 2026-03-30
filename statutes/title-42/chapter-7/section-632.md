@@ -3,9 +3,9 @@ title: "Section 632 - Repealed. Pub. L. 100–485, title II , § 202(a), Oct. 13
 usc_title: 42
 usc_section: "632"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 632"
-generated_at: "2026-03-30T06:21:33.213Z"
+generated_at: "2026-03-30T06:24:30.878Z"
 status: "repealed"
 ---
 

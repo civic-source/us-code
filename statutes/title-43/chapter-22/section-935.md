@@ -3,9 +3,9 @@ title: "Section 935 - Several roads through canyons"
 usc_title: 43
 usc_section: "935"
 chapter: 22
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 935"
-generated_at: "2026-03-30T06:21:15.976Z"
+generated_at: "2026-03-30T06:24:05.086Z"
 status: "active"
 ---
 

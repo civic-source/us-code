@@ -3,9 +3,9 @@ title: "Section 210a - Repealed. Pub. L. 87–649 , § 14b, Sept. 7, 1962 , 76 S
 usc_title: 42
 usc_section: "210a"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 210a"
-generated_at: "2026-03-30T06:21:33.053Z"
+generated_at: "2026-03-30T06:24:30.726Z"
 status: "repealed"
 ---
 

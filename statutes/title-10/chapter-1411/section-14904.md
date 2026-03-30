@@ -3,9 +3,9 @@ title: "Section 14904 - Rights and procedures"
 usc_title: 10
 usc_section: "14904"
 chapter: 1411
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 14904"
-generated_at: "2026-03-30T06:19:43.967Z"
+generated_at: "2026-03-30T06:22:46.518Z"
 status: "active"
 ---
 

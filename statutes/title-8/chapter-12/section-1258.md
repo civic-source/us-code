@@ -3,9 +3,9 @@ title: "Section 1258 - Change of nonimmigrant classification"
 usc_title: 8
 usc_section: "1258"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "8 U.S.C. § 1258"
-generated_at: "2026-03-30T06:19:51.977Z"
+generated_at: "2026-03-30T06:22:54.239Z"
 status: "active"
 ---
 

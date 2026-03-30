@@ -3,9 +3,9 @@ title: "Section 5804 - Repealed. Pub. L. 103–272 , § 7(b), July 5, 1994 , 108
 usc_title: 15
 usc_section: "5804"
 chapter: 84
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 5804"
-generated_at: "2026-03-30T06:19:58.100Z"
+generated_at: "2026-03-30T06:23:02.048Z"
 status: "repealed"
 ---
 

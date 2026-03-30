@@ -3,9 +3,9 @@ title: "Section 4062 - Repealed. Pub. L. 100–297, title II , § 2303, Apr. 28,
 usc_title: 20
 usc_section: "4062"
 chapter: 52
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "20 U.S.C. § 4062"
-generated_at: "2026-03-30T06:20:21.324Z"
+generated_at: "2026-03-30T06:23:07.051Z"
 status: "repealed"
 ---
 

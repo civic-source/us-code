@@ -3,9 +3,9 @@ title: "Section 3727 - Assignments of claims"
 usc_title: 31
 usc_section: "3727"
 chapter: 37
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "31 U.S.C. § 3727"
-generated_at: "2026-03-30T06:20:49.853Z"
+generated_at: "2026-03-30T06:23:51.276Z"
 status: "active"
 ---
 

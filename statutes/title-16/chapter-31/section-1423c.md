@@ -3,9 +3,9 @@ title: "Section 1423c - Cooperative management agreement; authority to delegate 
 usc_title: 16
 usc_section: "1423c"
 chapter: 31
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 1423c"
-generated_at: "2026-03-30T06:20:08.670Z"
+generated_at: "2026-03-30T06:23:20.564Z"
 status: "active"
 ---
 

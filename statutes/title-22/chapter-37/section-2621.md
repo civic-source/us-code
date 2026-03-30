@@ -3,9 +3,9 @@ title: "Section 2621 - Definitions"
 usc_title: 22
 usc_section: "2621"
 chapter: 37
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "22 U.S.C. § 2621"
-generated_at: "2026-03-30T06:20:29.530Z"
+generated_at: "2026-03-30T06:23:30.338Z"
 status: "active"
 ---
 

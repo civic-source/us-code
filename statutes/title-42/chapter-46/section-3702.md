@@ -3,9 +3,9 @@ title: "Section 3702 - State and local governments to consider courts"
 usc_title: 42
 usc_section: "3702"
 chapter: 46
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 3702"
-generated_at: "2026-03-30T06:21:33.450Z"
+generated_at: "2026-03-30T06:24:31.109Z"
 status: "active"
 ---
 

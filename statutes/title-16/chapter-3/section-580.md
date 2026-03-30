@@ -3,9 +3,9 @@ title: "Section 580 - Use of Forest Service appropriations for repair, etc. of e
 usc_title: 16
 usc_section: "580"
 chapter: 3
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 580"
-generated_at: "2026-03-30T06:20:08.614Z"
+generated_at: "2026-03-30T06:23:20.507Z"
 status: "active"
 ---
 

@@ -1,16 +1,13 @@
 ---
-title: "Section 426d - Expenditures for cooperative agreements to lease aircraft"
+title: "Section 426d - Transferred"
 usc_title: 7
 usc_section: "426d"
 chapter: 17
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 426d"
-generated_at: "2026-03-30T06:19:46.623Z"
-status: "active"
+generated_at: "2026-03-30T06:22:43.003Z"
+status: "transferred"
 ---
 
-# § 426d. Expenditures for cooperative agreements to lease aircraft
-
-  - **(1)** serve a mutual interest of the parties to the agreement in carrying out the programs administered by the Animal and Plant Health Inspection Service, Wildlife Services; and
-  - **(2)** all parties will contribute resources to the accomplishment of these objectives; award of a cooperative agreement authorized by the Secretary may be made for an initial term not to exceed 5 years.
+# § 426d. Transferred
 

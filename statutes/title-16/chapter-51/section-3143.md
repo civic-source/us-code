@@ -3,9 +3,9 @@ title: "Section 3143 - Production of oil and gas from Arctic National Wildlife R
 usc_title: 16
 usc_section: "3143"
 chapter: 51
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 3143"
-generated_at: "2026-03-30T06:20:08.698Z"
+generated_at: "2026-03-30T06:23:20.592Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1337 - Repealed. Pub. L. 94–455, title XIX , § 1901(a)(145)(A
 usc_title: 26
 usc_section: "1337"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "26 U.S.C. § 1337"
-generated_at: "2026-03-30T06:20:42.290Z"
+generated_at: "2026-03-30T06:23:46.830Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2279 - Boarding vessels before arrival"
 usc_title: 18
 usc_section: "2279"
 chapter: 111
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 2279"
-generated_at: "2026-03-30T06:20:05.759Z"
+generated_at: "2026-03-30T06:23:14.903Z"
 status: "active"
 ---
 

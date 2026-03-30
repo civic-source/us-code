@@ -3,9 +3,9 @@ title: "Section 610 - Control of aquatic plant growths"
 usc_title: 33
 usc_section: "610"
 chapter: 12
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "33 U.S.C. § 610"
-generated_at: "2026-03-30T06:21:01.972Z"
+generated_at: "2026-03-30T06:23:53.598Z"
 status: "active"
 ---
 

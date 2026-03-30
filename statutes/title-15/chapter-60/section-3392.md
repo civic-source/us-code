@@ -3,9 +3,9 @@ title: "Section 3392 - Natural gas for essential industrial process and feedstoc
 usc_title: 15
 usc_section: "3392"
 chapter: 60
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 3392"
-generated_at: "2026-03-30T06:19:58.085Z"
+generated_at: "2026-03-30T06:23:02.034Z"
 status: "active"
 ---
 

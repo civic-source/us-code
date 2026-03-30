@@ -3,9 +3,9 @@ title: "Section 3431 - Coordination with the Natural Gas Act"
 usc_title: 15
 usc_section: "3431"
 chapter: 60
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "15 U.S.C. § 3431"
-generated_at: "2026-03-30T06:19:58.086Z"
+generated_at: "2026-03-30T06:23:02.035Z"
 status: "active"
 ---
 

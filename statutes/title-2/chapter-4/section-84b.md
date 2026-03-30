@@ -3,9 +3,9 @@ title: "Section 84b - Omitted"
 usc_title: 2
 usc_section: "84b"
 chapter: 4
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "2 U.S.C. § 84b"
-generated_at: "2026-03-30T06:19:36.039Z"
+generated_at: "2026-03-30T06:22:09.213Z"
 status: "omitted"
 ---
 

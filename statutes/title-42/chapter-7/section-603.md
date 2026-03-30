@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T06:21:33.205Z"
+generated_at: "2026-03-30T06:24:30.870Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)**
     - **(A)** Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 2017 and 2018, a grant in an amount equal to the State family assistance grant.
-    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ), reduced by the percentage specified in section 413(h)(1) with respect to the fiscal year, as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ), reduced by the percentage specified in section 613(h)(1) of this title with respect to the fiscal year, as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
     - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 $16,566,542,000 for grants under this paragraph.
   - **(2)**
     - **(A)**

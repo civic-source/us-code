@@ -3,9 +3,9 @@ title: "Section 1517 - Procedures for investigating claims of evasion of antidum
 usc_title: 19
 usc_section: "1517"
 chapter: 4
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "19 U.S.C. § 1517"
-generated_at: "2026-03-30T06:20:13.609Z"
+generated_at: "2026-03-30T06:23:23.472Z"
 status: "active"
 ---
 
@@ -47,7 +47,7 @@ status: "active"
   - **(3)** A referral described in this paragraph is information submitted to the Commissioner by any other Federal agency, including the Department of Commerce or the United States International Trade Commission, that reasonably suggests that a person has entered covered merchandise into the customs territory of the United States through evasion.
   - **(4)**
     - **(A)** If the Commissioner receives an allegation under paragraph (2) and is unable to determine whether the merchandise at issue is covered merchandise, the Commissioner shall—
-      - **(i)** refer the matter to the administering authority to determine whether the merchandise is covered merchandise pursuant to the authority of the administering authority under subtitle IV of this chapter; and
+      - **(i)** refer the matter to the administering authority to determine whether the merchandise is covered merchandise pursuant to the authority of the administering authority under subtitle IV; and
       - **(ii)** notify the party that filed the allegation, and any other interested party participating in the investigation, of the referral.
     - **(B)** After receiving a referral under subparagraph (A)(i) with respect to merchandise, the administering authority shall determine whether the merchandise is covered merchandise and promptly transmit that determination to the Commissioner.
     - **(C)** The period required for any referral and determination under this paragraph shall not be counted in calculating any deadline under this section.

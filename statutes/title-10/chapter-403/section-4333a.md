@@ -3,9 +3,9 @@ title: "Section 4333a - Superintendent: condition for detail to position"
 usc_title: 10
 usc_section: "4333a"
 chapter: 403
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "10 U.S.C. § 4333a"
-generated_at: "2026-03-30T06:19:43.931Z"
+generated_at: "2026-03-30T06:22:46.486Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 161e - Additional lands, buildings, or other real and personal p
 usc_title: 16
 usc_section: "161e"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "16 U.S.C. § 161e"
-generated_at: "2026-03-30T06:20:08.525Z"
+generated_at: "2026-03-30T06:23:20.417Z"
 status: "active"
 ---
 

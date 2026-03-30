@@ -3,9 +3,9 @@ title: "Section 122 - National Flag Week"
 usc_title: 36
 usc_section: "122"
 chapter: 1
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "36 U.S.C. § 122"
-generated_at: "2026-03-30T06:21:06.564Z"
+generated_at: "2026-03-30T06:23:56.285Z"
 status: "active"
 ---
 

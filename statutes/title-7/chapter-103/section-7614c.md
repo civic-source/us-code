@@ -3,9 +3,9 @@ title: "Section 7614c - Budget submission and funding"
 usc_title: 7
 usc_section: "7614c"
 chapter: 103
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 7614c"
-generated_at: "2026-03-30T06:19:46.748Z"
+generated_at: "2026-03-30T06:22:43.126Z"
 status: "active"
 ---
 
@@ -37,7 +37,7 @@ status: "active"
       - **(iii)** an explanation justifying any change from the funding level specified in clause (i) to the level specified in clause (ii);
     - **(B)** with respect to each covered program that is carried out by the Economic Research Service or the Agricultural Research Service, the location and staff years of the program;
     - **(C)** the proposed funding levels to be allocated to, and the expected publication date, scope, and allocation level for, each request for applications to be published under or associated with—
-      - **(i)** each priority area specified in subsection (b)(2) of section 450i of this title ;
+      - **(i)** each priority area specified in subsection (b)(2) of section 3157 of this title ;
       - **(ii)** each research and extension project carried out under section 5811(a) of this title ;
       - **(iii)** each grant awarded under section 5925b(a) of this title ;
       - **(iv)** each grant awarded under section 7632(d) of this title ; and
@@ -45,7 +45,7 @@ status: "active"
     - **(D)** any other information the Secretary determines will increase congressional oversight with respect to covered programs.
   - **(3)** The additional information described in this paragraph is information that the Secretary, after consulting with the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Subcommittees on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the House of Representatives and the Senate, determines is a necessary revision or clarification to the information described in paragraph (2).
   - **(4)** Unless the President submits the information described in paragraph (2)(C) for a fiscal year, the President may not carry out any program during that fiscal year that is authorized under—
-    - **(A)** subsection (b) of section 450i of this title ;
+    - **(A)** subsection (b) of section 3157 of this title ;
     - **(B)** section 5811 of this title ;
     - **(C)** section 5925b of this title ;
     - **(D)** section 7632 of this title ; or

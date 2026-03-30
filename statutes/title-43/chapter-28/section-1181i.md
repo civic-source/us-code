@@ -1,15 +1,13 @@
 ---
-title: "Section 1181i - Designation of national-forest areas within counties; disposition of revenues; approval by court"
+title: "Section 1181i - Transferred"
 usc_title: 43
 usc_section: "1181i"
 chapter: 28
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1181i"
-generated_at: "2026-03-30T06:21:15.979Z"
-status: "active"
+generated_at: "2026-03-30T06:24:05.089Z"
+status: "transferred"
 ---
 
-# § 1181i. Designation of national-forest areas within counties; disposition of revenues; approval by court
-
-For the purpose of consolidating and thereby facilitating administration and accounting the Secretary of Agriculture is authorized to designate in the several counties in which the lands described in section 1181g of this title are situated (such designation to be published in the Federal Register), an area of national-forest land of a value substantially equal to the value of the lands in such county from which all revenues shall be disposed of in accordance with the provisions of section 1181f of this title , and upon such designation the provisions of sections 1181a to 1181f of this title shall be applicable to the lands so designated in lieu of the lands described in section 1181g of this title : Provided, however , That such designation shall not become effective until approved by the county court of the county in which the lands are located.
+# § 1181i. Transferred
 

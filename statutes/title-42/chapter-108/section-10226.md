@@ -3,9 +3,9 @@ title: "Section 10226 - Nuclear Regulatory Commission training authorization"
 usc_title: 42
 usc_section: "10226"
 chapter: 108
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 10226"
-generated_at: "2026-03-30T06:21:33.632Z"
+generated_at: "2026-03-30T06:24:31.280Z"
 status: "active"
 ---
 

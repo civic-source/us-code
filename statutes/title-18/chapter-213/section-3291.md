@@ -3,9 +3,9 @@ title: "Section 3291 - Nationality, citizenship and passports"
 usc_title: 18
 usc_section: "3291"
 chapter: 213
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "18 U.S.C. § 3291"
-generated_at: "2026-03-30T06:20:05.770Z"
+generated_at: "2026-03-30T06:23:14.916Z"
 status: "active"
 ---
 

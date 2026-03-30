@@ -3,9 +3,9 @@ title: "Section 904 - Loans for electrical plants and transmission lines"
 usc_title: 7
 usc_section: "904"
 chapter: 31
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "7 U.S.C. § 904"
-generated_at: "2026-03-30T06:19:46.633Z"
+generated_at: "2026-03-30T06:22:43.011Z"
 status: "active"
 ---
 

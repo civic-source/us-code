@@ -3,9 +3,9 @@ title: "Section 291e - Projects for construction or modernization"
 usc_title: 42
 usc_section: "291e"
 chapter: 6
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "42 U.S.C. § 291e"
-generated_at: "2026-03-30T06:21:33.122Z"
+generated_at: "2026-03-30T06:24:30.794Z"
 status: "active"
 ---
 

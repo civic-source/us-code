@@ -3,15 +3,15 @@ title: "Section 1752 - Grazing leases and permits"
 usc_title: 43
 usc_section: "1752"
 chapter: 35
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "43 U.S.C. § 1752"
-generated_at: "2026-03-30T06:21:15.998Z"
+generated_at: "2026-03-30T06:24:05.108Z"
 status: "active"
 ---
 
 # § 1752. Grazing leases and permits
 
-- **(a)** Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 ( 48 Stat. 1269 , as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 ( 50 Stat. 874 , as amended; 43 U.S.C. 1181a–118 1j), or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
+- **(a)** Except as provided in subsection (b) of this section, permits and leases for domestic livestock grazing on public lands issued by the Secretary under the Act of June 28, 1934 ( 48 Stat. 1269 , as amended; 43 U.S.C. 315 et seq.) or the Act of August 28, 1937 ( 50 Stat. 874 , as amended; 43 U.S.C. 1181a–118 1j), 1 1 See References in Text note below. or by the Secretary of Agriculture, with respect to lands within National Forests in the sixteen contiguous Western States, shall be for a term of ten years subject to such terms and conditions the Secretary concerned deems appropriate and consistent with the governing law, including, but not limited to, the authority of the Secretary concerned to cancel, suspend, or modify a grazing permit or lease, in whole or in part, pursuant to the terms and conditions thereof, or to cancel or suspend a grazing permit or lease for any violation of a grazing regulation or of any term or condition of such grazing permit or lease.
 - **(b)** Permits or leases may be issued by the Secretary concerned for a period shorter than ten years where the Secretary concerned determines that—
   - **(1)** the land is pending disposal; or
   - **(2)** the land will be devoted to a public purpose prior to the end of ten years; or

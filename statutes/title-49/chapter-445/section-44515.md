@@ -3,9 +3,9 @@ title: "Section 44515 - Advanced training facilities for maintenance technicians
 usc_title: 49
 usc_section: "44515"
 chapter: 445
-current_through: "PL 115-40"
+current_through: "PL 115-42"
 classification: "49 U.S.C. § 44515"
-generated_at: "2026-03-30T06:21:48.410Z"
+generated_at: "2026-03-30T06:24:37.181Z"
 status: "active"
 ---
 
