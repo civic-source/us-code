@@ -3,9 +3,9 @@ title: "Section 18031 - Affordable choices of health benefit plans"
 usc_title: 42
 usc_section: "18031"
 chapter: 157
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 18031"
-generated_at: "2026-03-30T00:32:13.898Z"
+generated_at: "2026-03-30T00:35:37.305Z"
 ---
 
 # § 18031. Affordable choices of health benefit plans

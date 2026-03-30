@@ -3,9 +3,9 @@ title: "Section 2821 - Repealed. Pub. L. 112–239, div. C, title XXXI, § 3131(
 usc_title: 50
 usc_section: "2821"
 chapter: 42
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 2821"
-generated_at: "2026-03-30T00:32:20.188Z"
+generated_at: "2026-03-30T00:35:44.401Z"
 ---
 
 # § 2821. Repealed. Pub. L. 112–239, div. C, title XXXI, § 3131(q)(2) , Jan. 2, 2013 , 126 Stat. 2183

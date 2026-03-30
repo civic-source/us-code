@@ -3,9 +3,9 @@ title: "Section 3604 - Effects of closure of educational institution and modific
 usc_title: 38
 usc_section: "3604"
 chapter: 36
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 3604"
-generated_at: "2026-03-30T00:31:40.175Z"
+generated_at: "2026-03-30T00:35:01.648Z"
 ---
 
 # § 3604. Effects of closure of educational institution and modification of courses by reason of emergency situation

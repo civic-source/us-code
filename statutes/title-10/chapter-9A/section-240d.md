@@ -3,9 +3,9 @@ title: "Section 240d - Audits: audit of financial statements of Department of De
 usc_title: 10
 usc_section: "240d"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 240d"
-generated_at: "2026-03-30T00:29:43.821Z"
+generated_at: "2026-03-30T00:33:02.209Z"
 ---
 
 # § 240d. Audits: audit of financial statements of Department of Defense components by independent external auditors

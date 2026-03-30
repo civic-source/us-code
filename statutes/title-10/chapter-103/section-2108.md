@@ -3,9 +3,9 @@ title: "Section 2108 - Advanced standing; interruption of training; delay in sta
 usc_title: 10
 usc_section: "2108"
 chapter: 103
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 2108"
-generated_at: "2026-03-30T00:29:43.895Z"
+generated_at: "2026-03-30T00:33:02.281Z"
 ---
 
 # § 2108. Advanced standing; interruption of training; delay in starting obligated service; release from program

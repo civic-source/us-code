@@ -3,9 +3,9 @@ title: "Section 4865 - Security requirements for United States diplomatic facili
 usc_title: 22
 usc_section: "4865"
 chapter: 58
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 4865"
-generated_at: "2026-03-30T00:30:43.639Z"
+generated_at: "2026-03-30T00:33:49.851Z"
 ---
 
 # § 4865. Security requirements for United States diplomatic facilities

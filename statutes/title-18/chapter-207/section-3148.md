@@ -3,9 +3,9 @@ title: "Section 3148 - Sanctions for violation of a release condition"
 usc_title: 18
 usc_section: "3148"
 chapter: 207
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 3148"
-generated_at: "2026-03-30T00:30:29.154Z"
+generated_at: "2026-03-30T00:33:26.804Z"
 ---
 
 # § 3148. Sanctions for violation of a release condition

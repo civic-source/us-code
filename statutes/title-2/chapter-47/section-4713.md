@@ -3,9 +3,9 @@ title: "Section 4713 - Reporting payments made to witnesses before Committee on 
 usc_title: 2
 usc_section: "4713"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 4713"
-generated_at: "2026-03-30T00:29:30.019Z"
+generated_at: "2026-03-30T00:32:43.039Z"
 ---
 
 # § 4713. Reporting payments made to witnesses before Committee on Standards of Official Conduct

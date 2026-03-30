@@ -3,9 +3,9 @@ title: "Section 6729 - United States assistance in inspections at private facili
 usc_title: 22
 usc_section: "6729"
 chapter: 75
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 6729"
-generated_at: "2026-03-30T00:30:43.659Z"
+generated_at: "2026-03-30T00:33:49.870Z"
 ---
 
 # § 6729. United States assistance in inspections at private facilities

@@ -3,9 +3,9 @@ title: "Section 124 - Definitions"
 usc_title: 4
 usc_section: "124"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "4 U.S.C. § 124"
-generated_at: "2026-03-30T00:29:29.175Z"
+generated_at: "2026-03-30T00:32:40.403Z"
 ---
 
 # § 124. Definitions

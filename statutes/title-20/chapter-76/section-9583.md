@@ -3,9 +3,9 @@ title: "Section 9583 - Removal"
 usc_title: 20
 usc_section: "9583"
 chapter: 76
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 9583"
-generated_at: "2026-03-30T00:30:28.053Z"
+generated_at: "2026-03-30T00:33:30.064Z"
 ---
 
 # § 9583. Removal

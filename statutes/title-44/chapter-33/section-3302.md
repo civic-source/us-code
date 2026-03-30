@@ -3,9 +3,9 @@ title: "Section 3302 - Regulations covering lists of records for disposal, proce
 usc_title: 44
 usc_section: "3302"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "44 U.S.C. § 3302"
-generated_at: "2026-03-30T00:31:52.168Z"
+generated_at: "2026-03-30T00:35:13.746Z"
 ---
 
 # § 3302. Regulations covering lists of records for disposal, procedure for disposal, and standards for reproduction

@@ -3,9 +3,9 @@ title: "Section 2378 - Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b
 usc_title: 10
 usc_section: "2378"
 chapter: 140
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 2378"
-generated_at: "2026-03-30T00:29:43.912Z"
+generated_at: "2026-03-30T00:33:02.293Z"
 ---
 
 # [§ 2378. Repealed. Pub. L. 114–328, div. A, title VIII, § 833(b)(3)(A) , Dec. 23, 2016 , 130 Stat. 2284 ]

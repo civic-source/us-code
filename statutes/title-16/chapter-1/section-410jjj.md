@@ -3,9 +3,9 @@ title: "Section 410jjj - Establishment"
 usc_title: 16
 usc_section: "410jjj"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 410jjj"
-generated_at: "2026-03-30T00:30:33.345Z"
+generated_at: "2026-03-30T00:33:32.896Z"
 ---
 
 # § 410jjj. Establishment

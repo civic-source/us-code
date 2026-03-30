@@ -3,9 +3,9 @@ title: "Section 127 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 12
 usc_section: "127"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 127"
-generated_at: "2026-03-30T00:30:00.690Z"
+generated_at: "2026-03-30T00:33:22.396Z"
 ---
 
 # § 127. Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Stat. 633

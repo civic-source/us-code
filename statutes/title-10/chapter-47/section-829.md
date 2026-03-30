@@ -3,9 +3,9 @@ title: "Section 829 - Art. 29. Assembly and impaneling of members; detail of new
 usc_title: 10
 usc_section: "829"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 829"
-generated_at: "2026-03-30T00:29:43.845Z"
+generated_at: "2026-03-30T00:33:02.232Z"
 ---
 
 # § 829. Art. 29. Assembly and impaneling of members; detail of new members and military judges

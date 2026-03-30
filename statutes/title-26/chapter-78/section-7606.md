@@ -3,9 +3,9 @@ title: "Section 7606 - Entry of premises for examination of taxable objects"
 usc_title: 26
 usc_section: "7606"
 chapter: 78
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 7606"
-generated_at: "2026-03-30T00:31:08.025Z"
+generated_at: "2026-03-30T00:34:36.280Z"
 ---
 
 # § 7606. Entry of premises for examination of taxable objects

@@ -3,9 +3,9 @@ title: "Section 2737 - Property loss; personal injury or death: incident to use 
 usc_title: 10
 usc_section: "2737"
 chapter: 163
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 2737"
-generated_at: "2026-03-30T00:29:43.931Z"
+generated_at: "2026-03-30T00:33:02.306Z"
 ---
 
 # § 2737. Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law

@@ -3,9 +3,9 @@ title: "Section 719c - Federal Power Commission reviews and reports"
 usc_title: 15
 usc_section: "719c"
 chapter: 15
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 719c"
-generated_at: "2026-03-30T00:30:22.430Z"
+generated_at: "2026-03-30T00:33:17.951Z"
 ---
 
 # § 719c. Federal Power Commission reviews and reports

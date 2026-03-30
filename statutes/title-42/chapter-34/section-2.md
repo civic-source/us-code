@@ -3,9 +3,9 @@ title: "Section 2 - Establishment of Administration for Native Americans"
 usc_title: 42
 usc_section: "2"
 chapter: 34
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T00:32:13.574Z"
+generated_at: "2026-03-30T00:35:36.979Z"
 ---
 
 # § 2991b–2. Establishment of Administration for Native Americans

@@ -3,9 +3,9 @@ title: "Section 120107 - Tax-exempt status required as condition of charter"
 usc_title: 36
 usc_section: "120107"
 chapter: 1201
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 120107"
-generated_at: "2026-03-30T00:31:40.871Z"
+generated_at: "2026-03-30T00:35:11.409Z"
 ---
 
 # § 120107. Tax-exempt status required as condition of charter

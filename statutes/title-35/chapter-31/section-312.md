@@ -3,9 +3,9 @@ title: "Section 312 - Petitions"
 usc_title: 35
 usc_section: "312"
 chapter: 31
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "35 U.S.C. § 312"
-generated_at: "2026-03-30T00:31:35.692Z"
+generated_at: "2026-03-30T00:34:51.891Z"
 ---
 
 # § 312. Petitions

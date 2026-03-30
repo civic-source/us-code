@@ -3,9 +3,9 @@ title: "Section 284aa - Multilateral debt relief"
 usc_title: 22
 usc_section: "284aa"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 284aa"
-generated_at: "2026-03-30T00:30:43.532Z"
+generated_at: "2026-03-30T00:33:49.709Z"
 ---
 
 # § 284aa. Multilateral debt relief

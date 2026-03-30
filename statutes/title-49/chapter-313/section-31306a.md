@@ -3,9 +3,9 @@ title: "Section 31306a - National clearinghouse for controlled substance and alc
 usc_title: 49
 usc_section: "31306a"
 chapter: 313
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 31306a"
-generated_at: "2026-03-30T00:32:23.627Z"
+generated_at: "2026-03-30T00:36:00.183Z"
 ---
 
 # § 31306a. National clearinghouse for controlled substance and alcohol test results of commercial motor vehicle operators

@@ -3,9 +3,9 @@ title: "Section 4109 - National Veterans’ Employment and Training Services Ins
 usc_title: 38
 usc_section: "4109"
 chapter: 41
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 4109"
-generated_at: "2026-03-30T00:31:40.184Z"
+generated_at: "2026-03-30T00:35:01.657Z"
 ---
 
 # § 4109. National Veterans’ Employment and Training Services Institute

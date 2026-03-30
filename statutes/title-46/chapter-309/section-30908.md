@@ -3,9 +3,9 @@ title: "Section 30908 - Exemption from arrest or seizure"
 usc_title: 46
 usc_section: "30908"
 chapter: 309
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 30908"
-generated_at: "2026-03-30T00:32:21.168Z"
+generated_at: "2026-03-30T00:35:42.050Z"
 ---
 
 # § 30908. Exemption from arrest or seizure

@@ -3,9 +3,9 @@ title: "Section 1591 - Delegation of duties"
 usc_title: 7
 usc_section: "1591"
 chapter: 37
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 1591"
-generated_at: "2026-03-30T00:29:51.106Z"
+generated_at: "2026-03-30T00:33:09.040Z"
 ---
 
 # § 1591. Delegation of duties

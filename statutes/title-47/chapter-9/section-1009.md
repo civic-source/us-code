@@ -3,9 +3,9 @@ title: "Section 1009 - Authorization of appropriations"
 usc_title: 47
 usc_section: "1009"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "47 U.S.C. § 1009"
-generated_at: "2026-03-30T00:32:18.371Z"
+generated_at: "2026-03-30T00:35:42.724Z"
 ---
 
 # § 1009. Authorization of appropriations

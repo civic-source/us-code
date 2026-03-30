@@ -3,9 +3,9 @@ title: "Section 16391a - Technology transfer reports and evaluation"
 usc_title: 42
 usc_section: "16391a"
 chapter: 149
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 16391a"
-generated_at: "2026-03-30T00:32:13.873Z"
+generated_at: "2026-03-30T00:35:37.280Z"
 ---
 
 # § 16391a. Technology transfer reports and evaluation

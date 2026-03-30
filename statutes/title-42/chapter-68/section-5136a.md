@@ -3,9 +3,9 @@ title: "Section 5136a - Assistance and training for communities with technologic
 usc_title: 42
 usc_section: "5136a"
 chapter: 68
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5136a"
-generated_at: "2026-03-30T00:32:13.625Z"
+generated_at: "2026-03-30T00:35:37.031Z"
 ---
 
 # § 5136a. Assistance and training for communities with technological hazards and related emerging threats

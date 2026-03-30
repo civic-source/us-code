@@ -3,9 +3,9 @@ title: "Section 4652 - Semiconductor incentives"
 usc_title: 15
 usc_section: "4652"
 chapter: 72
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 4652"
-generated_at: "2026-03-30T00:30:22.516Z"
+generated_at: "2026-03-30T00:33:18.042Z"
 ---
 
 # § 4652. Semiconductor incentives
@@ -188,7 +188,7 @@ generated_at: "2026-03-30T00:30:22.516Z"
     - **(A)** the lender is responsible; and
     - **(B)** adequate provision is made for servicing the loan on reasonable terms and protecting the financial interest of the United States.
   - **(7)** New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations of budget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with section 661c(b) of title 2 .
-  - **(8)** The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of waived without the consent of the Secretary.
+  - **(8)** The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 3 3 So in original. Probably should be “or”. waived without the consent of the Secretary.
 - **(h)** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
   - **(1)** whether the eligibility requirements for covered entities receiving financial assistance under the program are met;
   - **(2)** whether eligible entities use the financial assistance received under the program in accordance with the requirements of this section;

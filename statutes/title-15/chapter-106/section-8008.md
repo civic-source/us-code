@@ -3,9 +3,9 @@ title: "Section 8008 - Applicability"
 usc_title: 15
 usc_section: "8008"
 chapter: 106
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 8008"
-generated_at: "2026-03-30T00:30:22.544Z"
+generated_at: "2026-03-30T00:33:18.072Z"
 ---
 
 # § 8008. Applicability

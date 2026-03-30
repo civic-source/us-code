@@ -3,9 +3,9 @@ title: "Section 3127 - Support for Advisory Board"
 usc_title: 7
 usc_section: "3127"
 chapter: 64
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 3127"
-generated_at: "2026-03-30T00:29:51.160Z"
+generated_at: "2026-03-30T00:33:09.093Z"
 ---
 
 # § 3127. Support for Advisory Board

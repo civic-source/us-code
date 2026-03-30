@@ -3,9 +3,9 @@ title: "Section 3352 - Estimates of improper payments and reports on actions to 
 usc_title: 31
 usc_section: "3352"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "31 U.S.C. § 3352"
-generated_at: "2026-03-30T00:31:19.444Z"
+generated_at: "2026-03-30T00:34:55.757Z"
 ---
 
 # § 3352. Estimates of improper payments and reports on actions to reduce improper payments

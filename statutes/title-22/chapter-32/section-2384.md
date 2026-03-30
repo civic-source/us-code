@@ -3,9 +3,9 @@ title: "Section 2384 - Statutory officers"
 usc_title: 22
 usc_section: "2384"
 chapter: 32
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 2384"
-generated_at: "2026-03-30T00:30:43.580Z"
+generated_at: "2026-03-30T00:33:49.797Z"
 ---
 
 # § 2384. Statutory officers

@@ -3,9 +3,9 @@ title: "Section 2806 - Geospatial data standards"
 usc_title: 43
 usc_section: "2806"
 chapter: 46
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "43 U.S.C. § 2806"
-generated_at: "2026-03-30T00:32:14.663Z"
+generated_at: "2026-03-30T00:35:27.267Z"
 ---
 
 # § 2806. Geospatial data standards

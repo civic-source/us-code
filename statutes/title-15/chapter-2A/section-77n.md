@@ -3,9 +3,9 @@ title: "Section 77n - Contrary stipulations void"
 usc_title: 15
 usc_section: "77n"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 77n"
-generated_at: "2026-03-30T00:30:22.339Z"
+generated_at: "2026-03-30T00:33:17.855Z"
 ---
 
 # § 77n. Contrary stipulations void

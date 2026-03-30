@@ -3,9 +3,9 @@ title: "Section 635c - Repealed. Pub. L. 102–429, title I, § 121(c)(1) , Oct.
 usc_title: 12
 usc_section: "635c"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 635c"
-generated_at: "2026-03-30T00:30:00.704Z"
+generated_at: "2026-03-30T00:33:22.409Z"
 ---
 
 # § 635c. Repealed. Pub. L. 102–429, title I, § 121(c)(1) , Oct. 21, 1992 , 106 Stat. 2199

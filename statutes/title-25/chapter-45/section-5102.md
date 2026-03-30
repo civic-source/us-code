@@ -3,9 +3,9 @@ title: "Section 5102 - Existing periods of trust and restrictions on alienation 
 usc_title: 25
 usc_section: "5102"
 chapter: 45
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 5102"
-generated_at: "2026-03-30T00:30:56.426Z"
+generated_at: "2026-03-30T00:33:40.011Z"
 ---
 
 # § 5102. Existing periods of trust and restrictions on alienation extended

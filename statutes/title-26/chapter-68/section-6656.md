@@ -3,9 +3,9 @@ title: "Section 6656 - Failure to make deposit of taxes"
 usc_title: 26
 usc_section: "6656"
 chapter: 68
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 6656"
-generated_at: "2026-03-30T00:31:08.009Z"
+generated_at: "2026-03-30T00:34:36.264Z"
 ---
 
 # § 6656. Failure to make deposit of taxes

@@ -3,9 +3,9 @@ title: "Section 6541 - Omitted"
 usc_title: 16
 usc_section: "6541"
 chapter: 84
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 6541"
-generated_at: "2026-03-30T00:30:33.551Z"
+generated_at: "2026-03-30T00:33:33.105Z"
 ---
 
 # § 6541. Omitted

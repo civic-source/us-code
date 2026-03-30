@@ -3,9 +3,9 @@ title: "Section 6297 - Effect on other law"
 usc_title: 42
 usc_section: "6297"
 chapter: 77
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 6297"
-generated_at: "2026-03-30T00:32:13.651Z"
+generated_at: "2026-03-30T00:35:37.058Z"
 ---
 
 # § 6297. Effect on other law

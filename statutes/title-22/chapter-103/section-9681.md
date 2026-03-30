@@ -3,9 +3,9 @@ title: "Section 9681 - Definitions"
 usc_title: 22
 usc_section: "9681"
 chapter: 103
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 9681"
-generated_at: "2026-03-30T00:30:43.701Z"
+generated_at: "2026-03-30T00:33:49.922Z"
 ---
 
 # § 9681. Definitions

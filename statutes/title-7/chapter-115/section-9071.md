@@ -3,9 +3,9 @@ title: "Section 9071 - Milk donation program"
 usc_title: 7
 usc_section: "9071"
 chapter: 115
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 9071"
-generated_at: "2026-03-30T00:29:51.235Z"
+generated_at: "2026-03-30T00:33:09.168Z"
 ---
 
 # § 9071. Milk donation program

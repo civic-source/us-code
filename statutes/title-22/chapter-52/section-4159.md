@@ -3,9 +3,9 @@ title: "Section 4159 - Survivor benefits for certain former spouses"
 usc_title: 22
 usc_section: "4159"
 chapter: 52
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 4159"
-generated_at: "2026-03-30T00:30:43.632Z"
+generated_at: "2026-03-30T00:33:49.844Z"
 ---
 
 # § 4159. Survivor benefits for certain former spouses

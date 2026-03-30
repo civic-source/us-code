@@ -3,9 +3,9 @@ title: "Section 1905 - Deposit and use of reimbursements for law enforcement ass
 usc_title: 2
 usc_section: "1905"
 chapter: 29
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 1905"
-generated_at: "2026-03-30T00:29:30.007Z"
+generated_at: "2026-03-30T00:32:43.017Z"
 ---
 
 # § 1905. Deposit and use of reimbursements for law enforcement assistance

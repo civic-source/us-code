@@ -3,9 +3,9 @@ title: "Section 2107 - Congressional employee"
 usc_title: 5
 usc_section: "2107"
 chapter: 21
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 2107"
-generated_at: "2026-03-30T00:29:32.417Z"
+generated_at: "2026-03-30T00:32:45.556Z"
 ---
 
 # § 2107. Congressional employee

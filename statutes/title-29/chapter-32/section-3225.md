@@ -3,9 +3,9 @@ title: "Section 3225 - National dislocated worker grants"
 usc_title: 29
 usc_section: "3225"
 chapter: 32
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "29 U.S.C. § 3225"
-generated_at: "2026-03-30T00:31:13.952Z"
+generated_at: "2026-03-30T00:34:11.722Z"
 ---
 
 # § 3225. National dislocated worker grants

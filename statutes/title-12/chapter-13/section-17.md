@@ -3,9 +3,9 @@ title: "Section 17 - Examinations and sanctions for certain violations"
 usc_title: 12
 usc_section: "17"
 chapter: 13
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 17"
-generated_at: "2026-03-30T00:30:00.749Z"
+generated_at: "2026-03-30T00:33:22.454Z"
 ---
 
 # § 1735f–17. Examinations and sanctions for certain violations

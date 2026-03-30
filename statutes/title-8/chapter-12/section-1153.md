@@ -3,9 +3,9 @@ title: "Section 1153 - Allocation of immigrant visas"
 usc_title: 8
 usc_section: "1153"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "8 U.S.C. § 1153"
-generated_at: "2026-03-30T00:29:53.876Z"
+generated_at: "2026-03-30T00:32:53.198Z"
 ---
 
 # § 1153. Allocation of immigrant visas

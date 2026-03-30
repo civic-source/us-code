@@ -3,9 +3,9 @@ title: "Section 577 - Small river and harbor improvement projects"
 usc_title: 33
 usc_section: "577"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 577"
-generated_at: "2026-03-30T00:31:18.333Z"
+generated_at: "2026-03-30T00:34:45.257Z"
 ---
 
 # § 577. Small river and harbor improvement projects

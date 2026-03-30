@@ -3,9 +3,9 @@ title: "Section 5823 - Funding for export promotion activities and capital proje
 usc_title: 22
 usc_section: "5823"
 chapter: 67
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 5823"
-generated_at: "2026-03-30T00:30:43.645Z"
+generated_at: "2026-03-30T00:33:49.856Z"
 ---
 
 # § 5823. Funding for export promotion activities and capital projects

@@ -3,9 +3,9 @@ title: "Section 355d - Internal committee for review of pediatric plans, assessm
 usc_title: 21
 usc_section: "355d"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 355d"
-generated_at: "2026-03-30T00:30:46.798Z"
+generated_at: "2026-03-30T00:34:04.327Z"
 ---
 
 # § 355d. Internal committee for review of pediatric plans, assessments, deferrals, deferral extensions, and waivers

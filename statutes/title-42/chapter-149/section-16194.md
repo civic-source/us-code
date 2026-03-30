@@ -3,9 +3,9 @@ title: "Section 16194 - Building standards"
 usc_title: 42
 usc_section: "16194"
 chapter: 149
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 16194"
-generated_at: "2026-03-30T00:32:13.862Z"
+generated_at: "2026-03-30T00:35:37.270Z"
 ---
 
 # § 16194. Building standards

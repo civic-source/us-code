@@ -3,9 +3,9 @@ title: "Section 8307 - Medal of honor: presentation of Medal of Honor Flag"
 usc_title: 10
 usc_section: "8307"
 chapter: 837
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 8307"
-generated_at: "2026-03-30T00:29:43.974Z"
+generated_at: "2026-03-30T00:33:02.352Z"
 ---
 
 # § 8307. Medal of honor: presentation of Medal of Honor Flag

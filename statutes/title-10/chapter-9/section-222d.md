@@ -3,9 +3,9 @@ title: "Section 222d - Annual report on industrial base constraints for munition
 usc_title: 10
 usc_section: "222d"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 222d"
-generated_at: "2026-03-30T00:29:43.820Z"
+generated_at: "2026-03-30T00:33:02.208Z"
 ---
 
 # § 222d. Annual report on industrial base constraints for munitions

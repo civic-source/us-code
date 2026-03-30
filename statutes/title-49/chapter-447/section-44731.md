@@ -3,9 +3,9 @@ title: "Section 44731 - Collection of data on helicopter air ambulance operation
 usc_title: 49
 usc_section: "44731"
 chapter: 447
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 44731"
-generated_at: "2026-03-30T00:32:23.653Z"
+generated_at: "2026-03-30T00:36:00.203Z"
 ---
 
 # § 44731. Collection of data on helicopter air ambulance operations

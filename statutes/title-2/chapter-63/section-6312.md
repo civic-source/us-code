@@ -3,9 +3,9 @@ title: "Section 6312 - Clerks to Senators-elect"
 usc_title: 2
 usc_section: "6312"
 chapter: 63
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 6312"
-generated_at: "2026-03-30T00:29:30.024Z"
+generated_at: "2026-03-30T00:32:43.046Z"
 ---
 
 # § 6312. Clerks to Senators-elect

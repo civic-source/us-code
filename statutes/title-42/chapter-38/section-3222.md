@@ -3,9 +3,9 @@ title: "Section 3222 - Savings clause"
 usc_title: 42
 usc_section: "3222"
 chapter: 38
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 3222"
-generated_at: "2026-03-30T00:32:13.590Z"
+generated_at: "2026-03-30T00:35:36.996Z"
 ---
 
 # § 3222. Savings clause

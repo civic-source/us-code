@@ -3,9 +3,9 @@ title: "Section 268a - Acquisition of Fern Lake watershed"
 usc_title: 16
 usc_section: "268a"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 268a"
-generated_at: "2026-03-30T00:30:33.319Z"
+generated_at: "2026-03-30T00:33:32.871Z"
 ---
 
 # § 268a. Acquisition of Fern Lake watershed

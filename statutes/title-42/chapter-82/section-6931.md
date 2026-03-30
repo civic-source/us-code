@@ -3,9 +3,9 @@ title: "Section 6931 - Authorization of assistance to States"
 usc_title: 42
 usc_section: "6931"
 chapter: 82
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 6931"
-generated_at: "2026-03-30T00:32:13.671Z"
+generated_at: "2026-03-30T00:35:37.079Z"
 ---
 
 # § 6931. Authorization of assistance to States

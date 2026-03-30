@@ -3,9 +3,9 @@ title: "Section 1108 - Authorization of appropriations"
 usc_title: 33
 usc_section: "1108"
 chapter: 22
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 1108"
-generated_at: "2026-03-30T00:31:18.350Z"
+generated_at: "2026-03-30T00:34:45.273Z"
 ---
 
 # § 1108. Authorization of appropriations

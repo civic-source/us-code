@@ -3,9 +3,9 @@ title: "Section 8714 - Limitation on expenditures for administrative expenses"
 usc_title: 15
 usc_section: "8714"
 chapter: 113
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 8714"
-generated_at: "2026-03-30T00:30:22.551Z"
+generated_at: "2026-03-30T00:33:18.079Z"
 ---
 
 # § 8714. Limitation on expenditures for administrative expenses

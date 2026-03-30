@@ -3,9 +3,9 @@ title: "Section 1305 - Tribal jurisdiction in Alaska"
 usc_title: 25
 usc_section: "1305"
 chapter: 15
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 1305"
-generated_at: "2026-03-30T00:30:56.373Z"
+generated_at: "2026-03-30T00:33:39.963Z"
 ---
 
 # § 1305. Tribal jurisdiction in Alaska

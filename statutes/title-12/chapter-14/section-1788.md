@@ -3,9 +3,9 @@ title: "Section 1788 - Special assistance to avoid liquidation"
 usc_title: 12
 usc_section: "1788"
 chapter: 14
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 1788"
-generated_at: "2026-03-30T00:30:00.763Z"
+generated_at: "2026-03-30T00:33:22.465Z"
 ---
 
 # § 1788. Special assistance to avoid liquidation

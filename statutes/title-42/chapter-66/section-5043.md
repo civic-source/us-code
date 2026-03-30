@@ -3,9 +3,9 @@ title: "Section 5043 - Political activities"
 usc_title: 42
 usc_section: "5043"
 chapter: 66
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5043"
-generated_at: "2026-03-30T00:32:13.618Z"
+generated_at: "2026-03-30T00:35:37.024Z"
 ---
 
 # § 5043. Political activities

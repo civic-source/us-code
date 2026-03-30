@@ -3,9 +3,9 @@ title: "Section 3234 - Prohibited personnel practices in the intelligence commun
 usc_title: 50
 usc_section: "3234"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3234"
-generated_at: "2026-03-30T00:32:20.202Z"
+generated_at: "2026-03-30T00:35:44.413Z"
 ---
 
 # § 3234. Prohibited personnel practices in the intelligence community
@@ -45,7 +45,7 @@ generated_at: "2026-03-30T00:32:20.202Z"
   - **(1)** Any employee of an agency or of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a covered intelligence community element who has authority to take, direct others to take, recommend, or approve any personnel action, shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any contractor employee as a reprisal for—
     - **(A)** any lawful disclosure of information by the contractor employee to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose), the Inspector General of the Intelligence Community, a supervisor in the contractor employee’s direct chain of command, or a supervisor of the employing or contracting agency or employing contractor with responsibility for the subject matter of the disclosure, up to and including the head of the employing or contracting agency (or an employee designated by the head of that agency for that purpose) or employing contractor, the appropriate inspector general of the employing or contracting agency, a congressional intelligence committee, or a member of a congressional intelligence committee, which the contractor employee reasonably believes evidences—
       - **(i)** a violation of any Federal law, rule, or regulation (including with respect to evidence of another employee or contractor employee accessing or sharing classified information without authorization); or
-      - **(ii)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+      - **(ii)** mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety. 2 2 So in original. The period probably should be a semicolon.
     - **(B)** any lawful disclosure that complies with—
       - **(i)** subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.); 1
       - **(ii)** subparagraphs (A), (D), and (H) of section 3517(d)(5) of this title ; or

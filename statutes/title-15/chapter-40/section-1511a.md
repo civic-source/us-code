@@ -3,9 +3,9 @@ title: "Section 1511a - Repealed. Pub. L. 95–219, § 3(a)(2) , Dec. 28, 1977 ,
 usc_title: 15
 usc_section: "1511a"
 chapter: 40
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 1511a"
-generated_at: "2026-03-30T00:30:22.448Z"
+generated_at: "2026-03-30T00:33:17.970Z"
 ---
 
 # § 1511a. Repealed. Pub. L. 95–219, § 3(a)(2) , Dec. 28, 1977 , 91 Stat. 1613

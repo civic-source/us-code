@@ -3,9 +3,9 @@ title: "Section 290ii - Requirement relating to the rights of residents of certa
 usc_title: 42
 usc_section: "290ii"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 290ii"
-generated_at: "2026-03-30T00:32:13.211Z"
+generated_at: "2026-03-30T00:35:36.596Z"
 ---
 
 # § 290ii. Requirement relating to the rights of residents of certain facilities

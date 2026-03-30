@@ -3,9 +3,9 @@ title: "Section 1368 - Federal procurement"
 usc_title: 33
 usc_section: "1368"
 chapter: 26
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 1368"
-generated_at: "2026-03-30T00:31:18.371Z"
+generated_at: "2026-03-30T00:34:45.294Z"
 ---
 
 # § 1368. Federal procurement

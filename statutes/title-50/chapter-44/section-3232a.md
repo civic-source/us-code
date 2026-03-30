@@ -3,9 +3,9 @@ title: "Section 3232a - Measures to mitigate counterintelligence threats from pr
 usc_title: 50
 usc_section: "3232a"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3232a"
-generated_at: "2026-03-30T00:32:20.200Z"
+generated_at: "2026-03-30T00:35:44.413Z"
 ---
 
 # § 3232a. Measures to mitigate counterintelligence threats from proliferation and use of foreign commercial spyware

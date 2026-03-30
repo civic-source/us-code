@@ -3,9 +3,9 @@ title: "Section 552a - Savings provision of certain transfers made under the Hom
 usc_title: 6
 usc_section: "552a"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "6 U.S.C. § 552a"
-generated_at: "2026-03-30T00:29:45.316Z"
+generated_at: "2026-03-30T00:32:48.460Z"
 ---
 
 # § 552a. Savings provision of certain transfers made under the Homeland Security Act of 2002

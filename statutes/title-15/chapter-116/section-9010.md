@@ -3,9 +3,9 @@ title: "Section 9010 - Resources and services in languages other than English"
 usc_title: 15
 usc_section: "9010"
 chapter: 116
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 9010"
-generated_at: "2026-03-30T00:30:22.556Z"
+generated_at: "2026-03-30T00:33:18.085Z"
 ---
 
 # § 9010. Resources and services in languages other than English

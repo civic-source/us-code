@@ -3,9 +3,9 @@ title: "Section 906 - Wireless supply chain innovation and multilateral security
 usc_title: 47
 usc_section: "906"
 chapter: 8
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "47 U.S.C. § 906"
-generated_at: "2026-03-30T00:32:18.366Z"
+generated_at: "2026-03-30T00:35:42.721Z"
 ---
 
 # § 906. Wireless supply chain innovation and multilateral security
@@ -31,7 +31,7 @@ generated_at: "2026-03-30T00:32:18.366Z"
     - **(D)** To the greatest extent practicable, the Secretary, acting through the NTIA Administrator, shall ensure that any research funded by a grant awarded under this paragraph avoids duplication of other Federal or private sector research.
     - **(E)** Not later than one year after the date on which funds are appropriated to the Innovation Fund, the Secretary, acting through the NTIA Administrator, shall begin awarding grants under this paragraph.
     - **(F)**
-      - **(i)** The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
+      - **(i)** The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), 1 1 See References in Text note below. composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
       - **(ii)** The advisory committee established under clause (i) shall be composed of—
         - **(I)** representatives from—
         - **(II)** other representatives from the private and public sectors, at the discretion of the NTIA Administrator.

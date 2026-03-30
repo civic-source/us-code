@@ -3,9 +3,9 @@ title: "Section 3310 - Employment of United States Government agency personnel"
 usc_title: 22
 usc_section: "3310"
 chapter: 48
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 3310"
-generated_at: "2026-03-30T00:30:43.610Z"
+generated_at: "2026-03-30T00:33:49.826Z"
 ---
 
 # § 3310. Employment of United States Government agency personnel

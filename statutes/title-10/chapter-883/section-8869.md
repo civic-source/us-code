@@ -3,9 +3,9 @@ title: "Section 8869 - Security for costs"
 usc_title: 10
 usc_section: "8869"
 chapter: 883
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 8869"
-generated_at: "2026-03-30T00:29:43.984Z"
+generated_at: "2026-03-30T00:33:02.362Z"
 ---
 
 # § 8869. Security for costs

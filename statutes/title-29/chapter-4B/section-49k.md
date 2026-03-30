@@ -3,9 +3,9 @@ title: "Section 49k - Rules and regulations"
 usc_title: 29
 usc_section: "49k"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "29 U.S.C. § 49k"
-generated_at: "2026-03-30T00:31:13.871Z"
+generated_at: "2026-03-30T00:34:11.650Z"
 ---
 
 # § 49k. Rules and regulations

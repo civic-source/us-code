@@ -3,9 +3,9 @@ title: "Section 6592c - Emergency actions"
 usc_title: 16
 usc_section: "6592c"
 chapter: 84
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 6592c"
-generated_at: "2026-03-30T00:30:33.554Z"
+generated_at: "2026-03-30T00:33:33.110Z"
 ---
 
 # § 6592c. Emergency actions

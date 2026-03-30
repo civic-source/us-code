@@ -3,9 +3,9 @@ title: "Section 1340 - Internal revenue; customs duties"
 usc_title: 28
 usc_section: "1340"
 chapter: 85
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "28 U.S.C. § 1340"
-generated_at: "2026-03-30T00:30:59.655Z"
+generated_at: "2026-03-30T00:34:14.481Z"
 ---
 
 # § 1340. Internal revenue; customs duties

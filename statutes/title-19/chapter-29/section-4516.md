@@ -3,9 +3,9 @@ title: "Section 4516 - Trade Representative authority"
 usc_title: 19
 usc_section: "4516"
 chapter: 29
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "19 U.S.C. § 4516"
-generated_at: "2026-03-30T00:30:36.466Z"
+generated_at: "2026-03-30T00:33:36.126Z"
 ---
 
 # § 4516. Trade Representative authority

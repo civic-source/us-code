@@ -3,9 +3,9 @@ title: "Section 11292 - Education of public, individuals with Alzheimer’s dise
 usc_title: 42
 usc_section: "11292"
 chapter: 118
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 11292"
-generated_at: "2026-03-30T00:32:13.791Z"
+generated_at: "2026-03-30T00:35:37.199Z"
 ---
 
 # § 11292. Education of public, individuals with Alzheimer’s disease and their families, and health and long-term care providers

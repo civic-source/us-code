@@ -3,9 +3,9 @@ title: "Section 3192a - Restrictions on use of appropriated funds"
 usc_title: 16
 usc_section: "3192a"
 chapter: 51
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 3192a"
-generated_at: "2026-03-30T00:30:33.517Z"
+generated_at: "2026-03-30T00:33:33.073Z"
 ---
 
 # § 3192a. Restrictions on use of appropriated funds

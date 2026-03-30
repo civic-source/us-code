@@ -3,9 +3,9 @@ title: "Section 6050G - Returns relating to certain railroad retirement benefits
 usc_title: 26
 usc_section: "6050G"
 chapter: 61
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 6050G"
-generated_at: "2026-03-30T00:31:07.984Z"
+generated_at: "2026-03-30T00:34:36.238Z"
 ---
 
 # § 6050G. Returns relating to certain railroad retirement benefits

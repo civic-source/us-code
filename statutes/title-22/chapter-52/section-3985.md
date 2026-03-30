@@ -3,9 +3,9 @@ title: "Section 3985 - Temporary details"
 usc_title: 22
 usc_section: "3985"
 chapter: 52
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 3985"
-generated_at: "2026-03-30T00:30:43.622Z"
+generated_at: "2026-03-30T00:33:49.836Z"
 ---
 
 # § 3985. Temporary details

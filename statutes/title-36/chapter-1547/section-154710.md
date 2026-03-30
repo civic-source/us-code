@@ -3,9 +3,9 @@ title: "Section 154710 - Records and inspection"
 usc_title: 36
 usc_section: "154710"
 chapter: 1547
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 154710"
-generated_at: "2026-03-30T00:31:40.877Z"
+generated_at: "2026-03-30T00:35:11.414Z"
 ---
 
 # § 154710. Records and inspection

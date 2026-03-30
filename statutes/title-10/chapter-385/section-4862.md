@@ -3,9 +3,9 @@ title: "Section 4862 - Requirement to buy certain articles from American sources
 usc_title: 10
 usc_section: "4862"
 chapter: 385
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 4862"
-generated_at: "2026-03-30T00:29:43.960Z"
+generated_at: "2026-03-30T00:33:02.337Z"
 ---
 
 # § 4862. Requirement to buy certain articles from American sources; exceptions
@@ -19,8 +19,6 @@ generated_at: "2026-03-30T00:29:43.960Z"
     - **(D)** cotton and other natural fiber products, woven silk or woven silk blends, spun silk yarn for cartridge cloth, synthetic fabric or coated synthetic fabric (including all textile fibers and yarns that are for use in such fabrics), canvas products, or wool (whether in the form of fiber or yarn or contained in fabrics, materials, or manufactured articles); or
     - **(E)** any item of individual equipment manufactured from or containing such fibers, yarns, fabrics, or materials.
   - **(2)** Hand or measuring tools.
-  - **(3)** 1 1 See Repeal of Subsection (b)(3) and (4) note below. Stainless steel flatware.
-  - **(4)** 1 Dinnerware.
 - **(c)** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 - **(d)** Subsection (a) does not apply to the following:
   - **(1)** Procurements outside the United States in support of combat operations or procurements of any item listed in subsection (b)(1)(A) or (b)(2) in support of contingency operations.

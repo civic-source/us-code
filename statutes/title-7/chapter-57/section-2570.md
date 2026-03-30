@@ -3,9 +3,9 @@ title: "Section 2570 - Liability of States, instrumentalities of States, and Sta
 usc_title: 7
 usc_section: "2570"
 chapter: 57
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 2570"
-generated_at: "2026-03-30T00:29:51.156Z"
+generated_at: "2026-03-30T00:33:09.088Z"
 ---
 
 # § 2570. Liability of States, instrumentalities of States, and State officials for infringement of plant variety protection

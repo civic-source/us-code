@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T00:31:19.436Z"
+generated_at: "2026-03-30T00:34:55.751Z"
 ---
 
 # § 1105. Budget contents and submission to Congress

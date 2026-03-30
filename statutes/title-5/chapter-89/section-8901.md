@@ -3,9 +3,9 @@ title: "Section 8901 - Definitions"
 usc_title: 5
 usc_section: "8901"
 chapter: 89
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 8901"
-generated_at: "2026-03-30T00:29:32.495Z"
+generated_at: "2026-03-30T00:32:45.642Z"
 ---
 
 # § 8901. Definitions

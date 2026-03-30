@@ -3,9 +3,9 @@ title: "Section 846 - Art. 46. Opportunity to obtain witnesses and other evidenc
 usc_title: 10
 usc_section: "846"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 846"
-generated_at: "2026-03-30T00:29:43.845Z"
+generated_at: "2026-03-30T00:33:02.233Z"
 ---
 
 # § 846. Art. 46. Opportunity to obtain witnesses and other evidence in trials by court-martial

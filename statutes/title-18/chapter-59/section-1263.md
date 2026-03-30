@@ -3,9 +3,9 @@ title: "Section 1263 - Marks and labels on packages"
 usc_title: 18
 usc_section: "1263"
 chapter: 59
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 1263"
-generated_at: "2026-03-30T00:30:29.127Z"
+generated_at: "2026-03-30T00:33:26.780Z"
 ---
 
 # § 1263. Marks and labels on packages

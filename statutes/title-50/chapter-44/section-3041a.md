@@ -3,9 +3,9 @@ title: "Section 3041a - Director of the National Reconnaissance Office"
 usc_title: 50
 usc_section: "3041a"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3041a"
-generated_at: "2026-03-30T00:32:20.193Z"
+generated_at: "2026-03-30T00:35:44.405Z"
 ---
 
 # § 3041a. Director of the National Reconnaissance Office
@@ -29,5 +29,5 @@ generated_at: "2026-03-30T00:32:20.193Z"
     - **(F)** The Director may appoint an executive secretary, who shall be an employee of the National Reconnaissance Office, to support the Board.
   - **(4)** The Board shall meet not less than quarterly, but may meet more frequently at the call of the Director.
   - **(5)** Not later than March 31 of each year, the Board shall submit to the Director and to the congressional intelligence committees a report on the activities and significant findings of the Board during the preceding year.
-  - **(6)** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+  - **(6)** The Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. shall not apply to the Board.
   - **(7)** The Board shall terminate on September 30, 2024 .

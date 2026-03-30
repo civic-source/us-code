@@ -3,9 +3,9 @@ title: "Section 1725 - Senior Military Acquisition Advisors"
 usc_title: 10
 usc_section: "1725"
 chapter: 87
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 1725"
-generated_at: "2026-03-30T00:29:43.889Z"
+generated_at: "2026-03-30T00:33:02.277Z"
 ---
 
 # § 1725. Senior Military Acquisition Advisors

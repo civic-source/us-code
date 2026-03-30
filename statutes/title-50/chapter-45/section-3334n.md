@@ -3,9 +3,9 @@ title: "Section 3334n - Certification relating to information technology and sof
 usc_title: 50
 usc_section: "3334n"
 chapter: 45
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3334n"
-generated_at: "2026-03-30T00:32:20.206Z"
+generated_at: "2026-03-30T00:35:44.417Z"
 ---
 
 # § 3334n. Certification relating to information technology and software systems
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T00:32:20.206Z"
   - **(1)** That the information technology or software system is the most up-to-date version of the system available or, if it is not, why a more out of date version was chosen.
   - **(2)** That the information technology or software system is compatible with integrating new and emerging technologies, such as artificial intelligence.
   - **(3)** That the information technology or software system was thoroughly reviewed and alternative products are not superior to meet the requirements of the element.
-- **(b)** The Director of National Intelligence may exempt elements of the intelligence community, as appropriate, from the requirements under (a) if meeting such requirements may pose security or operational risks.
+- **(b)** The Director of National Intelligence may exempt elements of the intelligence community, as appropriate, from the requirements under (a) 1 1 So in original. Probably should be “subsection (a)”. if meeting such requirements may pose security or operational risks.
 - **(c)** The Director shall issue to the heads of the elements of the intelligence community, and submit to the congressional intelligence committees, the Subcommittee on Defense of the Committee on Appropriations of the Senate, and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives, guidance to—
   - **(1)** establish guidelines that the heads of the relevant elements of the intelligence community shall use to evaluate the criteria required for the certifications under subsection (a);
   - **(2)** incentivize each such head to adopt and integrate new and emerging technology within information technology and software systems of the element and to decommission and replace outdated systems, including through potential funding enhancements; and

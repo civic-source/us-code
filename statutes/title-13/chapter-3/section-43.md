@@ -3,9 +3,9 @@ title: "Section 43 - Records and reports of cotton ginners"
 usc_title: 13
 usc_section: "43"
 chapter: 3
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "13 U.S.C. § 43"
-generated_at: "2026-03-30T00:29:56.121Z"
+generated_at: "2026-03-30T00:33:14.718Z"
 ---
 
 # § 43. Records and reports of cotton ginners

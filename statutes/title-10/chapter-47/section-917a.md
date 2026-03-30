@@ -3,9 +3,9 @@ title: "Section 917a - Art. 117a. Wrongful broadcast or distribution of intimate
 usc_title: 10
 usc_section: "917a"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 917a"
-generated_at: "2026-03-30T00:29:43.849Z"
+generated_at: "2026-03-30T00:33:02.237Z"
 ---
 
 # § 917a. Art. 117a. Wrongful broadcast or distribution of intimate visual images

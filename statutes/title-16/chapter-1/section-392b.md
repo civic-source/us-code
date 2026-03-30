@@ -3,9 +3,9 @@ title: "Section 392b - Conveyance of added lands to United States by Governor"
 usc_title: 16
 usc_section: "392b"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 392b"
-generated_at: "2026-03-30T00:30:33.323Z"
+generated_at: "2026-03-30T00:33:32.876Z"
 ---
 
 # § 392b. Conveyance of added lands to United States by Governor

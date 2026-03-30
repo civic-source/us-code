@@ -3,9 +3,9 @@ title: "Section 297g - Modification of agreements; compromise, waiver or release
 usc_title: 42
 usc_section: "297g"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 297g"
-generated_at: "2026-03-30T00:32:13.223Z"
+generated_at: "2026-03-30T00:35:36.609Z"
 ---
 
 # § 297g. Modification of agreements; compromise, waiver or release

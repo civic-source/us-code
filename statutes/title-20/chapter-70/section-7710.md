@@ -3,9 +3,9 @@ title: "Section 7710 - Federal administration"
 usc_title: 20
 usc_section: "7710"
 chapter: 70
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 7710"
-generated_at: "2026-03-30T00:30:28.041Z"
+generated_at: "2026-03-30T00:33:30.053Z"
 ---
 
 # § 7710. Federal administration

@@ -3,9 +3,9 @@ title: "Section 3145 - Regulations governing contractors and subcontractors"
 usc_title: 40
 usc_section: "3145"
 chapter: 31
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 3145"
-generated_at: "2026-03-30T00:31:38.619Z"
+generated_at: "2026-03-30T00:35:11.825Z"
 ---
 
 # § 3145. Regulations governing contractors and subcontractors

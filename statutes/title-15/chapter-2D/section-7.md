@@ -3,9 +3,9 @@ title: "Section 7 - Material misstatements"
 usc_title: 15
 usc_section: "7"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 7"
-generated_at: "2026-03-30T00:30:22.381Z"
+generated_at: "2026-03-30T00:33:17.899Z"
 ---
 
 # § 80b–7. Material misstatements

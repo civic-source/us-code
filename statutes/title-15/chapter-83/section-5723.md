@@ -3,9 +3,9 @@ title: "Section 5723 - Enforcement"
 usc_title: 15
 usc_section: "5723"
 chapter: 83
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 5723"
-generated_at: "2026-03-30T00:30:22.523Z"
+generated_at: "2026-03-30T00:33:18.050Z"
 ---
 
 # § 5723. Enforcement

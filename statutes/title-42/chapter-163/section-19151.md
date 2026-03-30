@@ -3,9 +3,9 @@ title: "Section 19151 - Federal research agency policies for caregivers"
 usc_title: 42
 usc_section: "19151"
 chapter: 163
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 19151"
-generated_at: "2026-03-30T00:32:13.926Z"
+generated_at: "2026-03-30T00:35:37.332Z"
 ---
 
 # § 19151. Federal research agency policies for caregivers

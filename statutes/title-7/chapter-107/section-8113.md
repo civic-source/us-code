@@ -3,9 +3,9 @@ title: "Section 8113 - Community Wood Energy and Wood Innovation Program"
 usc_title: 7
 usc_section: "8113"
 chapter: 107
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 8113"
-generated_at: "2026-03-30T00:29:51.224Z"
+generated_at: "2026-03-30T00:33:09.157Z"
 ---
 
 # § 8113. Community Wood Energy and Wood Innovation Program

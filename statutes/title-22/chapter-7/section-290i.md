@@ -3,9 +3,9 @@ title: "Section 290i - Acceptance of membership"
 usc_title: 22
 usc_section: "290i"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 290i"
-generated_at: "2026-03-30T00:30:43.541Z"
+generated_at: "2026-03-30T00:33:49.715Z"
 ---
 
 # § 290i. Acceptance of membership

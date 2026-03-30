@@ -3,9 +3,9 @@ title: "Section 2116 - Railway or steamboat post office"
 usc_title: 18
 usc_section: "2116"
 chapter: 103
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 2116"
-generated_at: "2026-03-30T00:30:29.138Z"
+generated_at: "2026-03-30T00:33:26.790Z"
 ---
 
 # § 2116. Railway or steamboat post office

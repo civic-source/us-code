@@ -3,9 +3,9 @@ title: "Section 4566 - Monitoring and enforcing compliance with housing goals"
 usc_title: 12
 usc_section: "4566"
 chapter: 46
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 4566"
-generated_at: "2026-03-30T00:30:00.835Z"
+generated_at: "2026-03-30T00:33:22.530Z"
 ---
 
 # § 4566. Monitoring and enforcing compliance with housing goals

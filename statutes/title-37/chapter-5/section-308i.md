@@ -3,9 +3,9 @@ title: "Section 308i - Special pay: prior service enlistment bonus"
 usc_title: 37
 usc_section: "308i"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "37 U.S.C. § 308i"
-generated_at: "2026-03-30T00:31:37.676Z"
+generated_at: "2026-03-30T00:35:10.502Z"
 ---
 
 # § 308i. Special pay: prior service enlistment bonus

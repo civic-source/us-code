@@ -3,9 +3,9 @@ title: "Section 101501 - Airports in or near System units"
 usc_title: 54
 usc_section: "101501"
 chapter: 1015
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "54 U.S.C. § 101501"
-generated_at: "2026-03-30T00:32:26.771Z"
+generated_at: "2026-03-30T00:36:02.240Z"
 ---
 
 # § 101501. Airports in or near System units

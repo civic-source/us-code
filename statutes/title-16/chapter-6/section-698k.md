@@ -3,9 +3,9 @@ title: "Section 698k - Contracts for providing visitor services in Big Cypress P
 usc_title: 16
 usc_section: "698k"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 698k"
-generated_at: "2026-03-30T00:30:33.430Z"
+generated_at: "2026-03-30T00:33:32.985Z"
 ---
 
 # § 698k. Contracts for providing visitor services in Big Cypress Preserve and Addition; right of first refusal to Miccosukee and Seminole Tribes

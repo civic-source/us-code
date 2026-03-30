@@ -3,9 +3,9 @@ title: "Section 4901 - Congressional pages"
 usc_title: 2
 usc_section: "4901"
 chapter: 49
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 4901"
-generated_at: "2026-03-30T00:29:30.019Z"
+generated_at: "2026-03-30T00:32:43.039Z"
 ---
 
 # § 4901. Congressional pages

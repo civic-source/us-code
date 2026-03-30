@@ -3,9 +3,9 @@ title: "Section 8287 - United States Marine Band; United States Marine Drum and 
 usc_title: 10
 usc_section: "8287"
 chapter: 835
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 8287"
-generated_at: "2026-03-30T00:29:43.974Z"
+generated_at: "2026-03-30T00:33:02.351Z"
 ---
 
 # § 8287. United States Marine Band; United States Marine Drum and Bugle Corps: composition; appointment and promotion of members

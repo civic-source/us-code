@@ -3,9 +3,9 @@ title: "Section 691 - Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1
 usc_title: 10
 usc_section: "691"
 chapter: 39
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 691"
-generated_at: "2026-03-30T00:29:43.840Z"
+generated_at: "2026-03-30T00:33:02.228Z"
 ---
 
 # [§ 691. Repealed. Pub. L. 117–263, div. A, title IV, § 402(a)(1) , Dec. 23, 2022 , 136 Stat. 2551 ]

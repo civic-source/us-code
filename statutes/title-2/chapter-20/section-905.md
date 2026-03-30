@@ -3,9 +3,9 @@ title: "Section 905 - Exempt programs and activities"
 usc_title: 2
 usc_section: "905"
 chapter: 20
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 905"
-generated_at: "2026-03-30T00:29:29.993Z"
+generated_at: "2026-03-30T00:32:42.992Z"
 ---
 
 # § 905. Exempt programs and activities
@@ -14,8 +14,8 @@ generated_at: "2026-03-30T00:29:29.993Z"
 - **(b)** The following programs shall be exempt from reduction under any order issued under this subchapter: All programs administered by the Department of Veterans Affairs. Special benefits for certain World War II veterans (28–0401–0–1–701).
 - **(c)** No reduction of payments for net interest (all of major functional category 900) shall be made under any order issued under this subchapter.
 - **(d)**
-  - **(1)** Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this part.
-  - **(2)** Payments made to taxpayers pursuant to elections under subsection (d) of section 48D of title 26 , or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this part.
+  - **(1)** Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.
+  - **(2)** Payments made to taxpayers pursuant to elections under subsection (d) of section 48D of title 26 , or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this subchapter.
 - **(e)** Unobligated balances of budget authority carried over from prior fiscal years, except balances in the defense category, shall be exempt from reduction under any order issued under this subchapter.
 - **(f)**
   - **(1)** The President may, with respect to any military personnel account, exempt that account from sequestration or provide for a lower uniform percentage reduction than would otherwise apply.

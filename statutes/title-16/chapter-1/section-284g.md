@@ -3,9 +3,9 @@ title: "Section 284g - Cooperation of government agencies"
 usc_title: 16
 usc_section: "284g"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 284g"
-generated_at: "2026-03-30T00:30:33.321Z"
+generated_at: "2026-03-30T00:33:32.873Z"
 ---
 
 # § 284g. Cooperation of government agencies

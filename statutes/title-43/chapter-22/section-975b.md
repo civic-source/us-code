@@ -3,9 +3,9 @@ title: "Section 975b - Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 2
 usc_title: 43
 usc_section: "975b"
 chapter: 22
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "43 U.S.C. § 975b"
-generated_at: "2026-03-30T00:32:14.629Z"
+generated_at: "2026-03-30T00:35:27.237Z"
 ---
 
 # § 975b. Repealed. Pub. L. 94–579, title VII, § 704(a) , Oct. 21, 1976 , 90 Stat. 2792

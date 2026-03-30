@@ -3,9 +3,9 @@ title: "Section 784 - Jurisdiction of prosecutions"
 usc_title: 16
 usc_section: "784"
 chapter: 11
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 784"
-generated_at: "2026-03-30T00:30:33.440Z"
+generated_at: "2026-03-30T00:33:32.995Z"
 ---
 
 # § 784. Jurisdiction of prosecutions

@@ -3,9 +3,9 @@ title: "Section 4 - Outdated broadband systems"
 usc_title: 7
 usc_section: "4"
 chapter: 31
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T00:29:51.081Z"
+generated_at: "2026-03-30T00:33:09.016Z"
 ---
 
 # § 950bb–4. Outdated broadband systems

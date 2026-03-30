@@ -3,9 +3,9 @@ title: "Section 9121 - Suspension, revocation, and termination of licenses"
 usc_title: 42
 usc_section: "9121"
 chapter: 99
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 9121"
-generated_at: "2026-03-30T00:32:13.744Z"
+generated_at: "2026-03-30T00:35:37.155Z"
 ---
 
 # § 9121. Suspension, revocation, and termination of licenses

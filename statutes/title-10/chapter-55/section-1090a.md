@@ -3,9 +3,9 @@ title: "Section 1090a - Identifying and treating eating disorders. 1 1 So in ori
 usc_title: 10
 usc_section: "1090a"
 chapter: 55
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 1090a"
-generated_at: "2026-03-30T00:29:43.865Z"
+generated_at: "2026-03-30T00:33:02.253Z"
 ---
 
 # § 1090a. Identifying and treating eating disorders. 1 1 So in original. The period probably should not appear.

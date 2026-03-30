@@ -3,9 +3,9 @@ title: "Section 81f - Application for establishment and expansion of zone"
 usc_title: 19
 usc_section: "81f"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "19 U.S.C. § 81f"
-generated_at: "2026-03-30T00:30:36.388Z"
+generated_at: "2026-03-30T00:33:36.047Z"
 ---
 
 # § 81f. Application for establishment and expansion of zone

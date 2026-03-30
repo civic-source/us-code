@@ -3,9 +3,9 @@ title: "Section 304b - Deposits of funds of students and student activity associ
 usc_title: 25
 usc_section: "304b"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 304b"
-generated_at: "2026-03-30T00:30:56.360Z"
+generated_at: "2026-03-30T00:33:39.951Z"
 ---
 
 # § 304b. Deposits of funds of students and student activity associations in Indian schools

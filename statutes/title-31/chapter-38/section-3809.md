@@ -3,9 +3,9 @@ title: "Section 3809 - Regulations"
 usc_title: 31
 usc_section: "3809"
 chapter: 38
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "31 U.S.C. § 3809"
-generated_at: "2026-03-30T00:31:19.453Z"
+generated_at: "2026-03-30T00:34:55.763Z"
 ---
 
 # § 3809. Regulations

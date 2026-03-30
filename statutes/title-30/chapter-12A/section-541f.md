@@ -3,9 +3,9 @@ title: "Section 541f - Disbursement of moneys"
 usc_title: 30
 usc_section: "541f"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "30 U.S.C. § 541f"
-generated_at: "2026-03-30T00:31:02.958Z"
+generated_at: "2026-03-30T00:34:18.080Z"
 ---
 
 # § 541f. Disbursement of moneys

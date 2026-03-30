@@ -3,9 +3,9 @@ title: "Section 715d - Purchase or rental of approved areas or interests therein
 usc_title: 16
 usc_section: "715d"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 715d"
-generated_at: "2026-03-30T00:30:33.433Z"
+generated_at: "2026-03-30T00:33:32.987Z"
 ---
 
 # § 715d. Purchase or rental of approved areas or interests therein; gifts and devises; United States lands

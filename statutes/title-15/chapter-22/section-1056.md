@@ -3,9 +3,9 @@ title: "Section 1056 - Disclaimer of unregistrable matter"
 usc_title: 15
 usc_section: "1056"
 chapter: 22
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 1056"
-generated_at: "2026-03-30T00:30:22.437Z"
+generated_at: "2026-03-30T00:33:17.958Z"
 ---
 
 # § 1056. Disclaimer of unregistrable matter

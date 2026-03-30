@@ -3,9 +3,9 @@ title: "Section 7624 - Cost of vapor recovery equipment"
 usc_title: 42
 usc_section: "7624"
 chapter: 85
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 7624"
-generated_at: "2026-03-30T00:32:13.714Z"
+generated_at: "2026-03-30T00:35:37.126Z"
 ---
 
 # § 7624. Cost of vapor recovery equipment

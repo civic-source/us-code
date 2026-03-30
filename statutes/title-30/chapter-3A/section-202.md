@@ -3,9 +3,9 @@ title: "Section 202 - Common carriers; limitations of lease or permit"
 usc_title: 30
 usc_section: "202"
 chapter: 3
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "30 U.S.C. § 202"
-generated_at: "2026-03-30T00:31:02.953Z"
+generated_at: "2026-03-30T00:34:18.075Z"
 ---
 
 # § 202. Common carriers; limitations of lease or permit

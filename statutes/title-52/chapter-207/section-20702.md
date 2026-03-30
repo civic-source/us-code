@@ -3,9 +3,9 @@ title: "Section 20702 - Theft, destruction, concealment, mutilation, or alterati
 usc_title: 52
 usc_section: "20702"
 chapter: 207
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "52 U.S.C. § 20702"
-generated_at: "2026-03-30T00:32:26.428Z"
+generated_at: "2026-03-30T00:36:02.666Z"
 ---
 
 # § 20702. Theft, destruction, concealment, mutilation, or alteration of records or papers; penalties

@@ -3,9 +3,9 @@ title: "Section 1444 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1444"
 chapter: 32
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 1444"
-generated_at: "2026-03-30T00:30:33.485Z"
+generated_at: "2026-03-30T00:33:33.039Z"
 ---
 
 # § 1444. Authorization of appropriations

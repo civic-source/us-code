@@ -3,9 +3,9 @@ title: "Section 838d - Transmission of non-Federal power"
 usc_title: 16
 usc_section: "838d"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 838d"
-generated_at: "2026-03-30T00:30:33.454Z"
+generated_at: "2026-03-30T00:33:33.009Z"
 ---
 
 # § 838d. Transmission of non-Federal power

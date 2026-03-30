@@ -3,9 +3,9 @@ title: "Section 379aa - Serious adverse event reporting for nonprescription drug
 usc_title: 21
 usc_section: "379aa"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 379aa"
-generated_at: "2026-03-30T00:30:46.834Z"
+generated_at: "2026-03-30T00:34:04.357Z"
 ---
 
 # § 379aa. Serious adverse event reporting for nonprescription drugs

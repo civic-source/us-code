@@ -3,9 +3,9 @@ title: "Section 9707 - Estimates of precipitation frequency in the United States
 usc_title: 15
 usc_section: "9707"
 chapter: 121
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 9707"
-generated_at: "2026-03-30T00:30:22.568Z"
+generated_at: "2026-03-30T00:33:18.098Z"
 ---
 
 # § 9707. Estimates of precipitation frequency in the United States

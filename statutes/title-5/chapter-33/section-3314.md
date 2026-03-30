@@ -3,9 +3,9 @@ title: "Section 3314 - Registers; preference eligibles who resigned"
 usc_title: 5
 usc_section: "3314"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 3314"
-generated_at: "2026-03-30T00:29:32.419Z"
+generated_at: "2026-03-30T00:32:45.563Z"
 ---
 
 # § 3314. Registers; preference eligibles who resigned

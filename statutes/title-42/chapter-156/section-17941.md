@@ -3,9 +3,9 @@ title: "Section 17941 - Recognition of security practices"
 usc_title: 42
 usc_section: "17941"
 chapter: 156
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 17941"
-generated_at: "2026-03-30T00:32:13.896Z"
+generated_at: "2026-03-30T00:35:37.303Z"
 ---
 
 # § 17941. Recognition of security practices

@@ -3,9 +3,9 @@ title: "Section 1401a - Adjustment of retired pay and retainer pay to reflect ch
 usc_title: 10
 usc_section: "1401a"
 chapter: 71
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 1401a"
-generated_at: "2026-03-30T00:29:43.874Z"
+generated_at: "2026-03-30T00:33:02.262Z"
 ---
 
 # § 1401a. Adjustment of retired pay and retainer pay to reflect changes in Consumer Price Index

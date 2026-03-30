@@ -3,9 +3,9 @@ title: "Section 4702 - Definitions"
 usc_title: 12
 usc_section: "4702"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 4702"
-generated_at: "2026-03-30T00:30:00.843Z"
+generated_at: "2026-03-30T00:33:22.537Z"
 ---
 
 # § 4702. Definitions

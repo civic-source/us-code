@@ -3,9 +3,9 @@ title: "Section 22508 - Meetings"
 usc_title: 36
 usc_section: "22508"
 chapter: 225
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 22508"
-generated_at: "2026-03-30T00:31:40.864Z"
+generated_at: "2026-03-30T00:35:11.403Z"
 ---
 
 # § 22508. Meetings

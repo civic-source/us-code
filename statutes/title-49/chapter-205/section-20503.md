@@ -3,9 +3,9 @@ title: "Section 20503 - Amending regulations and changing requirements"
 usc_title: 49
 usc_section: "20503"
 chapter: 205
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 20503"
-generated_at: "2026-03-30T00:32:23.606Z"
+generated_at: "2026-03-30T00:36:00.166Z"
 ---
 
 # § 20503. Amending regulations and changing requirements

@@ -3,9 +3,9 @@ title: "Section 8206 - Technical and scientific assistance"
 usc_title: 16
 usc_section: "8206"
 chapter: 101
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 8206"
-generated_at: "2026-03-30T00:30:33.565Z"
+generated_at: "2026-03-30T00:33:33.120Z"
 ---
 
 # § 8206. Technical and scientific assistance

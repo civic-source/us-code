@@ -3,9 +3,9 @@ title: "Section 3100 - Purposes"
 usc_title: 38
 usc_section: "3100"
 chapter: 31
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 3100"
-generated_at: "2026-03-30T00:31:40.169Z"
+generated_at: "2026-03-30T00:35:01.641Z"
 ---
 
 # § 3100. Purposes

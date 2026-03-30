@@ -3,9 +3,9 @@ title: "Section 19153 - Policies for review of Federal research awards"
 usc_title: 42
 usc_section: "19153"
 chapter: 163
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 19153"
-generated_at: "2026-03-30T00:32:13.926Z"
+generated_at: "2026-03-30T00:35:37.332Z"
 ---
 
 # § 19153. Policies for review of Federal research awards

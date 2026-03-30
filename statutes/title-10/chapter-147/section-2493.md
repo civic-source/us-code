@@ -3,9 +3,9 @@ title: "Section 2493 - Fisher Houses: administration as nonappropriated fund ins
 usc_title: 10
 usc_section: "2493"
 chapter: 147
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 2493"
-generated_at: "2026-03-30T00:29:43.918Z"
+generated_at: "2026-03-30T00:33:02.296Z"
 ---
 
 # § 2493. Fisher Houses: administration as nonappropriated fund instrumentality

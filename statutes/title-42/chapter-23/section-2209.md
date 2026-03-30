@@ -3,9 +3,9 @@ title: "Section 2209 - Subsidies"
 usc_title: 42
 usc_section: "2209"
 chapter: 23
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 2209"
-generated_at: "2026-03-30T00:32:13.563Z"
+generated_at: "2026-03-30T00:35:36.968Z"
 ---
 
 # § 2209. Subsidies

@@ -3,9 +3,9 @@ title: "Section 485a - Omitted"
 usc_title: 16
 usc_section: "485a"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 485a"
-generated_at: "2026-03-30T00:30:33.401Z"
+generated_at: "2026-03-30T00:33:32.954Z"
 ---
 
 # § 485a. Omitted

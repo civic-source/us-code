@@ -3,9 +3,9 @@ title: "Section 2101 - General definitions"
 usc_title: 46
 usc_section: "2101"
 chapter: 21
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 2101"
-generated_at: "2026-03-30T00:32:21.148Z"
+generated_at: "2026-03-30T00:35:42.029Z"
 ---
 
 # § 2101. General definitions
@@ -150,7 +150,8 @@ In this subtitle—
   - **(51)** “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
     - **(A)** is a vessel of the United States;
     - **(B)** operates on the navigable waters of the United States; or
-    - **(C)** transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.(52) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
+    - **(C)** transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
+  - **(52)** “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
   - **(53)** “uninspected passenger vessel” means an uninspected vessel—
     - **(A)** of at least 100 gross tons as measured under section 14502 of this title , or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title —
       - **(i)** carrying not more than 12 passengers, including at least one passenger for hire; or

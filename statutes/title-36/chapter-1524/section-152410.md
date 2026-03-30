@@ -3,9 +3,9 @@ title: "Section 152410 - Immunity of United States Government"
 usc_title: 36
 usc_section: "152410"
 chapter: 1524
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 152410"
-generated_at: "2026-03-30T00:31:40.875Z"
+generated_at: "2026-03-30T00:35:11.412Z"
 ---
 
 # § 152410. Immunity of United States Government

@@ -3,9 +3,9 @@ title: "Section 7812 - Streamlined critical pay authority for information techno
 usc_title: 26
 usc_section: "7812"
 chapter: 80
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 7812"
-generated_at: "2026-03-30T00:31:08.032Z"
+generated_at: "2026-03-30T00:34:36.286Z"
 ---
 
 # § 7812. Streamlined critical pay authority for information technology positions

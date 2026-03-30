@@ -3,9 +3,9 @@ title: "Section 57a - Unfair or deceptive acts or practices rulemaking proceedin
 usc_title: 15
 usc_section: "57a"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 57a"
-generated_at: "2026-03-30T00:30:22.332Z"
+generated_at: "2026-03-30T00:33:17.847Z"
 ---
 
 # § 57a. Unfair or deceptive acts or practices rulemaking proceedings

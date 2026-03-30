@@ -3,9 +3,9 @@ title: "Section 115 - Inventor’s oath or declaration"
 usc_title: 35
 usc_section: "115"
 chapter: 11
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "35 U.S.C. § 115"
-generated_at: "2026-03-30T00:31:35.687Z"
+generated_at: "2026-03-30T00:34:51.888Z"
 ---
 
 # § 115. Inventor’s oath or declaration

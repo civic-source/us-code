@@ -3,9 +3,9 @@ title: "Section 7703c - Plan and authority to assist local educational agencies 
 usc_title: 20
 usc_section: "7703c"
 chapter: 70
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 7703c"
-generated_at: "2026-03-30T00:30:28.039Z"
+generated_at: "2026-03-30T00:33:30.051Z"
 ---
 
 # § 7703c. Plan and authority to assist local educational agencies experiencing growth in enrollment due to force structure changes, relocation of military units, or base closures and realignments

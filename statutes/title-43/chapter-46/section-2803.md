@@ -3,9 +3,9 @@ title: "Section 2803 - National Geospatial Advisory Committee"
 usc_title: 43
 usc_section: "2803"
 chapter: 46
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "43 U.S.C. § 2803"
-generated_at: "2026-03-30T00:32:14.663Z"
+generated_at: "2026-03-30T00:35:27.266Z"
 ---
 
 # § 2803. National Geospatial Advisory Committee
@@ -44,7 +44,7 @@ generated_at: "2026-03-30T00:32:14.663Z"
 - **(c)** A subcommittee of the Advisory Committee—
   - **(1)** may be formed for the purposes of compiling information or conducting research;
   - **(2)** shall be composed of members appointed by the Chairperson of the Advisory Committee;
-  - **(3)** shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section 10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Advisory Committee;
+  - **(3)** shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section 10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) 1 1 See References in Text note below. with respect to the Advisory Committee;
   - **(4)** shall report the recommendations of the subcommittee to the Advisory Committee for consideration; and
   - **(5)** shall meet as necessary to accomplish the objectives of the subcommittee, subject to the approval of the Chairperson of the Advisory Committee and the availability of resources.
 - **(d)**
@@ -71,8 +71,8 @@ generated_at: "2026-03-30T00:32:14.663Z"
   - **(3)** Any Federal Government employee may be detailed to the Committee to support the Advisory Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
   - **(4)** The Office of the Secretariat established by the Committee under section 2802(d) of this title shall provide administrative support to the Advisory Committee.
 - **(h)**
-  - **(1)** Except as provided in paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Advisory Committee.
-  - **(2)** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+  - **(1)** Except as provided in paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) 1 shall apply to the Advisory Committee.
+  - **(2)** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Advisory Committee.
 - **(i)**
   - **(1)** Except as provided in paragraph (2), the Advisory Committee shall terminate 10 years after October 5, 2018 .
   - **(2)** The Advisory Committee may be continued for successive 10-year periods by action taken by the Secretary of the Interior to renew the Advisory Committee before the date on which the Advisory Committee would otherwise terminate.

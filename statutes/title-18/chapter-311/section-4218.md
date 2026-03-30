@@ -3,9 +3,9 @@ title: "Section 4218 - Repealed. Pub. L. 98–473, title II, § 218(a)(5) , Oct.
 usc_title: 18
 usc_section: "4218"
 chapter: 311
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 4218"
-generated_at: "2026-03-30T00:30:29.168Z"
+generated_at: "2026-03-30T00:33:26.818Z"
 ---
 
 # [§§ 4201 to 4218. Repealed. Pub. L. 98–473, title II, § 218(a)(5) , Oct. 12, 1984 , 98 Stat. 2027 ]

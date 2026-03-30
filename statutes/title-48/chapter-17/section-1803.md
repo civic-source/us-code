@@ -3,9 +3,9 @@ title: "Section 1803 - Financial assistance to Government of Northern Mariana Is
 usc_title: 48
 usc_section: "1803"
 chapter: 17
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "48 U.S.C. § 1803"
-generated_at: "2026-03-30T00:32:24.587Z"
+generated_at: "2026-03-30T00:35:41.139Z"
 ---
 
 # § 1803. Financial assistance to Government of Northern Mariana Islands

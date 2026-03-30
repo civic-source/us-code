@@ -3,9 +3,9 @@ title: "Section 14308 - Information"
 usc_title: 40
 usc_section: "14308"
 chapter: 143
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 14308"
-generated_at: "2026-03-30T00:31:38.627Z"
+generated_at: "2026-03-30T00:35:11.832Z"
 ---
 
 # § 14308. Information

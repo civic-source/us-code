@@ -3,9 +3,9 @@ title: "Section 4104 - Flood elevation determinations"
 usc_title: 42
 usc_section: "4104"
 chapter: 50
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 4104"
-generated_at: "2026-03-30T00:32:13.604Z"
+generated_at: "2026-03-30T00:35:37.009Z"
 ---
 
 # § 4104. Flood elevation determinations

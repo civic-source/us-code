@@ -3,9 +3,9 @@ title: "Section 10140 - Expedited authorizations"
 usc_title: 42
 usc_section: "10140"
 chapter: 108
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 10140"
-generated_at: "2026-03-30T00:32:13.776Z"
+generated_at: "2026-03-30T00:35:37.185Z"
 ---
 
 # § 10140. Expedited authorizations

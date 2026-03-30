@@ -3,9 +3,9 @@ title: "Section 207 - Restrictions on sales; written orders or prescriptions"
 usc_title: 21
 usc_section: "207"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 207"
-generated_at: "2026-03-30T00:30:46.776Z"
+generated_at: "2026-03-30T00:34:04.308Z"
 ---
 
 # § 207. Restrictions on sales; written orders or prescriptions

@@ -3,9 +3,9 @@ title: "Section 1907 - Payment or use of dividends"
 usc_title: 38
 usc_section: "1907"
 chapter: 19
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 1907"
-generated_at: "2026-03-30T00:31:40.156Z"
+generated_at: "2026-03-30T00:35:01.631Z"
 ---
 
 # § 1907. Payment or use of dividends

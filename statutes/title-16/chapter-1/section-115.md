@@ -3,9 +3,9 @@ title: "Section 115 - Leases and permits; prehistoric ruins not included"
 usc_title: 16
 usc_section: "115"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 115"
-generated_at: "2026-03-30T00:30:33.311Z"
+generated_at: "2026-03-30T00:33:32.862Z"
 ---
 
 # § 115. Leases and permits; prehistoric ruins not included

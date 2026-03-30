@@ -3,9 +3,9 @@ title: "Section 12012 - Authorized strengths: senior enlisted members on active 
 usc_title: 10
 usc_section: "12012"
 chapter: 1201
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 12012"
-generated_at: "2026-03-30T00:29:43.996Z"
+generated_at: "2026-03-30T00:33:02.376Z"
 ---
 
 # § 12012. Authorized strengths: senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the National Guard

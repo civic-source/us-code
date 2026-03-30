@@ -3,9 +3,9 @@ title: "Section 9 - Transferred"
 usc_title: 42
 usc_section: "9"
 chapter: 15
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T00:32:13.532Z"
+generated_at: "2026-03-30T00:35:36.934Z"
 ---
 
 # §§ 1857 to 1857c–9. Transferred

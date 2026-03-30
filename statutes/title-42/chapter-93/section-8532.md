@@ -3,9 +3,9 @@ title: "Section 8532 - Middle distillate monitoring program"
 usc_title: 42
 usc_section: "8532"
 chapter: 93
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 8532"
-generated_at: "2026-03-30T00:32:13.738Z"
+generated_at: "2026-03-30T00:35:37.150Z"
 ---
 
 # § 8532. Middle distillate monitoring program

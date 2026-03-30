@@ -3,9 +3,9 @@ title: "Section 6062 - Signing of corporation returns"
 usc_title: 26
 usc_section: "6062"
 chapter: 61
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 6062"
-generated_at: "2026-03-30T00:31:07.986Z"
+generated_at: "2026-03-30T00:34:36.240Z"
 ---
 
 # § 6062. Signing of corporation returns

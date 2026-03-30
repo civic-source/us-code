@@ -3,9 +3,9 @@ title: "Section 31114 - Access to the Interstate System"
 usc_title: 49
 usc_section: "31114"
 chapter: 311
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 31114"
-generated_at: "2026-03-30T00:32:23.624Z"
+generated_at: "2026-03-30T00:36:00.181Z"
 ---
 
 # § 31114. Access to the Interstate System

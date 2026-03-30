@@ -3,9 +3,9 @@ title: "Section 4501 - Compensation of Members of Congress"
 usc_title: 2
 usc_section: "4501"
 chapter: 45
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 4501"
-generated_at: "2026-03-30T00:29:30.016Z"
+generated_at: "2026-03-30T00:32:43.032Z"
 ---
 
 # § 4501. Compensation of Members of Congress

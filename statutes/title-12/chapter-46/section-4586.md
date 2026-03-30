@@ -3,9 +3,9 @@ title: "Section 4586 - Public disclosure of final orders and agreements"
 usc_title: 12
 usc_section: "4586"
 chapter: 46
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 4586"
-generated_at: "2026-03-30T00:30:00.837Z"
+generated_at: "2026-03-30T00:33:22.532Z"
 ---
 
 # § 4586. Public disclosure of final orders and agreements

@@ -3,9 +3,9 @@ title: "Section 3024 - Responsibilities and authorities of the Director of Natio
 usc_title: 50
 usc_section: "3024"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3024"
-generated_at: "2026-03-30T00:32:20.189Z"
+generated_at: "2026-03-30T00:35:44.402Z"
 ---
 
 # § 3024. Responsibilities and authorities of the Director of National Intelligence
@@ -129,7 +129,7 @@ generated_at: "2026-03-30T00:32:20.189Z"
     - **(D)** The requirements of this paragraph shall not be construed to limit any authority of the Director of National Intelligence under subsection (m) or with respect to supervision of the Central Intelligence Agency.
   - **(8)** The Director of National Intelligence shall ensure there is established a policy for minimum insider threat standards for the intelligence community and ensure compliance by the elements of the intelligence community with that policy.
   - **(9)** The Director of National Intelligence shall perform such other intelligence-related functions as the President may direct.
-  - **(10)** Nothing in this subchapter shall be construed as affecting the role of the Department of Justice or the Attorney General under the Foreign Intelligence Surveillance Act of 1978.
+  - **(10)** Nothing in this subchapter shall be construed as affecting the role of the Department of Justice or the Attorney General under the Foreign Intelligence Surveillance Act of 1978 [ 50 U.S.C. 1801 et seq.].
 - **(g)**
   - **(1)** The Director of National Intelligence shall have principal authority to ensure maximum availability of and access to intelligence information within the intelligence community consistent with national security requirements. The Director of National Intelligence shall—
     - **(A)** establish uniform security standards and procedures;
@@ -231,7 +231,7 @@ generated_at: "2026-03-30T00:32:20.189Z"
     - **(H)** Requests and authorizations to exercise an authority referred to in subparagraph (A) shall remain available within the Office of the Director of National Intelligence for a period of at least 6 years following the date of such request or authorization.
     - **(I)** Nothing in this paragraph may be construed to alter or otherwise limit the authority of the Central Intelligence Agency to independently exercise an authority under section 3 or 8(a) of the Central Intelligence Agency Act of 1949 [ 50 U.S.C. 3503 , 3510(a)].
   - **(5)** 1 1 So in original. Two pars. (5) have been enacted. Any authority provided to the Director of National Intelligence or the head of an element of the intelligence community pursuant to this subsection to make an expenditure referred to in subsection (a) of section 8 of the Central Intelligence Agency Act of 1949 ( 50 U.S.C. 3510 ) is subject to the notification requirement under subsection (c) of such section. If the Director of National Intelligence is required to make a notification for a specific expenditure pursuant to both this paragraph and paragraph (4)(G), the Director may make a single notification.
-  - **(5)** 1 Other transaction authority
+  - **(5)**
     - **(A)** In addition to other acquisition authorities, the Director of National Intelligence may exercise the acquisition authorities referred to in sections 4021 and 4022 of title 10, subject to the provisions of this paragraph.
     - **(B)**
       - **(i)** The Director shall delegate the authorities provided by subparagraph (A) to the heads of elements of the intelligence community.

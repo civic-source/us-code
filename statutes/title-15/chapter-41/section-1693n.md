@@ -3,9 +3,9 @@ title: "Section 1693n - Criminal liability"
 usc_title: 15
 usc_section: "1693n"
 chapter: 41
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 1693n"
-generated_at: "2026-03-30T00:30:22.470Z"
+generated_at: "2026-03-30T00:33:17.993Z"
 ---
 
 # § 1693n. Criminal liability

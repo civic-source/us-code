@@ -3,9 +3,9 @@ title: "Section 239d - Compensation for lost employment income"
 usc_title: 42
 usc_section: "239d"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 239d"
-generated_at: "2026-03-30T00:32:13.135Z"
+generated_at: "2026-03-30T00:35:36.515Z"
 ---
 
 # § 239d. Compensation for lost employment income

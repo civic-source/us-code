@@ -3,9 +3,9 @@ title: "Section 7457 - Native American language resource centers"
 usc_title: 20
 usc_section: "7457"
 chapter: 70
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 7457"
-generated_at: "2026-03-30T00:30:28.036Z"
+generated_at: "2026-03-30T00:33:30.048Z"
 ---
 
 # § 7457. Native American language resource centers

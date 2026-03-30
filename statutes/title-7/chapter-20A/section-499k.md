@@ -3,9 +3,9 @@ title: "Section 499k - Injunctions; application of injunction laws governing ord
 usc_title: 7
 usc_section: "499k"
 chapter: 20
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 499k"
-generated_at: "2026-03-30T00:29:51.069Z"
+generated_at: "2026-03-30T00:33:09.007Z"
 ---
 
 # § 499k. Injunctions; application of injunction laws governing orders of Interstate Commerce Commission

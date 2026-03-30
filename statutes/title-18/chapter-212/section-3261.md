@@ -3,9 +3,9 @@ title: "Section 3261 - Criminal offenses committed by certain members of the Arm
 usc_title: 18
 usc_section: "3261"
 chapter: 212
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 3261"
-generated_at: "2026-03-30T00:30:29.156Z"
+generated_at: "2026-03-30T00:33:26.806Z"
 ---
 
 # § 3261. Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States

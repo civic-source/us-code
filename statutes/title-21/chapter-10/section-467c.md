@@ -3,9 +3,9 @@ title: "Section 467c - Federal court jurisdiction of enforcement and injunction 
 usc_title: 21
 usc_section: "467c"
 chapter: 10
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 467c"
-generated_at: "2026-03-30T00:30:46.845Z"
+generated_at: "2026-03-30T00:34:04.367Z"
 ---
 
 # § 467c. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas

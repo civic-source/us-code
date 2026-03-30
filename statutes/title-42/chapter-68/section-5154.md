@@ -3,9 +3,9 @@ title: "Section 5154 - Insurance"
 usc_title: 42
 usc_section: "5154"
 chapter: 68
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5154"
-generated_at: "2026-03-30T00:32:13.625Z"
+generated_at: "2026-03-30T00:35:37.032Z"
 ---
 
 # § 5154. Insurance

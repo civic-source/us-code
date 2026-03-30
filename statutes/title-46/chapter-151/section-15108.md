@@ -3,9 +3,9 @@ title: "Section 15108 - National Towing Safety Advisory Committee"
 usc_title: 46
 usc_section: "15108"
 chapter: 151
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 15108"
-generated_at: "2026-03-30T00:32:21.167Z"
+generated_at: "2026-03-30T00:35:42.049Z"
 ---
 
 # § 15108. National Towing Safety Advisory Committee

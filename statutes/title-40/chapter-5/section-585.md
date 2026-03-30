@@ -3,9 +3,9 @@ title: "Section 585 - Lease agreements"
 usc_title: 40
 usc_section: "585"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 585"
-generated_at: "2026-03-30T00:31:38.617Z"
+generated_at: "2026-03-30T00:35:11.822Z"
 ---
 
 # § 585. Lease agreements

@@ -3,9 +3,9 @@ title: "Section 2595a - Policy coordination concerning implementation of on-site
 usc_title: 22
 usc_section: "2595a"
 chapter: 35
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 2595a"
-generated_at: "2026-03-30T00:30:43.591Z"
+generated_at: "2026-03-30T00:33:49.808Z"
 ---
 
 # § 2595a. Policy coordination concerning implementation of on-site inspection provisions

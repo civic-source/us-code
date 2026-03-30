@@ -3,9 +3,9 @@ title: "Section 2452a - Exchange program with countries in transition from total
 usc_title: 22
 usc_section: "2452a"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 2452a"
-generated_at: "2026-03-30T00:30:43.586Z"
+generated_at: "2026-03-30T00:33:49.803Z"
 ---
 
 # § 2452a. Exchange program with countries in transition from totalitarianism to democracy

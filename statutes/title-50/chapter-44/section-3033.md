@@ -3,9 +3,9 @@ title: "Section 3033 - Inspector General of the Intelligence Community"
 usc_title: 50
 usc_section: "3033"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3033"
-generated_at: "2026-03-30T00:32:20.191Z"
+generated_at: "2026-03-30T00:35:44.404Z"
 ---
 
 # § 3033. Inspector General of the Intelligence Community
@@ -47,7 +47,7 @@ generated_at: "2026-03-30T00:32:20.191Z"
       - **(i)** has made a determination that the continued presence of the Inspector General in the workplace poses a threat described in any of clauses (i) through (iv) of section 6329b(b)(2)(A) of title 5 ; and
       - **(ii)** not later than the date on which the change in status takes effect, submits to the congressional intelligence committees a written communication that contains the information required under subparagraph (B), including the report required under clause (ii) of that subparagraph.
   - **(6)**
-    - **(A)** In this subsection, the term “first assistant to the position of Inspector General” has the meaning given in section 3 1 1 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.).
+    - **(A)** In this subsection, the term “first assistant to the position of Inspector General” has the meaning given in section 3 of the Inspector General Act of 1978 (5 U.S.C. App.). 1 1 See References in Text note below.
     - **(B)** If the Inspector General dies, resigns, or is otherwise unable to perform the functions and duties of the position—
       - **(i)** section 3345(a) of title 5 and section 3025(e) of this title shall not apply;
       - **(ii)** subject to subparagraph (D), the first assistant to the position of Inspector General shall perform the functions and duties of the Inspector General temporarily in an acting capacity subject to the time limitations of section 3346 of title 5 ; and

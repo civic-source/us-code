@@ -3,9 +3,9 @@ title: "Section 3334 - Intelligence community public-private talent exchange"
 usc_title: 50
 usc_section: "3334"
 chapter: 45
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3334"
-generated_at: "2026-03-30T00:32:20.204Z"
+generated_at: "2026-03-30T00:35:44.416Z"
 ---
 
 # § 3334. Intelligence community public-private talent exchange
@@ -38,7 +38,7 @@ generated_at: "2026-03-30T00:32:20.204Z"
     - **(B)** sections 201, 203, 205, 207, 208, 209, 603, 606, 607, 643, 654, 1905, and 1913 of title 18;
     - **(C)** sections 1343, 1344, and 1349(b) of title 31;
     - **(D)** chapter 171 of title 28 (commonly known as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
-    - **(E)** the Ethics in Government Act of 1978 (5 U.S.C. App.); and
+    - **(E)** the Ethics in Government Act of 1978 (5 U.S.C. App.); 1 1 See References in Text note below. and
     - **(F)** chapter 21 of title 41;
   - **(3)** may perform work that is considered inherently governmental in nature only when requested in writing by the head of the element;
   - **(4)** may not be used to circumvent any limitation or restriction on the size of the workforce of the element;

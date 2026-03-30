@@ -3,9 +3,9 @@ title: "Section 13 - Reauthorization; reporting requirements"
 usc_title: 21
 usc_section: "13"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 13"
-generated_at: "2026-03-30T00:30:46.828Z"
+generated_at: "2026-03-30T00:34:04.352Z"
 ---
 
 # § 379j–13. Reauthorization; reporting requirements

@@ -3,9 +3,9 @@ title: "Section 8411 - Administrative procedures"
 usc_title: 42
 usc_section: "8411"
 chapter: 92
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 8411"
-generated_at: "2026-03-30T00:32:13.737Z"
+generated_at: "2026-03-30T00:35:37.148Z"
 ---
 
 # § 8411. Administrative procedures

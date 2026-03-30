@@ -3,9 +3,9 @@ title: "Section 3364 - Repealed. Pub. L. 94–183, § 2(6) , Dec. 31, 1975 , 89 
 usc_title: 5
 usc_section: "3364"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 3364"
-generated_at: "2026-03-30T00:29:32.422Z"
+generated_at: "2026-03-30T00:32:45.566Z"
 ---
 
 # [§ 3364. Repealed. Pub. L. 94–183, § 2(6) , Dec. 31, 1975 , 89 Stat. 1057 ]

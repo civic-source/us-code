@@ -3,9 +3,9 @@ title: "Section 41 - Enforcement of subchapter"
 usc_title: 15
 usc_section: "41"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 41"
-generated_at: "2026-03-30T00:30:22.377Z"
+generated_at: "2026-03-30T00:33:17.895Z"
 ---
 
 # § 80a–41. Enforcement of subchapter

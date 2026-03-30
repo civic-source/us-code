@@ -3,9 +3,9 @@ title: "Section 8959 - Preemption"
 usc_title: 5
 usc_section: "8959"
 chapter: 89
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 8959"
-generated_at: "2026-03-30T00:29:32.497Z"
+generated_at: "2026-03-30T00:32:45.646Z"
 ---
 
 # § 8959. Preemption

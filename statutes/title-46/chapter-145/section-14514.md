@@ -3,9 +3,9 @@ title: "Section 14514 - Reciprocity for foreign vessels"
 usc_title: 46
 usc_section: "14514"
 chapter: 145
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 14514"
-generated_at: "2026-03-30T00:32:21.166Z"
+generated_at: "2026-03-30T00:35:42.049Z"
 ---
 
 # § 14514. Reciprocity for foreign vessels

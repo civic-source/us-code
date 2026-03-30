@@ -3,9 +3,9 @@ title: "Section 30109 - Enforcement"
 usc_title: 52
 usc_section: "30109"
 chapter: 301
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "52 U.S.C. § 30109"
-generated_at: "2026-03-30T00:32:26.438Z"
+generated_at: "2026-03-30T00:36:02.673Z"
 ---
 
 # § 30109. Enforcement
@@ -30,7 +30,7 @@ generated_at: "2026-03-30T00:32:26.438Z"
       - **(iv)** In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
         - **(I)** subsections 2 2 So in original. Probably should be “subsection”. (a), (c), (e), (f), (g), or (i) of section 30104 of this title ; or
         - **(II)** section 30105 of this title .
-      - **(v)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2023 .
+      - **(v)** This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000 , and that end on or before December 31, 2033 .
   - **(5)**
     - **(A)** If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
     - **(B)** If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 30122 of this title , which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).

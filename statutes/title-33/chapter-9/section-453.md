@@ -3,9 +3,9 @@ title: "Section 453 - Regulations for navigation of Ambrose Channel; exclusion o
 usc_title: 33
 usc_section: "453"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 453"
-generated_at: "2026-03-30T00:31:18.328Z"
+generated_at: "2026-03-30T00:34:45.252Z"
 ---
 
 # § 453. Regulations for navigation of Ambrose Channel; exclusion of tows and sailing vessels

@@ -3,9 +3,9 @@ title: "Section 7701 - Definitions"
 usc_title: 16
 usc_section: "7701"
 chapter: 96
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 7701"
-generated_at: "2026-03-30T00:30:33.562Z"
+generated_at: "2026-03-30T00:33:33.117Z"
 ---
 
 # § 7701. Definitions

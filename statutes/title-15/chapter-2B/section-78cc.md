@@ -3,9 +3,9 @@ title: "Section 78cc - Validity of contracts"
 usc_title: 15
 usc_section: "78cc"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 78cc"
-generated_at: "2026-03-30T00:30:22.366Z"
+generated_at: "2026-03-30T00:33:17.884Z"
 ---
 
 # § 78cc. Validity of contracts

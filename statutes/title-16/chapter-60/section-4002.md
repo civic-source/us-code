@@ -3,9 +3,9 @@ title: "Section 4002 - Congressional statement of purpose"
 usc_title: 16
 usc_section: "4002"
 chapter: 60
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 4002"
-generated_at: "2026-03-30T00:30:33.535Z"
+generated_at: "2026-03-30T00:33:33.090Z"
 ---
 
 # § 4002. Congressional statement of purpose

@@ -3,9 +3,9 @@ title: "Section 3176 - Administrator of General Services to furnish services in 
 usc_title: 40
 usc_section: "3176"
 chapter: 31
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 3176"
-generated_at: "2026-03-30T00:31:38.620Z"
+generated_at: "2026-03-30T00:35:11.825Z"
 ---
 
 # § 3176. Administrator of General Services to furnish services in continental United States to international bodies

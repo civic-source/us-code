@@ -3,9 +3,9 @@ title: "Section 10616 - Federal share"
 usc_title: 34
 usc_section: "10616"
 chapter: 101
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 10616"
-generated_at: "2026-03-30T00:31:20.530Z"
+generated_at: "2026-03-30T00:34:49.258Z"
 ---
 
 # § 10616. Federal share

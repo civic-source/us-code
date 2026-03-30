@@ -3,9 +3,9 @@ title: "Section 3485 - Seal of Department"
 usc_title: 20
 usc_section: "3485"
 chapter: 48
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 3485"
-generated_at: "2026-03-30T00:30:28.001Z"
+generated_at: "2026-03-30T00:33:30.015Z"
 ---
 
 # § 3485. Seal of Department

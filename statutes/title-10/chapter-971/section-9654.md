@@ -3,9 +3,9 @@ title: "Section 9654 - Supplies: military instruction camps"
 usc_title: 10
 usc_section: "9654"
 chapter: 971
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 9654"
-generated_at: "2026-03-30T00:29:43.991Z"
+generated_at: "2026-03-30T00:33:02.371Z"
 ---
 
 # § 9654. Supplies: military instruction camps

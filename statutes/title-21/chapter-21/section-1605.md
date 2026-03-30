@@ -3,9 +3,9 @@ title: "Section 1605 - Procedures for dismissal of civil actions against biomate
 usc_title: 21
 usc_section: "1605"
 chapter: 21
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 1605"
-generated_at: "2026-03-30T00:30:46.863Z"
+generated_at: "2026-03-30T00:34:04.383Z"
 ---
 
 # § 1605. Procedures for dismissal of civil actions against biomaterials suppliers

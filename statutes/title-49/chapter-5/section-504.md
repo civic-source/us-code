@@ -3,9 +3,9 @@ title: "Section 504 - Reports and records"
 usc_title: 49
 usc_section: "504"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 504"
-generated_at: "2026-03-30T00:32:23.568Z"
+generated_at: "2026-03-30T00:36:00.136Z"
 ---
 
 # § 504. Reports and records

@@ -3,9 +3,9 @@ title: "Section 4751 - Determinations and decisions"
 usc_title: 10
 usc_section: "4751"
 chapter: 367
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 4751"
-generated_at: "2026-03-30T00:29:43.958Z"
+generated_at: "2026-03-30T00:33:02.335Z"
 ---
 
 # § 4751. Determinations and decisions

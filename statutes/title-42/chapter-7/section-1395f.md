@@ -3,9 +3,9 @@ title: "Section 1395f - Conditions of and limitations on payment for services"
 usc_title: 42
 usc_section: "1395f"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 1395f"
-generated_at: "2026-03-30T00:32:13.366Z"
+generated_at: "2026-03-30T00:35:36.760Z"
 ---
 
 # § 1395f. Conditions of and limitations on payment for services

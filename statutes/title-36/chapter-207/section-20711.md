@@ -3,9 +3,9 @@ title: "Section 20711 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "20711"
 chapter: 207
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 20711"
-generated_at: "2026-03-30T00:31:40.862Z"
+generated_at: "2026-03-30T00:35:11.402Z"
 ---
 
 # § 20711. Liability for acts of officers and agents

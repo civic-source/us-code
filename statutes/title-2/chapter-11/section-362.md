@@ -3,9 +3,9 @@ title: "Section 362 - Requirements applicable to recommendations"
 usc_title: 2
 usc_section: "362"
 chapter: 11
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 362"
-generated_at: "2026-03-30T00:29:29.983Z"
+generated_at: "2026-03-30T00:32:42.973Z"
 ---
 
 # § 362. Requirements applicable to recommendations

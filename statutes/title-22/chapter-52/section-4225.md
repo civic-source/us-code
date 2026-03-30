@@ -3,9 +3,9 @@ title: "Section 4225 - Fiscal districts; establishment; district accounting and 
 usc_title: 22
 usc_section: "4225"
 chapter: 52
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 4225"
-generated_at: "2026-03-30T00:30:43.634Z"
+generated_at: "2026-03-30T00:33:49.845Z"
 ---
 
 # § 4225. Fiscal districts; establishment; district accounting and disbursing offices; personnel; duties

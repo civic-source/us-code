@@ -3,9 +3,9 @@ title: "Section 703 - Successor trustee"
 usc_title: 11
 usc_section: "703"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "11 U.S.C. § 703"
-generated_at: "2026-03-30T00:30:12.837Z"
+generated_at: "2026-03-30T00:33:19.969Z"
 ---
 
 # § 703. Successor trustee

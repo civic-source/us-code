@@ -3,9 +3,9 @@ title: "Section 1103a - Waiver authority and reporting requirement"
 usc_title: 20
 usc_section: "1103a"
 chapter: 28
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 1103a"
-generated_at: "2026-03-30T00:30:27.965Z"
+generated_at: "2026-03-30T00:33:29.977Z"
 ---
 
 # § 1103a. Waiver authority and reporting requirement

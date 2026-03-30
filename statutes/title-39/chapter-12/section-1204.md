@@ -3,9 +3,9 @@ title: "Section 1204 - Elections"
 usc_title: 39
 usc_section: "1204"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "39 U.S.C. § 1204"
-generated_at: "2026-03-30T00:31:45.747Z"
+generated_at: "2026-03-30T00:35:08.599Z"
 ---
 
 # § 1204. Elections

@@ -3,9 +3,9 @@ title: "Section 1074 - Scope and duration of Federal loan insurance program"
 usc_title: 20
 usc_section: "1074"
 chapter: 28
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 1074"
-generated_at: "2026-03-30T00:30:27.934Z"
+generated_at: "2026-03-30T00:33:29.944Z"
 ---
 
 # § 1074. Scope and duration of Federal loan insurance program

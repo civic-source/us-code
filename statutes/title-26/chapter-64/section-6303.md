@@ -3,9 +3,9 @@ title: "Section 6303 - Notice and demand for tax"
 usc_title: 26
 usc_section: "6303"
 chapter: 64
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 6303"
-generated_at: "2026-03-30T00:31:07.995Z"
+generated_at: "2026-03-30T00:34:36.250Z"
 ---
 
 # § 6303. Notice and demand for tax

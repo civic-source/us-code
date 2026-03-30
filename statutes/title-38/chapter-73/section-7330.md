@@ -3,9 +3,9 @@ title: "Section 7330 - Multiple sclerosis centers of excellence"
 usc_title: 38
 usc_section: "7330"
 chapter: 73
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 7330"
-generated_at: "2026-03-30T00:31:40.197Z"
+generated_at: "2026-03-30T00:35:01.671Z"
 ---
 
 # § 7330. Multiple sclerosis centers of excellence

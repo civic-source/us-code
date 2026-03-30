@@ -3,9 +3,9 @@ title: "Section 2318 - Demonstration project for alternative trade adjustment as
 usc_title: 19
 usc_section: "2318"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "19 U.S.C. § 2318"
-generated_at: "2026-03-30T00:30:36.427Z"
+generated_at: "2026-03-30T00:33:36.089Z"
 ---
 
 # § 2318. Demonstration project for alternative trade adjustment assistance for older workers

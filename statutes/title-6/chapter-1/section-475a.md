@@ -3,9 +3,9 @@ title: "Section 475a - Mentor-protégé program"
 usc_title: 6
 usc_section: "475a"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "6 U.S.C. § 475a"
-generated_at: "2026-03-30T00:29:45.314Z"
+generated_at: "2026-03-30T00:32:48.457Z"
 ---
 
 # § 475a. Mentor-protégé program

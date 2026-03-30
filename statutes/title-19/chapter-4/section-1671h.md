@@ -3,9 +3,9 @@ title: "Section 1671h - Conditional payment of countervailing duty"
 usc_title: 19
 usc_section: "1671h"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "19 U.S.C. § 1671h"
-generated_at: "2026-03-30T00:30:36.410Z"
+generated_at: "2026-03-30T00:33:36.070Z"
 ---
 
 # § 1671h. Conditional payment of countervailing duty

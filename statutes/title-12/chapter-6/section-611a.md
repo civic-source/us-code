@@ -3,9 +3,9 @@ title: "Section 611a - Statement of purposes; rules and regulations"
 usc_title: 12
 usc_section: "611a"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 611a"
-generated_at: "2026-03-30T00:30:00.700Z"
+generated_at: "2026-03-30T00:33:22.406Z"
 ---
 
 # § 611a. Statement of purposes; rules and regulations

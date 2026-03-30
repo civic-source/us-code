@@ -3,9 +3,9 @@ title: "Section 6133 - Regulations; technical assistance; program review"
 usc_title: 5
 usc_section: "6133"
 chapter: 61
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 6133"
-generated_at: "2026-03-30T00:29:32.441Z"
+generated_at: "2026-03-30T00:32:45.596Z"
 ---
 
 # § 6133. Regulations; technical assistance; program review

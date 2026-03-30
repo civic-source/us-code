@@ -3,9 +3,9 @@ title: "Section 10 - Authorization of appropriations"
 usc_title: 16
 usc_section: "10"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 10"
-generated_at: "2026-03-30T00:30:33.386Z"
+generated_at: "2026-03-30T00:33:32.939Z"
 ---
 
 # § 460ccc–10. Authorization of appropriations

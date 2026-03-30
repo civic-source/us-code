@@ -3,9 +3,9 @@ title: "Section 2805 - Enforcement provisions"
 usc_title: 15
 usc_section: "2805"
 chapter: 55
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 2805"
-generated_at: "2026-03-30T00:30:22.497Z"
+generated_at: "2026-03-30T00:33:18.024Z"
 ---
 
 # § 2805. Enforcement provisions

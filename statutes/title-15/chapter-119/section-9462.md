@@ -3,9 +3,9 @@ title: "Section 9462 - Veterans’ health initiative"
 usc_title: 15
 usc_section: "9462"
 chapter: 119
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 9462"
-generated_at: "2026-03-30T00:30:22.566Z"
+generated_at: "2026-03-30T00:33:18.096Z"
 ---
 
 # § 9462. Veterans’ health initiative

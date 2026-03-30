@@ -3,9 +3,9 @@ title: "Section 3563 - Statistical agencies"
 usc_title: 44
 usc_section: "3563"
 chapter: 35
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "44 U.S.C. § 3563"
-generated_at: "2026-03-30T00:31:52.172Z"
+generated_at: "2026-03-30T00:35:13.750Z"
 ---
 
 # § 3563. Statistical agencies

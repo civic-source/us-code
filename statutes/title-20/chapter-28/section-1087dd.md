@@ -3,9 +3,9 @@ title: "Section 1087dd - Terms of loans"
 usc_title: 20
 usc_section: "1087dd"
 chapter: 28
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 1087dd"
-generated_at: "2026-03-30T00:30:27.950Z"
+generated_at: "2026-03-30T00:33:29.961Z"
 ---
 
 # § 1087dd. Terms of loans

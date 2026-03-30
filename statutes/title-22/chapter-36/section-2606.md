@@ -3,9 +3,9 @@ title: "Section 2606 - Audits of U.S. funds received by the United Nations High 
 usc_title: 22
 usc_section: "2606"
 chapter: 36
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 2606"
-generated_at: "2026-03-30T00:30:43.591Z"
+generated_at: "2026-03-30T00:33:49.809Z"
 ---
 
 # § 2606. Audits of U.S. funds received by the United Nations High Commissioner for Refugees

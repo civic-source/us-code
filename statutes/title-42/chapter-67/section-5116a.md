@@ -3,9 +3,9 @@ title: "Section 5116a - Eligibility"
 usc_title: 42
 usc_section: "5116a"
 chapter: 67
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5116a"
-generated_at: "2026-03-30T00:32:13.623Z"
+generated_at: "2026-03-30T00:35:37.028Z"
 ---
 
 # § 5116a. Eligibility

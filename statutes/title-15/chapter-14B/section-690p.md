@@ -3,9 +3,9 @@ title: "Section 690p - Authorizations of appropriations"
 usc_title: 15
 usc_section: "690p"
 chapter: 14
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 690p"
-generated_at: "2026-03-30T00:30:22.422Z"
+generated_at: "2026-03-30T00:33:17.944Z"
 ---
 
 # § 690p. Authorizations of appropriations

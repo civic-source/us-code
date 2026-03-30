@@ -3,9 +3,9 @@ title: "Section 20301 - Organization"
 usc_title: 36
 usc_section: "20301"
 chapter: 203
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 20301"
-generated_at: "2026-03-30T00:31:40.861Z"
+generated_at: "2026-03-30T00:35:11.402Z"
 ---
 
 # § 20301. Organization

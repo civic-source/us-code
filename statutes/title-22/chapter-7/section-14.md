@@ -3,9 +3,9 @@ title: "Section 14 - Additional authorization for payment of United States contr
 usc_title: 22
 usc_section: "14"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 14"
-generated_at: "2026-03-30T00:30:43.540Z"
+generated_at: "2026-03-30T00:33:49.715Z"
 ---
 
 # § 290g–14. Additional authorization for payment of United States contribution

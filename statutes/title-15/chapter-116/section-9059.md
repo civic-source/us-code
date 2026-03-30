@@ -3,9 +3,9 @@ title: "Section 9059 - Protection of collective bargaining agreement"
 usc_title: 15
 usc_section: "9059"
 chapter: 116
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 9059"
-generated_at: "2026-03-30T00:30:22.561Z"
+generated_at: "2026-03-30T00:33:18.090Z"
 ---
 
 # § 9059. Protection of collective bargaining agreement

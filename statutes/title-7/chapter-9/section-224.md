@@ -3,9 +3,9 @@ title: "Section 224 - Attorney General to institute court proceedings for enforc
 usc_title: 7
 usc_section: "224"
 chapter: 9
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 224"
-generated_at: "2026-03-30T00:29:51.062Z"
+generated_at: "2026-03-30T00:33:09.000Z"
 ---
 
 # § 224. Attorney General to institute court proceedings for enforcement

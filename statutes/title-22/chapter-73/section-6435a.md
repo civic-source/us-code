@@ -3,9 +3,9 @@ title: "Section 6435a - Standards of conduct and disclosure"
 usc_title: 22
 usc_section: "6435a"
 chapter: 73
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 6435a"
-generated_at: "2026-03-30T00:30:43.655Z"
+generated_at: "2026-03-30T00:33:49.864Z"
 ---
 
 # § 6435a. Standards of conduct and disclosure

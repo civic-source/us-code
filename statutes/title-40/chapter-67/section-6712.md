@@ -3,9 +3,9 @@ title: "Section 6712 - Powers of other agencies and instrumentalities in the dev
 usc_title: 40
 usc_section: "6712"
 chapter: 67
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 6712"
-generated_at: "2026-03-30T00:31:38.623Z"
+generated_at: "2026-03-30T00:35:11.829Z"
 ---
 
 # § 6712. Powers of other agencies and instrumentalities in the development area

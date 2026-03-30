@@ -3,9 +3,9 @@ title: "Section 792 - Federal Power Commission; creation; number; appointment; t
 usc_title: 16
 usc_section: "792"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 792"
-generated_at: "2026-03-30T00:30:33.440Z"
+generated_at: "2026-03-30T00:33:32.995Z"
 ---
 
 # § 792. Federal Power Commission; creation; number; appointment; term; qualifications; vacancies; quorum; chairman; salary; place of holding sessions

@@ -3,9 +3,9 @@ title: "Section 20303 - Moving defective and insecure vehicles needing repairs"
 usc_title: 49
 usc_section: "20303"
 chapter: 203
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 20303"
-generated_at: "2026-03-30T00:32:23.606Z"
+generated_at: "2026-03-30T00:36:00.166Z"
 ---
 
 # § 20303. Moving defective and insecure vehicles needing repairs

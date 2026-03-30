@@ -3,9 +3,9 @@ title: "Section 3504 - Cost or pricing data on below-threshold contracts"
 usc_title: 41
 usc_section: "3504"
 chapter: 35
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "41 U.S.C. § 3504"
-generated_at: "2026-03-30T00:31:47.915Z"
+generated_at: "2026-03-30T00:35:18.491Z"
 ---
 
 # § 3504. Cost or pricing data on below-threshold contracts

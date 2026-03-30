@@ -3,9 +3,9 @@ title: "Section 2324 - National activities"
 usc_title: 20
 usc_section: "2324"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 2324"
-generated_at: "2026-03-30T00:30:27.995Z"
+generated_at: "2026-03-30T00:33:30.008Z"
 ---
 
 # § 2324. National activities

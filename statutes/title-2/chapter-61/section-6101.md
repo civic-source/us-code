@@ -3,9 +3,9 @@ title: "Section 6101 - Transfer of funds from appropriations account of the Offi
 usc_title: 2
 usc_section: "6101"
 chapter: 61
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 6101"
-generated_at: "2026-03-30T00:29:30.023Z"
+generated_at: "2026-03-30T00:32:43.045Z"
 ---
 
 # § 6101. Transfer of funds from appropriations account of the Office of the Vice President and the Offices of the Secretaries for the Majority and Minority to the Senate contingent fund

@@ -3,9 +3,9 @@ title: "Section 16161c - Clean hydrogen manufacturing and recycling"
 usc_title: 42
 usc_section: "16161c"
 chapter: 149
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 16161c"
-generated_at: "2026-03-30T00:32:13.861Z"
+generated_at: "2026-03-30T00:35:37.269Z"
 ---
 
 # § 16161c. Clean hydrogen manufacturing and recycling

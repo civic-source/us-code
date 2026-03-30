@@ -3,9 +3,9 @@ title: "Section 3908 - Secured loans"
 usc_title: 33
 usc_section: "3908"
 chapter: 52
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 3908"
-generated_at: "2026-03-30T00:31:18.411Z"
+generated_at: "2026-03-30T00:34:45.337Z"
 ---
 
 # § 3908. Secured loans

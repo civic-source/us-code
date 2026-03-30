@@ -3,9 +3,9 @@ title: "Section 139 - Appropriations for subsistence"
 usc_title: 25
 usc_section: "139"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 139"
-generated_at: "2026-03-30T00:30:56.357Z"
+generated_at: "2026-03-30T00:33:39.948Z"
 ---
 
 # § 139. Appropriations for subsistence

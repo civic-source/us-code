@@ -3,9 +3,9 @@ title: "Section 333 - Willful or malicious interference"
 usc_title: 47
 usc_section: "333"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "47 U.S.C. § 333"
-generated_at: "2026-03-30T00:32:18.349Z"
+generated_at: "2026-03-30T00:35:42.703Z"
 ---
 
 # § 333. Willful or malicious interference

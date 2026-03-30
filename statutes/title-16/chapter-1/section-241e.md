@@ -3,9 +3,9 @@ title: "Section 241e - Authority to make further adjustments"
 usc_title: 16
 usc_section: "241e"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 241e"
-generated_at: "2026-03-30T00:30:33.318Z"
+generated_at: "2026-03-30T00:33:32.870Z"
 ---
 
 # § 241e. Authority to make further adjustments

@@ -3,9 +3,9 @@ title: "Section 9024 - Temporary full Federal funding of the first week of compe
 usc_title: 15
 usc_section: "9024"
 chapter: 116
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 9024"
-generated_at: "2026-03-30T00:30:22.557Z"
+generated_at: "2026-03-30T00:33:18.086Z"
 ---
 
 # § 9024. Temporary full Federal funding of the first week of compensable regular unemployment for States with no waiting week

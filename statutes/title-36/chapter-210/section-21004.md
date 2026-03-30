@@ -3,9 +3,9 @@ title: "Section 21004 - Membership"
 usc_title: 36
 usc_section: "21004"
 chapter: 210
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 21004"
-generated_at: "2026-03-30T00:31:40.862Z"
+generated_at: "2026-03-30T00:35:11.402Z"
 ---
 
 # § 21004. Membership

@@ -3,9 +3,9 @@ title: "Section 501 - Waiver of navigation and vessel-inspection laws"
 usc_title: 46
 usc_section: "501"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 501"
-generated_at: "2026-03-30T00:32:21.148Z"
+generated_at: "2026-03-30T00:35:42.029Z"
 ---
 
 # § 501. Waiver of navigation and vessel-inspection laws
@@ -14,7 +14,7 @@ generated_at: "2026-03-30T00:32:21.148Z"
   - **(1)** On request of the Secretary of Defense, the head of an agency responsible for the administration of the navigation or vessel-inspection laws shall waive compliance with those laws to the extent the Secretary considers necessary in the interest of national defense to address an immediate adverse effect on military operations.
   - **(2)** Not later than 24 hours after making a request under paragraph (1), the Secretary of Defense shall submit to the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate a written explanation of the circumstances requiring such a waiver in the interest of national defense, including a confirmation that there are insufficient qualified vessels to meet the needs of national defense without such a waiver.
 - **(b)**
-  - **(1)** Upon a determination by the President that a waiver of the navigation or vessel-inspection laws is necessary in the interest of national defense, the head of an agency responsible for the administration of such laws, may waive compliance with such laws—
+  - **(1)** Upon a determination by the President that a waiver of the navigation or vessel-inspection laws is necessary in the interest of national defense, the head of an agency responsible for the administration of such laws, 1 1 So in original. The comma probably should not appear. may waive compliance with such laws—
     - **(A)** following a determination in accordance with the requirements of paragraph (3) by the Maritime Administrator, acting in the Administrator’s capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity to meet national defense requirements;
     - **(B)** not earlier than 48 hours after a waiver request is published under paragraph (6)(A); and
     - **(C)** on a vessel specific basis to the extent, in the manner, and on the terms the head of such agency, in consultation with the Administrator, acting in such capacity, prescribes.

@@ -3,9 +3,9 @@ title: "Section 1651 - Writs"
 usc_title: 28
 usc_section: "1651"
 chapter: 111
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "28 U.S.C. § 1651"
-generated_at: "2026-03-30T00:30:59.658Z"
+generated_at: "2026-03-30T00:34:14.484Z"
 ---
 
 # § 1651. Writs

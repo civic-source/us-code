@@ -3,9 +3,9 @@ title: "Section 797 - Enforcement"
 usc_title: 15
 usc_section: "797"
 chapter: 16
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 797"
-generated_at: "2026-03-30T00:30:22.435Z"
+generated_at: "2026-03-30T00:33:17.956Z"
 ---
 
 # § 797. Enforcement

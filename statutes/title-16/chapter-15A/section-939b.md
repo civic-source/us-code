@@ -3,9 +3,9 @@ title: "Section 939b - State laws and regulations"
 usc_title: 16
 usc_section: "939b"
 chapter: 15
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 939b"
-generated_at: "2026-03-30T00:30:33.458Z"
+generated_at: "2026-03-30T00:33:33.014Z"
 ---
 
 # § 939b. State laws and regulations

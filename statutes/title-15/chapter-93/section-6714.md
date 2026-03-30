@@ -3,9 +3,9 @@ title: "Section 6714 - Expedited and equalized dispute resolution for Federal re
 usc_title: 15
 usc_section: "6714"
 chapter: 93
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 6714"
-generated_at: "2026-03-30T00:30:22.530Z"
+generated_at: "2026-03-30T00:33:18.057Z"
 ---
 
 # § 6714. Expedited and equalized dispute resolution for Federal regulators

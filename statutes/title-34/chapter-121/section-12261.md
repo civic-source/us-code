@@ -3,9 +3,9 @@ title: "Section 12261 - Authority of Attorney General"
 usc_title: 34
 usc_section: "12261"
 chapter: 121
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 12261"
-generated_at: "2026-03-30T00:31:20.592Z"
+generated_at: "2026-03-30T00:34:49.270Z"
 ---
 
 # § 12261. Authority of Attorney General

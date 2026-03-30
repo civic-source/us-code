@@ -3,9 +3,9 @@ title: "Section 24323 - Prohibition on smoking on Amtrak trains"
 usc_title: 49
 usc_section: "24323"
 chapter: 243
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 24323"
-generated_at: "2026-03-30T00:32:23.613Z"
+generated_at: "2026-03-30T00:36:00.172Z"
 ---
 
 # § 24323. Prohibition on smoking on Amtrak trains

@@ -3,9 +3,9 @@ title: "Section 3654 - Repealed. Pub. L. 104–201, div. C, title XXXV, § 3532 
 usc_title: 22
 usc_section: "3654"
 chapter: 51
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 3654"
-generated_at: "2026-03-30T00:30:43.616Z"
+generated_at: "2026-03-30T00:33:49.830Z"
 ---
 
 # § 3654. Repealed. Pub. L. 104–201, div. C, title XXXV, § 3532 , Sept. 23, 1996 , 110 Stat. 2863

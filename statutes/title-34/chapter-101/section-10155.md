@@ -3,9 +3,9 @@ title: "Section 10155 - Rules"
 usc_title: 34
 usc_section: "10155"
 chapter: 101
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 10155"
-generated_at: "2026-03-30T00:31:20.518Z"
+generated_at: "2026-03-30T00:34:49.248Z"
 ---
 
 # § 10155. Rules

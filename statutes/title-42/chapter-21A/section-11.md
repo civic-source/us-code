@@ -3,9 +3,9 @@ title: "Section 11 - Guidelines for Federal officers and employees"
 usc_title: 42
 usc_section: "11"
 chapter: 21
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-03-30T00:32:13.549Z"
+generated_at: "2026-03-30T00:35:36.952Z"
 ---
 
 # § 2000aa–11. Guidelines for Federal officers and employees

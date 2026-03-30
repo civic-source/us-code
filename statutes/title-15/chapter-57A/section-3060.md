@@ -3,9 +3,9 @@ title: "Section 3060 - State delegation; cooperation"
 usc_title: 15
 usc_section: "3060"
 chapter: 57
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 3060"
-generated_at: "2026-03-30T00:30:22.501Z"
+generated_at: "2026-03-30T00:33:18.028Z"
 ---
 
 # § 3060. State delegation; cooperation

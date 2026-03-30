@@ -3,9 +3,9 @@ title: "Section 158 - Administration, protection, and development"
 usc_title: 16
 usc_section: "158"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 158"
-generated_at: "2026-03-30T00:30:33.312Z"
+generated_at: "2026-03-30T00:33:32.864Z"
 ---
 
 # § 158. Administration, protection, and development

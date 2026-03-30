@@ -3,9 +3,9 @@ title: "Section 439 - Transferred"
 usc_title: 2
 usc_section: "439"
 chapter: 14
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 439"
-generated_at: "2026-03-30T00:29:29.984Z"
+generated_at: "2026-03-30T00:32:42.974Z"
 ---
 
 # § 439. Transferred

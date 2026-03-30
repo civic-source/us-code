@@ -3,9 +3,9 @@ title: "Section 130108 - Principal office"
 usc_title: 36
 usc_section: "130108"
 chapter: 1301
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 130108"
-generated_at: "2026-03-30T00:31:40.871Z"
+generated_at: "2026-03-30T00:35:11.409Z"
 ---
 
 # § 130108. Principal office

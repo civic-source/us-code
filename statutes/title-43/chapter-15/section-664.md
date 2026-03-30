@@ -3,9 +3,9 @@ title: "Section 664 - Rights of way over reservoir sites generally"
 usc_title: 43
 usc_section: "664"
 chapter: 15
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "43 U.S.C. § 664"
-generated_at: "2026-03-30T00:32:14.624Z"
+generated_at: "2026-03-30T00:35:27.232Z"
 ---
 
 # § 664. Rights of way over reservoir sites generally

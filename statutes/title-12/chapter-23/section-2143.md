@@ -3,9 +3,9 @@ title: "Section 2143 - Credit delivery office"
 usc_title: 12
 usc_section: "2143"
 chapter: 23
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 2143"
-generated_at: "2026-03-30T00:30:00.797Z"
+generated_at: "2026-03-30T00:33:22.497Z"
 ---
 
 # § 2143. Credit delivery office

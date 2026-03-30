@@ -3,9 +3,9 @@ title: "Section 1455 - Wireless facilities deployment"
 usc_title: 47
 usc_section: "1455"
 chapter: 13
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "47 U.S.C. § 1455"
-generated_at: "2026-03-30T00:32:18.376Z"
+generated_at: "2026-03-30T00:35:42.729Z"
 ---
 
 # § 1455. Wireless facilities deployment

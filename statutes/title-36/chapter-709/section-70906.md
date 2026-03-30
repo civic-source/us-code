@@ -3,9 +3,9 @@ title: "Section 70906 - Powers"
 usc_title: 36
 usc_section: "70906"
 chapter: 709
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 70906"
-generated_at: "2026-03-30T00:31:40.870Z"
+generated_at: "2026-03-30T00:35:11.407Z"
 ---
 
 # § 70906. Powers

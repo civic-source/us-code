@@ -3,9 +3,9 @@ title: "Section 10406 - Payment requirements"
 usc_title: 34
 usc_section: "10406"
 chapter: 101
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 10406"
-generated_at: "2026-03-30T00:31:20.525Z"
+generated_at: "2026-03-30T00:34:49.253Z"
 ---
 
 # § 10406. Payment requirements

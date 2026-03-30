@@ -3,9 +3,9 @@ title: "Section 7871 - Indian tribal governments treated as States for certain p
 usc_title: 26
 usc_section: "7871"
 chapter: 80
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 7871"
-generated_at: "2026-03-30T00:31:08.032Z"
+generated_at: "2026-03-30T00:34:36.287Z"
 ---
 
 # § 7871. Indian tribal governments treated as States for certain purposes

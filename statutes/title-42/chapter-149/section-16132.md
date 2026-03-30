@@ -3,9 +3,9 @@ title: "Section 16132 - National grant, rebate, and loan programs"
 usc_title: 42
 usc_section: "16132"
 chapter: 149
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 16132"
-generated_at: "2026-03-30T00:32:13.859Z"
+generated_at: "2026-03-30T00:35:37.266Z"
 ---
 
 # § 16132. National grant, rebate, and loan programs

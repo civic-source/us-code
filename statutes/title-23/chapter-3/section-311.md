@@ -3,9 +3,9 @@ title: "Section 311 - Highway improvements strategically important to the nation
 usc_title: 23
 usc_section: "311"
 chapter: 3
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "23 U.S.C. § 311"
-generated_at: "2026-03-30T00:30:47.413Z"
+generated_at: "2026-03-30T00:33:41.938Z"
 ---
 
 # § 311. Highway improvements strategically important to the national defense

@@ -3,9 +3,9 @@ title: "Section 10203 - Reports"
 usc_title: 34
 usc_section: "10203"
 chapter: 101
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 10203"
-generated_at: "2026-03-30T00:31:20.519Z"
+generated_at: "2026-03-30T00:34:49.249Z"
 ---
 
 # § 10203. Reports

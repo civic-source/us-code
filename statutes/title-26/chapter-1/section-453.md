@@ -3,9 +3,9 @@ title: "Section 453 - Installment method"
 usc_title: 26
 usc_section: "453"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 453"
-generated_at: "2026-03-30T00:31:07.861Z"
+generated_at: "2026-03-30T00:34:36.109Z"
 ---
 
 # § 453. Installment method

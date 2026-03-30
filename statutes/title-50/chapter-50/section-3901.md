@@ -3,9 +3,9 @@ title: "Section 3901 - Short title"
 usc_title: 50
 usc_section: "3901"
 chapter: 50
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3901"
-generated_at: "2026-03-30T00:32:20.220Z"
+generated_at: "2026-03-30T00:35:44.433Z"
 ---
 
 # § 3901. Short title

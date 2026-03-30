@@ -3,9 +3,9 @@ title: "Section 124 - National Freedom Day"
 usc_title: 36
 usc_section: "124"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 124"
-generated_at: "2026-03-30T00:31:40.859Z"
+generated_at: "2026-03-30T00:35:11.399Z"
 ---
 
 # § 124. National Freedom Day

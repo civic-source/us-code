@@ -3,9 +3,9 @@ title: "Section 581 - Selective retirement"
 usc_title: 10
 usc_section: "581"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 581"
-generated_at: "2026-03-30T00:29:43.836Z"
+generated_at: "2026-03-30T00:33:02.222Z"
 ---
 
 # § 581. Selective retirement

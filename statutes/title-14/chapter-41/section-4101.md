@@ -3,9 +3,9 @@ title: "Section 4101 - Flags; pennants; uniforms and insignia"
 usc_title: 14
 usc_section: "4101"
 chapter: 41
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "14 U.S.C. § 4101"
-generated_at: "2026-03-30T00:29:57.739Z"
+generated_at: "2026-03-30T00:33:11.694Z"
 ---
 
 # § 4101. Flags; pennants; uniforms and insignia

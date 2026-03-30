@@ -3,9 +3,9 @@ title: "Section 3006 - Ensuring energy security"
 usc_title: 43
 usc_section: "3006"
 chapter: 48
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "43 U.S.C. § 3006"
-generated_at: "2026-03-30T00:32:14.664Z"
+generated_at: "2026-03-30T00:35:27.268Z"
 ---
 
 # § 3006. Ensuring energy security
@@ -24,7 +24,7 @@ generated_at: "2026-03-30T00:32:14.664Z"
     - **(B)** the sum total of acres offered for lease in onshore lease sales during the 1-year period ending on the date of the issuance of the right-of-way for wind or solar energy development is not less than the lesser of—
       - **(i)** 2,000,000 acres; and
       - **(ii)** 50 percent of the acreage for which expressions of interest have been submitted for lease sales during that period; and
-  - **(2)** the Secretary may not issue a lease for offshore wind development under section 1337(p)(1)(C) of this title unless—
+  - **(2)** the Secretary may not issue a lease for offshore wind development under section 8(p)(1)(C) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1337(p)(1)(C) ) unless—
     - **(A)** an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development; and
     - **(B)** the sum total of acres offered for lease in offshore lease sales during the 1-year period ending on the date of the issuance of the lease for offshore wind development is not less than 60,000,000 acres.
 - **(c)** Except as expressly provided in paragraphs (1) and (2) of subsection (b), nothing in this section supersedes, amends, or modifies existing law.

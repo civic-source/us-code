@@ -3,9 +3,9 @@ title: "Section 5515 - Use of publicly assisted housing by Secretary in demonstr
 usc_title: 42
 usc_section: "5515"
 chapter: 71
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5515"
-generated_at: "2026-03-30T00:32:13.638Z"
+generated_at: "2026-03-30T00:35:37.044Z"
 ---
 
 # § 5515. Use of publicly assisted housing by Secretary in demonstrations

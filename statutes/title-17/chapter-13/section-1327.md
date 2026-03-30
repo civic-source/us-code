@@ -3,9 +3,9 @@ title: "Section 1327 - Penalty for false representation"
 usc_title: 17
 usc_section: "1327"
 chapter: 13
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "17 U.S.C. § 1327"
-generated_at: "2026-03-30T00:30:24.565Z"
+generated_at: "2026-03-30T00:33:28.106Z"
 ---
 
 # § 1327. Penalty for false representation

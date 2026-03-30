@@ -3,9 +3,9 @@ title: "Section 9780 - Acquisition of buildings in District of Columbia"
 usc_title: 10
 usc_section: "9780"
 chapter: 979
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 9780"
-generated_at: "2026-03-30T00:29:43.992Z"
+generated_at: "2026-03-30T00:33:02.372Z"
 ---
 
 # § 9780. Acquisition of buildings in District of Columbia

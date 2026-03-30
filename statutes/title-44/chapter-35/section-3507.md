@@ -3,9 +3,9 @@ title: "Section 3507 - Public information collection activities; submission to D
 usc_title: 44
 usc_section: "3507"
 chapter: 35
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "44 U.S.C. § 3507"
-generated_at: "2026-03-30T00:31:52.170Z"
+generated_at: "2026-03-30T00:35:13.748Z"
 ---
 
 # § 3507. Public information collection activities; submission to Director; approval and delegation

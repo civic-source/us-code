@@ -3,9 +3,9 @@ title: "Section 4901 - Surveillance requirements"
 usc_title: 46
 usc_section: "4901"
 chapter: 49
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "46 U.S.C. § 4901"
-generated_at: "2026-03-30T00:32:21.156Z"
+generated_at: "2026-03-30T00:35:42.035Z"
 ---
 
 # § 4901. Surveillance requirements
@@ -16,7 +16,7 @@ generated_at: "2026-03-30T00:32:21.156Z"
     - **(A)** on a voyage of at least 600 miles and crosses seaward of the Boundary Line; or
     - **(B)** at least 24 meters (79 feet) in overall length and required to have a load line under chapter 51;
   - **(2)** documented vessels of at least 500 gross tons as measured under section 14502, or an alternate tonnage measured under section 14302 as prescribed by the Secretary under section 14104 on an international voyage; and
-  - **(3)** vessels with overnight accommodations for at least 10 individuals on board that are operating for no less than 72 hours on waters superjacent to the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331(a) ).
+  - **(3)** vessels with overnight accommodations for at least 10 individuals on board that are operating for no less than 72 hours on waters superjacent to the outer Continental Shelf (as defined in section 2(a) of the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331(a) ). 1 1 So in original. Another closing parenthesis probably should precede the period.
 - **(c)**
   - **(1)** The owner of a vessel to which this section applies shall install video and audio surveillance equipment aboard the vessel not later than 2 years after enactment of the Don Young Coast Guard Authorization Act of 2022, or during the next scheduled drydock, whichever is later.
   - **(2)** Video and audio surveillance equipment shall be placed in passageways on to which doors from staterooms open. Such equipment shall be placed in a manner ensuring the visibility of every door in each such passageway.

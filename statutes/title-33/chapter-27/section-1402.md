@@ -3,9 +3,9 @@ title: "Section 1402 - Definitions"
 usc_title: 33
 usc_section: "1402"
 chapter: 27
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "33 U.S.C. § 1402"
-generated_at: "2026-03-30T00:31:18.373Z"
+generated_at: "2026-03-30T00:34:45.296Z"
 ---
 
 # § 1402. Definitions

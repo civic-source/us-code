@@ -3,9 +3,9 @@ title: "Section 5025 - Programs of national significance"
 usc_title: 42
 usc_section: "5025"
 chapter: 66
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5025"
-generated_at: "2026-03-30T00:32:13.618Z"
+generated_at: "2026-03-30T00:35:37.024Z"
 ---
 
 # § 5025. Programs of national significance

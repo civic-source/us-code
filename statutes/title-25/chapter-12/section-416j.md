@@ -3,9 +3,9 @@ title: "Section 416j - Mission San Xavier del Bac"
 usc_title: 25
 usc_section: "416j"
 chapter: 12
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 416j"
-generated_at: "2026-03-30T00:30:56.366Z"
+generated_at: "2026-03-30T00:33:39.958Z"
 ---
 
 # § 416j. Mission San Xavier del Bac

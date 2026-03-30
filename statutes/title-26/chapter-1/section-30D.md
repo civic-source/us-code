@@ -3,9 +3,9 @@ title: "Section 30D - Clean vehicle credit"
 usc_title: 26
 usc_section: "30D"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 30D"
-generated_at: "2026-03-30T00:31:07.763Z"
+generated_at: "2026-03-30T00:34:36.009Z"
 ---
 
 # § 30D. Clean vehicle credit
@@ -13,8 +13,8 @@ generated_at: "2026-03-30T00:31:07.763Z"
 - **(a)** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.
 - **(b)**
   - **(1)** The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
-  - **(2)** The amount determined under this paragraph is $2,500.
-  - **(3)** In the case of a vehicle which draws propulsion energy from a battery with not less than 5 kilowatt hours of capacity, the amount determined under this paragraph is $417, plus $417 for each kilowatt hour of capacity in excess of 5 kilowatt hours. The amount determined under this paragraph shall not exceed $5,000.
+  - **(2)** In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
+  - **(3)** In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.
 - **(c)**
   - **(1)** So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
   - **(2)** For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
@@ -40,6 +40,34 @@ generated_at: "2026-03-30T00:31:07.763Z"
   - **(4)** The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
   - **(5)** For purposes of paragraph (1)(G), the term “final assembly” means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
   - **(6)** For purposes of this section, the term “new clean vehicle” shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
+  - **(7)** For purposes of this section, the term “new clean vehicle” shall not include—
+    - **(A)** any vehicle placed in service after December 31, 2024 , with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act ( 42 U.S.C. 18741(a)(5) )), or
+    - **(B)** any vehicle placed in service after December 31, 2023 , with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).
+- **(e)**
+  - **(1)**
+    - **(A)** The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—
+      - **(i)** extracted or processed—
+        - **(I)** in the United States, or
+        - **(II)** in any country with which the United States has a free trade agreement in effect, or
+      - **(ii)** recycled in North America,
+    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be—
+      - **(i)** in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024 , 40 percent,
+      - **(ii)** in the case of a vehicle placed in service during calendar year 2024, 50 percent,
+      - **(iii)** in the case of a vehicle placed in service during calendar year 2025, 60 percent,
+      - **(iv)** in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
+      - **(v)** in the case of a vehicle placed in service after December 31, 2026 , 80 percent.
+  - **(2)**
+    - **(A)** The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+    - **(B)** For purposes of subparagraph (A), the applicable percentage shall be—
+      - **(i)** in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024 , 50 percent,
+      - **(ii)** in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
+      - **(iii)** in the case of a vehicle placed in service during calendar year 2026, 70 percent,
+      - **(iv)** in the case of a vehicle placed in service during calendar year 2027, 80 percent,
+      - **(v)** in the case of a vehicle placed in service during calendar year 2028, 90 percent,
+      - **(vi)** in the case of a vehicle placed in service after December 31, 2028 , 100 percent.
+  - **(3)**
+    - **(A)** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+    - **(B)** Not later than December 31, 2022 , the Secretary shall issue proposed guidance with respect to the requirements under this subsection.
 - **(f)**
   - **(1)** For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
   - **(2)** The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).

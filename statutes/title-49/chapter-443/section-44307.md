@@ -3,9 +3,9 @@ title: "Section 44307 - Revolving fund"
 usc_title: 49
 usc_section: "44307"
 chapter: 443
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 44307"
-generated_at: "2026-03-30T00:32:23.646Z"
+generated_at: "2026-03-30T00:36:00.199Z"
 ---
 
 # § 44307. Revolving fund

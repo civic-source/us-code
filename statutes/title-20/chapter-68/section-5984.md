@@ -3,9 +3,9 @@ title: "Section 5984 - Definitions"
 usc_title: 20
 usc_section: "5984"
 chapter: 68
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 5984"
-generated_at: "2026-03-30T00:30:28.013Z"
+generated_at: "2026-03-30T00:33:30.026Z"
 ---
 
 # § 5984. Definitions

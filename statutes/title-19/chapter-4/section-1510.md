@@ -3,9 +3,9 @@ title: "Section 1510 - Judicial enforcement"
 usc_title: 19
 usc_section: "1510"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "19 U.S.C. § 1510"
-generated_at: "2026-03-30T00:30:36.401Z"
+generated_at: "2026-03-30T00:33:36.059Z"
 ---
 
 # § 1510. Judicial enforcement

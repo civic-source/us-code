@@ -3,9 +3,9 @@ title: "Section 6134 - Firearms, fireworks, speeches, and objectionable language
 usc_title: 40
 usc_section: "6134"
 chapter: 61
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 6134"
-generated_at: "2026-03-30T00:31:38.623Z"
+generated_at: "2026-03-30T00:35:11.828Z"
 ---
 
 # § 6134. Firearms, fireworks, speeches, and objectionable language in the Supreme Court Building and grounds

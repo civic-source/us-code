@@ -3,9 +3,9 @@ title: "Section 2424 - Procedures relating to access by individuals to classifie
 usc_title: 50
 usc_section: "2424"
 chapter: 41
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 2424"
-generated_at: "2026-03-30T00:32:20.179Z"
+generated_at: "2026-03-30T00:35:44.391Z"
 ---
 
 # § 2424. Procedures relating to access by individuals to classified areas and information of Administration

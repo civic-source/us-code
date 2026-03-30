@@ -3,9 +3,9 @@ title: "Section 12338 - Supportive services"
 usc_title: 42
 usc_section: "12338"
 chapter: 127
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 12338"
-generated_at: "2026-03-30T00:32:13.805Z"
+generated_at: "2026-03-30T00:35:37.213Z"
 ---
 
 # § 12338. Supportive services

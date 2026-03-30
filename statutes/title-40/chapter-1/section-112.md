@@ -3,9 +3,9 @@ title: "Section 112 - Applicability of certain policies, procedures, and directi
 usc_title: 40
 usc_section: "112"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "40 U.S.C. § 112"
-generated_at: "2026-03-30T00:31:38.614Z"
+generated_at: "2026-03-30T00:35:11.818Z"
 ---
 
 # § 112. Applicability of certain policies, procedures, and directives in effect on July 1, 1949

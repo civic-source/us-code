@@ -3,9 +3,9 @@ title: "Section 18650 - Increased collaboration with teachers and scientists"
 usc_title: 42
 usc_section: "18650"
 chapter: 161
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 18650"
-generated_at: "2026-03-30T00:32:13.909Z"
+generated_at: "2026-03-30T00:35:37.316Z"
 ---
 
 # § 18650. Increased collaboration with teachers and scientists

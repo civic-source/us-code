@@ -3,9 +3,9 @@ title: "Section 5103 - Notice to claimants of required information and evidence"
 usc_title: 38
 usc_section: "5103"
 chapter: 51
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 5103"
-generated_at: "2026-03-30T00:31:40.187Z"
+generated_at: "2026-03-30T00:35:01.660Z"
 ---
 
 # § 5103. Notice to claimants of required information and evidence

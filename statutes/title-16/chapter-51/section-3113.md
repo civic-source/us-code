@@ -3,9 +3,9 @@ title: "Section 3113 - Definitions"
 usc_title: 16
 usc_section: "3113"
 chapter: 51
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 3113"
-generated_at: "2026-03-30T00:30:33.514Z"
+generated_at: "2026-03-30T00:33:33.069Z"
 ---
 
 # § 3113. Definitions

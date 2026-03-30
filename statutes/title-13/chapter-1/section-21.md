@@ -3,9 +3,9 @@ title: "Section 21 - Director of the Census; duties"
 usc_title: 13
 usc_section: "21"
 chapter: 1
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "13 U.S.C. § 21"
-generated_at: "2026-03-30T00:29:56.120Z"
+generated_at: "2026-03-30T00:33:14.717Z"
 ---
 
 # § 21. Director of the Census; duties

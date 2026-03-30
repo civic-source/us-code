@@ -3,9 +3,9 @@ title: "Section 11275 - Restrictions on disclosure and transfer"
 usc_title: 34
 usc_section: "11275"
 chapter: 111
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "34 U.S.C. § 11275"
-generated_at: "2026-03-30T00:31:20.587Z"
+generated_at: "2026-03-30T00:34:49.265Z"
 ---
 
 # § 11275. Restrictions on disclosure and transfer

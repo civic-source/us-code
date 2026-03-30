@@ -3,9 +3,9 @@ title: "Section 4042 - Office of Special Trustee for American Indians"
 usc_title: 25
 usc_section: "4042"
 chapter: 42
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "25 U.S.C. § 4042"
-generated_at: "2026-03-30T00:30:56.418Z"
+generated_at: "2026-03-30T00:33:40.005Z"
 ---
 
 # § 4042. Office of Special Trustee for American Indians

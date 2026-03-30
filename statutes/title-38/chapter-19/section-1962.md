@@ -3,9 +3,9 @@ title: "Section 1962 - Authority for higher monthly installments payable to cert
 usc_title: 38
 usc_section: "1962"
 chapter: 19
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "38 U.S.C. § 1962"
-generated_at: "2026-03-30T00:31:40.158Z"
+generated_at: "2026-03-30T00:35:01.632Z"
 ---
 
 # § 1962. Authority for higher monthly installments payable to certain annuitants

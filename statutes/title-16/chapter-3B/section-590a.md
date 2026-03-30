@@ -3,9 +3,9 @@ title: "Section 590a - Purpose"
 usc_title: 16
 usc_section: "590a"
 chapter: 3
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 590a"
-generated_at: "2026-03-30T00:30:33.419Z"
+generated_at: "2026-03-30T00:33:32.971Z"
 ---
 
 # § 590a. Purpose

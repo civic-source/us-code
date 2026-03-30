@@ -3,9 +3,9 @@ title: "Section 213a - Rights, benefits, privileges, and immunities for commissi
 usc_title: 42
 usc_section: "213a"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 213a"
-generated_at: "2026-03-30T00:32:13.132Z"
+generated_at: "2026-03-30T00:35:36.510Z"
 ---
 
 # § 213a. Rights, benefits, privileges, and immunities for commissioned officers or beneficiaries; exercise of authority by Secretary or designee

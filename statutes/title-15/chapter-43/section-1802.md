@@ -3,9 +3,9 @@ title: "Section 1802 - Definitions"
 usc_title: 15
 usc_section: "1802"
 chapter: 43
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 1802"
-generated_at: "2026-03-30T00:30:22.472Z"
+generated_at: "2026-03-30T00:33:17.995Z"
 ---
 
 # § 1802. Definitions

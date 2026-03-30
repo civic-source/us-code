@@ -3,9 +3,9 @@ title: "Section 6309 - National transportation atlas database"
 usc_title: 49
 usc_section: "6309"
 chapter: 63
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "49 U.S.C. § 6309"
-generated_at: "2026-03-30T00:32:23.588Z"
+generated_at: "2026-03-30T00:36:00.152Z"
 ---
 
 # § 6309. National transportation atlas database

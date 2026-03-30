@@ -3,9 +3,9 @@ title: "Section 140401 - Organization"
 usc_title: 36
 usc_section: "140401"
 chapter: 1404
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "36 U.S.C. § 140401"
-generated_at: "2026-03-30T00:31:40.872Z"
+generated_at: "2026-03-30T00:35:11.409Z"
 ---
 
 # § 140401. Organization

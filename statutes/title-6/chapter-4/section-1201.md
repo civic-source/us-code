@@ -3,9 +3,9 @@ title: "Section 1201 - Railroad routing of security-sensitive materials"
 usc_title: 6
 usc_section: "1201"
 chapter: 4
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "6 U.S.C. § 1201"
-generated_at: "2026-03-30T00:29:45.340Z"
+generated_at: "2026-03-30T00:32:48.502Z"
 ---
 
 # § 1201. Railroad routing of security-sensitive materials

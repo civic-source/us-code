@@ -3,9 +3,9 @@ title: "Section 1 - Omitted"
 usc_title: 2
 usc_section: "1"
 chapter: 5
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 1"
-generated_at: "2026-03-30T00:29:29.975Z"
+generated_at: "2026-03-30T00:32:42.959Z"
 ---
 
 # §§ 136a, 136a–1. Omitted

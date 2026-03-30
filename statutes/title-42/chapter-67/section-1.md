@@ -3,9 +3,9 @@ title: "Section 1 - Report concerning voluntary reporting system"
 usc_title: 42
 usc_section: "1"
 chapter: 67
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T00:32:13.622Z"
+generated_at: "2026-03-30T00:35:37.027Z"
 ---
 
 # § 5106f–1. Report concerning voluntary reporting system

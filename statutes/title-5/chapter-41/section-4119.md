@@ -3,9 +3,9 @@ title: "Section 4119 - Training for employees under the Office of the Architect 
 usc_title: 5
 usc_section: "4119"
 chapter: 41
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "5 U.S.C. § 4119"
-generated_at: "2026-03-30T00:29:32.425Z"
+generated_at: "2026-03-30T00:32:45.570Z"
 ---
 
 # § 4119. Training for employees under the Office of the Architect of the Capitol and the Botanic Garden

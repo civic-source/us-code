@@ -3,9 +3,9 @@ title: "Section 7604 - Citizen suits"
 usc_title: 42
 usc_section: "7604"
 chapter: 85
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 7604"
-generated_at: "2026-03-30T00:32:13.713Z"
+generated_at: "2026-03-30T00:35:37.124Z"
 ---
 
 # § 7604. Citizen suits

@@ -3,9 +3,9 @@ title: "Section 3304 - Limitation on construction of facilities to be used prima
 usc_title: 50
 usc_section: "3304"
 chapter: 45
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3304"
-generated_at: "2026-03-30T00:32:20.203Z"
+generated_at: "2026-03-30T00:35:44.414Z"
 ---
 
 # § 3304. Limitation on construction of facilities to be used primarily by intelligence community

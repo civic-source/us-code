@@ -3,9 +3,9 @@ title: "Section 282e - Payment of subscriptions to Corporation by United States;
 usc_title: 22
 usc_section: "282e"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 282e"
-generated_at: "2026-03-30T00:30:43.530Z"
+generated_at: "2026-03-30T00:33:49.707Z"
 ---
 
 # § 282e. Payment of subscriptions to Corporation by United States; dividends covered into Treasury

@@ -3,9 +3,9 @@ title: "Section 8261 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "8261"
 chapter: 831
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 8261"
-generated_at: "2026-03-30T00:29:43.973Z"
+generated_at: "2026-03-30T00:33:02.350Z"
 ---
 
 # § 8261. Presentation of United States flag upon retirement

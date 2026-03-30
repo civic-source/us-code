@@ -3,9 +3,9 @@ title: "Section 6832 - Definitions"
 usc_title: 42
 usc_section: "6832"
 chapter: 81
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 6832"
-generated_at: "2026-03-30T00:32:13.666Z"
+generated_at: "2026-03-30T00:35:37.073Z"
 ---
 
 # § 6832. Definitions

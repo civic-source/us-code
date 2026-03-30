@@ -3,9 +3,9 @@ title: "Section 6431 - Repealed. Pub. L. 115–97, title I, § 13404(b) , Dec. 2
 usc_title: 26
 usc_section: "6431"
 chapter: 65
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "26 U.S.C. § 6431"
-generated_at: "2026-03-30T00:31:08.004Z"
+generated_at: "2026-03-30T00:34:36.259Z"
 ---
 
 # [§ 6431. Repealed. Pub. L. 115–97, title I, § 13404(b) , Dec. 22, 2017 , 131 Stat. 2138 ]

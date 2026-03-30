@@ -3,9 +3,9 @@ title: "Section 55 - Fees and charges for cotton classing and related services; 
 usc_title: 7
 usc_section: "55"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "7 U.S.C. § 55"
-generated_at: "2026-03-30T00:29:51.040Z"
+generated_at: "2026-03-30T00:33:08.978Z"
 ---
 
 # § 55. Fees and charges for cotton classing and related services; criteria; disposition of moneys and samples

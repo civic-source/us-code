@@ -3,9 +3,9 @@ title: "Section 195a - Restriction on payment of witness fees or travel and subs
 usc_title: 2
 usc_section: "195a"
 chapter: 6
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "2 U.S.C. § 195a"
-generated_at: "2026-03-30T00:29:29.981Z"
+generated_at: "2026-03-30T00:32:42.966Z"
 ---
 
 # § 195a. Restriction on payment of witness fees or travel and subsistence expenses to persons sub­penaed by Congressional committees

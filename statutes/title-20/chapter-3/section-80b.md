@@ -3,9 +3,9 @@ title: "Section 80b - Selection of site"
 usc_title: 20
 usc_section: "80b"
 chapter: 3
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "20 U.S.C. § 80b"
-generated_at: "2026-03-30T00:30:27.905Z"
+generated_at: "2026-03-30T00:33:29.915Z"
 ---
 
 # § 80b. Selection of site

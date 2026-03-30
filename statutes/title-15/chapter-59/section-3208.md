@@ -3,9 +3,9 @@ title: "Section 3208 - Relationship to other applicable law"
 usc_title: 15
 usc_section: "3208"
 chapter: 59
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 3208"
-generated_at: "2026-03-30T00:30:22.503Z"
+generated_at: "2026-03-30T00:33:18.029Z"
 ---
 
 # § 3208. Relationship to other applicable law

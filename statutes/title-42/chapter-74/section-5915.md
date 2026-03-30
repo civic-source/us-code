@@ -3,9 +3,9 @@ title: "Section 5915 - Authorization of appropriations"
 usc_title: 42
 usc_section: "5915"
 chapter: 74
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "42 U.S.C. § 5915"
-generated_at: "2026-03-30T00:32:13.642Z"
+generated_at: "2026-03-30T00:35:37.049Z"
 ---
 
 # § 5915. Authorization of appropriations

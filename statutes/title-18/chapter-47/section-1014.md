@@ -3,9 +3,9 @@ title: "Section 1014 - Loan and credit applications generally; renewals and disc
 usc_title: 18
 usc_section: "1014"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "18 U.S.C. § 1014"
-generated_at: "2026-03-30T00:30:29.122Z"
+generated_at: "2026-03-30T00:33:26.776Z"
 ---
 
 # § 1014. Loan and credit applications generally; renewals and discounts; crop insurance

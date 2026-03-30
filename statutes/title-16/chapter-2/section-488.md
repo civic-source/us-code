@@ -3,9 +3,9 @@ title: "Section 488 - Establishment of exterior boundaries of national forests"
 usc_title: 16
 usc_section: "488"
 chapter: 2
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "16 U.S.C. § 488"
-generated_at: "2026-03-30T00:30:33.401Z"
+generated_at: "2026-03-30T00:33:32.954Z"
 ---
 
 # § 488. Establishment of exterior boundaries of national forests

@@ -3,9 +3,9 @@ title: "Section 1542 - Consultation; initial and regular consultations"
 usc_title: 50
 usc_section: "1542"
 chapter: 33
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 1542"
-generated_at: "2026-03-30T00:32:20.162Z"
+generated_at: "2026-03-30T00:35:44.373Z"
 ---
 
 # § 1542. Consultation; initial and regular consultations

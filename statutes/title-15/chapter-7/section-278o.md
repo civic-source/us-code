@@ -3,9 +3,9 @@ title: "Section 278o - User fees"
 usc_title: 15
 usc_section: "278o"
 chapter: 7
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "15 U.S.C. § 278o"
-generated_at: "2026-03-30T00:30:22.389Z"
+generated_at: "2026-03-30T00:33:17.908Z"
 ---
 
 # § 278o. User fees

@@ -3,9 +3,9 @@ title: "Section 2314 - Waivers"
 usc_title: 21
 usc_section: "2314"
 chapter: 28
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "21 U.S.C. § 2314"
-generated_at: "2026-03-30T00:30:46.871Z"
+generated_at: "2026-03-30T00:34:04.390Z"
 ---
 
 # § 2314. Waivers

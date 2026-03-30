@@ -3,9 +3,9 @@ title: "Section 2851a - Supervision of military housing by Chief Housing Officer
 usc_title: 10
 usc_section: "2851a"
 chapter: 169
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 2851a"
-generated_at: "2026-03-30T00:29:43.934Z"
+generated_at: "2026-03-30T00:33:02.310Z"
 ---
 
 # § 2851a. Supervision of military housing by Chief Housing Officer

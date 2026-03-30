@@ -3,9 +3,9 @@ title: "Section 3343 - Transactions requiring services of State licensed apprais
 usc_title: 12
 usc_section: "3343"
 chapter: 34
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "12 U.S.C. § 3343"
-generated_at: "2026-03-30T00:30:00.818Z"
+generated_at: "2026-03-30T00:33:22.515Z"
 ---
 
 # § 3343. Transactions requiring services of State licensed appraiser

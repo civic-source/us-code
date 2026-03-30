@@ -3,9 +3,9 @@ title: "Section 3243 - Periodic reports on technology strategy of intelligence c
 usc_title: 50
 usc_section: "3243"
 chapter: 44
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "50 U.S.C. § 3243"
-generated_at: "2026-03-30T00:32:20.203Z"
+generated_at: "2026-03-30T00:35:44.414Z"
 ---
 
 # § 3243. Periodic reports on technology strategy of intelligence community

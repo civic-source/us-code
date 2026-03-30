@@ -3,9 +3,9 @@ title: "Section 3356 - Fast-tracking sales to Taiwan under foreign military sale
 usc_title: 22
 usc_section: "3356"
 chapter: 48
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "22 U.S.C. § 3356"
-generated_at: "2026-03-30T00:30:43.611Z"
+generated_at: "2026-03-30T00:33:49.826Z"
 ---
 
 # § 3356. Fast-tracking sales to Taiwan under foreign military sales program

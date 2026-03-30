@@ -3,9 +3,9 @@ title: "Section 934 - Art. 134. General article"
 usc_title: 10
 usc_section: "934"
 chapter: 47
-current_through: "PL 118-22"
+current_through: "PL 118-30"
 classification: "10 U.S.C. § 934"
-generated_at: "2026-03-30T00:29:43.851Z"
+generated_at: "2026-03-30T00:33:02.238Z"
 ---
 
 # § 934. Art. 134. General article
