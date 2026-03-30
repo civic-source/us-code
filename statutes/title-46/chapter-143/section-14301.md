@@ -3,9 +3,9 @@ title: "Section 14301 - Application"
 usc_title: 46
 usc_section: "14301"
 chapter: 143
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 14301"
-generated_at: "2026-03-30T00:49:23.399Z"
+generated_at: "2026-03-30T00:54:22.089Z"
 ---
 
 # § 14301. Application

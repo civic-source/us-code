@@ -3,9 +3,9 @@ title: "Section 121 - Limitations on exclusive rights: Reproduction for blind or
 usc_title: 17
 usc_section: "121"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "17 U.S.C. § 121"
-generated_at: "2026-03-30T00:46:49.546Z"
+generated_at: "2026-03-30T00:50:44.704Z"
 ---
 
 # § 121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities

@@ -3,9 +3,9 @@ title: "Section 1722C - Copayments: prohibition on collection of copayments for 
 usc_title: 38
 usc_section: "1722C"
 chapter: 17
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 1722C"
-generated_at: "2026-03-30T00:48:21.072Z"
+generated_at: "2026-03-30T00:52:53.557Z"
 ---
 
 # § 1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans

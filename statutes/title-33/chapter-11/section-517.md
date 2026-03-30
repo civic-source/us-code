@@ -3,9 +3,9 @@ title: "Section 517 - Payment of share of United States"
 usc_title: 33
 usc_section: "517"
 chapter: 11
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 517"
-generated_at: "2026-03-30T00:47:56.673Z"
+generated_at: "2026-03-30T00:52:16.544Z"
 ---
 
 # § 517. Payment of share of United States

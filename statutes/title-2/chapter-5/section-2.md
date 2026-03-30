@@ -3,9 +3,9 @@ title: "Section 2 - Librarian of Congress and Deputy Librarian of Congress; comp
 usc_title: 2
 usc_section: "2"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 2"
-generated_at: "2026-03-30T00:45:29.217Z"
+generated_at: "2026-03-30T00:49:45.865Z"
 ---
 
 # § 136a–2. Librarian of Congress and Deputy Librarian of Congress; compensation

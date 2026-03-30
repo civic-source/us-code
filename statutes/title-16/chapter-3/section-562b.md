@@ -3,9 +3,9 @@ title: "Section 562b - Forest experiment station in Pennsylvania"
 usc_title: 16
 usc_section: "562b"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 562b"
-generated_at: "2026-03-30T00:46:53.328Z"
+generated_at: "2026-03-30T00:50:47.400Z"
 ---
 
 # § 562b. Forest experiment station in Pennsylvania

@@ -3,9 +3,9 @@ title: "Section 1476 - Death gratuity: death after discharge or release from dut
 usc_title: 10
 usc_section: "1476"
 chapter: 75
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1476"
-generated_at: "2026-03-30T00:46:04.700Z"
+generated_at: "2026-03-30T00:50:18.307Z"
 ---
 
 # § 1476. Death gratuity: death after discharge or release from duty or training

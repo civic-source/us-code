@@ -3,9 +3,9 @@ title: "Section 51321 - Grants for scientific and educational research"
 usc_title: 46
 usc_section: "51321"
 chapter: 513
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 51321"
-generated_at: "2026-03-30T00:49:23.410Z"
+generated_at: "2026-03-30T00:54:22.098Z"
 ---
 
 # § 51321. Grants for scientific and educational research

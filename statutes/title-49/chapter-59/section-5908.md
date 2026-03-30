@@ -3,9 +3,9 @@ title: "Section 5908 - Relationship to other laws"
 usc_title: 49
 usc_section: "5908"
 chapter: 59
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "49 U.S.C. § 5908"
-generated_at: "2026-03-30T00:49:28.243Z"
+generated_at: "2026-03-30T00:54:59.819Z"
 ---
 
 # § 5908. Relationship to other laws

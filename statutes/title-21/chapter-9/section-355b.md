@@ -3,9 +3,9 @@ title: "Section 355b - Adverse-event reporting"
 usc_title: 21
 usc_section: "355b"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 355b"
-generated_at: "2026-03-30T00:47:24.922Z"
+generated_at: "2026-03-30T00:51:00.079Z"
 ---
 
 # § 355b. Adverse-event reporting

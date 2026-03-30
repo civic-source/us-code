@@ -3,9 +3,9 @@ title: "Section 3342 - Transactions requiring services of State certified apprai
 usc_title: 12
 usc_section: "3342"
 chapter: 34
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 3342"
-generated_at: "2026-03-30T00:46:42.474Z"
+generated_at: "2026-03-30T00:50:34.949Z"
 ---
 
 # § 3342. Transactions requiring services of State certified appraiser

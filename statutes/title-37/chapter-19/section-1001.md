@@ -3,9 +3,9 @@ title: "Section 1001 - Regulations relating to pay and allowances"
 usc_title: 37
 usc_section: "1001"
 chapter: 19
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "37 U.S.C. § 1001"
-generated_at: "2026-03-30T00:48:05.533Z"
+generated_at: "2026-03-30T00:52:37.869Z"
 ---
 
 # § 1001. Regulations relating to pay and allowances

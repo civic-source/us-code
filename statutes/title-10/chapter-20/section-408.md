@@ -3,9 +3,9 @@ title: "Section 408 - Assistance in support of Department of Defense accounting 
 usc_title: 10
 usc_section: "408"
 chapter: 20
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 408"
-generated_at: "2026-03-30T00:46:04.647Z"
+generated_at: "2026-03-30T00:50:18.259Z"
 ---
 
 # § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel

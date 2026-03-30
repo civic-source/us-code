@@ -3,9 +3,9 @@ title: "Section 77z - Separability"
 usc_title: 15
 usc_section: "77z"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 77z"
-generated_at: "2026-03-30T00:46:25.547Z"
+generated_at: "2026-03-30T00:50:38.000Z"
 ---
 
 # § 77z. Separability

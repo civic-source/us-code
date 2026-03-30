@@ -3,9 +3,9 @@ title: "Section 20243 - General officers ceasing to occupy positions commensurat
 usc_title: 10
 usc_section: "20243"
 chapter: 2005
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 20243"
-generated_at: "2026-03-30T00:46:04.812Z"
+generated_at: "2026-03-30T00:50:18.429Z"
 ---
 
 # § 20243. General officers ceasing to occupy positions commensurate with grade

@@ -3,9 +3,9 @@ title: "Section 2232 - License applications"
 usc_title: 42
 usc_section: "2232"
 chapter: 23
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 2232"
-generated_at: "2026-03-30T00:49:18.611Z"
+generated_at: "2026-03-30T00:54:16.416Z"
 ---
 
 # § 2232. License applications

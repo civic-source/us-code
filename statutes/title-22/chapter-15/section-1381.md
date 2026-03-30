@@ -3,9 +3,9 @@ title: "Section 1381 - Retention by United States of title to real and personal 
 usc_title: 22
 usc_section: "1381"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 1381"
-generated_at: "2026-03-30T00:47:22.475Z"
+generated_at: "2026-03-30T00:51:06.574Z"
 ---
 
 # § 1381. Retention by United States of title to real and personal property

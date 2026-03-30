@@ -3,9 +3,9 @@ title: "Section 41 - Publications and reports; preparation and sale"
 usc_title: 43
 usc_section: "41"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 41"
-generated_at: "2026-03-30T00:48:34.206Z"
+generated_at: "2026-03-30T00:52:56.993Z"
 ---
 
 # § 41. Publications and reports; preparation and sale

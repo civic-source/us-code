@@ -3,9 +3,9 @@ title: "Section 6717 - Judicial review"
 usc_title: 31
 usc_section: "6717"
 chapter: 67
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "31 U.S.C. § 6717"
-generated_at: "2026-03-30T00:47:46.396Z"
+generated_at: "2026-03-30T00:52:25.407Z"
 ---
 
 # § 6717. Judicial review

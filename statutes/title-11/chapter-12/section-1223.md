@@ -3,9 +3,9 @@ title: "Section 1223 - Modification of plan before confirmation"
 usc_title: 11
 usc_section: "1223"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "11 U.S.C. § 1223"
-generated_at: "2026-03-30T00:46:14.849Z"
+generated_at: "2026-03-30T00:50:32.280Z"
 ---
 
 # § 1223. Modification of plan before confirmation

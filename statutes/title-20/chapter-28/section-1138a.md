@@ -3,9 +3,9 @@ title: "Section 1138a - National Board of the Fund for the Improvement of Postse
 usc_title: 20
 usc_section: "1138a"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 1138a"
-generated_at: "2026-03-30T00:46:49.238Z"
+generated_at: "2026-03-30T00:50:54.049Z"
 ---
 
 # § 1138a. National Board of the Fund for the Improvement of Postsecondary Education

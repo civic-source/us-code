@@ -3,9 +3,9 @@ title: "Section 5702 - Federal funds allocated to States"
 usc_title: 12
 usc_section: "5702"
 chapter: 54
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 5702"
-generated_at: "2026-03-30T00:46:42.533Z"
+generated_at: "2026-03-30T00:50:35.045Z"
 ---
 
 # § 5702. Federal funds allocated to States

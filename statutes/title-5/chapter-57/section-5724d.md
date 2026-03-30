@@ -3,9 +3,9 @@ title: "Section 5724d - Transportation and moving expenses for immediate family 
 usc_title: 5
 usc_section: "5724d"
 chapter: 57
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "5 U.S.C. § 5724d"
-generated_at: "2026-03-30T00:45:37.305Z"
+generated_at: "2026-03-30T00:50:05.869Z"
 ---
 
 # § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees

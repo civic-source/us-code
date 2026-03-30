@@ -3,9 +3,9 @@ title: "Section 6690 - Fraudulent statement or failure to furnish statement to p
 usc_title: 26
 usc_section: "6690"
 chapter: 68
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 6690"
-generated_at: "2026-03-30T00:47:39.543Z"
+generated_at: "2026-03-30T00:51:51.820Z"
 ---
 
 # § 6690. Fraudulent statement or failure to furnish statement to plan participant

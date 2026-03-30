@@ -3,9 +3,9 @@ title: "Section 7269 - Failure to produce records"
 usc_title: 26
 usc_section: "7269"
 chapter: 75
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 7269"
-generated_at: "2026-03-30T00:47:39.548Z"
+generated_at: "2026-03-30T00:51:51.824Z"
 ---
 
 # § 7269. Failure to produce records

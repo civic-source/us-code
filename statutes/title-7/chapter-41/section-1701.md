@@ -3,9 +3,9 @@ title: "Section 1701 - Economic assistance and food security"
 usc_title: 7
 usc_section: "1701"
 chapter: 41
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 1701"
-generated_at: "2026-03-30T00:45:50.810Z"
+generated_at: "2026-03-30T00:50:27.632Z"
 ---
 
 # § 1701. Economic assistance and food security

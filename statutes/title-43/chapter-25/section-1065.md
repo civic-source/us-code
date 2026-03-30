@@ -3,9 +3,9 @@ title: "Section 1065 - Summary removal of inclosures"
 usc_title: 43
 usc_section: "1065"
 chapter: 25
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 1065"
-generated_at: "2026-03-30T00:48:34.234Z"
+generated_at: "2026-03-30T00:52:57.025Z"
 ---
 
 # § 1065. Summary removal of inclosures

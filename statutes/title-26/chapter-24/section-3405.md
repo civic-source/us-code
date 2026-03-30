@@ -3,9 +3,9 @@ title: "Section 3405 - Special rules for pensions, annuities, and certain other 
 usc_title: 26
 usc_section: "3405"
 chapter: 24
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 3405"
-generated_at: "2026-03-30T00:47:39.480Z"
+generated_at: "2026-03-30T00:51:51.755Z"
 ---
 
 # § 3405. Special rules for pensions, annuities, and certain other deferred income

@@ -3,9 +3,9 @@ title: "Section 2494 - Nonappropriated fund instrumentalities: furnishing utilit
 usc_title: 10
 usc_section: "2494"
 chapter: 147
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2494"
-generated_at: "2026-03-30T00:46:04.728Z"
+generated_at: "2026-03-30T00:50:18.335Z"
 ---
 
 # § 2494. Nonappropriated fund instrumentalities: furnishing utility services for morale, welfare, and recreation purposes

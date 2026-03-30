@@ -3,9 +3,9 @@ title: "Section 1524 - Authorization of appropriations"
 usc_title: 8
 usc_section: "1524"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1524"
-generated_at: "2026-03-30T00:45:45.490Z"
+generated_at: "2026-03-30T00:50:13.233Z"
 ---
 
 # § 1524. Authorization of appropriations

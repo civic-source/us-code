@@ -3,9 +3,9 @@ title: "Section 663 - Solicitation or use of gifts"
 usc_title: 18
 usc_section: "663"
 chapter: 31
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 663"
-generated_at: "2026-03-30T00:47:06.468Z"
+generated_at: "2026-03-30T00:50:48.564Z"
 ---
 
 # § 663. Solicitation or use of gifts

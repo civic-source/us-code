@@ -3,9 +3,9 @@ title: "Section 1665b - Advertising of open end consumer credit plans secured by
 usc_title: 15
 usc_section: "1665b"
 chapter: 41
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 1665b"
-generated_at: "2026-03-30T00:46:25.665Z"
+generated_at: "2026-03-30T00:50:38.119Z"
 ---
 
 # § 1665b. Advertising of open end consumer credit plans secured by consumer’s principal dwelling

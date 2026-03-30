@@ -3,9 +3,9 @@ title: "Section 2503 - Duties of Secretary of Energy"
 usc_title: 15
 usc_section: "2503"
 chapter: 52
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 2503"
-generated_at: "2026-03-30T00:46:25.694Z"
+generated_at: "2026-03-30T00:50:38.146Z"
 ---
 
 # § 2503. Duties of Secretary of Energy

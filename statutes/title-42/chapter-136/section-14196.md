@@ -3,9 +3,9 @@ title: "Section 14196 - Omitted"
 usc_title: 42
 usc_section: "14196"
 chapter: 136
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 14196"
-generated_at: "2026-03-30T00:49:18.952Z"
+generated_at: "2026-03-30T00:54:16.710Z"
 ---
 
 # § 14196. Omitted

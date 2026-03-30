@@ -3,9 +3,9 @@ title: "Section 3357b - Establishment of training, advising, and institutional c
 usc_title: 22
 usc_section: "3357b"
 chapter: 48
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 3357b"
-generated_at: "2026-03-30T00:47:22.534Z"
+generated_at: "2026-03-30T00:51:06.640Z"
 ---
 
 # § 3357b. Establishment of training, advising, and institutional capacity-building program for military forces of Taiwan

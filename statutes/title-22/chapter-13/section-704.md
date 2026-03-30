@@ -3,9 +3,9 @@ title: "Section 704 - Immunities of courts and witnesses"
 usc_title: 22
 usc_section: "704"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 704"
-generated_at: "2026-03-30T00:47:22.474Z"
+generated_at: "2026-03-30T00:51:06.573Z"
 ---
 
 # § 704. Immunities of courts and witnesses

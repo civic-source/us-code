@@ -3,9 +3,9 @@ title: "Section 7724 - Executive Director"
 usc_title: 10
 usc_section: "7724"
 chapter: 776
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 7724"
-generated_at: "2026-03-30T00:46:04.776Z"
+generated_at: "2026-03-30T00:50:18.391Z"
 ---
 
 # § 7724. Executive Director

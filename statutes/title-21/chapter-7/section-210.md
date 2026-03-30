@@ -3,9 +3,9 @@ title: "Section 210 - Pharmacist; unauthorized use of title"
 usc_title: 21
 usc_section: "210"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 210"
-generated_at: "2026-03-30T00:47:24.903Z"
+generated_at: "2026-03-30T00:51:00.057Z"
 ---
 
 # § 210. Pharmacist; unauthorized use of title

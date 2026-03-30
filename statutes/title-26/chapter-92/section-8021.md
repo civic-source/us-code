@@ -3,9 +3,9 @@ title: "Section 8021 - Powers"
 usc_title: 26
 usc_section: "8021"
 chapter: 92
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 8021"
-generated_at: "2026-03-30T00:47:39.566Z"
+generated_at: "2026-03-30T00:51:51.842Z"
 ---
 
 # § 8021. Powers

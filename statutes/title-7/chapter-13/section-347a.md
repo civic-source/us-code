@@ -3,9 +3,9 @@ title: "Section 347a - Disadvantaged agricultural areas"
 usc_title: 7
 usc_section: "347a"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 347a"
-generated_at: "2026-03-30T00:45:50.768Z"
+generated_at: "2026-03-30T00:50:27.586Z"
 ---
 
 # § 347a. Disadvantaged agricultural areas

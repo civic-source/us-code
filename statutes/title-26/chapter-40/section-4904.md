@@ -3,9 +3,9 @@ title: "Section 4904 - Liability in case of different businesses of same ownersh
 usc_title: 26
 usc_section: "4904"
 chapter: 40
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 4904"
-generated_at: "2026-03-30T00:47:39.490Z"
+generated_at: "2026-03-30T00:51:51.765Z"
 ---
 
 # § 4904. Liability in case of different businesses of same ownership and location

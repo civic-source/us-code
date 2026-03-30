@@ -3,9 +3,9 @@ title: "Section 4511 - Priority in contracts and orders"
 usc_title: 50
 usc_section: "4511"
 chapter: 55
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "50 U.S.C. § 4511"
-generated_at: "2026-03-30T00:49:25.846Z"
+generated_at: "2026-03-30T00:54:36.303Z"
 ---
 
 # § 4511. Priority in contracts and orders

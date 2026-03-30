@@ -3,9 +3,9 @@ title: "Section 243 - Dividends received by corporations"
 usc_title: 26
 usc_section: "243"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 243"
-generated_at: "2026-03-30T00:47:39.356Z"
+generated_at: "2026-03-30T00:51:51.631Z"
 ---
 
 # § 243. Dividends received by corporations

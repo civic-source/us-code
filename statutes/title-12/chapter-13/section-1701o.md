@@ -3,9 +3,9 @@ title: "Section 1701o - Annual report of Secretary"
 usc_title: 12
 usc_section: "1701o"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 1701o"
-generated_at: "2026-03-30T00:46:42.376Z"
+generated_at: "2026-03-30T00:50:34.859Z"
 ---
 
 # § 1701o. Annual report of Secretary

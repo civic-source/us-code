@@ -3,9 +3,9 @@ title: "Section 2401 - Congressional findings"
 usc_title: 15
 usc_section: "2401"
 chapter: 51
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 2401"
-generated_at: "2026-03-30T00:46:25.693Z"
+generated_at: "2026-03-30T00:50:38.145Z"
 ---
 
 # § 2401. Congressional findings

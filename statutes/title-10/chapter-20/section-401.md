@@ -3,9 +3,9 @@ title: "Section 401 - Humanitarian and civic assistance provided in conjunction 
 usc_title: 10
 usc_section: "401"
 chapter: 20
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 401"
-generated_at: "2026-03-30T00:46:04.647Z"
+generated_at: "2026-03-30T00:50:18.258Z"
 ---
 
 # § 401. Humanitarian and civic assistance provided in conjunction with military operations

@@ -3,9 +3,9 @@ title: "Section 1 - Community development revolving loan fund for credit unions"
 usc_title: 12
 usc_section: "1"
 chapter: 14
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 1"
-generated_at: "2026-03-30T00:46:42.411Z"
+generated_at: "2026-03-30T00:50:34.892Z"
 ---
 
 # § 1772c–1. Community development revolving loan fund for credit unions

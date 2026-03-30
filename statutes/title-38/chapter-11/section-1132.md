@@ -3,9 +3,9 @@ title: "Section 1132 - Presumption of sound condition"
 usc_title: 38
 usc_section: "1132"
 chapter: 11
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 1132"
-generated_at: "2026-03-30T00:48:21.063Z"
+generated_at: "2026-03-30T00:52:53.547Z"
 ---
 
 # § 1132. Presumption of sound condition

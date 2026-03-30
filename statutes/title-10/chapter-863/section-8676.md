@@ -3,9 +3,9 @@ title: "Section 8676 - Vessels stricken from Naval Vessel Register; captured ves
 usc_title: 10
 usc_section: "8676"
 chapter: 863
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8676"
-generated_at: "2026-03-30T00:46:04.785Z"
+generated_at: "2026-03-30T00:50:18.401Z"
 ---
 
 # § 8676. Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation

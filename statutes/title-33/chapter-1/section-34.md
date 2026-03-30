@@ -3,9 +3,9 @@ title: "Section 34 - Mill Slough, Oregon"
 usc_title: 33
 usc_section: "34"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 34"
-generated_at: "2026-03-30T00:47:56.663Z"
+generated_at: "2026-03-30T00:52:16.534Z"
 ---
 
 # § 34. Mill Slough, Oregon

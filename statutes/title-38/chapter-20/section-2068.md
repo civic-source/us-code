@@ -3,9 +3,9 @@ title: "Section 2068 - Mental health consultations"
 usc_title: 38
 usc_section: "2068"
 chapter: 20
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 2068"
-generated_at: "2026-03-30T00:48:21.080Z"
+generated_at: "2026-03-30T00:52:53.566Z"
 ---
 
 # § 2068. Mental health consultations

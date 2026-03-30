@@ -3,9 +3,9 @@ title: "Section 5583 - Savings provisions"
 usc_title: 12
 usc_section: "5583"
 chapter: 53
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 5583"
-generated_at: "2026-03-30T00:46:42.530Z"
+generated_at: "2026-03-30T00:50:35.043Z"
 ---
 
 # § 5583. Savings provisions

@@ -3,9 +3,9 @@ title: "Section 419 - Treatment of funded welfare benefit plans"
 usc_title: 26
 usc_section: "419"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 419"
-generated_at: "2026-03-30T00:47:39.386Z"
+generated_at: "2026-03-30T00:51:51.661Z"
 ---
 
 # § 419. Treatment of funded welfare benefit plans

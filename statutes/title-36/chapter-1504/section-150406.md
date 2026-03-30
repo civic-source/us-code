@@ -3,9 +3,9 @@ title: "Section 150406 - Nondiscrimination"
 usc_title: 36
 usc_section: "150406"
 chapter: 1504
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "36 U.S.C. § 150406"
-generated_at: "2026-03-30T00:48:05.178Z"
+generated_at: "2026-03-30T00:52:43.088Z"
 ---
 
 # § 150406. Nondiscrimination

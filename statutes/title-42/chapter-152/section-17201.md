@@ -3,9 +3,9 @@ title: "Section 17201 - Applicability of other laws"
 usc_title: 42
 usc_section: "17201"
 chapter: 152
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 17201"
-generated_at: "2026-03-30T00:49:19.006Z"
+generated_at: "2026-03-30T00:54:16.759Z"
 ---
 
 # § 17201. Applicability of other laws

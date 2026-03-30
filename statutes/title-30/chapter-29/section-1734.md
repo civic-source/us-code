@@ -3,9 +3,9 @@ title: "Section 1734 - State suits under Federal law"
 usc_title: 30
 usc_section: "1734"
 chapter: 29
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "30 U.S.C. § 1734"
-generated_at: "2026-03-30T00:47:30.545Z"
+generated_at: "2026-03-30T00:51:28.035Z"
 ---
 
 # § 1734. State suits under Federal law

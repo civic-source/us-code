@@ -3,9 +3,9 @@ title: "Section 17 - Federal health information technology"
 usc_title: 42
 usc_section: "17"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T00:49:18.302Z"
+generated_at: "2026-03-30T00:54:16.118Z"
 ---
 
 # § 300jj–17. Federal health information technology

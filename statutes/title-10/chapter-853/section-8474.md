@@ -3,9 +3,9 @@ title: "Section 8474 - United States Naval Academy Museum Fund: references to Fu
 usc_title: 10
 usc_section: "8474"
 chapter: 853
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8474"
-generated_at: "2026-03-30T00:46:04.782Z"
+generated_at: "2026-03-30T00:50:18.397Z"
 ---
 
 # § 8474. United States Naval Academy Museum Fund: references to Fund

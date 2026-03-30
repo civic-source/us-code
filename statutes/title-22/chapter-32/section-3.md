@@ -3,9 +3,9 @@ title: "Section 3 - Authorization of appropriations"
 usc_title: 22
 usc_section: "3"
 chapter: 32
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T00:47:22.502Z"
+generated_at: "2026-03-30T00:51:06.604Z"
 ---
 
 # § 2349cc–3. Authorization of appropriations

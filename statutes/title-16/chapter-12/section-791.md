@@ -3,9 +3,9 @@ title: "Section 791 - Repealed. Aug. 26, 1935, ch. 687 , title II, § 212, 49 St
 usc_title: 16
 usc_section: "791"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 791"
-generated_at: "2026-03-30T00:46:53.354Z"
+generated_at: "2026-03-30T00:50:47.424Z"
 ---
 
 # § 791. Repealed. Aug. 26, 1935, ch. 687 , title II, § 212, 49 Stat. 847

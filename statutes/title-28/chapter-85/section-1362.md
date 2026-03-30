@@ -3,9 +3,9 @@ title: "Section 1362 - Indian tribes"
 usc_title: 28
 usc_section: "1362"
 chapter: 85
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "28 U.S.C. § 1362"
-generated_at: "2026-03-30T00:47:29.019Z"
+generated_at: "2026-03-30T00:51:17.699Z"
 ---
 
 # § 1362. Indian tribes

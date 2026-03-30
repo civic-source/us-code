@@ -3,9 +3,9 @@ title: "Section 931 - Penalty for misrepresentation"
 usc_title: 33
 usc_section: "931"
 chapter: 18
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 931"
-generated_at: "2026-03-30T00:47:56.691Z"
+generated_at: "2026-03-30T00:52:16.563Z"
 ---
 
 # § 931. Penalty for misrepresentation

@@ -3,9 +3,9 @@ title: "Section 433k - Whitman Mission National Historic Site; acquisition of la
 usc_title: 16
 usc_section: "433k"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 433k"
-generated_at: "2026-03-30T00:46:53.270Z"
+generated_at: "2026-03-30T00:50:47.342Z"
 ---
 
 # § 433k. Whitman Mission National Historic Site; acquisition of land; establishment, supervision and maintenance

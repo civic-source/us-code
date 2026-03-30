@@ -3,9 +3,9 @@ title: "Section 8912 - Accounts of paymasters of lost or captured naval vessels"
 usc_title: 10
 usc_section: "8912"
 chapter: 889
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8912"
-generated_at: "2026-03-30T00:46:04.790Z"
+generated_at: "2026-03-30T00:50:18.405Z"
 ---
 
 # § 8912. Accounts of paymasters of lost or captured naval vessels

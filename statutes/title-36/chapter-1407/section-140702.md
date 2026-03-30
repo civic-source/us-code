@@ -3,9 +3,9 @@ title: "Section 140702 - Organization"
 usc_title: 36
 usc_section: "140702"
 chapter: 1407
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "36 U.S.C. § 140702"
-generated_at: "2026-03-30T00:48:05.177Z"
+generated_at: "2026-03-30T00:52:43.087Z"
 ---
 
 # § 140702. Organization

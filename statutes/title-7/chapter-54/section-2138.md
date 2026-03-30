@@ -3,9 +3,9 @@ title: "Section 2138 - Purchase of dogs or cats by United States Government faci
 usc_title: 7
 usc_section: "2138"
 chapter: 54
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 2138"
-generated_at: "2026-03-30T00:45:50.842Z"
+generated_at: "2026-03-30T00:50:27.666Z"
 ---
 
 # § 2138. Purchase of dogs or cats by United States Government facilities prohibited except from authorized operators of auction sales and licensed dealers or exhibitors

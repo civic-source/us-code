@@ -3,9 +3,9 @@ title: "Section 1681 - Congressional statement of purpose"
 usc_title: 16
 usc_section: "1681"
 chapter: 36
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 1681"
-generated_at: "2026-03-30T00:46:53.408Z"
+generated_at: "2026-03-30T00:50:47.478Z"
 ---
 
 # § 1681. Congressional statement of purpose

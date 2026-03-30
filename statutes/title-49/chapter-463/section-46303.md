@@ -3,9 +3,9 @@ title: "Section 46303 - Carrying a weapon"
 usc_title: 49
 usc_section: "46303"
 chapter: 463
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "49 U.S.C. § 46303"
-generated_at: "2026-03-30T00:49:28.315Z"
+generated_at: "2026-03-30T00:54:59.884Z"
 ---
 
 # § 46303. Carrying a weapon

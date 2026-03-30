@@ -3,9 +3,9 @@ title: "Section 8258 - Reports"
 usc_title: 42
 usc_section: "8258"
 chapter: 91
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 8258"
-generated_at: "2026-03-30T00:49:18.808Z"
+generated_at: "2026-03-30T00:54:16.598Z"
 ---
 
 # § 8258. Reports

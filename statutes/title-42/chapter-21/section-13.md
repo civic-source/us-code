@@ -3,9 +3,9 @@ title: "Section 13 - Application to personnel of Commission of sections 111 and 
 usc_title: 42
 usc_section: "13"
 chapter: 21
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T00:49:18.593Z"
+generated_at: "2026-03-30T00:54:16.398Z"
 ---
 
 # § 2000e–13. Application to personnel of Commission of sections 111 and 1114 of title 18; punishment for violation of section 1114 of title 18

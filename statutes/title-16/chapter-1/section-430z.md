@@ -3,9 +3,9 @@ title: "Section 430z - Monument within park; construction authorized"
 usc_title: 16
 usc_section: "430z"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 430z"
-generated_at: "2026-03-30T00:46:53.269Z"
+generated_at: "2026-03-30T00:50:47.340Z"
 ---
 
 # § 430z. Monument within park; construction authorized

@@ -3,9 +3,9 @@ title: "Section 4505 - Procurement of services: tracking of purchases"
 usc_title: 10
 usc_section: "4505"
 chapter: 341
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 4505"
-generated_at: "2026-03-30T00:46:04.763Z"
+generated_at: "2026-03-30T00:50:18.378Z"
 ---
 
 # § 4505. Procurement of services: tracking of purchases

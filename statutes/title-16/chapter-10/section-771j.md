@@ -3,9 +3,9 @@ title: "Section 771j - Omitted"
 usc_title: 16
 usc_section: "771j"
 chapter: 10
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 771j"
-generated_at: "2026-03-30T00:46:53.351Z"
+generated_at: "2026-03-30T00:50:47.422Z"
 ---
 
 # §§ 771 to 771j. Omitted

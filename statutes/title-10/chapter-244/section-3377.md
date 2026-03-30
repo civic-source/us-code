@@ -3,9 +3,9 @@ title: "Section 3377 - Inapplicability to Coast Guard and National Aeronautics a
 usc_title: 10
 usc_section: "3377"
 chapter: 244
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 3377"
-generated_at: "2026-03-30T00:46:04.750Z"
+generated_at: "2026-03-30T00:50:18.361Z"
 ---
 
 # § 3377. Inapplicability to Coast Guard and National Aeronautics and Space Administration; definitions

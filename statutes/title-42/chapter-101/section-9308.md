@@ -3,9 +3,9 @@ title: "Section 9308 - International cooperation; examination of impact on natio
 usc_title: 42
 usc_section: "9308"
 chapter: 101
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 9308"
-generated_at: "2026-03-30T00:49:18.824Z"
+generated_at: "2026-03-30T00:54:16.613Z"
 ---
 
 # § 9308. International cooperation; examination of impact on national magnetic fusion program; exploration of prospects for joint funding in construction of fusion engineering device; report to Congressional committees on results of examination and exploration

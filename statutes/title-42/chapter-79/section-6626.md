@@ -3,9 +3,9 @@ title: "Section 6626 - Working group on inclusion in STEM fields"
 usc_title: 42
 usc_section: "6626"
 chapter: 79
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 6626"
-generated_at: "2026-03-30T00:49:18.733Z"
+generated_at: "2026-03-30T00:54:16.523Z"
 ---
 
 # § 6626. Working group on inclusion in STEM fields

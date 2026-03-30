@@ -3,9 +3,9 @@ title: "Section 9909 - Designation and redesignation of eligible entities in uns
 usc_title: 42
 usc_section: "9909"
 chapter: 106
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 9909"
-generated_at: "2026-03-30T00:49:18.853Z"
+generated_at: "2026-03-30T00:54:16.639Z"
 ---
 
 # § 9909. Designation and redesignation of eligible entities in unserved areas

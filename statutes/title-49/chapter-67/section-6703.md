@@ -3,9 +3,9 @@ title: "Section 6703 - National culvert removal, replacement, and restoration gr
 usc_title: 49
 usc_section: "6703"
 chapter: 67
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "49 U.S.C. § 6703"
-generated_at: "2026-03-30T00:49:28.245Z"
+generated_at: "2026-03-30T00:54:59.821Z"
 ---
 
 # § 6703. National culvert removal, replacement, and restoration grant program

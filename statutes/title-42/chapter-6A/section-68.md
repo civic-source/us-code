@@ -3,9 +3,9 @@ title: "Section 68 - Joint applications"
 usc_title: 42
 usc_section: "68"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 68"
-generated_at: "2026-03-30T00:49:18.268Z"
+generated_at: "2026-03-30T00:54:16.087Z"
 ---
 
 # § 300x–68. Joint applications

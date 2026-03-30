@@ -3,9 +3,9 @@ title: "Section 17373 - Convention on Supplementary Compensation for Nuclear Dam
 usc_title: 42
 usc_section: "17373"
 chapter: 152
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 17373"
-generated_at: "2026-03-30T00:49:19.013Z"
+generated_at: "2026-03-30T00:54:16.765Z"
 ---
 
 # § 17373. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation

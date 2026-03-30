@@ -3,9 +3,9 @@ title: "Section 3553 - Review of protests; effect on contracts pending decision"
 usc_title: 31
 usc_section: "3553"
 chapter: 35
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "31 U.S.C. § 3553"
-generated_at: "2026-03-30T00:47:46.379Z"
+generated_at: "2026-03-30T00:52:25.388Z"
 ---
 
 # § 3553. Review of protests; effect on contracts pending decision

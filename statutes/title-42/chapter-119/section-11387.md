@@ -3,9 +3,9 @@ title: "Section 11387 - Regulations"
 usc_title: 42
 usc_section: "11387"
 chapter: 119
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 11387"
-generated_at: "2026-03-30T00:49:18.886Z"
+generated_at: "2026-03-30T00:54:16.661Z"
 ---
 
 # § 11387. Regulations

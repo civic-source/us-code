@@ -3,9 +3,9 @@ title: "Section 1374 - Information regarding female genital mutilation"
 usc_title: 8
 usc_section: "1374"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1374"
-generated_at: "2026-03-30T00:45:45.484Z"
+generated_at: "2026-03-30T00:50:13.227Z"
 ---
 
 # § 1374. Information regarding female genital mutilation

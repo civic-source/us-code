@@ -3,9 +3,9 @@ title: "Section 373e - Bureau of Reclamation site security"
 usc_title: 43
 usc_section: "373e"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 373e"
-generated_at: "2026-03-30T00:48:34.212Z"
+generated_at: "2026-03-30T00:52:56.998Z"
 ---
 
 # § 373e. Bureau of Reclamation site security

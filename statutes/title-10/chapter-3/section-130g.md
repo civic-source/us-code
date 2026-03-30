@@ -3,9 +3,9 @@ title: "Section 130g - Renumbered § 394]"
 usc_title: 10
 usc_section: "130g"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 130g"
-generated_at: "2026-03-30T00:46:04.631Z"
+generated_at: "2026-03-30T00:50:18.243Z"
 ---
 
 # [§ 130g. Renumbered § 394]

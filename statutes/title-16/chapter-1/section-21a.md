@@ -3,9 +3,9 @@ title: "Section 21a - Revision of boundaries; contiguous national forests; juris
 usc_title: 16
 usc_section: "21a"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 21a"
-generated_at: "2026-03-30T00:46:53.213Z"
+generated_at: "2026-03-30T00:50:47.288Z"
 ---
 
 # § 21a. Revision of boundaries; contiguous national forests; jurisdiction of forests

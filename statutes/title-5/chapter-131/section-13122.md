@@ -3,9 +3,9 @@ title: "Section 13122 - Authority and functions"
 usc_title: 5
 usc_section: "13122"
 chapter: 131
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "5 U.S.C. § 13122"
-generated_at: "2026-03-30T00:45:37.340Z"
+generated_at: "2026-03-30T00:50:05.909Z"
 ---
 
 # § 13122. Authority and functions

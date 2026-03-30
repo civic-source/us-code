@@ -3,9 +3,9 @@ title: "Section 53110 - Regulations"
 usc_title: 46
 usc_section: "53110"
 chapter: 531
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 53110"
-generated_at: "2026-03-30T00:49:23.412Z"
+generated_at: "2026-03-30T00:54:22.100Z"
 ---
 
 # § 53110. Regulations

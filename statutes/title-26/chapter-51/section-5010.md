@@ -3,9 +3,9 @@ title: "Section 5010 - Credit for wine content and for flavors content"
 usc_title: 26
 usc_section: "5010"
 chapter: 51
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 5010"
-generated_at: "2026-03-30T00:47:39.500Z"
+generated_at: "2026-03-30T00:51:51.776Z"
 ---
 
 # § 5010. Credit for wine content and for flavors content

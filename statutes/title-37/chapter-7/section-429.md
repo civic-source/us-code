@@ -3,9 +3,9 @@ title: "Section 429 - Renumbered § 489]"
 usc_title: 37
 usc_section: "429"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "37 U.S.C. § 429"
-generated_at: "2026-03-30T00:48:05.529Z"
+generated_at: "2026-03-30T00:52:37.866Z"
 ---
 
 # [§ 429. Renumbered § 489]

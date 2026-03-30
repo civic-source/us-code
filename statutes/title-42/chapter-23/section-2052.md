@@ -3,9 +3,9 @@ title: "Section 2052 - Research by Commission"
 usc_title: 42
 usc_section: "2052"
 chapter: 23
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 2052"
-generated_at: "2026-03-30T00:49:18.601Z"
+generated_at: "2026-03-30T00:54:16.406Z"
 ---
 
 # § 2052. Research by Commission

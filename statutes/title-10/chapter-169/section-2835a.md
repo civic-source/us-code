@@ -3,9 +3,9 @@ title: "Section 2835a - Use of military family housing constructed under build a
 usc_title: 10
 usc_section: "2835a"
 chapter: 169
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2835a"
-generated_at: "2026-03-30T00:46:04.741Z"
+generated_at: "2026-03-30T00:50:18.349Z"
 ---
 
 # § 2835a. Use of military family housing constructed under build and lease authority to house other members

@@ -3,9 +3,9 @@ title: "Section 19131 - Definitions"
 usc_title: 42
 usc_section: "19131"
 chapter: 163
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 19131"
-generated_at: "2026-03-30T00:49:19.048Z"
+generated_at: "2026-03-30T00:54:16.799Z"
 ---
 
 # § 19131. Definitions

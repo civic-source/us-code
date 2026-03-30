@@ -3,9 +3,9 @@ title: "Section 407m - Establishment; acquisition of land; property involved"
 usc_title: 16
 usc_section: "407m"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 407m"
-generated_at: "2026-03-30T00:46:53.237Z"
+generated_at: "2026-03-30T00:50:47.312Z"
 ---
 
 # § 407m. Establishment; acquisition of land; property involved

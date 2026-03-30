@@ -3,9 +3,9 @@ title: "Section 2501 - Imposition of tax"
 usc_title: 26
 usc_section: "2501"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 2501"
-generated_at: "2026-03-30T00:47:39.469Z"
+generated_at: "2026-03-30T00:51:51.744Z"
 ---
 
 # § 2501. Imposition of tax

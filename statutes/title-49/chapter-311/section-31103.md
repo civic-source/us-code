@@ -3,9 +3,9 @@ title: "Section 31103 - Commercial motor vehicle operators grant program"
 usc_title: 49
 usc_section: "31103"
 chapter: 311
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "49 U.S.C. § 31103"
-generated_at: "2026-03-30T00:49:28.278Z"
+generated_at: "2026-03-30T00:54:59.851Z"
 ---
 
 # § 31103. Commercial motor vehicle operators grant program

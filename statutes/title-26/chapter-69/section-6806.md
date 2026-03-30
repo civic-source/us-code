@@ -3,9 +3,9 @@ title: "Section 6806 - Occupational tax stamps"
 usc_title: 26
 usc_section: "6806"
 chapter: 69
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 6806"
-generated_at: "2026-03-30T00:47:39.546Z"
+generated_at: "2026-03-30T00:51:51.822Z"
 ---
 
 # § 6806. Occupational tax stamps

@@ -3,9 +3,9 @@ title: "Section 11311 - Establishment"
 usc_title: 42
 usc_section: "11311"
 chapter: 119
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 11311"
-generated_at: "2026-03-30T00:49:18.881Z"
+generated_at: "2026-03-30T00:54:16.658Z"
 ---
 
 # § 11311. Establishment

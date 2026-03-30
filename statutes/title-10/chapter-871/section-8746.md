@@ -3,9 +3,9 @@ title: "Section 8746 - Administration of oaths by clerks and employees"
 usc_title: 10
 usc_section: "8746"
 chapter: 871
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8746"
-generated_at: "2026-03-30T00:46:04.788Z"
+generated_at: "2026-03-30T00:50:18.403Z"
 ---
 
 # § 8746. Administration of oaths by clerks and employees

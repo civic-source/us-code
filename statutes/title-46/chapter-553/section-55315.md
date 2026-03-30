@@ -3,9 +3,9 @@ title: "Section 55315 - Minimum tonnage"
 usc_title: 46
 usc_section: "55315"
 chapter: 553
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 55315"
-generated_at: "2026-03-30T00:49:23.419Z"
+generated_at: "2026-03-30T00:54:22.107Z"
 ---
 
 # § 55315. Minimum tonnage

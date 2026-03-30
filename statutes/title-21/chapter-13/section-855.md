@@ -3,9 +3,9 @@ title: "Section 855 - Alternative fine"
 usc_title: 21
 usc_section: "855"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 855"
-generated_at: "2026-03-30T00:47:24.980Z"
+generated_at: "2026-03-30T00:51:00.141Z"
 ---
 
 # § 855. Alternative fine

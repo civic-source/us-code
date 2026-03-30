@@ -3,9 +3,9 @@ title: "Section 1 - Transparency and accountability"
 usc_title: 42
 usc_section: "1"
 chapter: 16
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T00:49:18.582Z"
+generated_at: "2026-03-30T00:54:16.388Z"
 ---
 
 # § 1862s–1. Transparency and accountability

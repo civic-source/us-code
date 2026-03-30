@@ -3,9 +3,9 @@ title: "Section 665 - Sites for conducting research; availability of personnel a
 usc_title: 30
 usc_section: "665"
 chapter: 18
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "30 U.S.C. § 665"
-generated_at: "2026-03-30T00:47:30.521Z"
+generated_at: "2026-03-30T00:51:28.013Z"
 ---
 
 # § 665. Sites for conducting research; availability of personnel and facilities

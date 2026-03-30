@@ -3,9 +3,9 @@ title: "Section 948r - Exclusion of statements obtained by torture or cruel, inh
 usc_title: 10
 usc_section: "948r"
 chapter: 47
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 948r"
-generated_at: "2026-03-30T00:46:04.670Z"
+generated_at: "2026-03-30T00:50:18.280Z"
 ---
 
 # § 948r. Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused

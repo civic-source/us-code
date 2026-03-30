@@ -3,9 +3,9 @@ title: "Section 317 - Command during joint exercises with Federal troops"
 usc_title: 32
 usc_section: "317"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "32 U.S.C. § 317"
-generated_at: "2026-03-30T00:47:47.851Z"
+generated_at: "2026-03-30T00:51:53.574Z"
 ---
 
 # § 317. Command during joint exercises with Federal troops

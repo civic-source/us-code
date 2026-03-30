@@ -3,9 +3,9 @@ title: "Section 1512 - Effect on State law"
 usc_title: 10
 usc_section: "1512"
 chapter: 76
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1512"
-generated_at: "2026-03-30T00:46:04.702Z"
+generated_at: "2026-03-30T00:50:18.309Z"
 ---
 
 # § 1512. Effect on State law

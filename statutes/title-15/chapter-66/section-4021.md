@@ -3,9 +3,9 @@ title: "Section 4021 - Definitions"
 usc_title: 15
 usc_section: "4021"
 chapter: 66
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 4021"
-generated_at: "2026-03-30T00:46:25.721Z"
+generated_at: "2026-03-30T00:50:38.172Z"
 ---
 
 # § 4021. Definitions

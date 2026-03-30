@@ -3,9 +3,9 @@ title: "Section 8135 - Lump-sum payment"
 usc_title: 5
 usc_section: "8135"
 chapter: 81
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "5 U.S.C. § 8135"
-generated_at: "2026-03-30T00:45:37.316Z"
+generated_at: "2026-03-30T00:50:05.881Z"
 ---
 
 # § 8135. Lump-sum payment

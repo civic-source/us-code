@@ -3,9 +3,9 @@ title: "Section 5553 - Supervision of premises and operations"
 usc_title: 26
 usc_section: "5553"
 chapter: 51
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 5553"
-generated_at: "2026-03-30T00:47:39.507Z"
+generated_at: "2026-03-30T00:51:51.781Z"
 ---
 
 # § 5553. Supervision of premises and operations

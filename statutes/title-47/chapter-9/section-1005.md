@@ -3,9 +3,9 @@ title: "Section 1005 - Cooperation of equipment manufacturers and providers of t
 usc_title: 47
 usc_section: "1005"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "47 U.S.C. § 1005"
-generated_at: "2026-03-30T00:49:24.468Z"
+generated_at: "2026-03-30T00:54:42.419Z"
 ---
 
 # § 1005. Cooperation of equipment manufacturers and providers of telecommunications support services

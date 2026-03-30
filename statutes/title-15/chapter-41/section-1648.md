@@ -3,9 +3,9 @@ title: "Section 1648 - Reverse mortgages"
 usc_title: 15
 usc_section: "1648"
 chapter: 41
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 1648"
-generated_at: "2026-03-30T00:46:25.665Z"
+generated_at: "2026-03-30T00:50:38.118Z"
 ---
 
 # § 1648. Reverse mortgages

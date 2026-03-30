@@ -3,9 +3,9 @@ title: "Section 1621 - Aliens who are not qualified aliens or nonimmigrants inel
 usc_title: 8
 usc_section: "1621"
 chapter: 14
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1621"
-generated_at: "2026-03-30T00:45:45.491Z"
+generated_at: "2026-03-30T00:50:13.234Z"
 ---
 
 # § 1621. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits

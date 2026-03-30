@@ -3,9 +3,9 @@ title: "Section 98c - Materials constituting the National Defense Stockpile"
 usc_title: 50
 usc_section: "98c"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "50 U.S.C. § 98c"
-generated_at: "2026-03-30T00:49:25.758Z"
+generated_at: "2026-03-30T00:54:36.220Z"
 ---
 
 # § 98c. Materials constituting the National Defense Stockpile

@@ -3,9 +3,9 @@ title: "Section 399a - Office of the Chief Scientist"
 usc_title: 21
 usc_section: "399a"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 399a"
-generated_at: "2026-03-30T00:47:24.968Z"
+generated_at: "2026-03-30T00:51:00.126Z"
 ---
 
 # § 399a. Office of the Chief Scientist

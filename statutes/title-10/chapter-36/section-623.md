@@ -3,9 +3,9 @@ title: "Section 623 - Establishment of promotion zones"
 usc_title: 10
 usc_section: "623"
 chapter: 36
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 623"
-generated_at: "2026-03-30T00:46:04.655Z"
+generated_at: "2026-03-30T00:50:18.267Z"
 ---
 
 # § 623. Establishment of promotion zones

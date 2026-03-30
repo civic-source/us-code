@@ -3,9 +3,9 @@ title: "Section 8162 - IAEA inspections and visits"
 usc_title: 22
 usc_section: "8162"
 chapter: 88
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 8162"
-generated_at: "2026-03-30T00:47:22.593Z"
+generated_at: "2026-03-30T00:51:06.701Z"
 ---
 
 # § 8162. IAEA inspections and visits

@@ -3,9 +3,9 @@ title: "Section 218 - Alaska Highway"
 usc_title: 23
 usc_section: "218"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "23 U.S.C. § 218"
-generated_at: "2026-03-30T00:47:11.778Z"
+generated_at: "2026-03-30T00:51:03.507Z"
 ---
 
 # § 218. Alaska Highway

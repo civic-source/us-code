@@ -3,9 +3,9 @@ title: "Section 23 - National arrangement for benefits for eligible individuals 
 usc_title: 42
 usc_section: "23"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 23"
-generated_at: "2026-03-30T00:49:18.307Z"
+generated_at: "2026-03-30T00:54:16.123Z"
 ---
 
 # § 300mm–23. National arrangement for benefits for eligible individuals outside New York

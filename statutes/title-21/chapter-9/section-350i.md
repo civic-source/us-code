@@ -3,9 +3,9 @@ title: "Section 350i - Protection against intentional adulteration"
 usc_title: 21
 usc_section: "350i"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 350i"
-generated_at: "2026-03-30T00:47:24.913Z"
+generated_at: "2026-03-30T00:51:00.067Z"
 ---
 
 # § 350i. Protection against intentional adulteration

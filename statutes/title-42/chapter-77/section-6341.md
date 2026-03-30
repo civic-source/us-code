@@ -3,9 +3,9 @@ title: "Section 6341 - Definitions"
 usc_title: 42
 usc_section: "6341"
 chapter: 77
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 6341"
-generated_at: "2026-03-30T00:49:18.727Z"
+generated_at: "2026-03-30T00:54:16.516Z"
 ---
 
 # § 6341. Definitions

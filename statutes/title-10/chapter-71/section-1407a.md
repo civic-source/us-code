@@ -3,9 +3,9 @@ title: "Section 1407a - Retired pay base: officers retired in general or flag of
 usc_title: 10
 usc_section: "1407a"
 chapter: 71
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1407a"
-generated_at: "2026-03-30T00:46:04.695Z"
+generated_at: "2026-03-30T00:50:18.303Z"
 ---
 
 # § 1407a. Retired pay base: officers retired in general or flag officer grades

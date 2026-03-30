@@ -3,9 +3,9 @@ title: "Section 751 - Rules of survey"
 usc_title: 43
 usc_section: "751"
 chapter: 18
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 751"
-generated_at: "2026-03-30T00:48:34.228Z"
+generated_at: "2026-03-30T00:52:57.018Z"
 ---
 
 # § 751. Rules of survey

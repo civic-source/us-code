@@ -3,9 +3,9 @@ title: "Section 6136 - Suspension of prohibitions against use of Supreme Court g
 usc_title: 40
 usc_section: "6136"
 chapter: 61
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "40 U.S.C. § 6136"
-generated_at: "2026-03-30T00:48:09.841Z"
+generated_at: "2026-03-30T00:52:37.439Z"
 ---
 
 # § 6136. Suspension of prohibitions against use of Supreme Court grounds

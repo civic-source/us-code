@@ -3,9 +3,9 @@ title: "Section 861 - Preference right of selection granted certain Western Stat
 usc_title: 43
 usc_section: "861"
 chapter: 20
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 861"
-generated_at: "2026-03-30T00:48:34.229Z"
+generated_at: "2026-03-30T00:52:57.019Z"
 ---
 
 # § 861. Preference right of selection granted certain Western States; bona fide settlers

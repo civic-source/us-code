@@ -3,9 +3,9 @@ title: "Section 2856b - Covered military unaccompanied housing: standards for ha
 usc_title: 10
 usc_section: "2856b"
 chapter: 169
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2856b"
-generated_at: "2026-03-30T00:46:04.742Z"
+generated_at: "2026-03-30T00:50:18.350Z"
 ---
 
 # § 2856b. Covered military unaccompanied housing: standards for habitability

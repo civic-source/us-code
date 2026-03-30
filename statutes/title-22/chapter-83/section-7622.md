@@ -3,9 +3,9 @@ title: "Section 7622 - Participation in the Global Fund to Fight AIDS, Tuberculo
 usc_title: 22
 usc_section: "7622"
 chapter: 83
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 7622"
-generated_at: "2026-03-30T00:47:22.584Z"
+generated_at: "2026-03-30T00:51:06.693Z"
 ---
 
 # § 7622. Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria

@@ -3,9 +3,9 @@ title: "Section 1340 - Joint report to Congress; consultation and coordination o
 usc_title: 16
 usc_section: "1340"
 chapter: 30
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 1340"
-generated_at: "2026-03-30T00:46:53.390Z"
+generated_at: "2026-03-30T00:50:47.460Z"
 ---
 
 # § 1340. Joint report to Congress; consultation and coordination of implementation, enforcement, and departmental activities; studies

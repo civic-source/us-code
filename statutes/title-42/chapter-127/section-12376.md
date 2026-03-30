@@ -3,9 +3,9 @@ title: "Section 12376 - Definitions"
 usc_title: 42
 usc_section: "12376"
 chapter: 127
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 12376"
-generated_at: "2026-03-30T00:49:18.899Z"
+generated_at: "2026-03-30T00:54:16.672Z"
 ---
 
 # § 12376. Definitions

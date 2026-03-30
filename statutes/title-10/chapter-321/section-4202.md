@@ -3,9 +3,9 @@ title: "Section 4202 - Authority to increase definitional threshold amounts: maj
 usc_title: 10
 usc_section: "4202"
 chapter: 321
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 4202"
-generated_at: "2026-03-30T00:46:04.759Z"
+generated_at: "2026-03-30T00:50:18.374Z"
 ---
 
 # § 4202. Authority to increase definitional threshold amounts: major defense acquisition programs; major systems

@@ -3,9 +3,9 @@ title: "Section 4129 - Authority to borrow and invest"
 usc_title: 18
 usc_section: "4129"
 chapter: 307
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 4129"
-generated_at: "2026-03-30T00:47:06.522Z"
+generated_at: "2026-03-30T00:50:48.622Z"
 ---
 
 # § 4129. Authority to borrow and invest

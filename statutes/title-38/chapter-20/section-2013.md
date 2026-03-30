@@ -3,9 +3,9 @@ title: "Section 2013 - Program to improve retention of housing by formerly homel
 usc_title: 38
 usc_section: "2013"
 chapter: 20
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 2013"
-generated_at: "2026-03-30T00:48:21.079Z"
+generated_at: "2026-03-30T00:52:53.564Z"
 ---
 
 # § 2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless

@@ -3,9 +3,9 @@ title: "Section 211 - Contracts of carriers; filing with Commission"
 usc_title: 47
 usc_section: "211"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "47 U.S.C. § 211"
-generated_at: "2026-03-30T00:49:24.431Z"
+generated_at: "2026-03-30T00:54:42.389Z"
 ---
 
 # § 211. Contracts of carriers; filing with Commission

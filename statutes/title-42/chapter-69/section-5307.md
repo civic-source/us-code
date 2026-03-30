@@ -3,9 +3,9 @@ title: "Section 5307 - Special purpose grants"
 usc_title: 42
 usc_section: "5307"
 chapter: 69
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 5307"
-generated_at: "2026-03-30T00:49:18.702Z"
+generated_at: "2026-03-30T00:54:16.492Z"
 ---
 
 # § 5307. Special purpose grants

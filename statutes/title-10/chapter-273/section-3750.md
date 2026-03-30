@@ -3,9 +3,9 @@ title: "Section 3750 - Proceeding costs not allowable"
 usc_title: 10
 usc_section: "3750"
 chapter: 273
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 3750"
-generated_at: "2026-03-30T00:46:04.754Z"
+generated_at: "2026-03-30T00:50:18.367Z"
 ---
 
 # § 3750. Proceeding costs not allowable

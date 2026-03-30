@@ -3,9 +3,9 @@ title: "Section 1201b - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1201b"
 chapter: 30
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 1201b"
-generated_at: "2026-03-30T00:46:49.246Z"
+generated_at: "2026-03-30T00:50:54.056Z"
 ---
 
 # §§ 1201 to 1201b. Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Aug. 7, 1998 , 112 Stat. 1079

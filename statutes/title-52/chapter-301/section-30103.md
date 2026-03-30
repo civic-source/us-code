@@ -3,9 +3,9 @@ title: "Section 30103 - Registration of political committees"
 usc_title: 52
 usc_section: "30103"
 chapter: 301
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "52 U.S.C. § 30103"
-generated_at: "2026-03-30T00:49:30.411Z"
+generated_at: "2026-03-30T00:55:11.585Z"
 ---
 
 # § 30103. Registration of political committees

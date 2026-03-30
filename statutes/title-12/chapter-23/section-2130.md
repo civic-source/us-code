@@ -3,9 +3,9 @@ title: "Section 2130 - Ownership of stock by borrowers"
 usc_title: 12
 usc_section: "2130"
 chapter: 23
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 2130"
-generated_at: "2026-03-30T00:46:42.451Z"
+generated_at: "2026-03-30T00:50:34.928Z"
 ---
 
 # § 2130. Ownership of stock by borrowers

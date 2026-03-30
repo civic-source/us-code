@@ -3,9 +3,9 @@ title: "Section 451 - Conditions necessary for exchange; terms; credits; rights 
 usc_title: 43
 usc_section: "451"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 451"
-generated_at: "2026-03-30T00:48:34.219Z"
+generated_at: "2026-03-30T00:52:57.007Z"
 ---
 
 # § 451. Conditions necessary for exchange; terms; credits; rights nonassignable

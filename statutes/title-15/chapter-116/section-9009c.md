@@ -3,9 +3,9 @@ title: "Section 9009c - Support for restaurants"
 usc_title: 15
 usc_section: "9009c"
 chapter: 116
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 9009c"
-generated_at: "2026-03-30T00:46:25.762Z"
+generated_at: "2026-03-30T00:50:38.213Z"
 ---
 
 # § 9009c. Support for restaurants

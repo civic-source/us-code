@@ -3,9 +3,9 @@ title: "Section 3205 - Advisory committees"
 usc_title: 29
 usc_section: "3205"
 chapter: 32
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 3205"
-generated_at: "2026-03-30T00:47:42.027Z"
+generated_at: "2026-03-30T00:51:10.883Z"
 ---
 
 # § 3205. Advisory committees

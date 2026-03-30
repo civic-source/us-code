@@ -3,9 +3,9 @@ title: "Section 1826a - Denial of port privileges and sanctions for high seas la
 usc_title: 16
 usc_section: "1826a"
 chapter: 38
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 1826a"
-generated_at: "2026-03-30T00:46:53.412Z"
+generated_at: "2026-03-30T00:50:47.481Z"
 ---
 
 # § 1826a. Denial of port privileges and sanctions for high seas large-scale driftnet fishing

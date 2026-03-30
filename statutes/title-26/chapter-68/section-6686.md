@@ -3,9 +3,9 @@ title: "Section 6686 - Failure to file returns or supply information by DISC or 
 usc_title: 26
 usc_section: "6686"
 chapter: 68
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 6686"
-generated_at: "2026-03-30T00:47:39.543Z"
+generated_at: "2026-03-30T00:51:51.820Z"
 ---
 
 # § 6686. Failure to file returns or supply information by DISC or former FSC

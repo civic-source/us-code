@@ -3,9 +3,9 @@ title: "Section 5007 - Expedited recredit procedures for banks"
 usc_title: 12
 usc_section: "5007"
 chapter: 50
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 5007"
-generated_at: "2026-03-30T00:46:42.503Z"
+generated_at: "2026-03-30T00:50:34.975Z"
 ---
 
 # § 5007. Expedited recredit procedures for banks

@@ -3,9 +3,9 @@ title: "Section 40507 - Information sharing"
 usc_title: 34
 usc_section: "40507"
 chapter: 405
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "34 U.S.C. § 40507"
-generated_at: "2026-03-30T00:47:53.132Z"
+generated_at: "2026-03-30T00:52:15.487Z"
 ---
 
 # § 40507. Information sharing

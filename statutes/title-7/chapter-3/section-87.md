@@ -3,9 +3,9 @@ title: "Section 87 - Conflicts of interest"
 usc_title: 7
 usc_section: "87"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 87"
-generated_at: "2026-03-30T00:45:50.745Z"
+generated_at: "2026-03-30T00:50:27.560Z"
 ---
 
 # § 87. Conflicts of interest

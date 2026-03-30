@@ -3,9 +3,9 @@ title: "Section 120 - Department of Defense executive aircraft controlled by Sec
 usc_title: 10
 usc_section: "120"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 120"
-generated_at: "2026-03-30T00:46:04.628Z"
+generated_at: "2026-03-30T00:50:18.241Z"
 ---
 
 # § 120. Department of Defense executive aircraft controlled by Secretaries of military departments

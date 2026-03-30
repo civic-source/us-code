@@ -3,9 +3,9 @@ title: "Section 2 - Council"
 usc_title: 20
 usc_section: "2"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T00:46:49.176Z"
+generated_at: "2026-03-30T00:50:53.990Z"
 ---
 
 # § 80t–2. Council

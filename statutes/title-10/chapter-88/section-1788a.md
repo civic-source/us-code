@@ -3,9 +3,9 @@ title: "Section 1788a - Support programs: special operations forces personnel; i
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-03-30T00:46:04.710Z"
+generated_at: "2026-03-30T00:50:18.317Z"
 ---
 
 # § 1788a. Support programs: special operations forces personnel; immediate family members

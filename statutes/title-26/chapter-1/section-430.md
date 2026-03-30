@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-03-30T00:47:39.387Z"
+generated_at: "2026-03-30T00:51:51.662Z"
 ---
 
 # § 430. Minimum funding standards for single-employer defined benefit pension plans

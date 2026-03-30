@@ -3,9 +3,9 @@ title: "Section 80q - Findings"
 usc_title: 20
 usc_section: "80q"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 80q"
-generated_at: "2026-03-30T00:46:49.174Z"
+generated_at: "2026-03-30T00:50:53.989Z"
 ---
 
 # § 80q. Findings

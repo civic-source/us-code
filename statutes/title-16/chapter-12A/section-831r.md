@@ -3,9 +3,9 @@ title: "Section 831r - Patents; access to Patent and Trademark Office and right 
 usc_title: 16
 usc_section: "831r"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 831r"
-generated_at: "2026-03-30T00:46:53.365Z"
+generated_at: "2026-03-30T00:50:47.435Z"
 ---
 
 # § 831r. Patents; access to Patent and Trademark Office and right to copy patents; compensation to patentees

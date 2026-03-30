@@ -3,9 +3,9 @@ title: "Section 1715l - Housing for moderate income and displaced families"
 usc_title: 12
 usc_section: "1715l"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 1715l"
-generated_at: "2026-03-30T00:46:42.387Z"
+generated_at: "2026-03-30T00:50:34.870Z"
 ---
 
 # § 1715l. Housing for moderate income and displaced families

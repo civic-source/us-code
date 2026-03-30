@@ -3,9 +3,9 @@ title: "Section 3541 - Paperwork reduction"
 usc_title: 42
 usc_section: "3541"
 chapter: 44
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 3541"
-generated_at: "2026-03-30T00:49:18.648Z"
+generated_at: "2026-03-30T00:54:16.448Z"
 ---
 
 # § 3541. Paperwork reduction

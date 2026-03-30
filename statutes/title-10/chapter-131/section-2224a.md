@@ -3,9 +3,9 @@ title: "Section 2224a - Information security: continued applicability of expirin
 usc_title: 10
 usc_section: "2224a"
 chapter: 131
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2224a"
-generated_at: "2026-03-30T00:46:04.719Z"
+generated_at: "2026-03-30T00:50:18.326Z"
 ---
 
 # § 2224a. Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense

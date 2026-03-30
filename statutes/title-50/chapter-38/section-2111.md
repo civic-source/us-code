@@ -3,9 +3,9 @@ title: "Section 2111 - Recall"
 usc_title: 50
 usc_section: "2111"
 chapter: 38
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "50 U.S.C. § 2111"
-generated_at: "2026-03-30T00:49:25.782Z"
+generated_at: "2026-03-30T00:54:36.241Z"
 ---
 
 # § 2111. Recall

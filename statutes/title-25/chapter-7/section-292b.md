@@ -3,9 +3,9 @@ title: "Section 292b - Establishment of single system of education in Alaska; tr
 usc_title: 25
 usc_section: "292b"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "25 U.S.C. § 292b"
-generated_at: "2026-03-30T00:47:11.173Z"
+generated_at: "2026-03-30T00:50:58.539Z"
 ---
 
 # § 292b. Establishment of single system of education in Alaska; transfer of Indian schools to State of Alaska

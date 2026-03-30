@@ -3,9 +3,9 @@ title: "Section 78ff - Penalties"
 usc_title: 15
 usc_section: "78ff"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 78ff"
-generated_at: "2026-03-30T00:46:25.574Z"
+generated_at: "2026-03-30T00:50:38.028Z"
 ---
 
 # § 78ff. Penalties

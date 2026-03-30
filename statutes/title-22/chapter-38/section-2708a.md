@@ -3,9 +3,9 @@ title: "Section 2708a - Award of Thomas Jefferson Star for Foreign Service"
 usc_title: 22
 usc_section: "2708a"
 chapter: 38
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 2708a"
-generated_at: "2026-03-30T00:47:22.520Z"
+generated_at: "2026-03-30T00:51:06.624Z"
 ---
 
 # § 2708a. Award of Thomas Jefferson Star for Foreign Service

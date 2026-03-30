@@ -3,9 +3,9 @@ title: "Section 231p - Free transportation"
 usc_title: 45
 usc_section: "231p"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "45 U.S.C. § 231p"
-generated_at: "2026-03-30T00:48:46.561Z"
+generated_at: "2026-03-30T00:52:55.824Z"
 ---
 
 # § 231p. Free transportation

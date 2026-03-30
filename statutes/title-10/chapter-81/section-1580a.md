@@ -3,9 +3,9 @@ title: "Section 1580a - Emergency essential employees: notification of required 
 usc_title: 10
 usc_section: "1580a"
 chapter: 81
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1580a"
-generated_at: "2026-03-30T00:46:04.705Z"
+generated_at: "2026-03-30T00:50:18.312Z"
 ---
 
 # § 1580a. Emergency essential employees: notification of required participation in anthrax vaccine immunization program

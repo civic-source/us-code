@@ -3,9 +3,9 @@ title: "Section 7589 - California pilot test program"
 usc_title: 42
 usc_section: "7589"
 chapter: 85
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7589"
-generated_at: "2026-03-30T00:49:18.785Z"
+generated_at: "2026-03-30T00:54:16.578Z"
 ---
 
 # § 7589. California pilot test program

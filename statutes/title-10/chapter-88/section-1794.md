@@ -3,9 +3,9 @@ title: "Section 1794 - Child abuse prevention and safety at facilities"
 usc_title: 10
 usc_section: "1794"
 chapter: 88
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1794"
-generated_at: "2026-03-30T00:46:04.710Z"
+generated_at: "2026-03-30T00:50:18.317Z"
 ---
 
 # § 1794. Child abuse prevention and safety at facilities

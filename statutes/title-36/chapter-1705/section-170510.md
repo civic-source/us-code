@@ -3,9 +3,9 @@ title: "Section 170510 - Service of process"
 usc_title: 36
 usc_section: "170510"
 chapter: 1705
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "36 U.S.C. § 170510"
-generated_at: "2026-03-30T00:48:05.183Z"
+generated_at: "2026-03-30T00:52:43.092Z"
 ---
 
 # § 170510. Service of process

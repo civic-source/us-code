@@ -3,9 +3,9 @@ title: "Section 5144 - Emergency support and response teams"
 usc_title: 42
 usc_section: "5144"
 chapter: 68
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 5144"
-generated_at: "2026-03-30T00:49:18.690Z"
+generated_at: "2026-03-30T00:54:16.483Z"
 ---
 
 # § 5144. Emergency support and response teams

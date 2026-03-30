@@ -3,9 +3,9 @@ title: "Section 1068e - Limitations"
 usc_title: 20
 usc_section: "1068e"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 1068e"
-generated_at: "2026-03-30T00:46:49.198Z"
+generated_at: "2026-03-30T00:50:54.009Z"
 ---
 
 # § 1068e. Limitations

@@ -3,9 +3,9 @@ title: "Section 293 - Authority to conduct a demonstration project relating to d
 usc_title: 6
 usc_section: "293"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "6 U.S.C. § 293"
-generated_at: "2026-03-30T00:45:43.588Z"
+generated_at: "2026-03-30T00:50:08.595Z"
 ---
 
 # § 293. Authority to conduct a demonstration project relating to disciplinary action

@@ -3,9 +3,9 @@ title: "Section 2716a - Financial responsibility civil penalties"
 usc_title: 33
 usc_section: "2716a"
 chapter: 40
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 2716a"
-generated_at: "2026-03-30T00:47:56.740Z"
+generated_at: "2026-03-30T00:52:16.617Z"
 ---
 
 # § 2716a. Financial responsibility civil penalties

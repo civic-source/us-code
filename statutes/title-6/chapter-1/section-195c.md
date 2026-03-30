@@ -3,9 +3,9 @@ title: "Section 195c - Promoting antiterrorism through international cooperation
 usc_title: 6
 usc_section: "195c"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "6 U.S.C. § 195c"
-generated_at: "2026-03-30T00:45:43.583Z"
+generated_at: "2026-03-30T00:50:08.590Z"
 ---
 
 # § 195c. Promoting antiterrorism through international cooperation program

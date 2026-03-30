@@ -3,9 +3,9 @@ title: "Section 1449 - Determination of price support level"
 usc_title: 7
 usc_section: "1449"
 chapter: 35
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 1449"
-generated_at: "2026-03-30T00:45:50.795Z"
+generated_at: "2026-03-30T00:50:27.616Z"
 ---
 
 # § 1449. Determination of price support level

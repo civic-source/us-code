@@ -3,9 +3,9 @@ title: "Section 254h - Provision of health services by Corps members"
 usc_title: 42
 usc_section: "254h"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 254h"
-generated_at: "2026-03-30T00:49:18.150Z"
+generated_at: "2026-03-30T00:54:15.982Z"
 ---
 
 # § 254h. Provision of health services by Corps members

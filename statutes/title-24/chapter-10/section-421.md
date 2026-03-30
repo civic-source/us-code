@@ -3,9 +3,9 @@ title: "Section 421 - Payment of residents for services"
 usc_title: 24
 usc_section: "421"
 chapter: 10
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "24 U.S.C. § 421"
-generated_at: "2026-03-30T00:47:09.865Z"
+generated_at: "2026-03-30T00:50:58.976Z"
 ---
 
 # § 421. Payment of residents for services

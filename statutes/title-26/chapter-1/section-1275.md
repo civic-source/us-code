@@ -3,9 +3,9 @@ title: "Section 1275 - Other definitions and special rules"
 usc_title: 26
 usc_section: "1275"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 1275"
-generated_at: "2026-03-30T00:47:39.452Z"
+generated_at: "2026-03-30T00:51:51.728Z"
 ---
 
 # § 1275. Other definitions and special rules

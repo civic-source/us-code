@@ -3,9 +3,9 @@ title: "Section 591 - Purchase of electricity"
 usc_title: 40
 usc_section: "591"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "40 U.S.C. § 591"
-generated_at: "2026-03-30T00:48:09.836Z"
+generated_at: "2026-03-30T00:52:37.432Z"
 ---
 
 # § 591. Purchase of electricity

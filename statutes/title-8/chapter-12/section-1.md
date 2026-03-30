@@ -3,9 +3,9 @@ title: "Section 1 - Posthumous citizenship through death while on active-duty se
 usc_title: 8
 usc_section: "1"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1"
-generated_at: "2026-03-30T00:45:45.488Z"
+generated_at: "2026-03-30T00:50:13.231Z"
 ---
 
 # § 1440–1. Posthumous citizenship through death while on active-duty service in armed forces during World War I, World War II, the Korean hostilities, the Vietnam hostilities, or in other periods of military hostilities

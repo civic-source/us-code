@@ -3,9 +3,9 @@ title: "Section 9151 - Commissioned officer grades"
 usc_title: 10
 usc_section: "9151"
 chapter: 915
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 9151"
-generated_at: "2026-03-30T00:46:04.792Z"
+generated_at: "2026-03-30T00:50:18.408Z"
 ---
 
 # § 9151. Commissioned officer grades

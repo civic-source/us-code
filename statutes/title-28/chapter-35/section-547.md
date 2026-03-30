@@ -3,9 +3,9 @@ title: "Section 547 - Duties"
 usc_title: 28
 usc_section: "547"
 chapter: 35
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "28 U.S.C. § 547"
-generated_at: "2026-03-30T00:47:29.009Z"
+generated_at: "2026-03-30T00:51:17.688Z"
 ---
 
 # § 547. Duties

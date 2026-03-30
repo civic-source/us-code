@@ -3,9 +3,9 @@ title: "Section 460oo - Establishment"
 usc_title: 16
 usc_section: "460oo"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 460oo"
-generated_at: "2026-03-30T00:46:53.292Z"
+generated_at: "2026-03-30T00:50:47.365Z"
 ---
 
 # § 460oo. Establishment

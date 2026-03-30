@@ -3,9 +3,9 @@ title: "Section 837 - Art. 37. Command influence"
 usc_title: 10
 usc_section: "837"
 chapter: 47
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 837"
-generated_at: "2026-03-30T00:46:04.664Z"
+generated_at: "2026-03-30T00:50:18.274Z"
 ---
 
 # § 837. Art. 37. Command influence

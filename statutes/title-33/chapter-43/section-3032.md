@@ -3,9 +3,9 @@ title: "Section 3032 - Service credit as deck officer or junior engineer for pro
 usc_title: 33
 usc_section: "3032"
 chapter: 43
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 3032"
-generated_at: "2026-03-30T00:47:56.745Z"
+generated_at: "2026-03-30T00:52:16.622Z"
 ---
 
 # § 3032. Service credit as deck officer or junior engineer for promotion purposes

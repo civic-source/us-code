@@ -3,9 +3,9 @@ title: "Section 1881 - Definitions"
 usc_title: 2
 usc_section: "1881"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 1881"
-generated_at: "2026-03-30T00:45:29.246Z"
+generated_at: "2026-03-30T00:49:45.896Z"
 ---
 
 # § 1881. Definitions

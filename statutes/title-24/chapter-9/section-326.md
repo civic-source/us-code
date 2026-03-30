@@ -3,9 +3,9 @@ title: "Section 326 - Release of patient"
 usc_title: 24
 usc_section: "326"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "24 U.S.C. § 326"
-generated_at: "2026-03-30T00:47:09.864Z"
+generated_at: "2026-03-30T00:50:58.973Z"
 ---
 
 # § 326. Release of patient

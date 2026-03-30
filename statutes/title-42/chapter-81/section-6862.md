@@ -3,9 +3,9 @@ title: "Section 6862 - Definitions"
 usc_title: 42
 usc_section: "6862"
 chapter: 81
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 6862"
-generated_at: "2026-03-30T00:49:18.737Z"
+generated_at: "2026-03-30T00:54:16.528Z"
 ---
 
 # § 6862. Definitions

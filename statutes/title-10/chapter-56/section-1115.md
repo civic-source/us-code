@@ -3,9 +3,9 @@ title: "Section 1115 - Determination of contributions to the Fund"
 usc_title: 10
 usc_section: "1115"
 chapter: 56
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1115"
-generated_at: "2026-03-30T00:46:04.687Z"
+generated_at: "2026-03-30T00:50:18.296Z"
 ---
 
 # § 1115. Determination of contributions to the Fund

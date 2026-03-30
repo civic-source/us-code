@@ -3,9 +3,9 @@ title: "Section 1108 - Health care coverage through Federal Employees Health Ben
 usc_title: 10
 usc_section: "1108"
 chapter: 55
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1108"
-generated_at: "2026-03-30T00:46:04.686Z"
+generated_at: "2026-03-30T00:50:18.295Z"
 ---
 
 # § 1108. Health care coverage through Federal Employees Health Benefits program: demonstration project

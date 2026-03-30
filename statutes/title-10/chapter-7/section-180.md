@@ -3,9 +3,9 @@ title: "Section 180 - Service academy athletic programs: review board"
 usc_title: 10
 usc_section: "180"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 180"
-generated_at: "2026-03-30T00:46:04.636Z"
+generated_at: "2026-03-30T00:50:18.249Z"
 ---
 
 # § 180. Service academy athletic programs: review board

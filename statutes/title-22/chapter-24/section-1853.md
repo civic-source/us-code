@@ -3,9 +3,9 @@ title: "Section 1853 - Assistance to Yugoslavia"
 usc_title: 22
 usc_section: "1853"
 chapter: 24
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 1853"
-generated_at: "2026-03-30T00:47:22.483Z"
+generated_at: "2026-03-30T00:51:06.583Z"
 ---
 
 # § 1853. Assistance to Yugoslavia

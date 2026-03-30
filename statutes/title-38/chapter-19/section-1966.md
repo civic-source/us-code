@@ -3,9 +3,9 @@ title: "Section 1966 - Eligible insurance companies"
 usc_title: 38
 usc_section: "1966"
 chapter: 19
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 1966"
-generated_at: "2026-03-30T00:48:21.077Z"
+generated_at: "2026-03-30T00:52:53.562Z"
 ---
 
 # § 1966. Eligible insurance companies

@@ -3,9 +3,9 @@ title: "Section 14953 - Relationship to other laws"
 usc_title: 42
 usc_section: "14953"
 chapter: 143
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 14953"
-generated_at: "2026-03-30T00:49:18.955Z"
+generated_at: "2026-03-30T00:54:16.713Z"
 ---
 
 # § 14953. Relationship to other laws

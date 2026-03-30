@@ -3,9 +3,9 @@ title: "Section 13 - Setting priorities for standards adoption"
 usc_title: 42
 usc_section: "13"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T00:49:18.302Z"
+generated_at: "2026-03-30T00:54:16.118Z"
 ---
 
 # § 300jj–13. Setting priorities for standards adoption

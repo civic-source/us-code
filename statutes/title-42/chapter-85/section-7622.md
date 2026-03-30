@@ -3,9 +3,9 @@ title: "Section 7622 - Employee protection"
 usc_title: 42
 usc_section: "7622"
 chapter: 85
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7622"
-generated_at: "2026-03-30T00:49:18.787Z"
+generated_at: "2026-03-30T00:54:16.580Z"
 ---
 
 # § 7622. Employee protection

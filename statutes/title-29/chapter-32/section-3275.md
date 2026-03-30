@@ -3,9 +3,9 @@ title: "Section 3275 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3275"
 chapter: 32
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 3275"
-generated_at: "2026-03-30T00:47:42.032Z"
+generated_at: "2026-03-30T00:51:10.889Z"
 ---
 
 # § 3275. Authorization of appropriations

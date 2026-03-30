@@ -3,9 +3,9 @@ title: "Section 690j - Federal Financing Bank"
 usc_title: 15
 usc_section: "690j"
 chapter: 14
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 690j"
-generated_at: "2026-03-30T00:46:25.630Z"
+generated_at: "2026-03-30T00:50:38.085Z"
 ---
 
 # § 690j. Federal Financing Bank

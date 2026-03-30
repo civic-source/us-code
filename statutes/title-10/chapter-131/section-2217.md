@@ -3,9 +3,9 @@ title: "Section 2217 - Renumbered § 3135]"
 usc_title: 10
 usc_section: "2217"
 chapter: 131
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2217"
-generated_at: "2026-03-30T00:46:04.718Z"
+generated_at: "2026-03-30T00:50:18.325Z"
 ---
 
 # [§ 2217. Renumbered § 3135]

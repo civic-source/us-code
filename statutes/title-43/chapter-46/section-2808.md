@@ -3,9 +3,9 @@ title: "Section 2808 - Covered agency responsibilities"
 usc_title: 43
 usc_section: "2808"
 chapter: 46
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 2808"
-generated_at: "2026-03-30T00:48:34.285Z"
+generated_at: "2026-03-30T00:52:57.057Z"
 ---
 
 # § 2808. Covered agency responsibilities

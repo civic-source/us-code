@@ -3,9 +3,9 @@ title: "Section 1752 - Entry of articles for fairs"
 usc_title: 19
 usc_section: "1752"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "19 U.S.C. § 1752"
-generated_at: "2026-03-30T00:46:50.691Z"
+generated_at: "2026-03-30T00:50:42.625Z"
 ---
 
 # § 1752. Entry of articles for fairs

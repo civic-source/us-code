@@ -3,9 +3,9 @@ title: "Section 2224 - Details of employees from and to Division of Accounts and
 usc_title: 7
 usc_section: "2224"
 chapter: 55
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 2224"
-generated_at: "2026-03-30T00:45:50.845Z"
+generated_at: "2026-03-30T00:50:27.670Z"
 ---
 
 # § 2224. Details of employees from and to Division of Accounts and Disbursements and bureaus and offices; traveling expenses

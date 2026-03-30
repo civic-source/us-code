@@ -3,9 +3,9 @@ title: "Section 205 - Suspension of commercial intercourse with State in insurre
 usc_title: 50
 usc_section: "205"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "50 U.S.C. § 205"
-generated_at: "2026-03-30T00:49:25.762Z"
+generated_at: "2026-03-30T00:54:36.222Z"
 ---
 
 # § 205. Suspension of commercial intercourse with State in insurrection

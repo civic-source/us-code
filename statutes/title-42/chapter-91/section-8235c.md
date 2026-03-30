@@ -3,9 +3,9 @@ title: "Section 8235c - Approval of applications for plans for prototype residen
 usc_title: 42
 usc_section: "8235c"
 chapter: 91
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 8235c"
-generated_at: "2026-03-30T00:49:18.806Z"
+generated_at: "2026-03-30T00:54:16.597Z"
 ---
 
 # § 8235c. Approval of applications for plans for prototype residential energy efficiency programs

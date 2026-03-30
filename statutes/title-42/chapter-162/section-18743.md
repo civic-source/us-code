@@ -3,9 +3,9 @@ title: "Section 18743 - Critical minerals mining and recycling research"
 usc_title: 42
 usc_section: "18743"
 chapter: 162
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 18743"
-generated_at: "2026-03-30T00:49:19.034Z"
+generated_at: "2026-03-30T00:54:16.787Z"
 ---
 
 # § 18743. Critical minerals mining and recycling research

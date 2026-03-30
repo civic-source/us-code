@@ -3,9 +3,9 @@ title: "Section 3672 - Duties of Director of Administrative Office of the United
 usc_title: 18
 usc_section: "3672"
 chapter: 232
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 3672"
-generated_at: "2026-03-30T00:47:06.518Z"
+generated_at: "2026-03-30T00:50:48.618Z"
 ---
 
 # § 3672. Duties of Director of Administrative Office of the United States Courts

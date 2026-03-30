@@ -3,9 +3,9 @@ title: "Section 571c - Erection of permanent facilities on land not owned by Uni
 usc_title: 16
 usc_section: "571c"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 571c"
-generated_at: "2026-03-30T00:46:53.328Z"
+generated_at: "2026-03-30T00:50:47.400Z"
 ---
 
 # § 571c. Erection of permanent facilities on land not owned by United States; long term leases

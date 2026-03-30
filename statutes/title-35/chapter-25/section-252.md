@@ -3,9 +3,9 @@ title: "Section 252 - Effect of reissue"
 usc_title: 35
 usc_section: "252"
 chapter: 25
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "35 U.S.C. § 252"
-generated_at: "2026-03-30T00:47:50.860Z"
+generated_at: "2026-03-30T00:51:58.862Z"
 ---
 
 # § 252. Effect of reissue

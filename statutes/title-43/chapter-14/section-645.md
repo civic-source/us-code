@@ -3,9 +3,9 @@ title: "Section 645 - Additional arid lands available to Colorado, Idaho, Nevada
 usc_title: 43
 usc_section: "645"
 chapter: 14
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 645"
-generated_at: "2026-03-30T00:48:34.228Z"
+generated_at: "2026-03-30T00:52:57.017Z"
 ---
 
 # § 645. Additional arid lands available to Colorado, Idaho, Nevada, and Wyoming for reclamation

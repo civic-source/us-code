@@ -3,9 +3,9 @@ title: "Section 7154 - Transfers from Department of Housing and Urban Developmen
 usc_title: 42
 usc_section: "7154"
 chapter: 84
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7154"
-generated_at: "2026-03-30T00:49:18.753Z"
+generated_at: "2026-03-30T00:54:16.545Z"
 ---
 
 # § 7154. Transfers from Department of Housing and Urban Development

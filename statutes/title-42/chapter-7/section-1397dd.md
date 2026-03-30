@@ -3,9 +3,9 @@ title: "Section 1397dd - Allotments"
 usc_title: 42
 usc_section: "1397dd"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 1397dd"
-generated_at: "2026-03-30T00:49:18.527Z"
+generated_at: "2026-03-30T00:54:16.333Z"
 ---
 
 # § 1397dd. Allotments

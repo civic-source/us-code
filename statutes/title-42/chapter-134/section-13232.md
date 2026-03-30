@@ -3,9 +3,9 @@ title: "Section 13232 - Labeling requirements"
 usc_title: 42
 usc_section: "13232"
 chapter: 134
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 13232"
-generated_at: "2026-03-30T00:49:18.937Z"
+generated_at: "2026-03-30T00:54:16.698Z"
 ---
 
 # § 13232. Labeling requirements

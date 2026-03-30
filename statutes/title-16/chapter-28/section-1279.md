@@ -3,9 +3,9 @@ title: "Section 1279 - Withdrawal of public lands from entry, sale, or other dis
 usc_title: 16
 usc_section: "1279"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 1279"
-generated_at: "2026-03-30T00:46:53.389Z"
+generated_at: "2026-03-30T00:50:47.459Z"
 ---
 
 # § 1279. Withdrawal of public lands from entry, sale, or other disposition under public land laws

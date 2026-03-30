@@ -3,9 +3,9 @@ title: "Section 2005 - Appraisal of goods taken on execution"
 usc_title: 28
 usc_section: "2005"
 chapter: 127
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "28 U.S.C. § 2005"
-generated_at: "2026-03-30T00:47:29.026Z"
+generated_at: "2026-03-30T00:51:17.708Z"
 ---
 
 # § 2005. Appraisal of goods taken on execution

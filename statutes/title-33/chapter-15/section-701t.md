@@ -3,9 +3,9 @@ title: "Section 701t - Emergency fund for flood damage; amount; commitments to b
 usc_title: 33
 usc_section: "701t"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 701t"
-generated_at: "2026-03-30T00:47:56.682Z"
+generated_at: "2026-03-30T00:52:16.553Z"
 ---
 
 # § 701t. Emergency fund for flood damage; amount; commitments to be fulfilled by local interests

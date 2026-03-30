@@ -3,9 +3,9 @@ title: "Section 68d - Enforcement of subchapter"
 usc_title: 15
 usc_section: "68d"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 68d"
-generated_at: "2026-03-30T00:46:25.541Z"
+generated_at: "2026-03-30T00:50:37.994Z"
 ---
 
 # § 68d. Enforcement of subchapter

@@ -3,9 +3,9 @@ title: "Section 7172 - Jurisdiction of Commission"
 usc_title: 42
 usc_section: "7172"
 chapter: 84
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7172"
-generated_at: "2026-03-30T00:49:18.753Z"
+generated_at: "2026-03-30T00:54:16.545Z"
 ---
 
 # § 7172. Jurisdiction of Commission

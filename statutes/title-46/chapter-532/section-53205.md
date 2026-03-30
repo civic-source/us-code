@@ -3,9 +3,9 @@ title: "Section 53205 - Obligations and rights under operating agreements"
 usc_title: 46
 usc_section: "53205"
 chapter: 532
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 53205"
-generated_at: "2026-03-30T00:49:23.412Z"
+generated_at: "2026-03-30T00:54:22.101Z"
 ---
 
 # § 53205. Obligations and rights under operating agreements

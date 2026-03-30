@@ -3,9 +3,9 @@ title: "Section 53701 - Definitions"
 usc_title: 46
 usc_section: "53701"
 chapter: 537
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 53701"
-generated_at: "2026-03-30T00:49:23.414Z"
+generated_at: "2026-03-30T00:54:22.103Z"
 ---
 
 # § 53701. Definitions

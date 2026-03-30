@@ -3,9 +3,9 @@ title: "Section 12601a - Transfer of funds; notice to Congress"
 usc_title: 42
 usc_section: "12601a"
 chapter: 129
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 12601a"
-generated_at: "2026-03-30T00:49:18.906Z"
+generated_at: "2026-03-30T00:54:16.679Z"
 ---
 
 # § 12601a. Transfer of funds; notice to Congress

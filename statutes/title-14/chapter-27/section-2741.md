@@ -3,9 +3,9 @@ title: "Section 2741 - Time limit on award; report concerning deed"
 usc_title: 14
 usc_section: "2741"
 chapter: 27
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "14 U.S.C. § 2741"
-generated_at: "2026-03-30T00:46:13.942Z"
+generated_at: "2026-03-30T00:50:30.514Z"
 ---
 
 # § 2741. Time limit on award; report concerning deed

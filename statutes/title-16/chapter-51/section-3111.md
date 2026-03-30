@@ -3,9 +3,9 @@ title: "Section 3111 - Congressional declaration of findings"
 usc_title: 16
 usc_section: "3111"
 chapter: 51
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 3111"
-generated_at: "2026-03-30T00:46:53.430Z"
+generated_at: "2026-03-30T00:50:47.498Z"
 ---
 
 # § 3111. Congressional declaration of findings

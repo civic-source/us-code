@@ -3,9 +3,9 @@ title: "Section 2004 - Administrative matters"
 usc_title: 48
 usc_section: "2004"
 chapter: 19
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "48 U.S.C. § 2004"
-generated_at: "2026-03-30T00:49:21.852Z"
+generated_at: "2026-03-30T00:54:39.445Z"
 ---
 
 # § 2004. Administrative matters

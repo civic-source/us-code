@@ -3,9 +3,9 @@ title: "Section 4 - Training programs"
 usc_title: 42
 usc_section: "4"
 chapter: 21
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-03-30T00:49:18.595Z"
+generated_at: "2026-03-30T00:54:16.401Z"
 ---
 
 # § 2000ff–4. Training programs

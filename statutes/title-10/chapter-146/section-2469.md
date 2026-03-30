@@ -3,9 +3,9 @@ title: "Section 2469 - Contracts to perform workloads previously performed by de
 usc_title: 10
 usc_section: "2469"
 chapter: 146
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 2469"
-generated_at: "2026-03-30T00:46:04.726Z"
+generated_at: "2026-03-30T00:50:18.333Z"
 ---
 
 # § 2469. Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition

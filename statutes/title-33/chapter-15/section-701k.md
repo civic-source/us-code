@@ -3,9 +3,9 @@ title: "Section 701k - Crediting reimbursements for lost, stolen, or damaged pro
 usc_title: 33
 usc_section: "701k"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 701k"
-generated_at: "2026-03-30T00:47:56.682Z"
+generated_at: "2026-03-30T00:52:16.552Z"
 ---
 
 # § 701k. Crediting reimbursements for lost, stolen, or damaged property

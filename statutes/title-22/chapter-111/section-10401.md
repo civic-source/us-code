@@ -3,9 +3,9 @@ title: "Section 10401 - Definitions"
 usc_title: 22
 usc_section: "10401"
 chapter: 111
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 10401"
-generated_at: "2026-03-30T00:47:22.653Z"
+generated_at: "2026-03-30T00:51:06.728Z"
 ---
 
 # § 10401. Definitions

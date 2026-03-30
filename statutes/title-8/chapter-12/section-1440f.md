@@ -3,9 +3,9 @@ title: "Section 1440f - Fingerprints and other biometric information for members
 usc_title: 8
 usc_section: "1440f"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1440f"
-generated_at: "2026-03-30T00:45:45.488Z"
+generated_at: "2026-03-30T00:50:13.231Z"
 ---
 
 # § 1440f. Fingerprints and other biometric information for members of the United States Armed Forces

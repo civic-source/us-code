@@ -3,9 +3,9 @@ title: "Section 1453 - Election of plan status"
 usc_title: 29
 usc_section: "1453"
 chapter: 18
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 1453"
-generated_at: "2026-03-30T00:47:42.010Z"
+generated_at: "2026-03-30T00:51:10.860Z"
 ---
 
 # § 1453. Election of plan status

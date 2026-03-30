@@ -3,9 +3,9 @@ title: "Section 5 - Bringing in additional parties"
 usc_title: 15
 usc_section: "5"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 5"
-generated_at: "2026-03-30T00:46:25.532Z"
+generated_at: "2026-03-30T00:50:37.986Z"
 ---
 
 # § 5. Bringing in additional parties

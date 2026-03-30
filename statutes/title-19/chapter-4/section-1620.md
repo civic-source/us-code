@@ -3,9 +3,9 @@ title: "Section 1620 - Acceptance of money by United States officers 1 1 See Cod
 usc_title: 19
 usc_section: "1620"
 chapter: 4
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "19 U.S.C. § 1620"
-generated_at: "2026-03-30T00:46:50.679Z"
+generated_at: "2026-03-30T00:50:42.615Z"
 ---
 
 # § 1620. Acceptance of money by United States officers 1 1 See Codification note below.

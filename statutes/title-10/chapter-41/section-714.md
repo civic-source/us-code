@@ -3,9 +3,9 @@ title: "Section 714 - Senior leaders of the Department of Defense and other spec
 usc_title: 10
 usc_section: "714"
 chapter: 41
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 714"
-generated_at: "2026-03-30T00:46:04.660Z"
+generated_at: "2026-03-30T00:50:18.272Z"
 ---
 
 # § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States

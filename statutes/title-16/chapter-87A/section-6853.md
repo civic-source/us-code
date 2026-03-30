@@ -3,9 +3,9 @@ title: "Section 6853 - Digitization and publication of easements"
 usc_title: 16
 usc_section: "6853"
 chapter: 87
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 6853"
-generated_at: "2026-03-30T00:46:53.472Z"
+generated_at: "2026-03-30T00:50:47.539Z"
 ---
 
 # § 6853. Digitization and publication of easements

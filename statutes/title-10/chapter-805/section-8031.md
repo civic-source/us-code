@@ -3,9 +3,9 @@ title: "Section 8031 - Office of the Chief of Naval Operations: function; compos
 usc_title: 10
 usc_section: "8031"
 chapter: 805
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8031"
-generated_at: "2026-03-30T00:46:04.777Z"
+generated_at: "2026-03-30T00:50:18.393Z"
 ---
 
 # § 8031. Office of the Chief of Naval Operations: function; composition

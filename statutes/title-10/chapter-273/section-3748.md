@@ -3,9 +3,9 @@ title: "Section 3748 - Penalties for submission of cost known as not allowable"
 usc_title: 10
 usc_section: "3748"
 chapter: 273
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 3748"
-generated_at: "2026-03-30T00:46:04.754Z"
+generated_at: "2026-03-30T00:50:18.367Z"
 ---
 
 # § 3748. Penalties for submission of cost known as not allowable

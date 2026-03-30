@@ -3,9 +3,9 @@ title: "Section 5346 - Transition oversight"
 usc_title: 12
 usc_section: "5346"
 chapter: 53
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 5346"
-generated_at: "2026-03-30T00:46:42.513Z"
+generated_at: "2026-03-30T00:50:34.983Z"
 ---
 
 # § 5346. Transition oversight

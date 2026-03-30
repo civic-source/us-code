@@ -3,9 +3,9 @@ title: "Section 265 - Insured banks as depositaries of public money; duties; sec
 usc_title: 12
 usc_section: "265"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 265"
-generated_at: "2026-03-30T00:46:42.347Z"
+generated_at: "2026-03-30T00:50:34.834Z"
 ---
 
 # § 265. Insured banks as depositaries of public money; duties; security; discrimination between banks prohibited; repeal of inconsistent laws

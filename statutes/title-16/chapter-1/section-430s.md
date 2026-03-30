@@ -3,9 +3,9 @@ title: "Section 430s - Authorization of appropriations"
 usc_title: 16
 usc_section: "430s"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 430s"
-generated_at: "2026-03-30T00:46:53.269Z"
+generated_at: "2026-03-30T00:50:47.340Z"
 ---
 
 # § 430s. Authorization of appropriations

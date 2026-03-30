@@ -3,9 +3,9 @@ title: "Section 18 - Suspension of importation of adulterated articles"
 usc_title: 21
 usc_section: "18"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 18"
-generated_at: "2026-03-30T00:47:24.901Z"
+generated_at: "2026-03-30T00:51:00.055Z"
 ---
 
 # § 18. Suspension of importation of adulterated articles

@@ -3,9 +3,9 @@ title: "Section 114 - Maintenance of price comparison tool"
 usc_title: 42
 usc_section: "114"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 114"
-generated_at: "2026-03-30T00:49:18.294Z"
+generated_at: "2026-03-30T00:54:16.111Z"
 ---
 
 # § 300gg–114. Maintenance of price comparison tool

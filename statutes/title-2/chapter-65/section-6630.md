@@ -3,9 +3,9 @@ title: "Section 6630 - Disposal of used or surplus furniture and equipment by Se
 usc_title: 2
 usc_section: "6630"
 chapter: 65
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 6630"
-generated_at: "2026-03-30T00:45:29.266Z"
+generated_at: "2026-03-30T00:49:45.917Z"
 ---
 
 # § 6630. Disposal of used or surplus furniture and equipment by Sergeant at Arms and Doorkeeper of Senate; procedure; deposit of receipts

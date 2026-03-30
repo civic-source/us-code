@@ -3,9 +3,9 @@ title: "Section 3175 - Acceptance of gifts of property"
 usc_title: 40
 usc_section: "3175"
 chapter: 31
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "40 U.S.C. § 3175"
-generated_at: "2026-03-30T00:48:09.839Z"
+generated_at: "2026-03-30T00:52:37.435Z"
 ---
 
 # § 3175. Acceptance of gifts of property

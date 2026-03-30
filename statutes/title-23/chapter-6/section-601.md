@@ -3,9 +3,9 @@ title: "Section 601 - Generally applicable provisions"
 usc_title: 23
 usc_section: "601"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "23 U.S.C. § 601"
-generated_at: "2026-03-30T00:47:11.785Z"
+generated_at: "2026-03-30T00:51:03.514Z"
 ---
 
 # § 601. Generally applicable provisions

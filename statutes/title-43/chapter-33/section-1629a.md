@@ -3,9 +3,9 @@ title: "Section 1629a - Relinquishment by NANA Regional Corporation, Inc., of la
 usc_title: 43
 usc_section: "1629a"
 chapter: 33
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 1629a"
-generated_at: "2026-03-30T00:48:34.249Z"
+generated_at: "2026-03-30T00:52:57.040Z"
 ---
 
 # § 1629a. Relinquishment by NANA Regional Corporation, Inc., of lands compact and contiguous to public lands in Cape Krusenstern National Monument

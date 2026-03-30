@@ -3,9 +3,9 @@ title: "Section 7707 - Advanced National Seismic System"
 usc_title: 42
 usc_section: "7707"
 chapter: 86
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7707"
-generated_at: "2026-03-30T00:49:18.800Z"
+generated_at: "2026-03-30T00:54:16.591Z"
 ---
 
 # § 7707. Advanced National Seismic System

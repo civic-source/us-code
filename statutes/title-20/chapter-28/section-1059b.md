@@ -3,9 +3,9 @@ title: "Section 1059b - Goals for financial management and academic program"
 usc_title: 20
 usc_section: "1059b"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 1059b"
-generated_at: "2026-03-30T00:46:49.193Z"
+generated_at: "2026-03-30T00:50:54.005Z"
 ---
 
 # § 1059b. Goals for financial management and academic program

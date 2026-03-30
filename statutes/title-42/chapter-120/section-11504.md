@@ -3,9 +3,9 @@ title: "Section 11504 - Waiver or modification of housing and community developm
 usc_title: 42
 usc_section: "11504"
 chapter: 120
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 11504"
-generated_at: "2026-03-30T00:49:18.889Z"
+generated_at: "2026-03-30T00:54:16.664Z"
 ---
 
 # § 11504. Waiver or modification of housing and community development rules in enterprise zones

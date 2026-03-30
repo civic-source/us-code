@@ -3,9 +3,9 @@ title: "Section 2305 - Powers of Atomic Energy Commission"
 usc_title: 42
 usc_section: "2305"
 chapter: 24
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 2305"
-generated_at: "2026-03-30T00:49:18.617Z"
+generated_at: "2026-03-30T00:54:16.423Z"
 ---
 
 # § 2305. Powers of Atomic Energy Commission

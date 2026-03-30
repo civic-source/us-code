@@ -3,9 +3,9 @@ title: "Section 276m - United States Delegation to Parliamentary Assembly of Con
 usc_title: 22
 usc_section: "276m"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 276m"
-generated_at: "2026-03-30T00:47:22.456Z"
+generated_at: "2026-03-30T00:51:06.554Z"
 ---
 
 # § 276m. United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)

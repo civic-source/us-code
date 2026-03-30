@@ -3,9 +3,9 @@ title: "Section 7505a - Maintenance plans"
 usc_title: 42
 usc_section: "7505a"
 chapter: 85
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7505a"
-generated_at: "2026-03-30T00:49:18.772Z"
+generated_at: "2026-03-30T00:54:16.565Z"
 ---
 
 # § 7505a. Maintenance plans

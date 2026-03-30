@@ -3,9 +3,9 @@ title: "Section 375 - Patent issued on international application: Effect"
 usc_title: 35
 usc_section: "375"
 chapter: 37
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "35 U.S.C. § 375"
-generated_at: "2026-03-30T00:47:50.862Z"
+generated_at: "2026-03-30T00:51:58.864Z"
 ---
 
 # § 375. Patent issued on international application: Effect

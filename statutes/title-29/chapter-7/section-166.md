@@ -3,9 +3,9 @@ title: "Section 166 - Separability"
 usc_title: 29
 usc_section: "166"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 166"
-generated_at: "2026-03-30T00:47:41.952Z"
+generated_at: "2026-03-30T00:51:10.786Z"
 ---
 
 # § 166. Separability

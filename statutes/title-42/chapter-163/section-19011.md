@@ -3,9 +3,9 @@ title: "Section 19011 - Robert Noyce Teacher Scholarship program update"
 usc_title: 42
 usc_section: "19011"
 chapter: 163
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 19011"
-generated_at: "2026-03-30T00:49:19.043Z"
+generated_at: "2026-03-30T00:54:16.795Z"
 ---
 
 # § 19011. Robert Noyce Teacher Scholarship program update

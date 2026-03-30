@@ -3,9 +3,9 @@ title: "Section 4809 - “Plain language” requirement for Federal banking agen
 usc_title: 12
 usc_section: "4809"
 chapter: 48
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 4809"
-generated_at: "2026-03-30T00:46:42.501Z"
+generated_at: "2026-03-30T00:50:34.974Z"
 ---
 
 # § 4809. “Plain language” requirement for Federal banking agency rules

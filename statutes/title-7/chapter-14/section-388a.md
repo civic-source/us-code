@@ -3,9 +3,9 @@ title: "Section 388a - Authorization of appropriations"
 usc_title: 7
 usc_section: "388a"
 chapter: 14
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "7 U.S.C. § 388a"
-generated_at: "2026-03-30T00:45:50.768Z"
+generated_at: "2026-03-30T00:50:27.587Z"
 ---
 
 # § 388a. Authorization of appropriations

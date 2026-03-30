@@ -3,9 +3,9 @@ title: "Section 10352 - Other requirements"
 usc_title: 34
 usc_section: "10352"
 chapter: 101
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "34 U.S.C. § 10352"
-generated_at: "2026-03-30T00:47:53.087Z"
+generated_at: "2026-03-30T00:52:15.433Z"
 ---
 
 # § 10352. Other requirements

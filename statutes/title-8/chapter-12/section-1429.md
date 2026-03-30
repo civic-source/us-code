@@ -3,9 +3,9 @@ title: "Section 1429 - Prerequisite to naturalization; burden of proof"
 usc_title: 8
 usc_section: "1429"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "8 U.S.C. § 1429"
-generated_at: "2026-03-30T00:45:45.487Z"
+generated_at: "2026-03-30T00:50:13.229Z"
 ---
 
 # § 1429. Prerequisite to naturalization; burden of proof

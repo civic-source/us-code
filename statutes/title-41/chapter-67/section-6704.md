@@ -3,9 +3,9 @@ title: "Section 6704 - Limitation on minimum wage"
 usc_title: 41
 usc_section: "6704"
 chapter: 67
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "41 U.S.C. § 6704"
-generated_at: "2026-03-30T00:48:25.264Z"
+generated_at: "2026-03-30T00:52:58.763Z"
 ---
 
 # § 6704. Limitation on minimum wage

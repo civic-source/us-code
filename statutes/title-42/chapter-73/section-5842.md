@@ -3,9 +3,9 @@ title: "Section 5842 - Licensing and related regulatory functions respecting sel
 usc_title: 42
 usc_section: "5842"
 chapter: 73
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 5842"
-generated_at: "2026-03-30T00:49:18.710Z"
+generated_at: "2026-03-30T00:54:16.499Z"
 ---
 
 # § 5842. Licensing and related regulatory functions respecting selected Administration facilities

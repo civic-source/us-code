@@ -3,9 +3,9 @@ title: "Section 7383d - Transferred"
 usc_title: 42
 usc_section: "7383d"
 chapter: 84
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7383d"
-generated_at: "2026-03-30T00:49:18.758Z"
+generated_at: "2026-03-30T00:54:16.550Z"
 ---
 
 # §§ 7383a to 7383d. Transferred

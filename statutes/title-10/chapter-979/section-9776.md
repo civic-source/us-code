@@ -3,9 +3,9 @@ title: "Section 9776 - Emergency construction: fortifications"
 usc_title: 10
 usc_section: "9776"
 chapter: 979
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 9776"
-generated_at: "2026-03-30T00:46:04.797Z"
+generated_at: "2026-03-30T00:50:18.413Z"
 ---
 
 # § 9776. Emergency construction: fortifications

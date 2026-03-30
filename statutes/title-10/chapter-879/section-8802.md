@@ -3,9 +3,9 @@ title: "Section 8802 - Sales: members of Army, Air Force, and Space Force; price
 usc_title: 10
 usc_section: "8802"
 chapter: 879
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8802"
-generated_at: "2026-03-30T00:46:04.788Z"
+generated_at: "2026-03-30T00:50:18.404Z"
 ---
 
 # § 8802. Sales: members of Army, Air Force, and Space Force; prices

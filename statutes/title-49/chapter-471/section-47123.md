@@ -3,9 +3,9 @@ title: "Section 47123 - Nondiscrimination"
 usc_title: 49
 usc_section: "47123"
 chapter: 471
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "49 U.S.C. § 47123"
-generated_at: "2026-03-30T00:49:28.321Z"
+generated_at: "2026-03-30T00:54:59.888Z"
 ---
 
 # § 47123. Nondiscrimination

@@ -3,9 +3,9 @@ title: "Section 170101 - Organization"
 usc_title: 36
 usc_section: "170101"
 chapter: 1701
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "36 U.S.C. § 170101"
-generated_at: "2026-03-30T00:48:05.183Z"
+generated_at: "2026-03-30T00:52:43.091Z"
 ---
 
 # § 170101. Organization

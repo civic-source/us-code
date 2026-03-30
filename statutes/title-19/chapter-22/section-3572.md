@@ -3,9 +3,9 @@ title: "Section 3572 - Review of Subsidies Agreement"
 usc_title: 19
 usc_section: "3572"
 chapter: 22
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "19 U.S.C. § 3572"
-generated_at: "2026-03-30T00:46:50.720Z"
+generated_at: "2026-03-30T00:50:42.654Z"
 ---
 
 # § 3572. Review of Subsidies Agreement

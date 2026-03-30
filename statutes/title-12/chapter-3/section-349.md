@@ -3,9 +3,9 @@ title: "Section 349 - Rediscount for intermediate credit banks of obligations gi
 usc_title: 12
 usc_section: "349"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 349"
-generated_at: "2026-03-30T00:46:42.350Z"
+generated_at: "2026-03-30T00:50:34.836Z"
 ---
 
 # § 349. Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031

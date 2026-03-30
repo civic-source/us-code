@@ -3,9 +3,9 @@ title: "Section 7508 - Guidance documents"
 usc_title: 42
 usc_section: "7508"
 chapter: 85
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 7508"
-generated_at: "2026-03-30T00:49:18.773Z"
+generated_at: "2026-03-30T00:54:16.566Z"
 ---
 
 # § 7508. Guidance documents

@@ -3,9 +3,9 @@ title: "Section 4545 - Fair housing"
 usc_title: 12
 usc_section: "4545"
 chapter: 46
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 4545"
-generated_at: "2026-03-30T00:46:42.488Z"
+generated_at: "2026-03-30T00:50:34.963Z"
 ---
 
 # § 4545. Fair housing

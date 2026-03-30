@@ -3,9 +3,9 @@ title: "Section 581 - Judicial Review 1 1 So in original. Probably should not be
 usc_title: 5
 usc_section: "581"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "5 U.S.C. § 581"
-generated_at: "2026-03-30T00:45:37.281Z"
+generated_at: "2026-03-30T00:50:05.841Z"
 ---
 
 # § 581. Judicial Review 1 1 So in original. Probably should not be capitalized.

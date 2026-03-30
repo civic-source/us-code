@@ -3,9 +3,9 @@ title: "Section 725 - State Rehabilitation Council"
 usc_title: 29
 usc_section: "725"
 chapter: 16
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 725"
-generated_at: "2026-03-30T00:47:41.966Z"
+generated_at: "2026-03-30T00:51:10.804Z"
 ---
 
 # § 725. State Rehabilitation Council

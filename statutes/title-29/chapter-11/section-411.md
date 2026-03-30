@@ -3,9 +3,9 @@ title: "Section 411 - Bill of rights; constitution and bylaws of labor organizat
 usc_title: 29
 usc_section: "411"
 chapter: 11
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "29 U.S.C. § 411"
-generated_at: "2026-03-30T00:47:41.957Z"
+generated_at: "2026-03-30T00:51:10.792Z"
 ---
 
 # § 411. Bill of rights; constitution and bylaws of labor organizations

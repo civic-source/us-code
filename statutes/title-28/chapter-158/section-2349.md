@@ -3,9 +3,9 @@ title: "Section 2349 - Jurisdiction of the proceeding"
 usc_title: 28
 usc_section: "2349"
 chapter: 158
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "28 U.S.C. § 2349"
-generated_at: "2026-03-30T00:47:29.028Z"
+generated_at: "2026-03-30T00:51:17.711Z"
 ---
 
 # § 2349. Jurisdiction of the proceeding

@@ -3,9 +3,9 @@ title: "Section 1076 - Medical and dental care for dependents: general rule"
 usc_title: 10
 usc_section: "1076"
 chapter: 55
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1076"
-generated_at: "2026-03-30T00:46:04.682Z"
+generated_at: "2026-03-30T00:50:18.290Z"
 ---
 
 # § 1076. Medical and dental care for dependents: general rule

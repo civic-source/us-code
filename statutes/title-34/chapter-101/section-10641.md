@@ -3,9 +3,9 @@ title: "Section 10641 - Grant authority"
 usc_title: 34
 usc_section: "10641"
 chapter: 101
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "34 U.S.C. § 10641"
-generated_at: "2026-03-30T00:47:53.094Z"
+generated_at: "2026-03-30T00:52:15.444Z"
 ---
 
 # § 10641. Grant authority

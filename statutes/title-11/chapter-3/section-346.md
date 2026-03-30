@@ -3,9 +3,9 @@ title: "Section 346 - Special provisions related to the treatment of State and l
 usc_title: 11
 usc_section: "346"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "11 U.S.C. § 346"
-generated_at: "2026-03-30T00:46:14.830Z"
+generated_at: "2026-03-30T00:50:32.267Z"
 ---
 
 # § 346. Special provisions related to the treatment of State and local taxes

@@ -3,9 +3,9 @@ title: "Section 5223 - Minimization of long-term costs and maximization of benef
 usc_title: 12
 usc_section: "5223"
 chapter: 52
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 5223"
-generated_at: "2026-03-30T00:46:42.507Z"
+generated_at: "2026-03-30T00:50:34.979Z"
 ---
 
 # § 5223. Minimization of long-term costs and maximization of benefits for taxpayers

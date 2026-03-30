@@ -3,9 +3,9 @@ title: "Section 4318 - Employee pension benefit plans"
 usc_title: 38
 usc_section: "4318"
 chapter: 43
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 4318"
-generated_at: "2026-03-30T00:48:21.102Z"
+generated_at: "2026-03-30T00:52:53.590Z"
 ---
 
 # § 4318. Employee pension benefit plans

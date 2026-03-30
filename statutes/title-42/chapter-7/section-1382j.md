@@ -3,9 +3,9 @@ title: "Section 1382j - Attribution of sponsor’s income and resources to alien
 usc_title: 42
 usc_section: "1382j"
 chapter: 7
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 1382j"
-generated_at: "2026-03-30T00:49:18.390Z"
+generated_at: "2026-03-30T00:54:16.199Z"
 ---
 
 # § 1382j. Attribution of sponsor’s income and resources to aliens

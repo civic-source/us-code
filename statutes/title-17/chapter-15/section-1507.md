@@ -3,9 +3,9 @@ title: "Section 1507 - Effect of proceeding"
 usc_title: 17
 usc_section: "1507"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "17 U.S.C. § 1507"
-generated_at: "2026-03-30T00:46:49.555Z"
+generated_at: "2026-03-30T00:50:44.713Z"
 ---
 
 # § 1507. Effect of proceeding

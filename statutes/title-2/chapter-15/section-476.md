@@ -3,9 +3,9 @@ title: "Section 476 - Technology Assessment Advisory Council"
 usc_title: 2
 usc_section: "476"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 476"
-generated_at: "2026-03-30T00:45:29.225Z"
+generated_at: "2026-03-30T00:49:45.874Z"
 ---
 
 # § 476. Technology Assessment Advisory Council

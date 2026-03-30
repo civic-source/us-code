@@ -3,9 +3,9 @@ title: "Section 1636 - Alaska land bank"
 usc_title: 43
 usc_section: "1636"
 chapter: 33
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 1636"
-generated_at: "2026-03-30T00:48:34.272Z"
+generated_at: "2026-03-30T00:52:57.043Z"
 ---
 
 # § 1636. Alaska land bank

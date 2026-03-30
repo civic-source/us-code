@@ -3,9 +3,9 @@ title: "Section 41 - Intersecting or crossing veins"
 usc_title: 30
 usc_section: "41"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "30 U.S.C. § 41"
-generated_at: "2026-03-30T00:47:30.509Z"
+generated_at: "2026-03-30T00:51:28.002Z"
 ---
 
 # § 41. Intersecting or crossing veins

@@ -3,9 +3,9 @@ title: "Section 7215 - Offenses with respect to collected taxes"
 usc_title: 26
 usc_section: "7215"
 chapter: 75
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 7215"
-generated_at: "2026-03-30T00:47:39.548Z"
+generated_at: "2026-03-30T00:51:51.824Z"
 ---
 
 # § 7215. Offenses with respect to collected taxes

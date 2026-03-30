@@ -3,9 +3,9 @@ title: "Section 6615 - National science and technology strategy"
 usc_title: 42
 usc_section: "6615"
 chapter: 79
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 6615"
-generated_at: "2026-03-30T00:49:18.732Z"
+generated_at: "2026-03-30T00:54:16.522Z"
 ---
 
 # § 6615. National science and technology strategy

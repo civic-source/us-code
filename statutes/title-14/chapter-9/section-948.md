@@ -3,9 +3,9 @@ title: "Section 948 - Contracts for medical care for retirees, dependents, and s
 usc_title: 14
 usc_section: "948"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "14 U.S.C. § 948"
-generated_at: "2026-03-30T00:46:13.935Z"
+generated_at: "2026-03-30T00:50:30.507Z"
 ---
 
 # § 948. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care

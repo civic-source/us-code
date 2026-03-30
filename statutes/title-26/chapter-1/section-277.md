@@ -3,9 +3,9 @@ title: "Section 277 - Deductions incurred by certain membership organizations in
 usc_title: 26
 usc_section: "277"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 277"
-generated_at: "2026-03-30T00:47:39.361Z"
+generated_at: "2026-03-30T00:51:51.636Z"
 ---
 
 # § 277. Deductions incurred by certain membership organizations in transactions with members

@@ -3,9 +3,9 @@ title: "Section 3053 - Federal Trade Commission oversight"
 usc_title: 15
 usc_section: "3053"
 chapter: 57
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 3053"
-generated_at: "2026-03-30T00:46:25.708Z"
+generated_at: "2026-03-30T00:50:38.160Z"
 ---
 
 # § 3053. Federal Trade Commission oversight

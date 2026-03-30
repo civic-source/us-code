@@ -3,9 +3,9 @@ title: "Section 742c - Loans for financing or refinancing of cost of purchasing,
 usc_title: 16
 usc_section: "742c"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 742c"
-generated_at: "2026-03-30T00:46:53.349Z"
+generated_at: "2026-03-30T00:50:47.420Z"
 ---
 
 # § 742c. Loans for financing or refinancing of cost of purchasing, constructing, equipping, maintaining, repairing, or operating commercial fishing vessels or gear

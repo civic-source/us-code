@@ -3,9 +3,9 @@ title: "Section 2327 - Mandatory restitution"
 usc_title: 18
 usc_section: "2327"
 chapter: 113
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 2327"
-generated_at: "2026-03-30T00:47:06.499Z"
+generated_at: "2026-03-30T00:50:48.597Z"
 ---
 
 # § 2327. Mandatory restitution

@@ -3,9 +3,9 @@ title: "Section 6721 - Failure to file correct information returns"
 usc_title: 26
 usc_section: "6721"
 chapter: 68
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 6721"
-generated_at: "2026-03-30T00:47:39.544Z"
+generated_at: "2026-03-30T00:51:51.821Z"
 ---
 
 # § 6721. Failure to file correct information returns

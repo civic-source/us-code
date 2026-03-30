@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Aug. 17, 1954, ch. 751, § 2 , 68 Stat. 736"
 usc_title: 16
 usc_section: "5"
 chapter: 3
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 5"
-generated_at: "2026-03-30T00:46:53.334Z"
+generated_at: "2026-03-30T00:50:47.405Z"
 ---
 
 # § 590z–5. Repealed. Aug. 17, 1954, ch. 751, § 2 , 68 Stat. 736

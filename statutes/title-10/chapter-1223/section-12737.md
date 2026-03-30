@@ -3,9 +3,9 @@ title: "Section 12737 - Limitation on active duty"
 usc_title: 10
 usc_section: "12737"
 chapter: 1223
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 12737"
-generated_at: "2026-03-30T00:46:04.805Z"
+generated_at: "2026-03-30T00:50:18.421Z"
 ---
 
 # § 12737. Limitation on active duty

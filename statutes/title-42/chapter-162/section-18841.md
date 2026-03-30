@@ -3,9 +3,9 @@ title: "Section 18841 - Survey, analysis, and report on employment and demograph
 usc_title: 42
 usc_section: "18841"
 chapter: 162
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 18841"
-generated_at: "2026-03-30T00:49:19.038Z"
+generated_at: "2026-03-30T00:54:16.790Z"
 ---
 
 # § 18841. Survey, analysis, and report on employment and demographics in the energy, energy efficiency, and motor vehicle sectors of the United States

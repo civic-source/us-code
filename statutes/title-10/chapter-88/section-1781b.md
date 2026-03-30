@@ -3,9 +3,9 @@ title: "Section 1781b - Department of Defense policy and plans for military fami
 usc_title: 10
 usc_section: "1781b"
 chapter: 88
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1781b"
-generated_at: "2026-03-30T00:46:04.710Z"
+generated_at: "2026-03-30T00:50:18.316Z"
 ---
 
 # § 1781b. Department of Defense policy and plans for military family readiness

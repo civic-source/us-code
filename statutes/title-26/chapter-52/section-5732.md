@@ -3,9 +3,9 @@ title: "Section 5732 - Payment of tax"
 usc_title: 26
 usc_section: "5732"
 chapter: 52
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 5732"
-generated_at: "2026-03-30T00:47:39.509Z"
+generated_at: "2026-03-30T00:51:51.784Z"
 ---
 
 # § 5732. Payment of tax

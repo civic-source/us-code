@@ -3,9 +3,9 @@ title: "Section 3737 - Additional authorities and increased flexibility to provi
 usc_title: 19
 usc_section: "3737"
 chapter: 23
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "19 U.S.C. § 3737"
-generated_at: "2026-03-30T00:46:50.722Z"
+generated_at: "2026-03-30T00:50:42.656Z"
 ---
 
 # § 3737. Additional authorities and increased flexibility to provide assistance under the Development Fund for Africa

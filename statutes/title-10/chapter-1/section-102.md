@@ -3,9 +3,9 @@ title: "Section 102 - Effect of certain amendments on conforming changes to tabl
 usc_title: 10
 usc_section: "102"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 102"
-generated_at: "2026-03-30T00:46:04.626Z"
+generated_at: "2026-03-30T00:50:18.238Z"
 ---
 
 # § 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries

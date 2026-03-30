@@ -3,9 +3,9 @@ title: "Section 4125 - Functions of Defense research facilities"
 usc_title: 10
 usc_section: "4125"
 chapter: 303
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 4125"
-generated_at: "2026-03-30T00:46:04.758Z"
+generated_at: "2026-03-30T00:50:18.372Z"
 ---
 
 # § 4125. Functions of Defense research facilities

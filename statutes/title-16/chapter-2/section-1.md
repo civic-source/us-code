@@ -3,9 +3,9 @@ title: "Section 1 - Maps and boundary descriptions"
 usc_title: 16
 usc_section: "1"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T00:46:53.326Z"
+generated_at: "2026-03-30T00:50:47.398Z"
 ---
 
 # § 546b–1. Maps and boundary descriptions

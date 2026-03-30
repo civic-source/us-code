@@ -3,9 +3,9 @@ title: "Section 7441 - Status"
 usc_title: 26
 usc_section: "7441"
 chapter: 76
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 7441"
-generated_at: "2026-03-30T00:47:39.551Z"
+generated_at: "2026-03-30T00:51:51.828Z"
 ---
 
 # § 7441. Status

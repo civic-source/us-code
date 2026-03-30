@@ -3,9 +3,9 @@ title: "Section 894 - Collection of extensions of credit by extortionate means"
 usc_title: 18
 usc_section: "894"
 chapter: 42
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 894"
-generated_at: "2026-03-30T00:47:06.473Z"
+generated_at: "2026-03-30T00:50:48.569Z"
 ---
 
 # § 894. Collection of extensions of credit by extortionate means

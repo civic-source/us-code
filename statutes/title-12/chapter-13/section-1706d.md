@@ -3,9 +3,9 @@ title: "Section 1706d - Applicability"
 usc_title: 12
 usc_section: "1706d"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 1706d"
-generated_at: "2026-03-30T00:46:42.382Z"
+generated_at: "2026-03-30T00:50:34.866Z"
 ---
 
 # § 1706d. Applicability

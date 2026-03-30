@@ -3,9 +3,9 @@ title: "Section 8812 - National Quantum Coordination Office"
 usc_title: 15
 usc_section: "8812"
 chapter: 114
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 8812"
-generated_at: "2026-03-30T00:46:25.758Z"
+generated_at: "2026-03-30T00:50:38.210Z"
 ---
 
 # § 8812. National Quantum Coordination Office

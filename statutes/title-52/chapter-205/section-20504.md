@@ -3,9 +3,9 @@ title: "Section 20504 - Simultaneous application for voter registration and appl
 usc_title: 52
 usc_section: "20504"
 chapter: 205
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "52 U.S.C. § 20504"
-generated_at: "2026-03-30T00:49:30.402Z"
+generated_at: "2026-03-30T00:55:11.580Z"
 ---
 
 # § 20504. Simultaneous application for voter registration and application for motor vehicle driver’s license

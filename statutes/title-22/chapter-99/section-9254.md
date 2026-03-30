@@ -3,9 +3,9 @@ title: "Section 9254 - Rulemaking"
 usc_title: 22
 usc_section: "9254"
 chapter: 99
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 9254"
-generated_at: "2026-03-30T00:47:22.643Z"
+generated_at: "2026-03-30T00:51:06.717Z"
 ---
 
 # § 9254. Rulemaking

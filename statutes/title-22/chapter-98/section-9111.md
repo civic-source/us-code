@@ -3,9 +3,9 @@ title: "Section 9111 - Annual Report"
 usc_title: 22
 usc_section: "9111"
 chapter: 98
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 9111"
-generated_at: "2026-03-30T00:47:22.640Z"
+generated_at: "2026-03-30T00:51:06.714Z"
 ---
 
 # § 9111. Annual Report

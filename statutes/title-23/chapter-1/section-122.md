@@ -3,9 +3,9 @@ title: "Section 122 - Payments to States for bond and other debt instrument fina
 usc_title: 23
 usc_section: "122"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "23 U.S.C. § 122"
-generated_at: "2026-03-30T00:47:11.762Z"
+generated_at: "2026-03-30T00:51:03.489Z"
 ---
 
 # § 122. Payments to States for bond and other debt instrument financing

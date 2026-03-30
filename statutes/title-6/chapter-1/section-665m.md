@@ -3,9 +3,9 @@ title: "Section 665m - President’s Cup Cybersecurity Competition"
 usc_title: 6
 usc_section: "665m"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "6 U.S.C. § 665m"
-generated_at: "2026-03-30T00:45:43.609Z"
+generated_at: "2026-03-30T00:50:08.619Z"
 ---
 
 # § 665m. President’s Cup Cybersecurity Competition

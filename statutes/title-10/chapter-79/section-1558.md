@@ -3,9 +3,9 @@ title: "Section 1558 - Review of actions of selection boards: correction of mili
 usc_title: 10
 usc_section: "1558"
 chapter: 79
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1558"
-generated_at: "2026-03-30T00:46:04.703Z"
+generated_at: "2026-03-30T00:50:18.311Z"
 ---
 
 # § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review

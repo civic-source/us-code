@@ -3,9 +3,9 @@ title: "Section 1009 - Advisory committee procedures"
 usc_title: 5
 usc_section: "1009"
 chapter: 10
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "5 U.S.C. § 1009"
-generated_at: "2026-03-30T00:45:37.284Z"
+generated_at: "2026-03-30T00:50:05.844Z"
 ---
 
 # § 1009. Advisory committee procedures

@@ -3,9 +3,9 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-30T00:46:50.710Z"
+generated_at: "2026-03-30T00:50:42.644Z"
 ---
 
 # § 2703. Eligible articles

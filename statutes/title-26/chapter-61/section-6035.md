@@ -3,9 +3,9 @@ title: "Section 6035 - Basis information to persons acquiring property from dece
 usc_title: 26
 usc_section: "6035"
 chapter: 61
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 6035"
-generated_at: "2026-03-30T00:47:39.513Z"
+generated_at: "2026-03-30T00:51:51.788Z"
 ---
 
 # § 6035. Basis information to persons acquiring property from decedent

@@ -3,9 +3,9 @@ title: "Section 13 - Prohibition of requirement of minimum principal loan amount
 usc_title: 12
 usc_section: "13"
 chapter: 13
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 13"
-generated_at: "2026-03-30T00:46:42.403Z"
+generated_at: "2026-03-30T00:50:34.885Z"
 ---
 
 # § 1735f–13. Prohibition of requirement of minimum principal loan amount

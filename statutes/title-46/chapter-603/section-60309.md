@@ -3,9 +3,9 @@ title: "Section 60309 - Passenger vessels making trips between ports of the Unit
 usc_title: 46
 usc_section: "60309"
 chapter: 603
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 60309"
-generated_at: "2026-03-30T00:49:23.422Z"
+generated_at: "2026-03-30T00:54:22.110Z"
 ---
 
 # § 60309. Passenger vessels making trips between ports of the United States and foreign ports

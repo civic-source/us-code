@@ -3,9 +3,9 @@ title: "Section 98 - Transferred"
 usc_title: 21
 usc_section: "98"
 chapter: 4
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 98"
-generated_at: "2026-03-30T00:47:24.901Z"
+generated_at: "2026-03-30T00:51:00.056Z"
 ---
 
 # § 98. Transferred

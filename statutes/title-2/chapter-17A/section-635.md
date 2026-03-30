@@ -3,9 +3,9 @@ title: "Section 635 - Permissible revisions of concurrent resolutions on the bud
 usc_title: 2
 usc_section: "635"
 chapter: 17
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 635"
-generated_at: "2026-03-30T00:45:29.227Z"
+generated_at: "2026-03-30T00:49:45.877Z"
 ---
 
 # § 635. Permissible revisions of concurrent resolutions on the budget

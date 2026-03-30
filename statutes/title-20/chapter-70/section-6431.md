@@ -3,9 +3,9 @@ title: "Section 6431 - Eligibility"
 usc_title: 20
 usc_section: "6431"
 chapter: 70
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 6431"
-generated_at: "2026-03-30T00:46:49.290Z"
+generated_at: "2026-03-30T00:50:54.101Z"
 ---
 
 # § 6431. Eligibility

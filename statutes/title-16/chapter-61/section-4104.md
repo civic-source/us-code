@@ -3,9 +3,9 @@ title: "Section 4104 - State projects"
 usc_title: 16
 usc_section: "4104"
 chapter: 61
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 4104"
-generated_at: "2026-03-30T00:46:53.452Z"
+generated_at: "2026-03-30T00:50:47.520Z"
 ---
 
 # § 4104. State projects

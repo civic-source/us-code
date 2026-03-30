@@ -3,9 +3,9 @@ title: "Section 376 - Oaths in investigations"
 usc_title: 25
 usc_section: "376"
 chapter: 10
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "25 U.S.C. § 376"
-generated_at: "2026-03-30T00:47:11.177Z"
+generated_at: "2026-03-30T00:50:58.542Z"
 ---
 
 # § 376. Oaths in investigations

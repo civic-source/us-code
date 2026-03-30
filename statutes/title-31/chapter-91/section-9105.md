@@ -3,9 +3,9 @@ title: "Section 9105 - Audits"
 usc_title: 31
 usc_section: "9105"
 chapter: 91
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "31 U.S.C. § 9105"
-generated_at: "2026-03-30T00:47:46.397Z"
+generated_at: "2026-03-30T00:52:25.410Z"
 ---
 
 # § 9105. Audits

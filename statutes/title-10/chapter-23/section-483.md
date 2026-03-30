@@ -3,9 +3,9 @@ title: "Section 483 - Notifications related to basing decision-making process"
 usc_title: 10
 usc_section: "483"
 chapter: 23
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 483"
-generated_at: "2026-03-30T00:46:04.649Z"
+generated_at: "2026-03-30T00:50:18.260Z"
 ---
 
 # § 483. Notifications related to basing decision-making process

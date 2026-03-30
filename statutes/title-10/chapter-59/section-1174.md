@@ -3,9 +3,9 @@ title: "Section 1174 - Separation pay upon involuntary discharge or release from
 usc_title: 10
 usc_section: "1174"
 chapter: 59
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 1174"
-generated_at: "2026-03-30T00:46:04.690Z"
+generated_at: "2026-03-30T00:50:18.298Z"
 ---
 
 # § 1174. Separation pay upon involuntary discharge or release from active duty

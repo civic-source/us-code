@@ -3,9 +3,9 @@ title: "Section 11320 - Encouragement of State involvement"
 usc_title: 42
 usc_section: "11320"
 chapter: 119
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 11320"
-generated_at: "2026-03-30T00:49:18.882Z"
+generated_at: "2026-03-30T00:54:16.658Z"
 ---
 
 # § 11320. Encouragement of State involvement

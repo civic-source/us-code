@@ -3,9 +3,9 @@ title: "Section 741 - Rank: commissioned officers of the armed forces"
 usc_title: 10
 usc_section: "741"
 chapter: 43
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 741"
-generated_at: "2026-03-30T00:46:04.661Z"
+generated_at: "2026-03-30T00:50:18.272Z"
 ---
 
 # § 741. Rank: commissioned officers of the armed forces

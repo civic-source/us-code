@@ -3,9 +3,9 @@ title: "Section 77rrr - Effect of prescribed indenture provisions"
 usc_title: 15
 usc_section: "77rrr"
 chapter: 2
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 77rrr"
-generated_at: "2026-03-30T00:46:25.550Z"
+generated_at: "2026-03-30T00:50:38.003Z"
 ---
 
 # § 77rrr. Effect of prescribed indenture provisions

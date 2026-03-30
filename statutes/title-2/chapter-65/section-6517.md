@@ -3,9 +3,9 @@ title: "Section 6517 - Receipts from sale of used or surplus furniture and furni
 usc_title: 2
 usc_section: "6517"
 chapter: 65
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 6517"
-generated_at: "2026-03-30T00:45:29.264Z"
+generated_at: "2026-03-30T00:49:45.915Z"
 ---
 
 # § 6517. Receipts from sale of used or surplus furniture and furnishings of Senate

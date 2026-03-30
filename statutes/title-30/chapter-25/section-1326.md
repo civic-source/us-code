@@ -3,9 +3,9 @@ title: "Section 1326 - Fellowship conditions"
 usc_title: 30
 usc_section: "1326"
 chapter: 25
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "30 U.S.C. § 1326"
-generated_at: "2026-03-30T00:47:30.539Z"
+generated_at: "2026-03-30T00:51:28.030Z"
 ---
 
 # § 1326. Fellowship conditions

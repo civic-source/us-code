@@ -3,9 +3,9 @@ title: "Section 153 - Control of library of House of Representatives"
 usc_title: 2
 usc_section: "153"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 153"
-generated_at: "2026-03-30T00:45:29.218Z"
+generated_at: "2026-03-30T00:49:45.866Z"
 ---
 
 # § 153. Control of library of House of Representatives

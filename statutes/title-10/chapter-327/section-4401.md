@@ -3,9 +3,9 @@ title: "Section 4401 - Requirement for modular open system approach in major def
 usc_title: 10
 usc_section: "4401"
 chapter: 327
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 4401"
-generated_at: "2026-03-30T00:46:04.762Z"
+generated_at: "2026-03-30T00:50:18.377Z"
 ---
 
 # § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions

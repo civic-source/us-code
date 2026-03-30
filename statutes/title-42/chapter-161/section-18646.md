@@ -3,9 +3,9 @@ title: "Section 18646 - Nuclear physics"
 usc_title: 42
 usc_section: "18646"
 chapter: 161
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 18646"
-generated_at: "2026-03-30T00:49:19.031Z"
+generated_at: "2026-03-30T00:54:16.783Z"
 ---
 
 # § 18646. Nuclear physics

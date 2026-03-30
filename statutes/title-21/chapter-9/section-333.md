@@ -3,9 +3,9 @@ title: "Section 333 - Penalties"
 usc_title: 21
 usc_section: "333"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 333"
-generated_at: "2026-03-30T00:47:24.904Z"
+generated_at: "2026-03-30T00:51:00.058Z"
 ---
 
 # § 333. Penalties

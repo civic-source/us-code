@@ -3,9 +3,9 @@ title: "Section 225 - Reports, evaluations, and research regarding drug interdic
 usc_title: 6
 usc_section: "225"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "6 U.S.C. § 225"
-generated_at: "2026-03-30T00:45:43.585Z"
+generated_at: "2026-03-30T00:50:08.593Z"
 ---
 
 # § 225. Reports, evaluations, and research regarding drug interdiction at and between ports of entry

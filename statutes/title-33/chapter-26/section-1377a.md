@@ -3,9 +3,9 @@ title: "Section 1377a - Green infrastructure promotion"
 usc_title: 33
 usc_section: "1377a"
 chapter: 26
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "33 U.S.C. § 1377a"
-generated_at: "2026-03-30T00:47:56.715Z"
+generated_at: "2026-03-30T00:52:16.591Z"
 ---
 
 # § 1377a. Green infrastructure promotion

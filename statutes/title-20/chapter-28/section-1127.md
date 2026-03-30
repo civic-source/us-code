@@ -3,9 +3,9 @@ title: "Section 1127 - Selection of certain grant recipients"
 usc_title: 20
 usc_section: "1127"
 chapter: 28
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "20 U.S.C. § 1127"
-generated_at: "2026-03-30T00:46:49.236Z"
+generated_at: "2026-03-30T00:50:54.046Z"
 ---
 
 # § 1127. Selection of certain grant recipients

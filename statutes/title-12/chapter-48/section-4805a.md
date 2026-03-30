@@ -3,9 +3,9 @@ title: "Section 4805a - Call report simplification"
 usc_title: 12
 usc_section: "4805a"
 chapter: 48
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "12 U.S.C. § 4805a"
-generated_at: "2026-03-30T00:46:42.501Z"
+generated_at: "2026-03-30T00:50:34.973Z"
 ---
 
 # § 4805a. Call report simplification

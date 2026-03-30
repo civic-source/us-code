@@ -3,9 +3,9 @@ title: "Section 3436 - Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Ap
 usc_title: 16
 usc_section: "3436"
 chapter: 54
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "16 U.S.C. § 3436"
-generated_at: "2026-03-30T00:46:53.435Z"
+generated_at: "2026-03-30T00:50:47.505Z"
 ---
 
 # §§ 3431 to 3436. Repealed. Pub. L. 104–127, title III, § 336(f)(1) , Apr. 4, 1996 , 110 Stat. 1007

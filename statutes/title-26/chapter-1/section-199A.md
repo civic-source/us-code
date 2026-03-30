@@ -3,9 +3,9 @@ title: "Section 199A - Qualified business income"
 usc_title: 26
 usc_section: "199A"
 chapter: 1
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "26 U.S.C. § 199A"
-generated_at: "2026-03-30T00:47:39.353Z"
+generated_at: "2026-03-30T00:51:51.628Z"
 ---
 
 # § 199A. Qualified business income

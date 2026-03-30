@@ -3,9 +3,9 @@ title: "Section 254v - Clarification regarding service in schools and other comm
 usc_title: 42
 usc_section: "254v"
 chapter: 6
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 254v"
-generated_at: "2026-03-30T00:49:18.154Z"
+generated_at: "2026-03-30T00:54:15.985Z"
 ---
 
 # § 254v. Clarification regarding service in schools and other community-based settings

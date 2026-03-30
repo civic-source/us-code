@@ -3,9 +3,9 @@ title: "Section 10314 - Advances"
 usc_title: 46
 usc_section: "10314"
 chapter: 103
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 10314"
-generated_at: "2026-03-30T00:49:23.395Z"
+generated_at: "2026-03-30T00:54:22.083Z"
 ---
 
 # § 10314. Advances

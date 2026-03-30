@@ -3,9 +3,9 @@ title: "Section 1876 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), (4), 
 usc_title: 22
 usc_section: "1876"
 chapter: 24
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 1876"
-generated_at: "2026-03-30T00:47:22.483Z"
+generated_at: "2026-03-30T00:51:06.583Z"
 ---
 
 # §§ 1870 to 1876. Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), (4), Sept. 4, 1961 , 75 Stat. 460

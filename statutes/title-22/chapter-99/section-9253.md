@@ -3,9 +3,9 @@ title: "Section 9253 - Repealed. Pub. L. 115–198, § 9 , July 20, 2018 , 132 S
 usc_title: 22
 usc_section: "9253"
 chapter: 99
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 9253"
-generated_at: "2026-03-30T00:47:22.643Z"
+generated_at: "2026-03-30T00:51:06.717Z"
 ---
 
 # § 9253. Repealed. Pub. L. 115–198, § 9 , July 20, 2018 , 132 Stat. 1525

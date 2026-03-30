@@ -3,9 +3,9 @@ title: "Section 625 - Inapplicability of certain requirements to catfish"
 usc_title: 21
 usc_section: "625"
 chapter: 12
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "21 U.S.C. § 625"
-generated_at: "2026-03-30T00:47:24.972Z"
+generated_at: "2026-03-30T00:51:00.131Z"
 ---
 
 # § 625. Inapplicability of certain requirements to catfish

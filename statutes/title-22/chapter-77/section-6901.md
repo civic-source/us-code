@@ -3,9 +3,9 @@ title: "Section 6901 - Findings"
 usc_title: 22
 usc_section: "6901"
 chapter: 77
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "22 U.S.C. § 6901"
-generated_at: "2026-03-30T00:47:22.575Z"
+generated_at: "2026-03-30T00:51:06.684Z"
 ---
 
 # § 6901. Findings

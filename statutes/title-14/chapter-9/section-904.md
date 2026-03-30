@@ -3,9 +3,9 @@ title: "Section 904 - Local hire"
 usc_title: 14
 usc_section: "904"
 chapter: 9
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "14 U.S.C. § 904"
-generated_at: "2026-03-30T00:46:13.934Z"
+generated_at: "2026-03-30T00:50:30.506Z"
 ---
 
 # § 904. Local hire

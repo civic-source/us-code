@@ -3,9 +3,9 @@ title: "Section 16414 - National Power Plant Operations Technology and Education
 usc_title: 42
 usc_section: "16414"
 chapter: 149
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "42 U.S.C. § 16414"
-generated_at: "2026-03-30T00:49:18.990Z"
+generated_at: "2026-03-30T00:54:16.745Z"
 ---
 
 # § 16414. National Power Plant Operations Technology and Educational Center

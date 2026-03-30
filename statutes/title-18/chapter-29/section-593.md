@@ -3,9 +3,9 @@ title: "Section 593 - Interference by armed forces"
 usc_title: 18
 usc_section: "593"
 chapter: 29
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "18 U.S.C. § 593"
-generated_at: "2026-03-30T00:47:06.467Z"
+generated_at: "2026-03-30T00:50:48.563Z"
 ---
 
 # § 593. Interference by armed forces

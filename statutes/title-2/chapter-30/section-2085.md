@@ -3,9 +3,9 @@ title: "Section 2085 - Advisory boards"
 usc_title: 2
 usc_section: "2085"
 chapter: 30
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 2085"
-generated_at: "2026-03-30T00:45:29.251Z"
+generated_at: "2026-03-30T00:49:45.902Z"
 ---
 
 # § 2085. Advisory boards

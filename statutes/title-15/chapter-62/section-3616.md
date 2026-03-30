@@ -3,9 +3,9 @@ title: "Section 3616 - Separability"
 usc_title: 15
 usc_section: "3616"
 chapter: 62
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "15 U.S.C. § 3616"
-generated_at: "2026-03-30T00:46:25.715Z"
+generated_at: "2026-03-30T00:50:38.165Z"
 ---
 
 # § 3616. Separability

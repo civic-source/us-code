@@ -3,9 +3,9 @@ title: "Section 14508 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14508"
 chapter: 1407
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 14508"
-generated_at: "2026-03-30T00:46:04.807Z"
+generated_at: "2026-03-30T00:50:18.424Z"
 ---
 
 # § 14508. Removal from the reserve active-status list for years of service: reserve general and flag officers

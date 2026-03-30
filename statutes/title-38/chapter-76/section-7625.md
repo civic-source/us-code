@@ -3,9 +3,9 @@ title: "Section 7625 - Allocation and distribution of funding"
 usc_title: 38
 usc_section: "7625"
 chapter: 76
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "38 U.S.C. § 7625"
-generated_at: "2026-03-30T00:48:21.118Z"
+generated_at: "2026-03-30T00:52:53.608Z"
 ---
 
 # § 7625. Allocation and distribution of funding

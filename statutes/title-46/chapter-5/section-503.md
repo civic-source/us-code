@@ -3,9 +3,9 @@ title: "Section 503 - Notice of seizure"
 usc_title: 46
 usc_section: "503"
 chapter: 5
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "46 U.S.C. § 503"
-generated_at: "2026-03-30T00:49:23.384Z"
+generated_at: "2026-03-30T00:54:22.071Z"
 ---
 
 # § 503. Notice of seizure

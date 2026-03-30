@@ -3,9 +3,9 @@ title: "Section 1534 - State, local, and tribal government input"
 usc_title: 2
 usc_section: "1534"
 chapter: 25
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "2 U.S.C. § 1534"
-generated_at: "2026-03-30T00:45:29.242Z"
+generated_at: "2026-03-30T00:49:45.892Z"
 ---
 
 # § 1534. State, local, and tribal government input

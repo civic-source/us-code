@@ -3,9 +3,9 @@ title: "Section 1632 - Statute of limitations on decisions of Secretary and reco
 usc_title: 43
 usc_section: "1632"
 chapter: 33
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "43 U.S.C. § 1632"
-generated_at: "2026-03-30T00:48:34.252Z"
+generated_at: "2026-03-30T00:52:57.042Z"
 ---
 
 # § 1632. Statute of limitations on decisions of Secretary and reconveyance of land by Village Corporation

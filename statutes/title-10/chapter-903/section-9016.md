@@ -3,9 +3,9 @@ title: "Section 9016 - Assistant Secretaries of the Air Force"
 usc_title: 10
 usc_section: "9016"
 chapter: 903
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 9016"
-generated_at: "2026-03-30T00:46:04.790Z"
+generated_at: "2026-03-30T00:50:18.406Z"
 ---
 
 # § 9016. Assistant Secretaries of the Air Force

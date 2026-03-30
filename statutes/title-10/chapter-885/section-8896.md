@@ -3,9 +3,9 @@ title: "Section 8896 - Reconsideration of stay"
 usc_title: 10
 usc_section: "8896"
 chapter: 885
-current_through: "PL 118-41"
+current_through: "PL 118-44"
 classification: "10 U.S.C. § 8896"
-generated_at: "2026-03-30T00:46:04.790Z"
+generated_at: "2026-03-30T00:50:18.405Z"
 ---
 
 # § 8896. Reconsideration of stay
