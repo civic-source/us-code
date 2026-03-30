@@ -3,9 +3,9 @@ title: "Section 872 - Conveyances to United States in connection with applicatio
 usc_title: 43
 usc_section: "872"
 chapter: 20
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 872"
-generated_at: "2026-03-30T01:36:30.369Z"
+generated_at: "2026-03-30T01:40:37.579Z"
 ---
 
 # § 872. Conveyances to United States in connection with applications for amendment of patented entries or for exchange of land, etc.; withdrawal or rejection of applications; reconveyances

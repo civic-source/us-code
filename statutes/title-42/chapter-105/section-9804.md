@@ -3,9 +3,9 @@ title: "Section 9804 - Advisory Community Investment Board"
 usc_title: 42
 usc_section: "9804"
 chapter: 105
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 9804"
-generated_at: "2026-03-30T01:37:21.138Z"
+generated_at: "2026-03-30T01:40:53.806Z"
 ---
 
 # § 9804. Advisory Community Investment Board

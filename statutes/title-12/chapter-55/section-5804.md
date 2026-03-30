@@ -3,9 +3,9 @@ title: "Section 5804 - Continuity of contract and safe harbor"
 usc_title: 12
 usc_section: "5804"
 chapter: 55
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 5804"
-generated_at: "2026-03-30T01:35:04.987Z"
+generated_at: "2026-03-30T01:39:08.142Z"
 ---
 
 # § 5804. Continuity of contract and safe harbor

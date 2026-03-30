@@ -3,9 +3,9 @@ title: "Section 305b - Rules and regulations; submission to Secretary of the Int
 usc_title: 25
 usc_section: "305b"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 305b"
-generated_at: "2026-03-30T01:35:34.089Z"
+generated_at: "2026-03-30T01:39:42.170Z"
 ---
 
 # § 305b. Rules and regulations; submission to Secretary of the Interior

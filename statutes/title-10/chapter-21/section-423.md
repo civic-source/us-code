@@ -3,9 +3,9 @@ title: "Section 423 - Authority to use proceeds from counterintelligence operati
 usc_title: 10
 usc_section: "423"
 chapter: 21
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 423"
-generated_at: "2026-03-30T01:34:43.459Z"
+generated_at: "2026-03-30T01:38:58.670Z"
 ---
 
 # § 423. Authority to use proceeds from counterintelligence operations of the military departments or the Defense Intelligence Agency

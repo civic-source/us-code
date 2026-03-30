@@ -3,9 +3,9 @@ title: "Section 7433 - Administrative matters"
 usc_title: 38
 usc_section: "7433"
 chapter: 74
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 7433"
-generated_at: "2026-03-30T01:36:22.237Z"
+generated_at: "2026-03-30T01:40:33.421Z"
 ---
 
 # § 7433. Administrative matters

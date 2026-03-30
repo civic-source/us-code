@@ -3,9 +3,9 @@ title: "Section 2006 - Bureau of Indian Affairs education functions"
 usc_title: 25
 usc_section: "2006"
 chapter: 22
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 2006"
-generated_at: "2026-03-30T01:35:34.117Z"
+generated_at: "2026-03-30T01:39:42.202Z"
 ---
 
 # § 2006. Bureau of Indian Affairs education functions

@@ -3,9 +3,9 @@ title: "Section 6 - Drainage necessitated by floodway levees"
 usc_title: 33
 usc_section: "6"
 chapter: 15
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 6"
-generated_at: "2026-03-30T01:35:58.953Z"
+generated_at: "2026-03-30T01:40:15.568Z"
 ---
 
 # § 702a–6. Drainage necessitated by floodway levees

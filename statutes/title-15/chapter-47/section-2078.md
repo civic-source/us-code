@@ -3,9 +3,9 @@ title: "Section 2078 - Cooperation with States and other Federal agencies"
 usc_title: 15
 usc_section: "2078"
 chapter: 47
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 2078"
-generated_at: "2026-03-30T01:34:59.011Z"
+generated_at: "2026-03-30T01:39:11.392Z"
 ---
 
 # § 2078. Cooperation with States and other Federal agencies

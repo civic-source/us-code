@@ -3,9 +3,9 @@ title: "Section 2296 - United States assistance to promote reconciliation and re
 usc_title: 22
 usc_section: "2296"
 chapter: 32
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2296"
-generated_at: "2026-03-30T01:35:27.011Z"
+generated_at: "2026-03-30T01:39:56.160Z"
 ---
 
 # § 2296. United States assistance to promote reconciliation and recovery from regional conflicts

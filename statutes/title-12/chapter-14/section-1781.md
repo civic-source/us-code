@@ -3,9 +3,9 @@ title: "Section 1781 - Insurance of member accounts"
 usc_title: 12
 usc_section: "1781"
 chapter: 14
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 1781"
-generated_at: "2026-03-30T01:35:04.882Z"
+generated_at: "2026-03-30T01:39:08.024Z"
 ---
 
 # § 1781. Insurance of member accounts

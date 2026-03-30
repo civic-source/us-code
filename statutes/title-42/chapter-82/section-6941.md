@@ -3,9 +3,9 @@ title: "Section 6941 - Objectives of subchapter"
 usc_title: 42
 usc_section: "6941"
 chapter: 82
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 6941"
-generated_at: "2026-03-30T01:37:21.047Z"
+generated_at: "2026-03-30T01:40:53.710Z"
 ---
 
 # § 6941. Objectives of subchapter

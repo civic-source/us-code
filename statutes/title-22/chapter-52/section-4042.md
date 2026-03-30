@@ -3,9 +3,9 @@ title: "Section 4042 - Maintenance of Fund"
 usc_title: 22
 usc_section: "4042"
 chapter: 52
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 4042"
-generated_at: "2026-03-30T01:35:27.057Z"
+generated_at: "2026-03-30T01:39:56.212Z"
 ---
 
 # § 4042. Maintenance of Fund

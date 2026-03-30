@@ -3,9 +3,9 @@ title: "Section 4017 - Recovery of costs"
 usc_title: 20
 usc_section: "4017"
 chapter: 52
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 4017"
-generated_at: "2026-03-30T01:35:10.402Z"
+generated_at: "2026-03-30T01:39:19.116Z"
 ---
 
 # § 4017. Recovery of costs

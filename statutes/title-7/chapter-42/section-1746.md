@@ -3,9 +3,9 @@ title: "Section 1746 - Records and accounts"
 usc_title: 7
 usc_section: "1746"
 chapter: 42
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 1746"
-generated_at: "2026-03-30T01:34:33.627Z"
+generated_at: "2026-03-30T01:39:01.365Z"
 ---
 
 # § 1746. Records and accounts

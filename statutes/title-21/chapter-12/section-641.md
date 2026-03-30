@@ -3,9 +3,9 @@ title: "Section 641 - Prohibition of subchapter I inspection of articles not int
 usc_title: 21
 usc_section: "641"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 641"
-generated_at: "2026-03-30T01:35:24.644Z"
+generated_at: "2026-03-30T01:39:43.357Z"
 ---
 
 # § 641. Prohibition of subchapter I inspection of articles not intended for use as human food; de­naturation or other identification prior to distribution in commerce; inedible articles

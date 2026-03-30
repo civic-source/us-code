@@ -3,9 +3,9 @@ title: "Section 569 - Donations to United States of lands for timber purposes"
 usc_title: 16
 usc_section: "569"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 569"
-generated_at: "2026-03-30T01:35:15.449Z"
+generated_at: "2026-03-30T01:39:30.814Z"
 ---
 
 # § 569. Donations to United States of lands for timber purposes

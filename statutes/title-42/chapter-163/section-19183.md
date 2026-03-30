@@ -3,9 +3,9 @@ title: "Section 19183 - Capacity-building program for developing universities"
 usc_title: 42
 usc_section: "19183"
 chapter: 163
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 19183"
-generated_at: "2026-03-30T01:37:21.311Z"
+generated_at: "2026-03-30T01:40:53.981Z"
 ---
 
 # § 19183. Capacity-building program for developing universities

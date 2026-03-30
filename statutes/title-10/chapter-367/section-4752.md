@@ -3,9 +3,9 @@ title: "Section 4752 - Remission of liquidated damages"
 usc_title: 10
 usc_section: "4752"
 chapter: 367
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 4752"
-generated_at: "2026-03-30T01:34:43.567Z"
+generated_at: "2026-03-30T01:38:58.797Z"
 ---
 
 # § 4752. Remission of liquidated damages

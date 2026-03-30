@@ -3,9 +3,9 @@ title: "Section 406 - Renumbered § 476]"
 usc_title: 37
 usc_section: "406"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "37 U.S.C. § 406"
-generated_at: "2026-03-30T01:36:18.044Z"
+generated_at: "2026-03-30T01:40:29.327Z"
 ---
 
 # [§ 406. Renumbered § 476]

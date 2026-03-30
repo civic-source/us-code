@@ -3,9 +3,9 @@ title: "Section 149 - Office of Strategic Capital"
 usc_title: 10
 usc_section: "149"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 149"
-generated_at: "2026-03-30T01:34:43.445Z"
+generated_at: "2026-03-30T01:38:58.655Z"
 ---
 
 # § 149. Office of Strategic Capital

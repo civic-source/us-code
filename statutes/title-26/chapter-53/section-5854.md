@@ -3,9 +3,9 @@ title: "Section 5854 - Exportation of firearms exempt from transfer tax"
 usc_title: 26
 usc_section: "5854"
 chapter: 53
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 5854"
-generated_at: "2026-03-30T01:35:53.938Z"
+generated_at: "2026-03-30T01:40:11.284Z"
 ---
 
 # § 5854. Exportation of firearms exempt from transfer tax

@@ -3,9 +3,9 @@ title: "Section 2357 - Furnishing of services and commodities"
 usc_title: 22
 usc_section: "2357"
 chapter: 32
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2357"
-generated_at: "2026-03-30T01:35:27.015Z"
+generated_at: "2026-03-30T01:39:56.164Z"
 ---
 
 # § 2357. Furnishing of services and commodities

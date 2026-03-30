@@ -3,9 +3,9 @@ title: "Section 2742 - Honorable subsequent service as condition to award"
 usc_title: 14
 usc_section: "2742"
 chapter: 27
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "14 U.S.C. § 2742"
-generated_at: "2026-03-30T01:35:02.897Z"
+generated_at: "2026-03-30T01:39:12.717Z"
 ---
 
 # § 2742. Honorable subsequent service as condition to award

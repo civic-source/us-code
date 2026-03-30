@@ -3,9 +3,9 @@ title: "Section 6516 - Peer review of certifying agents"
 usc_title: 7
 usc_section: "6516"
 chapter: 94
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 6516"
-generated_at: "2026-03-30T01:34:33.697Z"
+generated_at: "2026-03-30T01:39:01.444Z"
 ---
 
 # § 6516. Peer review of certifying agents

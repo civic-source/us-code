@@ -3,9 +3,9 @@ title: "Section 1715j - Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug.
 usc_title: 12
 usc_section: "1715j"
 chapter: 13
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 1715j"
-generated_at: "2026-03-30T01:35:04.862Z"
+generated_at: "2026-03-30T01:39:08.002Z"
 ---
 
 # § 1715j. Repealed. Pub. L. 89–117, title XI, § 1108(aa) , Aug. 10, 1965 , 79 Stat. 507

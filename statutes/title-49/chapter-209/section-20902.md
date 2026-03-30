@@ -3,9 +3,9 @@ title: "Section 20902 - Investigations"
 usc_title: 49
 usc_section: "20902"
 chapter: 209
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 20902"
-generated_at: "2026-03-30T01:37:42.414Z"
+generated_at: "2026-03-30T01:41:03.392Z"
 ---
 
 # § 20902. Investigations

@@ -3,9 +3,9 @@ title: "Section 7310 - Office of Women’s Health"
 usc_title: 38
 usc_section: "7310"
 chapter: 73
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 7310"
-generated_at: "2026-03-30T01:36:22.232Z"
+generated_at: "2026-03-30T01:40:33.415Z"
 ---
 
 # § 7310. Office of Women’s Health

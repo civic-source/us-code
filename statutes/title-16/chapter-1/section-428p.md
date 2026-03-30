@@ -3,9 +3,9 @@ title: "Section 428p - Fort Donelson National Battlefield"
 usc_title: 16
 usc_section: "428p"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 428p"
-generated_at: "2026-03-30T01:35:15.390Z"
+generated_at: "2026-03-30T01:39:30.750Z"
 ---
 
 # § 428p. Fort Donelson National Battlefield

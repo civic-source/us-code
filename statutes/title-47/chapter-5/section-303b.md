@@ -3,9 +3,9 @@ title: "Section 303b - Consideration of children’s television service in broad
 usc_title: 47
 usc_section: "303b"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "47 U.S.C. § 303b"
-generated_at: "2026-03-30T01:37:33.815Z"
+generated_at: "2026-03-30T01:40:57.752Z"
 ---
 
 # § 303b. Consideration of children’s television service in broadcast license renewal

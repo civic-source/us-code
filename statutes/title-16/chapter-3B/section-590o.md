@@ -3,9 +3,9 @@ title: "Section 590o - Authorization of appropriations; distribution of appropri
 usc_title: 16
 usc_section: "590o"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 590o"
-generated_at: "2026-03-30T01:35:15.453Z"
+generated_at: "2026-03-30T01:39:30.819Z"
 ---
 
 # § 590o. Authorization of appropriations; distribution of appropriated funds

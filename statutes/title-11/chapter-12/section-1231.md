@@ -3,9 +3,9 @@ title: "Section 1231 - Special tax provisions"
 usc_title: 11
 usc_section: "1231"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "11 U.S.C. § 1231"
-generated_at: "2026-03-30T01:35:01.345Z"
+generated_at: "2026-03-30T01:39:11.846Z"
 ---
 
 # § 1231. Special tax provisions

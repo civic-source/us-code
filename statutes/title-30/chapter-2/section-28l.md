@@ -3,9 +3,9 @@ title: "Section 28l - Collection of mining law administration fees"
 usc_title: 30
 usc_section: "28l"
 chapter: 2
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "30 U.S.C. § 28l"
-generated_at: "2026-03-30T01:35:36.430Z"
+generated_at: "2026-03-30T01:39:59.978Z"
 ---
 
 # § 28l. Collection of mining law administration fees

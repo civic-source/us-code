@@ -3,9 +3,9 @@ title: "Section 506 - Time for printing documents or reports which include illus
 usc_title: 44
 usc_section: "506"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "44 U.S.C. § 506"
-generated_at: "2026-03-30T01:36:31.735Z"
+generated_at: "2026-03-30T01:40:41.875Z"
 ---
 
 # § 506. Time for printing documents or reports which include illustrations or maps

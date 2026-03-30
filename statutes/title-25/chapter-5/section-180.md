@@ -3,9 +3,9 @@ title: "Section 180 - Settling on or surveying lands belonging to Indians by tre
 usc_title: 25
 usc_section: "180"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 180"
-generated_at: "2026-03-30T01:35:34.087Z"
+generated_at: "2026-03-30T01:39:42.169Z"
 ---
 
 # § 180. Settling on or surveying lands belonging to Indians by treaty

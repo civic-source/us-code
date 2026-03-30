@@ -3,9 +3,9 @@ title: "Section 7024 - Director of Small Business Programs"
 usc_title: 10
 usc_section: "7024"
 chapter: 703
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 7024"
-generated_at: "2026-03-30T01:34:43.572Z"
+generated_at: "2026-03-30T01:38:58.803Z"
 ---
 
 # § 7024. Director of Small Business Programs

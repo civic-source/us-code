@@ -3,9 +3,9 @@ title: "Section 751 - Organization"
 usc_title: 31
 usc_section: "751"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "31 U.S.C. § 751"
-generated_at: "2026-03-30T01:35:57.151Z"
+generated_at: "2026-03-30T01:40:14.366Z"
 ---
 
 # § 751. Organization

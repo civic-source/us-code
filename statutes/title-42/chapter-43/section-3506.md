@@ -3,9 +3,9 @@ title: "Section 3506 - Travel and subsistence expenses of officers and employees
 usc_title: 42
 usc_section: "3506"
 chapter: 43
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 3506"
-generated_at: "2026-03-30T01:37:20.957Z"
+generated_at: "2026-03-30T01:40:53.621Z"
 ---
 
 # § 3506. Travel and subsistence expenses of officers and employees in connection with attendance at meetings or in performing advisory services

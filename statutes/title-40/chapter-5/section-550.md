@@ -3,9 +3,9 @@ title: "Section 550 - Disposal of real property for certain purposes"
 usc_title: 40
 usc_section: "550"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "40 U.S.C. § 550"
-generated_at: "2026-03-30T01:36:18.591Z"
+generated_at: "2026-03-30T01:40:29.799Z"
 ---
 
 # § 550. Disposal of real property for certain purposes

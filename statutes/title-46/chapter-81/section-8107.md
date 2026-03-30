@@ -3,9 +3,9 @@ title: "Section 8107 - Use of force against piracy"
 usc_title: 46
 usc_section: "8107"
 chapter: 81
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 8107"
-generated_at: "2026-03-30T01:37:55.434Z"
+generated_at: "2026-03-30T01:41:00.429Z"
 ---
 
 # § 8107. Use of force against piracy

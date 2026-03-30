@@ -3,9 +3,9 @@ title: "Section 1836 - Civil proceedings"
 usc_title: 18
 usc_section: "1836"
 chapter: 90
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 1836"
-generated_at: "2026-03-30T01:35:19.712Z"
+generated_at: "2026-03-30T01:39:37.856Z"
 ---
 
 # § 1836. Civil proceedings

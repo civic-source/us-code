@@ -3,9 +3,9 @@ title: "Section 18d - Transferred"
 usc_title: 16
 usc_section: "18d"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 18d"
-generated_at: "2026-03-30T01:35:15.342Z"
+generated_at: "2026-03-30T01:39:30.688Z"
 ---
 
 # § 18d. Transferred

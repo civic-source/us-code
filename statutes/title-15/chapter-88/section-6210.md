@@ -3,9 +3,9 @@ title: "Section 6210 - Report to Congress"
 usc_title: 15
 usc_section: "6210"
 chapter: 88
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 6210"
-generated_at: "2026-03-30T01:34:59.056Z"
+generated_at: "2026-03-30T01:39:11.444Z"
 ---
 
 # § 6210. Report to Congress

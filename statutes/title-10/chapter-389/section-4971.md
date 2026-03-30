@@ -3,9 +3,9 @@ title: "Section 4971 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "4971"
 chapter: 389
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 4971"
-generated_at: "2026-03-30T01:34:43.570Z"
+generated_at: "2026-03-30T01:38:58.802Z"
 ---
 
 # § 4971. Establishment of loan guarantee program

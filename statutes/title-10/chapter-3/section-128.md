@@ -3,9 +3,9 @@ title: "Section 128 - Control and physical protection of special nuclear materia
 usc_title: 10
 usc_section: "128"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 128"
-generated_at: "2026-03-30T01:34:43.443Z"
+generated_at: "2026-03-30T01:38:58.651Z"
 ---
 
 # § 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information

@@ -3,9 +3,9 @@ title: "Section 189 - Repealed. Oct. 31, 1951, ch. 654, § 1(49) , (50), 65 Stat
 usc_title: 25
 usc_section: "189"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 189"
-generated_at: "2026-03-30T01:35:34.087Z"
+generated_at: "2026-03-30T01:39:42.169Z"
 ---
 
 # §§ 188, 189. Repealed. Oct. 31, 1951, ch. 654, § 1(49) , (50), 65 Stat. 703

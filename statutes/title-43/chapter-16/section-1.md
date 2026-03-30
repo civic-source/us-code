@@ -3,9 +3,9 @@ title: "Section 1 - Execution of provisions of section 687c; authority of Secret
 usc_title: 43
 usc_section: "1"
 chapter: 16
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T01:36:30.366Z"
+generated_at: "2026-03-30T01:40:37.577Z"
 ---
 
 # § 687c–1. Execution of provisions of section 687c; authority of Secretary of the Interior

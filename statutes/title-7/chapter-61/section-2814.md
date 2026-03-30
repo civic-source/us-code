@@ -3,9 +3,9 @@ title: "Section 2814 - Management of undesirable plants on Federal lands"
 usc_title: 7
 usc_section: "2814"
 chapter: 61
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 2814"
-generated_at: "2026-03-30T01:34:33.665Z"
+generated_at: "2026-03-30T01:39:01.408Z"
 ---
 
 # § 2814. Management of undesirable plants on Federal lands

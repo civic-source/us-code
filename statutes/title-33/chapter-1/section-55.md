@@ -3,9 +3,9 @@ title: "Section 55 - Bayou Savage (or Chantilly) in New Orleans"
 usc_title: 33
 usc_section: "55"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 55"
-generated_at: "2026-03-30T01:35:58.935Z"
+generated_at: "2026-03-30T01:40:15.548Z"
 ---
 
 # § 55. Bayou Savage (or Chantilly) in New Orleans

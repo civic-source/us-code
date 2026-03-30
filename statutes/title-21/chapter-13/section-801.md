@@ -3,9 +3,9 @@ title: "Section 801 - Congressional findings and declarations: controlled substa
 usc_title: 21
 usc_section: "801"
 chapter: 13
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 801"
-generated_at: "2026-03-30T01:35:24.645Z"
+generated_at: "2026-03-30T01:39:43.358Z"
 ---
 
 # § 801. Congressional findings and declarations: controlled substances

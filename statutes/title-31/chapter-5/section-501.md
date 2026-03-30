@@ -3,9 +3,9 @@ title: "Section 501 - Office of Management and Budget"
 usc_title: 31
 usc_section: "501"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "31 U.S.C. § 501"
-generated_at: "2026-03-30T01:35:57.148Z"
+generated_at: "2026-03-30T01:40:14.364Z"
 ---
 
 # § 501. Office of Management and Budget

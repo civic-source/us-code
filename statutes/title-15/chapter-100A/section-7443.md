@@ -3,9 +3,9 @@ title: "Section 7443 - National cybersecurity awareness and education program"
 usc_title: 15
 usc_section: "7443"
 chapter: 100
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 7443"
-generated_at: "2026-03-30T01:34:59.070Z"
+generated_at: "2026-03-30T01:39:11.458Z"
 ---
 
 # § 7443. National cybersecurity awareness and education program

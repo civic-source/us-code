@@ -3,9 +3,9 @@ title: "Section 2194 - Automatic stay upon enactment"
 usc_title: 48
 usc_section: "2194"
 chapter: 20
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "48 U.S.C. § 2194"
-generated_at: "2026-03-30T01:37:24.759Z"
+generated_at: "2026-03-30T01:40:57.017Z"
 ---
 
 # § 2194. Automatic stay upon enactment

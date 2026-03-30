@@ -3,9 +3,9 @@ title: "Section 7402 - Prohibition on extradition or transfer of United States c
 usc_title: 22
 usc_section: "7402"
 chapter: 81
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 7402"
-generated_at: "2026-03-30T01:35:27.094Z"
+generated_at: "2026-03-30T01:39:56.254Z"
 ---
 
 # § 7402. Prohibition on extradition or transfer of United States citizens to the International Criminal Court

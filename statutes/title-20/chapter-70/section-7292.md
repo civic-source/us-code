@@ -3,9 +3,9 @@ title: "Section 7292 - Assistance for arts education"
 usc_title: 20
 usc_section: "7292"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 7292"
-generated_at: "2026-03-30T01:35:10.428Z"
+generated_at: "2026-03-30T01:39:19.144Z"
 ---
 
 # § 7292. Assistance for arts education

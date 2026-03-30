@@ -3,9 +3,9 @@ title: "Section 615n - Omitted"
 usc_title: 43
 usc_section: "615n"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 615n"
-generated_at: "2026-03-30T01:36:30.362Z"
+generated_at: "2026-03-30T01:40:37.572Z"
 ---
 
 # §§ 615k to 615n. Omitted

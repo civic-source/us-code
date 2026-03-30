@@ -3,9 +3,9 @@ title: "Section 8003 - Statement of policy"
 usc_title: 16
 usc_section: "8003"
 chapter: 99
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 8003"
-generated_at: "2026-03-30T01:35:15.592Z"
+generated_at: "2026-03-30T01:39:30.971Z"
 ---
 
 # § 8003. Statement of policy

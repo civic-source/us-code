@@ -3,9 +3,9 @@ title: "Section 142 - White Cane Safety Day"
 usc_title: 36
 usc_section: "142"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 142"
-generated_at: "2026-03-30T01:36:25.159Z"
+generated_at: "2026-03-30T01:40:30.534Z"
 ---
 
 # § 142. White Cane Safety Day

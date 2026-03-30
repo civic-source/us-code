@@ -3,9 +3,9 @@ title: "Section 6658 - Coordination with title 11"
 usc_title: 26
 usc_section: "6658"
 chapter: 68
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 6658"
-generated_at: "2026-03-30T01:35:53.969Z"
+generated_at: "2026-03-30T01:40:11.315Z"
 ---
 
 # § 6658. Coordination with title 11

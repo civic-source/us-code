@@ -3,9 +3,9 @@ title: "Section 693c - Administration by Secretary of Agriculture of the Robert 
 usc_title: 16
 usc_section: "693c"
 chapter: 6
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 693c"
-generated_at: "2026-03-30T01:35:15.464Z"
+generated_at: "2026-03-30T01:39:30.829Z"
 ---
 
 # § 693c. Administration by Secretary of Agriculture of the Robert S. Kerr Center

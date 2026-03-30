@@ -3,9 +3,9 @@ title: "Section 4l - Improvement of interaction between International Bank for R
 usc_title: 22
 usc_section: "4l"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 4l"
-generated_at: "2026-03-30T01:35:26.968Z"
+generated_at: "2026-03-30T01:39:56.106Z"
 ---
 
 # § 262p–4l. Improvement of interaction between International Bank for Reconstruction and Development and nongovernmental organizations

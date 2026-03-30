@@ -3,9 +3,9 @@ title: "Section 152709 - Records and inspection"
 usc_title: 36
 usc_section: "152709"
 chapter: 1527
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 152709"
-generated_at: "2026-03-30T01:36:25.173Z"
+generated_at: "2026-03-30T01:40:30.553Z"
 ---
 
 # § 152709. Records and inspection

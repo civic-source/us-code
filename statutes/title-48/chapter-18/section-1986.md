@@ -3,9 +3,9 @@ title: "Section 1986 - Agreements with and other provisions related to the Repub
 usc_title: 48
 usc_section: "1986"
 chapter: 18
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "48 U.S.C. § 1986"
-generated_at: "2026-03-30T01:37:24.753Z"
+generated_at: "2026-03-30T01:40:57.011Z"
 ---
 
 # § 1986. Agreements with and other provisions related to the Republic of Palau

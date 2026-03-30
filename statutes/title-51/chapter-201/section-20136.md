@@ -3,9 +3,9 @@ title: "Section 20136 - Contributions awards"
 usc_title: 51
 usc_section: "20136"
 chapter: 201
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "51 U.S.C. § 20136"
-generated_at: "2026-03-30T01:38:09.292Z"
+generated_at: "2026-03-30T01:41:06.681Z"
 ---
 
 # § 20136. Contributions awards

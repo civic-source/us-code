@@ -3,9 +3,9 @@ title: "Section 63d - Transferred"
 usc_title: 27
 usc_section: "63d"
 chapter: 2
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "27 U.S.C. § 63d"
-generated_at: "2026-03-30T01:35:35.813Z"
+generated_at: "2026-03-30T01:39:58.347Z"
 ---
 
 # §§ 63a to 63d. Transferred

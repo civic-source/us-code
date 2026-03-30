@@ -3,9 +3,9 @@ title: "Section 13102 - Administration of provisions"
 usc_title: 5
 usc_section: "13102"
 chapter: 131
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 13102"
-generated_at: "2026-03-30T01:34:27.274Z"
+generated_at: "2026-03-30T01:38:29.892Z"
 ---
 
 # § 13102. Administration of provisions

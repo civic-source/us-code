@@ -3,9 +3,9 @@ title: "Section 242t - CDC surveillance and data collection for child, youth, an
 usc_title: 42
 usc_section: "242t"
 chapter: 6
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 242t"
-generated_at: "2026-03-30T01:37:20.445Z"
+generated_at: "2026-03-30T01:40:53.137Z"
 ---
 
 # § 242t. CDC surveillance and data collection for child, youth, and adult trauma

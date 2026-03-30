@@ -3,9 +3,9 @@ title: "Section 719 - Establishment of Program"
 usc_title: 16
 usc_section: "719"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 719"
-generated_at: "2026-03-30T01:35:15.468Z"
+generated_at: "2026-03-30T01:39:30.835Z"
 ---
 
 # § 719. Establishment of Program

@@ -3,9 +3,9 @@ title: "Section 144 - Unlawful receiving of imported milk or cream"
 usc_title: 21
 usc_section: "144"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 144"
-generated_at: "2026-03-30T01:35:24.549Z"
+generated_at: "2026-03-30T01:39:43.285Z"
 ---
 
 # § 144. Unlawful receiving of imported milk or cream

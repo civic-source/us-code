@@ -3,9 +3,9 @@ title: "Section 6491 - Flexibility for equitable per-pupil funding"
 usc_title: 20
 usc_section: "6491"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 6491"
-generated_at: "2026-03-30T01:35:10.418Z"
+generated_at: "2026-03-30T01:39:19.134Z"
 ---
 
 # § 6491. Flexibility for equitable per-pupil funding

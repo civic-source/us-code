@@ -3,9 +3,9 @@ title: "Section 2005 - Obligations"
 usc_title: 39
 usc_section: "2005"
 chapter: 20
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "39 U.S.C. § 2005"
-generated_at: "2026-03-30T01:36:24.572Z"
+generated_at: "2026-03-30T01:40:34.645Z"
 ---
 
 # § 2005. Obligations

@@ -3,9 +3,9 @@ title: "Section 30529 - Action by owner for limitation"
 usc_title: 46
 usc_section: "30529"
 chapter: 305
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 30529"
-generated_at: "2026-03-30T01:37:55.441Z"
+generated_at: "2026-03-30T01:41:00.438Z"
 ---
 
 # § 30529. Action by owner for limitation

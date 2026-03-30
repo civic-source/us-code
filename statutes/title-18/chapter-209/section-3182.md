@@ -3,9 +3,9 @@ title: "Section 3182 - Fugitives from State or Territory to State, District, or 
 usc_title: 18
 usc_section: "3182"
 chapter: 209
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 3182"
-generated_at: "2026-03-30T01:35:19.731Z"
+generated_at: "2026-03-30T01:39:37.877Z"
 ---
 
 # § 3182. Fugitives from State or Territory to State, District, or Territory

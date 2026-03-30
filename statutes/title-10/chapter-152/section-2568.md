@@ -3,9 +3,9 @@ title: "Section 2568 - Retention of combat uniforms by members deployed in suppo
 usc_title: 10
 usc_section: "2568"
 chapter: 152
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 2568"
-generated_at: "2026-03-30T01:34:43.533Z"
+generated_at: "2026-03-30T01:38:58.758Z"
 ---
 
 # § 2568. Retention of combat uniforms by members deployed in support of contingency operations

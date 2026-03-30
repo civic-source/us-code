@@ -3,9 +3,9 @@ title: "Section 5524 - Department of Commerce activities"
 usc_title: 15
 usc_section: "5524"
 chapter: 81
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 5524"
-generated_at: "2026-03-30T01:34:59.053Z"
+generated_at: "2026-03-30T01:39:11.441Z"
 ---
 
 # § 5524. Department of Commerce activities

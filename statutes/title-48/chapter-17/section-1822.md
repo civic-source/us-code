@@ -3,9 +3,9 @@ title: "Section 1822 - Jurisdiction of District Court; original jurisdiction; pr
 usc_title: 48
 usc_section: "1822"
 chapter: 17
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "48 U.S.C. § 1822"
-generated_at: "2026-03-30T01:37:24.745Z"
+generated_at: "2026-03-30T01:40:57.003Z"
 ---
 
 # § 1822. Jurisdiction of District Court; original jurisdiction; procedural requirements

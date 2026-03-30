@@ -3,9 +3,9 @@ title: "Section 1202 - Definitions"
 usc_title: 33
 usc_section: "1202"
 chapter: 24
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 1202"
-generated_at: "2026-03-30T01:35:58.962Z"
+generated_at: "2026-03-30T01:40:15.579Z"
 ---
 
 # § 1202. Definitions

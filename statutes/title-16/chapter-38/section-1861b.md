@@ -3,9 +3,9 @@ title: "Section 1861b - Fisheries enforcement plans and reporting"
 usc_title: 16
 usc_section: "1861b"
 chapter: 38
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 1861b"
-generated_at: "2026-03-30T01:35:15.533Z"
+generated_at: "2026-03-30T01:39:30.907Z"
 ---
 
 # § 1861b. Fisheries enforcement plans and reporting

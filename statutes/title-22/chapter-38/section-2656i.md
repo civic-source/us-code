@@ -3,9 +3,9 @@ title: "Section 2656i - Counterdrug and anticrime activities of Department of St
 usc_title: 22
 usc_section: "2656i"
 chapter: 38
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2656i"
-generated_at: "2026-03-30T01:35:27.029Z"
+generated_at: "2026-03-30T01:39:56.181Z"
 ---
 
 # § 2656i. Counterdrug and anticrime activities of Department of State

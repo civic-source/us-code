@@ -3,9 +3,9 @@ title: "Section 3571 - Reinstatement or restoration; individuals suspended or re
 usc_title: 5
 usc_section: "3571"
 chapter: 35
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 3571"
-generated_at: "2026-03-30T01:34:27.227Z"
+generated_at: "2026-03-30T01:38:29.840Z"
 ---
 
 # § 3571. Reinstatement or restoration; individuals suspended or removed for national security

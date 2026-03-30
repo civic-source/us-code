@@ -3,9 +3,9 @@ title: "Section 392 - Record"
 usc_title: 2
 usc_section: "392"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 392"
-generated_at: "2026-03-30T01:34:23.531Z"
+generated_at: "2026-03-30T01:38:34.886Z"
 ---
 
 # § 392. Record

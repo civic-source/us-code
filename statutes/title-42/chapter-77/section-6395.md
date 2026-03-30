@@ -3,9 +3,9 @@ title: "Section 6395 - Enforcement"
 usc_title: 42
 usc_section: "6395"
 chapter: 77
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 6395"
-generated_at: "2026-03-30T01:37:21.032Z"
+generated_at: "2026-03-30T01:40:53.696Z"
 ---
 
 # § 6395. Enforcement

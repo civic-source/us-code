@@ -3,9 +3,9 @@ title: "Section 3115 - Expedited hiring authority for college graduates; competi
 usc_title: 5
 usc_section: "3115"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 3115"
-generated_at: "2026-03-30T01:34:27.222Z"
+generated_at: "2026-03-30T01:38:29.834Z"
 ---
 
 # § 3115. Expedited hiring authority for college graduates; competitive service

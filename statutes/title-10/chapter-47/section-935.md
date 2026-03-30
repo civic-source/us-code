@@ -3,9 +3,9 @@ title: "Section 935 - Art. 135. Courts of inquiry"
 usc_title: 10
 usc_section: "935"
 chapter: 47
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 935"
-generated_at: "2026-03-30T01:34:43.478Z"
+generated_at: "2026-03-30T01:38:58.696Z"
 ---
 
 # § 935. Art. 135. Courts of inquiry

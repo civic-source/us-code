@@ -3,9 +3,9 @@ title: "Section 16741 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16741"
 chapter: 150
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 16741"
-generated_at: "2026-03-30T01:37:21.260Z"
+generated_at: "2026-03-30T01:40:53.931Z"
 ---
 
 # § 16741. Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 Stat. 3444

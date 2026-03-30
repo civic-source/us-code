@@ -3,9 +3,9 @@ title: "Section 3008 - Service and filing of papers—(Rule)"
 usc_title: 18
 usc_section: "3008"
 chapter: 201
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 3008"
-generated_at: "2026-03-30T01:35:19.728Z"
+generated_at: "2026-03-30T01:39:37.873Z"
 ---
 
 # § 3008. Service and filing of papers—(Rule)

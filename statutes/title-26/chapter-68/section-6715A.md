@@ -3,9 +3,9 @@ title: "Section 6715A - Tampering with or failing to maintain security requireme
 usc_title: 26
 usc_section: "6715A"
 chapter: 68
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 6715A"
-generated_at: "2026-03-30T01:35:53.972Z"
+generated_at: "2026-03-30T01:40:11.318Z"
 ---
 
 # § 6715A. Tampering with or failing to maintain security requirements for mechanical dye injection systems

@@ -3,9 +3,9 @@ title: "Section 832 - Completion and maintenance of project; generation of elect
 usc_title: 16
 usc_section: "832"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 832"
-generated_at: "2026-03-30T01:35:15.485Z"
+generated_at: "2026-03-30T01:39:30.854Z"
 ---
 
 # § 832. Completion and maintenance of project; generation of electricity

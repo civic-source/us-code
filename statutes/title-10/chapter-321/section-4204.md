@@ -3,9 +3,9 @@ title: "Section 4204 - Milestone decision authority"
 usc_title: 10
 usc_section: "4204"
 chapter: 321
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 4204"
-generated_at: "2026-03-30T01:34:43.562Z"
+generated_at: "2026-03-30T01:38:58.791Z"
 ---
 
 # § 4204. Milestone decision authority

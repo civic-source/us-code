@@ -3,9 +3,9 @@ title: "Section 5113 - Unsatisfactory safety rating"
 usc_title: 49
 usc_section: "5113"
 chapter: 51
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 5113"
-generated_at: "2026-03-30T01:37:42.381Z"
+generated_at: "2026-03-30T01:41:03.358Z"
 ---
 
 # § 5113. Unsatisfactory safety rating

@@ -3,9 +3,9 @@ title: "Section 9011 - Organization"
 usc_title: 10
 usc_section: "9011"
 chapter: 903
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 9011"
-generated_at: "2026-03-30T01:34:43.591Z"
+generated_at: "2026-03-30T01:38:58.824Z"
 ---
 
 # § 9011. Organization

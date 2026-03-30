@@ -3,9 +3,9 @@ title: "Section 1435 - Savings provisions"
 usc_title: 2
 usc_section: "1435"
 chapter: 24
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 1435"
-generated_at: "2026-03-30T01:34:23.547Z"
+generated_at: "2026-03-30T01:38:34.903Z"
 ---
 
 # § 1435. Savings provisions

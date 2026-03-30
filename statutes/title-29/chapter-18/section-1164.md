@@ -3,9 +3,9 @@ title: "Section 1164 - Applicable premium"
 usc_title: 29
 usc_section: "1164"
 chapter: 18
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "29 U.S.C. § 1164"
-generated_at: "2026-03-30T01:35:44.675Z"
+generated_at: "2026-03-30T01:40:02.356Z"
 ---
 
 # § 1164. Applicable premium

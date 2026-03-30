@@ -3,9 +3,9 @@ title: "Section 53409 - Special rule regarding age of participating Fleet vessel
 usc_title: 46
 usc_section: "53409"
 chapter: 534
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 53409"
-generated_at: "2026-03-30T01:37:55.456Z"
+generated_at: "2026-03-30T01:41:00.453Z"
 ---
 
 # § 53409. Special rule regarding age of participating Fleet vessels

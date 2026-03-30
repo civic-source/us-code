@@ -3,9 +3,9 @@ title: "Section 303 - Oaths to witnesses"
 usc_title: 5
 usc_section: "303"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 303"
-generated_at: "2026-03-30T01:34:27.207Z"
+generated_at: "2026-03-30T01:38:29.813Z"
 ---
 
 # § 303. Oaths to witnesses

@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 25
 usc_section: "4"
 chapter: 14
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 4"
-generated_at: "2026-03-30T01:35:34.098Z"
+generated_at: "2026-03-30T01:39:42.182Z"
 ---
 
 # § 1300n–4. Omitted

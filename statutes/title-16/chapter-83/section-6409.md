@@ -3,9 +3,9 @@ title: "Section 6409 - Coral Reef Disaster Fund"
 usc_title: 16
 usc_section: "6409"
 chapter: 83
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 6409"
-generated_at: "2026-03-30T01:35:15.577Z"
+generated_at: "2026-03-30T01:39:30.955Z"
 ---
 
 # § 6409. Coral Reef Disaster Fund

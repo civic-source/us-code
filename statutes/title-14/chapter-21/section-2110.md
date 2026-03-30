@@ -3,9 +3,9 @@ title: "Section 2110 - Number of officers to be selected for promotion"
 usc_title: 14
 usc_section: "2110"
 chapter: 21
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "14 U.S.C. § 2110"
-generated_at: "2026-03-30T01:35:02.894Z"
+generated_at: "2026-03-30T01:39:12.713Z"
 ---
 
 # § 2110. Number of officers to be selected for promotion

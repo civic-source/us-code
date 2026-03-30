@@ -3,9 +3,9 @@ title: "Section 1778c - Omitted"
 usc_title: 25
 usc_section: "1778c"
 chapter: 19
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 1778c"
-generated_at: "2026-03-30T01:35:34.113Z"
+generated_at: "2026-03-30T01:39:42.199Z"
 ---
 
 # § 1778c. Omitted

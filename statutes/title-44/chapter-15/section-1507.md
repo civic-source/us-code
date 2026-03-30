@@ -3,9 +3,9 @@ title: "Section 1507 - Filing document as constructive notice; publication in Fe
 usc_title: 44
 usc_section: "1507"
 chapter: 15
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "44 U.S.C. § 1507"
-generated_at: "2026-03-30T01:36:31.738Z"
+generated_at: "2026-03-30T01:40:41.878Z"
 ---
 
 # § 1507. Filing document as constructive notice; publication in Federal Register as presumption of validity; judicial notice; citation

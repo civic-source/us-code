@@ -3,9 +3,9 @@ title: "Section 1693g - Consumer liability"
 usc_title: 15
 usc_section: "1693g"
 chapter: 41
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 1693g"
-generated_at: "2026-03-30T01:34:59.002Z"
+generated_at: "2026-03-30T01:39:11.380Z"
 ---
 
 # § 1693g. Consumer liability

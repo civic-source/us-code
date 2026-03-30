@@ -3,9 +3,9 @@ title: "Section 2665 - Technical assistance to States for radon programs"
 usc_title: 15
 usc_section: "2665"
 chapter: 53
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 2665"
-generated_at: "2026-03-30T01:34:59.026Z"
+generated_at: "2026-03-30T01:39:11.409Z"
 ---
 
 # § 2665. Technical assistance to States for radon programs

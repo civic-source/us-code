@@ -3,9 +3,9 @@ title: "Section 4110 - Monuments to deceased Senators or House Members"
 usc_title: 2
 usc_section: "4110"
 chapter: 41
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 4110"
-generated_at: "2026-03-30T01:34:23.560Z"
+generated_at: "2026-03-30T01:38:34.915Z"
 ---
 
 # § 4110. Monuments to deceased Senators or House Members

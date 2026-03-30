@@ -3,9 +3,9 @@ title: "Section 3708 - Criminal penalties"
 usc_title: 40
 usc_section: "3708"
 chapter: 37
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "40 U.S.C. § 3708"
-generated_at: "2026-03-30T01:36:18.597Z"
+generated_at: "2026-03-30T01:40:29.807Z"
 ---
 
 # § 3708. Criminal penalties

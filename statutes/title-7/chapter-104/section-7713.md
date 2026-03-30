@@ -3,9 +3,9 @@ title: "Section 7713 - Notification and holding requirements upon arrival"
 usc_title: 7
 usc_section: "7713"
 chapter: 104
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 7713"
-generated_at: "2026-03-30T01:34:33.718Z"
+generated_at: "2026-03-30T01:39:01.469Z"
 ---
 
 # § 7713. Notification and holding requirements upon arrival

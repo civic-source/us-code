@@ -3,9 +3,9 @@ title: "Section 220114 - Distribution of assets on dissolution or final liquidat
 usc_title: 36
 usc_section: "220114"
 chapter: 2201
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 220114"
-generated_at: "2026-03-30T01:36:25.176Z"
+generated_at: "2026-03-30T01:40:30.557Z"
 ---
 
 # § 220114. Distribution of assets on dissolution or final liquidation

@@ -3,9 +3,9 @@ title: "Section 1086a - Certain former spouses: extension of period of eligibili
 usc_title: 10
 usc_section: "1086a"
 chapter: 55
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 1086a"
-generated_at: "2026-03-30T01:34:43.491Z"
+generated_at: "2026-03-30T01:38:58.710Z"
 ---
 
 # § 1086a. Certain former spouses: extension of period of eligibility for health benefits

@@ -3,9 +3,9 @@ title: "Section 2505 - Duration of eligibility determination"
 usc_title: 25
 usc_section: "2505"
 chapter: 27
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 2505"
-generated_at: "2026-03-30T01:35:34.125Z"
+generated_at: "2026-03-30T01:39:42.211Z"
 ---
 
 # § 2505. Duration of eligibility determination

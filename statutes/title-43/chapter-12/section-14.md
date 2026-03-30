@@ -3,9 +3,9 @@ title: "Section 14 - Groundwater study"
 usc_title: 43
 usc_section: "14"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 14"
-generated_at: "2026-03-30T01:36:30.353Z"
+generated_at: "2026-03-30T01:40:37.561Z"
 ---
 
 # § 390h–14. Groundwater study

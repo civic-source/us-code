@@ -3,9 +3,9 @@ title: "Section 2013 - NMIC requirements and review"
 usc_title: 21
 usc_section: "2013"
 chapter: 25
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 2013"
-generated_at: "2026-03-30T01:35:24.664Z"
+generated_at: "2026-03-30T01:39:43.426Z"
 ---
 
 # § 2013. NMIC requirements and review

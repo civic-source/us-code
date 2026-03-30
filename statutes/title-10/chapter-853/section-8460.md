@@ -3,9 +3,9 @@ title: "Section 8460 - Midshipmen: clothing and equipment; uniform allowance"
 usc_title: 10
 usc_section: "8460"
 chapter: 853
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 8460"
-generated_at: "2026-03-30T01:34:43.583Z"
+generated_at: "2026-03-30T01:38:58.816Z"
 ---
 
 # § 8460. Midshipmen: clothing and equipment; uniform allowance

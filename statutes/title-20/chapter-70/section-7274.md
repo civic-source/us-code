@@ -3,9 +3,9 @@ title: "Section 7274 - Promise neighborhoods"
 usc_title: 20
 usc_section: "7274"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 7274"
-generated_at: "2026-03-30T01:35:10.427Z"
+generated_at: "2026-03-30T01:39:19.143Z"
 ---
 
 # § 7274. Promise neighborhoods

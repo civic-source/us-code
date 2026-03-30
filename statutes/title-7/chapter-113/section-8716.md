@@ -3,9 +3,9 @@ title: "Section 8716 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "8716"
 chapter: 113
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 8716"
-generated_at: "2026-03-30T01:34:33.733Z"
+generated_at: "2026-03-30T01:39:01.484Z"
 ---
 
 # § 8716. Producer agreement required as condition of provision of payments

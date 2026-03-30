@@ -3,9 +3,9 @@ title: "Section 6603 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6603"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 6603"
-generated_at: "2026-03-30T01:35:10.419Z"
+generated_at: "2026-03-30T01:39:19.134Z"
 ---
 
 # § 6603. Authorization of appropriations

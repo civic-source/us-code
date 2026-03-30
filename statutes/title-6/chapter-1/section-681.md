@@ -3,9 +3,9 @@ title: "Section 681 - Definitions"
 usc_title: 6
 usc_section: "681"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "6 U.S.C. § 681"
-generated_at: "2026-03-30T01:34:38.942Z"
+generated_at: "2026-03-30T01:38:39.281Z"
 ---
 
 # § 681. Definitions

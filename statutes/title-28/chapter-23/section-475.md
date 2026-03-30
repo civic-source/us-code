@@ -3,9 +3,9 @@ title: "Section 475 - Periodic district court assessment"
 usc_title: 28
 usc_section: "475"
 chapter: 23
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "28 U.S.C. § 475"
-generated_at: "2026-03-30T01:35:43.598Z"
+generated_at: "2026-03-30T01:40:04.771Z"
 ---
 
 # § 475. Periodic district court assessment

@@ -3,9 +3,9 @@ title: "Section 5116 - Planning and training grants, monitoring, and review"
 usc_title: 49
 usc_section: "5116"
 chapter: 51
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 5116"
-generated_at: "2026-03-30T01:37:42.381Z"
+generated_at: "2026-03-30T01:41:03.358Z"
 ---
 
 # § 5116. Planning and training grants, monitoring, and review

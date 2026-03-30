@@ -3,9 +3,9 @@ title: "Section 355 - Administrative support services"
 usc_title: 2
 usc_section: "355"
 chapter: 11
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 355"
-generated_at: "2026-03-30T01:34:23.531Z"
+generated_at: "2026-03-30T01:38:34.885Z"
 ---
 
 # § 355. Administrative support services

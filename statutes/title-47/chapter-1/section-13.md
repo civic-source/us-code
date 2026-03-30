@@ -3,9 +3,9 @@ title: "Section 13 - Violations; punishment; action for damages"
 usc_title: 47
 usc_section: "13"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "47 U.S.C. § 13"
-generated_at: "2026-03-30T01:37:33.801Z"
+generated_at: "2026-03-30T01:40:57.740Z"
 ---
 
 # § 13. Violations; punishment; action for damages

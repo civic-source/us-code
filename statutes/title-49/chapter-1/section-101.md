@@ -3,9 +3,9 @@ title: "Section 101 - Purpose"
 usc_title: 49
 usc_section: "101"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 101"
-generated_at: "2026-03-30T01:37:42.364Z"
+generated_at: "2026-03-30T01:41:03.340Z"
 ---
 
 # § 101. Purpose

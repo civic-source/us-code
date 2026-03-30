@@ -3,9 +3,9 @@ title: "Section 450p - Acquisition of property; donations"
 usc_title: 16
 usc_section: "450p"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 450p"
-generated_at: "2026-03-30T01:35:15.396Z"
+generated_at: "2026-03-30T01:39:30.756Z"
 ---
 
 # § 450p. Acquisition of property; donations

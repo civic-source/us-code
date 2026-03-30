@@ -3,9 +3,9 @@ title: "Section 5557 - Officers and agents authorized to investigate, issue sear
 usc_title: 26
 usc_section: "5557"
 chapter: 51
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 5557"
-generated_at: "2026-03-30T01:35:53.935Z"
+generated_at: "2026-03-30T01:40:11.281Z"
 ---
 
 # § 5557. Officers and agents authorized to investigate, issue search warrants, and prosecute for violations

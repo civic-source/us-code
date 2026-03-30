@@ -3,9 +3,9 @@ title: "Section 152 - Dependent defined"
 usc_title: 26
 usc_section: "152"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 152"
-generated_at: "2026-03-30T01:35:53.766Z"
+generated_at: "2026-03-30T01:40:11.107Z"
 ---
 
 # § 152. Dependent defined

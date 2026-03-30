@@ -3,9 +3,9 @@ title: "Section 50f - Disposal of miscellaneous revenues from schools, hospitals
 usc_title: 48
 usc_section: "50f"
 chapter: 2
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "48 U.S.C. § 50f"
-generated_at: "2026-03-30T01:37:24.732Z"
+generated_at: "2026-03-30T01:40:56.990Z"
 ---
 
 # § 50f. Disposal of miscellaneous revenues from schools, hospitals, and other Indian Service facilities

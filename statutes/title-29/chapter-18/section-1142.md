@@ -3,9 +3,9 @@ title: "Section 1142 - Advisory Council on Employee Welfare and Pension Benefit 
 usc_title: 29
 usc_section: "1142"
 chapter: 18
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "29 U.S.C. § 1142"
-generated_at: "2026-03-30T01:35:44.674Z"
+generated_at: "2026-03-30T01:40:02.353Z"
 ---
 
 # § 1142. Advisory Council on Employee Welfare and Pension Benefit Plans

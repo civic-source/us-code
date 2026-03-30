@@ -3,9 +3,9 @@ title: "Section 9109 - Prohibition on use of funds for construction"
 usc_title: 20
 usc_section: "9109"
 chapter: 72
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 9109"
-generated_at: "2026-03-30T01:35:10.440Z"
+generated_at: "2026-03-30T01:39:19.157Z"
 ---
 
 # § 9109. Prohibition on use of funds for construction

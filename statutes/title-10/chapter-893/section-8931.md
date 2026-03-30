@@ -3,9 +3,9 @@ title: "Section 8931 - National Oceanographic Partnership Program"
 usc_title: 10
 usc_section: "8931"
 chapter: 893
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 8931"
-generated_at: "2026-03-30T01:34:43.590Z"
+generated_at: "2026-03-30T01:38:58.824Z"
 ---
 
 # § 8931. National Oceanographic Partnership Program

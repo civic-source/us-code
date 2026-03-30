@@ -3,9 +3,9 @@ title: "Section 50903 - General authority"
 usc_title: 51
 usc_section: "50903"
 chapter: 509
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "51 U.S.C. § 50903"
-generated_at: "2026-03-30T01:38:09.297Z"
+generated_at: "2026-03-30T01:41:06.689Z"
 ---
 
 # § 50903. General authority

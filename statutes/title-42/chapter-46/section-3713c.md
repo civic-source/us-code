@@ -3,9 +3,9 @@ title: "Section 3713c - Transferred"
 usc_title: 42
 usc_section: "3713c"
 chapter: 46
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 3713c"
-generated_at: "2026-03-30T01:37:20.962Z"
+generated_at: "2026-03-30T01:40:53.626Z"
 ---
 
 # § 3713c. Transferred

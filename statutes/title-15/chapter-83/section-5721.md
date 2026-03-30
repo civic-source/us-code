@@ -3,9 +3,9 @@ title: "Section 5721 - Regulations"
 usc_title: 15
 usc_section: "5721"
 chapter: 83
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 5721"
-generated_at: "2026-03-30T01:34:59.054Z"
+generated_at: "2026-03-30T01:39:11.442Z"
 ---
 
 # § 5721. Regulations

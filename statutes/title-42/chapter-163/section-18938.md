@@ -3,9 +3,9 @@ title: "Section 18938 - Sustainable chemistry research and education"
 usc_title: 42
 usc_section: "18938"
 chapter: 163
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 18938"
-generated_at: "2026-03-30T01:37:21.303Z"
+generated_at: "2026-03-30T01:40:53.973Z"
 ---
 
 # § 18938. Sustainable chemistry research and education

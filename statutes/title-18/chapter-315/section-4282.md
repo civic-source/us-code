@@ -3,9 +3,9 @@ title: "Section 4282 - Arrested but unconvicted persons"
 usc_title: 18
 usc_section: "4282"
 chapter: 315
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 4282"
-generated_at: "2026-03-30T01:35:19.744Z"
+generated_at: "2026-03-30T01:39:37.893Z"
 ---
 
 # § 4282. Arrested but unconvicted persons

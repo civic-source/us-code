@@ -3,9 +3,9 @@ title: "Section 1059 - Dependents of members separated for dependent abuse: tran
 usc_title: 10
 usc_section: "1059"
 chapter: 53
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 1059"
-generated_at: "2026-03-30T01:34:43.485Z"
+generated_at: "2026-03-30T01:38:58.703Z"
 ---
 
 # § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses

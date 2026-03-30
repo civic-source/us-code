@@ -3,9 +3,9 @@ title: "Section 1864 - Disclosure of financial interests by officers and employe
 usc_title: 43
 usc_section: "1864"
 chapter: 36
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 1864"
-generated_at: "2026-03-30T01:36:30.396Z"
+generated_at: "2026-03-30T01:40:37.609Z"
 ---
 
 # § 1864. Disclosure of financial interests by officers and employees of Department of the Interior

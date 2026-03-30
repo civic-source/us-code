@@ -3,9 +3,9 @@ title: "Section 689o - Removal or suspension of directors or officers"
 usc_title: 15
 usc_section: "689o"
 chapter: 14
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 689o"
-generated_at: "2026-03-30T01:34:58.959Z"
+generated_at: "2026-03-30T01:39:11.330Z"
 ---
 
 # § 689o. Removal or suspension of directors or officers

@@ -3,9 +3,9 @@ title: "Section 5135 - Mortgages and deeds of trust by individual Indian owners;
 usc_title: 25
 usc_section: "5135"
 chapter: 45
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 5135"
-generated_at: "2026-03-30T01:35:34.145Z"
+generated_at: "2026-03-30T01:39:42.236Z"
 ---
 
 # § 5135. Mortgages and deeds of trust by individual Indian owners; removal from trust or restricted status; application to Secretary

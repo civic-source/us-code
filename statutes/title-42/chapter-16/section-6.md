@@ -3,9 +3,9 @@ title: "Section 6 - Presidential awards for excellence in STEM mentoring"
 usc_title: 42
 usc_section: "6"
 chapter: 16
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:37:20.893Z"
+generated_at: "2026-03-30T01:40:53.563Z"
 ---
 
 # § 1862s–6. Presidential awards for excellence in STEM mentoring

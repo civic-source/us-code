@@ -3,9 +3,9 @@ title: "Section 7622 - Rations: commissioned officers in field"
 usc_title: 10
 usc_section: "7622"
 chapter: 769
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 7622"
-generated_at: "2026-03-30T01:34:43.576Z"
+generated_at: "2026-03-30T01:38:58.809Z"
 ---
 
 # § 7622. Rations: commissioned officers in field

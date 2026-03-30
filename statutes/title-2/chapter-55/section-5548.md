@@ -3,9 +3,9 @@ title: "Section 5548 - Payments to ensure continuing availability of goods and s
 usc_title: 2
 usc_section: "5548"
 chapter: 55
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 5548"
-generated_at: "2026-03-30T01:34:23.566Z"
+generated_at: "2026-03-30T01:38:34.921Z"
 ---
 
 # § 5548. Payments to ensure continuing availability of goods and services during the coronavirus emergency

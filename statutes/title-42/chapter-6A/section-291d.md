@@ -3,9 +3,9 @@ title: "Section 291d - State plans"
 usc_title: 42
 usc_section: "291d"
 chapter: 6
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 291d"
-generated_at: "2026-03-30T01:37:20.530Z"
+generated_at: "2026-03-30T01:40:53.209Z"
 ---
 
 # § 291d. State plans

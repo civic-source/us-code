@@ -3,9 +3,9 @@ title: "Section 708 - Continuation of partnership"
 usc_title: 26
 usc_section: "708"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 708"
-generated_at: "2026-03-30T01:35:53.844Z"
+generated_at: "2026-03-30T01:40:11.187Z"
 ---
 
 # § 708. Continuation of partnership

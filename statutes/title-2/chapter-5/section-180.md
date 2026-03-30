@@ -3,9 +3,9 @@ title: "Section 180 - Legislative information retrieval system"
 usc_title: 2
 usc_section: "180"
 chapter: 5
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 180"
-generated_at: "2026-03-30T01:34:23.527Z"
+generated_at: "2026-03-30T01:38:34.882Z"
 ---
 
 # § 180. Legislative information retrieval system

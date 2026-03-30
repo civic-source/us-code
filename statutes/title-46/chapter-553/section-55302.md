@@ -3,9 +3,9 @@ title: "Section 55302 - Transportation of United States Government personnel"
 usc_title: 46
 usc_section: "55302"
 chapter: 553
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 55302"
-generated_at: "2026-03-30T01:37:55.462Z"
+generated_at: "2026-03-30T01:41:00.457Z"
 ---
 
 # § 55302. Transportation of United States Government personnel

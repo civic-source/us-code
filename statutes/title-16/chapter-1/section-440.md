@@ -3,9 +3,9 @@ title: "Section 440 - Closure in times of national emergency"
 usc_title: 16
 usc_section: "440"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 440"
-generated_at: "2026-03-30T01:35:15.394Z"
+generated_at: "2026-03-30T01:39:30.754Z"
 ---
 
 # § 440. Closure in times of national emergency

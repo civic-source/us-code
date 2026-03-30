@@ -3,9 +3,9 @@ title: "Section 3031 - Director of the National Counterintelligence and Security
 usc_title: 50
 usc_section: "3031"
 chapter: 44
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "50 U.S.C. § 3031"
-generated_at: "2026-03-30T01:37:59.432Z"
+generated_at: "2026-03-30T01:40:59.400Z"
 ---
 
 # § 3031. Director of the National Counterintelligence and Security Center

@@ -3,9 +3,9 @@ title: "Section 170 - Hunting and fishing; regulations; punishment"
 usc_title: 16
 usc_section: "170"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 170"
-generated_at: "2026-03-30T01:35:15.351Z"
+generated_at: "2026-03-30T01:39:30.702Z"
 ---
 
 # § 170. Hunting and fishing; regulations; punishment

@@ -3,9 +3,9 @@ title: "Section 30310 - Service of process"
 usc_title: 36
 usc_section: "30310"
 chapter: 303
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 30310"
-generated_at: "2026-03-30T01:36:25.164Z"
+generated_at: "2026-03-30T01:40:30.541Z"
 ---
 
 # § 30310. Service of process

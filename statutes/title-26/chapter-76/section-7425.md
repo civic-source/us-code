@@ -3,9 +3,9 @@ title: "Section 7425 - Discharge of liens"
 usc_title: 26
 usc_section: "7425"
 chapter: 76
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 7425"
-generated_at: "2026-03-30T01:35:53.978Z"
+generated_at: "2026-03-30T01:40:11.324Z"
 ---
 
 # § 7425. Discharge of liens

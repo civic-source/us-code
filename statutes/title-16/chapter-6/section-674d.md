@@ -3,9 +3,9 @@ title: "Section 674d - Authorization of appropriations"
 usc_title: 16
 usc_section: "674d"
 chapter: 6
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 674d"
-generated_at: "2026-03-30T01:35:15.462Z"
+generated_at: "2026-03-30T01:39:30.828Z"
 ---
 
 # § 674d. Authorization of appropriations

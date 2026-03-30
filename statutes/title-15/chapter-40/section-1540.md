@@ -3,9 +3,9 @@ title: "Section 1540 - Cooperative agreements"
 usc_title: 15
 usc_section: "1540"
 chapter: 40
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 1540"
-generated_at: "2026-03-30T01:34:58.984Z"
+generated_at: "2026-03-30T01:39:11.359Z"
 ---
 
 # § 1540. Cooperative agreements

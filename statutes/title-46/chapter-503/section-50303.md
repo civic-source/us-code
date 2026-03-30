@@ -3,9 +3,9 @@ title: "Section 50303 - Operating property and extending term of notes"
 usc_title: 46
 usc_section: "50303"
 chapter: 503
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 50303"
-generated_at: "2026-03-30T01:37:55.447Z"
+generated_at: "2026-03-30T01:41:00.445Z"
 ---
 
 # § 50303. Operating property and extending term of notes

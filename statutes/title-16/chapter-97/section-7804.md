@@ -3,9 +3,9 @@ title: "Section 7804 - Responsibility of the Secretary and rulemaking authority"
 usc_title: 16
 usc_section: "7804"
 chapter: 97
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 7804"
-generated_at: "2026-03-30T01:35:15.591Z"
+generated_at: "2026-03-30T01:39:30.970Z"
 ---
 
 # § 7804. Responsibility of the Secretary and rulemaking authority

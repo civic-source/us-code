@@ -3,9 +3,9 @@ title: "Section 101111 - Purpose and establishment of Foundation"
 usc_title: 54
 usc_section: "101111"
 chapter: 1011
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "54 U.S.C. § 101111"
-generated_at: "2026-03-30T01:38:01.860Z"
+generated_at: "2026-03-30T01:41:05.562Z"
 ---
 
 # § 101111. Purpose and establishment of Foundation

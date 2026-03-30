@@ -3,9 +3,9 @@ title: "Section 742 - Rank: warrant officers"
 usc_title: 10
 usc_section: "742"
 chapter: 43
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 742"
-generated_at: "2026-03-30T01:34:43.471Z"
+generated_at: "2026-03-30T01:38:58.687Z"
 ---
 
 # § 742. Rank: warrant officers

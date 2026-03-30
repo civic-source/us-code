@@ -3,9 +3,9 @@ title: "Section 124 - Jurisdiction by the United States; fugitives from justice"
 usc_title: 16
 usc_section: "124"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 124"
-generated_at: "2026-03-30T01:35:15.349Z"
+generated_at: "2026-03-30T01:39:30.699Z"
 ---
 
 # § 124. Jurisdiction by the United States; fugitives from justice

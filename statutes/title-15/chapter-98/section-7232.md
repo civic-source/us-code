@@ -3,9 +3,9 @@ title: "Section 7232 - Study of mandatory rotation of registered public accounti
 usc_title: 15
 usc_section: "7232"
 chapter: 98
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 7232"
-generated_at: "2026-03-30T01:34:59.067Z"
+generated_at: "2026-03-30T01:39:11.455Z"
 ---
 
 # § 7232. Study of mandatory rotation of registered public accounting firms

@@ -3,9 +3,9 @@ title: "Section 10901 - Authority of Secretary to make grants"
 usc_title: 42
 usc_section: "10901"
 chapter: 115
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 10901"
-generated_at: "2026-03-30T01:37:21.165Z"
+generated_at: "2026-03-30T01:40:53.835Z"
 ---
 
 # § 10901. Authority of Secretary to make grants

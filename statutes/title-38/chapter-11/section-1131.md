@@ -3,9 +3,9 @@ title: "Section 1131 - Basic entitlement"
 usc_title: 38
 usc_section: "1131"
 chapter: 11
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 1131"
-generated_at: "2026-03-30T01:36:22.179Z"
+generated_at: "2026-03-30T01:40:33.362Z"
 ---
 
 # § 1131. Basic entitlement

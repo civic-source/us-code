@@ -3,9 +3,9 @@ title: "Section 15883 - Maintaining and enhancing hydroelectricity incentives"
 usc_title: 42
 usc_section: "15883"
 chapter: 149
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 15883"
-generated_at: "2026-03-30T01:37:21.232Z"
+generated_at: "2026-03-30T01:40:53.904Z"
 ---
 
 # § 15883. Maintaining and enhancing hydroelectricity incentives

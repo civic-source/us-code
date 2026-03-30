@@ -3,9 +3,9 @@ title: "Section 204 - Renumbered § 3848]"
 usc_title: 10
 usc_section: "204"
 chapter: 8
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 204"
-generated_at: "2026-03-30T01:34:43.449Z"
+generated_at: "2026-03-30T01:38:58.660Z"
 ---
 
 # [§ 204. Renumbered § 3848]

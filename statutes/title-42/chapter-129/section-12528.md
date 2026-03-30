@@ -3,9 +3,9 @@ title: "Section 12528 - Federal, State, and local contributions"
 usc_title: 42
 usc_section: "12528"
 chapter: 129
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 12528"
-generated_at: "2026-03-30T01:37:21.186Z"
+generated_at: "2026-03-30T01:40:53.857Z"
 ---
 
 # § 12528. Federal, State, and local contributions

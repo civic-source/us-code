@@ -3,9 +3,9 @@ title: "Section 16198 - Smart energy and water efficiency pilot program"
 usc_title: 42
 usc_section: "16198"
 chapter: 149
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 16198"
-generated_at: "2026-03-30T01:37:21.244Z"
+generated_at: "2026-03-30T01:40:53.914Z"
 ---
 
 # § 16198. Smart energy and water efficiency pilot program

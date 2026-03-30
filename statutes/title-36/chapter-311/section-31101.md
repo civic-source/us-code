@@ -3,9 +3,9 @@ title: "Section 31101 - Organization"
 usc_title: 36
 usc_section: "31101"
 chapter: 311
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 31101"
-generated_at: "2026-03-30T01:36:25.164Z"
+generated_at: "2026-03-30T01:40:30.542Z"
 ---
 
 # § 31101. Organization

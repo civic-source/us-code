@@ -3,9 +3,9 @@ title: "Section 583c - Agreements between Secretaries of Agriculture and the Int
 usc_title: 16
 usc_section: "583c"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 583c"
-generated_at: "2026-03-30T01:35:15.451Z"
+generated_at: "2026-03-30T01:39:30.818Z"
 ---
 
 # § 583c. Agreements between Secretaries of Agriculture and the Interior, or with other Federal agencies having jurisdiction over forest land

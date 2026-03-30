@@ -3,9 +3,9 @@ title: "Section 825o - Penalties for violations; applicability of section"
 usc_title: 16
 usc_section: "825o"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 825o"
-generated_at: "2026-03-30T01:35:15.482Z"
+generated_at: "2026-03-30T01:39:30.848Z"
 ---
 
 # § 825o. Penalties for violations; applicability of section

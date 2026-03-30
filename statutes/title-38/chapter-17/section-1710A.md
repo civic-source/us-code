@@ -3,9 +3,9 @@ title: "Section 1710A - Required nursing home care"
 usc_title: 38
 usc_section: "1710A"
 chapter: 17
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 1710A"
-generated_at: "2026-03-30T01:36:22.185Z"
+generated_at: "2026-03-30T01:40:33.368Z"
 ---
 
 # § 1710A. Required nursing home care

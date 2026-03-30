@@ -3,9 +3,9 @@ title: "Section 1112 - Omitted"
 usc_title: 25
 usc_section: "1112"
 chapter: 14
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 1112"
-generated_at: "2026-03-30T01:35:34.098Z"
+generated_at: "2026-03-30T01:39:42.181Z"
 ---
 
 # § 1112. Omitted

@@ -3,9 +3,9 @@ title: "Section 241f - Extension of exchange authority"
 usc_title: 16
 usc_section: "241f"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 241f"
-generated_at: "2026-03-30T01:35:15.355Z"
+generated_at: "2026-03-30T01:39:30.709Z"
 ---
 
 # § 241f. Extension of exchange authority

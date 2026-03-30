@@ -3,9 +3,9 @@ title: "Section 20502 - Minimum standards for issuance and dissemination of aler
 usc_title: 34
 usc_section: "20502"
 chapter: 205
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "34 U.S.C. § 20502"
-generated_at: "2026-03-30T01:36:16.018Z"
+generated_at: "2026-03-30T01:40:27.219Z"
 ---
 
 # § 20502. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network

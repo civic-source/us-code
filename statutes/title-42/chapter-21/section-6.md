@@ -3,9 +3,9 @@ title: "Section 6 - Separability"
 usc_title: 42
 usc_section: "6"
 chapter: 21
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-03-30T01:37:20.908Z"
+generated_at: "2026-03-30T01:40:53.574Z"
 ---
 
 # § 2000h–6. Separability

@@ -3,9 +3,9 @@ title: "Section 7426 - Integration of services authorized"
 usc_title: 20
 usc_section: "7426"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 7426"
-generated_at: "2026-03-30T01:35:10.429Z"
+generated_at: "2026-03-30T01:39:19.145Z"
 ---
 
 # § 7426. Integration of services authorized

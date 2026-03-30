@@ -3,9 +3,9 @@ title: "Section 239d - Budgeting for depot and ammunition production facility ma
 usc_title: 10
 usc_section: "239d"
 chapter: 9
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 239d"
-generated_at: "2026-03-30T01:34:43.452Z"
+generated_at: "2026-03-30T01:38:58.662Z"
 ---
 
 # § 239d. Budgeting for depot and ammunition production facility maintenance and repair: annual report

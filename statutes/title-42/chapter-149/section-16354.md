@@ -3,9 +3,9 @@ title: "Section 16354 - External technical review of departmental programs"
 usc_title: 42
 usc_section: "16354"
 chapter: 149
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 16354"
-generated_at: "2026-03-30T01:37:21.253Z"
+generated_at: "2026-03-30T01:40:53.925Z"
 ---
 
 # § 16354. External technical review of departmental programs

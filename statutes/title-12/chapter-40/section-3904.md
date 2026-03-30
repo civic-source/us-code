@@ -3,9 +3,9 @@ title: "Section 3904 - Reserves"
 usc_title: 12
 usc_section: "3904"
 chapter: 40
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 3904"
-generated_at: "2026-03-30T01:35:04.940Z"
+generated_at: "2026-03-30T01:39:08.087Z"
 ---
 
 # § 3904. Reserves

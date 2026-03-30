@@ -3,9 +3,9 @@ title: "Section 2872a - Utilities and services"
 usc_title: 10
 usc_section: "2872a"
 chapter: 169
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 2872a"
-generated_at: "2026-03-30T01:34:43.546Z"
+generated_at: "2026-03-30T01:38:58.773Z"
 ---
 
 # § 2872a. Utilities and services

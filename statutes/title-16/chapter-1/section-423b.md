@@ -3,9 +3,9 @@ title: "Section 423b - Commission; organization"
 usc_title: 16
 usc_section: "423b"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 423b"
-generated_at: "2026-03-30T01:35:15.388Z"
+generated_at: "2026-03-30T01:39:30.747Z"
 ---
 
 # § 423b. Commission; organization

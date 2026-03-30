@@ -3,9 +3,9 @@ title: "Section 1414 - Remote location filing"
 usc_title: 19
 usc_section: "1414"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "19 U.S.C. § 1414"
-generated_at: "2026-03-30T01:35:17.866Z"
+generated_at: "2026-03-30T01:39:35.559Z"
 ---
 
 # § 1414. Remote location filing

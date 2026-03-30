@@ -3,9 +3,9 @@ title: "Section 1506 - General powers"
 usc_title: 7
 usc_section: "1506"
 chapter: 36
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 1506"
-generated_at: "2026-03-30T01:34:33.608Z"
+generated_at: "2026-03-30T01:39:01.344Z"
 ---
 
 # § 1506. General powers

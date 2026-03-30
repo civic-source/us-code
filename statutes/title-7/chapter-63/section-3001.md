@@ -3,9 +3,9 @@ title: "Section 3001 - Congressional statement of purpose"
 usc_title: 7
 usc_section: "3001"
 chapter: 63
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 3001"
-generated_at: "2026-03-30T01:34:33.666Z"
+generated_at: "2026-03-30T01:39:01.408Z"
 ---
 
 # § 3001. Congressional statement of purpose

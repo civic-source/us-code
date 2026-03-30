@@ -3,9 +3,9 @@ title: "Section 15113 - Reaching up scholarship program"
 usc_title: 42
 usc_section: "15113"
 chapter: 144
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 15113"
-generated_at: "2026-03-30T01:37:21.230Z"
+generated_at: "2026-03-30T01:40:53.901Z"
 ---
 
 # § 15113. Reaching up scholarship program

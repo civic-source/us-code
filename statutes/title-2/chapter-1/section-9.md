@@ -3,9 +3,9 @@ title: "Section 9 - Voting for Representatives"
 usc_title: 2
 usc_section: "9"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 9"
-generated_at: "2026-03-30T01:34:23.521Z"
+generated_at: "2026-03-30T01:38:34.875Z"
 ---
 
 # § 9. Voting for Representatives

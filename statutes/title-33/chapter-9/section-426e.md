@@ -3,9 +3,9 @@ title: "Section 426e - Federal aid in protection of shores"
 usc_title: 33
 usc_section: "426e"
 chapter: 9
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 426e"
-generated_at: "2026-03-30T01:35:58.939Z"
+generated_at: "2026-03-30T01:40:15.555Z"
 ---
 
 # § 426e. Federal aid in protection of shores

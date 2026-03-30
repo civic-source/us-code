@@ -3,9 +3,9 @@ title: "Section 4252 - Major defense acquisition programs: certification require
 usc_title: 10
 usc_section: "4252"
 chapter: 322
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 4252"
-generated_at: "2026-03-30T01:34:43.563Z"
+generated_at: "2026-03-30T01:38:58.792Z"
 ---
 
 # § 4252. Major defense acquisition programs: certification required before Milestone B approval

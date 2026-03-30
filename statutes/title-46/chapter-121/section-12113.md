@@ -3,9 +3,9 @@ title: "Section 12113 - Fishery endorsement"
 usc_title: 46
 usc_section: "12113"
 chapter: 121
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 12113"
-generated_at: "2026-03-30T01:37:55.438Z"
+generated_at: "2026-03-30T01:41:00.435Z"
 ---
 
 # § 12113. Fishery endorsement

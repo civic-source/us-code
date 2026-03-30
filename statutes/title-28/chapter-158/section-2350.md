@@ -3,9 +3,9 @@ title: "Section 2350 - Review in Supreme Court on certiorari or certification"
 usc_title: 28
 usc_section: "2350"
 chapter: 158
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "28 U.S.C. § 2350"
-generated_at: "2026-03-30T01:35:43.616Z"
+generated_at: "2026-03-30T01:40:04.792Z"
 ---
 
 # § 2350. Review in Supreme Court on certiorari or certification

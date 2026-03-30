@@ -3,9 +3,9 @@ title: "Section 1189 - Designation of foreign terrorist organizations"
 usc_title: 8
 usc_section: "1189"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "8 U.S.C. § 1189"
-generated_at: "2026-03-30T01:34:51.540Z"
+generated_at: "2026-03-30T01:38:53.632Z"
 ---
 
 # § 1189. Designation of foreign terrorist organizations

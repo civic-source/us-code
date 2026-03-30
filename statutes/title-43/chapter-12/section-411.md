@@ -3,9 +3,9 @@ title: "Section 411 - Surveys for, location, and construction of irrigation work
 usc_title: 43
 usc_section: "411"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 411"
-generated_at: "2026-03-30T01:36:30.355Z"
+generated_at: "2026-03-30T01:40:37.565Z"
 ---
 
 # § 411. Surveys for, location, and construction of irrigation works generally

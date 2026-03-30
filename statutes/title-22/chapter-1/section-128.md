@@ -3,9 +3,9 @@ title: "Section 128 - Transferred"
 usc_title: 22
 usc_section: "128"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 128"
-generated_at: "2026-03-30T01:35:26.964Z"
+generated_at: "2026-03-30T01:39:56.102Z"
 ---
 
 # §§ 127, 128. Transferred

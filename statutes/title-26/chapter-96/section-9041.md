@@ -3,9 +3,9 @@ title: "Section 9041 - Judicial review"
 usc_title: 26
 usc_section: "9041"
 chapter: 96
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 9041"
-generated_at: "2026-03-30T01:35:53.997Z"
+generated_at: "2026-03-30T01:40:11.342Z"
 ---
 
 # § 9041. Judicial review

@@ -3,9 +3,9 @@ title: "Section 1193b - Reporting and disclosure requirements"
 usc_title: 29
 usc_section: "1193b"
 chapter: 18
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "29 U.S.C. § 1193b"
-generated_at: "2026-03-30T01:35:44.681Z"
+generated_at: "2026-03-30T01:40:02.361Z"
 ---
 
 # § 1193b. Reporting and disclosure requirements

@@ -3,9 +3,9 @@ title: "Section 5061 - Definitions"
 usc_title: 42
 usc_section: "5061"
 chapter: 66
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 5061"
-generated_at: "2026-03-30T01:37:20.986Z"
+generated_at: "2026-03-30T01:40:53.650Z"
 ---
 
 # § 5061. Definitions

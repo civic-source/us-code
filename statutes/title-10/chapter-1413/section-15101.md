@@ -3,9 +3,9 @@ title: "Section 15101 - Officers in designated competitive categories"
 usc_title: 10
 usc_section: "15101"
 chapter: 1413
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 15101"
-generated_at: "2026-03-30T01:34:43.608Z"
+generated_at: "2026-03-30T01:38:58.844Z"
 ---
 
 # § 15101. Officers in designated competitive categories

@@ -3,9 +3,9 @@ title: "Section 20233 - Eligibility for consideration for promotion: designation
 usc_title: 10
 usc_section: "20233"
 chapter: 2005
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 20233"
-generated_at: "2026-03-30T01:34:43.613Z"
+generated_at: "2026-03-30T01:38:58.848Z"
 ---
 
 # § 20233. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to brigadier general; exceptions

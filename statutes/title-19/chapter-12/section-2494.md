@@ -3,9 +3,9 @@ title: "Section 2494 - Progress reports"
 usc_title: 19
 usc_section: "2494"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "19 U.S.C. § 2494"
-generated_at: "2026-03-30T01:35:17.900Z"
+generated_at: "2026-03-30T01:39:35.600Z"
 ---
 
 # § 2494. Progress reports

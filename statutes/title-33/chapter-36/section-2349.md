@@ -3,9 +3,9 @@ title: "Section 2349 - Categorical exclusions in emergencies"
 usc_title: 33
 usc_section: "2349"
 chapter: 36
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 2349"
-generated_at: "2026-03-30T01:35:59.003Z"
+generated_at: "2026-03-30T01:40:15.626Z"
 ---
 
 # § 2349. Categorical exclusions in emergencies

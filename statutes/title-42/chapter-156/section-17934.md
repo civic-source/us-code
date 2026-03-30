@@ -3,9 +3,9 @@ title: "Section 17934 - Application of privacy provisions and penalties to busin
 usc_title: 42
 usc_section: "17934"
 chapter: 156
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 17934"
-generated_at: "2026-03-30T01:37:21.279Z"
+generated_at: "2026-03-30T01:40:53.950Z"
 ---
 
 # § 17934. Application of privacy provisions and penalties to business associates of covered entities

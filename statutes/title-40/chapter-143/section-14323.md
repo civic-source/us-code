@@ -3,9 +3,9 @@ title: "Section 14323 - Congressional notification"
 usc_title: 40
 usc_section: "14323"
 chapter: 143
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "40 U.S.C. § 14323"
-generated_at: "2026-03-30T01:36:18.603Z"
+generated_at: "2026-03-30T01:40:29.815Z"
 ---
 
 # § 14323. Congressional notification

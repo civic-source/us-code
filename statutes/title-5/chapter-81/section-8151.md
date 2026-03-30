@@ -3,9 +3,9 @@ title: "Section 8151 - Civil service retention rights"
 usc_title: 5
 usc_section: "8151"
 chapter: 81
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 8151"
-generated_at: "2026-03-30T01:34:27.252Z"
+generated_at: "2026-03-30T01:38:29.869Z"
 ---
 
 # § 8151. Civil service retention rights

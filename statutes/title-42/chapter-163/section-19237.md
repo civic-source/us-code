@@ -3,9 +3,9 @@ title: "Section 19237 - Definitions"
 usc_title: 42
 usc_section: "19237"
 chapter: 163
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 19237"
-generated_at: "2026-03-30T01:37:21.312Z"
+generated_at: "2026-03-30T01:40:53.982Z"
 ---
 
 # § 19237. Definitions

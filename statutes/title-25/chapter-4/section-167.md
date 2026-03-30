@@ -3,9 +3,9 @@ title: "Section 167 - Trust status of lease payments"
 usc_title: 25
 usc_section: "167"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 167"
-generated_at: "2026-03-30T01:35:34.087Z"
+generated_at: "2026-03-30T01:39:42.168Z"
 ---
 
 # § 167. Trust status of lease payments

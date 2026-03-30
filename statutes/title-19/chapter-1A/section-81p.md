@@ -3,9 +3,9 @@ title: "Section 81p - Accounts and recordkeeping"
 usc_title: 19
 usc_section: "81p"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "19 U.S.C. § 81p"
-generated_at: "2026-03-30T01:35:17.860Z"
+generated_at: "2026-03-30T01:39:35.551Z"
 ---
 
 # § 81p. Accounts and recordkeeping

@@ -3,9 +3,9 @@ title: "Section 648 - Custodians, generally, misusing public funds"
 usc_title: 18
 usc_section: "648"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 648"
-generated_at: "2026-03-30T01:35:19.693Z"
+generated_at: "2026-03-30T01:39:37.833Z"
 ---
 
 # § 648. Custodians, generally, misusing public funds

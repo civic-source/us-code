@@ -3,9 +3,9 @@ title: "Section 671 - Inspection services; refusal or withdrawal; hearing; busin
 usc_title: 21
 usc_section: "671"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 671"
-generated_at: "2026-03-30T01:35:24.644Z"
+generated_at: "2026-03-30T01:39:43.357Z"
 ---
 
 # § 671. Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of services unaffected; responsible connection with business; finality of Secretary’s actions; judicial review; record

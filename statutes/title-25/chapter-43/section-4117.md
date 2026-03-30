@@ -3,9 +3,9 @@ title: "Section 4117 - Authorization of appropriations"
 usc_title: 25
 usc_section: "4117"
 chapter: 43
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 4117"
-generated_at: "2026-03-30T01:35:34.140Z"
+generated_at: "2026-03-30T01:39:42.229Z"
 ---
 
 # § 4117. Authorization of appropriations

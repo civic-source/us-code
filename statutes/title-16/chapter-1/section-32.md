@@ -3,9 +3,9 @@ title: "Section 32 - Management; provisions applicable"
 usc_title: 16
 usc_section: "32"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 32"
-generated_at: "2026-03-30T01:35:15.417Z"
+generated_at: "2026-03-30T01:39:30.780Z"
 ---
 
 # § 460uu–32. Management; provisions applicable

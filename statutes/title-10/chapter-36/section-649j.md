@@ -3,9 +3,9 @@ title: "Section 649j - Other administrative authorities"
 usc_title: 10
 usc_section: "649j"
 chapter: 36
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 649j"
-generated_at: "2026-03-30T01:34:43.468Z"
+generated_at: "2026-03-30T01:38:58.684Z"
 ---
 
 # § 649j. Other administrative authorities

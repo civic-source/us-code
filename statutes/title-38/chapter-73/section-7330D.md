@@ -3,9 +3,9 @@ title: "Section 7330D - Inapplicability of Paperwork Reduction Act to research a
 usc_title: 38
 usc_section: "7330D"
 chapter: 73
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 7330D"
-generated_at: "2026-03-30T01:36:22.234Z"
+generated_at: "2026-03-30T01:40:33.418Z"
 ---
 
 # § 7330D. Inapplicability of Paperwork Reduction Act to research activities

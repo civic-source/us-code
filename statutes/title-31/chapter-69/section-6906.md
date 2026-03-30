@@ -3,9 +3,9 @@ title: "Section 6906 - Funding"
 usc_title: 31
 usc_section: "6906"
 chapter: 69
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "31 U.S.C. § 6906"
-generated_at: "2026-03-30T01:35:57.179Z"
+generated_at: "2026-03-30T01:40:14.396Z"
 ---
 
 # § 6906. Funding

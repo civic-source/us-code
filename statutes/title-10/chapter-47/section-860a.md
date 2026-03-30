@@ -3,9 +3,9 @@ title: "Section 860a - Art. 60a. Limited authority to act on sentence in specifi
 usc_title: 10
 usc_section: "860a"
 chapter: 47
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 860a"
-generated_at: "2026-03-30T01:34:43.475Z"
+generated_at: "2026-03-30T01:38:58.691Z"
 ---
 
 # § 860a. Art. 60a. Limited authority to act on sentence in specified post-trial circumstances

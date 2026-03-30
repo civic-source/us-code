@@ -3,9 +3,9 @@ title: "Section 9406 - Service schools: leaves of absence for instructors"
 usc_title: 10
 usc_section: "9406"
 chapter: 951
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 9406"
-generated_at: "2026-03-30T01:34:43.594Z"
+generated_at: "2026-03-30T01:38:58.827Z"
 ---
 
 # § 9406. Service schools: leaves of absence for instructors

@@ -3,9 +3,9 @@ title: "Section 1554a - Review of separation with disability rating of 20 percen
 usc_title: 10
 usc_section: "1554a"
 chapter: 79
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 1554a"
-generated_at: "2026-03-30T01:34:43.508Z"
+generated_at: "2026-03-30T01:38:58.728Z"
 ---
 
 # § 1554a. Review of separation with disability rating of 20 percent disabled or less

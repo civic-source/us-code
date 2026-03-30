@@ -3,9 +3,9 @@ title: "Section 3104 - Survival craft"
 usc_title: 46
 usc_section: "3104"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 3104"
-generated_at: "2026-03-30T01:37:55.424Z"
+generated_at: "2026-03-30T01:41:00.419Z"
 ---
 
 # § 3104. Survival craft

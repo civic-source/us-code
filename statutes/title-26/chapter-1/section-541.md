@@ -3,9 +3,9 @@ title: "Section 541 - Imposition of personal holding company tax"
 usc_title: 26
 usc_section: "541"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 541"
-generated_at: "2026-03-30T01:35:53.836Z"
+generated_at: "2026-03-30T01:40:11.179Z"
 ---
 
 # § 541. Imposition of personal holding company tax

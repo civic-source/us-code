@@ -3,9 +3,9 @@ title: "Section 2155b - International nuclear export and innovation activities"
 usc_title: 42
 usc_section: "2155b"
 chapter: 23
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 2155b"
-generated_at: "2026-03-30T01:37:20.920Z"
+generated_at: "2026-03-30T01:40:53.585Z"
 ---
 
 # § 2155b. International nuclear export and innovation activities

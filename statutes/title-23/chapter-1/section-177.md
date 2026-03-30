@@ -3,9 +3,9 @@ title: "Section 177 - Neighborhood access and equity grant program"
 usc_title: 23
 usc_section: "177"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "23 U.S.C. § 177"
-generated_at: "2026-03-30T01:35:23.160Z"
+generated_at: "2026-03-30T01:39:41.098Z"
 ---
 
 # § 177. Neighborhood access and equity grant program

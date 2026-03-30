@@ -3,9 +3,9 @@ title: "Section 2567 - Disposition of surplus defense plutonium at Savannah Rive
 usc_title: 50
 usc_section: "2567"
 chapter: 42
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "50 U.S.C. § 2567"
-generated_at: "2026-03-30T01:37:59.422Z"
+generated_at: "2026-03-30T01:40:59.390Z"
 ---
 
 # § 2567. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina

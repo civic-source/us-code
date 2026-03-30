@@ -3,9 +3,9 @@ title: "Section 2803 - Trial and interim franchises"
 usc_title: 15
 usc_section: "2803"
 chapter: 55
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 2803"
-generated_at: "2026-03-30T01:34:59.029Z"
+generated_at: "2026-03-30T01:39:11.414Z"
 ---
 
 # § 2803. Trial and interim franchises

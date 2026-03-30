@@ -3,9 +3,9 @@ title: "Section 76m - Photovoltaic system"
 usc_title: 20
 usc_section: "76m"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 76m"
-generated_at: "2026-03-30T01:35:10.309Z"
+generated_at: "2026-03-30T01:39:18.943Z"
 ---
 
 # § 76m. Photovoltaic system

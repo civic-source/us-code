@@ -3,9 +3,9 @@ title: "Section 1604 - Seizure; prosecution 1 1 See Codification note below."
 usc_title: 19
 usc_section: "1604"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "19 U.S.C. § 1604"
-generated_at: "2026-03-30T01:35:17.876Z"
+generated_at: "2026-03-30T01:39:35.570Z"
 ---
 
 # § 1604. Seizure; prosecution 1 1 See Codification note below.

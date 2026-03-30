@@ -3,9 +3,9 @@ title: "Section 11502 - Evaluation and reporting requirements"
 usc_title: 42
 usc_section: "11502"
 chapter: 120
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 11502"
-generated_at: "2026-03-30T01:37:21.176Z"
+generated_at: "2026-03-30T01:40:53.846Z"
 ---
 
 # § 11502. Evaluation and reporting requirements

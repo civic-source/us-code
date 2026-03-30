@@ -3,9 +3,9 @@ title: "Section 681b - Required reporting of certain cyber incidents"
 usc_title: 6
 usc_section: "681b"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "6 U.S.C. § 681b"
-generated_at: "2026-03-30T01:34:38.942Z"
+generated_at: "2026-03-30T01:38:39.282Z"
 ---
 
 # § 681b. Required reporting of certain cyber incidents

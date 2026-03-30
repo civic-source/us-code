@@ -3,9 +3,9 @@ title: "Section 75d - Acceptance of gifts; title to property"
 usc_title: 20
 usc_section: "75d"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 75d"
-generated_at: "2026-03-30T01:35:10.309Z"
+generated_at: "2026-03-30T01:39:18.942Z"
 ---
 
 # § 75d. Acceptance of gifts; title to property

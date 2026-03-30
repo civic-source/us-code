@@ -3,9 +3,9 @@ title: "Section 1335 - Interpleader"
 usc_title: 28
 usc_section: "1335"
 chapter: 85
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "28 U.S.C. § 1335"
-generated_at: "2026-03-30T01:35:43.607Z"
+generated_at: "2026-03-30T01:40:04.780Z"
 ---
 
 # § 1335. Interpleader

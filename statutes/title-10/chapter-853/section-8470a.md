@@ -3,9 +3,9 @@ title: "Section 8470a - Permanent professors: retirement for years of service; a
 usc_title: 10
 usc_section: "8470a"
 chapter: 853
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 8470a"
-generated_at: "2026-03-30T01:34:43.583Z"
+generated_at: "2026-03-30T01:38:58.816Z"
 ---
 
 # § 8470a. Permanent professors: retirement for years of service; authority for deferral

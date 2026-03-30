@@ -3,9 +3,9 @@ title: "Section 70032 - Saint Lawrence Seaway"
 usc_title: 46
 usc_section: "70032"
 chapter: 700
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "46 U.S.C. § 70032"
-generated_at: "2026-03-30T01:37:55.466Z"
+generated_at: "2026-03-30T01:41:00.463Z"
 ---
 
 # § 70032. Saint Lawrence Seaway

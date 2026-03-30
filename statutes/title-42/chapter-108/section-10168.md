@@ -3,9 +3,9 @@ title: "Section 10168 - Construction authorization"
 usc_title: 42
 usc_section: "10168"
 chapter: 108
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 10168"
-generated_at: "2026-03-30T01:37:21.156Z"
+generated_at: "2026-03-30T01:40:53.824Z"
 ---
 
 # § 10168. Construction authorization

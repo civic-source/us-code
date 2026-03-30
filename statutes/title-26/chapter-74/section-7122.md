@@ -3,9 +3,9 @@ title: "Section 7122 - Compromises"
 usc_title: 26
 usc_section: "7122"
 chapter: 74
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 7122"
-generated_at: "2026-03-30T01:35:53.975Z"
+generated_at: "2026-03-30T01:40:11.321Z"
 ---
 
 # § 7122. Compromises

@@ -3,9 +3,9 @@ title: "Section 1470a - Omitted"
 usc_title: 48
 usc_section: "1470a"
 chapter: 10
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "48 U.S.C. § 1470a"
-generated_at: "2026-03-30T01:37:24.740Z"
+generated_at: "2026-03-30T01:40:56.998Z"
 ---
 
 # § 1470a. Omitted

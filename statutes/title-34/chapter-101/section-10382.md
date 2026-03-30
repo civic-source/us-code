@@ -3,9 +3,9 @@ title: "Section 10382 - Applications"
 usc_title: 34
 usc_section: "10382"
 chapter: 101
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "34 U.S.C. § 10382"
-generated_at: "2026-03-30T01:36:15.989Z"
+generated_at: "2026-03-30T01:40:27.181Z"
 ---
 
 # § 10382. Applications

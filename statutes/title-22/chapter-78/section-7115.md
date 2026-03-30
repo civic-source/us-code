@@ -3,9 +3,9 @@ title: "Section 7115 - Ensuring protection and confidentiality for survivors of 
 usc_title: 22
 usc_section: "7115"
 chapter: 78
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 7115"
-generated_at: "2026-03-30T01:35:27.093Z"
+generated_at: "2026-03-30T01:39:56.253Z"
 ---
 
 # § 7115. Ensuring protection and confidentiality for survivors of human trafficking

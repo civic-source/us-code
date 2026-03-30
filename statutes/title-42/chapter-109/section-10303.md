@@ -3,9 +3,9 @@ title: "Section 10303 - Water resources research and technology institutes"
 usc_title: 42
 usc_section: "10303"
 chapter: 109
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 10303"
-generated_at: "2026-03-30T01:37:21.159Z"
+generated_at: "2026-03-30T01:40:53.827Z"
 ---
 
 # § 10303. Water resources research and technology institutes

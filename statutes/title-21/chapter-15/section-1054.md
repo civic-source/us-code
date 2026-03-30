@@ -3,9 +3,9 @@ title: "Section 1054 - Annual report to Congressional committees"
 usc_title: 21
 usc_section: "1054"
 chapter: 15
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 1054"
-generated_at: "2026-03-30T01:35:24.657Z"
+generated_at: "2026-03-30T01:39:43.419Z"
 ---
 
 # § 1054. Annual report to Congressional committees

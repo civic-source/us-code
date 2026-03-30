@@ -3,9 +3,9 @@ title: "Section 364c - Registration and product listing"
 usc_title: 21
 usc_section: "364c"
 chapter: 9
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "21 U.S.C. § 364c"
-generated_at: "2026-03-30T01:35:24.592Z"
+generated_at: "2026-03-30T01:39:43.332Z"
 ---
 
 # § 364c. Registration and product listing

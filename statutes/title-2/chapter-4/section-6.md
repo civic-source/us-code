@@ -3,9 +3,9 @@ title: "Section 6 - Repealed. Pub. L. 104–186, title II, § 204(39) , Aug. 20,
 usc_title: 2
 usc_section: "6"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "2 U.S.C. § 6"
-generated_at: "2026-03-30T01:34:23.523Z"
+generated_at: "2026-03-30T01:38:34.877Z"
 ---
 
 # § 88b–6. Repealed. Pub. L. 104–186, title II, § 204(39) , Aug. 20, 1996 , 110 Stat. 1735

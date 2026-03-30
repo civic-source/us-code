@@ -3,9 +3,9 @@ title: "Section 41910 - Renumbered § 41907]"
 usc_title: 49
 usc_section: "41910"
 chapter: 419
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 41910"
-generated_at: "2026-03-30T01:37:42.454Z"
+generated_at: "2026-03-30T01:41:03.434Z"
 ---
 
 # [§ 41910. Renumbered § 41907]

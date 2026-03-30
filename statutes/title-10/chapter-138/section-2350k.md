@@ -3,9 +3,9 @@ title: "Section 2350k - Relocation within host nation of elements of armed force
 usc_title: 10
 usc_section: "2350k"
 chapter: 138
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 2350k"
-generated_at: "2026-03-30T01:34:43.528Z"
+generated_at: "2026-03-30T01:38:58.751Z"
 ---
 
 # § 2350k. Relocation within host nation of elements of armed forces overseas

@@ -3,9 +3,9 @@ title: "Section 1424 - Utilization of services and facilities of Commodity Credi
 usc_title: 7
 usc_section: "1424"
 chapter: 35
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 1424"
-generated_at: "2026-03-30T01:34:33.603Z"
+generated_at: "2026-03-30T01:39:01.339Z"
 ---
 
 # § 1424. Utilization of services and facilities of Commodity Credit Corporation

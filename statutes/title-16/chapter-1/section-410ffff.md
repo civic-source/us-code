@@ -3,9 +3,9 @@ title: "Section 410ffff - Definitions"
 usc_title: 16
 usc_section: "410ffff"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 410ffff"
-generated_at: "2026-03-30T01:35:15.386Z"
+generated_at: "2026-03-30T01:39:30.745Z"
 ---
 
 # § 410ffff. Definitions

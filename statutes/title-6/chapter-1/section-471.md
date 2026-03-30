@@ -3,9 +3,9 @@ title: "Section 471 - Annual ammunition report"
 usc_title: 6
 usc_section: "471"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "6 U.S.C. § 471"
-generated_at: "2026-03-30T01:34:38.928Z"
+generated_at: "2026-03-30T01:38:39.265Z"
 ---
 
 # § 471. Annual ammunition report

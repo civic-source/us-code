@@ -3,9 +3,9 @@ title: "Section 19017 - Research and dissemination to increase the participation
 usc_title: 42
 usc_section: "19017"
 chapter: 163
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 19017"
-generated_at: "2026-03-30T01:37:21.306Z"
+generated_at: "2026-03-30T01:40:53.976Z"
 ---
 
 # § 19017. Research and dissemination to increase the participation of women and underrepresented minorities in STEM fields

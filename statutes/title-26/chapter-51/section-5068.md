@@ -3,9 +3,9 @@ title: "Section 5068 - Cross reference"
 usc_title: 26
 usc_section: "5068"
 chapter: 51
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 5068"
-generated_at: "2026-03-30T01:35:53.930Z"
+generated_at: "2026-03-30T01:40:11.276Z"
 ---
 
 # § 5068. Cross reference

@@ -3,9 +3,9 @@ title: "Section 4127 - Defense innovation unit 1 1 So in original. Probably shou
 usc_title: 10
 usc_section: "4127"
 chapter: 303
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 4127"
-generated_at: "2026-03-30T01:34:43.561Z"
+generated_at: "2026-03-30T01:38:58.790Z"
 ---
 
 # § 4127. Defense innovation unit 1 1 So in original. Probably should be “Defense Innovation Unit”.

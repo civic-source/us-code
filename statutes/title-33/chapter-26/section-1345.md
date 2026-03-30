@@ -3,9 +3,9 @@ title: "Section 1345 - Disposal or use of sewage sludge"
 usc_title: 33
 usc_section: "1345"
 chapter: 26
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 1345"
-generated_at: "2026-03-30T01:35:58.980Z"
+generated_at: "2026-03-30T01:40:15.601Z"
 ---
 
 # § 1345. Disposal or use of sewage sludge

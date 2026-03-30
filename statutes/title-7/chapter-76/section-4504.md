@@ -3,9 +3,9 @@ title: "Section 4504 - Required terms in orders"
 usc_title: 7
 usc_section: "4504"
 chapter: 76
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 4504"
-generated_at: "2026-03-30T01:34:33.678Z"
+generated_at: "2026-03-30T01:39:01.422Z"
 ---
 
 # § 4504. Required terms in orders

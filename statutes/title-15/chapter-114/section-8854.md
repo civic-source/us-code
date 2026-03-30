@@ -3,9 +3,9 @@ title: "Section 8854 - Department of Energy Quantum User Expansion for Science a
 usc_title: 15
 usc_section: "8854"
 chapter: 114
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 8854"
-generated_at: "2026-03-30T01:34:59.081Z"
+generated_at: "2026-03-30T01:39:11.469Z"
 ---
 
 # § 8854. Department of Energy Quantum User Expansion for Science and Technology program

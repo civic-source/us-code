@@ -3,9 +3,9 @@ title: "Section 393 - Federal reserve banks as depositaries for Farm Credit Syst
 usc_title: 12
 usc_section: "393"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 393"
-generated_at: "2026-03-30T01:35:04.832Z"
+generated_at: "2026-03-30T01:39:07.970Z"
 ---
 
 # § 393. Federal reserve banks as depositaries for Farm Credit System

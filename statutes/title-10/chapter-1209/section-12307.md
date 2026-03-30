@@ -3,9 +3,9 @@ title: "Section 12307 - Retired Reserve"
 usc_title: 10
 usc_section: "12307"
 chapter: 1209
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 12307"
-generated_at: "2026-03-30T01:34:43.603Z"
+generated_at: "2026-03-30T01:38:58.837Z"
 ---
 
 # § 12307. Retired Reserve

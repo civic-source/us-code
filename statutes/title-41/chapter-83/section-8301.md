@@ -3,9 +3,9 @@ title: "Section 8301 - Definitions"
 usc_title: 41
 usc_section: "8301"
 chapter: 83
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "41 U.S.C. § 8301"
-generated_at: "2026-03-30T01:36:27.011Z"
+generated_at: "2026-03-30T01:40:36.627Z"
 ---
 
 # § 8301. Definitions

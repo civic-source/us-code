@@ -3,9 +3,9 @@ title: "Section 7714 - Coordination with United States Agency for International 
 usc_title: 22
 usc_section: "7714"
 chapter: 84
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 7714"
-generated_at: "2026-03-30T01:35:27.099Z"
+generated_at: "2026-03-30T01:39:56.261Z"
 ---
 
 # § 7714. Coordination with United States Agency for International Development

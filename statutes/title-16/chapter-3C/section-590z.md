@@ -3,9 +3,9 @@ title: "Section 590z - Utilization of services, materials, funds, etc., of Feder
 usc_title: 16
 usc_section: "590z"
 chapter: 3
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 590z"
-generated_at: "2026-03-30T01:35:15.453Z"
+generated_at: "2026-03-30T01:39:30.820Z"
 ---
 
 # § 590z. Utilization of services, materials, funds, etc., of Federal, State, or municipal agencies, or of individuals

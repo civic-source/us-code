@@ -3,9 +3,9 @@ title: "Section 2370c - Definitions"
 usc_title: 22
 usc_section: "2370c"
 chapter: 32
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2370c"
-generated_at: "2026-03-30T01:35:27.016Z"
+generated_at: "2026-03-30T01:39:56.166Z"
 ---
 
 # § 2370c. Definitions

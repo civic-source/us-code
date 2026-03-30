@@ -3,9 +3,9 @@ title: "Section 8706 - Referenda"
 usc_title: 15
 usc_section: "8706"
 chapter: 113
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 8706"
-generated_at: "2026-03-30T01:34:59.079Z"
+generated_at: "2026-03-30T01:39:11.468Z"
 ---
 
 # § 8706. Referenda

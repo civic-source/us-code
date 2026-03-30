@@ -3,9 +3,9 @@ title: "Section 2317 - Sale or receipt of livestock"
 usc_title: 18
 usc_section: "2317"
 chapter: 113
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 2317"
-generated_at: "2026-03-30T01:35:19.721Z"
+generated_at: "2026-03-30T01:39:37.865Z"
 ---
 
 # § 2317. Sale or receipt of livestock

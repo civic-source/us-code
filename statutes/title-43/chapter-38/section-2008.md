@@ -3,9 +3,9 @@ title: "Section 2008 - Procedures for waiver of Federal law"
 usc_title: 43
 usc_section: "2008"
 chapter: 38
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 2008"
-generated_at: "2026-03-30T01:36:30.397Z"
+generated_at: "2026-03-30T01:40:37.610Z"
 ---
 
 # § 2008. Procedures for waiver of Federal law

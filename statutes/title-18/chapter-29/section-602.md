@@ -3,9 +3,9 @@ title: "Section 602 - Solicitation of political contributions"
 usc_title: 18
 usc_section: "602"
 chapter: 29
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "18 U.S.C. § 602"
-generated_at: "2026-03-30T01:35:19.692Z"
+generated_at: "2026-03-30T01:39:37.833Z"
 ---
 
 # § 602. Solicitation of political contributions

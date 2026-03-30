@@ -3,9 +3,9 @@ title: "Section 621 - Reports to Congress"
 usc_title: 22
 usc_section: "621"
 chapter: 11
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 621"
-generated_at: "2026-03-30T01:35:26.987Z"
+generated_at: "2026-03-30T01:39:56.130Z"
 ---
 
 # § 621. Reports to Congress

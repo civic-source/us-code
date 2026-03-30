@@ -3,9 +3,9 @@ title: "Section 1869 - Scholarships and graduate fellowships"
 usc_title: 42
 usc_section: "1869"
 chapter: 16
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 1869"
-generated_at: "2026-03-30T01:37:20.895Z"
+generated_at: "2026-03-30T01:40:53.564Z"
 ---
 
 # § 1869. Scholarships and graduate fellowships

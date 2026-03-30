@@ -3,9 +3,9 @@ title: "Section 375c - Disbursement of sums not exceeding $500 to heirs or legat
 usc_title: 25
 usc_section: "375c"
 chapter: 10
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 375c"
-generated_at: "2026-03-30T01:35:34.091Z"
+generated_at: "2026-03-30T01:39:42.173Z"
 ---
 
 # § 375c. Disbursement of sums not exceeding $500 to heirs or legatees

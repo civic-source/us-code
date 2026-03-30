@@ -3,9 +3,9 @@ title: "Section 410www - Establishment of Martin Luther King, Jr. National Histo
 usc_title: 16
 usc_section: "410www"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 410www"
-generated_at: "2026-03-30T01:35:15.383Z"
+generated_at: "2026-03-30T01:39:30.743Z"
 ---
 
 # § 410www. Establishment of Martin Luther King, Jr. National Historical Park

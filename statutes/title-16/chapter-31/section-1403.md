@@ -3,9 +3,9 @@ title: "Section 1403 - Committee of Scientific Advisors on Marine Mammals"
 usc_title: 16
 usc_section: "1403"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 1403"
-generated_at: "2026-03-30T01:35:15.512Z"
+generated_at: "2026-03-30T01:39:30.884Z"
 ---
 
 # § 1403. Committee of Scientific Advisors on Marine Mammals

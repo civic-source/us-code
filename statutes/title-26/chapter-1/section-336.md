@@ -3,9 +3,9 @@ title: "Section 336 - Gain or loss recognized on property distributed in complet
 usc_title: 26
 usc_section: "336"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 336"
-generated_at: "2026-03-30T01:35:53.790Z"
+generated_at: "2026-03-30T01:40:11.132Z"
 ---
 
 # § 336. Gain or loss recognized on property distributed in complete liquidation

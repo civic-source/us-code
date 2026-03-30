@@ -3,9 +3,9 @@ title: "Section 4804 - Briefings on embassy security"
 usc_title: 22
 usc_section: "4804"
 chapter: 58
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 4804"
-generated_at: "2026-03-30T01:35:27.068Z"
+generated_at: "2026-03-30T01:39:56.226Z"
 ---
 
 # § 4804. Briefings on embassy security

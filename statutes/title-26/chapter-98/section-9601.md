@@ -3,9 +3,9 @@ title: "Section 9601 - Transfer of amounts"
 usc_title: 26
 usc_section: "9601"
 chapter: 98
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 9601"
-generated_at: "2026-03-30T01:35:53.999Z"
+generated_at: "2026-03-30T01:40:11.343Z"
 ---
 
 # § 9601. Transfer of amounts

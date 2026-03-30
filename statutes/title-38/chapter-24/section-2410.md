@@ -3,9 +3,9 @@ title: "Section 2410 - Burial of cremated remains in Arlington National Cemetery
 usc_title: 38
 usc_section: "2410"
 chapter: 24
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "38 U.S.C. § 2410"
-generated_at: "2026-03-30T01:36:22.200Z"
+generated_at: "2026-03-30T01:40:33.384Z"
 ---
 
 # § 2410. Burial of cremated remains in Arlington National Cemetery

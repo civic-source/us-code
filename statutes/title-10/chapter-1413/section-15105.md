@@ -3,9 +3,9 @@ title: "Section 15105 - Promotions"
 usc_title: 10
 usc_section: "15105"
 chapter: 1413
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 15105"
-generated_at: "2026-03-30T01:34:43.609Z"
+generated_at: "2026-03-30T01:38:58.844Z"
 ---
 
 # § 15105. Promotions

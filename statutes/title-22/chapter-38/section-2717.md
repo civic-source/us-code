@@ -3,9 +3,9 @@ title: "Section 2717 - Defense trade controls registration fees"
 usc_title: 22
 usc_section: "2717"
 chapter: 38
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2717"
-generated_at: "2026-03-30T01:35:27.034Z"
+generated_at: "2026-03-30T01:39:56.186Z"
 ---
 
 # § 2717. Defense trade controls registration fees

@@ -3,9 +3,9 @@ title: "Section 8334 - Deductions, contributions, and deposits"
 usc_title: 5
 usc_section: "8334"
 chapter: 83
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "5 U.S.C. § 8334"
-generated_at: "2026-03-30T01:34:27.253Z"
+generated_at: "2026-03-30T01:38:29.870Z"
 ---
 
 # § 8334. Deductions, contributions, and deposits

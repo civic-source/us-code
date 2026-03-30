@@ -3,9 +3,9 @@ title: "Section 1402 - United States as defendant"
 usc_title: 28
 usc_section: "1402"
 chapter: 87
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "28 U.S.C. § 1402"
-generated_at: "2026-03-30T01:35:43.608Z"
+generated_at: "2026-03-30T01:40:04.782Z"
 ---
 
 # § 1402. United States as defendant

@@ -3,9 +3,9 @@ title: "Section 1530 - Coordination of more than 1 foreign proceeding"
 usc_title: 11
 usc_section: "1530"
 chapter: 15
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "11 U.S.C. § 1530"
-generated_at: "2026-03-30T01:35:01.347Z"
+generated_at: "2026-03-30T01:39:11.847Z"
 ---
 
 # § 1530. Coordination of more than 1 foreign proceeding

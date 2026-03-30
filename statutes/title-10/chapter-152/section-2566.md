@@ -3,9 +3,9 @@ title: "Section 2566 - Space and services: provision to military welfare societi
 usc_title: 10
 usc_section: "2566"
 chapter: 152
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 2566"
-generated_at: "2026-03-30T01:34:43.533Z"
+generated_at: "2026-03-30T01:38:58.758Z"
 ---
 
 # § 2566. Space and services: provision to military welfare societies

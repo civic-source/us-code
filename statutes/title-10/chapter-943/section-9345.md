@@ -3,9 +3,9 @@ title: "Section 9345 - Restoration to former grade: retired warrant officers and
 usc_title: 10
 usc_section: "9345"
 chapter: 943
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 9345"
-generated_at: "2026-03-30T01:34:43.593Z"
+generated_at: "2026-03-30T01:38:58.827Z"
 ---
 
 # § 9345. Restoration to former grade: retired warrant officers and enlisted members

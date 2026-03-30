@@ -3,9 +3,9 @@ title: "Section 1608 - Revenue sharing"
 usc_title: 43
 usc_section: "1608"
 chapter: 33
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 1608"
-generated_at: "2026-03-30T01:36:30.383Z"
+generated_at: "2026-03-30T01:40:37.595Z"
 ---
 
 # § 1608. Revenue sharing

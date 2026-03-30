@@ -3,9 +3,9 @@ title: "Section 1473d - Insurance costs covering vehicles, aircraft, and boats o
 usc_title: 43
 usc_section: "1473d"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 1473d"
-generated_at: "2026-03-30T01:36:30.378Z"
+generated_at: "2026-03-30T01:40:37.590Z"
 ---
 
 # § 1473d. Insurance costs covering vehicles, aircraft, and boats operated by Department of the Interior in Canada and Mexico

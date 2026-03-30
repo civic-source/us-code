@@ -3,9 +3,9 @@ title: "Section 4138 - Availability of records"
 usc_title: 25
 usc_section: "4138"
 chapter: 43
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "25 U.S.C. § 4138"
-generated_at: "2026-03-30T01:35:34.140Z"
+generated_at: "2026-03-30T01:39:42.230Z"
 ---
 
 # § 4138. Availability of records

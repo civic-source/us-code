@@ -3,9 +3,9 @@ title: "Section 2320 - Regulations"
 usc_title: 19
 usc_section: "2320"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "19 U.S.C. § 2320"
-generated_at: "2026-03-30T01:35:17.896Z"
+generated_at: "2026-03-30T01:39:35.594Z"
 ---
 
 # § 2320. Regulations

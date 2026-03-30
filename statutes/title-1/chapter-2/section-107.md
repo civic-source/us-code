@@ -3,9 +3,9 @@ title: "Section 107 - Parchment or paper for printing enrolled bills or resoluti
 usc_title: 1
 usc_section: "107"
 chapter: 2
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "1 U.S.C. § 107"
-generated_at: "2026-03-30T01:34:21.306Z"
+generated_at: "2026-03-30T01:38:21.180Z"
 ---
 
 # § 107. Parchment or paper for printing enrolled bills or resolutions

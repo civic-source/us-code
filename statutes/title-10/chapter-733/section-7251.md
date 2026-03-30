@@ -3,9 +3,9 @@ title: "Section 7251 - Presentation of United States flag upon retirement"
 usc_title: 10
 usc_section: "7251"
 chapter: 733
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 7251"
-generated_at: "2026-03-30T01:34:43.573Z"
+generated_at: "2026-03-30T01:38:58.804Z"
 ---
 
 # § 7251. Presentation of United States flag upon retirement

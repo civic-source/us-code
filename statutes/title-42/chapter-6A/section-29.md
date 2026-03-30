@@ -3,9 +3,9 @@ title: "Section 29 - Technical assistance"
 usc_title: 42
 usc_section: "29"
 chapter: 6
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 29"
-generated_at: "2026-03-30T01:37:20.591Z"
+generated_at: "2026-03-30T01:40:53.263Z"
 ---
 
 # § 300ff–29. Technical assistance

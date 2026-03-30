@@ -3,9 +3,9 @@ title: "Section 7075 - Regular Army: composition"
 usc_title: 10
 usc_section: "7075"
 chapter: 707
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 7075"
-generated_at: "2026-03-30T01:34:43.572Z"
+generated_at: "2026-03-30T01:38:58.803Z"
 ---
 
 # § 7075. Regular Army: composition

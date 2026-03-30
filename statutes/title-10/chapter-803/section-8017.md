@@ -3,9 +3,9 @@ title: "Section 8017 - Secretary of the Navy: successors to duties"
 usc_title: 10
 usc_section: "8017"
 chapter: 803
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 8017"
-generated_at: "2026-03-30T01:34:43.578Z"
+generated_at: "2026-03-30T01:38:58.811Z"
 ---
 
 # § 8017. Secretary of the Navy: successors to duties

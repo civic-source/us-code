@@ -3,9 +3,9 @@ title: "Section 6346 - Sustainable manufacturing initiative"
 usc_title: 42
 usc_section: "6346"
 chapter: 77
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 6346"
-generated_at: "2026-03-30T01:37:21.028Z"
+generated_at: "2026-03-30T01:40:53.691Z"
 ---
 
 # § 6346. Sustainable manufacturing initiative

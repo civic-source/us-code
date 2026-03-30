@@ -3,9 +3,9 @@ title: "Section 17 - Penalties"
 usc_title: 15
 usc_section: "17"
 chapter: 2
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "15 U.S.C. § 17"
-generated_at: "2026-03-30T01:34:58.922Z"
+generated_at: "2026-03-30T01:39:11.285Z"
 ---
 
 # § 80b–17. Penalties

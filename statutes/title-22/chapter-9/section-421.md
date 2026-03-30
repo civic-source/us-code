@@ -3,9 +3,9 @@ title: "Section 421 - Contracts by Government agencies for defense articles, ser
 usc_title: 22
 usc_section: "421"
 chapter: 9
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 421"
-generated_at: "2026-03-30T01:35:26.986Z"
+generated_at: "2026-03-30T01:39:56.128Z"
 ---
 
 # § 421. Contracts by Government agencies for defense articles, services, etc., for foreign governments in interests of United States

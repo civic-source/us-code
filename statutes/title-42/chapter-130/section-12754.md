@@ -3,9 +3,9 @@ title: "Section 12754 - Limitation on jurisdictions under court order"
 usc_title: 42
 usc_section: "12754"
 chapter: 130
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 12754"
-generated_at: "2026-03-30T01:37:21.203Z"
+generated_at: "2026-03-30T01:40:53.875Z"
 ---
 
 # § 12754. Limitation on jurisdictions under court order

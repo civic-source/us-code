@@ -3,9 +3,9 @@ title: "Section 211b - Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 
 usc_title: 24
 usc_section: "211b"
 chapter: 4
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "24 U.S.C. § 211b"
-generated_at: "2026-03-30T01:35:29.044Z"
+generated_at: "2026-03-30T01:39:40.098Z"
 ---
 
 # §§ 211 to 211b. Repealed. Pub. L. 98–621, § 10(a) , Nov. 8, 1984 , 98 Stat. 3379

@@ -3,9 +3,9 @@ title: "Section 19251 - Interagency working group"
 usc_title: 42
 usc_section: "19251"
 chapter: 163
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "42 U.S.C. § 19251"
-generated_at: "2026-03-30T01:37:21.313Z"
+generated_at: "2026-03-30T01:40:53.982Z"
 ---
 
 # § 19251. Interagency working group

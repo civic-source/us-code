@@ -3,9 +3,9 @@ title: "Section 2254 - Examinations"
 usc_title: 12
 usc_section: "2254"
 chapter: 23
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "12 U.S.C. § 2254"
-generated_at: "2026-03-30T01:35:04.920Z"
+generated_at: "2026-03-30T01:39:08.065Z"
 ---
 
 # § 2254. Examinations

@@ -3,9 +3,9 @@ title: "Section 5202 - Supervision of operations"
 usc_title: 26
 usc_section: "5202"
 chapter: 51
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 5202"
-generated_at: "2026-03-30T01:35:53.931Z"
+generated_at: "2026-03-30T01:40:11.278Z"
 ---
 
 # § 5202. Supervision of operations

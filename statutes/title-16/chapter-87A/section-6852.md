@@ -3,9 +3,9 @@ title: "Section 6852 - Interagency data standardization"
 usc_title: 16
 usc_section: "6852"
 chapter: 87
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 6852"
-generated_at: "2026-03-30T01:35:15.585Z"
+generated_at: "2026-03-30T01:39:30.964Z"
 ---
 
 # § 6852. Interagency data standardization

@@ -3,9 +3,9 @@ title: "Section 1053 - Property acquired before March 1, 1913"
 usc_title: 26
 usc_section: "1053"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "26 U.S.C. § 1053"
-generated_at: "2026-03-30T01:35:53.872Z"
+generated_at: "2026-03-30T01:40:11.218Z"
 ---
 
 # § 1053. Property acquired before March 1, 1913

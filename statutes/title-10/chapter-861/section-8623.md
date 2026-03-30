@@ -3,9 +3,9 @@ title: "Section 8623 - Acquisition of land for radio stations and for other purp
 usc_title: 10
 usc_section: "8623"
 chapter: 861
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "10 U.S.C. § 8623"
-generated_at: "2026-03-30T01:34:43.585Z"
+generated_at: "2026-03-30T01:38:58.818Z"
 ---
 
 # § 8623. Acquisition of land for radio stations and for other purposes

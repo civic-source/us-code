@@ -3,9 +3,9 @@ title: "Section 41301 - Requirement for a permit"
 usc_title: 49
 usc_section: "41301"
 chapter: 413
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "49 U.S.C. § 41301"
-generated_at: "2026-03-30T01:37:42.448Z"
+generated_at: "2026-03-30T01:41:03.428Z"
 ---
 
 # § 41301. Requirement for a permit

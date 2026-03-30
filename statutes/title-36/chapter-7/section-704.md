@@ -3,9 +3,9 @@ title: "Section 704 - Activities"
 usc_title: 36
 usc_section: "704"
 chapter: 7
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "36 U.S.C. § 704"
-generated_at: "2026-03-30T01:36:25.160Z"
+generated_at: "2026-03-30T01:40:30.534Z"
 ---
 
 # § 704. Activities

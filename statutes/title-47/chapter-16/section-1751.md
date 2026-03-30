@@ -3,9 +3,9 @@ title: "Section 1751 - Definitions"
 usc_title: 47
 usc_section: "1751"
 chapter: 16
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "47 U.S.C. § 1751"
-generated_at: "2026-03-30T01:37:33.856Z"
+generated_at: "2026-03-30T01:40:57.799Z"
 ---
 
 # § 1751. Definitions

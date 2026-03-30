@@ -3,9 +3,9 @@ title: "Section 4405 - Conditions relating to wetlands conservation projects"
 usc_title: 16
 usc_section: "4405"
 chapter: 64
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "16 U.S.C. § 4405"
-generated_at: "2026-03-30T01:35:15.567Z"
+generated_at: "2026-03-30T01:39:30.944Z"
 ---
 
 # § 4405. Conditions relating to wetlands conservation projects

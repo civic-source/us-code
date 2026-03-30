@@ -3,9 +3,9 @@ title: "Section 7221a - Program authorized"
 usc_title: 20
 usc_section: "7221a"
 chapter: 70
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "20 U.S.C. § 7221a"
-generated_at: "2026-03-30T01:35:10.424Z"
+generated_at: "2026-03-30T01:39:19.140Z"
 ---
 
 # § 7221a. Program authorized

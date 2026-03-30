@@ -3,9 +3,9 @@ title: "Section 2295b - Authorities relating to assistance and other provisions"
 usc_title: 22
 usc_section: "2295b"
 chapter: 32
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "22 U.S.C. § 2295b"
-generated_at: "2026-03-30T01:35:27.011Z"
+generated_at: "2026-03-30T01:39:56.160Z"
 ---
 
 # § 2295b. Authorities relating to assistance and other provisions

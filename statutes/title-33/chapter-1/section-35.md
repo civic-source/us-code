@@ -3,9 +3,9 @@ title: "Section 35 - Mississippi River, West Channel, opposite La Crosse, Wiscon
 usc_title: 33
 usc_section: "35"
 chapter: 1
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 35"
-generated_at: "2026-03-30T01:35:58.934Z"
+generated_at: "2026-03-30T01:40:15.548Z"
 ---
 
 # § 35. Mississippi River, West Channel, opposite La Crosse, Wisconsin

@@ -3,9 +3,9 @@ title: "Section 940b - Use of funds"
 usc_title: 7
 usc_section: "940b"
 chapter: 31
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "7 U.S.C. § 940b"
-generated_at: "2026-03-30T01:34:33.592Z"
+generated_at: "2026-03-30T01:39:01.327Z"
 ---
 
 # § 940b. Use of funds

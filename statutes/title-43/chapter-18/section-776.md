@@ -3,9 +3,9 @@ title: "Section 776 - Cadastre of Federal real property"
 usc_title: 43
 usc_section: "776"
 chapter: 18
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "43 U.S.C. § 776"
-generated_at: "2026-03-30T01:36:30.367Z"
+generated_at: "2026-03-30T01:40:37.578Z"
 ---
 
 # § 776. Cadastre of Federal real property

@@ -3,9 +3,9 @@ title: "Section 557b - Sale of publications, charts, or other material; deposit 
 usc_title: 33
 usc_section: "557b"
 chapter: 12
-current_through: "PL 118-78"
+current_through: "PL 118-82"
 classification: "33 U.S.C. § 557b"
-generated_at: "2026-03-30T01:35:58.945Z"
+generated_at: "2026-03-30T01:40:15.560Z"
 ---
 
 # § 557b. Sale of publications, charts, or other material; deposit of proceeds
