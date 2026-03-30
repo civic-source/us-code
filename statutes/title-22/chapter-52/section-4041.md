@@ -3,9 +3,9 @@ title: "Section 4041 - Administration"
 usc_title: 22
 usc_section: "4041"
 chapter: 52
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "22 U.S.C. § 4041"
-generated_at: "2026-03-30T08:38:01.211Z"
+generated_at: "2026-03-30T08:43:08.020Z"
 status: "active"
 ---
 

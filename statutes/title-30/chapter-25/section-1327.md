@@ -3,9 +3,9 @@ title: "Section 1327 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1327"
 chapter: 25
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "30 U.S.C. § 1327"
-generated_at: "2026-03-30T08:38:30.712Z"
+generated_at: "2026-03-30T08:43:19.133Z"
 status: "active"
 ---
 

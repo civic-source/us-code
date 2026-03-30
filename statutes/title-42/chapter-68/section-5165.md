@@ -3,9 +3,9 @@ title: "Section 5165 - Mitigation planning"
 usc_title: 42
 usc_section: "5165"
 chapter: 68
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 5165"
-generated_at: "2026-03-30T08:40:14.081Z"
+generated_at: "2026-03-30T08:43:59.803Z"
 status: "active"
 ---
 

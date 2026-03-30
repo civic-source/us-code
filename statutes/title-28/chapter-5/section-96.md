@@ -3,9 +3,9 @@ title: "Section 96 - Kansas"
 usc_title: 28
 usc_section: "96"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "28 U.S.C. § 96"
-generated_at: "2026-03-30T08:38:48.673Z"
+generated_at: "2026-03-30T08:43:13.205Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6684 - Assessable penalties with respect to liability for tax un
 usc_title: 26
 usc_section: "6684"
 chapter: 68
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 6684"
-generated_at: "2026-03-30T08:38:43.219Z"
+generated_at: "2026-03-30T08:43:18.649Z"
 status: "active"
 ---
 

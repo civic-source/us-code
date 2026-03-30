@@ -3,9 +3,9 @@ title: "Section 282 - Presumption of validity; defenses"
 usc_title: 35
 usc_section: "282"
 chapter: 29
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "35 U.S.C. § 282"
-generated_at: "2026-03-30T08:38:51.624Z"
+generated_at: "2026-03-30T08:43:20.856Z"
 status: "active"
 ---
 

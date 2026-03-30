@@ -3,9 +3,9 @@ title: "Section 40728 - Establishment of best practices for evidence retention"
 usc_title: 34
 usc_section: "40728"
 chapter: 407
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "34 U.S.C. § 40728"
-generated_at: "2026-03-30T08:38:59.149Z"
+generated_at: "2026-03-30T08:43:22.460Z"
 status: "active"
 ---
 

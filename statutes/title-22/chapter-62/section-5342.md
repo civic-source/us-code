@@ -3,9 +3,9 @@ title: "Section 5342 - Requirement of national treatment in underwriting governm
 usc_title: 22
 usc_section: "5342"
 chapter: 62
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "22 U.S.C. § 5342"
-generated_at: "2026-03-30T08:38:01.225Z"
+generated_at: "2026-03-30T08:43:08.034Z"
 status: "active"
 ---
 

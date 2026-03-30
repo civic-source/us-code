@@ -3,9 +3,9 @@ title: "Section 4603a - Study and report by Semiconductor Technology Council"
 usc_title: 15
 usc_section: "4603a"
 chapter: 72
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 4603a"
-generated_at: "2026-03-30T08:37:34.270Z"
+generated_at: "2026-03-30T08:41:59.369Z"
 status: "active"
 ---
 

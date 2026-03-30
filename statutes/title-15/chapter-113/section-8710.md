@@ -3,9 +3,9 @@ title: "Section 8710 - Suspension or termination"
 usc_title: 15
 usc_section: "8710"
 chapter: 113
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 8710"
-generated_at: "2026-03-30T08:37:34.303Z"
+generated_at: "2026-03-30T08:41:59.397Z"
 status: "active"
 ---
 

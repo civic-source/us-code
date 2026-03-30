@@ -3,9 +3,9 @@ title: "Section 464c - Student housing"
 usc_title: 6
 usc_section: "464c"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "6 U.S.C. § 464c"
-generated_at: "2026-03-30T08:37:22.582Z"
+generated_at: "2026-03-30T08:41:31.539Z"
 status: "active"
 ---
 

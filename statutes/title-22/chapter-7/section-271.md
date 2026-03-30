@@ -3,9 +3,9 @@ title: "Section 271 - International Labor Organization; membership"
 usc_title: 22
 usc_section: "271"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "22 U.S.C. § 271"
-generated_at: "2026-03-30T08:38:01.127Z"
+generated_at: "2026-03-30T08:43:07.943Z"
 status: "active"
 ---
 

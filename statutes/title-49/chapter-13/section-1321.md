@@ -3,9 +3,9 @@ title: "Section 1321 - Powers"
 usc_title: 49
 usc_section: "1321"
 chapter: 13
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "49 U.S.C. § 1321"
-generated_at: "2026-03-30T08:40:50.126Z"
+generated_at: "2026-03-30T08:44:05.877Z"
 status: "active"
 ---
 

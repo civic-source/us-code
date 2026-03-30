@@ -3,9 +3,9 @@ title: "Section 40704 - Restrictions"
 usc_title: 36
 usc_section: "40704"
 chapter: 407
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "36 U.S.C. § 40704"
-generated_at: "2026-03-30T08:39:16.433Z"
+generated_at: "2026-03-30T08:43:28.602Z"
 status: "active"
 ---
 

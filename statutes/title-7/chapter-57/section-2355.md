@@ -3,9 +3,9 @@ title: "Section 2355 - Effect of defective execution"
 usc_title: 7
 usc_section: "2355"
 chapter: 57
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 2355"
-generated_at: "2026-03-30T08:37:18.127Z"
+generated_at: "2026-03-30T08:41:28.998Z"
 status: "active"
 ---
 

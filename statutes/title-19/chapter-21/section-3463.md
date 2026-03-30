@@ -3,9 +3,9 @@ title: "Section 3463 - Report on impact of NAFTA on motor vehicle exports to Mex
 usc_title: 19
 usc_section: "3463"
 chapter: 21
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "19 U.S.C. § 3463"
-generated_at: "2026-03-30T08:37:50.241Z"
+generated_at: "2026-03-30T08:42:22.693Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 282a - Designation; administration, protection, and development"
 usc_title: 16
 usc_section: "282a"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 282a"
-generated_at: "2026-03-30T08:37:53.273Z"
+generated_at: "2026-03-30T08:42:34.667Z"
 status: "active"
 ---
 

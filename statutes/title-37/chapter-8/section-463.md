@@ -3,9 +3,9 @@ title: "Section 463 - Programs of compliance; electronic processing of travel cl
 usc_title: 37
 usc_section: "463"
 chapter: 8
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "37 U.S.C. § 463"
-generated_at: "2026-03-30T08:39:13.490Z"
+generated_at: "2026-03-30T08:43:35.356Z"
 status: "active"
 ---
 

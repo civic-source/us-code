@@ -3,9 +3,9 @@ title: "Section 672 - Grants to States"
 usc_title: 29
 usc_section: "672"
 chapter: 15
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "29 U.S.C. § 672"
-generated_at: "2026-03-30T08:38:19.467Z"
+generated_at: "2026-03-30T08:43:11.954Z"
 status: "active"
 ---
 

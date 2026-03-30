@@ -3,9 +3,9 @@ title: "Section 29 - Renumbered § 45K]"
 usc_title: 26
 usc_section: "29"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 29"
-generated_at: "2026-03-30T08:38:42.995Z"
+generated_at: "2026-03-30T08:43:18.436Z"
 status: "renumbered"
 ---
 

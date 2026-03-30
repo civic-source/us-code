@@ -3,9 +3,9 @@ title: "Section 7311 - Establishment"
 usc_title: 7
 usc_section: "7311"
 chapter: 100
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 7311"
-generated_at: "2026-03-30T08:37:18.181Z"
+generated_at: "2026-03-30T08:41:29.043Z"
 status: "active"
 ---
 

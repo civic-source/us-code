@@ -3,9 +3,9 @@ title: "Section 2992 - Omitted"
 usc_title: 20
 usc_section: "2992"
 chapter: 47
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 2992"
-generated_at: "2026-03-30T08:37:39.475Z"
+generated_at: "2026-03-30T08:42:24.677Z"
 status: "omitted"
 ---
 

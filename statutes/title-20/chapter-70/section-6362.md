@@ -3,9 +3,9 @@ title: "Section 6362 - State option to conduct assessment system audit"
 usc_title: 20
 usc_section: "6362"
 chapter: 70
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 6362"
-generated_at: "2026-03-30T08:37:39.495Z"
+generated_at: "2026-03-30T08:42:24.696Z"
 status: "active"
 ---
 

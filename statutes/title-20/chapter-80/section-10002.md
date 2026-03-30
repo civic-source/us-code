@@ -3,9 +3,9 @@ title: "Section 10002 - State uses of funds"
 usc_title: 20
 usc_section: "10002"
 chapter: 80
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 10002"
-generated_at: "2026-03-30T08:37:39.528Z"
+generated_at: "2026-03-30T08:42:24.726Z"
 status: "active"
 ---
 

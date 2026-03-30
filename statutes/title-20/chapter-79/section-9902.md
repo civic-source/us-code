@@ -3,9 +3,9 @@ title: "Section 9902 - Program requirements"
 usc_title: 20
 usc_section: "9902"
 chapter: 79
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 9902"
-generated_at: "2026-03-30T08:37:39.528Z"
+generated_at: "2026-03-30T08:42:24.726Z"
 status: "active"
 ---
 

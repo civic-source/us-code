@@ -3,9 +3,9 @@ title: "Section 926 - Certain rural development investments by qualified telepho
 usc_title: 7
 usc_section: "926"
 chapter: 31
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 926"
-generated_at: "2026-03-30T08:37:18.048Z"
+generated_at: "2026-03-30T08:41:28.931Z"
 status: "active"
 ---
 

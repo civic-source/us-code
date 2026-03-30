@@ -3,9 +3,9 @@ title: "Section 5413 - Repealed. Pub. L. 104–113, § 11(j) , Mar. 7, 1996 , 11
 usc_title: 15
 usc_section: "5413"
 chapter: 80
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 5413"
-generated_at: "2026-03-30T08:37:34.275Z"
+generated_at: "2026-03-30T08:41:59.372Z"
 status: "repealed"
 ---
 

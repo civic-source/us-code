@@ -3,9 +3,9 @@ title: "Section 1973b - Transferred"
 usc_title: 42
 usc_section: "1973b"
 chapter: 20
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 1973b"
-generated_at: "2026-03-30T08:40:14.006Z"
+generated_at: "2026-03-30T08:43:59.733Z"
 status: "transferred"
 ---
 

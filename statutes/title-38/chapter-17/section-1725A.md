@@ -3,9 +3,9 @@ title: "Section 1725A - Access to walk-in care"
 usc_title: 38
 usc_section: "1725A"
 chapter: 17
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 1725A"
-generated_at: "2026-03-30T08:39:25.570Z"
+generated_at: "2026-03-30T08:43:32.308Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** For purposes of this section, an eligible veteran is any individual who—
   - **(1)** is enrolled in the health care system established under section 1705(a) of this title ; and
   - **(2)** has received care under this chapter within the 24-month period preceding the furnishing of walk-in care under this section.
-- **(c)** For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract 1 1 So in original. Probably should be followed by a comma. agreement, or other arrangement with the Secretary to furnish services under this section.
+- **(c)** For purposes of this section, a qualifying non-Department entity or provider is a non-Department entity or provider that has entered into a contract, agreement, or other arrangement with the Secretary to furnish services under this section.
 - **(d)** Whenever practicable, the Secretary may use a Federally-qualified health center (as defined in section 1905( l )(2)(B) of the Social Security Act ( 42 U.S.C. 1396d ( l )(2)(B))) to carry out this section.
 - **(e)** The Secretary shall ensure continuity of care for those eligible veterans who receive walk-in care services under this section, including through the establishment of a mechanism to receive medical records from walk-in care providers and provide pertinent patient medical records to providers of walk-in care.
 - **(f)**

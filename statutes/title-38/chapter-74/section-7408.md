@@ -3,9 +3,9 @@ title: "Section 7408 - Appointment of additional employees"
 usc_title: 38
 usc_section: "7408"
 chapter: 74
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 7408"
-generated_at: "2026-03-30T08:39:25.608Z"
+generated_at: "2026-03-30T08:43:32.349Z"
 status: "active"
 ---
 

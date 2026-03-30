@@ -3,9 +3,9 @@ title: "Section 1563 - Allowance for loss, abandonment of warehouse goods"
 usc_title: 19
 usc_section: "1563"
 chapter: 4
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "19 U.S.C. § 1563"
-generated_at: "2026-03-30T08:37:50.198Z"
+generated_at: "2026-03-30T08:42:22.651Z"
 status: "active"
 ---
 

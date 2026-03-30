@@ -3,9 +3,9 @@ title: "Section 3233 - Transfer within district—(Rule)"
 usc_title: 18
 usc_section: "3233"
 chapter: 211
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 3233"
-generated_at: "2026-03-30T08:37:37.664Z"
+generated_at: "2026-03-30T08:42:44.193Z"
 status: "active"
 ---
 

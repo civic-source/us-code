@@ -3,9 +3,9 @@ title: "Section 5031 - Definitions"
 usc_title: 18
 usc_section: "5031"
 chapter: 403
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 5031"
-generated_at: "2026-03-30T08:37:37.677Z"
+generated_at: "2026-03-30T08:42:44.206Z"
 status: "active"
 ---
 

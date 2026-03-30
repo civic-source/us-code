@@ -3,9 +3,9 @@ title: "Section 314 - Institution of inter partes review"
 usc_title: 35
 usc_section: "314"
 chapter: 31
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "35 U.S.C. § 314"
-generated_at: "2026-03-30T08:38:51.624Z"
+generated_at: "2026-03-30T08:43:20.857Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 304a - Study and investigation of Indian education in United Sta
 usc_title: 25
 usc_section: "304a"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 304a"
-generated_at: "2026-03-30T08:37:57.344Z"
+generated_at: "2026-03-30T08:43:02.998Z"
 status: "active"
 ---
 

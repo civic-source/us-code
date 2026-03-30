@@ -3,9 +3,9 @@ title: "Section 3699 - Effects of closure or disapproval of educational institut
 usc_title: 38
 usc_section: "3699"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 3699"
-generated_at: "2026-03-30T08:39:25.590Z"
+generated_at: "2026-03-30T08:43:32.329Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Any payment of educational assistance described in subsection (b) shall not—
   - **(1)** be charged against any entitlement to educational assistance of the individual concerned; or
   - **(2)** be counted against the aggregate period for which section 3695 of this title limits the receipt of educational assistance by such individual.
-- **(b)** Subject to subsection (c), the payment of educational assistance described in this paragraph 1 1 So in original. Probably should be “subsection”. is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
+- **(b)** Subject to subsection (c), the payment of educational assistance described in this subsection is the payment of such assistance to an individual for pursuit of a course or program of education at an educational institution under chapter 30, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10, if the Secretary determines that the individual—
   - **(1)** was unable to complete such course or program as a result of—
     - **(A)** the closure of the educational institution; or
     - **(B)** the disapproval of the course or a course that is a necessary part of that program under this chapter by reason of—

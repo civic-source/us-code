@@ -3,9 +3,9 @@ title: "Section 4801 - Definitions"
 usc_title: 50
 usc_section: "4801"
 chapter: 58
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 4801"
-generated_at: "2026-03-30T08:40:33.322Z"
+generated_at: "2026-03-30T08:44:07.028Z"
 status: "active"
 ---
 

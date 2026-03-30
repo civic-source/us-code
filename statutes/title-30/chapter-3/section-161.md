@@ -3,9 +3,9 @@ title: "Section 161 - Entry of building-stone lands; previous law unaffected"
 usc_title: 30
 usc_section: "161"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "30 U.S.C. § 161"
-generated_at: "2026-03-30T08:38:30.681Z"
+generated_at: "2026-03-30T08:43:19.105Z"
 status: "active"
 ---
 

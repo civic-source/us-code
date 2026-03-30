@@ -3,9 +3,9 @@ title: "Section 11 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 21,
 usc_title: 43
 usc_section: "11"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 11"
-generated_at: "2026-03-30T08:39:29.230Z"
+generated_at: "2026-03-30T08:43:38.401Z"
 status: "repealed"
 ---
 

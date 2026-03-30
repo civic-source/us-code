@@ -3,9 +3,9 @@ title: "Section 557 - Payment of costs of printing"
 usc_title: 33
 usc_section: "557"
 chapter: 12
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "33 U.S.C. § 557"
-generated_at: "2026-03-30T08:39:11.603Z"
+generated_at: "2026-03-30T08:43:24.712Z"
 status: "active"
 ---
 

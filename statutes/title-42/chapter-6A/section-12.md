@@ -3,9 +3,9 @@ title: "Section 12 - Health Information Technology Advisory Committee"
 usc_title: 42
 usc_section: "12"
 chapter: 6
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T08:40:13.778Z"
+generated_at: "2026-03-30T08:43:59.517Z"
 status: "active"
 ---
 

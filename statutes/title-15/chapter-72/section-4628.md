@@ -3,9 +3,9 @@ title: "Section 4628 - Department of Energy oversight of cooperative agreements 
 usc_title: 15
 usc_section: "4628"
 chapter: 72
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 4628"
-generated_at: "2026-03-30T08:37:34.271Z"
+generated_at: "2026-03-30T08:41:59.369Z"
 status: "active"
 ---
 

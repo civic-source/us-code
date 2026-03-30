@@ -3,9 +3,9 @@ title: "Section 12734 - Time not creditable toward years of service"
 usc_title: 10
 usc_section: "12734"
 chapter: 1223
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 12734"
-generated_at: "2026-03-30T08:37:22.200Z"
+generated_at: "2026-03-30T08:41:52.187Z"
 status: "active"
 ---
 

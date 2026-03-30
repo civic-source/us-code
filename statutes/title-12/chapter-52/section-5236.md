@@ -3,9 +3,9 @@ title: "Section 5236 - Exchange Stabilization Fund reimbursement"
 usc_title: 12
 usc_section: "5236"
 chapter: 52
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 5236"
-generated_at: "2026-03-30T08:37:28.706Z"
+generated_at: "2026-03-30T08:42:18.949Z"
 status: "active"
 ---
 

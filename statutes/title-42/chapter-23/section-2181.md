@@ -3,9 +3,9 @@ title: "Section 2181 - Inventions relating to atomic weapons, and filing of repo
 usc_title: 42
 usc_section: "2181"
 chapter: 23
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 2181"
-generated_at: "2026-03-30T08:40:14.023Z"
+generated_at: "2026-03-30T08:43:59.749Z"
 status: "active"
 ---
 

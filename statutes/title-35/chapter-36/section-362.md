@@ -3,9 +3,9 @@ title: "Section 362 - International Searching Authority and International Prelim
 usc_title: 35
 usc_section: "362"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "35 U.S.C. § 362"
-generated_at: "2026-03-30T08:38:51.625Z"
+generated_at: "2026-03-30T08:43:20.857Z"
 status: "active"
 ---
 

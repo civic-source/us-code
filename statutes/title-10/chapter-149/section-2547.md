@@ -3,9 +3,9 @@ title: "Section 2547 - Acquisition-related functions of chiefs of the armed forc
 usc_title: 10
 usc_section: "2547"
 chapter: 149
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 2547"
-generated_at: "2026-03-30T08:37:22.154Z"
+generated_at: "2026-03-30T08:41:52.139Z"
 status: "active"
 ---
 

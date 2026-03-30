@@ -3,9 +3,9 @@ title: "Section 7686 - Obsolete ordnance: gift to State homes for soldiers and s
 usc_title: 10
 usc_section: "7686"
 chapter: 773
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 7686"
-generated_at: "2026-03-30T08:37:22.175Z"
+generated_at: "2026-03-30T08:41:52.162Z"
 status: "active"
 ---
 

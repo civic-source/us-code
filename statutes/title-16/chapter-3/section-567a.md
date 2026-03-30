@@ -3,9 +3,9 @@ title: "Section 567a - Cooperation by Secretary of Agriculture with States in ac
 usc_title: 16
 usc_section: "567a"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 567a"
-generated_at: "2026-03-30T08:37:53.360Z"
+generated_at: "2026-03-30T08:42:34.757Z"
 status: "active"
 ---
 

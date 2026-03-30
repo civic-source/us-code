@@ -3,9 +3,9 @@ title: "Section 1032 - Concealment of assets from conservator, receiver, or liqu
 usc_title: 18
 usc_section: "1032"
 chapter: 47
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 1032"
-generated_at: "2026-03-30T08:37:37.637Z"
+generated_at: "2026-03-30T08:42:44.165Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22711 - Liability for acts of officials, representatives, and ag
 usc_title: 36
 usc_section: "22711"
 chapter: 227
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "36 U.S.C. § 22711"
-generated_at: "2026-03-30T08:39:16.431Z"
+generated_at: "2026-03-30T08:43:28.600Z"
 status: "active"
 ---
 

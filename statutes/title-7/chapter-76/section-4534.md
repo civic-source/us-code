@@ -3,9 +3,9 @@ title: "Section 4534 - Required terms of order; agreements under order; records"
 usc_title: 7
 usc_section: "4534"
 chapter: 76
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 4534"
-generated_at: "2026-03-30T08:37:18.146Z"
+generated_at: "2026-03-30T08:41:29.015Z"
 status: "active"
 ---
 

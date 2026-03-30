@@ -3,9 +3,9 @@ title: "Section 3195 - Payment of fees and costs"
 usc_title: 18
 usc_section: "3195"
 chapter: 209
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 3195"
-generated_at: "2026-03-30T08:37:37.663Z"
+generated_at: "2026-03-30T08:42:44.193Z"
 status: "active"
 ---
 

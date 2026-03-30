@@ -3,9 +3,9 @@ title: "Section 9608 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9608"
 chapter: 76
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 9608"
-generated_at: "2026-03-30T08:37:39.525Z"
+generated_at: "2026-03-30T08:42:24.723Z"
 status: "active"
 ---
 

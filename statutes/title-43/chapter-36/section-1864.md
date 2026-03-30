@@ -3,9 +3,9 @@ title: "Section 1864 - Disclosure of financial interests by officers and employe
 usc_title: 43
 usc_section: "1864"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 1864"
-generated_at: "2026-03-30T08:39:29.276Z"
+generated_at: "2026-03-30T08:43:38.452Z"
 status: "active"
 ---
 

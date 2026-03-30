@@ -3,9 +3,9 @@ title: "Section 2306 - Special provisions"
 usc_title: 43
 usc_section: "2306"
 chapter: 41
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 2306"
-generated_at: "2026-03-30T08:39:29.278Z"
+generated_at: "2026-03-30T08:43:38.454Z"
 status: "active"
 ---
 

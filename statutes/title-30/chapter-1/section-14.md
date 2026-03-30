@@ -3,9 +3,9 @@ title: "Section 14 - Acquisition of land; cooperation with other agencies"
 usc_title: 30
 usc_section: "14"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "30 U.S.C. § 14"
-generated_at: "2026-03-30T08:38:30.678Z"
+generated_at: "2026-03-30T08:43:19.101Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8953 - Contracting authority"
 usc_title: 5
 usc_section: "8953"
 chapter: 89
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "5 U.S.C. § 8953"
-generated_at: "2026-03-30T08:37:11.709Z"
+generated_at: "2026-03-30T08:41:19.434Z"
 status: "active"
 ---
 

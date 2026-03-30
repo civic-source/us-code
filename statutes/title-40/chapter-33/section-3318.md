@@ -3,9 +3,9 @@ title: "Section 3318 - Lactation room in public buildings"
 usc_title: 40
 usc_section: "3318"
 chapter: 33
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "40 U.S.C. § 3318"
-generated_at: "2026-03-30T08:39:22.778Z"
+generated_at: "2026-03-30T08:43:30.507Z"
 status: "active"
 ---
 

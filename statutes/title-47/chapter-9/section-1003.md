@@ -3,9 +3,9 @@ title: "Section 1003 - Notices of capacity requirements"
 usc_title: 47
 usc_section: "1003"
 chapter: 9
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 1003"
-generated_at: "2026-03-30T08:40:20.975Z"
+generated_at: "2026-03-30T08:44:03.177Z"
 status: "active"
 ---
 

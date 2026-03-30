@@ -3,9 +3,9 @@ title: "Section 793 - Repealed. Pub. L. 95–281, § 1(b)(1) , May 15, 1978 , 92
 usc_title: 25
 usc_section: "793"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 793"
-generated_at: "2026-03-30T08:37:57.352Z"
+generated_at: "2026-03-30T08:43:03.007Z"
 status: "repealed"
 ---
 

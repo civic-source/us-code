@@ -3,9 +3,9 @@ title: "Section 711 - General authority"
 usc_title: 31
 usc_section: "711"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "31 U.S.C. § 711"
-generated_at: "2026-03-30T08:38:51.335Z"
+generated_at: "2026-03-30T08:43:21.828Z"
 status: "active"
 ---
 

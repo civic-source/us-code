@@ -3,9 +3,9 @@ title: "Section 8 - Consultation with external experts on rare diseases, targete
 usc_title: 21
 usc_section: "8"
 chapter: 9
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "21 U.S.C. § 8"
-generated_at: "2026-03-30T08:38:14.387Z"
+generated_at: "2026-03-30T08:42:47.682Z"
 status: "active"
 ---
 

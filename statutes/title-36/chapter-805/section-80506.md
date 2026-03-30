@@ -3,9 +3,9 @@ title: "Section 80506 - Powers"
 usc_title: 36
 usc_section: "80506"
 chapter: 805
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "36 U.S.C. § 80506"
-generated_at: "2026-03-30T08:39:16.435Z"
+generated_at: "2026-03-30T08:43:28.605Z"
 status: "active"
 ---
 

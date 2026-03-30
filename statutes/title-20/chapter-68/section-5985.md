@@ -3,9 +3,9 @@ title: "Section 5985 - Applications"
 usc_title: 20
 usc_section: "5985"
 chapter: 68
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 5985"
-generated_at: "2026-03-30T08:37:39.488Z"
+generated_at: "2026-03-30T08:42:24.689Z"
 status: "active"
 ---
 

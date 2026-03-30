@@ -3,9 +3,9 @@ title: "Section 5612 - Establishment of demonstration project; selection of part
 usc_title: 25
 usc_section: "5612"
 chapter: 48
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 5612"
-generated_at: "2026-03-30T08:37:57.405Z"
+generated_at: "2026-03-30T08:43:03.057Z"
 status: "active"
 ---
 

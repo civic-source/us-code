@@ -3,9 +3,9 @@ title: "Section 1941 - Civilian teaching staff"
 usc_title: 14
 usc_section: "1941"
 chapter: 19
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "14 U.S.C. § 1941"
-generated_at: "2026-03-30T08:37:29.224Z"
+generated_at: "2026-03-30T08:41:54.411Z"
 status: "active"
 ---
 

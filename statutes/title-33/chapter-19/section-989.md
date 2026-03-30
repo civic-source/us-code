@@ -3,9 +3,9 @@ title: "Section 989 - Special reports"
 usc_title: 33
 usc_section: "989"
 chapter: 19
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "33 U.S.C. § 989"
-generated_at: "2026-03-30T08:39:11.619Z"
+generated_at: "2026-03-30T08:43:24.729Z"
 status: "active"
 ---
 

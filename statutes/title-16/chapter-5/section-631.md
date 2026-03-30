@@ -3,9 +3,9 @@ title: "Section 631 - Omitted"
 usc_title: 16
 usc_section: "631"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 631"
-generated_at: "2026-03-30T08:37:53.367Z"
+generated_at: "2026-03-30T08:42:34.764Z"
 status: "omitted"
 ---
 

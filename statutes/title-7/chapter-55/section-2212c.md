@@ -3,9 +3,9 @@ title: "Section 2212c - Repealed. Pub. L. 103–354, title II , §§ 218(e)(2)�
 usc_title: 7
 usc_section: "2212c"
 chapter: 55
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 2212c"
-generated_at: "2026-03-30T08:37:18.122Z"
+generated_at: "2026-03-30T08:41:28.994Z"
 status: "repealed"
 ---
 

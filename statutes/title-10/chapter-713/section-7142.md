@@ -3,9 +3,9 @@ title: "Section 7142 - Army: percentage of high-school graduates"
 usc_title: 10
 usc_section: "7142"
 chapter: 713
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 7142"
-generated_at: "2026-03-30T08:37:22.171Z"
+generated_at: "2026-03-30T08:41:52.156Z"
 status: "active"
 ---
 

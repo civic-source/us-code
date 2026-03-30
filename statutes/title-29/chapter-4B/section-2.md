@@ -3,9 +3,9 @@ title: "Section 2 - Workforce and labor market information system"
 usc_title: 29
 usc_section: "2"
 chapter: 4
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-03-30T08:38:19.456Z"
+generated_at: "2026-03-30T08:43:11.941Z"
 status: "active"
 ---
 
@@ -88,13 +88,16 @@ status: "active"
     - **(B)** establish a process for the oversight of such system.
   - **(2)** In order to receive Federal financial assistance under this section, the State agency shall—
     - **(A)** consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide workforce and labor market information system;
-    - **(B)** consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
+    - **(B)** consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2302 )), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—
+      - **(i)** meet the needs of secondary school and postsecondary school students who seek such information; and
+      - **(ii)** annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2302 ), and career pathways;
     - **(C)** collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1);
     - **(D)** maintain and continuously improve the statewide workforce and labor market information system in accordance with this section;
     - **(E)** perform contract and grant responsibilities for data collection, analysis, and dissemination for such system;
     - **(F)** conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide workforce and labor market information system;
-    - **(G)** actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data; and
-    - **(H)** utilize the quarterly records described in section 3141(i)(2) of this title to assist the State and other States in measuring State progress on State performance measures.
+    - **(G)** actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data;
+    - **(H)** utilize the quarterly records described in section 3141(i)(2) of this title to assist the State and other States in measuring State progress on State performance measures; and
+    - **(I)** provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2302 )), the data and information described in subparagraphs (A) and (B) of subsection (a)(1).
   - **(3)** Nothing in this section shall be construed as limiting the ability of a State agency to conduct additional data collection, analysis, and dissemination activities with State funds or with Federal funds from sources other than this section.
 - **(f)** None of the functions and activities carried out pursuant to this section shall duplicate the functions and activities carried out under the Carl D. Perkins Career and Technical Education Act of 2006 ( 20 U.S.C. 2301 et seq.).
 - **(g)** There are authorized to be appropriated to carry out this section $60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020.

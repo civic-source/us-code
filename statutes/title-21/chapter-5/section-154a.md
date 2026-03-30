@@ -3,9 +3,9 @@ title: "Section 154a - Special licenses for special circumstances; expedited pro
 usc_title: 21
 usc_section: "154a"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "21 U.S.C. § 154a"
-generated_at: "2026-03-30T08:38:14.356Z"
+generated_at: "2026-03-30T08:42:47.652Z"
 status: "active"
 ---
 

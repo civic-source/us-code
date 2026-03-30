@@ -3,9 +3,9 @@ title: "Section 2104 - Appointment of temporary officers"
 usc_title: 14
 usc_section: "2104"
 chapter: 21
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "14 U.S.C. § 2104"
-generated_at: "2026-03-30T08:37:29.224Z"
+generated_at: "2026-03-30T08:41:54.412Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 538 - Omitted"
 usc_title: 48
 usc_section: "538"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "48 U.S.C. § 538"
-generated_at: "2026-03-30T08:40:21.858Z"
+generated_at: "2026-03-30T08:44:02.774Z"
 status: "omitted"
 ---
 

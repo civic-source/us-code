@@ -3,9 +3,9 @@ title: "Section 5106 - Grants to States, Indian tribes or tribal organizations, 
 usc_title: 42
 usc_section: "5106"
 chapter: 67
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 5106"
-generated_at: "2026-03-30T08:40:14.076Z"
+generated_at: "2026-03-30T08:43:59.799Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3292 - Suspension of limitations to permit United States to obta
 usc_title: 18
 usc_section: "3292"
 chapter: 213
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 3292"
-generated_at: "2026-03-30T08:37:37.664Z"
+generated_at: "2026-03-30T08:42:44.194Z"
 status: "active"
 ---
 

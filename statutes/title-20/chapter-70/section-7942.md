@@ -3,9 +3,9 @@ title: "Section 7942 - Purpose"
 usc_title: 20
 usc_section: "7942"
 chapter: 70
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 7942"
-generated_at: "2026-03-30T08:37:39.518Z"
+generated_at: "2026-03-30T08:42:24.716Z"
 status: "active"
 ---
 

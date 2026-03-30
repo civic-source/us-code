@@ -3,9 +3,9 @@ title: "Section 3071 - National Security Agency voluntary separation"
 usc_title: 50
 usc_section: "3071"
 chapter: 44
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 3071"
-generated_at: "2026-03-30T08:40:33.295Z"
+generated_at: "2026-03-30T08:44:06.997Z"
 status: "active"
 ---
 

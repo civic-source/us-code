@@ -3,9 +3,9 @@ title: "Section 115b - Repealed. Pub. L. 114–328, div. A, title XI, § 1102(a)
 usc_title: 10
 usc_section: "115b"
 chapter: 2
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 115b"
-generated_at: "2026-03-30T08:37:22.057Z"
+generated_at: "2026-03-30T08:41:52.041Z"
 status: "repealed"
 ---
 

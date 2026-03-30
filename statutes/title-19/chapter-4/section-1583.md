@@ -3,9 +3,9 @@ title: "Section 1583 - Examination of outbound mail"
 usc_title: 19
 usc_section: "1583"
 chapter: 4
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "19 U.S.C. § 1583"
-generated_at: "2026-03-30T08:37:50.198Z"
+generated_at: "2026-03-30T08:42:22.651Z"
 status: "active"
 ---
 

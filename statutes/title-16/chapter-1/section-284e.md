@@ -3,9 +3,9 @@ title: "Section 284e - Vested property of United States; status of Foundation"
 usc_title: 16
 usc_section: "284e"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 284e"
-generated_at: "2026-03-30T08:37:53.275Z"
+generated_at: "2026-03-30T08:42:34.668Z"
 status: "active"
 ---
 

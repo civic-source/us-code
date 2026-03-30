@@ -3,9 +3,9 @@ title: "Section 280b - Repealed. July 1, 1948, ch. 791, § 4 , 62 Stat. 1216"
 usc_title: 24
 usc_section: "280b"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "24 U.S.C. § 280b"
-generated_at: "2026-03-30T08:37:58.595Z"
+generated_at: "2026-03-30T08:42:46.153Z"
 status: "repealed"
 ---
 

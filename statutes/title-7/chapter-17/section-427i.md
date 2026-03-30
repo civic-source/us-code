@@ -3,9 +3,9 @@ title: "Section 427i - Transferred"
 usc_title: 7
 usc_section: "427i"
 chapter: 17
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 427i"
-generated_at: "2026-03-30T08:37:18.038Z"
+generated_at: "2026-03-30T08:41:28.922Z"
 status: "transferred"
 ---
 

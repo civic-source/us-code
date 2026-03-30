@@ -3,9 +3,9 @@ title: "Section 1510 - Wireless telecommunications tax and fee collection fairne
 usc_title: 47
 usc_section: "1510"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 1510"
-generated_at: "2026-03-30T08:40:20.982Z"
+generated_at: "2026-03-30T08:44:03.181Z"
 status: "active"
 ---
 

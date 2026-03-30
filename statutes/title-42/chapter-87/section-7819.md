@@ -3,9 +3,9 @@ title: "Section 7819 - Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22,
 usc_title: 42
 usc_section: "7819"
 chapter: 87
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 7819"
-generated_at: "2026-03-30T08:40:14.171Z"
+generated_at: "2026-03-30T08:43:59.890Z"
 status: "repealed"
 ---
 

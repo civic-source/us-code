@@ -3,9 +3,9 @@ title: "Section 1063 - Opposition to registration"
 usc_title: 15
 usc_section: "1063"
 chapter: 22
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 1063"
-generated_at: "2026-03-30T08:37:34.170Z"
+generated_at: "2026-03-30T08:41:59.304Z"
 status: "active"
 ---
 

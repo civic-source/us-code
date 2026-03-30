@@ -3,9 +3,9 @@ title: "Section 4508 - Longevity compensation for telephone operators on United 
 usc_title: 2
 usc_section: "4508"
 chapter: 45
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "2 U.S.C. § 4508"
-generated_at: "2026-03-30T08:37:08.303Z"
+generated_at: "2026-03-30T08:41:17.166Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 782 - Repealed. Pub. L. 103–199, title VIII, § 803(1) , Dec. 
 usc_title: 50
 usc_section: "782"
 chapter: 23
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 782"
-generated_at: "2026-03-30T08:40:33.265Z"
+generated_at: "2026-03-30T08:44:06.964Z"
 status: "repealed"
 ---
 

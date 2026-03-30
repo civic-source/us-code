@@ -3,9 +3,9 @@ title: "Section 3312 - Educational assistance: duration"
 usc_title: 38
 usc_section: "3312"
 chapter: 33
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 3312"
-generated_at: "2026-03-30T08:39:25.584Z"
+generated_at: "2026-03-30T08:43:32.323Z"
 status: "active"
 ---
 

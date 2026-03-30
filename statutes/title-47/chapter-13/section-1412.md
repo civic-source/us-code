@@ -3,9 +3,9 @@ title: "Section 1412 - Flexible use of narrowband spectrum"
 usc_title: 47
 usc_section: "1412"
 chapter: 13
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 1412"
-generated_at: "2026-03-30T08:40:20.977Z"
+generated_at: "2026-03-30T08:44:03.178Z"
 status: "active"
 ---
 

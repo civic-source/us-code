@@ -3,9 +3,9 @@ title: "Section 7401 - Appointments in Veterans Health Administration"
 usc_title: 38
 usc_section: "7401"
 chapter: 74
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 7401"
-generated_at: "2026-03-30T08:39:25.608Z"
+generated_at: "2026-03-30T08:43:32.348Z"
 status: "active"
 ---
 

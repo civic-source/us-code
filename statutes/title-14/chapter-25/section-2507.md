@@ -3,9 +3,9 @@ title: "Section 2507 - Board for Correction of Military Records deadline"
 usc_title: 14
 usc_section: "2507"
 chapter: 25
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "14 U.S.C. § 2507"
-generated_at: "2026-03-30T08:37:29.226Z"
+generated_at: "2026-03-30T08:41:54.414Z"
 status: "active"
 ---
 

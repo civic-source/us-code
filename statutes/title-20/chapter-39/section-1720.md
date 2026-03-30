@@ -3,9 +3,9 @@ title: "Section 1720 - Definitions"
 usc_title: 20
 usc_section: "1720"
 chapter: 39
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 1720"
-generated_at: "2026-03-30T08:37:39.468Z"
+generated_at: "2026-03-30T08:42:24.671Z"
 status: "active"
 ---
 

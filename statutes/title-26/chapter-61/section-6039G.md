@@ -3,9 +3,9 @@ title: "Section 6039G - Information on individuals losing United States citizens
 usc_title: 26
 usc_section: "6039G"
 chapter: 61
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 6039G"
-generated_at: "2026-03-30T08:38:43.194Z"
+generated_at: "2026-03-30T08:43:18.625Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 596 - Repealed. Pub. L. 104–188, title I, § 1616(b)(8) , (9),
 usc_title: 26
 usc_section: "596"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 596"
-generated_at: "2026-03-30T08:38:43.090Z"
+generated_at: "2026-03-30T08:43:18.531Z"
 status: "repealed"
 ---
 

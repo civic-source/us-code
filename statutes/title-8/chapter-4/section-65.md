@@ -3,9 +3,9 @@ title: "Section 65 - Omitted"
 usc_title: 8
 usc_section: "65"
 chapter: 4
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "8 U.S.C. § 65"
-generated_at: "2026-03-30T08:37:14.552Z"
+generated_at: "2026-03-30T08:41:42.827Z"
 status: "omitted"
 ---
 

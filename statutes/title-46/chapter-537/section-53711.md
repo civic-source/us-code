@@ -3,9 +3,9 @@ title: "Section 53711 - Security interest"
 usc_title: 46
 usc_section: "53711"
 chapter: 537
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "46 U.S.C. § 53711"
-generated_at: "2026-03-30T08:40:22.659Z"
+generated_at: "2026-03-30T08:44:03.955Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1428 - Examination of State laws, regulations, and procedures; s
 usc_title: 12
 usc_section: "1428"
 chapter: 11
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 1428"
-generated_at: "2026-03-30T08:37:28.531Z"
+generated_at: "2026-03-30T08:42:18.829Z"
 status: "active"
 ---
 

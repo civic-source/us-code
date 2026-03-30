@@ -3,9 +3,9 @@ title: "Section 7 - Limitation on use of funds"
 usc_title: 42
 usc_section: "7"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 7"
-generated_at: "2026-03-30T08:40:13.953Z"
+generated_at: "2026-03-30T08:43:59.681Z"
 status: "active"
 ---
 

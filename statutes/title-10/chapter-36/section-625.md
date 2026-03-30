@@ -3,9 +3,9 @@ title: "Section 625 - Authority to vacate promotions to grades of brigadier gene
 usc_title: 10
 usc_section: "625"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 625"
-generated_at: "2026-03-30T08:37:22.077Z"
+generated_at: "2026-03-30T08:41:52.061Z"
 status: "active"
 ---
 

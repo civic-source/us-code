@@ -3,9 +3,9 @@ title: "Section 261 - Creation; membership; compensation; meetings; officers; pr
 usc_title: 12
 usc_section: "261"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 261"
-generated_at: "2026-03-30T08:37:28.518Z"
+generated_at: "2026-03-30T08:42:18.816Z"
 status: "active"
 ---
 

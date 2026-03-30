@@ -3,9 +3,9 @@ title: "Section 3152 - Labor standards"
 usc_title: 15
 usc_section: "3152"
 chapter: 58
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 3152"
-generated_at: "2026-03-30T08:37:34.229Z"
+generated_at: "2026-03-30T08:41:59.358Z"
 status: "active"
 ---
 

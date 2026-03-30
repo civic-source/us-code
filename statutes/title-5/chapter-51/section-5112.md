@@ -3,9 +3,9 @@ title: "Section 5112 - General authority of the Office of Personnel Management"
 usc_title: 5
 usc_section: "5112"
 chapter: 51
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "5 U.S.C. § 5112"
-generated_at: "2026-03-30T08:37:11.666Z"
+generated_at: "2026-03-30T08:41:19.397Z"
 status: "active"
 ---
 

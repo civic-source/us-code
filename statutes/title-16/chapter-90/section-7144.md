@@ -3,9 +3,9 @@ title: "Section 7144 - Termination of authority"
 usc_title: 16
 usc_section: "7144"
 chapter: 90
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 7144"
-generated_at: "2026-03-30T08:37:53.481Z"
+generated_at: "2026-03-30T08:42:34.887Z"
 status: "active"
 ---
 

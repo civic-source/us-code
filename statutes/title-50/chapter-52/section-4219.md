@@ -3,9 +3,9 @@ title: "Section 4219 - Compliance with Budget Act"
 usc_title: 50
 usc_section: "4219"
 chapter: 52
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 4219"
-generated_at: "2026-03-30T08:40:33.314Z"
+generated_at: "2026-03-30T08:44:07.018Z"
 status: "active"
 ---
 

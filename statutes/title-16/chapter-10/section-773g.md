@@ -3,9 +3,9 @@ title: "Section 773g - Crimes and criminal penalties"
 usc_title: 16
 usc_section: "773g"
 chapter: 10
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 773g"
-generated_at: "2026-03-30T08:37:53.380Z"
+generated_at: "2026-03-30T08:42:34.779Z"
 status: "active"
 ---
 

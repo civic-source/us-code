@@ -3,9 +3,9 @@ title: "Section 309a - Reports related to spectrum auctions"
 usc_title: 47
 usc_section: "309a"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 309a"
-generated_at: "2026-03-30T08:40:20.956Z"
+generated_at: "2026-03-30T08:44:03.157Z"
 status: "active"
 ---
 

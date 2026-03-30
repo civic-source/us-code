@@ -3,9 +3,9 @@ title: "Section 6103 - Forfeiture for fraud"
 usc_title: 38
 usc_section: "6103"
 chapter: 61
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 6103"
-generated_at: "2026-03-30T08:39:25.601Z"
+generated_at: "2026-03-30T08:43:32.341Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1761b - Board of directors; meetings; powers and duties; executi
 usc_title: 12
 usc_section: "1761b"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 1761b"
-generated_at: "2026-03-30T08:37:28.573Z"
+generated_at: "2026-03-30T08:42:18.868Z"
 status: "active"
 ---
 

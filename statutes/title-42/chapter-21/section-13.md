@@ -3,9 +3,9 @@ title: "Section 13 - Application to personnel of Commission of sections 111 and 
 usc_title: 42
 usc_section: "13"
 chapter: 21
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 13"
-generated_at: "2026-03-30T08:40:14.010Z"
+generated_at: "2026-03-30T08:43:59.736Z"
 status: "active"
 ---
 

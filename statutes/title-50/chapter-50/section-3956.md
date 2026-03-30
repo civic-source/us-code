@@ -3,9 +3,9 @@ title: "Section 3956 - Termination of telephone, multichannel video programming,
 usc_title: 50
 usc_section: "3956"
 chapter: 50
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 3956"
-generated_at: "2026-03-30T08:40:33.309Z"
+generated_at: "2026-03-30T08:44:07.014Z"
 status: "active"
 ---
 

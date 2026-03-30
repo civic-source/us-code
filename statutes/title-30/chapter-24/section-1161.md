@@ -3,9 +3,9 @@ title: "Section 1161 - Protection of environment"
 usc_title: 30
 usc_section: "1161"
 chapter: 24
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "30 U.S.C. § 1161"
-generated_at: "2026-03-30T08:38:30.704Z"
+generated_at: "2026-03-30T08:43:19.125Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 21305 - Principal office"
 usc_title: 36
 usc_section: "21305"
 chapter: 213
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "36 U.S.C. § 21305"
-generated_at: "2026-03-30T08:39:16.430Z"
+generated_at: "2026-03-30T08:43:28.598Z"
 status: "active"
 ---
 

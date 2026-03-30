@@ -3,9 +3,9 @@ title: "Section 736 - Repealed. Pub. L. 115–41, title I, § 102(a)(1) , June 2
 usc_title: 38
 usc_section: "736"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 736"
-generated_at: "2026-03-30T08:39:25.561Z"
+generated_at: "2026-03-30T08:43:32.299Z"
 status: "repealed"
 ---
 

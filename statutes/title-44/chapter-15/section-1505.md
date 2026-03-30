@@ -3,9 +3,9 @@ title: "Section 1505 - Documents to be published in Federal Register"
 usc_title: 44
 usc_section: "1505"
 chapter: 15
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "44 U.S.C. § 1505"
-generated_at: "2026-03-30T08:39:27.312Z"
+generated_at: "2026-03-30T08:43:37.205Z"
 status: "active"
 ---
 

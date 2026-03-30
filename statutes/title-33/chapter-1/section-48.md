@@ -3,9 +3,9 @@ title: "Section 48 - Noxubee River, Mississippi"
 usc_title: 33
 usc_section: "48"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "33 U.S.C. § 48"
-generated_at: "2026-03-30T08:39:11.593Z"
+generated_at: "2026-03-30T08:43:24.701Z"
 status: "active"
 ---
 

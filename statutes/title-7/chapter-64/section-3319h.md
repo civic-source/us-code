@@ -3,9 +3,9 @@ title: "Section 3319h - Funds for research facilities"
 usc_title: 7
 usc_section: "3319h"
 chapter: 64
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 3319h"
-generated_at: "2026-03-30T08:37:18.140Z"
+generated_at: "2026-03-30T08:41:29.010Z"
 status: "active"
 ---
 

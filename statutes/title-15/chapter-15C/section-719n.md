@@ -3,9 +3,9 @@ title: "Section 719n - Separability"
 usc_title: 15
 usc_section: "719n"
 chapter: 15
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 719n"
-generated_at: "2026-03-30T08:37:34.165Z"
+generated_at: "2026-03-30T08:41:59.299Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Application for designation as contract market or derivative
 usc_title: 7
 usc_section: "8"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 8"
-generated_at: "2026-03-30T08:37:18.004Z"
+generated_at: "2026-03-30T08:41:28.893Z"
 status: "active"
 ---
 

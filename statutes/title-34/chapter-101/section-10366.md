@@ -3,9 +3,9 @@ title: "Section 10366 - Evaluation"
 usc_title: 34
 usc_section: "10366"
 chapter: 101
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "34 U.S.C. § 10366"
-generated_at: "2026-03-30T08:38:59.111Z"
+generated_at: "2026-03-30T08:43:22.421Z"
 status: "active"
 ---
 

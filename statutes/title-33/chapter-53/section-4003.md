@@ -3,9 +3,9 @@ title: "Section 4003 - Comprehensive research plan and action strategy"
 usc_title: 33
 usc_section: "4003"
 chapter: 53
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "33 U.S.C. § 4003"
-generated_at: "2026-03-30T08:39:11.667Z"
+generated_at: "2026-03-30T08:43:24.782Z"
 status: "active"
 ---
 

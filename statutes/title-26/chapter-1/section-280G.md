@@ -3,9 +3,9 @@ title: "Section 280G - Golden parachute payments"
 usc_title: 26
 usc_section: "280G"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 280G"
-generated_at: "2026-03-30T08:38:43.047Z"
+generated_at: "2026-03-30T08:43:18.488Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1112 - Fiscal, budget, and program information"
 usc_title: 31
 usc_section: "1112"
 chapter: 11
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "31 U.S.C. § 1112"
-generated_at: "2026-03-30T08:38:51.338Z"
+generated_at: "2026-03-30T08:43:21.832Z"
 status: "active"
 ---
 

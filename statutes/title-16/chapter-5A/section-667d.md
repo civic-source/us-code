@@ -3,9 +3,9 @@ title: "Section 667d - Reports to Congress"
 usc_title: 16
 usc_section: "667d"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 667d"
-generated_at: "2026-03-30T08:37:53.368Z"
+generated_at: "2026-03-30T08:42:34.766Z"
 status: "active"
 ---
 

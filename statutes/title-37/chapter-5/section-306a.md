@@ -3,9 +3,9 @@ title: "Section 306a - Special pay: members assigned to international military h
 usc_title: 37
 usc_section: "306a"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "37 U.S.C. § 306a"
-generated_at: "2026-03-30T08:39:13.484Z"
+generated_at: "2026-03-30T08:43:35.350Z"
 status: "active"
 ---
 

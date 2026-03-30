@@ -3,9 +3,9 @@ title: "Section 142g - Copyright Royalty Tribunal; computation and disbursement 
 usc_title: 2
 usc_section: "142g"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "2 U.S.C. § 142g"
-generated_at: "2026-03-30T08:37:08.262Z"
+generated_at: "2026-03-30T08:41:17.130Z"
 status: "active"
 ---
 

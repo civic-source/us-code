@@ -3,9 +3,9 @@ title: "Section 410u - Preservation of historic sites"
 usc_title: 16
 usc_section: "410u"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 410u"
-generated_at: "2026-03-30T08:37:53.284Z"
+generated_at: "2026-03-30T08:42:34.678Z"
 status: "active"
 ---
 

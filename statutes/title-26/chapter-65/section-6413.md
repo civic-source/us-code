@@ -3,9 +3,9 @@ title: "Section 6413 - Special rules applicable to certain employment taxes"
 usc_title: 26
 usc_section: "6413"
 chapter: 65
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 6413"
-generated_at: "2026-03-30T08:38:43.212Z"
+generated_at: "2026-03-30T08:43:18.642Z"
 status: "active"
 ---
 

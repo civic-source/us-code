@@ -3,9 +3,9 @@ title: "Section 6330 - Notice and opportunity for hearing before levy"
 usc_title: 26
 usc_section: "6330"
 chapter: 64
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 6330"
-generated_at: "2026-03-30T08:38:43.209Z"
+generated_at: "2026-03-30T08:43:18.639Z"
 status: "active"
 ---
 

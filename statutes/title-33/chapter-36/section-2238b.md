@@ -3,9 +3,9 @@ title: "Section 2238b - Funding for harbor maintenance programs"
 usc_title: 33
 usc_section: "2238b"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "33 U.S.C. § 2238b"
-generated_at: "2026-03-30T08:39:11.646Z"
+generated_at: "2026-03-30T08:43:24.759Z"
 status: "active"
 ---
 

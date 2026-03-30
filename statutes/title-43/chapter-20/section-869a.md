@@ -3,9 +3,9 @@ title: "Section 869a - Repealed. Pub. L. 86–66, § 1 , June 23, 1959 , 73 Stat
 usc_title: 43
 usc_section: "869a"
 chapter: 20
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 869a"
-generated_at: "2026-03-30T08:39:29.250Z"
+generated_at: "2026-03-30T08:43:38.423Z"
 status: "repealed"
 ---
 

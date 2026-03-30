@@ -3,9 +3,9 @@ title: "Section 6303 - Great ape conservation assistance"
 usc_title: 16
 usc_section: "6303"
 chapter: 82
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 6303"
-generated_at: "2026-03-30T08:37:53.473Z"
+generated_at: "2026-03-30T08:42:34.879Z"
 status: "active"
 ---
 

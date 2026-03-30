@@ -3,9 +3,9 @@ title: "Section 4621 - Repealed. Pub. L. 110–289, div. A, title I, § 1145(b)(
 usc_title: 12
 usc_section: "4621"
 chapter: 46
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 4621"
-generated_at: "2026-03-30T08:37:28.695Z"
+generated_at: "2026-03-30T08:42:18.938Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1151 - Restriction on construction of vessels in foreign shipyar
 usc_title: 14
 usc_section: "1151"
 chapter: 11
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "14 U.S.C. § 1151"
-generated_at: "2026-03-30T08:37:29.223Z"
+generated_at: "2026-03-30T08:41:54.410Z"
 status: "active"
 ---
 

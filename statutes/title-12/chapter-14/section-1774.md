@@ -3,9 +3,9 @@ title: "Section 1774 - Approval of certificate; assets and obligations of applic
 usc_title: 12
 usc_section: "1774"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 1774"
-generated_at: "2026-03-30T08:37:28.573Z"
+generated_at: "2026-03-30T08:42:18.870Z"
 status: "active"
 ---
 

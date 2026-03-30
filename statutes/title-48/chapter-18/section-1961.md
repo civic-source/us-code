@@ -3,9 +3,9 @@ title: "Section 1961 - Submission of agreements"
 usc_title: 48
 usc_section: "1961"
 chapter: 18
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "48 U.S.C. § 1961"
-generated_at: "2026-03-30T08:40:21.875Z"
+generated_at: "2026-03-30T08:44:02.792Z"
 status: "active"
 ---
 

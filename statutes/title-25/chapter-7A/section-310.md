@@ -3,9 +3,9 @@ title: "Section 310 - Institute of American Indian and Alaska Native Culture and
 usc_title: 25
 usc_section: "310"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 310"
-generated_at: "2026-03-30T08:37:57.344Z"
+generated_at: "2026-03-30T08:43:02.999Z"
 status: "active"
 ---
 

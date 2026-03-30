@@ -3,9 +3,9 @@ title: "Section 907 - Special rules in case of foreign oil and gas income"
 usc_title: 26
 usc_section: "907"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 907"
-generated_at: "2026-03-30T08:38:43.113Z"
+generated_at: "2026-03-30T08:43:18.552Z"
 status: "active"
 ---
 

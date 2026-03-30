@@ -3,9 +3,9 @@ title: "Section 7111 - Oral examinations for licenses"
 usc_title: 46
 usc_section: "7111"
 chapter: 71
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "46 U.S.C. § 7111"
-generated_at: "2026-03-30T08:40:22.640Z"
+generated_at: "2026-03-30T08:44:03.934Z"
 status: "active"
 ---
 

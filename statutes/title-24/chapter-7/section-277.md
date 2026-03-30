@@ -3,9 +3,9 @@ title: "Section 277 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 24
 usc_section: "277"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "24 U.S.C. § 277"
-generated_at: "2026-03-30T08:37:58.595Z"
+generated_at: "2026-03-30T08:42:46.153Z"
 status: "repealed"
 ---
 

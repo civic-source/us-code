@@ -3,9 +3,9 @@ title: "Section 7696 - Term of obligated service"
 usc_title: 38
 usc_section: "7696"
 chapter: 76
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 7696"
-generated_at: "2026-03-30T08:39:25.614Z"
+generated_at: "2026-03-30T08:43:32.352Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** except as provided in subsection (b), to begin such service as a full-time practice employee by not later than 60 days after completing a residency.
 - **(b)** In the case of a participant who receives an accredited fellowship in a medical specialty other than a medical specialty described in section 7692 of this title , the Secretary, on written request of the participant, may delay the term of obligated service under subsection (a) for the participant until after the participant completes the fellowship, but in no case later than 60 days after completion of such fellowship.
 - **(c)**
-  - **(1)** An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T)) . 1 1 So in original. There is an extra closing parenthesis in the formula.
+  - **(1)** An employee who does not complete a period of obligated service under this section shall owe the Federal Government an amount determined in accordance with the following formula: A = B × ((T − S) ÷ T) .
   - **(2)** In the formula in paragraph (1):
     - **(A)** “ A ” is the amount the employee owes the Federal Government.
     - **(B)** “ B ” is the sum of all payments to or for the participant under the Specialty Education Loan Repayment Program.

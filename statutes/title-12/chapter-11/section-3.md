@@ -3,9 +3,9 @@ title: "Section 3 - RTC and FDIC properties"
 usc_title: 12
 usc_section: "3"
 chapter: 11
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T08:37:28.534Z"
+generated_at: "2026-03-30T08:42:18.831Z"
 status: "active"
 ---
 

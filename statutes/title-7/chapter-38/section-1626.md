@@ -3,9 +3,9 @@ title: "Section 1626 - Definitions"
 usc_title: 7
 usc_section: "1626"
 chapter: 38
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 1626"
-generated_at: "2026-03-30T08:37:18.077Z"
+generated_at: "2026-03-30T08:41:28.956Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 936 - Confidentiality of medical quality assurance records; qual
 usc_title: 14
 usc_section: "936"
 chapter: 9
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "14 U.S.C. § 936"
-generated_at: "2026-03-30T08:37:29.222Z"
+generated_at: "2026-03-30T08:41:54.408Z"
 status: "active"
 ---
 

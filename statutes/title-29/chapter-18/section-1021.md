@@ -3,9 +3,9 @@ title: "Section 1021 - Duty of disclosure and reporting"
 usc_title: 29
 usc_section: "1021"
 chapter: 18
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "29 U.S.C. § 1021"
-generated_at: "2026-03-30T08:38:19.478Z"
+generated_at: "2026-03-30T08:43:11.965Z"
 status: "active"
 ---
 
@@ -54,7 +54,7 @@ status: "active"
       - **(vi)** in the case of a multiemployer plan, whether the plan was in critical and declining status under section 1085 of this title for such plan year and, if so—
         - **(I)** the projected date of insolvency;
         - **(II)** a clear statement that such insolvency may result in benefit reductions; and
-        - **(III)** a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency.
+        - **(III)** a statement describing whether the plan sponsor has taken legally permitted actions to prevent insolvency. 2 2 So in original. The period probably should be a comma.
       - **(vii)** in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year (as defined in regulations by the Secretary), an explanation of the amendment, schedule increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled increase or reduction, or event on plan liabilities,
       - **(viii)**
         - **(I)** in the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of subchapter III, or
@@ -127,7 +127,7 @@ status: "active"
       - **(i)** covered only one individual (or the individual and the individual’s spouse) and the individual (or the individual and the individual’s spouse) owned 100 percent of the plan sponsor (whether or not incorporated), or
       - **(ii)** covered only one or more partners (or partners and their spouses) in the plan sponsor.
 - **(j)** The plan administrator of a single-employer plan shall provide a written notice to plan participants and beneficiaries within 30 days—
-  - **(1)** after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title ), 2 2 So in original. The closing parenthesis probably should not appear.
+  - **(1)** after the plan has become subject to a restriction described in paragraph (1) or (3) of section 1056(g) of this title ), 3 3 So in original. The closing parenthesis probably should not appear.
   - **(2)** in the case of a plan to which section 1056(g)(4) of this title applies, after the valuation date for the plan year described in section 1056(g)(4)(A) of this title for which the plan’s adjusted funding target attainment percentage for the plan year is less than 60 percent (or, if earlier, the date such percentage is deemed to be less than 60 percent under section 1056(g)(7) of this title ), and
   - **(3)** at such other time as may be determined by the Secretary of the Treasury.
 - **(k)**

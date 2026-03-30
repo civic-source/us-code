@@ -3,9 +3,9 @@ title: "Section 861 - Preference right of selection granted certain Western Stat
 usc_title: 43
 usc_section: "861"
 chapter: 20
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 861"
-generated_at: "2026-03-30T08:39:29.249Z"
+generated_at: "2026-03-30T08:43:38.423Z"
 status: "active"
 ---
 

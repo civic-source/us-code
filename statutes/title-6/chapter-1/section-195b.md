@@ -3,9 +3,9 @@ title: "Section 195b - National Biosurveillance Integration Center"
 usc_title: 6
 usc_section: "195b"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "6 U.S.C. § 195b"
-generated_at: "2026-03-30T08:37:22.570Z"
+generated_at: "2026-03-30T08:41:31.527Z"
 status: "active"
 ---
 

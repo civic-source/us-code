@@ -3,9 +3,9 @@ title: "Section 4604 - Repealed. Pub. L. 115–232, div. A, title XVII, § 1766(
 usc_title: 50
 usc_section: "4604"
 chapter: 56
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 4604"
-generated_at: "2026-03-30T08:40:33.322Z"
+generated_at: "2026-03-30T08:44:07.027Z"
 status: "repealed"
 ---
 

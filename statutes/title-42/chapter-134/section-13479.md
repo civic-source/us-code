@@ -3,9 +3,9 @@ title: "Section 13479 - Spark M. Matsunaga Renewable Energy and Ocean Technology
 usc_title: 42
 usc_section: "13479"
 chapter: 134
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 13479"
-generated_at: "2026-03-30T08:40:14.270Z"
+generated_at: "2026-03-30T08:43:59.984Z"
 status: "active"
 ---
 

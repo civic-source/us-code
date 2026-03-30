@@ -3,9 +3,9 @@ title: "Section 12 - Hearings"
 usc_title: 15
 usc_section: "12"
 chapter: 2
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 12"
-generated_at: "2026-03-30T08:37:34.122Z"
+generated_at: "2026-03-30T08:41:59.206Z"
 status: "active"
 ---
 

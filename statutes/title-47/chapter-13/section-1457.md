@@ -3,9 +3,9 @@ title: "Section 1457 - Public Safety Trust Fund"
 usc_title: 47
 usc_section: "1457"
 chapter: 13
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 1457"
-generated_at: "2026-03-30T08:40:20.981Z"
+generated_at: "2026-03-30T08:44:03.180Z"
 status: "active"
 ---
 

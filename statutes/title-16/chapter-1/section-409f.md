@@ -3,9 +3,9 @@ title: "Section 409f - Jurisdiction of New Jersey in civil, criminal and legisla
 usc_title: 16
 usc_section: "409f"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 409f"
-generated_at: "2026-03-30T08:37:53.281Z"
+generated_at: "2026-03-30T08:42:34.676Z"
 status: "active"
 ---
 

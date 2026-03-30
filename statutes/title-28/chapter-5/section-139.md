@@ -3,9 +3,9 @@ title: "Section 139 - Times for holding regular sessions"
 usc_title: 28
 usc_section: "139"
 chapter: 5
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "28 U.S.C. § 139"
-generated_at: "2026-03-30T08:38:48.675Z"
+generated_at: "2026-03-30T08:43:13.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 323 - Consumer Information Center Fund 1 1 So in original. Proba
 usc_title: 40
 usc_section: "323"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "40 U.S.C. § 323"
-generated_at: "2026-03-30T08:39:22.772Z"
+generated_at: "2026-03-30T08:43:30.501Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Debentures"
 usc_title: 7
 usc_section: "4"
 chapter: 50
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 4"
-generated_at: "2026-03-30T08:37:18.105Z"
+generated_at: "2026-03-30T08:41:28.980Z"
 status: "active"
 ---
 

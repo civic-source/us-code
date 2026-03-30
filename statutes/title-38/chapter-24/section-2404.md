@@ -3,9 +3,9 @@ title: "Section 2404 - Administration"
 usc_title: 38
 usc_section: "2404"
 chapter: 24
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 2404"
-generated_at: "2026-03-30T08:39:25.579Z"
+generated_at: "2026-03-30T08:43:32.317Z"
 status: "active"
 ---
 

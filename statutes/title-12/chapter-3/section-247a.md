@@ -3,9 +3,9 @@ title: "Section 247a - Records of action on policy relating to open-market opera
 usc_title: 12
 usc_section: "247a"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 247a"
-generated_at: "2026-03-30T08:37:28.517Z"
+generated_at: "2026-03-30T08:42:18.815Z"
 status: "active"
 ---
 

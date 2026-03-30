@@ -3,9 +3,9 @@ title: "Section 1504 - Broadband infrastructure deployment."
 usc_title: 47
 usc_section: "1504"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 1504"
-generated_at: "2026-03-30T08:40:20.981Z"
+generated_at: "2026-03-30T08:44:03.181Z"
 status: "active"
 ---
 

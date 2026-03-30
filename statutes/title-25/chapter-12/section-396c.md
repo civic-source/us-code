@@ -3,9 +3,9 @@ title: "Section 396c - Lessees of restricted lands to furnish bonds for performa
 usc_title: 25
 usc_section: "396c"
 chapter: 12
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 396c"
-generated_at: "2026-03-30T08:37:57.347Z"
+generated_at: "2026-03-30T08:43:03.002Z"
 status: "active"
 ---
 

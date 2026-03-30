@@ -3,9 +3,9 @@ title: "Section 218a - Training of officers"
 usc_title: 42
 usc_section: "218a"
 chapter: 6
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 218a"
-generated_at: "2026-03-30T08:40:13.642Z"
+generated_at: "2026-03-30T08:43:59.392Z"
 status: "active"
 ---
 

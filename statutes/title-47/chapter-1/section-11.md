@@ -3,9 +3,9 @@ title: "Section 11 - Powers of Federal Communications Commission"
 usc_title: 47
 usc_section: "11"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "47 U.S.C. § 11"
-generated_at: "2026-03-30T08:40:20.943Z"
+generated_at: "2026-03-30T08:44:03.144Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1331 - Congressional findings and declaration of policy"
 usc_title: 16
 usc_section: "1331"
 chapter: 30
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 1331"
-generated_at: "2026-03-30T08:37:53.412Z"
+generated_at: "2026-03-30T08:42:34.813Z"
 status: "active"
 ---
 

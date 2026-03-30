@@ -3,9 +3,9 @@ title: "Section 17 - Insanity defense"
 usc_title: 18
 usc_section: "17"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "18 U.S.C. § 17"
-generated_at: "2026-03-30T08:37:37.618Z"
+generated_at: "2026-03-30T08:42:44.119Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Precedence of associate justices"
 usc_title: 28
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "28 U.S.C. § 4"
-generated_at: "2026-03-30T08:38:48.672Z"
+generated_at: "2026-03-30T08:43:13.204Z"
 status: "active"
 ---
 

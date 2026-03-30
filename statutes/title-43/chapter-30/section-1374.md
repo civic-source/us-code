@@ -3,9 +3,9 @@ title: "Section 1374 - Repealed. Pub. L. 94–579, title VII, § 705(a) , Oct. 2
 usc_title: 43
 usc_section: "1374"
 chapter: 30
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 1374"
-generated_at: "2026-03-30T08:39:29.258Z"
+generated_at: "2026-03-30T08:43:38.433Z"
 status: "repealed"
 ---
 

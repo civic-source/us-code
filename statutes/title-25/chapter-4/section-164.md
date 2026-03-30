@@ -3,9 +3,9 @@ title: "Section 164 - Restoration to tribal ownership of unclaimed per capita an
 usc_title: 25
 usc_section: "164"
 chapter: 4
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 164"
-generated_at: "2026-03-30T08:37:57.342Z"
+generated_at: "2026-03-30T08:43:02.996Z"
 status: "active"
 ---
 

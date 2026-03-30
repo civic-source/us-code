@@ -3,9 +3,9 @@ title: "Section 420 - Repealed. July 25, 1947, ch. 327, § 1 , 61 Stat. 449"
 usc_title: 22
 usc_section: "420"
 chapter: 9
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "22 U.S.C. § 420"
-generated_at: "2026-03-30T08:38:01.144Z"
+generated_at: "2026-03-30T08:43:07.958Z"
 status: "repealed"
 ---
 

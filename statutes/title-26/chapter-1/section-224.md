@@ -3,9 +3,9 @@ title: "Section 224 - Cross reference"
 usc_title: 26
 usc_section: "224"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 224"
-generated_at: "2026-03-30T08:38:43.041Z"
+generated_at: "2026-03-30T08:43:18.482Z"
 status: "active"
 ---
 

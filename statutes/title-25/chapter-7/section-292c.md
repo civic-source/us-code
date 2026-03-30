@@ -3,9 +3,9 @@ title: "Section 292c - Unavailability of appropriated funds for boarding schools
 usc_title: 25
 usc_section: "292c"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "25 U.S.C. § 292c"
-generated_at: "2026-03-30T08:37:57.343Z"
+generated_at: "2026-03-30T08:43:02.998Z"
 status: "active"
 ---
 

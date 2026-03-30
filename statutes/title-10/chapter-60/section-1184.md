@@ -3,9 +3,9 @@ title: "Section 1184 - Removal of officer: action by Secretary upon recommendati
 usc_title: 10
 usc_section: "1184"
 chapter: 60
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 1184"
-generated_at: "2026-03-30T08:37:22.106Z"
+generated_at: "2026-03-30T08:41:52.090Z"
 status: "active"
 ---
 

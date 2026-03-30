@@ -3,9 +3,9 @@ title: "Section 2107a - Financial assistance program for specially selected memb
 usc_title: 10
 usc_section: "2107a"
 chapter: 103
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 2107a"
-generated_at: "2026-03-30T08:37:22.126Z"
+generated_at: "2026-03-30T08:41:52.108Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 494 - Rules and regulations; cooperation with States, etc., offi
 usc_title: 7
 usc_section: "494"
 chapter: 20
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 494"
-generated_at: "2026-03-30T08:37:18.039Z"
+generated_at: "2026-03-30T08:41:28.923Z"
 status: "active"
 ---
 

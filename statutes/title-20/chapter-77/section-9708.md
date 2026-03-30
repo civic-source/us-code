@@ -3,9 +3,9 @@ title: "Section 9708 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9708"
 chapter: 77
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 9708"
-generated_at: "2026-03-30T08:37:39.527Z"
+generated_at: "2026-03-30T08:42:24.725Z"
 status: "active"
 ---
 

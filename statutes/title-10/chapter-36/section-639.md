@@ -3,9 +3,9 @@ title: "Section 639 - Continuation on active duty to complete disciplinary actio
 usc_title: 10
 usc_section: "639"
 chapter: 36
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 639"
-generated_at: "2026-03-30T08:37:22.078Z"
+generated_at: "2026-03-30T08:41:52.062Z"
 status: "active"
 ---
 

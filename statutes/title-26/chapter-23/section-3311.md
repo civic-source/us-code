@@ -3,9 +3,9 @@ title: "Section 3311 - Short title"
 usc_title: 26
 usc_section: "3311"
 chapter: 23
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "26 U.S.C. § 3311"
-generated_at: "2026-03-30T08:38:43.157Z"
+generated_at: "2026-03-30T08:43:18.592Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40119 - Repealed. Pub. L. 115–254, div. K, title I, § 1991(c)
 usc_title: 49
 usc_section: "40119"
 chapter: 401
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "49 U.S.C. § 40119"
-generated_at: "2026-03-30T08:40:50.174Z"
+generated_at: "2026-03-30T08:44:05.929Z"
 status: "repealed"
 ---
 

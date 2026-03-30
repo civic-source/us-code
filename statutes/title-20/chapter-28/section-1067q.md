@@ -3,9 +3,9 @@ title: "Section 1067q - Investment in historically Black colleges and universiti
 usc_title: 20
 usc_section: "1067q"
 chapter: 28
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 1067q"
-generated_at: "2026-03-30T08:37:39.409Z"
+generated_at: "2026-03-30T08:42:24.614Z"
 status: "active"
 ---
 

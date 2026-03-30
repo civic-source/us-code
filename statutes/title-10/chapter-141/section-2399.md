@@ -3,9 +3,9 @@ title: "Section 2399 - Operational test and evaluation of defense acquisition pr
 usc_title: 10
 usc_section: "2399"
 chapter: 141
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "10 U.S.C. § 2399"
-generated_at: "2026-03-30T08:37:22.146Z"
+generated_at: "2026-03-30T08:41:52.129Z"
 status: "active"
 ---
 

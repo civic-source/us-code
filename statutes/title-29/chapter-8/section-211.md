@@ -3,9 +3,9 @@ title: "Section 211 - Collection of data"
 usc_title: 29
 usc_section: "211"
 chapter: 8
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "29 U.S.C. § 211"
-generated_at: "2026-03-30T08:38:19.461Z"
+generated_at: "2026-03-30T08:43:11.947Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4319 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4319"
 chapter: 74
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 4319"
-generated_at: "2026-03-30T08:37:18.145Z"
+generated_at: "2026-03-30T08:41:29.014Z"
 status: "active"
 ---
 

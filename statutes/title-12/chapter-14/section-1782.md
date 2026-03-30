@@ -3,9 +3,9 @@ title: "Section 1782 - Administration of insurance fund"
 usc_title: 12
 usc_section: "1782"
 chapter: 14
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "12 U.S.C. § 1782"
-generated_at: "2026-03-30T08:37:28.574Z"
+generated_at: "2026-03-30T08:42:18.870Z"
 status: "active"
 ---
 

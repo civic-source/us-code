@@ -3,9 +3,9 @@ title: "Section 8124 - Findings and award; hearings"
 usc_title: 5
 usc_section: "8124"
 chapter: 81
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "5 U.S.C. § 8124"
-generated_at: "2026-03-30T08:37:11.689Z"
+generated_at: "2026-03-30T08:41:19.416Z"
 status: "active"
 ---
 

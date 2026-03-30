@@ -3,9 +3,9 @@ title: "Section 70107A - Repealed. Pub. L. 115–254, div. J, § 1809(a)(1) , Oc
 usc_title: 46
 usc_section: "70107A"
 chapter: 701
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "46 U.S.C. § 70107A"
-generated_at: "2026-03-30T08:40:22.666Z"
+generated_at: "2026-03-30T08:44:03.963Z"
 status: "repealed"
 ---
 

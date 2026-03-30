@@ -3,9 +3,9 @@ title: "Section 70125 - Port security training for facility security officers"
 usc_title: 46
 usc_section: "70125"
 chapter: 701
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "46 U.S.C. § 70125"
-generated_at: "2026-03-30T08:40:22.667Z"
+generated_at: "2026-03-30T08:44:03.963Z"
 status: "active"
 ---
 

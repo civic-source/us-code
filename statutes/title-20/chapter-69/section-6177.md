@@ -3,9 +3,9 @@ title: "Section 6177 - Omitted"
 usc_title: 20
 usc_section: "6177"
 chapter: 69
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 6177"
-generated_at: "2026-03-30T08:37:39.489Z"
+generated_at: "2026-03-30T08:42:24.690Z"
 status: "omitted"
 ---
 

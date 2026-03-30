@@ -3,9 +3,9 @@ title: "Section 469k - Repealed. Pub. L. 104–333, div. I, title VI, § 604(e)(
 usc_title: 16
 usc_section: "469k"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 469k"
-generated_at: "2026-03-30T08:37:53.344Z"
+generated_at: "2026-03-30T08:42:34.742Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 228b - Composition of park"
 usc_title: 16
 usc_section: "228b"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 228b"
-generated_at: "2026-03-30T08:37:53.270Z"
+generated_at: "2026-03-30T08:42:34.663Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3732 - Executive branch initiatives"
 usc_title: 19
 usc_section: "3732"
 chapter: 23
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "19 U.S.C. § 3732"
-generated_at: "2026-03-30T08:37:50.245Z"
+generated_at: "2026-03-30T08:42:22.698Z"
 status: "active"
 ---
 

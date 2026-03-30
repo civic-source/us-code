@@ -3,9 +3,9 @@ title: "Section 1613 - Conveyance of lands"
 usc_title: 43
 usc_section: "1613"
 chapter: 33
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 1613"
-generated_at: "2026-03-30T08:39:29.264Z"
+generated_at: "2026-03-30T08:43:38.439Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 658b - Duties of Congressional committees"
 usc_title: 2
 usc_section: "658b"
 chapter: 17
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "2 U.S.C. § 658b"
-generated_at: "2026-03-30T08:37:08.276Z"
+generated_at: "2026-03-30T08:41:17.142Z"
 status: "active"
 ---
 

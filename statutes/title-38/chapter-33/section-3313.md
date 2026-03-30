@@ -3,9 +3,9 @@ title: "Section 3313 - Educational assistance: amount; payment"
 usc_title: 38
 usc_section: "3313"
 chapter: 33
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 3313"
-generated_at: "2026-03-30T08:39:25.584Z"
+generated_at: "2026-03-30T08:43:32.323Z"
 status: "active"
 ---
 
@@ -93,7 +93,7 @@ status: "active"
         - **(III)** during the third six-month period of the program, 60 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I);
         - **(IV)** during the fourth six-month period of such program, 40 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I); and
         - **(V)** during any month after the first 24 months of such program, 20 percent of the monthly amount of the basic allowance for housing payable as described in subclause (I).
-      - **(ii)** Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books 1 1 So in original. Probably should be followed by a comma. supplies, equipment, and other educational costs.
+      - **(ii)** Subject to clauses (iii) and (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for each partial month) of training pursued for books, supplies, equipment, and other educational costs.
       - **(iii)** In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (8) of sections 3311(b), the amounts payable pursuant to clauses (i) and (ii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (7) of subsection (c).
       - **(iv)** In any month in which an individual pursuing a program of education consisting of a program of apprenticeship or other on-job training fails to complete 120 hours of training, the amount of monthly educational assistance allowance payable under clauses (i) and (iii) to the individual shall be limited to the same proportion of the applicable rate determined under this subparagraph as the number of hours worked during such month, rounded to the nearest eight hours, bears to 120 hours.
     - **(C)** In the case of an individual enrolled in a program of education consisting of flight training (regardless of the institution providing such program of education), an amount equal to—

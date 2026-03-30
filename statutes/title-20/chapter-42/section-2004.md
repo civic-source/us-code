@@ -3,9 +3,9 @@ title: "Section 2004 - Harry S Truman Scholarship Foundation"
 usc_title: 20
 usc_section: "2004"
 chapter: 42
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 2004"
-generated_at: "2026-03-30T08:37:39.469Z"
+generated_at: "2026-03-30T08:42:24.671Z"
 status: "active"
 ---
 

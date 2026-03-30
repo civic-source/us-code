@@ -3,9 +3,9 @@ title: "Section 6102 - Exceptions from advertising requirement"
 usc_title: 41
 usc_section: "6102"
 chapter: 61
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "41 U.S.C. § 6102"
-generated_at: "2026-03-30T08:39:31.366Z"
+generated_at: "2026-03-30T08:43:37.477Z"
 status: "active"
 ---
 

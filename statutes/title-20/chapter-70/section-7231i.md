@@ -3,9 +3,9 @@ title: "Section 7231i - Repealed. Pub. L. 114–95, title IV, § 4001(b)(3)(D)(i
 usc_title: 20
 usc_section: "7231i"
 chapter: 70
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "20 U.S.C. § 7231i"
-generated_at: "2026-03-30T08:37:39.505Z"
+generated_at: "2026-03-30T08:42:24.705Z"
 status: "repealed"
 ---
 

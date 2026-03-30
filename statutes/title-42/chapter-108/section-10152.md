@@ -3,9 +3,9 @@ title: "Section 10152 - Available capacity for interim storage of spent nuclear 
 usc_title: 42
 usc_section: "10152"
 chapter: 108
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 10152"
-generated_at: "2026-03-30T08:40:14.215Z"
+generated_at: "2026-03-30T08:43:59.932Z"
 status: "active"
 ---
 

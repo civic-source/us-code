@@ -3,9 +3,9 @@ title: "Section 329 - Debtor’s transactions with attorneys"
 usc_title: 11
 usc_section: "329"
 chapter: 3
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "11 U.S.C. § 329"
-generated_at: "2026-03-30T08:37:29.538Z"
+generated_at: "2026-03-30T08:42:07.761Z"
 status: "active"
 ---
 

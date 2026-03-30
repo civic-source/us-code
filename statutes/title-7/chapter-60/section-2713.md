@@ -3,9 +3,9 @@ title: "Section 2713 - Administrative review of orders; petition; hearing; judic
 usc_title: 7
 usc_section: "2713"
 chapter: 60
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 2713"
-generated_at: "2026-03-30T08:37:18.130Z"
+generated_at: "2026-03-30T08:41:29.002Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9114 - Antitrust review"
 usc_title: 42
 usc_section: "9114"
 chapter: 99
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 9114"
-generated_at: "2026-03-30T08:40:14.187Z"
+generated_at: "2026-03-30T08:43:59.905Z"
 status: "active"
 ---
 

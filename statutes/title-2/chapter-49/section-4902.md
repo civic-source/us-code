@@ -3,9 +3,9 @@ title: "Section 4902 - John W. McCormack Residential Page School"
 usc_title: 2
 usc_section: "4902"
 chapter: 49
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "2 U.S.C. § 4902"
-generated_at: "2026-03-30T08:37:08.307Z"
+generated_at: "2026-03-30T08:41:17.168Z"
 status: "active"
 ---
 

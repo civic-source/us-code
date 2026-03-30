@@ -3,9 +3,9 @@ title: "Section 1902 - Scholarship, fellowship, and grant program"
 usc_title: 50
 usc_section: "1902"
 chapter: 37
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "50 U.S.C. § 1902"
-generated_at: "2026-03-30T08:40:33.275Z"
+generated_at: "2026-03-30T08:44:06.974Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 Stat
 usc_title: 16
 usc_section: "4"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 4"
-generated_at: "2026-03-30T08:37:53.345Z"
+generated_at: "2026-03-30T08:42:34.742Z"
 status: "repealed"
 ---
 

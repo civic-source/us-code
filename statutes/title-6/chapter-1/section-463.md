@@ -3,9 +3,9 @@ title: "Section 463 - Requirement to comply with laws protecting equal employmen
 usc_title: 6
 usc_section: "463"
 chapter: 1
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "6 U.S.C. § 463"
-generated_at: "2026-03-30T08:37:22.582Z"
+generated_at: "2026-03-30T08:41:31.538Z"
 status: "active"
 ---
 

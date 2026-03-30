@@ -3,9 +3,9 @@ title: "Section 1195 - Injunction and condemnation proceedings"
 usc_title: 15
 usc_section: "1195"
 chapter: 25
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "15 U.S.C. § 1195"
-generated_at: "2026-03-30T08:37:34.174Z"
+generated_at: "2026-03-30T08:41:59.307Z"
 status: "active"
 ---
 

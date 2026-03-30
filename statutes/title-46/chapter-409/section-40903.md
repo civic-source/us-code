@@ -3,9 +3,9 @@ title: "Section 40903 - Suspension or revocation of license"
 usc_title: 46
 usc_section: "40903"
 chapter: 409
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "46 U.S.C. § 40903"
-generated_at: "2026-03-30T08:40:22.652Z"
+generated_at: "2026-03-30T08:44:03.947Z"
 status: "active"
 ---
 

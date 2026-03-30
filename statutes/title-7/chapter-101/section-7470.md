@@ -3,9 +3,9 @@ title: "Section 7470 - Referenda"
 usc_title: 7
 usc_section: "7470"
 chapter: 101
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "7 U.S.C. § 7470"
-generated_at: "2026-03-30T08:37:18.185Z"
+generated_at: "2026-03-30T08:41:29.048Z"
 status: "active"
 ---
 

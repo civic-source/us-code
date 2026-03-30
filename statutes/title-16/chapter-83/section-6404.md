@@ -3,9 +3,9 @@ title: "Section 6404 - Coral reef conservation Fund"
 usc_title: 16
 usc_section: "6404"
 chapter: 83
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "16 U.S.C. § 6404"
-generated_at: "2026-03-30T08:37:53.473Z"
+generated_at: "2026-03-30T08:42:34.879Z"
 status: "active"
 ---
 

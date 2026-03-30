@@ -3,9 +3,9 @@ title: "Section 1596 - Repealed. Pub. L. 104–186, title II, § 224(3) , Aug. 2
 usc_title: 48
 usc_section: "1596"
 chapter: 12
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "48 U.S.C. § 1596"
-generated_at: "2026-03-30T08:40:21.867Z"
+generated_at: "2026-03-30T08:44:02.783Z"
 status: "repealed"
 ---
 

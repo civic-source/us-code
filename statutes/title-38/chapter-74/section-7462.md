@@ -3,9 +3,9 @@ title: "Section 7462 - Major adverse actions involving professional conduct or c
 usc_title: 38
 usc_section: "7462"
 chapter: 74
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "38 U.S.C. § 7462"
-generated_at: "2026-03-30T08:39:25.611Z"
+generated_at: "2026-03-30T08:43:32.350Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
   - **(2)** In any case described in paragraph (1), the employee is entitled to be represented by an attorney or other representative of the employee’s choice at all stages of the case.
   - **(3)** After considering the employee’s answer, if any, and within the time period provided for in paragraph (5)(B), the deciding official shall render a decision on the charges. The decision shall be in writing and shall include the specific reasons therefor.
   - **(4)**
-    - **(A)** The period for the response of an employee under paragraph (1)(B) to advance written 1 1 So in original. Probably should be followed by “notice”. under paragraph (1)(A) shall be seven business days.
+    - **(A)** The period for the response of an employee under paragraph (1)(B) to advance written notice under paragraph (1)(A) shall be seven business days.
     - **(B)** The Secretary shall require that any appeal to a Disciplinary Appeals Board from a decision to impose a major adverse action shall be received within seven business days after the date of service of the written decision on the employee.
   - **(5)**
     - **(A)** The aggregate period for the resolution of charges against an employee under this subsection may not exceed 15 business days.

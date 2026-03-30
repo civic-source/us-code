@@ -3,9 +3,9 @@ title: "Section 1395lll - Standardized post-acute care (PAC) assessment data for
 usc_title: 42
 usc_section: "1395lll"
 chapter: 7
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "42 U.S.C. § 1395lll"
-generated_at: "2026-03-30T08:40:13.922Z"
+generated_at: "2026-03-30T08:43:59.652Z"
 status: "active"
 ---
 

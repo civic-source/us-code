@@ -3,9 +3,9 @@ title: "Section 2 - Reporting requirements"
 usc_title: 43
 usc_section: "2"
 chapter: 35
-current_through: "PL 116-59"
+current_through: "PL 116-63"
 classification: "43 U.S.C. § 2"
-generated_at: "2026-03-30T08:39:29.272Z"
+generated_at: "2026-03-30T08:43:38.448Z"
 status: "active"
 ---
 
