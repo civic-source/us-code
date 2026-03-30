@@ -3,9 +3,9 @@ title: "Section 2893 - Community participation"
 usc_title: 29
 usc_section: "2893"
 chapter: 30
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 2893"
-generated_at: "2026-03-30T03:13:29.159Z"
+generated_at: "2026-03-30T03:16:48.192Z"
 status: "active"
 ---
 

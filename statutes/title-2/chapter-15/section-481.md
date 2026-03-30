@@ -3,9 +3,9 @@ title: "Section 481 - Authorization of appropriations; availability of appropria
 usc_title: 2
 usc_section: "481"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 481"
-generated_at: "2026-03-30T03:12:02.407Z"
+generated_at: "2026-03-30T03:15:32.299Z"
 status: "active"
 ---
 

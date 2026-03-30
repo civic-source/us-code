@@ -3,9 +3,9 @@ title: "Section 1641l - Unpaid balance of claim; claims of United States unaffec
 usc_title: 22
 usc_section: "1641l"
 chapter: 21
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 1641l"
-generated_at: "2026-03-30T03:12:56.150Z"
+generated_at: "2026-03-30T03:16:41.339Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 450k - Authorization of appropriations for dairy farmer indemnit
 usc_title: 7
 usc_section: "450k"
 chapter: 17
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 450k"
-generated_at: "2026-03-30T03:12:09.339Z"
+generated_at: "2026-03-30T03:15:47.414Z"
 status: "active"
 ---
 

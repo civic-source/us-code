@@ -3,9 +3,9 @@ title: "Section 1234 - Tax exemption"
 usc_title: 25
 usc_section: "1234"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 1234"
-generated_at: "2026-03-30T03:13:04.442Z"
+generated_at: "2026-03-30T03:16:32.005Z"
 status: "active"
 ---
 

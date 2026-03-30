@@ -3,9 +3,9 @@ title: "Section 2109 - Foreign Currency Fluctuations Account"
 usc_title: 36
 usc_section: "2109"
 chapter: 21
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "36 U.S.C. § 2109"
-generated_at: "2026-03-30T03:13:54.241Z"
+generated_at: "2026-03-30T03:17:11.508Z"
 status: "active"
 ---
 

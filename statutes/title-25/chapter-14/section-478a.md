@@ -3,9 +3,9 @@ title: "Section 478a - Procedure"
 usc_title: 25
 usc_section: "478a"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 478a"
-generated_at: "2026-03-30T03:13:04.419Z"
+generated_at: "2026-03-30T03:16:31.982Z"
 status: "active"
 ---
 

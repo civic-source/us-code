@@ -3,9 +3,9 @@ title: "Section 8578 - Repealed. Pub. L. 90–235, § 5(a)(2) , Jan. 2, 1968 , 8
 usc_title: 10
 usc_section: "8578"
 chapter: 845
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 8578"
-generated_at: "2026-03-30T03:12:15.218Z"
+generated_at: "2026-03-30T03:15:52.847Z"
 status: "repealed"
 ---
 

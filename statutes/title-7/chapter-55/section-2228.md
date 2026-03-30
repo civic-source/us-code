@@ -3,9 +3,9 @@ title: "Section 2228 - Emergency subsistence for employees"
 usc_title: 7
 usc_section: "2228"
 chapter: 55
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 2228"
-generated_at: "2026-03-30T03:12:09.410Z"
+generated_at: "2026-03-30T03:15:47.491Z"
 status: "active"
 ---
 

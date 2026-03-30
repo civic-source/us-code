@@ -3,9 +3,9 @@ title: "Section 470u - Report by Secretary to Council"
 usc_title: 16
 usc_section: "470u"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 470u"
-generated_at: "2026-03-30T03:12:42.218Z"
+generated_at: "2026-03-30T03:16:15.607Z"
 status: "active"
 ---
 

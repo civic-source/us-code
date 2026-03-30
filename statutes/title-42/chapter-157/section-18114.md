@@ -3,9 +3,9 @@ title: "Section 18114 - Access to therapies"
 usc_title: 42
 usc_section: "18114"
 chapter: 157
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 18114"
-generated_at: "2026-03-30T03:14:52.157Z"
+generated_at: "2026-03-30T03:17:32.960Z"
 status: "active"
 ---
 

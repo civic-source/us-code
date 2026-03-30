@@ -3,9 +3,9 @@ title: "Section 2899 - Management information"
 usc_title: 29
 usc_section: "2899"
 chapter: 30
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 2899"
-generated_at: "2026-03-30T03:13:29.160Z"
+generated_at: "2026-03-30T03:16:48.193Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 113 - North Carolina"
 usc_title: 28
 usc_section: "113"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "28 U.S.C. § 113"
-generated_at: "2026-03-30T03:13:10.189Z"
+generated_at: "2026-03-30T03:16:45.876Z"
 status: "active"
 ---
 

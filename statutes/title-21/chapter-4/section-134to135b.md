@@ -3,9 +3,9 @@ title: "Section 134to135b - Repealed. Pub. L. 107–171, title X, § 10418(a)(17
 usc_title: 21
 usc_section: "134to135b"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "21 U.S.C. § 134to135b"
-generated_at: "2026-03-30T03:12:53.353Z"
+generated_at: "2026-03-30T03:16:18.968Z"
 status: "repealed"
 ---
 

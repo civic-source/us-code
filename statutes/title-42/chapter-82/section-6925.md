@@ -3,9 +3,9 @@ title: "Section 6925 - Permits for treatment, storage, or disposal of hazardous 
 usc_title: 42
 usc_section: "6925"
 chapter: 82
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 6925"
-generated_at: "2026-03-30T03:14:51.916Z"
+generated_at: "2026-03-30T03:17:32.710Z"
 status: "active"
 ---
 

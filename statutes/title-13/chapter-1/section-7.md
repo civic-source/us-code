@@ -3,9 +3,9 @@ title: "Section 7 - Printing; requisitions upon Public Printer; publication of b
 usc_title: 13
 usc_section: "7"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "13 U.S.C. § 7"
-generated_at: "2026-03-30T03:12:17.022Z"
+generated_at: "2026-03-30T03:15:54.656Z"
 status: "active"
 ---
 

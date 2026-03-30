@@ -3,9 +3,9 @@ title: "Section 1015 - Basis of property acquired by gifts and transfers in trus
 usc_title: 26
 usc_section: "1015"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "26 U.S.C. § 1015"
-generated_at: "2026-03-30T03:13:21.819Z"
+generated_at: "2026-03-30T03:17:04.461Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10501 - Application for assistance"
 usc_title: 42
 usc_section: "10501"
 chapter: 111
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 10501"
-generated_at: "2026-03-30T03:14:52.022Z"
+generated_at: "2026-03-30T03:17:32.819Z"
 status: "active"
 ---
 

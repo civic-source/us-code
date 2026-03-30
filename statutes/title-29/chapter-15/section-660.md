@@ -3,9 +3,9 @@ title: "Section 660 - Judicial review"
 usc_title: 29
 usc_section: "660"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 660"
-generated_at: "2026-03-30T03:13:29.111Z"
+generated_at: "2026-03-30T03:16:48.121Z"
 status: "active"
 ---
 

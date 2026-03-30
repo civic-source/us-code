@@ -3,9 +3,9 @@ title: "Section 6918 - Construction"
 usc_title: 20
 usc_section: "6918"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 6918"
-generated_at: "2026-03-30T03:12:49.533Z"
+generated_at: "2026-03-30T03:16:10.768Z"
 status: "active"
 ---
 

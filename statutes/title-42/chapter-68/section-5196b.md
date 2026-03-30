@@ -3,9 +3,9 @@ title: "Section 5196b - Contributions for personnel and administrative expenses"
 usc_title: 42
 usc_section: "5196b"
 chapter: 68
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 5196b"
-generated_at: "2026-03-30T03:14:51.870Z"
+generated_at: "2026-03-30T03:17:32.664Z"
 status: "active"
 ---
 

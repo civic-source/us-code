@@ -3,9 +3,9 @@ title: "Section 1467b - Intermediate holding companies"
 usc_title: 12
 usc_section: "1467b"
 chapter: 12
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 1467b"
-generated_at: "2026-03-30T03:12:30.262Z"
+generated_at: "2026-03-30T03:15:58.569Z"
 status: "active"
 ---
 

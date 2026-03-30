@@ -3,9 +3,9 @@ title: "Section 4862 - Prohibition on use of funds for facilities in Israel, Jer
 usc_title: 22
 usc_section: "4862"
 chapter: 58
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 4862"
-generated_at: "2026-03-30T03:12:56.220Z"
+generated_at: "2026-03-30T03:16:41.414Z"
 status: "active"
 ---
 

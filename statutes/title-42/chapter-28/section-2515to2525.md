@@ -3,9 +3,9 @@ title: "Section 2515to2525 - Omitted"
 usc_title: 42
 usc_section: "2515to2525"
 chapter: 28
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 2515to2525"
-generated_at: "2026-03-30T03:14:51.800Z"
+generated_at: "2026-03-30T03:17:32.596Z"
 status: "omitted"
 ---
 

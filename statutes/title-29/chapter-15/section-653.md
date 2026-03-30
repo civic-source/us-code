@@ -3,9 +3,9 @@ title: "Section 653 - Geographic applicability; judicial enforcement; applicabil
 usc_title: 29
 usc_section: "653"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 653"
-generated_at: "2026-03-30T03:13:29.111Z"
+generated_at: "2026-03-30T03:16:48.120Z"
 status: "active"
 ---
 

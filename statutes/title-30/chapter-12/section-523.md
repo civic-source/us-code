@@ -3,9 +3,9 @@ title: "Section 523 - Uranium leases"
 usc_title: 30
 usc_section: "523"
 chapter: 12
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 523"
-generated_at: "2026-03-30T03:13:32.337Z"
+generated_at: "2026-03-30T03:16:46.487Z"
 status: "active"
 ---
 

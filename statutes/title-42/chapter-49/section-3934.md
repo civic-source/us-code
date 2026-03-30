@@ -3,9 +3,9 @@ title: "Section 3934 - Board of Directors; membership; appointment; term"
 usc_title: 42
 usc_section: "3934"
 chapter: 49
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 3934"
-generated_at: "2026-03-30T03:14:51.842Z"
+generated_at: "2026-03-30T03:17:32.639Z"
 status: "active"
 ---
 

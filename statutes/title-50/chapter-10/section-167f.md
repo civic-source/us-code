@@ -3,9 +3,9 @@ title: "Section 167f - Repealed. Pub. L. 113–40, § 7(b) , Oct. 2, 2013 , 127 
 usc_title: 50
 usc_section: "167f"
 chapter: 10
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "50 U.S.C. § 167f"
-generated_at: "2026-03-30T03:14:55.707Z"
+generated_at: "2026-03-30T03:17:37.422Z"
 status: "repealed"
 ---
 

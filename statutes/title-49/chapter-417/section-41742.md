@@ -3,9 +3,9 @@ title: "Section 41742 - Essential air service authorization"
 usc_title: 49
 usc_section: "41742"
 chapter: 417
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 41742"
-generated_at: "2026-03-30T03:15:03.344Z"
+generated_at: "2026-03-30T03:17:40.013Z"
 status: "active"
 ---
 

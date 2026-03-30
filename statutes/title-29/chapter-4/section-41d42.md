@@ -3,9 +3,9 @@ title: "Section 41d42 - Repealed. Pub. L. 90–391, § 13 , July 7, 1968 , 82 St
 usc_title: 29
 usc_section: "41d42"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 41d42"
-generated_at: "2026-03-30T03:13:29.100Z"
+generated_at: "2026-03-30T03:16:48.104Z"
 status: "repealed"
 ---
 

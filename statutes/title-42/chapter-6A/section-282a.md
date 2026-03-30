@@ -3,9 +3,9 @@ title: "Section 282a - Authorization of appropriations"
 usc_title: 42
 usc_section: "282a"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 282a"
-generated_at: "2026-03-30T03:14:51.458Z"
+generated_at: "2026-03-30T03:17:32.259Z"
 status: "active"
 ---
 

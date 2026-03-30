@@ -3,9 +3,9 @@ title: "Section 1441a - Cost of production study and establishment of current na
 usc_title: 7
 usc_section: "1441a"
 chapter: 35
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 1441a"
-generated_at: "2026-03-30T03:12:09.363Z"
+generated_at: "2026-03-30T03:15:47.439Z"
 status: "active"
 ---
 

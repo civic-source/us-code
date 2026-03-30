@@ -3,9 +3,9 @@ title: "Section 490 - Tribal rights and privileges in connection with loans"
 usc_title: 25
 usc_section: "490"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 490"
-generated_at: "2026-03-30T03:13:04.419Z"
+generated_at: "2026-03-30T03:16:31.982Z"
 status: "active"
 ---
 

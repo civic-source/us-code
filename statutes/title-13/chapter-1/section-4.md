@@ -3,9 +3,9 @@ title: "Section 4 - Functions of Secretary; regulations; delegation"
 usc_title: 13
 usc_section: "4"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "13 U.S.C. § 4"
-generated_at: "2026-03-30T03:12:17.022Z"
+generated_at: "2026-03-30T03:15:54.656Z"
 status: "active"
 ---
 

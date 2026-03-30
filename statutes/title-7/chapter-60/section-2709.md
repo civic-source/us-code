@@ -3,9 +3,9 @@ title: "Section 2709 - Termination or suspension of orders"
 usc_title: 7
 usc_section: "2709"
 chapter: 60
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 2709"
-generated_at: "2026-03-30T03:12:09.416Z"
+generated_at: "2026-03-30T03:15:47.498Z"
 status: "active"
 ---
 

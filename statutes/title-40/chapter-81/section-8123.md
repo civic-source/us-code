@@ -3,9 +3,9 @@ title: "Section 8123 - Record of transfer of jurisdiction between Director of Na
 usc_title: 40
 usc_section: "8123"
 chapter: 81
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "40 U.S.C. § 8123"
-generated_at: "2026-03-30T03:14:01.762Z"
+generated_at: "2026-03-30T03:17:13.688Z"
 status: "active"
 ---
 

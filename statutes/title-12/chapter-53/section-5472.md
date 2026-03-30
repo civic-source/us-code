@@ -3,9 +3,9 @@ title: "Section 5472 - Common framework for designated clearing entity risk mana
 usc_title: 12
 usc_section: "5472"
 chapter: 53
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 5472"
-generated_at: "2026-03-30T03:12:30.387Z"
+generated_at: "2026-03-30T03:15:58.695Z"
 status: "active"
 ---
 

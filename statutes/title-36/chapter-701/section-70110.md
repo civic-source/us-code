@@ -3,9 +3,9 @@ title: "Section 70110 - Service of process"
 usc_title: 36
 usc_section: "70110"
 chapter: 701
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "36 U.S.C. § 70110"
-generated_at: "2026-03-30T03:13:54.247Z"
+generated_at: "2026-03-30T03:17:11.515Z"
 status: "active"
 ---
 

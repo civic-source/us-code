@@ -3,9 +3,9 @@ title: "Section 5953 - Term of concessions contracts"
 usc_title: 16
 usc_section: "5953"
 chapter: 79
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 5953"
-generated_at: "2026-03-30T03:12:42.350Z"
+generated_at: "2026-03-30T03:16:15.737Z"
 status: "active"
 ---
 

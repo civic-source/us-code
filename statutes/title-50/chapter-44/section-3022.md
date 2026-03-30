@@ -3,9 +3,9 @@ title: "Section 3022 - Joint Intelligence Community Council"
 usc_title: 50
 usc_section: "3022"
 chapter: 44
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "50 U.S.C. § 3022"
-generated_at: "2026-03-30T03:14:55.737Z"
+generated_at: "2026-03-30T03:17:37.455Z"
 status: "active"
 ---
 

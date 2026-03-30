@@ -3,9 +3,9 @@ title: "Section 2502 - Congressional statement of purpose; complementary program
 usc_title: 16
 usc_section: "2502"
 chapter: 45
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 2502"
-generated_at: "2026-03-30T03:12:42.317Z"
+generated_at: "2026-03-30T03:16:15.704Z"
 status: "active"
 ---
 

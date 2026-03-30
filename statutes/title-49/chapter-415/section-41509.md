@@ -3,9 +3,9 @@ title: "Section 41509 - Authority of the Secretary of Transportation to suspend,
 usc_title: 49
 usc_section: "41509"
 chapter: 415
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 41509"
-generated_at: "2026-03-30T03:15:03.342Z"
+generated_at: "2026-03-30T03:17:40.009Z"
 status: "active"
 ---
 

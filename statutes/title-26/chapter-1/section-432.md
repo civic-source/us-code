@@ -3,9 +3,9 @@ title: "Section 432 - Additional funding rules for multiemployer plans in endang
 usc_title: 26
 usc_section: "432"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "26 U.S.C. § 432"
-generated_at: "2026-03-30T03:13:21.760Z"
+generated_at: "2026-03-30T03:17:04.409Z"
 status: "active"
 ---
 

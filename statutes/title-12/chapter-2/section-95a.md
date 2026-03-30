@@ -3,9 +3,9 @@ title: "Section 95a - Regulation of transactions in foreign exchange of gold and
 usc_title: 12
 usc_section: "95a"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 95a"
-generated_at: "2026-03-30T03:12:30.235Z"
+generated_at: "2026-03-30T03:15:58.542Z"
 status: "active"
 ---
 

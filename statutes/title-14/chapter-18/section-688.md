@@ -3,9 +3,9 @@ title: "Section 688 - Reports"
 usc_title: 14
 usc_section: "688"
 chapter: 18
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "14 U.S.C. § 688"
-generated_at: "2026-03-30T03:12:20.520Z"
+generated_at: "2026-03-30T03:15:55.223Z"
 status: "active"
 ---
 

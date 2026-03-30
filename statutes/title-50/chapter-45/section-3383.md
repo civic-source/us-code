@@ -3,9 +3,9 @@ title: "Section 3383 - Office of the National Counterintelligence Executive"
 usc_title: 50
 usc_section: "3383"
 chapter: 45
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "50 U.S.C. § 3383"
-generated_at: "2026-03-30T03:14:55.748Z"
+generated_at: "2026-03-30T03:17:37.466Z"
 status: "active"
 ---
 

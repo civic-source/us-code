@@ -3,9 +3,9 @@ title: "Section 1403 - Miscellaneous provisions"
 usc_title: 26
 usc_section: "1403"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "26 U.S.C. § 1403"
-generated_at: "2026-03-30T03:13:21.846Z"
+generated_at: "2026-03-30T03:17:04.485Z"
 status: "active"
 ---
 

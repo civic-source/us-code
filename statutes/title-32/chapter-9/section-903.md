@@ -3,9 +3,9 @@ title: "Section 903 - Regulations"
 usc_title: 32
 usc_section: "903"
 chapter: 9
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "32 U.S.C. § 903"
-generated_at: "2026-03-30T03:13:34.490Z"
+generated_at: "2026-03-30T03:17:06.253Z"
 status: "active"
 ---
 

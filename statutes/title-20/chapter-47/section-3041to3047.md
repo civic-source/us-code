@@ -3,9 +3,9 @@ title: "Section 3041to3047 - Omitted"
 usc_title: 20
 usc_section: "3041to3047"
 chapter: 47
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 3041to3047"
-generated_at: "2026-03-30T03:12:49.500Z"
+generated_at: "2026-03-30T03:16:10.736Z"
 status: "omitted"
 ---
 

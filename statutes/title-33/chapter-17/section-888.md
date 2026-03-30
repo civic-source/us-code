@@ -3,9 +3,9 @@ title: "Section 888 - Omitted"
 usc_title: 33
 usc_section: "888"
 chapter: 17
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 888"
-generated_at: "2026-03-30T03:13:40.524Z"
+generated_at: "2026-03-30T03:17:08.918Z"
 status: "omitted"
 ---
 

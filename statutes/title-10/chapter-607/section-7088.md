@@ -3,9 +3,9 @@ title: "Section 7088 - Regulations"
 usc_title: 10
 usc_section: "7088"
 chapter: 607
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 7088"
-generated_at: "2026-03-30T03:12:15.211Z"
+generated_at: "2026-03-30T03:15:52.840Z"
 status: "active"
 ---
 

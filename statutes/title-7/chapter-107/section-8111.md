@@ -3,9 +3,9 @@ title: "Section 8111 - Biomass Crop Assistance Program"
 usc_title: 7
 usc_section: "8111"
 chapter: 107
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 8111"
-generated_at: "2026-03-30T03:12:09.473Z"
+generated_at: "2026-03-30T03:15:47.559Z"
 status: "active"
 ---
 

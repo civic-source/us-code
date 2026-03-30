@@ -3,9 +3,9 @@ title: "Section 9306 - Service schools: leaves of absence for instructors"
 usc_title: 10
 usc_section: "9306"
 chapter: 901
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 9306"
-generated_at: "2026-03-30T03:12:15.220Z"
+generated_at: "2026-03-30T03:15:52.849Z"
 status: "active"
 ---
 

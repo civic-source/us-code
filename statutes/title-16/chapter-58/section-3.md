@@ -3,9 +3,9 @@ title: "Section 3 - Great Lakes basin program for soil erosion and sediment cont
 usc_title: 16
 usc_section: "3"
 chapter: 58
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T03:12:42.336Z"
+generated_at: "2026-03-30T03:16:15.723Z"
 status: "active"
 ---
 

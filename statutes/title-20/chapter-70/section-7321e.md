@@ -3,9 +3,9 @@ title: "Section 7321e - Reports"
 usc_title: 20
 usc_section: "7321e"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 7321e"
-generated_at: "2026-03-30T03:12:49.548Z"
+generated_at: "2026-03-30T03:16:10.781Z"
 status: "active"
 ---
 

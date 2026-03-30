@@ -3,9 +3,9 @@ title: "Section 768 - Rules and regulations"
 usc_title: 25
 usc_section: "768"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 768"
-generated_at: "2026-03-30T03:13:04.435Z"
+generated_at: "2026-03-30T03:16:31.997Z"
 status: "active"
 ---
 

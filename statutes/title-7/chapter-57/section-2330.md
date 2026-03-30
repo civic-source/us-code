@@ -3,9 +3,9 @@ title: "Section 2330 - Publications"
 usc_title: 7
 usc_section: "2330"
 chapter: 57
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 2330"
-generated_at: "2026-03-30T03:12:09.413Z"
+generated_at: "2026-03-30T03:15:47.494Z"
 status: "active"
 ---
 

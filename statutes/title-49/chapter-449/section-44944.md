@@ -3,9 +3,9 @@ title: "Section 44944 - Voluntary provision of emergency services"
 usc_title: 49
 usc_section: "44944"
 chapter: 449
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 44944"
-generated_at: "2026-03-30T03:15:03.355Z"
+generated_at: "2026-03-30T03:17:40.030Z"
 status: "active"
 ---
 

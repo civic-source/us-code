@@ -3,9 +3,9 @@ title: "Section 1 - Staff exchanges"
 usc_title: 15
 usc_section: "1"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 1"
-generated_at: "2026-03-30T03:12:35.223Z"
+generated_at: "2026-03-30T03:16:01.986Z"
 status: "active"
 ---
 

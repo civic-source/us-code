@@ -3,9 +3,9 @@ title: "Section 4445 - Transferred"
 usc_title: 16
 usc_section: "4445"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 4445"
-generated_at: "2026-03-30T03:12:42.134Z"
+generated_at: "2026-03-30T03:16:15.524Z"
 status: "transferred"
 ---
 

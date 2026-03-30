@@ -3,9 +3,9 @@ title: "Section 2416 - Newsletter"
 usc_title: 25
 usc_section: "2416"
 chapter: 26
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 2416"
-generated_at: "2026-03-30T03:13:04.481Z"
+generated_at: "2026-03-30T03:16:32.083Z"
 status: "active"
 ---
 

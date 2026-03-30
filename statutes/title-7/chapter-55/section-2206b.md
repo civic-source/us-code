@@ -3,9 +3,9 @@ title: "Section 2206b - Availability of excess and surplus computers in rural ar
 usc_title: 7
 usc_section: "2206b"
 chapter: 55
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 2206b"
-generated_at: "2026-03-30T03:12:09.409Z"
+generated_at: "2026-03-30T03:15:47.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1781c - Office of Community Support for Military Families With S
 usc_title: 10
 usc_section: "1781c"
 chapter: 88
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 1781c"
-generated_at: "2026-03-30T03:12:15.152Z"
+generated_at: "2026-03-30T03:15:52.781Z"
 status: "active"
 ---
 

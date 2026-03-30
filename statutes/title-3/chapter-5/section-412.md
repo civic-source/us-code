@@ -3,9 +3,9 @@ title: "Section 412 - Rights and protections under the Family and Medical Leave 
 usc_title: 3
 usc_section: "412"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "3 U.S.C. § 412"
-generated_at: "2026-03-30T03:12:01.495Z"
+generated_at: "2026-03-30T03:15:29.064Z"
 status: "active"
 ---
 

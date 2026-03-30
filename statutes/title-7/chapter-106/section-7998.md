@@ -3,9 +3,9 @@ title: "Section 7998 - Estimates of net farm income"
 usc_title: 7
 usc_section: "7998"
 chapter: 106
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 7998"
-generated_at: "2026-03-30T03:12:09.470Z"
+generated_at: "2026-03-30T03:15:47.556Z"
 status: "active"
 ---
 

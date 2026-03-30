@@ -3,9 +3,9 @@ title: "Section 2231 - Studies of projects by non-Federal interests"
 usc_title: 33
 usc_section: "2231"
 chapter: 36
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 2231"
-generated_at: "2026-03-30T03:13:40.555Z"
+generated_at: "2026-03-30T03:17:08.951Z"
 status: "active"
 ---
 

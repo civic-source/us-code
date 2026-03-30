@@ -3,9 +3,9 @@ title: "Section 490 - Deposits from timber purchasers to defray cost of disposin
 usc_title: 16
 usc_section: "490"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 490"
-generated_at: "2026-03-30T03:12:42.223Z"
+generated_at: "2026-03-30T03:16:15.612Z"
 status: "active"
 ---
 

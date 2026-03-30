@@ -3,9 +3,9 @@ title: "Section 256dto256h - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 
 usc_title: 16
 usc_section: "256dto256h"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 256dto256h"
-generated_at: "2026-03-30T03:12:42.147Z"
+generated_at: "2026-03-30T03:16:15.537Z"
 status: "repealed"
 ---
 

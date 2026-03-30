@@ -3,9 +3,9 @@ title: "Section 1973n - Impairment of voting rights of persons holding current r
 usc_title: 42
 usc_section: "1973n"
 chapter: 20
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1973n"
-generated_at: "2026-03-30T03:14:51.771Z"
+generated_at: "2026-03-30T03:17:32.565Z"
 status: "active"
 ---
 

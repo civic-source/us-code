@@ -3,9 +3,9 @@ title: "Section 1611to1611d - Omitted"
 usc_title: 22
 usc_section: "1611to1611d"
 chapter: 20
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 1611to1611d"
-generated_at: "2026-03-30T03:12:56.148Z"
+generated_at: "2026-03-30T03:16:41.337Z"
 status: "omitted"
 ---
 

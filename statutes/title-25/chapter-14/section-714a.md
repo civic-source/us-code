@@ -3,9 +3,9 @@ title: "Section 714a - Extension of Federal recognition, rights, and privileges"
 usc_title: 25
 usc_section: "714a"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 714a"
-generated_at: "2026-03-30T03:13:04.432Z"
+generated_at: "2026-03-30T03:16:31.995Z"
 status: "active"
 ---
 

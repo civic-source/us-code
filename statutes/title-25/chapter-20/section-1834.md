@@ -3,9 +3,9 @@ title: "Section 1834 - Compliance with matching requirement"
 usc_title: 25
 usc_section: "1834"
 chapter: 20
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 1834"
-generated_at: "2026-03-30T03:13:04.471Z"
+generated_at: "2026-03-30T03:16:32.073Z"
 status: "active"
 ---
 

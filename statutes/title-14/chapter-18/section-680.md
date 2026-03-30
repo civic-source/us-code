@@ -3,9 +3,9 @@ title: "Section 680 - Definitions"
 usc_title: 14
 usc_section: "680"
 chapter: 18
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "14 U.S.C. § 680"
-generated_at: "2026-03-30T03:12:20.519Z"
+generated_at: "2026-03-30T03:15:55.223Z"
 status: "active"
 ---
 

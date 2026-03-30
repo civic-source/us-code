@@ -3,9 +3,9 @@ title: "Section 31103 - United States Government’s share of costs"
 usc_title: 49
 usc_section: "31103"
 chapter: 311
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 31103"
-generated_at: "2026-03-30T03:15:03.325Z"
+generated_at: "2026-03-30T03:17:39.984Z"
 status: "active"
 ---
 

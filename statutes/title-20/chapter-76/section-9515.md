@@ -3,9 +3,9 @@ title: "Section 9515 - Priorities"
 usc_title: 20
 usc_section: "9515"
 chapter: 76
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 9515"
-generated_at: "2026-03-30T03:12:49.564Z"
+generated_at: "2026-03-30T03:16:10.795Z"
 status: "active"
 ---
 

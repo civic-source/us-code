@@ -3,9 +3,9 @@ title: "Section 31324 - Retention and examination of mortgages of vessels covere
 usc_title: 46
 usc_section: "31324"
 chapter: 313
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "46 U.S.C. § 31324"
-generated_at: "2026-03-30T03:15:00.475Z"
+generated_at: "2026-03-30T03:17:36.216Z"
 status: "active"
 ---
 

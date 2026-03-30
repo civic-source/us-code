@@ -3,9 +3,9 @@ title: "Section 6552 - Purpose"
 usc_title: 20
 usc_section: "6552"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 6552"
-generated_at: "2026-03-30T03:12:49.527Z"
+generated_at: "2026-03-30T03:16:10.761Z"
 status: "active"
 ---
 

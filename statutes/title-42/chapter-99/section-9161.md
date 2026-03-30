@@ -3,9 +3,9 @@ title: "Section 9161 - Law of the Sea Treaty"
 usc_title: 42
 usc_section: "9161"
 chapter: 99
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 9161"
-generated_at: "2026-03-30T03:14:51.988Z"
+generated_at: "2026-03-30T03:17:32.782Z"
 status: "active"
 ---
 

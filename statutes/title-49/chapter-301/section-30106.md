@@ -3,9 +3,9 @@ title: "Section 30106 - Rented or leased motor vehicle safety and responsibility
 usc_title: 49
 usc_section: "30106"
 chapter: 301
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 30106"
-generated_at: "2026-03-30T03:15:03.322Z"
+generated_at: "2026-03-30T03:17:39.976Z"
 status: "active"
 ---
 

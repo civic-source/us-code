@@ -3,9 +3,9 @@ title: "Section 728a - Training of employers with respect to Americans with Disa
 usc_title: 29
 usc_section: "728a"
 chapter: 16
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 728a"
-generated_at: "2026-03-30T03:13:29.116Z"
+generated_at: "2026-03-30T03:16:48.128Z"
 status: "active"
 ---
 

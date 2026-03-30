@@ -3,9 +3,9 @@ title: "Section 1420 - Conservation of natural resources"
 usc_title: 30
 usc_section: "1420"
 chapter: 26
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 1420"
-generated_at: "2026-03-30T03:13:32.357Z"
+generated_at: "2026-03-30T03:16:46.510Z"
 status: "active"
 ---
 

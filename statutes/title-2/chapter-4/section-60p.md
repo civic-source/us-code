@@ -3,9 +3,9 @@ title: "Section 60p - Payment for unaccrued leave"
 usc_title: 2
 usc_section: "60p"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 60p"
-generated_at: "2026-03-30T03:12:02.382Z"
+generated_at: "2026-03-30T03:15:32.275Z"
 status: "active"
 ---
 

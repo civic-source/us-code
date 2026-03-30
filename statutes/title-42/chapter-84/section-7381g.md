@@ -3,9 +3,9 @@ title: "Section 7381g - Definitions"
 usc_title: 42
 usc_section: "7381g"
 chapter: 84
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 7381g"
-generated_at: "2026-03-30T03:14:51.931Z"
+generated_at: "2026-03-30T03:17:32.725Z"
 status: "active"
 ---
 

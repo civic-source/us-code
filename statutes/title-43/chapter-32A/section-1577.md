@@ -3,9 +3,9 @@ title: "Section 1577 - Existing Federal laws not modified"
 usc_title: 43
 usc_section: "1577"
 chapter: 32
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 1577"
-generated_at: "2026-03-30T03:14:28.871Z"
+generated_at: "2026-03-30T03:17:16.318Z"
 status: "active"
 ---
 

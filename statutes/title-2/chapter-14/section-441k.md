@@ -3,9 +3,9 @@ title: "Section 441k - Prohibition of contributions by minors"
 usc_title: 2
 usc_section: "441k"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 441k"
-generated_at: "2026-03-30T03:12:02.407Z"
+generated_at: "2026-03-30T03:15:32.298Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1455 - Procedure for promulgation of regulations"
 usc_title: 15
 usc_section: "1455"
 chapter: 39
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 1455"
-generated_at: "2026-03-30T03:12:35.322Z"
+generated_at: "2026-03-30T03:16:02.082Z"
 status: "active"
 ---
 

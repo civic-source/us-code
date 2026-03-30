@@ -3,9 +3,9 @@ title: "Section 15453 - Authorization of appropriations"
 usc_title: 42
 usc_section: "15453"
 chapter: 146
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 15453"
-generated_at: "2026-03-30T03:14:52.111Z"
+generated_at: "2026-03-30T03:17:32.912Z"
 status: "active"
 ---
 

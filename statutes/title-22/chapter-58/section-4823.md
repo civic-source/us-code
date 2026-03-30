@@ -3,9 +3,9 @@ title: "Section 4823 - Special agents"
 usc_title: 22
 usc_section: "4823"
 chapter: 58
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 4823"
-generated_at: "2026-03-30T03:12:56.219Z"
+generated_at: "2026-03-30T03:16:41.413Z"
 status: "active"
 ---
 

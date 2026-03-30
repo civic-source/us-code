@@ -3,9 +3,9 @@ title: "Section 3109 - Cooperation with foreign supervisors"
 usc_title: 12
 usc_section: "3109"
 chapter: 32
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 3109"
-generated_at: "2026-03-30T03:12:30.344Z"
+generated_at: "2026-03-30T03:15:58.652Z"
 status: "active"
 ---
 

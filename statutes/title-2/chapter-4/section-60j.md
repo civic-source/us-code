@@ -3,9 +3,9 @@ title: "Section 60j - Longevity compensation"
 usc_title: 2
 usc_section: "60j"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 60j"
-generated_at: "2026-03-30T03:12:02.382Z"
+generated_at: "2026-03-30T03:15:32.275Z"
 status: "active"
 ---
 

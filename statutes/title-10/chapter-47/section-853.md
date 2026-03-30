@@ -3,9 +3,9 @@ title: "Section 853 - Art. 53. Court to announce action"
 usc_title: 10
 usc_section: "853"
 chapter: 47
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 853"
-generated_at: "2026-03-30T03:12:15.118Z"
+generated_at: "2026-03-30T03:15:52.748Z"
 status: "active"
 ---
 

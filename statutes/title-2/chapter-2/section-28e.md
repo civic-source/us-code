@@ -3,9 +3,9 @@ title: "Section 28e - Distribution of Precedents by Joint Committee on Printing 
 usc_title: 2
 usc_section: "28e"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 28e"
-generated_at: "2026-03-30T03:12:02.377Z"
+generated_at: "2026-03-30T03:15:32.270Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6663 - Authorization of appropriations"
 usc_title: 20
 usc_section: "6663"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 6663"
-generated_at: "2026-03-30T03:12:49.529Z"
+generated_at: "2026-03-30T03:16:10.764Z"
 status: "active"
 ---
 

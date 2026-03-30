@@ -3,9 +3,9 @@ title: "Section 4838 - Settlement of accounts: affidavit of company commander"
 usc_title: 10
 usc_section: "4838"
 chapter: 453
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 4838"
-generated_at: "2026-03-30T03:12:15.202Z"
+generated_at: "2026-03-30T03:15:52.832Z"
 status: "active"
 ---
 

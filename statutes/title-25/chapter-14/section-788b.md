@@ -3,9 +3,9 @@ title: "Section 788b - Distribution of funds; tax exemption; equal shares"
 usc_title: 25
 usc_section: "788b"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 788b"
-generated_at: "2026-03-30T03:13:04.435Z"
+generated_at: "2026-03-30T03:16:31.997Z"
 status: "active"
 ---
 

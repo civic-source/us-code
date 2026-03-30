@@ -3,9 +3,9 @@ title: "Section 583d - Notice; registered mail and publication; costs; contents;
 usc_title: 16
 usc_section: "583d"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 583d"
-generated_at: "2026-03-30T03:12:42.236Z"
+generated_at: "2026-03-30T03:16:15.625Z"
 status: "active"
 ---
 

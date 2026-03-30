@@ -3,9 +3,9 @@ title: "Section 777 - Regulations"
 usc_title: 26
 usc_section: "777"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "26 U.S.C. § 777"
-generated_at: "2026-03-30T03:13:21.790Z"
+generated_at: "2026-03-30T03:17:04.435Z"
 status: "active"
 ---
 

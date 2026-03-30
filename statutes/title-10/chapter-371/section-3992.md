@@ -3,9 +3,9 @@ title: "Section 3992 - Recomputation of retired pay to reflect advancement on re
 usc_title: 10
 usc_section: "3992"
 chapter: 371
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 3992"
-generated_at: "2026-03-30T03:12:15.198Z"
+generated_at: "2026-03-30T03:15:52.827Z"
 status: "active"
 ---
 

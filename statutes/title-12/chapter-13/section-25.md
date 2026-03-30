@@ -3,9 +3,9 @@ title: "Section 25 - Mortgage modification data collecting and reporting"
 usc_title: 12
 usc_section: "25"
 chapter: 13
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 25"
-generated_at: "2026-03-30T03:12:30.284Z"
+generated_at: "2026-03-30T03:15:58.591Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2707 - Center for the Study of Western Hemispheric Trade"
 usc_title: 19
 usc_section: "2707"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "19 U.S.C. § 2707"
-generated_at: "2026-03-30T03:12:39.192Z"
+generated_at: "2026-03-30T03:16:06.725Z"
 status: "active"
 ---
 

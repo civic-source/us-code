@@ -3,9 +3,9 @@ title: "Section 498 - Reservation of right to alter or repeal"
 usc_title: 33
 usc_section: "498"
 chapter: 11
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 498"
-generated_at: "2026-03-30T03:13:40.510Z"
+generated_at: "2026-03-30T03:17:08.905Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 426f - Control of battlefield; regulations"
 usc_title: 16
 usc_section: "426f"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 426f"
-generated_at: "2026-03-30T03:12:42.173Z"
+generated_at: "2026-03-30T03:16:15.562Z"
 status: "active"
 ---
 

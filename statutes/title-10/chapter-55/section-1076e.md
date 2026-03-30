@@ -3,9 +3,9 @@ title: "Section 1076e - TRICARE program: TRICARE Standard coverage for certain m
 usc_title: 10
 usc_section: "1076e"
 chapter: 55
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-03-30T03:12:15.130Z"
+generated_at: "2026-03-30T03:15:52.760Z"
 status: "active"
 ---
 

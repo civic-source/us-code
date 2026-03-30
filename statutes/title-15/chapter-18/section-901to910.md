@@ -3,9 +3,9 @@ title: "Section 901to910 - Repealed. Pub. L. 90–351, title IV, § 906 , June 1
 usc_title: 15
 usc_section: "901to910"
 chapter: 18
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 901to910"
-generated_at: "2026-03-30T03:12:35.310Z"
+generated_at: "2026-03-30T03:16:02.070Z"
 status: "repealed"
 ---
 

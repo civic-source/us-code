@@ -3,9 +3,9 @@ title: "Section 13861 - Grant authorization"
 usc_title: 42
 usc_section: "13861"
 chapter: 136
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 13861"
-generated_at: "2026-03-30T03:14:52.086Z"
+generated_at: "2026-03-30T03:17:32.886Z"
 status: "active"
 ---
 

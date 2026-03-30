@@ -3,9 +3,9 @@ title: "Section 15482 - Provisional voting and voting information requirements"
 usc_title: 42
 usc_section: "15482"
 chapter: 146
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 15482"
-generated_at: "2026-03-30T03:14:52.111Z"
+generated_at: "2026-03-30T03:17:32.912Z"
 status: "active"
 ---
 

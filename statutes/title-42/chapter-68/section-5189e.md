@@ -3,9 +3,9 @@ title: "Section 5189e - Essential service providers"
 usc_title: 42
 usc_section: "5189e"
 chapter: 68
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 5189e"
-generated_at: "2026-03-30T03:14:51.869Z"
+generated_at: "2026-03-30T03:17:32.663Z"
 status: "active"
 ---
 

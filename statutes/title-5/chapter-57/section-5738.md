@@ -3,9 +3,9 @@ title: "Section 5738 - Regulations"
 usc_title: 5
 usc_section: "5738"
 chapter: 57
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "5 U.S.C. § 5738"
-generated_at: "2026-03-30T03:12:04.073Z"
+generated_at: "2026-03-30T03:15:42.274Z"
 status: "active"
 ---
 

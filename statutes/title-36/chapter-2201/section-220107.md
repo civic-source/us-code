@@ -3,9 +3,9 @@ title: "Section 220107 - Assistance by Department of Defense"
 usc_title: 36
 usc_section: "220107"
 chapter: 2201
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "36 U.S.C. § 220107"
-generated_at: "2026-03-30T03:13:54.257Z"
+generated_at: "2026-03-30T03:17:11.525Z"
 status: "active"
 ---
 

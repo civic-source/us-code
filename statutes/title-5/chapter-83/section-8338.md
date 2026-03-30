@@ -3,9 +3,9 @@ title: "Section 8338 - Deferred retirement"
 usc_title: 5
 usc_section: "8338"
 chapter: 83
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "5 U.S.C. § 8338"
-generated_at: "2026-03-30T03:12:04.088Z"
+generated_at: "2026-03-30T03:15:42.288Z"
 status: "active"
 ---
 

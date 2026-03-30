@@ -3,9 +3,9 @@ title: "Section 2659 - Report on security vulnerabilities of national security l
 usc_title: 50
 usc_section: "2659"
 chapter: 42
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "50 U.S.C. § 2659"
-generated_at: "2026-03-30T03:14:55.734Z"
+generated_at: "2026-03-30T03:17:37.450Z"
 status: "active"
 ---
 

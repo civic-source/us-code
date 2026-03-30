@@ -3,9 +3,9 @@ title: "Section 1302 - Rules and regulations; impact analyses of Medicare and Me
 usc_title: 42
 usc_section: "1302"
 chapter: 7
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1302"
-generated_at: "2026-03-30T03:14:51.592Z"
+generated_at: "2026-03-30T03:17:32.388Z"
 status: "active"
 ---
 

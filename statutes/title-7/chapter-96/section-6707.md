@@ -3,9 +3,9 @@ title: "Section 6707 - Urban forestry demonstration projects"
 usc_title: 7
 usc_section: "6707"
 chapter: 96
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 6707"
-generated_at: "2026-03-30T03:12:09.446Z"
+generated_at: "2026-03-30T03:15:47.531Z"
 status: "active"
 ---
 

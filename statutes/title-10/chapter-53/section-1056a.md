@@ -3,9 +3,9 @@ title: "Section 1056a - Reintegration of recovered Department of Defense personn
 usc_title: 10
 usc_section: "1056a"
 chapter: 53
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 1056a"
-generated_at: "2026-03-30T03:12:15.127Z"
+generated_at: "2026-03-30T03:15:52.757Z"
 status: "active"
 ---
 

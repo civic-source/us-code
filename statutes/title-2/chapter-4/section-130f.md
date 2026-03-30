@@ -3,9 +3,9 @@ title: "Section 130f - Office of General Counsel of House; administrative provis
 usc_title: 2
 usc_section: "130f"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 130f"
-generated_at: "2026-03-30T03:12:02.391Z"
+generated_at: "2026-03-30T03:15:32.284Z"
 status: "active"
 ---
 

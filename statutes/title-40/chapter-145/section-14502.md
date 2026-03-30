@@ -3,9 +3,9 @@ title: "Section 14502 - Demonstration health projects"
 usc_title: 40
 usc_section: "14502"
 chapter: 145
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "40 U.S.C. § 14502"
-generated_at: "2026-03-30T03:14:01.765Z"
+generated_at: "2026-03-30T03:17:13.695Z"
 status: "active"
 ---
 

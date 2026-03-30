@@ -3,9 +3,9 @@ title: "Section 3607 - Recovery of costs by United States"
 usc_title: 20
 usc_section: "3607"
 chapter: 49
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 3607"
-generated_at: "2026-03-30T03:12:49.503Z"
+generated_at: "2026-03-30T03:16:10.739Z"
 status: "active"
 ---
 

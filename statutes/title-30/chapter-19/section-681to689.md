@@ -3,9 +3,9 @@ title: "Section 681to689 - Omitted"
 usc_title: 30
 usc_section: "681to689"
 chapter: 19
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 681to689"
-generated_at: "2026-03-30T03:13:32.339Z"
+generated_at: "2026-03-30T03:16:46.489Z"
 status: "omitted"
 ---
 

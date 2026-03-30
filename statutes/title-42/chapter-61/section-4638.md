@@ -3,9 +3,9 @@ title: "Section 4638 - Transfers of surplus property"
 usc_title: 42
 usc_section: "4638"
 chapter: 61
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 4638"
-generated_at: "2026-03-30T03:14:51.853Z"
+generated_at: "2026-03-30T03:17:32.648Z"
 status: "active"
 ---
 

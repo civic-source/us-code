@@ -3,9 +3,9 @@ title: "Section 3 - General authority of Secretary"
 usc_title: 20
 usc_section: "3"
 chapter: 31
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 3"
-generated_at: "2026-03-30T03:12:49.478Z"
+generated_at: "2026-03-30T03:16:10.716Z"
 status: "active"
 ---
 

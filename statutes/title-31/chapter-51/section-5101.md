@@ -3,9 +3,9 @@ title: "Section 5101 - Decimal system"
 usc_title: 31
 usc_section: "5101"
 chapter: 51
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "31 U.S.C. § 5101"
-generated_at: "2026-03-30T03:13:48.945Z"
+generated_at: "2026-03-30T03:17:07.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6963 - Withholding"
 usc_title: 20
 usc_section: "6963"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 6963"
-generated_at: "2026-03-30T03:12:49.534Z"
+generated_at: "2026-03-30T03:16:10.769Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5391 - Definitions"
 usc_title: 5
 usc_section: "5391"
 chapter: 53
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "5 U.S.C. § 5391"
-generated_at: "2026-03-30T03:12:04.068Z"
+generated_at: "2026-03-30T03:15:42.269Z"
 status: "active"
 ---
 

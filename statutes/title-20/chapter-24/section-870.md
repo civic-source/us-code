@@ -3,9 +3,9 @@ title: "Section 870 - Repealed. Pub. L. 91–230, title I, § 143(a)(4)(A) , tit
 usc_title: 20
 usc_section: "870"
 chapter: 24
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 870"
-generated_at: "2026-03-30T03:12:49.414Z"
+generated_at: "2026-03-30T03:16:10.655Z"
 status: "repealed"
 ---
 

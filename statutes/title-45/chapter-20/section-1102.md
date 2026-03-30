@@ -3,9 +3,9 @@ title: "Section 1102 - Statement of purpose"
 usc_title: 45
 usc_section: "1102"
 chapter: 20
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "45 U.S.C. § 1102"
-generated_at: "2026-03-30T03:14:25.805Z"
+generated_at: "2026-03-30T03:17:17.120Z"
 status: "active"
 ---
 

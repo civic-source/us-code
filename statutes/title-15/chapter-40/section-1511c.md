@@ -3,9 +3,9 @@ title: "Section 1511c - Estuarine Programs Office"
 usc_title: 15
 usc_section: "1511c"
 chapter: 40
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 1511c"
-generated_at: "2026-03-30T03:12:35.323Z"
+generated_at: "2026-03-30T03:16:02.083Z"
 status: "active"
 ---
 

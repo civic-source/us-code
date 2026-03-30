@@ -3,9 +3,9 @@ title: "Section 330 - Special pay: accession bonus for officer candidates"
 usc_title: 37
 usc_section: "330"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "37 U.S.C. § 330"
-generated_at: "2026-03-30T03:13:51.949Z"
+generated_at: "2026-03-30T03:17:10.883Z"
 status: "active"
 ---
 

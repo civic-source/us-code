@@ -3,9 +3,9 @@ title: "Section 3812 - Prohibition against delegation"
 usc_title: 31
 usc_section: "3812"
 chapter: 38
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "31 U.S.C. § 3812"
-generated_at: "2026-03-30T03:13:48.944Z"
+generated_at: "2026-03-30T03:17:07.267Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2110 - Rule of construction"
 usc_title: 21
 usc_section: "2110"
 chapter: 26
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "21 U.S.C. § 2110"
-generated_at: "2026-03-30T03:12:53.418Z"
+generated_at: "2026-03-30T03:16:19.037Z"
 status: "active"
 ---
 

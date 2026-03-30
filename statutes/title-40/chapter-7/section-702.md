@@ -3,9 +3,9 @@ title: "Section 702 - Return of foreign excess property to United States"
 usc_title: 40
 usc_section: "702"
 chapter: 7
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "40 U.S.C. § 702"
-generated_at: "2026-03-30T03:14:01.754Z"
+generated_at: "2026-03-30T03:17:13.677Z"
 status: "active"
 ---
 

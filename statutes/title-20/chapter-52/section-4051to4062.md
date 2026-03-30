@@ -3,9 +3,9 @@ title: "Section 4051to4062 - Repealed. Pub. L. 100–297, title II, § 2303 , Ap
 usc_title: 20
 usc_section: "4051to4062"
 chapter: 52
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 4051to4062"
-generated_at: "2026-03-30T03:12:49.505Z"
+generated_at: "2026-03-30T03:16:10.741Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 18232 - Definitions"
 usc_title: 10
 usc_section: "18232"
 chapter: 1803
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 18232"
-generated_at: "2026-03-30T03:12:15.237Z"
+generated_at: "2026-03-30T03:15:52.865Z"
 status: "active"
 ---
 

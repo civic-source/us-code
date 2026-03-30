@@ -3,9 +3,9 @@ title: "Section 5964 - Metrics for the Cooperative Threat Reduction Program"
 usc_title: 22
 usc_section: "5964"
 chapter: 68
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 5964"
-generated_at: "2026-03-30T03:12:56.227Z"
+generated_at: "2026-03-30T03:16:41.421Z"
 status: "active"
 ---
 

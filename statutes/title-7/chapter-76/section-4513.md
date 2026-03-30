@@ -3,9 +3,9 @@ title: "Section 4513 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4513"
 chapter: 76
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 4513"
-generated_at: "2026-03-30T03:12:09.428Z"
+generated_at: "2026-03-30T03:15:47.510Z"
 status: "active"
 ---
 

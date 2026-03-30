@@ -3,9 +3,9 @@ title: "Section 201 - Leases and exploration"
 usc_title: 30
 usc_section: "201"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 201"
-generated_at: "2026-03-30T03:13:32.332Z"
+generated_at: "2026-03-30T03:16:46.483Z"
 status: "active"
 ---
 

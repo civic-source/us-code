@@ -3,9 +3,9 @@ title: "Section 1141i - Examination of books and accounts"
 usc_title: 12
 usc_section: "1141i"
 chapter: 7
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 1141i"
-generated_at: "2026-03-30T03:12:30.251Z"
+generated_at: "2026-03-30T03:15:58.557Z"
 status: "active"
 ---
 

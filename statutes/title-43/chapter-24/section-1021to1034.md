@@ -3,9 +3,9 @@ title: "Section 1021to1034 - Repealed. Pub. L. 94–579, title VII, § 703(a) , 
 usc_title: 43
 usc_section: "1021to1034"
 chapter: 24
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 1021to1034"
-generated_at: "2026-03-30T03:14:28.862Z"
+generated_at: "2026-03-30T03:17:16.308Z"
 status: "repealed"
 ---
 

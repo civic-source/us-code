@@ -3,9 +3,9 @@ title: "Section 3012 - Functions of Assistant Secretary"
 usc_title: 42
 usc_section: "3012"
 chapter: 35
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 3012"
-generated_at: "2026-03-30T03:14:51.806Z"
+generated_at: "2026-03-30T03:17:32.603Z"
 status: "active"
 ---
 

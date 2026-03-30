@@ -3,9 +3,9 @@ title: "Section 1857f9to1857k - Transferred"
 usc_title: 42
 usc_section: "1857f9to1857k"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1857f9to1857k"
-generated_at: "2026-03-30T03:14:51.760Z"
+generated_at: "2026-03-30T03:17:32.555Z"
 status: "transferred"
 ---
 

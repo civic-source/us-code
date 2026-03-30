@@ -3,9 +3,9 @@ title: "Section 1 - Coos Bay Wagon Road grant fund; annual payments; appraisal a
 usc_title: 43
 usc_section: "1"
 chapter: 28
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T03:14:28.863Z"
+generated_at: "2026-03-30T03:17:16.309Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70to72 - Omitted"
 usc_title: 2
 usc_section: "70to72"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 70to72"
-generated_at: "2026-03-30T03:12:02.386Z"
+generated_at: "2026-03-30T03:15:32.280Z"
 status: "omitted"
 ---
 

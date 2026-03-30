@@ -3,9 +3,9 @@ title: "Section 196 - Participation in Federal, State, or other educational rese
 usc_title: 14
 usc_section: "196"
 chapter: 9
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "14 U.S.C. § 196"
-generated_at: "2026-03-30T03:12:20.516Z"
+generated_at: "2026-03-30T03:15:55.218Z"
 status: "active"
 ---
 

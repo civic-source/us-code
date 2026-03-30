@@ -3,9 +3,9 @@ title: "Section 5734 - Travel, transportation, and relocation expenses of employ
 usc_title: 5
 usc_section: "5734"
 chapter: 57
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "5 U.S.C. § 5734"
-generated_at: "2026-03-30T03:12:04.073Z"
+generated_at: "2026-03-30T03:15:42.274Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 441f - Contributions in name of another prohibited"
 usc_title: 2
 usc_section: "441f"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 441f"
-generated_at: "2026-03-30T03:12:02.404Z"
+generated_at: "2026-03-30T03:15:32.296Z"
 status: "active"
 ---
 

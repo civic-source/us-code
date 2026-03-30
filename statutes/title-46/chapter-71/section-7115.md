@@ -3,9 +3,9 @@ title: "Section 7115 - Merchant Mariner Medical Advisory Committee"
 usc_title: 46
 usc_section: "7115"
 chapter: 71
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "46 U.S.C. § 7115"
-generated_at: "2026-03-30T03:15:00.464Z"
+generated_at: "2026-03-30T03:17:36.204Z"
 status: "active"
 ---
 

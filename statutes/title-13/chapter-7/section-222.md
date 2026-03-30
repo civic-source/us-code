@@ -3,9 +3,9 @@ title: "Section 222 - Giving suggestions or information with intent to cause ina
 usc_title: 13
 usc_section: "222"
 chapter: 7
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "13 U.S.C. § 222"
-generated_at: "2026-03-30T03:12:17.023Z"
+generated_at: "2026-03-30T03:15:54.657Z"
 status: "active"
 ---
 

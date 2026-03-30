@@ -3,9 +3,9 @@ title: "Section 1116 - Reports and studies"
 usc_title: 49
 usc_section: "1116"
 chapter: 11
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 1116"
-generated_at: "2026-03-30T03:15:03.289Z"
+generated_at: "2026-03-30T03:17:39.922Z"
 status: "active"
 ---
 

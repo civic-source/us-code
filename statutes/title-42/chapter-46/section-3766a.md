@@ -3,9 +3,9 @@ title: "Section 3766a - General provisions"
 usc_title: 42
 usc_section: "3766a"
 chapter: 46
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 3766a"
-generated_at: "2026-03-30T03:14:51.830Z"
+generated_at: "2026-03-30T03:17:32.626Z"
 status: "active"
 ---
 

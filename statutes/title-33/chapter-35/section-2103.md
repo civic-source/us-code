@@ -3,9 +3,9 @@ title: "Section 2103 - National artificial reef plan"
 usc_title: 33
 usc_section: "2103"
 chapter: 35
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 2103"
-generated_at: "2026-03-30T03:13:40.554Z"
+generated_at: "2026-03-30T03:17:08.949Z"
 status: "active"
 ---
 

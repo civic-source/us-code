@@ -3,9 +3,9 @@ title: "Section 941 - Telephone Bank"
 usc_title: 7
 usc_section: "941"
 chapter: 31
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 941"
-generated_at: "2026-03-30T03:12:09.350Z"
+generated_at: "2026-03-30T03:15:47.426Z"
 status: "active"
 ---
 

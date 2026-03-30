@@ -3,9 +3,9 @@ title: "Section 841to843 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oc
 usc_title: 22
 usc_section: "841to843"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 841to843"
-generated_at: "2026-03-30T03:12:56.143Z"
+generated_at: "2026-03-30T03:16:41.332Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1171to1195 - Transferred"
 usc_title: 22
 usc_section: "1171to1195"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 1171to1195"
-generated_at: "2026-03-30T03:12:56.144Z"
+generated_at: "2026-03-30T03:16:41.333Z"
 status: "transferred"
 ---
 

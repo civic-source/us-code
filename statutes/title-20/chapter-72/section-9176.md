@@ -3,9 +3,9 @@ title: "Section 9176 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9176"
 chapter: 72
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 9176"
-generated_at: "2026-03-30T03:12:49.560Z"
+generated_at: "2026-03-30T03:16:10.792Z"
 status: "active"
 ---
 

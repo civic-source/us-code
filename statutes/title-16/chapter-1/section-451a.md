@@ -3,9 +3,9 @@ title: "Section 451a - Limitation on further extension or establishment of natio
 usc_title: 16
 usc_section: "451a"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 451a"
-generated_at: "2026-03-30T03:12:42.181Z"
+generated_at: "2026-03-30T03:16:15.570Z"
 status: "active"
 ---
 

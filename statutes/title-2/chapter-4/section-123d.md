@@ -3,9 +3,9 @@ title: "Section 123d - Senate Computer Center"
 usc_title: 2
 usc_section: "123d"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 123d"
-generated_at: "2026-03-30T03:12:02.390Z"
+generated_at: "2026-03-30T03:15:32.284Z"
 status: "active"
 ---
 

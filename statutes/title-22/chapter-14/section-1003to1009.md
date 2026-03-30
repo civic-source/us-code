@@ -3,9 +3,9 @@ title: "Section 1003to1009 - Repealed. Pub. L. 96–465, title II, § 2205(1) , 
 usc_title: 22
 usc_section: "1003to1009"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 1003to1009"
-generated_at: "2026-03-30T03:12:56.143Z"
+generated_at: "2026-03-30T03:16:41.333Z"
 status: "repealed"
 ---
 

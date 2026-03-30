@@ -3,9 +3,9 @@ title: "Section 81to92 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 1
 usc_title: 45
 usc_section: "81to92"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "45 U.S.C. § 81to92"
-generated_at: "2026-03-30T03:14:25.786Z"
+generated_at: "2026-03-30T03:17:17.101Z"
 status: "repealed"
 ---
 

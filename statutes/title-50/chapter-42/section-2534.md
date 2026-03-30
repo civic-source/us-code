@@ -3,9 +3,9 @@ title: "Section 2534 - Plan for transformation of National Nuclear Security Admi
 usc_title: 50
 usc_section: "2534"
 chapter: 42
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "50 U.S.C. § 2534"
-generated_at: "2026-03-30T03:14:55.729Z"
+generated_at: "2026-03-30T03:17:37.447Z"
 status: "active"
 ---
 

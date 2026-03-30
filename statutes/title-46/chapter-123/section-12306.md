@@ -3,9 +3,9 @@ title: "Section 12306 - Safety certificates"
 usc_title: 46
 usc_section: "12306"
 chapter: 123
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "46 U.S.C. § 12306"
-generated_at: "2026-03-30T03:15:00.472Z"
+generated_at: "2026-03-30T03:17:36.213Z"
 status: "active"
 ---
 

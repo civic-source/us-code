@@ -3,9 +3,9 @@ title: "Section 201to208 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 
 usc_title: 43
 usc_section: "201to208"
 chapter: 7
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 201to208"
-generated_at: "2026-03-30T03:14:28.837Z"
+generated_at: "2026-03-30T03:17:16.281Z"
 status: "repealed"
 ---
 

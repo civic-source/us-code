@@ -3,9 +3,9 @@ title: "Section 69b - Senate Leader’s Lecture Series"
 usc_title: 2
 usc_section: "69b"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 69b"
-generated_at: "2026-03-30T03:12:02.386Z"
+generated_at: "2026-03-30T03:15:32.279Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3411 - Establishment of Department; appointment of Secretary"
 usc_title: 20
 usc_section: "3411"
 chapter: 48
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 3411"
-generated_at: "2026-03-30T03:12:49.500Z"
+generated_at: "2026-03-30T03:16:10.736Z"
 status: "active"
 ---
 

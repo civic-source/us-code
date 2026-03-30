@@ -3,9 +3,9 @@ title: "Section 378 - Nonpreemption of other law"
 usc_title: 10
 usc_section: "378"
 chapter: 18
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 378"
-generated_at: "2026-03-30T03:12:15.106Z"
+generated_at: "2026-03-30T03:15:52.735Z"
 status: "active"
 ---
 

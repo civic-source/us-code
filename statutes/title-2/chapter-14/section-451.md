@@ -3,9 +3,9 @@ title: "Section 451 - Extension of credit by regulated industries; regulations"
 usc_title: 2
 usc_section: "451"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 451"
-generated_at: "2026-03-30T03:12:02.407Z"
+generated_at: "2026-03-30T03:15:32.298Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40703 - Effective date of rates"
 usc_title: 46
 usc_section: "40703"
 chapter: 407
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "46 U.S.C. § 40703"
-generated_at: "2026-03-30T03:15:00.478Z"
+generated_at: "2026-03-30T03:17:36.219Z"
 status: "active"
 ---
 

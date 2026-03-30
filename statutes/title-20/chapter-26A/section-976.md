@@ -3,9 +3,9 @@ title: "Section 976 - Authorization of appropriations"
 usc_title: 20
 usc_section: "976"
 chapter: 26
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 976"
-generated_at: "2026-03-30T03:12:49.417Z"
+generated_at: "2026-03-30T03:16:10.659Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 412 - Registration as prerequisite to certain remedies for infri
 usc_title: 17
 usc_section: "412"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "17 U.S.C. § 412"
-generated_at: "2026-03-30T03:12:38.051Z"
+generated_at: "2026-03-30T03:16:04.133Z"
 status: "active"
 ---
 

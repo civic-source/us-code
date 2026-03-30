@@ -3,9 +3,9 @@ title: "Section 1144 - Geothermal Resources Development Fund"
 usc_title: 30
 usc_section: "1144"
 chapter: 24
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 1144"
-generated_at: "2026-03-30T03:13:32.348Z"
+generated_at: "2026-03-30T03:16:46.500Z"
 status: "active"
 ---
 

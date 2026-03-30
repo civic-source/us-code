@@ -3,9 +3,9 @@ title: "Section 2156 - Criteria governing United States nuclear exports"
 usc_title: 42
 usc_section: "2156"
 chapter: 23
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 2156"
-generated_at: "2026-03-30T03:14:51.788Z"
+generated_at: "2026-03-30T03:17:32.584Z"
 status: "active"
 ---
 

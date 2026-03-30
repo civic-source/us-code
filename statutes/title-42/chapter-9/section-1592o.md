@@ -3,9 +3,9 @@ title: "Section 1592o - Powers of Surgeon General of Public Health Service"
 usc_title: 42
 usc_section: "1592o"
 chapter: 9
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1592o"
-generated_at: "2026-03-30T03:14:51.745Z"
+generated_at: "2026-03-30T03:17:32.539Z"
 status: "active"
 ---
 

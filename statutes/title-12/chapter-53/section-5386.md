@@ -3,9 +3,9 @@ title: "Section 5386 - Mandatory terms and conditions for all orderly liquidatio
 usc_title: 12
 usc_section: "5386"
 chapter: 53
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 5386"
-generated_at: "2026-03-30T03:12:30.379Z"
+generated_at: "2026-03-30T03:15:58.689Z"
 status: "active"
 ---
 

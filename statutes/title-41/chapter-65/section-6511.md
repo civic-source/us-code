@@ -3,9 +3,9 @@ title: "Section 6511 - Effect on other law"
 usc_title: 41
 usc_section: "6511"
 chapter: 65
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "41 U.S.C. § 6511"
-generated_at: "2026-03-30T03:14:14.855Z"
+generated_at: "2026-03-30T03:17:16.593Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 106 - Responsibility of officers and members of associations or 
 usc_title: 29
 usc_section: "106"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "29 U.S.C. § 106"
-generated_at: "2026-03-30T03:13:29.101Z"
+generated_at: "2026-03-30T03:16:48.106Z"
 status: "active"
 ---
 

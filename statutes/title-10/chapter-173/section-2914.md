@@ -3,9 +3,9 @@ title: "Section 2914 - Energy conservation construction projects"
 usc_title: 10
 usc_section: "2914"
 chapter: 173
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 2914"
-generated_at: "2026-03-30T03:12:15.194Z"
+generated_at: "2026-03-30T03:15:52.823Z"
 status: "active"
 ---
 

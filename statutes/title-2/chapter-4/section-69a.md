@@ -3,9 +3,9 @@ title: "Section 69a - Orientation seminars, etc., for new Senators, Senate offic
 usc_title: 2
 usc_section: "69a"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 69a"
-generated_at: "2026-03-30T03:12:02.386Z"
+generated_at: "2026-03-30T03:15:32.279Z"
 status: "active"
 ---
 

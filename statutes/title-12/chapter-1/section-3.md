@@ -3,9 +3,9 @@ title: "Section 3 - Oath of Comptroller"
 usc_title: 12
 usc_section: "3"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 3"
-generated_at: "2026-03-30T03:12:30.231Z"
+generated_at: "2026-03-30T03:15:58.537Z"
 status: "active"
 ---
 

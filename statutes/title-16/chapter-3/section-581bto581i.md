@@ -3,9 +3,9 @@ title: "Section 581bto581i - Repealed. Pub. L. 95–307, § 8(a) , June 30, 1978
 usc_title: 16
 usc_section: "581bto581i"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 581bto581i"
-generated_at: "2026-03-30T03:12:42.235Z"
+generated_at: "2026-03-30T03:16:15.624Z"
 status: "repealed"
 ---
 

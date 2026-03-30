@@ -3,9 +3,9 @@ title: "Section 2701 - Establishment of program"
 usc_title: 16
 usc_section: "2701"
 chapter: 47
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 2701"
-generated_at: "2026-03-30T03:12:42.320Z"
+generated_at: "2026-03-30T03:16:15.707Z"
 status: "active"
 ---
 

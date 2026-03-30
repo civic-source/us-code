@@ -3,9 +3,9 @@ title: "Section 126b - Substitute reporters of debates and expert transcribers; 
 usc_title: 2
 usc_section: "126b"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 126b"
-generated_at: "2026-03-30T03:12:02.390Z"
+generated_at: "2026-03-30T03:15:32.284Z"
 status: "active"
 ---
 

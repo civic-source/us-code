@@ -3,9 +3,9 @@ title: "Section 1153 - Payments to minors and persons under legal disabilities; 
 usc_title: 25
 usc_section: "1153"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 1153"
-generated_at: "2026-03-30T03:13:04.441Z"
+generated_at: "2026-03-30T03:16:32.004Z"
 status: "active"
 ---
 

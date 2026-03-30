@@ -3,9 +3,9 @@ title: "Section 3013a - Consultation with State agencies, area agencies on aging
 usc_title: 42
 usc_section: "3013a"
 chapter: 35
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 3013a"
-generated_at: "2026-03-30T03:14:51.806Z"
+generated_at: "2026-03-30T03:17:32.604Z"
 status: "active"
 ---
 

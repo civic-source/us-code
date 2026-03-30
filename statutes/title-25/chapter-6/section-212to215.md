@@ -3,9 +3,9 @@ title: "Section 212to215 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 86
 usc_title: 25
 usc_section: "212to215"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 212to215"
-generated_at: "2026-03-30T03:13:04.403Z"
+generated_at: "2026-03-30T03:16:31.967Z"
 status: "repealed"
 ---
 

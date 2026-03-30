@@ -3,9 +3,9 @@ title: "Section 150106 - Governing body"
 usc_title: 36
 usc_section: "150106"
 chapter: 1501
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "36 U.S.C. § 150106"
-generated_at: "2026-03-30T03:13:54.251Z"
+generated_at: "2026-03-30T03:17:11.518Z"
 status: "active"
 ---
 

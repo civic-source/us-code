@@ -3,9 +3,9 @@ title: "Section 5946 - Membership fees; expenses of attendance at meetings; limi
 usc_title: 5
 usc_section: "5946"
 chapter: 59
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "5 U.S.C. § 5946"
-generated_at: "2026-03-30T03:12:04.075Z"
+generated_at: "2026-03-30T03:15:42.275Z"
 status: "active"
 ---
 

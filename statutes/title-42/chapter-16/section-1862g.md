@@ -3,9 +3,9 @@ title: "Section 1862g - Experimental Program to Stimulate Competitive Research"
 usc_title: 42
 usc_section: "1862g"
 chapter: 16
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1862g"
-generated_at: "2026-03-30T03:14:51.761Z"
+generated_at: "2026-03-30T03:17:32.555Z"
 status: "active"
 ---
 

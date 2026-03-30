@@ -3,9 +3,9 @@ title: "Section 831q - Eminent domain; contracts for relocation of railroads, hi
 usc_title: 16
 usc_section: "831q"
 chapter: 12
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 831q"
-generated_at: "2026-03-30T03:12:42.265Z"
+generated_at: "2026-03-30T03:16:15.653Z"
 status: "active"
 ---
 

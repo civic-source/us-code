@@ -3,9 +3,9 @@ title: "Section 3301 - Definitions and nonapplication"
 usc_title: 40
 usc_section: "3301"
 chapter: 33
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "40 U.S.C. § 3301"
-generated_at: "2026-03-30T03:14:01.758Z"
+generated_at: "2026-03-30T03:17:13.681Z"
 status: "active"
 ---
 

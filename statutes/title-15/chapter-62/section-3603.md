@@ -3,9 +3,9 @@ title: "Section 3603 - Definitions"
 usc_title: 15
 usc_section: "3603"
 chapter: 62
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 3603"
-generated_at: "2026-03-30T03:12:35.373Z"
+generated_at: "2026-03-30T03:16:02.131Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47110 - Allowable project costs"
 usc_title: 49
 usc_section: "47110"
 chapter: 471
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 47110"
-generated_at: "2026-03-30T03:15:03.360Z"
+generated_at: "2026-03-30T03:17:40.039Z"
 status: "active"
 ---
 

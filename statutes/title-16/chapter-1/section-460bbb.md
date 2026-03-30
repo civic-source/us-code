@@ -3,9 +3,9 @@ title: "Section 460bbb - Findings"
 usc_title: 16
 usc_section: "460bbb"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 460bbb"
-generated_at: "2026-03-30T03:12:42.204Z"
+generated_at: "2026-03-30T03:16:15.594Z"
 status: "active"
 ---
 

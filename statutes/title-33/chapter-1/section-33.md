@@ -3,9 +3,9 @@ title: "Section 33 - Little River, Arkansas, from Big Lake to Marked Tree"
 usc_title: 33
 usc_section: "33"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 33"
-generated_at: "2026-03-30T03:13:40.503Z"
+generated_at: "2026-03-30T03:17:08.897Z"
 status: "active"
 ---
 

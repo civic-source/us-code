@@ -3,9 +3,9 @@ title: "Section 7429 - Withholdings"
 usc_title: 22
 usc_section: "7429"
 chapter: 81
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 7429"
-generated_at: "2026-03-30T03:12:56.244Z"
+generated_at: "2026-03-30T03:16:41.440Z"
 status: "active"
 ---
 

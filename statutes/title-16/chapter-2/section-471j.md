@@ -3,9 +3,9 @@ title: "Section 471j - Headwaters Forest and Elk River Property acquisition"
 usc_title: 16
 usc_section: "471j"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 471j"
-generated_at: "2026-03-30T03:12:42.221Z"
+generated_at: "2026-03-30T03:16:15.610Z"
 status: "active"
 ---
 

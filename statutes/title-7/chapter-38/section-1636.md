@@ -3,9 +3,9 @@ title: "Section 1636 - General provisions"
 usc_title: 7
 usc_section: "1636"
 chapter: 38
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 1636"
-generated_at: "2026-03-30T03:12:09.376Z"
+generated_at: "2026-03-30T03:15:47.452Z"
 status: "active"
 ---
 

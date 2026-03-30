@@ -3,9 +3,9 @@ title: "Section 5124 - Criminal penalty"
 usc_title: 49
 usc_section: "5124"
 chapter: 51
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 5124"
-generated_at: "2026-03-30T03:15:03.291Z"
+generated_at: "2026-03-30T03:17:39.929Z"
 status: "active"
 ---
 

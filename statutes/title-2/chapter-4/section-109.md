@@ -3,9 +3,9 @@ title: "Section 109 - American goods to be preferred in purchases for Senate and
 usc_title: 2
 usc_section: "109"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 109"
-generated_at: "2026-03-30T03:12:02.389Z"
+generated_at: "2026-03-30T03:15:32.282Z"
 status: "active"
 ---
 

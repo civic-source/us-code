@@ -3,9 +3,9 @@ title: "Section 1163 - Trial work periods and vocational rehabilitation for cert
 usc_title: 38
 usc_section: "1163"
 chapter: 11
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "38 U.S.C. § 1163"
-generated_at: "2026-03-30T03:14:12.949Z"
+generated_at: "2026-03-30T03:17:12.845Z"
 status: "active"
 ---
 

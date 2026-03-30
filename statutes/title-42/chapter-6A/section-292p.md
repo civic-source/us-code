@@ -3,9 +3,9 @@ title: "Section 292p - Authorization of appropriations"
 usc_title: 42
 usc_section: "292p"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 292p"
-generated_at: "2026-03-30T03:14:51.486Z"
+generated_at: "2026-03-30T03:17:32.284Z"
 status: "active"
 ---
 

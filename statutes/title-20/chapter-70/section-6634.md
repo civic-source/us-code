@@ -3,9 +3,9 @@ title: "Section 6634 - Use of funds"
 usc_title: 20
 usc_section: "6634"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 6634"
-generated_at: "2026-03-30T03:12:49.528Z"
+generated_at: "2026-03-30T03:16:10.763Z"
 status: "active"
 ---
 

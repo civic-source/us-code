@@ -3,9 +3,9 @@ title: "Section 47521 - Findings"
 usc_title: 49
 usc_section: "47521"
 chapter: 475
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 47521"
-generated_at: "2026-03-30T03:15:03.363Z"
+generated_at: "2026-03-30T03:17:40.044Z"
 status: "active"
 ---
 

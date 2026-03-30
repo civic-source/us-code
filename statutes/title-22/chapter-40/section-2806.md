@@ -3,9 +3,9 @@ title: "Section 2806 - Other provisions unaffected"
 usc_title: 22
 usc_section: "2806"
 chapter: 40
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 2806"
-generated_at: "2026-03-30T03:12:56.195Z"
+generated_at: "2026-03-30T03:16:41.388Z"
 status: "active"
 ---
 

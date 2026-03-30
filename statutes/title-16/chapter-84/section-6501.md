@@ -3,9 +3,9 @@ title: "Section 6501 - Purposes"
 usc_title: 16
 usc_section: "6501"
 chapter: 84
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 6501"
-generated_at: "2026-03-30T03:12:42.353Z"
+generated_at: "2026-03-30T03:16:15.740Z"
 status: "active"
 ---
 

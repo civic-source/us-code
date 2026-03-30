@@ -3,9 +3,9 @@ title: "Section 1397A - Increase in expensing under section 179"
 usc_title: 26
 usc_section: "1397A"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "26 U.S.C. § 1397A"
-generated_at: "2026-03-30T03:13:21.839Z"
+generated_at: "2026-03-30T03:17:04.479Z"
 status: "active"
 ---
 

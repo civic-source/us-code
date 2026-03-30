@@ -3,9 +3,9 @@ title: "Section 8012 - Hope for elderly independence"
 usc_title: 42
 usc_section: "8012"
 chapter: 89
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 8012"
-generated_at: "2026-03-30T03:14:51.970Z"
+generated_at: "2026-03-30T03:17:32.767Z"
 status: "active"
 ---
 

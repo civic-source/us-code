@@ -3,9 +3,9 @@ title: "Section 1221to1234 - Repealed. Pub. L. 96–465, title II, § 2205(6) , 
 usc_title: 22
 usc_section: "1221to1234"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 1221to1234"
-generated_at: "2026-03-30T03:12:56.144Z"
+generated_at: "2026-03-30T03:16:41.334Z"
 status: "repealed"
 ---
 

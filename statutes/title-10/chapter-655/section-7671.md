@@ -3,9 +3,9 @@ title: "Section 7671 - Payment of costs and expenses from prize fund"
 usc_title: 10
 usc_section: "7671"
 chapter: 655
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 7671"
-generated_at: "2026-03-30T03:12:15.215Z"
+generated_at: "2026-03-30T03:15:52.844Z"
 status: "active"
 ---
 

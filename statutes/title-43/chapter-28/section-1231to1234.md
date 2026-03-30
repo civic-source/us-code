@@ -3,9 +3,9 @@ title: "Section 1231to1234 - Repealed. Pub. L. 91–646, title II, § 220(a)(1) 
 usc_title: 43
 usc_section: "1231to1234"
 chapter: 28
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 1231to1234"
-generated_at: "2026-03-30T03:14:28.864Z"
+generated_at: "2026-03-30T03:17:16.309Z"
 status: "repealed"
 ---
 

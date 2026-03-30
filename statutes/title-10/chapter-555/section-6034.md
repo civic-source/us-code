@@ -3,9 +3,9 @@ title: "Section 6034 - Repealed. Pub. L. 103–337, div. A, title XVI, § 1662(j
 usc_title: 10
 usc_section: "6034"
 chapter: 555
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 6034"
-generated_at: "2026-03-30T03:12:15.206Z"
+generated_at: "2026-03-30T03:15:52.835Z"
 status: "repealed"
 ---
 

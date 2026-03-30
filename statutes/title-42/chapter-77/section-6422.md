@@ -3,9 +3,9 @@ title: "Section 6422 - Expedited procedure for Congressional consideration of ce
 usc_title: 42
 usc_section: "6422"
 chapter: 77
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 6422"
-generated_at: "2026-03-30T03:14:51.907Z"
+generated_at: "2026-03-30T03:17:32.701Z"
 status: "active"
 ---
 

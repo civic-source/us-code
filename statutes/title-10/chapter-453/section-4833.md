@@ -3,9 +3,9 @@ title: "Section 4833 - Repealed. Pub. L. 87–480, § 1(2) , June 8, 1962 , 76 S
 usc_title: 10
 usc_section: "4833"
 chapter: 453
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 4833"
-generated_at: "2026-03-30T03:12:15.202Z"
+generated_at: "2026-03-30T03:15:52.832Z"
 status: "repealed"
 ---
 

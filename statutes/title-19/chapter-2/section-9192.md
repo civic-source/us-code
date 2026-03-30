@@ -3,9 +3,9 @@ title: "Section 9192 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 
 usc_title: 19
 usc_section: "9192"
 chapter: 2
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "19 U.S.C. § 9192"
-generated_at: "2026-03-30T03:12:39.145Z"
+generated_at: "2026-03-30T03:16:06.678Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5137 - Bureau of Medicine and Surgery: Chief; Deputy Chief"
 usc_title: 10
 usc_section: "5137"
 chapter: 513
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 5137"
-generated_at: "2026-03-30T03:12:15.204Z"
+generated_at: "2026-03-30T03:15:52.834Z"
 status: "active"
 ---
 

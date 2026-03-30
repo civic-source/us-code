@@ -3,9 +3,9 @@ title: "Section 4621to4626 - Repealed. Pub. L. 100–297, title I, § 1003(e) , 
 usc_title: 20
 usc_section: "4621to4626"
 chapter: 58
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 4621to4626"
-generated_at: "2026-03-30T03:12:49.508Z"
+generated_at: "2026-03-30T03:16:10.744Z"
 status: "repealed"
 ---
 

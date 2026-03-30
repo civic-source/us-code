@@ -3,9 +3,9 @@ title: "Section 2166 - Western Hemisphere Institute for Security Cooperation"
 usc_title: 10
 usc_section: "2166"
 chapter: 108
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 2166"
-generated_at: "2026-03-30T03:12:15.156Z"
+generated_at: "2026-03-30T03:15:52.786Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 111b - Contracts to furnish property, supplies, or services to C
 usc_title: 2
 usc_section: "111b"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 111b"
-generated_at: "2026-03-30T03:12:02.389Z"
+generated_at: "2026-03-30T03:15:32.282Z"
 status: "active"
 ---
 

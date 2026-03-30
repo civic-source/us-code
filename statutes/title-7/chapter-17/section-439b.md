@@ -3,9 +3,9 @@ title: "Section 439b - Recommendations to Congress for discontinuance of plants"
 usc_title: 7
 usc_section: "439b"
 chapter: 17
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 439b"
-generated_at: "2026-03-30T03:12:09.338Z"
+generated_at: "2026-03-30T03:15:47.413Z"
 status: "active"
 ---
 

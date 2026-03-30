@@ -3,9 +3,9 @@ title: "Section 3261to3266 - Omitted"
 usc_title: 20
 usc_section: "3261to3266"
 chapter: 47
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 3261to3266"
-generated_at: "2026-03-30T03:12:49.500Z"
+generated_at: "2026-03-30T03:16:10.736Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1653 - Liability for damages"
 usc_title: 43
 usc_section: "1653"
 chapter: 34
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 1653"
-generated_at: "2026-03-30T03:14:28.880Z"
+generated_at: "2026-03-30T03:17:16.328Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 290aa6to290aa8 - Transferred"
 usc_title: 42
 usc_section: "290aa6to290aa8"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 290aa6to290aa8"
-generated_at: "2026-03-30T03:14:51.475Z"
+generated_at: "2026-03-30T03:17:32.274Z"
 status: "transferred"
 ---
 

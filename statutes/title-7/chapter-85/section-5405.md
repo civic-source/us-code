@@ -3,9 +3,9 @@ title: "Section 5405 - Agricultural air quality research oversight"
 usc_title: 7
 usc_section: "5405"
 chapter: 85
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 5405"
-generated_at: "2026-03-30T03:12:09.433Z"
+generated_at: "2026-03-30T03:15:47.516Z"
 status: "active"
 ---
 

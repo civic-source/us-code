@@ -3,9 +3,9 @@ title: "Section 5122 - Enforcement"
 usc_title: 49
 usc_section: "5122"
 chapter: 51
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 5122"
-generated_at: "2026-03-30T03:15:03.291Z"
+generated_at: "2026-03-30T03:17:39.929Z"
 status: "active"
 ---
 

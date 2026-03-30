@@ -3,9 +3,9 @@ title: "Section 329to333 - Repealed. Pub. L. 107–314, div. A, title V, § 512(
 usc_title: 32
 usc_section: "329to333"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "32 U.S.C. § 329to333"
-generated_at: "2026-03-30T03:13:34.489Z"
+generated_at: "2026-03-30T03:17:06.252Z"
 status: "repealed"
 ---
 

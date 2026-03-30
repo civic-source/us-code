@@ -3,9 +3,9 @@ title: "Section 1701to1703 - Repealed. Pub. L. 93–435, § 5 , Oct. 5, 1974 , 8
 usc_title: 48
 usc_section: "1701to1703"
 chapter: 15
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "48 U.S.C. § 1701to1703"
-generated_at: "2026-03-30T03:14:59.459Z"
+generated_at: "2026-03-30T03:17:35.725Z"
 status: "repealed"
 ---
 

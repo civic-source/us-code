@@ -3,9 +3,9 @@ title: "Section 971a - Alaskan lands within highway, telephone, and pipeline wit
 usc_title: 43
 usc_section: "971a"
 chapter: 22
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "43 U.S.C. § 971a"
-generated_at: "2026-03-30T03:14:28.862Z"
+generated_at: "2026-03-30T03:17:16.307Z"
 status: "active"
 ---
 

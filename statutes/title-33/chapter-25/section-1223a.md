@@ -3,9 +3,9 @@ title: "Section 1223a - Electronic charts"
 usc_title: 33
 usc_section: "1223a"
 chapter: 25
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 1223a"
-generated_at: "2026-03-30T03:13:40.529Z"
+generated_at: "2026-03-30T03:17:08.925Z"
 status: "active"
 ---
 

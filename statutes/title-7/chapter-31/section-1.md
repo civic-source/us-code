@@ -3,9 +3,9 @@ title: "Section 1 - National Center for Rural Telecommunications Assessment"
 usc_title: 7
 usc_section: "1"
 chapter: 31
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-03-30T03:12:09.351Z"
+generated_at: "2026-03-30T03:15:47.427Z"
 status: "active"
 ---
 

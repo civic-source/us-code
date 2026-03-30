@@ -3,9 +3,9 @@ title: "Section 1923 - Docket fees and costs of briefs"
 usc_title: 28
 usc_section: "1923"
 chapter: 123
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "28 U.S.C. § 1923"
-generated_at: "2026-03-30T03:13:10.210Z"
+generated_at: "2026-03-30T03:16:45.898Z"
 status: "active"
 ---
 

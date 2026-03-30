@@ -3,9 +3,9 @@ title: "Section 2225a - Prohibiting Federal funding of conferences held at non-c
 usc_title: 15
 usc_section: "2225a"
 chapter: 49
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "15 U.S.C. § 2225a"
-generated_at: "2026-03-30T03:12:35.355Z"
+generated_at: "2026-03-30T03:16:02.113Z"
 status: "active"
 ---
 

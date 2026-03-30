@@ -3,9 +3,9 @@ title: "Section 182 - Lands disposed of with reservation of deposits of coal, et
 usc_title: 30
 usc_section: "182"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 182"
-generated_at: "2026-03-30T03:13:32.330Z"
+generated_at: "2026-03-30T03:16:46.480Z"
 status: "active"
 ---
 

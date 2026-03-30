@@ -3,9 +3,9 @@ title: "Section 2292hto2292q - Repealed. Pub. L. 112–74, div. I, title VII, §
 usc_title: 22
 usc_section: "2292hto2292q"
 chapter: 32
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "22 U.S.C. § 2292hto2292q"
-generated_at: "2026-03-30T03:12:56.167Z"
+generated_at: "2026-03-30T03:16:41.358Z"
 status: "repealed"
 ---
 

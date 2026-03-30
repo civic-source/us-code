@@ -3,9 +3,9 @@ title: "Section 633 - Preference in employment; on-the-job training"
 usc_title: 25
 usc_section: "633"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 633"
-generated_at: "2026-03-30T03:13:04.424Z"
+generated_at: "2026-03-30T03:16:31.987Z"
 status: "active"
 ---
 

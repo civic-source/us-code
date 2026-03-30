@@ -3,9 +3,9 @@ title: "Section 807 - Audits and evaluation"
 usc_title: 2
 usc_section: "807"
 chapter: 19
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 807"
-generated_at: "2026-03-30T03:12:02.412Z"
+generated_at: "2026-03-30T03:15:32.304Z"
 status: "active"
 ---
 

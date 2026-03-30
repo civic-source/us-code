@@ -3,9 +3,9 @@ title: "Section 58 - Mail, telegraph, telephone, stationery, office supplies, an
 usc_title: 2
 usc_section: "58"
 chapter: 3
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 58"
-generated_at: "2026-03-30T03:12:02.379Z"
+generated_at: "2026-03-30T03:15:32.273Z"
 status: "active"
 ---
 

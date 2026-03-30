@@ -3,9 +3,9 @@ title: "Section 8310 - Warrant officers: original appointment; qualifications"
 usc_title: 10
 usc_section: "8310"
 chapter: 835
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 8310"
-generated_at: "2026-03-30T03:12:15.218Z"
+generated_at: "2026-03-30T03:15:52.846Z"
 status: "active"
 ---
 

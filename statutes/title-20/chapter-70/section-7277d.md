@@ -3,9 +3,9 @@ title: "Section 7277d - Limitations"
 usc_title: 20
 usc_section: "7277d"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 7277d"
-generated_at: "2026-03-30T03:12:49.546Z"
+generated_at: "2026-03-30T03:16:10.780Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 171 - Congressional declaration of findings and purpose as to Ce
 usc_title: 2
 usc_section: "171"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 171"
-generated_at: "2026-03-30T03:12:02.393Z"
+generated_at: "2026-03-30T03:15:32.287Z"
 status: "active"
 ---
 

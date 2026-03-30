@@ -3,9 +3,9 @@ title: "Section 722 - Attending Physician to the Congress: grade"
 usc_title: 10
 usc_section: "722"
 chapter: 41
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 722"
-generated_at: "2026-03-30T03:12:15.116Z"
+generated_at: "2026-03-30T03:15:52.745Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7223i - Definitions"
 usc_title: 20
 usc_section: "7223i"
 chapter: 70
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "20 U.S.C. § 7223i"
-generated_at: "2026-03-30T03:12:49.540Z"
+generated_at: "2026-03-30T03:16:10.775Z"
 status: "active"
 ---
 

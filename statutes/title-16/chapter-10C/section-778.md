@@ -3,9 +3,9 @@ title: "Section 778 - Establishment of experiment stations; purpose of research"
 usc_title: 16
 usc_section: "778"
 chapter: 10
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 778"
-generated_at: "2026-03-30T03:12:42.255Z"
+generated_at: "2026-03-30T03:16:15.644Z"
 status: "active"
 ---
 

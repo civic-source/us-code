@@ -3,9 +3,9 @@ title: "Section 582 - Warrant officer active-duty list: exclusions"
 usc_title: 10
 usc_section: "582"
 chapter: 33
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "10 U.S.C. § 582"
-generated_at: "2026-03-30T03:12:15.111Z"
+generated_at: "2026-03-30T03:15:52.740Z"
 status: "active"
 ---
 

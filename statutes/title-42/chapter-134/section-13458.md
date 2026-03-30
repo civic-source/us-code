@@ -3,9 +3,9 @@ title: "Section 13458 - Energy efficient lighting and building centers"
 usc_title: 42
 usc_section: "13458"
 chapter: 134
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 13458"
-generated_at: "2026-03-30T03:14:52.080Z"
+generated_at: "2026-03-30T03:17:32.879Z"
 status: "active"
 ---
 

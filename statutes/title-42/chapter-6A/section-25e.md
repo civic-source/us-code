@@ -3,9 +3,9 @@ title: "Section 25e - Prevention of methamphetamine and inhalant abuse and addic
 usc_title: 42
 usc_section: "25e"
 chapter: 6
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 25e"
-generated_at: "2026-03-30T03:14:51.477Z"
+generated_at: "2026-03-30T03:17:32.276Z"
 status: "active"
 ---
 

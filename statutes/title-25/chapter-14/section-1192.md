@@ -3,9 +3,9 @@ title: "Section 1192 - Eligibility for per capita payments"
 usc_title: 25
 usc_section: "1192"
 chapter: 14
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "25 U.S.C. § 1192"
-generated_at: "2026-03-30T03:13:04.441Z"
+generated_at: "2026-03-30T03:16:32.004Z"
 status: "active"
 ---
 

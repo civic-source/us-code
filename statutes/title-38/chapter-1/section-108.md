@@ -3,9 +3,9 @@ title: "Section 108 - Seven-year absence presumption of death"
 usc_title: 38
 usc_section: "108"
 chapter: 1
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "38 U.S.C. § 108"
-generated_at: "2026-03-30T03:14:12.944Z"
+generated_at: "2026-03-30T03:17:12.840Z"
 status: "active"
 ---
 

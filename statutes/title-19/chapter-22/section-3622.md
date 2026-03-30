@@ -3,9 +3,9 @@ title: "Section 3622 - Repealed. Pub. L. 105–362, title XIV, § 1401(c) , Nov.
 usc_title: 19
 usc_section: "3622"
 chapter: 22
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "19 U.S.C. § 3622"
-generated_at: "2026-03-30T03:12:39.203Z"
+generated_at: "2026-03-30T03:16:06.736Z"
 status: "repealed"
 ---
 

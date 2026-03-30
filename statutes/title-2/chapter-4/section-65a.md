@@ -3,9 +3,9 @@ title: "Section 65a - Insurance of office funds of Secretary of Senate and Serge
 usc_title: 2
 usc_section: "65a"
 chapter: 4
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "2 U.S.C. § 65a"
-generated_at: "2026-03-30T03:12:02.384Z"
+generated_at: "2026-03-30T03:15:32.277Z"
 status: "active"
 ---
 

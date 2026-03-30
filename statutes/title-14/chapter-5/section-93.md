@@ -3,9 +3,9 @@ title: "Section 93 - Commandant; general powers"
 usc_title: 14
 usc_section: "93"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "14 U.S.C. § 93"
-generated_at: "2026-03-30T03:12:20.515Z"
+generated_at: "2026-03-30T03:15:55.217Z"
 status: "active"
 ---
 

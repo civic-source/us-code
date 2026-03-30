@@ -3,9 +3,9 @@ title: "Section 1422a1422b - Repealed. Pub. L. 110–289, div. A, title II, § 1
 usc_title: 12
 usc_section: "1422a1422b"
 chapter: 11
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "12 U.S.C. § 1422a1422b"
-generated_at: "2026-03-30T03:12:30.252Z"
+generated_at: "2026-03-30T03:15:58.558Z"
 status: "repealed"
 ---
 

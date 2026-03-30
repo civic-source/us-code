@@ -3,9 +3,9 @@ title: "Section 1477 - Preferences for veterans and families of deceased service
 usc_title: 42
 usc_section: "1477"
 chapter: 8
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "42 U.S.C. § 1477"
-generated_at: "2026-03-30T03:14:51.736Z"
+generated_at: "2026-03-30T03:17:32.531Z"
 status: "active"
 ---
 

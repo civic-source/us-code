@@ -3,9 +3,9 @@ title: "Section 2001 - Findings"
 usc_title: 30
 usc_section: "2001"
 chapter: 32
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "30 U.S.C. § 2001"
-generated_at: "2026-03-30T03:13:32.362Z"
+generated_at: "2026-03-30T03:16:46.516Z"
 status: "active"
 ---
 

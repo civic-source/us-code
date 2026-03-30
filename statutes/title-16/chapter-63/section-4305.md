@@ -3,9 +3,9 @@ title: "Section 4305 - Collection and removal from Federal caves"
 usc_title: 16
 usc_section: "4305"
 chapter: 63
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "16 U.S.C. § 4305"
-generated_at: "2026-03-30T03:12:42.341Z"
+generated_at: "2026-03-30T03:16:15.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 535h - Report of Secretary of Transportation’s approval during
 usc_title: 33
 usc_section: "535h"
 chapter: 11
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "33 U.S.C. § 535h"
-generated_at: "2026-03-30T03:13:40.513Z"
+generated_at: "2026-03-30T03:17:08.906Z"
 status: "active"
 ---
 

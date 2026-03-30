@@ -3,9 +3,9 @@ title: "Section 542 - Franchise fees"
 usc_title: 47
 usc_section: "542"
 chapter: 5
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "47 U.S.C. § 542"
-generated_at: "2026-03-30T03:15:10.901Z"
+generated_at: "2026-03-30T03:17:40.625Z"
 status: "active"
 ---
 

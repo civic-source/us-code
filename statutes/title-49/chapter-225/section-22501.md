@@ -3,9 +3,9 @@ title: "Section 22501 - Financial assistance to States for certain projects"
 usc_title: 49
 usc_section: "22501"
 chapter: 225
-current_through: "PL 113-44"
+current_through: "PL 113-45"
 classification: "49 U.S.C. § 22501"
-generated_at: "2026-03-30T03:15:03.316Z"
+generated_at: "2026-03-30T03:17:39.970Z"
 status: "active"
 ---
 
