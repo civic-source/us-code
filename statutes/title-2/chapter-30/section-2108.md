@@ -3,9 +3,9 @@ title: "Section 2108 - Provisions relating to Senate Commission on Art"
 usc_title: 2
 usc_section: "2108"
 chapter: 30
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 2108"
-generated_at: "2026-03-30T06:10:43.835Z"
+generated_at: "2026-03-30T06:12:46.657Z"
 status: "active"
 ---
 
@@ -45,6 +45,15 @@ status: "active"
     - **(A)** The Commission shall deposit in the fund amounts appropriated for use of the fund, gifts of money, and proceeds of transactions under subsection (a).
     - **(B)** The Secretary of the Treasury shall credit to the fund the interest on, and the proceeds from sale or redemption of, obligations held in the fund.
     - **(C)** Disbursements from the fund shall be made on vouchers approved by the Commission and signed by the Executive Secretary of the Commission.
+    - **(D)**
+      - **(i)** The Commission may, for individual conservation or restoration projects estimated to cost greater than $100,000, transfer amounts in the fund to the Architect of the Capitol for the cost of conservation or restoration, in whole or in part, by the Architect of the Capitol of works of art, historical objects, documents, or material relating to historical matters placed or exhibited, or to be placed or exhibited, within the Senate wing of the United States Capitol or any Senate Office Building.
+      - **(ii)** Amounts transferred to the Architect of the Capitol under clause (i) and not subject to return under clause (v) shall remain available until expended.
+      - **(iii)** Before authorizing transfers under clause (i), in whole or in part, the Commission, or the chairman and vice chairman acting jointly on behalf of the Commission and after giving notice to the Commission, shall review and approve a conservation or restoration project for which such amounts are intended (referred to in this section as the “Project”). The Commission may require updated reports on the Project before any additional amounts are transferred for the Project. No disbursements may be made from funds transferred under clause (i) that are inconsistent with the Project approved by the Commission upon which the relevant transfer is based.
+      - **(iv)** The Commission retains the discretion whether or not to approve the acceptance of any donation to the fund regardless of whether the donation is intended for a conservation or restoration Project under clause (i).
+      - **(v)** The Commission may prescribe such guidelines as it deems necessary for the approval and transfer of any amounts under clause (i) and the return of any undisbursed amounts.
+      - **(vi)** The Commission may require the return of amounts transferred to the Architect of the Capitol under clause (i) and not disbursed pursuant to an approved Project within five years of the transfer. Such amounts will be returned to the fund for use or disposition as the Commission shall determine appropriate. For purposes of this subsection, the Commission may, at any time, specify a date of return greater than five years from the transfer.
+      - **(vii)** Once amounts are transferred pursuant to clause (i), disbursements from transferred funds shall be made by the Architect of the Capitol upon review of vouchers by the Architect of the Capitol and not subject to the audit provisions of clause 1 1 So in original. Probably should be “subsection”. (c)(6) of this section. Such disbursements shall be limited to purposes for which funds may be disbursed pursuant to this section.
+      - **(viii)** The authority to transfer amounts to the Architect of the Capitol under clause (i) shall expire ten years after the date of its initial enactment. Any amounts transferred prior to the termination of authority to transfer may continue to be expended in accordance with this section.
   - **(4)**
     - **(A)** The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Commission, is not required to meet current withdrawals.
     - **(B)** Each investment required by this paragraph shall be made in an interest bearing obligation of the United States or an obligation guaranteed as to the principal and interest by the United States that, as determined by the Commission, has a maturity suitable for the fund.

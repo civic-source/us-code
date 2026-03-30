@@ -3,9 +3,9 @@ title: "Section 4123 - Authority of Attending Physician in response to medical c
 usc_title: 2
 usc_section: "4123"
 chapter: 41
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 4123"
-generated_at: "2026-03-30T06:10:43.837Z"
+generated_at: "2026-03-30T06:12:46.660Z"
 status: "active"
 ---
 

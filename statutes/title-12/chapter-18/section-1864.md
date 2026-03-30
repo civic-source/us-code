@@ -3,9 +3,9 @@ title: "Section 1864 - Permissible bank service company activities for other per
 usc_title: 12
 usc_section: "1864"
 chapter: 18
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 1864"
-generated_at: "2026-03-30T06:11:05.189Z"
+generated_at: "2026-03-30T06:13:07.816Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 374 - Acting as agent for nonmember bank in getting discounts fr
 usc_title: 12
 usc_section: "374"
 chapter: 3
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 374"
-generated_at: "2026-03-30T06:11:05.093Z"
+generated_at: "2026-03-30T06:13:07.734Z"
 status: "active"
 ---
 

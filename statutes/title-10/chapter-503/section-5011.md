@@ -3,9 +3,9 @@ title: "Section 5011 - Organization"
 usc_title: 10
 usc_section: "5011"
 chapter: 503
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 5011"
-generated_at: "2026-03-30T06:11:00.217Z"
+generated_at: "2026-03-30T06:13:02.660Z"
 status: "active"
 ---
 

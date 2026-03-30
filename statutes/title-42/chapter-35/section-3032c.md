@@ -3,16 +3,16 @@ title: "Section 3032c - Health care service demonstration projects in rural area
 usc_title: 42
 usc_section: "3032c"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3032c"
-generated_at: "2026-03-30T06:12:18.186Z"
+generated_at: "2026-03-30T06:14:10.914Z"
 status: "active"
 ---
 
 # § 3032c. Health care service demonstration projects in rural areas
 
 - **(a)** The Assistant Secretary, after consultation with the State agency of the State involved, shall make grants to eligible public agencies and nonprofit private organizations to pay part or all of the cost of developing or operating model health care service projects (including related home health care services, adult day health care, mental health services, outreach, and transportation) through multipurpose senior centers that are located in rural areas and that provide nutrition services under section 3030e of this title , to meet the health care needs of medically underserved older individuals residing in such areas.
-- **(b)** To be eligible to receive a grant under subsection (a) of this section, a public agency or nonprofit private organization shall submit to the Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
+- **(b)** To be eligible to receive a grant under subsection (a), a public agency or nonprofit private organization shall submit to the Assistant Secretary an application containing such information and assurances as the Secretary may require, including—
   - **(1)** information describing the nature and extent of the applicant’s—
     - **(A)** experience in providing medical services of the type to be provided in the project for which a grant is requested; and
     - **(B)** coordination and cooperation with—
@@ -26,4 +26,4 @@ status: "active"
       - **(i)** not less than 33⅓ of the population resides in rural areas; and
       - **(ii)** not less than 5 percent of the population resides in counties with fewer than seven individuals per square mile,
   - **(3)** assurances that the applicant will submit to the Assistant Secretary such evaluations and reports as the Assistant Secretary may require.
-- **(c)** The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b) of this section.
+- **(c)** The Assistant Secretary shall prepare and submit to the appropriate committees of Congress a report that includes summaries of the evaluations and reports required under subsection (b).

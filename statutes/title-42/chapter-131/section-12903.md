@@ -3,9 +3,9 @@ title: "Section 12903 - General authority"
 usc_title: 42
 usc_section: "12903"
 chapter: 131
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 12903"
-generated_at: "2026-03-30T06:12:18.430Z"
+generated_at: "2026-03-30T06:14:11.154Z"
 status: "active"
 ---
 
@@ -19,7 +19,7 @@ status: "active"
         - **(I)** 1 1 So in original. Probably should be “(i)”. 75 percent of such amounts among—
 - **(ii)** 25 percent of such amounts among States and metropolitan statistical areas based on the method described in subparagraph (C).
 - **(ii)** differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation.
-- **(ii)** approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of title; 2 2 See References in Text note below. and
+- **(ii)** approval by the Secretary of the most recent comprehensive housing affordability strategy for the grantee approved under section 12705 of this title ; 2 2 See References in Text note below. and
 - **(iii)** the requirements of subparagraph (C).
   - **(3)**
     - **(A)** The Secretary may award funds reserved for a grantee eligible under paragraph (1) to an alternative grantee if—

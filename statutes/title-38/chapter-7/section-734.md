@@ -3,9 +3,9 @@ title: "Section 734 - Evaluation criteria of supervisors and treatment of bonuse
 usc_title: 38
 usc_section: "734"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 734"
-generated_at: "2026-03-30T06:12:01.163Z"
+generated_at: "2026-03-30T06:13:53.565Z"
 status: "active"
 ---
 

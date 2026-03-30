@@ -3,9 +3,9 @@ title: "Section 1404 - National security restrictions on use of funds and auctio
 usc_title: 47
 usc_section: "1404"
 chapter: 13
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "47 U.S.C. § 1404"
-generated_at: "2026-03-30T06:12:29.707Z"
+generated_at: "2026-03-30T06:14:14.258Z"
 status: "active"
 ---
 

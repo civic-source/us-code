@@ -3,9 +3,9 @@ title: "Section 4 - Deputy Comptrollers"
 usc_title: 12
 usc_section: "4"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T06:11:05.081Z"
+generated_at: "2026-03-30T06:13:07.722Z"
 status: "active"
 ---
 

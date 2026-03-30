@@ -3,9 +3,9 @@ title: "Section 15 - Office of Ombudsman"
 usc_title: 42
 usc_section: "15"
 chapter: 84
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T06:12:18.303Z"
+generated_at: "2026-03-30T06:14:11.030Z"
 status: "active"
 ---
 
@@ -13,8 +13,8 @@ status: "active"
 
 - **(a)** There is established in the Department of Labor an office to be known as the “Office of the Ombudsman” (in this section referred to as the “Office”).
 - **(b)** The head of the Office shall be the Ombudsman. The individual serving as Ombudsman shall be either of the following:
-  - **(1)** An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
-  - **(2)** An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c) of this section.
+  - **(1)** An officer or employee of the Department of Labor designated by the Secretary for purposes of this section from among officers and employees of the Department who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
+  - **(2)** An individual employed by the Secretary from the private sector from among individuals in the private sector who have experience and expertise necessary to carry out the duties of the Office specified in subsection (c).
 - **(c)** The duties of the Office shall be as follows:
   - **(1)** To provide information on the benefits available under this part and part B and on the requirements and procedures applicable to the provision of such benefits.
   - **(2)** To make recommendations to the Secretary regarding the location of centers (to be known as “resource centers”) for the acceptance and development of claims for benefits under this part and part B.

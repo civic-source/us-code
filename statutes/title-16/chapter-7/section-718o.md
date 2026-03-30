@@ -3,9 +3,9 @@ title: "Section 718o - Definitions"
 usc_title: 16
 usc_section: "718o"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 718o"
-generated_at: "2026-03-30T06:11:22.797Z"
+generated_at: "2026-03-30T06:13:20.040Z"
 status: "active"
 ---
 

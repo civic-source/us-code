@@ -3,9 +3,9 @@ title: "Section 6120 - Purpose"
 usc_title: 5
 usc_section: "6120"
 chapter: 61
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 6120"
-generated_at: "2026-03-30T06:10:48.496Z"
+generated_at: "2026-03-30T06:12:52.786Z"
 status: "active"
 ---
 

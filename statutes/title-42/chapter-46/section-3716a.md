@@ -3,9 +3,9 @@ title: "Section 3716a - Grant program"
 usc_title: 42
 usc_section: "3716a"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3716a"
-generated_at: "2026-03-30T06:12:18.202Z"
+generated_at: "2026-03-30T06:14:10.928Z"
 status: "active"
 ---
 

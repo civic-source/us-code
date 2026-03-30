@@ -3,9 +3,9 @@ title: "Section 7810 - Exemption from personnel ceilings"
 usc_title: 38
 usc_section: "7810"
 chapter: 78
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 7810"
-generated_at: "2026-03-30T06:12:01.209Z"
+generated_at: "2026-03-30T06:13:53.613Z"
 status: "active"
 ---
 

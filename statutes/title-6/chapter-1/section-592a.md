@@ -3,9 +3,9 @@ title: "Section 592a - Technology research and development investment strategy f
 usc_title: 6
 usc_section: "592a"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "6 U.S.C. § 592a"
-generated_at: "2026-03-30T06:10:50.546Z"
+generated_at: "2026-03-30T06:12:59.450Z"
 status: "active"
 ---
 

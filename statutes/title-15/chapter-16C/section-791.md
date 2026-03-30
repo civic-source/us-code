@@ -3,9 +3,9 @@ title: "Section 791 - Congressional declaration of purpose"
 usc_title: 15
 usc_section: "791"
 chapter: 16
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 791"
-generated_at: "2026-03-30T06:11:07.653Z"
+generated_at: "2026-03-30T06:13:10.658Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3147 - Grants for training, research, and technical assistance"
 usc_title: 42
 usc_section: "3147"
 chapter: 38
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3147"
-generated_at: "2026-03-30T06:12:18.192Z"
+generated_at: "2026-03-30T06:14:10.919Z"
 status: "active"
 ---
 
@@ -24,7 +24,7 @@ status: "active"
     - **(H)** assessment, marketing, and establishment of business clusters; and
     - **(I)** other activities determined by the Secretary to be appropriate.
   - **(3)** In the case of a project assisted under this section that is national or regional in scope, the Secretary may waive the provision in section 3122(4)(A)(vi) of this title requiring a nonprofit organization or association to act in cooperation with officials of a political subdivision of a State.
-- **(b)** In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a) of this section, may—
+- **(b)** In providing research and technical assistance under this section, the Secretary, in addition to making grants under subsection (a), may—
   - **(1)** provide research and technical assistance through officers or employees of the Department;
   - **(2)** pay funds made available to carry out this section to Federal agencies; or
   - **(3)** employ private individuals, partnerships, businesses, corporations, or appropriate institutions under contracts entered into for that purpose.

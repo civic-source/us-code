@@ -3,9 +3,9 @@ title: "Section 10603e - Crime victims notification grants"
 usc_title: 42
 usc_section: "10603e"
 chapter: 112
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 10603e"
-generated_at: "2026-03-30T06:12:18.388Z"
+generated_at: "2026-03-30T06:14:11.113Z"
 status: "active"
 ---
 

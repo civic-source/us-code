@@ -3,9 +3,9 @@ title: "Section 198A - Repealed. Pub. L. 113–295, div. A, title II , § 221(a)
 usc_title: 26
 usc_section: "198A"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 198A"
-generated_at: "2026-03-30T06:11:50.807Z"
+generated_at: "2026-03-30T06:13:46.223Z"
 status: "repealed"
 ---
 

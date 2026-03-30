@@ -3,9 +3,9 @@ title: "Section 1616 - Repealed. Pub. L. 99–570, title I , § 1863(b), Oct. 27
 usc_title: 19
 usc_section: "1616"
 chapter: 4
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 1616"
-generated_at: "2026-03-30T06:11:11.431Z"
+generated_at: "2026-03-30T06:13:14.528Z"
 status: "repealed"
 ---
 

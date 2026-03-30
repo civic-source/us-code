@@ -3,9 +3,9 @@ title: "Section 5451 - Assistance in support of democratic institutions in Polan
 usc_title: 22
 usc_section: "5451"
 chapter: 63
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 5451"
-generated_at: "2026-03-30T06:11:34.260Z"
+generated_at: "2026-03-30T06:13:30.630Z"
 status: "active"
 ---
 

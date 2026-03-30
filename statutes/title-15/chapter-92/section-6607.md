@@ -3,9 +3,9 @@ title: "Section 6607 - Pleading requirements"
 usc_title: 15
 usc_section: "6607"
 chapter: 92
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 6607"
-generated_at: "2026-03-30T06:11:07.733Z"
+generated_at: "2026-03-30T06:13:10.779Z"
 status: "active"
 ---
 

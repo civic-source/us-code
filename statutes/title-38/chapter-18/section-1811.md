@@ -3,9 +3,9 @@ title: "Section 1811 - Definitions"
 usc_title: 38
 usc_section: "1811"
 chapter: 18
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 1811"
-generated_at: "2026-03-30T06:12:01.171Z"
+generated_at: "2026-03-30T06:13:53.574Z"
 status: "active"
 ---
 

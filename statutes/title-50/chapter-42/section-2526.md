@@ -3,9 +3,9 @@ title: "Section 2526 - Form of certifications regarding the safety or reliabilit
 usc_title: 50
 usc_section: "2526"
 chapter: 42
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 2526"
-generated_at: "2026-03-30T06:12:26.027Z"
+generated_at: "2026-03-30T06:14:15.965Z"
 status: "active"
 ---
 

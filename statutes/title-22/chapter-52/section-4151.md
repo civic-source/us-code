@@ -3,9 +3,9 @@ title: "Section 4151 - Pay and benefits pending conversion"
 usc_title: 22
 usc_section: "4151"
 chapter: 52
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 4151"
-generated_at: "2026-03-30T06:11:34.252Z"
+generated_at: "2026-03-30T06:13:30.621Z"
 status: "active"
 ---
 

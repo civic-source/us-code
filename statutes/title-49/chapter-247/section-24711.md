@@ -3,9 +3,9 @@ title: "Section 24711 - Competitive passenger rail service pilot program"
 usc_title: 49
 usc_section: "24711"
 chapter: 247
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 24711"
-generated_at: "2026-03-30T06:12:29.289Z"
+generated_at: "2026-03-30T06:14:17.841Z"
 status: "active"
 ---
 

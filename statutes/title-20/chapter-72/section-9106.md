@@ -3,9 +3,9 @@ title: "Section 9106 - Contributions"
 usc_title: 20
 usc_section: "9106"
 chapter: 72
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 9106"
-generated_at: "2026-03-30T06:11:20.609Z"
+generated_at: "2026-03-30T06:13:17.838Z"
 status: "active"
 ---
 

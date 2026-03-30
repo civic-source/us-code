@@ -3,9 +3,9 @@ title: "Section 1689 - Plan for use of grant to Trust Territory of the Pacific I
 usc_title: 48
 usc_section: "1689"
 chapter: 14
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "48 U.S.C. § 1689"
-generated_at: "2026-03-30T06:12:21.106Z"
+generated_at: "2026-03-30T06:14:13.719Z"
 status: "active"
 ---
 

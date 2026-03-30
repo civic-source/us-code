@@ -3,9 +3,9 @@ title: "Section 7a - Civil monetary penalties"
 usc_title: 42
 usc_section: "7a"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 7a"
-generated_at: "2026-03-30T06:12:17.972Z"
+generated_at: "2026-03-30T06:14:10.711Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
     - **(A)** Any physician who executes a document described in subparagraph (B) with respect to an individual knowing that all of the requirements referred to in such subparagraph are not met with respect to the individual shall be subject to a civil monetary penalty of not more than the greater of—
       - **(i)** $5,000, or
       - **(ii)** three times the amount of the payments under subchapter XVIII for home health services which are made pursuant to such certification.
-    - **(B)** A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
+    - **(B)** A document described in this subparagraph is any document that certifies, for purposes of subchapter XVIII, that an individual meets the requirements of section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title in the case of home health services furnished to the individual.
 - **(c)**
   - **(1)** The Secretary may initiate a proceeding to determine whether to impose a civil money penalty, assessment, or exclusion under subsection (a) or (b) only as authorized by the Attorney General pursuant to procedures agreed upon by them. The Secretary may not initiate an action under this section with respect to any claim, request for payment, or other occurrence described in this section later than six years after the date the claim was presented, the request for payment was made, or the occurrence took place. The Secretary may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
   - **(2)** The Secretary shall not make a determination adverse to any person under subsection (a) or (b) until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.

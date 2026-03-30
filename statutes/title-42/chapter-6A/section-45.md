@@ -3,9 +3,9 @@ title: "Section 45 - Relief for high risk pools"
 usc_title: 42
 usc_section: "45"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 45"
-generated_at: "2026-03-30T06:12:17.919Z"
+generated_at: "2026-03-30T06:14:10.658Z"
 status: "active"
 ---
 

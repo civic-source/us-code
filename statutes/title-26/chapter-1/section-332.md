@@ -3,9 +3,9 @@ title: "Section 332 - Complete liquidations of subsidiaries"
 usc_title: 26
 usc_section: "332"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 332"
-generated_at: "2026-03-30T06:11:50.817Z"
+generated_at: "2026-03-30T06:13:46.233Z"
 status: "active"
 ---
 

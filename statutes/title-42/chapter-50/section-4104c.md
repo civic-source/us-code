@@ -3,9 +3,9 @@ title: "Section 4104c - Mitigation assistance"
 usc_title: 42
 usc_section: "4104c"
 chapter: 50
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 4104c"
-generated_at: "2026-03-30T06:12:18.220Z"
+generated_at: "2026-03-30T06:14:10.948Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(3)** In the case of all other mitigation activities, in an amount up to 75 percent of all eligible costs.
 - **(e)**
   - **(1)** If the Administrator determines that a State or community that has received mitigation assistance under this section has not carried out the mitigation activities as set forth in the mitigation plan, the Administrator shall recapture any unexpended amounts and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title .
-  - **(2)** If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d) of this section, the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title .
+  - **(2)** If the Administrator determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount required under subsection (d), the Administrator shall recapture any unexpended amounts of mitigation assistance exceeding the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title .
 - **(f)** Not later than 1 year after July 6, 2012 , and biennially thereafter, the Administrator shall submit a report to the Congress describing the status of mitigation activities carried out with assistance provided under this section.
 - **(g)** For any application for a grant under this section for which the Administrator fails to make a grant award within 5 years of the date of the application, the grant application shall be considered to be denied and any funding amounts allocated for such grant applications shall remain in the National Flood Mitigation Fund under section 4104d of this title and shall be made available for grants under this section.
 - **(h)** For purposes of this section, the following definitions shall apply:

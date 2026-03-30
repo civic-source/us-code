@@ -3,9 +3,9 @@ title: "Section 501 - Exemption from tax on corporations, certain trusts, etc."
 usc_title: 26
 usc_section: "501"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 501"
-generated_at: "2026-03-30T06:11:50.850Z"
+generated_at: "2026-03-30T06:13:46.265Z"
 status: "active"
 ---
 
@@ -95,7 +95,7 @@ status: "active"
         - **(I)** the gross receipts of which for the taxable year do not exceed $150,000, and
         - **(II)** more than 35 percent of such gross receipts consist of premiums.
     - **(B)** For purposes of subparagraph (A), in determining whether any company or association is described in subparagraph (A), such company or association shall be treated as receiving during the taxable year amounts described in subparagraph (A) which are received during such year by all other companies or associations which are members of the same controlled group as the insurance company or association for which the determination is being made.
-    - **(C)** For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), except that in applying section 831(b)(2)(B)(ii) for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
+    - **(C)** For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii), 1 except that in applying section 831(b)(2)(B)(ii) 1 for purposes of this subparagraph, subparagraphs (B) and (C) of section 1563(b)(2) shall be disregarded.
   - **(16)** Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
   - **(17)**
     - **(A)** A trust or trusts forming part of a plan providing for the payment of supplemental unemployment compensation benefits, if—

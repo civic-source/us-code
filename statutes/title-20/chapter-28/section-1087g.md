@@ -3,9 +3,9 @@ title: "Section 1087g - Repealed. Pub. L. 111–39, title IV , § 404(b)(3), Jul
 usc_title: 20
 usc_section: "1087g"
 chapter: 28
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 1087g"
-generated_at: "2026-03-30T06:11:20.508Z"
+generated_at: "2026-03-30T06:13:17.750Z"
 status: "repealed"
 ---
 

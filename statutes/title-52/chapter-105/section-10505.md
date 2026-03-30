@@ -3,9 +3,9 @@ title: "Section 10505 - Penalty"
 usc_title: 52
 usc_section: "10505"
 chapter: 105
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "52 U.S.C. § 10505"
-generated_at: "2026-03-30T06:12:31.443Z"
+generated_at: "2026-03-30T06:14:20.262Z"
 status: "active"
 ---
 

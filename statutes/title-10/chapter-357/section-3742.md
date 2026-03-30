@@ -3,9 +3,9 @@ title: "Section 3742 - Distinguished-service cross: award"
 usc_title: 10
 usc_section: "3742"
 chapter: 357
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 3742"
-generated_at: "2026-03-30T06:11:00.212Z"
+generated_at: "2026-03-30T06:13:02.655Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1105 - Budget contents and submission to Congress"
 usc_title: 31
 usc_section: "1105"
 chapter: 11
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "31 U.S.C. § 1105"
-generated_at: "2026-03-30T06:11:56.049Z"
+generated_at: "2026-03-30T06:13:48.924Z"
 status: "active"
 ---
 
@@ -60,15 +60,14 @@ status: "active"
   - **(34)** with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
   - **(35)**
     - **(A)**
-      - **(i)** a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
-        - **(I)** summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
-        - **(II)** an estimate of the current service levels of homeland security spending;
-        - **(III)** the most recent risk assessment and summary of homeland security needs in each initiative area (as determined by the administration); and
-        - **(IV)** an estimate of user fees collected by the Federal Government on behalf of homeland security activities;
+      - **(i)** a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to cybersecurity, with separate displays for mandatory and discretionary amounts, including—
+        - **(I)** summaries of the total amount of such appropriations or new obligational authority and outlays requested for cybersecurity;
+        - **(II)** an estimate of the current service levels of cybersecurity spending;
+        - **(III)** the most recent risk assessment and summary of cybersecurity needs in each initiative area (as determined by the administration); and
+        - **(IV)** an estimate of user fees collected by the Federal Government on behalf of cybersecurity activities;
       - **(ii)** with respect to subclauses (I) through (IV) of clause (i), amounts shall be provided by account for each program, project and activity; and
-      - **(iii)** an estimate of expenditures for homeland security activities by State and local governments and the private sector for the prior fiscal year and the current fiscal year.
-    - **(B)** In this paragraph, consistent with the Office of Management and Budget’s June 2002 “Annual Report to Congress on Combatting Terrorism”, the term “homeland security” refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.
-    - **(C)** In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
+      - **(iii)** an estimate of expenditures for cybersecurity activities by State and local governments and the private sector for the prior fiscal year and the current fiscal year.
+    - **(B)** Prior to implementing this paragraph, including determining what Federal activities or accounts constitute cybersecurity for purposes of budgetary classification, the Office of Management and Budget shall consult with the Committees on Appropriations and the Committees on the Budget of the House of Representatives and the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate.
   - **(36)** as supplementary materials, a separate analysis of the budgetary effects for all prior fiscal years, the current fiscal year, the fiscal year for which the budget is submitted, and ensuing fiscal years of the actions the Secretary of the Treasury has taken or plans to take using any authority provided in the Emergency Economic Stabilization Act of 2008, including—
     - **(A)** an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
     - **(B)** an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;

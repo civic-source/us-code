@@ -3,9 +3,9 @@ title: "Section 2430g - Americas Framework Agreements"
 usc_title: 22
 usc_section: "2430g"
 chapter: 32
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 2430g"
-generated_at: "2026-03-30T06:11:34.219Z"
+generated_at: "2026-03-30T06:13:30.586Z"
 status: "active"
 ---
 

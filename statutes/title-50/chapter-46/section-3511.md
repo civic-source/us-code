@@ -1,22 +1,15 @@
 ---
-title: "Section 3511 - Authority to pay death gratuities"
+title: "Section 3511 - Benefits available in event of the death of personnel"
 usc_title: 50
 usc_section: "3511"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 3511"
-generated_at: "2026-03-30T06:12:26.046Z"
+generated_at: "2026-03-30T06:14:15.985Z"
 status: "active"
 ---
 
-# § 3511. Authority to pay death gratuities
+# § 3511. Benefits available in event of the death of personnel
 
-- **(a)**
-  - **(1)** The Director may pay a gratuity to the surviving dependents of any officer or employee of the Agency who dies as a result of injuries (other than from disease) sustained outside the United States and whose death—
-    - **(A)** resulted from hostile or terrorist activities; or
-    - **(B)** occurred in connection with an intelligence activity having a substantial element of risk.
-  - **(2)** The provisions of this subsection shall apply with respect to deaths occurring after June 30, 1974 .
-- **(b)** Any payment under subsection (a)—
-  - **(1)** shall be in an amount equal to the amount of the annual salary of the officer or employee concerned at the time of death;
-  - **(2)** shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by any other Federal law; and
-  - **(3)** shall be made under the same conditions as apply to payments authorized by section 3973 of title 22 .
+- **(a)** The Director may pay death benefits substantially similar to those authorized for members of the Foreign Service pursuant to the Foreign Service Act of 1980 ( 22 U.S.C. 3901 et seq.) or any other provision of law. The Director may adjust the eligibility for death benefits as necessary to meet the unique requirements of the mission of the Agency.
+- **(b)** Regulations issued pursuant to this section shall be submitted to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before such regulations take effect.

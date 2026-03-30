@@ -3,9 +3,9 @@ title: "Section 6209 - Broadcast entities reporting to Chief Executive Officer"
 usc_title: 22
 usc_section: "6209"
 chapter: 71
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 6209"
-generated_at: "2026-03-30T06:11:34.266Z"
+generated_at: "2026-03-30T06:13:30.637Z"
 status: "active"
 ---
 
@@ -19,6 +19,6 @@ status: "active"
   - **(2)** provide uncensored local and regional news and analysis to people in societies where a robust, indigenous, independent, and free media does not exist;
   - **(3)** help countries improve their indigenous capacity to enhance media professionalism and independence, and develop partnerships with local media outlets, as appropriate; and
   - **(4)** promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
-- **(c)** Nothing in this or any other Act, or any action taken pursuant to this or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under section 6305 of title 31 , and the term “grantee” includes recipients of such agreements.
+- **(c)** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under section 6305 of title 31 , and the term “grantee” includes recipients of such agreements.
 - **(d)** Officers and directors of RFE/RL Inc., Radio Free Asia, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Board.
 - **(e)** RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.

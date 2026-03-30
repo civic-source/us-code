@@ -3,16 +3,16 @@ title: "Section 6473a - Designated persons list for particularly severe violatio
 usc_title: 22
 usc_section: "6473a"
 chapter: 73
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 6473a"
-generated_at: "2026-03-30T06:11:34.269Z"
+generated_at: "2026-03-30T06:13:30.640Z"
 status: "active"
 ---
 
 # § 6473a. Designated persons list for particularly severe violations of religious freedom
 
 - **(a)**
-  - **(1)** The Secretary of State, in coordination with the Ambassador at Large and in consultation with relevant government and nongovernment experts, shall establish and maintain a list of foreign individuals to whom a consular post has denied a visa on the grounds of particularly severe violations of religious freedom under section 1182(a)(2)(G) of this title , or who are subject to financial sanctions or other measures for particularly severe violations of freedom religion.
+  - **(1)** The Secretary of State, in coordination with the Ambassador at Large and in consultation with relevant government and nongovernment experts, shall establish and maintain a list of foreign individuals to whom a consular post has denied a visa on the grounds of particularly severe violations of religious freedom under section 1182(a)(2)(G) of title 8 , or who are subject to financial sanctions or other measures for particularly severe violations of freedom religion.
   - **(2)** The list required under paragraph (1) shall be known as the “Designated Persons List for Particularly Severe Violations of Religious Freedom”.
 - **(b)**
   - **(1)** The Secretary of State shall submit a report to the appropriate congressional committees that contains the list required under subsection (a), including, with respect to each foreign individual on the list—

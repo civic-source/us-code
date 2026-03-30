@@ -3,9 +3,9 @@ title: "Section 3789d - Prohibition of Federal control over State and local crim
 usc_title: 42
 usc_section: "3789d"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3789d"
-generated_at: "2026-03-30T06:12:18.204Z"
+generated_at: "2026-03-30T06:14:10.931Z"
 status: "active"
 ---
 

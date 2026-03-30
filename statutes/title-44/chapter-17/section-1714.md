@@ -3,9 +3,9 @@ title: "Section 1714 - Publications for use of National Archives and Records Adm
 usc_title: 44
 usc_section: "1714"
 chapter: 17
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "44 U.S.C. § 1714"
-generated_at: "2026-03-30T06:12:04.338Z"
+generated_at: "2026-03-30T06:14:00.734Z"
 status: "active"
 ---
 

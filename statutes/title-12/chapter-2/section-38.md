@@ -3,9 +3,9 @@ title: "Section 38 - The National Bank Act"
 usc_title: 12
 usc_section: "38"
 chapter: 2
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 38"
-generated_at: "2026-03-30T06:11:05.083Z"
+generated_at: "2026-03-30T06:13:07.725Z"
 status: "active"
 ---
 

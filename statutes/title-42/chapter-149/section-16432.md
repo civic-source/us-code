@@ -3,9 +3,9 @@ title: "Section 16432 - Study on the benefits of economic dispatch"
 usc_title: 42
 usc_section: "16432"
 chapter: 149
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 16432"
-generated_at: "2026-03-30T06:12:18.483Z"
+generated_at: "2026-03-30T06:14:11.206Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6936 - Expansion during interim status"
 usc_title: 42
 usc_section: "6936"
 chapter: 82
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 6936"
-generated_at: "2026-03-30T06:12:18.286Z"
+generated_at: "2026-03-30T06:14:11.014Z"
 status: "active"
 ---
 

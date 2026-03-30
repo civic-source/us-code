@@ -3,9 +3,9 @@ title: "Section 8784 - Rule of construction with respect to use of force against
 usc_title: 22
 usc_section: "8784"
 chapter: 94
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 8784"
-generated_at: "2026-03-30T06:11:34.293Z"
+generated_at: "2026-03-30T06:13:30.664Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3 - Community partnership enhancement"
 usc_title: 16
 usc_section: "3"
 chapter: 9
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-03-30T06:11:22.801Z"
+generated_at: "2026-03-30T06:13:20.042Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153 - Embezzlement against estate"
 usc_title: 18
 usc_section: "153"
 chapter: 9
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 153"
-generated_at: "2026-03-30T06:11:14.061Z"
+generated_at: "2026-03-30T06:13:15.917Z"
 status: "active"
 ---
 

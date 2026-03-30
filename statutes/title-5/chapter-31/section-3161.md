@@ -3,9 +3,9 @@ title: "Section 3161 - Employment and compensation of employees"
 usc_title: 5
 usc_section: "3161"
 chapter: 31
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 3161"
-generated_at: "2026-03-30T06:10:48.477Z"
+generated_at: "2026-03-30T06:12:52.767Z"
 status: "active"
 ---
 

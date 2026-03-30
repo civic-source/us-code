@@ -3,9 +3,9 @@ title: "Section 686 - Construction of restraining works in conjunction with Stat
 usc_title: 33
 usc_section: "686"
 chapter: 14
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 686"
-generated_at: "2026-03-30T06:11:57.208Z"
+generated_at: "2026-03-30T06:13:49.832Z"
 status: "active"
 ---
 

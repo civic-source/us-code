@@ -3,15 +3,15 @@ title: "Section 3 - Waivers"
 usc_title: 42
 usc_section: "3"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T06:12:18.185Z"
+generated_at: "2026-03-30T06:14:10.912Z"
 status: "active"
 ---
 
 # § 3030c–3. Waivers
 
-- **(a)** The Assistant Secretary may waive any of the provisions specified in subsection (b) of this section with respect to a State, upon receiving an application by the State agency containing or accompanied by documentation sufficient to establish, to the satisfaction of the Assistant Secretary, that—
+- **(a)** The Assistant Secretary may waive any of the provisions specified in subsection (b) with respect to a State, upon receiving an application by the State agency containing or accompanied by documentation sufficient to establish, to the satisfaction of the Assistant Secretary, that—
   - **(1)** approval of the State legislature has been obtained or is not required with respect to the proposal for which waiver is sought;
   - **(2)** the State agency has collaborated with the area agencies on aging in the State and other organizations that would be affected with respect to the proposal for which waiver is sought;
   - **(3)** the proposal has been made available for public review and comment, including the opportunity for a public hearing upon request, within the State (and a summary of all of the comments received has been included in the application); and

@@ -3,9 +3,9 @@ title: "Section 1265 - Environmental protection performance standards"
 usc_title: 30
 usc_section: "1265"
 chapter: 25
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "30 U.S.C. § 1265"
-generated_at: "2026-03-30T06:11:43.234Z"
+generated_at: "2026-03-30T06:13:33.343Z"
 status: "active"
 ---
 

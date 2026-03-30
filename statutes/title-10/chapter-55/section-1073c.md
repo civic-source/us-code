@@ -3,9 +3,9 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-30T06:11:00.138Z"
+generated_at: "2026-03-30T06:13:02.584Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
     - **(B)** information technology;
     - **(C)** health care administration and management;
     - **(D)** administrative policy and procedure;
-    - **(E)** miliary medical construction; and
+    - **(E)** miliary 1 1 So in original. Probably should be “military”. medical construction; and
     - **(F)** any other matters the Secretary of Defense determines appropriate.
   - **(2)** The commander of each military medical treatment facility shall be responsible for—
     - **(A)** ensuring the readiness of the members of the armed forces and civilian employees at such facility; and

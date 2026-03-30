@@ -3,9 +3,9 @@ title: "Section 3762a - Correctional options grants"
 usc_title: 42
 usc_section: "3762a"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3762a"
-generated_at: "2026-03-30T06:12:18.203Z"
+generated_at: "2026-03-30T06:14:10.930Z"
 status: "active"
 ---
 
@@ -26,7 +26,7 @@ status: "active"
     - **(D)** to carry out demonstration projects which, in view of previous research or experience, are likely to be a success in more than one jurisdiction;
   - **(3)** grants to public agencies to establish, operate, and support boot camp prisons; and
   - **(4)** grants to State courts to improve security for State and local court systems.
-- **(b)** The selection of applicants to receive grants under paragraphs (1) and (2) of subsection (a) of this section shall be based on their potential for developing or testing various innovative alternatives to traditional modes of incarceration and offender release programs. In selecting the applicants to receive grants under subsection (a)(3) of this section, the Director shall—
+- **(b)** The selection of applicants to receive grants under paragraphs (1) and (2) of subsection (a) shall be based on their potential for developing or testing various innovative alternatives to traditional modes of incarceration and offender release programs. In selecting the applicants to receive grants under subsection (a)(3), the Director shall—
   - **(1)** consider the overall quality of an applicant’s shock incarceration program, including the existence of substance abuse treatment, drug testing, counseling literacy education, vocational education, and job training programs during incarceration or after release; and
   - **(2)** give priority to public agencies that clearly demonstrate that the capacity of their correctional facilities is inadequate to accommodate the number of individuals who are convicted of offenses punishable by a term of imprisonment exceeding 1 year.
 - **(c)** The Director shall consult with the Commission on Alternative Utilization of Military Facilities created by Public Law 100–456 in order to identify military facilities that may be used as sites for correctional programs receiving assistance under this subpart.

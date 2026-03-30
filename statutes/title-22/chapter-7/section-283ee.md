@@ -3,9 +3,9 @@ title: "Section 283ee - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "283ee"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 283ee"
-generated_at: "2026-03-30T06:11:34.176Z"
+generated_at: "2026-03-30T06:13:30.457Z"
 status: "active"
 ---
 

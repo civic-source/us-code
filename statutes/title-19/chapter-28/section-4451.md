@@ -3,9 +3,9 @@ title: "Section 4451 - Report on certain U.S. Customs and Border Protection agre
 usc_title: 19
 usc_section: "4451"
 chapter: 28
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 4451"
-generated_at: "2026-03-30T06:11:11.487Z"
+generated_at: "2026-03-30T06:13:14.582Z"
 status: "active"
 ---
 
@@ -33,4 +33,4 @@ status: "active"
   - **(2)** the pilot program authorizing U.S. Customs and Border Protection to enter into partnerships with private sector and government entities at ports of entry established by section 559 of the Department of Homeland Security Appropriations Act, 2014 (division F of Public Law 113–76 ; 6 U.S.C. 211 note);
   - **(3)** the program under which U.S. Customs and Border Protection collects a fee for the use of customs services at designated facilities under section 58b of this title ;
   - **(4)** the program established by subchapter VII of this chapter authorizing U.S. Customs and Border Protection to establish preclearance operations in foreign countries; or
-  - **(5)** the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under section 301 of this title .
+  - **(5)** the program for entering into reimbursable fee agreements with U.S. Customs and Border Protection established under section 301 of title 6 .

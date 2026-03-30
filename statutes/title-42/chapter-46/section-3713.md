@@ -3,15 +3,15 @@ title: "Section 3713 - State grant program for training and prosecution of compu
 usc_title: 42
 usc_section: "3713"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3713"
-generated_at: "2026-03-30T06:12:18.201Z"
+generated_at: "2026-03-30T06:14:10.927Z"
 status: "active"
 ---
 
 # § 3713. State grant program for training and prosecution of computer crimes
 
-- **(a)** Subject to the availability of amounts provided in advance in appropriations Acts, the Office of Justice Programs shall make a grant to each State, which shall be used by the State, in conjunction with units of local government, State and local courts, other States, or combinations thereof in accordance with subsection (b) of this section.
+- **(a)** Subject to the availability of amounts provided in advance in appropriations Acts, the Office of Justice Programs shall make a grant to each State, which shall be used by the State, in conjunction with units of local government, State and local courts, other States, or combinations thereof in accordance with subsection (b).
 - **(b)** Grants under this section may be used to establish and develop programs to—
   - **(1)** assist State and local law enforcement agencies in enforcing State and local criminal laws relating to computer crime, including infringement of copyrighted works over the Internet;
   - **(2)** assist State and local law enforcement agencies in educating the public to prevent and identify computer crime, including infringement of copyrighted works over the Internet;

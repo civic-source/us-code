@@ -3,9 +3,9 @@ title: "Section 5124 - Repealed. Pub. L. 103–382, title III , § 391(i), Oct. 
 usc_title: 20
 usc_section: "5124"
 chapter: 62
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 5124"
-generated_at: "2026-03-30T06:11:20.570Z"
+generated_at: "2026-03-30T06:13:17.804Z"
 status: "repealed"
 ---
 

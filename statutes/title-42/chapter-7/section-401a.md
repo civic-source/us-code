@@ -3,9 +3,9 @@ title: "Section 401a - Omitted"
 usc_title: 42
 usc_section: "401a"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 401a"
-generated_at: "2026-03-30T06:12:17.930Z"
+generated_at: "2026-03-30T06:14:10.668Z"
 status: "omitted"
 ---
 

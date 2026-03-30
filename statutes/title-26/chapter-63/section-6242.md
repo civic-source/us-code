@@ -3,9 +3,9 @@ title: "Section 6242 - Procedures for taking partnership adjustments into accoun
 usc_title: 26
 usc_section: "6242"
 chapter: 63
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 6242"
-generated_at: "2026-03-30T06:11:50.967Z"
+generated_at: "2026-03-30T06:13:46.384Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 403 - Notice of copyright: Publications incorporating United Sta
 usc_title: 17
 usc_section: "403"
 chapter: 4
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "17 U.S.C. § 403"
-generated_at: "2026-03-30T06:11:09.583Z"
+generated_at: "2026-03-30T06:13:12.940Z"
 status: "active"
 ---
 

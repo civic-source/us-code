@@ -3,9 +3,9 @@ title: "Section 2193 - Improvement of education in technical fields: grants for 
 usc_title: 10
 usc_section: "2193"
 chapter: 111
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2193"
-generated_at: "2026-03-30T06:11:00.170Z"
+generated_at: "2026-03-30T06:13:02.615Z"
 status: "active"
 ---
 

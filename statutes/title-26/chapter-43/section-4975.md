@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-30T06:11:50.937Z"
+generated_at: "2026-03-30T06:13:46.354Z"
 status: "active"
 ---
 

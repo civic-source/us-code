@@ -3,9 +3,9 @@ title: "Section 335 - Repealed. Pub. L. 103–272 , § 4(j)(9)(A), July 5, 1994 
 usc_title: 49
 usc_section: "335"
 chapter: 3
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 335"
-generated_at: "2026-03-30T06:12:29.257Z"
+generated_at: "2026-03-30T06:14:17.806Z"
 status: "repealed"
 ---
 

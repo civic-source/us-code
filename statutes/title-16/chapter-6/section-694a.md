@@ -3,9 +3,9 @@ title: "Section 694a - Hunting, pursuing, capturing, etc., in sanctuaries in nat
 usc_title: 16
 usc_section: "694a"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 694a"
-generated_at: "2026-03-30T06:11:22.793Z"
+generated_at: "2026-03-30T06:13:20.035Z"
 status: "active"
 ---
 

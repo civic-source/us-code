@@ -3,9 +3,9 @@ title: "Section 2432 - Selected Acquisition Reports"
 usc_title: 10
 usc_section: "2432"
 chapter: 144
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2432"
-generated_at: "2026-03-30T06:11:00.188Z"
+generated_at: "2026-03-30T06:13:02.632Z"
 status: "active"
 ---
 

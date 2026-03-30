@@ -3,9 +3,9 @@ title: "Section 677 - Limitation as to quantity of debris washed away"
 usc_title: 33
 usc_section: "677"
 chapter: 14
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 677"
-generated_at: "2026-03-30T06:11:57.208Z"
+generated_at: "2026-03-30T06:13:49.831Z"
 status: "active"
 ---
 

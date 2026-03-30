@@ -3,9 +3,9 @@ title: "Section 1057 - Certificates of registration"
 usc_title: 15
 usc_section: "1057"
 chapter: 22
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 1057"
-generated_at: "2026-03-30T06:11:07.655Z"
+generated_at: "2026-03-30T06:13:10.661Z"
 status: "active"
 ---
 

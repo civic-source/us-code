@@ -3,9 +3,9 @@ title: "Section 1107 - Deficiency and supplemental appropriations"
 usc_title: 31
 usc_section: "1107"
 chapter: 11
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "31 U.S.C. § 1107"
-generated_at: "2026-03-30T06:11:56.049Z"
+generated_at: "2026-03-30T06:13:48.924Z"
 status: "active"
 ---
 

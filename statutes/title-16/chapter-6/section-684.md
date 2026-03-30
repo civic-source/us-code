@@ -3,9 +3,9 @@ title: "Section 684 - Game breeding areas in Wichita and Grand Canyon National F
 usc_title: 16
 usc_section: "684"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 684"
-generated_at: "2026-03-30T06:11:22.792Z"
+generated_at: "2026-03-30T06:13:20.034Z"
 status: "active"
 ---
 

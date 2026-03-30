@@ -3,9 +3,9 @@ title: "Section 1213 - Authorization of appropriations"
 usc_title: 16
 usc_section: "1213"
 chapter: 25
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 1213"
-generated_at: "2026-03-30T06:11:22.827Z"
+generated_at: "2026-03-30T06:13:20.067Z"
 status: "active"
 ---
 

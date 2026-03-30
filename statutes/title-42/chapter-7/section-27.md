@@ -3,9 +3,9 @@ title: "Section 27 - Contracts with Medicare+Choice organizations"
 usc_title: 42
 usc_section: "27"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 27"
-generated_at: "2026-03-30T06:12:18.026Z"
+generated_at: "2026-03-30T06:14:10.760Z"
 status: "active"
 ---
 
@@ -121,7 +121,7 @@ status: "active"
     - **(A)** the Secretary provides the organization with the reasonable opportunity to develop and implement a corrective action plan to correct the deficiencies that were the basis of the Secretary’s determination under subsection (c)(2); and
     - **(B)** the Secretary provides the organization with reasonable notice and opportunity for hearing (including the right to appeal an initial decision) before terminating the contract.
   - **(2)** Paragraph (1) shall not apply if the Secretary determines that a delay in termination, resulting from compliance with the procedures specified in such paragraph prior to termination, would pose an imminent and serious risk to the health of individuals enrolled under this part with the organization.
+  - **(3)** During the period beginning on December 13, 2016 , and through the end of plan year 2018, the Secretary may not terminate a contract under this section with respect to the offering of an MA plan by a Medicare Advantage organization solely because the MA plan has failed to achieve a minimum quality rating under the 5-star rating system under section 1395w–23( o )(4) of this title.
 - **(i)**
   - **(1)** To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity’s employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
   - **(2)** To facilitate the offering of MA plans by employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity’s employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such MA plans. Notwithstanding section 1395w–21(g) of this title , an MA plan described in the previous sentence may restrict the enrollment of individuals under this part to individuals who are beneficiaries and participants in such plan.
-  - **(3)** During the period beginning on December 13, 2016 , and through the end of plan year 2018, the Secretary may not terminate a contract under this section with respect to the offering of an MA plan by a Medicare Advantage organization solely because the MA plan has failed to achieve a minimum quality rating under the 5-star rating system under section 1395w–23( o )(4) of this title.

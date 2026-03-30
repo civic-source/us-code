@@ -3,9 +3,9 @@ title: "Section 3871a - Definitions"
 usc_title: 16
 usc_section: "3871a"
 chapter: 58
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 3871a"
-generated_at: "2026-03-30T06:11:22.885Z"
+generated_at: "2026-03-30T06:13:20.125Z"
 status: "active"
 ---
 

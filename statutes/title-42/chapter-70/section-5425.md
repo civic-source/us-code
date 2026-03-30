@@ -3,9 +3,9 @@ title: "Section 5425 - Repealed. Pub. L. 106–569, title VI , § 611(1), Dec. 2
 usc_title: 42
 usc_section: "5425"
 chapter: 70
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 5425"
-generated_at: "2026-03-30T06:12:18.248Z"
+generated_at: "2026-03-30T06:14:10.975Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6372 - Additional leave bank programs"
 usc_title: 5
 usc_section: "6372"
 chapter: 63
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 6372"
-generated_at: "2026-03-30T06:10:48.499Z"
+generated_at: "2026-03-30T06:12:52.788Z"
 status: "active"
 ---
 

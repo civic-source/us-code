@@ -3,9 +3,9 @@ title: "Section 773f - Civil penalties"
 usc_title: 16
 usc_section: "773f"
 chapter: 10
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 773f"
-generated_at: "2026-03-30T06:11:22.801Z"
+generated_at: "2026-03-30T06:13:20.043Z"
 status: "active"
 ---
 

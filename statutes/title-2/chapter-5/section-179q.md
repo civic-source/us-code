@@ -3,9 +3,9 @@ title: "Section 179q - Seal of National Film Registry"
 usc_title: 2
 usc_section: "179q"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 179q"
-generated_at: "2026-03-30T06:10:43.803Z"
+generated_at: "2026-03-30T06:12:46.629Z"
 status: "active"
 ---
 

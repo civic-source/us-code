@@ -3,9 +3,9 @@ title: "Section 1268 - Great Lakes"
 usc_title: 33
 usc_section: "1268"
 chapter: 26
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 1268"
-generated_at: "2026-03-30T06:11:57.222Z"
+generated_at: "2026-03-30T06:13:49.848Z"
 status: "active"
 ---
 
@@ -169,22 +169,22 @@ status: "active"
     - **(B)** There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2010.
 - **(d)**
   - **(1)** There is established within the National Oceanic and Atmospheric Administration the Great Lakes Research Office.
-  - **(2)** The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 2 2 So in original. Probably should be capitalized. with respect to such issues.
-  - **(3)** The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system, 2 and shall update that inventory every four years.
+  - **(2)** The Research Office shall identify issues relating to the Great Lakes resources on which research is needed. The Research Office shall submit a report to Congress on such issues before the end of each fiscal year which shall identify any changes in the Great Lakes system 3 3 So in original. Probably should be capitalized. with respect to such issues.
+  - **(3)** The Research Office shall identify and inventory Federal, State, university, and tribal environmental research programs (and, to the extent feasible, those of private organizations and other nations) relating to the Great Lakes system, 3 and shall update that inventory every four years.
   - **(4)** The Research Office shall establish a Great Lakes research exchange for the purpose of facilitating the rapid identification, acquisition, retrieval, dissemination, and use of information concerning research projects which are ongoing or completed and which affect the Great Lakes System.
-  - **(5)** The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system. 2 The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
+  - **(5)** The Research Office shall develop, in cooperation with the Coordination Office, a comprehensive environmental research program and data base for the Great Lakes system. 3 The data base shall include, but not be limited to, data relating to water quality, fisheries, and biota.
   - **(6)** The Research Office shall conduct, through the Great Lakes Environmental Research Laboratory, the National Sea Grant College program, other Federal laboratories, and the private sector, appropriate research and monitoring activities which address priority issues and current needs relating to the Great Lakes.
   - **(7)** The Research Office shall be located in a Great Lakes State.
 - **(e)**
   - **(1)** Before October 1 of each year, the Program Office and the Research Office shall prepare a joint research plan for the fiscal year which begins in the following calendar year.
   - **(2)** Each plan prepared under paragraph (1) shall—
-    - **(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 3 3 So in original.
+    - **(A)** identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; 1
     - **(B)** include the Agency’s assessment of priorities for research needed to fulfill the terms of such Agreement; and
     - **(C)** identify all proposed research that may be used to develop a comprehensive environmental data base for the Great Lakes System and establish priorities for development of such data base.
   - **(3)**
     - **(A)** Not later than September 30, 1994 , the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of this report, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
     - **(B)** There is authorized to be appropriated to the Administrator to carry out this section not to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
-- **(f)** The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,. 3
+- **(f)** The head of each department, agency, or other instrumentality of the Federal Government which is engaged in, is concerned with, or has authority over programs relating to research, monitoring, and planning to maintain, enhance, preserve, or rehabilitate the environmental quality and natural resources of the Great Lakes, including the Chief of Engineers of the Army, the Chief of the Soil Conservation Service, the Commandant of the Coast Guard, the Director of the Fish and Wildlife Service, and the Administrator of the National Oceanic and Atmospheric Administration, shall submit an annual report to the Administrator with respect to the activities of that agency or office affecting compliance with the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,. 1
 - **(g)** Nothing in this section shall be construed—
   - **(1)** to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
   - **(2)** to affect any other Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.

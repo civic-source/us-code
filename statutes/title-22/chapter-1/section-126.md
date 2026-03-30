@@ -3,9 +3,9 @@ title: "Section 126 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(14), 
 usc_title: 22
 usc_section: "126"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 126"
-generated_at: "2026-03-30T06:11:34.166Z"
+generated_at: "2026-03-30T06:13:30.446Z"
 status: "repealed"
 ---
 

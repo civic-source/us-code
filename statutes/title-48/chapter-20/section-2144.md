@@ -1,15 +1,15 @@
 ---
-title: "Section 2144 - Review of activities to ensure compliance with fiscal plan"
+title: "Section 2144 - Review of activities to ensure compliance with Fiscal Plan"
 usc_title: 48
 usc_section: "2144"
 chapter: 20
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "48 U.S.C. § 2144"
-generated_at: "2026-03-30T06:12:21.115Z"
+generated_at: "2026-03-30T06:14:13.728Z"
 status: "active"
 ---
 
-# § 2144. Review of activities to ensure compliance with fiscal plan
+# § 2144. Review of activities to ensure compliance with Fiscal Plan
 
 - **(a)**
   - **(1)** Except to the extent that the Oversight Board may provide otherwise in its bylaws, rules, and procedures, not later than 7 business days after a territorial government duly enacts any law during any fiscal year in which the Oversight Board is in operation, the Governor shall submit the law to the Oversight Board.

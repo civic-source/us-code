@@ -3,9 +3,9 @@ title: "Section 31110 - Authorization of appropriations"
 usc_title: 49
 usc_section: "31110"
 chapter: 311
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 31110"
-generated_at: "2026-03-30T06:12:29.296Z"
+generated_at: "2026-03-30T06:14:17.848Z"
 status: "active"
 ---
 

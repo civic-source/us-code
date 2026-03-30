@@ -3,9 +3,9 @@ title: "Section 210310 - Records and inspection"
 usc_title: 36
 usc_section: "210310"
 chapter: 2103
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "36 U.S.C. § 210310"
-generated_at: "2026-03-30T06:11:59.340Z"
+generated_at: "2026-03-30T06:13:52.490Z"
 status: "active"
 ---
 

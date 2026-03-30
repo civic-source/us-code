@@ -3,9 +3,9 @@ title: "Section 5613 - Voluntary and uncompensated services"
 usc_title: 42
 usc_section: "5613"
 chapter: 72
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 5613"
-generated_at: "2026-03-30T06:12:18.251Z"
+generated_at: "2026-03-30T06:14:10.978Z"
 status: "active"
 ---
 

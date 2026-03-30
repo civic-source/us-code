@@ -3,9 +3,9 @@ title: "Section 19 - Partial payment of claims on defaulted mortgages and in con
 usc_title: 12
 usc_section: "19"
 chapter: 13
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 19"
-generated_at: "2026-03-30T06:11:05.145Z"
+generated_at: "2026-03-30T06:13:07.779Z"
 status: "active"
 ---
 

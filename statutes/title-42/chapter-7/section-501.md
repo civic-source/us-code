@@ -3,9 +3,9 @@ title: "Section 501 - Use of available funds"
 usc_title: 42
 usc_section: "501"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 501"
-generated_at: "2026-03-30T06:12:17.943Z"
+generated_at: "2026-03-30T06:14:10.681Z"
 status: "active"
 ---
 

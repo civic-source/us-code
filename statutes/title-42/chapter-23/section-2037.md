@@ -3,9 +3,9 @@ title: "Section 2037 - Repealed. Pub. L. 99–661, div. C, title I , § 3137(c),
 usc_title: 42
 usc_section: "2037"
 chapter: 23
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 2037"
-generated_at: "2026-03-30T06:12:18.160Z"
+generated_at: "2026-03-30T06:14:10.889Z"
 status: "repealed"
 ---
 

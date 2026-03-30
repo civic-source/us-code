@@ -3,9 +3,9 @@ title: "Section 6244 - Silver star medal"
 usc_title: 10
 usc_section: "6244"
 chapter: 567
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 6244"
-generated_at: "2026-03-30T06:11:00.221Z"
+generated_at: "2026-03-30T06:13:02.664Z"
 status: "active"
 ---
 

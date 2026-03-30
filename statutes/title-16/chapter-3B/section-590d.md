@@ -3,9 +3,9 @@ title: "Section 590d - Cooperation of governmental agencies; officers and employ
 usc_title: 16
 usc_section: "590d"
 chapter: 3
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 590d"
-generated_at: "2026-03-30T06:11:22.784Z"
+generated_at: "2026-03-30T06:13:20.026Z"
 status: "active"
 ---
 

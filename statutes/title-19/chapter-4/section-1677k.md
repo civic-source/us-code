@@ -3,9 +3,9 @@ title: "Section 1677k - Third-country dumping"
 usc_title: 19
 usc_section: "1677k"
 chapter: 4
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 1677k"
-generated_at: "2026-03-30T06:11:11.440Z"
+generated_at: "2026-03-30T06:13:14.537Z"
 status: "active"
 ---
 

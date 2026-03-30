@@ -3,9 +3,9 @@ title: "Section 1451 - Congressional findings"
 usc_title: 16
 usc_section: "1451"
 chapter: 33
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 1451"
-generated_at: "2026-03-30T06:11:22.844Z"
+generated_at: "2026-03-30T06:13:20.084Z"
 status: "active"
 ---
 

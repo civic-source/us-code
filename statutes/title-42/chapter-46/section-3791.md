@@ -3,9 +3,9 @@ title: "Section 3791 - General provisions"
 usc_title: 42
 usc_section: "3791"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3791"
-generated_at: "2026-03-30T06:12:18.204Z"
+generated_at: "2026-03-30T06:14:10.931Z"
 status: "active"
 ---
 
@@ -50,5 +50,5 @@ status: "active"
   - **(26)** the term “Indian Tribe” has the meaning given the term “Indian tribe” in section 5304(e) of title 25 ;
   - **(27)** the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof); and
   - **(28)** the term “hearing examiner” includes any medical or claims examiner.
-- **(b)** Where appropriate, the definitions in subsection (a) of this section shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) of this section in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
+- **(b)** Where appropriate, the definitions in subsection (a) shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
 - **(c)** One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.

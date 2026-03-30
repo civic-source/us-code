@@ -3,9 +3,9 @@ title: "Section 3145 - Supplementary grants"
 usc_title: 42
 usc_section: "3145"
 chapter: 38
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3145"
-generated_at: "2026-03-30T06:12:18.192Z"
+generated_at: "2026-03-30T06:14:10.919Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(3)** assists projects that are—
     - **(A)** eligible for assistance under this subchapter; and
     - **(B)** consistent with a comprehensive economic development strategy.
-- **(b)** Subject to subsection (c) of this section, in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
+- **(b)** Subject to subsection (c), in order to assist eligible recipients in taking advantage of designated Federal grant programs, on the application of an eligible recipient, the Secretary may make a supplementary grant for a project for which the recipient is eligible but for which the recipient cannot provide the required non-Federal share because of the economic situation of the recipient.
 - **(c)**
   - **(1)** The share of the project cost supported by a supplementary grant under this section may not exceed the applicable Federal share under section 3144 of this title .
   - **(2)** The Secretary shall make supplementary grants by—

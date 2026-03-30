@@ -3,9 +3,9 @@ title: "Section 142a - Office of administrative assistant and disbursing officer
 usc_title: 2
 usc_section: "142a"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 142a"
-generated_at: "2026-03-30T06:10:43.800Z"
+generated_at: "2026-03-30T06:12:46.626Z"
 status: "active"
 ---
 

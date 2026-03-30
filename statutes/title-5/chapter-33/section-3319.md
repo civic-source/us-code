@@ -3,9 +3,9 @@ title: "Section 3319 - Alternative ranking and selection procedures"
 usc_title: 5
 usc_section: "3319"
 chapter: 33
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 3319"
-generated_at: "2026-03-30T06:10:48.477Z"
+generated_at: "2026-03-30T06:12:52.768Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(B)** provide up to 10 business days for employees of the other appointing authority to apply for the position; and
     - **(C)** review the qualifications of employees submitting an application.
   - **(6)** Nothing in this subsection limits any collective bargaining obligation of an agency under chapter 71.
-  - **(7)** Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 3317(b) and 3318(c), as applicable, are satisfied.
+  - **(7)** Notwithstanding paragraphs (1) and (2), an appointing official may not pass over a preference eligible in the same category from which selection is made, unless the requirements of section 1 1 So in original. 3317(b) and 1 3318(c), as applicable, are satisfied.
 - **(d)** Each agency that establishes a category rating system under this section shall submit in each of the 3 years following that establishment, a report to Congress on that system including information on—
   - **(1)** the number of employees hired under that system;
   - **(2)** the impact that system has had on the hiring of veterans and minorities, including those who are American Indian or Alaska Natives, Asian, Black or African American, and native Hawaiian or other Pacific Islanders; and

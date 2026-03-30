@@ -3,9 +3,9 @@ title: "Section 902 - Definitions"
 usc_title: 45
 usc_section: "902"
 chapter: 18
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "45 U.S.C. § 902"
-generated_at: "2026-03-30T06:12:07.423Z"
+generated_at: "2026-03-30T06:14:01.170Z"
 status: "active"
 ---
 

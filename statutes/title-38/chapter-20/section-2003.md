@@ -3,9 +3,9 @@ title: "Section 2003 - Staffing requirements"
 usc_title: 38
 usc_section: "2003"
 chapter: 20
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 2003"
-generated_at: "2026-03-30T06:12:01.174Z"
+generated_at: "2026-03-30T06:13:53.577Z"
 status: "active"
 ---
 

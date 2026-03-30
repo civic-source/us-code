@@ -3,9 +3,9 @@ title: "Section 1973h - Transferred"
 usc_title: 42
 usc_section: "1973h"
 chapter: 20
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 1973h"
-generated_at: "2026-03-30T06:12:18.149Z"
+generated_at: "2026-03-30T06:14:10.878Z"
 status: "transferred"
 ---
 

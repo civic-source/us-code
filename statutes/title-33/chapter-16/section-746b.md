@@ -3,9 +3,9 @@ title: "Section 746b - Repealed. Aug. 4, 1949, ch. 393 , § 20, 63 Stat. 565"
 usc_title: 33
 usc_section: "746b"
 chapter: 16
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 746b"
-generated_at: "2026-03-30T06:11:57.212Z"
+generated_at: "2026-03-30T06:13:49.836Z"
 status: "repealed"
 ---
 

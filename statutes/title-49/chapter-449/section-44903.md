@@ -3,9 +3,9 @@ title: "Section 44903 - Air transportation security"
 usc_title: 49
 usc_section: "44903"
 chapter: 449
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 44903"
-generated_at: "2026-03-30T06:12:29.318Z"
+generated_at: "2026-03-30T06:14:17.873Z"
 status: "active"
 ---
 
@@ -32,7 +32,7 @@ status: "active"
       - **(ii)** the methods the airport operator will use to monitor and audit the tenant’s compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
     - **(B)** If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
     - **(C)** The Secretary of Transportation may require airports to maximize the use of technology and equipment that is designed to detect or neutralize potential chemical or biological weapons.
-  - **(3)** The Administrator shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
+  - **(3)** The Administrator 1 1 So in original. Probably should be “Under Secretary”. shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
 - **(d)** With the approval of the Attorney General and the Secretary of State, the Secretary of Transportation may authorize an individual who carries out air transportation security duties—
   - **(1)** to carry firearms; and
   - **(2)** to make arrests without warrant for an offense against the United States committed in the presence of the individual or for a felony under the laws of the United States, if the individual reasonably believes the individual to be arrested has committed or is committing a felony.
@@ -72,7 +72,7 @@ status: "active"
     - **(D)** best practices for incorporating biometric identifier technology into airport access control systems in the most effective manner, including a process to best utilize existing airport access control systems, facilities, and equipment and existing data networks connecting airports.
   - **(6)**
     - **(A)** Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the Secretary of Homeland Security, in consultation with the Attorney General, shall—
-      - **(i)** implement this section 1 1 So in original. Probably should be “paragraph”. by publication in the Federal Register; and
+      - **(i)** implement this section 2 2 So in original. Probably should be “paragraph”. by publication in the Federal Register; and
       - **(ii)** establish a national registered armed law enforcement program, that shall be federally managed, for law enforcement officers needing to be armed when traveling by commercial aircraft.
     - **(B)** The program shall—
       - **(i)** establish a credential or a system that incorporates biometric technology and other applicable technologies;

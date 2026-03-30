@@ -3,9 +3,9 @@ title: "Section 1435 - Eligible beneficiaries"
 usc_title: 10
 usc_section: "1435"
 chapter: 73
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 1435"
-generated_at: "2026-03-30T06:11:00.153Z"
+generated_at: "2026-03-30T06:13:02.598Z"
 status: "active"
 ---
 

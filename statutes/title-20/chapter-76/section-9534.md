@@ -3,9 +3,9 @@ title: "Section 9534 - Standards for conduct and evaluation of research"
 usc_title: 20
 usc_section: "9534"
 chapter: 76
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 9534"
-generated_at: "2026-03-30T06:11:20.613Z"
+generated_at: "2026-03-30T06:13:17.841Z"
 status: "active"
 ---
 

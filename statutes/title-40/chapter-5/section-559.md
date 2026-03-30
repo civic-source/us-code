@@ -3,9 +3,9 @@ title: "Section 559 - Advice of Attorney General with respect to antitrust law"
 usc_title: 40
 usc_section: "559"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "40 U.S.C. § 559"
-generated_at: "2026-03-30T06:12:00.068Z"
+generated_at: "2026-03-30T06:13:53.980Z"
 status: "active"
 ---
 

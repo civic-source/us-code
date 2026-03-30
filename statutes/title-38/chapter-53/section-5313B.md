@@ -3,9 +3,9 @@ title: "Section 5313B - Prohibition on providing certain benefits with respect t
 usc_title: 38
 usc_section: "5313B"
 chapter: 53
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 5313B"
-generated_at: "2026-03-30T06:12:01.197Z"
+generated_at: "2026-03-30T06:13:53.601Z"
 status: "active"
 ---
 

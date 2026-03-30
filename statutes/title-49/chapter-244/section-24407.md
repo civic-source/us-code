@@ -3,9 +3,9 @@ title: "Section 24407 - Consolidated rail infrastructure and safety improvements
 usc_title: 49
 usc_section: "24407"
 chapter: 244
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 24407"
-generated_at: "2026-03-30T06:12:29.288Z"
+generated_at: "2026-03-30T06:14:17.840Z"
 status: "active"
 ---
 

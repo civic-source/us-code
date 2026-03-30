@@ -3,9 +3,9 @@ title: "Section 3715 - Buying real property of a debtor"
 usc_title: 31
 usc_section: "3715"
 chapter: 37
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "31 U.S.C. § 3715"
-generated_at: "2026-03-30T06:11:56.057Z"
+generated_at: "2026-03-30T06:13:48.933Z"
 status: "active"
 ---
 

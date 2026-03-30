@@ -3,9 +3,9 @@ title: "Section 3058g - State Long-Term Care Ombudsman program"
 usc_title: 42
 usc_section: "3058g"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3058g"
-generated_at: "2026-03-30T06:12:18.190Z"
+generated_at: "2026-03-30T06:14:10.917Z"
 status: "active"
 ---
 
@@ -88,7 +88,7 @@ status: "active"
     - **(C)** the Assistant Secretary; and
     - **(D)** the National Ombudsman Resource Center established in section 3012(a)(18) of this title .
 - **(d)**
-  - **(1)** The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c) of this section.
+  - **(1)** The State agency shall establish procedures for the disclosure by the Ombudsman or local Ombudsman entities of files, records, and other information maintained by the program, including records described in subsection (b)(1) or (c).
   - **(2)** The procedures described in paragraph (1) shall—
     - **(A)** provide that, subject to subparagraph (B), the files, records, and other information described in paragraph (1) may be disclosed only at the discretion of the Ombudsman (or the person designated by the Ombudsman to disclose the files, records, and other information);
     - **(B)** prohibit the disclosure of the identity of any complainant or resident with respect to whom the Office maintains such files, records, or other information unless—
@@ -139,7 +139,7 @@ status: "active"
 - **(h)** The State agency shall require the Office to—
   - **(1)** prepare an annual report—
     - **(A)** describing the activities carried out by the Office in the year for which the report is prepared;
-    - **(B)** containing and analyzing the data collected under subsection (c) of this section;
+    - **(B)** containing and analyzing the data collected under subsection (c);
     - **(C)** evaluating the problems experienced by, and the complaints made by or on behalf of, residents;
     - **(D)** containing recommendations for—
       - **(i)** improving quality of the care and life of the residents; and
@@ -162,7 +162,7 @@ status: "active"
       - **(ii)** investigative techniques; and
       - **(iii)** such other matters as the State determines to be appropriate; and
     - **(C)** specify an annual number of hours of in-service training for all designated representatives;
-  - **(6)** prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) of this section unless the representative—
+  - **(6)** prohibit any representative of the Office (other than the Ombudsman) from carrying out any activity described in subparagraphs (A) through (G) of subsection (a)(3) unless the representative—
     - **(A)** has received the training required under paragraph (5); and
     - **(B)** has been approved by the Ombudsman as qualified to carry out the activity on behalf of the Office;
   - **(7)** coordinate ombudsman services with the protection and advocacy systems for individuals with developmental disabilities and mental illnesses established under—

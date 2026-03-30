@@ -3,9 +3,9 @@ title: "Section 40907 - Museums"
 usc_title: 51
 usc_section: "40907"
 chapter: 409
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "51 U.S.C. § 40907"
-generated_at: "2026-03-30T06:12:31.894Z"
+generated_at: "2026-03-30T06:14:19.979Z"
 status: "active"
 ---
 

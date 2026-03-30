@@ -3,9 +3,9 @@ title: "Section 2326 - Enhanced penalties"
 usc_title: 18
 usc_section: "2326"
 chapter: 113
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 2326"
-generated_at: "2026-03-30T06:11:14.097Z"
+generated_at: "2026-03-30T06:13:15.952Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 887 - Repealed. Pub. L. 86–723 , § 52(1), Sept. 8, 1960 , 74 
 usc_title: 22
 usc_section: "887"
 chapter: 14
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 887"
-generated_at: "2026-03-30T06:11:34.187Z"
+generated_at: "2026-03-30T06:13:30.552Z"
 status: "repealed"
 ---
 

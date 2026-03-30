@@ -3,9 +3,9 @@ title: "Section 1713 - Machine-readable visa fees"
 usc_title: 8
 usc_section: "1713"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "8 U.S.C. § 1713"
-generated_at: "2026-03-30T06:10:53.467Z"
+generated_at: "2026-03-30T06:12:58.893Z"
 status: "active"
 ---
 
@@ -14,4 +14,4 @@ status: "active"
 - **(a)**
 - **(b)** The machine-readable visa fee charged by the Department of State shall be the higher of $65 or the cost of the machine-readable visa service, as determined by the Secretary of State after conducting a study of the cost of such service.
 - **(c)** The Department of State is authorized to charge a surcharge of $10, in addition to the machine-readable visa fee, for issuing a machine-readable visa in a nonmachine-readable passport.
-- **(d)** Notwithstanding any other provision of law, amounts collected as fees described in this section shall be credited as an offsetting collection to any appropriation for the Department of State to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.
+- **(d)** Notwithstanding any other provision of law, amounts collected as fees described in this section shall be deposited in the Consular and Border Security Programs account to recover costs of providing consular services. Amounts so credited shall be available, until expended, for the same purposes as the appropriation to which credited.

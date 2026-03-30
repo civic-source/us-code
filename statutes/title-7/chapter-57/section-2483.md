@@ -3,9 +3,9 @@ title: "Section 2483 - Contents and term of plant variety protection"
 usc_title: 7
 usc_section: "2483"
 chapter: 57
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 2483"
-generated_at: "2026-03-30T06:10:56.486Z"
+generated_at: "2026-03-30T06:12:57.744Z"
 status: "active"
 ---
 

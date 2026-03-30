@@ -3,9 +3,9 @@ title: "Section 3211 - Powers of Secretary"
 usc_title: 42
 usc_section: "3211"
 chapter: 38
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3211"
-generated_at: "2026-03-30T06:12:18.193Z"
+generated_at: "2026-03-30T06:14:10.920Z"
 status: "active"
 ---
 
@@ -34,7 +34,7 @@ status: "active"
   - **(12)** conduct environmental reviews and incur necessary expenses to evaluate and monitor the environmental impact of economic development assistance provided and proposed to be provided under this chapter, including expenses associated with the representation and defense of the actions of the Secretary relating to the environmental impact of the assistance, using any funds made available to carry out section 3147 of this title ;
   - **(13)** sue and be sued in any court of record of a State having general jurisdiction or in any United States district court, except that no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or the property of the Secretary; and
   - **(14)** establish such rules, regulations, and procedures as the Secretary considers appropriate for carrying out this chapter.
-- **(b)** The authority under subsection (a)(7) of this section to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
+- **(b)** The authority under subsection (a)(7) to pursue claims shall include the authority to obtain deficiency judgments or otherwise pursue claims relating to mortgages assigned to the Secretary.
 - **(c)** Section 6101 of title 41 shall not apply to any contract of hazard insurance or to any purchase or contract for services or supplies on account of property obtained by the Secretary as a result of assistance provided under this chapter if the premium for the insurance or the amount of the services or supplies does not exceed $1,000.
 - **(d)**
   - **(1)** The powers of the Secretary under this section, relating to property acquired by the Secretary in connection with assistance provided under this chapter, shall extend to property interests of the Secretary relating to projects approved under—

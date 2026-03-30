@@ -3,9 +3,9 @@ title: "Section 636g - Development and implementation of major disaster response
 usc_title: 15
 usc_section: "636g"
 chapter: 14
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 636g"
-generated_at: "2026-03-30T06:11:07.626Z"
+generated_at: "2026-03-30T06:13:10.631Z"
 status: "active"
 ---
 

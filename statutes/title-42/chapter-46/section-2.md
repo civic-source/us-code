@@ -1,18 +1,15 @@
 ---
-title: "Section 2 - Grants for programs for drug-endangered children"
+title: "Section 2 - Review of applications"
 usc_title: 42
 usc_section: "2"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T06:12:18.214Z"
+generated_at: "2026-03-30T06:14:10.942Z"
 status: "active"
 ---
 
-# § 3797cc–2. Grants for programs for drug-endangered children
+# § 3797ff–2. Review of applications
 
-- **(a)** The Attorney General shall make grants to States, territories, and Indian tribes (as defined in section 3797d of this title ) for the purpose of carrying out programs to provide comprehensive services to aid children who are living in a home in which methamphetamine or other controlled substances are unlawfully manufactured, distributed, dispensed, or used.
-- **(b)** The Attorney General shall ensure that the services carried out with grants under subsection (a) include the following:
-  - **(1)** Coordination among law enforcement agencies, prosecutors, child protective services, social services, health care services, and any other services determined to be appropriate by the Attorney General to provide assistance regarding the problems of children described in subsection (a).
-  - **(2)** Transition of children from toxic or drug-endangering environments to appropriate residential environments.
-- **(c)** For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.
+The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this subchapter without first affording the applicant reasonable notice of any deficiencies in the application and an opportunity for correction of any such deficiencies and reconsideration.
+

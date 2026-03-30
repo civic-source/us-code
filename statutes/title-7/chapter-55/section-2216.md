@@ -3,9 +3,9 @@ title: "Section 2216 - Repealed. Pub. L. 92–310, title II , § 221(a), June 6,
 usc_title: 7
 usc_section: "2216"
 chapter: 55
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 2216"
-generated_at: "2026-03-30T06:10:56.482Z"
+generated_at: "2026-03-30T06:12:57.739Z"
 status: "repealed"
 ---
 

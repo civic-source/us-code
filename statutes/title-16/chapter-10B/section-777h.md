@@ -3,9 +3,9 @@ title: "Section 777h - Requirements and restrictions concerning use of amounts f
 usc_title: 16
 usc_section: "777h"
 chapter: 10
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 777h"
-generated_at: "2026-03-30T06:11:22.803Z"
+generated_at: "2026-03-30T06:13:20.044Z"
 status: "active"
 ---
 

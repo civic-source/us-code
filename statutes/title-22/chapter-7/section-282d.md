@@ -3,9 +3,9 @@ title: "Section 282d - Federal Reserve banks as depositories"
 usc_title: 22
 usc_section: "282d"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 282d"
-generated_at: "2026-03-30T06:11:34.175Z"
+generated_at: "2026-03-30T06:13:30.456Z"
 status: "active"
 ---
 

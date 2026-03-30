@@ -3,9 +3,9 @@ title: "Section 106 - Constitution Day and Citizenship Day"
 usc_title: 36
 usc_section: "106"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "36 U.S.C. § 106"
-generated_at: "2026-03-30T06:11:59.323Z"
+generated_at: "2026-03-30T06:13:52.474Z"
 status: "active"
 ---
 

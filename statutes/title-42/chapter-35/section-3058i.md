@@ -3,16 +3,16 @@ title: "Section 3058i - Prevention of elder abuse, neglect, and exploitation"
 usc_title: 42
 usc_section: "3058i"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3058i"
-generated_at: "2026-03-30T06:12:18.190Z"
+generated_at: "2026-03-30T06:14:10.918Z"
 status: "active"
 ---
 
 # § 3058i. Prevention of elder abuse, neglect, and exploitation
 
 - **(a)** In order to be eligible to receive an allotment under section 3058b of this title from funds appropriated under section 3058a of this title and made available to carry out this subpart, a State agency shall, in accordance with this section, and in consultation with area agencies on aging, develop and enhance programs to address elder abuse, neglect, and exploitation.
-- **(b)** The State agency shall use an allotment made under subsection (a) of this section to carry out, through the programs described in subsection (a) of this section, activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation, including—
+- **(b)** The State agency shall use an allotment made under subsection (a) to carry out, through the programs described in subsection (a), activities to develop, strengthen, and carry out programs for the prevention, detection, assessment, and treatment of, intervention in, investigation of, and response to elder abuse, neglect, and exploitation, including—
   - **(1)** providing for public education and outreach to identify and prevent elder abuse, neglect, and exploitation;
   - **(2)** providing for public education and outreach to promote financial literacy and prevent identity theft and financial exploitation of older individuals;
   - **(3)** ensuring the coordination of services provided by area agencies on aging with services instituted under the State adult protection service program, State and local law enforcement systems, and courts of competent jurisdiction;
@@ -52,8 +52,8 @@ status: "active"
     - **(A)** older individuals living in rural locations;
     - **(B)** older individuals in minority populations; or
     - **(C)** low-income older individuals.
-- **(c)** In developing and enhancing programs under subsection (a) of this section, the State agency shall use a comprehensive approach, in consultation with area agencies on aging, to identify and assist older individuals who are subject to abuse, neglect, and exploitation, including older individuals who live in State licensed facilities, unlicensed facilities, or domestic or community-based settings.
-- **(d)** In developing and enhancing programs under subsection (a) of this section, the State agency shall coordinate the programs with other State and local programs and services for the protection of vulnerable adults, particularly vulnerable older individuals, including programs and services such as—
+- **(c)** In developing and enhancing programs under subsection (a), the State agency shall use a comprehensive approach, in consultation with area agencies on aging, to identify and assist older individuals who are subject to abuse, neglect, and exploitation, including older individuals who live in State licensed facilities, unlicensed facilities, or domestic or community-based settings.
+- **(d)** In developing and enhancing programs under subsection (a), the State agency shall coordinate the programs with other State and local programs and services for the protection of vulnerable adults, particularly vulnerable older individuals, including programs and services such as—
   - **(1)** area agency on aging programs;
   - **(2)** adult protective service programs;
   - **(3)** the State Long-Term Care Ombudsman program established in subpart II of this part;
@@ -62,9 +62,9 @@ status: "active"
   - **(6)** medicaid fraud and abuse services, including services provided by a State medicaid fraud control unit, as defined in section 1396b(q) of this title ;
   - **(7)** victim assistance programs; and
   - **(8)** consumer protection and State and local law enforcement programs, as well as other State and local programs that identify and assist vulnerable older individuals, and services provided by agencies and courts of competent jurisdiction.
-- **(e)** In developing and enhancing programs under subsection (a) of this section, the State agency shall—
+- **(e)** In developing and enhancing programs under subsection (a), the State agency shall—
   - **(1)** not permit involuntary or coerced participation in such programs by alleged victims, abusers, or members of their households;
-  - **(2)** require that all information gathered in the course of receiving a report described in subsection (b)(10)(B)(i) of this section, and making a referral described in subsection (b)(10)(B)(ii) of this section, shall remain confidential except—
+  - **(2)** require that all information gathered in the course of receiving a report described in subsection (b)(10)(B)(i), and making a referral described in subsection (b)(10)(B)(ii), shall remain confidential except—
     - **(A)** if all parties to such complaint or report consent in writing to the release of such information;
     - **(B)** if the release of such information is to a law enforcement agency, public protective service agency, licensing or certification agency, ombudsman program, or protection or advocacy system; or
     - **(C)** upon court order; and

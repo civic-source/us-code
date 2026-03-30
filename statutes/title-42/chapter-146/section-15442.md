@@ -3,9 +3,9 @@ title: "Section 15442 - Transferred"
 usc_title: 42
 usc_section: "15442"
 chapter: 146
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 15442"
-generated_at: "2026-03-30T06:12:18.467Z"
+generated_at: "2026-03-30T06:14:11.190Z"
 status: "transferred"
 ---
 

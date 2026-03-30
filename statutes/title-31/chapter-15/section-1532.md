@@ -3,9 +3,9 @@ title: "Section 1532 - Withdrawal and credit"
 usc_title: 31
 usc_section: "1532"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "31 U.S.C. § 1532"
-generated_at: "2026-03-30T06:11:56.053Z"
+generated_at: "2026-03-30T06:13:48.927Z"
 status: "active"
 ---
 

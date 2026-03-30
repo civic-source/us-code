@@ -3,9 +3,9 @@ title: "Section 325 - Payment and disposition of compensation"
 usc_title: 25
 usc_section: "325"
 chapter: 8
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 325"
-generated_at: "2026-03-30T06:11:41.046Z"
+generated_at: "2026-03-30T06:13:23.267Z"
 status: "active"
 ---
 

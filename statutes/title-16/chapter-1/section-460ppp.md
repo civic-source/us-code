@@ -3,9 +3,9 @@ title: "Section 460ppp - Findings"
 usc_title: 16
 usc_section: "460ppp"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 460ppp"
-generated_at: "2026-03-30T06:11:22.761Z"
+generated_at: "2026-03-30T06:13:20.003Z"
 status: "active"
 ---
 

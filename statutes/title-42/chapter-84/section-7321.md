@@ -3,16 +3,16 @@ title: "Section 7321 - National Energy Policy Plan"
 usc_title: 42
 usc_section: "7321"
 chapter: 84
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 7321"
-generated_at: "2026-03-30T06:12:18.299Z"
+generated_at: "2026-03-30T06:14:11.026Z"
 status: "active"
 ---
 
 # § 7321. National Energy Policy Plan
 
 - **(a)** The President shall—
-  - **(1)** prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b) of this section;
+  - **(1)** prepare and submit to the Congress a proposed National Energy Policy Plan (hereinafter in this subchapter referred to as a “proposed Plan”) as provided in subsection (b);
   - **(2)** seek the active participation by regional, State, and local agencies and instrumentalities and the private sector through public hearings in cities and rural communities and other appropriate means to insure that the views and proposals of all segments of the economy are taken into account in the formulation and review of such proposed Plan;
   - **(3)** include within the proposed Plan a comprehensive summary of data pertaining to all fuel and energy needs of persons residing in—
     - **(A)** areas outside standard metropolitan statistical areas; and

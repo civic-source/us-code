@@ -3,9 +3,9 @@ title: "Section 284 - Support for counterdrug activities and activities to count
 usc_title: 10
 usc_section: "284"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 284"
-generated_at: "2026-03-30T06:11:00.111Z"
+generated_at: "2026-03-30T06:13:02.558Z"
 status: "active"
 ---
 
@@ -46,7 +46,7 @@ status: "active"
   - **(2)** In providing support for a purpose described in this subsection, the Secretary shall coordinate with the Secretary of State.
 - **(d)** In carrying out subsection (a), the Secretary may acquire services or equipment by contract for support provided under that subsection if the Department of Defense would normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department.
 - **(e)** Notwithstanding section 376 1 1 See References in Text note below. of this title, the Secretary may provide support pursuant to subsection (a) in any case in which the Secretary determines that the provision of such support would adversely affect the military preparedness of the United States in the short term if the Secretary determines that the importance of providing such support outweighs such short-term adverse effect.
-- **(f)** In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 ( Public Law 101–189 ; 103 Stat. 1564 ) for the purpose of aiding civilian law enforcement agencies.
+- **(f)** In providing support pursuant to subsection (a), the Secretary may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 ( Public Law 101–189 ; 103 Stat. 1564 ) 2 2 So in original. Another closing parenthesis probably should appear. for the purpose of aiding civilian law enforcement agencies.
 - **(g)**
   - **(1)** The authority provided in this section for the support of counterdrug activities or activities to counter transnational organized crime by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the other requirements of this chapter.
   - **(2)** Support under this section shall be subject to the provisions of section 375 1 and, except as provided in subsection (e), section 376 1 of this title.

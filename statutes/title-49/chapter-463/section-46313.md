@@ -3,9 +3,9 @@ title: "Section 46313 - Refusing to appear or produce records"
 usc_title: 49
 usc_section: "46313"
 chapter: 463
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 46313"
-generated_at: "2026-03-30T06:12:29.323Z"
+generated_at: "2026-03-30T06:14:17.879Z"
 status: "active"
 ---
 

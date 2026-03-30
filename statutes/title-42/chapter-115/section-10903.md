@@ -3,9 +3,9 @@ title: "Section 10903 - Definitions"
 usc_title: 42
 usc_section: "10903"
 chapter: 115
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 10903"
-generated_at: "2026-03-30T06:12:18.392Z"
+generated_at: "2026-03-30T06:14:11.116Z"
 status: "active"
 ---
 

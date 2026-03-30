@@ -3,9 +3,9 @@ title: "Section 4840 - Final settlement of officer’s accounts"
 usc_title: 10
 usc_section: "4840"
 chapter: 453
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 4840"
-generated_at: "2026-03-30T06:11:00.217Z"
+generated_at: "2026-03-30T06:13:02.660Z"
 status: "active"
 ---
 

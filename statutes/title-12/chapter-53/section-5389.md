@@ -3,9 +3,9 @@ title: "Section 5389 - Rulemaking; non-conflicting law"
 usc_title: 12
 usc_section: "5389"
 chapter: 53
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 5389"
-generated_at: "2026-03-30T06:11:05.254Z"
+generated_at: "2026-03-30T06:13:07.870Z"
 status: "active"
 ---
 

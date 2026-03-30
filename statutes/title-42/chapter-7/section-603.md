@@ -3,9 +3,9 @@ title: "Section 603 - Grants to States"
 usc_title: 42
 usc_section: "603"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 603"
-generated_at: "2026-03-30T06:12:17.943Z"
+generated_at: "2026-03-30T06:14:10.682Z"
 status: "active"
 ---
 
@@ -13,9 +13,9 @@ status: "active"
 
 - **(a)**
   - **(1)**
-    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for fiscal year 2012, a grant in an amount equal to the State family assistance grant.
-    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
-    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 $16,566,542,000 for grants under this paragraph.
+    - **(A)** Each eligible State shall be entitled to receive from the Secretary, for each of fiscal years 2017 and 2018, a grant in an amount equal to the State family assistance grant.
+    - **(B)** The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012 ), reduced by the percentage specified in section 413(h)(1) with respect to the fiscal year, as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+    - **(C)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 $16,566,542,000 for grants under this paragraph.
   - **(2)**
     - **(A)**
       - **(i)** Subject to subparagraphs (B), (C), and (E), the Secretary may use the funds made available under subparagraph (D) for the purpose of conducting and supporting research and demonstration projects by public or private entities, and providing technical assistance to States, Indian tribes and tribal organizations, and such other entities as the Secretary may specify that are receiving a grant under another provision of this part.
@@ -45,7 +45,7 @@ status: "active"
         - **(II)** Activities to promote responsible parenting through activities such as counseling, mentoring, and mediation, disseminating information about good parenting practices, skills-based parenting education, encouraging child support payments, and other methods.
         - **(III)** Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
         - **(IV)** Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
-    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012 for expenditure in accordance with this paragraph—
+    - **(D)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018 for expenditure in accordance with this paragraph—
       - **(i)** $75,000,000 for awarding funds for the purpose of carrying out healthy marriage promotion activities; and
       - **(ii)** $75,000,000 for awarding funds for the purpose of carrying out activities promoting responsible fatherhood.
     - **(E)** In awarding funds under this paragraph for fiscal year 2011, the Secretary shall give preference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
@@ -200,7 +200,7 @@ status: "active"
     - **(J)** If a State to which a grant is made under this section establishes safeguards against the use or disclosure of information about applicants or recipients of assistance under the State program funded under this part, the safeguards shall not prevent the State agency administering the program from furnishing to a private industry council the names, addresses, telephone numbers, and identifying case number information in the State program funded under this part, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under this paragraph.
 - **(b)**
   - **(1)** There is hereby established in the Treasury of the United States a fund which shall be known as the “Contingency Fund for State Welfare Programs” (in this section referred to as the “Fund”).
-  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.
+  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2018 such sums as are necessary for payment to the Fund in a total amount not to exceed $608,000,000.
   - **(3)**
     - **(A)** If an eligible State submits to the Secretary a request for funds under this paragraph during an eligible month, the Secretary shall, subject to this paragraph, pay to the State, from amounts appropriated pursuant to paragraph (2), an amount equal to the amount of funds so requested.
     - **(B)** The Secretary shall make payments under subparagraph (A) in the order in which the Secretary receives requests for such payments.

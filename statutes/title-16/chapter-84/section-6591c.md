@@ -3,9 +3,9 @@ title: "Section 6591c - Stewardship end result contracting projects"
 usc_title: 16
 usc_section: "6591c"
 chapter: 84
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 6591c"
-generated_at: "2026-03-30T06:11:22.902Z"
+generated_at: "2026-03-30T06:13:20.140Z"
 status: "active"
 ---
 
@@ -36,9 +36,9 @@ status: "active"
       - **(ii)** may—
         - **(I)** be determined using a unit of measure appropriate to the contracts; and
         - **(II)** may include valuing products on a per-acre basis.
-  - **(5)** Notwithstanding subsections (d) and (g) of section 472a of this title , the Chief may enter into an agreement or contract under subsection (b).
+  - **(5)** Notwithstanding subsections (d) and (g) of section 472a of this title , the Chief may enter into an agreement or contract under subsection (b). Notwithstanding the Materials Act of 1947 ( 30 U.S.C. 602(a) ), 1 1 See References in Text note below. the Director may enter into an agreement or contract under subsection (b).
   - **(6)** Notwithstanding any other provision of law, the Secretary or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (b).
-  - **(7)** Not later than 90 days after February 7, 2014 , the Chief and the Director shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
+  - **(7)** Not later than 90 days after February 7, 2014 , the Chief shall issue for use in all contracts and agreements under this section fire liability provisions that are in substantially the same form as the fire liability provisions contained in—
     - **(A)** integrated resource timber contracts, as described in the Forest Service contract numbered 2400–13, part H, section H.4; and
     - **(B)** timber sale contracts conducted pursuant to section 472a of this title .
 - **(e)**

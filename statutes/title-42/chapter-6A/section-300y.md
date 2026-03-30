@@ -3,9 +3,9 @@ title: "Section 300y - Data infrastructure development"
 usc_title: 42
 usc_section: "300y"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 300y"
-generated_at: "2026-03-30T06:12:17.901Z"
+generated_at: "2026-03-30T06:14:10.641Z"
 status: "active"
 ---
 

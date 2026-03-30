@@ -3,9 +3,9 @@ title: "Section 825 - Labeling and packaging"
 usc_title: 21
 usc_section: "825"
 chapter: 13
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "21 U.S.C. § 825"
-generated_at: "2026-03-30T06:11:26.409Z"
+generated_at: "2026-03-30T06:13:24.760Z"
 status: "active"
 ---
 

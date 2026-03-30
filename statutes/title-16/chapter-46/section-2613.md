@@ -3,9 +3,9 @@ title: "Section 2613 - Federal contracts"
 usc_title: 16
 usc_section: "2613"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 2613"
-generated_at: "2026-03-30T06:11:22.866Z"
+generated_at: "2026-03-30T06:13:20.106Z"
 status: "active"
 ---
 

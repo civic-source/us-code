@@ -3,9 +3,9 @@ title: "Section 501 - Definitions and application"
 usc_title: 49
 usc_section: "501"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 501"
-generated_at: "2026-03-30T06:12:29.257Z"
+generated_at: "2026-03-30T06:14:17.806Z"
 status: "active"
 ---
 

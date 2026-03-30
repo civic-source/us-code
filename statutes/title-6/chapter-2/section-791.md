@@ -3,9 +3,9 @@ title: "Section 791 - Advance contracting"
 usc_title: 6
 usc_section: "791"
 chapter: 2
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "6 U.S.C. § 791"
-generated_at: "2026-03-30T06:10:50.554Z"
+generated_at: "2026-03-30T06:12:59.455Z"
 status: "active"
 ---
 

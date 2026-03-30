@@ -3,9 +3,9 @@ title: "Section 484 - Protection of uniform"
 usc_title: 14
 usc_section: "484"
 chapter: 13
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "14 U.S.C. § 484"
-generated_at: "2026-03-30T06:11:02.354Z"
+generated_at: "2026-03-30T06:13:04.683Z"
 status: "active"
 ---
 

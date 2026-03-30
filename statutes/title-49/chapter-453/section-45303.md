@@ -3,9 +3,9 @@ title: "Section 45303 - Administrative provisions"
 usc_title: 49
 usc_section: "45303"
 chapter: 453
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 45303"
-generated_at: "2026-03-30T06:12:29.322Z"
+generated_at: "2026-03-30T06:14:17.878Z"
 status: "active"
 ---
 

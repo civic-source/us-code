@@ -3,9 +3,9 @@ title: "Section 3788 - Personnel and administrative authority"
 usc_title: 42
 usc_section: "3788"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3788"
-generated_at: "2026-03-30T06:12:18.203Z"
+generated_at: "2026-03-30T06:14:10.930Z"
 status: "active"
 ---
 

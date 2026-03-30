@@ -3,9 +3,9 @@ title: "Section 1163 - Embezzlement and theft from Indian tribal organizations"
 usc_title: 18
 usc_section: "1163"
 chapter: 53
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 1163"
-generated_at: "2026-03-30T06:11:14.081Z"
+generated_at: "2026-03-30T06:13:15.936Z"
 status: "active"
 ---
 

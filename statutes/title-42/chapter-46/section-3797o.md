@@ -3,9 +3,9 @@ title: "Section 3797o - Reports"
 usc_title: 42
 usc_section: "3797o"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3797o"
-generated_at: "2026-03-30T06:12:18.211Z"
+generated_at: "2026-03-30T06:14:10.938Z"
 status: "active"
 ---
 
@@ -19,4 +19,4 @@ status: "active"
   - **(5)** such other information as the Attorney General may require.
 - **(b)** Not later than 90 days after the last day of each fiscal year for which 1 or more grants are awarded under this subchapter, the Attorney General shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report, which shall include—
   - **(1)** the aggregate amount of grants awarded under this subchapter for that fiscal year; and
-  - **(2)** a summary of the information provided under subsection (a) of this section.
+  - **(2)** a summary of the information provided under subsection (a).

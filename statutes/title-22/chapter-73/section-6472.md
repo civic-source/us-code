@@ -3,9 +3,9 @@ title: "Section 6472 - Reform of refugee policy"
 usc_title: 22
 usc_section: "6472"
 chapter: 73
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 6472"
-generated_at: "2026-03-30T06:11:34.269Z"
+generated_at: "2026-03-30T06:13:30.640Z"
 status: "active"
 ---
 

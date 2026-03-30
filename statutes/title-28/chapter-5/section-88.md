@@ -3,9 +3,9 @@ title: "Section 88 - District of Columbia"
 usc_title: 28
 usc_section: "88"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "28 U.S.C. § 88"
-generated_at: "2026-03-30T06:11:43.990Z"
+generated_at: "2026-03-30T06:13:37.461Z"
 status: "active"
 ---
 

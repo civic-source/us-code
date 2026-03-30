@@ -3,9 +3,9 @@ title: "Section 13022 - Grants for juvenile and family court personnel"
 usc_title: 42
 usc_section: "13022"
 chapter: 132
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 13022"
-generated_at: "2026-03-30T06:12:18.432Z"
+generated_at: "2026-03-30T06:14:11.155Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 302 - Indian Reform School; rules and regulations; consent of pa
 usc_title: 25
 usc_section: "302"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 302"
-generated_at: "2026-03-30T06:11:41.044Z"
+generated_at: "2026-03-30T06:13:23.266Z"
 status: "active"
 ---
 

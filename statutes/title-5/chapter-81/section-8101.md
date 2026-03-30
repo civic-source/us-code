@@ -3,9 +3,9 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T06:10:48.504Z"
+generated_at: "2026-03-30T06:12:52.793Z"
 status: "active"
 ---
 
@@ -19,8 +19,8 @@ For the purpose of this subchapter—
     - **(C)** an individual, other than an independent contractor or an individual employed by an independent contractor, employed on the Menominee Indian Reservation in Wisconsin in operations conducted under a statute relating to tribal timber and logging operations on that reservation;
     - **(D)** an individual employed by the government of the District of Columbia;
     - **(E)** an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 ( 72 Stat. 838 );
-    - **(F)** 1 an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
-    - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 5165f of title 42 ;
+    - **(F)** an individual selected pursuant to chapter 121 of title 28, and serving as a petit or grand juror; and
+    - **(G)** an individual who is a System member of the National Urban Search and Rescue Response System during a period of appointment into Federal service pursuant to section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act;
       - **(i)** a commissioned officer of the Regular Corps of the Public Health Service;
       - **(ii)** a commissioned officer of the Reserve Corps of the Public Health Service on active duty;
       - **(iii)** a commissioned officer of the Environmental Science Services Administration; or

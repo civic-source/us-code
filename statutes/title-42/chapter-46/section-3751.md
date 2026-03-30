@@ -3,9 +3,9 @@ title: "Section 3751 - Description"
 usc_title: 42
 usc_section: "3751"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3751"
-generated_at: "2026-03-30T06:12:18.202Z"
+generated_at: "2026-03-30T06:14:10.928Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(G)** Crime victim and witness programs (other than compensation).
     - **(H)** Mental health programs and related law enforcement and corrections programs, including behavioral programs and crisis intervention teams.
   - **(2)** Paragraph (1) shall be construed to ensure that a grant under that paragraph may be used for any purpose for which a grant was authorized to be used under either or both of the programs specified in section 3750(b) of this title , as those programs were in effect immediately before January 5, 2006 .
-- **(b)** A State or unit of local government may, in using a grant under this part for purposes authorized by subsection (a) of this section, use all or a portion of that grant to contract with or make one or more subawards to one or more—
+- **(b)** A State or unit of local government may, in using a grant under this part for purposes authorized by subsection (a), use all or a portion of that grant to contract with or make one or more subawards to one or more—
   - **(1)** neighborhood or community-based organizations that are private and nonprofit; or
   - **(2)** units of local government.
 - **(c)**

@@ -3,9 +3,9 @@ title: "Section 1005 - San Francisco-Oakland Bay Bridge tolls; Government traffi
 usc_title: 15
 usc_section: "1005"
 chapter: 19
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 1005"
-generated_at: "2026-03-30T06:11:07.653Z"
+generated_at: "2026-03-30T06:13:10.659Z"
 status: "active"
 ---
 

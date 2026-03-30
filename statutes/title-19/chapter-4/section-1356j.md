@@ -3,9 +3,9 @@ title: "Section 1356j - Omitted"
 usc_title: 19
 usc_section: "1356j"
 chapter: 4
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 1356j"
-generated_at: "2026-03-30T06:11:11.420Z"
+generated_at: "2026-03-30T06:13:14.517Z"
 status: "omitted"
 ---
 

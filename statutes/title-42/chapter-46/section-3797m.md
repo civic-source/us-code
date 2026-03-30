@@ -3,9 +3,9 @@ title: "Section 3797m - Use of grants"
 usc_title: 42
 usc_section: "3797m"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3797m"
-generated_at: "2026-03-30T06:12:18.211Z"
+generated_at: "2026-03-30T06:14:10.938Z"
 status: "active"
 ---
 
@@ -18,14 +18,14 @@ status: "active"
   - **(4)** To address emerging forensic science issues (such as statistics, contextual bias, and uncertainty of measurement) and emerging forensic science technology (such as high throughput automation, statistical software, and new types of instrumentation).
   - **(5)** To educate and train forensic pathologists.
   - **(6)** To fund medicolegal death investigation systems to facilitate accreditation of medical examiner and coroner offices and certification of medicolegal death investigators.
-- **(b)** Subject to subsections (c) and (d) of this section, a grant awarded for the purpose set forth in subsection (a)(1) of this section—
+- **(b)** Subject to subsections (c) and (d), a grant awarded for the purpose set forth in subsection (a)(1)—
   - **(1)** may only be used for program expenses relating to facilities, personnel, computerization, equipment, supplies, accreditation and certification, education, and training; and
   - **(2)** may not be used for any general law enforcement or nonforensic investigatory function.
 - **(c)**
-  - **(1)** With respect to a State that receives a grant under this subchapter (including grants received by units of local government within a State) in an amount that does not exceed 0.6 percent of the total amount made available to carry out this subchapter for a fiscal year, not more than 80 percent of the total amount of the grant may be used for the costs of any new facility constructed as part of a program described in subsection (a) of this section.
+  - **(1)** With respect to a State that receives a grant under this subchapter (including grants received by units of local government within a State) in an amount that does not exceed 0.6 percent of the total amount made available to carry out this subchapter for a fiscal year, not more than 80 percent of the total amount of the grant may be used for the costs of any new facility constructed as part of a program described in subsection (a).
   - **(2)** With respect to a State that receives a grant under this subchapter in an amount that exceeds 0.6 percent of the total amount made available to carry out this subchapter for a fiscal year—
-    - **(A)** not more than 80 percent of the amount of the grant up to that 0.6 percent may be used for the costs of any new facility constructed as part of a program described in subsection (a) of this section; and
-    - **(B)** not more than 40 percent of the amount of the grant in excess of that 0.6 percent may be used for the costs of any new facility constructed as part of a program described in subsection (a) of this section.
+    - **(A)** not more than 80 percent of the amount of the grant up to that 0.6 percent may be used for the costs of any new facility constructed as part of a program described in subsection (a); and
+    - **(B)** not more than 40 percent of the amount of the grant in excess of that 0.6 percent may be used for the costs of any new facility constructed as part of a program described in subsection (a).
 - **(d)** Not more than 10 percent of the total amount of a grant awarded under this subchapter may be used for administrative expenses.
 - **(e)** For purposes of this section, a backlog in the analysis of forensic science evidence exists if such evidence—
   - **(1)** has been stored in a laboratory, medical examiner’s office, coroner’s office, law enforcement storage facility, or medical facility; and

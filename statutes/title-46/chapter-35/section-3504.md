@@ -3,9 +3,9 @@ title: "Section 3504 - Notification to passengers"
 usc_title: 46
 usc_section: "3504"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "46 U.S.C. § 3504"
-generated_at: "2026-03-30T06:12:23.250Z"
+generated_at: "2026-03-30T06:14:15.020Z"
 status: "active"
 ---
 

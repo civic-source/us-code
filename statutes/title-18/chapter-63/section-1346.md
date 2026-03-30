@@ -3,9 +3,9 @@ title: "Section 1346 - Definition of “scheme or artifice to defraud”"
 usc_title: 18
 usc_section: "1346"
 chapter: 63
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 1346"
-generated_at: "2026-03-30T06:11:14.081Z"
+generated_at: "2026-03-30T06:13:15.937Z"
 status: "active"
 ---
 

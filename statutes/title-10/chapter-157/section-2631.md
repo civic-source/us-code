@@ -3,9 +3,9 @@ title: "Section 2631 - Supplies: preference to United States vessels"
 usc_title: 10
 usc_section: "2631"
 chapter: 157
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2631"
-generated_at: "2026-03-30T06:11:00.198Z"
+generated_at: "2026-03-30T06:13:02.641Z"
 status: "active"
 ---
 

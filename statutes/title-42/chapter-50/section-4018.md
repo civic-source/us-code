@@ -3,9 +3,9 @@ title: "Section 4018 - Operating costs and allowances; definitions"
 usc_title: 42
 usc_section: "4018"
 chapter: 50
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 4018"
-generated_at: "2026-03-30T06:12:18.218Z"
+generated_at: "2026-03-30T06:14:10.944Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Administrator shall from time to time negotiate with appropriate representatives of the insurance industry for the purpose of establishing—
   - **(1)** a current schedule of operating costs applicable both to risk-sharing insurance companies and other insurers and to insurance companies and other insurers, insurance agents and brokers, and insurance adjustment organizations participating on other than a risk-sharing basis, and
   - **(2)** a current schedule of operating allowances applicable to risk-sharing insurance companies and other insurers,
-- **(b)** For purposes of subsection (a) of this section—
+- **(b)** For purposes of subsection (a)—
   - **(1)** the term “operating costs” shall (without limiting such term) include—
     - **(A)** expense reimbursements covering the direct, actual, and necessary expenses incurred in connection with selling and servicing flood insurance coverage;
     - **(B)** reasonable compensation payable for selling and servicing flood insurance coverage, or commissions or service fees paid to producers;

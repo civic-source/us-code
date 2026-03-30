@@ -3,9 +3,9 @@ title: "Section 121 - Payment of share of tribal funds to helpless Indians"
 usc_title: 25
 usc_section: "121"
 chapter: 4
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 121"
-generated_at: "2026-03-30T06:11:41.041Z"
+generated_at: "2026-03-30T06:13:23.262Z"
 status: "active"
 ---
 

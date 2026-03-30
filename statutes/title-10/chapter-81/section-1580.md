@@ -3,9 +3,9 @@ title: "Section 1580 - Emergency essential employees: designation"
 usc_title: 10
 usc_section: "1580"
 chapter: 81
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 1580"
-generated_at: "2026-03-30T06:11:00.160Z"
+generated_at: "2026-03-30T06:13:02.605Z"
 status: "active"
 ---
 

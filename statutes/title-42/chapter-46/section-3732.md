@@ -3,9 +3,9 @@ title: "Section 3732 - Bureau of Justice Statistics"
 usc_title: 42
 usc_section: "3732"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3732"
-generated_at: "2026-03-30T06:12:18.202Z"
+generated_at: "2026-03-30T06:14:10.928Z"
 status: "active"
 ---
 
@@ -46,6 +46,6 @@ status: "active"
     - **(E)** encourage replication, coordination and sharing among justice agencies regarding information systems, information policy, and data; and
     - **(F)** confer and cooperate with Federal statistical agencies as needed to carry out the purposes of this subchapter, including by entering into cooperative data sharing agreements in conformity with all laws and regulations applicable to the disclosure and use of data.
   - **(2)** The Director, acting jointly with the Assistant Secretary for Indian Affairs (acting through the Office of Justice Services) and the Director of the Federal Bureau of Investigation, shall work with Indian tribes and tribal law enforcement agencies to establish and implement such tribal data collection systems as the Director determines to be necessary to achieve the purposes of this section.
-- **(e)** Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(1)(C) of this section shall provide such information to the Bureau as is required to carry out the purposes of this section.
+- **(e)** Federal agencies requested to furnish information, data, or reports pursuant to subsection (d)(1)(C) shall provide such information to the Bureau as is required to carry out the purposes of this section.
 - **(f)** In recommending standards for gathering justice statistics under this section, the Director shall consult with representatives of State, tribal, and local government, including, where appropriate, representatives of the judiciary.
 - **(g)** Not later than 1 year after July 29, 2010 , and annually thereafter, the Director shall submit to Congress a report describing the data collected and analyzed under this section relating to crimes in Indian country.

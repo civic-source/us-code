@@ -3,9 +3,9 @@ title: "Section 3797a - Program authorized"
 usc_title: 42
 usc_section: "3797a"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3797a"
-generated_at: "2026-03-30T06:12:18.211Z"
+generated_at: "2026-03-30T06:14:10.938Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(6)** Any other measure that, in the determination of the Director, may provide a significant improvement in security.
 - **(c)** In awarding grants under this subchapter, the Director shall give preferential consideration, if feasible, to an application from a jurisdiction that has a demonstrated need for improved security, has a demonstrated need for financial assistance, and has evidenced the ability to make the improvements for which the grant amounts are sought.
 - **(d)**
-  - **(1)** The portion of the costs of a program provided by a grant under subsection (a) of this section may not exceed 50 percent.
+  - **(1)** The portion of the costs of a program provided by a grant under subsection (a) may not exceed 50 percent.
   - **(2)** Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
   - **(3)** The Director may provide, in the guidelines implementing this section, for the requirement of paragraph (1) to be waived or altered in the case of a recipient with a financial need for such a waiver or alteration.
 - **(e)** In awarding grants under this subchapter, the Director shall ensure, to the extent practicable, an equitable geographic distribution among the regions of the United States and among urban, suburban, and rural areas.

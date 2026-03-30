@@ -3,9 +3,9 @@ title: "Section 1181b - Cooperative agreements with other agencies or private ow
 usc_title: 43
 usc_section: "1181b"
 chapter: 28
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "43 U.S.C. § 1181b"
-generated_at: "2026-03-30T06:12:03.906Z"
+generated_at: "2026-03-30T06:14:03.259Z"
 status: "active"
 ---
 

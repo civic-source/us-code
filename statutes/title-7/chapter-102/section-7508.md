@@ -3,9 +3,9 @@ title: "Section 7508 - Authorization and appropriations"
 usc_title: 7
 usc_section: "7508"
 chapter: 102
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 7508"
-generated_at: "2026-03-30T06:10:56.534Z"
+generated_at: "2026-03-30T06:12:57.793Z"
 status: "active"
 ---
 

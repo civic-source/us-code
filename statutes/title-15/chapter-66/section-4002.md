@@ -3,9 +3,9 @@ title: "Section 4002 - Definitions"
 usc_title: 15
 usc_section: "4002"
 chapter: 66
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 4002"
-generated_at: "2026-03-30T06:11:07.720Z"
+generated_at: "2026-03-30T06:13:10.765Z"
 status: "active"
 ---
 

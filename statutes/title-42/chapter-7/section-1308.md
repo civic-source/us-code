@@ -3,9 +3,9 @@ title: "Section 1308 - Additional grants to Puerto Rico, Virgin Islands, Guam, a
 usc_title: 42
 usc_section: "1308"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 1308"
-generated_at: "2026-03-30T06:12:17.968Z"
+generated_at: "2026-03-30T06:14:10.707Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
     - **(B)** the sum of—
       - **(i)** the amount of the family assistance grant payable to the territory without regard to section 609 of this title ; and
       - **(ii)** the total amount expended by the territory during fiscal year 1995 pursuant to parts A and F of subchapter IV (as so in effect), other than for child care.
-  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for fiscal year 2012, such sums as are necessary for grants under this paragraph.
+  - **(2)** Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2017 and 2018, such sums as are necessary for grants under this paragraph.
 - **(c)** As used in this section:
   - **(1)** The term “territory” means Puerto Rico, the Virgin Islands, Guam, and American Samoa.
   - **(2)** The term “ceiling amount” means, with respect to a territory and a fiscal year, the mandatory ceiling amount with respect to the territory, reduced for the fiscal year in accordance with subsection (e), 1 1 See References in Text note below. and reduced by the amount of any penalty imposed on the territory under any provision of law specified in subsection (a) during the fiscal year.
@@ -62,5 +62,7 @@ status: "active"
     - **(C)** For Guam, $2,500,000 for fiscal year 2006 and $5,000,000 for fiscal year 2007.
     - **(D)** For the Northern Mariana Islands, $1,000,000 for fiscal year 2006 and $2,000,000 for fiscal year 2007.
     - **(E)** For American Samoa, $2,000,000 for fiscal year 2006 and $4,000,000 for fiscal year 2007.
-  - **(4)** With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title for a calendar quarter of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
-  - **(5)** The Secretary shall increase the amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa (after the application of subsection (f) and the preceding paragraphs of this subsection) for the period beginning July 1, 2011 , and ending on September 30, 2019 , by such amounts that the total additional payments under subchapter XIX to such territories equals $6,300,000,000 for such period. The Secretary shall increase such amounts in proportion to the amounts applicable to such territories under this subsection and subsection (f) on March 30, 2010 .
+  - **(4)** With respect to fiscal years beginning with fiscal year 2009, if Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa qualify for a payment under subparagraph (A)(i), (B), or (F) of section 1396b(a)(3) of this title and with respect to fiscal years beginning with fiscal year 2017, if Puerto Rico qualifies for a payment under section 1396b(a)(6) of this title for a calendar quarter (beginning on or after July 1, 2017 ) of such fiscal year for a calendar quarter of such fiscal year, the payment shall not be taken into account in applying subsection (f) (as increased in accordance with paragraphs (1), (2), (3), and (4) of this subsection) to such commonwealth or territory for such fiscal year.
+  - **(5)**
+    - **(A)** Subject to subparagraph (B), the Secretary shall increase the amounts otherwise determined under this subsection for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa (after the application of subsection (f) and the preceding paragraphs of this subsection) for the period beginning July 1, 2011 , and ending on September 30, 2019 , by such amounts that the total additional payments under subchapter XIX to such territories equals $6,300,000,000 for such period. The Secretary shall increase such amounts in proportion to the amounts applicable to such territories under this subsection and subsection (f) on March 30, 2010 .
+    - **(B)** The amount of the increase otherwise provided under subparagraph (A) for Puerto Rico shall be further increased by $295,900,000.

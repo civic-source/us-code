@@ -3,9 +3,9 @@ title: "Section 7541 - Short title"
 usc_title: 20
 usc_section: "7541"
 chapter: 70
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 7541"
-generated_at: "2026-03-30T06:11:20.600Z"
+generated_at: "2026-03-30T06:13:17.830Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2304 - Identification of right to payment and expedited claim pa
 usc_title: 25
 usc_section: "2304"
 chapter: 25
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 2304"
-generated_at: "2026-03-30T06:11:41.077Z"
+generated_at: "2026-03-30T06:13:23.299Z"
 status: "active"
 ---
 

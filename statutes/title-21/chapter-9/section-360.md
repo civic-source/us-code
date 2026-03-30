@@ -3,9 +3,9 @@ title: "Section 360 - Registration of producers of drugs or devices"
 usc_title: 21
 usc_section: "360"
 chapter: 9
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "21 U.S.C. § 360"
-generated_at: "2026-03-30T06:11:26.371Z"
+generated_at: "2026-03-30T06:13:24.721Z"
 status: "active"
 ---
 
@@ -121,5 +121,5 @@ status: "active"
   - **(1)** Not later than 180 days after December 13, 2016 , the Secretary shall identify and publish a list of reusable device types for which reports under subsection (k) are required to include—
     - **(A)** instructions for use, which have been validated in a manner specified by the Secretary; and
     - **(B)** validation data, the types of which shall be specified by the Secretary;
-  - **(2)** The Secretary shall revise the list under paragraph (2), 3 3 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
+  - **(2)** The Secretary shall revise the list under paragraph (2), 2 2 So in original. Probably should be “paragraph (1),”. as the Secretary determines appropriate, with notice in the Federal Register.
   - **(3)** Reports under subsection (k) that are submitted after the publication of the list described in paragraph (1), for devices or types of devices included on such list, shall include such instructions for use and validation data.

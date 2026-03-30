@@ -3,9 +3,9 @@ title: "Section 2456 - Coordination with General Services Administration"
 usc_title: 10
 usc_section: "2456"
 chapter: 145
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2456"
-generated_at: "2026-03-30T06:11:00.191Z"
+generated_at: "2026-03-30T06:13:02.634Z"
 status: "active"
 ---
 

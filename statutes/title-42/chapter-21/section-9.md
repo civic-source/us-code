@@ -3,9 +3,9 @@ title: "Section 9 - Conduct of hearings and investigations pursuant to section 1
 usc_title: 42
 usc_section: "9"
 chapter: 21
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-03-30T06:12:18.154Z"
+generated_at: "2026-03-30T06:14:10.883Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2148 - Duration of entitlement"
 usc_title: 10
 usc_section: "2148"
 chapter: 106
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2148"
-generated_at: "2026-03-30T06:11:00.169Z"
+generated_at: "2026-03-30T06:13:02.613Z"
 status: "active"
 ---
 

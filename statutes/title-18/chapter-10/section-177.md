@@ -3,9 +3,9 @@ title: "Section 177 - Injunctions"
 usc_title: 18
 usc_section: "177"
 chapter: 10
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 177"
-generated_at: "2026-03-30T06:11:14.062Z"
+generated_at: "2026-03-30T06:13:15.917Z"
 status: "active"
 ---
 

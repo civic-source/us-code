@@ -3,9 +3,9 @@ title: "Section 205f - Duties of Board"
 usc_title: 15
 usc_section: "205f"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 205f"
-generated_at: "2026-03-30T06:11:07.611Z"
+generated_at: "2026-03-30T06:13:10.617Z"
 status: "active"
 ---
 

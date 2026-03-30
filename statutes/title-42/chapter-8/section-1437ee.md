@@ -3,9 +3,9 @@ title: "Section 1437ee - Repealed. Pub. L. 104–330, title V , § 501(a), Oct. 
 usc_title: 42
 usc_section: "1437ee"
 chapter: 8
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 1437ee"
-generated_at: "2026-03-30T06:12:18.113Z"
+generated_at: "2026-03-30T06:14:10.843Z"
 status: "repealed"
 ---
 

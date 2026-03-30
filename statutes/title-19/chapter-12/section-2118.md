@@ -3,9 +3,9 @@ title: "Section 2118 - Access to supplies"
 usc_title: 19
 usc_section: "2118"
 chapter: 12
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 2118"
-generated_at: "2026-03-30T06:11:11.445Z"
+generated_at: "2026-03-30T06:13:14.541Z"
 status: "active"
 ---
 

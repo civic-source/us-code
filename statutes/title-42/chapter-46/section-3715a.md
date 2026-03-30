@@ -3,9 +3,9 @@ title: "Section 3715a - Consolidation of financial management systems of Office 
 usc_title: 42
 usc_section: "3715a"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3715a"
-generated_at: "2026-03-30T06:12:18.202Z"
+generated_at: "2026-03-30T06:14:10.928Z"
 status: "active"
 ---
 
@@ -21,5 +21,5 @@ status: "active"
 - **(d)**
   - **(1)** The Assistant Attorney General shall undertake a scheduled consolidation of operations to achieve compliance with the requirements of this section.
   - **(2)** With respect to achieving compliance with the requirements of—
-    - **(A)** subsection (a) of this section, the consolidation of operations shall be initiated not later than 90 days after January 5, 2006 ; and
-    - **(B)** subsections (b) and (c) of this section, the consolidation of operations shall be initiated not later than September 30, 2006 , and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.
+    - **(A)** subsection (a), the consolidation of operations shall be initiated not later than 90 days after January 5, 2006 ; and
+    - **(B)** subsections (b) and (c), the consolidation of operations shall be initiated not later than September 30, 2006 , and shall be carried out by the Office of Administration, in consultation with the Chief Information Officer and the Office of Audit, Assessment, and Management.

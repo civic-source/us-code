@@ -3,9 +3,9 @@ title: "Section 45L - New energy efficient home credit"
 usc_title: 26
 usc_section: "45L"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 45L"
-generated_at: "2026-03-30T06:11:50.773Z"
+generated_at: "2026-03-30T06:13:46.191Z"
 status: "active"
 ---
 

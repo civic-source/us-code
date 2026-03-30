@@ -3,9 +3,9 @@ title: "Section 846 - Art. 46. Opportunity to obtain witnesses and other evidenc
 usc_title: 10
 usc_section: "846"
 chapter: 47
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 846"
-generated_at: "2026-03-30T06:11:00.127Z"
+generated_at: "2026-03-30T06:13:02.573Z"
 status: "active"
 ---
 

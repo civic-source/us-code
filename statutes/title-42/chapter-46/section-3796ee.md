@@ -3,9 +3,9 @@ title: "Section 3796ee - Program authorized"
 usc_title: 42
 usc_section: "3796ee"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3796ee"
-generated_at: "2026-03-30T06:12:18.206Z"
+generated_at: "2026-03-30T06:14:10.933Z"
 status: "active"
 ---
 

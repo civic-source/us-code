@@ -3,9 +3,9 @@ title: "Section 1444b - Feed grains; price support program"
 usc_title: 7
 usc_section: "1444b"
 chapter: 35
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 1444b"
-generated_at: "2026-03-30T06:10:56.432Z"
+generated_at: "2026-03-30T06:12:57.691Z"
 status: "active"
 ---
 

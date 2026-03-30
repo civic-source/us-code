@@ -3,9 +3,9 @@ title: "Section 4181 - Termination of Indian housing assistance under United Sta
 usc_title: 25
 usc_section: "4181"
 chapter: 43
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 4181"
-generated_at: "2026-03-30T06:11:41.093Z"
+generated_at: "2026-03-30T06:13:23.315Z"
 status: "active"
 ---
 

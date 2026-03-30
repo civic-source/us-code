@@ -3,9 +3,9 @@ title: "Section 3515e - Transfer of functions regarding independent living to De
 usc_title: 42
 usc_section: "3515e"
 chapter: 43
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3515e"
-generated_at: "2026-03-30T06:12:18.195Z"
+generated_at: "2026-03-30T06:14:10.923Z"
 status: "active"
 ---
 

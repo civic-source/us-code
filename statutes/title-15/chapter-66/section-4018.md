@@ -3,9 +3,9 @@ title: "Section 4018 - Annual reports"
 usc_title: 15
 usc_section: "4018"
 chapter: 66
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "15 U.S.C. § 4018"
-generated_at: "2026-03-30T06:11:07.721Z"
+generated_at: "2026-03-30T06:13:10.766Z"
 status: "active"
 ---
 

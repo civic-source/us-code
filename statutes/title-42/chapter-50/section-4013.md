@@ -3,9 +3,9 @@ title: "Section 4013 - Nature and limitation of insurance coverage"
 usc_title: 42
 usc_section: "4013"
 chapter: 50
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 4013"
-generated_at: "2026-03-30T06:12:18.216Z"
+generated_at: "2026-03-30T06:14:10.943Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
   - **(4)** appropriate minimum premiums;
   - **(5)** appropriate loss-deductibles; and
   - **(6)** any other terms and conditions relating to insurance coverage or exclusion which may be necessary to carry out the purposes of this chapter.
-- **(b)** In addition to any other terms and conditions under subsection (a) of this section, such regulations shall provide that—
+- **(b)** In addition to any other terms and conditions under subsection (a), such regulations shall provide that—
   - **(1)** any flood insurance coverage based on chargeable premium rates under section 4015 of this title which are less than the estimated premium rates under section 4014(a)(1) of this title shall not exceed—
     - **(A)** in the case of residential properties—
       - **(i)** $35,000 aggregate liability for any single-family dwelling, and $100,000 for any residential structure containing more than one dwelling unit,

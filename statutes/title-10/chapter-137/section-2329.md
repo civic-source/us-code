@@ -3,9 +3,9 @@ title: "Section 2329 - Repealed. Pub. L. 103–355, title I , § 1506(a), Oct. 1
 usc_title: 10
 usc_section: "2329"
 chapter: 137
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2329"
-generated_at: "2026-03-30T06:11:00.180Z"
+generated_at: "2026-03-30T06:13:02.625Z"
 status: "repealed"
 ---
 

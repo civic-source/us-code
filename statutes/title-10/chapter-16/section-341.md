@@ -3,9 +3,9 @@ title: "Section 341 - Department of Defense State Partnership Program"
 usc_title: 10
 usc_section: "341"
 chapter: 16
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 341"
-generated_at: "2026-03-30T06:11:00.113Z"
+generated_at: "2026-03-30T06:13:02.559Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(A)** for payment of costs incurred by the National Guard of a State or territory to conduct activities under a program established under subsection (a); and
     - **(B)** for payment of incremental expenses of a foreign country to conduct activities under a program established under subsection (a).
   - **(2)**
-    - **(A)** Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation
+    - **(A)** Funds shall not be available under paragraph (1) for the participation of a member of the National Guard of a State or territory in activities in a foreign country unless the member is on active duty in the Armed Forces at the time of such participation 1 1 So in original. Probably should be followed by a period.
     - **(B)** The total amount of payments for incremental expenses of foreign countries as authorized under paragraph (1)(B) for activities under programs established under subsection (a) in any fiscal year may not exceed $10,000,000.
 - **(f)**
   - **(1)** Not later than February 1 following each of fiscal years 2016, 2017, and 2018, the Secretary of Defense shall submit to the appropriate congressional committees a report on activities under each program established under subsection (a) during such fiscal year.

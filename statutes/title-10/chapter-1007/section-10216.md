@@ -3,9 +3,9 @@ title: "Section 10216 - Military technicians (dual status)"
 usc_title: 10
 usc_section: "10216"
 chapter: 1007
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 10216"
-generated_at: "2026-03-30T06:11:00.238Z"
+generated_at: "2026-03-30T06:13:02.680Z"
 status: "active"
 ---
 

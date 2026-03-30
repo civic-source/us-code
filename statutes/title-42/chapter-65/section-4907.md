@@ -3,9 +3,9 @@ title: "Section 4907 - Labeling"
 usc_title: 42
 usc_section: "4907"
 chapter: 65
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 4907"
-generated_at: "2026-03-30T06:12:18.230Z"
+generated_at: "2026-03-30T06:14:10.957Z"
 status: "active"
 ---
 
@@ -14,5 +14,5 @@ status: "active"
 - **(a)** The Administrator shall by regulation designate any product (or class thereof)—
   - **(1)** which emits noise capable of adversely affecting the public health or welfare; or
   - **(2)** which is sold wholly or in part on the basis of its effectiveness in reducing noise.
-- **(b)** For each product (or class thereof) designated under subsection (a) of this section the Administrator shall by regulation require that notice be given to the prospective user of the level of the noise the product emits, or of its effectiveness in reducing noise, as the case may be. Such regulations shall specify (1) whether such notice shall be affixed to the product or to the outside of its container, or to both, at the time of its sale to the ultimate purchaser or whether such notice shall be given to the prospective user in some other manner, (2) the form of the notice, and (3) the methods and units of measurement to be used. Section 4905(c)(2) of this title shall apply to the prescribing of any regulation under this section.
+- **(b)** For each product (or class thereof) designated under subsection (a) the Administrator shall by regulation require that notice be given to the prospective user of the level of the noise the product emits, or of its effectiveness in reducing noise, as the case may be. Such regulations shall specify (1) whether such notice shall be affixed to the product or to the outside of its container, or to both, at the time of its sale to the ultimate purchaser or whether such notice shall be given to the prospective user in some other manner, (2) the form of the notice, and (3) the methods and units of measurement to be used. Section 4905(c)(2) of this title shall apply to the prescribing of any regulation under this section.
 - **(c)** This section does not prevent any State or political subdivision thereof from regulating product labeling or information respecting products in any way not in conflict with regulations prescribed by the Administrator under this section.

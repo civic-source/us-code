@@ -3,9 +3,9 @@ title: "Section 2200f - Inapplicability to Coast Guard"
 usc_title: 10
 usc_section: "2200f"
 chapter: 112
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 2200f"
-generated_at: "2026-03-30T06:11:00.171Z"
+generated_at: "2026-03-30T06:13:02.615Z"
 status: "active"
 ---
 

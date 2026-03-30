@@ -3,9 +3,9 @@ title: "Section 504 - Administration"
 usc_title: 39
 usc_section: "504"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "39 U.S.C. § 504"
-generated_at: "2026-03-30T06:12:01.370Z"
+generated_at: "2026-03-30T06:13:51.469Z"
 status: "active"
 ---
 

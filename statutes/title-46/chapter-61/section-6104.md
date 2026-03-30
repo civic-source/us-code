@@ -3,9 +3,9 @@ title: "Section 6104 - Commercial fishing industry vessel casualty statistics"
 usc_title: 46
 usc_section: "6104"
 chapter: 61
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "46 U.S.C. § 6104"
-generated_at: "2026-03-30T06:12:23.253Z"
+generated_at: "2026-03-30T06:14:15.024Z"
 status: "active"
 ---
 

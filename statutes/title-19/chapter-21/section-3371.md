@@ -3,9 +3,9 @@ title: "Section 3371 - NAFTA article impact in import relief cases under Trade A
 usc_title: 19
 usc_section: "3371"
 chapter: 21
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 3371"
-generated_at: "2026-03-30T06:11:11.470Z"
+generated_at: "2026-03-30T06:13:14.565Z"
 status: "active"
 ---
 

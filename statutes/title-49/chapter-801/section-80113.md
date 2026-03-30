@@ -3,9 +3,9 @@ title: "Section 80113 - Liability for nonreceipt, misdescription, and improper l
 usc_title: 49
 usc_section: "80113"
 chapter: 801
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 80113"
-generated_at: "2026-03-30T06:12:29.335Z"
+generated_at: "2026-03-30T06:14:17.893Z"
 status: "active"
 ---
 

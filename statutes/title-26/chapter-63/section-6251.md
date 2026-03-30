@@ -3,9 +3,9 @@ title: "Section 6251 - Administrative adjustment requests"
 usc_title: 26
 usc_section: "6251"
 chapter: 63
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 6251"
-generated_at: "2026-03-30T06:11:50.968Z"
+generated_at: "2026-03-30T06:13:46.384Z"
 status: "active"
 ---
 

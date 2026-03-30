@@ -3,9 +3,9 @@ title: "Section 3822 - Foreign vessels"
 usc_title: 22
 usc_section: "3822"
 chapter: 51
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 3822"
-generated_at: "2026-03-30T06:11:34.242Z"
+generated_at: "2026-03-30T06:13:30.611Z"
 status: "active"
 ---
 

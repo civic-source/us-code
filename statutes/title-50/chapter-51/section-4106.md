@@ -3,9 +3,9 @@ title: "Section 4106 - Religious organizations"
 usc_title: 50
 usc_section: "4106"
 chapter: 51
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 4106"
-generated_at: "2026-03-30T06:12:26.055Z"
+generated_at: "2026-03-30T06:14:15.995Z"
 status: "active"
 ---
 

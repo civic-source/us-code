@@ -3,9 +3,9 @@ title: "Section 1503 - Nonpartisan candidacies permitted"
 usc_title: 5
 usc_section: "1503"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 1503"
-generated_at: "2026-03-30T06:10:48.473Z"
+generated_at: "2026-03-30T06:12:52.765Z"
 status: "active"
 ---
 

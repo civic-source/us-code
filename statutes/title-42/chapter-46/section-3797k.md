@@ -3,9 +3,9 @@ title: "Section 3797k - Applications"
 usc_title: 42
 usc_section: "3797k"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3797k"
-generated_at: "2026-03-30T06:12:18.211Z"
+generated_at: "2026-03-30T06:14:10.938Z"
 status: "active"
 ---
 

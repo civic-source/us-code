@@ -3,9 +3,9 @@ title: "Section 394 - Computation of time"
 usc_title: 2
 usc_section: "394"
 chapter: 12
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 394"
-generated_at: "2026-03-30T06:10:43.808Z"
+generated_at: "2026-03-30T06:12:46.634Z"
 status: "active"
 ---
 

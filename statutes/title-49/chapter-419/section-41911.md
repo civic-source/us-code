@@ -3,9 +3,9 @@ title: "Section 41911 - Repealed. Pub. L. 110–405 , § 2(b)(7)(A), Oct. 13, 20
 usc_title: 49
 usc_section: "41911"
 chapter: 419
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 41911"
-generated_at: "2026-03-30T06:12:29.312Z"
+generated_at: "2026-03-30T06:14:17.868Z"
 status: "repealed"
 ---
 

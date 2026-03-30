@@ -3,9 +3,9 @@ title: "Section 41 - Authority to make grants"
 usc_title: 42
 usc_section: "41"
 chapter: 72
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 41"
-generated_at: "2026-03-30T06:12:18.254Z"
+generated_at: "2026-03-30T06:14:10.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5681 - Content of materials"
 usc_title: 42
 usc_section: "5681"
 chapter: 72
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 5681"
-generated_at: "2026-03-30T06:12:18.253Z"
+generated_at: "2026-03-30T06:14:10.980Z"
 status: "active"
 ---
 

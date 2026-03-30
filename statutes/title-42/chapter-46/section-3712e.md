@@ -3,9 +3,9 @@ title: "Section 3712e - Community Capacity Development Office"
 usc_title: 42
 usc_section: "3712e"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3712e"
-generated_at: "2026-03-30T06:12:18.201Z"
+generated_at: "2026-03-30T06:14:10.927Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(3)** Providing support for inter- and intra-agency task forces and other agreements and for assessment of the effectiveness of programs, projects, approaches, or practices.
   - **(4)** Providing in the assessment of the effectiveness of neighborhood and community-based law enforcement and crime prevention strategies and techniques, in coordination with the National Institute of Justice.
   - **(5)** Any other similar means.
-- **(c)** Training referred to in subsection (a) of this section shall be provided on a regional basis to groups of such participants. In a case in which remedial training is appropriate, as recommended by the Director or the head of any element of the Department, such training may be provided on a local basis to a single such participant.
+- **(c)** Training referred to in subsection (a) shall be provided on a regional basis to groups of such participants. In a case in which remedial training is appropriate, as recommended by the Director or the head of any element of the Department, such training may be provided on a local basis to a single such participant.
 - **(d)** The Director shall—
   - **(1)** identify grants under which clearly beneficial outcomes were obtained, and the characteristics of those grants that were responsible for obtaining those outcomes; and
   - **(2)** incorporate those characteristics into the training provided under this section.

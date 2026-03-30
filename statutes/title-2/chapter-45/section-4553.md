@@ -3,9 +3,9 @@ title: "Section 4553 - Gratuities for survivors of deceased House employees; com
 usc_title: 2
 usc_section: "4553"
 chapter: 45
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 4553"
-generated_at: "2026-03-30T06:10:43.839Z"
+generated_at: "2026-03-30T06:12:46.662Z"
 status: "active"
 ---
 

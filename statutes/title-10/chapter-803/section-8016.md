@@ -3,9 +3,9 @@ title: "Section 8016 - Assistant Secretaries of the Air Force"
 usc_title: 10
 usc_section: "8016"
 chapter: 803
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 8016"
-generated_at: "2026-03-30T06:11:00.230Z"
+generated_at: "2026-03-30T06:13:02.672Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 360g - Judicial review"
 usc_title: 21
 usc_section: "360g"
 chapter: 9
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "21 U.S.C. § 360g"
-generated_at: "2026-03-30T06:11:26.375Z"
+generated_at: "2026-03-30T06:13:24.725Z"
 status: "active"
 ---
 

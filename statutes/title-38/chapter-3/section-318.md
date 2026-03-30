@@ -3,9 +3,9 @@ title: "Section 318 - Center for Women Veterans"
 usc_title: 38
 usc_section: "318"
 chapter: 3
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "38 U.S.C. § 318"
-generated_at: "2026-03-30T06:12:01.160Z"
+generated_at: "2026-03-30T06:13:53.563Z"
 status: "active"
 ---
 

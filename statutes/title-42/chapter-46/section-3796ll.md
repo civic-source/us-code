@@ -3,9 +3,9 @@ title: "Section 3796ll - Program authorized"
 usc_title: 42
 usc_section: "3796ll"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3796ll"
-generated_at: "2026-03-30T06:12:18.210Z"
+generated_at: "2026-03-30T06:14:10.936Z"
 status: "active"
 ---
 
@@ -24,16 +24,16 @@ status: "active"
 - **(d)** Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.50 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated .25 percent.
 - **(e)** A qualifying State, unit of local government, or Indian tribe may not receive more than 5 percent of the total amount appropriated in each fiscal year for grants under this section, except that a State, together with the grantees within the State may not receive more than 20 percent of the total amount appropriated in each fiscal year for grants under this section.
 - **(f)**
-  - **(1)** The portion of the costs of a program provided by a grant under subsection (a) of this section—
+  - **(1)** The portion of the costs of a program provided by a grant under subsection (a)—
     - **(A)** may not exceed 50 percent; and
     - **(B)** shall equal 50 percent, if—
       - **(i)** such grant is to a unit of local government with fewer than 100,000 residents;
       - **(ii)** the Director of the Bureau of Justice Assistance determines that the quantity of vests to be purchased with such grant is reasonable; and
-      - **(iii)** such portion does not cause such grant to violate the requirements of subsection (e) of this section.
+      - **(iii)** such portion does not cause such grant to violate the requirements of subsection (e).
   - **(2)** Any funds appropriated by Congress for the activities of any agency of an Indian tribal government or the Bureau of Indian Affairs performing law enforcement functions on any Indian lands may be used to provide the non-Federal share of a matching requirement funded under this subsection.
   - **(3)** A State, unit of local government, or Indian tribe may not use funding received under any other Federal grant program to pay or defer the cost, in whole or in part, of the matching requirement under paragraph (1).
   - **(4)** The Director may waive in whole or in part, the match requirement of paragraph (1) in the case of fiscal hardship, as determined by the Director.
-- **(g)** Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
+- **(g)** Funds available under this subchapter shall be awarded, without regard to subsection (c), to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 - **(h)**
   - **(1)** In this subsection, the term “appropriated funds” means any amounts that are appropriated for any of fiscal years 2016 through 2020 to carry out this subchapter.
   - **(2)** All appropriated funds that are not obligated on or before December 31, 2022 shall be transferred to the General Fund of the Treasury not later than January 31, 2023 .

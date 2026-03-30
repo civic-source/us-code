@@ -3,16 +3,16 @@ title: "Section 2734c - Employee assignment restrictions"
 usc_title: 22
 usc_section: "2734c"
 chapter: 38
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 2734c"
-generated_at: "2026-03-30T06:11:34.230Z"
+generated_at: "2026-03-30T06:13:30.598Z"
 status: "active"
 ---
 
 # § 2734c. Employee assignment restrictions
 
 - **(a)** The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion.
-- **(b)** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee a report that—
+- **(b)** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee 1 1 So in original. Probably should be “committees”. a report that—
   - **(1)** certifies that such process has been fully implemented;
   - **(2)** includes a detailed description of such process; and
   - **(3)** details the number and nature of assignment restrictions and preclusions for the previous 3 years.

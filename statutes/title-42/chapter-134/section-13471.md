@@ -3,9 +3,9 @@ title: "Section 13471 - Renewable energy"
 usc_title: 42
 usc_section: "13471"
 chapter: 134
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 13471"
-generated_at: "2026-03-30T06:12:18.439Z"
+generated_at: "2026-03-30T06:14:11.163Z"
 status: "active"
 ---
 

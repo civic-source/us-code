@@ -3,9 +3,9 @@ title: "Section 318 - National Advisory Council"
 usc_title: 6
 usc_section: "318"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "6 U.S.C. § 318"
-generated_at: "2026-03-30T06:10:50.535Z"
+generated_at: "2026-03-30T06:12:59.440Z"
 status: "active"
 ---
 

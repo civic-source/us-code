@@ -3,9 +3,9 @@ title: "Section 3 - Protective orders"
 usc_title: 10
 usc_section: "3"
 chapter: 47
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 3"
-generated_at: "2026-03-30T06:11:00.133Z"
+generated_at: "2026-03-30T06:13:02.578Z"
 status: "active"
 ---
 

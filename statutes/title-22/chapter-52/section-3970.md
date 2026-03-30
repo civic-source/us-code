@@ -3,9 +3,9 @@ title: "Section 3970 - Compensation for imprisoned foreign national employees"
 usc_title: 22
 usc_section: "3970"
 chapter: 52
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 3970"
-generated_at: "2026-03-30T06:11:34.244Z"
+generated_at: "2026-03-30T06:13:30.613Z"
 status: "active"
 ---
 

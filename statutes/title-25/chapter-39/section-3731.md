@@ -3,9 +3,9 @@ title: "Section 3731 - Indian and Alaska Native agriculture management education
 usc_title: 25
 usc_section: "3731"
 chapter: 39
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "25 U.S.C. § 3731"
-generated_at: "2026-03-30T06:11:41.088Z"
+generated_at: "2026-03-30T06:13:23.311Z"
 status: "active"
 ---
 

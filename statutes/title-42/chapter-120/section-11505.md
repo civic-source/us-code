@@ -3,9 +3,9 @@ title: "Section 11505 - Coordination with CDBG and UDAG programs"
 usc_title: 42
 usc_section: "11505"
 chapter: 120
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 11505"
-generated_at: "2026-03-30T06:12:18.402Z"
+generated_at: "2026-03-30T06:14:11.126Z"
 status: "active"
 ---
 

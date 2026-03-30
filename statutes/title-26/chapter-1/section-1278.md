@@ -3,9 +3,9 @@ title: "Section 1278 - Definitions and special rules"
 usc_title: 26
 usc_section: "1278"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 1278"
-generated_at: "2026-03-30T06:11:50.898Z"
+generated_at: "2026-03-30T06:13:46.314Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
   - **(1)**
     - **(A)** Except as provided in subparagraph (B), the term “market discount bond” means any bond having market discount.
     - **(B)** The term “market discount bond” shall not include—
-      - **(i)** Any obligation with a fixed maturity date not exceeding 6 months from the date of issue.
+      - **(i)** Any obligation with a fixed maturity date not exceeding 1 year from the date of issue.
       - **(ii)** Any United States savings bond.
       - **(iii)** Any installment obligation to which section 453B applies.
     - **(C)** For purposes of section 1277, the term “market discount bond” shall not include any tax-exempt obligation (as defined in section 1275(a)(3)).

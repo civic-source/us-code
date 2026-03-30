@@ -3,9 +3,9 @@ title: "Section 1347 - Repealed. Pub. L. 94–455, title XIX , § 1951(b)(12)(A)
 usc_title: 26
 usc_section: "1347"
 chapter: 1
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 1347"
-generated_at: "2026-03-30T06:11:50.900Z"
+generated_at: "2026-03-30T06:13:46.316Z"
 status: "repealed"
 ---
 

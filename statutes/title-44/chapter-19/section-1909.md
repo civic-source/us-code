@@ -3,9 +3,9 @@ title: "Section 1909 - Requirements of depository libraries; reports on conditio
 usc_title: 44
 usc_section: "1909"
 chapter: 19
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "44 U.S.C. § 1909"
-generated_at: "2026-03-30T06:12:04.338Z"
+generated_at: "2026-03-30T06:14:00.734Z"
 status: "active"
 ---
 

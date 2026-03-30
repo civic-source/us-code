@@ -3,9 +3,9 @@ title: "Section 4616 - Annual report"
 usc_title: 50
 usc_section: "4616"
 chapter: 56
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 4616"
-generated_at: "2026-03-30T06:12:26.069Z"
+generated_at: "2026-03-30T06:14:16.009Z"
 status: "active"
 ---
 

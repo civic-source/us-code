@@ -3,9 +3,9 @@ title: "Section 0a - Director of Violence Against Women Office"
 usc_title: 42
 usc_section: "0a"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 0a"
-generated_at: "2026-03-30T06:12:18.207Z"
+generated_at: "2026-03-30T06:14:10.934Z"
 status: "active"
 ---
 

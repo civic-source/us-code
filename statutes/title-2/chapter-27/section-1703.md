@@ -3,9 +3,9 @@ title: "Section 1703 - Seal of the National Recording Registry"
 usc_title: 2
 usc_section: "1703"
 chapter: 27
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 1703"
-generated_at: "2026-03-30T06:10:43.827Z"
+generated_at: "2026-03-30T06:12:46.650Z"
 status: "active"
 ---
 

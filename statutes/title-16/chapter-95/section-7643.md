@@ -3,9 +3,9 @@ title: "Section 7643 - Engagement of United States diplomatic missions"
 usc_title: 16
 usc_section: "7643"
 chapter: 95
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 7643"
-generated_at: "2026-03-30T06:11:22.909Z"
+generated_at: "2026-03-30T06:13:20.147Z"
 status: "active"
 ---
 

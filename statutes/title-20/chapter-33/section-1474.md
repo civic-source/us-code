@@ -3,9 +3,9 @@ title: "Section 1474 - Technology development, demonstration, and utilization; m
 usc_title: 20
 usc_section: "1474"
 chapter: 33
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "20 U.S.C. § 1474"
-generated_at: "2026-03-30T06:11:20.551Z"
+generated_at: "2026-03-30T06:13:17.788Z"
 status: "active"
 ---
 

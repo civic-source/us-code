@@ -3,9 +3,9 @@ title: "Section 2305 - Federal Land Disposal Account"
 usc_title: 43
 usc_section: "2305"
 chapter: 41
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "43 U.S.C. § 2305"
-generated_at: "2026-03-30T06:12:03.929Z"
+generated_at: "2026-03-30T06:14:03.281Z"
 status: "active"
 ---
 
@@ -20,7 +20,7 @@ status: "active"
       - **(i)** inholdings; and
       - **(ii)** adjacent to federally designated areas and contain exceptional resources.
     - **(B)** Not less than 80 percent of the funds allocated for the purchase of land within each State shall be used to acquire inholdings identified under section 2303 of this title .
-    - **(C)** An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 of this title .
+    - **(C)** An amount not to exceed 20 percent of the funds deposited in the Federal Land Disposal Account may be used by the Secretary for administrative and other expenses necessary to carry out the land disposal program under section 2304 1 of this title.
     - **(D)** Of the amounts not used under subparagraph (C), not less than 80 percent shall be expended within the State in which the funds were generated. Any remaining funds may be expended in any other State.
   - **(3)** The Secretary and the Secretary of Agriculture shall develop a procedure for prioritizing the acquisition of inholdings and non-Federal lands with exceptional resources as provided in paragraph (2). Such procedure shall consider—
     - **(A)** the date the inholding was established (as provided in section 2303(c) of this title );
@@ -35,6 +35,6 @@ status: "active"
   - **(1)** contains a hazardous substance or is otherwise contaminated; or
   - **(2)** because of the location or other characteristics of the land, would be difficult or uneconomic to manage as Federal land.
 - **(e)** Funds made available under this section shall be supplemental to any funds appropriated under chapter 2003 of title 54.
-- **(f)** On termination of activities under section 2304 of this title —
+- **(f)** On termination of activities under section 2304 1 of this title—
   - **(1)** the Federal Land Disposal Account shall be terminated; and
   - **(2)** any remaining balance in the account shall become available for appropriation under section 200303 of title 54 .

@@ -3,9 +3,9 @@ title: "Section 655a - Provision for reimbursement of expenses"
 usc_title: 42
 usc_section: "655a"
 chapter: 7
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 655a"
-generated_at: "2026-03-30T06:12:17.955Z"
+generated_at: "2026-03-30T06:14:10.693Z"
 status: "active"
 ---
 

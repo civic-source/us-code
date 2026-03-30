@@ -3,9 +3,9 @@ title: "Section 482 - Clothing at time of discharge for good of service"
 usc_title: 14
 usc_section: "482"
 chapter: 13
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "14 U.S.C. § 482"
-generated_at: "2026-03-30T06:11:02.354Z"
+generated_at: "2026-03-30T06:13:04.683Z"
 status: "active"
 ---
 

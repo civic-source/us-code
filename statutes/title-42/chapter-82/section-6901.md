@@ -3,9 +3,9 @@ title: "Section 6901 - Congressional findings"
 usc_title: 42
 usc_section: "6901"
 chapter: 82
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 6901"
-generated_at: "2026-03-30T06:12:18.283Z"
+generated_at: "2026-03-30T06:14:11.009Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6992d - Enforcement"
 usc_title: 42
 usc_section: "6992d"
 chapter: 82
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 6992d"
-generated_at: "2026-03-30T06:12:18.293Z"
+generated_at: "2026-03-30T06:14:11.021Z"
 status: "active"
 ---
 
@@ -20,6 +20,6 @@ status: "active"
   - **(1)** knowingly violates the requirements of or regulations under this subchapter;
   - **(2)** knowingly omits material information or makes any false material statement or representation in any label, record, report, or other document filed, maintained, or used for purposes of compliance with this subchapter or regulations thereunder; or
   - **(3)** knowingly generates, stores, treats, transports, disposes of, or otherwise handles any medical waste (whether such activity took place before or takes place after November 1, 1988 ) and who knowingly destroys, alters, conceals, or fails to file any record, report, or other document required to be maintained or filed for purposes of compliance with this subchapter or regulations thereunder
-- **(c)** Any person who knowingly violates any provision of subsection (b) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under section 6928(f) of this title .
+- **(c)** Any person who knowingly violates any provision of subsection (b) who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall upon conviction be subject to a fine of not more than $250,000 or imprisonment for not more than 15 years, or both. A defendant that is an organization shall, upon conviction under this subsection, be subject to a fine of not more than $1,000,000. The terms of this paragraph shall be interpreted in accordance with the rules provided under section 6928(f) of this title .
 - **(d)** Any person who violates any requirement of or regulation under this subchapter shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day of such violation shall, for purposes of this section, constitute a separate violation.
 - **(e)** Civil penalties assessed by the United States or by the States under this subchapter shall be assessed in accordance with the Administrator’s “RCRA Civil Penalty Policy”, as such policy may be amended from time to time.

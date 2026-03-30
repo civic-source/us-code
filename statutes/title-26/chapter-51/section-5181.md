@@ -3,9 +3,9 @@ title: "Section 5181 - Distilled spirits for fuel use"
 usc_title: 26
 usc_section: "5181"
 chapter: 51
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "26 U.S.C. § 5181"
-generated_at: "2026-03-30T06:11:50.945Z"
+generated_at: "2026-03-30T06:13:46.361Z"
 status: "active"
 ---
 

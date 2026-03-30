@@ -3,9 +3,9 @@ title: "Section 57533 - Vessel chartering authority"
 usc_title: 46
 usc_section: "57533"
 chapter: 575
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "46 U.S.C. § 57533"
-generated_at: "2026-03-30T06:12:23.275Z"
+generated_at: "2026-03-30T06:14:15.047Z"
 status: "active"
 ---
 

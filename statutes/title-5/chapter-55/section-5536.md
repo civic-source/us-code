@@ -3,9 +3,9 @@ title: "Section 5536 - Extra pay for extra services prohibited"
 usc_title: 5
 usc_section: "5536"
 chapter: 55
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 5536"
-generated_at: "2026-03-30T06:10:48.489Z"
+generated_at: "2026-03-30T06:12:52.779Z"
 status: "active"
 ---
 

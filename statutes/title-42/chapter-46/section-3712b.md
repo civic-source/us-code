@@ -3,9 +3,9 @@ title: "Section 3712b - Weed and Seed strategies"
 usc_title: 42
 usc_section: "3712b"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3712b"
-generated_at: "2026-03-30T06:12:18.201Z"
+generated_at: "2026-03-30T06:14:10.927Z"
 status: "active"
 ---
 
@@ -16,7 +16,7 @@ status: "active"
   - **(2)** Activities, to be known as Seeding activities, which shall include promoting and coordinating a broad spectrum of community efforts (such as drug abuse education, mentoring, and employment counseling) to provide—
     - **(A)** human services, relating to prevention, intervention, or treatment, for at-risk individuals and families; and
     - **(B)** community revitalization efforts, including enforcement of building codes and development of the economy.
-- **(b)** The Director shall issue guidelines for the development and implementation of Weed and Seed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) of this section shall—
+- **(b)** The Director shall issue guidelines for the development and implementation of Weed and Seed strategies under this section. The guidelines shall ensure that the Weed and Seed strategy for a community referred to in subsection (a) shall—
   - **(1)** be planned and implemented through and under the auspices of a steering committee, properly established in the community, comprised of—
     - **(A)** in a voting capacity, representatives of—
       - **(i)** appropriate law enforcement agencies; and
@@ -25,21 +25,21 @@ status: "active"
       - **(i)** the Drug Enforcement Administration’s special agent in charge for the jurisdiction encompassing the community; and
       - **(ii)** the United States Attorney for the District encompassing the community;
   - **(2)** describe how law enforcement agencies, other public and private agencies, neighborhood and community-based organizations, and interested citizens are to cooperate in implementing the strategy; and
-  - **(3)** incorporate a community-policing component that shall serve as a bridge between the Weeding activities under subsection (a)(1) of this section and the Seeding activities under subsection (a)(2) of this section.
-- **(c)** For a community to be designated as a Weed-and-Seed community for purposes of subsection (a) of this section—
+  - **(3)** incorporate a community-policing component that shall serve as a bridge between the Weeding activities under subsection (a)(1) and the Seeding activities under subsection (a)(2).
+- **(c)** For a community to be designated as a Weed-and-Seed community for purposes of subsection (a)—
   - **(1)** the United States Attorney for the District encompassing the community must certify to the Director that—
     - **(A)** the community suffers from consistently high levels of crime or otherwise is appropriate for such designation;
     - **(B)** the Weed and Seed strategy proposed, adopted, or implemented by the steering committee has a high probability of improving the criminal justice system within the community and contains all the elements required by the Director; and
     - **(C)** the steering committee is capable of implementing the strategy appropriately; and
   - **(2)** the community must agree to formulate a timely and effective plan to independently sustain the strategy (or, at a minimum, a majority of the best practices of the strategy) when assistance under this section is no longer available.
-- **(d)** An application for designation as a Weed-and-Seed community for purposes of subsection (a) of this section shall be submitted to the Director by the steering committee of the community in such form, and containing such information and assurances, as the Director may require. The application shall propose—
+- **(d)** An application for designation as a Weed-and-Seed community for purposes of subsection (a) shall be submitted to the Director by the steering committee of the community in such form, and containing such information and assurances, as the Director may require. The application shall propose—
   - **(1)** a sustainable Weed and Seed strategy that includes—
     - **(A)** the active involvement of the United States Attorney for the District encompassing the community, the Drug Enforcement Administration’s special agent in charge for the jurisdiction encompassing the community, and other Federal law enforcement agencies operating in the vicinity;
     - **(B)** a significant community-oriented policing component; and
     - **(C)** demonstrated coordination with complementary neighborhood and community-based programs and initiatives; and
   - **(2)** a methodology with outcome measures and specific objective indicia of performance to be used to evaluate the effectiveness of the strategy.
 - **(e)**
-  - **(1)** In implementing a strategy for a community under subsection (a) of this section, the Director may make grants to that community.
+  - **(1)** In implementing a strategy for a community under subsection (a), the Director may make grants to that community.
   - **(2)** For each grant under this subsection, the community receiving that grant may not use any of the grant amounts for construction, except that the Assistant Attorney General may authorize use of grant amounts for incidental or minor construction, renovation, or remodeling.
   - **(3)** A community may not receive grants under this subsection (or fall within such a community)—
     - **(A)** for a period of more than 10 fiscal years;

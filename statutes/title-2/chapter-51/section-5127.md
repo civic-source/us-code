@@ -3,9 +3,9 @@ title: "Section 5127 - Franked mail and printing privileges of former Speaker"
 usc_title: 2
 usc_section: "5127"
 chapter: 51
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "2 U.S.C. § 5127"
-generated_at: "2026-03-30T06:10:43.843Z"
+generated_at: "2026-03-30T06:12:46.664Z"
 status: "active"
 ---
 

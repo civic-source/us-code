@@ -3,9 +3,9 @@ title: "Section 423 - Preservation of historic buildings and grounds at the Arme
 usc_title: 24
 usc_section: "423"
 chapter: 10
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "24 U.S.C. § 423"
-generated_at: "2026-03-30T06:11:27.750Z"
+generated_at: "2026-03-30T06:13:22.124Z"
 status: "active"
 ---
 

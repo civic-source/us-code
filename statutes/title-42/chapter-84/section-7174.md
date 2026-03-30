@@ -3,9 +3,9 @@ title: "Section 7174 - Referral of other rulemaking proceedings to Commission"
 usc_title: 42
 usc_section: "7174"
 chapter: 84
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 7174"
-generated_at: "2026-03-30T06:12:18.296Z"
+generated_at: "2026-03-30T06:14:11.023Z"
 status: "active"
 ---
 
@@ -17,6 +17,6 @@ status: "active"
   - **(2)** concur in adoption of the rule or statement only with such changes as it may recommend; or
   - **(3)** recommend that the rule or statement not be adopted.
 - **(c)** Following publication of the Commission’s recommendations the Secretary shall have the option of—
-  - **(1)** issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1) of this section;
-  - **(2)** issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2) of this section; or
+  - **(1)** issuing a final rule or statement in the form initially proposed by the Secretary if the Commission has concurred in such rule pursuant to subsection (b)(1);
+  - **(2)** issuing a final rule or statement in amended form so that the rule conforms in all respects with the changes proposed by the Commission if the Commission has concurred in such rule or statement pursuant to subsection (b)(2); or
   - **(3)** ordering that the rule shall not be issued.

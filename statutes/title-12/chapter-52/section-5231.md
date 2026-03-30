@@ -3,9 +3,9 @@ title: "Section 5231 - Special Inspector General for the Troubled Asset Relief P
 usc_title: 12
 usc_section: "5231"
 chapter: 52
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 5231"
-generated_at: "2026-03-30T06:11:05.247Z"
+generated_at: "2026-03-30T06:13:07.864Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
 - **(d)**
   - **(1)** In carrying out the duties specified in subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978.
   - **(2)** The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with section 4(b)(1) of the Inspector General Act of 1978.
-  - **(3)** The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
+  - **(3)** The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) 1 1 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
 - **(e)**
   - **(1)**
     - **(A)** The Special Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Special Inspector General, subject to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
@@ -52,7 +52,7 @@ status: "active"
     - **(A)** Upon request of the Special Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Special Inspector General, or an authorized designee.
     - **(B)** Whenever information or assistance requested by the Special Inspector General is, in the judgment of the Special Inspector General, unreasonably refused or not provided, the Special Inspector General shall report the circumstances to the appropriate committees of Congress without delay.
   - **(5)**
-    - **(A)** Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84. 1 1 See References in Text note below.
+    - **(A)** Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84. 1
     - **(B)** Subparagraph (A) shall apply to—
       - **(i)** not more than 25 employees at any time as designated by the Special Inspector General; and
       - **(ii)** pay periods beginning after April 24, 2009 .

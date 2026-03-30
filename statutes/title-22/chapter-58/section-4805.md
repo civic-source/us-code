@@ -3,9 +3,9 @@ title: "Section 4805 - Cooperation of other Federal agencies"
 usc_title: 22
 usc_section: "4805"
 chapter: 58
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 4805"
-generated_at: "2026-03-30T06:11:34.256Z"
+generated_at: "2026-03-30T06:13:30.626Z"
 status: "active"
 ---
 

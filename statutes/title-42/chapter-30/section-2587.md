@@ -3,9 +3,9 @@ title: "Section 2587 - Repealed. Pub. L. 93–203, title VII , § 714, formerly 
 usc_title: 42
 usc_section: "2587"
 chapter: 30
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 2587"
-generated_at: "2026-03-30T06:12:18.176Z"
+generated_at: "2026-03-30T06:14:10.904Z"
 status: "repealed"
 ---
 

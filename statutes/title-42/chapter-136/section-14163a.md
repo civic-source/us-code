@@ -3,9 +3,9 @@ title: "Section 14163a - Capital prosecution improvement grants"
 usc_title: 42
 usc_section: "14163a"
 chapter: 136
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 14163a"
-generated_at: "2026-03-30T06:12:18.456Z"
+generated_at: "2026-03-30T06:14:11.179Z"
 status: "active"
 ---
 

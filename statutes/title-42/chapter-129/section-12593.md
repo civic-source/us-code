@@ -3,9 +3,9 @@ title: "Section 12593 - Terms of service"
 usc_title: 42
 usc_section: "12593"
 chapter: 129
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 12593"
-generated_at: "2026-03-30T06:12:18.414Z"
+generated_at: "2026-03-30T06:14:11.138Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Office of Rural Housing Preservation"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T06:12:18.120Z"
+generated_at: "2026-03-30T06:14:10.851Z"
 status: "active"
 ---
 

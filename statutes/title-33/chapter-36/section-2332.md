@@ -3,9 +3,9 @@ title: "Section 2332 - Flood mitigation and riverine restoration program"
 usc_title: 33
 usc_section: "2332"
 chapter: 36
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 2332"
-generated_at: "2026-03-30T06:11:57.251Z"
+generated_at: "2026-03-30T06:13:49.883Z"
 status: "active"
 ---
 

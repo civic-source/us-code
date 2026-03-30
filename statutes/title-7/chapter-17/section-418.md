@@ -3,9 +3,9 @@ title: "Section 418 - Annual report on work of agricultural experiment stations 
 usc_title: 7
 usc_section: "418"
 chapter: 17
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 418"
-generated_at: "2026-03-30T06:10:56.405Z"
+generated_at: "2026-03-30T06:12:57.666Z"
 status: "active"
 ---
 

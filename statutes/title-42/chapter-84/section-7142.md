@@ -3,9 +3,9 @@ title: "Section 7142 - National Atomic Museum and National Atomic Testing Museum
 usc_title: 42
 usc_section: "7142"
 chapter: 84
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 7142"
-generated_at: "2026-03-30T06:12:18.295Z"
+generated_at: "2026-03-30T06:14:11.022Z"
 status: "active"
 ---
 

@@ -3,16 +3,16 @@ title: "Section 3796bb - Rural drug enforcement assistance"
 usc_title: 42
 usc_section: "3796bb"
 chapter: 46
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 3796bb"
-generated_at: "2026-03-30T06:12:18.206Z"
+generated_at: "2026-03-30T06:14:10.932Z"
 status: "active"
 ---
 
 # § 3796bb. Rural drug enforcement assistance
 
 - **(a)** Of the total amount appropriated for this section in any fiscal year:
-  - **(1)** 50 percent shall be allocated to and shared equally among rural States as described in subsection (b) of this section; and
+  - **(1)** 50 percent shall be allocated to and shared equally among rural States as described in subsection (b); and
   - **(2)** 50 percent shall be allocated to the remaining States for use in nonmetropolitan areas within those States, as follows:
     - **(A)** $250,000 to each nonrural State; and
     - **(B)** of the total funds remaining after the allocation in subparagraph (A), there shall be allocated to each State an amount which bears the same ratio to the amount of remaining funds described as the population of such State bears to the population of all States.

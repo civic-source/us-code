@@ -3,9 +3,9 @@ title: "Section 1505 - Authorization to act in a foreign country"
 usc_title: 11
 usc_section: "1505"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "11 U.S.C. § 1505"
-generated_at: "2026-03-30T06:11:02.740Z"
+generated_at: "2026-03-30T06:13:05.181Z"
 status: "active"
 ---
 

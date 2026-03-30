@@ -3,9 +3,9 @@ title: "Section 4049 - Officers and employees of the Bureau of Prisons authorize
 usc_title: 18
 usc_section: "4049"
 chapter: 303
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 4049"
-generated_at: "2026-03-30T06:11:14.114Z"
+generated_at: "2026-03-30T06:13:15.971Z"
 status: "active"
 ---
 

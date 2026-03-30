@@ -3,9 +3,9 @@ title: "Section 1 - Construction of additional facilities by Secretary of Energy
 usc_title: 16
 usc_section: "1"
 chapter: 12
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T06:11:22.816Z"
+generated_at: "2026-03-30T06:13:20.057Z"
 status: "active"
 ---
 

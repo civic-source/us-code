@@ -3,9 +3,9 @@ title: "Section 878b - Safety and health regulations for scientific and occupati
 usc_title: 33
 usc_section: "878b"
 chapter: 17
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "33 U.S.C. § 878b"
-generated_at: "2026-03-30T06:11:57.213Z"
+generated_at: "2026-03-30T06:13:49.838Z"
 status: "active"
 ---
 

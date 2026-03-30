@@ -3,9 +3,9 @@ title: "Section 269 - Bills of health"
 usc_title: 42
 usc_section: "269"
 chapter: 6
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 269"
-generated_at: "2026-03-30T06:12:17.829Z"
+generated_at: "2026-03-30T06:14:10.571Z"
 status: "active"
 ---
 

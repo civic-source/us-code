@@ -3,9 +3,9 @@ title: "Section 965 - Verified statements as prerequisite to vessel’s departur
 usc_title: 18
 usc_section: "965"
 chapter: 45
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "18 U.S.C. § 965"
-generated_at: "2026-03-30T06:11:14.075Z"
+generated_at: "2026-03-30T06:13:15.932Z"
 status: "active"
 ---
 

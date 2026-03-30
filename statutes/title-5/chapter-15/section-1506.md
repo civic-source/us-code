@@ -3,9 +3,9 @@ title: "Section 1506 - Orders; withholding loans or grants; limitations"
 usc_title: 5
 usc_section: "1506"
 chapter: 15
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "5 U.S.C. § 1506"
-generated_at: "2026-03-30T06:10:48.473Z"
+generated_at: "2026-03-30T06:12:52.765Z"
 status: "active"
 ---
 

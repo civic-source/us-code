@@ -3,9 +3,9 @@ title: "Section 41504 - Tariffs for foreign air transportation"
 usc_title: 49
 usc_section: "41504"
 chapter: 415
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "49 U.S.C. § 41504"
-generated_at: "2026-03-30T06:12:29.309Z"
+generated_at: "2026-03-30T06:14:17.863Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3351 - Miscellaneous provisions"
 usc_title: 12
 usc_section: "3351"
 chapter: 34
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "12 U.S.C. § 3351"
-generated_at: "2026-03-30T06:11:05.215Z"
+generated_at: "2026-03-30T06:13:07.837Z"
 status: "active"
 ---
 

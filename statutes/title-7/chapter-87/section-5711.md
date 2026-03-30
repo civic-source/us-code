@@ -3,9 +3,9 @@ title: "Section 5711 - Repealed. Pub. L. 104–127, title II , § 241(c)(1), Apr
 usc_title: 7
 usc_section: "5711"
 chapter: 87
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 5711"
-generated_at: "2026-03-30T06:10:56.507Z"
+generated_at: "2026-03-30T06:12:57.765Z"
 status: "repealed"
 ---
 

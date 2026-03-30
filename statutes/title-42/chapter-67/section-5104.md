@@ -3,9 +3,9 @@ title: "Section 5104 - National clearinghouse for information relating to child 
 usc_title: 42
 usc_section: "5104"
 chapter: 67
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 5104"
-generated_at: "2026-03-30T06:12:18.234Z"
+generated_at: "2026-03-30T06:14:10.960Z"
 status: "active"
 ---
 

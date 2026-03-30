@@ -3,9 +3,9 @@ title: "Section 3948 - Recall and reappointment of career members"
 usc_title: 22
 usc_section: "3948"
 chapter: 52
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "22 U.S.C. § 3948"
-generated_at: "2026-03-30T06:11:34.244Z"
+generated_at: "2026-03-30T06:13:30.612Z"
 status: "active"
 ---
 

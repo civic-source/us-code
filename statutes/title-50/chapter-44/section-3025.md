@@ -3,9 +3,9 @@ title: "Section 3025 - Office of the Director of National Intelligence"
 usc_title: 50
 usc_section: "3025"
 chapter: 44
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 3025"
-generated_at: "2026-03-30T06:12:26.036Z"
+generated_at: "2026-03-30T06:14:15.974Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
   - **(5)** The General Counsel.
   - **(6)** The Civil Liberties Protection Officer.
   - **(7)** The Director of Science and Technology.
-  - **(8)** The National Counterintelligence Executive (including the Office of the National Counterintelligence Executive).
+  - **(8)** The Director of the National Counterintelligence and Security Center.
   - **(9)** The Chief Information Officer of the Intelligence Community.
   - **(10)** The Inspector General of the Intelligence Community.
   - **(11)** The Director of the National Counterterrorism Center.

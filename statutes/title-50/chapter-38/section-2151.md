@@ -3,9 +3,9 @@ title: "Section 2151 - Application of Federal Employees’ Retirement System to 
 usc_title: 50
 usc_section: "2151"
 chapter: 38
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 2151"
-generated_at: "2026-03-30T06:12:26.023Z"
+generated_at: "2026-03-30T06:14:15.960Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5032 - Office of the Chief of Naval Operations: general duties"
 usc_title: 10
 usc_section: "5032"
 chapter: 505
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "10 U.S.C. § 5032"
-generated_at: "2026-03-30T06:11:00.218Z"
+generated_at: "2026-03-30T06:13:02.661Z"
 status: "active"
 ---
 

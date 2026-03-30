@@ -3,9 +3,9 @@ title: "Section 4762 - Definitions"
 usc_title: 42
 usc_section: "4762"
 chapter: 62
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "42 U.S.C. § 4762"
-generated_at: "2026-03-30T06:12:18.228Z"
+generated_at: "2026-03-30T06:14:10.955Z"
 status: "active"
 ---
 

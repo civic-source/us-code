@@ -3,9 +3,9 @@ title: "Section 353 - Skill incentive pay or proficiency bonus"
 usc_title: 37
 usc_section: "353"
 chapter: 5
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "37 U.S.C. § 353"
-generated_at: "2026-03-30T06:12:01.703Z"
+generated_at: "2026-03-30T06:13:51.808Z"
 status: "active"
 ---
 

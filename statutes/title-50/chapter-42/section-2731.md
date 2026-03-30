@@ -3,9 +3,9 @@ title: "Section 2731 - Worker protection at nuclear weapons facilities"
 usc_title: 50
 usc_section: "2731"
 chapter: 42
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "50 U.S.C. § 2731"
-generated_at: "2026-03-30T06:12:26.031Z"
+generated_at: "2026-03-30T06:14:15.969Z"
 status: "active"
 ---
 

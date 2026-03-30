@@ -3,9 +3,9 @@ title: "Section 3314 - Implementing actions in anticipation of entry into force 
 usc_title: 19
 usc_section: "3314"
 chapter: 21
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "19 U.S.C. § 3314"
-generated_at: "2026-03-30T06:11:11.468Z"
+generated_at: "2026-03-30T06:13:14.563Z"
 status: "active"
 ---
 

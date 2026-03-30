@@ -3,9 +3,9 @@ title: "Section 2009b - National objectives"
 usc_title: 7
 usc_section: "2009b"
 chapter: 50
-current_through: "PL 115-30"
+current_through: "PL 115-35"
 classification: "7 U.S.C. § 2009b"
-generated_at: "2026-03-30T06:10:56.464Z"
+generated_at: "2026-03-30T06:12:57.722Z"
 status: "active"
 ---
 
