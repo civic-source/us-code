@@ -3,9 +3,9 @@ title: "Section 5602 - Tenure of office of Sergeant at Arms"
 usc_title: 2
 usc_section: "5602"
 chapter: 55
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 5602"
-generated_at: "2026-03-30T08:11:34.334Z"
+generated_at: "2026-03-30T08:14:13.707Z"
 status: "active"
 ---
 

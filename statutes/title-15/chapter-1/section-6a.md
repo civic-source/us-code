@@ -3,9 +3,9 @@ title: "Section 6a - Conduct involving trade or commerce with foreign nations"
 usc_title: 15
 usc_section: "6a"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 6a"
-generated_at: "2026-03-30T08:12:15.240Z"
+generated_at: "2026-03-30T08:14:38.982Z"
 status: "active"
 ---
 

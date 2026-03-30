@@ -3,9 +3,9 @@ title: "Section 3419 - Suspension of limitations"
 usc_title: 12
 usc_section: "3419"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 3419"
-generated_at: "2026-03-30T08:12:22.897Z"
+generated_at: "2026-03-30T08:14:50.085Z"
 status: "active"
 ---
 

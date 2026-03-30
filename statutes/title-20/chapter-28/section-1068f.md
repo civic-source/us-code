@@ -3,9 +3,9 @@ title: "Section 1068f - Penalties"
 usc_title: 20
 usc_section: "1068f"
 chapter: 28
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1068f"
-generated_at: "2026-03-30T08:12:35.767Z"
+generated_at: "2026-03-30T08:14:56.226Z"
 status: "active"
 ---
 

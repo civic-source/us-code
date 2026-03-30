@@ -3,9 +3,9 @@ title: "Section 201a - Revision of boundaries"
 usc_title: 16
 usc_section: "201a"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 201a"
-generated_at: "2026-03-30T08:12:31.551Z"
+generated_at: "2026-03-30T08:15:12.421Z"
 status: "active"
 ---
 

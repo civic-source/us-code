@@ -3,9 +3,9 @@ title: "Section 1987 - Debt adjustment and credit counseling; “summary period�
 usc_title: 7
 usc_section: "1987"
 chapter: 50
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1987"
-generated_at: "2026-03-30T08:12:04.709Z"
+generated_at: "2026-03-30T08:14:24.970Z"
 status: "active"
 ---
 

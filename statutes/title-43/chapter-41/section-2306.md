@@ -3,9 +3,9 @@ title: "Section 2306 - Special provisions"
 usc_title: 43
 usc_section: "2306"
 chapter: 41
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 2306"
-generated_at: "2026-03-30T08:13:17.442Z"
+generated_at: "2026-03-30T08:16:02.057Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Nothing in this chapter provides an exemption from any limitation on the acquisition of land or interest in land under any Federal law in effect on July 25, 2000 .
 - **(b)** This chapter shall not apply to land eligible for sale under—
   - **(1)** Public Law 96–586 (commonly known as the “Santini-Burton Act”) ( 94 Stat. 3381 );
-  - **(2)** the Southern Nevada Public Land Management Act of 1998 ( Public Law 105–263 ; 112 Stat. 2343 ).
+  - **(2)** the Southern Nevada Public Land Management Act of 1998 ( Public Law 105–263 ; 112 Stat. 2343 );
   - **(3)** the White Pine County Conservation, Recreation, and Development Act of 2006 ( Public Law 109–432 ; 120 Stat. 3028 );
   - **(4)** the Lincoln County Conservation, Recreation, and Development Act of 2004 ( Public Law 108–424 ; 118 Stat. 2403 );
   - **(5)** subtitle F of title I of the Omnibus Public Land Management Act of 2009 ( 16 U.S.C. 1132 note; Public Law 111–11 );

@@ -3,9 +3,9 @@ title: "Section 1030 - Alternative methods of compliance"
 usc_title: 29
 usc_section: "1030"
 chapter: 18
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "29 U.S.C. § 1030"
-generated_at: "2026-03-30T08:12:46.715Z"
+generated_at: "2026-03-30T08:15:31.695Z"
 status: "active"
 ---
 

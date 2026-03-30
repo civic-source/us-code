@@ -3,9 +3,9 @@ title: "Section 1015 - Recordation of installment payment obligations for incent
 usc_title: 37
 usc_section: "1015"
 chapter: 19
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "37 U.S.C. § 1015"
-generated_at: "2026-03-30T08:13:14.953Z"
+generated_at: "2026-03-30T08:15:53.095Z"
 status: "active"
 ---
 

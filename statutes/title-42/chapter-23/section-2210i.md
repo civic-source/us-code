@@ -3,9 +3,9 @@ title: "Section 2210i - Secure transfer of nuclear materials"
 usc_title: 42
 usc_section: "2210i"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 2210i"
-generated_at: "2026-03-30T08:13:46.990Z"
+generated_at: "2026-03-30T08:16:21.044Z"
 status: "active"
 ---
 

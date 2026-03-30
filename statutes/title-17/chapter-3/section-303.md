@@ -3,9 +3,9 @@ title: "Section 303 - Duration of copyright: Works created but not published or 
 usc_title: 17
 usc_section: "303"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "17 U.S.C. § 303"
-generated_at: "2026-03-30T08:12:27.816Z"
+generated_at: "2026-03-30T08:14:52.039Z"
 status: "active"
 ---
 

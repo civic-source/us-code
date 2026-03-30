@@ -3,9 +3,9 @@ title: "Section 306 - Director of the Government Publishing Office: employment o
 usc_title: 44
 usc_section: "306"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "44 U.S.C. § 306"
-generated_at: "2026-03-30T08:13:19.352Z"
+generated_at: "2026-03-30T08:15:59.929Z"
 status: "active"
 ---
 

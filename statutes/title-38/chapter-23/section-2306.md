@@ -3,9 +3,9 @@ title: "Section 2306 - Headstones, markers, and burial receptacles"
 usc_title: 38
 usc_section: "2306"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 2306"
-generated_at: "2026-03-30T08:13:09.334Z"
+generated_at: "2026-03-30T08:15:55.108Z"
 status: "active"
 ---
 
@@ -50,7 +50,7 @@ status: "active"
     - **(C)** A deceased individual described in this subparagraph is a deceased individual who—
       - **(i)** served in the Armed Forces on or after April 6, 1917 ;
       - **(ii)** is eligible for a headstone or marker furnished under paragraph (1) or a medallion furnished under paragraph (4) (or would be so eligible for such headstone, marker, or medallion but for the date of the death of the individual); and
-      - **(iii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14 (including posthumously).
+      - **(iii)** was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14 (including posthumously).
     - **(D)** In this paragraph, the term “medal of honor recipient” means an individual who is awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 of title 14.
 - **(e)**
   - **(1)**

@@ -3,9 +3,9 @@ title: "Section 8432d - Qualified Roth contribution program"
 usc_title: 5
 usc_section: "8432d"
 chapter: 84
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "5 U.S.C. § 8432d"
-generated_at: "2026-03-30T08:11:23.582Z"
+generated_at: "2026-03-30T08:14:15.302Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5733 - Repealed. Pub. L. 102–586, § 3(g)(2)(E) , Nov. 4, 1992
 usc_title: 42
 usc_section: "5733"
 chapter: 72
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 5733"
-generated_at: "2026-03-30T08:13:47.060Z"
+generated_at: "2026-03-30T08:16:21.130Z"
 status: "repealed"
 ---
 

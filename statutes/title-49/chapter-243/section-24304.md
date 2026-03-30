@@ -3,9 +3,9 @@ title: "Section 24304 - Employee stock ownership plans"
 usc_title: 49
 usc_section: "24304"
 chapter: 243
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 24304"
-generated_at: "2026-03-30T08:13:59.032Z"
+generated_at: "2026-03-30T08:16:42.038Z"
 status: "active"
 ---
 

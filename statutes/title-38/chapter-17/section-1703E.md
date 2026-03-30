@@ -3,9 +3,9 @@ title: "Section 1703E - Center for Innovation for Care and Payment"
 usc_title: 38
 usc_section: "1703E"
 chapter: 17
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 1703E"
-generated_at: "2026-03-30T08:13:09.322Z"
+generated_at: "2026-03-30T08:15:55.090Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** improve access to, and quality, timeliness, and patient satisfaction of care and services; and
     - **(B)** create cost savings for the Department.
   - **(4)**
-    - **(A)** The Secretary shall test a model in a location where the Secretary determines that the model will addresses deficits in care (including poor clinical outcomes or potentially avoidable expenditures) for a defined population.
+    - **(A)** The Secretary shall test a model in a location where the Secretary determines that the model will addresses 1 1 So in original. deficits in care (including poor clinical outcomes or potentially avoidable expenditures) for a defined population.
     - **(B)** The Secretary shall focus on models the Secretary expects to reduce program costs while preserving or enhancing the quality of care received by individuals receiving benefits under this chapter.
     - **(C)** The models selected may include those described in section 1115A(b)(2)(B) of the Social Security Act ( 42 U.S.C. 1315a(b)(2)(B) ).
   - **(5)** In selecting a model for testing, the Secretary may consider, in addition to other factors identified in this subsection, the following factors:

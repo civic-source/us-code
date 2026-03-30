@@ -3,9 +3,9 @@ title: "Section 321m - Voluntary private sector preparedness accreditation and c
 usc_title: 6
 usc_section: "321m"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 321m"
-generated_at: "2026-03-30T08:11:36.742Z"
+generated_at: "2026-03-30T08:14:20.213Z"
 status: "active"
 ---
 

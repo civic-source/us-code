@@ -3,9 +3,9 @@ title: "Section 6591d - Wildfire resilience projects"
 usc_title: 16
 usc_section: "6591d"
 chapter: 84
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 6591d"
-generated_at: "2026-03-30T08:12:31.761Z"
+generated_at: "2026-03-30T08:15:12.640Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
       - **(i)** A project under this section shall not include the establishment of permanent roads.
       - **(ii)** The Secretary may carry out necessary maintenance and repairs on existing permanent roads for the purposes of this section.
     - **(B)** The Secretary shall decommission any temporary road constructed under a project under this section not later than 3 years after the date on which the project is completed.
-  - **(4)** The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations (or successor regulations), when using the categorical exclusion under this section.
+  - **(4)** The Secretary shall apply the extraordinary circumstances procedures under section 220.6 of title 36, code of Federal regulations 1 1 So in original. Probably should be “Code of Federal Regulations”. (or successor regulations), when using the categorical exclusion under this section.
 - **(d)** This section does not apply to—
   - **(1)** a component of the National Wilderness Preservation System;
   - **(2)** any Federal land on which, by Act of Congress or Presidential proclamation, the removal of vegetation is restricted or prohibited;

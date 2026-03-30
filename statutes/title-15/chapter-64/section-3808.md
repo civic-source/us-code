@@ -3,9 +3,9 @@ title: "Section 3808 - Repealed. Pub. L. 104–66, title I, § 1051(p) , Dec. 21
 usc_title: 15
 usc_section: "3808"
 chapter: 64
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 3808"
-generated_at: "2026-03-30T08:12:15.394Z"
+generated_at: "2026-03-30T08:14:39.146Z"
 status: "repealed"
 ---
 

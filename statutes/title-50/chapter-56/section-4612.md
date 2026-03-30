@@ -3,9 +3,9 @@ title: "Section 4612 - Missile proliferation control violations"
 usc_title: 50
 usc_section: "4612"
 chapter: 56
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "50 U.S.C. § 4612"
-generated_at: "2026-03-30T08:13:55.314Z"
+generated_at: "2026-03-30T08:16:25.875Z"
 status: "active"
 ---
 

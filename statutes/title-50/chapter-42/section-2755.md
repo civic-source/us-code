@@ -3,9 +3,9 @@ title: "Section 2755 - Matters relating to critical decisions"
 usc_title: 50
 usc_section: "2755"
 chapter: 42
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "50 U.S.C. § 2755"
-generated_at: "2026-03-30T08:13:55.278Z"
+generated_at: "2026-03-30T08:16:25.838Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 527 - Political organizations"
 usc_title: 26
 usc_section: "527"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 527"
-generated_at: "2026-03-30T08:12:52.612Z"
+generated_at: "2026-03-30T08:15:44.828Z"
 status: "active"
 ---
 
@@ -128,7 +128,7 @@ status: "active"
     - **(B)** a convention or caucus of a political party which has authority to nominate a candidate for Federal office,
     - **(C)** a primary election held for the selection of delegates to a national nominating convention of a political party, or
     - **(D)** a primary election held for the expression of a preference for the nomination of individuals for election to the office of President.
-  - **(7)** Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form if the organization has, or has reason to expect to have, contributions exceeding $50,000 or expenditures exceeding $50,000 in such calendar year.
+  - **(7)** Any report required under paragraph (2) with respect to any calendar year shall be filed in electronic form.
 - **(k)**
   - **(1)** The Secretary shall make any notice described in subsection (i)(1) or report described in subsection (j)(7) available for public inspection on the Internet not later than 48 hours after such notice or report has been filed (in addition to such public availability as may be made under section 6104(d)(7)).
   - **(2)** The Secretary shall make the entire database of notices and reports which are made available to the public under paragraph (1) searchable by the following items (to the extent the items are required to be included in the notices and reports):

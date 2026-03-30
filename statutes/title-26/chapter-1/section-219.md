@@ -3,9 +3,9 @@ title: "Section 219 - Retirement savings"
 usc_title: 26
 usc_section: "219"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 219"
-generated_at: "2026-03-30T08:12:52.564Z"
+generated_at: "2026-03-30T08:15:44.771Z"
 status: "active"
 ---
 
@@ -105,6 +105,6 @@ status: "active"
   - **(7)** If this subsection applies to an individual for any taxable year solely because their spouse is an active participant, then, in applying this subsection to the individual (but not their spouse)—
     - **(A)** the applicable dollar amount under paragraph (3)(B)(i) shall be $150,000; and
     - **(B)** the amount applicable under paragraph (2)(A)(ii) shall be $10,000.
-  - **(8)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall be be increased by an amount equal to—
+  - **(8)** In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall be increased by an amount equal to—
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.

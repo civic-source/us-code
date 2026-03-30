@@ -3,9 +3,9 @@ title: "Section 3304 - Transporting individuals in addition to crew"
 usc_title: 46
 usc_section: "3304"
 chapter: 33
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "46 U.S.C. § 3304"
-generated_at: "2026-03-30T08:13:52.889Z"
+generated_at: "2026-03-30T08:16:33.225Z"
 status: "active"
 ---
 

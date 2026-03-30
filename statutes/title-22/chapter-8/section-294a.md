@@ -3,9 +3,9 @@ title: "Section 294a - Contracts requiring payment in foreign currency"
 usc_title: 22
 usc_section: "294a"
 chapter: 8
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 294a"
-generated_at: "2026-03-30T08:12:43.357Z"
+generated_at: "2026-03-30T08:15:20.705Z"
 status: "active"
 ---
 

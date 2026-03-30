@@ -3,9 +3,9 @@ title: "Section 2 - Investments"
 usc_title: 20
 usc_section: "2"
 chapter: 8
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 2"
-generated_at: "2026-03-30T08:12:35.752Z"
+generated_at: "2026-03-30T08:14:56.210Z"
 status: "active"
 ---
 

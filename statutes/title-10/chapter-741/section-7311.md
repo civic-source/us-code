@@ -3,9 +3,9 @@ title: "Section 7311 - Twenty years or more: regular or reserve commissioned off
 usc_title: 10
 usc_section: "7311"
 chapter: 741
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 7311"
-generated_at: "2026-03-30T08:11:48.017Z"
+generated_at: "2026-03-30T08:14:28.656Z"
 status: "active"
 ---
 

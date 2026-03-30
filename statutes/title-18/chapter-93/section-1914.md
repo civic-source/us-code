@@ -3,9 +3,9 @@ title: "Section 1914 - Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Sta
 usc_title: 18
 usc_section: "1914"
 chapter: 93
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "18 U.S.C. § 1914"
-generated_at: "2026-03-30T08:12:32.626Z"
+generated_at: "2026-03-30T08:14:54.392Z"
 status: "repealed"
 ---
 

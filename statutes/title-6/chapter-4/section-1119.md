@@ -3,9 +3,9 @@ title: "Section 1119 - Voluntary use of credentialing"
 usc_title: 6
 usc_section: "1119"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 1119"
-generated_at: "2026-03-30T08:11:36.763Z"
+generated_at: "2026-03-30T08:14:20.233Z"
 status: "active"
 ---
 
@@ -23,5 +23,5 @@ status: "active"
   - **(2)** The term “valid transportation security card” means a transportation security card that is—
     - **(A)** issued under section 70105 of title 46 ;
     - **(B)** not expired;
-    - **(C)** shows no signs of tampering; and
-    - **(D)** bears a photograph of the individual representing such card.
+    - **(C)** shows 1 1 So in original. no signs of tampering; and
+    - **(D)** bears 1 a photograph of the individual representing such card.

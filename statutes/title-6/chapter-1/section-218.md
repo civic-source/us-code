@@ -3,9 +3,9 @@ title: "Section 218 - Asia-Pacific Economic Cooperation Business Travel Cards"
 usc_title: 6
 usc_section: "218"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 218"
-generated_at: "2026-03-30T08:11:36.736Z"
+generated_at: "2026-03-30T08:14:20.207Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
   - **(2)** The Commissioner of U.S. Customs and Border Protection shall ensure that the total amount of the fees collected under paragraph (1) during any fiscal year is sufficient to offset the direct and indirect costs associated with carrying out this section during such fiscal year, including the costs associated with operating and maintaining the ABT Card issuance and renewal processes.
   - **(3)** There is established in the Treasury of the United States an “Asia-Pacific Economic Cooperation Business Travel Card Account” into which the fees collected under paragraph (1) shall be deposited as offsetting receipts.
   - **(4)** Amounts deposited into the Asia Pacific 1 1 So in original. Probably should be “Asia-Pacific”. Economic Cooperation Business Travel Card Account established under paragraph (3) shall—
-    - **(A)** be credited to the appropriate account of the U.S. Customs and Border Protection for expenses incurred in carrying out this section; and
+    - **(A)** be credited to the appropriate account of the 2 2 So in original. “The” probably should not appear. U.S. Customs and Border Protection for expenses incurred in carrying out this section; and
     - **(B)** remain available until expended.
 - **(f)** The Commissioner of U.S. Customs and Border Protection shall notify the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate not later than 60 days after the expenditures of funds to operate and provide ABT Card services beyond the amounts collected under subsection (e)(1).
 - **(g)** In this section, the term “trusted traveler program” means a voluntary program of the Department that allows U.S. Customs and Border Protection to expedite clearance of pre-approved, low-risk travelers arriving in the United States.

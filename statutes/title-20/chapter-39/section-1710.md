@@ -3,9 +3,9 @@ title: "Section 1710 - Civil actions by Attorney General; notice of violations; 
 usc_title: 20
 usc_section: "1710"
 chapter: 39
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1710"
-generated_at: "2026-03-30T08:12:35.821Z"
+generated_at: "2026-03-30T08:14:56.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1064 - Repealed. Pub. L. 102–325, title III, § 304(a)(2) , Ju
 usc_title: 20
 usc_section: "1064"
 chapter: 28
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1064"
-generated_at: "2026-03-30T08:12:35.765Z"
+generated_at: "2026-03-30T08:14:56.224Z"
 status: "repealed"
 ---
 

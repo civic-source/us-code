@@ -3,9 +3,9 @@ title: "Section 3 - Seal"
 usc_title: 13
 usc_section: "3"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "13 U.S.C. § 3"
-generated_at: "2026-03-30T08:12:06.520Z"
+generated_at: "2026-03-30T08:14:35.519Z"
 status: "active"
 ---
 

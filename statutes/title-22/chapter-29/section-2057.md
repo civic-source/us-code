@@ -3,9 +3,9 @@ title: "Section 2057 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2057"
 chapter: 29
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 2057"
-generated_at: "2026-03-30T08:12:43.371Z"
+generated_at: "2026-03-30T08:15:20.718Z"
 status: "active"
 ---
 

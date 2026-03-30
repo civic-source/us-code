@@ -3,9 +3,9 @@ title: "Section 845 - Dust standards in presence of quartz"
 usc_title: 30
 usc_section: "845"
 chapter: 22
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "30 U.S.C. § 845"
-generated_at: "2026-03-30T08:12:57.301Z"
+generated_at: "2026-03-30T08:15:34.117Z"
 status: "active"
 ---
 

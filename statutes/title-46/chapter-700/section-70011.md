@@ -3,9 +3,9 @@ title: "Section 70011 - Waterfront safety"
 usc_title: 46
 usc_section: "70011"
 chapter: 700
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "46 U.S.C. § 70011"
-generated_at: "2026-03-30T08:13:52.920Z"
+generated_at: "2026-03-30T08:16:33.257Z"
 status: "active"
 ---
 

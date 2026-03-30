@@ -3,9 +3,9 @@ title: "Section 25A - American Opportunity and Lifetime Learning credits"
 usc_title: 26
 usc_section: "25A"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 25A"
-generated_at: "2026-03-30T08:12:52.512Z"
+generated_at: "2026-03-30T08:15:44.714Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
 - **(c)**
   - **(1)** The Lifetime Learning Credit for any taxpayer for any taxable year is an amount equal to 20 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished during any academic period beginning in such taxable year) as does not exceed $10,000.
   - **(2)**
-    - **(A)** The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
+    - **(A)** The qualified tuition and related expenses with respect to an individual who is an eligible student for whom a 1 1 So in original. Probably should be “an”. American Opportunity Tax Credit under subsection (a)(1) is allowed for the taxable year shall not be taken into account under this subsection.
     - **(B)** For purposes of paragraph (1), qualified tuition and related expenses shall include expenses described in subsection (f)(1) with respect to any course of instruction at an eligible educational institution to acquire or improve job skills of the individual.
 - **(d)**
   - **(1)** The American Opportunity Tax Credit (determined without regard to this paragraph) shall be reduced (but not below zero) by the amount which bears the same ratio to such credit (as so determined) as—
@@ -88,5 +88,5 @@ status: "active"
     - **(A)** such dollar amount, multiplied by
     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 2016” in subparagraph (A)(ii) thereof.
   - **(2)** If any amount as adjusted under paragraph (1) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
-- **(i)** Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 1 1 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
+- **(i)** Forty percent of so much of the credit allowed under subsection (a) as is attributable to the American Opportunity Tax Credit (determined after application of subsection (d) and without regard to this paragraph 2 2 So in original. Probably should be “this subsection”. and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 - **(j)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.

@@ -3,9 +3,9 @@ title: "Section 45302 - Fees involving aircraft not providing air transportation
 usc_title: 49
 usc_section: "45302"
 chapter: 453
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 45302"
-generated_at: "2026-03-30T08:13:59.068Z"
+generated_at: "2026-03-30T08:16:42.075Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12322 - Active duty for health care"
 usc_title: 10
 usc_section: "12322"
 chapter: 1209
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 12322"
-generated_at: "2026-03-30T08:11:48.043Z"
+generated_at: "2026-03-30T08:14:28.683Z"
 status: "active"
 ---
 

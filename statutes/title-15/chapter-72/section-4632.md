@@ -3,9 +3,9 @@ title: "Section 4632 - Semiconductor research and development"
 usc_title: 15
 usc_section: "4632"
 chapter: 72
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 4632"
-generated_at: "2026-03-30T08:12:15.397Z"
+generated_at: "2026-03-30T08:14:39.150Z"
 status: "active"
 ---
 

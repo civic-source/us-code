@@ -3,9 +3,9 @@ title: "Section 151501 - Definition"
 usc_title: 36
 usc_section: "151501"
 chapter: 1515
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "36 U.S.C. § 151501"
-generated_at: "2026-03-30T08:13:06.325Z"
+generated_at: "2026-03-30T08:15:52.487Z"
 status: "active"
 ---
 

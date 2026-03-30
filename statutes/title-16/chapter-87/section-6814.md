@@ -3,9 +3,9 @@ title: "Section 6814 - Limitation on use of fees for employee bonuses"
 usc_title: 16
 usc_section: "6814"
 chapter: 87
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 6814"
-generated_at: "2026-03-30T08:12:31.764Z"
+generated_at: "2026-03-30T08:15:12.643Z"
 status: "active"
 ---
 

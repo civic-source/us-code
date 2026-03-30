@@ -3,9 +3,9 @@ title: "Section 317 - Other definitions"
 usc_title: 26
 usc_section: "317"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 317"
-generated_at: "2026-03-30T08:12:52.574Z"
+generated_at: "2026-03-30T08:15:44.782Z"
 status: "active"
 ---
 

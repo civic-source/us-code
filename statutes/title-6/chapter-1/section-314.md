@@ -3,9 +3,9 @@ title: "Section 314 - Authority and responsibilities"
 usc_title: 6
 usc_section: "314"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 314"
-generated_at: "2026-03-30T08:11:36.741Z"
+generated_at: "2026-03-30T08:14:20.212Z"
 status: "active"
 ---
 

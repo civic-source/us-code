@@ -3,9 +3,9 @@ title: "Section 1532 - Program authorization"
 usc_title: 21
 usc_section: "1532"
 chapter: 20
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 1532"
-generated_at: "2026-03-30T08:12:40.228Z"
+generated_at: "2026-03-30T08:15:18.293Z"
 status: "active"
 ---
 
@@ -68,7 +68,7 @@ status: "active"
       - **(ii)** If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
       - **(iii)** Subject to clause (iv), the Administrator may award a renewal grant to a grant recipient under this subparagraph for each fiscal year of the 4-fiscal-year period following the first fiscal year for which the initial additional grant is awarded in an amount not to exceed the following:
         - **(I)** For the first and second fiscal years of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 125 percent of the amount awarded.
-        - **(II)** For the third and fourth fiscal tears of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
+        - **(II)** For the third and fourth fiscal tears 1 1 So in original. Probably should be “years”. of the 4-fiscal-year period, the amount of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year is not less than 150 percent of the amount awarded.
       - **(iv)** The amount of a grant award under this subparagraph may not exceed $125,000 for a fiscal year.
     - **(B)**
       - **(i)** Except as provided in clause (ii), the Administrator may, with respect to a community, make a grant to 1 eligible coalition that represents that community.

@@ -3,9 +3,9 @@ title: "Section 1748d - Report on wildfire, insect infestation, and disease prev
 usc_title: 43
 usc_section: "1748d"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 1748d"
-generated_at: "2026-03-30T08:13:17.436Z"
+generated_at: "2026-03-30T08:16:02.050Z"
 status: "active"
 ---
 

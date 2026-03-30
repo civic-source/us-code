@@ -3,9 +3,9 @@ title: "Section 1346 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(148) , 
 usc_title: 26
 usc_section: "1346"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 1346"
-generated_at: "2026-03-30T08:12:52.658Z"
+generated_at: "2026-03-30T08:15:44.884Z"
 status: "repealed"
 ---
 

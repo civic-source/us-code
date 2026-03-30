@@ -3,9 +3,9 @@ title: "Section 5310 - Formula grants for the enhanced mobility of seniors and i
 usc_title: 49
 usc_section: "5310"
 chapter: 53
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 5310"
-generated_at: "2026-03-30T08:13:59.009Z"
+generated_at: "2026-03-30T08:16:42.017Z"
 status: "active"
 ---
 

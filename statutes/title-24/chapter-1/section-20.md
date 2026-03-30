@@ -3,9 +3,9 @@ title: "Section 20 - Discipline of patients at Army and Navy Hospital"
 usc_title: 24
 usc_section: "20"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "24 U.S.C. § 20"
-generated_at: "2026-03-30T08:12:37.696Z"
+generated_at: "2026-03-30T08:15:18.475Z"
 status: "active"
 ---
 

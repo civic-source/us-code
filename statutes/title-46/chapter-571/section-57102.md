@@ -3,9 +3,9 @@ title: "Section 57102 - Disposition of vessels not worth preserving"
 usc_title: 46
 usc_section: "57102"
 chapter: 571
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "46 U.S.C. § 57102"
-generated_at: "2026-03-30T08:13:52.918Z"
+generated_at: "2026-03-30T08:16:33.254Z"
 status: "active"
 ---
 

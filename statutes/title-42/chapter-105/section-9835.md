@@ -3,9 +3,9 @@ title: "Section 9835 - Allotment of funds"
 usc_title: 42
 usc_section: "9835"
 chapter: 105
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 9835"
-generated_at: "2026-03-30T08:13:47.167Z"
+generated_at: "2026-03-30T08:16:21.264Z"
 status: "active"
 ---
 

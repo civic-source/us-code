@@ -3,9 +3,9 @@ title: "Section 1389 - Pacific Coast Task Force; Gulf of Maine"
 usc_title: 16
 usc_section: "1389"
 chapter: 31
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 1389"
-generated_at: "2026-03-30T08:12:31.700Z"
+generated_at: "2026-03-30T08:15:12.577Z"
 status: "active"
 ---
 
@@ -36,7 +36,7 @@ status: "active"
   - **(2)** depleted under this chapter; or
   - **(3)** a strategic stock.
 - **(f)**
-  - **(1)** Removal authority
+  - **(1)** Notwithstanding any other provision of this chapter, the Secretary may issue a permit to an eligible entity to authorize the intentional lethal taking on the waters of the Columbia River and its tributaries of individually identifiable sea lions that are part of a population or stock that is not categorized under this chapter as depleted or strategic for the purpose of protecting—
     - **(A)** species of salmon, steelhead, or eulachon that are listed as endangered species or threatened species under the Endangered Species Act of 1973 ( 16 U.S.C. 1531 et seq.); and
     - **(B)** species of lamprey or sturgeon that are not so listed as endangered or threatened but are listed as a species of concern.
   - **(2)**

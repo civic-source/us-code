@@ -3,9 +3,9 @@ title: "Section 1222 - Authorization of suits against manufacturers; amount of r
 usc_title: 15
 usc_section: "1222"
 chapter: 27
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 1222"
-generated_at: "2026-03-30T08:12:15.336Z"
+generated_at: "2026-03-30T08:14:39.082Z"
 status: "active"
 ---
 

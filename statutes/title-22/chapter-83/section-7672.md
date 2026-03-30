@@ -3,9 +3,9 @@ title: "Section 7672 - Sense of Congress"
 usc_title: 22
 usc_section: "7672"
 chapter: 83
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 7672"
-generated_at: "2026-03-30T08:12:43.462Z"
+generated_at: "2026-03-30T08:15:20.808Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 581 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , e
 usc_title: 12
 usc_section: "581"
 chapter: 5
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 581"
-generated_at: "2026-03-30T08:12:22.797Z"
+generated_at: "2026-03-30T08:14:49.981Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2003 - Regulations"
 usc_title: 42
 usc_section: "2003"
 chapter: 22
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 2003"
-generated_at: "2026-03-30T08:13:46.979Z"
+generated_at: "2026-03-30T08:16:21.029Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 824b - Disposition of property; consolidations; purchase of secu
 usc_title: 16
 usc_section: "824b"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 824b"
-generated_at: "2026-03-30T08:12:31.667Z"
+generated_at: "2026-03-30T08:15:12.544Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)**
   - **(1)** No public utility shall, without first having secured an order of the Commission authorizing it to do so—
     - **(A)** sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $10,000,000;
-    - **(B)** merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;
+    - **(B)** merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;
     - **(C)** purchase, acquire, or take any security with a value in excess of $10,000,000 of any other public utility; or
     - **(D)** purchase, lease, or otherwise acquire an existing generation facility—
       - **(i)** that has a value in excess of $10,000,000; and

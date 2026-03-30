@@ -3,9 +3,9 @@ title: "Section 85 - Concessions"
 usc_title: 20
 usc_section: "85"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 85"
-generated_at: "2026-03-30T08:12:35.751Z"
+generated_at: "2026-03-30T08:14:56.209Z"
 status: "active"
 ---
 

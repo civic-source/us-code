@@ -3,9 +3,9 @@ title: "Section 1750b - Insurance in critical areas"
 usc_title: 12
 usc_section: "1750b"
 chapter: 13
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 1750b"
-generated_at: "2026-03-30T08:12:22.842Z"
+generated_at: "2026-03-30T08:14:50.028Z"
 status: "active"
 ---
 

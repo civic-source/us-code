@@ -3,9 +3,9 @@ title: "Section 12576 - Other special assistance"
 usc_title: 42
 usc_section: "12576"
 chapter: 129
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 12576"
-generated_at: "2026-03-30T08:13:47.211Z"
+generated_at: "2026-03-30T08:16:21.318Z"
 status: "active"
 ---
 

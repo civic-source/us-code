@@ -3,9 +3,9 @@ title: "Section 7332 - Confidentiality of certain medical records"
 usc_title: 38
 usc_section: "7332"
 chapter: 73
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 7332"
-generated_at: "2026-03-30T08:13:09.362Z"
+generated_at: "2026-03-30T08:15:55.161Z"
 status: "active"
 ---
 
@@ -31,7 +31,7 @@ status: "active"
     - **(H)**
       - **(i)** To a non-Department entity (including private entities and other Federal agencies) for purposes of providing health care, including hospital care, medical services, and extended care services, to patients or performing other health care-related activities or functions.
       - **(ii)** An entity to which a record is disclosed under this subparagraph may not disclose or use such record for a purpose other than that for which the disclosure was made or as permitted by law.
-        - **(I)** To a third party in order to recover or collect reasonable charges for care furnished to, or paid on behalf of, a patient in connection with a non-service connected disability as permitted by section 1729 of this title or for a condition for which recovery is authorized or with respect to which the United States is deemed to be a third party beneficiary under the Act entitled “An Act to provide for the recovery from tortiously liable third persons of the cost of hospital and medical care and treatment furnished by the United States” ( Public Law 87–693 ; 42 U.S.C. 2651 et seq.; commonly known as the “Federal Medical Care Recovery Act”).
+    - **(I)** To a third party in order to recover or collect reasonable charges for care furnished to, or paid on behalf of, a patient in connection with a non-service connected disability as permitted by section 1729 of this title or for a condition for which recovery is authorized or with respect to which the United States is deemed to be a third party beneficiary under the Act entitled “An Act to provide for the recovery from tortiously liable third persons of the cost of hospital and medical care and treatment furnished by the United States” ( Public Law 87–693 ; 42 U.S.C. 2651 et seq.; commonly known as the “Federal Medical Care Recovery Act”).
   - **(3)** In the event that the patient or subject who is the subject of any record referred to in subsection (a) is deceased, the content of any such record may be disclosed by the Secretary only upon the prior written request of the next of kin, executor, administrator, or other personal representative of such patient or subject and only if the Secretary determines that such disclosure is necessary for such survivor to obtain benefits to which such survivor may be entitled, including the pursuit of legal action, but then only to the extent, under such circumstances, and for such purposes as may be allowed in regulations prescribed pursuant to section 7334 of this title .
 - **(c)** Except as authorized by a court order granted under subsection (b)(2)(D), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against, or to conduct any investigation of, a patient or subject.
 - **(d)** The prohibitions of this section shall continue to apply to records concerning any person who has been a patient or subject, irrespective of whether or when such person ceases to be a patient.

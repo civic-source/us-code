@@ -1,15 +1,15 @@
 ---
-title: "Section 1715 - GAO Audit"
+title: "Section 1715 - GAO audit"
 usc_title: 21
 usc_section: "1715"
 chapter: 22
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 1715"
-generated_at: "2026-03-30T08:12:40.233Z"
+generated_at: "2026-03-30T08:15:18.298Z"
 status: "active"
 ---
 
-# § 1715. GAO Audit
+# § 1715. GAO audit
 
 Not later than 4 years after October 24, 2018 , and every 4 years thereafter, the Comptroller General of the United States shall—
 

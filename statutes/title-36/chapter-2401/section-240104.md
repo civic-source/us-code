@@ -3,9 +3,9 @@ title: "Section 240104 - Membership"
 usc_title: 36
 usc_section: "240104"
 chapter: 2401
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "36 U.S.C. § 240104"
-generated_at: "2026-03-30T08:13:06.331Z"
+generated_at: "2026-03-30T08:15:52.498Z"
 status: "active"
 ---
 

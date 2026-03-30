@@ -3,9 +3,9 @@ title: "Section 734a - Extension of industrial alcohol and internal revenue laws
 usc_title: 48
 usc_section: "734a"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "48 U.S.C. § 734a"
-generated_at: "2026-03-30T08:13:56.042Z"
+generated_at: "2026-03-30T08:16:24.235Z"
 status: "active"
 ---
 

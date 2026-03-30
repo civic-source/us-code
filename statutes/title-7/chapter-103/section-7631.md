@@ -3,9 +3,9 @@ title: "Section 7631 - Agricultural biotechnology research and development for d
 usc_title: 7
 usc_section: "7631"
 chapter: 103
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 7631"
-generated_at: "2026-03-30T08:12:04.792Z"
+generated_at: "2026-03-30T08:14:25.049Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2432 - Effect on the reclamation laws"
 usc_title: 43
 usc_section: "2432"
 chapter: 42
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 2432"
-generated_at: "2026-03-30T08:13:17.443Z"
+generated_at: "2026-03-30T08:16:02.059Z"
 status: "active"
 ---
 

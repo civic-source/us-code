@@ -3,9 +3,9 @@ title: "Section 329 - Capital stock required as condition precedent to membershi
 usc_title: 12
 usc_section: "329"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 329"
-generated_at: "2026-03-30T08:12:22.793Z"
+generated_at: "2026-03-30T08:14:49.975Z"
 status: "active"
 ---
 

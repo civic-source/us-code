@@ -3,9 +3,9 @@ title: "Section 6315 - Telecommunications services for Senators; payment of cost
 usc_title: 2
 usc_section: "6315"
 chapter: 63
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 6315"
-generated_at: "2026-03-30T08:11:34.335Z"
+generated_at: "2026-03-30T08:14:13.708Z"
 status: "active"
 ---
 

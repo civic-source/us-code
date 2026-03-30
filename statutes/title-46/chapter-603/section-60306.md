@@ -3,9 +3,9 @@ title: "Section 60306 - Vessels not engaged in trade"
 usc_title: 46
 usc_section: "60306"
 chapter: 603
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "46 U.S.C. § 60306"
-generated_at: "2026-03-30T08:13:52.919Z"
+generated_at: "2026-03-30T08:16:33.256Z"
 status: "active"
 ---
 

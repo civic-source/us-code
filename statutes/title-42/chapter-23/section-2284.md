@@ -3,9 +3,9 @@ title: "Section 2284 - Sabotage of nuclear facilities or fuel"
 usc_title: 42
 usc_section: "2284"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 2284"
-generated_at: "2026-03-30T08:13:46.993Z"
+generated_at: "2026-03-30T08:16:21.046Z"
 status: "active"
 ---
 

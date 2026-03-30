@@ -3,9 +3,9 @@ title: "Section 1675 - Administrative review of determinations"
 usc_title: 19
 usc_section: "1675"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "19 U.S.C. § 1675"
-generated_at: "2026-03-30T08:12:26.588Z"
+generated_at: "2026-03-30T08:14:53.444Z"
 status: "active"
 ---
 

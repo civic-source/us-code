@@ -3,9 +3,9 @@ title: "Section 5103 - Legal tender"
 usc_title: 31
 usc_section: "5103"
 chapter: 51
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "31 U.S.C. § 5103"
-generated_at: "2026-03-30T08:13:00.328Z"
+generated_at: "2026-03-30T08:15:48.814Z"
 status: "active"
 ---
 

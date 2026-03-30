@@ -3,9 +3,9 @@ title: "Section 1100 - Defense Health Program Account"
 usc_title: 10
 usc_section: "1100"
 chapter: 55
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 1100"
-generated_at: "2026-03-30T08:11:47.952Z"
+generated_at: "2026-03-30T08:14:28.590Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 295 - Repealed. Pub. L. 96–591, § 8(b) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "295"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "33 U.S.C. § 295"
-generated_at: "2026-03-30T08:13:01.695Z"
+generated_at: "2026-03-30T08:15:49.783Z"
 status: "repealed"
 ---
 

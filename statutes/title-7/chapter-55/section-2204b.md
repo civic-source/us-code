@@ -3,9 +3,9 @@ title: "Section 2204b - Rural development policy"
 usc_title: 7
 usc_section: "2204b"
 chapter: 55
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 2204b"
-generated_at: "2026-03-30T08:12:04.730Z"
+generated_at: "2026-03-30T08:14:24.989Z"
 status: "active"
 ---
 

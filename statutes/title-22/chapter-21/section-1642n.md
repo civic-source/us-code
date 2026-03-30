@@ -3,9 +3,9 @@ title: "Section 1642n - Transfer of records"
 usc_title: 22
 usc_section: "1642n"
 chapter: 21
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 1642n"
-generated_at: "2026-03-30T08:12:43.367Z"
+generated_at: "2026-03-30T08:15:20.714Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4729 - Coastal Aquatic Invasive Species Mitigation Grant Program
 usc_title: 16
 usc_section: "4729"
 chapter: 67
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 4729"
-generated_at: "2026-03-30T08:12:31.752Z"
+generated_at: "2026-03-30T08:15:12.631Z"
 status: "active"
 ---
 
@@ -34,11 +34,11 @@ status: "active"
       - **(iii)** to support the restoration of Pacific Island habitats, marine, estuarine, and Great Lakes environments in the coastal zone and the Exclusive Economic Zone that are impacted by aquatic invasive species.
     - **(C)**
       - **(i)** A grant awarded under the Program shall be used for an activity to carry out the purposes of the Program, including an activity—
-        - **(I)**
-        - **(II)**
-        - **(III)**
-        - **(IV)**
-        - **(V)**
+        - **(I)** to develop and implement procedures and programs, including permissible State ballast water inspection programs, to prevent, detect, control, mitigate, and rapidly or progressively eradicate aquatic invasive species in the coastal zone or the Exclusive Economic Zone, particularly in areas with high numbers of established aquatic invasive species;
+        - **(II)** to restore habitat impacted by an aquatic invasive species;
+        - **(III)** to develop new shipboard and land-based ballast water treatment system technologies and performance standards to prevent the introduction of aquatic invasive species;
+        - **(IV)** to develop mitigation measures to protect natural and cultural living resources, including shellfish, from the impacts of aquatic invasive species; or
+        - **(V)** to develop mitigation measures to protect infrastructure, such as hydroelectric infrastructure, from aquatic invasive species.
       - **(ii)** A grant awarded under the Program may not be used to fund litigation in any matter.
     - **(D)** Not later than 90 days after December 4, 2018 , the Foundation, in consultation with the Secretary, shall establish the following:
       - **(i)** Application and review procedures for awarding grants under the Program.

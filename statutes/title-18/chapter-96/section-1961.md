@@ -3,9 +3,9 @@ title: "Section 1961 - Definitions"
 usc_title: 18
 usc_section: "1961"
 chapter: 96
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "18 U.S.C. § 1961"
-generated_at: "2026-03-30T08:12:32.627Z"
+generated_at: "2026-03-30T08:14:54.393Z"
 status: "active"
 ---
 

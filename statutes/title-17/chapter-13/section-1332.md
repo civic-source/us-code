@@ -3,9 +3,9 @@ title: "Section 1332 - No retroactive effect"
 usc_title: 17
 usc_section: "1332"
 chapter: 13
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "17 U.S.C. § 1332"
-generated_at: "2026-03-30T08:12:27.822Z"
+generated_at: "2026-03-30T08:14:52.044Z"
 status: "active"
 ---
 

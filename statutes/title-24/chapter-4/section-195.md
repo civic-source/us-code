@@ -3,9 +3,9 @@ title: "Section 195 - Repealed. Pub. L. 98–621, § 10(f)(2) , Nov. 8, 1984 , 9
 usc_title: 24
 usc_section: "195"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "24 U.S.C. § 195"
-generated_at: "2026-03-30T08:12:37.697Z"
+generated_at: "2026-03-30T08:15:18.477Z"
 status: "repealed"
 ---
 

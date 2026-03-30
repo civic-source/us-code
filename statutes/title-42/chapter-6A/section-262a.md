@@ -3,9 +3,9 @@ title: "Section 262a - Enhanced control of dangerous biological agents and toxin
 usc_title: 42
 usc_section: "262a"
 chapter: 6
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 262a"
-generated_at: "2026-03-30T08:13:46.645Z"
+generated_at: "2026-03-30T08:16:20.615Z"
 status: "active"
 ---
 
@@ -112,7 +112,11 @@ status: "active"
   - **(1)** In addition to any other penalties that may apply under law, any person who violates any provision of regulations under subsection (b) or (c) shall be subject to the United States for a civil money penalty in an amount not exceeding $250,000 in the case of an individual and $500,000 in the case of any other person.
   - **(2)** The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title . The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title , and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
 - **(j)** Regulations under subsections (b) and (c) shall require the prompt notification of the Secretary by a registered person whenever a release, meeting criteria established by the Secretary, of a listed agent or toxin has occurred outside of the biocontainment area of a facility of the registered person. Upon receipt of such notification and a finding by the Secretary that the release poses a threat to public health or safety, the Secretary shall take appropriate action to notify relevant State and local public health authorities, other relevant Federal authorities, and, if necessary, other appropriate persons (including the public). If the released listed agent or toxin is an overlap agent or toxin (as defined in subsection ( l )), the Secretary shall promptly notify the Secretary of Agriculture upon notification by the registered person.
-- **(k)** The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+- **(k)**
+  - **(1)** The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+  - **(2)**
+    - **(A)** Not later than 1 year after June 24, 2019 , the Secretary shall report to the congressional committees of jurisdiction on the implementation of recommendations of the Federal Experts Security Advisory Panel concerning the select agent program.
+    - **(B)** The Secretary shall report to the congressional committees of jurisdiction annually following the submission of the report under subparagraph (A) until the recommendations described in such subparagraph are fully implemented, or a justification is provided for the delay in, or lack of, implementation.
 - **(l)** For purposes of this section:
   - **(1)** The terms “biological agent” and “toxin” have the meanings given such terms in section 178 of title 18 .
   - **(2)** The term “listed agents and toxins” means biological agents and toxins listed pursuant to subsection (a)(1).

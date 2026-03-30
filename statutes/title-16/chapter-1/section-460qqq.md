@@ -3,9 +3,9 @@ title: "Section 460qqq - Purpose"
 usc_title: 16
 usc_section: "460qqq"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 460qqq"
-generated_at: "2026-03-30T08:12:31.622Z"
+generated_at: "2026-03-30T08:15:12.497Z"
 status: "active"
 ---
 

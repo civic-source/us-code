@@ -3,9 +3,9 @@ title: "Section 7258 - Standby authority to indicate entity best suited to provi
 usc_title: 7
 usc_section: "7258"
 chapter: 100
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 7258"
-generated_at: "2026-03-30T08:12:04.782Z"
+generated_at: "2026-03-30T08:14:25.041Z"
 status: "active"
 ---
 

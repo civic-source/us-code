@@ -3,9 +3,9 @@ title: "Section 2904 - Education and training opportunities for Coast Guard spou
 usc_title: 14
 usc_section: "2904"
 chapter: 29
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "14 U.S.C. § 2904"
-generated_at: "2026-03-30T08:12:07.361Z"
+generated_at: "2026-03-30T08:14:35.367Z"
 status: "active"
 ---
 

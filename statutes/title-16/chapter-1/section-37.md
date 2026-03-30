@@ -3,9 +3,9 @@ title: "Section 37 - Use of funds; maintenance of financial records; audits"
 usc_title: 16
 usc_section: "37"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 37"
-generated_at: "2026-03-30T08:12:31.568Z"
+generated_at: "2026-03-30T08:15:12.441Z"
 status: "active"
 ---
 

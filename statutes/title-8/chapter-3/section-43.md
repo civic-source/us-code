@@ -3,9 +3,9 @@ title: "Section 43 - Transferred"
 usc_title: 8
 usc_section: "43"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "8 U.S.C. § 43"
-generated_at: "2026-03-30T08:11:38.387Z"
+generated_at: "2026-03-30T08:14:32.728Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1550 - Separability"
 usc_title: 42
 usc_section: "1550"
 chapter: 9
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 1550"
-generated_at: "2026-03-30T08:13:46.943Z"
+generated_at: "2026-03-30T08:16:20.985Z"
 status: "active"
 ---
 

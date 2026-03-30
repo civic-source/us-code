@@ -3,9 +3,9 @@ title: "Section 17303 - Fund for the payment of Government losses in shipment"
 usc_title: 40
 usc_section: "17303"
 chapter: 173
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "40 U.S.C. § 17303"
-generated_at: "2026-03-30T08:13:07.649Z"
+generated_at: "2026-03-30T08:15:55.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 465 - Detention of vessels"
 usc_title: 22
 usc_section: "465"
 chapter: 9
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 465"
-generated_at: "2026-03-30T08:12:43.359Z"
+generated_at: "2026-03-30T08:15:20.706Z"
 status: "active"
 ---
 

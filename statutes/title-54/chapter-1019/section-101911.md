@@ -3,9 +3,9 @@ title: "Section 101911 - Definitions"
 usc_title: 54
 usc_section: "101911"
 chapter: 1019
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "54 U.S.C. § 101911"
-generated_at: "2026-03-30T08:14:01.201Z"
+generated_at: "2026-03-30T08:16:44.019Z"
 status: "active"
 ---
 

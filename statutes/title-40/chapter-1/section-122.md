@@ -3,9 +3,9 @@ title: "Section 122 - Prohibition on sex discrimination"
 usc_title: 40
 usc_section: "122"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "40 U.S.C. § 122"
-generated_at: "2026-03-30T08:13:07.635Z"
+generated_at: "2026-03-30T08:15:55.735Z"
 status: "active"
 ---
 

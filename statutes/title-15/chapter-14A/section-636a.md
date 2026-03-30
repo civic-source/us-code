@@ -3,9 +3,9 @@ title: "Section 636a - Repealed. Pub. L. 97–35, title XIX, § 1917 , Aug. 13, 
 usc_title: 15
 usc_section: "636a"
 chapter: 14
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 636a"
-generated_at: "2026-03-30T08:12:15.303Z"
+generated_at: "2026-03-30T08:14:39.047Z"
 status: "repealed"
 ---
 

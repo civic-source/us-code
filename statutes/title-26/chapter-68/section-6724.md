@@ -3,9 +3,9 @@ title: "Section 6724 - Waiver; definitions and special rules"
 usc_title: 26
 usc_section: "6724"
 chapter: 68
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 6724"
-generated_at: "2026-03-30T08:12:52.740Z"
+generated_at: "2026-03-30T08:15:44.976Z"
 status: "active"
 ---
 
@@ -13,7 +13,7 @@ status: "active"
 
 - **(a)** No penalty shall be imposed under this part with respect to any failure if it is shown that such failure is due to reasonable cause and not to willful neglect.
 - **(b)** Any penalty imposed by this part shall be paid on notice and demand by the Secretary and in the same manner as tax.
-- **(c)** No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than 250 information returns (more than 100 information returns in the case of a partnership having more than 100 partners) or with respect to a return described in section 6011(e)(4).
+- **(c)** No penalty shall be imposed under section 6721 solely by reason of any failure to comply with the requirements of the regulations prescribed under section 6011(e)(2), except to the extent that such a failure occurs with respect to more than the applicable number (determined under section 6011(e)(5) with respect to the calendar year to which such returns relate) of information returns or with respect to a return described in section 6011(e)(4).
 - **(d)** For purposes of this part—
   - **(1)** The term “information return” means—
     - **(A)** any statement of the amount of payments to another person required by—

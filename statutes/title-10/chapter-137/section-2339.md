@@ -3,9 +3,9 @@ title: "Section 2339 - Repealed. Pub. L. 115–232, div. A, title VIII, § 821(c
 usc_title: 10
 usc_section: "2339"
 chapter: 137
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2339"
-generated_at: "2026-03-30T08:11:47.988Z"
+generated_at: "2026-03-30T08:14:28.627Z"
 status: "repealed"
 ---
 

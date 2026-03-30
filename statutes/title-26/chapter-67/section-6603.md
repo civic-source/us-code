@@ -3,9 +3,9 @@ title: "Section 6603 - Deposits made to suspend running of interest on potential
 usc_title: 26
 usc_section: "6603"
 chapter: 67
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 6603"
-generated_at: "2026-03-30T08:12:52.734Z"
+generated_at: "2026-03-30T08:15:44.971Z"
 status: "active"
 ---
 
@@ -23,7 +23,7 @@ status: "active"
     - **(A)** The term “disputable item” means any item of income, gain, loss, deduction, or credit if the taxpayer—
       - **(i)** has a reasonable basis for its treatment of such item, and
       - **(ii)** reasonably believes that the Secretary also has a reasonable basis for disallowing the taxpayer’s treatment of such item.
-    - **(B)** The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+    - **(B)** The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
   - **(4)** The rate of interest under this subsection shall be the Federal short-term rate determined under section 6621(b), compounded daily.
 - **(e)**
   - **(1)** Except as otherwise provided by the taxpayer, deposits shall be treated as used for the payment of tax in the order deposited.

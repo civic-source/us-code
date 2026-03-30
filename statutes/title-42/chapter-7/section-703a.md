@@ -3,9 +3,9 @@ title: "Section 703a - Omitted"
 usc_title: 42
 usc_section: "703a"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 703a"
-generated_at: "2026-03-30T08:13:46.784Z"
+generated_at: "2026-03-30T08:16:20.789Z"
 status: "omitted"
 ---
 

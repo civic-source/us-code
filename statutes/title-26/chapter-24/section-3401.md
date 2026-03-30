@@ -3,9 +3,9 @@ title: "Section 3401 - Definitions"
 usc_title: 26
 usc_section: "3401"
 chapter: 24
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 3401"
-generated_at: "2026-03-30T08:12:52.679Z"
+generated_at: "2026-03-30T08:15:44.908Z"
 status: "active"
 ---
 
@@ -43,7 +43,7 @@ status: "active"
   - **(14)** in the form of group-term life insurance on the life of an employee,
   - **(15)** to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n)),
   - **(16)**
-    - **(A)** as tips in any medium other than cash,
+    - **(A)** as tips in any medium other than cash, 1 1 So in original. Probably should be followed by “or”.
     - **(B)** as cash tips to an employee in any calendar month in the course of his employment by an employer unless the amount of such cash tips is $20 or more,
   - **(17)** for service described in section 3121(b)(20),
   - **(18)** for any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5),

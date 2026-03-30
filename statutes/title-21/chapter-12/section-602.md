@@ -3,9 +3,9 @@ title: "Section 602 - Congressional statement of findings"
 usc_title: 21
 usc_section: "602"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 602"
-generated_at: "2026-03-30T08:12:40.214Z"
+generated_at: "2026-03-30T08:15:18.280Z"
 status: "active"
 ---
 

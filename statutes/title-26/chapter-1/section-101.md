@@ -3,9 +3,9 @@ title: "Section 101 - Certain death benefits"
 usc_title: 26
 usc_section: "101"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 101"
-generated_at: "2026-03-30T08:12:52.536Z"
+generated_at: "2026-03-30T08:15:44.741Z"
 status: "active"
 ---
 

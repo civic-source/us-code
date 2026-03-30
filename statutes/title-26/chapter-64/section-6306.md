@@ -3,9 +3,9 @@ title: "Section 6306 - Qualified tax collection contracts"
 usc_title: 26
 usc_section: "6306"
 chapter: 64
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 6306"
-generated_at: "2026-03-30T08:12:52.726Z"
+generated_at: "2026-03-30T08:15:44.961Z"
 status: "active"
 ---
 
@@ -15,7 +15,7 @@ status: "active"
 - **(b)** For purposes of this section, the term “qualified tax collection contract” means any contract which—
   - **(1)** is for the services of any person (other than an officer or employee of the Treasury Department)—
     - **(A)** to locate and contact any taxpayer specified by the Secretary,
-    - **(B)** to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 5 years, and
+    - **(B)** to request full payment from such taxpayer of an amount of Federal tax specified by the Secretary and, if such request cannot be met by the taxpayer, to offer the taxpayer an installment agreement providing for full payment of such amount during a period not to exceed 7 years, and
     - **(C)** to obtain financial information specified by the Secretary with respect to such taxpayer,
   - **(2)** prohibits each person providing such services under such contract from committing any act or omission which employees of the Internal Revenue Service are prohibited from committing in the performance of similar services,
   - **(3)** prohibits subcontractors from—

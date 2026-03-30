@@ -3,9 +3,9 @@ title: "Section 11241 - Coordination"
 usc_title: 34
 usc_section: "11241"
 chapter: 111
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "34 U.S.C. § 11241"
-generated_at: "2026-03-30T08:13:00.935Z"
+generated_at: "2026-03-30T08:15:48.002Z"
 status: "active"
 ---
 

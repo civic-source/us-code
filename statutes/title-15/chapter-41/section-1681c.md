@@ -3,9 +3,9 @@ title: "Section 1681c - Requirements relating to information contained in consum
 usc_title: 15
 usc_section: "1681c"
 chapter: 41
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 1681c"
-generated_at: "2026-03-30T08:12:15.352Z"
+generated_at: "2026-03-30T08:14:39.100Z"
 status: "active"
 ---
 
@@ -20,6 +20,8 @@ status: "active"
   - **(6)** The name, address, and telephone number of any medical information furnisher that has notified the agency of its status, unless—
     - **(A)** such name, address, and telephone number are restricted or reported using codes that do not identify, or provide information sufficient to infer, the specific provider or the nature of such services, products, or devices to a person other than the consumer; or
     - **(B)** the report is being provided to an insurance company for a purpose relating to engaging in the business of insurance other than property and casualty insurance.
+  - **(7)** With respect to a consumer reporting agency described in section 1681a(p) of this title , any information related to a veteran’s medical debt if the date on which the hospital care, medical services, or extended care services was rendered relating to the debt antedates the report by less than 1 year if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
+  - **(8)** With respect to a consumer reporting agency described in section 1681a(p) of this title , any information related to a fully paid or settled veteran’s medical debt that had been characterized as delinquent, charged off, or in collection if the consumer reporting agency has actual knowledge that the information is related to a veteran’s medical debt and the consumer reporting agency is in compliance with its obligation under section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act.
 - **(b)** The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
   - **(1)** a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
   - **(2)** the underwriting of life insurance involving, or which may reasonably be expected to involve, a face amount of $150,000 or more; or

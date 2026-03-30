@@ -3,9 +3,9 @@ title: "Section 1016 - Adjustments to basis"
 usc_title: 26
 usc_section: "1016"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 1016"
-generated_at: "2026-03-30T08:12:52.645Z"
+generated_at: "2026-03-30T08:15:44.871Z"
 status: "active"
 ---
 
@@ -35,7 +35,7 @@ status: "active"
   - **(11)** for deductions to the extent disallowed under section 268 (relating to sale of land with unharvested crops), notwithstanding the provisions of any other paragraph of this subsection;
   - **[(12)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(75) , Dec. 19, 2014 , 128 Stat. 4049 ]
   - **[(13)** Repealed. Pub. L. 108–357, title IV, § 413(c)(19) , Oct. 22, 2004 , 118 Stat. 1509 ]
-  - **(14)** for amounts allowed as deductions as deferred expenses under section 174(b)(1) 1 (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
+  - **(14)** for amounts allowed as deductions as deferred expenses under section 174(b)(1) 1 1 See References in Text note below. (relating to research and experimental expenditures) and resulting in a reduction of the taxpayers’ taxes under this subtitle, but not less than the amounts allowable under such section for the taxable year and prior years;
   - **(15)** for deductions to the extent disallowed under section 272 (relating to disposal of coal or domestic iron ore), notwithstanding the provisions of any other paragraph of this subsection;
   - **(16)** in the case of any evidence of indebtedness referred to in section 811(b) (relating to amortization of premium and accrual of discount in the case of life insurance companies), to the extent of the adjustments required under section 811(b) (or the corresponding provisions of prior income tax laws) for the taxable year and all prior taxable years;
   - **(17)** to the extent provided in section 1367 in the case of stock of, and indebtedness owed to, shareholders of an S corporation;
@@ -43,22 +43,22 @@ status: "active"
   - **(19)** to the extent provided in section 50(c), in the case of expenditures with respect to which a credit has been allowed under section 38;
   - **(20)** for amounts allowed as deductions under section 59(e) (relating to optional 10-year writeoff of certain tax preferences);
   - **(21)** to the extent provided in section 1059 (relating to reduction in basis for extraordinary dividends);
-  - **(22)** in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d), 1 1 So in original. The comma probably should be a semicolon.
+  - **(22)** in the case of qualified replacement property the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale or exchange of any property, to the extent provided in section 1042(d), 2 2 So in original. The comma probably should be a semicolon.
   - **(23)** in the case of property the acquisition of which resulted under section 1043, 1045, or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, to the extent provided in section 1043(c), 1045(b)(3), or 1397B(b)(4), as the case may be, 2
   - **[(24)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(34)(G) , Dec. 19, 2014 , 128 Stat. 4042 ]
   - **[(25)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(2)(D) , Dec. 19, 2014 , 128 Stat. 4037 ]
-  - **(26)** to the extent provided in sections 23(g) and 137(e), 1
+  - **(26)** to the extent provided in sections 23(g) and 137(e), 2
   - **[(27)** Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(4)(B)(iv) , Mar. 23, 2018 , 132 Stat. 1209 ]
-  - **(28)** in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1), 1
-  - **(29)** in the case of railroad track with respect to which a credit was allowed under section 45G, to the extent provided in section 45G(e)(3), 1
-  - **(30)** to the extent provided in section 179B(c), 1
-  - **(31)** to the extent provided in section 179D(e), 1
-  - **(32)** to the extent provided in section 45L(e), in the case of amounts with respect to which a credit has been allowed under section 45L, 1
-  - **(33)** to the extent provided in section 25C(f), in the case of amounts with respect to which a credit has been allowed under section 25C, 1
-  - **(34)** to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D, 1
-  - **(35)** to the extent provided in section 30B(h)(4), 1
-  - **(36)** to the extent provided in section 30C(e)(1), 1
-  - **(37)** to the extent provided in section 30D(f)(1), 1 and
+  - **(28)** in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1), 2
+  - **(29)** in the case of railroad track with respect to which a credit was allowed under section 45G, to the extent provided in section 45G(e)(3), 2
+  - **(30)** to the extent provided in section 179B(c), 2
+  - **(31)** to the extent provided in section 179D(e), 2
+  - **(32)** to the extent provided in section 45L(e), in the case of amounts with respect to which a credit has been allowed under section 45L, 2
+  - **(33)** to the extent provided in section 25C(f), in the case of amounts with respect to which a credit has been allowed under section 25C, 2
+  - **(34)** to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D, 2
+  - **(35)** to the extent provided in section 30B(h)(4), 2
+  - **(36)** to the extent provided in section 30C(e)(1), 2
+  - **(37)** to the extent provided in section 30D(f)(1), 2 and
   - **(38)** to the extent provided in subsections (b)(2) and (c) of section 1400Z–2.
 - **(b)** Whenever it appears that the basis of property in the hands of the taxpayer is a substituted basis, then the adjustments provided in subsection (a) shall be made after first making in respect of such substituted basis proper adjustments of a similar nature in respect of the period during which the property was held by the transferor, donor, or grantor, or during which the other property was held by the person for whom the basis is to be determined. A similar rule shall be applied in the case of a series of substituted bases.
 - **(c)**

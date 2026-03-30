@@ -3,9 +3,9 @@ title: "Section 7714 - General remedial measures for new plant pests and noxious
 usc_title: 7
 usc_section: "7714"
 chapter: 104
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 7714"
-generated_at: "2026-03-30T08:12:04.793Z"
+generated_at: "2026-03-30T08:14:25.051Z"
 status: "active"
 ---
 

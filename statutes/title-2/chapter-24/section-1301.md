@@ -3,9 +3,9 @@ title: "Section 1301 - Definitions"
 usc_title: 2
 usc_section: "1301"
 chapter: 24
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 1301"
-generated_at: "2026-03-30T08:11:34.311Z"
+generated_at: "2026-03-30T08:14:13.683Z"
 status: "active"
 ---
 
@@ -29,7 +29,7 @@ status: "active"
   - **(4)** The term “employee” includes an applicant for employment and a former employee.
   - **(5)** The term “employee of the Office of the Architect of the Capitol” includes any employee of the Office of the Architect of the Capitol or the Botanic Garden.
   - **(6)** The term “employee of the Capitol Police” includes any member or officer of the Capitol Police.
-  - **(7)** The term “employee of the House of Representatives” includes an individual occupying a position the pay for which is disbursed by the Clerk of the House of Representatives, or another official designated by the House of Representatives, or any employment position in an entity that is paid with funds derived from the clerk-hire allowance of the House of Representatives but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
+  - **(7)** The term “employee of the House of Representatives” includes an individual occupying a position the pay for which is disbursed by the Chief Administrative Officer of the House of Representatives, or another official designated by the House of Representatives, or any employment position in an entity that is paid with funds derived from the clerk-hire allowance of the House of Representatives but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
   - **(8)** The term “employee of the Senate” includes any employee whose pay is disbursed by the Secretary of the Senate, but not any such individual employed by any entity listed in subparagraphs (C) through (K) of paragraph (3).
   - **(9)** The term “employing office” means—
     - **(A)** the personal office of a Member of the House of Representatives or of a Senator;

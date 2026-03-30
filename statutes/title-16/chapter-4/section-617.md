@@ -3,9 +3,9 @@ title: "Section 617 - Exportation of unprocessed timber from Federal lands"
 usc_title: 16
 usc_section: "617"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 617"
-generated_at: "2026-03-30T08:12:31.647Z"
+generated_at: "2026-03-30T08:15:12.523Z"
 status: "active"
 ---
 

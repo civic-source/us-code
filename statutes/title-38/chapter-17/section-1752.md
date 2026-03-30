@@ -3,9 +3,9 @@ title: "Section 1752 - Research"
 usc_title: 38
 usc_section: "1752"
 chapter: 17
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 1752"
-generated_at: "2026-03-30T08:13:09.327Z"
+generated_at: "2026-03-30T08:15:55.098Z"
 status: "active"
 ---
 

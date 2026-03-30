@@ -3,9 +3,9 @@ title: "Section 2448a - Program cost, fielding, and performance goals in plannin
 usc_title: 10
 usc_section: "2448a"
 chapter: 144
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2448a"
-generated_at: "2026-03-30T08:11:47.997Z"
+generated_at: "2026-03-30T08:14:28.635Z"
 status: "active"
 ---
 

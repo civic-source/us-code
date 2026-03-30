@@ -3,9 +3,9 @@ title: "Section 529A - Qualified ABLE programs"
 usc_title: 26
 usc_section: "529A"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 529A"
-generated_at: "2026-03-30T08:12:52.613Z"
+generated_at: "2026-03-30T08:15:44.829Z"
 status: "active"
 ---
 
@@ -61,7 +61,7 @@ status: "active"
   - **(1)** Each officer or employee having control of the qualified ABLE program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, the return of excess contributions, and such other matters as the Secretary may require.
   - **(2)** For research purposes, the Secretary shall make available to the public reports containing aggregate information, by diagnosis and other relevant characteristics, on contributions and distributions from the qualified ABLE program. In carrying out the preceding sentence an item may not be made available to the public if such item can be associated with, or otherwise identify, directly or indirectly, a particular individual.
   - **(3)** A qualified ABLE program shall submit a notice to the Secretary upon the establishment of an ABLE account. Such notice shall contain the name of the designated beneficiary and such other information as the Secretary may require.
-  - **(4)** For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014 States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
+  - **(4)** For purposes of section 103 of the Stephen Beck, Jr., ABLE Act of 2014, States shall submit electronically on a monthly basis to the Commissioner of Social Security, in the manner specified by the Commissioner, statements on relevant distributions and account balances from all ABLE accounts.
   - **(5)** The reports and notices required by paragraphs (1), (2), and (3) shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 - **(e)** For purposes of this section—
   - **(1)** An individual is an eligible individual for a taxable year if during such taxable year—

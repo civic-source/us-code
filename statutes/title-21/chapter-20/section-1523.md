@@ -3,9 +3,9 @@ title: "Section 1523 - Definitions"
 usc_title: 21
 usc_section: "1523"
 chapter: 20
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 1523"
-generated_at: "2026-03-30T08:12:40.228Z"
+generated_at: "2026-03-30T08:15:18.293Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ In this subchapter:
   - **(7)** The term “nonprofit organization” means an organization described under section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26 .
   - **(8)** The term “Program” means the program established under section 1531(a) of this title .
   - **(9)** The term “substance use and misuse” means—
-    - **(A)** the illegal use or misuse of drugs, including substances for which a listing is effect under any of schedules I through V under section 812 of this title ;
+    - **(A)** the illegal use or misuse of drugs, including substances for which a listing is effect 2 2 So in original. under any of schedules I through V under section 812 of this title ;
     - **(B)** the misuse of inhalants or over-the-counter drugs; or
     - **(C)** the use of alcohol, tobacco, or other related product as such use is prohibited by State or local law.
   - **(10)** The term “youth” shall have the meaning provided that term by the Administrator, in consultation with the Advisory Commission.

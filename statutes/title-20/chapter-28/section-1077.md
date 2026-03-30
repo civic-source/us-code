@@ -3,9 +3,9 @@ title: "Section 1077 - Eligibility of student borrowers and terms of federally i
 usc_title: 20
 usc_section: "1077"
 chapter: 28
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1077"
-generated_at: "2026-03-30T08:12:35.773Z"
+generated_at: "2026-03-30T08:14:56.233Z"
 status: "active"
 ---
 

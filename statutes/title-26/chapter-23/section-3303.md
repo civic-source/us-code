@@ -3,9 +3,9 @@ title: "Section 3303 - Conditions of additional credit allowance"
 usc_title: 26
 usc_section: "3303"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 3303"
-generated_at: "2026-03-30T08:12:52.677Z"
+generated_at: "2026-03-30T08:15:44.906Z"
 status: "active"
 ---
 

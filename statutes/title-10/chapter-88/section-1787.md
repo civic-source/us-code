@@ -3,9 +3,9 @@ title: "Section 1787 - Reporting of child abuse"
 usc_title: 10
 usc_section: "1787"
 chapter: 88
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 1787"
-generated_at: "2026-03-30T08:11:47.972Z"
+generated_at: "2026-03-30T08:14:28.610Z"
 status: "active"
 ---
 

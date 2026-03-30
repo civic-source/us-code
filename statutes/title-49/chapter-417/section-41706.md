@@ -3,9 +3,9 @@ title: "Section 41706 - Prohibitions against smoking on passenger flights"
 usc_title: 49
 usc_section: "41706"
 chapter: 417
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 41706"
-generated_at: "2026-03-30T08:13:59.054Z"
+generated_at: "2026-03-30T08:16:42.061Z"
 status: "active"
 ---
 

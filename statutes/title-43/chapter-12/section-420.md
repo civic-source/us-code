@@ -3,9 +3,9 @@ title: "Section 420 - Use of earth, timber, etc., from other public lands"
 usc_title: 43
 usc_section: "420"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 420"
-generated_at: "2026-03-30T08:13:17.400Z"
+generated_at: "2026-03-30T08:16:01.981Z"
 status: "active"
 ---
 

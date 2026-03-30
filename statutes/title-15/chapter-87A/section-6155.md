@@ -3,9 +3,9 @@ title: "Section 6155 - Prohibition of expiration date"
 usc_title: 15
 usc_section: "6155"
 chapter: 87
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 6155"
-generated_at: "2026-03-30T08:12:15.404Z"
+generated_at: "2026-03-30T08:14:39.157Z"
 status: "active"
 ---
 

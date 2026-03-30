@@ -3,9 +3,9 @@ title: "Section 63 - Repealed. Pub. L. 104–186, title II, § 204(21) , Aug. 20
 usc_title: 2
 usc_section: "63"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 63"
-generated_at: "2026-03-30T08:11:34.293Z"
+generated_at: "2026-03-30T08:14:13.661Z"
 status: "repealed"
 ---
 

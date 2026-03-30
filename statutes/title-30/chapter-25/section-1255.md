@@ -3,9 +3,9 @@ title: "Section 1255 - State laws"
 usc_title: 30
 usc_section: "1255"
 chapter: 25
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "30 U.S.C. § 1255"
-generated_at: "2026-03-30T08:12:57.311Z"
+generated_at: "2026-03-30T08:15:34.127Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9905 - Distribution to territories"
 usc_title: 42
 usc_section: "9905"
 chapter: 106
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 9905"
-generated_at: "2026-03-30T08:13:47.176Z"
+generated_at: "2026-03-30T08:16:21.277Z"
 status: "active"
 ---
 

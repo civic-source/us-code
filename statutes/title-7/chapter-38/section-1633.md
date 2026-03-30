@@ -3,9 +3,9 @@ title: "Section 1633 - Cooperation with State agencies in administration and enf
 usc_title: 7
 usc_section: "1633"
 chapter: 38
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1633"
-generated_at: "2026-03-30T08:12:04.693Z"
+generated_at: "2026-03-30T08:14:24.954Z"
 status: "active"
 ---
 

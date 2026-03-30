@@ -3,9 +3,9 @@ title: "Section 164 - Repealed. Oct. 10, 1940, ch. 851, § 4 , 54 Stat. 1111"
 usc_title: 45
 usc_section: "164"
 chapter: 8
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "45 U.S.C. § 164"
-generated_at: "2026-03-30T08:13:19.592Z"
+generated_at: "2026-03-30T08:16:00.620Z"
 status: "repealed"
 ---
 

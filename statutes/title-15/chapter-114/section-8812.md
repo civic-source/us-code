@@ -3,9 +3,9 @@ title: "Section 8812 - National Quantum Coordination Office"
 usc_title: 15
 usc_section: "8812"
 chapter: 114
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 8812"
-generated_at: "2026-03-30T08:12:15.425Z"
+generated_at: "2026-03-30T08:14:39.182Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(A)** the Subcommittee; and
     - **(B)** the Advisory Committee;
   - **(2)** oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
-  - **(3)** serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
+  - **(3)** serve as the point of contact on Federal civilian quantum information science and technology activities for Federal departments and agencies, industry, universities 1 1 So in original. Probably should be followed by a comma. professional societies, State governments, and such other persons as the Coordination Office considers appropriate to exchange technical and programmatic information;
   - **(4)** ensure coordination among the collaborative ventures or consortia established under section 8831(a) of this title , Multidisciplinary Centers for Quantum Research and Education established under section 8842(a) of this title , and the National Quantum Information Science Research Centers established under section 8852(a) of this title ;
   - **(5)** conduct public outreach, including the dissemination of findings and recommendations of the Advisory Committee, as appropriate;
   - **(6)** promote access to and early application of the technologies, innovations, and expertise derived from Program activities to agency missions and systems across the Federal Government, and to industry, including startup companies; and

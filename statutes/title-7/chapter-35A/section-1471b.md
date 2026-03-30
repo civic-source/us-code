@@ -3,9 +3,9 @@ title: "Section 1471b - Determination of need for assistance"
 usc_title: 7
 usc_section: "1471b"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1471b"
-generated_at: "2026-03-30T08:12:04.681Z"
+generated_at: "2026-03-30T08:14:24.943Z"
 status: "active"
 ---
 

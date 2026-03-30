@@ -3,9 +3,9 @@ title: "Section 2362 - Research and educational programs and activities: histori
 usc_title: 10
 usc_section: "2362"
 chapter: 139
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2362"
-generated_at: "2026-03-30T08:11:47.991Z"
+generated_at: "2026-03-30T08:14:28.629Z"
 status: "active"
 ---
 

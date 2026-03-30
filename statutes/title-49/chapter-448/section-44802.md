@@ -3,16 +3,16 @@ title: "Section 44802 - Integration of civil unmanned aircraft systems into nati
 usc_title: 49
 usc_section: "44802"
 chapter: 448
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 44802"
-generated_at: "2026-03-30T08:13:59.063Z"
+generated_at: "2026-03-30T08:16:42.070Z"
 status: "active"
 ---
 
 # § 44802. Integration of civil unmanned aircraft systems into national airspace system
 
 - **(a)**
-  - **(1)** Not later than November 10, 2012 , the Secretary of Transportation, in consultation with representatives of the aviation industry, Federal agencies that employ unmanned aircraft systems technology in the national airspace system, and the unmanned aircraft systems industry, shall develop a comprehensive plan to safely accelerate the integration of civil unmanned aircraft systems into the national airspace system.
+  - **(1)** Not later than November 10, 2012 , 1 1 See Prior Provisions note below. the Secretary of Transportation, in consultation with representatives of the aviation industry, Federal agencies that employ unmanned aircraft systems technology in the national airspace system, and the unmanned aircraft systems industry, shall develop a comprehensive plan to safely accelerate the integration of civil unmanned aircraft systems into the national airspace system.
   - **(2)** The plan required under paragraph (1) shall contain, at a minimum, recommendations or projections on—
     - **(A)** the rulemaking to be conducted under subsection (b), with specific recommendations on how the rulemaking will—
       - **(i)** define the acceptable standards for operation and certification of civil unmanned aircraft systems;
@@ -25,9 +25,9 @@ status: "active"
     - **(F)** establishment of a process to develop certification, flight standards, and air traffic requirements for civil unmanned aircraft systems at test ranges where such systems are subject to testing;
     - **(G)** the best methods to ensure the safe operation of civil unmanned aircraft systems and public unmanned aircraft systems simultaneously in the national airspace system; and
     - **(H)** incorporation of the plan into the annual NextGen Implementation Plan document (or any successor document) of the Federal Aviation Administration.
-  - **(3)** The plan required under paragraph (1) shall provide for the safe integration of civil unmanned aircraft systems into the national airspace system as soon as practicable, but not later than September 30, 2015 .
-  - **(4)** Not later than February 14, 2013 , the Secretary shall submit to Congress a copy of the plan required under paragraph (1).
-  - **(5)** Not later than February 14, 2013 , the Secretary shall approve and make available in print and on the Administration’s internet website a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update, in coordination with the Administrator of the National Aeronautics and Space Administration (NASA) and relevant stakeholders, including those in industry and academia, the roadmap annually. The roadmap shall include, at a minimum—
+  - **(3)** The plan required under paragraph (1) shall provide for the safe integration of civil unmanned aircraft systems into the national airspace system as soon as practicable, but not later than September 30, 2015 . 1
+  - **(4)** Not later than February 14, 2013 , 1 the Secretary shall submit to Congress a copy of the plan required under paragraph (1).
+  - **(5)** Not later than February 14, 2013 , 1 the Secretary shall approve and make available in print and on the Administration’s internet website a 5-year roadmap for the introduction of civil unmanned aircraft systems into the national airspace system, as coordinated by the Unmanned Aircraft Program Office of the Administration. The Secretary shall update, in coordination with the Administrator of the National Aeronautics and Space Administration (NASA) and relevant stakeholders, including those in industry and academia, the roadmap annually. The roadmap shall include, at a minimum—
     - **(A)** cost estimates, planned schedules, and performance benchmarks, including specific tasks, milestones, and timelines, for unmanned aircraft systems integration into the national airspace system, including an identification of—
       - **(i)** the role of the unmanned aircraft systems test ranges established under subsection (c) and the Unmanned Aircraft Systems Center of Excellence;
       - **(ii)** performance objectives for unmanned aircraft systems that operate in the national airspace system; and

@@ -3,9 +3,9 @@ title: "Section 11332 - Local boards"
 usc_title: 42
 usc_section: "11332"
 chapter: 119
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 11332"
-generated_at: "2026-03-30T08:13:47.194Z"
+generated_at: "2026-03-30T08:16:21.298Z"
 status: "active"
 ---
 

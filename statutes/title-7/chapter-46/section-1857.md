@@ -3,9 +3,9 @@ title: "Section 1857 - Repealed. Pub. L. 104–127, title II, § 274 , Apr. 4, 1
 usc_title: 7
 usc_section: "1857"
 chapter: 46
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1857"
-generated_at: "2026-03-30T08:12:04.702Z"
+generated_at: "2026-03-30T08:14:24.963Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3902 - Risk retention groups"
 usc_title: 15
 usc_section: "3902"
 chapter: 65
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 3902"
-generated_at: "2026-03-30T08:12:15.394Z"
+generated_at: "2026-03-30T08:14:39.146Z"
 status: "active"
 ---
 
@@ -25,4 +25,35 @@ status: "active"
       - **(ii)** in a voluntary dissolution proceeding;
     - **(G)** comply with any State law regarding deceptive, false, or fraudulent acts or practices, except that if the State seeks an injunction regarding the conduct described in this subparagraph, such injunction must be obtained from a court of competent jurisdiction;
     - **(H)** comply with an injunction issued by a court of competent jurisdiction, upon a petition by the State insurance commissioner alleging that the group is in hazardous financial condition or is financially impaired; and
-    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group:
+    - **(I)** provide the following notice, in 10-point type, in any insurance policy issued by such group: “notice
+  - **(2)** require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
+  - **(3)** require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
+  - **(4)** otherwise, discriminate against a risk retention group or any of its members, except that nothing in this section shall be construed to affect the applicability of State laws generally applicable to persons or corporations.
+- **(b)** The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—
+  - **(1)** liability insurance coverage provided by a risk retention group for—
+    - **(A)** such group; or
+    - **(B)** any person who is a member of such group;
+  - **(2)** the sale of liability insurance coverage for a risk retention group; and
+  - **(3)** the provision of—
+    - **(A)** insurance related services;
+    - **(B)** management, operations, and investment activities; or
+    - **(C)** loss control and claims administration (including loss control and claims administration services for uninsured risks retained by any member of such group);
+- **(c)** A State may require that a person acting, or offering to act, as an agent or broker for a risk retention group obtain a license from that State, except that a State may not impose any qualification or requirement which discriminates against a nonresident agent or broker.
+- **(d)** Each risk retention group shall submit—
+  - **(1)** to the insurance commissioner of the State in which it is chartered—
+    - **(A)** before it may offer insurance in any State, a plan of operation or a feasibility study which includes the coverages, deductibles, coverage limits, rates, and rating classification systems for each line of insurance the group intends to offer; and
+    - **(B)** revisions of such plan or study if the group intends to offer any additional lines of liability insurance;
+  - **(2)** to the insurance commissioner of each State in which it intends to do business, before it may offer insurance in such State—
+    - **(A)** a copy of such plan or study (which shall include the name of the State in which it is chartered and its principal place of business); and
+    - **(B)** a copy of any revisions to such plan or study, as provided in paragraph (1)(B) (which shall include any change in the designation of the State in which it is chartered); and
+  - **(3)** to the insurance commissioner of each State in which it is doing business, a copy of the group’s annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
+    - **(A)** a member of the American Academy of Actuaries, or
+    - **(B)** a qualified loss reserve specialist.
+- **(e)** Nothing in this section shall be construed to affect the authority of any Federal or State court to enjoin—
+  - **(1)** the solicitation or sale of insurance by a risk retention group to any person who is not eligible for membership in such group; or
+  - **(2)** the solicitation or sale of insurance by, or operation of, a risk retention group that is in hazardous financial condition or is financially impaired.
+- **(f)**
+  - **(1)** Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
+  - **(2)** If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
+- **(g)** Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
+- **(h)** Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.

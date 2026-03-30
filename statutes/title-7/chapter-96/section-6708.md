@@ -3,9 +3,9 @@ title: "Section 6708 - Repealed. Pub. L. 115–334, title VIII, § 8301(a) , Dec
 usc_title: 7
 usc_section: "6708"
 chapter: 96
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 6708"
-generated_at: "2026-03-30T08:12:04.773Z"
+generated_at: "2026-03-30T08:14:25.031Z"
 status: "repealed"
 ---
 

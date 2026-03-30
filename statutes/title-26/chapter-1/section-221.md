@@ -3,9 +3,9 @@ title: "Section 221 - Interest on education loans"
 usc_title: 26
 usc_section: "221"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 221"
-generated_at: "2026-03-30T08:12:52.565Z"
+generated_at: "2026-03-30T08:15:44.772Z"
 status: "active"
 ---
 

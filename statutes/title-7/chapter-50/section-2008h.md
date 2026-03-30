@@ -3,9 +3,9 @@ title: "Section 2008h - Loan and loan servicing limitations"
 usc_title: 7
 usc_section: "2008h"
 chapter: 50
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 2008h"
-generated_at: "2026-03-30T08:12:04.711Z"
+generated_at: "2026-03-30T08:14:24.972Z"
 status: "active"
 ---
 

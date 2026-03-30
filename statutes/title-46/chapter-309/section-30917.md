@@ -3,9 +3,9 @@ title: "Section 30917 - Disposition of amounts recovered by the United States"
 usc_title: 46
 usc_section: "30917"
 chapter: 309
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "46 U.S.C. § 30917"
-generated_at: "2026-03-30T08:13:52.904Z"
+generated_at: "2026-03-30T08:16:33.240Z"
 status: "active"
 ---
 

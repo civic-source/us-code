@@ -3,9 +3,9 @@ title: "Section 124n - Protection of certain facilities and assets from unmanned
 usc_title: 6
 usc_section: "124n"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 124n"
-generated_at: "2026-03-30T08:11:36.731Z"
+generated_at: "2026-03-30T08:14:20.203Z"
 status: "active"
 ---
 
@@ -21,7 +21,7 @@ status: "active"
     - **(E)** Seize or otherwise confiscate the unmanned aircraft system or unmanned aircraft.
     - **(F)** Use reasonable force, if necessary, to disable, damage, or destroy the unmanned aircraft system or unmanned aircraft.
   - **(2)** The Secretary and the Attorney General shall develop for their respective Departments the actions described in paragraph (1) in coordination with the Secretary of Transportation.
-  - **(3)** The Secretary and the Attorney General shall conduct research, testing, 1 1 So in original. Probably should be followed by “and”. training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
+  - **(3)** The Secretary and the Attorney General shall conduct research, testing, training on, and evaluation of any equipment, including any electronic equipment, to determine its capability and utility prior to the use of any such technology for any action described in subsection (b)(1).
   - **(4)** The Secretary and the Attorney General shall coordinate with the Administrator of the Federal Aviation Administration when any action authorized by this section might affect aviation safety, civilian aviation and aerospace operations, aircraft airworthiness, or the use of the airspace.
 - **(c)** Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary or the Attorney General is subject to forfeiture to the United States.
 - **(d)**
@@ -32,7 +32,7 @@ status: "active"
 - **(e)** The regulations or guidance issued to carry out actions authorized under subsection (b) by each Secretary or the Attorney General, as the case may be, shall ensure that—
   - **(1)** the interception or acquisition of, or access to, or maintenance or use of, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the First and Fourth Amendments to the Constitution of the United States and applicable provisions of Federal law;
   - **(2)** communications to or from an unmanned aircraft system are intercepted or acquired only to the extent necessary to support an action described in subsection (b)(1);
-  - **(3)** records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine 2 2 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
+  - **(3)** records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine 1 1 So in original. Probably should be “determines”. that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
   - **(4)** such communications are not disclosed outside the Department of Homeland Security or the Department of Justice unless the disclosure—
     - **(A)** is necessary to investigate or prosecute a violation of law;
     - **(B)** would support the Department of Defense, a Federal law enforcement agency, or the enforcement activities of a regulatory agency of the Federal Government in connection with a criminal or civil investigation of, or any regulatory, statutory, or other enforcement action relating to an action described in subsection (b)(1);
@@ -49,7 +49,7 @@ status: "active"
     - **(C)** a description of the guidance, policies, or procedures established to address privacy, civil rights, and civil liberties issues implicated by the actions allowed under this section, as well as any changes or subsequent efforts that would significantly affect privacy, civil rights or civil liberties;
     - **(D)** a description of options considered and steps taken to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1);
     - **(E)** a description of instances in which communications intercepted or acquired during the course of operations of an unmanned aircraft system were held for more than 180 days or shared outside of the Department of Justice or the Department of Homeland Security;
-    - **(F)** how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 1
+    - **(F)** how the Secretary, the Attorney General, and the Secretary of Transportation have informed the public as to the possible use of authorities under this section; 2 2 So in original. Probably should be followed by “and”.
     - **(G)** how the Secretary, the Attorney General, and the Secretary of Transportation have engaged with Federal, State, and local law enforcement agencies to implement and use such authorities.
   - **(4)** Each briefing required under paragraph (1) shall be in unclassified form, but may be accompanied by an additional classified briefing.
   - **(5)** Within 30 days of deploying any new technology to carry out the actions described in subsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
@@ -82,7 +82,7 @@ status: "active"
         - **(I)** protection of a National Special Security Event and Special Event Assessment Rating event;
         - **(II)** the provision of support to State, local, territorial, or tribal law enforcement, upon request of the chief executive officer of the State or territory, to ensure protection of people and property at mass gatherings, that is limited to a specified timeframe and location, within available resources, and without delegating any authority under this section to State, local, territorial, or tribal law enforcement; or
         - **(III)** protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and 3 3 So in original. Probably should be “or”.
-      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 4 4 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
+      - **(iv)** missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 4 4 See References in Text note below. of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
   - **(4)** The terms “electronic communication”, “intercept”, “oral communication”, and “wire communication” have the meaning 5 5 So in original. Probably should be “meanings”. given those terms in section 2510 of title 18 .
   - **(5)** The term “homeland security or justice budget materials”, with respect to a fiscal year, means the materials submitted to Congress by the Secretary and the Attorney General in support of the budget for that fiscal year.
   - **(6)** For purposes of subsection (a), the term “personnel” means officers and employees of the Department of Homeland Security or the Department of Justice.

@@ -3,9 +3,9 @@ title: "Section 3313 - Payment of funds"
 usc_title: 7
 usc_section: "3313"
 chapter: 64
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 3313"
-generated_at: "2026-03-30T08:12:04.747Z"
+generated_at: "2026-03-30T08:14:25.006Z"
 status: "active"
 ---
 

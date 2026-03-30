@@ -3,9 +3,9 @@ title: "Section 1206 - “Aid to the blind” defined"
 usc_title: 42
 usc_section: "1206"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 1206"
-generated_at: "2026-03-30T08:13:46.790Z"
+generated_at: "2026-03-30T08:16:20.795Z"
 status: "active"
 ---
 

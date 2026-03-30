@@ -3,9 +3,9 @@ title: "Section 124d - Intelligence components"
 usc_title: 6
 usc_section: "124d"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 124d"
-generated_at: "2026-03-30T08:11:36.729Z"
+generated_at: "2026-03-30T08:14:20.202Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 616 - Repealed or Omitted"
 usc_title: 15
 usc_section: "616"
 chapter: 14
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 616"
-generated_at: "2026-03-30T08:12:15.297Z"
+generated_at: "2026-03-30T08:14:39.040Z"
 status: "repealed"
 ---
 

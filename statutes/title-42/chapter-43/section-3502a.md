@@ -3,9 +3,9 @@ title: "Section 3502a - Administrator of Social and Rehabilitation Service; appo
 usc_title: 42
 usc_section: "3502a"
 chapter: 43
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 3502a"
-generated_at: "2026-03-30T08:13:47.016Z"
+generated_at: "2026-03-30T08:16:21.075Z"
 status: "active"
 ---
 

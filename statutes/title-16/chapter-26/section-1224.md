@@ -3,9 +3,9 @@ title: "Section 1224 - Commercial and industrial development considerations; rep
 usc_title: 16
 usc_section: "1224"
 chapter: 26
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 1224"
-generated_at: "2026-03-30T08:12:31.687Z"
+generated_at: "2026-03-30T08:15:12.563Z"
 status: "active"
 ---
 

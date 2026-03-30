@@ -3,9 +3,9 @@ title: "Section 572 - Omitted"
 usc_title: 25
 usc_section: "572"
 chapter: 14
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "25 U.S.C. § 572"
-generated_at: "2026-03-30T08:12:39.017Z"
+generated_at: "2026-03-30T08:15:16.292Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 103304 - Recovery of land withheld"
 usc_title: 54
 usc_section: "103304"
 chapter: 1033
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "54 U.S.C. § 103304"
-generated_at: "2026-03-30T08:14:01.203Z"
+generated_at: "2026-03-30T08:16:44.021Z"
 status: "active"
 ---
 

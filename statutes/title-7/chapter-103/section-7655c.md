@@ -3,9 +3,9 @@ title: "Section 7655c - Clarification of research and development program for wo
 usc_title: 7
 usc_section: "7655c"
 chapter: 103
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 7655c"
-generated_at: "2026-03-30T08:12:04.792Z"
+generated_at: "2026-03-30T08:14:25.050Z"
 status: "active"
 ---
 

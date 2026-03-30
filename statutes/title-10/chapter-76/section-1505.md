@@ -3,9 +3,9 @@ title: "Section 1505 - Further review"
 usc_title: 10
 usc_section: "1505"
 chapter: 76
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 1505"
-generated_at: "2026-03-30T08:11:47.966Z"
+generated_at: "2026-03-30T08:14:28.604Z"
 status: "active"
 ---
 

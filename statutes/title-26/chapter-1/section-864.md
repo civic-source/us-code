@@ -3,9 +3,9 @@ title: "Section 864 - Definitions and special rules"
 usc_title: 26
 usc_section: "864"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 864"
-generated_at: "2026-03-30T08:12:52.631Z"
+generated_at: "2026-03-30T08:15:44.854Z"
 status: "active"
 ---
 
@@ -172,7 +172,7 @@ status: "active"
       - **(i)** that such expenditures are attributable to activities conducted in the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources within the United States and deducted from such income in determining the amount of taxable income from sources within the United States, and
       - **(ii)** that such expenditures are attributable to activities conducted outside the United States, 50 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
     - **(C)** The remaining portion of qualified research and experimental expenditures (not allocated under subparagraphs (A) and (B)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall at least be 30 percent of the amount which would be so apportioned on the basis of gross sales.
-  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) 2 of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) 2 of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+  - **(2)** For purposes of this section, the term “qualified research and experimental expenditures” means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) 2 2 See References in Text note below. of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) 2 of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
   - **(3)**
     - **(A)** Any qualified research and experimental expenditures described in subparagraph (B)—
       - **(i)** if incurred by a United States person, shall be allocated and apportioned under this section in the same manner as if they were attributable to activities conducted in the United States, and
@@ -184,7 +184,7 @@ status: "active"
   - **(4)**
     - **(A)** Except as provided in subparagraph (B), the allocation and apportionment required by paragraph (1) shall be determined as if all members of the affiliated group (as defined in subsection (e)(5)) were a single corporation.
     - **(B)** For purposes of the allocation and apportionment required by paragraph (1)—
-      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), 2 2 See References in Text note below. and
+      - **(i)** sales and gross income from products produced in whole or in part in a possession by an electing corporation (within the meaning of section 936(h)(5)(E)), 2 and
       - **(ii)** dividends from an electing corporation,
     - **(C)** The qualified research and experimental expenditures taken into account for purposes of paragraph (1) shall be adjusted to reflect the amount of such expenditures included in computing the cost-sharing amount (determined under section 936(h)(5)(C)(i)(I)). 2
     - **(D)** The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this paragraph, including regulations providing for the source of gross income and the allocation and apportionment of deductions to take into account the adjustments required by subparagraph (B) or (C).

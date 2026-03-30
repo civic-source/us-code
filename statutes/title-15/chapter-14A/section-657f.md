@@ -3,9 +3,9 @@ title: "Section 657f - Procurement program for small business concerns owned and
 usc_title: 15
 usc_section: "657f"
 chapter: 14
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 657f"
-generated_at: "2026-03-30T08:12:15.314Z"
+generated_at: "2026-03-30T08:14:39.059Z"
 status: "active"
 ---
 

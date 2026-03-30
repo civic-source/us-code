@@ -3,9 +3,9 @@ title: "Section 671a - Members: service extension during war"
 usc_title: 10
 usc_section: "671a"
 chapter: 39
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 671a"
-generated_at: "2026-03-30T08:11:47.930Z"
+generated_at: "2026-03-30T08:14:28.568Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Federal enforcement of other laws"
 usc_title: 16
 usc_section: "1"
 chapter: 5
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T08:12:31.653Z"
+generated_at: "2026-03-30T08:15:12.528Z"
 status: "active"
 ---
 

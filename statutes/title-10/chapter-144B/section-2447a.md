@@ -3,9 +3,9 @@ title: "Section 2447a - Weapon system component or technology prototype projects
 usc_title: 10
 usc_section: "2447a"
 chapter: 144
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2447a"
-generated_at: "2026-03-30T08:11:47.997Z"
+generated_at: "2026-03-30T08:14:28.635Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9516 - Airlift service"
 usc_title: 10
 usc_section: "9516"
 chapter: 961
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 9516"
-generated_at: "2026-03-30T08:11:48.037Z"
+generated_at: "2026-03-30T08:14:28.676Z"
 status: "active"
 ---
 

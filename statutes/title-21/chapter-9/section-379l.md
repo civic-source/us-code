@@ -3,9 +3,9 @@ title: "Section 379l - Education"
 usc_title: 21
 usc_section: "379l"
 chapter: 9
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 379l"
-generated_at: "2026-03-30T08:12:40.204Z"
+generated_at: "2026-03-30T08:15:18.270Z"
 status: "active"
 ---
 

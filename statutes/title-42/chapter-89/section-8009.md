@@ -3,9 +3,9 @@ title: "Section 8009 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "8009"
 chapter: 89
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 8009"
-generated_at: "2026-03-30T08:13:47.138Z"
+generated_at: "2026-03-30T08:16:21.230Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7503 - Amount of assistance; duration"
 usc_title: 38
 usc_section: "7503"
 chapter: 75
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 7503"
-generated_at: "2026-03-30T08:13:09.365Z"
+generated_at: "2026-03-30T08:15:55.167Z"
 status: "active"
 ---
 

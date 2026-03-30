@@ -3,9 +3,9 @@ title: "Section 12645d - Matching funds for severely economically distressed com
 usc_title: 42
 usc_section: "12645d"
 chapter: 129
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 12645d"
-generated_at: "2026-03-30T08:13:47.216Z"
+generated_at: "2026-03-30T08:16:21.325Z"
 status: "active"
 ---
 

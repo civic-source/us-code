@@ -3,9 +3,9 @@ title: "Section 313d - NIDIS program"
 usc_title: 15
 usc_section: "313d"
 chapter: 9
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 313d"
-generated_at: "2026-03-30T08:12:15.295Z"
+generated_at: "2026-03-30T08:14:39.039Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** The Under Secretary, through the National Weather Service and other appropriate weather and climate programs in the National Oceanic and Atmospheric Administration, shall establish a National Integrated Drought Information System to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs.
 - **(b)** The National Integrated Drought Information System shall—
   - **(1)** provide an effective drought early warning system that—
-    - **(A)** collects and integrates information on the key indicators of drought and drought impacts , including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and assessments of the severity of drought conditions and impacts; and
+    - **(A)** collects and integrates information on the key indicators of drought and drought impacts, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and assessments of the severity of drought conditions and impacts; and
     - **(B)** provides such information, forecasts, and assessments on both national and regional levels;
   - **(2)** communicate drought forecasts, drought conditions, and drought impacts on an ongoing basis to public and private entities engaged in drought planning and preparedness, including—
     - **(A)** decisionmakers at the Federal, regional, State, tribal, and local levels of government;

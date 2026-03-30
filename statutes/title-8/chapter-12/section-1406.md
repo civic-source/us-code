@@ -3,9 +3,9 @@ title: "Section 1406 - Persons living in and born in the Virgin Islands"
 usc_title: 8
 usc_section: "1406"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "8 U.S.C. § 1406"
-generated_at: "2026-03-30T08:11:38.415Z"
+generated_at: "2026-03-30T08:14:32.756Z"
 status: "active"
 ---
 

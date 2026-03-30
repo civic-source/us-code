@@ -3,9 +3,9 @@ title: "Section 1271 - Treatment of amounts received on retirement or sale or ex
 usc_title: 26
 usc_section: "1271"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 1271"
-generated_at: "2026-03-30T08:12:52.653Z"
+generated_at: "2026-03-30T08:15:44.880Z"
 status: "active"
 ---
 
@@ -43,5 +43,5 @@ status: "active"
       - **(ii)** compounding daily.
 - **(b)**
   - **(1)** This section shall not apply to any obligation issued by a natural person before June 9, 1997 .
-  - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1) 1 1 See References in Text note below. ) after June 8, 1997 .
+  - **(2)** Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) 1 1 See References in Text note below. after June 8, 1997 .
 - **(c)** This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.

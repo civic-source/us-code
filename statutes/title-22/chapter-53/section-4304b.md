@@ -3,9 +3,9 @@ title: "Section 4304b - Crimes committed by diplomats"
 usc_title: 22
 usc_section: "4304b"
 chapter: 53
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 4304b"
-generated_at: "2026-03-30T08:12:43.430Z"
+generated_at: "2026-03-30T08:15:20.777Z"
 status: "active"
 ---
 

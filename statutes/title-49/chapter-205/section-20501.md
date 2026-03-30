@@ -3,9 +3,9 @@ title: "Section 20501 - Definition"
 usc_title: 49
 usc_section: "20501"
 chapter: 205
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 20501"
-generated_at: "2026-03-30T08:13:59.028Z"
+generated_at: "2026-03-30T08:16:42.035Z"
 status: "active"
 ---
 

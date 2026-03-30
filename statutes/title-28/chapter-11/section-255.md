@@ -3,9 +3,9 @@ title: "Section 255 - Three-judge trials"
 usc_title: 28
 usc_section: "255"
 chapter: 11
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "28 U.S.C. § 255"
-generated_at: "2026-03-30T08:12:54.799Z"
+generated_at: "2026-03-30T08:15:34.746Z"
 status: "active"
 ---
 

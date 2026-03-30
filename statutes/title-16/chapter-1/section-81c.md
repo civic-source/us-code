@@ -3,9 +3,9 @@ title: "Section 81c - Prohibited uses of acquired, donated, and conservation lan
 usc_title: 16
 usc_section: "81c"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 81c"
-generated_at: "2026-03-30T08:12:31.575Z"
+generated_at: "2026-03-30T08:15:12.448Z"
 status: "active"
 ---
 

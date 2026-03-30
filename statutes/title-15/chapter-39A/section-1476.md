@@ -3,9 +3,9 @@ title: "Section 1476 - Preemption of Federal standards"
 usc_title: 15
 usc_section: "1476"
 chapter: 39
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 1476"
-generated_at: "2026-03-30T08:12:15.341Z"
+generated_at: "2026-03-30T08:14:39.088Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1134 - Repealed. Pub. L. 94–579, title VII, § 703(a) , Oct. 2
 usc_title: 43
 usc_section: "1134"
 chapter: 27
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 1134"
-generated_at: "2026-03-30T08:13:17.416Z"
+generated_at: "2026-03-30T08:16:02.025Z"
 status: "repealed"
 ---
 

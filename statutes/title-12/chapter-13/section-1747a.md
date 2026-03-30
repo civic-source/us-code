@@ -3,9 +3,9 @@ title: "Section 1747a - Eligibility for insurance"
 usc_title: 12
 usc_section: "1747a"
 chapter: 13
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 1747a"
-generated_at: "2026-03-30T08:12:22.841Z"
+generated_at: "2026-03-30T08:14:50.026Z"
 status: "active"
 ---
 

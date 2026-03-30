@@ -3,15 +3,15 @@ title: "Section 242 - Department of Homeland Security Blue Campaign"
 usc_title: 6
 usc_section: "242"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 242"
-generated_at: "2026-03-30T08:11:36.738Z"
+generated_at: "2026-03-30T08:14:20.210Z"
 status: "active"
 ---
 
 # § 242. Department of Homeland Security Blue Campaign
 
-- **(a)** In this section, the term “human trafficking” means an act or practice described in paragraph (9) or (10) of section 7102 of title 22 .
+- **(a)** In this section, the term “human trafficking” means an act or practice described in paragraph (9) or (10) 1 1 See References in Text note below. of section 7102 of title 22 .
 - **(b)** There is established within the Department a program, which shall be known as the “Blue Campaign”. The Blue Campaign shall be headed by a Director, who shall be appointed by the Secretary.
 - **(c)** The purpose of the Blue Campaign shall be to unify and coordinate Department efforts to address human trafficking.
 - **(d)** The Secretary, working through the Director, shall, in accordance with subsection (e)—

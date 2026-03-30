@@ -3,9 +3,9 @@ title: "Section 1301a - References to parity prices, etc., in other laws after J
 usc_title: 7
 usc_section: "1301a"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1301a"
-generated_at: "2026-03-30T08:12:04.669Z"
+generated_at: "2026-03-30T08:14:24.932Z"
 status: "active"
 ---
 
@@ -16,4 +16,4 @@ All references in other laws to—
   - **(1)** parity,
   - **(2)** parity prices,
   - **(3)** prices comparable to parity prices, or
-  - **(4)** prices to be determined in the same manner as provided by this chapter prior to January 1, 1950 for the determination of parity prices,
+  - **(4)** prices to be determined in the same manner as provided by the Agricultural Adjustment Act of 1938 [ 7 U.S.C. 1281 et seq.] prior to its amendment by this Act for the determination of parity prices,

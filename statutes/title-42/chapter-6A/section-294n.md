@@ -3,9 +3,9 @@ title: "Section 294n - Health professions workforce information and analysis"
 usc_title: 42
 usc_section: "294n"
 chapter: 6
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 294n"
-generated_at: "2026-03-30T08:13:46.692Z"
+generated_at: "2026-03-30T08:16:20.673Z"
 status: "active"
 ---
 

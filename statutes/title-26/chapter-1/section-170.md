@@ -3,9 +3,9 @@ title: "Section 170 - Charitable, etc., contributions and gifts"
 usc_title: 26
 usc_section: "170"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 170"
-generated_at: "2026-03-30T08:12:52.556Z"
+generated_at: "2026-03-30T08:15:44.763Z"
 status: "active"
 ---
 
@@ -78,7 +78,7 @@ status: "active"
       - **(i)** this section,
       - **(ii)** part VIII (except section 248),
       - **(iii)** any net operating loss carryback to the taxable year under section 172,
-      - **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1) 2 2 So in original. Probably should be followed by “, and”.
+      - **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1) 1 1 So in original. Probably should be followed by “, and”.
       - **(v)** section 199A(g).
 - **(c)** For purposes of this section, the term “charitable contribution” means a contribution or gift to or for the use of—
   - **(1)** A State, a possession of the United States, or any political subdivision of any of the foregoing, or the United States or the District of Columbia, but only if the contribution or gift is made for exclusively public purposes.
@@ -259,7 +259,7 @@ status: "active"
         - **(III)** meets such other requirements as may be prescribed by the Secretary in regulations or other guidance.
       - **(iii)** An individual shall not be treated as a qualified appraiser with respect to any specific appraisal unless—
         - **(I)** the individual demonstrates verifiable education and experience in valuing the type of property subject to the appraisal, and
-        - **(II)** the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) 1 of title 31, United States Code, at any time during the 3-year period ending on the date of the appraisal.
+        - **(II)** the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) 2 2 See References in Text note below. of title 31, United States Code, at any time during the 3-year period ending on the date of the appraisal.
     - **(F)** For purposes of determining thresholds under this paragraph, property and all similar items of property donated to 1 or more donees shall be treated as 1 property.
     - **(G)** In the case of a partnership or S corporation, this paragraph shall be applied at the entity level, except that the deduction shall be denied at the partner or shareholder level.
     - **(H)** The Secretary may prescribe such regulations as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations that may provide that some or all of the requirements of this paragraph do not apply in appropriate cases.

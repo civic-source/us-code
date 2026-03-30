@@ -3,9 +3,9 @@ title: "Section 1126 - Program Management Improvement Officers and Program Manag
 usc_title: 31
 usc_section: "1126"
 chapter: 11
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "31 U.S.C. § 1126"
-generated_at: "2026-03-30T08:13:00.317Z"
+generated_at: "2026-03-30T08:15:48.801Z"
 status: "active"
 ---
 

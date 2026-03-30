@@ -3,9 +3,9 @@ title: "Section 802 - Fellowships for city planning, management, housing special
 usc_title: 20
 usc_section: "802"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 802"
-generated_at: "2026-03-30T08:12:35.753Z"
+generated_at: "2026-03-30T08:14:56.211Z"
 status: "active"
 ---
 

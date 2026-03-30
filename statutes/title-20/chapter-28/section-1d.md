@@ -3,9 +3,9 @@ title: "Section 1d - Repealed. Pub. L. 102–325, title IV, § 402(a)(1) , July 
 usc_title: 20
 usc_section: "1d"
 chapter: 28
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1d"
-generated_at: "2026-03-30T08:12:35.770Z"
+generated_at: "2026-03-30T08:14:56.229Z"
 status: "repealed"
 ---
 

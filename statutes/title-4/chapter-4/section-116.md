@@ -3,9 +3,9 @@ title: "Section 116 - Rules for determining State and local government treatment
 usc_title: 4
 usc_section: "116"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "4 U.S.C. § 116"
-generated_at: "2026-03-30T08:11:15.766Z"
+generated_at: "2026-03-30T08:14:11.840Z"
 status: "active"
 ---
 

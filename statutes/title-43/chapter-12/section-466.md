@@ -3,9 +3,9 @@ title: "Section 466 - Surveys to correct errors or inequalities in original basi
 usc_title: 43
 usc_section: "466"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 466"
-generated_at: "2026-03-30T08:13:17.402Z"
+generated_at: "2026-03-30T08:16:01.985Z"
 status: "active"
 ---
 

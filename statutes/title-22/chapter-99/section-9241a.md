@@ -3,9 +3,9 @@ title: "Section 9241a - Rebuttable presumption applicable to goods made with Nor
 usc_title: 22
 usc_section: "9241a"
 chapter: 99
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 9241a"
-generated_at: "2026-03-30T08:12:43.479Z"
+generated_at: "2026-03-30T08:15:20.824Z"
 status: "active"
 ---
 

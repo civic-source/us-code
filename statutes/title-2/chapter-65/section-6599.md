@@ -3,9 +3,9 @@ title: "Section 6599 - Use by Sergeant at Arms and Doorkeeper of Senate of indiv
 usc_title: 2
 usc_section: "6599"
 chapter: 65
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 6599"
-generated_at: "2026-03-30T08:11:34.337Z"
+generated_at: "2026-03-30T08:14:13.710Z"
 status: "active"
 ---
 

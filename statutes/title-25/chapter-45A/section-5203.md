@@ -3,9 +3,9 @@ title: "Section 5203 - Organization of tribes or bands; constitution; charter; r
 usc_title: 25
 usc_section: "5203"
 chapter: 45
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "25 U.S.C. § 5203"
-generated_at: "2026-03-30T08:12:39.064Z"
+generated_at: "2026-03-30T08:15:16.342Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1693f - Error resolution"
 usc_title: 15
 usc_section: "1693f"
 chapter: 41
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 1693f"
-generated_at: "2026-03-30T08:12:15.359Z"
+generated_at: "2026-03-30T08:14:39.108Z"
 status: "active"
 ---
 

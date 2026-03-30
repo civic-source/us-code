@@ -3,9 +3,9 @@ title: "Section 1315b - Providing Federal coverage and payment coordination for 
 usc_title: 42
 usc_section: "1315b"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 1315b"
-generated_at: "2026-03-30T08:13:46.792Z"
+generated_at: "2026-03-30T08:16:20.799Z"
 status: "active"
 ---
 
@@ -36,6 +36,6 @@ status: "active"
   - **(5)** To study the provision of drug coverage for new full-benefit dual eligible individuals (as defined in section 1935(c)(6) of the Social Security Act ( 42 U.S.C. 1396u–5(c)(6) ), 3 3 So in original. Another closing parenthesis probably should precede the comma. as well as to monitor and report annual total expenditures, health outcomes, and access to benefits for all dual eligible individuals.
   - **(6)** To act as a designated contact for States under subsection (f)(8)(A) of section 1859 of the Social Security Act ( 42 U.S.C. 1395w–28 ) with respect to the integration of specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section.
   - **(7)** To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the implementation of a unified grievance and appeals process as described in subparagraphs (B) and (C) of section 1859(f)(8) of the Social Security Act ( 42 U.S.C. 1395w–28(f)(8) ).
-  - **(8)** To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the integration or alignment of policy and oversight under the Medicare program under title XVIII of such Act and the Medicaid program under title XIX of such Act regarding specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section 1859.
+  - **(8)** To be responsible, subject to the final approval of the Secretary, for developing regulations and guidance related to the integration or alignment of policy and oversight under the Medicare program under title XVIII of such Act [ 42 U.S.C. 1395 et seq.] and the Medicaid program under title XIX of such Act [ 42 U.S.C. 1396 et seq.] regarding specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) of such section 1859.
 - **(e)** The Secretary shall, as part of the budget transmitted under section 1105(a) of title 31 , submit to Congress an annual report containing recommendations for legislation that would improve care coordination and benefits for dual eligible individuals.
 - **(f)** In this section, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act [ 42 U.S.C. 1395c et seq.], or enrolled for benefits under part B of title XVIII of such Act [ 42 U.S.C. 1395j et seq.], and is eligible for medical assistance under a State plan under title XIX of such Act or under a waiver of such plan.

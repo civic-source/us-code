@@ -3,9 +3,9 @@ title: "Section 135 - Supplies distributed so as to prevent deficiencies"
 usc_title: 25
 usc_section: "135"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "25 U.S.C. § 135"
-generated_at: "2026-03-30T08:12:39.007Z"
+generated_at: "2026-03-30T08:15:16.282Z"
 status: "active"
 ---
 

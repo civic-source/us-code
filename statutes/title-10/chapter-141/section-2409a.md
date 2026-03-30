@@ -3,9 +3,9 @@ title: "Section 2409a - Repealed. Pub. L. 103–355, title VI, § 6005(b)(1) , O
 usc_title: 10
 usc_section: "2409a"
 chapter: 141
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2409a"
-generated_at: "2026-03-30T08:11:47.994Z"
+generated_at: "2026-03-30T08:14:28.632Z"
 status: "repealed"
 ---
 

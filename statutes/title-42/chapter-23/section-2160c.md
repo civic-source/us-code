@@ -3,9 +3,9 @@ title: "Section 2160c - Consultation with Department of Defense concerning certa
 usc_title: 42
 usc_section: "2160c"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 2160c"
-generated_at: "2026-03-30T08:13:46.986Z"
+generated_at: "2026-03-30T08:16:21.037Z"
 status: "active"
 ---
 

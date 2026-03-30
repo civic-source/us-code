@@ -3,9 +3,9 @@ title: "Section 3275 - Authorization of appropriations"
 usc_title: 29
 usc_section: "3275"
 chapter: 32
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "29 U.S.C. § 3275"
-generated_at: "2026-03-30T08:12:46.761Z"
+generated_at: "2026-03-30T08:15:31.746Z"
 status: "active"
 ---
 

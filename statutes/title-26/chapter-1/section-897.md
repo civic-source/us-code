@@ -3,9 +3,9 @@ title: "Section 897 - Disposition of investment in United States real property"
 usc_title: 26
 usc_section: "897"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 897"
-generated_at: "2026-03-30T08:12:52.636Z"
+generated_at: "2026-03-30T08:15:44.859Z"
 status: "active"
 ---
 
@@ -131,7 +131,7 @@ status: "active"
       - **(ii)** the applicable percentage of the amounts realized by the qualified shareholder with respect to any disposition of stock in the real estate investment trust or with respect to any distribution from the real estate investment trust attributable to gain from sales or exchanges of a United States real property interest shall be treated as amounts realized from the disposition of United States real property interests.
     - **(C)** If a distribution by a real estate investment trust is treated as a sale or exchange of stock under section 301(c)(3), 302, or 331 with respect to a qualified shareholder—
       - **(i)** in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
-      - **(ii)** in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) 2 2 See References in Text note below. as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+      - **(ii)** in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) 1 1 See References in Text note below. as a dividend from a real estate investment trust notwithstanding any other provision of this title.
     - **(D)** For purposes of this subsection, the term “applicable investor” means, with respect to any qualified shareholder holding stock in a real estate investment trust, a person (other than a qualified shareholder) which—
       - **(i)** holds an interest (other than an interest solely as a creditor) in such qualified shareholder, and
       - **(ii)** holds more than 10 percent of the stock of such real estate investment trust (whether or not by reason of the person’s ownership interest in the qualified shareholder).

@@ -3,9 +3,9 @@ title: "Section 5688 - Disposition and release of seized property"
 usc_title: 26
 usc_section: "5688"
 chapter: 51
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 5688"
-generated_at: "2026-03-30T08:12:52.708Z"
+generated_at: "2026-03-30T08:15:44.939Z"
 status: "active"
 ---
 

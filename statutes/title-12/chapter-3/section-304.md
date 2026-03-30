@@ -3,9 +3,9 @@ title: "Section 304 - Class A and class B directors; selection"
 usc_title: 12
 usc_section: "304"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 304"
-generated_at: "2026-03-30T08:12:22.792Z"
+generated_at: "2026-03-30T08:14:49.975Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47144 - Use of funds for repairs for runway safety repairs"
 usc_title: 49
 usc_section: "47144"
 chapter: 471
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 47144"
-generated_at: "2026-03-30T08:13:59.075Z"
+generated_at: "2026-03-30T08:16:42.082Z"
 status: "active"
 ---
 

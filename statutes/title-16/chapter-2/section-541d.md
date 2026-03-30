@@ -3,9 +3,9 @@ title: "Section 541d - Acquisition of property within the scenic-research area; 
 usc_title: 16
 usc_section: "541d"
 chapter: 2
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 541d"
-generated_at: "2026-03-30T08:12:31.637Z"
+generated_at: "2026-03-30T08:15:12.512Z"
 status: "active"
 ---
 

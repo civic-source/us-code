@@ -3,9 +3,9 @@ title: "Section 1941 - Amount of insurance"
 usc_title: 38
 usc_section: "1941"
 chapter: 19
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 1941"
-generated_at: "2026-03-30T08:13:09.329Z"
+generated_at: "2026-03-30T08:15:55.101Z"
 status: "active"
 ---
 

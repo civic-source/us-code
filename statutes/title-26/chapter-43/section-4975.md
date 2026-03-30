@@ -3,9 +3,9 @@ title: "Section 4975 - Tax on prohibited transactions"
 usc_title: 26
 usc_section: "4975"
 chapter: 43
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 4975"
-generated_at: "2026-03-30T08:12:52.695Z"
+generated_at: "2026-03-30T08:15:44.925Z"
 status: "active"
 ---
 
@@ -220,7 +220,7 @@ status: "active"
       - **(i)** the fiduciary adviser provides appropriate disclosure, in connection with the sale, acquisition, or holding of the security or other property, in accordance with all applicable securities laws,
       - **(ii)** the sale, acquisition, or holding occurs solely at the direction of the recipient of the advice,
       - **(iii)** the compensation received by the fiduciary adviser and affiliates thereof in connection with the sale, acquisition, or holding of the security or other property is reasonable, and
-      - **(iv)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 5 transaction would be.
+      - **(iv)** the terms of the sale, acquisition, or holding of the security or other property are at least as favorable to the plan as an arm’s length 2 transaction would be.
     - **(H)**
       - **(i)** The requirements of this subparagraph are met if the notification required to be provided to participants and beneficiaries under subparagraph (F)(i) is written in a clear and conspicuous manner and in a manner calculated to be understood by the average plan participant and is sufficiently accurate and comprehensive to reasonably apprise such participants and beneficiaries of the information required to be provided in the notification.
       - **(ii)** The Secretary of Labor shall issue a model form for the disclosure of fees and other compensation required in subparagraph (F)(i)(III) which meets the requirements of clause (i).

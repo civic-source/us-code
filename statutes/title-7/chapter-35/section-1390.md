@@ -3,9 +3,9 @@ title: "Section 1390 - Separability"
 usc_title: 7
 usc_section: "1390"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1390"
-generated_at: "2026-03-30T08:12:04.676Z"
+generated_at: "2026-03-30T08:14:24.939Z"
 status: "active"
 ---
 

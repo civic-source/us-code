@@ -3,9 +3,9 @@ title: "Section 292 - Monopolizing or restraining trade and unduly enhancing pri
 usc_title: 7
 usc_section: "292"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 292"
-generated_at: "2026-03-30T08:12:04.651Z"
+generated_at: "2026-03-30T08:14:24.915Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1383e - Treatment referrals for individuals with alcoholism or d
 usc_title: 42
 usc_section: "1383e"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 1383e"
-generated_at: "2026-03-30T08:13:46.812Z"
+generated_at: "2026-03-30T08:16:20.823Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1118 - Biometrics expansion"
 usc_title: 6
 usc_section: "1118"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 1118"
-generated_at: "2026-03-30T08:11:36.763Z"
+generated_at: "2026-03-30T08:14:20.233Z"
 status: "active"
 ---
 
@@ -30,7 +30,7 @@ status: "active"
     - **(B)** A description of—
       - **(i)** all audits performed to assess—
         - **(I)** error rates in the use of biometric technologies; or
-        - **(II)** whether the use of biometric technologies and error rates in the use of such technologies disproportionately affect 2 2 So in original. Probably should be “affects”. a certain race, gender, or nationality; and
+        - **(II)** whether the use of biometric technologies and error rates in the use of such technologies disproportionately affect a certain race, gender, or nationality; and
       - **(ii)** the results of the audits described in clause (i).
     - **(C)** A description of the process by which domestic travelers are able to opt-out of scanning using biometric technologies.
     - **(D)** A description of—

@@ -3,9 +3,9 @@ title: "Section 3704b - National Technical Information Service"
 usc_title: 15
 usc_section: "3704b"
 chapter: 63
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 3704b"
-generated_at: "2026-03-30T08:12:15.391Z"
+generated_at: "2026-03-30T08:14:39.142Z"
 status: "active"
 ---
 
@@ -22,7 +22,7 @@ status: "active"
     - **(A)** for the procurement of supplies, materials, and equipment by the Service;
     - **(B)** referred to in paragraph (1)(C); or
     - **(C)** to be performed through joint ventures or cooperative agreements which do not result in a reduction in the Federal workforce of the affected programs of the service, 1 1 So in original. Probably should be capitalized.
-  - **(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 3710c(a)(4) 2 2 See References in Text note below. of this title, over operating expenses.
+  - **(3)** For the purposes of this subsection, the term “net revenues” means the excess of revenues and receipts from any source, other than royalties and other income described in section 13(a)(4) 2 2 See References in Text note below. of the Stevenson-Wydler Technology Innovation Act of 1980 ( 15 U.S.C. 3710c(a)(4) ), over operating expenses.
   - **(4)** Omitted.
 - **(b)** The management of the Service shall be vested in a Director who shall report to the Director of the National Institute of Standards and Technology and the Secretary of Commerce.
 - **(c)**
@@ -37,7 +37,7 @@ status: "active"
   - **(3)** make selected bibliographic information products available in a timely manner to depository libraries as part of the Depository Library Program of the Government Publishing Office;
   - **(4)** in conjunction with the private sector as appropriate, collect, translate into English, and disseminate unclassified foreign scientific, technical, and engineering information;
   - **(5)** implement new methods or media for the dissemination of scientific, technical, and engineering information, including producing and disseminating information products in electronic format; and
-  - **(6)** carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [ 15 U.S.C. 1151 et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988 , under this chapter.
+  - **(6)** carry out the functions and activities of the Secretary under the Act entitled “An Act to provide for the dissemination of technological, scientific, and engineering information to American business and industry, and for other purposes” enacted September 9, 1950 [ 15 U.S.C. 1151 et seq.], and the functions and activities of the Secretary performed through the National Technical Information Service as of October 24, 1988 , under the Stevenson-Wydler Technology Innovation Act of 1980 [ 15 U.S.C. 3701 et seq.].
 - **(f)**
   - **(1)** The Secretary of Commerce and the Director shall keep the appropriate committees of Congress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
   - **(2)** Within 90 days after October 24, 1988 , the Secretary of Commerce shall submit to the Congress a report on the current fee structure of the Service, including an explanation of the basis for the fees, taking into consideration all applicable costs, and the adequacy of the fees, along with reasons for the declining sales at the Service of scientific, technical, and engineering publications. Such report shall explain any actions planned or taken to increase such sales at reasonable fees.

@@ -3,9 +3,9 @@ title: "Section 7423 - Repayments to officers or employees"
 usc_title: 26
 usc_section: "7423"
 chapter: 76
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 7423"
-generated_at: "2026-03-30T08:12:52.744Z"
+generated_at: "2026-03-30T08:15:44.981Z"
 status: "active"
 ---
 

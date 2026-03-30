@@ -3,9 +3,9 @@ title: "Section 7771 - Acceptance of donations: land for mobilization, training,
 usc_title: 10
 usc_section: "7771"
 chapter: 779
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 7771"
-generated_at: "2026-03-30T08:11:48.021Z"
+generated_at: "2026-03-30T08:14:28.660Z"
 status: "active"
 ---
 

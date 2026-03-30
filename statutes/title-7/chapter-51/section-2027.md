@@ -3,9 +3,9 @@ title: "Section 2027 - Appropriations and allotments"
 usc_title: 7
 usc_section: "2027"
 chapter: 51
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 2027"
-generated_at: "2026-03-30T08:12:04.725Z"
+generated_at: "2026-03-30T08:14:24.985Z"
 status: "active"
 ---
 

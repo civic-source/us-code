@@ -3,9 +3,9 @@ title: "Section 387a - FDA authority over tobacco products"
 usc_title: 21
 usc_section: "387a"
 chapter: 9
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 387a"
-generated_at: "2026-03-30T08:12:40.208Z"
+generated_at: "2026-03-30T08:15:18.273Z"
 status: "active"
 ---
 

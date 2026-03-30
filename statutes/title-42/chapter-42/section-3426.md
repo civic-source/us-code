@@ -3,9 +3,9 @@ title: "Section 3426 - Repealed. Pub. L. 106–310, div. B, title XXXIV, § 3405
 usc_title: 42
 usc_section: "3426"
 chapter: 42
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 3426"
-generated_at: "2026-03-30T08:13:47.016Z"
+generated_at: "2026-03-30T08:16:21.074Z"
 status: "repealed"
 ---
 

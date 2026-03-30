@@ -3,9 +3,9 @@ title: "Section 5841 - Establishment and transfers"
 usc_title: 42
 usc_section: "5841"
 chapter: 73
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 5841"
-generated_at: "2026-03-30T08:13:47.061Z"
+generated_at: "2026-03-30T08:16:21.132Z"
 status: "active"
 ---
 

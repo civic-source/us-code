@@ -3,9 +3,9 @@ title: "Section 17253 - Geologic sequestration training and research"
 usc_title: 42
 usc_section: "17253"
 chapter: 152
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 17253"
-generated_at: "2026-03-30T08:13:47.270Z"
+generated_at: "2026-03-30T08:16:21.394Z"
 status: "active"
 ---
 

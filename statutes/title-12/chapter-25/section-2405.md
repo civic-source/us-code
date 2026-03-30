@@ -3,9 +3,9 @@ title: "Section 2405 - Executive Director and additional staff personnel; appoin
 usc_title: 12
 usc_section: "2405"
 chapter: 25
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 2405"
-generated_at: "2026-03-30T08:12:22.888Z"
+generated_at: "2026-03-30T08:14:50.076Z"
 status: "active"
 ---
 

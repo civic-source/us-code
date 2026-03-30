@@ -3,9 +3,9 @@ title: "Section 312 - Alternative timing system"
 usc_title: 49
 usc_section: "312"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 312"
-generated_at: "2026-03-30T08:13:58.998Z"
+generated_at: "2026-03-30T08:16:42.008Z"
 status: "active"
 ---
 
@@ -52,5 +52,5 @@ status: "active"
     - **(F)** require the entity to make any investments in technologies necessary over the life of the agreement to meet future requirements for advanced timing resiliency.
   - **(3)** The Secretary shall use competitive procedures similar to those authorized under section 2667 of title 10 in selecting an entity to enter into a cooperative agreement pursuant to this subsection.
   - **(4)** The Secretary may not purchase timing system services from the entity for use by the Department of Transportation or for provision to other Federal and non-Federal governmental agencies until the system achieves operational status, and then only if the necessary funds for such purchases are provided for in subsequent yearly appropriations acts made available to the Secretary for each and every year in which such purchases are made.
-  - **(5)** The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on 1 1 So in original. Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
+  - **(5)** The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on Committee on 1 1 So in original. Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
   - **(6)** In this subsection the term “entity” means a non-Federal entity with the demonstrated technical expertise and requisite administrative and financial resources to meet any terms and conditions established by the Secretary for purposes of this subsection.

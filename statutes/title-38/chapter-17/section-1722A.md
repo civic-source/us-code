@@ -3,9 +3,9 @@ title: "Section 1722A - Copayment for medications"
 usc_title: 38
 usc_section: "1722A"
 chapter: 17
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 1722A"
-generated_at: "2026-03-30T08:13:09.326Z"
+generated_at: "2026-03-30T08:15:55.095Z"
 status: "active"
 ---
 
@@ -18,7 +18,7 @@ status: "active"
     - **(A)** to a veteran with a service-connected disability rated 50 percent or more;
     - **(B)** to a veteran who is a former prisoner of war;
     - **(C)** to a veteran whose annual income (as determined under section 1503 of this title ) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title ; or
-    - **(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+    - **(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1 1 See References in Text note below. of title 14.
   - **(4)** Paragraph (1) does not apply to opioid antagonists furnished under this chapter to a veteran who is at high risk for overdose of a specific medication or substance in order to reverse the effect of such an overdose.
 - **(b)** The Secretary, pursuant to regulations which the Secretary shall prescribe, may—
   - **(1)** increase the copayment amount in effect under subsection (a); and

@@ -3,9 +3,9 @@ title: "Section 51 - Library"
 usc_title: 20
 usc_section: "51"
 chapter: 3
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 51"
-generated_at: "2026-03-30T08:12:35.746Z"
+generated_at: "2026-03-30T08:14:56.203Z"
 status: "active"
 ---
 

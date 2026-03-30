@@ -3,9 +3,9 @@ title: "Section 7151 - General transfers"
 usc_title: 42
 usc_section: "7151"
 chapter: 84
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 7151"
-generated_at: "2026-03-30T08:13:47.099Z"
+generated_at: "2026-03-30T08:16:21.180Z"
 status: "active"
 ---
 

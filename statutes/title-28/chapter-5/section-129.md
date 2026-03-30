@@ -3,9 +3,9 @@ title: "Section 129 - West Virginia"
 usc_title: 28
 usc_section: "129"
 chapter: 5
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "28 U.S.C. § 129"
-generated_at: "2026-03-30T08:12:54.797Z"
+generated_at: "2026-03-30T08:15:34.742Z"
 status: "active"
 ---
 

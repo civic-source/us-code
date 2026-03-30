@@ -3,9 +3,9 @@ title: "Section 1421h - Duties, taxes, and fees; proceeds collected to constitut
 usc_title: 48
 usc_section: "1421h"
 chapter: 8
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "48 U.S.C. § 1421h"
-generated_at: "2026-03-30T08:13:56.045Z"
+generated_at: "2026-03-30T08:16:24.238Z"
 status: "active"
 ---
 

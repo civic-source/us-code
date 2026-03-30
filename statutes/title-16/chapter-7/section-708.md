@@ -3,9 +3,9 @@ title: "Section 708 - State or Territorial laws or regulations"
 usc_title: 16
 usc_section: "708"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "16 U.S.C. § 708"
-generated_at: "2026-03-30T08:12:31.657Z"
+generated_at: "2026-03-30T08:15:12.534Z"
 status: "active"
 ---
 

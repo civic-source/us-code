@@ -3,9 +3,9 @@ title: "Section 922 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "922"
 chapter: 17
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "29 U.S.C. § 922"
-generated_at: "2026-03-30T08:12:46.712Z"
+generated_at: "2026-03-30T08:15:31.691Z"
 status: "repealed"
 ---
 

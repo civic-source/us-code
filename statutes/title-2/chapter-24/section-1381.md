@@ -3,9 +3,9 @@ title: "Section 1381 - Establishment of Office of Congressional Workplace Rights
 usc_title: 2
 usc_section: "1381"
 chapter: 24
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 1381"
-generated_at: "2026-03-30T08:11:34.313Z"
+generated_at: "2026-03-30T08:14:13.685Z"
 status: "active"
 ---
 
@@ -45,7 +45,7 @@ status: "active"
 - **(h)** The Office shall—
   - **(1)** carry out a program of education for Members of Congress and other employing authorities of the legislative branch of the Federal Government respecting the laws made applicable to them and a program to inform individuals of their rights under laws applicable to the legislative branch of the Federal Government;
   - **(2)** in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
-  - **(3)** compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
+  - **(3)** compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a claim, the basis for the claim, and the action taken on the claim.
 - **(i)** The Board and the Office shall be subject to oversight (except with respect to the disposition of individual cases) by the Committee on Rules and Administration and the Committee on Governmental Affairs 2 of the Senate and the Committee on House Oversight 2 of the House of Representatives.
 - **(j)** The Office shall be open for business, including receipt of requests for counseling under section 1402 of this title , not later than 1 year after January 23, 1995 .
 - **(k)** Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
@@ -72,3 +72,4 @@ status: "active"
     - **(A)** In carrying out paragraph (3), the Executive Director, in consultation with the Board, may make an appropriate redaction to the data included in the report described in paragraph (1) if the Executive Director, in consultation with the Board, determines that including the data considered for redaction may lead to the identity or position of a claimant unintentionally being disclosed. The report shall note each redaction and include a statement that the redaction was made solely for the purpose of avoiding such an unintentional disclosure of the identity or position of a claimant.
     - **(B)** The Executive Director shall retain a copy of the report described in paragraph (1), without redactions.
   - **(5)** In this subsection, the term “claimant” means an individual who received an award or settlement, or who made an allegation of a violation against an employing office, under part A of subchapter II.
+- **(m)** The Office shall establish and maintain a program for the permanent retention of its records, including the records of preliminary reviews, mediations, hearings, and other proceedings conducted under subchapter IV.

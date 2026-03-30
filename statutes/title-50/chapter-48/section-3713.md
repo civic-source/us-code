@@ -3,9 +3,9 @@ title: "Section 3713 - Authority for urgent threat reduction activities under De
 usc_title: 50
 usc_section: "3713"
 chapter: 48
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "50 U.S.C. § 3713"
-generated_at: "2026-03-30T08:13:55.296Z"
+generated_at: "2026-03-30T08:16:25.857Z"
 status: "active"
 ---
 

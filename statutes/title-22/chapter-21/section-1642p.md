@@ -3,9 +3,9 @@ title: "Section 1642p - Authorization of appropriations"
 usc_title: 22
 usc_section: "1642p"
 chapter: 21
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 1642p"
-generated_at: "2026-03-30T08:12:43.367Z"
+generated_at: "2026-03-30T08:15:20.714Z"
 status: "active"
 ---
 

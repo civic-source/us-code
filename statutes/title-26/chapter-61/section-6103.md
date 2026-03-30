@@ -3,9 +3,9 @@ title: "Section 6103 - Confidentiality and disclosure of returns and return info
 usc_title: 26
 usc_section: "6103"
 chapter: 61
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 6103"
-generated_at: "2026-03-30T08:12:52.718Z"
+generated_at: "2026-03-30T08:15:44.951Z"
 status: "active"
 ---
 
@@ -14,7 +14,7 @@ status: "active"
 - **(a)** Returns and return information shall be confidential, and except as authorized by this title—
   - **(1)** no officer or employee of the United States,
   - **(2)** no officer or employee of any State, any local law enforcement agency receiving information under subsection (i)(1)(C) or (7)(A), any local child support enforcement agency, or any local agency administering a program listed in subsection ( l )(7)(D) who has or had access to returns or return information under this section or section 6104(c), and
-  - **(3)** no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (e)(1)(D)(iii), subsection (k)(10), paragraph (6), (10), (12), (16), (19), (20), or (21) of subsection ( l ), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
+  - **(3)** no other person (or officer or employee thereof) who has or had access to returns or return information under subsection (e)(1)(D)(iii), paragraph (10), (13), or (14) of subsection (k), paragraph (6), (10), (12), (16), (19), (20), or (21) of subsection ( l ), paragraph (2) or (4)(B) of subsection (m), or subsection (n),
 - **(b)** For purposes of this section—
   - **(1)** The term “return” means any tax or information return, declaration of estimated tax, or claim for refund required by, or provided for or permitted under, the provisions of this title which is filed with the Secretary by, on behalf of, or with respect to any person, and any amendment or supplement thereto, including supporting schedules, attachments, or lists which are supplemental to, or part of, the return so filed.
   - **(2)** The term “return information” means—
@@ -270,7 +270,7 @@ status: "active"
   - **(3)** The Secretary may, but only following approval by the Joint Committee on Taxation, disclose such return information or any other information with respect to any specific taxpayer to the extent necessary for tax administration purposes to correct a misstatement of fact published or disclosed with respect to such taxpayer’s return or any transaction of the taxpayer with the Internal Revenue Service.
   - **(4)** A return or return information may be disclosed to a competent authority of a foreign government which has an income tax or gift and estate tax convention, or other convention or bilateral agreement relating to the exchange of tax information, with the United States but only to the extent provided in, and subject to the terms and conditions of, such convention or bilateral agreement.
   - **(5)** Taxpayer identity information with respect to any tax return preparer, and information as to whether or not any penalty has been assessed against such tax return preparer under section 6694, 6695, or 7216, may be furnished to any agency, body, or commission lawfully charged under any State or local law with the licensing, registration, or regulation of tax return preparers. Such information may be furnished only upon written request by the head of such agency, body, or commission designating the officers or employees to whom such information is to be furnished. Information may be furnished and used under this paragraph only for purposes of the licensing, registration, or regulation of tax return preparers.
-  - **(6)** An internal revenue officer or employee and an officer or employee of the Office of Treasury Inspector General for Tax Administration may, in connection with his official duties relating to any audit, collection activity, or civil or criminal tax investigation or any other offense under the internal revenue laws, disclose return information to the extent that such disclosure is necessary in obtaining information, which is not otherwise reasonably available, with respect to the correct determination of tax, liability for tax, or the amount to be collected or with respect to the enforcement of any other provision of this title. Such disclosures shall be made only in such situations and under such conditions as the Secretary may prescribe by regulation.
+  - **(6)** An internal revenue officer or employee and an officer or employee of the Office of Treasury Inspector General for Tax Administration may, in connection with his official duties relating to any audit, collection activity, or civil or criminal tax investigation or any other offense under the internal revenue laws, disclose return information to the extent that such disclosure is necessary in obtaining information, which is not otherwise reasonably available, with respect to the correct determination of tax, liability for tax, or the amount to be collected or with respect to the enforcement of any other provision of this title. Such disclosures shall be made only in such situations and under such conditions as the Secretary may prescribe by regulation. This paragraph shall not apply to any disclosure to an individual providing information relating to any purpose described in paragraph (1) or (2) of section 7623(a) which is made under paragraph (13)(A).
   - **(7)** To the extent the Secretary determines that disclosure is necessary to permit the effective administration of subtitle D, the Secretary may disclose—
     - **(A)** the name, address, and registration number of each person who is registered under any provision of subtitle D (and, in the case of a registered terminal operator, the address of each terminal operated by such operator), and
     - **(B)** the registration status of any person.
@@ -297,6 +297,34 @@ status: "active"
       - **(ii)** the amount of such seriously delinquent tax debt.
     - **(B)** Return information disclosed under subparagraph (A) may be used by officers and employees of the Department of State for the purposes of, and to the extent necessary in, carrying out the requirements of section 32101 of the FAST Act.
   - **(12)** Persons providing services pursuant to a qualified tax collection contract under section 6306 may, if speaking to a person who has identified himself or herself as having the name of the taxpayer to which a tax receivable (within the meaning of such section) relates, identify themselves as contractors of the Internal Revenue Service and disclose the business name of the contractor, and the nature, subject, and reason for the contact. Disclosures under this paragraph shall be made only in such situations and under such conditions as have been approved by the Secretary.
+  - **(13)**
+    - **(A)** The Secretary may disclose, to any individual providing information relating to any purpose described in paragraph (1) or (2) of section 7623(a), return information related to the investigation of any taxpayer with respect to whom the individual has provided such information, but only to the extent that such disclosure is necessary in obtaining information, which is not otherwise reasonably available, with respect to the correct determination of tax liability for tax, or the amount to be collected with respect to the enforcement of any other provision of this title.
+    - **(B)** The Secretary shall disclose to an individual providing information relating to any purpose described in paragraph (1) or (2) of section 7623(a) the following:
+      - **(i)** Not later than 60 days after a case for which the individual has provided information has been referred for an audit or examination, a notice with respect to such referral.
+      - **(ii)** Not later than 60 days after a taxpayer with respect to whom the individual has provided information has made a payment of tax with respect to tax liability to which such information relates, a notice with respect to such payment.
+      - **(iii)** Subject to such requirements and conditions as are prescribed by the Secretary, upon a written request by such individual—
+        - **(I)** information on the status and stage of any investigation or action related to such information, and
+        - **(II)** in the case of a determination of the amount of any award under section 7623(b), the reasons for such determination.
+  - **(14)**
+    - **(A)** Under such procedures and subject to such conditions as the Secretary may prescribe, the Secretary may disclose specified return information to specified ISAC participants to the extent that the Secretary determines such disclosure is in furtherance of effective Federal tax administration relating to the detection or prevention of identity theft tax refund fraud, validation of taxpayer identity, authentication of taxpayer returns, or detection or prevention of cybersecurity threats.
+    - **(B)** For purposes of this paragraph—
+      - **(i)** The term “specified ISAC participant” means—
+        - **(I)** any person designated by the Secretary as having primary responsibility for a function performed with respect to the information sharing and analysis center described in section 2003(a) of the Taxpayer First Act, and
+        - **(II)** any person subject to the requirements of section 7216 and which is a participant in such information sharing and analysis center.
+      - **(ii)** Such term shall not include any person unless such person has entered into a written agreement with the Secretary setting forth the terms and conditions for the disclosure of information to such person under this paragraph, including requirements regarding the protection and safeguarding of such information by such person.
+    - **(C)** For purposes of this paragraph, the term “specified return information” means—
+      - **(i)** in the case of a return which is in connection with a case of potential identity theft refund fraud—
+        - **(I)** in the case of such return filed electronically, the internet protocol address, device identification, email domain name, speed of completion, method of authentication, refund method, and such other return information related to the electronic filing characteristics of such return as the Secretary may identify for purposes of this subclause, and
+        - **(II)** in the case of such return prepared by a tax return preparer, identifying information with respect to such tax return preparer, including the preparer taxpayer identification number and electronic filer identification number of such preparer,
+      - **(ii)** in the case of a return which is in connection with a case of a identity theft refund fraud which has been confirmed by the Secretary (pursuant to such procedures as the Secretary may provide), the information referred to in subclauses (I) and (II) of clause (i), the name and taxpayer identification number of the taxpayer as it appears on the return, and any bank account and routing information provided for making a refund in connection with such return, and
+      - **(iii)** in the case of any cybersecurity threat to the Internal Revenue Service, information similar to the information described in subclauses (I) and (II) of clause (i) with respect to such threat.
+    - **(D)**
+      - **(i)** Any return information received by a person described in subparagraph (B)(i)(I) shall be used only for the purposes of and to the extent necessary in—
+        - **(I)** performing the function such person is designated to perform under such subparagraph,
+        - **(II)** facilitating disclosures authorized under subparagraph (A) to persons described in subparagraph (B)(i)(II), and
+        - **(III)** facilitating disclosures authorized under subsection (d) to participants in such information sharing and analysis center.
+      - **(ii)** Any return information received by a person described in subparagraph (B)(i)(II) shall be treated for purposes of section 7216 as information furnished to such person for, or in connection with, the preparation of a return of the tax imposed under chapter 1.
+    - **(E)** Return information disclosed under this paragraph shall be subject to such protections and safeguards as the Secretary may require in regulations or other guidance or in the written agreement referred to in subparagraph (B)(ii). Such written agreement shall include a requirement that any unauthorized access to information disclosed under this paragraph, and any breach of any system in which such information is held, be reported to the Treasury Inspector General for Tax Administration.
 - **(l)**
   - **(1)** The Secretary may, upon written request, disclose returns and return information with respect to—
     - **(A)** taxes imposed by chapters 2, 21, and 24, to the Social Security Administration for purposes of its administration of the Social Security Act;

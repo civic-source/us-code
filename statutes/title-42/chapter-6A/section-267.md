@@ -3,9 +3,9 @@ title: "Section 267 - Quarantine stations, grounds, and anchorages"
 usc_title: 42
 usc_section: "267"
 chapter: 6
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 267"
-generated_at: "2026-03-30T08:13:46.648Z"
+generated_at: "2026-03-30T08:16:20.618Z"
 status: "active"
 ---
 

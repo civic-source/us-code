@@ -3,9 +3,9 @@ title: "Section 2778 - Advancement of public funds to personnel"
 usc_title: 14
 usc_section: "2778"
 chapter: 27
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "14 U.S.C. § 2778"
-generated_at: "2026-03-30T08:12:07.361Z"
+generated_at: "2026-03-30T08:14:35.367Z"
 status: "active"
 ---
 

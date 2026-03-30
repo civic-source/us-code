@@ -3,9 +3,9 @@ title: "Section 13906 - Security of motor carriers, motor private carriers, brok
 usc_title: 49
 usc_section: "13906"
 chapter: 139
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 13906"
-generated_at: "2026-03-30T08:13:59.021Z"
+generated_at: "2026-03-30T08:16:42.029Z"
 status: "active"
 ---
 

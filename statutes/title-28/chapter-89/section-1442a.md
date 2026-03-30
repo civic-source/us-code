@@ -3,9 +3,9 @@ title: "Section 1442a - Members of armed forces sued or prosecuted"
 usc_title: 28
 usc_section: "1442a"
 chapter: 89
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "28 U.S.C. § 1442a"
-generated_at: "2026-03-30T08:12:54.811Z"
+generated_at: "2026-03-30T08:15:34.759Z"
 status: "active"
 ---
 

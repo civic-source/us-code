@@ -3,9 +3,9 @@ title: "Section 1371 - General adjustment of quotas"
 usc_title: 7
 usc_section: "1371"
 chapter: 35
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "7 U.S.C. § 1371"
-generated_at: "2026-03-30T08:12:04.675Z"
+generated_at: "2026-03-30T08:14:24.937Z"
 status: "active"
 ---
 

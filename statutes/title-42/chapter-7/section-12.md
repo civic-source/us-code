@@ -3,9 +3,9 @@ title: "Section 12 - Definitions"
 usc_title: 42
 usc_section: "12"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-03-30T08:13:46.916Z"
+generated_at: "2026-03-30T08:16:20.952Z"
 status: "active"
 ---
 

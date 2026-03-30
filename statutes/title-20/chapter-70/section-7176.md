@@ -3,9 +3,9 @@ title: "Section 7176 - Authorization of appropriations"
 usc_title: 20
 usc_section: "7176"
 chapter: 70
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 7176"
-generated_at: "2026-03-30T08:12:35.853Z"
+generated_at: "2026-03-30T08:14:56.318Z"
 status: "active"
 ---
 

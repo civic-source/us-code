@@ -3,9 +3,9 @@ title: "Section 1705 - National Drug Control Strategy"
 usc_title: 21
 usc_section: "1705"
 chapter: 22
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "21 U.S.C. § 1705"
-generated_at: "2026-03-30T08:12:40.231Z"
+generated_at: "2026-03-30T08:15:18.296Z"
 status: "active"
 ---
 
@@ -92,7 +92,7 @@ status: "active"
         - **(II)** state the specific roles and responsibilities of each relevant National Drug Control Program Agency for implementing the strategy;
         - **(III)** identify the specific resources required to enable the relevant National Drug Control Program Agencies to implement the strategy;
         - **(IV)** be designed to promote, and not hinder, legitimate trade and travel; and
-        - **(V)** reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law, enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
+        - **(V)** reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law, 2 2 So in original. The comma probably should not appear. enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
       - **(ii)** The Northern Border Counternarcotics Strategy shall include—
         - **(I)** a strategy to end the illegal trafficking of drugs to or through Indian reservations on or near the international border between the United States and Canada; and
         - **(II)** recommendations for additional assistance, if any, needed by Tribal law enforcement agencies relating to the strategy, including an evaluation of Federal technical and financial assistance, infrastructure capacity building, and interoperability deficiencies.
@@ -108,7 +108,7 @@ status: "active"
   - **(2)** specifying the date by which the Strategy will be submitted.
 - **(f)**
   - **(1)** The Director shall collect and disseminate, as appropriate, such information as the Director determines is appropriate, but not less than the information described in this subsection. The data shall be publicly available in a machine-readable format on the online portal of the Office, and to the extent practicable on the Drug Control Data Dashboard.
-  - **(2)** The Director shall publish to the online portal of the office 2 2 So in original. Probably should be “Office”. in a machine-readable, sortable, and searchable format, or to the extent practicable, establish and maintain a data dashboard on the online portal of the Office to be known as the “Drug Control Data Dashboard”. To the extent practicable, when establishing the Drug Control Dashboard, the Director shall ensure the user interface of the dashboard is constructed with modern design standards. To the extent practicable, the data made available on the dashboard shall be publicly available in a machine-readable format and searchable by year, agency, drug, and location.
+  - **(2)** The Director shall publish to the online portal of the office 3 3 So in original. Probably should be “Office”. in a machine-readable, sortable, and searchable format, or to the extent practicable, establish and maintain a data dashboard on the online portal of the Office to be known as the “Drug Control Data Dashboard”. To the extent practicable, when establishing the Drug Control Dashboard, the Director shall ensure the user interface of the dashboard is constructed with modern design standards. To the extent practicable, the data made available on the dashboard shall be publicly available in a machine-readable format and searchable by year, agency, drug, and location.
   - **(3)** The data included in the Drug Control Data Dashboard shall be updated quarterly to the extent practicable, but not less frequently than annually and shall include, at a minimum, the following:
     - **(A)** For each substance identified by the Director as having a significant impact on the prevalence of illicit drug use—
       - **(i)** data sufficient to show the quantities of such substance available in the United States, including—
@@ -117,12 +117,12 @@ status: "active"
         - **(III)** the total amount of known flows that could not be interdicted or disrupted in the calendar year and each of the previous 3 calendar years;
         - **(IV)** the known and estimated levels of domestic production in the calendar year and each of the previous three calendar years, including the levels of domestic production if the drug is a prescription drug, as determined under the Federal Food, Drug, and Cosmetic Act [ 21 U.S.C. 301 et seq.], for which a listing is in effect under section 812 of this title ;
         - **(V)** the average street price for the calendar year and the highest known street price during the preceding 10-year period; and
-        - **(VI)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 3 3 So in original. Probably should be followed by “and”.
+        - **(VI)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 4 4 So in original. Probably should be followed by “and”.
       - **(ii)** data sufficient to show the frequency of use of such substance, including—
         - **(I)** use of such substance in the workplace and productivity lost by such use;
         - **(II)** use of such substance by arrestees, probationers, and parolees;
-        - **(III)** crime and criminal activity related to such substance; 3
-        - **(IV)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 4 4 So in original. The semicolon probably should be a period.
+        - **(III)** crime and criminal activity related to such substance; 4
+        - **(IV)** to the extent practicable, related prosecutions by State, local, and Tribal governments; 5 5 So in original. The semicolon probably should be a period.
     - **(B)** For the calendar year and each of the previous three years data sufficient to show, disaggregated by State and, to the extent feasible, by region within a State, county, or city, the following:
       - **(i)** The number of fatal and non-fatal overdoses caused by each drug identified under subparagraph (A)(i).
       - **(ii)** The prevalence of substance use disorders.
@@ -143,6 +143,6 @@ status: "active"
     - **(H)** success in increasing the prevention of illicit drug use.
   - **(3)** The Director shall include in the annual assessment required under paragraph (1)—
     - **(A)** a summary of each evaluation received by the Director under paragraph (2);
-    - **(B)** a summary of the progress of each National Drug Control Program Agency toward the National Drug Control Strategy goals of the agency using the performance measures for the agency developed under this chapter; 5 5 See References in Text note below.
+    - **(B)** a summary of the progress of each National Drug Control Program Agency toward the National Drug Control Strategy goals of the agency using the performance measures for the agency developed under this chapter; 6 6 See References in Text note below.
     - **(C)** an assessment of the effectiveness of each National Drug Control Program Agency and program in achieving the National Drug Control Strategy for the previous year, including a specific evaluation of whether the applicable goals, measures, objectives, and targets for the previous year were met; and
-    - **(D)** the assessments required under this subsection shall be based on the Performance Measurement System. 6 6 So in original.
+    - **(D)** the assessments required under this subsection shall be based on the Performance Measurement System. 7 7 So in original.

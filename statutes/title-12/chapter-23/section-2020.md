@@ -3,9 +3,9 @@ title: "Section 2020 - Related services"
 usc_title: 12
 usc_section: "2020"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "12 U.S.C. § 2020"
-generated_at: "2026-03-30T08:12:22.876Z"
+generated_at: "2026-03-30T08:14:50.063Z"
 status: "active"
 ---
 

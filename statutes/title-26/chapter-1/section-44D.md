@@ -3,9 +3,9 @@ title: "Section 44D - Renumbered § 29]"
 usc_title: 26
 usc_section: "44D"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 44D"
-generated_at: "2026-03-30T08:12:52.522Z"
+generated_at: "2026-03-30T08:15:44.726Z"
 status: "renumbered"
 ---
 

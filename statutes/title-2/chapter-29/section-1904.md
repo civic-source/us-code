@@ -3,9 +3,9 @@ title: "Section 1904 - Certifying officers"
 usc_title: 2
 usc_section: "1904"
 chapter: 29
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 1904"
-generated_at: "2026-03-30T08:11:34.319Z"
+generated_at: "2026-03-30T08:14:13.692Z"
 status: "active"
 ---
 

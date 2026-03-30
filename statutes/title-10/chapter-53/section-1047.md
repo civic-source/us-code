@@ -3,9 +3,9 @@ title: "Section 1047 - Allowance for civilian clothing"
 usc_title: 10
 usc_section: "1047"
 chapter: 53
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 1047"
-generated_at: "2026-03-30T08:11:47.945Z"
+generated_at: "2026-03-30T08:14:28.583Z"
 status: "active"
 ---
 

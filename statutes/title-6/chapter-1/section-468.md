@@ -3,9 +3,9 @@ title: "Section 468 - Preserving Coast Guard mission performance"
 usc_title: 6
 usc_section: "468"
 chapter: 1
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "6 U.S.C. § 468"
-generated_at: "2026-03-30T08:11:36.747Z"
+generated_at: "2026-03-30T08:14:20.219Z"
 status: "active"
 ---
 
@@ -32,4 +32,4 @@ status: "active"
   - **(1)** The Secretary may not substantially or significantly reduce the missions of the Coast Guard or the Coast Guard’s capability to perform those missions, except as specified in subsequent Acts.
   - **(2)** The Secretary may waive the restrictions under paragraph (1) for a period of not to exceed 90 days upon a declaration and certification by the Secretary to Congress that a clear, compelling, and immediate need exists for such a waiver. A certification under this paragraph shall include a detailed justification for the declaration and certification, including the reasons and specific information that demonstrate that the Nation and the Coast Guard cannot respond effectively if the restrictions under paragraph (1) are not waived.
 - **(f)** Upon the transfer of the Coast Guard to the Department, the Commandant shall report directly to the Secretary without being required to report through any other official of the Department.
-- **(g)** None of the conditions and restrictions in this section shall apply when the Coast Guard operates as a service in the Navy under section 3 1 1 See References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note below. of title 14.
+- **(g)** None of the conditions and restrictions in this section shall apply when the Coast Guard operates as a service in the Navy under section 3 1 1 See References in Text note below. of title 14.

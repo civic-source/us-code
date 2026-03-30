@@ -3,9 +3,9 @@ title: "Section 18443 - Eligibility for service of individual currently serving 
 usc_title: 42
 usc_section: "18443"
 chapter: 159
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 18443"
-generated_at: "2026-03-30T08:13:47.283Z"
+generated_at: "2026-03-30T08:16:21.411Z"
 status: "active"
 ---
 

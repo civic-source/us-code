@@ -3,9 +3,9 @@ title: "Section 44803 - Unmanned aircraft test ranges"
 usc_title: 49
 usc_section: "44803"
 chapter: 448
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "49 U.S.C. § 44803"
-generated_at: "2026-03-30T08:13:59.063Z"
+generated_at: "2026-03-30T08:16:42.070Z"
 status: "active"
 ---
 
@@ -27,7 +27,7 @@ status: "active"
     - **(E)** improving privacy protections through the use of advances in unmanned aircraft systems technology;
   - **(8)** coordinate periodically with all test range operators to ensure test range operators know which data should be collected, what procedures should be followed, and what research would advance efforts to safely integrate unmanned aircraft systems into the national airspace system;
   - **(9)** streamline to the extent practicable the approval process for test ranges when processing unmanned aircraft certificates of waiver or authorization for operations at the test sites;
-  - **(10)** require each test range operator to protect proprietary technology, sensitive data, or sensitive research of any civil or private entity when using that test range without the need to obtain an experimental or special airworthiness certificate;
+  - **(10)** require each test range operator to protect proprietary technology, sensitive data, or sensitive research of any civil or private entity when using that test range without the need to obtain an experimental or special airworthiness certificate; 1 1 So in original. Probably should be followed by “and”.
   - **(11)** allow test range operators to receive Federal funding, other than from the Federal Aviation Administration, including in-kind contributions, from test range participants in the furtherance of research, development, and testing objectives.
 - **(c)** In carrying out this section the Administrator may waive the requirements of section 44711 of title 49 , United States Code, including related regulations, to the extent consistent with aviation safety.
 - **(d)** The operator of each test range under subsection (a) shall—

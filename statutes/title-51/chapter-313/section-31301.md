@@ -3,9 +3,9 @@ title: "Section 31301 - Healthcare program"
 usc_title: 51
 usc_section: "31301"
 chapter: 313
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "51 U.S.C. § 31301"
-generated_at: "2026-03-30T08:14:00.940Z"
+generated_at: "2026-03-30T08:16:47.083Z"
 status: "active"
 ---
 

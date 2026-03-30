@@ -3,9 +3,9 @@ title: "Section 49e - Allotment of funds"
 usc_title: 29
 usc_section: "49e"
 chapter: 4
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "29 U.S.C. § 49e"
-generated_at: "2026-03-30T08:12:46.688Z"
+generated_at: "2026-03-30T08:15:31.658Z"
 status: "active"
 ---
 

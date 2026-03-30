@@ -3,9 +3,9 @@ title: "Section 1022c - Inclusion of priority policies and programs in President
 usc_title: 15
 usc_section: "1022c"
 chapter: 21
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 1022c"
-generated_at: "2026-03-30T08:12:15.330Z"
+generated_at: "2026-03-30T08:14:39.076Z"
 status: "active"
 ---
 

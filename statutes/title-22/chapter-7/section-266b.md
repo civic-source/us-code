@@ -3,9 +3,9 @@ title: "Section 266b - Repealed. June 11, 1940, ch. 306 , 54 Stat. 263"
 usc_title: 22
 usc_section: "266b"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "22 U.S.C. § 266b"
-generated_at: "2026-03-30T08:12:43.342Z"
+generated_at: "2026-03-30T08:15:20.691Z"
 status: "repealed"
 ---
 

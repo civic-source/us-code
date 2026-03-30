@@ -3,9 +3,9 @@ title: "Section 6611 - Damages in tort claims"
 usc_title: 15
 usc_section: "6611"
 chapter: 92
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 6611"
-generated_at: "2026-03-30T08:12:15.407Z"
+generated_at: "2026-03-30T08:14:39.161Z"
 status: "active"
 ---
 

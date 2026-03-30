@@ -3,9 +3,9 @@ title: "Section 36a - Suicide prevention for youth"
 usc_title: 42
 usc_section: "36a"
 chapter: 6
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 36a"
-generated_at: "2026-03-30T08:13:46.679Z"
+generated_at: "2026-03-30T08:16:20.657Z"
 status: "active"
 ---
 

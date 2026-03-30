@@ -3,9 +3,9 @@ title: "Section 3615 - Criminal default"
 usc_title: 18
 usc_section: "3615"
 chapter: 229
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "18 U.S.C. § 3615"
-generated_at: "2026-03-30T08:12:32.652Z"
+generated_at: "2026-03-30T08:14:54.417Z"
 status: "active"
 ---
 

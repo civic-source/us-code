@@ -3,9 +3,9 @@ title: "Section 1405c - Transfer of property to government"
 usc_title: 48
 usc_section: "1405c"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "48 U.S.C. § 1405c"
-generated_at: "2026-03-30T08:13:56.044Z"
+generated_at: "2026-03-30T08:16:24.237Z"
 status: "active"
 ---
 

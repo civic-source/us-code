@@ -3,9 +3,9 @@ title: "Section 2431b - Risk management and mitigation in major defense acquisit
 usc_title: 10
 usc_section: "2431b"
 chapter: 144
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "10 U.S.C. § 2431b"
-generated_at: "2026-03-30T08:11:47.995Z"
+generated_at: "2026-03-30T08:14:28.634Z"
 status: "active"
 ---
 

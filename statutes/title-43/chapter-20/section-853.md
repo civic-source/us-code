@@ -3,9 +3,9 @@ title: "Section 853 - Selections in Utah to supply deficiencies of school lands"
 usc_title: 43
 usc_section: "853"
 chapter: 20
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "43 U.S.C. § 853"
-generated_at: "2026-03-30T08:13:17.411Z"
+generated_at: "2026-03-30T08:16:01.996Z"
 status: "active"
 ---
 

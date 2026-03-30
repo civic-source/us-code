@@ -3,9 +3,9 @@ title: "Section 3762 - Direct housing loans to Native American veterans; program
 usc_title: 38
 usc_section: "3762"
 chapter: 37
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 3762"
-generated_at: "2026-03-30T08:13:09.349Z"
+generated_at: "2026-03-30T08:15:55.141Z"
 status: "active"
 ---
 
@@ -31,13 +31,8 @@ status: "active"
     - **(E)** That the tribal organization agrees to such other terms and conditions with respect to the making of direct loans to Native American veterans under the jurisdiction of the tribal organization as the Secretary may require in order to ensure that loans under this subchapter are made in a responsible and prudent manner.
   - **(2)** The Secretary may not enter into a memorandum of understanding with a tribal organization under this subsection unless the Secretary determines that the memorandum provides for such standards and procedures as are necessary for the reasonable protection of the financial interests of the United States.
 - **(c)**
-  - **(1)**
-    - **(A)** Except as provided in subparagraph (B), the principal amount of any direct housing loan made to a Native American veteran under this section may not exceed $80,000.
-    - **(B)**
-      - **(i)** Subject to clause (ii), the Secretary may make loans exceeding the amount specified in subparagraph (A) in a geographic area if the Secretary determines that housing costs in the area are significantly higher than average housing costs nationwide. The amount of such increase shall be the amount that the Secretary determines is necessary in order to make direct housing loans under this subchapter to Native American veterans who are located in a variety of geographic areas and in geographic areas experiencing a variety of economic conditions.
-      - **(ii)** The amount of a loan made by the Secretary under this subchapter may not exceed the maximum loan amount authorized for loans guaranteed under section 3703(a)(1)(C) of this title .
-  - **(2)** Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title , and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
-  - **(3)** Notwithstanding section 3704(a) of this title , the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
+  - **(1)** 1 1 See Applicability of Amendment note below. Loans made under this section shall bear interest at a rate determined by the Secretary, which rate may not exceed the appropriate rate authorized for guaranteed loans under section 3703(c)(1) or section 3712(f) of this title , and shall be subject to such requirements or limitations prescribed for loans guaranteed under this title as the Secretary may prescribe.
+  - **(2)** Notwithstanding section 3704(a) of this title , the Secretary shall establish minimum requirements for planning, construction, improvement, and general acceptability relating to any direct loan made under this section.
 - **(d)**
   - **(1)** The Secretary shall establish credit underwriting standards to be used in evaluating loans made under this subchapter. In establishing such standards, the Secretary shall take into account the purpose of this program to make available housing to Native American veterans living on trust lands.
   - **(2)** The Secretary shall determine the reasonable value of the interest in property that will serve as security for a loan made under this section and shall establish procedures for appraisals upon which the Secretary may base such determinations. The procedures shall incorporate generally the relevant requirements of section 3731 of this title , unless the Secretary determines that such requirements are impracticable to implement in a geographic area, on particular trust lands, or under circumstances specified by the Secretary.

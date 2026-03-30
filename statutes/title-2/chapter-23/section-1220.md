@@ -3,9 +3,9 @@ title: "Section 1220 - Transferred"
 usc_title: 2
 usc_section: "1220"
 chapter: 23
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "2 U.S.C. § 1220"
-generated_at: "2026-03-30T08:11:34.311Z"
+generated_at: "2026-03-30T08:14:13.683Z"
 status: "transferred"
 ---
 

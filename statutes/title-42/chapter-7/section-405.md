@@ -3,9 +3,9 @@ title: "Section 405 - Evidence, procedure, and certification for payments"
 usc_title: 42
 usc_section: "405"
 chapter: 7
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 405"
-generated_at: "2026-03-30T08:13:46.754Z"
+generated_at: "2026-03-30T08:16:20.751Z"
 status: "active"
 ---
 
@@ -286,7 +286,7 @@ status: "active"
         - **(I)** The Commissioner shall make annual grants, in an amount equal to 4 percent of the total amount of grants awarded each year under clause (i), to an eligible national association for the provision of training and technical assistance, administrative support, and data collection services to protection and advocacy systems in connection with grants awarded under clause (i).
         - **(II)** In this clause, the term “eligible national association” means a national disability association with extensive knowledge and demonstrated experience in providing training, technical assistance, and administrative oversight to protection and advocacy systems that monitor representative payees.
       - **(vi)** In conducting reviews under this section, a protection and advocacy system shall have the same authorities, including access to records, facilities, and persons, as such system would have for purposes of providing services under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).
-      - **(vii)** Whenever benefit amounts under this title are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 415(i) of this title , each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.
+      - **(vii)** Whenever benefit amounts under this subchapter are increased by any percentage effective with any month after November 2018 as a result of a determination made under section 415(i) of this title , each of the dollar amounts specified in clauses (i)(II) and (iv)(II) shall be increased by the same percentage.
       - **(viii)** No additional funds are authorized to be appropriated to carry out the requirements of this subparagraph. Such requirements shall be carried out using amounts otherwise authorized.
       - **(ix)** In this subparagraph:
         - **(I)** The term “American Indian consortium” means a consortium established under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ( 42 U.S.C. 15041 et seq.).

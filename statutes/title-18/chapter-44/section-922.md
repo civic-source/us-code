@@ -3,9 +3,9 @@ title: "Section 922 - Unlawful acts"
 usc_title: 18
 usc_section: "922"
 chapter: 44
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "18 U.S.C. § 922"
-generated_at: "2026-03-30T08:12:32.583Z"
+generated_at: "2026-03-30T08:14:54.376Z"
 status: "active"
 ---
 

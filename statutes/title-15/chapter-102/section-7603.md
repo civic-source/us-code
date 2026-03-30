@@ -3,9 +3,9 @@ title: "Section 7603 - Prescriber verification"
 usc_title: 15
 usc_section: "7603"
 chapter: 102
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "15 U.S.C. § 7603"
-generated_at: "2026-03-30T08:12:15.417Z"
+generated_at: "2026-03-30T08:14:39.173Z"
 status: "active"
 ---
 

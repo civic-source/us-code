@@ -3,9 +3,9 @@ title: "Section 10005 - Model statute"
 usc_title: 42
 usc_section: "10005"
 chapter: 107
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "42 U.S.C. § 10005"
-generated_at: "2026-03-30T08:13:47.178Z"
+generated_at: "2026-03-30T08:16:21.280Z"
 status: "active"
 ---
 

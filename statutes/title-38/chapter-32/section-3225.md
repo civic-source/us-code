@@ -3,9 +3,9 @@ title: "Section 3225 - Discharge or release under conditions which would bar the
 usc_title: 38
 usc_section: "3225"
 chapter: 32
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "38 U.S.C. § 3225"
-generated_at: "2026-03-30T08:13:09.339Z"
+generated_at: "2026-03-30T08:15:55.118Z"
 status: "active"
 ---
 

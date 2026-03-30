@@ -3,9 +3,9 @@ title: "Section 113 - Repealed. Oct. 11, 1951, ch. 495, § 5 , 65 Stat. 407"
 usc_title: 33
 usc_section: "113"
 chapter: 2
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "33 U.S.C. § 113"
-generated_at: "2026-03-30T08:13:01.695Z"
+generated_at: "2026-03-30T08:15:49.783Z"
 status: "repealed"
 ---
 

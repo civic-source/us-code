@@ -3,9 +3,9 @@ title: "Section 1207a - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1207a"
 chapter: 30
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "20 U.S.C. § 1207a"
-generated_at: "2026-03-30T08:12:35.808Z"
+generated_at: "2026-03-30T08:14:56.272Z"
 status: "repealed"
 ---
 

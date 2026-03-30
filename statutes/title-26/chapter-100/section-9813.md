@@ -3,9 +3,9 @@ title: "Section 9813 - Coverage of dependent students on medically necessary lea
 usc_title: 26
 usc_section: "9813"
 chapter: 100
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "26 U.S.C. § 9813"
-generated_at: "2026-03-30T08:12:52.763Z"
+generated_at: "2026-03-30T08:15:45.005Z"
 status: "active"
 ---
 

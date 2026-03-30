@@ -3,9 +3,9 @@ title: "Section 1440e - Exemption from naturalization fees for aliens naturalize
 usc_title: 8
 usc_section: "1440e"
 chapter: 12
-current_through: "PL 116-21"
+current_through: "PL 116-29"
 classification: "8 U.S.C. § 1440e"
-generated_at: "2026-03-30T08:11:38.416Z"
+generated_at: "2026-03-30T08:14:32.758Z"
 status: "active"
 ---
 
